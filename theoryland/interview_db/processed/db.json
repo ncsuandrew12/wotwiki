@@ -1,0 +1,5884 @@
+{
+  "1": {
+    "id": 1,
+    "date": "1994-10-21",
+    "title": "AOL Chat 1"
+  },
+  "10": {
+    "id": 10,
+    "date": "1992-10-01",
+    "title": "TSR Signing Report - John Brannick"
+  },
+  "100": {
+    "id": 100,
+    "date": "1998-11-18",
+    "title": "TPOD Signing Report - Melinda Yin"
+  },
+  "1000": {
+    "id": 1000,
+    "date": "2013-04-21",
+    "title": "Invisible Vanguard Author Interview: Brandon Sanderson"
+  },
+  "1001": {
+    "id": 1001,
+    "date": "2013-01-12",
+    "title": "AMOL Signing Report - nutsocharles"
+  },
+  "1002": {
+    "id": 1002,
+    "date": "2013-01-08",
+    "title": "AMOL Signing Report - ziggl"
+  },
+  "1003": {
+    "id": 1003,
+    "date": "2013-02-01",
+    "title": "AMOL Signing Report - TsorovanSaidin"
+  },
+  "1004": {
+    "id": 1004,
+    "date": "2013-02-01",
+    "title": "AMOL Signing Report - craiye"
+  },
+  "1005": {
+    "id": 1005,
+    "date": "2013-02-08",
+    "title": "AMOL Signing Report - vehiclestars"
+  },
+  "1006": {
+    "id": 1006,
+    "date": "2010-09-09",
+    "title": "TWOK Signing Report - HardcorePooka"
+  },
+  "1007": {
+    "id": 1007,
+    "date": "2010-08-31",
+    "title": "TWOK Signing Report - Silus Shard of Flame"
+  },
+  "1008": {
+    "id": 1008,
+    "date": "2013-07-16",
+    "title": "Big Shiny Robot Interview: Brandon Sanderson"
+  },
+  "1009": {
+    "id": 1009,
+    "date": "2013-07-19",
+    "title": "Austin Teen Book Festival Interview"
+  },
+  "101": {
+    "id": 101,
+    "date": "1998-11-18",
+    "title": "TPOD Signing Report - John Hamby"
+  },
+  "1010": {
+    "id": 1010,
+    "date": "2012-10-26",
+    "title": "Hal-Con Geek TV Episode 3: Brandon Sanderson Interview"
+  },
+  "1011": {
+    "id": 1011,
+    "date": "2012-03-16",
+    "title": "A \"Late-Breaking\" Report"
+  },
+  "1012": {
+    "id": 1012,
+    "date": "2009-06-20",
+    "title": "Idaho Falls Signing Report - Andrew the Great"
+  },
+  "1013": {
+    "id": 1013,
+    "date": "2011-12-18",
+    "title": "Alloy of Law Signing Report - Finallity"
+  },
+  "1014": {
+    "id": 1014,
+    "date": "2013-08-09",
+    "title": "Kindle Daily Post Interview"
+  },
+  "1015": {
+    "id": 1015,
+    "date": "2011-01-01",
+    "title": "Reddit 2011 (WoT)"
+  },
+  "1016": {
+    "id": 1016,
+    "date": "2011-01-01",
+    "title": "Reddit 2011 (Non-WoT)"
+  },
+  "1017": {
+    "id": 1017,
+    "date": "2013-08-21",
+    "title": "Talking With Tom: A Conversation Between Tom Doherty and Brandon Sanderson"
+  },
+  "1018": {
+    "id": 1018,
+    "date": "2013-09-24",
+    "title": "New Release Interview: Steelheart by Brandon Sanderson"
+  },
+  "1019": {
+    "id": 1019,
+    "date": "2013-07-10",
+    "title": "SpoCon 2013"
+  },
+  "102": {
+    "id": 102,
+    "date": "1998-11-20",
+    "title": "TPOD Signing Report - John Nowacki"
+  },
+  "1020": {
+    "id": 1020,
+    "date": "2013-09-23",
+    "title": "The Great Salty One: An Interview with Brandon Sanderson"
+  },
+  "1021": {
+    "id": 1021,
+    "date": "2013-10-09",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Retrospective: The Notes"
+  },
+  "1022": {
+    "id": 1022,
+    "date": "2013-10-10",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Retrospective: The Process"
+  },
+  "1023": {
+    "id": 1023,
+    "date": "2013-10-15",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Retrospective: The Gathering Storm: Writing Process"
+  },
+  "1024": {
+    "id": 1024,
+    "date": "2013-10-17",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Retrospective: The Gathering Storm: What I Learned"
+  },
+  "1025": {
+    "id": 1025,
+    "date": "2013-10-22",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Retrospective: Towers of Midnight: Writing Process"
+  },
+  "1026": {
+    "id": 1026,
+    "date": "2013-10-24",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Retrospective: Towers of Midnight: What I Learned"
+  },
+  "1027": {
+    "id": 1027,
+    "date": "2013-10-30",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Retrospective: A Memory of Light: Perrin and Egwene"
+  },
+  "1028": {
+    "id": 1028,
+    "date": "2013-11-01",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Retrospective: A Memory of Light: The Black Tower"
+  },
+  "1029": {
+    "id": 1029,
+    "date": "2009-03-01",
+    "title": "Mormon Artist: Interview with Brandon Sanderson"
+  },
+  "103": {
+    "id": 103,
+    "date": "1998-11-21",
+    "title": "TPOD Signing Report - John Hamby"
+  },
+  "1030": {
+    "id": 1030,
+    "date": "2013-08-31",
+    "title": "WorldCon Flash AMA"
+  },
+  "1031": {
+    "id": 1031,
+    "date": "2013-11-12",
+    "title": "What a Nerd Girl Says: Exclusive Interview with Fantasy Author, Brandon Sanderson!"
+  },
+  "1032": {
+    "id": 1032,
+    "date": "2013-09-29",
+    "title": "Lytherus Interview: Brandon Sanderson dives into the world of Steelheart"
+  },
+  "1033": {
+    "id": 1033,
+    "date": "2013-05-31",
+    "title": "Dear [Me], Brandon Sanderson"
+  },
+  "1034": {
+    "id": 1034,
+    "date": "2013-09-24",
+    "title": "Interview with Brandon Sanderson - Chris King (Miyabi)"
+  },
+  "1035": {
+    "id": 1035,
+    "date": "2013-12-09",
+    "title": "Pocatello Signing Report - Lady Radagu"
+  },
+  "1036": {
+    "id": 1036,
+    "date": "2013-12-09",
+    "title": "Pocatello Signing Report - LairdDuncan"
+  },
+  "1037": {
+    "id": 1037,
+    "date": "2013-10-01",
+    "title": "Steelheart Signing Report - Argent"
+  },
+  "1038": {
+    "id": 1038,
+    "date": "2013-10-05",
+    "title": "Steelheart Signing Report - Argent"
+  },
+  "1039": {
+    "id": 1039,
+    "date": "2013-10-11",
+    "title": "Steelheart Signing Report - otomo"
+  },
+  "104": {
+    "id": 104,
+    "date": "1998-11-21",
+    "title": "TPOD Signing Report - Rachel K. Warren"
+  },
+  "1040": {
+    "id": 1040,
+    "date": "2013-10-08",
+    "title": "Steelheart Signing Report - Mysty"
+  },
+  "1041": {
+    "id": 1041,
+    "date": "2013-08-08",
+    "title": "Spokane Signing Report - theofficetroll"
+  },
+  "1042": {
+    "id": 1042,
+    "date": "2013-11-16",
+    "title": "Steelheart Signing Report - askthepaperclip"
+  },
+  "1043": {
+    "id": 1043,
+    "date": "2013-12-07",
+    "title": "Idaho Falls Signing Report - PrncRny"
+  },
+  "1044": {
+    "id": 1044,
+    "date": "2014-03-24",
+    "title": "Fantasy Faction Interview: Brandon Sanderson Stormlight Interview"
+  },
+  "1045": {
+    "id": 1045,
+    "date": "2014-03-19",
+    "title": "WOR Signing Report - Res Ipsa"
+  },
+  "1046": {
+    "id": 1046,
+    "date": "2014-03-29",
+    "title": "WOR Signing Report - Nicrosil"
+  },
+  "1047": {
+    "id": 1047,
+    "date": "2014-03-29",
+    "title": "WOR Signing Report - Herowannabe"
+  },
+  "1048": {
+    "id": 1048,
+    "date": "2014-03-20",
+    "title": "WOR Signing Report - IronCaf"
+  },
+  "1049": {
+    "id": 1049,
+    "date": "2014-03-21",
+    "title": "WOR Signing Report - Kurkistan"
+  },
+  "105": {
+    "id": 105,
+    "date": "1998-11-21",
+    "title": "TPOD Signing Report - Ray Chason"
+  },
+  "1050": {
+    "id": 1050,
+    "date": "2014-03-21",
+    "title": "WOR Signing Report - macros"
+  },
+  "1051": {
+    "id": 1051,
+    "date": "2013-01-10",
+    "title": "AMOL Signing Report - NutiketAiel"
+  },
+  "1052": {
+    "id": 1052,
+    "date": "2014-03-21",
+    "title": "WOR Signing Table Q&A"
+  },
+  "1053": {
+    "id": 1053,
+    "date": "1984-01-01",
+    "title": "Outline: The Eye of the World"
+  },
+  "1054": {
+    "id": 1054,
+    "date": "2014-04-10",
+    "title": "JordanCon 2014: WoT Q&A with Brandon Sanderson"
+  },
+  "1055": {
+    "id": 1055,
+    "date": "2014-02-02",
+    "title": "Interview with NY Times bestselling 'Mistborn' & 'Steelheart' author Brandon Sanderson"
+  },
+  "1056": {
+    "id": 1056,
+    "date": "2014-03-02",
+    "title": "Brandon Sanderson gears up for release of latest novel"
+  },
+  "1057": {
+    "id": 1057,
+    "date": "2014-03-18",
+    "title": "Brandon Sanderson: \"We haven't hit what epic fantasy is capable of yet\""
+  },
+  "1058": {
+    "id": 1058,
+    "date": "2014-03-19",
+    "title": "SF Book Interview with Brandon Sanderson"
+  },
+  "1059": {
+    "id": 1059,
+    "date": "2014-03-20",
+    "title": "Sci-Fi Bulletin Interview: Brandon Sanderson"
+  },
+  "106": {
+    "id": 106,
+    "date": "1999-08-27",
+    "title": "Melbourne Film Festival - Mark Erikson"
+  },
+  "1060": {
+    "id": 1060,
+    "date": "2014-03-18",
+    "title": "Graeme + Brandon Sanderson + Three Questions = ?"
+  },
+  "1061": {
+    "id": 1061,
+    "date": "2014-03-17",
+    "title": "SFFWorld: Brandon Sanderson Exclusive Interview"
+  },
+  "1062": {
+    "id": 1062,
+    "date": "2013-11-10",
+    "title": "Deliciously Evil! A blogoversary interview with Brandon Sanderson!"
+  },
+  "1063": {
+    "id": 1063,
+    "date": "2014-03-01",
+    "title": "Words of wonder: Brandon Sanderson seeks, delivers 'something big' in epic fantasy"
+  },
+  "1064": {
+    "id": 1064,
+    "date": "2014-04-22",
+    "title": "Brandon Sanderson: Heralding a New Era of Fantasy"
+  },
+  "1065": {
+    "id": 1065,
+    "date": "2014-01-28",
+    "title": "Brandon Sanderson's Blog: Regarding Awards"
+  },
+  "1066": {
+    "id": 1066,
+    "date": "2014-04-21",
+    "title": "Brandon Sanderson's Blog: The Wheel of Time Nominated for a Hugo Award"
+  },
+  "1067": {
+    "id": 1067,
+    "date": "2013-09-24",
+    "title": "Steelheart Release Party"
+  },
+  "1068": {
+    "id": 1068,
+    "date": "2014-06-10",
+    "title": "Tor.com The Way of Kings Re-read Interview with Brandon Sanderson"
+  },
+  "1069": {
+    "id": 1069,
+    "date": "2014-03-11",
+    "title": "WoR Signing Report - Awesomeness Summoned"
+  },
+  "107": {
+    "id": 107,
+    "date": "1999-08-27",
+    "title": "Melbourne Film Festival - Raf Kaplan"
+  },
+  "1070": {
+    "id": 1070,
+    "date": "2014-03-04",
+    "title": "WoR Signing Report - Leinton"
+  },
+  "1071": {
+    "id": 1071,
+    "date": "2014-03-04",
+    "title": "WoR Signing Report - Pinpoint"
+  },
+  "1072": {
+    "id": 1072,
+    "date": "2014-03-04",
+    "title": "WoR Signing Report - scm288"
+  },
+  "1073": {
+    "id": 1073,
+    "date": "2014-03-04",
+    "title": "WoR Signing Report - DefiantBurrito"
+  },
+  "1074": {
+    "id": 1074,
+    "date": "2014-03-05",
+    "title": "WoR Signing Report - ericth"
+  },
+  "1075": {
+    "id": 1075,
+    "date": "2014-03-05",
+    "title": "WoR Signing Report - Sir Read-a-Lot"
+  },
+  "1076": {
+    "id": 1076,
+    "date": "2014-03-06",
+    "title": "WoR Signing Report - Bartbug"
+  },
+  "1077": {
+    "id": 1077,
+    "date": "2014-03-07",
+    "title": "WoR Signing Report - Kogiopsis"
+  },
+  "1078": {
+    "id": 1078,
+    "date": "2013-10-14",
+    "title": "Steelheart Signing Report - Shardlet"
+  },
+  "1079": {
+    "id": 1079,
+    "date": "2014-03-05",
+    "title": "WoR Signing Report - Dawnshard"
+  },
+  "108": {
+    "id": 108,
+    "date": "1999-08-30",
+    "title": "Sydney Independent Theatre Q&A"
+  },
+  "1080": {
+    "id": 1080,
+    "date": "2014-03-19",
+    "title": "WoR Signing Report - darkanimereal1 and luke"
+  },
+  "1081": {
+    "id": 1081,
+    "date": "2012-01-24",
+    "title": "Comments on Mistborn Series Artwork from Isaac Stewart's website"
+  },
+  "1082": {
+    "id": 1082,
+    "date": "2014-08-09",
+    "title": "When Worlds Collide 2014 - Khyrindor"
+  },
+  "1083": {
+    "id": 1083,
+    "date": "2014-08-09",
+    "title": "When Worlds Collide 2014 - Jeremy"
+  },
+  "1084": {
+    "id": 1084,
+    "date": "2014-08-13",
+    "title": "Ask the Author: Brandon Sanderson"
+  },
+  "1085": {
+    "id": 1085,
+    "date": "2014-08-23",
+    "title": "Details on the Wheel of Time Companion"
+  },
+  "1086": {
+    "id": 1086,
+    "date": "2014-03-04",
+    "title": "WoR Signing Report - Talenelat"
+  },
+  "1087": {
+    "id": 1087,
+    "date": "2014-09-24",
+    "title": "Brandon Sanderson Interview"
+  },
+  "1088": {
+    "id": 1088,
+    "date": "2014-03-22",
+    "title": "WoR Signing Report - Argent"
+  },
+  "1089": {
+    "id": 1089,
+    "date": "2014-11-29",
+    "title": "Idaho Falls Signing Report - PrncRny"
+  },
+  "109": {
+    "id": 109,
+    "date": "1999-08-30",
+    "title": "Sydney Independent Theatre Report - Sastan"
+  },
+  "1090": {
+    "id": 1090,
+    "date": "2014-11-29",
+    "title": "Idaho Falls Signing Report - Lady Radagu"
+  },
+  "1091": {
+    "id": 1091,
+    "date": "2014-11-29",
+    "title": "Idaho Falls Signing Report - leiftinspace"
+  },
+  "1092": {
+    "id": 1092,
+    "date": "2014-11-29",
+    "title": "Idaho Falls Signing Report - ProfessionalLurker"
+  },
+  "1093": {
+    "id": 1093,
+    "date": "2014-08-20",
+    "title": "Steel Ministry Report - PhantomMonstrosity"
+  },
+  "1094": {
+    "id": 1094,
+    "date": "2014-09-04",
+    "title": "Salt Lake City Comic-Con 2014"
+  },
+  "1095": {
+    "id": 1095,
+    "date": "2013-05-24",
+    "title": "Phoenix ComiCon Report - Gavin King"
+  },
+  "1096": {
+    "id": 1096,
+    "date": "2014-12-06",
+    "title": "Orem Signing Report - mail-mi"
+  },
+  "1097": {
+    "id": 1097,
+    "date": "2014-12-06",
+    "title": "Orem Signing Report - Zas678"
+  },
+  "1098": {
+    "id": 1098,
+    "date": "2014-12-06",
+    "title": "Orem Signing Report - Newan"
+  },
+  "1099": {
+    "id": 1099,
+    "date": "2015-01-05",
+    "title": "Firefight Signing Report - Lady Radagu"
+  },
+  "11": {
+    "id": 11,
+    "date": "1992-10-01",
+    "title": "TSR Signing Report - Brian McKee"
+  },
+  "110": {
+    "id": 110,
+    "date": "1999-08-30",
+    "title": "Sydney Independent Theatre Report - Paul Colquhoun"
+  },
+  "1100": {
+    "id": 1100,
+    "date": "2015-01-08",
+    "title": "Firefight Signing Report - Fletchershair"
+  },
+  "1101": {
+    "id": 1101,
+    "date": "2007-08-01",
+    "title": "Mistborn: The Well of Ascension Annotations"
+  },
+  "1102": {
+    "id": 1102,
+    "date": "2012-12-08",
+    "title": "Clues in signed things"
+  },
+  "1103": {
+    "id": 1103,
+    "date": "2014-03-04",
+    "title": "WOR-midnight signing-Chaos"
+  },
+  "1104": {
+    "id": 1104,
+    "date": "2015-01-06",
+    "title": "Firefight - Signed Books"
+  },
+  "1105": {
+    "id": 1105,
+    "date": "2014-02-15",
+    "title": "WOB-signed book"
+  },
+  "1106": {
+    "id": 1106,
+    "date": "2012-11-01",
+    "title": "The Emperor's Soul - Signed Books"
+  },
+  "1107": {
+    "id": 1107,
+    "date": "2014-03-08",
+    "title": "WOR-University Bookstore"
+  },
+  "1108": {
+    "id": 1108,
+    "date": "2014-03-13",
+    "title": "WOR-Omaha, NE"
+  },
+  "1109": {
+    "id": 1109,
+    "date": "2015-01-06",
+    "title": "Firefight Signing Line Audio"
+  },
+  "111": {
+    "id": 111,
+    "date": "1999-09-20",
+    "title": "Brisbane Signing Report - Joel Gilmore"
+  },
+  "1110": {
+    "id": 1110,
+    "date": "2014-03-14",
+    "title": "WOR-Scottsdale"
+  },
+  "1111": {
+    "id": 1111,
+    "date": "2014-03-18",
+    "title": "WOR-Lexington, KY"
+  },
+  "1112": {
+    "id": 1112,
+    "date": "2014-04-16",
+    "title": "JordanCon 6 - Cosmere questions"
+  },
+  "1113": {
+    "id": 1113,
+    "date": "2014-08-04",
+    "title": "WOR-London"
+  },
+  "1114": {
+    "id": 1114,
+    "date": "2014-08-06",
+    "title": "WOR-Manchester"
+  },
+  "1115": {
+    "id": 1115,
+    "date": "2015-01-17",
+    "title": "Firefight Tour - El Cerrito, CA"
+  },
+  "1116": {
+    "id": 1116,
+    "date": "2015-03-12",
+    "title": "Brandon Sanderson - /r/books AMA March 2015"
+  },
+  "1117": {
+    "id": 1117,
+    "date": "2015-06-15",
+    "title": "Files that did not make the Companion #1"
+  },
+  "1118": {
+    "id": 1118,
+    "date": "2015-07-07",
+    "title": "Files that did not make the Companion #2"
+  },
+  "1119": {
+    "id": 1119,
+    "date": "2015-07-22",
+    "title": "Files that did not make the Companion #3"
+  },
+  "112": {
+    "id": 112,
+    "date": "1999-09-21",
+    "title": "Brisbane Signing Report - Joel Gilmore"
+  },
+  "1120": {
+    "id": 1120,
+    "date": "2016-04-23",
+    "title": "Brandon Sanderson RAFOlympics at JordanCon 8"
+  },
+  "1121": {
+    "id": 1121,
+    "date": "2016-04-24",
+    "title": "Brandon Sanderson Book Signing at JordanCon 8"
+  },
+  "1122": {
+    "id": 1122,
+    "date": "2015-01-07",
+    "title": "Central Library, Seattle, WA"
+  },
+  "1123": {
+    "id": 1123,
+    "date": "2015-01-16",
+    "title": "Firefight-Powell's Books"
+  },
+  "1124": {
+    "id": 1124,
+    "date": "2015-01-20",
+    "title": "Mysterious Galaxy (Balboa Ave), San Diego, CA"
+  },
+  "1125": {
+    "id": 1125,
+    "date": "2015-01-21",
+    "title": "Changing Hands, AZ"
+  },
+  "1126": {
+    "id": 1126,
+    "date": "2015-01-24",
+    "title": "Barnes & Noble (Newnan)"
+  },
+  "1127": {
+    "id": 1127,
+    "date": "2015-01-19",
+    "title": "Figment Chat Q&A - January 19th, 2015"
+  },
+  "1128": {
+    "id": 1128,
+    "date": "2015-01-05",
+    "title": "Barnes & Noble (West Jordan)"
+  },
+  "1129": {
+    "id": 1129,
+    "date": "2015-01-31",
+    "title": "Salt Lake City Fan Experience"
+  },
+  "113": {
+    "id": 113,
+    "date": "1999-09-20",
+    "title": "Brisbane Signing Report - Willum"
+  },
+  "1130": {
+    "id": 1130,
+    "date": "2015-04-02",
+    "title": "MiniCon 2015"
+  },
+  "1131": {
+    "id": 1131,
+    "date": "2015-04-16",
+    "title": "Teen Author Boot Camp 2015"
+  },
+  "1132": {
+    "id": 1132,
+    "date": "2015-05-22",
+    "title": "ConQuest Kansas City 2015"
+  },
+  "1133": {
+    "id": 1133,
+    "date": "2015-02-20",
+    "title": "Chicago"
+  },
+  "1134": {
+    "id": 1134,
+    "date": "2015-07-01",
+    "title": "San Diego Comic Con 2015"
+  },
+  "1135": {
+    "id": 1135,
+    "date": "2015-08-19",
+    "title": "SpoCon 2015"
+  },
+  "1136": {
+    "id": 1136,
+    "date": "2015-10-07",
+    "title": "Shadows of Self-Houston"
+  },
+  "1137": {
+    "id": 1137,
+    "date": "2015-10-08",
+    "title": "Shadows of Self-San Diego"
+  },
+  "1138": {
+    "id": 1138,
+    "date": "2015-10-10",
+    "title": "Shadows of Self-Beaverton, OR"
+  },
+  "1139": {
+    "id": 1139,
+    "date": "2015-10-06",
+    "title": "Shadows of Self-BYU"
+  },
+  "114": {
+    "id": 114,
+    "date": "2000-03-01",
+    "title": "Locus Magazine Interview"
+  },
+  "1140": {
+    "id": 1140,
+    "date": "2015-10-17",
+    "title": "Shadows of Self-London, UK"
+  },
+  "1141": {
+    "id": 1141,
+    "date": "2015-10-22",
+    "title": "Shadows of Self-Leeds"
+  },
+  "1142": {
+    "id": 1142,
+    "date": "2015-10-21",
+    "title": "Shadows of Self-Edinburgh"
+  },
+  "1143": {
+    "id": 1143,
+    "date": "2015-10-20",
+    "title": "Shadows of Self-Newcastle"
+  },
+  "1144": {
+    "id": 1144
+  },
+  "1145": {
+    "id": 1145,
+    "date": "2015-10-22",
+    "title": "Shadows of Self-Nottingham"
+  },
+  "1146": {
+    "id": 1146,
+    "date": "2015-11-28",
+    "title": "Shadows of Self-Idaho Falls"
+  },
+  "1147": {
+    "id": 1147,
+    "date": "2016-01-26",
+    "title": "Bands of Mourning Release Party"
+  },
+  "1148": {
+    "id": 1148,
+    "date": "2015-10-06",
+    "title": "Shadows of Self-Denver"
+  },
+  "1149": {
+    "id": 1149,
+    "date": "2016-02-16",
+    "title": "Calamity Release Party"
+  },
+  "115": {
+    "id": 115,
+    "date": "2000-03-01",
+    "title": "New Zealand Email Interview"
+  },
+  "1150": {
+    "id": 1150,
+    "date": "2016-02-27",
+    "title": "Librarypalooza"
+  },
+  "1151": {
+    "id": 1151,
+    "date": "2016-02-25",
+    "title": "Calamity-Austin"
+  },
+  "1152": {
+    "id": 1152,
+    "date": "2016-02-17",
+    "title": "Calamity-Seattle"
+  },
+  "1153": {
+    "id": 1153,
+    "date": "2016-02-22",
+    "title": "Calamity-Chicago"
+  },
+  "1154": {
+    "id": 1154,
+    "date": "2016-02-19",
+    "title": "Calamity-Denver"
+  },
+  "1155": {
+    "id": 1155,
+    "date": "2016-02-20",
+    "title": "Calamity-Philadelphia, PA"
+  },
+  "1156": {
+    "id": 1156,
+    "date": "2016-02-24",
+    "title": "Calamity-Houston"
+  },
+  "1157": {
+    "id": 1157,
+    "date": "2016-03-24",
+    "title": "Salt Lake FanX 2016"
+  },
+  "1158": {
+    "id": 1158,
+    "date": "2016-04-08",
+    "title": "OdysseyCon 2016"
+  },
+  "1159": {
+    "id": 1159,
+    "date": "2015-10-14",
+    "title": "Shadows of Self-Brookline"
+  },
+  "116": {
+    "id": 116,
+    "date": "2000-03-01",
+    "title": "Letter to Paul Ward"
+  },
+  "1160": {
+    "id": 1160,
+    "date": "2015-10-12",
+    "title": "Shadows of Self-Oak Brook, IL"
+  },
+  "1161": {
+    "id": 1161,
+    "date": "2015-12-12",
+    "title": "Barnes & Noble Orem"
+  },
+  "1162": {
+    "id": 1162,
+    "date": "2015-10-09",
+    "title": "Shadows of Self-San Jose"
+  },
+  "1163": {
+    "id": 1163,
+    "date": "2015-10-09",
+    "title": "Shadows of Self - San Francisco"
+  },
+  "1164": {
+    "id": 1164,
+    "date": "2016-05-03",
+    "title": "Random Undated Personalizations"
+  },
+  "1165": {
+    "id": 1165,
+    "date": "2016-02-16",
+    "title": "Twitter chat #NookTalks"
+  },
+  "1166": {
+    "id": 1166,
+    "date": "2016-06-11",
+    "title": "Barnes and Noble YA"
+  },
+  "1167": {
+    "id": 1167,
+    "date": "2016-11-07",
+    "title": "Lisbon, Portugal"
+  },
+  "1168": {
+    "id": 1168,
+    "date": "2016-11-22",
+    "title": "BYU Bookstore"
+  },
+  "1169": {
+    "id": 1169,
+    "date": "2016-06-28",
+    "title": "White Sand release party"
+  },
+  "117": {
+    "id": 117,
+    "date": "2000-10-01",
+    "title": "Orbit Interview"
+  },
+  "1170": {
+    "id": 1170,
+    "date": "2015-10-13",
+    "title": "Shadows of Self - Lansing, MI"
+  },
+  "1171": {
+    "id": 1171,
+    "date": "2016-09-01",
+    "title": "DragonCon 2016"
+  },
+  "1172": {
+    "id": 1172,
+    "date": "2016-09-23",
+    "title": "Out of Excuses 2016"
+  },
+  "1173": {
+    "id": 1173,
+    "date": "2016-10-08",
+    "title": "Utah Humanities Book Festival"
+  },
+  "1174": {
+    "id": 1174,
+    "date": "2016-09-06",
+    "title": "Dark Talent release party"
+  },
+  "1175": {
+    "id": 1175,
+    "date": "2016-11-03",
+    "title": "Librer\u00eda Gigamesh"
+  },
+  "1176": {
+    "id": 1176,
+    "date": "2016-11-05",
+    "title": "Eurocon 2016"
+  },
+  "1177": {
+    "id": 1177,
+    "date": "2016-10-22",
+    "title": "La Dimension Fantastique"
+  },
+  "1178": {
+    "id": 1178,
+    "date": "2016-11-29",
+    "title": "Old Firehouse Books-AU tour"
+  },
+  "1179": {
+    "id": 1179,
+    "date": "2016-11-30",
+    "title": "Borderlands SF-AU Tour"
+  },
+  "118": {
+    "id": 118,
+    "date": "2000-11-08",
+    "title": "WH Signing Report - John Heltsley"
+  },
+  "1180": {
+    "id": 1180,
+    "date": "2016-12-01",
+    "title": "University Bookstore-AU Tour"
+  },
+  "1181": {
+    "id": 1181,
+    "date": "2016-12-03",
+    "title": "Little City Books-AU Tour"
+  },
+  "1182": {
+    "id": 1182,
+    "date": "2016-12-06",
+    "title": "Harold Washington Library Center-AU Tour"
+  },
+  "1183": {
+    "id": 1183,
+    "date": "2017-11-10",
+    "title": "Deseret News Q&A: Brandon Sanderson on the importance of fiction and how writing influences his LDS faith"
+  },
+  "1184": {
+    "id": 1184,
+    "date": "2014-09-30",
+    "title": "Reddit: If you had a make-a-wish and for some reason chose Brandon Sanderson to answer one question, what would your question be?"
+  },
+  "119": {
+    "id": 119,
+    "date": "2000-11-10",
+    "title": "WH Signing Report - Brandon Downey"
+  },
+  "12": {
+    "id": 12,
+    "date": "1993-09-06",
+    "title": "Letter to Carolyn F."
+  },
+  "120": {
+    "id": 120,
+    "date": "2000-11-10",
+    "title": "WH Signing Report - Hawk"
+  },
+  "121": {
+    "id": 121,
+    "date": "2000-11-11",
+    "title": "Barnes and Noble Chat"
+  },
+  "122": {
+    "id": 122,
+    "date": "2000-11-12",
+    "title": "WH Signing Report - Ha T. Nguyen"
+  },
+  "123": {
+    "id": 123,
+    "date": "2000-11-14",
+    "title": "SciFi.com Chat"
+  },
+  "124": {
+    "id": 124,
+    "date": "2000-11-27",
+    "title": "WH Signing Report - John Nowacki"
+  },
+  "125": {
+    "id": 125,
+    "date": "2000-11-28",
+    "title": "WH Signing Report - Brian"
+  },
+  "126": {
+    "id": 126,
+    "date": "2000-11-29",
+    "title": "WH Signing Report - Brian"
+  },
+  "127": {
+    "id": 127,
+    "date": "2000-12-01",
+    "title": "Orbit Interview"
+  },
+  "128": {
+    "id": 128,
+    "date": "2000-12-05",
+    "title": "WH Signing Report - Br00se"
+  },
+  "129": {
+    "id": 129,
+    "date": "2000-12-12",
+    "title": "CNN Chat"
+  },
+  "13": {
+    "id": 13,
+    "date": "1993-01-01",
+    "title": "Waldenbooks Hailing Frequency Interview"
+  },
+  "130": {
+    "id": 130,
+    "date": "2001-01-01",
+    "title": "Science Fiction Book Club Interview"
+  },
+  "131": {
+    "id": 131,
+    "date": "2001-04-04",
+    "title": "Leiden Signing Report - Aan'allein"
+  },
+  "132": {
+    "id": 132,
+    "date": "2001-04-05",
+    "title": "Amsterdam Signing Report - Karin"
+  },
+  "133": {
+    "id": 133,
+    "date": "2001-04-05",
+    "title": "Amsterdam Signing Report - Aan'allein"
+  },
+  "134": {
+    "id": 134,
+    "date": "2001-04-06",
+    "title": "Rotterdam Signing Report - Aan'allein"
+  },
+  "135": {
+    "id": 135,
+    "date": "2001-04-06",
+    "title": "Dromen and Demonen Chat"
+  },
+  "136": {
+    "id": 136,
+    "date": "2001-04-08",
+    "title": "Elf Fantasy Fair - Aan'allein"
+  },
+  "137": {
+    "id": 137,
+    "date": "2001-04-08",
+    "title": "Elf Fantasy Fair - Gonzo"
+  },
+  "138": {
+    "id": 138,
+    "date": "2001-04-08",
+    "title": "Elf Fantasy Fair - Emma"
+  },
+  "139": {
+    "id": 139,
+    "date": "2001-05-01",
+    "title": "Marcon Report - Sorilea"
+  },
+  "14": {
+    "id": 14,
+    "date": "1993-11-01",
+    "title": "Trinity College Q&A"
+  },
+  "140": {
+    "id": 140,
+    "date": "2001-12-01",
+    "title": "Robert Jordan Talks About the Holidays"
+  },
+  "141": {
+    "id": 141,
+    "date": "2002-01-01",
+    "title": "Writing on the Web Interview"
+  },
+  "142": {
+    "id": 142,
+    "date": "2002-12-09",
+    "title": "Wotmania and Dragonmount Q&A"
+  },
+  "143": {
+    "id": 143,
+    "date": "1998-11-06",
+    "title": "Amazon.com Interview"
+  },
+  "144": {
+    "id": 144,
+    "date": "2001-04-07",
+    "title": "Elf Fantasy Fair - Aan'allein"
+  },
+  "145": {
+    "id": 145,
+    "date": "2002-01-01",
+    "title": "Bookstream Bookwrap Interview"
+  },
+  "146": {
+    "id": 146,
+    "date": "2002-12-09",
+    "title": "Dragonmount Interview with Harriet McDougal"
+  },
+  "147": {
+    "id": 147,
+    "date": "2002-12-23",
+    "title": "Publisher's Weekly Interview"
+  },
+  "148": {
+    "id": 148,
+    "date": "2002-08-23",
+    "title": "RJ: Letter to Fans on Piracy"
+  },
+  "149": {
+    "id": 149,
+    "date": "2002-08-22",
+    "title": "RJ: Letter to Fans on the Delay of COT"
+  },
+  "15": {
+    "id": 15,
+    "date": "1993-12-01",
+    "title": "Letter to Tom McCormick"
+  },
+  "150": {
+    "id": 150,
+    "date": "2003-01-01",
+    "title": "Orbit Interview"
+  },
+  "151": {
+    "id": 151,
+    "date": "2003-01-07",
+    "title": "COT Signing Report - David Funke"
+  },
+  "152": {
+    "id": 152,
+    "date": "2003-01-07",
+    "title": "COT Signing Report - Ted Herman"
+  },
+  "153": {
+    "id": 153,
+    "date": "2003-01-07",
+    "title": "COT Signing Report - Jeffrey Cummis"
+  },
+  "154": {
+    "id": 154,
+    "date": "2003-01-11",
+    "title": "COT Signing Report - Dan Olin"
+  },
+  "155": {
+    "id": 155,
+    "date": "2003-01-13",
+    "title": "COT Signing Report - Robert Ruckman"
+  },
+  "156": {
+    "id": 156,
+    "date": "2003-01-14",
+    "title": "COT Signing Report - Matthew Julius"
+  },
+  "157": {
+    "id": 157,
+    "date": "2003-01-15",
+    "title": "COT Signing Report - Darrell Durham"
+  },
+  "158": {
+    "id": 158,
+    "date": "2003-01-15",
+    "title": "COT Signing Report - Bradley Staples"
+  },
+  "159": {
+    "id": 159,
+    "date": "2003-01-16",
+    "title": "COT Signing Report - Matthew Julius"
+  },
+  "16": {
+    "id": 16,
+    "date": "1993-12-08",
+    "title": "Letter to R. S. Cerveny"
+  },
+  "160": {
+    "id": 160
+  },
+  "161": {
+    "id": 161,
+    "date": "2003-01-16",
+    "title": "COT Signing Report - Tim Kington"
+  },
+  "162": {
+    "id": 162,
+    "date": "2003-01-16",
+    "title": "COT Signing Report - Michael Martin"
+  },
+  "163": {
+    "id": 163,
+    "date": "2003-01-17",
+    "title": "COT Signing Report - JD Urbanski"
+  },
+  "164": {
+    "id": 164,
+    "date": "2003-01-17",
+    "title": "COT Signing Report - Jonathan Gan"
+  },
+  "165": {
+    "id": 165,
+    "date": "2003-01-18",
+    "title": "COT Signing Report - Daniel G"
+  },
+  "166": {
+    "id": 166,
+    "date": "2003-01-18",
+    "title": "COT Signing Report - Imran Safdar"
+  },
+  "167": {
+    "id": 167,
+    "date": "2003-01-18",
+    "title": "COT Signing Report - Tallis"
+  },
+  "168": {
+    "id": 168,
+    "date": "2003-01-21",
+    "title": "SFRevu Interview"
+  },
+  "169": {
+    "id": 169,
+    "date": "2003-01-22",
+    "title": "USA Today Article"
+  },
+  "17": {
+    "id": 17,
+    "date": "1994-02-01",
+    "title": "Letter to Carolyn F."
+  },
+  "170": {
+    "id": 170,
+    "date": "2003-01-22",
+    "title": "COT Signing Report - Brandon"
+  },
+  "171": {
+    "id": 171,
+    "date": "2003-01-23",
+    "title": "COT Signing Report - Zeynep Dilli"
+  },
+  "172": {
+    "id": 172,
+    "date": "2003-01-23",
+    "title": "COT Signing Report - John Nowacki"
+  },
+  "173": {
+    "id": 173,
+    "date": "2003-01-23",
+    "title": "COT Signing Report - Sonia Ibarra"
+  },
+  "174": {
+    "id": 174,
+    "date": "2003-01-23",
+    "title": "COT Signing Report - Robert Mee"
+  },
+  "175": {
+    "id": 175,
+    "date": "2003-01-23",
+    "title": "COT Signing Report - Neill Smith"
+  },
+  "176": {
+    "id": 176,
+    "date": "2003-01-27",
+    "title": "COT Signing Report - R\u00e9al Heppelle"
+  },
+  "177": {
+    "id": 177,
+    "date": "2003-01-28",
+    "title": "COT Signing Report - Lady Voldemort"
+  },
+  "178": {
+    "id": 178,
+    "date": "2003-02-01",
+    "title": "Eye on Books Interview"
+  },
+  "179": {
+    "id": 179,
+    "date": "2003-02-09",
+    "title": "Charleston.net Interview"
+  },
+  "18": {
+    "id": 18,
+    "date": "1994-03-01",
+    "title": "Letter to Carolyn F."
+  },
+  "180": {
+    "id": 180,
+    "date": "2003-02-26",
+    "title": "tarvalon.net Q&A"
+  },
+  "181": {
+    "id": 181,
+    "date": "2003-02-26",
+    "title": "COT Book Tour Wrap-up"
+  },
+  "182": {
+    "id": 182,
+    "date": "2003-03-01",
+    "title": "Fast Forward Interview"
+  },
+  "183": {
+    "id": 183,
+    "date": "2003-04-01",
+    "title": "Budapest Q&A"
+  },
+  "184": {
+    "id": 184,
+    "date": "2003-10-17",
+    "title": "Robert Jordan - Birthday Greetings"
+  },
+  "185": {
+    "id": 185,
+    "date": "2003-12-19",
+    "title": "Robert Jordan Talks About the Holidays"
+  },
+  "186": {
+    "id": 186,
+    "date": "2004-01-06",
+    "title": "USA Today Interview"
+  },
+  "187": {
+    "id": 187,
+    "date": "2004-03-29",
+    "title": "SciFi Weekly Interview"
+  },
+  "188": {
+    "id": 188,
+    "date": "2004-04-27",
+    "title": "Wotmania Interview"
+  },
+  "189": {
+    "id": 189,
+    "date": "2004-07-22",
+    "title": "ComicCon Wrap-Up - Jason Denzel"
+  },
+  "19": {
+    "id": 19,
+    "date": "1994-06-10",
+    "title": "Letter to Carolyn F."
+  },
+  "190": {
+    "id": 190,
+    "date": "2004-10-24",
+    "title": "Robert Jordan on Halloween"
+  },
+  "191": {
+    "id": 191,
+    "date": "2005-01-01",
+    "title": "Dragon Page: 'Cover to Cover' Interview"
+  },
+  "192": {
+    "id": 192,
+    "date": "2005-01-01",
+    "title": "Bookstream Bookwrap Interview"
+  },
+  "193": {
+    "id": 193,
+    "date": "2005-03-08",
+    "title": "Comic Book Resources Interview"
+  },
+  "194": {
+    "id": 194,
+    "date": "2005-07-14",
+    "title": "ComicCon Report - Diomedes"
+  },
+  "195": {
+    "id": 195,
+    "date": "2005-07-14",
+    "title": "ComicCon Reports"
+  },
+  "196": {
+    "id": 196,
+    "date": "2005-09-02",
+    "title": "DragonCon Report - Isabel"
+  },
+  "197": {
+    "id": 197,
+    "date": "2005-09-03",
+    "title": "DragonCon Report - Isabel"
+  },
+  "198": {
+    "id": 198,
+    "date": "2005-09-03",
+    "title": "DragonCon Signing Reports - Matt Hatch"
+  },
+  "199": {
+    "id": 199,
+    "date": "2005-09-05",
+    "title": "DragonCon Report - Camel"
+  },
+  "2": {
+    "id": 2,
+    "date": "2010-01-01",
+    "title": "Twitter 2009-2010 (WoT)"
+  },
+  "20": {
+    "id": 20,
+    "date": "1994-01-01",
+    "title": "Stories from the LOC Signing Tour"
+  },
+  "200": {
+    "id": 200,
+    "date": "2005-09-07",
+    "title": "Atlanta Signing Report - Jennifer Liang"
+  },
+  "201": {
+    "id": 201,
+    "date": "2005-09-15",
+    "title": "Robert Jordan's Blog: HI"
+  },
+  "202": {
+    "id": 202,
+    "date": "2005-09-19",
+    "title": "Robert Jordan's Blog: (no subject)"
+  },
+  "203": {
+    "id": 203,
+    "date": "2003-01-20",
+    "title": "Fine Print Interview"
+  },
+  "204": {
+    "id": 204,
+    "date": "2005-09-04",
+    "title": "DragonCon Report - Matt Hatch"
+  },
+  "205": {
+    "id": 205,
+    "date": "2005-09-01",
+    "title": "DragonCon Report - Jennifer Liang"
+  },
+  "206": {
+    "id": 206,
+    "date": "2005-09-28",
+    "title": "Robert Jordan's Blog: THIS AND THAT"
+  },
+  "207": {
+    "id": 207,
+    "date": "2005-09-24",
+    "title": "Robert Jordan's Blog: THIS AND THAT"
+  },
+  "208": {
+    "id": 208,
+    "date": "2005-09-24",
+    "title": "Robert Jordan's Blog: THE GASP MOMENT"
+  },
+  "209": {
+    "id": 209,
+    "date": "2005-09-25",
+    "title": "Robert Jordan's Blog: DUMB EVIL?"
+  },
+  "21": {
+    "id": 21,
+    "date": "1994-10-17",
+    "title": "LOC Signing Report - Ryan Gran"
+  },
+  "210": {
+    "id": 210,
+    "date": "2005-09-30",
+    "title": "Robert Jordan's Blog: YET ANOTHER POST"
+  },
+  "211": {
+    "id": 211,
+    "date": "2005-10-02",
+    "title": "Robert Jordan's Blog: ONE MORE TIME"
+  },
+  "212": {
+    "id": 212,
+    "date": "2005-10-04",
+    "title": "Robert Jordan's Blog: ONE MORE TIME"
+  },
+  "213": {
+    "id": 213,
+    "date": "2005-10-05",
+    "title": "Robert Jordan's Blog: YET ANOTHER, IT SEEMS"
+  },
+  "214": {
+    "id": 214,
+    "date": "2005-10-06",
+    "title": "Robert Jordan's Blog: AND ONE MORE TIME"
+  },
+  "215": {
+    "id": 215,
+    "date": "2005-10-11",
+    "title": "KOD Signing Report - NaClH2O"
+  },
+  "216": {
+    "id": 216,
+    "date": "2005-10-13",
+    "title": "KOD Signing Report - Allen Bryan"
+  },
+  "217": {
+    "id": 217,
+    "date": "2005-10-13",
+    "title": "KOD Signing Report - Basri"
+  },
+  "218": {
+    "id": 218,
+    "date": "2005-10-13",
+    "title": "KOD Signing Report - Mashiaramanda"
+  },
+  "219": {
+    "id": 219,
+    "date": "2005-09-01",
+    "title": "Radio Dead Air Interview"
+  },
+  "22": {
+    "id": 22,
+    "date": "1994-10-17",
+    "title": "LOC Signing Report - Daniel Rouk"
+  },
+  "220": {
+    "id": 220,
+    "date": "2005-10-17",
+    "title": "KOD Signing Report - Githraine"
+  },
+  "221": {
+    "id": 221,
+    "date": "2005-10-17",
+    "title": "KOD Signing Report - Mad Cao"
+  },
+  "222": {
+    "id": 222,
+    "date": "2005-10-18",
+    "title": "KOD Signing Report - Bill Ford"
+  },
+  "223": {
+    "id": 223,
+    "date": "2005-10-19",
+    "title": "KOD Signing Report - Jeff Bumgardner"
+  },
+  "224": {
+    "id": 224,
+    "date": "2005-10-20",
+    "title": "KOD Signing Report - Erik"
+  },
+  "225": {
+    "id": 225,
+    "date": "2005-10-20",
+    "title": "KOD Signing Report - John Nowacki"
+  },
+  "226": {
+    "id": 226,
+    "date": "2005-10-20",
+    "title": "KOD Signing Report - Robert Mee"
+  },
+  "227": {
+    "id": 227,
+    "date": "2005-10-20",
+    "title": "KOD Signing Report"
+  },
+  "228": {
+    "id": 228,
+    "date": "2005-10-21",
+    "title": "KOD Signing Report - Scott Carlson"
+  },
+  "229": {
+    "id": 229,
+    "date": "2005-10-21",
+    "title": "KOD Signing Report - Shannan Lieb"
+  },
+  "23": {
+    "id": 23,
+    "date": "1994-10-17",
+    "title": "LOC Signing Report - Viren R. Shah"
+  },
+  "230": {
+    "id": 230,
+    "date": "2005-10-21",
+    "title": "KOD Signing Report - Steve"
+  },
+  "231": {
+    "id": 231,
+    "date": "2005-10-21",
+    "title": "KOD Signing Report - Tim Kington"
+  },
+  "232": {
+    "id": 232,
+    "date": "2005-10-22",
+    "title": "KOD Signing Report - Allentrace"
+  },
+  "233": {
+    "id": 233,
+    "date": "2005-10-24",
+    "title": "KOD Signing Report - Fomu"
+  },
+  "234": {
+    "id": 234,
+    "date": "2005-10-24",
+    "title": "KOD Signing Report - Jarrod"
+  },
+  "235": {
+    "id": 235,
+    "date": "2005-10-24",
+    "title": "KOD Signing Report - Kevin Dean"
+  },
+  "236": {
+    "id": 236,
+    "date": "2005-10-24",
+    "title": "KOD Signing Report - Robert MacCloud"
+  },
+  "237": {
+    "id": 237,
+    "date": "2005-10-26",
+    "title": "KOD Signing Report - Nikki"
+  },
+  "238": {
+    "id": 238,
+    "date": "2005-10-26",
+    "title": "KOD Signing Report - Tremul"
+  },
+  "239": {
+    "id": 239,
+    "date": "2005-10-27",
+    "title": "KOD Signing Report - Chris"
+  },
+  "24": {
+    "id": 24,
+    "date": "1994-10-17",
+    "title": "LOC Signing Report - Erica Sadun"
+  },
+  "240": {
+    "id": 240,
+    "date": "2005-10-27",
+    "title": "KOD Signing Report - Caychris"
+  },
+  "241": {
+    "id": 241,
+    "date": "2005-10-28",
+    "title": "KOD Signing Report - Frenzy"
+  },
+  "242": {
+    "id": 242,
+    "date": "2005-10-28",
+    "title": "KOD Signing Report - Jason Wolfbrother"
+  },
+  "243": {
+    "id": 243,
+    "date": "2005-10-29",
+    "title": "KOD Signing Report - Hermano de lobos"
+  },
+  "244": {
+    "id": 244,
+    "date": "2005-10-29",
+    "title": "KOD Signing Report - Jeremiah"
+  },
+  "245": {
+    "id": 245,
+    "date": "2005-10-29",
+    "title": "KOD Signing Report - SeanAlThor"
+  },
+  "246": {
+    "id": 246,
+    "date": "2005-10-31",
+    "title": "KOD Signing Report - Darren"
+  },
+  "247": {
+    "id": 247,
+    "date": "2005-10-31",
+    "title": "KOD Signing Report - Ursula"
+  },
+  "248": {
+    "id": 248,
+    "date": "2005-11-02",
+    "title": "KOD Signing Report - Sodas"
+  },
+  "249": {
+    "id": 249,
+    "date": "2005-11-04",
+    "title": "KOD Signing Report - Bluecole"
+  },
+  "25": {
+    "id": 25,
+    "date": "1994-10-18",
+    "title": "LOC Signing Report - Erica Sadun"
+  },
+  "250": {
+    "id": 250,
+    "date": "2005-11-22",
+    "title": "Robert Jordan's Blog: I'M BAAAA-AAACK"
+  },
+  "251": {
+    "id": 251,
+    "date": "2005-11-22",
+    "title": "Bridlington Today Interview"
+  },
+  "252": {
+    "id": 252,
+    "date": "2005-01-01",
+    "title": "New Spring Correspondence"
+  },
+  "253": {
+    "id": 253,
+    "date": "2005-12-01",
+    "title": "Fast Forward Interview"
+  },
+  "254": {
+    "id": 254,
+    "date": "2005-12-19",
+    "title": "Robert Jordan's Blog: THIS AND THAT"
+  },
+  "255": {
+    "id": 255,
+    "date": "2006-01-20",
+    "title": "Robert Jordan's Blog: IT'S BEEN AWHILE"
+  },
+  "256": {
+    "id": 256,
+    "date": "2006-01-21",
+    "title": "Robert Jordan's Blog: APOLOGIES"
+  },
+  "257": {
+    "id": 257,
+    "date": "2006-03-01",
+    "title": "AudioFile Interview: Talking With Robert Jordan"
+  },
+  "258": {
+    "id": 258,
+    "date": "2006-03-01",
+    "title": "Locus Magazine Interview"
+  },
+  "259": {
+    "id": 259,
+    "date": "2006-03-23",
+    "title": "Letter to Locus"
+  },
+  "26": {
+    "id": 26,
+    "date": "1994-10-19",
+    "title": "Compuserve Chat"
+  },
+  "260": {
+    "id": 260,
+    "date": "2006-03-24",
+    "title": "Robert Jordan's Blog: SORRY ABOUT THE PREMATURE ANNOUNCEMENT"
+  },
+  "261": {
+    "id": 261,
+    "date": "2006-03-31",
+    "title": "Robert Jordan's Blog: A TOUCH OF THIS AND THAT BEFORE THE MAYO"
+  },
+  "262": {
+    "id": 262,
+    "date": "2006-04-17",
+    "title": "Robert Jordan's Blog: THE NEWS FROM MAYO"
+  },
+  "263": {
+    "id": 263,
+    "date": "2006-04-18",
+    "title": "Robert Jordan's Blog: A SMALL EXTRA"
+  },
+  "264": {
+    "id": 264,
+    "date": "2006-04-20",
+    "title": "Robert Jordan's Blog: Photos from RJ"
+  },
+  "265": {
+    "id": 265,
+    "date": "2006-04-21",
+    "title": "Robert Jordan's Blog: MORE THANK YOUS"
+  },
+  "266": {
+    "id": 266,
+    "date": "2006-04-22",
+    "title": "Robert Jordan's Blog: A LITTLE MORE"
+  },
+  "267": {
+    "id": 267,
+    "date": "2006-04-25",
+    "title": "Robert Jordan's Blog: A VERY BRIEF ADDITION"
+  },
+  "268": {
+    "id": 268,
+    "date": "2006-05-01",
+    "title": "Robert Jordan's Blog: ONE MORE TIME FROM THE TOP"
+  },
+  "269": {
+    "id": 269,
+    "date": "2006-05-03",
+    "title": "Robert Jordan's Blog: Pictures of Wilson from RJ"
+  },
+  "27": {
+    "id": 27,
+    "date": "2005-10-11",
+    "title": "KOD Signing Report - NaClH2O"
+  },
+  "270": {
+    "id": 270,
+    "date": "2006-05-15",
+    "title": "Robert Jordan's Blog: I ESCAPED"
+  },
+  "271": {
+    "id": 271,
+    "date": "2006-05-15",
+    "title": "Robert Jordan's Blog: A message from Wilson"
+  },
+  "272": {
+    "id": 272,
+    "date": "2006-05-17",
+    "title": "Robert Jordan's Blog: New Photos from RJ"
+  },
+  "273": {
+    "id": 273,
+    "date": "2006-05-21",
+    "title": "Robert Jordan's Blog: AN IDLE COMMENT OR TWO"
+  },
+  "274": {
+    "id": 274,
+    "date": "2006-05-23",
+    "title": "Robert Jordan's Blog: FROM HARRIET"
+  },
+  "275": {
+    "id": 275,
+    "date": "2006-05-24",
+    "title": "Robert Jordan's Blog: SORRY ABOUT THIS GUYS, BUT...."
+  },
+  "276": {
+    "id": 276,
+    "date": "2006-05-24",
+    "title": "Robert Jordan's Blog: Robert Jordan's do-rag"
+  },
+  "277": {
+    "id": 277,
+    "date": "2006-06-07",
+    "title": "Robert Jordan's Blog: More pics from RJ"
+  },
+  "278": {
+    "id": 278,
+    "date": "2006-06-09",
+    "title": "Robert Jordan's Blog: Thank yous from Harriet and RJ"
+  },
+  "279": {
+    "id": 279,
+    "date": "2006-06-12",
+    "title": "Robert Jordan's Blog: SOME GOOD NEWS, MAYBE"
+  },
+  "28": {
+    "id": 28,
+    "date": "2005-10-11",
+    "title": "KOD Signing Report - Pary"
+  },
+  "280": {
+    "id": 280,
+    "date": "2006-06-25",
+    "title": "Robert Jordan's Blog: A Very Brief Update"
+  },
+  "281": {
+    "id": 281,
+    "date": "2006-07-06",
+    "title": "Robert Jordan's Blog: A FINAL CHECK-IN BEFORE MAYO"
+  },
+  "282": {
+    "id": 282,
+    "date": "2006-07-14",
+    "title": "Robert Jordan's Blog: NO CHAMPAGNE YET"
+  },
+  "283": {
+    "id": 283,
+    "date": "2006-08-09",
+    "title": "Robert Jordan's Blog: Update from Wilson"
+  },
+  "284": {
+    "id": 284,
+    "date": "2006-08-15",
+    "title": "Robert Jordan's Blog: Wilson Again"
+  },
+  "285": {
+    "id": 285,
+    "date": "2006-08-25",
+    "title": "Robert Jordan's Blog: Some News..."
+  },
+  "286": {
+    "id": 286,
+    "date": "2006-08-26",
+    "title": "Robert Jordan's Blog: A Little This, A Little That, Nothing Important"
+  },
+  "287": {
+    "id": 287,
+    "date": "2006-09-05",
+    "title": "Robert Jordan's Blog: A Laid Back Labor Day......."
+  },
+  "288": {
+    "id": 288,
+    "date": "2006-09-15",
+    "title": "Robert Jordan's Blog: A Little News, Not Too Important"
+  },
+  "289": {
+    "id": 289,
+    "date": "2006-09-25",
+    "title": "Robert Jordan's Blog: (no subject)"
+  },
+  "29": {
+    "id": 29,
+    "date": "2005-10-11",
+    "title": "KOD Signing Report - Ted Herman"
+  },
+  "290": {
+    "id": 290,
+    "date": "2006-10-11",
+    "title": "Robert Jordan's Blog: Some more thank yous"
+  },
+  "291": {
+    "id": 291,
+    "date": "2006-11-08",
+    "title": "Robert Jordan's Blog: A Little Update"
+  },
+  "292": {
+    "id": 292,
+    "date": "2006-11-15",
+    "title": "Robert Jordan's Blog: A Small Addition"
+  },
+  "293": {
+    "id": 293,
+    "date": "2006-12-01",
+    "title": "Amazon Significant Seven"
+  },
+  "294": {
+    "id": 294,
+    "date": "2006-12-01",
+    "title": "Forbes.com Interview"
+  },
+  "295": {
+    "id": 295,
+    "date": "2006-12-22",
+    "title": "Robert Jordan's Blog: The Very Best Christmas Present Ever"
+  },
+  "296": {
+    "id": 296,
+    "date": "2006-12-23",
+    "title": "Robert Jordan's Blog: Christmas (From Harriet)"
+  },
+  "297": {
+    "id": 297,
+    "date": "2007-01-23",
+    "title": "Robert Jordan's Blog: Brief Update on RJ"
+  },
+  "298": {
+    "id": 298,
+    "date": "2007-02-12",
+    "title": "Robert Jordan's Blog: Update from Wilson"
+  },
+  "299": {
+    "id": 299,
+    "date": "2007-02-13",
+    "title": "Robert Jordan's Blog: A LITTLE CONTEST"
+  },
+  "3": {
+    "id": 3,
+    "date": "1998-11-21",
+    "title": "TPOD Signing Report - John Novak"
+  },
+  "30": {
+    "id": 30,
+    "date": "2005-10-11",
+    "title": "KOD Signing Report - Yhooders"
+  },
+  "300": {
+    "id": 300,
+    "date": "2007-03-04",
+    "title": "Robert Jordan's Blog: GOOD NEWS"
+  },
+  "301": {
+    "id": 301,
+    "date": "2007-04-09",
+    "title": "Robert Jordan's Blog: Steady as she goes"
+  },
+  "302": {
+    "id": 302,
+    "date": "2007-04-26",
+    "title": "Robert Jordan's Blog: HI, THERE"
+  },
+  "303": {
+    "id": 303,
+    "date": "2007-06-01",
+    "title": "Robert Jordan's Blog: (untitled)"
+  },
+  "304": {
+    "id": 304,
+    "date": "2007-06-01",
+    "title": "Robert Jordan's Blog: A BRIEF ADD-ON"
+  },
+  "305": {
+    "id": 305,
+    "date": "2007-07-23",
+    "title": "Robert Jordan's Blog: Still Kicking"
+  },
+  "306": {
+    "id": 306,
+    "date": "2007-08-22",
+    "title": "Robert Jordan's Blog: A VERY quick check-in"
+  },
+  "307": {
+    "id": 307,
+    "date": "2007-09-09",
+    "title": "Robert Jordan's Blog: Rumors and rumors of rumors"
+  },
+  "308": {
+    "id": 308,
+    "date": "2007-09-16",
+    "title": "Robert Jordan's Blog: Sometimes even when you've fought your best...."
+  },
+  "309": {
+    "id": 309,
+    "date": "2007-09-19",
+    "title": "EUOLogy: Goodbye Mr. Jordan"
+  },
+  "31": {
+    "id": 31,
+    "date": "1994-10-20",
+    "title": "LOC Signing Report - Delemin"
+  },
+  "310": {
+    "id": 310,
+    "date": "2007-09-22",
+    "title": "Robert Jordan's Blog: From Harriet"
+  },
+  "311": {
+    "id": 311,
+    "date": "2007-09-27",
+    "title": "Robert Jordan's Blog: My Journey to Robert Jordan's Funeral"
+  },
+  "312": {
+    "id": 312,
+    "date": "2007-09-28",
+    "title": "Robert Jordan's Blog: From Will"
+  },
+  "313": {
+    "id": 313,
+    "date": "2007-09-30",
+    "title": "Robert Jordan's Blog: More from Harriet"
+  },
+  "314": {
+    "id": 314,
+    "date": "2007-10-04",
+    "title": "Robert Jordan's Blog: More info and pictures from RJ's funeral"
+  },
+  "315": {
+    "id": 315,
+    "date": "2007-12-10",
+    "title": "Robert Jordan's Blog: Seems like only yesterday...."
+  },
+  "316": {
+    "id": 316,
+    "date": "2007-12-10",
+    "title": "Brandon Sanderson's Blog: Brandon to Finish Wheel of Time"
+  },
+  "317": {
+    "id": 317,
+    "date": "2007-12-14",
+    "title": "Robert Jordan's Blog: A note from Harriet"
+  },
+  "318": {
+    "id": 318,
+    "date": "2007-12-27",
+    "title": "Brandon Sanderson's Blog: Merry Christmas! New FAQ!"
+  },
+  "319": {
+    "id": 319,
+    "date": "2001-01-01",
+    "title": "Thus Spake the Creator"
+  },
+  "32": {
+    "id": 32,
+    "date": "1994-10-20",
+    "title": "LOC Signing Report - Dennis Higbee"
+  },
+  "320": {
+    "id": 320,
+    "date": "2008-01-14",
+    "title": "Brandon Sanderson's Blog: Insomnia"
+  },
+  "321": {
+    "id": 321,
+    "date": "2008-01-16",
+    "title": "Brandon Sanderson's Blog: Annotations + Facebook"
+  },
+  "322": {
+    "id": 322,
+    "date": "2008-01-20",
+    "title": "Brandon Sanderson's Blog: Warbreaker 4.0 DONE!"
+  },
+  "323": {
+    "id": 323,
+    "date": "2008-01-22",
+    "title": "Brandon Sanderson's Blog: New Warbreaker Download"
+  },
+  "324": {
+    "id": 324,
+    "date": "2008-01-24",
+    "title": "Brandon Sanderson's Blog: WoT Read Through Notes: Introduction"
+  },
+  "325": {
+    "id": 325,
+    "date": "2008-01-26",
+    "title": "Brandon Sanderson's Blog: WoT Read-Through: EYE OF THE WORLD"
+  },
+  "326": {
+    "id": 326,
+    "date": "2008-01-29",
+    "title": "Brandon Sanderson's Blog: WoT Read-Through: THE GREAT HUNT"
+  },
+  "327": {
+    "id": 327,
+    "date": "2008-02-01",
+    "title": "Omnivoracious: Brandon Sanderson on Robert Jordan and the Wheel of Time"
+  },
+  "328": {
+    "id": 328,
+    "date": "2008-02-02",
+    "title": "Brandon Sanderson's Blog: The Great Hunt Part Two"
+  },
+  "329": {
+    "id": 329,
+    "date": "2008-02-05",
+    "title": "Brandon Sanderson's Blog: WoT Read Through: THE DRAGON REBORN"
+  },
+  "33": {
+    "id": 33,
+    "date": "1994-10-22",
+    "title": "LOC Signing Report - Pam Korda"
+  },
+  "330": {
+    "id": 330,
+    "date": "2008-02-07",
+    "title": "Brandon Sanderson's Blog: WoT Read Through: THE SHADOW RISING"
+  },
+  "331": {
+    "id": 331,
+    "date": "2008-02-13",
+    "title": "Brandon Sanderson's Blog: LTUE + Warbreaker + Annotations"
+  },
+  "332": {
+    "id": 332,
+    "date": "2008-02-18",
+    "title": "Brandon Sanderson's Blog: Podcast, New Art, MB3 Preorder, WoT: THE FIRES OF HEAVEN"
+  },
+  "333": {
+    "id": 333,
+    "date": "2008-02-25",
+    "title": "Brandon Sanderson's Blog: WoT: LORD OF CHAOS"
+  },
+  "334": {
+    "id": 334,
+    "date": "2008-02-29",
+    "title": "Brandon Sanderson's Blog: Late Posts and School Visits"
+  },
+  "335": {
+    "id": 335,
+    "date": "2008-03-03",
+    "title": "Brandon Sanderson's Blog: Thoughts"
+  },
+  "336": {
+    "id": 336,
+    "date": "2008-03-06",
+    "title": "Brandon Sanderson's Blog: Posts + A CROWN OF SWORDS"
+  },
+  "337": {
+    "id": 337,
+    "date": "2008-03-12",
+    "title": "Brandon Sanderson's Blog: Path of Daggers"
+  },
+  "338": {
+    "id": 338,
+    "date": "2008-03-15",
+    "title": "Brandon Sanderson's Blog: Reader Mail: AMoL Progress Bar"
+  },
+  "339": {
+    "id": 339,
+    "date": "2008-03-17",
+    "title": "Brandon Sanderson's Blog: WINTER'S HEART"
+  },
+  "34": {
+    "id": 34,
+    "date": "1994-10-22",
+    "title": "LOC Signing Report - Roxanne"
+  },
+  "340": {
+    "id": 340,
+    "date": "2008-02-09",
+    "title": "Adventures in SciFi Publishing Interview"
+  },
+  "341": {
+    "id": 341,
+    "date": "2008-03-21",
+    "title": "Robert Jordan's Blog: Authors Hall of Fame"
+  },
+  "342": {
+    "id": 342,
+    "date": "2008-03-21",
+    "title": "Brandon Sanderson's Blog: Annotation + Warbreaker HTML"
+  },
+  "343": {
+    "id": 343,
+    "date": "2008-03-25",
+    "title": "Brandon Sanderson's Blog: Crossroads of Twilight"
+  },
+  "344": {
+    "id": 344,
+    "date": "2008-03-27",
+    "title": "Brandon Sanderson's Blog: Defining Surreal"
+  },
+  "345": {
+    "id": 345,
+    "date": "2008-03-30",
+    "title": "Brandon Sanderson's Blog: Weekly Updates + New A Memory of Light Book Page"
+  },
+  "346": {
+    "id": 346,
+    "date": "2008-04-03",
+    "title": "Brandon Sanderson's Blog: NAME OF THE WIND Paperback out! + New Spring"
+  },
+  "347": {
+    "id": 347,
+    "date": "2008-04-09",
+    "title": "Brandon Sanderson's Blog: Updates"
+  },
+  "348": {
+    "id": 348,
+    "date": "2008-04-13",
+    "title": "Brandon Sanderson's Blog: Back!"
+  },
+  "349": {
+    "id": 349,
+    "date": "2008-04-20",
+    "title": "Brandon Sanderson's Blog: You guys are great"
+  },
+  "35": {
+    "id": 35,
+    "date": "1994-10-23",
+    "title": "LOC Signing Report - Brian Bax"
+  },
+  "350": {
+    "id": 350,
+    "date": "2008-04-21",
+    "title": "Brandon Sanderson's Blog: Progress Bar"
+  },
+  "351": {
+    "id": 351,
+    "date": "2008-04-23",
+    "title": "Robert Jordan's Blog: Citadel Memorial Dedication"
+  },
+  "352": {
+    "id": 352,
+    "date": "2008-04-28",
+    "title": "Brandon Sanderson's Blog: Progress Bar Moving Again"
+  },
+  "353": {
+    "id": 353,
+    "date": "2008-05-02",
+    "title": "Brandon Sanderson's Blog: Knife of Dreams"
+  },
+  "354": {
+    "id": 354,
+    "date": "2008-05-17",
+    "title": "Brandon Sanderson's Blog: Iron Man"
+  },
+  "355": {
+    "id": 355,
+    "date": "2008-06-09",
+    "title": "Brandon Sanderson's Blog: Robert Jordan Citadel Dedication Pictures"
+  },
+  "356": {
+    "id": 356,
+    "date": "2008-06-15",
+    "title": "Brandon Sanderson's Blog: Done! (With something that...well, I can't tell you much about.)"
+  },
+  "357": {
+    "id": 357,
+    "date": "2008-06-23",
+    "title": "Brandon Sanderson's Blog: Warbreaker and A Memory of Light General Updates"
+  },
+  "358": {
+    "id": 358,
+    "date": "2008-05-12",
+    "title": "Brandon Sanderson's Blog: A great Reader Mail question"
+  },
+  "359": {
+    "id": 359,
+    "date": "2008-06-26",
+    "title": "Brandon Sanderson's Blog: Reader Mail + Annotation"
+  },
+  "36": {
+    "id": 36,
+    "date": "2011-01-01",
+    "title": "Twitter 2011 (WoT)"
+  },
+  "360": {
+    "id": 360,
+    "date": "2008-06-30",
+    "title": "Brandon Sanderson's Blog: Wheel of Time Blog Posts Collected"
+  },
+  "361": {
+    "id": 361,
+    "date": "2008-07-08",
+    "title": "Brandon Sanderson's Blog: Reader Mail"
+  },
+  "362": {
+    "id": 362,
+    "date": "2008-07-11",
+    "title": "Brandon Sanderson's Blog: Back to AMoL!"
+  },
+  "363": {
+    "id": 363,
+    "date": "2008-07-14",
+    "title": "Brandon Sanderson's Blog: Update + Annotations"
+  },
+  "364": {
+    "id": 364,
+    "date": "2008-07-17",
+    "title": "Brandon Sanderson's Blog: Denver Followup and AMoL Update"
+  },
+  "365": {
+    "id": 365,
+    "date": "2008-07-24",
+    "title": "Brandon Sanderson's Blog: Various Updates"
+  },
+  "366": {
+    "id": 366,
+    "date": "2001-04-01",
+    "title": "Dromen and Demonen Interview"
+  },
+  "367": {
+    "id": 367,
+    "date": "2008-07-28",
+    "title": "Brandon Sanderson's Blog: A Gift"
+  },
+  "368": {
+    "id": 368,
+    "date": "2008-08-09",
+    "title": "Rolling up the Wheel of Time Panel, WorldCon, Denver, CO - Peter Ahlstrom"
+  },
+  "369": {
+    "id": 369,
+    "date": "2008-08-13",
+    "title": "Brandon Sanderson's Blog: Wheel of Time Movie Deal"
+  },
+  "37": {
+    "id": 37,
+    "date": "1994-10-25",
+    "title": "LOC Signing Report - Edward Liu"
+  },
+  "370": {
+    "id": 370,
+    "date": "2008-08-14",
+    "title": "Brandon Sanderson's Blog: Warbreaker 6.1 PDF and Mobile (And more movie deal thoughts.)"
+  },
+  "371": {
+    "id": 371,
+    "date": "2008-08-22",
+    "title": "Brandon Sanderson's Blog: Half Way!"
+  },
+  "372": {
+    "id": 372,
+    "date": "2008-08-25",
+    "title": "Brandon Sanderson's Blog: Answers to Questions"
+  },
+  "373": {
+    "id": 373,
+    "date": "2008-09-02",
+    "title": "Brandon Sanderson's Blog: Back from Dragon*Con with Many Updates"
+  },
+  "374": {
+    "id": 374,
+    "date": "2008-09-03",
+    "title": "Brandon Sanderson's Blog: AMoL Update + Alcatraz Sample Chapter"
+  },
+  "375": {
+    "id": 375,
+    "date": "2008-09-09",
+    "title": "Brandon Sanderson's Blog: Annotations (Finally) Plus notes"
+  },
+  "376": {
+    "id": 376,
+    "date": "2008-09-14",
+    "title": "Brandon Sanderson's Blog: State of the Inbox (Plus Reader Mail.)"
+  },
+  "377": {
+    "id": 377,
+    "date": "2008-09-22",
+    "title": "Brandon Sanderson's Blog: One Year"
+  },
+  "378": {
+    "id": 378,
+    "date": "2008-09-23",
+    "title": "Brandon Sanderson's Blog: Annotation + Random Notes"
+  },
+  "379": {
+    "id": 379,
+    "date": "2008-09-30",
+    "title": "Brandon Sanderson's Blog: Alcatraz Revision Done!"
+  },
+  "38": {
+    "id": 38,
+    "date": "1994-10-25",
+    "title": "LOC Signing Report - Tony Zbaraschuk"
+  },
+  "380": {
+    "id": 380,
+    "date": "2008-10-06",
+    "title": "Robert Jordan's Blog: The Stone"
+  },
+  "381": {
+    "id": 381,
+    "date": "2008-10-12",
+    "title": "Brandon Sanderson's Blog: Release Week is here!"
+  },
+  "382": {
+    "id": 382,
+    "date": "2008-10-25",
+    "title": "Brandon Sanderson's Blog: Updates"
+  },
+  "383": {
+    "id": 383,
+    "date": "2008-10-29",
+    "title": "Brandon Sanderson's Blog: AMoL Update"
+  },
+  "384": {
+    "id": 384,
+    "date": "2008-11-05",
+    "title": "Brandon Sanderson's Blog: Several Updates"
+  },
+  "385": {
+    "id": 385,
+    "date": "2008-11-08",
+    "title": "BookBanter Interview"
+  },
+  "386": {
+    "id": 386,
+    "date": "2008-11-12",
+    "title": "Brandon Sanderson's Blog: Tour Notes"
+  },
+  "387": {
+    "id": 387,
+    "date": "2008-11-26",
+    "title": "Brandon Sanderson's Blog: 300k"
+  },
+  "388": {
+    "id": 388,
+    "date": "2008-12-03",
+    "title": "LA Times Interview: Completing a World Left Unfinished"
+  },
+  "389": {
+    "id": 389,
+    "date": "2008-12-10",
+    "title": "Brandon Sanderson's Blog: Reader Mail + Annotation"
+  },
+  "39": {
+    "id": 39,
+    "date": "1994-10-26",
+    "title": "LOC Signing Report - Don Harlow"
+  },
+  "390": {
+    "id": 390,
+    "date": "2008-12-17",
+    "title": "Brandon Sanderson's Blog: Big Wheel of Time Interview Retrospective"
+  },
+  "391": {
+    "id": 391,
+    "date": "2008-12-19",
+    "title": "Brandon Sanderson's Blog: Happy Koloss Head-Munching Day!"
+  },
+  "392": {
+    "id": 392,
+    "date": "2008-12-24",
+    "title": "Brandon Sanderson's Blog: Happy Holidays and Merry Christmas!"
+  },
+  "393": {
+    "id": 393,
+    "date": "2009-01-02",
+    "title": "Brandon Sanderson's Blog: Happy New Year"
+  },
+  "394": {
+    "id": 394,
+    "date": "2009-01-06",
+    "title": "Brandon Sanderson's Blog: Award + Annotation"
+  },
+  "395": {
+    "id": 395,
+    "date": "2009-01-13",
+    "title": "Brandon Sanderson's Blog: Do You Want to Appear in A Memory of Light?"
+  },
+  "396": {
+    "id": 396,
+    "date": "2009-01-19",
+    "title": "Brandon Sanderson's Blog: MB3 Proofreads Due..."
+  },
+  "397": {
+    "id": 397,
+    "date": "2009-01-22",
+    "title": "Brandon Sanderson's Blog: Signing + Mistborn Audible"
+  },
+  "398": {
+    "id": 398,
+    "date": "2009-01-23",
+    "title": "Brandon Sanderson's Blog: New Annotation + Reader Mail"
+  },
+  "399": {
+    "id": 399,
+    "date": "2009-01-26",
+    "title": "Brandon Sanderson's Blog: My Sword"
+  },
+  "4": {
+    "id": 4,
+    "date": "2004-04-20",
+    "title": "TOR Questions of the Week Part I"
+  },
+  "40": {
+    "id": 40,
+    "date": "1994-10-26",
+    "title": "LOC Signing Report - Greg"
+  },
+  "400": {
+    "id": 400,
+    "date": "2009-02-05",
+    "title": "Brandon Sanderson's Blog: Annotation + Reader Mail"
+  },
+  "401": {
+    "id": 401,
+    "date": "2009-02-21",
+    "title": "Brandon Sanderson's Blog: New Computer + Signing"
+  },
+  "402": {
+    "id": 402,
+    "date": "2009-02-24",
+    "title": "Brandon Sanderson's Blog: Various Notes"
+  },
+  "403": {
+    "id": 403,
+    "date": "1994-10-21",
+    "title": "AOL Chat 2"
+  },
+  "404": {
+    "id": 404,
+    "date": "2009-03-03",
+    "title": "Brandon Sanderson's Blog: AMoL Update - kind of."
+  },
+  "405": {
+    "id": 405,
+    "date": "2009-03-13",
+    "title": "Brandon Sanderson's Blog: Various Notes"
+  },
+  "406": {
+    "id": 406,
+    "date": "2009-03-24",
+    "title": "Brandon Sanderson's Blog: Mistborn Two Audiobook"
+  },
+  "407": {
+    "id": 407,
+    "date": "2009-03-25",
+    "title": "Brandon Sanderson's Blog: What's Up with AMoL?"
+  },
+  "408": {
+    "id": 408,
+    "date": "2009-03-26",
+    "title": "Brandon Sanderson's Blog: More news on AMoL"
+  },
+  "409": {
+    "id": 409,
+    "date": "2009-03-30",
+    "title": "Brandon Sanderson's Blog: Splitting AMoL"
+  },
+  "41": {
+    "id": 41,
+    "date": "1994-10-27",
+    "title": "LOC Signing Report - Tom Burke"
+  },
+  "410": {
+    "id": 410,
+    "date": "2009-03-30",
+    "title": "Brandon Sanderson: Splitting AMoL"
+  },
+  "411": {
+    "id": 411,
+    "date": "2009-04-04",
+    "title": "Brandon Sanderson's Blog: Three Random Updates"
+  },
+  "412": {
+    "id": 412,
+    "date": "2009-04-06",
+    "title": "Brandon Sanderson's Blog: Last Week for the WoT Fundraiser"
+  },
+  "413": {
+    "id": 413,
+    "date": "2009-04-13",
+    "title": "Brandon Sanderson's Blog: JordanCon and Releases"
+  },
+  "414": {
+    "id": 414,
+    "date": "2009-04-15",
+    "title": "Brandon Sanderson's Blog: Reader Mail"
+  },
+  "415": {
+    "id": 415,
+    "date": "2009-04-22",
+    "title": "Brandon Sanderson's Blog: TGS Turned In! + Book Signing News"
+  },
+  "416": {
+    "id": 416,
+    "date": "2009-05-05",
+    "title": "Brandon Sanderson's Blog: Reader Mail (Regarding TGS Release Date)"
+  },
+  "417": {
+    "id": 417,
+    "date": "2009-05-07",
+    "title": "Brandon Sanderson's Blog: Another Long-Winded Explanation of Various Things"
+  },
+  "418": {
+    "id": 418,
+    "date": "2009-05-14",
+    "title": "Brandon Sanderson's Blog: The Gathering Storm Cover Art"
+  },
+  "419": {
+    "id": 419,
+    "date": "2009-05-15",
+    "title": "Dave Brendon's Fantasy & SciFi Weblog - An Interview with Brandon Sanderson"
+  },
+  "42": {
+    "id": 42,
+    "date": "1994-10-28",
+    "title": "LOC Signing Report - Justin Howell"
+  },
+  "420": {
+    "id": 420,
+    "date": "2009-05-18",
+    "title": "AMC Filmcritic.com - Novelist Brandon Sanderson Discusses the End of the Wheel of Time"
+  },
+  "421": {
+    "id": 421,
+    "date": "2009-05-19",
+    "title": "Brandon Sanderson's Blog: Two Interviews"
+  },
+  "422": {
+    "id": 422,
+    "date": "2009-06-01",
+    "title": "Book Expo America Interview"
+  },
+  "423": {
+    "id": 423,
+    "date": "2009-06-01",
+    "title": "Brandon Sanderson's Blog: Roundup of Thoughts"
+  },
+  "424": {
+    "id": 424,
+    "date": "2009-06-12",
+    "title": "Brandon Sanderson's Blog: Reader Mail"
+  },
+  "425": {
+    "id": 425,
+    "date": "2009-06-23",
+    "title": "Brandon Sanderson's Blog: Garden Ninja Contest"
+  },
+  "426": {
+    "id": 426,
+    "date": "2009-07-07",
+    "title": "Brandon Sanderson's Blog: DONE"
+  },
+  "427": {
+    "id": 427,
+    "date": "2009-07-23",
+    "title": "Brandon Sanderson's Blog: What have I been up to?"
+  },
+  "428": {
+    "id": 428,
+    "date": "2009-07-01",
+    "title": "BarnesandNoble.com Book Club Q&A with Brandon Sanderson"
+  },
+  "429": {
+    "id": 429,
+    "date": "2009-08-11",
+    "title": "Brandon Sanderson's Blog: The Gathering Storm coming sooner than expected"
+  },
+  "43": {
+    "id": 43,
+    "date": "2005-10-11",
+    "title": "KOD Signing Report - Ted Herman"
+  },
+  "430": {
+    "id": 430,
+    "date": "2009-08-20",
+    "title": "Brandon Sanderson's Blog: To Longtime Wheel of Time Fans"
+  },
+  "431": {
+    "id": 431,
+    "date": "2009-09-02",
+    "title": "Brandon Sanderson's Blog: Summer Is Over"
+  },
+  "432": {
+    "id": 432,
+    "date": "2009-09-07",
+    "title": "Geekerati Radio - Brandon Sanderson Talks Fantasy"
+  },
+  "433": {
+    "id": 433,
+    "date": "2009-09-08",
+    "title": "Brandon Sanderson's Blog: The Gathering Storm Chapter 1 + More, Parsec Award, Geekarati"
+  },
+  "434": {
+    "id": 434,
+    "date": "2009-09-10",
+    "title": "Brandon Sanderson's Blog: THE GATHERING STORM Tour, Release Events"
+  },
+  "435": {
+    "id": 435,
+    "date": "2009-09-14",
+    "title": "Brandon Sanderson's Blog: THE GATHERING STORM signed books by mail; Storm Leader application now available"
+  },
+  "436": {
+    "id": 436,
+    "date": "2009-09-18",
+    "title": "Brandon Sanderson's Blog: Storm Leaders, Book 13 Title, THE GATHERING STORM Prologue"
+  },
+  "437": {
+    "id": 437,
+    "date": "2009-09-28",
+    "title": "Brandon Sanderson's Blog: Updates, THE GATHERING STORM chapter two audio"
+  },
+  "438": {
+    "id": 438,
+    "date": "2009-10-01",
+    "title": "Tor-Forge Interview with Harriet McDougal and Brandon Sanderson"
+  },
+  "439": {
+    "id": 439,
+    "date": "2009-10-05",
+    "title": "Brandon Sanderson's Blog: Release Parties, Giveaways, Annotations, and John Brown"
+  },
+  "44": {
+    "id": 44,
+    "date": "1994-10-28",
+    "title": "LOC Signing Report - Julie Kangas"
+  },
+  "440": {
+    "id": 440,
+    "date": "2009-10-08",
+    "title": "Brandon Sanderson's Blog: Alcatraz 3, Maze Runner, Names"
+  },
+  "441": {
+    "id": 441,
+    "date": "2009-10-12",
+    "title": "Brandon Sanderson's Blog: MileHiCon, Signing Deadline, Allomantic Table, Updates"
+  },
+  "442": {
+    "id": 442,
+    "date": "2009-10-16",
+    "title": "Tor-Forge Interview with Team Jordan on The Gathering Storm"
+  },
+  "443": {
+    "id": 443,
+    "date": "2009-10-20",
+    "title": "Tor-Forge Interview with Brandon Sanderson"
+  },
+  "444": {
+    "id": 444,
+    "date": "2009-10-20",
+    "title": "Brandon Sanderson's Blog: Sam Weller's signing and my MileHiCon schedule"
+  },
+  "445": {
+    "id": 445,
+    "date": "2009-10-21",
+    "title": "Robert Jordan's Blog: A word from Harriet & Wilson"
+  },
+  "446": {
+    "id": 446,
+    "date": "2009-10-26",
+    "title": "Brandon Sanderson's Blog: Release party NOW (and live feed)"
+  },
+  "447": {
+    "id": 447,
+    "date": "2009-10-27",
+    "title": "BYU: TGS Midnight Release - Jennifer McBride"
+  },
+  "448": {
+    "id": 448,
+    "date": "2009-10-28",
+    "title": "TGS Signing Report - Peter Binkowski"
+  },
+  "449": {
+    "id": 449,
+    "date": "2009-10-30",
+    "title": "Brandon Sanderson's Blog: Housekeeping, Sam Weller's shipping"
+  },
+  "45": {
+    "id": 45,
+    "date": "2010-01-01",
+    "title": "Twitter: TOM Writing and Editing Process"
+  },
+  "450": {
+    "id": 450,
+    "date": "2009-10-31",
+    "title": "Brandon Sanderson's Blog: Tattered Cover Denver Signing Tickets"
+  },
+  "451": {
+    "id": 451,
+    "date": "2009-11-01",
+    "title": "Mythmaker Films Interview"
+  },
+  "452": {
+    "id": 452,
+    "date": "2009-11-02",
+    "title": "Ending The Wheel of Time: The GeekDad Interview with Brandon Sanderson"
+  },
+  "453": {
+    "id": 453,
+    "date": "2009-10-27",
+    "title": "TGS Midnight Release Preliminary Report - Matt Hatch"
+  },
+  "454": {
+    "id": 454,
+    "date": "2009-10-27",
+    "title": "BYU Stormleader Dinner - Matt Hatch"
+  },
+  "455": {
+    "id": 455,
+    "date": "2009-10-27",
+    "title": "TGS Midnight Release - Matt Hatch"
+  },
+  "456": {
+    "id": 456,
+    "date": "2009-11-03",
+    "title": "Louie b. Free Show - Interview with Brandon Sanderson"
+  },
+  "457": {
+    "id": 457,
+    "date": "2009-11-03",
+    "title": "Brandon Sanderson's Blog: Updates, Signed Hardbacks"
+  },
+  "458": {
+    "id": 458,
+    "date": "2009-11-05",
+    "title": "TGS Signing Report - Shannon Berndston"
+  },
+  "459": {
+    "id": 459,
+    "date": "2009-11-06",
+    "title": "TGS Signing Report - Paul Grow"
+  },
+  "46": {
+    "id": 46,
+    "date": "2012-01-01",
+    "title": "Twitter: AMOL Writing and Editing Process"
+  },
+  "460": {
+    "id": 460,
+    "date": "2009-11-07",
+    "title": "TGS Signing Report - Meg Lurvey"
+  },
+  "461": {
+    "id": 461,
+    "date": "2009-11-07",
+    "title": "Brandon Sanderson's Blog: #1"
+  },
+  "462": {
+    "id": 462,
+    "date": "2009-11-09",
+    "title": "TGS Signing Report - Old (Peter) Salt"
+  },
+  "463": {
+    "id": 463,
+    "date": "2009-11-09",
+    "title": "TGS Book Tour, NYC Stormleader Dinner - Ted Herman"
+  },
+  "464": {
+    "id": 464,
+    "date": "2009-11-09",
+    "title": "TGS Signing Report - Ted Herman"
+  },
+  "465": {
+    "id": 465,
+    "date": "2009-11-10",
+    "title": "TGS Signing Report - Lexington, KY"
+  },
+  "466": {
+    "id": 466,
+    "date": "2009-11-10",
+    "title": "Brandon Sanderson's Blog: Mistborn Minifigs Sale, Updates"
+  },
+  "467": {
+    "id": 467,
+    "date": "2009-05-01",
+    "title": "Macmillan Interview at Book Expo America"
+  },
+  "468": {
+    "id": 468,
+    "date": "2009-11-11",
+    "title": "TGS Signing Report - Tim Kington"
+  },
+  "469": {
+    "id": 469,
+    "date": "2009-11-13",
+    "title": "TGS Signing Report - Yellowbeard"
+  },
+  "47": {
+    "id": 47,
+    "date": "1994-10-28",
+    "title": "LOC Signing Report - Eric C. Piquette"
+  },
+  "470": {
+    "id": 470,
+    "date": "2009-11-13",
+    "title": "TGS Signing Report - Tiffany Franklin"
+  },
+  "471": {
+    "id": 471,
+    "date": "2009-11-14",
+    "title": "TGS Signing Report - Matoyak"
+  },
+  "472": {
+    "id": 472,
+    "date": "2009-11-14",
+    "title": "TGS Signing Report - Aubree Pham"
+  },
+  "473": {
+    "id": 473,
+    "date": "2009-11-15",
+    "title": "TGS Signing Report - Freelancer"
+  },
+  "474": {
+    "id": 474,
+    "date": "2009-11-15",
+    "title": "TGS Signing Report - Katie Frey"
+  },
+  "475": {
+    "id": 475,
+    "date": "2009-11-16",
+    "title": "TGS Signing Report - kcf"
+  },
+  "476": {
+    "id": 476,
+    "date": "2009-11-17",
+    "title": "TGS Signing Report - Robert Moreau"
+  },
+  "477": {
+    "id": 477,
+    "date": "2009-11-17",
+    "title": "Brandon Sanderson's Blog: Hitting the West Coast"
+  },
+  "478": {
+    "id": 478,
+    "date": "2009-11-19",
+    "title": "TGS Signing Report - forkroot"
+  },
+  "479": {
+    "id": 479,
+    "date": "2009-11-19",
+    "title": "TGS Signing Report - Matrimony Cauthon"
+  },
+  "48": {
+    "id": 48,
+    "date": "1994-10-28",
+    "title": "LOC Signing Report - Michael Thompson"
+  },
+  "480": {
+    "id": 480,
+    "date": "2009-11-19",
+    "title": "TGS Signing Report - Samadai"
+  },
+  "481": {
+    "id": 481,
+    "date": "2009-11-20",
+    "title": "Brandon Sanderson's Blog: My Magic duel against Jason"
+  },
+  "482": {
+    "id": 482,
+    "date": "2009-11-21",
+    "title": "Driving Mr. Sanderson - Matt Hatch"
+  },
+  "483": {
+    "id": 483,
+    "date": "2009-11-21",
+    "title": "TGS Signing Report - Frenzy"
+  },
+  "484": {
+    "id": 484,
+    "date": "2009-11-30",
+    "title": "Science and Society Podcast"
+  },
+  "485": {
+    "id": 485,
+    "date": "2009-12-01",
+    "title": "Brandon Sanderson's Blog: Doctors Without Borders, Interviews, THE WAY OF KINGS"
+  },
+  "486": {
+    "id": 486,
+    "date": "2009-12-05",
+    "title": "TGS Signing Report - kavorka"
+  },
+  "487": {
+    "id": 487,
+    "date": "2009-12-11",
+    "title": "Brandon Sanderson's Blog: Upcoming Signings + Typical Rambling"
+  },
+  "488": {
+    "id": 488,
+    "date": "2009-12-18",
+    "title": "Brandon Sanderson's Blog: Happy Koloss Head-Munching Day! (Free Short Story)"
+  },
+  "489": {
+    "id": 489,
+    "date": "2009-12-19",
+    "title": "TGS Signing Report - Stephanie Reese"
+  },
+  "49": {
+    "id": 49,
+    "date": "1994-10-30",
+    "title": "LOC Signing Report - Matthew Hunter"
+  },
+  "490": {
+    "id": 490,
+    "date": "2010-01-04",
+    "title": "Brandon Sanderson's Blog: Hugo nomination season, GoodReads Q&A, Pat Rothfuss's Worldbuilders charity drive, Updates"
+  },
+  "491": {
+    "id": 491,
+    "date": "2009-12-19",
+    "title": "TGS Signing Report - wolfbro22"
+  },
+  "492": {
+    "id": 492,
+    "date": "2010-02-01",
+    "title": "Brandon Sanderson's Blog: Amazonfail 2010, Mythmaker Interview, Updates"
+  },
+  "493": {
+    "id": 493,
+    "date": "2010-02-02",
+    "title": "Brandon Sanderson's Blog: Photoshop Contest - Win a New Tor Book"
+  },
+  "494": {
+    "id": 494,
+    "date": "2010-02-15",
+    "title": "Brandon Sanderson's Blog: Photoshop Contest Winners, Wheel of Time Games, & Updates"
+  },
+  "495": {
+    "id": 495,
+    "date": "2010-02-22",
+    "title": "Brandon Sanderson's Blog: Updates, Audies, Vote for the David Gemmell Legend Award!"
+  },
+  "496": {
+    "id": 496,
+    "date": "2010-02-24",
+    "title": "Brandon Sanderson's Blog: Some Long-Awaited Updates"
+  },
+  "497": {
+    "id": 497,
+    "date": "2010-02-12",
+    "title": "Provo Daily Herald Interview"
+  },
+  "498": {
+    "id": 498
+  },
+  "499": {
+    "id": 499,
+    "date": "2010-03-19",
+    "title": "Interview with Maria Simons by Luckers"
+  },
+  "5": {
+    "id": 5,
+    "date": "2002-07-01",
+    "title": "COT: 'Glimmers' Ebook Q&A"
+  },
+  "50": {
+    "id": 50,
+    "date": "1994-10-31",
+    "title": "LOC Signing Report - Judy Ghirardelli"
+  },
+  "500": {
+    "id": 500,
+    "date": "2010-03-29",
+    "title": "Brandon Sanderson's Blog: KINGS final draft, THE GATHERING STORM in Audible's tournament + Updates"
+  },
+  "501": {
+    "id": 501,
+    "date": "2010-04-05",
+    "title": "Brandon Sanderson's Blog: Gemmell Nominations, Audible Tournament, Suvudu Cage Match + Updates"
+  },
+  "502": {
+    "id": 502,
+    "date": "2010-04-12",
+    "title": "Brandon Sanderson's Blog: Suvudu Cage Match: How It REALLY Went Down"
+  },
+  "503": {
+    "id": 503,
+    "date": "2010-04-14",
+    "title": "Brandon Sanderson's Blog: Gemmell Voting, Wheel of Time Article, Audible Tournament Winner + Updates"
+  },
+  "504": {
+    "id": 504,
+    "date": "2010-04-14",
+    "title": "Charleston City Paper Interview"
+  },
+  "505": {
+    "id": 505,
+    "date": "2010-04-20",
+    "title": "Brandon Sanderson's Blog: Play Magic with Brandon at Jordancon!"
+  },
+  "506": {
+    "id": 506,
+    "date": "2010-04-23",
+    "title": "JordanCon 2010 Q&A Report - Terez"
+  },
+  "507": {
+    "id": 507,
+    "date": "2010-04-30",
+    "title": "JordanCon: Interview with Harriet McDougal by Richard Fife"
+  },
+  "508": {
+    "id": 508,
+    "date": "2010-05-03",
+    "title": "JordanCon: Interview with Maria Simons by Richard Fife"
+  },
+  "509": {
+    "id": 509,
+    "date": "2010-05-03",
+    "title": "Brandon Sanderson's Blog: Catching Up on Updates"
+  },
+  "51": {
+    "id": 51,
+    "date": "1994-10-01",
+    "title": "Sense of Wonder Interview"
+  },
+  "510": {
+    "id": 510,
+    "date": "2010-04-28",
+    "title": "Recap of JordanCon II - Richard Fife"
+  },
+  "511": {
+    "id": 511,
+    "date": "2009-04-22",
+    "title": "Recap of JordanCon - Richard Fife"
+  },
+  "512": {
+    "id": 512,
+    "date": "2009-04-22",
+    "title": "JordanCon 2009: The Report of DOOM - Leigh Butler"
+  },
+  "513": {
+    "id": 513,
+    "date": "2007-09-17",
+    "title": "Meeting Robert Jordan - Leigh Butler"
+  },
+  "514": {
+    "id": 514,
+    "date": "2010-05-05",
+    "title": "JordanCon: Interview with Wilson Grooms by Richard Fife"
+  },
+  "515": {
+    "id": 515,
+    "date": "2010-05-12",
+    "title": "JordanCon: Interview with Alan Romanczuk by Richard Fife"
+  },
+  "516": {
+    "id": 516,
+    "date": "2010-05-25",
+    "title": "Pat's Fantasy Hotlist: Interview with Brandon Sanderson"
+  },
+  "517": {
+    "id": 517,
+    "date": "2010-05-28",
+    "title": "Brandon Sanderson's Blog: Last chance to vote for the David Gemmell Legend Award"
+  },
+  "518": {
+    "id": 518,
+    "date": "2010-06-07",
+    "title": "JordanCon: Interview with Brandon Sanderson by Richard Fife"
+  },
+  "519": {
+    "id": 519,
+    "date": "2010-06-07",
+    "title": "Brandon Sanderson's Blog: Robert Jordan Memorial Scholarship applications, updates"
+  },
+  "52": {
+    "id": 52,
+    "date": "1994-11-01",
+    "title": "Fast Forward Interview"
+  },
+  "520": {
+    "id": 520,
+    "date": "2010-06-10",
+    "title": "Plot Related Q&A With Maria Simons + New MAFO by Luckers"
+  },
+  "521": {
+    "id": 521,
+    "date": "2010-06-28",
+    "title": "Brandon Sanderson's Blog: Updates, THE WAY OF KINGS ARC Giveaway, Tour"
+  },
+  "522": {
+    "id": 522,
+    "date": "2010-06-30",
+    "title": "Interview With Harriet McDougal by Luckers"
+  },
+  "523": {
+    "id": 523,
+    "date": "2010-07-24",
+    "title": "San Diego ComicCon Interview"
+  },
+  "524": {
+    "id": 524,
+    "date": "2010-07-27",
+    "title": "Brandon Sanderson's Blog: Updates, Tightening Language, and Suvudu Interview"
+  },
+  "525": {
+    "id": 525,
+    "date": "2010-08-10",
+    "title": "Brandon Sanderson's Blog: Writing for Charity + Updates"
+  },
+  "526": {
+    "id": 526,
+    "date": "2010-08-23",
+    "title": "Brandon Sanderson's Blog: TOWERS OF MIDNIGHT Is Done"
+  },
+  "527": {
+    "id": 527,
+    "date": "2010-09-04",
+    "title": "DragonCon 2010 Q&A Report - Marie Curie"
+  },
+  "528": {
+    "id": 528,
+    "date": "2010-09-08",
+    "title": "Brandon Sanderson's Blog: The Great Hunt Update"
+  },
+  "529": {
+    "id": 529,
+    "date": "2010-09-09",
+    "title": "TWOK Signing Report - Marie Curie"
+  },
+  "53": {
+    "id": 53,
+    "date": "1994-11-21",
+    "title": "Letter to Carolyn F."
+  },
+  "530": {
+    "id": 530,
+    "date": "2010-09-12",
+    "title": "Postmodernism in Fantasy: An Essay by Brandon Sanderson"
+  },
+  "531": {
+    "id": 531,
+    "date": "2010-09-13",
+    "title": "Pat's Fantasy Hotlist: New Brandon Sanderson Interview"
+  },
+  "532": {
+    "id": 532,
+    "date": "2010-09-16",
+    "title": "Grasping for the Wind Interview: Brandon Sanderson on The Way of Kings"
+  },
+  "533": {
+    "id": 533,
+    "date": "2010-09-16",
+    "title": "Stomping on Yeti: Interview with Brandon Sanderson"
+  },
+  "534": {
+    "id": 534,
+    "date": "2010-09-16",
+    "title": "Brandon Sanderson's Blog: The Great Hunt Completed!"
+  },
+  "535": {
+    "id": 535,
+    "date": "2010-09-17",
+    "title": "Mad Hatter's Bookshelf and Book Review: Interview with Brandon Sanderson"
+  },
+  "536": {
+    "id": 536,
+    "date": "2010-09-17",
+    "title": "Brandon Sanderson's Blog: Guest Blogging, Babel Clash, Interviews, Authorpalooza Tomorrow, and TOWERS OF MIDNIGHT Tour"
+  },
+  "537": {
+    "id": 537,
+    "date": "2010-09-21",
+    "title": "Orem Library Signing Report - Matt Hatch"
+  },
+  "538": {
+    "id": 538,
+    "date": "2010-09-21",
+    "title": "Brandon Sanderson's Blog: TOWERS OF MIDNIGHT Prologue ebook Released + Updates + Orem Library"
+  },
+  "539": {
+    "id": 539,
+    "date": "2010-09-28",
+    "title": "Brandon Sanderson's Blog: Registering for Worldcon, TOWERS OF MIDNIGHT Tour, Inkwing T-Shirt + Updates"
+  },
+  "54": {
+    "id": 54,
+    "date": "1994-11-21",
+    "title": "Letter on the Old Tongue"
+  },
+  "540": {
+    "id": 540,
+    "date": "2010-09-30",
+    "title": "Brandon Sanderson's Blog: Tower Guard program + Signed & Numbered TOWERS OF MIDNIGHT"
+  },
+  "541": {
+    "id": 541,
+    "date": "2010-07-11",
+    "title": "Chat with Brandon Sanderson"
+  },
+  "542": {
+    "id": 542,
+    "date": "2010-10-04",
+    "title": "Brandon Sanderson's Blog: Robert Jordan Memorial Scholarship Winner + Updates"
+  },
+  "543": {
+    "id": 543,
+    "date": "2010-10-09",
+    "title": "New York ComicCon Signing Report - Ted Herman"
+  },
+  "544": {
+    "id": 544,
+    "date": "2010-10-10",
+    "title": "Fantasy Authors Panel, New York ComicCon"
+  },
+  "545": {
+    "id": 545,
+    "date": "2010-10-12",
+    "title": "Brandon Sanderson's Blog: Another Long and Rambling Post on Future Books"
+  },
+  "546": {
+    "id": 546,
+    "date": "2010-10-18",
+    "title": "Brandon Sanderson's Blog: TOWERS OF MIDNIGHT Preorders, Tower Guard, Trailer"
+  },
+  "547": {
+    "id": 547,
+    "date": "2010-10-19",
+    "title": "Grasping for the Wind Interview: Brandon Sanderson on Towers of Midnight"
+  },
+  "548": {
+    "id": 548,
+    "date": "2010-10-26",
+    "title": "Brandon Sanderson's Blog: Updates, Interview & Superstars Writing Seminar"
+  },
+  "549": {
+    "id": 549,
+    "date": "2010-10-26",
+    "title": "Dragonmount Interview with Brandon Sanderson by Luckers"
+  },
+  "55": {
+    "id": 55,
+    "date": "1995-01-01",
+    "title": "Letter to Pam Korda"
+  },
+  "550": {
+    "id": 550,
+    "date": "2010-09-13",
+    "title": "Babel Clash: Brandon Sanderson and Brent Weeks"
+  },
+  "551": {
+    "id": 551,
+    "date": "2010-10-29",
+    "title": "SciFi Now Interview with Brandon Sanderson"
+  },
+  "552": {
+    "id": 552,
+    "date": "2010-11-01",
+    "title": "Peter Orullian Interviews Brandon Sanderson"
+  },
+  "553": {
+    "id": 553,
+    "date": "2010-11-02",
+    "title": "TOM Signing Report - jemron"
+  },
+  "554": {
+    "id": 554,
+    "date": "2010-11-02",
+    "title": "TOM Signing Report - Matt Hatch"
+  },
+  "555": {
+    "id": 555,
+    "date": "2010-11-02",
+    "title": "TOM Signing Report - Frenzy"
+  },
+  "556": {
+    "id": 556,
+    "date": "2010-11-02",
+    "title": "TOM Signing Report - Sacramento Tower Guards"
+  },
+  "557": {
+    "id": 557,
+    "date": "2000-11-12",
+    "title": "WH Signing Report - Ryan R."
+  },
+  "558": {
+    "id": 558,
+    "date": "2010-11-03",
+    "title": "TOM Signing Report - Maji"
+  },
+  "559": {
+    "id": 559,
+    "date": "2010-11-03",
+    "title": "TOM Signing Report - Res Ipsa"
+  },
+  "56": {
+    "id": 56,
+    "date": "1995-04-03",
+    "title": "Letter to Carolyn F."
+  },
+  "560": {
+    "id": 560,
+    "date": "2010-11-03",
+    "title": "TOM Signing Report - Cincinnati Tower Guards"
+  },
+  "561": {
+    "id": 561,
+    "date": "2010-11-04",
+    "title": "TOM Signing Report - Catherine Sedai"
+  },
+  "562": {
+    "id": 562,
+    "date": "2010-11-04",
+    "title": "TOM Signing Report - Chris Treco"
+  },
+  "563": {
+    "id": 563,
+    "date": "2008-11-14",
+    "title": "Hero of Ages Signing Report - Ted Herman"
+  },
+  "564": {
+    "id": 564,
+    "date": "2010-11-05",
+    "title": "TOM Signing Report - frenchie"
+  },
+  "565": {
+    "id": 565,
+    "date": "2010-11-05",
+    "title": "TOM Signing Report - Hanover, MD Tower Guards"
+  },
+  "566": {
+    "id": 566,
+    "date": "2010-11-06",
+    "title": "TOM Signing Report - Robert Mee"
+  },
+  "567": {
+    "id": 567,
+    "date": "2010-11-06",
+    "title": "TOM Signing Report - Tower Guards"
+  },
+  "568": {
+    "id": 568,
+    "date": "2010-11-07",
+    "title": "TOM Signing Report - Hilwa Katir"
+  },
+  "569": {
+    "id": 569,
+    "date": "2010-11-07",
+    "title": "TOM Signing Report - kamarile"
+  },
+  "57": {
+    "id": 57,
+    "date": "1995-04-23",
+    "title": "Sci-Fi Channel Interview"
+  },
+  "570": {
+    "id": 570,
+    "date": "2010-11-07",
+    "title": "TOM Signing Report - RDDK"
+  },
+  "571": {
+    "id": 571,
+    "date": "2010-11-07",
+    "title": "TOM Signing Report - Zaela Sedai"
+  },
+  "572": {
+    "id": 572,
+    "date": "2010-11-08",
+    "title": "TOM Signing Report - Joe Heron"
+  },
+  "573": {
+    "id": 573,
+    "date": "2010-11-08",
+    "title": "TOM Signing Report - Lord Mordeth"
+  },
+  "574": {
+    "id": 574,
+    "date": "2010-11-08",
+    "title": "TOM Tower Guard Report - Sarayne"
+  },
+  "575": {
+    "id": 575,
+    "date": "2010-11-08",
+    "title": "TOM Signing Report - Ted Herman"
+  },
+  "576": {
+    "id": 576
+  },
+  "577": {
+    "id": 577,
+    "date": "2010-11-10",
+    "title": "Utopiales Convention, Nantes, France: Interview with Brandon Sanderson"
+  },
+  "578": {
+    "id": 578,
+    "date": "2010-11-13",
+    "title": "New Zealand Herald Interview with Brandon Sanderson: From chasing the market to living his fantasy"
+  },
+  "579": {
+    "id": 579,
+    "date": "2010-11-15",
+    "title": "BookBanter Interview"
+  },
+  "58": {
+    "id": 58,
+    "date": "1995-06-17",
+    "title": "East of the Sun Interview - Helena Lofgren"
+  },
+  "580": {
+    "id": 580,
+    "date": "2010-11-16",
+    "title": "Paris Signing Report - Jonathan B"
+  },
+  "581": {
+    "id": 581,
+    "date": "2010-11-18",
+    "title": "Brandon Sanderson's Blog: Order a personalized THE GATHERING STORM + Holiday shipping deadlines"
+  },
+  "582": {
+    "id": 582,
+    "date": "2010-12-02",
+    "title": "4th Age Podcast Interview with Team Jordan"
+  },
+  "583": {
+    "id": 583,
+    "date": "2010-12-06",
+    "title": "Brandon Sanderson's Blog: Questions, 30% Off Sale, Signings, Awards & Updates"
+  },
+  "584": {
+    "id": 584,
+    "date": "2010-12-23",
+    "title": "The Fringe Magazine, Author Interview: Brandon Sanderson"
+  },
+  "585": {
+    "id": 585,
+    "date": "2010-12-25",
+    "title": "Stormblessed.com Interview with Brandon Sanderson"
+  },
+  "586": {
+    "id": 586,
+    "date": "2010-12-27",
+    "title": "Brandon Sanderson's Blog: Interviews, Gemmell Award Nominations, Annotation"
+  },
+  "587": {
+    "id": 587,
+    "date": "2010-11-08",
+    "title": "TOM Signing Report - Sarayne"
+  },
+  "588": {
+    "id": 588,
+    "date": "2010-12-01",
+    "title": "Goodreads ToM Fantasy Book Club Q&A with Brandon Sanderson"
+  },
+  "589": {
+    "id": 589,
+    "date": "2011-01-06",
+    "title": "Brandon Sanderson's Blog: Wrapping Up My Time Off"
+  },
+  "59": {
+    "id": 59,
+    "date": "1995-05-01",
+    "title": "Letter to Austin Sirkin"
+  },
+  "590": {
+    "id": 590,
+    "date": "2011-01-10",
+    "title": "Tor Q&A with Brandon Sanderson"
+  },
+  "591": {
+    "id": 591,
+    "date": "2011-01-26",
+    "title": "Brandon Sanderson's Blog: For Your Nomination Consideration + Worldcon Deadline"
+  },
+  "592": {
+    "id": 592,
+    "date": "2011-02-17",
+    "title": "ConDFW Report - James E. Jones"
+  },
+  "593": {
+    "id": 593,
+    "date": "2011-02-28",
+    "title": "Reddit Fantasy Bookclub Q&A with Brandon Sanderson"
+  },
+  "594": {
+    "id": 594,
+    "date": "2011-03-07",
+    "title": "Brandon Sanderson's Blog: Reader Polls + Updates"
+  },
+  "595": {
+    "id": 595,
+    "date": "2011-03-08",
+    "title": "Brandon Sanderson's Blog: Suvudu Cage Matches"
+  },
+  "596": {
+    "id": 596,
+    "date": "2011-03-11",
+    "title": "Verin Q&A with Maria Simons"
+  },
+  "597": {
+    "id": 597,
+    "date": "2011-03-16",
+    "title": "Brandon Sanderson's Blog: Wheel of Time Shirts"
+  },
+  "598": {
+    "id": 598,
+    "date": "2011-03-25",
+    "title": "Brandon Sanderson's Blog: Hugo Nomination Deadline Tomorrow"
+  },
+  "599": {
+    "id": 599,
+    "date": "2011-03-28",
+    "title": "Brandon Sanderson's Blog: Tsunami Relief Auctions, Writing & Illustrating for Young Readers + Updates"
+  },
+  "6": {
+    "id": 6,
+    "date": "2005-01-25",
+    "title": "TOR Questions of the Week Part II"
+  },
+  "60": {
+    "id": 60,
+    "date": "1995-06-16",
+    "title": "East of the Sun Con - Karl-Johan Nor\u00e9n"
+  },
+  "600": {
+    "id": 600,
+    "date": "2011-04-04",
+    "title": "Brandon Sanderson's Blog: Name Auction Coming, Music + Updates"
+  },
+  "601": {
+    "id": 601,
+    "date": "2011-04-13",
+    "title": "Brandon Sanderson's Blog: My JordanCon Schedule + Updates"
+  },
+  "602": {
+    "id": 602,
+    "date": "2011-04-15",
+    "title": "JordanCon Report - Ted Herman"
+  },
+  "603": {
+    "id": 603,
+    "date": "2011-04-16",
+    "title": "JordanCon AMOL Status Report - Marie Curie"
+  },
+  "604": {
+    "id": 604,
+    "date": "2011-04-17",
+    "title": "JordanCon 2011 - Terez"
+  },
+  "605": {
+    "id": 605,
+    "date": "2011-04-17",
+    "title": "Driving Mr. Sanderson - Terez"
+  },
+  "606": {
+    "id": 606,
+    "date": "2011-05-09",
+    "title": "Brandon Sanderson's Blog: Gemmell Award Nominations + Updates"
+  },
+  "607": {
+    "id": 607,
+    "date": "2011-05-30",
+    "title": "Pancakes and Fries with Brandon Sanderson - Isabel"
+  },
+  "608": {
+    "id": 608,
+    "date": "2011-05-30",
+    "title": "Amsterdam Pancakes and Fries Report - jarno87"
+  },
+  "609": {
+    "id": 609,
+    "date": "2011-05-30",
+    "title": "Amsterdam Pancakes and Fries Report - yks"
+  },
+  "61": {
+    "id": 61,
+    "date": "1995-06-16",
+    "title": "East of the Sun Con - Bo Lindbergh"
+  },
+  "610": {
+    "id": 610,
+    "date": "2011-06-04",
+    "title": "London Signing Report - Thomas C"
+  },
+  "611": {
+    "id": 611,
+    "date": "2011-06-22",
+    "title": "Brandon Sanderson's Blog: THE WAY OF KINGS Wins the David Gemmell Legend Award"
+  },
+  "612": {
+    "id": 612,
+    "date": "2011-07-02",
+    "title": "Fantasy Faction Interview"
+  },
+  "613": {
+    "id": 613,
+    "date": "2011-07-16",
+    "title": "PolarisCon Report - herid"
+  },
+  "614": {
+    "id": 614,
+    "date": "2011-07-16",
+    "title": "PolarisCon Q&A"
+  },
+  "615": {
+    "id": 615,
+    "date": "2011-07-19",
+    "title": "Brandon Sanderson's Blog: Q&A Recording, T-Shirts & Updates"
+  },
+  "616": {
+    "id": 616,
+    "date": "2011-07-22",
+    "title": "San Diego ComicCon Interview with Suvudu"
+  },
+  "617": {
+    "id": 617,
+    "date": "2011-08-01",
+    "title": "SciFi Bulgaria Interview"
+  },
+  "618": {
+    "id": 618,
+    "date": "2011-08-04",
+    "title": "West Jordan Signing Report - 17th Shard"
+  },
+  "619": {
+    "id": 619,
+    "date": "2011-08-21",
+    "title": "WorldCon 2011 Reading - Linda Taglieri"
+  },
+  "62": {
+    "id": 62,
+    "date": "1996-04-05",
+    "title": "Balticon XXX - Bill Garrett"
+  },
+  "620": {
+    "id": 620,
+    "date": "2011-08-29",
+    "title": "Literatopia Interview"
+  },
+  "621": {
+    "id": 621,
+    "date": "2011-08-31",
+    "title": "WorldCon 2011 WoT Panel - Linda Taglieri"
+  },
+  "622": {
+    "id": 622,
+    "date": "2011-08-31",
+    "title": "Reddit AMA 2011"
+  },
+  "623": {
+    "id": 623,
+    "date": "2011-09-01",
+    "title": "Fantasy Magazine Interview - Leigh Butler"
+  },
+  "624": {
+    "id": 624,
+    "date": "2011-10-05",
+    "title": "Brandon Sanderson's Blog: A MEMORY OF LIGHT Naming Rights for JordanCon and the Mayo Clinic"
+  },
+  "625": {
+    "id": 625,
+    "date": "2011-10-06",
+    "title": "Brandon Sanderson's Blog: Get a personalized copy of TOWERS OF MIDNIGHT + Holiday shipping deadlines"
+  },
+  "626": {
+    "id": 626,
+    "date": "2011-10-10",
+    "title": "Brandon Sanderson's Blog: A MEMORY OF LIGHT names + Updates"
+  },
+  "627": {
+    "id": 627,
+    "date": "2011-10-15",
+    "title": "NY ComicCon Report - Ted Herman"
+  },
+  "628": {
+    "id": 628,
+    "date": "2011-08-01",
+    "title": "Brandon Sanderson's Blog: Mistborn Adventure Game preorders + Updates"
+  },
+  "629": {
+    "id": 629,
+    "date": "2011-01-01",
+    "title": "Amazon.com Author One-on-One: Patrick Rothfuss and Brandon Sanderson"
+  },
+  "63": {
+    "id": 63,
+    "date": "1994-10-01",
+    "title": "Reality Break Podcast"
+  },
+  "630": {
+    "id": 630,
+    "date": "2004-01-01",
+    "title": "New Spring Audiobook Interview"
+  },
+  "631": {
+    "id": 631,
+    "date": "1997-01-01",
+    "title": "Audio Renaissance Interview"
+  },
+  "632": {
+    "id": 632,
+    "date": "2011-11-11",
+    "title": "Alloy of Law Signing Report - Wetlandernw"
+  },
+  "633": {
+    "id": 633,
+    "date": "2011-11-01",
+    "title": "Brandon Sanderson's Blog: Mistborn: THE ALLOY OF LAW comes out in one week"
+  },
+  "634": {
+    "id": 634,
+    "date": "2011-11-09",
+    "title": "Brandon Sanderson's Blog: New Wheel of Time Great Hunt"
+  },
+  "635": {
+    "id": 635,
+    "date": "2011-11-15",
+    "title": "Brandon Sanderson's Blog: ALLOY illustrations, Blood and Bloody Ashes Shirt + Updates"
+  },
+  "636": {
+    "id": 636,
+    "date": "2011-11-16",
+    "title": "Open The Fridge Interview"
+  },
+  "637": {
+    "id": 637,
+    "date": "2011-11-07",
+    "title": "Neth Space Interview: Brandon Sanderson"
+  },
+  "638": {
+    "id": 638,
+    "date": "2011-11-19",
+    "title": "Alloy of Law Signing Report - ValMar"
+  },
+  "639": {
+    "id": 639,
+    "date": "2010-01-01",
+    "title": "Twitter: Fan Names in the WoT Books"
+  },
+  "64": {
+    "id": 64,
+    "date": "1996-04-05",
+    "title": "BaltiCon XXX - Pam Korda"
+  },
+  "640": {
+    "id": 640,
+    "date": "2011-11-22",
+    "title": "Alloy of Law Signing Report - Zombie Sammael"
+  },
+  "641": {
+    "id": 641,
+    "date": "2011-11-21",
+    "title": "Alloy of Law Signing Report - littleleicesterfox"
+  },
+  "642": {
+    "id": 642,
+    "date": "2011-11-21",
+    "title": "Alloy of Law Signing Report - Lord Juss"
+  },
+  "643": {
+    "id": 643,
+    "date": "2001-04-10",
+    "title": "Elf Fantasy Fair Interview with Robert Jordan - Kurafire"
+  },
+  "644": {
+    "id": 644,
+    "date": "2001-04-01",
+    "title": "RJ in the Netherlands - Marion Kippers"
+  },
+  "645": {
+    "id": 645,
+    "date": "2001-04-08",
+    "title": "Elf Fantasy Fair - Sydo Zandstra"
+  },
+  "646": {
+    "id": 646,
+    "date": "2000-11-30",
+    "title": "WH Signing Report - Matt Peck"
+  },
+  "647": {
+    "id": 647,
+    "date": "2001-01-01",
+    "title": "Author's Table Interview"
+  },
+  "648": {
+    "id": 648,
+    "date": "1999-08-27",
+    "title": "Melbourne Film Festival - Steven Cooper"
+  },
+  "649": {
+    "id": 649,
+    "date": "2003-01-21",
+    "title": "COT Signing Report - Ajierene"
+  },
+  "65": {
+    "id": 65,
+    "date": "1996-06-21",
+    "title": "ACOS Signing Report - Brian Ritchie"
+  },
+  "650": {
+    "id": 650,
+    "date": "2003-01-21",
+    "title": "COT Signing Report - Sonne"
+  },
+  "651": {
+    "id": 651,
+    "date": "2001-10-05",
+    "title": "Archon Report - Westeros"
+  },
+  "652": {
+    "id": 652,
+    "date": "2006-01-01",
+    "title": "The Great Hunt 2011: Excerpts from Robert Jordan's notes"
+  },
+  "653": {
+    "id": 653,
+    "date": "1994-10-27",
+    "title": "LOC Signing Report - Keith Casner"
+  },
+  "654": {
+    "id": 654,
+    "date": "1994-10-27",
+    "title": "LOC Signing Report - Mike Allen"
+  },
+  "655": {
+    "id": 655,
+    "date": "1994-10-22",
+    "title": "LOC Signing Report - Scot T. May"
+  },
+  "656": {
+    "id": 656,
+    "date": "1999-09-03",
+    "title": "Sydney Signing Report - Donald Lowe"
+  },
+  "657": {
+    "id": 657,
+    "date": "2001-04-01",
+    "title": "Elf Fantasy Fair - Myranya"
+  },
+  "658": {
+    "id": 658,
+    "date": "2003-01-15",
+    "title": "COT Signing Report - Daniel Adams"
+  },
+  "659": {
+    "id": 659,
+    "date": "2005-10-13",
+    "title": "KOD Signing Report - Domani Lass"
+  },
+  "66": {
+    "id": 66,
+    "date": "1996-06-26",
+    "title": "Compuserve Chat"
+  },
+  "660": {
+    "id": 660,
+    "date": "2005-11-02",
+    "title": "KOD Signing Report - Phoenix Hunter"
+  },
+  "661": {
+    "id": 661,
+    "date": "1995-06-16",
+    "title": "East of the Sun Con - Brandoch Daha"
+  },
+  "662": {
+    "id": 662
+  },
+  "663": {
+    "id": 663,
+    "date": "1999-08-31",
+    "title": "Melbourne Writers' Festival - Ali Kayn"
+  },
+  "664": {
+    "id": 664,
+    "date": "1995-06-16",
+    "title": "East of the Sun Con - Hans Persson"
+  },
+  "665": {
+    "id": 665,
+    "date": "1996-08-23",
+    "title": "ACOS Signing Report - Robert Watson"
+  },
+  "666": {
+    "id": 666,
+    "date": "2011-11-10",
+    "title": "Alloy of Law Signing Report - Green Hoodie Mistborn"
+  },
+  "667": {
+    "id": 667
+  },
+  "668": {
+    "id": 668,
+    "date": "2011-11-21",
+    "title": "Brandon Sanderson's Blog: Mistborn & Stormlight gamer bags + Updates"
+  },
+  "669": {
+    "id": 669,
+    "date": "2011-12-05",
+    "title": "An Interview with Brandon Sanderson by Helen Lowe"
+  },
+  "67": {
+    "id": 67,
+    "date": "1996-06-27",
+    "title": "AOL Chat 1"
+  },
+  "670": {
+    "id": 670,
+    "date": "2011-12-06",
+    "title": "Brandon Sanderson's Blog: Darrell Sweet"
+  },
+  "671": {
+    "id": 671
+  },
+  "672": {
+    "id": 672,
+    "date": "2011-12-12",
+    "title": "Brandon Sanderson's Blog: Where to buy signed copies of THE ALLOY OF LAW + Updates"
+  },
+  "673": {
+    "id": 673,
+    "date": "2011-06-01",
+    "title": "Orbit Books Interview Snippets"
+  },
+  "674": {
+    "id": 674,
+    "date": "2004-05-19",
+    "title": "Rome Signing Report - Raven"
+  },
+  "675": {
+    "id": 675,
+    "date": "2011-12-15",
+    "title": "Alloy of Law Signing Report - Zas"
+  },
+  "676": {
+    "id": 676,
+    "date": "2004-05-24",
+    "title": "Fantasy Magazine Interview with Robert Jordan"
+  },
+  "677": {
+    "id": 677,
+    "date": "2004-05-06",
+    "title": "Turin Book Fair Reports"
+  },
+  "678": {
+    "id": 678,
+    "date": "2004-05-07",
+    "title": "Milan Signing Reports"
+  },
+  "679": {
+    "id": 679
+  },
+  "68": {
+    "id": 68,
+    "date": "1996-06-27",
+    "title": "AOL Chat 2"
+  },
+  "680": {
+    "id": 680,
+    "date": "2010-01-18",
+    "title": "Goodreads Fantasy Book Discussion Warbreaker Q&A"
+  },
+  "681": {
+    "id": 681,
+    "date": "2002-05-18",
+    "title": "Jordan confirms 3 new novellas!"
+  },
+  "682": {
+    "id": 682,
+    "date": "2002-06-13",
+    "title": "Robert Jordan on the status of Book 10"
+  },
+  "683": {
+    "id": 683,
+    "date": "2003-04-23",
+    "title": "Robert Jordan in Budapest"
+  },
+  "684": {
+    "id": 684,
+    "date": "2003-05-28",
+    "title": "Robert Jordan gives insight into NEW SPRING"
+  },
+  "685": {
+    "id": 685,
+    "date": "2003-06-02",
+    "title": "Robert Jordan gives MORE insight into NEW SPRING"
+  },
+  "686": {
+    "id": 686,
+    "date": "1994-02-18",
+    "title": "Piers Anthony - Letters to Jenny"
+  },
+  "687": {
+    "id": 687,
+    "date": "2007-06-11",
+    "title": "Mormon Writers Symposium: Brandon Sanderson"
+  },
+  "688": {
+    "id": 688,
+    "date": "2011-12-17",
+    "title": "Alloy of Law Signing Report - Zas"
+  },
+  "689": {
+    "id": 689,
+    "date": "2011-11-08",
+    "title": "Alloy of Law Midnight Release"
+  },
+  "69": {
+    "id": 69,
+    "date": "1996-08-04",
+    "title": "ACOS Signing Report - Hawk"
+  },
+  "690": {
+    "id": 690,
+    "date": "2009-07-01",
+    "title": "Twitter: Brandonothology collection"
+  },
+  "691": {
+    "id": 691,
+    "date": "2010-05-01",
+    "title": "Ancient 17th Shard Question and Answer"
+  },
+  "692": {
+    "id": 692,
+    "date": "2010-10-15",
+    "title": "17th Shard Interview"
+  },
+  "693": {
+    "id": 693,
+    "date": "2010-05-24",
+    "title": "Dragon Page: Cover to Cover Interview"
+  },
+  "694": {
+    "id": 694,
+    "date": "2099-01-01",
+    "title": "Tag Lists"
+  },
+  "695": {
+    "id": 695,
+    "date": "2011-12-19",
+    "title": "Brandon Sanderson's Blog: Mistborn Adventure Game Out Now + Updates"
+  },
+  "696": {
+    "id": 696,
+    "date": "2011-12-27",
+    "title": "Brandon Sanderson's Blog: First Draft Finished + Updates"
+  },
+  "697": {
+    "id": 697,
+    "date": "2010-12-01",
+    "title": "Goodreads WoK Fantasy Book Club Q&A with Brandon Sanderson"
+  },
+  "698": {
+    "id": 698,
+    "date": "2011-01-01",
+    "title": "Twitter 2011 (Cosmere)"
+  },
+  "699": {
+    "id": 699,
+    "date": "2011-03-19",
+    "title": "Vericon Report - Puck"
+  },
+  "7": {
+    "id": 7,
+    "date": "2005-07-19",
+    "title": "TOR Questions of the Week Part III"
+  },
+  "70": {
+    "id": 70,
+    "date": "1996-08-04",
+    "title": "ACOS Signing Report - Dean West"
+  },
+  "700": {
+    "id": 700,
+    "date": "2011-05-31",
+    "title": "Oslo Signing Report - Thorondir"
+  },
+  "701": {
+    "id": 701,
+    "date": "2011-06-01",
+    "title": "Amsterdam report - Ashley Cowles"
+  },
+  "702": {
+    "id": 702
+  },
+  "703": {
+    "id": 703,
+    "date": "1998-11-21",
+    "title": "TPOD Signing Report - Jason Atkinson"
+  },
+  "704": {
+    "id": 704,
+    "date": "2011-11-14",
+    "title": "Twitter Tor Chat (Cosmere)"
+  },
+  "705": {
+    "id": 705,
+    "date": "2011-11-23",
+    "title": "Alloy of Law Signing Report - Tortellini"
+  },
+  "706": {
+    "id": 706,
+    "date": "2011-11-19",
+    "title": "Alloy of Law Signing Report - Orome & Fejicus"
+  },
+  "707": {
+    "id": 707,
+    "date": "2011-11-12",
+    "title": "Alloy of Law Signing Report - zxg15"
+  },
+  "708": {
+    "id": 708,
+    "date": "2012-01-01",
+    "title": "Alloy of Law Reddit Q&A"
+  },
+  "709": {
+    "id": 709,
+    "date": "2000-12-07",
+    "title": "CNN Interview"
+  },
+  "71": {
+    "id": 71,
+    "date": "1996-08-23",
+    "title": "ACOS Signing Report - Lara Beaton"
+  },
+  "710": {
+    "id": 710,
+    "date": "2012-01-20",
+    "title": "Brandon Sanderson's Blog: Signed, leatherbound THE GATHERING STORM and TOWERS OF MIDNIGHT auction for Worldbuilders charity"
+  },
+  "711": {
+    "id": 711,
+    "date": "2012-01-24",
+    "title": "Brandon Sanderson's Blog: Alcatraz Annotations + Updates"
+  },
+  "712": {
+    "id": 712,
+    "date": "2012-02-06",
+    "title": "Brandon Sanderson's Blog: Newsletter + Updates"
+  },
+  "713": {
+    "id": 713,
+    "date": "2009-11-14",
+    "title": "TGS Signing Report - Claireducky"
+  },
+  "714": {
+    "id": 714
+  },
+  "715": {
+    "id": 715,
+    "date": "2012-01-01",
+    "title": "Twitter 2012 (Cosmere)"
+  },
+  "716": {
+    "id": 716,
+    "date": "2012-01-01",
+    "title": "Twitter 2012 (WoT)"
+  },
+  "717": {
+    "id": 717,
+    "date": "2007-12-08",
+    "title": "Dragonmount Interview with Brandon Sanderson"
+  },
+  "718": {
+    "id": 718,
+    "date": "2011-11-24",
+    "title": "Alloy of Law Signing Report - FireArcadia"
+  },
+  "719": {
+    "id": 719
+  },
+  "72": {
+    "id": 72,
+    "date": "1996-08-25",
+    "title": "ACOS Signing Report - Greebs"
+  },
+  "720": {
+    "id": 720,
+    "date": "2010-03-05",
+    "title": "Michael Whelan, an appreciation\u2014Brandon Sanderson"
+  },
+  "721": {
+    "id": 721,
+    "date": "2008-10-20",
+    "title": "TorForge Hero of Ages Interview"
+  },
+  "722": {
+    "id": 722,
+    "date": "2012-01-01",
+    "title": "Reddit 2012 (WoT)"
+  },
+  "723": {
+    "id": 723,
+    "date": "2012-01-01",
+    "title": "Reddit 2012 (Non-WoT)"
+  },
+  "724": {
+    "id": 724,
+    "date": "2012-02-26",
+    "title": "WoT Production Tidbits - JD and Teresa Nielsen Hayden"
+  },
+  "725": {
+    "id": 725,
+    "date": "2011-12-17",
+    "title": "Alloy of Law Signing Report - Loialson"
+  },
+  "726": {
+    "id": 726
+  },
+  "727": {
+    "id": 727,
+    "date": "2008-10-01",
+    "title": "Hero of Ages Q&A - TWG"
+  },
+  "728": {
+    "id": 728,
+    "date": "2010-11-02",
+    "title": "Interview with Brandon Sanderson - A Dribble of Ink"
+  },
+  "729": {
+    "id": 729,
+    "date": "2007-09-26",
+    "title": "Interview with Brandon Sanderson - A Dribble of Ink"
+  },
+  "73": {
+    "id": 73,
+    "date": "1997-04-01",
+    "title": "SFX Magazine Interview"
+  },
+  "730": {
+    "id": 730,
+    "date": "2005-10-29",
+    "title": "KOD Signing Report - Congo Red Jr."
+  },
+  "731": {
+    "id": 731,
+    "date": "2005-11-04",
+    "title": "KOD Signing Report - Saladdodger"
+  },
+  "732": {
+    "id": 732,
+    "date": "2008-01-01",
+    "title": "Time Waster's Guide Posts"
+  },
+  "733": {
+    "id": 733,
+    "date": "2000-09-01",
+    "title": "Wanderer Fantasy Convention - Interview with Robert Jordan"
+  },
+  "734": {
+    "id": 734,
+    "date": "2000-09-01",
+    "title": "Wanderer Fantasy Convention - \"Wars of the Future\" with Robert Jordan"
+  },
+  "735": {
+    "id": 735,
+    "date": "2000-09-01",
+    "title": "Robert Jordan in St. Petersburg - Lois McMaster Bujold"
+  },
+  "736": {
+    "id": 736,
+    "date": "2011-11-11",
+    "title": "Alloy of Law Signing Report - Brian T. Hill"
+  },
+  "737": {
+    "id": 737,
+    "date": "2003-05-15",
+    "title": "La Repubblica - Interview with Robert Jordan"
+  },
+  "738": {
+    "id": 738,
+    "date": "1997-03-05",
+    "title": "Letter to Leslie Annis"
+  },
+  "739": {
+    "id": 739,
+    "date": "2012-04-01",
+    "title": "Twitter: SwanCon 2012 - PRK"
+  },
+  "74": {
+    "id": 74,
+    "date": "1996-10-18",
+    "title": "AOL Chat"
+  },
+  "740": {
+    "id": 740,
+    "date": "2012-04-11",
+    "title": "A Chat with Brandon Sanderson"
+  },
+  "741": {
+    "id": 741,
+    "date": "2012-02-16",
+    "title": "Brandon Sanderson's Blog: A MEMORY OF LIGHT Release Date"
+  },
+  "742": {
+    "id": 742,
+    "date": "2012-02-28",
+    "title": "Brandon Sanderson's Blog: Updates + More T-Shirts"
+  },
+  "743": {
+    "id": 743,
+    "date": "2012-03-05",
+    "title": "Brandon Sanderson's Blog: Hugo Nominations Deadline, Suvudu Cage Match & Updates"
+  },
+  "744": {
+    "id": 744,
+    "date": "2012-03-20",
+    "title": "Brandon Sanderson's Blog: ALCATRAZ 2 Audiobook, Trailers & Updates"
+  },
+  "745": {
+    "id": 745,
+    "date": "2012-03-27",
+    "title": "Brandon Sanderson's Blog: Moiraine vs. Kelsier, Gen Con Indy, Interview + Updates"
+  },
+  "746": {
+    "id": 746,
+    "date": "2012-03-01",
+    "title": "Interview: Brandon Sanderson on (primarily) The Alloy of Law and narrator Michael Kramer"
+  },
+  "747": {
+    "id": 747,
+    "date": "2012-03-17",
+    "title": "Writing for Charity Signing"
+  },
+  "748": {
+    "id": 748,
+    "date": "2012-04-09",
+    "title": "Interview with Isaac Stewart, the man behind the maps of Mistborn and The Way of Kings"
+  },
+  "749": {
+    "id": 749,
+    "date": "2012-04-01",
+    "title": "Afternoon Tea with Brandon Sanderson - Luckers"
+  },
+  "75": {
+    "id": 75,
+    "date": "1996-10-09",
+    "title": "ACOS Signing Report - Erica Sadun"
+  },
+  "750": {
+    "id": 750,
+    "date": "2012-04-18",
+    "title": "Sydney Signing Report - Luckers"
+  },
+  "751": {
+    "id": 751,
+    "date": "2012-04-18",
+    "title": "Sydney Signing Report - dicetosser"
+  },
+  "752": {
+    "id": 752,
+    "date": "2012-04-21",
+    "title": "Gold Coast SupaNova - Amadine"
+  },
+  "753": {
+    "id": 753,
+    "date": "2012-04-01",
+    "title": "Gold Coast SupaNova - Eleanor Chandler-Temple"
+  },
+  "754": {
+    "id": 754,
+    "date": "2012-04-21",
+    "title": "Kaffeeklatsch with Team Jordan - Ishara"
+  },
+  "755": {
+    "id": 755,
+    "date": "2012-04-17",
+    "title": "Google+ Hangout"
+  },
+  "756": {
+    "id": 756,
+    "date": "2012-04-21",
+    "title": "JordanCon AMOL Status Report - Marie Curie"
+  },
+  "757": {
+    "id": 757,
+    "date": "2012-04-21",
+    "title": "Kaffeeklatsch with Harriet - yks 6nnetu hing"
+  },
+  "758": {
+    "id": 758,
+    "date": "2012-04-17",
+    "title": "ABC Interview: Why Brandon Sanderson Took on the Wheel of Time"
+  },
+  "759": {
+    "id": 759,
+    "date": "2012-04-21",
+    "title": "Theoryland: An Hour with Harriet McDougal Rigney"
+  },
+  "76": {
+    "id": 76,
+    "date": "1996-10-12",
+    "title": "ACOS Signing Report - Mike Lawson"
+  },
+  "760": {
+    "id": 760,
+    "date": "2008-01-01",
+    "title": "Charleston City Portrait - Jack Bass"
+  },
+  "761": {
+    "id": 761,
+    "date": "1993-09-13",
+    "title": "Letter to Jeffrey Daniel"
+  },
+  "762": {
+    "id": 762,
+    "date": "2012-04-01",
+    "title": "Melbourne SupaNova - wotsummary"
+  },
+  "763": {
+    "id": 763,
+    "date": "2010-09-21",
+    "title": "Boomtron Interview"
+  },
+  "764": {
+    "id": 764,
+    "date": "2012-02-06",
+    "title": "The China Post: American fantasy author talks about Chinese influence in his best-sellers"
+  },
+  "765": {
+    "id": 765,
+    "date": "2012-05-02",
+    "title": "Superstars Writing Seminar - Mark Grayson"
+  },
+  "766": {
+    "id": 766,
+    "date": "2012-05-01",
+    "title": "A Memory of Light Cover Art Round-Up"
+  },
+  "767": {
+    "id": 767,
+    "date": "2009-08-08",
+    "title": "WorldCon 2009 - Dom"
+  },
+  "768": {
+    "id": 768,
+    "date": "2005-01-01",
+    "title": "Brandon's Aon Descriptions"
+  },
+  "769": {
+    "id": 769,
+    "date": "2004-10-18",
+    "title": "Elantris Annotations"
+  },
+  "77": {
+    "id": 77,
+    "date": "1996-10-12",
+    "title": "ACOS Signing Report - Michael Martin"
+  },
+  "770": {
+    "id": 770,
+    "date": "2010-11-07",
+    "title": "TOM Signing Report - nwash10"
+  },
+  "771": {
+    "id": 771,
+    "date": "2010-11-06",
+    "title": "TOM Signing Report - Mr. Black"
+  },
+  "772": {
+    "id": 772,
+    "date": "2010-04-03",
+    "title": "MiniCon 2010 - Jennifer Liang"
+  },
+  "773": {
+    "id": 773,
+    "date": "2011-01-12",
+    "title": "SLC Signing Report - Matt Hatch"
+  },
+  "774": {
+    "id": 774,
+    "date": "2010-11-16",
+    "title": "Paris Signing Report - Ayyad Azryelle"
+  },
+  "775": {
+    "id": 775,
+    "date": "2009-11-01",
+    "title": "TGS Signing Report - Piestrio"
+  },
+  "776": {
+    "id": 776,
+    "date": "2010-09-18",
+    "title": "TWOK Signing Report - rew"
+  },
+  "777": {
+    "id": 777,
+    "date": "2010-11-05",
+    "title": "TOM Signing Report - Drew"
+  },
+  "778": {
+    "id": 778,
+    "date": "2009-11-06",
+    "title": "TGS Signing Report - gammahunter"
+  },
+  "779": {
+    "id": 779,
+    "date": "2010-04-23",
+    "title": "JordanCon 2010 - Kristi Deming"
+  },
+  "78": {
+    "id": 78,
+    "date": "1997-01-14",
+    "title": "Letter to Thomas Howard"
+  },
+  "780": {
+    "id": 780,
+    "date": "2011-06-04",
+    "title": "London Signing Report - ValMar"
+  },
+  "781": {
+    "id": 781,
+    "date": "2010-11-03",
+    "title": "TOM Signing Report - Seafolk Sedai"
+  },
+  "782": {
+    "id": 782,
+    "date": "2009-11-10",
+    "title": "TGS Signing Report - Laurel4Amyrlin"
+  },
+  "783": {
+    "id": 783,
+    "date": "2010-04-24",
+    "title": "JordanCon 2010 - blindillusion"
+  },
+  "784": {
+    "id": 784,
+    "date": "2009-11-21",
+    "title": "Rand's New Sword - Jennifer Liang"
+  },
+  "785": {
+    "id": 785,
+    "date": "2010-11-04",
+    "title": "TOM Signing Report - aurik"
+  },
+  "786": {
+    "id": 786,
+    "date": "2009-11-21",
+    "title": "TGS Signing Report - Jason Wolfbrother"
+  },
+  "787": {
+    "id": 787,
+    "date": "2009-11-04",
+    "title": "TGS Signing Report - mrc1ark"
+  },
+  "788": {
+    "id": 788,
+    "date": "2010-04-26",
+    "title": "JordanCon 2010 - Linda Taglieri"
+  },
+  "789": {
+    "id": 789,
+    "date": "2010-11-04",
+    "title": "TOM Signing Report - Eformo"
+  },
+  "79": {
+    "id": 79,
+    "date": "1997-06-28",
+    "title": "DragonCon SciFi Channel Chat"
+  },
+  "790": {
+    "id": 790,
+    "date": "2009-10-30",
+    "title": "TGS Signing Report - jharoldson"
+  },
+  "791": {
+    "id": 791,
+    "date": "2011-04-21",
+    "title": "Kaffeklatsch with Harriet"
+  },
+  "792": {
+    "id": 792,
+    "date": "2010-05-30",
+    "title": "CONduit XX - Matt Hatch"
+  },
+  "793": {
+    "id": 793,
+    "date": "2009-11-21",
+    "title": "TGS Signing Report - Lauren"
+  },
+  "794": {
+    "id": 794,
+    "date": "2009-10-28",
+    "title": "TGS Signing Report - Barmacral"
+  },
+  "795": {
+    "id": 795,
+    "date": "2009-10-31",
+    "title": "TGS Signing Report - Matt Hatch"
+  },
+  "796": {
+    "id": 796,
+    "date": "2012-04-10",
+    "title": "Brandon Sanderson's Blog: GLAMOUR IN GLASS, Suvudu Cage Match Finals, ALCATRAZ Annotation"
+  },
+  "797": {
+    "id": 797,
+    "date": "2012-04-30",
+    "title": "Brandon Sanderson's Blog: Class Lecture on Characterization + Updates"
+  },
+  "798": {
+    "id": 798,
+    "date": "2012-06-28",
+    "title": "Brandon Sanderson's Blog: June is Audiobook Month"
+  },
+  "799": {
+    "id": 799,
+    "date": "2004-10-01",
+    "title": "Elantris Group Questions"
+  },
+  "8": {
+    "id": 8,
+    "date": "2005-11-04",
+    "title": "KOD Signing Report - Karana Majin"
+  },
+  "80": {
+    "id": 80,
+    "date": "1997-11-11",
+    "title": "Barnes and Noble Chat"
+  },
+  "800": {
+    "id": 800,
+    "date": "2012-07-13",
+    "title": "San Diego Comic Con 2012"
+  },
+  "801": {
+    "id": 801,
+    "date": "2012-07-03",
+    "title": "Brandon Sanderson's Blog: THE HOLLOW CITY Release Party Tonight"
+  },
+  "802": {
+    "id": 802,
+    "date": "2012-07-05",
+    "title": "Brandon Sanderson's Blog: M13 Prerelease"
+  },
+  "803": {
+    "id": 803,
+    "date": "2012-07-05",
+    "title": "Brandon Sanderson's Blog: My Comic-Con Schedule"
+  },
+  "804": {
+    "id": 804,
+    "date": "2012-07-09",
+    "title": "Brandon Sanderson's Blog: Final 2012 Creative Writing Lecture + Updates"
+  },
+  "805": {
+    "id": 805,
+    "date": "2012-07-11",
+    "title": "Brandon Sanderson's Blog: San Diego Comic-Con"
+  },
+  "806": {
+    "id": 806,
+    "date": "2012-07-16",
+    "title": "Brandon Sanderson's Blog: Interviews + Updates"
+  },
+  "807": {
+    "id": 807,
+    "date": "2013-04-21",
+    "title": "Invisible Vanguard Interview"
+  },
+  "808": {
+    "id": 808,
+    "date": "2012-06-29",
+    "title": "Fictorian Era Interview"
+  },
+  "809": {
+    "id": 809,
+    "date": "2012-07-10",
+    "title": "A Feast of Fantasy Interview"
+  },
+  "81": {
+    "id": 81,
+    "date": "1998-09-01",
+    "title": "TPOD Signing Report - Rajiv Mote"
+  },
+  "810": {
+    "id": 810,
+    "date": "2012-05-01",
+    "title": "Dark Matter Interview"
+  },
+  "811": {
+    "id": 811,
+    "date": "2012-04-01",
+    "title": "JordanCon 2012 - Terez"
+  },
+  "812": {
+    "id": 812,
+    "date": "2012-07-22",
+    "title": "LibertyCon 2012 - emozilla"
+  },
+  "813": {
+    "id": 813,
+    "date": "2012-07-20",
+    "title": "Chattanooga Times Free Press Q&A with fantasy author Brandon Sanderson"
+  },
+  "814": {
+    "id": 814,
+    "date": "2012-07-17",
+    "title": "Other Tidbits From Brandon Sanderson's SDCC Spotlight"
+  },
+  "815": {
+    "id": 815
+  },
+  "816": {
+    "id": 816,
+    "date": "2012-08-01",
+    "title": "Brandon Sanderson's Blog: Today, I got up and I did not have a Wheel of Time book to work on."
+  },
+  "817": {
+    "id": 817,
+    "date": "2000-11-27",
+    "title": "WH Signing Report - Fairfax McCandlish"
+  },
+  "818": {
+    "id": 818,
+    "date": "2012-07-21",
+    "title": "LibertyCon 2012 - AMOL Update Panel"
+  },
+  "819": {
+    "id": 819,
+    "date": "2012-04-21",
+    "title": "JordanCon 2012 - AMOL Update Panel"
+  },
+  "82": {
+    "id": 82,
+    "date": "1998-10-01",
+    "title": "Waldenbooks Interview"
+  },
+  "820": {
+    "id": 820,
+    "date": "2003-01-08",
+    "title": "COT Signing Report - Kean"
+  },
+  "821": {
+    "id": 821,
+    "date": "2003-01-08",
+    "title": "COT Signing Report - Dave Rothgery"
+  },
+  "822": {
+    "id": 822,
+    "date": "1998-10-24",
+    "title": "TPOD Signing Report - Mike Steeves"
+  },
+  "823": {
+    "id": 823,
+    "date": "2003-01-15",
+    "title": "COT Signing Report - Sei'taer"
+  },
+  "824": {
+    "id": 824,
+    "date": "2005-02-01",
+    "title": "Dragonmount Interview with Teresa Patterson"
+  },
+  "825": {
+    "id": 825,
+    "date": "1995-01-25",
+    "title": "Stanford Bookstore Newsletter Interview"
+  },
+  "826": {
+    "id": 826,
+    "date": "2006-07-29",
+    "title": "Mistborn: The Final Empire Annotations"
+  },
+  "827": {
+    "id": 827
+  },
+  "828": {
+    "id": 828,
+    "date": "1990-01-01",
+    "title": "TEOTW Signing Report - The Fisher King"
+  },
+  "829": {
+    "id": 829,
+    "date": "2005-04-02",
+    "title": "Robert Jordan's Next Series!"
+  },
+  "83": {
+    "id": 83,
+    "date": "1998-10-19",
+    "title": "Barnes and Noble Chat"
+  },
+  "830": {
+    "id": 830,
+    "date": "2005-10-13",
+    "title": "KOD Signing Report - Ross"
+  },
+  "831": {
+    "id": 831,
+    "date": "2005-10-17",
+    "title": "KOD Signing Report - Jennifer"
+  },
+  "832": {
+    "id": 832,
+    "date": "2005-10-17",
+    "title": "KOD Signing Report - Zach"
+  },
+  "833": {
+    "id": 833,
+    "date": "2005-10-12",
+    "title": "KOD Signing Report - Brian"
+  },
+  "834": {
+    "id": 834,
+    "date": "2005-10-11",
+    "title": "KOD Signing Report - David Funke"
+  },
+  "835": {
+    "id": 835,
+    "date": "2005-10-11",
+    "title": "KOD Signing Report - Byryn"
+  },
+  "836": {
+    "id": 836,
+    "date": "2012-09-22",
+    "title": "Orem Signing Report - Zas"
+  },
+  "837": {
+    "id": 837,
+    "date": "2012-09-02",
+    "title": "DragonCon 2012 - AMOL Update Panel"
+  },
+  "838": {
+    "id": 838,
+    "date": "2012-09-02",
+    "title": "DragonCon 2012 - AMOL Update Report"
+  },
+  "839": {
+    "id": 839
+  },
+  "84": {
+    "id": 84,
+    "date": "1998-10-20",
+    "title": "TPOD Signing Report - Aaron Bergman"
+  },
+  "840": {
+    "id": 840,
+    "date": "2012-10-10",
+    "title": "Brandon Sanderson on UNFETTERED"
+  },
+  "841": {
+    "id": 841,
+    "date": "1997-04-01",
+    "title": "SFX Profile: Robert Jordan"
+  },
+  "842": {
+    "id": 842,
+    "date": "1996-08-01",
+    "title": "Waldenbooks Hailing Frequency Interview"
+  },
+  "843": {
+    "id": 843,
+    "date": "2003-03-15",
+    "title": "Charleston City Paper (Cover Story)"
+  },
+  "844": {
+    "id": 844,
+    "date": "2012-11-03",
+    "title": "Toronto Signing Report - herid"
+  },
+  "845": {
+    "id": 845,
+    "date": "2012-11-24",
+    "title": "Idaho Falls Signing Report - PrncRny"
+  },
+  "846": {
+    "id": 846,
+    "date": "2012-07-09",
+    "title": "BayCon 2012 - Galley Table Podcast with Brandon Sanderson"
+  },
+  "847": {
+    "id": 847,
+    "date": "2012-04-14",
+    "title": "Melbourne SupaNova 2012 - Q&A Podcast with Brandon Sanderson"
+  },
+  "848": {
+    "id": 848,
+    "date": "2009-06-01",
+    "title": "Babel Clash: Brandon Sanderson"
+  },
+  "849": {
+    "id": 849,
+    "date": "2012-01-01",
+    "title": "Memories of Light"
+  },
+  "85": {
+    "id": 85,
+    "date": "1998-10-20",
+    "title": "TPOD Signing Report - Ryan R."
+  },
+  "850": {
+    "id": 850,
+    "date": "2012-08-29",
+    "title": "Brandon Sanderson's Blog: My Dragon*Con Schedule"
+  },
+  "851": {
+    "id": 851,
+    "date": "2012-09-04",
+    "title": "Brandon Sanderson's Blog: Writing Excuses Parsec + A MEMORY OF LIGHT Excerpt"
+  },
+  "852": {
+    "id": 852,
+    "date": "2012-09-25",
+    "title": "Brandon Sanderson's Blog: THE RITHMATIST Cover Art + Updates"
+  },
+  "853": {
+    "id": 853,
+    "date": "2012-10-08",
+    "title": "Brandon Sanderson's Blog: A MEMORY OF LIGHT Signing-by-Mail (SOLD OUT) + Updates"
+  },
+  "854": {
+    "id": 854,
+    "date": "2012-10-10",
+    "title": "Brandon Sanderson's Blog: A MEMORY OF LIGHT deleted sequence \"River of Souls\" to appear in UNFETTERED anthology"
+  },
+  "855": {
+    "id": 855,
+    "date": "2012-10-23",
+    "title": "Brandon Sanderson's Blog: EMPEROR'S SOUL signing-by-mail, AMoL audiobook promo, Holiday shipping deadline + Updates"
+  },
+  "856": {
+    "id": 856,
+    "date": "2012-11-14",
+    "title": "Brandon Sanderson's Blog: A MEMORY OF LIGHT Release Events"
+  },
+  "857": {
+    "id": 857,
+    "date": "2012-12-03",
+    "title": "Brandon Sanderson's Blog: A MEMORY OF LIGHT Happenings + Updates"
+  },
+  "858": {
+    "id": 858,
+    "date": "2012-12-07",
+    "title": "The Robert Jordan Story"
+  },
+  "859": {
+    "id": 859,
+    "date": "2012-12-19",
+    "title": "Harriet McDougal, Tom Doherty, and Brandon Sanderson on Finishing the Series"
+  },
+  "86": {
+    "id": 86,
+    "date": "1998-10-22",
+    "title": "TPOD Signing Report - Pam Basham"
+  },
+  "860": {
+    "id": 860,
+    "date": "2013-01-03",
+    "title": "Goodreads Interview with Brandon Sanderson"
+  },
+  "861": {
+    "id": 861,
+    "date": "2013-01-04",
+    "title": "SFX Interview: How Brandon Sanderson Ended The Wheel of Time"
+  },
+  "862": {
+    "id": 862,
+    "date": "2013-01-07",
+    "title": "Nethspace: Brandon Sanderson on A Memory of Light"
+  },
+  "863": {
+    "id": 863,
+    "date": "2013-01-11",
+    "title": "Reddit Earlybird Q&A"
+  },
+  "864": {
+    "id": 864,
+    "date": "2013-01-07",
+    "title": "Computers Made It Easier"
+  },
+  "865": {
+    "id": 865,
+    "date": "2013-01-07",
+    "title": "Reading the Final Scene of The Wheel of Time"
+  },
+  "866": {
+    "id": 866,
+    "date": "2012-12-31",
+    "title": "Brandon Sanderson's Blog: AMoL Q&A time change! Also, Waygate Foundation & Updates"
+  },
+  "867": {
+    "id": 867,
+    "date": "2013-01-07",
+    "title": "Brandon Sanderson's Blog: YA Novels + AMoL 8:00 Q&A Map + Updates"
+  },
+  "868": {
+    "id": 868,
+    "date": "2013-01-09",
+    "title": "Brandon Sanderson's Blog: It's finally out."
+  },
+  "869": {
+    "id": 869,
+    "date": "2013-01-05",
+    "title": "Lincoln native steps in, completes iconic fantasy book series"
+  },
+  "87": {
+    "id": 87,
+    "date": "1998-10-24",
+    "title": "TPOD Signing Report - Chris Mullins"
+  },
+  "870": {
+    "id": 870,
+    "date": "2013-01-07",
+    "title": "Brandon Sanderson: \"I was absolutely stunned\" when asked to finish The Wheel of Time"
+  },
+  "871": {
+    "id": 871,
+    "date": "2013-01-09",
+    "title": "Brandon Sanderson Completes Robert Jordan's Wheel of Time Fantasy Series"
+  },
+  "872": {
+    "id": 872,
+    "date": "2013-01-11",
+    "title": "AMOL Signing Report - Bravehamster"
+  },
+  "873": {
+    "id": 873,
+    "date": "2013-01-09",
+    "title": "AMOL Signing Report - Marie Curie"
+  },
+  "874": {
+    "id": 874,
+    "date": "2013-01-01",
+    "title": "Twitter 2013 (WoT)"
+  },
+  "875": {
+    "id": 875,
+    "date": "2013-01-02",
+    "title": "Geek's Guide to the Galaxy: Brandon Sanderson"
+  },
+  "876": {
+    "id": 876,
+    "date": "2013-01-04",
+    "title": "For Wheel of Time Fans, The Last Battle Is At Hand"
+  },
+  "877": {
+    "id": 877,
+    "date": "2013-01-11",
+    "title": "AMOL Signing Report - khaosbringer"
+  },
+  "878": {
+    "id": 878,
+    "date": "2013-01-09",
+    "title": "AMOL Signing Report - Austin Moore"
+  },
+  "879": {
+    "id": 879,
+    "date": "2013-01-10",
+    "title": "AMOL Signing Report - Jonrox"
+  },
+  "88": {
+    "id": 88,
+    "date": "1998-10-24",
+    "title": "TPOD Signing Report - Drew Gillmore"
+  },
+  "880": {
+    "id": 880,
+    "date": "2013-01-09",
+    "title": "AMOL Signing Report - Jhirrad"
+  },
+  "881": {
+    "id": 881,
+    "date": "2013-01-10",
+    "title": "AMOL Signing Report - Aiel Heart"
+  },
+  "882": {
+    "id": 882,
+    "date": "2013-01-10",
+    "title": "AMOL Signing Report - Nygmus"
+  },
+  "883": {
+    "id": 883,
+    "date": "2013-01-11",
+    "title": "AMOL Signing Report - Lara"
+  },
+  "884": {
+    "id": 884,
+    "date": "2013-01-11",
+    "title": "AMOL Signing Report - Kara"
+  },
+  "885": {
+    "id": 885,
+    "date": "2013-01-12",
+    "title": "AMOL Signing Report - Christine"
+  },
+  "886": {
+    "id": 886,
+    "date": "2013-01-12",
+    "title": "AMOL Signing Report - Minorja"
+  },
+  "887": {
+    "id": 887,
+    "date": "2013-01-16",
+    "title": "Brandon Sanderson's Blog: Photos & Updates"
+  },
+  "888": {
+    "id": 888,
+    "date": "2013-01-10",
+    "title": "Addlestone Library debuts Wheel of Time collection"
+  },
+  "889": {
+    "id": 889,
+    "date": "2013-01-07",
+    "title": "CofC Expects Crowd of Sci-Fi Enthusiasts for Wheel of Time Event"
+  },
+  "89": {
+    "id": 89,
+    "date": "1998-10-24",
+    "title": "TPOD Signing Report - Justin Howell"
+  },
+  "890": {
+    "id": 890,
+    "date": "1990-02-21",
+    "title": "The Eye of the World press release"
+  },
+  "891": {
+    "id": 891,
+    "date": "2013-01-08",
+    "title": "AMOL Signing Report - Grant"
+  },
+  "892": {
+    "id": 892,
+    "date": "2013-01-09",
+    "title": "AMOL Book Tour - Skokie Q&A"
+  },
+  "893": {
+    "id": 893,
+    "date": "2013-01-07",
+    "title": "AMOL Midnight Release Q&A"
+  },
+  "894": {
+    "id": 894,
+    "date": "2013-01-10",
+    "title": "AMOL Book Tour - Dayton Q&A"
+  },
+  "895": {
+    "id": 895,
+    "date": "2013-01-09",
+    "title": "AMOL Signing Report - Mike Cockrum"
+  },
+  "896": {
+    "id": 896,
+    "date": "2013-01-09",
+    "title": "AMOL Signing Report - Ted Pick"
+  },
+  "897": {
+    "id": 897,
+    "date": "2013-01-01",
+    "title": "Twitter 2013 (Non-WoT)"
+  },
+  "898": {
+    "id": 898,
+    "date": "2012-11-04",
+    "title": "The Arched Doorway: Interview with Brandon Sanderson"
+  },
+  "899": {
+    "id": 899,
+    "date": "2012-11-01",
+    "title": "Ekult\u00fara: Interview with Brandon Sanderson"
+  },
+  "9": {
+    "id": 9,
+    "date": "1991-01-01",
+    "title": "Starlog Interview"
+  },
+  "90": {
+    "id": 90,
+    "date": "1998-10-25",
+    "title": "TPOD Signing Report - Rick Moen"
+  },
+  "900": {
+    "id": 900,
+    "date": "2013-01-04",
+    "title": "NPR Interview with Harriet McDougal"
+  },
+  "901": {
+    "id": 901,
+    "date": "2012-09-01",
+    "title": "NPR Interview with Brandon Sanderson"
+  },
+  "902": {
+    "id": 902,
+    "date": "2012-08-31",
+    "title": "The Heir to Tolkien and Jordan: An Interview with Brandon Winn Sanderson"
+  },
+  "903": {
+    "id": 903,
+    "date": "2012-08-31",
+    "title": "Author Interview: Brandon Sanderson previews Steelheart"
+  },
+  "904": {
+    "id": 904,
+    "date": "2012-07-18",
+    "title": "IMG Interviews Mistborn Creator Brandon Sanderson"
+  },
+  "905": {
+    "id": 905,
+    "date": "2011-06-03",
+    "title": "Brandon Sanderson Talks Fantasy & Film"
+  },
+  "906": {
+    "id": 906,
+    "date": "2012-05-11",
+    "title": "Brandon Sanderson Interview"
+  },
+  "907": {
+    "id": 907,
+    "date": "2011-11-21",
+    "title": "Interview with Infinity Blade: Awakening Author Brandon Sanderson"
+  },
+  "908": {
+    "id": 908,
+    "date": "2009-11-05",
+    "title": "Interview with Brandon Sanderson"
+  },
+  "909": {
+    "id": 909,
+    "date": "2009-10-27",
+    "title": "Q&A With Brandon Sanderson"
+  },
+  "91": {
+    "id": 91,
+    "date": "1998-10-29",
+    "title": "TPOD Signing Report - Kevin Bartlett"
+  },
+  "910": {
+    "id": 910,
+    "date": "2009-10-01",
+    "title": "Fantasy Novelist Brandon Sanderson on the Menu"
+  },
+  "911": {
+    "id": 911
+  },
+  "912": {
+    "id": 912
+  },
+  "913": {
+    "id": 913,
+    "date": "2007-10-03",
+    "title": "Interview with Brandon Sanderson - Fantasy Book Critic"
+  },
+  "914": {
+    "id": 914,
+    "date": "2008-01-01",
+    "title": "An Interview with Brandon Sanderson - A Personal Touch"
+  },
+  "915": {
+    "id": 915,
+    "date": "2013-02-01",
+    "title": "AMOL Signing Report - Deslya"
+  },
+  "916": {
+    "id": 916,
+    "date": "2013-02-07",
+    "title": "AMOL Signing Report - Robert Moreau"
+  },
+  "917": {
+    "id": 917,
+    "date": "2013-02-06",
+    "title": "AMOL Signing Report - Freelancer"
+  },
+  "918": {
+    "id": 918,
+    "date": "2013-02-06",
+    "title": "AMOL Signing Report - Asha'Gerard"
+  },
+  "919": {
+    "id": 919,
+    "date": "2013-02-06",
+    "title": "AMOL Signing Report - Insectoid"
+  },
+  "92": {
+    "id": 92,
+    "date": "1998-10-31",
+    "title": "TPOD Signing Report - Lara Beaton"
+  },
+  "920": {
+    "id": 920,
+    "date": "2013-02-06",
+    "title": "AMOL Signing Report - Simka"
+  },
+  "921": {
+    "id": 921,
+    "date": "2013-02-06",
+    "title": "AMOL Signing Report - David Given"
+  },
+  "922": {
+    "id": 922,
+    "date": "2013-02-06",
+    "title": "AMOL Signing Report - s'rEDIT"
+  },
+  "923": {
+    "id": 923,
+    "date": "2003-04-01",
+    "title": "Ekult\u00fara: Interview with Robert Jordan"
+  },
+  "924": {
+    "id": 924,
+    "date": "2013-01-21",
+    "title": "Brandon Sanderson's Blog: Worldbuilders, Tour Dates & Updates"
+  },
+  "925": {
+    "id": 925,
+    "date": "2013-01-29",
+    "title": "Brandon Sanderson's Blog: Stormlight 2 Writing Video, Hugo Nomination Deadline, DANGEROUS WOMEN & Updates"
+  },
+  "926": {
+    "id": 926,
+    "date": "2013-02-05",
+    "title": "Brandon Sanderson's Blog: Tour With Harriet, Writing Excuses, Stormlight 2 video"
+  },
+  "927": {
+    "id": 927,
+    "date": "2013-02-11",
+    "title": "Brandon Sanderson's Blog: Videos & Updates"
+  },
+  "928": {
+    "id": 928,
+    "date": "2013-02-07",
+    "title": "AMOL Signing Report - crovax33"
+  },
+  "929": {
+    "id": 929,
+    "date": "2013-02-08",
+    "title": "AMOL Signing Report - DJ Stipe"
+  },
+  "93": {
+    "id": 93,
+    "date": "1998-10-01",
+    "title": "Sense of Wonder Interview"
+  },
+  "930": {
+    "id": 930,
+    "date": "2013-02-07",
+    "title": "AMOL Signing Report - electrokinetic"
+  },
+  "931": {
+    "id": 931,
+    "date": "2013-01-11",
+    "title": "AMOL Signing Report - Ways"
+  },
+  "932": {
+    "id": 932,
+    "date": "2013-02-12",
+    "title": "AMOL Signing Report - billiam"
+  },
+  "933": {
+    "id": 933,
+    "date": "2013-02-12",
+    "title": "AMOL Signing Report - JeffS"
+  },
+  "934": {
+    "id": 934,
+    "date": "2013-02-11",
+    "title": "AMOL Signing Report - Aegon"
+  },
+  "935": {
+    "id": 935,
+    "date": "2013-02-09",
+    "title": "AMOL Signing Report - KiManiak"
+  },
+  "936": {
+    "id": 936,
+    "date": "2013-02-12",
+    "title": "AMOL Signing Report - James"
+  },
+  "937": {
+    "id": 937,
+    "date": "2013-02-09",
+    "title": "AMOL Signing Report - talinthus"
+  },
+  "938": {
+    "id": 938,
+    "date": "2013-02-11",
+    "title": "AMOL Signing Report - Anna Hornbostel"
+  },
+  "939": {
+    "id": 939,
+    "date": "2013-02-07",
+    "title": "AMOL Signing Report - Hunter"
+  },
+  "94": {
+    "id": 94,
+    "date": "1998-11-01",
+    "title": "SciFi.com Chat"
+  },
+  "940": {
+    "id": 940,
+    "date": "2013-02-12",
+    "title": "AMOL Signing Report - Wetlander"
+  },
+  "941": {
+    "id": 941,
+    "date": "2013-02-15",
+    "title": "AMOL Signing Report - Hypobasis"
+  },
+  "942": {
+    "id": 942,
+    "date": "2013-02-16",
+    "title": "AMOL Signing Report - Catfish N. Cod"
+  },
+  "943": {
+    "id": 943,
+    "date": "2013-01-01",
+    "title": "Reddit 2013 (WoT)"
+  },
+  "944": {
+    "id": 944,
+    "date": "2013-01-01",
+    "title": "Reddit 2013 (Non-WoT)"
+  },
+  "945": {
+    "id": 945,
+    "date": "2013-02-07",
+    "title": "AMOL Signing Report - DomaniSway"
+  },
+  "946": {
+    "id": 946,
+    "date": "2013-02-16",
+    "title": "AMOL Signing Report - KJacobs"
+  },
+  "947": {
+    "id": 947,
+    "date": "2013-02-12",
+    "title": "AMOL Signing Report - Moose"
+  },
+  "948": {
+    "id": 948,
+    "date": "2013-02-12",
+    "title": "AMOL Signing Report - Mason Wheeler"
+  },
+  "949": {
+    "id": 949,
+    "date": "2013-02-16",
+    "title": "AMOL Signing Report - Viper"
+  },
+  "95": {
+    "id": 95
+  },
+  "950": {
+    "id": 950,
+    "date": "2013-02-16",
+    "title": "AMOL Signing Report - Mageen"
+  },
+  "951": {
+    "id": 951
+  },
+  "952": {
+    "id": 952,
+    "date": "2013-02-15",
+    "title": "AMOL Signing Report - Rebecca Lovatt"
+  },
+  "953": {
+    "id": 953,
+    "date": "2013-02-19",
+    "title": "AMOL Signing Report - rhandric"
+  },
+  "954": {
+    "id": 954,
+    "date": "2013-02-19",
+    "title": "AMOL Signing Report - AndrewB"
+  },
+  "955": {
+    "id": 955,
+    "date": "2013-02-21",
+    "title": "AMOL Signing Report - rossnewberry"
+  },
+  "956": {
+    "id": 956,
+    "date": "2013-02-18",
+    "title": "AMOL Signing Report - TheOneKEA"
+  },
+  "957": {
+    "id": 957,
+    "date": "2013-02-18",
+    "title": "AMOL Signing Report - BlairJ"
+  },
+  "958": {
+    "id": 958,
+    "date": "2013-02-18",
+    "title": "AMOL Signing Report - Green Fire"
+  },
+  "959": {
+    "id": 959,
+    "date": "2013-02-03",
+    "title": "Final fantasy: Epic fan takes the Wheel"
+  },
+  "96": {
+    "id": 96,
+    "date": "1998-11-11",
+    "title": "MSN eFriends Interview"
+  },
+  "960": {
+    "id": 960,
+    "date": "2013-02-18",
+    "title": "Brandon Sanderson finishes Robert Jordan's bestselling Wheel of Time Series with A Memory of Light"
+  },
+  "961": {
+    "id": 961,
+    "date": "2013-01-24",
+    "title": "BYU Magazine Interview: Writing of Epic Proportions"
+  },
+  "962": {
+    "id": 962,
+    "date": "2013-02-21",
+    "title": "AMOL Signing Report - Trae Cooper"
+  },
+  "963": {
+    "id": 963,
+    "date": "2013-02-22",
+    "title": "Odds and Ends with Brandon and Maria"
+  },
+  "964": {
+    "id": 964,
+    "date": "2013-02-19",
+    "title": "AMOL Signing Report - Rob B"
+  },
+  "965": {
+    "id": 965,
+    "date": "2013-02-18",
+    "title": "AMOL Signing Report - Renee"
+  },
+  "966": {
+    "id": 966,
+    "date": "2013-02-22",
+    "title": "AMOL Signing Report - Randy Word"
+  },
+  "967": {
+    "id": 967,
+    "date": "2013-02-15",
+    "title": "AMOL Signing Report - GardenGnome"
+  },
+  "968": {
+    "id": 968,
+    "date": "2013-02-22",
+    "title": "AMOL Signing Report - E. Hyde"
+  },
+  "969": {
+    "id": 969,
+    "date": "2013-02-18",
+    "title": "Brandon Sanderson's Blog: Stormlight writing video & music + Updates"
+  },
+  "97": {
+    "id": 97,
+    "date": "1998-11-14",
+    "title": "TPOD Signing Report - Matthew Hunter"
+  },
+  "970": {
+    "id": 970,
+    "date": "2012-07-01",
+    "title": "Literate Liquors Interview with Brandon Sanderson"
+  },
+  "971": {
+    "id": 971,
+    "date": "2013-02-22",
+    "title": "AMOL Signing Report - Terez"
+  },
+  "972": {
+    "id": 972,
+    "date": "2013-02-20",
+    "title": "AMOL Signing Report - JaimieKrycho"
+  },
+  "973": {
+    "id": 973,
+    "date": "2013-02-14",
+    "title": "AMOL Signing Report - Kazmero"
+  },
+  "974": {
+    "id": 974,
+    "date": "2013-02-22",
+    "title": "AMOL Signing Report - J. Dauro"
+  },
+  "975": {
+    "id": 975,
+    "date": "2013-03-05",
+    "title": "Brandon Sanderson's Blog: Hugo Nomination Deadline + Signed Copies of AMoL"
+  },
+  "976": {
+    "id": 976,
+    "date": "2013-03-18",
+    "title": "Talking With Tom: A Conversation Between Tom Doherty and Harriet McDougal"
+  },
+  "977": {
+    "id": 977,
+    "date": "2012-09-01",
+    "title": "Cosmere Q&A - 17th Shard"
+  },
+  "978": {
+    "id": 978,
+    "date": "2012-05-21",
+    "title": "Advertising Some of my Smaller Projects - Fantasy Faction Q&A"
+  },
+  "979": {
+    "id": 979,
+    "date": "2013-04-15",
+    "title": "Reddit AMA 2013"
+  },
+  "98": {
+    "id": 98,
+    "date": "1998-11-15",
+    "title": "TPOD Signing Report - Michael Martin"
+  },
+  "980": {
+    "id": 980,
+    "date": "2013-04-01",
+    "title": "Waygate Foundation Q&A"
+  },
+  "981": {
+    "id": 981,
+    "date": "2013-04-20",
+    "title": "JordanCon 2013 - Q&A with Maria"
+  },
+  "982": {
+    "id": 982,
+    "date": "2012-09-04",
+    "title": "DragonCon 2012 - Nalesean's Report"
+  },
+  "983": {
+    "id": 983,
+    "date": "2013-05-17",
+    "title": "Rithmatist Signing Report - Kogiopsis"
+  },
+  "984": {
+    "id": 984,
+    "date": "2013-05-17",
+    "title": "Rithmatist Signing Report - Nesh"
+  },
+  "985": {
+    "id": 985,
+    "date": "2013-05-22",
+    "title": "Rithmatist Signing Report - StormAtlas"
+  },
+  "986": {
+    "id": 986,
+    "date": "2012-10-30",
+    "title": "Hal-Con Report - Lance Alvein"
+  },
+  "987": {
+    "id": 987,
+    "date": "2012-11-06",
+    "title": "Weller Book Works Signing - Josh & Mi'ch"
+  },
+  "988": {
+    "id": 988,
+    "date": "2012-12-06",
+    "title": "West Jordan Signing Report - Josh & Mi'ch"
+  },
+  "989": {
+    "id": 989,
+    "date": "2013-02-13",
+    "title": "Brandon Sanderson and Harriet McDougal at Microsoft Research"
+  },
+  "99": {
+    "id": 99,
+    "date": "1998-11-15",
+    "title": "TPOD Signing Report - Scott Cantor"
+  },
+  "990": {
+    "id": 990,
+    "date": "2013-04-04",
+    "title": "Brandon Sanderson's Blog: WITHOUT A SUMMER + Updates"
+  },
+  "991": {
+    "id": 991,
+    "date": "2013-04-11",
+    "title": "Brandon Sanderson's Blog: A MEMORY OF LIGHT ebook + Updates"
+  },
+  "992": {
+    "id": 992,
+    "date": "2013-04-23",
+    "title": "Brandon Sanderson's Blog: Stormlight Videos + Updates"
+  },
+  "993": {
+    "id": 993,
+    "date": "2013-05-01",
+    "title": "Brandon Sanderson's Blog: My essay on Terry Pratchett + Updates"
+  },
+  "994": {
+    "id": 994,
+    "date": "2013-05-03",
+    "title": "Brandon Sanderson's Blog: JordanCon Swag"
+  },
+  "995": {
+    "id": 995,
+    "date": "2013-05-14",
+    "title": "Brandon Sanderson's Blog: THE RITHMATIST Out Now"
+  },
+  "996": {
+    "id": 996,
+    "date": "2013-06-25",
+    "title": "Brandon Sanderson's Blog: UNFETTERED (with A MEMORY OF LIGHT deleted sequence) now out + Updates"
+  },
+  "997": {
+    "id": 997,
+    "date": "2013-05-13",
+    "title": "The Rithmatist: A Chat with Brandon Sanderson"
+  },
+  "998": {
+    "id": 998,
+    "date": "2013-06-20",
+    "title": "The Wertzone: Interview with Brandon Sanderson"
+  },
+  "999": {
+    "id": 999,
+    "date": "2013-05-24",
+    "title": "Phoenix ComicCon Report - KakitaOCU"
+  }
+}
