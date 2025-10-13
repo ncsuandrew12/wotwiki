@@ -9,7 +9,9 @@
 - Reporter: Karana Majin
 
 - Links
+
 -- [WoT Wiki](http://wot.wikia.com/wiki/Charlotte,_NC_KoD_signing,_4_November_2005_-_report_by_Karana_Majin)
+
 
 ## Entry #1
 

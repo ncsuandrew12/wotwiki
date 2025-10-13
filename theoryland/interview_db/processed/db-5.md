@@ -5,7 +5,9 @@
 - Type: Verbatim
 
 - Links
+
 -- [WoT Wiki](http://wot.wikia.com/wiki/Q%26A_From_Glimmers_Prologue)
+
 
 ## Entry #1
 

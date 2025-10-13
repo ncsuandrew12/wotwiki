@@ -9,9 +9,13 @@
 - Reporter: John Novak
 
 - Links
+
 -- [rasfwrj](http://groups.google.com/group/rec.arts.sf.written.robert-jordan/msg/69a04265994ec245)
+
 -- [rasfwrj](http://groups.google.com/group/rec.arts.sf.written.robert-jordan/msg/96093139d3c132af)
+
 -- [rasfwrj](http://groups.google.com/group/rec.arts.sf.written.robert-jordan/msg/8b6d199ccd93c061)
+
 
 ## Entry #1
 

@@ -375,9 +375,9 @@ def main():
             if interview.reporter:
                 d.write(f"- Reporter: {interview.reporter}\n\n")
             if interview.links and len(interview.links) > 0:
-                d.write("- Links\n")
+                d.write("- Links\n\n")
                 for link in interview.links:
-                    d.write(f"-- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n")
+                    d.write(f"-- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
                 d.write("\n")
             entry_i = 0
             for entry in interview.entries:
@@ -411,7 +411,7 @@ def main():
         r.write("- [JSON](./db.json)\n\n")
         r.write("## Interviews\n\n")
         for i in range(1, len(result)+1):
-            r.write(f"- [Interview #{i} - " + (f": {result[str(i)].title}" if result[str(i)].title else "") + f"](./processed/db-{i}.md)" + "\n")
+            r.write(f"- [Interview #{i} - " + (f": {result[str(i)].title}" if result[str(i)].title else "") + f"](./db-{i})" + "\n")
 
 if __name__ == "__main__":
     main()
