@@ -55,7 +55,7 @@ class InterviewEntry:
 
 class JsonEncoder(json.JSONEncoder):
     def default(self, o):
-        if isinstance(o, SummaryField) or isinstance(o, Interview):
+        if isinstance(o, SummaryField) or isinstance(o, Interview) or isinstance(o, InterviewEntry):
             return o.__dict__
         if isinstance(o, datetime):
             return datetime.strftime(o, '%Y-%m-%d')
@@ -66,7 +66,7 @@ def process_raw_html(file):
     Find h3 elements that contain an 'a' element with href='listintv.php'
     Returns the full content of such h3 elements.
     """
-    print(f"Processing file {file}")
+    # print(f"Processing file {file}")
 
     match = re.search(r'^(\d+)\.html{0,1}', os.path.basename(file))
     if not match:
@@ -146,13 +146,15 @@ def process_raw_html(file):
             if child.name == 'p':
                 # print(f"key: {key}, child: {child}")
                 if key in field_set.keys():
+                    # print(f"{key} in {fields.keys()}?")
                     if key in fields.keys():
                         extra_paragraphs.append(child)
+                        continue
                     c = len(list(child.children))
                     if c == 0:
                         continue
                     if c != 1:
-                        raise ValueError(f"Non-1 children {key} paragraph found in file {file}: {summary}")
+                        raise ValueError(f"Non-1 children {key} paragraph found in file {file}: (mode {mode}) {child}")
                     # print(f"key {key} -> {child}")
                     fields[key] = list(child.children)[0].string
             elif child.name is None and str(child).strip() == '':
@@ -162,12 +164,18 @@ def process_raw_html(file):
     for par in extra_paragraphs:
         # print(f"{result.id} {file}: {par} {summary}")
         parchildren = list(par.children)
-        if par.name == 'p' and len(parchildren) == 1 and parchildren[0].name == 'a':
-            if 'links' not in fields.keys():
-                fields['links'] = []
-            fields['links'].append(par)
+        if par.name == 'p':
+            for parchild in parchildren:
+                if parchild.name == None and str(parchild).strip() == '':
+                    continue
+                if parchild.name == 'a':
+                    if 'links' not in fields.keys():
+                        fields['links'] = []
+                    fields['links'].append(parchild)
+                else:
+                    raise ValueError(f"Unexpected summary paragraphs found in file {file}: {par} {summary}")
         else:
-            raise ValueError(f"Extra summary paragraphs found in file {file}: {extra_paragraphs} {summary}")
+            raise ValueError(f"Extra summary paragraphs found in file {file}: {par} {summary}")
     for field in field_list:
         if field.name not in fields.keys():
             if field.required:
@@ -183,7 +191,7 @@ def process_raw_html(file):
     result.entryCount = int(result.entryCount.string.strip())
     date = result.date
     result.date = None
-    if date and date.string:
+    if date and date.string and date.string.strip() != '':
         date = re.sub(r'(\d+)[a-z]{2}, ', '\\1, ', date.string.strip()) # Remove 1st, 2nd, 3rd, 4th, etc.
         for datef in {'%b %d, %Y', '%b, %Y', '%Y'}:
             try:
@@ -210,17 +218,35 @@ def process_raw_html(file):
                         continue
                     else:
                         raise ValueError(f"non-a link in file {file}: {a}")
+            elif link.name == 'a':
+                # if not link.string:
+                #     raise ValueError(f"Link with no text found in file {file}: {result.links}")
+                if 'href' not in link.attrs:
+                    raise ValueError(f"Link with no href found in file {file}: {result.links}")
+                links.append({"href": link.attrs['href'], "text": link.string.strip() if link.string else ""})
+            elif link.name == None and (link.string == None or link.string.strip() == ''):
+                continue
             else:
-                raise ValueError(f"non-p link in file {file}: {link}")
+                raise ValueError(f"non-ap link in file {file}: {link}")
         result.links = links
 
     header_s = content_div.find_all('h3', recursive=False)
     if len(header_s) != 1:
         raise ValueError(f"Expected exactly one h3 in div.intv-summary in file {file}, found {len(header_s)}")
-    header = list(header_s)[0]
-    title = re.sub(r'^:\s*', '', str(list(header.children)[1]).strip())
-    if len(title) > 0:
-        result.title = title
+    header_c_iter = iter(list(header_s)[0].children)
+    header_c = next(header_c_iter)
+    if header_c.name == None and (header_c.string == None or header_c.string.strip() == ''):
+        header_c = next(header_c_iter)
+    if header_c.name == 'a' and (header_c.string == None or header_c.string.strip() == 'Interviews'):
+        header_c = next(header_c_iter)
+    if header_c.name == None and (header_c.string == None or header_c.string.strip() == ''):
+        header_c = next(header_c_iter)
+    if header_c.name == None and (header_c.string != None and header_c.string.strip() != ''):
+        title = re.sub(r'^:\s*', '', header_c.string.strip())
+        if len(title) > 0:
+            result.title = title
+    else:
+        raise ValueError(f"Unexpected header structure in file {file}, {header_c}")
 
     entry_list_div = content_div.find_all('div', class_='intv-entry-list', recursive=False)
     if len(entry_list_div) != 1:
@@ -229,40 +255,46 @@ def process_raw_html(file):
     if len(entry_list_ul) != 1:
         raise ValueError(f"Expected exactly one entry list ul in file {file}, found {len(entry_list_ul)}")
     result.entries = []
+    # for entry_li in entry_list_ul[0].children:
+    #     if entry_li.name == 'li':
+    #         print(f"1 Entry li before processing: {entry_li.name}")
+    #         for entry_li_c in entry_li.children:
+    #             print(f"1  Entry li before processing: {entry_li_c.name}")
     for entry_li in entry_list_ul[0].children:
         if entry_li.name == 'li':
-            print(f"1 Entry li before processing: {entry_li.name}")
-            for entry_li_c in entry_li.children:
-                print(f"1  Entry li before processing: {entry_li_c.name}")
-    for entry_li in entry_list_ul[0].children:
-        if entry_li.name == 'li':
-            print(f"2 Entry li before processing: {entry_li.name}")
+            # print(f"2 Entry li before processing: {entry_li.name}")
             result.entries.append(InterviewEntry())
-            entry_li_c = next(entry_li.children)
-            print(f"2  Entry li before processing: {entry_li_c.name}")
+            entry_li_iter = iter(entry_li.children)
+            entry_li_c = next(entry_li_iter)
+            # print(f"2  Entry li before processing: {entry_li_c.name}")
+            # Skip all empty text nodes
             if entry_li_c.name == None and (entry_li_c.string == None or entry_li_c.string.strip() == ''):
-                print(f"Skipping empty text node in entry li in file {file}: {entry_li_c}")
-                entry_li_c = next(entry_li.children)
-                print(f"2  Entry li before processing: {entry_li_c.name}")
+                # print(f"Skipping empty text node in entry li in file {file}: {entry_li_c}")
+                entry_li_c = next(entry_li_iter)
+                # print(f"2  Entry li before processing: {entry_li_c.name}")
             if entry_li_c.name == 'a':
                 if 'href' not in entry_li_c.attrs:
                     if 'name' in entry_li_c.attrs:
                         if len(result.entries) != int(entry_li_c.attrs['name'].strip()):
-                            raise ValueError(f"Entry li.a with unexpected name found in file {file}: {entry_li}")
+                            raise ValueError(f"Entry li.a with unexpected name found in file {file}: {entry_li_c.attrs}")
                     else:
                         raise ValueError(f"Entry li.a with no href or name found in file {file}: {entry_li}")
                 else:
                     raise ValueError(f"Entry li.a with href found in file {file}: {entry_li}")
             else:
                 raise ValueError(f"Entry li[0] with unexpected name {entry_li_c.name} found in file {file}: {entry_li_c}")
-            entry_li_c = next(entry_li.children)
+            entry_li_c = next(entry_li_iter)
+            # Skip all empty text nodes
             if entry_li_c.name == None and (entry_li_c.string == None or entry_li_c.string.strip() == ''):
-                entry_li_c = next(entry_li.children)
-            if entry_li_c.name == 'div' and 'class' in entry_li_c.attrs and entry_li_c.attrs['class'] == 'entry-num':
-                if len(entry_li_c.children) != 3:
+                entry_li_c = next(entry_li_iter)
+            # print(f"entry-num div expected: in {file}: {entry_li_c}")
+            # print(f"{entry_li_c.name} {entry_li_c.attrs} {entry_li_c.attrs['class']}")
+            if entry_li_c.name == 'div' and 'class' in entry_li_c.attrs and len(entry_li_c.attrs['class']) == 1 and entry_li_c.attrs['class'][0] == 'entry-num':
+                entry_li_c_children = list(entry_li_c.children)
+                if len(entry_li_c_children) != 3:
                     raise ValueError(f"Entry li.div<entry-num> with unexpected children found in file {file}: {entry_li}")
-                if entry_li_c.children[1].name == 'p':
-                    entry_li_p_children = list(entry_li_c.children[1].children)
+                if entry_li_c_children[1].name == 'p':
+                    entry_li_p_children = list(entry_li_c_children[1].children)
                     if len(entry_li_p_children) != 1:
                         raise ValueError(f"Entry li.div<entry-num>.p with unexpected children found in file {file}: {entry_li}")
                     if len(result.entries) != int(entry_li_p_children[0].string.strip()):
@@ -270,23 +302,24 @@ def process_raw_html(file):
                 else:
                     raise ValueError(f"Entry li.div<entry-num> with no p child found in file {file}: {entry_li}")
             else:
-                raise ValueError(f"Entry li[1] with unexpected name {entry_li_c.name} found in file {file}: {entry_li}")
-            entry_li_c = next(entry_li.children)
-            if entry_li_c.name == None:
-                entry_li_c = next(entry_li.children)
-            if entry_li_c.name == 'div' and 'class' in entry_li_c.attrs and entry_li_c.attrs['class'] == 'entry-data':
+                raise ValueError(f"Entry li[1] with unexpected name {entry_li_c.name} found in file {file}: {entry_li_c}")
+            entry_li_c = next(entry_li_iter)
+            # Skip all empty text nodes
+            if entry_li_c.name == None and (entry_li_c.string == None or entry_li_c.string.strip() == ''):
+                entry_li_c = next(entry_li_iter)
+            if entry_li_c.name == 'div' and 'class' in entry_li_c.attrs and len(entry_li_c.attrs['class']) == 1 and entry_li_c.attrs['class'][0] == 'entry-data':
                 result.entries[len(result.entries)-1].content = md(str(entry_li_c))
             else:
                 raise ValueError(f"Entry li[2] with unexpected name {entry_li_c.name} found in file {file}: {entry_li}")
             entry_li_c = next(entry_li.children)
             if entry_li_c and entry_li_c.name == None and (entry_li_c.string == None or entry_li_c.string.strip() == ''):
                 entry_li_c = next(entry_li.children)
-            if entry_li_c:
-                raise ValueError(f"Extra content after expected three children in entry li in file {file}: {entry_li}")
-        elif entry_li.name or not entry_li.string or entry_li.string.strip() != '':
+        elif entry_li.name == None and (entry_li.string == None or entry_li.string.strip() == ''):
+            continue
+        else:
             raise ValueError(f"Non-li element in entry list in file {file}: {entry_li}")
 
-    print("Processed file {file}, result: {result}".format(file=file, result=result))
+    # print("Processed file {file}, result: {result}".format(file=file, result=result))
     return result
 
 def main():
@@ -317,6 +350,41 @@ def main():
     with open('./processed/db.json', 'w', encoding='utf-8', errors='ignore') as d:
         print(f"Writing JSON to {d.name}")
         d.write(json.dumps(result, cls=JsonEncoder, indent=2))
+
+    # with open('./processed/db.json', 'r', encoding='utf-8', errors='ignore') as d:
+    #     print(f"Reading JSON from {d.name}")
+    #     result = json.load(d)
+
+    # with open('./processed/db.md', 'w', encoding='utf-8', errors='ignore') as d:
+        # print(f"Writing Markdown to {d.name}")
+    for i in range(1, len(result)+1):
+        with open(f"./processed/db-{i}.md", 'w', encoding='utf-8', errors='ignore') as d:
+            print(f"Writing Markdown to {d.name}")
+            interview = result[str(i)]
+            d.write(f"# Interview #{interview.id}" + (f": {interview.title}" if interview.title else "") + "\n\n")
+            if interview.date:
+                d.write(f"- Date: {datetime.strftime(interview.date, '%Y-%m-%d')}\n\n")
+            if interview.entryType:
+                d.write(f"- Type: {interview.entryType}\n\n")
+            if interview.location:
+                d.write(f"- Location: {interview.location}\n\n")
+            if interview.bookStore:
+                d.write(f"- Bookstore: {interview.bookStore}\n\n")
+            if interview.tourCon:
+                d.write(f"- Tour/Con: {interview.tourCon}\n\n")
+            if interview.reporter:
+                d.write(f"- Reporter: {interview.reporter}\n\n")
+            if interview.links and len(interview.links) > 0:
+                d.write("- Links\n")
+                for link in interview.links:
+                    d.write(f"-- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n")
+                d.write("\n")
+            entry_i = 0
+            for entry in interview.entries:
+                entry_i += 1
+                d.write(f"## Entry #{entry_i}\n\n")
+                d.write(entry.content + "\n\n")
+            d.write("\n---\n\n")
 
     with open('./processed/mediawiki-template-tidb-switch.template', 'w', encoding='utf-8', errors='ignore') as t:
         print(f"Writing id-to-description mediawiki template code to {t.name}")
