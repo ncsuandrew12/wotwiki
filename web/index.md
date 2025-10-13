@@ -1,6 +1,6 @@
 # wotwiki
 
-This repository is intended as a depository of everything related to the [*Wheel of Time* wiki](https://wot.fandom.com) that is better suited to being stored in git or displayed via Github Pages than it is to being hosted on the wiki itself.
+This repository is intended as a depository of everything related to the [*Wheel of Time* wiki](https://wot.wiki) that is better suited to being stored in git or displayed via Github Pages than it is to being hosted on the wiki itself.
 
 Unless otherwise noted, all code and content are under the [MIT license](LICENSE). Content reproduced from elsewhere maintains the same licensing and copyrights as the original.
 
