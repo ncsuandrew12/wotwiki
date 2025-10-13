@@ -326,7 +326,7 @@ def process_raw_html(file):
 
 def main():
     html_dir = Path("./raw_html_downloads")
-    web_root = Path("../../web/theoryland/interviews")
+    web_root = Path("../../docs/theoryland/interviews")
     basename = "theoryland interview database"
     print("Checking for raw HTML files in directory:", html_dir)
     
@@ -362,8 +362,9 @@ def main():
     #     print(f"Reading JSON from {f.name}")
     #     interviews = json.load(f)
 
-    # with open('./processed/db.md', 'w', encoding='utf-8', errors='ignore') as f:
-        # print(f"Writing Markdown to {f.name}")
+    with open(f"{web_root}/theoryland interview database.md", 'w', encoding='utf-8', errors='ignore') as f:
+        print(f"Writing Markdown to {f.name}")
+
     print(f"Writing Markdown to {web_root}/db-*.md", end='', flush=True)
     for i in range(1, len(interviews)+1):
         print(".", end='', flush=True)
