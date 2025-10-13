@@ -1,0 +1,3323 @@
+# Interview #2: Twitter 2009-2010 (WoT)
+
+- Date: 2010-01-000000
+
+- Type: Verbatim
+
+- Links
+
+-- [Brandon Sanderson on Twitter](http://twitter.com/BrandSanderson)
+
+-- [Brandon Sanderson on Facebook](http://www.facebook.com/BrandSanderson)
+
+
+## Entry #1
+
+#### Terez
+
+For a complete catalog of Brandon's tweets, visit the
+[Twitter Portal](http://brandonsanderson.com/article/)
+at Brandon's website. See also the
+[TOM Writing and Editing Process](http://www.theoryland.com/intvmain.php?i=45)
+page for more WoT tweets from 2009-2010.
+
+#### [Brandon Sanderson (17 November 2009)](http://www.facebook.com/permalink.php?story_fbid=325523045067&id=621235008)
+
+Re: Mesaana. People have been misquoting me a lot on this one. Early in the tour someone claimed to have a quote where RJ said...
+
+#### [Brandon Sanderson](http://www.facebook.com/permalink.php?story_fbid=174351828546&id=621235008)
+
+...that her alter ego hadn't been seen. This shocked me, since I thought she had been. I have been waiting until I got home to check it out.
+
+#### [Brandon Sanderson](http://www.facebook.com/permalink.php?story_fbid=216028304761&id=621235008)
+
+The only thing official I have said is that someone claimed RJ said on the
+*Knife of Dreams*
+tour that she hadn't been seen, and can say nothing until...
+
+#### [Brandon Sanderson](http://www.facebook.com/permalink.php?story_fbid=181580396749&id=621235008)
+
+...I am off tour and can research old RJ interviews to find if I've missed something. I think it likely the person was mixed up.
+
+#### [Brandon Sanderson](http://www.facebook.com/permalink.php?story_fbid=210803246334&id=621235008)
+
+(later) Word from Maria: RJ said we HAVE seen Mesaana's alter ego on screen.
+
+#### [Brandon Sanderson](http://www.facebook.com/permalink.php?story_fbid=191408489168&id=621235008)
+
+That's good. The guy from DC had me worried. I thought I'd known from the notes exactly who Mesaana was, and that she has been on screen...
+
+#### Footnote
+
+Robert Mee, the guy who provided the
+[original quote](http://www.theoryland.com/intvmain.php?i=174#2)
+from RJ confirming that Mesaana had been on screen, told me in an email that he might have been the one to cause all of this confusion since he misremembered the quote when he talked to Brandon. He's probably right, as he saw Brandon in Bailey's Crossroads on Nov. 4, and the confusion first showed up a few days later. He sends along his apologies to everyone!
+
+#### Tags
+
+mesaana
+,
+
+errors
+,
+
+danelle
+
+## Entry #2
+
+#### [Brandon Sanderson (19 November 2009)](http://www.facebook.com/Mistborn/posts/179413179889)
+
+Okay, time to post about Cyndane for you Theorylanders. I have been discussing with Maria all day. She and I have different opinions on...
+
+#### [BRANDON SANDERSON](http://www.facebook.com/Mistborn/posts/182376924556)
+
+...some things in the notes, but she has convinced me that she is right. I believed that there were some...issues with her power level.
+
+#### [BRANDON SANDERSON](http://www.facebook.com/Mistborn/posts/181862048105)
+
+Dark One playing tricks to keep everyone guessing. But Maria convinced me her Power really is what it seems. So you can disregard my...
+
+#### [BRANDON SANDERSON](http://www.facebook.com/Mistborn/posts/183871851329)
+
+...comment about her being really really weak and stick with the word I used earlier: "weakened."
+
+#### [BRANDON SANDERSON](http://www.facebook.com/Mistborn/posts/183347160177)
+
+This is what you get for asking about things that we are still picking apart the notes regarding.
+
+#### [BRANDON SANDERSON](http://www.facebook.com/Mistborn/posts/176163157905)
+
+;) You know I love you, Theorylanders. (Even if I sometimes feel like I'm surrounded by a pack of wolves when talking to you.)
+
+#### Footnote
+
+Brandon had indicated in
+*The Gathering Storm*
+signing reports that Cyndane was 'much weaker' than Lanfear. However, Graendal indicated in
+*The Path of Daggers*
+that Cyndane was, while weaker than Lanfear, still stronger than her, so we knew she wasn't
+*that*
+much weaker. It's still up in the air after
+*Towers of Midnight*
+as to why she wasn't drained as much as Moiraine. The Eelfinn claimed that they killed her by draining her too quickly, but Moiraine thinks that someone came for her. Anyway, we badgered Brandon about it, so he cleared up the confusion.
+
+#### Tags
+
+cyndane
+,
+
+lanfear
+,
+
+eelfinn
+,
+
+moiraine
+,
+
+errors
+,
+
+animated discussions
+
+## Entry #3
+
+#### [Brandon Sanderson (30 March 2010)](http://twitter.com/BrandSanderson/status/11326930728)
+
+Calling WoT derivative of Tolkien is like calling Tolkien derivative of Beowulf. True, but missing the point entirely.
+
+#### Tags
+
+tolkien
+,
+
+wot influences
+
+## Entry #4
+
+#### [Brandon Sanderson (26 May 2010)](http://twitter.com/BrandSanderson/status/14792063053)
+
+Blast. Where did I put my copy of New Spring? (Grumbles and goes up to search his library.)
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/14792535126)
+
+Found it. You know, I like
+*New Spring*
+, but I really don't think people should start with it. It reveals too much about Moiraine and Lan.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/14793501002)
+
+In response to questions, I'm thinking
+*New Spring*
+is best read after Book Four. That's a good place to gain context on Moiraine.
+
+#### Tags
+
+moiraine
+,
+
+lan
+,
+
+new spring
+
+## Entry #5
+
+#### [Brandon Sanderson (21 June 2010 (Facebook))](http://www.facebook.com/home.php#%21/BrandonSandrson?v=wall&story_fbid=131516600202798&ref=mf)
+
+A fanmail tonight includes a request for Gawyn to die, and Egwene to hook up with Galad. At least it's not another begging for Rand + Egwene.
+
+#### [BRANDON SANDERSON](http://www.facebook.com/home.php#%21/BrandonSandrson?v=wall&story_fbid=129336173765825&ref=mf)
+
+Wow. I did not mean to start an epic Gawyn/Galad/Egwene/Rand thread on my Facebook, but I appear to have done so.
+
+#### [BRANDON SANDERSON](http://www.facebook.com/Mistborn?v=wall&story_fbid=127323890641846&ref=mf)
+
+Some interesting reading if you're thinking/talking about Gawyn as a character can be found here:
+[Sir Gawain and the Green Knight—Wikipedia](http://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight#Significance_of_the_colour_green)
+
+(from the comments)
+
+One other way to think of it is thus: The Wheel will keep on turning, and the Age that we live in (or like unto it) will someday arrive. Legends from what is happening in these books will have survived, and become the Arthur legends during our day. Or, in other cases, stories of other characters have survived in other mythologies. (Look up the Slavic god
+[Perun](http://perun.ca/)
+sometime.)
+
+Perrin is not a god, nor is Gawyn the knight of that story I linked. But perhaps someone who lived long ago, in another Age, gave birth to rumors about a young nobleman who made a mistake, and bore the weight of that sin for the rest of his days. And that gave birth to stories, which in turn inspired a poet to write a tale.
+
+#### Footnote
+
+The writer of the fanmail in question posted and elaborated
+[at 13th Depository](http://z6.invisionfree.com/White_Tower_Library/index.php?showtopic=319&view=findpost&p=2302234)
+.
+
+#### Tags
+
+gawyn
+,
+
+perrin
+,
+
+rand
+,
+
+egwene
+,
+
+galad
+,
+
+arthurian legend
+,
+
+wot influences
+,
+
+chinese whispers
+
+## Entry #6
+
+#### [Austin Moore (7 July 2010)](http://twitter.com/#%21/Southpaw2014/status/17986406532)
+
+You mentioned that something important happened between books 4-6 that people missed.... Can you elaborate anymore on that?
+
+#### [Brandon Sanderson (7 July 2010)](http://twitter.com/BrandonSandrson/status/17988067333)
+
+Only thing I'll say is that I'm sure at least one person has guessed what it has to do with. (They emailed me.)
+
+#### Footnote
+
+Brandon was probably aware that Callandor had
+[correctly guessed](http://www.theoryland.com/vbulletin/showthread.php?p=69985#poststop)
+what it had to do with on Theoryland, since Peter likely told him that we had accidentally disqualified it by way of
+[misinterpreting his statement](http://www.theoryland.com/vbulletin/showthread.php?p=70896#poststop)
+that we were 'not on the right track'.
+
+#### Tags
+
+mat
+,
+
+ashandarei
+,
+
+BUT
+
+## Entry #7
+
+#### [Jay (8 July 2010)](http://twitter.com/Congo_Red_Jr/status/2537647619)
+
+Will we see the Dark One in WoT? Will he walk the earth and physically fight with Rand & Co?
+
+#### [Brandon Sanderson (8 July 2010)](http://twitter.com/BrandSanderson/status/2539265157)
+
+I can't tell you for certain about the Dark One. There WILL be a confrontation, though.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/2539268123)
+
+The last seals will be broken.
+
+#### Tags
+
+last battle
+,
+
+rand
+,
+
+dark one
+,
+
+seals
+
+## Entry #8
+
+#### [Felix Pax (8 July 2010)](http://twitter.com/FelixPax/status/18070706858)
+
+Are readers going to be able to figure out timing of events in
+*Towers of Midnight*
+based on the moon references, feasts et al.?
+
+#### [Brandon Sanderson (8 July 2010)](http://twitter.com/BrandonSandrson/status/18072077403)
+
+I think they will. It's going to be tricky, though.
+
+#### Tags
+
+chronology
+,
+
+towers of midnight
+
+## Entry #9
+
+#### [Timee (8 July 2010)](http://twitter.com/#!/timee1989/status/2536937404)
+
+Will you also work on the other two prequels?
+
+#### [Brandon Sanderson (8 July 2010)](http://twitter.com/BrandSanderson/status/2538841000)
+
+If Harriet wants to do them, I'd have trouble saying no. I am very involved with this world now.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/2538842815)
+
+It would be almost as hard to let someone else do it as it would be to let them do a Mistborn book.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/2538844572)
+
+But Harriet and Tor seem more interested in the Outriggers right now. We'll see.
+
+#### Tags
+
+prequels
+,
+
+outriggers
+
+## Entry #10
+
+#### [Shivam Bhatt (14 July 2010)](http://twitter.com/elektrotal/status/18544686693)
+
+Out of curiosity, do you have a list of the sundry unsolved mysteries in the books? Or untied threads and references?
+
+#### [Brandon Sanderson (14 July 2010)](http://twitter.com/BrandSanderson/status/18547840522)
+
+Yes, I do. And, I even have a list of ones Mr. Jordan was planning not to answer or reveal.
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/18547962871)
+
+Mr. Jordan listed some mysteries in the notes that are NOT to be solved. Perhaps you should try to guess which ones.
+
+#### [dopwensj](http://twitter.com/dpowensj/status/18548051430)
+
+Are they not explained, or are they explicitly noted to refrain from releasing the solution?
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/18548470264)
+
+Some of each. There's one that I really wish I knew, but he didn't tell anyone, and said no answer is to be given.
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/18549042551)
+
+As for the mysteries, there are indeed some that Mr. Jordan did not reveal in the notes. All he said was: "This is not revealed."
+
+#### [Kyle Litka](http://twitter.com/kylelitke/status/18548359494)
+
+A lot of mysteries or just a few? And any major ones (without going into specifics, I know you can't)?
+
+#### [Brandon SANDERSON](http://twitter.com/BrandSanderson/status/18550121422)
+
+No major ones, in my opinion, except for a couple of unresolved plot threads he had been saving for the Outriggers.
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/18551514335)
+
+I can't say much more about mysteries. I've said before that all major plotlines have resolution. Unresolved things are smaller.
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/18580223336)
+
+If I have my way, the notes Mr. Jordan [left] will be printed after the series is done. At least in part.
+
+#### [Greuvy](http://twitter.com/gruevy/status/18549140240)
+
+Are the unanswered mysteries at least interesting, or are they like, "who made the baked ham in book 4!"?
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/18580243178)
+
+Some are very interesting to me.
+
+#### [4th Age](http://twitter.com/4thAge/status/18549168524)
+
+Are there also some that ARE revealed in the notes, but have an added "but this doesn't go into the books."?
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/18580270719)
+
+Yes, there are, at least in implication. Many of these have to do with things I think he was reserving for the Outriggers.
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/18580301893)
+
+Yes, I will push for that to be in the notes we release, if the Outriggers aren't written.
+
+#### [Brandon Sanderson (15 July)](http://twitter.com/BrandSanderson/status/18663566807)
+
+I'm afraid I'm not allowed to show any of the notes right now. Maybe after
+*A Memory of Light*
+. Some may go in the encyclopedia Harriet is doing.
+
+#### [Callandor (17 July)](http://twitter.com/StellarPulse/status/18812541515)
+
+Is the identity of
+[who ordered the attack on Demira Eriff](http://www.theoryland.com/intvmain.php?i=749#11)
+a mystery with an answer? My money is on Taim but surprises are fun.
+
+#### [Brandon Sanderson (19 July)](http://twitter.com/BrandSanderson/status/18945887281)
+
+I'm not going to say which ones. But it's good to hear what people are curious about.
+
+#### Tags
+
+rj's notes
+,
+
+outriggers
+,
+
+encyclopedia
+,
+
+demira
+
+## Entry #11
+
+#### [Brandon Sanderson (14 July 2010)](http://twitter.com/BrandSanderson/status/18499527080)
+
+Re: The Outriggers novels. I've posted about this on my website. Short answer is: It's up to Harriet, but probably not.
+
+#### [ANDREA MILLHOUSE](http://twitter.com/Darth_Andrea/status/18553669462)
+
+Has there been any further discussion of the outriggers between you and Harriet?
+
+#### [BRANDON SANDERSON (15 JULY)](http://twitter.com/BrandSanderson/status/18581063673)
+
+There has not. Just the original "What do you think?" discussion. Basically, we decided to shelve it until
+*A Memory of Light*
+was done.
+
+#### [MATTHEW SODDY (14 JULY)](http://twitter.com/MatthewSoddy/status/18555348267)
+
+I noticed that you mentioned the Outriggers that Mr. Jordan was planning... Are you planning on writing those as well?
+
+#### [BRANDON SANDERSON (15 JULY)](http://twitter.com/BrandSanderson/status/18583185125)
+
+Short answer: Probably not. Longer answer: We'll decide after
+*A Memory of Light*
+is done, but are hesitant.
+
+#### Tags
+
+outriggers
+,
+
+harriet
+
+## Entry #12
+
+#### [sykoone (14 July 2010)](http://twitter.com/sykoone/status/18548345879)
+
+One unsolved mystery=is Thom Elayne's real father?
+
+#### [Brandon Sanderson (14 July 2010)](http://twitter.com/BrandSanderson/status/18550077236)
+
+I'm pretty sure Robert Jordan said that Thom was not her father. I wondered that myself for years.
+
+#### Tags
+
+thom
+,
+
+elayne
+
+## Entry #13
+
+#### [Alaric (14 July 2010)](http://twitter.com/DukeOfDunstable/status/18513252147)
+
+You've been quoted saying Rand and Egwene will get about the same screen time [in
+*Towers of Midnight*
+] as Mat and Perrin in
+*The Gathering Storm*
+. Is this the case?
+
+#### [Brandon Sanderson (14 July 2010)](http://twitter.com/BrandSanderson/status/18545897387)
+
+That is correct. Though it might be a tad more. This book will be longer, and a lot of that is some extra Rand/Egwene.
+
+#### Tags
+
+rand
+,
+
+egwene
+,
+
+the gathering storm
+,
+
+towers of midnight
+
+## Entry #14
+
+#### [Stephan van Velzen (14 July 2010)](http://twitter.com/HearttLight/status/18553931451)
+
+Most of
+*A Memory of Light*
+was written by Robert Jordan, right? So that book will go faster? Or is that wishful thinking on my part?
+
+#### [Brandon Sanderson (15 July 2010)](http://twitter.com/BrandSanderson/status/18581181376)
+
+About the same as he did on
+*The Gathering Storm*
+, I'm afraid. Lots of notes, few finished chapters. (He did write the ending, though.)
+
+#### Tags
+
+rj's notes
+,
+
+a memory of light
+,
+
+the gathering storm
+
+## Entry #15
+
+#### [Matt Eitner (17 July 2010)](http://twitter.com/mattmattmattE/status/18756942726)
+
+Will we ever find out why there were blue flashes when Thom fought the Myrddraal at Whitebridge while Rand and Mat fled?
+
+#### [Brandon Sanderson (19 July 2010)](http://twitter.com/BrandSanderson/status/18939604249)
+
+I believe Robert Jordan said something along the lines of "Thom's knives are special."
+
+#### Tags
+
+thom
+,
+
+thom's knives
+
+## Entry #16
+
+#### [HBFFerreira (18 July 2010)](http://twitter.com/HBFFerreira/status/18826023608)
+
+Was the attempt on Rand at the end of
+*The Path of Daggers*
+caused by Torval learning his plan to cleanse the taint? Did Moridin order it?
+
+#### [Brandon Sanderson (19 July 2010)](http://twitter.com/BrandSanderson/status/18946184207)
+
+RAFO, though that is the best theory I read before I became involved in this. It's very credible.
+
+#### Tags
+
+rand
+,
+
+moridin
+,
+
+torval
+,
+
+the path of daggers
+,
+
+cleansing
+,
+
+taint
+
+## Entry #17
+
+#### [Gregg Fox (19 July 2010)](http://twitter.com/Shadowfoxgf/status/18940193985)
+
+Did RJ have a strength scale for each of the Five Powers for each channeler (similar to the one for overall strength)?
+
+#### [Brandon Sanderson (20 July 2010)](http://twitter.com/BrandSanderson/status/18976633165)
+
+Not that I've seen. Now, there could be something in there I haven't seen.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/18976649534)
+
+But the list I have indicates power level and, in some cases, what they are strong/weak at. Not a full list of all five.
+
+#### Tags
+
+rj's notes
+,
+
+five powers
+
+## Entry #18
+
+#### [HBFFerreira (20 July 2010)](http://twitter.com/HBFFerreira/status/19020693641)
+
+*The Gathering Storm*
+: Rand's dark aura was an effect of channeling the True Power, right?
+*Winter's Heart*
+prologue: didn't Taim cast a similar aura?
+
+#### [Brandon Sanderson (21 July 2010)](http://twitter.com/BrandSanderson/status/19055953731)
+
+You're the first to notice that that I've seen.
+
+#### Tags
+
+rand
+,
+
+taim
+,
+
+true power
+,
+
+winter's heart
+,
+
+the gathering storm
+
+## Entry #19
+
+#### [Alaric (20 July 2010)](http://twitter.com/DukeOfDunstable/status/19017292877)
+
+Should we expect
+*Towers of Midnight*
+to be as predominantly dark in mood as
+*The Gathering Storm*
+was?
+
+#### [Brandon Sanderson (21 July 2010)](http://twitter.com/BrandSanderson/status/19055833360)
+
+Well, the Last Battle is close, so things aren't getting brighter. There's a reason Mr. Jordan named the last volume
+*A Memory of Light*
+.
+
+#### [DEAN WOODWARD](http://twitter.com/DeanRoyWoodward/status/19060101721)
+
+But won't Rand be a bit more 'light' since the last chapter of
+*The Gathering Storm*
+?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19223653942)
+
+RAFO. (But chances seem good.)
+
+#### [GIEL VAN SCHIJNDEL](http://twitter.com/muggenhor/status/19069143875)
+
+That being said, will
+*Towers of Midnight*
+still have its bright moments, like Rand recovering his sanity and will to live at the end of
+*The Gathering Storm*
+?
+
+#### [BRANDON SANDERSON (22 JULY)](http://twitter.com/BrandSanderson/status/19240994463)
+
+There will be those, of course.
+
+#### Tags
+
+rand
+,
+
+the gathering storm
+,
+
+towers of midnight
+,
+
+a memory of light
+
+## Entry #20
+
+#### [Simone Coombes (20 July 2010)](http://twitter.com/MonieLuv808/status/19034733467)
+
+Is it significant that Nynaeve (in
+*The Great Hunt*
+) channels during the test for Accepted and does not burn out?
+
+#### [Brandon Sanderson (21 July 2010)](http://twitter.com/BrandSanderson/status/19060622763)
+
+Yes.
+
+#### Tags
+
+channeling
+,
+
+nynaeve
+,
+
+accepted test
+,
+
+the great hunt
+
+## Entry #21
+
+#### [yoniy0 (21 July 2010)](http://twitter.com/yoniy0/status/19107889037)
+
+Did you end up finding space for those
+[50k words](http://www.theoryland.com/intvmain.php?i=475#6)
+[on Pevara](http://www.theoryland.com/intvmain.php?i=458#1)
+in
+*Towers of Midnight*
+? If not, is there a chance we'll see it before November 2nd?
+
+#### [Brandon Sanderson (22 July 2010)](http://twitter.com/BrandSanderson/status/19241404686)
+
+Got two chapters of it in. Decided I could juggle the timeline, maybe, to get the rest into
+*A Memory of Light*
+.
+
+#### Footnote
+
+See
+[here](http://www.theoryland.com/intvmain.php?i=549#6)
+for more info.
+
+#### Tags
+
+towers of midnight
+,
+
+a memory of light
+,
+
+pevara
+,
+
+black tower
+
+## Entry #22
+
+#### [Erik Wetter (28 July 2010)](http://twitter.com/erik_wetter/status/19725936958)
+
+Quick, and, perhaps, rather rude question: was Mattin Stepaneos simply forgotten about in
+*The Gathering Storm*
+?
+
+#### [ERIK WETTER](http://twitter.com/erik_wetter/status/19725992687)
+
+His presence in
+*Knife of Dreams*
+implied that he'd play some role in the story, yet he's not even mentioned in
+*The Gathering Storm*
+. Just need to know.
+
+#### [Brandon Sanderson (28 July 2010)](http://twitter.com/BrandSanderson/status/19776734945)
+
+Nope. I thought about referencing him, but found it distracting. He isn't forgotten.
+
+#### Tags
+
+mattin stepaneos
+,
+
+the gathering storm
+,
+
+knife of dreams
+
+## Entry #23
+
+#### [Mick Wick (28 July 2010)](http://twitter.com/DirektorDoom/status/19723373448)
+
+Is it possible for us readers to figure out Demandred's identity with the information we already have?
+
+#### [Brandon Sanderson (28 July 2010 (Facebook))](http://www.facebook.com/Mistborn/posts/129638540412526)
+
+And now, Theoryland is holding its breath. I think I might have actually answered on tour. I'm not sure what RJ said on the matter, but...
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19775664077)
+
+I will say only this: There ARE clues. I think it could be figured out. Maybe. It's much, much harder than Asmodean's killer.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19775812800)
+
+Obviously, I must be tight-lipped. Can it be figured out: Yes. Will it make you smack your heads & say "I should have seen it!" Probably not.
+
+(from the Facebook comments on Brandon's first tweet)
+
+#### RICHELLE PERRAULT
+
+Brandon, you are such a tease........ but I will "RAFO". but still it's a tease.
+
+#### BRANDON SANDERSON
+
+Sorry. Inherited that from RJ. Still, it wasn't totally a RAFO. It was a tad more than that. I do see from Tamyrlin's post that RJ confirmed that you could figure it out.
+
+#### TEREZ
+
+Sort of. There was room in RJ's comment for the interpretation that we should be able to figure out that Demandred is simply Demandred. You have made it more clear. Not that we are complaining.
+
+#### BRANDON SANDERSON
+
+Ah, I see. Well, let me add the official clarification onto what I've said: Basically, I'm not merely talking about "Alter Ego" here when I reply to the "Figure out Demandred's Identity" question. I look at that question as a larger "What he's been up to, what he's been influencing, where he's hiding" that sort of thing.
+
+Why make this distinction? Well, it's because of things that (likely) others have figured out already. Demandred hasn't been in-guise in the books at least up to
+*Knife of Dreams*
+. So energies focused on "exactly who is he" would be pointless, to an extent. If he is indeed imitating someone, you haven't seen that someone through most of the series. At least not in person. You may have seen them now, but if so, they haven't been on-screen for long.
+
+So, what I'm saying is basically this: There are clues as to what Demandred is up to. You could figure that out. I think it would be hard, but not so hard that someone won't guess it. (And, knowing WoT fandom, someone probably has.)
+
+#### Footnote
+
+Brandon later
+[verified](http://www.theoryland.com/intvmain.php?i=836#21)
+that Demandred does indeed have an alter ego.
+
+#### Tags
+
+demandred
+,
+
+roedred
+,
+
+knife of dreams
+,
+
+theoryland
+
+## Entry #24
+
+#### [Shivam Bhatt (28 July 2010)](http://twitter.com/elektrotal/status/19777021775)
+
+There's no way in hell that Demandred ISN'T Taim.
+
+#### [Brandon Sanderson (28 July 2010)](http://twitter.com/BrandSanderson/status/19798021285)
+
+Except, you know, RJ saying five or six times he wasn't...
+
+#### Tags
+
+taim
+,
+
+demandred
+,
+
+taimandred
+
+## Entry #25
+
+#### [Josh Clover (28 July 2010)](http://twitter.com/JoshClover/status/19796217978)
+
+What's the last word of the book?? [
+*Towers of Midnight*
+]
+
+#### [Brandon Sanderson (28 July 2010)](http://twitter.com/BrandonSandrson/status/19799093870)
+
+I will give you the full last sentence: "The end of the Thirteenth Book of the Wheel of Time." Never say I never give you guys anything...
+
+#### Tags
+
+towers of midnight
+
+## Entry #26
+
+#### [Stephan van Velzen (28 July 2010)](http://twitter.com/HearttLight/status/19775937332)
+
+Are you going to point all the hints out in more detail after
+*A Memory of Light*
+? Or am I being a lazy fan now? :P
+
+#### [Brandon Sanderson (28 July 2010)](http://twitter.com/BrandSanderson/status/19797965199)
+
+I will be much more free of tongue then.
+
+#### [Jeff Edde](http://twitter.com/JeffEdde/status/19912572396)
+
+When WoT series is finished, will you feel more inclined to share WoT details that didn't make it to the books?
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/19948249912)
+
+Yes, I will.
+
+#### Tags
+
+unsolved mysteries
+
+## Entry #27
+
+#### [yoniy0 (29 July 2010)](http://twitter.com/yoniy0/status/19866545552)
+
+Did you consult Maria before deciding Egwene shall attempt to fall fleeing
+*raken*
+? Would she be able to do so Bounded?
+
+#### [Brandon Sanderson (30 July 2010)](http://twitter.com/BrandSanderson/status/19886920173)
+
+I'm a little confused at what you're asking. Do you mean "Fell?" And what do you mean by Bounded?
+
+#### [yoniy0](http://twitter.com/yoniy0/status/19903105724)
+
+Sorry. There has been some discussion around the Third Oath and Egwene attacking retreating
+*raken*
+...
+
+#### [yoniy0](http://twitter.com/yoniy0/status/19903121176)
+
+I was asking if you think she could have done the same now, after taking the Oaths (and whether you asked Maria to weigh in).
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19948035005)
+
+We did talk about this. I think it's iffy. Depends on Egwene's mindset. I don't think most Aes Sedai could have done it.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19948058368)
+
+In fact, it's good her circle was with those who hadn't taken the Oaths yet...
+
+#### [LUCKERS](http://twitter.com/JamesLuckman/status/19891233248)
+
+I think Yoniy0 meant 'would Egwene be able to kill (fell) fleeing
+*to'raken*
+were she bound by the Oaths?'
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19946505925)
+
+I don't know that she would have been able to. Depends. The Oaths depend on how you view what you're doing.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19946539445)
+
+Elaida got around them (or to the side of them) by convincing herself Egwene was a Darkfriend.
+
+#### Tags
+
+three oaths
+,
+
+third oath
+,
+
+egwene
+,
+
+seanchan
+,
+
+maria
+,
+
+errors
+
+## Entry #28
+
+#### [Jacob Wallace (29 July 2010)](http://twitter.com/ArrogantFool/status/19882712263)
+
+Will we ever learn any more of this "Army of the Night" the Seanchan fought?
+
+#### [Brandon Sanderson (30 July 2010)](http://twitter.com/BrandSanderson/status/19887254192)
+
+RAFO. Sorry.
+
+#### Tags
+
+seanchan
+
+## Entry #29
+
+#### [Brandon Sanderson (29 July 2010)](http://twitter.com/BrandSanderson/status/19815574602)
+
+Lol. In making comments on
+*Towers of Midnight*
+, Maria referenced
+*The Eye of the World*
+...and found an as-of-yet uncaught mistake.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19817369186)
+
+Oh, and I think the error Maria caught in
+*The Eye of the World*
+was a line saying Lan's homeland had the "hundred lakes" and not the "thousand lakes."
+
+#### Tags
+
+the eye of the world
+,
+
+towers of midnight
+,
+
+errors
+,
+
+maria
+,
+
+malkier
+,
+
+lan
+
+## Entry #30
+
+#### [Corbin Henderson (29 July 2010)](http://twitter.com/tubacorbin/status/19859966238)
+
+If you die, who would ask to finish the series for you?
+
+#### [Brandon Sanderson (29 July 2010)](http://twitter.com/BrandSanderson/status/19885134209)
+
+WoT? Wouldn't be my choice, it would be Harriet's. But I think Tad Williams would do an awesome job.
+
+#### Tags
+
+harriet
+
+## Entry #31
+
+#### [Azral Hanan (29 July 2010)](http://twitter.com/Azral_Joe/status/19815129573)
+
+Are the taint and the True Power the same?
+
+#### [Brandon Sanderson (29 July 2010)](http://twitter.com/BrandSanderson/status/19857630947)
+
+No, they are different.
+
+#### [AZRAL HANAN](http://twitter.com/Azral_Joe/status/19815232772)
+
+Can Mashadar destroy True Power and True Power weaves like it destroyed the taint?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19857693201)
+
+RAFO.
+
+#### [AZRAL HANAN](http://twitter.com/Azral_Joe/status/19815232772)
+
+If there was no Cleansing would the taint eventually run out as it's used by men who go insane & die
+*ad infinitum*
+?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19857693201)
+
+I don't think it'd run out. But that's a "Brandon's mostly sure, but hasn't checked the notes."
+
+#### [AZRAL HANAN (30 JULY)](http://twitter.com/Azral_Joe/status/19902879452)
+
+Did Mr. Jordan list out what the True Power can/not do relative to the One Power? Are there limits to both?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19946814527)
+
+RAFO. Maybe we'll put some of that in the encyclopedia. They are certainly different.
+*Towers of Midnight*
+has some hints.
+
+#### [BENJAMIN MOLDOVAN](http://twitter.com/jaminben73/status/19921455903)
+
+Mashadar is gone, isn't it? Would it really hurt to say whether the True Power would be affected?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/19948397334)
+
+Have we ever confirmed that Mashadar is dead? :)
+
+#### Tags
+
+taint
+,
+
+true power
+,
+
+saidin
+,
+
+one power
+,
+
+mashadar
+,
+
+fain
+,
+
+encyclopedia
+,
+
+towers of midnight
+
+## Entry #32
+
+#### [Terez (30 July 2010)](http://twitter.com/Terez27/status/19945391902)
+
+Does Min's comment to Corele mean that the Dark One can subvert her viewings BEFORE the Pattern is destroyed?
+
+#### [Terez](http://twitter.com/Terez27/status/19945433271)
+
+Asked in reference to the viewing that Elza would serve Rand. Or did it simply not imply she would serve forever?
+
+#### [Brandon Sanderson (30 July 2010)](http://twitter.com/BrandSanderson/status/19948746931)
+
+Elza did serve Rand, in her own way. It did not mean forever. That was not a subverting of the viewing. (Or wasn't meant to be.)
+
+#### [Terez](http://twitter.com/Terez27/status/19950057141)
+
+Thanks! That's what I thought but some will still say you didn't answer the original question lol. It's Theoryland.
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/19950370003)
+
+Robert Jordan taught me to give Aes Sedai answers.
+
+#### [Terez](http://twitter.com/Terez27/status/19950472403)
+
+Fair enough. :)
+
+#### [Terez](http://twitter.com/Terez27/status/20081029375)
+
+There is one case in which I suspect that RJ gave an Aes Sedai answer and the reporter may not have gotten it exactly.
+
+#### [Terez](http://twitter.com/Terez27/status/20081067739)
+
+Q: Was Else always Lanfear? RJ: No. Else did exist as a separate human but was played by Lanfear after Else was expelled.
+
+#### [Terez](http://twitter.com/Terez27/status/20081129526)
+
+Strange, because of the personality 'Else' showed, and the Tear trap being Mesaana's trap, not Lanfear's. Any comment?
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20111147050)
+
+MAFO.
+
+#### [Maria Simons](http://www.dragonmount.com/index.php/News/amol/answers-to-a-few-mafo-questions-r658)
+
+(later) I cannot find anything to clarify the question.
+
+#### [Terez](http://twitter.com/Terez27/status/19955840592)
+
+PS, thanks for taking time to do Q&A here. Far superior to tour reports, since the Aes Sedai answers are direct from you. ;)
+
+#### [Terez](http://twitter.com/Terez27/status/19957821402)
+
+...not to mention the quick responses, and the fact that you have more time to think the answers out. You are awesome!
+
+#### [Terez](http://twitter.com/Terez27/status/19969822974)
+
+By the way, not knocking the tour reporters. They rock; we have a lot of good stuff because of them.
+
+#### [Terez](http://twitter.com/Terez27/status/19969927213)
+
+I am just reminded of Tam. 'Tell me what she said. Her exact words, mind, just as she said them.' And Thom too. :)
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20105943694)
+
+Sure. Of course, I'm not convinced half of Theoryland hasn't joined Twitter only to follow/question me...
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20106093348)
+
+When I'm on tour, do be aware that I don't have notes handy and I'm usually very tired. All answers are suspect.
+
+#### [Terez](http://twitter.com/#%21/Terez27/status/20109207833)
+
+As for stalking you...someone has to do it to keep the Q&A organized, and I elected myself (also before you came along).
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20111465233)
+
+Ha. Just seems that I get a surprising number of tweets from people with no profile picture, and who are only following me. :)
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20111525948)
+
+I don't feel stalked at all. This is how I use Twitter, and I'm happy to answer questions.
+
+#### [Matt Hatch](http://twitter.com/Theoryland/status/20114385551)
+
+No profile pics and only following you? That sounds like my twenty other Twitter accounts...
+
+#### Footnote
+
+Min and Cadsuane told Corele that she sees pieces of the Pattern, but if the Dark One destroys the Pattern as he aims to do, then her viewings will be irrelevant. Those that are in reference to things after the Last Battle will only come to pass if they prevent the Dark One from destroying the Pattern. Some took this to mean that Shaidar Haran (essentially, the Dark One) subverted Min's viewing that Elza would serve Rand when he ordered Elza to help Semirhage torture and control Rand.
+
+#### Tags
+
+corele
+,
+
+min
+,
+
+min's viewings
+,
+
+elza
+,
+
+prophecies
+,
+
+rand
+,
+
+fandom
+,
+
+mesaana
+,
+
+lanfear
+,
+
+else
+
+## Entry #33
+
+#### [Mick Wick (30 July 2010)](http://twitter.com/DirektorDoom/status/19898875489)
+
+You said you were surprised when you found out who killed Asmodean. Who did you think was the killer before you read it?
+
+#### [Brandon Sanderson (30 July 2010)](http://twitter.com/BrandSanderson/status/19946685960)
+
+Problem is, I'd read SO many theories by that point that my head spun. I can't say who I thought, or it would rule them out.
+
+#### Tags
+
+asmodean
+
+## Entry #34
+
+#### [Austin Moore (30 July 2010)](http://twitter.com/Southpaw2014/status/19925859760)
+
+Who would you say is your favorite Forsaken? And that's coming from you as a fan more than you as the writer.
+
+#### [Brandon Sanderson (30 July 2010)](http://twitter.com/BrandSanderson/status/19948503321)
+
+Hmm... Ishamael/Moridin.
+
+#### [AUSTIN MOORE](http://twitter.com/Southpaw2014/status/19951345935)
+
+Who's second strongest Forsaken after Moridin? Some say Demandred some say Aginor. Did RJ say in his notes?
+
+#### [BRANDON SANDERSON (1 AUGUST)](http://twitter.com/BrandSanderson/status/20105827019)
+
+It IS in the notes, very explicitly. As for your answer...I'll see if we can get that in the Encyclopedia.
+
+#### Footnote
+
+The BWB says that Aginor was second-strongest of the male Forsaken. It also implies that Demandred is somewhat lower on the list than some fans expect, but since the Forsaken are all very close, it probably doesn't make as big a difference as some imagine.
+
+#### Tags
+
+forsaken
+,
+
+demandred
+,
+
+aginor
+,
+
+ishamael
+,
+
+moridin
+,
+
+fandom
+,
+
+encyclopedia
+
+## Entry #35
+
+#### [Azral Hanan (31 July 2010)](http://twitter.com/Azral_Joe/status/19981785837)
+
+How does Hatred turn into a blood-sucking mist that destroys energies derived from the Dark One? Will we get a detailed explanation?
+
+#### [AZRAL HANAN](http://twitter.com/Azral_Joe/status/19987560256)
+
+Also, will we get a glimpse or further details and explanation on Mordeth's 'unnatural' assassins?
+
+#### [Brandon Sanderson (31 July 2010)](http://twitter.com/BrandSanderson/status/20106330138)
+
+This is not something I'm at liberty to explain. I'll suggest it for the Encyclopedia.
+
+#### Tags
+
+mashadar
+,
+
+shadar logoth
+,
+
+mordeth
+,
+
+encyclopedia
+
+## Entry #36
+
+#### [Brandon Sanderson (1 August 2010)](http://twitter.com/BrandSanderson/status/20106156161)
+
+If I post on Twitter, consider it fair game for reposting. ... Note: I'm not 100% accurate all the time.
+
+#### Tags
+
+errors
+
+## Entry #37
+
+#### [Leth Filorn (1 August 2010)](http://twitter.com/Lethfil/status/20093700862)
+
+If Rand goes to
+*Tel'aran'rhiod*
+in the flesh, imagines himself a new hand (or a new body like Lews Therin's), and then walks out, what happens?
+
+#### [Brandon Sanderson (1 August 2010)](http://twitter.com/BrandSanderson/status/20111343900)
+
+It wouldn't go with him, I'm afraid.
+*Towers of Midnight*
+gives some hints on why, actually.
+
+#### Tags
+
+rand
+,
+
+tel'aran'rhiod
+,
+
+towers of midnight
+
+## Entry #38
+
+#### [Luckers (1 August 2010)](http://twitter.com/JamesLuckman/status/20057293921)
+
+I was wondering—why didn't Amys and Bair contact Edarra in her dreams when they were looking for Tam?
+
+#### [Brandon Sanderson (1 August 2010)](http://twitter.com/BrandSanderson/status/20110940006)
+
+There's a reason.
+*Towers of Midnight*
+may shine light on that.
+
+#### Tags
+
+tam
+,
+
+amys
+,
+
+bair
+,
+
+edarra
+,
+
+errors
+,
+
+dreams
+,
+
+dreamwalking
+,
+
+towers of midnight
+,
+
+the gathering storm
+
+## Entry #39
+
+#### [Rob Trotter (1 August 2010)](http://twitter.com/robtrotter/status/20065827901)
+
+Any chance you could clear up Sulin in
+*The Gathering Storm*
+? Was her appearance a typo or deliberate (Varied answers exist on the web)?
+
+#### [Brandon Sanderson (1 August 2010)](http://twitter.com/BrandSanderson/status/20110994126)
+
+Sure, you guys deserve an answer on this one.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20111025204)
+
+Sulin began life as a simple typo. When I saw it, I shrugged, and had a good reason. Maria thought that reason would not work.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20111053284)
+
+So we decided to retcon it out. Mistake was mine all along. Really nothing special to report there, I'm afraid.
+
+#### Tags
+
+sulin
+,
+
+errors
+,
+
+maria
+,
+
+the gathering storm
+
+## Entry #40
+
+#### [Mick Wick (1 August 2010)](http://twitter.com/DirektorDoom/status/19977845246)
+
+When and why did Moiraine go to the Green Man for the first time? Would we have learned about it in the third prequel novel?
+
+#### [Brandon Sanderson (1 August 2010)](http://twitter.com/BrandSanderson/status/20106286909)
+
+I can't say specifically, I'm afraid. As a fan, I assumed it was likely.
+
+#### Tags
+
+eye of the world
+,
+
+moiraine
+,
+
+someshta
+,
+
+prequels
+
+## Entry #41
+
+#### [Shivam Bhatt (1 August 2010)](http://twitter.com/elektrotal/status/20049345311)
+
+Will we ever find out what happened to Juilin Sandar, or the guys from Shienar, who haven't been seen since like book two?
+
+#### [Brandon Sanderson (1 August 2010)](http://twitter.com/BrandSanderson/status/20110808171)
+
+Juilin was in
+*The Gathering Storm*
+. He's still with Mat. Uno and company are in Egwene's army. They appear once in a while.
+
+#### Tags
+
+juilin
+,
+
+mat
+,
+
+the gathering storm
+,
+
+uno
+
+## Entry #42
+
+#### [Matt Hagerman (1 August 2010)](http://twitter.com/raggy736/status/20117652777)
+
+Is it harder to write a novel with the amount of detailed notes Mr. Jordan left as opposed to creating the world yourself?
+
+#### [Brandon Sanderson (2 August 2010)](http://twitter.com/BrandSanderson/status/20123277342)
+
+Some parts are harder, some parts are easier. The notes mean lots of research before I can write some scenes.
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20123295051)
+
+That slows me down a lot. But Mr. Jordan was a master worldbuilder, so—in some ways—it is easier. Hard parts have been done.
+
+#### [Austin Moore](http://twitter.com/Southpaw2014/status/20120069996)
+
+For WoT specifically, is it tougher to write the good guys or the bad and why?
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20123350031)
+
+In WoT, I'd say the bad guys. We've seen fewer viewpoints from them, so it's tougher to research them, figure them out.
+
+#### [Brandon King](http://twitter.com/CharlieBlue47/status/20132994872)
+
+If you could be from any nation in Randland, which one and why?
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20185050837)
+
+Malkier, I think. Though others ask me this question, and I think my answer changes. I just think the Malkieri are awesome.
+
+#### Footnote
+
+The last Q&A was found later and added here for date proximity.
+
+#### Tags
+
+brandon on writing wot
+,
+
+rj's notes
+,
+
+favorites
+
+## Entry #43
+
+#### [Azral Hanan (2 August 2010)](http://twitter.com/Azral_Joe/status/20122346906)
+
+Why is the Dragon 'one with the Land'? Is it just due to him being
+*ta'veren*
+or is there more to it?
+
+#### [Brandon Sanderson (2 August 2010)](http://twitter.com/BrandSanderson/status/20123481371)
+
+More to it. More about being the Dragon than being
+*ta'veren*
+. Who he is.
+
+#### [AZRAL HANAN](http://twitter.com/Azral_Joe/status/20129990538)
+
+So it's more than a title or being
+*ta'veren*
+and Hero of the Horn? The Dragon plays its own unique role in the Pattern?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20171521493)
+
+Note that Prophecy says that the Dragon specifically is reborn time after time.
+
+#### [Azral Hanan](https://twitter.com/Azral_Joe/status/20166229846)
+
+RJ said the soul is immortal. But Hopper says dying in the Wolf Dream is likely permanent. Is Hopper wrong?
+
+#### [Brandon Sanderson](https://twitter.com/BrandSanderson/status/20185475288)
+
+RAFO, for now. Ask again after the last book is out.
+
+#### Tags
+
+fisher king
+,
+
+rand
+,
+
+dragon soul
+,
+
+heroes of the horn
+,
+
+ta'veren
+,
+
+prophecies
+,
+
+the pattern
+,
+
+arthurian legend
+,
+
+hopper
+,
+
+souls
+,
+
+wolf dream
+,
+
+wolves
+
+## Entry #44
+
+#### [Andrew Leston (7 August 2010)](http://twitter.com/velinath/status/20587691156)
+
+I believe I've figured out who Demandred is based solely on
+*Lord of Chaos*
+. Is this possible?
+
+#### [Brandon Sanderson (7 August 2010)](http://twitter.com/BrandSanderson/status/20739221236)
+
+It MIGHT be possible. I honestly can't remember where all of the clues are.
+
+#### Tags
+
+demandred
+,
+
+taimandred
+,
+
+lord of chaos
+
+## Entry #45
+
+#### [Austin Moore (9 August 2010)](http://twitter.com/Southpaw2014/status/20742190033)
+
+Have you seen any theories online about the ending of WoT that were right?
+
+#### [Brandon Sanderson (9 August 2010)](http://twitter.com/BrandSanderson/status/20753743084)
+
+Yes, I have.
+
+#### Footnote
+
+Of course, 'the ending' is a rather broad category that could include anything at all about the Last Battle, Rand's death/resurrection, Shayol Ghul, the sealing of the Bore, etc.
+
+#### Tags
+
+how will it end?
+,
+
+unsolved mysteries
+,
+
+fandom
+
+## Entry #46
+
+#### [Felix Pax (10 August 2010)](http://twitter.com/FelixPax/status/20847816782)
+
+One of Tuon's Conflicts, is will she 'protect' the Tinkers from harm and keep her word? Or is Tuon loyal to the
+*a'dam*
+?
+
+#### [Brandon Sanderson (10 August 2010)](http://twitter.com/BrandSanderson/status/20852025512)
+
+Tuon is loyal, so far, to the
+*a'dam*
+. In her mind, leashing Tinkers who could channel would be 'protecting' them.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20852053498)
+
+Now, how that might change based on interactions with Aes Sedai—and the true secret of
+*sul'dam*
+—is still uncertain.
+
+#### Tags
+
+tuon
+,
+
+tinkers
+,
+
+damane
+,
+
+sul'dam
+,
+
+a'dam
+
+## Entry #47
+
+#### [Felix Pax (10 August 2010)](http://twitter.com/FelixPax/status/20854639980)
+
+A Question: I'm curious, how did Elyas escape Tar Valon and Blacks in the Red Ajah? Did Ila, Raen, Luca help him? Laras?
+
+#### [Brandon Sanderson (10 August 2010)](http://twitter.com/BrandSanderson/status/20867868519)
+
+Going to have to RAFO anything about Elyas.
+
+#### Tags
+
+elyas
+
+## Entry #48
+
+#### [Terez (10 August 2010)](http://twitter.com/Terez27/status/20775288321)
+
+I thought of a Lan question. Did Elyas really teach Lan anything about the Blight? Or was that a TEOTWism?
+
+#### [Terez](http://twitter.com/Terez27/status/20775356386)
+
+I have a feeling you are going to MAFO that. Does @MariaLSimons play Magic? Surely we can bribe her with something.
+
+#### [Brandon Sanderson (10 August 2010)](http://twitter.com/BrandSanderson/status/20822816934)
+
+I've never questioned that one, so I haven't thought to ask about it or look it up. Is there a reason I should wonder?
+
+#### [Terez](http://twitter.com/Terez27/status/20830999539)
+
+Only that Lan was practically raised in the Blight by the Malkieri. Wouldn't think Elyas could teach him much about it.
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/20851638337)
+
+That is a good point. I'll go ahead and do as you said and MAFO that one. You might be right; might be an EoTWism.
+
+#### [Maria Simons](http://www.dragonmount.com/index.php/News/amol/answers-to-a-few-mafo-questions-r658)
+
+I can’t find anything to clarify this, either. I will just offer up anecdote: I have been reading WoT for 22 years, and went to work for its creator over 17 years ago. I could be said to live and breathe The Wheel of Time. But Terez has taught me much about WoT. It could be a TEOTWism, or Lan could have been thinking of some very specific things that Elyas shared that he found helpful.
+
+#### Footnote—Terez
+
+I thought about asking how Elyas could teach Lan anything about the sword, too, but I figured the Blight bit was the most incredible. TEOTWism: this was stolen from the fandom for Steven Erikson's Malazan Book of the Fallen series. The first book of that series is called
+*Gardens of the Moon*
+, and in that fandom, details that are particular to the first book—details that cause continuity issues later in the series—are referred to as GOTMisms.
+
+#### Tags
+
+mafo
+,
+
+maria
+,
+
+elyas
+,
+
+lan
+,
+
+the blight
+,
+
+errors
+
+## Entry #49
+
+#### [Brandon Sanderson (10 August 2010)](http://twitter.com/BrandSanderson/status/20823112591)
+
+@FelixPax You post some curious things. Tell me, did anyone ever ask RJ anything about Ila?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20867868519)
+
+Ila is a very mythological name, though. I suspect you are right about its origins.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20867918669)
+
+Though remember, not all of the names are intentionally from mythology. Some just felt right to him, so he chose them.
+
+#### Tags
+
+wot influences
+
+## Entry #50
+
+#### [Austin Moore (10 August 2010)](http://twitter.com/Southpaw2014/status/20826097928)
+
+One thing that confuses me about Asmodean's murder is that RJ said most people who emailed him were wrong. Surprising?
+
+#### [Brandon Sanderson (10 August 2010)](http://twitter.com/BrandSanderson/status/20844152160)
+
+No, not surprising. Even if one of the common theories is right, then most people emailing are wrong.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20844207598)
+
+For sake of argument, suppose a popular theory is correct. The fact that there are hundreds of theories...
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20844241575)
+
+...means that even if 1/3 of people choose the right theory, 2/3 pick one of the other many theories.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20844259756)
+
+So whether it's a common theory or an obscure one, most people emailing are wrong.
+
+#### [TEREZ](http://twitter.com/Terez27/status/20857035807)
+
+Hundreds? There are less than 10 viable suspects I think, LOL. Maybe 15 if you stretch it.
+
+#### [TEREZ](http://twitter.com/Terez27/status/20859670746)
+
+You are probably aware that RJ was willing to eliminate a suspect for Asmodean at two times: in 2001 and in 2005.
+
+#### [TEREZ](http://twitter.com/Terez27/status/20859777185)
+
+In 2001 he eliminated Rand on a general question; in 2005 at DragonCon he eliminated Fain from a list of suspects.
+
+#### [TEREZ](http://twitter.com/Terez27/status/20859826499)
+
+I think it is time for one more! With only 1.5 years to go, it would be nice to have it narrowed down one more time.
+
+#### [TEREZ](http://twitter.com/Terez27/status/20860015166)
+
+This with knowledge that you'd probably have to ask permission, and that it would be the last time before the reveal.
+
+#### [TEREZ](http://twitter.com/Terez27/status/20860301234)
+
+The new list should probably be: Lanfear, Graendal, Aviendha, Taim, Slayer, Moiraine, Sammael, Moridin.
+
+#### [TEREZ](http://twitter.com/Terez27/status/20860409184)
+
+I don't think anyone seriously argues anyone else, though I could be wrong.
+
+#### [BRANDON SANDERSON (11 August)](http://twitter.com/BrandSanderson/status/20868122930)
+
+I will ask if I can eliminate one, just for you.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20915750885)
+
+Lol. Well, I guess there IS a faction that doesn't care:
+<http://bit.ly/cTGbqQ>
+
+#### [AUSTIN MOORE](http://twitter.com/Southpaw2014/status/20916262737)
+
+For Asmodean's killer revelation, will it just be an outright name or will it be explained how it happened and such?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20946829766)
+
+Afraid that's a RAFO.
+
+#### [Isabel](http://twitter.com/Isabelsedai/status/20946527291)
+
+@Brandon Sanderson and Team Jordan: please don't rule out anyone who could have killed Asmodean.
+
+#### [BRANDON SANDERSON (12 August)](http://twitter.com/BrandSanderson/status/20954403450)
+
+Ha. But so many are begging for an elimination. And it has been years.
+
+#### Footnote
+
+He never did eliminate a suspect because it was revealed in
+*Towers of Midnight*
+, which he was of course not at liberty to tell us before the book came out. (We knew he wouldn't do an elimination in that case; we only wanted one if we were going to have to wait until
+*A Memory of Light*
+came out to find out who killed him.)
+
+#### Tags
+
+asmodean
+,
+
+graendal
+
+## Entry #51
+
+#### [James Luckman (11 August 2010)](http://twitter.com/JamesLuckman/status/20938549314)
+
+Do you know what the population of the Westland/Waste/Seanchan are respectively?
+
+#### [Brandon Sanderson (12 August 2010)](http://twitter.com/BrandSanderson/status/20954334576)
+
+I have estimates.
+
+#### Tags
+
+geography
+
+## Entry #52
+
+#### [Azral Hanan (11 August 2010)](http://twitter.com/Azral_Joe/status/20869773662)
+
+Are the Chosen aware of Taim's existence? They never address him even in their thoughts.
+
+#### [Brandon Sanderson (11 August 2010)](http://twitter.com/BrandSanderson/status/20915806259)
+
+RAFO. (You totally knew I was going to do that.)
+
+#### Footnote
+
+In Kisman's POV (WH 22) we learn that Demandred ordered the renegades to kill Rand, but not to tell anyone of the order, including Taim. And of course, we know that Aginor/Osan'gar/Dashiva was aware of Taim.
+
+#### Tags
+
+taim
+,
+
+forsaken
+,
+
+demandred
+,
+
+aginor
+
+## Entry #53
+
+#### [Jacob Wallace (11 August 2010)](http://twitter.com/ArrogantFool/status/20900841563)
+
+In
+*Lord of Chaos*
+, second chapter, Taim gives Rand a prison seal, the seventh from my count. Does anyone know that all seven have been found?
+
+#### [Brandon Sanderson (11 August 2010)](http://twitter.com/BrandSanderson/status/20922389730)
+
+RAFO. :)
+
+#### Tags
+
+taim
+,
+
+rand
+,
+
+seals
+,
+
+lord of chaos
+
+## Entry #54
+
+#### [Jaron Frenk (11 August 2010)](http://twitter.com/Freudie/status/20864312232)
+
+When [
+*Towers of Midnight*
+] is done, how far along are you with
+*A Memory of Light*
+? (How much is already written?)
+
+#### [Brandon Sanderson (11 August 2010)](http://twitter.com/BrandSanderson/status/20868025193)
+
+Only the parts Mr. Jordan wrote. I haven't done anything for
+*A Memory of Light*
+yet.
+
+#### Tags
+
+amol:wip
+
+## Entry #55
+
+#### [Andrea Millhouse (12 August 2010)](http://twitter.com/Darth_Andrea/status/20978411705)
+
+On a scale of 1-10 how important will Bayle Domon be to Rand in the last two novels?
+
+#### [Brandon Sanderson (12 August 2010)](http://twitter.com/BrandSanderson/status/21009792412)
+
+I would say on a similar level to what he has been before.
+
+#### Tags
+
+domon
+,
+
+a memory of light
+
+## Entry #56
+
+#### [Terez (11 August 2010)](http://twitter.com/Terez27/status/20906545958)
+
+Are there actually Warders and Aes Sedai guarding the Blight at all times? Or is that another TEOTWism?
+
+#### [Brandon Sanderson (11 August 2010)](http://twitter.com/BrandSanderson/status/20922389730)
+
+Well, there are Aes Sedai and Warders staying with most Borderlander monarchs.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20922417355)
+
+I would say that yes, they are up there guarding. There are a disproportionate number, it seems, at times.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/20922462556)
+
+Morgase had one Aes Sedai, as did Berelain, to give advice. Borderlanders often have more.
+
+#### Footnote
+
+In the prologue of
+*The Path of Daggers*
+, 'Deceptive Appearances', it is made relatively clear that Paitar, Ethenielle, and Easar only had one advisor each.
+
+#### Tags
+
+the blight
+,
+
+aes sedai
+,
+
+warders
+,
+
+the eye of the world
+,
+
+borderlands
+
+## Entry #57
+
+#### [Azral Hanan (11 August 2010)](http://twitter.com/BrandSanderson/status/20922462556)
+
+Is Elan Morin a Dreamer/Dreamwalker?
+
+#### [Brandon Sanderson (12 August 2010)](http://twitter.com/BrandSanderson/status/20953861353)
+
+That's an excellent question. But I don't know if I'm allowed to answer. Remind me again when the deadline is past, and I'll see.
+
+#### Footnote
+
+Brandon indicated later that there is one
+[male](http://www.theoryland.com/intvmain.php?i=36#66)
+[Forsaken](http://www.theoryland.com/intvmain.php?i=36#136)
+who is
+[a Dreamer](http://www.theoryland.com/intvmain.php?i=605#3)
+, which most likely means Moridin.
+
+#### Tags
+
+ishamael
+,
+
+moridin
+,
+
+dreams
+,
+
+dreamwalking
+
+## Entry #58
+
+#### [Ernie (11 August 2010)](http://twitter.com/GoodDogSpike/status/20909954836)
+
+What is your favorite color?
+
+#### [Brandon Sanderson (11 August 2010)](http://twitter.com/BrandSanderson/status/20922517811)
+
+Oh, it depends. I do like deep reds and blacks a lot.
+
+#### Tags
+
+moridin
+,
+
+lol
+
+## Entry #59
+
+#### [Sam Nye (11 August 2010)](http://twitter.com/quantum_grid/status/20915279682)
+
+Can you tell us if
+*Towers of Midnight*
+will include any new maps of cities?
+
+#### [Brandon Sanderson (11 August 2010)](http://twitter.com/BrandonSandrson/status/20946766004)
+
+Yes.
+
+#### [SAM NYE](http://twitter.com/quantum_grid/status/20947332542)
+
+Cool! Any chance you can tell us which one? ;-)
+
+#### [BRANDON SANDERSON (12 AUGUST)](http://twitter.com/BrandonSandrson/status/20954430249)
+
+That would end the speculation. ;)
+
+#### Footnote
+
+(It was Maradon.)
+
+#### Tags
+
+geography
+,
+
+towers of midnight
+
+## Entry #60
+
+#### [Austin Moore (12 August 2010)](http://twitter.com/Southpaw2014/status/20973270188)
+
+You mentioned that the ending of
+*Towers of Midnight*
+is a heartwrencher. I'm gonna assume that we'll need tissues then?
+
+#### [Brandon Sanderson (12 August 2010)](http://twitter.com/BrandonSandrson/status/21009699583)
+
+Some of the betas did need them at places.
+
+#### Tags
+
+towers of midnight
+
+## Entry #61
+
+#### [Terez (12 August 2010)](http://twitter.com/Terez27/status/21015934288)
+
+Due to the prologue split, is most of the
+*Towers of Midnight*
+prologue chronologically before most events in
+*The Gathering Storm*
+?
+
+#### [Brandon Sanderson (12 August 2010)](http://twitter.com/BrandonSandrson/status/21032087221)
+
+A good chunk is. But it depends on which pieces of
+*The Gathering Storm*
+you're talking about...
+
+#### [TEREZ](http://twitter.com/Terez27/status/21032916867)
+
+Thanks! I figured, before everything but the prologue and earliest bits of
+*The Gathering Storm*
+, except maybe the scenes you added for
+*Towers of Midnight*
+?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandonSandrson/status/21044169805)
+
+Can't say more on the prologue. But you're on the right track.
+
+#### Tags
+
+the gathering storm
+,
+
+towers of midnight
+
+## Entry #62
+
+#### [Michael Cockrum (12 August 2010)](http://twitter.com/lamguin/status/21032930079)
+
+Why doesn't anyone in the Two Rivers realize how famous their tabac is?
+
+#### [Brandon Sanderson (13 August 2010)](http://twitter.com/BrandSanderson/status/21044196867)
+
+Guess it's because it's plentiful to them, so they take it for granted.
+
+#### Footnote
+
+It probably mostly has to do with isolation. There's an implication that they could probably charge a lot more for it, if they were inclined to do so; no doubt Faile and Perrin will argue about that at some point (assuming they survive).
+
+#### Tags
+
+two rivers
+,
+
+tabac
+
+## Entry #63
+
+#### [Luckers (12 August 2010)](http://twitter.com/JamesLuckman/status/21032403161)
+
+Is it possible to force someone (a learner) to start channeling?
+
+#### [Brandon Sanderson (13 August 2010)](http://twitter.com/BrandSanderson/status/21044116328)
+
+Almost anything is possible, under the right circumstances.
+
+#### Tags
+
+tuon
+,
+
+channeling
+,
+
+sul'dam
+,
+
+a'dam
+,
+
+damane
+
+## Entry #64
+
+#### [Leth Filorn (12 August 2010)](http://twitter.com/Lethfil/status/21016637310)
+
+How does the Oath Rod work? Does it accelerate the aging irreversibly, or add years that you get back upon Oath removal?
+
+#### [Brandon Sanderson (13 August 2010)](http://twitter.com/BrandSanderson/status/21037566911)
+
+A good question that people in world don't know the answer to yet, and only time will tell.
+
+#### Tags
+
+oath rod
+,
+
+three oaths
+,
+
+aes sedai
+
+## Entry #65
+
+#### [Máté Csarmasz (13 August 2010)](http://twitter.com/csarmi/status/21090034227)
+
+Does Tear's name have anything to do with the English word (tear), or is it a coincidence only?
+
+#### [Brandon Sanderson (13 August 2010)](http://twitter.com/BrandSanderson/status/21125428803)
+
+Robert Jordan said he got names from mythology or, sometimes, they just sounded right. It might have just sounded right.
+
+#### Tags
+
+tear
+,
+
+wot influences
+
+## Entry #66
+
+#### [Leth Filorn (13 August 2010)](http://twitter.com/Lethfil/status/21061819701)
+
+Could thirteen Aes Sedai linked shield Rand while he was channeling using
+*Callandor*
+? What about with Choedan Kal at full power?
+
+#### [Brandon Sanderson (13 August 2010)](http://twitter.com/BrandSanderson/status/21114371774)
+
+I think I'm going to MAFO those. (Which means email me, say I said I'd ask Maria, and we'll add them to her list.)
+
+#### [Brandon Sanderson](http://twitter.com/BrandSanderson/status/21114371774)
+
+I'm pretty sure of the answer, but I don't want to take the time to sort though the notes and look it up for certain while editing.
+
+#### [Maria Simons](http://www.dragonmount.com/index.php/News/amol/answers-to-a-few-mafo-questions-r658)
+
+I really don’t think so, for either, but I cannot find it specifically stated.
+
+#### Tags
+
+linking
+,
+
+circles
+,
+
+shields
+,
+
+callandor
+,
+
+choedan kal
+,
+
+rand
+,
+
+mafo
+
+## Entry #67
+
+#### [Austin Moore (13 August 2010)](http://twitter.com/Southpaw2014/status/21125118159)
+
+Has anyone personally written to you with an Asmodean's killer theory that was 100% correct?
+
+#### [Brandon Sanderson (14 August 2010)](http://twitter.com/BrandSanderson/status/21136105842)
+
+You know, people don't usually write me with theories. Well, some do—but only the really, really odd ones.
+
+#### [AUSTIN MOORE](http://twitter.com/Southpaw2014/status/21182120057)
+
+Can you at least say anything about how us readers could try and figure out Asmodean's murder? Timing, motive, etc?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/21303288502)
+
+The thing is, people have already discussed this to death. They've found the clues, they've got the right rationale.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/21303302555)
+
+The question is WHICH clues and WHICH rationale are you going to believe.
+
+#### Tags
+
+asmodean
+
+## Entry #68
+
+#### [Austin Moore (13 August 2010)](http://twitter.com/Southpaw2014/status/21093882940)
+
+How long do you think
+*A Memory of Light*
+will be in comparison to
+*The Gathering Storm*
+and
+*Towers of Midnight*
+? Can you estimate yet?
+
+#### [Brandon Sanderson (13 August 2010)](http://twitter.com/BrandSanderson/status/21125605061)
+
+My guess? Similar length. I don't know yet for certain.
+
+## Entry #69
+
+#### [Shivam Bhatt (13 August 2010)](http://twitter.com/elektrotal/status/21100830289)
+
+Do you ever feel that you're sharing too much info with all these updates?
+
+#### [Brandon Sanderson (13 August 2010)](http://twitter.com/BrandSanderson/status/21125683173)
+
+Don't know. I worry about it mostly for Harriet's sake. I try to reign myself in, actually. I'd probably share more...
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/21125704931)
+
+...but I don't want to make Harriet uncomfortable. This isn't my world, it's hers.
+
+#### Tags
+
+fandom
+,
+
+harriet
+
+## Entry #70
+
+#### [Andrea Millhouse (13 August 2010)](http://twitter.com/Darth_Andrea/status/21111280091)
+
+Compared to the
+*A Memory of Light*
+note content and detail how much was left for the remaining two prequels? Were they as detailed?
+
+#### [Brandon Sanderson (14 August 2010)](http://twitter.com/BrandSanderson/status/21130186900)
+
+There are lots of notes for everything. But RJ did not leave any scenes written, which is a big difference.
+
+#### [MAGGIE MELCHIOR (13 August)](http://twitter.com/maggiemelchior/status/21100584407)
+
+Will you ever give us annotations for WoT like you did for your other books? Or would Harriet & Co. say no?
+
+#### [BRANDON SANDERSON (14 August)](http://twitter.com/BrandSanderson/status/21129944140)
+
+This isn't likely to happen, as I don't think Harriet would want me to do it.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/21129965755)
+
+However, a book length work of annotations plus some of Mr. Jordan's notes might be possible. It will be up to Harriet.
+
+#### Tags
+
+rj's notes
+,
+
+prequels
+,
+
+harriet
+,
+
+wot annotations
+
+## Entry #71
+
+#### [Brandon C. King (14 August 2010)](http://twitter.com/CharlieBlue47/status/21129838411)
+
+Do you think
+*Towers of Midnight*
+is better than
+*The Gathering Storm*
+, A: as an author, B: as a fan? WoT fans will buy it regardless...
+
+#### [Brandon Sanderson (14 August 2010)](http://twitter.com/BrandonSandrson/status/21142556704)
+
+I'll have to think about that one more. They are very different books. It's like comparing Book 4 and Book 1.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandonSandrson/status/21142575595)
+
+Both are strong. But they do different things. One is focused, the other has more scope. But both are good books.
+
+#### Tags
+
+the gathering storm
+,
+
+towers of midnight
+
+## Entry #72
+
+#### [Amy Farmer (14 August 2010)](http://twitter.com/amysuefarmer/status/21131034065)
+
+Was Semihrage's "kitchen girl" quote in
+*Lord of Chaos*
+prologue significant in terms of who killed Asmodean?
+
+#### [Brandon Sanderson (16 August 2010)](http://twitter.com/BrandSanderson/status/21293076428)
+
+I'm going to RAFO that one out of principle, because it's about Asmodean, but I'll answer it eventually, once the books are out.
+
+#### Tags
+
+asmodean
+
+## Entry #73
+
+#### [Felix Pax (14 August 2010)](http://twitter.com/FelixPax/status/21134486908)
+
+Will Nynaeve shave her head, and lose the braid? A la, Empress Fortuona style?
+
+#### [Brandon Sanderson (16 August 2010)](http://twitter.com/BrandSanderson/status/21293422172)
+
+Ha ha. One I can answer. No. She will not.
+
+#### Tags
+
+a memory of light
+,
+
+nynaeve
+,
+
+seanchan
+
+## Entry #74
+
+#### [Felix Pax (16 August 2010)](http://twitter.com/FelixPax/status/21309928682)
+
+Should not Rand recall now, who Nynaeve was in 'past lives' post
+*The Gathering Storm*
+"Veins of Gold" chapter?
+
+#### [Brandon Sanderson (16 August 2010)](http://twitter.com/BrandSanderson/status/21379792907)
+
+Rand might have known Nynaeve in a past life, if she lived when he did. But he might not recognize her in a different body.
+
+#### Tags
+
+rand
+,
+
+nynaeve
+,
+
+rebirth
+
+## Entry #75
+
+#### [Matthew Soddy (14 August 2010)](http://twitter.com/MatthewSoddy/status/21175013196)
+
+Do you know if there are any plans to release another bundle of the WoT books? Like they have for 1-9? (3 book bundles)
+
+#### [Brandon Sanderson (16 August 2010)](http://twitter.com/BrandSanderson/status/21303244652)
+
+Yes, they probably will. My three, at the least. Maybe a five book of the last ones?
+
+## Entry #76
+
+#### [HBFFerreira (15 August 2010)](http://twitter.com/HBFFerreira/status/21221021094)
+
+Noal Charin: was he drawn to Mat by the pull of a
+*ta'veren*
+, or was there something of a "Hero to Hornsounder" pull as well?
+
+#### [Brandon Sanderson (16 August 2010)](http://twitter.com/BrandSanderson/status/21312770350)
+
+You're making assumptions about Noal that have not been clarified in the text. ;)
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/21312835096)
+
+On a more serious note, total RAFO on whether Jain is/was/will be a Hero. It's been talked about for years and years.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/21314639712)
+
+And I suspect that it will continue to be a source of discussion for some time. ;)
+
+#### [HBFFERREIRA](http://twitter.com/HBFFerreira/status/21340586722)
+
+Well, it's such a common assumption that I didn't even realize it hadn't been stated as true yet. :-p
+
+#### [HBFFERREIRA](http://twitter.com/HBFFerreira/status/21340671255)
+
+But while I'm assuming, I take it that Noal's past may be one of those things Robert Jordan didn't intend to reveal. :-p
+
+#### [BRANDON SANDERSON (17 AUGUST)](http://twitter.com/BrandSanderson/status/21381775488)
+
+RAFO on what RJ would or wouldn't reveal. :)
+
+#### [FELIX PAX (16 AUGUST)](http://twitter.com/FelixPax/status/21330199866)
+
+I wonder "when" will Farstrider's real background be exposed to Mat, Thom?
+
+#### [FELIX PAX](http://twitter.com/FelixPax/status/21330355701)
+
+At least four people should know who Farstrider really is: Loial, Elder Haman, Elder Arent, and Speaker Covril.
+
+#### [FELIX PAX](http://twitter.com/FelixPax/status/21330479666)
+
+Two other characters might know who Farstrider really is too: Birgitte from Ebou Dar, and Luca from Shangtai.
+
+#### [FELIX PAX](http://twitter.com/FelixPax/status/21330836436)
+
+Obviously a bunch of other older characters have a chance of recognizing Noal as Farstrider in Caemlyn too.
+
+#### [BRANDON SANDERSON (17 AUGUST)](http://twitter.com/BrandSanderson/status/21381294211)
+
+Continues whistling and walking the other direction.
+
+#### Tags
+
+farstrider
+,
+
+unsolved mysteries
+,
+
+heroes of the horn
+,
+
+rebirth
+
+## Entry #77
+
+#### [HBFFerreira (15 August 2010)](http://twitter.com/HBFFerreira/status/21221021094)
+
+Masema: was he being manipulated by a Forsaken from the start? His dealings with Suroth, and him not wanting to go to Rand?
+
+#### [Brandon Sanderson (16 August 2010)](http://twitter.com/BrandSanderson/status/21312618674)
+
+Masema was not manipulated from the start, but once he was noticed as a potentially useful tool.
+
+#### [HBFFERREIRA](http://twitter.com/HBFFerreira/status/21339552374)
+
+Both his dealings with Suroth and his mistrust of Perrin in
+*The Path of Daggers*
+were Forsaken-induced, right?
+
+#### [BRANDON SANDERSON (17 AUGUST)](http://twitter.com/BrandSanderson/status/21381625219)
+
+Influenced at the least. Depends on how you view induced.
+
+#### Footnote
+
+This question was explored further
+[here](http://www.theoryland.com/intvmain.php?i=537#3)
+.
+
+#### Tags
+
+masema
+,
+
+forsaken
+,
+
+suroth
+,
+
+perrin
+
+## Entry #78
+
+#### [HBFFerreira (16 August 2010)](http://twitter.com/HBFFerreira/status/21340745612)
+
+Elayne and Rand's babies... Calian and Shivan?
+
+#### [Brandon Sanderson (17 August 2010)](http://twitter.com/BrandSanderson/status/21381775488)
+
+RAFO ... on Elayne's babes. :)
+
+#### Tags
+
+elayne
+,
+
+rand
+,
+
+calian and shivan
+,
+
+heroes of the horn
+,
+
+rebirth
+
+## Entry #79
+
+#### [Austin Moore (16 August 2010)](http://twitter.com/Southpaw2014/status/21333875590)
+
+Who is nastier in your opinion between Padan Fain and Isam/Slayer?
+
+#### [Brandon Sanderson (17 August 2010)](http://twitter.com/BrandSanderson/status/21381435363)
+
+Nastier? Fain. But I think Slayer is cooler.
+
+#### Tags
+
+slayer
+,
+
+fain
+,
+
+favorites
+
+## Entry #80
+
+#### [Jeff Edde (16 August 2010)](http://twitter.com/JeffEdde/status/21345062970)
+
+What does the end look like? Does Shaidar Haran make an appearance? Moiraine alive? Any time travel to the Age of Legends?
+
+#### [Brandon Sanderson (17 August 2010)](http://twitter.com/BrandonSandrson/status/21382057309)
+
+You totally know I'm going to RAFO those. :)
+
+#### Tags
+
+how will it end?
+,
+
+a memory of light
+
+## Entry #81
+
+#### [Olly McKnight-Lange (16 August 2010)](http://twitter.com/PCE_Deadmeat/status/21318874331)
+
+When is
+*Towers of Midnight*
+released, October? Can you post a chunk on here early?
+
+#### [Brandon Sanderson (17 August 2010)](http://twitter.com/BrandonSandrson/status/21380353779)
+
+November 2nd. And I'll try to post some early.
+
+#### Tags
+
+towers of midnight
+
+## Entry #82
+
+#### [Anthony Platts (16 August 2010)](http://twitter.com/AtanLodorn/status/21305099963)
+
+Did Mat break the treaty with the Aelfinn/Eelfinn when he asked the four questions in
+*The Shadow Rising*
+....any consequences??
+
+#### [Brandon Sanderson (17 August 2010)](http://twitter.com/BrandSanderson/status/21379734426)
+
+RAFO. :)
+
+#### Tags
+
+mat
+,
+
+aelfinn
+,
+
+finns
+,
+
+the shadow rising
+
+## Entry #83
+
+#### [Terez (16 August 2010)](http://twitter.com/Terez27/status/21337727087)
+
+Are there many themes in WoT that will only become clear as we read the final two books? Things going back to early books?
+
+#### [Brandon Sanderson (17 August 2010)](http://twitter.com/BrandSanderson/status/21381625219)
+
+I think so.
+
+#### Tags
+
+wot themes
+,
+
+towers of midnight
+,
+
+a memory of light
+
+## Entry #84
+
+#### [Brandon Sanderson (17 August 2010)](http://twitter.com/BrandonSandrson/status/21381974642)
+
+**Q:**
+When do you start
+*A Memory of Light*
+? (Asked with a smile, but with real curiosity too I'm sure.)
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/21382000152)
+
+**A:**
+I start it January 1st. I'm taking four months to relax my brain and work on something else, to refresh myself and keep creative.
+
+#### Tags
+
+brandon on writing wot
+,
+
+amol:wip
+
+## Entry #85
+
+#### [Ted Herman (29 September 2010)](http://twitter.com/WinesprngBrothr/status/25909400070)
+
+Was Rand's super balefire beam palace sized or a narrow beam?
+
+#### [Brandon Sanderson (29 September 2010)](http://twitter.com/BrandSanderson/status/25950372156)
+
+Not palace sized.
+
+#### Tags
+
+rand
+,
+
+graendal
+,
+
+the gathering storm
+,
+
+balefire
+
+## Entry #86
+
+#### [Matthías Páli (8 November 2010)](http://twitter.com/tritlo/status/1717293155360768)
+
+Who is your favorite character, and why?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1719406061162496)
+
+Perrin, because I feel like him most of the time.
+
+#### Tags
+
+perrin
+
+## Entry #87
+
+#### [Candice Haase (8 November 2010)](http://twitter.com/gardenrosephoto/status/1716898148388864)
+
+One thing our family is looking forward to is the compendium when the story ends. Will you be helping?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1720214538428416)
+
+It is mostly Harriet/Maria. But I have some requests I plan to put in. :)
+
+#### Tags
+
+encyclopedia
+,
+
+harriet
+,
+
+maria
+,
+
+team jordan
+
+## Entry #88
+
+#### [Kozza Bambuda (8 November 2010)](http://twitter.com/kozza/status/1711498577584128)
+
+Is there specific reason for the WoT team's and your seeming reluctance to possibly pursuing outrigger novels?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1713874956984320)
+
+Because we don't want to exploit Robert Jordan's name. Doing books he told us to do is one thing.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/1713973225324544)
+
+Doing more is troubling. There's nothing wrong with Outriggers; I'm not worried about them.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/1714090892333056)
+
+I'm worried that it will be harder to stop after doing them, and I feel it WOULD be wrong not to stop then.
+
+#### [DAVID IMBEAULT](http://twitter.com/CynanMachae/status/1714489858719745)
+
+Any plans for the other WoT prequels?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/1717845666824193)
+
+As of right now, no plans. We are hesitant because we don't want to exploit RJ's legacy.
+
+#### Tags
+
+prequels
+,
+
+outriggers
+
+## Entry #89
+
+#### [Matt Hatch (8 November 2010)](http://twitter.com/thedustywheel/status/1714920747966465)
+
+Did Verin know the weave to hide her channeling ability from being detected by another female channeler?
+
+#### [Maria Simons (8 November 2010)](http://twitter.commarialsimons/status/1715614963994624)
+
+Sneaky sneaky Verin knew a lot. And that's all I have to say at the moment.
+
+#### Tags
+
+verin
+,
+
+nakomi
+
+## Entry #90
+
+#### [Ted Herman (8 November 2010)](http://twitter.com/WinesprngBrothr/status/1715206967271424)
+
+Is Taim a Darkfriend?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1718303865184256)
+
+Wow. I could really blow things up with that one, eh? I'll be safe and RAFO.
+
+#### Tags
+
+taim
+,
+
+darkfriends
+,
+
+black tower
+
+## Entry #91
+
+#### [Shivam Bhatt (8 November 2010)](http://twitter.com/elektrotal/status/1715861027028992)
+
+Do you think you'll actually be able to wrap up the story in
+*A Memory of Light*
+? Seems like a lot of endgame threads still open.
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1721756016443392)
+
+I have no plans to split the book again. I am 2/3 through the outline. Anything can happen, but it looks like one.
+
+#### Tags
+
+a memory of light
+,
+
+brandon on writing wot
+
+## Entry #92
+
+#### [pmisir (8 November 2010)](http://twitter.com/pmisir/status/1716782750507008)
+
+Re:
+*A Memory of Light*
+, I hope there'll be tons more Tuon/Seanchan?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1720087509737472)
+
+There will be more than there was in
+*Towers of Midnight*
+.
+
+#### Tags
+
+tuon
+,
+
+seanchan
+,
+
+a memory of light
+
+## Entry #93
+
+#### [blindillusion (8 November 2010)](http://twitter.com/Blindillusion13/status/1711727842435072)
+
+Is there going to be any chance of fans getting their names in
+*A Memory of Light*
+?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1714312729075712)
+
+Yes, there will be. Next spring, hopefully, another charity gig.
+
+#### Tags
+
+fan names in the books
+
+## Entry #94
+
+#### [Paige Madison (8 November 2010)](http://twitter.com/paige_madison/status/1708900348858368)
+
+What was your first reaction after you find out how the story ended?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1709863864377344)
+
+Satisfaction. It ends well. It didn't knock me off my seat, like some things in outline, but it was wonderful.
+
+#### Tags
+
+how will it end?
+,
+
+a memory of light
+,
+
+rj's notes
+,
+
+the last scene
+
+## Entry #95
+
+#### [Ty Margheim (8 November 2010)](http://twitter.com/alSeen14/status/1717146002399232)
+
+Are the prophecies competing a la
+*The Belgariad*
+(by David Eddings), or are they complementary?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1719523350675456)
+
+Not competing like
+*The Belgariad*
+, and certainly not intelligent like in
+*The Belgariad*
+.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/1719763088703488)
+
+Some may be interpreted wrong, others may be recorded wrong, but there is not a this/that nature to them.
+
+#### Footnote
+
+The questioner is probably referring to the dark/light prophecies, as this makes the best comparison for Eddings. Brandon is saying that they will all be fulfilled, whether dark or light. (The Seanchan prophecies are another matter altogether, and Brandon was hinting at this in his last tweet; there is good reason to believe that the Seanchan prophecies have been corrupted.)
+
+#### Tags
+
+prophecies
+,
+
+dark prophecy
+
+## Entry #96
+
+#### [Brian Cayen (8 November 2010)](http://twitter.com/BRCayen/status/1716704237322240)
+
+I can't figure it out....what was the "little thing" that was missed [from books 4-6]?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1720406956314624)
+
+End of [
+*Towers of Midnight*
+] Chapter 55.
+
+#### Tags
+
+BUT
+
+## Entry #97
+
+#### [Matthías Páli (8 November 2010)](http://twitter.com/tritlo/status/1717128054968320)
+
+Will we see more from Shara or the Land of the Madmen?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1719910497521664)
+
+RJ said there would be no major action in Shara. He was uncertain on Madmen.
+
+#### Tags
+
+shara
+,
+
+land of madmen
+
+## Entry #98
+
+#### [Spencer Pranger (8 November 2010)](http://twitter.com/spencerpanger/status/1710768974200832)
+
+Why is Hoid trying to restore the Pattern?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1713443824476160)
+
+Lol. Hoid has no involvement in anything WoT. :)
+
+#### Tags
+
+brandon on writing wot
+
+## Entry #99
+
+#### [Matthías Páli (8 November 2010)](http://twitter.com/tritlo/status/1707820323966977)
+
+How many rounds are there in the Age of Legends game
+*sha'rah*
+?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1708604159692800)
+
+MAFO.
+
+#### [Maria Simons](http://twitter.com/MariaLSimons/status/1709305401180160)
+
+I can't answer that MAFO off the top of my head.
+
+#### [Maria Simons](http://www.dragonmount.com/index.php/News/amol/answers-to-a-few-mafo-questions-r658)
+
+(later) I don't know.
+
+#### Tags
+
+age of legends
+,
+
+maria
+,
+
+games in wot
+
+## Entry #100
+
+#### [sleepinghour (8 November 2010)](http://twitter.com/sleepinghour/status/1714455775813632)
+
+Who is the best swordsman in WoT right now? Lan, Galad, or Gawyn?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1717719166615552)
+
+Lan. Then Galad. Then Gawyn. Gawyn is luckier than he thinks he is.
+
+#### Tags
+
+blademasters
+,
+
+lan
+,
+
+galad
+,
+
+gawyn
+
+## Entry #101
+
+#### [Shivam Bhatt (8 November 2010)](http://twitter.com/elektrotal/status/1709008721289216)
+
+[
+*Towers of Midnight*
+] Chapters 48-49.—was that all in Jordan's notes? So so sad and dark!
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1710073248227328)
+
+I'm avoiding answering questions about what was specifically in the notes and what wasn't, for now.
+
+#### [SHIVAM BHATT](http://twitter.com/elektrotal/status/1710705623433217)
+
+Ok, well, can you comment on your own feelings of those chapters, as a fan?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/1713185094631424)
+
+Awesome but very disturbing. As a fan, they're discomforting.
+
+#### Tags
+
+aviendha
+,
+
+aiel
+,
+
+rhuidean
+,
+
+ter'angreal
+,
+
+towers of midnight
+,
+
+prophecies
+,
+
+rj's notes
+
+## Entry #102
+
+#### [Ashiya Kapadi (8 November 2010)](http://twitter.com/Apy12/status/1716685102915584)
+
+Who on earth is Nakomi?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1720530759585793)
+
+RAFO. :) I'm leaving that one open to interpretation.
+
+#### Tags
+
+nakomi
+,
+
+unsolved mysteries
+
+## Entry #103
+
+#### [John Lewis (8 November 2010)](http://twitter.com/Gigalew/status/1715953654046723)
+
+Where those fellas in red veils? Human or Shadowspawn?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1721589368365056)
+
+RAFO. :)
+
+#### Tags
+
+aiel
+,
+
+red-veiled aiel
+,
+
+the blight
+
+## Entry #104
+
+#### [blindillusion (8 November 2010)](http://twitter.com/Blindillusion13/status/1715342212599808)
+
+Will
+*A Memory of Light*
+be centered on Mat? Rand had
+*The Gathering Storm*
+and Perrin had
+*Towers of Midnight*
+.
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1721916284993536)
+
+It will be pretty equal.
+
+#### Tags
+
+a memory of light
+
+## Entry #105
+
+#### [Brian Cayen (8 November 2010)](http://twitter.com/#%21/BRCayen/status/1710903640719360)
+
+You've said in the past that Aviendha's voice was one the hardest for you to write....is this still the case?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1713613861552128)
+
+It still takes the longest to prepare for, but it is no longer as difficult as it was.
+
+#### Tags
+
+brandon on writing wot
+,
+
+aviendha
+
+## Entry #106
+
+#### [Linda Sandström (8 November 2010)](http://twitter.com/#%21/linksan/status/1714369071157248)
+
+Are Aviendha's children conceived naturally or are they a consequence of something Power-related Rand and Aviendha do together?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1717536521461760)
+
+RAFO. :)
+
+#### Tags
+
+rand
+,
+
+aviendha
+,
+
+min's viewings
+
+## Entry #107
+
+#### [Luke Piper (8 November 2010)](http://twitter.com/ShouldBWriting/status/1712303418384384)
+
+Which character kept you up at night worrying the most?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1714973159981056)
+
+Rand. In both books.
+
+#### Tags
+
+rand
+,
+
+a memory of light
+,
+
+brandon on writing wot
+
+## Entry #108
+
+#### [Jeff Edde (8 November 2010)](http://twitter.com/#%21/JeffEdde/status/1713126508593152)
+
+The names for kids in Aviendha's vision: Were they from the notes for Outtrigger books? Or written up by you?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1716113469603842)
+
+I'll answer that specifically after the books are all out.
+
+#### Tags
+
+aviendha
+,
+
+outriggers
+,
+
+rj's notes
+,
+
+who wrote what?
+
+## Entry #109
+
+#### [Matt Williams (8 November 2010)](http://twitter.com/Willi2md/status/1712512185671681)
+
+Was the fog in
+*A Crown of Swords*
+during the fight between Toram Riatin and Rand a bubble of evil or did Fain control the fog?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1715755729035264)
+
+RAFO.
+
+#### Footnote
+
+The glossary entry for
+[Daved Hanlon](https://docs.google.com/View?docID=dcjspjqg_484vmfdvngh&revision=_latest#Hanlon,_Daved)
+in TPOD says that it was a bubble of evil.
+
+#### Tags
+
+bubbles of evil
+,
+
+fain
+,
+
+mashadar
+,
+
+a crown of swords
+
+## Entry #110
+
+#### [Matt Hatch (8 November 2010)](http://twitter.com/#%21/Theoryland/status/1718054408949760)
+
+Was Asmodean killed with balefire?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1718914736197632)
+
+I will see if I can give additional details. I'll ask Maria and Harriet for their read.
+
+#### Tags
+
+asmodean
+,
+
+maria
+,
+
+harriet
+,
+
+balefire
+,
+
+graendal
+
+## Entry #111
+
+#### [Ty Margheim (8 November 2010)](http://twitter.com/#%21/alSeen14/status/1716242322825216)
+
+What did we miss that would have told us who killed Asmodean?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1720872192712704)
+
+I don't think people missed it. RJ said it was obvious, and many guessed it correctly. So I'd say they got it.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/1721122982731776)
+
+If you ask on a fan site, they can get you the 'Sherlock Holmes' style
+[investigation](http://www.fanfiction.net/s/4975913/1/Sherlock_Holmes_Examines_the_Death_of_Asmodean)
+of the subject. It is right.
+
+#### Footnote
+
+RJ was joking when he said it was 'intuitively obvious'.
+
+#### Tags
+
+asmodean
+,
+
+graendal
+
+## Entry #112
+
+#### [Xarra (8 November 2010)](http://twitter.com/xarra/status/1714063033765888)
+
+You said at a book tour that we'd seen Demandred lots already—is this true? Has he been 'on screen' in
+*Towers of Midnight*
+?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1716595525165056)
+
+I was being jokey on that one, meaning the times he's appeared as himself or been referenced as himself.
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/1716710482649088)
+
+I have not answered if we've seen him 'In disguise' yet. Or I didn't intend to. Might have sounded that way.
+
+#### Tags
+
+demandred
+
+## Entry #113
+
+#### [Matt Hatch (8 November 2010)](http://twitter.com/thedustywheel/status/1710430636478464)
+
+Is Logain working for Demandred?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1711865398824961)
+
+Oh, you KNEW I was going to RAFO that one. :)
+
+#### [MATT HATCH](http://twitter.com/thedustywheel/status/1717515268915201)
+
+How often does Demandred contemplate killing Moridin?
+
+#### [BRANDON SANDERSON](http://twitter.com/BrandSanderson/status/1719236233789440)
+
+Less than the other Chosen. He is focused on Rand. He contemplates Moridin, but mostly he wants Rand.
+
+#### Tags
+
+demandred
+,
+
+moridin
+,
+
+logain
+,
+
+rand
+
+## Entry #114
+
+#### [Adam Stillwaggon (8 November 2010)](http://twitter.com/still_thedragon/status/1713793079967745)
+
+Who was bringing the Trollocs through the Portal Stone to attack Perrin and the Whitecloaks?
+
+#### [Brandon Sanderson (8 November 2010)](http://twitter.com/BrandSanderson/status/1716378293772289)
+
+RAFO. :)
+
+#### Tags
+
+portal stones
+,
+
+towers of midnight
+,
+
+shadowspawn
+,
+
+trollocs
+,
+
+perrin
+
+
+---
+

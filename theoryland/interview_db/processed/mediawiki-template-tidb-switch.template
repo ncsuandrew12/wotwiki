@@ -1,3 +1,4 @@
+<includeonly>{{TLlink|https://www.theoryland.com/intvmain.php?i&equals;{{{1}}}{{#if:{{{2|}}}|&#35;{{{2}}}}}|{{#if:{{{3|}}}|{{{3}}}|{{#switch:{{{1|}}}
   | 1=AOL Chat 1, {{Date|1994 Oct 21}}
   | 2=Twitter 2009-2010 (WoT), {{Date|2010 Jan 01}}
   | 3=TPOD Signing Report - John Novak, {{Date|1998 Nov 21}}
@@ -1163,3 +1164,5 @@
   | 1182=Harold Washington Library Center-AU Tour, {{Date|2016 Dec 06}}
   | 1183=Deseret News Q&A: Brandon Sanderson on the importance of fiction and how writing influences his LDS faith, {{Date|2017 Nov 10}}
   | 1184=Reddit: If you had a make-a-wish and for some reason chose Brandon Sanderson to answer one question, what would your question be?, {{Date|2014 Sep 30}}
+  | Theoryland Interview &#35;{{{1}}}}}}}{{#if:{{{2|}}}|&nbsp;- Q{{{2}}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Utility templates]]</noinclude>

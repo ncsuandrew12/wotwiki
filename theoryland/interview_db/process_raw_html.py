@@ -319,11 +319,15 @@ def process_raw_html(file):
         else:
             raise ValueError(f"Non-li element in entry list in file {file}: {entry_li}")
 
+    # TODO process interview db tags
+
     # print("Processed file {file}, result: {result}".format(file=file, result=result))
     return result
 
 def main():
     html_dir = Path("./raw_html_downloads")
+    web_root = Path("../../web/theoryland/interviews")
+    basename = "theoryland interview database"
     print("Checking for raw HTML files in directory:", html_dir)
     
     if not html_dir.exists():
@@ -339,62 +343,80 @@ def main():
     
     print(f"Processing {len(html_files)} HTML files...", end='', flush=True)
     
-    result = {}
-    for html_file in html_files:
+    interviews = {}
+    for f in html_files:
         # Find h3 elements with listintv.php links
-        file_result = process_raw_html(html_file)
-        result[str(file_result.id)] = file_result
+        interview = process_raw_html(f)
+        interviews[str(interview.id)] = interview
         print(".", end='', flush=True)
     print("")
 
-    with open('./processed/db.json', 'w', encoding='utf-8', errors='ignore') as d:
-        print(f"Writing JSON to {d.name}")
-        d.write(json.dumps(result, cls=JsonEncoder, indent=2))
+    with open(f"{web_root}/{basename}.json", 'w', encoding='utf-8', errors='ignore') as f:
+        print(f"Writing JSON to {f.name}")
+        f.write(json.dumps(interviews, cls=JsonEncoder, indent=2))
 
-    # with open('./processed/db.json', 'r', encoding='utf-8', errors='ignore') as d:
-    #     print(f"Reading JSON from {d.name}")
-    #     result = json.load(d)
+    # TODO Use beautifulsoup to convert our objects to HTML and compare against the (normalized) original HTML
+    # as a verification of proper parsing.
 
-    # with open('./processed/db.md', 'w', encoding='utf-8', errors='ignore') as d:
-        # print(f"Writing Markdown to {d.name}")
-    for i in range(1, len(result)+1):
-        with open(f"./processed/db-{i}.md", 'w', encoding='utf-8', errors='ignore') as d:
-            print(f"Writing Markdown to {d.name}")
-            interview = result[str(i)]
-            d.write(f"# Interview #{interview.id}" + (f": {interview.title}" if interview.title else "") + "\n\n")
+    # with open('./processed/db.json', 'r', encoding='utf-8', errors='ignore') as f:
+    #     print(f"Reading JSON from {f.name}")
+    #     interviews = json.load(f)
+
+    # with open('./processed/db.md', 'w', encoding='utf-8', errors='ignore') as f:
+        # print(f"Writing Markdown to {f.name}")
+    print(f"Writing Markdown to {web_root}/db-*.md", end='', flush=True)
+    for i in range(1, len(interviews)+1):
+        print(".", end='', flush=True)
+        with open(f"{web_root}/db-{i}.md", 'w', encoding='utf-8', errors='ignore') as f:
+            # print(f"Writing Markdown to {f.name}")
+            interview = interviews[str(i)]
+            f.write(f"# Interview #{interview.id}" + (f": {interview.title}" if interview.title else "") + "\n\n")
             if interview.date:
-                d.write(f"- Date: {datetime.strftime(interview.date, '%Y-%m-%d')}\n\n")
+                f.write(f"- Date: {datetime.strftime(interview.date, '%Y-%m-%f')}\n\n")
             if interview.entryType:
-                d.write(f"- Type: {interview.entryType}\n\n")
+                f.write(f"- Type: {interview.entryType}\n\n")
             if interview.location:
-                d.write(f"- Location: {interview.location}\n\n")
+                f.write(f"- Location: {interview.location}\n\n")
             if interview.bookStore:
-                d.write(f"- Bookstore: {interview.bookStore}\n\n")
+                f.write(f"- Bookstore: {interview.bookStore}\n\n")
             if interview.tourCon:
-                d.write(f"- Tour/Con: {interview.tourCon}\n\n")
+                f.write(f"- Tour/Con: {interview.tourCon}\n\n")
             if interview.reporter:
-                d.write(f"- Reporter: {interview.reporter}\n\n")
+                f.write(f"- Reporter: {interview.reporter}\n\n")
             if interview.links and len(interview.links) > 0:
-                d.write("- Links\n\n")
+                f.write("- Links\n\n")
                 for link in interview.links:
-                    d.write(f"-- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
-                d.write("\n")
+                    f.write(f"-- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
+                f.write("\n")
             entry_i = 0
             for entry in interview.entries:
                 entry_i += 1
-                d.write(f"## Entry #{entry_i}\n\n")
-                d.write(entry.content + "\n\n")
-            d.write("\n---\n\n")
+                f.write(f"## Entry #{entry_i}\n\n")
+                f.write(entry.content + "\n\n")
+            f.write("\n---\n\n")
+    print("")
 
-    with open('./processed/mediawiki-template-tidb-switch.template', 'w', encoding='utf-8', errors='ignore') as t:
-        print(f"Writing id-to-description mediawiki template code to {t.name}")
+    with open(f"{web_root}/index.md", 'w', encoding='utf-8', errors='ignore') as f:
+        print(f"Writing id-to-description mediawiki template switch code to {f.name}")
+        f.write("# [Theoryland Interview Database](https://www.theoryland.com/listintv.php)\n\n")
+        f.write("## Downloads\n\n")
+        f.write(f"* Full archive [JSON](./{basename}.json)\n\n")
+        f.write(f"* Full archive [Markdown](./{basename}.md)\n\n")
+        f.write("## Interviews\n\n")
+        for i in range(1, len(interviews)+1):
+            f.write(f"- [Interview #{i} - " + (f": {interviews[str(i)].title}" if interviews[str(i)].title else "") + f"](./db-{i})" + "\n")
+
+    os.makedirs("./processed", exist_ok=True)
+    with open('./processed/mediawiki-template-tidb-switch.template', 'w', encoding='utf-8', errors='ignore') as f:
+        print(f"Writing id-to-description mediawiki template switch code to {f.name}")
+        f.write('<includeonly>{{TLlink|https://www.theoryland.com/intvmain.php?i&equals;{{{1}}}{{#if:{{{2|}}}|&#35;{{{2}}}}}|{{#if:{{{3|}}}|{{{3}}}|{{#switch:{{{1|}}}\n')
         ids = []
-        for i in result.values():
+        for i in interviews.values():
             ids.append(i.id)
         ids.sort()
         missing = 0
         for id in ids:
-            interview = result[str(id)]
+            interview = interviews[str(id)]
             if not (interview.title or interview.date):
                 missing = missing + 1
                 continue
@@ -402,16 +424,10 @@ def main():
             if title is None:
                 title = interview.id
             line = f"  | {interview.id}={title}" + (f", {{{{Date|{datetime.strftime(interview.date, '%Y %b %d')}}}}}" if interview.date else "")
-            t.write(line + "\n")
+            f.write(line + "\n")
+        f.write("""  | Theoryland Interview &#35;{{{1}}}}}}}{{#if:{{{2|}}}|&nbsp;- Q{{{2}}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Utility templates]]</noinclude>\n""")
         print(f"  Skipped {missing} entries with no title and no date")
-    
-    with open('./processed/index.md', 'w', encoding='utf-8', errors='ignore') as r:
-        r.write("# [Theoryland Interview Database](https://www.theoryland.com/listintv.php)\n\n")
-        r.write("## Downloads\n\n")
-        r.write("- [JSON](./db.json)\n\n")
-        r.write("## Interviews\n\n")
-        for i in range(1, len(result)+1):
-            r.write(f"- [Interview #{i} - " + (f": {result[str(i)].title}" if result[str(i)].title else "") + f"](./db-{i})" + "\n")
 
 if __name__ == "__main__":
     main()
