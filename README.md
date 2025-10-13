@@ -12,6 +12,6 @@ We host [a copy](https://web.wot.wiki/theoryland/interviews) of the [Theoryland 
 
 # Web
 
-To view the web pages for the wotwiki repo, visit [pages.wot.wiki](https://web.wot.wiki).
+To view the web pages for the wotwiki repo, visit [web.wot.wiki](https://web.wot.wiki).
 
 To view the wiki itself, visit [wot.wiki](https://wot.wiki).
