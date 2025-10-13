@@ -404,6 +404,14 @@ def main():
             line = f"  | {interview.id}={title}" + (f", {{{{Date|{datetime.strftime(interview.date, '%Y %b %d')}}}}}" if interview.date else "")
             t.write(line + "\n")
         print(f"  Skipped {missing} entries with no title and no date")
+    
+    with open('./processed/index.md', 'w', encoding='utf-8', errors='ignore') as r:
+        r.write("# [Theoryland Interview Database](https://www.theoryland.com/listintv.php)\n\n")
+        r.write("## Downloads\n\n")
+        r.write("- [JSON](./db.json)\n\n")
+        r.write("## Interviews\n\n")
+        for i in range(1, len(result)+1):
+            r.write(f"- [Interview #{i} - " + (f": {result[str(i)].title}" if result[str(i)].title else "") + f"](./processed/db-{i}.md)" + "\n")
 
 if __name__ == "__main__":
     main()
