@@ -48,6 +48,7 @@ class Interview:
 
 class InterviewEntry:
     content = None
+    tags = []
     def __str__(self):
         return f"InterviewEntry: {self.toJSON()}"
     def toJSON(self):
@@ -308,6 +309,28 @@ def process_raw_html(file):
             if entry_li_c.name == None and (entry_li_c.string == None or entry_li_c.string.strip() == ''):
                 entry_li_c = next(entry_li_iter)
             if entry_li_c.name == 'div' and 'class' in entry_li_c.attrs and len(entry_li_c.attrs['class']) == 1 and entry_li_c.attrs['class'][0] == 'entry-data':
+                mode = None
+                for entry_data_c in entry_li_c.children:
+                    if entry_data_c.name == 'h4' and entry_data_c.string and entry_data_c.string.strip() == 'Tags':
+                        mode = "tags"
+                        entry_data_c.extract()
+                        continue
+                    if mode == "tags":
+                        entry_data_c.extract()
+                        if entry_data_c.name == None and (entry_data_c.string == None or entry_data_c.string.strip() == ''):
+                            continue
+                        if entry_data_c.name != 'div':
+                            raise ValueError(f"Entry li.div<entry-data>.h4 Tags not followed by div in file {file}: {entry_data_c.name}: {entry_data_c}")
+                        for tag_form in entry_data_c.children:
+                            if tag_form.name == None and (tag_form.string == None or tag_form.string.strip() == '' or tag_form.string.strip() == ','):
+                                continue
+                            if tag_form.name != 'form':
+                                raise ValueError(f"Entry li.div<entry-data>.h4 Tags not followed by div.form in file {file}: {tag_form}")
+                            tag_buttons = tag_form.find_all('button', recursive=False)
+                            for tag_button in tag_buttons:
+                                if 'class' not in tag_button.attrs or len(tag_button.attrs['class']) != 1 or tag_button.attrs['class'][0] != 'lk-search-tag':
+                                    raise ValueError(f"Entry li.div<entry-data>.h4 Tags div.form contains non-lk-search-tag button in file {file}: {tag_button}")
+                                result.entries[len(result.entries)-1].tags.append(tag_button.text.strip())
                 result.entries[len(result.entries)-1].content = md(str(entry_li_c))
             else:
                 raise ValueError(f"Entry li[2] with unexpected name {entry_li_c.name} found in file {file}: {entry_li}")
@@ -318,8 +341,6 @@ def process_raw_html(file):
             continue
         else:
             raise ValueError(f"Non-li element in entry list in file {file}: {entry_li}")
-
-    # TODO process interview db tags
 
     # print("Processed file {file}, result: {result}".format(file=file, result=result))
     return result
@@ -362,16 +383,14 @@ def main():
     #     print(f"Reading JSON from {f.name}")
     #     interviews = json.load(f)
 
-    with open(f"{web_root}/theoryland interview database.md", 'w', encoding='utf-8', errors='ignore') as f:
-        print(f"Writing Markdown to {f.name}")
-
-    print(f"Writing Markdown to {web_root}/db-*.md", end='', flush=True)
+    print(f"Writing Markdown to {web_root}/t-*.md", end='', flush=True)
     for i in range(1, len(interviews)+1):
         print(".", end='', flush=True)
-        with open(f"{web_root}/db-{i}.md", 'w', encoding='utf-8', errors='ignore') as f:
+        with open(f"{web_root}/t-{i}.md", 'w', encoding='utf-8', errors='ignore') as f:
             # print(f"Writing Markdown to {f.name}")
             interview = interviews[str(i)]
             f.write(f"# Interview #{interview.id}" + (f": {interview.title}" if interview.title else "") + "\n\n")
+            f.write(f"## Summary\n\n")
             if interview.date:
                 f.write(f"- Date: {datetime.strftime(interview.date, '%Y-%m-%f')}\n\n")
             if interview.entryType:
@@ -385,9 +404,9 @@ def main():
             if interview.reporter:
                 f.write(f"- Reporter: {interview.reporter}\n\n")
             if interview.links and len(interview.links) > 0:
-                f.write("- Links\n\n")
+                f.write(f"### Links\n\n")
                 for link in interview.links:
-                    f.write(f"-- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
+                    f.write(f"- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
                 f.write("\n")
             entry_i = 0
             for entry in interview.entries:
@@ -398,7 +417,7 @@ def main():
     print("")
 
     with open(f"{web_root}/index.md", 'w', encoding='utf-8', errors='ignore') as f:
-        print(f"Writing id-to-description mediawiki template switch code to {f.name}")
+        print(f"Writing interview index file to {f.name}")
         f.write("# [Theoryland Interview Database](https://www.theoryland.com/listintv.php)\n\n")
         f.write("## Downloads\n\n")
         f.write(f"* Full archive [JSON](./{basename}.json)\n\n")
