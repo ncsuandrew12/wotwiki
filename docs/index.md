@@ -6,7 +6,7 @@ Unless otherwise noted, all code and content are under the [MIT license](LICENSE
 
 ## Contributing
 
-If you have suggestions for improvements, please start a discussion on [the github repo](https://source.wot.wiki) or [the Discord](https://discord.wot.wiki)*". If you want to contribute code or content, create a [branch](https://github.com/ncsuandrew12/wotwiki/branches) for it and open a [pull request](https://github.com/ncsuandrew12/wotwiki/pulls).
+If you have suggestions for improvements, please start a discussion on [the github repo](https://source.wot.wiki) or [the Discord](https://discord.wot.wiki). If you want to contribute code or content, create a [branch](https://github.com/ncsuandrew12/wotwiki/branches) for it and open a [pull request](https://github.com/ncsuandrew12/wotwiki/pulls).
 
 # Projects
 
