@@ -78,14 +78,14 @@ def process_raw_html(file):
     interview_id = int(match.group(1))
     result.id = interview_id
 
-    # with open(file, 'r', encoding='utf-8', errors='ignore') as f:
+    # with open(file, 'r', encoding='utf-8') as f:
     #     html_content = f.read()
     # soup = BeautifulSoup(html_content, 'html.parser')
 
-    # with open("./norm_html/" + os.path.basename(file), 'w', encoding='utf-8', errors='ignore') as f:
+    # with open("./norm_html/" + os.path.basename(file), 'w', encoding='utf-8') as f:
     #     f.write(soup.prettify())
 
-    with open("./norm_html/" + os.path.basename(file), 'r', encoding='utf-8', errors='ignore') as f:
+    with open("./norm_html/" + os.path.basename(file), 'r', encoding='utf-8') as f:
         html_content = f.read()
     soup = BeautifulSoup(html_content, 'html.parser')
 
@@ -372,23 +372,23 @@ def main():
             print(".", end='', flush=True)
     print("")
 
-    with open(f"{web_root}/{basename}.json", 'w', encoding='utf-8', errors='ignore') as f:
+    with open(f"{web_root}/{basename}.json", 'w', encoding='utf-8') as f:
         print(f"Writing JSON to {f.name}")
         f.write(json.dumps(interviews, cls=JsonEncoder, indent=2))
 
     # TODO Use beautifulsoup to convert our objects to HTML and compare against the (normalized) original HTML
     # as a verification of proper parsing.
 
-    # with open('./processed/db.json', 'r', encoding='utf-8', errors='ignore') as f:
+    # with open('./processed/db.json', 'r', encoding='utf-8') as f:
     #     print(f"Reading JSON from {f.name}")
     #     interviews = json.load(f)
 
-    with open(f"{web_root}/theoryland interview database.md", 'w', encoding='utf-8', errors='ignore') as m:
+    with open(f"{web_root}/theoryland interview database.md", 'w', encoding='utf-8') as m:
         print(f"Writing Markdown to {m.name} and {web_root}/t-*.md", end='', flush=True)
         for i in range(1, len(interviews)+1):
             if i % 5 == 0:
                 print(".", end='', flush=True)
-            with open(f"{web_root}/t-{i}.md", 'w', encoding='utf-8', errors='ignore') as p:
+            with open(f"{web_root}/t-{i}.md", 'w', encoding='utf-8') as p:
                 # print(f"Writing Markdown to {f.name}")
                 interview = interviews[str(i)]
                 for f in [[m, "#"], [p, ""]]:
@@ -418,14 +418,19 @@ def main():
                 entry_i = 0
                 for entry in interview.entries:
                     entry_i += 1
+                    ep = Path(f"{web_root}/t-{i}/{entry_i}.md")
+                    os.makedirs(ep.parent, exist_ok=True)
+                    with open(ep, 'w', encoding='utf-8') as e:
+                        e.write(f"# [Interview #{interview.id}, Entry #{entry_i}]" + (f": {interview.title}" if interview.title else "") + f"](https://www.theoryland.com/intvmain.php?i={i}#{entry_i})\n\n")
+                        e.write(entry.content + "\n\n")
                     for f in [m, p]:
-                        f.write(f"## [Entry #{entry_i}](https://www.theoryland.com/intvmain.php?i={i}#{entry_i})\n\n")
+                        f.write(f"## [Entry #{entry_i}](./t-{i}/{entry_i})\n\n")
                         f.write(entry.content + "\n\n")
                 for f in [m, p]:
                     f.write("\n---\n\n")
         print("")
 
-    with open(f"{web_root}/index.md", 'w', encoding='utf-8', errors='ignore') as f:
+    with open(f"{web_root}/index.md", 'w', encoding='utf-8') as f:
         print(f"Writing interview index file to {f.name}")
         f.write("# [Theoryland Interview Database](https://www.theoryland.com/listintv.php)\n\n")
         f.write("## Downloads\n\n")
@@ -436,7 +441,7 @@ def main():
             f.write(f"- [Interview #{i}" + (f": {interviews[str(i)].title}" if interviews[str(i)].title else "") + f"](./t-{i})" + "\n")
 
     os.makedirs("./processed", exist_ok=True)
-    with open('./processed/mediawiki-template-tidb-switch.template', 'w', encoding='utf-8', errors='ignore') as f:
+    with open('./processed/mediawiki-template-tidb-switch.template', 'w', encoding='utf-8') as f:
         print(f"Writing id-to-description mediawiki template switch code to {f.name}")
         f.write('<includeonly>{{TLlink|https://www.theoryland.com/intvmain.php?i&equals;{{{1}}}{{#if:{{{2|}}}|&#35;{{{2}}}}}|{{#if:{{{3|}}}|{{{3}}}|{{#switch:{{{1|}}}\n')
         ids = []
