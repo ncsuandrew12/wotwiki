@@ -362,14 +362,14 @@ def main():
         print(f"No HTML files found in {html_dir}")
         return
     
-    print(f"Processing {len(html_files)} HTML files...", end='', flush=True)
-    
+    print(f"Processing {len(html_files)} HTML files", end='', flush=True)
     interviews = {}
     for f in html_files:
         # Find h3 elements with listintv.php links
         interview = process_raw_html(f)
         interviews[str(interview.id)] = interview
-        print(".", end='', flush=True)
+        if len(interviews) % 5 == 0:
+            print(".", end='', flush=True)
     print("")
 
     with open(f"{web_root}/{basename}.json", 'w', encoding='utf-8', errors='ignore') as f:
@@ -383,38 +383,47 @@ def main():
     #     print(f"Reading JSON from {f.name}")
     #     interviews = json.load(f)
 
-    print(f"Writing Markdown to {web_root}/t-*.md", end='', flush=True)
-    for i in range(1, len(interviews)+1):
-        print(".", end='', flush=True)
-        with open(f"{web_root}/t-{i}.md", 'w', encoding='utf-8', errors='ignore') as f:
-            # print(f"Writing Markdown to {f.name}")
-            interview = interviews[str(i)]
-            f.write(f"# Interview #{interview.id}" + (f": {interview.title}" if interview.title else "") + "\n\n")
-            f.write(f"## Summary\n\n")
-            if interview.date:
-                f.write(f"- Date: {datetime.strftime(interview.date, '%Y-%m-%f')}\n\n")
-            if interview.entryType:
-                f.write(f"- Type: {interview.entryType}\n\n")
-            if interview.location:
-                f.write(f"- Location: {interview.location}\n\n")
-            if interview.bookStore:
-                f.write(f"- Bookstore: {interview.bookStore}\n\n")
-            if interview.tourCon:
-                f.write(f"- Tour/Con: {interview.tourCon}\n\n")
-            if interview.reporter:
-                f.write(f"- Reporter: {interview.reporter}\n\n")
-            if interview.links and len(interview.links) > 0:
-                f.write(f"### Links\n\n")
-                for link in interview.links:
-                    f.write(f"- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
-                f.write("\n")
-            entry_i = 0
-            for entry in interview.entries:
-                entry_i += 1
-                f.write(f"## Entry #{entry_i}\n\n")
-                f.write(entry.content + "\n\n")
-            f.write("\n---\n\n")
-    print("")
+    with open(f"{web_root}/theoryland interview database.md", 'w', encoding='utf-8', errors='ignore') as m:
+        print(f"Writing Markdown to {m.name} and {web_root}/t-*.md", end='', flush=True)
+        for i in range(1, len(interviews)+1):
+            if i % 5 == 0:
+                print(".", end='', flush=True)
+            with open(f"{web_root}/t-{i}.md", 'w', encoding='utf-8', errors='ignore') as p:
+                # print(f"Writing Markdown to {f.name}")
+                interview = interviews[str(i)]
+                for f in [[m, "#"], [p, ""]]:
+                    f[0].write(f"{f[1]}# [Interview #{interview.id}" + (f": {interview.title}" if interview.title else "") + f"](https://www.theoryland.com/intvmain.php?i={i})\n\n")
+                    f[0].write(f"{f[1]}## Summary\n\n")
+                for f in [m, p]:
+                    if interview.date:
+                        f.write(f"- Date: {datetime.strftime(interview.date, '%Y-%m-%d')}\n\n")
+                    if interview.entryType:
+                        f.write(f"- Type: {interview.entryType}\n\n")
+                    if interview.location:
+                        f.write(f"- Location: {interview.location}\n\n")
+                    if interview.bookStore:
+                        f.write(f"- Bookstore: {interview.bookStore}\n\n")
+                    if interview.tourCon:
+                        f.write(f"- Tour/Con: {interview.tourCon}\n\n")
+                    if interview.reporter:
+                        f.write(f"- Reporter: {interview.reporter}\n\n")
+                if interview.links and len(interview.links) > 0:
+                    p.write(f"### Links\n\n")
+                    m.write(f"- Links:")
+                    for link in interview.links:
+                        p.write(f"- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
+                        m.write(f" [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
+                    p.write("\n")
+                    m.write("\n\n")
+                entry_i = 0
+                for entry in interview.entries:
+                    entry_i += 1
+                    for f in [m, p]:
+                        f.write(f"## [Entry #{entry_i}](https://www.theoryland.com/intvmain.php?i={i}#{entry_i})\n\n")
+                        f.write(entry.content + "\n\n")
+                for f in [m, p]:
+                    f.write("\n---\n\n")
+        print("")
 
     with open(f"{web_root}/index.md", 'w', encoding='utf-8', errors='ignore') as f:
         print(f"Writing interview index file to {f.name}")
