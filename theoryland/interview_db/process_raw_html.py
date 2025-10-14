@@ -421,7 +421,7 @@ def main():
                     ep = Path(f"{web_root}/t-{i}/{entry_i}.md")
                     os.makedirs(ep.parent, exist_ok=True)
                     with open(ep, 'w', encoding='utf-8') as e:
-                        e.write(f"# [Interview #{interview.id}, Entry #{entry_i}]" + (f": {interview.title}" if interview.title else "") + f"](https://www.theoryland.com/intvmain.php?i={i}#{entry_i})\n\n")
+                        e.write(f"# [Interview #{interview.id}" + (f": {interview.title}" if interview.title else "") + f", Entry #{entry_i}](https://www.theoryland.com/intvmain.php?i={i}#{entry_i})\n\n")
                         e.write(entry.content + "\n\n")
                     for f in [m, p]:
                         f.write(f"## [Entry #{entry_i}](./t-{i}/{entry_i})\n\n")
