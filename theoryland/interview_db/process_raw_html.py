@@ -433,7 +433,7 @@ def main():
         f.write(f"* Full archive [Markdown](./{basename}.md)\n\n")
         f.write("## Interviews\n\n")
         for i in range(1, len(interviews)+1):
-            f.write(f"- [Interview #{i} - " + (f": {interviews[str(i)].title}" if interviews[str(i)].title else "") + f"](./db-{i})" + "\n")
+            f.write(f"- [Interview #{i}" + (f": {interviews[str(i)].title}" if interviews[str(i)].title else "") + f"](./t-{i})" + "\n")
 
     os.makedirs("./processed", exist_ok=True)
     with open('./processed/mediawiki-template-tidb-switch.template', 'w', encoding='utf-8', errors='ignore') as f:
