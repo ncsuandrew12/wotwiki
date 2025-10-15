@@ -1,3 +1,8 @@
+#!/bin/bash
+# Copyright 2025 ncsuandrew12
+# Modifications Copyright to their individual contributors
+# Licensed under the MIT License
+# SPDX-License-Identifier: MIT
 set -ex
 
 # 1184 was the highest ID number at the time this script was created.

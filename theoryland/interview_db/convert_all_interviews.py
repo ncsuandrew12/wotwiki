@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Copyright 2025 ncsuandrew12
+# Modifications Copyright to their individual contributors
+# Licensed under the Open Software License version 3.0
+# SPDX-License-Identifier: OSL-3.0
 """
 Theoryland Interview Database Processor
 
@@ -15,7 +19,7 @@ Dependencies:
     - markdownify: For converting HTML content to Markdown
 
 Author: ncsuandrew12
-License: MIT License
+License: OSSL-3.0
 """
 
 import argparse
