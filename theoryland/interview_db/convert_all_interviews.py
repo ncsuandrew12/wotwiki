@@ -1,4 +1,22 @@
 #!/usr/bin/env python3
+"""
+Theoryland Interview Database Processor
+
+This script processes HTML files from the Theoryland Interview Database and converts
+them into structured JSON and Markdown formats.
+
+The script performs three main operations:
+1. Normalizes raw HTML files for consistent formatting
+2. Parses the normalized HTML to extract structured interview data
+3. Generates JSON and Markdown output files
+
+Dependencies:
+    - beautifulsoup4: For HTML parsing and normalization
+    - markdownify: For converting HTML content to Markdown
+
+Author: ncsuandrew12
+License: MIT License
+"""
 
 import argparse
 import json
@@ -12,27 +30,71 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from markdownify import markdownify as md
 
-logger = logging.getLogger(__name__)
-logging.basicConfig(filename=__name__ + '.log', level=logging.INFO)
+logger = logging.getLogger("tidbp")
+logging.basicConfig(filename='tidbp.log', level=logging.INFO)
 logger.addHandler(logging.StreamHandler(sys.stdout))
 
 class SummaryField:
+    """
+    Represents a metadata field from an interview summary section.
+    
+    This class defines the structure and properties of fields that can appear
+    in an interview's summary metadata.
+    
+    Attributes:
+        required (bool): Whether this field is required to be present
+        name (str): The field name as it appears in the HTML
+        pyName (str): The Python property name (defaults to name if not specified)
+        content: The extracted content of the field
+        plainString (bool): Whether the field should be treated as plain text
+    """
     required = None
     name = None
     pyName = None
     content = None
     plainString = None
+
     def __init__(self, name=None, pyName=None, required=True, plainString=False):
+        """
+        Initialize a SummaryField instance.
+        
+        Args:
+            name (str, optional): The field name as it appears in HTML
+            pyName (str, optional): The Python property name (defaults to name)
+            required (bool): Whether this field is required (default: True)
+            plainString (bool): Whether to treat as plain text (default: False)
+        """
         self.required = required
         self.name = name
         self.pyName = pyName if pyName is not None else name
         self.plainString = plainString
+
     def __str__(self):
         return f"SummaryField: {self.toJSON()}"
+
     def toJSON(self):
         return json.dumps(self.__dict__, cls=JsonEncoder)
 
 class Interview:
+    """
+    Represents a complete interview from the Theoryland Database.
+    
+    This class contains all the structured data for a single interview,
+    including metadata and a list of interview entries.
+    
+    Attributes:
+        id (int): Unique identifier for the interview
+        title (str): Interview title
+        entries (list[InterviewEntry]): List of Q&A entries in the interview
+        entryCount (int): Number of entries in the interview
+        date (datetime): Date of the interview
+        entryType (str): Type of interview (e.g., "Book Signing", "Chat")
+        location (str): Where the interview took place
+        bookStore (str): Bookstore name if applicable
+        tourCon (str): Tour or convention name if applicable
+        reporter (str): Name of the person who conducted/reported the interview
+        links (list): Related links for the interview
+    """
     id = None
     title = None
     entries = None
@@ -44,21 +106,51 @@ class Interview:
     tourCon = None
     reporter = None
     links = None
+    
     def __str__(self):
         return f"Interview: {self.toJSON()}"
+        
     def toJSON(self):
         return json.dumps(self.__dict__, cls=JsonEncoder)
 
 class InterviewEntry:
+    """
+    Represents a single entry within an interview.
+    
+    Each entry typically contains content (the actual Q&A text converted
+    to Markdown) and optional tags for categorization.
+    
+    Attributes:
+        content (str): The entry content converted to Markdown format
+        tags (list[str]): List of tags associated with this entry
+    """
     content = None
     tags = []
+    
     def __str__(self):
         return f"InterviewEntry: {self.toJSON()}"
+        
     def toJSON(self):
         return json.dumps(self.__dict__, cls=JsonEncoder)
 
 class JsonEncoder(json.JSONEncoder):
+    """
+    Custom JSON encoder for serializing Interview-related objects.
+    
+    This encoder handles the conversion of custom classes (SummaryField,
+    Interview, InterviewEntry) and datetime objects to JSON-serializable
+    formats.
+    """
     def default(self, o):
+        """
+        Convert objects to JSON-serializable format.
+        
+        Args:
+            o: Object to be serialized
+            
+        Returns:
+            JSON-serializable representation of the object
+        """
         if isinstance(o, SummaryField) or isinstance(o, Interview) or isinstance(o, InterviewEntry):
             return o.__dict__
         if isinstance(o, datetime):
@@ -66,6 +158,20 @@ class JsonEncoder(json.JSONEncoder):
         return super().default(o)
 
 def main():
+    """
+    Main entry point for the HTML processing script.
+    
+    This function orchestrates the complete processing pipeline:
+    1. Parses command line arguments
+    2. Optionally normalizes raw HTML files
+    3. Processes normalized HTML files to extract structured data
+    4. Generates JSON output with all interview data
+    5. Optionally generates Markdown files for documentation
+    6. Optionally creates MediaWiki template for citations
+    
+    The function handles the workflow logic, determining what steps to execute
+    based on command line flags and the presence of existing files.
+    """
     parser = argparse.ArgumentParser(prog=__name__,
                                      description="Process raw HTML files from Theoryland Interview Database and translate them into more locally useful forms.")
     parser.add_argument('-r', '--raw-html-dir', type=str, help='Directory containing raw HTML files', default="./raw_html_downloads")
@@ -227,6 +333,21 @@ def main():
             logger.info(f"  Skipped {missing} entries with no title and no date")
 
 def normalize_raw_html(args, file):
+    """
+    Normalize a raw HTML file using BeautifulSoup's prettify function.
+    
+    This function takes a raw HTML file and creates a normalized version
+    with consistent formatting and structure. The normalized files are
+    easier to parse reliably in subsequent processing steps.
+    
+    Args:
+        args: Command line arguments object containing configuration
+        file (Path): Path to the raw HTML file to normalize
+        
+    Note:
+        The function writes the normalized HTML to the normalize_dir
+        specified in the arguments, maintaining the same filename.
+    """
     logger.debug(f"Normalizing raw HTML file {file}")
     # match = re.search(r'^(\d+)\.html{0,1}', os.path.basename(file))
     # if not match:
@@ -234,10 +355,38 @@ def normalize_raw_html(args, file):
     with open(file, 'r', encoding='utf-8') as f:
         html_content = f.read()
     soup = BeautifulSoup(html_content, 'html.parser')
-    with open(os.path.join(args.normalized_html_dir, os.path.basename(file)), 'w', encoding='utf-8') as f:
+    with open(os.path.join(args.normalize_dir, os.path.basename(file)), 'w', encoding='utf-8') as f:
         f.write(soup.prettify())
 
 def process_html(args, file):
+    """
+    Process a normalized HTML file and extract structured interview data.
+    
+    This is the core parsing function that extracts all interview information
+    from a normalized HTML file. It parses the specific HTML structure used
+    by the Theoryland Interview Database and creates Interview objects with
+    all metadata and entry content.
+    
+    The function expects a specific HTML structure:
+    - A main body column containing interview content
+    - An interview summary section with metadata fields
+    - An entry list section with individual Q&A entries
+    - Each entry contains an anchor, entry number, and entry data
+    
+    Args:
+        args: Command line arguments object containing configuration
+        file (Path): Path to the normalized HTML file to process
+        
+    Returns:
+        Interview: A fully populated Interview object with all extracted data
+        
+    Raises:
+        RuntimeError: If the HTML structure doesn't match expectations
+        
+    Note:
+        The function performs extensive validation of the HTML structure
+        and will raise detailed error messages if the format is unexpected.
+    """
     logger.debug(f"Processing HTML file {file}")
     match = re.search(r'^(.+)\.html{0,1}$', os.path.basename(file))
     if not match:
@@ -245,7 +394,7 @@ def process_html(args, file):
     result = Interview()
     interview_id = int(match.group(1))
     result.id = interview_id
-    with open("./norm_html/" + os.path.basename(file), 'r', encoding='utf-8') as f:
+    with open(os.path.join(args.normalize_dir, os.path.basename(file)), 'r', encoding='utf-8') as f:
         html_content = f.read()
     soup = BeautifulSoup(html_content, 'html.parser')
     main_columns = soup.find_all('div', class_='body-column-main')
@@ -271,6 +420,8 @@ def process_html(args, file):
     summary = list(summary)[0]
     logger.debug(f"Summary: {summary}")
     summary_ch = summary.children
+    
+    # Define the expected metadata fields and their properties
     field_list = [ SummaryField(name="entries", pyName="entryCount", required=True), SummaryField(name="date", required=False),
         SummaryField(name="type", pyName="entryType", required=False, plainString=True), SummaryField(name="location", required=False, plainString=True),
         SummaryField(name="bookstore", required=False, plainString=True), SummaryField(name="tourcon", required=False, plainString=True),
@@ -279,10 +430,12 @@ def process_html(args, file):
     for field in field_list:
         field_set[field.name] = field
     fields = {}
-    mode = None
-    mode_h4 = None
-    field_key = None
-    extra_paragraphs = []
+    mode = None  # Current parsing mode (field name)
+    mode_h4 = None  # The h4 element that started current mode
+    field_key = None  # Current field key being processed
+    extra_paragraphs = []  # Collect extra paragraphs for processing
+    
+    # Parse summary section children to extract metadata fields
     for child in summary_ch:
         logger.debug(f"Summary child: {child}")
         if child.name == 'h4':
