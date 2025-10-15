@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Script to extract h3 elements containing links to listintv.php from HTML files
-in the theoryland interview database raw html directory.
-"""
 
 import argparse
 import json
@@ -76,7 +72,7 @@ def main():
     parser.add_argument('-o', '--output-dir', type=str, help='Directory to save processed output files', default="../../docs/theoryland/interviews")
     parser.add_argument('-n', '--normalize', action='store_true', help='Normalize raw HTML files even if normalized files are present')
     parser.add_argument('-z', '--normalize-dir', type=str, help='Directory containing normalized HTML files', default="./norm_html")
-    parser.add_argument('-j', '--load-json', action='store_true', help='Load from existing JSON file instead of loading from normalized HTML files. Skips processing of raw and normalized HTML files')
+    parser.add_argument('-j', '--load-json', action='store_true', help='(Not yet working) Load from existing JSON file instead of loading from normalized HTML files. Skips processing of raw and normalized HTML files')
     parser.add_argument('-k', '--skip-markdown', action='store_true', help='Skip generating Markdown files from the processed interviews')
     parser.add_argument('-t', '--mw-template-path', type=str, help='Path to the Mediawiki template for converting from id to citation description', default="./processed/mediawiki-template-tidb-switch.template")
     parser.add_argument('-l', '--log-level', type=int, help='Set the logging level')
@@ -197,6 +193,8 @@ def main():
         with open(f"{args.output_dir}/index.md", 'w', encoding='utf-8') as f:
             logger.info(f"Writing interview index file to {f.name}")
             f.write("# [Theoryland Interview Database](https://www.theoryland.com/listintv.php)\n\n")
+            f.write("This copy of the [Theoryland Interview Database](https://www.theoryland.com/listintv.php) is better suited for simple text searches and machine processing than the original. The original is more convenient for simple searches and has a bit of a prettier look.\n\n")
+            f.write("All copyrights and licenses for the interviews belong to Theoryland or their original authors. We are not affiliated with Theoryland in any way.\n\n")
             f.write("## Downloads\n\n")
             f.write(f"* Full archive [JSON](./{basename}.json)\n\n")
             f.write(f"* Full archive [Markdown](./{basename}.md)\n\n")
