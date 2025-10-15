@@ -30,8 +30,8 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from markdownify import markdownify as md
 
-logger = logging.getLogger("tidbp")
-logging.basicConfig(filename='tidbp.log', level=logging.INFO)
+logger = logging.getLogger("tidbc")
+logging.basicConfig(filename='tidbc.log', level=logging.INFO)
 logger.addHandler(logging.StreamHandler(sys.stdout))
 
 class SummaryField:
