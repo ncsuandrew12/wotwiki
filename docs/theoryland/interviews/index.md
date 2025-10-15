@@ -1,5 +1,9 @@
 # [Theoryland Interview Database](https://www.theoryland.com/listintv.php)
 
+This copy of the [Theoryland Interview Database](https://www.theoryland.com/listintv.php) is better suited for simple text searches and machine processing than the original. The original is more convenient for simple searches and has a bit of a prettier look.
+
+All copyrights and licenses for the interviews belong to Theoryland or their original authors. We are not affiliated with Theoryland in any way.
+
 ## Downloads
 
 * Full archive [JSON](./theoryland interview database.json)
