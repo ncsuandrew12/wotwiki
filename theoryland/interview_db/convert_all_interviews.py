@@ -178,10 +178,10 @@ def main():
     """
     parser = argparse.ArgumentParser(prog=__name__,
                                      description="Process raw HTML files from Theoryland Interview Database and translate them into more locally useful forms.")
-    parser.add_argument('-r', '--raw-html-dir', type=str, help='Directory containing raw HTML files', default="./raw_html_downloads")
+    parser.add_argument('-r', '--raw-html-dir', type=str, help='Directory containing raw HTML files')
     parser.add_argument('-o', '--output-dir', type=str, help='Directory to save processed output files', default="../../docs/theoryland/interviews")
     parser.add_argument('-n', '--normalize', action='store_true', help='Normalize raw HTML files even if normalized files are present')
-    parser.add_argument('-z', '--normalize-dir', type=str, help='Directory containing normalized HTML files', default="./norm_html")
+    parser.add_argument('-z', '--normalize-dir', type=str, help='Directory containing normalized HTML files')
     parser.add_argument('-j', '--load-json', action='store_true', help='(Not yet working) Load from existing JSON file instead of loading from normalized HTML files. Skips processing of raw and normalized HTML files')
     parser.add_argument('-k', '--skip-markdown', action='store_true', help='Skip generating Markdown files from the processed interviews')
     parser.add_argument('-t', '--mw-template-path', type=str, help='Path to the Mediawiki template for converting from id to citation description', default="./processed/mediawiki-template-tidb-switch.template")
