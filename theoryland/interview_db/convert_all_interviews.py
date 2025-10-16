@@ -129,7 +129,7 @@ class InterviewEntry:
         tags (list[str]): List of tags associated with this entry
     """
     content = None
-    tags = []
+    # tags = []
     
     def __str__(self):
         return f"InterviewEntry: {self.toJSON()}"
@@ -638,7 +638,7 @@ def process_html(args, file):
                             for tag_button in tag_buttons:
                                 if 'class' not in tag_button.attrs or len(tag_button.attrs['class']) != 1 or tag_button.attrs['class'][0] != 'lk-search-tag':
                                     raise RuntimeError(f"Entry li.div<entry-data>.h4 Tags div.form contains non-lk-search-tag button in file {file}: {tag_button}")
-                                result.entries[len(result.entries)-1].tags.append(tag_button.text.strip())
+                                # result.entries[len(result.entries)-1].tags.append(tag_button.text.strip())
                 result.entries[len(result.entries)-1].content = md(str(entry_li_c))
             else:
                 raise RuntimeError(f"Entry li[2] with unexpected name {entry_li_c.name} found in file {file}: {entry_li}")
