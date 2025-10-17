@@ -201,7 +201,7 @@ def main():
         normalized_files = list(p.glob("*.html")) + list(p.glob("*.htm"))
         normalize = len(normalized_files) == 0
     if normalize:
-        logger.info("Checking for raw HTML files in directory:", html_dir)
+        logger.info(f"Checking for raw HTML files in directory: {html_dir}")
         if not html_dir.exists():
             raise FileNotFoundError(f"Directory not found: {html_dir}")
         logger.info(f"Globbing HTML files in {html_dir}")
@@ -357,7 +357,7 @@ def normalize_raw_html(args, file):
     # if not match:
     #     raise RuntimeError(f"Filename does not match expected pattern: {file}")
     with open(file, 'r', encoding='utf-8') as f:
-        html_content = f.read()
+        html_content = f.read().replace('&#8232;', '')
     soup = BeautifulSoup(html_content, 'html.parser')
     with open(os.path.join(args.normalize_dir, os.path.basename(file)), 'w', encoding='utf-8') as f:
         f.write(soup.prettify())
