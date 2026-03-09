@@ -1,0 +1,1417 @@
+{| class="wikitable sortable" 
+|+
+! data-sort-type="text" |Name
+! data-sort-type="text" |WoT-centric
+! data-sort-type="text" |Pro/Anti Show
+! data-sort-type="text" |Site
+! data-sort-type="text" |Site Type
+! data-sort-type="text" |Audience
+! class="unsortable" |Notes
+|-
+| rowspan=3 | Narg the Trolloc
+| rowspan=3 | Yes
+| rowspan=3 |
+|{{Link|url=https://reddit.com/r/TheDailyTrolloc|text=r/TheDailyTrolloc}}
+| Reddit
+| {{RoughPop|4000}}
+| Generally permissive moderation. Best subreddit for open discussions.
+|-
+|{{Link|url=https://www.instagram.com/wheeloftimelove/|text=Wheel of Time Love}}
+|Instagram
+|{{RoughPop|1300}}
+|Fanart, fan fiction, TV show news, etc.
+|-
+|{{Link|url=https://narg.substack.com/|text=''Lost in Narg's Mind''}}
+|Substack
+|{{RoughPop|30}}
+|
+*News, guides, treatises, etc.
+*Excellent beginner's guide: https://narg.substack.com/p/beginners-resource-guide-to-the-wheel
+*Excellent compilation of various statements on [[Mat Cauthon]]'s relationship with [[Tylin Quintara Mitsobar]], as well as some very insightful original content: https://narg.substack.com/p/mat-and-tylin-cancelled
+*Various other sites/locations have existed but have had varying degrees of success remaining public/established.
+|-
+| rowspan=3 | The Band of the Red Hand
+| rowspan=3 | Yes
+| rowspan=3 | Anti
+|{{Link|url=https://redhand.band|text=The Band of the Red Hand}}
+|Website
+|
+|
+|-
+|{{Link|url=https://www.youtube.com/@Whitecloaks|text=Whitecloaks}}
+|YouTube
+|{{RoughPop|1000}}
+|
+|-
+|{{Link|url=https://discord.redhand.band|text=The Band of the Red Hand}}
+|Discord
+|{{RoughPop|900}}
+|
+*Most public channels prohibit spoilers. Spoiler channels are denoted with a ✅
+*Each book has a dedicated channel where later spoilers are hidden.
+*Fully boosted as of 2024-07-22.
+*Not affiliated with the BOTRH Facebook group.
+*Spinoff of r/whitecloaks
+|-
+|Defenders of the Dragon
+|Yes
+|Anti
+|{{Link|url=https://www.facebook.com/groups/2058731034282563|text=Defenders of the Dragon}}
+|Facebook group
+|{{RoughPop|3000}}
+|Discussion/meme group
+|-
+| rowspan=2 |Wetlander Humor
+| rowspan=2 |Yes
+| rowspan=2 |
+|{{Link|url=https://reddit.com/r/wetlanderhumor|text=r/WetlanderHumor}}
+|Reddit
+|{{RoughPop|58000}}
+|
+*Largest WoT humor subreddit.
+*Mostly permissive moderation, except that posts must be memes and text posts are not allowed.
+|-
+|{{Link|url=https://discord.gg/TMaqvrx4SM|text=Wetlander Humor}}
+|Discord
+|{{RoughPop|300}}
+|
+*Very inactive.
+*Established during a Reddit "blackout."
+|-
+| 13th Depository
+| Yes
+|
+|{{Link|url=http://13depository.blogspot.com/|text=13th Depository}}
+| Website
+|
+|
+|-
+| rowspan=2 | 17th Shard
+| rowspan=2 | No
+| rowspan=2 |
+|{{Link|url=https://www.17thshard.com/|text=17th Shard}}
+| Website
+| 
+|
+*[[Brandon Sanderson]] fan site
+*Dedicated WoT channel with no untagged spoilers allowed.
+|-
+|{{Link|url=https://discord.com/invite/dpRsH56d|text=17th Shard}}
+| Discord
+| {{RoughPop|22000}}
+| Strict spoiler controls. Contains a WoT-specific channel where all plot spoilers must be tagged.
+|-
+| rowspan=3 | Aether Games
+| rowspan=3 | No
+| rowspan=3 | Pro
+|{{Link |url=https://aethergames.io/ |text=aethergames.io}}
+|Website
+|
+|
+|-
+|{{Link |url=https://store.steampowered.com/publisher/AetherStudios |text=Steam Page}}
+|Steam
+|
+|Studio "formerly" developing ''[[Heroes and Forsaken]]''
+|-
+|{{Link |url=https://discord.gg/tak9RR8RCU |text=Aether Games}}
+|Discord
+|{{RoughPop|46000}}
+|
+|-
+|''A Statistical Analysis of Robert Jordan’s The Wheel of Time''
+|Yes
+|
+|{{Link|url=https://www.barnesandnoble.com/blog/commentary/statistical-analysis-wheel-time/|text=Statistical Analysis of WoT}}
+|Website
+|
+|
+|-
+| Aiel Humor
+|Yes
+|
+|{{Subreddit|AielHumor}}
+|Reddit
+|{{RoughPop|70}}
+|
+|-
+| Amazon.com
+|No
+|Pro
+|{{Link|url=https://www.youtube.com/@PrimeVideo|text=Prime Video}}
+|YouTube
+|{{RoughPop|4000000}}
+|
+|-
+|Atlas of Ice and Fire
+|No
+|
+|{{Link|url=https://atlasoficeandfireblog.wordpress.com/category/the-wheel-of-time-atlas/|text=Atlas of Ice and Fire - The Wheel of Time Atlas}}
+|Website
+|
+|
+|-
+| rowspan=2 |Brandon Sanderson
+| rowspan=2 |No
+| rowspan=2 |
+|{{Link|url=https://www.dragonsteelbooks.com/|text=Dragonsteel Books}}
+|Website
+|
+|
+|-
+|{{Link|url=https://www.youtube.com/@BrandSanderson|text=Brandon Sanderson}}
+|YouTube
+|{{RoughPop|500000}}
+|
+|-
+|Band of the Red Hand
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/thebandoftheredhand|text=Band of the Red Hand}}
+|Facebook group
+|{{RoughPop|2000}}
+|Discussion group. Not affiliated with the BOTRH Discord. Committed to allowing both pro- and anti-show discussion, but membership trends slightly anti-show.
+|-
+|Brown Ajah Subreddit
+|Yes
+|
+|{{Subreddit|BrownAjah}}
+|Reddit
+|{{RoughPop|200}}
+|
+*Knowledge-oriented. Book-centric; the TV show is ignored.
+*Focused on providing answers to queries and extrapolating information in the books.
+|-
+|BrownAjahahahaha Subreddit
+|Yes
+|N/A
+|{{Subreddit|BrownAjahahahaha}}
+|Reddit
+|{{RoughPop|100}}
+|
+*Meme sub
+*Books only
+|-
+| c/WoT
+| Yes
+|
+|{{Link|url=https://lemmy.world/c/wot|text=c/wot}}
+| Lemmy
+| 
+| 
+|-
+| Chase Conley
+| No
+|
+|{{Link|url=https://www.deviantart.com/chaseconley/gallery?q=wot|text=Chase Conley}}
+| DeviantArt
+| {{RoughPop|18400}}
+| 
+|-
+| Daniel Greene
+|No
+|
+|{{Link|url=https://www.youtube.com/@DanielGreeneReviews|text=Daniel Greene}}
+|YouTube
+|{{RoughPop|500000}}
+|
+|-
+| rowspan=6 | Dragonmount
+| rowspan=6 | Yes
+| rowspan=6 |
+|{{Link|url=https://dragonmount.com|text=Dragonmount.com}}
+|Website
+|
+|One of the oldest and largest WoT fan sites. Hosts the archive of Robert Jordan's blog.
+|-
+|{{Link|url=https://discord.gg/pM3aw7CjX8|text=Dragonmount}}
+|Discord
+|{{RoughPop|600}}
+|Pretty inactive.
+|-
+|{{Link|url=https://www.facebook.com/dragonmount|text=Dragonmount}}
+|Facebook
+|{{RoughPop|22000}}
+|
+|-
+|{{Link|url=https://www.youtube.com/@DragonmountCom|text=Dragonmount}}
+|YouTube
+|{{RoughPop|6580}}
+|
+|-
+|{{Link|url=https://www.instagram.com/Dragonmount_|text=Dragonmount}}
+|Instagram
+|{{RoughPop|11700}}
+|
+|-
+|{{Link|url=https://dragonmount.com/Books/Strike_at_Shayol_Ghul|text=Strike at Shayol Ghul}}
+|Literature
+|
+|1997 in-universe historical fragment. Authored by [[Robert Jordan]]
+|-
+|Encyclopaedia WoT
+|Yes
+|
+|{{Link|url=https://www.encyclopaedia-wot.org/|text=Encyclopaedia WoT}}
+|Website
+|
+|Major WoT reference tool. 
+|-
+|Fans of the Wheel of Time on Amazon Prime
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/groups/fansofwottvseries/|text=Fans of the Wheel of Time on Amazon Prime}}
+|Facebook group/page
+|{{RoughPop|19000}}
+|
+|-
+| Fox and Raven Media
+| No
+| Pro
+|{{Link |url=https://www.foxandravenmedia.com/ |text=Fox and Raven Media}}
+|Website
+|
+| Indie podcast network
+|-
+| rowspan=2 | The Flickerverse
+| rowspan=2 | Yes
+| rowspan=2 | Pro
+|{{Link|url=https://www.youtube.com/@TheFlickerverse|text=The Flickerverse}}
+|Youtube
+|{{RoughPop|200}}
+|
+|-
+|{{Link|url=https://discord.gg/r2NbeBcjZf|text=The Flickerverse}}
+|Discord
+|{{RoughPop|85}}
+|
+|-
+| rowspan=4 | Heroes and Forsaken
+| rowspan=4 | Yes
+| rowspan=4 | Pro
+|{{Link|url=https://heroesandforsaken.com/ |text=heroesandforsaken.com}}
+|Website
+|
+|Official website of ''[[Heroes and Forsaken]]''
+|-
+|{{Link |url=https://www.youtube.com/@HeroesandForsaken |text=Heroes and Forsaken: The Wheel of Time Card Game}}
+|Youtube
+|{{RoughPop|29}}
+|
+|-
+|{{Link |url=https://www.facebook.com/profile.php?id=61579190438737 |text=Heroes and Forsaken}}
+|Facebook
+|{{RoughPop|10}}
+|
+|-
+|{{Link |url=https://instagram.com/heroesandforsaken |text=Heroes and Forsaken}}
+|Instagram
+|
+|
+|-
+| rowspan=2 | Hillbilly Memes of Nerdy Extremes
+| rowspan=2 | No
+| rowspan=2 | Anti
+|{{Link|url=http://hillbillynerd.fun|text=Hillbilly Memes of Nerdy Extremes}}
+|Blog
+|
+|Memes. Not WoT-centric, but a high percentage of content is WoT-related
+|-
+|{{Link|url=http://facebook.hillbillynerd.fun|text=Hillbilly Memes of Nerdy Extremes}}
+|Facebook page
+|{{RoughPop|15}}
+|Memes. Not WoT-centric, but a high percentage of content is WoT-related
+|-
+| It's Always Sunny in Randland
+|Yes
+|Anti
+|{{Subreddit|IASIRandland}}
+|Reddit
+|{{RoughPop|324}}
+|Gifs of ''{{Link|[[w:c:itsalwayssunny|It's Always Sunny in Philadelphia]]}}'' overlaid with WoT-related dialogue
+|-
+| Jeremy Saliba
+| No
+|
+|{{Link|url=http://jeremysaliba.blogspot.com/search/label/Wheel%20of%20time|text=Jeremy Saliba}}
+| Website
+|
+| Artwork
+|-
+| rowspan=3 | JordanCon
+| rowspan=3 | Yes
+| rowspan=3 |
+|{{Link|url=https://www.jordancon.org/|text=JordanCon}}
+|Website
+|
+|Annual convention in Atlanta, Georgia.
+|-
+|{{Link|url=https://www.facebook.com/groups/5034437636/|text=JordanCon}}
+|Facebook group
+|{{RoughPop|4300}}
+|
+|-
+|{{Link|url=https://discord.gg/MU4kSTRupk|text=JordanCon}}
+|Discord
+|{{RoughPop|900}}
+|
+|-
+| Kinslayer MUD
+| Yes
+|
+|{{Link|url=https://www.kinslayermud.org/|text=Kinslayer MUD}}
+| MUD
+|
+| Roleplaying.
+|-
+|Leigh Butler's WoT Reread
+|Yes
+|
+|{{Link|url=https://reactormag.com/columns/wot-reread/|text=WoT Reread}}
+|Website
+|
+|
+|-
+|Lia's WoT Liveblog
+|Yes
+|
+|{{Link|url=https://neuxue.tumblr.com/WoT-liveblog|text=Lia's WoT Liveblog}}
+|Website
+|
+|
+|-
+|Lord Inquisitor Dunn
+|Yes
+|Anti
+|{{Link|url=https://www.youtube.com/@lordinquisitordunn336|text=Lord Inquisitor Dunn}}
+|YouTube
+|{{RoughPop|400}}
+|
+|-
+|My First Walk Through The Wheel of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/myfirstwalkthroughthewheeloftime/|text=My First Walk Through The Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|1000}}
+|Discussion group oriented towards first-time readers.
+|-
+|Nae'Blis
+|Yes
+|
+|{{Link|url=https://www.youtube.com/@NaeBlis/|text=Nae'Blis}}
+|YouTube
+|{{RoughPop|39400}}
+|
+|-
+| Pillow Friends Subreddit
+|Yes 
+|Anti
+|{{Subreddit|PillowFriends}}
+|Reddit
+|
+|
+|-
+| Prophet of the Dragon
+|Yes 
+|Anti
+|{{Link|url=https://www.youtube.com/@ProphetOfTheDragon|text=Prophet of the Dragon}}
+|YouTube
+|{{RoughPop|3000}}
+|
+|-
+|Robert Jordan : The Wheel of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/2257338740/|text=Robert Jordan : The Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|1000}}
+|
+|-
+|Read and Find Out
+|
+|
+|{{Link|url=http://www.readandfindout.com/|text=Read and Find Out}}
+|Website
+|{{RoughPop|223}}
+|Closure of site announced in July of 2024. Still live as of 2024-07-30.
+|-
+| Seamas Gallagher
+| No
+|
+|{{Link|url=https://seamassketches.blogspot.com/search/label/wheel%20of%20time|text=Seamas Gallagher}}
+| Website
+|
+| Artwork
+|-
+| Shards of Callandor
+| Yes
+|
+|{{Link|url=https://discord.gg/Hzu6D3JqUv|text=Shards of Callandor}}
+| Discord
+|{{RoughPop|60}}
+| Linguistic nerds focusing on the Old Tongue.
+|-
+|Sylas K Barrett's Reading The Wheel of Time
+|
+|
+|{{Link|url=https://reactormag.com/columns/reading-the-wheel-of-time/|text=Reading The Wheel of Time}}
+| Website
+|
+|
+|-
+|Screw you all, I love Wheel of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/2204133522/|text=Screw you all, I love Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|11000}}
+|
+|-
+|Talk'aran'rhiod
+|Yes
+|
+|{{Link|url=https://podcasts.apple.com/us/podcast/talkaranrhiod-the-wheel-of-time-showcast/id1479634263|text=Talk'aran'rhiod}}
+|Podcast
+|
+|
+|-
+|The Black Tower Podcast
+|Yes
+|
+|{{Link|url=https://podcasts.apple.com/us/podcast/the-black-tower-podcast-a-wheel-of-time-podcast/id1439430286|text=The Black Tower}}
+|Podcast
+|
+|
+*Not affiliated with r/The_Black_Tower
+|-
+| rowspan=2 | The Black Tower
+| rowspan=2 | Yes
+| rowspan=2 | 
+|{{Link|url=https://Black-Tower.net|text=The Black Tower}}
+|Website
+|{{RoughPop|800}}
+|
+*Not affiliated with r/The_Black_Tower
+|-
+|{{Link|url=https://www.facebook.com/TheBlackTower/|text=The Black Tower}}
+|Facebook
+|{{RoughPop|800}}
+|
+*Not affiliated with r/The_Black_Tower
+|-
+| The Compendium of ''Wheel of Time'' Characters
+| Yes
+|
+|{{Link|url=https://hammondkd.github.io/WoT-compendium/|text=The Compendium of ''Wheel of Time'' Characters}}
+|Website
+|
+|
+*Compendium of information about all named characters in The Wheel of Time.
+*Seemingly not affiliated with "The Wheel of Time Compendium"
+|-
+|The Dragon Reread
+|Yes
+|
+|{{Link|url=https://podcasts.apple.com/us/podcast/the-dragon-reread/id1270976625|text=The Dragon Reread}}
+|Podcast
+|
+|
+|-
+| rowspan=2 | The Dusty Wheel
+| rowspan=2 | Yes
+| rowspan=2 | Pro
+|{{Link|url=https://www.youtube.com/@TheDustyWheel|text=The Dusty Wheel}}
+|YouTube
+|{{RoughPop|27000}}
+|
+|-
+|{{Link|url=https://www.facebook.com/TheDustyWheelShow|text=The Dusty Wheel: A Wheel of Time Talk Show}}
+|Facebook
+|{{RoughPop|6000}}
+|
+|-
+| The Great Blight
+| Yes
+| 
+|{{Link|url=https://www.thegreatblight.com/|text=The Great Blight}}
+|Website
+|
+|
+|-
+|The Knight's Watch
+|No
+|Anti
+|{{Link|url=https://www.youtube.com/channel/UCubCObW93mbrIFoxwNamFFw|text=The Knight's Watch}}
+|YouTube
+|{{RoughPop|160000}}
+|
+|-
+|The Nerdporeal Lifeform
+|No
+|Anti
+|{{Link|url=https://www.youtube.com/@Nerdporeal|text=The Nerdporeal Lifeform}}
+|YouTube
+|{{RoughPop|4000}}
+|
+|-
+|The Old Tongue Dictionary
+|No
+|
+|{{Link|url=https://www.angelfire.com/tx/jcs97b/otd.html|text=The Old Tongue Dictionary}}
+|Website
+|
+|Reference site.
+|-
+|The Questioners
+|Yes
+|Anti
+|{{Link|url=https://www.youtube.com/@thequestioners|text=The Questioners}}
+|YouTube
+|{{RoughPop|200}}
+|
+|-
+|r/WoT
+|Yes
+|Pro
+|{{Subreddit|wot}}
+|Reddit
+|{{RoughPop|136000}}
+|
+*Largest and most established WoT subreddit.
+*Discussion-oriented. Attempts to be for fans of both the books and the TV show, with extensive spoiler policies to match.
+*Harsh and capricious moderation.
+**Allows opinions across the spectrum with respect to the show, but will seemingly arbitrarily delete some anti-show comments and issue bans with no apparent rhyme or reason.
+**[https://reddit.com/r/WoT/comments/1hfhja7/january_6_is_a_day_that_will_be_remembered_in/ Example post] that resulted in a permaban for "harassment": ''(made in December of 2024)''<blockquote>January 6 is a day that will be remembered in infamy. I speak, of course, of the day in 2004 when USA Today reported Robert Jordan ominously telling them "I'm aware of Mr. Goodkind."</blockquote>
+|-
+| rowspan=2 |The Sea of Storms
+| rowspan=2 |Yes
+| rowspan=2 |
+|{{Link|url=http://www.tsosmud.org/|text=The Sea of Storms}}
+|MUD
+|
+|Relatively few online players at any given moment, but still live.
+|-
+|{{Link|url=http://www.tsosmud.org/wotcon.aspx|text=The Wheel of Time Concordance}}
+|website
+|
+|
+*A Guide to Geography, Culture and Other Setting Elements
+*Full guide is available as a {{Link |url=http://www.tsosmud.org/concordance.txt |text=concordance.txt}} file.
+|-
+|The Stedding
+|Yes
+|
+|{{Link|url=https://discord.gg/EgPWR7rRnE|text=The Stedding}}
+|Discord
+|{{RoughPop|700}}
+|
+*Formerly known as Randland
+*Entry last updated {{Date|February 13 2024}}
+|-
+| The Sword and the Pen Reflections
+|No
+| Anti
+|{{Link|url=https://www.youtube.com/@TheSwordAndThePenREFLECTIONS|text=The Sword and the Pen Reflections}}
+|YouTube
+|{{RoughPop|8000}}
+|
+|-
+|The Way of the Leaf
+|Yes
+|
+|{{Link|url=https://www.youtube.com/c/TheWayOfTheLeaf|text=The Way of the Leaf}}
+|YouTube
+|{{RoughPop|1380}}
+|
+|-
+|The Wert Zone
+|No
+|
+|{{Link|url=https://thewertzone.blogspot.com/search/label/a%20history%20of%20the%20wheel%20of%20time|text=The Wert Zone}}
+|Blog
+|
+|
+*Extensive general Sci-Fi and Fantasy blog.
+*Last WoT-centric post in 2018.
+|-
+|The Wheel of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/182242551878719/|text=The Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|14000}}
+|
+|-
+|The Wheel of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/844147967032151/|text=The Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|300}}
+|
+|-
+|The Wheel of Time
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/groups/415221187569368/|text=The Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|200}}
+|
+|-
+|The Wheel of Time
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/groups/958985661635223/|text=The Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|1000}}
+|Discussion/fanart group
+|-
+|The Wheel of Time
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/groups/tvtaleswot/|text=The Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|1000}}
+|
+|-
+|The Wheel of Time Booksworn
+|Yes
+|Anti
+|{{Link|url=https://www.facebook.com/groups/269677968623852/|text=The Wheel of Time Booksworn}}
+|Facebook group/page
+|{{RoughPop|30}}
+|
+|-
+|The Wheel of Time: Distant Shores
+|Yes
+|
+|{{Link|url=https://disboard.org/server/942180481494048838|text=The Wheel of Time: Distant Shores}}
+|Discord
+|
+|Roleplaying group
+|-
+|The Wheel of Time / Readers Only
+|Yes
+|Anti
+|{{Link|url=https://www.facebook.com/groups/431470642005050/|text=The Wheel of Time / Readers Only}}
+|Facebook group/page
+|{{RoughPop|100}} 
+|
+|-
+|The Wheel of Time Roleplay
+|Yes
+|
+|{{Link|url=https://disboard.org/server/792555080465252374|text=The Wheel of Time Roleplay}}
+|Discord
+|
+|Roleplaying group
+|-
+|The Wheel of Time Series By Robert Jordan
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/profile.php?id=100027190347238|text=The Wheel of Time Series By Robert Jordan}} 
+|Facebook group/page
+|{{RoughPop|1000}}
+|
+|-
+|The Wheel of Time Uncut
+|Yes
+|Anti
+|{{Link|url=https://www.facebook.com/groups/TheWheelOfTimeUncensored/|text=The Wheel of Time Uncut}}
+|Facebook group/page
+|{{RoughPop|7000}}
+|
+|-
+|The Wheel of Time Universe
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/groups/650340862595759/|text=The Wheel of Time Universe}}
+|Facebook group/page
+|{{RoughPop|14000}}
+|Discussion/meme group.
+|-
+|The Wheel Reads
+|Yes
+|
+|{{Link|url=https://podcasts.apple.com/us/podcast/the-wheel-reads-a-wheel-of-time-podcast/id1495812597|text=The Wheel Reads}}
+|Podcast
+|
+|
+|-
+|The Wheel Weaves
+|Yes
+|
+|{{Link|url=https://www.thewheelweavespodcast.com/|text=The Wheel Weaves Podcast}}
+|Podcast
+|
+|
+|-
+| rowspan=4 | Tar Valon
+| rowspan=4 | Yes
+| rowspan=4 | 
+|{{Link|url=https://www.tarvalon.net|text=TarValon.net}}
+| Website
+|
+| Has an extensive library of WoT content.
+|-
+|{{Link|url=https://discord.gg/48Jk8g9xEc|text=TarValon}}
+| Discord
+|{{RoughPop|400}}
+|
+|-
+|{{Link|url=https://www.tarvalon.net/index.php?pages/RJMS/|text=Robert Jordan Memorial Scholarship}}
+| Website
+| 
+| Annual $500 scholarship awarded to the winner of an essay contest.
+|-
+|{{Link|url=http://library.tarvalon.net/index.php?title=The_Strike_at_Shayol_Ghul|text=The Strike at Shayol Ghul}}
+| Literature
+|
+|1997 in-universe historical fragment. Authored by [[Robert Jordan]]
+|-
+|Theoryland
+|Yes
+|
+|{{Link|url=https://www.theoryland.com/listintv.php|text=Theoryland.com}}
+|Website
+|
+|Large reference website. Contains most interviews and Q&As with major WoT figures in searchable form.
+|-
+|Tor Books
+|No
+|
+|{{Link|url=https://torpublishinggroup.com/|text=Tor Publishing Group}}
+|Website
+|
+|
+|-
+|Turn The Wheel of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/TheWoT|text=Turn The Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|8000}}
+|
+|-
+| rowspan=2 |Unraveling the Pattern
+| rowspan=2 |Yes
+| rowspan=2 |Pro
+|{{Link|url=https://youtube.com/UnravelingThePattern|text=Unraveling the Pattern}}
+|YouTube
+|{{RoughPop|30000}}
+|
+|-
+|{{Link|url=https://www.facebook.com/UnraveledPattern|text=Unraveling the Pattern - Wheel of Time Deep Dive}}
+|Facebook
+|{{RoughPop|1000}}
+|
+|-
+|Weaves of the Wheel
+|Yes
+|
+|{{Link|url=https://disboard.org/server/337948217993854976|text=Weaves of the Wheel Community}}
+|Discord
+|{{RoughPop|200}}
+|Discussion/roleplaying group
+|-
+|Wheel of Games
+|Yes
+|
+|{{Link|url=https://discord.gg/TyexxST4KV|text=Wheel of Games}}
+|Discord
+|{{RoughPop|20}}
+|
+|-
+|Wheel of Time Subreddit
+|Yes
+|Pro
+|{{Subreddit|wheeloftime}}
+|Reddit
+|{{RoughPop|60000}}
+|
+*More rules with harsher enforcement than r/WoT.
+*Was moderated by u/Rand_Altreides, the chief instigator of drama in r/whitecloaks, who was later banned from Reddit entirely.
+|-
+|Wheel of Time
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/groups/wheeloftimeamazon/|text=Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|57000}}
+|
+|-
+|Wheel of Time
+|Yes
+|Anti 
+|{{Link|url=https://www.facebook.com/groups/wheeloftimehaters/|text=Wheel of Time}}
+|Facebook group/page
+|{{RoughPop|3700}}
+|Discussion/meme group. Alternate link: https://www.facebook.com/groups/wheeloftimesuck/ 
+|-
+|Wheel of Time
+|Yes
+|
+|{{Link|url=https://discord.gg/7BTdjVut8R|text=Wheel of Time}}
+|Discord
+|{{RoughPop|400}}
+|
+|-
+|Wheel of Time Barside Chats
+|Yes
+|
+|{{Link|url=https://podcasts.apple.com/us/podcast/wheel-of-time-barside-chats/id1514279980|text=Wheel of Time Barside Chats}}
+|Podcast
+|
+|
+|-
+|Wheel of Time Book Club
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/548059399094226/|text=Wheel of Time Book Club}}
+|Facebook group/page
+|{{RoughPop|382}}
+|
+|-
+|Wheel of Time Books Spliki
+|Yes
+|
+|{{Link|url=https://spliki.com/wiki/wheel_of_time_books/|text=Wheel of Time Books Spliki}}
+|Website
+|
+|
+|-
+|Wheel of Time Costuming
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/2378541169052198/|text=Wheel of Time Costuming}}
+|Facebook group/page
+|{{RoughPop|2000}}
+|Cosplay group
+|-
+|Wheel of Time Dark Friend Association
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/1861854820779050/|text=Wheel of Time Dark Friend Association}}
+|Facebook group/page
+|{{RoughPop|1000}}
+|
+|-
+|Wheel of Time Fans (TV Series on Prime)
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/groups/649462386078761/|text=Wheel of Time Fans (TV Series on Prime)}}
+|Facebook group/page
+|{{RoughPop|1000}}
+|
+|-
+|Wheel of Time FAQ
+|Yes
+|
+|{{Link|url=https://www.steelypips.org/wot-tgs/|text=Wheel of Time FAQ}}
+|Website
+|
+|
+|-
+|Wheel of Time Memes
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/wheeloftimememes/|text=Wheel of Time Memes}}
+|Facebook group/page
+|{{RoughPop|4000}}
+|
+|-
+|Wheel of Time Memes and More
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/594528755978357/|text=Wheel of Time Memes and More}} 
+|Facebook group/page
+|{{RoughPop|4400}}
+|
+|-
+|Wheel of Time on Prime FANS
+|Yes
+|Pro
+|{{Link|url=https://www.facebook.com/groups/644302449904590/|text=Wheel of Time on Prime FANS}}
+|Facebook group/page
+|{{RoughPop|13000}}
+|Discussion/meme group
+|-
+|Wheel of Time Quiz
+|Yes
+|
+|{{Link|url=https://discord.gg/Nav6n5hC94|text=Wheel of Time Quiz}}
+|Discord
+|{{RoughPop|800}}
+|Trivia group with weekly multiple-choice trivia and a rotating game of 20 Questions
+|-
+|Wheel of Time quotes
+|Yes
+|
+|{{Link|url=https://www.facebook.com/Wheeloftimequotes|text=Wheel of Time quotes}}
+|Facebook group/page
+|{{RoughPop|800}}
+|
+|-
+|Wheel of Time re-read
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/wotreread/|text=Wheel of Time re-read}}
+|Facebook group/page
+|{{RoughPop|1000}}
+|Discussion group oriented towards re-reads.
+|-
+|Wheel of Time Show Haters Book Lovers
+|Yes
+|Anti
+|{{Link|url=https://www.facebook.com/groups/wheeloftimebooks/|text=Wheel of Time Show Haters Book Lovers}}
+|Facebook group/page
+|{{RoughPop|600}}
+|Discussion/meme group.
+|-
+|Wheel of Timelines
+|Yes
+|
+|{{Link|url=https://wheeloftimelines.com/map|text=Wheel of Timelines}}
+|Website
+|
+| Interactive timelines for the books.
+|-
+|Wheel Takes
+|Yes
+|Pro
+|{{Link |url=https://www.spreaker.com/podcast/wheel-takes--5747467 |text=Wheel Takes}}
+|Podcast
+|
+| Active as of {{Date|November 1 2025}}
+|-
+|Wheel Talk
+|Yes
+|
+|{{Link|url=https://www.youtube.com/c/WheelTalk|text=Wheel Talk}}
+|YouTube
+|{{RoughPop|3770}}
+|
+|-
+|WikiQuote
+|No
+|
+|{{Link|url=https://en.wikiquote.org/wiki/Robert_Jordan|text=WikiQuote - Robert Jordan}}
+|Website
+|
+|
+|-
+|Witsteen Studios
+|No
+|Pro
+|{{Link |url=https://witsteen.com/ |text=witsteen.com}}
+|Website
+|
+|Studio developing ''[[Heroes and Forsaken]]'' as of {{Date|November 5 2025}}
+|-
+| rowspan=2 |WoT Compendium
+| rowspan=2 |Yes
+| rowspan=2 |
+|{{Link|url=https://play.google.com/store/apps/details?id=io.silvermast.wotcompendium|text=WoT Compendium (Android)}}
+|Android App
+|
+|
+|-
+|{{Link|url=https://apps.apple.com/us/app/wot-compendium-unofficial/id1292084221|text=WoT Compendium (iOS)}}
+|iOS App
+|
+|
+|-
+|WoT Con
+|Yes
+|Pro
+|{{Link|url=https://wotcon.com/|text=WoTcon}}
+|Website
+|
+|Annual convention
+|-
+|WoT MTG Cards
+|Yes
+|
+|{{Link|url=https://www.instagram.com/wheeloftime_mtg_cards/|text=Wheel of Time MTG cards}}
+|Instagram
+|{{RoughPop|1600}}
+| Publishes fan-made MTG card designs based on WoT. Artwork is largely AI-generated. 
+|-
+|WoT mud
+|Yes
+|
+|{{Link|url=https://wotmud.info/|text=WoTmud}}
+|Website
+|
+|Text-based game running since 1993
+|-
+|WoT Notes
+|Yes
+|
+|{{Link|url=https://wot-notes.tumblr.com/|text=wot-notes}}
+|Tumblr
+|
+|Contains excerpts and analysis from Robert Jordan's notes.
+|-
+|WoT Spoilers
+|Yes
+|
+|{{Link|url=https://podcasts.apple.com/us/podcast/wot-spoilers/id1229248132|text=WoT Spoilers}}
+|Podcast
+|
+|
+* Weekly podcast
+* Active as of {{Date|October 30 2025}}
+|-
+| rowspan=5 |WoT Series
+| rowspan=5 |Yes
+| rowspan=5 |Pro 
+|{{Link|url=https://www.wotseries.com/|text=wotseries.com}}
+|Website
+|
+|News-oriented site focused on leaks and announcements about the TV show.
+|-
+|{{Subreddit|wotshow}}
+|Reddit
+|{{RoughPop|29000}}
+|Very harsh moderation that occasionally breaks r/wotshow rules and Reddit sitewide rules.
+|-
+|{{Subreddit|WoTShowLeaks}}
+|Reddit
+|{{RoughPop|2800}}
+|Run the by a moderator who openly admitted to using personal connections to get rival subreddits taken down.
+|-
+|{{Link|url=https://www.facebook.com/groups/wotseries/|text=WoT Series}}
+|Facebook
+|{{RoughPop|11000}}
+|
+|-
+|{{Link|url=https://discord.gg/7eS6CYVDgN|text=WoT Series}}
+|Discord
+|{{RoughPop|1000}}
+|
+|-
+| WoT Up
+|Yes
+|
+|{{Link|url=https://www.youtube.com/@WoTUp|text=WoT Up}}
+|YouTube
+|{{RoughPop|22000}}
+|
+|-
+| rowspan=2 | WoT Wiki
+| rowspan=2 | Yes
+| rowspan=2 | 
+|{{Link|url=https://wot.fandom.com|text=wotwiki}}
+|Website
+|
+|
+|-
+|{{Link|url=https://disboard.org/server/join/842766495887917116|text=Wheel of Time Wikis}}
+|Discord
+|{{RoughPop|500}}
+|
+*Each book has a dedicated channel where later spoilers are hidden.
+|-
+| Yulia Kuznetsova
+| Yes
+| 
+|{{Link|url=https://www.artstation.com/glupen|text=glupen on Art Station}}
+| Website
+|{{RoughPop|30}}
+|
+|-
+| A Compendium of Weaponry and Military Costuming of Robert Jordan's Wheel of Time
+|Yes
+|
+|{{Link|url=http://personal.ars-informatica.ca/paul/wot/wot.htm|text=A Compendium of Weaponry and Military Costuming of Robert Jordan's Wheel of Time}}
+| Website
+|
+|
+|-
+| A Dream in the Pattern
+|Yes
+|
+|{{Link|url=http://aditp.forumotion.ca/|text=A Dream in the Pattern}}
+| Website
+|
+|Roleplaying forum
+|-
+| A'vron Ayende
+|Yes
+|
+|{{Link|url=http://forum.avronayende.net/avronwiki/index.php|text=A'vron Ayende}}
+|Website
+|
+|"A'vron Ayende" is [[Old Tongue]] and roughly translates to "Free Watchers"
+|-
+|Black Tower
+|Yes
+|
+|{{Link|url=http://www.blacktower.net/wotmain.htm|text=BlackTower.net}}
+|Website
+|
+| Not affiliated with r/The_Black_Tower
+|-
+|Caballien
+|Yes
+|
+|{{Link|url=http://www.caballien.com/|text=Caballien}}
+|Website
+|
+|Humor-focused.
+|-
+|Cast the Wheel of Time Movie
+|Yes
+|
+|{{Link|url=http://www.grupthink.com/topic/2224/Cast_the_Wheel_of_Time_movie|text=Cast the Wheel of Time movie}}
+|Website
+|
+|Pre-dates the Amazon TV show adaptation.
+|-
+| Fusion of the Towers
+| Yes
+|
+|{{Link|url=http://s4.zetaboards.com/Fusion_of_the_Towers/index/|text=Fusion of the Towers}}
+| Website
+|
+| Roleplaying.
+|-
+| rowspan=2 |Heroes of the Horn
+| rowspan=2 |Yes
+| rowspan=2 |
+|{{Link|url=https://podcasts.apple.com/us/podcast/heroes-of-the-horn-a-wheel-of-time-podcast/id1488275925|text=Heroes of the Horn}}
+|Podcast
+|
+|
+|-
+|{{Link|url=https://www.youtube.com/channel/UCU1tDlc_MZ1866KFKeccj0Q|text=Heroes of the Horn}}
+|YouTube
+|{{RoughPop|1970}}
+|
+|-
+|Liandra's Fantasy Website
+|Yes
+|
+|{{Link|url=http://home.wanadoo.nl/nynaeve/WoT.html|text=Liandra's Fantasy Website}}
+|Website
+|
+|
+|-
+|Official Nynaeve Fanclub
+|Yes
+|
+|{{Link|url=http://home.wanadoo.nl/nynaeve/nynaeve.html|text=Official Nynaeve Fanclub}}
+|Website
+|
+|
+|-
+| Heroes of the Wheel
+|Yes 
+|
+|{{Link|url=http://heroes.silverden.com/|text=Heroes of the Wheel}}
+|Website
+|
+|
+|-
+|Netland Towers
+|Yes
+|
+|{{Link|url=http://www.netlandtowers.com/towers/doku.php|text=Netland Towers}}
+|Website
+|
+|Roleplaying site.
+|-
+|NWN RPG
+|Yes
+|
+|{{Link|url=http://nwn.bioware.com/players/profile_wheel_of_time.html|text=NWN RPG}}
+|Website
+|
+|Persistent World with the NWN Game Engine.
+|-
+|r/whitecloaks
+|Yes
+|Anti
+|{{Link|url=https://reddit.com/r/whitecloaks|text=r/whitecloaks}}
+|Reddit
+|{{RoughPop|7000}}
+|
+*Discussion-oriented.
+*Very permissive moderation. Allowed subreddit drama and became inundated with it. Accused of brigading and doxxing but no evidence was ever made public. Moderators required by Reddit admins were banned after their first messages politely asking for clarifications on expectations.
+*Subreddit was made private sometime around the end of Season 1's airing and was banned around the time Season 2 began airing.
+*r/whitecloaks was one of the top 3 most active subreddits on a per-user basis on the entire Reddit site for a brief period during the airing of Season 1.
+|-
+|Realms of the Wheel
+|Yes
+|
+|{{Link|url=http://www.realms-of-imagination.com/tower3.html|text=Realms of the Wheel}}
+|Website
+|
+|
+|-
+| rowspan=4 | Usenet
+| rowspan=4 | yes
+| rowspan=4 | N/A
+| {{Link |url=https://groups.google.com/g/rec.arts.sf.written.robert-jordan |text=rec.arts.sf.written.robert-jordan}}
+| newsgroup
+|
+|
+|-
+| {{Link |url=https://groups.google.com/g/alt.fan.robert-jordan |text=alt.fan.robert-jordan}}
+| newsgroup
+|
+|
+|-
+| {{Link |url=https://groups.google.com/g/alt.wheel.of.time |text=alt.wheel.of.time}}
+| newsgroup
+|
+|
+|-
+| {{Link |url=https://groups.google.com/g/alt.binaries.fan.robert-jordan |text=alt.binaries.fan.robert-jordan}}
+| newsgroup
+|
+|
+|-
+|Shai'tan Posting
+|Yes
+|
+|{{Link|url=https://www.facebook.com/groups/shaitanposting/|text=Shai'tan Posting}}
+| Facebook
+|{{RoughPop|12000}}
+|Discussion/meme group
+|-
+|Tai'Shar Manetheren
+|Yes
+|
+|{{Link|url=https://www.facebook.com/PodcastTSM|text=Tai'Shar Manetheren: A Wheel of Time Podcast}} 
+| Facebook
+|{{RoughPop|800}}
+|Podcast. Last post in 2022.
+|-
+|Talk'aran'rhiod: The Wheel of Time Showcast
+|Yes
+|
+|{{Link|url=https://www.facebook.com/arantalk|text=Talk'aran'rhiod: The Wheel of Time Showcast}} 
+| Facebook
+|{{RoughPop|800}}
+|Podcast
+|-
+|Tar Valon After Dark
+|Yes
+|
+|{{Link|url=https://podcasts.apple.com/us/podcast/tar-valon-after-dark-a-wheel-of-time-comedy/id1557299284|text=Tar Valon After Dark}} 
+|Podcast
+|
+|
+|-
+|The Black Tower Subreddit
+|Yes
+|Anti
+|{{Link|url=https://reddit.com/r/The_Black_Tower|text=r/The_Black_Tower}}
+|Reddit
+|{{RoughPop|8100}}
+|
+*Very permissive rules, except that subreddit drama was categorically banned. 
+*Founded in the lead-up to the release of Season 2.
+*Founder was banned from Reddit for unknown reasons.
+*Not affiliated with the defunct The Black Tower Facebook page.
+*Unceremoniously locked down in early 2025. No known reason. As of 2025-03-22, the subreddit is still viewable, but no one can post.
+|-
+|The Game of Stones
+|Yes
+|
+|{{Link|url=http://gos.talij.com/|text=The Game of Stones}}
+|Website
+|
+|Browser-based MMO.
+|-
+|The Wheel of Time RP
+|Yes
+|
+|{{Link|url=http://www.wheeloftimerp.net/|text=The Wheel of Time RP}}
+|Website
+|
+|Roleplaying site.
+|-
+|The Wheel That Weaves
+|Yes
+|
+|{{Link|url=https://disboard.org/server/960901363351552020|text=The Wheel That Weaves}}
+|Discord
+|{{RoughPop|20}}
+|Rampant spam. Owner account is deleted and server does not meet Discord's {{Link|url=https://support.discord.com/hc/en-us/articles/26286635870359-Requesting-a-Transfer-of-Server-Ownership|text=criteria for a transfer of ownership.}}
+|-
+|The Wheel of Time Series
+|Yes
+|
+|{{Link|url=https://www.facebook.com/wheeloftimeseries|text=The Wheel of Time Series}}
+| Facebook
+|{{RoughPop|2000}}
+|Last post in 2020.
+|-
+|Theoryland of the Wheel of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/Theoryland|text=Theoryland of the Wheel of Time}}
+| Facebook
+|{{RoughPop|2000}}
+|Last post in 2021.
+|-
+|Wheel of Time
+|Yes
+|
+|{{Link|url=http://www.wheeloftime.org/board/mboard/|text=WheelOfTime.org}}
+|Website
+|
+|Defunct
+|-
+|Wheel of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/wotfull|text=Wheel of Time- for those who have read the full series!!}}
+| Facebook
+|{{RoughPop|3000}}
+|Last post in 2022.
+|-
+|Wheel of Time : A Quiz of Time
+|Yes
+|
+|{{Link|url=https://www.facebook.com/QuizOfTime|text=Wheel of Time : A Quiz of Time}}
+| Facebook
+|{{RoughPop|600}}
+|Last post in 2020.
+|-
+|Wheel of Time FAQ
+|Yes
+|
+|{{Link|url=http://linuxmafia.com/jordan/|text=Wheel of Time FAQ}}
+|Website
+|
+|
+|-
+|Wheel of Time micronation
+|Yes
+|
+|{{Link|url=https://www.facebook.com/profile.php?id=100070237102502|text=Wheel of Time micronation}}
+| Facebook
+|{{RoughPop|700}}
+|Last post in 2019.
+|-
+|WoT Mania
+|Yes
+|
+|{{Link|url=https://web.archive.org/web/20090207075400/http://wotmania.com/index.asp}}
+|Website
+|
+|
+|-
+|WoT MP3 and Midi
+|Yes
+|
+|{{Link|url=http://www.geocities.com/Area51/Corridor/2451/midi.htm|text=WoT MP3 and Midi}}
+|Website
+|
+|WoT audio files.
+|}

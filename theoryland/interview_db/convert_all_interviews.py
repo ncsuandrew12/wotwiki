@@ -277,6 +277,10 @@ def main():
                         p.write(f"### Links\n\n")
                         m.write(f"- Links:")
                         for link in interview.links:
+                            wikia = re.search(r'wot\.wikia\.com', link['href'])
+                            fandom = re.search(r'wot\.fandom\.com', link['href'])
+                            if wikia or fandom:
+                                print(f"#{i} links to wotwiki " + ("(solely) " if len(interview.links) == 1 else "(among others) ") + ("(wikia)" if wikia else "") + ("(fandom)" if fandom else ""))
                             p.write(f"- [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
                             m.write(f" [" + (link['text'] if link['text'] else link['href']) + f"]({link['href']})\n\n")
                         p.write("\n")

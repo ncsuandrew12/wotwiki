@@ -1,0 +1,2269 @@
+[
+  {
+    "name": "WoT Wiki",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://wot.fandom.com",
+        "site_text": "wotwiki",
+        "site_type": "Wiki"
+      },
+      {
+        "site_url": "https://disboard.org/server/join/842766495887917116",
+        "site_text": "Wheel of Time Wikis",
+        "site_type": "Discord",
+        "audience": "500",
+        "notes": [
+          "*Each book has a dedicated channel where later spoilers are hidden."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Narg the Trolloc",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "TheDailyTrolloc",
+        "site_type": "Subreddit",
+        "audience": "4000",
+        "notes": [
+          "Generally permissive moderation. Best subreddit for open discussions."
+        ]
+      },
+      {
+        "site_url": "https://www.instagram.com/wheeloftimelove/",
+        "site_text": "Wheel of Time Love",
+        "site_type": "Instagram",
+        "audience": "1300",
+        "notes": [
+          "Fanart, fan fiction, TV show news, etc."
+        ]
+      },
+      {
+        "site_url": "https://narg.substack.com/",
+        "site_text": "''Lost in Narg's Mind''",
+        "site_type": "Substack",
+        "audience": "30",
+        "notes": [
+          "*News, guides, treatises, etc.",
+          "*Excellent beginner's guide: https://narg.substack.com/p/beginners-resource-guide-to-the-wheel",
+          "*Excellent compilation of various statements on [[Mat Cauthon]]'s relationship with [[Tylin Quintara Mitsobar]], as well as some very insightful original content: https://narg.substack.com/p/mat-and-tylin-cancelled",
+          "*Various other sites/locations have existed but have had varying degrees of success remaining public/established."
+        ]
+      },
+      {
+        "site_url": "https://web.archive.org/web/20181004143146/http://www.wheeloftime.tv/",
+        "site_text": "wheeloftime.tv (archived)",
+        "site_type": "Website",
+        "notes": [
+          "*News, guides, treatises, etc."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wetlander Humor",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "WetlanderHumor",
+        "site_type": "Subreddit",
+        "audience": "58000",
+        "notes": [
+          "*Largest WoT humor subreddit.",
+          "*Mostly permissive moderation, except that posts must be memes and text posts are not allowed."
+        ]
+      },
+      {
+        "site_url": "https://discord.gg/TMaqvrx4SM",
+        "site_text": "Wetlander Humor",
+        "site_type": "Discord",
+        "audience": "300",
+        "notes": [
+          "*Very inactive.",
+          "*Established during a Reddit \"blackout.\""
+        ]
+      }
+    ]
+  },
+  {
+    "name": "c/WoT",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "wot",
+        "site_type": "Lemmy",
+        "site_lemmy_server": "lemmy.world"
+      }
+    ]
+  },
+  {
+    "name": "WoT Compendium",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://play.google.com/store/apps/details?id=io.silvermast.wotcompendium",
+        "site_text": "WoT Compendium (Android)",
+        "site_type": "Android App"
+      },
+      {
+        "site_url": "https://apps.apple.com/us/app/wot-compendium-unofficial/id1292084221",
+        "site_text": "WoT Compendium (iOS)",
+        "site_type": "iOS App"
+      }
+    ]
+  },
+  {
+    "name": "Theoryland",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.theoryland.com/listintv.php",
+        "site_text": "Theoryland.com",
+        "site_type": "Website",
+        "notes": [
+          "Large reference website. Contains most interviews and Q&As with major WoT figures in searchable form."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Timelines",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://wheeloftimelines.com/map",
+        "site_text": "Wheel of Timelines",
+        "site_type": "Website",
+        "notes": [
+          "Interactive timelines for the books."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Encyclopaedia WoT",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.encyclopaedia-wot.org/",
+        "site_text": "Encyclopaedia WoT",
+        "site_type": "Website",
+        "notes": [
+          "Major WoT reference tool."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Compendium of ''Wheel of Time'' Characters",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://hammondkd.github.io/WoT-compendium/",
+        "site_text": "The Compendium of ''Wheel of Time'' Characters",
+        "site_type": "Website",
+        "notes": [
+          "*Compendium of information about all named characters in The Wheel of Time.",
+          "*Seemingly not affiliated with \"The Wheel of Time Compendium\""
+        ]
+      }
+    ]
+  },
+  {
+    "name": "WoT Notes",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://wot-notes.tumblr.com/",
+        "site_text": "wot-notes",
+        "site_type": "Tumblr",
+        "notes": [
+          "Contains excerpts and analysis from Robert Jordan's notes."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "13th Depository",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://13depository.blogspot.com/",
+        "site_text": "13th Depository",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "The Old Tongue Dictionary",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://www.angelfire.com/tx/jcs97b/otd.html",
+        "site_text": "The Old Tongue Dictionary",
+        "site_type": "Website",
+        "notes": [
+          "Reference site."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tar Valon",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.tarvalon.net",
+        "site_text": "TarValon.net",
+        "site_type": "Website",
+        "notes": [
+          "Has an extensive library of WoT content."
+        ]
+      },
+      {
+        "site_url": "https://discord.gg/48Jk8g9xEc",
+        "site_text": "TarValon",
+        "site_type": "Discord",
+        "audience": "400"
+      },
+      {
+        "site_url": "https://www.tarvalon.net/index.php?pages/RJMS/",
+        "site_text": "Robert Jordan Memorial Scholarship",
+        "site_type": "Website",
+        "notes": [
+          "Annual $500 scholarship awarded to the winner of an essay contest."
+        ]
+      },
+      {
+        "site_url": "http://library.tarvalon.net/index.php?title=The_Strike_at_Shayol_Ghul",
+        "site_text": "The Strike at Shayol Ghul",
+        "site_type": "Text",
+        "notes": [
+          "1997 in-universe historical fragment. Authored by [[Robert Jordan]]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Band of the Red Hand",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://redhand.band",
+        "site_text": "The Band of the Red Hand",
+        "site_type": "Website"
+      },
+      {
+        "site_url": "https://www.youtube.com/@Whitecloaks",
+        "site_text": "Whitecloaks",
+        "site_type": "YouTube",
+        "audience": "1000"
+      },
+      {
+        "site_url": "https://discord.redhand.band",
+        "site_text": "The Band of the Red Hand",
+        "site_type": "Discord",
+        "audience": "900",
+        "notes": [
+          "*Most public channels prohibit spoilers. Spoiler channels are denoted with a \u2705",
+          "*Each book has a dedicated channel where later spoilers are hidden.",
+          "*Fully boosted as of 2024-07-22.",
+          "*Not affiliated with the BOTRH Facebook group.",
+          "*Spinoff of r/whitecloaks"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Defenders of the Dragon",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/2058731034282563",
+        "site_text": "Defenders of the Dragon",
+        "site_type": "Facebook group",
+        "audience": "3000",
+        "notes": [
+          "Discussion/meme group"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Quiz",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://discord.gg/Nav6n5hC94",
+        "site_text": "Wheel of Time Quiz",
+        "site_type": "Discord",
+        "audience": "800",
+        "notes": [
+          "Trivia group with weekly multiple-choice trivia and a rotating game of 20 Questions"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dragonmount",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://dragonmount.com",
+        "site_text": "Dragonmount.com",
+        "site_type": "Website",
+        "notes": [
+          "One of the oldest and largest WoT fan sites. Hosts the archive of Robert Jordan's blog."
+        ]
+      },
+      {
+        "site_url": "https://discord.gg/pM3aw7CjX8",
+        "site_text": "Dragonmount",
+        "site_type": "Discord",
+        "audience": "600",
+        "notes": [
+          "Pretty inactive."
+        ]
+      },
+      {
+        "site_url": "https://www.facebook.com/dragonmount",
+        "site_text": "Dragonmount",
+        "site_type": "Facebook",
+        "audience": "22000"
+      },
+      {
+        "site_url": "https://www.youtube.com/@DragonmountCom",
+        "site_text": "Dragonmount",
+        "site_type": "YouTube",
+        "audience": "6580"
+      },
+      {
+        "site_url": "https://www.instagram.com/Dragonmount_",
+        "site_text": "Dragonmount",
+        "site_type": "Instagram",
+        "audience": "11700"
+      },
+      {
+        "site_url": "https://dragonmount.com/Books/Strike_at_Shayol_Ghul",
+        "site_text": "Strike at Shayol Ghul",
+        "site_type": "Text",
+        "notes": [
+          "1997 in-universe historical fragment. Authored by [[Robert Jordan]]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "17th Shard",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://www.17thshard.com/",
+        "site_text": "17th Shard",
+        "site_type": "Website",
+        "notes": [
+          "*[[Brandon Sanderson]] fan site",
+          "*Dedicated WoT channel with no untagged spoilers allowed."
+        ]
+      },
+      {
+        "site_url": "https://discord.com/invite/dpRsH56d",
+        "site_text": "17th Shard",
+        "site_type": "Discord",
+        "audience": "22000",
+        "notes": [
+          "Strict spoiler controls. Contains a WoT-specific channel where all plot spoilers must be tagged."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "JordanCon",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.jordancon.org/",
+        "site_text": "JordanCon",
+        "site_type": "Website",
+        "notes": [
+          "Annual convention in Atlanta, Georgia."
+        ]
+      },
+      {
+        "site_url": "https://www.facebook.com/groups/5034437636/",
+        "site_text": "JordanCon",
+        "site_type": "Facebook group",
+        "audience": "4300"
+      },
+      {
+        "site_url": "https://discord.gg/MU4kSTRupk",
+        "site_text": "JordanCon",
+        "site_type": "Discord",
+        "audience": "900"
+      }
+    ]
+  },
+  {
+    "name": "''A Statistical Analysis of Robert Jordan\u2019s The Wheel of Time''",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.barnesandnoble.com/blog/commentary/statistical-analysis-wheel-time/",
+        "site_text": "Statistical Analysis of WoT",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "A Compendium of Weaponry and Military Costuming of Robert Jordan's Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://personal.ars-informatica.ca/paul/wot/wot.htm",
+        "site_text": "A Compendium of Weaponry and Military Costuming of Robert Jordan's Wheel of Time",
+        "site_type": "Website"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "A Dream in the Pattern",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://aditp.forumotion.ca/",
+        "site_text": "A Dream in the Pattern",
+        "site_type": "Website",
+        "notes": [
+          "Roleplaying forum"
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "A'vron Ayende",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://forum.avronayende.net/avronwiki/index.php",
+        "site_text": "A'vron Ayende",
+        "site_type": "Website",
+        "notes": [
+          "\"A'vron Ayende\" is [[Old Tongue]] and roughly translates to \"Free Watchers\""
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Aether Games",
+    "wot_centric": false,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://aethergames.io/",
+        "site_text": "aethergames.io",
+        "site_type": "Website"
+      },
+      {
+        "site_url": "https://store.steampowered.com/publisher/AetherStudios",
+        "site_text": "Steam Page",
+        "site_type": "Steam",
+        "notes": [
+          "Studio \"formerly\" developing ''[[Heroes and Forsaken]]''"
+        ]
+      },
+      {
+        "site_url": "https://discord.gg/tak9RR8RCU",
+        "site_text": "Aether Games",
+        "site_type": "Discord",
+        "audience": "46000"
+      }
+    ]
+  },
+  {
+    "name": "Aiel Humor",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "AielHumor",
+        "site_type": "Subreddit",
+        "audience": "70"
+      }
+    ]
+  },
+  {
+    "name": "Amazon.com",
+    "wot_centric": false,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@PrimeVideo",
+        "site_text": "Prime Video",
+        "site_type": "YouTube",
+        "audience": "4000000"
+      }
+    ]
+  },
+  {
+    "name": "Atlas of Ice and Fire",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://atlasoficeandfireblog.wordpress.com/category/the-wheel-of-time-atlas/",
+        "site_text": "Atlas of Ice and Fire - The Wheel of Time Atlas",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "Band of the Red Hand",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/thebandoftheredhand",
+        "site_text": "Band of the Red Hand",
+        "site_type": "Facebook group",
+        "audience": "2000",
+        "notes": [
+          "Discussion group. Not affiliated with the BOTRH Discord. Committed to allowing both pro- and anti-show discussion, but membership trends slightly anti-show."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Black Tower",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.blacktower.net/wotmain.htm",
+        "site_text": "BlackTower.net",
+        "site_type": "Website",
+        "notes": [
+          "Not affiliated with r/The_Black_Tower"
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Brandon Sanderson",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://www.dragonsteelbooks.com/",
+        "site_text": "Dragonsteel Books",
+        "site_type": "Website"
+      },
+      {
+        "site_url": "https://www.youtube.com/@BrandSanderson",
+        "site_text": "Brandon Sanderson",
+        "site_type": "YouTube",
+        "audience": "500000"
+      }
+    ]
+  },
+  {
+    "name": "Brown Ajah Subreddit",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "BrownAjah",
+        "site_type": "Subreddit",
+        "audience": "200",
+        "notes": [
+          "*Knowledge-oriented. Book-centric; the TV show is ignored.",
+          "*Focused on providing answers to queries and extrapolating information in the books."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BrownAjahahahaha Subreddit",
+    "wot_centric": true,
+    "tv_show": "N/A",
+    "subsites": [
+      {
+        "site_url": "BrownAjahahahaha",
+        "site_type": "Subreddit",
+        "audience": "100",
+        "notes": [
+          "*Meme sub",
+          "*Books only"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caballien",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.caballien.com/",
+        "site_text": "Caballien",
+        "site_type": "Website",
+        "notes": [
+          "Humor-focused."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Cast the Wheel of Time Movie",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.grupthink.com/topic/2224/Cast_the_Wheel_of_Time_movie",
+        "site_text": "Cast the Wheel of Time movie",
+        "site_type": "Website",
+        "notes": [
+          "Pre-dates the Amazon TV show adaptation."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Chase Conley",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://www.deviantart.com/chaseconley/gallery?q=wot",
+        "site_text": "Chase Conley",
+        "site_type": "DeviantArt",
+        "audience": "18400"
+      }
+    ]
+  },
+  {
+    "name": "Daniel Greene",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@DanielGreeneReviews",
+        "site_text": "Daniel Greene",
+        "site_type": "YouTube",
+        "audience": "500000"
+      }
+    ]
+  },
+  {
+    "name": "Fans of the Wheel of Time on Amazon Prime",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/fansofwottvseries/",
+        "site_text": "Fans of the Wheel of Time on Amazon Prime",
+        "site_type": "Facebook group/page",
+        "audience": "19000"
+      }
+    ]
+  },
+  {
+    "name": "Fox and Raven Media",
+    "wot_centric": false,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.foxandravenmedia.com/",
+        "site_text": "Fox and Raven Media",
+        "site_type": "Website",
+        "notes": [
+          "Indie podcast network"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fusion of the Towers",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://s4.zetaboards.com/Fusion_of_the_Towers/index/",
+        "site_text": "Fusion of the Towers",
+        "site_type": "Website",
+        "notes": [
+          "Roleplaying."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Heroes and Forsaken",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://heroesandforsaken.com/",
+        "site_text": "heroesandforsaken.com",
+        "site_type": "Website",
+        "notes": [
+          "Official website of ''[[Heroes and Forsaken]]''"
+        ]
+      },
+      {
+        "site_url": "https://www.youtube.com/@HeroesandForsaken",
+        "site_text": "Heroes and Forsaken: The Wheel of Time Card Game",
+        "site_type": "YouTube",
+        "audience": "29"
+      },
+      {
+        "site_url": "https://www.facebook.com/profile.php?id=61579190438737",
+        "site_text": "Heroes and Forsaken",
+        "site_type": "Facebook page",
+        "audience": "10"
+      },
+      {
+        "site_url": "https://instagram.com/heroesandforsaken",
+        "site_text": "Heroes and Forsaken",
+        "site_type": "Instagram"
+      }
+    ]
+  },
+  {
+    "name": "Heroes of the Horn",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://podcasts.apple.com/us/podcast/heroes-of-the-horn-a-wheel-of-time-podcast/id1488275925",
+        "site_text": "Heroes of the Horn",
+        "site_type": "Podcast"
+      },
+      {
+        "site_url": "https://www.youtube.com/channel/UCU1tDlc_MZ1866KFKeccj0Q",
+        "site_text": "Heroes of the Horn",
+        "site_type": "YouTube",
+        "audience": "1970"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Heroes of the Wheel",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://heroes.silverden.com/",
+        "site_text": "Heroes of the Wheel",
+        "site_type": "Website"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Hillbilly Memes of Nerdy Extremes",
+    "wot_centric": false,
+    "tv_show": "Anti",
+    "defunct": true,
+    "subsites": [
+      {
+        "site_url": "http://hillbillynerd.fun",
+        "site_text": "Hillbilly Memes of Nerdy Extremes",
+        "site_type": "Blog",
+        "notes": [
+          "Memes. Not WoT-centric, but a high percentage of content is WoT-related"
+        ]
+      },
+      {
+        "site_url": "http://facebook.hillbillynerd.fun",
+        "site_text": "Hillbilly Memes of Nerdy Extremes",
+        "site_type": "Facebook page",
+        "audience": "15",
+        "notes": [
+          "Memes. Not WoT-centric, but a high percentage of content is WoT-related"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "It's Always Sunny in Randland",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "IASIRandland",
+        "site_type": "Subreddit",
+        "audience": "324",
+        "notes": [
+          "Gifs of ''{{Link|[[w:c:itsalwayssunny|It's Always Sunny in Philadelphia]]}}'' overlaid with WoT-related dialogue"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jeremy Saliba",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "http://jeremysaliba.blogspot.com/search/label/Wheel%20of%20time",
+        "site_text": "Jeremy Saliba",
+        "site_type": "Website",
+        "notes": [
+          "Artwork"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kinslayer MUD",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.kinslayermud.org/",
+        "site_text": "Kinslayer MUD",
+        "site_type": "MUD",
+        "notes": [
+          "Roleplaying."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Leigh Butler's WoT Reread",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://reactormag.com/columns/wot-reread/",
+        "site_text": "WoT Reread",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "Lia's WoT Liveblog",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://neuxue.tumblr.com/WoT-liveblog",
+        "site_text": "Lia's WoT Liveblog",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "Liandra's Fantasy Website",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://home.wanadoo.nl/nynaeve/WoT.html",
+        "site_text": "Liandra's Fantasy Website",
+        "site_type": "Website"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Lord Inquisitor Dunn",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@lordinquisitordunn336",
+        "site_text": "Lord Inquisitor Dunn",
+        "site_type": "YouTube",
+        "audience": "400"
+      }
+    ]
+  },
+  {
+    "name": "My First Walk Through The Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/myfirstwalkthroughthewheeloftime/",
+        "site_text": "My First Walk Through The Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "1000",
+        "notes": [
+          "Discussion group oriented towards first-time readers."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "NWN RPG",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://nwn.bioware.com/players/profile_wheel_of_time.html",
+        "site_text": "NWN RPG",
+        "site_type": "Website",
+        "notes": [
+          "Persistent World with the NWN Game Engine."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Nae'Blis",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@NaeBlis/",
+        "site_text": "Nae'Blis",
+        "site_type": "YouTube",
+        "audience": "39400"
+      }
+    ]
+  },
+  {
+    "name": "Netland Towers",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.netlandtowers.com/towers/doku.php",
+        "site_text": "Netland Towers",
+        "site_type": "Website",
+        "notes": [
+          "Roleplaying site."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Official Nynaeve Fanclub",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://home.wanadoo.nl/nynaeve/nynaeve.html",
+        "site_text": "Official Nynaeve Fanclub",
+        "site_type": "Website"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Pillow Friends Subreddit",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "PillowFriends",
+        "site_type": "Subreddit"
+      }
+    ]
+  },
+  {
+    "name": "Prophet of the Dragon",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@ProphetOfTheDragon",
+        "site_text": "Prophet of the Dragon",
+        "site_type": "YouTube",
+        "audience": "3000"
+      }
+    ]
+  },
+  {
+    "name": "r/WoT",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "wot",
+        "site_type": "Subreddit",
+        "audience": "136000",
+        "notes": [
+          "*Largest and most established WoT subreddit.",
+          "*Discussion-oriented. Attempts to be for fans of both the books and the TV show, with extensive spoiler policies to match.",
+          "*Harsh and capricious moderation.",
+          "**Allows opinions across the spectrum with respect to the show, but will seemingly arbitrarily delete some anti-show comments and issue bans with no apparent rhyme or reason.",
+          "**[https://reddit.com/r/WoT/comments/1hfhja7/january_6_is_a_day_that_will_be_remembered_in/ Example post] that resulted in a permaban for \"harassment\": ''(made in December of 2024)''<blockquote>January 6 is a day that will be remembered in infamy. I speak, of course, of the day in 2004 when USA Today reported Robert Jordan ominously telling them \"I'm aware of Mr. Goodkind.\"</blockquote>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Read and Find Out",
+    "subsites": [
+      {
+        "site_url": "http://www.readandfindout.com/",
+        "site_text": "Read and Find Out",
+        "site_type": "Website",
+        "audience": "223",
+        "notes": [
+          "Closure of site announced in July of 2024. Still live as of 2024-07-30."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Realms of the Wheel",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.realms-of-imagination.com/tower3.html",
+        "site_text": "Realms of the Wheel",
+        "site_type": "Website"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Robert Jordan : The Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/2257338740/",
+        "site_text": "Robert Jordan : The Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "1000"
+      }
+    ]
+  },
+  {
+    "name": "Screw you all, I love Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/2204133522/",
+        "site_text": "Screw you all, I love Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "11000"
+      }
+    ]
+  },
+  {
+    "name": "Seamas Gallagher",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://seamassketches.blogspot.com/search/label/wheel%20of%20time",
+        "site_text": "Seamas Gallagher",
+        "site_type": "Website",
+        "notes": [
+          "Artwork"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shai'tan Posting",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/shaitanposting/",
+        "site_text": "Shai'tan Posting",
+        "site_type": "Facebook group",
+        "audience": "12000",
+        "notes": [
+          "Discussion/meme group"
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Shards of Callandor",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://discord.gg/Hzu6D3JqUv",
+        "site_text": "Shards of Callandor",
+        "site_type": "Discord",
+        "audience": "60",
+        "notes": [
+          "Linguistic nerds focusing on the Old Tongue."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sylas K Barrett's Reading The Wheel of Time",
+    "subsites": [
+      {
+        "site_url": "https://reactormag.com/columns/reading-the-wheel-of-time/",
+        "site_text": "Reading The Wheel of Time",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "Tai'Shar Manetheren",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/PodcastTSM",
+        "site_text": "Tai'Shar Manetheren: A Wheel of Time Podcast",
+        "site_type": "Facebook page",
+        "audience": "800",
+        "notes": [
+          "Podcast. Last post in 2022."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Talk'aran'rhiod",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://podcasts.apple.com/us/podcast/talkaranrhiod-the-wheel-of-time-showcast/id1479634263",
+        "site_text": "Talk'aran'rhiod",
+        "site_type": "Podcast"
+      }
+    ]
+  },
+  {
+    "name": "Talk'aran'rhiod: The Wheel of Time Showcast",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/arantalk",
+        "site_text": "Talk'aran'rhiod: The Wheel of Time Showcast",
+        "site_type": "Facebook",
+        "audience": "800",
+        "notes": [
+          "Podcast"
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Tar Valon After Dark",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://podcasts.apple.com/us/podcast/tar-valon-after-dark-a-wheel-of-time-comedy/id1557299284",
+        "site_text": "Tar Valon After Dark",
+        "site_type": "Podcast"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "The Black Tower",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://Black-Tower.net",
+        "site_text": "The Black Tower",
+        "site_type": "Website",
+        "audience": "800",
+        "notes": [
+          "*Not affiliated with r/The_Black_Tower"
+        ]
+      },
+      {
+        "site_url": "https://www.facebook.com/TheBlackTower/",
+        "site_text": "The Black Tower",
+        "site_type": "Facebook",
+        "audience": "800",
+        "notes": [
+          "*Not affiliated with r/The_Black_Tower"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Black Tower Podcast",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://podcasts.apple.com/us/podcast/the-black-tower-podcast-a-wheel-of-time-podcast/id1439430286",
+        "site_text": "The Black Tower",
+        "site_type": "Podcast",
+        "notes": [
+          "*Not affiliated with r/The_Black_Tower"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Black Tower Subreddit",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "The_Black_Tower",
+        "site_type": "Subreddit",
+        "audience": "8100",
+        "notes": [
+          "*Very permissive rules, except that subreddit drama was categorically banned.",
+          "*Founded in the lead-up to the release of Season 2.",
+          "*Founder was banned from Reddit for unknown reasons.",
+          "*Not affiliated with the defunct The Black Tower Facebook page.",
+          "*Unceremoniously locked down in early 2025. No known reason. As of 2025-03-22, the subreddit is still viewable, but no one can post."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "The Dragon Reread",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://podcasts.apple.com/us/podcast/the-dragon-reread/id1270976625",
+        "site_text": "The Dragon Reread",
+        "site_type": "Podcast"
+      }
+    ]
+  },
+  {
+    "name": "The Dusty Wheel",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@TheDustyWheel",
+        "site_text": "The Dusty Wheel",
+        "site_type": "YouTube",
+        "audience": "27000"
+      },
+      {
+        "site_url": "https://www.facebook.com/TheDustyWheelShow",
+        "site_text": "The Dusty Wheel: A Wheel of Time Talk Show",
+        "site_type": "Facebook",
+        "audience": "6000"
+      }
+    ]
+  },
+  {
+    "name": "The Flickerverse",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@TheFlickerverse",
+        "site_text": "The Flickerverse",
+        "site_type": "YouTube",
+        "audience": "200"
+      },
+      {
+        "site_url": "https://discord.gg/r2NbeBcjZf",
+        "site_text": "The Flickerverse",
+        "site_type": "Discord",
+        "audience": "85"
+      }
+    ]
+  },
+  {
+    "name": "The Game of Stones",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://gos.talij.com/",
+        "site_text": "The Game of Stones",
+        "site_type": "Website",
+        "notes": [
+          "Browser-based MMO."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "The Great Blight",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.thegreatblight.com/",
+        "site_text": "The Great Blight",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "The Knight's Watch",
+    "wot_centric": false,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/channel/UCubCObW93mbrIFoxwNamFFw",
+        "site_text": "The Knight's Watch",
+        "site_type": "YouTube",
+        "audience": "160000"
+      }
+    ]
+  },
+  {
+    "name": "The Nerdporeal Lifeform",
+    "wot_centric": false,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@Nerdporeal",
+        "site_text": "The Nerdporeal Lifeform",
+        "site_type": "YouTube",
+        "audience": "4000"
+      }
+    ]
+  },
+  {
+    "name": "The Questioners",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@thequestioners",
+        "site_text": "The Questioners",
+        "site_type": "YouTube",
+        "audience": "200"
+      }
+    ]
+  },
+  {
+    "name": "The Sea of Storms",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.tsosmud.org/",
+        "site_text": "The Sea of Storms",
+        "site_type": "MUD",
+        "notes": [
+          "Relatively few online players at any given moment, but still live."
+        ]
+      },
+      {
+        "site_url": "http://www.tsosmud.org/wotcon.aspx",
+        "site_text": "The Wheel of Time Concordance",
+        "site_type": "website",
+        "notes": [
+          "*A Guide to Geography, Culture and Other Setting Elements",
+          "*Full guide is available as a {{Link |url=http://www.tsosmud.org/concordance.txt |text=concordance.txt}} file."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Stedding",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://discord.gg/EgPWR7rRnE",
+        "site_text": "The Stedding",
+        "site_type": "Discord",
+        "audience": "700",
+        "notes": [
+          "*Formerly known as Randland",
+          "*Entry last updated {{Date|February 13 2024}}"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Sword and the Pen Reflections",
+    "wot_centric": false,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@TheSwordAndThePenREFLECTIONS",
+        "site_text": "The Sword and the Pen Reflections",
+        "site_type": "YouTube",
+        "audience": "8000"
+      }
+    ]
+  },
+  {
+    "name": "The Way of the Leaf",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/c/TheWayOfTheLeaf",
+        "site_text": "The Way of the Leaf",
+        "site_type": "YouTube",
+        "audience": "1380"
+      }
+    ]
+  },
+  {
+    "name": "The Wert Zone",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://thewertzone.blogspot.com/search/label/a%20history%20of%20the%20wheel%20of%20time",
+        "site_text": "The Wert Zone",
+        "site_type": "Blog",
+        "notes": [
+          "*Extensive general Sci-Fi and Fantasy blog.",
+          "*Last WoT-centric post in 2018."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Wheel Reads",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://podcasts.apple.com/us/podcast/the-wheel-reads-a-wheel-of-time-podcast/id1495812597",
+        "site_text": "The Wheel Reads",
+        "site_type": "Podcast"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel That Weaves",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://disboard.org/server/960901363351552020",
+        "site_text": "The Wheel That Weaves",
+        "site_type": "Discord",
+        "audience": "20",
+        "notes": [
+          "Rampant spam. Owner account is deleted and server does not meet Discord's {{Link|url=https://support.discord.com/hc/en-us/articles/26286635870359-Requesting-a-Transfer-of-Server-Ownership|text=criteria for a transfer of ownership.}}"
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "The Wheel Weaves",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.thewheelweavespodcast.com/",
+        "site_text": "The Wheel Weaves Podcast",
+        "site_type": "Podcast"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/182242551878719/",
+        "site_text": "The Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "14000"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/844147967032151/",
+        "site_text": "The Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "300"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/415221187569368/",
+        "site_text": "The Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "200"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/958985661635223/",
+        "site_text": "The Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "1000",
+        "notes": [
+          "Discussion/fanart group"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/tvtaleswot/",
+        "site_text": "The Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "1000"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time / Readers Only",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/431470642005050/",
+        "site_text": "The Wheel of Time / Readers Only",
+        "site_type": "Facebook group/page",
+        "audience": "100"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time Booksworn",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/269677968623852/",
+        "site_text": "The Wheel of Time Booksworn",
+        "site_type": "Facebook group/page",
+        "audience": "30"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time RP",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.wheeloftimerp.net/",
+        "site_text": "The Wheel of Time RP",
+        "site_type": "Website",
+        "notes": [
+          "Roleplaying site."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "The Wheel of Time Roleplay",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://disboard.org/server/792555080465252374",
+        "site_text": "The Wheel of Time Roleplay",
+        "site_type": "Discord",
+        "notes": [
+          "Roleplaying group"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time Series",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/wheeloftimeseries",
+        "site_text": "The Wheel of Time Series",
+        "site_type": "Facebook",
+        "audience": "2000",
+        "notes": [
+          "Last post in 2020."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "The Wheel of Time Series By Robert Jordan",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/profile.php?id=100027190347238",
+        "site_text": "The Wheel of Time Series By Robert Jordan",
+        "site_type": "Facebook group/page",
+        "audience": "1000"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time Uncut",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/TheWheelOfTimeUncensored/",
+        "site_text": "The Wheel of Time Uncut",
+        "site_type": "Facebook group/page",
+        "audience": "7000"
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time Universe",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/650340862595759/",
+        "site_text": "The Wheel of Time Universe",
+        "site_type": "Facebook group/page",
+        "audience": "14000",
+        "notes": [
+          "Discussion/meme group."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Wheel of Time: Distant Shores",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://disboard.org/server/942180481494048838",
+        "site_text": "The Wheel of Time: Distant Shores",
+        "site_type": "Discord",
+        "notes": [
+          "Roleplaying group"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Theoryland of the Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/Theoryland",
+        "site_text": "Theoryland of the Wheel of Time",
+        "site_type": "Facebook",
+        "audience": "2000",
+        "notes": [
+          "Last post in 2021."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Tor Books",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://torpublishinggroup.com/",
+        "site_text": "Tor Publishing Group",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "Turn The Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/TheWoT",
+        "site_text": "Turn The Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "8000"
+      }
+    ]
+  },
+  {
+    "name": "Unraveling the Pattern",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://youtube.com/UnravelingThePattern",
+        "site_text": "Unraveling the Pattern",
+        "site_type": "YouTube",
+        "audience": "30000"
+      },
+      {
+        "site_url": "https://www.facebook.com/UnraveledPattern",
+        "site_text": "Unraveling the Pattern - Wheel of Time Deep Dive",
+        "site_type": "Facebook",
+        "audience": "1000"
+      }
+    ]
+  },
+  {
+    "name": "Usenet",
+    "wot_centric": true,
+    "tv_show": "N/A",
+    "subsites": [
+      {
+        "site_url": "https://groups.google.com/g/rec.arts.sf.written.robert-jordan",
+        "site_text": "rec.arts.sf.written.robert-jordan",
+        "site_type": "newsgroup"
+      },
+      {
+        "site_url": "https://groups.google.com/g/alt.fan.robert-jordan",
+        "site_text": "alt.fan.robert-jordan",
+        "site_type": "newsgroup"
+      },
+      {
+        "site_url": "https://groups.google.com/g/alt.wheel.of.time",
+        "site_text": "alt.wheel.of.time",
+        "site_type": "newsgroup"
+      },
+      {
+        "site_url": "https://groups.google.com/g/alt.binaries.fan.robert-jordan",
+        "site_text": "alt.binaries.fan.robert-jordan",
+        "site_type": "newsgroup"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Weaves of the Wheel",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://disboard.org/server/337948217993854976",
+        "site_text": "Weaves of the Wheel Community",
+        "site_type": "Discord",
+        "audience": "200",
+        "notes": [
+          "Discussion/roleplaying group"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel Takes",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.spreaker.com/podcast/wheel-takes--5747467",
+        "site_text": "Wheel Takes",
+        "site_type": "Podcast",
+        "notes": [
+          "Active as of {{Date|November 1 2025}}"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel Talk",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/c/WheelTalk",
+        "site_text": "Wheel Talk",
+        "site_type": "YouTube",
+        "audience": "3770"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Games",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://discord.gg/TyexxST4KV",
+        "site_text": "Wheel of Games",
+        "site_type": "Discord",
+        "audience": "20"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/wheeloftimeamazon/",
+        "site_text": "Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "57000"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/wheeloftimehaters/",
+        "site_text": "Wheel of Time",
+        "site_type": "Facebook group/page",
+        "audience": "3700",
+        "notes": [
+          "Discussion/meme group. Alternate link: https://www.facebook.com/groups/wheeloftimesuck/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://discord.gg/7BTdjVut8R",
+        "site_text": "Wheel of Time",
+        "site_type": "Discord",
+        "audience": "400"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.wheeloftime.org/board/mboard/",
+        "site_text": "WheelOfTime.org",
+        "site_type": "Website",
+        "notes": [
+          "Defunct"
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Wheel of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/wotfull",
+        "site_text": "Wheel of Time- for those who have read the full series!!",
+        "site_type": "Facebook",
+        "audience": "3000",
+        "notes": [
+          "Last post in 2022."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Wheel of Time : A Quiz of Time",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/QuizOfTime",
+        "site_text": "Wheel of Time : A Quiz of Time",
+        "site_type": "Facebook",
+        "audience": "600",
+        "notes": [
+          "Last post in 2020."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Wheel of Time Barside Chats",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://podcasts.apple.com/us/podcast/wheel-of-time-barside-chats/id1514279980",
+        "site_text": "Wheel of Time Barside Chats",
+        "site_type": "Podcast"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Book Club",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/548059399094226/",
+        "site_text": "Wheel of Time Book Club",
+        "site_type": "Facebook group/page",
+        "audience": "382"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Books Spliki",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://spliki.com/wiki/wheel_of_time_books/",
+        "site_text": "Wheel of Time Books Spliki",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Costuming",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/2378541169052198/",
+        "site_text": "Wheel of Time Costuming",
+        "site_type": "Facebook group/page",
+        "audience": "2000",
+        "notes": [
+          "Cosplay group"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Dark Friend Association",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/1861854820779050/",
+        "site_text": "Wheel of Time Dark Friend Association",
+        "site_type": "Facebook group/page",
+        "audience": "1000"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time FAQ",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.steelypips.org/wot-tgs/",
+        "site_text": "Wheel of Time FAQ",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time FAQ",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://linuxmafia.com/jordan/",
+        "site_text": "Wheel of Time FAQ",
+        "site_type": "Website"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Wheel of Time Fans (TV Series on Prime)",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/649462386078761/",
+        "site_text": "Wheel of Time Fans (TV Series on Prime)",
+        "site_type": "Facebook group/page",
+        "audience": "1000"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Memes",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/wheeloftimememes/",
+        "site_text": "Wheel of Time Memes",
+        "site_type": "Facebook group/page",
+        "audience": "4000"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Memes and More",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/594528755978357/",
+        "site_text": "Wheel of Time Memes and More",
+        "site_type": "Facebook group/page",
+        "audience": "4400"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Show Haters Book Lovers",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/wheeloftimebooks/",
+        "site_text": "Wheel of Time Show Haters Book Lovers",
+        "site_type": "Facebook group/page",
+        "audience": "600",
+        "notes": [
+          "Discussion/meme group."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time Subreddit",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "wheeloftime",
+        "site_type": "Subreddit",
+        "audience": "60000",
+        "notes": [
+          "*More rules with harsher enforcement than r/WoT.",
+          "*Was moderated by u/Rand_Altreides, the chief instigator of drama in r/whitecloaks, who was later banned from Reddit entirely."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time micronation",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/profile.php?id=100070237102502",
+        "site_text": "Wheel of Time micronation",
+        "site_type": "Facebook",
+        "audience": "700",
+        "notes": [
+          "Last post in 2019."
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "Wheel of Time on Prime FANS",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/644302449904590/",
+        "site_text": "Wheel of Time on Prime FANS",
+        "site_type": "Facebook group/page",
+        "audience": "13000",
+        "notes": [
+          "Discussion/meme group"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time quotes",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/Wheeloftimequotes",
+        "site_text": "Wheel of Time quotes",
+        "site_type": "Facebook group/page",
+        "audience": "800"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Time re-read",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.facebook.com/groups/wotreread/",
+        "site_text": "Wheel of Time re-read",
+        "site_type": "Facebook group/page",
+        "audience": "1000",
+        "notes": [
+          "Discussion group oriented towards re-reads."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "WikiQuote",
+    "wot_centric": false,
+    "subsites": [
+      {
+        "site_url": "https://en.wikiquote.org/wiki/Robert_Jordan",
+        "site_text": "WikiQuote - Robert Jordan",
+        "site_type": "Website"
+      }
+    ]
+  },
+  {
+    "name": "Witsteen Studios",
+    "wot_centric": false,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://witsteen.com/",
+        "site_text": "witsteen.com",
+        "site_type": "Website",
+        "notes": [
+          "Studio developing ''[[Heroes and Forsaken]]'' as of {{Date|November 5 2025}}"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "WoT Con",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://wotcon.com/",
+        "site_text": "WoTcon",
+        "site_type": "Website",
+        "notes": [
+          "Annual convention"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "WoT MP3 and Midi",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "http://www.geocities.com/Area51/Corridor/2451/midi.htm",
+        "site_text": "WoT MP3 and Midi",
+        "site_type": "Website",
+        "notes": [
+          "WoT audio files.",
+          "}"
+        ]
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "WoT MTG Cards",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.instagram.com/wheeloftime_mtg_cards/",
+        "site_text": "Wheel of Time MTG cards",
+        "site_type": "Instagram",
+        "audience": "1600",
+        "notes": [
+          "Publishes fan-made MTG card designs based on WoT. Artwork is largely AI-generated."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "WoT Mania",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://web.archive.org/web/20090207075400/http://wotmania.com/index.asp",
+        "site_text": "wotmania.com (archived)",
+        "site_type": "Website"
+      }
+    ],
+    "defunct": true
+  },
+  {
+    "name": "WoT Series",
+    "wot_centric": true,
+    "tv_show": "Pro",
+    "subsites": [
+      {
+        "site_url": "https://www.wotseries.com/",
+        "site_text": "wotseries.com",
+        "site_type": "Website",
+        "notes": [
+          "News-oriented site focused on leaks and announcements about the TV show."
+        ]
+      },
+      {
+        "site_url": "wotshow",
+        "site_type": "Subreddit",
+        "audience": "29000",
+        "notes": [
+          "Very harsh moderation that occasionally breaks r/wotshow rules and Reddit sitewide rules."
+        ]
+      },
+      {
+        "site_url": "WoTShowLeaks",
+        "site_type": "Subreddit",
+        "audience": "2800",
+        "notes": [
+          "Run the by a moderator who openly admitted to using personal connections to get rival subreddits taken down."
+        ]
+      },
+      {
+        "site_url": "https://www.facebook.com/groups/wotseries/",
+        "site_text": "WoT Series",
+        "site_type": "Facebook",
+        "audience": "11000"
+      },
+      {
+        "site_url": "https://discord.gg/7eS6CYVDgN",
+        "site_text": "WoT Series",
+        "site_type": "Discord",
+        "audience": "1000"
+      }
+    ]
+  },
+  {
+    "name": "WoT Spoilers",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://podcasts.apple.com/us/podcast/wot-spoilers/id1229248132",
+        "site_text": "WoT Spoilers",
+        "site_type": "Podcast",
+        "notes": [
+          "* Weekly podcast",
+          "* Active as of {{Date|October 30 2025}}"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "WoT Up",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.youtube.com/@WoTUp",
+        "site_text": "WoT Up",
+        "site_type": "YouTube",
+        "audience": "22000"
+      }
+    ]
+  },
+  {
+    "name": "WoT mud",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://wotmud.info/",
+        "site_text": "WoTmud",
+        "site_type": "Website",
+        "notes": [
+          "Text-based game running since 1993"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yulia Kuznetsova",
+    "wot_centric": true,
+    "subsites": [
+      {
+        "site_url": "https://www.artstation.com/glupen",
+        "site_text": "glupen on Art Station",
+        "site_type": "Website",
+        "audience": "30"
+      }
+    ]
+  },
+  {
+    "name": "r/whitecloaks",
+    "wot_centric": true,
+    "tv_show": "Anti",
+    "subsites": [
+      {
+        "site_url": "whitecloaks",
+        "site_type": "Subreddit",
+        "audience": "7000",
+        "notes": [
+          "*Discussion-oriented.",
+          "*Very permissive moderation. Allowed subreddit drama and became inundated with it. Accused of brigading and doxxing but no evidence was ever made public. Moderators required by Reddit admins were banned after their first messages politely asking for clarifications on expectations.",
+          "*Subreddit was made private sometime around the end of Season 1's airing and was banned around the time Season 2 began airing.",
+          "*r/whitecloaks was one of the top 3 most active subreddits on a per-user basis on the entire Reddit site for a brief period during the airing of Season 1."
+        ]
+      }
+    ],
+    "defunct": true
+  }
+]
