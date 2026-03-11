@@ -34,47 +34,56 @@ wiki_name = "wot"
 # in the same actual text (e.g. [[Abc|Abcs]] -> [[Abc]]s), but shouldn't allow changes that modify the actual text (e.g.
 # robert jordan -> Robert Jordan)
 
-spelling_re_modifiers_exceptions = [ 'math', 'nowiki', 'interwiki', "invoke", "property" ]
+# spelling_re_modifiers_exceptions = [ 'math', 'nowiki', 'interwiki', "invoke", "property" ]
 # TODO:
 # Basic word misspellings need to exclude pronunciation strings
-# Incorporate all common misspellings: https://wot.fandom.com/wiki/Wotwiki:List_of_common_misspellings
-#   Non-mundane entries from A, B, and C have already been added.
+# Incorporate all feasible common misspellings: https://wot.fandom.com/wiki/Wotwiki:List_of_common_misspellings
+#   Non-mundane entries from A-G have already been added.
 spelling_re_modifiers = [
-    [ r"(?<!image=)(?<!image\s=)(?<!image\s=\s)(?<!image=\s)(?<!File:)(?<!\w)adam(?!\w)", r"a'dam", False ],
-    [ r"Amadican", r"Amadician", True ],
-    [ r"(\W)Andorian", r"\1Andoran", True ],
-    [ r"Arthur Hawkw{0,1}ing", r"Artur Hawkwing", True ],
-    [ r"(\W)[Aa]eil", r"\1Aiel", False ],
-    [ r"Atha{1,2}n\smiere", r"Atha'an Miere", True ],
-    [ r"(?<!image=)(?<!image\s=)(?<!image\s=\S)(?<!image=\S)(?<!File:)(?<!\w)Ashaman", r"Asha'man", True ],
-    [ r"(Ashamen)|(Asha'men)", r"Asha'man", True ],
-    [ r"Calandor", r"Callandor", True ],
-    [ r"(Carhien)|(Cairhein)", r"Cairhien", True ],
-    [ r"(carhienen)|(Cairheinen)|(Cairhienen)", r"Cairhienin", True ],
-    [ r"(?<!\w)Kandoran", r"Kandorian", True ],
-    [ r"(?<!\[\[es\:)Moraine", r"Moiraine", False ],
-    [ r"Perin", r"Perrin", False ],
-    [ r"(?<!\w)seige(?!\w)", r"siege", False ],
-    [ r"([Ss])hiled", r"\1hield", False ],
-    [ r"(?<!\w)(?<!-)teh(?!\w)", r"the", False ],
-    [ r"Turok", r"Turak", False ],
+    [ r"(?<!image=)(?<!image\s=)(?<!image\s=\s)(?<!image=\s)(?<!File:)(?<!\w)adam(?!\w)", r"a'dam", 0 ],
+    [ r"Amadican", r"Amadician", re.IGNORECASE ],
+    [ r"(\W)Andorian", r"\1Andoran", re.IGNORECASE ],
+    [ r"Arthur Hawkw{0,1}ing", r"Artur Hawkwing", re.IGNORECASE ],
+    [ r"(\W)[Aa]eil", r"\1Aiel", 0 ],
+    [ r"Atha{1,2}n\smiere", r"Atha'an Miere", re.IGNORECASE ],
+    [ r"(?<!image=)(?<!image\s=)(?<!image\s=\S)(?<!image=\S)(?<!File:)(?<!\w)Ashaman", r"Asha'man", re.IGNORECASE ],
+    [ r"(Ashamen)|(Asha'men)", r"Asha'man", re.IGNORECASE ],
+    [ r"Calandor", r"Callandor", re.IGNORECASE ],
+    [ r"(Carhien)|(Cairhein)", r"Cairhien", re.IGNORECASE ],
+    [ r"(carhienen)|(Cairheinen)|(Cairhienen)", r"Cairhienin", re.IGNORECASE ],
+    [ r"(?<!\w)([Dd])aries(?!\w)", r"\1areis", 0 ],
+    [ r"(?<!\w)([Dd])rakkar", r"\1raghkar", 0 ],
+    [ r"(?<!\w)(genjei)|(ghenji)|(genji)", r"Ghenjei", re.IGNORECASE ],
+    [ r"(?<!\w)ghealdanen", r"Ghealdanin", re.IGNORECASE ],
+    [ r"(?<!\w)([Gg])ohlam", r"\1holam", 0 ],
+    [ r"(?<!\w)(grendahl)|(grendahl)", r"Graendal", re.IGNORECASE ],
+    [ r"(?<!\w)grey ajah", r"Gray Ajah", re.IGNORECASE ],
+    [ r"(?<!\w)([Gg])rey (M[ae]n)", r"\1ray \2", 0 ],
+    [ r"(?<!\w)Kandoran", r"Kandorian", re.IGNORECASE ],
+    [ r"(?<!\[\[es\:)Moraine", r"Moiraine", 0 ],
+    [ r"Perin", r"Perrin", 0 ],
+    [ r"(?<!\w)seige(?!\w)", r"siege", 0 ],
+    [ r"([Ss])hiled", r"\1hield", 0 ],
+    [ r"(?<!\w)(?<!-)teh(?!\w)", r"the", 0 ],
+    [ r"Turok", r"Turak", 0 ],
 ]
-regex_modifiers_exceptions = [ 'comment', 'math', 'nowiki', 'template', 'hyperlink', 'interwiki', 'category', 'file', "invoke", "property" ]
+# regex_modifiers_exceptions = [ 'comment', 'math', 'nowiki', 'template', 'hyperlink', 'interwiki', 'category', 'file', "invoke", "property" ]
 regex_modifiers = [
-    [ "Wolf dream is two words.", r"(wolf)(dream)", r"\1 \2", 0, True ],
-    [ "Dreamspike is one word.", r"(dream)\sspike", r"\1spike", 0, True ],
-    # [ "Unnecessary link customization.", r"\[\[([^\]\|]+)\|\1((\'s)|s|(es)){0,1}\]\]", r"[[\1]]\2", 0, False ], # Changes are massive. Use of this should wait for a massive change set that includes more valuable changes.
-    # [ "Fix section link Trolloc#Social_Structure -> Trolloc#Trolloc_bands.", r"\[\[Trolloc#Social_Structure\]\]", r"\[\[Trolloc#Trolloc_bands\]\]", 0, False ], # Needs to be tested
-    # [ "Companion footnote style.", r"\{\{ref|\{\{twotc\}\},\s*([A-Za-z0-9][^\},]*)(\|[^\}]+){0,1}\}\}", r"\{\{ref/book\|twotc\|\1\2\}\}", 0, True ], # Needs to be tested
-    # [ "Removed raw ref tag.", r"\<ref\>([^<]+)\</ref\>", r"\{\{ref\|\1\}\}", 0, True ], # Needs to be tested
+    [ "Wolf dream is two words.", r"(wolf)(dream)", r"\1 \2", 0, re.IGNORECASE ],
+    [ "Dreamspike is one word.", r"(dream)\sspike", r"\1spike", 0, re.IGNORECASE ],
+    # [ "Unnecessary link customization.", r"\[\[([^\]\|]+)\|\1((\'s)|s|(es)){0,1}\]\]", r"[[\1]]\2", 0, re.IGNORECASE ], # Changes are massive. Use of this should wait for a massive change set that includes more valuable changes.
+    # [ "Fix section link Trolloc#Social_Structure -> Trolloc#Trolloc_bands.", r"\[\[Trolloc#Social_Structure\]\]", r"\[\[Trolloc#Trolloc_bands\]\]", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Companion footnote style.", r"\{\{ref|\{\{twotc\}\},\s*([A-Za-z0-9][^\},]*)(\|[^\}]+){0,1}\}\}", r"\{\{ref/book\|twotc\|\1\2\}\}", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Converted raw ref tag to template.", r"\<ref\>([^<]+)\</ref\>", r"{{ref|\1}}", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Converted raw ref tag to template.", r"\<ref name=(\"{0,1})([^\"]+)\1\>([^<]+)\</ref\>", r"{{ref|\3|\2}}", 0, re.IGNORECASE ], # Needs to be tested
     # Capitalize Shadowspawn, Darkfriend, Forsaken, Aes Sedai, Myrdraal, (NOT Fade), Trolloc
-    # [ "Capitalize Asha'man.", r"asha'man", r"Asha'man", 0, False ], # Needs to be tested
-    # [ "Capitalize TAR.", r"tel'aran'rhiod", r"Tel'aran'rhiod", 0, True ], # Needs to be tested
-    # [ "Lowercase sul'dam.", r"([^\.\!\?]\s|\[)Sul'dam", r"\1sul'dam", 0, False ], # Needs to be tested
-    # [ "Lowercase damane.", r"([^\.\!\?]\s|\[)Damane", r"\1damane", 0, False ], # Needs to be tested
-    # [ "Link AB dates.", r"([^\[])(\d{1,4}) AB([^A-Za-z\]\|])([^\]])", r"\1{{ab|\2}}\3\4", 0, False ], # Needs to be tested
-    # [ "Link NE dates.", r"([^\[])(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3\4", 0, False ], # Needs to be tested
-    # [ "Link FY dates.", r"([^A-Za-z\[]])FY (\d{1,4})([^\|\]])", r"\1{{fy|\2}}\3", 0, False ], # Needs to be tested
+    # [ "Capitalize Asha'man.", r"asha'man", r"Asha'man", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Capitalize TAR.", r"tel'aran'rhiod", r"Tel'aran'rhiod", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Lowercase sul'dam.", r"([^\.\!\?]\s|\[)Sul'dam", r"\1sul'dam", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Lowercase damane.", r"([^\.\!\?]\s|\[)Damane", r"\1damane", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Link AB dates.", r"([^\[])(\d{1,4}) AB([^A-Za-z\]\|])([^\]])", r"\1{{ab|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Link NE dates.", r"([^\[])(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Link FY dates.", r"([^A-Za-z\[]])FY (\d{1,4})([^\|\]])", r"\1{{fy|\2}}\3", 0, re.IGNORECASE ], # Needs to be tested
 ]
 # italicize_modifiers = [ "Tel'aran'rhiod", "sul'dam", "damane", "ter'angreal", "sa'angreal", "angreal", "grolm", "gholam" ] # Needs to be tested, particulary with respect to words being in filenames and link display text.
 
@@ -191,41 +200,37 @@ class CleanupPages(Command):
         with open(f"changes-all.diff", "w") as all_changes_file, open(f"changes.diff", "w") as changes_file:
             for page in self.preloaded_pages:
                 if (page_cnt % 100 == 0 and page_cnt > 0):
-                    self.print_n(f"{page_cnt} pages read.")
+                    self.print_n(f"{page_cnt} pages read. {len(queued_pages)} queued. {pages_noperm} skipped due to perms. {len(failed_pages)} pages produced errors.")
                 log.debug("Processing page: %s", page.title())
                 try:
                     page.get(get_redirect=True)
                     pre_text = page.text
                     mod = PageMod(page_id, urllib.parse.unquote(page.title()))
                     for modifier in spelling_re_modifiers:
-                        pt = page.text
-                        page.text = textlib.replaceExcept(text=page.text, old=modifier[0], new=modifier[1], exceptions=spelling_re_modifiers_exceptions, count=0, caseInsensitive=modifier[2], site=self.site)
-                        # page.text = re.sub(modifier[0], modifier[1], page.text, 0, flags = modifier[2])
-                        if (pt != page.text):
-                            if (len(mod.summary) > 0):
-                                mod.summary = mod.summary + " "
-                            mod.summary = mod.summary + "Spelling."
+                        premod_text = page.text
+                        # page.text = textlib.replaceExcept(text=premod_text, old=modifier[0], new=modifier[1], exceptions=spelling_re_modifiers_exceptions, count=0, caseInsensitive=modifier[2], site=self.site)
+                        page.text = re.sub(modifier[0], modifier[1], page.text, 0, flags = modifier[2])
+                        if (premod_text != page.text):
+                            log.debug(f"Applied spelling regex modifier to page '{page.title()}': {modifier}.")
+                            mod.summary.append("Spelling.")
                     # for modifier in italicize_modifiers:
                     #     pt = page.text
                     #     page.text = textlib.replaceExcept(text=page.text, old=r"([^a-z'\[\:])('{0,2})(" + modifier + r")\2([^a-z'\]])", new=r"\1''\3''\4", exceptions=regex_modifiers_exceptions, count=0, caseInsensitive=True, site=self.site)
                     #     # page.text = re.sub(r"([^a-z'\[\:])('{0,2})(" + modifier + r")\2([^a-z'\]])", r"\1''\3''\4", page.text, 0, re.IGNORECASE | re.MULTILINE)
                     #     if (pt != page.text):
-                    #         if (len(mod.summary) > 0):
-                    #             mod.summary = mod.summary + " "
-                    #         mod.summary = mod.summary + "Italicize " + modifier + "."
+                    #        log.debug(f"Applied italicization modifier to page '{page.title()}': {modifier}.")
+                    #        mod.summary.append(f"Italicize.")
                     for modifier in regex_modifiers:
-                        pt = page.text
-                        page.text = textlib.replaceExcept(text=page.text, old=modifier[1], new=modifier[2], exceptions=regex_modifiers_exceptions, count=modifier[3], caseInsensitive=modifier[4], site=self.site)
-                        # page.text = re.sub(modifier[1], modifier[2], page.text, modifier[3], flags = modifier[4])
-                        if (pt != page.text):
-                            if (len(mod.summary) > 0):
-                                mod.summary = mod.summary + " "
-                            mod.summary = mod.summary + modifier[0]
+                        premod_text = page.text
+                        # page.text = textlib.replaceExcept(text=page.text, old=modifier[1], new=modifier[2], exceptions=regex_modifiers_exceptions, count=modifier[3], caseInsensitive=modifier[4], site=self.site)
+                        page.text = re.sub(modifier[1], modifier[2], page.text, modifier[3], flags = modifier[4])
+                        if (premod_text != page.text):
+                            log.debug(f"Applied regex modifier to page '{page.title()}': {modifier}.")
+                            mod.summary.append(modifier[0])
                     for modifier in modifiers:
                         if (modifier.process_page(page)):
-                            if (len(mod.summary) > 0):
-                                mod.summary = mod.summary + " "
-                            mod.summary = mod.summary + modifier.summary
+                            log.debug(f"Applied modifier to page '{page.title()}': {modifier}.")
+                            mod.summary.append(modifier.summary)
                     if pre_text != page.text:
                         mod_path = f"{mod_queue_dir_path}/{mod.title}"
                         os.makedirs(mod_queue_dir_path, exist_ok=True)
@@ -249,6 +254,11 @@ class CleanupPages(Command):
                             stderrFilePath=None)
                         all_changes_file.write(subp.stdout)
                         all_changes_file.write("\n")
+                        deduped_summary = []
+                        for line in mod.summary:
+                            if line not in deduped_summary:
+                                deduped_summary.append(line)
+                        mod.summary = " ".join(deduped_summary)
                         if (page.botMayEdit()):
                             log.info(f"{page.title()} needs updating, queuing. Summary: {mod.summary}")
                             mod_queue.append(mod)
@@ -262,7 +272,7 @@ class CleanupPages(Command):
                             pages_noperm += 1
                     match = re.search(r"\/\/wot\.(fandom|wikia)", page.text, re.IGNORECASE | re.MULTILINE)
                     if (match):
-                        log.warning(f"Page '{page.title()}' seems to contain a hard-coded wotwiki link even after cleanup: {match}:   \"{page.text[match.start():match.end()]}\"")
+                        log.warning(f"Page '{page.title()}' seems to contain a hard-coded wotwiki link even after cleanup: {match}:   \"{page.text[max(0, match.start()-20):min(len(page.text), match.end()+20)]}\"")
                         still_dirty.append(page.title())
                 except Exception as e:
                     log.error(f"Error processing page '{page.title()}':", exc_info=True)
@@ -275,7 +285,7 @@ class CleanupPages(Command):
         log.warning(f"Failed pages: {failed_pages}")
         log.debug(f"Failed pages: {failed_pages}")
         log.info(f"Queued pages: {queued_pages}")
-        log.info(f"{page_cnt} pages read. {len(queued_pages)} queued. {pages_noperm} skipped due to perms. {len(failed_pages)} pages produced errors.")
+        self.print_n(f"{page_cnt} pages read. {len(queued_pages)} queued. {pages_noperm} skipped due to perms. {len(failed_pages)} pages produced errors.")
 
     def process_queue(self):
         mod_queue = None

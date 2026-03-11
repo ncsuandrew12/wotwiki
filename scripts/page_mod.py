@@ -6,7 +6,7 @@ import re
 # log = log_utils.get_logger(f"{os.path.basename(__file__)}")
 
 class PageMod():
-    def __init__(self, id, title, summary=""):
+    def __init__(self, id, title, summary=[]):
         self.id = id
         self.title = title
         self.summary = summary
