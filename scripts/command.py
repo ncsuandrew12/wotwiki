@@ -34,10 +34,10 @@ class Command:
             action='count',
             default=Verbosity.NORMAL,
             help="Decrease the verbosity")
-        self.mParsedArgs = parser.parse_args(self.mArgs[1:])
-        self.mParsedArgs.verbosity = self.mParsedArgs.verbose - self.mParsedArgs.quiet
+        self.parsed_args = parser.parse_args(self.mArgs[1:])
+        self.parsed_args.verbosity = self.parsed_args.verbose - self.parsed_args.quiet
 
-        self.set_log_levels(self.mParsedArgs.verbosity)
+        self.set_log_levels(self.parsed_args.verbosity)
 
         try:
             return self.run_command()
@@ -91,7 +91,7 @@ class Command:
 
     def print(self, verbosity, msg):
         log.debug("%s", msg)
-        if self.mParsedArgs.verbosity >= verbosity:
+        if self.parsed_args.verbosity >= verbosity:
             print(msg)
 
     def print_n(self, msg):

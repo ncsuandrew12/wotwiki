@@ -1,24 +1,28 @@
+import inspect
 import json
+import re
 # import log_utils
 
 # log = log_utils.get_logger(f"{os.path.basename(__file__)}")
 
 class PageMod():
-    def __init__(self, id, title):
+    def __init__(self, id, title, summary=""):
         self.id = id
         self.title = title
+        self.summary = summary
     
     def to_dict(self):
         """Convert PageMod object to dictionary for JSON serialization."""
         return {
             'id': self.id,
-            'title': self.title
+            'title': self.title,
+            'summary': self.summary
         }
     
     @classmethod
     def from_dict(cls, data):
         """Create PageMod object from dictionary (for JSON deserialization)."""
-        return cls(data['id'], data['title'])
+        return cls(data['id'], data['title'], data['summary'])
     
     def to_json(self):
         """Convert PageMod object to JSON string."""
@@ -29,3 +33,20 @@ class PageMod():
         """Create PageMod object from JSON string."""
         data = json.loads(json_str)
         return cls.from_dict(data)
+
+class PageModifier():
+
+    def __init__(self, summary):
+        self.summary = summary
+
+    def process_page(self, page):
+        pre_text = page.text
+        self.process_page_logic(page)
+        return pre_text != page.text
+
+    def process_page_logic(self, page):
+        raise Exception("Unimplemented function! Implement {}.{} ({}).".format(
+            self.__class__.__name__,
+            self.process_page.__name__,
+            inspect.getfile(self.__class__)))
+
