@@ -214,3 +214,4 @@ scripts/changes-all.diff
 scripts/changes.diff
 scripts/throttle.ctrl
 scripts/mod_queue/
+scripts/*.log*
