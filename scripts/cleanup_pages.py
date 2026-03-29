@@ -5,6 +5,7 @@
 #('Androlf', BotPassword('androlf-bot', 'putThePasswordHere'))
 
 import argparse
+from fileinput import filename
 import json
 import sys
 import log_utils
@@ -34,56 +35,58 @@ wiki_name = "wot"
 # in the same actual text (e.g. [[Abc|Abcs]] -> [[Abc]]s), but shouldn't allow changes that modify the actual text (e.g.
 # robert jordan -> Robert Jordan)
 
-# spelling_re_modifiers_exceptions = [ 'math', 'nowiki', 'interwiki', "invoke", "property" ]
 # TODO:
 # Basic word misspellings need to exclude pronunciation strings
 # Incorporate all feasible common misspellings: https://wot.fandom.com/wiki/Wotwiki:List_of_common_misspellings
 #   Non-mundane entries from A-G have already been added.
+modifiers_lookbehind = r"(?<!image=)(?<!image\s=)(?<!image\s=\s)(?<!image=\s)(?<!File:)(?<!\w)"
+modifier_makelc_lookbehind = r"(?<![.!?]\s)(?<![*#])(?<![*#]\[\[)(?<![*#]\s\[\[)"
 spelling_re_modifiers = [
-    [ r"(?<!image=)(?<!image\s=)(?<!image\s=\s)(?<!image=\s)(?<!File:)(?<!\w)adam(?!\w)", r"a'dam", 0 ],
-    [ r"Amadican", r"Amadician", re.IGNORECASE ],
-    [ r"(\W)Andorian", r"\1Andoran", re.IGNORECASE ],
-    [ r"Arthur Hawkw{0,1}ing", r"Artur Hawkwing", re.IGNORECASE ],
-    [ r"(\W)[Aa]eil", r"\1Aiel", 0 ],
-    [ r"Atha{1,2}n\smiere", r"Atha'an Miere", re.IGNORECASE ],
-    [ r"(?<!image=)(?<!image\s=)(?<!image\s=\S)(?<!image=\S)(?<!File:)(?<!\w)Ashaman", r"Asha'man", re.IGNORECASE ],
-    [ r"(Ashamen)|(Asha'men)", r"Asha'man", re.IGNORECASE ],
-    [ r"Calandor", r"Callandor", re.IGNORECASE ],
-    [ r"(Carhien)|(Cairhein)", r"Cairhien", re.IGNORECASE ],
-    [ r"(carhienen)|(Cairheinen)|(Cairhienen)", r"Cairhienin", re.IGNORECASE ],
-    [ r"(?<!\w)([Dd])aries(?!\w)", r"\1areis", 0 ],
-    [ r"(?<!\w)([Dd])rakkar", r"\1raghkar", 0 ],
-    [ r"(?<!\w)(genjei)|(ghenji)|(genji)", r"Ghenjei", re.IGNORECASE ],
-    [ r"(?<!\w)ghealdanen", r"Ghealdanin", re.IGNORECASE ],
-    [ r"(?<!\w)([Gg])ohlam", r"\1holam", 0 ],
-    [ r"(?<!\w)(grendahl)|(grendahl)", r"Graendal", re.IGNORECASE ],
-    [ r"(?<!\w)grey ajah", r"Gray Ajah", re.IGNORECASE ],
-    [ r"(?<!\w)([Gg])rey (M[ae]n)", r"\1ray \2", 0 ],
-    [ r"(?<!\w)Kandoran", r"Kandorian", re.IGNORECASE ],
-    [ r"(?<!\[\[es\:)Moraine", r"Moiraine", 0 ],
-    [ r"Perin", r"Perrin", 0 ],
-    [ r"(?<!\w)seige(?!\w)", r"siege", 0 ],
-    [ r"([Ss])hiled", r"\1hield", 0 ],
-    [ r"(?<!\w)(?<!-)teh(?!\w)", r"the", 0 ],
-    [ r"Turok", r"Turak", 0 ],
-]
-# regex_modifiers_exceptions = [ 'comment', 'math', 'nowiki', 'template', 'hyperlink', 'interwiki', 'category', 'file', "invoke", "property" ]
-regex_modifiers = [
-    [ "Wolf dream is two words.", r"(wolf)(dream)", r"\1 \2", 0, re.IGNORECASE ],
-    [ "Dreamspike is one word.", r"(dream)\sspike", r"\1spike", 0, re.IGNORECASE ],
-    # [ "Unnecessary link customization.", r"\[\[([^\]\|]+)\|\1((\'s)|s|(es)){0,1}\]\]", r"[[\1]]\2", 0, re.IGNORECASE ], # Changes are massive. Use of this should wait for a massive change set that includes more valuable changes.
-    # [ "Fix section link Trolloc#Social_Structure -> Trolloc#Trolloc_bands.", r"\[\[Trolloc#Social_Structure\]\]", r"\[\[Trolloc#Trolloc_bands\]\]", 0, re.IGNORECASE ], # Needs to be tested
-    # [ "Companion footnote style.", r"\{\{ref|\{\{twotc\}\},\s*([A-Za-z0-9][^\},]*)(\|[^\}]+){0,1}\}\}", r"\{\{ref/book\|twotc\|\1\2\}\}", 0, re.IGNORECASE ], # Needs to be tested
-    # [ "Converted raw ref tag to template.", r"\<ref\>([^<]+)\</ref\>", r"{{ref|\1}}", 0, re.IGNORECASE ], # Needs to be tested
-    # [ "Converted raw ref tag to template.", r"\<ref name=(\"{0,1})([^\"]+)\1\>([^<]+)\</ref\>", r"{{ref|\3|\2}}", 0, re.IGNORECASE ], # Needs to be tested
-    # Capitalize Shadowspawn, Darkfriend, Forsaken, Aes Sedai, Myrdraal, (NOT Fade), Trolloc
-    # [ "Capitalize Asha'man.", r"asha'man", r"Asha'man", 0, re.IGNORECASE ], # Needs to be tested
+    [ "a'dam", modifiers_lookbehind + r"adam(?![A-Za-rt-z])", r"a'dam", 0 ],
+    [ "Aiel", r"(\W)[Aa]eil", r"\1Aiel", 0 ],
+    [ "Amadician", r"Amadican", r"Amadician", re.IGNORECASE ],
+    [ "Andoran", r"(\W)Andorian", r"\1Andoran", re.IGNORECASE ],
+    [ "Artur Hawkwing", r"Arthur Hawkw{0,1}ing", r"Artur Hawkwing", re.IGNORECASE ],
+    [ "Asha'man", r"(Ashamen)|(Asha'men)", r"Asha'man", re.IGNORECASE ],
+    [ "Asha'man (omitted apostrophe)", modifiers_lookbehind + r"Ashaman", r"Asha'man", re.IGNORECASE ],
+    [ "Atha'an Miere", r"Atha{1,2}n\smiere", r"Atha'an Miere", re.IGNORECASE ],
+    [ "Cairhien", r"(Carhien)|(Cairhein)", r"Cairhien", re.IGNORECASE ],
+    [ "Cairhienin", r"(carhienen)|(Cairheinen)|(Cairhienen)", r"Cairhienin", re.IGNORECASE ],
+    [ "Callandor", r"Calandor", r"Callandor", re.IGNORECASE ],
+    [ "dareis", r"(?<!\w)([Dd])aries(?!\w)", r"\1areis", 0 ],
+    [ "Draghkar", r"(?<!\w)([Dd])rakkar", r"\1raghkar", 0 ],
+    [ "dreamspike", r"(dream)\s+spike", r"\1spike", re.IGNORECASE ],
+    [ "dreamspike (capitalization)", modifier_makelc_lookbehind + r"dreamspike", r"dreamspike", re.IGNORECASE ],
+    [ "Ghealdanin", r"(?<!\w)ghealdanen", r"Ghealdanin", re.IGNORECASE ],
+    [ "Ghenjei", r"(?<!\w)(genjei)|(ghenji)|(genji)", r"Ghenjei", re.IGNORECASE ],
+    [ "gholam", r"(?<!\w)([Gg])ohlam", r"\1holam", 0 ],
+    [ "Graendal", r"(?<!\w)(grendahl)|(grendahl)", r"Graendal", re.IGNORECASE ],
+    [ "Gray Ajah", r"(?<!\w)grey ajah", r"Gray Ajah", re.IGNORECASE ],
+    [ "Gray Man/Men", r"(?<!\w)([Gg])rey (M[ae]n)", r"\1ray \2", 0 ],
+    [ "Kandorian", r"(?<!\w)Kandoran", r"Kandorian", re.IGNORECASE ],
+    [ "Moiraine", r"(?<!\[\[es\:)Moraine", r"Moiraine", 0 ],
+    [ "Perrin", r"Perin", r"Perrin", 0 ],
+    [ "shield", r"([Ss])hiled", r"\1hield", 0 ],
+    [ "siege", r"(?<!\w)seige(?!\w)", r"siege", 0 ],
+    [ "the", r"(?<!\w)(?<!-)teh(?!\w)", r"the", 0 ],
+    [ "Turak", r"Turok", r"Turak", 0 ],
+    [ "wolf dream", r"(wolf)(dream)", r"\1 \2", re.IGNORECASE ],
+    # The extra look behind and look ahead help avoid references to the Perrin's Wolf Dreams page and the Wolf Dreams chapter.
+    [ "wolf dream (capitalization)", modifier_makelc_lookbehind + r"(?<!\[\[Perrin's )wolf dream", r"wolf dream", re.IGNORECASE ], # Needs to be tested
     # [ "Capitalize TAR.", r"tel'aran'rhiod", r"Tel'aran'rhiod", 0, re.IGNORECASE ], # Needs to be tested
     # [ "Lowercase sul'dam.", r"([^\.\!\?]\s|\[)Sul'dam", r"\1sul'dam", 0, re.IGNORECASE ], # Needs to be tested
     # [ "Lowercase damane.", r"([^\.\!\?]\s|\[)Damane", r"\1damane", 0, re.IGNORECASE ], # Needs to be tested
-    # [ "Link AB dates.", r"([^\[])(\d{1,4}) AB([^A-Za-z\]\|])([^\]])", r"\1{{ab|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
-    # [ "Link NE dates.", r"([^\[])(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
-    # [ "Link FY dates.", r"([^A-Za-z\[]])FY (\d{1,4})([^\|\]])", r"\1{{fy|\2}}\3", 0, re.IGNORECASE ], # Needs to be tested
+]
+regex_modifiers = [
+    # [ "Companion footnote style.", r"\{\{ref|\{\{twotc\}\},\s*([A-Za-z0-9][^\},]*)(\|[^\}]+){0,1}\}\}", r"\{\{ref/book\|twotc\|\1\2\}\}", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Converted raw ref tag to template.", r"\<ref\>([^<]+)\</ref\>", r"{{ref|\1}}", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Converted raw ref tag to template.", r"\<ref name=(\"{0,1})([^\"]+)\1\>([^<]+)\</ref\>", r"{{ref|\3|\2}}", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Fix section link Trolloc#Social_Structure -> Trolloc#Trolloc_bands.", r"\[\[Trolloc#Social_Structure\]\]", r"\[\[Trolloc#Trolloc_bands\]\]", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Unnecessary link customization.", r"\[\[([^\]\|]+)\|\1((\'s)|s|(es)){0,1}\]\]", r"[[\1]]\2", 0, re.IGNORECASE ], # Changes are massive. Use of this should wait for a massive change set that includes more valuable changes.
+    [ "Link AB dates.", r"([^\[])(\d{1,4}) AB([^A-Za-z\]\|])([^\]])", r"\1{{ab|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
+    [ "Link FY dates.", r"([^A-Za-z\[]])FY (\d{1,4})([^\|\]])", r"\1{{fy|\2}}\3", 0, re.IGNORECASE ], # Needs to be tested
+    [ "Link NE dates.", r"([^\[])(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
+    [ "Fix Wolf Dreams chapter link", r"(\[\[)wolf dreams([\|\]])", r"\1Wolf Dreams\2", 0, re.IGNORECASE ], # Needs to be tested
 ]
 # italicize_modifiers = [ "Tel'aran'rhiod", "sul'dam", "damane", "ter'angreal", "sa'angreal", "angreal", "grolm", "gholam" ] # Needs to be tested, particulary with respect to words being in filenames and link display text.
 
@@ -208,11 +211,10 @@ class CleanupPages(Command):
                     mod = PageMod(page_id, urllib.parse.unquote(page.title()))
                     for modifier in spelling_re_modifiers:
                         premod_text = page.text
-                        # page.text = textlib.replaceExcept(text=premod_text, old=modifier[0], new=modifier[1], exceptions=spelling_re_modifiers_exceptions, count=0, caseInsensitive=modifier[2], site=self.site)
-                        page.text = re.sub(modifier[0], modifier[1], page.text, 0, flags = modifier[2])
+                        page.text = re.sub(modifier[1], modifier[2], page.text, 0, flags = modifier[3])
                         if (premod_text != page.text):
                             log.debug(f"Applied spelling regex modifier to page '{page.title()}': {modifier}.")
-                            mod.summary.append("Spelling.")
+                            mod.summary.append(f"Spelling ({modifier[0]}).")
                     # for modifier in italicize_modifiers:
                     #     pt = page.text
                     #     page.text = textlib.replaceExcept(text=page.text, old=r"([^a-z'\[\:])('{0,2})(" + modifier + r")\2([^a-z'\]])", new=r"\1''\3''\4", exceptions=regex_modifiers_exceptions, count=0, caseInsensitive=True, site=self.site)
@@ -222,7 +224,6 @@ class CleanupPages(Command):
                     #        mod.summary.append(f"Italicize.")
                     for modifier in regex_modifiers:
                         premod_text = page.text
-                        # page.text = textlib.replaceExcept(text=page.text, old=modifier[1], new=modifier[2], exceptions=regex_modifiers_exceptions, count=modifier[3], caseInsensitive=modifier[4], site=self.site)
                         page.text = re.sub(modifier[1], modifier[2], page.text, modifier[3], flags = modifier[4])
                         if (premod_text != page.text):
                             log.debug(f"Applied regex modifier to page '{page.title()}': {modifier}.")
@@ -260,7 +261,7 @@ class CleanupPages(Command):
                                 deduped_summary.append(line)
                         mod.summary = " ".join(deduped_summary)
                         if (page.botMayEdit()):
-                            log.info(f"{page.title()} needs updating, queuing. Summary: {mod.summary}")
+                            log.info(f"Page '{page.title()}' needs update, queuing. Summary: {mod.summary}")
                             mod_queue.append(mod)
                             queued_pages.append(mod.title)
                             page_id += 1
@@ -268,7 +269,7 @@ class CleanupPages(Command):
                             changes_file.write("\n")
                         else:
                             page.text = pre_text
-                            log.warning(f"{page.title()} needs updating but bot is not allowed to edit it.")
+                            log.warning(f"Page '{page.title()}' needs update but bot is not allowed to edit it. Summary: {mod.summary}")
                             pages_noperm += 1
                     match = re.search(r"\/\/wot\.(fandom|wikia)", page.text, re.IGNORECASE | re.MULTILINE)
                     if (match):
