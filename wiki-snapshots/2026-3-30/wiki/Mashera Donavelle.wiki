@@ -1,0 +1,23 @@
+{{character
+| image=Flame-icon.svg
+| imagesize=250px
+| status=Dead
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| gender=Female
+| ajah=Unknown
+| mentioned={{acos|6}}
+| lastmentioned={{acos|6}}
+}}
+'''Mashera Donavelle''' was an [[Aes Sedai]].
+
+==History==
+[[Faile]] mentions [[Jestian Redhill]], [[Isebaille Tobanyi]] and Mashera Donavelle as examples of Aes Sedai who would do anything the [[White Tower]] told them to do. Mashera bore seven children for a man she loathed.
+
+Other than Elayne, she is the only reference we have to an Aes Sedai becoming pregnant.
+
+{{DEFAULTSORT:Donavelle, Mashera}}
+[[Category:Short pages]]
+[[Category:Historical people]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

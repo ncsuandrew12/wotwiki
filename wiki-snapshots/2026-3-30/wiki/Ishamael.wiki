@@ -1,0 +1,133 @@
+{{character
+| image=Elan Morin Tedronai.jpg
+| imagesize=250px
+| birth=[[Age of Legends]]
+| status=Dead
+| death={{ne|999}}
+| rank=Chosen
+| title=Ba'alzamon
+| height=Tall
+| hair=Black 
+| eyes=Fiery
+| gender=Male
+| appeared={{teotw|Prologue}}
+| lastappeared={{tdr|56}}
+| lastmentioned={{amol|25}}
+}}
+{{quote|Yes, Betrayer of Hope. They gave me the name to revile me, but I will yet make them kneel and worship it.|Ishamael to [[Lews Therin Telamon]]}}
+'''Ishamael''' (ih-SHAH-may-EHL; /ɪˈʃɑ.mɛɪˌɛɫ/; [[Old Tongue]]: ''Betrayer of Hope''), previously known as '''Elan Morin Tedronai''', was the most powerful of the [[Forsaken]] and their ''de facto ''leader during the [[War of Power]]. Later, he was officially granted the title of [[Nae'blis]] and given direct authority over all of the [[Dark One]]'s other followers.
+
+== Appearance ==
+He was a handsome man in his middle years, with dark eyes and cruel looking lips. He had a mellifluous voice.{{ref/book|twotc|Ishamael}}
+
+==Strength==
+In {{twotc}} his level of strength in the One Power is {{opsl|1}}, putting him above all other channelers except [[Rand al'Thor]] and [[Rahvin]]. He was said to have been the only person who matched Lews Therin in power.
+
+== History ==
+=== Age of Legends===
+[[Image:Snake-icon.svg|left|125px]]
+Elan Morin Tedronai was a critically acclaimed philosopher and theologian who wrote several influential books, among them ''Analysis of Perceived Meaning, Reality and the Absence of Meaning,'' and ''The Disassembly of Reason''.{{ref/book|twotc|Ishamael}} Despite his acclaim, his writings and philosophies were often considered too esoteric for popular appeal.
+
+At some point during the waning years of the [[Age of Legends]], a group of [[Aes Sedai]] researchers drilled the [[Bore]] into the Dark One's prison, and caused the [[Collapse]]. Once it became known just what it was that those researchers had unleashed, Elan put forth a theory that the war between the soul of [[Lews Therin]] and the [[Dark One]] had occurred since the beginning of time, recurring at intervals along the [[Wheel of Time]]. This theory led him to believe that, due to the Wheel's cyclical nature, the Dark One would invariably receive an infinite number of chances to escape from his prison. As such, humanity would have to continually fend the Dark One off so long as the Pattern existed, and each victory by humanity simply led to another battle. The Dark One on the other hand would need to win only once, as once he did, that victory would be absolute, for reality itself would be subject to the Dark One's whims once freed. Due to the fact that the Dark One had a theoretically infinite number of chances to win, it became a statistical certainty that he eventually would. However this belief, though logical according to the information he had at the time, was fundamentally flawed. He made the mistake of viewing the Dark One as akin to an incomprehensibly powerful, evil human. In reality, the nature of the Dark One renders it incapable of change, and so incapable of learning. As such, it cannot help but continue to fight as it always has, which has always led to its defeat. However, this information would only come to be realized by Rand al'Thor during his direct interactions with the Dark One at Tarmon Gai'Don.
+
+In accordance with his belief that the Dark One's victory was inevitable, he became one of the first Aes Sedai in the [[Age of Legends]] to publicly declare himself for the Shadow. He announced his betrayal at a conference of [[Aes Sedai]] in the [[Hall of Servants]], informing them of what it was that they faced. His announcement sparked massive riots. He was given the name '''Ishamael''' by the people: Betrayer of Hope. After his conversion to the Shadow, he came to believe that he himself was part of the eternal conflict between the [[Dragon]] and the Dark One, serving throughout the ages as the Dark One's champion. Despite the fact that he appears to be the only human being with the same strength in the One Power as the Dragon, it is not known whether there is any truth to his belief. It has been confirmed however that his soul and that of the Dragon are often spun into the Pattern together.
+
+During the subsequent [[War of Power]], he became the Dark One's greatest champion and foremost representative. At some point during the war, he was named Chief Captain-General of the Shadow, despite the fact that he never held a field command. This title gave him supreme command over the forces of the Shadow and made him the ''de-facto'' leader of the Forsaken. He was defeated in some capacity by Lews Therin at the gates of [[Paaran Disen]], and he was humbled at some point by Lews Therin in the Hall of Servants, though it is not known if either event occurred during the war as Ishamael never personally directed any battles.
+
+===Half-sealed?===
+[[File:Ishamael.JPG|thumb|left|Ishamael, after his release]]
+When the Dark One's prison was sealed, it is thought that Ishamael was only partially sealed behind it (in contrast to [[Aginor]] and [[Balthamel]] who were merely sealed very close to the edge, and thus susceptible to the passage of time). What is known for certain is that his soul was spun out of the Dark One's prison and into the Pattern from time to time after the sealing. In fact, Ishamael was likely not initially bound at all, since he visited Lews Therin Telamon, apparently in person, ''after'' the [[seal]]s on the Dark One's prison had been placed (as Ishamael spoke of the sealing in past tense, and Lews Therin was already mad).{{ref/book|1|p}}
+
+When Ishamael arrived at Lews Therin's home, he discovered to his surprise and delight that Lews Therin had murdered his entire family.{{ref/book|1|14}} After having a mostly one-sided conversation with the insane Lews Therin, Ishamael [[Healing|Healed]] him so that he understood what he had done. This realization caused Lews Therin to commit suicide, leaving a furious Ishamael to wait for him to be reborn.
+
+Aran son of Malan son of Senar{{ref/book|bwb}} (born roughly [[50 AB]]) had a theory based on Ishamael being thrown out and touching the world for specific periods of time. Aran had heard claims that people had encountered him as many as forty years after the sealing of the [[Bore]]. Using lost manuscripts, Aran concluded it may have taken some time for Ishamael to be brought into the prison with the remainder of the [[Forsaken]], and that he was likely "thrown out" in a regular cycle. There is ample evidence to support this hypothesis such as interviews from [[Darkfriend]]s saying that as early as [[983 NE]] they were receiving instructions from someone calling himself '''Ba'alzamon''', which was a title Ishamael was known to have used. It appears likely that the cycle repeats every thousand years, as the [[Trolloc Wars]], [[War of the Hundred Years]] and the events of the current time are all a thousand years apart and Ishamael is known to have played a significant part in all of them. Ultimately, it appears as though, once every thousand years, Ishamael was released from the Dark One's prison for forty year intervals, and he played a key role in destabilizing human civilization each time he was released.
+
+[[File:Forsaken Ishamael.jpg|thumb|right|The [[Forsaken]] Ishamael]]
+
+====Ba'alzamon====
+{{quote|I will never serve you, Father of Lies. In a thousand lives, I never have. I know that. I'm sure of it. Come. It is time to die.|[[Rand al'Thor]]}}
+{{dablink|For other uses of the word "heart," part of the meaning of Ba'alzamon, see [[Heart (disambiguation)|Heart]].}}
+
+Possibly due to his own madness, Ishamael started calling himself '''Ba'alzamon''' ("Heart of the Dark" in the [[Trolloc tongue]]). He was revered by [[Trolloc]]s, feared by [[Myrddraal]], and widely believed to be the [[Dark One]] himself. His first period of liberty from the Dark One's prison occurred right in the middle of the [[Trolloc Wars]], at a time when humanity had begun to hold its own against the Trolloc hordes. He took command of the Shadow's armies, and his presence re-invigorated the Trolloc armies and gave them direction. His most devastating action during the Wars was when he led the Shadow's forces in directly assaulting Manetheren. The attack destroyed Manetheren and allowed the Trolloc armies to ravage nearly all of the Westlands. However, Ishamael disappeared abruptly after forty years, depriving the Shadow of his leadership and allowing forces under the command of Rashima Kerenmosa to push back and ultimately defeat the Trollocs.
+
+[[File:Ba'alzamon.JPG|thumb|right|Ba'alzamon painting done by Todd Cameron Hamilton]]
+
+
+[[Image:Ishamael.jpg|left|thumb|150px|Ishamael portrait done by Seamas Gallagher]]
+
+====Jalwin Moerad====
+In {{Fy|973}}, Ishamael came to [[Artur Hawkwing]]'s court as '''Jalwin Moerad'''.{{ref/book|twotc|Jalwin Moerad}} He became Hawkwing's highest counselor by summer {{Fy|974}}, and held that position until Hawkwing's death in {{Fy|994}}. He set about wrecking that which Hawkwing had built, advising him to dismiss all [[Aes Sedai]] from his service, lay siege to [[Tar Valon]], send his armies across the [[Aryth Ocean]], and refuse Healing on his deathbed.
+
+Jalwin Moerad had a volatile temper, and was believed to be half mad. He was frequently absent for long periods (which led [[Tamika]], Artur's wife, to distrust him) and anyone who inquired about him closely died. He was also openly contemptuous of Aes Sedai. Days after Artur's death, he became counselor to, and then ordered killed, the three closest contenders for the throne (Marithelle Camaelaine, Norodim Nosokawa, and then Elfraed Guitama), one after another. Then, forty years after his appearance, Moerad disappeared, having never aged a day. In his wake however, he left a fragmented number of fiefdoms that had been carved out of Hawkwing's empire, which solidified into individual nations and prevented humanity from forming a unified government. The [[Seanchan]] Empire would also be birthed by Ishamael's machinations, as the troops he ordered sent across the Aryth Ocean would go on to conquer the Seanchan continent and unify it under Artur's son, [[Luthair Paendrag Mondwin]]. 
+
+== Activities ==
+Ishamael's final cycle of freedom occurred as the seals on the Dark One's prison were weakening, resulting in him being permanently released from the Dark One's prison in [[997 NE]]. At some point before the other Forsaken were released, he was informed by the Black Ajah that the Dragon had been reborn. By that time, his overuse of the True Power, possibly combined with his cycles of being thrown out of the Bore, had driven Ishamael completely insane. However, his insanity was a functional one in spite of his delusions. His dependence on the True Power had also warped his body to the point where his eyes and mouth were occasionally replaced by what appeared to be endless caverns of fire, though he maintained his original appearance in all other respects. Learning of the Dragon's rebirth, he used [[Padan Fain]] to locate [[Rand al'Thor]], hoping to come across the Dragon Reborn before he could become dangerous. He hunted Rand relentlessly through his dreams (he also pursued [[Matrim Cauthon]] and [[Perrin Aybara]] until he was certain Rand was the [[Dragon Reborn]]), attempting to turn him to the Shadow. Rand finally confronted him at the [[Eye of the World]] in a [[Dreamshard]] of Ishamael's own making. There, he drew upon the Power in the Eye and severely burned Ishamael, though he did not manage to do any lasting damage. Once he had sufficiently recovered, Ishamael began his pursuit again, culminating in a duel between himself and Rand at [[Falme]]. Through unknown means, he and Rand appeared in the sky above Falme as they dueled, visible to anyone near the city. Ultimately, Rand managed to wound Ishamael with his Power-wrought sword, which melted from the heat of Ishamael's body when it struck him. However, Rand received a far more grievous wound in return, as Ishamael struck him in the side with a quarterstaff,{{ref/book|2|47}} wounding him with an incurable wound which at the end fulfills the following prophecies:
+
+"''The Reborn One, marked and bleeding"''
+
+''[..]''
+
+"''Red on black, the Dragon’s blood stains the rock of Shayol Ghul.''<br />
+In the Pit of Doom shall his blood free men from the Shadow. ''<nowiki/>''
+
+''His blood on the rocks of Shayol Ghul,''<br />
+washing away the Shadow, sacrifice for man’s salvation."''<nowiki/>''
+
+Rand receives no bleeding wound from his fight with Moridin but his old wound on his left side opens and bleeds during the fight.
+
+His third and final confrontation with Rand occurred a few months later in the [[Heart of the Stone]] of [[Tear]]. There, Rand managed to acquire the ''[[sa'angreal]]'' sword ''[[Callandor]]'', and with it, was able to overwhelm Ishamael's own power. Ishamael escapes to ''Tel'aran'rhiod'' through a gateway, though it is not explicitly stated here and Rand does not know, where he chases him. However, the manipulations of "reality" performed by Ishamael are characteristic for ''Tel'aran'rhiod''. Rand faces them intuitively, not knowing what he is doing (maybe thanks to Lews Therin's memories or thanks to ''Callandor)''. This phase of confrontation is rather similar to those between Perrin and Slayer in AMoL 46.{{Ref/book|14|46}} During the end of their battle, Ishamael called directly upon the Dark One to aid him, and was implied to have drawn in so much of the True Power that he could have matched even ''Callandor''. However, before he could use this power to attack Rand, he was impaled by ''Callandor'' through the heart and slain.{{ref/book|3|55}} It was noted afterwards that his body decayed to dust almost immediately after his death, likely due to it having been ravaged by Ishamael's use of the True Power.
+
+[[File:Ishamael.jpeg|thumb|left|Ishamael's face]]
+
+==Resurrection==
+Ishamael was resurrected by the [[Dark One]] into a new body giving him a new name '''[[Moridin]]''' ([[Old Tongue]] for ''death'').
+
+==Talents and Personality==
+{{quote|You were always so full of thoughts, Elan. Your own logic destroyed you, didn't it?|Rand al'Thor to Moridin}}
+Ishamael was incredibly intelligent, and had profound insight into the nature of the [[Wheel of Time]] and the struggle between the [[Dark One]] and the [[Dragon]]. Before the War of Power, he had been a philosopher and theologian of great renown, and was noted for his extraordinarily logical demeanor and way of thinking. He was unique among the Forsaken in that he was the only member of the group who did not join for the promise of power or immortality (at least not per se), but because his logic concluded that the Dark One must inevitably win against the Dragon, and therefore the only path was to join him and rule for a time. All of the other Forsaken believed him to be insane, though some of Ishamael's statements, which were taken to be mad, were in fact simply esoteric beyond what the other Forsaken were capable of understanding (his brief talk on Chaos Theory for example). However, by the time of the Third Age, he was in fact completely mad, and may have even believed that he himself ''was'' the Dark One at times. He was also fairly disdainful of the other Forsaken, regarding them all as fools for not understanding the nature of the Dark One, and for believing that he would hold to his promise of giving them power and immortality. As Ishamael, he appeared to desire power and recognition, both of which he achieved in spades as the Dark One's most favored disciple. This went hand in hand with a desire to demonstrate how pointless he believed fighting against the Dark One was. He also appeared, as numerous other Forsaken were, to have had a desire to prove himself greater than Lews Therin. However, his desire seemed to be at least partially rooted in his idea that he and Lews Therin were each the respective champions of the Dark and the Light, and that they were destined to always battle each other so long as the Wheel turned. He also was noted by [[Moghedien]] as having had a sadistic streak, at least when it came to watching his rivals suffer. As Ishamael, he was once described by Sammael as having been "more than half mad, and less than half human."
+
+When he was later re-incarnated as '''Moridin''', his personality changed drastically. Though his madness was said to have been even greater as Moridin than as Ishamael, he exhibited a preternatural calm most of the time, and appeared to have left both his pride and his desire for power behind him. Additionally, he lost any hint of sadism that he had once had, and took more often than not to simply brooding in silence. Instead, he seemed fatalistically devoted to seeing the Dark One triumph, as he believed that his service to the Dark One would grant him his truest desire; to die so completely that he would never have to be reborn again. This desire was brought on by an overwhelming sense of self-loathing, and utter hopelessness regarding what he saw as the inevitability of the Dark One's victory. This desire was apparently so strong that, rather than being punished upon resurrection like the other re-incarnated Forsaken (both for dying and for impersonating the Dark One), the Dark One deemed that returning Ishamael to life in and of itself was punishment enough. His insanity, therefore, took on an omnicidal tone rather than a power-mad one, as the only thing he wanted was to bring about a permanent end to the world as quickly as possible. However, he did appear to suffer from violent mood swings at times, though they were very, very transient and he tended to regain control very quickly. Several comments from [[Graendal]] suggested that, before his conversion to the [[Shadow]], he may have been much like [[Rand al'Thor]]. Indeed, the two of them, even as mortal enemies, appeared to get along oddly well during their numerous conversations in Dreamshards, and before re-integrating Lews Therin's memories with his own and recovering, Rand nearly destroyed the Pattern in a nihilistic despair similar to Ishamael's own.
+
+Ultimately however, despite understanding a great deal about the nature of the Pattern, he ultimately failed to realize the true nature of the Dark One, having believed that the Dark One would have allowed him the peace of oblivion despite the fact that the Dark One was completely incapable of granting peace or rest of any sort.
+
+Apart from being one of the most powerful male [[channeller|channelers]] - as strong as Lews Therin Telamon - Elan Morin Tedronai was also one of only a few male [[Dreamwalker]]s. He used this talent extensively, communicating his orders to Darkfriends via their dreams. He trapped many Darkfriends in [[Dreamshard]]s to punish their failures, and he also used ''[[tel'aran'rhiod]]'' to lure the three ''[[ta'veren]]''. He also spent much of his leisure time in very subtly twisted Dreamshards. His favorite settings appeared to be realistic places that contained warped or impossible elements. His typical setting involved sitting alone in front of a fireplace that radiated no heat, with disturbingly human-shaped flames and clouds bursting and contorting, and burning rats behind the fireplace. Others involved places like a platform floating on endless water with people chained under the waves, perpetually drowning and being eaten by giant, unseen predators.
+
+Moridin was able to access the True Power, the Dark One's version of the One Power. He was capable of channeling far, far more of it than he could of the One Power, due to his position as the Dark One's favorite Forsaken, and used it to the exclusion of the One Power. This ultimately caused him numerous problems, such as increased insanity, but due to him already being insane, these effects were blunted somewhat, and though he was mad, he was still more than capable of functioning even as Ishamael. His overuse of the True Power also occasionally caused his eyes and mouth to appear as bottomless caverns of flame when his emotions spiked, though this effect ceased when he was resurrected.
+
+He was able to use the True Power to detect both ''[[saidar]]'' and ''saidin''.
+
+==Parallels and trivia==
+
+Ishameal may be a reference to {{Wiki|Ishmael}} in Judeo-Christian Mythology. God promised that Ishmael would rule a kingdom, and each of his 12 sons would be princes. This may be a parallel to the Dark One making Ishamael Nae'blis, with the 12 other Forsaken ruling beneath him.
+
+Ishamael's alias, Ba'alzamon, may be a reference to and combination of {{Wiki|Beelzebub}}, one of the seven princes of Hell, and Ba'al, also one of the seven princes of Hell as well as a name given to several Demons in Christian mythology. Ba'alzamon may also be a reference to the Carthaginian supreme god Ba'al Hamon.
+
+The name Moridin may be an allusion to Mordred, the bastard son and patricide of King Arthur.
+
+Ishamael is a master of the board game ''[[sha'rah]]''.
+
+As Moridin, it appears that he can hear the commands of the Dark One without being at Shayol Ghul. This may not be unique however, as it would seem that Ishamael as Ba'alzamon could communicate with the Dark One in a similar fashion; he appeared to beseech the Dark One for aid in combating ''Callandor'', and he apparently received it. This ability may be connected to his overuse of the True Power.
+
+Ishamael appears to be something of a {{Wiki|nihilist}}, considering his belief in the futility of mankind's struggle against the Dark One and the titles of his books. However, believing there is no hope is not the same as having no belief at all, a common misconception. A nihilist being anarchic, takes away the 'means' to any 'end' (through/from their own perspective) to them-self; namely goalless and chaos seeking.
+
+When channeling, Ishamael appears to use the True Power almost exclusively, despite having the maximum possible level of access to the One Power that a human can achieve unaided. He does this despite the fact that the True Power is said to drive its wielders insane after a time, and how incredibly dangerous it is to use. However, Moridin, being insane already, seems to have no difficulty in either wielding it or combatting its incredibly addictive nature.
+
+It is also noteworthy that his name, Moridin, means "death" in the Old Tongue, and given the Dark One's twisted sense of humor in naming his resurrected followers, renaming Ishamael as Moridin may have been an ironic joke on the part of the Dark One.
+
+Ishamael's character, philosophy and descent into madness parallels the life of Friedrich Nietzsche. Ishamael's belief in a never ending battle between light and dark is similar to Nietzsche's view of eternal return where he fights Lews Therin again and again.
+
+An unofficial soundtrack has been released, based on Rand's first encounter with Ba'alzamon in his dreams. Follow the link to {{Link|https://www.youtube.com/watch?v=xfcfocb8fzI&t=3s|listen on YouTube}}.
+
+==In the television series ==
+In the television series, {{TVlink|Ishamael}} is portrayed by {{TVlink|Fares Fares}}.
+{{notes}}
+[[es:Ishamael]]
+[[Category:Blademasters|{{PAGENAME}}]]
+[[Category:POV character|{{PAGENAME}}]]
+[[Category:Antagonists|{{PAGENAME}}]]
+[[Category:Aes Sedai (Age of Legends)|{{PAGENAME}}]]
+[[Category:Channelers|{{PAGENAME}}]]
+[[Category:Reincarnated|{{PAGENAME}}]]
+[[Category:Unknown nationality|{{PAGENAME}}]]
+[[Category:Philosophers|{{PAGENAME}}]]
+[[Category:Dreamwalkers|{{PAGENAME}}]]

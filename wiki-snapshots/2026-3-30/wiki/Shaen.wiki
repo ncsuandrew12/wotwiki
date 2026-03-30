@@ -1,0 +1,29 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| society=Stone Dog
+| clan=
+| sept=
+| affiliation=Car'a'carn
+| height=
+| hair=
+| status=Alive
+| appeared={{amol|20}}
+| lastappeared={{amol|20}}
+| living=amol
+}}'''Shaen''' is an [[Aiel]] ''[[Shae'en M'taal]]''.{{ref|{{twotc}}, Shaen}}
+
+== Appearance ==
+Shaen has begun wearing the red headband of the ''[[Siswai'aman]]''.
+
+== Activities ==
+Shaen helps scout [[Thakan'dar]] with [[Rhuarc]] and [[Aviendha]].
+
+== Trivia ==
+* Shaen is named for Shane Spears, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{Short}}
+[[Category:Characters named after fans]]

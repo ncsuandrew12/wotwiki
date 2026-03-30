@@ -1,0 +1,23 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Dead
+| occupation=Farmer
+| gender=Male
+| mentioned={{tsr|46}}
+}}
+
+'''Master al'Meara''' was a tabac farmer and shepherd from the [[Two Rivers]]. He was the husband of [[Elnore al'Meara]], and the father of [[Nynaeve al'Meara|Nynaeve]].
+==History==
+Master al'Meara and his wife had one child, a daughter named Nynaeve. He thought of her as the son he never had, and taught her to track, hunt, and fish.{{ref/book|4|46}}
+
+Master al'Meara passed away when his daughter was still young, as did his wife. As an orphan with no immediate family, she was raised by [[Doral Barran]], the [[Wisdom]] of [[Emond's Field]], and became her apprentice.
+
+==In the television series==
+In the television series, {{TVlink|Beerien al'Meara}} is played by actor {{TVlink|Jonathan Hawkins}}.
+
+{{notes}}
+
+{{DEFAULTSORT:al'Meara}}
+[[Category:Two Rivers (people)]]

@@ -1,0 +1,31 @@
+{{RPG}}
+{{Character
+| image=Wheel-icon.svg
+| imagesize=250px
+| occupation =Wisdom
+| title=
+| nationality=Almoth Plain
+| gender=Female
+| build=
+| height=
+| hair=
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| affiliation=
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+}}
+
+'''Cecilia Arens''' is the [[Wisdom]] of [[Aturo's Orchard]].
+== History ==
+Cecilia lives in a small home in a grove to the west of the [[Three Crowns Inn]]. She has been the Wisdom for nearly fifty years, and is loved and respected by all in the village. 
+
+She is a [[wilder]] of great age. She is blind in one eye, and walks with a cane.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{DEFAULTSORT:Arens, Cecilia}}
+{{notes}}
+[[Category:Channelers]]
+[[Category:Wilders]]
+[[Category:Characters only mentioned in the RPG]]

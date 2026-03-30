@@ -1,0 +1,189 @@
+{{#invoke:Books|chapter_nav|book={{PAGENAME}}}}
+[[File:TPODCover.jpg|left|thumb|200px]]'''''The Path of Daggers''''' (abbreviated as '''tPoD''') is the eighth book in ''[[The Wheel of Time]]'' series. It was published by [[wikipedia: Tor Books|Tor Books]] and released on [[wikipedia:October 20|October 20]], [[wikipedia:1998|1998]]. Upon its release, it immediately rose to the #1 position on the ''[[wikipedia:New York Times|New York Times]]'' hardcover fiction [[wikipedia:New York Times bestseller list|bestseller list]], making it the first ''Wheel of Time'' book to reach the #1 position on that list. It remained on the list for the next two months. It is 685 pages long, making it the shortest book in the main series.
+
+The title of the book is a reference to a [[Seanchan]] saying: "On the heights, the paths are paved with daggers."
+{| cellspacing="0" cellpadding="5px" style="border:none;"
+|-
+|'''''<<<''' Previous: [[A Crown of Swords]]''
+| style="text-align:right;" |''Next: [[Winter's Heart]]''' >>>'''''
+|}
+==Plot summary==
+''The Path of Daggers'' consists of a prologue and thirty-one chapters.
+
+[[Elayne Trakand]], [[Nynaeve al'Meara]], [[Aviendha]], and their coalition of channelers use the ''[[ter'angreal]]'' called the [[Bowl of the Winds]] to reverse the unnatural heat brought on by the [[Dark One]]'s manipulation of the climate and then escape a [[Seanchan]] invasion by Traveling to [[Andor]], where Elayne claims the Lion Throne.
+
+[[Perrin Aybara]] moves into [[Ghealdan]] in an attempt to stop [[Masema Dagar]], the self-proclaimed Prophet of the Dragon. At the end of the book, [[Faile Bashere]] is kidnapped by the [[Shaido]] [[Aiel]].
+
+[[Egwene al'Vere]], [[Amyrlin Seat]] of the [[rebel Aes Sedai]], finally manipulates her unruly followers into giving her more control, and they prepare Travel to [[Tar Valon]] to lay siege to the [[White Tower]].
+
+[[Rand al'Thor]], with [[Asha'man]] and [[Illian]]ers, attempts to repel the Seanchan invasion in [[Altara]]. In the end, the Seanchan army and Rand's forces fight to a stalemate when Rand uses ''[[Callandor]]'' on the Seanchan army. By wielding ''Callandor'' alone, the sword makes him temporarily insane, causing much destruction on both armies, leaving them both on the losing end. Returning to [[Cairhien]], Rand is attacked by traitorous Asha'man, led by [[Corlan Dashiva]], who attempted and failed to kill him.
+
+==Notes==
+One of the three primary protagonists, [[Mat Cauthon]], is absent from the book, due to injuries sustained at the end of the previous book, ''[[A Crown of Swords]]''. Robert Jordan had earlier done the same for [[Perrin Aybara]], who had been absent from ''[[The Fires of Heaven]]''.
+
+'''tPoD''' is the first book in the series that finishes with no important achievement of the [[Light]]. Rand is on the run, his mental condition is declining, Faile is kidnapped, Egwene and Elayne are in uncertainty... The only milestone (use of the  Bowl of the Winds and improving weather) in the book is reached in Chapter 5.
+
+{{clear}}
+==Ebook==
+[[File:TPoD ebook cover.jpg|thumb|right|200px|Elyane, Aviendha and Nynaeve around the Bowl.]]
+The ebook of ''The Path of Daggers'' was released on 18 May 2010. The new cover for the ebook was created by Julie Bell. It depicts [[Elayne Trakand]], [[Aviendha]] and [[Nynaeve al'Meara]] around the [[Bowl of the Winds]].
+{{clear}}
+==Statistical Analysis==
+:''See also the [[The Path of Daggers/Statistical analysis|full statistical analysis for this book]].''
+''A Path of Daggers'' consists of a prologue and 31 chapters. These chapters are split up in to 33 different POVs.
+{| class="wikitable" cellpadding="4"
+!POV
+!%
+!Chapters
+|-
+|[[Elayne Trakand]]
+| align="right" |19.29%
+|80% of Ch2, Ch3 through 5, 87% of Ch6, Ch20, and 76% of Ch28
+|-
+|[[Rand al'Thor]]
+| align="right" |16.35%
+|Ch13, 14, 21, 73% of Ch22, 80% of Ch23'''<sup>1</sup>''', 47% of Ch24'''<sup>2</sup>''', 30% of Ch27, and 30% of Ch29
+|-
+|[[Egwene al'Vere]]
+| align="right" |14.40%
+|Ch15, 95% of Ch16'''<sup>3</sup>''', Ch17 through 19, and 15% of Ch30
+|-
+|[[Perrin Aybara]]
+| align="right" |13.97%
+| Ch7, 65% of Ch8, Ch9, 81% of Ch10'''<sup>4</sup>''', and 45% of Ch30
+|-
+|[[Min Farshaw]]
+| align="right" | 5.01%
+|70% of Ch27, and 70% of Ch29'''<sup>5</sup>'''
+|-
+|[[Aviendha]]
+| align="right" |3.80%
+|Ch1
+|-
+|[[Verin Mathwin]]
+| align="right" |3.28%
+|60% of the Prologue
+|-
+|[[Faile Bashere]]
+| align="right" |2.90%
+|22% of Ch8, 19% of Ch10, and 40% of Ch30
+|-
+|[[Seaine Herimon]]
+| align="right" |2.39%
+|74% of Ch26
+|-
+|[[Cadsuane Melaidhrin]]
+| align="right" |2.36%
+|63% of Ch12
+|-
+|[[Ethenielle Kirukon Materasu]]
+| align="right" |1.76%
+|32% of the Prologue
+|-
+|[[Elaida do Avriny a'Roihan]]
+| align="right" |1.58%
+| 85% of Ch25
+|-
+|[[Galina Casban]]
+| align="right" |1.56%
+|52% of Ch11
+|-
+|[[Sevanna]]
+| align="right" |1.45%
+|48% of Ch11
+|-
+|[[Kennar Miraj]]
+| align="right" |1.43%
+|26% of Ch24**
+|-
+|[[Graendal]]
+| align="right" | 1.37%
+|37% of Ch12
+|-
+|[[Toveine Gazal]]
+| align="right" |0.85%
+|26% of Ch26
+|-
+|[[Moridin]]
+| align="right" |0.84%
+|7% of the Prologue, and 14% of Ch2
+|-
+|[[Furyk Karede]]
+| align="right" |0.72%
+|20% of Ch23
+|-
+|[[Assid Bakuun]]
+| align="right" |0.63%
+|27% of Ch22
+|-
+|[[Morgase Trakand]]
+| align="right" |0.62%
+|13% of Ch8
+|-
+|[[Varek]]
+| align="right" |0.59%
+|11% of Ch24
+|-
+|[[Daved Hanlon]]
+| align="right" |0.58%
+|24% of Ch28
+|-
+|[[Chulein]]
+| align="right" |0.55%
+|13% of Ch6
+|-
+|[[Bertome Saighan]]
+| align="right" |0.51%
+|9% of Ch24
+|-
+|[[Davram Bashere]]
+| align="right" |0.35%
+|6% of Ch24
+|-
+|[[Alviarin Freidhen]]
+| align="right" |0.28%
+|15% of Ch25
+|-
+|The [[Gholam]]
+| align="right" |0.18%
+|6% of Ch2
+|-
+|Narrator
+| align="right" |0.14%
+|Ch31
+|-
+|[[Aran'gar]]
+| align="right" |0.11%
+|3% of Ch16
+|-
+|[[Sheriam Bayanar]]
+| align="right" |0.08%
+|2% of Ch16
+|-
+|[[Abaldar Yulan]]
+| align="right" |0.05%
+|1% of Ch24
+|-
+|Quote
+| align="right" |0.02%
+|1% of the Prologue
+|-
+| colspan="3" |&nbsp;
+|-
+| colspan="3" |'''<sup>1</sup>''' Chapter 23 has three points of view, two of which are from Rand al'Thor's POV. His first is 35% of the chapter and his second is 45% of the chapter.
+|-
+| colspan="3" |'''<sup>2</sup>''' Chapter 24 has eight points of view, two of which are from Kennar Miraj's POV and two of which are from Rand al'Thor's POV. For Kennar, his first is 21% of the chapter and his second is 5% of the chapter. For Rand, his first is 26% of the chapter and his second is 21% of the chapter.
+|-
+| colspan="3" |'''<sup>3</sup>''' Chapter 16 has four points of view, two of which are from Egwene al'Vere's POV. Her first is 35% of the chapter and her second is 60% of the chapter.
+|-
+| colspan="3" |'''<sup>4</sup>''' Chapter 10 has three points of view, two of which are from Perrin Aybara's POV. His first is 69% of the chapter and his second is 12% of the chapter.
+|-
+| colspan="3" |'''<sup>5</sup>''' Chapter 29 has three points of view, two of which are from Min Farshaw's POV. Her first is 53% of the chapter and her second is 17% of the chapter.
+|}
+
+----
+{{books}}
+{{Tpod-reread}}
+{{DISPLAYTITLE:''The Path of Daggers''}}
+[[Category:Main Series| 8]]
+[[Category:Books]]

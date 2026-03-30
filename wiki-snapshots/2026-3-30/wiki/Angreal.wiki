@@ -1,0 +1,57 @@
+{| class="fandom-table"
+!Angreal
+![[Sa'angreal]]
+![[Ter'angreal]]
+|}
+[[File:Angreal.JPG|thumb|250px|Painting by Todd Cameron Hamilton]]
+'''''Angreal''''' (ahn-gree-AHL; /ɑŋ.gɹiˈaːɫ/) are objects which allow those who can [[channel]] to draw more of the [[One Power]] than they normally could without harming themselves in the process. 
+
+==Description==
+While all ''angreal'' offer this benefit, they do vary considerably in strength. The amount of additional Power to which they provide access is dependent on both the ''angreal''<nowiki/>'s strength and the channeler's own strength in the Power. The stronger a channeler, the more Power an ''angreal'' provides.
+
+''[[Sa'angreal]]'' are like ''angreal'', but much more powerful. All known ''angreal'' and ''sa'angreal'' can amplify either ''[[saidin]]'' or'' [[saidar]]''; none are known to exist that can be used by both man and woman. [[Callandor|One]] ''sa'angreal ''is known to amplify the [[True Power]] as well.
+
+Most ''angreal'' are constructed with a buffer to protect the user from drawing too much of the Power.
+
+All existing ''angreal'' are left over from the [[Age of Legends]]. The knowledge of their construction was lost during the [[Breaking of the World]], along with the knowledge of creating ''[[ter'angreal]]'', although the making of ''ter'angreal'' has been rediscovered. ''Angreal'' are rare; ''sa'angreal'' are extremely rare.
+
+== Creating an ''angreal'' ==
+Just prior to the [[Last Battle]] it is revealed that a ''ter'angreal'' called a [[Seed]] is used to create ''angreal''. The crafter uses the ''ter'angreal'' to pour the Power for a very long period into an empty vessel. The process is said to greatly weaken the channeler that created the ''angreal'' for several months.{{ref/book|14|9}}
+
+== List of ''angreal'' ==
+It is known that the [[White Tower]] and the [[Stone of Tear]] hold many stores of ''angreal'', as well as ''sa'angreal'' and ''ter'angreal'', but this is a list of ''angreal'' used by individuals at certain points in time.
+
+===Female alignment===
+* A dark ivory carving of a [[Robed woman angreal|woman in flowing robes]], used for a while by [[Moiraine Damodred]].  <!-- note links from summaries of teotw 7 etc -->
+[[File:Rand with angreal.JPG|thumb|left|200px|Rand with the Fat bald man ''angreal (size is incorrect)'']]
+* [[Aviendha]]'s [[amber turtle brooch]] ''angreal'', found with others in Ebou Dar.{{ref/book|8|2}}
+* [[Verin Mathwin]]'s too-many-petaled [[lily brooch]], rather weak in strength.{{ref/book|8|p}}
+* [[Graendal]]'s [[Little Gold Ring]]. Destroyed in Rand's balefire assault on Graendal's fortress.
+* [[Cadsuane Melaidhrin]]'s [[Shrike]] hair ornament.{{ref/book|9|35}}
+* [[Ivory seated woman]] covered by her own hair. Weaker than other ''angreal''.{{ref/book|8|4}}
+* [[Nynaeve al'Meara]]'s [[Gold bracelet]] attached to four gold finger rings with chains. Of considerable strength.{{ref/book|8|4}}
+* A stone figurine of a woman, naked except for her hair, last seen in the ''[[Tel'aran'rhiod]]'' reflection of the [[Panarch]]'s palace museum in [[Tanchico]].{{ref/book|4|11}}
+[[File:Fat bald man.JPG|thumb|The fat bald man ''angreal (size is incorrect)'']]
+* A small dark [[ivory bracelet]] in the shape of an acrobat bent backwards so his wrists are tied to his ankles; currently in Moiraine's possession. It is nearly strong enough to be a ''sa'angreal''.{{ref/book|5|52}}
+* Graendal's small, carved [[ivory knife]]. Obtained in a trade with [[Mesaana]] for information.{{ref/book|13|Epilogue}}
+* An undetailed ''angreal'' confiscated from [[Adelorna]]'s quarters.{{ref/book|7|32}}
+* An undetailed ''angreal'' confiscated from [[Josaine]]'s quarters.{{ref/book|7|32}}
+* An ''angreal'' in the shape of a glove. It is seen into the ''angreal'' deposit in the basements during the Seanchan raid against the White Tower
+* A stone flower brooch used by [[Siuan]] to [[heal]] the injured ones after the [[Shara]]ns attack to the Aes Sedai camp in [[Kandor]]{{ref/book|14|21}}
+
+===Male alignment===
+* A shiny green stone carving of a [[Fat bald man angreal|fat bald man]] with a sword; found by [[Rand al'Thor]] in the Stone of Tear, thought lost during Rand's captivity by the Aes Sedai.{{ref/book|4|22}} Recovered at Dumai's Wells by Rand and given to Logain during the [[Last Battle]].
+* In the second book{{ref/book|2|29}}, among [[Bayle Domon]]'s collection of antiquities, there was a statuette, an ivory carving of a man holding a sword, which is suspected to be a male ''angreal'', because of its shape and also because it felt strangely warm when some men touched it. This statuette could also be a ''[[ter'angreal]]''.
+
+==See also==
+* ''[[Sa'angreal]]''
+* ''[[Ter'angreal]]''
+
+== External links ==
+*{{TVlink|Angreal}} on {{TVlink}}
+
+{{Notes}}
+{{DISPLAYTITLE:''Angreal''}}
+[[es:Angreal]]
+[[Category:Angreal| ]]
+[[Category:Items of Power]]

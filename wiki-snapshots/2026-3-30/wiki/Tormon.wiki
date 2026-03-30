@@ -1,0 +1,17 @@
+{{character
+| image=IllianFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Illianer
+| occupation=Merchant
+| gender=Male
+| mentioned={{wh|9}}
+| lastmentioned={{wh|9}}
+| living=wh
+}}
+'''Tormon''' is a merchant from [[Illian]].
+
+==Activities==
+Tormon brought news to [[Caemlyn]] that a [[Borderlands|Boarderlander]] army was camped in the [[Braem Wood]].{{ref/book|9|9}}
+
+{{notes}}

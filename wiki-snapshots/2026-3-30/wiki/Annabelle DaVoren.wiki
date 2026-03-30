@@ -1,0 +1,28 @@
+{{Character
+| image=Wheel-icon.svg
+| imagesize=250px
+| occupation =Farmer
+| title=
+| nationality=Almoth Plain
+| gender=Female
+| build=
+| height=
+| hair=
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| affiliation=
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+}}
+
+'''Annabelle DaVoren''' is a farmwife from [[Aturo's Orchard]].
+== History ==
+Annabelle is married to [[Fenton DaVoren]]. They have two children, [[Tobias DaVoren|Tobias]] and [[Issa DaVoren|Issa]].
+
+The town is attacked by [[Whitecloaks]], and the farm is left in ruin.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{DEFAULTSORT:DaVoren, Annabelle}}
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]

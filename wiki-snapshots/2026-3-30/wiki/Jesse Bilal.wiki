@@ -1,0 +1,52 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Unknown nationality
+| gender=Female
+| rank=Aes Sedai
+| title=[[First Chair]]
+| affiliation=White Tower
+| mentioned={{loc|27}}
+| appeared={{tgs|43}}
+| lastappeared={{tgs|43}}
+| living=tgs
+| status=Alive 
+|birth = 752 NE|eyes = Dark}}'''Jesse Bilal''' is an [[Aes Sedai]] of the [[Brown Ajah]], and is [[First Chair]] of the [[Brown Ajah Council]]{{Ref/book|6|27}}.
+==Appearance==
+Jesse is 5' 11" tall and wiry, resembling a sparrow, but she is much stronger physically than she looks. Her hair is grey with a little black, her eyes are small and dark.{{ref|{{twotc}}, Jesse Bilal}}
+
+She has a habit of tilting her head to one side when she is studying something in front of her, and a habit of tapping two or three fingers on her lips while thinking. She is very intent on whatever she focused on; some people think she focused so intently as not to notice other things around her, but they are mistaken.
+
+She is a very forceful woman, especially for a Brown.
+
+==Strength and Abilities==
+Jesse has a strength in the [[One Power]] of {{opsl|27}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+==History==
+Jesse is 248 years old. She was born in the year {{ne|752}} and went to the [[White Tower|Tower]] in {{ne|768}}. After spending eleven years as [[novice]] and ten as [[Accepted]] she was raised to the shawl in the year {{ne|789}}. She was elected Sitter in the year {{ne|905}} until {{ne|927}} and later served as head of the Brown Ajah Council.
+
+Jesse is one of a few characters who are definitely identified early as not [[Darkfriend]]s, because [[Alviarin Freidhen]] has stated that [[Galina Casban]] was the only Ajah Head to be a member of the [[Black Ajah]].{{Ref/book|8|25}}
+
+==Activities==
+She remained loyal to the [[White Tower]] during the [[White Tower Schism|Schism]].{{Ref/book|6|27}}
+
+Jesse insisted that [[Nesune Bihara]] be one of the sisters in the Tower embassy to the [[Dragon Reborn]].{{Ref/book|6|27}}
+
+She was seen meeting secretly with some of the other [[Ajah Heads]] such as [[Ferane]] and [[Suana]].{{Ref/book|9|p}} She was very displeased that the Sitter [[Janya]] went to the [[Rebel Aes Sedai|rebels]] on her own, without a word to her Ajah Head.
+
+Jesse personally picked [[Juilaine]] to be the new Brown Sitter without following the normal procedures.{{Ref/book|10|p}}
+
+Later it is revealed that when [[Elaida]]'s coup deposed [[Siuan]] and the rebels escaped to [[Salidar]], the Ajah Heads were caught by surprise, but nevertheless they decided to take advantage of the situation and intervened, taking it upon themselves to rule, as had happened in the past, and to bring the Rebel Aes Sedai back into the fold.
+
+It was Jesse herself that suggested the so called [[Too Young Sitters]] conspiracy. In fact, following the split in the Tower, Jesse suggests to [[Adelorna]] , [[Ferane]], [[Serancha]] and [[Suana]] to send the youngest Sitters of their own Ajahs to the rebels in an attempt to control them and bring about a reunification of the Tower. To temporarily replace these Sitters, they chose young sisters whom they think they can control or, in the cases of Suana and Ferane, to replace the other Sitters themselves.{{Ref/book|12|43}}
+
+After [[Elaida do Avriny a'Roihan|Elaida]] was captured by the [[Seanchan]], they acknowledged to one another that their plans had backfired. Furthermore, they also decided the Tower needed a strong, capable [[Amyrlin]], and agreed on [[Egwene al'Vere]], ending the [[White Tower Schism]].{{Ref/book|12|43}}
+
+{{notes}}
+{{DEFAULTSORT:Bilal, Jesse}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,49 @@
+{{ character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=Aisha
+| ajah=Gray
+| nationality= Illianer
+| rank=Aes Sedai
+| gender=Female
+| eyes=Brown, Soft
+| build= Stout
+| status=Dead
+| death={{ne|979}}
+| affiliation=White Tower
+| mentioned={{ns|7}}
+| appeared={{ns|8}}
+| lastappeared={{ns|8}}
+| lastmentioned={{ns|18}}
+}}
+'''Aisha Raveneos''' was an [[Aes Sedai]] of the [[Gray Ajah]].
+
+==Appearance and Personality==
+She was stout and had soft, brown eyes. She was a plain-faced woman who wore wore a wealth of jewelry, earrings with large firedrops, long necklaces of both emeralds and rubies, but only the golden Great Serpent for a finger ring.{{ref/book|0|8}} 
+
+She was reputed to "adhere to the strictest letter of the law no matter her own feelings, whether pity or contempt".{{ref/book|0|7}} 
+
+== Strength ==
+With a level of {{ops|20}}, she was [[Strength in the One Power among Aes Sedai|very strong]] in the One Power for an Aes Sedai.{{ref/book|c|Aisha Raveneos|comp}}
+
+==History==
+She was born in the year {{ne|698}} and went to the Tower in {{ne|714}}. After spending seven years as novice and six as Accepted she was raised to the shawl in the year {{ne|727}}.
+
+Her name indicates that she was an [[Illianer]], although the one line of dialogue she has in the books does not show an obvious Illianer accent.{{ref/book|0|8}} 
+
+She had a [[Warder]].{{ref/book|0|17}} 
+
+She was one of the women chosen to be [[Tamra Ospenya's Searchers]] for the [[Dragon Reborn]]. She was the second woman to whom Tamra sent a letter.{{ref/book|0|7}} 
+
+Prior to [[Moiraine Damodred]]'s test for the shawl, she has a lesson with Aisha in which she is closely questioned on the differences in the structure of law in [[Shienar]] and [[Amadicia]].{{ref/book|0|17}} 
+
+She was supposedly killed by bandits in [[Murandy]], though in actual fact she was assassinated by the [[Black Ajah]].{{ref/book|0|7}}{{ref||comp}} Aisha was 280 years old when she died, making her one of the oldest known Aes Sedai.
+
+== Similarity to [[Meilyn Arganya]] ==
+
+Aisha and [[Meilyn Arganya]] share several similarities. They were born in the same year, went to the Tower in the same year, spent the same number of years as novice and Accepted, and were raised to the shawl in the same year. Both were also among the strongest contemporary Aes Sedai when raised, and both were among [[Tamra Ospenya's Searchers]].
+
+{{DEFAULTSORT:Raveneos, Aisha}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

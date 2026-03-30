@@ -1,0 +1,216 @@
+{{summary | book=6 | ewot=prologue | tarvalonwiki=Lord_of_Chaos:_Prologue
+|prev=The Fires of Heaven/Chapter 56
+|title=The First Message
+|icon=Wheel
+|setting=[[Emond's Field]], [[White Tower]], [[Shayol Ghul]], [[Salidar]], [[Cairhien (city)]], [[Amadicia]]
+}}
+
+== Summary ==
+
+:{{pov|[[Demandred]]}}
+Demandred arrives at [[Shayol Ghul]] in response to a summons from the Great Lord of the Dark. [[Constructs]] are making new blades for [[Myrddraal]], but it requires a human victim for each, and they do not have many victims available. A Myrddraal much taller than normal addresses Demandred and calls itself [[Shaidar Haran]] which means Hand of the Dark. Inside the mountain is a point where a thinness in the pattern allows him to sense his master. Demandred passes on the information he has which is that [[Rahvin]] is dead, [[Lanfear]] has vanished and [[Moghedien]] did not meet with [[Graendal]] as planned. The [[Dark One|Great Lord]] is aware that [[Asmodean]] is now dead, branded by him a traitor. Demandred receives his orders.
+
+:{{pov|[[Nynaeve al'Meara]]}}
+Nynaeve is examining [[Siuan]] and [[Leane]] to see if she can figure out what needs to be healed to reverse their [[stilling]]. Normally Nynaeve can't [[channel]] unless angry. Today she is using the ''[[a'dam]]'' which links her to Moghedien, allowing her to use the [[Forsaken]]'s channeling ability.{{ref|The ''a'damm'' was made by Elayne from [[Birgitte]]'s silver arrow.}} In [[Salidar]], Moghedien is known as [[Marigan]], a widow with two young children, but that is just a pretense. Siuan is very pessimistic about the possibility of being [[Healed]] and believes the effort is a waste of time.
+
+[[Elayne]] enters and is furious because an embassy is being sent to [[Rand]] in [[Caemlyn]] but she isn't allowed to go. Siuan reveals that nine Aes Sedai are being sent as an emissary to Rand.{{ref|[[Berenicia Morsad]], [[Demira Eriff]], [[Faeldrin Harella]], [[Kairen Stang]], [[Masuri Sokawa]], [[Merana Ambrey]], [[Rafela Cindal]], [[Seonid Traighan]], and [[Valinde Nathenos]].}} Elayne also refuses to believe that her mother is dead, even though there aren't any rumors that she is alive or trying to regain her throne. She is told that [[Min]] will be going too, which irks Elayne since both of them are in love with Rand.
+
+By rights, Moghedien should be turned over to the [[Aes Sedai]], followed shortly by a trial and execution. But Elayne and Nynaeve are learning things from the [[Age of Legends]] that they believe are worth the delay. Moghedien claims the unnatural heat across the land is the Dark One's work.
+
+:{{pov|[[Elayne Trakand]]}}
+Elayne decides she needs to find Min so they can have a talk about Rand. She is stopped in the street by [[Janya]] and [[Anaiya]] who praise her for the discoveries she is making with the [[One Power]]. With the exception of Elayne's ability to make ''[[ter'angreal]]'', all their discoveries have come from Moghedien, but Janya and Anaiya don't know that. 
+
+Min was worried that getting the chance to go to Rand might change the friendship between her and Elayne. Elayne assures her that won't happen. They talk for a while as friends until Min needs to leave.
+
+:{{pov|[[Faile Bashere]]}}
+Faile is holding court in the greatroom of her new house and is vexed that [[Perrin]] is avoiding the duty, again. The [[Two Rivers]] is changing, with many refugees from [[Almoth Plain]] and [[Tarabon]] crossing the [[Mountains of Mist]], bringing new skills to the region. Faile settles a number of issues and begins to adjourn when the four Two Rivers [[Wisdom]]s arrive. [[Daise Congar]] tells Faile that [[Ewin Finngar]], [[Elam Dowtry]], and [[Dav Ayellin]] have run off to see the world after hearing Perrin's stories. The unnatural weather worries the Wisdoms and they don't know how to reassure the people that look to them for answers. Faile just tells them to go on as Two Rivers people have always gone on when troubles come along.
+
+Faile tries to remind Perrin he has a duty to the Two Rivers people and needs to act more like a lord. He agrees about duty, but mentions he feels Rand's ''[[ta'veren]]'' nature tugging at him. Perrin plans to slip away quietly while Faile decides she will go with him and have a proper escort too.
+
+:{{pov|[[Gawyn Trakand]]}}
+Gawyn is reviewing the defensive positions of the [[Younglings]] under his command in advance of a meeting between Aes Sedai and [[Shaido]] [[Wise One]]s. The Aes Sedai Gawyn escorts are going to [[Cairhien]] to request that the [[Dragon Reborn]] return with them to [[Tar Valon]]. A traveling [[peddler]] comes along and Gawyn asks him for news, then almost strangles him when he learns that Rand has taken Caemlyn and [[Morgase]] is dead―at Rand's hands, rumor has it. If the rumors are true, then he intends to kill Rand.
+
+:{{pov|[[Katerine Alruddin]]}}
+Katerine is contemptuous of [[Sevanna]] and the Shaido Aiel as they conclude a treaty. Sevanna wants to see Rand after he is captured, though, before it is final. Katerine wonders if the Shaido can be used to eliminate Gawyn and the Younglings since they are a bit too independent for [[Elaida]]. She chats with [[Galina Casban]], the head of the [[Red Ajah]] and also a fellow member with her in the [[Black Ajah]].
+
+:{{pov|[[Sevanna]]}}
+Sevanna leads the Shaido as the widow of the last two [[clan chief]]s. She has also managed to be declared a Wise One even though she has not had the training. She plans to lead the Shaido in conquest over all of the wetlanders. Key to her plans is to have Rand chained at her feet. She met with an unknown man{{ref|This was [[Sammael]].}} who gave her some type of device{{ref|A [[call box]].}} that a Wise One that can channel can activate, to use when they have captured Rand.
+
+:{{pov|[[Morgase Trakand]]}}
+Morgase is meeting with the king of [[Amadicia]], [[Ailron]], looking for aid in regaining her throne from [[Gaebril]]. After Ailron leaves her, [[Tallanvor]] suggests they should have gone to [[Ghealdan]] instead of Amadicia. Morgase tries to put him in his place as a guard of the queen, but he ignores the supposed difference in their positions. [[Basel Gill]] and [[Lamgwin]] guard the door to her rooms. Inside [[Lini]] gives advice to Morgase while [[Breane]] listens.
+
+[[Pedron Niall]] enters with just a bare knock on the door. He says he is not here to arrest her which reminds Morgase that even though she is very weak and rarely successful at channeling, it is still against the law in Amadicia. Niall tells her that Ailron will never give her the aid she seeks, but the [[Children of the Light]] have the resources to help her. He also tells her that the [[False Dragon]], Rand al'Thor, has killed Gaebril and now holds Caemlyn. Niall believes that Rand is a false dragon and that Aes Sedai do his channeling.
+
+A young man brings in some cold punch. He is [[Paitr Conel]]{{ref|This is the same Paitr that approached Rand and [[Mat]] in [[Market Sheran]]. See ''[[The Eye of the World]]'' [[The Eye of the World/Chapter 33|Chapter 33]].}} and offers to help Morgase escape from the Whitecloaks. His uncle Jen Conel will think up a way to get her away. 
+
+:{{pov|[[Pedron Niall]]}}
+Niall doesn't believe in the Dragon Reborn, and not really even in the Dark One and expects the [[Last Battle]] to just be a fight with many [[Trollocs]] and other [[Shadowspawn]]. He intends to unite the nations of the West against Rand al'Thor so that they are ready for the next Trolloc invasion. [[Jaichim Carridin]] is waiting for an audience and they enter his office. They discuss the Aes Sedai in Salidar, but Niall has decided to leave them alone. Carridin will be sent to [[Altara]], but not to Salidar.
+
+:{{pov|[[Mesaana]]}}
+Mesaana and [[Semirhage]] are waiting for Demandred to arrive with a message from the Great Lord. Mesaana is building a tower out of dominoes and Semirhage is knitting. Demandred finally arrives, then [[Graendal]] right after but Sammael refuses to come. Demandred says that their strongholds are well-suited to the Great Lord's current purposes.{{ref|Mesaana is in the [[White Tower]] and [[Semirhage]] is in [[Seanchan (continent)|Seanchan]].}} Demandred's message from the Great Lord was in part to "Let the Lord of Chaos Rule."
+
+:{{pov|[[Osan'gar]]}}
+Osan'gar is amazed that he is awake, even if he must use a different name than he used before. [[Aran'gar]] is in a similar situation but she seems irritated and is pacing the room. [[Shaidar Haran]] arrives in the room to give them their instructions. They were both [[Chosen]] that were killed and brought back by the Great Lord.{{ref|Osan'gar is the reincarnation of [[Aginor]], while Aran'gar is the reincarnation of [[Balthamel]].}} They are given missions and sent out to fulfill them.
+
+==Characters==
+* [[Demandred]]
+* [[Shaidar Haran]]
+* [[Dark One]]
+* [[Nynaeve al'Meara]]
+* [[Siuan Sanche]]
+* [[Leane Sharif]]
+* [[Elayne Trakand]]
+* [[Moghedien]] as [[Marigan]]
+* [[Birgitte Silverbow]]
+* [[Morgase Trakand]]
+* [[Perrin Aybara]]
+* [[Min Farshaw]]
+* [[Jaril]] young boy
+* [[Seve]] young boy
+* [[Gareth Bryne]]
+* [[Anaiya]]
+* [[Janya Frende]]
+* [[Faile Aybara]]
+* [[Sharmad Zeffar]]
+* [[Rhea Avin]]
+* [[Cenn Buie]]
+* [[Jon Ayellin]]
+* [[Thad Torfinn]]
+* [[Espara Soman]] Apprentice Wisdom
+* [[Liale Mosrara]] weaver
+* [[Daise Congar]]
+* [[Edelle Gaelin]]
+* [[Elwinn Taron]]
+* [[Milla al'Azar]]
+* [[Therill Marza]] Seamstress
+* [[Gwil]]
+* [[Hal]] Perrin's servant
+* [[Tam al'Thor]]
+* [[Aram]]
+* [[Loial]]
+* [[Gawyn Trakand]]
+* [[Jisao Hamora]]
+* [[Benji Dalfor]]
+* [[Hal Moir]]
+* [[Arwin]]
+* [[Coiren Saeldain]]
+* [[Mil Tesen]] Peddler
+* [[Katerine Alruddin]]
+* [[Sevanna]]
+* [[Erian Boroleos]]
+* [[Nesune Bihara]]
+* [[Galina Casban]]
+* [[Therava]]
+* [[Desaine]]
+* [[Ailron]]
+* [[Tallanvor]]
+* [[Basel Gill]]
+* [[Lamgwin Dorn]]
+* [[Lini Eltring]]
+* [[Breane Taborwin]]
+* [[Paitr Conel]]
+* [[Balwer]]
+* [[Carridin]]
+* [[Mesaana]]
+* [[Semirhage]]
+* [[Graendal]]
+* [[Osan'gar]]
+* [[Aran'gar]]
+
+===Referenced===
+* [[Rahvin]]
+* [[Lanfear]]
+* [[Asmodean]]
+* [[Moghedien]]
+* [[Lan Mandragoran]]
+* [[Elaida a'Roihan]]
+* [[Rand al'Thor]]
+* [[Sheriam Bayanar]]
+* [[Moiraine Damodred]]
+* [[Egwene al'Vere]]
+* [[Mat Cauthon]]
+* [[Tiana Noselle]]
+* [[Logain Ablar]]
+* [[Carenna]]
+* [[Wil al'Seen]]
+* Master [[Hornval]] Roofer
+* [[Haral Luhhan]]
+* [[Pel Aydaer]]
+* [[Davram Bashere]]
+* [[Calle Coplin]]
+* [[Tenobia si Bashere Kazadi]]
+* [[Dav Ayellin]]
+* [[Ewin Finngar]]
+* [[Elam Dowtry]]
+* [[Abell Cauthon]]
+* [[Eamon Valda]]
+* [[Pedron Niall]]
+* [[Couladin]]
+* [[Suladric]]
+* [[Verin Mathwin]]
+* [[Dyelin Taravin]]
+* [[Galad Damodred]]
+* [[Jen Conel]] Paitr's uncle
+* [[Guaire Amalasan]]
+* [[Artur Hawkwing]]
+* [[Lews Therin]]
+* [[Sammael]]
+
+===Groups===
+* [[Myrddraal]]
+* [[Shadow-Forger]]
+* [[Black Ajah]]
+* [[Whitecloaks]]
+
+==Places==
+* [[Shayol Ghul]]
+* [[White Tower]]
+* [[Thakan'dar]]
+* [[Pit of Doom]]
+* [[Salidar]]
+* [[Caemlyn]]
+* [[Emond's Field]]
+* Road from [[Tar Valon]] to [[Cairhien (city)]]
+* [[Amador]]
+
+===Referenced===
+* [[Borderlands]]
+* [[Andor]]
+* [[Altara]]
+* [[Murandy]]
+* [[Tear]]
+* [[Cairhien]]
+* [[Two Rivers]]
+* [[Ghealdan]]
+* [[Samara]]
+* [[Falme]]
+* [[Mountains of Mist]]
+* [[Almoth Plain]]
+* [[Tarabon]]
+* [[Arad Doman]]
+* [[Saldaea]]
+* [[Toman Head]]
+* [[Watch Hill]]
+* [[Deven Ride]]
+* [[Baerlon]]
+* [[Taren Ferry]]
+* [[Ebou Dar]]
+* [[Westwood]]
+* [[Manetheren]]
+* [[Tar Valon]]
+* [[Spine of the World]]
+* [[Rhuidean]]
+* [[Amadicia]]
+* [[Jehannah]]
+* [[Market Sheran]]
+* [[Tanchico]]
+* [[Illian]]
+
+==Items==
+
+===Referenced===
+* [[Dream ter'angreal|Dream ''ter'angreal'']]
+* [[Horn of Valere]]
+
+{{notes}}
+{{DISPLAYTITLE|''The First Message''<br/><br/><small>Lord of Chaos/Prologue</small>}}

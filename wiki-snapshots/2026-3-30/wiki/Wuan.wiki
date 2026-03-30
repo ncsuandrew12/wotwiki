@@ -1,0 +1,26 @@
+{{ character
+| image=CotL.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Male
+| affiliation=Children of the Light
+| occupation=Soldier
+| status=Alive
+| hair=Yellow
+| appeared={{tgh|29}}
+| lastappeared={{tgh|29}}
+| living=tgh
+}}'''Wuan''' is a soldier of the [[Children of the Light]].{{ref|{{twotc}}, Wuan, Child}}
+
+==Appearance==
+He has a pretty face and a yellow beard.
+
+==History==
+He is young and left-handed.
+
+==Activities==
+On arrival to the [[Almoth Plain]], [[Geofram Bornhald]] was forced to relinquish some of his men, including Child Wuan, to take orders from the [[Questioner]]s.
+
+Later, Wuan took part in the terrorizing of one of the villages on Almoth Plain, hanging around thirty men, women, and children while disguised as [[Taraboner]]s. Bornhald rightly finds these actions disgusting and shocking.
+
+{{notes}}

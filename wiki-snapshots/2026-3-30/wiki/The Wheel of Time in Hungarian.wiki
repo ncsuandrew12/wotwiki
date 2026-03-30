@@ -1,0 +1,84 @@
+''For a summary of all translated versions of The Wheel of Time see [[The Wheel of Time translations]].''
+
+The Wheel of Time in Hungarian is ''Az Idő Kereke''. It has been published by both Beholder and Delta Vision in Hungary, mainly with each corresponding English volume split into two. Each part is simply named ''első kötet'' and ''második kötet'' (volume one and volume two), along with the Hungarian translation of the book titles. Translators for the project are listed as Dr. Attila Würth, Alíz Radnóti, Csaba A. Varga, Tamás Bátori, Ágnes Körmendi and Béla Csaba Varga. Publication began in 1998.<ref name=wikihun>[https://hu.wikipedia.org/wiki/Az_Id%C5%91_Kereke Wheel of Time on Hungarian Wikipedia]</ref>
+
+==Book titles==
+The book titles in Hungarian, their first publication date, translator and publisher(s) is as follows:<ref name=wikihun></ref>
+* '''New Spring''' ''Új tavasz'': Körmendi, Ágnes; Beholder (2005)
+#'''The Eye of the World''' ''A világ szeme'': Würth Attila; Beholder (1998)
+# '''The Great Hunt''' ''A nagy hajtóvadászat'': Würth, Attila; Beholder (1999)
+# '''The Dragon Reborn''' ''Az újjászületett Sárkány'': Radnóti, Alíz; Beholder (2000 )
+# '''The Shadow Rising''' ''Hódít az árnyék'': Radnóti, Alíz; Beholder (2000)
+# '''The Fires of Heaven''' ''Mennyei tűz'': Radnóti, Alíz, Varga, Csaba; Beholder (2001)
+# '''Lord of Chaos''' ''A káosz ura'': Bátori, Tamás; Beholder (2001–2002)
+# '''A Crown of Swords''' ''A kardok koronája'': Körmendi, Ágnes; Beholder (2002)
+# '''The Path of Daggers''' ''A tőrök útja'': Körmendi, Ágnes; Beholder (2003)
+# '''Winter's Heart''' ''A tél szíve'': Körmendi, Ágnes; Beholder (2003)
+# '''Crossroads of Twilight''' ''Az alkony keresztútján'': Körmendi, Ágnes; Beholder (2004)
+# '''Knife of Dreams''' ''Álmok tőre'': Körmendi, Ágnes; Beholder (2006)
+# '''The Gathering Storm''' ''Gyülekező fellegek'': Körmendi, Ágnes; Delta Vision (2012)
+# '''Towers of Midnight''' ''Az éjfél tornyai'': Varga, Béla; Delta Vision (2012)
+# '''A Memory of Light''' ''A fény emlékezete'': Varga, Béla; Delta Vision (2014)
+
+==Book covers==
+
+===Delta Vision===
+These versions use the same art as the ebook versions in English, with the exception of The Eye of the World and The Great Hunt. They also have different backgroud colours than the English editions. Each volume is split into two parts with the same illustration.
+<gallery captionalign=center>
+File:NS dvision.jpg|New Spring
+File:TEotW dvision.jpg|The Eye of the World
+File:TGH dvision.jpg|The Great Hunt
+File:TDR dvision.jpg|The Dragon Reborn
+File:TSR dvision.jpg|The Shadow Rising
+File:TFoH dvision.jpg|The Fires of Heaven
+File:LoC dvision.jpg|Lord of Chaos
+File:ACoS dvision.jpg|A Crown of Swords
+File:PoD dvision.jpg|The Path of Daggers
+File:WH dvision.jpg|Winter's Heart
+File:CoT dvision.jpg|Crossroads of Twilight
+File:KoD dvision.jpg|Knife of Dreams
+File:TGS dvision.jpg|The Gathering Storm
+File:ToM dvision.jpg|Towers of Midnight
+File:AMoL dvision.jpg|A Memory of Light
+</gallery>
+
+===Beholder===
+<gallery captionalign=center>
+File:NS beholder.jpg|New Spring
+File:TEotW pt1 beholder.jpg|The Eye of the World (Vol 1.)
+File:TEotW pt2 beholder.jpg|The Eye of the World (Vol 2.)
+File:TGH pt1 beholder.jpg|The Great Hunt (Vol 1.)
+File:TGH pt2 beholder.jpg|The Great Hunt (Vol 2.)
+File:TDR pt1 beholder.jpg|The Dragon Reborn (Vol 1.)
+File:TDR pt2 beholder.jpg|The Dragon Reborn (Vol 2.)
+File:TSR pt1 beholder.jpg|The Shadow Rising (Vol 1.)
+File:TSR pt2 beholder.jpg|The Shadow Rising (Vol 2.)
+File:TFoH pt1 beholder.jpg|The Fires of Heaven (Vol 1.)
+File:TFoH pt2 beholder.jpg|The Fires of Heaven (Vol 2.)
+File:LoC pt1 beholder.jpg|Lord of Chaos (Vol 1.)
+File:LoC pt2 beholder.jpg|Lord of Chaos (Vol 2.)
+File:ACoS pt1 beholder.jpg|A Crown of Swords (Vol 1.)
+File:ACoS pt2 beholder.jpg|A Crown of Swords (Vol 2.)
+File:PoD beholder.jpg|The Path of Daggers (Vol 2.)
+File:WH pt1 beholder.jpg|Winter's Heart (Vol 1.)
+File:WH pt2 beholder.jpg|Winter's Heart (Vol 2.)
+File:CoT beholder.jpg|Crossroads of Twilight (Vol 1.)
+File:CoT pt2 beholder.jpg|Crossroads of Twilight (Vol 2.)
+File:KoD pt1 beholder.jpg|Knife of Dreams (Vol 1.)
+File:KoD pt2 beholder.jpg|Knife of Dreams (Vol 2.)
+</gallery>
+
+===Beholder (older)===
+Original covers for [[The Eye of the World]] Vol. 1 and Vol. 2.
+<gallery captionalign=center>
+File:TEotW pt1 beholder2.jpg|Vol. 1
+File:TEotW pt2 beholder2.jpg|Vol. 2
+</gallery>
+
+===Collections===
+<gallery>
+File:Hungarian collection (beholder).jpg
+</gallery>
+
+[[Category:Wheel of Time translations]]
+{{notes}}

@@ -1,0 +1,22 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=Melfane
+| status=Alive
+| nationality=Andoran
+| occupation=Servant
+| affiliation=Elayne Trakand
+| gender=Male
+| build=
+| height=
+| eyes=
+| mentioned={{kod|35}}
+| living=kod
+}}'''Jaem Dawlish''' is the son of [[Melfane Dawlish]], [[Elayne Trakand|Elayne's]] midwife, in [[Caemlyn]].{{ref|{{twotc}}, Jaem Dawlish}}
+
+He does some work for his mother and had previously worked in a stable. He wants to be apprenticed to an armorer, though Melfane thinks he may be considered a little old for that.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Dawlish, Jaem}}
+[[Category:Stablemen]]

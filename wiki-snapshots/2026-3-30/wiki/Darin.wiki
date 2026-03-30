@@ -1,0 +1,17 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Sevanna
+| society=Shae'en M'taal
+| clan=Shaido
+| sept=Moshaine
+| status=Alive
+| mentioned={{acos|40}}
+| lastmentioned={{acos|40}}
+| living=acos
+}}'''Darin''' is an [[Aiel]] from the [[Moshaine]] [[Shaido]]. He is a [[Stone Dog]]. His father was [[Maeric]].
+
+== Activities ==
+When his clan begin to jump through a [[Gateway]] provided by "[[Sammael|Cadder]]", he holds the rear guard position. The Gateway suddenly snaps shut cutting him off from the rest of his clan.

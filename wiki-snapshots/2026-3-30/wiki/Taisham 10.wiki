@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Taisham}}
+|}
+'''Taisham 10 (December 31)'''
+
+==Events==
+</noinclude>
+*{{ne|979}} - Over a period of time [[Kerene Nagashi]], [[Aisha Raveneos]], [[Valera Gorovni]], [[Ludice Daneen]] and [[Meilyn Arganya]] all leave [[Tar Valon]] to begin their search for the [[Dragon Reborn]].
+*{{ne|1000}} - [[Dyelin]] is announced as Regent in [[Caemlyn]] until [[Elayne]] returns.
+<noinclude>
+==External links==
+*[[wikipedia:december 31|December 31]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

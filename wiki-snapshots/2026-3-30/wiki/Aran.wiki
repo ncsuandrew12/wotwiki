@@ -1,0 +1,23 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| name=Aran
+| status=Dead
+| race=Ogier
+| occupation=Author
+| gender=Male
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+| birth={{ab|50}}
+}}
+'''Aran son of [[Malan]] son of [[Senar]]''' was an [[Ogier]] writer who lived shortly after the [[Breaking of the World]].
+
+==History==
+Aran was noted for his strict honesty, and his unwillingness to cite any sources that he could not verify.
+
+Aran was the first to suggest that [[Ishamael]] had only been partially trapped in the [[Bore]] when [[Lews Therin Telamon]] and the [[Hundred Companions]] sealed the [[Dark One]]'s prison. In his manuscripts, he quotes [[Aes Sedai (Age of Legends)|Aes Sedai]] who lived during the [[Breaking of the World]] who claimed there were sightings of Ishamael after the Bore was sealed. 
+
+His manuscript was never completed, but the last pages suggest that Aran had become doubtful of his own thesis towards the end of his research.{{ref/book|bwb}}
+
+{{notes}}
+{{short}}

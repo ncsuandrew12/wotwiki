@@ -1,0 +1,39 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Altaran
+| rank=Aes Sedai
+| affiliation=White Tower
+| status=Alive
+| eyes=Light Blue
+| appeared={{loc|30}}
+| lastappeared={{loc|30}}
+| living=loc
+}}'''Shanelle''' is an [[Altaran]] [[Aes Sedai]] of the [[Yellow Ajah]].{{ref|{{twotc}}, Shanelle|comp}}
+
+== Appearance ==
+Shanelle is slender. She has pale blue eyes and a dark, pretty face.{{ref/book|6|30}}
+
+==Strength and Abilities==
+Shanelle has a [[One Power]] strength of {{opsl|38}}, making her [[Strength in the One Power among Aes Sedai|weak]] for an Aes Sedai. She would be unable to [[Travel]] without linking with another sister.
+
+Although she was not particularly strong, [[Healing]] was her best Talent by far, and she had a very good ability with it.{{ref||comp}}  
+
+==History==
+She was born not far from Ebou Dar, although we do not know how old she is.{{ref||comp}}
+
+She sometimes flirted with men, but was all business with her Warder.{{ref||comp}}
+
+== Activities ==
+She has allied herself with the [[Salidar Aes Sedai]].
+
+She is present in the [[Little Tower]] when [[Nynaeve al'Meara]] [[Healing|Heals]] both [[Siuan Sanche]] and [[Leane Sharif]] of [[stilling]] completely shocking everyone. Shanelle suggested that a smooth touch on the Healing would be better.{{ref/book|6|30}}
+
+
+{{notes}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

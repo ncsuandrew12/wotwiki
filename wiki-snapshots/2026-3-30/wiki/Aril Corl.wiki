@@ -1,0 +1,23 @@
+{{character
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| gender=Female
+| appeared={{tfoh|20}}
+| lastappeared={{tfoh|20}}
+| living=tfoh
+}}
+
+'''Aril Corl''' is a refugee from [[Taien]], a small town in the eastern end of the [[Jangai Pass]], in [[Cairhien]].
+
+==Appearance==
+Though she may have been handsome in the past, events in Taien have caused her face to be impressed with lines which mark her worry, and gaunt cheeks from hunger.
+
+==Activities==
+After [[Couladin]] and the [[Shaido]] [[Aiel]] stop and decimate the town of Taien on their way from [[Alcair Dal]] to Cairhien, she accompanies her husband, [[Ander Corl|Ander]], and her brother, [[Tal Nethin]], in approaching [[Rand al'Thor]] and his group on their way into Taien. The three are now refugees from the events in Taien, part of about one hundred survivors from the Shaido's attack. Rand decides to take the refugees with him. 
+
+Aril tells Rand that the Shaido took her daughter and son with them, as "[[gai'shain|guy-something]]." [[Moiraine Damodred|Moiraine]] uses the [[One Power]] on her after hearing this, apparently for [[Healing]].{{ref/book|5|20}}
+
+{{notes}}
+{{DEFAULTSORT:Corl, Aril}}

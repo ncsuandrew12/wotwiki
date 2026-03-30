@@ -1,0 +1,23 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Unknown nationality
+| title=Gaidin
+| status=Dead
+| gender=Male
+| build=Lean
+| death={{ne|979}}
+| occupation=Warder
+| affiliation=White Tower
+| appeared={{ns|5}}
+| lastappeared={{ns|5}}
+}}'''Andro''' was the [[Warder]] of [[Meilyn Arganya]]. 
+
+== Appearance ==
+He was lean, dark and no taller than Meilyn. He appeared youthful and had an unblinking gaze.{{Ref|{{twotc}}, Andro}}
+
+== History ==
+Andro was with Meilyn when she visited [[Moiraine Damodred]] and [[Siuan Sanche]], who were taking names of babies just born. It is assumed he died with Meilyn, either when she was killed by the [[Black Ajah]] or soon thereafter due to her death.
+
+{{Notes}}
+{{Short}}

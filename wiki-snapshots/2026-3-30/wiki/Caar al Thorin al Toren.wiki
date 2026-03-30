@@ -1,0 +1,29 @@
+{{character
+| image=ManetherenFlag.png
+| ewothist=caar
+| nationality=Manetherenite
+| title=Prince of Manetheren
+| gender=Male
+| status=Dead
+| mentioned={{teotw|19}}
+| lastmentioned={{teotw|19}}
+}}
+'''Caar al Thorin al Toren''' (translated from the [[Old Tongue]] as Caar, son of Thorin, son of Toren), was a prince of [[Manetheren]] during the middle years of the [[Trolloc Wars]] circa {{Ab|1150}}.  His father was [[Thorin al Toren al Ban]] and his son was [[Aemon al Caar al Thorin]] - the last king of Manetheren. 
+
+==History==
+Due to the destruction of records during the Trolloc Wars, little is known of Prince Caar's appearance or the details of his early life.  His father Thorin ruled Manetheren during a time when the entire world was at war with the [[Shadow]] and helped forge Manetheren's reputation as a nation that would always assist others in the defense of humanity.  King Thorin had established a close relationship with King [[Balwen Mayel]] of [[Aridhol]] who had for years been fighting a protracted war of attrition against armies of [[Shadowspawn]].  Over time, Caar's father observed his ally despair of winning the war eventually falling under the manipulations of a councilor named [[Mordeth]] who advised that the only way for Aridhol to defeat the shadow was to become as cruel as their enemy.{{ref|{{bwb}}, Chapter 10 Rise and Fall of the Ten Nations}}{{ref/book|1|19}}
+
+Fearing that his greatest ally was being threatened from within, King Thorin sent his son Caar on a diplomatic mission to Aridhol to bring King Balwen back into the [[Compact of the Ten Nations]].  When Prince Caar and his embassy arrived in the capital of Aridhol, they were seized and brought before the King.  Balwen - his eyes filled with madness - was counseled by Mordeth to order Caar and his embassy be imprisoned, tortured, and executed.{{ref/book|1|19}}
+
+The details of Prince Caar's suffering are scant.  History relates that Caar was subjected to mutilations while in Aridhol and his left hand was cut off at one point during his imprisonment.  For this he became known later as "Caar One-Hand".{{ref/book|1|19}}  At some point the prince escaped and fled north to the [[Borderlands]], pursued by Mordeth's assassins.  In the north he met and married a borderlander woman named Rhea.
+
+After learning of his son's mistreatment by Balwen, King Thorin sent a military force to Aridhol to seek vengeance but the solders arrived to find the gates of Aridhol torn down and nothing living within the capital city.  Thorin's men left and afterwards named the cursed place [[Shadar Logoth]]. 
+
+Scraps of history become extremely vague following Caar's marriage to Rhea.  One history relates that Rhea eventually killed her husband and then later committed suicide in front of Caar's tomb.{{ref/book|1|19}}  The reference to a tomb implies to historians that Caar may have traveled back to Manetheren before his murder, though no documented histories exist to support this assertion.  Mystery also surrounds the parentage of Caar's son Aemon who may or may not have been Rhea's son.
+
+It is not known with certainty if Caar himself ever ruled Manetheren.  History relates only that Thorin was king during the fall of Aridhol circa {{Ab|1150}} and that Aemon was king when Manetheren was destroyed circa {{Ab|1200}}.  It is unknown whether Caar returned from exile and assumed the throne in the intervening years or if the crown of Manetheren was passed directly from Thorin to Aemon.
+
+There seem to be a theory about Rhea from the Borderland, wife of Caar, to be the same as [[Rhea]], daughter of [[Adan]], kidnapped by wetlanders during the wandering of [[Da'shain Aiel]] after the [[Breaking of the World|Breaking]]. But there's no supporting evidence. Adan's daughter Rhea lived right after the Breaking, Adan was 6th after Charn. [[Manetheren]] was founded much later in time. Prince Caar al Thorin al Toren lived around {{ab|1150}}.
+
+{{notes}}[[es:Caar al Thorin al Toren]]
+[[Category:Historical people]]

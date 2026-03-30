@@ -1,0 +1,44 @@
+{{ character 
+| image=Someryn.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Sevanna
+| height=6'4" or 192cm
+| hair=Sandy yellow, very long
+| status=Alive
+| clan=Shaido
+| sept=Unknown sept
+| appeared={{acos|p}}
+| lastappeared={{cot|9}}
+| living=cot
+}}
+'''Someryn''' is a [[Wise One]] of the [[Shaido]] [[Aiel]] who follows [[Sevanna]]. 
+
+== Appearance ==
+She is well-endowed, shows even more cleavage than Sevanna, and is very tall (6'4" or 192&nbsp;cm). She has very long sandy yellow hair and is very attractive. 
+
+== Strength ==
+She is very strong in the [[One Power]]; indeed, she credits herself with never having met a woman who is stronger. That was, until she met [[Graendal]]. Nevertheless it means that Someryn is in the top ten of the strongest female channelers in the world, at the same level of some female [[Forsaken]].
+
+This is confirmed in "The Wheel of Time Companion" where her level of strength is described as {{opsl|10}}.
+
+== Activities ==
+Although she is not directly mentioned, she is one of the thirteen Shaido Wise Ones who participated in the murder of [[Desaine]] by order of [[Sevanna]].
+
+She fought in the [[Battle of Dumai's Wells]] along Sevanna and was one of the first to convince her to flee after the defeat.
+
+She helps to activate the call box and is present when both Caddar and Maisia ([[Sammael]] and [[Graendal]]) arrive. After the encounter, she speaks of Graendal as "very strong" in the Power. Likewise, Graendal states that "one of those women [Someryn] was not negligible."
+
+She ends up [[Traveling]] to [[Ghealdan]]. She reached the decision with the other Wise Ones that Sevanna, speaking as a clan chief, is to have [[Therava]] as her advisor, starting to oppose Sevanna and taking away some of her power.
+
+After the Wise Ones question a Seanchan soldier, they make [[Galina]] swear to the [[Oath Rod]] to obey them, Sevanna and Therava most of all. Some time after Someryn and Therava bring Galina to Faile and the other captives to Heal "Sevanna's new ''gai'shain''".
+
+She has [[Faile Bashere]], who has been made one of Sevanna's special ''[[gai'shain]]'', spy on Sevanna and report back all information to her.
+
+Someryn was most likely captured as ''[[damane]]'' by the [[Seanchan]] during the [[Battle of Malden]].
+
+[[es:Someryn]]
+[[Category:Antagonists]]
+[[Category:Channelers]]

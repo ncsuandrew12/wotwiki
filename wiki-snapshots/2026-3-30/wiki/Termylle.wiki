@@ -1,0 +1,20 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Andoran
+| rank=Queen
+| title=Queen of Andor
+| gender=Female
+| mentioned=[[RPG]]
+}}
+'''Termylle''' was the fourth Queen of [[Andor]], succeeding Queen [[Melasune]] in {{Fy|1046}}.
+
+==History==
+It is not known if Termylle was Melasune's daughter, niece or another female relative, but for the time she succeeded on the throne it was well established the rule that only [[Ishara Casalain]] direct female descendants can succeed.
+
+Queen Ishara was in fact the founder of the kingdom of Andor.
+
+Termylle ruled for eight years (FY 1046 - [[FY 1054|54]]) and was succeeded by [[Maragaine]].
+[[Category:Historical people]]
+[[Category:Short pages]]

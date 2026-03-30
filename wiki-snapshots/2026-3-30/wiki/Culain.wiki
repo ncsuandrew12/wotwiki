@@ -1,0 +1,27 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Culain
+| status=Dead
+| nationality=Aldesharin
+| rank=General
+| occupation=Soldier
+| gender=Male
+| mentioned={{Cot|3}}
+| lastmentioned={{cot|3}}
+}}
+'''Culain''' was a general of [[Aldeshar]], who fought against [[Artur Hawkwing]] during the [[Consolidation]]. Hawkwing eventually defeated him, yet he was so impressed with Culain's skills that he offered to let the grievously wounded Culain live in peace in Hawkwing's new [[Artur Hawkwing's Empire|Empire]].{{ref/book|10|3}}{{ref/book|twotc|Culain}} Culain refused, and died almost immediately, whether from his wounds, execution, or mercy killing.{{ref/book|10|3}}{{ref/book|twotc|Culain}}
+
+[[Matrim Cauthon]] has some of Culain's memories, including the fall of Aldeshar and his death.{{ref/book|10|3}}{{ref/book|twotc|Culain}}
+
+{{quote|He lay beneath the burning sun, holding his side with both hands, trying to keep the last of life from leaking out and wondering whether there was any reason to hold on. Aldeshar was finished, after this day’s work. A shadow blotted the sun for an instant, and then a tall man in armor crouched beside him, helmet tucked under his arm, dark deep-set eyes framing a hooked nose. “You fought well against me today, Culain, and many days past,” that memorable voice said. “Will you live with me in peace?” With his last breath, he laughed in Artur Hawkwing’s face.|{{10|3}}}}
+
+==Inn==
+There is an inn in [[Caemlyn]] named "Culain's Hound" where [[Alanna Mosvani]] and [[Verin Mathwin]] stay with their recruits from the [[Two Rivers]].{{ref/book|6|10}}{{ref/book|twotc|Culain's Hound}} It is possible that the inn is named for him.
+
+{{notes}}
+[[Category:Historical people]]
+[[Category:People]]
+[[Category:Aldeshar (people)]]
+[[Category:Soldiers]]
+[[Category:Generals]]

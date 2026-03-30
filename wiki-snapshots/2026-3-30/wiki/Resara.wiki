@@ -1,0 +1,16 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| occupation=Merchant
+| nationality=Domani
+| gender=Female
+| status=Unknown
+| mentioned={{tfoh|1}}
+| lastmentioned={{tfoh|1}}
+}}
+'''Resara''' an aunt of [[Leane Sharif]] and a merchant in Arad Doman
+
+==Activities==
+She gave Leane advice on what to do if flirting went past what was intended.{{ref/book|5|1}}
+
+{{notes}}

@@ -1,0 +1,34 @@
+{{ character 
+| image=Ragan.jpg
+| imagesize=250px
+| status=Alive
+| nationality=Shienaran
+| gender=Male
+| appeared={{teotw|46}}
+| lastappeared={{cot|30}}
+| living=cot
+}}'''Ragan''' is a [[Shienar]]an soldier.{{ref/book|c|Ragan}}
+
+== Appearance and personality ==
+Ragan is young,{{ref/book|10|30}} with dark hair{{ref/book|2|49}} and a white triangle scar from a Trolloc arrow on his cheek.{{ref/book|2|3}}
+
+He has an easy, relaxed manner{{ref/book|2|3}} and a wry sense of humor.{{ref/book|5|39}}
+
+== Activities ==
+He was the Shienaran that greeted [[Lan Mandragoran]] and group when they arrive in [[Fal Dara]].{{ref/book|1|46}}
+
+When the [[Amyrlin]] arrived in Fal Dara, it was Ragan that told Rand that no one is allowed to leave.{{ref/book|2|3}}
+
+He was one of twenty Shienaran soldiers picked to pursue the [[Horn of Valere]]. Along with [[Masema Dagar]], he swam across the river [[Erinin]] to retrieve the ferry and discovered the flayed corpses of [[Changu]] and [[Nidao]].{{ref/book|2|10}} When Rand, Ingtar, and the others visited [[Stedding]] [[Tsofu]], Ragan was left just inside the ''stedding'' with most of the Shienarans.{{ref/book|2|35}}
+
+Ragan witnessed Rand's fight with [[Ishamael]] at [[Falme]], after which he had the deepest respect for Rand.{{ref/book|2|49}}
+
+Following the [[Battle of Falme]], Ragan and the other Shienarans accompanied [[Moiraine Damodred]], Rand, and the rest of their party to the [[Mountains of Mist]].{{ref/book|3|1}} After the [[Shadowspawn]] attack on their camp, Moiraine sent the Shienarans, including Ragan, to [[Jehannah]] to meet with a contact of hers.{{ref/book|3|5}}{{ref/book|3|6}} After the [[Shienaran|Shienarans]] went to [[Ghealdan]] and found that [[Moiraine Damodred|Moiraine's]] contact was dead, Ragan and the other Shienarans stayed close to Masema in his role as the Prophet because he provided them with enough to live on, even though [[Bartu]] and [[Nengar]] were the only ones who shared his particular fervor.{{ref/book|5|38}}{{ref/book|5|39}}
+
+While staying in [[Samara]], he joined [[Uno Nomesta]] in bringing [[Nynaeve al'Meara]] to Masema, who charged Uno and Ragan with protecting Nynaeve until a boat arrived.{{ref/book|5|39}} He followed [[Nynaeve]] to [[Salidar]] and joined the [[rebel Aes Sedai]] army under [[Gareth Bryne]].{{ref/book|5|48}}{{ref/book|5|49}}{{ref/book|10|30}}{{ref/book|c|Ragan}}
+
+During the [[Siege of Tar Valon]], he brought news to [[Egwene al'Vere]] about raiders being in the vicinity of the rebel [[Aes Sedai]] camp.{{ref/book|10|30}} It is unknown if Ragan and the other Shienarans joined the [[White Tower]] after the reunification, but the evidence suggests so, as several of them fought in the [[Last Battle]].
+
+{{notes}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Soldiers]]

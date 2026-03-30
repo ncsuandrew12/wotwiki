@@ -1,0 +1,27 @@
+{{ character
+| image=Stepin.jpg
+| imagesize = 250px
+| bgcolor=#556633
+| fgcolor=white
+| nationality= Unknown nationality
+|title=Gaidin
+| hair=
+|gender=Male
+|eyes=Sad, Brown
+| rank= 
+| height=
+| build= Narrow-shouldered
+|status=Dead
+| death={{ne|979}} 
+|occupation=Warder
+| appeared={{ns|7}}
+}}'''Stepin''' (pronounced: STEH-pihn) is [[Warder]] to [[Kerene Nagashi]].
+
+==Appearance==
+Stepin is narrow-shouldered with sad brown eyes. He is said to look more like a clerk than a Warder.
+
+== Activities ==
+He leaves the [[White Tower]] with Kerene when she is sent by [[Tamra Ospenya]] to find the newly born [[Dragon]]. It's assumed he died with Kerene, when she was murdered by the [[Black Ajah]].
+
+==In the television series==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Stepin}} is played by {{TVlink|Peter Franzén}}.

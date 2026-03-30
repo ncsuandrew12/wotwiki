@@ -1,0 +1,73 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| gender=Female
+| build=Plump
+| status=Alive
+| affiliation=White Tower
+| appeared={{loc|p}}
+| lastappeared={{tpod|p}}
+| lastmentioned={{cot|21}}
+| living=tpod
+|birth = {{ne|861}}}}
+{{quote|I have the honor to be Coiren Saeldain Aes Sedai, Ambassador from the White Tower and emissary of Elaida do Avriny a'Roihan, the Watcher of the Seals, the Flame of Tar Valon, the Amyrlin Seat.|Coiren Saldain}}
+'''Coiren Saeldain''' is an [[Aes Sedai]] of the [[Gray Ajah]]. 
+
+==Appearance and Personality==
+She is plump and stately.{{ref/book|6|27}} She has a billowing voice.
+
+She is notoriously pompous, bombastic and self-important{{ref/book|6|p}}. She has a mannerism that makes it sound as if she is making speeches or pronouncements every time she speaks. She is, nevertheless, no fool.{{ref/book|6|27}}
+
+==Strength and Abilities==
+Coiren is [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|24}}. She is stronger than the minimum stated strength needed to [[Traveling|Travel]].
+
+She is a very good negotiator, though she likes to have everything go just-so, according to plan. She is not among the strongest sisters in the White Tower embassy to the Dragon Reborn, but she was chosen as Ambassador. Her skills and Ajah may have been a factor in her choosing.
+
+==History==
+Coiren was born in {{ne|861}} and went to the [[White Tower]] in {{ne|877}} at the age of sixteen. After nine years as [[Novice]] and six as [[Accepted]], she was raised to the shawl in the year {{ne|892}} at the age of thirty-one.
+
+She thinks Cadsuane is undiplomatic.
+
+==Activities==
+
+===Before Dumai's Wells===
+Coiren was the appointed head of the [[White Tower]] delegation to the [[Dragon Reborn]]. She takes [[Gawyn Trakand]] aside and explains to him that they are being sent to the Dragon Reborn in [[Cairhien]]. Before this, Gawyn did not even know where they were headed. Coiren swears him to secrecy and even seems afraid to tell him.
+
+She is one of the sisters that makes an alliance with the [[Shaido]]{{ref/book|6|p}}. She is the one who speaks with them and who intones the words of agreement when they make their bargain with the Aiel. 
+
+She thinks Rand will go with them willingly to the [[White Tower]], the Aes Sedai delegation of six being an honor in itself. It is twice the usual number sent to any monarch.
+
+She and the other six Aes Sedai stay with Lady [[Arilyn Dhulaine]]{{ref/book|6|24}}, an agent of the Gray Ajah. [[Rhuarc]] reports that she seemed to be well-acquainted with Lady Arylin{{ref/book|6|25}}.
+
+She is very annoyed that Rand seems to appear and disappear from Cairhien, suspecting rightly that he rediscovered Traveling. The party prepare for the chance that Rand will not come with them by secretly building up the numbers of Aes Sedai in Cairhien{{ref/book|6|25}}. 
+
+Coiren, [[Galina Casban]] and [[Nesune Bihara]] meet officially with the Dragon Reborn and offer him a chest of gold and offers up Nesune or Galina as a replacement for [[Moiraine]] as advisor. Rand says he looks forward to standing in the Tower and will let them know when he is ready to go, but not before banning them from anywhere a mile closer than the [[Sun Palace]]{{ref/book|6|27}}.
+
+Afterwards the three of them along [[Sarene]] discuss the fact that there was a hidden woman who could channel in the room with them during the meeting {{ref/book|6|27}}. 
+
+After her initial dismissal from the Sun Palace, she writes politely worded letters to Rand inquiring after his health and requesting another audience. She writes a similar letter every three days.
+
+She is one of those present when Rand is kidnapped. Although in charge of the delegation, [[Galina Casban]] now usurps her, claiming that their mission is now the business of the [[Red Ajah]]. This had been agreed upon to as the fallback position if negotiations failed{{ref/book|6|51}}.
+
+===After Dumai's Wells===
+
+At the [[Battle of Dumai's Wells]] she is captured and made [[da'tsang]] by the [[Aiel]] [[Wise Ones]]{{ref/book|6|51}}{{ref/book|7|1}}. Verin later sees her carrying a large basket of sand uphill with a Wise One and two Aielmen as escort. She is ''[[da'tsang]]''{{ref/book|8|p}}.
+
+It is reported by [[Sorilea]] that she and the rest of the Aes Sedai prisoners have all sworn fealty to Rand{{ref/book|9|13}}.
+
+When word reaches the Tower of the failure of their embassy, Coiren gets the blame and is all but tried and convicted in the eyes of most sisters{{ref/book|10|21}}.
+
+As was the case with all the sisters sworn to Rand, it can be presumed that Coiren fought in [[Thakan'dar Valley]] during the [[Last Battle]]{{ref/book|14|34}}. 
+
+{{notes}}
+{{DEFAULTSORT:Saeldain, Coiren}}
+[[es:Coiren Saeldain]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,21 @@
+{{ character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| mentioned={{tpod|22}}
+| lastmentioned={{tpod|22}}
+| living=tpod
+| status=Dead
+}}
+{{for|others with the same surname|The Congars and the Coplins}}
+'''Benley Coplin''' was a [[Two Rivers]] resident.
+
+== Activities ==
+While battling the [[Seanchan]] during [[The Path of Daggers]], [[Rand al'Thor]] questions whether he can trust anyone, and compares himself to Benly, a paranoid [[Coplin]] from the [[Two Rivers]].
+
+Benly starves to death as his paranoia leads him to believe that someone will poison his food.
+
+{{DEFAULTSORT:Coplin, Benly}}
+[[Category:Short pages]]

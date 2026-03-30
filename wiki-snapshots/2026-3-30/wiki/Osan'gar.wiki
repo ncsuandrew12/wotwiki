@@ -1,0 +1,47 @@
+{{for|other uses of Osan'gar|Osan'gar (disambiguation)}}
+{{character 
+| image=Wot osan gar by reddera-d507pif.jpg
+| imagesize=125px
+| name=Corlan Dashiva
+| status=Dead
+| death={{ne|1000}}
+| nationality=Unclaimed territories
+| rank=Chosen
+| occupation=Asha'man
+| gender=Male
+| hair=Lank, untrimmed
+| appeared={{loc|p}}
+| lastappeared={{wh|35}}
+| lastmentioned={{kod|3}}
+| ewot=osangar
+}}
+
+'''Osan'gar''' was the resurrected [[Aginor]], whose soul was retrieved by the [[Dark One]] at the moment of his death and placed in the body of a man who later joined the [[Asha'man]] under the name of '''Corlan Dashiva''' from the [[Black Hills]]. [[Mazrim Taim]] did not know who he was. He thought Osan'gar to be only a high-ranking [[Darkfriend]].{{ref/book|twotc|Osan'gar}}
+
+Osan'gar in the [[Old Tongue]] meant the left-hand side dagger of a twin set of poisoned daggers used in dueling, along with the right-hand dagger [[Aran'gar]]. As a result, usually both participants died.{{ref/book|twotc|Osan'gar}}{{ref/book|twotc|Corlan Dashiva}}
+
+== Appearance ==
+Corlan Dashiva looked like a farmer from the [[Black Hills]] and appeared to be going insane due to the [[taint]] on ''[[saidin]]'' as he often talked to himself. He was very arrogant and very condescending towards [[Aes Sedai]] of this Age.
+He looked very plain and was in his middle years, with dark, lank untrimmed hair. He moved hesitant, creeping, with hands folded at his waist. 
+
+== Activities ==
+=== Illian and the Seanchan ===
+When he and [[Aran'gar]] ([[Balthamel]]) were first resurrected, they were placed under the leadership of [[Shaidar Haran]]. Despite infiltrating Rand's Asha'man, Osan'gar still met with the remaining Forsaken and resented the fact the he had to play the part of Dashiva.{{ref/book|9|13}}
+
+After the [[Battle of Dumai's Wells]] Dashiva was an Asha'man, chosen by Rand to be one of his bodyguards after being kidnapped by the [[White Tower]] Aes Sedai under [[Elaida do Avriny a'Roihan]].{{ref/book|7|2}} He stood guard over Rand when he was meeting with some of the [[Aiel]] [[clan chief]]s and when [[Cadsuane Melaidhrin]] arrived and insulted Rand.{{ref/book|7|18}}
+
+He was one of Rand's bodyguards when he met with the [[Sea Folk]] and made [[the Bargain]].{{ref/book|7|34}}
+Surprisingly Dashiva seemed concerned when Rand was near death due to being stabbed with the [[Shadar Logoth]] dagger, perhaps because the Forsaken had at that point been instructed that Rand was not to be killed. He brought in [[Damer Flinn]] to [[Healing|Heal]] Rand. It was Dashiva's idea for Flinn to start exploring his ability in Healing.{{ref/book|7|36}} He [[Traveling|Traveled]] to [[Illian]] with Rand in order to confuse [[Sammael]] and try to bring him back to the city of Illian so Rand could finally defeat him.{{ref/book|7|41}}
+
+He went with Rand when Rand tried to deal with the Illian rebels loyal to Lord Brend.{{ref/book|8|13}} He rode with Rand when Rand's forces attacked the invading [[Seanchan]] just outside Illian. He tried to warn Rand about ''saidin'' not behaving properly around [[Ebou Dar]].{{ref/book|8|24}} On arrival back to [[Cairhien]] he accompanied Rand to a meeting with Cadsuane. He used several weaves Rand had never seen before to try to intimidate Cadsuane.{{ref/book|8|27}} Dashiva and several other rogue Asha'man, who turned out to be [[Darkfriends]], attempted to kill Rand. Following their failure, they fled. Rand later followed to try to kill the would-be assassins.{{ref/book|8|29}}
+
+=== Death ===
+Last seen during the [[Battle near Shadar Logoth]]. Osan'gar tried to use [[balefire]] on [[Rand]] unseen but he was spotted and attacked by [[Elza Penfell]].{{ref/book|9|35}} Though Elza was [[Black Ajah]], she was committed to protecting Rand by [[Verin]]'s [[Compulsion]], and may have been unaware of Dashiva's true identity, allegiance, or rank. Osan'gar's body was not seen, but the attack shortened the hill he was standing on by fifty feet. Therefore, he was almost certainly killed. Elza's weave was clearly not [[balefire]], instead being described as a "huge ball of coruscating fire" and "red and gold and blue." Therefore, it was likely possible for the Dark One to resurrect Osan'gar but no evidence of such a resurrection has been seen.{{ref|The Dark One may have chosen not to resurrect Osan'gar for his own reasons (such as Osan'gar's repeated failures). Alternatively, there could be other constraints preventing his resurrection or making it undesirable to the Dark One, such as a lack of a viable new body.}} One of [[Egwene al'Vere]]'s dreams suggests that he does not return.{{ref/book|13|3}}
+
+{{Notes}}
+[[Category:POV character]]
+[[Category:Antagonists]]
+[[Category:Channelers]]
+[[Category:Reincarnated]]
+[[Category:Asha'man (rank)]]
+[[Category:Black Hills (people)]]

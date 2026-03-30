@@ -1,0 +1,39 @@
+{{ character
+| image=Meilan.jpg
+| imagesize = 250px
+| ewot=meilan
+| nationality=Tairen
+| gender=Male
+| title=[[High Lord of Tear]]
+| affiliation=The Dragon Reborn
+| height=Tall
+| build=Lean
+| status=Dead
+| eyes=Dark
+| hair=Gray
+| death={{ne|999}}
+| appeared={{tsr|8}}
+| lastappeared={{loc|53}}
+}}'''Meilan Mendiana''' was a [[High Lord]] of [[Tear]].{{ref|{{twotc}}, Meilan Mendiana}} 
+
+== Appearance ==
+He has gray hair with dark eyes. He is tall, lean and hard.
+
+== Activities ==
+He attends a meeting with [[Rand al'Thor]] along with High Lords [[Tedosian]], [[Carleon]] and [[Sunamon]] after Rand captures the [[Stone of Tear]].{{ref/book|4|8}} He, along with Sunamon, presented Rand with their proposed treaty with [[Mayene]] to distribute Tear's excess grain, whilst also allowing the presence of two thousand Tairen soldiers under [[Torean]]'s command. Rand burns the proposal and commands them to offer [[Berelain]] a fair treaty directly or be hanged.{{ref/book|4|9}}
+
+When Rand leaves Tear, Meilan is one of the High Lords sent to [[Cairhien]] to lead an army there and distribute grain.{{ref/book|4|21}}
+
+When the [[Shaido]] attack Cairhien Meilan is in overall charge of the defenses. He swears fealty to Rand after Rand captures Cairhien and defeats the Shaido.
+
+His ambition is to take the [[Sun Throne]] for himself. He meets with [[Nesune Bihara]] over plotting for the Throne. 
+He is assassinated in the street at [[Colavaere Saighan]]'s orders who wants the Sun Throne for herself.
+
+== Viewing ==
+[[Min's viewings]] shows he will die by the knife. ''(fulfilled)''
+
+{{notes}}
+{{DEFAULTSORT:Mendiana, Meilan}}
+
+[[es:Meilan Mendiana]]
+[[Category:Nobility]]

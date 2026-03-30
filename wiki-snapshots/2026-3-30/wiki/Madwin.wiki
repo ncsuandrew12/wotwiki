@@ -1,0 +1,18 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Unknown nationality
+| rank=Officer
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| mentioned={{kod|27}}
+| lastmentioned={{amol|p}}
+| living=amol
+}}'''Madwin''' is a soldier in the [[Band of the Red Hand]].{{ref|{{twotc}}, Madwin}}
+
+==Activities==
+[[Mandevwin]] orders Madwin to take his men up the south slope of the valley in preparation for the ambush on the [[Altaran]] conscripts.
+He fights against the [[Shadowspawn]] army during the sacking of [[Caemlyn]]. He takes command of the counter-strike when the [[Queen's Guards]] arrive to provide support to the Band.
+
+{{notes}}
+[[Category:Band of the Red Hand]]

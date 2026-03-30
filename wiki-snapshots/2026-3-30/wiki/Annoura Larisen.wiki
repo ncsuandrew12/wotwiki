@@ -1,0 +1,86 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality=Taraboner
+| gender=Female
+| rank=Aes Sedai
+| hair=Dark, braided
+| status=Alive
+| build=Stocky
+| affiliation=Unaligned sisters
+| appeared={{acos|5}}
+| lastappeared={{amol|37}}
+| living=amol
+|birth = {{ne|838}}}}
+'''Annoura Larisen''' is an [[Aes Sedai]] of the [[Gray Ajah]] and the Aes Sedai [[Aes Sedai advisors|advisor]] to [[Berelain sur Paendrag Paeron]], the [[First of Mayene]].
+
+==Appearance and Personality==
+She has dark hair, braided in the [[Tarabon|Taraboner style]] with dozens of long thin braids, a broad face, a wide mouth, a beak of a nose, and the typical ageless Aes Sedai look. She could have a pleasant smile. She has a stocky build. When nervous, she rubbed her thumbs with her forefingers. She is about 5'4 tall.{{ref|{{twotc}}, Annoura Larisen|comp}}
+
+She could be very self-effacing, fading into the background so others failed to notice her. She could appear distracted by things that didn't seem important, but she never was - not really.{{ref||comp}} Towards non-Aes Sedai, she displays the typical Aes Sedai confidence and unflappability, manipulating [[Colavaere Saighan]] into thinking she was going along with her plan and met secretly with [[Masema Dagar]]. 
+
+==Strength and Abilities==
+Annoura was [[Strength in the One Power among Aes Sedai|very weak]] in the [[One Power]] with a strength level of {{opsl|39}}. The Companion says she is "very self-effacing, fading into the background", which would match being very low in their hierarchy. [[Merana Ambrey]] also believes that "Annoura should have been having the harder time with Cadsuane by far", indicating Annoura would be far below her own strength.{{ref/book|7|19}} With regards her ability to [[Traveling|Travel]], see [[Annoura Larisen#Errata/Speculation|Errata/Speculation]] below.
+
+Annoura was also quite good in the traditional Aes Sedai method of [[Healing]].{{ref/book|9|6}} When Annoura Healed Perrin, she was afraid he would die even after she Healed him, which maybe reflected on her sense of her abilities.{{ref||comp}} 
+
+She was considered a good negotiator, but not one of the best.
+
+After [[Tarmon Gai'don]], she can no longer channel.
+
+==History==
+She is from [[Tarabon]] and is 162 years old. Born in {{ne|838}}, she went to the [[White Tower]] in {{ne|854}}. She spent twelve years as a [[novice]] and ten years as [[Accepted]] before being raised to the [[shawl]] in {{ne|876}}. 
+
+After the [[Aiel War]], she was part of the Gray Ajah effort to keep the Grand Coalition going. Unfortunately, it failed. 
+
+She then served as advisor to [[Berelain sur Paendrag Paeron|Berelain]], though this is kept secret so that neighboring [[Tear]] would not find out, as Tear had a very hostile attitude to channelers. When Berelain went to see Rand in [[Cairhien]], Annoura stayed behind as they were unsure how he would react to a strange Aes Sedai. In fact, Annoura advised Berelain not to go. Annoura and Berelain had become quite fond of one another.  
+
+Annoura did not support either Elaida's White Tower or the Salidar rebels. She was displeased that the division was widely known outside the Aes Sedai, and believed both sides handled it badly as they failed to keep it secret for the good of the Tower.   
+
+== Activities ==
+=== In Cairhien ===
+Annoura is taken as an Aes Sedai advisor when [[Colavaere Saighan]] takes the [[Sun Throne]] for herself. When [[Rand al'Thor]] arrives back in [[Cairhien]] he deposes Colavaere and spares Annoura from being sent to the [[Wise Ones]] with the other Aes Sedai prisoners; instead he puts her back as Berelain's advisor.
+
+She is in the throne room when [[Cadsuane Melaidhrin]] arrives. She is shocked at her being alive, though manages to appear less unsettled than [[Merana Ambrey]]. Cadsuane then grabs her and grills her on all the events that have occurred recently. Annoura had heard rumors about [[Moiraine Damodred|Moiraine]]'s death, but hadn't known about Rand's kidnapping until her own arrival in Cairhien.
+
+The Aiel Wise Ones would look at Annoura in the same light as they did all other Aes Sedai - basically, untrustworthy. However, because some of the Wise Ones liked Berelain, they tolerated Annoura for Berelain's sake. Annoura did not like nor understand the Wise One's view of Aes Sedai.
+
+=== Searching for the Prophet ===
+She leaves Cairhien with Berelain and [[Perrin Aybara]] and [[Traveling|Travels]] to [[Ghealdan]] to track down [[Masema Dagar]]. Perrin sends her and Berelain to meet with Queen [[Alliandre Maritha Kigarin|Alliandre]]. She brings Alliandre back to the camp and helps Faile and Berelain pressure her into keeping her oath of fealty to Perrin by staying with the army.
+
+Later she is seen meeting with Masema by herself after Faile is kidnapped by the [[Shaido]] [[Aiel]].
+
+She accompanies Perrin when he looks over the Shaido camped in [[Malden]]. 
+
+She goes with Perrin and Berelain to [[So Habor]], where they collect grain for their troops. She accompanies him back to camp and witnesses him cleave a Shaido prisoner's hand off when he is looking for answers on his missing wife.
+
+She later goes with Perrin and Berelain when he makes his deal with the [[Seanchan]]. Berelain has become wary of Annoura ever since she learned of her meeting with Masema.
+
+When Perrin is meeting with [[Tylee Khirgan]], Tylee tells Perrin of a rebellious group of [[Whitecloaks]] moving north, not far from where the camp is. Annoura informs the group that the Whitecloaks are led by [[Galadedrid Damodred]].
+
+Annoura assists in the attack on the Shaido and the [[Wise One]]s in the [[Battle of Malden]] to rescue Faile.
+
+=== Encounter with the Whitecloaks ===
+While traveling from Malden, she is with Perrin when they find land that appears to have been affected by the [[Great Blight|Blight]]. Later she attends a meeting with Perrin to decide where the army should now go. A decision is made to send a scouting force to Cairhien to start looking for Rand. She is present during [[Seonid Traighan]]'s report to Perrin on current events that are happening within the continent.
+
+She attends the second parley between Perrin and Galad.
+
+She links with [[Masuri Sokawa]] and [[Jur Grady]] to create a gateway for the last of the non-combatants to leave Perrin's camp and make their way to [[Caemlyn]].
+
+=== In Andor During the Last Battle ===
+She [[Burning out|burned herself out]] in her dedicated effort to create a gateway to bring the wounded Galad Damodred back to [[Mayene]] and Berelain. Though she knew she risked being burned out, she still saved Galad, as Healing him on the battlefield would have been risky. This was part of her apology to Berelain for going behind her back in speaking with Masema. She was last seen tending to Galad when Berelain arrived; Annoura was so exhausted she fell asleep where she sat, though she had begun crying because of her burning out.
+
+==Errata/Speculation==
+Annoura's Traveling from the Last Battle to Mayene provides two problems. The first is that she is far too weak to be able to make the Traveling weave work, the second being that one needs to know the starting location well enough to be able to Travel from there. These are likely not errors and have reasonable explanations. 
+
+While Annoura is too weak, she also burns herself out. Forming a gateway requires more power than she could handle safely, but can be done. Lews Therin, Eldrene and Egwene drew massive amounts of power and still continued to channel until the point of death - they do not stop channeling when they go beyond the safe limit. Annoura went over her limit, but not far enough over to instantly kill herself. There is also an outside chance that she has a strong Talent at Traveling, but there is no evidence of this.
+
+For the second, we have an indication that holding the Power for an amount of time allows one to learn a location sufficiently enough to be able to Travel there. Being on the Fields of Merrilor, Annoura has likely been channeling in battle and/or Healing which, speculatively, could allow her to form a connection to the location even moreso than simply embracing the source. 
+
+{{DEFAULTSORT:Larisen, Annoura}}
+{{notes}}
+[[Category:Rand's Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

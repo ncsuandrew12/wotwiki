@@ -1,0 +1,10 @@
+'''Reading ''ter'angreal''''' is a [[Talent]] regarding the ability to discern the purpose and characteristics of a ''[[ter'angreal]]''.
+
+This ability appears to require physical contact with the ''ter'angreal''. [[Elayne Trakand]] first identifies this [[Talent]] in [[Aviendha]], who identified several ''ter'angreal'' recovered from [[Ebou Dar]].{{ref/book|11|15}}
+
+{{notes}}
+{{short}}
+{{DISPLAYTITLE:Reading ''ter'angreal''}}
+
+[[es:Lectura de ter'angreal]]
+[[Category:Talents]]

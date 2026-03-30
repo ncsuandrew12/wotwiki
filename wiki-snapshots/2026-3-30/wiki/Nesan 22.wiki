@@ -1,0 +1,17 @@
+<noinclude>{| align="right"
+|{{Month|November}}
+|{{Wotmonth|Nesan}}
+|}
+'''Nesan 22 (November 17)'''
+
+==Events==
+</noinclude>
+*{{ne|998}} - Rand's party arrive at a deserted village. Rand encounters [[Ba'alzamon]] again.
+*{{ne|999}} - [[Rand]] returns to [[Caemlyn]], receives a letter from [[Alliandre Maritha Kigarin]], queen of [[Ghealdan]], and is attacked by a [[Gray Man]], who is killed by [[Taim]].
+*{{ne|999}} - [[Adeleas]] and [[Vandene]] arrive in [[Salidar]]. [[Thom]] and [[Juilin]] return from [[Amadicia]]. [[Nynaeve]] Heals [[Logain]], [[Siuan]] and [[Leane]]. The Hall reinstates Siuan and Leane as [[Aes Sedai]].
+<noinclude>
+==External links==
+*[[wikipedia:november 17|November 17]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

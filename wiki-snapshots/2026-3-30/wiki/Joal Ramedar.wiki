@@ -1,0 +1,22 @@
+{{ character 
+| image=Wheel-icon.svg
+| imagesize=150px
+| nationality=Aldesharin
+| ewothist=Joal Ramedar
+| rank=King
+| title=King of Aldeshar
+| status=Dead
+| gender=Male
+| mentioned={{LoC|26}}
+}}
+'''Joal Ramedar''' was the last King of [[Aldeshar]], a nation of the [[Third Age#The Free Years|Free Years]]. He is also the direct ancestor of the rulers of [[Andor]] and the [[Dragon Reborn]], [[Rand al'Thor]], himself.
+
+== History ==
+It is unknown when Ramedar became King, but he was the ruler of the nation during part of the [[Consolidation]], [[Artur Paendrag Tanreall|Artur Hawkwing]]'s war of conquest which saw him take control of all the [[Westlands]] over a twenty-year period. For much of that time, Aldeshar was part of a coalition of nations waging war against Hawkwing, according to some histories at the direction of [[Bonwhin Meraighdin]], the [[Amyrlin Seat]] of the [[Aes Sedai]] at the time.
+
+Aldeshar was the final kingdom to succumb to Hawkwing's forces. Hawkwing conquered the nation in {{Fy|963}}. However, Hawkwing held Ramedar to blame for the death of his wife [[Amaline Paendrag Tagora]] from poison, along with three of his children, three years earlier. Hawkwing was unusually cruel and ruthless in his treatment of Aldeshar, scattering its nobility across the continent. Ramedar's fate is not recorded, but given Hawkwing's [[Black Years|fury]] at the time, it is presumed that he was executed.
+
+Hawkwing later regretted his treatment of Aldeshar and restored Ramedar's daughter [[Endara Casalain]] to titles and honors, making her the governor of the Imperial Province of [[Andor]]. Endara's daughter [[Ishara]] founded the kingdom of Andor during the opening year of the [[War of the Hundred Years]] and established an unbroken bloodline that remains strong today, a thousand years on. Joal Ramedar is hence the direct ancestor of most of the great houses of Andor.
+
+{{DEFAULTSORT:Ramedar, Joal}}
+[[Category:Historical people]]

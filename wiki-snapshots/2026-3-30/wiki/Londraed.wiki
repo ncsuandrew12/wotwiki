@@ -1,0 +1,16 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Unknown nationality
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| status=Alive
+| appeared={{kod|27}}
+| lastappeared={{amol|p}}
+| living=amol
+}}
+'''Londraed''' is a member of the [[Band of the Red Hand]].
+
+== Activities ==
+While in [[Altara]], he is one of the Band members who engage a [[Seanchan]] unit in an ambush, wiping out the whole contingent with just about no casualties.
+He fights against the [[Shadowspawn]] army during the sacking of Caemlyn.

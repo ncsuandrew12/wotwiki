@@ -1,0 +1,20 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| death={{ne|1000}}
+| gender=Male
+| status=Dead
+| affiliation=Cha Faile
+| appeared={{tpod|8}}
+}}'''Parelean''' was a member of [[Cha Faile]].{{ref|{{twotc}}, Parelean}} He was from [[Tear]].
+
+== Appearance ==
+He had a square chin. He had a beard but started shaving once he joined ''Cha Faile''.
+
+== Activities ==
+He follows [[Faile Bashere]] to [[Ghealdan]] and seems to be one of the leaders of ''Cha Faile''.
+<nowiki> </nowiki>Faile thinks that he and Selande are the smartest among them, though [[Camaille Nolaisen|Camaille]] and [[Arrela Shiego|Arrela]] are quicker thinkers. He manages to tell Faile about [[Masema Dagar]] meeting with the [[Seanchan]] before he is killed in battle with the [[Shaido]].
+
+{{notes}}
+[[Category:Eyes-and-ears]]

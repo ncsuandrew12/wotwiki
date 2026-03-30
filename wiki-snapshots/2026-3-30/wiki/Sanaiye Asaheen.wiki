@@ -1,0 +1,29 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewot=sanaiye
+| ajah=Green
+| nationality=Domani
+| status=Alive
+| affiliation=White Tower
+| rank=Aes Sedai
+| occupation=
+| gender=Female
+| build=
+| mentioned=The Wheel of Time Companion
+| living=
+}}'''Sanaiye''' is a [[Domani]] [[Aes Sedai]] of the [[Green Ajah]] who remanied loyal during the [[Tower]] split.{{ref|{{twotc}}, Sanaiye Asaheen}}
+
+== Strength ==
+[[Covarla Baldene]] obtained command in [[Dorlan]] because she was the strongest in that group of Aes Sedai. Sanaiye's strength must therefore be below that of Covarla ({{opsl|27}}).
+
+== Activities ==
+She was one of the Aes Sedai sent to kidnap [[Rand]] in [[Cairhien]]. She escaped with [[Covarla Baldene]] after [[Dumai's Wells]] battle and took refuge in the village of Dorlan.
+
+==Trivia==
+This Aes Sedai is described only in "The Wheel of Time Companion", she is never mentioned in the main books of the Wheel of Time.
+
+{{notes}}
+[[Category:Dorlan Group]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Character not mentioned in books]]

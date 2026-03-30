@@ -1,0 +1,25 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=Unknown occupation
+| affiliation=
+| height=Tall
+| build=
+| hair=
+| status=Unknown
+| clan=Unknown clan
+| sept=Unknown sept
+| mentioned={{tom|48}}
+}}
+
+'''Malidra''' is a distant descendant of Aviendha and Rand in one potential future. She is seen by [[Aviendha]] in the [[Glass columns]] of [[Rhuidean]]. 
+
+== Ancestry of Malidra ==
+[[Aviendha]] and [[Rand al'Thor|Rand]] ↠ [[Padra]] ↠ [[Oncala]] ↠ [[Ladalin]] ↠ ? ↠ ? ↠ [[Rowahn]] ↠ [[Tava]] ↠ ? ↠ [[Norlesh]] ↠ ? ↠ '''Malidra'''
+
+== History ==
+By her time, the Aiel are completely broken as a people and she lives as a scavenger, occasionally murdering people in their sleep to steal their food. She is killed while raiding the trash of [[Flern]] and his companions for scraps of food. Her death ends the line of Aviendha and Rand al'Thor.
+[[Category:Foreseen people]]
+[[Category:Short pages]]

@@ -1,0 +1,22 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=rad aldai
+| nationality=Andoran
+| occupation=
+| gender=Male
+| affiliation=Two Rivers
+| status=Dead
+| appeared= {{twotc}}
+}}{{for|others with the same surname|al'Dai}}
+
+'''Willim al'Dai''' was a [[Two Rivers]] man who once served on the [[Emond's Field]] [[Village Council]]. He is only mentioned in [[The Wheel of Time Companion]].
+
+==History==
+He was [[Bili al'Dai]]'s grandfather and [[Hu al'Dai]]'s father.
+
+Willim was once on the Emond’s Field Village Council. 
+
+He died of old age well before the first appearance of Trollocs in the Two Rivers.
+[[Category:Character not mentioned in books]]
+[[Category:Village Councilors]]

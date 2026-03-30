@@ -1,0 +1,17 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Edesina Azzedin
+| gender=Unknown
+| appeared={{tom|17}}
+}}
+'''Firewisp''' is a horse, formerly belonging to a soldier in the [[Band of the Red Hand]]. Firewisp is now owned by [[Edesina Azzedin]].
+
+==Activities==
+When the [[Aes Sedai]] leave his camp, [[Mat Cauthon]] grudgingly parts with a number of horses, including Firewisp and [[Moonglow]].{{ref/book|13|17}}
+
+{{notes}}
+{{short}}

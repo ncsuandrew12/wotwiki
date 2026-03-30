@@ -1,0 +1,31 @@
+{{ character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Saldaean
+| gender=Female
+| build=Lean
+| height=Tall
+| occupation=Queen's Guard
+| appeared={{kod|32}}
+| mentioned={{cot|14}}
+| lastappeared={{kod|32}}
+| living=kod
+}}'''Yurith Azeri''' is a [[Saldaea]]n and a member of [[Elayne Trakand|Elayne Trakand's]] bodyguards.{{ref|{{twotc}}, Yurith Azeri}}
+
+== Appearance ==
+She is as tall and lean as most men, standing 5'10. She has dark tilted eyes and a strong nose common to her country, and has short curly black hair.
+
+She was short of her middle years. Despite having a cultured manner, she denied being noble-born.
+
+She was cool and reserved, and rarely smiled. She would change the subject when asked about her past.
+
+== Activities ==
+She reports to [[Caseille Raskovni]] that [[Merilille Ceandevin]] and [[Talaan din Gelyn]] have fled the Royal Palace in [[Caemlyn]].
+
+She was a [[Hunter of the Horn]] before becoming one of Elayne's bodyguards. She is very skilled with a sword and teaches Elayne's other bodyguards how to use one.
+She is outside the house on Full Moon Street when the [[Aes Sedai]]'s [[Warder]]s go charging inside. [[Birgitte Silverbow]] gets the bodyguards to instead ride back to the royal palace and mount a strike force to try and rescue Elayne, who is taken captive.
+
+{{notes}}
+{{DEFAULTSORT:Azeri, Yurith}}
+[[Category:Hunters of the Horn]]

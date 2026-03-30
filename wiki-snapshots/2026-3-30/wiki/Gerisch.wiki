@@ -1,0 +1,26 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Seanchan
+| affiliation=Ever Victorious Army
+| occupation=Soldier
+| rank=Banner-General
+| build=
+| hair=
+| gender=Female
+| appeared={{amol|37}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Gerisch''' is a [[Seanchan]] [[Banner-General]].
+== Activities ==
+She is a [[Banner-General]] in the Seanchan army. [[Mat Cauthon]] tells her she has a nice backside. 
+
+During the [[Last Battle]], she is present when Mat's orders to [[Lan Mandragoran]] are relayed to the [[Shara]]ns, and he suspects her of potentially being a spy.{{ref/book|14|28}}
+
+== Trivia ==
+* Gerisch is named for Margaret St. John, a fan of ''The Wheel of Time''. The character's name comes from her maiden name.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

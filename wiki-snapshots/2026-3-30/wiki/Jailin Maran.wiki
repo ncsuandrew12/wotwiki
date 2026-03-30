@@ -1,0 +1,18 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality= Andoran
+| affiliation=House Marne
+| status=Alive
+| gender=Male
+| mentioned={{cot|p}}
+| lastmentioned={{cot|p}}
+| living=cot
+}}'''Jailin Maran''' is a lesser noble from [[Andor]].{{ref|{{twotc}}, Jailin Maran|JM}} His sigil is a cross-hatched Red Wall.{{ref||JM}}
+
+== Activities ==
+Usually support is thrown behind [[Elenia Sarand]]'s claim to the [[Lion Throne]] but the House's banners were seen in [[Arymilla Marne]] camp outside [[Caemlyn]].
+
+{{notes}}
+{{DEFAULTSORT:Maran, Jailin}}
+[[Category:Nobility]]

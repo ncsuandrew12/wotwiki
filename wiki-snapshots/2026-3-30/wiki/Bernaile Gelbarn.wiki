@@ -1,0 +1,46 @@
+{{ character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ewot=Bernaile
+| ajah=White
+| nationality=Taraboner
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| hair=Braided with beads
+| build=Stocky
+| status=Alive
+| appeared={{cot|p}}
+| mentioned={{tpod|26}}
+| lastappeared={{cot|p}}
+| living=cot
+}}'''Bernaile Gelbarn''' is a [[Taraboner]] [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Bernaile Gelbarn|comp}}
+
+== Appearance and Personality ==
+She is stocky in appearance and wears her hair in beaded braids hanging well below her shoulders.{{ref/book|10|p}} She is 5'5 tall, with hazel eyes and pale brown hair.{{ref||comp}} 
+
+She tends to be aloof in public, but can laugh and tell jokes with close friends.{{ref||comp}} 
+
+==Strength and Abilities==
+She is [[Strength in the One Power among Aes Sedai|strong]] in the [[One Power]] for an Aes Sedai, with a strength level of {{opsl|22}}.
+Among the [[ten ferrets]], Bernaile is the third in hierarchy by strength and years of training. She is also second strongest of the White Ajah among the [[Rebel Aes Sedai]] of which we have information, only [[Carlinya Sorevin]] being stronger and [[Brendas]] her equal.{{ref||comp}} 
+
+She is able to [[Traveling|Travel]].
+
+==Activities==
+Born in {{ne|919}}, she goes to the White Tower in {{ne|936}}. After seven years as a novice and nine as Accepted, she is raised Aes Sedai in {{ne|952}}.{{ref||comp}} 
+
+She has allied herself with the [[Salidar Aes Sedai]] and was one of the [[Rebel Spies]] sent to the [[White Tower]] to spread the rumor that the [[Red Ajah]] set [[Logain]] up as a [[False Dragon]].{{ref/book|7|8}} Like the others, she was out of the Tower during the schism.{{ref||comp}} 
+
+When [[Zerah Dacan]] is found out to be a Salidar spy, she gives up Bernaile's name as well. Bernaile is now part of the group that is trying to hunt down the [[Black Ajah]].{{ref/book|8|26}} Bernaile and Meidani stand watch while [[Yukiri Haruna|Yukiri]] and [[Seaine Herimon|Seaine]] meet to discuss their progress with the Black Ajah hunt. Their standing watch becomes necessary because of the climate of conflict between the Ajahs (sisters from different Ajahs talking casually would have been seen as unusual), and because of the secrecy of their mission. Yukiri becomes annoyed that Bernaile and Meidani smile at one another; this would have been suspicious as they are from different Ajahs.
+
+[[Meidani Eschede|Meidani]] was later freed from her oath of obedience to [[Seaine Herimon|Seaine]] and the other Black Ajah hunters; it is likely Bernaile and the rest were as well.
+
+{{notes}}
+{{DEFAULTSORT:Gelbarn, Bernaile}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Eyes-and-ears]]
+[[Category:Ferrets]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,20 @@
+{{ character
+| image=AndorFlag.png
+| imagesize=250px
+| ewothist=Maragaine
+| nationality=Andoran
+| rank=Queen of Andor
+| title=Queen
+| affiliation=Andor
+| gender=Female
+| status=Dead
+| mentioned={{Loc|26}}
+| lastmentioned={{loc|26}}
+}}
+'''Maragaine''' was the fifth Queen of [[Andor]], succeeding Queen [[Termylle]] in {{Fy|1054}}. It is not known if Maragaine was Termylle's daughter, but it is known that she was also a descendant of Queen [[Ishara Casalain]], the founder of the kingdom of Andor.
+
+== History ==
+In {{Fy|1063}}, Andor faced the gravest threat to its survival since its founding when four rival kings united their armies and invaded the kingdom from the west. Maragaine personally led her troops at the [[Battle of Four Kings]] and they proved victorious. The town of [[Four Kings]] later grew up on the battle site.
+
+Maragaine ruled for nineteen years (FY 1054-[[FY 1073|73]]), and was succeeded by [[Astara]].
+[[Category:Historical people]]

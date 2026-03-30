@@ -1,0 +1,17 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Mason
+| gender=Male
+| mentioned={{tsr|47}}
+| lastmentioned={{tsr|47}}
+| living=tsr
+}}
+'''Jovarin''' is a mason hired to build an addition to the [[White Tower]] library.
+
+==Activities==
+[[Siuan Sanche]] notices he has claimed to hire more workmen than is needed and she plans to find out what is going on.{{ref/book|4|47}}
+
+{{notes}}

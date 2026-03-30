@@ -1,0 +1,45 @@
+{{ character
+| image=Ellid Abareim.jpg
+| imagesize = 203px
+| bgcolor=#639
+| fgcolor=white
+| death={{ne|979}}
+| nationality=Unknown nationality
+| gender=Female
+| rank=Accepted
+| status=Dead 
+| height=Very tall
+| hair=Waves, golden
+| eyes=Large, sapphire colored
+| mentioned={{ns|4}}
+| appeared={{ns|8}}
+| lastappeared={{ns|8}}
+| lastmentioned={{ns|14}}
+}}'''Ellid Abareim''' was an [[Accepted]] in the [[White Tower]] until {{Ne|979}}.
+
+==Appearance==
+Ellid was arguably the prettiest Accepted in the Tower at the time of ''[[New Spring]]'', followed closely by [[Sarene Nemdahl]].{{ref/book|0|4}} When she smiled, she always seemed to be looking into a mirror. She had waves of golden hair which framed a perfect face. She had eyes like large sapphires and skin like rich cream. She had an over-abundance of bosom - the only minor flaw in her appearance - and was almost as tall as most men.{{ref/book|0|8}}
+
+Vanity was Ellid's only fault.{{ref/book|0|8}} She always smiled when she saw herself in a mirror, and had a tendency to flaunt her beauty. Men smiled at Ellid, when they weren't leering. [[Novices]] mooned after her, and many Accepted envied her.{{ref/book|0|8}}
+
+==History==
+Ellid wanted to be a [[Green Ajah|Green]] sister and have six [[Warders]] when she rode to the [[Last Battle]]. Every Accepted knew this, because Ellid always told everyone what she intended to do. And she almost always did what she said.{{ref/book|0|4}}
+
+The week before [[Gitara Moroso]]'s death, Ellid gives [[Siuan Sanche]] a blacksmith's puzzle claiming she is bored with it, but Siuan believes she couldn't solve it.{{ref/book|0|7}}
+
+Ellid was among the Accepted sent out of the [[White Tower]] by [[Amyrlin Seat]] [[Tamra Ospenya]], to record names of all boychildren born during the [[Aiel War]] who were eligible for the bounty. In a spiky hand, she writes that [[Willa Mandair]] gave birth to a son called [[Bili Mandair|Bili]] on the day of Gitara's [[Foretelling]], west of the [[River Erinin]] and in sight of [[Dragonmount]].{{ref/book|0|6}}
+
+Ellid overhears [[Adelorna Bastine]] telling [[Shemaen]] about Gitara's Foretelling, that the Last Battle will come during the lifetime of sisters now breathing. She repeats this conversation to [[Moiraine Damodred]] and Siuan, before joining the rest of the Accepted on their way to supper.{{ref/book|0|8}}
+
+[[Myrelle Berengari]] fetches Ellid and [[Sheriam Bayanar]] to help apply ointment to Moiraine and Siuan after [[Elaida do Avriny a'Roihan]] pushes them to extremes during practice for the [[shawl]]. She gasps over the bruises and welts left on her friends by Elaida, and exclaims that what Elaida has done goes against [[Tower law]]. She suggests reporting the abuse to [[Merean Redhill]] but Moiraine disagrees with her. While applying the ointment to Siuan, she is a little too rough but is contrite and apologetic when Siuan complains.{{ref/book|0|8}}
+
+After this incident, Ellid, Myrelle and Sheriam keep watch over Moiraine and Siuan, appearing after Elaida leaves to commiserate and apply ointment to their injuries. Ellid even tries to make jokes but no one feels like laughing. Eventually Merean puts a stop to Elaida's abuse of Moiraine and Siuan, and Moiraine suspects that either Ellid, Myrelle or Sheriam, if not the three of them together, told her.{{ref/book|0|8}}
+
+Ellid was summoned to her test for [[Aes Sedai]] the day after the [[Feast of Lights]]. She did not return from the ''[[ter'angreal]]'', and her death was not announced by the Tower. Her things were removed, and a day of mourning was observed. By custom, she was not spoken of again.{{ref/book|0|14}}
+
+{{notes}}
+
+{{DEFAULTSORT:Abareim, Ellid}}
+
+[[es:Ellid Abareim]]
+[[Category:Channelers]]

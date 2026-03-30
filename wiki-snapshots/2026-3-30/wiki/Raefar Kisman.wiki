@@ -1,0 +1,35 @@
+{{character 
+| image=Ashaman.png
+| imagesize = 125px 
+| ewot=kisman
+| affiliation=Darkfriend
+| name=Raefar Kisman
+| status=Dead
+| death={{ne|1000}}
+| nationality=Tairen
+| rank=Asha'man
+| occupation=Asha'man
+| gender=Male
+| height=Average
+| appeared={{loc|42}}
+| lastappeared={{wh|22}}
+| lastmentioned={{wh|33}}
+}}
+'''Raefar Kisman''' was an [[Asha'man]]. He had reached the rank of [[Asha'man]] and was one of [[Mazrim Taim]]'s men.
+
+== Appearance ==
+He was younger than [[Rand al'Thor]], of average height and pale for a Tairen.
+
+== History ==
+He was from [[Tear]].
+
+== Activities ==
+He carried away [[Peral Torval]] after he had been clubbed unconsious by [[Mazrim Taim]]. He fought in the [[Battle of Dumai's Wells]]. After Rand chose Dashiva to stay with him after Dumai's Wells, Taim stalked away, calling for [[Gedwyn]], Rochaid, Torval and Kisman.{{ref/book|7|2}} 
+
+After the attack on the Sun Palace, he deserted.{{ref/book|7|29}} His name was placed on the deserter's list, to the surprise of [[Androl Genhald]].{{ref/book|9|p}} He was commanded by Taim, [[Demandred]] and [[Moridin]] to kill Rand. After the assassination attempt on Rand's life by the rogue Asha'man, Taim reported to Rand that Kisman was a deserter. He followed Rand's trail to [[Far Madding]] where he confronted Rand. He was forced to flee after accidently killing his partner [[Manel Rochaid]]. He was later stabbed by [[Padan Fain]] with the [[Shadar Logoth]] dagger and died soon after.{{ref/book|9|22}}
+
+{{notes}}
+{{DEFAULTSORT:Kisman, Raefar}}
+[[Category:Taim's cronies]]
+[[Category:POV character]]
+[[Category:Channelers]]

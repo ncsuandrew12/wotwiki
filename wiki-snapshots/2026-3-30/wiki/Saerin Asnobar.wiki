@@ -1,0 +1,90 @@
+{{character 
+| image=Saerin Asnobar.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Altaran
+| gender=Female
+| rank=Aes Sedai
+| occupation=Sitter
+| affiliation=White Tower
+| hair=Dark, Graying
+| status=Alive
+| appeared={{tpod|26}}
+| lastappeared={{amol|epilogue}}
+| living=amol
+|birth = {{ne|781}}}}'''Saerin Asnobar''' is an [[Aes Sedai]] of the [[Brown Ajah]] and a [[Sitter]] in the [[Hall of the Tower]].
+
+== Appearance and Personality==
+Saerin is 5'6" tall and has olive skin and straight black hair that is graying slightly at the temples{{ref/book|8|26}}. She has a faint, faded scar on her left cheek and jaw, giving her a somewhat intimidating look. She is attractive but unlike her Brown Ajah sisters she is seen as quite fierce; scowling as well as any [[Warder]]. Saerin retains an Ebou Dari sense of honor and often carries a traditional curved dagger behind her belt, which she unconsciously fingers when angry.
+
+==Strength and Abilities==
+Saerin has a strength in the [[One Power]] of {{opsl|20}}, making her [[Strength in the One Power among Aes Sedai|very strong]] for an Aes Sedai.{{ref|{{twotc}}, Saerin Asnobar}} Only four other women out the Tower loyalists we have details on can match her strength, and only Elaida exceeds it.{{ref|{{twotc}}}}
+
+The non-canon [[A Fire Within the Ways]] has her an expert in the [[Ways]].
+
+== History ==
+She is from [[Altara]]. Saerin was born in {{ne|781}} near [[Ebou Dar]].
+
+She was an innkeeper's daughter. She was trained by the [[Daughters of Silence]], who recruited her in {{ne|796}}, prior to coming to the [[Tower]] and was their only apprentice to become Aes Sedai. She joined the White Tower in [[798 NE]] and spent twelve years as a [[novice]] and ten years as [[Accepted]]. She spent so long in her training because of her association with the Daughters of Silence, and was the only member who managed to become Aes Sedai.
+
+Saerin was raised to the [[shawl]] in {{ne|820}}.
+
+She has been a [[Sitter]] for forty years, longer than any other Sitter in the loyalist White Tower.
+
+She is one of the oldest known living Aes Sedai at the time of the [[Last Battle]]. She is 219 years old.
+
+== Activities ==
+=== [[Black Ajah Hunters|Black Ajah hunter]] ===
+She remained loyal to the [[White Tower]] during the [[Schism]] {{ref/book|12|12}} and somehow contributed to provoke it. In fact [[Doesine Alwain]], Yukiri, Saerin and [[Rubinde Acedone]], Sitters known for their rebellious temperament, were persuaded/manipulated to vote for the deposition of [[Siuan Sanche]] and then to raise [[Elaida a'Roihan]] as new [[Amyrlin Seat]]. They all regretted early these decisions.
+
+She was one of the six Sitters whom Elaida gave penances to, despite (or perhaps because of) her being the most senior Sitter in age and tenure. She was given Labor, forced to work in the kitchens alongside the scullions. She was disconcerted to find that [[Laras]], Mistress of the Kitchens, treated her exactly like a scullion - worked hard and called out for not doing work properly. Saerin did like Laras for that, as she considered it the proper attitude to have towards penances.
+
+Saerin, along with [[Yukiri]], Doesine and [[Talene Minly]], followed [[Pevara Tazanovni|Pevara]] and [[Seaine Herimon]] into rooms below the White Tower, where Pevara and Seaine ordered them to forswear all current oaths and then reswear the [[Three Oaths]] using the [[Oath Rod]]. They were then asked if they were [[Black Ajah]]. Saerin re-swore her Oaths and afterwards answered that she was not Black Ajah, proving she was not.
+
+Of the three examined only Talene was identified as Black Ajah. Later, she found out that she was to attend a Black Ajah Supreme Council meeting where she suspected she would be murdered. Saerin hides her in a room in the lower basement of the White Tower.
+
+=== Consorting with the rebel Amyrlin ===
+She is in the White Tower basement when [[Meidani Eschede]] brings in [[Egwene al'Vere]]. Egwene tells them to continue hunting the Black Ajah but also tells them to remove the fourth oath they have placed on the [[Rebel Spies]]. Egwene also points out that deposing [[Siuan Sanche]] was an unlawful action because the proceedings included a Black Ajah member, without whom a quorum was not present.
+
+After Egwene is released from her cell, Searin finds her and relates to her that [[Silviana Brehon]] denounced Elaida over Egwene's poor imprisonment conditions. Egwene sends Saerin to summon the [[Hall of the Tower]] to try and remove Elaida or at least save Silviana from execution.
+
+She takes charge of the Aes Sedai resistance against the [[Seanchan]] in the [[Battle of Tar Valon]] along the ground floors in the White Tower. [[Katerine Alruddin]] tries to unsurp her position but is reminded that she, Searin, is a Sitter while Katerine is not.
+
+She stands with the rest of the Hall of the Tower to raise Egwene unanimously as the new Amyrlin Seat. She takes a rough census of the number of women who were captured by the Seanchan during the battle and provides it to Egwene.
+
+Saerin is with Siuan Sanche when [[Jimar Chubain]] informs them that [[Rand al'Thor]] has entered the White Tower. During their way to meet with the Dragon they face and avoid a [[bubble of evil]] that is transforming a Tower corridor in a blood pool{{ref/book|13|3}}.
+
+Saerin then attends the meeting in the Hall to hear Rand announce that he is going to break the remaining [[Seven Seals|Seals]] on the [[Dark One]]'s prison{{ref/book|13|3}}.
+
+=== Giving and making a choice ===
+[[File:EgweneLeadingSeaineYukiriandSaerin.JPG|thumb|left|400px|Saerin (far right) with Seaine Herimon and Yukiri Haruna deferring to the leadership of Egwene al'Vere - Artwork by Jieroque]]
+She meets with Egwene, Yukiri and Seaine and discusses who [[Mesaana]] could be posing as in the White Tower and how she could have defeated the [[Three Oaths]]. Egwene tasks them with finding the [[Forsaken]].
+
+Saerin is one of seven Sitters who take part in [[Nynaeve al'Meara]]'s test for the shawl inside the oval ''[[ter'angreal]]''. The testing is unusually severe, cruel even, and Saerin is heavily concerned and even furious afterwards at the others for making Nynaeve suffer so much. She is one of the four Sitters - the others being Yukiri, Seaine and Romanda - who think her worthy, thereby allowing her to be raised properly.
+
+She arrives late to a secret meeting called by Hall of the Tower - she and other Sitters seen as Egwene's supporters were purposely left out. Saerin figured out Egwene's maneuvering to trick the Hall into voting for a proposal that would allow only Egwene to deal with the monarchy of the world, which includes Rand as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army. Saerin supported Egwene in this and hinted to latecomers Doesine and Yukiri that they should vote in favor. In that same meeting of the Hall, Saerin voted in favor of the new rules and procedures in the Hall as outlined by Egwene, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present.
+
+The Black Ajah initiate an attack on Egwene al'Vere in ''[[Tel'aran'rhiod]]''. Saerin is told to wake but can't leave due to [[Perrin Aybara]] bringing the [[dreamspike]] over Tar Valon. She participates in the [[Battle in Tel'aran'rhiod]].
+
+=== The Last Battle ===
+Saerin is one of the five that Egwene takes with her to sign the [[Dragon's Peace]]. During the meeting, she brings up the point that this document would effectively be null and void if they cannot get the [[Seanchan]] Empress to sign it. Saerin accompanies Egwene back into their camp, after the later managed to successfully escape from the [[Shara]]ns. Egwene notices ''raken'' scouts in the air and it has been confirmed by [[Min]] that the Seanchan fight the shadow. Saerin questions whether the Seanchan can be trusted, to which no one has an answer for.
+
+After the battle is won, she and [[Elswell|Elswell Sedai]] help persuade [[Rodel Ituralde]] to become king of Arad Doman. She and three other sitters - Yukiri, Rubinde and [[Lyrelle Arienwin]] - persuade [[Cadsuane Melaidhrin]] to become the Amyrlin Seat{{ref/book|14|e}}.
+
+{{notes}}
+
+{{DEFAULTSORT:Asnobar, Saerin}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:POV character]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Wilders]]<references />
+
+{{DEFAULTSORT:Asnobar, Saerin}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:POV character]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Wilders]]

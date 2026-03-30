@@ -1,0 +1,24 @@
+{{ character 
+| image=DFWarder.svg
+| imagesize = 125px
+| nationality=Unknown nationality
+| gender=Male
+| status=Alive
+| affiliation=Darkfriend
+| occupation=Warder
+| mentioned={{Wh|10}}
+| appeared={{Kod|32}}
+| lastappeared={{kod|32}}
+| living=kod
+}}
+'''Powl''' is [[Warder]] to [[Asne Zeramene]].
+
+==History==
+Powl is one of Asne's four Warders, but the only one who is a [[Darkfriend]].
+
+==Activities==
+After leaving [[Samara]] Asne stops masking her bond to her Warders, enabling them to locate her. Powl and the other Warders arrive in [[Caemlyn]] sometime afterwards. 
+
+When Asne is captured, only three men are captured and identified as being Asne's warders. What happened to the fourth, or his identity, is unknown at this point. It may also be a minor inconsistency.
+
+[[es:Powl]]

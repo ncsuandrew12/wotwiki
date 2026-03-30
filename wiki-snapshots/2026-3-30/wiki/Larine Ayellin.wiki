@@ -1,0 +1,35 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| birth= {{ne|981}} 
+| nationality=Andoran
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| hair=Thick braid
+| build= Willowy
+| status=Alive
+| appeared={{loc|10}}
+| lastappeared={{loc|11}}
+| lastmentioned={{cot|30}}
+| living=cot
+}}{{for|others with the same surname|Ayellin}}
+'''Larine Ayellin''' is a girl from [[Emond's Field]] with the ability to channel.  She became a [[novice]] with the [[Rebel Aes Sedai]].{{ref|{{twotc}}, Larine Ayellin}}
+
+== Appearance ==
+Larine is three years younger than [[Rand al'Thor]]{{ref/book|6|10}} and around the age of [[Egwene al'Vere]], with whom she was a close childhood friend. She is willowy and her hair is in a thick [[braid]]. Larine knows herself to be attractive; she is described as being "very pretty." While in Emond's Field, she purchases a Domani dress, which would show off her body, but her mother insisted she return it to the seamstress.{{ref/book|6|10}}
+
+==Activities==
+Larine is tested for channeling abilities by [[Verin Mathwin]] and [[Alanna Mosvani]], and is found suitable for training. She accompanies several other [[Two Rivers]] girls with channeling abilities{{ref|The other girls are [[Bodewhin Cauthon]], [[Hilde Barran]], [[Jerilin al'Caar]], [[Marisa Ahan]], [[Emry Lewin]], [[Elise Marwin]], [[Darea Candwin]], [[Jancy Torfinn]], [[Susa al'Seen]] and [[Marce Eldin]].}} to [[Caemlyn]], where they stay in [[Culain's Hound]] Inn. Rand visits the Inn and Larine, not believing him the Dragon Reborn, displays the typical [[Two Rivers]] female assertiveness taking a patronizing tone with Rand:
+
+{{quote|Larine sniffed and folded her arms beneath her breasts. 'As soon as I saw that coat I knew you had gotten a big head, running off with an Aes Sedai the way you did. I knew it before you talked so disrespectfully to Alanna Sedai and Verin Sedai. But I didn't know you had become a stone blind jack-fool.'|{{6|10}}}}
+
+When Rand confirms his channeling ability by lifting her and Bode with [[Weave]]s of [[Five Powers|Air]], Larine's haughtiness gives way to terror. After he leaves, still with tearful sniffles and hiccups, Larine blubbers that they should leave Caemlyn immediately, in fear that Rand will kill them. Verin is irritated that a girl supposedly mature enough to wear a Two Rivers braid is acting this hysterically.{{ref/book|6|11}}
+
+Larine and the other aspiring channelers from the Two Rivers travel with [[Kairen Stang|Kairen Sedai]], [[Demira Eriff|Demira Sedai]], [[Valinde Nathenos|Valinde Sedai]], and [[Berenicia Morsad|Berenicia Sedai]] to join the [[Rebel Aes Sedai]] in [[Murandy]].{{ref/book|6|49}} Larine becomes a part of the same novice "family" as [[Nicola Treehill]]. Although Larine does not like her "cousin," she helps cover Nicola's escape, in fear Nicola might otherwise return. For this she is punished, and her girlhood friend the Amyrlin Egwene does not grant lenience.
+
+{{notes}}
+{{DEFAULTSORT:Ayellin, Larine}}
+[[Category:Two Rivers (people)]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Channelers]]

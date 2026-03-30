@@ -1,0 +1,22 @@
+{{Under construction}}
+The following is a comparison of '''[[Ter'angreal]], [[Sa'angreal]] and [[Angreal]]'''. For more in-detail information on Ter'angreal, Sa'angreal and Angreal individually, view the afore linked articles. 
+
+== Sa'angreal, Ter'angreal, and Angreal in the Wheel of Time ==
+
+Sa'angreal, Ter'angreal, and Angreal are three distinct categories of magical artifacts in the world of [[Robert Jordan]]'s ''[[The Wheel of Time]]'' series. Each serves a unique purpose and possesses different abilities, providing [[:Category:Channelers|channelers]] with additional [[channeling]] abilities.
+
+=== Angreal === 
+[[Angreal]] are artifacts that enhance a [[:Category:Channelers|channeler]]'s ability to channel the [[One Power]], the fundamental force of magic in the ''[[Wheel of Time]]''. They come in various sizes and shapes, from small trinkets to large objects. Angreal do not possess specific functions beyond amplifying the amount of the One Power a channeler can wield. They are essential tools for channelers seeking to increase their strength without risking exhaustion or overexertion.
+
+=== Ter'angreal === 
+[[Ter'angreal]] are magical objects with specific functions or effects beyond simply amplifying the [[One Power]]. They can range from items that store knowledge or provide protection to those that allow the user to enter [[Tel'aran'rhiod]], the world of dreams. Ter'angreal often have specific requirements or limitations on their use, and their functions can vary widely. Some are relatively common and well-understood, while others remain mysterious or lost to history.
+
+=== Sa'angreal === 
+[[Sa'angreal]] are the most powerful of the three types of artifacts. They greatly amplify a [[:Category:Channelers|channeler]]'s ability to channel the [[One Power]], far beyond what an [[Angreal]] could achieve. Sa'angreal are rare and highly coveted, as they can enable feats of magic that would otherwise be impossible.
+
+=== Differences ===
+# Purpose: [[Angreal]] primarily amplify the amount of the [[One Power]] a [[:Category:Channelers|channeler]] can wield, while [[Ter'angreal]] have specific functions or effects beyond enhancement. [[Sa'angreal]], on the other hand, are the most potent amplifiers of the One Power, surpassing both angreal and ter'angreal in power.
+# Functionality: Angreal are straightforward in their purpose, providing a boost to a channeler's abilities. Ter'angreal, however, have diverse functions and effects, ranging from storing knowledge to granting access to alternate realities. Sa'angreal, while also amplifying the One Power, do so to an extent that allows for extraordinary feats of magic.
+# Rarity: Angreal are relatively common and can be found in various forms and sizes. Ter'angreal are less common and often have specific requirements or limitations on their use. Sa'angreal are the rarest of the three types, with only a few known to exist in the world of the [[Wheel of Time]].
+
+[[Category:Comparison]]

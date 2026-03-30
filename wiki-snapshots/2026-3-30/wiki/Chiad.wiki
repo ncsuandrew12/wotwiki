@@ -1,0 +1,49 @@
+{{character 
+| image=Chiad.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| birth=c. {{ne|981}}
+| height=5'7½"
+| society=Far Dareis Mai
+| clan=Goshien
+| sept=Stones River
+| affiliation=Car'a'carn
+| occupation=Gai'shain
+| hair=Reddish-blonde, short-cropped
+| eyes=Gray
+| status=Alive
+| appeared={{tdr|38}}
+| lastappeared={{amol|44}}
+| living=amol
+}}
+{{quote|Lie still Shaarad, or I will say I have touched you armed and allow you to choose how your honor stands.|Chiad while tending to a wounded [[Gaul]] during the [[Battle of Emond's Field]]}}
+'''Chiad''' is a [[Maiden of the Spear]] of the [[Stones River]] sept of the [[Goshien]] [[Aiel]] who crossed the [[Dragonwall]]. She is bonded as a [[first-sister]] to [[Bain]].
+
+== Appearance ==
+Chiad has short reddish-blond hair and gray eyes.
+
+==Activities==
+=== Tear and the Two Rivers ===
+Chiad meets [[Egwene al'Vere]], [[Elayne Trakand]], and [[Nynaeve al'Meara]] on their way to [[Tear]]. She leads them to [[Dailin (maiden)|Dailin]] who has been injured.{{ref/book|3|38}} They reveal they are searching for "He Who Comes With the Dawn." She is one of the Aiel present when the [[Stone of Tear]] falls.
+
+Chiad later joins [[Zarine ni Bashere t'Aybara|Faile]] when she heads to the [[Two Rivers]] to confront the [[Children of the Light|Whitecloaks]].{{ref/book|4|18}} There seems to be an attraction between [[Gaul]] and her, even though their respective clans have a blood feud with each other. She stays with Gaul to fight Trollocs during the [[Battle of Emond's Field]] instead of going with Faile and Bain to Watch Hill.{{ref/book|4|56}}
+
+=== Dumai's Wells ===
+Chiad accompanies Faile when she goes with [[Perrin Aybara]] to meet [[Rand al'Thor]] in [[Caemlyn]]. Gaul wants to marry her, but she doesn't want to give up the spear. She is Rand's guard when he is taken by the [[White Tower]] [[Aes Sedai]].  
+
+She fights in the [[Battle of Dumai's Wells]]. 
+=== Made ''gai'shain'' ===
+[[File:Bain and Chiad by googoolini.jpg|thumb|left|200px|Pencil sketch of Bain and Chiad by Googolini]]Chiad then moves out with Perrin and Faile when they [[Traveling|Travel]] to [[Ghealdan]] to track down [[Masema Dagar]]. While out hunting, she is captured by the [[Shaido]] and made ''[[gai'shain]]''.
+
+She helps [[Arrela Shiego]] and [[Lacile Aldorwin]] escape the Shaido camp but refuses to escape herself. She and Bain help Faile by making sure captive [[Dairaine Saighan]] doesn't run to [[Sevanna]] to inform her of Faile's planned escape.
+
+During the [[Battle of Malden]], she is rescued by Gaul and now serves as his ''gai'shain''. She recovers some clothing of [[Rolan]], [[Kinhuin]], and [[Jhoradin]] so that Faile can carry out a funeral service for the fallen men.
+
+Bain offers Gaul some freshly sharpened spears the day of Perrin's trial. She travels with Perrin and the rest of his huge force to the [[Field of Merrilor]] to prepare for the [[Last Battle]]. Bain and Chiad watch Gaul leave through the gateway with Perrin in their attempt to stop [[Slayer]].
+
+==In the television series==
+In the television series, {{TVlink|Chiad}} is played by actress {{TVlink|Maja Simonsen}}.
+
+{{notes}}
+{{Primary Protagonists}}

@@ -1,0 +1,33 @@
+{{ character
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Unknown nationality
+| gender=Female
+| build=Petite
+| status=Alive
+| affiliation=White Tower
+| rank=Aes Sedai
+| appeared={{tom|23}}
+| lastappeared={{tom|23}}
+| living=tom
+}}
+'''Nimri''' is an [[Aes Sedai]] of the [[Green Ajah]].{{ref|{{twotc}}, Nimri}}
+
+==Appearance==
+She is petite, and described as "drowsy-eyed", though it is unclear whether this is a feature of her appearance or due to her being awake at a late hour.
+
+==Strength and Abilities==
+Nimri stands high in the Aes Sedai hierarchy, being able to create a suitable gateway on her own, which implies to be above level {{opsl|28}}.
+
+==Activities==
+She is the sister on duty at the [[Traveling]] ground during a failed assassination attempt on [[Egwene al'Vere]]. She makes a gateway for [[Gawyn Trakand]] to a hillside an hour's travel from [[Caemlyn]].
+
+==Trivia==
+*Nimri is named for Nicole Nimry, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Characters named after fans]]

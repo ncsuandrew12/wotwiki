@@ -1,0 +1,55 @@
+{{summary | book=ns |
+|chapter=15
+|title=Into Canluum
+|icon=stag
+|setting=[[Kandor]]
+}}
+==Summary==
+:{{pov|[[Lan Mandragoran]]}}
+
+It is early spring as [[Lan]] and [[Bukama]] arrive in [[Canluum]], a city in [[Kandor]]. There are rumors running through the town of a man who can [[channel]]. The duo's ''[[hadori]]'' mark them as [[Malkier|Malkieri]] and draw attention from others. Lan can only think about the [[Blight]], where he is headed. They have traveled through [[Cairhien]], [[Andor]], and [[Tear]] since the end of the [[Aiel War]]. The ruler of Canluum is Lord [[Varan Marcasiev]]; his banner is the Red Stag. They lead their horses into Canluum where the gate guards do not recognize Lan, which annoys Bukama. Lan is owed respect as heir of Malkier. Some who enter with hoods up are prompted to lower them, as under the law all must bare their face inside [[Borderlands|Borderland]] villages and cities to show that they are not one of the [[Myrddraal|Eyeless]].
+
+Inside the city, Lan is accosted by a young guard who recognizes him and expresses relief that Lan had not died fighting the [[Aiel]] as rumors said. The guard offers Lan a ceremonial Malkieri greeting, which offends Bukama because the boy does not dress according to Malkieri customs and is sworn to a Kandori lord. Bukama gets rough with the young man which prompts an officer, [[Alin Seroku]], to come over to keep the peace. Surprisingly, Bukama apologizes and pledges not to draw his sword while within Canluum. They leave and head towards Marcasiev's palace on the highest hill in the city.
+
+Lan sees several [[Aes Sedai]] with their ageless faces and muses that they are much more commonly seen now after the passing of the old [[Amyrlin Seat]], [[Tamra Ospenya]]. He stays away from them lest one try to claim him as a [[Warder]]. Just as the Malkieri reputation for ferocity caused the villagers to be leery of them, it could be attractive to a sister searching for a Warder. Supposedly the Aes Sedai asked before bonding a man, but he knew several who were surprised to find themselves bonded so. They see a few other Malkieri present, but the men are not wearing the ''hadori'' and the women do not have the ''[[ki'sain]]''. Afraid Bukama will start more trouble, Lan makes excuses to avoid the palace and instead goes to find an inn to stay. To his surprise, Bukama does not complain about missing palace accommodations or food. Lan is worried that Bukama has lost his hard edge that they will need to survive in the Blight.
+
+==Notes==
+*This chapter takes place three months after [[Moiraine]] left [[Tar Valon]].
+
+==Characters==
+*[[Lan Mandragoran]]
+*[[Cat Dancer]] (animal)
+*[[Bukama Marenellin]]
+*[[Alin Seroku]]
+*[[Sun Lance]] (animal)
+*[[Nazar Kurenin]]
+===Referenced===
+*[[Cairhien|Varan Marcasiev]]
+*[[Tamra Ospenya]] - as ''the old Amyrlin Seat''
+
+==Groups==
+*[[Malkieri]]
+*[[Kandori]]
+===Referenced===
+
+*[[Aes Sedai]]
+
+==Places==
+*[[Canluum]]
+*[[Kandor]]
+===Referenced===
+*[[Cairhien]]
+*[[Andor]]
+*[[Tear]]
+*[[The Blight]]
+
+==Events==
+===Referenced===
+*[[Aiel War]]
+
+==Items==
+*''[[hadori]]''
+===Referenced===
+*''[[ki'sain]]''
+
+{{DISPLAYTITLE|''Into Canluum''<br/><br/><small>New Spring/Chapter 15</small>}}

@@ -1,0 +1,31 @@
+{{ character 
+| image=ShienarFlag.png
+| imagesize=250px
+| status=Dead
+| death={{tgh|6}}
+| nationality=Shienaran
+| occupation=Shambayan
+| affiliation=Agelmar Jagad
+| gender=Male
+| hair=White
+| appeared={{tgh|2}}
+| lastappeared={{tgh|2}}
+| dead=tgh|6
+}}'''Ronan''' is the ''[[shambayan]]'' of the [[Fal Dara]] keep in [[Shienar]].{{ref|{{twotc}}, Ronan}}
+
+==History==
+Ronan is age-withered and has few responsibilities besides ceremonies and acting as secretary to [[Agelmar Jagad]].
+
+His female counterpart and supposed equal, [[Elansu]] the ''[[shatayan]]'', handles most of the keep administration.
+
+==Appearance==
+He is age-withered and tall with a snow-white top-knot.
+
+==Activities==
+Many years ago he and twenty men held the Jehaan Tower against a thousand trollocs.
+
+He conducts the welcome for the [[Amyrlin Seat]] when she arrives at Fal Dara keep.{{ref/book|2|2}}
+
+He is killed when the Horn of Valere is stolen.{{ref/book|2|6}}
+
+{{notes}}

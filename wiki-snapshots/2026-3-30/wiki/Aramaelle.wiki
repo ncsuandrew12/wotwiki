@@ -1,0 +1,43 @@
+{{nation
+|image=
+|name=Aramaelle
+|historical=yes
+|type=Monarchy
+|headofstate=Queen [[Mabriam en Shareed]]
+|region=North Mid and East [[Westlands]]
+|capital=[[Mafal Dadaranell]] (now [[Fal Dara]])
+|cities=[[Anolle'sanna]], [[Cuebiyarsande]], [[Rhahime Naille]]
+|established=After the Breaking
+|dissolved=During [[Trolloc Wars]]
+|era=[[After Breaking]]
+}}'''Aramaelle''' was one of the [[Ten Nations]] destroyed in the [[Trolloc Wars]]. It was one of the [[Borderlands]] of its day, although that term did not come into use until some time later.
+
+==Geography==
+[[Image:Aramaelle.png|left|200px|thumb|In red location within the Ten Nations]]
+
+Aramaelle was located in the northeast of the [[Westlands]] and sprawled over a vast area, stretching from the [[Great Blight|Blight]] and the [[Spine of the World]] to the headwaters of the [[Haevin]]. It was bordered by [[Jaramide]] and [[Aridhol]] to the west and [[Coremanda]], [[Tar Valon]], and [[Almoren]] to the south. Aramaelle's capital city was [[Mafal Dadaranell]] (which later became [[Fal Dara]]) and its other [[Ogier]]-built cities were [[Anolle'sanna]], [[Cuebiyarsande]], and [[Rhahime Naille]].
+
+Aramaelle incorporated all of the modern territories of [[Malkier]], [[Shienar]], and [[Arafel]], as well as parts of [[Kandor]]. Most of the [[Black Hills]] lay within its borders. To the north, it reached into the [[Mountains of Dhoom]].{{ref/book|10|g}}
+
+==History==
+Aramaelle was one of the largest and most powerful nations to rise after the [[Breaking of the World]], and seems to have organized itself more quickly than some of the other nations, forging a strong alliance with the [[Aes Sedai]] and identifying the still-extant threat from [[Shadowspawn]] and [[Darkfriend]]s. Around the beginning of the third century after the Breaking its queen, [[Mabriam en Shereed]], who was also an [[Aes Sedai]], proposed that the ten nations ally against the remaining threat from the [[Shadow]]. With Aes Sedai support, her negotiations were successful and the [[Compact of the Ten Nations]] was signed in {{Ab|209}}.
+
+At one point, it was ruled by the warrior Queen [[Kirukan]]. 
+
+Aramaelle was the first nation to fall during the Trolloc Wars, with its capital city destroyed.
+
+Following the wars, the nations of [[Rhamdashar]], [[Elsalam]], [[Roemalle]], and [[Oburun]] arose from its ruins. Some of the symbols of rule in Aramaelle were passed down to Rhamdashar and eventually to the kings of [[Malkier]] and monarchs of [[Kandor]]. The Malkieri kings retain a ring forged from the remnants of a ring passed down for over three thousand years, while the rulers of Kandor retain the [[Sword of Kirukan]].{{ref/book|0|16}}{{ref/book|8|p}}
+
+==Trivia==
+One of the translators of the [[Karaethon Cycle]], [[Mangore Kiramin]], held the title of [[Sword-bard]] of Aramaelle. The function of this role is unknown, but may have been similar to the [[Swordbearer]] of Kandor doubling as a poet or man of letters. He lived around {{ab|300}}.{{ref/book|7|41}}
+
+Similar to the modern day Borderlands, it was known for its precious gems. Mat recalls wearing yellow sapphires from Aramaelle in one of his memories that occurs directly before the outbreak of the [[Trolloc Wars]].{{ref|{{twotc}}, Arafel}}{{ref|{{twotc}}, Kandor}}{{ref|{{twotc}}, Shienar}}{{ref/book|6|5}}
+
+{{notes}}
+
+{{nations}}
+[[es:Aramaelle]]
+[[Category:Ten Nations]]
+[[Category:Aramaelle| Aramaelle]]
+[[Category:After the Breaking]]
+[[Category:Historical nations]]

@@ -1,0 +1,65 @@
+{{for|the organization within the Children of Light|Hand of the Light}}
+
+{{summary | book=4 | ewot=ch5 | wotmania=
+|chapter=5
+|title=Questioners
+|icon=Faces
+|setting=[[Stone of Tear]]
+}}
+
+==Summary==
+:{{pov|[[Egwene al'Vere]]}}
+
+[[Egwene]] expresses her impatience with whatever is delaying [[Moiraine]] from returning. She was supposed to be here but left with [[Elayne Trakand|Elayne]] immediately after receiving a message delivered by [[Careen]]. Egwene asks [[Aviendha]] about it but Aviendha did not hear the message. She feels uncomfortable about deceiving Aviendha with their claim that they were full Aes Sedai. They had let the [[Tear|Tairens]] believe that they were all Aes Sedai to have strength in numbers and Egwene cannot reveal the truth to Aviendha in order to keep the secret safe. Moiraine ordered Aviendha to accompany them, perhaps to keep them safe.{{ref|Moiraine likely wanted the three [[Accepted]] to befriend Aviendha so that it would be easier for Moiraine to convince Aviendha to become a [[novice]] later.}}
+
+[[File:Accepted.jpg|thumb|left|''Sometimes she thinks she's still the [[Wisdom]] and I'm still the village girl to teach about herbs. She had better realize things are different now.'' -[[Egwene]] on [[Nynaeve]]]]
+
+[[Nynaeve]]'s mutterings about [[Tanchico]] bring Egwene back to the task at hand, the questioning of two [[Black Ajah]] prisoners; [[Joiya Byir]],{{ref/book|3|54}} formerly of the [[Gray Ajah]], and [[Amico Nagoyin]], who was [[Severing#Stilling|stilled]].{{ref/book|3|55}} Amico continues to tell them that they should go to Tanchico after overhearing [[Liandrin]] speak to [[Temaile]] of [[Domination Band|something]] able to control the [[Dragon Reborn]], with some risk to the controller as well.{{ref/book|4|54}} Nynaeve demands to know the names of more Black Ajah members, but Amico only knew a few of the [[Darkfriend]] Sisters.
+
+Nynaeve's impatience gets the better of her as she demands that they speak to the other prisoner, but Egwene is annoyed at getting cut off. The two women stare at each other for a while until Amico obediently turns to face the wall and waits to be bound. Before questioning the other prisoner, Aviendha comments that Amico no longer shows the agelessness that most Aes Sedai show in their faces.{{ref|The agelessness is caused by the [[Oath Rod]].}} Aviendha asks whether this is a product of being stilled and Egwene agrees that it could be.
+
+Egwene releases Joiya who tries to convince them that she has repented and returned to the [[Light]]. Egwene does not believe her, and postulates that the oaths a Black Sister swears must somehow override the [[Oath Rod]] and the [[Three Oaths]]. She orders the prisoner to give her tale once more, but worded differently in an attempt to catch her in a lie. Joiya recalls a plot to rescue [[Mazrim Taim]], the false Dragon, and wreak havoc upon the land while posing as [[Rand al'Thor]].{{ref/book|4|17}} The nations would band together to destroy the Dragon and the [[Dark One]] will break free with no chosen one to fight him at [[Tarmon Gai'don]].
+
+While deciding which one to believe, the door bangs open to reveal Moiraine, her prized Aes Sedai serenity nowhere to be found. Elayne follows her in, frowning thoughtfully.
+
+==Unanswered Questions==
+* How was Amico stilled? Was it by Egwene's shield in ''Tel'aran'rhiod''? Was it by Nynaeve when she punched her? A combination of both?
+
+== Characters==
+*[[Egwene]]
+*[[Nynaeve]]
+*[[Aviendha]]
+*[[Joiya Byir]]
+*[[Amico Nagoyin]]
+*[[Moiraine]]
+*[[Elayne]]
+
+===Referenced===
+*[[Careen]]
+*[[Rand]]
+*[[Lan]]
+*[[Berelain]]
+*[[Liandrin]]
+*[[Chesmal Emry]]
+*[[Rianna Andomeran]]
+*[[Temaile Kinderode]]
+*[[Sheriam]]
+*[[Mazrim Taim]]
+
+==Places==
+*[[Stone of Tear]]
+*[[Tear]]
+
+===Referenced===
+*[[Tanchico]]
+*[[River Erinin]]
+*[[Saldaea]]
+*[[Tar Valon]]
+*[[Emond's Field]]
+
+==Items==
+===Referenced===
+*''[[Callandor]]''
+
+{{notes}}
+{{DISPLAYTITLE:''Questioners''}}

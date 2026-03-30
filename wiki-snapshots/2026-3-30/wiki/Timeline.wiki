@@ -1,0 +1,1006 @@
+{{Featuredicon}}
+This '''timeline''' attempts to lay out the history of the [[Westlands]] and the world based on dates and information given in the novels and supporting material.
+
+Dates are given in the three [[calendar]] systems given in the books, namely the Toman, Gazaran and Farede calendars. For events in the [[Age of Legends]], dates are given prior to the [[Breaking of the World|Breaking]], since no information has been retained about dating systems used at that time.
+
+{{calnav}}
+
+== Ages Duration ==
+{| class="wikitable"
+!Age
+!Name
+!Duration
+!Events
+|-
+|First Age
+|unknown
+|unknown
+|
+|-
+|[[Age of Legends|Second Age]]
+|Age of Legends (AL)
+|
+| - [[War of Power]]
+|-
+| rowspan="3" |[[Third Age]]
+|After Breaking (AB)
+|1 - {{ab|1350}}
+
+Years
+| - [[Trolloc Wars]]
+|-
+|Free Years (FY)
+|1 - 1135 FY years
+| - [[War of the Second Dragon]] 
+
+- [[Consolidation|War of the Consolidation]]
+
+- [[War of the Hundred Years]]
+|-
+|New Era (NE)
+|1 - {{ne|1000}} years 
+|<nowiki>- </nowiki>[[Whitecloak War]]
+
+- [[Great Winter War]]
+
+- [[Aiel War]]
+|-
+|[[Fourth Age]]
+|Dragon 's Peace 
+|unknown
+|
+|-
+|Fifth Age
+|unknown
+|unknown
+|
+|-
+|Sixth Age
+|unknown
+|unknown
+|
+|-
+|Seventh Age
+|unknown
+|unknown
+|
+|}
+<br />
+
+== Prehistory ==
+;The Moment of Creation
+:The universe and the [[Wheel of Time]] are brought into existence by the [[Creator]]. At the moment of creation, the Creator's antithesis, the [[Dark One]], is imprisoned outside the pattern. Creation is followed by the unending turning of the Wheel, forcing the changing of Ages. There are seven Ages which repeat endlessly. The following Ages are just one of the myriad of turnings of the Wheel.
+
+== The First Age ==
+
+:Little is known of this age, save that humanity built the [[Portal Stone|portal stones]] during this time{{verify}} and allegedly traveled to the moon and into space. Very likely some overlap with real-world history, prior to the ending of the Age.
+
+{{A|The Age of Legends}}
+== The Second Age ==
+;The Age of Legends
+:Under the guidance of the [[Aes Sedai (Age of Legends)|Aes Sedai]], both men and women who can channel the [[One Power]], humanity achieves a golden age of peace, prosperity and enlightenment, along with their allies, the [[Ogier]], and sentient constructs such as the [[Nym]]. High technology is achieved and used to entertain and educate the masses. The world is administered from the city of [[Paaran Disen]].
+
+;c. 400 years before the Breaking
+:[[Lews Therin Telamon]] is born.{{Ref/book|13|51}}
+
+;c. 110 years before the Breaking
+:Aes Sedai researchers at the [[Collam Daan]] in the city of [[V'saine]] detect an apparently undivided source of the One Power. Within the floating, spherical research building called the [[Sharom]] they attempted to tap into this power, however they inadvertently [[bore]] a hole into the Dark One's prison, allowing its influence to touch the world.
+
+;c. 110–10 years before the Breaking
+:The period known as the [[Collapse]] takes place. Society begins a slow descent into barbarism and fear. The existence of the Dark One and the location of the earthly end of its prison at the island of [[Shayol Ghul]] become known, and many swear allegiance to its service, becoming the first [[Darkfriends|Friends of the Dark]]. Several prominent Aes Sedai turn to the [[Shadow]], becoming the first of the [[Forsaken]]. [[Aginor]] begins breeding the [[Shadowspawn]]. An attempt is made to free the Dark One, which is averted by the Aes Sedai led by Lews Therin. The [[War of the Shadow]] begins.
+
+;c. 10–7 years before the Breaking
+:The War of the Shadow is fought. Much of the world is devastated, most high technology is lost and the world's industrial capacity is reduced to almost nothing. Millions die. The Shadow quickly gains the upper hand, but is eventually stalemated by Lews Therin's forces.
+
+;c. 7–3 years before the Breaking
+:Lews Therin is given the nickname "[[Dragon]]" for his success. Many successes are achieved during this phase of the war for the Light, but they are unable to achieve a decisive, final victory.
+
+;c. 3–0 years before the Breaking
+:The Shadow begins a new advance which threatens to overwhelm the last forces of the Light. Two plans are proposed to avoid this: one to use a powerful pair of ''[[sa'angreal]]'' known as the [[Choedan Kal]] to seal off Shayol Ghul from the rest of the world, and two to launch a daring assault on Shayol Ghul and to repair the Bore with [[Seven Seals|seven ''ter'angreal'' seals]]. The Hall of the Servants becomes divided along gender lines, with the women favoring the Choedan Kal plan and the men the Seven Seals plan. When the Choedan Kal's ''ter'angreal'' control keys are captured by the Shadow, Lews Therin is left with no choice but to carry out this latter plan. He and the [[Hundred Companions]] travel to Shayol Ghul and successfully reseal the Dark One's prison, cutting off the Dark One's touch on the world and imprisoning the thirteen most senior Forsaken with him. However, at the moment of victory the Dark One taints ''[[saidin]]'', driving the Hundred Companions insane instantly.
+
+;'''The Breaking of the World'''
+:The Hundred Companions begin to devastate the world with the One Power. Other men succumb to the taint and join the insanity. Lews Therin Telamon is given a moment of sanity by [[Ishamael]] and commits suicide, forming the mountain of [[Dragonmount]]{{ref/book|1|p}} in the process. A female Aes Sedai named [[Deindre]] has a [[Foretelling]] that the Dragon will be Reborn to fight the Dark One again in the future. The [[Prophecies of the Dragon]] begin to take shape. The [[Da'shain Aiel]] begin their exile. The Ogier are separated from their ''[[stedding]]'', beginning the [[Long Exile]].
+:The Breaking lasts between 239 and 344 years. During this time the human race and the Ogier are brought to the edge of extinction. The known continents shatter and disappear beneath the waves. New landmasses arise. The world is remade and most of the civilization of the Age of Legends is lost. The Breaking ends when the last male [[channeler]] is finally executed or [[Gentling|gentled]] by a female.
+:Before the Breaking is fully over, a group of Aes Sedai store ''[[Callandor]]'' within a fortress known as the [[Stone of Tear]], which they create with the One Power. The Ogier rediscover the ''stedding'', but are unable to leave for long periods without succumbing to the [[Longing]].
+
+== The Third Age ==
+=== After the Breaking ===
+;After the Breaking
+:A group of people who rode out the Breaking in ships at sea settle on islands, becoming the [[Sea Folk]]. As the Da'shain gradually give up the [[Way of the Leaf]] in favor of the spear, eventually becoming the modern [[Aiel]] clans, one group splinters off to become the ''[[Tuatha'an]]'' or Tinkers. Aided by the ancestors of the [[Cairhienin]] people, the Aiel cross the [[Spine of the World]] and settle the [[Aiel Waste]], with the [[Jenn Aiel]], (who still follow the Way) building the city of [[Rhuidean]] with the aid of several ancient Aes Sedai. The land of [[Shara]] is also unified soon after the Breaking, while the landmass of [[Seanchan]] becomes a battleground between [[Shadowspawn]] and the survivors of the Breaking. The channelers of Seanchan bring exotic, dangerous animals into our world via the portal stones, and the Shadowspawn are wiped out in the Seanchan continent. In what become known as the [[Westlands]], ten powerful kingdoms are founded.
+
+;{{ab|47}}<cite id="{{ab|47}}">&nbsp;</cite>
+:A conference of at least a dozen major groups of female channelers all claiming to be Aes Sedai is held. At this meeting it is decided that they will unify to refound the glories of the Aes Sedai of the Age of Legends, and they will also need a new base of operations. The island of [[Tar Valon]], in the shadow of Dragonmount, is chosen for this purpose.
+
+;c. 50-{{ab|100}}<cite id="{{ab|50}}">&nbsp;</cite><cite id="{{ab|77}}">&nbsp;</cite>
+:The main branch of the Aes Sedai eliminates several competing branches. In {{ab|77}} a major victory is scored by the Tar Valon Aes Sedai when [[Lideine Rajan]] is stilled and [[Mailaine Harvole]] is forced to surrender. These two women appear to have been the leaders of the strongest rival factions.
+
+;{{ab|98}}<cite id="{{ab|98}}">&nbsp;</cite>
+:[[Elisane Tishar]], leader of the main branch of post-Breaking Aes Sedai, is elected the first [[Amyrlin Seat]] of the Aes Sedai. Construction of the city of Tar Valon begins.
+
+;{{ab|202}}<cite id="{{ab|202}}">&nbsp;</cite>
+:Construction of Tar Valon is completed. By this time the [[Calendar#After the Breaking (AB)|Toman Calendar]] has become adopted across the continent.
+
+;{{ab|209}}<cite id="{{ab|209}}">&nbsp;</cite>
+:At the instigation of Queen [[Mabriam en Shareed]] of [[Aramaelle]], the [[Compact of the Ten Nations]] is signed, unifying the western kingdoms in peace, trade and mutual defense.
+
+;{{ab|212}}<cite id="{{ab|212}}">&nbsp;</cite>
+:Birth of [[Caraighan Maconar]], who later becomes the archetypical Green sister of the Aes Sedai.
+
+;c. {{ab|300}}<cite id="{{ab|300}}">&nbsp;</cite>
+:Lord [[Mangore Kiramin]], Sword-bard of [[Aramaelle]] and Warder of [[Caraighan Maconar]], undertakes a translation of the ''Prophecies of the Dragon''.
+
+;c. {{ab|325}}<cite id="{{ab|325}}">&nbsp;</cite>
+:[[Sereine dar Shamelle Motara]], Counsel-Sister to the High Queen Comaelle of [[Jaramide]], undertakes a translation of the ''Prophecies of the Dragon'', as revealed in ''Commentaries on the [[Karaethon Cycle]]''.
+
+;{{ab|335}}<cite id="{{ab|335}}">&nbsp;</cite><cite id="{{ab|336}}">&nbsp;</cite>
+:A man named [[Raolin Darksbane]] claims to be the [[Dragon Reborn]]. He is captured and gentled by the Aes Sedai, and becomes known as the first [[false Dragon]]. His followers mount an attack on Tar Valon to rescue him but are defeated.
+
+;{{ab|373}}<cite id="{{ab|373}}">&nbsp;</cite>
+:Death of [[Caraighan Maconar]].
+
+;c. {{ab|400}}<cite id="{{ab|400}}">&nbsp;</cite>
+:[[N'Delia Basolaine]], First Maid and Swordfast to Raidhen of [[Hol Cuchone]], undertakes a translation of the ''Prophecies of the Dragon''.
+
+;{{ab|742}}<cite id="{{ab|742}}">&nbsp;</cite>
+:Jurith Dorine, Right-Hand to the Queen of [[Almoren]], undertakes a translation of the ''[[Karaethon Cycle]]'', as revealed in ''Commentaries on the Prophecies of the Dragon''.
+
+;c. {{ab|1000}}<cite id="c{{ab|1000}}">&nbsp;</cite>
+:Ishamael awakes. First for intervals only, in a wispy form, then more solidly, until whole again. He founded the [[Black Ajah]] and started the [[Trolloc Wars]]. Within twenty years or so he faded back into the seals.
+
+;{{ab|1000}}<cite id="{{ab|1000}}">&nbsp;</cite>
+:A vast horde of Trollocs invades the Westlands, marking the beginning of the [[Trolloc Wars]]. The city of [[Barsine]] in Jaramide is the first major city to fall.
+
+;c. 1000-{{ab|1200}}<cite id="{{ab|1200}}">&nbsp;</cite>
+:The wars continue to rage. During this time the nation of [[Aridhol]] falls into darkness and despair due to the machinations of a man named [[Mordeth]]. The kingdom disintegrates and the capital city becomes a dark, haunted place known as [[Shadar Logoth]], which even the Shadowspawn avoid.
+
+;{{ab|1150}}<cite id="{{ab|1150}}">&nbsp;</cite>
+:[[Rashima Kerenmosa]] is born.
+
+;c. {{ab|1200}}
+:[[Manetheren]] is destroyed by the Shadow. However, the people of Manetheren inflict vast and terrible casualties on the attacking army, and despite its victory it is largely destroyed by a suicidal blast of the One Power unleashed by Queen [[Eldrene ay Ellan ay Carlan|Eldrene]] at the moment of defeat. Some time after this event the then-Amyrlin Seat, [[Tetsuan]], is deposed and stilled for impeding the aid sent to Manetheren out of jealousy of Eldrene.
+
+;{{ab|1251}}<cite id="{{ab|1251}}">&nbsp;</cite><cite id="{{ab|1250}}">&nbsp;</cite>
+:[[Rashima Kerenmosa]] is raised to the [[Amyrlin Seat]] from the [[Green Ajah]]. Known as the "Soldier Amyrlin," she personally leads armies and Aes Sedai into battle.
+
+;c. {{ab|1290}}<cite id="{{ab|1290}}">&nbsp;</cite>
+:The Trollocs besiege Tar Valon for the fourth time in the wars, but this time manage to breach the gates and storm the city. They are repulsed in extremely heavy fighting.
+
+;c. {{ab|1300}}<cite id="{{ab|1300}}">&nbsp;</cite>
+:A false Dragon, [[Yurian Stonebow]], declares himself.
+
+;{{ab|1301}}<cite id="{{ab|1301}}">&nbsp;</cite>
+:The [[Battle of Maighande]] is fought. The most decisive battle of the Trolloc Wars, the back of the Shadowspawn armies is broken, and the clean-up of the remaining, rogue bands can begin. Rashima Kerenmosa dies during the battle, taking nine [[Dreadlords]] with her.
+
+;c. {{ab|1308}}<cite id="{{ab|1308}}">&nbsp;</cite>
+:[[Yurian Stonebow]] is captured and gentled.
+
+;c. {{ab|1350}}<cite id="{{ab|1350}}">&nbsp;</cite>
+:The Trolloc Wars end with the destruction of the final Trolloc army south of the [[Mountains of Dhoom]].
+
+===The Free Years ===
+;c. FY 1-FY 100<cite id="FY 1">&nbsp;</cite>
+:The surviving nations collapse as civil strife follows the end of the war. Twenty-nine new kingdoms arise from the ashes and the [[Calendar#Free Year (FY)|Gazaran Calendar]] is adopted.
+
+;FY 291<cite id="FY 291">&nbsp;</cite>
+:[[Stedding Sherandu|''Stedding'' Sherandu]] is swallowed by the expanding Great Blight.
+
+;FY 351<cite id="FY 351">&nbsp;</cite>
+:A new false Dragon named [[Davian]] causes some problems before he is captured and gentled by the Aes Sedai. Around this time [[Madoc_Comadrin|Comadrin]] serves as a general and publishes his book, ''[[Fog and Steel]]''.
+
+;FY 450<cite id="FY 450">&nbsp;</cite>
+:Queen [[Sulmara]] of [[Masenashar]] is removed from her throne by the Aes Sedai, who drag her to Tar Valon to muck out the White Tower's stables, as a demonstration that no-one is beyond the reach of the Aes Sedai. It is said that Sulmara was an Aes Sedai who had forsaken her responsibilities to return home and take the throne of her kingdom without the permission of the Amyrlin Seat, but this is unconfirmed.
+
+;c. FY 500<cite id="FY 500">&nbsp;</cite>
+:The kingdoms of [[Nerevan]] and [[Esandara]] invade [[Shiota]]. A major battle is fought at the ruins of [[Londaren Cor]].
+
+;FY 642<cite id="FY 642">&nbsp;</cite>
+:The Great Fire of [[Tar Valon]] sees minor damage done to the White Tower's library.
+
+;c. FY 700-800 <cite id="FY 700">&nbsp;</cite><cite id="FY 800">&nbsp;</cite>
+:Part of the [[Karaethon Cycle]] believed to be published during this time.
+
+;FY 750<cite id="FY 750">&nbsp;</cite>
+:Kyera Termendal of [[Shiota]] undertakes a translation of the ''[[Karaethon Cycle]]''.
+
+;FY 912<cite id="FY 912">&nbsp;</cite>
+:Prince [[Artur Paendrag Tanreall]] is born in [[Shandalle]].
+
+;FY 920<cite id="FY 920">&nbsp;</cite>
+:[[Deane Aryman]] is born.
+
+;FY 937<cite id="FY 937">&nbsp;</cite>
+:Prince Artur Paendrag Tanreall marries Lady [[Amaline Paendrag Tagora]].
+
+;FY 939<cite id="FY 939">&nbsp;</cite>
+:The [[Black Fever]] ravages the continent, killing 10% of the population, including the King and Queen of Shandalle. Artur Paendrag Tanreall becomes King. A man named [[Guaire Amalasan]] declares himself the Dragon Reborn in [[Darmovan]] and invades two neighboring countries, beginning the [[War of the Second Dragon]]. At this time, [[Bonwhin Meraighdin]] of the [[Red Ajah]] becomes Amyrlin Seat.
+
+;FY 939-943 - [[War of the Second Dragon|The War of the Second Dragon]].<cite id="FY 943">&nbsp;</cite><cite id="FY 942">&nbsp;</cite><cite id="FY 939">&nbsp;</cite><cite id="FY 940">&nbsp;</cite><cite id="FY 941">&nbsp;</cite>
+:Amalasan conquers over a third of the continent and lays siege to the Stone of Tear. Tanreall leads several Shandallian armies against him and becomes known as the 'Hawkwing' for the speed with which he can move his troops. In the spring of FY 943 Hawkwing defeats Amalasan at the [[War of the Second Dragon#The Battle of Jolvaine Pass|Battle of the Jolvaine Pass]] and Amalasan is captured by several Aes Sedai and taken to Tar Valon for punishment. Two of Amalasan's generals [[War of the Second Dragon#The Battle of Tar Valon|attack Tar Valon]] with over 100,000 men in an effort to rescue him, but are defeated by Hawkwing. Hawkwing and Amyrlin Bonwhin part on bad terms.
+
+;FY 943-963 - [[Consolidation|The War of Consolidation]]<cite id="FY 944">&nbsp;</cite><cite id="FY 963">&nbsp;</cite><cite id="FY 959">&nbsp;</cite><cite id="FY 961">&nbsp;</cite>
+:At the alleged urging of Bonwhin, several kingdoms attack Shandalle and are repulsed. Hawkwing seizes the territories of the attacking nations and in mostly defensive actions against hostile acts, he ends up in control of a large part of the continent. The [[Consolidation]] is undertaken, ending in FY 963 with the surrender of [[Aldeshar]] by King [[Joal Ramedar]] after a bitter four-year war (in which Hawkwing's son Modair is killed). Hawkwing is declared the High King of the Westlands, which are now unified as a single [[Artur Hawkwing's Empire|Empire]]. In FY 961 Hawkwing's wife and children are killed by poison, plunging him into the [[Black Years]] of his rule. Believing Ramedar responsible, he has him executed, to the shock of many.
+
+;FY 964<cite id="FY 964">&nbsp;</cite>
+:Hawkwing undertakes an invasion of the Aiel Waste. Although initially successful, the harsh climate and the failure of the Aiel to meet him in open battle soon compel him to retire. Upon his return he meets a young woman named [[Tamika]], whom he marries within a year, ending the Black Years.
+
+;FY 964-975<cite id="FY 974">&nbsp;</cite><cite id="FY 967">&nbsp;</cite><cite id="FY 973">&nbsp;</cite><cite id="FY 965">&nbsp;</cite><cite id="FY 975">&nbsp;</cite>
+:The peaceful years of Hawkwing's rule. The lands of the Empire are made safe for all to travel, great public works are undertaken, new cities and fortresses are founded. Hawkwing undertakes a rapprochement with the Aes Sedai, and accepts Aes Sedai governors, bureaucrats and advisers into all parts of the Empire's bureaucracy. In FY 973 a man named [[Jalwin Moerad]] appears at Hawkwing's court and soon becomes his most trusted counselor. In FY 974, acting on Moerad's advice, Hawkwing dismisses all Aes Sedai from all positions within the Empire. In FY 975 his armies overrun the territory of Tar Valon and lay siege to the city. It is hinted by Ishamael that he was Jalwin Moerad, and the he urged Hawkwing to turn on the Aes Sedai.
+
+;FY 986<cite id="FY 986">&nbsp;</cite>
+:A large force of Shadowspawn invades the Empire. Hawkwing responds and raises a huge army to confront the threat.
+
+;FY 987<cite id="FY 987">&nbsp;</cite>
+:Hawkwing defeats the Shadowspawn at the [[Battle of Talidar]]. He appears reinvigorated by the conflict and begins planning new campaigns.
+
+;FY 989<cite id="FY 989">&nbsp;</cite>
+:Two immense fleets begin construction at the Empire's western and southern ports, each consisting of over 2,000 vessels and 300,000 soldiers and settlers.
+
+;FY 992<cite id="FY 992">&nbsp;</cite>
+:The western fleet, commanded by Hawkwing's son [[Luthair Paendrag Mondwin]], sails across the [[Aryth Ocean]] and begins the [[The Conquest|invasion]] of the Seanchan continent. The invasion force quickly seizes the city of [[Imfaral]], but resistance from native forces (dubbed the [[Armies of Night]] for their use of Shadowspawn-like creatures in battle) makes victory doubtful until a woman named [[Deain]] gives Luthair a weapon called an ''[[a'dam]]'', which can seize control of female channelers. Luthair's advance resumes.
+:At this time, Bonwhin Meraighdin is deposed by the [[Hall of the Tower]] after evidence is presented showing she manipulated Hawkwing for her own ends and earned his enmity, endangering the Aes Sedai. [[Deane Aryman]] succeeds her, but her attempts to convince Hawkwing to lift the siege fail.
+
+;FY 993<cite id="FY 993">&nbsp;</cite>
+:The White Tower's library suffers some damage as a result of apparent arson. Artur Hawkwing sends a large fleet with one of his daughters to invade [[Shara]]. They did not succeed.
+
+;FY 993-994<cite id="FY 994">&nbsp;</cite>
+:The eastern fleet, commanded by a daughter of Hawkwing, lands in [[Shara]] and achieves some initial successes against the surprised natives, but the invasion force is eventually overcome. The Sea Folk record that the invasion fleet is left burning at anchor. The fate of the army is unknown.
+
+;FY 994
+:Hawkwing's only remaining daughter and heir, [[Laiwynde]], dies under unknown circumstances and her son [[Tyrn sur Paendrag Mashera]] disappears. Artur Hawkwing falls ill and dies with no heir.
+:Attempts by several of Hawkwing's generals to secure the Empire fail and it disintegrates. The cities of Tear and [[Cairhien]] declare independence, while General [[Souran Maravaile]] lifts the Siege of Tar Valon to ally his forces with those of [[Ishara Casalain]], who declares herself Queen of [[Andor]]. The five [[Borderlands|Borderland]] provinces break away and declare an alliance between their nations so they can continue to hold back the Shadow in the north. The [[War of the Hundred Years]] begins.
+
+;FY 996<cite id="FY 996">&nbsp;</cite>
+:[[Bonwhin Meraighdin]], the former [[Amyrlin Seat]], dies.
+
+;FY 999<cite id="FY 999">&nbsp;</cite>
+:By this year Andor has expanded to the [[River Cary]] in the west and the [[River Erinin]] in the east, and holds these borders for some time.
+:The nation of [[Maredo]] is founded by a group of nobles from [[Far Madding]], led by Lady [[Danella Mathendrin]].
+
+;c. FY 1000<cite id="FY 1000">&nbsp;</cite>
+:[[Ishara]], [[Queen]] of [[Queen of Andor|Andor]], bears children that will be the eventual ancestors of the ruling families of [[Andor]].
+
+;FY 1004<cite id="FY 1004">&nbsp;</cite>
+:The city of [[Mayene]], claimed by the expanding country of Tear, declares independence. Tyrn sur Paendrag Mashera is proclaimed First Lord of Mayene, although his claim to be a grandson of Hawkwing is scoffed at by many.
+
+;FY 1006<cite id="FY 1006">&nbsp;</cite>
+:The city of [[Tanchico]] is seized by several nobles who proclaim the founding of the kingdom of [[Tarabon]] and restore the government system used in [[Balasun]], with a King (or Queen) and [[Panarch]] balanced by an Assembly of nobles, merchants and guild representatives.
+
+;FY 1015<cite id="FY 1015">&nbsp;</cite>
+:Lord [[Santal Ramoth]] attempts to reestablish the old nation of [[Kharendor]], to little success.
+
+;FY 1017<cite id="FY 1017">&nbsp;</cite>
+:Souran Maravaile, the prince-consort of Andor and the commander of its armies, is killed by assassins.
+
+;c. FY 1020<cite id="FY 1020">&nbsp;</cite>
+:Queen Ishara Casalain of Andor dies. Her sons have died in battle, so her daughter Alesinde inherits the crown, starting the tradition that only women can sit the [[Lion Throne]].
+
+;FY 1021<cite id="FY 1021">&nbsp;</cite>
+:[[Lothair Mantelar]] founds the [[Children of the Light]], a group dedicated to exposing [[Darkfriends]] and reporting them to the authorities. Lothair outlines his philosophy in a book called ''The Way of the Light'', which becomes popular in these dark times.
+
+;c. FY 1023<cite id="FY 1023">&nbsp;</cite>
+:Realizing that it is futile to reestablish Kharendor, Lord Santal Ramoth decides to found a new nation, [[Amadicia]], and is crowned as the first king of the nation.
+
+<cite id="FY 1035">&nbsp;</cite>
+:[[Melasune]] takes the [[Lion Throne]] of [[Andor]].
+
+;FY 1046<cite id="FY 1046">&nbsp;</cite>
+:[[Termylle]] takes the Lion Throne of Andor.
+
+;FY 1047<cite id="FY 1047">&nbsp;</cite>
+:The kingdom of [[Murandy]] is proclaimed by Lady [[Katrine do Catalan a'Coralle]] after she seizes the city of [[Lugard]].
+
+;FY 1048<cite id="FY 1048">&nbsp;</cite>
+:Lady Katrine do Catalan a'Coralle dies, but her new kingdom of Murandy survives, albeit with frequent changes in leadership.
+
+;FY 1054<cite id="FY 1054">&nbsp;</cite>
+:Tyrn sur Paendrag Mashera, First Lord of Mayene, dies of a fever. His daughter Miselle inherits his title.
+
+;FY 1063<cite id="FY 1063">&nbsp;</cite>
+:Four rival kingdoms unite to attack Andor, but are defeated by Queen [[Maragaine]] at the Battle of Four Kings, west of [[Caemlyn]]. The town of [[Four Kings]] later grows up on the battle site.
+
+;FY 1073<cite id="FY 1073">&nbsp;</cite>
+:[[Astara]] takes the Lion Throne of Andor.
+
+;FY 1084<cite id="FY 1084">&nbsp;</cite>
+:Deane Aryman dies in a fall from her horse while on the verge of convincing several of the most powerful rulers to agree to a ceasefire. Her successor, Selame Necoin of the [[Green Ajah]], fails to capitalize on her success and the war continues.
+
+;FY 1085<cite id="FY 1085">&nbsp;</cite>
+:[[Telaisien]] takes the Lion Throne of Andor.
+
+;c. FY 1090<cite id="FY 1090">&nbsp;</cite>
+:[[Esmara Getares]], a noblewoman of note, assembles an army which conquers most of modern [[Illian]] and the [[Plains of Maredo]] before invading Andor. Her attempt to seize Andor fails and she spends the last twelve years of her life as a 'guest' of Queen [[Telaisien]]. Esmara's capture allows Lord [[Nicoli Merseneos den Ballin]] to rise to power in Illian and found the nation.
+
+;c. FY 1094<cite id="FY 1094">&nbsp;</cite>
+:Lord [[Nicoli Merseneos den Ballin]] founded the nation Illian, capturing the city and quickly gaining following among the nobles and people of the region. His House ruled Illian in the following 3 centuries until it died out  in all but the most distant lines.
+
+;c. FY 1096<cite id="FY 1096">&nbsp;</cite>
+:Lord [[Jalaam Lazari]], Lord [[Ahran Nawaz]] and Lady [[Bastine Almadar]] take the city of [[Bandar Eban]] and proclaim the founding of the nation of [[Arad Doman]].
+
+;FY 1103<cite id="FY1103">&nbsp;</cite>
+:[[Morrigan]] takes the Lion Throne of Andor.
+
+;FY 1109<cite id="FY 1109">&nbsp;</cite>
+:Four powerful houses unite to bring the former province of [[Dhowlan]] under the rule of law. They rename the kingdom [[Ghealdan]].
+
+;c. FY 1110<cite id="FY 1110">&nbsp;</cite>
+:In the last ten years of the war, [[Narasim Bhuran]] attempts to reestablish Hawkwing's empire under his own banner, but his efforts are thwarted and he ends up with his head on a pike.
+
+;FY 1111<cite id="FY 1111">&nbsp;</cite>
+:By this time the Children of the Light have become a full military organization.
+
+;FY 1112<cite id="FY 1112">&nbsp;</cite>
+:Lord [[Maddin Todande]] founds the nation of [[Altara]], becoming its first king.
+
+;FY 1114<cite id="FY 1114">&nbsp;</cite>
+:[[Lyndelle]] takes the Lion Throne of Andor.
+
+;FY 1116<cite id="FY 1116">&nbsp;</cite>
+:[[Shelaan Lazari]] is proclaimed the first King of Arad Doman.
+
+;FY 1117<cite id="FY 1117">&nbsp;</cite>
+:The War of the Hundred Years finally peters out, leaving twenty-four kingdoms of varying size and power behind it.
+
+;FY 1135<cite id="FY 1135">&nbsp;</cite>
+:By this time it is uncertain if date-keeping has been kept correctly, and it is decided to establish the [[Calendar#New Era (NE)|Farede Calendar]].
+
+=== The New Era ===
+;{{ne|5}}<cite id="{{ne|5}}">&nbsp;</cite>
+:[[Rabayn Marushta]] is raised to the [[Amyrlin Seat]] from the [[White Ajah]].
+
+;{{ne|30}}<cite id="{{ne|30}}">&nbsp;</cite>
+:[[Lyndelle]] dies. Her successor is unknown.
+
+;{{ne|31}}<cite id="{{ne|31}}">&nbsp;</cite>
+:[[Stedding Chandar|''Stedding'' Chandar]] is swallowed by the expanding [[Great Blight]].
+
+;{{ne|36}}<cite id="{{ne|36}}">&nbsp;</cite>
+:[[Dalaine Ndaye]] is raised to the Amyrlin Seat from the [[Gray Ajah]].
+
+;{{ne|64}}<cite id="{{ne|64}}">&nbsp;</cite>
+:[[Edarna Noregovna]] is raised to the Amyrlin Seat from the [[Blue Ajah]].
+
+;c. {{ne|82}}<cite id="{{ne|82}}">&nbsp;</cite>
+:[[Anarina Todande]] ascends to the throne of Altara, being the fifth ruler of the nation from her House.
+
+;c. {{ne|100}}<cite id="{{ne|100}}">&nbsp;</cite>
+:The last male Emperor of Seanchan dies, with the tradition (but not absolute law) of female Empresses being established.
+
+;c. {{ne|102}}<cite id="{{ne|102}}">&nbsp;</cite>
+:After twenty years of a disastrous reign, Queen Anarina Todande of Altara is deposed and assassinated after impoverishing her nation and her house. Altara descends into a state of near-anarchy, with no House being able to hold the [[Throne of the Winds]] for more than two generations.
+
+;{{ne|115}}<cite id="{{ne|115}}">&nbsp;</cite>
+:[[Balladare Arandaille]] is raised to the Amyrlin Seat from the [[Brown Ajah]].
+
+;{{ne|142}}<cite id="{{ne|142}}">&nbsp;</cite>
+:[[Medanor Eramandos]] is raised to the Amyrlin Seat from the Gray Ajah.
+
+;{{ne|171}}<cite id="{{ne|171}}">&nbsp;</cite>
+:[[Kiyosa Natomo]] is raised to the Amyrlin Seat from the [[Green Ajah]].
+
+;{{ne|197}}<cite id="{{ne|197}}">&nbsp;</cite>
+:[[Catala Lucanvalle]] is raised to the Amyrlin Seat from the [[Yellow Ajah]].
+
+;{{ne|200}}<cite id="{{ne|200}}">&nbsp;</cite>
+:The kingdom of [[Murandy]] becomes stable.
+
+;{{ne|223}}<cite id="{{ne|223}}">&nbsp;</cite>
+:[[Elise Strang]] is raised to the Amyrlin Seat from the Gray Ajah.
+
+;{{ne|231}}<cite id="{{ne|231}}">&nbsp;</cite>
+:A new translation of the ''Karaethon Cycle'' is undertaken by [[Ellaine Marise'idin Alshinn]], Chief [[Librarian]] at [[Shol Arbela]].
+
+;{{ne|244}}<cite id="{{ne|244}}">&nbsp;</cite>
+:[[Comarra Zepava]] is raised to the Amyrlin Seat from the Blue Ajah.
+
+;{{ne|276}}<cite id="{{ne|276}}">&nbsp;</cite>
+:[[Serenia Latar]] is raised to the Amyrlin Seat from the Gray Ajah.
+
+;c. {{ne|300}}<cite id="{{ne|300}}">&nbsp;</cite>
+:[[Modrellein]] claims the [[Lion Throne]] of [[Andor]].
+
+;{{ne|306}}<cite id="{{ne|306}}">&nbsp;</cite>
+:The Amyrlin Seat, [[Serenia Latar]], is killed by the Children of the Light and her body is subsequently hung. She is replaced on the Seat by [[Doniella Alievin]] from the Brown Ajah.
+
+;{{ne|332}}<cite id="{{ne|332}}">&nbsp;</cite>
+:[[Aliane Senican]] is raised to the Amyrlin Seat from the White Ajah.
+
+;{{ne|355}}<cite id="{{ne|355}}">&nbsp;</cite>
+:[[Suilin Escanda]] is raised to the Amyrlin Seat from the Blue Ajah.
+
+;{{ne|396}}<cite id="{{ne|396}}">&nbsp;</cite>
+:[[Nirelle Coidevwin]] is raised to the Amyrlin Seat from the Green Ajah.
+
+;c. {{ne|400}}<cite id="{{ne|400}}">&nbsp;</cite>
+:[[Stedding Tsofu|''Stedding'' Tsofu]] is relocated and repopulated by the Ogier. [[Aloisia Nemosni]], the oldest living member of the [[Kin]] is born.
+
+;{{ne|419}}<cite id="{{ne|419}}">&nbsp;</cite>
+:[[Ishara Nawan]] is raised to the Amyrlin Seat from the Blue Ajah.
+
+;{{ne|454}}<cite id="{{ne|454}}">&nbsp;</cite>
+:[[Cerilla Marodred]] is raised to the Amyrlin Seat from the Gray Ajah.
+
+;{{ne|476}}<cite id="{{ne|476}}">&nbsp;</cite>
+:[[Igaine Luin]] is raised to the Amyrlin Seat from the Brown Ajah.
+
+;c. {{ne|500}}<cite id="{{ne|500}}">&nbsp;</cite>
+:The [[Queen of Andor]] dies and the succession is disputed, with all three claimants to the throne garnering roughly equal support between the Great Houses. This conflict, either the First or Second [[Succession Wars|Succession War]], lasted seven years and caused substantial loss of life and internal disruption within Andor before a new claimant was crowned (the three original ones having all died in the war). Around this time, the [[Taraboner]] tradition of male King and female [[Panarch]] has been firmly established, and the nation of [[Maredo]] collapses, leaving only the city-state of [[Far Madding]].
+
+;{{ne|509}}<cite id="{{ne|509}}">&nbsp;</cite>
+:The Aiel find out that the descendants of [[Garam|the people]] who [[Visions of Rhuidean#Second vision|gave them permission to take water]] during their wandering after the Breaking of the World are now living in [[Cairhien]], so they offer peace with the kingdom of Cairhien, giving the people of Cairhien a [[Avendoraldera|sapling]] of [[Avendesora]] as a memento of the peace and permitting them free access across the Waste to the Sharan trade towns, so long as they carried a banner with the trefoil leaf of the tree. Cairhien grows rich on the resulting trade.
+
+;{{ne|520}}<cite id="{{ne|520}}">&nbsp;</cite>
+:[[Beryl Marle]] is raised to the Amyrlin Seat from the White Ajah.
+
+;{{ne|526}}<cite id="{{ne|526}}">&nbsp;</cite>
+:[[Corianin Nedeal]], the last Aes Sedai [[Dreaming|Dreamer]] for almost five centuries, dies.
+
+;{{ne|533}}<cite id="{{ne|533}}">&nbsp;</cite>
+:[[Eldaya Tolen]] is raised to the Amyrlin Seat from the Blue Ajah.
+
+;{{ne|549}}<cite id="{{ne|549}}">&nbsp;</cite>
+:[[Alvera Ramosanya]] is raised to the Amyrlin Seat from the Yellow Ajah.
+
+;{{ne|566}}<cite id="{{ne|566}}">&nbsp;</cite>
+:The [[Aiel]] give [[Cairhien]] a ''[[chora]]'' cutting in thanks for the gift of water.
+
+;{{ne|578}}<cite id="{{ne|578}}">&nbsp;</cite>
+:[[Shein Chunla]] is raised to the Amyrlin Seat from the Green Ajah.
+
+;{{ne|586}}<cite id="{{ne|586}}">&nbsp;</cite>
+:[[Alivia]] is born in [[Seanchan]].
+
+;{{ne|588}}<cite id="{{ne|588}}">&nbsp;</cite>
+:[[Reanne Corly]] is born.
+
+;{{ne|598}}<cite id="{{ne|598}}">&nbsp;</cite>
+:[[Sumeko Karistovan]] is born in Arafel.
+
+;c. {{ne|600}}<cite id="{{ne|600}}">&nbsp;</cite>
+:The nation of [[Almoth]] collapses at this time, and its territory becomes contested between Tarabon and [[Arad Doman]]. Also around this time the [[Third War of Garen's Wall]] is fought in the territory of Ghealdan. The war is the last in a series of bungles and mishaps caused by major strife between the then-Amyrlin Seat [[Shein Chunla]] and her [[Hall of the Tower]]. This results in a mutiny in the White Tower and the installation of new Sitters and a new Amyrlin. Shein Chunla is removed from office in 601 and sent into exile.
+
+;{{ne|601}}<cite id="{{ne|601}}">&nbsp;</cite>
+:[[Gerra Kishar]] is raised to the Amyrlin Seat from the Gray Ajah.
+
+;{{ne|603}}<cite id="{{ne|603}}">&nbsp;</cite>
+:Reanne Corly becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|614}}<cite id="{{ne|614}}">&nbsp;</cite>
+:Sumeko Karistovan becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|638}}<cite id="{{ne|638}}">&nbsp;</cite>
+:[[Varuna Morrigan]] is raised to the Amyrlin Seat from the Green Ajah.
+
+;{{ne|651}}<cite id="{{ne|651}}">&nbsp;</cite>
+:A conspiracy to reseat Shein Chunla as Amyrlin is uncovered. As a result, the sisters guarding her during her exile are ordered to smother her in her sleep. This information is part of the secret histories of the White Tower, guarded in the [[Thirteenth Depository]].
+
+;{{ne|658}}<cite id="{{ne|658}}">&nbsp;</cite>
+:[[Famelle Juarde]] is born in Tarabon.
+
+;671-{{ne|672}}<cite id="{{ne|671}}">&nbsp;</cite><cite id="{{ne|672}}">&nbsp;</cite>
+:The [[Great Winter War]] is fought between [[Andor]] and [[Cairhien]].
+
+;{{ne|672}}<cite id="{{ne|672}}">&nbsp;</cite>
+:[[Famelle Juarde]] becomes a [[novice]] of the [[White Tower]] in [[Tar Valon]].
+
+;c. {{ne|678}}<cite id="{{ne|678}}">&nbsp;</cite>
+:[[Gitara Moroso]] is born.
+
+;c. {{ne|680}}<cite id="{{ne|680}}">&nbsp;</cite>
+:[[Kirstian Chalwin]] is born.
+
+;{{ne|681}}<cite id="{{ne|681}}">&nbsp;</cite>
+:[[Cemaile Sorenthaine]] is raised to the Amyrlin Seat from the Gray Ajah.
+
+;{{ne|700}}<cite id="{{ne|700}}">&nbsp;</cite>
+:[[Marith Jaen]] is born.
+:(c.) The nation of [[Hardan]] collapses as population levels dwindle.
+
+;{{ne|705}}<cite id="{{ne|705}}">&nbsp;</cite>
+:[[Marasale Jureen]] is raised to the Amyrlin Seat from the Yellow Ajah.
+:[[Cadsuane Melaidhrin]] is born in [[Far Madding]].
+
+;{{ne|717}}<cite id="{{ne|717}}">&nbsp;</cite>
+:[[Marith Jaen]] becomes a [[novice]] of the [[White Tower]] in [[Tar Valon]].
+
+;{{ne|726}}<cite id="{{ne|726}}">&nbsp;</cite>
+:[[Romanda Cassin]] is born in Far Madding.
+
+;{{ne|727}}<cite id="{{ne|727}}">&nbsp;</cite>
+:[[Ferane Neheran]] is born in Arad Doman.
+
+;{{ne|732}}<cite id="{{ne|732}}">&nbsp;</cite>
+:[[Feragaine Saralman]] is raised to the Amyrlin Seat from the Blue Ajah.
+
+;{{ne|742}}<cite id="{{ne|742}}">&nbsp;</cite>
+:Ferane Neheran becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|743}}<cite id="{{ne|743}}">&nbsp;</cite>
+:Romanda Cassin becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|751}}<cite id="{{ne|751}}">&nbsp;</cite>
+:Romanda Cassin is raised to the shawl and chooses the Yellow Ajah.
+
+;{{ne|752}}<cite id="{{ne|752}}">&nbsp;</cite>
+:[[Jesse Bilal]] is born.
+
+;{{ne|754}}<cite id="{{ne|754}}">&nbsp;</cite>
+:[[Myriam Copan]] is raised to the Amyrlin Seat from the Green Ajah.
+
+;{{ne|757}}<cite id="{{ne|757}}">&nbsp;</cite>
+:Ferane Neheran is raised to the shawl and chooses the White Ajah.
+
+;{{ne|758}}<cite id="{{ne|758}}">&nbsp;</cite>
+:Cadsuane Melaidhrin kidnaps the Amyrlin Seat, Myriam Copan, to make her a stronger woman.
+
+;{{ne|760}}<cite id="{{ne|760}}">&nbsp;</cite>
+:Former Head of the Black Ajah, [[Jarna Malari]], is born.
+
+;{{ne|764}}<cite id="{{ne|757}}">&nbsp;</cite>
+:[[Duhara Basaheen]] is born in Arad Doman.
+
+;{{ne|768}}<cite id="{{ne|768}}">&nbsp;</cite>
+:Jesse Bilal becomes a Novice at the White Tower in Tar Valon.
+
+;c. {{ne|770}}<cite id="{{ne|770}}">&nbsp;</cite>
+:The [[Taardad]] and [[Nakai]] clans of the Aiel embark on a blood-feud that lasts for some two centuries until it is resolved by [[Janduin]].
+
+;{{ne|777}}<cite id="{{ne|781}}">&nbsp;</cite>
+:[[Morvrin Thakanos]] is born in Illian.
+
+;{{ne|781}}<cite id="{{ne|781}}">&nbsp;</cite>
+:[[Saerin Asnobar]] is born in Altara.
+
+;{{ne|784}}<cite id="{{ne|784}}">&nbsp;</cite>
+:[[Suana Dragand]] is born in Shienar.
+
+;{{ne|789}}<cite id="{{ne|789}}">&nbsp;</cite>
+:Jesse Bilal is raised to the shawl and chooses the Brown Ajah.
+
+;{{ne|793}}<cite id="{{ne|793}}">&nbsp;</cite>
+:[[Kerene Nagashi]] is born.
+
+;{{ne|794}}&nbsp;
+:Two former [[Accepted]] form the group known as the [[Daughters of Silence]].
+
+;{{ne|795}}<cite id="{{ne|797}}">&nbsp;</cite>
+:Morvrin Thakanos becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|797}}<cite id="{{ne|797}}">&nbsp;</cite>
+:[[Zeranda Tyrim]] is raised to the Amyrlin Seat from the Brown Ajah.
+
+;{{ne|798}}<cite id="{{ne|798}}">&nbsp;</cite>
+:The White Tower discovers the Daughters of Silence and disband them, enrolling the women as [[novice]]s and punishing the two former Accepted.
+:Suana Dragand becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|808}}<cite id="{{ne|820}}">&nbsp;</cite>
+:Morvrin Thakanos is raised to the shawl and chooses the Brown Ajah.
+
+;{{ne|817}}<cite id="{{ne|817}}">&nbsp;</cite>
+:[[Parenia Demalle]] is raised to the Amyrlin Seat from the Gray Ajah.
+
+;{{ne|816}}<cite id="{{ne|818}}">&nbsp;</cite>
+:[[Janya Frende]] is born in Andor.
+
+;{{ne|818}}<cite id="{{ne|818}}">&nbsp;</cite>
+:[[Solain Morgeillin]] is born.
+
+;{{ne|820}}<cite id="{{ne|820}}">&nbsp;</cite>
+:Saerin Asnobar is raised to the shawl and chooses the Brown Ajah.
+
+;{{ne|826}}<cite id="{{ne|826}}">&nbsp;</cite>
+:Suana Dragand is raised to the shawl and chooses the Yellow Ajah.
+
+;{{ne|827}}<cite id="{{ne|827}}">&nbsp;</cite>
+:[[Lelaine Akashi]] is born in Kandor.
+:[[Tsutama Rath]] is born in Kandor.
+
+;{{ne|828}}<cite id="{{ne|829}}">&nbsp;</cite>
+:[[Shemerin]] is born.
+
+;{{ne|829}}<cite id="{{ne|829}}">&nbsp;</cite>
+:[[Faiselle Darone]] is born.
+
+;{{ne|832}}<cite id="{{ne|833}}">&nbsp;</cite>
+:Janya Frende becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|833}}<cite id="{{ne|833}}">&nbsp;</cite>
+:[[Lyrelle Arienwin]] is born.
+:Solain Morgeillin becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|835}}<cite id="{{ne|835}}">&nbsp;</cite>
+:[[Serancha Colvine]] is born.
+
+;{{ne|837}}<cite id="{{ne|837}}">&nbsp;</cite>
+:[[Yukiri Haruna]] is born to an innkeeper in Gorien Springs.
+
+;{{ne|839}}<cite id="{{ne|837}}">&nbsp;</cite>
+:[[Pevara Tazanovni]] is born to a butcher in Kandor.
+
+;{{ne|840}}<cite id="{{ne|840}}">&nbsp;</cite>
+:[[Moria Karentanis]] is born in [[Illian]].
+
+;{{ne|841}}<cite id="{{ne|841}}">&nbsp;</cite>
+:[[Seaine Herimon]] is born in Murandy.
+:Tsutama Rath becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|844}}<cite id="{{ne|844}}">&nbsp;</cite>
+:Lelaine Akashi becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|845}}<cite id="{{ne|845}}">&nbsp;</cite>
+:Faiselle Darone goes to the [[White Tower]] in [[Tar Valon]] to become a [[Novice]].
+
+;{{ne|846}}<cite id="{{ne|846}}">&nbsp;</cite>
+:The Green Ajah offers a [[Sitter|seat]] in the [[Hall of the Tower]] to [[Cadsuane Melaidhrin]]. She refuses. She is offered again, and against all custom, she refuses again.
+
+;{{ne|849}}<cite id="{{ne|849}}">&nbsp;</cite>
+:[[Verin Mathwin]] is born in Far Madding.{{ref|[http://13depository.blogspot.com/2011/03/verin-q-with-maria-simmons.html Q&A with Maria Simmons]}}
+
+;{{ne|851}}<cite id="{{ne|854}}">&nbsp;</cite>
+:Janya Frende is raised to the shawl and chooses the Brown Ajah.
+
+;{{ne|852}}<cite id="{{ne|852}}">&nbsp;</cite>
+:Yukiri Haruna becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|854}}<cite id="{{ne|854}}">&nbsp;</cite>
+:[[Tsutama Rath]] is raised to the shawl and chooses the Red Ajah.
+:[[Moria Karentanis]] becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|855}}<cite id="{{ne|855}}">&nbsp;</cite>
+:[[Lelaine Akashi]] is raised to the shawl and chooses the Blue Ajah.
+:[[Pevara Tazanovni]] becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|856}}<cite id="{{ne|856}}">&nbsp;</cite>
+:[[Seaine Herimon]] becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|861}}<cite id="{{ne|861}}">&nbsp;</cite>
+:[[Moria Karentanis]] is raised to the shawl and chooses the Blue Ajah.
+
+;{{ne|862}}<cite id="{{ne|862}}">&nbsp;</cite>
+:[[Cadsuane Melaidhrin]], against all custom, refuses to become the [[Captain-General (Green Ajah)|head of the Green Ajah]].
+
+;{{ne|863}}<cite id="{{ne|863}}">&nbsp;</cite>
+:[[Chesmal Emry]] is born in Ghealdan.
+:[[Serancha Colvine]] is raised to the shawl and chooses the Gray Ajah.
+
+;{{ne|864}}<cite id="{{ne|864}}">&nbsp;</cite>
+:[[Verin Mathwin]] is exiled from Far Madding for being able to channel the One Power, and becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|865}}<cite id="{{ne|865}}">&nbsp;</cite>
+:[[Faiselle Darone]] is raised to the [[Aes Sedai|shawl]].
+
+;{{ne|866}}<cite id="{{ne|866}}">&nbsp;</cite>
+:[[Sereille Bagand]] is raised to the Amyrlin Seat from the White Ajah.
+:[[Pevara Tazanovni]] is raised to the shawl and chooses the Red Ajah.
+:[[Seaine Herimon]] is raised to the shawl and chooses the White Ajah.
+
+;{{ne|867}}<cite id="{{ne|867}}">&nbsp;</cite>
+:[[Yukiri Haruna]] is raised to the shawl and chooses the Gray Ajah.
+:[[Doesine Alwain]] was born.{{ref/book|twotc|Doesine Alwain}}
+
+;{{ne|875}}<cite id="{{ne|875}}">&nbsp;</cite>
+:[[Galina Casban]] is born.
+:[[Verin Mathwin]] is raised to the shawl and chooses the Brown Ajah.
+
+;{{ne|878}}<cite id="{{ne|878}}">&nbsp;</cite>
+:[[Chesmal Emry]] becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|885}}<cite id="{{ne|885}}">&nbsp;</cite>
+:[[Romanda Cassin]] is elected as Sitter of the Yellow Ajah.
+
+;{{ne|890}}<cite id="{{ne|890}}">&nbsp;</cite>
+:[[Aleis Romlin]] is raised to the Amyrlin Seat from the Green Ajah. Cadsuane Melaidhrin disappears from the [[White Tower]] when she learns that the Hall of the Tower intended to raise her to the Amyrlin Seat.
+
+;{{ne|891}}<cite id="{{ne|891}}">&nbsp;</cite>
+:Chesmal Emry is raised to the shawl and chooses the Yellow Ajah.
+:Galina Casban becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|900}}<cite id="{{ne|900}}">&nbsp;</cite>
+:[[Cadsuane Melaidhrin]] returns to the White Tower after ten years in self-imposed exile to escape from being raised to the Amyrlin Seat.
+
+;{{ne|902}}<cite id="{{ne|903}}">&nbsp;</cite>
+:[[Gabrelle Brawley]] is born in Murandy.
+
+;{{ne|903}}<cite id="{{ne|903}}">&nbsp;</cite>
+:[[Juilaine Madome]] is born in Ghealdan.
+
+;{{ne|907}}<cite id="{{ne|907}}">&nbsp;</cite>
+:Galina Casban is raised to the shawl and chooses the Red Ajah.
+
+;{{ne|908}}<cite id="{{ne|907}}">&nbsp;</cite>
+:[[Loial]] is born to [[Arent]] and [[Covril]] in [[Stedding|''Stedding'' Shangtai]].
+
+;{{ne|909}}<cite id="{{ne|909}}">&nbsp;</cite>
+:[[Merana Ambrey]] goes to the White Tower.
+
+;{{ne|910}}<cite id="{{ne|910}}">&nbsp;</cite>
+:Galina Casban joins the Black Ajah.
+
+;{{ne|914}}<cite id="{{ne|914}}">&nbsp;</cite>
+:Merana Ambrey is raised to Accepted.
+
+;{{ne|917}}<cite id="{{ne|938}}">&nbsp;</cite>
+:Gabrelle Brawley goes to the White Tower in Tar Valon to become a Novice.
+
+;{{ne|919}}<cite id="{{ne|919}}">&nbsp;</cite>
+:Juilaine Madome becomes a Novice at the White Tower in Tar Valon.
+:Suana Dragand is raised to a Sitter of the Yellow Ajah.
+
+;{{ne|920}}<cite id="{{ne|920}}">&nbsp;</cite>
+:Merana Ambrey is raised to the shawl and chooses the Gray Ajah.
+
+;c. 920-{{ne|930}}<cite id="{{ne|920}}">&nbsp;</cite><cite id="{{ne|921}}">&nbsp;</cite><cite id="{{ne|923}}">&nbsp;</cite><cite id="{{ne|924}}">&nbsp;</cite><cite id="{{ne|925}}">&nbsp;</cite><cite id="{{ne|926}}">&nbsp;</cite><cite id="{{ne|927}}">&nbsp;</cite><cite id="{{ne|928}}">&nbsp;</cite><cite id="{{ne|929}}">&nbsp;</cite><cite id="{{ne|930}}">&nbsp;</cite>
+:The [[Children of the Light]] take up residence in [[Amadicia]]. Within a matter of years they have assumed effective control of the nation, building the [[Fortress of the Light]] in [[Amador]] and removing the King's palace to outside the city walls.
+
+;{{ne|922}}<cite id="{{ne|922}}">&nbsp;</cite>
+:[[Kirin Melway]] is raised to the Amyrlin Seat from the Brown Ajah.
+
+;{{ne|923}}<cite id="{{ne|923}}">&nbsp;</cite>
+:[[Rina Hafden]] is born in Amadicia.
+
+;{{ne|924}}<cite id="{{ne|938}}">&nbsp;</cite>
+:Gabrelle Brawley is raised to Accepted.
+
+;{{ne|925}}<cite id="{{ne|923}}">&nbsp;</cite>
+:[[Jain Farstrider]] is born in Malkier.
+
+;{{ne|928}}<cite id="{{ne|928}}">&nbsp;</cite>
+:[[Seonid Traighan]] is born in Cairhien.
+
+;{{ne|929}}<cite id="{{ne|929}}">&nbsp;</cite>
+:Verin Mathwin joins the Black Ajah after being caught while inquiring too deeply into their existence.
+
+;{{ne|930}}<cite id="{{ne|929}}">&nbsp;</cite>
+:Gabrelle Brawley is raised to the shawl and chooses the Brown Ajah.
+
+;{{ne|931}}<cite id="{{ne|931}}">&nbsp;</cite>
+:[[Zemaille din Amassa]] is born to the ''[[Atha'an Miere]]''.
+
+;{{ne|933}}<cite id="{{ne|933}}">&nbsp;</cite>
+:[[Sharina Melloy]] is born in Murandy.
+
+;{{ne|934}}<cite id="{{ne|934}}">&nbsp;</cite>
+:[[Edeyn ti Gemallen Arrel]] is born in Malkier.
+
+;{{ne|937}}<cite id="{{ne|937}}">&nbsp;</cite>
+:Juilaine Madome is raised to the shawl and chooses the Brown Ajah.
+:[[Paitar Nachiman]] is born in Arafel.
+:[[Bran al'Vere|Brandelwyn al'Vere]] is born in the Two Rivers.
+
+;{{ne|938}}<cite id="{{ne|938}}">&nbsp;</cite>
+:Rina Hafden goes to the White Tower in Tar Valon to become a Novice.
+
+;{{ne|940}}<cite id="{{ne|940}}">&nbsp;</cite>
+:[[Easar Togita]] is born in Shienar.
+:[[Marin al'Vere]] is born in the Two Rivers.
+
+;{{ne|943}}<cite id="{{ne|943}}">&nbsp;</cite>
+:[[Alviarin Freidhen]] is born in Amadicia.
+
+;{{ne|946}}<cite id="{{ne|946}}">&nbsp;</cite>
+:[[Ethenielle Kirukon Materasu]] is born in Kandor.
+:[[Eurian Romavni]] writes ''[[A Journey to Tarabon]]''.
+:[[Seonid Traighan]] goes to the White Tower to become a Novice.
+
+;{{ne|947}}<cite id="{{ne|947}}">&nbsp;</cite>
+:[[Suana Dragand]] becomes [[First Weaver]] of the Yellow Ajah.
+
+;{{ne|948}}<cite id="{{ne|948}}">&nbsp;</cite>
+:[[Ryne Venamar]] is born.
+
+;{{ne|950}}<cite id="{{ne|950}}">&nbsp;</cite>
+:[[Noane Masadim]] is raised to the Amyrlin Seat from the Blue Ajah.
+:[[Haral Luhhan]] is born in the Two Rivers.
+:[[Elaida do Avriny a'Roihan]] is born to a minor noble House in the north of Murandy.
+:[[Katerine Alruddin]] is born.
+:[[Tigraine Mantear]] is born as daughter-heir of house [[House Mantear|Mantear]].
+
+;{{ne|951}}<cite id="{{ne|951}}">&nbsp;</cite>
+:[[Alanna Mosvani]] is born in Arafel.
+
+;{{ne|952}}<cite id="{{ne|952}}">&nbsp;</cite>
+:[[Leane Sharif]] is born in Arad Doman.
+:[[Suana Dragand]] steps down as a Sitter of the Yellow Ajah.
+
+;{{ne|953}}<cite id="{{ne|953}}">&nbsp;</cite>
+:[[Lan Mandragoran|al'Lan Mandragoran]] is born in Malkier to [[al'Akir Mandragoran]] and [[el'Leanna Mandragoran]].{{ref/book|6|Glossary}}
+:[[Sheriam Bayanar]] is born in Saldea.
+:[[Elin Warrel]] is born in Andor.
+
+;{{ne|954}}<cite id="{{ne|954}}">&nbsp;</cite>
+:[[Aisling Noon]] is born to the ''[[Tuatha'an]]''.
+:[[Myrelle Berengari]] is born in Altara.
+:[[Slayer|Luc Mantear]] is born as the only brother and First Prince of the Sword for [[Tigraine Mantear|Tigraine]].
+
+;{{ne|955}} - The Fall of Malkier<cite id="{{ne|955}}">&nbsp;</cite>
+:The kingdom of [[Malkier]] falls to both external invasion and internal treachery, and is soon overrun by the [[Blight]]. The infant son of the last king, [[Lan Mandragoran|al'Lan Mandragoran]], is taken to safety in [[Shienar]]. The most famous survivor of the fall of Malkier, [[Jain Farstrider]], begins his explorations of the world at this time.
+:[[Alsbet Luhhan]] is born in the Two Rivers.
+:[[Rina Hafden]] is raised to the shawl and chooses the Green Ajah.
+:[[Tamlin al'Thor]] leaves the [[Two Rivers]] and joins [[Illian]]'s army.
+
+;{{ne|956}}<cite id="{{ne|956}}">&nbsp;</cite>
+:[[Moiraine Damodred]] is born in [[Cairhien (city)|Cairhien]] to [[Dalresin Damodred]] and his second wife.{{ref/book|6|Glossary}}
+
+;{{ne|957}} - [[Whitecloak War|The Whitecloak War<cite id="{{ne|957}}">&nbsp;</cite>]]
+:The [[Children of the Light]] and the Amadician army invade [[Altara]] under the command of Lord Captain [[Pedron Niall]], vowing to bring it into the Light. They are opposed by the Altaran armies backed up by forces from Murandy and Illian, under King [[Mattin Stepaneos den Balgar]]. Despite achieving local successes and victories, most notably at the [[Battle of Soremaine]], the Children conclude that the territory is too vast for their manpower to be able to hold it, and abandon the campaign. [[Tam al'Thor]], a young man from the [[Two Rivers]] district of Andor, fights for Illian during this conflict.
+:[[Morgase Trakand]] is born in Andor to Lady [[Maighdin Trakand]].
+
+;{{ne|958}}<cite id="{{ne|958}}">&nbsp;</cite>
+:[[Siuan Sanche]] is born in Tear.
+
+;{{ne|959}}<cite id="{{ne|959}}">&nbsp;</cite>
+:[[Aludra Nendenhald]] is born to a [[Guild of Illuminators|Illuminator]] family in Tarabon.
+
+;{{ne|960}}<cite id="{{ne|960}}">&nbsp;<cite>
+:[[Easar Togita]] marries his wife.
+:[[Zemaille Amassa|Zemaille din Amassa]] becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|961}}<cite id="{{ne|961}}">&nbsp;</cite>
+:[[Merana Ambrey]] negotiates the [[Fifth Treaty of Falme]] between Tarabon and Arad Doman. It fails almost immediately.
+
+;{{ne|962}}<cite id="{{ne|962}}">&nbsp;</cite>
+:[[Pedron Niall]] swears in [[Geofram Bornhald]] as a [[Children of the Light|Child of the Light]].
+
+;{{ne|964}}<cite id="{{ne|964}}">&nbsp;</cite>
+:[[Liandrin Guirale]] is born in Tarabon to impoverished parents.
+:[[Bran al'Vere|Brandelwyn al'Vere]] marries his wife, [[Marin al'Vere|Marin]].
+
+;{{ne|965}}<cite id="{{ne|965}}">&nbsp;</cite>
+:[[Laman Damodred]] becomes King of Cairhien and begins a war with Andor over trade along the Erinin.
+:[[Egeanin Tamarath]] is born in [[Seanchan (continent)|Seanchan]].
+
+;{{ne|966}}<cite id="{{ne|966}}">&nbsp;</cite>
+:[[Jarene]], daughter of Queen [[Ethenielle Kirukon Materasu|Ethenielle]] and [[Brys Noramaga]] is born.
+:[[Theodrin Dabei]] is born in Arad Doman.
+
+;{{ne|967}}<cite id="{{ne|967}}">&nbsp;</cite>
+:[[Alanna Mosvani]] becomes a Novice at the White Tower in Tar Valon.
+:[[Elaida do Avriny a'Roihan]] becomes a Novice at the White Tower in Tar Valon.
+:[[Katerine Alruddin]] becomes a Novice at the White Tower in Tar Valon.
+:[[Leane Sharif]] becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|968}}<cite id="{{ne|968}}">&nbsp;</cite>
+:Andor and Cairhien make peace, with [[Tigraine Mantear]], the [[Daughter-Heir]] of Andor, marrying Laman's nephew, [[Taringail Damodred]]. 
+:''[[The Travels of Jain Farstrider]]'' is published.
+:[[Myrelle Berengari]] becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|969}}<cite id="{{ne|969}}">&nbsp;</cite>
+:[[Alviarin Freidhen]] is raised to the shawl and chooses the White Ajah, before secretly joining the Black Ajah.
+
+;{{ne|970}}<cite id="{{ne|970}}">&nbsp;</cite>
+:Illian and Tear clash in the first of three border wars which rage intermittently for the next six years. During this time [[Tam al'Thor]] becomes Second Captain of the [[Illianer Companions]]. 
+:[[Diryk]], a son of [[Ethenielle Kirukon Materasu]] and [[Brys Noramaga]] is born.
+:[[Aisling Noon]] becomes a Novice at the White Tower in Tar Valon.
+:[[Elaida do Avriny a'Roihan]] is raised to Accepted.
+:[[Galadedrid Damodred]] is born to Tigraine Mantear and Taringail Damodred.
+
+;{{ne|971}}<cite id="{{ne|971}}">&nbsp;</cite>
+:[[Luc Mantear]], the brother of [[Tigraine Mantear|Tigraine]], is urged to seek glory in the [[Blight]] by [[Gitara Moroso]], Queen [[Mordrellen Mantear]]'s Aes Sedai advisor. He disappears while undertaking this quest, throwing his sister into despair and grief.
+:[[Martyn Tallanvor]] is born in Andor.
+:[[Elin Warrel]] becomes a Novice at the White Tower in Tar Valon.
+:[[Seonid Traighan]] is raised to the shawl and chooses the Green Ajah.
+:[[Logain Ablar]] is born in Ghealdan. His date of birth is also given as {{ne|972}}.
+
+;{{ne|972}}<cite id="{{ne|972}}">&nbsp;</cite>
+:Devastated by her brother's apparent death and her ill-treatment at the hands of her husband, [[Tigraine Mantear]] asks for advice from [[Gitara Moroso]]. Gitara tells her she must journey into the Aiel Waste and learn to become a 'Maiden', or the world would be destroyed. Tigraine disappears from Andor and crosses the [[Spine of the World]]. Found by several Aiel [[Maidens of the Spear]], she realizes it is her destiny to become one of them, and they allow it.
+:Tigraine's disappearance plunges Andor into chaos. Her mother dies from grief at the loss of both her children, and the [[Succession Wars#Third Succession War|Third Succession War]] takes place. This conflict ends with [[Morgase Trakand]] taking the throne. She pardons her enemies and marries Taringail to appease Cairhien.
+:[[Alliandre Maritha Kigarin]] is born in Ghealdan
+:[[Mazrim Taim]] is born in Saldaea.
+:[[Moiraine Damodred|Moiraine Damodre]]<nowiki/>d and [[Siuan Sanche]] become Novices at the White Tower in Tar Valon; unusually arriving on the same day.
+
+;{{ne|973}}<cite id="{{ne|973}}">&nbsp;</cite>
+:[[Elaida do Avriny a'Roihan|Elaida do'Avriny a'Roihan]] is raised to the shawl and chooses the Red Ajah.
+:[[Tamra Ospenya]] becomes Amyrlin Seat. She selects Gitara Moroso as her [[Keeper of the Chronicles]], and [[Elaida do Avriny a'Roihan]] replaces Gitara as royal advisor to the Queen of Andor. Elaida's decision to accept is based on a Foretelling she had that the safety of the world would depend on the royal family of Andor. 
+:[[Romanda Cassin]] retires as Sitter of the Yellow Ajah after failing to become Amyrlin Seat.
+:[[Marith Jaen]] retires to the country, ostensibly to write her memoirs, but most likely do to clashes with Tamra and/or not being chosen as Amyrlin.
+
+;973-{{ne|976}}<cite id="{{ne|973}}">&nbsp;</cite><cite id="{{ne|974}}">&nbsp;</cite><cite id="{{ne|975}}">&nbsp;</cite><cite id="{{ne|976}}">&nbsp;</cite>
+:During this time period, it becomes clear to [[Laman Damodred|Laman]] that [[Taringail Damodred|Taringail]] will not be able to rule [[Morgase Trakand|Morgase]] as easily as he did [[Tigraine Mantear|Tigraine]]. The apparent failure of Laman's plot starts whispering and conspiracies against him within Cairhien. In an attempt to demonstrate his power, Laman orders the cutting down of [[Chora|Avendoraldera]] so the most spectacular throne in history could be wrought from it.
+:Also during this time period, [[Tigraine Mantear|Tigraine]], now called 'Shaiel', meets and falls in love with [[Janduin (father)|Janduin]], clan chief of the [[Taardad]] Aiel. She falls pregnant with his child in {{ne|978}}.
+:{{ne|974}}: [[Nynaeve al'Meara]] is born to [[Elnore al'Meara]] and her husband in the countryside of the Two Rivers.
+:{{ne|974}}: [[Nicola Treehill]] is born in Ghealdan. [[Berelain sur Paendrag Paeron]] is born in Mayene.
+:{{ne|975}}: [[Moiraine Damodred]] and [[Siuan Sanche]] are raised to Accepted. [[Min Farshaw]] is born in [[Baerlon]]. [[Tenobia si Bashere Kazadi]] is born in Saldaea.
+:{{ne|976}}: [[Leane Sharif]] is raised to the shawl and chooses the Blue Ajah.
+
+;976-[[978 NE]] - The Aiel War<cite id="{{ne|977}}">&nbsp;</cite><cite id="{{ne|978}}">&nbsp;</cite>
+:Learning of Laman's callous disregard of the Aiel's peace offering, Janduin convinces four clans of the Aiel to unleash vengeance upon the 'treekillers'. More than 90,000 Aiel warriors invade Cairhien, unleashing great devastation and destruction upon the kingdom. In the [[First Battle of Cairhien]] the city is breached and the [[Topless Towers]] are set alight. Laman escapes with the remnants of his army and conducts a fighting retreat into Tear. The Tairens supply him with troops in return for him leading the Aiel away from their territory. Andor also joins the fight. Laman retreats to Tar Valon, where more than 167,500 troops from ten kingdoms are assembled as the so-called [[Grand Alliance]]. The [[Battle of the Shining Walls]] is fought and Laman is cornered and killed. Their job done, the Aiel withdraw back to the Waste.
+:During the battle, a detachment of the [[Illianer Companions]] engages a group of Aiel Maidens of the Spear on the slopes of Dragonmount itself. Second Captain al'Thor finds a newly-born baby amongst the dead and takes him as his own, naming him [[Rand al'Thor|Rand]]. After the battle, Tam musters out and returns to his homeland of the Two Rivers to become a farmer.
+:At this same moment, Gitara Moroso proclaims that the [[Dragon Reborn|Dragon has been Reborn]] and dies from the shock of it. Tamra Ospenya swears the two [[Accepted]] present, [[Siuan Sanche]] and [[Moiraine Damodred]], to secrecy, and begins a covert search for the child.
+:{{ne|978}} - [[Matrim Cauthon]] and [[Perrin Aybara]] are born.
+
+;[[979 NE]]<cite id="{{ne|979}}">&nbsp;</cite>
+:Moiraine and Siuan are raised to the shawl on the same night, both choosing the Blue Ajah. Moiraine travels to [[Kandor]], chasing a lead which might be that of the Dragon Reborn, and there meets al'Lan Mandragoran. After discovering evidence that the [[Black Ajah]] still exists and is also on the Dragon Reborn's trail, Moiraine asks Lan to become her [[Warder]] and join the search. He agrees. 
+:[[Ellid Abareim]] dies during her Aes Sedai test.
+:Sheriam Bayanar is raised to the shawl and chooses the Blue Ajah.
+:Tamra Ospenya is killed by Black Ajah agents. [[Sierin Vayu]] is raised to the Amyrlin Seat from the Gray Ajah.
+:The [[Wars of Cairhienin Succession|Fourth War of Cairhienin Succession]] takes place in Cairhien, with [[House Riatin]] displacing [[House Damodred]] following Laman's death. [[Galldrian Riatin]] becomes King of Cairhien.
+:[[Gawyn Trakand]] is born in Andor to Queen Morgase and her consort, Taringail.
+:[[Alanna Mosvani]] is raised to the shawl and chooses the Green Ajah.
+:[[Liandrin Guirale]] becomes a Novice at the White Tower in Tar Valon.
+
+;{{ne|980}}<cite id="{{ne|980}}">&nbsp;</cite>
+:[[Alsalam Saeed Almadar]] begins his reign of [[Arad Doman]]. 
+:[[Tuon Athaem Kore Paendrag]] is born to Empress [[Radhanan]] in Seanchan.{{ref/book|9|14}} 
+:[[Aviendha]] is born to the [[Nine Valleys]] [[sept]] of the [[Taardad]] [[Aiel]].{{ref/book|8|1}}
+:[[Aisling Noon]] is raised to the shawl and chooses the Green Ajah.
+:[[Myrelle Berengari]] is raised to the shawl and chooses the Green Ajah.
+:[[Zemaille Amassa|Zemaille din Amassa]] is raised to the shawl and chooses the Brown Ajah.
+
+;{{ne|981}}<cite id="{{ne|981}}">&nbsp;</cite>
+:[[Egwene al'Vere]] is born in [[Emond's Field]] to [[Marin al'Vere]] and [[Brandelwyn al'Vere]].
+:[[Elayne Trakand]] is born in Andor to Queen Morgase and her consort, Taringail. 
+:[[Faile Bashere|Zarine Bashere]] is born in [[Saldaea]] to [[Davram Bashere]] and [[Deira Bashere]].
+:Last recorded appearance of [[Jain Farstrider]] in the Westlands.
+:Galina Casban is elected as Highest of the Red Ajah.
+
+;{{ne|982}}<cite id="{{ne|982}}">&nbsp;</cite>
+:[[Katerine Alruddin]] is raised to the shawl and chooses the Red Ajah.
+:[[Sera]], a ''[[damane]]'', is born.
+
+;{{ne|983}}<cite id="{{ne|983}}">&nbsp;</cite>
+:The [[Forsaken]] [[Ishamael]] escapes from [[Shayol Ghul]]. Summoning the [[Black Ajah]], he is unimpressed with their progress and executes their leader, [[Jarna Malari]], for rousing suspicions among the other sisters which nearly exposed them. He makes [[Alviarin Freidhen]] the new leader of the Black Ajah.
+
+;{{ne|984}}<cite id="{{ne|984}}">&nbsp;</cite>
+:[[Taringail Damodred]] is assassinated by [[Morgase Trakand|Queen Morgase's]] court bard [[Thom Merrilin]]. Thom may have already been Morgase's lover by this point.
+:[[Amyrlin]] [[Sierin Vayu]] is murdered by a group of [[Red Ajah]] sisters led by [[Chesmal Emry]]. [[Marith Jaen]] is raised to the Amyrlin Seat from the [[Blue Ajah]].
+
+;{{ne|985}}<cite id="{{ne|985}}">&nbsp;</cite>
+:[[Owyn Merrilin]], Thom's nephew, is discovered to be able to channel the One Power. Rather than being taken for trial and gentling in Tar Valon as is customary, he is gentled on the spot by Red Ajah sisters working under secret orders from the leaders of the Red Ajah. He is left to the mercies of the townsfolk, who exile him, leading to his death within a month. Thom clashes with Elaida publicly over this before leaving the court in disgust to become a [[gleeman]]. This outcry sparks an investigation by the Hall of the Sitters, which uncovers the Red Ajah's crime, leading to the Red Sitters being exiled from the White Tower. This event becomes known in the Tower as [[the Vileness]].
+:[[Pevara Tazanovni]] is raised as a Sitter of the Red Ajah, one of the replacements for the exiled Red Sitters.
+
+;{{ne|986}}<cite id="{{ne|986}}">&nbsp;</cite>
+:[[Seaine Herimon]] is raised as a Sitter of the White Ajah.
+
+;{{ne|987}}<cite id="{{ne|987}}">&nbsp;</cite>
+:[[Katerine Alruddin]] joins the Black Ajah.
+
+;{{ne|988}}<cite id="{{ne|988}}">&nbsp;</cite>
+:[[Amyrlin]] [[Marith Jaen]] dies. The death of the third Amyrlin Seat in a short span of time causes the [[Hall of the Tower]] to elect the young [[Siuan Sanche]] to the [[Amyrlin Seat]].{{ref/book|7|8}}
+
+;{{ne|989}}<cite id="{{ne|989}}">&nbsp;</cite>
+:[[Liandrin Guirale]] is raised to the shawl and chooses the Red Ajah, before secretly joining the Black Ajah.
+:[[Min Farshaw]] begins to receive [[Min's viewings|viewings]] of future events.
+:The Queen consort of Shienar, wife of King Easar, passes away.
+
+;{{ne|990}}<cite id="{{ne|990}}">&nbsp;</cite>
+:[[Paetram Aybara]], brother of [[Perrin Aybara]], is born.
+:[[Ravens]] prologue - [[Egwene al'Vere|Egwene]] notices ravens acting strangely in the [[Two Rivers]].
+
+;{{ne|991}}<cite id="{{ne|990}}">&nbsp;</cite>
+:[[Tenobia si Bashere Kazadi]] accedes to the throne of [[Saldaea]].
+
+;993-{{ne|997}}<cite id="{{ne|997}}">&nbsp;</cite><cite id="{{ne|995}}">&nbsp;</cite><cite id="{{ne|994}}">&nbsp;</cite><cite id="{{ne|996}}">&nbsp;</cite><cite id="{{ne|993}}">&nbsp;</cite>
+:Three false Dragons arise, but they cannot channel. They cause problems in Kandor, Arad Doman and Illian, but are defeated and killed. Only the last, [[Gorin Rogad]], causes significant damage.
+:In {{ne|996}} a [[peddler]] and Darkfriend named [[Padan Fain]] is taken to Shayol Ghul and 'remade' as a 'hound' of the Dark One, to sniff out the Dragon Reborn. His regular visit to the Two Rivers the following year suggests the Dragon Reborn may be in the vicinity.
+:In {{ne|997}} [[Logain Ablar]] raised the standard of the Dragon Reborn in Ghealdan. He could channel, and defeated several armies sent against him in Altara and Murandy. He named his army the People of the Dragon and marched on Tear.
+
+;[[998 NE]]
+:[[Logain Ablar]] is defeated in battle, captured by Aes Sedai and taken towards Tar Valon to be tried and gentled.
+:The events of [[#Main_Sequence|the main sequence]] begin.
+
+=== Main Sequence ===
+;{{ne|998}}
+:[[The Eye of the World]]
+:[[The Great Hunt]]
+;{{ne|999}}
+:[[The Dragon Reborn]]
+:[[The Shadow Rising]]
+:[[The Fires of Heaven]]
+:[[Lord of Chaos]]
+;{{ne|1000}}
+:[[A Crown of Swords]]
+:[[The Path of Daggers]]
+:[[Winter's Heart]]
+:[[Crossroads of Twilight]]
+:[[Knife of Dreams]]
+:[[The Gathering Storm]]
+:[[Towers of Midnight]]
+:[[A Memory of Light]]
+
+==External links==
+* {{TVlink|Timeline}} on {{TVlink}}
+
+{{calnav}}
+{{notes}}
+[[Category:Culture]]
+[[Category:Timeline]]
+[[Category:Time]]

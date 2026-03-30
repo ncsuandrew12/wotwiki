@@ -1,0 +1,20 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| nationality=Andoran
+| occupation=Seamstress
+| affiliation=
+| gender=Female
+| hair=
+| mentioned={{loc|p}}
+| living=loc
+}}'''Jan''' is one of [[Min]]'s three aunts.{{ref|{{twotc}}, Jan|Jan}} She lives in [[Baerlon]], [[Andor]] and is a Seamstress{{ref||Jan}}{{ref/book|6|p}}. She is gentle and kind, but has very strong notions of proper behaviour{{ref/book|7|35}}.
+==Activities==
+She, [[Miren]] and [[Rana]] have raised Min to be fair; the young woman lives by it, although she sometimes thinks her life would have been easier if she had not had this education {{ref/book|7|33}}.
+
+They also admonished her not to behave like a fluff-brained girl and Min still thinks of her aunts when she hears that word {{ref/book|8|27}}. Jan always said that what could not be mended must be lived with. Another piece of advise that Jan and Rana always gave Min was to never kiss a man if she did not intend to marry him, which is why Min does not want to know what her aunts might think of her relationship with Rand {{ref/book|7|18}}.
+
+{{notes}}
+[[Category:Short pages]]

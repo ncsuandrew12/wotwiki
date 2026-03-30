@@ -1,0 +1,27 @@
+{{character 
+| image=BlueAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|276}}
+| ajah=Blue
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Comarra Zepava''' was an [[Aes Sedai]] of the [[Blue Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|244}} and served in that capacity until {{Ne|276}}.{{ref|{{twotc}}, Comarra Zepava}}
+
+==History==
+Comarra held the position for thirty-two years until her death in {{Ne|276}}. She was [[Elise Strang]]'s successor and [[Serenia Latar]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Comarra was a moderately strong Amyrlin.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Zepava, Comarra}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

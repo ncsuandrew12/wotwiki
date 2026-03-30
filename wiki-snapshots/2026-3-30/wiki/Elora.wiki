@@ -1,0 +1,16 @@
+{{character 
+| image=Tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| occupation=Author
+| gender=Female
+| mentioned={{loc|54}}
+| lastmentioned={{loc|54}}
+}}
+'''Elora daughter of [[Amar]] daughter of [[Coura]]''' was an [[Ogier]] author that lived in the early days of [[Artur Paendrag Tanreall|Artur Hawkwing's]] reign.
+
+==History==
+Elora was the author of the book ''[[Men of Fire and Women of Air]]'', which concerns [[Aes Sedai]] dealing with men who can channel. [[Loial]] tells [[Perrin Aybara]] of Elora and [[Ledar]]'s works in relation to what Aes Sedai might do in regards to [[Rand al'Thor]].
+
+{{short}}

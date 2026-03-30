@@ -1,0 +1,18 @@
+{{character
+| image=wheel-icon.svg
+| imagesize=100px
+| gender=Female
+| occupation=Inventor
+| status=Alive
+| living=Wh
+| appeared={{Wh|Prologue}}
+| lastmentioned={{Wh|Prologue}}
+}}'''Niko Tokama''' is a scientist, inventor, and a member of the [[School of Cairhien|Academy of Cairhien]].{{ref|{{twotc}}, Niko Tokama}}
+
+==Activities==
+When [[Rand al'Thor]] visits the School of Cairhien with [[Min Farshaw]] in {{ne|1000}}, [[Idrien Tarsin]] tells him of Niko. According to Mistress Tarsin, Niko is working on a "silly" project.{{ref/book|9|prologue}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Tokama, Niko}}
+[[Category:Cairhien Academy]]

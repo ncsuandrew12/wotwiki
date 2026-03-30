@@ -1,0 +1,18 @@
+{{character 
+| image=Aessedai-icon.svg
+| imagesize=125px
+| status=Dead
+| rank=Aes Sedai (Age of Legends)
+| gender=Male
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+}}
+
+'''Brassion''' was a male [[Aes Sedai (Age of Legends)|Aes Sedai]] who went mad during the [[Breaking of the World]], but who hoped to construct a ''[[ter'angreal]]'' that could drastically reduce the length of the Breaking.
+
+== History ==
+After the [[Taint]] on ''[[saidin]]'' was imposed by the [[Dark One]], Brassion worked with a group of female Aes Sedai to create the [[Artifice of Brassion]], a ''ter'angreal'' which gave a female channeler the ability to [[severing|gentle]] a male channeler without having to [[link]] with other women, in hopes of male channelers being gentled as soon as possible. Although the ''ter'angreal'' was completed, it could not be used, as Brassion succumbed to the Taint sooner than he expected and murdered the other creators of the ''ter'angreal'', with it being lost until the end of the Breaking.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Historical people]]
+[[Category:Channelers]]
+[[Category:Characters only mentioned in the RPG]]

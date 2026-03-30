@@ -1,0 +1,18 @@
+{{character 
+| image=TarabonFlag.png
+| imagesize=125px
+| status=Alive
+| nationality=Taraboner
+| occupation=Illuminator
+| gender=Male
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+}}
+
+'''Elbreth Hedare''' is a rich [[Tarabon]]er maker of fireworks, and a rogue member of the [[Guild of Illuminators]].
+
+== History ==
+Hedare belonged to the chapter house of the Guild of Illuminators in [[Tanchico]], but set off to work as an independent in strict disobedience of their rules. All of his property, and even his own knowledge was considered stolen property by the Guild, and he hired many guards to fend off any potential agents from the Guild that might want to bring him back to Tanchico. Several [[thief-catcher]]s tried to apprehend him on the road to [[Lugard]].<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+{{DEFAULTSORT:Hedare, Elbreth}}
+[[Category:Characters only mentioned in the RPG]]

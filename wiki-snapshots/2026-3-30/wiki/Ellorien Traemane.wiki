@@ -1,0 +1,49 @@
+{{ character
+| image=Traemane.png
+| imagesize=250px
+| ewot=Ellorien
+| nationality=Andoran
+| title=Lady
+| rank=High Seat
+| build=Plump
+| status=Alive
+| mentioned={{tfoh|19}}
+| gender=Female
+| appeared={{loc|16}}
+| lastappeared={{tom|23}}
+| lastmentioned={{tom|52}}
+| living=tom
+}}
+'''Ellorien Traemane''' is an [[Andoran]] noblewoman, High Seat of [[House Traemane]]. The sign of her House is the White Stag.
+
+== Appearance ==
+She is plumply pretty, thought not as plump as she used to be, has dark hair, and is a few years older than Morgase{{ref/book|5|19}}{{ref/book|11|35}}{{ref/book|6|16}}.   
+
+== History ==
+She was first to throw her support to [[Morgase Trakand]] for the [[Lion Throne]], and did so with Lord [[Abelle Pendar]], Lady [[Arathelle Renshar]], Lord [[Pelivar Coelan]], Lady [[Aemlyn Carand]], and Lord [[Luan Norwelyn]]. All of them were later exiled while Morgase was under the influence of "Gaebril" ([[Rahvin]]){{ref/book|5|19}}. During this time, Morgase had Ellorien flogged because she asked "why?"
+
+House Traemane had ''very'' favourable tax deals for their fruit orchards under Morgase. [[Lelaine Akashi]] mentions that the northen cherry orchards were not very productive lately.{{ref/book|12|30}}
+
+
+== Activities ==
+[[File:Ellorien.jpg|left|thumb|Ellorien according to the WoT CCG]]After Gaebril's defeat and [[Rand al'Thor]]'s conquest of [[Caemlyn]], she sneaks back into the city{{ref/book|6|10}}. Rand then invites her back into the throne room of the [[Royal Palace of Andor|Royal Palace]] and makes his intent clear of only holding onto the Lion Throne until [[Elayne Trakand]] is able to take over. Rand asks Ellorien for her support in which she replies that she would prefer to follow [[Dyelin Taravin]]{{ref/book|6|41}}, but Dyelin instead supported Elayne.
+
+She is approached by the [[Rebel Aes Sedai|Salidar Aes Sedai]] delegation with certain promises{{ref/book|6|43}}.
+
+The Lords Abelle, Ellorien and Luan have disappeared from the capital and cannot be found{{ref/book|10|14}}. [[Elenia Sarand]] sends agents to Abelle, Ellorien and Luan to see if they might support her for the throne{{ref/book|10|15}}.
+
+After leaving Caemlyn Lady Ellorien sets up camp with Abelle, Arathelle, Luan, Aemlyn, and Pelivar. There they sit to the side and stay neutral during [[Arymilla Marne]]'s siege on Caemlyn against Elayne{{ref/book|11|17}}. 
+
+When Arymilla's force is defeated{{ref/book|11|33}} a message is sent to Elayne asking for safe passage in Caemlyn for the neutral High Seats. They meet with Elayne and Luan asks for a temporary alliance with Elayne's forces to fight against the [[Borderlands]] army in Andor. Elayne reveals she invoked her right as an [[Aes Sedai]] and allowed them safe passage across Andor into [[Murandy]] to keep looking for the [[Dragon Reborn]]. 
+
+Luan and then Abelle throw their support behind House Trakand. Arathelle, Aemlyn, and Pelivar also throw their support behind Elayne, but only for Dyelin. This gives Elayne the required amount of Houses to obtain the Lion Throne. Ellorien refuses to support House Trakand and stalks out of the meeting{{ref/book|11|35}}.
+
+[[Lelaine Akashi]] questions [[Gawyn Trakand]] about Elayne's intentions towards the favourable taxes given to House Traemane. Gawyn responds that Elayne would probably be more strict because she had always thought that favourable position no longer justfied.{{ref/book|12|30}}
+
+Later Elayne invites her to the play ''[[The Death of Princess Walishen]]'', which she attends, indicating that the two have begun working with each other{{ref/book|13|23}}.
+
+{{DEFAULTSORT:Traemane, Ellorien}}{{notes}}
+
+[[es:Ellorien Traemane]]
+[[Category:POV character]]
+[[Category:Nobility]]

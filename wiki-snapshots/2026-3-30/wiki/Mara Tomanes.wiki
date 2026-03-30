@@ -1,0 +1,18 @@
+{{ character
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| status=Unknown
+| gender=Female
+| mentioned={{tsr|47}}
+| lastmentioned={{tfoh|1}}
+}}
+{{dablink|For the story told by [[gleemen]], see [[Mara and the Three Foolish Kings]].}}
+'''Mara Tomanes''' is the name of a girlhood friend of [[Siuan Sanche]].
+
+=="Activities"==
+During her escape from [[Tar Valon]] after being deposed, Siuan told [[Gawyn]] that [[Elayne]] and [[Egwene]] were studying in [[Illian]] with an [[Aes Sedai]] of that name. This is the first example of Aes Sedai being able to lie when the [[Three Oaths]] are removed because of being [[stilled]].
+
+She also uses the name as an alias when they are brought before [[Gareth Bryne]].
+
+{{DEFAULTSORT:Tomanes, Mara}}

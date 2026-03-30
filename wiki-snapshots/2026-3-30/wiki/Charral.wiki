@@ -1,0 +1,27 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| status=Alive
+| nationality=Seanchan
+| occupation=Damane
+| affiliation=Tuon Athaem Kore Paendrag
+| gender=Female
+| hair=Gray
+| eyes=Gray
+| appeared={{Wh|14}}
+| lastappeared={{wh|14}}
+| living=wh
+}}'''Charral''' is a ''[[damane]]'' hailing from [[Seanchan]].{{ref|{{twotc}}, Charral}}
+
+==Appearance==
+She has gray hair and gray eyes. So she is very old.
+
+Charral is the most agile of the six Tuon's ''damane'' in her weaving. However, she is weaker in the One Power than [[Sera]]
+
+==Activities==
+She is one of [[Tuon Athaem Kore Paendrag]]'s personal ''damane'' who is aboard the ''[[Victory of Kidron]]'' and part of the [[Corenne]]. Tuon describes her spinning as very agile.
+
+{{notes}}
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Channelers]]

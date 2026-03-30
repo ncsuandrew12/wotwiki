@@ -1,0 +1,85 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Taraboner
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| height = 5'4" or 163cm
+| hair=Dark, In beaded braids
+| status=Unknown
+| appeared={{ns|4}}
+| lastappeared={{amol|34}}
+| lastmentioned={{amol|42}}
+| living=tom
+|birth = {{ne|955}}}}'''Sarene Nemdahl''' is an [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Sarene Nemdahl}}
+
+== Appearance and Personality ==
+She is from [[Tarabon]]. She has dark hair that she wears in beaded braids and is 5'4" or 163&nbsp;cm in height; Sarene is considered one of the most beautiful women in the Tower{{ref/book|10|29}}, but she seems totally unaware of her stunning beauty.{{ref/book|0|4}}.
+
+When Accepted together, Moiraine thinks Sarene has a sharp tongue that often gets her into hot water, and remarkably little tact, though she seems to be as unaware of what she says as she is of her beauty. Moiraine also thinks Sarene's mother must have been glad to see Sarene's sharp tongue go off to Tar Valon.
+
+Sarene is a typical White. She insists on reasoning logically, and often does not understand matters of the heart. However, Egwene notes that she has a temper, and although she usually keeps it leashed, she can snap your nose off if you put a foot wrong. Sarene will listen to what other people have to say, and is not afraid to admit that she is wrong.
+
+== Strength and Abilities==
+Sarene is of [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|24}}. She is stronger than the minimum stated strength needed to [[Traveling|Travel]].{{ref|{{twotc}}, Sarene Nemdahl}}
+
+==History==
+Sarene was born in [[955 NE]] and was a shopkeeper's daughter.
+
+She went to the [[White Tower]] in [[970 NE]]. After six years as [[Novice]] and five as [[Accepted]] she was raised to the shawl in the year [[981 NE]].
+
+She was a novice and Accepted with [[Moiraine Damodred]] and [[Siuan Sanche]]{{ref/book|0|3}}{{ref/book|0|4}}.
+
+She has a single [[Warder]], [[Vitalien]]. She secretly writes poetry about him in which she compares him to a leopard, among other graceful, powerful, and dangerous animals{{ref/book|6|25}}.
+
+==Activities==
+=== Fealty to Rand ===
+She remained loyal to the White Tower during the split. She is among the six ambassadors sent by Elaida to the Dragon Reborn in Cairhien and also, on the way, she was part of the White Tower embassy that makes an alliance with the [[Shaido]]{{ref/book|6|p}}.
+
+Sarene and the rest of the embassy ride into Cairhien {{ref/book|6|24}}, where she discusses Rand with [[Coiren Saeldain]], Galina, and [[Erian Boroleos]]{{ref/book|6|25}}. In the city she prepares herself to capture him when it is clear that he will not accept the invitation to follow them to Tar Valon.
+
+Sarene was one of the Aes Sedai captured by the [[Asha'man]] at the Battle of [[Dumai's Wells]]{{ref/book|6|55}}. She was made ''[[da'tsang]]'' and held captive in the Aiel camp near Cairhien. There she is probably put under a mild form of compulsion by [[Verin]], planting in Sarene's mind the idea to serve the Dragon.
+
+[[Sorilea]] brings [[Elza Penfell]], Nesune, Erian, [[Beldeine Nyram]], and Sarene to Rand after they beg to be allowed to swear fealty to him. Rand accepts{{ref/book|8|29}}. Some time afterwards Beldeine, Elza, Erian, Nesune and Sarene are in the Sunroom of the Sun Palace with [[Cadsuane Melaidhrin]]. Sorilea enters and gives them a lecture.{{ref/book|9|13}}
+
+She [[Traveling|Travels]] with Cadsuane to [[Far Madding]] to track down Rand but she must leave her Warder behind{{ref/book|9|23}}. She acts as attendant to [[Harine din Togara Two Winds]] while in Far Madding. She participated in the [[Battle near Shadar Logoth]] where she linked with [[Damer Flinn]] and [[Corele Hovian]] against [[Demandred]] {{ref/book|9|35}}. Sarene was badly injured but was completely healed by Damer.
+
+When Rand stays at [[Algarin Pendaloan]]'s house in [[Tear]] to recover after cleansing ''saidin'', Sarene and the rest of the group go with him. 
+She pushes past Elza Penfell to inform Rand that her Warder Vitalien is Traveling towards her{{ref/book|9|23}}.
+
+She helps maintain [[Semirhage]]'s shield while [[Merise Haindehl]] interrogates the captive. Cadsuane also uses her to interrogate Semirhage{{ref/book|12|5}}.
+
+She goes to Rand's room after finding out about Semirhage's escape and then death. After this episode Erian, Nesune, Sarene, and Beldeine are less welcome in Rand's presence {{ref/book|12|48}}.
+
+With the Last Battle approaching, Sarene engaged in a tempestuous affair with Vitalien.
+
+She informs [[Min Farshaw]] and [[Nynaeve al'Meara]] that [[Alanna Mosvani]] has disappeared mysteriously from the [[Stone of Tear]]{{ref/book|13|12}}.
+
+=== The Last Battle ===
+As with many of the others sworn to Rand, Sarene fights in [[Thakan'dar]] near [[Shayol Ghul]]. [[Aviendha]] thinks that she is a very good fighter; if Aiel, Sarene could have made an excellent [[Maiden of the Spear]]{{ref/book|14|23}}. The group is puzzled by a mysteriously strong female channeler, and Sarene states that she does not fit any Black Ajah or Forsaken description.
+
+While in a circle with [[Kiruna Nachiman]], [[Faeldrin Harella]] and Aviendha, Sarene is attacked by [[Hessalam]]. Kiruna and Faeldrin are killed, Damer Flinn is gravely injured, and Sarene's Warder is killed. Sarene herself was placed under Hessalam's heavy [[Compulsion]] and kidnapped {{ref/book|14|34}}.
+
+Later Sarene is forced by Hessalam to link to her in circle and to give her strength. While fighting Rand's forces, Sarene falls to her knees, staring vacantly ahead{{ref/book|14|42}}. Her current status is unknown, although she may have died from over-exhaustion from forced [[channeling]].
+
+== Speculation ==
+Sarene was the only member of Aviendha's circle that was captured, but not killed or badly injured by [[Graendal]]/[[Hessalam]]. It is possible that, even at that time, Graendal could not force herself to damage such a beautiful specimen.
+
+==Viewings==
+*One of [[Min's viewings]] shows an aura of blue, yellow, and green around Sarene. It means she will serve Rand in her own fashion{{ref/book|8|29}}.
+*Min has a viewing that Sarene will have a tempestuous love affair{{ref/book|8|29}}. This was with her Warder, Vitalien.
+
+{{notes}}
+{{DEFAULTSORT:Nemdahl, Sarene}}
+[[es:Sarene Nemdahl]]
+[[it:Sarene Nemdahl]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Living as of AMOL]]

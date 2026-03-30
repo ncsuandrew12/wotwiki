@@ -1,0 +1,27 @@
+{{character 
+| image=Valere-icon-color.png
+| imagesize=100px
+| ewothist=Mikel
+| name=Mikel
+| status=Bound to the Wheel
+| nationality=Unknown nationality
+| rank=Hero of the Horn
+| affiliation=Horn of Valere
+| gender=Male
+| appeared={{tgh|47}}
+}}
+{{dablink|For other uses of the word "heart," see [[Heart (disambiguation)|Heart]].}}
+'''Mikel of the Pure Heart''' is one of the [[Heroes of the Horn]].
+
+==History==
+He is known as Mikel of the Pure Heart.{{ref/book|7|21}} He is also known as Michael.{{ref/book|2|47}}
+
+==Activities==
+He was summoned at [[Falme]] when [[Matrim Cauthon]] blew the [[Horn of Valere]].{{ref/book|2|47}} Mat later remembered seeing him while getting acquainted with [[Birgitte Silverbow]].{{ref/book|7|21}}
+
+==Parallels==
+[[File:ArcangelMichael.png|thumb|The Archangel Michael smiting the Devil (1600 - 1650).|left|150px]]Mikel, or Michael, is a reference to the {{Wiki|Michael (archangel)|Archangel Michael}}, also known as St. Michael. According to Revelation 12, the Archangel Michael (“He who is like God”) leads God’s angels in battle against the “old serpent” Satan during the apocalyptic war in heaven.{{ref|{{Link|https://www.biblegateway.com/passage/?search&equalsRevelation%2012:7-12|Revelation 12:7-12}}}} The patron saint of many warriors in arms, in Christian iconography he is often depicted carrying a sword and trampling on the Devil. As for Michael's sobriquet, it is a reference to Jesus' sermon on the mount where he says "Blessed are the pure in heart, for they shall see God”.{{ref|{{origins}}, Mikel of the Pure Heart.}}
+
+{{notes}}
+[[Category:Parallels]]
+[[Category:Historical people]]

@@ -1,0 +1,5 @@
+'''Feverbane''' is an [[herbs|herb]] that can be found in the [[Two Rivers]] region. It is a remedy for fever.{{ref/book|3|10}}
+
+{{notes}}
+{{Short}}
+[[Category:Herbs and Medicines]]

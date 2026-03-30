@@ -1,0 +1,63 @@
+{{character 
+| image=BOTRH icon.jpg
+| nationality=Andoran
+| occupation=Soldier
+| rank=Scout
+| affiliation=Band of the Red Hand
+| gender=Male
+| build=Fat
+| hair=Balding
+| height = 5' 10" or 178 cm
+| weight = > 250lb, 17st 13lb, 113kg
+| status=Unknown
+| appeared={{loc|22}}
+| lastappeared={{amol|37}}
+| lastmentioned={{amol|37}}
+| living=amol
+}}
+'''Chel Vanin''', an Andoran living in [[Maerone]],{{ref/book|6|22}} is a former horse thief and poacher. 
+
+== Appearance and demeanor==
+He is grossly obese and balding with gaps in his teeth. He is 5' 10" or 178&nbsp;cm in height and  more than more than 250&nbsp;lb, 17 st 13&nbsp;lbs or 113&nbsp;kg. His round face could easily assume a look of innocence.{{ref|{{twotc}}, Chel Vanin|CV}} He wears clean but wrinkled clothing that looks, and probably is slept in. Despite his unpimposing figure, he moves with a notable grace. He has the habit of spitting through the gap in between his front teeth.
+
+Chel Vanin has no respect for [[noble]]s, with the notable exception of [[Elayne Trakand]], and generally shows the minimum amount of respect required to keep a whole skin.
+
+== History ==
+
+He is from Andor, but lived in Maerone, [[Cairhien]].{{ref||CV}} He claims to be an itenerant stableman and sometime [[wikipedia:farrier|farrier]], when he can get the work, but is in reality a masterful thief. 
+
+Mat says he is the best horse thief in at least two nations (presumably Mat means [[Andor]] and [[Cairhien]] as he was known to range wide on both sides of the [[River Erinin]]). According to others, he could steal the horse from under a nobleman, and the nobleman wouldn't notice for three days; or the eggs from underneath a pheasant hen without disturbing her sleep, although it seemed likely he would steal the hen too.{{ref||CV}}
+
+==Activities==
+
+=== Poacher to Scout ===
+He became a member of the [[Band of the Red Hand]] when he was sought out, among others, on the orders of [[Mat Cauthon]]. Mat meant to build a group of scouts for the Band composed of men well used to stealth. Among this group of men Chel Vanin is considered the best by far, and his name is spoken with awe. Certainly he has proven his abilities by sneaking past a line of [[Warder]]s guarding passage to and from [[Salidar]], a difficult task at best, yet Vanin did so not once, but twice without being seen.
+
+He doesn't seem to be a dangerous man, but dangerous men avoid him. Mat has come to rely on him when stealth, discretion, and cunning is required. He receives quadruple pay of a nomal soldier in the Band and is the head of Mat's scouts.
+
+=== Ebou Dar ===
+He traveled with Mat and some of the Redarms to [[Ebou Dar]]. Along the way he became even more respectful towards Elayne and always addressed her as "My Lady." While in Ebou Dar Mat sent him to watch the activities of [[Jaichim Carridin]]. He leaves for the [[Rahad]] with the rest of the group to retrieve the [[Bowl of the Winds]]. He is attacked by a ''[[gholam]]'' and injured but is more worried how Elayne is.
+
+He then stays in the [[Tarasin Palace]] with the rest of the surviving Redarms.
+
+He leaves Ebou Dar with Mat and the rest of the Redarms and joins [[Valan Luca's Traveling Show]] as cover for their escape.
+He tracks down [[Renna Emain]] after she stabs [[Egeanin Tamarath]] and tries to flee to the town of [[Coramen]].
+
+=== Return to the Band ===
+He leads Mat and his group after they leave Luca's show, to a smuggler's pass in the [[Damona Mountains]]. While scouting the area he finds [[Talmanes Delovinde]] and some of the Band. He brings them back to Mat's camp.
+
+Mat uses Vanin as bait, to get the [[Seanchan]] to chase him. Mat then springs an ambush, wiping just about the whole contingent out.
+
+When [[Furyk Karede]] arrives in the Band's camp to escort [[Fortuona Athaem Devi Paendrag|Tuon]] back to Ebou Dar, Vanin rides in with the news of a Seanchan force approaching, all looking for the reward of one hundred thousand gold crowns for killing Tuon.
+
+After Tuon leaves, Vanin continues to lead the company through [[Altara]]. When the [[Aes Sedai]] in Mat's company decide to leave, Mat sends Vanin with them to gather information.
+
+=== The Last Battle ===
+Vanin accompanies [[Zarine ni Bashere t'Aybara|Faile Bashere]] as she handles the logistics of arming the forces of the Light. Unbeknownst to Vanin, Faile has a secret mission to deliver the [[Horn of Valere]] to Mat in the guise of a supply run. She receives the Horn in the guise of a shipment of [[Two Rivers]] [[tabac]]. During the run, the group is assaulted by a [[bubble of evil]] and winds up in the [[Great Blight|Blight]]. One night Faile sets a trap for a suspected thief. She buries the Horn and baits the trap with an empty box. Vanin and [[Harnan]] dig up the Horn and are suspected of being [[Darkfriend]]s. In reality, they simply wanted to get their hands on Mat's tabac, and were dumbstruck by the discovery of the Horn. 
+
+The duo trail behind Faile and follow them through one of the Shadow's gateways in [[Thakan'dar]]. They are in time to help Faile kill [[Aravine]], who has proven to be a Darkfriend and has stolen the Horn. Vanin's fate is not described, though he was last seen being chased by Trollocs, Darkfriends and Myrdraal. 
+
+{{notes}}
+{{DEFAULTSORT:Vanin, Chel}}
+[[Category:Eyes-and-ears]]
+[[Category:Farriers]]

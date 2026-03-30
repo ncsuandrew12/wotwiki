@@ -1,0 +1,16 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250
+| status=Alive
+| nationality=Andoran
+| occupation=Servant
+| affiliation=Two Rivers
+| gender=Male
+| mentioned={{loc|p}}
+| lastmentioned={{loc|p}}
+| living=loc
+}}
+'''Gwil''' is a servant trained by [[Faile Bashere]] for [[Perrin Aybara]] when they became lord and lady of the [[Two Rivers]].
+
+==Activities==
+Perrin often treated Gwil as more a friend than as a servant, with which Faile did not agree.

@@ -1,0 +1,29 @@
+{{ character
+| image=SeanchanFlag.png
+| imagesize=250px
+| ewothist=Souran
+| status=Dead
+| nationality=Borderlands
+| death={{Fy|1017}}
+| rank=General
+| occupation=Soldier
+| gender=Male
+| mentioned={{Loc|1}}
+| lastmentioned={{loc|26}}
+}}
+'''Souran Maravaile''' was a man of common birth who became a soldier during the latter part of the rule of the High King, [[Artur Hawkwing]]. His abilities were noted and, since Hawkwing promoted strictly by merit with no regard for noble birth, he was rewarded with numerous promotions and decorations. Hawkwing came to regard Maravaile as his finest general during the latter part of his life.
+
+== History ==
+Souran Maravaile was born in the Borderlands, most probably from [[Jaramide]]. This is primarily modern-day [[Saldaea]] and part of western [[Kandor]].{{ref|{{twotc}}, Andor}}
+
+In {{Fy|993}}, Maravaile was assigned to take command of the army besieging [[Tar Valon]] at Hawkwing's command. Around this time Maravaile became the lover of [[Ishara Casalain]], the daughter of [[Endara Casalain]], the governor of the Imperial Province of [[Andor]]. [[FY 994|A year later]], Hawkwing was dead from an unexpected illness and his empire began tearing itself apart. Maravaile stubbornly insisted on maintaining the siege, until Ishara persuaded him that the siege no longer served any purpose. Maravaile lifted the siege, pledged his loyalty and life to Ishara, whom he married, and they returned with his army to [[Caemlyn]], where Ishara declared herself the first Queen of Andor. In thanks for Ishara's actions, the [[Amyrlin Seat]], [[Deane Aryman]], forged a powerful alliance between Andor and Tar Valon that would last a thousand years.
+
+Maravaile's army formed the core for the new Andoran military, and its experience and reliablity served Andor well during the early part of the [[War of the Hundred Years]]. Under Maravaile's command, Andor's military expanded east and west so that by {{Fy|999}} Andor held all the lands between the [[Cary]] and the [[Erinin]].
+
+Maravaile's role as commander of Andor's army is analogous to that of the [[First Prince of the Sword]], the traditional commander of Andor's military. Whether this title existed at this time, or if Maravaile was given it, remains unknown.
+
+Maravaile was killed by assassins in {{Fy|1017}}, and Ishara died in {{Fy|1020}}. With their sons also dead in the war, it was left to their daughter [[Alesinde]] to become the second Queen of Andor.
+
+{{DEFAULTSORT:Maravaile, Souran}}
+[[Category:Andor (people)]]
+[[Category:Historical people]]

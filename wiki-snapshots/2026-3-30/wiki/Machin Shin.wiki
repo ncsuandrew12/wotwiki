@@ -1,0 +1,97 @@
+{{WotQ|{{PAGENAME}}}}
+
+'''''Machin Shin''''' is an entity that resides in the [[Ways]], also known as the '''Black Wind.''' It is a parasitic entity that grew as a result of the [[Taint]] on ''saidin''. In the [[Old Tongue]], it means "Journey of Destruction".{{ref/book|c|Old Tongue}}  
+
+==Description and Properties==
+
+[[File:The Ways.JPG|thumb|300px|Machin Shin is a parasite of the Ways, preying on the souls and memories of those it catches]]''Machin Shin'' appears to be some sort of semi-sentient entity made up of darkness that flows like air. Survivors of encounters with ''Machin Shin'' tell of feeling a light breeze in the Ways preceding its arrival, easily noticed as there is normally no wind in the Ways. They also speak of hearing thousands of screaming voices, which might manifest as a rambling monologue obsessed with blood, screams, violence and terror. Some seem to hear the screams separately from the monologue.
+
+Exactly what occurs when ''Machin Shin'' fully envelops someone is not known, except for some of its effects. It is described as "stealing minds and souls and leaving survivors empty husks".{{ref|{{bwb}}, Chapter 22: The Ways|wowot}}{{ref/book|c|Machin Shin|comp}} A paraphrased report from a Robert Jordan signing says it "eats the souls and memories of the people it catches".<ref>[https://www.theoryland.com/intvmain.php?i=71 ACOS Signing Report - Lara Beaton, Q7, Aug 23rd, 1996]</ref>
+
+The Ogier [[Trayal]] is the only example of someone who has been rescued from the Ways after becoming a victim of Machin Shin and is described as having "lost his mind and soul" in the Ways.{{ref/book|c|Trayal}}: "He is . . . empty. This body lives, but there is nothing inside it. Nothing."...."No mind. No soul. Nothing of Trayal remains but his body."{{ref/book|2|36}} This may be compared to victims of a [[draghkar]]'s kiss, with the addition that it consumes the mind as well as the soul. We are also told of travelers emerging from the Ways in a "demented" state or "mad", raving/screaming about Machin Shin.{{ref/book|c|The Ways}}{{ref/book|1|43}}{{ref/book|1|45}} Some of these could be Healed by Aes Sedai, but even those that could were never the same again. They never laughed and were afraid of the sound of the wind.{{ref/book|1|43}}
+
+==History==
+''Machin Shin'' appeared long, long after the creation of the Ways:
+{{Quote|About a thousand years ago, during what you humans call the War of the Hundred Years, the Ways began to change. So slowly in the beginning that none really noticed, they grew dank and dim. Then darkness fell along the bridges. Some who went in were never seen again. Travelers spoke of being watched from the dark. The numbers who vanished grew, and some who came out had gone mad, raving about ''Machin Shin'', the Black Wind.|early_refs={{ref/book|1|43}}}}
+This would have been almost three thousand years after the remaining male Aes Sedai gifted the [[Ways#Talisman of Growing|Talisman of Growing]] to the Ogier. Even after this darkening started, the Ogier continued to use the Talisman to expand to new stedding: "Stedding Tsofu is a young stedding, rediscovered only perhaps six hundred years ago, but the Ogier Elders were still growing the Ways."{{ref/book|2|36}}
+
+This would imply that the Ways were still safe enough to travel around {{ne|400}}. Loial says that no one had travelled them within his lifetime (90 years) and Alar says that neither she, nor any other Elder from any other stedding, have allowed either Ogier or human to enter the Ways in over a hundred years.{{ref/book|2|36}}{{ref/book|1|43}} We can therefore assume that Machin Shin was less dangerous before this time.
+
+==Origin==
+There are various explanations of the origin of ''Machin Shin'' present in the books. Moiraine provides some in-world speculation on its origins:
+{{Quote|Something left from the Time of Madness, perhaps .. Or even from the War of the Shadow, the War of Power. Something hiding in the Ways so long it can no longer get out... ...It could even be something of the Ways themselves. As Loial said, the Ways are living things, and all living things have parasites. Perhaps even a creature of the corruption itself, something born of the decay. Something that hates life and light.|early_refs={{ref/book|1|45}}}}
+The mystery of its origin and nature is repeated by Verin: "No one knows exactly what ''Machin Shin'' is...   ...unless, perhaps, it is the essence of madness and cruelty".{{ref/book|2|33}}
+In [[The World of Robert Jordan's The Wheel of Time]], the chapter on the Ways states:
+{{Quote|Even the Ogier do not know what it is. Possibly, since the Ways were born of the tainted Power, the Black Wind was also born from the corruption. Some say that it may be a parasite, natural to the Ways but corrupted. Still others believe it was a remnant of the War of the Shadow that hid in the Ways and can no longer find a path out.|early_refs={{ref||wowot}}}}
+This text is repeated verbatim in [[The Wheel of Time Companion]].{{ref||comp}}
+
+The deterioration, or darkening, of the Ways, is more explicitly attributed to the Taint on saidin:
+{{Quote|The deterioration of the Ways is almost certainly a result of the taint from saidin seeping into that which was made from it, not from any touch of the Shadow itself, though this distinction scarcely makes them any less deadly.|early_refs={{ref||wowot}}}}
+Strictly speaking though, this does not make a link between the existence of ''Machin Shin'' and the darkening of the Ways. While we know that ''Machin Shin'' did not appear until after the Ways began to go dark, this does not automatically rule out any of Moiraine's theories. 
+
+Another theory, put forward by readers, was that the evil of [[Shadar Logoth]] somehow leaked into the Ways via the Waygate in that city. This would explain the connection Padan Fain seems to have with ''Machin Shin'' (also see Controlling ''Machin Shin'')). Alternatively, another suggestion was that its creation correlates with the spreading of the [[Great Blight]] into the northernmost ''stedding'' in {{ne|31}}. Both theories also make the assumption that the Waygates are somewhat permeable, at least in the very long term, which we don't know is possible.
+
+Robert Jordan was much clearer in interviews on the origin of the ''Machin Shin''.
+{{Quote|It's not a servant of the Dark One. It will kill Trollocs or anything else. You can say it's a parasite that grew in the Ways because of the taint on the One Power that was used to initially create the Ways.|early_refs={{ref/tidb|196|28}}}}
+
+{{Quote|''Machin Shin'' was created in effect by the taint. It grew out. You can see it as a fungus that was constructed with the wrong type of materials. If you think about it that way, you get more idea about its true nature.|early_refs={{ref/tidb|196|31}}}}
+He also addresses any possible link with Shadar Logoth:
+<blockquote>'''QUESTION:''' Is ''Machin Shin'' in any way related to the evil of Shadar Logoth?
+'''ROBERT JORDAN:''' In some ways. ''Machin Shin'' is linked or you might say drawn to that. It's not a matter of linked, but more attracted by. In much the same ways as I spoke about the evils being attracted to one another due to opposite polarities. (Shadar Logoth and the taint)
+In the same way there is an attraction because ''Machin Shin'' was created in effect by the taint.{{ref/tidb|196|31}}</blockquote>
+
+==Controlling ''Machin Shin''==
+
+[[File:Padan fain cropped.jpg|thumb|250px|Padan Fain is the only person to have been let go by Machin Shin.]]Even considering the above, Padan Fain appears to have some immunity to, or relationship with, ''Machin Shin''. Egwene asks Moiraine how Fain escaped the Black Wind:
+{{Quote|"He escaped, and he did not," Moiraine said. "The Black Wind caught him-and he claimed to understand the voices. Some greeted him as like to them; others feared him. No sooner did the Wind envelop Fain than it fled."|early_refs={{ref/book|1|47}}}}
+At Barthanes' manor, Verin tries to disabuse Mat of the notion that Fain could set Machin Shin as a guard:
+{{Quote|"Machin Shin could not be used as a guard. No one can constrain the Black Wind to do anything."
+
+"It's a creature of the Dark One," Mat said numbly. "They're Darkfriends. Maybe they knew how to ask it for help, or make it help."
+
+"No one knows exactly what Machin Shin is," Verin said, "unless, perhaps, it is the essence of madness and cruelty. It cannot be reasoned with, Mat, or bargained with, or talked to. It cannot even be forced, not by any Aes Sedai living today, and perhaps not by any who ever lived. Do you really think Padan Fain could do what ten Aes Sedai could not?"|early_refs={{ref/book|2|33}}}}
+And yet, when the same happens at ''Stedding Tsofu'', Verin sounds more doubtful and Alar claims it is unprecedented:
+{{Quote|"The Black Wind is a creature of the Ways. It cannot leave them... ...And yet," she went on, "I wonder at it being here. First in Cairhien, now here. I wonder."
+
+"I have never heard of this," Alar said slowly, "Machin Shin waiting when a Waygate was opened. It always roamed the Ways. But it has been long, and perhaps the Black Wind hungers, and hopes to catch some unwary one entering a gate."|early_refs={{ref/book|2|36}}}}
+Rand's inner thoughts question Verin's narrative too, but also why Fain would call him to Toman Head, then stop him from getting there.{{ref/book|2|36}}
+
+It may also be noteworthy that Egwene and her party were not attacked by the Black Wind when they journeyed to Falme. Liandrin tells the girls not to worry about it:
+{{Quote|"Liandrin Sedai, what if we encounter the Black Wind?... ...Moiraine Sedai said it could not be killed, or even hurt very much, and I can feel the taint on this place waiting to twist anything we do with the Power."
+
+"You will not so much as think of the Source unless I tell you to," Liandrin said sharply. "Why, if one such as you tried to channel here, in the Ways, you might well go as mad as a man. You have not the training to deal with the taint of those men who made this. If the Black Wind appears, I will deal with it." She pursed her lips, studying a lump of white cheese. "Moiraine does not know so much as she thinks."}}
+While we should maybe not trust what she had to say, two servants of the Shadow being able to travel the Ways may be noteworthy. We would also assume that Liandrin travelled the Ways safely back to Tar Valon. Moiraine's explanation for Fain's immunity relates to whatever the Dark One did to him: 
+{{Quote|The evil goes deeper in him, and stronger, than in any man I have yet seen. It may be that the Dark One, in doing what he did to Fain, impressed some part of himself on the man, perhaps even, unknowing, some part of his intent.}}
+
+Verin later muses that perhaps Shadowspawn are less attractive to Machin Shin:
+{{Quote|It might be that Shadowspawn attract Machin Shin less than humankind, but.... Hmmm. Fascinating thought. I wonder.}}
+They are not, however, immune to it. Large numbers of Shadowspawn were killed in the Ways when Perrin had the old [[Manetheren]] Waygate blocked: "If you knew how many of the Shadowwrought died trying to get out of the Ways there, it would lift your heart. Machin Shin feasted at that gate, Goldeneyes".{{ref/book|4|42}}
+
+Later in the series, the Shadow seems to have overcome its fear of the Ways and perhaps found a way round Machin Shin as a threat. According to Verin, "a thousand men, or a thousand Trollocs, would very likely draw Machin Shin within minutes, a monstrous wasp to a bowl of honey. It is much more probable that they travel no more than ten or twenty together, fifty at most, and the groups spaced out."{{ref/book|4|44}} Later, however, we hear of a Chosen sending "a hundred Myrddraal and thousands of Trollocs into the Ways" {{ref/book|11|3}}. This is likely the force that arrives at [[Algarin Pendaloan]]'s manor later in the same book. Verin's letter to Mat tells of "an enormous force of Shadowspawn moves through the Ways toward Caemlyn".{{ref/book|13|e}} This force is not destroyed, forcing Caemlyn to be abandoned. The assumption that Shadowspawn could travel through the Ways prompted Rand to have [[Loial]] and [[Karldin Manfor]] [[Travel]] to every stedding in an attempt to neutralize them as a resource to the Shadow.
+
+The non-canon [[A Fire Within the Ways]] suggests that the Shadow found a way to summon ''Machin Shin'' using the [[Samma N'Sei]], thereby distracting it at strategic locations in order to allow large numbers of troops to pass through elsewhere in the network. Perrin recalls that Rand claimed he could push the Black Wind with ''saidin'' and implies the Aiel might be doing the same. This may make sense, given it was the Power used to create the Ways. In this short story, the Ogier can also hold Machin Shin at bay with [[Treesinging]]. However, this is not a canon source.
+
+==Appearances==
+
+The Black Wind appears only four times in the books:
+# When the party travel from [[Caemlyn]] to [[Fal Dara]].
+# When Rand attempts to use the Ways to follow [[Padan Fain]] from [[Cairhien]] to [[Falme]] via the Waygate in [[Lord Barthanes Manor]].
+# In [[Stedding Tsofu]] when he attempts the same.
+# When Perrin travels from [[Tear]] to the [[Two Rivers]].
+
+There is no hint of ''Machin Shin'' when [[Liandrin Guirale|Liandrin Sedai]] leads the girls from [[Tar Valon]] to Falme. It also makes an appearance in the non-canon [[A Fire Within the Ways]].
+
+The last mention of the term '''''Machin Shin''''' in the books is in [[The Shadow Rising/Chapter 44]], although it gets one single reference as '''The Black Wind''' in [[A Memory of Light/Chapter 7]]. Any later mentions of Trollocs being killed in the Ways don't mention ''Machin Shin'' directly.
+
+==Etymology==
+While the Companion lists the direct translation as "journey of destruction", it is often thought that the translation is "The Black Wind". The Glossary and two companion books used the phrase "called Machin Shin, the Black Wind, by the Ogier", but do not mention the Old Tongue directly. Indeed, the Old Tongue was not in use by the time the Black Wind appears, so it may not be a translation at all.
+
+In [[Origins of the Wheel of Time]], Michael Livingston says "It was, in its heedless destruction, a machine of sin", from which Jordan may have derived the name.{{ref/book|origins|Machin Shin}}
+
+==External links==
+*{{TVlink|''Machin Shin''}} on {{TVlink}}
+{{notes}}
+{{DISPLAYTITLE:''Machin Shin''}}
+[[es:''Machin Shin'']]
+[[Category:Extradimensional entities]]
+[[Category:Antagonists]]

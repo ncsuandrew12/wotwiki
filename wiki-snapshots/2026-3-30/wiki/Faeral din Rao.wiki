@@ -1,0 +1,25 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| status=Alive
+
+}}
+An [[Atha'an Miere]] [[Windfinder]] who came to [[Caemlyn]] with [[Elayne Trakand]].{{ref|{{twotc}}|comp}}
+
+==Strength and Abilities==
+Faeral has a strength in the [[One Power]] of {{opsl|25}}, making her moderately strong compared to most Aes Sedai.{{ref||comp}}
+
+==Activities==
+She accompanied [[Renaile din Calon Blue Star]] to the [[Tarasin Palace]], then to the [[Kin's Farm]].
+
+She observed, but not take part in, the use of the [[Bowl of the Winds]].
+
+Afterwards, she was part of the group that fled with Elayne to [[Caemlyn]].{{ref||comp}}
+
+==Trivia==
+This character is only mentioned in [[The Wheel of Time Companion]].
+[[Category:Characters only mentioned in the Companion]]

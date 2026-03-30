@@ -1,0 +1,92 @@
+{{quote|You can't go before the Amyrlin Seat dressed like a groom fresh out of the stables, sheepherder. Let me see your boots. They'll do. Well, get on with it, get on with it. You don't keep the Amyrlin waiting. Wear your sword.|[[Lan]] to [[Rand]] before his meeting with the [[Amyrlin Seat]]}}
+{{dablink|For other uses of the word "blood," see [[Blood]].}}
+{{summary | book=2
+|chapter=7
+|title=Blood Calls Blood
+|icon=wheel
+|setting=[[Fal Dara]], [[Shienar]]
+}}
+
+==Summary==
+:{{pov|[[Moiraine Damodred]]}}
+
+[[Leane]], [[Verin]], [[Moiraine]] and the [[Amyrlin]] have just finished performing [[Healing]] on Mat to reduce the [[Ruby-hilted dagger]]'s influence on him. Leane takes the servants carrying Mat out of the room. The remaining three discuss what to do, as the Healing cannot be complete without the dagger present. Mat only has a few months to live unless he can be reunited with the dagger in time. Moiraine is thinking about how to modify her earlier plan to prompt Mat to take the [[Horn of Valere]] to [[Illian]] as a way to get Rand to Illian to declare himself the Dragon. They conclude that to save Mat's life the dagger must be retrieved, and Mat is the best person for the job as he can retrieve and hold the dagger safely but anyone else who touches it will be subject to its effects.
+
+[[Siuan Sanche|Siuan]] moves to dismiss Verin so she can discuss matters privately with Moiraine, but Verin tells her of the [[Trolloc]] script scrawled all over the prison walls. It is a long, rambling poem that has tinges of prophecy in it but may also just be a taunt or a message meant to sow confusion. It talks of [[Lanfear]] walking the world again and seeking a new lover and the [[Dragon|man who channels]] sacrificing his friends. This troubles Moiraine as it is well known that Lanfear was [[Lews Therin Telamon|Lews Therin]]'s lover before he met and married [[Ilyena Therin Moerelle|his wife]]. The subsequent passages are less understandable and make references to [[Slayer|Luc Mantear]], [[Slayer|Isam Mandragoran]], [[Toman Head]] and possibly the [[Hailene|return of the armies]] of [[Artur Hawkwing]]. Finally it unmistakably says that the Return of the [[Dark One]] approaches. Verin discusses the passages with Siuan and Moiraine and whether it is prophecy or just nonsense. Verin does not have a conclusion; she merely goes through the text slowly and deliberately and discusses what they might mean. Siuan becomes increasingly irritable at the [[Brown Ajah|Brown]] sister's long-windedness until Moiraine dismisses it as just a [[Myrddraal]] ploy to confuse and frighten them, but then Verin reveals that she has deduced that the male channeler mentioned must be one of the three young men traveling with Moiraine.
+
+Moiraine panics and embraces ''[[saidar]]'' as she is prepared to [[Shielding|shield]] or even harm Verin, and she sees Siuan do the same. Verin realizes that Siuan, Moiraine's oldest friend, has been helping her the entire time. Siuan blusters and tries to dismiss Verin's implicit accusation, but it is too late as Verin's suspicions are confirmed by their reactions. Verin says that she knows the only reason the Amyrlin and Moiraine would do as they have is that the young man is not just any male channeler but is in fact the Dragon Reborn; she also confirms that nobody else shares her knowledge even though [[Serafelle Tanisloe|Serafelle]] helped her transcribe the Trolloc script.
+
+Moiraine relents and tells Verin to sit down and tell them everything she knows. Verin says it is unlikely anyone else has figured it out, as her first clue came [[Aiel War|twenty years ago]] as the [[Aiel]] were outside the walls of [[Tar Valon]]. Verin has forced her way into Moiraine and Siuan's conspiracy to help the Dragon Reborn.
+
+:{{pov|[[Perrin Aybara]]}}
+
+Perrin sneaks into the infirmary to visit Mat. He recalls the night before when he was in the gardens and maids were watching him. He heard one of the maids run to fetch [[Liandrin Guirale|Liandrin Sedai]]. Mat wakes up briefly and remembers [[Egwene]] telling him to come to the dungeon and see [[Fain]] with her. After Mat goes back to sleep, Leane comes in and Perrin stands up defensively, saying that he hasn't disturbed Mat's rest. Leane had previously prevented Perrin from coming in to see Mat. Leane blocks Perrin's exit and he feels her use the [[One Power|Power]] on him.<ref>Leane is [[Delving]] Perrin to check if his yellow eyes are due to sickness, but finds nothing wrong with him.</ref> She remarks on Perrin's odd eyes but says he is healthy. Perrin only says that he was born with those eyes. He picks her up and moves her out of his way, then exits the room.
+
+:{{pov|[[Rand al'Thor]]}}
+
+Perrin comes back to the room he shares with Rand, who is tossing around in bed. Perrin is still angry over Rand's earlier words when Rand was trying to distance himself from his friends. Rand apologizes and explains that he's in trouble and mentions Liandrin. Perrin says that Liandrin wants him too, which confuses Rand. Perrin is happy to hear that Rand didn't really mean what he said, but then Rand says they can't leave together so Perrin storms out of the room. Rand feels better about leaving after hearing from Perrin that Mat is all right. [[Lan]] comes in to tell Rand that the Amyrlin has summoned him and makes him change his clothes. Lan also quickly trains him in etiquette which confuses Rand, until Rand realizes that Lan is trying to make him seem like a man from [[Manetheren]].
+
+==Characters==
+*[[Moiraine]]
+*[[Mat]]
+*[[Leane]]
+*[[Verin]]
+*[[Siuan]]
+*[[Perrin]]
+*[[Rand]]
+*[[Lan]]
+
+===Referenced===
+*[[Agelmar]]
+*[[Padan Fain]]
+*[[Lanfear]]
+*[[Ishamael]]
+*[[Lews Therin]]
+*[[Ilyena]]
+*[[Luc]]
+*[[Tigraine]]
+*[[Isam]]
+*[[Breyan Mandragoran]]
+*[[Lain Mandragoran]]
+*[[Artur Hawkwing]]
+*[[Amalisa]]
+*[[Egwene]]
+*Lady [[Timora]]
+*[[Liandrin]]
+*[[Jon Thane]]
+*[[Pedron Niall]]
+
+==Groups==
+*[[Aes Sedai]]
+===Referenced===
+*[[Forsaken]]
+*[[Darkfriends]]
+*[[Sea Folk]]
+*[[Children of the Light]]
+*[[Seanchan]]
+
+==Places==
+*[[Fal Dara]]
+*[[Shienar]]
+
+===Referenced===
+*[[Shadar Logoth]]
+*[[Sea of Storms]]
+*[[Toman Head]]
+*[[Borderlands]]
+*[[Andor]]
+*[[Blight]]
+*[[Malkier]]
+*[[Aryth Ocean]]
+*[[Falme]]
+*[[Almoth Plain]]
+*[[Tar Valon]]
+*[[Manetheren]]
+
+==Items==
+*[[Horn of Valere]]
+
+{{DISPLAYTITLE:''Blood Calls Blood''}}
+
+
+{{Notes}}

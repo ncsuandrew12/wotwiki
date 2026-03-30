@@ -1,0 +1,17 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| occupation=Soldier
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| mentioned={{kod|34}}
+| lastmentioned={{kod|34}}
+| living=kod
+}}'''Gurat''' is a commander in the [[Seanchan]] army, serving under [[Gamel Loune]].{{ref|{{twotc}}, Gurat}}
+
+== Activities ==
+He believes he has the army that has been attacking Seanchan forces in [[Altara]]. He loses four banners of horse and five of foot almost to the last man.
+
+{{notes}}
+[[Category:Ever Victorious Army]]

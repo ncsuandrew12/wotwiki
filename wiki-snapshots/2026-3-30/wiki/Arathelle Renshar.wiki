@@ -1,0 +1,41 @@
+{{ character
+| image=Renshar.png
+| imagesize=250px
+| ewot=Arathelle
+| nationality=Andoran
+| affiliation=House Trakand
+| title=Lady
+| gender=Female
+| hair=Brown, graying
+| rank=High Seat
+| status=Alive
+| appeared={{tpod|17}}
+| mentioned={{tfoh|19}}
+| lastappeared={{kod|35}}
+| living=kod
+}}
+'''Arathelle Renshar''' is an [[Andoran]] noblewoman, and High Seat of [[House Renshar]]. The sign of House Renshar is the three Golden Hounds.
+
+== Appearance ==
+She has graying hair with a hard gaze. She has a creased face{{ref/book|8|17}}{{ref/book|11|35}}.
+
+== History ==
+Along with Lord [[Abelle Pendar]], Lord [[Pelivar Coelan]], Lady [[Ellorien Traemane]], Lady [[Aemlyn Carand]], and Lord [[Luan Norwelyn]], she supported [[Morgase Trakand]] for the [[Lion Throne]] during the [[Succession Wars#Third Succession War|Third Succession War]]{{ref/book|5|19}}.
+
+== Activities ==
+[[File:Arathelle.jpg|thumb|left|Arathelle according to the CCG]]Despite her support for Morgase, she was exiled from [[Caemlyn]] along with many others major lords, while Morgase was under the influence of [[Lord Gaebril]]{{ref/book|5|19}}. As a result, Arathelle supported [[Dyelin Taravin]] for the [[Lion Throne]] for a time{{ref/book|8|28}}.
+
+After the death of Rahvin she was invited by Rand in the Royal Palace and Lady Arathelle meets with the Dragon along many other major Lords{{ref/book|6|41}}. 
+
+Pelivar, Arathelle and Aemlyn also led the Andorans who met with the [[Murandy|Murandian]] nobles and the [[Rebel Aes Sedai]], meeting the new [[Amyrlin Seat]]{{ref/book|8|17}}.
+
+She leaves the border of Murandy and heads near Caemlyn, where she sets up camp with Abelle, Luan, Ellorien, Aemlyn and Pelivar. There they sit to the side and stay neutral during [[Arymilla Marne]]'s siege on Caemlyn against Elayne{{ref/book|11|17}}. When Arymilla's force is defeated{{ref/book|11|33}} a message is sent to Elayne asking for safe passage in Caemlyn for the neutral High Seats. 
+
+They meet with Elayne and Luan asks for a temporary alliance with Elayne's forces to fight against the [[Borderlands]] army in Andor. Elayne reveals she invoked her right as an Aes Sedai and allowed them safe passage across Andor into [[Murandy]] to keep looking for the [[Dragon Reborn]]. Luan and then Abelle throw their support behind House Trakand. Arathelle, Aemlyn and Pelivar also throw their support behind Elayne, but only for a speech in her favour by Dyelin. This gives Elayne the required amount of Houses to obtain the Lion Throne{{ref/book|11|35}}.
+
+{{notes}}
+
+{{DEFAULTSORT:Renshar, Arathelle}}
+
+[[es:Arathelle Renshar]]
+[[Category:Nobility]]

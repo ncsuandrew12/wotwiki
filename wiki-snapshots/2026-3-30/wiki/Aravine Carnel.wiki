@@ -1,0 +1,43 @@
+{{character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| ewot=Aravine
+| status=Dead
+| nationality=Amadician
+| affiliation=Darkfriend
+| gender=Female
+| build=Plump
+| appeared={{cot|9}}
+| lastappeared={{amol|37}}
+}}
+'''Aravine Carnel''' was from [[Amadicia]] first appearing in the tenth book as  [[gai'shain]] to Sevanna who only takes those of high rank to serve her. Although she swears fealty to Faile, she knows of Perrin Aybara when that seems implausible, until it becomes clear she is a reluctant Darkfriend. 
+
+== Appearance ==
+She was plump and plain.
+
+== Activities ==
+She was one of the many people who had been made ''[[gai'shain]]'' by the [[Shaido]] [[Aiel]]. She was then made one of [[Sevanna]]'s personal ''gai'shain''. 
+She came to the aid of [[Morgase Trakand]] and [[Faile Bashere]] when they were being threatened by [[Galina Casban]], and sent Galina on her way. She then pledged an oath of fealty to Faile in the hope that when Faile escaped from the Shaido, she would be able to go with her.
+
+She came to Faile with the news that the [[Oath Rod]] had finally been stolen. Later, she came to help rescue Faile when she was trapped in the burnt out old building in [[Malden]].
+
+After the [[Battle of Malden]], Faile placed her in charge of organizing the refugees for the march home, which she did by having them divide themselves based on nationality and home village. She attended a meeting with [[Perrin Aybara]] to decide where the army should go. A decision was made to send a scouting force to [[Cairhien]] to start looking for [[Rand al'Thor]].
+
+Faile thought she came from a noble background, based on her bearing and administrative abilities. Aravine did not like talking about her past, though.
+
+She informed Faile over some of the shady deals [[Bavin Rockshaw]] had been carrying out as quartermaster of the camp. Perrin sent her to check on the [[Aes Sedai]] when a [[bubble of evil]] erupted.
+
+Aravine was traveling with Faile's caravan from Tar Valon to the Field of Merrilor by a gateway created by [[Berisha Terakuni]] in order to deliver the Horn of Valere to Mat when a bubble of evil erupted and the caravan was sent to the Blight by accident. Aravine stabbed Berisha in order to silence her once the caravan was through the gateway. Aravine was killed with a thrown knife to the back from [[Faile Bashere|Faile]] while trying to bring the [[Horn of Valere]] to [[Demandred]]. Before dying Aravine confessed that she had hoped not to serve the Dark One despite swearing her oaths, but felt she had no choice when she was reactivated as a Darkfriend.
+
+== Trivia ==
+* Her alias at the Last Battle, "Pansai", comes from Pansy Faith Cox Limes, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{DEFAULTSORT:Carnel, Aravine}}
+[[Category:Gai'shain]]
+[[Category:Shaido]]
+[[Category:Characters named after fans]]<references />
+{{DEFAULTSORT:Carnel, Aravine}}
+[[Category:Gai'shain]]
+[[Category:Shaido]]
+[[Category:Characters named after fans]]

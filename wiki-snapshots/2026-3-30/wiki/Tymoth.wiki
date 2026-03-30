@@ -1,0 +1,31 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px
+| status=Alive
+| nationality=Unknown nationality
+| affiliation=Rand al'Thor
+| rank=Asha'man
+| hair=Red
+| gender=Male
+| occupation=Asha'man
+| mentioned={{tom|21}}
+| appeared={{tom|28}}
+| lastappeared={{tom|28}}
+| living=tom
+}}'''Tymoth''' is an [[Asha'man]].
+
+== Appearance ==
+He has red hair.
+
+== Activities ==
+He is under the command of [[Rodel Ituralde]] during the [[Battle of Maradon]]. He is sent by Ituralde to destroy all the [[Shadowspawn]] siege weapons, using [[Fire]] weaves{{Ref/book|13|21}}. He takes command of the Asha'man in [[Maradon]] when [[Deepe Bhadar]] was badly injured (so probably he is the second strongest channelers after him).
+
+He and his men throw everything they have at the invading [[Trolloc]]s coming through Maradon's broken wall before they exhaust themselves and have to withdraw.{{Ref/book|13|21}}{{Ref/book|13|28}}
+
+== Trivia ==
+* Tymoth is named for Timothy Brown, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{short}}
+[[Category:Channelers]]
+[[Category:Characters named after fans]]

@@ -1,0 +1,17 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=Thunder_Mist
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Unknown
+| appeared={{cot|5}}
+}}
+{{dablink|For other uses of the word "mist," see [[Mist]].}}
+'''Thunder Mist''' is part of [[Leafhunter]]'s pack of [[wolf|wolves]].
+
+==Activities==
+Thunder Mist and Leafhunter's pack are contacted by [[Perrin Aybara]] when he tries to identify a scent. When the wolves recognize the scent, that of [[Darkhound]]s, they all break contact except for Leafhunter.{{ref/book|10|5}}
+
+{{notes}}

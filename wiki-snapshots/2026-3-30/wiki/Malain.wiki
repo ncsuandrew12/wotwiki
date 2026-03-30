@@ -1,0 +1,18 @@
+{{character 
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Saldaean
+| occupation=Soldier
+| affiliation=Dragon Reborn
+| gender=Male
+| appeared={{tom|32}}
+| lastappeared={{tom|32}}
+| living=tom
+}}
+'''Malain''' is a cavalryman in the [[Saldaean]] army under [[Davram t'Ghaline Bashere]].
+
+== Activities ==
+The army arrives in [[Maradon]] as a [[Shadowspawn]] is attacking it. Bashere is about to give Malain orders to attack the fortifications outside the city when a massive horde of [[Trolloc]]s is seen massing on the hillside outside the city.
+
+{{short}}

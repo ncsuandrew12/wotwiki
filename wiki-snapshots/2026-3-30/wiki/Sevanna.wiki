@@ -1,0 +1,75 @@
+{{ character 
+| image=Sevanna.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=Da'covale
+| rank=Roofmistress
+| affiliation=Aiel
+| hair=Golden
+| eyes=Green
+| status=Alive
+| clan=Shaido
+| sept=Jumai
+| appeared={{tsr|57}}
+| mentioned={{tsr|49}}
+| lastappeared={{kod|30}}
+| lastmentioned={{tom|29}}
+| living=kod
+}}
+'''Sevanna''' is a [[Wise One]] of the [[Jumai]] [[sept]] of the [[Shaido]] [[Aiel]]. Following the deaths of Suladric and Couladin, she acted as [[clan chief]] until she was captured by the Seanchan.
+
+== Appearance ==
+She has golden hair and green eyes. She tends to wear as much jewelry as she can which covers most of her considerable bosom.
+
+==History==
+Even as a young woman, Sevanna found herself drawn to power. Using her beauty to achieve her goals, she married [[Suladric]], clan chief of the Shaido, at age sixteen. As his wife, she became [[roofmistress]] of the Jumai hold. She may previously have been entangled romantically with Couladin. [[Rhuarc]] told [[Rand]] "The only reason [Sevanna] laid her bridal wreath at Suladric's feet instead of [Couladin's] was that she meant to wed a clan chief."{{Ref/book|4|50}}
+
+Following Suladric's death, Sevanna assumed the role of leader for the clan, "speaking as the clan chief of the Shaido" until a new chief could be chosen. The widow swiftly and shrewdly selected the men most likely to succeed her late husband as clan chief: [[Muradin]] and his brother [[Couladin]].
+
+== Activities ==
+{{quote|Muradin and Couladin each believed he alone had captured her interest, and when Muradin failed to return from Rhuidean, as so many men did, one smile convinced Couladin that he had overwhelmed her.|Sevanna reminiscing{{ref/book|7|Prologue}}}}
+
+===The ''Car'a'carn''===
+Muradin is given permission by the Wise Ones to enter [[Rhuidean]] to be tested for clan chief. Sevanna had designs to marry Muradin upon his return, but the revelation of the Aiel's history was too much for him and he never emerged from the [[Glass columns|glass column]] ''[[ter'angreal]]''.
+
+When the Aiel gather at [[Alcair Dal]] in response to [[Rand al'Thor]]'s summons, Muradin's [[first-brother]] Couladin reveals that he has the markings of the ''[[Car'a'carn]]'' to the assembly before Rand has a chance to do the same.{{ref/book|4|57}} After the assembled clan chiefs acknowledge Rand as ''Car'a'carn'', the Shaido depart and Couladin assumes control as ''de facto'' clan chief. Having attached herself to Couladin, Sevanna joins him in leading the Shaido west of the [[Dragonwall]]. At some point, she and Couladin were married - Therava refers to Sevanna later as "Couladin's widow, and Suladric's".{{Ref/book|6|p}}{{Ref|{{twotc}}|Couladin}}
+
+===Cairhien===
+The Shaido laid siege to the city of [[Cairhien]] after leaving a trail of death and destruction during their journey from the [[Aiel Waste]]. They began taking the [[fifth]] from any place they passed, and enslaved most [[wetlander|wetlanders]] they encountered as so-called ''[[gai'shain]]''.  This is considered dishonorable by the majority of the Aiel; those who do not follow ''[[ji'e'toh]]'' are not subject to its dictates. A ''gai'shan'' serves willingly and humbly to restore honor while these wetlanders taken prisoner are unwilling slaves. The Shaido, and especially Sevanna, were prepared to break more traditions as it became expedient.
+
+When Rand and the rest of the Aiel clans arrived, a large battle ensued outside the city. During the battle, [[Matrim Cauthon|Mat Cauthon]], with what would become the [[Band of the Red Hand]], encountered a group of Aiel led by Couladin. The two units fought and Mat killed Couladin.
+
+Overwhelmed, the Shaido retreated north of the city to [[Kinslayer's Dagger]]. With Couladin's death, Sevanna once more eagerly found herself leading the Shaido. The clan remained at Kinslayer's Dagger for some time, but the Shaido Wise Ones journeyer to the camp of the Wise Ones at Cairhien with Sevanna. Despite having never visited Rhuidean herself (and thus not knowing the truth of Aiel history), or even being accepted as an [[Wise One apprentice|apprentice]] to a Wise One, she was nonetheless acknowledged as a Wise One by the Wise Ones of her own clan. This forced the Wise Ones of the rest of the clans to do the same.
+
+===Dumai's Wells===
+Sevanna had her sights set on Rand, the ''Car'a'carn'', chief of chiefs, the most powerful position of which a power-hungry Aiel can dream. While the Shaido are at Kinslayer's Dagger, she encountersed a wetlander by name of "Caddar," who is actually [[Sammael]]. He provided her with a [[callbox]] with instructions to use it to contact him after capturing Rand.
+
+An embassy sent by the [[White Tower]] to Rand in Cairhien met with Sevanna and several of her Wise Ones. Sevana agreed to aid the Aes Sedai militarily as part of their plan to bring Rand to the White Tower. The Aes Sedai also planned to use the Shaido to eliminate their escorts, [[Gawyn Trakand]] and his [[Younglings]].
+
+Sevanna never intended to follow through on the promise of help. Instead, she planned to kidnap Rand away from the Aes Sedai for herself, marry him, control him, and thus wield ultimate power over all Aiel. She convinced thirteen of the Wise Ones who can [[channel]] to kill one of their own, [[Desaine]], with the [[One Power]]. Sevanna chose Desaine to die because of her vocal disagreement with Sevanna.{{ref/book|6|Prologue}} The Wise Ones grimly agreed to the secret murder as a means to gain control over Rand. The secret of Desaine's true cause of death firmly bound these "loyal" Wise Ones to Sevanna.
+
+Claiming the murder was perpetrated by Aes Sedai, Sevanna called on all channeling Wise Ones to take part in an attack against the Aes Sedai at [[Dumai's Wells]] in retaliation for Desaine's death. There are six or seven Wise One channelers for every one Aes Sedai holding Rand.{{ref/book|7|Prologue}}
+
+Sevanna ordered all 40,000 of the Shaido ''[[algai'd'siswai]]'' present to attack at once, ignoring the tactical advice of the leaders of the warrior societies. She revelled in the excitement of battle and was confident of victory. Sevanna would prefer to watch from a rise to have a clear view as would a clan chief or battle leader directing the dance of the spears. Instead she was on the ground verbally shouting orders of encouragement. She was surprised to notice [[wolves]] and wetlanders in the fight; Rand's rescue army of Aiel, [[Two Rivers]] archers, [[Tear|Tairens]], [[Cairhien|Cairhienin]], and [[Mayene|Mayeners]] arrived and slashed through the Shaido. Sevanna was shocked that Wise Ones not of the Shaido would participate in the battle with the Power. Ultimately the Shaido were forced to retreat, despite Sevanna's feverish urging, when the [[Asha'man]] begin their butchering.
+
+===The scattering===
+Sevanna used the callbox to summon Caddar, asking him for a way to [[Travel]] so that she may obtain more wealth; Caddar later returned with items he called [[traveling box]]es that ostensibly use ''[[saidin]]'' to create gateways. He advised Sevanna that it would be best to use them immediately, claiming that Rand was en route with a few clans to confront the Shaido. Caddar opened multiple gateways, pretending that the boxes were doing the work.
+
+The gateways did not all lead to the same location, but rather scattered the Shaido across multiple nations. Sevanna's party included all of the Wise Ones who can channel, and was sent to [[Ghealdan]].
+
+Sevanna by this time was increasingly avaricious; the Shaido spears with her continued to raid towns and villages, taking money and jewels. She desired to take more and more wetlanders - and preferably nobles - as ''gai'shain''. It was on one of these raids that Shaido spears captured [[Zarine ni Bashere t'Aybara|Faile]] and her party, including [[Alliandre Maritha Kigarin|Alliandre]] and "[[Morgase Trakand|Maighdin]]", among others. All three women became Sevanna's personal ''gai'shain''.
+
+=== The Shaido's demise ===
+The Shaido finally settled in the town of [[Malden]] where they waited for the rest of the septs to find them. The Shaido became increasingly indolent under Sevanna's leadership. [[Therava]] argued with Sevanna that the Shaido need to move from Malden to somewhere more fortified. Sevanna resisted her arguments, citing the richness of the local area for agriculture. Therava revealed that [[Bendhuin]] received permission to go to Rhuidean, much to Sevanna's displeasure.
+
+Sevanna was captured by the Seanchan during the [[Battle of Malden]]. She was stripped, tied to [[Tylee]]'s horse, and paraded around the camp. She is most likely ''[[da'covale]]'', but her precise fate is unknown.
+
+{{notes}}
+{{Primary Protagonists}}
+[[es:Sevanna]]
+[[Category:Roofmistresses]]
+[[Category:POV character]]
+[[Category:Slaves]]
+[[Category:Antagonists]]
+[[Category:Wise Ones]]

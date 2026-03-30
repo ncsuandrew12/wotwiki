@@ -1,0 +1,22 @@
+{{character 
+| image=BOTRH_icon.jpg
+| status=Alive
+| nationality=Unknown nationality
+| rank=Squad leader
+| occupation=Soldier
+| affiliation=Band of the Red Hand
+| gender=Male
+| appeared={{amol|p}}
+| lastappeared={{amol|p}}
+| living=amol
+}}'''Gavid''' is a soldier in the [[Band of the Red Hand]].{{ref|{{twotc}}, Gavid}}
+
+==Activities==
+Gavid is in charge of a rank of crossbowmen during the sacking of [[Caemlyn]] under the leadership of [[Talmanes Delovinde]].{{ref/book|14|p}}
+
+==Trivia==
+Gavid was named after "Gavin Doyle," a fan who served as a Storm Leader for ''[[The Gathering Storm]]'' book tour and whose name was picked during a [[Brandon Sanderson|Sanderson]] name drawing contest.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{short}}
+[[Category:Characters named after fans]]

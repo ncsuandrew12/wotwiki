@@ -1,0 +1,120 @@
+{{character 
+| image=Wot- elaida.jpg
+| imagesize=250px
+| birth = {{ne|950}}
+| status=Alive
+| gender=Female
+| height=5'6" (168cm)
+| hair=Dark, shoulder length
+| eyes=Dark 
+| nationality=Murandian
+| affiliation=Elaida a'Roihan's White Tower
+| rank=Aes Sedai
+| ajah=Red
+| title=[[Amyrlin Seat]]
+| mentioned={{ns|2}}
+| appeared={{ns|5}}
+| lastappeared={{tom|47}}
+| living=tom
+| ewot=elaida
+| strength in saidar={{opsl|19}}
+}}
+
+{{WotQ|Elaida}} <!-- Fix WotQ w/ {{PAGENAME}} -->
+
+'''Elaida do Avriny a'Roihan''' is an [[Aes Sedai]] of the [[Red Ajah]]. She was formerly the [[Amyrlin Seat]]. 
+
+Once serving as the influential yet unpopular Aes Sedai advisor to [[Andor]] and one of the strongest Aes Sedai in the [[White Tower]], Elaida [[White Tower Coup|deposed]] and replaced sitting Amyrlin [[Siuan Sanche]] after it was revealed that she was plotting to protect the Dragon Reborn. Elaida's controversial seizure of power led to the [[White Tower Schism]]. 
+
+Although she finally managed to capture the rebel Amyrlin, [[Egwene al'Vere]], she became unpopular among her own supporters for her hubris and arrogance, her failings against the Dragon Reborn and the [[Asha'man]], and the growing sectarianism of the [[Ajah]]s. 
+
+During the [[Battle of Tar Valon]], she was captured by the [[Seanchan]], made ''[[damane]]'', and given the name '''Suffa'''. In her absence, Egwene was raised to Amyrlin by the remaining loyalist sisters, leading to the reunification of the White Tower.
+
+Elaida held her position as Amyrlin for 1 year from {{ne|999}} to {{ne|1000}}. She was Siuan Sanche's successor and Egwene al'Vere's predecessor.
+
+==Appearance and Personality==
+Elaida has dark eyes and dark, shoulder-length hair. Some call her handsome rather than pretty; others find her beautiful at first glance, though her expression is habitually severe. She is 5'6" (168 cm) tall.{{ref|{{twotc}}, Elaida do'Avriny a Roihan|comp}}
+
+Her personality is described as ambitious, exacting, and convinced of her own correctness. She presses promising students hard, including [[Moiraine Damodred]] and Siuan Sanche as Accepted preparing for their final test for the shawl.{{ref/book|ns|8}}
+
+==Abilities and Strength==
+Elaida is considered strong in the [[One Power]] by Aes Sedai standards, with a recorded strength of {{opsl|19}}. This is well above the minimum required to [[Travel]]. Although her potential strength is fairly high, she is not among the very strongest female channelers living; however, her time spent as [[Novice]] and [[Accepted]] were record-breaking and for that, she is considered quite remarkable.
+
+Elaida is notable for having the [[Talent]] of [[Foretelling]]. Although it is erratic and manifests rarely for her, she is the first sister since [[Gitara Moroso]] to possess it.
+
+===Foretellings===
+'''The Royal Line of Andor:'''
+{{Quote|The very first thing Elaida had ever Foretold, while still an Accepted—and had known enough even then to keep to herself-was that the Royal line of Andor would be the key to defeating the Dark One in the [[Tarmon Gai'don|Last Battle]].|Elaida do Avriny a'Roihan{{ref/book|4|1}}}} 
+
+'''The Dragon Reborn:'''
+{{Quote|This I Foretell and swear under the Light that I can say no clearer. From this day Andor marches toward pain and division. The Shadow has yet to darken to its blackest, and I cannot see if the Light will come after. Where the world has wept one tear, it will weep thousands. This I Foretell...This, too, I Foretell. Pain and division come to the whole world, and this man stands at the heart of it. I obey the Queen, and speak it clearly.|Elaida do Avriny a'Roihan{{ref/book|1|40}}}}
+
+{{Quote|Elaida had only seen him once...The Foretelling had come to her at the sight of him...And Elaida had seen chaos swirling around him, division and strife for Andor, perhaps for even more of the world. But Andor must be kept whole, whatever else happened; that first Foretelling had convinced her of that.|Elaida do Avriny a'Roihan{{ref/book|4|1}}}}
+
+'''Black Tower Foretelling:'''
+{{Dablink|Main article: [[Black Tower Foretelling]]}}
+{{Quote|The White Tower will be whole again, except for remanants cast out and scorned, whole and stronger than ever. Rand al'Thor will face the Amyrlin Seat and know her anger. The Black Tower will be rent in blood and fire, and sisters will walk its grounds. This I Foretell.|Elaida do Avriny a'Roihan{{ref/book|7|Prologue}}}}
+
+==History==
+[[File:Elaida Sedai.jpg|thumb|left|Elaida Sedai]]
+Elaida was the youngest daughter of a minor House in the north of [[Murandy]].{{ref/book|7|p}} Her family's estate was not much more than a farm.<ref name=comp />
+
+She was born in {{ne|950}} and went to the White Tower in {{ne|967}}. Elaida was the first novice to be raised to [[Accepted]] in only three years. While still an Accepted, she would have her first Foretelling, one that would set her path for the rest of her life. As a result of it, she became attached to [[Morgase Trakand]] when it became clear she would be the victor of the [[Succession Wars| Third Andoran War of Succession]].{{ref/book|4|1}}
+
+She was raised to the shawl after [[Siuan Sanche]] and [[Moiraine Damodred]]'s second year as novices, in {{ne|973}}, and chose the Red Ajah. Since then she only deferred to the Amyrlin Seat or a [[Sitter]], or to the three known Aes Sedai stronger than she in the Power. Shortly after this, she would depart to become [[Aes Sedai advisors|Aes Sedai advisor]] to Morgase, a position that would have her virtually permanently in [[Caemlyn]]. She would later reflect that this hampered her ability to advance her career within the [[White Tower]].{{ref/book|4|1}}
+
+During the [[Aiel War]], Elaida had her one and only encounter with [[Cadsuane Melaidhrin]]. Cadsuane gave her a "cold-chewing out", telling her that she was too hard, that even good steel had some give in it, and shattered if too rigid. She also told her she needed to be mistress of her emotions, not they of her. By the end of it, Elaida felt as if she were a novice running back from a scolding, not an Aes Sedai of a few years.<ref name=comp />
+
+After Moiraine and Siuan came to the Tower, Elaida made life miserable for them, pressing them so hard that other sisters often had to intervene. Her excuse for doing so was that she wanted them to pass. She was there when Moiraine was tested for the shawl, and did her best during the testing to try and make Moiraine fail. She was also present when Moiraine and Siuan take the [[Three Oaths]] of an Aes Sedai.
+
+Elaida supported the Vileness after the Aiel War, where the Black Ajah manipulated Reds and some others into gentling or killing men suspected of being able to channel. She would not kill anyone herself, but was willing to turn a blind eye. She was one of those who gentled [[Thom Merrilin|Thom Merrilin's]] nephew. When the Vileness was stopped by [[Marith Jaen]], Elaida escaped punishment because of her relative lack of involvement; and because it was decided to punish only a few to help keep the Vileness a secret.
+
+[[Owyn Merrilin]] was the only man Elaida was involved in taking and [[Gentling]]. Her motivation was that it could be used to break Morgase from the influence of [[Thom Merrilin]]. This was successful.{{ref|{{twotc}}|Thom Merrilin}} Although not involved deeply in [[The Vileness]], she was happy to turn a blind eye to what was going on. She made sure that Owyn was gentled on the spot instead of being brought to [[Tar Valon]] and tried. Once she became Amyrlin, Elaida did not care if her involvement was known.<ref name=comp /> Owyn was perhaps the last to die as a result of the pogrom.{{ref|{{twotc}}|Owyn}}
+
+==Activities==
+
+===Before the Schism===
+Elaida was in [[Andor]] when [[Rand al'Thor]] was taken to see [[Morgase Trakand|Queen Morgase]]. Elaida had a Foretelling about Rand being in the center of all the pain and division to come to the land. Before she could imprison and question Rand any more, Morgase let him walk from the Throne Room a free man.{{ref/book|1|40}} Elaida later tried to track him down, but Moiraine arrived in town and fled with Rand before she could find him.
+
+When Morgase comes back to the White Tower and finds Elayne missing, she becomes furious and refuses to take back Elaida as her [[Aes Sedai advisors|advisor]] again. Elaida later visits Egwene and Nynaeve while they are in the White Tower, to try and find out more information on Rand. She is one of the Aes Sedai present at Egwene's testing to become Accepted.{{ref/book|3|22}}
+
+===White Tower Coup===
+A member of the Red Ajah, and a former Sitter for the Red (a position she was unwittingly able to attain with the help of the [[Black Ajah]] via [[Highest]] Red and Supreme Council-member of the Black, [[Galina Casban]]), Elaida served as advisor to Queen Morgase prior to being raised as Amyrlin. After meeting Rand in Andor she leaves Andor frequently, visiting Elayne in the White Tower. This leads to her spotting some unusual visitors meeting and leaving the Amyrlin, in particular Nynaeve and Egwene. She becomes concerned when the two girls with Elayne go missing and lays this at the Amyrlin's feet. When [[Min Farshaw]] acting as Elmindreda is also spotted by Elaida visiting the Amyrlin her suspicions really begin to rise and she begins to plot with [[Alviarin Freidhen|Alviarin]]. When the news of the [[Dragon Reborn]] from [[Tear]] arrives she gathers a number of Sitters as her close circle and makes her move to take down Siuan as Amyrlin,{{ref/book|4|47}} believing that she has been behind the Dragon's movements this whole time (which isn't too far wrong).
+
+[[File:Elaida do Avriny a'Roihan.jpg|thumb|308x308px|Elaida from the Eye of the World Comic]]
+
+===Becoming the Amyrlin Seat===
+She took over from the stilled Siuan after arranging that Amyrlin's overthrow and subsequent imprisonment and [[stilling]]. Elaida is noted for her iron fist, and for seeing the [[Blue Ajah]] removed from representation in the [[Hall of the Tower]] (though all of that Ajah had fled the Tower after the rebellion in which she took over). Indeed, Elaida has shown unprecedented cruelty and extreme miscarriage of justice where Siuan is concerned. While Siuan is unconscious, she is tried, found guilty of all charges, and stilled, and she probably would have faced execution had she not escaped her imprisonment. Breaking a long held tradition, Elaida elected Alviarin as her [[Keeper of the Chronicles]]. Traditionally, the Keeper is of the same Ajah from which the Amyrlin was raised, but Alviarin was of the [[White Ajah]], and also the highest ranking of the Black Ajah. Friction begins to develop between the two, and secretly each plots the downfall of the other. 
+
+Elaida ordered Galina to capture the Dragon Reborn and bring him to the White Tower, to be held until the Last Battle. Alviarin blackmailed Elaida with the debacle at Dumai's Wells, making her Alviarin's puppet. Then, through a desperate plan, Elaida goes to [[Seaine Herimon]] to make inquires and find who helped Siuan to escape (most likely already believing it to be Alviarin), who changed Elaida's orders, and to find and report who entered into a treasonous correspondence with the Dragon Reborn. Elaida tells Seaine to follow the stench of treason (no matter how high - even to the Keeper) and report only to her. Seaine interprets her orders as an order to find [[Darkfriend]]s among the sisters and enlists the help of her old friend [[Pevara Tazanovni]] to hunt out the Black Ajah within the Tower, which might inadvertently lead to Alviarin who, in fact, is a Darkfriend, and corresponded with Rand and controlled the Tower by altering the Amyrlin's edicts without Elaida's knowledge. Elaida has since replaced Alviarin with a Red sister, [[Tarna Feir]], for her Keeper.
+
+[[File:Elaida.jpg|thumb|right|Elaida do Avriny a'Roihan]]
+
+===Rivalry with Salidar===
+Elaida believes that she is in a position well above anyone else and has drawn out plans to make a palace for the Amyrlin which will rival the White Tower. Construction for this massive undertaking is well under way.
+
+Recently, [[Beonin]] Sedai, a spy sent to [[Salidar]] under Elaida's direction, returned, told Elaida of their plans, and showed her [[Skimming]], how to [[Traveling|Travel]], and several new forms of [[Healing]]. She also plans to break [[Egwene al'Vere]], the Amyrlin Seat of the Salidar Aes Sedai, who was recently captured while attempting to turn the giant chains to the tower gates at the harbor into ''[[cuendillar]]''. She has reduced Egwene to the status of a novice, an action rarely taken by the Amyrlin unless called for by desperate measures. Acting on orders from [[Yukiri]], [[Meidani]] attempts to renew the relationship she shared with Elaida when they were novices. However, Elaida is well aware that Meidani is a spy sent by the rebel Aes Sedai.
+
+===Seanchan attack on the White Tower===
+She has Egwene serve her dinner with Meidani, in an attempt to see how Egwene reacts. Mistaking Egwene's stony silence as being broken, Elaida thus continues her discussion with Meidani about the lack of obedience the Aes Sedai show towards the Amyrlin Seat, going so far as to contemplate a fourth oath of obedience to the Amrylin. When Egwene spills the soup on purpose in retaliation, Elaida threatens to send her to the dungeons and sends her to [[Silviana Brehon|Silviana]] for another strapping.
+
+As the book progresses, Elaida passes down an order for Egwene to do only chores in an attempt to humiliate her further and break her into subservience. That same day, she summons Egwene to wait on her again, this time with a company of Sitters. When Elaida unwittingly forces a confrontation with Egwene regarding her dream, Egwene clashes with Elaida in front of the Sitters verbally, bringing up Elaida's tyrannical attitude towards the sisters and the idiocy of her plan to kidnap the Dragon Reborn. When Egwene finally loses her cool and insults Elaida, Elaida loses her rationality and starts beating Egwene with switches of Air, and throws her into the dungeons.
+
+When Silviana finally has had enough of Elaida's treatment of Egwene and denounces Elaida in front of the entire Hall, Elaida puts Silviana in Egwene's place and raises [[Katerine Alruddin]] as Mistress of Novices. After being chastised by the Hall, she remains as the Amyrlin, but her position is now tenuous with regard to the Hall. Later that same night, when the [[Seanchan]] raid the White Tower, Elaida is taken and renamed '''Suffa'''. She is later brought before [[Fortuona]], Empress of Seanchan, and forced to demonstrate Traveling.
+
+==In the television series==
+In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Elaida}} is played by actress {{TVlink|Shohreh Aghdashloo}}.<ref>https://x.com/TheWheelOfTime/status/1866845487862554850</ref>
+
+{{notes}}
+{{Primary Protagonists}}
+[[Category:Sitters]]
+[[Category:Amyrlin Seats]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Slaves]]
+[[Category:Antagonists]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Ladies]]
+[[Category:Nobility]]
+[[Category:Murandy (people)]]

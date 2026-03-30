@@ -1,0 +1,24 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| build=
+| height=
+| status=Alive
+| mentioned=
+| appeared={{tgs|41}}
+| lastappeared={{tgs|41}}
+| living=tgs
+}}
+'''Notasha''' is an [[Aes Sedai]] of the [[Red Ajah]].
+
+== Activities ==
+She was injured while battling during the [[Battle of Tar Valon]] and was [[Heal]]ed at some stage. 
+
+She, along with two other Red sister, accompanies [[Katerine Alruddin]] when Katerine tries to replace [[Saerin Asnobar]] as the Aes Sedai in charge of the resistance within the lower levels of the [[White Tower]].
+{{short}}
+[[Category:Elaida a'Roihan's White Tower]]

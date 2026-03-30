@@ -1,0 +1,19 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Torhs Margin
+| nationality=Unknown nationality
+| status=Dead
+| title=Torhs the Broken
+| gender=Male
+| mentioned={{tgs|37}}
+| lastmentioned={{tgs|37}}
+}}
+'''Torhs Margin''' is a historical character mentioned by [[Rand al'Thor]].
+
+== History ==
+Rand said that Torhs underestimated [[Graendal]] and was known in history as Torhs the Broken.
+
+{{DEFAULTSORT:Margin, Tohrs}}
+[[Category:Age of Legends (people)]]
+[[Category:Historical people]]

@@ -1,0 +1,956 @@
+{
+    "povs" : [
+        {
+            "pov": "[[Abaldar Yulan]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 24 ] }
+            ]
+        }, {
+            "pov": "[[Al'Lan Mandragoran]]",
+            "chapters": [
+                { "book": 0, "chapters": [ 1, 12, 15, 16, 20, 21, 22, 26 ] },
+                { "book": 13, "chapters": [ "Prologue", 7, 23, 42, "Epilogue" ] },
+                { "book": 14, "chapters": [ 6, 7 ,9, 10, 16, 18, 25, 28, 29, 37, 39 ] }
+            ]
+        }, {
+            "pov": "[[Adelorna Bastine]]",
+            "chapters": [
+                { "book": 12, "chapters": [ 40 ] }
+            ]
+        }, {
+            "pov": "[[Alliandre Maritha Kigarin]]",
+            "chapters": [
+                { "book": 13, "chapters": [ 43 ] }
+            ]
+        }, {
+            "pov": "[[Almen Bunt]]",
+            "chapters": [
+                { "book": 13, "chapters": [ 1 ] }
+            ]
+        }, {
+            "pov": "[[Almurat Mor]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Alteima]]",
+            "chapters": [
+                { "book": 5, "chapters": [ 1 ] }
+            ]
+        }, {
+            "pov": "[[Alviarin Freidhen]]",
+            "chapters": [
+                { "book": 7, "chapters": [ "Prologue", 32 ] },
+                { "book": 8, "chapters": [ 25 ] },
+                { "book": 10, "chapters": [ 21 ] },
+                { "book": 11, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Androl Genhald]]",
+            "chapters": [
+                { "book": 13, "chapters": [ 46, 56 ] },
+                { "book": 14, "chapters": [ "Prologue", 3, 4, 8, 10, 14, 37 ] }
+            ]
+        }, {
+            "pov": "[[Aran'gar]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 16 ] },
+                { "book": 11, "chapters": [ 3 ] }
+            ]
+        }, {
+            "pov": "[[Arymilla Marne]]",
+            "chapters": [
+                { "book": 11, "chapters": [ 17 ] }
+            ]
+        }, {
+            "pov": "[[Asmodean]]",
+            "chapters": [
+                { "book": 5, "chapters": [ 56 ] }
+            ]
+        }, {
+            "pov": "[[Asne Zeramene]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 10 ] }
+            ]
+        }, {
+            "pov": "[[Assid Bakuun]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 22 ] }
+            ]
+        }, {
+            "pov": "[[Atal Mishraile]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 42 ] }
+            ]
+        }, {
+            "pov": "[[Aviendha]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 19 ] },
+                { "book": 7, "chapters": [ 13 ] },
+                { "book": 8, "chapters": [ 1 ] },
+                { "book": 12, "chapters": [ 3, 11, 15, 26 ] },
+                { "book": 13, "chapters": [ 39, 45, 48, 49 ] },
+                { "book": 14, "chapters": [ "Prologue", 2, 20, 23, 24, 33, 34, 40, 42, 43, 47, 48 ] }
+            ]
+        }, {
+            "pov": "[[Bain]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 51 ] }
+            ]
+        }, {
+            "pov": "[[Barmellin]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 35 ] }
+            ]
+        }, {
+            "pov": "[[Barriga]]",
+            "chapters": [
+                { "book": 13, "chapters": [ "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Bayle Domon]]",
+            "chapters": [
+                { "book": 2, "chapters": [ 9, 29, 46 ] }
+            ]
+        }, {
+            "pov": "[[Bayrd]]",
+            "chapters": [
+                { "book": 14, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Beonin Marinye]]",
+            "chapters": [
+                { "book": 11, "chapters": [ 2 ] }
+            ]
+        }, {
+            "pov": "[[Berelain]] sur Paendrag",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Bertome Saighan]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 24 ] }
+            ]
+        }, {
+            "pov": "[[Bethamin]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 20 ] }
+            ]
+        }, {
+            "pov": "[[Birgitte Silverbow]]",
+            "chapters": [
+                { "book": 11, "chapters": [ 32 ] },
+                { "book": 13, "chapters": [ 22 ] },
+                { "book": 14, "chapters": [ 12, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Cadsuane Melaidhrin]]",
+            "chapters": [
+                { "book": 7, "chapters": [ 19 ] },
+                { "book": 8, "chapters": [ 12 ] },
+                { "book": 9, "chapters": [ 13, 34, 35 ] },
+                { "book": 10, "chapters": [ 23, 24 ] },
+                { "book": 12, "chapters": [ 5, 14, 17, 23, 31 ] },
+                { "book": 13, "chapters": [ 12, 51 ] },
+                { "book": 14, "chapters": [ 35, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Chulein]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 6 ] }
+            ]
+        }, {
+            "pov": "[[Cyndane]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 35 ] }
+            ]
+        }, {
+            "pov": "[[Dain Bornhald]]",
+            "chapters": [
+                { "book": 4, "chapters": [ 1, 31 ] }
+            ]
+        }, {
+            "pov": "The [[Dark One]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 39 ] }
+            ]
+        }, {
+            "pov": "[[Daved Hanlon]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 28 ] },
+                { "book": 10, "chapters": [ 15 ] }
+            ]
+        }, {
+            "pov": "[[Davram t'Ghaline Bashere]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 24 ] },
+                { "book": 10, "chapters": [ "Prologue" ] },
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Delana Mosalaine]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 30, 37 ] }
+            ]
+        }, {
+            "pov": "[[Demandred]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Prologue", 7, "Epilogue" ] },
+                { "book": 9, "chapters": [ 13, 35 ] },
+                { "book": 14, "chapters": [ 37 ] },
+                { "book": "River of Souls" }
+            ]
+        }, {
+            "pov": "[[Demira Eriff]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 46 ] }
+            ]
+        }, {
+            "pov": "[[Dyelin Taravin]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 43 ] }
+            ]
+        }, {
+            "pov": "[[Eamon Valda]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 31 ] },
+                { "book": 7, "chapters": [ "Prologue" ] },
+                { "book": 10, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Eben Hopwil]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 35 ] }
+            ]
+        }, {
+            "pov": "[[Egeanin Tamarath]]",
+            "chapters": [
+                { "book": 4, "chapters": [ 38, 46 ] },
+                { "book": 9, "chapters": [ 21 ] },
+                { "book": 14, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Egwene al'Vere]]",
+            "chapters": [
+                { "book": 1, "chapters": [ "Ravens" ] },
+                { "book": 2, "chapters": [ 8, 12, 18, 24, 38, 39, 40 ] },
+                { "book": 3, "chapters": [ 10, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, 25, 26, 27, 37, 38, 39, 48, 49, 54, 55 ] },
+                { "book": 4, "chapters": [ 5, 7, 8, 11, 12, 23, 35 ] },
+                { "book": 5, "chapters": [ 5, 7, 15, 23, 24, 25, 51 ] },
+                { "book": 6, "chapters": [ 14, 15, 18, 24, 25, 27, 32, 33, 34, 35, 36, 37, 39, 52, "Epilogue" ] },
+                { "book": 7, "chapters": [ 8, 9, 10, 11, 12 ] },
+                { "book": 8, "chapters": [ 15, 16, 17, 18, 19, 30 ] },
+                { "book": 10, "chapters": [ 16, 17, 18, 19, 20, 30 ] },
+                { "book": 11, "chapters": [ "Prologue", 24 ] },
+                { "book": 12, "chapters": [ 2, 6, 12, 16, 25, 38, 39, 40, 41, 43, 45, 46, "Epilogue" ] },
+                { "book": 13, "chapters": [ 3, 5, 14, 15, 27, 35, 36, 37, 38, 56 ] },
+                { "book": 14, "chapters": [ "Prologue", 1, 5, 9, 11, 13, 19, 22, 23, 24, 26, 29, 31, 37 ] }
+            ]
+        }, {
+            "pov": "[[Elaida do Avriny a'Roihan]]",
+            "chapters": [
+                { "book": 4, "chapters": [ 1 ] },
+                { "book": 5, "chapters": [ "Prologue" ] },
+                { "book": 7, "chapters": [ "Prologue", 32 ] },
+                { "book": 8, "chapters": [ 25 ] },
+                { "book": 11, "chapters": [ 2 ] },
+                { "book": 12, "chapters": [ 41 ] }
+            ]
+        }, {
+            "pov": "[[Elayne Trakand]]",
+            "chapters": [
+                { "book": 4, "chapters": [ 6, 8, 12, 16, 19, 20, 39, 51, 52, 54 ] },
+                { "book": 5, "chapters": [ 10, 13, 35, 36, 47, 50 ] },
+                { "book": 6, "chapters": [ "Prologue", 7, 15, 30, 37, 40, 52 ] },
+                { "book": 7, "chapters": [ 22, 30, 31 ] },
+                { "book": 8, "chapters": [ 2, 3, 4, 5, 6, 20, 28  ] },
+                { "book": 9, "chapters": [ "Prologue", 7, 8, 9, 10, 12, 26, 27 ] },
+                { "book": 10, "chapters": [ 10, 11, 12, 13, 14 ] },
+                { "book": 11, "chapters": [ 13, 14, 15, 16, 17, 31, 33, 35 ] },
+                { "book": 13, "chapters": [ 11, 17, 23, 24, 29, 45, 50, 52 ] },
+                { "book": 14, "chapters": [ 7, 8, 10, 13, 19, 20, 26, 30, 37, 39, 40, 48 ] }
+            ]
+        }, {
+            "pov": "[[Elenia Sarand]]",
+            "chapters": [
+                { "book": 10, "chapters": [ 15 ] }
+            ]
+        }, {
+            "pov": "[[Ellorien Traemane]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 43 ] }
+            ]
+        }, {
+            "pov": "[[Elmindreda Farshaw]]",
+            "chapters": [
+                { "book": 2, "chapters": [ 24, 43, 48 ] },
+                { "book": 4, "chapters": [ 1, 17, 47 ] },
+                { "book": 5, "chapters": [ 1, 11, 26, 28 ] },
+                { "book": 6, "chapters": [ 41, 49 ] },
+                { "book": 7, "chapters": [ 19, 35, 36 ] },
+                { "book": 8, "chapters": [ 27, 29 ] },
+                { "book": 9, "chapters": [ 12, 33 ] },
+                { "book": 12, "chapters": [ 15, 37, 48 ] },
+                { "book": 13, "chapters": [ 12, 13, 25, 32, 51 ] },
+                { "book": 14, "chapters": [ 27, 37, 48, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Elza Penfell]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 35 ] },
+                { "book": 10, "chapters": [ 24 ] }
+            ]
+        }, {
+            "pov": "[[Ethenielle|Ethenielle Cosaru Noramaga]]",
+            "chapters": [
+                { "book": 8, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Faile ni Bashere t'Aybara]]",
+            "chapters": [
+                { "book": 4, "chapters": [ 14 ] },
+                { "book": 6, "chapters": [ "Prologue" ] },
+                { "book": 8, "chapters": [ 8, 10, 30 ] },
+                { "book": 9, "chapters": [ 3, 4 ] },
+                { "book": 10, "chapters": [ 9 ] },
+                { "book": 11, "chapters": [ 5, 26, 28, 29, 30 ] },
+                { "book": 12, "chapters": [ 21 ] },
+                { "book": 13, "chapters": [ 16, 18, 28, 29, 30, 34, 40, 47 ] },
+                { "book": 14, "chapters": [ 33, 34, 35, 37 ] }
+            ]
+        }, {
+            "pov": "[[Falendre]]",
+            "chapters": [
+                { "book": 12, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Falion Bhoda]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Epilogue" ] },
+                { "book": 7, "chapters": [ 17 ] }
+            ]
+        }, {
+            "pov": "[[Furyk Karede]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 23  ] },
+                { "book": 10, "chapters": [ 4 ] },
+                { "book": 11, "chapters": [ 34, 36 ] }
+            ]
+        }, {
+            "pov": "[[Gabrelle]]",
+            "chapters": [
+                { "book": 10, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Galadedrid Damodred]]",
+            "chapters": [
+                { "book": 11, "chapters": [ "Prologue" ] },
+                { "book": 13, "chapters": [ "Prologue", 2, 7, 10, 26, 35, 40, 41, 43 ] },
+                { "book": 14, "chapters": [ 16, 32, 37 ] }
+            ]
+        }, {
+            "pov": "[[Galina Casban]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 53 ] },
+                { "book": 7, "chapters": [ 40 ] },
+                { "book": 8, "chapters": [ 11 ] },
+                { "book": 11, "chapters": [ "Prologue", 28, 30 ] }
+            ]
+        }, {
+            "pov": "[[Gareth Bryne]]",
+            "chapters": [
+                { "book": 5, "chapters": [ 1, 12, 28 ] },
+                { "book": 12, "chapters": [ 41 ] },
+                { "book": 14, "chapters": [ 27 ] }
+            ]
+        }, {
+            "pov": "[[Gaul]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 45 ] }
+            ]
+        }, {
+            "pov": "[[Gawyn Trakand]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Prologue", 55 ] },
+                { "book": 7, "chapters": [ "Prologue" ] },
+                { "book": 10, "chapters": [ "Prologue" ] },
+                { "book": 12, "chapters": [ 4, 13, 24, 30, 41 ] },
+                { "book": 13, "chapters": [ 5, 22, 23, 33, 37, 42 ] },
+                { "book": 14, "chapters": [ 18, 23, 37 ] }
+            ]
+        }, {
+            "pov": "[[Geofram Bornhald]]",
+            "chapters": [
+                { "book": 2, "chapters": [ 5, 29, 44, 46, 47 ] }
+            ]
+        }, {
+            "pov": "[[Gerard Arganda]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Gholam]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 2 ] }
+            ]
+        }, {
+            "pov": "[[Graendal]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 6, 23 ] },
+                { "book": 7, "chapters": [ 40 ] },
+                { "book": 8, "chapters": [ 12 ] },
+                { "book": 12, "chapters": [ "Prologue" ] },
+                { "book": 13, "chapters": [ "Prologue", 5, 38, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Hadnan Kadere]]",
+            "chapters": [
+                { "book": 5, "chapters": [ 29, 52 ] }
+            ]
+        }, {
+            "pov": "[[Harine din Togara Two Winds]]",
+            "chapters": [
+                { "book": 11, "chapters": [ 22 ] }
+            ]
+        }, {
+            "pov": "[[Herid Fel]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Hurin]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Ila]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Isam]]/[[Luc Mantear]]/[[Slayer]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 22 ] },
+                { "book": 14, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Jaichim Carridin]]",
+            "chapters": [
+                { "book": 2, "chapters": [ "Prologue" ] },
+                { "book": 3, "chapters": [ "Prologue" ] },
+                { "book": 4, "chapters": [ 38 ] },
+                { "book": 7, "chapters": [ 15 ] }
+            ]
+        }, {
+            "pov": "[[Jaret Byar]]",
+            "chapters": [
+                { "book": 2, "chapters": [ 48 ] }
+            ]
+        }, {
+            "pov": "[[Jesse Bilal]]",
+            "chapters": [
+                { "book": 12, "chapters": [ 43 ] }
+            ]
+        }, {
+            "pov": "[[Joline Maza]]",
+            "chapters": [
+                { "book": 7, "chapters": [ 17 ] }
+            ]
+        }, {
+            "pov": "[[Juilin Sandar]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Jur Grady]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 40 ] }
+            ]
+        }, {
+            "pov": "[[Katerine Alruddin]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Prologue", 25 ] }
+            ]
+        }, {
+            "pov": "[[Kennar Miraj]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 24 ] }
+            ]
+        }, {
+            "pov": "[[Leane Sharif]]",
+            "chapters": [
+                { "book": 12, "chapters": [ 6 ] },
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Lelaine Akashi]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Lews Therin Telamon]]",
+            "chapters": [
+                { "book": 1, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Liandrin Guirale]]",
+            "chapters": [
+                { "book": 2, "chapters": [ 5 ] },
+                { "book": 5, "chapters": [ 18, 34 ] }
+            ]
+        }, {
+            "pov": "[[Logain Ablar]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37, 43, 48 ] }
+            ]
+        }, {
+            "pov": "[[Loial]]",
+            "chapters": [
+                { "book": 11, "chapters": [ 19 ] },
+                { "book": 14, "chapters": [ 16, 28, 38, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Luan Norwelyn]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 43 ] }
+            ]
+        }, {
+            "pov": "[[Lyrelle]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 21 ] }
+            ]
+        }, {
+            "pov": "[[Maeric]]",
+            "chapters": [
+                { "book": 7, "chapters": [ 40 ] }
+            ]
+        }, {
+            "pov": "[[Malenarin Rai]]",
+            "chapters": [
+                { "book": 13, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Masema Dagar]]",
+            "chapters": [
+                { "book": 12, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Matrim Cauthon]]",
+            "chapters": [
+                { "book": 3, "chapters": [ 19, 20, 24, 28, 30, 31, 32, 40, 44, 45, 46, 47, 49, 52, 54, 55, 56 ] },
+                { "book": 4, "chapters": [ 2, 13, 15, 24, 36, 37, 50 ] },
+                { "book": 5, "chapters": [ 3, 22, 42, 43, 44, 45, 51 ] },
+                { "book": 6, "chapters": [ 5, 22, 33, 38, 44, 47, 52 ] },
+                { "book": 7, "chapters": [ 14, 16, 17, 21, 28, 29, 37, 38, 39 ] },
+                { "book": 9, "chapters": [ 15, 16, 17, 18, 19, 28, 29, 30, 31 ] },
+                { "book": 10, "chapters": [ 1, 2, 3, 28, 29 ] },
+                { "book": 11, "chapters": [ 6, 7, 8, 9, 10, 11, 25, 27, 36, 37 ] },
+                { "book": 12, "chapters": [ 20, 27, 28, 34, 36 ] },
+                { "book": 13, "chapters": [ 8, 9, 17, 19, 22, 31, 52, 53, 54, 55, 57 ] },
+                { "book": 14, "chapters": [ 11, 15, 17, 19, 28, 29, 32, 36, 39, 40, 43, 45, 46 , "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Mazrim Taim]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Merana Ambrey]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 43, 49 ] },
+                { "book": 7, "chapters": [ 19 ] }
+            ]
+        }, {
+            "pov": "[[Mesaana]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Prologue" ] },
+                { "book": 13, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Mili Skane]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 10 ] }
+            ]
+        }, {
+            "pov": "[[Moghedien]]",
+            "chapters": [
+                { "book": 5, "chapters": [ 25 ] },
+                { "book": 6, "chapters": [ "Epilogue" ] },
+                { "book": 7, "chapters": [ 25, 30 ] },
+                { "book": 9, "chapters": [ 35 ] },
+                { "book": 14, "chapters": [ "Prologue", 41, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Moiraine Damodred]]",
+            "chapters": [
+                { "book": 0, "chapters": [ 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 21, 23, 24, 25, 26, "Epilogue" ] },
+                { "book": 1, "chapters": [ 53 ] },
+                { "book": 2, "chapters": [ 4, 5, 7, 8, 22 ] },
+                { "book": 4, "chapters": [ 21 ] },
+                { "book": 5, "chapters": [ 7, 52 ] },
+                { "book": 14, "chapters": [ 16, 49 ] }
+            ]
+        }, {
+            "pov": "[[Morgase Trakand]]",
+            "chapters": [
+                { "book": 5, "chapters": [ 1, 19, 56 ] },
+                { "book": 6, "chapters": [ "Prologue", 9, 31 ] },
+                { "book": 7, "chapters": [ 26 ] },
+                { "book": 8, "chapters": [ 8 ] },
+                { "book": 13, "chapters": [ 6, 21, 29, 44 ] }
+            ]
+        }, {
+            "pov": "[[Moridin]]",
+            "chapters": [
+                { "book": 7, "chapters": [ 20 ] },
+                { "book": 8, "chapters": [ "Prologue", 2 ] }
+            ]
+        }, {
+            "pov": "[[Myrelle Berengari]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 52 ] }
+            ]
+        }, {
+            "pov": "Narrator",
+            "chapters": [
+                { "book": 2, "chapters": [ 50 ] },
+                { "book": 3, "chapters": [ 56 ] },
+                { "book": 5, "chapters": [ 10 ] },
+                { "book": 7, "chapters": [ 41 ] },
+                { "book": 8, "chapters": [ 31 ] }
+            ]
+        }, {
+            "pov": "[[Nesune Bihara]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 25, 27 ] }
+            ]
+        }, {
+            "pov": "[[Noal Charin]]",
+            "chapters": [
+                { "book": 7, "chapters": [ 17 ] }
+            ]
+        }, {
+            "pov": "[[Nynaeve|Nynaeve ti al'Meara Mandragoran]]",
+            "chapters": [
+                { "book": 1, "chapters": [ 21, 28, 37 ] },
+                { "book": 2, "chapters": [ 8, 23, 42, 45, 46 ] },
+                { "book": 3, "chapters": [ 29, 51 ] },
+                { "book": 4, "chapters": [ 39, 52, 54, 55 ] },
+                { "book": 5, "chapters": [ 8, 9, 14, 15, 16, 17, 33, 34, 37, 38, 39, 40, 47, 48, 49, 50, 54, 55 ] },
+                { "book": 6, "chapters": [ "Prologue", 8, 12, 13, 14, 29, 30, 37, 48 ] },
+                { "book": 7, "chapters": [ 21, 23, 24, 31 ] },
+                { "book": 9, "chapters": [ 11, 34 ] },
+                { "book": 11, "chapters": [ 20 ] },
+                { "book": 12, "chapters": [ 7, 32, 33, 44 ] },
+                { "book": 13, "chapters": [ 15, 20 ] },
+                { "book": 14, "chapters": [ 36, 46, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Olver]]",
+            "chapters": [
+                { "book": 13, "chapters": [ "Epilogue" ] },
+                { "book": 14, "chapters": [ 35, 37, 39 ] }
+            ]
+        }, {
+            "pov": "[[Osan'gar]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Prologue" ] },
+                { "book": 9, "chapters": [ 35 ] }
+            ]
+        }, {
+            "pov": "[[Padan Fain]]/Ordeith/Shaisam",
+            "chapters": [
+                { "book": 2, "chapters": [ 5, 11, 19, 34 ] },
+                { "book": 4, "chapters": [ 31, 56 ] },
+                { "book": 5, "chapters": [ "Prologue", 19 ] },
+                { "book": 6, "chapters": [ 28 ] },
+                { "book": 13, "chapters": [ "Prologue" ] },
+                { "book": 14, "chapters": [ 45, 47 ] }
+            ]
+        }, {
+            "pov": "[[Pedron Niall]]",
+            "chapters": [
+                { "book": 3, "chapters": [ "Prologue" ] },
+                { "book": 6, "chapters": [ "Prologue", 9, 31 ] },
+                { "book": 7, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Perrin|Perrin t'Bashere Aybara]]",
+            "chapters": [
+                { "book": 1, "chapters": [ 20, 22, 23, 25, 27, 29, 30, 38 ] },
+                { "book": 2, "chapters": [ 7, 14, 28, 31, 44 ] },
+                { "book": 3, "chapters": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 33, 34, 35, 36, 41, 42, 43, 44, 50, 53, 54, 55 ] },
+                { "book": 4, "chapters": [ 2, 3, 14, 16, 18, 27, 28, 29, 30, 31, 32, 33, 40, 41, 42, 43, 44, 45, 53, 56 ] },
+                { "book": 6, "chapters": [ 45, 46, 50, 51, 54, 55 ] },
+                { "book": 7, "chapters": [ 1, 2, 3, 4, 5, 6, 27 ] },
+                { "book": 8, "chapters": [ 7, 8, 9, 10, 30 ] },
+                { "book": 9, "chapters": [ 1, 2, 5, 6 ] },
+                { "book": 10, "chapters": [ 5, 6, 7, 8, 25, 26, 27 ] },
+                { "book": 11, "chapters": [ 4, 12, 26, 29, 30 ] },
+                { "book": 12, "chapters": [ 9, 17, 21 ] },
+                { "book": 13, "chapters": [ "Prologue", 2, 4, 7, 10, 16, 18, 21, 24, 26, 28, 29, 30, 33, 34, 35, 36, 37, 38, 40, 41, 44, 47, 53, "Epilogue" ] },
+                { "book": 14, "chapters": [ 6, 10, 12, 13, 14, 22, 25, 30, 33, 34, 36, 37, 44, 46, 47, 49, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Pevara Tazanovni]]",
+            "chapters": [
+                { "book": 10, "chapters": [ 22 ] },
+                { "book": 11, "chapters": [ "Prologue", "Epilogue" ] },
+                { "book": 13, "chapters": [ 53 ] },
+                { "book": 14, "chapters": [ "Prologue", 2, 3, 4, 21, 37, 41, 42 ] }
+            ]
+        }, {
+            "pov": "[[Raefar Kisman]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 22 ] }
+            ]
+        }, {
+            "pov": "[[Rahvin]]",
+            "chapters": [
+                { "book": 5, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Rand al'Thor]]",
+            "chapters": [
+                { "book": 1, "chapters": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24, 26, 31, 32, 33, 34, 35, 36, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53 ] },
+                { "book": 2, "chapters": [ 1, 2, 3, 6, 7, 8, 9, 10, 11, 13, 15, 16, 17, 19, 20, 21, 25, 26, 27, 30, 31, 32, 33, 35, 36, 37, 41, 44, 45, 46, 47, 49 ] },
+                { "book": 3, "chapters": [ 9, 32, 36, 54, 55 ] },
+                { "book": 4, "chapters": [ 2, 8, 9, 10, 22, 25, 26, 34, 36, 37, 48, 49, 50, 57, 58 ] },
+                { "book": 5, "chapters": [ 2, 3, 4, 6, 20, 21, 22, 29, 30, 31, 32, 41, 42, 43, 44, 45, 46, 51, 52, 53, 54, 55, 56 ] },
+                { "book": 6, "chapters": [ 1, 2, 3, 4, 10, 11, 16, 17, 18, 19, 20, 21, 26, 28, 32, 41, 42, 46, 49, 50, 51, 55 ] },
+                { "book": 7, "chapters": [ 7, 18, 33, 34, 41 ] },
+                { "book": 8, "chapters": [ 13, 14, 21, 22, 23, 24, 27, 29 ] },
+                { "book": 9, "chapters": [ "Prologue", 11, 25, 32, 33, 34, 35 ] },
+                { "book": 10, "chapters": [ 24, "Epilogue" ] },
+                { "book": 11, "chapters": [ 18, 19, 20, 21, 27 ] },
+                { "book": 12, "chapters": [ 1, 5, 15, 22, 29, 31, 35, 42, 47, 49, 50 ] },
+                { "book": 13, "chapters": [ "Epilogue" ] },
+                { "book": 14, "chapters": [ "Prologue", 1, 3, 4, 5, 9, 12, 15, 16, 18, 23, 24, 25, 30, 34, 37, 38, 39, 43, 46, 47, 49, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Reanne Corly]]",
+            "chapters": [
+                { "book": 7, "chapters": [ 24, 29 ] }
+            ]
+        }, {
+            "pov": "[[Renald Fanwar]]",
+            "chapters": [
+                { "book": 12, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Rhadam Asunawa]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 31 ] }
+            ]
+        }, {
+            "pov": "[[Rhuarc]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Rodel Ituralde]]",
+            "chapters": [
+                { "book": 10, "chapters": [ "Prologue" ] },
+                { "book": 11, "chapters": [ "Prologue" ] },
+                { "book": 12, "chapters": [ "Prologue", 6, 10 ] },
+                { "book": 13, "chapters": [ 18, 21, 24, 28, 32 ] },
+                { "book": 14, "chapters": [ 31 ] }
+            ]
+        }, {
+            "pov": "[[Romanda Cassin]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 37 ] },
+                { "book": 11, "chapters": [ 23 ] },
+                { "book": 12, "chapters": [ 26 ] }
+            ]
+        }, {
+            "pov": "[[Saerin Asnobar]]",
+            "chapters": [
+                { "book": 12, "chapters": [ 41 ] }
+            ]
+        }, {
+            "pov": "[[Sahra Covenry]]",
+            "chapters": [
+                { "book": 4, "chapters": [ 17 ] }
+            ]
+        }, {
+            "pov": "[[Samitsu Tamagowa]]",
+            "chapters": [
+                { "book": 10, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Sammael]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 6, 23 ] }
+            ]
+        }, {
+            "pov": "[[Sarene Nemdahl]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 25 ] }
+            ]
+        }, {
+            "pov": "[[Seaine Herimon]]",
+            "chapters": [
+                { "book": 7, "chapters": [ 32 ] },
+                { "book": 8, "chapters": [ 26 ] },
+                { "book": 9, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Semirhage]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 6 ] },
+                { "book": 12, "chapters": [ 22 ] }
+            ]
+        }, {
+            "pov": "[[Sevanna]]",
+            "chapters": [
+                { "book": 6, "chapters": [ "Prologue", 53 ] },
+                { "book": 7, "chapters": [ "Prologue", 20, 40 ] },
+                { "book": 8, "chapters": [ 11 ] }
+            ]
+        }, {
+            "pov": "[[Shaidar Haran]]",
+            "chapters": [
+                { "book": 7, "chapters": [ 40 ] }
+            ]
+        }, {
+            "pov": "[[Shalon|Shalon din Togara Morning Tide]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 23, 24 ] }
+            ]
+        }, {
+            "pov": "[[Shendla]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 38 ] }
+            ]
+        }, {
+            "pov": "[[Sheriam Bayanar]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 15 ] },
+                { "book": 8, "chapters": [ 16 ] },
+                { "book": 12, "chapters": [ 25 ] }
+            ]
+        }, {
+            "pov": "[[Silviana Brehon]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Siuan Sanche]]",
+            "chapters": [
+                { "book": 0, "chapters": [ 12 ] },
+                { "book": 3, "chapters": [ 12 ] },
+                { "book": 4, "chapters": [ 47 ] },
+                { "book": 5, "chapters": [ 11, 27 ] },
+                { "book": 6, "chapters": [ 30, 37 ] },
+                { "book": 11, "chapters": [ 1 ] },
+                { "book": 12, "chapters": [ 8, 18, 40, 41, 43 ] },
+                { "book": 13, "chapters": [ 3, 33 ] },
+                { "book": 14, "chapters": [ 21, 25 ] }
+            ]
+        }, {
+            "pov": "[[Slayer]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 22 ] },
+                { "book": 14, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Sorilea]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 51 ] }
+            ]
+        }, {
+            "pov": "[[Sulin]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 18 ] }
+            ]
+        }, {
+            "pov": "[[Suroth Sabelle Meldarath]]",
+            "chapters": [
+                { "book": 4, "chapters": [ 1 ] },
+                { "book": 11, "chapters": [ "Prologue", "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Talmanes Delovinde]]",
+            "chapters": [
+                { "book": 14, "chapters": [ "Prologue", 37, 41 ] }
+            ]
+        }, {
+            "pov": "[[Tam al'Thor]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37, "Epilogue" ] }
+            ]
+        }, {
+            "pov": "[[Tarna Feir]]",
+            "chapters": [
+                { "book": 11, "chapters": [ 25 ] }
+            ]
+        }, {
+            "pov": "[[Thomdril Merrilin]]",
+            "chapters": [
+                { "book": 2, "chapters": [ 26, 34 ] },
+                { "book": 4, "chapters": [ 4, 17 ] },
+                { "book": 14, "chapters": [ 44, 48 ] }
+            ]
+        }, {
+            "pov": "[[Timna]]",
+            "chapters": [
+                { "book": 9, "chapters": [ 35 ] }
+            ]
+        }, {
+            "pov": "[[Toveine Gazal]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 26 ] },
+                { "book": 9, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Tuon Athaem Kore Paendrag]]/Fortuona",
+            "chapters": [
+                { "book": 9, "chapters": [ 14 ] },
+                { "book": 11, "chapters": [ 26, 36 ] },
+                { "book": 12, "chapters": [ 19, 35, 36 ] },
+                { "book": 13, "chapters": [ 47 ] },
+                { "book": 14, "chapters": [ 24, 37 ] }
+            ]
+        }, {
+            "pov": "[[Tylee Khirgan]]",
+            "chapters": [
+                { "book": 12, "chapters": [ "Prologue" ] }
+            ]
+        }, {
+            "pov": "[[Uno Nomesta]]",
+            "chapters": [
+                { "book": 14, "chapters": [ 37 ] }
+            ]
+        }, {
+            "pov": "[[Varek]]",
+            "chapters": [
+                { "book": 8, "chapters": [ 24 ] }
+            ]
+        }, {
+            "pov": "[[Verin Mathwin]]",
+            "chapters": [
+                { "book": 3, "chapters": [ 21 ] },
+                { "book": 6, "chapters": [ 11 ] },
+                { "book": 8, "chapters": [ "Prologue" ] },
+                { "book": 9, "chapters": [ 25, 35 ] }
+            ]
+        }, {
+            "pov": "[[Vilnar Barada]]",
+            "chapters": [
+                { "book": 6, "chapters": [ 45 ] }
+            ]
+        }, {
+            "pov": "[[Weilin Aldragoran]]",
+            "chapters": [
+                { "book": 11, "chapters": [ 20 ] }
+            ]
+        }, {
+            "pov": "[[Yukiri Haruna]]",
+            "chapters": [
+                { "book": 10, "chapters": [ "Prologue" ] }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=mathena
+| status=Dead
+| nationality=Unknown nationality
+| gender=Female
+| mentioned={{tfoh|47}}
+| lastmentioned={{tfoh|47}}
+}}
+'''Mathena''' was a woman who [[Birgitte Silverbow]] encountered in one of her lifetimes.
+== History ==
+Mathena was a historical figure of some unknown era or Age who had some sort of authority. 
+
+She did not like men, and once had a man executed for accidentally looking at her when she was swimming naked. But when [[Zheres]] stole her first kiss from her, she went crazy for him, and he had to live on a mountain to escape her pursuit.
+
+Birgitte believes that [[Nynaeve al'Meara]] is somewhat like Mathena.{{ref/book|5|47}}
+== Parallels ==
+Mathena's name is etymologically similar to [[wikipedia:Athena|Athena]]. Given Birgitte's own heavy connections to Greek mythology, such as her similarities to Artemis and Aphrodite, it is possible that Birgitte and Mathena lived in an Age that inspired the Greek myths remembered in the [[First Age]].
+{{notes}}
+[[Category:Historical people]]
+[[Category:Parallels]]

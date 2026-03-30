@@ -1,0 +1,29 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Innkeeper
+| gender=Male
+| build=Fat
+| hair=Balding
+| appeared={{Teotw|26}}
+| lastappeared={{teotw|26}}
+| living=teotw
+}}
+Master '''Bartim''' is the innkeeper of the [[Wayfarers' Rest]] in [[Whitebridge]]. 
+
+==Appearance==
+He is fat and losing his hair.
+
+==Activities==
+He is a shrewd innkeeper who has divided his common room into sections to keep feuding ships' crews away from one another, and keeps his ear to the ground for the latest news and gossip.
+
+He briefly encountered [[Rand al'Thor]], [[Mat Cauthon]], and [[Thomdril Merrilin|Thom Merrilin]] stopped at the inn for food after disembarking from the ''[[Spray]]'', giving them the news that the [[false Dragon]] [[Logain Ablar]] had been captured in battle.
+
+He also told them that a new hunt for the [[Horn of Valere]] will be starting in Illian. {{ref/book|1|26}}
+
+[[es:Bartim]]
+
+{{notes}}
+[[Category:Short pages]]

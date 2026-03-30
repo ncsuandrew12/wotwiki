@@ -1,0 +1,256 @@
+{{#invoke:Books|chapter_nav|book={{PAGENAME}}}}
+{{dablink|This article is about the sixth book in the series. For the concept of the name, see [[Lord of Chaos (concept)]].}}
+[[image:LOCCover.jpg|left|thumb|200px]]'''''Lord of Chaos''''' (abbreviated '''LoC''') is the sixth book in ''[[The Wheel of Time]]'' series. It was published by Tor Books and was released on October 15, 1994. It is 1007 pages long.
+{| cellspacing="0" cellpadding="5px" style="border:none;"
+|-
+|'''''<<<''' Previous: [[The Fires of Heaven]]''
+| style="text-align:right;" |''Next: [[A Crown of Swords]]''' >>>'''''
+|}
+==Plot Summary==
+[[Rand al'Thor]] rules [[Cairhien]] and [[Andor]] until he is captured by [[Aes Sedai]] loyal to [[Elaida]], then freed by [[Aiel]], [[Asha'man]], and others led by [[Perrin Aybara]]. The rebel [[Aes Sedai]] of [[Salidar]] appoint [[Egwene al'Vere]] as their new [[Amyrlin]], and she has their forces set off for [[Tar Valon]]. Egwene raises [[Nynaeve al'Meara]] and [[Elayne Trakand]] to Aes Sedai and sends them to [[Ebou Dar]] to hunt for the [[Bowl of the Winds]].
+==Plot Developments==
+
+=== Rand ===
+[[Rand al'Thor]] is ruling in both [[Caemlyn]] and [[Cairhien]], [[Traveling]] back and forth between them. [[Mazrim Taim]] arrives, and Rand sets him in charge of his school for men who can channel, whom he names [[Asha'man]]; he has [[Davram Bashere]] organize the volunteers who cannot channel into an army. 
+
+Rand is approached in Caemlyn by Aes Sedai emissaries from [[Salidar]], accompanied by [[Min]], and in [[Cairhien]] by emissaries from [[Elaida do Avriny a'Roihan|Elaida]] with an escort for honor headed by [[Gawyn Trakand]] and his [[Younglings]]. There are also [[Sea Folk]] ambassadors in both places. [[Alanna]] and [[Verin]] join the Caemlyn group with girls from the [[Two Rivers]] and Rand manages to alienate many who knew him as children. While visiting them, he is [[Bonding|bonded]] without consent by Alanna, who finds she cannot use the bond to compel him. 
+
+[[Egwene]] discovers her love toward [[Gawyn]] while spying in one of his dreams and later by encountering him in the city and secretly meeting in an inn. Gawyn believes that [[Rand al'Thor]] killed his mother and sows a special hatred toward Rand, but by loving [[Egwene]] he promises her that he won't hurt Rand. 
+
+The Aes Sedai in [[Cairhien]] offer Rand chests full of gold and jewels thinking they can buy him. Egwene is summoned by the Salidar Aes Sedai, and Rand sends Mat and the [[Band of the Red Hand|Band]], with Aviendha, to fetch Elayne and return her to [[Caemlyn]] so she could be crowned as well as look after Egwene. Perrin and Loial arrive. Although he distances himself from [[Aviendha]], he keeps [[Min]] close, not seeing her love for him.  
+
+After one of the Caemlyn group of Aes Sedai is supposedly attacked by a group of Aiel (though with dark eyes), they blame Rand and become hostile. Just then, two more Sisters arrive at Caemlyn, turning the number of the sisters to thirteen. 
+
+Terrorized and untrustful, Rand leaves for Cairhien with Min, Perrin and Loial. Shortly afterward, he and Min are captured by the Aes Sedai in Cairhien. They hide him in a chest. After he tries to escape and kills two [[Warder]]s, they keep him there at all times, taking him out regularly to beat him. He develops claustrophobia, interacts more and more with [[Lews Therin]], and becomes more firm in his emotional detachment and mistrust of Aes Sedai. Lews Therin helps him break the weavings of the Aes Sedai and the chest. When he breaks free, he inadvertently [[Stilling|stills]] several of the Aes Sedai holding him captive. He later makes a number swear allegiance to him.
+
+=== Mat ===
+[[Mat Cauthon]] leads his personal army and many of Rand's forces downriver to [[Tear]]. He takes pity on an orphan boy named [[Olver]], who accompanies them afterward. When Rand finds out that Egwene went to Salidar he sends Mat and the Band after her, into [[Altara]], with [[Aviendha]]. He gives Mat orders to bring back Elayne to take both the [[Lion Throne]] and the [[Sun Throne]], and to bring Egwene and Nynaeve, should they need it, and otherwise to protect them. Upon arriving and finding Egwene is Amyrlin, Mat has little to do. He sees that the other Aes Sedai aren't treating her with the proper respect, and makes a show of courtesing, for which Egwene is really glad. When Nynaeve and Elayne leave for Ebou Dar, Mat accompanies them, leaving most of the Band behind. Elayne insists on "testing" his ''[[ter'angreal]]'' without his permission, so when they arrive he stays with his soldiers in an inn (which was confirmed important by dice rolling in his head).
+
+=== Perrin ===
+[[Perrin Aybara]], now Lord of the Two Rivers, leaves with a force of men because he believes Rand needs him. They arrive in Caemlyn and he and Rand catch up; shortly afterward, Rand leaves for Cairhien and takes Perrin with him. [[Faile]]'s jealousy of [[Berelain]] is reawakened when they meet her in Cairhien. After Rand disappears, Perrin is instrumental in realizing what happened, and leads a force of Aiel, [[Mayene]]rs, Cairhienin, and Aes Sedai to free him. Perrin finds himself sickened by the carnage of the ensuing battle.
+
+=== Egwene ===
+[[Egwene al'Vere]], an honorary [[Wise One]] apprentice, and recovering from [[Lanfear]]'s attack, is summoned by the [[Hall of the Tower]] to become the [[Amyrlin Seat]] of the rebel Aes Sedai, and starts the long march to [[Tar Valon]]. She took the control over [[Moghedien]]'s [[a'dam]]. She also arranges the [[Logain]]'s escape to allow him to join Rand. [[Aran'gar]], disguised as Halima helps Moghedien to escape, making thus Egwene to worry that it was Logain.
+
+==Ebook format==
+[[File:LOC Ebook cover.jpg|thumb|left|150px|Main ebook cover]]
+[[File:LOC Ebook panoramic.png|thumb|right|300px|Panoramic version]]
+The ''Lord of Chaos'' ebook cover was created by Greg Manchess. It portrays the [[Battle of Dumai's Wells]], including [[Asha'man]] and [[Aiel]]. The panoramic version also includes [[Loial]] (in the green coat), [[Perrin Aybara]], and two wolves.
+==Statistical Analysis==
+:''See also the [[Lord of Chaos/Statistical analysis|full statistical analysis for this book]].''
+''Lord of Chaos'' contains a prologue, 55 chapters, and an epilogue. There are 47 different POVs listed in this book.
+{| class="wikitable" cellpadding="4"
+!POV
+! %
+!Chapters
+|-
+|[[Rand al'Thor]]
+| align="right" |28.375%
+|Ch1 through 4, Ch10, 45% of Ch11, Ch16, 17, 55% of Ch18'''<sup>1</sup>''', 87% of Ch19, Ch20, 21, 26, 84% of Ch28, 4% of Ch32, 78% of Ch41, Ch42, 20% of Ch46, 61% of Ch49'''<sup>1</sup>''', 65% of Ch50'''<sup>1</sup>''', 73% of Ch51'''<sup>1</sup>''', 22% of Ch53, and 67% of Ch55'''<sup>1</sup>'''
+|-
+|[[Egwene al'Vere]]
+| align="right" |16.088%
+|55% of Ch14, 15% of Ch15, 43% of Ch18, Ch24, 83% of Ch25, 91% of Ch27, 96% of Ch32, 43% of Ch33'''<sup>2</sup>''', Ch34 through 36, 69% of Ch37'''<sup>2</sup>''', Ch39, 5% of Ch44, 40% of Ch52, and 11% of the Epilogue
+|-
+|[[Nynaeve al'Meara]]
+| align="right" |12.237%
+|17% of the Prologue, Ch8, 99.9% of Ch12, Ch13, 45% of Ch14, Ch29, 40% of Ch30, 4% of Ch37, and Ch48
+|-
+|[[Matrim Cauthon]]
+| align="right" |10.792%
+|Ch5, 22, 57% of Ch33, Ch38, 45% of Ch40, 95% of Ch44, Ch47, and 23% of Ch52
+|-
+|[[Elayne Trakand]]
+| align="right" |7.068%
+|13% of the Prologue, 99% of Ch7, 51% of Ch15, 29% of Ch30, 8% of Ch37, 55% of Ch40, and 29% of Ch52
+|-
+|[[Perrin Aybara]]
+| align="right" |6.917%
+|84% of Ch45, 54% of Ch46'''<sup>3</sup>''', 35% of Ch50, 9% of Ch51, 58% of Ch53, Ch54, and 23% of Ch55
+|-
+|[[Morgase Trakand]]
+| align="right" |2.427%
+|14.5% of the Prologue, 33% of Ch9, and 48% of Ch31
+|-
+|[[Pedron Niall]]
+| align="right" |1.866%
+|4.3% of the Prologue, 67% of Ch9, and 16% of Ch31
+|-
+|[[Faile Bashere]]
+| align="right" |1.524%
+|20% of the Prologue
+|-
+|[[Sammael]]
+| align="right" |1.328%
+|56% of Ch6, and 7% of Ch23
+|-
+|[[Merana Ambrey]]
+| align="right" |1.246%
+|90% of Ch43, and 22% of Ch49
+|-
+|[[Gawyn Trakand]]
+| align="right" |0.876%
+|9% of the Prologue, and 10% of Ch55
+|-
+|[[Min Farshaw]]
+| align="right" |0.857%
+|22% of Ch41, and 17% of Ch49
+|-
+|[[Verin Mathwin]]
+| align="right" |0.809%
+| 55% of Ch11
+|-
+|[[Semirhage]]
+| align="right" |0.782%
+|33% of Ch6
+|-
+|[[Graendal]]
+| align="right" |0.708%
+|11% of Ch6, and 93% of Ch23
+|-
+|[[Demira Eriff]]
+| align="right" |0.561%
+|26% of Ch46'''<sup>3</sup>'''
+|-
+|[[Demandred]]
+| align="right" |0.517%
+| 6.2% of the Prologue, 1% of Ch7, and 3% of the Epilogue
+|-
+|[[Mesaana]]
+| align="right" |0.483%
+|6.3% of the Prologue
+|-
+|[[Delana Mosalaine]]
+| align="right" |0.433%
+|16% of Ch30, and 6% of Ch37
+|-
+|[[Eamon Valda]]
+| align="right" |0.420%
+|30% of Ch31
+|-
+|[[Siuan Sanche]]
+| align="right" |0.415%
+| 15% of Ch30, and 6% of Ch37
+|-
+|[[Osan'gar]]
+| align="right" |0.322%
+|4.2% of the Prologue
+|-
+|[[Galina Casban]]
+| align="right" |0.312%
+|16% of Ch53'''<sup>4</sup>'''
+|-
+|[[Padan Fain]]
+| align="right" |0.310%
+|16% of Ch28
+|-
+|[[Sarene Nemdahl]]
+| align="right" |0.282%
+|15% of Ch25
+|-
+|[[Katerine Alruddin]]
+| align="right" | 0.273%
+|3.3% of the Prologue, and 1% of Ch25
+|-
+|[[Sevanna]]
+| align="right" |0.243%
+| 2.1% of the Prologue, and 4% of Ch53
+|-
+|[[Nesune Bihara]]
+| align="right" |0.224%
+|1% of Ch 25, and 9% of Ch27
+|-
+|[[Vilnar Barada]]
+| align="right" |0.222%
+|16% of Ch45
+|-
+|[[Aviendha]]
+| align="right" |0.166%
+|13% of Ch19
+|-
+|[[Myrelle Berengari]]
+| align="right" |0.149%
+|8% of Ch52
+|-
+|[[Moghedien]]
+| align="right" |0.148%
+|41% of the Epilogue
+|-
+|[[Rhadam Asunawa]]
+| align="right" |0.089%
+|6% of Ch31
+|-
+|[[Falion Bhoda]]
+| align="right" |0.079%
+|22% of the Epilogue
+|-
+|[[Bain]]
+| align="right" |0.071%
+|10% of Ch51
+|-
+|[[Sorilea]]
+| align="right" |0.052%
+|8% of Ch51
+|-
+|[[Romanda Cassin]]
+| align="right" |0.051%
+|4% of Ch37
+|-
+|[[Lelaine Akashi]]
+| align="right" |0.040%
+| 3% of Ch37
+|-
+|[[Sulin]]
+| align="right" |0.038%
+|2% of Ch18
+|-
+| Narrator
+| align="right" |0.033%
+|0.1% of Ch12, and 9% of the Epilogue
+|-
+|[[Sheriam Bayanar]]
+| align="right" |0.033%
+|2% of Ch15
+|-
+|[[Seanchan]] Rider'''<sup>5</sup>'''
+| align="right" |0.033%
+|9% of the Epilogue
+|-
+|Quote
+| align="right" | 0.028%
+|0.1% of the Prologue, and 5% of the Epilogue
+|-
+|[[Luan Norwelyn]]
+| align="right" |0.028%
+|4% of Ch43
+|-
+|[[Dyelin Taravin]]
+| align="right" |0.026%
+|3% of Ch43
+|-
+|[[Ellorien Traemane]]
+| align="right" |0.021%
+|3% of Ch43
+|-
+| colspan="3" |&nbsp;
+|-
+| colspan="3" |General Notes: Due to the fact that the Prologue of this book is over 30,000 words, percentages taken from the Prologue will be expressed with decimal points. Due to the fact that the Narrator's POV in Chapter 12 is about ten words long, percentages taken from that chapter will also be expressed with decimal points. Because of the size of the book and the number of POV's in the book, the second column will be expressed with three digits after the decimal point instead of the regular two digits.
+|-
+| colspan="3" |'''<sup>1</sup>''' Rand al'Thor has two POV's in Chapters 18, 49, 50, 51, and 55. For Chapter 18, his first is 51% of the chapter and his second is 4% of the chapter. For Chapter 49, his first is 42% of the chapter and his second is 19% of the chapter. In Chapter 50, his first is 61% of the chapter and his second is 4% of the chapter. In Chapter 51, his first is 53% of the chapter and his second is 20% of the chapter. In Chapter 55, his first is 7% of the chapter and his second is 60% of the chapter. Chapters 18, 49, and 55 have four POV's each, Chapter 50 has three POV's, and Chapter 51 has five POV's.
+|-
+| colspan="3" |'''<sup>2</sup>''' Egwene al'Vere has two POV's in Chapters 33 and 37. For Chapter 33, her first is 15% of the chapter and her second is 27% of the chapter. For Chapter 37, her first is 67% of the chapter and her second is 2% of the chapter. Chapter 33 has three POV's and Chapter 37 has eight POV's.
+|-
+| colspan="3" |'''<sup>3</sup>''' Chapter 46 has five POV's, two of which are in Perrin Aybara's POV and two of which are in Demira Eriff's POV. For Perrin, his first is 39% of the chapter and his second is 15% of the chapter. For Demira, her first is 11% of the chapter and her second is 15% of the chapter.
+|-
+| colspan="3" |'''<sup>4</sup>''' Chapter 53 has five POV's, two of which are from Galina Casban's POV. Her first is 12% of the chapter and his second is 4% of the chapter.
+|-
+| colspan="3" |'''<sup>5</sup>''' This character is not named although from his words, it is known that he is Seanchan, and has had a conversation with Mat Cauthon previously in the series.
+|}
+
+{{wikipedia|Lord of Chaos}}
+----
+{{books}}
+{{Loc-reread}}
+{{DISPLAYTITLE:''Lord of Chaos''}}
+[[Category:Main Series| 6]]
+[[Category:Books]]

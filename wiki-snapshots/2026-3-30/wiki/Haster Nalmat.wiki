@@ -1,0 +1,16 @@
+{{ character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Saldaea
+| gender=Male
+| appeared={{tgs|32}}
+| lastappeared={{tgs|32}}
+| living=tgs
+| occupation=Soldier
+}}'''Haster Nalmat''' is an officer in [[Davram Bashere]]'s army.
+
+== Activities ==
+He helps maintain guard duty in [[Bandar Eban]].
+
+{{DEFAULTSORT:Nalmat, Haster}}

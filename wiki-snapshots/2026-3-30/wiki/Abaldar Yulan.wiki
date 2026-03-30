@@ -1,0 +1,35 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| height=Very small 
+| hair=Bald
+| rank=Lieutenant-General
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{tpod|24}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Abaldar Yulan''' is a Lieutenant-General in the [[Seanchan]] army, and [[Captain of the Air]] commanding the [[raken]] and [[to'raken]] of The Return. 
+
+
+== Appearance ==
+He is bald and wears a black wig. He is very small and dark. He has his little fingers lacquered in green, to show that he is of the Low [[Blood]]{{Ref/book|8|24}}.
+
+== Activities ==
+He rides under [[Kennar Miraj]] in the attack against [[Rand al'Thor]]'s forces outside [[Ebou Dar]]. Miraj is killed in the attack and Yulan takes control of the force and orders the retreat{{Ref/book|8|24}}.
+
+Later while in Ebou Dar, he is commanded by [[Suroth Sabelle Meldarath]] to gather just about all ''[[raken]]'' and take them to [[Tarabon]]{{Ref/book|11|p}}. There he is to find [[Rodel Ituralde]] and his men, which have been causing uprisings all through Tarabon.
+
+He is present when [[Tuon Athaem Kore Paendrag]] arrives back in the [[Tarasin Palace]] and orders Suroth to become ''[[da'covale]]''{{Ref/book|11|e}}.
+
+He formulates a plan to send all the Seanchan ''raken'' and ''[[to'raken]]'' to the [[White Tower]] to raid and capture as many [[Aes Sedai]] as they can so they can learn the ability to [[Travel]]{{Ref/book|12|19}}. Tuon agrees to his plan and gives him the go-ahead. He leads the raid personally{{Ref/book|12|36}}.
+
+Yulan reports to Fortuona that the White Tower have suffered a massive loss to the [[Shara]]n forces. Fortuona promotes [[Matrim Cauthon]] to [[Rodholder]]. Mat then starts organizing the Seanchan army to get ready to march for war. During the Last Battle when the Seanchan try to decide if they should return to the battle, Galgan speaks in Mat's favor, but Yulan insists that they have to return to Ebou Dar{{Ref/book|14|37}}. [[Min]] sees a vision of a chain above Yulan's head and realizes he is somehow a captive. Min accuses him of working against the empire, but reveals he is under Compulsion, revealing also the presence of [[Moghedien]] among them{{Ref/book|14|37}}.
+
+{{notes}}
+{{DEFAULTSORT:Yulan, Abaldar}}
+[[Category:Ever Victorious Army]]
+[[Category:Morat'rakens]]
+[[Category:POV character]]

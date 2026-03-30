@@ -1,0 +1,20 @@
+{{VG}}
+A '''Fireball ''ter'angreal''''' is a ''[[ter'angreal]]'' enhancing the abilities of a channeler's offensive attacks that use weaves of [[Five Powers|Fire]]. It is only known to have survived the [[Breaking of the World]] in the [[Mirror World]] inhabited by [[Elayna]] Sedai.
+
+== Appearance ==
+The Fireball ''ter'angreal'' appears as a golden-colored disc, and is patterned with a red spiral.
+
+==Use==
+The Fireball ''ter'angreal'' is somewhat like an ''[[angreal]]'', but has a specific purpose of enhancing offensive weaves of Fire in particular. This is useful for channelers relatively weak in the [[One Power]], or Fire in particular, who can thus use the ''ter'angreal'' to enhance their weaves of Fire in combat.<ref name="VideoGame">''[[The Wheel of Time (video game)|The Wheel of Time]]''. Red Eagle Games, 1999.</ref>
+
+==History==
+In a Mirror World, a [[novice]] named Elayna took her [[Accepted]] test, and found a Fireball ''ter'angreal'' while in the second ring of the [[silver arches]], during her time trapped in a basement of a powerful [[Darkfriend]]. She found this necessary to use in order to destroy several blockades in her escape from the fabricated situation.
+
+Elayna specialized in the use of ''ter'angreal'' as an [[Aes Sedai]], given her relative weakness in the One Power. She found other Fireball ''ter'angreal'' at a gathering of ''[[Tuatha'an]]'' caravans outside [[Shadar Logoth]], where all its inhabitants had been slain by [[Shadowspawn]].<ref name="VideoGame"/>
+
+{{notes}}
+
+{{DISPLAYTITLE:Fireball ''ter'angreal''}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items original to the video game]]

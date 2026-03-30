@@ -1,0 +1,43 @@
+{{ character
+| image=Wot uno by reddera-d53echd.jpg
+| imagesize=250px
+| name=Uno Nomesta
+| status=Alive
+| nationality=Shienaran
+| rank=Captain
+| affiliation=The Dragon Reborn
+| gender=Male
+| build=Average
+| height=Slightly above average
+| hair=Long black topknot
+| eyes=Single dark eye
+| occupation=soldier
+| appeared={{tgh|9}}
+| mentioned={{tgh|3}}
+| lastappeared={{amol|37}}
+| living=amol
+}}'''Uno Nomesta''' is a [[Shienar]]an soldier.{{ref|{{twotc}}, Uno Nomesta}}
+
+==Appearance==
+Uno is a grizzled old veteran with numerous injuries, including a missing eye. He also is constantly cursing and finds it extremely difficult to not do it for even a few sentences, though he often tries to control himself in front of Elayne and Nynaeve. He has begun wearing an eye patch with a painted fiery red eye over the top of it, to cover his left eye socket.
+
+His head was shaven except for a topknot. He had slightly bowed legs and a long scar down the left side of his face. After Samara, he gained a matching scar on the right side of his cheek. He was hard-featured, even for a Shienaran. He would stare anyone in the eye.
+
+He was a born sergeant-major. He did not think the [[Tinkers]] were cowards, but he did think that most women were unreasonable and stubborn.
+
+==Activities==
+He is one of twenty Shienaran soldiers picked to search for the [[Horn of Valere]].{{ref/book|2|9}} He is present when [[Rand al'Thor]] proclaims himself [[Dragon]] over [[Falme]]. He breaks his oath to Shienar and pledges himself to the Dragon Reborn.{{ref/book|2|49}} He now has the deepest respect for Rand and doesn't even curse in front of him. He is sent to [[Ghealdan]] by [[Moiraine]] along with the other Shienarans when Rand makes his way to [[Tear]], as many of the Shienarans were injured and Moiraine felt a large party would be too conspicuous.{{ref/book|3|6}}
+[[File:uno.jpg|thumb|308x308px|Uno Nomesta - Shienaran warrior]]
+[[Moiraine Damodred]] sends them to Jehannah but after no further instructions come, [[Masema Dagar|Masema]] begins preaching of the Dragons' rebirth. Uno and most of the other Shienarans followed his lead, but decided to abandon him in [[Samara]] after meeting [[Nynaeve al'Meara]] and [[Elayne Trakand]] in the town. He takes Nynaeve to Masema, who now calls himself The Prophet. He escorts the girls out of Samara when the Prophet's men begin a riot with the [[Children of the Light]].
+
+Uno and his companions accompanied them to [[Salidar]] and there agreed to join and help train the army [[Gareth Bryne]] was assembling for the [[rebel Aes Sedai]] there. Bryne made him an officer; Uno and the other Shienarans agreed to this mostly out of gratitude to Nynaeve and Elayne, especially Nynaeve, who had Healed him in Samara. He was later placed in command of a detachment of heavy cavalry and accompanied [[Egwene al'Vere]] to her meeting with several [[Andoran]] lords on the border between [[Andor]] and [[Murandy]]. He remained skeptical of the Rebel Aes Sedai's chances, as he felt the White Tower was more powerful. However, he did not intend to run out on them either.
+
+Uno acts as a messenger from the [[Kandor]]i front and tells Elayne the Aes Sedai army has set up their positions. He was promoted to Captain during the [[Last Battle]] after Bryne was found to be under Compulsion. Though wounded in the arm by Trollocs, he was healed and survived the conflict.
+
+== In the television series ==
+In the television series, {{TVlink|Uno Nomesta}} is played by {{TVlink|Guy Roberts}}.
+
+{{notes}}
+
+{{DEFAULTSORT:Nomesta, Uno}}
+[[Category:POV character]]

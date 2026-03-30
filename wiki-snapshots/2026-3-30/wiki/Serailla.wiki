@@ -1,0 +1,26 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| affiliation=Kandor
+| nationality=Kandori
+| title=First Councilor
+| rank=Lady
+| gender=Female
+| eyes=Dark
+| status=Alive
+| appeared={{tpod|p}}
+| lastappeared={{amol|28}}
+| living=amol
+}}
+Lady '''Serailla''' is Queen [[Ethenielle Kirukon Materasu]] of [[Kandor]]'s First Councilor. 
+
+== Appearance ==
+She is round with a placid face and has dark eyes.
+
+She could have been a farm-wife suddenly stuck into a noblewoman’s riding dress, but the mind behind those plain, sweaty features was as sharp as any [[Aes Sedai]]’s. 
+
+Stout yet as graceful in her saddle as she is at dancing, Serailla is always smooth. Not oily, or false; just completely unflappable. 
+
+== Activities ==
+She accompanies Ethenielle to the meeting with the other Borderland Rulers.
+[[Category:Ladies]]

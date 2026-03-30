@@ -1,0 +1,9 @@
+{{swordform
+| mentioned={{0|16}}
+| used=[[Lan Mandragoran]]
+}}
+'''Soft Rain at Sunset''' is a [[sword form]]. Other than the name, nothing is known about it. [[Lan Mandragoran]] once used this form to slice open an assassin's face and left eye.{{ref/book|0|16}}
+[[File:Soft Rain at Sunset.jpg|300px|thumb|left|Lan performing '''Soft Rain at Sunset'''.]]
+
+{{notes}}
+{{short}}

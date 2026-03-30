@@ -1,0 +1,31 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Unknown nationality
+| rank=Asha'man
+| occupation=Asha'man
+| affiliation=The Shadow
+| gender=Male
+| build=Bulky
+| hair=Black, oily and long
+| appeared={{tom|46}}
+| lastappeared={{amol|4}}
+| lastmentioned={{amol|8}}
+}}'''Coteren''' was an [[Asha'man]] in the [[Black Tower]].{{ref|{{twotc}}, Coteren|Coteren}}
+
+== Appearance ==
+He was bulky, with black oily hair kept long and lose. He had a blunt face with pudgy cheeks.
+
+== Activities ==
+Coteren was a full Asha'man in the [[Mazrim Taim]]'s faction. He and some of Taim's men were leveling hillside with the [[One Power]] beside a group of [[Logain Ablar]]'s men. Coteren caught [[Androl Genhald]] using a bow and then embarrassed him in front of everyone by showing how weak Androl is in the One Power{{ref/book|13|46}}. Logain's group became furious and everyone fills with ''[[saidin]]'', just about leading to open battle between the two groups before Androl managed to calm them all down by making light of the situation{{ref/book|13|46}}. He also called Androl "pageboy". {{ref||Coteren}}
+
+After [[Welyn Kajima|Welyn]] was turned to the Shadow, Coteren told [[Androl Genhald|Androl]] that he had been demoted again to [[Soldier (Asha'man)|Soldier]] rank and so he removed abruptly the sword pin from the left side of his collar{{ref/book|14|3}}. This causes Androl to seize the Source, which Coteren then does as well, looking for an excuse to cause a confrontation. Androl manages to calm down and leaves.
+
+== Death ==
+He was killed shortly after by [[Jonneth]], who fired an arrow through his chest, when Coteren was warding the basement where [[Logain]] was kept prisoner{{ref/book|14|4}}.
+
+{{notes}}
+[[Category:Taim's cronies]]
+[[Category:Channelers]]

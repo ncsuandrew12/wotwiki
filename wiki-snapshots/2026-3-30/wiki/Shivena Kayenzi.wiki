@@ -1,0 +1,23 @@
+{{character 
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Saldaean
+| rank=
+| occupation=Philosopher
+| title=
+| affiliation=
+| gender=Female
+| mentioned={{ns|8}}
+| lastmentioned={{ns|8}}
+}}
+'''Shivena Kayenzi''' was a [[Saldaea]]n philosopher.
+
+== History ==
+She was influenced by [[Willim of Maneches]]. She claimed that reality was an illusion.
+
+== Activities ==
+[[Meilyn Arganya]] questions [[Moiraine Damodred]] on the influence of Shivena's ideas as part of her classes as [[Accepted]] in the [[White Tower]].{{ref/book|0|8}}
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Kayenzi, Shivena}}

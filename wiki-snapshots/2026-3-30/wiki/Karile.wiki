@@ -1,0 +1,26 @@
+{{ character
+| image=Karile.jpg
+| imagesize=250px
+| nationality=Unknown nationality
+| title=Gaidin
+| hair=Golden, Bearded
+| gender=Male
+| build=Very large
+| status=Dead
+| death={{ne|979}}
+| occupation=Warder
+| appeared={{ns|7}}
+| lastappeared={{ns|7}}
+}}
+'''Karile''' (pronounced: kah-REEL) was [[Warder]] to [[Kerene Nagashi]]. 
+
+==Appearance==
+Karile had golden hair and a beard and was a giant of a man.
+
+== Activities ==
+He left the [[White Tower]] with Kerene when [[Tamra Ospenya]] sent her to find the newly born [[Dragon]]. It is assumed he died with Kerene when she was murdered by the [[Black Ajah]].
+
+== In the television series ==
+Karile does not appear in the television series. {{TVlink|Stepin}} was {{TVlink|Kerene Nagashi|Kerene}}'s only Warder.
+
+{{notes}}

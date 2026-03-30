@@ -1,0 +1,57 @@
+{{Featuredicon}}
+{{ character
+| image=Aginor.JPG
+| birth=Age of Legends
+| status=Dead
+| death={{ne|998}}
+| rank=Chosen
+| height=Tall
+| gender=Male
+| mentioned={{teotw|1}}
+| appeared={{teotw|50}}
+| lastappeared={{teotw|52}}
+| lastmentioned={{amol|18}}
+}}'''Aginor''' (AGH-ih-nohr; /ˈɑːgɪ.nɔɹ/), formerly known as '''Ishar Morrad Chuain''', was one of the thirteen [[Forsaken]] who was trapped at [[Shayol Ghul]] due to the [[Dragon]]'s sealing. Aginor's foremost achievement was the creation of the twisted lifeforms known as the [[Shadowspawn]].  
+
+== Appearance ==
+[[Image:Aginor.jpg|left|thumb|150px|Aginor after release, portrait done by Seamas Gallagher]]
+Aginor had a strong face and was as tall as [[Rand al'Thor]].
+
+Aginor was sealed very close to the surface of the [[Bore]] and as a result time altered his features quite significantly. The skin of his face was like crazed parchment drawn tight over a skull, then pulled tighter still. Wispy tufts of brittle hair stood at odd places on his scabrous scalp. His ears were withered bits like scraps of ancient leather; his eyes sunken, peering out of his head as if from the ends of tunnels. {{ref/book|1|50}}
+
+==Strength and abilities==
+Among the Forsaken he was 'second in strength only to [[Ishamael]] and claimed to have matched [[Lews Therin]] in the [[Hall of Servants|Hall of the Servants]]. He appeared to be somewhat subservient to [[Demandred]] and admitted on one occasion to being terrified of Ishamael.
+
+In "The Wheel of Time Companion" his level of strength in the [[One Power]] is described as {{opsl|2}}, making him one of the most powerful channelers ever, but still below [[Rahvin]], [[Moridin]], and [[Rand al'Thor]].
+
+He pursued his research with a complete lack of ethics or empathy, regarding the lives lost in his pursuit of knowledge to be trivial. He was said to have been the sort of person who would have created a plague that could have wiped out humanity just to see if he could do it. Indeed, one of his creations, the [[Jumara (Shadowspawn)|Jumara]], was speculated by [[Demandred]] not to have been made to serve any practical purpose, militarily or otherwise, but was made simply because Aginor wanted to see how horrific a monster he could engineer.
+
+Among the [[Forsaken]], he is not held in very high regard despite his great strength, and appears to be a rather poor combatant. He seems to have virtually no talents or abilities beyond his skill at genetic engineering. In fact, Demandred, who holds him in contempt, once mused to himself that were it not for Aginor's genetic expertise, he would never have been selected to be a member of the Forsaken. Unfortunately for him, the equipment which allowed him to create his constructs no longer exists, so his worth to the Shadow has plummeted in the Third Age. Despite that, he was resurrected by the [[Dark One]] after his first death.
+
+== History ==
+[[File:Forsaken Aginor.jpg|thumb|left|200px|The [[Forsaken]] Aginor]]
+Before turning to the Shadow, Ishar Morrad Chuain was a famous biologist. His complete lack of empathy resulted in him performing a number of unauthorized, unethical experiments. When these experiments were discovered by the [[Hall of Servants]], he was sanctioned and forbidden to conduct any further genetic experimentation. This was unacceptable to him, and desiring more freedom to operate, he pledged himself to the [[Shadow]] during the [[War of Power]]. Sometime during the relatively early stages of the war, he discovered a way to create an animal/human hybrid of limited intelligence that could function as a shock-trooper and which bred at an astounding rate. These creatures became known as [[Trollocs]]{{ref/book|14|18}} and became the backbone of the Shadow's armies during the war. He also created a number of more specialized monsters, including [[Draghkar]], [[Gholam]], and [[Myrddraal]]{{ref/book|14|18}} amongst others. It is believed that somewhere between 35 and 50 million people died in the experiments that resulted in the Shadowspawn, at a rate of almost 10,000 per day. He was never directly involved with any military campaigns, and seemed to have done little during the war beyond his experiments. Despite this, these experiments gave him an extraordinarily high body count, even for one of the Forsaken.
+
+== Activities ==
+[[File:Wot osan gar by reddera-d507pif.jpg|thumb|right|200px|Aginor reincarnated as Osan'gar by Ariel Burgess Official Wheel of Time Artist]]
+Aginor and [[Balthamel]] were sealed near the surface of the [[Bore]], and as such aged immensely by the time of their release. During his sleep of three thousand years, Aginor experienced endless nightmares. He and Balthamel were the first to be released.
+
+After his release, Aginor attempted to control all of the [[One Power]] from the [[Eye of the World]]; but he drained too much of it in a single time, so it was too much for him to control and Aginor was burned to ashes.{{ref/book|1|51}}
+
+== Resurrection ==
+The [[Dark One]] recovered Aginor's soul and gave him a new body and name, '''[[Osan'gar]]'''.{{ref/book|6|p}} He later joined the [[Black Tower]] under the name of '''Corlan Dashiva.'''
+
+He attained the rank of ''[[Asha'man]]'' very quickly and was part of the rescue of Rand at [[Dumai's Wells]]. He was then chosen directly by Rand to be one of the Asha'man who stayed with Rand when the rest returned to the Black Tower.
+
+Dashiva ordered [[Damer Flinn]] to heal Rand when he was brought back to the [[Sun Palace]] in [[Cairhien]] after being stabbed by [[Padan Fain]] with the tainted [[Ruby-hilted dagger|dagger]]. While at the palace, Dashiva was part of the group [[Mazrim Taim|Taim]] ordered to kill Rand but when that failed, he escaped.
+
+He later attempted to prevent Rand and [[Nynaeve al'Meara|Nynaeve]] from cleansing ''[[saidin]]'' and was almost certainly killed by [[Elza Penfell]] with multicolored fire, and never appeared again.{{ref/book|9|35}} Despite not being killed with balefire, he does not appear to have been resurrected again.
+
+{{Notes}}
+[[es:Aginor]]
+[[Category:POV character]]
+[[Category:Antagonists]]
+[[Category:Aes Sedai (Age of Legends)]]
+[[Category:Channelers]]
+[[Category:Reincarnated]]
+[[Category:Unknown nationality]]

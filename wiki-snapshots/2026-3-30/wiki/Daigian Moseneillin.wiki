@@ -1,0 +1,49 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ewot=Daigian
+| ajah=White
+| nationality=Cairhienin
+| rank=Aes Sedai
+| gender=Female
+| affiliation=Unaligned sisters
+| title=Lady
+| status=Dead
+| death={{ne|1000}}
+| hair=Long, Black
+| build=Plump
+| height=Short
+| appeared={{acos|19}}
+| lastappeared={{tgs|22}}
+| lastmentioned={{tgs|23}}
+|birth = {{ne|907}}}}'''Daigian Moseneillin''' was an [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Daigian Moseneillin|comp}}
+
+== Appearance and Personality ==
+She had pale skin with long black hair and was plump and curvaceous. She wore the ''[[kesiera]]'' typical of many [[Cairhienin]] noblewomen. Hers is described as a moonstone dangling by a thin silver chain. She often wore clothes in the Cairhienin fashion. As the younger daughter of a minor Cairhienin house, she was entitled four stripes of color on her bosom. She added slashes of white to the skirts to represent her Ajah.
+
+Daigian was loved and appreciated by the other sisters. [[Cadsuane Melaidhrin]] thinks that she had an excellent mind. She was considered a fine logician, and was extremely persistent and would never quit.
+
+She logically assumed that, being the lowest-ranking Aes Sedai ever, she would have to act as servant when none were around and thus acted quiet and meek among all other sisters. Although she accepted her low rank as an Aes Sedai, she insisted on proper respect from non-Aes Sedai - both channelers and non-channelers. Aside from being stronger than those that would have been rejected by the Tower, other channelers still would be considered relatively untrained. 
+
+== Strength and Abilities ==
+Daigian is described as [[Strength in the One Power among Aes Sedai|exceptionally weak]] for an Aes Sedai, with a strength level of {{opsl|51}}, the "lowest level at which a woman traditionally was accepted for the Tower to become Aes Sedai".{{ref||comp}} We know of no others as weak as her.
+
+==History==
+Born in {{ne|907}}, she was the youngest daughter of a lesser [[Cairhienin]] House, she went to the [[Tower]] in {{ne|921}}. After spending twenty-seven years as [[novice]] and twenty-one years as [[Accepted]] (spending a longer time as novice and Accepted than anyone in living memory), she was raised to the shawl on {{ne|969}} becoming the weakest living [[Aes Sedai]].
+
+==Activities==
+She was one of the Aes Sedai that accompanied Cadsuane into [[Cairhien]]. She acted as Cadsuane's messenger to [[Rand al'Thor]] when he requested a meeting with her, giving him Cadsuane's answer of no. She [[Traveling|Traveled]] with Cadsuane to [[Far Madding]] to track down Rand. She bonded [[Eben Hopwil]] as her [[Warder]]. [[Link]]ed to him, she participated in the [[Battle near Shadar Logoth]] with [[Nesune Bihara]] and [[Beldeine Nyram]]. During the battle they fought [[Aran'gar]]. Eben detected her holding ''[[saidin]]'' and threw himself at Aran'gar, ultimately sacrificing himself.
+
+She accompanied Rand and Cadsuane to [[Algarin Pendaloan]]'s house in [[Tear]], where Rand recovered after cleansing ''saidin''. She wept in private over the loss of Eben. While in [[Arad Doman]], she helped teach Nynaeve the one hundred [[weave]]s required to become an Aes Sedai. She helped maintain [[Semirhage]]'s shield while Semirhage was being interrogated by Cadsuane and [[Sarene Nemdahl]]. Nynaeve wanted to try to [[Heal]] her sorrow, convinced it had to do with the [[Warder bond]] being broken, and therefore with the [[One Power|Power]]. Daigian refused, preferring to cherish his memory with her grief. Nynaeve was frustrated with Daigian because despite acknowledging Nynaeve as an Aes Sedai, her actions showed she still viewed her as something less. Nynaeve was also frustrated with the Aes Sedai system of deference based on strength in the power, and told Daigian that this system was unfair to her, an experienced and knowledgeable Aes Sedai that would be expected to defer to even a newly-minted Aes Sedai with a greater strength.
+
+She was killed during Semirhage's escape, most likely by [[Shaidar Haran]], probably because she had no Warder who would feel what was happening through the bond. She was mourned particularly by Cadsuane and Nynaeve.
+
+{{notes}}
+{{DEFAULTSORT:Moseneillin, Daigian}}
+
+[[es:Daigian Moseneillin]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Nobility]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

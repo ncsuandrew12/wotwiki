@@ -1,0 +1,36 @@
+{{character 
+| image=DFWarder.svg
+| imagesize=125px
+| nationality= Unknown nationality
+| title=Gaidin
+| hair= Pale
+| gender=Male
+| height=Tall
+| build= Lean
+| status=Unknown
+| occupation=Warder
+| affiliation=Darkfriend
+| mentioned={{cot|23}}
+| appeared={{cot|24}}
+| lastappeared={{kod|27}}
+| living=kod
+}}'''Fearil''' is [[Warder]] to [[Elza Penfell]].{{ref/book|twotc|Fearil}} He is also a [[Darkfriend]].{{ref/book|twotc|Fearil}}
+
+== Appearance ==
+He was quite pretty, tall and lean, with pale hair and a harsh voice.{{ref/book|10|24}}
+
+== History ==
+Elza spent twenty years cultivating the rumor that they were married to avoid suspicion regarding their long private meetings.{{ref/book|10|24}}
+
+It seems that Elza used pain weaves to torture Fearil as punishment when he failed to obey her. When Elza acknowledged that Fearil did the correct thing in accompanying the other Warders to [[Rand al'Thor]] and the [[Aes Sedai]] with him, she sensed relief through her bond.{{ref/book|10|24}}
+
+== Activities ==
+When Elza [[Travel|Travelled]] to [[Far Madding]], she left Fearil behind in [[Cairhien]].{{ref/book|9|23}} [[Bartol]], [[Rashan]], [[Vitalien]], and Fearil used their Warder bonds to guide [[Logain Ablar]] and [[Davram Bashere]] to [[Rand al'Thor]], Elza, and their other Aes Sedai in eastern [[Tear]].{{ref/book|10|23}}
+
+Elza ordered Fearil to kill anyone who might threaten the [[Dragon Reborn]].{{ref/book|10|24}}
+
+He escorted Elza to Rand's meeting with [[Semirhage]], who was posing as the [[Daughter of the Nine Moons]].{{ref/book|11|27}}
+
+Fearil probably died or killed himself shortly after Elza was balefired by Rand,{{ref/book|12|22}} like almost every Warder whose Aes Sedai is killed.
+
+{{notes}}

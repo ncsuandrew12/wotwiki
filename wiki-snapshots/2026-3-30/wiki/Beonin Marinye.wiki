@@ -1,0 +1,82 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=Beonin
+| ajah=Gray
+| nationality= Taraboner
+| hair=Dark, Honey-colored
+| status=Alive
+| gender=Female
+| eyes=Blue-gray
+| rank=Aes Sedai
+| affiliation=White Tower
+| appeared={{tfoh|27}}
+| lastappeared={{kod|24}}
+| lastmentioned={{tgs|18}}
+| living=kod
+|birth = {{ne|936}}}}'''Beonin Marinye''' is an [[Aes Sedai]] of the [[Gray Ajah]].
+
+== Appearance and Personality==
+Beonin is a pretty [[Taraboner]] with dark honey-colored hair in a multitude of braids and blue-gray eyes so big they made her appear startled. She has a heavy accent.
+
+She was usually quiet and watched everything carefully. Like Morvrin, she required a great deal of proof before believing anything.
+
+==Strength and Abilities==
+Beonin has a strength in the [[One Power]] of {{opsl|22}}, making her [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai. She is equal strongest among those we have information on in the Gray Ajah among the rebel faction. The Sitter [[Kwamesa Taramasu]] is her equal. The only others that are close are [[Merana Ambrey]] and [[Meidani Eschede]] at level {{opsl|23}}, both of whom are conveniently sent on missions away from Salidar. She is the weakest of the [[Salidar Six]], but not by much.
+
+She is strong enough to [[Travel]].{{ref/book|11|2}}
+
+==History==
+Beonin was born in the year {{ne|936}} in Tarabon. Her mother, [[Aeldrine Marinye]], was a wealthy merchant who traded in dyes despite the disapproval of her grandmother. Her grandmother, [[Collaris]], was a noted advocate in [[Tanchico]] and instilled a love of the intricacies of law into the young Beonin.{{ref/book|11|2}}
+
+Against the wishes of her own mother, Beonin went to the to the [[White Tower]] in {{ne|952}}. After spending five years as [[novice]] and five as [[Accepted]], she was raised to the shawl in the year [[962 NE]].
+
+Beonin was an Accepted over forty years ago when [[Turanine Merdagon]] died.{{ref/book|11|2}} She sees her ghost in the [[Ogier]] wood in [[Tar Valon]] the day she returned to the Tower.{{ref/book|11|2}}
+
+Beonin is somewhat of an expert in catching murderers, enough so that [[Phaedrine]] and [[Ashmanaille]] sought her advice in finding whoever may have murdered [[Anaiya]] and [[Kairen Stang]].
+
+She has a single [[Warder]], [[Tervail Dura]].
+
+== Activities ==
+She was one of the original leaders of the [[Salidar Aes Sedai]], known informally to fans as the Salidar Six{{ref/book|5|27}}{{ref/book|5|50}}. Beonin was, however, originally planted as a spy for [[Elaida do Avriny a'Roihan]] within the Salidar Aes Sedai{{ref/book|11|2}}. She acts as a spy partly for personal ambition, and partly because of a strong belief that the Tower must remain whole, and that doing anything to break it was the worst treason. She had no knowledge of previous divisions of the Tower.
+
+Sheriam, [[Myrelle]], [[Carlinya]], [[Anaiya]], [[Morvrin]], and Beonin question [[Elayne Trakand]] and [[Nynaeve al'Meara]] when they arrive in Salidar{{ref/book|5|50}}.
+
+While searching the [[Amyrlin Seat|Amyrlin's]] study in ''[[Tel'aran'rhiod]]'' for information on what Elaida has received, the Salidar Six are attacked by a stray nightmare of [[Trollocs]]. They are saved when Elayne and [[Siuan Sanche]] have to remind them about the dream not being real, in which case the nightmare fades away leaving only injury{{ref/book|6|7}}.
+
+Beonin and other Salidar leaders and [[Sitters]] meet with the Tower envoy, [[Tarna Feir]] {{ref/book|6|12}}.
+
+She brings Siuan and [[Leane Sharif|Leane]] into the [[Little Tower]] to be [[Healing|Healed]] from [[stilling]] by [[Nynaeve al'Meara|Nynaeve]]{{ref/book|6|30}}.
+
+She is with the rest of the Salidar Six in ''Tel'aran'rhiod'' as they summon [[Egwene al'Vere]] to become Amyrlin{{ref/book|6|32}}.
+
+Sheriam, Siuan, Beonin, Anaiya, Carlinya, Morvrin, and Myrelle tell Egwene that they chose her as the next Amyrlin Seat. Beonin is the one that explains the loophole in the Tower law that it is nowhere said that it is necessary to be Aes Sedai to become Amyrlin Seat {{ref/book|6|34}}.
+
+Beonin is one of the Aes Sedai who prepares Egwene for the raising to Amyrlin Seat. Beonin in particular explains to Egwene the consequences of being refused the Amyrlin Seat. She tells Egwene that in the past those sisters were usually exiled, so as to not be a source of disharmony. Sheriam, Morvrin, and Myrelle go with Egwene into the ceremony. Carlinya, Beonin, and Anaiya are told to stay outside. Carlinya and Beonin are not pleased with it {{ref/book|6|35}}.
+
+Sheriam, Carlinya, and Beonin admit to sending sisters back into the White Tower to spread the word about the [[Red Ajah]] plan for [[Logain]]. All of this unknown to the Hall of the Little Tower{{ref/book|7|8}} Beonin was opposed to sending them, but could not stop it.
+
+She swears an oath of fealty to Egwene. Egwene sends her on a secret meeting with the group of nobles that block the Salidar army on the border of [[Andor]]{{ref/book|8|15}}.
+
+She later becomes a member of [[Egwene's Council]]. She is with Egwene and [[Gareth Bryne]] when they survey the area around Tar Valon{{ref/book|10|16}}. Egwene tells Beonin to keep a pretense of negotiation, and to stretch the talks about the White Tower out as long as she can{{ref/book|10|17}}.
+
+Egwene goes to meet with the Hall of the Little Tower, escorted by Anaiya, Myrelle, and Morvrin. Nisao and Carlinya are already waiting outside the meeting pavilion, and Beonin comes running in later{{ref/book|10|19}}.
+
+Initially Beonin obtains the lead in the negotiations with the White Tower, but later [[Varilin]] takes over the talks, pushing Beonin into a lesser role {{ref/book|10|30}}.
+
+After Egwene's capture, Beonin returns to the [[White Tower]], reasoning that Egwene's capture meant she was no longer Amyrlin, freeing her from her Oaths. She reveals the names of the Salidar spies in the White Tower to Elaida, and also teaches her all the new [[saidar|s''aidar'']] weaves that have been discovered{{ref/book|11|2}}.
+
+Her welcome back in the Tower is not as warm as she had hoped, with Beonin preferring to enjoy seeing Elaida fail partly because she felt she had not been given her due. She shares with Elaida knowledge of the ferrets, as well as some other things like Traveling. However, she decides to keep back some things because of her frustration with Elaida. When Egwene realizes that Beonin is a traitor and has betrayed the [[Rebel Spies]], she insists that Beonin warn all of them that Elaida is aware of them{{ref/book|11|24}}. Beonin grimaces while promising to do so, though she had already warned the Grays [[Meidani Eschede|Meidani]] and [[Jennet Cobb|Jennet]].
+
+When the rebels learn that Elaida has [[Traveling]], [[Siuan Sanche|Siuan]] realizes that Beonin must have betrayed them{{ref/book|11|18}}.
+
+{{Notes}}
+{{DEFAULTSORT:Marinye, Beonin}}
+
+[[es:Beonin Marinye]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Eyes-and-ears]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

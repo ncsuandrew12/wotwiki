@@ -1,0 +1,22 @@
+{{character 
+| image=IllianFlag.png
+| imagesize=250px
+| status=Alive
+| title=
+| nationality=Illianer
+| occupation=Hunter of the Horn
+| gender=Female
+| hair=
+| mentioned =''[[The Wheel of Time Roleplaying Game]]''
+}}
+'''Keb Freehan''' is a commoner who pledged herself to become a [[Hunter of the Horn]].
+
+== History ==
+Keb fended for herself since her father passed away when she was thirteen. She was sent to live with an aunt and uncle who ran a small roadside inn. Keb soon learned that she had more in common with the adventurers who frequented the inn than the other serving girls who worked there. For two years, she befriended any of the regulars that would teach her the ways of the world. She set off on her own, making ends meet through odd jobs and a bit of petty thievery.
+
+After becoming a Hunter of the Horn, she broke into Lord [[Oswalt]]'s rooms and made a rough copy of his map of a tower in the [[Hills of Kintara]], hoping that she would find the horn quicker than he did. She made a more generous deal to the people at the inn where Oswalt was recruiting from, hoping that she could win them over to her search for the Horn.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+{{DEFAULTSORT:Freehan, Keb}}
+[[Category:Serving girls]]
+[[Category:Characters only mentioned in the RPG]]

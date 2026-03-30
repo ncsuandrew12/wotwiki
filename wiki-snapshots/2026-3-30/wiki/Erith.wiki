@@ -1,0 +1,34 @@
+{{character
+| image=tree-icon.svg
+| imagesize=125px
+| mentioned={{teotw|42}}
+| appeared={{tgh|35}}
+| lastappeared={{amol|37}}
+| living=amol
+| gender=Female
+| race=Ogier
+| hair=Black
+| status=Alive
+| eyes=The color of a silverbell's ripe seedpod
+| height=Short (for an Ogier)
+}}
+'''Erith daughter of [[Iva]] daughter of [[Alar]]''' is an [[Ogier]] from [[Stedding Tsofu|''Stedding'' Tsofu]].
+
+== Appearance ==
+She is small for an Ogier, standing about 8 feet tall, with a straight mouth and a short and well rounded nose. Her features are more delicate than Loial's. Her eyes are the color of a silverbell's ripe seedpod. She has glossy dark hair down to her back. Her ears are curving and plump tipped with fine tufts.{{ref/book|11|19}} Her voice sounds like the "softer rumble of a smaller bumblebee" in comparison with Loial's deeper voice.{{ref/book|2|35}}
+
+== Activities ==
+=== Meeting Loial ===
+Erith first met [[Rand al'Thor]] and [[Loial]] as they were pursuing [[Padan Fain]] and the [[Horn of Valere]].{{ref/book|2|35}} There was apparently a mutual attraction between Loial and Erith; before Rand's party left the ''[[stedding]]'', Erith gave Loial a flower, which he pressed inside one of his books. Loial confided in his human friends that he thought Erith was "very pretty."
+
+Later on, Loial rambled about Erith's beauty to Perrin to the point that he was worried about being seen as "coarse"{{ref/book|6|54}} and claimed to tell everyone he met about how carefully she listened to his explanation about some subject.{{ref/book|10|24}} Erith praised Loial's bravery{{ref/book|6|20}} and heroism.{{ref/book|11|19}}
+
+=== The chase ===
+Erith later joined Elder [[Haman]] and [[Covril|Loial's mother]] on a journey to find Loial, who, in their opinion, had been away from [[Stedding Shangtai|''Stedding'' Shangtai]] too long; his mother had plans to marry him off to Erith.{{ref/book|6|20}} The three Ogier Traveled with Rand to [[Shadar Logoth]] so Rand could seal the [[Waygate]] there, and then Traveled to the [[Two Rivers]] and [[Emond's Field]], where Rand last knew Loial to be located.{{ref/book|6|21}}
+
+They finally caught up with Loial at Lord [[Algarin|Algarin's]] manor house in [[Tear]],{{ref/book|11|18}} where Erith and Loial were wed by Elder Haman in a brief ceremony.{{ref/book|11|19}} Erith quickly asserted her authority as Loial's wife over his mother to support him in speaking at the [[Great Stump]] in favor of helping the humans at the [[Last Battle]]. Then they set off with Loial's mother for ''Stedding'' Shangtai, where Loial is to address the [[Great Stump]].{{ref/book|11|20}}
+
+=== The Last Battle ===
+After the conclusion of the Great Stump, Erith traveled to the [[Field of Merrilor]] along with the rest of the Ogier.{{ref/book|14|7}} She fought alongside Loial as part of [[Elayne Trakand|Elayne Trakand's]] army in the Last Battle.{{ref/book|14|16}}
+
+{{notes}}

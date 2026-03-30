@@ -1,0 +1,81 @@
+{{summary | book=13 |
+|chapter=34
+|title=Judgment
+|icon=Cotl
+|setting=[[Ghealdan]] along the [[Jehannah Road]]
+}}
+
+==Summary==
+
+:{{pov|[[Perrin Aybara]]}}
+[[Perrin Aybara]] sets off for the trial. He asks [[Sulin]] to make sure all the scouts are out during the trial. Perrin is concerned with the disorder within his army, with all the different factions and plans to disband them after the trial. Perrin assumes that [[Faile Bashere|Faile]] has a plan to get Perrin out of danger if the trial goes wrong. He tells [[Dannil Lewin]] to wait for his signal before carrying out the plan though. Perrin has [[Fager Neald]] and [[Gaul]] setting off in different directions to see if the [[Asha'man]] could [[Traveling|Travel]]. Far enough from the camp they found they could, but they had no explanation why. Perrin suspects it has to do with the purple dome in the wolf dream. Perrin links when Nealds weaves for Traveling first failed to the first time he encountered the purple dome realizing that [[Slayer]] must have been testing it out. He tells his suspicions to Neald and suspects that some sort of trap has been set. Perrin has sent [[Elyas Machera]] on a special scouting mission. Perrin believes that if he fights the [[Children of the Light]], then some sort of force will ambush him while they are weakened. Gaul comments that Perrin is finally changing to become the chief he should be.
+
+:{{pov|[[Faile Aybara]]}}
+The army is getting ready to break camp. As Faile walks through the camp she spots a number of [[Two Rivers]] folks. They now look at her with relief. It seems Faile saving [[Berelain sur Paendrag Paeron|Berelain]]'s life during the [[bubble of evil]], as well as their pretend friendship seems to be putting all the men at ease now. She meets with [[Perrin Aybara]] and notices that no [[Far Dareis Mai]] are present. Faile knows that the [[Aiel]] take their job of protecting Perrin very seriously, their orders having come from their ''[[Car'a'carn]]''. The entire camp is gathering for the trial. Faile notices Perrin is very tense and he tells her that something is wrong, that their armies are being herded like sheep. Perrin then reveals his connection to [[Rand]]. He can feel the pattern pulling him towards Rand and how he can see him whenever he thinks of Rand. Perrin finally realizes that the camp has been trapped in this position on purpose. Elyas is searching for a [[Waygate]] that may be nearby. The army make their way to the trial. [[Gaul]] runs beside Perrin, prideful that Perrin is going to meet his ''[[Ji'e'toh|toh]]''. They arrive at a pavilion set up with [[Morgase Trakand]] seated on an elevated chair. The Whitecloaks are already in attendance. 
+
+:{{pov|[[Perrin Aybara]]}}
+Perrin and his group take their seats in front of Morgase and the trial begins. [[Galadedrid Damodred|Galad]] charges Perrin with the deaths of [[Lathin]] and [[Yamwick]]. [[Jaret Byar]] runs through the events that happened that night{{ref/book|1|30}}. Child [[Oratar]] backs Byar's testimonial. Next is Perrin's turn to speak. Perrin tells everyone that he can speak to wolves. He then tells the court that everyone was afraid that night, that the Whitecloaks attacked his friends the wolves, and that Perrin was driven to fight when the Whitecloaks killed one of the wolves. [[Dain]] stands claiming Perrin is a [[Darkfriend]] and that he killed his father. Perrin tells him of the events that happened in [[Falme]]{{ref/book|2|47}}. Bornhald is troubled when Perrin swears he fought with the Whitecloaks against the [[Seanchan]]. Byar tries to dispute what Perrin has said, claiming he fought with creatures of evil, Perrin replies they were the [[Horn of Valere|Heroes of the Horn]]. Perrin then asks Byar why he told Perrin to escape, and even gave him the means to escape. Byar turns to Morgase claiming this trial is for Perrin and Morgase agrees. Perrin simply states that he didn't murder the two Whitecloaks, he was just defending his friends. Morgase pronounces Perrin guilty due to killing any man in retribution is unlawful. However, she puts this case under the Kainec protocol, due to the Whitecloaks effectively being an unemployed mercenary group. There are no innocents in this case, therefore Perrin is charged with unlawful killing rather than murder. Galad states that the penalty is still death. Morgase disagrees saying the code is more lenient depending on the circumstances. She deflects punishment to Galad, due to him being in-charge of the Whitecloaks. Galad asks Perrin if he will accept judgement. Perrin, after some thought agrees but only on the condition that he meets it after [[Tarmon Gai'don]]. Galad is unsure if he would come back to meet his punishment if he is [[Shadowspawn]]. Perrin argues he came to this trial of his own free will and that if he was Shadowspawn, why would he care about the prisoners Galad had. Galad accepts Perrin's oath to submit to Galad's authority after the Last Battle. Byar is in disbelief and cries out but Galad says he has made his decision. Morgase states she is going back to [[Andor]] with Perrin. As they all leave Perrin tells Galad that his punishment has not been given and Galad confirms this.
+
+==Characters==
+*[[Perrin Aybara]]
+*[[Gaul]]
+*[[Sulin]]
+*[[Dannil Lewin]]
+*[[Azi al'Thone]]
+*[[Wil al'Seen]]
+*[[Gerard Arganda]]
+*[[Bertain Gallenne]]
+*[[Fager Neald]]
+*[[Stepper]]
+*[[Faile Aybara]]
+*[[Aravine Carnel]]
+*[[Aldin]]
+*[[Flann Barstere]]
+*[[Jon Gaelin]]
+*[[Marek Cormer]] Two Rivers soldier
+*[[Berelain Paendrag]]
+*[[Daylight]]
+*[[Chiad]]
+*[[Bain]]
+*[[Morgase Trakand]]
+*[[Galad Damodred]]
+*[[Jur Grady]]
+*[[Rowan Hurn]]
+*[[Alliandre Maritha Kigarin]]
+*[[Oratar]]
+*[[Dain Bornhald]]
+*[[Jaret Byar]]
+
+===Referenced===
+*[[Hopper]]
+*[[Slayer]]
+*[[Elyas Machera]]
+*[[Arrela Shiego]]
+*[[Swallow]]
+*[[Rand al'Thor]]
+*[[Lathin]] Whitecloak
+*[[Yamwick]] Whitecloak
+*[[Egwene al'Vere]]
+*[[Bela]]
+*[[Artur Hawkwing]]
+*[[Dapple]]
+*[[Wind (wolf)]]
+*[[Geofram Bornhald]]
+*[[Ishamael]]
+
+==Places==
+*[[Ghealdan]] along the [[Jehannah Road]]
+
+===Referenced===
+*[[Two Rivers]]
+*[[Cairhien]]
+*[[Andor]]
+*[[Falme]]
+
+==Items==
+
+===Referenced===
+*[[Horn of Valere]]
+
+{{notes}}
+{{DISPLAYTITLE:''Judgment''}}

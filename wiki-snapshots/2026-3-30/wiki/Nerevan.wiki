@@ -1,0 +1,14 @@
+'''Nerevan''' was a kingdom of the [[Third Age#Free Years|Free Years]]. It was founded after the end of the [[Trolloc Wars]], and was established on parts of the former territories of [[Coremanda]] and [[Eharon]]. It was later absorbed by the growing might of [[Artur Hawkwing's Empire]]. The lands it once held are now controlled by [[Murandy]] and [[Andor]].
+
+==Geography==
+[[Image:Nerevan.png|thumb|right|200px|In red location within the Westlands]]
+
+Nerevan stretched from the [[River Cary]] almost to the [[River Storn]]. It was bordered by [[Caembarin]] to the north, [[Esandara]] to the east, [[Shiota]] to the south and [[Aldeshar]] to the west.
+
+==History==
+As with most of the kingdoms of this era, little is known of Nerevan. Around {{fy|500}} it allied with Esandara to attack Shiota, but the reason for this invasion is not known. Nerevan was apparently defeated in a battle at the ruined city of [[Londaren Cor]]. Circa {{fy|940}}-[[FY 942|942]] it was conquered by the [[false Dragon]] [[Guaire Amalasan]] in the [[War of the Second Dragon]]. It was later captured in turn by [[Artur Hawkwing]] and made part of his empire. During the [[War of the Hundred Years]] the former territories of Nerevan became divided between central Andor and eastern Murandy.
+
+{{nations}}
+[[es:Nerevan]]
+[[Category:Nations of the Free Years]]
+[[Category:Historical nations]]

@@ -1,0 +1,27 @@
+{{for|the process to travel with the [[One Power]]|Traveling}}
+{{for|the Traveling People|Tuatha'an}}
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Gareth Bryne
+| gender=Gelding
+| color=Bay
+| appeared={{tfoh|12}}
+| lastappeared={{tpod|19}}
+| lastmentioned={{tpod|19}}
+}}
+'''Traveler''' is the [[horse]] owned by [[Gareth Bryne]].
+
+==Appearance==
+Traveler is a large-nosed bay gelding.
+
+==Activities==
+When chasing after [[Siuan Sanche]], [[Leane Sharif]], and [[Min Farshaw]], Traveler carried Gareth Bryne across [[Andor]] and [[Murandy]],{{ref/book|5|12}} eventually leading him to [[Salidar]].{{ref/book|5|28}} Traveler was used by Gareth throughout his time as the leader of the [[Rebel Aes Sedai]] army, accompanying the [[Amyrlin Seat]] [[Egwene al'Vere]] on a ride{{ref/book|7|12}} and meeting with nobles from Andor and Murandy.{{ref/book|8|17}}
+
+==Trivia==
+{{Wiki|Traveller (horse)|Traveler}} was also the name of {{Wiki|Robert E. Lee}}'s horse; his rider was a well-known general from the {{Wiki|American Civil War}}.
+
+{{notes}}

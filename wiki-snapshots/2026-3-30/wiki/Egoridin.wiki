@@ -1,0 +1,20 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Egoridin
+| status=Dead
+| nationality=Jaramide
+| rank=Queen
+| title=High Queen of [[Jaramide]]
+| gender=Female
+| mentioned={{Bwb|10}}
+| lastmentioned={{Bwb|10}}
+}}
+'''Egoridin''' was a High Queen of [[Jaramide]].
+
+== History ==
+In {{ab|209}}, High Queen Egoridin signed the [[Compact of the Ten Nations]] on behalf of Jaramide.{{ref/book|bwb|10}}
+
+{{notes}}
+
+[[Category:Historical people]]

@@ -1,0 +1,66 @@
+{{ character 
+| image=Sorilea.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| build=Sinewy
+| hair=Thin, white
+| eyes=Green
+| status=Alive
+| clan=Chareen
+| sept=Jarra (sept)
+| mentioned={{tfoh|5}}
+| appeared={{tfoh|23}}
+| lastappeared={{amol|e}}
+| living=amol
+}}
+
+{{WotQ|{{PAGENAME}}}}
+
+'''Sorilea''' is a [[Wise One]] of the [[Jarra (sept)|Jarra]] sept of the [[Chareen]] [[Aiel]].{{ref|{{twotc}}, Sorilea|Sorilea}} She is the Wise One of [[Shende Hold]].{{ref||Sorilea}}
+
+== Appearance ==
+She has green eyes, thin white hair and is described as being all sinew and bone, like "leather stretched tightly over bone".
+
+==Strength and Abilities==
+Sorilea is very weak in ''[[saidar]]''. She is described even not strong enough to become [[Accepted]] if inscribed in the [[Novice book]]. She is, however, a quick learner and can learn a [[weave]] after seeing it formed only once. This is possibly a [[Talent]].
+
+[[The Wheel of Time Companion]] lists her strength as 57(35), but this is a typo. It should read {{opsl|63}} as Sorilea "was weak enough to make Daigian look at least moderately strong".{{ref/book|8|12}} The alternative reading is {{opsl|53}} but, as [[Daigian Moseneillin]] has a strength of {{opsl|51}}, they would be too close to make Daigian seem moderately strong in comparison. Additionally, Egwene notes that "she would certainly have never have gone beyond novice before being sent away".{{ref/book|6|18}} This is still strong enough to allow for her lifespan of over 200 years.
+
+== Activities ==
+
+=== Dumai's Wells ===
+[[File:Sorilea AM.jpg|left|250px|thumb|Sorilea by Adam Masterman]]Sorilea is barely able to [[channel]], but is one of the oldest and most revered Wise Ones. She is over 200 years old. She has a formidable and forceful personality and can be quite frightening. She once made an apprentice search through a pile of sand to find one grain of red sand as punishment for speaking out of turn.
+
+She is present when Egwene reveals the lie that she is not actually an [[Aes Sedai]]. She then gives Egwene a beating to meet her ''toh''. She is proud of Egwene and would accept her back as an Aiel Wise One, when Egwene leaves for [[Salidar]]. Along with [[Melaine]], she accepts [[Min Farshaw]] as a "sort of Wise One." She realizes both Min and Rand are missing at the same time and thinks it may have something to do with the [[White Tower]] [[Aes Sedai]]. She leads a huge contingent of Wise Ones in the rescue of Rand in the battle of [[Dumai's Wells]].
+
+After the battle she suggests the Aes Sedai prisoners be placed into the Wise Ones' care.
+
+=== The pact ===
+She makes a pact with [[Cadsuane Melaidhrin]] to teach [[Rand al'Thor]] to laugh and cry again, and to fulfill her part of the bargain she shows Cadsuane the [[weave]]s to [[Travel]]. Sorilea brings in [[Beldeine Nyram]], [[Erian Boroleos]], [[Elza Penfell]], [[Nesune Bihara]] and [[Sarene Nemdahl]] to swear fealty to Rand when he arrives back in [[Cairhien]]. She then takes them away to become apprentices for the Wise Ones.
+
+She Travels to [[Arad Doman]] with the rest of the Aiel. She is asked by Cadsuane to observe [[Semirhage]] and offer any insight into how to break her. Later she follows Cadsuane into Rand's room where she finds out about Semirhage's escape and then death. When Cadsuane is banished from Rand's sight she comes to the Wise One's for help and a new plan.
+She is meeting with Cadsuane when [[Nynaeve al'Meara]] enters with the news that Rand just burned a whole palace full of people away with [[balefire]].
+
+Sorilea is one of the Wise Ones who are present when Aviendha tells the group of her visions of the future, and the fall of the Aiel. The women rationalize that it is because Rand will leave the Aiel adrift by excluding the Aiel from his plans tomorrow. They plan to fight this future, even if it cannot be changed. When Aviendha asks for the Aiel to be included into the [[Dragon's Peace]], Rand is taken aback. Sorilea and the rest of the Wise Ones stand behind Aviendha, confirming that she speaks for the rest of her people. In the end the Aiel become the neutral enforcers of the Dragon's Peace, allowing them to cross nation to nation in the hunt of any criminal.
+
+Sorilea is among the channellers that fight in Thakandar during the [[Last Battle]]. She personally leads a circle against [[Hessalam]] and the [[Samma N'Sei]].
+
+Sorilea survived the conflict.
+
+== Viewings ==
+One of [[Min's viewings]] shows an aura of blue, yellow and green around Sorilea. It means she will serve Rand in her own fashion.
+
+[[es:Sorilea]]
+
+{{Primary Protagonists}}
+{{notes}}
+[[Category:POV character]]
+[[Category:Channelers]]<references />
+[[Category:POV character]]
+[[Category:Channelers]]
+<references />
+[[Category:POV character]]
+[[Category:Channelers]]

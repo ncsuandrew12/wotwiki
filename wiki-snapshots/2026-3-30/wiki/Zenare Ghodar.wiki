@@ -1,0 +1,34 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Unknown nationality
+| status=Alive
+| rank=Aes Sedai
+| affiliation=White Tower
+| build=Plump
+| appeared={{loc|30}}
+| lastappeared={{loc|30}}
+| living=loc
+}}'''Zenare Ghodar''' is an [[Aes Sedai]] of the [[Yellow Ajah]].{{ref|{{twotc}}, Zenare Ghodar}}
+
+==Appearance==
+She is plump and haughty.
+
+== Strength ==
+Zenare is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of {{opsl|25}}. 
+
+She matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability in the Talent, she should be able to Travel.
+
+==Activities==
+She has allied herself with the [[Salidar Aes Sedai]].
+
+She was not present when [[Nynaeve al'Meara]] [[Heal]]ed both [[Leane Sharif]] and [[Siuan Sanche]] from [[stilling]] and insisted on her going through the whole process again step by step and even tries to give advice on how to improve it.
+
+{{notes}}
+{{DEFAULTSORT:Ghodar, Zenare}}
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

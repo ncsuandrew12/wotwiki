@@ -1,0 +1,169 @@
+{{ character 
+| image=Wot cadsuane by reddera-d4s5q6c.jpg
+| imagesize=250px
+| ajah=Green
+| birth={{Ne|705}}
+| affiliation=White Tower
+| nationality=Far Madding
+| gender=Female
+| title=[[Amyrlin Seat]]
+| rank=Aes Sedai
+| hair=Iron gray
+| height=5'5"
+| eyes=Nearly black
+| status=Alive
+| appeared={{ns|17}}
+| lastappeared={{amol|e}}
+| living=amol
+| ewot=cadsuane
+}}
+{{quote|That woman could try a stone's patience.|[[Nynaeve al'Meara]]}}
+[[Image:Ornaments-icon.svg|left|125px]]
+'''Cadsuane Melaidhrin''' is an [[Aes Sedai]] of the [[Green Ajah]] and the order's oldest living sister. She was one of [[Rand al'Thor]]'s main advisors in the months before the [[Tarmon Gai'don|Last Battle]], and has since then been raised to the [[Amyrlin Seat]]. Her status among her fellow Aes Sedai is almost legendary; in fact, until recently, most believed her to be dead.
+
+==Strength in the One Power==
+Cadsuane is undoubtedly among the strongest Aes Sedai living in the [[Third Age]], and prior to the beginning of the series, hers was the highest strength level of any Aes Sedai for many hundreds of years.
+
+It is stated in ''[[The Wheel of Time Companion]]'' that Cadsuane's ''angreal'', while not a very powerful one, allowed her to reach the top male level of strength, which [[Rand al'Thor]] possessed.
+
+===Discrepancy===
+There is a discrepancy about Cadsuane's exact level of strength in the [[One Power]]. The following excerpt from ''[[A Crown of Swords]]'' describes how her strength relates to [[Elayne]]'s:
+
+{{quote|Until Elayne Trakand, none had come to the White Tower in her [Cadsuane’s] lifetime who could match that standard, much less surpass it. In more ways than one, her like had not walked among Aes Sedai for a thousand years.{{ref/book|7|19}}}}
+
+This heavily implies that Elayne is stronger in the One Power than Cadsuane. This is corroborated in ''The Wheel of Time Companion'', where [[Nicola Treehill]]'s entry identifies her strength level as {{opsl|15}}, and it is stated that Nicola's potential strength is on par with Cadsuane; one can deduce from the entry that Cadsuane should also be at {{opsl|15}}. Instead, Cadsuane's own entry in the book gives her a different strength level: {{opsl|11}}, which would place Cadsuane well above not only Nicola, but Elayne and [[Egwene]] as well, both of whom are rated at {{opsl|14}}.
+
+In both cases Cadsuane's level in ''Saidar'' is well above most other [[Aes Sedai]], but still below the female [[Forsaken]] as well as [[El'Nynaeve ti al'Meara Mandragoran]], [[Alivia]], and [[Sharina Melloy]].
+
+==Abilities==
+[[File:Cadsuane Melaidhrin.jpg|thumb|left|308x308px|Cadsuane Sedai with her Paralis-net]]
+Cadsuane is described in "The Wheel of Time Companion" as a sister with many [[Talent]]s, skills, and abilities. She is not bad at [[Healing]] and she has the Talent to read residues. Despite seeming rigid and inflexible Cadsuane can be very adaptable to varying circumstances. She is very constant in pursuing her objectives and she rarely misses a goal.
+
+One of her great abilities is to notice even the lesser things that others missed. For instance, she understood that the argument between Perrin and Rand was staged and so the "exile" of Perrin was a way for Rand to conceal his friend's true mission. She was also aware of Rand sending others on errands but she was not always able to find out for what purpose; finally, she noted how Rand exchanged his body with Moridin after the Last Battle, but did not tell anyone else.
+
+== Appearance ==
+Cadsuane has very dark eyes and has gray hair which is always done up in a bun on the top of her head. She has many hair ornaments attached to her hair which are actually ''[[angreal]]'' and ''[[ter'angreal]]'' that make up a [[Paralis-net]]. She is described as being handsome, and she refers to herself as being "more stout than slim". She was, in her youth, five feet and five inches tall.{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+Robert Jordan described Cadsuane's dress as follows: ''(paraphrased) Her garments are silk, cut simply, mostly with high necklines. If she were to wear lace, it's just a touch, perhaps at the neck and cuffs, but she more likely doesn't have any lace at all. She's a woman who does a lot of traveling, and she wants clothes that are easy to care for and can be tended by a poorly trained maid at some country inn. She makes no efforts to appear in the highest or latest fashion, nor does she try to impress other women with her clothes or jewelry, or to attract men; she's too busy for such foolishness.''{{ref/tidb|252|5}}
+
+== History ==
+[[image:Cadsuane by googoolini.jpg|thumb|right|Cadsuane Sedai - Artwork by Googoolini]]
+Cadsuane was born in {{ne|705}}, in the city-state of [[Far Madding]], where the out-and-out matriarchy, patronizing view of men, and no-nonsense world view shaped her in her early years.{{ref/tidb|252|5}} She cannot abide lying, bad manners,{{ref/book|8|27}} fools,{{ref/book|9|33}} and being delicate.{{ref/book|10|23}} At age fifteen, she went to the White Tower. There she spent six years as a [[Novice]] and five years as an [[Accepted]].{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+Years ago, fairly soon after she had just attained the shawl she suffered a humiliating lesson from a toothless wilder named [[Norla]], who lived in the [[Black Hills]]. Norla's tutelage helped shape Cadsuane's composure and skills beyond [[White Tower|Tower]] training, and from her Cadsuane received the precious and powerful hair ornament set of ''ter'angreal'' and ''angreal.''
+
+Cadsuane, who had become a legend among sisters, was offered to become a [[Sitter]] the first time in {{ne|846}}. She refused, and later, when offered again, she refused for a second time, even though one refusal was unheard of. She refused to become the [[Captain-General (Green Ajah)|head]] of the Green Ajah in {{ne|862}}, again unheard of. She disappeared for ten years (roughly {{ne|890}} to {{ne|900}}) when she learned the [[Hall of the Tower]] intended to raise her to [[Amyrlin]] after the passing of [[Sereille Bagand]].{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+Cadsuane professedly retired from involvement in world events—twice. The first time was around {{ne|950}}{{ref/book|7|19}} when she withdrew to grow roses in north [[Ghealdan]].{{ref/book|7|18}} Twenty-five years later she returned shortly on the world stage for the [[Aiel War]] with her two surviving Warders. She then retired again. She was growing roses when [[Logain Ablar]] appeared. His appearance drew her out of retirement, but she was not interested in escorting Logain to Tar Valon. She aided in his capture, but then wandered a bit. Eventually, she heard news of [[Mazrim Taim]] and she quickly rode to [[Saldaea]].{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+She was the strongest Aes Sedai in the [[One Power]] in a thousand years before the appearance of [[Egwene al'Vere]], [[Nynaeve al'Meara]], and [[Elayne Trakand]]. Although of the Green Ajah, over the years she has confronted and captured more men who could channel than any other living sister, including those of the [[Red Ajah]], probably due to the [[Eight-pointed star|eight-pointed star ter'angreal]] that vibrates in the proximity of a male with channeling ability. A little known oddity is that the men she brought to the [[White Tower]] tended to live much longer after being gentled than those brought by other sisters. She had a hand in capturing [[Logain Ablar]], [[Mazrim Taim]] and [[Emarin Pendaloan]].
+
+There is a rumor that Cadsuane assaulted an Amyrlin. Since the rumor is vague, and it is almost impossible to believe that anyone could do so without punishment, even her, most believe it to be false. It is not. When [[Myriam Copan]], the Amyrlin at that time was thought to have gone on a solitary self-imposed retreat, she was actually kidnapped by Cadsuane. This was {{ne|758}}, a time when the White Tower's Amyrlin was considered weak and Cadsuane was only fifty-three. Cadsuane's goal in capturing her was to turn her into a strong Amyrlin, which she did. Her methods to do so involved turning Myriam upside down at least once. Cadsuane evaded punishment because Myriam made a statement that implied that Cadsuane did not assault her.{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+Cadsuane kidnapped a [[Tarabon]] king who could channel and brought him to the White Tower while being pursued by the king's army who did not believe that he could channel. She also kidnapped the King of [[Arad Doman]] and Queen of [[Saldaea]]. After she released them, the incoming war that seemed inevitable seemed to fade away. She actually spanked three reigning kings and four reigning queens.
+
+She also stopped a coup within the White Tower. She and Sereille Bagand could not stand each other. Each was a person that held an air of control and confidence. Despite this dislike, she uncovered a plot to overthrow Sereille and stopped it. She took the conspirators, who believed they would be able to enlist the help of Cadsuane, directly to the Amyrlin's office herself. The Amyrlin was not particularly pleased to have the plot discovered by someone that she detested so.{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+== Activities ==
+=== Back from the "dead" ===
+Cadsuane Melaidhrin shows up in [[Canluum]] where she tells [[Larelle Tarsi]] and [[Merean Redhill]] to look after [[Moiraine Damodred]] until she has bonded a Warder. Moiraine, at the time, was in [[Kandor]] searching for the [[Dragon Reborn]]. The two sisters are shocked to see her as they assumed she was dead by now.
+
+Moiraine and [[Siuan Sanche]] suspected her to be either one of [[Tamra Ospenya's Searchers|Tamra's searchers]] or of the [[Black Ajah]]. This uncertainty lasted for twenty years.
+
+Cadsuane regards as one of her two bitterest failures not learning "what [[Caraline Damodred]]'s cousin had been up to in the Borderlands until the knowledge was years too late to do any good."{{ref/book|9|13}} She had eyes-and-ears on Siuan and Moiraine for many years.
+
+=== Cairhien ===
+[[File:CadsuaneFirstAppears.JPG|thumb|left|220px|Cadsuane Enters the Sun Palace - From the Cover of the Re-release of A Crown of Swords - Artwork by Tyler Jacobson]]
+Years later she shows up in [[Cairhien]], and attempts to assert herself with [[Rand al'Thor]], but fails to get through to him immediately. She seems disgusted with the sisters who swore an oath of fealty to Rand, and drills [[Merana Ambrey]], [[Annoura Larisen]], [[Bera Harkin]] and [[Kiruna Nachiman]] on events that have happened recently.
+
+Cadsuane later assists Rand in escaping from what was thought to be a "[[bubble of evil]]" outside of [[Cairhien]] and helps him get back to Cairhien. This was actually [[Padan Fain]] and his [[Mashadar]]-like mist powers. Subsequently, she took the place of Moiraine Damodred as one of Rand's primary [[Aes Sedai advisors|advisers]]. She made a pact with [[Sorilea]], one of the most influential of the [[Wise Ones]], to make him "remember laughter and tears." To show faith in her part of the deal, Sorilea showed Cadsuane the [[weave]] for [[Traveling]].
+
+=== Cleansing of ''saidin'' ===
+She blackmails three [[Asha'man]] - [[Jahar Narishma]], [[Damer Flinn]] and [[Eben Hopwil]] - into accepting Warder bonds from some of the Aes Sedai she leads. She also holds in captivity for a while [[Shalon din Togara Morning Tide]] and blackmails her into finding out what the [[Sea Folk]] want with Rand. She then takes [[Alanna Mosvani]] with her to find Rand and goes to Far Madding to meet him there. While in Far Madding Cadsuane meets with [[Aleis Barsalla]] and the rest of the [[Counsel]]s and bullies Aleis into letting her and her group stay at her premises. She later confides in [[Verin Mathwin]] about [[Min Farshaw]]'s revelation that Rand needs her, and that she intends to teach him laughter and tears again. After Verin meets Rand on the streets of Far Madding, she is sent to ask if Cadsuane will be his adviser.
+
+When Rand is captured by the Far Madding guards, Min and [[Alivia]] run to tell Cadsuane about it. From there she gathers the Asha'man and walks in on a meeting of the Counsels. Aleis has Rand prisoner and intends to hand him over to the White Tower. She is forced to break Aleis, in order for her to release Rand.
+
+They then leave Far Madding and Travel to just outside [[Shadar Logoth]] where Rand and Nynaeve begin to cleanse ''saidin''. She organizes the defenses for the [[Battle near Shadar Logoth]]. She stays by Rand and Nynaeve and uses one of her hair ornaments to hold a shield dome above them while they are defenseless. She uses another to detect where any of the [[Forsaken]] may be channeling and guides [[Elza Penfell]] where to point ''callandor'' and "fire".
+
+=== Rand's advisor ===
+
+After the [[Cleansing of saidin|Cleansing of ''saidin'']] the group Travel to [[Tear]] and stay in [[Algarin Pendaloan]]'s house until Rand can recover.
+
+Rand finally begins to use her as his [[Aes Sedai advisors|advisor]] and asks her opinion on his planned truce with the [[Seanchan]]. She at first isn't happy with it until Rand also tells her of his answer from the [[Aelfinn]] and the land has to be divided. She participates in the fight with the [[Trollocs]] when they attack the mansion. When Logain reveals that Rand is drawing as much as he can from the source, she turns to Min and asks how he's feeling. Min refuses to answer. She also seems to rub not only Rand, but all other Asha'man the wrong way, when she gets the chance such as hassling Logain about him losing his small strip of land when he became a false Dragon. She seems to respect Rand when he bites back and gives her the condition of not threatening Min or any of his other friends again.
+
+She seems surprised with Rand when he hands over Verin's letter to her when Verin decides to leave Tear by herself.
+
+She is one of the six to accompany Rand to his meeting with the [[Daughter of the Nine Moons]]. One of her ''ter'angreal'' reveals the Daughter of the Nine Moons to actually be [[Semirhage]] in disguise.
+
+=== Exile ===
+She Travels to [[Arad Doman]] and stays with Rand at Lord [[Tellaen]]'s manor. Cadsuane sits in on the meeting between Rand and the Aiel chiefs, where Rand gives the order for the Aiel to capture all the [[Council of Merchants]]. After Semirhage's capture, she was put in charge of interrogating the Forsaken, but was told not to torture her under any circumstances. After days of getting nowhere, Cadsuane realized that to break Semirhage, she had to tear down the woman's status as a legend. When Semirhage refused to eat what was brought to her, Cadsuane spanked her and made her eat off the floor. When Semirhage escaped, she is given the [[Domination Band|male ''a'dam'']] by [[Shaidar Haran]], which was hidden in Cadsuane's room and used it to collar Rand al'Thor. In the aftermath, Rand blames Cadsuane for this slip-up, and exiles her, telling her that if he ever saw her face again, he would kill her.
+
+Cadsuane realized she had misjudged how to treat Rand, and feared that he might be able to kill her with a thought, as he had previously claimed. In a final effort to help Rand, Cadsuane had Tam brought to Tear. When Rand found out that Cadsuane sent [[Tam]], he became furious, nearly killing Tam. Tam then burst angrily into Cadsuane's room to find out what she did to Rand. Cadsuane ties Tam up in weaves of Air and lifts him into the air. Nynaeve attempts to intercede on Tam's behalf, saying that this is unnecessary. Tam is unfazed and responds by saying he has met other bullies before. Cadsuane then releases Tam. Meanwhile, the confrontation sent Rand on a very abbreviated journey of self-discovery during which he considered destroying the pattern with the Choedan Kal, but turned the ''sa'angreal'' on itself, destroying it. Then he laughed. As a result, Cadsuane could be said to have succeeded in teaching him to laugh and cry.
+
+=== Return to service ===
+Cadsuane is part of the group that investigates Alanna Mosvani's mysterious disappearance from the [[Stone of Tear]]. When Rand returns back to Tear, he lifts Cadsuane's exile and sends her to [[Caralain Grass]].{{ref/book|13|12}} When Rand returns from [[Maradon]] with [[Rodel Ituralde]], they go to her quarters where they find a recently returned Cadsuane with Ituralde's king [[Alsalam Saeed Almadar]].
+
+Cadsuane is with Rand when he decides to re-meet with the Borderlander army stationed in Far Madding. She is chagrined when Rand corrects her on calling him boy when he is several centuries older than her. She then begins to call Rand by his proper name. They all sit down to formally discuss matters when Rand asks for their oath of obedience in exchange for him to teach the secret of Traveling to the Borderlander rulers' Aes Sedai. Cadsuane admits to herself that she is very proud of how far Rand has come and how much he has changed.
+
+===The Last Battle===
+Cadsuane watches events unfold at the [[Field of Merrilor]] when Rand lays out the [[Dragon's Peace]]. Rand drives a hard bargain and with the timely assistance of Moiraine, manages to convince all the rulers to finally sign. At the end of all this, Cadsuane is extremely proud of what Rand has accomplished. She is with Rand, when he stands just outside [[Shayol Ghul]], testing whether the [[Dull dagger]] works. Cadsuane has a last word with Rand alone, before his strike on Shayol Ghul. She tells Rand that he should not assume he will die at Shayol Ghul. Cadsuane is also pleased with how he has turned out. She then asks about what Rand expects to do about the Black Tower. Rand knows it is a trap and is hesitant to answer. Cadsuane reveals they have freed themselves but are recovering from their ordeal. She would have liked to know what his answer would have been though.
+
+She assists Rand's forces in the Last Battle and marches with him into [[Thakan'dar]] valley. There she and her fellow former unaligned sisters act outside of Rand's orders to leave [[Aviendha]] in charge of his channeling defence. Nonetheless Cadsuane provides a valuable defensive force. Initially Cadsuane dislikes the fact that Rand puts Aviendha in charge of the defensive group instead of herself but some time later she saves Aviendha from a surprise enemies attack. After realizing that a powerful female Forsaken using the True Power is their main enemy, Cadsuane, Aviendha, Sorilea, and Amys establish to call the help of each other every time the Forsaken appears because she is too dangerous to defeat alone.
+
+After the fighting has stopped, she attends Rand's funeral pyre. She sees Moridin ride away from Rand's funeral and deduces that Rand switched bodies with Moridin and that Rand lives on. She chooses to leave him be.
+
+She is then approached by [[Saerin Asnobar]], [[Yukiri]], [[Lyrelle]] and [[Rubinde]], who ask for direction. Cadsuane tells them to talk to the new [[Amyrlin]], whoever she may be. She then realizes the intent of the women and curses at it, resigning to her fate.
+
+It has been confirmed by Brandon Sanderson that she becomes the new Amyrlin Seat.
+
+==Hair ornaments==
+Cadsuane owns a set of ten golden hair ornaments consisting of an ''[[angreal]]'' and nine ''[[ter'angreal]]'', in the form of "small dangling golden fish and birds, stars and moons", dating from the [[Breaking of the World]]. Rand reveals that the collection of hair ornaments is something called a "[[paralis-net]]". They are linked by little gold chains to long gold needles used to fix Cadsuane's hair in a bun.{{ref/book|12|22}}
+
+Of the ornaments:
+# A bird that looks "a little like a shrike" is an ''[[angreal]]'', it is not very powerful but still stepped her up to the top male level of strength, above any unaided woman {{ref/book|9|35}}
+# A double ''ter'angreal'' in the shape of two intertwined crescent moons, facing one another and overlapping; they functioned like Mat's Foxhead medallion, causing flows direct to Cadsaune to dissipate and also warning that someone closing is embracing the Power; they become cold but did not distinguish between ''saidin'' and ''saidar'' though they worked on and warned of both {{ref/book|8|12}}
+# A ''ter'angreal'' in the shape of a hummingbird is a [[Well]].{{ref/book|9|34}} It is like a storage battery with a small but significant amount of power. It needs periodic recharging after use, but it wouldn’t run down on its own no matter how long the lapse between uses. It can be used in places shielded from the [[True Source]] like a [[Stedding]] or [[Far Madding]].
+# A ''ter'angreal'' in the shape of an eight-pointed star with four long and four short wavy rays; it detects the ability of a man to channel within a distance of thirty or forty paces. But it did not identify which man inside that range could channel, only the presence of one. It vibrates in the presence of men who can channel, more so with increasing numbers.{{ref/book|10|23}}
+# A ''ter'angreal'' in the shape of a bird that seems a swallow; it detects the use of every very small amount of ''saidin'' and ''saidar'' within as much as three miles; if held by its chain it would turn to point its beak to the direction of use. It can detect only ''saidin'' and ''saidar'' used alone, not combined{{ref/book|9|35}}
+# A ''ter'angreal'' in the shape of a six-pointed star. When triggered it forms a thin "armor" against the skin of the wearer. This protection is invisible except to whoever is using it. It protects against the blows of swords, knifes, arrows and even maces because it dissipates the force of the blow over the entire body, thus reducing it.
+# A ''ter'angreal'' in the shape of a sleek fish with sharp fins. It enables the wearer to pull someone else into an involuntary circle under her/his control guiding the flows. It works only if the other person has already seized ''saidin'' or embraced ''saidar''.
+# A ''ter'angreal'' in the shape of a shadowed moon: a full moon disc with a part chiseled leaving a brightly burnished crescent. Its use is unknown.
+# A ''ter'angreal'' in the shape of a leaping fish that looked like a trout. Its use is unknown.
+# A ''ter'angreal'' in the shape of a fish that looked like a carp. Its use is unknown.
+
+But we know from the fight against Semirhage{{ref/book|11|27}} that Cadsuane has a ''ter'angreal'' that disrupts weaves at close proximity. So one of the last three ornaments has this power. 
+[[File:WoT Japanese ACoS4.gif|thumb|right|Cadsuane (from a [[Wheel of Time translations|Japanese]] translation book cover)]]
+
+The circumstances under which she acquired the set remain somewhat unclear. She was given them by a "toothless [[wilder]]" called [[Norla]] who resided in the heart of the [[Black Hills]]. It seems that Cadsuane's encounter with her was pivotal in her development as an Aes Sedai. How this woman came into possession of the ornaments and why she passed them on to Cadsuane is unknown.
+
+Recently Cadsuane thought even to sleep with her ornaments in hand, because of the danger that she was facing.
+
+Rand, using the memories of the [[Age of Legends]], recognizes Cadsuane's ornaments as a "full [[paralis-net]]." He says that while some of the ornaments are unknown to [[Lews Therin]], he was present when the original ones were designed and wore the original male version.
+
+== Viewing ==
+One of [[Min's viewings]] shows that she will teach Rand and all the other [[Asha'man]] something they have to learn and that none of them will like it. This hints at her pact with [[Sorilea]] about teaching Rand "laughter and tears."
+
+== Miscellaneous ==
+It can be said in many ways that Cadsuane is the perfect [[Amyrlin Seat]], perhaps the perfect [[Aes Sedai]]. The Amyrlin is supposed to be "of all Ajahs and none", and whilst almost all retain their connection to their old [[Ajah]]s, Cadsuane is one of the few Aes Sedai who can be said to have elements of all Ajahs about her. Although she is primarily [[Green Ajah|Green]] and her main goal was to reach the Last Battle alive, she was extremely devoted to that cause and approached it with an almost [[Blue Ajah|Blue]]-like dedication. She has confronted and captured more male channelers than any other living sister, making her a more successful [[Red Ajah|Red]] than any actual Red sister. She is as effective a mediator as one of the [[Gray Ajah|Gray]], although her methods are sometimes unconventional, and has a vast amount of knowledge about a wide range of things which easily equals what would be expected of a [[Brown Ajah|Brown]] sister. She is also logical and reasonable with the serenity and calm head of a [[White Ajah|White]] and while her skill in [[Healing]] with the [[One Power]] is only average, it is stated by [[Suana Dragand]] that [[Yellow Ajah|Yellows]] must simply have a desire to fix things and make them well, and Cadsuane demonstrates this on several occasions.
+
+Brandon Sanderson reveals in an interview in January, 2013 that Cadsuane does end up being the next Amyrlin.
+
+Source: [https://www.tor.com/2013/01/23/brandon-sandersons-wheel-of-time-answers-from-torchat/ Brandon Sanderson’s Wheel of Time Answers From #TorChat]
+
+==External links==
+*{{TVlink|Cadsuane Melaidhrin}} on {{TVlink}}
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Melaidhrin, Cadsuane}}
+
+[[es:Cadsuane Melaidhrin]]
+[[it:Cadsuane Melaidhrin]]
+[[Category:Unaligned sisters]]
+[[Category:Rand's Aes Sedai]]
+[[Category:POV character]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Notes needed]]
+[[Category:Citation needed]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

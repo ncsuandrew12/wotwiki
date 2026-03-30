@@ -1,0 +1,29 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Domani
+| gender=Female
+| affiliation=The Kin
+| build=Plump
+| status=Alive
+| appeared={{kod|13}}
+| lastappeared={{kod|13}}
+| living=kod
+}}
+'''Caiden''' is a woman from the [[Kin]].
+
+== Appearance ==
+She is plumply pretty.
+== History ==
+She is from [[Arad Doman]].
+
+Caiden is very weak in the [[One Power]], she is not strong enough to become [[Accepted]].{{ref/book|11|13}} So, she is below level {{opsl|52}}.
+
+== Activities ==
+She [[Traveling|Travels]] with the rest of the Kin from [[Ebou Dar]] to [[Caemlyn]].
+
+She helps [[Elayne Trakand]] in Caemlyn by linking with other Kinswomen and creating [[gateways]] for troops to Travel through, when the walls are attacked by [[Arymilla Marne]]'s men.
+
+{{notes}}
+[[Category:Channelers]]
+[[Category:Novices]]

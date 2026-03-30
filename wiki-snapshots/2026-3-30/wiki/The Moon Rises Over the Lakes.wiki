@@ -1,0 +1,11 @@
+{{swordform
+| mentioned={{2|27}}
+| used=[[Rand al'Thor]], [[Gawyn Trakand]]
+}}
+{{quote|There was no time to think. Instinct brought the sword out if its sheath in a flashing arc. The Moon Rises Over the Lakes.|Rand's thoughts when using the form.}}
+{{dablink|For other uses of the words "moon" and "rises," see [[Moon]] and [[Rising]].}}
+'''The Moon Rises Over the Lakes''' is a [[sword form]]. It is a way to unsheath the sword, but can also be used once the sword is out of its scabbard. When ambushed by [[Trolloc]]s in [[Cairhien]], [[Rand al'Thor]] killed one of them with this form.{{ref/book|2|27}} [[Gawyn Trakand]] also used this form, as well as [[The Falcon Stoops]] and [[The Creeper Embraces the Oak]], when he fought [[Aiel]] after the [[Battle of Dumai's Wells]].{{ref/book|7|p}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Moon Rises Over the Lakes, The}}

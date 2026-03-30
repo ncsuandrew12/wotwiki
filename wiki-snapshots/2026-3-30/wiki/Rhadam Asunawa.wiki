@@ -1,0 +1,77 @@
+{{character
+| image=Rhadam Asunawa.jpg
+| imagesize = 
+| nationality= Unknown nationality
+| gender=Male
+| affiliation= Hand of the Light
+| occupation=Inquisitor
+| rank=High Inquisitor
+| eyes=Deep-set, Dark
+| build=Gaunt
+| hair=Gray
+| mentioned={{loc|9}}
+| appeared={{loc|31}}
+| lastappeared={{tom|2}}
+| death={{ne|1000}}
+| status=Dead
+}}
+{{quote|Asunawa had a love of truth, a strange love; he could tie it into knots, or hang it up and flay it while it screamed, but so far as Valda knew, he never actually lied.|Eamon Valda|High Inquisitor, Rhadam Asunawa}}
+'''Rhadam Asunawa''' (RAH-dam ah-soo-NAH-wah; /ˈɹɑːdæm ˌa.suˈnɑ.wɑ/) was the [[High Inquisitor]] of the [[Hand of the Light]].{{ref|{{twotc}}, Rhadam Asunawa}} 
+
+==Appearance==
+He was a gaunt man with dark, deep-set eyes that burn with unnerving fervor. He had gray hair thick gray eyebrows. His face was sorrowful and emaciated. He had the look of a martyr. The cloak he wore as the High Questioner was adorned with only the scarlet shepherd's crook of a Questioner without the sunburst shared by the rest of the Children and Questioners.
+
+==History==
+Rhadam Asunawa is the [[High Inquisitor]] of the [[Hand of the Light]]. His manner is such that he stands apart from the rest of the Children. 
+
+In his eyes, meddling with the One Power is usurping the Creator's power and is the cause of all the world's ill. He wants more than anything else to destroy anyone and everyone who can channel or even wishes to; they must confess their sin under the ministrations of the Hand of the Light, and then die. Unlike many other Whitecloaks though, he does not believe that all Aes Sedai are Darkfriends - merely fools and dupes. He also believed the White Tower was an obstacle to power for the Children of the Light.
+
+Pedron Niall thinks that Asunawa ''wanted every woman who had ever spent a night in the Tower hanged as of yesterday, every book that mentioned [[Aes Sedai]] or the [[One Power]] burned, and the words themselves banned.'' and that he ''never had a thought beyond those goals, nor a care for costs.'' His hatred of Aes Sedai seems extreme, even for the [[Children of the Light]].
+
+He addresses everyone as "my son", even the Lord Captain Commander. This is oddly similar to the traditions of his arch-enemy, the [[Amyrlin Seat]], who addresses all Aes Sedai as "daughter".
+
+Valda strongly dislikes him simply because he is a Questioner. Niall, in some respects, echoed this opinion. Asunawa himself believes himself to be hated, but only because he believes that men hate what they fear. In contrast, many of the Children hold him in esteem, even if they generally dislike Questioners.
+
+==Activities==
+===Under Pedron Niall===
+He sends a Questioner to [[Eamon Valda]] suggesting that Valda may want to visit the [[Dome of Truth]]. Rhadam is waiting there, examining a painting of [[Serenia Latar]] being hanged. He asks Valda if he is "troubled" and discusses the fact that the Children now harbor a witch, [[Morgase Trakand]]. He also suggests that Niall should not be allowed to destroy the Children of the Light. The two plot to kill Niall.
+
+He witnesses the hanging of the Darkfriend [[Paitr Conel]] and his "uncle", [[Torwyn Barshaw]].
+
+He plans the details of each day of the trial he wants to give Morgase with ambassadors from every land present. He will wring out a confession from her without leaving any marks and then she will be hanged like a common criminal. He plans to have a special gallows built for her and have it preserved afterwards as an example to all.
+
+He enters Niall's audience chamber just as Eamon Valda kills [[Abdel Omerna]] for assassinating [[Pedron Niall]]. Omerna was, however, likely being used by Asunawa and Valda to get Niall out of the way. Valda makes a move to finish off the dying Niall, but is stopped by Asunawa. Asunawa would attest that he had opened Niall's throat had he done so, thereby condemning Valda as a traitor also.
+
+Asunawa tries to blackmail Valda into letting him have Morgase in exchange for letting Valda become Lord Captain Commander. Valda, however, doesn't need Asunawa's help and has already made moves to get enough Lord Captains to support him and threatens Asunawa's own position as head of the Hand of Light. Asunawa wants to have Morgase hanged for her months in the Tower, but Valda does not want her dead until after he she has fulfilled her usefulness to him. Without Morgase alive, the agreement she had signed with Niall for the Children to have authority in Andor would become void. Asunawa seems to forget this or cares more about hanging Morgase.
+
+===Under Eamon Valda===
+Valda hands Morgase over to Asunawa for a brief while to placate him. He tortures Morgase for an hour with needles and knotted ropes. Before this, she believed that she could withstand anything and still keep fighting. Valda uses this torture to coerce Morgase into his bed; something which disgusts Asunawa.
+
+He goes north of [[Amador]] with Valda and several thousand Children of the Light with the aim of meeting with the [[Masema Dagar|Prophet of the Dragon]]. While they are away, the [[Seanchan]] attack the [[Fortress of the Light]].
+
+Asunawa is disappointed that Morgase is lost, as he wanted to be the first Whitecloak to hang a queen - a Tower-trained queen at that. He had already planned her torture, confession and execution and had a special gallows built.
+
+After the fall of Amador and the Fortress of the Light, Asunawa is part of the camp of nine thousand Children with Valda. Unlike the other Children, Asunawa has a small cottage rather than a tent and has creature comforts like mulled wine and a small fire in a stone hearth. 
+
+Asunawa reads [[Lothair Mantelar]]'s ''[[The Way of the Light]]'', a book more suited to new recruits than the High Inquisitor.
+
+Asunawa reports the presence of an Andoran army in [[Murandy]], implying that they are looking for Morgase. 
+
+He, Valda and the other surviving members of the [[Council of the Anointed]] go to meet with the [[Seanchan]]. Asunawa dislikes them, but is willing to go to the meeting if peace with them will mean the downfall of the White Tower. He dislikes Valda's accommodation of the Seanchan, however.
+
+=== Trial Beneath the Light ===
+At Valda's lodge, he surrounds himself with a bodyguard of six Questioners. When Galad makes his request for a [[Trial Beneath the Light]], Asunawa offers to deal with the matter discreetly if he tells him who the accused is. The accused is Valda. On discovering this, Asunawa promptly changes his mind and orders two Questioners to take Galad into custody with the intention of having him tortured and finding out what Darkfriend plot he is a part of. Yet the Children will not allow it. Even before the combat begins, he and his Questioners are reining their horses. He leaves as soon as it is clear that Valda has been defeated; he disapproved of the duel between Galad and Valda.
+
+[[Lunal Galgan]] mentions that Asunawa has a few thousand Children of the Light still loyal to the Seanchan. [[High Lady]] [[Suroth Sabelle Meldarath|Suroth]] considers making them all ''[[da'covale]]''. Galad has seven thousand Children of the Light loyal to him as Lord Captain Commander.
+
+Asunawa takes his much larger force and cuts off Galad's force as they are trying to retreat from Seanchan controlled lands. Rather than have Whitecloak fight Whitecloak, Galad surrenders to Asunawa to be questioned. Instead Galad is rescued by Lord Captains who decided to kill Asunawa and accept Galad as Lord Commander.
+
+{{notes}}
+{{DEFAULTSORT:Asunawa, Rhadam}}
+
+[[es:Rhadam Asunawa]]
+[[Category:POV character]]<references />
+{{DEFAULTSORT:Asunawa, Rhadam}}
+
+[[es:Rhadam Asunawa]]
+[[Category:POV character]]

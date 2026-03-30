@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|April}}
+|{{Wotmonth|Adar}}
+|}
+'''Adar 6 (April 18)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Gaul]] is caught by [[Orban]] and his followers, and caged in [[Remen]].
+*{{ne|1000}} - In the early morning, [[Furyk Karede]] and [[Musenge]] arrive at [[Gamel Loune]]'s camp. Loune tells him about the attacks the [[Seanchan]] have suffered over the last week,  which Karede thinks are being masterminded by [[Thomdril Merrilin]].
+<noinclude>
+==External links==
+*[[wikipedia:april 18|April 18]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

@@ -1,0 +1,28 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| nationality=Atha'an Miere
+| gender=Female
+| hair=Shoulder-length, black, going white
+| affiliation=Atha'an Miere
+| rank=First Twelve
+| clan=Mushien
+| build=Slender
+| height=Tall
+| status=Alive
+| appeared={{kod|22}}
+| lastappeared={{kod|22}}
+| living=kod
+}}
+'''Mareil''' is one of the ''[[Atha'an Miere]]'' [[First Twelve]].
+
+== Appearance ==
+She is tall and slender. She has shoulder-length hair which has as much white as black.
+
+== History ==
+She has been close friends with [[Harine din Togara Two Winds]] since they were deckhands together. 
+
+She is Wavemistress of Clan Mushien and one of the First Twelve of the Atha'an Miere. Her [[Windfinder]] is [[Tebreille din Gelyn South Wind]].
+
+== Activities ==
+She manages to get free from the [[Seanchan]] during the [[Escape]] from [[Ebou Dar]]. She attends the meeting of the First Twelve with [[Rand al'Thor]]'s ambassador [[Logain Ablar]]. Near the end of the meeting [[Cemeille din Selaan Long Eyes]] interrupts with the news of the [[Amayar]] committing mass suicide.

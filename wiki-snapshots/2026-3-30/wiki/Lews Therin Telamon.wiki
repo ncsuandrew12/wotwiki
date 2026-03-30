@@ -1,0 +1,98 @@
+{{Featuredicon}}
+{{ character 
+| image=TEOTW -0 cover.PNG 
+| imagesize=250px
+| ewothist=ltt
+| title=First Among Servants
+| rank=Aes Sedai (Age of Legends)
+| occupation=General
+| gender=Male
+| status=Dead
+| hair=Brown and White
+| appeared={{teotw|Prologue}}
+| lastappeared={{teotw|Prologue}}
+| lastmentioned={{amol|25}}
+}}
+{{WotQ|{{PAGENAME}}}}
+{{dablink|For other uses of the word "Kinslayer," a nickname of Lews Therin, see [[Kinslayer]].}}
+'''Lews Therin Telamon''' (pronounced: LOOZ THEH-rihn TEHL-ah-mon) was the [[Dragon]] during the [[War of Power]]. He was the leader of the forces of [[Light]] and was well respected all over the world. He was able to summon the [[Nine Rods of Dominion]], as well as being the highest rank of [[Aes Sedai (Age of Legends)|Aes Sedai]], wearing the [[Ring of Tamyrlin]]. He was as strong in the Power as a man could be and was the "First Among Servants."
+
+==History==
+[[File:Lews Therin Telamon.jpg|thumb|left|Lews Therin Telamon commanding his army]]
+
+Lews Therin was the most powerful Aes Sedai during the Age of Legends, rivaled only by [[Ishamael|Elan Morin Tedronai]]. He wrote many successful books and held high offices with great success, including the High Seat of the [[Hall of Servants]]. Although one of the most powerful men to be able to channel, he is not particularly skilled in ''[[Tel'aran'rhiod]]''. After his relationship with [[Lanfear|Mierin Eronaile]] soured, he married [[Ilyena Sunhair]]. At some stage he had children to her.{{Ref/book|14|1}} Years later, the War of Power began, and Lews Therin was named general of the forces of the Light, leading them to many great victories. At some time during the War of Power he humbled Ishamael in the [[Hall of Servants]] and defeated him at the Gates of [[Paaran Disen]]. 
+
+Due to Lews Therin's power, envy overtook many of Lews Therin's greatest generals such as [[Sammael|Tel Janin Aellinsar]], [[Be'lal|Duram Laddel Cham]], [[Demandred|Barid Bel Medar]], and potentially others who remain unknown and caused them to defect to the [[Shadow]], shifting the war in favor of the Shadow. The Aes Sedai began creating the [[Choedan Kal]] in hopes of defeating the [[Dark One]] by brute force. As soon as they were finished, the forces of the Shadow overtook the city in which they were being built. Fortunately, the invaders were ignorant of the existence of the Choedan Kal. The women Aes Sedai were insistent on attempting to recapture the city, while Lews Therin proposed a decisive strike at [[Shayol Ghul]], where they would place [[Seven Seals|seven seals]] to seal the Dark One away again. [[Latra Posae Decume]] convinced all the strong female Aes Sedai to oppose this, which created the [[Fateful Concord]].
+
+===Death and Dragonmount===
+Because he believed Latra Posae's plan that involved retaking a city that was heavily occupied by forces of the Shadow was riskier than his own plan, Lews Therin and the [[Hundred Companions]] took it on themselves to seal the [[Bore]] with the seven seals without the aid of the female channelers. While this plan succeeded in temporarily closing the Bore, the Dark One [[taint]]ed ''[[saidin]]'' in his counter-stroke. The reason for the weakness of the seal has been theorized by [[Rand al'Thor]] to have been caused because only ''saidin'' was used to create the seal and because the Dark One was allowed to touch the seals. Many of the companions went insane instantly, including Lews Therin himself. Lews Therin returned to kill all of his family and many friends, causing people to later rename him "Lews Therin Kinslayer." Healed of his madness by Ishamael and horrified by his actions, he drew too much of the [[One Power]] and killed himself,<ref>Robert Jordan stated in a 1993 interview that Lews Therin did not use [[balefire]] to kill himself, but rather an excess of the One Power. [http://p079.ezboard.com/ftheorylandfrm18.showMessage?topicID=465.topic]</ref> causing the creation of Dragonmount and inadvertently diverting the river [[Erinin]] creating what is now known as the island of [[Tar Valon]]{{Ref/book|13|51}}. He was approximately 400 years old at his death.
+
+{{quote|Rand al'Thor. So that is his name now. An arrogant man who stank of piety and goodness. Is he still the same?|[[Moghedien]], describing Lews Therin{{ref/book|4|46}}}}
+
+==Reincarnation==
+Lews Therin has been reincarnated in the [[Third Age]] as Rand al'Thor. While Rand al'Thor is a separate personality from Lews Therin, he has the same soul as Lews Therin. Lews Therin's personality and voice surfaced in Rand's mind for a time. It was unclear, at first, if the voice of Lews Therin in Rand's head was a separate being, or if it was a delusion of Rand's due to the effects of the taint or due to stress. Rand held conversations with this voice, as he thought of it as a separate being.
+
+"Lews Therin" seemed to begin providing Rand access to memories from his past life, granting him first hand knowledge of all the [[Forsaken]], including traits about Lanfear and Sammael in particular.{{Ref/book|4|9}} With those memories came many powerful weavings, such as the shield he erected against [[Asmodean]] when they fight. "Lews Therin" also seemed to aid Rand in breaking the shield around him when he was kidnapped by the [[Aes Sedai]] sent by [[Elaida do Avriny a'Roihan]].
+
+Though "Lews Therin" manifested as a distinctly  different personality from Rand, "he" appeared to be affected by Rand. For example, when Rand developed claustrophobia during his imprisonment with the Aes Sedai sent by Elaida, "Lews Therin" seemed to develop it too.
+
+Rand also began picking up habits from his past life the more his "Lews Therin" personality manifested, such as humming and rubbing his ear with his thumb while in the presence of a beautiful woman. Talents from his past life also began to surface, like an artistic ability that he had possessed as Lews Therin, but didn't have so far as Rand.
+
+=== Taim and the Black Tower ===
+"Lews Therin" greatly distrusted [[Mazrim Taim]] and any other [[Asha'man]] present near Rand. "He" would constantly rant about killing them all now rather than "waiting for later."
+
+=== Cleansing of ''saidin'' ===
+After Rand cleansed ''saidin'', "Lews Therin" appeared to act a touch less mad. "He" appeared to continue to increase his presence, with Rand believing that Lews Therin intended to take over his body.
+
+=== Battle for ''saidin'' ===
+When [[Trolloc]]s attacked [[Algarin Pendaloan]]'s manor, "Lews Therin" seemed to manage to snatch ''saidin'' before Rand did. "He" then set to destroying the Trollocs with weaves such as [[Blossoms of Fire]] and [[Deathgates]], which hadn't been used in millennia. The other Asha'man present picked up these weaves and also began to use them on the Trollocs. During the battle, "Lews Therin" moaned about not being able to move his hands. When Rand moved them into view, "Lews Therin" sent [[Arrows of Fire]] from Rand's fingertips into the Trollocs. When the battle was over, "Lews Therin" refused to let go of ''saidin'', and began to draw more and more of the One Power. Rand managed to reach an agreement with "Lews Therin." He agreed they would die together at [[Tarmon Gai'don]], which caused Lews Therin to let go of the One Power.
+
+When Rand held a meeting with what he believed was the [[Daughter of the Nine Moons]], [[Cadsuane Melaidhrin]]'s ''[[ter'angreal]]'' disrupted the disguise, revealing it to be [[Semirhage]]. "Lews Therin" recognized her, and reached for ''saidin'' at the same time as Rand. The pause allowed Semirhage to send a fireball and singe one of Rand's hands off. "Lews Therin" was terrified of Semirhage. When Semirhage was captured, she revealed that the voice of "Lews Therin" in Rand's head was a sign of madness. She wondered how long Rand could be trusted before he, or "Lews Therin," sought their deaths and all those around them.
+
+===Final words===
+While Rand stood on top of Dragonmount and contemplated using the Choedan Kal to destroy the [[Pattern]] and all existence, his realization about his madness began after "Lews Therin" muttered about having a second chance, which indicated that that he did something wrong that now needs to be corrected by Rand. Spurred by this, Rand destroyed the keystone to the Choedan Kal by drawing as much of ''saidin'' as he could through it and pushing it back in. Rand suddenly realized that he and Lews Therin were not two different men and never had been. After this, Rand laughed truly for the first time in a long while.
+
+Rand has confirmed to [[Egwene al'Vere]] that both he and Lews Therin are one and the same now. Rand's eyes reflect the accrued wisdom of Lews Therin but his memories and his entire life appear as a clear dream, though as one of Rand's own dreams. This is an indication that the Lews Therin split personality is gone for good now, but lives on in Rand.
+
+==Titles==
+Titles and other names that refer to Lews Therin Telamon:
+
+* Lord of the Morning
+* Prince of the Dawn
+* The Dragon
+* Kinslayer
+* The Promised One
+* Champion of the Light
+
+===''Ta'veren''===
+
+Lews Therin claimed to be ''[[ta'veren]]'',{{ref/book|11|11}} his life was certainly consistent with ''ta'veren'' status, and his rebirth is a known ''ta'veren''. However, Lews Therin made this claim while insane and as a voice in confirmed ''ta'veren'' [[Rand al'Thor]]'s head, so it is uncertain how to accurately interpret this statement.
+
+When [[Loial]] was first explaining ''ta'veren'', he weakly asserted that Lews Therin was ''ta'veren''.{{ref/book|1|36}}
+
+When answering a question about [[Lanfear]]'s visit with [[Mat Cauthon]] in [[The White Tower]], [[Robert Jordan]] stated that Lanfear was mainly interested in Lews Therin, but had an indirect interest in "these '''other''' two ''ta'veren'', who seemed to be tied in with him, because they might be important to him."{{ref/tidb|197|33}} This phrasing may imply that Lews Therin is ''ta'veren'', but it may also simply be in reference to Rand's own ''ta'veren'' nature.
+
+When answering a question about how Lews Therin sensed a lack of inhabitants around the spot where he created [[Dragonmount]], [[Brandon Sanderson]] declined to say whether the ability was "something about being ''ta'veren''".{{ref/tidb|773|9}}
+
+==Parallels==
+Lews Therin's character may show some similarities with Lucifer's. Like Lucifer, Lews Therin Telamon has fallen from grace. He was once known as "Lord of the Morning," like Lucifer, and was the strongest warrior on the Light's side. Lucifer was the serpent in the Garden of Eden and Lews Therin was the Dragon. 
+
+The name Telamon is found in a warrior-hero of Greek myth, the father of Ajax, as well as Atlas. Atlas was at times during his punishment known as Atlas Telamon, "enduring Atlas," which is fitting for Lews Therin, who was reborn as Rand, and even then was in Rand's mind for a while. 
+
+The epithet 'Kinslayer' is an allusion to Hercules, who was driven mad by the goddess Hera. During his insanity he slew his wife and all of his children.
+
+==In the television series==
+In the television series, {{TVlink|Lews Therin Telamon}} is played by {{TVlink|Alexander Karim}}
+
+In the Winter Dragon pilot, Lews Therin Telamon was played by [https://www.imdb.com/name/nm1043075/ Max Ryan]
+{{notes}}<references /><references /><references />
+{{Primary Protagonists}}
+{{DEFAULTSORT:Therin, Lews Telamon}}
+[[es:Lews Therin Telamon]]
+[[Category:Blademasters]]
+[[Category:Ta'veren]]
+[[Category:Historical people]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:Unknown nationality]]
+[[Category:Parallels]]

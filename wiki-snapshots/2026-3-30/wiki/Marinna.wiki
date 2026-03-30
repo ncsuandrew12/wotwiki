@@ -1,0 +1,26 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Foreseen
+| nationality=Aiel
+| occupation=Wise One apprentice
+| title=Child of the Dragon
+| build=Small
+| gender=Female
+| clan=Taardad
+| appeared={{tom|49}}
+| lastappeared={{tom|49}}
+}}
+'''Marinna''' is the daughter of [[Rand al'Thor]] and [[Aviendha]] as seen through the visions of Aviendha's second trip through the [[Glass columns]]. She would be of the [[Taardad]] [[Aiel]].
+
+==Appearance==
+Marinna is small of build and has a round face.
+
+==History==
+Born as one of four quadruplets, Marinna has two full blooded brothers, [[Alarch]] and [[Janduin (son)|Janduin]], and a full blooded sister [[Padra]]. She also has another older half-brother and sister by one of her father's other wives, also her mother's first-sister, [[Elayne Trakand]]. 
+
+All four of her full blooded siblings could [[One Power|channel]] since childhood and perpetually embrace the True Source.
+
+==Activities==
+Given special privileges as children of the Dragon, Marinna and her siblings were present at the council of Chiefs which decided to go to war with the [[Seanchan]]. At this point in time, Marinna was training to become a [[Wise One]].
+[[Category:Channelers]]

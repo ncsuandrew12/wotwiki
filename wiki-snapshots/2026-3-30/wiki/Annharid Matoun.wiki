@@ -1,0 +1,44 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Saldaean
+| status=Alive
+| rank=Aes Sedai
+| affiliation=White Tower
+| mentioned={{cot|p}}
+| lastmentioned={{cot|p}}
+| living=cot
+|birth = 894 NE|build = Stocky|hair = Black|eyes = Dark brown}}'''Annharid Matoun''' is an [[Aes Sedai]] of the [[Yellow Ajah]].{{ref|{{twotc}}, Annharid Matoun}}
+
+== Appearance and Personality ==
+She is about 5'5" tall, with coppery skin, dark brown eyes and black hair. She is a little stocky, but not heavy.
+
+A forceful woman, not particularly arrogant for a Yellow, but strong-willed and determined, she did not suffer fools gladly
+
+== Strength and Abilities ==
+Annharid is [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai, with a [[One Power]] level of {{opsl|23}}. She is strong enough to be able to [[Traveling|Travel]].
+
+Being of the Yellow Ajah also means that she has some skill with [[Healing]].
+
+== History ==
+Annharid was born in {{ne|894}} and went to the [[White Tower]] in [[909 NE]]. After spending eight years as a [[novice]] and six years as [[Accepted]], she was raised to the shawl in {{ne|923}}.
+
+==Activities==
+She has allied herself with the [[Salidar Aes Sedai]] and is one of the [[Rebel Spies]] sent back to the White Tower to spread the rumor that the [[Red Ajah]] set [[Logain]] up as a [[False Dragon]]{{ref/book|7|8}}.
+
+[[Zerah Dacan]] betrayed her unwillingly, along with the other spies, when she was questioned by [[Pevara Tazanovni]] and [[Seaine Herimon]]{{ref/book|8|26}}.
+
+[[Celestin]] is currently working with Annharid on [[Yukiri]]'s orders as a result of this to find more about [[Atuan Larisett]]'s friends in order to see who else might be members of her [[Heart]]{{ref/book|10|p}}.
+
+When [[Meidani Eschede|Meidani]] is freed from her oath of obedience, it can be assumed Annharid was as well.
+
+{{notes}}
+{{DEFAULTSORT:Matoun, Annharid}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Eyes-and-ears]]
+[[Category:Ferrets]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

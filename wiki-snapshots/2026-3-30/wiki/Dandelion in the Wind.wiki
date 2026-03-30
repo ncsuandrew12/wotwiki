@@ -1,0 +1,10 @@
+{{swordform 
+| mentioned={{0|16}}
+| used=[[Lan Mandragoran]]
+}}
+{{dablink|For other uses of the word "wind," see [[Wind]].}}
+'''Dandelion in the Wind''' is a [[sword form]]. The movements for this form are unknown. [[Lan Mandragoran]] once used this form to slice open an assassin's throat after using [[The Rose Unfolds]].{{ref/book|0|16}} The form's name may allude to the spray of blood from a throat wound looking similarly to a dandelion spraying in the wind.
+[[File:Dandelion in the Wind.jpg|thumb|150px|left|Lan performing '''Dandelion in the Wind'''.]]
+
+{{notes}}
+{{short}}

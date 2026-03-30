@@ -1,0 +1,23 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| nationality=Andoran
+| title=
+| occupation=Seamstress
+| affiliation=
+| gender=Female
+| hair=
+| mentioned={{loc|p}}
+| living=loc
+}}
+'''Rana''' is one of [[Min]]'s three aunts. She lives in [[Baerlon]], [[Andor]] and is a Seamstress{{ref/book|6|p}}. She is gentle and kind, but has very strong notions of proper behaviour{{ref/book|7|35}}. 
+==Activities==
+She, [[Miren]] and [[Jan]] have raised Min to be fair; the young woman lives by it, although she sometimes thinks her life would have been easier if she had not had this education {{ref/book|7|33}}. They also admonished Min not to behave like a fluff-brained girl and she still thinks of her aunts when she hears that word {{ref/book|8|27}}.   
+
+Another piece of advise that Jan and Rana always gave to Min was to never kiss a man if she did not intend to marry him, which is why Min does not want to know what her aunts might think of her relationship with Rand {{ref/book|7|18}}.  
+
+[[Alivia]] reminds Min of her aunt Rana, although she does not have blue eyes and golden hair. It is more the air that both women have of always seeming to know when someone has done something wrong and always seeing to that person never wanting to do it again {{ref/book|9|33}}. 
+{{notes}}
+[[Category:Short pages]]

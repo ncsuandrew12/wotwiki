@@ -1,0 +1,52 @@
+{{character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| nationality=Domani
+| rank=King
+| title=[[Five Great Captains]]
+| affiliation=Arad Doman
+| gender=Male
+| height=Short
+| status=Alive
+| appeared={{Cot|p}}
+| mentioned={{Tfoh|27}}
+| lastappeared={{amol|epilogue}}
+| living=amol
+}}'''Rodel Ituralde''' is a [[Domani]] general and is considered to be one of the [[Five Great Captains]]. He is called "the Wolf" ("the Little Wolf" when he is not around).
+
+== Appearance ==
+He is very short, with a neatly trimmed mustache.
+
+== History ==
+He fought in the [[Aiel War]] with [[Shimron]]. He is married to [[Tamsin Ituralde]].
+
+==Activities==
+=== Rebelling against the Seanchan ===
+He engages and fights a number of [[Dragonsworn]] armies plaguing [[Arad Doman]], but due to [[Graendal]]'s confusing orders, never manages to soundly defeat them. He meets with the Dragonsworn leaders under the [[White Ribbon]].
+
+In Graendal's attempt to sow chaos she has sent him unknowingly against the [[Seanchan]] in [[Tarabon]]. To this end Rodel has gathered an army of Domani men and Tarabon Dragonsworn and sent them on a guerrilla type raid into Tarabon. His intentions were to enrage the Seanchan, make them overreact and chase him across the [[Almoth Plain]] into Arad Doman.{{ref/book|11|p}} He figures the only thing that can stop his plans from succeeding is the [[Dragon Reborn]] appearing in front of him.
+Incidentally Arad Doman is where the Dragon Reborn has begun massing troops for [[Tarmon Gai'don]].
+
+=== Serving the Dragon ===
+The Seanchan force led by General [[Turan]] chases Ituralde's force to the Domani city of [[Darluna]] where they walk right into an ambush. Ituralde is victorious, but loses half of his men, which is approximately 50,000 men. However, there was a cost to the Seanchan. Ituralde defeated three times as many men as he possessed, which totals to about 300,000 men. At the end of the battle Ituralde meets with the mortally wounded General Turan, and explains that he was successful in tricking his army because they were too reliant on reports from raken flyers, whose vision was limited to what could be seen from the air. He explained that his forces had hidden indoors for weeks beforehand in the city, while the armed force following behind Turan's army was actually comprised of non-soldiers wearing his men's uniforms. He kills Turan at his own request, but not before learning that the Seanchan would send an even larger force against him.
+
+After the battle, Ituralde fortifies an abandoned ''[[stedding]]'' as the site of his last stand. He is visited by [[Rand al'Thor]], the Dragon Reborn, who is seeking a truce with the Seanchan. He offers Ituralde a contingent of [[Asha'man]] and a way out of his current predicament—and even the throne of Arad Doman itself, or perhaps the crown of Amadicia—if Ituralde will ally with him, abandon his war with the Seanchan, and start guarding the [[Borderlands]] from the [[Great Blight|Blight]] instead. Ituralde agrees, but will only accept the crown of Arad Doman if King [[Alsalam Saeed Almadar]] is already dead.
+
+===The Siege of Maradon===
+Ituralde is met with a cold reception in [[Saldaea]], considered an invader by the people of [[Maradon]]. Ituralde makes camp at a riverbank across from a mountain pass out of the Blight. Here, he holds off the invading [[Trolloc]] force for several days before the Trollocs ultimately overrun it, using catapults to launch Trolloc bodies into the camp while [[Draghkar]] attack the soldiers. Ituralde prepares to retreat, but is rescued by an army of Saldaeans when Maradon finally opens its gates to him. The Saldaean captain, [[Yoeli]], escorts him into the city, revealing that Yoeli's men had revolted against the Lord of Maradon, [[Vram Torkumen]] (secretly a [[Darkfriend]]), and taken control of the city. Vram calls Ituralde Dragonsworn, an accusation that shakes him.
+
+After the Trolloc army surrounds Maradon, a channeler hidden amongst them blows a hole in the city wall, wounding Ituralde, and opening the city to attack. Utilizing brilliant urban warfare tactics, Ituralde holds his own against the Trollocs but is slowly overrun once again. Ituralde prepares to flee, but is stopped by Yoeli, who says that warning beacons had been lit and that aid would be coming. When no aid comes, an exhausted Ituralde begins his escape, but is relieved by the arrival of Rand al'Thor and [[Davram Bashere]]. Bashere and Ituralde both consider Maradon lost, but al'Thor insists that he will not let it fall. He then [[Traveling|Travels]] behind the Trolloc force and destroys it with [[Deathgates]] and [[Arrows of Fire]]. Afterward, Ituralde is taken back to the [[Stone of Tear]], where he is reunited with King [[Alsalam]].
+
+===The Last Battle===
+At the [[Field of Merrilor]], [[Elayne Trakand]] sets up an initial war council. There it is decided that Ituralde will lead the [[Aiel]] forces at [[Shayol Ghul]]. He scouts the lay-out of Thankan'dar, before their planned attack. [[Aviendha]] is impressed how quiet he is for a wetlander. Ituralde checks in on [[Zaida din Parede Blackwing]], who assures him that the [[Atha'an Miere]] are channeling into the [[Bowl of the Winds]] to keep the storms from ripping their armies apart. Ituralde has his men set up a series of deadly traps throughout the valley of Thankan'dar for the Trolloc army. Since Maradon he finds that his hand shakes uncontrollably, but now lusts for as much death as he can cause the opposition. Ituralde's traps finally break the invading army and they retreat back for at least a day. Ituralde is determined to hold out as long as the Dragon needs him too.
+
+He is also manipulated by Graendal during the battle. But he realizes that he is under compulsion and willingly allows Elyas to take him captive. He is last seen by Loial protesting requests by a number of Aes Sedai to become king of Arad Doman. Loial privately predicted that he would cave to the pestering by the end of that day.
+
+{{notes}}
+{{DEFAULTSORT:Ituralde, Rodel}}
+
+[[es:Rodel Ituralde]]
+[[Category:Blademasters]]
+[[Category:Five Great Captains]]
+[[Category:POV character]]
+[[Category:Nobility]]

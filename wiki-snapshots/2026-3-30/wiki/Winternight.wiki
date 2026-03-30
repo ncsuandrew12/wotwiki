@@ -1,0 +1,22 @@
+{{dablink|For the chapter in ''[[The Eye of the World]]'' by the same name, see ''[[The Eye of the World/Chapter 5|Winternight]]''. For other uses of the words "winter" and "night," see [[Winter]] and [[Night]].}}
+{{Holiday
+ | title    = 
+ | image    = 
+ | type     = Holiday
+ | date     = Night before [[Bel Tine]], date determined locally
+ | location = [[Westlands]]
+ | aka      = 
+ | previous = [[Lamar Sol]]
+ | next     = [[Bel Tine]]
+}}
+'''Winternight''' is a holiday marking the end of winter. It is celebrated the night before [[Bel Tine]] and participants typically spend the night visiting one another, exchanging gifts, and eating and drinking together.{{ref/book|c|Winternight}}
+
+==The Winternight attack==
+In [[998 NE]], Winternight held special and tragic significance for the village of [[Emond's Field]] in the [[Two Rivers]], when [[Trollocs]] and at least one [[Myrddraal]] attacked, searching for the youth that would become the [[Dragon Reborn]].{{ref/book|1|5}} Their attack failed due both to the customs of Winternight in the Two River's area, and to the fortuitous presence of an [[Aes Sedai]], [[Moiraine Damodred]], and her [[Warder]], [[Lan Mandragoran]]. The pair had come to the Two Rivers region in search of the same young man, and following the attack took several young residents of the village away for their own protection, although many villagers, fearing the Aes Sedai of their stories and legends, were suspicious of their true motives.{{ref/book|1|10}}
+
+== In the television series ==
+*{{TVlink|Winternight}} on {{TVlink}}
+
+{{notes}}
+[[es:Noche de Invierno]]
+[[Category:Holidays]]

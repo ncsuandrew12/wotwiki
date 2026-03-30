@@ -1,0 +1,51 @@
+{{ character 
+| image=Bain.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| birth={{ne|981}}
+| society=Far Dareis Mai
+| affiliation=Car'a'carn
+| clan=Shaarad
+| sept=Black Rock
+| occupation=Gai'shain
+| height=5'8½"
+| hair=Fiery red
+| eyes=Dark blue
+| status=Alive
+| appeared={{tdr|38}}
+| lastappeared={{amol|44}}
+| living=amol
+}}
+'''Bain''' is a [[Maiden of the Spear]] of the [[Black Rock]] [[sept]] of the [[Shaarad]] [[Aiel]]. She is bonded as a [[first-sister]] to [[Chiad]].
+
+== Appearance ==
+Bain is tall, with fiery red hair and dark blue eyes. She is taller than Chiad. She has sun-darkened skin and short-cropped hair.
+
+== Activities ==
+=== Tear ===
+She meets [[Egwene al'Vere]], [[Elayne Trakand]], and [[Nynaeve al'Meara]] on their way to [[Tear]]. She leads them to [[Dailin (maiden)|Dailin]] who has been injured.{{ref/book|3|38}} They reveal they are searching for "He Who Comes With the Dawn". She is one of the Aiel present when the [[Stone of Tear]] falls.
+
+=== The Two Rivers ===
+She leaves with [[Zarine ni Bashere t'Aybara|Faile Bashere]] when she goes to the [[Two Rivers]] to meet the [[Children of the Light|Whitecloaks]].{{ref/book|4|18}} She arrives with Faile and the [[Deven Ride]] men when the [[Trolloc]]s were attacking [[Emond's Field]].
+
+She accompanies Faile when she goes with Perrin to meet [[Rand al'Thor]] in [[Caemlyn]]. She is Rand's guard when he is taken by the [[White Tower]] [[Aes Sedai]].
+=== Made ''gai'shain'' ===
+[[File:Bain and Chiad by googoolini.jpg|thumb|left|200px|Pencil sketch of Bain and Chiad by Googolini]]She then moves out with Perrin and Faile when they [[Traveling|Travel]] to [[Ghealdan]] to track down [[Masema Dagar]].
+While out hunting, she is captured by the [[Shaido]] and made ''[[gai'shain]]''.
+[[File:Wot gaul chaid bain by reddera-d4rxvmq.jpg|thumb|308x308px|Bain with Chiad and Gaul by Ariel Burgess, Official Wheel of Time Artist]]
+
+
+She helps [[Arrela Shiego]] and [[Lacile Aldorwin]] escape the Shaido camp but refuses to escape herself.
+She and Chiad help Faile by making sure a captive [[Dairaine Saighan]] doesn't run to [[Sevanna]] to inform her of Faile's planned escape.
+
+During the [[Battle of Malden]], [[Gaul]] rescues Chiad but kills the man who had Bain as his ''gai'shain''. They now both serve him. She recovers some clothing of [[Rolan]], [[Kinhuin]], and [[Jhoradin]] so that Faile can carry out a funeral service for the fallen men.
+
+Bain offers Gaul some freshly sharpened spears the day of Perrin's trial. She Travels through with Perrin and the rest of his huge force to the [[Field of Merrilor]] to prepare for the [[Last Battle]]. Bain and Chiad watch Gaul leave through the gateway with Perrin, in their attempt to stop [[Slayer]].
+
+==In the television series==
+In the television series, {{TVlink|Bain}} is played by actress {{TVlink|Ragga Ragnars}}.
+
+{{notes}}<references />
+{{Primary Protagonists}}
+[[Category:POV character]]

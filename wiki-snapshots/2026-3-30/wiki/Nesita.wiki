@@ -1,0 +1,36 @@
+{{ character 
+| image=RedBlack.png
+| imagesize=250px
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=Black Ajah
+| rank=Aes Sedai
+| eyes=Blue
+| build=Plump
+| status=Alive
+| appeared={{kod|24}}
+| lastappeared={{tgs|18}}
+| lastmentioned={{tgs|e}}
+| living=tgs
+}}'''Nesita''' is an [[Aes Sedai]] of the [[Red Ajah]], who is also secretly a member of the [[Black Ajah]].{{ref|{{twotc}}, Nesita}}
+
+== Abilities ==
+She stands higher than average in the Aes Sedai hierarchy, being able to create a suitable [[gateway]] on her own<ref>This is implied by the fact Nesita was sent to collect tributes in all the Borderlands, and it is unlikely there was with her a Sister able to Travel, who accompanied her to open gateways any time she needed it (so a Sister standing above Nesita, who was unable to do the same on her own)</ref>, which implies to be above level {{opsl|28}}.
+
+== Appearance ==
+She is plump and blue eyed and as mean as a snake with an itch.
+
+== Activities ==
+She is sent to collect tributes for [[White Tower|Elaida a'Roihan's White Tower]] and collected a tribute from [[Aesdaishar]] in [[Chachin]]. [[Ashmanaille]], sent by the [[Rebel Aes Sedai]] to do exactly the same thing, was told by the [[shambayan]] that the Tower had already collected its tributes, and deduced that the sister from Elaida's Tower was Nesita.
+
+She is one of the Red Ajah who follows [[Egwene al'Vere]] around the [[White Tower]] and feeds her [[forkroot]]. When Egwene tried to refuse the tea, Nesite helped pour it down her throat with a funnel.
+
+In [[Verin Mathwin]]'s book given to Egwene, Nesita is listed as a member of the [[Black Ajah]].
+
+{{notes}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]

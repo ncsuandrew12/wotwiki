@@ -1,0 +1,14 @@
+'''Hamarea''' was a kingdom of the [[Third Age#Free Years|Free Years]]. It was founded after the end of the [[Trolloc Wars]], and was established on the former territory of [[Almoren]]. It was later absorbed by the growing might of [[Artur Hawkwing's Empire]]. Hamarea was counted as one of the most militarily powerful nations of its day, despite its small size and remoteness. The lands it once held are now partially controlled by [[Cairhien]], but are mostly wilderness.
+
+==Geography==
+[[Image:Hamarea.png|thumb|right|200px|In red location within the Westlands]]
+
+Hamarea stretched from the [[River Erinin]] in the north to the [[River Gaelin]] in the south, and was bordered by the [[Spine of the World]] to the east and the major southern tributary of the Erinin to the west. It lay on either side of the eastern half of the mountain range known as [[Kinslayer's Dagger]]. Its neighbors were [[Rhamdashar]] to the north, [[Ileande]] to the west, and [[Tova]] to the south. The [[Aiel Waste]] lay to the east.
+
+==History==
+Relatively little is known of Hamarea, save that it had a strong martial tradition and sent troops to fight the [[false Dragon]] [[Guaire Amalasan]] in the [[War of the Second Dragon]]. It was later conquered by [[Artur Paendrag Tanreall|Artur Hawkwing]] and made part of his empire. The [[Battle of Talidar]] was fought on Hamarean soil in {{Fy|987}}. During the [[War of the Hundred Years]] Hamarea's territory became divided between the growing kingdom of Cairhien in the south and [[Hardan]] in the north. After Hardan collapsed Cairhien attempted to absorb its territory, but was unable to hold it and retreated to the south of Kinslayer's Dagger.
+
+{{nations}}
+[[es:Hamarea]]
+[[Category:Nations of the Free Years]]
+[[Category:Historical nations]]

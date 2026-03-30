@@ -1,0 +1,25 @@
+{{character
+| image=CairhienFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| nationality=Cairhienin
+| title=
+| occupation=Boatmen
+| affiliation=
+| gender=Male
+| hair=Gray
+| appeared={{loc|54}}
+| mentioned={{loc|54}}
+| lastappeared={{loc|54}}
+| lastmentioned={{loc|54}}
+| living=loc
+}}
+
+'''Manal''' is a man who lives in the city of [[Cairhien]]. He works as a ferryman. He is stout and has gray hair.
+==Activities==
+When [[Perrin]] and company wish to cross the River [[Alguenya]] on the second day of the [[Feast of Lights]] in order to rescue Rand from the Aes Sedai who have captured him, Manal is reluctant to leave the festivities.
+
+When Perrin approaches him, he is on his deck and has a gray-haired, minor noblewoman sitting on his knees. Perrin offers him three gold crowns to ferry them across the river; Manal licks his lips and says that he will have to find oarsmen. Perrin adds two more gold crowns. When he sees the added money, Manal drops the woman and scrambles up the ramp.
+[[Category:Short pages]]
+[[Category:Ferrymasters]]

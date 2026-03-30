@@ -1,0 +1,21 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=aldonel
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| status=Alive
+| appeared={{teotw|1}}
+| lastappeared={{teotw|1}}
+| lastmentioned={{tom|20}}
+| living=tom
+}}
+'''Mistress al'Donel''' is a [[Two Rivers]] resident.
+
+== Activities ==
+She complains to [[Bran al'Vere]] about the absence of storks at Bel Tine.{{ref/book|1|1}} In the illusion created by the [[oval ring]] during [[Nynaeve al'Meara]]'s testing, Mistress al'Donel is one of the people who plead with Nynaeve to help them.{{ref/book|13|20}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Al'Donel, Mistress}}<!----Please leave the "A" capitalized for proper sorting.--->

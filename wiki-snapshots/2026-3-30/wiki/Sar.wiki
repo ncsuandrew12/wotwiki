@@ -1,0 +1,19 @@
+{{ character 
+| image=ShienarFlag.png
+| imagesize=250px
+| status=Dead
+| death={{ne|999}}
+| nationality=Shienaran
+| gender=Male
+| hair=Topknot
+| mentioned={{tfoh|40}}
+| lastmentioned={{tfoh|40}}
+}}
+'''Sar''' was a warrior from [[Shienar]]. 
+
+== Activities ==
+He was one of the twenty Shienarans picked to accompany [[Ingtar Shinowa]] and [[Rand al'Thor]] on the hunt for the [[Horn of Valere]].
+
+He wintered in the Mountains of Mist with Perrin and Rand; after Rand left and the Shienarans were abandoned to make their own way, he fell off a cliff in the [[Mountains of Mist]] and died.{{ref/book|c|Sar}}{{ref/book|5|40}}
+
+{{notes}}

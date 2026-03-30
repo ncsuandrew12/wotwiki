@@ -1,0 +1,37 @@
+{{character
+| name=Hessalam
+| image=Snake-icon.svg
+| imagesize = 125px
+| rank=Chosen
+| eyes=Pale, off-center
+| hair=Thin
+| gender=Female
+| status=Alive
+| appeared={{amol|p}}
+| lastappeared={{amol|48}}
+| living=amol
+}}
+'''Hessalam''' is the name given to [[Graendal]] after resurrection.
+
+Graendal is killed and resurrected for her failure. When she is next seen, she is hideously disfigured and astonishingly ugly; [[Moridin]] introduces her as Hessalam, ''without forgiveness'' in the [[Old Tongue]], and says her old name is not to be spoken of again. 
+
+== Appearance ==
+She has unpleasant features with a hooked and bulbous nose. She has pale eyes which are off-center with each other, and very thin hair. In all the opposite of what Greandal was. Hessalam greatly resents Moridin for her new aspect.
+
+== Activities ==
+Moridin gathers the last of the [[Forsaken|Chosen]] within one of his [[dreamshards]]. Moridin reveals to Hessalam a new member of the Chosen, a male who is called [[M'Hael]]. Moridin then demands that all other plots and plans by the Chosen are to be concluded and that they are to unite for the [[Tarmon Gai'don|Last Battle]] against the forces of the Light. 
+
+Hessalam accompanies M'Hael to the [[Black Tower]], where she brings some of the [[Black Ajah]] to assist in [[Turning]] men and women to the [[Shadow]]. [[Androl Genhald]] manages to free himself and call for reinforcements. A group of followers loyal to [[Logain Ablar]] burst in and attack her group. The dreamspike within the Black tower is deactivated which allows Androl to create gateways in front of Hessalam's group as they channel, and open it behind them, destroying many of them. Hessalam, M'Hael and the rest of his group still alive flee the Black Tower for good. 
+
+While [[Perrin Aybara|Perrin]] was in the [[Tel'aran'rhiod|wolf dream]] physically, he observed her manipulating the [[Great captain|Great Captains]] to lead the battles to ruin. However, she noticed him and lashed out in anger, blaming him more than anyone else for her failure.{{ref/book|14|p}} Hessalam throws [[Balefire]] at Perrin, which he manages to block. The two fight, each manipulating ''Tel'aran'rhiod'' to get the upper-hand. Perrin imagines [[Forkroot]] in her mouth. Hessalam creates a gateway and escapes through it before Perrin can defeat her. Hessalam fights with [[Duhara Basaheen]] and [[Falion Bhoda]]. At Shayol Ghul she continually weaves balefire at [[Aviendha]] and her group. Aviendha manages to get behind her and attack. Hessalam Travels to safety via the True Power before she is harmed. However, Duhara and Falion are killed in the attack.
+She is later confronted by Aviendha, [[Amys]], [[Cadsuane Melaidhrin|Cadsuane]], and a handful of other women channelers at [[Shayol Ghul]]. Aviendha, enraged at Hessalam for causing her to kill [[Rhuarc]] and making him a tool, attacks her with spears of light and fire. As Aviendha hits her in the side, Hessalam [[Traveling|Travels]] elsewhere in Shayol Ghul, bringing Aviendha with her.{{ref/book|14|42}}
+
+Exhausted, she manages to [[Shielding|shield]] Aviendha, but not before she ties off a gateway, hoping to signal Amys of her whereabouts. Soon, Hessalam drops the shield and they both lay exhausted. As Aviendha begins to [[Unweaving|unweave]] her gateway, Hessalam prepares to [[Compulsion|Compel]] her. In her haste, Aviendha picks the wrong thread, causing the gateway to explode. The explosion is not strong enough to kill either of them, but the broken threads of the gateway hit the weaves for Hessalam's Compulsion, causing it to backfire on her. 
+
+She is shown to worship Aviendha and is not seen again after having carried Aviendha back to the camp for [[Healing]].
+
+==Talents, Abilities, Personality, Trivia==
+To read more about Hessalam's talents, personality, abilities and trivia, see [[Graendal]].
+{{notes}}
+[[Category:POV character]]
+[[Category:Antagonists]]

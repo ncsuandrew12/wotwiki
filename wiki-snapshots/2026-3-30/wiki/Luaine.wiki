@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| hair=Yellow
+| society=Far Dareis Mai
+| clan=Unknown clan
+| sept=Unknown sept
+| gender=Female
+| status=Alive
+| mentioned={{tdr|39}}
+| lastmentioned={{loc|53}}
+| living=loc
+}}'''Luaine''' is an [[Aiel]] [[Maiden of the Spear]].{{ref|{{twotc}}, Luaine}}
+
+==Appearance==
+Luaine is a young woman with yellow hair.{{ref/book|6|53}}
+
+==Activities==
+After [[Elayne Trakand]], [[Nynaeve al'Meara]], and [[Egwene al'Vere]] had been abducted by [[Adden]], [[Aviendha]] found Luaine and [[Dhael]] and rescued the women.{{ref/book|3|39}} Some time later, when [[Rand al'Thor]] was kidnapped by the [[White Tower]] [[Aes Sedai]], [[Sulin]] sends Luaine to find [[Nandera]] and [[Rhuarc]] so that they could help find him.{{ref/book|6|53}}
+
+{{Notes}}

@@ -1,0 +1,35 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| eyes=Piercing
+| hair=Fiery
+| status=Alive
+| clan=Daryne
+| sept=Unknown sept
+| appeared={{tpod|9}}
+| lastappeared={{kod|29}}
+| living=kod
+}}'''Carelle''' is [[Wise One]] of the [[Daryne]] [[Aiel]].{{ref|{{twotc}}, Carelle}}
+
+==Appearance==
+She has fiery hair, piercing blue eyes and is very pretty. She is around 5'9" (175 cm) tall.
+
+==Strength and Abilities==
+Carelle can [[channel]] quite strongly. In TWoTC her strength level is described as {{opsl|24}}, the same level of [[Coiren]] and [[Corele]], which is a high ranking level among [[Aes Sedai]].
+
+This strength is more than enough to open alone a gateway for [[Travel]]ing.
+
+==Activities==
+She [[Traveling|Travels]] to [[Ghealdan]] with [[Perrin Aybara]] to keep an eye out on [[Seonid Traighan]] and [[Masuri Sokawa]].
+
+She goes with Perrin to his meeting with Masema in [[Abila]].
+
+In the making of ''[[Mah'alleinir]]'' by Perrin he is helped with the [[One Power]] provided by [[Neald]], [[Grady]] and all six the Wise Ones in his camp.
+
+Later it can be assumed that she stays along [[Edarra]] with Perrin's forces in the [[Field of Merrilor]] to prepare for the [[Last Battle]] and then she fights in their campaigns.
+
+{{notes}}

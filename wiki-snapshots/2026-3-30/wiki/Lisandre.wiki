@@ -1,0 +1,24 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Arafel
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| height=Tall
+| hair=Long, golden
+| status=Alive
+| appeared={{ns|6}}
+| lastappeared={{ns|6}}
+| living=ns
+}}
+'''Lisandre''' was a [[novice]] in the [[White Tower]] during the [[Aiel War]]. She was from [[Arafel]].
+
+== Appearance ==
+She was tall with golden hair spilling down her back.
+
+== History ==
+[[Moiraine]] thought that Lisandre would be allowed to test for [[Accepted]] but only if she would be able to cure her sulkiness.
+
+== Speculation ==
+Because twenty years have passed, it can be assumed that Lisandre is now a full sister or was sent away from the Tower.

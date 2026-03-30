@@ -1,0 +1,82 @@
+{{summary | book=13 |
+|chapter=38
+|title=Wounds
+|icon=Snake
+|setting=[[Tel'aran'rhiod]], [[wolf dream]], [[Ghealdan]], [[Whitebridge]]
+}}
+
+==Summary==
+
+:{{pov|[[Egwene al'Vere]]}}
+The fight continues in earnest in the [[White Tower]]. [[Egwene al'Vere|Egwene]] shifts to a room to the side of a group of [[Black Ajah]] and pulls it down on them. [[Evanellein Lorn]] is killed in the collapse. Egwene drops just as she feels channeling behind her and spots [[Mesaana]] draped in her cloak of blackness behind her. [[Bair]] rushes past draped in ''[[Cadin'sor]]''. Egwene takes note of [[Perrin Aybara]]'s presence and how strong he was, as well as Bair, who cannot channel. She is reminded that ''[[Tel'aran'rhiod]]'' is all about will. Egwene shifts to another location and spots [[Nicola Treehill]] hiding. Egwene goes to help her when the ground underneath Nicola is ripped to shreds, killing Nicola with the devastation. A blast shoots towards Egwene, but [[Melaine]] creates a wall in front of Egwene. They both shift to another area and observe [[Alviarin Freidhen]] and [[Ramola]]. Egwene sees a room behind them and plans to ambush them as she did the previous two sisters. She then remembers what Bair had told her about being too predictable. She shifts into the room and prepares for Mesaana to appear. She appears and quickly throws some weaves at Egwene, surprised. Egwene believes that the weaves won't hit her and then throws a spear at Mesaana. Mesaana tries to block the spear with [[Air]] but Egwene believes it won't slow down, and it impales the woman in the neck. The darkness is whipped away and reveals [[Katerine Alruddin]]. Egwene is sure Katerine is not Mesaana when she feels an ''[[A'dam]]'' snap around her neck. Mesaana stands beside triumphant. Egwene stifles down terror at being captured, just like they had [[Moghedien]]. Mesaana asks about the [[dreamspike]]. Egwene refuses to answer and Mesaana starts to torture her through the ''a'dam''. Egwene refuses to bend to the pain and believe the ''a'dam'' is even real. It falls off her neck. The two stare at each other trying to impose their will on the other. Egwene will not bend, she is the [[Amyrlin Seat]] of the [[White Tower]]. The White Towers legacy has spanned thousands of years and will continue long after Mesaana has gone. She feels something snap and Mesaana drops to the ground, her eyes unfocused. Egwene takes Mesaana and shifts to where her group are holding out. They are incredulous that Egwene managed to defeat one of the [[Forsaken]], but Bair recognizes the state that Mesaana is in. While she is still alive, her mind is broken and she can no longer carry out even the simplest of matters. Egwene reports that the rest of the Black Ajah have fled. She thanks the [[Wise One]]s for their assistance and they all leave ''tel'aran'rhiod''.
+
+:{{pov|[[Perrin Aybara]]}}
+Perrin stumbles through a dream of [[Tarmon Gai'don]]. [[Dragonmount]] is erupting destroying the land. Perrin refuses to let himself be drawn into the dream. He finds [[Slayer]] struggling to gain control. Perrin imagines a rift opening under Slayer and Slayer slips, hanging onto the ledge. Perrin imagines himself as [[Azi al'Thone]] and that he is trying to help someone beside Slayer hanging off the ledge. Slayer grabs hold of Perrin and as he pulls himself up, Perrin grabs the dreamspike. He makes a knife in his other hand and stabs Slayer in the stomach. Perrin can feel the dream about to burst. He pictures a river of lava and throws the ''[[Ter'angreal]]'' into it. The dream finally bursts revealing the destroyed dreamspike and the normal dream around them. The purple dome disappears. Slayer strides forward kicking Perrin several times. As he starts to lose consciousness he hears [[Hopper]] speak to him one last time. He tells him to flee and seek out [[Noam]]. The mind winks out for good and Perrin flees.
+
+:{{pov|[[Egwene al'Vere]]}}
+Egwene awakes to the scene of a massacre. She spots [[Gawyn Trakand]] laying on the floor, severely wounded. He asks why the lamps are still on and she tells him she never got his message. Egwene realizes that if Gawyn hadn't returned she would have been assassinated and Mesaana would still be free. Egwene does the only thing she can to save Gawyn and [[Bond]]s him as her [[Warder]], swearing that this is what she wants.
+
+:{{pov|[[Perrin Aybara]]}}
+Perrin awakes weeping. [[Masuri Sokawa]] stands above him and Heals his wounds. [[Zarine ni Bashere t'Aybara|Faile]] tells him the gateways are working now and that just about everyone is through. Perrin believes that an army is coming for them and they must leave now. Perrin tells Faile that he lost Hopper for the second time. As he emerges from the tent, he receives a salute from the ''[[Far Dareis Mai]]''. The last of the army finally step through the gateway avoiding whatever trap there was out there.
+
+:{{pov|[[Graendal]]}}
+[[Graendal]] sits with Slayer kneeling before her. She orders the trap to be sprung anyway.
+
+==Characters==
+*[[Egwene al'Vere]]
+*[[Evanellein]]
+*[[Mesaana]]
+*[[Amys]]
+*[[Perrin Aybara]]
+*[[Nicola Treehill]]
+*[[Melaine]]
+*[[Alviarin Freidhen]]
+*[[Ramola]]
+*[[Katerine Alruddin]]
+*[[Nynaeve al'Meara]]
+*[[Siuan Sanche]]
+*[[Leane Sharif]]
+*[[Bair]]
+*[[Slayer]]
+*[[Hopper]]
+*[[Gawyn Trakand]]
+*[[Masuri Sokawa]]
+*[[Edarra]]
+*[[Chiad]]
+*[[Jur Grady]]
+*[[Fager Neald]]
+*[[Gaul]]
+*[[Elyas Machera]]
+*[[Faile Bashere]]
+*[[Graendal]]
+
+===Referenced===
+*[[Saerin Asnobar]]
+*[[Moghedien]]
+*[[Shevan]]
+*[[Carlinya]]
+*[[Semirhage]]
+*[[Sammana]] Wise One Dreamer
+*[[Azi al'Thone]]
+*[[Boundless]]
+*[[Moridin]]
+
+==Places==
+*''[[Tel'aran'rhiod]]
+*[[Wolf Dream]]
+*[[Ghealdan]]
+*[[Whitebridge]]
+
+===Referenced===
+*[[Tar Valon]]
+*[[Dragonmount]]
+*[[Two Rivers]]
+*[[Emond's Field]]
+*[[Blight]]
+*[[Shara]]
+
+==Items==
+*[[Dreamspike]]
+*[[Dream ter'angreal|Dream ''ter'angreal'']]
+
+{{DISPLAYTITLE:''Wounds''}}

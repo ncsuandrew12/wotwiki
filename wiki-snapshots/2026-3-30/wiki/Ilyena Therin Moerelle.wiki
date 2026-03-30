@@ -1,0 +1,34 @@
+{{character 
+| image=Ilyena Therin Moerelle.jpg
+| imagesize=250px
+| status=Dead
+| gender=Female
+| hair=Golden
+| mentioned={{teotw|Prologue}}
+| lastmentioned={{tgs|50}}
+| ewothist=ilyena
+|eyes = Blue}}
+'''Ilyena Moerelle Dalisar''', nicknamed "Ilyena Sunhair" because of her red-gold tresses, was a woman of the [[Age of Legends]]. Her name changed to '''Ilyena Therin Moerelle''' after she married [[Lews Therin Telamon]]. She was once desired by [[Demandred]] according to Lews Therin in Rand's head.
+
+According to Lews Therin's memory in Rand's head, she had a pretty face, skin like cream, golden hair exactly the shade of Elayne's. Her eyes were blue.
+
+Very little is known about her other than that she was Lews Therin's wife during the Age of Legends and that she loved conversations and hosting guests. She was most certainly someone extraordinary, since she bore three names, but what she did to achieve the prized third name is not known. She was killed along with all of her children by Lews Therin when he went mad, earning him the epithet of "[[Lews Therin Telamon#Titles|Kinslayer]]." 
+
+It is possible that Ilyena's death scarred Lews Therin so deeply that an echo of this memory manifests in Rand al'Thor's own obsession with remembering the faces and names of those women who died in service to him or because of his actions. 
+
+Ilyena is regarded with a murderous jealousy by [[Lanfear]], who was Lews Therin's lover before Ilyena had come into his life.
+
+==Third Age==
+[[Elayne Trakand]], one of the lovers of [[Rand al'Thor]], the [[Dragon Reborn]] and thus a reincarnation of Lews Therin, bears significant resemblance in both name and appearance to Ilyena. It is unknown if she is a literal reincarnation of Ilyena.
+Lanfear herself sees the resemblance in appearance and circumstance, and her hate for Ilyena carries over to Elayne. Similarly, Rand al'Thor's other lovers have names similar to Ilyena's ([[Aviendha]] and [[Min Farshaw|Elmindreda]]), though no physical resemblance is noted.
+
+==Parallels==
+Ilyena is a variation of the name Elaine, which corresponds to several different women in Arthurian legend. Most of these women had connections to royalty or nobility. 
+<references group="The Fire of Heavens, Chapter 54" />
+{{DEFAULTSORT:Therin, Ilyena Moerelle}}
+
+[[es:Ilyena Therin Moerelle]]
+[[Category:Age of Legends (people)]]
+[[Category:Historical people]]
+[[Category:Aes Sedai (Age of Legends)]]
+[[Category:Channelers]]

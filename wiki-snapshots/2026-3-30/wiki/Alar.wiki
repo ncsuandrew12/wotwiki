@@ -1,0 +1,19 @@
+{{character
+| image=tree-icon.svg
+| imagesize=125px
+| rank=Elder
+| title=Eldest
+| appeared={{tgh|36}}
+| lastappeared={{loc|20}}
+| living=loc
+| gender=Female
+| status=Alive
+| race=Ogier
+}}{{for|the similarly named Ogier|Ala}}
+'''Alar''' is an [[Ogier]] [[Elder]] of [[Stedding Tsofu|''Stedding'' Tsofu]]. She is the Eldest of the Elders. She is very old. She is the grandmother of [[Erith]] and mother of [[Iva]].
+
+== Activities ==
+She lets [[Rand al'Thor]] and his group use the [[Waygate]] outside ''Stedding'' Tsofu, although very reluctantly.{{ref/book|2|36}}
+
+{{notes}}
+{{short}}

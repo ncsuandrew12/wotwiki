@@ -1,0 +1,23 @@
+{{ character 
+| image=KandorFlag.png
+| imagesize=250px
+| nationality=Kandori
+| occupation=Maid
+| gender=Female
+| build=Plump
+| hair=Gray
+| status=Alive
+| appeared={{ns|24}}
+| lastappeared={{ns|24}}
+| living=ns
+}}
+'''Aiko''' is a maid in the [[Aesdaishar Palace]] in [[Chachin]].
+
+==Appearance==
+She is plump with gray hair.
+
+==History==
+Aiko is one of the maids assigned to [[Moiraine Damodred]] when she comes to the Aesdaishar Palace.{{ref/book|0|24}}
+
+{{notes}}
+{{short}}

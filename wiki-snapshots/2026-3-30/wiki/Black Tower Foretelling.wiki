@@ -1,0 +1,35 @@
+{{Theory}}
+{{dablink|For other uses of the words "black" and "tower," see [[Black]] and [[Tower]].}}
+The '''Black Tower Foretelling''' is a [[Foretelling]] experienced by [[Elaida do Avriny a'Roihan]] with [[Alviarin Freidhen]] present. The Foretelling is interpreted by Elaida as predicting Elaida's ultimate triumph in her skirmishes against the [[Rebel Aes Sedai]] and the [[Black Tower]], but in reality it is a foretelling of the triumph of her enemies.
+
+==The Foretelling==
+{{quote|The White Tower will be whole again, except for remnants cast out and scorned, whole and stronger than ever. Rand al'Thor will face the Amyrlin Seat and know her anger. The Black Tower will be rent in blood and fire, and sisters will walk its grounds. This I Foretell.|Elaida do Avriny a'Roihan{{ref/book|7|p}}}}
+
+==Analysis==
+:''What follows is an analysis of what the prophecy could mean using generally accepted fan-based theory, bulleted in order of most likely to least likely''
+
+===''"The White Tower will be whole again,..."''===
+*Fulfilled - [[Egwene al'Vere]] was successful in becoming [[Amyrlin Seat]] in the White Tower and reuniting it with the rebels after Elaida's capture by the [[Seanchan]].{{Ref/book|12|46}}
+
+===''"...except for remnants cast out and scorned,..."''===
+
+*Fulfilled - Egwene al'Vere, through the efforts of [[Verin Mathwin]], captured and beheaded many of the [[Black Ajah]] sisters in both the rebel camp{{Ref/book|12|45}} and the [[White Tower]], and those not captured fled.{{Ref/book|12|e}}
+
+===''"...whole and stronger than ever."''===
+
+*Fulfilled - Egwene's deeds as Amyrlin arguably reforged the Tower significantly stronger than it was, especially during the regime of her predecessor, Elaida do Avriny a'Roihan. Egwene, [[Elayne Trakand]], and [[Nynaeve al'Meara]] are three of the most powerful Aes Sedai of their time, and many recruits display similar strength. Also, Egwene forged new alliances with the [[Aiel]], the ''[[Atha'an Miere]]'', the [[Kin]], and with the Black Tower and opened the [[novice book]] to all ages. The latter would increase the numbers in the White Tower by hundreds.
+
+===''"Rand al'Thor will face the Amyrlin Seat and know her anger."''===
+
+*Fulfilled - [[Rand al'Thor]] may "know the Amyrlin Seat's anger" when he confronts her on the [[Field of Merrilor]] and she attempts to stop him from destroying the remaining [[seals]] of the [[Dark One]]'s prison.{{Ref/book|13|3}} This could also reference his meeting with the Amyrlin Seat in the Tower due to the chapter name, [[The Amyrlin's Anger]].
+
+===''"The Black Tower will be rent in blood and fire,..."''===
+
+*Fulfilled - The [[Asha'man]] loyal to [[Mazrim Taim]] battle those loyal to [[Logain Ablar]] and Rand. {{Ref/book|13|56}}
+
+===''"...and sisters will walk its grounds.''"===
+
+*Fulfilled - After the battle, the Aes Sedai delegation led by [[Lyrelle Arienwin]] enter the Black Tower to [[bond]] forty-seven Asha'man.{{Ref/book|9|p}} This could also be an oblique reference to the Aes Sedai captured and bonded by Logain and others.
+
+{{Notes}}
+[[Category:Foretellings]]

@@ -1,0 +1,23 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Thug
+| affiliation=Darkfriend
+| gender=Male
+| build=Muscular
+| hair=Black
+| eyes=Beady
+| appeared={{Acos|17}}
+| lastappeared={{acos|17}}
+| living=acos
+}}'''Nad''' is a thug who worked for [[Falion Bhoda]] and [[Ispan Shefar]].{{ref|{{twotc}}, Nad}}
+
+== Appearance ==
+He has black hair and beady eyes and scars. He is very muscular, but unintelligent.
+
+== Activities ==
+He is told to dispose the body of a [[Wise Woman]] killed by Falion. When his friend [[Arnin]] questions her he is thrown against the back wall by Falion with the [[One Power]], causing Nad to apologize on both their behalf.
+
+{{notes}}

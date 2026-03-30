@@ -1,0 +1,8 @@
+{{for|the inn in Tear|The Golden Cup}}
+The '''Inn of the Golden Cup''' is an inn in [[Tanchico]]. It is owned by a man named [[Borman]].
+
+==Appearance==
+The Inn of the Golden Cup is a high-end establishment catering to wealthy merchants. It is a stately old building of white stone, set to overlook the Hall of the [[Assembly of Lords|Assembly]] on one side, and Tanchico Bay on the other. Many blocks from the Great Circle, it seems removed from the clamor of clouds that dominate Tanchico.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Inns]]

@@ -1,0 +1,29 @@
+{{ character 
+| image=Lopin-ai-gemini-2.5flash.png
+| nationality=Tairen
+| occupation=Servant
+| affiliation=Band of the Red Hand
+| gender=Male
+| build=Stout
+| hair=Balding
+| status=Dead
+| death={{ne|1000}}
+| appeared={{loc|44}}
+| lastappeared={{tom|9}}
+| lastmentioned={{tom|e}}
+}}
+'''Lopin''' was the servant of [[Nalesean Aldiaya]]. 
+
+== Appearance ==
+He had dark skin, a fat gut, and was balding. He had a blocky face, was stout, and had a beard that nearly reached his chest.
+
+== Activities ==
+He was always complaining about [[Talmanes Delovinde]]'s servant [[Nerim]]. He was with the [[Redarms]] when they traveled to [[Ebou Dar]]. After Nalesean's death, [[Matrim Cauthon]] took Lopin to be his servant along with Nerim.
+ 
+He then stayed in the [[Tarasin Palace]] with Mat and began to transfer Mat's clothes and all his money back into the [[Wandering Woman]]. Mat sent Lopin and Nerim to collect all the stored money and meet him outside the city when Mat carried out his plan of escaping with the captive [[Aes Sedai]].
+
+He then caught up with Mat and traveled in [[Valan Luca's Traveling Show]] as cover for their escape.
+
+After the Band set up camp a league outside [[Caemlyn]], Lopin was murdered by the ''[[gholam]]'' that was hunting Mat. {{Ref/book|13|9}}
+
+{{Notes}}

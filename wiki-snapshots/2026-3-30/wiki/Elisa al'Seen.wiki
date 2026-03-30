@@ -1,0 +1,26 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=elisa alseen
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| hair=Gray
+| status=Alive
+| appeared={{tsr|32}}
+| lastappeared={{tsr|32}}
+| living=tsr
+}}
+{{dablink|For the sister of [[Egwene al'Vere]], see [[Elisa al'Vere]]. For others with the same surname, see [[al'Seen]].}}
+'''Elisa al'Seen''' is a [[Two Rivers]] resident and is married to [[Jac al'Seen]].
+
+== Appearance ==
+She has less gray in her hair than her husband. She has a lined and motherly face.
+
+== Activities ==
+Elisa greets [[Perrin Aybara]] when he comes to her family's farm. She was a friend of his mother, and mourns with him. She and her family offer him shelter from the Whitecloaks.{{ref/book|4|32}} 
+
+==Name Origin==
+Elisa could either be adapted from the common real-world name Elisabeth or '''Ellisande''', referring to Queen [[Eldrene ay Ellan ay Carlan]], the last Queen of [[Manetheren]].
+{{notes}}
+{{DEFAULTSORT:Al'Seen, Elisa}}<!--Please leave the "a" capitalized for sorting purposes-->

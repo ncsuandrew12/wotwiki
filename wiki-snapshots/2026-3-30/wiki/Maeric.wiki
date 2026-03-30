@@ -1,0 +1,26 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|1000}}
+| nationality=Aiel
+| gender=Male
+| affiliation=Sevanna
+| build=Blocky
+| clan=Shaido
+| sept=Moshaine
+| society=Seia Doon
+| status=Dead
+| appeared={{acos|p}}
+| lastappeared={{acos|40}}
+}}
+'''Maeric''' was an [[Aiel]] warrior who led the [[Moshaine]] [[Shaido]] ''[[Seia Doon]]''.
+
+== Appearance ==
+He had a blocky figure.
+
+== History ==
+He was married to [[Dyrele]] and had a son called [[Darin]] and a daughter called [[Suraile]].
+
+== Activities ==
+He had aspirations of traveling to [[Rhuidean]] to become the next [[clan chief]] of the Shaido. He fought in the [[Battle of Dumai's Wells]]. He, with part of his sept, were dispersed through a [[Gateway]] near the Plains of [[Maredo]]. He ran into one of [[Rand al'Thor]]'s forces and probably didn't survive the exchange.
+[[Category:POV character]]

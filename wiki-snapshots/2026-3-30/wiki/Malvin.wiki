@@ -1,0 +1,22 @@
+{{character
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| rank=Under-lieutenant
+| occupation=Soldier
+| affiliation=White Tower
+| gender=Male
+| appeared={{Ns|5}}
+| lastappeared={{ns|5}}
+| living=ns
+}}
+'''Malvin''' was an [[under-lieutenant]] of the [[Tower Guard]] during the [[Aiel War]].
+
+==Appearance==
+He is a sour-faced young man.
+
+==History==
+Malvin greets [[Siuan Sanche]] and [[Moiraine Damodred]] as they return to the stables after searching for the child who may be the Dragon Reborn. He is angry because he did not get to go fight the Aiel. {{ref/book|0|5}}
+
+{{notes}}

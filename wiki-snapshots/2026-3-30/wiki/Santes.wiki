@@ -1,0 +1,25 @@
+{{character 
+| image= MayeneFlag.png
+| imagesize = 250px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Mayener
+| occupation=Thief-catcher
+| affiliation= Perrin Aybara
+| gender=Male
+| appeared={{wh|5}}
+| lastappeared={{wh|5}}
+| lastmentioned={{cot|25}}
+}}
+'''Santes''' is a thief-catcher from [[Mayene]].
+
+== Appearance ==
+Perrin thinks he is plainly dressed and so non-descript that you wouldn't notice him bumping into him in the street.{{Ref/book|9|5}}
+
+== Activities ==
+[[Berelain sur Paendrag Paeron]] brings him from Mayene to [[Cairhien]]. She uses him and his partner [[Gendar]], to find evidence linking [[Colavaere Saighan]] to the murders of [[Meilan Mendiana]] and [[Lord Maringil]].
+
+He later accompanies her to [[Ghealdan]] where she again uses his skills to spy on [[Masema Dagar]] by posing as [[Dragonsworn]]. While in Masama's camp, he steals a letter from [[Suroth Sabelle Meldarath]] addressed to Masema from his personal belongings. Berelain thinks he would have been wiser to memorise its contents than removing the letter, but that was not a fact that could be changed.{{Ref/book|10|6}}
+
+He is sent back into Masema's camp and never returns. It is assumed he was found out and killed.
+[[Category:Eyes-and-ears]]

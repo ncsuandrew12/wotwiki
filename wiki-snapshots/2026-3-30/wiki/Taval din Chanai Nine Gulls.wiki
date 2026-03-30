@@ -1,0 +1,23 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| ewot=Taval
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| status=Alive
+| appeared={{loc|32}}
+| lastappeared={{acos|34}}
+| living=acos
+}}
+'''Taval din Chanai Nine Gulls''' is of the [[Sea Folk]] and is [[Windfinder]] of the ''[[White Spray]]''. 
+
+== Appearance ==
+She is very young. She has three earrings in each ear.
+
+== Activities ==
+She is present when [[Harine din Togara Two Winds]] makes the Bargain with [[Rand al'Thor]], their [[Coramoor]].
+
+{{DEFAULTSORT:Chanai Nine Gulls, Taval din}}
+[[Category:Channelers]]

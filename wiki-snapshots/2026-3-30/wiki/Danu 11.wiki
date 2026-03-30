@@ -1,0 +1,17 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Danu}}
+|}
+'''Danu 11 (December 4)'''
+
+==Events==
+</noinclude>
+*{{ne|978}} - The morning after [[Elaida]]'s third session with [[Moiraine]] and [[Siuan]], [[Merean]] informs them that Elaida had possibly helped them to cheat on their test, and that she had been chastised for such help. 
+*{{ne|999}} - [[Mat]]'s party arrives at [[Ebou Dar]]. Mat takes a room at [[The Wandering Woman]]. 
+*{{ne|999}} - The girls go to the [[Tarasin Palace]] and talk with Queen [[Tylin Quintara Mitsobar]]. 
+<noinclude>
+==External links==
+*[[wikipedia:december 4|December 4]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

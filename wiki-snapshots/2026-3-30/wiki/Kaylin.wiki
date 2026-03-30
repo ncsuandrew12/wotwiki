@@ -1,0 +1,18 @@
+{{character
+| image=wheel-icon.svg
+| imagesize=100px
+| ewot=
+| status=Alive
+| nationality=Unknown nationality
+| title=
+| occupation=Servant
+| affiliation=
+| gender=Female
+| hair=
+| mentioned={{loc|36}}
+| living=loc
+}}
+'''Kaylin''' is a servant of some kind in the [[rebel Aes Sedai]]'s camp.
+
+[[Chesa]] refers to her and [[Nildra]] as gossips.
+[[Category:Short pages]]

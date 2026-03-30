@@ -1,0 +1,19 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|1000}}
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Sevanna
+| status=Dead
+| clan=Shaido
+| sept=Unknown sept
+| appeared={{Acos|p}}
+| lastappeared={{acos|p}}
+}}'''Dosera''' was a [[Wise One]] of the [[Shaido]] [[Aiel]].{{ref|{{twotc}}, Dosera}}
+
+== Activities ==
+She participated in the [[Battle of Dumai's Wells]] where she was killed by a wolf.
+
+{{notes}}

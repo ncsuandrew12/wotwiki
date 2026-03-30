@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| occupation=Gai'shain
+| affiliation=
+| height=
+| hair=
+| eyes=
+| status=Alive
+| clan=Unknown clan
+| sept=Unknown sept
+| mentioned={{tpod|9}}
+| lastmentioned={{tpod|9}}
+| living=tpod
+}}'''Gharadin''' is a man of the [[Shaido]] [[Aiel]] who was taken ''[[gai'shain]]'' at the [[Battle of Dumai's Wells]].{{ref|{{twotc}}, Gharadin}}
+
+== Activities==
+He now works in [[Perrin Aybara]]'s camp in [[Ghealdan]]. [[Seonid Traighan]] is sent by [[Edarra]] to see if he will accept [[Healing]] on a face scar he has.
+
+{{notes}}

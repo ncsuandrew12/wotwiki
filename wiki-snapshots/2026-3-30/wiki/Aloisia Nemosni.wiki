@@ -1,0 +1,34 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Unknown nationality
+| birth=c. {{ne|400}}
+| gender=Female
+| affiliation=The Kin
+| status=Alive
+| mentioned={{wh|10}}
+| occupation=Merchant
+| lastmentioned={{wh|10}}
+| living=wh
+}}
+'''Aloisia Nemosni''' is one of the [[Kin]]. She is only mentioned once in the series.{{Ref/book|9|10}}
+
+== Strength ==
+Aloisia's has a strength in the One Power of {{opsl|23}} or {{opsl|24}}. This is quite high by Aes Sedai standards and strong enough to Travel if she was taught the weave.{{ref|{{twotc}}, Aloisia Nemosni|Aloisia}}
+
+== History ==
+She was born shortly after the year {{ne|400}} and therefore is the oldest known living person in the series.{{Ref/book|9|10}}
+
+As with all the Kin, she would have been born and gone to the White Tower as a novice during the reign of [[Nirelle Coidevwin]]. In her lifetime, she has seen 25 Amyrlins come and go and several nations that emerged after the [[War of the Hundred Years]] dwindle and die.
+
+She is currently an oil merchant in [[Tear]], but would have followed many trades over the centuries.{{Ref/book|9|10}}
+
+==Activities==
+
+Aloisia is only mentioned in passing, but [[Elayne Trakand]] and [[Nynaeve al'Meara]] consider her as an extreme example of what might happen as a consquence of a much older woman swearing the [[Three Oaths]] were she to become Aes Sedai. She is almost double the life expectancy of the oldest known Aes Sedai and they consider the possibility that she might fall over dead immediately.{{ref/book|9|10}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Nemosni, Aloisia}}
+[[Category:Channelers]]
+[[Category:Novices]]

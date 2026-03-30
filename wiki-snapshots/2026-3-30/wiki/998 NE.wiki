@@ -1,0 +1,834 @@
+{{calnav}}
+
+{| class="grey" ||  || cellspacing="1" cellpadding="2"|
+|- bgcolor="#666666" valign="center" align="center"
+!Days<br />since<br />{{TEOTW|1}}!!Westland calendar!!Gregorian day!!Chapter #!!Event description!!Lunar phase
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| -3
+| Aine 5
+| Mar 20
+| {{teotw|1}}
+| [[Matrim Cauthon]] sees a [[Myrddraal]] just outside [[Emond's Field]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | -1
+| rowspan="2" | Aine 7
+| rowspan="2" | Mar 22
+| {{teotw|1}} - {{teotw|3}}
+| [[Perrin Aybara]] sees a Myrddraal at the edge of Emond's Field. [[Moiraine Damodred]] and [[Lan Mandragoran]] arrive in the village. [[Thomdril Merrilin]] arrives in the dead of night.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| colspan="3" bgcolor="#999999" align="center" | <cite id="book1"><big>'''Book 1: ''[[The Eye of the World]]'''''</big></cite>
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 0
+| Aine 8
+| Mar 23
+| {{teotw|1}} - {{teotw|6}}
+| '''Winternight.''' [[Rand al'Thor]] sees a Myrddraal on the Quarry Road. Rand and [[Tam al'Thor|Tam]] visit Emond's Field. Rand and Mat meet Moiraine and Lan. [[Padan Fain]] arrives with news of the [[false Dragon]] [[Logain Ablar]]. Rand and his friends meet Thom Merrilin, before Rand and Tam return to the farm. In the evening, the farm and village are attacked by [[Trolloc]]s. Rand constructs a litter and drags the wounded Tam towards Emond's Field. Tam has fever-dreams of the past.
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 1
+| rowspan="2" | Aine 9
+| rowspan="2" | Mar 24
+| {{teotw|7}} - {{teotw|9}}
+| '''Bel Tine.''' At dawn, Rand arrives, dragging his father, at Emond's Field. Moiraine Heals Tam, and convinces Rand he must leave Emond's Field. Rand dreams of [[Shayol Ghul]], [[Dragonmount]] and [[Tar Valon]]. He wakes at twilight and talks with Tam. Moiraine tells the villagers the tale of the fall of [[Manetheren]].
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|10}} - {{teotw|12}}
+| Rand, Mat and Perrin leave Emond's Field with Moiraine, Lan, [[Egwene al'Vere|Egwene]] and Thom. Rand sees a [[Draghkar]] in the sky. They journey along the [[North Road]] to [[Taren Ferry]], where Moiraine raises a fog to fool the pursuing Draghkar. (Rand unknowingly channels to restore Bela's strength.) They cross the Taren, after which Moiraine destroys the ferry. They make camp near the river. Moiraine guides Egwene through her first use of the Power.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 2
+| Aine 10
+| Mar 25
+| {{teotw|13}}
+| Lan begins teaching the boys how to use their weapons.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 3
+| Aine 11
+| Mar 26
+| {{teotw|13}}
+| They change direction to avoid a farmhouse.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 4
+| Aine 12
+| Mar 27
+| {{teotw|13}}
+| Egwene begins to leave her hair unbraided.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 5
+| Aine 13
+| Mar 28
+| {{teotw|13}}
+| Moiraine tells the three boys she will destroy them rather than let the [[Dark One]] have them.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 6
+| Aine 14
+| Mar 29
+| {{teotw|13}}
+| In the evening, Rand eavesdrops on the discussions between Egwene and Moiraine.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 7
+| Aine 15
+| Mar 30
+| {{teotw|13}} - {{teotw|14}}
+| They arrive at [[Baerlon]] in the evening. They hear of [[Whitecloaks]] in Baerlon, trouble in [[Saldaea]], and a battle in [[Ghealdan]]. Thom tells Rand some of the [[Prophecies of the Dragon]]. Rand dreams, and has his first encounter with [[Ba'alzamon]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 8
+| rowspan="2" | Aine 16
+| rowspan="2" | Mar 31
+| {{teotw|15}} - {{teotw|16}}
+| Rand discusses the dream with Perrin. He meets [[Min Farshaw]] for the first time. In Baerlon, he encounters Padan Fain, and faces down Whitecloaks led by [[Dain Bornhald]] (reaction to channelling seven days ago). Back at the inn, they discover [[Nynaeve al'Meara]] has followed them.
+| rowspan="2" | [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|17}}
+| Rand is attacked by a Fade. They leave Baerlon after a confrontation with the Whitecloaks. Nynaeve joins the party.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 9
+| Aine 17
+| Apr 01
+| {{teotw|17}}
+| They begin traveling along the [[Caemlyn Road]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 11
+| rowspan="2" | Aine 19
+| rowspan="2" | Apr 03
+| {{teotw|18}} - {{teotw|19}}
+| Battle with Trollocs and Myrddraal. They take refuge in [[Shadar Logoth]]. Rand, Mat and Perrin explore and encounter [[Mordeth]]. Lan reports Trollocs and Myrddraal in the city, moving towards them. They decide to leave.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|20}}
+| Encounter with [[Mashadar]]. The party separates, evading Trollocs and Fades. Perrin meets up with Egwene. They escape Shadar Logoth, but are separated again when they ride into the river [[Arinelle]].<br /> Rand meets up with Mat and Thom, and they make for the river. They find [[Bayle Domon]]'s boat, ''[[Spray]]'', and board just ahead of the Trollocs. Bayle Domon tells of fierce Trolloc raids in Saldaea throughout the last winter.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 12
+| rowspan="2" | Aine 20
+| rowspan="2" | Apr 04
+| {{teotw|21}}
+| Nynaeve finds Moiraine and Lan. Moiraine tells her she can channel the Power. They set off, following the river downstream.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|22}}
+| Perrin meets up with Egwene again. They decide to set off toward [[Caemlyn]].
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 14
+| Aine 22
+| Apr 06
+| {{teotw|24}}
+| On ''Spray'', Rand and Mat see a [[Tower of Ghenjei|metal tower]] in the distance.
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 15
+| rowspan="2" | Aine 23
+| rowspan="2" | Apr 07
+| {{teotw|23}}
+| In the evening, Perrin and Egwene encounter [[Elyas Machera]]. Perrin learns he can talk to the wolves.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|24}}
+| On ''Spray'', Rand does some acrobatics high above the deck (reaction to channelling four days ago). He discovers Mat has the [[Ruby-hilted dagger|dagger]] from Shadar Logoth.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 17
+| Aine 25
+| Apr 09
+| {{teotw|26}}
+| Padan Fain comes to [[Whitebridge]], asking about the party.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 18
+| rowspan="2" | Aine 26
+| rowspan="2" | Apr 10
+| {{teotw|25}}
+| Perrin, Egwene and Elyas encounter a [[Tuatha'an|Tinker]] caravan. They agree to travel with them for a time.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|26}}
+| A Fade comes to Whitebridge (first of several times), asking about the party.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 22
+| Adar 2
+| Apr 14
+| {{teotw|26}}
+| Proclamation from [[Illian (city)|Illian]] of the [[Great Hunt for the Horn]] is read in Whitebridge.
+| [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="3" | 24
+| rowspan="3" | Adar 4
+| rowspan="3" | Apr 16
+| {{teotw|26}}
+| ''Spray'' arrives at Whitebridge. At The [[Wayfarers' Rest]], Rand, Mat and Thom hear of Logain's capture. Outside, they encounter a Fade. Thom battles it, as the boys run. They set off down the [[Caemlyn Road]].
+| rowspan="3" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|28}}
+| ''Spray'' leaves Whitebridge, heading for Illian.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|31}}
+| Rand and Mat pass through a small village and sleep under bushes.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="3" | 25
+| rowspan="3" | Adar 5
+| rowspan="3" | Apr 17
+| {{teotw|27}}
+| Egwene and Perrin leave the Tinkers at dawn, and resume traveling south and east with Elyas.
+| rowspan="3" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|28}}
+| Moiraine, Lan, and Nynaeve arrive at Whitebridge.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|31}}
+| Rand and Mat do some work on a farm, but are driven off with the dogs set on them.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 28
+| Adar 8
+| Apr 20
+| {{teotw|31}}
+| Rand and Mat do some farm work, but the farmer won't let them stay the night.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 30
+| rowspan="2" | Adar 10
+| rowspan="2" | Apr 22
+| {{teotw|29}} - {{teotw|30}}
+| Perrin and Egwene take refuge in an abandoned ''[[stedding]]''. They are captured by Whitecloaks led by [[Geofram Bornhald]]. [[Hopper]] is killed. Elyas escapes.
+| rowspan="2" | [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|31}}
+| Rand and Mat work and stay the night at Grinwell's farm.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 31
+| Adar 11
+| Apr 23
+| {{teotw|31}}
+| Rand and Mat arrive at Arien at dusk and play at the inn.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 32
+| Adar 12
+| Apr 24
+| {{teotw|31}}
+| Rand and Mat get a ride from Arien in Eazil Forney's cart.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 35
+| rowspan="2" | Adar 15
+| rowspan="2" | Apr 27
+| {{teotw|32}}
+| Rand and Mat arrive at [[Four Kings]] in the evening. At The [[Dancing Cartman]], they are approached by the [[Darkfriend]] [[Howal Gode]]. Rand channels unknowingly - lightning strikes the inn, killing Gode. They escape into the night, with Mat temporarily blinded.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|33}}
+| Rand dreams, and encounters the dead Gode and Ba'alzamon.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 36
+| rowspan="2" | Adar 16
+| rowspan="2" | Apr 28
+| {{teotw|33}}
+| Rand and Mat ride with [[Alpert Mull]], who gives them two scarves. They reach [[Market Sheran]] at dusk, and stay at [[Rulan Allwine]]'s inn.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|36}}
+| [[Loial]] arrives in Caemlyn.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 37
+| Adar 17
+| Apr 29
+| {{teotw|33}}
+| At breakfast, Rand and Mat encounter [[Paitr Conel]], a young Darkfriend. At evening, they arrive at another small village. At the inn, The [[Queen's Man]], Rand falls ill (reaction to channelling two days ago) so they stay in the stable.
+| [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 38
+| rowspan="2" | Adar 18
+| rowspan="2" | Apr 30
+| {{teotw|33}}
+| At dawn, a female Darkfriend, [[Mili Skane]], tries to kill Rand and Mat.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|31}} - {{teotw|34}}
+| On the Caemlyn road, Rand and Mat hide through a hole in the hedge from a group of merchants' guards. [[Hyam Kinch]] gives them a ride. They pass [[Carysford]] after dark, and sleep in a haystack.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 39
+| Adar 19
+| May 1
+| {{teotw|34}}
+| Rand and Mat join the line of travelers on the Caemlyn Road. At evening they see a Fade, and [[Almen Bunt]] gives them a ride through the night to Caemlyn.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 40
+| rowspan="2" | Adar 20
+| rowspan="2" | May 2
+| {{teotw|35}} - {{teotw|36}}
+| Rand and Mat arrive in Caemlyn at dawn. [[Basel Gill]] gives them a room at [[The Queen's Blessing]]. Rand meets Loial in the library.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|37}} - {{teotw|38}}
+| Moiraine, Lan and Nynaeve find the Whitecloaks' camp. They rescue Perrin and Egwene. Nynaeve discovers Perrin's eyes are turning yellow.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 43
+| rowspan="2" | Adar 23
+| rowspan="2" | May 5
+| {{teotw|39}} - {{teotw|43}}
+| Rand joins the crowd waiting to see Logain. He retreats to avoid a beggar, Padan Fain, and climbs the [[Royal Palace of Andor|Palace]] garden wall. After falling into the garden, he meets [[Elayne Trakand]], [[Gawyn Trakand]] and [[Galadedrid Damodred]]. He is taken to see Queen [[Morgase Trakand]] and [[Elaida do Avriny a'Roihan]].  After being released, he returns to the inn, where the party is reunited. Moiraine Heals Mat temporarily of the dagger's influence, and decides they must use the [[Ways]] to reach The [[Eye of the World]], despite Loial's objections.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|46}}
+| Five Darkfriends are caught in [[Fal Dara]], trying to open a gate in the night for Trollocs.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 44
+| Adar 24
+| May 6
+| {{teotw|44}} - {{teotw|45}}
+| At dawn, Rand's party find the Waygate and enter the Ways. They travel for over two days. Late in the second day, they hear the [[Black Wind]].
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 45
+| rowspan="2" | Adar 25
+| rowspan="2" | May 7
+| {{teotw|45}} - {{teotw|47}}
+| They emerge from the Ways at mid-morning and travel to Fal Dara. [[Agelmar Jagad]] tells of Lan's history, and the fall of [[Malkier]].
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{teotw|40}}
+| Elayne and Gawyn leave Caemlyn for [[Tar Valon]], with Logain's escort. Elaida goes with them.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 46
+| Adar 26
+| May 8
+| {{teotw|48}}
+| Rand's party leave Fal Dara at dawn and travel to the [[Great Blight]]. They make camp near the [[Seven Towers]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 47
+| Adar 27
+| May 9
+| {{teotw|49}} - {{teotw|52}}
+| They struggle through the Blight and reach the Eye of the World, and meet the [[Green Man]]. Confrontation with [[Aginor]] and [[Balthamel]]. Balthamel injures Nynaeve, but he and the Green Man destroy each other. Rand and Aginor duel for control of the Eye - Aginor draws too much of the Power and is killed. Rand's confrontation with Ba'alzamon results in victory at [[Tarwin's Gap]] and the apparent death of Ba'alzamon. Where the Eye was, the party find a broken [[Seal]], the [[Horn of Valere]], and the [[Dragon Banner]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 48
+| Adar 28
+| May 10
+| {{teotw|53}}
+| They leave the remains of the Green Man's garden and again camp near the Seven Towers.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 49
+| Saven 1
+| May 11
+| {{teotw|53}}
+| They arrive back at Fal Dara. Moiraine tells Agelmar the Horn must be taken to Illian.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 51
+| Saven 3
+| May 13
+| <br />
+| <br />
+| [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 56
+| Saven 8
+| May 18
+| {{teotw|53}}
+| Moiraine eavesdrops on Rand and Egwene's conversation - Rand realizes he can never go home.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 59
+| Saven 11
+| May 21
+| <br />
+| <br />
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 66
+| Saven 18
+| May 28
+| <br />
+| Logain's escort arrives in Tar Valon, with Elayne, Gawyn and Elaida.
+| [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 68
+| Saven 20
+| May 30
+| <br />
+| [[Siuan Sanche]] leaves Tar Valon with a party of [[Aes Sedai]]. They travel up the rivers [[Erinin]] and [[River Mora|Mora]] to [[Medo]], in [[Shienar]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 72
+| Saven 24
+| Jun 03
+| <br />
+| The Amyrlin's party arrive at Medo and begin traveling overland to Fal Dara.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 73
+| Saven 25
+| Jun 04
+| <br />
+| <br />
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 76
+| Saven 28
+| Jun 07
+| colspan="3" bgcolor="#999999" align="center" | <cite id="book2"><big>'''Book 2: ''[[The Great Hunt]]'''''</big></cite>
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 77
+| rowspan="2" | Amadaine 1
+| rowspan="2" | Jun 08
+| {{tgh|Prologue}}
+| Darkfriend Social attended by Bors (a.k.a. [[Jaichim Carridin]]), [[Liandrin]], [[Ingtar Shinowa]] and others. Ba'alzamon gives orders concerning Rand, Mat and Perrin.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|1}}
+| Moiraine arrives back in Fal Dara.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="3" | 78
+| rowspan="3" | Amadaine 2
+| rowspan="3" | Jun 09
+| {{tgh|1}} - {{tgh|5}}
+| Rand fences with Lan. The Amyrlin Seat arrives. Ingtar returns from 'hunting'. Moiraine and Siuan discuss their plans.
+| rowspan="3" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|5}}
+| Geofram Bornhald meets with Questioners in the village of [[Alcruna]], on the border of [[Almoth Plain]].
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|6}}
+| Trollocs attack Fal Dara. Padan Fain escapes and the Horn and dagger are stolen.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="4" | 79
+| rowspan="4" | Amadaine 3
+| rowspan="4" | Jun 10
+| {{tgh|7}} - {{tgh|9}}
+| Rand is told he is the Dragon. He, Mat and Perrin leave Fal Dara with Ingtar's party to recover the Horn.
+| rowspan="4" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|9}}
+| '''[[Feast of Teven]].''' Bayle Domon leaves Illian, sailing west.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|10}}
+| Ingtar's party follow the Trollocs' trail south.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|12}}
+| Egwene and Nynaeve leave Fal Dara with the Amyrlin's party. They have a lesson from [[Verin Mathwin]] that night.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 80
+| rowspan="2" | Amadaine 4
+| rowspan="2" | Jun 11
+| {{tgh|10}}
+| Ingtar's party follow the Trollocs. The trail veers northeast, then south again.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|12}}
+| Egwene and Nynaeve have a lesson from [[Alviarin Freidhen]].
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 81
+| rowspan="2" | Amadaine 5
+| rowspan="2" | Jun 12
+| {{tgh|10}}
+| Ingtar's party follow the Trollocs. The trail veers northwest, then south again.
+| rowspan="2" | [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|12}}
+| Egwene and Nynaeve have a lesson from [[Alanna Mosvani]].
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 82
+| rowspan="2" | Amadaine 6
+| rowspan="2" | Jun 13
+| {{tgh|10}}
+| Ingtar's party continue to follow the Trollocs.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|12}}
+| Egwene and Nynaeve have a lesson from Liandrin.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 83
+| rowspan="2" | Amadaine 7
+| rowspan="2" | Jun 14
+| {{tgh|10}}
+| Ingtar's party continue to follow the Trollocs.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|12}}
+| Moiraine and Lan leave the Amyrlin's party, followed by Liandrin. Verin leaves shortly afterwards, without her Warder, [[Tomas]].
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 84
+| rowspan="2" | Amadaine 8
+| rowspan="2" | Jun 15
+| {{tgh|10}}
+| Ingtar's party continue to follow the Trollocs.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|12}}
+| Egwene has a dream of Rand in danger.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 85
+| rowspan="2" | Amadaine 9
+| rowspan="2" | Jun 16
+| {{tgh|10}} - {{tgh|11}}
+| Ingtar's party reach the Erinin. Once across, they find deserted villages and a Myrddraal nailed to a door. Rand has a strange repeated experience in one village, which he breaks by channelling. At camp that night, Rand discovers Moiraine has given him the Dragon Banner.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|12}}
+| The Amyrlin's party arrive at Medo, and take ship downriver.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="3" | 86
+| rowspan="3" | Amadaine 10
+| rowspan="3" | Jun 17
+| {{tgh|13}}
+| Rand, [[Hurin]] and Loial wake to find themselves in a strange new world. They decide to follow the Darkfriend trail.
+| rowspan="3" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|14}}
+| Ingtar's party wake to find Rand and the others gone. Perrin becomes Ingtar's new '[[sniffer]]'. As they find another massacred village, Verin arrives and joins the party.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|15}}
+| In the night, Rand encounters Ba'alzamon and gets his first heron-mark brand.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 87
+| Amadaine 11
+| Jun 18
+| {{tgh|16}} - {{tgh|17}}
+| At the field of [[Battle of Talidar|Talidar]], Rand's party find the Hawkwing monument - with a raven's head instead of a hawk. Rand rescues [[Lanfear|Selene]] from a pack of ''[[grolm]]''. She rides with them. Escaping another pack of ''grolm'', Rand uses another [[Portal Stone]] to take them back to their own world.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 89
+| Amadaine 13
+| Jun 20
+| {{tgh|18}}
+| As the ''[[River Queen]]'' approaches Tar Valon, the Amyrlin visits Egwene and Nynaeve. After arriving at Tar Valon, they meet [[Sheriam Bayanar]], who takes them into the Tower.
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 91
+| Amadaine 14
+| Jun 22
+| {{tgh|19}}
+| At night, Rand's party finds Fain's camp, and steals back the Horn and dagger.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 92
+| Amadaine 15
+| Jun 23
+| {{tgh|20}}
+| Rand's party head towards [[Cairhien (city)|Cairhien]]. Rand argues with Selene over letting her see the Horn.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="4" | 93
+| rowspan="4" | Amadaine 16
+| rowspan="4" | Jun 24
+| {{tgh|20}} - {{tgh|21}}
+| At evening, Rand's party reach the village of [[Tremonsien]]. Rand sees the giant statue ''[[sa'angreal]]'', on of the [[Choedan Kal]]. They spend the night at The [[The Nine Rings (inn)|Nine Rings]].
+| rowspan="4" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|22}}
+| Moiraine, at [[Tifan's Well]], talks with [[Vandene Namelle]]. She is attacked by a Draghkar.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|23}}
+| Nynaeve is tested and raised to the [[Accepted]].
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|24}}
+| Egwene becomes a [[Novice]].
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="4" | 94
+| rowspan="4" | Amadaine 17
+| rowspan="4" | Jun 25
+| {{tgh|21}}
+| Rand finds Selene has vanished. [[Aldrin Caldevwin]] gives them an escort into Cairhien.
+| rowspan="4" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|24}}
+| Egwene meets Elayne, who takes her to see Min. She meets Gawyn and Galad in the garden.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|25}} - {{tgh|26}}
+| Rand's party take rooms at The [[Defender of the Dragonwall]]. Rand receives three invitations from noble Houses, which he burns. In the [[Foregate]], he finds Thom. At [[The Bunch of Grapes]], Rand and Loial meet [[Dena]] and talk with Thom.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|27}}
+| In the Foregate, Rand, Loial and Hurin are attacked by Trollocs. Selene rejoins them, and they take refuge in the [[Illuminator]]s' chapter house, which is then damaged by fireworks. Selene disappears again.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 95
+| Amadaine 18
+| Jun 26
+| {{tgh|28}}
+| Ingtar's party enters Cairhien. They meet [[Urien]], who tells them of the Aiel quest for [[He Who Comes With the Dawn]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 96
+| Amadaine 19
+| Jun 27
+| <br />
+| <br />
+| [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 99
+| rowspan="2" | Amadaine 22
+| rowspan="2" | Jun 30
+| {{tgh|29}}
+| Bayle Domon captured by the [[Seanchan]] near [[Falme]]. He is taken to High Lord [[Turak]] and forced to give him his Seal.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|29}}
+| Geofram Bornhald decides to take his legion onto [[Toman Head]].
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 100
+| Amadaine 23
+| Jul 01
+| {{tgh|30}} - {{tgh|31}}
+| Rand receives invitations from [[Barthanes Damodred]] and [[Galldrian Riatin]]. The inn is set on fire and the Horn and dagger stolen again. Ingtar's party arrives in Cairhien. They take rooms at [[The Great Tree]]. Hurin tracks the Darkfriends to Barthanes' manor.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 101
+| Amadaine 24
+| Jul 02
+| {{tgh|32}} - {{tgh|33}}
+| Party at Barthanes' manor. Rand talks with Thom again. Rand, Hurin and Loial find a [[Waygate]] in the grounds of the manor. When Rand opens it, ''Machin Shin'' is waiting. Barthanes gives Rand a message from Fain. Rand decides to go to Toman Head.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" | 102
+| rowspan="2" | Amadaine 25
+| rowspan="2" | Jul 03
+| {{tgh|34}}
+| Thom finds Dena killed. The innkeeper tells him Barthanes has been found dead, ripped limb from limb.
+| rowspan="2" | <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|34}}
+| Fain arrives in Falme and presents the Horn to Turak.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 103
+| Amadaine 26
+| Jul 04
+| {{tgh|35}} - {{tgh|37}}
+| Rand's party arrive at [[Stedding Tsofu|''Stedding'' Tsofu]] and encounter Aiel there. The Elders allow them to use the Waygate, but they find the Black Wind waiting. Rand uses a nearby Portal Stone to take them all to Toman Head, after experiencing their other possible lives.
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 111
+| Tammaz 6
+| Jul 12
+| <br />
+| <br />
+| [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 118
+| Tammaz 13
+| Jul 19
+| <br />
+| <br />
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 125
+| Tammaz 20
+| Jul 26
+| <br />
+| <br />
+| [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 132
+| Tammaz 27
+| Aug 02
+| <br />
+| <br />
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 141
+| Maighdal 8
+| Aug 11
+| <br />
+| <br />
+| [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 147
+| Maighdal 14
+| Aug 17
+| <br />
+| <br />
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 154
+| Maighdal 21
+| Aug 24
+| <br />
+| <br />
+| [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 162
+| Choren 1
+| Sep 01
+| <br />
+| <br />
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 170
+| Choren 9
+| Sep 09
+| <br />
+| <br />
+| [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 177
+| Choren 16
+| Sep 16
+| <br />
+| <br />
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 184
+| Choren 23
+| Sep 23
+| {{tgh|38}} - {{tgh|39}}
+| Liandrin tells Egwene and Nynaeve that Rand is in danger. They, accompanied by Elayne and Min, follow her into the Ways. They travel for at least two days.
+| [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 185
+| Choren 24
+| Sep 24
+| {{tgh|40}}
+| Liandrin and the girls arrive at Toman Head. Liandrin betrays the girls to [[Suroth]]. Egwene and Min are captured.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 192
+| Shaldine 3
+| Oct 01
+| <br />
+| <br />
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 200
+| Shaldine 11
+| Oct 09
+| <br />
+| <br />
+| [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 206
+| Shaldine 17
+| Oct 15
+| <br />
+| <br />
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 213
+| Shaldine 24
+| Oct 22
+| <br />
+| <br />
+| [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 221
+| Nesan 4
+| Oct 30
+| <br />
+| <br />
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 229
+| Nesan 12
+| Nov 07
+| <br />
+| <br />
+| [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 236
+| Nesan 19
+| Nov 14
+| {{tgh|37}}
+| Rand's party arrive on Toman Head by Portal Stone.
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 239
+| Nesan 22
+| Nov 17
+| {{tgh|41}}
+| Rand's party arrive at a deserted village. Rand encounters Ba'alzamon again.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 240
+| Nesan 23
+| Nov 18
+| {{tgh|42}} - {{tgh|43}}
+| Min visits Egwene in the ''[[damane]]'' quarters. Outside, she is found by Nynaeve and Elayne, who she takes to meet Bayle Domon to arrange for passage away from Falme.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 242
+| Nesan 25
+| Nov 20
+| {{tgh|44}}
+| Perrin, Mat and Hurin are spotted by Whitecloaks. Fain's trail is finally found. Verin selects a party of five to enter Falme tomorrow.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="6" | 243
+| rowspan="6" | Nesan 26
+| rowspan="6" | Nov 21
+| {{tgh|45}}
+| Nynaeve, Elayne and Min capture the ''[[sul'dam]]'' [[Seta]]. They take her with them to the ''damane'' quarters.
+| rowspan="6" | [[Image:lastq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|45}}
+| Rand, Mat, Perrin, Hurin and Ingtar enter Falme. Hurin leads them to Turak's house. Rand glimpses Egwene. Battle with Turak and his men; Rand kills Turak. They escape with the Horn and the dagger.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|46}}
+| The girls rescue Egwene. Outside, they fight against Seanchan ''damane''.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|46}} - {{tgh|47}}
+| Seanchan pursue Rand's party. Ingtar reveals he was a Darkfriend, and sacrifices himself so the others can escape. They see Seanchan and Whitecloaks approaching from opposite directions. Mat sounds the Horn. The Heroes appear, and Rand orders them to drive out the Seanchan. The Whitecloaks charge, and battle begins. Rand confronts Ba'alzamon, who wounds him in the side but is apparently killed in turn.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|48}}
+| Bayle Domon and ''Spray'' escape from Falme during the battle.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{tgh|48}}
+| Min finds Rand in Falme. She is confronted by Lanfear.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 244
+| Nesan 27
+| Nov 22
+| {{tgh|49}}
+| Egwene, Elayne and Nynaeve, together with Verin, Hurin and Mat, leave to head back to Tar Valon.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 248
+| Danu 3
+| Nov 26
+| {{tgh|49}} - {{tgh|50}}
+| Rand wakes. Moiraine has arrived, and shows him two broken Seals, recovered from Falme. She persuades Rand that he must proclaim himself the Dragon.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 251
+| Danu 6
+| Nov 29
+| <br />
+| <br />
+| [[Image:newmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 252
+| Danu 7
+| Nov 30
+| {{tsr|1}}
+| Suroth takes command of the remnants of the ''[[Hailene]]'', and sends a message back to Seanchan telling of events at Falme.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 258
+| Danu 13
+| Dec 06
+| <br />
+| <br />
+| [[Image:firstq.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 265
+| Danu 20
+| Dec 13
+| <br />
+| <br />
+| [[Image:fullmoon.png]]
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 273
+| Danu 28
+| Dec 21
+| <br />
+| '''The [[Feast of Lights]].'''
+| [[Image:lastq.png]]
+|}
+{{calnav}}
+[[Category:New Era chronology]]
+[[Category:Time]]

@@ -1,0 +1,28 @@
+{{ character 
+| image=Eward Candwin.jpg
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| build=Stout
+| status=Alive
+| appeared={{teotw|9}}
+| lastappeared={{tsr|56}}
+| living=tsr
+}}
+{{for|[[Perrin Aybara|Perrin's]] uncle|Eward Aybara}}{{for|the other Two Rivers resident|Eward Congar}}
+'''Eward Candwin''' is a [[Two Rivers]] resident and the village cooper.
+
+== Appearance ==
+He is stout.
+
+== Activities ==
+He is part of the crowd that confronts [[Moiraine Damodred]], demanding she leaves [[Emond's Field]] at once, even though she [[Heal]]ed him after being stabbed by a [[Trolloc]] in the Trolloc raid.
+
+He has too many buckets and barrels to make to hold water for all the Two Rivers residents crowded into Emond's Field. Perrin is able to find him the assistants he needs.{{ref/book|4|45}}
+
+He helps defend Emond's Field against the invading Trollocs.{{ref/book|4|56}}
+
+{{notes}}
+
+{{DEFAULTSORT:Candwin, Eward}}

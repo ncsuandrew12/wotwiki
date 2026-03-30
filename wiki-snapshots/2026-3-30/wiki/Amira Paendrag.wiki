@@ -1,0 +1,20 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| birth={{Fy|942}}
+| status=Dead
+| death={{Fy|961}}
+| nationality=Shandalle
+| title=Princess
+| gender=Female
+| mentioned=[[RPG]]
+}}
+{{for|the [[Aes Sedai]] of the [[Red Ajah]] with the same first name|Amira Moselle}}
+'''Amira Paendrag''' was the first daughter of King [[Artur Paendrag Tanreall]] and Queen [[Amaline Paendrag Tagora]], born in {{Fy|942}} when her father was still the King of [[Shandalle]]. Amira had a twin brother, [[Modair Paendrag]], and a younger brother and sister, whose names are unknown.
+
+==History==
+After being devastated by his son, Modair's, death in {{Fy|959}}, Tanreall was even more devastated when his wife and his remaining children, including Amira, were assassinated. This loss plunged him into the [[Black Years]].
+
+{{DEFAULTSORT:Paendrag, Amira}}
+[[Category:Historical people]]
+[[Category:Royalty]]

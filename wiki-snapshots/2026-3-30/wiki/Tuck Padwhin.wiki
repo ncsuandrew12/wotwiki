@@ -1,0 +1,21 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=padwhin
+| nationality=Andoran
+| affiliation=Two Rivers
+| occupation=Carpenter
+| gender=Male
+| status=Alive
+| appeared={{tsr|56}}
+| mentioned={{tgh|12}}
+| lastappeared={{tsr|56}}
+| living=tsr
+}}'''Tuck Padwhin''' is a carpenter from [[Emond's Field]].{{ref|{{twotc}}, Tuck Padwhin}}
+
+== Activities ==
+He helped defend Emond's Field against the invading [[Trolloc]] army.{{ref/book|4|56}}
+
+{{notes}}
+
+{{DEFAULTSORT:Padwhin, Tuck}}

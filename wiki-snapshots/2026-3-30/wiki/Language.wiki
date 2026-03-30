@@ -1,0 +1,41 @@
+Only a few '''languages''' are known, despite the size of the world. This may be due to the universal language used by all during the [[Age of Legends]], and the continued printing and trade of books among the nations of the World.
+
+==Old Tongue==
+{{main|Old Tongue}}
+The Old Tongue was the common language for all peoples in the [[Age of Legends]]; as necessitated by a global economy which did not understand distance, what with the use of [[Traveling]] and [[sho-wing]]s in travel. The [[Breaking of the World]] changed all of that, and with the onset of the [[Trolloc Wars]], the Old Tongue gradually vanished from use except among scholars, [[Aes Sedai]], some [[Ogier]], and truly dedicated nobility. While all nobles are suppsed to be able to speak it, in truth very few know more than a few words and phrases.
+
+The Old Tongue's structure has been analyzed more fully in the [http://zippy.ph.utexas.edu/~abergman/jordan/cot.html Compleat Old Tongue]. 
+ 
+===Written form===
+While it is known that the script used for numerals, at least, in the Old Tongue, is no longer commonly in use, facts about the script for lettering are remarkably thin on the ground. 
+
+It is known that layman cannot read inscriptions written in the script of the [[Old Tongue]] for instance, though an educated noble or scholar is quite capable of it. 
+
+The script of the New Tongue is considered to be extremely simple compared to the script of the Old Tongue, allowing the [[Forsaken]] [[Graendal]] to be an effective forger of handwriting.
+
+The numerals of the [[Old Tongue]] are also not in use, and they are quite different from the normal usage, as the universal script (even Aiel 'savages' read the books of the [[Westlands]]) makes clear.
+
+==Modern language==
+Perhaps it is due to the cyclical nature of the [[Wheel of Time]], but language has remained remarkably constant through the thousands of years since the [[Trolloc Wars]] and the slow demise of the [[Old Tongue]] as a "living language." The Westlands' relative geographic compactness may be a factor in this, though it does not explain why the peoples of [[Shara]] and [[Seanchan]] speak the same language. Fortunately, the explanation is simple.
+
+===The New Tongue===
+The Old Tongue was kept in use mainly due to the continued printing of books in that language during the [[Breaking of the World]]. This is true all over the World; in [[Seanchan]], [[Shara]], and the [[Westlands]], though probably not in the [[Mad Lands]]. 
+
+The language currently in use, commonly known as the "New Tongue" is a degenerate form of the Old, which any who speak the Old Tongue is capable of deciphering. The New Tongue was known as the vulgar tongue during the time of the [[Ten Nations]]. Around the time of [[Artur Hawkwing]], the vulgar tongue replaced the Old Tongue completely. The invasion of [[Seanchan]] by [[Luthair Hawkwing]] allowed the vulgar tongue to spread there as well. Trade with the [[Aiel]] and the [[Sea Folk]] also probably kept the [[Shara]]ns in sync with the rest of the World, if only in that some are aware of the language.
+
+===Dialects===
+While the language of the [[Westlands]] has remained mutually intelligible, there are regional differences in dialect and speech patterns. [[Illian]]ers frequently do not conjugate their verbs completely, for example, and may change the word order around in their sentences, though this is seen as being a failing of the "common people" by nobles of that country. [[Cairhien]]in tend to speak in brisk, precise terms, clipping off the end of each word neatly. Regional variations in idioms and cultural references account for a great many befuddled looks when people from different nations meet, as well.
+
+Even the [[Seanchan]] people, who speak with a slurred, drawling accent to people in the Westlands, can be understood and understand locals if both participants concentrate and adjust their speech patterns just slightly.
+
+==Trolloc tongue==
+The [[Trolloc]] mouth is rarely able to form the sounds of human speech properly, and so their own language is harshly different, guttural and full of animal noises. It is not known if different types of Trollocs with different animal features use different dialects of their language. The most famous example of their language known is [[Ba'alzamon]], ''"Heart of the Dark"'', long believed to be their name for the [[Dark One]].
+
+==Ogier script==
+While [[Ogier]] appear to use the same verbal language as ordinary people, their script is vastly different. It resembles vines and leaves, flowing from letter to letter in an organic fashion. Very few non-Ogier of the modern age can read the script.
+
+[[File:Maiden Handtalk.jpg|thumb|right|An example of Maiden handtalk.]]
+
+==Maiden handtalk==
+[[Far Dareis Mai|Maidens]] among the [[Aiel]] have a secret, silent language of hand signals that they use to communicate both in battle and in day-to-day life. However, as they have never taught it to a man, and only rarely even taught part of it to a woman who is not Aiel, very little is known about it. It is known to be a highly developed version of the normal hand signals which all [[Aiel warrior societies]] use.
+[[Category:Languages| Language]]

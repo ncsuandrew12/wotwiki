@@ -1,0 +1,42 @@
+{{for|other chapters that have "message" in the title|Message}}
+{{summary | book=12 |
+|chapter=18
+|title=A Message in Haste
+|icon=Fish
+|setting=[[Rebel Aes Sedai]] camp near [[Tar Valon]]
+}}
+
+==Summary==
+
+{{pov|[[Siuan Sanche]]}}
+
+Siuan walks into the [[Rebel Aes Sedai]] camp with her laundry only to find that there is a meeting of the [[Salidar]] Hall. She wonders what is amiss, as nothing except the extraordinary can gather this many Sisters and other watchers. The last time it happened was the announcement that ''[[saidin]]'' had been cleansed and Sisters had bonded Asha'man. [[Sheriam]] reveals that [[Elaida]]'s Sisters have the ability to [[Travel]] now. There are shocked reactions to this as the sisters wonder how it has happened. Siuan figures it must have been [[Beonin]] who gave away the secret. She prays that they can keep the weave away from the [[Seanchan]]. She proceeds to warn [[Gareth Bryne]] about the need to watch his flanks. 
+
+[[Sharina Melloy]], an aged [[novice]], approaches Siuan. She offers to carry her washing. She notes the oddity of the meeting of the Sitters, saying it is strange that such an event originates merely from learning that the [[White Tower]] could Travel. Sharina reveals that [[Lelaine]] is the one to have allowed the news to be learned by all on purpose, in order to promote her own political goals. Siuan is worried about Lelaine making a grab for power. The over-aged novices are afraid anyone but Egwene will take the position as [[Amyrlin]], since they would certainly be sent home, not being raised to the [[shawl]]. Much is at stake in having Egwene resume control.
+
+==Characters==
+*[[Siuan Sanche]]
+*[[Sheriam Bayanar]]
+*[[Ashmanaille]]
+*[[Romanda Cassin]]
+*[[Moria Karentanis]]
+*[[Sharina Melloy]]
+
+===Referenced===
+*[[Gareth Bryne]]
+*[[Tiana Noselle]]
+*[[Rand al'Thor]]
+*[[Egwene al'Vere]]
+*[[Elaida a'Roihan]]
+*[[Nesita]]
+*[[Leane Sharif]]
+*[[Beonin Marinye]]
+*[[Lelaine Akashi]]
+
+==Places==
+*[[Rebel Aes Sedai]] camp near [[Tar Valon]]
+
+===Referenced===
+*[[Tear]]
+
+{{DISPLAYTITLE:''A Message in Haste''}}

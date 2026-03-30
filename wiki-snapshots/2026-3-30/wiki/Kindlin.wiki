@@ -1,0 +1,23 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Queen's Guard
+| occupation=Soldier
+| rank=Captain
+| gender=Male
+| status=Alive
+| mentioned={{kod|13}}
+| lastmentioned={{kod|13}}
+| living=kod
+}}
+'''Kindlin''' is a Captain in the [[Queen's Guards]] of [[Andor]].
+
+==History==
+He is stationed in [[Aringill]] and is the highest ranking officer in that city.
+
+==Activities==
+On learning of the escape of [[Naean Arawn]], [[Elenia Sarand]] and others held in Aringill, Kindlin gives [[Charlz Guybon]] permission to make his way to [[Caemlyn]].
+
+He also allows Guybon to seek out men that were dismissed by [[Gaebril]] from the [[Queen's Guards]]. These men had been hiding away their armor until such time as they were needed again.
+[[Category:Short pages]]

@@ -1,0 +1,29 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| hair=Graying
+| status=Alive
+| clan=Goshien
+| sept=Unknown sept
+| society=Hama N'dore
+| appeared={{loc|26}}
+| lastappeared={{loc|26}}
+| living=loc
+}}
+'''Caldin''' is an [[Aiel]] of the ''[[Aiel warrior societies|Hama N'dore]]'' society. 
+
+== Appearance ==
+He is graying and leathery.
+
+==History==
+Caldin is of the [[Goshien]] Aiel.{{ref|{{twotc|Caldin}}}}
+
+He fought at a place called [[Sedar Cut]].
+
+== Activities ==
+He is in charge of the Mountain Dancers that accompanied Rand as an escort to see the [[Saldaean]] horse display outside [[Caemlyn]]. On the way back to the city, there was in an assassination attempt on Rand by the [[Children of the Light]]. It reminded him of Sedar Cut.
+
+He is irritated when Rand bolts back to the [[Sun Palace]] without his Aiel escort.

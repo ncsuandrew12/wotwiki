@@ -1,0 +1,34 @@
+{{ character 
+| image=Jolien.jpg
+| imagesize=250px
+| death={{ne|999}}
+| nationality=Aiel
+| gender=Female
+| society=Far Dareis Mai
+| clan=Nakai
+| sept=Salt Flat
+| affiliation=Car'a'carn
+| hair=Red-gold
+| eyes=Blue
+| status=Dead
+| appeared={{tdr|38}}
+| lastappeared={{tfoh|44}}
+}}
+{{for|the similarly named [[Aes Sedai]] of the [[Green Ajah]]|Joline Maza}}
+'''Jolien''' was a ''[[Far Dareis Mai]]'' from the [[Salt Flat]] sept and the [[Nakai]] clan.
+
+== Appearance ==
+She was blue eyed with red gold hair. 
+
+== Activities ==
+She was among the first [[Aiel]] to cross the [[Spine of the World]] in a quest for the ''[[Car'a'carn]]''. She met [[Egwene al'Vere]], [[Elayne Trakand]] and [[Nynaeve al'Meara]] while on their way to [[Tear]] and was present when Nynaeve heals [[Dailin (maiden)|Dailin]] from an injury.{{ref/book|3|38}}
+
+She was one of the Aiel who helped [[Rand al'Thor]] capture the [[Stone of Tear]].
+
+She, along with [[Adelin]] and [[Enaila]], shaved [[Isendre]] bald and beat her with nettles after catching her again trying to sneak into Rand's bed in [[Eianrod]], [[Cairhien]].
+
+She followed Rand from [[Tear]] to the battle of [[Cairhien]] where she died.
+
+{{notes}}
+
+[[es:Jolien]]

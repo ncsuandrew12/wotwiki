@@ -1,0 +1,22 @@
+{{ character 
+| image=FarMaddingFlag.png
+| imagesize=150px
+| status=Alive
+| nationality=Far Madding
+| gender=Female
+| rank=Counsel
+| weight=Slim
+| hair=Gray
+| appeared={{Wh|24}}
+| lastappeared={{wh|34}}
+| living=wh
+}}
+'''Narvais Maslin''' is one of the thirteen [[Counsel]]s of [[Far Madding]]. 
+
+== Appearance ==
+She is slim with gray hair.
+
+== Activities ==
+She is among the rest of the Counsels to greets [[Cadsuane Melaidhrin]], [[Harine din Togara Two Winds]] and the rest of their group to [[Far Madding]]. She escorts the group to their quarters.
+
+{{DEFAULTSORT:Maslin, Narvais}}

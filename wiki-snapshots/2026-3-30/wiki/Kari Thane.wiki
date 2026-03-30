@@ -1,0 +1,19 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| status=Alive
+| mentioned={{teotw|13}}
+| lastmentioned={{teotw|13}}
+| living=teotw
+}}
+{{dablink|For the adoptive mother of [[Rand al'Thor]], see [[Kari al'Thor]]. For others with the same surname, see [[Thane]].}}
+'''Kari Thane''' is a girl in [[Emond's Field]].
+
+==History==
+When [[Moiraine Damodred]] mentioned that there was more than [[Egwene al'Vere]] in the [[Two Rivers]] who could channel, Egwene asks if it was [[Lara Ayellan]] or Kari.
+
+{{DEFAULTSORT:Thane, Kari}}
+[[Category:Short pages]]

@@ -1,0 +1,62 @@
+{{nation
+| image=[[File:AmadiciaFlag.png|250px]]
+|name=Amadicia
+|type=Monarchy
+|defacto=[[Seanchan]]
+|sigil=A red thistle leaf laid over a silver six-pointed star; the Thistle and Star.
+|banner=The Thistle and Star on a field horizontally striped blue and gold, three of blue stripes and two gold.
+|region=South West of Central [[Westlands]]
+|interest=[[Mountains of Mist]], [[River Eldar]], [[River Sharia]], [[Shadow Coast]]
+|capital=[[Amador]]
+|cities=[[Abila]], [[Bellon]], [[Jeramel]], [[Mardecin]], [[Sienda]]
+|demonym=[[Amadician]]
+|affiliation=[[Seanchan]], [[Whitecloaks]]
+|formed = c. {{fy|1023}}
+|era=[[New Era]]
+}}
+'''Amadicia''' is a southern nation of the [[Westlands]]. It is the home of the [[Children of the Light]].
+
+==Geography==
+Amadicia is a country that lies west of [[Altara]], with the [[River Eldar]] forming the border between the two. It is at the southern end of the [[Mountains of Mist]], and is southeast of [[Tarabon]]. Its southern border is the [[River Sharia]], beyond which lies the [[Shadow Coast]]. 
+[[Image:03 - Amadicia.PNG|thumb|left|200px|Location within the Westlands]]
+== History == 
+Amadicia was founded in approximately {{fy|1023}} by Lord [[Santal Ramoth]], a direct descendant of the last king of [[Kharendor]]. He had begun by attempting to reestablish Kharendor in {{fy|1015}}, but deftly changed to the founding of a new nation after realizing that the people no longer saw Kharendor as a unifying symbol and that many of the resident nobles were from other lands.
+==Government==
+The ruling body of Amadicia was always a king, most recently King [[Ailron Rovere Lukan]]. Historically, the kings were rather powerful, until a decline in quality of Amadician kings coincided with a rise in power of the Children of the Light, until they were the real ruling power in Amadicia before the coming of the [[Seanchan]].
+
+Amadicia's last king was killed fighting the Seanchan, and nearly all Amadician nobles were either killed or taken ''[[da'covale]]'' by the Seanchan. All [[Guardians of the Gate]] were killed, were made ''da'covale'', or became fugitives after Ailron's Disaster.
+
+==Culture==
+Due to the belief among the Children of the Light that [[Aes Sedai]] are servants of the [[Dark One]], both Aes Sedai and [[channeling]] are outlawed in Amadicia, and the merest suspicion of such activity can result in harsh punishment and execution. Similarly, the denouncement, trial, and execution of suspected Darkfriends is common, though the accused are often little more than social outcasts or the unlucky participants in disagreements. It is the only nation where channeling or even training in the White Tower is considered a crime; this is more enforced by the Whitecloaks than the crown, but the crown does not abstain entirely.
+
+The Children's expansionist aspirations have led to a number of wars in Amadicia, most recently the [[Whitecloak War]] with [[Illian]] and Altara, which the Children call "the Troubles."
+
+After the White Tower split, the Children of the Light themselves played a key role in the choice of [[Salidar]] as the base of the [[rebel Aes Sedai]]. The proximity of the Children made Salidar an unlikely place to look for them, and ideal for planning the attack on Tar Valon.
+
+== Economy ==
+Amadicia is known for weaving and dyeing, although its products are not considered as good as Taraboner work. Amador mines a little iron, mines a little silver and gold in the southern Mountains of Mist, and gems in the south, although this is outside the border of Amadicia proper.<ref name="comp">[[The Wheel of Time Companion]], Amadicia.</ref>
+
+==Trivia==
+Although the flag of Amadicia is illustrated as consisting of blue and gold stripes with a red thistle leaf inside a six-pointed silver star in ''[[The World of Robert Jordan's The Wheel of Time]]'', and later described as such in ''[[The Wheel of Time Companion]]'', the country's flag is described differently in the Glossaries of both ''[[The Eye of the World]]'' and ''[[The Fires of Heaven]]'' (both of which were published several years before TWOTC), specifically as consisting of a wholly blue background (with no gold stripes) as well as the six-pointed star superimposed over a whole red thistle (rather than just a thistle leaf), instead of a thistle leaf being within the star. The reason for the change in description is unknown.
+
+==Towns/cities==
+*[[Amador]], the capital
+*[[Abila]]
+*[[Bellon]]
+*[[Jeramel]]
+*[[Mardecin]]
+*[[Sienda]]
+
+==Parallels==
+Amadicia is thought to be inspired by the [[wikipedia:Commonwealth of England|Commonwealth of England]] period, particularly in its fashions, which seem to resemble those of the Puritans. This is added to by the fact that Amadicia is a quasi-theocracy, being ruled by a holy order that encourages a puritanical lifestyle among its population. Its accusations of witchcraft against female channelers are reminiscent of the Puritans who moved to North America.{{ref|According to the [http://www.steelypips.org/wotfaq/3_sources/3.14_countries.html Wheel of Time F.A.Q.]}}
+
+== External links ==
+*{{TVlink|Amadicia}} on {{TVlink}}
+
+{{notes}}
+{{nations}}
+
+[[es:Amadicia]]
+[[Category:Nations]]
+[[Category:Parallels]]
+[[Category:Amadicia]]

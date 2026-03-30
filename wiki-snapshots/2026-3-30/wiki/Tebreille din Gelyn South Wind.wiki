@@ -1,0 +1,38 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| ewot=Tebreille
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| eyes=Big, dark
+| status=Alive
+| appeared={{tpod|5}}
+| lastappeared={{kod|22}}
+| living=kod
+}}
+{{dablink|For other uses of the word "wind," see [[Wind]].}}
+'''Tebreille din Gelyn South Wind''' is the ''[[Atha'an Miere]]'' [[Windfinder]] to [[Mareil]].{{ref/book|twotc|Tebreille din Gelyn South Wind}}
+
+== Appearance ==
+She has big dark eyes with a straight nose and a strong chin. She is sterner looking than her sister.{{ref/book|8|5}} She is haughty and has four earrings in each ear.{{ref/book|9|11}}
+
+==Strength and Abilities==
+Tebreille's level of strength is {{opsl|23}},{{ref/book|twotc|Tebreille din Gelyn South Wind}} matching quite influential Aes Sedai such as [[Seaine]], [[Teslyn]], [[Verin]], [[Alanna]], or [[Merana]].
+
+This strength is enough to open suitable gateway for [[Travel]].
+
+==History==
+Her sister is [[Caire din Gelyn Running Wave]], for whom she has an intense dislike, and her niece is [[Talaan din Gelyn]].
+
+== Activities ==
+She is part of the thirteen women who link together and channel into the [[Bowl of the Winds]] to change the weather at the [[Kin]]'s farm.{{ref/book|8|5}}
+
+She is one of the Windfinders being tutored by [[Aes Sedai]] in [[Caemlyn]].{{ref/book|9|11}}
+
+She accompanies Mareil to a meeting of the [[First Twelve]] in [[Illian]] with [[Rand al'Thor]]'s ambassador [[Logain Ablar]]. She is concerned with the whereabouts of her niece, [[Talaan din Gelyn]], when she disappears from Caemlyn. Near the end of the meeting [[Cemeille din Selaan Long Eyes]] interrupts with the news of the [[Amayar]] committing mass suicide.{{ref/book|11|22}}
+{{notes}}
+{{DEFAULTSORT:Gelyn South Wind, Tebreille din}}
+[[Category:Farm Group]]
+[[Category:Channelers]]

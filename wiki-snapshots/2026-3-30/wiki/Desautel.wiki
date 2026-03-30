@@ -1,0 +1,20 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px
+| status=Alive
+| gender=Male
+| affiliation=Rand al'Thor
+| occupation=Asha'man
+| rank=Dedicated
+| appeared={{tom|43}}
+| lastappeared={{amol|43}}
+| living=amol
+}}'''Desautel '''is an [[Asha'man]] [[Dedicated]].{{ref|{{twotc}}, Desautel}}
+
+== Activities ==
+During the [[Last Battle]] Desautel was able to locate for [[Logain]] the ''[[sa'angreal]]'', [[Sakarnen]], blocked inside a massive pillar of crystal.
+
+{{notes}}
+{{short}}
+[[Category:Learners]]
+[[Category:Short pages]]

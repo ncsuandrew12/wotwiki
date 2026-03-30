@@ -1,0 +1,24 @@
+{{Under construction}}
+=== The One Power and Its Origins ===
+
+Channeling is the act of using the '''[[One Power]]''', which is a fundamental force in the Wheel of Time universe. It emanates from the '''[[True Source]]''', which consists of two complementary halves: '''[[saidin]]''' (the male half) and '''[[saidar]]''' (the female half). These halves work together and against each other, providing the driving force that turns the [[Wheel of Time (object)]] itself.
+
+* '''Saidin''': The male half of the True Source, tainted by the [[Dark One]], is like water with a thin slick of rancid oil floating on top. It remains pure but cannot be touched without encountering foulness.
+* '''Saidar''': The female half remains untainted and safe to be used.
+
+=== Who Can Channel? ===
+
+Not everyone has the ability to channel the [[One Power]]. Most people have no capacity for it, while some can be taught to varying degrees. However, a few individuals are born with "the spark," an innate inclination that leads them to touch the Source involuntarily. These untrained [[:Category:Channelers|channelers]], often referred to as '''wilders''', may die without gaining control over their abilities due to a mysterious sickness. Wilders sometimes unknowingly use the One Power to influence events when they want something badly enough.
+
+=== Aes Sedai and Other Channelers ===
+
+* '''[[Aes Sedai]]''': An all-female organization, the Aes Sedai are skilled channelers who serve as advisors, diplomats, and protectors. They follow strict rules and hierarchies.
+* '''Windfinders''': Female channelers among the [[Atha'an Miere]] who manipulate weather and currents.
+* '''[[Wise One]]s''': Female channelers among the [[Aiel]], who focus on survival and combat skills. Not all Wise Ones can channel.
+* '''[[Damane]]''': Female channelers enslaved by the [[Seanchan]].
+* '''[[Asha'man]]''': Male channelers trained by [[Rand al'Thor]].
+
+=== Cleansing of Saidin ===
+
+* '''[[Cleansing of saidin]]''': A pivotal event where [[Rand al'Thor]] and [[Nynaeve al'Meara]] purged the [[Dark One]]'s taint from [[saidin]], making it safe for male channelers once again.
+[[Category:One Power]]

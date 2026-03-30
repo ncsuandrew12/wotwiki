@@ -1,0 +1,24 @@
+{{character 
+| image=Tree-icon.svg
+| imagesize=125px
+| status=Alive
+| race=Ogier
+| occupation=Treesinger
+| gender=Male
+| hair=Dark
+| appeared={{tgh|36}}
+| lastappeared={{tgh|36}}
+| living=tgh
+}}
+{{Quote|He is... empty. This body lives but there is nothing inside it.|[[Verin Mathwin]]}}
+
+'''Trayal''' is an [[Ogier]] from [[Stedding Tsofu]]. He is displayed to [[Rand]] and his group pursuing the [[Horn of Valere]] as an example of what might happen to them if they choose to travel the [[Ways]].
+
+==Appearance==
+He is an Ogier of middle years with a dark beard, big vacant eyes, and a sagging face. The Ogier acts vacant, as if he is not there. He is docile, but drools. He has no expression and his eyes look like they do not see.
+
+==History==
+He is described as having once been a fine [[Treesinger]]. He was the last of the Ogier from Stedding Tsofu to travel the Ways, just over a hundred years prior to the events of [[The Great Hunt]]. [[Verin Sedai]] is commanded to touch him and she pulls back in horror because she cannot feel anything inside the shell that was once Trayal.{{ref/book|2|36}}
+
+{{notes}}
+{{short}}

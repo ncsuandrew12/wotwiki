@@ -1,0 +1,26 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| status=Dead
+| death={{ne|999}}
+| gender=Female
+| build=Stout
+| mentioned={{tsr|29}}
+| lastmentioned={{tsr|40}}
+}}
+{{for|others with the same surname|Aybara}}
+'''Magde Aybara''' was [[Perrin]]'s aunt. She was married to [[Eward Aybara]].
+
+== Appearance ==
+She was stout and looked very similar to her husband.
+
+==Activities==
+She lived on the Aybara farm with the rest of Perrin's family. [[Padan Fain]] murdered Perrin's entire family including Magde. Their deaths are blamed on Trollocs.{{ref/book|4|29}}
+
+{{notes}}
+{{DEFAULTSORT:Aybara, Magde}}
+
+[[es:Magde Aybara]]
+[[Category:Short pages]]

@@ -1,0 +1,75 @@
+{{quote|If one of you says 'up', the other says 'down'. If you do not stop it, we may not reach Tear.| [[Elayne]] to [[Egwene]]}}
+{{dablink|For other uses of the word "fire," see [[Fire (disambiguation)|Fire]]. For the city and nation, see [[Cairhien (city)|Cairhien]] and [[Cairhien]] respectivley.}}
+{{summary | book=3 |
+|chapter=37
+|title=Fires in Cairhien
+|icon=Cairhien
+|setting=[[River Erinin]] aboard the ''[[Blue Crane]]'', [[Cairhien]]
+}}
+
+==Summary==
+:{{pov|[[Egwene al'Vere]]}}
+
+[[Egwene al'Vere|Egwene]] is aboard the ''[[Blue Crane]]'' heading downriver on the [[River Erinin|Erinin]] towards [[Tear (city)|Tear]]. Egwene has not seen a living person in any of the villages they passed, most of which were burned. The sailors bow to her, seeing her ring. Captain [[Chin Ellisor]] is honored to have three [[Aes Sedai]] on his ship. Egwene recalls her dreams of [[Perrin Aybara|Perrin]], [[Rand al'Thor|Rand]], and [[Mat Cauthon|Mat]], and also one of [[Min Farshaw|Min]].  
+
+*Rand holding [[Callandor|a sword that blazed like the sun]]
+*Rand threatened in a dozen ways, none of them the least bit real
+* Perrin with [[Hopper|a wolf]], [[Zarine ni Bashere t'Aybara|a falcon]], and [[Berelain sur Paendrag Paeron|a hawk]], with the falcon and hawk fighting
+* Perrin running from [[Slayer|someone deadly]]
+* Perrin stepping over the edge of a towering cliff
+*[[Gaul|An Aiel]] related to Perrin
+*Min springing a trap but not getting caught{{ref|Min's return to Tar Valon in {{4|1}} sets off a series of events which leads to the deposition of Siuan Sanche. Min herself is unharmed.}}
+*Mat with spinning dice around him
+*Mat being followed by [[Gray Man|a man who wasn't there]]
+*Mat riding desperately toward something unseen in the distance{{ref|Mat coming to rescue Nynaeve, Egwene, and Elayne in Tear.}}
+*Mat with [[Aludra|a woman who seemed to be tossing fireworks]], an [[Illuminator]]
+*[[Forsaken|Men and women breaking out of a cage]] and putting on crowns{{Ref|[[Sammael]] assumed the identity of Lord Brend in Illian.}}{{Ref|[[Be'lal]] assumed the identity of High Lord Samon in Tear.}}{{Ref|[[Rahvin]] assumed the identity of Lord Gaebril in Andor.}}{{Ref|[[Semirhage]] assumed the identity of Anath Dorje, Truthspeaker of the Seanchan Daughter of the Nine Moons.}}{{Ref|[[Mesaana]] assumed the identity of Danelle Sedai in the White Tower.}}{{Ref|[[Graendal]] assumed the identity of Lady Basene in Arad Doman.}}{{Ref|[[Demandred]] assumed the identity of Bao the Wyld, leader of the nation of Shara.}}
+* A woman playing with puppets with strings to greater puppets
+*Kings dying, queens weeping, battles raging
+*[[Whitecloaks]] ravaging the [[Two Rivers]]{{ref|The Whitecloaks invade the Two Rivers in [[The Shadow Rising]].}}
+*[[Seanchan]]
+*Her mother and father
+
+[[Elayne Trakand|Elayne]] comes over and feels pained over the devastation wrought by the [[Cairhien]]in civil war. Elayne speaks of recent history between [[Andor]] and Cairhien; after the [[Aiel War]], the wars between Andor and Cairhien stopped and Andor exported much grain to Cairhien. Egwene says they can't worry about Cairhien's people, they can't do anything about it and have to figure out how to get into the [[Stone of Tear]]. Egwene suddenly realizes that one of her dreams means that a Gray Man is after Mat.
+
+The ship suddenly stops, throwing them to the deck. [[Nynaeve al'Meara|Nynaeve]] comes up from below and surveys the status of the ship. Nynaeve says they hit a sunken ship and are stuck. The captain says a different ship should be there soon to help get them moving but it might take longer. Nynaeve says that they can just walk to [[Jurene]], the next village on the river, and get on a different ship there. Chin Ellisor tries to talk them out of walking on the Cairhien side, but it is much shorter to the next town there. Egwene and Nynaeve start bickering as they disembark because Nynaeve is used to issuing orders as the Village [[Wisdom]] but Egwene will stand it no longer now that they are both [[Accepted]]. Elayne tries to play peacemaker with no success. They are walking along the riverside when [[Aviendha|a figure in brown and gray]] steps out from the bushes in front of them.
+
+==Characters ==
+*[[Egwene]]
+*[[Elayne]]
+*[[Nynaeve]]
+*[[Chin Ellisor]]
+*[[Aviendha]] - as ''figure in brown and gray''
+
+=== Referenced===
+*[[Silvie]]
+*[[Rand]]
+*[[Perrin]]
+*[[Min]]
+*[[Mat]]
+*[[Bran al'Vere]] - as ''Egwene's father''
+*[[Marin al'Vere]] - as ''Egwene's mother''
+*[[Siuan]] - as ''Amyrlin''
+*[[Bennae Nalsad]]
+
+==Places==
+*[[Cairhien]]
+*[[River Erinin]]
+
+===Referenced===
+*[[Tar Valon]]
+*''[[Tel'aran'rhiod]]''
+*[[Two Rivers]]
+*[[Tear]]
+*[[Andor]]
+*[[Illian]]
+*[[Jurene]]
+
+==Items==
+*''[[Blue Crane]]''
+
+===Referenced===
+*[[Dream ter'angreal|Dream ''ter'angreal'']]
+
+{{notes}}
+{{DISPLAYTITLE:''Fires in Cairhien''}}

@@ -1,0 +1,285 @@
+This page gives details on what is known about the calendars, past and present, in the [[Westlands]].
+
+==Farede calendar==
+Used in the present-day [[Westlands]], it was invented by an [[Atha'an Miere]] scholar named [[Uren din Jubai Soaring Gull]], then adopted and promulgated by Panarch Farede of Tarabon.
+
+===Months===
+
+There are thirteen:
+
+#[[Taisham]]
+#[[Jumara]]
+#[[Saban]]
+#[[Aine]]
+#[[Adar]]
+#[[Saven]]
+#[[Amadaine]]
+#[[Tammaz]]
+#[[Maigdhal]]
+#[[Choren]]
+#[[Shaldine]]
+#[[Nesan]]
+#[[Danu]]
+
+===Days===
+
+Days of the week are apparently not named. It may be the case that, like in some cultures, they simply refer to each day as an ordinal number. i.e. first day, second day, third day etc.
+
+In early books, [[Robert Jordan]] had apparently not decided how long the week would be, so there are contradictory references to both 7- and 10-day weeks in the text.{{ref|{{Link|http://www.darkfriends.net/wheel/2_nondark/2.7_generalities/2.7.6_missteps.html|WOT FAQ, 2.7.6}}}}
+
+===Book chronology pages===
+By year: [[955 NE]] · [[978 NE]] · [[979 NE]] · [[998 NE]] · [[999 NE]] · [[1000 NE]]
+
+By book: 
+
+#''[[9{{ne|98}}#book1|The Eye of the World]] ''
+#''[[9{{ne|98}}#book2|The Great Hunt]] ''
+#''[[9{{ne|99}}#book3|The Dragon Reborn]] ''
+#''[[9{{ne|99}}#book4|The Shadow Rising]] ''
+#''[[9{{ne|99}}#book5|The Fires of Heaven]] ''
+#''[[9{{ne|99}}#book6|Lord of Chaos]] ''
+#''[[1{{ne|000}}#book7|A Crown of Swords]] ''
+#''[[1{{ne|000}}#book8|The Path of Daggers]] ''
+#''[[1{{ne|000}}#book9|Winter's Heart]] ''
+#''[[1{{ne|000}}#book10|Crossroads of Twilight]] ''
+#''[[1{{ne|000}}#book11|Knife of Dreams]] ''
+
+===Conversion===
+
+====From Gregorian to Farede====
+
+For those who just want to convert {{Wiki|Gregorian calendar|our Gregorian dates}} quickly, use the following list. The numbers in brackets show the number you need to add to the date of the period shown to get the date of the WoT month. This calendar works for all years that are not leap years. Leap years are dealt with in later sections.
+
+{|
+!Gregorian
+!Farede
+!Offset
+|-
+|1-18 January
+|11-28 Taisham
+| +10
+|-
+|19-31 January
+|1-13 Jumara
+| -18
+|-
+|1-15 February
+|14-28 Jumara
+| +13
+|-
+|16-28 February
+|1-13 Saban
+| -15
+|-
+|1-15 March
+|14-28 Saban
+| +13
+|-
+|16-31 March
+|1-16 Aine
+| -15
+|-
+|1-12 April
+|17-28 Aine
+| +16
+|-
+|13-30 April
+|1-18 Adar
+| -12
+|-
+|1-10 May
+|19-28 Adar
+| +18
+|-
+|11-31 May
+|1-21 Saven
+| -10
+|-
+|1-7 June
+|22-28 Saven
+| +21
+|-
+|8-20 June
+|1-13 Amadaine
+| -7
+|-
+|21 June
+|SUNDAY
+|n/a
+|-
+|22-30 June
+|14-22 Amadaine
+| -8
+|-
+|1-6 July
+|23-29 Amadaine
+| +22
+|-
+|7-31 July
+|1-25 Tammaz
+| -6
+|-
+|1-3 August
+|26-28 Tammaz
+| +25
+|-
+|4-31 August
+|1-28 Maigdhal
+| -3
+|-
+|1-28 September
+|1-28 Choren
+| +0
+|-
+|29-30 September
+|1-2 Shaldine
+| -28
+|-
+|1-26 October
+|3-28 Shaldine
+| +2
+|-
+|27-31 October
+|1-5 Nesan
+| -26
+|-
+|1-23 November
+|6-28 Nesan
+| +5
+|-
+|24-30 November
+|1-7 Danu
+| -23
+|-
+|1-21 December
+|8-28 Danu
+| +7
+|-
+|22-31 December
+|1-10 Taisham
+| -21
+|}
+
+
+====Reverse direction====
+
+Simply look up the Farede date in the list above and change the sign of the modifier to revert back to the Gregorian calendar.
+
+===Variant Westland calendars===
+
+====Toman====
+The Toman Calendar was used to record years After the [[Breaking of the World]] (AB). Devised by Toma dur Ahmid, it was adopted continent-wide approximately two centuries after the death of the last male Aes Sedai. It is unknown if the peninsula of [[Toman Head]] is named after the same individual. This calendar was in regular use until the end of the [[Trolloc Wars]], which took place approximately 1,350 years after the end of the Breaking.
+
+====Gazaran====
+
+The chaos and destruction of the [[Trolloc Wars]] resulted in confusion as to the exact date under the Toman system, so Tiam of Gazar created a new calendar dating from the Wars' end. The Gazaran Calendar, in celebration of supposed freedom from the Trolloc threat, measured time in Free Years (FY).
+
+====Hawkwing====
+[[Artur Hawkwing]] formed a new calendar based on the founding of his empire, but years From the Founding (FF) are only known and referred to by historians.
+
+==Comparison of Farede with Gregorian==
+
+===Astronomy===
+
+====Solstices====
+The Farede Calendar, unlike our own, ends with the shortest day of the year, known as the winter solstice. The summer solstice is placed in exactly the middle of the year and is the longest day of the year.
+
+How this is determined by the people in the the Westlands is unknown. The Atha'an Miere, who developed this calendar system, are known to be good astronomers because of their need to use the stars for navigation. This would give them a keen basis for the calculation of a calendar based on sidereal observations i.e. the movement of the stars.
+
+The Gregorian calendar, which we use today, is very accurate and was first proposed in 1582, more than twenty years before the invention of the telescope, though very accurate calendars existed outside Europe long before that. The ancient Greeks constructed mathematical models of the planets and astronomers in India were using algebra to solve astronomical problems by the 7th century. That, at least, makes it very feasible that the Farede calendar is an accurate one and that there exists at least one culture that has the knowhow to precisely determine the exact dates of the solstices and equinoxes.
+
+In our own world, summer solstice can fall on or around the 21st of June. In the Farede calendar, however, the day is called Sunday and isn't part of any month. It will usually fall between the 13th and 14th Amadaine, though on occasion it may fall between 12th and 13th or the 14th and 15th. It all depends on how accurately they are measuring (or predicting) the longest day. The likelihood may be that they simply follow a fixed day for this holiday.
+
+The winter solstice can also change day. In our world, it falls on or around the 22nd or 21 December. In the Westlands, this day is always the last day of the year.
+
+It should, however, be noted that Egwene mentions in ''Crossroads of Twilight'' that:
+
+{{quote|Months were seldom named, much less days numbered, except in official documents and treaties...and entering a woman’s name in the novice book. For common use, so many days before this feastday or after that sufficed. Written out, dates always looked a little strange to her.|Egwene al'Vere's thoughts{{ref/book|10|30}}}}
+
+Thus the driving factor is the accuracy of the feastdays. Perhaps the days between each are simply counted, or perhaps the beginning of each year is determined astrologically and the rest of the feastdays and dates then slot into place. The Guide also mentions that most people don't bother with months and, instead, use the passing of the seasons to mark time. Thus the Dark One's affect on the weather also changes the dates of some of the festivals where the first day of the season is celebrated by observing natural signs of the new season.
+
+====Equinoxes====
+
+The spring and autumn equinoxes signify the two times during the year when day and night have exactly the same length.
+
+These days are celebrated in the Westlands, but not very often. The spring equinox is celebrated once every four years in a festival called Thanksgiving. This is the equivalent of our February 29 in that it keeps the calendar accurate in the long-term. In our own world, the spring equinox is celebrated on the 20th or 21 March. In the Farede calendar, the equinox normally occurs annually on the 5th or 6th of Aine. One in every four years, an extra day is added that is not part of the month of Aine. This day would be inserted between the 5h and 6th or the 6th and 7th of Aine.
+
+When this occurs, however, there is occurs a disconnect between our calendar and the Farede calendar between our February 29 and the holiday of Thanksgiving (on our 20th or 21 March). Thus, if any real world date falls between these two dates on a leap year, the following must be used:
+
+29 February - 14th Saban
+
+1-14 March – 15-28 Saban (+14)<br />
+15-19 March – 1-5 Aine (-14)
+
+20 March – THANKSGIVING
+
+21-31 March – 6-16 Aine (-15)
+
+All other days of the year are as normal.
+
+The autumn equinox is celebrated only once every ten years and is called the Feast of All Souls' Salvation or All Souls' Day. As with the spring equinox, this results in some changes to the calendar.
+
+The autumn equinox normally falls on the 22nd or 23 September, which would translate as the 22nd or 23rd of Choren in the Farede calendar. At the start of every decade, however, an extra day is inserted that is not part of Choren at all. It would fall between the 21st and 22nd or the 22nd and 23rd of Choren. Like the spring equinox, this will result in a shift of dates between All Souls' Day and the end of the year (winter solstice/Feast of Lights. This only applies when these dates occur at the beginning of a new decade.
+
+1-22 September – 1-22 Choren<br />
+23 September – ALL SOULS' DAY<br />
+24-29 September – 23-28 Choren<br />
+30 September - 1st Shaldine
+
+1-27 October – 2-28 Shaldine<br />
+28-31 October – 1-4 Nesan
+
+1-24 November – 5-28 Nesan<br />
+25-30 November – 1-6 Danu
+
+1-21 December – 7-27 Danu<br />
+22-31 December – 1-10 Taisham
+
+Note that, in this year, we have only put 27 days in the Farede month of Danu. The reason for this will be explained in the next section. All other days of the year are as normal.
+
+====Solar year====
+
+The basics of the Farede calendar are as follows.
+
+* There are 28 days to each month.
+* There are thirteen months in each year – thus making 364 days
+* Some days are not part of any month and so are additional to the 364 days
+* The first of these is Sunday, the longest day of the year – making a total of 365 days in a year
+* The second is that of the Feast of Thanksgiving, celebrated on the spring equinox once every four years. This brings the total number of days to 365.25
+* The third is that of the Feast of All Soul’s Salvation, celebrated once every ten years on the autumn equinox. This brings the total number of days to 365.35.
+
+This estimate is slightly longer than a year in our own world. There is always the issue of whether the world of the Wheel of Time is meant to be Earth in another Age or not. Jordan has indicated that it is, so how do we remedy the difference? If this calendar were to run as it is with the same number of days in every year and extra days added on cycles of four and ten years, then it would gain an extra day every ten years. By {{ne|1000}}, the calendar would be a hundred days out of step.
+
+The answer is that it does NOT always have the same number of month days in every year. Remember that, according to the Farede calendar, the year ends on the shortest day of the year (winter solstice). The problem is that solstice is not a fixed day in our calendar and may fall on the Farede equivalent of 21st or 22 December. Whoever is responsible for the Farede calendar's upkeep must therefore determine when each year ends by determining the shortest day of the year. This will always be the 27th, 28th or 29th of Danu, with that day being the last day of Danu.
+
+This would mean, however, that matching the dates between Farede and Gregorian calendars would not be so constant. One, more practical way, to allow for this and to make our conversion easier is to simply make there 27 days in Danu in each year that All Souls' Day falls on. That would make the length of each year to be 365.25 days.
+
+This is the exact number of days that was adopted by Julius Caesar and continues (mostly) unchanged to this day. It is also the length of time for a year that most people know.
+
+A year on our Earth actually lasts 365.2422 days, with minor variations.
+
+===Gregorian adjustment===
+
+The calendar we use today is known as the Gregorian calendar and is a slight modification of the one adopted by Julius Ceasar. The difference is that only centennial years that are divisible by four hundred are leap years – accounting for 0.0075 of the difference between the two figures stated earlier.
+
+This means that, if we are using the Julian year of 365.25 days, the Farede Calendar system will lose a day every 133 years. But, it should be noted that this is really a problem with us defining the Farede years as having a constant number of days in them. As previously mentioned, the end of the year is determined by determining the shortest day of the year. That means that, as long as someone is checking the astronomy (and why not?) any errors will be reset at the beginning of any new Farede year. Thus, though it may not be systematic, the Farede calendar will ''never'' lose time as some of our real-world calendars have done. Checking the year using astronomy was something done by several ancient civilizations who also used the solstices and equinoxes to mark the passage of time.
+
+====Lunar month====
+
+The Gregorian calendar has twelve months whereas the Farede calendar has thirteen. We have spoken about the number of days in the year, but what about the number of months? A month is usually an approximation of the lunar cycle and this is echoed across many cultures. The problem is that the solar year does not divide equally into a whole number of lunar months. The actual number is 12.37. Whether twelve or thirteen months are used in a year becomes irrelevant when the calendar is based on the solar year. For this reason, months do not match up with the solar cycle.
+
+Some calendars, like ours, use months that have irregular numbers of days in them so that they fit the number of days in the year exactly. The Farede calendar solves the same problem by having a regular number of days in the months, but adding some days to the year that are not part of any month. The month of Danu also has an irregular number of days that can change from year to year.
+
+The {{Wiki|Hebrew calendar}} quite cleverly uses the {{Wiki|Metonic cycle}}, in which there are 19 years and 235 months. The months all have 29 or 30 days, thus making the average month far closer to a lunar month (29.53 days from one New Moon to the next) than either the Gregorian or the Farede calendars. Each year consists of twelve months, though seven times out of the cycle of nineteen an entire 'leap month' is added according to a strict pattern. When all this is put together, 19 years (of twelve or thirteen months) adds up to almost exactly 235 exact lunar months. The difference is less than two hours. With this calendar, one day is lost every 224 years. This means it is more accurate than the Julian calendar, though not as accurate as calendars based on the solstices and equinoxes.
+
+==Names of the months==
+
+Robert Jordan used the 13-month Hebrew and Babylonian calendars as inspiration for some of the names of the months. In the Hebrew calendar, there are months called Nisan, Tammaz, Sivan and Adar which correspond to the Farede months of Nesan, Tammuz, Saven and Adar. From the Babylonian calendar there is Tišritum (note the š has a sh sound) which means "month of the beginning" which corresponds to Taisham, the first month of the Farede year. Danu and Aine are both Irish goddesses. [[Jumara (Shadowspawn)|Jumara]] shares the name with the Shadowspawn otherwise known as Worms. 
+
+{{Notes}}
+[[Category:Parallels]]
+[[Category:Calendars]]
+[[Category:Concepts]]
+
+== External links ==
+*{{Link|https://drive.google.com/file/d/1MQLjiFtxqS8aWvwP672GvEK6cIDL4C30/view?usp&equals;sharing|2021 Farede Calendar}}

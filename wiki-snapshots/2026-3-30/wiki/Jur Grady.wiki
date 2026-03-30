@@ -1,0 +1,75 @@
+{{ character 
+|affiliation = Perrin Aybara
+|rank = Asha'man
+|occupation = Asha'man
+|nationality = Andoran
+|living = amol
+|status = Alive
+|image = jur_grady_knife_of_dreams.jpg
+|gender = Male
+|build = Stocky
+|eyes = Dark
+|appeared = {{loc|3}}
+|lastappeared = {{amol|45}}
+|imagesize = 200px
+}}'''Jur Grady''' is a [[Dedicated]] [[Asha'man]].{{ref|{{twotc}}, Jur Grady}} He has a son, [[Gadren Grady]], with his wife, [[Sora Grady]]. Sora has been [[Bonding|bonded]] to him so they always maintain a link together when they are apart.
+
+== Appearance ==
+Although only a few years older than [[Rand al'Thor]], Grady is already starting to show wrinkles. He is stocky and looks like a farmer and has dark eyes.
+
+== One Power ==
+Grady is one of the best at [[Healing]] and is skilled in opening [[Traveling#Gateways|gateways]].
+
+== Activities ==
+=== Dumai's Wells ===
+Grady is one of the first men on the farm. He was one of the Asha'man who rescued Rand at the Battle of [[Dumai's Wells]]. Rand seems to trust him. He is one of the Asha'man that Rand picks to accompany him to [[Cairhien]]. Rand sends him and Neald to join up with [[Perrin Aybara]].
+
+=== Accompanying Perrin ===
+Grady creates a gateway into [[Ghealdan]] and follows Perrin and his army through to try and track down [[Masema Dagar]].
+He escorts Perrin to his meeting with Masema in [[Abila]].
+
+When [[Faile Bashere]] is captured by the [[Shaido]], Grady Travels to try and cover more ground and catch up with the [[Shaido]] [[Aiel]]. Perrin has noticed that Grady's strength in the [[One Power]] has increased as the gateways he now makes are much larger. Grady creates a gateway to an area just above the Shaido camp in [[Malden]] where Perrin surveys the area.
+
+Grady is present in the tent when [[Galina Casban]] is brought in and questioned by Perrin.
+He Travels with Perrin when he makes his deal with the [[Seanchan]]. He uses the One Power to help convince [[Tylee Khirgan]] to accept.
+He creates a gateway to the [[Two Rivers]], where he escorts an army of Two Rivers men led by [[Tam al'Thor]] to Perrin's camp just before the attack on the Shaido in Malden. He probably uses ''saidin'' as a weapon against the Shaido when the actual attack begins.
+He informs Perrin that he is too tired to create a gateway for all the refugees from the [[Battle of Malden]], forcing everyone to march home.
+
+=== Confrontation with the Whitecloaks ===
+On their march from Malden a [[bubble of evil]] erupts in the form of small serpents.{{ref/book|13|p}} Grady is bitten and nearly dies from sickness. He attends a meeting with Perrin to decide where the army should now go. A decision is made for him to [[link]] with the [[Wise One]]s to create a gateway into [[Cairhien]], where they will start looking for Rand.{{ref/book|13|6}} When they come across the [[Children of the Light]] camp, Grady offers to wipe them all out with the One Power, which Perrin declines.{{ref/book|13|10}} He disguises himself when he goes with Perrin to meet with [[Galadedrid Damodred]] to discuss parley with the Whitecloaks.
+Later Perrin charges Grady with sending all the civilians back home through a gateway. Tam disagrees, stating that most want to stay with the army and are beginning to train with them.
+
+Grady goes with Perrin when Perrin's force is about to engage the Whitecloaks. He charges the Asha'man to create a massive trench between the two forces in an attempt to stall combat. When a bubble of evil erupts in camp, he and [[Fager Neald]] walk through destroying all the weapons that are now trying to kill their owners. He is then asked to pull Perrin from the trial if things go wrong. He acts as one of Perrin's bodyguards at Perrin's trial.
+After the trial, he and Neald hold open a gateway for all of Perrin's force to Travel through, managing to escape [[Graendal]]'s trap. He links with the Wise Ones and Neald to help Neald and Perrin make ''[[Mah'alleinir]]''.
+
+Perrin's army engage a [[Shadowspawn]] army that is about to ambush the Whitecloaks. Grady and Neald stand upon the high ground and destroy any [[Myrddraal]] they see. After the battle he links with [[Annoura]] and [[Masuri Sokawa]] to create a gateway for the last of the non-combatants to leave Perrin's camp and make their way to [[Caemlyn]]. He states to Perrin that he can't make a gateway to the [[Black Tower]]. He is then part of Perrin's procession when they meet with [[Elayne Trakand]] in Caemlyn. He guards Perrin when he meets with [[Matrim Cauthon]] and [[Thomdril Merrilin]] in [[The Happy Throng]]. Later Grady creates a gateway for Mat to the [[Tower of Ghenjei]] and then for Perrin's huge force as they all Travel through to the [[Field of Merrilor]] to prepare for the [[Last Battle]].
+
+=== The Last Battle ===
+Grady begins to work on more power-wrought weapons for Rand's gathered army. Rand supplies more Asha'man to help with the forging. He helps create gateways to [[Mayene]], where the wounded are taken to be Healed. As the battle begins Grady is busy channeling, while Rand uses his face in a [[Mirror of Mists]] weave to conceal his own identity while fighting in the Andoran front.
+
+As the forces of the Light are pushed to their last stand in the [[Field of Merrilor]], Mat sends Grady to escort a small defensive force, comprised mostly of villagers, upstream the [[River Mora]]. The River was a major obstacle in the attempts of the Shadow's western force to penetrate Shienar in the final confrontation in the Field of Merilor. The role of the small force was to resist the Shadow's forces attempt to dam the river. However, Grady himself was ordered by Mat not to help the force, but rather stay in hiding until dawn, where he was to open a gateway to the village from which the small force was recruited. Grady reluctantly obeyed his orders, not knowing why he was not to help hold the position, while the rest of the small force was being slaughtered by the Shadow's forces. At dawn he opened the gateway to the village - [[Hinderstap]] - where a 'glitch' in the pattern, along side a bubble of evil, resurrected the villagers over night. As the resurrected villagers surprised and overwhelmed the [[dreadlords]] guarding the dam, Grady was free to blow it up and unleash a torrent down the now dry riverbed, drowning many trollocs.
+
+Later on Grady returns to the final push at the Field of Merrilor against the Shadow's forces. As the battle seems to end in a decisive win for the Light's forces, Mat thanks Grady for his timely help with the dam, and asks him to open a gateway to [[Shayol Ghul]], so he can reach Rand. Grady informs Mat that no gateways will open there, as Shayol Ghul is no longer one place, possibly due to the great tearing of the pattern as the Dark One touches the world. He instead sends Mat, along with [[Olver]] and the [[Horn of Valere]], to a close by Seanchan ''raken'' scouting camp.
+
+After rescuing Gaul from [[Tel'aran'rhiod]], Perrin brings him back to the Field of Merrilor for healing. When he shifts into the waking world, Jur nearly attacks him with fire before realizing who he is. Jur sends for Aes Sedai to handle healing Gaul.
+
+After the final victory of the Light Grady is called to try his Healing on the failing body of Rand, but is unsuccessful in stopping its impending death.
+However this body is now the vessel of [[Moridin]]'s soul, Rand's having switched bodies before leaving Shayol Ghul.
+
+{{notes}}
+{{DEFAULTSORT:Grady, Jur}}
+[[Category:POV character]]
+[[Category:Learners]]
+[[Category:Channelers]]
+[[Category:Best healers]]<references />
+{{DEFAULTSORT:Grady, Jur}}
+[[Category:POV character]]
+[[Category:Learners]]
+[[Category:Channelers]]
+[[Category:Best healers]]
+<references />
+{{DEFAULTSORT:Grady, Jur}}
+[[Category:POV character]]
+[[Category:Learners]]
+[[Category:Channelers]]
+[[Category:Best healers]]

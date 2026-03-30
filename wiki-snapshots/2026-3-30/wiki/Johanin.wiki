@@ -1,0 +1,23 @@
+{{ character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Dead
+| death={{ne|999}}
+| nationality=Ghealdanin
+| rank=King
+| title=King of Ghealdan
+| affiliation=Ghealdan
+| gender=Male
+| mentioned={{Tfoh|39}}
+| lastmentioned={{kod|18}}
+}}
+'''Johanin''' was King of [[Ghealdan]]. 
+
+== Activities ==
+Johanin stripped [[Logain]] of his lands and titles when he declared himself as [[Dragon]].
+
+He died in a "hunting accident" after failing to take [[Masema Dagar]] seriously.
+
+== In the television series ==
+In the television series, the {{TVlink|King of Ghealdan}} is portrayed by {{TVlink|Miguel Álvarez}}
+[[Category:Royalty]]

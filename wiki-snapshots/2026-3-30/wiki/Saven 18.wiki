@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|May}}
+|{{Wotmonth|Saven}}
+|}
+'''Saven 18 (May 28)'''
+
+==Events==
+</noinclude>
+*{{ne|998}} - [[Logain]]'s escort, along with [[Elayne]], [[Gawyn]], and [[Elaida]], arrive at [[Tar Valon]].
+<noinclude>
+==External links==
+*[[wikipedia:may 28|May 28]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

@@ -1,0 +1,22 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| gender=Male
+| affiliation=Tear
+| title=Lord
+| status=Dead
+| mentioned={{cot|23}}
+}}
+{{for|the brother who used this name as an alias|Algarin Pendaloan}}
+'''Emarin Pandaloan''' was a noble of [[House Pendaloan]] of [[Tear]]. He was the younger brother to [[Algarin|Lord Algarin]]. 
+
+== Activities ==
+Emarin was able to [[channel]] but was found by [[Cadsuane]] and was taken to the [[White Tower]] to be [[gentle]]d. Cadsuane helped him survive for ten years after being gentled.
+
+{{DEFAULTSORT:Pendaloan, Emarin}}
+
+[[es:Emarin Pendaloan]]
+[[Category:Channelers]]
+[[Category:Sparkers]]
+[[Category:Nobility]]

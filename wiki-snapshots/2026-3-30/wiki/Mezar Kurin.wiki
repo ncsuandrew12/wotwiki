@@ -1,0 +1,34 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px 
+| nationality=Domani
+| rank=Asha'man
+| occupation=Dreadlord
+| affiliation=The Shadow
+| gender=Male
+| height=Short
+| hair=Graying
+| status=Alive
+| appeared={{wh|p}}
+| lastappeared={{amol|8}}
+| living=amol
+}}
+'''Mezar Kurin''' is an [[Asha'man]]. [[Rand al'Thor]] has raised him to the rank of Asha'man.
+
+== Appearance ==
+He is a short [[Domani]] who is graying at the temples.
+
+== Activities ==
+He is part of [[Logain Ablar]]'s faction in the [[Black Tower]] and he is one of the strongest among them.
+
+Mezar [[Bonding|bonded]] [[Adrielle]] unwillingly, although they have now become fond of each other.
+He has [[Traveling|Traveled]] to [[Tear]] to join up with Logain and Rand.
+He watches Rand's meeting with the [[Daughter of the Nine Moons]] from a distance and Travels in as backup when it is revealed that the Daughter of the Nine Moons is actually [[Semirhage]].
+
+Mezar suddenly turns up at the Black Tower and becomes one of [[Mazrim Taim]]'s favorites. His eyes also change, looking different, and his smile is wrong according to [[Norley]].{{Ref/book|13|56}} [[Androl Genhald]] notes that his eyes are now dark caverns, where no light shines now, meaning he was Turned to the [[Shadow]]. Mezar arrives with [[Atal]] and the two seem friendly with each other. [[Coteren]] then arrives and informs that Androl has been demoted to Soldier. This just about causes a confrontation between the last of Logain's followers and [[Mazrim Taim]]'s men. Mezar participates in trying to Turn Logain, and actually Turning [[Evin Vinchova]] to the [[Shadow]].
+
+{{Notes}}
+{{DEFAULTSORT:Kurin, Mezar}}
+[[Category:Logain's followers]]
+[[Category:The Turned]]
+[[Category:Channelers]]

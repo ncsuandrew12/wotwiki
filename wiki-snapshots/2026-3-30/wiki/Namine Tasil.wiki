@@ -1,0 +1,26 @@
+{{ character 
+| image=BrownAjah.png
+| imagesize=250px
+| ewot=Namine
+| ajah=Brown
+| nationality=Domani
+| rank=Aes Sedai
+| affiliation=White Tower
+| gender=Female
+| mentioned={{Tgs|31}}
+| lastmentioned={{tgs|31}}
+| living=tgs
+| status=Alive
+}}'''Namine Tasil''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Namine Tasil}}
+
+== History ==
+She is the eldest daughter of [[Quillin Tasil]]. Her mother was one of the most successful silk merchants in Bandar Eban. Since her father is still alive, it can be assumed that Namine is a relatively young Aes Sedai.
+
+== Activities ==
+She went to the [[White Tower]] and joined the Brown Ajah, settling down as a [[Librarian]]. [[Cadsuane Melaidhrin]] was impressed with Namine's understanding of current events and followed the link down to her father, an [[Andoran]] innkeeper in [[Bandar Eban]], who became one of her [[eyes-and-ears]].
+
+{{notes}}
+{{DEFAULTSORT:Tasil, Namine}}
+[[Category:Librarians]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

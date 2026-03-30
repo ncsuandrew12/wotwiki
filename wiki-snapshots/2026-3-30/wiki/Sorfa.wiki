@@ -1,0 +1,5 @@
+'''Sorfa''' is an [[Herbs|herb]] used medicinally by [[Seanchan]]. A tincture of sorfa can be applied topically to a wound such as a welt to aid in healing.{{ref/book|9|14}}
+
+{{notes}}
+{{Short}}
+[[Category:Herbs and Medicines]]

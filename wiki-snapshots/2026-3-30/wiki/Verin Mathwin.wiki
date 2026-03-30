@@ -1,0 +1,136 @@
+{{character 
+| image=Wot verin mathwin by reddera-d4szhs7.jpg
+| imagesize=250px
+| ajah=Brown
+| status=Dead
+| birth={{Ne|849}}
+| death={{ne|1000}}
+
+| nationality=Far Madding
+| affiliation=The Light
+| rank=Aes Sedai
+| height= 5' or 152 cm
+| build=Plump
+| hair=Brown, with a touch of gray
+| eyes=Dark
+| gender=Female
+| mentioned={{ns|3}}
+| appeared={{ns|10}}
+| lastappeared={{tgs|39}}
+| lastmentioned={{tom|e}}
+| ewot=verin
+}}
+{{quote|Your soul is of a pure white, Verin. Like the Light itself.|[[Egwene al'Vere]]{{ref/book|12|36}}}}
+
+{{WotQ|{{PAGENAME}}}}
+
+'''Verin Mathwin''' (pronounced: VEH-rihn MATH-wihn) was an [[Aes Sedai]] of the [[Brown Ajah]]. Although she presented herself as somewhat scatterbrained like the typical Sister of her Ajah, Verin was extremely sharp and intuitive. She was a scholar with an impressive amount of knowledge about obscure or esoteric fields, such as the [[Portal Stone]]s, the [[Age of Legends]], and ''[[Tel'aran'rhiod]]''.
+
+After researching the [[Black Ajah]], Verin was caught and was forced to join the order devoted to the [[Shadow]]. After she spent seven decades cataloguing the identity of every member of the Black Ajah and their inner workings, she chose to sacrifice her life, so her work could be given to [[Egwene al'Vere]].{{ref|{{twotc}}, Verin Mathwin}}
+
+==Appearance==
+She is short, about 5' (152&nbsp;cm) and plump with a square ageless face that looks placid. She has dark eyes, and her hair is brown with a touch of gray. She seems to have aged prematurely as most Aes Sedai her age (151 at time of death){{ref|[http://13depository.blogspot.com/2011/03/verin-q-with-maria-simmons.html Q&A with Maria Simmons]}} would not show signs of graying. This is likely due to her stressful double life as a mole within the Black Ajah.
+
+She has a scar on her arm that she claimed came from Tel'aran'rhiod. [[Anaiya Carel|Anaiya]] healed her, but it did not work as well as it should have.
+
+Despite the ageless face, she looked like a mother or an aunt or a cook at an inn.
+
+Her fingers were often stained in ink, and she habitually rubbed her nose, especially when lost in thought, so her nose was often smudged.
+
+==Personal Characteristics==
+
+Like all members of the Brown Ajah, Verin devoted herself to knowledge and the pursuit of it. As a result, she had a tendency to go on fruitless tangents in dire conversations and appeared lost in thought at inopportune moments. She was driven to learn as much as possible.
+
+Unlike other Brown Sisters, however, Verin seemed only to appear to be in these reveries to disguise her intentions, as she was at times very sharp and insightful. [[Moiraine Damodred]] remembered her particularly fondly from her days as a Novice and Accepted when Verin used to have the cooks leave sweets out for her and [[Siuan Sanche]]. Verin also told [[Morgase Trakand]] that there was no real need for her to remain in the Tower as she would never be able to do much with her limited talent even with teaching.
+
+Verin's rooms in the Brown Ajah's quarters were located next to a tapestry of two kings who lived before [[Artur Hawkwing]]. Her rooms were full of books, scrolls, maps, and skulls. There was also a brown owl that sat on a skull to keep the mice down because they chew paper. She wore plain garb, shying away from the finer silks and fabrics some other Sisters preferred. She almost always kept a writing case on her belt in order to jot down notes on certain goings-on when she felt it was important. Her notes filled many cupboards and chests in her room in the Tower. The notebooks were written in a cipher to prevent anyone reading them knowing about what the writings actually were.
+
+===Abilities===
+[[File:Verin Mathwin.jpg|thumb|308x308px|Verin Mathwin - Brown Aes Sedai sister]]Regarding her skills in the Power, her [[Healing]] skill was no more than average, and her skill with [[Five Powers|Earth]] was quite feeble. However, Verin believed no Aes Sedai can surpass her at [[Delving]].{{ref/book|8|Prologue}} She was one of the Aes Sedai who had the ability to [[Travelling|Travel]], though she might have been only able to open large [[Gateway]]s with her [[Lily brooch]] ''[[angreal]]''. She claimed, though, that she was not strong enough to use [[Portal Stone]]s. Her skill in [[Cloud Dancing]] must have been at least of average strength because she often worked with the weather.{{ref/book|4|30}}{{ref/book|4|40}}
+
+Perhaps most notable was Verin's discovery and use of a weak form of [[Compulsion]], similar to the form [[Liandrin]] of the [[Black Ajah]] used. This was purely an exercise in curiosity at first and was done by piecing together fragments of [[wilder|wilders']] tricks to get people to do as they wished. Verin's weaves were far from foolproof, however; the object of Verin's Compulsion weaves had to find reason within herself to obey the commands and trust in Verin.{{ref/book|8|Prologue}} It also never worked on men, even on those with weak personalities.
+
+==History==
+Verin was born in [[Far Madding]] in the year {{ne|849}}. She had a fiancé, [[Eadwin]]{{ref/book|8|Prologue}}, before she was exiled for being able to channel the [[One Power]]. She fondly remembered Eadwin's mischievous smile. She went to [[Tar Valon]] in {{ne|864}}, where she spent five years as a novice and six years as Accepted before being raised to the shawl and joining the Brown Ajah in {{ne|875}}. Driven to learn as much as possible, she thought the Brown Ajah was the best way to accomplish that. She was pleased, surprised and frightened when she passed the test to become Aes Sedai.
+
+In {{ne|929}}, she joined the Black Ajah because she was caught while inquiring too deeply into their existence. She had begun studying rumors and tales and had come dangerously close to discovering who some of the Black Ajah members were. She joined it to escape death but used the opportunity to secretly study it in hopes of eventually transmitting her knowledge to someone who could end the Black Ajah.
+
+She traveled extensively, even going as far as [[Falme]] to look at a [[Portal Stone]]{{ref/book|2|37}} and perhaps even spent a month in [[Cairhien]] trying to find the source of [[Hurin]]'s powers to [[Sniffer|smell]] violence and bloodshed. She also at one point found a twisted ring ''[[ter'angreal]]'' known as a [[sleepweaver]] hidden by the Tower's [[Corianin Nedeal|last]] [[Dreamer]] and used it to enter ''[[Tel'aran'rhiod]]'', the World of Dreams, where she received a physical scar that [[Anaiya]] was unable to heal fully.{{ref/book|3|21}} Ten years after the death of her first [[warder]], [[Balinor]], she bonded her second warder, [[Tomas]].{{ref/book|6|11}} She was also one of the seven Aes Sedai present at the raising of Moiraine Damodred to Aes Sedai.
+
+[[File:Verin.JPG|thumb|left|Verin Mathwin painting by Todd Cameron Hamilton.]]
+
+==Activities==
+===The Great Hunt ===
+Verin is one of the 14 Aes Sedai - the other Brown being [[Serafelle]] - who accompanied [[Siuan Sanche]] to [[Fal Dara]]. After an assault by [[Shadowspawn]] on [[Fal Dara]], during which the [[Horn of Valere]] was stolen, she copied (with Serafelle) the [[Prophecies of the Shadow|Prophecy of the Shadow]] (written by one of attackers on the walls of the dungeon) and interpreted it for Siuan and Moiraine. She correctly guessed that the verse ''"The man who channels stands alone"'' referred to the [[Dragon Reborn]] and that one of the three ''[[ta'veren]]'' must be him, which caused Siuan and Moiraine to briefly consider detaining her before bringing her into a level of trust.{{ref/book|2|7}}  Later on, she elected to follow the three ''ta'veren'' in their attempts to recover the stolen Horn, rather than return to Tar Valon.{{ref/book|2|14}} She claimed that Moiraine asked her to accompany them, but Moiraine later said she did nothing of the sort. During her travels, Verin offered [[Rand al'Thor]] a hint at how to activate the Portal Stones. As a result, Rand propelled the entire party into a series of painful visions about the alternate lives they could have lived.{{ref/book|2|37}} Upon reaching the cape town of Falme, Verin sent Rand,with [[Matrim Cauthon]], [[Perrin Aybara]], [[Ingtar Shinowa]], and [[Hurin]] to recover the Horn and Mat's [[Ruby-hilted dagger|dagger]], which fulfilled a passage from the [[Karaethon Cycle]].{{ref/book|2|44}}
+
+Verin returned to Tar Valon with [[Elayne Trakand]], [[Egwene al'Vere]], [[Nynaeve al'Meara]], and [[Matrim Cauthon]], becoming the only person other than Siuan to know that Siuan had hidden the Horn of Valere in the White Tower.{{ref/book|3|12}} There, along with nine other Aes Sedai and a powerful ''[[sa'angreal]]'', Verin helped sever Mat's connection to the tainted dagger from [[Shadar Logoth]].{{ref/book|3|18}} In the meeting with Siuan, she hinted at letting him die, so he would no longer be linked to the Horn, leaving it to someone else to blow it for the Tower. She also became aware of Egwene and Nynaeve's search for the Black Ajah. She later gave Egwene the [[sleepweaver]] which allowed her to enter ''[[Tel'aran'rhiod]]''. Verin failed to give Egwene some notes that could have been important for her Talent or her search for the [[Black Ajah]].{{ref/book|3|21}}
+
+[[File:Verin_Mathwin_Brown_Ajah.jpg|thumb|Verin Mathwin by B. Roque]]
+
+===In the Two Rivers ===
+Verin turned up in the [[Two Rivers]] with [[Alanna Mosvani]], where the two discovered many girls with the potential to channel,{{ref/book|4|31}} including [[Bode Cauthon]]. In the Two Rivers, Verin helped Perrin fight an immense horde of [[Shadowspawn]] that were assaulting [[Emond's Field]]. While helping Perrin in his fight, she made notes on the effects that Perrin had through him being ''ta'veren'' and showed an interest in the hammer that Perrin carried in contrast to the axe he had carried the last time they met.{{ref/book|4|32}} Just before the final battle with the Trollocs, Verin wondered when he would forsake the axe for the hammer.{{ref/book|4|56}} One of the Prophecies in the Karaethon Cycle said, "''When the Wolf King carries the hammer, thus are the final days known.''"{{ref/book|11|4}} 
+
+We see from this musing that Verin had a keenly evident understanding of the Propheceies and their imminent applicability, something we had only witnessed in Moiraine and insight into Perrin's nature. She was very interested in the three ''ta'veren'' and expressed a desire to split into three just so she could tail all of them, even going as far as to say she would marry one or all of them in order to stay by their side.{{ref/book|4|56}}
+
+[[File:Verin Mathwin.JPG|thumb|right|Verin Mathwin from the [[CCG]].]]
+
+===Helping Rand===
+Verin sided with the [[Rebel Aes Sedai|rebelling]] faction of Aes Sedai centered in [[Salidar]] after reaching [[Caemlyn]]{{ref/book|6|42}} and sent the new Novices from the Two Rivers to Salidar. She attempted to manipulate other Aes Sedai into confronting Rand; they decided to follow him to [[Cairhien]] after they received a letter from him.{{ref/book|6|49}} On their journey, they met up with Perrin{{ref/book|6|54}} who was leading an army to rescue Rand from the White Tower. Verin particpated in the [[Battle of Dumai's Wells]] and was caught up so strongly in his ''ta'veren ''pull that it caused her to swear an oath to Rand after winning the battle.{{ref/book|6|55}} She then set about helping Rand by using a weak form of Compulsion on some of the Tower Aes Sedai who had kidnapped him, so they would serve Rand up until [[Tarmon Gai'don]].{{ref/book|8|Prologue}} It was also likely that she did this to ease the treatment the Aes Sedai were suffering under the Wise Ones. She joined the group of Sisters, led by [[Cadsuane Melaidhrin]], who followed Rand. Verin wanted Rand to get to the Last Battle, but her true allegiance was unclear at this time: it was possible that she had spoken a lie, which should have been impossible due to the [[Three Oaths]]. Verin was also ready to poison Cadsuane in Far Madding when she thought that Cadsuane would harm Rand.{{ref/book|9|25}}
+
+Verin took part in the [[Battle near Shadar Logoth|battle]] when Rand removed the taint on ''[[saidin]]''. During this battle while linked with [[Kumira]] and the Windfinder [[Shalon din Togara Morning Tide]], she encountered [[Graendal]] who they fend off in exchange for Kumira's life.{{ref/book|9|35}} After continuing to travel with Rand, Verin suddenly disappeared. She left him a letter saying he could trust Cadsuane but no other Aes Sedai no matter what oaths they had sworn to him.{{ref/book|11|20}}
+
+===Last Journey===
+Verin traveled to [[Tear]] with the intention of continuing to Tar Valon. During her journey, the ''ta'veren'' nature of Mat drew her to [[Trustair]] through interruptions while she attempted to Travel. She exited at the wrong place when [[Skimming]] because of an off-hand comment by Tomas. Correctly guessing the ''ta'veren'' pulled as the source of her traveling difficulties, Verin distributed pictures of Mat and Perrin in an effort to locate them. Meeting up with the [[Band of the Red Hand]], Verin offered to take them directly to Caemlyn if Mat would agree to follow a letter of instruction that she left with him. The letter was to be opened ten days after his arrival in Caemlyn. Mat negotiated a deal that gave him the choice to either open the letter after ten days and follow the instructions or not open it but stay in Caemlyn for 30 days. Mat intended to use the latter option. Before breaking camp, Mat noticed that Verin had a stack of sealed envelopes in her bag.{{ref/book|12|36}}
+
+{{quote|...although the word Black may brand my name forever, my soul is Brown."<br/>"I will tell, Verin", Egwene promised. "But your soul is not Brown. I can see it. Your soul is pure white. Like the Light itself.|Verin Mathwin and Egwene al'Vere}}
+
+[[File:A Cup of Tea.jpg|thumb|left|''A Cup of Tea'' by Edsel Arnold]]
+
+Verin next appeared in the White Tower. To quickly gain Egwene's attention and gain a private meeting, she lied about the color of Egwene's dress.{{ref/book|12|38}} She then confirmed that she was a member of the [[Black Ajah]] and that her Warder [[Tomas]] was a Darkfriend. She also revealed that she had joined the Black Ajah after being caught asking too many questions; she was given the choice between joining or death and decided to stay alive. She made the most of her situation by secretly studying them. During the meeting, she said that, to continue her research, she became involved with recent events and followed Rand. She also showed insight into how the [[Forsaken]] and the [[Dark One]] operate. Verin was able to tell Egwene all of this because she had poisoned herself (by the substance [[Sorilea]] gave her in Cairhien{{Ref/book|9|13}}) and a loophole in her Black Ajah oaths "not to betray the Great Lord, to keep my secrets until the hour of my death" allowed her to betray them since her death was then imminent. She did not believe that she would be redeemed but gave Egwene two books, one with details of the Black Ajah and the other with the cipher to decode it.{{ref/book|12|39}} Egwene later used this information to cull the Black Ajah from the Aes Sedai, stilling and executing many of them, although the majority escaped. Verin also told Egwene that one of the Forsaken, [[Mesaana]], had infiltrated the White Tower, but she could not determine who she was impersonating. Also in the book Verin had recorded the prophecies Darkfriends believed and the different factions within. Egwene was impressed with how accurate Verin's list of Black Ajah members was.{{ref/book|12|43}} After revealing this information, Verin died, though not before Egwene consoled her by saying her soul shone white, like the light. Soon after, the [[Battle of Tar Valon]] began.
+
+===Verin's Letter===
+Weeks later, Mat still hadn't opened the letter from Verin. [[Olver]] unsealed and read it instead and then handed it to [[Talmanes]]. It was revealed that the letter was a warning to Mat from Verin who expected Mat to open it within a few days. Verin knew of a Trolloc invasion headed toward Caemlyn that would pour from a [[Waygate]]. In th letter, Verin advised Mat to warn the Queen in time to destroy it. However, the contents of her letter were not discovered in time to prevent the invasion from beginning, and Caemlyn was ablaze. As Mat was in the Tower of Ghenjei, Talmanes mustered the Band to defend Caemlyn. Caemlyn was destroyed in the invasion, though Talmanes was able to evacuate many of the citizens with the help of [[Aludra]] and her dragons.
+
+Verin had also given letters to a number of other people such as Rand al'Thor, Alanna Mosvani, and possibly [[Galadedrid Damodred]].{{ref/book|13|44}}
+
+After Verin's death, Egwene wanted to have Verin's actions publicized, so she could be honored for her role in weakening the Black [[Ajah]].
+
+{{dablink|For more detail about the content of  "''Verin's letter''," see ''[[Verin's letter to Mat]]''.}}
+
+==Allegiance==
+Verin's actions had led to speculation about her allegiance before it was revealed. The most suspicious act was her lie to Rand that "Moiraine sent me," when she helped him recover the Horn of Valere. Another suspicious act was hiding the notes of [[Corianin Nedeal]] after giving the [[sleepweaver]] to Egwene. Verin also discovered a method of [[compulsion]] that violates [[Tower Law]], though the way she used it did not technically violate the [[Three Oaths]] as she phrased it in a way that would not harm the recipient.
+
+In Verin's thoughts, she referred to the [[Dark One]] by that epithet rather than by the title "Great Lord" which most [[Darkfriend]]s used. She also stayed her hand when almost poisoning Cadsuane upon discovering that Cadsuane's true intentions were to help Rand al'Thor survive to [[Tarmon Gai'don]].
+
+[[File:Verin_Mathwin_Aes_Sedai.jpg|thumb|left|300px|Verin Mathwin battling Shadowspawn in Emond's Field]]
+
+The reason for her inconsistencies was revealed by Verin herself when she revealed to Egwene that she had spent the previous 70 years as a mole in the Black Ajah. Originally joining the Shadow with her Warder [[Tomas]], they both quickly realized their mistake. Rather than forsake the oaths she took to the Shadow, Verin decided to work discretely, gathering as much information on the Black Sisters, known Darkfriends both high and low, and the Shadow as possible before [[Tarmon Gai'don]].
+
+While she gave Egwene the Twisted Stone Ring ter'angreal, she had been ordered to hold the notes from Corianin Nedeal by the Black Ajah Supreme Council. But after the Amyrlin had ordered her to assist Egwene in her research of Dream, Verin had to give something.
+
+In her final hour after meeting with the now Amyrlin Egwene, she turned over copious notes about the Black Ajah, including a list of every member she had discovered. The list was remarkably accurate with only a handful of others being found through Egwene's purges in both the rebel and Tower camps using the Oath Rod (three among the rebels, three in the Tower, and one more revealed in battle). To enable herself to betray the Shadow, Verin poisoned herself using a loophole in the wording of her oath: not to betray the Shadow until "the hour of her death." This more or less proved Verin's true commitment to the Light.
+
+Despite her death, a few of Verin's plots remained in motion. She gave Mat a sealed letter to be opened on the tenth day after she left him in Caemlyn. As she did so, other such letters were visible in her bag. Another such letter was handed to Rand upon his visit to the White Tower, while the envelope for another was found in Alanna's room after she disappeared from the Stone of Tear. Though a small amount of doubt remained, it was far more likely that Verin's letters were all sent to aid the Light.
+
+==Parallels==
+It is possible that Verin's first name came from "Verrine". In 1611 in Aix-en-Provence, France, a sequence of people claimed to be possessed by demons. One of the supposed victims said that Verrine was its name. Her name could also simply be a play on Verity, as she did, in the end, expose many truths or ''verities'' about the plans of the Shadow.
+
+Her surname derives from Math ap Mathonwy, an important king of Gwynedd in Welsh mythology. This seems only because Jordan liked the name.{{ref|[[Origins of the Wheel of Time]], Verin Mathwin}}
+
+==In the television series==
+In the television series, {{TVlink|Verin Mathwin}} is played by actress {{TVlink|Meera Syal}}.
+
+{{notes}}<references /><references /><references /><references /><references />
+{{Primary Protagonists}}
+{{DEFAULTSORT:Mathwin, Verin}}
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Parallels]]
+[[Category:POV character]]
+[[Category:Caemlyn Embassy]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Notes needed]]
+[[Category:Citation needed]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Black Ajah]]

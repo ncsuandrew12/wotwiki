@@ -1,0 +1,15 @@
+{{VG}}
+A '''Fire Shield ''ter'angreal''''' is a ''[[ter'angreal]]'' which gives the user protection against damage that would usually cause them to burn or catch fire. It is only known to have survived the [[Breaking of the World]] in the [[Mirror World]] inhabited by [[Elayna]] Sedai.
+
+==Use==
+The Fire Shield ''ter'angreal'' gives the bearer a personal barrier of protection against fire. However, a flaw is that the barrier will only last for seconds, and cannot be used for relatively long intervals after this barrier expires.<ref name="VideoGame">''[[The Wheel of Time (video game)|The Wheel of Time]]''. Red Eagle Games, 1999.</ref>
+
+==History==
+In a Mirror World, a [[novice]] named Elayna took her [[Accepted]] test, and found a Fire Shield ''ter'angreal'' while in the second ring of the [[silver arches]], during her time trapped in a basement of a powerful [[Darkfriend]].<ref name="VideoGame"/>
+
+{{notes}}
+
+{{DISPLAYTITLE:Fire Shield ''ter'angreal''}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items original to the video game]]

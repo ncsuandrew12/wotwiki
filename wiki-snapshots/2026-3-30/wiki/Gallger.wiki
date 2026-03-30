@@ -1,0 +1,14 @@
+{{ character | image=FarMaddingFlag.png
+| imagesize=150px
+| status=Alive
+| nationality=Far Madding
+| gender=Female
+| occupation=Innkeeper
+| appeared={{Wh|32}}
+| lastappeared={{wh|32}}
+| living=wh
+}}
+Mistress '''Gallger''' is the innkeeper of [[The Golden Wheel]] in [[Far Madding]]. She is lean with her hair in a dark bun on the back of her head.
+
+She surveys the common room and looks suspiciously at [[Rand]] until he buys a drink, because she does not like her serving men and women talking when they should work.
+[[Category:Short pages]]

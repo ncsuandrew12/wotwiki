@@ -1,0 +1,93 @@
+[[File:Flame-icon.svg|right|250px]]
+
+{{dablink|For other uses of the word "tower," see [[Tower]].}}
+
+The '''Hall of the Tower''' is the central council of the [[Aes Sedai]], responsible for making policy and implementing the [[Amyrlin Seat]]'s decrees. It is comprised of three [[Sitters]] from each [[Ajah]] and is presided over by the Amyrlin Seat. The Amyrlin, however, may not enter the Hall unless announced by the [[Keeper of the Chronicles]], who may not enter the Hall without the Amyrlin.
+
+During the [[Schism]] there were [[Hall of the Tower during the White Tower Schism|two Halls]]; one in the Tower loyal to [[Elaida do Avriny a'Roihan]] and the Rebel Hall loyal to [[Egwene al'Vere]]. Each Hall had only eighteen members as opposed to the usual twenty-one. Elaida formally decreed the [[Blue Ajah]] disbanded.{{Ref/book|12|2}}  Although no reciprocal motion was ever made by the rebels, it is unlikely that any Red Sisters were welcome nor would wish to join them. Since its reunification, the Tower once again has its full compliment of Sitters. See [[Hall of the Tower under Egwene al'Vere]] for more information.
+
+==Membership==
+Each Ajah is represented by three Sitters, chosen inside the Ajah according to its rules and customs. Some Ajahs, like the Blue, do not see the role of Sitter as mutually exclusive to that of being the Ajah Head, as shown by both [[Eadyth]] and [[Lelaine Akashi]], whereas others typically have Ajah Heads who are not Sitters and a woman will retire from the Hall to become Ajah Head. [[Suana Dragand]] and [[Ferane Neheran]] were seen as being exceptions by reentering the Hall after retiring from it years before.
+
+Contrary to the usual strength-based hierarchy among normal sisters, Sitters from any Ajah are chosen more for experience and skill with years since attaining the shawl being a strong factor in their appointment. It is unusual for a sister to take a seat in the Hall before wearing the shawl for at least seventy or eighty years (more or less equivalent to being at least one hundred years old).{{Ref/book|8|8}} Several Sitters in both Halls are notably weaker in the Power than those at the top of the hierarchy outside of the Hall of the Tower. Normally the rule is that Sitters are much older before they are first appointed. There are a few exceptions where Sitters are elected at a younger age (although not young compared relative to any non-channeler) and it is usually noted that these exceptions occur for some underlying political motivation or when the woman in question has shown a particularly strong political skill, such as is the case for [[Saroiya Farseen]] and [[Andaya Forae]]. While this breaks the general trend, it is also common for there to be at least one woman that is slightly younger in the Hall at any one time.{{verify}}
+
+The Amyrlin may require the resignation of one or more Sitters, but Ajahs are free to return those Sitters. On at least four occasions, the Amyrlin Seat has called for the resignation of the entire Hall. Twice, a new or mostly new Hall was appointed, but on the other two occasions the Amyrlin resigned and was exiled by the Hall.{{ref/book|7|g}}
+
+==Sittings==
+The Hall can convene both formally and informally in a meeting known as a '''Sitting''', during which the Hall may vote, discuss important information, or question people summoned to the Hall. There are special rules governing such a meeting.
+
+{{quote|There were many more traditions and customs than laws, and the light knew there were more laws than anyone every really knew. Often contradictory layers of law laid down over the centuries. But tradition and custom ruled Aes Sedai as much as Tower Law ever had|Crossroads of Twilight|Tower Law}}
+
+===Calling a sitting===
+*A formal sitting of the Hall is called by three Sitters who have the same question. This question must be addressed before any other during the sitting.{{ref/book|10|19}}
+*More than half (eleven) of the Sitters are needed for a formal sitting of the hall to commence.{{ref/book|10|19}} When Egwene al'Vere became Amyrlin Seat it was agreed that all Sitters were to be present for a formal sitting.
+*By tradition, the two oldest Sitters reserve the right to sit in position closest to the Amyrlin's Seat. After that, seating is on a first come basis.{{ref/book|10|19}}
+*The three Sitters of each Ajah sit together, so it is the responsibility of the sister who arrives first to select a good position for her Ajah. Typically, the seats closest to the Amyrlin's are the best.{{ref/book|10|19}}
+*The youngest sitter speaks the phrases that open a formal sitting, though another sitter may override this privilege.{{ref/book|10|19}}
+*Every Sitter and the Amyrlin Seat have to be notified of a Sitting before it happens.
+
+===Decorum during a sitting===
+*There is a prohibition on speeches.{{ref/book|10|19}}
+*Displays of anger are forbidden in the Hall.{{ref/book|10|19}}
+*Excepting exactly prescribed functions, channeling is forbidden inside the Hall.{{ref/book|10|19}}
+
+===Amyrlin Seat===
+*Inside the Hall, the Amyrlin is a little more than the first among equals, the Sitters holding more power there than outside the Hall. The balance must be just right; assuming complete equality, or assuming too much power, both can cause an Amyrlin to fail.{{ref/book|10|19}}
+*The Amyrlin does not need to be present at the start of the meeting, but when she arrives, The Keeper of the Chronicles must announce the Amyrlin before her entrance into the Hall of the Tower{{ref/book|10|18}} by declaring "She comes! She comes! The Flame of Tar Valon, the Amyrlin Seat." {{ref/book|10|19}}
+*The Amyrlin can also leave during the meeting, but again, her exit must be ceremonially announced.
+
+====Keeper of the Chronicles====
+*The Keeper of the Chronicles may not participate in discussions in the Hall.
+*She must stand during the sitting.
+*She may not enter the Hall without the [[Amyrlin Seat]] nor may the Amyrlin Seat enter without her.
+
+===Witnesses===
+*Before calling a witness Aes Sedai, the following is intoned: "You have been called before the Hall of the Tower to relate what you have seen. I charge you to speak of these things without the evasion or holding back and to answer each question in complete fullness leaving out nothing. Say now that you will do so. Under the light and by your hope of the rebirth and salvation or suffer the consequences." The witness gives assurance and can begin giving her account. {{ref/book|10|19}}
+*Witnesses are to address the Amyrlin seat when speaking.{{ref/book|10|19}}
+
+==Voting==
+There are two forms of agreement: the '''greater consensus''' and the '''lesser consensus'''.
+
+===Lesser consensus===
+The lesser consensus requires a two-thirds of the Sitters to stand and also has a quorum of eleven. Unlike the greater consensus, though, it does not require that each Ajah be represented. If a matter can be passed with a lesser consensus, someone may call for a greater consensus in the interest of unity amongst the Hall. In such a case, deliberation will continue the greater consensus is achieved or until it is clear that it can not be achieved. In such a case, the agreement is still carried forward. {{ref/book|10|19}}
+
+Examples of the lesser consensus passing despite lacking the greater consensus are when Sitters outright refuse, or when an ajah can not be present.
+
+===Greater consensus===
+For a matter to pass with the greater consensus, all Sitters present must stand for it. In addition, a majority of the Hall (traditionally eleven members) must be present, including at least one from each Ajah. An exception to the latter requirement is a vote to remove an Amyrlin or Keeper of the Chronicles, in which case the officer's former Ajah will not be informed until after the vote.
+
+===Raising an Amyrlin===
+A further voting system, which can consist of two rounds, is used to raise the Amyrlin Seat. If all the participating Sitters stand in the first round, the woman is elected without needing a second round. If the woman receives the support of only the majority of the Sitters (eleven) a second round is required; before the second round the woman must pledge for her election washing the feet of the reluctant Sitters and after it she needs to receive a unanimous vote. Despite requiring unanimity on the second round, a vote to raise an Amyrlin is distinct from the greater consensus, because it does not need the presence of all the 21 Sitters and also it does not require that all Ajahs be present. In fact when Elaida was raised in the Tower, and when Egwene was raised in [[Salidar]], an Ajah was missing (the Blue and Red, respectively).
+
+In addition, Egwene thinks to herself that under the old rules, eleven Sitters were not enough to raise an Amyrlin, but that "now only eleven were required." Thus, a higher quorum is another difference from the greater consensus. Because eleven is approximately 61% of eighteen (or around 3/5), it is likely that thirteen (approximately 61% of twenty-one) is the usual quorum for raising an Amyrlin.
+
+==Law of War==
+Under the Law of War, the Amyrlin does not need to consult the Hall to make decisions regarding prosecution of the war.{{ref/book|10|19}}
+
+==See also==
+*[[Amyrlin Seat]]
+*[[Keeper of the Chronicles]]
+*[[Hall of the Tower under Siuan Sanche]]
+*[[Hall of the Tower during the White Tower Schism]]
+*[[Hall of the Tower under Egwene al'Vere]]
+
+{{notes}}
+
+[[es:Antecámara de la Torre]]
+[[Category:Aes Sedai]]
+[[Category:Ruling bodies]]
+[[Category:Sitters| Hall of the Tower]]
+[[Category:High Ranking Aes Sedai]]<references />
+
+[[es:Antecámara de la Torre]]
+[[Category:Aes Sedai]]
+[[Category:Ruling bodies]]
+[[Category:Sitters| Hall of the Tower]]
+[[Category:High Ranking Aes Sedai]]
+<references />
+
+[[es:Antecámara de la Torre]]
+[[Category:Aes Sedai]]
+[[Category:Ruling bodies]]
+[[Category:Sitters| Hall of the Tower]]
+[[Category:High Ranking Aes Sedai]]

@@ -1,0 +1,20 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| affiliation=Darkfriend
+| gender=Female
+| appeared={{loc|28}}
+| lastappeared={{loc|28}}
+| living=loc
+}}'''Nan Belman''' is a [[Darkfriend]] who resides in [[Caemlyn]].{{ref|{{twotc}}, Nan Belman}} Her son is [[Perwyn Belman]].
+
+== Appearance ==
+She is handsome.
+
+== Activities ==
+[[Padan Fain]] comes to stay in her house to be near [[Rand al'Thor]]. Perwyn comes to Fain with the news of an attempted assassination on Rand's life. Fain takes her to her bedroom.{{ref/book|6|28}}
+
+{{notes}}
+{{DEFAULTSORT:Belman, Nan}}

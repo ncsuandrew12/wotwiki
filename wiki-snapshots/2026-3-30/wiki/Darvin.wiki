@@ -1,0 +1,21 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| gender=Male
+| occupation=Clan chief
+| affiliation=
+| height=Tall
+| build=
+| hair=
+| status=Foreseen
+| clan=Reyn
+| sept=Unknown sept
+| mentioned={{tom|49}}
+}}
+
+'''Darvin''' will be the clan chief of the [[Reyn]] Aiel seventeen years after the [[Last Battle]]. He is seen by [[Aviendha]] in the [[Glass columns]] of [[Rhuidean]].
+
+Darvin attends the meeting where the Aiel decide to go to war with the [[Seanchan]] and [[Padra]] thinks he and [[Tavalad]] are the only ones not convinced by the decision.
+[[Category:Short pages]]
+[[Category:Foreseen people]]

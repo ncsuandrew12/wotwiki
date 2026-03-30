@@ -1,0 +1,164 @@
+{{for|others with the same surname|Aybara}}
+
+{{Featuredicon}}
+{{character 
+| image=Perrin aybara wolf king by reddera-d993otl.jpg
+| imagesize = 250px
+| ewot=perrin
+| birth={{Ne|978}}
+| nationality=Andoran
+| rank=Lord of the Two Rivers
+| title=Wolf King
+| occupation=Blacksmith
+| affiliation=Wolfbrother
+| gender=Male
+| height= 6' 1½", 187 cm
+| weight= 235-245 lbs, 106.6-111.1 kg
+| hair=Brown
+| status=Alive
+| eyes=Yellow / Gold, previously Dark Brown
+| appeared={{teotw|Ravens}}
+| lastappeared={{amol|e}}
+| living=amol
+}}
+
+{{WotQ|{{PAGENAME}}}}
+
+'''Perrin Aybara,''' also known as '''Perrin Goldeneyes''' and '''Young Bull''', is one of the main protagonists in the series.
+
+He, together with [[Mat Cauthon]] and [[Rand al'Thor]], is a strong ''[[ta'veren]].'' He is also a [[wolfbrother]], and has exceptional skills in manipulating ''[[Tel'aran'rhiod]].'' He is married to [[Faile Bashere]] and held (unofficially) the title of [[Lord of the Two Rivers]] and later (officially) Lord [[Steward of the Dragon]] in the Two Rivers. 
+
+==Appearance and Personality==
+Perrin is tall (6' 1½" or 187 cm) and heavily built with muscular shoulders and strong arms. He is 235-245 lbs or 106.6-111.1 kg in weight. He has thick and curly brown hair and, from the beginning of [[The Shadow Rising]], a curly beard.{{ref/book|4|2}}  His eyes are a startling yellow color that glitters "like burnished gold" and glint in the dark like the eyes of a wolf.{{Ref/book|2|1}} Before becoming a Wolfbrother, they were a dark brown.
+
+Perrin has a gentle demeanor and is slow to anger. Due to his naturally great strength, he learned while he was still a young boy to restrain himself so as not to inadvertently harm others. This restraint extends to his mindset as well. He takes great care before speaking, making sure his thoughts are well-formed and complete before opening his mouth, saying only what needs to be said and no more. This carefulness, combined with his bear-like stature, often gives others the impression that he is somewhat slow of wit. His cautious manner of thinking, however, has become an asset as he tends to think out things very logically and completely, rather than act impulsively. This habit also has also proved useful as a military commander. Rather amusingly, it also tends to put people who are attempting to manipulate him off balance; his lack of overt reactions causes the imaginations of schemers to run wild regarding what plots he might be inventing. 
+
+Although he rarely does so, his physical strength and animalistic wolfbrother impulses make his anger a terrible thing to behold. This internal struggle is Perrin's central theme as a character.
+
+Before leaving the Two Rivers, Perrin was a blacksmith's apprentice. His blacksmith skills were such that when he used [[Dermid Ajala]]'s smithy - the first time he had used a smithy since leaving home - Ajala considered the results a master's work, indicating that Perrin's skill level is that of a master smith.{{ref/book|3|50}} Being a blacksmith is core to Perrin's self-identity and he frequently denied being a lord, insisted that he was merely a blacksmith, and repeatedly ordered his followers not to fly banners which implied his lordship. Even after his father-in-law [[Davram Bashere]] pointed out that noble houses are descended from commoners who merely showed the sort of courage or leadership Perrin exhibited while ridding the Two Rivers of [[Shadowspawn]], Perrin still preferred to think of himself as a mere blacksmith and not as a lord.{{ref/book|6|46}} This self-image became harder to maintain as the [[Alliandre|Queen of Ghealdan]] swore fealty to him, as the [[Berelain sur Paendrag Paeron|First of Mayene]] increasingly deferred to him, and as he accumulated more and more followers from various nations and even among the Aiel. While forging [[Mah'alleinir]], Perrin realized that he wanted to be a leader and accepted that it was best for him to lead his people to see that they were lead right.{{ref/book|13|40}}
+
+==Family and Background==
+
+Perrin is the eldest of four children born to [[Con Aybara|Con]] and [[Joslyn Aybara]] and born in {{ne|978}} within a week of [[Rand al'Thor]]. His sisters were [[Adora Aybara]] and [[Deselle Aybara]] and his brother was [[Paetram Aybara]]. His family were farmers and lived on a sprawling family farm more than half a day beyond Emond’s Field.{{Ref/book|4|40}} The remaining nine members of his extended family who lived there were his father's brother, [[Eward Aybara]], Eward's wife [[Magde Aybara]], their three children, an unmarried great-aunt [[Ealsin]], a widowed Aunt [[Neain]], who had been married to his Uncle [[Carlin]], and her two children. He has at least two distant living relatives, [[Jaim Aybara]] and [[Bili Adarra]], who did not live on the family farm.
+
+At the age of twelve, he was apprenticed as a blacksmith to [[Haral Luhhan]] in Emond's Field, after which he had only seen his family on feastdays, the distance being too great for casual travel.{{Ref/book|4|40}}{{ref/book|twotc|Perrin Aybara}} He was a shy child.{{Ref/book|1|Ravens}}
+
+==Relationships==
+
+He grew up together with [[Mat Cauthon]] and [[Rand al'Thor]] in [[Emond's Field]] where they got into trouble quite a bit, with Mat generally being the force behind it. He has also known [[Egwene al'Vere]] and [[Nynaeve al'Meara]] since he was young and has a close relationship with them. During the events of the story, he meets his Two Rivers friends on various occasions. 
+
+While following Rand to [[Tear]] with [[Moiraine]], [[Lan]], and [[Loial]], he met an [[Aiel]] named [[Gaul]] trapped in a cage in the town of [[Remen]] and freed him.{{ref/book|3|34}} Gaul later accompanied Perrin to the Two Rivers and gradually became a close friend of Perrin, accompanying him until at least the [[Last Battle]].
+
+Perrin also forms close relationships with several other important characters, most notably including his mentors [[Elyas Machera]] and [[Hopper]], the obsessive and ultimately destructive [[Aram]], and [[Berelain sur Paendrag Paeron]]. The latter was a source of anxiety for most of the books due to the rivalry between Faile and Berelain (the hawk in Min's viewing). Some time after the kidnapping of Faile, Perrin senses that Berelain is no longer interested in attempting to steal him from Faile and the relationship matures into one of respect. Not long after Faile's rescue, Berelain and Faile publicly befriend one another. Shortly thereafter, Berelain meets and becomes obviously smitten with [[Galad Damodred]], firmly and permanently settling the issue.
+
+===Faile===
+[[File:Faile.png|thumb|right|Faile as a Hunter of the Horn]] At the [[Wayland's Forge]] inn in [[Remen]], Perrin met a seventeen-year-old [[Hunter of the Horn]]. She called herself "[[Mandarb]]" which means "blade" in the [[Old Tongue]], but which was also amusingly the name of Lan's horse. When Perrin made this known to "Mandarb," she revealed her true name to be [[Faile Bashere|Zarine Bashere]], then adopted her father's childhood nickname for her, "Faile," as her Hunter name. When Faile reveals that "Faile" means "falcon," Perrin is immediately reminded of the viewing which [[Min]] had of him regarding a falcon and a hawk.{{ref/book|3|35}}
+
+Perrin and Faile became increasingly close on the journey to and while staying in Tear. Faile witnessed Perrin forge his "master's work" in [[Dermid Ajala]]'s smithy.{{ref/book|3|50}} Perrin rescued Faile when she was trapped by the [[hedgehog]] ''ter'angreal''.{{ref/book|3|53}}{{ref/book|3|55}} Against his wishes, she followed him to the Two Rivers. She supported him when he learned of the death of his family and pushed him to become the leader that the Two Rivers needed. They were married by the [[Women's Circle]] in [[Emond's Field]], which Perrin agreed to in exchange for Faile protecting herself by leaving to take a message to [[Caemlyn]] before the [[Battle of Emond's Field]].{{ref/book|4|53}} Faile left, but returned with reinforcements from [[Deven Ride]] and [[Watch Hill]]. 
+
+[[File:Wot- elyas and hopper.jpg|thumb|left|Perrin's mentor and friend, Elyas Machera by Ariel Burgess]]During his second visit to Caemlyn, Perrin first met his in-laws [[Davram Bashere]] and [[Deira Bashere]], who were understandably hesitant to approve of a man that seemingly stole away their underage daughter and married into a very wealthy and politically connected Saldaean family. Davram, at least, soon saw what his daughter saw in Perrin and understood that Faile's fierce independence was more to blame than anything else for their haste.{{ref/book|6|46}}
+
+Faile's kidnapping by the [[Shaido]] in [[Amadicia]] began a period of frustration and self-reflection for Perrin where the means he employed to the end of rescuing Faile revealed a darker side to his character. After the [[Last Battle]], Perrin is set to become the prince consort of [[Saldaea]], as Faile became {{Wiki|heir apparent}} to the Broken Crown via the deaths of [[Tenobia si Bashere Kazadi|Queen Tenobia]] and both her parents.
+
+==Chronology==
+
+For a detailed account of the events concerning Perrin, see [[Perrin Aybara/Chronology]].
+
+==Abilities==
+
+=== Wolfbrother ===
+{{Main|Wolfbrother}}
+
+Shortly after being separated from the rest of the group at [[Shadar Logoth]], Perrin and [[Egwene]] first met the wolfbrother [[Elyas Machera]].[[File:Perrin Aybara.JPG|thumb|Perrin just after becoming a Wolfbrother from The World of Robert Jordan's Wheel of Time]]Over the following days, Perrin began to sense the wolves and gained the distinctive wolf-like yellow eyes. It seems likely that the triggering event was the first contact with wolves and their acceptance of him among them.
+
+The name given to Perrin by the wolves is '''Young Bull'''. Note that this name is assigned by the wolves, not chosen by Perrin himself, and reflects his "true essence" as the wolves see it, most influenced by his vengeful attack on the [[Whitecloaks]] following [[Hopper]]'s death. "Young Bull" is a reduction by Perrin of the wolves' image of a "wild bull with curved horns of shining metal, running through the night with the speed and exuberance of youth, curly-haired coat gleaming in the moonlight, flinging himself in among Whitecloaks on their horses, with the air crisp and cold and dark, and blood so red on the horns."{{ref/book|2|14}}
+
+Being a wolfbrother gives him a host of special abilities. These include:
+
+* '''Psychic communication''': With more than one wolf{{ref|or wolfbrother?}} over a large distance. 
+* '''Psychic location''': He can tell how far away wolves{{ref|and other wolfbrothers?}} are.
+* '''Better vision''': This includes both being able to see farther in normal conditions and being able to see in the dark.
+* '''Augmented sense of smell''': Not only is his sense of smell extremely sensitive, but he can smell things that are not normally possible to smell such as human emotions and other states such as distrust or madness.
+* '''Connection with Tel'aran'rhiod''': The ability to enter the Dreamworld in his sleep and in the flesh. The latter seems to require channeling in most humans (known exceptions are [[Lanfear]]{{verify}} and [[Slayer|Isam Mandragoran]]) 
+* '''Prophetic Dreams''': Distinct from the Dreamwalking ability, he also has abilities similar to a Dreamer in that he has dreams that predict the future. It is not clear whether this is strongly connected with the wolfbrother ability and something which all wolfbrothers (and possibly wolves) possess, or something more unique to Perrin.
+
+=== wolf dreams ===
+
+For a list and examination of Perrin's wolf dreams, see [[Perrin's Wolf Dreams]].
+
+==The Axe and the Hammer==
+
+Perrin is strongly associated with the axe and the hammer throughout the series, and they are central to Perrin's choice between being a man of peaceful creation versus a man of violent destruction. The axe was made in {{ne|996}} by Haral Luhhan after being commissioned by a wool-buyer's guard who subsequently refused to pay for it. It is described as "no common woodsman's tool" with a "broad half-moon blade on one side of the head and a curved spike on the other".{{ref/book|1|10}} It is described as around four or five pounds in weight, although this is very heavy for the average one-handed battle axe.{{Ref/book|3|50}} See [[Measurement|weights and measures]] for more discussion on this. 
+
+[[File:Perrin 2.jpg|right|thumb]]Luhhan had given it to Perrin some time in the past when he had caught Perrin practicing with the weapon and thought Perrin may as well have it since nothing useful could be made from it.{{ref/book|1|10}} Perrin brought it with him when he left the Two Rivers and it drew eyes from the [[Tuatha'an]] when he encountered them, which began in Perrin an enduring uneasiness with the weapon. Even before this, he had thought of the axe as being "wicked."{{ref/book|1|23}} After considering the possibility of mercy-killing [[Egwene]] with the axe, Perrin attempted to discard the axe, but [[Elyas Machera]] stopped him.
+
+{{quote|You'll use [the axe], boy, and as long as you hate using it, you will use it more wisely than most men would. Wait. If ever you don't hate it any longer, then will be the time to throw it as far as you can and run the other way.|Elyas Machera{{ref/book|1|30}}}}
+
+Perrin first killed men with the axe when he and Egwene encountered the [[Children of the Light]] in an abandoned ''[[stedding]]'' somewhere east of Shadar Logoth. Previously, he had doubted that he could ever attain the calmness of the [[Void]] and he was conscious that his play practice was nothing like having to wield it in actual combat. 
+
+The hammer was given to Perrin by blacksmith [[Dermid Ajala]] in gratitude for some work done by Perrin shortly after he arrived in Tear.{{Ref/book|3|50}} It is described as being ten pounds in weight, but again there may be some discrepancy in terms of units. It is a one-handed hammer with a haft the same thickness as that of the axe.{{Ref/book|3|50}}
+
+To Perrin, the hammer represented the opposite of the axe. The axe was only made for violence{{ref|There may be significance to Perrin's view that an axe, which can be used to fell trees, is only made for violence. Alternatively, this may simply be a side effect of Perrin's axe in particular being a weapon.}} and brought disparaging or fearful looks, whereas the hammer was something that could be used to create and brought the respect of a tradesman.{{ref|There is a parallel between Perrin's attitude towards the hammer (a constructive tool) and axe (a pure weapon), and the rationalization of [[Aiel#Taking up the spear|the first violent Aiel]] in using a spear (a tool useful for hunting) but not a sword (a pure weapon).}} Despite this, Perrin found with reluctance that the Pattern needed him to use the axe more than the hammer; in the [[Two Rivers]], at [[Dumai's Wells]], and [[Battle of Malden|against the Shaido]]. In his mind, although the axe was less than half the weight, it weighed "ten times heavier" on his conscience.{{Ref/book|3|50}} His internal struggle was also reflected in [[Tel'aran'rhiod]] where the hammer flickered back to the axe before he becomes experienced at controlling his thoughts.{{Ref/book|4|41}}
+
+[[File:Perrin's axe.jpg|thumb|Perrin abandons the axe forever.]]Perrin eventually discarded the axe after using it to effectively induce compliance from Shaido captives by amputating a captive's hand and threatening to leave all the captives as crippled amputees to beg in the streets.{{Ref/book|10|27}} Disgusted with the violence he seemed so easily capable of, he lodge the axe in a tree and abandoned it forever.
+
+However, this was not the end of his struggle, as he then began to use the hammer as a weapon every bit as deadly as the axe, as highlighted by [[Hopper]]. After a great deal of contemplation, Perrin realized the difference - the axe can only be used for killing while the hammer has the capacity to either kill or create. Finally, Perrin forges the power-wrought hammer [[Mah'alleinir]] with [[Neald]] and the [[Wise Ones]] and leaves the ruins of his old hammer behind. He felt sad to leave behind the blacksmith's hammer, but knew that he was no longer a blacksmith and that he now wielded the hammer of a king.
+
+== Prophecies ==
+
+Perrin is mentioned, briefly, as being in the version of the Prophecies of the Dragon known to the [[Seanchan]]:
+
+=== [[Prophecies of the Dragon]] ===
+[[File:Mah'alleinir.jpg|right|thumb|200px|Perrin forging Mah'alleinir]] {{quote|When the Wolf King carries the hammer, thus are the final days known.|Quoted by [[Tylee Khirgan]], Seanchan Banner-General{{ref/book|11|4}}}}
+Incidentally, Faile calls Perrin her "wolf king" in [[The Shadow Rising]].{{Ref/book|4|42}}
+
+He is also mentioned in the Prophecies of the Shadow:
+
+=== [[Prophecies of the Shadow]] ===
+{{quote|...the last days of the Fallen Blacksmith’s pride shall come. Yea, and the Broken Wolf, the one whom Death has known, shall fall and be consumed by the Midnight Towers. And his destruction shall bring fear and sorrow to the hearts of men, and shall shake their very will itself."| origin unknown{{ref/book|13|Epilogue}}}}
+Brandon Sanderson confirmed that everything in this prophecy came true, if not exactly in the way that many people interpreted. The Broken Wolf is [[Hopper]].{{ref/tidb|874|45}} The latter part is likely scaremongering by the Shadow.
+
+==Viewings==
+
+[[Min]] has several prophetic visions of Perrin. They are as follows:
+
+*A wolf. (Refers to Perrin being able to talk to wolves)
+*A broken crown. (Refers to Perrin's newfound association with the ruling family of Saldaea, as the crown of Saldaea is also known as the Broken Crown)
+*Trees flowering all around him. (May refer to the deaths of his family, and their burial in an orchard)
+*An Aielman in a cage. (Refers to Perrin freeing Gaul from the cage)
+*A Tuatha'an with a sword. (Refers to Aram the Tinker picking up and using a sword)
+*A falcon and hawk on each shoulder, both female. (Refers to Faile (falcon) and Berelain (hawk) showing interest in Perrin)
+*Perrin will have to be there twice for Rand, or Rand will die. (First time he saves Rand was when he led a force to the [[Battle of Dumai's Wells]], second time was during [[Tarmon Gai'don]], when he killed Lanfear as she attempted to kill Rand at the Bore.)
+
+==Parallels==
+
+Robert Jordan drew on a number of sources from myth and legend to create the backdrop for Perrin's character.
+
+==={{Wiki|Perun}}, Veles, Thor and Zeus===
+
+Perrin's name is almost identical to the name of the Slavic bearded war god Perun. Perun's weapons were the {{Wiki|Axe of Perun|axe}}, hammer and arrow, parallels to Perrin's half-moon axe, blacksmith's hammer, and the Two Rivers bow. He was associated with the sound of a bull and bulls were sacrificed to him, paralleling Perrin's wolf name "Young Bull". [[File:Veles.jpg|right|thumb|The Slavic god Veles surrounded by wolves.]]In Slavic mythology, he is sometimes seen as the opponent of {{Wiki|Veles (god)|Veles}}, a god who could change into a wolf and was known as "Lord of all wolves." The two gods even share the same wife. This may tie into Perrin's internal struggle between his human and animal sides. There is also a connection between Perun and St Elijah/Elias, mirroring the link between Perrin and Elyas in the books. One of Perun's symbols was an eagle, the same as the symbol of [[Manetheren]] on the flag flown by the Two Rivers men that follow Perrin.
+
+Perun is often seen as a Slavic incarnation of Thor and Zeus (with whom is associated the eagle, thunder, bull and oak, all also symbols of Perun), but it is the Slavic version which bears the most similarity to Perrin in general. Thor carried the legendary hammer ''Mjolnir'', Perrin's [[Power-wrought]] hammer is called ''Mah'alleinir'', although this name too was adopted in the Perun myths as "molnia". There is also a Baltic incarnation of Perun, {{Wiki||Perkūnas}}, who shares many of the same features.
+
+===Wolfbrother Parallels===
+
+For details on the parallels for the general phenomenon of the Wolfbrother, see [[Wolfbrother#Parallels]].
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Perrin Aybara}} is played by actor {{TVlink|Marcus Rutherford}}.
+
+{{Primary Protagonists}}
+{{DEFAULTSORT:Aybara, Perrin}}
+
+{{notes}}
+[[es:Perrin Aybara]]
+[[it:Perrin Aybara]]
+[[Category:Ta'veren]]
+[[Category:Wolfbrothers]]
+[[Category:Lords]]
+[[Category:Two Rivers (people)]]
+[[Category:Dreamwalkers]]
+[[Category:Stewards of the Dragon]]
+[[Category:POV character]]
+[[Category:Parallels]]
+[[Category:People]]

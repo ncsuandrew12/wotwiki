@@ -1,0 +1,82 @@
+{{character 
+| image=Teslyn_Baradon.jpg
+| imagesize=250px
+| ewot=Teslyn
+| ajah=Red
+| gender=Female
+| nationality=Illianer
+| rank=Aes Sedai
+| affiliation=White Tower
+| occupation=Sitter
+| build=Scrawny
+| eyes=Dark brown
+| status=Alive
+| appeared={{tfoh|p}}
+| lastappeared={{amol|37}}
+| living=amol
+|birth = {{ne|870}}}}'''Teslyn Baradon''' is an [[Aes Sedai]] and a former [[Sitter]] of the [[Red Ajah]].
+
+== Appearance ==
+Teslyn has bony fingers. No one had ever thought her beautiful{{ref/book|5|p}}. She is scrawny, with narrow shoulders, a gaunt face, and a narrow nose{{ref/book|7|16}}. She has dark brown eyes and thin lips{{ref/book|8|1}}. After her time as a damane, she fleshed out a bit.
+==Strength and Abilities==
+
+Teslyn has a One Power strength of {{opsl|23}}. This is above average strength for an Aes Sedai and strong enough to be able to [[Travel]]. [[Joline Maza]] calls Tesyln "inexorable" and unlikely to defer to anyone that did not have a significant advantage over her.{{Ref/book|7|17}}
+
+Teslyn possesses a decent ability at [[Healing]], although not as good as Joline.{{ref/book|10|29}}
+
+== History ==
+Teslyn is 130 years old, she was born in [[Illian]]{{ref/book|7|16}} in {{ne|870}}. She went to the White Tower in {{ne|885}} and spent seven years as a novice and five as Accepted. She was raised in {{ne|897}}.
+
+She was elected as a [[Sitter]] in the Hall in [[985 NE]]{{ref/book|7|p}} (along [[Pevara Tazanovni]]) replacing one of the three Red Sitters that were forced to resign and were exiled because of the male channeler pogrom. She was only 115 then and had been Aes Sedai for 88 years, which is considered young for a Sitter. She disapproved of the pogrom, unlike most Reds, but kept silent out of Ajah loyalty.
+
+== Activities ==
+=== Deposing of the Amyrlin ===
+Teslyn is one of the Aes Sedai who allied with [[Elaida do Avriny a'Roihan]] and took [[Siuan Sanche]] into custody for her involvement with the [[Dragon Reborn]]{{ref/book|4|47}}.
+
+After Siuan is deposed, she becomes briefly one of Elaida's confidants.{{ref/book|5|p}}
+
+Elaida expelled Teslyn from the Hall as a Sitter to make an example to the sisters of her own Red Ajah{{ref/book|6|48}}; after that Elaida sent Teslyn to [[Ebou Dar]] along with [[Joline Maza]] as ambassadors of the [[White Tower]], for the two of them it was like as an exile{{ref/book|7|p}}.
+
+Though Teslyn and Elaida are of the same Ajah, it is obvious that they do not get along well. After Elaida has Teslyn demoted and sent to Ebou Dar, Teslyn is more than happy to cause Elaida any "inconvenience" possible.
+
+=== Ebou Dar and capture ===
+Teslyn meets [[Matrim Cauthon]] inside the [[Tarasin Palace]] and has a debate over whether he should be returned to the White Tower, with the [[Rebel Aes Sedai]] embassy that are there as well. During this exchange she slips a note into Mat's pocket warning [[Nynaeve al'Meara]] and [[Elayne Trakand]] to be wary of the [[White Tower]] and in particular Elaida{{ref/book|7|16}}{{ref/book|7|17}}. She also warns personally [[Elayne]] and [[Nynaeve]] to be careful{{ref/book|7|17}}{{ref/book|9|19}}.
+
+She is later captured by the [[Seanchan]] after their invasion of Altara and made ''[[damane]]''{{ref/book|9|17}}. During this time, she is also known as Tessi. Mat later visits her and vows to break her free to pay the debt of her note{{ref/book|9|19}}. Teslyn insists that Mat also rescue [[Edesina Azzedin|Edesina]], the only other Aes Sedai damane in Ebou Dar who has not yet been broken. She becomes increasingly grim under Seanchan captivity. She and Edesina are finally rescued by Mat with the help of [[Egeanin Tamarath]] and some ''[[sul'dam]]''{{ref/book|9|31}}{{ref/book|10|1}}.
+
+=== In Valan Luca's show ===
+After fleeing Ebou Dar, Mat's group joins up with [[Valan Luca]]'s Traveling Circus as a cover to escape Seanchan notice{{ref/book|10|2}}. Teslyn, the other two Aes Sedai, Joline and [[Edesina]], and the ''sul'dam'' are not getting along well. {{ref/book|10|3}}.
+When Egeanin is stabbed by [[Renna Emain]], who then flees Luca's circus, Teslyn [[Heal]]s the wound{{ref/book|10|29}}.
+
+During their journey Joline finds that Mat is wearing a ''[[ter'angreal]]'' that disrupts weaves directed at him and so she start to experiment how to overcome the situation throwing things at Mat with the One Power. Joline is pulled aside by Teslyn who demands that she stops doing that, but also Teslyn learns how to behave with the One Power in such very strange and particular cases, a thing that will be useful in the future against the [[Gholam]].
+
+Teslyn then finds out that [[Tuon Athaem Kore Paendrag]] is a High Lady of Seanchan and continues to approach her about forming a truce with the White Tower. Finally things get out of hand and [[Selucia]] slaps an ''[[a'dam]]'' on her and hands it to Tuon who forces control over her. Teslyn is in near panic when Mat defuses the situation and takes the bracelets off her and buries them with the promise that Teslyn won't bother Tuon again{{ref/book|11|9}}.
+
+=== Traveling with the Band ===
+Teslyn would rather let Bethamin die from ignorance than teach her when she first channels{{ref/book|11|7}}. Selucia collars Teslyn and the other two Aes Sedai. Mat releases them, after Teslyn and Edesina agree to stop baiting Tuon {{ref/book|11|9}}.
+
+After a skirmish with Darkfriends in [[Maderin]], Mat and the rest of his group decide to leave Luca's show. While riding through [[Altara]] they meet up with the [[Band of the Red Hand]] and begin to travel with them{{ref/book|11|25}}.
+
+Mat uses her to send a flare into the sky to signal his troops to spring an ambush against a Seanchan unit. The unit is just about completely wiped out{{ref/book|11|27}}.
+
+When [[Furyk Karede]] enters the band's camp to bring Tuon back to Ebou Dar, [[Sheraine Caminelle]], who has been made ''damane'', also accompanies him. Joline tries to get [[Melitene]] to let her go. Teslyn tries to convince Joline to forget about Sheraine when suddenly both are shielded by Sheraine herself. Mat manages to get Melitene to release the shields{{ref/book|11|36}}.
+
+She takes part in the battle between the Seanchan force that is trying to kill Tuon for the one hundred thousand gold crown reward and the Band of the Red Hand. She has to stand near the front ranks in order to feel in danger{{ref/book|11|37}}.
+
+Mat thinks Teslyn seems disappointed when he rejects Joline's request for twenty horses and men to go with them {{ref/book|12|20}}.
+
+Tesyln warns Mat that Joline is childish in some ways and might try to bond him. She then rides with Mat into the cursed village of [[Hinderstap]] and is attacked by the crazed villagers when nightfall comes. The group only just manages to escape the village and wait the night away before entering the village again at daybreak to find everyone is back to normal{{ref/book|12|27}}{{ref/book|12|28}}.
+
+When the Band arrives in [[Caemlyn]], Teslyn meets Mat outside his tent to bid him farewell. Teslyn thanks him, saying she is in his debt and that he could call her in aid every time he needs it. He tells her she can have some horses as she seems sincere{{ref/book|13|8}}. Just after their meeting the ''[[gholam]]'' attacks Mat. Teslyn is nearby and when she realizes that the One Power is not affecting the creature directly, she starts to throw objects to it with weaves of Air{{ref/book|13|8}}, saving Mat's life. After the ''gholam'' retreats, she begins her journey back to the White Tower with Joline, Edesina, Egeanin (Leilwin), and Domon{{ref/book|13|17}}. A few months later, she and her companions arrive at the Tower.
+
+=== Last Battle ===
+Teslyn doesn't find the Tower to her liking so fights the [[Last Battle]] alongside the [[Dragonsworn]]. By order of Mat she creates a [[circle]] to open a gateway to move armies of [[Ogier]], Dragonsworn and others to the top of the [[Polov Heights]]{{ref/book|14|37}}. It is presumed she survived the battle.
+
+{{notes}}
+{{DEFAULTSORT:Baradon, Teslyn}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Damane]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Slaves]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,21 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=rad aldai
+| nationality=Andoran
+| occupation=Soldier
+| gender=Male
+| affiliation=Two Rivers
+| status=Alive
+| appeared= {{acos|3}}
+| lastappeared={{wh|6}}
+| living=wh
+}}
+{{for|others with the same surname|al'Dai}}
+'''Rad al'Dai''' is a [[Two Rivers]] man in the army led by [[Perrin Aybara]].
+
+== Activities ==
+He participates in the [[Battle of Dumai's Wells]] and carries the Red Wolfhead banner back to [[Cairhien]] when they [[Traveling|Travel]] back there.{{ref/book|7|2}}
+
+{{notes}}
+{{DEFAULTSORT:Al'Dai, Rad}}<!--Please leave the "a" capitalized for sorting purposes.-->

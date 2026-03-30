@@ -1,0 +1,18 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| status=Alive
+| appeared={{kod|29}}
+| lastappeared={{kod|29}}
+| living=kod
+}}
+{{for|others with the same surname|Barstere}}
+'''Kev Barstere''' is a [[Two Rivers]] resident. 
+
+== Activities ==
+He [[Travel]]s through [[Jur Grady]]'s [[Gateway]] to join the rest of the [[Two Rivers]] men taken by [[Perrin Aybara]]. He participates in the [[Battle of Malden]].
+
+{{DEFAULTSORT:Barstere, Kev}}

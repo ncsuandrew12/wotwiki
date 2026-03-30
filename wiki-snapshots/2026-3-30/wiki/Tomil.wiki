@@ -1,0 +1,21 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Soldier
+| affiliation=Younglings
+| gender=Male
+| appeared={{cot|p}}
+| lastappeared={{cot|p}}
+| living=cot
+}}
+'''Tomil''' is a [[Younglings|Youngling]].
+
+==History==
+He has a brother, who is also a Youngling.
+
+==Activities==
+He is with [[Gawyn Trakand]] and [[Rajar]] at the mayor's house in [[Dorlan]].
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]

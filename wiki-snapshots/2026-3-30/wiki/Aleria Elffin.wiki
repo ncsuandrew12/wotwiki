@@ -1,0 +1,17 @@
+{{ character 
+| image=Wheel-icon.svg
+| imagesize=250px
+| ewot=aleria
+| status=Dead
+| nationality=Unknown nationality
+| occupation=Author
+| gender=Female
+| mentioned={{tdr|49}}
+| lastmentioned={{tdr|49}}
+}}
+'''Aleria Elffin''' was an author of humorous tales.
+== Activities ==
+While waiting for [[Juilin Sandar]] to bring information on the [[Black Ajah]] in [[Tear]], [[Egwene]] tries to read to distract herself, but even Aleria Elffin's humorous tales cannot hold her interest for more than a few pages.{{ref/book|3|49}}
+{{notes}}
+[[Category:Historical people]]
+{{DEFAULTSORT:Elffin, Aleria}}

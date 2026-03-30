@@ -1,0 +1,42 @@
+{{character | image=YellowBlack.png
+| imagesize=250px
+| ewot=Nalaene
+| ajah=Yellow
+| nationality=Ghealdanin
+| gender=Female
+| affiliation=Black Ajah
+| rank=Aes Sedai
+| status=Unknown
+| mentioned={{Tgs|39}}
+| lastmentioned={{tgs|39}}
+| living=tgs
+}}'''Nalaene Forrell''' is an [[Aes Sedai]] of the [[Yellow Ajah]] and secretly a member of the [[Black Ajah]].{{ref|{{twotc}}, Nalaene Forrell}}
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+She was part of the White Tower secret expedition who were to kidnap [[Rand al'Thor]] in [[Cairhien]].
+
+She is one of the Aes Sedai bound to [[Rand al'Thor]], and therefore one of the Aes Sedai who was captured after the [[Battle of Dumai's Wells]].
+
+Along all the prisoner sisters in Cairhien she has sworn an oath of fealty to [[Rand al'Thor]]{{ref/book|9|13}}.
+
+She is revealed by [[Verin Mathwin]]'s book to [[Egwene al'Vere]] to be a [[Darkfriend]], though it is yet unknown to Rand. {{Ref/book|12|39}}
+
+==Ajah==
+Nalaene's Ajah is never identified in the main books of the saga.
+
+Of the thirty-nine sisters sent to kidnap Rand, 15 were described of the [[Red Ajah]]. According to [[Galina Casban]], the remaining sisters were 10 of the [[Green Ajah|Green]] and 12 [[White Ajah]]s (the last two were [[Nesune]] e [[Coiren]], a Brown and a Gray respectively).
+
+But Nalaene's Ajah is identified as Yellow in "The Wheel of Time Companion", contradicting the description given by Galina in the Book, that never mentioned a Yellow in her party.
+
+{{Notes}}
+{{DEFAULTSORT:Forrell, Nalaene}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Yellow Ajah]]
+[[Category:Cairhien expedition]]
+[[Category:Female]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

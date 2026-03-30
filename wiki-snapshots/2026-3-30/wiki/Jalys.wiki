@@ -1,0 +1,19 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| occupation=
+| gender=Female
+| status=Alive
+| clan=Codarra
+| sept=Chane Rocks
+| mentioned=
+| lastmentioned=
+| living=
+}}'''Jalys''' is an [[Aiel]] woman of the [[Codarra]] clan.{{ref|{{twotc}}, Indirian}}
+
+==History==
+She is the wife of [[Indirian]], the [[clan chief]] of the Codarra.
+
+{{notes}}
+{{short}}

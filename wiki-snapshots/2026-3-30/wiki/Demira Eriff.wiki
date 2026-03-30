@@ -1,0 +1,58 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ewot=Demira
+| ajah=Brown
+| nationality=Domani
+| rank=Aes Sedai
+| affiliation=White Tower
+| status=Alive
+| mentioned={{loc|41}}
+| gender=Female
+| appeared={{loc|43}}
+| lastappeared={{loc|49}}
+| living=loc
+|birth = {{ne|930}}}}
+{{quote|Under the circumstances, it was decided that I should speak for all. We intend you no harm here today, but the strictures we accepted before, that you would feel safe, we must now reject. Obviously you have never learned the respect due Aes Sedai. You must learn it now.|Demira to Rand ({{6|49}})}}
+'''Demira Eriff''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Demira Eriff}}
+
+==Appearance and Personality==
+Demira is a gracefully beautiful [[Domani]] with coppery skin.{{ref/book|6|43}} She wears clothing in the fashion of her native Arad Doman, although she often contemplates switching to less provocative dresses.{{ref/book|6|46}} as she does not like the unwanted attention. However, she never got around to changing her dresses as she was preoccupied with other matters.
+
+== Strength ==
+Demira is of [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|24}}. She is stronger than the minimum stated strength needed to [[Traveling|Travel]].
+
+She is the third weakest among the sisters making up the [[Salidar Embassy to the Dragon Reborn]], with only [[Berenicia Morsad]] and [[Valinde Nathenos]] being weaker and [[Kairen Stang]] being her equal. She is, however, only slightly weaker than [[Merana Ambrey]] and several others.
+
+==History==
+Demira has a single [[Warder]] named [[Stevan Gedarien]].
+
+She is 70 years old. She was born in [[930 NE]] and went to the [[White Tower]] in {{ne|947}}. After spending nine years as a [[novice]] and eight years as [[Accepted]], she was raised to the shawl in {{ne|964}}.
+
+She has had an agent who is a librarian in the [[Royal Palace of Andor]] named [[Milam Harnder]] for the last thirty years.{{ref/book|6|46}}
+
+==Activities==
+Demira is allied to the [[Salidar Aes Sedai]] and is part of the [[Salidar Embassy to the Dragon Reborn|embassy]] sent to [[Rand]] in [[Caemlyn]]. She feels positive about meeting Rand, based largely on the rumor of his creation of a [[School of Cairhien|school]] in [[Cairhien (city)|Cairhien]]. "No man who started a school could be all bad in Demira's eyes."{{ref/book|6|41}}
+
+In Caemlyn, Demira approaches [[Ellorien Traemane]] with certain implied promises regarding the [[Lion Throne]]. Ellorien is one of several Caemlyn nobles the Salidar Aes Sedai delegation approaches to gain support in their handling of Rand.{{ref/book|6|43}}
+
+On the streets of the New City of Caemlyn, Demira ducks into a crossing run (alleyway) and is attacked by men dressed as "Aiel" who were short with black eyes. (In other words, people who do not fit the description of [[Aiel]] warriors. See note.{{ref|Not only do the people who ambushed Demira look incredibly atypical of Aiel, they also use the term "witches" for Aes Sedai and "Dragon Reborn" for Rand. Aiel do not use those terms. Maria Simons [http://www.dragonmount.com/forums/topic/77859-new-mafos/ later revealed] that they were an attack by [[Padan Fain]]'s corrupted [[Whitecloaks]].}}) They give her a message: "Tell the other witches to stay away from the [[Dragon Reborn]]." Demira takes two spears in her side before blacking out. It would later be revealed that these men were Whitecloaks corrupted by [[Padan Fain]].{{ref|The [[Wheel of Time Companion]], p. 213.}}
+
+Demira wakes up in the [[Crown of Roses]] inn, having been saved by her Warder Stevan and [[Healed]] by [[Berenicia Morsad]]. She learns that Stevan had been tipped off by another supposed "Aiel" shortly before the assault, which suggests the whole ordeal was a well coordinated trap. The Salidar embassy, along with [[Verin Mathwin]], agree that Rand must have been behind the attack. [[Verin Mathwin]] makes suggestions and gives Demira the final say on how the embassy should act in response to the aggressive act. Demira decides on a passive aggressive approach: refrain from the expected visit to the Palace for several days with no explanation, or at least a transparent one, to let him "worry over what we intend to do" and "let him stew."
+
+Demira is mostly upset about how the situation will affect her ability to do research in the Royal Library. She is eager to get her hands on its resources for information particularly regarding the [[Great Seals|Seals]] on the [[Dark One|Dark One's]] prison. She had been galled at being restricted from the Inner City where the library is located before the assault and is now doubly rankled at Rand for "forgetting who Aes Sedai were."{{ref/book|6|46}}
+
+She is put in charge of the sisters ([[Kairen Stang]], [[Berenicia Morsad]], [[Valinde Nathenos]]) that were to accompany the girls from the [[Two Rivers]] to the [[Rebel Aes Sedai]]. Initially, [[Merana Ambrey]] was put in charge, but Merana was able to convince the other Sisters with them to take her to rescue Rand. Although Kairen Stang had the same strength as Demira and had a shorter training time, Demira was put in charge - possibly because of her injury.
+
+{{notes}}
+I
+
+{{DEFAULTSORT:Eriff, Demira}}
+
+[[es:Demira Eriff]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Caemlyn Embassy]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

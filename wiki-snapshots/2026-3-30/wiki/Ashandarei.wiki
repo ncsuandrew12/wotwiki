@@ -1,0 +1,38 @@
+[[File:Ashandarei.jpg|thumb|right|The blade of an ''ashandarei''.]]
+{{dablink|For other uses of the words "sword" and "spear," the meaning of ''ashandarei'', see [[Sword]] and [[Spear]].}}
+'''''Ashandarei''''' are polearm weapons with a short sword blade on top. They can be used as for either stabbing or slashing. A two handed weapon,{{ref/book|9|30}} an ''ashandarei'' is best used with open space{{ref/book|7|38}} and is ineffective without room to move it.
+
+In [[Old Tongue]], ''ashandarei'' literally means "sword spear."{{ref/book|7|37}}
+
+==Mat Cauthon's==
+[[Image:Ravens-icon.svg|left|250px]]
+In [[Rhuidean]] [[Mat]] obtained an ''ashandarei'' from the [[Eelfinn]] in an unusual way. After he asked to return to [[Rhuidean]], they hanged him from a rope attached to the ''ashandarei'' suspended between two branches of [[Avendesora]]. After being cut down by [[Rand]], Mat decided to keep the unique weapon.
+
+Mat's [[power-wrought]]{{ref|Lan informs Mat that his ''ashandarei'' is power-wrought.{{ref/book|5|3}}}} ''ashandarei'' is a long, black-hafted spear with a two-foot-long "sword blade in place of a spear point, slightly curved and single-edged".{{ref/book|7|37}} The blade is adorned with two ravens, and the shaft has an inscription, written in the [[Old Tongue]], in which Mat was completely fluent by the time he received it. The inscription, translated, reads:
+[[file:Avendesora.png|thumb|Mat bearing his ''ashandarei]]
+
+{{quote|Thus is our treaty written; thus is agreement made.
+
+Thought is the arrow of time; memory never fades.
+
+What was asked is given. The price is paid.|}}
+
+The memories given by the Eelfinn grant Mat familiarity with the ''ashandarei'' and, combined with his own experience with quarterstaves, have resulted in Mat being very proficient in its use.{{ref/book|4|37}}
+
+[[Birgitte]] told Mat the proper name for his spear sometime before Mat and the others went to claim the [[Kin]]'s cache of ''angreal'' and ''ter'angreal''.{{ref/book|7|37}}
+
+Mat had originally concluded that asking for a way out was the reason for his hanging. While seeking to escape the [[Tower of Ghenjei]], he realized that the hanging was a price and the ''ashendarei'' was the way out. He rammed it into the wall and created a way out of the tower.{{ref/book|13|55}}
+
+[[Tuon]], likely due to the ravens inscribed on Mat's weapon, expressed interest in buying it from him and offered ten times what he paid. He responded by saying that the price wasn't gold, and that only a fool would pay it one time, let alone ten in reference to his near death experience when the [[Eelfinn]] left him hanging from [[Avendesora]].{{ref/book|9|18}}
+
+==Parallels==
+* Contributing to Mat's connection to {{Wiki|Odin}} are two ravens featured on the blade, mirroring Huginn (thought) and Muninn (memory), Odin's ravens. This connection is made even stronger by the spear's inscription which includes the line, "Thought is the arrow of time; memory never fades." In legend, Huginn is swifter than thought, while Muninn has an unrivalled memory. (Like Odin, Mat also lost his left eye.)
+* The closest real-life examples of an "''ashandarei"'' are pole-arms such as the Japanese {{Wiki|Naginata|naginata}}, the Russian {{Wiki|Sovnya|sovnya}} the Chinese {{Wiki|Guan Dao|guan dao}} and the European {{Wiki|Glaive|glaive}} and {{Wiki|Voulge|voulge}}.
+
+{{notes}}
+{{DISPLAYTITLE:''Ashandarei''}}
+[[Category:Weapons]]
+[[Category:Aelfinn and Eelfinn]]
+[[Category:Parallels]]
+[[Category:Old Tongue]]
+[[Category:Special objects]]

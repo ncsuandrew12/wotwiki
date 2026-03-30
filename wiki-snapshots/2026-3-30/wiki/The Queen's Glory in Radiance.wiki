@@ -1,0 +1,6 @@
+'''The Queen's Glory in Radiance''' is a [[tavern]] in [[Ebou Dar]]. It is one of the grimiest tavern in the city, keeping with Ebou Dari tradition that grandiose names are used for the lowest of places.{{ref/book|7|14}}
+
+[[Category:Altara]]
+{{notes}}
+{{short}}{{DEFAULTSORT:Queen's Glory in Radiance}}
+[[Category:Taverns]]

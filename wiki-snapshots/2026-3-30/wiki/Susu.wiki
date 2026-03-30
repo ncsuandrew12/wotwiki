@@ -1,0 +1,19 @@
+{{Character
+| image=MurandyFlag.png
+| imagesize=250px
+| occupation=Entertainer
+| nationality=Murandian
+| gender=Female
+| status=Alive
+| appeared={{tfoh|11}}
+| lastappeared={{tfoh|11}}
+| living=tfoh
+}}'''Susu''' is a young woman who entertained customers at [[The Good Night's Ride]], a tavern in [[Lugard]].{{ref|{{twotc}}, Susu}}
+
+==Appearance==
+Susu is young with shapely legs she likes to show off.
+
+== Activities ==
+Susu is entertaining when [[Siuan Sanche]] enters the tavern to talk to [[Duranda Tharne]].{{ref/book|5|11}}
+
+{{notes}}

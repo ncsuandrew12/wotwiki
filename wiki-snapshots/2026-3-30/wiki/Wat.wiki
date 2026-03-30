@@ -1,0 +1,34 @@
+{{ character | image=BOTRH icon.jpg
+| bgcolor=#D81414
+| fgcolor=#FFFFCC 
+| birth=
+| death={{ne|1000}}
+| nationality=Andoran
+| rank=Redarm
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| weight=
+| height=
+| build=
+| hair=Bald
+| status=Dead
+| eyes=Narrow
+| appeared={{acos|28}}
+| mentioned={{acos|28}}
+}}'''Wat''' was an [[Andoran]] [[Redarm]] in the [[Band of the Red Hand]].{{ref|{{twotc}}, Wat}}
+
+==Appearance==
+He was bald-headed and narrow-eyed.
+
+==History==
+He was [[Andoran]].
+
+==Activities==
+He was one of the dozen [[Redarm]]s who went with [[Mat]] to [[Ebou Dar]] in search of the [[Bowl of the Winds]].
+
+He returned with [[Harnan]] as it was getting dark after Mat spent a day spying on a building used by the [[Kin]].
+
+He was killed in the [[Rahad]] in the skirmish with [[Darkfriends]] and a [[Gholam]]. He may have been the wiry Andoran killed by [[Falion Bhoda]].
+{{notes}}
+[[Category:Short pages]]

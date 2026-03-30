@@ -1,0 +1,19 @@
+{{Character
+| image=Eliris Mancuri.jpg
+| imagesize=250px
+| nationality=Illianer
+| status=Alive
+| title=Lord
+| affiliation=Council of Nine
+| gender=Male
+| appeared=[[CCG]]
+| lastappeared=[[CCG]]
+| living=CCG
+}}
+'''Eliris Mancuri''' is one of the [[Council of Nine]] in [[Illian]].
+
+==Note==
+Eliris Mancuri only appeares in ''[[The Wheel of Time Collectible Card Game]]'' and has not been mentioned in the books. He has a brief entry in the Companion.
+
+{{DEFAULTSORT:Mancuri, Eliris}}
+[[Category:Nobility]]

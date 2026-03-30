@@ -1,0 +1,120 @@
+{{Featuredicon}}
+{{character
+| image=Wot morgase trakand by reddera-d4vmjmr.jpg
+| imagesize=250px
+| ewot=morgase
+| birth=[[957 NE]]
+| affiliation=House Trakand
+| height=5'6" or 168cm
+| eyes=Blue
+| hair=Red-gold curls
+| title=Lady
+| nationality=Andoran
+| gender=Female
+| status=Alive
+| mentioned={{ns|5}}
+| appeared={{teotw|40}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+{{WotQ|{{PAGENAME}}}}
+Lady '''Morgase Trakand''', (pronounced: moor-GAYZ trah-KAND; /mʊɹˈgeɪz trɑˈkænd/) once by the Grace of the Light, Queen of [[Andor]], [[Defender of the Realm]], [[Protector of the People]], [[High Seat]] of [[House Trakand]], is the former ruler of [[Andor]], mother to [[Elayne Trakand]] and [[Gawyn Trakand]], and step-mother to [[Galad Damodred]].
+
+== Overview ==
+
+Morgase is an extremely shrewd politician. After training in the [[White Tower]], she won the [[Lion Throne]] for [[House Trakand]] in the [[Third Succession War]] after the death of Queen [[Mordrellen Mantear]]. She married [[Taringail Damodred]], husband of the previous [[Daughter-Heir]], and had two children, [[Gawyn Trakand|Gawyn]] and [[Elayne Trakand|Elayne]], while also adopting her step-son, [[Galad Damodred|Galad]].
+
+Morgase's rule began to grow more unpopular under the influence of her [[Aes Sedai advisors|Aes Sedai advisor]], [[Elaida do Avriny a'Roihan|Elaida a'Roihan]]. After her son and daughter were sent to [[Tar Valon]] per Andoran tradition, she became furious to learn of Elayne's constant disappearances to [[Falme]] and [[Tear]]. After returning to [[Caemlyn]], Morgase was held under [[Compulsion]] by [[Rahvin]], one of the [[Forsaken]] who disguised himself as her lover, "Lord Gaebril." Against her will, Morgase was turned into a tyrant and was made to exile or torture many of her closest allies.
+
+In a brief moment of clarity, Morgase was able to break free of Compulsion and flee the palace with a small group of loyalists. She was believed dead to the realm, but was able to escape to [[Amadicia]] in exile. When [[Amador]] was attacked by the [[Seanchan]], Morgase privately abdicated all claims to the Lion Throne before being able to escape once more. She was saved by [[Dragonsworn]] by forces from the [[Two Rivers]], and became a maid to [[Faile Bashere]] as '''Maighdin Dorlain'''. 
+
+When Faile's party was attacked by the [[Shaido]] [[Aiel]], Morgase became a captive in [[Malden]] as ''[[gai'shain]]''. After being freed, she revealed her true identity when [[Perrin Aybara]]'s forces came into a dispute with Galad's [[Children of the Light]], and her son recognized his mother as the former queen. She sat as judge in Perrin's trial for his killing of Whitecloaks during her reign in Andor, and was later married to [[Martyn Tallanvor]]. Morgase returned to Caemlyn after Elayne had been able to secure the throne as queen, and was embraced by the court in light of her believed death and her choice to abdicate. She was given the task of promoting Andor's interests in the Two Rivers, and would go on to provide aid as a healer in the [[Last Battle]]. 
+
+== Appearance ==
+She has blue eyes and red-gold hair that falls in waves and curls to her shoulders. She is 5'6" or 168&nbsp;cm in height. [[Rand]] thinks she and Elayne would look like when maturity ripened her into full bloom. Even though she is 43 years old, Morgase looks little more than 30 because she [[Slowing|slowed]] due to her successful attempts at channeling.
+
+== Strength and Abilities ==
+Morgase is a channeler, but one of the weakest depicted in the series. She can reach and touch the source only with great efforts and after that she is barely able to form and control only one very tiny weave, and is likely around the level of {{opsl|78}}, the weakest that is possible for a female channeler to be.
+
+Nevertheless, a channeler at such level can reach an average age of at least 150 years old; Morgase is frequently described as appearing young for her age due the influence of the One Power.
+
+Her true abilities lie in the field of politics, where she is considered highly intelligent, and excels at balancing the demands of the various Houses in Andor, as well as having a good grasp of foreign policy.
+
+==History==
+[[Image:andoran-icon.svg|left|125px]]
+Morgase was born in [[957 NE]] and first entered the [[White Tower]] in {{ne|971}} at age fourteen in accordance with Andoran custom, despite the fact that she can barely [[channel]]. She was instructed by [[Verin Mathwin]], who treated her kindly and told Morgase that she didn't have to stay very long if she didn't want to. Her mother, Lady [[Maighdin Trakand]], passed away from a fever around this time, leaving Morgase as [[High Seat]] of her House. When Queen [[Mordrellen Mantear]] died with her only daughter being believed dead, she was permitted to leave the White Tower to claim the [[Lion Throne]]. She was given the [[Great Serpent ring]] for political reasons, even though she was never raised to [[Accepted]].
+
+As [[House Mantear]] was extinct in the female line after the death of Queen Mordrellen and the disappearance of Lady [[Tigraine Mantear|Tigraine]], Morgase had a clear claim to the throne as the closest female-line relative of the late queen, and won the [[Third Succession War]] without much real conflict after she gained the support of the majority of Andoran Houses. In order to solidify her claim, she married [[Taringail Damodred]], the widower of the disappeared [[Daughter-Heir]], Tigraine, and adopted their son [[Galad Damodred|Galad]] as her own.
+
+In {{ne|979}} she had a son, [[Gawyn Trakand|Gawyn]], and she had a daughter named [[Elayne Trakand|Elayne]] in {{ne|981}}, who was the nation's next Daughter-Heir. In {{ne|984}}, her husband died in a supposed hunting accident under suspicious circumstances after [[Thom Merrilin]] unearthed Taringail's plan to assassinate his wife and seize power. Morgase took Thom as her lover after she was widowed, but she exiled him in fury after he took leave of the court without her permission; in actuality he did so in hopes of saving his nephew [[Owyn Merrilin|Owyn]] during [[the Vileness]].
+
+Despite Morgase's intellect, her shrewdness, and her skill at ''[[Daes Dae'mar]]'', her personal popularity began to decrease in the late 990s, largely because of her traditional alliance with the [[White Tower]] and the influence of her [[Aes Sedai advisors|Aes Sedai advisor]], [[Elaida do Avriny a'Roihan|Elaida a'Roihan]]. Many in [[Caemlyn]] began to favor the [[Children of the Light]] over the Queen and the Aes Sedai.
+
+=== Family Tree ===
+{{RandElayneFamilyTree}}
+
+==Activities==
+===Break with the White Tower===
+[[Logain Ablar]], a defeated [[False Dragon]], is brought to Caemlyn and paraded before the city, and he is shown to the Queen of Andor.
+
+During this time, [[Rand al'Thor]] accidentally falls into the gardens in the [[Royal Palace of Andor|Royal Palace]], and is escorted to Queen Morgase by [[Martyn Tallanvor]]. While there, Elaida, has a [[Foretelling]] about Rand, predicting that he will come to bring great danger. Elaida wishes Rand to remain behind to be questioned further, but Morgase takes pity on him as one of her subjects and lets him go free, as he has not yet done anything that is against the law.{{ref/book|1|40}}
+
+Following these events, her children leave Andor for the White Tower, as is tradition for the training of the Daughter-Heir and the [[First Prince of the Sword]]. Elayne is enrolled as a [[novice]], while Gawyn and Galad train with the [[Warder]]s. Some time later, she went to visit her daughter, but grew furious to learn that the White Tower had no idea about Elayne's whereabouts, with Elayne having gone to [[Falme]] after being misled by [[Liandrin Guirale|Liandrin]] and the [[Black Ajah]]. She demands that Elayne be returned to Andor as soon as the White Tower recovers her, and refuses to take Elaida back as her advisor, or to take on any other Aes Sedai.{{ref/book|3|13}}
+
+===Compulsion by Rahvin===
+After returning to Caemlyn, Morgase meets "Lord Gaebril", who is actually [[Rahvin]], one of the [[Forsaken]]. He uses [[Compulsion]] to control the queen, and uses her to control Andor.{{ref/book|3|46}} During this time, [[Mat Cauthon]] delivers her a letter from Elayne; Morgase is proud of her daughter's strong channeling abilities and the fact that she has been raised to [[Accepted]], but angry about the lack of information, and Elayne's unwillingness to return to Caemlyn.
+
+Under the grip of Gaebril, Morgase was turned into a tyrant in order to cause as much chaos as possible, and to pave the way for Rahvin's usurpation of the throne. The queen was made to exile [[Gareth Bryne]], Lord [[Pelivar Coelan]], Lord [[Abelle Pendar]], Lady [[Arathelle Renshar]], Lady [[Ellorien Traemane]], Lady [[Aemlyn Carand]], and Lord [[Luan Norwelyn]], who had been her most loyal supporters. She has Ellorien flogs when she simply asks for the reason behind the exile.{{ref/book|5|19}}
+
+Hearing of rebellion in the [[Two Rivers]] gives Morgase a brief moment of clarity, and is able to wrestle herself out of the Compulsion. She gathers a small group of remaining loyalists: [[Lini Eltring]], [[Basel Gill]], [[Martyn Tallanvor]], [[Lamgwin Dorn]], and [[Breane Taborwin]].{{ref/book|5|19}} Together, they flee the palace without alerting anyone in her presence, and Morgase is thus presumed dead within Andor after Rahvin is defeated by Rand.
+
+===Exile in Amadicia===
+After fleeing the palace, Morgase travels to [[Kore Springs]] in order to find Bryne. After she discovers he is not there, she makes her way to [[Amadicia]] to seek the support of King [[Ailron Rovere Lukan]] in reclaiming her throne. Instead, she was treated as nothing more than a political tool for the [[Children of the Light]], after [[Pedron Niall]] moved her from the royal palace to the [[Fortress of the Light]] and kept the fact that she was alive as secret from the rest of the world.
+
+As a result, she is made to accept a one-sided alliance with the [[Children of the Light]] to take back the Lion Throne, with the condition that a garrison of Whitecloaks be allowed to remain in Andor but outside Andoran law.
+[[File:Morgase Trakand.jpg|left|thumb|230x230px]]
+
+Morgase is beaten by [[Rhadam Asunawa]] and forced to lie with [[Eamon Valda]] after Pedron is murdered. Soon afterward, [[Seanchan]] troops attack the Fortress of the Light and defeat the Whitecloaks in their conquest of Amadicia. Morgase is taken to [[The Blood|High Lady]] [[Suroth Sabelle Meldarath]] and told to either swear an oath or become a servant. Once returned to her rooms in the [[Fortress of the Light]], Morgase decides to privately rescind all her claims to the throne while being held captive in Amadicia, believing that she can never be queen again, but hoping that it will pave the way for Elayne to become queen. [[Sebban Balwer]] arrives and helps Morgase and her followers escape from the Seanchan and leave Amadicia.
+
+===Service to Faile Bashere===
+Under the name '''Maighdin Dorlain''', she travels to [[Ghealdan]], where her group is harassed by the followers of the self-proclaimed Prophet of the Dragon, [[Masema Dagar]]. They are rescued by [[Perrin Aybara]] and she swears fealty to him and [[Faile]], becoming Faile's maid. She is subsequently captured again by the [[Shaido]] [[Aiel]] and made ''[[gai'shain]]. She is strapped for an escape attempt, and is asked to spy on [[Sevanna]] by [[Therava]].
+
+[[File:Morgase as maighdin.png|thumb|293x293px|Morgase as Maighdin by karaburrito on tumblr]]
+She later tries to steal the [[Oath Rod]] for [[Galina Casban]] from Therava's tent but is caught and beaten. 
+Later, she is left for dead by Galina in a collapsed building, but escapes by alerting someone to her location through her training in the [[One Power]], with a great deal of encouragement from the others trapped with her, including Faile and Queen [[Alliandre Maritha Kigarin|Alliandre]] of [[Ghealdan]]. Morgase and her party are soon rescued from the Shaido by [[Perrin Aybara]].
+
+===Revelation===
+After being rescued, she continues her duties as a servant. Perrin attempts to marry her to Tallanvor, but Morgase refuses to marry at the behest of a lord. Tallanvor, feeling rejected, storms away. Soon after this, Morgase learns the truth about Gaebril's identity.
+
+Perrin's army soon encounters the Whitecloak army led by Morgase's son, Galad. The Whitecloaks refuse to accept anything but a battle from Perrin, but eventually meet for a negotiation. When Galad and Morgase see each other, she is serving tea in the tent. She then reveals her identity to Perrin.
+
+Morgase agrees to be the judge in a trial to determine Perrin's culpability for the murder of two Whitecloaks two years prior. Galad accepts his mother's impartiality, and the trial continues. She then stays in the Whitecloak camp and is not particularly surprised that Galad has joined their ranks. She tries to convince him that life is not always black and white using the example of [[Tham Felmley]].
+At the end of the trial, she declares Perrin innocent of murder, but guilty of illegally killing.
+
+Soon after Perrin allies with the Children of the Light, Morgase is married to Tallanvor by Perrin. They all then [[Traveling|Travel]] to Andor where Morgase is reunited with her daughter, Elayne. She is a neutral presence at the meeting between Elayne and Faile and Perrin. It is decided that Faile and Perrin will become official nobles of the Two Rivers. Elayne declares that Perrin will be the [[Steward of the Dragon]] for the Two Rivers so they will have an excuse for the political advantage they will have. Elayne then explains to her mother of the meeting she had with the Andoran and Cairhienin nobles, the exchange of land to both parties, and her play for the Sun Throne. Morgase is very proud of her daughter and believes her plan to be brilliant.
+[[File:Morgase.jpg|left|thumb|308x308px|Morgase Trakand]]
+
+After spending a short time back in her old palace, Elayne brings her troops to the [[Field of Merrilor]] for the [[Tarmon Gai'don|Last Battle]]. There, Morgase is reunited with her son, Gawyn.
+
+===Last Battle===
+Morgase organized and ordered groups of workers to find wounded soldiers and pick up weapons left by the dead.
+
+==Parallels==
+Morgase is a reference to the Arthurian legend character [[Wikipedia:Morgause|Morgause]], who was Arthur Pendragon's half-sister and Elaine of Garlot's sister from Uther Pendragon's wife Igraine and her first husband Gorlois. She also had two sons, Gawain and Mordred. These relations are similar to her family connections of Elayne and Gawyn, as well as her indirect connection to Queen Tigraine.
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Trakand, Morgase}}
+[[it:Morgase Trakand]]
+[[Category:Channelers]]
+[[Category:High Seats]]
+[[Category:Queens]]
+[[Category:Royalty]]
+[[Category:POV character]]
+[[Category:Rulers]]
+[[Category:Learners]]
+[[Category:Notes needed]]
+[[Category:Novices]]
+[[Category:Citation needed]]
+[[Category:Gai'shain]]
+[[Category:Maids]]

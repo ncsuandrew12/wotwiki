@@ -1,0 +1,31 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|1000}}
+| nationality=Aiel
+| gender=Male
+| affiliation=Sevanna
+| build=Squat
+| hair=Red-golden
+| eyes=Blue
+| status=Dead
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Mera'din
+| appeared={{tpod|30}}
+| lastappeared={{kod|30}}
+| lastmentioned={{tgs|21}}
+}}
+'''Jhoradin''' was one of the [[Aiel]] ''[[Mera'din]]'' who now follow the [[Shaido]].
+
+== Appearance ==
+He was blue-eyed with red-golden hair and a pretty face. He was squat and not as tall as [[Perrin Aybara]], but half again as wide.
+
+== Activities ==
+Jhoradin was one of [[Rolan]]'s friends, he planned to leave the town of [[Malden]] and the Shaido and head back to the [[Aiel Waste]]. He was bedding [[Lacile Aldorwin]] and planned to take her with him.
+
+He came to help rescue [[Faile Bashere]] when she was trapped in the burnt-out old building in the town of Malden.
+
+When the [[Battle of Malden]] began, he fled with Faile and the rest of their group. They ran into Perrin Aybara who killed Rolan. While running to Rolan's aid he was stabbed in the back by Lacile.
+
+[[es:Jhoradin]]

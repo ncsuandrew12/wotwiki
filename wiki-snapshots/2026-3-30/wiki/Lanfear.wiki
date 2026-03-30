@@ -1,0 +1,118 @@
+{{character
+| image=Lanfear saliba2.jpg
+| imagesize=250px
+| birth=Age of Legends
+| death={{ne|999}}
+| rank=Chosen
+| height=5'11 or 180cm
+| hair=Black
+| eyes=Black
+| gender=Female
+| status=Dead (formally)
+| mentioned={{teotw|42}}
+| appeared={{tgh|16}}
+| lastappeared={{tfoh|53}}
+| lastmentioned={{amol|49}}
+}}
+{{WotQ|{{PAGENAME}}}}
+{{dablink|For the chapter in ''[[The Dragon Reborn]]'', see ''[[The Dragon Reborn/Chapter 36|Daughter of the Night]]''. For her reincarnation, see [[Cyndane]]}}
+'''Lanfear''' (LAN-feer; /ˈlæn.fiɹ/; [[Old Tongue]]: '''Daughter of the Night'''), formerly known as '''Mierin Eronaile''', was one of the thirteen [[Forsaken]] trapped at [[Shayol Ghul]] due to the [[Dragon]]'s sealing. She died in [[999 NE]] after [[Moiraine Damodred]] pushed her into the [[Twisted redstone doorframe|doorway]] ''[[ter'angreal]]'' of the [[Eelfinn]]. She is known to the wolves as '''Moonhunter'''.
+
+==Strength and Abilities==
+Lanfear was known to have been as strong as a woman could be in the One Power.{{ref/book|9|35}} Her strength level of {{opsl|7}} is only equalled by [[Alivia]] and [[Semirhage]]. This level was reduced to {{opsl|8}} by the [[Finn]] after they fed on her ability to channel. When reincarnated as [[Cyndane]], this loss of strength was not restored.{{ref/book|twotc|Lanfear}}{{ref/book|twotc|Cyndane}}
+
+While the books occasionally refer to her as being the second most powerful of the Forsaken after Ishamael, she is weaker than all of the male Forsaken in terms of raw power.{{ref/book|2|7}}{{ref/book|10|g}}{{ref/book|twotc}} It should be noted that the strongest male is roughly equivalent to the strongest female, in terms of what they can do with the One Power. Women can weave much more deftly than men, which compensates for strength differences.{{ref/tidb|211|7}} We should therefore consider Lanfear as being one of the Forsaken's most dangerous channelers.
+
+Lanfear is a Dreamwalker skilled in various aspects of the Dreamworld.{{ref/tidb|36|136}} She considered [[Tel'aran'rhiod]] to be her "personal property". In conversation with "[[Ba'alzamon]]", she chides him for making "free use of her domain".{{ref/book|3|36}} Although she liked to claim that no one was more skilled there than she, a fact that was still remembered in the Third Age, this was not true.{{ref/book|twotc|Lanfear}} [[Birgitte]] says that [[Moghedien]] "could do things here far beyond Lanfear, though she has not Lanfear's strength in the world of flesh."{{ref/book|5|52}} While Ishamael himself was also a Dreamwalker, their comparative skill levels are unknown. 
+
+Perrin Aybara's defeat of Lanfear in the World of Dreams would initially point to her not being as skilled as previously thought. Ten years after the publication of [[A Memory of Light]], [[Brandon Sanderson]] revealed that she had merely faked her own death by skillfully manipulating the dreamworld.{{ref|{{YTlink|https://youtu.be/aTwpNP67A4M?t&equals;1269|A Memory of Light 10th Anniversary Livestream}}, [[Brandon Sanderson]] on ''The Dusty Wheel''.}}
+
+==Appearance==
+[[File:LanfearPortrait.JPG|thumb|right|220px|A Portrait of Lanfear, by Ariel Burgess Official Wheel of Time Artist]]
+Lanfear's most noted physical characteristic was her astonishing beauty. [[The World of Robert Jordan's Wheel of Time]] calls her "probably one of the most beautiful women of her Age or any other".{{ref/book|bwb|6}} In the books. Rand, Min, Perrin and Hadnan Kadere all use variations of the phrase "the most beautiful woman they had ever seen" where Mat thinks "no man could ever forget a woman like her".{{ref/book|2|16}}{{ref/book|2|48}}{{ref/book|3|4}}{{ref/book|5|52}}{{ref/book|3|20}} Even Loial is awed, alluding to her being the embodiment of "perfect human beauty".{{ref/book|2|16}} 
+
+Her eyes are black and described as "dark as night" and "pools of midnight" .{{ref/book|2|48}}{{ref/book|3|4}}{{ref/book|3|9}}{{ref/book|3|25}}{{ref/book|4|57}} Her skin is described as ivory or creamy pale.{{ref/book|2|16}}{{ref/book|3|4}} Her hair is also black and falls to her shoulders in waves.{{ref/book|4|9}}{{ref/book|4|57}}{{ref/book|5|52}} At 5'11" (180&nbsp;cm), she is relatively tall with a lithe build.{{ref/book|twotc|Lanfear}}{{ref/book|bwb|6}}{{ref/book|4|9}}
+
+As Selene, Rand at first thinks she looks Nynaeve's age, but then more his own.{{ref/book|2|16}} Lanfear eventually reveals her true appearance as slightly older than this "matured".{{ref/book|4|9}}
+
+She typically wore a white dress, divided for riding, with a silver belt. Her boots also had silver worked onto them.{{ref/book|2|16}}{{ref/book|2|48}}
+
+She often rode a tall white mare, with a white saddle that was silver mounted.
+
+[[File:Lanfear.jpg|thumb|left|Lanfear]]
+In terms of personality, her defining feature was a keen lust for power. Her desire was such that she desired to overthrow both the [[Dark One]] and the [[Creator]] using the [[Choedan Kal]], believing that raw power would be all such a task required. Many of those who she interacted with, including  the other Forsaken, have expressed how she had a vastly overinflated opinion of herself. She was proud, arrogant, presumptuous, and self-absorbed, actively betraying both her allies and her master in order to gain more power for herself. She appears to have had a particularly strong rivalry with [[Ishamael]], though the rivalry appeared to have been almost completely one-sided on her part. She was also extremely manipulative, and had absolutely no qualms about lying to, or using, virtually anyone to get what she wanted. Additionally, she appeared to have no loyalties except to herself.
+
+==History==
+In the [[Age of Legends]], '''Mierin Eronaile''' was a researcher at the [[Collam Daan]], the huge floating university-sphere. When they were both young students of the One Power, she was [[Lews Therin Telamon]]'s lover. She was one of the strongest female [[channelers]] of the time, as strong as a woman could be without aid.
+
+[[Image:Lanfear saliba.jpg|thumb|right|Lanfear portrait done by Jeremy Saliba]]
+Though she was as strong in the Power as a woman could be, Mierin did not distinguish herself enough to earn a third name; a mark of great social service and prestige she coveted. This likely irked her, as she was power-hungry. Lews Therin eventually left her because she loved the prestige of being his lover more than she loved Lews Therin himself.
+
+She was known to have been quite bitter over Lews Therin leaving her, and made several blatant and public attempts to get him back from his wife [[Ilyena Therin Moerelle]]. Lews Therin rebuffed her advances, as he loved his wife and knew Mierin's character too well.
+
+[[Image:Lanfear 2.jpg|thumb|left|Lanfear portrait done by Seamas Gallagher]]
+Some unknown time later in the course of her research at the Collam Daan, she and a colleague of hers named [[Beidomon]] discovered an energy source, seemingly outside the [[Pattern]], which could be tapped by ''both'' men and women equally, without the restrictions associated in the gender split of the [[True Source]]. The [[Aes Sedai]] of the time felt that this gender split had become a significant impediment to further progress, as the innate differences between ''[[saidar]]'' and ''[[saidin]]'' evidently created problems with how they could be used in conjunction with one another. At the time, she was known to have the [[Da'shain Aiel]] [[Charn]] in her service.
+
+She, [[Beidomon]], and a number of other researchers bored a metaphysical hole through the Pattern and into the dimension that the new energy source existed in. Unfortunately, the energy source turned out to have been the True Power; the essence of the [[Dark One]]. In their ambition, they had bored a hole straight into the [[Dark One's prison]], exposing the Pattern to his direct influence.
+
+The drilling of the [[Bore]] destroyed the Collam Daan in a colossal explosion of black fire. The effects the Dark One's influence on the world would affect society at its basest level, and cause [[the Collapse]].
+
+[[File:Lanfear.jpeg|thumb|right|Lanfear from the [[CCG]]]]
+Mierin managed to survive the explosion of the Collam Daan. Sometime later, during either the collapse of society that followed, or the [[War of Power]], she pledged her soul to the dark entity that she had released. Her reasons were partly due to the power she would receive from the Shadow, and partly because she wished to have Lews Therin once again.
+
+Mierin proclaimed her loyalty to the Shadow in the [[Hall of Servants]], and chose her own new name, the only [[Chosen]] to ever do so - '''Lanfear''', the '''Daughter of the Night'''. During the War of Power, she was responsible for tormenting many through their dreams, using her mastery of'' [[Tel'aran'rhiod]]''. Like [[Ishamael]], she was responsible for many plots to convert Lews Therin to the Shadow. Though she never held a field command, she developed an infamous reputation for her evil deeds during the war. However, despite her role in creating the Bore and being the first of the Forsaken to pledge themselves to the Dark One, the Forsaken known as [[Ishamael]] seemed to always receive the Dark One's greatest favor. It was he who was made Chief Captain-General of the Shadow during the War of Power, giving him ''de-facto'' command over all the forces of the Shadow. The favor that was bestowed upon Ishamael by the Dark One presumably began Lanfear's one-sided rivalry with him.
+
+When Lews Therin sealed the Bore, she was sealed too, into a dreamless sleep.
+
+==Activities==
+[[File:Lanfear.JPG|left|thumb|308x308px|Lanfear, mistress of disguises]]
+===Release===
+After being released, Lanfear began hunting for [[Rand al'Thor]], Lews Therin reborn. She tracked him by tracing the effects of his being ''[[ta'veren]]'' on the [[Pattern]]. Lanfear spied on Rand's party as they hunted for the [[Horn of Valere]], and was responsible for sending him, [[Hurin]], and [[Loial]] into another world via a [[Portal Stone]]. There, she appeared to him in her younger form, a woman in distress named Selene,{{ref|Lanfear's character is based on {{Wiki|Selene}}.}} and was "rescued" by him from a herd of ''[[grolm]]''. She led his party to another Portal Stone, and made him channel his way back to his world.
+
+===Mistress of Disguises===
+When she awoke from the seal, she immediately sought Rand out as the [[Dragon Reborn]], the reincarnation of her former lover. She came to him under the guise of '''Selene''', (pronounced: seh-LEEN) a beautiful young woman, and sought to snare him by appealing to his strong desire to protect women who seem helpless. She often used her beauty to try to seduce Rand; she would constantly urge him to grasp glory and power, although he refused. She disappeared near [[Cairhien]], where she claimed to be from, but reappeared to both [[Perrin Aybara]] and [[Matrim Cauthon]] to try to seduce them with power and glory.
+
+Among the wolves, she is known as '''Moonhunter'''.{{ref/book|3|43}}
+[[file:Dark disguise lanfear.JPG|thumb|right|Lanfear as Keille Shaogi]]
+She also seems to have appeared to Rand several times in his dreams and confronted him in [[Tear]] telling him that he would be hers again.
+
+She masqueraded as [[Else Grinwell]] in the [[White Tower]], rebuffing Mat{{ref/book|3|20}} and providing information to [[Nynaeve al'Meara]], [[Elayne Trakand]], and [[Egwene al'Vere]] about the belongings of the thirteen [[Black Ajah]] sisters which she had planted.{{ref/book|3|25}} She also appeared as a haggard old woman named '''Silvie''' to Egwene in ''Tel'aran'rhiod'' in the [[Heart of the Stone]] and gave her information about ''[[Callandor]]''. Perrin later oversaw her chiding Ishamael for making "free use of her domain" (''Tel'aran'rhiod''), to which Ishamael, mildly amused, reminded her of her subservience to the Dark One, a fact which seemed to irritate her.
+
+She reveals her true identity to Rand in his chambers in the [[Stone of Tear]], and shields him while she tries to convince him to rule the world with her under the Dark One. She suggests [[Asmodean]] would teach him how to use ''[[Saidin]]'', and that she and Rand could use "two great ''[[sa'angreal]]''" (presumably the [[Choedan Kal]]) to challenge even the Dark One and the Creator themselves. She releases his shield when a [[Gray Man]] slips in the room to kill Rand.{{ref/book|4|9}} She then encounters Rand shortly after in the corridors during the [[Trolloc]] attack on the Stone of Tear. Rand binds her against the wall with the One Power, and she does the same to him before releasing him again and then severing his own flows restricting her. She chastises him for leaving behind ''Callandor'', and for not using his full potential.{{Ref/book|4|10}}
+[[Image:MoiraineAndLanfear.JPG|left|thumb|200px|Moiraine pushing Lanfear through the Redstone Doorway - by Ariel Burgess, Official Wheel of Time Artist]]
+
+She returned again in the [[Aiel Waste]], posing as a peddler named '''Keille Shaogi''',{{ref/book|4|36}} along with the Chosen [[Asmodean]], who was posing as the gleeman named Jasin Natael. Shielding Asmodean after his battle with Rand at [[Rhuidean]], she allowed him only to channel a trickle of ''[[saidin]]'', enough to teach Rand to use the One Power. Later she teamed up with [[Graendal]], [[Sammael]], and [[Rahvin]] to try to turn Rand to the Shadow, though [[Moghedien]] believed her true intentions to be far different. She confronted Rand at the end of ''[[The Fires of Heaven]]'', meaning to kill him after his betrayal (discovering from [[Hadnan Kadere]] that he had slept with [[Aviendha]]). [[Moiraine Damodred]] tackled her while she was focusing on Rand, who, because he could not bring himself to kill a woman, would not kill her. Moiraine and Lanfear fell into the [[twisted redstone doorframe]], which subsequently melted, apparently killing them both. However, the fall through the doorway itself did not kill Lanfear, and she was instead captured by the [[Aelfinn]] and [[Eelfinn]], who fed on her ability to channel. Moridin came to their dimension and ransomed Lanfear, only to slay her so that she may be reincarnated by the Dark One.
+[[File:WoT Japanese TFoH1.gif|thumb|right|350px|Lanfear in a cover of the Japanese edition]]
+Lately, however, a new Forsaken known as '''[[Cyndane]]''' ([[Old Tongue]]: ''Last Chance''), has appeared, and has been confirmed by some other Forsaken to be Lanfear reincarnated. Cyndane, however, claimed she had lost the right to call herself Chosen and that the Dark One is tormenting her, which, along with Moridin commenting on the one that is suffering more than all others (This is presumed to be the reincarnated Lanfear), indicate that she is nothing more than an ordinary shadow lord at the beginning of the Last Battle, even if an exceptionally powerful one. It is notable that she is being reincarnated even though she betrayed the Dark One in virtually every possible way. Moghedien's thoughts hint that more Forsaken have died because of the Dark One's distrust than through the hands of the fighters for the light. Indeed, Verin claims in her last conversation with Egwene that betraying the Dark One is supposed to be impossible even though betrayal itself is not necessarily evil since "egoism must be preserved".
+
+After rebuffing several of her attempts at  tricking or seducing him into freeing her from the Dark One's torments, Rand gives Lanfear one last chance at redemption. He tells her that if she will open her mind completely to him, so that she can hide nothing of her plans and schemes to him, he will free her if he sees nothing evil there. She refuses to allow herself to be so vulnerable, even with him. In response, he opens his mind to her and allows her to see that she no longer has any hold on him and that he never loved her. After this, she truly does give up on wooing Lews Therin back to her, and her hatred of him is fierce.
+
+With the Last Battle approaching, she chooses Perrin as the new target of her "affections," trying to use him as a different path to power. Lanfear begins appearing to Perrin as he stalks [[Slayer]] in the wolf dream, giving the impression she has switched sides. She helps him remove the dreamspike from the Black Tower, incapacitating guards and showing him how to deactivate the gateway-nullifying effect it produces. Later she tips him off that [[Graendal]] is invading the dreams of one or all of the great generals commanding the army of the Light, and heals him and [[Gaul]] during a lull in their fight with Slayer. 
+
+At the conclusion of Rand's battle with Moridin, Perrin finds Lanfear just outside the entrance to the Pit of Doom. Unbeknownst to him, she lays a weave of [[Compulsion]] on him while they talk. She instructs Perrin to kill Moiraine at the same time she kills Nynaeve; she will then seize Callandor from Moridin and force Rand to kneel to her before killing him. Her plan is to strike while the Dark One is helpless, thereby saving him and making herself the highest and most powerful of the Chosen.
+
+Perrin is able to see himself as both man and wolf, and because of this duality he is able to remember his love for Faile, and his duty to do what Rand cannot. Breaking through the power of Lanfear's Compulsion, he reaches out and breaks her neck, seemingly ending her scheming and manipulations with her death. However, Lanfear in fact survived this encounter and lived past the [[Last Battle]]. Due to her low standing among the Forsaken, she had decided that the best outcome for her would be the victory of the Light, but for the Light to believe that she had perished fighting for the Shadow.{{ref|{{YTlink|https://youtu.be/aTwpNP67A4M?t&equals;1269|A Memory of Light 10th Anniversary Livestream}}, [[Brandon Sanderson]] on ''The Dusty Wheel''.}}
+
+[[File:Forsaken Lanfear.jpg|thumb|left|The [[Forsaken]] Lanfear]]
+==Etymology and Parallels==
+Lanfear is a variation of "''l'enfer''," French for the inferno or hell and the English "fear". Her pseudonym Selene is a reference to the Greek {{Wiki|Selene|Goddess of the Moon}}, usually depicted wearing a crescent moon. Her other pseudonym, Sylvie, is similar to  "silver", from which Lanfear's adornments are made, and comes from the Latin "silva" meaning forest. This forest connection links her further with the {{Wiki|Diana (mythology)|Diana}}, the Roman goddess of the Moon, hunting, the wilderness and crossroads. Note that the wolf name for Lanfear is Moonhunter. Diana's Greek origin is {{Wiki|Artemis}}, who is closely associated with Selene. These interconnections demonstrate one of Jordan's central premises in showing how myths and legends merge and change as Ages pass.
+
+At the same time, the Roman counterpart to Selene, {{Wiki|Luna}} is sometimes seen as a "triple goddess" with Prosperina/Persephone and Hecate. This idea features prominently in one of Jordan's main influences, {{Wiki|The White Goddess}} by {{Wiki|Robert Graves}}.{{ref/book|origins}} Lanfear herself could be described as a white goddess. The concept of the goddess as a woman in three stages of life (Maiden, Mother and Crone) are reflected in Prosperina, Selene and Hecate and in three of Lanfear's personas (Selene, Lanfear, Sylvie) with connections to the underworld ([[Tel'aran'rhiod]]), the moon and witchcraft. Hecate, like Diana, also has an association with crossroads, which have both {{Wiki|Crossroads (folklore)|numerous symbolic meanings}} and represent being "between worlds" or a decision to be made in the same way Lanfear is never entirely on the side of the Light or the Shadow. 
+
+As for Lanfear's true name Mierin Eronaile, Livingston spots a potential origin in {{Wiki|Muirne|Muirne/Muireann Muncháem}} whose name means "beautiful lips". In legend, she had many suitors, all of which were denied by her father.{{ref/book|origins|Mierin Eronaile}} Her surname bears some resemblance to the Greek furies, the {{Wiki|Erinyes}} who took vengeance on those that broke thier promises.{{ref/book|origins|Mierin Eronaile}} Like the triple goddess, they are also three in number. Later authors named them Alecto or Alekto ("endless anger"), Megaera ("jealous rage"), and Tisiphone or Tilphousia ("vengeful destruction"). 
+
+Her last psuedonym, Kielle Shaogi, may derive from the Chinese leader {{Wiki|Liu Shaoqi}}.{{ref/book|origins|Kielle Shaogi}} Shaoqi was de jure Head of State of the People's Republic of China from 1959 to 1968, but was later publically humiliated and denounced as a traitor. Lanfear saw two falls from grace; once after the drilling of the Bore and, again, when she was reincarnated as Cyndane. 
+
+==In the television series==
+In the television series, {{TVlink|Selene}} was played by actress {{TVlink|Natasha O'Keeffe}}.
+
+{{notes}}
+
+[[es:Lanfear]]
+[[Category:POV character]]
+[[Category:Antagonists]]
+[[Category:Reincarnated]]
+[[Category:Aes Sedai (Age of Legends)]]
+[[Category:Channelers]]
+[[Category:Peddlers]]
+[[Category:Novices]]

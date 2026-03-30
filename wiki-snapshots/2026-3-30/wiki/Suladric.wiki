@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|999}}
+| nationality=Aiel
+| gender=Male
+| occupation=Clan chief
+| clan=Shaido
+| sept =Unknown sept
+| status=Dead
+| hold=Comarda
+| mentioned={{tsr|23}}
+| lastmentioned={{acos|p}}
+}}'''Suladric''' was [[clan chief]] of the [[Shaido]] [[Aiel]].
+
+== History ==
+Suladric fell for [[Sevanna]] when she was sixteen. Sevanna laid the bridal wreath at his feet because he was clan chief and she had ambition.{{ref|{{twotc|Suladric}}}}{{ref|{{twotc|Sevanna}}}}
+
+When he died, he was survived by his widow, Sevanna.{{ref/book|4|23}}
+
+{{notes}}
+[[es:Suladric]]

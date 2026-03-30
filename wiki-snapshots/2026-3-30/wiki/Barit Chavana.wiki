@@ -1,0 +1,28 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Atha'an Miere
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Male
+| build=Compact
+| height=Short
+| appeared={{Tfoh|17}}
+| lastappeared={{cot|29}}
+| living=cot
+}}
+{{for|others with the same surname|Chavana}}
+'''Barit Chavana''' is an acrobat in [[Valan Luca]]'s [[Valan Luca's Traveling Show|traveling show]].
+
+==Appearance==
+He is short and compact. He has dark skin and [[Sea Folk]] tattoos on his hands.
+
+==History==
+He is one of four "[[Chavana|brothers]]" who travels with Valan Luca's Traveling Show. They are obviously not brothers, due to the differences of their nationalities.
+
+==Activities==
+He is introduced to [[Elayne Trakand]], [[Nynaeve al'Meara]], [[Thomdril Merrilin]] and [[Juilin Sandar]] by Valan Luca when the four join the show. When Nynaeve invites the brothers to dinner, they all begin to flirt with her, causing a fight between Nynaeve and [[Latelle Luca|Latelle]].<ref>{{5|24}}</ref> They are still with the show when [[Matrim Cauthon]] comes to the show.<ref>{{10|29}}</ref>
+
+{{notes}}
+{{DEFAULTSORT:Chavana, Barit}}

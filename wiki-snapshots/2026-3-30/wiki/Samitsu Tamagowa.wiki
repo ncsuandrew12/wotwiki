@@ -1,0 +1,72 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| ewot=Samitsu
+| ajah=Yellow
+| gender=Female
+| nationality=Arafellin
+| rank=Aes Sedai
+| affiliation=Unaligned sisters
+| hair=Dark
+| status=Alive
+| eyes=Hazel
+| appeared={{acos|36}}
+| lastappeared={{tom|52}}
+| living=tom
+|birth = {{ne|856}}}}'''Samitsu Tamagowa''' is an [[Aes Sedai]] of the [[Yellow Ajah]].{{ref|{{twotc}}, Samitsu Tamagowa}}
+
+==Appearance and Personality==
+She is a slim, pretty, hazel-eyed{{ref/book|10|24}} [[Arafel]]lin, who wears bells in her dark, braided hair.{{ref/book|7|36}}
+
+She had a commanding, overbearing manner and could be petulant when balked.
+
+As a Healer, Samitsu does not care if she gets bloodied or messy.
+
+==History==
+Samitsu is 144 years old. She was born in {{ne|856}} and went to the [[White Tower]] in {{ne|870}}. After spending nine years as a [[novice]] and four years as [[Accepted]], she was raised to the [[shawl]] in {{ne|883}}.
+
+She has a single [[Warder]], [[Roshan]].
+
+==Strength and Abilities==
+Samitsu is of [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a strength in the One Power of {{opsl|26}}. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent. While she Travels to get to Tear, it's not neccesary that she was the one that made the gateway as she arrived with [[Karldin Manfor]] and Loial.
+
+According to [[Cadsuane Melaidhrin]], she is the best [[Healing|Healer]] among living Aes Sedai and the best that the Tower has seen in centuries, perhaps ever.{{ref/book|7|36}} She has the ability to modulate perfectly the strength of the Healing weave accordingly to necessity (which very few people can do), meaning she can control the extent to which Healing will heal a person (and the amount of energy it will cost that person's body). This is very useful for dealing with life-threatening injuries, as shown when she Healed [[Dobraine]] (if she had used too strong a weave, he would have been killed by the shock). She has also the same ability with Healing as a full [[circle]].
+
+The only other people in the series with Healing ability possibly equalling or surpassing hers are [[Suana Dragand]], [[Nynaeve al'Meara]], [[Semirhage]], the [[Asha'man]] [[Damer Flinn]] and [[Sumeko Karistovan]] of the [[Kin]]. Other Yellows such as [[Corele Hovian]], [[Dagdara Finchey]] or [[Chesmal Emry]] are close, but Samitsu is still better.
+
+==Activities==
+She is with Cadsuane and [[Niande]] in the rebels' camp just outside Cairhien when they are attacked by [[Padan Fain]] with [[Mashadar]] (or a [[bubble of evil]] is hitting the camp and Fain is using it in his favour).{{ref/book|7|35}}
+
+She manages to stabilize [[Rand al'Thor]] after he is stabbed by Padan Fain with the [[Shadar Logoth]] dagger. Subsequently, after witnessing Damer Flinn's Healing on Rand's wound, she offered him gold, and even to bear his child in exchange for an explanation on how his Healing was accomplished.{{ref/book|7|36}} Her confidence in healing was somewhat shaken after witnessing Damer Flinn's healing, though it was restored when Cadsuane reassured her that she was the best Healer.
+
+Samitsu is by Rand's side with [[Corele]] and Cadsuane when he wakes.{{ref/book|7|41}}
+
+She is left in charge by Cadsuane in Cairhien after she leaves for [[Far Madding]], searching for Rand.{{ref/book|10|p}} Unfortunately [[Sashalle Anderly]] doesn't submit to Samitsu authority due to her standing far higher in the [[One Power]] and has begun to take command.
+
+Samitsu feels her control slipping away as Sashalle asserts herself while [[Loial]] and [[Karldin]] arrive in the [[Sun Palace]] and then [[Rosara]] announces [[Logain]] and many [[Asha'man]] and and Aes Sedai are entering in Cairhien.{{ref/book|10|p}}
+
+Samitsu is called to Heal [[Dobraine Taborwin]] after he is nearly killed by robbers going through his room: despite the seriousness of the situation she is able to save him.{{ref/book|10|p}}
+
+Samitsu then Travels to [[Tear]] to find Rand and Cadsuane and report all news that has occurred in Cairhien.{{ref/book|10|24}}
+
+Cadsuane sends her back to Cairhien, to keep an eye out for every activity of [[Sorilea]], Sashalle and the other sisters there carry out{{ref/book|10|24}}. Cadsuane also thinks that Samitsu is a very good and capable Aes Sedai, but sometimes she needs to be reassured about her capacities.
+
+Rand trusts Corele and Samitsu more than most Aes Sedai since they, along Damer Flinn, saved his life earlier.{{ref/book|12|5}}
+
+When Dobraine was sent by Rand to [[Arad Doman]] the two [[Aes Sedai]] [[Sashalle Anderly]] and Samitsu Tamagowa took unofficially the [[Steward of the Dragon|stewardship]] of Cairhien for a while, until the coming of [[Elayne]] as new queen.{{ref/book|13|52}}
+
+Samitsu and Sashalle greet [[Elayne Trakand]] when she arrives in Cairhien and they pass all duties of ruler-ship onto the new queen.{{ref/book|13|52}}
+
+It can be safely assumed that Samitsu, like the other Aes Sedai in Cairhien, participated in the [[Last Battle]]. During the fight as a Yellow she probably stayed at [[Mayene]] to provide Healing to the injured. It is presumed that she survived the conflict.
+
+{{DEFAULTSORT:Tamagowa, Samitsu}}
+
+{{Notes}}
+[[es:Samitsu Tamagowa]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Stewards of the Dragon]]
+[[Category:POV character]]
+[[Category:Best healers]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

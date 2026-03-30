@@ -1,0 +1,26 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| death={{ne|1000}}
+| nationality=Tairen
+| occupation=Maid
+| gender=Female
+| status=Dead
+| mentioned={{acos|8}}
+| appeared={{acos|10}}
+}}''For the similarly named [[Amyrlin Seat]] raised from the [[Green Ajah]], see [[Selame Necoine]].''
+
+'''Selame''' was a maid in [[Salidar]].{{ref|{{twotc}}, Selame}}
+
+== Appearance ==
+She had a long nose and dark skin.
+
+== History ==
+She was [[Tairen]].
+
+== Activities ==
+[[Lelaine Akashi]] provided her maid Selame to serve [[Egwene al'Vere]] and report back anything she found out. It was her job to help undress Egwene.
+
+She was murdered by [[Halima Saranov]] to pave way for herself.
+
+{{notes}}

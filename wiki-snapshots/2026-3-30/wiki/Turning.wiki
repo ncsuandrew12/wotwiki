@@ -1,0 +1,55 @@
+'''Turning''' is the name for a technique the [[Shadow]] uses to convert people of the [[Light]] to the Dark.
+
+==Background==
+[[Sheriam]] revealed to [[Egwene]] during her [[Accepted Testing]] that the last known Turning occured during the [[Trolloc Wars]]. The fact that channelers can be Turned is a secret closely guarded by the [[White Tower]], to prevent an even greater mistrust of Aes Sedai among the common people.
+
+Before [[A Memory of Light]], this technique had no official name stated in the books. Many of the fans referred to it as the "13x13 trick."<ref>[https://dragonmount.com/forums/topic/52295-13x13-trick/ 13x13 Trick, Dragonmount forums, 2010]</ref> The effect was referenced in the books as "turned to the Shadow", but not the uppercase "Turning", which was first used in the prologue to the final volume.{{ref/book|3|54}}{{ref/book|14|p}}
+
+== Prerequisites ==
+In order to perform the technique, the Shadow needs to gather thirteen [[Myrddraal]] and thirteen [[Dreadlords]] in one place. The victim of Turning must also be able to channel, it is not possible if the individual is under the influence of [[Forkroot]] or if they have been subjected to [[Stilling]] or [[Gentling]]. When the channelers attempting to turn someone are the opposite sex of the victim, the Turning becomes harder to resist.
+
+Only a channeler can be turned in this manner. Their ability to open up to the [[True Source]] leaves them vulnerable to being opened to the [[Dark One]]'s influence.
+
+== Process and effects ==
+Thirteen Dreadlords channel using thirteen Myrddraal as a filter. The combination of ''[[saidar]]'' or ''[[saidin]]'', mixed with the Myrddraal's power, which is derived from the [[True Power]], is able to shift the allegiance of any channeler to the Shadow against their will.
+
+The process twists the person so that any previous commitment to the Light is redirected towards the Shadow. The stronger a person's conviction to fight for [[Light]] is the more dedicated they will be to fighting for the Shadow. As shown by [[Androl Genhald]]'s manipulation of [[Evin Vinchova]], while Turning makes the victim more susceptible to the Shadow, elements of their personalities remain the same, such as [[Taint|insanity]] from [[Saidin]].
+
+Individuals who have been subjected to Turning are described as having a darkness or soullessness behind their eyes. They retain all of their old memories, mannerisms, personality, and failings but it is as if an evil shade has replaced the person's soul. It is rumored that Turning leaves the person soulless. [[Lanfear]] complains that Turned are robbed of creativity and initiative. She also says that some believe Turned to be possessed by some shadow monstrosity.
+
+It is possible to fight Turning. A strong-willed individual may resist it though this comes at a heavy emotional price. In the case of [[Algarin Pendaloan|Algarin]], he was "reduced to a whimpering wreck after two sessions." Additionally, [[Logain]], who was subjected to close to a dozen attempts, found himself thinking darker thoughts and wondered if they had "broken" something inside of him even though he was not turned.
+
+== Locations of Turning ==
+Before the founding of the [[Black Tower]], the only known place where Turning occurred was in The [[Town]]. The Shadow took advantage of the Aiel custom of sending men who could channel into the Blight to 'spit in the Dark One's eye' to capture and turn many of those sent North. This allowed the Shadow to create an unknown group of channelers loyal to the Dark One. Even after the [[Cleansing of saidin|cleansing of ''saidin'']] [[Slayer]] identified a procession bringing in another captured [[Aiel]]. 
+
+The Black Tower is the other major location where Turning occurs. The Shadow, in an attempt to deny the forces of the light additional channelers, had [[Mazrim Taim]] begin the process of converting individuals into Darkfriends willingly or unwillingly. Both the Asha'man and the Aes Sedai residing in the Black Tower have been targeted, with individuals being okay in the morning and "changed" in the evening.
+
+==Known Victims==
+*Aes Sedai
+#[[Tarna Feir]]
+#[[Jenare]]
+#[[Melare]]
+#[[Jezrail]]
+#[[Desala Nevanche]]
+#[[Toveine Gazal]]
+#[[Ayako Norsoni]]
+
+*Asha'man
+#[[Welyn Kajima]]
+#[[Mezar Kurin]]
+#[[Donalo Sandomere]]
+#[[Evin Vinchova]]
+#[[Dobser]]
+#Two Guards Incapacitated by [[Cyndane]]
+
+*All ''[[Samma N'Sei]]'' not born in The Town
+
+*Resisted Turning
+**[[Logain Ablar]]
+**[[Algarin Pendaloan]]
+**[[Gabrelle]]
+
+
+{{notes}}
+[[Category:The Shadow]]
+[[Category:Weaves]]

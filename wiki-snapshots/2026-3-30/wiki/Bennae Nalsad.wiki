@@ -1,0 +1,50 @@
+{{ character 
+| image=BrownAjah.png
+| imagesize=250px
+| ewot=Bennae
+| ajah=Brown
+| nationality= Shienaran
+| gender=Female
+| rank=Aes Sedai
+| affiliation=White Tower
+| hair=Dark, Heavily graying
+| build=Slender
+| eyes=Blue, Sharp
+| status=Alive
+| mentioned={{tdr|37}}
+| appeared={{kod|24}}
+| lastappeared={{tgs|12}}
+| lastmentioned={{tgs|16}}
+| living=tgs
+}}
+'''Bennae Nalsad''' is an [[Aes Sedai]] of the [[Brown Ajah]].
+
+==Appearance==
+She has dark hair liberally streaked with gray worn in a silver net, and sharp, blue eyes. She is slender, in a bony way. 
+
+==Strength and Abilities==
+Bennae is is [[Strength in the One Power among Aes Sedai|very weak]] for an Aes Sedai, with a strength in the One Power of {{opsl|43}}. Along with [[Caren Endelle]] and [[Nisain a'Cowel]], she is the joint fourth weakest Aes Sedai about which we have information.
+
+==History==
+She was born in [[Shienar]].
+
+She went to the White Tower when she was sixteen. She spent thirteen years as a [[novice]] and eleven years as [[Accepted]] before being raised to the [[shawl]]. Although her age is not known, judging by her graying hair she is probably [[Aes Sedai aging|more than 200 years]] old.
+
+She teaches history to novices in the White Tower.
+
+Her sitting room is cluttered with haphazard stacks of books and specimens of many different birds, snakes and mammals.
+
+==Activities==
+She sided with [[Elaida's White Tower]] after the split.
+
+She makes [[Egwene al'Vere]] perform an exhaustive set of [[weave]]s and then attempts to get Egwene to teach her [[Traveling]]. Egwene refuses. Note that Bennae is far to weak to actually be able to Travel.
+
+She asks Egwene a series of questions on history which she cannot answer, though she tells Bennae the truth about [[Shein Chunla]] and about the existence of the [[Thirteenth Depository]]. Bennae scolds Egwene but is obviously intrigued and may have checked out the leads that Egwene suggested would back her up.
+
+She lands in trouble after asking around about the Thirteenth Depository. She asks Egwene for a solution out of her predicament, which Egwene gives (to explain how she found out about the Depository, and to offer to become one of its guardians and librarians to help protect the secret and to assure the Brown Ajah leadership that there were no security leaks). Bennae actually tilts her head in thanks to Egwene, and suggests Egwene join the Brown Ajah.
+
+{{DEFAULTSORT:Nalsad, Bennae}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

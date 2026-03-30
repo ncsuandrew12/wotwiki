@@ -1,0 +1,103 @@
+{{Featuredicon}}
+{{character 
+| image=Wot- egwene.jpg
+| imagesize = 250px
+| ewot=egwene
+| birth={{Ne|981}}
+| affiliation=White Tower
+| nationality=Andoran
+| status=Dead
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| ajah=No
+| hair=Brown
+| eyes=Brown
+| gender=Female
+| build=Slender
+| height= 5'3" or 160 cm
+| appeared={{teotw|ravens}}
+| lastappeared={{amol|37}}
+| lastmentioned={{Amol|e}}
+|death = {{ne|1000}}}}
+[[File:Egwene al vere the flame of tar valon by reddera-d993rru.jpg|thumb|317x317px|Egwene al'Vere, The Flame of Tar Valon ''Artwork by Ariel Burgess Official Wheel of Time Artist'']]
+
+{{WotQ|Egwene}} <!-- Fix WotQ w/ {{PAGENAME}} -->
+
+{{for|others with the same surname|al'Vere}}
+'''Egwene al'Vere''' was an [[Aes Sedai]] from [[Emond's Field]] and one of the most significant and influential figures of the final years of the [[Third Age]]. She was extremely strong in the [[One Power]] and was a [[Dreamer]]. She was elected [[Amyrlin Seat]] of the [[Rebel Aes Sedai]] (albeit with the intention of being a puppet of the [[Salidar Six]]) and later of the [[Elaida's White Tower|loyalist]] faction following [[Elaida do Avriny a'Roihan|Elaida's]] abduction by the [[Seanchan]]. She led the reunited [[Aes Sedai]] as Amyrlin in the [[Last Battle]].
+
+==Appearance==
+She is described as beautiful, with dark coloring, large brown eyes, and long dark hair.{{ref/book|1|3}} She briefly wore her hair in a [[braid]], the [[Two Rivers]] symbol that a woman has come of age, but once she began taking lessons from [[Moiraine]] she decided to take it down because "Aes Sedai don't braid their hair. At least, not unless they want to."{{ref/book|1|13}} She is 5'3" (or 160 cm) in height.{{ref/book|c|Egwene|comp}}
+
+==Personality==
+[[File:Egwene al'Vere young.jpg|thumb|left|Young Egwene al'Vere from The Eye of The World Comic.]]
+Egwene is described as wanting to learn everything, as fast as possible; she chafes against the restrictions her teachers put on her, even those set for her own safety.{{ref/book|1|Ravens}} Moiraine Damodred made note of Egwene's social intuition; even when she may not have understand the private or secret machinations going on around her, she was often (at least) aware that they were happening.{{ref/book|1|12}}
+
+She had a fairly unique perspective of the role of Aes Sedai in society, having spent only a short time as a novice in the White Tower before being taken by the Seanchan and a similarly short time in the Tower as an [[Accepted]] before eventually training with the [[Wise Ones]]. Her opinion of the Tower as an organization, however, remained very high, and she subscribed to the school of Aes Sedai thought that the White Tower should "guide" [[Rand al'Thor]] to achieve the best outcome for the world.{{verify}}
+
+After being installed as a puppet Amyrlin, she began to gain skills in the manipulation of others.{{ref/book|6|37}}  
+
+Her time spent as a [[Seanchan]] ''[[damane]]'' in [[Falme]] gave rise to both a deep hatred of Seanchan (and ''[[sul'dam]]'' in particular) and a severe reluctance to make compromises with them.{{ref/book|14|26}}
+
+==Channeling abilities and Talents==
+
+Egwene was one of the strongest female channelers seen in over a thousand years.{{ref/book|2|13}} She had a strength in the [[One Power]] of {{opsl|14}} and reached her full potential.{{ref||comp}}{{ref/book|c|Elayne Trakand}}{{ref/book|8|2}} Among contemporary channelers, the only women stronger than her are [[Nynaeve]], [[Talaan]], [[Sharina]], [[Alivia]], [[Someryn]], [[Tamela]], [[Viendre]] and the [[Forsaken]]. At the time of her initiation, she was the strongest woman the White Tower had seen (aside from Nynaeve) in more than a thousand years. Her strength has been attributed to her [[Old Blood]].{{ref/book|1|13}}{{ref/book|2|4}}
+
+As with many very strong channelers, Egwene had the so called "fast learner" [[Talent]]; she only needed to see a weave a few times in order to memorize and reproduce it.
+
+She was also the first Aes Sedai [[Dreamer]] since [[Corianin Nedeal]], who died approximately 473 years prior to Egwene's Talent manifesting; she was powerful enough to break out of an illusion orchestrated by [[Moghedien]] in the [[World of Dreams]]. Considering that Moghedien was the most powerful Dreamer among the Forsaken aside from [[Ishamael]]/[[Moridin]], this is indicative of very substantial strength. (However, it was hinted by Moghedien that she wasn't really trying to keep Egwene but rather was just testing her strength.)
+
+Egwene had exceptional ability with weaving Earth, as shown by her talent for [[Delving]] and detecting metal ores, and decent ability with Fire which is a very rare trait among women, giving her the ability to create [[cuendillar]] with immense speed and ease (an ability which she rediscovered). She also had strength in Spirit as evidenced by her ability to still an Aes Sedai holding the Source while she was only Accepted and her Dream-related Talents. She was also very strong in Air and Water, the Powers typically strongest in female channelers. She was very well rounded compared to others in the Tower. Having great ability in all five of the Powers is rare and seen in only a handful of Aes Sedai and [[Asha'man]].
+
+She had no Talent with [[Healing]], though her Healing weaves seem to favorably impress the head of the [[Yellow Ajah]].
+
+Egwene was a very fast and dexterous channeler, she could split her flow at least fourteen ways, a feat substantial enough to render an Aes Sedai wide-eyed.{{ref/book|11|24}}{{ref/book|c|Jezrail}}
+
+The [[Elaida's White Tower|loyalist]] Aes Sedai declared that there were no areas of the Power in which she needed training.{{verify}}
+
+==Family and Background==
+Egwene was born in {{ne|981}} and was the youngest daughter of [[Marin al'Vere]] and [[Brandelwyn al'Vere]], Mayor of [[Emond's Field]].{{ref||comp}} Egwene's sisters are [[Elisa al'Vere]], [[Alene al'Vere]], [[Loise al'Vere]], and [[Berowyn al'Vere]]. According to the Companion entries for Egwene's female relatives, all contain mention that she might be able to learn to channel, albeit with slightly different wording. Alene is mentioned as having "fair potential."
+
+Egwene grew up in Emond's Field with [[Rand al'Thor]], [[Matrim Cauthon]], [[Perrin Aybara]], and [[Nynaeve al'Meara]]. Though friendly with all of them, she was particularly close with Rand, whom it was assumed she would marry when they both came of age. She also wished to become apprentice [[Wisdom]] to Nynaeve.
+
+==Activities ==
+For a detailed account of the events concerning Egwene, see [[Egwene al'Vere/Chronology]]. A briefer summary follows.
+
+When [[Moiraine Damodred]] arrived in the [[Two Rivers]] believing that the [[Dragon Reborn]] was among Egwene's friends, she left with [[Rand]], [[Mat]], and [[Perrin]], seeking adventure. Moiraine informed Egwene that she was a [[channeler]] of extremely strong potential. After accompanying Rand to the [[Eye of the World]], she went to the [[White Tower]] to enroll as a [[novice]]. Egwene, [[Nynaeve]], [[Elayne]], and [[Min]] were tricked by the [[Black Ajah]] into going to [[Falme]], where she was leashed by the [[Seanchan]] and made ''[[damane]]'', and was [[Forcing|Forced]] to reach her potential sooner than she should have been able to naturally. After being freed, Egwene returned to the Tower, where she was immediately raised to [[Accepted]] shortly before departing again to hunt the Black Ajah in [[Tear]].
+
+After reaching the [[Stone of Tear]], Egwene began to manifest her abilities as a strong [[Dreamwalker]], and was discovered by the [[Aiel]] [[Wise One|Wise Ones]] in ''[[Tel'aran'rhiod]]''. She was invited to come to the [[Aiel Waste]] to train in the manner of a Wise One apprentice, where she was instructed by [[Amys]], [[Bair]], and [[Melaine]]. She stayed with the Wise Ones until the [[Rebel Aes Sedai]] summoned her to [[Salidar]], where she learned that she was to be raised to the Amyrlin Seat. The [[Hall of the Tower]] and the [[Salidar Six]] had hoped to make Egwene into a puppet that they could easily control, but she proved politically apt while being trained in White Tower history, protocol, and politics by [[Siuan Sanche]].
+[[File:D79kupt-567b0f8a-5ce3-4c14-b1fd-a11801b5c7ed.jpg|thumb|410x410px|Egwene al'Vere in her final moments, using the Flame of Tar Valon weave ''Artwork by Ariel Burgess Official Wheel of Time Artist'']]
+Egwene convinced the Rebel Hall to officially declare war on [[Elaida do Avriny a'Roihan|Elaida a'Roihan]] and had them march to [[Tar Valon]] to claim the White Tower, as well as instituting reforms to the Aes Sedai, such as opening the [[novice book]] to women of all ages and making overtures to organized channelers outside the White Tower. However, Egwene was seized by the loyalists while turning the harbor chain into ''[[cuendillar]]'' during the siege. While being held in the White Tower, she was formally reduced to a novice and regularly drugged with [[forkroot]] tea. Egwene was still willing to firmly proclaim her claim to the Amyrlin Seat, and took all punishments in stride. She began to work with several influential Sitters and sisters to turn Elaida's supporters against Elaida while still a novice. Near the end of her captivity, she was given a list of Black Ajah sisters by [[Verin Mathwin]]. When the Seanchan conducted a raid on the Tower, Egwene [[link|linked]] with the novices and used [[Vora's sa'angreal]] to compensate for her forkroot consumption, before blasting effectively resisting the Seanchan attack, including blasting ''[[morat'to'raken]]'' out of the sky with the [[One Power]].
+
+Egwene was brought to the rebel camp after the chaos of the raid, where she began her purge of all Black Ajah sisters among the rebels. She was then approached by the loyalists, and was informed that Elaida had been abudected by the Seanchan in the attack, and that the loyalist Hall had decided to raise Egwene as their Amyrlin. Egwene took office in the White Tower and quickly formally ended the [[White Tower Schism|schism]]. She bonded [[Gawyn Trakand]] as her [[Warder]], and worked to root out Seanchan spies and [[Mesaana|Mesaana's]] remaining Black Ajah sisters in the Tower. With the [[Last Battle]] approaching, Egwene married Gawyn before commanding the Aes Sedai in the Kandori campaign and at the [[Field of Merrilor]]. Egwene was left painfully grieving after her husband and Warder was killed by [[Demandred]], and sacrificed her life to defeat [[Mazrim Taim|M'Hael]] by countering [[balefire]] with a new weave, the [[Flame of Tar Valon]], where she drew in far too much of the One Power and was turned to crystal. She was succeeded by [[Cadsuane Melaidhrin]].{{verify}}
+
+==Etymology==
+The name Egwene al'Vere is likely derived from {{Wiki|Guinevere}}, the wife of King Arthur.
+
+== In the television series==
+In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Egwene al'Vere}} was played by actress {{TVlink|Madeleine Madden}}.
+
+==See also ==
+
+*[[Egwene's dreams]]
+
+{{notes}}
+{{Primary Protagonists}}
+
+{{DEFAULTSORT:Al'Vere, Egwene}}<!--Please leave her last name capitalized for category sorting.-->
+
+[[es:Egwene al'Vere]]
+[[it:Egwene al'Vere]]
+[[Category:Dreamwalkers]]
+[[Category:Damane]]
+[[Category:Two Rivers (people)]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Sparkers]]
+[[Category:Citation needed]]
+[[Category:Notes needed]]
+[[Category:Slaves]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:POV character]]

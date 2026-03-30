@@ -1,0 +1,34 @@
+{{ character 
+| image=ShienarFlag.png
+| imagesize=250px
+| ewot=Amalisa
+| nationality=Shienaran
+| title=Lady
+| gender=Female
+| height=Short
+| hair=Dark
+| status=Alive
+| mentioned={{Tgh|2}}
+| appeared={{Tgh|4}}
+| lastappeared={{tgh|5}}
+| lastmentioned={{tgh|8}}
+| living=tgh
+}}
+'''Amalisa Jagad''' is the sister of [[Agelmar Jagad]], the Lord of [[Fal Dara]]. 
+
+== Appearance ==
+She is short and middle aged, with a dark mature beauty.
+
+==History==
+Her nickname for [[Easar Togita|King Easar]] is Magami or "Little Uncle."
+
+==Activities==
+She was blackmailed while under [[Compulsion]] by [[Liandrin]], who suggested that it might come out that Agelmar was a [[Darkfriend]] and that they would be dragged in the streets naked.
+
+She had her maidservants search Fal Dara keep for [[Rand al'Thor]], but they could not find him because he was hiding in the women's quarters.
+
+== In the television series ==
+In the television series, Lady {{TVlink|Amalisa Jagad}} is played by {{TVlink|Sandra Yi Sencindiver}}
+
+{{DEFAULTSORT:Jagad, Amalisa}}
+[[Category:Nobility]]

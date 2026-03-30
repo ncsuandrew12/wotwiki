@@ -1,0 +1,24 @@
+{{character 
+| image=IllianFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Illianer
+| rank=General
+| title=
+| gender=Male
+| living=amol
+| appeared={{amol|21}}
+| lastappeared={{amol|21}}
+}}
+'''Haerm, General '''is commander of the [[Illianer Companions]] in the Last Battle replacing [[Demetre Marcolin]] who got killed by Sharan assault on the plains of Kandor.{{Ref|{{twotc}}, Haerm, General}}
+
+== Activities ==
+Haerm fights with the Illianer Companions in the [[Aes Sedai]] army at [[Kandor]]. After the army is routed by the [[Shara]]ns, he report that [[Egwene al'Vere]] is still missing.
+
+== Trivia ==
+* Haerm is named for Harm Wieringa, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{Notes}}
+
+{{Short}}
+[[Category:Characters named after fans]]

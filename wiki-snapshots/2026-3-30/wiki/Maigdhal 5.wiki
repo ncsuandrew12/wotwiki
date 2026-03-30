@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|August}}
+|{{Wotmonth|Maigdhal}}
+|}
+'''Maigdhal 5 (August 8)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:august 8|August 8]]
+
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

@@ -1,0 +1,25 @@
+{{Character
+| image=Wheel-icon.svg
+| imagesize=250px
+| occupation =Peddler
+| title=
+| nationality=Almoth Plain
+| gender=Male
+| build=
+| heihgt=
+| hair=
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| affiliation=
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+}}
+
+'''Gideon Faun''' is a [[peddler]] who sells his wares around [[Almoth Plain]] and [[Toman Head]].
+== History ==
+On the road near [[Aturo's Orchard]], Faun was attacked by a band of [[Children of the Light]] raiding the area, although they were disguised as [[Tarabon]]ers.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]

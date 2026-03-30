@@ -1,0 +1,28 @@
+{{ character 
+| image=WyldSymbol.png
+| imagesize = 100px
+| nationality= Sharan
+| gender=Female
+| affiliation= 
+| title=Sh'boan
+| status=Unknown
+| appeared={{loc|6}}
+| lastappeared={{loc|6}}
+| living=loc
+}}
+{{quote|Shaofan and Chiape insist the deaths are natural. The Will of the Pattern, they call it. To them everything is the Will of the Pattern.|Graendal on Chiape}}
+'''Chiape''' is, or was, the [[Sh'boan]] of [[Shara]], until she, along with [[Sh'botay]] [[Shaofan]], were kidnapped by [[Graendal]] as part of a ruse.
+
+==Appearance==
+Chiape is a very beautiful woman with very dark skin.
+
+==Activities==
+Chiape was newly widowed, and ascended to the throne after the death of her husband, the Sh'botay. She planned to marry Shaofan as her husband and eventual successor, when both of them were kidnapped by the [[Graendal]]. The Sh'boan and Sh'botay were placed under heavy [[Compulsion]] and kept in Graendal's personal connection so she could show them off to [[Sammael]].{{ref/book|6|6}}
+
+Ironically, even though Graendal only kidnapped Chiape and Shaofan as part of her hedonistic tendencies, she perhaps caused some of the greatest chaos in the world by stealing the monarchs of a nation as large and powerful as Shara, especially one that relies on spousal succession. With the absence of both the monarch and her heir, the nation was plunged into chaos.
+
+==Impact==
+The disappearance of Shaofan and Chiape from Shara, as well as the rebirth of the [[Dragon]], causes a power vacuum in their native land and war in the country.{{ref/book|6|17}} It is unknown if she was in [[Natrin's Barrow]] when [[Rand al'Thor]] used [[balefire]] against it.{{ref/book|12|37}}
+
+{{notes}}
+[[Category:Royalty]]

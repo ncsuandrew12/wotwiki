@@ -1,0 +1,14 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=250px
+| status=Dead
+| nationality=Unknown nationality
+| occupation=Author
+| gender=Male
+| mentioned={{cot|7}}
+| lastmentioned={{cot|7}}
+}}
+'''Sorelana Alsahhan''' was a scholar during the [[Trolloc Wars]] who wrote of "The hundred packs the Shadow's hounds that hunt the night". [[Masuri]] cites this as she tells [[Perrin]] and the others of the [[Darkhounds]] that had passed outside his camp.
+
+{{Short}}
+{{DEFAULTSORT:Alsahhan, Sorelana}}

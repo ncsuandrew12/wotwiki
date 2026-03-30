@@ -1,0 +1,52 @@
+{{for|other chapters with "leaving" in the title|Leaving}}
+{{summary | book=12 |
+|chapter=9
+|title=Leaving Malden
+|icon=Wolf
+|setting=[[Malden]]
+}}
+
+==Summary==
+
+{{pov|[[Perrin Aybara]]}}
+
+[[Faile]] and the other [[Shaido]] captives have been liberated, and Perrin is relieved. He is inspecting wagons, cherishing the opportunity for manual labor. [[Gerard Arganda]], the [[Ghealdan]] commander, wants Perrin's permission to have the [[Asha'man]] open gateways so he and his queen, [[Alliandre]], can depart along with the [[Legion of the Wall]]. The Asha'man are too tired to [[Travel]], so Perrin tells him they have to travel by ordinary means like the rest of the refugees. [[Bertain Gallenne]] would prefer to attack the remaining [[Aiel]] but Perrin has accomplished his objective, getting [[Faile]] and the other captives back so they are not going to continue fighting. [[Balwer]] wishes to spend more time searching for information in Malden but Perrin is anxious to get under way. Perrin sees Faile returning from scouting the area. 
+
+[[Tam]] discusses the logistics of moving close to 100,000 refugees, all of whom are Perrin's responsibility now. He wishes only to retire and have [[Elayne]] send a proper lord for the [[Two Rivers]] so he can be done with this lord business. Tam says the men will follow him to [[Shayol Ghul]] itself, and few will take the offer to return home. Everyone can see the signs pointing to the coming of the [[Last Battle]]. [[Rand]] will need all the help he can get, and that has to be Perrin's primary focus. [[Aravine Carnel]] reports the refugees are ready after she organized them by nation and city. Perrin orders her to get the refugees moving then. In a few weeks they will be able to make [[Gateways]] to a safe location, but the Asha'man need rest first. Perrin still relishes the fighting and winning against the Aiel but also ashamed that he relishes it.
+
+==Characters==
+*[[Perrin Aybara]]
+*[[Gerard Arganda]]
+*[[Bertain Gallenne]]
+*[[Sebban Balwer]]
+*[[Faile Aybara]]
+*[[Tam al'Thor]]
+*[[Lyncon]]
+*[[Aravine Carnel]]
+
+===Referenced===
+*[[Alliandre Maritha Kigarin]]
+*[[Rand al'Thor]]
+*[[Mat Cauthon]]
+*[[Edarra]]
+*[[Jur Grady]]
+*[[Fager Neald]]
+*[[Elayne Trakand]]
+*[[Masema Dagar]]
+*[[Aram]]
+*[[Haral Luhhan]]
+
+==Places==
+*[[Malden]]
+
+===Referenced===
+*[[Ghealdan]]
+*[[Two Rivers]]
+*[[Altara]]
+*[[Mayene]]
+*[[Cairhien]]
+*[[Andor]]
+*[[Manetheren]]
+*[[Shayol Ghul]]
+
+{{DISPLAYTITLE:''Leaving Malden''}}

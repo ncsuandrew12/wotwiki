@@ -1,0 +1,30 @@
+{{ character 
+| nationality=Andoran
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| height=Tall
+| hair=Braided, fair 
+| status=Alive
+| appeared={{loc|10}}
+| lastappeared={{loc|11}}
+| living=loc
+}}
+'''Elle''' is a [[novice]] among the [[Rebel Aes Sedai]], she is from the [[Two Rivers]].{{ref/book|c|Elle}}
+
+== Appearance ==
+She is tall and pretty with braided fair hair and complexion, unusual for a Two Rivers girl.
+
+==Abilities ==
+She is described as 'very strong' in the [[One Power]], likely on the same level as [[Lelaine Akashi]], [[Elaida do Avriny a'Roihan]], [[Romanda Cassin]], [[Zarya Alkaese]], and [[Rainyn]], and possibly even stronger.
+
+==History==
+She is from [[Watch Hill]] in the Two Rivers.
+
+==Activities==
+She was among five girls born with the [[spark]] found in the Two Rivers by [[Verin Mathwin]] and [[Alanna Mosvani]] and judged suitable for training.{{ref/book|6|10}} She accompanied several other [[Two Rivers]] girls, possibly three others from Watch Hill,{{verify}} with channeling abilities to [[Caemlyn]]. She eventually joined the [[rebel Aes Sedai]] in [[Murandy]], and becomes a [[novice]].
+
+{{notes}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Sparkers]]
+[[Category:Two Rivers (people)]]

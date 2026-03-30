@@ -1,0 +1,29 @@
+{{Character
+| image=Wheel-icon.svg
+| imagesize=250px
+| occupation =
+| title=
+| nationality=Almoth Plain
+| gender=Male
+| build=
+| hair=
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| affiliation=Ostin Falls
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+}}
+
+'''Lorwyn Kilvar''' is the son of the mayor of [[Ostin Falls]].
+
+== History ==
+The Kilvars descend from a [[Domani]] merchant house, and have ruled the town of Ostin Falls on the border of [[Toman Head]] and [[Almoth Plain]] for around fifty years by {{ne|998}}. The town begins to decline with the hostilities between [[Tarabon]] and [[Arad Doman]] reducing trade in the region, which was exacerbated by the [[Seanchan]] occupation of [[Falme]]. 
+
+Desperate to save the town from economic ruin or destruction, Mayor [[Bretton Kilvar]] arranged a marriage between his son and [[Meka Antos]], the daughter of a merchant family from [[Bandar Eban]]. Lorwyn did not want to be married to Meka, and frequented [[Sean's Tale]] hoping that he would find a group to take him to [[Toman Head]] to see what was going on in the area. After a skirmish with [[Whitecloaks]] in [[Aturo's Orchard]], guards from House Antos apprehended Lorwyn and had him return to his family.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+
+{{DEFAULTSORT:Kilvar, Lorwyn}}
+[[Category:Characters only mentioned in the RPG]]

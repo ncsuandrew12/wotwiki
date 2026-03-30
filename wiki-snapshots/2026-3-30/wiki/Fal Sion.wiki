@@ -1,0 +1,12 @@
+'''Fal Sion''' is a city-fortress in [[Shienar]].
+
+Fal Sion sends forces with other Shienarans to fight the [[Trolloc]] army at [[Tarwin's Gap]].{{ref/book|1|48}}
+
+== Etymology ==
+
+Fal Sion may derive its name from the Biblical Zion, which is sometimes spelled 'Sion'.
+
+{{notes}}
+{{Short}}
+[[Category:Shienar]]
+[[Category:Cities]]

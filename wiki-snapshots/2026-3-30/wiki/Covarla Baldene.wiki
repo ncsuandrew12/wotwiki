@@ -1,0 +1,44 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| status=Alive
+| hair=Pale
+| appeared={{acos|32}}
+| lastappeared={{tgs|13}}
+| living=tgs
+|birth = {{ne|919}}}}'''Covarla Baldene''' is an [[Aes Sedai]] of the [[Red Ajah]]{{ref|{{twotc}}, Covarla Baldene}}{{ref/book|7|32}}.
+
+==Appearance==
+She has pale hair{{ref/book|7|32}}.
+
+== Strength and Abilities ==
+Covarla's has a One Power strength level of {{opsl|27}}, just enough to be able to [[Traveling|Travel]]. Covarla learned the weave from [[Katerine]].
+
+==History==
+She has been Aes Sedai as long as [[Elaida a'Roihan]] had been alive{{ref/book|7|32}}. She is strong enough to [[Travel]] {{ref/book|12|13}}. She was born in {{ne|919}} and went to the [[Tower]] in {{ne|936}}. She spent nine years as a [[novice]] and five as [[Accepted]]. She was raised in [[950 NE]].
+==Activities==
+She returned to the [[White Tower]] from the debacle of [[Dumai's Wells]]{{ref/book|6|55}} in the early hours of the morning to give [[Elaida do Avriny a'Roihan]] the bad news that [[Rand al'Thor]] had escaped{{ref/book|7|32}}.
+
+She stands highest among the twelve sisters that initially returned back to Tar Valon. Elaida has her and her group stay away from the White Tower to hide her secrets and stay in the village of [[Dorlan]]{{ref/book|7|32}}.
+
+Later, [[Tarna Feir]] arrives in Dorlan and displaces Covarla as leader of the group. Some time after also [[Katerine Alruddin]] arrives in Dorlan displacing Tarna; Katerine and Tarna leave the village and are able to reach Tar Valon, passing trough the besieging army, so Covarla is again in charge of the group{{ref/book|10|p}}.
+
+When an embassy from the White Tower arrives in Dorlan leaded by [[Narenwin Barda]], Covarla bars [[Gawyn Trakand|Gawyn Trakand's]] entrance into the meeting with threats of replacing him as captain of the [[Younglings]]. Narewin takes charge of the group and explains that Elaida ordered the sisters in Dorlan and the Younglings to start a guerilla against the rebel army that is occupied in the [[siege of Tar Valon]]{{ref/book|10|p}}{{ref/book|12|4}}.
+
+She meets with [[Katerine Alruddin]], who Travels back to Dorlan to teach them the [[traveling]] weave and to inform the sisters that the [[Rebel Aes Sedai]] [[Amyrlin Seat]], [[Egwene al'Vere]], has been captured{{ref/book|12|13}}.
+
+{{notes}}
+{{DEFAULTSORT:Baldene, Covarla}}
+
+[[es:Covarla Baldene]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

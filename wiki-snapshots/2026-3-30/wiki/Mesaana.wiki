@@ -1,0 +1,90 @@
+{{character
+| image=Mesaana Card teaser2.jpg
+| imagesize = 250px
+| status=Brain-dead
+| birth=Age of Legends
+| rank=Chosen
+| hair=Dark, chin-length
+| eyes=Blue, big
+| gender=Female
+| appeared={{tsr|47}}
+| lastappeared={{tom|38}}
+| lastmentioned={{tom|e}}
+| living=tom
+}}
+'''Mesaana''' (meh-SAH-nah; /mɛˈsɑː.nɑ/), previously known as '''Saine Tarasind''', is one of the thirteen Forsaken who were trapped in [[Shayol Ghul]] at the end of the [[War of Power]] due to the [[Dragon]]'s sealing. During the [[Age of Legends]], Saine Tarasind worked as a teacher at [[Collam Daan]]. She later organized schools teaching the glories of the [[Dark One]] once she turned to the Shadow and took on the name Mesaana. 
+
+==Appearance and Abilities==
+She is 5'5" tall, looks just short of her middle years, with big watery blue eyes and chin-length dark hair. She has a voice that sounds like chimes. {{ref/book|10|21}} She was pretty rather than beautiful.
+
+She occasionally changes her appearance to that of a shadow, wearing blacks and whites and having eyes and lips of silver. {{ref/book|10|21}}
+
+Her strength in the power is {{opsl|8}}, making her one of the most powerful female channelers ever, only outstripped by [[Alivia]], [[Semirhage]], and [[Lanfear]] (prior to having the [[Finn]] feed on her).
+
+She was hardheaded, practical, intelligent and analytical; but she had a blind spot for her own strengths and weaknesses. She never cared about looks or appearances, and was interested in REAL power. However, she knew this only came from the Dark One, which was why she was not interested in setting up an earthly power base. She was happy to see other Forsaken lose favor, as that meant her own chances of winning the Dark One's favor increased.
+
+She often appeared dreamy, but only because she was often absorbed in her own thoughts. She was in fact very observant.
+
+She had a peculiar alliance with [[Demandred]] and [[Semirhage]]. They were not really allies, but they did often act in concert and none of them ever betrayed the other two in any way. Of course, they would still be willing to gain personal advantage over the other two. It is unknown when this arrangement began.  
+
+==History==
+[[Image:Snake-icon.svg|left|125px]]
+Unlike many of the other [[Chosen]], Saine Tarasind was not very distinguished in her profession. After being labeled "unsuitable for research" and being turned down for a research position at the exclusive Collam Daan university, she became a teacher. She felt so scorned by having to settle for merely teaching other peoples' discoveries, instead of making her own, that she eventually turned to the [[Shadow]]. "Sometimes [[Graendal]] thought Mesaana had gone over to the Shadow because it offered a more interesting opportunity for research."{{ref/book|12|p}}
+
+Though as adequate a battlefield general as she was a researcher, she proved an appalling ruler (though by the Shadow's standards, she was positively brilliant and efficient in achieving their goals). Captured regions saw their children forced to attend schools teaching praise for the [[Dark One]]. Slow learning was punished by death, and she encouraged the children to spy on and bully each other. Mesaana encouraged children to isolate and harass children who were different. She had the children form large mobs and hunt down people from institutions of higher learning. Many children betrayed their parents and families because of her. During the second half of the war she also used them to carry out executions, at times forming "courts" entirely of children. Museums and reminders of old ways were destroyed; nothing could stand in the way of the Shadow's triumph. Such was the influence of these children that they came to be known as "Mesaana's Children". 
+
+It is speculated by modern day [[Aes Sedai]] that although not particularly skilled or powerful, she was very capable - proven by how efficiently she governed her territories. She trained and recruited members into the [[Black Ajah]] and acted as a "Shadow [[Amyrlin Seat]]." It was also noted that she was second only to [[Demandred]] in sheer anger due to not being in the forefront.{{ref/book|13|15}}
+
+Being one of the thirteen most powerful of the Chosen, she was summoned to attend a meeting with the Great Lord of the Dark in the [[Pit of Doom]] at [[Shayol Ghul]]. On this day [[Lews Therin Telamon]] and the [[Hundred Companions]] struck at the [[Bore]], sealing the Chosen and the Great Lord for three thousand years. She was well over 300 years old at this time, appearing about middle age.
+
+During the [[Breaking of the World]], the name "Mesaana's Children" was applied to roving brigands and looters, many of whom were the grown-up children she had once brainwashed.
+
+==Activities==
+=== Release from the Bore ===
+[[Image:Mesaana.jpg|left|thumb|200px|Mesaana appearing in her "cloak of shadows" portrait done by Seamas Gallagher]]
+Little details of her actions after being released from the Bore in [[998 NE]] are known. At some point, she maneuvers herself into the [[White Tower]], but her identity and purpose remain unknown for some time. She had plans on having [[Rand al'Thor]] within her hands within a couple of months after the White Tower Delegation went to meet him.
+
+She is present with [[Graendal]] and [[Semirhage]] during the meeting with [[Demandred]], who tells them all of the Dark One's plan for them and to "let the Lord of Chaos Rule."{{ref/book|6|p}}
+
+She keeps a tab on [[Alviarin Freidhen]], often visiting her and finding out what information is going through the [[Amyrlin]]. She obviously eavesdropped on those meetings anyway, as she knows when Alviarin leaves out bits of information. She is behind any order that the Amyrlin "gives" and is the one who teaches Alviarin how to weave a [[gateway]].
+
+Mesaana ran the Black Ajah mainly through Alviarin. However, unknown to Alviarin, Mesaana had also contacted each of the other twelve members of the Black Ajah's Supreme Council, and had learned the identities of every Black Sister.  She didn't know as much about the Black Ajah as she deluded herself into thinking, though.
+[[File:Forsaken Mesaana.jpg|200px|thumb|right|The [[Forsaken]] Mesaana]]
+When she appears, she has a cloak of shadow around her so as not to be identified. Alviarin attempts to piece together her identity within the Tower, but ultimately fails. Mesaana informs Alviarin about the Ajah Heads that are meeting each other secretly.
+
+Among Mesaana's accomplishments are causing and prolonging the [[schism]] between the Tower Aes Sedai and the Rebel Aes Sedai (by participating in, and perhaps even by causing, Elaida's coup, and by increasing the tower guards, among other things); widening the wedge between Rand and the Tower (by making Elaida sign the proclamation that recognized Rand as the Dragon Reborn while condemning him, and condemning all who had aided or would aid him). This also weakened Rand by reducing his potential support, and weakened the Tower by reducing its flexibility in dealing with Rand and by forcing Rand's allies to oppose the Tower if they wanted to continue supporting Rand. Mesaana also caused the internal strife between the Ajahs, weakening the Aes Sedai's unity. 
+
+Mesaana is about to punish Alviarin when [[Shaidar Haran]] intercedes and marks Alviarin and charges her to find the Black Ajah hunters. Mesaana is then punished by Shaidar Haran for ignoring the call and not participating in the [[Battle near Shadar Logoth]]. Mesaana appears to have been raped as punishment as Shaidar Haran removes his armor and burns away Mesaana's clothing and binds her arms and legs. This imagery combined with previous mentions of [[Myrddraal]] having a voracious sexual appetite for women appears to point towards Mesaana being raped as punishment.
+
+She attends the meeting with the other Chosen in ''[[Tel'aran'rhiod]]'', which is made to look like the [[Ansaline Gardens]]. There she is told that Rand is not to be harmed and that [[Matrim Cauthon]] and [[Perrin Aybara]] are to be killed if found. She is very subdued since being punished.
+
+=== Secret identity ===
+Mesaana's identity is finally revealed at the conclusion of the [[Battle in Tel'aran'rhiod|Battle in ''Tel'aran'rhiod'']]. She had been posing as [[Danelle]], an Aes Sedai from the [[Brown Ajah]]. She had questioned the real Danelle and killed her. Because she had gotten so much information from Danelle, and because the real Danelle had few friends and was often out of the White Tower, Mesaana was able to impersonate her with little trouble.
+
+==== Activities as Danelle ====
+She "overlooks" the amount of men the Master in charge of Masonry lets in as workmen. They turn out to be soldiers who attack the White Tower when it splits.{{ref/book|4|47}}
+
+She stood with [[Elaida do Avriny a'Roihan]] when she deposed [[Siuan Sanche]] as Amyrlin. After Siuan is deposed, she becomes one of Elaida's close confidants.
+
+She is soon discarded from Elaida's group and becomes an outcast even within her own Ajah. She is not heard of for some time until [[Towers of Midnight]].
+
+=== Battle in the White Tower ===
+[[File:Mesaana.JPG|thumb|308x308px|The Forsaken Mesaana]]
+She and Demandred travel to the [[Great Blight|Blight]] to meet with [[Moridin]] (who invited Graendal to attend.) When Mesaana petitions to be allowed to arrange a "rescue" of Semirhage from Rand, Moridin forbids it. Semirhage attacked Rand (and thereby harmed Moridin) after being ordered not to following the [[A Crown of Swords/Chapter 41|balefire incident at Shadar Logoth]].
+
+It is revealed by [[Verin Mathwin]] that Mesaana is indeed in the White Tower, although she does not know the guise she is hiding under. [[Egwene al'Vere]]'s [[Great Purge|purge]] of the Black Ajah fails to reveal her, indicating that she either has fled the Tower, has found a way around the [[Three Oaths]], or is in the Tower but not under the guise of Aes Sedai, perhaps as a servant instead. As Chosen consider Darkfriends beneath—and thus separate from—them, she could have taken the oaths and said "I am not a Darkfriend" without lying. It is unlikely she is disguised as a servant because when Alviarin summons her with the [[brilliant red rod]], she comes quickly and wearing silk.
+
+After stalking Egwene in the White Tower, Mesaana coordinates an aggressive attack on a meeting between Egwene, the [[Wise One]]s, and the [[Sea Folk]] in ''[[Tel'aran'rhiod]]''. Egwene overpowers and fractures Mesaana's mind during the confrontation. Danelle is found as a non-sentient invalid following the ''[[Tel'aran'rhiod]]'' assault on the White Tower. This is the presumed result of Egwene having mentally overpowered Mesaana, thus destroying her mind, and has led the White Tower to conclude that Mesaana had either been Danelle the entire time, or had been impersonating the original Danelle.{{ref/book|13|42}} With Mesaana remaining only as a limp, mindless husk, the Tower's plans with her are unknown.
+
+==Parallels==
+Mesaana takes her name from Messalina, the third wife of Roman emperor Claudius and cousin to both Nero and Caligula. Messalina is most commonly remembered for her ruthless conspiracies against other members of the ruling classes in Rome and a scandalous reputation for promiscuity.{{ref|[[Origins of the Wheel of Time]], Mesaana}}
+{{Notes}}[[es:Mesaana]]
+[[Category:POV character]]
+[[Category:Antagonists]]
+[[Category:Aes Sedai (Age of Legends)]]
+[[Category:Channelers]]
+[[Category:Unknown nationality]]
+[[Category:Aes Sedai]]
+[[Category:Brown Ajah]]
+[[Category:Black Ajah]]
+[[Category:Parallels]]

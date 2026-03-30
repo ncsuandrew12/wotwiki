@@ -1,0 +1,42 @@
+{{ character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| gender=Female
+| affiliation=Unaligned sisters
+| status=Alive
+| hair=Pale
+| eyes=Blue, startling
+| mentioned={{cot|14}}
+| appeared={{kod|22}}
+| lastappeared={{kod|22}}
+| living=kod
+}}'''Amylia''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Amylia}}
+
+== Appearance ==
+Amylia has pale hair and startling blue eyes. She is described as "bosomy".{{ref/book|11|22}}
+
+She tends to wear bronze coloured skirts.{{ref/book|11|22}}
+
+==Strength and Abilities==
+Amylia's strength in the [[One Power]] is not given in the Companion, although it is mentioned that she cannot [[Travel]].{{ref/book|11|22}} It is unlikely, however, that she has access to anyone who could have taught her the weave.
+
+==History==
+Amylia's age and training isn't mentioned in the Companion, although she is described as having the [[Ageless look]] look, so she has been Aes Sedai at least five years.{{ref/book|11|22}} Given a minimum expected training time and average age of enrollment, she is likely at least 30 years old, likely much older. 
+
+He nationality is also never given, although very fair hair and blue eyes is typical of [[Shienaran]]s, among [[Tarna Feir|other places]]. 
+
+== Activities ==
+She likely was one of sisters staying at the [[Silver Swan]] in [[Caemlyn]], of which at least three were Brown Ajah.{{ref/book|10|14}} This means that she was among the so called [[unaligned sisters]].{{ref/book|9|7}}
+
+Amylia was recruited to train the [[Windfinders]] by [[Zaida din Parede Blackwing]] as a replacement for [[Merilille Ceandevin]] after she disappeared. Although Amylia initially welcomed the position, believing it would afford her the opportunity to study the Windfinders, she soon found out that she was ranked the same as a deckhand and was expected to perform the same menial tasks, such as serving tea.{{ref/book|11|22}}
+
+She attempts to escape the Atha'an Miere three times, receiving harsher and harsher punishments each time. She is warned that a fourth attempt will result in a public flogging and being hung from the rigging of the ship naked by her ankles.{{ref/book|11|22}}
+
+She serves tea at the meeting of the [[Atha'an Miere]] [[First Twelve]], during which her jumpiness leads [[Harine din Togara Two Winds]] to wonder what severe punishment she had received for her third escape attempt. She is shocked when [[Logain Ablar]] arrives as [[Rand al'Thor]]'s ambassador and tells Zaida that he is a former false [[Dragon]] and wields ''[[saidin]]''.{{ref/book|11|22}}
+
+{{notes}}[[es:Amylia]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

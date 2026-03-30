@@ -1,0 +1,17 @@
+{{Character
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Dead
+| death={{Ne|1000}}
+| gender=Male
+| occupation=
+| appeared={{tom|e}}
+| lastappeared={{tom|e}}
+| nationality=Unknown nationality
+}}
+'''Thum''' was an employee of [[Barriga]].{{ref/book|13|Epilogue}}
+==Activities==
+Thum was killed by [[Trolloc]]s on the way to [[Heeth Tower]].{{ref/book|13|Epilogue}}
+
+{{notes}}
+[[Category:Characters named after fans]]

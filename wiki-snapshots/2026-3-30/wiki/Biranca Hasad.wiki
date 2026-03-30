@@ -1,0 +1,29 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| status=Dead
+| nationality=Unknown nationality
+| ajah=Unknown
+| rank=Aes Sedai
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}
+
+'''Biranca Hasad''' was an [[Aes Sedai]]  who lived after the [[Breaking of the World]] and before the founding of the [[White Tower]].{{Ref|{{twotc}}, Biranca Hasad}}
+
+==History==
+Circa {{Ab|47}}, Biranca was one of over twelve women who sat for their ''ajahs'' (note the lowercase) in discussion for building a new city as a center of Aes Sedai power.{{ref|{{bwb}}, Chapter 9, Formation of the White Tower}}
+
+It is not clear if Biranca and her group of Aes Sedai refused to participate in the building of [[Tar Valon]] or instead voluntarily joined one of the other seven groups that became the traditional seven Ajah of the White Tower.
+
+In the first case most probably Biranca's group was forced to bow by [[Elisane Tishar]], the first [[Amyrlin Seat]], as in other similar cases. 
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Hasad, Biranca}}
+[[Category:Historical people]]
+[[Category:Aes Sedai after the Breaking]]
+[[Category:Short pages]]
+[[Category:Character not mentioned in books]]
+[[Category:Channelers]]

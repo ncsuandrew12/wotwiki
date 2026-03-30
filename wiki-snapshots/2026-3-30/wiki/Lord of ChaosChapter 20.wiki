@@ -1,0 +1,169 @@
+{{quote|Women do not become exhausted, they only exhaust others.|Ogier saying}}
+
+{{summary | book=6 |
+|chapter=20
+|title=From the Stedding
+|icon=Leaves
+|setting=[[Royal Palace of Andor]], [[Caemlyn]]
+}}
+
+{{pov|[[Rand al'Thor]]}}
+
+A servant arrives in the throne room to tell Rand that three [[Ogier]] have arrived. Rand asks to be led to where they are getting refreshments. The Ogier are [[Haman|Haman son of Dal son of Morel]], [[Covril daughter of Ella daughter of Soong]], and [[Erith daughter of Iva daughter of Alar]]. Covril is looking for her son, Loial, and plans to marry him right away to Erith to settle his wanderlust. He has been outside the ''stedding'' for five years and the [[Longing]] will soon overtake him and possibly kill him. Rand admits that Loial is in the [[Two Rivers]], a nice safe, quiet place. Rand asks Haman to identify all the locations of [[Waygate]]s. He tried visiting [[Stedding Tsofu|''Stedding'' Tsofu]], but Elder [[Alar]] would not listen to a human.{{Ref|Rand later gets around this problem by sending Loial. See ''[[Lord of Chaos]]'', [[Lord of Chaos/Chapter 49|Chapter 49]].}} Rand wants to have all the Waygates guarded because [[Shadowspawn]] are using the [[Ways]]. Rand wonders why the [[Forsaken]] don't send [[Trollocs]] pouring through [[Gateways]].{{ref|He later learns from Lews Therin that Gateways kill Shadowspawn.}}
+
+Haman reluctantly agrees and Rand sends [[Sulin]] to bring him every map in the palace. As Elder Haman begins marking the maps, he is amazed that humans do not remember the vanished cities of [[Mafal Dadaranell]], [[Ancohima]], or [[Londaren Cor]]. Some of the older maps show vanished nations:
+
+* [[Hardan]] was north of [[Cairhien]]
+* [[Maredo]] was between [[Tear]] and [[Illian]]
+* [[Caralain]] was north of [[Andor]]
+* [[Almoth]] was between [[Arad Doman]] and [[Tarabon]]
+* [[Mosara]] and [[Irenvelle]] were nations that arose after the [[War of the Hundred Years]] and were later absorbed into other nations
+
+Elder Haman begins by marking the occupied ''stedding'' where there are Waygates:
+
+* seven in the [[Borderlands]]
+* thirteen in the [[Spine of the World]], including
+** one in [[Kinslayer's Dagger]]{{ref|[[Stedding Yontiang|''Stedding'' Yontiang]].}}
+** [[Stedding Shangtai|''Stedding'' Shangtai]] in the south
+** [[Stedding Qichen|''Stedding'' Qichen]] and [[Stedding Sanshen|''Stedding'' Sanshen]] in the north, only a few miles apart from each other
+* [[Stedding Cantoine|''Stedding'' Cantoine]] is just above the [[River Iralell]] not far north of [[Haddon Mirk]]
+* only four between the [[Dragonwall]] and the [[River Erinin]], including ''Stedding'' Tsofu, which was only repopulated six hundred years ago{{ref|In the audiobook, the reader misstates that Tsofu was reclaimed six '''thousand''' years ago!}}
+* six in the [[Mountains of Mist]]
+* two in the [[Shadow Coast]]
+* three in the [[Black Hills]]
+* four in the forests above the [[River Ivo]]
+* two in the mountains above the [[River Dhagon]]
+
+Then Elder Haman marks ''stedding'' that are abandoned because their Ogier populations dwindled or that were never reclaimed because they were too close to human habitations:
+
+* at least one in the Spine of the World
+* at least one in the Mountains of Mist
+* at least one in the [[Shadow Coast]]
+* one on [[Almoth Plain]] near the [[Paerish Swar]]
+* one on the north coast of [[Toman Head]]
+* [[Stedding Cantoine|''Stedding'' Sherandu]] and [[Stedding Cantoine|''Stedding'' Chandar]] inside the [[Blight]]
+
+Rand reminds Elder Haman that there is also an empty ''stedding'' somewhere east of the [[River Arinelle]] and north of the road between [[Whitebridge]] and Caemlyn, which Perrin told him about.{{ref/book|1|29}}
+
+Haman then lists Ogier-built cities with Waygates:
+
+* Existing cities
+** Caemlyn
+** [[Tar Valon]]
+** Tear
+** Illian
+** Cairhien
+** [[Maradon]]
+** [[Ebou Dar]] (marked as Barashta)
+* Vanished cities
+** Mafal Dadaranell
+** Ancohima
+** Londaren Cor
+** [[Manetheren]]{{ref|This one was closed by Loial. See ''[[The Shadow Rising]]'', [[The Shadow Rising/Chapter 44|Chapter 44]] and [[The Shadow Rising/Chapter 53|Chapter 53]].}}
+** [[Aren Mador]]
+** [[Aridhol]]
+** [[Shaemal]]
+** [[Deranbar]]
+** [[Braem]]
+** [[Condaris]]
+** [[Hai Ecorimon]]
+** [[Iman]]
+
+The name Aridhol tickles Rand's memory until he remembers that it is now called [[Shadar Logoth]]. Rand asks the Ogier to show him the location of the Waygate in Shadar Logoth since that one needs to be dealt with urgently.
+
+==Characters==
+* [[Rand]]
+* [[Liah]]
+* [[Bari (servant)]]
+* [[Cassin]]
+* [[Sulin]]
+* [[Urien]]
+* [[Haman]]
+* [[Covril daughter of Ella daughter of Soong]]
+* [[Erith daughter of Iva daughter of Alar]]
+* [[Jalani]]
+
+===Referenced===
+* [[Enaila]]
+* [[Somara]]
+* [[Loial]]
+* [[Alar]]
+* [[Dalar]] Ogier
+* [[Perrin]]
+* [[Bode]]
+* [[Voniel]]
+* [[Moiraine]]
+
+==Places==
+* [[Royal Palace of Andor]]
+* [[Caemlyn]]
+
+===Referenced===
+* [[Stedding Tsofu]]
+* [[Cairhien (city)]]
+* [[Two Rivers]]
+* [[Amador]]
+* [[Chachin]]
+* [[Kandor]]
+* [[Shol Arbela]]
+* [[Arafel]]
+* [[Fal Moran]]
+* [[Shienar]]
+* [[Bandar Eban]]
+* [[Arad Doman]]
+* [[Shienar]]
+* [[Blight]]
+* [[Malkier]]
+* [[Tear]]
+* [[Mountains of Mist]]
+* [[Manetheren]]
+* [[Mafal Dadaranell]]
+* [[Ancohima]]
+* [[Londaren Cor]]
+* [[Andor]]
+* [[Borderlands]]
+* [[Hardan]]
+* [[Maredo]]
+* [[Illian]]
+* [[Caralain]]
+* [[Almoth]]
+* [[Mosara]]
+* [[Irenvelle]]
+* [[Saldaea]]
+* [[Spine of the World]]
+* [[Dragonwall]]
+* [[Kinslayer's Dagger]]
+* [[Stedding Shangtai]]
+* [[Stedding Qichen]]
+* [[Stedding Sanshen]]
+* [[Stedding Cantoine]]
+* [[Haddon Mirk]]
+* [[Sea of Storms]]
+* [[Shadow Coast]]
+* [[Black Hills]]
+* [[Toman Head]]
+* [[Aryth Ocean]]
+* [[Stedding Sherandu]]
+* [[Stedding Chandar]]
+* [[Tar Valon]]
+* [[Maradon]]
+* [[Ebou Dar]]
+* [[Barashta]]
+* [[Aren Mador]]
+* [[Aridhol]]
+* [[Shaemal]]
+* [[Deranbar]]
+* [[Braem]]
+* [[Condaris]]
+* [[Hai Ecorimon]] failed city
+* [[Iman]]
+* [[Baerlon]]
+
+==Items==
+
+===Referenced===
+* [[Horn of Valere]]
+
+{{notes}}
+
+{{DISPLAYTITLE:''From the Stedding''}}

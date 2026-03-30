@@ -1,0 +1,26 @@
+{{character|nationality=Atha'an Miere
+| gender=Female
+| ewot=Jorin
+| image=Birds.png
+| imagesize = 150px
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| status=Alive
+| appeared={{tsr|19}}
+| lastappeared={{tsr|39}}
+| living=tsr
+}}
+{{dablink|For the similarly named [[Darkfriend]] from [[Amadicia]], see [[Jorin Arene]]. For other uses of the words "white" and "wing," see [[White]] and [[Wing]].}}
+'''Jorin din Jubai White Wing''' is [[Windfinder]] on the ''[[Wavedancer]]'' and serves with her sister [[Coine din Jubai Wild Winds]].{{ref/book|4|19}} As a Windfinder, Jorin is a [[channeler]].
+
+== Appearance ==
+She looks similar to her sister but is much younger. Her coloring is dark, as is common among ''[[Atha'an Miere]]''.  She wears tattoos on her hands of stars and seabirds surrounded by the curls and whirls of stylized waves. {{ref/book|4|19}}
+
+== Activities ==
+She is on the same [[raker]] as [[Elayne Trakand]] and [[Nynaeve al'Meara]] when they go from [[Tear]] to [[Tanchico]] when they are tracking down the [[Black Ajah]].
+
+Jorin impresses Elayne with her cable-thick [[weave]]s of Air and Water and agrees to teach her the techniques of a [[Windfinder]].{{ref/book|4|20}}
+
+{{notes}}
+{{DEFAULTSORT:Jubai White Wing, Jorin din}}
+[[Category:Channelers]]

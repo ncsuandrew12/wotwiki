@@ -1,0 +1,16 @@
+The '''Blightborder''' is the northern border of the Westlands, running along the southern edge of the [[Blight]].
+
+[[Image:Blight map.png|thumb|right|200px|Location]]
+[[Image:blight-icon.svg|thumb|right|125px|Blight [[:Category:Chapter art|chapter&nbsp;icon]]]]
+
+==Notable nations==
+[[Saldaea]], [[Arafel]], [[Shienar]], and [[Kandor]] share the Blightborder, and are charged with guarding it. This list once included [[Malkier]], though it was overrun by the Blight.  Save for several manned garrisons and watchtowers, no nation maintains a permanent settlement within the Blight.  
+
+==Features==
+Unlike the Spine to the east, and the ocean to the south and west, the Blightborder is the only unnatural boundary containing the Westlands. It was likely created by the Dark One, though the means of its creation are unknown.  The Blightborder is not a defined border, but is marked as a gradual corruption of the landscape and waterways the further north one travels.
+
+The location of the Blightborder has been known to shift to the north and the south along its length over time.  These shifts generally correspond to the strength and vigilance of the defenders relative to the power and influence of the Dark One, either in a fixed location or globally.  However, while there have been some noted occasions when the Blightborder had retreated in certain places, the overall long-term trend has been a steady encroachment of the Blight south into the Westlands.  A dramatic example of the Blight overtaking a vast territory in a short amount of time was the destruction of Malkier.
+
+{{short}}
+[[Category:Borderlands]]
+[[Category:Other features]]

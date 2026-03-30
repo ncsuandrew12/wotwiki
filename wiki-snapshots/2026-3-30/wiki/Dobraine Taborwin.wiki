@@ -1,0 +1,51 @@
+{{ character
+| image=Dobraine.jpg
+| imagesize=250px
+| ewot=Dobraine
+| status=Alive
+| nationality=Cairhienin
+| title=Lord
+| occupation=Steward of the Dragon
+| affiliation=The Dragon Reborn
+| gender=Male
+| hair=Gray
+| appeared={{tfoh|46}}
+| mentioned={{tfoh|45}}
+| lastappeared={{tgs|42}}
+| lastmentioned={{tom|50}}
+| living=tom
+}}
+'''Dobraine Taborwin''' is [[High Seat]] of [[House Taborwin]] and a high-ranking [[Cairhienin]] lord.
+
+== Appearance ==
+Dobraine has long gray hair, shaved in front like a soldier, and is square-faced with deep-set eyes. He has a pale face.
+
+==History==
+[[File:Dobraine Taborwin con.jpg|thumb|left|100px|The ''con'' of Dobraine Taborwin]]
+His ''[[con]]'' is a blue square with two white diamonds.
+
+== Activity ==
+=== Rand's kidnapping and Dumai's Wells ===
+Six days after Rand and Min disappear from the [[Sun Palace]] after the audience with [[Elaida | Elaida's]] emissaries, Dobraine approaches [[Perrin]]. There have been two murders in the city, which is almost unheard of for the [[Feast of Lights]]. He is also concerned by [[Colavaere | Colavaere's]] efforts to gain support for her claim to the [[Sun Throne]], since Rand has publicly claimed it on behalf of [[Elayne]]. While they are talking, [[Berelain]] brings them Rand's sword and sword belt, which she found left behind in his quarters. The men and [[Sulin]] are convinced Rand and Min were actually kidnapped; Rand would not leave without his sword. They immediately begin preparations to rescue him from the Aes Sedai.
+
+The next day Dobraine leads five hundred men with Perrin, [[Gaul]], [[Loial]], and two hundred [[Mayener]]s to rescue Rand. They are joined around midday by five thousand spears and one thousand [[Far Dareis Mai|Maidens]], led by [[Rhuarc]], Sulin, and [[Nandera]]. Six days later, they are joined by a group of men from the [[Two Rivers]] and several [[Aes Sedai]].
+
+Dobraine leads his men at [[Dumai's Wells]]. He is unhorsed but continues to fight. When Taim's [[Asha'man]] raise the dome of [[Air]], Dobraine is inside it. When he reaches Rand, he is carrying the [[Banner of Light]].
+
+=== Trust ===
+Dobraine is probably one of the few Cairhienin that [[Rand]] trusts. After the battle with the [[Shaido]] in [[Cairhien]], he has sworn fealty to Rand and is one of the few who actually takes his oath seriously.
+
+Upon returning to Cairhien, Rand places the recently dethroned Colavere into Dobraine's care.
+He is part of Rand's embassy when he meets with the [[Sea Folk]] and makes the Bargain. He informs Rand on all the activities that have occurred in Cairhien while Rand was absent with his campaigns against [[Illian]] and the [[Seanchan]].
+
+Rand has made him steward of Cairhien and has told him to back [[Elayne Trakand]] when she lays claim for the Sun Throne{{ref/book|9|p}}.
+
+=== Near death experience ===
+He is stabbed in his rooms by robbers rummaging through his contents. He manages to kill both before passing unconscious. [[Samitsu Tamagowa]] manages to find a thin flame of life in his body and manages to [[Heal]] him although he is still in a critical state.
+
+When he finally recovers, he is sent by Rand to [[Arad Doman]]. There, he is required to bring peace to the war torn country. With [[Rhuarc]] he manages to secure [[Bandar Eban]]. When Rand finally rides into Bandar Eban, Dobraine greets him with all his armsmen. Although Dobraine may have had expectations for Rand to name him King of Arad Doman, Rand sends him on his way to [[Tear]]. Rand considers making him King of Arad Doman if [[Alsalam Saeed Almadar|King Alsalam]] can't be found, since [[Rodel Ituralde|Ituralde]] indicated that he didn't want the throne. He greets Rand with King [[Darlin Sisnera]] when Rand withdraws his forces from Arad Doman back into Tear. 
+
+{{DEFAULTSORT:Taborwin, Dobraine}}
+{{notes}}
+[[es:Dobraine Taborwin]]
+[[Category:Nobility]]

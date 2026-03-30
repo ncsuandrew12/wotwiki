@@ -1,0 +1,93 @@
+__NOTOC__
+{{Featuredicon}}
+{{character 
+| image=Tam Al'Thor.JPG
+| imagesize=250px
+| ewot=tam
+| birth={{ne|940}}
+| nationality=Andoran
+| title=Village Councilor
+| rank=First Captain
+| occupation=Soldier
+| tworivers=yes
+| affiliation=Perrin Aybara
+| gender=Male
+| hair=Gray
+| status=Alive
+| appeared={{teotw|r}}
+| lastappeared={{amol|e}} 
+| living=amol
+}}
+{{for|others with the same surname|al'Thor}}
+'''Tamlin al'Thor''', more commonly known as '''Tam''', is the adoptive father of [[Rand al'Thor]]. He lives on a farm in the [[Westwood]] near [[Emond's Field]], where he raised Rand from a baby.
+
+== Appearance and Abilities==
+He has a thick chest and a lined face. His hair was gray with sprinkles of black at the beginning of {{Ne|998}}, but by the middle of {{Ne|1000}}, it is completely gray. He is described as being ''solid'' in virtually every conceivable way. 
+
+He has been shown to be a superbly skilled warrior, both with a sword and perhaps even more so with a bow. He essentially never misses a shot, and his capabilities with a blade were such that even [[Al'Lan Mandragoran]] saluted his skill.
+
+==History==
+[[File:Tam_al'Thor.PNG|left|250px|thumb|Tam a'Thor cradles an infant Rand during the [[battle of the Shining Walls]]]]
+In {{ne|956}}, Tam al'Thor ran away from his home in the [[Two Rivers]] and joined the army of [[Illian]], eventually becoming a member of the [[Illianer Companions|Companions]]. While serving Illian, he fought through the [[Whitecloak War]], two wars with [[Tear]], and the [[Aiel War]]. During this time, he was able to rise in rank to [[Second Captain of the Companions]]. He rose to the status of [[blademaster]] by defeating one in single combat, an action that he expressed some regret over, despite saying that it needed to be done. Before returning home, he married a red-haired woman from [[Caemlyn]], [[Kari al'Thor]].
+
+At some point during his time as a soldier, Tam acquired a power-wrought, heron marked blade. Lan mentions to Rand that his sword is exceedingly valuable, being both heron-marked and power-forged, suggesting that Tam could have never acquired it from a merchant. Robert Jordan indicated during a 1994 Q&A Session that Tam was given the sword by the King of Illian.
+
+Near the end of the Aiel War, Tam found a baby alone on the slopes of [[Dragonmount]]. The mother was dead, and remembering his wife's desire for a child, he adopted him. He returned to the Two Rivers with his wife and the baby, whom he named Rand. There he settled on an outlying farm.
+[[File:Tam al'Thor.jpg|right|200px|thumb|Tam al'Thor Portrait by Seamus Gallager]]
+Kari al'Thor died before she could see her son grow up, and Tam never remarried, despite the best efforts of the [[Women's Circle]].
+
+During Rand's childhood, Tam taught him the trick of "the flame and the void", known as ''[[ko'di]]'', or Oneness. The technique, though meditative in nature and not combat oriented, helped Rand to improve his archery skills. This concentration technique later helped Rand focus his combat skills, and to incidentally control the [[One Power]]. He joined the Emond's Field [[Village Council]], and was known to be a respectable, thoughtful council member. At an annual sheep-shearing, he told the children of the village the story of the [[War of Power]] and the [[Dragon]].
+
+== Activities ==
+=== Attack on the Two Rivers ===
+[[File:Randandhurttam.jpg|left|150px|thumb|Rand and Tam after the attack on their home]]
+In [[998 NE]], after a particularly hard winter, many interesting things happened to the isolated community. First, there were surprising visitors, a supposed noblewoman and her guard, actually an [[Aes Sedai]] and her [[Warder]], who served to entertain the public at large by their very presence. Tam recognized her for what she was, though it is not known if he let this on to the council. Second, there was an expected visitor, the [[gleeman]] [[Thom Merrilin]], who had been hired to perform after [[Winternight]], on [[Bel Tine]].
+
+These happy events were marred somewhat by strange news from the outside world, from the [[peddler]] [[Padan Fain]]. Fain told of a [[false Dragon]], [[Logain Ablar|Logain]], who had just been captured after many battles, and - despite the fact the war was over and the man captured - panic set in among the villagers. Tam supported a plan to arrange patrols, believing it would calm heads and control improbable influxes of refugees. These precautions were extraordinarily wise, though not for those reasons which had been established. 
+
+A [[Trolloc]] army had assembled in the Two Rivers, at the behest of [[Ishamael]], and they were hunting for the [[Dragon Reborn]].  On Winternight, the army attacked Emond's Field, and specifically the homes of three candidates, all ''[[ta'veren]]'', including that of Tam and his adopted son.
+[[File:Tamlin al'Thor.jpg|thumb|right|Tamlin al'Thor from the [[CCG]]]]
+Tam had sensed the danger, however. When Trollocs literally came to his doorstep, Tam was prepared, armed with his old [[Heron-mark sword|heron-mark blade]]. He fought bravely, with all of his skill, but he was out of practice and had never fought Trollocs before. He received a small wound across his ribs. However, the wound was made by a tainted blade and wrapped him in a deadly fever.
+
+His son treated it as well as he could and dragged him all the way back to the village to see the [[Wisdom]] [[Nynaeve al'Meara]]. In his feverish state, babbling to people who were not present, Tam had accidentally told Rand everything - [[Laman's Pride]], about the Aiel War, and the circumstances surrounding his adoption.
+
+Tam suffered a brush with death when the tainted Trolloc blade wounded him. Nynaeve could not do anything, and he only survived due to [[Healing]] from [[Moiraine Damodred]], the Aes Sedai who had arrived the previous day, and aided the Two Rivers folk in their fight against the Trollocs.
+
+The following day, Tam woke to find out that his son was leaving with the Aes Sedai. He took this stoically, and gifted Rand with his heron-mark blade.
+[[File:Tam teotwc.jpg|left|thumb|433x433px]]
+
+=== To Tar Valon ===
+He would later travel to [[Tar Valon]] with [[Abell Cauthon]] to find out what had happened to their sons, though they were rebuffed and sent home with no more of a clue than when they had set off. When the Trollocs returned under the command of Padan Fain, and [[Whitecloaks]] came to the 'aid' of the village, Tam went into hiding in the woods along with Abell after resisting arrest.{{ref/book|4|29}} When [[Perrin Aybara]] returned to the Two Rivers, Tam met with him and they spoke of Rand and also of what needed to be done to free Abell's family.{{ref/book|4|31}} Tam aided Perrin in his war effort against the Trollocs, and led the forces at the south in the last defense.{{ref/book|4|56}} In this time, he also trained [[Aram]] in the ways of the sword.
+
+When [[Mazrim Taim]] came to the Two Rivers to recruit [[Asha'man]], he told Tam that Rand was the Dragon Reborn. Soon afterward, Tam's hair turned completely gray.
+
+=== Following Perrin ===
+He brought three to four thousand [[Two Rivers]] archers to aid Perrin in his efforts against the [[Shaido]]. In the [[Battle of Malden]], Tam al'Thor was appointed Perrin's [[First Captain]]. 
+After leaving [[Malden]] he attends a meeting with Perrin to decide where the army should now go. A decision is made to send a scouting force to [[Cairhien]] to start looking for Rand. He is part of Perrin's group that meet with [[Galadedrid Damodred]] to discuss parley with the [[Children of the Light]]. He disagrees with Perrin's plan of sending all the civilians back home through a gateway. He states that most want to stay with the army and are beginning to train with them.
+
+When it looks like a confrontation between Perrin's force and the Whitecloaks seems inevitable, Perrin gets the [[Asha'man]] to tear up a trench between the two sides and gets the Two Rivers men to fill the trench with arrows in order to try and set up another parley. Perrin sends him to a nearby village to check on casualties when a [[Bubble of evil]] erupts in camp. Nynaeve manages to track Tam down through Rand's bond to Perrin and asks him to come back to Tear with her. After requesting leave from Perrin he Travels with Nynaeve.
+
+=== To Tarmon Gai'don ===
+As time passes, Rand begins to lose himself and becomes unable to show any sort of emotions aside from occasional outbursts of anger. [[Cadsuane Melaidhrin]] and Nynaeve find Tam and ask him to meet with Rand in an attempt to remind Rand of his youth. This plan backfires as Tam lets it slip that Cadsuane both brought him to Rand and told him what to say. In a fit of rage Rand nearly destroys Tam with [[Balefire]], but at the last second he Travels away, leaving Tam alive. Tam then returns to Cadsuane, irate, and demands to know what she did to Rand. She says she did nothing, but Tam does not believe her. When he accuses her of doing something to Rand to have made him so different, Cadsuane wraps him in weaves of Air and lifts him from the ground with his arms pinned to his sides. Nynaeve tries to argue with Cadsuane in his defense, but Tam says it is all right, that he has dealt with bullies before, and whether they used their arms or the One Power makes no difference. This actually seems to get through to Cadsuane, for once, that she ''has'' been acting like a bully, and she lets him go with a grunt, perhaps even realizing that she had been going about trying to deal with Rand the wrong way the whole time, that Two Rivers folk react badly to being manipulated and bullied. 
+
+Rand later returns to Tear after his epiphany. He then spots Tam and begins to weep on his shoulder. Tam forgives Rand and then Rand introduces Min to him.
+
+Tam is one of Elayne's commanding officers in their campaign to take back Andor from the Trolloc army. The Trolloc's army is finally lured out to [[Braem Wood]] where Tam orders his archers to loose on them as they approach. Perrin must leave the army as he can feel Rand's need. Before he goes, he makes Tam a lord of the Two Rivers and commanding officer of his army, much to Tam's dismay. Rand comes to meet with Tam, before the former makes his way to [[Shayol Ghul]]. Rand gives [[Justice]] to his father, apologizing for losing his original Heron-marked blade. Tam feels the blade is too good for him, but Rand tells him nothing is too good for his father. Tam tells Rand that the flame and the void are never just about weapons but centering ones self. Tam asks Rand to practice sword-play with him. The two trade blows with each other for awhile but Rand finds it difficult to fight one handed. Tam then fights Rand one-handed as well. During their bout, Tam keeps telling Rand to let everything go. Rand finally puts all his emotions away and concentrates on the duel. The men finally stop and Tam tells Rand that he had been carrying a massive weight. Rand looks down at his stump and confirms this. 
+
+Tam leads the Two River folk with Arganda when they retake the high ground with the warriors of the golden crane. This is all part of Mat's master-plan to box the forces of Shadow in.
+
+== Future ==
+It is unknown if he ever learns of Rand's survival after the Last Battle, however after the Last Battle he becomes the paternal grandfather to at least six children.  The twins Elayne Trakand is already pregnant with and the quadruplets Aviendha will have, according to Min's viewing. It is unknown if Min will ever bear Rand's children.
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Tam al'Thor}} is played by {{TVlink|Michael McElhatton}}.
+{{notes}}
+[[es:Tam al'Thor]]
+[[Category:Blademasters]]
+[[Category:Farmers]]
+[[Category:POV character]]<references />
+[[es:Tam al'Thor]]
+[[Category:Blademasters]]
+[[Category:Farmers]]
+[[Category:POV character]]
+{{DEFAULTSORT:Al'Thor, Tam}}<!--To sort him without putting him in the "little a" part of the list, please leave the "a" in "al'Thor" capitalized -->

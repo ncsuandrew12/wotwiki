@@ -1,0 +1,25 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize = 200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| society=Far Aldazar Din
+| clan=Goshien
+| sept=Mosaada
+| status=Alive
+| appeared={{tfoh|3}}
+| lastappeared={{loc|17}}
+| living=loc
+}}
+'''Corman''' is one of the [[Aiel]] in [[Rhuidean]]. He is of the ''[[Far Aldazar Din]]'' society and of the [[Mosaada]] [[Goshien]].
+
+== Appearance ==
+He has a white scar across his nose.
+
+== Activities ==
+He plays a game of knives with [[Matrim Cauthon]] until he realizes how good Mat's luck is.{{ref/book|5|3}}
+
+He later greets [[Rand al'Thor]] when Rand arrives in [[Cairhien]] for a visit.
+
+{{notes}}

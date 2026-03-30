@@ -1,0 +1,19 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Dead
+| death={{Ne|999}}
+| nationality=Unknown nationality
+| affiliation=Chin Akima
+| occupation=Entertainer
+| gender=Male
+| mentioned={{Tfoh|36}}
+| lastmentioned={{tfoh|47}}
+}}
+{{for|The ship captain with the same first name|Chin Ellisor}}
+'''Chin Akima''' was the owner of a circus.
+
+==Activities==
+Three days before [[Valan Luca]] arrives at [[Samara]], Chin Akima has his circus in place. His circus has a man who juggles knives and axes and nine acrobats. A few days later, he is beheaded by the [[Masema Dagar|Prophet]] when he does not move his circus fast enough.
+
+{{DEFAULTSORT:Akima, Chin}}

@@ -1,0 +1,31 @@
+{{ character | image=Aiel-icon.svg
+| imagesize = 200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| build=Lean
+| hair=Yellow
+| status=Alive
+| clan=Miagoma
+| sept=Spine Ridge
+| appeared={{loc|32}}
+| lastappeared={{acos|3}}
+| living=acos
+}}'''Cosain''' is an [[Aiel]] [[Wise One]]. She is from the [[Spine Ridge]] [[Miagoma]] clan.
+
+== Appearance ==
+She is lean and yellow haired.
+
+==Strength and Abilities==
+Cosain can [[channel]] strongly. In TWoTC her strength level is described as {{opsl|20}}, the same level of [[Sheriam]] and [[Yukiri]], that are among the strongest [[Aes Sedai]] until the arrival of [[Nynaeve]], [[Egwene]] and [[Elayne]].
+
+This strength is more than enough to open alone a gateway for [[Travel]]ing.
+
+== Activities ==
+She is one of the Wise Ones camped outside [[Cairhien]]. She is irritated with the appearance of the [[Shaido]] Wise Ones.
+She does not participate in beating [[Egwene al'Vere]] over her lie.
+She participated in the [[Battle of Dumai's Wells]].
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.
+[[Category:Channelers]]

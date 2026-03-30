@@ -1,0 +1,18 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| gender=Male
+| nationality= Andoran
+| affiliation=House Marne
+| status=Alive
+| mentioned={{cot|p}}
+| lastmentioned={{cot|p}}
+| living=cot
+}}
+'''Eram Talkend''' is a lesser noble from [[Andor]]. His sigil is a golden Winged Hand.
+
+== Activities ==
+Usually support is thrown behind [[Elenia Sarand]]'s claim to the [[Lion Throne]] but the House's banners were seen in [[Arymilla Marne]] camp outside [[Caemlyn]].
+
+{{DEFAULTSORT:Talkend, Eram}}
+[[Category:Nobility]]

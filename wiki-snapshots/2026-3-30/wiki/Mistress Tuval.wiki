@@ -1,0 +1,18 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| affiliation=Kandor
+| nationality=Kandori
+| gender=Female
+| status=Unknown
+| mentioned={{ns|22}}
+| lastmentioned={{ns|22}}
+| living=ns
+}}
+Mistress '''Tuval''' was a tutor of [[Diryk]], the second oldest son of [[Ethenielle Kirukon Materasu|Queen Ethenielle]] and [[Brys Noramaga|Prince Brys]] of Kandor. 
+
+She is only mentioned in the New Spring {{ref/book|ns|22}} and The Wheel of Time Companion{{ref|{{twotc}}, Mistress Tuval}}.
+
+{{Notes}}{{Short}}
+
+{{DEFAULTSORT:Tuval, Mistress}}

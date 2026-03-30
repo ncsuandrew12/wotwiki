@@ -1,0 +1,26 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Unknown nationality
+| title=Gaidin
+| gender=Male
+| status=Alive
+| occupation=Warder
+| affiliation=White Tower
+| mentioned={{loc|52}} 
+| appeared={{cot|23}}
+| lastappeared={{cot|23}}
+| living=cot
+}}
+'''Bartol''' is a [[Warder]].
+
+==History==
+He and [[Rashan]] are bonded to [[Erian Boroleos]].
+
+==Activities==
+Erian reports to [[Galina Casban]] that Bartol and Rashan are suffering from her other Warders' deaths worse than she is. She comforts them in their grief.
+
+Although Erian Travels to [[Far Madding]] with [[Cadsuane]], she is forced to leave Bartol behind.
+
+Erian feels Bartol and Rashan [[Travel]] suddenly from [[Cairhien]] in steps towards where she is staying in [[Tear]]. They are Traveling with [[Logain Ablar]] and [[Toveine Gazal]], who are using the Warder bond to locate their Aes Sedai so that Logain may contact the [[Dragon Reborn]].
+[[Category:Elaida a'Roihan's White Tower]]

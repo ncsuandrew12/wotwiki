@@ -1,0 +1,18 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tar Valon
+| occupation=Maid
+| eyes=Big Brown
+| gender=Female
+| appeared={{tdr|31}}
+| lastappeared={{tdr|31}}
+| living=tdr
+}}'''Mada''' is a serving woman at the [[Woman of Tanchico]] in [[Tar Valon]].{{ref|{{twotc}}, Mada}} Her younger sister [[Saal]] also works at the inn.
+
+==Activities==
+She serves [[Matrim Cauthon]] when he enters the inn and encounters [[Thomdril Merrilin]].{{ref/book|3|31}} She is upset that Mat ordered wine for Thom but is grateful later when Mat seems to have straightened Thom out. She and her sister are very friendly to Thom.
+
+{{notes}}
+[[Category:Serving girls]]

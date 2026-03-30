@@ -1,0 +1,63 @@
+{{ character 
+| image=GrayBlack.png
+| imagesize=250px
+| birth = {{ne|855}}
+| ajah=Gray
+| nationality=Andoran
+| gender=Female
+| rank=Aes Sedai
+| occupation=Sitter
+| status=Dead
+| affiliation=Black Ajah
+| appeared={{tfoh|p}}
+| lastappeared={{tom|38}}
+| death={{ne|1000}}
+}}
+'''Evanellein Lorn''' was an [[Aes Sedai]] and a [[sitter]] of the [[Gray Ajah]], who was also secretly of the [[Black Ajah]].
+
+==Appearance and Personality==
+She wore a low neckline at [[Elaida do Avriny a'Roihan]]'s meeting. Elaida thought that she was too concerned with clothes and her own looks to seem a Green instead than a Gray.{{ref/book|5|p}} She was quite pretty, though not among the most beautiful of the Aes Sedai. She was tall, with a medium build, and dark brown hair which she wore in ever-changing styles and thought was one of her best features.  
+
+She worried about the size of her bottom, though her worries were all in her head. She was very concerned about whether men and women saw her as beautiful - but she was more concerned about women's opinions. She often wore the latest fashions, though only when she found them flattering. She preferred low-cut dresses, as she liked the shape of her bosom.  
+
+==Strength and Abilities==
+Evanellein is of [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a strength in the One Power of {{opsl|26}}. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent. 
+
+Despite what might have seemed overconcern with her looks and clothes, Evanellein had a first-rate mind and was considered in her Ajah a good mediator, though only fair at negotiation.
+
+She was considered very skilled politically and astute, even for a Sitter.
+
+==History==
+Evanellein was born in Andor in {{ne|855}}. She went to the Tower in {{ne|872}} and after seven years as a [[Novice]] and six as [[Accepted]], she was raised to the shawl in {{ne|885}}.
+
+She was elected as a [[Sitter]] quite recently, in {{ne|997}}, entering in the [[Hall of the Tower under Siuan Sanche]].{{ref/book|12|46}} She used her mediating abilities to gain influence and advantage, in particular mediating among the Sitters before the [[schism]] caused tensions between the Ajahs.
+
+Later she voted to depose Siuan and to elect Elaida as new Amyrlin. 
+
+==Activities==
+She remained loyal to the [[White Tower]] during the split and was a Sitter for the Gray Ajah in the Tower Hall.
+Evanellein was one of the sisters who took [[Siuan Sanche]] into custody.{{ref/book|5|p}}
+
+After Siuan was deposed, Evanellein became one of Elaida's close confidants, sitting in her Council. She reported to Elaida's council that the [[Panarch]] of [[Tarabon]], [[Amathera Aelfdene Casmir Lounault|Amathera]] had suddenly disappeared and that an Aes Sedai may have been responsible. This was a result of the activities of [[Liandrin's Group of Black Sisters|Liandrin's group of Black sisters]].{{ref/book|5|p}}
+
+Later, [[Yukiri]] reported that Evanellein was in favor of bringing down Elaida for the disaster of the [[attack on the Black Tower]].{{ref/book|11|p}}
+
+Sometime between the aftermath of the [[Seanchan]] attack on the White Tower and [[Egwene al'Vere]]'s purge of the Tower's Black sisters, Evanellein disappeared and thus fled the Tower{{ref/book|12|e}}, strongly indicating that she was of the Black Ajah, despite the fact that she was not in the list of Blacks given to Egwene by [[Verin Mathwin]].{{ref/book|12|39}}.
+
+Evanellein took part in the battle fought in [[Tel'aran'rhiod]] between the White Tower and its allies and the Black Ajah. Egwene confronted her twice. The first time, Egwene succeeded in imagining her to be "stupid," wiping Evanellein's mind temporarily before being interrupted by [[Mesaana]].{{ref/book|13|37}}
+
+The second time, Egwene succeeded in killing her with a blast of [[Earth]] and [[Fire]] from the opposite side of a wall.{{ref/book|13|38}}
+
+{{notes}}
+{{DEFAULTSORT:Lorn, Evanellein}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Lorn, Evanellein}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]

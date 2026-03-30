@@ -1,0 +1,31 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| ewothist=Luthair Paendrag
+| birth={{Fy|967}}
+| nationality=Seanchan
+| gender=Male
+| status=Dead
+| mentioned={{tgh|34}}
+}}
+'''Luthair Paendrag Mondwin''' (pronunciation: LEW-thair PAY-ehn-DRAG MON-dwihn) is the son of the famous [[Artur Hawkwing]].
+
+A spread-winged hawk clutching three lightning bolts in its claws and displayed on a white background was the banner of Luthair Paendrag.{{ref/book|2|34}}{{ref|{{bwb}}}} His banner would later serve as the basis for the banner of Seanchan itself, the only difference being the addition of a wide blue border.
+
+== History ==
+Luthair was born in {{Fy|967}} to [[Artur Hawkwing]] and his second wife [[Tamika]]. He was their eldest son. He had three or four siblings - at least two of which were daughters. One of those was [[Laiwynde Paendrag]].
+
+In {{Fy|992}}, [[Artur Hawkwing]] sent a massive army of 2,000 ships across the [[Aryth Ocean]] to [[Seanchan (continent)|Seanchan]]; this army was headed by Luthair. [[Nobility|Lords and ladies]] of Seanchan are said to be of his [[The Blood|blood]] or those that swore allegiance to him in the early days of the [[Seanchan|Seanchan Empire]].
+
+He fought against an amalgamation of native forces he called [[Armies of the Night]] during [[The Conquest]]. These armies contained channelers and hitherto unknown exotic animals like [[grolm]] and [[Raken|corlm]].
+
+Oaths to protect Luthair's son were sworn over Luthair's dead body, beginning the tradition of the [[Deathwatch Guards]].
+
+[[Deain]] introduced her invention, the ''[[A'dam]]'', to Luthair.{{Ref/book|2|40}}
+
+{{notes}}
+{{DEFAULTSORT:Mondwin, Luthair Paendrag}}
+[[es:Luthair Paendrag Mondwin]]
+[[Category:Historical people]]
+[[Category:Royalty]]
+[[Category:The Blood]]

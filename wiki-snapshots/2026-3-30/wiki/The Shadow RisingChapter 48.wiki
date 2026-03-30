@@ -1,0 +1,58 @@
+{{quote|Do you mean to spend the rest of your life here? There's a whole world the other side of the Dragonwall. Wine? Women? you remember these things?| [[Mat]] to [[Rand]] trying to encourage him to leave the Waste}}
+{{summary | book=4 |
+|chapter=48
+|title=An Offer Refused{{ref|At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.}}
+|icon=Aiel
+|setting=[[Aiel Waste]], [[Cold Rocks Hold]]
+}}
+
+== Summary ==
+
+{{pov|[[Rand al'Thor]]}}
+
+[[Aviendha]] berates Rand any time his gaze falls on [[Isendre]] for ill-treating [[Elayne]]. Rand refuses to wear Aiel garb except a ''[[shoufa]]'' since he doesn't want to "pretend" to be Aiel. Eleven days have passed since the fight with Trollocs at [[Imre Stand]]. Aviendha also tries to educate him on the Waste and the Aiel, including teaching him of the dangerous [[gara]].{{ref|Rand (or more likely Jordan) makes the common mistake of describing the gara as both venomous and poisonous. A lizard would only be poisonous if it was dangerous to ''eat''.}} He cannot figure out why Aviendha dislikes him so much, since he now knows from Bair told him that she has not yet gone through the [[glass columns]] to see their past. [[Moiraine]] occasionally talks to him, mostly to try to find out what his plans are, which he won't divulge. [[Egwene]] mostly stays with the Wise Ones and finally stops wearing her hair in two braids; Rand thinks it is because she found out it is what children wear. Each evening Rand practices the sword with [[Lan]], and spears and the Aiel's unarmed fighting style with [[Rhuarc]].
+
+[[Kadere]] approaches Rand repeatedly with claims of knowledge Rand could use but only if he receives guarantees of safety and protection. [[Natael]], the [[gleeman]], tries to get information he can use in his epic composition. After several nights of being put off by Rand, he gives up on the Jindo and goes to play for the larger Shaido camp.{{ref|He is also coaching and preparing Couladin for his rival claim at [[Alcair Dal]].}} Moiraine and the Wise Ones check on Rand's health and whether the heat is affecting him. One day while Aviendha is travelling with the Wise Ones she channels a huge fireball. Rand realizes that Aviendha is learning to channel from the Wise Ones and that he doesn't have a teacher to teach him what he needs to learn. [[Mat]] pursues Isendre but doesn't get anywhere. Keille and Isendre trade insults and threats.{{ref|Rand mentions Aviendha by name to Keille here, but it doesn't stick obviously as she has forgotten by {{5|52}}.}}
+
+Finally, on the twelfth day they arrive at [[Cold Rocks Hold]].
+
+==Characters==
+* [[Rand]]
+* [[Aviendha]]
+* [[Jeade'en]]
+* [[Isendre]]
+* [[Kadere]]
+* [[Keille]]
+* [[Jasin Natael]]
+* [[Moiraine]]
+* [[Egwene]]
+* [[Lan]]
+* [[Rhuarc]]
+* [[Bair]]
+* [[Aldieb]]
+* [[Mist]]
+* [[Amys]]
+* [[Melaine]]
+* [[Seana]]
+* [[Mat]]
+* [[Pips]]
+
+===Referenced===
+* [[Elayne]]
+* [[Lian]]
+* [[Min]]
+* [[Nynaeve]]
+* [[Thom]]
+
+==Places==
+* [[Aiel Waste]]
+* [[Cold Rocks Hold]]
+
+===Referenced===
+* [[Rhuidean]]
+* [[Tear]]
+* [[Shayol Ghul]]
+* [[Tar Valon]]
+
+{{notes}}
+{{DISPLAYTITLE:''An Offer Refused''}}

@@ -1,0 +1,19 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| ewot=Kalia
+| nationality=Seanchan
+| gender=Female
+| status=Dead
+| mentioned={{cot|4}}
+| lastmentioned={{kod|36}}
+}}
+'''Kalia Karede''' was the wife of [[Furyk Karede]].
+
+==History==
+Kalia married Furyk Karede, and had three sons with him. Two of them joined the [[Deathwatch Guard]], but Kalia and her other son died in the [[Great Fire of Sohima]].<ref name=comp>[[The Wheel of Time Companion]], Kalia.</ref>
+
+While her husband shudders at the thought of the [[One Power]] touching him, he wonders if it might have saved her.{{ref/book|11|36}}
+
+{{notes}}
+{{DEFAULTSORT:Karede, Kalia}}

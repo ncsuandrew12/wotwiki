@@ -1,0 +1,18 @@
+{{creature
+| image=Mice-icon.svg
+| imagesize=100px
+| ewot=Cirri
+| name=Cirri
+| type=pets
+| animal=Cat
+| status=Alive
+| owner=Sara
+| gender=Female
+| mentioned={{teotw|15}}
+| lastmentioned={{teotw|15}}
+}}
+'''Cirri''' is a cat owned by [[Sara]], who cooks at the [[Stag and Lion]] Inn in [[Baerlon]].
+
+The night [[Moiraine]]'s party stayed at this inn, guests complained that several dead rats, apparently killed by Cirri, were found in the inn, all with their backs broken.
+
+From [[Sara]]'s comments about the unusual behavior, it seems likely that they were not killed by him as was assumed, but were instead killed by [[Ba'alzamon]] as a warning to [[Rand|Rand Al'thor]].

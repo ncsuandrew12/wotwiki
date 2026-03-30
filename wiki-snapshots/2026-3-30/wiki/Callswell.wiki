@@ -1,0 +1,18 @@
+{{character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Domani
+| title=[[Lord]]
+| gender=Male
+| mentioned={{tgs|31}}
+| lastmentioned={{tgs|31}}
+| living=tgs
+}}
+'''Callswell''' is a [[Domani]] nobleman.
+
+==Activities==
+Lord [[Ramshalan]] boasted to Lords Callswell and [[Vivian]] that he could manipulate [[Rand al'Thor]].{{ref/book|12|31}}
+
+{{notes}}
+[[Category:Nobility]]

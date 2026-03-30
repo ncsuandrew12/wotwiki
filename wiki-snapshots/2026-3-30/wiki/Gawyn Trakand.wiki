@@ -1,0 +1,106 @@
+{{character
+| image=Wot card teasers gawyn by reddera-d489bc1.jpg
+| imagesize=260px
+| ewot=gawyn
+| birth={{Ne|979}}
+| death={{ne|1000}}
+| nationality=Andoran
+| rank=First Prince of the Sword
+| occupation=Warder
+| title=Gaidin
+| affiliation= White Tower
+| hair=Red Gold
+| eyes=Blue
+| gender=Male
+| height=6'5"
+| status=Dead
+| mentioned={{teotw|34}}
+| appeared={{teotw|40}}
+| lastappeared={{amol|37}}
+}}'''Lord Gawyn of House Trakand''' (/ˈgɑː.wɪn tɹɑˈkænd/) born in {{ne|979}}, he is the son of [[Taringail Damodred]] and Queen [[Morgase Trakand]], as well as the brother of [[Elayne Trakand]] and half-brother to [[Galad Damodred]]. As the eldest son of an Andoran queen, ideally his future role in the government was to be the [[First Prince of the Sword]] to his sister Elayne when she ascended the [[Lion Throne]]. As a male child of the queen he was ineligible to claim the throne himself, although a claim might be passed on to any female descendants. 
+
+== Appearance ==
+He was a head taller than Elayne. He had the same red-gold hair as his mother and sister. He also shared Elayne's oval face.
+==History==
+When Gawyn was very young, [[Gareth Bryne]] took him to Elayne's crib and made him swear an oath to always protect her. Even though he was only a child, Gawyn understood the oath perfectly and took it to heart.
+
+Growing up, Gawyn barely knew his father, who spent all his time grooming Galad as his heir. Galad would save Gawyn's life twice over their youth, and Gawyn thought of him as a role model.
+
+[[Rand al'Thor]] met Gawyn in {{ne|998}} when he fell into the [[Royal Palace of Andor|palace]] garden. He vouched for Rand both when Galad threatened him and when he was brought before Morgase.{{ref/book|1|40}}
+
+=== Family Tree ===
+{{RandElayneFamilyTree}}
+
+== Activities ==
+=== Training as a Warder ===
+[[File:Gawyn.jpg|thumb|left|Gawyn Trakand from the [[CCG]]]]
+Gawyn's subsequent appearance in the story occurred when Elayne headed to the [[White Tower]] for her [[Aes Sedai]] training, Gawyn and Galad accompanying her to train with the Tower [[Warder]]s. He meets [[Egwene al'Vere]] shortly after her arrival.{{ref/book|2|24}} 
+Morgase came to the White Tower and, when she found that her daughter was missing, she became furious. Galad and Gawyn managed to talk their way out of being taken out of the White Tower by her. Galad and Gawyn fought [[Matrim Cauthon]] armed with a quarterstaff and they with practice swords and lost even though it was two against one.{{ref/book|3|24}}
+
+During his time there, Gawyn met [[Egwene al'Vere]], [[Elmindreda Farshaw|Min Farshaw]], and [[Nynaeve al'Meara]]. During the Tower coup, he supported [[Elaida do Avriny a'Roihan]] by preventing the attempted rescue of [[Siuan Sanche]], the deposed [[Amyrlin Seat]]. He became the head of a group of former Warder trainees known as "[[The Younglings]]".
+
+=== The Tower Schism and Dumai's Wells ===
+[[File:WoT284.jpg|thumb|308x308px|Gawyn from the Eye of the World Comic]]
+Gawyn first proved himself a blademaster by killing two Warders during the coup, [[Coulin]] and [[Hammar]], both of whom were master swordsmen.
+
+Gawyn was sent with the Younglings to protect the group of Aes Sedai making an alliance with the [[Shaido]] [[Aiel]]. It was during this meeting that he found out about Andor being taken by Rand was told that Rand had probably killed Morgase. Gawyn showed up again in [[Cairhien]] where he met with Egwene regularly and they confessed their love for one another. After Egwene had to leave to become the Amyrlin Seat of the [[rebel Aes Sedai]], he left to assist the Aes Sedai he was traveling with at the [[Battle of Dumai's Wells]], which he lost but survived. He also had an extreme dislike for Rand, as proven at one point when Egwene was pulled into one of his dreams, in which he killed Rand to rescue Egwene. At Dumai's Wells he even told Rand, "I will see you dead, al'Thor." He believed that Rand killed his mother when he took [[Caemlyn]], but because Egwene supported Rand, he would not raise a hand against him.
+
+As of ''[[Knife of Dreams]]'' Gawyn and the Younglings were encamped outside the walls of [[Tar Valon]], not allowed in by order of Elaida and incapable of leaving due to winter snows and the rebel army.
+
+===Choosing sides===
+[[File:Gawyn.JPG|thumb|left|Gawyn Trakand <br /> ''Artwork by Todd Cameron Hamilton'']]
+Gawyn's Younglings began effectively raiding the rebel army using Gawyn's knowledge of Gareth Bryne's strategies. Despite that, Gawyn was conflicted about having sided with Elaida; he was convinced that she intended for him to die at Dumai's Wells. He disliked having to send his army against that of his former teacher, and didn't know what to do about Egwene.
+
+After sparring with [[Sleete]] and [[Marlesh]], he learned that Egwene had been captured by the White Tower. Convinced that Elaida was going to execute her, he decided to leave the Younglings and join the rebels to save her. He met Gareth Bryne and Siuan Sanche at the rebel camp, and they convinced him not to go off rescuing her, as she's given them strict orders not to. He also talked with Gareth about his mother and her time under the sway of [[Gaebril]], and about Rand. He then guided Bryne to [[Shemerin]], whom he had found hiding with the washing women.
+
+When the [[Battle of Tar Valon|Seanchan raided the White Tower]], Gawyn convinced Siuan and Bryne that Egwene was in danger, and that they must rescue her. They took a small force of soldiers into the city and fought the Seanchan at the base of the Tower. They went on to fight their way through the Tower to find a near-unconscious Egwene, and they brought her back to the Rebel camp (against her wishes, but she was too weak to resist.)
+Gawyn followed Egwene as she prepared to give the order to attack the White Tower. He then greeted her as she was about to be raised as the Amyrlin Seat, although she was still not too thrilled with him over her "rescue".
+
+=== Protecting the Amyrlin ===
+[[File:MatVsGawynAndGalad.JPG|thumb|right|220px|Gawyn joins with Galad to spar with Mat Cauthon on the White Tower Grounds, by Ariel Burgess Official Wheel of Time Artist]]
+Following Egwene's rise as the reunited Tower's Amyrlin Seat, Gawyn stayed as close as he could to Egwene, although she refused to acknowledge him for quite some time. He escorted her to the meeting in the [[Hall of the Tower]] with Rand. He then began to investigate the mysterious deaths of a number of Aes Sedai in the White Tower with Sleete. Later, Egwene and Gawyn had an argument, with Gawyn feeling unneeded and unwanted and Egwene becoming frustrated with Gawyn's refusal to obey orders. After Gawyn disrupted a trap set for an assassin in the White Tower, Gawyn left the Tower, briefly, to visit his sister in Caemlyn.
+
+In Caemlyn, Gawyn learned that the assassin in the Tower was in fact a [[Seanchan]] [[Bloodknife]] from a former ''[[sul'dam]]''. Later on, Gawyn was informed that Elayne was attempting to enter ''Tel'aran'riod'' and knew that Egwene, without a doubt, was there too, making her vulnerable to another assassination attempt. He returned to Tar Valon just in time to rescue the slumbering Egwene from three Bloodknives, nearly dying in the process. After Egwene awakened, she finally bonded Gawyn as her Warder and agreed to marry him. He later studied the three dead assassins and noticed the rings they were wearing. He slipped all three rings off and kept them.
+After Egwene moved Tar Valon's forces to the [[Field of Merrilor]], Gawyn was reunited with his thought-dead mother, Morgase.
+
+=== The Last Battle ===
+Gawyn goes with Egwene to visit Elayne. There they find out that Trollocs have invaded Caemlyn. Egwene sends Gawyn to bring some Aes Sedai back to Heal the wounded refugees who have Traveled to the Field of Merrilor. Gawyn is present watching over Egwene, during her confrontation with Rand over the [[Seal]]s. Rand has Gawyn sign the [[Dragon's Peace]] as well, just in case he raises to a position of leadership. Gawyn and Egwene are married in a simple ceremony orchestrated by [[Silviana Brehon]]. Gawyn is with Egwene when [[Egeanin Tamarath]] swears an oath to serve Egwene. He is with Egwene when she demands that Bryne actively include the Aes Sedai in his war-plans. While the Aes Sedai forces are on the [[Kandor]]i front-lines, Gawyn starts to become frustrated with his inactivity. Gawyn cuts down a few Trollocs that manage to get through the Aes Sedai attacks, but wishes to be out there doing more fighting. He is analyzing the Bloodknife ''ter'angreal'' when Leilwin recognizes what he is holding. She warns Gawyn about not letting it touch his blood, as that will activate it. Gawyn is with Egwene, when Rand meets with her before he goes to Shayol Ghul. During the exchange Rand reveals that Galad is his-half brother, which shocks Gawyn. Rand asks to see the seals one last time. However, the real seals have been stolen leaving them only duplicates.
+
+On the Kandori front, Gawyn questions why the Trollocs are attacking an Aes Sedai position so vigorously and losing so much of their number in the exchange. Suddenly a massive [[Shara]]n army Travels into the Aes Sedai camp and routs the force. Egwene sends Gawyn to the command tent, but it is destroyed in the fight. He comes back and finds Egwene hidden under a wagon. Gawyn gives Egwene his Warder cloak and they stay hidden until they can escape undetected. As they are sneaking out, the leader of the Sharans detects a female channeler. They freeze fearing that it is Egwene that has been found, but instead [[Leane Sharif]] is pulled out of her hiding place. The leader tells her to send a message that [[Demandred]] leads the Sharans and waits for the Dragon Reborn. Gawyn tells Egwene to stay hidden while he scouts ahead. When he moves out of sight he activates one of the Bloodknife ''ter'angreal''. Gawyn notices that he can now move faster with the ring on. Gawyn gets too far ahead of Egwene and feels her panic when she is captured. He comes racing back to her, but it is Leilwin who saves Egwene. While Gawyn is scouting, he manages to defeat half a dozen Sharans by himself. They finally manage to sneak out of the camp and [[Skimming|Skim]] back to the White Tower.
+
+Later, during the Battle of the Field of Merrilor, his impatience got the better of him. Donning all three ''ter'angreal'' rings, he left to hunt Demandred. Confronting the Forsaken, who wielded his sword smoothly with unfamiliar forms, Gawyn was challenged beyond his abilities. He failed, and Demandred left him mortally wounded. Galad found his brother when the area was retaken, but Gawyn died before they could get him to a Healer.
+
+== Blademaster==
+At times Gawyn seemed almost unbeatable with the sword, despite his young age. He beat other skilled swordsmen, such as Hammar, and bested Sleete, who had bested [[Lan Mandragoran]] twice out of seven bouts. During his Warder training, he and Galad lost to Mat at the same time, though Mat was weakened from being healed at the time.
+
+His amazing feats in some of his fights has, according to the author, relied a lot more on luck than Gawyn might have realized. One example is the skirmish with the Shaido after Dumai's Wells. The Shaido he fought was bumped from behind and fell into Gawyn's blow, killing him.
+
+During the Last Battle, Gawyn confronted Demandred and attempted to assassinate him. When this failed he tried to duel him instead. He failed and was mortally wounded by Demandred. The Forsaken compliments him, but says that he was still wielding his sword instead of becoming it.
+
+== Viewings ==
+*When [[Min Farshaw]] returns to the [[White Tower]], she sees blood caked over his face indicating serious wounding. (This is believed to have been fulfilled during the Tower split.)
+*She then sees a [[Warder]] sword over him with a heron marked blade, indicating he would become a blademaster. (This was fulfilled during the Tower split, by killing the blademaster [[Hammar]] in single combat.)
+*There is also Gawyn's banner, the charging White Boar, but on a field of green rather than the red of [[Andor]]. (This may represent his devotion to [[Egwene al'Vere]], who believes herself to be [[Green Ajah]]. It may also symbolize his involvement with the [[Younglings]], who wear green coats.)
+*During the escape of Min, [[Siuan Sanche|Siuan]], and [[Leane Sharif|Leane]] from the Tower, Min saw two flickering images, one of him kneeling before Egwene, and another of him breaking Egwene's neck. This would indicate that either was a possibility, and hints at his torn loyalties in the future. It could also represent how his disregard for his own life lead to severing the Warder bond, the pain of which was a factor in the events leading to Egwene's death.
+
+==Parallels==
+Gawyn is a parallel of [[Wikipedia:Gawain|Gawain]], one of King Arthur's Knights of the Round Table. Gawain was the son of Morgause and had great loyalty to his king and family. These are references to Gawyn's mother, [[Morgase Trakand|Morgase]], and his tendency to place his own family first above all other causes. After Gawain's relationship with Lancelot sours into a one-sided quest for vengeance, Gawain is mortally wounded in a battle he himself caused, then forgives Lancelot and renounces his anger before he dies.
+
+==Background==
+According to Robert Jordan, the fighting abilities amongst the greatest sword fighters rank as follows: Lan, Rand, Galad, Gawyn.
+
+{{Notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Trakand, Gawyn}}
+[[Category:Lords]]
+[[Category:Blademasters]]
+[[Category:Younglings]]
+[[Category:Dorlan Group]]
+[[Category:POV character]]
+[[Category:Cairhien expedition]]
+[[Category:Notes needed]]
+[[Category:Citation needed]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Deceased]]
+[[Category:Andor (people)]]
+[[Category:Warders]]

@@ -1,0 +1,40 @@
+{{ character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| status=Alive
+| appeared={{tpod|p}}
+| lastappeared={{tpod|p}}
+| living=tpod
+}}'''Turanna Norill''' is an [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Turanna Norill}}
+
+== Appearance and Abilities ==
+Turanna is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|32}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+She was part of the White Tower secret expedition who were to kidnap [[Rand al'Thor]] in [[Cairhien]].
+
+She was taken prisoner during the Battle of [[Dumai's Wells]] by the [[Asha'man]].{{ref/book|6|55}}
+
+Turanna was one of the captured Aes Sedai to be interrogated by [[Verin Mathwin]] in order to discover the White Tower's intentions towards [[Rand al'Thor]].{{ref/book|7|1}}{{ref/book|8|p}} In reality Verin used her mild [[Compulsion]] to implant in their minds some instructions about Rand.
+
+Later it is reported by [[Sorilea]] that she along with the rest of the Aes Sedai prisoners have sworn fealty to Rand.{{ref/book|9|13}}
+
+As with many Aes Sedai sworn to Rand, Turanna probably fought the [[Last Battle]] on the slopes of [[Thakan'dar]].{{ref/book|14|34}} It is not stated whether she survived or not.
+
+{{notes}}
+{{DEFAULTSORT:Norill, Turanna}}
+
+{{Short}}
+[[Category:Rand's Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

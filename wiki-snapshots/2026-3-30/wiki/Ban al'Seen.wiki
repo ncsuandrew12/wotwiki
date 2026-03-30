@@ -1,0 +1,32 @@
+{{character
+| image=Ban al'Seen.jpg
+| imagesize=250px
+| ewot=ban
+| nationality=Andoran
+| occupation=Soldier
+| gender=Male
+| affiliation=Two Rivers
+| status=Alive
+| appeared= {{tsr|33}}
+| lastappeared={{amol|15}}
+| living=amol
+|hair = Dark}}
+{{for|others with the same surname|al'Seen}}
+'''Ban al'Seen''' is a resident of the [[Two Rivers]], son of [[Jac al'Seen]] and cousin to [[Wil al'Seen]]. 
+
+== Appearance ==
+He has a large nose and is growing a thin mustache in the [[Arad Doman]] fashion.
+
+== Activities ==
+He goes with [[Perrin Aybara]] to rescue the prisoners taken by the [[Children of the Light]] when they are in the Two Rivers. He is made one of the two captains of the Two River men.{{ref/book|4|40}} He participates in the [[Battle of Emond's Field]].{{ref/book|4|56}}
+
+He participates in the [[Battle of Dumai's Wells]].
+
+He accompanies Perrin into [[Ghealdan]] to track down [[Masema Dagar]].
+He commands the Two Rivers men who go through the aqueduct to enter the town of [[Malden]] before Perrin begins his attack.
+
+Ban is on guard duty with [[Dav al'Thone]] at [[Tam]]'s tent, when [[Rand]] arrives to visit him last time just before his strike on [[Shayol Ghul]] and his certain death. Rand tells them how important task they have; watching over his father.{{Ref/book|14|15}}
+
+{{notes}}
+{{DEFAULTSORT:Al'Seen, Ban}}<!---Please leave the "a" capitalized for sorting purposes--->
+[[Category:Short pages]]
