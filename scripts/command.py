@@ -43,7 +43,7 @@ class Command:
             return self.run_command()
         except Exception as e:
             log.error(e)
-            raise e
+            raise
 
         return 1
 
@@ -89,16 +89,16 @@ class Command:
             functionName,
             inspect.getfile(cls)))
 
-    def print(self, verbosity, msg):
+    def print(self, verbosity, msg, end="\n", flush=False):
         log.debug("%s", msg)
         if self.parsed_args.verbosity >= verbosity:
-            print(msg)
+            print(msg, end=end, flush=flush)
 
-    def print_n(self, msg):
-        self.print(Verbosity.NORMAL, msg)
+    def print_n(self, msg, end="\n", flush=False):
+        self.print(Verbosity.NORMAL, msg, end=end, flush=flush)
 
-    def print_v(self, msg):
-        self.print(Verbosity.APPVERBOSE, msg)
+    def print_v(self, msg, end="\n", flush=False):
+        self.print(Verbosity.APPVERBOSE, msg, end=end, flush=flush)
 
 def run_command(command):
     log.info("{}".format(" ".join(command.mArgs)))

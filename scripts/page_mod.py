@@ -6,10 +6,10 @@ import re
 # log = log_utils.get_logger(f"{os.path.basename(__file__)}")
 
 class PageMod():
-    def __init__(self, id, title, summary=[]):
+    def __init__(self, id, title, summary=None):
         self.id = id
         self.title = title
-        self.summary = summary
+        self.summary = summary or []
     
     def to_dict(self):
         """Convert PageMod object to dictionary for JSON serialization."""

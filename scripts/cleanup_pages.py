@@ -5,22 +5,21 @@
 #('Androlf', BotPassword('androlf-bot', 'putThePasswordHere'))
 
 import argparse
-from fileinput import filename
 import json
 import sys
-import log_utils
 import os
 import shutil
 import time
 import pywikibot
 import re
+import time
 import urllib.parse
 import utils
-from command import Command, run_command
+from command import Command, Verbosity, run_command
 from log_utils import logger as log
 from page_mod import PageMod, PageModifier
 from pathlib import Path
-from pywikibot import pagegenerators, textlib
+from pywikibot import pagegenerators
 
 language = "en"
 mod_queue_dir_path = "mod_queue"
@@ -72,7 +71,7 @@ spelling_re_modifiers = [
     [ "Turak", r"Turok", r"Turak", 0 ],
     [ "wolf dream", r"(wolf)(dream)", r"\1 \2", re.IGNORECASE ],
     # The extra look behind and look ahead help avoid references to the Perrin's Wolf Dreams page and the Wolf Dreams chapter.
-    [ "wolf dream (capitalization)", modifier_makelc_lookbehind + r"(?<!\[\[Perrin's )wolf dream", r"wolf dream", re.IGNORECASE ], # Needs to be tested
+    [ "wolf dream (capitalization)", modifier_makelc_lookbehind + r"(?<!\[\[Perrin's )(?<!Chapter 9\|)(?<!DISPLAYTITLE:\'\')wolf dream", r"wolf dream", re.IGNORECASE ], # Needs to be tested
     # [ "Capitalize TAR.", r"tel'aran'rhiod", r"Tel'aran'rhiod", 0, re.IGNORECASE ], # Needs to be tested
     # [ "Lowercase sul'dam.", r"([^\.\!\?]\s|\[)Sul'dam", r"\1sul'dam", 0, re.IGNORECASE ], # Needs to be tested
     # [ "Lowercase damane.", r"([^\.\!\?]\s|\[)Damane", r"\1damane", 0, re.IGNORECASE ], # Needs to be tested
@@ -83,9 +82,12 @@ regex_modifiers = [
     # [ "Converted raw ref tag to template.", r"\<ref name=(\"{0,1})([^\"]+)\1\>([^<]+)\</ref\>", r"{{ref|\3|\2}}", 0, re.IGNORECASE ], # Needs to be tested
     # [ "Fix section link Trolloc#Social_Structure -> Trolloc#Trolloc_bands.", r"\[\[Trolloc#Social_Structure\]\]", r"\[\[Trolloc#Trolloc_bands\]\]", 0, re.IGNORECASE ], # Needs to be tested
     # [ "Unnecessary link customization.", r"\[\[([^\]\|]+)\|\1((\'s)|s|(es)){0,1}\]\]", r"[[\1]]\2", 0, re.IGNORECASE ], # Changes are massive. Use of this should wait for a massive change set that includes more valuable changes.
+    # [ "Link AB dates (range).", r"([^\[])(\d{1,4})(\s*-\s*)(\d{1,4}) AB([^A-Za-z\]\|])([^\]])", r"\1{{ab|\2}}\3{{ab|\4}}\5\6", 0, re.IGNORECASE ], # Needs to be tested
     [ "Link AB dates.", r"([^\[])(\d{1,4}) AB([^A-Za-z\]\|])([^\]])", r"\1{{ab|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Link FY dates (range).", r"([^A-Za-z\[]])FY (\d{1,4})(\s*-\s*)(\d{1,4})([^\|\]])", r"\1{{fy|\2}}\3{{fy|\4}}\5", 0, re.IGNORECASE ], # Needs to be tested
     [ "Link FY dates.", r"([^A-Za-z\[]])FY (\d{1,4})([^\|\]])", r"\1{{fy|\2}}\3", 0, re.IGNORECASE ], # Needs to be tested
-    [ "Link NE dates.", r"([^\[])(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
+    # [ "Link NE dates (range).", r"([^\[])(\d{1,4})(\s*-\s*)(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3{{ne|\4}}\5\6", 0, re.IGNORECASE ],
+    [ "Link NE dates.", r"([^\[])(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3\4", 0, re.IGNORECASE ],
     [ "Fix Wolf Dreams chapter link", r"(\[\[)wolf dreams([\|\]])", r"\1Wolf Dreams\2", 0, re.IGNORECASE ], # Needs to be tested
 ]
 # italicize_modifiers = [ "Tel'aran'rhiod", "sul'dam", "damane", "ter'angreal", "sa'angreal", "angreal", "grolm", "gholam" ] # Needs to be tested, particulary with respect to words being in filenames and link display text.
@@ -102,13 +104,14 @@ class AbsoluteWikiLinkModifier(PageModifier):
             match = re.search(AbsoluteWikiLinkModifier.pattern, page.text, re.IGNORECASE | re.MULTILINE)
             if not match:
                 break
-            target = re.sub(r"_", " ", urllib.parse.unquote(match.group(4)))
-            display = match.group(5)
-            page.text = re.sub(AbsoluteWikiLinkModifier.pattern, ((target == display) and r"[[\5]]" or r"[[\4|\5]]"), page.text, 1, flags = re.IGNORECASE | re.MULTILINE)
+            target = re.sub(r"_", " ", urllib.parse.unquote(match.group(3)))
+            display = match.group(4)
+            page.text = re.sub(AbsoluteWikiLinkModifier.pattern, ((target == display) and r"[[\4]]" or r"[[\3|\4]]"), page.text, 1, flags = re.IGNORECASE | re.MULTILINE)
 
 class OnePowerStrengthLinkModifier(PageModifier):
     patternParen = r"(\d+)\((\+{0,1})(\d+)\)"
     patternPlusPlus = r"\+\+(\d+)"
+    allowBadStructuredOps = [ 'Magla Daronos', 'Sorilea', 'Strength in the One Power among Aes Sedai' ]
 
     def __init__(self):
         super().__init__("Convert raw One Power strength text to Opsl template.")
@@ -129,6 +132,12 @@ class OnePowerStrengthLinkModifier(PageModifier):
                         log.warning(f"Page '{page.title()}' seems to contain a One Power strength ({match.group(1)}({match.group(2)}{match.group(3)})) that omits the + when denoting the old system strength. Will fix.")
                     elif (plus == "+" and newSystem == oldSystem + 12):
                         log.warning(f"Page '{page.title()}' seems to contain a One Power strength ({match.group(1)}({match.group(2)}{match.group(3)})) that mistakenly includes the + when denoting the old system strength. Will fix.")
+                    elif page.title() in OnePowerStrengthLinkModifier.allowBadStructuredOps:
+                        log.warning(f"Page '{page.title()}' seems to contain a One Power strength ({match.group(1)}({match.group(2)}{match.group(3)})) that looks invalid.  Old system rating ({oldSystem}) converts to {oldSystemConverted}, but new system is {newSystem}.")
+                        page.text = re.sub(
+                            OnePowerStrengthLinkModifier.patternParen,
+                            f"[[Strength in the One Power rankings#rank{newSystem + 6}|{match.group(1)}]]([[Strength in the One Power rankings#rank{oldSystemConverted + 6}|{match.group(2)}{match.group(3)}]])",
+                            page.text, 1, flags = re.IGNORECASE | re.MULTILINE)
                     else:
                         raise Exception(f"Invalid One Power strength found in page {page.title()}: {match.group(1)}({match.group(2)}{match.group(3)}). Old system rating ({oldSystem}) converts to {oldSystemConverted}, but new system is {newSystem}.")
                 page.text = re.sub(
@@ -163,6 +172,11 @@ class CleanupPages(Command):
             action="store_true",
             default=False,
             help="If not set, the script will not save changes to the wiki.")
+        parser.add_argument(
+            "--wiki-snapdir",
+            action="store",
+            default="../../wot.fandom.com",
+            help="Directory to store a snapshot of the wiki.")
         return parser
 
     def run_command(self):
@@ -181,7 +195,7 @@ class CleanupPages(Command):
         self.print_n("Logged in successfully!")
         all_pages_gen = self.site.allpages(namespace=0)
         self.preloaded_pages = pagegenerators.PreloadingGenerator(all_pages_gen, groupsize=50, quiet=True)
-        # self.preloaded_pages = [ pywikibot.Page(self.site, p) for p in [ "Known Contradictions and Points of Ambiguity" ] ]
+        # self.preloaded_pages = [ pywikibot.Page(self.site, p) for p in [ "Magla Daronos", "Perrin Aybara/Chronology", "Sorilea", "Strength in the One Power among Aes Sedai" ] ]
         # This is deliberately not an if/else
         if not Path(mod_queue_dir_path).is_dir():
             self.create_queue()
@@ -192,6 +206,13 @@ class CleanupPages(Command):
     def process_args(self):
         log.debug("Processing arguments.")
 
+    def sanitize_str_for_filename(self, s):
+        # s = re.sub(r"\s+", "_", s)
+        s = re.sub(r"\u2019", "", s)
+        s = re.sub(r"[^a-zA-Z0-9_\-\\\/ \'\:]", "", s)
+        # s = re.sub(r"_+", "_", s)
+        return s
+
     def create_queue(self):
         mod_queue = []
         still_dirty = []
@@ -200,15 +221,30 @@ class CleanupPages(Command):
         pages_noperm = 0
         failed_pages = []
         queued_pages = []
+        last_time = time.time() - 1000
+        first_status_log = True
         with open(f"changes-all.diff", "w") as all_changes_file, open(f"changes.diff", "w") as changes_file:
             for page in self.preloaded_pages:
-                if (page_cnt % 100 == 0 and page_cnt > 0):
-                    self.print_n(f"{page_cnt} pages read. {len(queued_pages)} queued. {pages_noperm} skipped due to perms. {len(failed_pages)} pages produced errors.")
+                new_time = time.time()
+                if (new_time - last_time) >= 5:
+                    last_time = new_time
+                    if (not first_status_log and (self.parsed_args.verbosity == Verbosity.NORMAL)):
+                        print("")
+                    self.print_n(f"{page_cnt:5d} pages read. {len(queued_pages):5d} queued. {pages_noperm:5d} skipped due to perms. {len(failed_pages):5d} pages produced errors.",
+                        end = "", flush=True)
+                    first_status_log = False
+                elif (self.parsed_args.verbosity == Verbosity.NORMAL):
+                    print(".", end="", flush=True)
                 log.debug("Processing page: %s", page.title())
                 try:
                     page.get(get_redirect=True)
                     pre_text = page.text
-                    mod = PageMod(page_id, urllib.parse.unquote(page.title()))
+                    mod = PageMod(page_id, urllib.parse.unquote(page.title()), ["(bot change)"])
+                    if self.parsed_args.wiki_snapdir.strip() != "":
+                        dl_path = f"{self.parsed_args.wiki_snapdir}/wiki/{self.sanitize_str_for_filename(mod.title)}.wiki"
+                        os.makedirs(os.path.dirname(dl_path), exist_ok=True)
+                        with open(dl_path, "w") as f:
+                            f.write(page.text)
                     for modifier in spelling_re_modifiers:
                         premod_text = page.text
                         page.text = re.sub(modifier[1], modifier[2], page.text, 0, flags = modifier[3])
@@ -233,7 +269,7 @@ class CleanupPages(Command):
                             log.debug(f"Applied modifier to page '{page.title()}': {modifier}.")
                             mod.summary.append(modifier.summary)
                     if pre_text != page.text:
-                        mod_path = f"{mod_queue_dir_path}/{mod.title}"
+                        mod_path = f"{mod_queue_dir_path}/{self.sanitize_str_for_filename(mod.title)}"
                         os.makedirs(mod_queue_dir_path, exist_ok=True)
                         pre_path = f"{mod_path}/pre.wiki"
                         post_path = f"{mod_path}/post.wiki"
@@ -332,9 +368,9 @@ class CleanupPages(Command):
                         post_page = pywikibot.Page(self.site, mod.title)
                         if post_page.text != post_text:
                             raise Exception(f"Post-save text does not match expected text for '{mod.title}' following supposedly successful save.")
+                        os.remove(pre_path)
+                        os.remove(post_path)
                     pages_saved += 1
-                    os.remove(pre_path)
-                    os.remove(post_path)
                 except Exception as e:
                     log.error(f"Error saving page '{mod.title}'", exc_info=True)
                     failed_pages.append(mod.title)
