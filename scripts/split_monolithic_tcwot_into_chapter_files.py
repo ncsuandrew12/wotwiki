@@ -52,7 +52,7 @@ class SplitTcwot(Command):
             title = book['title']
             book_title_n = self.sanitize_str_for_filename(title.strip().lower())
             filename_book_base = f"{book_index:02d}-{book_title_n}"
-            filename_book_md = f"{self.parsed_args.outdir_md}/{filename_book_base}.md"
+            filename_book_md = f"{self.parsed_args.outdir_md}/{filename_book_base}/{filename_book_base}.md"
             self.print_n(f"Processing {title}: {filename_book_md}")
             Path(filename_book_md).parent.mkdir(parents=True, exist_ok=True)
             with open(filename_book_md, "w") as f_md:
@@ -65,7 +65,7 @@ class SplitTcwot(Command):
                         raise Exception(f"Error: unexpected key in book {title}: {key}")
                 for sect_key in ["Intro", "Foreword", "Prologue"]:
                     if sect_key in book:
-                        self.process_chapter(book_index, title, filename_book_base, f_md, "", book[sect_key]["title"], book[sect_key]["sections"][0]["parts"])
+                        self.process_chapter(book_index, title, filename_book_base, f_md, "00-", book[sect_key]["title"], book[sect_key]["sections"][0]["parts"])
                 chapter_cnt = 0
                 for chapter in book["Chapter"]:
                     chapter_title = chapter["title"]
@@ -78,13 +78,13 @@ class SplitTcwot(Command):
                 for sect_key in ["Epilogue", "Glossary", "Outro"]:
                     if sect_key in book:
                         chapter_cnt += 1
-                        self.process_chapter(book_index, title, filename_book_base, f_md, "", book[sect_key]["title"], book[sect_key]["sections"][0]["parts"])
+                        self.process_chapter(book_index, title, filename_book_base, f_md, f"{chapter_cnt:02d}-", book[sect_key]["title"], book[sect_key]["sections"][0]["parts"])
         self.print_n("Done.")
         return 0
 
     def process_chapter(self, book_index, book_title, filename_book_base, f_book_md, filename_prefix, title, parts):
         title_n = self.sanitize_str_for_filename(title.strip().lower())
-        filename_base = f"{filename_book_base}/{filename_prefix}{title_n}"
+        filename_base = f"{filename_book_base}/{filename_book_base}-{filename_prefix}{title_n}"
         filename_json = f"{self.parsed_args.outdir_json}/{filename_base}.json"
         filename_chapter_md = f"{self.parsed_args.outdir_md}/{filename_base}.md"
         self.print_v(f"{book_index:02d}: {book_title}: {title:30s} - {filename_chapter_md}")
