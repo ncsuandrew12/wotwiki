@@ -1,0 +1,17 @@
+== Prefix ==
+
+Before we get too much further into this, let's thinkabout it... what are these for? Where should they go? Right now the template assumes they ALL will be sent to Wotwiki:, which may not be true (what about STYLE -> [[Help:Style Guide]]?
+
+I also just realized that making them at NAV, STYLE, CI, etc, just inflates/clutters our article space. On the other hand, making them at Wotwiki:STYLE kind of reduces the point of shortcuts, doesn't it? Wikipedia uses '''WP:ABBR''' I believe, but we don't have an easily memorizable shortcut...'''WW:'''? Bleah - maybe the whole shortcut setup isn't worth the hassle. I'm willing to forgo it... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 23:18, 25 Oct 2005 (UTC)
+:I really, really wish there was a way to have shortcuts ignored from Article space/calculations.  For many reasons. --[[User:Gherald|Gherald]] 23:24, 25 Oct 2005 (UTC)
+
+::WOT makes perfect sense to me... --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 20:11, 20 Nov 2005 (UTC)
+
+
+== pointless ==
+
+Is anyone actually interested in using these? On Wikipedia, they're helpful, because there's 1784395923452 help/project pages. Over here, they seem like more trouble than they are worth... I'm willing to remove all evidence of them from the site, if no one has a strong objection (since I brought them over originally, in a fit of pseudo-cleverness). [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 22:46, 18 Nov 2005 (UTC)
+
+: *shrug* -- I use [[cs]] and [[ci]] --[[User:Gherald|Gherald]] 23:02, 18 Nov 2005 (UTC)
+
+::Sure, they are not used now, but later they might be. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 20:11, 20 Nov 2005 (UTC)

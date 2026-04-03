@@ -1,0 +1,27 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| height= 
+| build=
+| hair=
+| affiliation=Ever Victorious Army
+| rank=
+| occupation=Servant
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{kod|34}}
+| lastappeared={{kod|34}}
+| lastmentioned={{kod|34}}
+| living=kod
+}}
+'''Mantual''' is a tribesman from [[Seanchan]]. He is into his middle years and stocky with dark brown eyes and a narrow beard.
+
+==Activities==
+He is from [[Pujili]] and is [[Gamel Loune]]'s manservant. 
+He wears a pair of long knifes at his belt and his hands show a knifeman's calluses.
+
+He attached himself years ago to Gamel Loune and has been over-protective of him since then. Loune is sure that Mantual would stay even if he stopped paying him. [[Karede]] senses him to be close kin to [[Ajimbura]], in spirit, but not in blood.
+
+Mantual serves the Banner-General's ''[[kaf]]'', all the while eyeing Karede.
+[[Category:Short pages]]

@@ -1,0 +1,41 @@
+{{featuredicon}}{{character 
+| image=Tylin Quintara Mitsobar.png
+| imagesize=250px
+| ewot=tylin
+| status=Dead
+| death={{ne|1000}}
+| nationality=Altaran
+| rank=Queen
+| title=Queen of Altara, [[Mistress of the Four Winds]], [[Guardian of the Sea of Storms]], [[High Seat]] of [[House Mitsobar]]
+| gender=Female
+| height=No taller than [[Nynaeve]]
+| hair=Long glossy black
+| eyes=Large dark
+| appeared={{LoC|48}}
+| lastappeared={{wh|31}}
+| mentioned= {{LoC|7}}
+| lastmentioned={{amol|17}}
+}}
+{{quote|That woman has more hands than any six women I ever met.|[[Mat Cauthon]]}}
+'''Tylin Quintara Mitsobar''', by the Grace of the Light, was the [[Queen]] of [[Altara]], [[Mistress of the Four Winds]], [[Guardian of the Sea of Storms]], and [[High Seat]] of [[House Mitsobar]]. She had five children, four sons and one daughter, but is survived only by her one remaining son, [[Beslan Mitsobar]], the rest of her children having died in duels.
+
+==Appearance==
+She had long glossy black hair with gray at the temples, and a very handsome face with two faint scars on either cheek. She was around 5'3" tall.{{ref/book|twotc|Tylin Quintara Mitsobar}}
+
+==Activities==
+She was a very smart ruler, taking care to listen to all delegations presented before her, including controversial delegations such as the [[Children of the Light]] and the [[White Tower]]. Despite their shaky status, she listened to what [[Elayne Trakand]] and [[Nynaeve al'Meara]] had to say from the [[Rebel Aes Sedai|Salidar Aes Sedai]]. She did all in her power to help the two young women obtain the [[Bowl of the Winds]], hidden in the Rahad quarter of [[Ebou Dar]], a very poor and dangerous community.
+
+Tylin was delighted when [[Matrim Cauthon]] moved into the palace as a favor to Nynaeve and Elayne. There, Tylin forced him to become her lover at dagger point, making her a rapist.{{ref/book|7|29}}{{ref|There have been claims that Robert Jordan, Harriet, and/or Brandon Sanderson have overtly stated that this was rape, but a cursory search hasn't yet verified this. This does not change the fact that Mat was raped.}} Mat became her [[Pretty|pretty]]; Tylin was overly possessive of Mat to the point that for the first time in his life he felt chased rather than the one doing the chasing.{{ref/book|7|29}} When he broke his leg during the [[Seanchan]] invasion she took the opportunity to replace his wardrobe with attire she preferred seeing a man wear, to his great embarrassment.
+
+After the Seanchan conquered [[Ebou Dar]], Tylin swore the requisite Seanchan oath of fealty and was raised to [[the Blood|the High Blood]]. In return, the Seanchan promised her complete control over all of Altara. [[Suroth]] even took Tylin on a week-long tour by ''[[to'raken]]'' of the lands she would eventually control once more territory had been reclaimed.
+
+Both women returned early due to pressing military developments. Upon her return, Tylin discovered Mat had made and was executing plans to escape his gilded captivity. After a tempestuous farewell during which Mat discovered he had developed some fondness for Tylin, she volunteered to be bound and hidden beneath her bed lest the Seanchan believe she helped Mat free some leashed [[Aes Sedai]], going so far as to coach Mat in how she should be tied and reassuring Mat that tomorrow she would play the part of an outraged monarch after learning of his perfidy, and make promises to [[Tuon]], the [[Daughter of the Nine Moons]], that she may buy him if he were ever caught.{{Ref/book|9|31}}
+
+The following morning, the ''[[gholam]]'' discovered Tylin while looking for Mat and proceeded to kill and feed upon Tylin.{{ref/book|10|3}}
+
+{{Notes}}
+[[es:Tylin Quintara]]
+[[Category:Queens]]
+[[Category:The Blood]]
+[[Category:High Seats]]
+[[Category:Royalty]]

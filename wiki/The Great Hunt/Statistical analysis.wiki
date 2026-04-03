@@ -1,0 +1,494 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+
+''[[The Great Hunt]]'' contains 50 chapters and one prologue and consists of 15 unique POVs and 81 total POVs. It has a total word count of 260,354 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="2" | [[The Great Hunt/Prologue|Prologue: In the Shadow]]
+| Quote
+| align="right" | 207
+| align="right" | 0.0795%
+|-
+| [[Jaichim Carridin]]
+| align="right" | 5,313
+| align="right" | 2.0407%
+|-
+| [[The Great Hunt/Chapter 1|Ch1: The Flame of Tar Valon]]
+| [[Rand al'Thor]]
+| align="right" | 4,202
+| align="right" | 1.6140%
+|-
+| [[The Great Hunt/Chapter 2|Ch2: The Welcome]]
+| [[Rand al'Thor]]
+| align="right" | 4,551
+| align="right" | 1.7480%
+|-
+| [[The Great Hunt/Chapter 3|Ch3: Friends And Enemies]]
+| [[Rand al'Thor]]
+| align="right" | 8,430
+| align="right" | 3.2379%
+|-
+| [[The Great Hunt/Chapter 4|Ch4: Summoned]]
+| [[Moiraine Damodred]]
+| align="right" | 6,437
+| align="right" | 2.4724%
+|-
+| rowspan="4" | [[The Great Hunt/Chapter 5|Ch5: The Shadow in Shienar]]
+| [[Moiraine Damodred]]
+| align="right" | 3,869
+| align="right" | 1.4861%
+|-
+| [[Geofram Bornhald]]
+| align="right" | 1,446
+| align="right" | 0.5554%
+|-
+| [[Liandrin]]
+| align="right" | 2,222
+| align="right" | 0.8535%
+|-
+
+| [[Padan Fain]]
+| align="right" | 171
+| align="right" | 0.0657%
+|-
+| [[The Great Hunt/Chapter 6|Ch6: Dark Prophecy]]
+| [[Rand al'Thor]]
+| align="right" | 7,265
+| align="right" | 2.7904%
+|-
+| rowspan="3" | [[The Great Hunt/Chapter 7|Ch7: Blood Calls Blood]]
+| [[Moiraine Damodred]]
+| align="right" | 3,558
+| align="right" | 1.3666%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,191
+| align="right" | 0.4575%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,174
+| align="right" | 0.8350%
+|-
+| rowspan="4" | [[The Great Hunt/Chapter 8|Ch8: The Dragon Reborn]]
+| [[Rand al'Thor]]
+| align="right" | 4,591
+| align="right" | 1.7634%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 156
+| align="right" | 0.0599%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 2,510
+| align="right" | 0.9641%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 2,312
+| align="right" | 0.8880%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 9|Ch9: Leavetakings]]
+| [[Rand al'Thor]]
+| align="right" | 4,102
+| align="right" | 1.5756%
+|-
+| [[Bayle Domon]]
+| align="right" | 4,052
+| align="right" | 1.5563%
+|-
+| [[The Great Hunt/Chapter 10|Ch10: The Hunt Begins]]
+| [[Rand al'Thor]]
+| align="right" | 8,585
+| align="right" | 3.2974%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 11|Ch11: Glimmers of the Pattern]]
+| [[Rand al'Thor]]
+| align="right" | 3,407
+| align="right" | 1.3086%
+|-
+| [[Padan Fain]]
+| align="right" | 1,127
+| align="right" | 0.4329%
+|-
+| [[The Great Hunt/Chapter 12|Ch12: Woven in the Pattern]]
+| [[Egwene al'Vere]]
+| align="right" | 5,898
+| align="right" | 2.2654%
+|-
+| [[The Great Hunt/Chapter 13|Ch13: From Stone to Stone]]
+| [[Rand al'Thor]]
+| align="right" | 3,284
+| align="right" | 1.2614%
+|-
+| [[The Great Hunt/Chapter 14|Ch14: Wolf brother]]
+| [[Perrin Aybara]]
+| align="right" | 3,467
+| align="right" | 1.3317%
+|-
+| [[The Great Hunt/Chapter 15|Ch15: Kinslayer]]
+| [[Rand al'Thor]]
+| align="right" | 4,728
+| align="right" | 1.8160%
+|-
+| [[The Great Hunt/Chapter 16|Ch16: In the Mirror of Darkness]]
+| [[Rand al'Thor]]
+| align="right" | 6,407
+| align="right" | 2.4609%
+|-
+| [[The Great Hunt/Chapter 17|Ch17: Choices]]
+| [[Rand al'Thor]]
+| align="right" | 3,111
+| align="right" | 1.1949%
+|-
+| [[The Great Hunt/Chapter 18|Ch18: To the White Tower]]
+| [[Egwene al'Vere]]
+| align="right" | 4,665
+| align="right" | 1.7918%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 19|Ch19: Beneath the Dagger]]
+| [[Rand al'Thor]]
+| align="right" | 5,238
+| align="right" | 2.0119%
+|-
+| [[Padan Fain]]
+| align="right" | 258
+| align="right" | 0.0991%
+|-
+| [[The Great Hunt/Chapter 20|Ch20: ''Saidin'']]
+| [[Rand al'Thor]]
+| align="right" | 2,677
+| align="right" | 1.0282%
+|-
+| [[The Great Hunt/Chapter 21|Ch21: The Nine Rings]]
+| [[Rand al'Thor]]
+| align="right" | 4,394
+| align="right" | 1.6877%
+|-
+| [[The Great Hunt/Chapter 22|Ch22: Watchers]]
+| [[Moiraine Damodred]]
+| align="right" | 5,353
+| align="right" | 2.0561%
+|-
+| [[The Great Hunt/Chapter 23|Ch23: The Testing]]
+| [[Nynaeve al'Meara]]
+| align="right" | 7,750
+| align="right" | 2.9767%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 24|Ch24: New Friends and Old Enemies]]
+| [[Egwene al'Vere]]
+| align="right" | 4,221
+| align="right" | 1.6213%
+|-
+| [[Min Farshaw]]
+| align="right" | 192
+| align="right" | 0.0737%
+|-
+| [[The Great Hunt/Chapter 25|Ch25: Cairhien]]
+| [[Rand al'Thor]]
+| align="right" | 4,584
+| align="right" | 1.7607%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 26|Ch26: Discord]]
+| [[Rand al'Thor]]
+| align="right" | 4,291
+| align="right" | 1.6481%
+|-
+| [[Thomdril Merrilin]]
+| align="right" | 629
+| align="right" | 0.2416%
+|-
+| [[The Great Hunt/Chapter 27|Ch27: The Shadow in the Night]]
+| [[Rand al'Thor]]
+| align="right" | 5,070
+| align="right" | 1.9474%
+|-
+| [[The Great Hunt/Chapter 28|Ch28: A New Thread in the Pattern]]
+| [[Perrin Aybara]]
+| align="right" | 2,690
+| align="right" | 1.0332%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 29|Ch29: Seanchan]]
+| [[Geofram Bornhald]]
+| align="right" | 1,582
+| align="right" | 0.6076%
+|-
+
+| [[Bayle Domon]]
+| align="right" | 5,600
+| align="right" | 2.1509%
+|-
+| [[The Great Hunt/Chapter 30|Ch30: ''Daes Dae'mar'']]
+| [[Rand al'Thor]]
+| align="right" | 4,507
+| align="right" | 1.7311%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 31|Ch31: On the Scent]]
+| [[Rand al'Thor]]
+| align="right" | 1,875
+| align="right" | 0.7202%
+|-
+| [[Perrin Aybara]]
+| align="right" | 2,940
+| align="right" | 1.1292%
+|-
+| [[The Great Hunt/Chapter 32|Ch32: Dangerous Words]]
+| [[Rand al'Thor]]
+| align="right" | 4,079
+| align="right" | 1.5667%
+|-
+| [[The Great Hunt/Chapter 33|Ch33: A Message From The Dark]]
+| [[Rand al'Thor]]
+| align="right" | 5,831
+| align="right" | 2.2397%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 34|Ch34: The Wheel Weaves]]
+| [[Thomdril Merrilin]]
+| align="right" | 2,121
+| align="right" | 0.8147%
+|-
+| [[Padan Fain]]
+| align="right" | 3,916
+| align="right" | 1.5041%
+|-
+| [[The Great Hunt/Chapter 35|Ch35: Stedding ''Tsofu'']]
+| [[Rand al'Thor]]
+| align="right" | 4,872
+| align="right" | 1.8713%
+|-
+| [[The Great Hunt/Chapter 36|Ch36: Among the Elders]]
+| [[Rand al'Thor]]
+| align="right" | 3,494
+| align="right" | 1.3420%
+|-
+| [[The Great Hunt/Chapter 37|Ch37: What Might Be]]
+| [[Rand al'Thor]]
+| align="right" | 4,942
+| align="right" | 1.8982%
+|-
+| [[The Great Hunt/Chapter 38|Ch38: Practice]]
+| [[Egwene al'Vere]]
+| align="right" | 4,832
+| align="right" | 1.8559%
+|-
+| [[The Great Hunt/Chapter 39|Ch39: Flight From the White Tower]]
+| [[Egwene al'Vere]]
+| align="right" | 5,278
+| align="right" | 2.0272%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 40|Ch40: ''Damane'']]
+| [[Egwene al'Vere]]
+| align="right" | 4,935
+| align="right" | 1.8955%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 1,741
+| align="right" | 0.6687%
+|-
+| [[The Great Hunt/Chapter 41|Ch41: Disagreements]]
+| [[Rand al'Thor]]
+| align="right" | 3,428
+| align="right" | 1.3167%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 42|Ch42: Falme]]
+| [[Nynaeve al'Meara]]
+| align="right" | 1,679
+| align="right" | 0.6449%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 2,979
+| align="right" | 1.1442%
+|-
+| [[The Great Hunt/Chapter 43|Ch43: A Plan]]
+| [[Min Farshaw]]
+| align="right" | 3,355
+| align="right" | 1.2886%
+|-
+| rowspan="3" | [[The Great Hunt/Chapter 44|Ch44: Five Will Ride Forth]]
+| [[Perrin Aybara]]
+| align="right" | 1,092
+| align="right" | 0.4194%
+|-
+| [[Geofram Bornhald]]
+| align="right" | 1,084
+| align="right" | 0.4164%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,561
+| align="right" | 0.5996%
+|-
+| rowspan="3" | [[The Great Hunt/Chapter 45|Ch45: Blademaster]]
+| [[Nynaeve al'Meara]]
+| align="right" | 2,563
+| align="right" | 0.9844%
+|-
+| [[Bayle Domon]]
+| align="right" | 178
+| align="right" | 0.0684%
+|-
+| [[Rand al'Thor]]
+| align="right" | 5,299
+| align="right" | 2.0353%
+|-
+| rowspan="4" | [[The Great Hunt/Chapter 46|Ch46: To Come Out of the Shadow]]
+| [[Nynaeve al'Meara]]
+| align="right" | 3,491
+| align="right" | 1.3409%
+|-
+| [[Bayle Domon]]
+| align="right" | 245
+| align="right" | 0.0941%
+|-
+| [[Geofram Bornhald]]
+| align="right" | 197
+| align="right" | 0.0757%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,157
+| align="right" | 0.4444%
+|-
+| rowspan="3" | [[The Great Hunt/Chapter 47|Ch47: The Grave Is No Bar to My Call]]
+| [[Rand al'Thor]]
+| align="right" | 1,129
+| align="right" | 0.4336%
+|-
+| [[Geofram Bornhald]]
+| align="right" | 217
+| align="right" | 0.0833%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,751
+| align="right" | 1.0566%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 48|Ch48: First Claiming]]
+| [[Min Farshaw]]
+| align="right" | 1,830
+| align="right" | 0.7029%
+|-
+| [[Jaret Byar]]
+| align="right" | 122
+| align="right" | 0.0469%
+|-
+| [[The Great Hunt/Chapter 49|Ch49: What Was Meant To Be]]
+| [[Rand al'Thor]]
+| align="right" | 2,381
+| align="right" | 0.9145%
+|-
+| rowspan="2" | [[The Great Hunt/Chapter 50|Ch50: After]]
+| Narrator
+| align="right" | 174
+| align="right" | 0.0668%
+|-
+| Quote
+| align="right" | 111
+| align="right" | 0.0426%
+|-
+|}
+
+==Unique POV Breakdown==
+{| class="wikitable sortable"
+!Character
+!# of POVs
+!% of Total POVs (81)
+!Word Count (260,353)
+!% of Word Count
+|-
+| Quote
+| align="right" | 2
+| align="right" | 2.4691%
+| align="right" | 318
+| align="right" | 0.1221%
+|-
+| [[Jaichim Carridin]]
+| align="right" | 1
+| align="right" | 1.2346%
+| align="right" | 5,313
+| align="right" | 2.0407%
+|-
+| [[Rand al'Thor]]
+| align="right" | 33
+| align="right" | 40.7407%
+| align="right" | 138,397
+| align="right" | 53.1574%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 5
+| align="right" | 6.1728%
+| align="right" | 19,373
+| align="right" | 7.4411%
+|-
+| [[Geofram Bornhald]]
+| align="right" | 5
+| align="right" | 6.1728%
+| align="right" | 4,526
+| align="right" | 1.7384%
+|-
+| [[Liandrin]]
+| align="right" | 1
+| align="right" | 1.2346%
+| align="right" | 2,222
+| align="right" | 0.8535%
+|-
+| [[Padan Fain]]
+| align="right" | 4
+| align="right" | 4.9383%
+| align="right" | 5,472
+| align="right" | 2.1018%
+|-
+| [[Perrin Aybara]]
+| align="right" | 5
+| align="right" | 6.1728%
+| align="right" | 11,380
+| align="right" | 4.3710%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 6
+| align="right" | 7.4074%
+| align="right" | 19,734
+| align="right" | 7.5797%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 8
+| align="right" | 9.8765%
+| align="right" | 35,120
+| align="right" | 13.4894%
+|-
+| [[Bayle Domon]]
+| align="right" | 4
+| align="right" | 4.9383%
+| align="right" | 10,075
+| align="right" | 3.8697%
+|-
+| [[Min Farshaw]]
+| align="right" | 3
+| align="right" | 3.7037%
+| align="right" | 5,377
+| align="right" | 2.0653%
+|-
+| [[Thomdril Merrilin]]
+| align="right" | 2
+| align="right" | 2.4691%
+| align="right" | 2,750
+| align="right" | 1.0563%
+|-
+| [[Jaret Byar]]
+| align="right" | 1
+| align="right" | 1.2346%
+| align="right" | 122
+| align="right" | 0.0469%
+|-
+| Narrator
+| align="right" | 1
+| align="right" | 1.2346%
+| align="right" | 174
+| align="right" | 0.0668%
+|-
+|}
+<noinclude>
+[[Category:Statistical analysis]]
+</noinclude>

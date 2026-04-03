@@ -1,0 +1,70 @@
+{{summary | book=9 |
+|chapter=11
+|title=Ideas of Importance
+|icon=Gullsrev
+|setting=[[Royal Palace of Andor]]
+}}
+
+== Summary ==
+
+:{{pov|[[Rand al'Thor]]}}
+[[Rand]] opens a gateway into the attic of the [[Royal Palace]]. [[Min]] is with him. Rand finds that these days it is becoming difficult for him to hold ''[[saidin]]'' as it makes him tremendously sick. In fact, [[Lews Therin Telamon|Lews Therin]] begs him to release it. Rand is disguised as an incredibly ugly man with a very unattractive wart on his nose, using a [[Mask of Mirrors]]. Min wants him to go see [[Elayne]] and [[Aviendha]], but he refuses. He wants to talk to [[Nynaeve]] and [[Mat]]. They creep downstairs, but run into [[Reene Harfor]]. Min tells her that "Nuli" is supposed to give something to Nynaeve Sedai immediately. Mistress Harfor "dislikes the looks of Nuli." Min tells Mistress Harfor to lead Nuli to Nynaeve, and then runs away. As they walk through passages, Rand can feel there are several women [[channel]]ing even though Harfor tells him there are only five [[Aes Sedai]] present. Rand wonders about the rumor of an army with one hundred Aes Sedai heading to [[Caemlyn]]. {{ref|The rumors of an [[Aes Sedai]] army are actually [[Egwene]]'s in [[Murandy]].}} Rand thinks of Mat, and there is a flash of color that resembles Mat's face. {{ref|This being the first time Rand experiences this. They will become more frequent and clearer. [[Mat]] and [[Perrin]] also experience those strange flashes whenever they think of one another.}}
+
+:{{pov|[[Nynaeve al'Meara]]}}
+[[Nynaeve]] is giving a lesson to [[Talaan]] while [[Zaida]] and six other [[Windfinder]]s watch. Nynaeve is glad that [[Renaile]] is not among the women present; she is the worst. Nynaeve fumes that [[Vandene]] refuses to give lessons, with the excuse that [[Kirstian]] and [[Zarya]] are keeping her occupied. [[Careane]] gave lessons the day before. [[Sareitha Tomares]] was supposed to be the teacher that day, but she slipped out of the [[Royal Palace]] on "important business". {{ref|Why did Sareitha leave so urgently? Does she really have important business or is she trying to evade lessons?}} Nynaeve attacks Talaan and manages to [[Shield]] her. The next round, Talaan shields ''Nynaeve''. When Talaan is about to release her shield and weaves of [[Air]] around the [[Aes Sedai]], Zaida tells her to wait. They want to find out if Nynaeve can break through the shield; she had commented earlier that only people ''much'' stronger than their captor in the [[One Power|Power]] can break through shields. When Nynaeve begins to grow terrified, Zaida threatens to turn her upside down. Nynaeve begins to search the shield frantically, searching for a soft spot. She finds one, but cannot break through. Finally, Zaida believes her and sets her free. Fuming, Nynaeve stalks out of the room, where she bumps into [[Alivia]], who tells her [[Reanne Corly]] and other [[The Kin|Kinswomen]] want her to have dinner with them. When Nynaeve refuses, Alivia hints that Corly's "offer" was more a demand, but Nynaeve refuses to hear a word of it. As Nynaeve continues to her rooms, Talaan runs up to her and begs her to let her go to the [[White Tower]] as a [[novice]]. She says that she wants to leave, because she is perpetually punished by members of her own family so as not to show favoritism. When Nynaeve does not know what to say and stammers a bit, Talaan takes it as a "yes" and runs away gleefully. [[Lan]] joins Nynaeve and they head to their rooms. [[Reene Harfor]] is waiting there with an ugly man, who names Mistress [[Thane]] and [[Cenn Buie]], back in the [[Two Rivers]]. Nynaeve tells Reene to leave, and tells the man to tell her who he really is. Instead of replying, he turns into [[Rand]]. They ask if he is hiding. He replies that he is only until he can kill some men. Nynaeve tells him that [[Egwene]] is the [[Amyrlin Seat]] and she has an army of three hundred Aes Sedai. He asks if Mat is with Egwene, and then staggers. {{ref|Rand staggers in front of Nynaeve and Lan probably because of another flash.}} Nynaeve [[Delving|Delves]] him, but cannot touch the two evil wounds as they seem to be protected by a ward of ''saidin''. {{ref|[[Damer Flinn]] wove that ward of ''saidin''.}} Rand wants her to hold the access keys to the [[Choedan Kal]] while he kills those that tried to kill him, but she insists on going with him.
+
+==Characters==
+* [[Rand]] / [[Nuli]]
+* [[Lews Therin]]
+* [[Min]]
+* [[Nynaeve]]
+* [[Reene]]
+* [[Talaan]]
+* [[Senine]]
+* [[Zaida]]
+* [[Shielyn]]
+* [[Rainyn]]
+* [[Kurin]]
+* [[Caire din Gelyn Running Wave]]
+* [[Tebreille din Gelyn South Wind]]
+* [[Alivia]]
+* [[Lan]]
+
+===Referenced===
+* [[Elayne]]
+* [[Aviendha]]
+* [[Mat]]
+* [[Elaida]]
+* [[Sareitha]]
+* [[Careane]]
+* [[Vandene]]
+* [[Kirstian]]
+* [[Zarya]]
+* [[Merilille]]
+* [[Nesta din Reas Two Moons]]
+* [[Renaile din Calon Blue Star]]
+* [[Egwene]]
+* [[Reanne Corly]]
+* [[Chilares Arman]]
+* [[Famelle Juarde]]
+* [[Sumeko]]
+* [[Cenn Buie]]
+* [[Ehvon]]
+* [[Alise]]
+* Mistress [[Thane]]
+* [[Moghedien]]
+* [[Wildrose]] (horse) as the horse Min abandoned for Rand
+
+==Places==
+* [[Royal Palace of Andor]]
+
+===Referenced===
+* [[Andor]]
+* [[Stone of Tear]]
+* [[Caemlyn]]
+* [[Tear]]
+* [[Cairhien (city)]]
+* [[Falme]]
+
+{{Notes}}
+{{DISPLAYTITLE:''Ideas of Importance''}}

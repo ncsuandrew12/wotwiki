@@ -1,0 +1,22 @@
+{{character 
+| image=IllianFlag.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|999}}
+| nationality=Illianer
+| affiliation=Sammael
+| gender=Male
+| eyes=Dark
+| appeared={{loc|16}}
+| lastappeared={{loc|16}}
+| lastmentioned={{loc|23}}
+}}
+'''Andris''' was an [[Illian]]er. <!---Due to the compulsion that he was under, he may not have been a darkfriend.--->
+
+==Appearance==
+Andris had a stub of a nose and a wide, grinning mouth. He had dark eyes and wore a curly beard with no mustache in the Illianer fashion.
+
+==Activities==
+Andris was a messenger from "[[Sammael|Lord Brend]]." He brought an offer of a truce between Sammael and [[Rand al'Thor]]. When Rand declared that there would be "no truce with the Shadow," Andris started to bleed from his pores and convulse. He collapses and dies in a pool of blood. {{ref/book|6|16}} Due to his manner of death, it seems that he was under severe [[Compulsion]]. Later, Sammael tells [[Graendal]] that he has a truce with al'Thor. It is unknown if this is a lie on Sammael's part or a misinterpretation of Andris' death.{{ref/book|6|23}}
+
+{{notes}}

@@ -1,0 +1,21 @@
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Taraboner
+| occupation=Advocate
+| gender=Female
+| mentioned={{kod|2}}
+| lastmentioned={{kod|2}}
+}}
+'''Collaris''' was a noted advocate in [[Tanchico]].
+
+==History==
+While growing up, Collaris instilled a love of the intricacies of law in her granddaughter [[Beonin Marinye]]. Collaris' daughter, [[Aeldrine Marinye]], went on to become a [[merchant]], something of which Collaris disapproved.{{ref/book|11|2}}
+
+==Activities==
+On her way to the [[White Tower]], Beonin looks over some jewelry passed on to her by her mother and grandmother. These mementos make her think of them.{{ref/book|11|2}}
+
+{{Notes}}
+[[Category:Tarabon (people)]]
+[[Category:Women]]

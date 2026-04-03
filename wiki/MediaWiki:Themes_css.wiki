@@ -1,0 +1,91 @@
+/* All Infoboxes - General */
+.portable-infobox {
+	border: 1px solid grey;
+}
+ 
+.portable-infobox.pi-background {
+	background: black;
+}/**/
+
+/* All Infoboxes - Headers & Titles */
+.portable-infobox .pi-title,
+.portable-infobox .pi-header {
+	color: black;
+	font-weight: bold;
+}
+ 
+.portable-infobox .pi-title {
+	background-color: white;
+	text-align: center;
+	font-size: 100%;
+}
+ 
+.portable-infobox .pi-header {
+	background-color: #bbbbbb;
+}/**/
+ 
+ /* All Infoboxes - Images */
+.portable-infobox .pi-image {
+	background-color: #000000;
+}/**/
+ 
+ /* All Infoboxes - Data */
+.portable-infobox .pi-data-label {
+    font-weight: normal;
+}
+ 
+.portable-infobox .pi-data-value {
+	text-align: right;
+}/**/
+ 
+ /* All Infoboxes - Navigation */
+.portable-infobox .pi-navigation {
+	text-align: center;
+	background-color: #bbbbbb;
+}/**/
+ 
+ /* Theme - Swordform */
+.portable-infobox.pi-theme-swordform .pi-title,
+.portable-infobox.pi-theme-swordform .pi-image,
+.portable-infobox.pi-theme-swordform .pi-navigation {
+	background: black;
+}
+ 
+.portable-infobox.pi-theme-swordform .pi-title {
+	color: #dddddd
+}
+ 
+.portable-infobox.pi-theme-swordform .pi-data-label {
+	font-weight: bold;
+}
+ 
+.portable-infobox.pi-theme-swordform .pi-item-spacing {
+    border-color: transparent;
+}
+ 
+.portable-infobox.pi-theme-swordform .pi-image-thumbnail {
+    max-height: 130px;
+    width: auto;
+}/**/
+
+/* Theme - Nation */
+.portable-infobox.pi-theme-nation .pi-title,
+.portable-infobox.pi-theme-nation .pi-header,
+.portable-infobox.pi-theme-nation .pi-navigation a {
+	color: white;
+}
+
+.portable-infobox.pi-theme-nation .pi-title,
+.portable-infobox.pi-theme-nation .pi-navigation,
+.portable-infobox.pi-theme-nation .pi-data {
+	background: #424242;
+}
+
+.portable-infobox.pi-theme-nation .pi-header {
+	background: transparent;
+	border-bottom: 1px solid gray;
+}
+
+.portable-infobox.pi-theme-nation .pi-data {
+	border-color: gray;
+}/**/

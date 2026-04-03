@@ -1,0 +1,68 @@
+{{quote|Will you tell my da I’m all right? And my mother? She always did worry. And look after my sisters. They used to spy on me and tell Mother everything, but I wouldn’t want anything to happen to them.| [[Mat]] to [[Perrin]] }}
+{{summary | book=4 |
+|chapter=13
+|title=Rumors
+|icon=Dice
+|setting=[[Maule]], [[Stone of Tear]]
+}}
+
+==Summary==
+: {{pov|[[Matrim Cauthon]]}}
+
+[[Mat Cauthon|Mat]] is sitting with an untouched drink in a tavern in the [[Maule]] of [[Tear]], thoughts heavy with the evening's events. During the [[Trolloc]] attack on the [[Stone of Tear|Stone]], he killed a [[Gray Man]] that had tried to assassinate him. Then shortly after, a [[Myrddraal]] that called him "Hornsounder"{{ref|Mat was the one who blew the [[Horn of Valere]] in {{2|46}}.}} was about to kill him when a dozen Trollocs suddenly attacked and killed the Fade and left again.{{ref|These are later revealed to have been sent by [[Semirhage]] against [[Sammael]]'s attack. ({{6|6}})}} He still wants to escape Tear, but feels pulled back to the Stone. He subconsciously draws a sketch of a doorway using a finger wet with wine.
+
+He hears someone mention the [[Two Rivers]] and questions a merchant who explains [[Whitecloaks]] are in the Two Rivers, supposedly hunting the [[Dragon Reborn]] as well as a [[Darkfriend]] with yellow eyes. Leaving the merchant with an Andoran gold crown, Mat runs to [[Perrin]]'s room to give him the news but Perrin has heard already and is packing to leave.{{ref|Perrin was searching for rumors that would convince [[Faile]] to leave the Stone in {{4|9}}.}} Perrin had told Rand, who had replied mysteriously, "He said he'd do it. He said he would. I should have believed him."{{ref|Referring to [[Padan Fain]]'s message in {{2|33}}.}} Rand told Perrin that he had to do "what they don't expect," meaning that he cannot return to the Two Rivers. Mat tries to say he will go with Perrin but he can't even get the words out. [[Rand]]'s ''[[ta'veren]]'' effect is keeping Mat close, while Perrin does not have the same problem. Mat asks Perrin whether he feels any reasons to stay, and Perrin says he does - but he admits it is the ''ta'veren'' effect and that seems to allow him to overcome it. Mat refuses to admit it.
+
+Mat asks why Perrin has to return since nobody in the Two Rivers will know anything about a man with golden eyes,{{ref|Perrin developed his golden eyes as a result of using his [[wolfbrother]] powers after leaving the Two Rivers.}} and Perrin says that the Whitecloaks know his name and thus will be able to find and threaten his family. They wish each other well and Mat asks Perrin to tell his parents that he is all right. Mat leaves, worrying about his family. He has trouble remembering his sisters' faces now, thanks to the holes in his memory.
+
+Mat encounters [[Berelain]] heading in the other direction,{{ref|Berelain is on her way to Perrin's room as shown in {{4|14}}.}} and is angered when she ignores his best bow and greeting. She scrutinizes him then walks by with a murmured, "too much like me." Mat inwardly compares her haughtiness to [[Elayne]]'s and instead thinks of a plump cook's helper by name of [[Dara]]. He realizes he is falling back into his normal routine again, all thoughts of leaving gone. He flips a coin, a [[Tar Valon]] mark, and it lands with the [[Flame of Tar Valon]] showing. He realizes what he must do and declaims the Aes Sedai and Rand for his predicament.{{ref|Mat acts on his decision in {{4|15}}.}} This startles a passing servant and Mat gifts him the coin.
+
+==Characters==
+*[[Mat]]
+*[[Paetram (Tear)|Paetram]] merchant and tavern patron
+*[[Perrin]]
+*[[Berelain]]
+
+===Referenced===
+*[[Rand]]
+*[[Logain Ablar]]
+*[[Mazrim Taim]] - as ''Maseem, the false Dragon in Saldaea''
+*[[Faile]]
+*[[Abell Cauthon]] - as ''Mat's da''
+*[[Natti Cauthon]] - as ''Mat's mother''
+*[[Eldrin Cauthon]]
+*[[Bodewhin Cauthon]]
+*[[Elayne]]
+*[[Artur Hawkwing]]
+*[[Dara]]
+
+==Groups==
+===Referenced===
+*[[Shadowspawn]]
+*[[Whitecloaks]]
+
+==Places==
+*[[Maule]]
+*[[Stone of Tear]]
+
+===Referenced===
+*[[Tear]]
+*[[Two Rivers]]
+*[[Ghealdan]]
+*[[Amadicia]]
+*[[Altara]]
+*[[Saldaea]]
+*[[Kandor]]
+*[[Emond's Field]]
+*[[Tar Valon]]
+
+==Items==
+
+===Referenced===
+*[[Two Rivers Longbow]]
+*''[[Callandor]]''
+
+{{notes}}
+*At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''Rumors''}}

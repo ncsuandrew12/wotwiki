@@ -1,0 +1,22 @@
+{{#if:{{{1|}}}|{{no.}}{{#switch:{{lc:{{{1}}}}}|
+aiel                =5C4817|
+altara|altaran      =2b40aa|
+amadicia|amadician  =1c2ca4|
+andor|andoran       =d81414|
+arad doman|domani   =008903|
+arafel|arafellin    =FFFFFF|
+cairhien|cairhienin =3295ff|
+far madding         =FFFFFF|
+ghealdan|ghealdanin =b11a1a|
+illian|illianer     =006500|
+kandor|kandori      =b82424|
+malkier|malkieri    =000000|
+mayene|mayener      =0050a0|
+murandy|murandian   =0e0095|
+saldaea|saldaean    =00156e|
+seanchan            =113079|
+sea folk|atha'an miere =1E90FF|
+shienar|shienaran   =489acd|
+tarabon|taraboner   =bb0101|
+tear|tairen         =a2871c}}|{{color/race}}}}<noinclude>{{delete|unused}}
+[[Category:Color templates|{{PAGENAME}}]]</noinclude>

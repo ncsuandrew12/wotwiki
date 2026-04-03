@@ -1,0 +1,16 @@
+{{ character
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| title=Lord
+| gender=Male
+| mentioned={{cot|26}}
+| lastmentioned={{cot|26}}
+| living=cot
+}}
+Lord '''Cowlin''' is the Lord of [[So Habor]].
+
+== Activities ==
+He leaves the town when the ghosts start appearing in So Habor.
+[[Category:Nobility]]

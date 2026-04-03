@@ -1,0 +1,17 @@
+{{character 
+| image=MurandyFlag.png
+| imagesize=100px
+| birth={{Ne|978}}
+| status=Alive (Presumed)
+| nationality=Murandian
+| gender=Male
+| appeared={{Ns|5}}
+| lastappeared={{ns|5}}
+| living=ns
+}}
+'''Danil''' is an infant born during the [[Aiel War]]. It is presumed he is Murandian, because the camp he was found by Moiraine in was Murandian.[1]
+
+==History==
+After seeing [[Susa Wynn]] receive coin from [[Moiraine Damodred]], Danil's mother tried to pass him off as sick to "see a Wise Woman." Moiraine saw through the ruse and offered [[Healing]], which Danil's mother refused.{{ref/book|0|5}}
+
+{{notes}}

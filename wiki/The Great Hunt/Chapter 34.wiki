@@ -1,0 +1,74 @@
+{{quote|You've made one real mistake in it all. You should never have touched the girl.|[[Thom Merrilin]]}}
+
+{{for|the chapter with the same title in ''[[The Fires of Heaven]]''|The Fires of Heaven/Chapter 40}}
+
+{{summary|book=2
+|chapter=34
+|icon=wheel
+|title=The Wheel Weaves
+|setting=[[Cairhien (city)|Cairhien]], [[Falme]]
+}}
+
+==Summary==
+:{{pov|[[Thomdril Merrilin]]}}
+
+[[Thom Merrilin|Thom]] is on his way back to his room in [[The Bunch of Grapes]] early in the morning after the night's festivities. The nobles at Lord Barthanes's party questioned him about [[Rand]] after Rand talked with him. Thom went to [[The Great Tree]] intending to speak with Rand, but found that Rand and his party had already left. He returns to find [[Dena]] on the bed, dead with her throat cut. He hears the wardrobe door opening and spins, throwing his knives. One attacker is immediately killed and the other is wounded. Thom questions the attacker who is still alive and he tells Thom he is getting information on Rand for Lord [[Barthanes]]. Thom does not believe that he works for Barthanes, since Barthanes would not have let Thom leave the manor in that case. The man babbles desperately, telling Thom that he saw a lady while investigating Rand.{{ref|Likely Selene.}} Thom kills the man, telling him that they should have left Dena alone.
+
+The innkeeper [[Zera]] comes in. She sees the dead men and tells him that Lord Barthanes was killed after the party, torn to pieces by someone or something.{{ref|The manner of his death is consistent with the way the ''[[gholam]]'' kills. But there is no evidence that the ''gholam'' had been released at this point, nor is there a compelling argument for why the ''gholam'' would be sent after Barthanes.}} Given his presence at the party coupled with the bodies, he will surely be blamed if he doesn't leave [[Cairhien]] immediately. She tells him she will take care of the bodies and he gives her the money from the nobles at the party, to pay for bribes if necessary. Moving closer to the bodies, Zera tells him that the men really worked for [[Galldrian Riatin|King Galldrian]]. Thom tells her that he has someone he has to kill before he leaves. They see the city granaries starting to burn outside. Zera tells him to think of Dena and not to get himself killed. Thom departs with the air of a man on a mission.
+
+:{{pov|[[Padan Fain]]}}
+
+Fain approaches [[Falme]] after questioning locals about the [[Seanchan]]. He finds that much of what he dismissed as fables is actually true. He arrives at the house and headquarters of High Lord [[Turak]]. He tells the officer in the street that he has something of interest to their high lord. The soldiers bring Fain to the Turak along with the chest containing the [[Horn of Valere]] and the [[Ruby-hilted dagger]]. To Fain's surprise, Turak is able to open the chest. Fain identifies the Horn, but Turak recognizes it as well. They move to Turak's trophy room, where the Horn is set up as a prominent display. Fain tries to take the dagger which he claims is his, and Turak's servant stops him, saying a hand that steals from High Lord Turak is cut off.
+
+Turak questions Fain's claim to ownership since the dagger was in a chest he couldn't open. Turak tells him that he may have the dagger if he proves himself sufficiently interesting. Turak questions why Fain would give him the Horn; Fain tells him to sound the Horn and break the [[White Tower]] with it. Fain forces an obsequious manner and spins a tale of his ancestors serving [[Artur Hawkwing]] and hating Hawkwing's death at the hands of the [[Aes Sedai]]. His family has always awaited the return of the armies of Hawkwing from across the [[Aryth Ocean]] and the Horn was passed down through the generations within his family. Fain presses Turak to sound the Horn but Turak's servant cuts him off; Turak plans to give the Horn to the [[Empress]]. The Horn is linked to its sounder and will not function for others until the sounder has died. Sounding it would send a message to the Empress that he intends to replace her; that would be overly ambitious and likely end with him in the hands of the [[Seekers for Truth]]. Turak tells Fain to entertain him, telling him stories although he may not believe them, and perhaps Fain will be given as a gift to the Empress. Fain is interested in having access to a ruler again, especially one who rules an empire. Turak says he will keep an eye out for the [[Darkfriend]]s who pursue Fain.
+
+==Characters==
+*[[Thom]]
+*[[Dena]]
+*[[Zera]]
+*[[Padan Fain]]
+*[[Turak]]
+*[[Huan (Seanchan)|Huan]]
+
+===Referenced===
+*[[Ella (servant)|Ella]]
+*[[Barthanes]]
+*[[Rand]]
+*[[Selene]] - as ''lady''
+*[[Loial]] - as an ''Ogier''
+*[[Galldrian]]
+*[[Empress]]
+*[[Artur Paendrag Tanreall]]
+*[[Tuon]]
+
+==Groups==
+*[[Seanchan]]
+
+===Referenced===
+*[[Darkfriends]]
+*[[Seekers for Truth]]
+*[[Aes Sedai]]
+
+==Places==
+*[[Foregate]]
+*[[Cairhien]]
+*[[Falme]]
+*[[Toman Head]]
+
+===Referenced===
+*[[Andor]]
+*[[Caemlyn]]
+*[[Ways]]
+*[[Spine of the World]]
+*[[Aiel Waste]]
+*[[Tar Valon]]
+*[[Aryth Ocean]]
+*[[Seandar]]
+
+==Items==
+*[[Horn of Valere]]
+*[[Ruby-hilted dagger]]
+*[[Waygate]]
+
+{{notes}}
+{{DISPLAYTITLE:''The Wheel Weaves''}}

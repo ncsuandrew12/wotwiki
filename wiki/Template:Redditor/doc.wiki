@@ -1,0 +1,21 @@
+==Purpose==
+Link to Redditor profile.
+
+==Usage==
+<code><nowiki>{{</nowiki>redditor|''username''|text=''text''<nowiki>}}</nowiki>
+<pre>{{redditor
+  | username =
+  | text     =
+}}</pre>
+
+=== Examples ===
+
+{|class=wikitable
+!Code!!Result
+|-
+|<pre>{{redditor|mistborn}}</pre>||{{redditor|mistborn}}
+|-
+|<pre>{{redditor|ncsuandrew12}}</pre>||{{redditor|ncsuandrew12}}
+|-
+|<pre>{{redditor|mistborn|text=Brandon Sanderson's reddit account}}</pre>||{{redditor|mistborn|text=Brandon Sanderson's reddit account}}
+|}

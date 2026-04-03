@@ -1,0 +1,29 @@
+{{character 
+| image=IllianFlag.png
+| imagesize=250px
+| ewot=Nieda
+| status=Alive
+| nationality=Illianer
+| occupation=Innkeeper
+| affiliation=Moiraine Damodred
+| gender=Female
+| build=Stout
+| appeared={{Tgh|9}}
+| lastappeared={{tdr|44}}
+| living=tdr
+}}
+''"Like most people who had never been to the Borderlands, Nieda did not believe in Trollocs. He had tried telling her the truth of it; she enjoyed his stories, and thought they were all lies. She did not believe in snow, either."''
+
+- Bayle Domon
+
+'''Nieda Sidoro''' is the innkeeper of [[Easing the Badger]], an inn in [[Illian]]. Her nephew's name is [[Bili (bouncer)|Bili]].
+
+==Appearance==
+Mistress Sidoro is a stout woman who wears her hair rolled at the back of her head.
+
+==Activities==
+[[Bayle Domon]] once visited her inn.{{ref/book|2|9}} Fights and brawls got so bad during the winter that she had to hire a singer to keep her customers entertained. When [[Moiraine Damodred]], [[Lan Mandragoran]], [[Perrin Aybara]], [[Faile Bashere]] and [[Loial]] visit her inn, Moiraine is greeted as "Mistress Mari."{{ref/book|3|42}} When the group flees Illian, Moiraine warns Nieda to leave the town, as she has been an eyes-and-ears agent for Moiraine for twelve years.{{ref/book|3|44}}
+
+{{notes}}
+{{DEFAULTSORT:Sidoro, Nieda}}
+[[Category:Eyes-and-ears]]

@@ -1,0 +1,357 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+''[[The Eye of the World]]'' contains 53 chapters and 2 prologues and consists of seven unique POVs and 59 total POVs. In its standard format, it has a total word count of 300,147 words. If the Ravens prologue is included, this rises to 310,191 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+== Chapter by Chapter Breakdown ==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="2" | [[The Eye of the World/Prologue|Prologue: Dragonmount]]
+| [[Lews Therin Telamon]]
+| align="right" | 2,362
+| align="right" | 0.7615%
+|-
+| Quote
+| align="right" | 254
+| align="right" | 0.0819%
+|-
+| [[The Eye of the World/Ravens|Prologue: Ravens]]
+| [[Egwene al'Vere]]
+| align="right" | 10,044
+| align="right" | 3.2380%
+|-
+| [[The Eye of the World/Chapter 1|Ch1: An Empty Road]]
+| [[Rand al'Thor]]
+| align="right" | 7,164
+| align="right" | 2.3095%
+|-
+| [[The Eye of the World/Chapter 2|Ch2: Strangers]]
+| [[Rand al'Thor]]
+| align="right" | 4,956
+| align="right" | 1.5977%
+|-
+| [[The Eye of the World/Chapter 3|Ch3: The Peddler]]
+| [[Rand al'Thor]]
+| align="right" | 5,260
+| align="right" | 1.6957%
+|-
+| [[The Eye of the World/Chapter 4|Ch4: The Gleeman]]
+| [[Rand al'Thor]]
+| align="right" | 5,965
+| align="right" | 1.9230%
+|-
+| [[The Eye of the World/Chapter 5|Ch5: Winternight]]
+| [[Rand al'Thor]]
+| align="right" | 7,123
+| align="right" | 2.2963%
+|-
+| [[The Eye of the World/Chapter 6|Ch6: The Westwood]]
+| [[Rand al'Thor]]
+| align="right" | 3,411
+| align="right" | 1.0996%
+|-
+| [[The Eye of the World/Chapter 7|Ch7: Out of the Woods]]
+| [[Rand al'Thor]]
+| align="right" | 5,682
+| align="right" | 1.8318%
+|-
+| [[The Eye of the World/Chapter 8|Ch8: A Place of Safety]]
+| [[Rand al'Thor]]
+| align="right" | 5,934
+| align="right" | 1.9130%
+|-
+| [[The Eye of the World/Chapter 9|Ch9: Tellings of the Wheel]]
+| [[Rand al'Thor]]
+| align="right" | 6,933
+| align="right" | 2.2351%
+|-
+| [[The Eye of the World/Chapter 10|Ch10: Leavetaking]]
+| [[Rand al'Thor]]
+| align="right" | 4,048
+| align="right" | 1.3050%
+|-
+| [[The Eye of the World/Chapter 11|Ch11: The Road to Taren Ferry]]
+| [[Rand al'Thor]]
+| align="right" | 3,567
+| align="right" | 1.1499%
+|-
+| [[The Eye of the World/Chapter 12|Ch12: Across the Taren]]
+| [[Rand al'Thor]]
+| align="right" | 5,255
+| align="right" | 1.6941%
+|-
+| [[The Eye of the World/Chapter 13|Ch13: Choices]]
+| [[Rand al'Thor]]
+| align="right" | 7,308
+| align="right" | 2.3560%
+|-
+| [[The Eye of the World/Chapter 14|Ch14: The Stag and Lion]]
+| [[Rand al'Thor]]
+| align="right" | 5,890
+| align="right" | 1.8988%
+|-
+| [[The Eye of the World/Chapter 15|Ch15: Strangers and Friends]]
+| [[Rand al'Thor]]
+| align="right" | 9,061
+| align="right" | 2.9211%
+|-
+| [[The Eye of the World/Chapter 16|Ch16: The Wisdom]]
+| [[Rand al'Thor]]
+| align="right" | 4,246
+| align="right" | 1.3688%
+|-
+| [[The Eye of the World/Chapter 17|Ch17: Watchers and Hunters]]
+| [[Rand al'Thor]]
+| align="right" | 6,565
+| align="right" | 2.1164%
+|-
+| [[The Eye of the World/Chapter 18|Ch18: The Caemlyn Road]]
+| [[Rand al'Thor]]
+| align="right" | 5,529
+| align="right" | 1.7825%
+|-
+| [[The Eye of the World/Chapter 19|Ch19: Shadow's Waiting]]
+| [[Rand al'Thor]]
+| align="right" | 7,094
+| align="right" | 2.2870%
+|-
+| rowspan="3" | [[The Eye of the World/Chapter 20|Ch20: Dust on the Wind]]
+| [[Rand al'Thor]]
+| align="right" | 2,177
+| align="right" | 0.7018%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,469
+| align="right" | 0.4736%
+|-
+
+| [[Rand al'Thor]]
+| align="right" | 3,977
+| align="right" | 1.2821%
+|-
+| [[The Eye of the World/Chapter 21|Ch21: Listen to the Wind]]
+| [[Nynaeve al'Meara]]
+| align="right" | 5,127
+| align="right" | 1.6529%
+|-
+| [[The Eye of the World/Chapter 22|Ch22: A Path Chosen]]
+| [[Perrin Aybara]]
+| align="right" | 2,184
+| align="right" | 0.7041%
+|-
+| [[The Eye of the World/Chapter 23|Ch23: Wolfbrother]]
+| [[Perrin Aybara]]
+| align="right" | 5,822
+| align="right" | 1.8769%
+|-
+| [[The Eye of the World/Chapter 24|Ch24: Flight Down the Arinelle]]
+| [[Rand al'Thor]]
+| align="right" | 5,334
+| align="right" | 1.7196%
+|-
+| [[The Eye of the World/Chapter 25|Ch25: The Traveling People]]
+| [[Perrin Aybara]]
+| align="right" | 6,144
+| align="right" | 1.9807%
+|-
+| [[The Eye of the World/Chapter 26|Ch26: Whitebridge]]
+| [[Rand al'Thor]]
+| align="right" | 8,979
+| align="right" | 2.8947%
+|-
+| [[The Eye of the World/Chapter 27|Ch27: Shelter From the Storm]]
+| [[Perrin Aybara]]
+| align="right" | 4,918
+| align="right" | 1.5855%
+|-
+| [[The Eye of the World/Chapter 28|Ch28: Footprints in the Air]]
+| [[Nynaeve al'Meara]]
+| align="right" | 3,163
+| align="right" | 1.0197%
+|-
+| [[The Eye of the World/Chapter 29|Ch29: Eyes Without Pity]]
+| [[Perrin Aybara]]
+| align="right" | 6,184
+| align="right" | 1.9936%
+|-
+| [[The Eye of the World/Chapter 30|Ch30: Children of Shadow]]
+| [[Perrin Aybara]]
+| align="right" | 6,407
+| align="right" | 2.0655%
+|-
+| [[The Eye of the World/Chapter 31|Ch31: Play for Your Supper]]
+| [[Rand al'Thor]]
+| align="right" | 4,545
+| align="right" | 1.4652%
+|-
+| [[The Eye of the World/Chapter 32|Ch32: Four Kings in Shadow]]
+| [[Rand al'Thor]]
+| align="right" | 7,977
+| align="right" | 2.5716%
+|-
+| [[The Eye of the World/Chapter 33|Ch33: The Dark Waits]]
+| [[Rand al'Thor]]
+| align="right" | 10,410
+| align="right" | 3.3560%
+|-
+| [[The Eye of the World/Chapter 34|Ch34: The Last Village]]
+| [[Rand al'Thor]]
+| align="right" | 5,931
+| align="right" | 1.9120%
+|-
+| [[The Eye of the World/Chapter 35|Ch35: Caemlyn]]
+| [[Rand al'Thor]]
+| align="right" | 5,354
+| align="right" | 1.7260%
+|-
+| [[The Eye of the World/Chapter 36|Ch36: Web of the Pattern]]
+| [[Rand al'Thor]]
+| align="right" | 5,726
+| align="right" | 1.8460%
+|-
+| [[The Eye of the World/Chapter 37|Ch37: The Long Chase]]
+| [[Nynaeve al'Meara]]
+| align="right" | 3,239
+| align="right" | 1.0442%
+|-
+| [[The Eye of the World/Chapter 38|Ch38: Rescue]]
+| [[Perrin Aybara]]
+| align="right" | 5,934
+| align="right" | 1.9130%
+|-
+| [[The Eye of the World/Chapter 39|Ch39: Weaving of the Web]]
+| [[Rand al'Thor]]
+| align="right" | 4,472
+| align="right" | 1.4417%
+|-
+| [[The Eye of the World/Chapter 40|Ch40: The Web Tightens]]
+| [[Rand al'Thor]]
+| align="right" | 9,523
+| align="right" | 3.0700%
+|-
+| [[The Eye of the World/Chapter 41|Ch41: Old Friends and New Threats]]
+| [[Rand al'Thor]]
+| align="right" | 5,812
+| align="right" | 1.8737%
+|-
+| [[The Eye of the World/Chapter 42|Ch42: Remembrance of Dreams]]
+| [[Rand al'Thor]]
+| align="right" | 4,720
+| align="right" | 1.5216%
+|-
+| [[The Eye of the World/Chapter 43|Ch43: Decisions and Apparitions]]
+| [[Rand al'Thor]]
+| align="right" | 4,900
+| align="right" | 1.5797%
+|-
+| [[The Eye of the World/Chapter 44|Ch44: The Dark Along the Ways]]
+| [[Rand al'Thor]]
+| align="right" | 5,305
+| align="right" | 1.7102%
+|-
+| [[The Eye of the World/Chapter 45|Ch45: What Follows in Shadow]]
+| [[Rand al'Thor]]
+| align="right" | 5,563
+| align="right" | 1.7934%
+|-
+| [[The Eye of the World/Chapter 46|Ch46: Fal Dara]]
+| [[Rand al'Thor]]
+| align="right" | 6,748
+| align="right" | 2.1754%
+|-
+| [[The Eye of the World/Chapter 47|Ch47: More Tales of the Wheel]]
+| [[Rand al'Thor]]
+| align="right" | 5,169
+| align="right" | 1.6664%
+|-
+| [[The Eye of the World/Chapter 48|Ch48: The Blight]]
+| [[Rand al'Thor]]
+| align="right" | 4,586
+| align="right" | 1.4784%
+|-
+| [[The Eye of the World/Chapter 49|Ch49: The Dark One Stirs]]
+| [[Rand al'Thor]]
+| align="right" | 3,478
+| align="right" | 1.1212%
+|-
+| [[The Eye of the World/Chapter 50|Ch50: Meetings at the Eye]]
+| [[Rand al'Thor]]
+| align="right" | 4,544
+| align="right" | 1.4649%
+|-
+| [[The Eye of the World/Chapter 51|Ch51: Against the Shadow]]
+| [[Rand al'Thor]]
+| align="right" | 3,513
+| align="right" | 1.1325%
+|-
+| [[The Eye of the World/Chapter 52|Ch52: Neither Beginning Nor End]]
+| [[Rand al'Thor]]
+| align="right" | 3,878
+| align="right" | 1.2502%
+|-
+| rowspan="2" | [[The Eye of the World/Chapter 53|Ch53: The Wheel Turns]]
+| [[Rand al'Thor]]
+| align="right" | 3,204
+| align="right" | 1.0329%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 124
+| align="right" | 0.0400%
+|-
+|}
+
+== Unique POV Breakdown ==
+{| class="wikitable sortable"
+!Character
+!# of POVs
+!% of Total POVs (59)
+!Word Count (310,191)
+!% of Word Count
+|-
+| [[Lews Therin Telamon]]
+| align="right" | 1
+| align="right" | 1.6949%
+| align="right" | 2,362
+| align="right" | 0.7615%
+|-
+| Quote
+| align="right" | 1
+| align="right" | 1.6949%
+| align="right" | 254
+| align="right" | 0.0819%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1
+| align="right" | 1.6949%
+| align="right" | 10,044
+| align="right" | 3.2380%
+|-
+| [[Rand al'Thor]]
+| align="right" | 44
+| align="right" | 74.5763%
+| align="right" | 246,816
+| align="right" | 79.5690%
+|-
+| [[Perrin Aybara]]
+| align="right" | 8
+| align="right" | 13.5593%
+| align="right" | 39,062
+| align="right" | 12.5929%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 3
+| align="right" | 5.0847%
+| align="right" | 11,529
+| align="right" | 3.7167%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 1
+| align="right" | 1.6949%
+| align="right" | 124
+| align="right" | 0.0400%
+|-
+|}<noinclude>
+[[Category:Statistical analysis]]</noinclude>

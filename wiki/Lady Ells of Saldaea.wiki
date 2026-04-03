@@ -1,0 +1,25 @@
+{{Character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| death=
+| affiliation=The Light
+| gender=Female
+| occupation=
+| nationality=Saldaean
+| status=Alive
+| hair=
+| appeared={{amol|18}}
+| lastappeared={{amol|18}}
+| living=amol
+|rank = Lady|title = Lady}}
+'''Lady Ells''' of [[Saldaea]] is a noblewoman with the Borderlander forces in the [[Last Battle]]. {{ref|{{twotc}}, Ells, Lady}}
+
+== Activities ==
+When [[Lan]] approaches [[Lord Agelmar]] to talk about Agelmar's bad battle decisions, namely the loss of Lord Yokata's two cavalry squadrons, Agelmar is speaking softly to Lady Ells of Saldaea and seeing Lan's approach, Agelmar excuses himself quietly from the conversation to meet Lan.{{Ref/book|14|18}}
+
+{{Notes}}{{Short}}
+[[Category:Saldaea (people)]]
+[[Category:Women]]
+[[Category:Ladies]]
+[[Category:Living as of AMOL]]
+[[Category:Nobility]]

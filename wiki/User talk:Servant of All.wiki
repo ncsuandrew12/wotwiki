@@ -1,0 +1,131 @@
+==Welcome==
+Greetings and welcome to my talk page. As an [[Aes Sedai (Age of Legends)|Aes Sedai]] from [[Age of Legends|an earlier age]] I often find this modern wiki world more satisfying when editors interact frequently. So please feel absolutely free to write on my talk page. I'm open to all feedback and discussion about pages, edits, or anything else you think is worth talking about. We're all here to enrich this wiki and promote a highly interactive environment!
+
+Until then I shall return to my work. The [[Ogier]] of this age have been kind enough to allow me to labor on this wiki from a [[Stedding]] to shield me from [[Saidin]]. Just don't ask how they manage to get me on the internet....
+
+[[User:Servant of All|Servant of All]]
+
+== Links and headers  ==
+:I have been looking at the pages you have been editing. Let me thank you for adding the info and expanding those stubs. It really does help!
+
+:Keep up the great work! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:39, February 23, 2011 (UTC)
+
+==Citations==
+The interviews and othe conversations are all here [[:Category:Interaction with Fans]]. [[User:Joedmd|Joe]] 16:59, February 24, 2011 (UTC)
+
+Awsome! I'll look it over.[[User:Servant of All|Servant of All]] 17:03, February 24, 2011 (UTC)
+
+:Joe here explains the citations templates pretty good. Just make sure that the citation goes outside of any punctuation and you don't forget the notes template at the bottom of the page. Also, thanks very much for creating and expanding articles here! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:57, March 5, 2011 (UTC)
+
+== Hello! ==
+I'm not sure if it was you who posted a comment for me, since you (or whoever did) didn't sign the post! If it wasn't you, ahm, then just "hi," nice to see your name on random page edits. :)
+
+If it was you, thanks for the compliment, I like that little Taren Ferry saying, too! I also like Egwene's response to Rand quoting it, something to the effect of, take your cat and hat and shove it! Well, more like "You put your cat in your hat and stuff it down your breeches."
+
+Happy wiki-ing! Warmly, Sabrina [[User:Seebster|Seebster]] 02:35, April 7, 2011 (UTC)
+
+==Concerning sarcasm==
+
+Hi there! A sister of the Blue here. Apologies if I made the article sound sarcastic, that was certainly not my intention. In my eyes it fitted in quite well, but then again, English is not my first language, hence possible misunderstandings.
+
+Glad to have you on the board!
+
+[[User:ASisterOfTheBlue|ASisterOfTheBlue]] ([[User talk:ASisterOfTheBlue|talk]]) 08:27, February 7, 2014 (UTC)
+
+== Categories ==
+
+Hello. I saw that you added all of those items to the "Items of Power" category. I don't know if you knew this, but the ''angreal'', ''sa'angreal'', and ''ter'angreal'' categories are all subcategorized under the Items of Power category. So adding that to all of those seems redundant. Please let me know what you think. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 23:19, February 24, 2014 (UTC)
+
+Hello again. A lot of the categories for characters are controlled by the {{tl|Character}} template. Several different parameters can be set by that template and a good number of them add the page to categories. As for Graendal, the reason she is listed as both dead and alive is because Graendal is dead, but Hessalam is still alive. Right now, all of the Forsaken that have been reincarnated have two different character templates on them. Another example would be [[Balthamel]] who has both the male and female categories.
+
+I also wanted to go back to Items of Power category for a minute. I know what you said about them all being items of Power, and should be identified as such. However, when you look at the [[:Category:Items of Power|Items of Power category]], you see all of it and then you go into any of the [[:Category:Angreal|Angreal]], [[:Category:Sa'angreal|Sa'angreal]], and [[:Category:Ter'angreal|Ter'angreal]] categories. There, you see many of the same things. To me, it seems redundant to have a page in one category as well as in one of its sub-categories. Let me know what you think. Also, let me know if you have any other questions. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 05:01, March 12, 2014 (UTC)
+
+== Companion ==
+
+I've created a new template. Just use the abbreviation "twotc" in the reference template. We can also put the name of the entry form the companion in the reference as well: <nowiki>{{ref|{{twotc}}, Subject}}</nowiki>. Let me know if you have any questions. ---- {{User:Mainphramephreak/Sig/Subst}} 16:21, November 9, 2015 (UTC)
+
+==Editing==
+All the channelers articles in this Wikia have a paragraph describing their strength and abilities, and another one about their appearance. Why in some of the articles have you decided to merge this descriptions? I don't want to say it is absolutely wrong, but I would like some explanation about this decision--[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 13:10, February 2, 2018 (UTC)
+
+Kay - I provided a response to you on your talk page. [[User:Servant of All|Servant of All]] ([[User talk:Servant of All|talk]]) 05:38, February 3, 2018 (UTC)
+
+::Thank you for your explanation--[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 14:02, February 4, 2018 (UTC)
+
+==Deleting pictures==
+
+exchange as you wish the main picture of a character, but please don't delete others pictures following your taste. It seems that you are targeting a particular kind of pictures, despite they are made with a graphic limited program, they are far more accurate respecting the details given in the Wot books, than many pics that "artistically" could be considered better and find our taste--[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 16:45, March 16, 2018 (UTC)
+
+
+
+Kay - I have responded to you on your talk page.  [[User:Servant of All|Servant of All]] ([[User talk:Servant of All|talk]]) 04:01, March 17, 2018 (UTC)
+
+:: 1) I am not the person who realized this kind of pictures, I am only the one who is keeping them here, as many other fan pictures are maintained here 2) I don't understand why this kind of pictures are so targeted by some of the contributors, while other fan pics like this https://vignette.wikia.nocookie.net/wot/images/2/2f/Nynaeve_al%27Meara.JPG/revision/latest?cb=20100107033240
+
+are considered acceptable, 
+that for me are quite awful, but still I don't delete systematically all of them only because of my taste--[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 17:49, March 17, 2018 (UTC)
+
+::: 3) consider also that in many cases this kind of pictures are the only (or the few) available about minor characters, so we have to be grateful if someone else has spent his time to produce them, instead to despise him --[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 17:54, March 17, 2018 (UTC)
+
+==Nynaeve Picture Example==
+Kay - the picture you supplied as an example of an "awful" picture is in fact an official image that comes from the [[The World of Robert Jordan's The Wheel of Time]] and was drawn by Todd Cameron Hamilton. The fact that you do not know this is disappointing and indicates that you are either not paying attention to canon source material or you are ignorant that these things even exist. I'm not a fan of the images from that book either, but it is OFFICIAL which gives it all the weight it needs to be on the page.
+
+I already explained to you that the repetitive stock images do not add value. I'm not going to pursue this pedantic conversation further. You've been told this by other contributors and I'm sure its going to come up again with someone else who joins the community and sees the same thing.[[User:Servant of All|Servant of All]] ([[User talk:Servant of All|talk]]) 19:10, March 17, 2018 (UTC)
+
+== Communication attempt ==
+
+Hi Servant of All,
+
+I'd gladly chat with you provided you have time for me. Most probably you have already checked that I've been quite active recently.  I'd like to avoid hurting other fan's feelings or ruin something with my attempt to make it more accurate or better fitting to my standards. I'll be online and logged in in the next 2 hours, waiting.
+
+Kind regards,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 19:47, October 21, 2018 (UTC)
+
+
+
+– – – – –
+
+Thank you for the info on my talk page. Don't forget to check your Pink Floyd reminder, though. ;)
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 06:31, October 23, 2018 (UTC)
+
+
+
+– – – – –
+
+Checking mails some time? :)
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 21:46, October 30, 2018 (UTC)
+
+Hey, it has been some time since you have been on here. That fill in on Wit looks awesome. I'm doing my best to finish the series so help is always welcome--[[User:GuanYu79|GuanYu79]] ([[User talk:GuanYu79|talk]]) 07:57, February 27, 2019 (UTC)
+
+Nice picture added. I can’t stand any more rubbish art that is being deposited on so many pages. Art that is visually stunning is always welcome. I hate all that art by that Hamilton guy eg one of the pieces of Demandred below his character profile even though he is an official wot artist. If I could be bothered I would delete them all--[[User:GuanYu79|GuanYu79]] ([[User talk:GuanYu79|talk]]) 06:53, February 28, 2019 (UTC)
+
+== Source of artwork ==
+
+Hi,
+
+I've seen that this picture was uploaded by you. [//wot.fandom.com/wiki/File:MoridinandtheFisher.JPG https://wot.fandom.com/wiki/File:MoridinandtheFisher.JPG]
+
+By any chance could you name the artist?
+
+Thanks,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 21:45, March 20, 2019 (UTC)
+
+----
+
+Hi, will reply you properly in the upcoming days, I'm a bit busy nowadays. :) Welcome back!
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 20:35, April 11, 2019 (UTC)
+
+----
+
+RE: emails
+ok, will try to reply as soon as I can. :)
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:48, April 12, 2019 (UTC)
+
+== Inccorect tag ==
+
+Done the correction, thank you for signalling me --[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 13:05, April 10, 2019 (UTC)

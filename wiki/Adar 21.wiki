@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|May}}
+|{{Wotmonth|Adar}}
+|}
+'''Adar 21 (May 3)'''
+
+==Events==
+</noinclude>'''
+*{{ne|999}} - [[Mat]] and [[Thom]] arrive in [[Caemlyn]], and Mat delivers [[Elayne]]'s message to [[Morgase]]. Mat overhears [[Comar]] and [[Rahvin|Gaebril's]] plot to kill Elayne.
+<noinclude>
+==External links==
+*[[wikipedia:may 3|May 3]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

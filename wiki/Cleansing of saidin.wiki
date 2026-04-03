@@ -1,0 +1,27 @@
+[[File:Access key.jpg|thumb|right|[[Rand al'Thor]] using an [[access key]] during the cleansing of ''[[saidin]]''.]]
+[[File:Nynaeve cleansing saidin.jpg|thumb|right|[[Nynaeve al'Meara]] using an access key during the cleansing of ''saidin''.]]
+
+The '''cleansing of ''saidin''''' was a world-altering event that occurred at the climax of ''[[Winter's Heart]]'' and was felt throughout the entire world by channelers.
+
+In {{ne|1000}}, [[Rand al'Thor]] made an extraordinary claim: he believed he had discovered how to cleanse the [[Dark One]]'s 3,000-year-old [[taint]] on ''saidin''. While Rand was inside the redstone doorway ''[[ter'angreal]]'', one of the questions he asked the [[Aelfinn]] was how to cleanse ''[[saidin]]''. The answer to the question is never revealed to the reader, but it is known to be a riddle that [[Herid Fel]] said stated "sound principles, in both high philosophy and natural philosophy."
+
+On [[Saban 22]], Rand al'Thor and [[Nynaeve al'Meara]] used the two most powerful ''[[sa'angreal]]'' ever made, the [[Choedan Kal]], one buried in [[Cairhien]] and the other on [[Tremalking]], to funnel the taint into [[Shadar Logoth]].{{ref/book|9|35}}
+
+Nynaeve and Rand were linked together for the cleansing. When Nynaeve touched ''saidin'', because she held control of the circle, she openly expressed her shock and fear of the "chaos and rage" of ''saidin'' and wondered how Rand was ever able to control it. When Rand "ripped" control of the circle away from her, he was able to touch ''saidar'' and, unbelieving of Nynaeve's warning that ''saidar'' could not be controlled, only guided, he immediately tried to control ''saidar'' like he did ''saidin,'' and felt like he was being pulled into a thick, slow-moving stream with eddies and cross-currents pulling every which way. It was not until he could both surrender to ''saidar'' and dominate ''saidin'' that he was able to weave either half of the Source at all.
+
+Rand's strategy was to create a funnel of ''saidar'' from the Source of ''saidin'' to Shadar Logoth, and when he guided ''saidar'' to that goal, it created something he had not directly intended. Rather than a tunnel as he thought would appear, ''saidar'' was actually an intricate, flowery-looking shape which was a tunnel of infinite and zero distance only relative to the Source and Shadar Logoth; from any other vantage point, it looked nothing like a conduit. ''Saidin'' flowed very easily into the conduit, and the taint began to slide off of ''saidin'' into Shadar Logoth. Rand's theory was, that after channeling enough of ''saidin'' into the conduit, the taint would be drawn in its entirety towards a similar, yet polar opposite sort of taint; the evil residue of Shadar Logoth. After that, he would merely need to keep a steady flow of ''saidin'' going through the conduit, and the taint would automatically be pulled into Shadar Logoth so long as he kept ''saidin'' touched directly to the evil of the city. Fortunately, the plan worked exactly as predicted.
+
+In Shadar Logoth, a dome-like structure of black darker than black appeared, slowly rising out of the ground as if thick, viscous mud were being piled on the city. Towards the end of the battle, flames even darker than the mass of taint flashed throughout the bubble—Mashadar and the taint destroying each other. This created an immensely powerful whirlwind, sucking Moghedien towards the ruins, and left a gigantic crater sweeping the city.
+
+Six [[Rebel Aes Sedai]] who went to investigate the area afterward report that the crater left was "roughly circular hole in the ground... three and a half miles across and one and a half miles deep." The strength of the residues discovered are the impetus for their alliance with the [[Black Tower]].{{ref/book|10|19}}
+
+Near the end of {{ne|1000}}, it is believed that this process was entirely successful, although what it means for the [[Asha'man]] and other male channelers, not to mention the [[Red Ajah]], remains to be seen. By the end of the Last Battle, it seems as though the source being cleansed has been accepted by most, and the fear of male channelers by the general populace is beginning to fade.
+
+However, the cleansing of ''saidin'' was not without consequences. The female Choedan Kal access key was destroyed along with the statue on [[Tremalking]], home of the peacful [[Amayar]] who worshipped the statue. After the sa'angreal's destruction, all of the Amayar people on the island collectively committed mass suicide by poison. Since there was not enough poison, many had to take weaker poisons, resulting in many still being alive and able to tell to the [[Atha'an Miere|Sea Folk]] traders who arrived, though none of them would accept healing, saying that "the ending of all days" was upon them.{{ref/book|11|22}}
+
+''See also the [[Battle near Shadar Logoth]]''
+
+{{notes}}
+{{DISPLAYTITLE:Cleansing of ''saidin''}}
+[[es:Limpieza del Saidin]]
+[[Category:New Era]]

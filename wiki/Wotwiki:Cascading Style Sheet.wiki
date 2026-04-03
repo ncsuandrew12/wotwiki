@@ -1,0 +1,34 @@
+: ''moved from [[Current events]] on 10-25-2005. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+
+{{proposed}}
+__TOC__
+==Logo==
+''Moved to [[Wotwiki:Logo]] to be more concise.'' -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 00:51, September 23, 2009 (UTC)
+
+==Stylesheet==
+* What about a stylesheet, beyond just monobook? Something that will blend the colors of the logo and wiki.png would be nice... --[[User:Nae'blis|Someone other than Gherald]]
+** link here to other MediaWikis that are using a style we may want to base ours off  [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+
+* How about a different colored link -- such as green -- for interwiki links to Wikipedia?  Perhaps accomplished by means of a template, e.g. <nowiki>{{wp|articlename}}</nowiki> instead of <nowiki>[[wikipedia:articlename|articlename]]</nowiki>.
+:*As an example of why this would be useful, suppose one were to write a "shawl" article about its significance to [[Aes Sedai]].  In it, one might want to link to [[Wikipedia:Shawl]] as simply [[Wikipedia:Shawl|shawl]].  A different color would help signal what the link was for; it might be confusing otherwise. --[[User:Gherald|Gherald]]
+
+::* This could be cool, but I'm a little shaky on how well all of the CSS options play together on MediaWiki sites. I know we can make links to wot.wikicities.com different from interwiki different from external links, but you want one specifically for linking to Wikipedia? I can't think what other interwiki links we'd be likely to use on a regular basis... however I'm pretty sure there's already the capability to make interwiki links a different color, you just have to be careful with how you define them (otherwise you get so many different colors going, it's like the Rainbow Connection - or else they're all too similar to be useful). Dark green for unvisited, medium green for visited/active, maybe? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 21:04, 24 Oct 2005 (UTC)
+::::Actually I was thinking a slightly brighter green for unvisited and darker for visited, since for regular links blue is brighter than purple.  Whether it applies to just Wikipedia: or all interwikis isn't of much concern to me, since I think 98% of our links will be to WP. What do you mean by "active"? --[[User:Gherald|Gherald]] 21:14, 24 Oct 2005 (UTC)
+
+::::: CSS defines four states for href links: 'link' (unvisited), 'visited', 'hover' (mouseover), and 'active' (clicked, but haven't released the mouse button yet). I don't find much use to a:active, but I like your point of making a:visited darker, like the purple. 'hover' could be slightly bluer... let me mock something up here real quick: 
+::::: http://tinypic.com/eziv6f.png
+::::: The last two are not as pretty a shade, but they're also the least often seen. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 21:56, 24 Oct 2005 (UTC)
+:::::: Oh, I see.  Well regular links seem to use the same color for "hover" as "link" (hover may just be undefined, I guess), so lets do the same.  Active is orange for regulars, so lets just use the same orange color for that.
+:::::: My main suggestion is to try and get the overall brightness as perceived by the human eye to be very similar to regular links for the 'unvisited' and 'visited' states.
+
+::::::: Okay, I'll ask my wife the artist about hue matchers, too. Are you any good at CSS, or should we put this on the general to-do list? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 22:24, 24 Oct 2005 (UTC)
+:::::::: I know enough to be dangerous ; )  Keeping it here is fine though, this is part of the todo list. --[[User:Gherald|Gherald]] 22:28, 24 Oct 2005 (UTC)
+[[Category:todo]]
+
+::::::::: Okay, try this; it's the same value, different hue, as the regular links. The ones in the top right are the proposed colors, for normal, hover/active, and visited. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 01:32, 27 Oct 2005 (UTC)
+:::::::::
+
+==Stylesheet changes==
+So I want to make a 2nd image below the symbol and maybe change the image to symbol and be able to display a image of the character from the comic book. Like this one of rand.  So how do I access these?--[[User:Optimous|Optimous]] 22:48, 2 August 2009 (UTC) 
+:If I understand what you're asking, it sounds like that would be a change to [[template:character]], not the Stylesheet for the whole wiki. If it's locked, I can edit it, '''but''' we'd have to go through and change all the old image= links to avoid breaking everything. What about using photo= or portrait= ? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 00:56, September 23, 2009 (UTC)
+[[Image:Rand.png|frame|center]]

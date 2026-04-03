@@ -1,0 +1,4 @@
+Redirect pages that go to real articles in this wiki. 
+
+Please categorize under the listed sub-categories.
+[[Category:Administrative| Redirects]]

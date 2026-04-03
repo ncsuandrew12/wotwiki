@@ -1,0 +1,7 @@
+{| align=center border=0 cellpadding=3 cellspacing=3 style="border: 1px solid #E0E0E0; background-color: #242424"
+|- align=center
+|<big>This page is a ''proposed'' [[:Category:Policies|policy, guideline, or process]] for '''''{{SITENAME}}''''' </big>
+The proposal may still be in development, under [[{{NAMESPACE}} talk:{{PAGENAME}}|discussion]], or in the process of gathering [[Wikipedia:Wikipedia:Consensus|consensus]] for adoption.
+|}<includeonly>
+[[Category:Proposals|{{PAGENAME}}]]</includeonly><noinclude>
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

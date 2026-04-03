@@ -1,0 +1,2 @@
+<includeonly>{{#if:{{{text|{{{1|}}}}}}{{{name|{{{2|}}}}}}|<span class="references-footnote">{{#if:{{{name|{{{2|}}}}}}|{{#tag:ref|{{{1|{{{text|}}}}}}|name="{{{name|{{{2|}}}}}}"}}|{{#tag:ref|{{{text|{{{1|}}}}}}}}}}</span>|{{Err|{{tl|ref}} was invoked without any parameters!}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

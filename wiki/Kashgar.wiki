@@ -1,0 +1,26 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| nationality=Saldaean
+| gender=Male
+| affiliation= Children of the Light
+| occupation=Soldier
+| rank=Under-Lieutenant
+| build=Lean
+| status=Alive
+| appeared={{kod|p}}
+| lastappeared={{kod|p}}
+| living=kod
+}}
+'''Kashgar''' is a member of the [[Children of the Light]].
+
+==Appearance==
+He is almost boyish, despite a great hooked nose and thick mustaches like inverted horns. He is lean.
+
+==History==
+He is young and from [[Saldaea]] and holds the rank of Under-Lieutenant.
+
+==Activities==
+[[Eamon Valda]] removes his helmet and offers it to be taken away. When no one volunteers, Kashgar steps forward and Valda hand him his sword belt too. This is slightly demeaning for an officer, though nobody else appears to be willing to help Valda prepare for his duel against [[Galad Damodred]].
+
+After Valda is slain, he wipes blood from the heron-marked blade on Valda's coat, sheathes it and presents it to Galad. He addresses him as [[Lord Captain Commander]].

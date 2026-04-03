@@ -1,0 +1,7 @@
+'''Bladetusks''', also called ''[[lanra]]'', are a type of pig endemic to the [[Aiel Waste]]. They are aggressive, usually solitary creatures that have been known to circle back and wait in ambush for hunters.{{ref/book|beasts|Bladetusk}}
+
+[[Egwene]] observed [[Amys]] hunting a boar in the Aiel Waste{{ref/book|4|11}} but its description most closely matches a ''[[pecara (animal)|pecara]]'' rather than a ''lanra.''{{ref/book|beasts|Pecara}}{{ref/book|beasts|Bladetusk}}
+{{notes}}
+{{short}}
+[[Category:Animals]]
+[[Category:Aiel Waste]]

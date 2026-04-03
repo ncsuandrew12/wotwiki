@@ -1,0 +1,7 @@
+'''[[Accepted]]''' are those who have been partially trained but not yet raised to the rank of [[Aes Sedai]]. While they have certain privileges that are not available to them as [[novice]]s, their studies are even harder, and they are required to teach [[novice]] classes as well. They may not leave [[Tar Valon]] unless they are sent away, or with explicit permission.
+
+This list indexes all characters who have ever reached the rank of accepted without becoming Aes Sedai, whether by being Accepted at the dawn of the [[Fourth Age]], by failing their test for the shawl, or by dying while Accepted.
+
+Full Aes Sedai sisters are not listed in this index, though they were once Accepted themselves. Their status as a full sister supersedes the Accepted category.  Likewise, Accepted are not listed with the Novice tag, as their status supersedes the lower category.
+[[Category:Tower initiates| Accepted]]
+[[Category:Sort option categories]]

@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Miscellaneous
+| Description        = An ''[[Asha'man]]'' performing the [[Strike of Death]]
+| Source             = ''[[The Wheel of Time Roleplaying Game]]''
+| Artist             = Sam Wood
+}}
+[[Category:Featured images]]

@@ -1,0 +1,24 @@
+{{ character 
+| image=ShienarFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Shienaran
+| occupation=Shatayan
+| affiliation=Easar Togita
+| gender=Female
+| build=Slim
+| hair=Long, black with two thin white streaks
+| appeared={{Tpod|p}}
+| lastappeared={{tpod|p}}
+| living=tpod
+}}
+'''Alesune Chulin''' is the ''[[shatayan]]'' of [[Fal Moran]] Palace.
+
+==Appearance==
+She is slim and fiery, and has long black hair with two thin white streaks.
+
+==Activities==
+Alesune Chulin is part of King [[Easar Togita]]'s escort to the meeting of the [[Borderland]] rulers.
+
+{{short}}
+{{DEFAULTSORT:Chulin, Alesune}}

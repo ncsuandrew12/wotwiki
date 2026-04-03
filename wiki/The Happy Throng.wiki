@@ -1,0 +1,17 @@
+'''The Happy Throng''' is an inn in [[Caemlyn]]. It is owned by Master [[Denezel]].
+
+==Appearance==
+The sign shows faces with strange hats and exaggerated smiles. There is a portrait of [[Rand al'Thor]] in the common room.
+
+==Activities==
+As [[Perrin Aybara]] is moving his forces through a [[gateway]], [[Matrim Cauthon]] finds him and tells him to meet at the inn in the city.{{ref/book|13|44}} There, Mat, Perrin, and [[Thomdril Merrilin]] tell eachother their stories in a private dining room, and are served wine by Master Denezel.{{ref/book|13|47}} All three men plan to join up again at The Happy Throng after Mat and Thom return from the [[Tower of Ghenjei]].{{ref/book|13|53}}
+
+==Parallels==
+Based on private communications recieved by the [[Encyclopaedia WoT]] website, many of the patrons of The Happy Throng have a facination with [[Dragonsworn]] and [[Dragonmount]], all instigated by Master Denezel. The inn is based on  [http://www.dragonmount.com Dragonmount.com], and Master Denezel is a tribute to [http://www.dragonmount.com/forums/user/2-jason/ Jason Denzel], webmaster of the happy throng over at Dragonmount.com.
+
+{{notes}}
+{{DEFAULTSORT:Happy Throng, The}}
+[[Category:Inns]]
+[[Category:Parallels]]
+[[Category:Andor]]
+[[Category:Caemlyn]]

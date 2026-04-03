@@ -1,0 +1,15 @@
+{{Character
+| image=MurandyFlag.png
+| imagesize=250px
+| occupation=Baker (possibly)
+| nationality=Murandian
+| gender=Female
+| status=Unknown
+| appeared=
+| lastappeared={{tgs|28}}
+| living=tgs
+|mentioned ={{tgs|28}}
+}}'''Martna Baily''' is a possibly fictional character from [[Hinderstap]] that Mat claims bakes fresh pies daily.
+
+{{DEFAULTSORT:Baily, Martna}}
+[[Category:Short pages]]

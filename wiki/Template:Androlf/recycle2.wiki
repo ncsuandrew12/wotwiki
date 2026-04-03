@@ -1,0 +1,7 @@
+<includeonly>{{#switch: {{{1|{{random1|1}}}}}
+|1={{quote|Till shade is gone, till water is gone, into the Shadow with teeth bared, screaming defiance with the last breath, to spit in [[Sightblinder]]'s eye on the Last Day.|[[Loial]] recounting an [[Aiel]] saying{{ref/book|1|36}}}}
+}}</includeonly><noinclude>
+{{documentation}}
+[[Category:Quotation templates|{{PAGENAME}}]]
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Jaichim Carridin]] talking to a [[Myrddraal]].
+| Source             = ''[[The Prophecies of the Dragon]]''
+| Artist             = Adam Rex
+}}
+[[Category:Featured images]]

@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fair Use
+| ImageType1              = Fan Art
+| ImageType2              = Character
+| Description             = Fan art for [[Elayne Trakand]] by ReddEra
+| Source                  = http://reddera.deviantart.com/
+| Artist                  = Ariel Burgess
+}}

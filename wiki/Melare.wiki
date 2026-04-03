@@ -1,0 +1,32 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Andoran
+| gender=Female
+| affiliation=The Shadow
+| rank=Aes Sedai
+| eyes=Bright blue
+| build=Plump
+| status=Unknown
+| appeared={{kod|p}}
+| lastappeared={{amol|14}}
+| lastmentioned={{amol|14}}
+| living=amol
+}}
+'''Melare''' is an [[Aes Sedai]] of the [[Red Ajah]].
+
+== Appearance ==
+She is a plump [[Andoran]] with ample hips, bright blue eyes,and thick black eyebrows. Her mouth looks like she is ready to smile.
+
+== History ==
+She is a slightly atypical Red sister in that she does not seem to despise men - in fact she sends money back to [[Andor]] for her grandnephews' education. This implies that Melare is not a very old Aes Sedai.
+
+== Activities ==
+Melare, along with [[Arebis]], [[Desala Nevanche]], [[Zanica]], and three other Aes Sedai, were involved in the capture of [[Leane Sharif]] at [[Tar Valon#Northharbor|Northharbor]]. She did not quite approve of Desala beating Leane, even if she was claiming to be Aes Sedai. 
+
+She was also sent, along with [[Pevara Tazanovni]], [[Javindhra Doraille]], Desala, [[Jezrail]], and [[Tarna Feir]], to the [[Black Tower]] to put the proposition of Red sisters [[bonding]] [[Asha'man]] as [[Warder]]s to [[Mazrim Taim]]. He has agreed to this. Melare was chosen because she supports her nephews; indicating that, unlike most Reds, she does not hate men.
+
+After some time in the Black Tower, Melare and all of her sisters but Pevara had been [[Turning|Turned]] to the [[Shadow]]. When Pevara and [[Androl Genhald]] led the attack to free the Black Tower, she fought with Taim and his lackeys. It is unknown if she escaped with Taim or if she was killed by Androl's gate.
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:The Turned]]

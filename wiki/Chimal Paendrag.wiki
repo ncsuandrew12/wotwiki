@@ -1,0 +1,18 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| death={{ne|1000}}
+| nationality=Seanchan
+| gender=Female
+| status=Dead
+| mentioned={{kod|11}}
+| lastmentioned={{kod|11}}
+}}
+'''Chimal''' was one of Empress [[Radhanan]]'s children.
+
+== Activities ==
+She carried out a number of plots to kill her sister [[Tuon Athaem Kore Paendrag]].{{ref/book|11|11}} She was murdered with the rest of her family by [[Semirhage]].{{ref/book|11|p}}
+
+{{notes}}
+[[Category:The Blood]]
+{{DEFAULTSORT:Paendrag, Chimal}}

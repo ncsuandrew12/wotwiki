@@ -1,0 +1,38 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| gender=Female
+| title=[[High Lady of Tear]]
+| affiliation=The Dragon Reborn
+| build=Lean
+| height=5'7" (170 cm)
+| status=Alive
+| eyes=Blue 
+| appeared={{tpod|13}}
+| lastappeared={{tpod|21}}
+| living=tpod
+}}
+'''Rosana Emares''' is a newly-raised [[High Lady]] of [[Tear]]. Her House is represented by the ''Hawk-and-Stars''.{{ref/book|8|13}} 
+
+== Appearance and Personality ==
+She is lean, with eyes like blue ice.{{ref/book|8|13}} She is 5'6" or 170&nbsp;cm tall, lanky and has a wide nose. She is a blunt woman.{{ref|{{twotc}}, Rosana Emares|comp}} Rand thinks her no fool and she appears invested in the Dragon Reborn's welfare.{{ref/book|8|13}}
+
+==History==
+She is from [[House Emares]].{{ref||comp}}
+
+She led her armsmen herself, rather than using a Master of the Horse, though she did not actually go into battle. She had a helmet and breastplate and a flanged mace which she could use.{{ref/book|8|13}}{{ref||comp}} 
+
+== Activities ==
+Rosana likely became a High Lady sometime in 999 or early {{ne|1000}} as Tear only recently suffered casualties among the High Lords and Ladies. 
+
+She goes with [[Rand al'Thor]] when Rand tries to deal with the [[Illian]] rebels loyal to Lord Brend.{{ref/book|8|13}} She warns Rand against meeting with the rebels as it "only takes one arrow to kill the Dragon Reborn" amd is shocked to see [[Demetre Marcolin]], an Illianer, agrees with her.
+
+She is not intimidated by [[Asha'man]]. Rosana told [[Eben Hopwil]] that he needed fattening, ordered [[Jonan Adley]] to stop slouching and asked whether Aes Sedai had approved their grim coats. She listened to the story of Dumai’s Wells as if examining a possibly counterfeit coin.{{ref||comp}} 
+
+Rand sends a force led by her to raise havoc on any bandits or [[Shaido]] present around Illian. She appears thoughtful on how Rand decided who to send away and who to keep close.{{ref/book|8|21}} She remained in Illian to keep the peace.{{ref||comp}} 
+{{ref/book|8|21}}
+
+{{notes}}
+
+[[Category:Nobility]]

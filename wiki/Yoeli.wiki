@@ -1,0 +1,27 @@
+{{Character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| affiliation=Saldaea
+| gender=Male
+| status=Dead
+| death={{ne|1000}}
+| occupation=Soldier
+| nationality=Saldaean
+| appeared={{tom|21}}
+| lastappeared={{tom|28}}
+| lastmentioned={{tom|32}}
+}}'''Yoeli''' was a [[Saldaean]] officer in [[Maradon]].{{ref|{{twotc}}, Yoeli}}
+
+== Appearance ==
+He had a lean face, a hooked nose and a set of bushy black eyebrows. He wore a short, trimmed beard.
+
+== Activities ==
+He took command of [[Maradon]]'s forces and saved [[Rodel Ituralde]] and the rest of his force just before they were wiped out by the [[Shadowspawn]] army. He now resides under the Traitor's Banner and looks to the day when he will be executed by the Queen. He visits Lord [[Vram Torkumen]] with Ituralde who names him [[Darkfriend]].
+
+Ituralde suggests to Yoeli that the city should be abandoned, but Yoeli convinces him that reinforcements should soon be arriving and to hang tight. Soon part of Maradon's wall is destroyed by enemy [[Dreadlord]]s. Ituralde starts to teach Yoeli warfare tactics when their forces decimate the leading invading [[Trolloc]]s in an ambush. He fought bravely after the [[Shadow]]'s forces entered the city and died valiantly. [[Davram t'Ghaline Bashere]] found a few of his soldiers guarding his body.
+
+== Trivia ==
+* Yoeli is named for Amir Yoeli, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

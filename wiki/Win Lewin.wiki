@@ -1,0 +1,25 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Male
+| build=Lanky
+| affiliation=Two Rivers
+| status=Alive
+| appeared={{tsr|32}}
+| lastappeared={{tsr|32}}
+| living=tsr
+}}
+{{dablink|For others with the same surname, see [[Lewin (disambiguation)|Lewin]].}}
+
+'''Win Lewin''' is a young boy from the [[Two Rivers]].{{ref|{{twotc}}, Win Lewin}}
+
+== Appearance ==
+He is lanky.{{ref/book|4|32}}
+
+== Activities ==
+Win is at [[Jac al'Seen]]'s farm when [[Perrin Aybara]] and his group visit. He tells everyone at the farm that Lord [[Luc]] has arrived.{{ref/book|4|32}}
+
+{{Notes}}
+{{Short}}
+{{DEFAULTSORT:Lewin, Win}}

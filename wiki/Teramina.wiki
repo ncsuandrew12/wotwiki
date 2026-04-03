@@ -1,0 +1,30 @@
+{{ character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Unknown nationality
+| gender=Female
+| rank=Aes Sedai
+| affiliation=White Tower
+| mentioned={{tgs|e}}
+| lastmentioned={{tgs|e}}
+| living=tgs
+| status=Alive 
+}}
+'''Teramina''' is an [[Aes Sedai]] of the [[Green Ajah]].{{ref|{{twotc}}, Teramina|Teramina}}
+
+== History ==
+She has been an Aes Sedai for years and is very weak in the [[One Power]].{{ref||Teramina}}
+
+== Activities ==
+She disappears from the [[White Tower]] after [[Egwene al'Vere]] becomes [[Amyrlin Seat]] and asks all Aes Sedai to re-swear the [[Three Oaths]] on the [[Oath Rod]]. This would put strong suspicion on her being [[Black Ajah]].
+
+Egwene thought Teramina might have been posing [[Mesaana]], but she had been in the White Tower for years.
+
+Another possibility is that she was taken ''[[damane]]'' after the [[Seanchan]] raid.
+
+{{notes}}
+{{short}}
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

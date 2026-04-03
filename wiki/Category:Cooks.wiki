@@ -1,0 +1,4 @@
+'''Cooks''' are people who prepare food.
+
+[[Category:Servants| Cooks]]
+[[Category:Sort option categories]]

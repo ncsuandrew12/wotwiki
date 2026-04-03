@@ -1,0 +1,30 @@
+{| cellpadding="2" padding:5px style="margin: 1em; border: 1px solid #aaa; font-size:90%; float:right; border-collapse:collapse;"
+| style="align: center; font-size:120%;" |[[Image:snake-icon.svg|center|125px]]<center>'''[[Forsaken|The&nbsp;Forsaken]]'''</center>
+|-
+| style="text-align: center;"|[[Aginor]]
+|-
+| style="text-align: center; background-color: rgb(135,135,135,.25);"|[[Asmodean]]
+|-
+| style="text-align: center;"|[[Balthamel]]
+|-
+| style="text-align: center; background-color: rgb(135,135,135,.25);"|[[Be'lal]]
+|-
+| style="text-align: center;"|[[Demandred]]
+|-
+| style="text-align: center; background-color: rgb(135,135,135,.25);"|[[Graendal]]
+|-
+| style="text-align: center;"|[[Ishamael]]
+|-
+| style="text-align: center; background-color: rgb(135,135,135,.25);"|[[Lanfear]]
+|-
+| style="text-align: center;"|[[Mesaana]]
+|-
+| style="text-align: center; background-color: rgb(135,135,135,.25);"|[[Moghedien]]
+|-
+| style="text-align: center;"|[[Rahvin]]
+|-
+| style="text-align: center; background-color: rgb(135,135,135,.25);"|[[Sammael]]
+|-
+| style="text-align: center;"|[[Semirhage]]
+|}<noinclude>
+[[Category:Templates]]</noinclude>

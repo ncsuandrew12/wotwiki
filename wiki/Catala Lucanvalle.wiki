@@ -1,0 +1,28 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| status=Dead
+| death={{ne|250}}
+| ajah=Yellow
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Catala Lucanvalle''' was an [[Aes Sedai]] of the [[Yellow Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|197}}. She was the first Amyrlin of the [[New Era]] to be raised from the Yellow.
+
+==History==
+Catala held the position for twenty-six years until her resignation in {{Ne|223}}. She was [[Kiyosa Natomo]]'s successor and [[Elise Strang]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Her resignation and retirement were, supposedly, of free will. The fact is that she was guarded until her death in {{ne|250}}. She had been a strong Amyrlin.
+
+When she retired, approximately half the [[Hall of the Tower|Hall]] resigned. These events were caused by one rebellion buried in the [[White Tower|Tower]]'s secret records.
+
+{{notes}}
+{{DEFAULTSORT:Lucanvalle, Catala}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

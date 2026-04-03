@@ -1,0 +1,21 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| status=Alive
+| appeared={{tgs|40}}
+| lastappeared={{tgs|40}}
+| living=tgs
+}}
+{{for|the similarly named [[Aiel]] [[Wise One]]|Tamela}}
+'''Tamala''' is a [[novice]] in the White Tower. 
+
+== Appearance ==
+She has a hawk nose.
+
+== Activities ==
+[[Egwene al'Vere]] [[Link]]s with her during the [[Battle of Tar Valon]].
+[[Category:Elaida a'Roihan's White Tower]]

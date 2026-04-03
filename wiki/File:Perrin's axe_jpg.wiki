@@ -1,0 +1,7 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Item
+| Description             = [[Perrin Aybara]] throws away his axe in disgust.
+| Source                  = The ebook cover for ''[[Crossroads of Twilight]]''
+| Artist                  = Greg Ruth
+}}

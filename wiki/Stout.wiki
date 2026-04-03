@@ -1,0 +1,21 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Dead
+| owner=Galadedrid Damodred
+| gender=Gelding
+| color=Bay
+| appeared={{Tpod|2}}
+}}
+'''Stout''' was the name of [[Galadedrid Damodred]]'s warhorse.
+
+==Appearance==
+Stout was a bay-colored gelding.{{ref/book|11|p}}
+
+==Activities==
+Stout carried Galad when the [[Lord Captain]] confronted [[Eamon Valda]].{{ref/book|11|p}} Stout was later led through a swamp and then ridden by Galad, who was [[Lord Captain Commander]] by that time, through a camp of the [[Children of the Light]].{{ref/book|13|p}}{{ref/book|13|4}} During a [[Trolloc]] attack on the camp, Stout was killed.{{ref/book|13|41}}
+
+{{notes}}
+{{short}}

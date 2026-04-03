@@ -1,0 +1,55 @@
+==TBM==
+TBM=To be made. I will go about making the articles for the featured article of the day and I will pick ones I think are good. I'm up for input though.--[[User:Optimous|Optimous]] 20:37, 4 August 2009 (UTC) 
+
+==Suggestions==
+We are open to any you may think.--[[User:Optimous|Optimous]] 20:33, 4 August 2009 (UTC)
+:Where are the criteria for these articles coming from? Are you just going through and looking for fairly complete ones? I haven't really figured out this new system, but we should probably start defining what makes something 'featured'. Here's a guess:
+:* No coding errors at time of selection.
+:* Infobox included and filled out, if available for that article type.
+:* Footnotes when appropriate, especially for 'lesser known' facts. We don't have to document that Rand is the Dragon Reborn, but we should probably document where he was born and when he met each applicable prophecy.
+:* Complete through [[Knife of Dreams]].
+: That's all for now, have to run to a meeting. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:59, September 23, 2009 (UTC)
+::Yeah I admittedly just chose 32 "Good looking" articles. We probably need more strict criteria. Enjoy the meeting ;)--[[User:Optimous|Optimous]] 16:03, September 23, 2009 (UTC)
+:::Also, is the "WOT:" coding special format for QOTD/Featured stuff? Or can I move these to project space ('''Wotwiki:''')? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:06, September 23, 2009 (UTC)
+::::Yeah I found that after I made those 2 WOT. Yeah go ahead and move them to Wotwiki:--[[User:Optimous|Optimous]] 16:10, September 23, 2009 (UTC)
+Ok so I am looking at other wiki's so we can actually have some sort of checklist that we go through to make sure it can be a featured article. Here is what I took from wookieepedia:
+
+#&hellip;be well-written and detailed.
+#&hellip;be unbiased, Neutral Point Of View.
+#&hellip;be sourced with all available sources and appearances.
+#&hellip;follow the Manual of Style, Layout Guide, and all other policies on WoT Wiki.
+#&hellip;following the review process, be stable, i.e. it does not change significantly from day to day and is not the subject of ongoing edit wars. This does not apply to vandalism and protection or semi-protection as a result of vandalism.
+#&hellip;not be tagged with any sort of improvement tags (i.e. more sources, expand, etc).
+#&hellip;have a proper lead that gives a good summary of the topic and can be used for the front page featured box.
+#&hellip;have no more than 3 redlinks and none in the introduction, infobox, or any templates.
+#&hellip;have significant information from all sources and appearances, especially a biography for character articles.
+#&hellip;not have been previously featured on the [[Main Page]]. Otherwise, it can only be restored to featured status.
+#&hellip;be completely referenced for all available material and sources. See Sourcing for more information.
+#&hellip;have all quotes and images sourced.
+#&hellip;provide at least one quote on the article. A leading quote at the beginning of the article will be required only if there is quotable dialogue by or about the subject. Although quotes may be placed in the body of the article, a maximum of one quote is allowed at the beginning of each section.
+#&hellip;include a "personality and traits" section on all character articles.
+#&hellip;include a "powers and abilities" section on all relevant character articles, especially for Force-sensitive characters where said powers and/or abilities are stipulated. 
+#&hellip;include a reasonable number of images of sufficient quality to illustrate the article, if said images are available. 
+#&hellip;pass review by the Inquisitorius review panel.
+#&hellip;counting the introduction and "Behind the scenes" material, be at least 1000 words long (not including captions, quotes, or headers, etc).
+
+--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 23:46, November 1, 2010 (UTC)
+
+:I think that most of these would be fine. I don't think we have any kind of panel like their Inquisitorious panel. Maybe a check by one of the admins? Is that 1,000 word bar going to limit us is the amount of articles that we can feature? Other than that, really great! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 00:57, November 2, 2010 (UTC)
+
+::I would say make it a byte amount not a word count amount.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 01:49, November 2, 2010 (UTC)
+
+Here is the revised version: 
+#&hellip;be well-written and detailed.
+#&hellip;be unbiased, Neutral Point Of View.
+#&hellip;be sourced with all available sources and appearances.
+#&hellip;not be tagged with any sort of improvement tags (i.e. more sources, expand, etc).
+#&hellip;have no more than 5 redlinks and none in the introduction, infobox, or any templates.
+#&hellip;have significant information from all sources and appearances, especially a biography for character articles.
+#&hellip;be completely referenced for all available material and sources.
+#&hellip;have all quotes and images sourced.
+#&hellip;include a "Appearance" and "Activities" section on all character articles.
+#&hellip;include a reasonable number of images of sufficient quality to illustrate the article, if said images are available. 
+#&hellip;must be atleast 2.500 bytes in size.
+--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 23:20, November 2, 2010 (UTC)
+:Looks great! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 02:16, November 3, 2010 (UTC)

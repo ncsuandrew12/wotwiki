@@ -1,0 +1,34 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Domani
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| status=Alive
+| appeared={{loc|55}}
+| lastappeared={{loc|55}}
+| lastmentioned={{wh|13}}
+| living=wh
+}}
+'''Chisaine Nurbaya''' is an [[Aes Sedai]] of the [[Red Ajah]]. 
+
+==History==
+She is from [[Arad Doman]].
+
+==Activities==
+She was on the [[White Tower]] secret expedition to kidnap [[Rand al'Thor]] led by [[Galina Casban]].
+
+She was captured by the [[Asha'man]] at the [[Battle of Dumai's Wells]]{{ref/book|6|55}}.
+
+Chisaine Nurbaya, [[Janine Pavlara]], [[Innina Darenhold]] and [[Vayelle Kamsa]] are the last four of the prisoners to swear fealty to Rand{{ref/book|9|13}}. They did so under [[Verin]]'s [[Compulsion]].
+
+As did many Aes Sedai sworn to Rand, Chisaine probably fought the [[Last Battle]] on the slopes of [[Thakan'dar]]{{ref/book|14|34}}. It is not stated whether she survived or not the battle.
+
+{{notes}}
+
+{{DEFAULTSORT:Nurbaya, Chisaine}}
+[[Category:Rand's Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Cairhien expedition]]

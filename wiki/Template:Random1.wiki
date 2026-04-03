@@ -1,0 +1,3 @@
+<includeonly>{{#expr:((({{random|{{{1|100}}}-1|{{{2|82365862}}}|{{{3|67}}}}} + 1)))}}</includeonly><noinclude>
+{{documentation}}
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

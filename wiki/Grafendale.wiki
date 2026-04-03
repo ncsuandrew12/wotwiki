@@ -1,0 +1,12 @@
+'''Grafendale''' is a location mentioned by [[Androl]].
+
+Androl compares the design and layout of the [[Black Tower]]'s village to Grafendale.{{ref/book|13|46}} It is almost certainly a village or town in [[Andor]].
+
+{{quote|Here, clusters of two-storied buildings were arranged much like any small town in Andor. Peaked roofs, thatched, with straight wooden walls, some stone and brick as well. A double line of them ran down the center of the village. Looking only at those, one might have thought he was strolling through [[New Braem]] or Grafendale.|Androl||{{ref/book|13|46}}}}
+
+{{notes}}
+{{short}}
+[[Category:Places]]
+[[Category:Towns]]
+[[Category:Villages]]
+[[Category:Andor]]

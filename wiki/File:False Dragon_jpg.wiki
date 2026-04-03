@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = The [[False Dragon]], [[Logain Ablar]], taken through the city of [[Caemlyn]].
+| Source             = ''[[The Wheel of Time Roleplaying Game]]''
+| Artist             = Michael Dubisch
+}}
+[[Category:Featured images]]

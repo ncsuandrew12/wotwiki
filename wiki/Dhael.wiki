@@ -1,0 +1,19 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| society=Far Dareis Mai
+| clan=Unknown clan
+| sept=Unknown sept
+| status=Alive
+| mentioned={{tdr|39}}
+| lastmentioned={{tdr|39}}
+| living=tdr
+}}
+'''Dhael''' is an [[Aiel]] [[Maiden of the Spear]].
+
+==Activities==
+Dhael is one of the Maidens with [[Rhuarc]] in [[Cairhien]] near the [[River Erinin]].{{ref/book|3|39}} After [[Elayne Trakand]], [[Nynaeve al'Meara]], and [[Egwene al'Vere]] had been abducted by [[Adden]], [[Aviendha]] found [[Luaine]] and Dhael and rescued the women.
+
+{{notes}}
+{{short}}

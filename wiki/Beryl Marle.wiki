@@ -1,0 +1,28 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|533}}
+| ajah=White
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Beryl Marle''' was an [[Aes Sedai]] of the [[White Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|520}}.
+
+==History==
+Beryl Marle held the position for thirteen years until her death in {{Ne|533}}. She was [[Igaine Luin]]'s successor and [[Eldaya Tolen]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Beryl is described as a weak Amyrlin, a compromise candidate chosen after the [[Hall of the Tower|Hall]] had deadlocked on others; she turned out to have little interest in the world at all, so the [[White Tower|Tower]]'s influence waned considerably during her rule.
+
+During her reign, the Tower's last known [[Dreamer]] prior to [[Egwene al'Vere]], [[Corianin Nedeal]], died. {{Ref/book|3|21}}
+
+{{notes}}
+{{DEFAULTSORT:Marle, Beryl}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

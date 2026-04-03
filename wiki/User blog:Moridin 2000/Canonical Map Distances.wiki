@@ -1,0 +1,173 @@
+__TOC__
+
+= Short Version (tables only) =
+If you want to have a list of distances between destinations and are not interested in the details of how they were calculated, here are the tables:
+==Distances in Miles==
+[[File:Miles.png|825px|Distance between capital cities and important locations in miles.]]
+==Distances in Kilometres==
+[[File:Distances in kilometers.png|825px|Distances between capitals and important locations in kilometres.]]
+==Distances in Westlands Miles==
+[[File:Distances in WL Miles .png|825px|Distances between capitals and main locations in in-world miles.]]
+The distances in the books differ from those used in real life. See the "Units of Measurement" section below and [[measurement|unit of measurement page]].
+=Long Version =
+If you are looking at this section, you probably have some questions about how accurate the above is or have spotted a discrepnancy of some kind. The tables are best guesses designed to be most consistent with all the information we have in the books. Everything is described in detail below.
+
+==Problems in Measuring Distances==
+The maps used in the Wheel of Time do not contain any scale and references to distances within the books seldom shed any light on the overall size of the world. The following problems occur when trying to find a consistent size for the world.
+
+*'''Unreliable narrator''': When a character thinks about how far two locations are from one another, are they accurate? We take it on trust that whenever a distance is quoted, Jordan is speaking directly to the reader with accurate values, but maybe they are just guessing. At one point, Nynaeve says “Whitebridge is five or six hundred miles from [Samara] at least".{{ref/book|5|33}} She doesn't seem sure and it's possible that other chracters are also simply guessing.
+
+*'''Cities vs Nations''': Some countries are named after their capital city. If a distance between Cairhien and Tear is quoted, is this the distance between the cities, the borders of the nations or a city and a nation? Context provides clarification, but not in all cases.
+
+*'''Lack of Fixed References''': Not all locations appear on the canonical maps. In order to use a quoted distance as a metric, we need to know the exact location of both places. Egwene describes people "returning with messages and wicker cages of pigeons from the dovecotes in Salidar, a good five hundred miles west and south as the goose flew."{{ref/book|7|9}} Since we don't know of the location of where she currently is, we can't use it to define a scale. Once the scale is defined, however, we can use it to locate her.
+
+*'''Rounding errors and other approximations''': If a distance of 500 miles is quoted, it's likely this is to the closest hundred miles and could be anywhere in the range of 450-550 miles. Similarly, distances quoted in hundreds of leagues, it could be within 50 leagues of that (or 200 miles). Other times, it may be that a location is "almost" or "at least" so many miles. What is the margin of error in these cases?
+
+*'''Ambiguous metrics''': Sometimes a character will say a location is so many miles north of where they are. They may mean that it is directly north by that distance, that the northern component of the direction is that far or that it is that many miles as the crow flies but not due north per se. This is more difficult to interpret if the two locations on the map are certainly not north or south of one another.
+
+*'''Author errors''': It's possible some quotations are not correct distances and inconsistent with the rest. It's not something Jordan may have thought about much so he went with whatever numbers felt right without consulting a map or doing calculations. 
+
+*'''Vague or idiomatic expressions of distance''': There are many quotes where distances are given as "a few hundred" miles, which are useless to base a scale on. Likewise, when Mat says they could be "a thousand miles away"{{ref/book|1|26}} does he mean that literally or just a very long way away?
+
+==Units of Measurement==
+The distances quoted in the books are always in [[measurement|Westland Miles]] (we will use the shorthand WL miles), which are slightly larger than miles in real life. As we can safely say that feet are the same in both worlds as heights quoted in the books in feet match those given in feet in the Companion.
+
+A WL mile is 6000 feet, compared to 5280 feet for a mile in our world. This is 1.136 miles or 1.828 km.
+
+==Useful distances==
+
+We will list distances and margins of error here so that we can place each on a map and then attempt to standardise. Brandon Sanderson tends to be a lot more vague about distances than Jordan, probably because he is as confused as the rest of us!
+
+===Canluum to Tar Valon=== 
+
+"Siuan was supposed to be 600 miles away in Tar Valon." {{ref|New Spring (short story version)}}
+
+This only appears in the short story version of [[New Spring]] and the distance is not used in the full novella. We give lower/upper estimates of 550/650 WL miles.
+
+===Tar Valon to the Sea===
+
+"The Atha'an Miere disliked being very long away from salt water, and the nearest sea to Tar Valon lay four hundred leagues to the south." {{ref/book|0|3}}
+
+We assume this to be between 350 and 450 WL leagues (1400-1800 WL miles) due to rounding errors.
+
+===Canluum to Tear===
+"It had pulled at [Lan] in the south, in Cairhien and Andor, even in Tear, almost five hundred leagues distant."{{ref/book|0|15}}
+
+Note that this is the nation, not the city as he quotes Andor rather than a city. Using the distance to the city causes this estimation to be an outlier and inconsistent with other known distances. We use a range of 450-500 WL leagues (1800-2000 miles).
+
+===City of Tear to Spine of the World===
+
+"The Dragonwall Gate. You would think the Spine of the World was just over the horizon, instead of a hundred leagues or more off."{{ref/book|4|18}}
+
+This is a vague measurement as it's not clear from published maps where exactly the closest part of the Spine of the World is from Tear. The original map from the books has the Spine of the World hugging the Tairen border to the east and north, whereas maps in the [[The World of Robert Jordan's The Wheel of Time]] and various fanmade maps have it a little away from the Tairen border and also extending a shorter distance along the northern border. We measure using this original map and estimate a range of 100-120 WL leagues (400-480 WL miles).
+
+[[File:WoT Map.jpg|400px|Original map from books]]
+
+===Taren Ferry to Baerlon===
+
+"They would be spreading the word of what had happened here, what was happening in the Two Rivers. Some could have reached Baerlon by now, a hundred miles or more north, and surely the farms and villages between Baerlon and the river." 
+
+Perrin is on the dock of Taren Ferry shortly before thinking this, but we would also assume he means at least 100 WL miles from the start of the Two Rivers which by definition is anything south of the river Taren. We estimate 100-120 WL miles from that location to Baerlon.
+
+===Tar Valon to Salidar===
+
+"I am not so frail as you seem to think," Siuan protested. "If I were, could I have followed you nearly two thousand miles?" {{Ref/book|5|27}}
+
+We will assume this to be in the range 1800-2000 WL miles. The location of Salidar is not known exactly although it is "In Altara. The Eldar is about a mile to the west. Amadicia is on the other side."{{ref/book|5|26}} It's also not certain if Siuan means distance as the crow flies or counting how far she actually travelled by road.
+
+=== Tairen border to Caemlyn ===
+
+"The tent's dim interior was hot enough to make Caemlyn, some eight hundred miles or so north, seem pleasantly cool.... An army had gathered here on the border of Tear, on the edge of the Plains of Maredo, thousands upon thousands of soldiers from Tear and Cairhien." {{Ref/book|6|4}}
+
+We will interpret this to be the northward component of the distance between the city of Cairhien and the edge of the Tairen border facing Illian (they are preparing an invasion of Illian at this point). We also give a margin of error of 750-850 WL miles.
+
+===Aringill to the Sea===
+
+"On the other side of the river the Atha'an Miere delegation vanished up the dock with an escort of guardsmen. The whole thing made no sense. Sea Folk nine hundred miles from the sea." {{Ref/book|6|5}}
+
+We can measure this to the nearest coastline and give lower/upper estimates of 850/950 WL miles to anticipate rounding errors.
+
+===Caemlyn to City of Cairhien===
+
+"a slash of light that rotated, widening to give a view of an empty dark-paneled chamber more than six hundred miles from Caemlyn, in the Sun Palace, the Royal Palace of Cairhien. " {{Ref/book|6|17}}
+
+We interpret this as being more than 600 WL miles but strictly less than 700 WL miles.
+
+===City of Cairhien to Ghealdan===
+
+"'This is Ghealdan.' Murmurs of awe, and maybe disbelief, at having crossed fifteen hundred miles or more in a step." {{Ref/book|7|27}}
+
+We interpret this as being at least 1500 miles to the closest border of Ghealdan from the city of Cairhien with the 1500 WL mile mark as being up to 10% closer. Perrin does not know exactly where in Ghealdan he is being sent.
+
+===Width of Kabal Deep===
+
+"Between Arran Head and the city of Illian lay a hundred leagues of open water, across the mouth of Kabal Deep." {{ref/book|8|14}}
+
+Illian is not on the coast of Kabal Deep, so we interpret this to be the distance between Illian and Arran head that is over water. We estimate as this being between 90-110 WL leages (360-440 WL miles).
+
+By the coast, the distance would be twice as much:
+
+"Marching around the Deep was a route of two hundred leagues to reach the city, even keeping to the shortest ways."{{ref/book|8|14}}
+
+This is difficult to measure, but assuming a margin of error of 10%, we would expect this to be 180-220 WL leagues (720-880 WL miles).
+
+===Abila to City of Cairhien===
+
+"So there would be no Traveling, no quick leap to Cairhien through a gateway made by one of the Asha'man, no matter how Perrin had tried to bring Masema around. They would have to ride the whole four hundred leagues or more, through the Light alone knew what."{{Ref/book|9|1}}
+
+[[Abila]] is in northern Amadicia. Although the exact location isn't known, the range 400-450 WL leagues (1600-1800 WL miles) gives some wriggle room.
+
+===Northern Amadicia to Kinslayer's Dagger===
+
+"They should all be bottled up in Kinslayer's Dagger, five hundred leagues distant." {{Ref/book|9|6}}
+
+[[Kinslayer's Dagger]] is to the north-east of the city of Cairhien slightly north of the national border. We assume a range of 475-525 WL leagues (1900-2100 WL miles).  We reuse Abila as the reference point for northern Amadicia and a point close to the end of Kinslayer's Dagger as the second reference point.
+
+==Map of Above Distances==
+
+The maps below show the distances and margins of error above. If a distance is a minimum of 1500 WL miles, the bands mark the possible location of the 1500 mile mark. If the true distance was 1800 miles, the 1500 mile mark would therefore be closer. Other rabges are treated similarly by showing the possible location of the fixed distance.
+
+[[File:DistancesMap1.png|center|600px]]
+<br />
+[[File:DistancesMap2.png|center|600px]]
+
+==Rescaling==
+
+The above descriptions necessarily have margins of error. To achieve a more consistent canonical scale, we combine all this information by rescaling the lengths and errors to a standard distance of 1000 miles
+[[File:Distance comparison.png|center|600px|All above distances with error margin scaled to 1000 WL miles. Lower and upper bounds and average for each shown. Distances in red are errors in the books.]]
+<br />
+[[File:CorrectedDistances.png|center|825px|Quoted distances and error margins compared with derived scales. We use this to compute the tables using the average value of consistent scale range.]]
+
+==Errors==
+
+There are a couple of distances that don't seem to fit, both from [[The Eye of the World]]. It would appear that Robert Jordan had not yet considered the scale of the Westlands by this point.
+
+=== Emond's Field to the Great Blight ===
+
+"Boy, I expect to fight Trollocs along the Great Blight, but not here, nearly six hundred leagues to the south. That was as hot a raid last night as I'd expect to see in Shienar, or any of the Borderlands. {{Ref/book|1|8}}
+
+This is roughly the distance from Emond's Field to southern Shienar as the crow flies, not due north. The Great Blight is much closer. Lan also thinks of Canluum as being less than five hundred leagues from Tear, yet Tear is a lot further south than the Two Rivers. Clearly both of these cannot be true, but the second is compatible with other distances. A corrected version woulf be "nearly six hundred leagues from Tarwin's Gap".
+
+===Caemlyn Road to Illian===
+
+""I say we sneak back to the boat and take Captain Domon up on his offer. The hunt will center on the road to Caemlyn while we're on our way to Illian, a thousand miles from where the Myrddraal expect us." {{Ref/book|1|26}}
+
+Although this is somewhat vague, it is possible to measure the shortest and furthest distance from the Caemlyn road to the city of Illian. We would have reason to assume that he means the city rather than the nation because they are talking about the Great Hunt for the Horn which is declared in the [[Square of Tammaz]]. The distances from Whitebridge and Caemlyn are roughly the same and are the furthest from Illian whereas the closest point is at a point halfway between the two. The correct distance appears to be approximately 1200 WL miles rather than 1000 WL miles, even considering the closest possible distance.
+
+If instead he means the country of Illian rather than the city, the distance is only 530-670 WL miles and seems equally incorrect. We already mention this distance in the problems with measurement section (does he literally mean 1000 miles?).
+
+{{notes}}
+[[Category:Blog posts]]<references />
+[[Category:Blog posts]]
+<references />
+[[Category:Blog posts]]
+<references />
+[[Category:Blog posts]]
+<references />
+[[Category:Blog posts]]
+<references />
+[[Category:Blog posts]]
+<references />
+[[Category:Blog posts]]
+<references />
+[[Category:Blog posts]]

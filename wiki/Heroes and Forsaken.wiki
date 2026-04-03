@@ -1,0 +1,38 @@
+{{italicizeTitle}}
+{{dablink|For the older, physical CCG, see [[The Wheel of Time Collectible Card Game]]. For the in-universe characters, see [[Horn of Valere]], [[:Category:Heroes of the Horn]], and [[Forsaken]]. For the term ''Randland'', see [[Randland]].}}
+'''Heroes and Forsaken''' (formerly ''[[Cards of Eternity]]'' and ''[[Battle for Randland]]) is an unreleased (as of {{Date|2025-10-13}}) {{Wiki|CCG}} from [[iwot|iwot productions]] "inspired" by {{wot}}.
+
+[[Image:Heroes and Forsaken - Instagram - Profile.jpg|thumb|Profile photo from the official Instagram account, probably depicting a Trolloc]]
+
+== Controversies ==
+
+* Preliminary artwork released by ''iwot'' makes heavy use of AI imagery. According to the game's Steam FAQ, the AI art will not be present in the published game.{{ref|{{cite/web|url=https://steamcommunity.com/app/3954360 |title=Official FAQ & Notes for Heroes and Forsaken |date=2025-9-11 |accessdate=2025-10-13 |publisher=Steam}}|steamfaq}}
+* Preliminary cards exhibit odd choices that sometimes seem to eschew or misunderstand official WoT terminology. For example, the {{Link |url=https://www.instagram.com/p/DPHqr5tCoQu/?img_index=5 |text=''Soulless Saboteur''}} card, seemingly based on [[Gray Man|Gray Men]], describes them as "saboteurs" even though Gray Men are only ever shown to be used as assassins in the series. The {{Link |url=https://www.instagram.com/p/DPHqr5tCoQu/?img_index=2 |text=''Flame Dragon''}} card appears to depict a [[Blue]] [[Aes Sedai]] weaving flames into the shape of a dragon, which is not something that happens in the books and would be very inconsistent with the attitudes of typical Aes Sedai towards the [[Dragon Reborn]]. However, it should be noted that [[Moiraine Damodred]], a Blue sister, does weave such a flame in the {{TVlink |What Was Meant to Be |second season finale}} of the {{TVlink||TV series}}.{{ref|{{TVlink |What Was Meant to Be}}}}
+* Artwork on the official Instagram is filled with incongruous decisions. For example, a {{Link|url=https://www.instagram.com/p/DOrfA7GChu9/|text=post about ''Wheel of Time'' quotes}} has the following:
+** [[Sorilea]] quote{{ref/book|6|33}} over a picture of a female [[Ogier]], wielding some sort of tool or weapon that matches no description of items wielded by Ogier.
+** [[Androl]] quote{{ref/book|13|46}} over what is presumably a condemned [[Seanchan]] [[The Blood|Blood]] being executed (the depiction of a cage instead of a bag notwithstanding).{{ref/book|2|34}}
+** [[Elyas Machera]] quote{{ref/book|1|27}} over a picture of an [[Aiel|Aielman]] wielding a full-length spear.
+** A redheaded woman, possibly [[Elayne]], about to be executed by an edgeless sword (possibly a heavily distorted adaptation of Elayne's final capture before [[Birgitte]] kills [[Mellar]]{{ref/book|14|37}}). The image is behind a quote of "Death is lighter than a feather, duty heavier than a mountain," which has no particular association with Elayne or any woman (except that [[Nynaeve]] quotes it once{{ref/book|11|20}}).{{ref/book|2|47}}{{ref/book|2|49}}{{ref/book|3|2}}{{ref/book|4|24}}
+
+=== Game name ===
+
+The game was originally announced as ''[[Cards of Eternity]]''.
+
+Eventually, the name was changed to ''[[Battle for Randland]]''.{{ref|{{cite/web |url=https://www.reddit.com/r/TheDailyTrolloc/comments/1n1r21c/the_wot_online_trading_card_game_has_rebranded/ |title=The WoT online trading card game has rebranded from ‘Cards of Eternity’ to ‘Battle for Randland’… |publisher=Reddit |author={{redditor|NargTheTrolloc}} |date=2025-8-27 |accessdate=2025-10-13}}}}
+
+Following substantial fan backlash at the use of an non-diagetic {{Wiki|fanon (fiction)|fanon}} term instead of diagetic {{Link |url=https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist |text=Watsonian}} terminology, the title was changed to ''{{PAGENAME}}''.{{ref|{{cite/web |url=https://x.com/WheelofTimeTCG/status/1975604099023577403 |title=''You spoke, we listened!'' |date=2025-10-7 |accessdate=2025-10-13 |publisher=X}}}}{{ref||steamfaq}}
+
+== Other notes ==
+
+The marketing for the game makes heavy use of imagery from the {{TVlink||TV series}}.{{ref|{{Cite/web |url=https://www.instagram.com/heroesandforsaken/ |title=''Heroes and Forsaken'' Instagram page |accessdate={{Date|2025-10-13}}}}}}
+
+== Links ==
+
+* {{Cite/web |url=https://heroesandforsaken.com |title=''Heroes and Forsaken'' website |accessdate={{Date|2025-10-13}}}}
+* {{Cite/web |url=https://www.instagram.com/heroesandforsaken/ |title=''Heroes and Forsaken'' Instagram page |accessdate={{Date|2025-10-13}}}}
+* {{Cite/web |url=https://x.com/WheelofTimeTCG |title=''Heroes and Forsaken'' X profile |accessdate={{Date|2025-10-13}}}}
+
+{{notes}}
+{{DISPLAYTITLE:''Heroes and Forsaken''}}
+[[Category:Non-canon]]
+[[Category:Other Media]]

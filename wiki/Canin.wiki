@@ -1,0 +1,21 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Ship captain
+| build=Round
+| gender=Male
+| appeared={{tdr|39}}
+| lastappeared={{tdr|48}}
+| living=tdr
+}}
+'''Canin''' is the captain of the ''[[Darter]]''.
+
+==Appearance==
+Captain Canin is as round as his ship.
+
+==Activities==
+After the ''[[Blue Crane]]'' runs up on a mud flat, [[Elayne Trakand]], [[Egwene al'Vere]], and [[Nynaeve al'Meara]] walk to [[Jurene]] and find passage aboard Captain Canin's ship, the ''Darter''.{{ref/book|4|39}} He takes them down the [[River Erinin]] to [[Tear]].{{ref/book|4|48}}
+
+{{notes}}

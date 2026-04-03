@@ -1,0 +1,564 @@
+'''''[[The Great Hunt]]'' glossary''' is at the end of the second book. It includes descriptions of item and explanations of concepts and of characters from the second book with the knowledge learned from the text of the book. 
+__NOTOC__
+{{CompactTOC2}}
+==A==
+;<cite id="a'dam" style="font-style:normal;">''[[a'dam]]'' (AYE-dam):</cite>
+:A device, consisting of a collar and a bracelet linked by a silvery metal leash, that may be used to control, against her will, any woman who can channel. The collar is worn by the ''[[damane]]'', the bracelety by the ''[[sul'dam]]''. ''See also [[The Great Hunt/Glossary#damane|damane]]; [[The Great Hunt/Glossary#sul'dam|sul'dam]]''
+;<cite id="Aes_Sedai" style="font-style:normal;">[[Aes Sedai]] (EYEZ seh-DEYE):</cite>
+:Wielders of the [[One Power]]. Since the [[Time of Madness]], all surviving Aes Sedai are women. Widely distrusted and feared, even hated, they are blamed by many for the [[Breaking of the World]], and are generally thought to meddle in the affairs of nations. At the same time, few rulers will be without an Aes Sedai advisor, even in lands where the existence of such a connection must be kept secret. ''See also'' [[The Great Hunt/Glossary#Ajah|Ajah]]; [[The Great Hunt/Glossary#Amyrlin Seat|Amyrlin Seat]]; [[The Great Hunt/Glossary#Time of Madness|Time of Madness]].
+;[[Agelmar Jagad|Agelmar; Lord Agelmar of House Jagad]] (AGH-el-mar; JAH-gad)
+:
+:Lord of [[Fal Dara]]. His sign is three running red foxes.
+;[[Age of Legends]]
+:
+:The Age ended by the [[War of Power|War of the Shadow]] and the Breaking of the World. A time when Aes Sedai performed wonders now only dreamed of. ''See also'' [[The Great Hunt/Glossary#Wheel of Time, the|Wheel of Time]]; [[The Great Hunt/Glossary#Breaking of the World|Breaking of the World]]; [[The Great Hunt/Glossary#War of the Shadow|War of the Shadow]].
+;<cite id="Aiel" style="font-style:normal;">[[Aiel]] (eye-EEL):</cite>
+:The people of the [[Aiel Waste]]. Fierce and hardy. Also called Aielmen. They veil their faces before they kill, giving rise to the saying "acting like a black-veiled Aiel" to describe someone who is being violent. Deadly warriors with weapons or with nothing but their bare hands, they will not touch a sword. Their pipers play them into battle with music of dances, and Aielmen call battle "the Dance." ''See also:'' [[The Great Hunt/Glossary#Aiel warrior societies|Aiel warrior societies]]; [[The Great Hunt/Glossary#Aiel Waste|Aiel Waste]].
+;<cite id="Aiel_warrior_societies" style="font-style:normal;">[[Aiel warrior societies]]:</cite>
+:Aiel warriors are all members of one of the warrior societies, such as the [[Stone Dogs]], the [[Red Shields]], or the [[Maidens of the Spear]]. Each society has its own customs, and sometimes specific duties. For example, Red Shields act as police. Stone Dogs often vow not to retreat once battle has been joined, and will die to the last man if necessary to fulfill this vow. The clans of the Aiel frequently fight among themselves, but members of the same society will not fight one another even if their clans are doing so. In this way, there are always lines of contact between the clans even when they are in open warfare. ''See also:'' [[The Great Hunt/Glossary#Aiel|Aiel]]; [[The Great Hunt/Glossary#Aiel Waste|Aiel Waste]]; ''[[The Great Hunt/Glossary#Far Dareis Mai|Far Dareis Mai]]''.
+;<cite id="Aiel_Waste" style="font-style:normal;">[[Aiel Waste]]:</cite>
+:The harsh, rugged, and all-but-waterless land east of the [[Spine of the World]]. Few outsiders venture there, not only because water is almost impossible to find for one not born there, but because the Aiel consider themselves at war with all other peoples and do not welcome strangers.
+;<cite id="Ajah" style="font-style:normal;">[[Ajah]] (AH-jah):</cite>
+:Societies among the [[Aes Sedai]] to which all Aes Sedai except the [[Amyrlin Seat]] belong. They are designated by colors: [[Blue Ajah|Blue]], [[Red Ajah|Red]], [[White Ajah|White]], [[Green Ajah|Green]], [[Brown Ajah|Brown]], [[Yellow Ajah|Yellow]], and [[Gray Ajah|Gray]]. Each follows a specific philosophy of the use of the One Power and the purposes of the Aes Sedai. For example, the Red Ajah bends all its energies to finding men who are attempting to wield the Power and to gentling them. The Brown Ajah, on the other hand, forsakes involvement with the mundane world and dedicates itself to seeking knowledge. There are rumors (hotly denied, and never safely mentioned in front of any Aes Sedai) of a [[Black Ajah]], dedicated to serving the [[Dark One]].
+;[[Alanna Mosvani]] (ah-LAN-nah mos-VANH-nie)
+:
+:An [[Aes Sedai]] of the [[Green Ajah]].
+;''alantin'' (ah-LANH-tin)
+:
+:In the [[Old Tongue]], "Brother"; short for ''tia avende alantin'', "Brother to the Trees"; "Treebrother."
+;[[Alar]] (AYE-lahr)
+:
+:Eldest of the Elders of [[Stedding Tsofu|''Stedding'' Tsofu]].
+;''Aldieb'' (ahl-DEEB)
+:
+:In the [[Old Tongue]], "West Wind," the wind that brings the spring rains.
+;[[Nynaeve al'Meara|al'Meara, Nynaeve]] (ahl-MEER-ah, NIGH-neev)
+:
+:A woman from [[Emond's Field]], in the [[Two Rivers]] district of [[Andor]] (AN-door).
+;[[Rand al'Thor|al'Thor, Rand]] (ahl-THOR, RAND)
+:
+:A young man from [[Emond's Field]], once a shepherd.
+;[[Egwene al'Vere|al'Vere, Egwene]] (ahl-VEER, eh-GWAIN)
+:
+:A young woman from [[Emond's Field]].
+;[[Amalisa Jagad|Amalisa, Lady]] (ah-mah-LEE-sah)
+:
+:[[Shienaran]] of House Jagad; [[Agelmar Jagad|Lord Agelmar]]'s sister.
+;<cite id="Amyrlin_Seat" style="font-style:normal;">[[Amyrlin Seat]] (AHM-ehr-lin SEAT):</cite>
+:(1) The title of the leader of the [[Aes Sedai]]. Elected for life by the [[Hall of the Tower]], the highest council of the Aes Sedai, which consists of three representatives (called Sitters) from each of the seven [[Ajahs]]. The [[Amyrlin Seat]] has, theoretically at least, almost supreme authority among the Aes Sedai, and ranks socially as the equal of a king or queen. A slightly less formal usage is simply the Amyrlin.
+:(2) The throne upon which the leader of the Aes Sedai sits.
+;[[Anaiya]] (ah-NYE-yah)
+:
+:An [[Aes Sedai]] of the [[Blue Ajah]].
+;<cite id="angreal" style="font-style:normal;">''[[angreal]]'' (anh-gree-AHL):</cite>
+:A very rare object that allows anyone capable of channeling the [[One Power]] to handle a greater amount of the Power than would be safely possible unaided. Remnants of the [[Age of Legends]], the means of their making is no longer known. Few remain in existence. ''See also [[The Great Hunt/Glossary#sa'angreal|sa'angreal]]; [[The Great Hunt/Glossary#ter'angreal|ter'angreal]].''
+;[[Arad Doman]] (AH-rahd do-MAHN)
+:
+:A nation on the [[Aryth Ocean]].
+;[[Arafel]] (AH-rah-fehl)
+:
+:One of the [[Borderlands]].
+;<cite id="Avendesora" style="font-style:normal;">''[[Chora|Avendesora]]'' (AH-vehn-deh-SO-rah):</cite>
+:In the Old Tongue, "the Tree of Life." Mentioned in many stories and legends.
+;[[Perrin Aybara|Aybara, Perrin]] (ay-BAHR-ah, PEHR-rihn)
+:
+:A young man from [[Emond's Field]], formerly a blacksmith’s apprentice.
+
+==B==
+;[[Ishamael#Ba'alzamon|Ba'alzamon]] (bah-AHL-zah-mon)
+:
+:In the Trolloc tongue, "Heart of the Dark." Believed to be the Trolloc name for the Dark One. ''See also:'' [[The Great Hunt/Glossary#Dark One|Dark One]]; [[The Great Hunt/Glossary#Trollocs|Trollocs]].
+;[[Barthanes Damodred|Barthanes, Lord, of House Damodred]] (bahr-THAN-nehs)
+:
+:[[Cairhien]]in lord, second only to the king in power. His personal sign is the Charging Boar. The sign of [[House Damodred]] is the Crown and Tree.
+;[[Bel Tine]] (BEHL TINE)
+:
+:Spring festival celebrating the end of winter, the first sprouting of crops, and the birth of the first lambs.
+;Betrayer of Hope
+:
+:''See'' [[The Great Hunt/Glossary#Ishamael|Ishamael]]
+;[[Birgitte Silverbow|Birgitte]] (ber-GEET-teh)
+:
+:Golden-haired heroine of legend and a hundred gleeman's tales, she has a silver bow and silver arrows, with which she never missed.
+;bittern (BIGT-tehrn)
+:
+:A musical instrument that may have six, nine, or twelve strings, and is held flat on the knees and played by plucking or strumming.
+;[[Blasted Lands]]
+:
+:Desolated lands surrounding [[Shayol Ghul]], beyond the [[Great Blight]].
+;[[Great Blight|Blight, the]]
+:
+:''See'' [[The Great Hunt/Glossary#Great Blight, the|Great Blight, the]]
+;<cite id="Borderlands" style="font-style:normal;">[[Borderlands|Borderlands, the]]:</cite>
+:The nations bordering the Great Blight. [[Saldaea]], [[Arafel]], [[Kandor]], and [[Shienar]].
+;[[Geofram Bornhald|Bornhald, Geofram]] (BOHRN-hahld, JEHF-rahm)
+:
+:A [[Lord Captain]] of the [[Children of the Light]].
+;<cite id="Breaking of the World" style="font-style:normal;">[[Breaking of the World|Breaking of the World, the]]:</cite>
+:During the [[Time of Madness]], male Aes Sedai who had gone insane, and who could wield the One Power to a degree now unknown, changed the face of the earth. They caused great earthquakes, leveled old mountain ranges and raised new mountains, lifted dry land where seas had been and made the oceans rush in where dry land had been. Many parts of the world were completely depopulated, and the survivors were scattered like dust on the wind. This destruction is rembembered in stories, legends, and history as the Breaking of the World. ''See also'' [[The Great Hunt/Glossary#Time of Madness|Time of Madness]].
+;[[Jaret Byar|Byar, Jaret]] (BY-ahr, JAH-ret)
+:
+:An officer of the Children of the Light.
+
+==C==
+;[[Caemlyn]] (KAYM-lihn)
+:
+:The capital city of [[Andor]].
+;<cite id="Cairhien" style="font-style:normal;">[[Cairhien]] (KEYE-ree-EHN):</cite>
+:Both a nation along the [[Spine of the World]] and the capital city of that nation. The city was burned and looted during the [[Aiel War]] (976-{{ne|978}}). The sign of Cairhien is a many rayed golden sun rising from the bottom of a field of sky blue.
+;[[Caralain]] (KAH-rah-layn)
+:
+:One of the nations wrung from [[Artur Hawkwing]]'s empire during the [[War of the Hundred Years]]. It weakened thereafter, and the last traces vanished about {{ne|500}}.
+;[[Matrim Cauthon|Cauthon, Mat]] (CAW-thon, MAT)
+:
+:A young man from the [[Two Rivers]]. Full name: Matrim (MAT-rihm) Cauthon.
+;<cite id="channel" style="font-style:normal;">[[channel]] (verb):</cite>
+:To control the flow of the [[One Power]]. ''See also'' [[The Great Hunt/Glossary#One Power, the|One Power]].
+;<cite id="Children of the Light" style="font-style:normal;">[[Children of the Light]]:</cite>
+:A society holding strict ascetic beliefs, dedicated to the defeat of the Dark One and the destruction of all Darkfriends. Founded during the War of the Hundred Years by [[Lothair Mantelar]] (LOH-thayr MAHN-tee-LAHR) to proselytize against the increasing numbers of Darkfriends, they evolved during the war into a completely military organization, extremely rigid in their beliefs, and completely certain that only they know the truth and the right. They hate Aes Sedai, considering them, and any who support or befriend them, Darkfriends. They are known disparagingly as Whitecloaks. Their sign is a golden sunburst on a field of white.
+;<cite id="Chronicles, Keeper of the" style="font-style:normal;">[[Keeper of the Chronicles|Chronicles, Keeper of the]]:</cite>
+:Second in authority to the Amyrlin Seat among the Aes Sedai, she also acts as secretary to the Amyrlin. Chosen for life by the [[Hall of the Tower]], and usually of the same Ajah as the Amyrlin. ''See also'': [[The Great Hunt/Glossary#Amyrlin Seat|Amyrlin Seat]]; [[The Great Hunt/Glossary#Ajah|Ajah]].
+;<cite id="Corenne" style="font-style:normal;">''[[Corenne]]'' (koh-REEN-neh):</cite>
+:In the Old Tongue, "Return," or "the Return."
+;<cite id="Covenant of the Ten Nations" style="font-style:normal;">[[Ten Nations|Covenant of the Ten Nations]]:</cite>
+:A union formed in the centuries after the Breaking of the World when nations were first re-created (circa {{ab|300}}). Dedicated to the defeat of the Dark One. Broken apart by the [[Trolloc Wars]]. ''See also'' [[The Great Hunt/Glossary#Trolloc Wars|Trolloc Wars]].
+;''[[cuendillar]]'' (CWAIN-der-yar)
+:
+:Also known as heartstone. ''See'' [[The Great Hunt/Glossary#heartstone|heartstone]].
+
+==D==
+;<cite id="Daes Dae'mar" style="font-style:normal;">''[[Daes Dae'mar]]'' (DAH-ess day-MAR):</cite>
+:The Great Game, also known as the Game of Houses. Name given the scheming, plots, and manipulations for advantage by the noble Houses. Great value is given to subtlety, to aiming at one thing while seeming to aim at another, and to achieving ends with the least visible effort.
+;<cite id="Dai Shan" style="font-style:normal;">Dai Shan (DYE SHAN):</cite>
+:A title in the Borderlands meaning Diademed Battle Lord. See also [[The Great Hunt/Glossary#Borderlands|Borderlands]].
+;<cite id="damane" style="font-style:normal;">''[[damane]]'' (dah-MAHN-ee):</cite>
+:In the Old Tongue, "Leashed Ones." Women who can channel who are held prisoner by ''a'dam'' and used by the Seanchan for many purposes, chiefest of these being as weapons in battle. ''See also'' [[The Great Hunt/Glossary#Seanchan|Seanchan]]; ''[[The Great Hunt/Glossary#a'dam|a'dam]]; [[The Great Hunt/Glossary#sul'dam|sul'dam]]''.
+;<cite id="Damodred, Lord Galadedrid" style="font-style:normal;">[[Galadedrid Damodred|Damodred, Lord Galadedrid]] (DAHM-oh-drehd, gah-LAHD-eh-drihd):</cite>
+:Half-brother to [[Elayne Trakand|Elayne]] and [[Gawyn Trakand|Gawyn]]. His sign is a winged silver sword, point down.
+;[[Darkfriend]]s
+:
+:Those who follow the Dark One and believe they will gain great power and rewards, and even immortality, when he is freed from his prison.
+;<cite id="Dark One" style="font-style:normal;">[[Dark One]]:</cite>
+:Most common name, used in every land, for Shai'tan. The source of evil, antithesis of the [[Creator]]. Imprisoned by the Creator at the moment of Creation in a prison at [[Shayol Ghul]]. An attempt to free him from that prison brought about the War of the Shadow, the tainting of ''[[saidin]]'', the Breaking of the World, and the end of the Age of Legends.
+;Dark One, naming the
+:
+:Saying the true name of the Dark One (Shai'tan) draws his attention, inevitably bringing ill fortune at best, disaster at worst. For that reason, many euphemisms are used, among them the Dark One, Father of Lies, Sightblinder, Lord of the Grave, Shepherd of the Night, Heartsbane, Heartfang, Grassburner, and Leafblighter. Someone who seems to be inviting ill fortune is often said to be "naming the Dark One."
+;[[Daughter-Heir]]
+:
+:Title of the heir to the throne of Andor. The eldest daughter of the queen succeeds her mother on the throne. Without a surviving daughter, the throne goes to the nearest female blood relation of the queen.
+;Daughter of the Night
+:
+:''See'' [[The Great Hunt/Glossary#Lanfear|Lanfear]].
+;[[Dome of Truth]]
+:
+:Great audience hall of the Children of the Light, located in [[Amador]] (AH-mah-door), the capital of [[Amadicia]] (AH-mah-DEE-cee-ah). There is a King of Amadicia, but the Children rule in all but name. ''See also'' [[The Great Hunt/Glossary#Children of the Light|Children of the Light]].
+;''Do Miere A'vron'' (DOH me-EHR a-VRAWN)
+:
+:''See'' [[The Great Hunt/Glossary#Watchers Over the Waves|Watchers Over the Waves]].
+;[[Bayle Domon|Domon, Bayle]] (DOH-mon, BAIL)
+:
+:The captain of the ''[[Spray]]'', who collects old things.
+;[[Draghkar]] (DRAGH-kahr)
+:
+:A creature of the Dark One, made originally by twisting human stock. A Draghkar appears to be a large man with bat-like wings, whose skin is too pale and whose eyes are too large. The Draghkar's song can draw its prey to it, suppressing the victim's will. There is a saying: "The kiss of the Draghkar is death." It does not bite, but its kiss will consume first the soul of its victim, and then its life.
+;<cite id="Dragon, false" style="font-style:normal;">[[Dragon#False Dragons|Dragon, false]]:</cite>
+:Occasionally men claim to be the [[Dragon Reborn]], and sometimes one of them gains following enough to require an army to put it down. Some have begun wars that involved many nations. Over the centuries most of these have been men unable to channel the One Power, but a few could do so. All, however, either disappeared or were captured or killed without fulfilling any of the Prophecies concerning the Rebirth of the Dragon. These men are called false Dragons. Among those who could channel, the most powerful were [[Raolin Darksbane]] (335-36AB), [[Yurian Stonebow]] (circa 1300-{{ab|1308}}), [[Davian]] (FY 351), [[Guaire Amalasan]] (FY 939-43), and [[Logain Ablar|Logain]] ({{ne|997}}). ''See also'' [[The Great Hunt/Glossary#Dragon Reborn|Dragon Reborn]].
+;<cite id="Dragon, Prophecies of the" style="font-style:normal;">Dragon, Prophecies of the:</cite>
+:Little known and seldom spoken of, the Prophecies, given in The [[Karaethon Cycle]], foretell that the Dark One will be freed again to touch the world. And that [[Lews Therin Telamon]], the [[Dragon]], Breaker of the World, will be reborn to fight [[Tarmon Gai'don]], the Last Battle against the Shadow. See also [[The Great Hunt/Glossary#Dragon, the|Dragon, the]].
+;<cite id="Dragon, the" style="font-style:normal;">[[Dragon|Dragon, the]]:</cite>
+:The name by which Lews Therin Telamon was known during the War of the Shadow. In the madness that overtook all male Aes Sedai, Lews Therin killed every living person who carried any of his blood, as well as everyone he loved, thus earning the name Kinslayer. ''See also'' [[The Great Hunt/Glossary#Dragon Reborn|Dragon Reborn]]; [[The Great Hunt/Glossary#Dragon, Prophecies of the|Dragon, Prophecies of the]].
+;<cite id="Dragon Reborn" style="font-style:normal;">[[Dragon Reborn]]:</cite>
+:According to prophecy and legend the Dragon will be born again at mankind’s greatest hour of need to save the world. This is not something people look forward to, both because the Prophecies say the Dragon Reborn will bring a new Breaking to the world and because Lews Therin Kinslayer, the Dragon, is a name to make men shudder, even more than three thousand years after his death. ''See also'' [[The Great Hunt/Glossary#Dragon, the|Dragon, the]]; [[The Great Hunt/Glossary#Dragon, false|Dragon, false]]; [[The Great Hunt/Glossary#Dragon, Prophecies of the|Dragon, Prophecies of the]].
+;[[Dragon's Fang|Dragon's Fang, the]]
+:
+:A stylized mark in the shape of a teardrop balanced on its point. Scrawled on a door or a house, it is an accusation of evil against the people inside, or an attempt to bring the Dark One's attention, and thus harm, to them.
+;[[Dreadlord]]s
+:
+:Those men and women who, able to channel the One Power, went over to the Shadow during the Trolloc Wars, acting as commanders of the Trolloc forces.
+
+==E==
+;[[Elaida do Avriny a'Roihan|Elaida]] (eh-LY-da)
+:
+:An Aes Sedai of the [[Red Ajah]] who advises Queen [[Morgase Trakand|Morgase]] of Andor. She sometimes has the [[Foretelling]].
+;[[Elayne Trakand|Elayne]] (ee-LAIN)
+:
+:Queen Morgase’s daughter, the Daughter-Heir to the Throne of Andor. Her sign is a golden lily.
+
+==F==
+;[[Padan Fain|Fain, Padan]] (FAIN, PAHD-ahn)
+:
+:A man imprisoned as a Darkfriend in [[Fal Dara]] keep.
+;<cite id="Far Dareis Mai" style="font-style:normal;">''[[Far Dareis Mai]]'' (FAHR DAH-rize MY):</cite>
+:Literally "Maidens of the Spear." A warrior society of the Aiel, which, unlike any of the others, admits women and only women. A Maiden may not marry and remain in the society, nor may she fight while carrying a child. Any child born to a Maiden is given to another woman to raise, in such a way that no one knows who the child’s mother was. ("You may belong to no man, nor may any man belong to you, nor any child. The spear is your lover, your child, and your life.") These children are treasured, for it is prophesied that a child born of a Maiden will unite the clans and return the Aiel to the greatness they knew during the Age of Legends. ''See also'' [[The Great Hunt/Glossary#Aiel|Aiel]]; [[The Great Hunt/Glossary#Aiel warrior societies|Aiel warrior societies]].
+;<cite id="Five Powers" style="font-style:normal;">[[Five Powers|Five Powers, the]]:</cite>
+:There are threads to the One Power, and each person who can channel can usually grasp some threads better than others. These threads are named according to the sorts of things that can be done using them — Earth, Air, Fire, Water, and Spirit — and are called the Five Powers. Any wielder of the Power will have a greater degree of strength with one, or possibly two, of these, and lesser strength in the others. Some few may have great strength with three, but since the Age of Legends no one has had great strength with all five. Even then this was extremely rare. The degree of strength can vary greatly between individuals, so that some who can channel are much stronger than others. Performing certain acts with the One Power requires ability in one or more of the Five Powers. For example, starting or controlling a fire requires Fire, and affecting the weather requires Air and Water, while Healing requires Water and Spirit. While Spirit was found equally in men and in women, great ability with Earth and/or Fire was found much more often among men; with Water and/or Air among women. There were exceptions, but it was so often so that Earth and Fire came to be regarded as male Powers, Air and Water as female. Generally, no ability is considered stronger than any other, though there is a saying among Aes Sedai: "There is no rock so strong that water and wind cannot wear it away, no fire so fierce that water cannot quench it or wind snuff it out." It should be noted this saying came into use long after the last male Aes Sedai was dead. Any equivalent saying among male Aes Sedai is long lost.
+;[[Flame of Tar Valon]]
+:
+:The symbol of Tar Valon, the Amyrlin Seat, and the Aes Sedai. A stylized representation of a flame; a white teardrop with the point upward.
+;<cite id="Forsaken" style="font-style:normal;">[[Forsaken|Forsaken, the]]:</cite>
+:Name given to thirteen of the most powerful Aes Sedai ever known, who went over to the Dark One during the War of the Shadow in return for the promise of immortality. According to both legend and fragmentary records, they were imprisoned along with the Dark One when his prison was resealed. Their names are still used to frighten children.
+
+==G==
+;''[[Warder|Gaidin]]'' (GYE-deen)
+:
+:Literally, "Brother to Battles." A title used by Aes Sedai for the Warders. ''See also'' [[The Great Hunt/Glossary#Warder|Warder]].
+;Galad (gah-LAHD)
+:
+:''See'' [[The Great Hunt/Glossary#Damodred, Lord Galadedrid|Damodred, Lord Galadedrid]].
+;[[Galldrian Riatin|Galldrian su Riatin Rie]] (GAHL-dree-ahn soo REYE-ah-tin REE)
+:
+:Literally, Galldrian of [[House Riatin]], King. King of Cairhien. ''See also'' [[The Great Hunt/Glossary#Cairhien|Cairhien]].
+;Game of Houses, the
+:
+:''See [[The Great Hunt/Glossary#Daes Dae'mar|Daes Dae'mar]].''
+;[[Gawyn Trakand|Gawyn]] (GAH-wihn)
+:
+:Queen Morgase’s son, and Elayne’s brother. His sign is a white boar.
+;<cite id="gentling" style="font-style:normal;">[[gentling]]:</cite>
+:The act, performed by Aes Sedai, of shutting off a male who can channel from the One Power. This is necessary because any man who learns to channel will go insane from the taint on ''saidin'' and will almost certainly do horrible things with the Power in his madness. A man who has been gentled can still sense the True Source, but he cannot touch it. Whatever madness has come before gentling is arrested by the act of gentling, but not cured by it, and if it is done soon enough death can be averted. ''See also'' [[The Great Hunt/Glossary#One Power, the|One Power, the]]; [[The Great Hunt/Glossary#stilling|stilling]].
+;[[gleeman]]
+:
+:A traveling storyteller, musician, juggler, tumbler, and all-around entertainer. Known by their trademark cloaks of many-colored patches, they perform mainly in the villages and smaller towns.
+;[[Goaban]] (GO-ah-banh)
+:
+:One of the nations wrung from Artur Hawkwing’s empire during the War of the Hundred Years. It weakened, and faded away approximately {{ne|500}}. ''See also'' [[The Great Hunt/Glossary#Hawkwing, Artur|Artur Hawkwing]]; [[The Great Hunt/Glossary#War of the Hundred Years|War of the Hundred Years]].
+;<cite id="Great Blight, the" style="font-style:normal;">[[Great Blight|Great Blight, the]]:</cite>
+:A region in the far north, entirely corrupted by the Dark One. A haunt of Trollocs, Myrddraal, and other creatures of the Shadow.
+;Great Game, the
+:
+:''See [[The Great Hunt/Glossary#Daes Dae'mar|Daes Dae'mar]].''
+;[[The Great Hunt of the Horn|Great Hunt of the Horn, the]]
+:
+:A cycle of stories concerning the legendary search for the Horn of Valere, in the years between the end of the Trolloc Wars and the beginning of the War of the Hundred Years. If told in its entirety, the cycle would take many days.
+;Great Lord of the Dark
+:
+:The name by which Darkfriends refer to the Dark One, claiming that to use his true name would be blasphemous.
+;[[Great serpent|Great Serpent]]
+:
+:A symbol for time and eternity, ancient before the Age of Legends began, consisting of a serpent eating its own tail. A ring in the shape of the Great Serpent is awarded to women who have been raised to the Accepted among the Aes Sedai.
+
+==H==
+;<cite id="Hailene" style="font-style:normal;">''[[Hailene]]'' (heye-LEE-neh):</cite>
+:In the Old Tongue, "Those Who Come Before," or "Forerunners."
+;[[Halfman]]
+:
+:''See'' [[The Great Hunt/Glossary#Myrddraal|Myrddraal]].
+;[[Hardan]]
+:
+:One of the nations wrung from Artur Hawkwing’s empire, now long forgotten. It lay between Cairhien and Shienar.
+;<cite id="Hawkwing, Artur" style="font-style:normal;">[[Artur Hawkwing|Hawkwing, Artur]]:</cite>
+:A legendary king (ruled FY 943-994) who united all the lands west of the [[Spine of the World]], as well as some lands beyond the Aiel Waste. He even sent armies across the [[Aryth Ocean]] (FY 992), but all contact with these was lost at his death, which set off the War of the Hundred Years. His sign was a golden hawk in flight. ''See also'' [[The Great Hunt/Glossary#War of the Hundred Years|War of the Hundred Years]].
+;<cite id="heartstone" style="font-style:normal;">[[heartstone]]:</cite>
+:An indestructible substance created during the Age of Legends. Any force used in an attempt to break it is absorbed, making heartstone stronger.
+;[[Measurement#Area|hide]]
+:
+:A unit of area for measuring land, equal to 100 paces by 100 paces.
+;<cite id="Horn of Valere" style="font-style:normal;">[[Horn of Valere]] (vah-LEER):</cite>
+:The legendary object of The Great Hunt of the Horn. The Horn supposedly can call back dead heroes from the grave to fight against the Shadow.
+;<cite id="Hundred Companions, the" style="font-style:normal">[[Hundred Companions|Hundred Companions, the]]:</cite>
+:One hundred male Aes Sedai, among the most powerful of the Age of Legends, who, led by Lews Therin Telamon, launched the final stroke that ended the War of the Shadow by sealing the Dark One back into his prison. The Dark One’s counterstroke tainted saidin; the Hundred Companions went mad and began the Breaking of the World. ''See also'' [[The Great Hunt/Glossary#Time of Madness|Time of Madness]]; [[The Great Hunt/Glossary#Breaking of the World|Breaking of the World]]; [[The Great Hunt/Glossary#True Source|True Source]]; [[The Great Hunt/Glossary#One Power, the|One Power]].
+;[[Hurin]] (HEW-rin)
+:
+:A Shienaran who has the ability to smell where violence has been done, and to follow the scent of those who did it. Called a "[[sniffer]]," he serves the King’s justice in Fal Dara, in Shienar.
+
+==I==
+;[[Illian]] (IHL-lee-ahn)
+:
+:A great port on the [[Sea of Storms]], capital city of the nation of the same name.
+;[[Ingtar Shinowa|Ingtar, Lord, of House Shinowa]] (IHNG-tahr); (shih-NOH-wah)
+:
+:A Shienaran warrior. His sign is the Gray Owl.
+;<cite id="Ishamael" style="font-style:normal;">[[Ishamael]] (ih-SHAH-may-EHL):</cite>
+:In the Old Tongue, "Betrayer of Hope." One of the Forsaken. Name given to the leader of the Aes Sedai who went over to the Dark One in the War of the Shadow. It is said that even he forgot his true name. ''See also'' [[The Great Hunt/Glossary#Forsaken|Forsaken]].
+
+==K==
+;[[Karaethon Cycle|Karaethon Cycle, the]] (ka-REE-ah-thon)
+:
+:''See'' [[The Great Hunt/Glossary#Dragon, Prophecies of the|Dragon, Prophecies of the]].
+;kith
+:
+:Close friends and acquaintances.
+
+==L==
+;[[Laman Damodred|Laman]] (LAY-mahn)
+:
+:A king of Cairhien, of House Damodred, who lost his throne and life in the Aiel War.
+;[[Lan Mandragoran|Lan]]; al'an Mandragoran (AHL-LAN man-DRAG-or-an)
+:
+:A Warder, bonded to Moiraine. Uncrowned King of Malkier, Dai Shan, and the last surviving Malkieri lord. ''See also'' [[The Great Hunt/Glossary#Warder|Warder]]; [[The Great Hunt/Glossary#Moiraine|Moiraine]]; [[The Great Hunt/Glossary#Malkier|Malkier]]; [[The Great Hunt/Glossary#Dai Shan|Dai Shan]].
+;<cite id="Lanfear" style="font-style:normal;">[[Lanfear]] (LAN-fear):</cite>
+:In the Old Tongue, "Daughter of the Night." One of the Forsaken, perhaps the most powerful next to Ishamael. Unlike the other Forsaken, she chose this name herself. She is said to have been in love with Lews Therin Telamon. ''See also'' [[The Great Hunt/Glossary#Forsaken|Forsaken]]; [[The Great Hunt/Glossary#Dragon, the|Dragon, the]].
+;league
+:
+:''See'' [[The Great Hunt/Glossary#Length, units of|Length, units of]].
+;[[Leane Sharif|Leane]] (lee-AHN-eh)
+:
+:An Aes Sedai of the Blue Ajah, and Keeper of the Chronicles. ''See also'' [[The Great Hunt/Glossary#Ajah|Ajah]]; [[The Great Hunt/Glossary#Chronicles, Keeper of the|Chronicles, Keeper of the]].
+;Leashed Ones
+:
+:''See [[The Great Hunt/Glossary#damane|damane]].''
+;<cite id="Length, units of" style="font-style:normal;">[[Measurement#Length|Length, units of]]:</cite>
+:10 inches = 3 hands = 1 foot; 3 feet = 1 pace; 2 paces = 1 span; 1000 spans = 1 mile; 4 miles = 1 league.
+;[[Lews Therin Telamon]]; Lews Therin Kinslayer
+:
+:''See'' [[The Great Hunt/Glossary#Dragon, the|Dragon, the]].
+;[[Liandrin]] (lee-AHN-drihn)
+:
+:An Aes Sedai of the [[Red Ajah]], from [[Tarabon]].
+;[[Logain Ablar|Logain]] (loh-GAYN)
+:
+:A false Dragon, gentled by the Aes Sedai.
+;[[Loial]] (LOY-ahl)
+:
+:An [[Ogier]] from [[Stedding Shangtai|''Stedding'' Shangtai]].
+;[[Slayer#Luc|Luc]]; Lord Luc of House Mantear (LUKE; MAN-tee-ahr)
+:
+:[[Tigraine Mantear|Tigraine’s]] brother. His disappearance in the Great Blight ({{ne|971}}) is believed to be connected to Tigraine’s later disappearance. His sign was an acorn.
+;[[Luthair Paendrag Mondwin|Luthair]]
+:
+:''See'' [[The Great Hunt/Glossary#Mondwin, Luthair Paendrag|Mondwin, Luthair Paendrag]].
+
+==M==
+;<cite id="Malkier" style="font-style:normal;">[[Malkier]] (mahl-KEER):</cite>
+:A nation, once one of the Borderlands, now consumed by the Blight. The sign of Malkier was a golden crane in flight.
+;[[Manetheren]] (mahn-EHTH-ehr-ehn)
+:
+:One of the Ten Nations that made the Second Covenant, and also the capital city of that nation. Both city and nation were utterly destroyed in the Trolloc Wars.
+;''[[marath'damane]]'' (MAH-raht'dah-MAHN-ee)
+:
+:In the Old Tongue, "Those Who Must Be Leashed." Term used by the Seanchan for women who can channel, but who have not yet been captured and collared. ''See also [[The Great Hunt/Glossary#damane|damane]]; [[The Great Hunt/Glossary#a'dam|a'dam]]''; [[The Great Hunt/Glossary#Seanchan|Seanchan]].
+;[[Masema Dagar|Masema]] (mah-SEE-mah)
+:
+:A Shienaran soldier who hates Aiel.
+;''mashiara'' (mah-shee-AH-rah)
+:
+:In the Old Tongue, "beloved," but meaning a love that is lost beyond redeeming.
+;[[Thomdril Merrilin|Merrilin, Thom]] (MER-rih-lihn, TOM)
+:
+:A gleeman.
+;mile
+:
+:''See'' [[The Great Hunt/Glossary#Length, units of|Length, units of]].
+;[[Min Farshaw|Min]] (MIN)
+:
+:A young woman with the ability to [[Min's viewings|read the auras]] she sometimes sees surrounding people.
+;<cite id="Moiraine" style="font-style:normal;">[[Moiraine Damodred|Moiraine]] (mwah-RAIN):</cite>
+:An Aes Sedai of the Blue Ajah.
+;<cite id="Mondwin, Luthair Paendrag" style="font-style:noraml;">[[Luthair Paendrag Mondwin|Mondwin, Luthair Paendrag]] (LEW-thair PAY-ehn-DRAG MONdwihn):</cite>
+:Son of Artur Hawkwing, he commanded the armies Hawkwing sent across the Aryth Ocean. His banner was a golden, spread-winged hawk clutching lightning bolts. ''See also'' [[The Great Hunt/Glossary#Hawkwing, Artur|Hawkwing, Artur]].
+;[[Mordeth]] (MOOR-death)
+:
+:Councilor who turned the city of [[Aridhol]] to use Darkfriends' ways against the Darkfriends, thus bringing its destruction and earning it a new name, [[Shadar Logoth]] ("Where the Shadow Waits"). Only one thing survives in Shadar Logoth beside the hate that killed it, and that is Mordeth himself, bound in the ruins for two thousand years, waiting for someone to come whose soul he can consume and so take on new flesh.
+;[[Morgase Trakand|Morgase]] (moor-GAYZ)
+:
+:Queen of Andor, High Seat of [[House Trakand]] (TRAHK-ahnd).
+;<cite id="Myrddraal" style="font-style:normal;">[[Myrddraal]] (MUHRD-draal):</cite>
+:Creatures of the Dark One, commanders of the Trollocs. Twisted offspring of Trollocs in which the human stock used to create the Trollocs has resurfaced, but tainted by the evil that made the Trollocs. Physically they are like men except they have no eyes, but can see like eagles in light or dark. They have certain powers stemming from the Dark One, including the ability to cause paralyzing fear with a look and the ability to vanish wherever there are shadows. One of their few known weaknesses is that they are reluctant to cross running water. In different lands they are known by many names, among them Halfmen, the Eyeless, Shadowmen, Lurks, and Fades.
+
+==N==
+;[[Pedron Niall|Niall, Pedron]] (NEYE-awl, PAY-drohn)
+:
+:[[Lord Captain Commander]] of the Children of the Light. ''See also'' [[The Great Hunt/Glossary#Children of the Light|Children of the Light]].
+;[[Nisura]], Lady (nih-SOO-rah)
+:
+:A Shienaran noblewoman, and one of the Lady Amalisa's attendants.
+
+==O==
+;<cite id="One Power, the" style="font-style:normal;">[[One Power|One Power, the]]:</cite>
+:The power drawn from the True Source. The vast majority of people are completely unable to learn to channel the One Power. A very small number can be taught to channel, and an even tinier number have the ability inborn. For these few there is no need to be taught; they will touch the True Source and channel the Power whether they want to or not, perhaps without even realizing what they are doing. This inborn ability usually manifests itself in late adolescence or early adulthood. If control is not taught, or self-learned (extremely difficult, with a success rate of only one in four), death is certain. Since the Time of Madness, no man has been able to channel the Power without eventually going completely, horribly mad, and then, even if he has learned some control, dying from a wasting sickness that causes the sufferer to rot alive, a sickness caused, as is the madness, by the Dark One’s taint on saidin. For a woman the death that comes without control of the Power is less horrible, but it is death just the same. Aes Sedai search for girls with the inborn ability as much to save their lives as to increase Aes Sedai numbers, and for men with it in order to stop the terrible things they inevitably do with the Power in their madness. ''See also'' [[The Great Hunt/Glossary#channel|channel]]; [[The Great Hunt/Glossary#Time of Madness|Time of Madness]]; [[The Great Hunt/Glossary#True Source|True Source]].
+
+==P==
+;<cite id="Pattern of an Age" style="font-style:normal;">[[Wheel of Time#The Pattern|Pattern of an Age]]:</cite>
+:The Wheel of Time weaves the threads of human lives into the Pattern of an Age, often called simply the Pattern, which forms the substance of reality for that Age. ''See also [[The Great Hunt/Glossary#ta'veren|ta'veren]]''.
+;Powers, the Five
+:
+:''See'' [[The Great Hunt/Glossary#Five Powers|Five Powers]].
+
+==Q==
+;[[Hand of the Light|Questioners, the]]
+:
+:An order within the Children of the Light. Their avowed purposes are to discover the truth in disputations and to uncover Darkfriends. In the search for truth and the Light, their normal method of inquiry is by torture; their normal attitude that they know the truth already and must only make their victim confess to it. The Questioners refer to themselves as the Hand of the Light, the Hand that digs out truth, and at times act as if they were entirely separate from the Children and the Council of the Anointed, which commands the Children. The head of the Questioners is the [[High Inquisitor]], who sits on the [[Council of the Anointed]]. Their sign is a blood-red shepherd's crook.
+
+==R==
+;[[Ragan]] (rah-GAHN)
+:
+:A Shienaran warrior.
+;[[Red Shield]]s
+:
+:''See'' [[The Great Hunt/Glossary#Aiel warrior societies|Aiel warrior societies]].
+;[[Renna Emain|Renna]] (REEN-nah)
+:
+:A Seanchan woman; a ''sul'dam''. ''See also'' [[The Great Hunt/Glossary#Seanchan|Seanchan]]; ''[[The Great Hunt/Glossary#sul'dam|sul'dam]]''
+;<cite id="Rhyagelle" style="font-style:normal;">''[[Rhyagelle]]'' (rheye-ah-GEHL):</cite>
+:In the Old Tongue, "Those Who Come Home," or "Homecomers."
+
+==S==
+;<cite id="sa'angreal" style="font-style:normal;">''[[sa'angreal]]'' (SAH-ahn-GREE-ahl):</cite>
+:Any one of a number of objects that allow an individual to channel much more of the One Power than would otherwise be possible or safe. A ''sa'angreal'' is like unto, but much more powerful than, an ''angreal''. The amount of the Power that can be wielded with a ''sa'angreal'' compares to the amount of the Power that can be handled with an ''angreal'' as the power wielded with the aid of an ''angreal'' does to the amount of the Power that can be handled unaided. Remnants of the Age of Legends, the means of making ''sa'angreal'' is no longer known. Only a handful remain, far fewer even than ''angreal''.
+;''[[saidar]]'' (sah-ih-DAHR); ''[[saidin]]'' (sah-ih-DEEN)
+:
+:''See'' [[The Great Hunt/Glossary#True Source|True Source]].
+;[[Saldaea]] (sahl-DAY-ee-ah)
+:
+:One of the Borderlands.
+;[[Siuan Sanche|Sanche, Siuan]] (SAHN-chay, swahn)
+:
+:An Aes Sedai formerly of the Blue Ajah. Raised to the Amyrlin Seat {{ne|985}}. The Amyrlin Seat is of all Ajahs, and of none.
+;[[Sea Folk]]
+:
+:More properly, the ''Atha'an Miere'' (a-tha-AHN mee-AIR), the People of the Sea. Inhabitants of islands in the Aryth (AH-rihth) Ocean and the Sea of Storms, they spend little time on those islands, living most of their lives on their ships. Most seaborne trade is carried by the Sea Folk's ships.
+;<cite id="Seanchan" style="font-style:normal;">[[Seanchan]] (SHAWN-CHAN):</cite>
+:(1) Descendants of the armies Artur Hawkwing sent across the Aryth Ocean, who have returned to reclaim the lands of their forefathers.
+:(2) The land from which the Seanchan come. ''See also [[The Great Hunt/Glossary#Hailene|Hailene]]; [[The Great Hunt/Glossary#Corenne|Corenne]]; [[The Great Hunt/Glossary#Rhyagelle|Rhyagelle]].''
+;[[Seandar]] (shawn-DAHR)
+:
+:Capital city of Seanchan, where the [[Empress]] sits on the [[Crystal Throne]] in the [[Court of the Nine Moons]].
+;[[Lanfear#Mistress of Disguises|Selene]] (seh-LEEN)
+:
+:A woman met on the journey to Cairhien.
+;[[Seta Zarbey|Seta]] (SEE-tah)
+:
+:A Seanchan woman; a ''sul'dam'', ''See also'' [[The Great Hunt/Glossary#Seanchan|Seanchan]]; ''[[The Great Hunt/Glossary#sul'dam|sul'dam]]''.
+;[[Shadar Logoth]] (SHAH-dahr LOH-goth)
+:
+:A city abandoned and shunned since the Trolloc Wars. It is tainted ground, and not a pebble of it is safe. ''See also'' [[The Great Hunt/Glossary#Mordeth|Mordeth]].
+;Shai'tan (SHAY-ih-TAN)
+:
+:''See'' [[The Great Hunt/Glossary#Dark One|Dark One]].
+;[[Shayol Ghul]] (SHAY-ol GHOOL)
+:
+:A mountain in the [[Blasted Lands]], the site of the Dark One's prison.
+;[[Sheriam Bayanar|Sheriam]] (SHEER-ee-ahm)
+:
+:An Aes Sedai of the Blue Ajah. The [[Mistress of Novices]] in the [[White Tower]].
+;Shienar (shy-NAHR)
+:
+:One of the Borderlands. The sign of Shienar is a stooping black hawk.
+;[[shoufa]] (SHOO-fah)
+:
+:A garment of the Aiel, a cloth, usually the color of sand or rock, that wraps around the head and neck, leaving only the face bare.
+;span
+:
+:''See'' [[The Great Hunt/Glossary#Length, units of|Length, units of]]''.''
+;[[Spine of the World|Spine of the World, the]]
+:
+:A towering mountain range, with only a few passes, which separates the Aiel Waste from the lands to the west.
+;''[[stedding]]'' (STEHD-ding)
+:
+:An Ogier (OH-geer) homeland. Many ''stedding'' have been abandoned since the Breaking of the World. They are shielded in some way, no longer understood, so that within them no Aes Sedai can channel the One Power, nor even sense that the True Source exists. Attempts to wield the One Power from outside a ''stedding'' have no effect inside a ''stedding'' boundary. No Trolloc will enter a ''stedding'' unless driven, and even a Myrddraal will do so only at the greatest need and then with the greatest reluctance and distaste. Even Darkfriends, if truly dedicated, feel uncomfortable within a ''stedding''.
+;<cite id="stilling" style="font-style:normal;">[[stilling]]:</cite>
+:The act, performed by Aes Sedai, of shutting off a woman who can channel from the One Power. A woman who has been stilled can sense the True Source, but she cannot touch it.
+;Stone Dogs
+:
+:''See'' [[The Great Hunt/Glossary#Aiel warrior societies|Aiel warrior societies]].
+;<cite id="sul'dam" style="font-style:normal;">''[[sul'dam]]'' (SUHL-DAHM):</cite>
+:A woman who has passed the tests to show that she can wear the bracelet of an ''a'dam'' and thus control a ''damane''. ''See also [[The Great Hunt/Glossary#a'dam|a'dam]]; [[The Great Hunt/Glossary#damane|damane]].''
+;[[Sunday]]
+:
+:A feastday and festival in midsummer, celebrated in many parts of the world.
+;sung wood
+:
+:''See'' [[The Great Hunt/Glossary#Treesinger|Treesinger]].
+;[[Suroth Sabelle Meldarath|Suroth]], High Lady (SUE-roth)
+:
+:A Seanchan noblewoman of high degree.
+
+==T==
+;''Tai'shar'' (TIE-SHAHR)
+:
+:In the Old Tongue, "True blood of."
+;<cite id="ta'maral'ailen" style="font-style:normal;">''ta'maral'ailen'' (ta-MAHR-ahl-EYE-lehn):</cite>
+:In the Old Tongue, "Web of Destiny." A great change in the Pattern of an Age, centered around one or more people who are ''ta'veren''. ''See also'' [[The Great Hunt/Glossary#Pattern of an Age|Pattern of an Age]]; ''[[The Great Hunt/Glossary#ta'veren|ta'veren]]''.
+;Tanreall, Artur Paendrag (tahn-REE-ahl, AHR-tuhr PAY-ehn-DRAG)
+:
+:''See'' [[The Great Hunt/Glossary#Hawkwing, Artur|Hawkwing, Artur]].
+;[[Tarmon Gai'don]] (TAHR-mohn GAY-dohn)
+:
+:The Last Battle. ''See also'' [[The Great Hunt/Glossary#Dragon, Prophecies of the|Dragon, Prophecies of the]]; [[The Great Hunt/Glossary#Horn of Valere|Horn of Valere]].
+;[[Tar Valon]] (TAHR VAH-lon)
+:
+:A city on an island in the [[River Erinin]]. The center of Aes Sedai power, and location of the White Tower.
+;<cite id="ta'veren" style="font-style:normal;">''[[ta'veren]]'' (ta-VEER-ehn):</cite>
+:A person around whom the Wheel of Time weaves all surrounding life-threads, perhaps all life-threads, to form a [[Wheel of Time#Web of Destiny and Ta'veren|Web of Destiny]]. ''See also'' [[The Great Hunt/Glossary#Pattern of an Age|Pattern of an Age]].
+;[[Tear]] (TEER)
+:
+:A great seaport on the Sea of Storms.
+;[[Lews Therin Telamon|Telamon, Lews Therin]] (TEHL-ah-mon, LOOZ THEH-rihn)
+:
+:''See'' [[The Great Hunt/Glossary#Dragon, the|Dragon, the]].
+;<cite id="ter'angreal" style="font-style:normal;">''[[ter'angreal]]'' (TEER-ahn-GREE-ahl):</cite>
+:Any one of a number of remnants of the Age of Legends that use the One Power. Unlike ''angreal'' and ''sa'angreal'', each ''ter'angreal'' was made to do a particular thing. For example, one makes oaths taken within it binding. Some are used by Aes Sedai, but their original purposes are largely unknown. Some will kill or destroy the ability to channel of any woman who uses them. ''See also [[The Great Hunt/Glossary#angreal|angreal]]; [[The Great Hunt/Glossary#sa'angreal|sa'angreal]].''
+;''tia avende alantin'' (TEE-ah ah-VEN-day ah-LANH-tin)
+:
+:"Brother to the Trees."
+;''Tia mi aven Moridin isainde vadin:''
+:In the Old Tongue, "The grave is no bar to my call." Inscription on the Horn of Valere. ''See also'' [[The Great Hunt/Glossary#Horn of Valere|Horn of Valere]].
+;[[Tigraine Mantear|Tigraine]] (tee-GRAIN)
+:
+:As Daughter-Heir of Andor, she married [[Taringail Damodred]] and bore his son Galadedrid. Her disappearance in {{ne|972}}, shortly after her brother Luc vanished in the Blight, led to the struggle in Andor called the [[Succession Wars|Succession]], and caused the events in Cairhien that eventually brought on the Aiel War. Her sign was a woman's hand gripping a thorny rose stem with a white blossom.
+;<cite id="Time of Madness" style="font-style:normal;">[[Time of Madness]]:</cite>
+:The years after the Dark One's counterstroke tainted the male half of the True Source, when male Aes Sedai went mad and Broke the World. The exact duration of this period is unknown, but it is believed to have lasted nearly one hundred years. It ended completely only with the death of the last male Aes Sedai. ''See also'' [[The Great Hunt/Glossary#Hundred Companions, the|Hundred Companions]]; [[The Great Hunt/Glossary#True Source|True Source]]; [[The Great Hunt/Glossary#One Power, the|One Power]]; [[The Great Hunt/Glossary#Breaking of the World|Breaking of the World]].
+;Tinkers
+:
+:''See'' [[The Great Hunt/Glossary#Tuatha'an|Tuatha'an]].
+;Traveling People
+:
+:''See'' [[The Great Hunt/Glossary#Tuatha'an|Tuatha'an]].
+;Tree, the
+:
+:''See'' [[The Great Hunt/Glossary#Avendesora|Avendesora]].
+;Treekillers
+:
+:An Aiel name for the Cairhienin, always said in tones of horror and disgust.
+;<cite id=Treesinger" style="font-style:normal;">[[Treesinging|Treesinger]]:</cite>
+:An Ogier who has the ability to sing to trees (called "treesong"), either healing them, or helping them to grow and flower, or making things from the wood without damaging the tree. Objects made in this manner are called “sung wood” and are highly prized. Few Ogier remain who are Treesingers; the Talent seems to be dying out.
+;treesong
+:
+:''See'' [[The Great Hunt/Glossary#Treesinger|Treesinger]].
+;<cite id="Trollocs" style="font-style:normal;">[[Trolloc]]s (TRAHL-lohks):</cite>
+:Creatures of the Dark One, created during the War of the Shadow. Huge in stature, they are a twisted blend of animal and human stock. Vicious by nature, they kill for the pure pleasure of killing. Deceitful in the extreme, they cannot be trusted unless coerced by fear. They are divided into [[Trolloc#Social Structure|tribe-like bands]], among them the Dha'vol, the Ko'bal, and the Dhai'mon.
+;<cite id="Trolloc Wars" style="font-style:normal;">[[Trolloc Wars]]:</cite>
+:A series of wars, beginning about {{ab|1000}} and lasting more than three hundred years, during which Trolloc armies ravaged the world. Eventually the Trollocs were slain or driven back into the Great Blight, but some nations ceased to exist, while others were almost depopulated. All records of the time are fragmentary. ''See also'' [[The Great Hunt/Glossary#Covenant of the Ten Nations|Covenant of the Ten Nations]].
+;<cite id="True Source" style="font-style:normal;">[[True Source]]:</cite>
+:The driving force of the universe, which turns the Wheel of Time. It is divided into a male half (''saidin'') and a female half (''saidar''), which work at the same time with and against each other. Only a man can draw on ''saidin'', only a woman on ''saidar''. Since the beginning of the Time of Madness, ''saidin'' has been tainted by the Dark One's touch. ''See also'' [[The Great Hunt/Glossary#One Power, the|One Power]].
+;<cite id="Tuatha'an" style="font-style:normal;">''[[Tuatha'an]]'' (too-AH-thah-AHN):</cite>
+:A wandering folk, also known as the Tinkers and as the Traveling People, who live in brightly painted wagons and follow a totally pacifist philosophy called the [[Way of the Leaf]]. Things mended by Tinkers are often better than new. They are among the few who can cross the Aiel Waste unmolested, for the Aiel strictly avoid all contact with them.
+;[[Turak Aladon|Turak, High Lord of House Aladon]] (TOO-rak; AL-ah-dohn)
+:
+:A Seanchan of high degree, commander of the Hailene. ''See also'' [[The Great Hunt/Glossary#Seanchan|Seanchan]]; ''[[The Great Hunt/Glossary#Hailene|Hailene]].''
+
+==V==
+;[[Verin Mathwin|Verin]] (VEHR-ihn)
+:
+:An Aes Sedai of the [[Brown Ajah]].
+
+==W==
+;<cite id="Warder" style="font-style:normal;">[[Warder]]:</cite>
+:A warrior bonded to an Aes Sedai. The bonding is a thing of the One Power, and by it he gains such gifts as quick healing, the ability to go long periods without food, water, or rest, and the ability to sense the taint of the Dark One at a distance. So long as a Warder lives, the Aes Sedai to whom he is bonded knows he is alive however far away he is, and when he dies she will know the moment and manner of his death. The bonding does not tell her how far he is, though, nor in what direction. While most Ajahs believe an Aes Sedai may have one Warder bonded to her at a time, the Red Ajah refuses to bond any Warders at all, while the [[Green Ajah]] believe an Aes Sedai may bond as many Warders as she wishes. Ethically the Warder must accede to the bonding, but it has been known to be done involuntarily. What the Aes Sedai gain from the bonding is a closely held secret. ''See also'' [[The Great Hunt/Glossary#Aes Sedai|Aes Sedai]].
+;War of Power
+:
+:''See'' [[The Great Hunt/Glossary#War of the Shadow|War of the Shadow]].
+;<cite id="War of the Hundred Years" style="font-style:normal;">[[War of the Hundred Years]]:</cite>
+:A series of overlapping wars among constantly shifting alliances, precipitated by the death of Artur Hawkwing and the resulting struggle for his empire. It lasted from FY 994 to FY 1117. The war depopulated large parts of the lands between the Aryth Ocean and the Aiel Waste, from the Sea of Storms to the Great Blight. So great was the destruction that only fragmentary records of the time remain. The empire of Artur Hawkwing was pulled apart in the wars, and the nations of the present day were formed. ''See also'' [[The Great Hunt/Glossary#Hawkwing, Artur|Hawkwing, Artur]].
+;<cite id="War of the Shadow" style="font-style:normal;">[[War of Power|War of the Shadow]]:</cite>
+:Also known as the War of Power, it ended the Age of Legends. It began shortly after the attempt to free the Dark One, and soon involved the whole world. In a world where even the memory of war had been forgotten, every facet of war was rediscovered, often twisted by the Dark One’s touch on the world, and the One Power was used as a weapon. The war was ended by the resealing of the Dark One into his prison. ''See also'' [[The Great Hunt/Glossary#Hundred Companions, the|Hundred Companions, the]]; [[The Great Hunt/Glossary#Dragon, the|Dragon, the]].
+;<cite id="Watchers Over the Waves" style="font-style:normal;">[[The Watchers Over the Waves|Watchers Over the Waves]]:</cite>
+:A group who believe that the armies Artur Hawkwing sent across the Aryth Ocean will one day return, and so keep watch from the town of [[Falme]] (FAHL-may) on [[Toman Head]].
+;Web of Destiny
+:
+:''See [[The Great Hunt/Glossary#ta'maral'ailen|ta'maral'ailen]].''
+;[[Measurement#Weight|Weight, units of]]
+:
+:10 ounces= 1 pound; 10 pounds= stone; 10 stone= hundredweight; 10 hundredweight= 1 ton.
+;<cite id="Wheel of Time, the" style="font-style:normal;">[[Wheel of Time|Wheel of Time, the]]:</cite>
+:Time is a wheel with seven spokes, each spoke an Age. As the Wheel turns, the Ages come and go, each leaving memories that fade to legend, then to myth, and are forgotten by the time that Age comes again. The Pattern of an Age is slightly different each time an Age comes, and each time it is subject to greater change, but each time it is the same Age.
+;Whitecloaks
+:
+:''See'' [[The Great Hunt/Glossary#Children of the Light|Children of the Light]].
+;[[White Tower]]
+:
+:The palace of the Amyrlin Seat in Tar Valon, and the place where Aes Sedai are trained.
+;[[Wisdom]]
+:
+:In villages, a woman chosen by the Women’s Circle for her knowledge of such things as healing, and foretelling the weather, as well as for common good sense. A position of great responsibility and authority, both actual and implied. She is generally considered the equal of the mayor, just as the Women's Circle is the equal of the Village Council. Unlike the mayor, the Wisdom is chosen for life, and it is very rare for a Wisdom to be removed from office before her death. Depending on the land, she may instead have another title, such as Guide, Healer, Wise Woman, or Reader.
+[[Category:Book glossaries]]

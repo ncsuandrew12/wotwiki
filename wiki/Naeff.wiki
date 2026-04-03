@@ -1,0 +1,51 @@
+{{character
+| image=Ashaman.png
+| imagesize=200px
+| gender=Male
+| rank=Asha'man
+| affiliation=Dragon Reborn
+| nationality=Andoran
+| build=Lean
+| height=Tall
+| appeared={{tgs|1}}
+| lastappeared={{amol|37}}
+| living=amol
+| status=Alive
+}}'''Naeff''' is a former member of the [[Queen's Guards]] who later became an [[Asha'man]].{{ref|{{twotc}}, Naeff}} He is bonded to [[Nelavaire Demasiellin]].
+
+== Appearance ==
+He has a strong rectangular face with a square chin. He is tall with a lean build.
+
+== Abilities ==
+Naeff is strong enough to open alone suitable Gateways to [[Travel]], but he said that his talent in Traveling is not even comparable to [[Androl]]'s. Naeff is particularly able and strong in [[Air]] weaves, which is not a common quality in a male channeler.
+
+== History ==
+He was part of the [[Queen's Guards]] but resigned in disgust when Lord [[Gaebril]] took over. He then went to the [[Black Tower]] to become an Asha'man.
+
+In the period after the [[Battle of Dumai's Wells]] and before [[Rand]] reached [[Arad Doman]] the first time, Naeff was [[Bond]]ed by [[Nelavaire Demasiellin|Nelavaire]] Sedai, a [[Green Ajah|Green]] sister sworn to Rand.
+
+== Activities ==
+=== To Arad Doman ===
+Naeff accompanies [[Rand al'Thor]] to Lord [[Tellaen]]'s manor in [[Arad Doman]]. While stationed there, a [[bubble of evil]] strikes the Saldaean soldier [[Adrin]]. His remains then catch fire to the nearby manor. [[Aviendha]], who is nearby, weaves a massive column of Air and [[Water]] from a nearby river and transports water onto the fire. Naeff also creates a column of water onto the fire and helps put it out. He is sent by Rand to deliver messages between [[Davram Bashere]] and the [[Seanchan]] on a meeting place for Rand.
+When Rand pulls his force out of Arad Doman, he and [[Damer Flinn]] open the gateway for the force to enter through into [[Tear]].
+He rides with Rand when he goes to meet the Borderlander rulers inside [[Far Madding]].
+
+=== Madness Healed ===
+While in Tear, Naeff and [[Nynaeve al'Meara]] find where a bubble of evil has struck. A large circumference of the city has been turned to dust, including all the people inside it. He blows a gust of Air through it which clears away the area leaving an empty space. Nynaeve notes that Naeff's affliction from the taint on ''[[saidin]]'' is that he is convinced that [[Myrddraal]] are following him. Nynaeve [[Delving|Delves]] him and finds a huge network of dark veins within him. Using [[Spirit]] she manages to pry the projections from him and [[Healing|Heals]] him of his madness, for which he is quite grateful.
+He accompanies Rand back into Arad Doman and helps set up a gateway for weapons, armor, and uniforms to be sent through for the struggling citizens of the city.
+
+He [[Traveling|Travels]] with [[Davram t'Ghaline Bashere]] to [[Maradon]]. There he witnesses Rand destroy the entire [[Shadowspawn]] army attacking the city by himself. Rand creates so many weaves that Naeff can't follow them all.
+Naeff is disguised by a weave Rand uses on him and is then sent to deliver a message to [[Logain Ablar]] at the [[Black Tower]]. The message is that Rand was wrong and that the Asha'man are men and not just weapons. This message is received as [[Androl Genhald]] reflects on the Lord Dragon's last command while Naeff managed to leave the Black Tower unharmed. This message helps Androl and others come up with the plan to have only those Asha'man willing to be bonded remain in the Black Tower, so the Aes Sedai would not bond any who did not want to be bonded.
+
+=== The [[Last Battle]] ===
+Naeff is one of Rand's escorts at the signing of the [[Dragon's Peace]]. When [[Roedran Almaric do Arreloa a'Naloy]] enters the pavilion, he stands at attention just in case Roedran was [[Demandred]]. Perrin convinces Naeff to take him to where Rand is, which is just outside [[Shayol Ghul]]. During the Last Battle, Naeff is sent by [[Mat Cauthon]] to the Seanchan instructing them to rejoin the battle.
+
+== Naming information ==
+This character was named after charity auction winner Brian Neff.
+
+{{notes}}
+{{Primary Protagonists}}
+[[Category:Logain's followers]]
+[[Category:Channelers]]
+[[Category:Queen's Guards]]
+[[Category:Characters named after fans]]

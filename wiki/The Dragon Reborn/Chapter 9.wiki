@@ -1,0 +1,59 @@
+{{quote| Dreams can be dangerous for you, Perrin.| Moiraine to Perrin}}
+{{dablink|For the World of Dreams, another name for the wolf dream, see ''[[Tel'aran'rhiod]]''. For other uses of the words "wolf" and "dream," see [[Wolf (disambiguation)|Wolf]] and [[Dream]].}}
+{{summary|book=3|chapter=9
+|title=wolf dreams
+|icon=Fang
+|setting=[[Jarra (village)|Jarra]], ''[[Tel'aran'rhiod]]'
+}}
+
+==Summary==
+:{{pov|[[Perrin Aybara]]}}
+
+[[Perrin Aybara|Perrin]] lays in bed and thinks of the innkeeper's brother and wonders if a similar fate might lie ahead of him. He goes to [[Moiraine]]'s room. He asks if he will end up like that. She says she knows little of his situation. She saw a fragment of a book from the [[Age of Legends]].{{ref|{{2|22}}}} Some of the few who run with wolves get swallowed up by them. Dreams can be dangerous for him because wolves live partly in a world of dreams. The [[wolfspeak]] method of communication is related to dreams. Perrin wants Moiraine's help in not losing himself. She says she will try her best but her struggle against the [[Shadow]] will always have to come first. He wants her to shield his dreams. She says it wouldn't help, she cannot aid in dreams that come from within him.
+
+Perrin returns to his room to sleep and dreams of the wolves. He knows it is a dream and tries to wake up, but nothing happens. He hears [[Hopper]] telling him to run so he runs through a series of hallways. There is a nobleman there wearing black velvet and the dream seems to kill him. Perrin runs down the hallway and into a room. There is a beautiful woman there, wearing white and silver.{{ref| Lanfear.}} She says he cannot be there and that he will ruin things. Then the room become two-dimensional, rotate and disappear, and he's in the hall again. Hopper appears and tells him to leave but Perrin doesn't know how. Hopper attacks him and then he wakes up. His clothes are bloody, but it is not his blood. It is the blood of the man who was killed in the dream. He washes the blood off his face then sits on the floor at the foot of the bed so that he cannot sleep deeply. Eventually he falls into a shallow half sleep.
+
+:{{pov|[[Rand al'Thor]]}}
+
+Rand sleeps against a tree. A [[Darkhound|giant black dog]] comes toward him, and he channels the [[One Power|Power]] to shoot [[Balefire|a beam of light]] at it. It works this time and the dog is utterly destroyed. He thinks he has to get to [[Tear]] to find out if he is really the [[Dragon]]. Either he will be able to take ''[[Callandor]]'' and know that it is true, or he will die and that will be an end to it as well. He knows the dogs are hunting him but he will not be easy prey.
+
+==Unanswered Questions==
+*Who was the man Perrin saw in the [[wolf dream]]?
+*What killed the man Perrin saw in the wolf dream?
+*What did Lanfear think Perrin might ruin?
+*Why did Lanfear's departure look so unusual? Could it be how the closing Gateway appears when looked from  Tel'aran'rhiod?
+*What was Hopper trying to warn Perrin about?
+
+==Characters==
+*[[Perrin]]
+*[[Simion]]
+*[[Moiraine]]
+*[[Rand]]
+*[[Hopper]]
+*[[Lanfear]]
+
+===Referenced===
+*[[Noam]]
+*[[Mat]]
+*[[Lan]]
+*[[Nynaeve]]
+
+==Places==
+*[[Jarra (village)|Jarra]]
+*''[[Tel'aran'rhiod]]''
+
+===Referenced===
+*[[Tear]]
+
+==Concepts==
+*[[Age of Legends]]
+*[[Aes Sedai]]
+*[[Talent]]
+*[[Dreaming]]
+*''[[Ta'veren]]''
+*[[One Power]]
+*[[Dark One]]
+*''[[Saidin]]''
+
+{{notes}}
+{{DISPLAYTITLE:''Wolf Dreams''}}

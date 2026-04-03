@@ -1,0 +1,102 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Kandori
+| status=Dead
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| mentioned={{ns|4}}
+| eyes=Almost black
+| hair=Dark, curly
+| appeared={{tgh|4}}
+| lastappeared={{kod|1}}
+| lastmentioned={{tom|38}}
+| death={{ne|1000}}
+}}'''Carlinya Sorevin''' was an [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Carlinya Sorevin}}
+
+== Appearance and Personality ==
+Carlinya was 5'5" or 165 cm tall, pale, with cool, almost black eyes and a broad face.{{ref/book|2|4}} After most of her dark hair was fried off in a [[Tel'aran'rhiod]] nightmare, she wore it in a cap of dark curls{{ref/book|6|15}}. She was of moderate build, neither slender nor stout.
+
+She was somewhat messy, her hair sometimes being unkempt and her dress edge muddy from forgetting to wear a cloak. She often dressed in white with white embroidery, including a white skirt embroidered with scrolls.{{ref/book|6|7}}{{ref/book|6|34}}{{ref/book|10|19}}
+
+She had a cold manner, seldom showing any sign of emotion.{{ref/book|2|4}}{{ref/book|10|16}} Her rationality made few concessions for human foibles. Or for anyone disagreeing with her.{{ref/book|10|17}} [[Siuan Sanche]] thinks she is "A great deal of logic and not much common sense".{{ref/book|5|27}}
+
+==Strength and Abilities==
+With a [[One Power]] strength level of {{opsl|21}}, Carlinya was [[Strength in the One Power among Aes Sedai|strong]] by Aes Sedai standards and among the top tier of channelers among the [[Rebel Aes Sedai]]. Among the [[Salidar Six]], she is as strong as [[Anaiya Carel]], [[Morvrin Thakanos]] and [[Myrelle Berengari]], but not as strong as [[Sheriam Bayanar]].{{ref/book|5|27}} 
+
+She was more than strong enough to [[Travel]]{{ref/book|11|2}}
+
+==History==
+Carlinya was 46 years old. She was born in the year {{ne|954}} in [[Kandor]] and went to the Tower in {{ne|969}}. 
+
+As a novice, Carlinya made sure to commit one minor infraction per month so that she would not be thought to be stuck up.{{ref/book|5|27}} She could not understand why the other novices and Accepted still thought of her as a prig.{{ref/book|5|27}} Despite being novice and Accepted together, Moiraine only counts herself as being "acquainted with" Carlinya.{{ref/book|2|4}}
+
+She was an [[Accepted]] in the [[White Tower]] during the [[Aiel War]] when the [[Dragon]] was reborn.{{ref/book|0|3}}{{ref/book|0|4}} After spending five years as Novice and five as Accepted she was raised to the shawl in the year {{ne|979}}. 
+
+She held as much sway as most [[Sitter]]s even before the [[White Tower Schism|White Tower schism]].{{ref/book|7|8}}.
+
+She had no [[Warder]], but she considered taking one prior to the Last Battle.{{ref/book|10|16}}
+
+== Activities ==
+=== Split from the Tower ===
+Carlinya was one of her Ajah representatives to escort the [[Amyrlin]] to [[Fal Dara]].{{ref/book|2|2}} Carlinya was in the anteroom during Moiraine's audience with Siuan.{{ref/book|2|4}}
+
+Carlinya returned to Tar Valon by way of [[Medo]] with the rest of the Amyrlin's entourage.{{ref/book|2|12}}{{ref/book|2|18}}
+
+She allied herself with the [[rebel Aes Sedai]]; in fact, she was one of its earliest supporters and instigators, becoming one of its original six leaders, informally known as the [[Salidar Six]].{{ref/book|5|26}} They began planning to select an Amyrlin and Sitters and then move against Elaida.{{ref/book|5|27}} When Gareth Bryne arrived they gave him Siuan and Leane as personal maids. He agreed to build them an army.{{ref/book|5|28}}
+
+The Salidar Six met with Elayne and Nynaeve when they arrived in Salidar. They learned that Elaida already knows about Salidar.{{ref/book|5|50}}
+
+Sheriam, Anaiya, Beonin, Carlinya, Morvrin and Myrelle kept Elayne and Nynaeve busy at night with trips to ''Tel'aran'rhiod''.{{ref/book|5|54}}
+
+Later, when searching the [[Amyrlin's Study]] in ''[[Tel'aran'rhiod]]'' for information on what [[Elaida do Avriny a'Roihan]] had received, the Salidar Six were attacked by a stray nightmare of [[Trolloc]]s. They were saved when [[Elayne Trakand]] and Siuan had to remind them about the dream not being real, in which case the nightmare faded away leaving only injury. In particular Carlinya burned away a lot of her hair.{{ref/book|6|7}}
+
+Nynaeve eavesdropped while Tarna Feir met with Sheriam, Anaiya, Beonin, Carlinya, Morvrin and Myrelle in the Little Tower. They told her they need more time to consider Elaida's offer.{{ref/book|6|12}}
+
+Carlinya suggests to the Wise Ones that they are holding Egwene against her will. They put snakes in her dress for the insult.{{ref/book|6|15}}
+Nynaeve and Elayne told Sheriam, Carlinya and Morvrin about finding the Bowl of the Winds. The Aes Sedai told them in no uncertain terms that they will stay in Salidar and study. Nynaeve blew up earning them extended kitchen duty.{{ref/book|6|15}}
+
+She brought Siuan and [[Leane Sharif]] into the [[Little Tower]] to be [[Healing|Healed]] from [[stilling]] by [[Nynaeve al'Meara]].{{ref/book|6|30}}
+
+She was with the rest of the Salidar Six in ''Tel'aran'rhiod'' when they summoned [[Egwene al'Vere]] to become Amyrlin Seat.{{ref/book|6|32}}{{ref/book|6|34}}
+
+Sheriam and her circle prepared Egwene for the election ceremony. Sheriam, Morvrin and Myrelle accompanied Egwene to the Little Tower while Anaiya, Beonin and Carlinya waited outside.{{ref/book|6|35}}
+
+Sheriam, Anaiya, Beonin, Carlinya, Morvrin and Myrelle kepy Egwene up half the night telling her what they think is important.{{ref/book|6|36}}
+
+Carlinya, Sheriam, Lelaine and Romanda wanted Logain gentled again. Delana wants him killed.{{ref/book|6|52}}
+
+Carlinya was one of Sheriam's group that sent ten sisters, two of each Ajah other than Blue, back to the White Tower as moles, without informing the Hall.{{ref/book|8|8}} For this reason she had to swore an oath of fealty to Egwene; later she became a member of [[Egwene's Council]].
+
+Egwene sent Sheriam, Carlinya, Morvrin and Nisao to talk to the Sitters in preparation for the meeting with the Andoran nobles.{{ref/book|8|15}}
+
+The sisters who swore fealty to Egwene were still unsettled by it. Carlinya started and looked embarrassed every time she saw Egwene.{{ref/book|8|16}}
+
+She was with Egwene and [[Gareth Bryne]] when they surveyed the area around [[Tar Valon]]. Carlinya is annoyed when she heard that Saroiya supported negotiations.{{ref/book|10|16}} Egwene and her party return to the rebel Aes Sedai camp. Her Council members went to report to their respective Ajahs.{{ref/book|10|17}}
+
+Egwene's Council accompanied her to the meeting of the Hall. Carlinya gave advice on what the Sitters might do.{{ref/book|10|19}}
+
+=== The Tower reunited ===
+She was in council with Egwene's other advisers over Egwene's disappearance when Siuan arrived with the news that Egwene was still alive but prisoner inside the White Tower.{{ref/book|11|1}}
+
+After the Tower was reunified, she was part of a plot to catch the [[Black Ajah]] in ''Tel'aran'riod''. The Black Ajah got a preemptive strike on the White Tower Aes Sedai and their allies. Carlinya was one of the sisters killed at the beginning of the battle.{{ref/book|13|37}}
+
+== Viewing ==
+In Salidar, Min saw a black raven tattoo floating by Carlinya's face.{{ref/book|5|26}} It has since been confirmed by Maria Simons that as the raven is a symbol of the Dark One, this viewing represents her being killed by his servants (''fulfilled ''- her death in ''Tel'aran'rhiod'' at the hands of the Black Ajah).
+
+{{notes}}
+{{DEFAULTSORT:Sorevin, Carlinya}}
+[[es:Carlinya]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Sorevin, Carlinya}}
+[[es:Carlinya]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Ajah Heads]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

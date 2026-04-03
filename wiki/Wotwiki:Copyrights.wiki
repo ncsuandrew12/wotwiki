@@ -1,0 +1,33 @@
+:'''''Please see [[w:Wikia:Licensing|Wikia:Licensing]] for details of the licensing on this wiki.'''''
+:'''<span style="color:red; font-size: 150%;">Warning!</span> Information below may be outdated or incorrect.'''
+The '''text''' of all [[w:Wikia|Wikia]] sites is freely licensed under the terms of the '''GNU Free Documentation License''' (GFDL). Reusers of the content must retain it under the same licence, ensuring it remains free.
+
+Please read the [[w:text of the GNU Free Documentation License|text of the GNU Free Documentation License]] for full details of this licence.
+
+<!--- the exact wording of the paragraph below is required by the licence; please don't change it!--->
+:<b>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, with no Front-Cover Texts, and with no Back-Cover Texts.</b>
+:<b>A copy of the license is included in the section entitled "[[w:Text of the GNU Free Documentation License|GNU Free Documentation License]]".</b>
+:<b>Content on Wikia is covered by [[w:Wikia disclaimers|disclaimers]] and the Wikia [[w:terms of use|terms of use]].</b>
+
+==GNU Free Documentation License==
+
+The '''GNU Free Documentation License''' ('''GFDL''') is a [[Wikipedia:Copyleft|copyleft]] license for [[Wikipedia:Free content|free content]], designed by the [[Wikipedia:Free Software Foundation|Free Software Foundation]] (FSF).
+
+The GFDL is a [[Wikipedia:Copyleft|copyleft]] license, meaning the content can be copied, modified, and redistributed so long as the new version grants the same freedoms to others and acknowledges the authors of the Wikia page. Wikia content will, therefore, will remain free forever and can be used by anybody subject to certain restrictions, most of which serve to ensure that freedom.
+
+Wikipedia, one of the web's most popular reference works, uses the GFDL. Using the same license as that site makes it easy for Wikia users to reuse the content from Wikipedia. You must adhere to the GFDL when using Wikipedia content. An easy way to link back to Wikipedia is to use the [[w:Help:Shared templates|shared template]] <nowiki>{{w:Wikipedia|Page title}}</nowiki>.
+
+==Things to look out for==
+The following are some "danger signs" when it comes to copyright violations:
+*A chapter summary that starts out as "''charname'' - POV" was probably copied from [[EWoT]].
+*An article that begins with a sentence fragment -- that is to say, the name of the the article does not appear in the first sentence, so the sentence has no subject -- may have been copied from EWoT.
+
+==Image guidelines==
+
+GFDL or public domain images are strongly preferred on Wikia. Copyright-violating images are subject to deletion. Copyright information must be added to the image description page of every uploaded image.
+* I suggest we screw the low resolution = more likely to be fair use argument.  Not even Wikipedia with all its lawyers can come to a consensus on this, so as an Encyclopedia that wishes to be taken as seriously as possible they opt to play it safe.  I say we aim to offer the most precise coverage possible.  Copyright holders are pretty much required to ''complain'' about infringement ''before doing anything else'', so unless someone from a place like [[Wikipedia:Tor books|Tor books]] decides to do so, we should just assume we're in the right. --[[User:Gherald|Gherald]] 04:13, 27 Oct 2005 (UTC)
+
+==See also==
+* The current full version of this page for all of Wikia can be found [[w:Wikia_copyrights|here]].
+
+[[Category:Policies|{{PAGENAME}}]]

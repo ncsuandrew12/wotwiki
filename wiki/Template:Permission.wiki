@@ -1,0 +1,6 @@
+<includeonly>{{MessageBox
+| header = Used with permission
+| text = This file is copyrighted. The copyright holder has given permission for its use on the Wheel of Time wiki.
+| type = license
+| id = license
+}}</includeonly><noinclude>{{documentation}}</noinclude>

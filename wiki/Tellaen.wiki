@@ -1,0 +1,22 @@
+{{character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| nationality=Domani
+| gender=Male
+| status=Alive
+| title=Lord
+| build=portly
+| ewot=Tallean
+| appeared={{tgs|1}}
+| lastappeared={{tgs|11}}
+| lastmentioned={{tgs|22}}
+| living=tgs
+}}
+Lord '''Tellaen''' is a noble from [[Arad Doman]].
+
+== Appearance ==
+He is a portly man and wears a thin Domani mustache.
+
+== Activities ==
+He allows the [[Dragon Reborn]] and all his men to stay at his manor in Arad Doman due to Tellaen being an acquaintance of [[Davram Bashere]]. [[Rand al'Thor]] compensates him when a [[Bubble of evil]] destroys part of his manor.
+[[Category:Nobility]]

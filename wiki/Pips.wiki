@@ -1,0 +1,18 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Matrim Cauthon
+| gender=Gelding
+| color=Brown
+| appeared={{tsr|22}}
+| lastappeared={{tom|19}}
+}}
+'''Pips''' is the nondescript brown gelding owned by [[Matrim Cauthon]]. He purchased the horse in [[Tear]] before traveling with [[Rand al'Thor]] and the [[Aiel]] to [[Rhuidean]].{{ref/book|4|22}} Mat has some of his father's ability to pick good horses, and chose this one for its deep chest and strong withers. Pips is named after the spots found on dice.{{ref/book|4|22}}
+
+Pips has accompanied Mat throughout his travels. Pips has been to Tear, Rhuidean, the [[Jangai Pass]]{{Ref/book|5|20}}, [[Cairhien]] {{Ref/book|5|43}}, [[Maerone]]{{Ref/book|6|5}}, [[Salidar]]{{Ref/book|6|40}}, [[Ebou Dar]]{{Ref/book|6|44}}, various towns and villages throughout southern [[Altara]]{{Ref/book|10|28}}, [[Murandy]]{{Ref/book|12|20}}, and [[Caemlyn]].{{Ref/book|13|19}}
+
+{{notes}}
+{{stub}}

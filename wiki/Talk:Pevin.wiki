@@ -1,0 +1,31 @@
+Alantin, have you had a look at the style guide yet? Have a look at:
+
+http://wot.wikia.com/wiki/Style_Guide#Format_for_Character_Entries
+
+It is a work in progress, but it should help with standardising formats for colours. :) It has been mostly myself adding the templates, so I haven't worked extensively on the style guide yet. It would be good to have someone to discuss a consensus for a few things WRT the character template. 
+
+Where birth date is unknown, I just left it blank. Also, position seems to be a defunct field that I haven't been using. There is too much overlap with position, title and rank. I've been using rank only for military cases (such as the Whitecloaks) or positions among Aes Sedai. Commoner is assumed to be the default since anyone that isn't will have an entry for Title and will come up in the category for Lords or something similar. I would probably put Pevin as title=bannerman since there is a military rank in WoT called Bannerman and Pevin doesnt seem to be a soldier. There is a lot of ambiguity with the use of the char templater, so we need to improve on the style guide. Previously there was really only me using it.
+
+I'll add a short list of the images I have been using for each group of characters tomorrow. 
+
+[[User:Moridin 2000|Moridin_2000]] 00:39, 17 April 2009 (UTC)
+
+:I've read most of it; that's where I found the link to the Character Template.  It lists the Cairhienin colors as what I put on the page, I think.  My cairhienin_img.png came from a reference on the Elayne Trakand page to andoran-icon.png. I think I just forgot the exact format while I was copying it over.  Also, I'm unsure of the Title v. Rank issue; Title is nobility and Rank is military?  One last thing, could you take a look at {{loc|13}} page?  I have no idea how to use the chapter template found in the early tEotW chapter summaries, so I've left that out.  Another issue is that I don't know how find the icon used as the chapter heading.  Thanks. --[[User:Alantin|Alantin]] 01:15, 17 April 2009 (UTC)
+
+::Ah, than that's my fault. :P Apologies! I just noticed that it should have been ffff00 instead of ff0000. Yellow instead of red. ;) Incidentally, I keep bookmarks of pages where I have 'model' character templates for the different groups. My Cairhienin one is [[Daricain Annallin]]. If I need any Cairhienin char templates, I copy and past from there. Maybe a list of the model templates for each group would be useful?
+
+::Title vs rank - yes, that's exactly how I have been using it. Occasionally you will see rank=Sitter on AS pages, but that seems to be the only exception. Their title is already Aes Sedai as that is their honorific. The char template doesn't allow multiple entries for each field. Also an argument can be made for Sitters being a higher rank than normal sisters.
+
+::I haven't used the summary templates, but I will have a look at it. All the images can be found at:
+
+::http://wot.wikia.com/wiki/Special:ImageList
+
+::And all chapter icons SHOULD be:
+
+::http://wot.wikia.com/wiki/Category:Chapter_art
+
+::If you can't find it either place, search online for a pic to upload. IIRC, Dragonmount has a list of all the chapter icons.
+
+:::Alright, thanks.  I managed to find the Chapter Icons on my own, but it was mainly an accident brought on by some wiki-trawling.  Hopefully I'll have time to work out some more chapters soon.  The goal is to finish at least one more reread before aMoL =).  Oh, one thing, is there an Index, Archive etc. of Special pages somewhere?  I feel like we've gone afield from Pevin, LOL; should we move the discussion somewhere else? --[[User:Alantin|Alantin]] 02:54, 17 April 2009 (UTC)
+
+::::Only http://wot.wikia.com/wiki/Special:SpecialPages this one. But you've probably already seen it. [[User:Moridin 2000|Moridin_2000]] 15:13, 18 April 2009 (UTC)

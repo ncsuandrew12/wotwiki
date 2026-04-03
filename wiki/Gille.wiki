@@ -1,0 +1,22 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| status=Dead
+| nationality=Seanchan
+| occupation=Damane
+| death={{ne|1000}}
+| affiliation=Ever Victorious Army
+| hair=Pale
+| gender=Female
+| appeared={{Tpod|22}}
+| lastappeared={{tpod|23}}
+}}'''Gille''' was a ''[[damane]]'' from [[Seanchan]]. Her ''[[sul'dam]]'' was [[Nerith]].
+
+== Appearance ==
+Her hair is pale.
+
+== Activities==
+She was killed in the Seanchan campaign against [[Illian]].
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Channelers]]

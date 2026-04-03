@@ -1,0 +1,372 @@
+'''''[[The Eye of the World]]'' glossary''' is at the end of the first book. It includes descriptions of item and explanations of concepts and of characters from the first book with the knowledge learned from the text of the book. 
+__NOTOC__
+{{CompactTOC2}}
+==A==
+;[[Heran Adan|Adan, Heran]] (ay-DAN, HEH-ran)
+:Governor of [[Baerlon]].
+;<cite id="Aes Sedai" style="font-style:normal;">[[Aes Sedai]] (EYEZ seh-DEYE)</cite>
+:Wielders of the [[One Power]]. Since the [[Time of Madness]], all surviving Aes Sedai are women. Widely distrusted and feared, even hated, they are blamed by many for the [[Breaking of the World]], and are generally thought to meddle in the affairs of nations. At the same time, few rulers will be without an Aes Sedai advisor, even in lands where the existence of such a connection must be kept secret. Used as an honorific, so: Sheriam Sedai; and as a high honorific, so: Sheriam Aes Sedai. ''See also'' [[The Eye of the World/Glossary#Ajah|Ajah]]; [[The Eye of the World/Glossary#Amyrlin Seat|Amyrlin Seat]]
+;[[Age Lace]]
+:''See'' [[The Eye of the World/Glossary#Pattern of an Age|Pattern of an Age]]
+;[[Age of Legends]]
+:The Age ended by the [[War of the Shadow]] and the [[Breaking of the World]]. A time when [[Aes Sedai]] performed wonders now only dreamed of. ''See also:''[[The Eye of the World/Glossary#Wheel of Time|Wheel of Time]]
+;[[Agelmar Jagad|Agelmar; Lord Agelmar of House of Jagad]] (AGH-el-mar; JAH-gad)
+:Lord of [[Fal Dara]]. His sign is three running red foxes.
+;[[Aiel]] (eye-EEL)
+:The people [[Aiel Waste]]. Fierce and hardy. Also called Aielmen. They veil their faces before they kill, giving rise to the saying "acting like a black-veiled Aiel" to decribe someone who is being violent. Deadly warriors with weapons or with nothing but their bare hands, they will not touch a sword. Their pipers play them into battle with the music of dances, and Aielmen call battle "the Dance".
+;[[Aiel Waste]]
+:The harsh, rugged and all-but-waterless land east of the [[Spine of the World]]. Few outsiders venture there, not only because water is almost impossible to find for one not born there, but because the Aiel consider themselves at war with all other peoples and do not welcome strangers.
+; <cite id="Ajah" style="font-style:normal;">[[Ajah]] (AH-jah)</cite>
+:Societies among the Aes Sedai, to which all Aes Sedai belong. They are designated by colors: Blue Ajah, Red Ajah, White Ajah, Green Ajah, Brown Ajah, Yellow Ajah, and Gray Ajah. Each follows a specific pjilosophy of the use of the [[One Power]] and purposes of the Aes Sedai.  For example, the Red Ajah bends all its energies to finding and gentling men who are attempting to wield the Power. The Brown Ajah, on the other hand, forsakes involvment with the world and dedicates itself to seeking knowledge. There are rumors (hotly denied, and never safely mentioned in front of any Aes Sedai) of a Black Ajah, dedicated to serving the [[Dark One]].
+;''Al Ellisande!'' (ahlehl-lih-SAHN-dah)
+:In the [[Old Tongue]], "For the [[Rose of the Sun]]!"
+;''[[Aldieb]]'' (ahl-DEEB)
+:In the [[Old Tongue]], "West Wind," the wind that brings the spring rains.
+;[[Nynaeve al'Meara|al'Meara, Nynaeve]] (ahl-MEER-ah, NIGH-neev)
+:The [[Wisdom]] of [[Emond's Field]].
+;[[Rand al'Thor|al'Thor, Rand]] (ahl-THOR, RAND)
+:A young farmer and sheepherder from the [[Two Rivers]].
+;[[Egwene al'Vere|al'Vere, Egwene]] (ahl-VEER, eh-GWAIN)
+:Youngest daughter of the innkeeper in [[Emond's Field]].
+;<cite id="Amyrlin Seat" style="font-style:normal;">[[Amyrlin Seat]] (AHM-ehr-lin)</cite>
+:(1) The title of the leader of the [[Aes Sedai]]. Elected for life by the [[Hall of the Tower]], the highest council of the Aes Sedai, which consists of three representatives from each of the seven [[Ajah]]s. The Amyrlin Seat has, throtetically at least, almost supreme authority among the Aes Sedai. She ranks as the equal of a king or queen.
+:(2) The throne upon which the leader of the Aes Sedai sits.
+;[[Andor]] (AN-door)
+:The realm within which the [[Two Rivers]] lies. The sign of Andor is a rampant white lion on a field of red.
+;''[[angreal]]'' (ahn-gree-AHL)
+:A very rare object which allows anyone capable of channeling the [[One Power]] to handle a greater amount of the Power than would be safely possible unaided. Remnants of the [[Age of Legends]], the means of their making is no longer known. ''See also [[The Eye of the World/Glossary#sa'angreal|sa'angreal]]''
+;[[Arafel]] (AH-rah-fehl)
+:One of the [[Borderlands]]. The sign of Arafel is three white roses on a field of red, quartered with three red roses on a field of white.
+;[[Aram]] (AY-ram)
+:A young man of the ''[[Tuatha'an]]''.
+;''[[Avendesora]]'' (Ah-vehn-deh-SO-rah)
+:In the [[Old Tongue]], "the Tree of Life." Mentioned in many stories and legends.
+;[[Perrin Aybara|Aybara, Perrin]] (ay-BAHR-ah, PEHR-rihn)
+:A young blacksmith's apprentice from [[Emond's Field]].
+
+==B==
+;[[Ishamael#Ba'alzamon|Ba'alzamon]] (bah-AHL-zah-mon)
+:In the [[Trolloc tongue]], "Heart of the Dark." Believed to be the [[Trolloc]] name for the [[Dark One]].
+;[[Baerlon]] (BAYR-lon)
+:A city in [[Andor]] on the road from [[Caemlyn]] to the mines in the [[Mountains of Mist]].
+;[[Doral Barran|Barran, Doral]] (BAHR-rahn, DOOR-ahl)
+:The wisdom in [[Emond's Field]] prior to [[Nynaeve al'Meara]].
+;[[Bel Tine]] (BEHL TINE)
+:Spring festival in the [[Two Rivers]].
+;[[biteme]] (BITE-me)
+:A small, almost invisible biting insect.
+;[[Black Ajah]]
+:''See'' [[The Eye of the World/Glossary#Ajah|Ajah]].
+;[[Blasted Lands]]
+:Desolated lands surronding [[Shayol Ghul]], beyond the [[Great Blight]].
+;[[Great Blight|Blight, the]]
+:''See'' [[The Eye of the World/Glossary#Great Blight|Great Blight, the]].
+;[[Blue Ajah]]
+:''See'' [[The Eye of the World/Glossary#Ajah|Ajah]].
+;[[Borderlands|Borderlands, the]]
+:The nations bordering the [[Great Blight]]: [[Saldaea]], [[Arafel]], [[Kandor]], and [[Shienar]].
+;[[Dain Bornhald|Bornhald, Dain]] (BOHRN-hahld, Day-ihn)
+:An officer of the [[Children of the Light]], son of [[Lord Captain]] [[Geofram Bornhald]].
+[[Geofram Bornhald|Bornhald, Geofram]] (BOHRN-hald, JEHF-rahm)
+
+A Lord Captain of the [[Children of the Light]].
+;<cite id="Breaking of the World" style="font-style:normal;">[[Breaking of the World|Breaking of the World, the]]</cite>
+:When [[Lews Therin Telamon]] and the [[Hundred Companions]] resealed the [[Dark One]]'s  prison, the counterstroke [[taint]]ed [[saidin]]. Eventually every male [[Aes Sedai]] went horribly insane. In their madness these men, who could wield the [[One Power]] to a degree now unknown, changed the face of earth. They cause great earthquakes, leveled mountain ranges, raised new mountains, lifted dry land where seas had been, made the ocean rush in where dry land had been. Many parts of the world were completely depopulated, and the survivors were scattered like dust on the wind. This destruction is remembered in stories, legends and history as the Breaking of the World. ''See also'' [[The Eye of the World/Glossary#Hundred Companions|Hundred Companions, the]]
+;[[Gareth Bryne|Bryne, Gareth]] (BRIHN, GAH-rehth)
+:Captain-General of the Queen's Guard in [[Andor]]. Also serves as [[Morgase]]'s First Prince of the Sword. His sign is three golden stars, each of five rays.
+;[[Jaret Byar|Byar, Jaret]] (BY-ahr, JAH-ret)
+:An officer of the [[Children of the Light]].
+
+==C==
+;[[Caemlyn]] (KAYM-lihn)
+:The capital city of [[Andor]].
+;[[Cairhien]] (KEYE-ree-EHN)
+:Both a nation along the [[Spine of the World]] and the capital cift of that nation. The city was burned and looted during the [[Aiel War]] (976-{{ne|978}}). The sign of Cairhien is a many-rayed golden sun rising from the bottom of a field of sky blue.
+;''Carai an Caldazar!'' (cah-REYE ahn cahl-dah-ZAHR)
+:In the [[Old Tongue]], "For the honor of the Red Eagle!" The ancient battle cry of [[Manetheren]].
+;''Carai an Ellisande!''
+:In the [[Old Tongue]], "For the honor of the [[Rose of the Sun]]!" The battle cry of the last king of [[Manetheren]].
+;[[Matrim Cauthon|Cauthon, Matrim (Mat)]] (CAW-thon, MAT-rihm)
+:A young farmer from the [[Two Rivers]].
+;<cite id="channel" style="font-style:normal;">[[channel]]</cite>
+:(1) (''verb'') To control the flow of the [[One Power]]. 
+:(2) (''noun'') The act of controlling the flow of the One Power.
+;[[Jain Charin|Charin, Jain]] (CHAH-rihm, JAY-ihn)
+:''See'' [[The Eye of the World/Glossary#Jain Farstrider|Farstrider, Jain]].
+;<cite style="font-style:normal;" id="Children of the Light">[[Children of the Light]]</cite>
+:A society holding strict ascetic beliefs, dedicated to the defeat of the [[Dark One]] and the destruction of all [[Darkfriends]]. Founded buring the [[War of the Hundred Years]] by [[Lothair Mantelar]] (LOH-thayr MAHN-tee-LAHR) to proselytize against increasing numbers of Darkfriends, they evolved during the war into a completely military organization, extremely rigid in their beliefs and completely certain that only they know the truth and the right. They hate [[Aes Sedai]], considering them, and any who support or befriend them, Darkfriends. They are known disparagingly as Whitecloaks; their sign is a golden sunburst on a field of white.
+;<cite style="font-style:normal;" id="Covenant of the Ten Nations">[[Ten Nations|Covenant of the Ten Nations]]</cite>
+:A union formed in the centuries after the [[Breaking of the World]] (circa {{ab|200}}). Dedicated to the defeat of the [[Dark One]]. Broken apart by the [[Trolloc Wars]].
+;''[[cuendillar]]'' (CWAIN-deh-yar)
+:''See'' [[The Eye of the World/Glossary#heartstone|heartstone]].
+
+==D==
+;<cite style="font-style:normal;" id="Galadedrid Damodred">[[Galad Damodred|Damodred, Lord Galadedrid]] (DAHM-oh-drehd, gah-LAHD-eh-drihd)</cite>
+:Only son of [[Taringail Damodred]] and [[Tigraine Mantear|Tigraine]]; half-brother to [[Elayne Trakand|Elayne]] and [[Gawyn Trakand|Gawyn]]. His sign is a winged silver sword, point-down
+;[[Taringail Damodred|Damodred, Prince Taringail]] (DAHM-oh-drehd, TAH-rihn-gail)
+:A Royal Prince of [[Cairhien]], he married Tigraine and fathered Galadedrid]. When Tigraine disappeared and was declared dead, he married [[Morgase Trakand|Morgase]] and fathered Elayne and Gawyn]. He vanished under mysterious circumstances and has been presumed dead for many years. His sign was a golden, double-bitted battle axe.
+;<cite style="font-style:normal;" id="Dark One">[[Dark One]]</cite>
+:Most common name, used in every land, for Shai'tan: the source of evil, antithesis of the [[Creator]]. Imprisoned by the Creator at the moment of Creation in a prison at [[Shayol Ghul]]; an attempt to free him from that prison brought about the [[War of the Shadow]], the [[Taint|tainting of ''saidin'']], the [[Breaking of the World]], and the end of the [[Age of Legends]].
+;Dark One, naming the
+:Saying the true name of the Dark One (Shai'tan) draws his attention, inevitably bringing ill-fortune at best, disaster at worst. For that reason many euphemisms are used, among them the Dark One, Father of Lies, Sightblinder, Lord of the Grave, Shepherd of the Night, Heartsbane, Heartfang, Grassburner, and Leafblighter. Someone who seems to be inviting ill fortune is often said to be "naming the Dark One."
+;[[Darkfriend]]s
+:Those who follow the [[Dark One]] and believe they will gain great power and rewards when he is freed from his prison.
+;[[Daughter-Heir|Daughter-heir]]
+:Title of the heir to the throne of [[Andor]]. The eldest daughter of the [[Queen]] succeeds her mother on the throne. Without a surviving daughter, the throne goes to the nearest female blood-relation of the Queen.
+;Dha'vol, Dhai'mon (DAH-vohl, DEYE-mon)
+:''See'' [[The Eye of the World/Glossary#Trollocs|Trollocs]].
+;''Djevik K'Shar'' (DJEH-vihk KEH-SHAHR)
+:In the [[Trolloc tongue]], "The Dying Ground." The Trolloc name for the [[Aiel Waste]].
+;[[Bayle Domon|Domon, Bayle]] (DOH-mon, BAIL)
+:The captain of the ''[[Spray]].''
+;<cite style="font-style:normal;" id="Dragon">[[Dragon|Dragon, the]]</cite>
+:The name by which [[Lews Therin Telamon]] was known during the [[War of the Shadow]]. In the madness which overtook all male [[Aes Sedai]], Lews Therin killed every living person who carried any of his blood, as well as everyone he loved, thus earning the name Kinslayer. A saying is now used, “taken by the Dragon,” or “possessed of the Dragon,” to indicate that someone is endangering those around him or threatening them, especially if without cause. ''See also'' [[The Eye of the World/Glossary#Dragon Reborn|Dragon Reborn]].
+;<cite style="font-style:normal;" id="False Dragon">[[false dragon|Dragon, false]]</cite>
+:Occasionally men claim to be the [[Dragon Reborn]], and sometimes one of them gains following enough to require an army to put it down. Some have begun wars that involved many nations. Over the centuries most have been men unable to channel the [[One Power]], but a few could. All, however, either disappeared, or were captured or killed, without fulfilling any of the Prophecies concerning the Rebirth of the Dragon. These men are called false Dragons. ''See also'' [[The Eye of the World/Glossary#Dragon Reborn|Dragon Reborn]].
+;<cite style="font-style:normal;" id="Dragon_Reborn">[[Dragon Reborn]]</cite>
+:According to prophecy and legend the Dragon will be born again at mankind's greatest hour of need to save the world. This is not something people look forward to, both because the prophecies say the Dragon Reborn will bring a new Breaking to the world, and because [[Lews Therin]] Kinslayer, the Dragon, is a name to make men shudder, even more than three thousand years after his death. ''See also'' [[The Eye of the World/Glossary#Dragon|Dragon, the]]; [[The Eye of the World/Glossary#False Dragon|Dragon, false]].
+;[[Dragon's Fang|Dragon's Fang, the]]
+:A stylized mark, usually black, in the shape of a teardrop balanced on its point. Scrawled on a door or a house, it is an accusation of evil against the people inside.
+;[[Dreadlords]]
+:Those men and women who, able to channel the [[One Power]], went over to the Shadow during the [[Trolloc Wars]], acting as commanders of the [[Trolloc]] forces.
+
+==E==
+;[[Easar Togita|Easar; King Easar of House Togita]] (EE-zar; toh-GHEE-tah)
+:King of [[Shienar]]. His sign is a white hart, which according to Shienaran custom is held also to be a sign of Shienar along with the Black Hawk.
+;[[Elaida do Avriny a'Roihan|Elaida]] (eh-LY-da)
+:An [[Aes Sedai]] who advises Queen Morgase] of [[Andor]].
+;[[Elayne Trakand|Elayne]] (ee-LAIN)
+:Queen [[Morgase]]'s daughter, the [[Daughter-Heir]] to the Throne of [[Andor]]. Her sign is a golden lily.
+;[[Else Grinwell|Else; Else Grinwell]] (EHLZ GRIHN-wehl)
+:A farmer's daughter met on the [[Caemlyn]] Road.
+;[[Eyeless|Eyeless, the]]
+:''See'' [[The Eye of the World/Glossary#Myrddraal|Myrddraal]].
+
+==F==
+;[[Fade]]
+:''See'' [[The Eye of the World/Glossary#Myrddraal|Myrddraal]].
+;[[Padan Fain|Fain, Padan]] (FAIN, PAHD-ahn)
+:A peddler who arrives in [[Emond's Field]] just before [[Winternight]].
+;''[[Far Dareis Mai]]'' (FAHR DAH-rize MY)
+:Literally, "Maidens of the Spear." One of a number of warrior societies of the [[Aiel]]; unlike any of the others, it admits women and only women. A Maiden may not marry and remain in the society, nor may she fight while carrying a child. Any child born to a Maiden is given to another woman to raise, in such a way that no one knows who the child's mother was. ("You may belong to no man, nor may any man belong to you, nor any child. The spear is your lover, your child, and your life.") These children are treasured, for it is prophesied that a child born of a Maiden will unite the clans and return to the Aiel to the greatness they knew during the [[Age of Legends]].
+;<cite style="font-style:normal;" id="Jain_Farstrider">[[Jain Farstrider|Farstrider, Jain]] (JAY-ihn)</cite>
+:A hero of the northern lands who journeyed to many lands and had many adventures; the author of several books, as well as being the subject of books and stories. He vanished in {{ne|981}}, after returning from a trip into the [[Great Blight]] which some said had taken him all the way to [[Shayol Ghul]].
+;[[Father of Lies]]
+:''See'' [[The Eye of the World/Glossary#Dark One|Dark One]].
+;[[First Prince of the Sword]]
+:Title normally held by the eldest brother of the Queen of [[Andor]], who has been trained since childhood to command the Queen's armies in time of war and to be her adviser in time of peace. If the Queen has no surviving brother, she will appoint someone to the title.
+;[[fist]]
+:The basic military unit of the [[Trollocs]], varying in number; always more than one hundred, but never more than two hundred. A fist is usually, but not always, commanded by a [[Myrddraal]].
+;[[Five Powers|Five Powers, the]]
+:There are threads to the [[One Power]], and each person who can channel the One Power can usually grasp some threads better than others. These threads are named according to the sorts of things that can be done using them — Earth, Air, Fire, Water, and Spirit — and are called the Five Powers. Any wielder of the One Power will have a greater degree of strength with one, or possibly two, of these, and lesser strength in the others. Some few may have great strength with three, but since the Age of Legends no one has had great strength with all five. Even then this was extremely rare. The degree of strength can vary greatly between individuals, so that some who can channel are much stronger than others. Performing certain acts with the One Power requires ability in one or more of the Five Powers. For example, starting or controlling a fire requires Fire, and affecting the weather requires Air and Water, while Healing requires Water and Spirit. While Spirit was found equally in men and women, great ability with Earth and/or Fire was found much more often among men, with Water and/or Air among women. There were exceptions, but it was so often so that Earth and Fire came to be regarded as male Powers, Air and Water as female. Generally, no ability is considered stronger than any other, though there is a saying among Aes Sedai: “There is no rock so strong that water and wind cannot wear it away, no fire so fierce that water cannot quench it or wind snuff it out.” It should be noted this saying came into use long after the last male Aes Sedai was dead. Any equivalent saying among male [[Aes Sedai]] is long lost.
+;[[Flame of Tar Valon]]
+:The symbol of [[Tar Valon]] and the [[Aes Sedai]]. A stylized representation of a flame; a white teardrop with the point upward.
+;[[Forsaken|Forsaken, the]]
+:Name given to thirteen of the most powerful [[Aes Sedai]] ever known, who went over to the [[Dark One]] during the [[War of the Shadow]] in return for the promise of immortality. According to both legend and fragmentary records, they were imprisoned along with the Dark One when his prison was resealed. Their names are still used to frighten children.
+
+==G==
+;[[Galadedrid Damodred|Galad]] (gah-LAHD)
+:''See'' [[The Eye of the World/Glossary#Galadedrid Damodred|Damodred, Lord Galadedrid]].
+;[[Gawyn Trakand|Gawyn]] (GAH-wihn)
+:Queen [[Morgase Trakand|Morgase's]] son, [[Elayne Trakand|Elayne's]] brother, who will be [[First Prince of the Sword]] when Elayne ascends the throne. His sign is a white boar.
+;[[gentling]]
+:The act, performed by [[Aes Sedai]], of shutting off a male who can channel from the [[One Power]]. This is necessary because any man who learns to channel will go insane from the taint upon saidin and will almost certainly do horrible things with the Power in his madness. A man who has been gentled can still sense the True Source, but he cannot touch it. Whatever madness has come before gentling is arrested by the act of gentling, but not cured by it, and if it is done soon enough death can be averted.
+;[[gleeman]]
+:A traveling storyteller, musician, juggler, tumbler and all-around entertainer. Known by their trademark cloaks of many-colored patches, they perform mainly in the villages and smaller towns, since larger towns and cities have other entertainments available.
+;<cite style="font-style:normal;" id="Great Blight">[[Great Blight|Great Blight, the]]</cite>
+:A region in the far north, entirely corrupted by the [[Dark One]]. A haunt of [[Trollocs]], [[Myrddraal]], and other creatures of the Dark One.
+;[[Great Hunt of the Horn|Great Hunt of the Horn, the]]
+:A cycle of stories concerning the legendary search for the [[Horn of Valere]], in the years between the end of the [[Trolloc Wars]] and the beginning of the [[War of the Hundred Years]]. If told in their entirety, the cycle would take many days.
+;[[Great Lord of the Dark]]
+:The name by which [[Darkfriends]] refer to the [[Dark One]], claiming that to use his true name would be blasphemous.
+;<cite id="Great Pattern" style="font-style:normal;">[[Wheel of Time#The Pattern|Great Pattern]]</cite>
+:The [[Wheel of Time]] weaves the Patterns of the Ages into the Great Pattern, which is the whole of existence and reality, past, present and future. Also known as the Lace of Ages. ''See also'' [[The Eye of the World/Glossary#Pattern of an Age|Pattern of an Age]]; [[The Eye of the World/Glossary#Wheel of Time|Wheel of time, the]].
+;[[Great serpent|Great Serpent]]
+:A symbol for time and eternity, ancient before the [[Age of Legends]] began, consisting of a serpent eating its own tail.
+
+==H==
+;[[Halfman]]
+:''See'' [[The Eye of the World/Glossary#Myrddraal|Myrddraal]].
+;<cite style="font-style:normal;" id="Artur Hawkwing">[[Artur Hawkwing|Hawkwing, Artur]]</cite>
+:A legendary king who united all the lands west of the [[Spine of the World]], as well as some lands beyond the [[Aiel Waste]]. He even sent armies across the [[Aryth Ocean]], but all contact with these was lost at his death, which set off the [[War of the Hundred Years]]. His sign was a golden hawk in flight. See also War of the Hundred Years.
+;[[Dark One|Heartfang; Heartsbane]]
+:''See'' [[The Eye of the World/Glossary#Dark One|Dark One]].
+;<cite style="font-style:normal;" id="heartstone">[[heartstone]]</cite>
+:An indestructible substance created during the [[Age of Legends]]. Any known force used in an attempt to break it is absorbed, making heartstone stronger.
+;[[Horn of Valere]] (vah-LEER)
+:The legendary object of the [[Great Hunt of the Horn]]. The Horn supposedly can call back dead heroes from the grave to fight against the [[Shadow]].
+;<cite style="font-style:normal;" id="Hundred Companions">[[Hundred Companions|Hundred Companions, the]]</cite>
+:One hundred male [[Aes Sedai]], among the most powerful of the [[Age of Legends]], who, led by [[Lews Therin Telamon]], launched the final stroke that ended the [[War of the Shadow]] by sealing the [[Dark One]] back into his prison. The Dark One's counterstroke tainted saidin; the Hundred Companions went mad and began the [[Breaking of the World]].
+
+==I==
+;[[Illian]] (IHL-lee-ahn)
+:A great port on the [[Sea of Storms]], capital city of the nation of the same name. The sign of Illian is nine golden bees on a field of dark green.
+;[[Ingtar Shinowa|Ingtar; Lord Ingtar of House Shinowa]] (IHNG-tahr; shih-NOH-wah)
+:A [[Shienaran]] warrior met at [[Fal Dara]].
+
+==K==
+;[[Kandor]] (KANH-dohr)
+:One of the [[Borderlands]]. The sign of Kandor is a rearing red horse on a field of pale green.
+;[[Hyam Kinch|Kinch, Hyam]] (KIHNCH, HY-ahm)
+:A farmer met on the [[Caemlyn]] Road.
+;Ko'bal (KOH-bahl)
+:''See'' [[The Eye of the World/Glossary#Trollocs|Trollocs]].
+
+==L==
+;[[Lace of Ages]]
+:''See'' [[The Eye of the World/Glossary#Great Pattern|Great Pattern, the]].
+;[[Lan Mandragoran|Lan; al'Lan Mandragoran]] (AHL-LAN man-DRAG-or-an)
+:A warrior from the north; [[Moiraine]]'s companion.
+;[[Leafblighter]]
+:''See'' [[The Eye of the World/Glossary#Dark One|Dark One]].
+;[[Measurement#Length|league]]
+:A measure of distance equal to four miles. ''See also'' [[The Eye of the World/Glossary#mile|mile]].
+;[[Slayer#Luc|Luc; Lord Luc of House Mantear]] (LUKE; MAN-tee-ahr)
+:[[Tigraine]]'s brother, who would have been her First Prince of the Sword when she ascended the throne. His disappearance in the [[Great Blight]] is believed to be in some way connected to Tigraine's later disappearance. His sign was an acorn.
+;[[Lurk]] (LUHRK)
+:''See'' [[The Eye of the World/Glossary#Myrddraal|Myrddraal]].
+
+==M==
+;[[Elyas Machera|Machera, Elyas]] (mah-CHEER-ah, ee-LY-ahs)
+:A man encountered by [[Perrin Aybara|Perrin]] and [[Egwene al'Vere|Egwene]] in the forest.
+;[[Seeker|Mahdi]] (MAH-dee)
+:In the [[Old Tongue]], "Seeker." Title of the leader of a ''[[Tuatha'an]]'' carvan.
+;[[Malkier]] (mahl-KEER)
+:A nation, once one of the [[Borderlands]], now consumed by the [[Blight]]. The sign of Malkier was a golden crane in flight.
+;''[[Mandarb]]'' (MAHN-dahrb)
+:In the [[Old Tongue]], "Blade."
+;[[Manetheren]] (mahn-EHTH-ehr-ehn)
+:One of the [[Ten Nations]] that made the Second Covenant, and also the capital city of that nation. Both city and nation were utterly destroyed in the [[Trolloc Wars]].
+;[[Maradon]] (MAH-rah-don)
+:The capital city of [[Saldaea]].
+;[[Thomdril Merrilin|Merrilin, Thom]] (MER-rih-lihn, TOM)
+:A [[gleeman]] who comes to [[Emond's Field]] to perform at [[Bel Tine]].
+;<cite style="font-style:normal;" id="mile">[[Measurement#Length|mile]]</cite>
+:A measure of distance equal to one thousand spans. Four miles make one league. ''See also'' [[The Eye of the World/Glossary#span|span]].
+;[[Min Farshaw|Min]] (MIN)
+:A young woman encountered at the [[Stag and Lion]] in [[Baerlon]].
+;[[Moiraine Damodred|Moiraine]] (mwah-RAIN)
+:A visitor to [[Emond's Field]] who arrives just before [[Winternight]].
+;[[Morgase Trakand|Morgase]] (moor-GAYZ)
+:By the Grace of the Light, Queen of [[Andor]], High Seat of [[House Trakand]] (TRAHK-ahnd). Her sign is three golden keys. The sign of House Trakand is a silver keystone.
+;<cite style="font-style:normal;" id="Myrddraal">[[Myrddraal]] (MUHRD-draal)</cite>
+:Creatures of the Dark One, commanders of the [[Trollocs]]. Twisted offspring of Trollocs in which the human stock used to create the Trollocs has resurfaced, but tainted by the evil that made the Trollocs. Physically they are like men except that they have no eyes, but can see like eagles in light or dark. They have certain powers stemming from the [[Dark One]], including the ability to cause paralyzing fear with a look and the ability to vanish wherever there are shadows. One of their few known weaknesses is that they are reluctant to cross running water. In different lands they are known by many names, among them Halfmen, the Eyeless, Shadowmen, Lurk, and Fade.
+
+==O==
+;<cite style="font-style:normal;" id="One Power">[[One Power|One Power, the]]</cite>
+:The power drawn from the [[True Source]]. The vast majority of people are completely unable to learn to channel the One Power. A very small number can be taught to channel, and an even tinier number have the ability inborn. For these few there is no need to be taught; they will touch the True Source and channel the Power whether they want to or not, perhaps without even realizing what they are doing. This inborn ability usually manifests itself in late adolescence or early adulthood. If control is not taught, or self-learned (extremely difficult, with a success rate of only one in four), death is certain. Since the [[time of Madness]], no man has been able to channel the Power without eventually going completely, horribly mad; and then, even if he has learned some control, dying from a wasting sickness which causes the sufferer to rot alive—a sickness caused, as is the madness, by the Dark One's [[taint|taint on saidin]]. For a woman the death that comes without control of the Power is less horrible, but it is death just the same. [[Aes Sedai]] search for girls with the inborn ability as much to save their lives as to increase Aes Sedai numbers, and for men with it in order to stop the terrible things they inevitably do with the Power in their madness. ''See also'' [[The Eye of the World/Glossary#channel|channel]]; [[The Eye of the World/Glossary#Time of Madness|Time of Madness]]; [[The Eye of the World/Glossary#True Source|True Source]].
+
+==P==
+;<cite style="font-style:normal;" id="Pattern of an Age">[[Wheel of Time#The Pattern|Pattern of an Age]]</cite>
+:The Wheel of Time weaves the threads of human lives into the Pattern of an Age, which forms the substance of reality for that Age; also known as Age Lace. ''See also'' [[The Eye of the World/Glossary#ta'veren|ta'veren]].
+
+==Q==
+;[[Hand of the Light|Questioners, the]]
+:An order within the [[Children of the Light]]. Their avowed purposes are discovering the truth in disputations and uncovering [[Darkfriends]]. In the search for truth and the Light, as they see it, they are even more zealous than the Children of the Light as a whole. Their normal method of inquiry is by torture; their normal attitude that they know the truth already and must only make their victim confess to it. The Questioners refer to themselves as the Hand of the Light, and at times act as if they were entirely separate from the Children and the Council of the Anointed, which commands the Children. The head of the Questioners is the [[High Inquisitor]], who sits on the [[Council of the Anointed]].
+
+==R==
+;[[Red Ajah]]
+:''See'' [[The Eye of the World/Glossary#Ajah|Ajah]]
+
+==S==
+;<cite style="font-style:normal;" id="sa'angreal">''[[sa'angreal]]'' (SAH-ahn-GREE-ahl)</cite>
+:An extremely rare object which allows an individual to channel much more of the [[One Power]] than would otherwise be possible or safe. A ''sa'angreal'' is like unto, but much, much more powerful than, an ''[[angreal]]''. Remnants of the [[Age of Legends]], the means of their making is no longer known.
+;''[[saidar]]''; ''[[saidin]]'' (sah-ih-DAHR; sah-ih-DEEN)
+:''See'' [[The Eye of the World/Glossary#True Source|True Source]].
+;[[Saldaea]] (sahl-DAY-ee-ah)
+:One of the [[Borderlands]]. The sign of Saldaea is three silver fish on a field of dark blue.
+;[[Sea Folk]]
+:Inhabitants of islands in the [[Aryth Ocean|Aryth (AH-rihth) Ocean]] and the [[Sea of Storms]], they spend little time on those islands, living most of their lives on their ships. Most seaborne trade is carried by the Sea Folk's ships.
+;[[Second Covenant]]
+:''See'' [[The Eye of the World/Glossary#Covenant of the Ten Nations|Covenant of the Ten Nations]].
+;[[Shadar Logoth]] (SHAH-dahr LOH-goth)
+:In the [[Old Tongue]], "the Place Where the Shadow Waits." A city abandoned and shunned since the [[Trolloc Wars]]. Also called "Shadow's Waiting."
+;[[Shadowman]]
+:''See'' [[The Eye of the World/Glossary#Myrddraal|Myrddraal]].
+;[[Dark One|Shai'tan]] (SHAY-ih-TAN)
+:''See'' [[The Eye of the World/Glossary#Dark One|Dark One]].
+;[[Shayol Ghul]] (SHAY-of GHOOL)
+:A mountain in the [[Blasted Lands]], the site of the [[Dark One]]'s prison.
+;[[Dark One|Shepherd of the Night]]
+:''See'' [[The Eye of the World/Glossary#Dark One|Dark One]].
+;[[Sheriam Bayanar|Sheriam]] (SHEER-ee-ahm)
+:An [[Aes Sedai]], of the [[Blue Ajah]].
+;[[Shienar]] (shy-NAHR)
+:One of the [[Borderlands]]. The sign of Shienar is a stooping black hawk.
+;[[shoufa]] (SHOO fah)
+:A garment of the [[Aiel]], a cloth, usually the color of sand or rock, that wraps around the head and neck, leaving only the face bare.
+;[[Dark One|Sightburner]]
+:''See'' [[The Eye of the World/Glossary#Dark One|Dark One]].
+;<cite style="font-style:normal;" id="span">[[Measurement#Length|span]]</cite>
+:A measure of distance equal to two paces. A thousand spans make a mile.
+;[[Spine of the World|Spine of the World, the]]
+:A towering mountain range, with only a few passes, which separates the [[Aiel Waste]] from the lands to the west.
+;''[[stedding]]'' (STEHD-ding)
+:An [[Ogier]] (OH geer) homeland. Many ''stedding'' have been abandoned since the [[Breaking of the World]]. They are portrayed in story and legend as havens, and with reason. They are shielded in some way, no longer understood, so that within them no [[Aes Sedai]] can [[channel]] the [[One Power]], nor even sense that the [[True Source]] exists. Attempts to wield the One Power from outside a ''stedding'' have no effect inside a ''stedding'' boundary. No Trolloc will enter a ''stedding'' unless driven, and even a [[Myrddraal]] will do so only at the greatest need and then with the greatest reluctance and distaste. Even [[Darkfriends]], if truly dedicated, feel uncomfortable within a ''stedding''.
+;[[Stone of Tear]]
+:The fortress guarding the city of Tear. Said to be the earliest fortress built after the Time of Madness, and said by some to have been built during the Time of Madness. ''See also'' [[The Eye of the World/Glossary#Tear|Tear]].
+;[[Sunday]]
+:A feastday and festival in midsummer, widely celebrated.
+
+==T==
+;[[tabac]] (tah-BAHK)
+:A weed, widely cultivated. The leaves of it, when dried and cured, are burned in wooden holders called pipes, the fumes being inhaled.
+;[[Martyn Tallanvor|Tallanvor, Martyn]] (TAHL-ahn-vohr, mahr-TEEN)
+:Guardsman-Lieutenant of the Queen's Guard; met in [[Caemlyn]].
+;''ta'maral'ailen'' (tah-MAHR-ahl-EYE-lehn)
+:In the Old Tongue, "Web of Destiny."
+;[[Artur Paendrag Tanreall|Tanreall, Artur Paendrag]] (tahn-REE-ahl, AHR-tuhr PAY-ehn-DRAG)
+:''See'' [[The Eye of the World/Glossary#Artur Hawkwing|Hawkwing, Artur]]
+;[[Tar Valon]] (TAHR VAH-lon)
+:A city on an island in the [[River Erinin]]. The center of [[Aes Sedai]] power, and location of the [[Amyrlin Seat]].
+;<cite style="font-style:normal;" id="ta'veren">''[[ta'veren]]'' (tah-VEER-ehn)</cite>
+:A person around whom the [[Wheel of Time]] weaves all surrounding life-threads, perhaps all life-threads, to form a [[Web of Destiny]]. ''See also'' [[The Eye of the World/Glossary#Pattern of an Age|Pattern of an Age]].
+;[[Tear]] (TEER)
+:A great seaport on the [[Sea of Storms]]. The sign of Tear is three white crescents on a field of red and gold.
+;[[Lews Therin Telamon|Telamon, Lews Therin]] (TEHL-ah-mon, LOOZ THEH-rihn)
+:''See also'' [[The Eye of the World/Glossary#Dragon|Dragon, the]].
+;[[Thakan'dar]] (thah-kahn-DAHR)
+:An eternally fog-shrouded valley below the slopes of [[Shayol Ghul]].
+;[[Tigraine Mantear|Tigraine]] (tee-GRAIN)
+:As Daughter-Heir of Andor, she married Taringail Damodred and bore his son Galadedrid. Her disappearance in {{ne|972}}, shortly after her brother Luc vanished in the Blight, led to the struggle in Andor called the [[Succession Wars|Succession]], and caused the events in Cairhien which eventually brought on the Aiel War. Her sign was a woman's hand gripping a thorny rose-stem with a white blossom.
+;<cite style="font-style:normal;" id="Time of Madness">[[Time of Madness]]</cite>
+:''See'' [[The Eye of the World/Glossary#Breaking of the World|Breaking of the World, the]].
+;[[Tuatha'an|Tinkers]]
+:''See'' [[The Eye of the World/Glossary#Tuatha'an|Tuatha'an]].
+;[[Tuatha'an|Traveling People]]
+:''See'' [[The Eye of the World/Glossary#Tuatha'an|Tuatha'an]].
+;[[Trolloc Wars]]
+:A series of wars, beginning about {{ab|1000}} and lasting more than three hundred years, during which [[Trolloc]] armies ravaged the world. Eventually the Trollocs were slain or driven back into the [[Great Blight]], but some nations ceased to exist, while others were almost depopulated. All records of the time are fragmentary. ''See also'' [[The Eye of the World/Glossary#Covenant of the Ten Nations|Covenant of the Ten Nations]].
+; <cite style="font-style:normal;" id="Trollocs">[[Trolloc]]s (TRAHL-lohks)</cite>
+:Creatures of the [[Dark One]], created during the [[War of the Shadow]]. Huge in stature, vicious in the extreme, they are a twisted blend of animal and human stock, and kill for the pure pleasure of killing. Sly, deceitful and treacherous, they can be trusted only by those they fear. They are omnivorous and will eat any kind of meat, including human flesh and the flesh of other Trollocs. Largely of human origin, they are able to interbreed with humankind, but the offspring are usually stillborn, and those which are not often fail to survive. They are divided into tribe-like bands, chief among them being the Ahf'frait, Al'ghol, Bhan'sheen, Dha'vol, Dhai'mon, Dhjin'nen, Ghar'ghael, Ghob'hlin, Gho'hlem, Ghraem'lan, Ko'bal, and the Kno'mon.
+;<cite style="font-style:normal;" id="True Source">[[True Source]]</cite>
+:The driving force of the universe, which turns the [[Wheel of Time]]. It is divided into a male half (''[[saidin]]'') and a female half (''[[saidar]]''), which work at the same time with and against each other. Only a man can draw on ''saidin'', only a woman on ''saidar''. Since the beginning of the [[Time of Madness]], ''saidin'' has been [[taint]]ed by the Dark One's touch. ''See also'' [[The Eye of the World/Glossary#One Power|One Power]].
+;<cite style="font-style:normal;" id="Tuatha'an">''[[Tuatha'an]]'' (too-AH-thah-AHN)</cite>
+:A wandering folk, also known as the Tinkers and as the Traveling People, who live in brightly painted wagons and follow a totally pacifist philosophy called the [[Way of the Leaf]]. Things mended by Tinkers are often better than new, but the ''Tuatha'an'' are shunned by many villages because of stories that they steal children and try to convert young people to their beliefs.
+
+==V==
+;<cite id="Village Council" style="font-style:normal;">[[Village Council]]</cite>
+:In most villages a group of men, elected by the townsmen and headed by a Mayor, who are responsible for making decisions which affect the village as a whole and for negotiating with the Councils of other villages over matters which affect the villages jointly. They are at odds with the [[Women's Circle]] in so many villages that this conflict is seen as almost traditional. ''See also'' [[The Eye of the World/Glossary#Women's Circle|Women's Circle]].
+
+==W==
+;[[War of the Hundred Years]]
+:A series of overlapping wars among constantly shifting alliances, precipitated by the death of [[Artur Hawkwing]] and the resulting struggle for his empire. It lasted from {{Fy|994}} to {{Fy|1117}}. The war depopulated large parts of the lands between the [[Aryth Ocean]] and the [[Aiel Waste]], from the [[Sea of Storms]] to the [[Great Blight]]. So great was the destruction that only fragmentary records of the time remain. The empire of Artur Hawkwing was pulled apart, and the nations of the present day were formed.
+;[[War of the Shadow]]
+:Also known as the War of Power, it ended the [[Age of Legends]]. It began shortly after the attempt to free the [[Dark One]], and soon involved the whole world. In a world where even the memory of war had been forgotten, every facet of war was rediscovered, often twisted by the Dark One's touch on the World, and the [[One Power]] was used as a weapon. The war was ended by the resealing of the Dark One into his prison.
+;[[Warder]]
+:A warrior bonded to an [[Aes Sedai]]. The bonding is a thing of the [[One Power]], and by it he gains such gifts as quick healing, the ability to go long periods without food, water or rest, and the ability to sense the taint of the [[Dark One]] at a distance. So long as a Warder lives, the Aes Sedai to whom he is bonded knows he is alive however far away he is, and when he dies she will know the moment and manner of his death. While most [[Ajah]]s believe an Aes Sedai may have one Warder bonded to her at a time, the [[Red Ajah]] refuses to bond any Warders at all, while the [[Green Ajah]] believes an Aes Sedai may bond as many Warders as she wishes. Ethically the Warder must accede to the bonding, but it has been known to be done involuntarily. What the Aes Sedai gain from the bonding is a closely-held secret. ''See also'' [[The Eye of the World/Glossary#Aes Sedai|Aes Sedai]].
+;[[Web of Destiny]]
+:A great change in the Pattern of an Age, centered around one or more people who are ''[[ta'veren]]''.
+;<cite id="Wheel of Time" style="font-style:normal;">[[Wheel of Time|Wheel of time, the]]</cite>
+:Time is a wheel with seven spokes, each spoke an Age. As the Wheel turns, the Ages come and go, each leaving memories that fade to legend, then to myth, and are forgotten by the time that Age comes again. The Pattern of an Age is slightly different each time an Age comes, and each time it is subject to greater change, but each time it is the same Age.
+;[[White Ajah]]
+:''See'' [[The Eye of the World/Glossary#Ajah|Ajah]].
+;[[White Tower]]
+:The palace of the [[Amyrlin Seat]] in [[Tar Valon]].
+;[[Children of the Light|Whitecloaks]]
+:''See'' [[The Eye of the World/Glossary#Children of the Light|Children of the Light]].
+;[[Wisdom]]
+:In villages, a woman chosen by the Women's Circle to sit in the Circle for her knowledge of such things as healing and foretelling the weather, as well as for common, good sense. A position of great responsibility and authority, both actual and implied. She is generally considered the equal of the Mayor, and in some villages his superior. Unlike the Mayor, she is chosen for life, and it is very rare for a Wisdom to be removed from office before her death. Almost traditionally in conflict with the Mayor. ''See also'' [[The Eye of the World/Glossary#Women's Circle|Women's Circle]].
+;<cite style="font-style:normal;" id="Women's Circle">[[Women's Circle]]</cite>
+:A group of women elected by the women of a village, responsible for deciding such matters as are considered solely women's responsibility (for example, when to plant the crops and when to harvest). Equal in authority to the Village Council, with clearly-delineated lines and areas of responsibility. Often at odds with the Village Council. ''See also'' [[The Eye of the World/Glossary#Village Council|Village Council]].
+[[Category:Book glossaries]]

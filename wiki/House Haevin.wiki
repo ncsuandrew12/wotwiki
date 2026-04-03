@@ -1,0 +1,21 @@
+__NOTOC__
+[[image:Haevin.png|right|thumb|200px|Sign of House Haevin]]
+'''House Haevin''' is one of the 19 Major [[:Category:Noble houses|Noble houses]] of [[Andor]]. Its current [[High Seat]] is [[Catalyn Haevin]]. Haevins are known for their acid tongues, and even take pride in that fact.{{ref/book|10|13}}
+
+==Members==
+*[[Catalyn Haevin]] (High Seat)
+*[[Arendor Haevin]]
+
+==House Sigil==
+The sigil of House Haevin is the blue bear.{{ref/book|10|13}}
+
+==Activities==
+'''[[Succession Wars|Fourth Succession War]]''' - House Haevin (along [[House Taravin]], [[House Gilyard]], [[House Mantear]], and [[House Northan]]) was one of the first five Houses to lend its support to [[House Trakand]] in its claim for the [[Lion Throne]]{{ref/book|10|13}}.
+{{notes}}
+
+{{short}}
+
+[[es:Casa Haevin|Haevin]]
+[[Category:Andor|Haevin]]
+[[Category:Noble houses|Haevin]]
+[[Category:Major Houses of Andor|Haevin]]

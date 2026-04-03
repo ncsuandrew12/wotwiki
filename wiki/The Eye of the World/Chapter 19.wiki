@@ -1,0 +1,116 @@
+{{quote|The dead can be reborn, or take a living body, and it is not something to speak of lightly.|[[Thomdril Merrilin]]}}
+{{dablink|For the city whose name means "Shadow's Waiting" in the [[Old Tongue]], see [[Shadar Logoth]]. For other uses of the word "shadow," see [[Shadow (disambiguation)|Shadow]].}}
+{{summary |book=1 |ewot=ch19 | wotmania=020 | tarvalon=482
+|chapter=19
+|title=Shadow's Waiting
+|icon=ravens
+|setting=[[Shadar Logoth]]
+}}
+==Summary==
+:{{pov|[[Rand al'Thor]]}}
+
+As [[Rand al'Thor|Rand]] and his friends make their way into the dead city of [[Shadar Logoth]], they find streets choked with weeds and piles of rubble everywhere, with not a living thing stirring. But the city is yet impressive, even half destroyed, with buildings large enough to dwarf the largest ones in [[Baerlon]], huge fountains now devoid of water, and massive colissea.
+
+[[al'Lan Mandragoran|Lan]] chooses a building to make camp in for the night, and instructs Rand, [[Matrim Cauthon|Mat]] and [[Perrin Aybara|Perrin]] to bring the horses inside. As they do so, [[Nynaeve al'Meara|Nynaeve]] is rummaging through her sack of herbs for something to give to [[Moiraine Damodred|Moiraine]], while Lan cautions her to take careful heed of what she dispenses.
+
+When the horses have been seen to, [[Thomdril Merrilin|Thom]] says he's going inside for a smoke, but the boys decide to go out exploring the city - taking the back way out so as not to be stopped by the [[Aes Sedai]] or her [[Warder]].
+
+The three explore the city until the sun is sinking very low, and are just starting to think of going back to the rest of the party, when Mat brings up the subject of finding treasure. When Rand and Perrin express doubt of such things, he says he at least wants to climb one of the towers. At this, a man speaks from behind them, saying that the towers are not safe.
+
+The man says his name is [[Mordeth]], and says he has not seen anyone in the city in a very long time. Rand remarks that they are on their way to [[Caemlyn]]. Mordeth answers that he has found a considerable amount of treasure―more than he can carry away on his own. He asks if Rand and his friends could help him, in exchange for keeping as much of it as they themselves can carry. Mat quickly agrees, so Rand and Perrin go along. The strange man takes them deep beneath one of the buildings to a room filled with gold, jewels and gem-encrusted objects of every type.
+
+Dazzled by the riches, Mat inadvertently reveals that there are other people in the city with them and that they are travelling to [[Tar Valon]]. This admission enrages Mordeth, who exclaims that he has been lied to. When Rand suddenly notices that the man is casting no shadow on the walls and comments on it, Mordeth begins to grow until he seems to fill the entire room, reaching out for Rand. Rand and Perrin recoil in horror, scrabbling to free their weapons, while Mat snatches a [[ruby-hilted dagger]] from the hoard.
+
+Then a scream rends the air, and suddenly Mordeth is normal size again, cowering in a corner. When the three boys realize a trick was being used on them, Mordeth wails that they are all dead, then leaps toward the wall, transforming into a wisp of smoke that vanishes into the cracks in the stone.
+
+Perrin and Rand want to leave immediately, but Mat protests that they can't just leave all the treasure behind. So Perrin and Rand each grab one of Mat's arms and haul him bodily toward the stairs, with him shouting all the while about the treasure. When the torches begin to go out, Mat stops shouting, and by the time the group reaches the bottom of the stairs, all of them are running as fast as they can go.
+
+When they finally emerge, screaming, into the streets of the city, the sun has more than half disappeared behind the horizon. At first, they feel relieved to be out of the building, thinking they are safe. But then they begin to sense eyes watching them from the ruins lining the street. Fearfully, they decide to go as quickly as possible back to the others, staying in the middle of the street as much as possible.
+
+Bursting back into the room Lan had chosen earlier, the three are confronted by Moiraine, who demands an explanation of what has happened to them. When she hears the name 'Mordeth', Moiraine questions them more closely. She wants to know if the man gave them anything or if they did anything for him. Rand assures her none of those things happened.
+
+In response to a question from [[Egwene al'Vere|Egwene]], Moiraine then tells them a little of the history of [[Aridhol]], the city that became [[Shadar Logoth]]. She assures everyone that neither Mordeth nor any other evil that inhabits the city can cross the wards she has set around their resting place. Lan has gone out scouting, but everyone else tries to get some sleep. Rand has a strange dream about being a child chased by Mordeth and an old man watches them, cackling.
+
+Returning in the middle of the night, Lan tells Moiraine that there are [[Trollocs]] inside the walls―one fist being driven by four [[Myrddraal]]. Moiraine decides they must leave the city immediately and make for the [[Arinelle|River Arinelle]]. Once there, she plans to set up a ward to hold back the [[Dark One]]'s forces until they can find a way to cross.
+
+==Unanswered Questions==
+* Why did Mordeth suddenly stop trying to kill the boys?
+* Who was the old man in Rand's dream?
+
+==Characters==
+* [[al'Lan Mandragoran]]
+* [[Rand al'Thor]]
+* [[Moiraine Damodred]]
+* [[Nynaeve al'Meara]]
+* [[Egwene al'Vere]]
+* [[Thomdril Merrilin]]
+* [[Aldieb]] (animal)
+* [[Cloud]] (animal)
+* [[Bela]] (animal)
+* [[Perrin Aybara]]
+* [[Mandarb]] (animal)
+* [[Matrim Cauthon]]
+* [[Mordeth]]
+
+===Referenced===
+* [[Aemon al Caar al Thorin]]
+* [[Dark One]]
+* [[Alsbet Luhhan]] - as ''Mistress Luhhan''
+* [[Tam al'Thor]]
+* [[Thorin al Toren al Ban]]
+* [[Balwen Mayel]]
+* [[Caar al Thorin al Toren]]
+* [[Rhea]]
+
+===Groups===
+* [[Aes Sedai]]
+* [[Warder]]s
+* [[Trolloc]]s
+** [[Dha'vol]]
+* [[Children of the Light]]
+* [[Darkfriend]]s
+* [[Myrddraal]]
+* [[Dreadlord]]s
+
+==Places==
+* [[Shadar Logoth]]
+
+===Referenced===
+* [[Baerlon]]
+* [[Stag and Lion]]
+* [[Emond's Field]]
+* [[Manetheren]]
+* [[Two Rivers]]
+* [[Winespring Inn]]
+* [[Caemlyn]]
+* [[Tar Valon]]
+* [[Waterwood]]
+* [[Borderlands]]
+* [[Aleth-Loriel]] Historical nation
+* [[Shayol Ghul]]
+* [[Arinelle]]
+* [[Saldaea]]
+
+==Events==
+===Referenced===
+* [[Trolloc Wars]]
+* [[Breaking of the World]]
+
+==Items==
+* [[Heron-mark sword]]
+* [[Half-moon axe]]
+* [[Ruby-hilted dagger]]
+
+==Concepts==
+* [[Light]]
+* [[Ten Nations]]
+* [[Second Covenant]]
+* [[Pattern]]
+* [[Mashadar]]
+* [[Shadow]]
+* [[Creator]]
+
+===Old Tongue===
+* ''Shadar Logoth'' - "Place Where the Shadow Waits"; "Shadow's Waiting"
+
+{{DISPLAYTITLE:''Shadow's Waiting''}}

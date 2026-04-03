@@ -1,0 +1,31 @@
+{{character
+| image=GreenAjah.png
+| imagesize=250px
+| ewothist=Rashima
+| nationality=Unknown nationality
+| gender=Female
+| ajah=Green
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| affiliation=White Tower
+| status=Dead
+| birth={{Ab|1150}}
+| death={{Ab|1301}}
+| mentioned={{loc|49}}
+}}
+'''Rashima Kerenmosa''' (c. [[1150 AB|1150]] - {{Ab|1301}}) is one of the most decorated and famous [[Aes Sedai]] since the [[Breaking of the World]]. She is considered a hero by the [[Green Ajah]], one of their greatest and, alongside [[Caraighan Maconar]], the symbol of all it means to be a Green sister.
+
+== History ==
+Rashima was born circa {{ab|1150}}, during the [[Trolloc Wars]]. She went to the [[White Tower]] around {{ab|1165}} and spent five years as a [[novice]] and five years as [[Accepted]]. She was raised to the Green Ajah around {{ab|1175}}. In {{Ab|1251}}, she became the [[Amyrlin Seat]], the most powerful position on the continent. While all Amyrlins during the [[Trolloc Wars]] had been more martial than their peacetime counterparts, Rashima took this to new extremes. She served directly as a general and battle leader, rather than relying on advice from a [[Warder]] or general. She fought in person rather than relying on others. Rashima is credited with restoring morale to the faltering [[Ten Nations]] after the destruction of [[Aridhol]] and [[Manetheren]], with [[Trolloc]] armies ranging as far south as [[Barashta]] on the [[Sea of Storms]].
+
+Rashima led the defense of [[Tar Valon]] when the Trollocs broke into the city and partially razed it circa {{Ab|1290}}. She began diplomatic and military overtures that led to a string of major victories for the Ten Nations over the next ten years, most notably at [[Kaisin Pass]], the [[Sorelle Step]], [[Larapelle]], and [[Tel Norwin]]. Rashima's efforts culminated at the [[Battle of Maighande]] in {{ab|1301}}, where the nations achieved a decisive victory over the Trollocs. Although not the final victory—tracking down and destroying all the remaining Trolloc bands would take another fifty years—it broke the back of the [[Shadowspawn]] invasion.
+
+Rashima died during the battle, along with her five Warders. Around their bodies a wall of Trolloc and [[Myrddraal]] corpses was found, along with the bodies of no fewer than nine [[Dreadlords]]. This proves that she must have been very strong in the [[One Power]].
+
+{{DEFAULTSORT:Kerenmosa, Rashima}}
+[[es:Rashima Kerenmosa]]
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai after the Breaking]]
+[[Category:Aes Sedai]]

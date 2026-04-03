@@ -1,0 +1,15 @@
+{{ character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Saldaean
+| occupation=Soldier
+| gender=Male
+| appeared={{loc|45}}
+| lastappeared={{loc|45}}
+| living=loc
+}}
+'''Jidar''' is a [[Saldaean]] soldier under the command of [[Davram Bashere]]. 
+
+== Activities ==
+He is one of Saldeans who now occupy and patrol [[Caemlyn]].

@@ -1,0 +1,16 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=Rabbit_Nose
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Male
+| appeared={{loc|54}}
+}}
+'''Rabbit Nose''' is a young, fierce [[wolf]].
+
+==Activities==
+Rabbit Nose, along with [[Two Moons]], [[Wildfire]], [[Old Deer]], [[Half Tail]], [[Morning Clouds]] and many more wolves are known to [[Perrin Aybara]]. They scout for Perrin when he is searching for [[Rand al'Thor]], who was kidnapped by [[Aes Sedai]].{{ref/book|6|54}}
+
+{{notes}}

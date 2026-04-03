@@ -1,0 +1,24 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px
+|nationality = Unknown nationality 
+| status=Alive
+| gender=Male
+| affiliation=Rand al'Thor
+| occupation=Asha'man
+| rank=Asha'man
+| appeared={{tom|31}}
+| lastappeared={{amol|31}}
+| living=amol
+}}
+'''Binde''' is an [[Asha'man]]
+
+== Activities ==
+
+Binde was with [[Rodel Ituralde]] during the [[Last Battle]]. He shielded troops of the Light from enemy arrows. His madness made him think an enemy was trying to take his hands.
+
+{{short}}
+[[Category:Channelers]]
+[[Category:Men]]
+[[Category:Learners]]
+[[Category:Short pages]]

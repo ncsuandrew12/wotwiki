@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Dain Bornhald]] and a fellow member of the [[Children of the Light]].
+| Source             = ''[[The Eye of the World 11]]''
+| Artist             = Andie Tong
+| Artist2            = Nicolas Chapuis‎
+}}

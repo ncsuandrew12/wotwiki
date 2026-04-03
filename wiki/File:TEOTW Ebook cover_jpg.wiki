@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover
+| Description             = [[The Eye of the World]] Ebook cover.
+| Source                  = Dragonmount.com
+| Artist                  = David Grove 
+}}
+[[Category:The Eye of the World covers]]

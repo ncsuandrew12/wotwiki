@@ -1,0 +1,16 @@
+{{Character
+| image=MurandyFlag.png
+| imagesize=250px
+| occupation=Unknown occupation
+| nationality=Murandian
+| gender=Male
+| build=
+| status=Dead
+| appeared={{tgs|28}}
+| lastappeared={{tgs|28}}
+| living=tgs
+}}
+'''Ledron''' is a man in the village of [[Hinderstap]]. 
+==History==
+As many he is probably killed during the night when the village fell to the madness. Like the rest of the town, he is alive the next morning.
+[[Category:Short pages]]

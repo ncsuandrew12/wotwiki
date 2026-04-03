@@ -1,0 +1,24 @@
+{{Character
+| image=Leaves.png
+| imagesize=200px
+| ewothist=Sulwin
+| gender=Male
+| height=Tall
+| eyes=Deep-set
+| hair=Long
+| status=Dead
+| clan=Da'shain Aiel
+| appeared={{tsr|26}}
+| lastappeared={{tsr|26}}
+}}
+'''Sulwin''' was a [[Da'shain Aiel]] at the time of the [[Breaking]] and the leader of those who split from the Da'shain Aiel to become the ancestors of the [[Traveling People|Tuatha'an.]] 
+
+==Appearance==
+Sulwin was a tall man with deep-set eyes and long hair. He had let his hair grow, as if to hide being Aiel. {{ref/book|4|26}}
+
+==History==
+As the leader of some frightened Da'shain Aiel after the raid which killed [[Adan]]'s last son and several other Da'shain Aiel, he decided to abandon the objects of which they were charged to protect by the Aes Sedai. Instead they wanted to find a safe place and find the lost [[Song]]s of Aiel. They kept the Covenant, The Way of the Leaf. Sulwin and his followers are the ancestors of the ''[[Tuatha'an]]''.{{ref/book|4|26}}
+
+{{short}}
+{{notes}}
+[[Category:Tuatha'an (people)]]

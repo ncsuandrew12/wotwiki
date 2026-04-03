@@ -1,0 +1,34 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| death={{ne|1000}}
+| eyes=Blue
+| rank=So'jhin
+| status=Dead
+| nationality=Seanchan
+| gender=Female
+| appeared={{Tgh|40}}
+| lastappeared={{tpod|24}}
+| lastmentioned={{kod|p}}
+}}
+'''Alwhin''' was ''[[so'jhin]]'' to [[High Lord|High Lady]] [[Suroth]]. She was from [[Seanchan]] and was previously a ''[[sul'dam]]''. 
+
+== Appearance ==
+She had a sharp face and thin lips with blue eyes and the left side of her head shaved.
+
+== Activities ==
+Alwhin finds [[Renna]] and [[Seta]], two ''sul'dam'', collared by an ''[[a'dam]]''.  She frees them and reveals the shocking information only to Suroth, who then decides to raise Alwhin to ''so'jhin'' in a bid to buy her silence.{{ref/book|4|1}}
+
+She accompanies Suroth to [[Ebou Dar]] and even though she is Suroth's Voice, she has [[Liandrin]] on an ''a'dam''.
+
+Liandrin, hoping to please Suroth, poisons Alwhin in order to end Alwhin's "blackmail" of revealing ''a'dam'' as capable of holding ''sul'dam''.
+
+==In the television series==
+In the television series, {{TVlink|Alwhin}} is played by actress {{TVlink|Jessica Boone}}.
+
+{{notes}}
+[[es:Alwhin]]
+[[Category:Sul'dam]]
+[[Category:Slaves]]
+[[Category:Channelers]]
+[[Category:Learners]]

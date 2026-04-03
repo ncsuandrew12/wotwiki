@@ -1,0 +1,41 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| ewot=Keraille
+| nationality=Saldaean
+| gender=Female
+| affiliation=The Kin
+| build=Slim
+| height=Short
+| hair=Fiery red, curly
+| eyes=Green, tilted
+| status=Alive
+| mentioned={{acos|23}}
+| appeared={{wh|8}}
+| lastappeared={{kod|32}}
+| lastmentioned={{kod|35}}
+| living=kod
+}}
+'''Keraille Surtovni''' is one of the [[Kin]].
+
+== Appearance ==
+She is short and slim with tilted green eyes and fiery red curls.
+
+== History ==
+Her combination of tilted eyes and typical [[Kandori]] surname suggests a [[Borderlander]] origin. However, she looked more like a [[Saldaea]]n.
+
+Her Saidar strength is {{opsl|55}}, a very low level by Aes Sedai standards. She is four levels below the minimum to be tested for Aes Sedai.
+
+== Activities ==
+She and [[Derys Nermala|Derys]] leave Ebou Far for the Kin's farm the day after the Feast of the Half Moon, where they were swept up in the escape from the Seanchan.
+
+She is one of the Kin assigned to look after the captive ''[[sul'dam]]'' in [[Caemlyn]].
+
+She is sent with [[Julanya Fote|Julanya]] to watch and report on any movement the neutral [[High Seat]]s armies may make.
+
+They [[Travel]] back to Caemlyn to report to [[Birgitte Silverbow]] that the army is moving towards the city. Then they are sent back to their camp posing as laundresses.
+
+{{DEFAULTSORT:Surtovni, Keraille}}
+[[Category:Farm Group]]
+[[Category:Channelers]]
+[[Category:Novices]]

@@ -1,0 +1,4 @@
+== Encyclopedia WoT ==
+
+EWot doesn't appear to have an article on Tai'dashar. Therefore, only owning approximatley a third of the series, with me not able to recall Tai'dashar even being mentioned the third I own, I will be unable to include this horse in Operation Bela. If anyone else can expand this article, please do so. [[User:MegaZeroX|MegaZeroX]] 17:02, January 28, 2012 (UTC)
+:I see that you did find the EWot pag eon Tai'daishar. There was a problem with the coding of the {{tl|creature}} template. I've fixed the template and updated the creatures that needed it. Thanks for chatching this! ---- {{User:Mainphramephreak/Sig/Subst}} 15:22, January 29, 2012 (UTC)

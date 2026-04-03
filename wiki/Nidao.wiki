@@ -1,0 +1,20 @@
+{{ character 
+| image=ShienarFlag.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|998}}
+| nationality=Shienaran
+| affiliation=Darkfriend
+| gender=Male
+| occupation=Guard
+| appeared={{Tgh|3}}
+}}
+'''Nidao''' was a guard in [[Shienar]].
+
+==History==
+Nidao was at [[Tarwin's Gap]] and fought to save [[Lord]] [[Agelmar Jagad]]. 
+
+== Activities ==
+He was placed in charge of the [[Darkfriend]], [[Padan Fain]] when Fain was imprisoned in [[Fal Dara]]. Fain corrupts Nidao and [[Changu]] and they help him escape from his prison cell. 
+
+Changu and Nidao travel with the group led by [[Padan Fain]] towards [[Toman Head]] until both were skinned alive by [[Padan Fain|Padan Fain's]] orders and died to their wounds. Their skinned bodies were found by [[Ragan]] hanging from a stone oak on the far side of the river Erinin. He was given [[the last embrace of the mother]] by the orders of [[Ingtar Shinowa|Ingtar]].

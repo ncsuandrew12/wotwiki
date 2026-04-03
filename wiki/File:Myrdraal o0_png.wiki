@@ -1,0 +1,11 @@
+{{Image
+| License                 =  Creative Commons, GFDL, Public Domain, Public Domain Self, Fairuse 
+| ImageType1              =  Character 
+                                      User, Logo, Video Game Screenshots, CCG
+| ImageType2              = SAME AS IMAGETYPE1 (NOT REQUIRED)
+| ImageType3              = SAME AS IMAGETYPE1 (NOT REQUIRED)
+| Description             = BRIEF DESCRIPTION / SUMMARY OF IMAGE
+
+| Source                  = I did it myself
+| Artist                  = Kay
+}}

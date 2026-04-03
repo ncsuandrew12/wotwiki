@@ -1,0 +1,22 @@
+{{ character
+| image=Jeordwyn Semaris.jpg
+| imagesize=250px
+| status=Alive
+| nationality=Illianer
+| affiliation=Council of Nine
+| gender=Male
+| appeared={{tpod|24}}
+| lastappeared={{tpod|24}}
+| living=tpod
+}}
+'''Jeordwyn Semaris den Tropan''' is one of the [[Council of Nine]] in [[Illian]]. 
+
+== Appearance ==
+He has a narrow jaw.
+
+== Activities ==
+He is led by [[Davram Bashere]] into battle against the [[Seanchan]] just outside [[Ebou Dar]].
+
+{{DEFAULTSORT:Semaris, Jeordwyn}}
+[[Category:Lords]]
+[[Category:Nobility]]

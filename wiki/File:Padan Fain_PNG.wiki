@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = [[Padan Fain]].
+| Source             = A variant cover for ''[[The Eye of the World 5]]''
+| Artist             = John Seamas Gallagher 
+}}
+[[Category:Character Images]]

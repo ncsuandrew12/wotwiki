@@ -1,0 +1,19 @@
+{{character 
+| image=KandorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Kandori
+| rank=Lord
+| title=Lord
+| gender=Male
+| mentioned={{Tpod|p}}
+| lastmentioned={{tpod|p}}
+| living=tpod
+}}
+'''Ismic''' is a [[Kandor]]i lord who is married to [[Nazelle]]. 
+
+==History==
+Their marriage was arranged by Nazelle's sister, [[Queen]] [[Ethenielle Kirukon Materasu]]. Although it took time, Nazelle grew to love Ismic.
+
+{{short}}
+[[Category:Nobility]]

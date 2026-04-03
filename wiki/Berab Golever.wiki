@@ -1,0 +1,31 @@
+{{character
+| image=CotL.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| rank=Lord Captain
+| occupation=Soldier
+| affiliation=Children of the Light
+| gender=Male
+| build=Lanky
+| height=Tall
+| appeared={{tom|p}}
+| lastappeared={{amol|16}}
+| living=amol
+}}
+'''Berab Golever''' is a [[Lord Captain]] in the [[Children of the Light]].
+
+==Appearance==
+He is tall, lanky, bearded and hard.
+
+==Activities==
+He attends the meeting of [[Rhadam Asunawa]] and [[Galadedrid Damodred]]. He agrees with Galad that the [[Children of the Light]] should not surrender to the [[Seanchan]].{{ref/book|13|p}} He is one of the Lord Captains who rise up against Asunawa and his men. He then pledges his support and loyalty to Galad. While traveling through [[Ghealdan]], he debates with Galad about the merit of sending a letter to the [[The White Tower|White Tower]] to ask if the Children of the Light can become allies with the [[Aes Sedai]].
+
+During the battle in [[Braem Wood]] he watches the [[Ogier]] fight the [[trolloc]]s and announces to Galad and [[Trom]] that the Ogier are really [[Shadowspawn]], trying to trick people into trusting them. He says they will attack soon.  Galad and Trom are not convinced.
+
+== Trivia ==
+* Berab Golever is named for Bob Glover, a fan of ''The Wheel of Time'' who often cosplays as a Whitecloak himself.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{DEFAULTSORT:Golever, Berab}}
+[[Category:Characters named after fans]]

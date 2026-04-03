@@ -1,0 +1,9 @@
+{{Image
+|ImageType1   = Fan Art
+| ImageType2 = Character
+|License     = GFDL
+|Source      = http://jeremysaliba.blogspot.com/
+|Description = [[Trolloc]] fan art done by Jeremy Saliba.
+|Artist       = Jeremy Saliba
+}}
+[[Category:Featured images]]

@@ -1,0 +1,25 @@
+{{ character
+| image=BOTRH icon.jpg
+| nationality=Cairhienin
+| rank=Redarm
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| build=Slender
+| status=Alive
+| appeared={{acos|38}}
+| lastappeared={{kod|26}}
+| living=kod
+}}'''Metwyn''' is a [[Cairhien]]in [[Redarm]] in the [[Band of the Red Hand]].{{ref|{{twotc}}, Metwyn}}
+
+== Appearance ==
+Metwyn is a slender man with a pale face and boyish looks, though he is actually in his mid thirties. He was born in [[Cairhien]] and is known as the best swordsman among these men.
+
+== Activities ==
+In Ebou Dar he is one of the few Redarms to survive the [[gholam]] attack looking for the [[Bowl of the Winds]]. 
+He then stays in the [[Tarasin Palace]] with the rest of the surviving Redarms. Mat sends him to meet him outside the city when Mat carries out his plan of escaping with the captive [[Aes Sedai]].
+
+He meets up with Mat again outside Ebou Dar and joins [[Valan Luca]]'s Traveling Circus with the rest of Mat's group.
+He is part of the group that chase [[Renna Emain]] after she stabbed [[Egeanin Tamarath]] and tries to flee to the town of [[Coramen]].
+
+{{notes}}

@@ -1,0 +1,308 @@
+'''Slowing''' is a phenomenon that occurs through use of the [[One Power]] that causes channelers to significantly reduce the rate at which they age. As a general rule, the stronger the channeler, the more slowly they age, with the strongest channelers having a mean life expectancy of 800 years. More exact descriptions of the mechanism of slowing and the rates and limit of slowing generally fall outside of the purview of the in-world characters' knowledge and instead are provided in interviews and the two companion volumes. 
+
+==Cause and Onset==
+The rate of slowing is determined by potential, not actual current strength. From the Companion's entry on [[Vandene Namelle]] (emphasis added):
+{{quote|Vandene had a potential strength level of {{opsl|26}} but never achieved it because her older sister was weaker; some women who were close did not diverge greatly in strength even if their potentials did. '''Her lifespan was unaffected by this, being governed by her higher potential.'''|{{twotc}}{{ref/book|twotc|Vandene Namelle}}}}
+The Companion also mentions that the slowing rate was "somewhat in proportion to strength, though it wasn’t an exact proportion".{{ref/book|twotc|One Power}}  A dependence on  potential would be one reason it might not be exact. Similarly, when Jordan was asked if rate of slowing were dependent on strength in the Power, he responded: "Yes, basically; you age at 1/X your normal rate, with X being '''dependent up to a point''' on Power strength".{{ref/tidb|216|11}} The "up to a point" was not clarified, but would be valid since a mismatch between potential and strength only has relevance in two situations.  
+
+The first concerns those rare cases like Vandene, where women never reach their potential. This may also happen in the case where a [[Wilder]] has a [[block]], defined as "a mental barrier, probably as a survival mechanism, that makes it ''difficult for them to reach their full potential''".{{ref/book|bwb|2}}  Although the statement can be read using the more general sense of the word "potential" and may not refer literally to strength potential, it seems plausible for those channelers who are completely untaught, indeed usually unconscious of even being able to channel at all. 
+
+The second concerns channelers reaching their full rate of slowing before they reach their full potential. Jordan makes several comments on when channelers slow and this invariably occurs some years after the channeler starts to channel and some years before they reach their full potential.  This further backs up the idea that slowing rate cannot be based on current strength, but plateaus after a gradual increase. How long it takes to reach this plateau is "dependent on how early they start and how much they channel",{{ref/tidb|85|2}} but seems to be inevitable. More specific quotes on slowing and potential are given in full in the sections below.
+
+Needless to say, latent channelers cannot slow if they have never touched the True Source. Jordan refers to slowing being "a function of actually channeling" in reference to why ''sul'dam'' live normal lifespans.{{ref/tidb|197|20}} In this case, he means a step function with a binary output. They either slow or they do not. 
+
+The slowing of the aging process is not dependent on how much of the One Power a channeler uses in their life or on a regular basis. This is a reasonable assumption because there must inevitably be variation in how much or how little Aes Sedai and other groups use the Power, but this is not reflected in associated differences in lifespans. This is particularly relevant to the [[Kin]], who are forbidden to channel much at all, or for Wilders (like Nynaeve as Wisdom) who channel only subconsciously and infrequently, yet age at the rates expected for their potential/strengths comparable to groups that have no such restrictions. If it were a function of the cumulative amount of the One Power used, it would also raise the question of how using a ''sa'angreal'' that allows vast quantities of the Power would affect that calculation.
+
+Those latent channelers who learn to channel much later in life, such as [[Sharina Melloy]] or [[Damer Flinn]], will actually begin to become more youthful. These channelers also reach their potential faster, but it's not clear if it's possible for them to attain their potential faster than they begin to slow. 
+
+Even towards the end of their lives, channelers do not look older than somewhere in their sixties.  
+
+===In women===
+
+According to Elayne, women start to slow "somwehere in between twenty and twenty-five".{{ref/book|7|24}} Robert Jordan says women "usually slow at twenty, sometimes a little earlier". In comparison, it takes about ten years for a woman to reach her full potential with some taking as long as fifteen and some managing it in seven or eight. The examples below show that slowing happens before this point.
+
+Some notes on specific women:
+* '''Nynaeve''': "slowed at twenty", but has current strength of {{opsl|10}} and potential strength of {{opsl|9}}. Nynaeve likely has her first channeling event at 15 or 16 years old when there was an outbreak of breakbone fever in Emond's Field.{{ref/book|1|ravens}}{{ref/book|1|21}}{{ref/book|twotc|Berowyn al'Vere}}
+* '''Nyein''': Slowed at nineteen. Claimed to be 18 when she enrolled and was actually 26.
+* '''Talaan''': Nynaeve tells her that she must be at least fifteen to enroll as a Novice, but Talaan is nineteen. Nynaeve does not believe her because she looks too young. Talaan has a current strength of {{opsl|10}}, but a potential of {{opsl|8}}. Therefore Talaan must have begun channeling very early, possibly twelve or thirteen, to have slowed so early.
+* '''Atha'an Miere Aes Sedai in general''': "The preferred choice [to be sent to the White Tower] was someone who had already slowed, yet appeared young enough to pass for a wilder of seventeen or eighteen, despite being ten years or more older, though this was not always possible".
+* '''Janina''': Looked to be no more than a year or so older than Rand, Perrin and Mat, but was in fact more than thirty years older. So she most likely slowed before twenty.
+* '''Serafelle Tanisloe''': Slowed at nineteen, but enrolled in the Novice book at twenty-nine.
+* The Companion lists several young Aes Sedai, novices and Accepted in terms of their potential strength, rather than their actual strength, implying that they still have not reached their full potential. These young Aes Sedai are the only ones worded in this way among those who have attained the shawl. They are [[Marith Riven]], [[Theodrin Dabei]], and [[Valene Sural]]. All have already slowed. There are some younger Aes Sedai not listed in terms of potential strength which likely have already attained their potential.  The table below shows these along with their current age as a comparison with then they started slowing. Theodrin took longer to reach her full potential because she is a Wilder with a block.:
+<div align="center">
+{| class="sortable fandom-table"
+!Name
+!Age
+!Enrolled
+!Years Channeling
+!Strength
+!Descriptor
+|-
+|Valene Sural
+|27
+|16
+|11
+|{{opsl|27}}
+|Potential
+|-
+|Faolain  Orande
+|30
+|16
+|14
+|{{opsl|23}}
+|Strength
+|-
+|Marith Riven
+|32
+|16
+|16
+|{{opsl|24}}
+|Potential
+|-
+|Amico  Nagoyin
+|33
+|15
+|18
+|{{opsl|33}}
+|Strength
+|-
+|Beldeine Nyram
+|34
+|16
+|18
+|{{opsl|22}}
+|Strength
+|-
+|Theodrin  Dabei
+|34
+|15
+|19
+|{{opsl|21}}
+|Potential
+|-
+|Mayam Colona
+|37
+|17
+|20
+|{{opsl|27}}
+|Strength
+|-
+|Sareitha  Tomares
+|35
+|15
+|20
+|{{opsl|32}}
+|Strength
+|-
+|Janine Pavarla
+|37
+|15
+|22
+|{{opsl|33}}
+|Strength
+|}
+</div>
+====In Aes Sedai====
+
+The aging of Aes Sedai does not run according to the expected rules due to the effects of the [[Oath Rod]]. Broadly speaking, no Aes Sedai has lived more than three hundred years since they began to take the [[Three Oaths]].
+
+===In men===
+
+While men do experience the effect of slowing, the existence of the Taint and the Red Ajah in most of the Third Age means that they rarely get to enjoy much benefit. 
+Men slow later than women, not until twenty-five, an usually closer to thirty. Some may slow after thirty.
+
+Some examples on specific men:
+* Taim "has slowed and is in his late twenties".{{ref/tidb|198|10}}
+* Logain "was born in {{ne|971}}, began channeling around 992–{{ne|993}}, declared himself the Dragon Reborn in {{ne|995}}, and slowed around {{ne|998}}, just prior to being captured".{{ref/book|twotc|Logain Ablar}} Although dates for his declaration are not correct, it reinforces the general timeline of how many years after first channeling a channeler may slow.
+
+==Precise Formulation==
+
+===Plots===
+The following plots show the relationship between [[Strength in the One Power rankings|strength in the one power]] and life expectancy for saidar and saidin users.
+
+====Saidar vs Saidin====
+<div align="center">
+<gallery captionalign=center widths="1000">
+SaidarVsSaidin.png | Mean life expectancy against by strength in the One Power for saidar and saidin users
+</gallery>
+</div>
+====Saidar Ranges====
+The mean life expectancy for each strength level has been marked along with <math>\pm</math>1 S.D. ({{wiki|Standard deviation|standard deviations}}), +2 and +4 S.D. The value of the standard deviation is discussed seperately below in the analysis section.
+<div align="center">
+<gallery captionalign=center widths="1000">
+SaidarLifeExpectancy.png| Life expectancy against by strength in the One Power for saidar users
+</gallery>
+</div>
+====Saidin Ranges====
+The mean life expectancy for each strength level has been marked along with <math>\pm</math>1 S.D. ({{wiki|Standard deviation|standard deviations}}), +2 and +4 S.D. The value of the standard deviation is discussed separately below in the analysis section.
+<div align="center">
+<gallery captionalign="center" widths="1000">
+SaidinLifeExpectancy.png| Life expectancy against by strength in the One Power for saidin users
+</gallery>
+</div>
+
+===Formulae===
+<math>\text{Mean Life Expectancy (saidar)}= \frac{8900 - 100 \cdot \text{level}}{11}</math>
+
+<math>\text{Mean Life Expectancy (saidin)}= \frac{9}{10} \cdot\frac{(8900 - 100 \cdot \text{level})}{11}</math>
+
+''Note'': For male levels, the formula is not valid for the {{opsl|1}} to {{opsl|6}} levels. This is explained below.
+
+==Derivation==
+
+As the formula are not directly stated in the Companion, the derivations are supplied here for the interested reader.
+
+The following statements are direct quotes from the Wheel of Time Companion referring to the [[Strength in the One Power rankings]] used there.
+
+'''Statement 1'''
+{{quote|Thus the strongest man would be {{opsl|1}}, the 800-year level in aging. Ranks {{opsl|2}} to {{opsl|6}} would have an aging range of 720 to 800 years. The strongest woman would be {{opsl|7}}, with a life expectancy of around 800 years; a man of the same rough level, which was 7, would have a life expectancy of 720 years.|{{twotc}}{{ref/book|twotc|Strength in the One Power}}}}
+
+''Note'': The male equivalent of strength for the strongest female is quoted as being "7" here, but no such known level exists. Using the notation for male strengths, this might be {{opsl|7}}, but there is no other reference to a continuation of this kind.
+
+'''Statement 2'''
+{{quote| All age levels given were approximations, with considerable room for variation among individuals. For example, at the so-called 800-year level, a person could reasonably be expected to live to between roughly 775 and 825 years of age, with some making it to 850, and a very few making it to as much as 900. Strength level {{opsl|62}} was the 300-year age level, {{opsl|73}} the 200-year age level, and the bottom level, {{opsl|78}}, approximately the 150-year level for women.|{{twotc}}{{ref/book|twotc|Strength in the One Power}}}}
+
+'''Statement 3'''
+{{quote|A given strength level did not produce the same degree of longevity for a man as for a woman. At any given level of equality, a woman would live longer. In general, a man at any given strength would have a normal lifespan roughly ten percent less than that of a woman of that strength. The range of longevity was the same, though, with men at their top level having a life expectancy of 800 years or so, within the range of the bell curves.|{{twotc}}{{ref/book|twotc|Strength in the One Power}}}}
+
+'''Statement 4'''
+{{quote|The male equivalents were approximately the 240-year, 180-year, and 135-year levels for men.|{{twotc}}{{ref/book|twotc|Strength in the One Power}}}}
+''Note'': Based on Statement 3, this is a typo and should read "270-year".
+
+===Analysis===
+
+Using the formula above, the first three data points in Statement 2 can be shown to work out exactly:
+* '''Level 1''': <math>\frac{8900 - 100}{11} = \frac{8800}{11} = 800</math> (strongest female)
+* '''Level 56''': <math>\frac{8900 - 5600}{11} = \frac{3300}{11} = 300</math>
+* '''Level 67''': <math>\frac{8900 - 6700}{11} = \frac{2200}{11} = 200</math>
+
+The fourth one works out exactly for a value of 72.5:
+* '''Level "72.5"''': <math>\frac{8900 - 7250}{11} = \frac{1650}{11} = 150</math>
+
+That this number works out exactly seems too much like coincidence. It is therefore interpreted as the lowest strength a channeler can be. There is evidence that One Power strength is a continuous variable and each numbered level refers to a range of strengths. When [[Merana Ambrey]] compares her strength with [[Verin Mathwin]], she "let herself sense the other woman's strength in the Power again, though of course she knew what she would find. No way to tell which of them was stronger". Both are [[Strength in the One Power among Aes Sedai|level 17]], but Merana does not question that it's possible that one of them may be slightly stronger, she just cannot detect the difference. We therefore can define level X as ranging between X-0.5 and X+0.5. For the strongest channeler, we either have the option of extending it up to 0.5 or having 1 as the hard cap. 
+
+===Male Strengths===
+If we adapt the formula to extend to the male levels by multiplying by 0.9, as per Statement 3, the top level does not reach the expected 800 year level. The top male strength of {{opsl|1}} is six levels above the strongest female of level 1. Translating this into the same notation, we would get a level of -5 for men. Calculated, this gives:
+*''' Level {{opsl|1}} (converted to -5)''': <math>\frac{9}{10}\cdot\Bigg(\frac{8900 - (-500)}{11}\Bigg) = \frac{9}{10}\cdot\Bigg(\frac{9400}{11}\Bigg) \approx 769</math>
+Which falls short of the supposed 800 year equivalency for the male and female levels. 
+
+The simple explanation for this is that the levels 1-72 only exist for women and Jordan did not develop an extended system for men. There are only ten male character strengths listed in the Companion and the weakest of those is at {{opsl|4}}, far stronger than the strongest women. 
+
+This can be remedied by mapping the extra levels on a slightly different scale. Each male level is 44/27 = 1.63 female levels. It must be concluded that Robert Jordan simply added 6 levels on as an ad-hoc manner. If we attempt to extrapolate the male levels there is approxmately, but not exactly, 52 male levels with this increased spacing from the weakest channeler to the strongest. We have some clue that a different system may have existed. According to a WorldCon 2009 report: "Brandon confirmed Jordan developed a similar ranking system for the Asha'man as well, but couldn't recall out of hand how many levels there were for them."{{ref/tidb|767|9}}
+
+This idea might also agree with why Jordan says both the weakest and strongest levels for male and female are only "roughly" and not "exactly" equivalent. 
+
+* From the wording in Statement 1: "a man of the same '''rough''' level, which was 7". Why use 7 when it doesn't fit in with any known ranking system? 
+* "Regarding the levels of male strength, while the weakest man and the weakest woman would be '''roughly''' equivalent, you might say that there are several levels of male strength on top of the female levels."{{ref/tidb|212|20}}
+
+We show the numbers used in the calculation for the plots below, including {{opsl|7}} from Statement 1 to show equivalency with the strongest female.:
+
+<div align="center">
+{| class="article-table"
+|+ Compatible Extension for Extra Male Levels
+! Male Level !! Approx. Female Level !! Mean Life Expectancy
+|-
+| {{opsl|1}} || -8.78 || 800
+|-
+| {{opsl|2}} || -7.15 || 786.7
+|-
+| {{opsl|3}} || -5.52 || 773.3
+|-
+| {{opsl|4}} || -3.89 || 760
+|-
+| {{opsl|5}} || -2.26 || 746.7 
+|-
+| {{opsl|6}} || -0.63 || 733.3  
+|-
+| {{opsl|7}} || 1 || 720  
+|}
+</div>
+===Calculating Distributions===
+
+Statement 3 refers to the a "bell curve" i.e. a normal distribution. Making assumptions that Jordan uses the simplest and most comment model we interpret "reasonably be expected to live to between" as "within one standard deviation". This accounts for 68.3% of the population at that strength. Under this assumption, using the example in Statement 1 for the highest strength channelers:
+* '''825''': 15.9% would live to at least this age
+* '''850''': 2.28% would live to at least this age
+* '''875''': 0.13% would live to at least this age. 120 per 100 thousand.
+* '''900''': Only 0.003% would reach this age or older. Only 3 per 100 thousand. 
+
+For reference, 0.03% of the present day population is 100 or more years old. Only 0.2% of this number are supercentenarians of 110 years or older. This is a rate of only 0.11 per 100 thousand. By this comparison, those "very few" that live to 900 are equivalent to those that live to just beyond the 100 year mark in the US.{{ref|[https://www.pewresearch.org/short-reads/2024/01/09/us-centenarian-population-is-projected-to-quadruple-over-the-next-30-years/ US Centenarian Population is Projected to Quadruple over the Next 30 Years, Pew Research, 09 Jan 2024]}}{{ref|[https://www.bumc.bu.edu/centenarian/statistics/ Centenarian Statistics]}}
+
+We vary the standard deviation proportionally with mean life expectancy and plot for +/- 1 SD, +2 SD and +4SD.
+
+==Previous work==
+Prior to the release of the Companion, an {{link|https://reactormag.com/the-wheel-of-time-companion-strength-chart-of-major-channelers/|article on Tor.com}} previously calculated a formula of <math>f(x) = -0.00208023x^3 + 0.264216x^2 - 17.5246x + 816.746</math>. This did not, however, take into account the errors in the Companion that have been corrected to produce a much simpler formula. It's extremely unlikely Robert Jordan calculated ages using such an unwieldy formula!
+
+==Robert Jordan's Notes==
+There are some inconsistencies between what is published in the Companion and how some of the data is recorded elsewhere in [[Robert Jordan's notes]]. In Box 57 Folder 2 (Labelled as "Notes on AS, undated") there appears the following list of strength to life expectacy correspondences:
+
+{| class="wikitable" style="text-align:center"
+! Strength !! Notes !! Comp.
+|-
+| {{opsl|18}}  || 700   || 691
+|-
+| {{opsl|24}}  || 650+  || 636
+|-
+| {{opsl|30}} || 600   || 582
+|-
+| {{opsl|36}} || 550   || 527
+|-
+| {{opsl|42}} || 500   || 473
+|-
+| {{opsl|48}} || 450   || 418
+|-
+| {{opsl|54}} || 400   || 364
+|-
+| {{opsl|60}} || 350   || 309
+|-
+| {{opsl|66}} || 300   || 255
+|-
+| {{opsl|72}} || 250   || 200
+|}
+The final column is for comparison with the formula used in the rest of the article. Additionally, the 600+ is included in the notes and is not a typo.
+
+There are 14 entries for Kin age expectancies in this folder which adhere this list, plus three more where he writes "at the --- level", leaving the number blank. This is further extended to Box 57 Folder 1 (labelled as Aes Sedai, Accepted, and Novices), this time with a few dozen Aes Sedai. 
+
+The dating of these notes appears to be during or after the writing of [[Knife of Dreams]] as [[Careane Fransi]] is marked as "DECEASED" and characters from the [[ten ferrets]] that never appear are also listed. The formula for the above is <math>\frac{(2400-25\cdot level)}{3}</math>, which is somewhat neater formula that allows for increments of 25 years every three levels. 
+
+However, for whatever reason, the compilers of the Companion decided to go with the details we use in the rest of the article. It's likely they found these elsewhere in the notes and had to pick one option as canon. The list above doesn't match any of the data points from Statement 2 and, extrapolating for levels 1 and 72 gives age expectancies of 792 years and 200 years. Asides from not giving a longest life expectancy of 800 years, the weakest channeler would have a life expectancy of 200 years, which seems slightly high. It's possible that Jordan was thinking of reworking the exact strength to age expectancy relationship at a later date, but we ultimately cannot regard this information as canon as it conflicts with more established and published works.
+
+==Jordan's Development of Slowing==
+{{Under construction}}
+Slowing, or rather the increased lifespan of channelers itself, does not seem to have been well-developed in Jordan's earliest writing. Several oddnesses and discrepancies show up in the first couple of books; it does not seem they were intended to live longer until {{4}}, with the implications of the Oath Rod probably even later:
+
+# {{1}} (first printed January 1990):
+#* the first channelers we meet , [[Moiraine Damodred|Moiraine]] and [[Elaida do Avriny a'Roihan|Elaida]], turn out to be well within the lifespan of normal people{{ref/book|0|2}}{{ref/book|7|p}} despite the power (and [[Strength in the One Power rankings|Power]]) they wield. Moiraine's age in particular is established in early books, as she details her time as an Accepted during the Aiel War (age ~22){{ref/book|2|8}}. Elaida has her first Foretelling as an Accepted (age 20-23) and attaches herself to Morgase as soon as she can{{ref/book|4|1}}.
+#* the [[Two Rivers]] is a hotbed of latent channelers, with many [[Wisdom]]s able to [[Listening to the Wind|Listen to the Wind]], yet as unbound wilders those who can channel ''should'' live as long as any of the [[Kin]], 500 years or more. Despite this, it is never remarked upon in this book that certain Wisdoms live many times a normal person's lifespan. The only one specifically called out is [[Doral Barran|Wisdom Barran]] who merely "outlived all those who grew up with her", and this detail comes from the much later-written prologue [[The Eye of the World/Ravens|"Ravens"]] (2001). Barran may have been weak in the One Power, but even at strength 72 she should have been able to live to 150, and most Two Rivers wilders are far from weak.
+#* Lews Therin is introduced in the [[The Eye of the World/Prologue|Dragonmount]] as a man "just into his middle years", which while ''technically'' true at 400 (not revealed until {{13}}''{{ref/book|13|51}}), it seems odd that his children are described as "broken dolls, play stilled forever", not adults. Why wait so long to have children? A man of 40 could be expected to have children still at play, however. (if he had older adult children, they are not mentioned, but we know he killed all of his kin). Additionally the War of Power is established as only lasting ten years, shorter than many real-life conflicts of much smaller scope.{{ref|The statement that the War of Power/War of the Shadow only lasting ten years seems strongly contradicted by Coumin's statemnent that it had been "old when he was born" (he is 16 in this vision).{{4|26}}}}
+# the first mentions of older channelers come in {{2}} (first printed November 1990):
+#* [[Verin]] is mentioned as "a touch of gray in her brown hair... her only sign of age, but for an Aes Sedai it meant she was very old indeed"{{ref/book|2|4}}, although she is still prematurely going gray at an age later revealed to be ~150 (her [[Strength in the One Power among Aes Sedai|strength]] is {{opsl|23}}{{ref/book|twotc|Verin}} so she had the potential to live to be ~320 or so).
+#* yet Adeleas and Vandene's warder [[Jaem]] is "equally aged" to the two Sisters he lives with and works for. There is never any indication that Warders share the expanded lifespan of their Aes Sedai, so at this point the two are being written mundanely "old".{{ref/book|2|22}} It is not until the ''[[Companion]]'' (printed in 2015) that we learn he is actually nearly 200 years younger, and should have been described as "equally aged-''looking''" at ~78.{{ref/book|twotc|Jaem}}
+#* in early printings, when [[Urien]] meets Verin{{ref/book|2|28}} he says that she has the ''"look of those who go to Rhuidean"'', which originally meant the Wise Ones also had ageless faces; only later was the scene edited to mean that they age more slowly.
+#* when Rand and his party use the [[Portal Stone]] to travel to Falme and encounter the alternate realities{{ref/book|2|37}}, in no world does he seem to live longer than any normal man, sometimes going gray before the [[Seanchan]] finish their conquest. In one ''flicker'' [[Nynaeve al'Meara|Nynaeve]] dies before [[Egwene al'Vere|Egwene]] despite her greater strength, leaving her to become the next Wisdom well before Rand wastes away. (while it is not 'reality', it also does not appear to be an error brought on by Rand's own ignorance, as he sees things like the Seanchan that he has no knowledge of up until this point)
+# {{3}} (first printed September 1991):
+#* ''(circumstantial)'' this is more of a proof by omission: Egwene again thinks of Verin as "old enough to be a grandmother"{{ref/book|3|10}} but by now she has been in the Tower for months, and no one has mentioned to her that Aes Sedai age much more slowly?
+#* similarly, when Elaida brags that Elayne could be "the first ruler since the Breaking to openly tell the world she is Aes Sedai"{{ref/book|3|17}}, that implies there have been Queens who could secretly channel. Yet their lack of aging would be a sure giveaway, if it were an established fact in the worldbuilding by now.
+#* in the original printings [[Amico Nagoyin|Amico]] was only four years older than Egwene{{ref/book|3|25}} (later corrected to fifteen years). RJ seems not to have worked out the length of training at that time (the '3+3' record of Moiraine/Siuan/Elaida is perhaps not established until the full novella version of {{0}} (printed in 2004); it does not show up in the abbreviated version in ''Legends'' (printed in 1998)). Thirteenth Depository states that this is the first exact age we are given after Moiraine and Siuan. [[Joiya Byir|Joiya]], who is supposed to be the oldest of the Black Sisters, is "old enough to be their grandmother" in the original text, but later established by the Companion to be well over 160! She is revised to be their "great-grandmother's great-grandmother" in later versions of the book.
+#* another instance of Aes Sedai and their Warder kings comes up in the stories of old [[Manetheren]]{{ref/book|3|35}}, with no mention of the obvious age disparity that would ensue.
+#* perhaps the biggest example of negative proof comes when Moiraine asks [[Loial]] for his opinion on [[Be'lal]], after they reach Tear{{ref/book|3|50}}: "It has been well over a hundred generations since the Breaking for ''humans'', but less than thirty for Ogier." ''(emphasis added)'' Not non-channelers, but all humans (and she is bound by the Three Oaths, so her words are written especially carefully). The weasel-y point here of course is that she speaks of generations not lifespan, but it adds to the overall evidence that the increased lifespan was not in place yet.
+# {{4}} (first printed September 1992):
+#* amusingly Verin has to cite the Tower records when mentioning the decline in the number of men who can be found to channel "a hundred years ago". She was there!{{ref/book|4|31}}
+#* ironically the first mention of disproportionate age is for a non-channeler: when [[Jonai]] is introduced in the Rhuidean visions, he is "sixty-three, in the prime of life, not yet old enough for gray hairs."{{ref/book|4|26|rhuideanvisions2}} This gives an indication of how far health and longevity prospered in the Age of Legends. [[Mandein]] is also considered 'young for a sept chief' at forty, but that is before clan chiefs come into existence so it is hard to extrapolate from there.{{ref/book|4|25|rhuideanvisions}}
+#* the [[Rhuidean Aes Sedai|ancient Aes Sedai of Rhuidean]] can be worked out to be at least 100 years old (see article) after their training, and probably much older since they appear to have been fully trained before the Breaking disrupted all things. They may be as much as 300 or more years old but that is conjecture and not supported in the text.{{ref/book|4|25|rhuideanvisions}}
+#* despite the above life extension, Jonai notes that his greatfather had served [[Solinda]] Sedai when he was a young man, but she looks younger than he does. '''This seems to be the first concrete expression that Aes Sedai live longer than others.''' If he is 63 and his greatfather is three generations ago, that would make her at least 150 years old, as old as Verin but seeming much younger, probably indicating great strength in the One Power.{{ref/book|4|26|rhuideanvisions2}}
+#* when Verin and [[Elisa al'Seen]] meet, Perrin notes that Elisa looks older than Verin, even though she has less gray in her hair. There is no way to extrapolate any actual age from the observation though.{{ref/book|4|32}}
+#* during Nynaeve's fight with [[Moghedien]] in Tanchico, the Forsaken boasts that she was "over two hundred years old" when the Bore was opened, but still young for an Aes Sedai.{{ref/book|4|54}}
+# {{5}} (first printed October 1993)
+#* Egwene describes [[Amys]] as having "something of the Aes Sedai look of agelessness about her"{{ref/book|5|5}}, though Amys is young in truth, about as old as Siuan. Could just be her astonishingly pale hair, which Egwene reads as aged-white, confusing the impression. Nynaeve thinks of her the same way{{ref/book|5|}} at a meeting in ''Tel'aran'rhiod''. She does not get this description again (in fact in {{13}}, she is described specifically as "her face was not ageless"). Later in this same book Rand thinks she is "surprisingly youthful" instead{{ref/book|5|53}}, and even earlier in {{4}} Rand thinks "her face merely looked younger than it should, not ageless".{{ref/book|4|49}}
+# {{6}} (first printed October 1994)
+#* similar to Moghedien's claim at the end of {{4}}, [[Mesaana]] says she is over three hundred years old, but was only considered in her middle years.{{ref/book|6|p}}
+#* tangentially related to slowing, Elayne does not comment on [[Asra]]'s lack of an ageless face, showing Jordan considered the discrepancy settled by then.{{ref/book|6|52}}
+#* Sorilea just happens to mention in passing that she is one of the oldest currently living Wise Ones{{ref/book|6|51}}, despite her lack of strength! She is over 200 but cannot be more than around 250, which speaks to a harsh lifestyle among the Aiel (for instance an incredibly strong Wise One, [[Mora (Shaarad)|Mora of the Shaarad]], died of snakebite before age 300).{{ref/book|6|15}}
+
+* Glossaries:
+** in the back of {{tdr}} through {{loc}}, he basically repeats the description of Verin as if it were true of all Aes Sedai, with no mention of extended lifespan: "an Aes Sedai who is old enough to be a grandmother may show no signs of age except perhaps a few gray hairs". A non-channeler who was a grandmother should be in the range of 50-70 years, not 150 or more! That is roughly the same age as [[Alviarin Freidhen|Alviarin]], and she shows no such signs!
+** by contrast, the entry for [[Ogier]] in {{tdr}}, {{tsr}}, and {{loc}} describes them as living "at least three to four times that of a human"; in {{tfoh}} the entry is cut short, and after {{acos}} there is no longer an entry for the Ogier and most other common terms defined in earlier books. ''(even though Loial is introduced in {{teotw}} and they visit a ''stedding'' in {{tgh}}, neither book has a glossary entry for Ogier)''
+
+{{notes}}
+
+[[Category:One Power]]

@@ -1,0 +1,7 @@
+<br clear=all>
+{| align="CENTER" class="boilerplate" id="fairuse" style="clear:both; width:80%; background-color:#424242; border:2px solid #996;  padding:5px;"
+|''This image is of a '''book cover''', and the '''copyright''' for it is most likely owned by the '''publisher of the book'''. It is believed that the use of '''low-resolution''' images of book covers '''to illustrate the book in question''' qualifies as '''[[Wikipedia:fair use|fair use]]''' under [[Wikipedia:United States copyright law|United States copyright law]]. '''Other use of this image, on {{SITENAME}} or elsewhere, may be [[Wikipedia:copyright infringement|copyright infringement]].''' See [[project:Copyrights|Copyrights]] for more information.''
+|}
+<br clear=all>
+<noinclude>{{delete|Unused.}}
+[[Category:Image templates|{{PAGENAME}}]]</noinclude>

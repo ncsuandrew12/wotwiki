@@ -1,0 +1,2 @@
+'''Short pages''' are articles that do not have enough information provided from the ''Wheel of Time'' universe to expand them. Such an article is not a {{tl|stub}}.
+[[Category:Administrative| Short pages]]

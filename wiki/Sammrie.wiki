@@ -1,0 +1,17 @@
+{{Character
+| image=MurandyFlag.png
+|occupation = Cooper
+|nationality = Murandy
+|imagesize = 250px
+|status = Alive
+|gender = Male
+|mentioned = {{tgs|28}}
+|lastmentioned = {{tgs|28}}
+|living = tgs
+}}
+'''Sammrie''' is a [[cooper]] in [[Hinderstap]]. 
+
+==Activities==
+Sammrie, his sister and her family, are trapped in the town of Hinderstap by a [[bubble of evil]]. His sister and her family were not originally trapped in the town, but after dying during the violence at night, they were drawn in as well.{{ref/book|12|28}}
+
+{{notes}}

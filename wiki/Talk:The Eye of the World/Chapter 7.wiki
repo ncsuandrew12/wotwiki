@@ -1,0 +1,18 @@
+==Merge notices==
+Why were the merge notices removed? Is there a better way to let everyone know about Concord's content? --[[User:Gherald|Gherald]] 22:42, 16 Nov 2005 (UTC)
+
+On further reflection (their removal sort of caught me by surprise), I have just rolled back the two "removed merge notice" edits that were still '''(top)''', and will worry about the others later.  Merge '''''suggestions''''' (they are in fact more of a ''suggestion'' than a ''notice'') are meant to be '''''discussed''''' before the tag is removed.  As an absolute minimium, a reason should be given when removing a merge tag, so the person who suggested the merge has something to go on and isn't left quite so slack-jawed... --[[User:Gherald|Gherald]] 00:23, 17 Nov 2005 (UTC)
+
+: Well, since the discussion on the mailing list reached no agreement about how a merge of the two projects could be achieved practically, and I didn't see anyone but yourself supporting the merge (I may be wrong), it didn't seem to be going anywhere. The last discussion I see on the matter was more than a week ago, wasn't it? [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 17:47, 17 Nov 2005 (UTC)
+
+:: Actually, it did go somewhere:
+
+:: {{quote|I would, at the very least, like to have a page on my Wiki for every term, etc., possibly including my own categories, even if it's just a pointer to a page elsewhere.  Otherwise, I don't really care which wiki things go on, since I presume I can edit things just as easily on either one.|[[ConcordWiki:User:Alfvaen|Alfvaen]]}}
+
+:: Seeing as we've already had like 6 different contributors and that at least at first glance he appears to be the only one that posted WoT material to Concord.... I think it's clear what will happen eventually.  I don't blame Alfvaen for being reluctant (I probably would be, if I had started a Wiki like Concord) but I'm sure he'll come around once he realizes how much more "steam" we've got behind us. I've already merged {{teotw|Prologue}}, BTW, and it looks pretty good to me... --[[User:Gherald|Gherald]] 18:41, 17 Nov 2005 (UTC)
+
+::: Okay, I should clarify: I didn't see that as being supportive of merging the two chapter summary sets, but rather a way of allowing them to support each other. If that's what you really want to discuss, then we probably need a different template (but I'd rather just put it on the talk pages, or in a [[project:]] page.
+
+:::: No, it's not what "I really want to discuss" here, I would rather leave that entire conversation on the mailing list.  So far, those emails concern themselves with working together in the future and avoiding redundancy.  No reasons are given to not combine our existing summaries with Concord's, and AFAICT it is unlikely there is one. In fact, Wikicities has some sort of stance against redundancy and such (No, I'm not aware of the specifics) --[[User:Gherald|Gherald]] 19:19, 17 Nov 2005 (UTC)
+
+::: For the record, I'm supportive of ''crosslinking'' to the other chapter summaries that exist on the web, including Concord, EWOT, and Wotmania. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:48, 17 Nov 2005 (UTC)

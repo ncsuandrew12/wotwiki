@@ -1,0 +1,16 @@
+{{ character | image=FarMaddingFlag.png
+| imagesize=150px
+| status=Alive
+| nationality=Far Madding
+| gender=Female
+| rank=
+| appeared={{Wh|32}}
+| lastappeared={{wh|33}}
+| living=wh
+}}
+
+'''Milsa''' is the wife of [[Zeram]], a bootmaker in Blue Carp Street, [[Far Madding]].
+
+After all of their children have been married, Milsa rents their top floor to anyone who does not mind being locked in at night.
+[[Category:Short pages]]
+{{short}}

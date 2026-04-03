@@ -1,0 +1,20 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=200px
+| nationality=Andoran
+| gender=Female
+| occupation=Gambler
+| build=
+| hair=
+| affiliation=
+| lastmentioned={{tom|8}}
+| living=tom
+| status=Alive
+}}
+[[Clare]] is a woman Mat meets gambling at [[The Dead Man's Breath]] in [[Caemlyn]]. She becomes suspicious when he asks about [[Jowdry]] and Mat feels certain she intends to reach for her knife.
+== Trivia ==
+* Clare is named for Claire Seigneur Pietras, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Short pages]]
+[[Category:Characters named after fans]]
+[[Category:Dice]]

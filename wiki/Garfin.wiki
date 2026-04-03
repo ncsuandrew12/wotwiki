@@ -1,0 +1,17 @@
+{{character 
+| image=IllianFlag.png
+| imagesize=250px
+| status=Unknown
+| nationality=Illian
+| gender=Male
+| mentioned={{tom|46}}
+| lastmentioned={{tom|46}}
+| affiliation = Black Tower
+| occupation = Sword instructor}}
+'''Garfin''' is a one-armed instructor of the sword. He has a rural [[Illian]]er accent so heavy it is virtually incomprehensible.{{ref/book|13|46}}
+
+==History==
+Garfin taught [[Androl Genhald]], a Dedicated [[Asha'man]], the sword.
+
+{{notes}}
+{{short}}

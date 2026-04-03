@@ -1,0 +1,37 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| ewot=Caire
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| eyes=Dark
+| status=Alive
+| appeared={{tpod|5}}
+| lastappeared={{kod|22}}
+| living=kod
+}}'''Caire din Gelyn Running Wave''' is the [[Atha'an Miere]] [[Windfinder]] to [[Pelanna]] of clan Kisagi.{{ref/book|twotc|Caire din Gelyn Running Wave}}
+
+== Appearance ==
+Caire is more than handsome, she has big dark eyes with a straight nose and a strong chin. She is slightly taller than her sister.{{ref/book|8|5}} She has four earrings in each ear.{{ref/book|9|11}}
+
+==Strength and Abilities==
+Caire's level of strength is {{opsl|23}},{{ref/book|twotc|Caire din Gelyn Running Wave}} matching quite influential Aes Sedai as [[Seaine]], [[Teslyn]], [[Verin]], [[Alanna]], or [[Merana]].
+
+This strength is enough to open suitable gateway for [[Travel]].
+
+== History ==
+Her daughter is [[Talaan din Gelyn]] and [[Tebreille din Gelyn South Wind]] is her sister, who she has an intense dislike for.
+
+== Activities ==
+She leads and guides the link of the thirteen women who channel into the [[Bowl of the Winds]] to change the weather at the [[Kin]]'s farm. She has studied ancient lore and seems to know more than anyone one else how the ''[[ter'angreal]]'' Bowl of the Winds works.{{ref/book|8|5}}
+
+She is one of the Windfinders being tutored by [[Aes Sedai]] in [[Caemlyn]].{{ref/book|9|11}}
+
+She accompanies Pelanna to a meeting of the [[First Twelve]] in [[Illian]] with [[Rand al'Thor]]'s ambassador [[Logain Ablar]]. She is concerned with the whereabouts of her daughter, when she disappears from Caemlyn. Near the end of the meeting [[Cemeille din Selaan Long Eyes]] interrupts with the news of the [[Amayar]] committing mass suicide.{{ref/book|11|22}}
+
+{{notes}}
+{{DEFAULTSORT:Gelyn Running Wave, Caire din}}
+[[Category:Farm Group]]
+[[Category:Channelers]]

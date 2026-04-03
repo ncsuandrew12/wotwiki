@@ -1,0 +1,10 @@
+{{swordform
+| mentioned={{2|47}}
+| used=[[Rand al'Thor]]
+}}
+{{dablink|For other uses of the word "leaf," see [[Leaf]].}}
+'''The Falling Leaf''' is a [[sword form]]. Other than the name, nothing is known about it. [[Rand al'Thor]] used this form against [[Ishamael]] during thier battle in the sky over [[Falme]].{{ref/book|2|47}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Falling Leaf, The}}

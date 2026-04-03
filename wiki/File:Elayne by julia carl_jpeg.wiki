@@ -1,0 +1,10 @@
+{{permission}}
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.instagram.com/p/C4yczcNrN-R/?igsh=NzFzN3JseHk0aXVq
+|Description = Fan art of [[Elayne Trakand]].
+|Artist      = Julia Carl
+}}
+[[Category:Featured images]]

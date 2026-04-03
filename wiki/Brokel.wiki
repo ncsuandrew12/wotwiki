@@ -1,0 +1,24 @@
+{{character
+| image=CotL.png
+| imagesize=200px
+| ewot=
+| nationality=Unknown nationality
+| gender=Male
+| affiliation= Children of the Light
+| occupation=Soldier
+| rank=
+| eyes=
+| height=
+| build=
+| hair=
+| status=Alive
+| appeared={{amol|37}}
+| lastappeared={{amol|37}}
+| death=
+| living=amol
+}}
+'''Brokel''' is a [[Whitecloak]] 
+
+==Activities==
+Mallone was one of the best men suggested by [[Golever]] to [[Galad]] when he was ordered to reach [[Hawal Ford]] by [[Mat]].
+[[Category:Short pages]]

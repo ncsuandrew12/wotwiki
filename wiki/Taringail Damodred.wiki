@@ -1,0 +1,31 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| ewot=Taringail
+| nationality=Cairhienin
+| gender=Male
+| title=Lord
+| birth={{ne|948}}
+| death={{ne|984}}
+| status=Dead
+| mentioned={{ns|6}}
+| lastmentioned={{amol|19}}
+}}
+'''Taringail Damodred''' was the nephew of King [[Laman Damodred]], the son of [[Dalresin Damodred]], and the half-brother of [[Anvaere Damodred|Anvaere]], [[Innloine Damodred|Innloine]], and [[Moiraine Damodred]].{{ref/book|0|6}} His sign was a golden double-bitted battleaxe.
+
+== History ==
+He married [[Tigraine Mantear]], then the [[Daughter-Heir]] of [[Andor]], and sired a son, [[Galadedrid Damodred|Galadedrid]]. After Tigraine's disappearance and Tigraine's mother Queen [[Mordrellen]]'s death, he married the new [[Queen of Andor|Queen]], [[Morgase Trakand]], in order to solidify her claim to the [[Lion Throne]]. In [[978 NE]], his uncle Laman was killed in the final battle of the [[Aiel War]], but Taringail was prevented by law from accending to the [[Sun Throne]] due to his marriage with the Queen of Andor.{{ref/book|0|6}} As Taringail was barred from the throne, Moiraine did not wish to be queen, and their two other sisters were unsuited to rule, the Sun Throne passed from [[House Damodred]], and [[Galldrian Riatin]] became the next king.{{ref/book|twotc|Galldrian su Riatin Rie}}
+
+The following year, Taringail's first child with Morgase was born, a son named [[Gawyn Trakand|Gawyn]]. In [[981 NE]], a Daughter-Heir of Andor was born to the couple, named [[Elayne Trakand|Elayne]]. In [[984 NE]], Taringail died in a "hunting accident" supposedly orchestrated by [[Thomdril Merrilin]] after a [[gleeman]] discovered Taringail's intent to murder Morgase which would have made him the first king of Andor. 
+
+In [[1000 NE]], Taringail's daughter Elayne became Queen of Cairhien by virtue of her claim through her father.
+
+=== Family Tree ===
+{{RandElayneFamilyTree}}
+
+{{notes}}
+
+{{DEFAULTSORT:Damodred, Taringail}}
+[[es:Taringail Damodred]]
+[[Category:Nobility]]
+[[Category:Royalty]]

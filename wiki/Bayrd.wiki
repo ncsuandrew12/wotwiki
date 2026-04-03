@@ -1,0 +1,27 @@
+{{character
+| image=AndorFlag.png
+| imagesize-250px
+| nationality=Andoran
+| gender=Male
+| occupation=Soldier
+| appeared={{amol|p}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Bayrd''' is a solder, formerly a personal guard to [[Jarid Sarand]].
+
+==History==
+As a child, Bayrd's grandfather, [[Pappil]], taught him how to work stone.{{ref/book|14|p}}
+
+==Activities==
+After [[Arymilla Marne]]'s defeat during the [[Succession Wars#Fourth Succession War|Fourth Succession War]], Jarid's forces retreat from [[Caemlyn]] while still supporting [[Elenia Sarand]]. Bayrd and his men camp on the road to [[Whitebridge]] and are hit by a [[bubble of evil]] that turns all metal soft. Troubled by Jarid's increasing fervor to try and kill [[Elayne Trakand]], Bayrd and his men abandon Jarid and march for the [[Tarmon Gai'don|Last Battle]].{{ref/book|14|p}}
+
+He is then seen in the [[Tarmon Gai'don|Last Battle]] protecting Two Rivers archers with other andorans mercenaries.{{ref/book|14|37}}
+
+==Trivia==
+*Bayrd is named after Thomas DeSimone, a fan of ''The Wheel of Time''. The name comes from a personal communication between DeSimone and Sanderson.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{short}}
+[[Category:POV character]]
+[[Category:Characters named after fans]]

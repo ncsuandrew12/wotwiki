@@ -1,0 +1,42 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Male
+| occupation=Soldier
+| rank=Lord Captain
+| affiliation=Children of the Light
+| hair=Black
+| build=Stocky
+| status=Dead
+| appeared={{tfoh|16}}
+| lastappeared={{amol|32}}
+| living=amol
+}}
+'''Trom''' is one of the [[Lord Captain]]s of the [[Children of the Light]].
+
+==Appearance==
+He is stocky, with a square face and black hair.
+
+== Activities ==
+=== Friends with Galad ===
+He was with [[Galadedrid Damodred]] when he confronted [[Nynaeve al'Meara]] and [[Elayne Trakand]] about being in Sienda. He appears to be friends with Galad and has two knots of rank.
+
+He would rather have a farrier pound his head with a hammer than practice sword with Galad. 
+He broke up a [[Darkfriend]] gathering while they were chanting a catechism to the [[Dark One]]. Among those at the meeting were [[Paitr Conel]] and his uncle and they were subsequently hanged.
+He was promoted to [[Lord Captain]] after the [[Battle of Jeramel]]. He now wears three knots of rank.
+
+He was sent to [[Nassad]], along with the other Lord Captains, to meet with the [[Seanchan]]. [[Eamon Valda]] asks him why he was not already making his way there when they turn up at his lodge to bring charges against him. His absence (or lack of it) from this meeting may have consequences in the existing relationship between the Children and the Seanchan.
+
+Trom backed Galad when he confronted [[Eamon Valda]] about Valda's treatment of [[Morgase]]. Having a superior officer of high rank to back Galad's position may have been important.
+
+=== Confrontation with Goldeneyes ===
+After leaving Seachan controlled territory with Galad, they come across a huge force of Children of the Light under Seanchan command waiting for them. Instead of engaging with the enemy, Galad gives himself up absorbing the two different forces of Whitecloaks as one. After Galad is brutally beaten by the [[Hand of the Light]], he is rescued by Trom, [[Jaret Byar]] and [[Dain Bornhald]]. They come in with the other Lord Captains previously standing against him. They drop a sack containing [[Rhadam Asunawa]]'s head and pledge loyalty to him. While traveling through [[Ghealdan]], he debates with Galad about the merit of of sending a letter to the White Tower to ask if the Children of the Light can become allies with the Aes Sedai.
+
+Trom comes to inform Galad that [[Perrin Aybara]]'s army has returned and has set itself on the heights above them in perfect position for an ambush. An army of [[Shadowspawn]] attack the Children and Trom is separated from Galad. Trom with Byar at his side, manage to meet up with Galad again and drive the Trollocs back when Perrin's force joins the fray and unites with the Children.
+
+Trom is one of the commanding officers who discuss with [[Elayne Trakand]] information gathered from all the war-fronts. During the Last Battle battle, he is shocked at the ferocity of the [[Ogier]].
+
+===Death===
+Trom would later die participating in Queen Elayne and [[Davram Bashere]]'s battle against the [[Shadow]]'s forces north of the city of [[Cairhien (city)|Cairhien]]. He was found by Galad and his cloak was almost completely red with blood, save for his officer's knots, which Galad took.
+[[Category:Lord Captain]]

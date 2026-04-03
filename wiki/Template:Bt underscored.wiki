@@ -1,0 +1,1 @@
+{{#replace:{{bt|{{{1}}} }}| |_}}<noinclude>[[Category:Book templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,20 @@
+{{ character
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| occupation=Merchant
+| nationality=Altaran
+| hair=Gray
+| gender=Male
+| appeared={{kod|11}}
+| lastappeared={{kod|11}}
+| lastmentioned={{kod|11}}
+| living=kod
+}}
+'''Kostelle''' is an [[Altara]]n merchant from the town of [[Maderin]]. He is round faced with multiple chins and is not particularly friendly.
+
+==Activities==
+Kostellee would likely not have diced with [[Mat]] except that Mistress [[Alstaing]] was keen on it. 
+
+Mat thinks him not particularly honest and that he and [[Camrin]] were looking to get Mistress Alstaing drunk and sell her shoddy goods at a high price. While losing money, he takes it well, and is happy when he wins most of it back.
+[[Category:Short pages]]

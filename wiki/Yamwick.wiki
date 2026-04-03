@@ -1,0 +1,19 @@
+{{ character
+| image=CotL.png
+| imagesize =250px
+| nationality=Unknown nationality
+| gender=Male
+| affiliation=Children of the Light
+| occupation=Soldier
+| status=Dead
+| death={{ne|998}}
+| appeared={{teotw|30}}
+| lastmentioned={{tom|35}}
+}}'''Yamwick''' was a [[Child of the Light]] who was killed in {{ne|998}} by [[Perrin Aybara]].{{ref|{{twotc}}, Yamwick}}
+
+==Activities==
+Yamwick and [[Lathin]] were with a large group of the Children in an unknown, abandoned ''[[stedding]]''. While there, they discovered [[Perrin Aybara]] and [[Egwene al'Vere]]. After telling them to come out of their hiding place, [[Hopper]] attacked and killed Lathin. Perrin then attacked Yamwick after Hopper was killed by another Child.{{ref/book|1|30}}
+
+Almost [[1000 NE|two years later]], Child [[Oratar]] and Child [[Byar]] testify at a trial, held by [[Lord Captain Commander]] [[Galadedrid Damodred]] and judged by [[Morgase Trakand]], about the deaths.{{ref/book|13|34}} Byar insists that the killing of the Children makes Perrin a [[Darkfriend]].{{ref/book|13|35}}
+
+{{notes}}

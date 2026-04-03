@@ -1,0 +1,59 @@
+{{character | image=YellowBlack.png
+| imagesize=250px
+| ajah=Yellow
+| nationality=Arafellin
+| status=Dead
+| gender=Female
+| death={{ne|999}}
+| affiliation= Black Ajah
+| rank=Aes Sedai
+| build=Slender
+| eyes=Large, Dark
+| mentioned={{tdr|25}} 
+| appeared={{tdr|51}}
+| lastappeared={{tsr|9}}
+| lastmentioned={{wh|22}}
+|birth = {{ne|967}}}}
+'''Amico Nagoyin''' was an [[Aes Sedai]] of the [[Yellow Ajah]]. She was also [[Black Ajah]] and part of [[Liandrin's Group of Black Sisters]].
+
+== Appearance ==
+Amico was slender and beautiful, with large dark eyes, long neck, and pale skin. 
+
+==Strength and Abilities==
+Amico is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|33}}. Among [[Liandrin's group of Black Sisters]], only [[Joiya Byir]] was weaker and [[Berylla Naron]] was her equal.
+
+==History==
+Amico was born in [[967 NE]] and went to the [[White Tower]] in [[982 NE]]. She was a [[novice]] for six years and [[Accepted]] for four, and was raised to the [[shawl]] in {{ne|992}}. Considering Amico's strength and years of training, she can be considered among the "[[Talent|fast learner]]s" in fact she remained in training like strong sisters in the top ranks.  
+
+She revealed herself as Black Ajah with Liandrin and the others and fled the [[White Tower]]. She was the youngest of the thirteen that fled, and was young for an Aes Sedai, being only fifteen years older than [[Elayne Trakand]] and [[Egwene al'Vere]]. This, combined with the fact that she does not have as much control over her emotions as some of the older Aes Sedai, suggests she has not been a full sister for very long. 
+
+It was noticed by [[Aviendha]] that she lost the ageless look of an Aes Sedai when she was [[stilled]], and looked far younger than she was.{{ref/book|4|5}}
+
+== Activities ==
+Egwene, Elayne and [[Nynaeve al'Meara]] find a book in her belongings named ''Customs and Ceremonies of the Tairen Court''. This was one of the baits left to draw them to [[Tear]] in search of Liandrin's group.
+
+After the three women are captured in Tear, Amico is set to guard them and maintain their shielding,{{ref/book|3|54}} but drifts to sleep whilst toying with one of the stolen dream ''[[ter'angreal]]''. Egwene encounters her in ''[[Tel'aran'rhiod]]'' and is able to bind her in air and partially cut her from the [[True Source]]. [[Mat]] arrives and finds Amico in a half-awake state, until Nynaeve punches her, knocking her out and fully releasing their shields.{{ref/book|3|55}} She was [[stilling|stilled]] during her capture, and so lost her ageless face.{{ref/book|4|5}}
+
+She is taken prisoner and questioned by the three girls in the [[Stone of Tear]] about where the Black Ajah fled. She points them towards [[Tanchico]]. She has a defeated attitude now and acts deferentially towards the Accepted and even more so towards [[Moiraine Damodred]] when she sees her.{{ref/book|4|5}}{{ref/book|4|6}} Due to her being stilled, she was freed from her oaths to the [[Shadow]] and was able to tell the truth about the rest of the group.
+
+She was murdered during the [[Trolloc]] attack on the Stone, along with [[Joiya Byir]], by [[Slayer]], who cut their throats after nailing their tongues to the cell door.{{ref/book|4|12}}{{ref/book|9|22}}{{ref|{{twotc}}, Amico Nagoyin}}
+
+==Notes on age and printings==
+In earlier printings of The Dragon Reborn, Amico was stated to be 'four years older than Egwene and [Elayne]. They were only 18 or 19 at this time, which would make Amico 22 or 23. Since Amico is stated as having the ageless look, this is probably impossible given the facts we have currently from the books.
+
+* Firstly, Elayne mentions that women do not begin to slow until their mid-twenties and yet Amico has done if she has the ageless look by 23.
+* Secondly, her training time as novice and Accepted would have to be extremely low for her to have even gained the shawl by 23. Moiraine, [[Elaida a'Roihan]] and [[Siuan Sanche]] are stated as having the record for the shortest training time at a total of six years, and they are all exceptionally strong Aes Sedai, whereas Amico is never noted to be uncommonly powerful or skilled.
+* Thirdly, all the Black Ajah sisters we have information on save [[Liandrin Guirale]] have joined the Black Ajah some time after becoming Aes Sedai. This means that she should be old enough to have gained the shawl and joined the Black Ajah.
+* Lastly, in the same section they are comparing the large differences between the Black sisters, and another odd inconsistency is raised. Elayne says:
+
+{{quote|No two were born in the same city, and no more than two in any one country. Amico Nagoyin was the youngest, only four years older than Egwene and I. Joiya Byir could be our grandmother.|{{3|25}}}}
+The wording of this implies that Joiya is meant to be the oldest of the Aes Sedai who fled, yet later in the series we see that [[Asne Zeramene]] has been Aes Sedai for more than 130 years, never mind what age she was when she gained the shawl. Old enough to be Elayne's grandmother would suggest Joiya was perhaps 80 at most, which would mean Asne Zeramene was far older than her, and 80 is relatively young for an Aes Sedai in any case.
+
+However, these discrepancies are clarified in more recent printings of the book, where it is instead stated that Amico was 'fifteen years older than Egwene and [Elayne]' and 'Joiya Byir could be our great-grandmother's great-grandmother'.
+{{DEFAULTSORT:Nagoyin, Amico}}
+
+{{notes}}
+[[es:Amico Nagoyin]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

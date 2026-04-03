@@ -1,0 +1,94 @@
+{{ character
+| image=Alviarin.png
+| imagesize=250px
+| ajah=White
+| nationality=Amadician
+| affiliation=Black Ajah
+| occupation=Dreadlord
+| rank=Aes Sedai
+| gender=Female
+| height=Tall
+| build=Slim
+| status=Alive
+| appeared={{tgh|12}}
+| lastappeared={{amol|42}}
+| living=amol
+| ewot=alviarin
+}}'''Alviarin Freidhen''' is an [[Aes Sedai]] of the [[White Ajah]], as well as the secret head of the [[Black Ajah]] and [[Supreme Council]].
+
+== Appearance and Personality ==
+Alviarin has a swan neck and is tall and slim.{{ref/book|4|1}}{{ref/book|5|p}} She has smooth, unblemished skin. Alviarin is quite beautiful; even seductive by some standards. 
+
+She cares little for relationships or the feelings of others. She frequently appears aloof, and often interacts with her peers in a coldly logical manner. Secretly Alviarin has had a history of heinous remorseless acts. Her ability to dehumanize others and behave in a manner that lacks basic empathy demonstrates someone with a sociopathic mind.
+
+==Strength and Abilities==
+Alviarin is [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai, with a [[One Power]] level of {{opsl|23}}. She is strong enough to be able to [[Traveling|Travel]]. 
+
+She is a skilled administrator and records keeper which served her well during her tenure as the [[Keeper of the Chronicles]] under [[Elaida do Avriny a'Roihan]].
+
+==History==
+Alviarin was born in Amadicia, near the border with Tarabon, in {{ne|943}}. Given the geography of the area, this would be not far from [[Mardecin]]. As a teenager she was approached by [[darkfriend]]s who learned she had killed a village girl. These vile people helped Alviarin cover up the crime and initiated her into their ranks in {{ne|958}}. The next year she was ordered to murder a young man. She seduced him and then, like a sociopath, stabbed him to death in bed without losing composure or feeling remorse. Soon afterwards she began to notice her ability to channel and so traveled to [[Tar Valon]].
+
+Alviarin was watched closely by the Black Ajah from the first day that she arrived in the White Tower. She spent 5 years as a novice and another 5 an Accepted. In {{ne|968}} as she was preparing to be tested for the shawl, she was approached by a Black Ajah agent for recruitment. As a test she was ordered to murder a fellow accepted; a young woman with whom she had formed her only friendship over the preceding nine years. Alviarin coldly strangled her without hesitation. She was later informed that the only purpose of the murder had been to measure her obedience. In {{ne|969}} Alviarin passed her test for the shawl, chose the White Ajah, and swore the [[Three Oaths]]. Soon afterwards she forswore her oaths in a secret Black Ajah ceremony and swore new oaths to the cabal.
+
+She was raised to the Head of the Black Ajah by [[Ishamael]] upon his punishment of [[Jarna Malari]] and interrogation of the [[Council of Thirteen]]. This was in the year {{Ne|983}}. Alviarin says she was plucked from the "hidden mass of the Black Ajah," indicating that Ishamael chose her for his own reasons. She was a member of the Council of Thirteen prior to this time; she mentioned at one point the "other twelve members of the Council."
+
+==Activities==
+===Before the coup===
+She is one of two sisters of the White that accompany [[Siuan Sanche]] as her entourage to [[Fal Dara]].
+She gives [[Egwene al'Vere]] and [[Nynaeve al'Meara]] lessons in channeling as the party returns to [[Tar Valon]]. Egwene thinks she is cool and businesslike, sharp in her criticisms, but always ready to start again.{{ref/book|2|12}}
+Alviarin is present at the end of Egwene's [[Accepted]] test.{{ref/book|3|23}}
+
+She is one of the first close confidants to [[Elaida do Avriny a'Roihan]], when Elaida begins to plot the downfall of Siuan Sanche as [[Amyrlin]].{{ref/book|4|1}}
+
+She was contacted by various [[Forsaken]] shortly after their release: [[Lanfear]], [[Be'lal]], [[Graendal]], and [[Mesaana]].
+
+===Keeper of the Chronicles===
+[[File:WoT Japanese ACoS6.gif|thumb|right|350px|Alviarin and Elaida in a cover of the japanese edition]]
+Alviarin is made [[Keeper of the Chronicles]] when Elaida is raised to the Amyrlin Seat.{{ref/book|4|47}} This move was intended to win over the support of the Whites, who are traditionally (though not always) supporters of the [[Blue Ajah]].
+She has more influence over the [[Hall of the Tower]] than any Keeper in history. Elaida thinks she has as many as six Sitters under her thumb.
+
+Alviarin uses her position to keep Elaida in the dark about what the Ajah networks pass on to her and what the Keeper's own networks have gathered. In this way, she influences how Elaida makes decisions, even in the early days. Her main motives are to destabilize the Tower even further. 
+She later reports only to [[Mesaana]], although she schemes even against her. Mesaana thinks that Alviarin would have preferred to be Amyrlin Seat herself.
+
+Alviarin blackmails Elaida with her disasters at [[Dumai's Wells]] and the [[Attack on the Black Tower]]. She forces Elaida to swear to obey her and to remain out of sight, only speaking what Alviarin wishes her to speak. She forces Elaida to repeat a catechism to this effect when she believes Elaida is trying to go her own way.
+
+One of her first orders to Elaida is to sign a declaration that anyone who approaches the [[Dragon Reborn]] save through the White Tower is an enemy of Tar Valon.
+
+===After removal as Keeper===
+Alviarin is removed as Keeper by a vote in the Hall similar to the one used by Elaida previously to depose Siuan. The justification for this was the unexplained absence of Alviarin when the [[rebel Aes Sedai]] turn up and start the [[Siege of Tar Valon]]. It is felt that Alviarin had abandoned the cause and that the Amyrlin needs a Keeper in such times. She is replaced by [[Tarna Feir]].
+
+Elaida also no longer fears Alviarin's threats and blackmail, as the blame for the disasters had been neatly passed onto [[Galina Casban]] and [[Toveine Gazal]].
+
+Alviarin is marked by [[Shaidar Haran]], who is there to reprimand Mesaana for her failure to appear at the [[Battle near Shadar Logoth]], as his property and under his protection. What effect this will have on Mesaana's authority over Alviarin remains to be seen, though Mesaana was already poised to kill her and Alviarin believes that she may do so regardless of her orders. Alviarin also believes that Shaidar Haran is the [[Great Lord]] made flesh.
+
+Alviarin receives 'private penance' from [[Silviana Brehon]] daily, including before breakfast each morning. [[Norine Dovarna]] mentions that it is obvious that it is no such thing, but a punishment handed down by the Amyrlin. The entire White Ajah looks down on her because of her failure and fall from grace as Keeper.
+
+Alviarin later approaches [[Egwene al'Vere]] while Egwene is held captive in the Tower and offers to aid her, but Egwene refuses Alviarin's assistance.
+
+Alviarin is rightly suspicious about why [[Talene Minly]] did not accept her summons to the Council of Thirteen and says that she will have to be killed. She also thinks that [[Doesine Alwain]] and [[Yukiri]] may be involved and is having them watched by Black sisters in their Ajah. It will be a race of whether the [[Black Ajah Hunters]] catch Alviarin before she catches them.
+
+=== Fleeing the Tower ===
+Alviarin's allegiance is revealed to Egwene by [[Verin Mathwin]]'s book on the Black Ajah. However, Alviarin manages to escape the White Tower before being taken into custody.
+
+She begins prowling the White Tower at night in ''[[Tel'aran'rhiod]]'' using one of the stolen dream ''[[ter'angreal]]''. She attacks Egwene from behind but Egwene appears behind her before her weave of Fire connects, instead hitting [[Talva]]. Alviarin disappears before Egwene can capture her.
+
+She returns to ''Tel'aran'rhiod'' and is part of the Black sisters' attack on Egwene and the White Tower Aes Sedai. Mesaana is captured during the battle but Alviarin manages to escape.
+
+=== The [[Last Battle]] ===
+Alviarin shows up again at the [[Field of Merrilor]] as one of the [[Dreadlords]] in charge. By this time, she has teamed up with at least one Black sister from [[Liandrin's Group of Black Sisters|Liandrin's group of Black sisters]], [[Rianna Andomeran]], and several of [[Mazrim Taim]]'s lackeys, such as [[Atal Mishraile]] and [[Varil Nensen]], who was [[Turning|Turned]] at the Black Tower. She has [[Bonding|bonded]] the latter.
+
+While seemingly chasing after [[Rand al'Thor]] - [[Androl Genhald]] in disguise - through a [[gateway]], Alviarin and her group are unknowingly led into an [[Ogier]] ''[[stedding]]'', [[Stedding Sholoon]]. [[Lindsar]], [[Elder|Eldest]] of Stedding Sholoon, thinks a few decades in the ''stedding'' might make the Friends of the Dark reconsider their path.
+
+Alviarin is presumed to be alive and a captive in [[Stedding Sholoon|''Stedding'' Sholoon]].
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Freidhen, Alviarin}}
+[[Category:Keepers of the Chronicles]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Ajah Heads]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

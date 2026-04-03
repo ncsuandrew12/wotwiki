@@ -1,0 +1,29 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  {{<includeonly>subst:</includeonly>PAGENAME}}! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''{{SITENAME}}'''!. Thanks for your edit to the [[:User:Jaedan Edhel]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Mainphramephreak|Mainphramephreak]] ([[User_talk:Mainphramephreak|Talk]]) 21:26, December 31, 2012
+|}
+
+== Root menu ==
+
+Hello. Thanks for creating an account! Also, thanks for the compliment. I, and a lot of other contributors, try to keep things up. :) In regards to the Root menu, if you mean the Root category, then I have an answer for you. A little while ago, I restructured the top-level categories. We now have [[:Category:The Wheel of Time]] as the top level category. Underneath that are two categories, [[:Category:In-universe content|one for in-universe content]] and [[:Category:Real-world content|one for real-word content]]. Hope that is what you needed. Please let me know if you have any other questions! Thanks again. ---- {{User:Mainphramephreak/Sig/Subst}} 22:16, December 31, 2012 (UTC)
+
+
+
+Thanks for the swift reply - I really appreciate it. It never occured to me to search for 'category'! This looks like a great way to organise the inital menu.
+
+[[User:Jaedan Edhel|Jaedan Edhel]] ([[User talk:Jaedan Edhel|talk]]) 20:00, January 1, 2013 (UTC)

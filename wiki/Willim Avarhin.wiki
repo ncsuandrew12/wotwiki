@@ -1,0 +1,18 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Andoran
+| title=Lord
+| gender=Male
+| mentioned={{wh|10}}
+| lastmentioned={{wh|10}}
+}}'''Willim Avarhin''' was an impoverished [[Nobility|nobleman]] from [[Andor]].{{ref/book|c|Willim Avarhin}}
+
+==History==
+He lived in a small manor house in [[Caemlyn]] with his daughter, [[Shiaine Avarhin]]. The [[Darkfriend]] [[Mili Skane]] murdered them both and assumed Shiaine's identity.{{ref/book|9|10}}
+
+{{notes}}
+{{DEFAULTSORT:Avarhin, Willim}}
+[[Category:Short pages]]
+[[Category:Nobility]]

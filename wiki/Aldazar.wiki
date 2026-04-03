@@ -1,0 +1,17 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| status=Alive
+| type=horses
+| animal=Horse
+| owner=Furyk Karede
+| gender=Male
+| color=Bay
+| appeared={{cot|4}}
+}}
+'''Aldazar''' is the horse owned by [[Furyk Karede]]. He is a bay horse. His name means "eagle" in the [[Old Tongue]].
+
+==Activites==
+Aldazar carries Furyk throughout his search for [[Tuon Athaem Kore Paendrag]].{{ref/book|10|4}}{{ref/book|11|34}}{{ref/book|11|36}}
+
+{{notes}}

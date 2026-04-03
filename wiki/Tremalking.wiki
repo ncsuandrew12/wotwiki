@@ -1,0 +1,23 @@
+[[Image:Tremalking map.png|thumb|right|200px|Location]]
+'''Tremalking''' is a large and highly mountainous island found southwest of the main landmass of the [[Westlands]].{{ref/book|8|1}} It is the largest of the [[Sea Folk]] islands.{{ref/book|10|21}} The female statue of the [[Choedan Kal]] stands on the island. It is populated by the peaceful [[Amayar]].
+
+[[File:Female Choedan Kal.jpg|thumb|200px|left|''Choedan Kal'' on '''Tremalking'''.]]
+
+== History ==
+The peaceful Amayar lived on Tremalking for centuries, and manufactured precious porcelain. They were governed by the ''[[Atha'an Miere]]'', and had a friendly relationship, though did not interact much on a personal basis.
+
+During the [[Cleansing of saidin|cleansing of ''saidin'']], the Amayar observed the hand of the female Choedan Kal glowing as [[Nynaeve al'Meara]] used the access key in [[Shadar Logoth]]. The Amayar interpreted this as the end of the [[Time of Illusion]], and committed mass suicide.{{ref/book|9|35}}
+
+== Trivia ==
+* There is a tavern in [[Tar Valon]] called [[The Tremalking Splice]].{{ref/book|3|30}}
+* There is a tea known as Tremalking black.{{ref/book|3|40}}
+
+== External links ==
+*{{TVlink|Tremalking}} on {{TVlink}}
+
+{{notes}}
+{{short}}
+
+[[es:Tremalking]]
+[[Category:Islands]]
+[[Category:Islands of the Atha'an Miere]]

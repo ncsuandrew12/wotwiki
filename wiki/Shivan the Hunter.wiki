@@ -1,0 +1,30 @@
+{{character 
+| image=Valere-icon-color.png
+| imagesize=100px
+| ewothist=Shivan
+| name=Shivan
+| status=Bound to the Wheel
+| nationality=Unknown nationality
+| rank=Hero of the Horn
+| affiliation=Horn of Valere
+| gender=Male
+| appeared={{tgh|47}}
+| mentioned={{acos|21}}
+}}
+'''Shivan the Hunter''' is one of the [[Heroes of the Horn]]. He is brother to [[Calian the Chooser]]; both of whom are only born at the end of an [[Age]]. It was suspected that [[Elayne Trakand]] was pregnant with Shivan and Calian, but [[The Wheel of Time Companion]] states in the entries for each that they were born before the beginning of the [[Last Battle]] and Elayne had not yet given birth.{{ref|{{twotc}}, Shivan|Shivan}}
+
+==Appearance==
+He rides with a black mask.
+
+==Activities==
+He appears when [[Matrim Cauthon]] blows the [[Horn of Valere]] near [[Falme]].{{ref/book|2|47}} Later, Mat remembers seeing him when he is talking with [[Birgitte Silverbow]].{{ref/book|7|21}}
+
+==Notes==
+She and her brother were reborn prior to the [[Last Battle]].{{ref||Shivan}} It is not clear if they are twins, however, as there is enough time for a woman to have given birth twice between the end of The Great Hunt and [[A Memory of Light]] when the horn is sounded for the second time (approx. 2 years). The Companion and books simply refer to them as brother and sister.
+
+==Parallels==
+Shivan the Hunter is a parallel to [[Wikipedia:Shiva|Shiva the Destroyer]] in [[Wikipedia:Hindu Mythlogy|Hindu Mythlogy]]. Shiva is known as "the destroyer" or "transformer." the name also translating roughly as "auspicious one." This reflects the words that Jordan uses to describe Shivan, ''the destruction of what had been and the birth of what was to be''.{{ref/book|7|21}} Some stories describe Shiva appearing as a tribal hunter to challenge and test protagonists as in the case with Arjuna. Shiva, like some other Hindu gods, appears in incarnations called [[Wikipedia:Avatar|avatars]] in which a being descends from a higher plane to a lower one for a specific purpose. This is remarkably similar to how the [[Pattern]] incorporates the [[Heroes of the Horn]] into its weaving.
+
+{{notes}}
+[[Category:Parallels]]
+[[Category:Historical people]]

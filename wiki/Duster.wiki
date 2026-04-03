@@ -1,0 +1,21 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Tylee Khirgan
+| gender=Male
+| color=Bay
+| appeared={{kod|4}}
+| lastappeared={{tgs|p}}
+}}
+'''Duster''' is the name of [[Banner-General]] [[Tylee Khirgan]]'s warhorse.
+
+==Appearance==
+Duster is a tall bay horse.
+
+==Activities==
+Duster carries Tylee to a meeting with [[Perrin Aybara]].{{ref/book|11|4}} When Perrin goes to [[Almizar]] to gather ''[[raken]]'', [[forkroot]], and ''[[a'dam]]'', Tylee accompanies him on Duster.{{ref/book|11|12}} After the [[Battle of Malden]], the banner-general proudly displays [[Sevanna]] across Duster's saddle.{{ref/book|11|30}} When [[Trolloc]]s attack the [[Seanchan]] group, Duster screams and throws Tylee from his saddle.{{ref/book|12|Prologue}}
+
+{{notes}}

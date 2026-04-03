@@ -1,0 +1,20 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Rhiannon
+| status=Dead
+| nationality=Unknown nationality
+| rank=Queen
+| gender=Female
+| mentioned={{acos|24}}
+}}
+'''Rhiannon''' was once a queen of some unknown nation.
+
+== History ==
+She went to the [[White Tower]] and announced to everyone who she was. She acted very pompous and demanded something unknown from the [[Aes Sedai]]. What she received, however, was far from what she wanted.{{ref/book|7|24}}
+
+==Legacy==
+Centuries after her scene at the White Tower, a tapestry of her being humbled hangs in the corridors.{{ref/book|10|Prologue}} When [[Elayne Trakand]] boldly announces who they were to the [[Kin]], [[Nynaeve al'Meara]] chides her for it and reminds Elayne of Rhiannon.{{ref/book|7|24}}
+
+{{notes}}
+[[Category:Historical people]]

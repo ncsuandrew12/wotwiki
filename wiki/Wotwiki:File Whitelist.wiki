@@ -1,0 +1,13 @@
+Images used by MediaWiki and Fandom software, but nowhere else, are listed as [[Special:UnusedFiles|unused]]. This can affect automatic housekeeping; thus, they are placed here to ensure they are not marked as unused. 
+
+==Logo==
+[[File:Site-logo.png]]
+
+==Favicon==
+[[File:Site-favicon.ico]]
+
+==Site background (dark)==
+[[File:Site-background-dark]]
+
+==Site background (light)==
+[[File:Site-background-light]]

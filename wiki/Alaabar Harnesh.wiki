@@ -1,0 +1,28 @@
+{{ character
+| image=CotL.png
+| imagesize=250px
+| status=Alive
+| nationality=Murandian
+| rank=Lord Captain
+| occupation=Soldier
+| affiliation=Children of the Light
+| gender=Male
+| height=Short
+| hair=Bald
+| appeared={{tom|p}}
+| lastappeared={{tom|35}}
+| living=tom
+}}
+'''Alaabar Harnesh''' is a [[Lord Captain]] in the [[Children of the Light]]. He is from [[Murandy]].
+
+==Appearance==
+He is a short and bald man. He lost his left ear in battle.
+
+==Activities==
+Harnesh attends the meeting of [[Rhadam Asunawa]] and [[Galadedrid Damodred]]. Harnesh seems to accept Galad's arguments that a [[Darkfriend]] would not have been able to kill [[Valda]] while the Children of the Light were formal, standing witnesses.{{ref/book|13|p}} He is one of the Lord Captains who rise up against Asunawa and his men. He then pledges his support and loyalty behind Galad. While traveling through [[Ghealdan]], he debates with Galad about the merit of of sending a letter to the [[White Tower]] to ask if the Children of the Light can become allies with the [[Aes Sedai]].
+
+The Children of the Light's force are about to engage [[Perrin Aybara]]'s force when Galad decides to parley with Perrin. He leaves Harnesh in command and tells him to charge the enemy if anything happens to him.
+After the trial Galad commands Harnesh to strike camp as he wants to put as much distance between their own force and Perrin's.
+
+{{notes}}
+{{DEFAULTSORT:Harnesh, Alaabar}}

@@ -1,0 +1,3 @@
+<includeonly>{{#ifeq:{{CURRENTDAY}}|1|{{#ifeq:{{CURRENTMONTH}}|4|{{{joke|}}}|{{{real|}}}}}|{{{real|}}}}}[[Category:April Fools pages]]</includeonly><noinclude>
+{{Documentation}}
+[[Category:April Fools pages| 0]]</noinclude>

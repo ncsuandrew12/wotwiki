@@ -1,0 +1,21 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Aviendha
+| gender=Mare
+| height=Stout
+| appeared={{kod|13}}
+}}
+'''Mageen''' is one of the horses owned by [[Aviendha]].
+
+==Appearance==
+Mageen is a stout, gentle mare.
+
+==Activities==
+Mageen carried Aviendha during the defense of an attack on [[Caemlyn]]'s walls during the [[Succession Wars#Fourth Succession War|Fourth Succession War]] of [[Andor]].{{ref/book|11|13}}
+
+{{notes}}
+{{short}}

@@ -1,0 +1,17 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Danu}}
+|}
+'''Danu 12 (December 5)'''
+
+==Events==
+</noinclude>
+*{{ne|978}} - An unexpected thaw melts all of the snow on [[Dragonmount]], except on the very peak. 
+*{{ne|999}} - [[Loial]] arrives in [[Caemlyn]]. Seven of the [[Salidar]] embassy go to the palace in an attempt to intimidate [[Rand]]. [[Kiruna]] and [[Bera]] arrive and take control of the Salidar embassy, bringing the number of [[Aes Sedai]] to thirteen. Rand takes [[Min]], [[Perrin]] and [[Faile]] to [[Cairhien]]. 
+*{{ne|999}} - Rand takes to his bed. [[Coiren]] sends a note asking to meet Rand; he declines. [[Berelain]] begins flirting with Perrin. 
+<noinclude>
+==External links==
+*[[wikipedia:december 5|December 5]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

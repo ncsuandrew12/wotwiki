@@ -1,0 +1,47 @@
+{{character 
+| image=Larelle Tarsi.jpg
+| imagesize = 250px
+| ajah=Gray
+| nationality=Domani
+| hair=Dark with white wings
+| gender=Female
+| rank=Aes Sedai
+| status=Deceased
+| death={{ne|979}}
+| affiliation=White Tower
+| mentioned={{ns|3}}
+| appeared={{ns|17}} 
+| lastappeared={{ns|18}}
+| lastmentioned={{ns|25}}
+|birth = {{ne|732}}}}'''Larelle Tarsi''' is an [[Aes Sedai]] of the [[Gray Ajah]].{{ref|{{twotc}}, Larelle Tarsi|Larelle}}
+
+==Appearance==
+She had long dark hair with white wings and copper skin. She had thin eyebrows. She is elegant.{{ref/book|0|17}}
+
+==Strength==
+Larelle had a strength in the [[One Power]] of {{opsl|20}}, making her [[Strength in the One Power among Aes Sedai|very strong]] for an Aes Sedai.
+At the time of [[New Spring]], she is stronger in the [[One Power]] than [[Moiraine Damodred]], although Moiraine would eventually be stronger once she reached her full strength.
+
+==History==
+She was born in Arad Doman in [[732 NE]].{{ref||Larelle}} 
+
+She taught Moiraine in several classes, both as [[novice]] and [[Accepted]] and had a way of asking the question you least wanted to hear. Her pupils were torn between being intimidated by her and wanting to be her. Every girl in her classes thought her the perfect sister. She had a way of asking the last question you wanted to hear.{{ref/book|0|17}}{{ref||Larelle}} 
+
+== Activities ==
+While [[Moiraine Damodred]] is out searching for the [[Dragon Reborn]] she meets up with Larelle in [[Kandor]].
+
+When [[Felaana Bevaine]] suggests that the newly raised Moiraine be taken in as a novice, unaware that she has already passed the test for Aes Sedai, Larelle says that their rules are not meant to be broken and that she has a feeling that Moiraine doesn't want to be a novice. This is a demonstration of her avoiding the [[Three Oaths|First Oath]] as Larelle is perfectly aware of who Moiraine is.
+
+Larelle is told to look after Moiraine by [[Cadsuane Melaidhrin]] until Moiraine has bonded a [[Warder]]. She was intending to head in the same direction as Moiraine and go to [[Chachin]] but Moiraine was told by [[Merean Redhill]] that she went south.
+
+==Her fate==
+Larelle was one of [[Tamra]]'s searchers for the infant [[Dragon Reborn]], though neither [[Moiraine]] nor [[Siuan]] knew this until too late to save her. She was killed in Kandor in [[979 NE]] by Merean shortly after Moiraine and Siuan left [[Canluum]]. Larelle was 247 years old when she died.{{ref||Larelle}}
+
+
+
+{{Notes}}
+{{DEFAULTSORT:Tarsi, Larelle}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Deceased]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

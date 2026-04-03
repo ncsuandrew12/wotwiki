@@ -1,0 +1,58 @@
+{{Featuredicon}}{{character
+| image=Juilin Sandar.jpg
+| imagesize=250px
+| ewot=Juilin
+| birth={{ne|961}}
+| nationality=Tairen
+| occupation=Thief-catcher
+| gender=Male
+| height=1 span, 5 inches
+| weight=28 1/2 stone
+| hair=Black
+| eyes=Dark
+| status=Alive
+| mentioned={{tdr|48}}
+| appeared={{tdr|49}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Juilin Sandar''' (JUY-lihn sahn-DAHR; /ˈd͡ʒuj.ɫɪn sɑnˈdaɹ/) is a thief-catcher from [[Tear]]. 
+
+== Appearance ==
+A[[Tear|Tairen]] native and a [[thief-catcher]] by profession, he is dark-skinned with black hair and dark eyes, and often carries a notched sword-breaker and a slim bamboo quarterstaff. He turns back the cuffs of his coat when he feels at ease around friends. 
+
+==Activities==
+=== Betrayal and redemption===
+He is hired by [[Nynaeve]], [[Egwene]], and [[Elayne]] to find the [[Black Ajah]].{{ref/book|3|49}} Unfortunately [[Liandrin]] uses [[Compulsion]] on him and he is forced to betray the three girls.{{ref/book|3|51}} He meets [[Mat Cauthon]] outside the [[Stone of Tear]] where they agree to help each other find the three girls and free them.{{ref/book|3|54}} The plan succeeds and he is forgiven for his betrayal.{{ref/book|3|55}}
+
+In [[The Shadow Rising]], at the order of [[Rand al'Thor]] and [[Lan Mandragoran]] he accompanies Nynaeve and Elayne when they travel to the city of [[Tanchico]] ([[Thom Merrilin]] is similarly convinced to go with them by [[Moiraine Damodred]]).{{ref/book|4|19}} After Tanchico he and Thom rescue the two girls when they are poisioned by [[forkroot]] tea by [[Ronde Macura]]. They then join [[Valan Luca]]'s Travelling circus where he becomes a highwire [[acrobat]]. 
+
+=== Ebou Dar ===
+He remains with their party when they journey to [[Salidar]], and again when their search for the [[Bowl of the Winds]] brings them to [[Ebou Dar]]. [[Aviendha]], Mat Cauthon and small number of the [[Band of the Red Hand]] also accompany them. 
+
+[[File:Interpretation of Juilin Sandar.jpg|thumb|left|Fan art of Juilin Sandar in Tear.]]
+
+When Nynaeve, Elayne and Aviendha leave the city, Juilin stays with Mat Cauthon's group. He later becomes besotted with one of the [[Seanchan]] ''[[da'covale]]'', "[[Thera]]", who is actually the ex-[[Panarch]] of Tanchico, [[Amathera]] (who he had previously met{{ref/book|5|8}}). He is beaten when caught sneaking onto her floor, but this doesn't stop him from seeing her. Mat gets Juilin to steal an ''[[a'dam]]'' and some ''[[damane]]'' clothing as part of his plan when trying to escape Ebou Dar with the captive [[Aes Sedai]]. Juilin leaves with Mat and takes Thera with him.
+
+=== Joining the circus ===
+He along with the rest of the group, join and travel in [[Valan Luca's Traveling Show]] again as a cover to escape [[Ebou Dar]]. [[Thera]] now never leaves his side. He runs to find Mat when [[Renna Emain]] stabs [[Egeanin Tamarath]] and flees Luca's show. 
+
+He is not very trusting of Egeanin, but when she is demoted from the Blood, she extends the olive branch to both him and Amathera and asks them to become friends.
+
+After a skirmish with Darkfriends in [[Maderin]], Mat and the rest of his group decide to leave Luca's show. While riding through [[Altara]] they meet up with the [[Band of the Red Hand]] and begin to travel with them.
+
+He meets with Mat, who is planning how to approach [[Trustair]], the next village after [[Hinderstap]].
+
+When the the Aes Sedai traveling with Mat finally leave, Juilin and Thera travel with them, making for [[Tar Valon]].
+
+=== The Last Battle ===
+
+Juilin found himself a squad commander at the Last Battle. His squad's job was to protect the Aes Sedai force from the [[Shara]]n infantry as they confronted the Shadow's channelers in the [[Field of Merrilor]]. Wielding a spear and his sword breaker, he defeated a Sharan commander and was able to help his men hold their front. It is presumed that he survives the Last Battle, as he is alive when we last see him in the book and the Companion does not mention his death.{{ref|{{twotc}}, Juilin Sandar}}
+
+{{notes}}<references />
+{{Primary Protagonists}}
+
+{{DEFAULTSORT:Sandar, Juilin}}
+
+[[es:Juilin Sandar]]
+[[Category:POV character]]

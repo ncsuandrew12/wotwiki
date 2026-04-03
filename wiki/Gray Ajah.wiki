@@ -1,0 +1,79 @@
+[[File:Larelle Tarsi.jpg|thumb|[[Larelle Tarsi]], [[Aes Sedai]] of the Gray Ajah]]
+
+{{quote|Wars and threats of war always mesmerized Grays, since they were dedicated to ending strife. And to extending their influence of course; every time the Grays stopped a war with a treaty, they increased the influence of all Aes Sedai, but of Grays most of all.|Crossroads of Twilight, Chapter 18}}
+
+{{dablink|For other uses of the word "gray," see [[Gray]].}}
+The '''Gray Ajah''' of the [[Aes Sedai]] are dedicated to politics and mediation. They favor harmony and consensus above all else, and are often conflict mediators or ambassadors. The leader of the Gray Ajah is called the [[Head Clerk]].
+
+Also see [[List of Gray Ajah sisters]].
+
+==Size==
+The Gray is the third-largest [[Ajah]], behind the [[Green Ajah|Green]] and before the [[Brown Ajah|Brown]]{{ref/book|bwb}}, with roughly one hundred and forty Sisters just prior to the [[Last Battle]], as it is stated in TWoTC. 
+
+In ''[[The Gathering Storm]]'' it is discovered that there are thirty-one members of the [[Black Ajah]] among the Gray sisters,{{ref/book|12|39}} but only the names of six of them are known. In ''[[Towers of Midnight]]'' the name of the former Gray Sitter [[Evanellein]] is added to the list of Blacks infiltrated in this Ajah.
+
+===Demographics===
+The breakdown of nationality for named Gray Ajah sisters in recent history is as follows:
+
+* Andor: 5
+* Arad Doman, Arafel, Cairhien, Tarabon: 3
+* Amadicia, Murandy, Saldaea, Shienar: 1
+* Altara, Far Madding, Ghealdan, Illian, Kandor, Mayene, Tear: 0
+
+* Unknown: 15
+
+==History==
+Gray Ajah major interests are diplomacy, jurisprudence and justice. Gray sisters are studying constantly all the laws, customs, history, relations of every nation to offer their help as political advisors to the governments. They also offer their ability in writing the law and their diplomatic skills in case of dispute between states.
+
+Gray sisters have been responsible for drawing to a close countless conflicts and wars over the last three thousand years, through their skill in crafting agreements and treaties. It was a Gray sister who was behind the [[Compact of the Ten Nations]]. During the [[Aiel War]], it was a Gray sister who represented [[Tar Valon]] in the [[Grand Alliance]]. After the Aiel War, many Grays attempted to hold together this coalition of nations but they ultimately failed.
+
+The Gray's purpose is not solely to deal with treaties and negotiations between nations; Grays also take on the role of administer the law of the land - the land being that in which they happen to be. This could take the form of being asked by a local noble or magistrate to act as judge or jury. It is noted that [[Beonin Marinye]] excels as a detective, and this could also be another aspect of the Gray, finding those responsible for crimes and bringing them to justice. Sometimes the Gray sisters also accept to help or mediate in dispute between common people, as it is proven by the gifts displayed in the rooms of [[Meidani]].
+
+In the last millennium the Gray Ajah was second only to the Blue Ajah in the ability to elect [[Amyrlin Seat]] coming from its own ranks, in fact the Blue sisters elected as Amyrlin were eleven and the Gray nine, the Green Ajah was third with seven sisters elected and the Brown fourth with only five.
+
+Recently, the Gray Ajah has also taken up studying and experimenting with [[Traveling]] [[Weaves of the Power|weaves]], a project led by Yukiri. Yukiri considered it logical for the Gray Ajah to become experts of Traveling, due to their other purposes.
+
+==Characteristics==
+The spirit behind the Gray Ajah's involvement in the realm of politics is a dedication to the "ending of strife."
+
+Grays believe that mediation is the sole territory of the Gray Ajah, and by claiming Gray Ajah prerogative, can exclude all other Ajahs from being involved in talks and negotiations.{{ref/book|11|23}} They are familiar with the laws of every land,{{ref/book|6|35}} and most Grays believe that any problem can be solved if they talk about it for long enough.{{ref/book|10|17}}
+
+==Leaders==
+The current Head Clerk of the Gray Ajah is [[Serancha Colvine]]. The current [[Sitters]] in the [[Hall of the Tower]] of the Gray are [[Andaya Forae]], [[Varilin]], and [[Yukiri]].
+
+Among the Rebel Aes Sedai [[Delana]], [[Kwamesa]] and [[Naorisa]] were elected for a while as Gray Sitters while Beonin was probably the leader of the Rebel Grays. Among the Loyalist there was [[Evanellein]] as Sitter to support Elaida along Yukiri and Andaya.
+
+The Head Clerk is advised by a council. Though many Sisters believe the Head Clerk to be the most powerful woman in the Ajah, in truth, she had to depend on gaining consensus among the members of her council.
+===Method of Electing Sitters===
+The Gray Ajah's method of electing Sitters is discussion until consensus can be met on two or three candidates. These candidates are then voted for by secret ballot, the winner gaining a seat in the Hall of the Tower.{{ref/book|10|prologue}} However, this was not what occurred when Andaya gained the position - she was personally promoted by Serancha.{{ref/book|10|prologue}}
+
+==Recent developments ==
+Just before the [[Last Battle]] the Gray Ajah sisters specialized themselves in studying and using the [[travel]] weaves. During the Last Battle they organized the White Tower communication and transportation network. [[Yukiri]] invented a new weave that created a gateway horizontally rather than vertically. Through a gateway of this kind opened very high in the sky, the Aes Sedai were able to spy the enemy from far above and to study the battle fields.
+
+== List of Amyrlin Seats from the Gray Ajah ==
+Of the nine known Amyrlins raised from the Gray Ajah, only two proved weak. The others ranged from average strength to strong.
+
+{{Amyrlist/Begin}}
+{{Amyrlist/Entry|[[Dalaine Ndaye]]|ne|36||ne|64}}
+{{Amyrlist/Entry|[[Medanor Eramandos]]|ne|142||ne|171}}
+{{Amyrlist/Entry|[[Elise Strang]]|ne|223||ne|244}}
+{{Amyrlist/Entry|[[Serenia Latar]]|ne|276||ne|306}}
+{{Amyrlist/Entry|[[Cerilla Marodred]]|ne|454||ne|476}}
+{{Amyrlist/Entry|[[Gerra Kishar]]|ne|601||ne|638}}
+{{Amyrlist/Entry|[[Cemaile Sorenthaine]]|ne|681||ne|705}}
+{{Amyrlist/Entry|[[Parenia Demalle]]|ne|817||ne|866}}
+{{Amyrlist/Entry|[[Sierin Vayu]]|ne|979||ne|984||24}}
+{{Amyrlist/End}}
+
+==List of known Gray sisters (with Saidar strength)==
+See also [[List of Gray Ajah sisters]].
+
+== In the television series ==
+{{TVlink|Gray Ajah}} on {{TVlink}}
+
+{{notes}}
+
+{{ajahs}}
+
+[[es:Ajah Gris]]
+[[Category:Gray Ajah| ]]

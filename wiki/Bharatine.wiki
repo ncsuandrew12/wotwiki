@@ -1,0 +1,35 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Unknown nationality
+| affiliation=White Tower
+| rank=Aes Sedai 
+| gender=Female
+| build=Thin
+| status=Alive
+| appeared={{loc|14}}
+| lastappeared={{loc|30}}
+| living=loc
+|birth = {{ne|921}}}}
+'''Bharatine''' is an [[Aes Sedai]] of the [[Green Ajah]]. She allied herself with the [[Salidar Aes Sedai]] during the split.
+
+== Appearance ==
+Bharatine is thin, yet graceful, with a long nose. Though thin as a rail, she manages to look elegant.
+
+== Strength==
+Bharatine is [[Strength in the One Power among Aes Sedai|very weak]] in the [[One Power]] with a strength level of {{opsl|39}}.{{ref|{{twotc}}, Bharatine|Bharatine}}
+
+==History==
+She was born in {{ne|921}} and went to the [[White Tower]] in {{ne|936}} at the age of 15. She spent nine years as a [[novice]] and seven years as [[Accepted]]. She was raised to the shawl in {{ne|952}}.
+
+== Activities ==
+She is one of the Aes Sedai who joined in the [[Link]] with [[Anaiya]] when the [[Bubble of evil]] erupted in [[Salidar]].
+
+She is one of the sisters who crowd into the room after [[Nynaeve al'Meara]] Heals [[Logain Ablar]], restoring his ability to channel.{{ref||Bharatine}}
+
+{{short}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

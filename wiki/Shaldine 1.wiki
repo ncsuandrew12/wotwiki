@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|September}}
+|{{Wotmonth|Shaldine}}
+|}
+'''Shaldine 1 (September 29)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - The [[rebel Aes Sedai]] embassy leaves [[Salidar]] for [[Caemlyn]].
+<noinclude>
+==External links==
+*[[wikipedia:september 29|September 29]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

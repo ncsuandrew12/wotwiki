@@ -1,0 +1,27 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Farmer
+| affiliation=Two Rivers
+| gender=Male
+| hair=Bald
+| appeared={{tsr|45}}
+| lastappeared={{tsr|45}}
+| living=tsr
+}}
+{{dablink|For the soldier in [[Perrin Aybara]]'s army, see [[Get Ayliah]].}}
+'''Get Eldin''' is a farmer in the [[Two Rivers]].
+
+== Appearance ==
+He is bald, leathery and wrinkle-faced and three times Perrin's age. {{Ref|{{twotc}}, Get Eldin}}
+
+== Activities ==
+Perrin has him prevent other Emond's Field residents from bothering [[Haral Luhhan]] at the forge.{{ref/book|4|45}}
+
+He helps defend [[Emond's Field]] against the invading [[Trollocs]].
+
+{{notes}}
+{{DEFAULTSORT:Eldin, Get}}
+{{Short}}

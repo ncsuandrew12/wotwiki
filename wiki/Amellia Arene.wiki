@@ -1,0 +1,24 @@
+{{character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Amadician
+| occupation=Merchant
+| affiliation=Darkfriend
+| gender=Female
+| hair=Graying
+| appeared={{Tfoh|18}}
+| lastappeared={{tfoh|18}}
+| lastmentioned={{tfoh|34}}
+| living=tfoh
+}}'''Amellia Arene''', along with her husband, [[Jorin Arene]], is a merchant in [[Amador]].{{ref|{{twotc}}, Amellia Arene}} She and her husband are both [[Darkfriends]].
+
+==Appearance==
+She has a stern face, and graying hair.
+
+==Activities==
+[[Liandrin]] and [[Liandrin's Group of Black Sisters|her group]] take over Amellia Arene's house in Amador. [[Temaile Kinderode]] caused serious harm to Amellia's husband. Amellia begged Liandrin to [[Heal]] Jorin.{{ref/book|5|18}} About a month later, [[Moghedien]] gives Amellia and [[Evon]], the house cook, a shielded Liandrin to use as a scullery girl.{{ref/book|5|34}}
+
+{{notes}}
+
+{{DEFAULTSORT:Arene, Amellia}}

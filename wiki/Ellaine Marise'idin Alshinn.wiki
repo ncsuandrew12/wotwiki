@@ -1,0 +1,20 @@
+{{character 
+| image=ArafelFlag.png
+| imagesize=250px
+| ewothist=Ellaine
+| ajah=
+| status=Dead 
+| nationality=Arafellin
+| rank=
+| title=
+| gender=Female
+| mentioned=
+| lastmentioned=
+|affiliation = Arafel|occupation = Chief Librarian}}'''Ellaine Marise'idin Alshinn''' was the Chief Librarian at the Court of Arafel at [[Shol Arbela]] in [[231 NE]], [[Third Age]], and one of the translators of ''[[Karaethon Cycle|The]]''[[Karaethon Cycle| ''Karaethon Cycle: The Prophecies of the Dragon'']]''. ''{{Ref/book|2|prologue}}
+
+{{Notes}}{{Short}}
+
+[[Category:Short pages]]
+[[Category:Arafel (people)]]
+[[Category:Librarians]]
+[[Category:Historical people]]

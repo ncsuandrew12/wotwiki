@@ -1,0 +1,6 @@
+{{Image
+| License            = Public Domain Self
+| ImageType1          = Sigil
+| Description        = The ''con'' of [[Talmanes Delovinde]].
+| Source             = User created
+}}

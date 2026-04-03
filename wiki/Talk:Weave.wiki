@@ -1,0 +1,9 @@
+== Weaves or Talents ==
+
+Many of the weaves listed here are also listed under Talents.  Should they be both places? I know the difference is dubious. It seems like Talents should be an special inborn ability or at least proclivity, while weaves is more of a technique to perform a task. [[User:Seebster|Seebster]] 00:20, February 23, 2011 (UTC)
+
+== Unnamed Weaves ==
+
+What is the proper place to add information about weaves that are used in the books, but not named? For example, in {{tpod|29}} Rand uses a weave of Air, Fire, and Earth that creates a barrier that supposedly keeps out everything but Balefire (including oxygen...) to survive an attack by Dashiva. It seems like an interesting weave to add to the wiki, but without a name I can't give the weave it's own page. [[User:Thergrarg|Thergrarg]] 14:32, September 22, 2011 (UTC)
+
+:There are several [[:category:Weaves|Weaves]] and [[:Category:Talents|Talents]] that don't really have official names. For this one, I would suggest something along the lines of "Shielding" or "Protecting." If anything, a section on this article would be fine as well, under the named weaves. -------- {{User:Mainphramephreak/Sig/Subst}} 06:41, September 23, 2011 (UTC)

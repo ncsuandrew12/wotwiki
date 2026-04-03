@@ -1,0 +1,16 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| status=Alive
+| nationality=Atha'an Miere
+| occupation=Sailor
+| gender=Male
+| appeared={{tdr|30}}
+| lastappeared={{tdr|30}}
+| living=tdr
+}}'''Raab''' is an Atha'an Miere sailor whom [[Matrim Cauthon|Mat Cauthon]] encountered in [[Tar Valon]].{{ref|{{twotc}}, Raab}}
+
+==Activities==
+After repeatedly losing to Mat while dicing he decides to follow Mat around and bet on him to win. Later in the evening, he staggers away rich.{{ref/book|3|30}}
+
+{{notes}}

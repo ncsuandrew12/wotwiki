@@ -1,0 +1,31 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| rank=First-Lieutenant
+| nationality=Domani
+| occupation=Soldier
+| affiliation=Younglings
+| build=Slight
+| height=Short
+| gender=Male
+| mentioned={{Loc|55}}
+| appeared={{cot|p}}
+| lastappeared={{tgs|13}}
+| living=tgs
+}}'''Rajar''' is the First-Lieutenant in the [[Younglings]] and is from [[Arad Doman]].
+
+== Appearance ==
+He has a deep voice and a slight build. He is shorter than [[Gawyn Trakand]].
+
+== Activities ==
+He has trained in [[Tar Valon]] for six years.
+He is sent a message by Gawyn to prepare for attack from the [[Shaido]] just before the [[Battle of Dumai's Wells]].
+
+After the battle he fled with the rest of the surviving Younglings to [[Dorlan]] where they waited for word from the [[White Tower]]. He reported to Gawyn about [[Narenwin Barda]] arriving in Dorlan.{{ref/book|10|p}}
+
+He helps Gawyn raid the [[Rebel Aes Sedai]] army camped outside of [[Tar Valon]]. When Gawyn goes to leave Dorlan, Rajar doesn't realize this and moves to follow Gawyn. He is told to remain behind.
+
+{{notes}}
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]

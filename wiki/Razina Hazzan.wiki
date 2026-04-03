@@ -1,0 +1,47 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| gender=Female
+| nationality=Saldaean
+| rank=Aes Sedai
+| affiliation=White Tower
+| status=Alive
+| build=
+| mentioned=The Wheel of Time Companion
+| appeared=
+| lastappeared=
+| living=
+}}'''Razina Hazzan''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Razina Hazzan}}
+
+==Strength and Abilities==
+Razina is [[Strength in the One Power among Aes Sedai|weak]] in the [[One Power]] for an Aes Sedai, with a strength level of {{opsl|34}}. This is too weak to [[Traveling|Travel]] without linking with another channeler.
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+She was part of the White Tower secret expedition who were to kidnap [[Rand al'Thor]] in [[Cairhien]].
+
+She was taken prisoner during the Battle of [[Dumai's Wells]] by the [[Asha'man]]{{ref/book|6|55}}.
+
+Razina was one of the captured Aes Sedai{{ref/book|7|1}} to be interrogated by [[Verin Mathwin]] in order to discover the White Tower's intentions towards [[Rand al'Thor]]{{ref/book|8|p}}. In reality Verin used her mild [[Compulsion]] to implant in their minds some instructions about Rand.
+
+Later it is reported by [[Sorilea]] that all the Aes Sedai prisoners have sworn fealty to Rand{{ref/book|9|13}}.
+
+As with many Aes Sedai sworn to Rand, Razina probably fought the [[Last Battle]] on the slopes of [[Thakan'dar]]{{ref/book|14|34}}. It is not stated whether she survived or not.
+
+==Trivia==
+Razina Hazzan is described only in ''The Wheel of Time Companion'', she is never mentioned in the main books of ''The Wheel of Time''. Taking inference from the ''Companion'', she is the second Brown sister mentioned in the party sent to kidnap Rand in Cairhien.
+
+But this is in contradiction to the description of this group in the main series, because we know well the number of sisters and the Ajah involved in the kidnapping group and no more Brown sisters than one ([[Nesune]]) were ever counted in that party.
+
+{{notes}}
+{{Short}}
+{{DEFAULTSORT:Hazzan, Razina}}
+[[Category:Rand's Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

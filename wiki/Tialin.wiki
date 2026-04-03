@@ -1,0 +1,30 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| build=Lanky
+| hair=Red
+| status=Alive
+| clan=Unknown clan
+| sept=Unknown sept
+| appeared={{loc|25}}
+| lastappeared={{tpod|p}}
+| living=tpod
+}}'''Tialin''' is an [[Aiel]] [[Wise One]].
+
+== Appearance ==
+She is lanky and red-haired.
+
+== Strength and Abilities ==
+She can [[channel]] the [[One Power]]. She is of no more than middling strength with ''[[saidar]]''.
+
+This is not confirmed by TWoTC because her level is described there as {{opsl|24}}, which is a high level by Aes Sedai standard (a middling level is around {{opsl|40}} and it is more than enough to open suitable gateway to [[Travel]].
+
+== Activities ==
+She is one of the [[Wise Ones]] who are supervising the [[Aes Sedai]] held prisoner by the [[Aiel]] in [[Cairhien]].
+
+It can be assumed that during the Last Battle she fights in [[Thakan'dar]] Valley along the other Wise Ones.
+[[Category:Channelers]]

@@ -1,0 +1,44 @@
+{{character
+| image=AltaraFlag.png
+| imagesize=250px
+| ewot=beslan
+| height=5'10"
+| status=Alive
+| nationality=Altaran
+| rank=King
+| title=[[King]] of [[Altara]], [[Master of the Four Winds]], [[Guardian of the Sea of Storms]], [[High Seat]] of [[House Mitsobar]]
+| gender=Male
+| weight=Slender
+| hair=Black, long
+| eyes=Black
+| appeared={{Loc|16}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Beslan Mitsobar''', [[King]] of [[Altara]], [[Master of the Four Winds]], [[Guardian of the Sea of Storms]], [[High Seat]] of [[House Mitsobar]], is the current King of Altara.
+
+== Appearance ==
+Beslan is young and slender, with black eyes and long black hair.
+
+==History==
+Beslan is enthusiastic and spirited.
+
+==Activities==
+=== The loveable rebel ===
+He befriends [[Matrim Cauthon]] during Mat's time in Altara. The pair enjoy many nights carousing in the city, despite the initial fears of reprisal Mat entertains regarding his sexual involvement with Beslan's mother, [[Tylin Quintara Mitsobar|Tylin]]. Beslan is in fact well aware of the pairing, and approves of it.
+
+He is with Mat when they are attacked by beggars sent by [[Old Cully]], and when they find the [[Bowl of the Winds]] in the Rahad. During the fight in the Rahad, Beslen is injured and has to be [[Healing|Healed]] by [[Nynaeve al'Meara]].
+
+After the [[Seanchan]] capture [[Ebou Dar]], he becomes more serious and begins to try and plan something against them with the help of [[Thomdril Merrilin]]. When Mat plans his escape with the captive [[Aes Sedai]], he charges Beslan the task of getting some men to set fire to some of the food stores as a distraction. He is told by Mat to be seen drinking in a public place while all this is happening so as not to draw any suspicion. 
+He succeeded his mother to the throne after she is murdered by a ''[[gholam]]''.
+
+=== Joining the Blood ===
+After [[Suroth]] is disgraced and deposed, [[Tuon]] confronts Beslan on his rebellious activities. Tuon is prepared to offer him clemency if he re-swears his oaths. The alternative is to be honorably executed, since Tuon believes his rebellion to be misguided, but with the best intentions at heart. Beslan re-swears his oath and Tuon raises him to the High [[Blood]], promising him absolute rule over Altara and unhindered access to all Seanchan activity within his borders.
+
+Beslan is present when [[Melitene]] brings her [[Suffa]], the former [[Amyrlin Seat]] who shows Fortuona and those gathered around her how to [[Traveling|Travel]]. Beslen is forbidden to participate in [[Tarmon Gai'don]] by Fortuona, as he is to stay behind and govern Altara in her absence. He is not happy but accepts her judgement. 
+
+{{DEFAULTSORT:Mitsobar, Beslan}}
+[[Category:Lords]]
+[[Category:The Blood]]
+[[Category:High Seats]]
+[[Category:Royalty]]

@@ -1,0 +1,17 @@
+In an effort to keep the Site Notice from getting too big, this page will list the current discussions that need user input.
+
+==Current Discussions==
+*[[MediaWiki talk:Wiki-navigation]]
+*[[Forum:Wikia's new skin]]: an announcement about the new skin.
+*[[Forum:Achievement Badges]]: a discussion about badge pictures and tracks.
+*[[Wotwiki talk:Image use policy]]: a discussion about a new policy.
+*[[Help talk:Style guide#Galleries|Help talk:Style guide]]: a discussion about image inclusion on pages.
+*[[Forum:Characters from ToM]]: a discussion about new characters from {{tom}}.
+*[[Forum:Character names]]: a discussion about character article names.
+
+==Old Discussions==
+*[[Forum:Achievements]]: a discussion about adding Achievements to the wiki! (Wikia contacted)
+*[[Talk:Towers of Midnight#Article name]]: a discussion about moving the page.
+*[[Category talk:People]]: a discussion about category alphabetization.
+
+[[Category:Administrative|Current Discussions]]

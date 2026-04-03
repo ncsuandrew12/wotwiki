@@ -1,0 +1,253 @@
+The '''''[[Towers of Midnight]]'' glossary''' is at the end of the thirteenth book. It includes descriptions of item and explanations of concepts and of characters from the thirteenth book with the knowledge learned from the text of the book. 
+__NOTOC__
+{{CompactTOC2}}
+
+==A==
+;<cite id="Aelfinn" style="font-style:normal;">[[Aelfinn]]</cite>
+:A race of beings, largely human in appearance but with snakelike characteristics, who will give true answers to three questions. Whatever the question, their answers are always correct, if frequently given in forms that are not clear, but questions concerning the Shadow can be extremely dangerous. Their true location is unknown, but they can be visited by passing through a ''[[ter'angreal]]'', once a possession of [[Mayene]] but in recent years held in the [[Stone of Tear]]. They can also be reached by entering the [[Tower of Ghenjei]]. They speak the [[Old Tongue]], mention treaties and agreements, and ask if those entering carry iron, instruments of music, or devices that can make fire. ''See also'' [[Towers of Midnight/Glossary#Eelfinn|Eelfinn]], [[Towers of Midnight/Glossary#Snakes and Foxes|Snake and Foxes]]
+
+;[[Arad Doman]]
+:A nation on the [[Aryth Ocean]], currently racked by civil war and by wars against those who have declared for the [[Dragon Reborn]]. Its capital is [[Bandar Eban]], where many of its people have come for refuge. Food is scarce. In Arad Doman, those who are descended from the nobility at the time of the founding of the nation, as opposed to those raised later, are known as the bloodborn. The ruler (king or queen) is elected by a council of the heads of merchant guilds (the [[Council of Merchants]]), who are almost always women. He or she must be from the noble class, not the merchant, and is elected for life. Legally the king or queen has absolute authority, except that he or she can be deposed by a three-quarter vote of the Council. The current ruler is King [[Alsalam Saeed Almadar]], Lord of Almadar, High Seat of House Almadar.
+
+;<cite id="area, units of" style="font-style:normal;">[[Measurement#Area|area, units of]]</cite>
+:(1) Land: 1 ribbon = 20 paces X 10 paces (200 square paces); 1 cord = 20 paces X 50 paces (1000 square paces); 1 hide = 100 paces X 100 paces (10,000 square paces); 1 rope =100 paces X 1000 paces (100,000 square paces); 1 march = 1000 paces X 1000 paces (1/4 square mile). (2) Cloth: 1 pace = 1 pace plus 1 hand X 1 pace plus 1 hand.
+
+;[[Asha'man]]
+:(1) In the [[Old Tongue]], "Guardian" or "Guardians," but always a guardian of justice and truth. (2) The name given, both collectively and as a rank, to the men who have come to the [[Black Tower]], near [[Caemlyn]] in [[Andor]], in order to learn to channel. Their training largely concentrates on the ways in which the [[One Power]] can be used as a weapon, and in another departure from the usages of the [[White Tower]], once they learn to seize ''[[saidin]]'', the male half of the Power, they are required to perform all chores and labors with the Power. When newly enrolled, a man is termed a soldier; he wears a plain black coat with a high collar, in the Andoran fashion. Being raised to Dedicated brings the right to wear a silver pin, called the Sword, on the collar of his coat. Promotion to Asha'man brings the right to wear a Dragon pin, in gold and red enamel, on the collar opposite the Sword. Although many women, including wives, flee when they learn that their men actually can channel, a fair number of men at the Black Tower are married, and they use a version of the Warder bond to create a link with their wives. This same bond, altered to compel obedience, has been used to bond captured [[Aes Sedai]] as well. Some Asha'man have been [[Bonding|bonded]] by Aes Sedai, although the traditional Warder bond is used. The Asha'man are led by [[Mazrim Taim]], who has styled himself the M'Hael, Old Tongue for "leader."
+
+;''[[Avendesora]]''
+:In the Old Tongue, "the Tree of Life." It is located in [[Rhuidean]].
+
+==B==
+;<cite id="Balwer, Sebban" style="font-style:normal;">[[Sebban Balwer|Balwer, Sebban]]</cite>
+:Formerly [[Pedron Niall]]'s secretary, in public, and secretly Niall's spymaster. He aided [[Morgase Trakand|Morgase's]] escape from the [[Seanchan]] in [[Amador]] for his own reasons, and now is employed as secretary to [[Perrin Aybara|Perrin t'Bashere Aybara]] and [[Faile Bashere|Faile ni Bashere t'Aybara]]. His duties expanded, however, and he now directs ''[[Cha Faile]]'' in their activities, acting as a spymaster for Perrin, though Perrin doesn't think of him so. ''See also [[Towers of Midnight/Glossary#Cha Faile|Cha Faile]]''
+
+;Band of the Red Hand
+:''See [[Towers of Midnight/Glossary#Shen an Calhar|Shen an Calhar]]''
+
+;[[Bloodknife|Bloodknives]]
+:An elite division of [[Seanchan]] soldiers. Each is equipped with a ''[[ter'angreal]]'' that increases their strength and speeds and shrouds him in darkness. The ''ter'angreal'' is activated by touching a drop of the Bloodknife's blood to the ring, and once activated, it slowly leaches the life from its host. Death occurs within a matter of days.
+
+;[[Brown Ajah Council]]
+:The [[Brown Ajah]] is headed by a council instead of an individual [[Aes Sedai]]. The current head of the council is [[Jesse Bilal]]; the other members are unknown.
+
+==C==
+;[[Captain-General]]
+:(1) The military rank of the leader of the [[Queen's Guard]] of [[Andor]]. This position is currently held by Lady [[Birgitte Silverbow|Birgitte Trahelion]]. (2) The title given to the head of the [[Green Ajah]]. This position is currently held by [[Adelorna Bastine]].
+
+;[[Measurement#Time|calendar]]
+:There are 10 days to the week, 28 days to the month and 13 months to the year. Several feast days are not part of any month; these include [[Sunday]] (the longest day of the year), the [[Feast of Thanksgiving]] (once every four years at the spring equinox) and the [[Feast of All Souls Salvation]], also called All Souls Day (once every ten years at the autumn equinox). While the months have names ([[Taisham]], [[Jumara]], [[Saban]], [[Aine]], [[Adar]], [[Saven]], [[Amadaine]], [[Tammaz]], [[Maigdhal]], [[Choren]], [[Shaldine]], [[Nesan]] and [[Danu]]), these are seldom used except in official documents and by officials. For most people, using the seasons is good enough.
+
+;''[[Callandor]]''
+:The Sword That Is Not a Sword, the Sword That Cannot Be Touched. A crystal sword once held in the [[Stone of Tear]], it is a powerful ''[[sa'angreal]]'' for use by male channelers. It has known flaws: It lacks the buffer that makes ''[[sa'angreal]]'' safe to use, and magnified the [[taint]]. Other flaws are suspected.
+
+;<cite id="Cha Faile" style="font-style:normal;">''[[Cha Faile]]''</cite>
+:(1) In the [[Old Tongue]], "the Falcon's Talon." (2) Name taken by the young [[Cairhienin]] and [[Tairen]]s, attempted followers of ''[[ji'e'toh]]'', who have sworn fealty to [[Faile Bashere|Faile ni Bashere t'Aybara]]. In secret, they act as her personal scouts and spies. During her captivity with the [[Shaido]], they continued their activities under the guidance of [[Sebban Balwer]]. ''See also'' [[Towers of Midnight#Balwer, Sebban|Balwer, Sebban]]
+
+;[[Jain Farstrider|Charin, Jain]]
+:''See'' [[Towers of Midnight#Farstrider, Jain|Farstrider, Jain]]
+
+;[[Children of the Light]]
+:Society of strict ascetic beliefs, owing allegiance to no nation and dedicated to the defeat of the [[Dark One]] and the destruction of all [[Darkfriend]]s. Founded during the [[War of the Hundred Years]] by [[Lothair Mantelar]] to proselytize against an increase in Darkfriends, they evolved during the war into a completely military society. They are extremely rigid in their beliefs, and certain that only they know the truth and the right. They consider [[Aes Sedai]] and any who support them to be Darkfriends. Known disparagingly as Whitecloaks, a name they themselves despise, they were formerly headquartered in [[Amador]], [[Amadicia]], but were forced out when the [[Seanchan]] conquered the city. [[Galad Damodred]] became [[Lord Captain Commander]] after he killed [[Eamon Valda]] in a duel for assaulting his stepmother, [[Morgase Trakand|Morgase]]. Valda's death produced a schism in the organization, with Galad leading one faction, and [[Rhadam Asunawa]], [[High Inquisitor]] of the [[Hand of the Light]], leading the other. Their sign is a golden sunburst on a field of white. ''See also'' [[Towers of Midnight/Glossary#Questioners|Questioners]]
+
+;<cite id="Consolidation" style="font-style:normal;">[[Consolidation|Consolidation, the]]</cite>
+:When the armies sent by [[Artur Hawkwing]] under his son [[Luthair Paendrag Mondwin|Luthair]] landed in Seanchan, they discovered a shifting quilt of nations often at war with one another, where Aes Sedai often reigned. Without any equivalent of the [[White Tower]], Aes Sedai worked for their own individual interest, using the Power. Forming small groups, they schemed against one another constantly. In large part it was this constant scheming for personal advantage and the resulting wars among the myriad nations that allowed the armies from east of the [[Aryth Ocean]] to begin the conquest of an entire continent, and for their descendants to complete it. This conquest, during which the descendants of the original armies became Seanchan as much as they conquered Seanchan, took centuries and is called the Consolidation. ''See also'' [[Towers of Midnight/Glossary#Towers of Midnight|Towers of Midnight]]
+
+;''[[cuendillar]]''
+:A supposedly indestructible substance created during the [[Age of Legends]]. Any known force used in an attempt to break it, including the [[One Power]], is absorbed, making ''cuendillar'' stronger. Although the making of ''cuendillar'' was thought lost forever, new objects made from it have surfaced. It is also known as heartstone.
+
+;[[Measurement#Coinage|currency]]
+:After many centuries of trade, the standard terms for coins are the same in every land: crowns (the largest coin in size), marks and pennies. Crowns and marks can be minted of gold or silver, while pennies can be silver or copper, the last often called simply a copper. In different lands, however, these coins are of different sizes and weights. Even in one nation, coins of different sizes and weights have been minted by different rulers. Because of trade, the coins of many nations can be found almost anywhere, and for that reason, bankers, moneylenders and merchants all use scales to determine the value of any given coin. Even large numbers of coins are weighed.
+
+:The heaviest coins come from [[Andor]] and [[Tar Valon]], and in those two places the relative values are: 10 copper pennies = 1 silver penny; 100 silver pennies = 1 silver mark; 10 silver marks = 1 silver crown; 10 silver crowns = 1 gold mark; 10 gold marks = 1 gold crown. By contrast, in [[Altara]], where the larger coins contain less gold or silver, the relative values are: 10 copper pennies = 1 silver penny; 21 silver pennies = 1 silver mark; 20 silver marks = 1 silver crown; 20 silver crowns = 1 gold mark; 20 gold marks = 1 gold crown.
+
+:The only paper currency is "letters-of-rights," which are issued by bankers, guaranteeing to present a certain amount of gold or silver when the letter-of-rights is presented. Because of the long distances between cities, the length of time needed to travel from one to another, and the difficulties of transactions at long distance, a letter-of-rights may be accepted at full value in a city near to the bank which issued it, but it may only be accepted at a lower value in a city farther away. Generally, someone intending to be traveling for a long time will carry one or more letters-of-rights to exchange for coin when needed. Letters-of-rights are usually accepted only by bankers or merchants, and would never be used in shops.
+
+==D==
+;<cite id="da'covale" style="font-style:normal;">''[[da'covale]]''</cite>
+:(1) In the Old Tongue, "one who is owned," or "person who is property." (2) Among the Seanchan, the term often used, along with "property," for slaves. Slavery has a long and unusual history among the Seanchan, with slaves having the ability to rise to positions of great power and open authority, including authority over those who are free. It is also possible for those in positions of great power to be reduced to ''da'covale''. ''See also [[Towers of Midnight/Glossary#so'jhin|so'jhin]]''
+
+;[[Deathwatch Guard|Deathwatch Guards, the]]
+:The elite military formation of the Seanchan Empire, including both humans and [[Ogier]]. The human members of the Deathwatch Guard are all ''da'covale'', born as property and chosen while young to serve the [[Empress]], whose personal property they are. Fanatically loyal and fiercely proud, they often display the ravens tattooed on their shoulders, the mark of a ''da'covale'' of the Empress. The Ogier members are known as [[Gardener]]s, and they are not ''da'covale''. The Gardeners are as fiercely loyal as the human Deathwatch Guards, though, and are even more feared. Human or Ogier, the Deathwatch Guards not only are ready to die for the Empress and the Imperial family, but believe that their lives are the property of the Empress, to be disposed of as she wishes. Their helmets and armor are lacquered in dark green (so dark that it is often mistakenly called black) and blood red, their shields are lacquered black, and their swords, spears, axes and halberds carry black tassels. ''See also [[Towers of Midnight/Glossary#da'covale|da'covale]]
+
+;[[Delving]]
+:(1) Using the [[One Power]] to diagnose physical condition and illness. (2) Finding deposits of metal ores with the One Power. That this has long been a lost ability among [[Aes Sedai]] may account for the name becoming attached to another ability.
+
+;<cite id="der'morat" style="font-style:normal;">''[[morat#Der'morat'-|der'morat-]]''</cite>
+:(1) In the Old Tongue, "master handler." (2) Among the Seanchan, the prefix applied to indicate a senior and highly skilled handler of one of the exotics, one who trains others, as in ''der'morat'raken''. ''Der'morat'' can have a fairly high social status, the highest of all held by ''der'sul'dam'', the trainers of ''[[sul'dam]]'', who rank with fairly high military officers. ''See also [[Towers of Midnight/Glossary#morat-|morat-]]''
+
+;[[Dragons|dragon]]
+:A powerful new weapon capable of firing explosive charges over large distances, causing extensive damage to the enemy.
+
+;dragons' eggs
+:The name given to the explosive charges fired by dragons.
+
+==E==
+;<cite id="Eelfinn" style="font-style:normal;">[[Eelfinn]]</cite>
+:A race of beings, largely human in appearance but with fox-like characteristics, who will grant three wishes, although they ask for a price in return. If the person asking does not negotiate a price, the Eelfinn choose it. The most common price in such circumstances is death, but they still fulfill their part of the bargain, although the manner in which they fulfill it is seldom the manner the one asking expects. Their true location is unknown, but it was possible to visit them by means of a ''[[ter'angreal]]'' that was located in [[Rhuidean]]. That ''ter'angreal'' was taken by [[Moiraine Damodred]] to [[Cairhien]], where it was destroyed. They may also be reached by entering the [[Tower of Ghenjei]]. They ask the same questions as the Aelfinn regarding fire, iron, and musical instruments. ''See also'' [[Towers of Midnight/Glossary#Aelfinn|Aelfinn]], [[Towers of Midnight/Glossary#Snakes and Foxes|Snakes and Foxes]]
+
+==F==
+;<cite id="Farstrider, Jain" style="font-style:normal;">[[Jain Farstrider|Farstrider, Jain]]</cite>
+:A hero of the northern lands who journeyed to many lands and had many adventures; he captured [[Cowin Gemallan|Cowin Fairheart]] and brought him to the king's justice. He was the author of several books, as well as the subject of books and stories. He vanished in {{ne|981}}, after returning from a trip into the [[Great Blight]] which some said had taken him all the way to [[Shayol Ghul]].
+
+;[[Herid Fel|Fel, Herid]]
+:The author of [[Reason and Unreason]] and other books. Fel was a student (and teacher) of history and philosophy at the [[School of Cairhien|Academy of Cairhien]]. He was discovered in his study torn limb from limb.
+
+;[[First Reasoner]]
+:The title given to the head of the [[White Ajah]]. This position is currently held by [[Ferane Neheran]].
+
+;[[First Selector]]: The title given to the head of the [[Blue Ajah]]. The First Selector is currently unknown, although it is suspected that [[Lelaine Akashi]] fills this position.
+
+;[[First Weaver]]: The title given to the head of the [[Yellow Ajah]]. This position is currently held by [[Suana Dragand]] in the [[White Tower]].
+
+;[[Forsaken|Forsaken, the]]
+:The name given to thirteen powerful Aes Sedai, men and women both, who went over to the [[Shadow]] during the [[Age of Legends]] and were trapped in the sealing of the [[Bore]] into the [[Dark One]]'s prison. While it has long been believed that they alone abandoned the [[Light]] during the [[War of the Shadow]], in fact others did as well; these thirteen were only the highest-ranking among them. The Forsaken (who call themselves the Chosen) are somewhat reduced in number since their awakening in the present day. Some of those killed were reincarnated in new bodies.
+
+==G==
+;Golden Crane, the
+:The banner of the lost [[Borderlands|Borderland]] nation of [[Malkier]].
+
+;[[Graendal]]
+:One of the Forsaken. Once known as Kamarile Maradim Nindar, a noted ascetic, she was the second of the Forsaken to decide to serve the Dark One. A ruthless killer, she was responsible for the deaths of [[Aran'gar]] and [[Asmodean]] and for the destruction of [[Mesaana]]. Her present circumstances are uncertain.
+
+==H==
+;<cite id="hadori" style="font-style:normal;">''[[hadori]]''</cite>
+:The braided leather cord that a Malkieri man tied around his temples to hold his hair back. Until after Malkier fell to the Blight, every adult Malkieri male wore his hair to the shoulders and tied back with a ''hadori''. Like the presentation of his sword, being allowed to wear the ''hadori'' marked the move from childhood to adulthood for Malkieri males. The ''hadori'' symbolized the duties and obligations that bound him as an adult, and also his connection to Malkier. ''See also'' [[Towers of Midnight/Glossary#ki'sain|ki'sain]]
+
+;<cite id="Hanlon, Daved" style="font-style:normal;">[[Daved Hanlon|Hanlon, Daved]]</cite>
+:A [[Darkfriend]], also known as Doilin Mellar, who was captured with Lady [[Mili Skane|Shiaine]], [[Chesmal Emry]], [[Eldrith Jhondar]], [[Temaile Kinderode]], [[Falion Bhoda]] and [[Marillin Gemalphin]].
+
+;[[Head Clerk]]
+:The title given to the head of the [[Gray Ajah]]. This position is currently held by [[Serancha Colvine]].
+
+;[[Supreme Council|Head of the Great Council of Thirteen]]
+:The title given to the head of the [[Black Ajah]]. This position is currently held by [[Alviarin Freidhen]].
+
+;[[heart]]
+:The basic unit of organization in the Black Ajah. In effect, a cell. A heart consists of three sisters who know each other, with each member of the heart knowing one additional sister of the Black who is unknown to the other two of her heart.
+
+;[[Highest]]
+:The title given to the head of the [[Red Ajah]]. This position is currently held by [[Tsutama Rath]].
+
+==I==
+;[[Guild of Illuminators|Illuminators, Guild of]]
+:A society that held the secret of making fireworks. It guarded this secret very closely, even to the extent of doing murder to protect it. The Guild gained its name from the grand displays, called Illuminations, that it provided for rulers and sometimes for greater lords. Lesser fireworks were sold for use by others, but with dire warnings of the disaster that could result from attempting to learn what was inside them. The Guild once had chapter houses in [[Cairhien]] and [[Tanchico]], but both are now destroyed. In addition, the members of the Guild in Tanchico resisted the invasion by the [[Seanchan]] and were made ''[[da'covale]]'', and the Guild as such no longer exists. However, individual [[Illuminator]]s still exist outside of Seanchan rule and work to make sure that the Guild will be remembered. ''See also [[Towers of Midnight/Glossary#da'covale|da'covale]]''
+
+;[[Imfaral]]
+:The sixth-largest city of Seanchan. It is located northwest of [[Seandar]], and is home to [[the Towers of Midnight]]. ''See also'' [[Towers of Midnight/Glossary#Towers of Midnight|Towers of Midnight]]
+
+==K==
+;<cite id="ki'sain" style="font-style:normal;">''[[ki'sain]]''</cite>
+:A small mark, a dot, which an adult [[Malkieri]] woman painted on her forehead each morning in pledge that she would swear (or had sworn) her sons to fight the [[Shadow]]. This pledge was not necessarily that they would be warriors, but that they would oppose the Shadow every day in every way that they could. Like the ''[[hadori]]'', the ''ki'sain'' was also considered a symbol of connection to Malkier, and of the bonds that united her with other Malkieri. Also like the ''hadori'', the ''ki'sain'' was a sign of adulthood. The ''ki'sain'' also gave information about the woman who wore it. A blue mark was worn by a woman who had not married, a red mark by a married woman and a white mark by a widow. In death, she would be marked with all three, one of each color, whether she had ever married or not. ''See also [[Towers of Midnight/Glossary#hadori|hadori]]''
+
+==L==
+;[[Legion of the Dragon|Legion of the Dragon, the]]
+:A large military formation, all infantry, giving allegiance to the [[Dragon Reborn]], trained by [[Davram Bashere]] along lines worked out by himself and [[Mat Cauthon]], lines which depart sharply from the usual employment of foot. While many men simply walk in to volunteer, large numbers of the Legion are scooped up by recruiting parties from the [[Black Tower]], who first gather all of the men in an area who were willing to follow the Dragon Reborn, and only after taking them through [[Traveling#Gateways|gateways]] near [[Caemlyn]] winnow out those who can be taught to channel. The remainder, by far the greater number, are sent to Bashere's training camps. The Legion of the Dragon is at present training for the [[Tarmon Gai'don|Last Battle]].
+
+;[[Measurement#Length|length, units of]]
+:10 inches = 1 foot; 3 feet = 1 pace; 2 paces = 1 span; 1000 spans = 1 mile; 4 miles = 1 league.
+
+;<cite id="Listeners" style="font-style:normal;">[[Listeners]]</cite>
+:A [[Seanchan]] spy organization. Almost anyone in the household of a Seanchan noble, merchant or banker may be a Listener, including ''[[da'covale]]'' occasionally, though seldom ''[[so'jhin]]''. They take no active role, merely watching, listening and reporting. Their reports are sent to [[Hand|Lesser Hands]] who control both them and the [[Seekers]] and decide what should be passed on to the Seekers for further action. ''See also'' [[Towers of Midnight/Glossary#Seekers|Seekers]]
+
+==M==
+;''[[marath'damane]]'': In the [[Old Tongue]], "those who must be leashed," and also "one who must be leashed." The term applied by the Seanchan to any woman capable of channeling who has not been collared as a '[[damane]]''.
+
+;march
+:''See'' [[Towers of Midnight/Glossary#area, units of|area, units of]]
+
+;Mellar, Doilin
+:''See'' [[Towers of Midnight/Glossary#Hanlon, Daved|Hanlon, Daved]]
+
+;''[[Mera'din]]''
+:In the Old Tongue, "the Brotherless." The name adopted, as a society, by those [[Aiel]] who abandoned clan and sept and went to the [[Shaido]] because they could not accept [[Rand al'Thor]], a wetlander, as the ''[[Car'a'carn]]'', or because they refused to accept his revelations concerning the history and origins of the Aiel. Deserting clan and sept for any reason is anathema among the Aiel, therefore their own warrior societies among the Shaido were unwilling to take them in, and they formed this society, the Brotherless.
+
+;[[Moiraine Damodred]]
+:A [[Cairhienin]] [[Aes Sedai]] of the [[Blue Ajah]]. Long presumed dead. [[Thomdril Merrilin|Thom Merrilin]] has, however, revealed the receipt of a letter purporting to be from her. It is reproduced here:
+
+:<blockquote>My dearest Thom, </blockquote>
+
+: <blockquote>There are many words I would like to write to you, words from my heart, but I have put this off because I knew that I must, and now there is little time. There are many things I cannot tell you lest I bring disaster, but what I can, I will. Heed carefully what I say. In a short while I will go down to the docks, and there I will confront [[Lanfear]]. How can I know that? That secret belongs to others. Suffice it that I know, and let that foreknowledge stand as proof for the rest of what I say. </blockquote>
+
+: <blockquote>When you receive this, you will be told that I am dead. All will believe that. I am not dead, and it may be that I shall live to my appointed years. It also may be that you and [[Matrim Cauthon|Mat Cauthon]] and [[Jain Farstrider|another]], a man I do not know, will try to rescue me. May, I say because it may be that you will not or cannot, or because Mat may refuse. He does not hold me in the affection you seem to, and he has his reasons which he no doubt thinks are good. If you try, it must be only you and Mat and one other. More will mean death for all. Fewer will mean death for all. </blockquote>
+
+: <blockquote>Even if you come only with Mat and one other, death also may come. I have seen you try and die, one or two or all three. I have seen myself die in the attempt. I have seen all of us live and die as captives. Should you decide to make the attempt anyway, young Mat knows the way to find me, yet you must not show him this letter until he asks about it. That is of the utmost importance. He must know nothing that is in this letter until he asks. Events must play out in certain ways, whatever the costs. </blockquote>
+
+: <blockquote>If you see [[Lan Mandragoran|Lan]] again, tell him that all of this is for the best. His destiny follows a different path from mine. I wish him all happiness with [[Nynaeve al'Meara|Nynaeve]]. </blockquote>
+
+: <blockquote>A final point. Remember what you know about the game of [[Snakes and Foxes]]. Remember, and heed. </blockquote>
+
+: <blockquote>It is time, and I must do what must be done. </blockquote>
+
+: <blockquote>May the [[Light]] illumine you and give you joy, my dearest Thom, whether or not we ever see one another again. </blockquote>
+
+: <blockquote> <div style="text-align:right;">Moiraine</div></blockquote>
+
+;<cite id="morat-" style="font-style:normal;">''[[morat]]-''</cite>
+:In the Old Tongue, "handler." Among the Seanchan, it is used for those who handle exotics, such as ''morat'raken'', a ''[[raken]]'' handler or rider, also informally called a flier. ''See also [[Towers of Midnight/Glossary#der'morat-|der'morat-]]''
+
+==P==
+;Prophet, the
+:More formally, the Prophet of the Lord Dragon. Once known as [[Masema Dagar]], a [[Shienaran]] soldier, he underwent a revelation and decided that he had been called to spread the word of the Dragon's Rebirth. He believed that nothing—nothing!—was more important than acknowledging the Dragon Reborn as the Light made flesh and being ready when the Dragon Reborn called, and he and his followers would use any means to force others to sing the glories of the Dragon Reborn. Those who refused were marked for death, and those who were slow might find their homes and shops burned and themselves flogged. Forsaking any name but "the Prophet," he brought chaos to much of [[Ghealdan]] and [[Amadicia]], large parts of which he controlled, although with him gone, the Seanchan are reestablishing order in Amadicia and the Crown High Council in Ghealdan. He joined with [[Perrin Aybara]], who was sent to bring him to [[Rand al'Thor|Rand]], and, for reasons unknown, stayed with him even though this delayed his going to the Dragon Reborn. He was followed by men and women of the lowest sort; if they were not so when they were pulled in by his charisma, they became so under his influence. He died under mysterious circumstances.
+
+==Q==
+;[[Queen's Guards|Queen's Guards, the]]
+:The elite military formation in [[Andor]]. In peacetime the Guard is responsible for upholding the Queen's law and keeping the peace across Andor. The uniform of the Queen's Guard include a red undercoat, gleaming mail and plate armor, a brilliant red cloak, and a conical helmet with a barred visor. High-ranking officers wear knots of rank on their shoulder and golden lion-head spurs. A recent addition to the Queen's Guards is the Queen's personal bodyguard, which is composed entirely of women since the arrest of its former captain, Doilin Mellar. These Guardswomen wear much more elaborate uniforms than their male counterparts, including broad-brimmed hats with white plumes, red-lacquered breastplates and helmets trimmed in white, and lace-edged sashes bearing the White Lion of Andor.
+
+;<cite id="Questioners" style="font-style:normal;">[[Hand of the Light|Questioners, the]]</cite>
+:An order within the [[Children of the Light]]. They refer to themselves as the Hand of the Light—they intensely dislike being called Questioners—and their avowed purposes are to discover the truth in disputations and uncover [[Darkfriend]]s. In the search for truth and the Light, their normal method of inquiry is torture; their normal manner is that they know the truth already and must only make their victim confess to it. At times they act as if they are entirely separate from the Children and the [[Council of the Anointed]], which commands the Children. Their sign is a blood-red shepherd's crook.
+
+==R==
+;[[Redarms]]
+:Soldiers of the [[Band of the Red Hand]], who have been chosen out for temporary police duty to make sure that other soldiers of the Band cause no trouble or damage in a town or village where the Band has stopped. So named because, while on duty, they wear very broad red armbands that reach from cuff to elbow. Usually chosen from among the most experienced and reliable men. Since any damages must be paid for by the men serving as Redarms, they work hard to make sure all is quiet and peaceful. ''See also [[Towers of Midnight/Glossary#Shen an Calhar|Shen an Calhar]]''
+
+==S==
+;[[Saldaea]]
+:A nation in the [[Borderlands]]. Its capital is [[Maradon]], and its royal palace is known as the [[Cordamora]] (from the [[Old Tongue]] for "Heart of the People"). It is ruled by a king or queen, and is a hereditary monarchy. The [[Crown High Council]], also known as the Council of Lords, advises and assists the monarch in administering the nation. The husband or wife of a Saldaean ruler is not simply a consort, but an almost co-equal ruler. Saldaea is currently ruled by Her Most Illumined Majesty, [[Tenobia si Bashere Kazadi]], Queen of Saldaea, Defender of the Light, Sword of the Blightborder, High Seat of House Kazadi and Lady of [[Shahanyi]], [[Asnelle]], [[Kunwar]] and [[Ganai]]; her [[Marshal-General]] and the leader of her army is her uncle and heir, [[Davram Bashere]], although he has been missing from his post for some time.
+
+;[[Seandar]]
+:The Imperial capital of [[Seanchan]], located in the northeast of the [[Seanchan (continent)|Seanchan continent]]. It is also the largest city in the Empire. After the death of [[Empress]] [[Radhanan]], it descended into chaos.
+
+;<cite id="Seekers" style="font-style:normal;">[[Seekers for Truth|Seekers]]</cite>
+:More formally, Seekers for Truth, they are a police/spy organization of the [[Seanchan]] Imperial Throne. Although most Seekers are ''[[da'covale]]'' and the property of the Imperial family, they have wide-ranging powers. Even one of [[the Blood]] can be arrested for failure to answer any question put by a Seeker, or for failure to cooperate fully with a Seeker, this last defined by the Seekers themselves, subject only to review by the Empress. Their reports are sent to [[Hand|Lesser Hands]], who control both them and the [[Listeners]]. Most Seekers feel that the Hands do not pass on as much information as they should. Unlike the Listeners', the Seekers' role is active. Those Seekers who are ''da'covale'' are marked on either shoulder with a raven and a tower. Unlike the [[Deathwatch Guard]]s, Seekers are seldom eager to show their ravens, in part because it necessitates revealing who and what they are. ''See also'' [[Towers of Midnight/Glossary#Listeners|Listeners]]
+
+;[[Shara]]
+:A mysterious land to the east of the [[Aiel Waste]] which is the source of silk and ivory, among other trade goods. The land is protected both by inhospitable natural features and by man-made walls. Little is known about Shara, as the people of that land work to keep their culture secret. The Sharans deny that the [[Trolloc Wars]] touched them, despite [[Aiel]] statements to the contrary. They deny knowledge of [[Artur Hawkwing]]'s attempted invasion, despite the accounts of eyewitnesses from the [[Sea Folk]]. The little information that has leaked out reveals that the Sharans are ruled by a single absolute monarch, a [[Sh'boan]] if a woman and a [[Sh'botay]] if a man. That monarch rules for exactly seven years, then dies. The rule then passes to the mate of that ruler, who rules for seven years and then dies. This pattern has repeated itself since the time of the Breaking of the World. The Sharans believe that the deaths are the "Will of the Pattern."
+
+:There are channelers in Shara, known as the [[Ayyad]], who are tattooed on their faces at birth. The women of the Ayyad enforce the Ayyad laws stringently. A sexual relationship between Ayyad and non-Ayyad is punishable by death for the non-Ayyad, and the Ayyad is also executed if force on his or her part can be proven. If a child is born of the union, it is left exposed to the elements, and dies. Male Ayyad are used as breeding stock only. They are not educated in any fashion, not even how to read or write, and when they reach their twenty-first year or begin to channel, whichever comes first, they are killed and the body cremated. Supposedly, the Ayyad channel the [[One Power]] only at the command of the Sh'boan or Sh'botay, who is always surrounded by Ayyad women.
+
+:Even the name of the land is in doubt. The natives have been known to call it many different names, including Shamara, Co'dansin, Tomaka, Kigali and Shibouya.
+
+;<cite id="Shen an Calhar" style="font-style:normal;">''[[Shen an Calhar]]''</cite>
+:In the [[Old Tongue]], "the Band of the Red Hand." (1) A legendary group of heroes who had many exploits, finally dying in the defense of [[Manetheren]] when that land was destroyed during the [[Trolloc Wars]]. (2) A military formation put together almost by accident by [[Mat Cauthon]] and organized along the lines of military forces during what is considered the height of the military arts, the days of [[Artur Hawkwing]] and the centuries immediately preceding.
+
+;[[Darlin Sisnera|Sisnera, Darlin]]
+: A [[High Nobility of Tear|High Lord]] in [[Tear]], he was formerly in rebellion against the [[Dragon Reborn]]. After serving for a short period as [[Steward of the Dragon]] Reborn in Tear, he was chosen to be the first king of Tear.
+
+;<cite id="Snakes and Foxes" style="font-style:normal;">[[Snakes and Foxes]]</cite>
+:A game that is much loved by children until they mature enough to realize that it can never be won without breaking the rules. It is played with a board that has a web of lines with arrows indicating direction. There are ten discs inked with triangles to represent the foxes, and ten discs inked with wavy lines to represent the snakes. The game is begun by saying "Courage to strengthen, fire to blind, music to dazzle, iron to bind," while describing a triangle with a wavy line through it with one's hand. Dice are rolled to determine moves for the players and the snakes and foxes. If a snake or fox lands on a player's piece, he is out of the game, and as long as the rules are followed, this always happens. ''See also'' [[Towers of Midnight/Glossary#Aelfinn|Aelfinn]], [[Towers of Midnight/Glossary#Eelfinn|Eelfinn]]
+
+;<cite id="so'jhin" style="font-style:normal;">''[[so'jhin]]''</cite>
+:The closest translation from the Old Tongue would be "a height among lowness," though some translate it as meaning "both sky and valley" among several other possibilities. ''So'jhin'' is the term applied by the [[Seanchan]] to hereditary upper servants. They are ''[[da'covale]]'', property, yet occupy positions of considerable authority and often power. Even [[the Blood]] step carefully around ''so'jhin'' of the Imperial family, and speak to ''so'jhin'' of the Empress herself as to equals. ''See also [[Towers of Midnight/Glossary#da'covale|da'covale]]''
+
+;Stump
+:A public meeting among the [[Ogier]]. It is presided over by the [[Council of Elders]] of a ''[[stedding]]'', but any adult Ogier may speak, or may choose an advocate to speak for him. A Stump is often held at the largest tree stump in a ''stedding'', and may last for several years. When a question arises that affects all Ogier, a [[Great Stump]] is held, and Ogier from all ''stedding'' meet to address the question. The various ''stedding'' take turns hosting the Great Stump.
+
+;[[Succession Wars|Succession]]
+:In general, when one House succeeds another on the throne. In [[Andor]], the term is widely used for the struggle for the throne that arose upon [[Mordrellen Mantear|Mordrellen's]] death. [[Tigraine Mantear|Tigraine's]] disappearance had left Mantear without a [[Daughter-Heir]], and two years passed before [[Morgase Trakand|Morgase]], of [[House Trakand]], took the throne. Outside of Andor, this conflict was known as the Third War of Andoran Succession.
+
+==T==
+;[[Tarabon]]: A nation on the [[Aryth Ocean]]. Once a great trading nation, a source of rugs, dyes and the [[Guild of Illuminators]]' fireworks among other things, Tarabon has fallen on hard times. Racked by anarchy and civil war compounded by simultaneous wars against [[Arad Doman]] and the [[Dragonsworn]], it was ripe for the picking when the [[Seanchan]] arrived. It is now firmly under Seanchan control, the chapter house of the Guild of Illuminators has been destroyed and the Illuminators themselves have been made ''[[da'covale]]''. Most Taraboners appear grateful that the Seanchan have restored order, and since the Seanchan allow them to continue living their lives with minimal interference, they have no desire to bring on more warfare by trying to chase the Seanchan out. There are, however, some lords and soldiers who remain outside the Seanchan sphere of influence and are fighting to reclaim their land.
+
+;[[Tower of Ravens|Tower of Ravens, the]]: The central Imperial prison of Seanchan. It is located in the capital of [[Seandar]] and serves as the headquarters for the [[Seekers for Truth]]. Members of [[the Blood]] are imprisoned, questioned and executed within it. The questioning and execution must be accomplished without spilling a drop of blood. ''See also'' [[Towers of Midnight/Glossary#Seekers|Seekers]]
+
+;<cite id="Towers of Midnight" style="fort-style:normal;">[[The Towers of Midnight|Towers of Midnight, the]]</cite>
+:Thirteen fortresses of unpolished black marble located in [[Imfaral]], Seanchan. At the time of the [[Consolidation]] of Seanchan, it was the center of military might. The final battle of the Consolidation took place there, leaving [[Artur Hawkwing|Hawkwing's]] descendants in power. Since that time, it has been unoccupied. Legend has it that in time of dire need, the Imperial family will return to the Towers of Midnight and "right that which is wrong." ''See also'' [[Towers of Midnight/Glossary#Consolidation|Consolidation]]
+
+==W==
+;[[Measurement#Weight|weight, units of]]
+:10 ounces = 1 pound; 10 pounds = 1 stone; 10 stone = 1 hundredweight; 10 hundredweight = 1 ton.
+
+;[[Winged Guards|Winged Guards, the]]
+:The personal bodyguards of the [[First of Mayene]], and the elite military formation of [[Mayene]]. Members of the Winged Guards wear red-painted breastplates and helmets shaped like rimmed pots that come down to the nape of the necks in the back, and carry red-streamered lances. Officers have wings worked on the sides of their helmets, and rank is denoted by slender plumes.
+[[Category:Book glossaries]]

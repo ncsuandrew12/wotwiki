@@ -1,0 +1,58 @@
+==Old discussion==
+===Logo===
+*Irregardless of stylesheet, find a transparent logo --[[User:Gherald|Gherald]]
+** Yeah, good call. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 01:32, 27 Oct 2005 (UTC)
+** *YAWN* Got one! See what you think (may have to force your cache to reload. See what you think; I'm going to bed. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 07:59, 27 Oct 2005 (UTC)
+*** Looks a little blocky (both text ''and'' background), but otherwise it is kind of nice.  Perhaps too bright for easy legibility (30 to 40 percent?) too bright (that is, unless we default to a dark skin like Memory Alpha, not that I'm advocating any particular change, I sort of like monobook's plainess for the moment) --[[User:Gherald|Gherald]] 08:07, 27 Oct 2005 (UTC)
+**** Well, we're constrained somewhat by the [http://koivi.com/ie-png-transparency/ PNG bug in Internet Explorer]; full alpha transparency, which would allow the soft edges you're talking about, renders for $#!+ in Internet Explorer for Windows (apparently IE7 will fix this). The cleanest workaround, which is what I did, is to save it as an 8-bit PNG instead of 24-bit... which gives it the harder edges. I did apply some fuzzing filters and darken the gold just a bit, but I haven't uploaded that copy yet. Other than that, all I was able to do was clean up a few stray pixels on the edges of the snake, and make the center of the wheel more regular. Any other suggestions? (By the way, under daylight or night conditions, I can see read it just fine for brightness). [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 14:22, 27 Oct 2005 (UTC)
+***** Correct me if I'm wrong, but isn't using GIF a bit cleaner than resorting to 8 bit? --[[User:Gherald|Gherald]] 16:30, 27 Oct 2005 (UTC)
+****** I'll check when I get home, but I'm pretty sure GIFs are indexed too, *and* not even sure if "Wiki.png" can be "Wiki.gif" or not... P.S. Any thoughts on the colors below? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 19:54, 27 Oct 2005 (UTC)
+******* Go ahead and implement them.  They can be easily adjusted later, right? --[[User:Gherald|Gherald]] 19:59, 27 Oct 2005 (UTC)
+********  Well, I abandoned the transparent background, since monobook.css (and any other stylesheet we choose to make) has a white background too. It made the edges much less jaggy, because now I can use a full 24-bit PNG. Quite a bit more orange than it used to be, but I think it's better (and I think the colored eye is a nice touch). Anybody else? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 06:31, 24 September 2006 (UTC)
+********* Wow, this does look much better than any of the previous images (including the 24-bit one that's only broken in IE).  But it is kind of too orange as you say.  And it it looks somewhat blurry now, of all things, quite different from the previous graniness.  If it could be made to look sharper that'd be cool, but this is certainly better than grainy. --[[User:Gherald|Gherald]] 10:06, 24 September 2006 (UTC)
+* (de-indent) Yeah, I can make it less orange. Do you really think this is too blurry? I mean, I have to wonder if it's just too different from the previous jaggy one for us for right now, but I'll see what I can do. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:08, 24 September 2006 (UTC)
+**Argh. Now '''I''' think it looks blurry. It's like being stuck between [[wikipedia:Scylla|Scylla]] and [[wikipedia:Charybdis|Charybdis]]! -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:23, 3 October 2006 (UTC)
+
+====test images====
+(''test images removed from original example -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:08, 24 September 2006 (UTC)'')
+I think the middle one looks fine, although the improved colors did a lot for that. What do you all think? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 04:15, 28 Oct 2005 (UTC)
+
+:I go for the first: the gif isn't nastily grainy, but it is a gif, and the 24-bit png at least does not have hideous jaggies. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 01:19, 6 Nov 2005 (UTC)
+
+:: I'm pretty sure the gif is a dead duck anyway, since the file has to be called "wiki.png". But the first one has transparency problems in IE that I can't ignore... anyone with better graphics skill than I is welcome to take a stab at it. I have the original XCF file, and can convert it to Photoshop (or whatever). [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 04:23, 7 Nov 2005 (UTC)
+
+==New discussion==
+So how do we make a new logo because I want to make a new one with this wot logo http://shameber.files.wordpress.com/2009/06/wot.jpg [[User:Optimous]] <i><sub>[[User_talk:Optimous|(talk)]]</sub></i> 17:46, 30 July 2009 (UTC)
+
+== So I made new logos ==
+
+So I made 2 different versions with better text and maybe a new nickname for thie wiki. Here they are: 
+
+
+So what do you think?--[[User:Optimous|Optimous]] 22:57, 23 August 2009 (UTC)
+
+:Hmm, these look kind of nice.  Curious why the swords are light blue?  The font's a little hard to read, and I'm not sure about the name "wheelofpedia" : o --[[User:Gherald|Gherald]] 21:15, 27 August 2009 (UTC)
+::Haha yeah wheelofperdia kinda just pulled it out since wotpedia is taken. The swords are part of the logo from the new EOTW comics. You can look at it here: [http://www.dragonmount.com/News/wp-content/uploads/2008/07/wot-logo.jpg]. Yeah I need to do some more work on the text. I can't get something that is just write. I will update them later today with a few more versions of text.--[[User:Optimous|Optimous]] 21:43, 27 August 2009 (UTC)
+::: Could you make the swords a darker blue or maybe the more usual gray, since we have such a bright white background? --[[User:Gherald|Gherald]] 21:43, 28 August 2009 (UTC)
+:::: Tell me what you think of the new one. It's the right one of the 2.--[[User:Optimous|Optimous]] 04:30, 1 September 2009 (UTC)
+::::: Nice, I like this text better. But my concern is still that the swords and (now the new, similar)text are too bleached for our white background (the EWOT comic as a pitch black background).  I'd try filling the swords and text with blue or grey. --[[User:Gherald|Gherald]] 07:39, September 2, 2009 (UTC)
+:::::: Alright there is the new guy(on the left) what do you think?--[[User:Optimous|Optimous]] 23:53, September 2, 2009 (UTC)
+::::::: Well, that's probably too dark. I was hoping for a lighter blue or gray. Given the choice between these, I'd prefer the one on the right.  Maybe it's good enough... --[[User:Gherald|Gherald]]
+:::::::: No worries man there is no rush on the logo. I want it just right ;). I will change them up some more.--[[User:Optimous|Optimous]] 06:48, September 7, 2009 (UTC)
+::::::::: Ok updated with a light blue. They gray doesn't turn out well it is nearly impossible to read.--[[User:Optimous|Optimous]] 01:25, September 8, 2009 (UTC)
+:::::::::: Hm. Looks oddly green. I'm still favoring your original white --[[User:Gherald|Gherald]] 17:07, September 8, 2009 (UTC)
+::::::::::: I know. I have no idea why its oddly green. I definitely used a blue color but it has an outlook of green. Let me try a few other colors and see what I can come up with.--[[User:Optimous|Optimous]] 18:51, September 8, 2009 (UTC)
+:::::::::::: Updated both one with gray(looks pretty bad) darkened the blue and black on the one on the right. Still messing with it.--[[User:Optimous|Optimous]] 01:02, September 9, 2009 (UTC)
+Added a 3rd one.--[[User:Optimous|Optimous]] 02:33, September 9, 2009 (UTC)
+:[http://help.wikia.com/wiki/Help:Logo http://help.wikia.com/wiki/Help:Logo] explains why wide logos can be problematic, otherwise I think it looks great! We can certainly incorporate elements of it into a less-fuzzy logo to replace what I've got up right now. You want to work on a 155x155px version? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 01:19, September 23, 2009 (UTC)
+::Ah. Makes sense. Yeah I will. Which versions where you thinking I should do that with?--[[User:Optimous|Optimous]] 01:28, September 23, 2009 (UTC)
+:::I like image:Wotlogo3.png best for coloration. Maybe just removing the swords (or tilting them steeper) would accomplish the size change? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 01:41, September 23, 2009 (UTC)
+::::Good idea. Let me mess with them and I will upload them.--[[User:Optimous|Optimous]] 01:51, September 23, 2009 (UTC)
+:::::Alright I updated 2 of the 3 logos tell me what you think.--[[User:Optimous|Optimous]] 06:44, September 23, 2009 (UTC)
+::::::I really like the look of Wotlogo3 overall, but I'd like to see some more people comment on it. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:48, September 28, 2009 (UTC)
+:::::::Do you want me to put a link on the main page for people to vote yay or nay?--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:54, September 28, 2009 (UTC)
+::::::::Not a vote necessarily, but maybe comments. The only odd thing about it is the snake looks...squished, somehow? Like he's almost pixelated by being narrowed or something. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 05:09, September 29, 2009 (UTC)
+Yeah I saw what you meant. In the top right corner and left mid area right? I just updated it hopefully fixing those things--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 05:44, September 29, 2009 (UTC)
+:I <s>vote</s> comment on the third one. The first one just looks a little too blurred for my tastes and the only reason I like the third over the second is the coloring. For some reason, the blue just looks a little out-of-place. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 22:58, September 30, 2009 (UTC)
+::Yeah thats what I thought. If we do change to the 3rd logo do you think we should change the colors of the wiki to better match it?--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 23:19, September 30, 2009 (UTC)
+:::As to that, I'm not sure. The blue-on-white for the wiki seems okay. I did a screen shot and put the new logo up where it will go and it looked fine. I think, though, that the discussion for changing the wiki colors would have to be a seperate thing. Maybe? I don't know. What colors did you have in mind? ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 12:41, October 1, 2009 (UTC)

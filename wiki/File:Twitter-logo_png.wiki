@@ -1,0 +1,9 @@
+{{delete|Unused}}
+== Summary ==
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Logo
+| Description             = X (Twitter) Logo
+| Source                  = https://commons.wikimedia.org/wiki/File:Logo_of_Twitter.svg
+| Artist                  = 
+}}

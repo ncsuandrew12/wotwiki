@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Fan Art
+|License     = GFDL
+| ImageType2 = Character
+|Source      = https://www.deviantart.com/westling/art/Moiraine-Returns-780000277
+|Description = [[Moiraine Damodred]] fan art.
+|Artist      = Isabel Westling
+}}

@@ -1,0 +1,23 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| status=Alive
+| mentioned={{tom|20}}
+| lastmentioned={{tom|20}}
+| living=tom
+}}
+'''Niere''' is an [[Aes Sedai]] of the [[Yellow Ajah]].
+
+==Activities==
+Niere is one of only three Yellow sisters who accepts [[Nynaeve al'Meara]] as a full sister before she is actually raised.
+
+== Trivia ==
+* Niere is named for a fan of ''The Wheel of Time'' named Deborah, whose username was Niere al'Aman.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

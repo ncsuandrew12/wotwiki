@@ -1,0 +1,31 @@
+{{ character 
+| image= BlueAjah.png
+| imagesize=250px
+| ajah=Blue
+| nationality=Saldaean
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| eyes=Dark, Tilted
+| status=Alive
+| appeared={{ns|12}}
+| lastappeared={{ns|14}}
+| living=ns
+}}
+'''Natasia''' is an [[Aes Sedai]] of the [[Blue Ajah]].
+
+==Appearance==
+She is [[Saldaean]], with dark tilted eyes, high cheekbones and full lips.
+
+Nearly every flat surface in her room is filled with figurines, small carvings and painted miniatures.
+
+== Activities ==
+She was known as a lenient teacher, and lectured pedantically.
+
+She directs [[Moiraine Damodred]] and [[Siuan Sanche]] to [[Eadyth]]'s quarters shortly after their raising to Aes Sedai.
+
+She later teaches them the method of ignoring heat and cold, which involves breathing in order to keep the mind detached from the outside world. She laughs while explaining that the trick allows the mind to ignore the heat and cold, meaning one could walk through a blizzard without shivering or a desert without sweating. However, after a time, one could get frostbite or sunburn. The trick truly distances the mind, but the body less so.  
+
+{{Short}}
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

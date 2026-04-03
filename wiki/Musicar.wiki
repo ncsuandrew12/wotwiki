@@ -1,0 +1,19 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| build=
+| rank=
+| occupation=Deathwatch Guard
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{amol|17}}
+| lastappeared={{amol|17}}
+| living=amol
+}}
+'''Musicar''' is from [[Seanchan]] and serves in the [[Deathwatch Guard]].
+
+== Activities ==
+[[Fortuona Athaem Devi Paendrag]] sends him to gather her ''[[Damane]]'' when [[Rand]] appears in the [[Tarasin Palace]].
+
+{{Short}}

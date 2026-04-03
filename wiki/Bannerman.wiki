@@ -1,0 +1,15 @@
+'''Bannerman''' is a non-commissioned officer rank in the armies of the Westlands. It has been in use since the time of the [[War of Power]] in conflicts such as the [[Trolloc Wars]] and the [[War of the Hundred Years]]. The use of it declined following the War of the Hundred Years. Nations on the main continent no longer fielded the large armies which required the position. The use of it has resurfaced recently and can be found in the following armies: the [[Band of the Red Hand]] and the [[Queen's Guards]] of [[Andor]]. It was brought back into usage by Matrim Cauthon and Birgitte Silverbow respectively.
+
+
+==Rating==
+===Westlands===
+The rank does not appear to be that of a ranked officer and no unique insignia of rank have been attributed the position.
+
+===Seanchan===
+A rank of Standard Bearer has been shown in the [[Ever Victorious Army]] of the [[Seanchan]] Empire. This rank had an insignia on the helm of the Standard Bearer in the shape of a "small crest like a bronze arrow head on the front."{{ref/book|11|7}}
+
+==Parallels==
+In mainland armies the rank is most likely equivalent to that of a senior NCO (Non Commissioned Officer) such as a Master Sergeant or Sergeant Major. For the Seanchan Standard Bearer, it is not sure if this is a senior NCO rank similar to Bannerman or that of a junior NCO rank similar to file leaders.
+
+{{notes}}
+[[Category:Titles]]

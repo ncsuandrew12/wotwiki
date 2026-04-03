@@ -1,0 +1,15 @@
+{{swordform
+| mentioned={{3|36}}
+| used=[[Rand al'Thor]]
+}}
+{{dablink|For other uses of the word "wind," see [[Wind]].}}
+'''Thistledown Floats on the Whirlwind''' is a [[sword form]].
+
+==Description==
+This form involves leaping and spinning, such that the blade cuts horizontally.
+
+==In practice==
+[[Rand al'Thor]] used this form to decapitate an unnamed, unarmed female [[Darkfriend]] in the [[Murandy|Murandian]] hills while on his way to [[Tear]]. She was still mounted on her horse, so Rand would have had to leap fairly high to cut her neck.{{ref/book|3|36}}
+
+{{notes}}
+{{short}}

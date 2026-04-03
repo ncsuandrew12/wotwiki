@@ -1,0 +1,65 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Taraboner
+| gender=Female
+| affiliation=The Kin
+| height=Average
+| hair=Dark, flecks of gray
+| status=Alive
+| appeared={{tpod|4}}
+| mentioned={{acos|23}}
+| lastappeared={{tom|52}}
+| living=amol
+}}
+'''Alise Tenjile''' was in charge of the [[Kin]]'s farm just outside [[Ebou Dar]]. After the Kin took refuge in [[Caemlyn]], Alise ''de facto'' became their leader.
+
+== Appearance ==
+She is of average height and weight, with gray flecking her dark hair. She carried herself with a straight back. Alise has a pleasant and unremarkable face, mild usually, with a jaw that is perhaps a little long. 
+
+She seems to be just in her middle years, but really she is 181 years old. Her smile could be warm and comforting or quite stern.
+
+==History==
+Alise is 181 years old, she was born in the year {{ne|819}} and went to the White Tower in the year {{ne|835}}. She was a [[Novice]] for two and a half years and after she was sent away because her weakness in the [[One Power]]. 
+
+==Strength and Abilities==
+Alise is very weak in the [[One Power]], and Elayne thought that she would probably never become [[Accepted]]. In reality she is just a level below the minimum to be tested for the shawl.
+
+This is confirmed by "The Wheel of Time Companion" where her level of strength is classified {{opsl|52}}. 
+
+Alise has the [[Talent]] to use the [[Traveling]] weaves but she is lacking the necessary strength; linked with three other Kinswomen of her same strength she can open suitable gateways.
+
+Alise is a very good administrator and the Aes Sedai respect her and appreciate her abilities to manage the so many Kinswomen with them. She is very intelligent and even formidable and she is not intimidated by the Aes Sedai. People tended to do what she said without her raising her voice, even those who didn’t know her. Alise ran the farm despite she was not the oldest and she ran it excellently, in fact running is her job and that put her in charge of women who were older than she. 
+
+Alise does not suffer fools gladly and though she is not acerbic about it as Nynaeve, she simply does not put up with foolishness or with bending the rules, much less breaking them, because the rules are what kept the Kin together and safe for so many years. 
+
+== Activities ==
+=== Leaving the Farm ===
+Alise is running [[the Farm]] and she greets the group of travellers led by [[Elayne Trakand]] and [[Nynaeve al'Meara]] when they reach the place with the [[Bowl of the Winds]]. 
+
+Along other Kinswomen she [[Travel]]ed from Ebou Dar to The Farm and after to Andor following the leadership of Elayne and Nynaeve.{{ref/book|7|6}}
+
+She is not impressed with [[Reanne Corly]] for bringing [[Aes Sedai]] along. Her view of Aes Sedai seems to differ from the rest of the Kin in the fact that she does not seem to worship them. In many ways she behaved toward Aes Sedai exactly as toward any other women. She is not impressed with [[Garenia Rosoinde]] and [[Kirstian]] being put back in [[novice]] white and speaks up about it. After being reminded by Reanne about the rules she submits herself to punishment with a switch.
+
+When the group reaches [[Caemlyn]], a group of ''[[sul'dam]]'' and ''[[damane]]'' captured by [[Rand al'Thor]] are placed into the Kin's care. Alise is with Reanne when the news is given that three of the ''damane'' are ready to be free from captivity. She is proud of Nynaeve when she allows this.
+
+=== New home in Caemlyn ===
+She helps Elayne in Caemlyn by [[link]]ing with other Kinswomen and creating gateways for troops to [[Traveling|Travel]] through when the walls are being attacked by [[Arymilla Marne]]'s men.
+
+With Reanne's death, she acts as the [[Elder|Eldest]] even though [[Sumeko Karistovan]] is older. After a number of Kinswomen deaths, Elayne and Alise try to get the Kinswomen to stay together and Sumeko to enforce this.
+
+After Elayne won the throne Alise and [[Sumeko]] meet with the new Queen to discuss about the Kin; Elayne offers to them to stay in Caemlyn, to live out the rest of their days. They will live in their residence for free in exchange for offering [[Healing]] and Traveling for the Crown of Andor when it needs it. Alise felt that the chance to go back to the Tower was all very well for quite strong women as Reanne and Sumeko, who had the chance to become Aes Sedai, but she wondered about why she and the weak others should. Alise was not to accept Aes Sedai authority over the Kin, in large part because she considered the offer to return mere trumpery in her case.
+
+While she did not know how she could manage the offering to return to the Tower, she quickly began coming around to the notion of somehow keeping the Kin going for women weak such herself, who simply could not become Aes Sedai. When Elayne approached her with a plan to do just that, she readily agreed.
+
+Alise, with the assistance of three other Kinswomen ([[Kema]], [[Nashia]] and [[Sarasia]]), creates a gateway into [[Cairhien]] for Elayne. [[Birgitte Silverbow]] asks Alise if she can create some sort of weave that would protect Elayne from archers. Alise agrees to try a new weave and forms a whirlwind around them to catch eventual arrows.
+
+During the Last Battle Alise and the other Kinswomen provided assistance, Traveling and Healing to Elayne's Army.
+
+{{notes}}
+{{DEFAULTSORT:Tenjile, Alise}}
+
+[[es:Alise Tenjile]]
+[[Category:Farm Group]]
+[[Category:Channelers]]
+[[Category:Novices]]

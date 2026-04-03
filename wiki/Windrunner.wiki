@@ -1,0 +1,13 @@
+{{dablink|For other uses of the word "wind," see [[Wind]].}}
+'''''Windrunner''''' is an [[Atha'an Miere]] ship.{{ref|{{twotc}}, Windrunner}}
+
+==Crew==
+[[Malin din Toral Breaking Wave]] is the [[Sailmistress]] of ''Windrunner''. [[Dorile din Eiran Long Feather]] is the [[Windfinder]]. [[Baroc]] is the [[Master of the Blades]]. [[Nesta din Reas Two Moons]], the [[Mistress of the Ships]], also sailed aboard the vessel at one point.
+
+==Activities==
+In early {{ne|1000}}, [[Elayne Trakand]], [[Nynaeve al'Meara]], [[Aviendha]], and [[Birgitte Silverbow]] board ''Windrunner'' to bargain for help in using the [[Bowl of the Winds]].{{ref/book|7|13}} When [[Moghedien]] used [[balefire]] on Nynaeve's boat, Nynaeve was on her way to ''Windrunner''.{{ref/book|7|31}} Later, ''Windrunner'' is captured by the [[Seanchan]] when they conquer [[Ebou Dar]]. Nesta din Reas Two Moons and Baroc are executed by the Seanchan for their rebellion.{{ref/book|9|16}}
+
+{{notes}}
+{{DISPLAYTITLE:''Windrunner''}}
+[[Category:Atha'an Miere]]
+[[Category:Ships]]

@@ -1,0 +1,20 @@
+{{character 
+| image=RedBlack.png
+| imagesize=150px
+| status=Foreseen
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=Black Ajah
+| ajah=Red
+| gender=Female
+| appeared={{tdr|22}}
+| lastappeared={{tdr|22}}
+}}
+{{for|the Forsaken that used a similar alias|Moghedien#Release{{!}}Gyldin}}
+'''Gyldan''' was the name of a [[Red Ajah|Red]] sister who was also [[Black Ajah]].{{ref/book|3|22}}
+
+==Activities==
+Gyldan appears in [[Egwene al'Vere]]'s third step during her testing for [[Accepted]] in the [[Silver arches]] ''[[ter'angreal]]''. Gyldan is [[Elaida do Avriny a'Roihan|Elaida]]'s close confidant and is one of thirteen sisters of the Black Ajah who were going to turn Egwene to the [[Shadow]] with thirteen [[Myrddraal]]. It is unknown if there is a real [[Aes Sedai]] with this name.{{ref/book|3|22}}
+
+{{short}}
+{{notes}}

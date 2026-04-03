@@ -1,0 +1,19 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Nemaris
+| gender=Mare
+| color=Dark
+| appeared={{kod|1}}
+}}
+{{dablink|For other uses of the word "night," see [[Night]].}}
+'''Nightlily''' is a horse owned by [[Nemaris]] and used by [[Siuan Sanche]].
+
+==Appearance==
+Nightlily is a meek, dark mare.
+
+==Activities==
+Siuan Sanche borrows Nightlily from Nemaris' husband to ride from [[Gareth Bryne]]'s camp to the [[Aes Sedai]] camp.

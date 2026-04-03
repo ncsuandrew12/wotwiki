@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Tamlin al'Thor]].
+| Source             = ''[[The Eye of the World 2]]''
+| Artist             = Chase Conley
+| Artist2            = Nicolas Chapuis‎
+}}

@@ -1,0 +1,21 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Foreseen
+| gender=Female
+| Title=Mayor
+| affiliation=Two Rivers
+}}
+{{for|Perrin's sister|Adora Aybara}}
+'''Adora Aybara''' is the granddaughter of [[Perrin Aybara]] and [[Faile Bashere]] in a potential future seen by [[Rand al'Thor]].
+
+== History ==
+In one potential future, Rand sees the Two Rivers ruled by Lady Adora Aybara, who is the Mayor of [[Emond's Field]] in her time. She has both Two Rivers features from her grandfather and [[Saldaea]]n features from her grandmother. However, this is one of many futures seen by Rand when he battles the [[Dark One]], and it is unclear whether Adora will truly be born in the [[Fourth Age]].
+
+{{notes}}
+{{DEFAULTSORT:Aybara, Adora}}
+[[Category:Short pages]]
+[[Category:Mayors and governors]]
+[[Category:Ladies]]
+[[Category:Nobility]]

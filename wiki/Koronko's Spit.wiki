@@ -1,0 +1,5 @@
+'''Koronko's Spit''' is a [[Shienar|Shienaran]] dice game. Mat played it in [[Caemlyn]] with [[Rittle]], [[Saddler]], and [[Snelle]] without knowing the rules. He threw five ones, which he concluded was a winning toss based on his luck sense, but the three men claimed it was a losing toss.{{ref/book|13|31}}
+
+{{notes}}
+{{short}}
+[[Category:Games]]

@@ -1,0 +1,364 @@
+{{DISPLAYTITLE:''The Wheel of Time'' (TV series)}}
+{{Series
+|title1 = ''The Wheel of Time''
+|image1 = The Wheel of Time TV series poster.webp
+|executive_producers = Rafe Judkins <ref>https://dragonmount.com/tv/index/</ref><br> 
+Rick Selvage<ref>https://www.hollywoodreporter.com/live-feed/wheel-time-all-details-far-amazons-fantasy-drama-1236598</ref><br>
+Larry Mondragon<br>
+Ted Field<br>
+Mike Weber<br>
+Darren Lemke<br>
+|network = Prime Video
+|production_locations = Czech Republic<br>
+Slovenia<br>
+Croatia<br>
+|directors = Uta Briesewitz<ref>[https://deadline.com/2019/02/the-wheel-of-time-uta-briesewitz-direct-first-two-episodes-amazon-fantasy-drama-series-robert-jordan-1202558701/]</ref><br>
+Salli Richardson Whitfield<ref>[https://www.reddit.com/r/TheDailyTrolloc/comments/e26gxu/unconfirmed_salli_richardsonwhitfield_directing/]</ref><br>
+Wayne Yip <ref>https://www.wotseries.com/2019/12/03/wayne-yip-director-for-hunters-and-dr-who-involved-with-show/</ref><br>
+|writers = Rafe Judkins<br>
+Amanda Kate Shuman<ref>[http://www.thedailytrolloc.com/2018/07/amanda-kate-shuman-wheel-of-time-tv.html]</ref><br>
+Paul Clarkson<ref name="clarkson">[http://www.thedailytrolloc.com/2019/01/paul-and-michael-clarkson-wheel-of-time.html/]</ref><br>
+Michael Clarkson<ref name="clarkson" /><br>
+Dave Hill<ref>[http://www.thedailytrolloc.com/2019/01/dave-hill-wheel-of-time-tv-series-writer.html/]</ref><br>
+Celine Song<ref>[http://www.thedailytrolloc.com/2018/11/celine-song-wheel-of-time-tv-series.html/]</ref><br>
+Justine Juel Gillmer<ref>[http://www.thedailytrolloc.com/2019/01/justine-juel-gillmer-wheel-of-time-tv.html/]</ref>
+|production_companies = Sony Pictures Television<ref name="studios">[https://deadline.com/2018/10/amazon-robert-jordans-the-wheel-of-time-1202474485/]</ref><br>
+Amazon Studios<ref name="studios" />
+}}'''''The Wheel of Time''''' is a television series based on the [[Wheel of Time|novels of the same name]] by [[Robert Jordan]]. It premiered on November 19, 2021 on Prime Video,<ref>https://www.youtube.com/watch?v=3Fus4Xb_TLg</ref> In May 2025, the series was canceled after three seasons. Each season has eight episodes, and each episode is approximately an hour long.
+
+A live-action adaptation of the novels was originally planned as early as 2000, but was not formally announced until 28 April 2016. Production began in Fall 2019,{{ref|[https://www.tor.com/2019/01/23/the-wheel-of-time-tv-series-adaptation-production-fall-2019/ The Wheel of Time TV Series to Start Production in Fall 2019]}} and had to pause multiple times due to COVID-19, and wrapped in May 2021. Ahead of its premiere, it was renewed for a second season in May 2021.
+
+Initially the series focuses on [[Moiraine]] as its protagonist as she searches for the [[Dragon Reborn]].<ref name = "Greenlight"/>
+
+==Development history==
+Robert Jordan originally sold a TV rights option to [[wikipedia:NBC|NBC]] in 2000. NBC planned to adapt the books as a network TV series spanning several seasons. However, interest in the project dried up after the writers involved departed from NBC. The rights subsequently returned to Robert Jordan.{{ref|[http://www.oocities.org/area51/stargate/8513/creator-spin.htm Thus Spake the Creator]}}ff
+
+Shortly after this, a Japanese animation studio contacted Jordan and proposed an [[wikipedia:anime|''anime'']] series based on the first three books. However, they only wanted to adapt those books and not the complete series. Jordan was not interested in this adaptation and talks stalled before any formal deal could be discussed.{{ref|[http://www.oocities.org/area51/stargate/8513/creator-spin.htm Thus Spake the Creator]}}
+
+In 2004, Robert Jordan sold the TV, film, video game and comic book rights to Red Eagle Entertainment, a rights-handling company set up to develop multimedia projects based on the novels. This deal was worth approximately $640,000 and was due to last for eleven years, unless a long-running TV series or movie franchise was in production by that time.
+
+In 2008 Red Eagle re-sold the film rights to Universal Pictures for a "seven-figure sum". Universal developed a film script based on ''[[The Eye of the World]]''. However, Universal decided not to proceed with the adaptation and the rights returned to Red Eagle.
+
+In 2014 Sony Television developed an interest in the property as an ongoing, big-budget TV series. They discussed the project with Red Eagle and with [[Harriet Rigney|Harriet McDougal]], Robert Jordan's widow, editor and literary heir and executor.{{ref|[http://io9.gizmodo.com/producers-of-that-wheel-of-time-tv-pilot-are-suing-robe-1686094025 io9]}}
+
+The TV and film rights were due to revert to the Robert Jordan Estate (the Bandersnatch Group) in early February 2015. However, Red Eagle self-produced a 22-minute short film based on the prologue to ''The Eye of the World'', starring [[wikipedia:Billy Zane|Billy Zane]], and paid to have it broadcast on the FXX Network in the United States, during an infomercial timeslot. They argued that this constituted getting a TV or film series into production and thus they should retain the rights. Legal discussions followed to clarify the situation.{{ref|[http://io9.gizmodo.com/the-real-story-about-that-wheel-of-time-pilot-that-aire-1684773094 io9]}}
+
+On 28 April 2016, the Robert Jordan Estate issued a statement confirming that the legal discussions had been resolved satisfactorily and that a TV adaptation of ''The Wheel of Time'' was now being developed with a "major studio".{{ref|[http://www.dragonmount.com/index.php/News/events/wheel-of-time-television-show-r917 Dragonmount]}}
+
+On October 2, 2018, it was confirmed that Amazon had given the greenlight for the series to begin production.<ref name="Greenlight">[https://au.ign.com/articles/2018/10/02/the-wheel-of-time-series-given-the-greenlight-by-amazon-studios THE WHEEL OF TIME SERIES GIVEN THE GREENLIGHT BY AMAZON STUDIOS]</ref>
+
+==Cast==
+''Note: Cast links in this section will take you to the TV series wiki.''
+
+Starring:
+{{Columns}}
+* {{TVlink|Rosamund Pike}} as [[Moiraine Damodred]]<ref name="pike cast">{{cite web |url=https://deadline.com/2019/06/rosamund-pike-the-wheel-of-time-tv-adaptation-amazon-1202634993/ |title=Rosamund Pike To Star In ''The Wheel Of Time'' TV Adaptation At Amazon |work=Deadline Hollywood |date=June 19, 2019 |access-date=July 1, 2019 |first=Denise |last=Petski |archive-url=https://web.archive.org/web/20190623231136/https://deadline.com/2019/06/rosamund-pike-the-wheel-of-time-tv-adaptation-amazon-1202634993/ |archive-date=June 23, 2019 |dead-url=no }}</ref>
+* {{TVlink|Josha Stradowski}} as [[Rand al'Thor]]<ref name="casting 2">{{cite web |url=https://variety.com/2019/tv/news/wheel-of-time-series-amazon-rand-althor-josha-stadowski-perrin-marcus-rutherford-1203302153/ |title='Wheel of Time' Series at Amazon Rounds Out Main Cast |last=Otterson |first=Joe |date=August 14, 2019 |website=[[Variety (magazine)|Variety]] |access-date=August 14, 2019}}</ref>
+*{{TVlink|Marcus Rutherford}} as [[Perrin Aybara]]<ref name="casting 2" />
+*{{TVlink|Zoë Robins}} as [[Nynaeve al'Meara]]<ref name="casting 2" />
+*{{TVlink|Barney Harris}} as [[Mat Cauthon]] (Season 1)<ref name="casting 2" />
+*{{TVlink|Dónal Finn}} as [[Mat Cauthon]] (Season 2 onwards)<ref name="deadline-sep-2021">''Deadline'': [https://deadline.com/2021/09/the-wheel-of-time-donal-finn-to-play-mat-cauthon-in-recasting-on-amazon-series-as-barney-harris-not-returning-for-season-2-1234840887/ 'The Wheel Of Time': Dónal Finn To Play Mat Cauthon In Recasting On Amazon Series As Barney Harris Not Returning For Season 2] September 20, 2021.</ref>
+*{{TVlink|Madeleine Madden}} as [[Egwene al'Vere]]<ref name="casting 2" />
+*{{TVlink|Daniel Henney}} as [[Lan Mandragoran]]<ref>{{cite web|url=https://deadline.com/2019/09/the-wheel-of-time-daniel-henney-joins-amazon-fantasy-epic-1202710413/ |title=The Wheel Of Time’: ‘Criminal Minds’ Star Daniel Henney Joins Amazon’s Epic Fantasy Drama |last=White |first=Peter |date=September 4, 2019}}</ref>
+*{{TVlink|Ceara Coveney}} as [[Elayne Trakand]]<ref name="NYCC">NYCC virtual panel, October 8, 2021, stated by {{TVlink|Rafe Judkins}}.</ref>
+*{{TVlink|Sophie Okonedo}} as [[Siuan Sanche]]
+*{{TVlink|Kae Alexander}} as [[Min Farshaw]]
+*{{TVlink|Hammed Aminashaun}} as [[Loial]]
+*{{TVlink|Priyanka Bose}} as [[Alanna Mosvani]]<ref name="casting 4">{{cite web|url=https://deadline.com/2019/12/the-wheel-of-time-cast-series-fantasy-books-priyanka-bose-taylor-napier-emmanuel-imani-1202816315/ |title=The Wheel Of Time’: Amazon Adds Three To Cast Of Series Based On Fantasy Books |last=Petski |first=Denise |date=December 23, 2019}}</ref>
+*{{TVlink|Jennifer Cheon Garcia}} as [[Leane Sharif]]
+*{{TVlink|Jay Duffy}} as [[Dain Bornhald]]
+*{{TVlink|Lindsay Duncan}} as [[Anvaere Damodred]]
+*{{TVlink|Kate Fleetwood}} as [[Liandrin Guirale]]
+*{{TVlink|Fares Fares}} as [[Ishamael]]
+*{{TVlink|Emmanuel Imani}} as [[Ihvon]]
+*{{TVlink|Taylor Napier}} as [[Owein|Maksim]]
+*{{TVlink|Ayoola Smart}} as [[Aviendha]]
+*{{TVlink|Meera Syal}} as [[Verin Mathwin]]
+*{{TVlink|Natasha O'Keeffe}} as [[Lanfear]]
+{{Columns|end}}
+
+[[Two Rivers]] folk:
+{{Columns}}
+*{{TVlink|Michael McElhatton}} as [[Tam al'Thor]]<ref>{{cite web|url=https://twitter.com/WoTonPrime/status/1192124485022863361/ |title=Please welcome Michael McElhatton (Tam Al'Thor) to the #WOTonPrime family |date=November 6, 2019}}</ref>
+*{{TVlink|Lolita Chakrabarti}} as [[Marin al'Vere]]
+*{{TVlink|Michael Tuahine}} as [[Bran al'Vere]]
+*{{TVlink|David Sterne}} as [[Cenn Buie]]
+*{{TVlink|Christopher Sciueref}} as [[Abell Cauthon]]
+*{{TVlink|Litiana Biutanaseva}} as [[Bode Cauthon]]
+*{{TVlink|Lilibet Biutanaseva}} as [[Eldrin Cauthon]]
+*{{TVlink|Juliet Howland}} as [[Natti Cauthon]]
+*{{TVlink|Mandi Symonds}} as [[Daise Congar]]
+*{{TVlink|Naana Agyei-Ampadu}} as {{TVlink|Danya}}<ref>[https://thewertzone.blogspot.com/2019/10/some-more-wheel-of-time-casting-news.html]</ref>
+*{{TVlink|Helena Westerman}} as [[Laila Dearn]]
+*{{TVlink|Pearce Quigley}} as [[Hightower|Master Hightower]]
+*{{TVlink|Petr Simcák}} as {{TVlink|Tom Thane}}
+*Uncredited as [[Joiya al'Thor]]
+*{{TVlink|Jonathan Hawkins}} as [[Master al'Meara]]
+*{{TVlink|Melissa James}} as [[Elnore al'Meara]]
+*{{TVlink|Bronte Smith}} as Young [[Nynaeve al'Meara]]
+{{Columns|end}}
+
+
+[[Aes Sedai]] and [[Warder]]s:
+{{Columns}}
+*{{TVlink|Sandy McDade}} as [[Maigan]]
+*{{TVlink|Clare Perkins}} as [[Kerene Nagashi]]
+*{{TVlink|Peter Franzén}} as [[Stepin]]<ref name="casting 5" />
+*{{TVlink|Vilma Frantová}} as {{TVlink|Yellow Aes Sedai (Shadow's Waiting)|Yellow Aes Sedai}}
+*{{TVlink|Evelyn Mok}} as {{TVlink|Yellow Aes Sedai (The Flame of Tar Valon)|Yellow Aes Sedai}}
+*{{TVlink|Heikko Deutschmann}} as [[Tomas]]
+*{{TVlink|Rima Te Wiata}} as [[Sheriam Bayanar]]
+*{{TVlink|Nila Aalia}} as [[Adeleas Namelle|Adeleas]]
+*{{TVlink|Daisy Kosmider}} as {{TVlink|Farina}}
+*{{TVlink|Katie Leung}} as {{TVlink|Yasicca}}
+*{{TVlink|Rachel Denning}} as {{TVlink|Nyomi}}
+*{{TVlink|Nyokabi Gethaiga}} as [[Ryma Galfrey]]
+*{{TVlink|Bentley Kalu}} as {{TVlink|Basan}}
+{{Columns|end}}
+
+[[Andor]]ans:
+{{Columns}}
+*{{TVlink|Izuka Hoyle}} as {{TVlink|Dana}}
+*{{TVlink|Darren Clarke}} as [[Basel Gill]]
+*{{TVlink|Robyn Betteridge}} as {{TVlink|Helga Grinwell}}
+*{{TVlink|Pasha Bocarie}} as [[Master Grinwell]]
+*{{TVlink|Magdalena Sittova}} as [[Tigraine Mantear]]
+*{{TVlink|Jennifer Preston}} as [[Mistress Grinwell]]
+*{{TVlink|Alexandre Willaume}} as [[Thom Merrilin]]<ref name="casting 3" />
+{{Columns|end}}
+[[Cairhien]]in:
+*{{TVlink|Marie-France Alvarez}} as {{TVlink|Celestin}}
+*{{TVlink|Ken Bradshaw}} as [[Asan Sandair]]
+*{{TVlink|Nasser Memarzia}} as {{TVlink|Errol}}
+*{{TVlink|Darragh O'Toole}} as {{TVlink|Yann}}
+*{{TVlink|Robert Russell}} as {{TVlink|Jhonas}}
+*{{TVlink|Will Tudor}} as [[Barthanes Damodred]]
+[[Ghealdan]]in:
+{{Columns}}
+*{{TVlink|Álvaro Morte}} as [[Logain Ablar]]<ref name="casting 3">{{cite web|url=https://variety.com/2019/tv/news/wheel-of-time-series-amazon-alvaro-morte-hammed-animashaun-alexandre-willaume-johann-myers-1203424343/ | title=Wheel of Time’ Series at Amazon Adds Four to Cast |last=Thorne |first=Will |date=December 4, 2019 |website=[[Variety (magazine)|Variety]]}}</ref>
+{{Columns|end}}
+*{{TVlink|Miguel Álvarez}} as the {{TVlink|King of Ghealdan}}
+[[Illian]]ers:
+{{Columns}}
+*{{TVlink|Julian Lewis Jones}} as [[Bayle Domon]]
+{{Columns|end}}
+[[Malkier]]i:
+{{Columns}}
+*{{TVlink|Madiana Day}} as {{TVlink|Malkieri Child (The Dark Along the Ways)|Malkieri Child}}
+*{{TVlink|Derancie Baitoukou}} as {{TVlink|Malkieri Woman (The Dark Along the Ways)|Malkieri Woman}}
+*{{TVlink|Michael D'Cruze}} as {{TVlink|Zahir}}
+{{Columns|end}}
+[[Murandy|Murandians]]:
+*{{TVlink|Johann Myers}} as [[Padan Fain]]<ref name="casting 3" />
+[[Tear|Tairens]]:
+*{{TVlink|Peter de Jersey}} as [[Master Sanche]]
+*{{TVlink|Keira Chansa}} as Young [[Siuan Sanche]]
+*{{TVlink|Gary Beadle}} as [[Elyas Machera]]
+[[Tuatha'an]]:
+{{Columns}}
+*{{TVlink|Daryl McCormack}} as [[Aram]]<ref name="casting 5">{{cite web|url=https://twitter.com/WOTonPrime/status/1220129923748118528/ |title=Greetings from Prague! Here are some photos from our recent table read on the #WOTonPrime set. |date=January 22, 2020}}</ref>
+*{{TVlink|Maria Doyle Kennedy}} as [[Ila]]<ref name="casting 5" />
+*{{TVlink|Narinder Samra}} as [[Raen]]
+*{{TVlink|Amy Sharp}} as {{TVlink|Niko}}
+{{Columns|end}}
+[[Seanchan]]:
+*{{TVlink|Karima McAdams}} as [[Suroth Sabelle Meldarath]]
+*{{TVlink|Daniel Francis}} as [[Turak Aladon]]
+*{{TVlink|Jessica Boone}} as [[Alwhin]]
+*{{TVlink|Valerie Vachkova}} as [[Miri]]
+*{{TVlink|Seraphina Beh}} as [[Arrata]]
+*{{TVlink|Xelia Mendes-Jones}} as [[Renna Emain]]
+[[Shienar]]ans:
+{{Columns}}
+*{{TVlink|Arnas Fedaravicius}} as [[Masema Dagar]]
+*{{TVlink|Thomas Chaanhing}} as [[Agelmar Jagad]]
+*{{TVlink|Sandra Yi Sencindiver}} as [[Amalisa Jagad]]
+*{{TVlink|Guy Roberts}} as [[Uno Nomesta]]
+*{{TVlink|Gregg Chillingirian}} as [[Ingtar Shinowa]]
+*{{TVlink|Amar Chadha-Patel}} as {{TVlink|Lord Yakota}}
+{{Columns|end}}
+
+[[Children of the Light]]:
+{{Columns}}
+*{{TVlink|Stuart Graham}} as [[Geofram Bornhald]]<ref>[https://www.wotseries.com/2019/12/31/agency-website-cv-confirms-stuart-graham-casting/]</ref>
+*{{TVlink|Abdul Salis}} as [[Eamon Valda]]
+{{Columns|end}}
+
+Historical characters:
+{{Columns}}
+*{{TVlink|Alexander Karim}} as [[Lews Therin Telamon]]
+*{{TVlink|Katie Brayben}} as [[Latra Posae Decume]]
+{{Columns|end}}
+
+Other:
+{{Columns}}
+*{{TVlink|Rebecca Tanwen}} as {{TVlink|Elusha Salid}}
+{{Columns|end}}
+
+==Episodes==
+''Note: Links in this section will take you to the TV series wiki.''
+
+==={{TVlink|Season 1}} (2021)===
+{| class="fandom-table"
+!#
+!Title
+!Air Date
+!Chapters Adaptation 
+|-
+|1
+|[https://wheeloftime.fandom.com/wiki/Leavetaking Leavetaking]
+|Nov 19, 2021
+|
+* [[The Eye of the World/Chapter 4|Chapter 4]]
+* [[The Eye of the World/Chapter 5|Chapter 5]]
+* [[The Eye of the World/Chapter 6|Chapter 6]]
+* [[The Eye of the World/Chapter 7|Chapter 7]]
+* [[The Eye of the World/Chapter 8|Chapter 8]]
+* [[The Eye of the World/Chapter 10|Chapter 10]]
+|-
+|2
+|[https://wheeloftime.fandom.com/wiki/Shadow%27s_Waiting Shadow's Waiting]
+|Nov 19, 2021
+|
+* [[The Eye of the World/Chapter 11|Chapter 11]]
+* ??
+* ??
+* ??
+* [[The Eye of the World/Chapter 19|Chapter 19]]
+|-
+|3
+|[https://wheeloftime.fandom.com/wiki/A_Place_of_Safety A Place of Safety]
+|Nov 19, 2021
+|
+|-
+|4
+|[https://wheeloftime.fandom.com/wiki/The_Dragon_Reborn The Dragon Reborn]
+|Nov 26, 2021
+|
+|-
+|5
+|[https://wheeloftime.fandom.com/wiki/Blood_Calls_Blood Blood Calls Blood]
+|Dec 3, 2021
+|
+|-
+|6
+|[https://wheeloftime.fandom.com/wiki/The_Flame_of_Tar_Valon The Flame of Tar Valon]
+|Dec 10, 2021
+|
+|-
+|7
+|[https://wheeloftime.fandom.com/wiki/The_Dark_Along_the_Ways The Dark Along the Ways]
+|Dec 17, 2021
+|
+|-
+|8
+|[https://wheeloftime.fandom.com/wiki/The_Eye_of_the_World_(episode) The Eye of the World]
+|Dec 24, 2021
+|
+|}
+
+==={{TVlink|Season 2}} (2023)===
+{| class="fandom-table"
+|-
+!#
+!Title
+!Air Date
+!Chapters Adaptation
+(Ex:1B(1st book) chapters ??
+|-
+|9
+|[https://wheeloftime.fandom.com/wiki/A_Taste_of_Solitude A Taste of Solitude]
+|Sep 01, 2024
+|
+|-
+|10
+|[https://wheeloftime.fandom.com/wiki/Strangers_and_Friends Strangers and Friends]
+|Sep 01, 2024
+|
+|-
+|11
+|[https://wheeloftime.fandom.com/wiki/What_Might_Be What Might Be]
+|Sep 01, 2024
+|
+|-
+|12
+|[https://wheeloftime.fandom.com/wiki/Daughter_of_the_Night Daughter of the Night]
+|Sep 08, 2024
+|
+|-
+|13
+|[https://wheeloftime.fandom.com/wiki/Damane_(episode) Damane]
+|Sep 15, 2024
+|
+|-
+|14
+|[https://wheeloftime.fandom.com/wiki/Eyes_Without_Pity Eyes Without Pity]
+|Sep 22, 2024
+|
+|-
+|15
+|[https://wheeloftime.fandom.com/wiki/Daes_Dae%27mar Daes Dae'mar]
+|Sep 29, 2024
+|
+|-
+|16
+|[https://wheeloftime.fandom.com/wiki/What_Was_Meant_to_Be What Was Meant to Be]
+|Oct 06, 2024
+|}
+
+===Season 3 (2025)===
+{| class="fandom-table"
+!#
+!Title
+!Air Date
+!Chapters Adaptation
+(Ex:1B(1st book) chapters ??
+|-
+|17
+|{{TVlink|To Race the Shadow}}
+|Mar 13, 2025
+|
+|-
+|18
+|{{TVlink|A Question of Crimson}}
+|Mar 13, 2025
+|
+|-
+|19
+|{{TVlink|Seeds of Shadow}}
+|Mar 13, 2025
+|
+|-
+|20
+|{{TVlink|The Road to the Spear}}
+|Mar 20, 2025
+|
+|-
+|21
+|{{TVlink|Tel'aran'rhiod (episode)|Tel'aran'rhiod}}
+|Mar 27, 2025
+|
+|-
+|22
+|{{TVlink|The Shadow in the Night}}
+|Apr 03, 2025 
+|
+|-
+|23
+|{{TVlink|Goldeneyes}}
+|Apr 10, 2025 
+|
+|-
+|24
+|{{TVlink|He Who Comes With the Dawn}}
+|Apr 17, 2025 
+|
+|}
+
+==Notes==
+[[Category:TV Series]]
+[[Category:Other Media]]
+[[Category:Real-world content]]
+<references responsive="0" /><ref>https://filmyrating.com/the-wheel-of-time-parents-guide-tv-series-2021/</ref>
+
+<references />

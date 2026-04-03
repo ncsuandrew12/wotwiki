@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://jieroque.blogspot.com/2012_08_01_archive.html	
+|Description = Fan art of [[Verin Mathwin]].
+|Artist      = Benjamin Roque
+}}

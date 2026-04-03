@@ -1,0 +1,29 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| affiliation=House Bryne
+| gender=Female
+| build=Slim
+| appeared={{Tfoh|1}}
+| lastappeared={{tfoh|1}}
+| living=tfoh
+}} ''For the similarly named [[Cairhienin]] [[noble]]woman of [[House Damodred]], see [[Caraline Damodred]].''
+
+'''Caralin''' is the estate manager to Lord [[Gareth Bryne]] at his estate near [[Kore Springs]].{{ref|{{twotc}}, Caralin}}
+
+==Appearance==
+She is slim, and shows as much age as Bryne.
+
+==History==
+While Bryne was gone from his estates to do his duty as [[Captain-General (Andor)|Captain-General]] of the [[Queen's Guards|Queens Guard]] of Andor, Caralin was the one to oversee his estates, doing a better job of it than he thought he did himself. Bryne thinks she took better care of Kore Springs than he knew how, and that she could manage things even better without him in the way. Her writing table is piled with estate account books, and she even sees to making sure he is dressed suitably for his position, keeping up on the latest fashions for him.
+
+==Activities==
+When [[Siuan Sanche]], [[Leane Sharif]], [[Elmindreda Farshaw|Min Farshaw]], and [[Logain Ablar]] are traveling from [[Tar Valon]] to [[Salidar]], they spend a night in a farmer's barn in Kore Springs. They are found before dawn by its owner, [[Admer Nem]], and in an unfortunate turn of events, the barn burns to the ground and some of the livestock are killed. Logain steals a purse and knocks Admer down before escaping, and the three women are brought to trial in town. As a lord of Kore Springs, Bryne is to make the decisions at the trial, but Caralin, as his retainer, oversees the trial. She begins the trial, announcing the charges against the women, and allowing Admer to give his testimony. When Admer's wife, [[Maigan Nem|Maigan]], steps forwards to speak out of turn, Caralin sharply cuts her off and orders the couple to step back. She then tells the three women that they may give their testimony.{{ref/book|5|1}}
+
+When Bryne gives the three women their punishment, and tells the Nems how they will be repaid for their losses, he makes sure to announce that Caralin will verify how much they are truly owed for their milkcows—some of which were going dry—and for the amount in their stolen purse. After the three women give oaths to Bryne, he tells Caralin to clear everyone else out, see to the amount of the farmer's losses, and arrange for the women to be transported to his manor, where they are to work off the coin paid to the farmer. She quickly sees to the tasks, and returns when she is done, complaining that it will take some time to sort out what the Nems are owed since Admer is trying to get more than his fair share.
+
+Later, after Logain turns back up to help the three women escape before reaching Bryne's manor, Bryne and Caralin discuss the situation. She seems to believe he could have avoided some of the trouble if he had sent the women to work their debt off at the Nem property instead of his own, though she sees his point when he notes that their treatment would have been far rougher there. She casually mentions that she could use them in the house when he finds them and brings them back, and upon prodding admits that Leane in particular could do well serving at table or even as his bedchamber maid, commenting on Leane's grace and pretty appearance. Bryne sees that she is continuing in her "subtle" attempts to find him a woman.
+
+{{notes}}

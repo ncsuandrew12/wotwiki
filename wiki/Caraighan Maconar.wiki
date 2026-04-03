@@ -1,0 +1,44 @@
+{{ character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewothist=Caraighan
+| nationality=Unknown nationality
+| ajah=Green
+| birth={{Ab|212}}
+| status=Dead
+| death={{Ab|373}}
+| rank=Aes Sedai
+| gender=Female
+| mentioned={{Loc|54}}
+| lastmentioned={{tgs|2}}
+}}'''Caraighan Maconar''' was an [[Aes Sedai]] of the [[Green Ajah]] who lived between [[212 AB|212]] and {{Ab|373}}. Caraighan is considered a legend, the archetypical Green sister and the embodiment of the goals and ideals of the Green Ajah.{{ref|{{twotc}}, Caraighan Maconar|comp}}
+
+==Strength==
+With a strength in the One Power of {{opsl|9}}, Caraigan is the strongest Aes Sedai whose strength is given in the Wheel of Time Companion.{{ref||comp}} Three thousand years later, she would be matched by [[Nynaeve al'Meara]]. If either [[Sharina Melloy]] or [[Talaan din Gelyn]] become Aes Sedai, they will surpass her. It is not known if Caraighan was the strongest Aes Sedai of the Third Age or if any other Aes Sedai were as strong sometime between her lifetime and Nynaeve, except that none have come close in more than a thousand years.{{ref/book|2|4}}
+
+== History ==
+Caraighan was born in {{ab|212}} in an unknown nation during a time of great change and consolidation. The [[Compact of the Ten Nations]] had been signed only three years before her birth and the great city of [[Tar Valon]] had just completed its long construction seven years before that. Indeed, the [[calendar]] marking these dates had only just been adopted a decade or so previously. 
+
+Although an organisation of Aes Sedai under [[Elisane Tishar]] had existed for some time before this, Caraighan would have belonged to one of the first generations of girls to have attended the White Tower as a novice. She would have been living at the same time as the similarly famous Aes Sedai [[Mabriam en Shereed]] and the [[False Dragon]] [[Raolin Darksbane]]. [[Birgitte Silverbow]] also had an incarnation around the time of Caraighan's birth.
+
+Along with [[Rashima Kerenmosa]] and [[Cadsuane Melaidhrin]], she is considered the greatest of the Green Ajah's heroes. According to the her entry in the glossary she was "the heroine of a hundred adventures, credited with exploits that even some Aes Sedai consider improbable despite their inclusion in the records of the White Tower." These exploits included:
+
+* Putting down a rebellion in [[Mosadorin]].
+* Quelling the [[Comaidin Riots]] at a time when she had no [[Warder]]s.
+* Bringing a male channeler two thousand miles by her own after he killed both of her Warders to have him gentled in the White Tower.{{ref/book|6|54}}
+
+Circa {{ab|300}}, she took [[Mangore Kiramin]], a sword-bard of [[Aramaelle]], as her Warder. As well as an accomplished warrior, he also undertook a translation of the ''[[Prophecies of the Dragon]]'' that is still quoted and referred to today.
+
+[[Cadsuane Melaidhrin]] was considered by many to be a second Caraighan. It's also stated that, unlike Caraighan, Cadsuane always refused offices.{{ref|{{twotc}}, Cadsuane Melaidhrin}} This implies that Caraighan did indeed hold some position of importance, the most likely being [[Amyrlin Seat]], or [[Captain-General (Green Ajah)|Captain-General of the Green Ajah]].
+
+The False Dragon Raolin Darksbane was gentled when Caraighan was 123 years old. It is unknown whether she had any involvement in this, but it seems relatively likely given her propensity for adventure and relevant experience.
+
+She died in {{ab|373}} at the age of approximately 161. This is a relatively young age for an Aes Sedai and her cause of death is unknown.
+
+{{notes}}
+{{DEFAULTSORT:Maconar, Caraighan}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai after the Breaking]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,23 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| nationality= Unknown nationality
+| gender=Male
+| affiliation= Children of the Light
+| occupation=Soldier
+| status=Alive
+| appeared={{tgh|29}}
+| lastappeared={{tgh|29}}
+| living=tgh
+}}
+'''Jeral''' is a young member of the [[Children of the Light]].
+
+==Appearance==
+He appears dressed in a blue Domani-cut cloak in lieu of his usual white one.
+
+==Activities==
+He appears in a village on the [[Almoth Plain]] to bring word from [[Jaichim Carridin]] to [[Geofram Bornhald]]. Carridin wants him to stay away from [[Falme]] and the [[Seanchan]].{{ref/book|2|29}} This is the last straw for Bornhald.
+
+Bornhald sends Jeral and other Children under his command to the scattered parties of his legion with the orders that they regroup and march against the Seanchan. This goes against the wishes of Carridin and the Hand of the Light.
+
+{{notes}}

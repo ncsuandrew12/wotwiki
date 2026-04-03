@@ -1,0 +1,60 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Mayener
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| status=Alive
+| occupation=Sitter
+| eyes=Blue, like sapphires
+| hair=Very dark
+| appeared={{tpod|25}}
+| lastappeared={{amol|epilogue}}
+| living=amol
+|birth = 853 NE|build = Sturdy}}
+'''Rubinde Acedone''' is an [[Aes Sedai]] and a [[Sitter]] of the [[Green Ajah]].
+
+== Appearance and Personality ==
+She is 5'5 tall, sturdy and has very dark hair with eyes like sapphires.
+
+Rubinde is described as having a rebellious nature, likely a factor in being persuaded to depose [[Siuan Sanche]] and elect [[Elaida a'Roihan]] as her replacement.
+
+She always looked ready to walk through a wall; even when she tried to smile, she looked like she was grimacing.
+
+Impatient with what she considered useless talk, she was even more arrogant than [[Sedore Dajenna|Sedore]], and certainly much more arrogant than most Greens.
+
+== Strength and Abilities ==
+Rubinde is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of {{opsl|25}}. She matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability a the Talent, she should be able to Travel.
+
+==History==
+Rubinde is from [[Mayene]] and is 147 years old. She was born in {{ne|853}} and went to the [[White Tower]] in {{ne|869}}. After spending ten years as a [[novice]] and nine years as [[Accepted]], she was raised to the shawl in {{ne|888}}.
+
+She was a Sitter for the Green in the Hall of the Tower before the deposition of Siuan Sanche. She was elected in {{ne|992}}.
+
+==Activities==
+Following the split in the Tower she placed her allegiance with Elaida and continued as a Sitter for the Green Ajah in the White Tower's Hall.
+
+She is one of the Sitters that meet with Elaida over beginning negotiations with the [[Rebel Aes Sedai]] when [[Alviarin Freidhen]] returns to the White Tower. She disagrees with her Ajah over these matters. She thought the Rebels were snowed in in Murandy and was confident they would eventually become crawling back.
+
+After Alviarin was deposed, she became nervous of Elaida.
+
+She is at dinner with Elaida and most of the other Sitters when Elaida begins to taunt [[Egwene al'Vere]] and demands her to stop telling lies about a [[Seanchan]] invasion on the White Tower. Egwene refuses and enrages Elaida to the point where she uses the [[One Power]] on Egwene, drawing blood and sending her unconscious.
+
+After reunification Rubinde is confirmed as Sitter in the Hall for the Green Ajah.
+
+Some time later she is present at [[Nynaeve al'Meara|Nynaeve al'Meara's]] testing for the [[shawl]], where she, along with [[Lelaine Akashi]] and [[Barasine]], refuses to accept Nynaeve as a full Aes Sedai, due to failing to uphold "proper decorum" and "Aes Sedai calmness". {{ref/book|13|20}}
+
+Then the Sitters try to hold a secret meeting without Egwene, discussing ways temper the [[Amyrlin Seat|Amyrlin's]] power when a declaration of war is called. Rubinde voted for a proposal that would allow only Egwene to deal with the monarchy of the world, which includes [[Rand]] as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army.
+
+In that same meeting, Rubinde voted in favor of the new rules and procedures in the Hall, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present.
+
+She fought in the [[Last Battle]] upon the [[Field of Merrilor]]. Afterwards, during the supposed funeral of the Lord [[Dragon]], Rubinde is one of four Aes Sedai - the others being [[Lyrelle Arienwin]], [[Yukiri Haruna]], and [[Saerin Asnobar]] - who persuade [[Cadsuane Melaidhrin]] to become the new Amyrlin Seat{{ref/book|14|e}}.
+
+{{notes}}
+{{DEFAULTSORT:Acedone, Rubinde}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,13 @@
+A '''finder''' is a type of weave made with the [[One Power]].
+
+==Description==
+A channeler uses [[Five Powers|Spirit]] and places the finder on an object. Somewhat akin to the [[Warder]] [[Bonding|bond]], but "much less complex", it allows the channeler to sense the direction and distance to the object. A finder will last for weeks on cloth and leather and will last indefinitely on metal.{{ref/book|11|16}} If the person holding an object that has a finder on it loses the object, the channeler can no longer find the object. Furthermore, the finder is attuned only to the one who wove the [[weave]]. {{ref/book|11|16}}[[Moiraine Damodred]] also states that it helps make the subject more compliant, presumably containing a weak echo of the compulsion-like effect caused by the [[Warder]] [[Bonding|bond]] as well.
+
+==Uses==
+[[Moiraine Damodred]] used a finder weave on three coins that she gave to [[Rand al'Thor]], [[Matrim Cauthon]], and [[Perrin Aybara]] when she first met them, so that she could easily find them.{{ref/book|1|2}}
+
+[[Elayne Trakand]] also placed a finder weave upon [[Samwil Hark]] to ensure that he would not run from the law again for the time being.{{ref/book|11|16}}
+
+{{notes}}
+{{short}}
+[[Category:Weaves]]

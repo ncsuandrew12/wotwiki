@@ -1,0 +1,22 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px
+| status=Alive
+| gender=Male
+| affiliation=Rand al'Thor
+| occupation=Asha'man
+| rank=Asha'man
+| appeared={{amol|24}}
+| lastappeared={{amol|24}}
+| living=amol
+}}
+'''Awlsten''' is an [[Asha'man]] with the rank of Asha'man.{{Ref|{{twotc}}, Awlsten}}
+
+== Activities ==
+Awlsten fought in [[Maradon]] under [[Rodel Ituralde]]'s command. He again fights for him, this time at [[Shayol Ghul]]. Ituralde gets him to give the signal when their forces are to engage the [[Trolloc]] army.
+
+Atop the pass leading into [[Thakan'dar]], he signaled the [[Aiel]] to roll boulders and burning logs down on to the [[Shadowspawn]].
+
+{{Notes}}
+{{Short}}
+[[Category:Channelers]]

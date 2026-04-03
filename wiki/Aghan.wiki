@@ -1,0 +1,21 @@
+{{ character 
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive 
+| nationality=Saldaean
+| occupation=Soldier
+| affiliation=Davram Bashere
+| gender=Male
+| appeared={{Kod|27}}
+| lastappeared={{kod|27}}
+| living=kod
+}}
+'''Aghan''' is a [[Saldaean]] under the command of [[Davram Bashere]]. 
+
+== Appearance ==
+He has a thick mustache.
+
+== Activities ==
+He is one of the Saldaeans to accompany Bashere and [[Rand al'Thor]] to Rand's meeting with the [[Daughter of the Nine Moons]]. During this meeting it is revealed that the supposed Daughter of the Nine Moons is actually [[Semirhage]] in disguise. After a fight insues, he is asked to secure the area by Bashere.
+
+{{short}}

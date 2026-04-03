@@ -1,0 +1,23 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tairen
+| occupation=Innkeeper
+| gender=Male
+| build=Lean
+| hair=Balding
+| eyes=Dark
+| appeared={{Kod|21}}
+| lastappeared={{kod|21}}
+| living=kod
+}}
+'''Agardo Saranche''' is the innkeeper of [[The Dragon]].
+
+==Appearance==
+He is a lean man who is balding. His complexion is nearly as fair as a [[Cairhien]]in. He has dark eyes.
+
+==Activities==
+When [[Rand al'Thor]] and his company, including [[Cadsuane Melaidhrin]], [[Min Farshaw]], [[Nynaeve al'Meara]] and [[Alivia]] come to [[Tear]], they rent a room at Master Saranche's inn. When Rand only wants one room, Saranche's thoughts go to impropriety. When Rand says that he wants the largest room, and one with a view of the [[Stone of Tear|Stone]], Saranche says that all of his large rooms are taken and offers to escort them to [[The Three Moons]]. Cadsuane then reveals herself as [[Aes Sedai]] to force Saranche to give them a room, but well paid for by Rand. 
+
+{{DEFAULTSORT:Saranche, Agardo}}

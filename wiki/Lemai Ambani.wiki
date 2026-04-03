@@ -1,0 +1,42 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| status=Alive
+| appeared={{wh|p}}
+| lastappeared={{cot|p}}
+| living=cot
+}}'''Lemai Ambani''' is an [[Aes Sedai]] of the [[Red Ajah]].{{ref|{{twotc}}, Lemai Ambani|comp}}
+
+== History ==
+Lemai spent six years as [[novice]] and eight as [[Accepted]].
+She remained loyal to the [[White Tower]] during the [[White Tower Schism|White Tower schism]].
+
+== Strength and Abilities ==
+Lemai is [[Strength in the One Power among Aes Sedai|strong]] in the [[One Power]], with a strength level of {{opsl|21}}.{{ref||comp}} She is the strongest among the fifty-one Aes Sedai captured at the [[Black Tower]], with only [[Desandre Alraed]] being as strong.{{ref/book|9|p}} In the hierarchy, Lemai is slightly behind Desandre, being referred to her as "second" to her. This is because she spent longer in training.{{ref||comp}}
+
+== Activities ==
+She was one of [[Toveine Gazal]]'s group of fifty-one sisters sent by [[Elaida do Avriny a'Roihan]] to destroy the [[Black Tower]].{{ref/book|7|p}} They were all captured and bonded involuntarily by the [[Asha'man]].{{ref/book|8|26}} In particular Lemai was bonded by [[Morly Hardlin]].
+
+Elaida abandons the Aes Sedai sent to capture the Black Tower, including Lemai, at [[Alviarin Freidhen]]'s suggestion.{{ref/book|7|32}}
+
+[[Gabrelle Brawley]] convinces Toveine that they must publicly submit themselves to Lemai and Desandre, the two sisters who stand the highest among the captured Aes Sedai; Gabrelle says this is necessary to ensure that the captured Aes Sedai remain united.{{ref/book|9|p}}
+
+Lemai and Desandre initiate orders that all captive sisters must achieve cordial status in the relationships with their captors in a ploy to lull the men into becoming amenable to them.{{ref/book|10|p}}
+
+Toveine deeply dislikes taking orders from them.{{ref/book|10|p}}
+
+As most Aes Sedai in this group it can be guessed that also Lemai was [[Turned]] to the Shadow along her Asha'man.
+
+{{notes}}
+{{DEFAULTSORT:Ambani, Lemai}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:The Turned]]
+[[Category:Aes Sedai]]

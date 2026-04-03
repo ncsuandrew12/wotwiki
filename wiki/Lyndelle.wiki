@@ -1,0 +1,23 @@
+{{ character
+| image=AndorFlag.png
+| imagesize=250px
+| ewothist=Lyndelle
+| nationality=Andoran
+| death={{Ne|30}}
+| rank=Queen of Andor
+| title=Queen
+| affiliation=Andor
+| gender=Female
+| status=Dead
+| mentioned={{Loc|26}}
+| lastmentioned={{loc|26}}
+}}
+'''Lyndelle''' was the ninth Queen of [[Andor]], succeeding Queen [[Morrigan]] in {{Fy|1114}}. It is not known if Lyndelle was Morrigan's daughter, but it is known that she was also a descendant of Queen [[Ishara Casalain]], the founder of the kingdom of Andor. 
+
+== History ==
+Lyndelle was the final Queen of Andor to reign during the [[War of the Hundred Years]], and is considered the last 'formative' queen of the kingdom.
+
+By the end of Lyndelle's reign, the current laws regarding the succession in Andor were firmly in place, specifying that only Queens can rule Andor and they must be Andoran-born and descended from [[Ishara Casalain|Ishara]], the founder of the realm. Furthermore, the [[Daughter-Heir]] must be sent to study the art of rule and politics from the [[Aes Sedai]] in [[Tar Valon]] and the eldest son of the Queen must be sent to study the art of warfare from the [[Warder]]s, to better defend his sister and lead the armies of Andor in battle. All of these stipulations had already been followed since Ishara's day, but only due to necessity from the war. They were followed, apparently without deviation (save when one noble house succeeded another), until the time of Queen [[Morgase Trakand]] almost a thousand years later.
+
+Lyndelle ruled for fifty-one years and died in {{Ne|30}}. The name of her successor is not recorded.
+[[Category:Historical people]]

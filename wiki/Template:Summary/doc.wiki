@@ -1,0 +1,42 @@
+==Purpose of template==
+
+
+==How to use==
+
+==Examples==
+
+<pre>
+{{summary | book=NS | wotmania=477
+|chapter=1
+|prev=New Spring
+|title=The Hook
+|icon=lans helmet
+|setting=the fields outside [[Tar Valon]]
+}}
+</pre>
+
+{{summary | book=NS | wotmania=477
+|chapter=1
+|prev=New Spring
+|title=The Hook
+|icon=lans helmet
+|setting=the fields outside [[Tar Valon]]
+}}
+
+<pre>
+{{summary | book=New Spring | wotmania=477
+|chapter=1
+|prev=New Spring
+|title=The Hook
+|icon=lans helmet
+|setting=the fields outside [[Tar Valon]]
+}}
+</pre>
+
+{{summary | book=New Spring | wotmania=477
+|chapter=1
+|prev=New Spring
+|title=The Hook
+|icon=lans helmet
+|setting=the fields outside [[Tar Valon]]
+}}

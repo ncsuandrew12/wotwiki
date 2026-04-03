@@ -1,0 +1,20 @@
+{{ character 
+| image=BOTRH icon.jpg
+| ewot=Mendair
+| death={{ne|1000}}
+| nationality=Unknown nationality
+| rank=Redarm
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| status=Dead
+| mentioned={{loc|47}}
+| appeared={{acos|37}}
+| lastappeared={{acos|38}}
+}}
+'''Lawdrin Mendair''' was a [[Redarm]] in the [[Band of the Red Hand]].
+
+== Activities ==
+He had a drinking problem and was told to tip out all his brandy on the way to [[Ebou Dar]]. While in the Rahad in Ebou Dar he was killed by the ''[[gholam]]'' trying to locate the [[Bowl of the Winds]].
+
+{{DEFAULTSORT:Mendair, Lawdrin}}

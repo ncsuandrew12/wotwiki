@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = An [[Algai'd'siswai]].
+| Source             = ''[[The Wheel of Time Roleplaying Game]]''
+| Artist             = Matt Wilson
+}}
+[[Category:Featured images]]

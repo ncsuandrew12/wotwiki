@@ -1,0 +1,17 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| name=Malan
+| status=Dead
+| race=Ogier
+| gender=Male
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}
+'''Malan son of [[Senar]]''' was an [[Ogier]] who lived shortly after the [[Breaking of the World]].
+
+==History==
+Malan's son [[Aran]] was born in {{ab|50}}, and would go on to become an acclaimed Ogier writer. Given his son's birth date, it is likely that Malan was born during the Breaking itself.{{ref/book|bwb}}
+
+{{notes}}
+{{short}}

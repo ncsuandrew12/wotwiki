@@ -1,0 +1,2 @@
+* The navigation sidebar's header must be in lowercase, and cannot accept any wiki markup (italics, wikilinks, etc). 
+** This prevents many suggestions from being used; MediaWiki 1.5 may fix this. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 17:21, 2 Nov 2005 (UTC)

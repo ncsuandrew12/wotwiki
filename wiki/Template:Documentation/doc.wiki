@@ -1,0 +1,73 @@
+<noinclude>{{Documentation subpage}}</noinclude>
+== Description ==
+This is the {{tlx|documentation}} template, used on many [[Help:Templates|templates]] for displaying instructions, information, [[mw:Help:TemplateData]], and such. See [[Help:Template documentation]] for additional information.
+
+This template displays two headers like you see now, with the documentation tools at the top, and a link box at the bottom. It automatically loads content from the /doc subpage.
+
+== General usage ==
+<pre style="white-space: pre-wrap;">
+<includeonly>Template code
+Any categories to be inserted into articles by the template</includeonly><noinclude>
+{{documentation}}</noinclude>
+</pre>
+
+Note that, depending on the template, you may need to add a clear or complete a table/div just before <code>{{t|documentation}}</code> is inserted (within the noinclude tags).
+
+The line break is also useful as it helps prevent the documentation template "running into" previous code.
+
+== TemplateData ==
+<templatedata>
+{
+	"description": {
+		"en": "This template is used to insert descriptions on template pages."
+	},
+	"format": "inline",
+	"params": {
+		"1": {
+			"label": {
+				"en": "Custom Documentation Page"
+			},
+			"description": {
+				"en": "Page containing the documentation"
+			},
+			"default": "{{FULLPAGENAME}}/doc",
+			"type": "wiki-page-name"
+		},
+		"heading": {
+			"label": {
+				"en": "Heading"
+			},
+			"description": {
+				"en": "Custom heading"
+			},
+			"default": {
+				"en": "[[File:Template-icon.svg|50px|link=|alt=Documentation icon]] Documentation"
+			},
+			"type": "line",
+			"autovalue": ""
+		},
+		"preload": {
+			"label": {
+				"en": "Preload Page"
+			},
+			"description": {
+				"en": "The page to preload if the `/doc` subpage doesn't exist."
+			},
+			"default": "Template:Documentation/preload",
+			"type": "wiki-page-name"
+		},
+		"content": {
+			"label": {
+				"en": "Content"
+			},
+			"description": {
+				"en": "Custom documentation content, prevents transclusion of `/doc` subpage."
+			},
+			"type": "content"
+		}
+	}
+}
+</templatedata>
+<noinclude>
+[[Category:Template documentation]]
+</noinclude>

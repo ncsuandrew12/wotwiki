@@ -1,0 +1,30 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Altaran
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| status=Alive
+| birth = {{ne|973}}
+| mentioned={{loc|13}}
+| lastmentioned={{loc|13}}
+| living=loc
+}}'''Keatlin''' is a [[novice]] in [[Salidar]].{{ref|{{twotc}}, Keatlin|Keatlin}} Her potential strength is 
+
+==Strength and Abilities==
+Keatlin is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] potential of {{opsl|31}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.{{ref||Keatlin}} 
+
+Since she has only been channeling less than a year, she is a long way from reaching her potential.
+
+==History==
+She was born in {{ne|973}} in Altara.{{ref||Keatlin}}
+
+== Activities ==
+She was recruited by the Rebels in Altara.
+
+She complains about [[Nynaeve al'Meara]] teaching her class; being older than Nynaeve, she didn't like being ordered around by her or Elayne.
+
+{{notes}}
+{{short}}
+[[Category:Rebel Aes Sedai]]

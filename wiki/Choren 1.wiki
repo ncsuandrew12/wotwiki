@@ -1,0 +1,19 @@
+<noinclude>{| align="right"
+|{{Month|September}}
+|{{Wotmonth|Choren}}
+|}
+'''Choren 1 (September 1)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Siuan]]'s party arrive in [[Salidar]]. [[Gareth Bryne]] follows them in, and agrees to lead the army of the Salidar [[Aes Sedai]] against [[Elaida]].
+*{{ne|999}} - [[Rand]]'s forces arrive at Eianrod. [[Isendre]] is murdered by [[Kadere]].
+*{{ne|999}} - [[Estean]] and [[Edorion]] arrive at Eianrod, telling of [[Couladin]] and the [[Shaido]] besieging [[Cairhien]].
+*{{ne|999}} - [[Rand]] and [[Aviendha]] take an unplanned detour. They confront Morsa and her [[Seanchan]] before escaping back to [[Cairhien]].
+*Recurring - [[Festival of Lanterns]].
+<noinclude>
+==External links==
+*[[wikipedia:september 1|September 1]]
+
+</noinclude><noinclude>
+[[Category:Dates]]</noinclude>

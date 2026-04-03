@@ -1,0 +1,264 @@
+Long-time fans of the series on social media discussions of the series often use various initialisms, abbreviations, acronyms, and nicknames to easily reference various names, books, or concepts. Here's a list of common and less common initialisms and abbreviations.
+
+== Common ==
+
+{| class="article-table sortable" 
+|+
+! data-sort-type="text" |Abbreviation
+! data-sort-type="text" |Meaning
+! data-sort-type="text" |Notes
+|-
+|AoL
+|[[Age of Legends]]
+|Second Age
+|-
+|Avi
+|[[Aviendha]]
+|
+|-
+|DO
+|[[Dark One]]
+|
+|-
+|EF5
+|[[Emond's Field]] Five
+|[[Rand al'Thor]], [[Mat Cauthon]], [[Perrin Aybara]], [[Egwene al'Vere]], [[Nynaeve al'Meara]]
+|-
+|Eg, Egg, Eggy
+|[[Egwene al'Vere]]
+|
+|-
+|EWoT
+|[[Encyclopedia WoT]]
+|
+|-
+|Finn
+|[[Aelfinn]] and [[Eelfinn]]
+|
+|-
+|Ishy
+|[[Ishamael]]
+|
+|-
+|LTT
+|[[Lews Therin Telamon]]
+|
+|-
+|Mog, Moggy
+|[[Moghedien]]
+|
+|-
+|Nyn
+|[[Nynaeve al'Meara]]
+|
+|-
+|RAFO
+|[[RAFO|Read And Find Out]]
+|
+|-
+|RJ
+|[[Robert Jordan]]
+|
+|-
+|SL
+|[[Shadar Logoth]]
+|
+|-
+|TAR
+|[[Tel'aran'rhiod]]
+|
+|-
+|TR
+|(The) [[Two Rivers]]
+|
+|-
+|WoT
+|(The) [[The Wheel of Time|Wheel of Time]]
+|
+|-
+|OP
+|[[One Power]]
+|
+|-
+|TP
+|[[True Power]]
+|
+|-
+|TV
+|[[Tar Valon]]
+|
+|}
+
+=== Books ===
+
+{| class="article-table sortable" 
+|+
+! data-sort-type="text" |Abbreviation
+! data-sort-type="text" |Meaning
+! data-sort-type="text" |Notes
+|-
+|NS
+|{{0}}
+|prequel
+|-
+|tEotW
+|{{1}}
+|Book 1
+|-
+|TGH
+|{{2}}
+|Book 2
+|-
+|tDR
+|{{3}}
+|Book 3
+|-
+|TSR
+|{{4}}
+|Book 4
+|-
+|TFoH
+|{{5}}
+|Book 5
+|-
+|LoC
+|{{6}}
+|Book 6
+|-
+|aCoS
+|{{7}}
+|Book 7
+|-
+|TPoD
+|{{8}}
+|Book 8
+|-
+|WH
+|{{9}}
+|Book 9
+|-
+|CoT
+|{{10}}
+|Book 10
+|-
+|KoD
+|{{11}}
+|Book 11
+|-
+|TGS
+|{{12}}
+|Book 12
+|-
+|ToM
+|{{13}}
+|Book 13
+|-
+|AMoL
+|{{14}}
+|Book 14
+|-
+|BWB, TWORJTWOT
+|Big White Book, {{bwb}}
+|
+|-
+|TWOTC, Companion
+|{{twotc}}
+|
+|}
+
+==Less common==
+
+{| class="article-table sortable" 
+|+
+! data-sort-type="text" |Abbreviation
+! data-sort-type="text" |Meaning
+! data-sort-type="text" |Notes
+|-
+|-
+|BotW
+|[[Breaking of the World]]
+|
+|-
+|BS
+|Brandon Sanderson
+|better to use just Brandon or just Sanderson
+|-
+|BT
+|[[Black Tower]]
+|
+|-
+|FM
+|[[Far Madding]]
+|
+|-
+|DM
+|[[Dragonmount]]
+|Overloads standard internet abbreviation for "Direct Message" that is also used.
+|-
+|GAFC
+|Goodness, Another Faile Chapter
+|see PLOD
+|-
+|GOI
+|Gap of Infinity/"in between"
+|Dark void "above" [[TAR]] where individual's dreams appear as spheres of light
+|-
+|HotH
+|[[Heroes of the Horn]]
+|
+|-
+|MAFO
+|(Ask) [[Maria Simons|Maria]] And [[RAFO|Find Out]]
+|
+|-
+|RHD
+|[[Ruby-hilted dagger]]
+|
+|-
+|PLoD
+|Plot Line of Doom
+|{{Link|https://www.tor.com/2018/03/05/top-five-worst-moments-of-the-wheel-of-time/|Shaido and Faile, Worst Moment No. 3}}
+|-
+|SG
+|[[Shayol Ghul]]
+|
+|-
+|TG
+|[[Tarmon Gai'don]]
+|
+|-
+|TV
+|[[Tar Valon]]
+|
+|-
+|WC
+|[[Children of the Light|White(c)loaks]]
+|
+|-
+|WG
+|Wonder Girls
+|[[Egwene al'Vere]], [[Nynaeve al'Meara]], [[Elayne Trakand]] (possibly including [[Aviendha]] and/or [[Min Farshaw]])
+|-
+|WO
+|[[Wise Ones]]
+|
+|-
+|WoP
+|[[War of Power]]
+|
+|-
+|WT
+|[[White Tower]]
+|
+|-
+|YAHTSYB
+|"[[Hopper|You are here too strongly]], [[Young Bull]]."
+|Typically directed at people who haven't finished the series and are treading spoiler-infested waters.
+|}
+
+== See also ==
+
+{{Link|https://dragonmount.com/forums/topic/48903-forum-rules-online-resources-amol-faq-and-fan-abbreviations-all-read/|Equivalent Dragonmount forum post)}}
+
+[[Category:Real-world content]]
+[[Category:Reference]]

@@ -1,0 +1,18 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Altaran
+| title=Lady
+| gender=Female
+| mentioned={{Kod|21}}
+| lastmentioned={{kod|21}}
+}}
+'''Deirdru''' was a minor [[Altaran]] noblewoman.
+
+==History==
+She was a minor Altaran noblewoman with estates in nothern Altara.
+
+==Activities==
+She was the owner of the manor house in which the [[Dragon Reborn]] was to meet with the [[Daughter of the Nine Moons]]. This was, however, a trap set by [[Semirhage]]. It is assumed that the Lady Deirdru was murdered by Semirhage, as evidenced by the several rooms with bloodstained carpets in them.
+[[Category:Nobility]]

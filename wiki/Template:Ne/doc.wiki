@@ -1,0 +1,29 @@
+==Purpose of template==
+
+Link to calendar pages.
+
+==How to use==
+
+{| class="wikitable"
+| Example input
+| Output
+|-
+| <nowiki>{{ne}}</nowiki>
+|         {{ne}}
+|-
+| <nowiki>{{ne|998}}</nowiki>
+|         {{ne|998}}
+|-
+| <nowiki>{{ne|998|Choren}}</nowiki>
+|         {{ne|998|Choren}}
+|-
+| <nowiki>{{ne|998|Choren|17}}</nowiki>
+|         {{ne|998|Choren|17}}
+|-
+| <nowiki>{{ne|Choren}}</nowiki>
+|         {{ne|Choren}}
+|-
+| <nowiki>{{ne|998|17}}</nowiki>
+|         {{ne|998|17}}
+|-
+|}

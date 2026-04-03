@@ -1,0 +1,9 @@
+{{swordform 
+| mentioned={{2|45}}
+| used=[[Turak Aladon]], [[Galadedrid Damodred]] or [[Eamon Valda]]
+}}
+{{dablink|For other uses of the word "leaf," see [[Leaf]].}}
+'''Leaf on the Breeze''' is a [[sword form]]. Other than the name, nothing is known about it. [[Turak Aladon]] used this form against [[Rand al'Thor]] during their fight in [[Falme]]. Rand countered with [[Lightning of Three Prongs]].{{ref/book|2|45}} Either [[Galadedrid Damodred]] or [[Eamon Valda]] used this form to counter [[Eel Among the Lily Pads]] during their fight.{{ref/book|11|p}}
+
+{{notes}}
+{{short}}

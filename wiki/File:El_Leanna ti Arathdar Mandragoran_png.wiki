@@ -1,0 +1,15 @@
+==Copyright==
+{{CC BY-NC-ND}}
+
+== Summary ==
+Portrait of Leanna uploaded with permission of artist, Nyalesta.
+
+https://www.reddit.com/r/WoT/comments/1g2v013/elleanna_ti_arathdar_mandragoran_by_me/
+
+{{Image
+| License                 = CC BY-NC-ND
+| ImageType1              = Fan Art
+| Description             = Leanna Mandragoran, Malkieri noblewoman
+| Source                  = https://www.reddit.com/r/WoT/comments/1g2v013/elleanna_ti_arathdar_mandragoran_by_me/
+| Artist                  = Nyalesta
+}}

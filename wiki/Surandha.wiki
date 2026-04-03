@@ -1,0 +1,31 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Alive
+| nationality=Aiel
+| occupation=Wise One apprentice
+| affiliation=Car'a'carn
+| gender=Female
+| hair=Dark Golden
+| clan=Unknown clan
+| sept=Unknown sept
+| eyes=Large Blue
+| appeared={{Loc|27}}
+| lastappeared={{loc|33}}
+| living=loc
+}}'''Surandha''' is an [[Wise One apprentice|apprentice]] to the [[Wise One]] [[Sorilea]].
+
+==Appearance==
+She has dark golden hair. She is handsome, with large blue eyes, but is quite beautiful when she laughs. She is about five years older than Egwene. She is a strong channeller who can channel as strongly as many Aes Sedai.{{ref/book|6|27}} Her exact strength level in the power is unknown.{{ref|{{twotc}}, Surandha}}
+
+She is an odd apprentice for Sorilea; she often laughed and was full of fun. However, she jumped when Sorilea even thought "jump".
+
+==Activities==
+The Wise Ones are hard on Surandha because they are angry at [[Rand]] and the [[Shaido]] Wise Ones.
+
+She is part of the group that whips [[Egwene]] for lying about being [[Aes Sedai]]. She was merciless; however, when Egwene meets her ''toh'', Surandha beams at hear as brightly as ever.
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.
+
+{{notes}}
+[[Category:Channelers]]

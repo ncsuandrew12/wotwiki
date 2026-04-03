@@ -1,0 +1,30 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Unknown nationality
+| title=Gaidin
+| hair= Dark
+| gender=Male
+| build= Lean
+| status=Dead
+| death={{ne|1000}}
+| occupation=Warder
+| affiliation=Rebel Aes Sedai
+| appeared={{cot|16}}
+| lastappeared={{cot|16}}
+}}
+'''Setagana''' was [[Warder]] to [[Anaiya]] Sedai.
+
+==Appearance==
+He was lean and dark, and considered beautiful for a man. {{ref/book|10|16}}
+
+==Activities==
+He is one in the group of Warders that accompany Egwene and Anaiya when they survey the area around [[Tar Valon]]. {{ref/book|10|16}}
+
+He was murdered, along with Anaiya, by [[Aran'gar]] with ''[[saidin]]''. Their bodies were found in the snow. 
+
+Egwene wants [[Nisao Dachen]] to find out why Anaiya and he were out while everyone else was sleeping.
+
+{{Notes}}
+
+[[es:Setagana]]

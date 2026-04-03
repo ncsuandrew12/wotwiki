@@ -1,0 +1,7 @@
+I have a query about the templates used for the character listing in the wiki. The template automatically gives a link to the EWoT page on that character. I'd like to use the template because is looks good on the character pages, but I'm not too sure because it always links to EWoT. What is the official position on this? Does EWoT mind that we link to their articles if we used that template on all character entries? 
+[[User:Moridin 2000|Moridin 2000]] 15:08, 11 November 2008 (UTC)Moridin_2000
+:I'm certain that they don't mind us ''linking'' to their site; what they would have a problem with is us copying their entries wholesale. I encourage use of the template variable. :) -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 21:07, 14 January 2009 (UTC)
+
+==Brandon Sanderson's blog entries==
+
+Per [[User_talk:Mainphramephreak#Brandon_Sanderson_Blog_Posts|Peter Ahlstrom's comments]] I see we have started using a copyrighted disclaimer. However under a strict reading of the [[wikia:Community_Central:Licensing|Wikia copyrights page]] I don't think that will cut it. There is '''no exception made''' for "more restrictive copyrights". Thus I have begun deleting the blog post mirrors; if we do find that there is a way to carve out an exception, great, we can restore or redo the posts in some fashion, but we have a legal requirement to abide by Mr. Ahlstrom's request as Brandon's assistant. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 17:19, September 28, 2012 (UTC)

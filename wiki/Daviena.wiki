@@ -1,0 +1,31 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| occupation=Wise One
+| gender=Female
+| hair=Yellow-Red
+| eyes=Green
+| clan=Unknown clan
+| sept=Unknown sept
+| status=Alive
+| appeared={{tpod|p}}
+| lastappeared={{tpod|p}}
+| living=tpod
+}}'''Daviena''' is an [[Aiel]] [[Wise One]].{{ref|{{twotc}}, Daviena}} Her clan and sept are unknown.
+
+==Appearance==
+She is green-eyed with yellow-red hair.
+
+==Strength and Abilities==
+Daviena is not particularly strong in ''[[saidar]]''. In TWoTC her strength level is described as {{opsl|36}}, which is a middle ranking level among [[Aes Sedai]].
+
+This strength is not enough to open alone a gateway for [[Travel]]ing.
+
+==Activities==
+She is one of the Wise Ones who are supervising the [[Aes Sedai]] held prisoner by the Aiel in [[Cairhien]]. She can channel and she links with [[Losaine]] to maintain a [[shield]] on [[Turanna]].
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.
+
+{{notes}}
+[[Category:Channelers]]

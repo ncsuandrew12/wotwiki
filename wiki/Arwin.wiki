@@ -1,0 +1,17 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| affiliation=Younglings
+| gender=Male
+| appeared={{Loc|p}}
+| lastappeared={{loc|p}}
+| living=loc
+}}'''Arwin''' is a [[Younglings|Youngling]] under [[Gawyn Trakand|Gawyn Trakand's]] command.{{ref|{{twotc}}, Arwin}}
+
+== Activities ==
+He is with Gawyn when they are sent to act as escort for a group of [[Aes Sedai]] that make an alliance with the [[Shaido]].
+
+{{notes}}
+{{short}}

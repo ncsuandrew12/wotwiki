@@ -1,0 +1,95 @@
+I know a couple of them aren't quite as pretty as they could be yet, but let me know if I've missed any chapter icons... [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 04:40, 22 Nov 2005 (UTC)
+* Nice work.  Another idea I had for a logo would be to array some or all of these into a collage. --[[User:Gherald|Gherald]] 15:23, 22 Nov 2005 (UTC)
+
+*Currently missing are the last three icons at [http://tinyurl.com/7eh3c], as well as the two new icons in ''[[Knife of Dreams]]''. Also ''[[New Spring]]'' has a whole slew of new chapter icons that are not here. [[User:Eric119|Eric119]] 23:31, 30 Nov 2005 (UTC)
+** Thanks Eric; that's exactly the sort of list I was looking for. I've got koD but haven't read it yet, so after i get done, I'll scan in the new ones there and the ones I'm missing that you listed from WH and NS. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 16:31, 1 Dec 2005 (UTC)
+
+== Harp Twice ==
+
+I just noticed that the "Harp" image is used twice on this page.  Also, the three images that were mentioned previously by another memeber haven't been uploaded yet.
+
+== Clean-up ==
+
+Okay, here is a list of what I think can be cleaned up. This is only my opinion, so feel free to discuss before anything is done.
+
+The following items could probably be deleted. 
+*File:Snake fox.GIF - png file loaded
+*File:Snake fox.gif - png file loaded
+*File:Falcon.gif - png file loaded, will need to change [[Faile Bashere]] and {{tl|F/28}}
+*File:Finn.svg - png file loaded, will need to change [[Finn]]
+*File:Fish.PNG - (small) png file loaded
+*[[:File:Gulls-icon.svg]] - png file loaded
+*File:Harp bw.gif - png file loaded
+*[[:File:Harp-icon.svg]] - png file loaded
+*[[:File:Ravens-icon.svg]] - png file loaded
+*[[:File:Waves-icon.svg]] - png file loaded
+
+The reason I listed the svg files are because the template for the chapters will only load the png file. Also, [[:File:Leaf-icon.png]] and File:Vine-icon.png are the same image. I will have to look at which one would be easier to change. Another thing, I know that File:Tairen-icon.jpg and [[:File:Tairen-icon.png]] were created mainly to show on the Tairens' pages, but we have a flag for that now. Not sure what to do with those two.
+
+I think that it would be better to have a discussion concerning this first before anything is deleted. Thanks!!! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 09:17, November 8, 2009 (UTC)
+
+Addition: The Vine icon file links to less pages. Here they are for reference: [[Aram]], [[Raen]], [[Ila]], {{Teotw|44}}, {{Teotw|50}}, {{Teotw|52}}. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 09:22, November 8, 2009 (UTC)
+
+:Alright so I deleted all the duplicates. For the svg what I am hoping to do is change the template so it will check to see if there is a svg file and if not use the png. I really like the svg files they look really nice and can be re-sized and still look good. And for the Tairen icon file I am going to go through all the summaries and attempt to make a page fore each chapter. So the png file will be used. I am going to change all the pages that link to the jpg file to the png.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:29, November 12, 2009 (UTC)
+
+Thing is, there is no Tairen icon in the books. It was created by [[User:Moridin 2000]] for use on Tairen peoples' pages. Don't get me wrong, it looks great!! Just letting you know ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 21:55, November 12, 2009 (UTC)
+
+Yeah, I created that one to fit in with the other templates because I didn't want to use the wheel for all characters that would have no specific icon of their own. I have no problem if it needs replaced because we have a new format.:) Just one question though Optimous: How do the colours work on the new character template? Are they assigned manually or automatically according to group? If manually, you need to be updating the style guide so everything is consistent. If automatically, the style guide is obsolete and that element need deleting. Same goes for the icons used in the character templates. You might also want to look at optimising some of the colour combos used. With the Red Ajah, I think the tones could be darkened somewhat since the banner colours in the lower section are more pink than red. Same with the Tairen ones. I did toy with the idea of coloured icons instead ([[Racelle Arovni]], for example]] but decide against it because the old format was on a white background and all the other icons were black and white. I created the Tairen one after. Some crisp flag images for all the characters in colour (and perhaps less garish) would be pretty cool and would look great. I would even suggest some heraldry image on specific characters if that is at all possible with the template.
+
+[[User:Moridin 2000|Moridin_2000]] 00:09, November 13, 2009 (UTC)
+
+Wow you really made that? It looks perfectly like the other chapter art. Good job. But yeah I say we keep it for the Tairen Characters. The heraldry image sounds great. I know the website thirteenth depository has a whole bunch of sigils in color we could use if we get permission. I can send the guys over there a quick email asking if it would be alright. If not I can make some for each type of character. So the colors. Yeah I did not put a whole bunch of thought into the colors I just was like, Yeah sure black for darkfriends sounds good, and picked a random shade of the colors. It is automatically chosen according to group. Here is the hierarchy:
+<pre><nowiki>{{#switch:{{{ajah|}}}|Blue|blue=#4040ff|Green|green=#429346|Yellow|yellow=#fffd40|Red|red=#ff4040|Unknown|White|white=#ffffcc|Gray|gray=#6f6f6f|Brown|brown=#7e6731|Black|black=#181818|{{#switch:{{{race|}}}|Ogier|ogier=#1b9123|{{#switch:{{{rank|}}}|Chosen|chosen=#000000|Accepted|accepted=#ff7800|Novice|novice=#663399|{{#switch:{{{affiliation|}}}|Darkfriend|darkfriend=#181818| The Kin|the kin=#663399|Children of the Light|children of the light=#ffcc00|Two Rivers|two rivers=#1eff00|{{#switch:{{{occupation|}}}|Warder|warder=#556633|Asha’man|asha’man=#000000|{{#switch:{{{nationality|}}}|Altara|Altaran=#2b40aa|Amadicia|Amadician=#1c2ca4|Andor|Andoran=#d81414|Arad Doman|Domani=#008903|Arafel|Arafellin=#007e03|Kandor|Kandori=#b82424|Malkier|Malkieri=#000000|Saldaea|Saldaean=#00156e|Shienar|Shienaran=#489acd|Cairhien|Cairhienin=#3295ff|Ghealdan|Ghealdanin=#b11a1a|Illian|Illianer=#006500|Murandy|Murandian=#0e0095|Tarabon|Taraboner=#bb0101|Tear|Tairen=#a2871c|Mayene|Mayener=#0050a0|#94C7D1}}}}}}}}}}}}
+
+{{#switch:{{{ajah|}}}|Blue|blue=#8e8eff|Green|green=#69b86d|Yellow|yellow=#fffe8e|Red|red=#ff8e8e|Unknown|White|white=#FFFFFF|Gray|gray=#c2c2c2|Brown|brown=#b89669|Black|black=#505050|{{#switch:{{{race|}}}|Ogier|ogier=#a4673e|{{#switch:{{{rank|}}}|Chosen|chosen=#FFFFFF|Accepted|accepted=#ffa352|Novice|novice=#ab57ff|{{#switch:{{{ affiliation|}}}|Darkfriend|darkfriend=#505050|The Kin|the kin=#ab57ff|Children of the Light|children of the light=#ffff00|Two Rivers|two rivers=#60ff4b|{{#switch:{{{occupation|}}}|Warder|warder=#98b45f|Asha’man|asha’man=#FFFFFF|{{#switch:{{{nationality|}}}|Altara|Altaran=#ffff33|Amadicia|Amadician=#9ca0b6|Andor|Andoran=#dc6868|Arad Doman|Domani=#c4e8c4|Arafel|Arafellin=#dc3e3e|Kandor|Kandori=#4dff51|Malkier|Malkieri=#ffea00|Saldaea|Saldaean=#8f90a6|Shienar|Shienaran=#ffffff|Cairhien|Cairhienin=#ffff61|Ghealdan|Ghealdanin=#dbdbdb|Illian|Illianer=#ffff48|Murandy|Murandian=#ff6363|Tarabon|Taraboner=#ffde00|Tear|Tairen=#f15959|Mayene|Mayener=#ff7f4d|#D6F0F5}}}}}}}}}}}}</nowiki></pre>
+Here is it in english non-wiki code:
+----
+:1. Check: '''Ajah?'''
+::Yes? 
+:::Chooses the appropriate color for the specific ajah. 
+::::First Color(Dark):|Blue|blue=#4040ff|Green|green=#429346|Yellow|yellow=#fffd40|Red|red=#ff4040|Unknown|White|white=#ffffcc|Gray|gray=#6f6f6f|Brown|brown=#7e6731|Black|black=#181818|
+::::Second Color(Lighter):|Blue|blue=#8e8eff|Green|green=#69b86d|Yellow|yellow=#fffe8e|Red|red=#ff8e8e|Unknown|White|white=#FFFFFF|Gray|gray=#c2c2c2|Brown|brown=#b89669|Black|black=#505050|
+::No? 
+:::Move on to next group
+:2. Check: '''Race?'''
+::Yes?
+:::Choose the appropriate color for the specific race.
+::::First Color(Dark):|Ogier|ogier=#1b9123|
+::::Second Color(Lighter):|Ogier|ogier=#a4673e|
+::No?
+:::Move on to next group
+:3. Check: '''Rank?'''
+::Yes?
+:::Choose the appropriate color for the specific Rank.
+::::First Color(Dark):|Chosen|chosen=#000000|Accepted|accepted=#ff7800|Novice|novice=#663399|
+::::Second Color(Lighter):|Chosen|chosen=#FFFFFF|Accepted|accepted=#ffa352|Novice|novice=#ab57ff|
+::No?
+:::Move on to next group
+:4. Check: '''Affiliation?'''
+::Yes?
+:::Choose the appropriate color for the specific Affiliation.
+::::First Color(Dark):|Darkfriend|darkfriend=#181818| The Kin|the kin=#663399|Children of the Light|children of the light=#ffcc00|Two Rivers|two rivers=#1eff00|
+::::Second Color(Lighter):|Darkfriend|darkfriend=#505050|The Kin|the kin=#ab57ff|Children of the Light|children of the light=#ffff00|Two Rivers|two rivers=#60ff4b|
+::No?
+:::Move on to next group
+:5. Check: '''Occupation?'''
+::Yes?
+:::Choose the appropriate color for the specific Occupation.
+::::First Color(Dark):|Warder|warder=#556633|Asha’man|asha’man=#000000|
+::::Second Color(Lighter):|Warder|warder=#98b45f|Asha’man|asha’man=#FFFFFF|
+::No?
+:::Move on to next group
+:6. Check: '''Nationality?'''
+::Yes?
+:::Choose the appropriate color for the specific Nationality.
+::::First Color(Dark):|Altara|Altaran=#2b40aa|Amadicia|Amadician=#1c2ca4|Andor|Andoran=#d81414|Arad Doman|Domani=#008903|Arafel|Arafellin=#007e03|Kandor|Kandori=#b82424|Malkier|Malkieri=#000000|Saldaea|Saldaean=#00156e|Shienar|Shienaran=#489acd|Cairhien|Cairhienin=#3295ff|Ghealdan|Ghealdanin=#b11a1a|Illian|Illianer=#006500|Murandy|Murandian=#0e0095|Tarabon|Taraboner=#bb0101|Tear|Tairen=#a2871c|Mayene|Mayener=#0050a0|#94C7D1
+::::Second Color(Lighter):|Altara|Altaran=#ffff33|Amadicia|Amadician=#9ca0b6|Andor|Andoran=#dc6868|Arad Doman|Domani=#c4e8c4|Arafel|Arafellin=#dc3e3e|Kandor|Kandori=#4dff51|Malkier|Malkieri=#ffea00|Saldaea|Saldaean=#8f90a6|Shienar|Shienaran=#ffffff|Cairhien|Cairhienin=#ffff61|Ghealdan|Ghealdanin=#dbdbdb|Illian|Illianer=#ffff48|Murandy|Murandian=#ff6363|Tarabon|Taraboner=#ffde00|Tear|Tairen=#f15959|Mayene|Mayener=#ff7f4d|#D6F0F5
+::No?
+:::Use default colors
+----
+So in other words it checks in this order. If the character has 2 it will use the one that comes first. I kinda tried to put it in most important. If there is another group you think I should add let me know. So the colors were choosen quickly and only based on like colors of the nation or of the past character template. If you have better suggestions for colors for certain type of people I can change it so just let me know.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:22, November 13, 2009 (UTC)
+
+OK, thanks for the detailed explanation! I'm not hot on the wiki code a lot of the time, so that helps a great deal. I'll be able to make some more suggestions when I get settled back in to editing. I worked on the old format and have forgotten how to do some of the things I was doing in May. :P The only one suggestion is, I think, darkening shades on the Red Ajah one would be good. The colours for Andoran characters would work well, maybe even a shade darker.
+
+With regard the heraldry, I know the guys at 13th Depository well from WoTmania, but I dont think Dom would be willing to share. He is a prickly character. I have found a large cache of heraldry images online, however, and it appears to have been the same images he has used in his sigils. You can find it here [http://www.digiserve.com/heraldry/clipart.htm]. I have tinkered around with it and have made a couple of them in the past, mainly the Andoran Houses, so I could go back to it at some stage. [[User:Moridin 2000|Moridin_2000]] 00:05, November 14, 2009 (UTC)
+:Yeah I can darken both of them. Haha prickly eh? That's alright. Yeah that would be sweet I can try and make a couple as well.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 09:50, November 14, 2009 (UTC)

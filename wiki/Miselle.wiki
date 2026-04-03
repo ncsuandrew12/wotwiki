@@ -1,0 +1,19 @@
+{{character 
+| image=MayeneFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Mayener
+| rank=First of Mayene{{!}}Lady First
+| title=First of Mayene
+| gender=Female
+}}
+
+'''Miselle''' was the First of [[Mayene]], although at that time she was called the First Lady. She was the daughter and heir of [[Tyrn sur Paendrag Mashera]] and claimed to be the great-granddaughter of [[Artur Hawkwing]], although this claim was not acknowledged outside of Mayene.
+
+== History ==
+Miselle's father had been given the title of First Lord as a ceremonial position, the title was changed so that Miselle wielded real authority and power. Her position became more akin to that of the First of Mayene today. Although a strong council maintained the day-to-day running of the bureaucracy and a number of advisors called Seconds aided her, Miselle effectively became the ruler of the city and a symbol of the city's continued claims for independence in the face of claims of sovereignty over the city by [[Tear]].
+
+Miselle ruled after her father's death from a fever in {{Fy|1054}}, during the height of the [[War of the Hundred Years]]. It is unknown how long Miselle ruled for, or when she died.
+
+The current ruler of Mayene, [[Berelain sur Paendrag Paeron]], claims to be a direct descendant of Miselle and, though her, the Hawkwing.
+[[Category:Historical people]]

@@ -1,0 +1,55 @@
+[[File:Telaran-icon.svg|100px|thumb|right|''Tel'aran'rhiod'' chapter icon]]
+{{dablink|Not to be confused with the ability to have prophetic dreams known as  [[Dreaming]].}}The Talent to enter ''[[Tel'aran'rhiod]]'' at will, '''Dreamwalking''', is an ability unrelated to the [[One Power]] found in both channelers and non-channelers. 
+The terms "Dreamwalker" and "Dreamwalking" are not always capitalised.
+
+==Talent Definition and Abilities==
+Dreamwalking is related to, but distinct from, the Talent of Dreaming via ''Tel'aran'rhiod''.<ref>[https://www.theoryland.com/intvmain.php?i=60 East of the Sun Con, 16 June 1995, Q27]</ref> Not all Dreamers can Dreamwalk and not all Dreamwalkers are Dreamers, although the latter is "generally" the case.{{Ref|{{twotc}}, Dreamers}}<ref>[https://www.theoryland.com/intvmain.php?i=123 SciFi.com Chat, 12 Nov 2000, Q24]</ref>
+
+Experienced Dreamwalkers also have the ability to enter the dreams of others, though doing this is extremely dangerous. They can also be drawn into the dreams of others against their will, but only where the Dreamwalker is untutored or in very exceptional circumstances. Egwene asks the Wise Ones about this when she is pulled into [[Gawyn Trakand|Gawyn's]] dream. Bair says that "Leaving the dream of someone who hates you, or loves you...is like trying to climb from a deep pit with sheer sides." This is the reason why the Wise One Dreamwalkers do not attempt look at the dreams of [[Sevanna]] or the [[Shaido]] Wise Ones or the dreams of their husbands.{{ref/book|6|15}}
+
+Channelers have the ability to ward their dreams and the dreams of those around them from such invasions. The [[Forsaken]] have said such wards can be broken, but the results of such a break is unknown. Lanfear told to Rand after he learned how to ward his dreams that ''"I can break through your warding. You would not like it."'' {{ref/book|5|6}}
+
+While both men and women are capable of Dreamwalking, it is very rare among men. Although several Wolfbrothers have the ability to enter Tel'aran'rhiod, this a very recent phenomenon and can still be considered a predominantly female Talent.
+
+==Aiel Dreamwalkers==
+[[File:AmysBairMelaine.jpg|thumb|150px|Dreamwalkers Amys, Bair and Melaine by Ariel Burgess]]The [[Aiel]] [[Wise Ones]] are known to use Dreamwalking as a method of communication between the clans. At the beginning of the books, there were only four Aiel Dreamwalkers: [[Amys]], [[Bair]], [[Melaine]] and [[Seana]]. Seana was killed by a [[Draghkar]] at [[Cold Rocks Hold]], reducing the number to three.{{Ref/book|4|50}} 
+
+==Aes Sedai Dreamwalkers==
+In the [[White Tower]], the Talent of Dreamwalking is so rare that it considered all but lost. According to [[Moiraine Damodred]], the last known Dreamwalker in Tar Valon was almost a thousand years ago.{{Ref/book|1|42}}{{ref|{{twotc}}, Dreamwalking|dreamwalking}} This is likely the [[Amyrlin]] [[Doniella Alievin]], who died in {{ne|363}}.{{ref|{{twotc}}, Doniella Alievin}}
+
+[[File:Egwene in TAR.jpg|thumb|left|150px|Egwene al'Vere in tel'aran'rhiod]]In conflict with this being the last Dreamwalker is [[Corianin Nedeal]], who died in {{ne|526}}. Verin calls her a [[Dreamer]], and says that "a Dreamer.. - a true Dreamer - can enter Tel’aran’rhiod".{{ref/book|3|21}} [[Bair]] also says the Tower "has not produced a dreamwalker in nearly five hundred years".{{Ref/book|4|23}} This would doubtless be Corianin. Regarding Verin's mislabelling, the Wheel of Time Companion notes that Aes Sedai occasionally (although rarely) refer to Dreamwalking as Dreaming.{{ref||dreamwalking}} On the other hand, Corianin was in possession of a [[Sleepweaver]] and studied many others. It is possible that the Wise Ones may not know of the existence of such ter'angreal and Corianin was instead only a Dreamer. Either way, Dreamwalkers are extremely rare among Aes Sedai.
+
+[[Egwene al'Vere]] is the Tower's first Dreamwalker in the modern era. With no Aes Sedai to teach her, she was forced to seek the teaching of the Aiel Wise Ones. 
+
+==Forsaken Dreamwalkers==
+[[File:Moghedien.jpg|thumb|right|150px|Moghedien, known to be a true Dreamwalker. Art by Seamus Gallagher.]]Little is known concerning the Forsaken and their connection to the World of Dreams. It is clear that every one of them can enter ''Tel'aran'rhiod'' in the flesh through channeling a [[gateway]], but the number of them that can actually dreamwalk is unknown. While [[Lanfear]] and a number of others showed the ability to enter other peoples personal dreams, it is not clear if she was present in the flesh. The most is known about the Forsaken [[Moghedien]], she is clearly a full Dreamwalker. Suffering several defeats in the World of Dreams, each time she was found sleeping while in ''Tel'aran'rhiod''.
+
+Just because it is not known who among the Forsaken are Dreamwalkers, does not mean they are helpless in the world of dreams. Each of the Forsaken is extremely familiar and experienced with manipulating ''Tel'aran'rhiod'' to their will. Lanfear claims particular authority over ''Tela'aran'rhiod'' among the Forsaken, though Moghedien, who is weaker than Lanfear in the waking world, may actually outstrip her there.
+
+Lanfear/[[Cyndane]] tried to lure again Rand in a [[dreamshard]] and then she spent most of the [[Last Battle]] waiting for her moment of revenge and glory.
+
+[[Ishamael]]/[[Moridin]] showed to be a proficient dreamwalker. In the first books he lured and endangered Rand, Mat and Perrin in the World of Dreams. Later he met or punished cruelly many Darkfriends in what were his [[dreamshard]]s.
+
+[[Mesaana]] fought her last battle against Egwene in the World of Dreams.
+
+During the [[Last Battle]] [[Graendal]]/[[Hessalam]] damaged severely the forces of the Light lurking in the dreams of the great generals, compelling them to bring their armies to disaster (probably she broke the ward that Aes Sedaai as [[Siuan]] put on her Warder  [[Gareth Bryne]]).
+
+==Wolfbrother Dreamwalkers==
+[[File:Perrin aybara wolf king by reddera-d993otl.jpg|right|150px|thumb|Perrin Aybara by Ariel Burgess]]Along with the gift of running with [[wolf|wolves]], a [[Wolfbrother]] gains the ability to practice a form of Dreamwalking. There are only three Wolfbrothers that we know of; [[Perrin Aybara]] has shown a goodly mastery of ''Tel'aran'rhiod'' as ''Young Bull'', though [[Noam]], known as ''Boundless'' in the wolf dream has also shown great facility as a Wolfbrother Dreamwalker. We have no idea how well [[Elyas Machera]], the third Wolfbrother, functions in the wolf dream, having never encountered him in that realm.
+
+A Wolfbrother also has the ability to talk and commune with fallen wolves who live on in ''Tel'aran'rhiod''. Though such skills have never been practiced by Dreamwalkers other than Wolfbrothers that we know of with one exception, it seems likely that they also could interact with the fallen wolves were they so disposed. [[Slayer]] can. And when she existed in ''Tel'aran'rhoid'' [[Birgitte Silverbow]] was able to interact with her fellow Heroes of the Horn such as [[Gaidal Cain]] when they, too, no longer walked the earth so there is no reason to consider them, or any other visitor to that strange realm unable to interact with wolves if they had any interest in so doing, and if the wolves had any desire to reciprocate the interest.
+
+Later Perrin learned the same ability of [[Isam]]/Lord Luc to step in and out in the flesh from the World of Dreams.
+{{ref/book|9|10}}
+
+{{notes}}
+
+[[es:Caminante de Sueños]]
+[[Category:Tel'aran'rhiod]]<references />
+
+[[es:Caminante de Sueños]]
+[[Category:Tel'aran'rhiod]]
+<references />
+
+[[es:Caminante de Sueños]]
+[[Category:Tel'aran'rhiod]]

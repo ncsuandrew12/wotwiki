@@ -1,0 +1,21 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=
+| status=Dead
+| nationality=Almoren
+| rank=King
+| title=King of [[Almoren]]
+| gender=Male
+| mentioned={{Bwb}}
+| lastmentioned={{Bwb}}
+}}
+'''Coerid Nosar''' was a King of [[Almoren]].
+
+== History ==
+In {{ab|209}}, King Coerid signed the [[Compact of the Ten Nations]] on behalf of Almoren.{{ref/book|bwb}}
+
+{{notes}}
+
+[[Category:Historical people]]
+{{DEFAULTSORT:Nosar, Coerid}}

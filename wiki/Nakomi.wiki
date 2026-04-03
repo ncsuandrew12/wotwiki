@@ -1,0 +1,50 @@
+{{character 
+| image=Leaves.png
+| imagesize=200px
+| gender=Female
+| status=Unknown
+| appeared={{tom|39}}
+| lastappeared={{amol|e}}
+| lastmentioned={{amol|p}}
+| living=amol
+|clan = Jenn Aiel
+|hair = Graying}}'''Nakomi''' is a mysterious woman, appearing when [[Aviendha]] [[Travels]] to the [[Waste]] for her second ''[[ter'angreal]]'' visit to [[Rhuidean]] and camps nearby for the night. Nakomi looks like an [[Aiel]] and Aviendha could not sense the ability to [[channel]] in her.{{ref/book|13|39}}{{ref/book|c|Nakomi}}
+
+== Appearance ==
+Nakomi is middle aged with furrowed skin and graying hair. In her encounter with Aviendha, she is wearing the normal garb of an average female Aiel: a dark skirt, a tan blouse and shawl, and a kerchief on her hair. She wasn't carrying any weapons. She did not wear the clothing of a [[Wise One]], but Aviendha felt ''"there was something about her..."''.
+
+== History ==
+Nakomi was born to the [[Jenn Aiel]] after they were believed to be extinct by the other [[Aiel]] clans. She was the latest in a line of those destined to provide a vessel of the [[Creator]], as part of the purpose, lore, and identity of the clan.{{ref/book|origins|Nakomi}}
+
+== Activities ==
+Nakomi was traveling alone (which was not unusual) carrying a pack but asking water from Aviendha. Despite the strange circumstances, Aviendha offers her shade and shares food and water with the woman. Nakomi pulls small branches for the fire from her pack, tea leaves, a teapot, several deepearth roots, and a small ceramic baking box. At some point, Aviendha realizes that now there are coals on the fire, and she does not understand where they came from. Nakomi takes the roots from the box when Aviedha is sure they are not done, and yet they smelled and tasted wonderful. Nakomi pulled seasoning from her pack and also a pair of tin plates.
+
+During the baking Nakomi shares contemplative insight, questioning the future of the Aiel once the [[Last Battle]] is over and the Aiel have fulfilled the purpose of their existence.
+
+{{quote|Our land here is called the Three-fold Land. Three-fold, for the three things it did to us. It punished us for sin. It tested our courage. It formed an anvil to shape us.|Nakomi{{ref/book|13|39}}}}
+
+When Aviendha asks Nakomi about her [[sept]], her answer is:
+
+{{quote|I am far from my roof, yet not far at all. Perhaps it is far from me. I cannot answer your question, apprentice, for it is not my place to give this truth.|Nakomi{{ref/book|13|39}}}}
+
+Right after they start to eat, Nakomi leaves to "see to nature" but she never returns. Aviendha finishes the meal and being worried goes to search for her but finds not even a trace of her. When she returns to her camp she sees that the plates and Nakomi's pack are also gone. She waits some more but the woman does not return. She goes to sleep troubled.
+
+Nakomi's words are most likely the vital catalyst that induces Aviendha to re-enter the [[glass columns]] ''[[ter'angreal]]'' in Rhuidean. (Perhaps Nakomi is even responsible for [[Glass columns#Recent revelation|the recent changes in the effects of the columns]], though this is just speculation.)
+
+Who exactly Nakomi is is uncertain, although it is likely no coincidence that she appeared before Aviendha to deliver her words to her. {{Ref/book|13|39}}
+
+Nakomi appeared a second time, as a mysterious, gray-haired woman in Aiel garb, who speaks to Rand as he exits Shayol Ghul.{{ref/book|14|e}}{{ref/book|origins|Nakomi}}
+
+{{quote|An unknown woman says to Rand, 'Yes, that's good, that's what you need to do.' She hurries off.|Robert Jordan{{ref|Robert Jordan's private file, as quoted in {{origins|Nakomi}}}}}}
+
+{{quote|I decided to bring in this mysterious woman - whom I named Nakomi.|Brandon Sanderson{{ref/book|origins|Nakomi}}}}
+
+== Nature ==
+Nakomi is the counterpart of [[Shaidar Haran]] as an avatar of the Creator. She is not actually the Creator—she is something else, something close to the Creator, and inhabited in part by something ''of'' the Creator. Her purpose was linked to the secret destiny of her clan, the Jenn Aiel.
+
+== Theories ==
+''Before the reveal of Nakomi's true nature in ''[[Origins of the Wheel of Time]]'',{{ref/book|origins|Nakomi}}{{ref|Note that according to [[Brandon Sanderson]], everything about Nakomi aside from her appearance to Rand at Shayol Ghul is an expansion of his on a small note left by [[Robert Jordan]].{{ref/book|origins|Nakomi}}}} there was much speculation about her. This is archived at [[Nakomi/Theories]].''
+
+{{Notes}}
+[[Category:Female]]
+[[Category:Extradimensional entities]]

@@ -1,0 +1,43 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Ghealdanin
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| build=Plump
+| status=Alive
+| appeared={{kod|2}}
+| lastappeared={{tgs|25}}
+| living=tgs
+|birth = {{ne|932}}}}'''Cariandre Temalien''' is an [[Aes Sedai]] of the [[Red Ajah]].{{ref|{{twotc}}, Cariandre Temalien}}
+
+==Appearance and Personality==
+Cariandre is plump, full-bosomed and 5'5 tall. She was good-looking, though not a beauty.{{ref/book|11|2}} She is described as wearing elaborately red-embroidered gray silk.{{ref/book|11|24}} She has dark eyes and hair which she wore cut short, exposing her ears.
+
+She cultivated a cool, reserved air, such as she imagined a noblewoman to have. However, she also had a bad temper, and would snap at people she should not (such as sisters who stood above her) and say things better left unsaid.
+
+== Abilities and Strength ==
+Cariandre is [[Strength in the One Power among Aes Sedai|very weak]] for an Aes Sedai, with a strength in the [[One Power]] of {{opsl|41}}. We know of only a handful of Aes Sedai that are weaker. She is the same strength as [[Siuan Sanche]] after Siuan was [[Healed]] from [[stilling]].
+
+==History==
+She was born in [[Ghealdan]] in {{ne|932}}. Cariandre was the daughter of a shoemaker. She went to the [[White Tower]] in {{ne|947}} where she spent thirteen years as a [[novice]] and twelve as [[Accepted]]. She was raised to the shawl in [[972 NE]].
+
+She was raised Aes Sedai after Siuan and Moiraine became novices, and was jealous of their potential and swift rise.
+
+==Activities==
+She has remained loyal to the White Tower during the split.
+
+She was involved in the Vileness shortly after the Aiel War, where Black Ajah sisters manipulated many others in gentling or killing men who were suspected of being able to channel without following the proper procedures. She was enthusiastic at first, but her interest soon waned when she found herself killing men and children on suspicion. She still followed orders, but began hanging back and did nothing she could avoid.
+
+She is given the task of 'escorting' [[Mattin Stepaneos den Balgar]] around the [[White Tower]].{{ref/book|11|2}} She tries but fails to prevent him speaking with [[Egwene]]. She sends Egwene to the [[Mistress of Novices]] for shirking her chores and showing disrespect to an Aes Sedai after Egwene speaks boldly and bluntly to Stepaneos. She is particularly furious with Egwene for setting Stepaneos straight regarding several false rumors circulating about the deeds of the [[Dragon Reborn]], most especially about Rand having no ill intentions toward him, and then about the current political stability of the [[Ajahs]] in the White Tower.{{ref/book|11|24}}
+
+She guards Egwene's cell when [[Seaine Herimon]] comes to visit her{{ref/book|12|25}} after Elaida has publicly and illegally beaten Egwene to within an inch of her life.{{ref/book|12|16}}
+
+{{notes}}
+{{DEFAULTSORT:Temalien, Cariandre}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

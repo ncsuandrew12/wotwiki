@@ -1,0 +1,13 @@
+[[File:Dice-icon.svg|right|100px]]
+The '''six spotted dice''' are a ''[[ter'angreal]]'' that was stolen from the [[White Tower]] by [[Liandrin's Group of Black Sisters]].{{Ref/book|3|25}}
+
+==Appearance==
+The ''ter'angreal'' takes the form of a carved cluster of six spotted dice, joined at the corners, less than two inches across.{{Ref/book|3|25}}
+
+==Use==
+Its use is unknown, save that channeling through it seems to suspend chance in some way, or twist it. Tossed coins presented the same face every time, and one test landed balanced on edge one hundred times in a row. One thousand tosses of the dice produced five crowns one thousand times, which makes Egwene think of Mat who would love to have luck suspended. Ironically, Mat has similar luck, possibly because he is ''[[ta'veren]]''.{{ref/book|3|25}}
+
+{{notes}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]

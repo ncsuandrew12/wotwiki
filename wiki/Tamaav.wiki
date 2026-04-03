@@ -1,0 +1,20 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| gender=Male
+| occupation=Clan chief
+| affiliation=
+| height=Tall
+| build=
+| hair=
+| status=Unknown
+| clan=Unknown clan
+| sept=Unknown sept
+| mentioned={{tom|49}}
+}}
+'''Tamaav''' will be one of the Clan Chiefs seen in one of [[Aviendha]]'s visions of the future in the [[Glass columns]] ''ter'angreal'' in [[Rhuidean]], 
+
+He will live twenty years after the Seanchan gained the Andoran war machines. He tells the others in the meeting of the survivors of the [[Council of Twenty Two]] that the [[White Tower]] has fallen. When they are discussing what to do, he says that surrender would make them ''[[gai'shain]]'', meaning without honour, and asks [[Ladalin]] for her advice.
+[[Category:Foreseen people]]
+[[Category:Short pages]]

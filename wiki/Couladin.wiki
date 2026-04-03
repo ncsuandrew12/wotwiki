@@ -1,0 +1,50 @@
+{{ character 
+| image=Couladin.jpg
+| imagesize=250px
+| status=Dead
+| death={{Ne|999}}
+| nationality=Aiel
+| occupation=Clan chief
+| society=Seia Doon
+| clan=Shaido
+| sept=Domai
+| affiliation=Shaido
+| build=Broad-shouldered
+| height=Tall
+| gender=Male
+| hair=Flame-colored
+| appeared={{tsr|23}}
+| lastappeared={{tfoh|44}}
+| lastmentioned={{tom|19}}
+}}
+{{quote|Couladin was a bull with a bee in his ear; he might charge in any direction.|{{5|2}}}}
+
+'''Couladin''' was a warrior of the [[Domai]] sept of the [[Shaido]] [[Aiel]] and the [[Seia Doon]] warrior society.{{ref/book|c|Couladin}}
+
+==Appearance==
+He is described as tall and broad-shouldered, with flame-colored hair.
+
+==History==
+He was one of the ''[[Seia Doon]]'' or "Black Eyes."
+
+[[File:Couladin.JPG|thumb|left|Couladin from the [[CCG]]]]
+
+==Activities==
+After [[Suladric]], clan chief of the Shaido, died, Couladin went with his brother [[Muradin]] to [[Chaendaer]], so that Muradin might gain permission to enter [[Rhuidean]] to become clan chief.
+
+His first encounter with [[Rand al'Thor]] had him coming to blows with the [[Dragon Reborn]] before the [[Wise One]]s interfered and sent Couladin back to the Shaido tents.{{ref/book|4|23}}
+
+When both Rand and [[Mat Cauthon]] returned from Rhuidean without Muradin, Couladin attacked them saying they killed him but when he spied the Dragon markings on Rand's arms he left with the Shaido very angry and very quickly.{{ref/book|4|34}}
+
+Now the de facto clan chief of the Shaido, Couladin was turned away at [[Cold Rocks Hold]] by [[Lian]], wife of [[Rhuarc]] and [[sister-wife]] to [[Amys]] and [[roofmistress]] of the Hold. He left in anger and later that night took the Shaido north to [[Alcair Dal]]. When he arrived there he showed his 'markings,' which [[Asmodean]] gave him, to the other clan chiefs and lied about what is seen in the rings in Rhuidean.{{ref/book|4|57}}
+
+[[File:Death_of_Couladin_by_g-a-t-i-n-h-a.jpg|thumb|left|200px|The Death of Couladin]]
+
+This led to the chiefs siding with Rand, who ultimately told the truth. Outraged, Couladin once again moved the Shaido, this time towards [[Jangai Pass]], on his way out of the [[Three-Fold Land]] into [[Cairhien]]. Along the way he and the renegade Shaido captured "[[wetlander]]s" and made them ''[[gai'shain]]'', a move that did not sit well with the other clan chiefs.
+
+When Couladin finally made it to Cairhien, he and the 160,000 Aiel spears he commanded lay siege to the city. A chance encounter between Mat's army and Couladin's band of Shaido led to a deadly fight between the two that saw Couladin dead at Mat's feet.{{ref|Mat has led three skirmishes with the Shaido and still has three thousand men with him. He leads Pips as he scouts around. [[Estean]] and [[Nalesean]] arrive and report that another band of Aiel is approaching and that Couladin himself is with them. The men are developing a deep respect for Mat's battle skill and luck. Mat again feels the dice rolling in his head as they return to the battle.}}{{ref/book|5|44}}{{ref/book|5|45}}
+
+{{notes}}
+{{Primary Protagonists}}
+[[es:Couladin]]
+[[Category:Antagonists]]

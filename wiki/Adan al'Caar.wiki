@@ -1,0 +1,23 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=adan alcaar
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| status=Alive
+| mentioned={{teotw|2}}
+| lastmentioned={{teotw|2}}
+| living=teotw
+}}
+{{dablink|For the governor of [[Baerlon]], see [[Heran Adan]]. For the [[Aiel]], see [[Adan]]. For others with the same surname, see [[al'Caar]].}}
+'''Adan al'Caar''' is a [[Two Rivers]] resident.
+
+== Activities ==
+[[Matrim Cauthon]] once played a trick on him.
+
+== Etymology ==
+His name may be inspired by the Biblical character of Adam, the first man.
+
+{{short}}
+{{DEFAULTSORT:Al'Caar, Adan}}<!--Please leave the "a" capitalized for sorting purposes.-->

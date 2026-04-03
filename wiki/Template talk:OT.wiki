@@ -1,0 +1,12 @@
+<blockquote>Hmmz, what does the |* do? [[User:Gherald|Gherald]]</blockquote>
+Piping category links does something completely different than piping regular links, surprisingly; it allows you to 'sort' the category's entries in some other way than strictly alphabetical. [http://en.wikipedia.org/wiki/Wikipedia:Piped_link] The * keeps the OT template at the top and separate from all of the Old Tongue words that will eventually be sorted into here... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 15:37, 25 Oct 2005 (UTC)
+
+:Thoughts on how to handle reverse definitions?  e.g. in [[:Category:Maidens]]
+
+::I'm afraid I don't follow. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 05:25, 8 Nov 2005 (UTC)
+
+:::It's the difference between <nowiki>{{OT:Far Dareis Mai}} in an article named Maidens of the Spear, and {{OT:Maidens of the Spear}}</nowiki> in an article named Far Dareis Mai.  This template doesn't seem suitible for the former case, so we probably need a new one or just a style guideline e.g. :
+
+ '''Maindens of the Spear''', old tongue ''Far Dareis Mai'', ...
+
+ '''Maindens of the Spear''' ([[Old Tongue]]: ''Far Dareis Mai'') ...

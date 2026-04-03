@@ -1,0 +1,10 @@
+{{for|the chapter in ''Lord of Chaos'' called "The Wandering Woman"|Lord of Chaos/Chapter 47}}
+'''The Wandering Woman''' is an inn in [[Ebou Dar]] situated near the [[Tarasin Palace]].{{ref|{{twotc}}, Wandering Woman, the}}.  It is currently owned by [[Lydel Elonid]] and previously owned by [[Setalle Anan]]. For a time, [[Matrim Cauthon]] and the members of the [[Band of the Red Hand]] who accompanied him to the city stayed there. After the [[Seanchan]] invaded, Setalle hid [[Joline Maza]] and her Warders in the cellar.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Wandering Woman, The}}
+
+[[es:La Mujer Errante]]
+[[Category:Inns]]
+[[Category:Altara]]

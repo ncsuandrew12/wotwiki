@@ -1,0 +1,60 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Kandori
+| occupation=Sitter
+| affiliation=White Tower
+| gender=Female
+| height=Tall
+| build=Thin
+| rank=Aes Sedai
+| status=Dead
+| appeared={{tpod|25}}
+| lastappeared={{tgs|46}}
+| lastmentioned={{tom|38}}
+| death={{ne|1000}}
+|birth = {{ne|843}}}}'''Shevan Gadarin''' was an [[Aes Sedai]] of the [[Brown Ajah]] and a former [[Sitter]] of the loyalist Tower.{{ref|{{twotc}}, Shevan Gadarin}}
+
+== Appearance and Personality ==
+
+She was very tall and thin, not much short of bony, with an angular face, a long chin, and a cap of curly hair. She has spidery fingers.{{Ref/book|8|25}}.
+
+Shevan can be very dry at times and she frequently was.{{Ref/book|8|25}}
+
+== Strength and Abilities==
+Shevan is of [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|24}}. She is stronger than the minimum stated strength needed to [[Traveling|Travel]].
+
+==History ==
+Shevan was 157 years old; she was born in {{ne|843}} and went to the [[White Tower]] in {{ne|859}}. After four years as [[novice]] and six as [[Accepted]] she was raised to the [[shawl]] in the year {{ne|869}}.
+
+== Activities ==
+Following the [[Schism]] after the deposition of [[Siuan Sanche]], Shevan was named as a [[Sitter]] for the Brown in the [[Hall of the Tower under Elaida a'Roihan|White Tower's Hall]].{{Ref/book|8|25}}{{Ref/book|10|p}}
+
+Despite the trend of too young Sitters, Shevan is the only one old enough to hold a chair and was very likely to replace [[Saerin Asnobar]] in the Hall once she stepped down.{{Ref/book|10|p}}
+
+Shevan was part of the council advising [[Elaida do Avriny a'Roihan]] when she was first raised to the [[Amyrlin Seat]], a council later disbanded.
+
+Shevan was worried about reports of "leashed women" and the possibility that Seanchan had a device to control channelers. Elaida gave her a penance of [[Mortification of the Spirit]] and several days of labour (scrubbing floors) as penance {{Ref/book|8|25}}.
+
+She was one of the Sitters that met with Elaida over beginning negotiations with the [[rebel Aes Sedai]] when [[Alviarin Freidhen]] returned to the [[White Tower]].{{Ref/book|10|21}}
+
+During the meeting Shevan was adamant saying: "''The Brown is quite clear on the historical precedents. You have all read the secret histories, or should have. Whenever the Tower has been divided against itself, disaster has struck the world. With the Last Battle looming, in a world that contains the Black Tower, we can no longer afford to remain divided a day longer than need be''."
+
+Shevan was at dinner with Elaida and most of the other Sitters and, wanting to demonstrate her authority, Elaida insults her and the Browns. After, Elaida began taunting [[Egwene al'Vere]] and demanded her to stop telling lies about a [[Seanchan]] invasion on the White Tower.
+
+Egwene refused and enraged Elaida to the point where she used the [[One Power]] on Egwene, drawing blood and sending her unconscious.{{Ref/book|12|16}}
+
+Although not mentioned directly, Shevan can be assumed to stand for Egwene to be raised Amyrlin.{{Ref/book|12|46}}
+
+She proved herself to being not a [[darkfriend]] using the [[Oath Rod]], but she is no longer a Sitter after the reunification.{{Ref/book|13|27}}
+
+Shevan was killed in ''[[Tel'aran'riod]]'' while awaiting in ambush for the [[Black Ajah]]. Unfortunately, the Black Ajah attacked outright, killing Shevan.{{Ref/book|13|37}}
+
+{{notes}}
+[[es:Shevan]]
+{{DEFAULTSORT:Gadarin, Shevan}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

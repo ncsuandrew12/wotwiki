@@ -1,0 +1,19 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Stableman
+| gender=Female
+| build=Lanky
+| appeared={{Kod|6}}
+| lastappeared={{kod|6}}
+| living=kod
+}}
+'''Adela''' is a stablewoman in [[Toke Fearnim]]'s stable.
+
+==Appearance==
+Adela is a lanky woman with a pimply face.
+
+==Activities==
+When [[Matrim Cauthon]] goes to buy a horse for [[Tuon Athaem Kore Paendrag]], Adela and [[Hurd]] show him the horses for sale.

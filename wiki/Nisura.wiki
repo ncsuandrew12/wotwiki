@@ -1,0 +1,23 @@
+{{ character 
+| image=ShienarFlag.png
+| imagesize=250px
+| nationality=Shienaran
+| gender=Female
+| status=Alive
+| appeared={{Tgh|8}}
+| lastappeared={{tgh|8}}
+| living=tgh
+}}
+'''Nisura''' is an attendant of [[Amalisa Jagad]] in [[Fal Dara]]. 
+
+== Appearance ==
+She is round-faced.
+
+==Activities==
+She was at the entrance to the women's quarters when [[Rand]] and [[Lan]] went in to see the Amyrlin. Later she brought [[Egwene]] when Rand demanded to see her before he left Fal Dara.{{ref/book|2|8}}
+
+{{notes}}
+
+{{short}}
+[[Category:Nobility]]
+[[Category:Nobles]]

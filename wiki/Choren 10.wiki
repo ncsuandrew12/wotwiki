@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|September}}
+|{{Wotmonth|Choren}}
+|}
+'''Choren 10 (September 10)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - The [[Second Battle of Cairhien|Battle of Cairhien]]. The [[Shaido]] are defeated, and driven towards [[Kinslayer's Dagger]]. All the [[Aiel]] clans except the Shaido join [[Rand]]'s forces.
+*{{ne|999}} - [[Mat]] kills [[Couladin]].
+<noinclude>
+==External links==
+*[[wikipedia:september 10|September 10]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

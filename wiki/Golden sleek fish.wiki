@@ -1,0 +1,14 @@
+The '''golden''' '''sleek fish''' ornament is a ''[[ter'angreal]]'' in the possession of [[Cadsuane Melaidhrin]] as a part of her [[paralis-net]].
+
+==Appearance==
+A sleek fish shaped trinket, dangling from a golden hair needle. The fish has sharp fins.{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+==Use==
+It enables the wearer to pull someone else into an involuntary [[circle]] under her/his control guiding the flows. It works only if the other person has already seized ''[[saidin]]'' or embraced ''[[saidar]]''.
+
+{{quote|A sleek fish with sharp fins. This ''ter'angreal'' enabled the wearer to pull someone into an involuntary circle with her in "guiding the flows," but it could only work if the other person had already embraced ''saidar'' or seized ''saidin''.|{{twotc}}{{ref/book|twotc|Cadsuane Melaidhrin}}}}
+
+{{notes}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]
+[[Category:Short pages]]

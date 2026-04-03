@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|May}}
+|{{Wotmonth|Saven}}
+|}
+'''Saven 10 (May 20)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - The people of [[Tear]] acclaim [[Rand]] as the [[Dragon Reborn]].
+*{{ne|999}} - [[Berelain]] arrives with a message from [[Lanfear]].
+<noinclude>
+==External links==
+*[[wikipedia:may 20|May 20]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

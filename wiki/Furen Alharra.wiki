@@ -1,0 +1,35 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Tairen
+| title=Gaidin
+| hair= Curly, black streaked with gray.
+| gender=Male
+| eyes=Dark
+| height=Tall
+| build= Lean
+| status=Alive
+| occupation=Warder
+| affiliation=The Dragon Reborn
+| appeared={{tpod|7}}
+| mentioned={{loc|43}}
+| lastappeared={{kod|30}}
+| living=kod
+}}'''Furen Alharra''' is [[Warder]] to [[Seonid Traighan]].{{ref|{{twotc}}, Furen Alharra}}
+
+== Appearance ==
+He has curly black hair streaked with gray. He is very dark, tall, and lean with dark eyes.
+
+== History ==
+He is [[Tairen]].
+
+== Activities ==
+He traveled with Seonid to [[Ghealdan]]. He was furious with the way the [[Aiel]] [[Wise Ones]] treated Seonid{{ref/book|10|27}} and together with [[Teryl Wynter]] offered to take punishment in place of Seonid.{{ref/book|8|9}}
+
+When [[Faile Bashere]] was captured by the [[Shaido]] Aiel, he traveled with [[Elyas Machera]] to find her tracks.{{ref/book|9|6}}
+
+He accompanied [[Perrin Aybara]] and Seonid to [[So Habor]], where he stuck close to her when Seonid and the residents claimed to have seen ghosts.{{ref/book|10|26}}
+
+He went through the aqueduct to enter the town of [[Malden]] before Perrin began his attack.{{ref/book|11|26}}
+
+{{notes}}

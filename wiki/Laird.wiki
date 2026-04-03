@@ -1,0 +1,24 @@
+{{character
+| image=CotL.png
+| imagesize=250px
+| nationality=
+| gender=Male
+| rank=Soldier
+| affiliation=Children of the Light
+| occupation=Soldier
+| hair=
+| status=Alive
+| death=
+| appeared={{amol|37}}
+| lastappeared={{amol|37}}
+| living=amol
+| lastmentioned=
+}}
+'''Laird''' is a [[Child of the Light]].
+== Activities ==
+At the [[Last Battle]], Laird is one of the Whitecloaks chosen to go with [[Lord Captain Commander]] [[Galad Damodred]] when [[Mat Cauthon]] sends him to kill the [[Ayyad]]. After one of the Ayyad is slain, Laird cuts off her head to bury it separately, believing that the Ayyad would return to life at the next full moon if it was not done so.{{ref/book|14|37}}
+== Trivia ==
+* Laird is named for Mark Laird, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{short}}
+{{notes}}
+[[Category:Characters named after fans]]

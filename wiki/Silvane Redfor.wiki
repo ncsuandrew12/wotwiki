@@ -1,0 +1,34 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewot=
+| ajah=Green
+| nationality=Andoran
+| rank=Aes Sedai
+| gender=Female
+| affiliation=Unaligned sisters
+| hair=
+| build=
+| status=Alive
+| mentioned=[[The Wheel of Time Companion]]
+| living=tgs
+}}
+'''Silvane Redford''' is an [[Aes Sedai]] of the [[Green Ajah]].{{ref|{{twotc}}, Silvane Redfor}}
+
+==Strength==
+Silvane is [[Strength in the One Power among Aes Sedai|very weak]] in the [[One Power]] with a strength level of {{opsl|39}}.
+
+== Activities ==
+Silvane was one of the sisters in [[Cadsuane Melaidhrin]]'s group in [[Cairhien]].
+
+When Cadsuane went to [[Far Madding]] searching for [[Rand]], she left Silvane and other sisters to keep an eye on the situation in Cairhien, under the leadership of [[Samitsu Tamagowa]].
+
+==Trivia==
+Silvane Redford is described only in "The Wheel of Time Companion", she is never mentioned in the main books of the Wheel of Time.
+
+{{notes}}
+{{DEFAULTSORT:Redfor, Silvane}}
+[[Category:Unaligned sisters]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

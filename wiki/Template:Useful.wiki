@@ -1,0 +1,17 @@
+{| border="0" class="plainlinks" style="clear: both; background: transparent; font-size: smaller"
+|-valign="top"
+|align="right" | '''Recent&nbsp;changes:'''
+| '''<big><span class="plainlinks">[{{SERVER}}{{localurl:Special:Recentchanges|namespace=0&limit=1000&days=366}} Articles only]</span></big>''' - <span class="plainlinks">[{{SERVER}}{{localurl:Special:Recentchanges|limit=1000&days=366}} All changes]</span> - <span class="plainlinks">[{{SERVER}}{{localurl:Special:Recentchanges|namespace=0&invert=1&limit=1000&days=366}} Non-articles]</span> - [[m:Help:Recent changes|What does this page mean?]] - [http://wot.wikia.com/wiki/Special:Recentchanges?feed=rss RSS feed]
+
+|-valign="top"
+|align="right" | '''About&nbsp;us:'''
+| [[A beginning]] - [[project:Community Portal|Community Portal]] - [[:Category:Policies|Policies]] - [[:Category:Proposals|Proposals]] - [[Special:Statistics|Stats]]
+
+|-valign="top"
+|align="right" |'''Useful tools:'''
+|[[Special:Wantedpages|Wanted pages]] - [[Special:Newpages|New pages]] -  [[Special:Deadendpages|Dead ends]] - [[Special:BrokenRedirects|Broken redirects]] - [[project:Category index|Category index]]
+
+|-valign="top"
+|align="right" | '''Admins:'''
+| {{User|Gherald}} - {{User|nae'blis}} - {{User|Moridin_2000}} - {{User|Optimous}} - {{User|Mainphramephreak}} - (other [[:Category:Contributors|Contributors]])
+|}<noinclude>[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,21 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| occupation=Soldier
+| nationality=Andoran
+| gender=Male
+| status=Alive
+| appeared={{amol|37}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Theodohr''' is the commander of the [[Andor]]an cavalry during the [[Last Battle]].{{ref/book|14|37}}
+
+== Activities ==
+Theodohr advises Queen [[Elayne Trakand|Elayne]] against retreat and says that they should hope that the [[Aes Sedai]] can win out against the [[Seanchan]].{{ref/book|14|37}}
+
+== Trivia ==
+* Theodohr is named for Theodore Herman, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

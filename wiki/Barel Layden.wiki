@@ -1,0 +1,30 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=Barel
+| nationality= Andoran
+| title=Lord
+| affiliation=House Trakand
+| build=Lanky
+| appeared={{kod|17}}
+| status=Alive
+| gender=Male
+| mentioned={{loc|28}}
+| lastappeared={{kod|32}}
+| living=kod
+}}
+'''Barel Layden''' is an [[Andoran]] noble of a minor House.
+
+== Appearance ==
+He is lanky.
+
+== Activities ==
+He enters [[Caemlyn]] quietly when [[Rand al'Thor]] disposes of Lord Gaebril. 
+
+He is one of the nobles to have thrown their support behind [[Elayne Trakand]] and brought their armsmen to [[Caemlyn]].
+
+When Elayne is captured by the [[Black Ajah]], he and his armsmen ride to aid [[Birgitte Silverbow]] in rescuing her.
+
+{{DEFAULTSORT:Layden, Barel}}
+[[Category:Short pages]]
+[[Category:Nobility]]

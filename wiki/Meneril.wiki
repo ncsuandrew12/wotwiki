@@ -1,0 +1,22 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| affiliation=The Dragon Reborn
+| gender=Male
+| title=Lord
+| status=Alive
+| appeared={{loc|4}}
+| lastappeared={{loc|4}}
+| living=loc
+}}
+'''Meneril''' is a Lord from [[Cairhien]]. 
+
+== Appearance ==
+He has a scar on the left side of his mouth which was caused from the Cairhienin civil war.
+
+== Activities ==
+He is one of the Lords under the command of [[Weiramon]]. He is sent to the [[Plains of Maredo]] where Rand is gathering a massive army for the imminent attack on [[Illian]].
+
+[[es:Meneril]]
+[[Category:Nobility]]

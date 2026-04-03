@@ -1,0 +1,17 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| occupation=Damane
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+}}
+'''Druu''' is a [[Seanchan]] ''[[damane]]''.
+
+== Activities ==
+Her ''[[sul'dam]]'' is [[Serrah]]. She accompanies the ''[[Hailene]]'' and is under Lord [[Timak]]'s force of forty soldiers occupying the town of [[Tobin's Hollow]] on [[Toman Head]].<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Channelers]]
+[[Category:Characters only mentioned in the RPG]]

@@ -1,0 +1,4 @@
+''[[The Shadow Rising]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|g|glossary=[[The Shadow Rising/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[The Shadow Rising/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|Shadow Rising]]
+</noinclude>

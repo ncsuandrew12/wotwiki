@@ -1,0 +1,14 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| gender=Male
+| affiliation=Younglings
+| status=Alive
+| appeared={{tgs|4}}
+| lastappeared={{tgs|4}}
+| living=tom
+}}
+'''Rodic''' is a squadleader in the [[Younglings]].
+[[Category:Dorlan Group]]
+[[Category:Short pages]]
+[[Category:Cairhien expedition]]

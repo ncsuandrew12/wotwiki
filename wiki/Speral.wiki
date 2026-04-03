@@ -1,0 +1,17 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Assistant
+| gender=Male
+| appeared={{cot|26}}
+| lastappeared={{cot|26}}
+| living=cot
+}}
+'''Speral''' is an assistant to the grain merchants of [[So Habor]].
+
+==Activities==
+When [[Perrin Aybara]] and [[Berelain sur Paendrag Paeron]] come to So Habor to purchase supplies, Speral presents samples of the grains the merchants have to offer.{{ref/book|10|26}}
+
+{{notes}}

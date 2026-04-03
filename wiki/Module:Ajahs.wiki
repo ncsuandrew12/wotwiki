@@ -1,0 +1,12 @@
+local m_ajahs_json = mw.loadJsonData('Module:Ajahs/ajahs.json')
+local m = {}
+
+function m._get_ajah_name_emoji_map(frame, args)
+	local map = {}
+	for key, ajah in pairs(m_ajahs_json) do
+		map[string.lower(key)] = ajah.emoji
+	end
+	return map
+end
+
+return m

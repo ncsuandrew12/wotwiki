@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover Art
+| Description             = Cover for ''[[New Threads in the Pattern]]''
+| Source                  = ''[[New Threads in the Pattern]]''
+| Artist                  = Charles Keegan
+}}
+[[Category:Tor editions|02b]]

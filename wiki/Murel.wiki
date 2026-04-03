@@ -1,0 +1,23 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| build=Lean
+| eyes=Tilted
+| occupation=Soldier
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{kod|7}}
+| lastappeared={{kod|7}}
+| living=kod
+}}'''Murel''' is a soldier in the [[Seanchan]] army.{{ref|{{twotc}}, Murel}}
+
+== Appearance ==
+He has tilted eyes and honey-colored. He is hard and lean.
+
+== Activities ==
+He is part of a Seanchan troop that stops outside the town of [[Jurador]].
+He means to enter [[Valan Luca's Traveling Show]] without paying when he is stopped by the Standard-bearer and sent back to camp before any trouble starts.
+
+{{notes}}
+[[Category:Ever Victorious Army]]

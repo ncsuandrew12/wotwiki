@@ -1,0 +1,23 @@
+{{ character | image=Leaves.png
+| imagesize=200px
+| ewothist=Saralin
+| nationality=Aiel
+| gender=Female
+| clan=Jenn Aiel
+| status=Dead
+| appeared={{tsr|25}}
+| lastappeared={{tsr|25}}
+}}
+'''Saralin''' was a [[Da'shain]] [[Aiel]], later [[Jenn Aiel]], who lived during the middle of the [[Breaking of the World]].
+
+{{Ancestry/Rand}}
+
+==History==
+Saralin was the mother of [[Lewin]] and [[Maigran]] and the daughter-in-law of [[Adan]]. Her husband was [[Marind]].{{ref/book|twotc|Adan}}
+
+After her son returns from rescuing Maigran from bandits she refuses to acknowledge him and says to hide his face. She does not want to see a face that looks like a son she had on a killer's face.{{ref/book|4|25}}
+
+She lived during the time of the second division of the Da'shain Aiel and the years afterwards where they transitioned to become the Jenn Aiel.
+
+{{notes}}
+[[Category:Da'shain Aiel]]

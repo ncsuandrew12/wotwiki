@@ -1,0 +1,19 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Tairen
+| title=[[High Lady of Tear]]
+| gender=Female
+| mentioned=[[RPG]]
+}}'''Yseidre Tirado''' is credited as being one of the founders of the nation of [[Tear]].{{ref|{{twotc}}, Yseidre Tirado}}
+
+==History==
+Yseidre Tirado was a noble lady of the province during the days of [[Artur Hawkwing]]. Upon Hawkwing's death in {{Fy|994}}, she formed an alliance with an equally powerful nobleman named [[Istaban Novares]] and, together with their supporters, they seized control of the city and a stretch of surrounding countryside. Neither was powerful enough to declare themselves King or Queen, so a ruling council was established instead.
+
+Over the course of the [[War of the Hundred Years]], Tear overcame its enemies and expanded to its modern size, with the notion of a council of [[High Lord|High Lords and Ladies]] leading the country instead of a single ruler becoming cemented in law.
+
+{{notes}}
+{{DEFAULTSORT:Tirado, Yseidre}}
+[[Category:Historical people]]
+[[Category:Nobility]]

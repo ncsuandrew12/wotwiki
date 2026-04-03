@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| ImageType2              = Fan art
+| Description             = [[Pevara Tazanovni]]
+| Source                  =[https://www.deviantart.com/kaligodark/art/Pevara-Tazanovni-653296392 DeviantArt]
+| Artist                  = KaligoDark
+}}

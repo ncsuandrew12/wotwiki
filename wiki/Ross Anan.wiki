@@ -1,0 +1,23 @@
+{{character
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| occupation=Sailor
+| nationality=Altaran
+| hair=
+| gender=Male
+| appeared={{wh|19}}
+| lastappeared={{wh|29}}
+| lastmentioned={{wh|29}}
+| living=wh
+}}
+
+
+'''Ross Anan''' is Jasfer and [[Setalle Anan]]'s youngest son. He has three sisters and at least one older brother.
+
+He is normally helping his father on his fishing boat or his mother in the [[The Wandering Woman]].
+
+He mocks his eldest sister [[Marah Anan|Marah]], because his other sister, [[Frielle]], is younger than Marah and already married while she is not.
+
+{{short}}
+{{DEFAULTSORT:Anan, Ross}}

@@ -1,0 +1,56 @@
+{{nation
+|image       = [[File:IllianFlag.png|250px]]
+|name        = Illian
+|type        = Hereditary Monarchy
+|headofstate = King [[Rand al'Thor]] (believed deceased)
+|headofgov   = [[Gregorin Panar den Lushenos]] (as [[Steward of the Dragon]])<br>[[Council of Nine]]
+|sigil       = Nine golden bees arranged in a diamond, from top to bottom 1-2-3-2-1; the Golden Bees.
+|banner      = Nine Golden Bees on a field of dark green. Fringed in gold if flown where the sovereign is present.
+|region      = south of the [[Westlands]], to the west of [[Tear]]
+|interest    = [[Manetherendrelle]]
+|capital     = [[Illian (city)|City of Illian]]
+|demonym     = [[Illianer]]
+|affiliation = [[Dragon Reborn]]
+|formed      = c. {{fy|1094}}
+}}
+'''Illian''' (IHL-lee-an; /ˈɪːɫi.æn/) is a country that lies in the far south of the [[Westlands]], to the west of [[Tear]] whose capital city bears the same name. It is famous for hosting the [[Great Hunt for the Horn]]. It is feared by its neighbors Altara and Murandy for swallowing pieces of their countries from time to time.
+
+The city after which the nation is named is one of the largest in the Westlands and is penetrated by lots of little channels. It also boasts of the great [[Square of Tammaz]] where the Hunters of the Horn gather to swear their oaths. Two opposing but similar palaces, one for the king and one for the council may be found adjoining the square. The council's palace is just a bit smaller.
+
+==Geography==
+[[Image:06 - Illian.PNG||thumb|left|200px|Location within the Westlands]]
+Illian lies in the south of the Westlands where the [[Manetherendrelle]] flows into the [[Sea of Storms]]. The city of Illian boasts the largest port in the known world—a giant circular harbor. To the west sprawls forests and olive groves. The far north is quite mountainous, bulwarked by castles and hillforts. To the east is a vast marshland finally opening up to the [[Plains of Maredo]]. The city's immediate surroundings are made up of these swamps and therefore do not need any protecting wall.
+
+==History==
+The nation of Illian was formed after the capture of the city of Illian by Lord [[Nicoli Merseneos den Ballin]] near the end of the [[War of the Hundred Years]] in roughly {{fy|1094}}, becoming its first king. His House continued to rule Illian for the next three hundred years. {{ref|{{twotc}}, Illian}} Illian is also famous for its endless wars with Tear as they argue over oil trading rights.
+[[image:IllianMap.png|left|thumb|200px|Map of Illian]]
+
+==Government==
+Illian is ruled both by a [[Council of Nine]], and a king who wears the [[Laurel Crown]]. In the absence or indisposition of the king, the Council of Nine rules in his stead.
+
+The current King of Illian is [[Rand al'Thor]], the [[Dragon Reborn]]. The former king, [[Mattin Stepaneos den Balgar]], disappeared two days before Rand's invasion and later appeared again as a hostage in the White Tower before being released by the [[Amyrlin]] [[Egwene al'Vere]]. [[Sammael]] was discovered to have been masquerading as one of the Council of Nine, Lord Brend, until his defeat by Rand al'Thor. After Rand took Illian, the Laurel Crown was renamed the [[Crown of Swords]].
+
+==Culture==
+Whenever a [[Great Hunt for the Horn|Great Hunt]] (for the [[Horn of Valere]]) is called, its participants, who are called Hunters, are commissioned in the [[Square of Tammaz|Great Square of Tammaz]] in the [[Illian (city)|city of Illian]].
+
+===Dialect===
+The dialect of Illian is distinct in that Illianers use the [[wikipedia:Do-support#For emphasis|emphatic tense]] of nearly every verb, shun the [[wikipedia:progressive tense|progressive tense]], and use "no" in place of "not." Thus, "He had not made sure every stick of bread went to the army" becomes "He did no make sure every stick of bread did go to the army."
+
+==Military structure==
+Illian's elite troops are known as the [[Illianer Companions]]. This organization is rare in that it permits foreigners to become First [[Captain-General|Captain]], the highest rank in the Companions. They are placed wherever fighting is heaviest, and follow the king into danger. Rand al'Thor's father [[Tam al'Thor|Tam]] was a Second Captain of the Companions.{{ref/book|8|13}}
+
+== Parallels ==
+Illian is considered to mostly be inspired by Greece. The name Illian may be inspired by Ilion, which was another name for Troy. Its elite military unit, the Companions, may be named after the elite soldiers of Macedon in the times of Alexander the Great and his father Philip. The nation also shares some similarities with Italy, such as being known for its warm climate and its olive groves. Also, the city of Venice is, like Illian, crisscrossed by many channels and historically situated in swampland. The same is true of the late-Roman Italian capital at Ravenna, another swamp-encircled port on the Adriatic that may have inspired Illian. The [[Crown of Swords|Laurel Crown]] is reminiscent of the crown of laurels awarded at the ancient Olympic Games.{{ref|According to the [http://www.steelypips.org/wotfaq/3_sources/3.14_countries.html Wheel of Time F.A.Q.]}} Furthermore, many Illianer names such as [[Mattin Stepaneos den Balgar|Stepaneos]], [[Moria Karentanis|Karentanis]], and [[Morvrin Thakanos|Thakanos]] sound Greek in origin.
+
+In addition, Illian also parallels the Netherlands in certain aspects. Robert Jordan likened the Illianer accent to a Dutch accent.<ref>[https://www.theoryland.com/intvsresults.php?kwt=%27accents%27 Letter to Paul Ward]</ref> The influence of the [[Council of Nine]] can be likened to the mercantile power in the Netherlands, or perhaps to the Dutch Republic (but also perhaps to the importance of the senate in Byzantine Greece); there is also a historical association with piracy and smuggling in both nations.
+
+== External links ==
+*{{TVlink|Illian}} on {{TVlink}}
+
+{{notes}}<references />
+{{nations}}
+
+[[es:Illian]]
+[[Category:Illian| ]]
+[[Category:Nations]]
+[[Category:Peninsulas]]

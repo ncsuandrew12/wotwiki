@@ -1,0 +1,20 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| society=Shae'en M'taal
+| clan=Unknown clan
+| sept=Unknown sept
+| mentioned={{tfoh|53}}
+| lastmentioned={{tfoh|53}}
+| living=tfoh
+| status=Alive
+}}
+'''Turol''' is a [[Aiel]] warrior of the [[Stone Dog]] society.
+
+==Activities==
+Turol informs [[Roidan]] and [[Sulin]] that [[Rand al'Thor]] is [[Traveling]] to battle with one of the [[Forsaken]]. He did not tell them that it was [[Rahvin]].{{ref/book|5|53}}
+
+{{notes}}

@@ -1,0 +1,2 @@
+class="hidden" width="100%" style="clear:both; margin:0 auto;" align=center<noinclude>{{Documentation}}
+[[Category:Templates]]</noinclude>

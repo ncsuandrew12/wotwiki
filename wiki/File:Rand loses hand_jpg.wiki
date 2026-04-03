@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| Description        = [[Rand]] protecting [[Min]] from [[Semirhage]]
+| Source             = The cover for the ebook of ''[[Knife of Dreams]]''.
+| Artist             = Michael Komarck
+}}
+[[Category:Featured images]]

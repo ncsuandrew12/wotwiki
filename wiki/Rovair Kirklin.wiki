@@ -1,0 +1,31 @@
+{{ character
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Unknown nationality
+| title=Gaidin
+| hair= Dark 
+| gender=Male
+| build= Compact
+| status=Alive
+| occupation=Warder
+| affiliation=The Dragon Reborn
+| appeared={{tpod|10}}
+| lastappeared={{kod|30}}
+| living=kod
+}}
+{{dablink|For the [[nobility|noble]], see [[Rovair]].}}
+'''Rovair Kirklin''' is [[Warder]] to [[Masuri Sokawa]]. 
+
+== Appearance ==
+He is compact with dark hair that is receding.
+
+== Activities ==
+He travels with Masuri to [[Ghealdan]]. He is furious with the way the [[Aiel]] [[Wise Ones]] treat Masuri.
+When [[Faile Bashere]] is captured by the [[Shaido]] Aiel, he travels with [[Elyas Machera]] to find her tracks.
+
+He accompanies Masuri when she begins to meet with Masema by herself.
+He accompanies [[Perrin Aybara]] and Masuri to [[So Habor]], where he sticks close to her when the residents claim to be seeing ghosts.
+
+He goes through the aqueduct to enter the town of [[Malden]] before Perrin begins his attack. Once Faile is found he rushes back to where Masuri is during the [[Battle of Malden]].
+
+{{DEFAULTSORT:Kirklin, Rovair}}

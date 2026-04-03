@@ -1,0 +1,30 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| rank=Aes Sedai
+| nationality=Unknown nationality
+| gender=Female
+| status=Alive
+| mentioned=The Wheel of Time Companion
+| lastmentioned=
+| living=cot
+}}
+'''Caren Endelle''' is an [[Aes Sedai]] of the [[Red Ajah]].{{ref|{{twotc}}, Caren Endelle}} She was part of [[Elaida do Avriny a'Roihan]]'s secret expedition to kidnap [[Rand al'Thor]] in [[Cairhien]].
+
+==Strength and Abilities==
+Caren is is [[Strength in the One Power among Aes Sedai|very weak]] for an Aes Sedai, with a strength in the One Power of {{opsl|43}}. Along with [[Bennae Nalsad]] and [[Nisain a'Cowel]], she is the joint fourth weakest Aes Sedai about which we have information.
+
+== Activities ==
+After kidnapping Rand and escaping capture during the [[Battle of Dumai's Wells]] she flees to [[Dorlan]]. 
+
+=Trivia==
+Caren Endelle is described only in "The Wheel of Time Companion", she is never mentioned in the main books of the Wheel of Time.
+{{notes}}
+{{DEFAULTSORT:Eendelle, Caren}}
+[[Category:Dorlan Group]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

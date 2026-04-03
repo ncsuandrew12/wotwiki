@@ -1,0 +1,38 @@
+function addForceSummary(){
+    if(!/&action=edit/.test(window.location.href)) return;
+    if(/&section=new/.test(window.location.href)) return;
+    if(!document.forms.editform) return;
+    document.forms.editform.wpSave.onclick = forceSummary;
+}
+
+function forceSummary(){
+    if(!document.forms.editform.wpSummary.value.replace(/(^ +)|( +$)/g,'').replace(/^\/\*.*\*\/ */,'')){
+      var r = prompt('Are you sure you want to submit without adding a summary?\nTo add a summary, type it in the box below:',document.forms.editform.wpSummary.value);
+      if(r == null) return false;
+      document.forms.editform.wpSummary.value = r;
+    }
+    return true;
+}
+
+if (window.addEventListener) window.addEventListener("load",addForceSummary,false);
+else if (window.attachEvent) window.attachEvent("onload",addForceSummary);
+
+// This will add an [edit top] link at the top of all pages except preview pages
+// by User:Pile0nades
+
+setTimeout("editTopLink()", 0) // this is equivalent of onload
+function editTopLink() {
+  // if this is preview page or generated page, stop
+  if(document.getElementById("wikiPreview") || window.location.href.indexOf("w/index.php?title=Special:") != -1) return;
+
+  // get the page title
+  var pageTitle = document.title.split(" - ")[0].replace(" ", "_"); 
+
+  // create div and set innerHTML to link
+  var divContainer = document.createElement("div");
+  divContainer.innerHTML = '<div class="editsection" style="float:right;margin-left:5px;margin-top:3px;">[<a href="/index.php?title='+pageTitle+'&action=edit&section=0" title="'+document.title.split(" - ")[0]+'">edit top</a>]</div>';
+
+  // insert divContainer into the DOM before the h1
+  document.getElementById("content").insertBefore(divContainer, document.getElementsByTagName("h1")[0]);
+
+}

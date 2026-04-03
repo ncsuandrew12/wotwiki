@@ -1,0 +1,34 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| birth={{Ne|984}}{{ref|{{twotc}}, Eldrin Cauthon|Eldrin}}
+| status=Alive
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| weight=Plump
+| appeared={{tsr|45}}
+| mentioned={{tsr|13}}
+| lastappeared={{tsr|56}}
+| living=tsr
+}}{{for|others with the same surname|Cauthon}}
+'''Eldrin Cauthon''' is a girl from [[Emond's Field]]. Her parents are [[Abell Cauthon|Abell]] and [[Natti Cauthon]]. Her siblings are [[Matrim Cauthon|Matrim]], [[Bodewhin Cauthon|Bodewhin]].
+== Appearance and Abilities==
+She is two years younger than [[Egwene]]. She is plumply pretty and has a smile similar to Bodewhin's.{{ref||Eldrin}}
+
+We would assume that, unlike her sister Bode, she is unable to channel. At 15-16, she would be of a suitable age to go to the White Tower but was not 
+
+== Activities ==
+When the [[Whitecloaks]] come to the [[Two Rivers]], she along with her mother and sister are taken prisoner by them. She is rescued by [[Perrin Aybara]] and then takes part in the [[Emond's Field]] defense when the [[Trollocs]] attack. With help from her sister [[Bode]] she kills a Trolloc using a boar spear.{{ref/book|4|56}}
+
+== In the television series ==
+In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Eldrin Cauthon}} is portrayed by {{TVlink|Lilibet Biutanaseva}}.
+
+==Name Origin==
+In-world, her name is likely derived from the ancient Queen of [[Manetheren]], [[Eldrene ay Ellan ay Carlan]]. [[Eldrene's Veil]] is a place in current-day [[Two Rivers]].
+
+
+{{notes}}
+{{DEFAULTSORT:Cauthon, Eldrin}}
+
+[[es:Eldrin Cauthon]]

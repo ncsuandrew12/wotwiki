@@ -1,0 +1,23 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Female
+| status=Alive
+| occupation=Maid
+| appeared={{teotw|41}}
+| lastappeared={{teotw|41}}
+| lastmentioned={{tdr|47}}
+| living=teotw
+}}
+'''Gilda''' is a serving maid in the [[Queen's Blessing]].{{ref|{{twotc}}, Gilda}}
+
+==Activities==
+
+She warns [[Master Gill]] about [[Whitecloaks]] in the common room and of [[Moiraine|Moiraine's]] arrival at the inn.{{ref/book|1|41}}
+
+Basel plans to pass on some rumors to her, confident they will spread all over Caemlyn in no time.{{ref/book|3|47}}
+
+{{notes}}
+{{short}}
+[[Category:Serving girls]]

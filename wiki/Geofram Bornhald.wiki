@@ -1,0 +1,54 @@
+{{ character
+| image=Geofram Bornhald.jpg
+| imagesize=250px
+| nationality=Taraboner
+| gender=Male
+| rank=Lord Captain
+| affiliation=Children of the Light
+| occupation=Soldier
+| hair=Gray
+| status=Dead
+| death={{ne|998}}
+| appeared={{teotw|30}}
+| lastappeared={{tgh|48}}
+| lastmentioned={{tom|34}}
+}}
+'''Geofram Bornhald''' was a [[Lord Captain]] of the [[Children of the Light]]. 
+
+==Appearance==
+Geofram is described as being grandfatherly in appearance, and as an experienced soldier with an even temper. 
+
+==History==
+{{quote|I remember giving you the oath... what... thirty-six years ago, it must be, now.|[[Pedron Niall]]}}
+
+He was given the oath of the Light by [[Pedron Niall]] personally around the year {{ne|962}}.
+
+He was considered the best battle commander in the Children of the Light by Niall and was a member of the [[Council of the Anointed]].
+
+Bornhald believed that being a zealot was a good thing but that overzealousness was a flaw. Unlike most Children he did not automatically assume that a suspected person was a [[Darkfriend]], but once he was sure he granted them no mercy.
+
+His son, [[Dain Bornhald]], is also a member of the [[Children of the Light]].
+
+His use of the expletive "yes" at the end of many of his sentences betrays a Taraboner accent. This, as well has his name ending in the common Taraboner surname ''-nhald'', makes it likely he originated from [[Tarabon]].
+
+==Activities==
+His Legion was the force that captured [[Perrin Aybara]] and [[Egwene al'Vere]], and killed [[Hopper]]. He questioned both in his tent and informed them that because Perrin had killed two of the Children he was to be executed once they reached [[Amador]].{{ref/book|1|30}} After their escape he led the Children to [[Caemlyn]] and instigated the riots against Queen [[Morgase Trakand]]. 
+ 
+Bornhald was summoned back to Amador and ordered to secretly lead a legion of two thousand of the Children's best men into the [[Almoth Plain]]. He was to meet a Child of the Light in a village called [[Alcruna]]. Once there he was ordered by [[Jaichim Carridin]] to begin rooting out [[Darkfriend]]s on the plain.{{ref/book|2|5}} Ironically, Carridin himself was a Darkfriend known as Bors.{{ref/book|2|p}}
+
+Bornhald eventually realized the futility of these orders. Defying Carridin's instructions he led his legion to [[Falme]].  He instructed [[Jaret Byar]] to stay out of the battle and report back to his son and to [[Pedron Niall]].{{ref/book|2|44}} He led the Children against the [[Seanchan]]. Along with the [[Heroes of the Horn]] he drove the Seanchan out of Falme, but was killed during the battle.{{ref/book|2|47}}
+
+Bornhald's death resulted in his son Dain beginning an obsessive quest to find and slay Perrin Aybara, whom he believed had orchestrated his father's death.
+
+==In the television series==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Geofram Bornhald}} is played by actor {{TVlink|Stuart Graham}}.
+
+{{Notes}}
+
+[[es:Geofram Bornhald]]
+[[Category:POV character]]<references />
+
+[[es:Geofram Bornhald]]
+[[Category:POV character]]
+[[Category:Lord Captain]]
+{{DEFAULTSORT:Bornhald, Geofram}}

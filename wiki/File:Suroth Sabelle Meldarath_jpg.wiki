@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Suroth Sabelle Meldarath]].
+| Source             = The cover of ''[[New Threads in the Pattern]]''.
+| Artist             = Charles Keegan
+}}

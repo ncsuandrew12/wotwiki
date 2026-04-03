@@ -1,0 +1,50 @@
+{{quote|Everyone thinks they know the Prophecy of Rhuidean, but what they know is what Wise Ones and clan chiefs have told them for generations. Not lies, but not the whole truth. The truth might break the strongest man. In this case, the whole truth, the truth known only to Wise Ones and clan chiefs before this, is that you are our doom. Our doom, and our salvation. Without you, no one of our people will live beyond the Last battle. Perhaps not even until the Last Battle. That is prophecy, and truth. With you...|[[Bair]]|The Prophecy of Rhuidean}}
+
+==Description==
+The Aiel's Prophecy of Rhuidean tells of the coming of the ''[[Car'a'carn]]'', the chief of chiefs, and He Who Comes With The Dawn. The prophecy is a compilation of [[Foretelling]]s and dreams by [[Wise One]]s.{{verify}} This man is destined to unite, destroy, and save a remnant of the [[Aiel]]. 
+
+==Prophecy==
+{{quote|It is said there will be great signs and portents of his coming. He will come from the west, beyond the [[Spine of the World]], but be of our blood. He will go to Rhuidean, and lead us out of the [[Three-Fold Land]]. Under this [[Aes Sedai symbol|sign]], he will conquer.|[[Urien]] of the [[Two Spires]] sept of the Reyn Aiel|He Who Comes With The Dawn{{ref/book|2|28}}}}
+
+{{quote|Prophecy says when the [[Stone of Tear]] falls, we will leave the [[Three-Fold Land]] at last. it says we will be changed, and find again what was ours, and was lost.{{ref|The [[Way of the Leaf]]}}|[[Gaul]] of the [[Imran]] sept of the [[Shaarad]] Aiel, ''[[Shae'en M'taal]]''|He Who Comes With The Dawn{{ref/book|3|34}}}}
+
+{{quote|We seek the one foretold, He Who Comes With The Dawn."<br/>"He will lead us out of the [[Three-Fold Land]]. The prophecies say he was born of ''[[Far Dareis Mai]]''.|[[Bain]] and [[Chiad]]|He Who Comes With The Dawn{{ref/book|3|39}}}}
+
+{{quote|...the Wise Ones say he to be found here, beyond the [[Dragonwall]]. 'Blood of our blood mixed with the old blood, raised by an ancient blood not ours.'|[[Aviendha]]|He Who Comes With The Dawn{{ref/book|3|39}}}}
+
+{{Quote|No. That one will come later. The [[Stone of Tear|stone that never falls]] will fall to announce his coming. Of the blood, but not raised by the blood, he will come from Rhuidean at dawn and tie you together with bonds you cannot break.  He will take you back, and he will destroy you.| One of the last two Aes Sedai with the Jenn Aiel to Charendin, an Aiel sept chief.{{ref/book|4|25}}}}
+
+{{quote|He shall spill out the blood of those who call themselves Aiel as water on sand, and he shall break them as dried twigs, yet a remnant of a remnant shall he save, and they shall live.|[[Bair]]|He Who Comes With The Dawn{{ref/book|4|34}}}}
+
+==Fulfillment==
+===Stone that never falls===
+*The fall of the [[Stone of Tear]]{{ref/book|3|56}}
+
+===The blood===
+*[[Janduin]] provides the blood link to the Aiel {{ref/book|3|34}}
+*[[Shaiel]] provides the link to the 'old blood',{{ref/book|4|34}} possibly the royal lines of [[Andor]] and [[Aldeshar]] or the people of the westlands before the Aiel crossed the Dragonwall.{{verify}}
+*[[Tamlin al'Thor]], of ancient blood of [[Manetheren]] raises Rand{{ref/book|1|5}}
+===He will come from the west===
+*beyond the [[Spine of the World]]
+*beyond the [[Dragonwall]]
+===He Who Comes With The Dawn===
+*Rand returned from Rhuidean after seven days and approached the Aiel encampment at dawn.
+
+===Bonds you cannot break===
+*The Aiel existence around ''[[Ji'e'toh]]'' obligates them to follow Rand for their own honor. Also, he unites the eleven clans (and even some [[Shaido]]) into an ''Aiel nation''.
+
+===He will take you back, and he will destroy you===
+*He leads the Aiel across the Dragonwall in order to pursue the [[Shaido]] and with a mission to unite the nations under him before the Last Battle.
+*Rand reveals the secret hidden within Rhuidean, that the Aiel were originally called [[Da'shain Aiel]] and followed the [[Way of the Leaf]], leading to the [[bleakness]].
+*The Pattern weaves events that lead to the near annihilation of the Shaido against Rand, Perrin, and the Seanchan after they reject him as the ''car'a'carn''.
+*When the Aiel were included in [[The Dragon's Peace]], they were forbidden to fight each other. By taking war out of the Aiel life, the Peace has completely destroyed the 'old' Aiel, and replaced it by the 'new', more peaceful, Aiel. This might be a symbolic interpretation of the foreseen destruction.
+*Like all the other peoples, the Aiel suffered massive casualties during the [[Last Battle]], which might be interpreted as them being destroyed.
+
+===A remnant of a remnant shall he save, and they shall live===
+*This may refer to the future that Aviendha saw upon her second trip through the glass column ter'angreal in Rhuidean, in which her descendants lost their honor and their identity as Aiel in their fight against the Seanchan, until eventually only a handful of feral people remained. This was subverted by her interaction with the ''ter'angreal'', and possibly precipitated by her interaction with Nakomi. It was also subverted when Aviendha was instructed to change the name of one of her future children in order to prove that the future she saw could be changed.
+*The "remnant of a remnant" may simply refer to the Aiel population that survived both the large cumulative casualties of Rand's campaigns and the [[Last Battle]], and the attrition of the bleakness (and possibly self-imposition of permanent ''gai'shain'' status).
+{{expand}}
+{{notes}}
+[[Category:Foretellings]]
+[[Category:Prophecies]]
+[[Category:Aiel culture]]

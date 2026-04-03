@@ -1,0 +1,85 @@
+{{quote|The presence of a real bed after so many weeks makes me forward as a farmgirl at harvest."
+Sometimes he wondered about these Saldaean farmgirls she was always bringing up. Blushes or no, if they were as forward as Faile when he and she were alone, no crops would ever be harvested in Saldaea.|[[Faile]] and [[Perrin]]}}
+{{dablink|For other uses of the word "gate," see [[Gate]].}}
+{{summary | book=6 |
+|chapter=46
+|title=Beyond the Gate
+|icon=Flame
+|setting=[[Caemlyn]]
+}}
+
+== Summary ==
+
+:{{pov|[[Perrin Aybara]]}}
+As Perrin finishes his meeting with [[Rand]], he finds [[Davram Bashere]] waiting for him. Bashere simply says, "We will talk", and then leads Perrin to a room. At first, Bashere implies that Perrin is merely seeking access to the [[Broken Crown]].{{ref|Min had a viewing related to this in ''[[The Eye of the World]]'', [[The Eye of the World/Chapter 15|Chapter 15]].}} Perrin retorts that he is merely a blacksmith. Then Bashere discredits Perrin's marriage to [[Zarine ni Bashere t'Aybara|Zarine]]. Perrin insists it was valid―it was the same ceremony always used in the [[Two Rivers]]. Bashere dismisses it because Zarine isn't old enough to marry and if she doesn't convince her mother she will be sent to the [[Saldaea]]n camp. And if that happens Bashere will have to kill Perrin. Eventually, after a long discussion, Bashere judges that Perrin is good enough to be Faile's husband and they go to see the women. When they get there, Perrin hears and then sees that Faile and her mother, [[Deira ni Ghaline t'Bashere|Deira]], have slapped each other. Deira questions Perrin's ability to dominate Faile. Eventually Davram tells her to back down and she does.
+
+:{{pov|[[Rand al'Thor]]}}
+[[Min]] comes in and sits in her usual chair―Rand's lap. Min lets slip that Faile is the falcon from a previous vision{{ref/book|3|6}} and that she'll be furious when "the hawk" shows up. Rather than ask what that means, Rand asks if she's seen anything that concerns him. Twice Perrin will have to be there for Rand. Even if Perrin is there, he might not be able to protect Rand. But if he is not there, something bad will definitely happen to Rand. Min reminds Rand that she discovered that the [[Salidar]] [[Aes Sedai]] are holding secret meetings with the nobles in Caemlyn. When Min leaves, [[Lews Therin Telamon|Lews Therin]] begins again saying he should kill the Aes Sedai and Rand has to concentrate to quiet him. 
+
+:{{pov|[[Demira Eriff]]}}
+Demira is hoping to meet an eyes-and-ears of hers that works in the palace library, but he must not have received her message on the meeting time. She's irritated because the men on the street keep admiring her because of her [[Domani]] dress, which she only wears out of habit. She begins her journey back to the inn through the alleys. She meets six men dressed like [[Aiel]] men. As they pass her, they stab her with their spears and she loses consciousness. One of them was a squat man with black, villainous eyes.{{ref|Clearly these are not real Aiel since this man's appearance is all wrong. The [[Wheel of Time Companion]] confirms that these were some of the [[Whitecloaks]] who were corrupted by [[Padan Fain]].}}
+
+:{{pov|[[Perrin Aybara]]}}
+[[Sulin]] shows Perrin and Faile to their rooms and starts explaining everything to them. Not realizing she is not a real servant, Perrin gives her a tip to get rid of her. Sulin is furious, but accepts the coin and leaves in a huff. Faile lets Perrin know that spying is a wife's job and she is going to do it to protect him, even from Rand if she can. Perrin demands that she refrain from spying on Rand. She puts on a show of compliance. Then she suggests that they get working on the six (or more) grandchildren that they just promised to Deira.
+
+:{{pov|[[Demira Eriff]]}}
+Demira wakes in the [[Crown of Roses]], surprised that she is not dead. Before losing consciousness, she received a verbal message that she and the other "witches" should stay away from the [[Dragon Reborn]].{{ref|An Aiel would not call an Aes Sedai a "witch" and he would call Rand the [[Car'a'carn]], not the Dragon Reborn. The [[Wheel of Time Companion]] confirms that these were some of the [[Whitecloaks]] who were corrupted by [[Padan Fain]].}} At around the same time a stranger came into the Crown of Roses and announced that he had just seen an Aes Sedai being pursued by Aiel who looked like they intended to kill her. At that moment Demira's [[warder]], [[Stevan Gedarien|Stevan]], felt her being stabbed. Stevan took [[Berenicia Morsad|Berenicia]] with him. None of Demira's injuries were fatal―a clear indication that she was meant to survive. The Aes Sedai assume the warning and the attack were at Rand's direction. [[Verin]] enters and begins to take over from [[Merana]] to help set direction on how to respond to the attack. Verin is as strong as anyone else in the embassy and is much older, putting her at the top of the unspoken Aes Sedai hierarchy. They decide to stop meeting with Rand for a few days.
+
+==Characters==
+* [[Perrin]]
+* [[Rand]]
+* [[Faile]]
+* [[Davram Bashere]]
+* [[Deira Bashere]]
+* [[Lews Therin]] in Rand's head
+* [[Min]]
+* [[Demira Eriff]]
+* [[Stevan Gedarien]]
+* [[Merana Ambrey]]
+* [[Berenecia Morsad]]
+* [[Seonid Traighan]]
+* [[Verin]]
+
+===Referenced===
+* [[Sulin]]
+* [[Alsbet Luhhan]]
+* [[Artur Hawkwing]]
+* [[Gaul]]
+* [[Daise Congar]]
+* [[Mat]]
+* [[Sammael]]
+* [[Melaine]]
+* [[Pelivar]]
+* [[Aviendha]]
+* [[Elayne]]
+* [[Bain]]
+* [[Chiad]]
+* [[Cinchonine|Mistress Cinchonine]] Innkeeper
+* [[Milam Harnder]]
+
+==Places==
+* [[Royal Palace of Andor]]
+
+===Referenced===
+* [[Two Rivers]]
+* [[Tyr]]
+* [[Sidona]]
+* [[Bashere]]
+* [[Tear]]
+* [[Caemlyn]]
+* [[Arad Doman]]
+* [[Cairhien (city)]]
+* [[Bandar Eban]]
+* [[Watch Hill]]
+* [[Emond's Field]]
+* [[Saldaea]]
+* [[Shienar]]
+
+==Items==
+
+===Referenced===
+* [[Horn of Valere]]
+
+{{notes}}
+
+{{DISPLAYTITLE:''Beyond the Gate''}}

@@ -1,0 +1,2 @@
+<includeonly><span style="color: #ffce73;">{{{text|{{{1|}}}}}}</span></includeonly><noinclude>{{Documentation}}
+[[Category:Linking templates]]</noinclude>

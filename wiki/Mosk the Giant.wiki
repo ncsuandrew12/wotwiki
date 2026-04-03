@@ -1,0 +1,24 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewot=fiction
+| name=Mosk
+| status=Fictional character
+| title=Mosk the Giant
+| gender=Male
+| mentioned={{teotw|4}}
+| lastmentioned={{tsr|20}}
+}}
+
+{{quote|Did Mosk and [[Merk the Giant|Merk]] really fight with spears of fire, and were they even giants?|Thom Merrilin{{ref/book|4|20}}}}
+
+'''Mosk the Giant''' is a character in one of the ancient [[stories]] in [[Thom Merrilin|Thom Merrilin's]] repertoire. The story of Mosk the Giant dates to the [[First Age]].{{ref|{{twotc}}, Mosk the Giant|Mosk}} Mosk had a "Lance of fire that could reach around the world" and went to war with [[Elsbet, the Queen of All]].{{ref/book|1|4}}  Mosk also used "spears of fire" to fight against Merk, another giant of great strength.{{ref||Mosk}}  The tales of Mosk, Merk, and Elsbet are examples of historical accounts that over time evolved into legends which further changed and faded into myth.  This is common for all stories that transcend multiple ages as the [[Wheel of Time]] turns.{{ref/book|1|1}}  Eventually the myth of Mosk the Giant will disappear from memory and will be long forgotten when the age that gave rise to the original story comes again.{{ref/book|1|1}}
+
+==Parallels==
+Mosk is a hidden reference to [[Wikipedia:Moscow|Moscow]] and Merk refers to the United States of America. Their struggle against each other refers to the Cold War of the 20th century. Elsbet, the Queen of All is a hidden reference to Queen Elizabeth of the United Kingdom. Mosk's war with Elsbet and Merk implies a conflict between the USSR and the allied western nations of the UK and the USA.  The spears and lances of fire utilized by the giants refer to combat waged via the use of [[Wikipedia:Intercontinental ballistic missile|intercontinental ballistic missiles]].
+
+{{notes}}
+{{short}}
+[[Category:Parallels]]
+[[Category:First Age]]
+[[Category:Short pages]]

@@ -1,0 +1,68 @@
+This is a theory page, listing '''what is yet to happen or happened off screen''' by the conclusion of ''A Memory of Light''. Feel free to add what is missing or re-organize it if the classification, by person and what comes from them, is messy.
+
+==[[Rand]]==
+* (Seanchan version): Rand must bow to the [[Crystal Throne]] to win the [[Last Battle]]; Supporting this version is Aviendha's visions of the future, in which there is this statement: 
+{{Quote|"What care do they have for the Dragon?" Hehyal asked. "They are invaders who forced him to bow to their Empress. She is considered above him. They will not keep promises they made to an inferior."|{{13|49}}}}
+
+*(Westland version): Rand must bind the Nine Moons to serve him. Normally, these would not necessarily be incompatible, but seeing that they are two variations of the same foretelling, one of them is likely to be false. 
+
+The Seanchan version seems to be false for several reasons:
+
+1. It serves as the Seanchan Empire's propaganda—several copies of Westland version have been found from Seanchan. 
+
+2. Aviendha's visions of the Aiel getting destroyed by Seanchan, and not Rand.
+
+3. In ''A Memory of Light,'' Rand confronts Tuon and Mat, wherein Tuon agrees to join the Dragon's Peace and Rand does not bow to the [[Crystal Throne]] in subservience.
+
+Didn't Rand bow when he met with Tuon?  That along with the plants growing satisfied the signs Tuon was looking for when she agreed.  Rand did not submit to the Seanchan Empire, but he did perform the physical act of bowing.
+
+* Rand new power ?
+At the end of a memory of light, Rand seems to get a new power : he lights his pipe just by thinking of doing it. What is this new power ?
+
+ - Rand can now manipulate the real world like Tel'aran'rhiod
+
+==[[Mat]]==
+*In Seanchan, legend speaks of the Imperial Family returning to [[The Towers of Midnight]] when a time of dire need comes in order to "right that which is wrong." Being that this is the place where the original ''[[a'dam]]'' was used, it could be refering to the end of the practice of chaining female channelers. [[Semirhage]] assassinated the entire Imperial Family in Seanchan which means that Tuon and Mat, through his marriage to Tuon, are the only members of the Imperial Family able to fulfill this prophecy.
+*A comment made by one the [[Finn|Eelfinn]] when Mat, Thom, and [[Noal]] go to rescue Moiraine implies that Mat and the Finn will meet again sometime in the future.
+
+==[[Perrin]]==
+* [[Min]]'s [[Min's viewings|viewing]]{{ref/book|1|15}}: trees flowering all around Perrin, possibly refers to the death of his family as they were buried among a grove of apple blossom trees. It could also mean Perrin finding the lost song of the [[Tinker]]s.
+The odd thing about this is that it seems Rand found the song (making trees grow all around him as well as plant life) so not sure of the connection back to Perrin.
+
+==[[Elayne]] and other kings and queens==
+* Elayne gives birth to her twins, suspected to be the twin heroes Shivan and Calian who are the harbingers of a new age. These names are not the names attributed to the twins in Aviendha's viewing in Towers of Midnight.
+
+==[[Nynaeve]]==
+* Possible pregnancy according to [[Min]]'s [[Min's viewings|viewing]] of [[Lan]] of a baby holding a sword and that [[Robert Jordan]] has stated that Min's viewings are always indicative of the future, never the past.
+
+==The [[Way of the Leaf]]==
+* The ''[[Tuatha'an]]'' journey to the [[Aiel Waste|Three-Fold land]] and [[Rhuidean]], and reconcile with the [[Aiel]].
+It remains unknown if the Tuatha'an will even rejoin with the Aiel again at all. It seems unlikely that they will journey back to Rhuidean as even the Aiel have no plans to go back now.
+
+
+===The [[Song]]===
+Rand likely rediscovered the song. Plant life grows rapidly around him on several occasions, and he is shown to be singing when this happens during his meeting with [[Tuon Athaem Kore Paendrag|Fortuona]].
+
+# The apple trees blooming near [[Dragonmount]].{{ref/book|13|1}}
+# The oak trees at the [[Field of Merrilor]].{{ref/book|14|7}}
+# The peach trees with his meeting with the Empress.{{ref/book|14|17}}
+# Some think the unspoiled grain in [[Bandar Eban]]{{ref/book|13|25}} is an instance of Rand using the song,{{ref|{{Cite/web |url=https://dragonmount.com/news/theoryblog/wot-ifrand-uses-seed-singing-r554/ |title=WoT If...Rand Uses Seed Singing? |date=2013-05-14 |last=Sedai |first=Mashiara |accessdate=2026-02-03}}}} but that seems highly unlikely given that:
+## Rand is not shown to be singing at the time (despite a fair amount of focus on Rand in the prose).
+## Rand himself explains that the spoiled grain samples were selected by chance.
+## This would be the only known instance of singing applying directly to produce after being harvested.
+
+According to Robert Jordan's notes, the Tuatha'an will never find the Song:
+
+{{quote
+ |quote=Robert Jordan's notes on this are very clear: the Tinkers will never find their song. They've lost it for too long, that even if someone stood in front of them singing The Song, they would just nod their head, say 'that's a nice song' and go on their way.
+ |speakers=Brandon Sanderson
+ |other_refs={{ref/tidb|872|1}}}}
+
+==See also==
+* [[Min's viewings#Unresolved|Min's viewings]]
+* [[Egwene's dreams#Unresolved|Egwene's dreams]]
+* [[Karaethon Cycle]]
+
+{{notes}}
+
+{{Theory}}

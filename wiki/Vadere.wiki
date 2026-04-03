@@ -1,0 +1,19 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Innkeeper
+| gender=Female
+| appeared={{cot|26}}
+| lastappeared={{cot|26}}
+| living=cot
+}}Mistress '''Vadere''' is the innkeeper of the [[Golden Barge]], in [[So Habor]].{{ref|{{twotc}}, Vadere, Mistress}}
+
+==Appearance==
+Mistress Vadere has a long nose. When she is met, she looks very dirty for an innkeeper.
+
+==Activities==
+When [[Perrin Aybara]], [[Berelain sur Paendrag Paeron]] and their group go to So Habor to purchace grain, Mistress Vadere serves them wine.
+
+{{notes}}

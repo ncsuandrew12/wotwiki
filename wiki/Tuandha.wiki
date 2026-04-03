@@ -1,0 +1,24 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| society=Far Dareis Mai
+| clan=Unknown clan
+| sept=Unknown sept
+| affiliation=Car'a'carn
+| height=Tall
+| status=Alive
+| appeared={{cot|8}}
+| lastappeared={{cot|8}}
+| living=cot
+}}
+'''Tuandha''' is a ''[[Far Dareis Mai]]''.
+
+== Appearance ==
+She is tall and has lost her right eye. She has a thick scar on the right-hand side which pulls one side of her mouth up in a half smile.
+
+== Activities ==
+She is part of [[Perrin Aybara]]'s army that goes into [[Ghealdan]].
+
+She is one of the Maidens who meet Perrin when he sets out to view the [[Shaido]] camped in [[Malden]].

@@ -1,0 +1,22 @@
+<tabber>
+|-|
+About=
+This account is not to be contacted as a moderator. It contains those rights so as to better serve it's function. Instead, contact [[User:Moridin 2000|Moridin 2000]].
+{{w:User:Moonwatcher x Qibli-Bot}}
+|-| 
+Projects=
+==Current/future==
+* So I'm trying to do something quite complicated, it involves the following. 
+** Add a new param to the infobox for characters that is for a link to the artist category that created the image.
+** bot edit this new param into every article that transcluded the character infobox. 
+** (the complicated part) I need to add, in with the new param, a link to the artist category for the artist that created the image used in the image param of the infobox on that page. This would hypothetically be done by finding the category that the image is in that is also categorized by the master artists category then adding that as a link in this new param on the OG page. 
+
+==In-progress (for multi-step projects)==
+
+==Completed==
+* Scanning all articles for needed genfixes, and fixing them. 
+* In many thousands of our chapter summaries, there are br tags in the title, and in some others, there is additional unneeded text. I'm removing all this and making it just ''Chapter Name''. Some articles are completed, but due to different variants, it's taking several batches. 
+** Need to run: find: <br><nowiki>\{\{DISPLAYTITLE\:\'\'(.*?)\'\'\<br(\s|)\/\>\<br(\s|)\/\>\<small\>(.*)\<\/small\>\}\}</nowiki><br>replace:<br><nowiki>{{DISPLAYTITLE:''$1''}}</nowiki>
+</tabber>
+<hr>
+This bot activity is approved. We salute your machine intelligence! [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 12:54, 24 February 2024 (UTC) ([https://wot.fandom.com/wiki/User:Moonwatcher_x_Qibli_%2Bbot%2B?diff=152738&oldid=151013 edit added])

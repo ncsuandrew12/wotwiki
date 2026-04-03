@@ -1,0 +1,71 @@
+{{featuredicon}}{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| ewot=Lunal
+| height=Tall
+| eyes=Blue
+| hair=White
+| rank=Captain-General
+| status=Alive
+| nationality=Seanchan
+| gender=Male
+| appeared={{kod|p}}
+| lastappeared={{amol|37}}
+| living=amol
+}}'''Lunal Galgan''' is a [[Seanchan]] [[Captain-General (Seanchan)|Captain-General]] in command of the soldiers of the [[Corenne|Return]].{{ref/book|c|Lunal Galgan}}
+
+== Appearance ==
+He is tall with his white hair in a crest, its tail plaited to his shoulders. He has a creased face and blue eyes. His fingernails are lacquered red.{{ref/book|11|p}}
+
+== Personality ==
+
+Galgan is pragmatic, eschewing some of the formalities of [[Seanchan]] society as "excessive ceremony" in the name of efficiency.{{ref/book|11|p}} Like the rest of [[The Blood]], he is shrewd and political, making use of assassins and feigned reactions. He has great respect for competence, as exhibited in his attitude towards [[Tylee Khirgan]]{{ref/book|12|19}}{{ref/book|14|37}} and especially in his changing attitude towards [[Mat Cauthon]].{{ref/book|14|24}}{{ref/book|14|29}}{{ref/book|14|32}}{{ref/book|14|37}} He is ambitious,{{ref/book|12|19}} but very dutiful and loyal to the Seanchan Empire.{{ref/book|13|47}}
+
+== Abilities ==
+
+Galgan is considered an excellent general.{{ref/book|11|p}}
+
+== Activities ==
+
+=== Under Suroth ===
+
+He crossed the [[Aryth Ocean]] with [[Tuon Athaem Kore Paendrag]] and the rest of the Return. He met with [[Suroth Sabelle Meldarath]] and discussed the uprisings caused by [[Rodel Ituralde]] in [[Tarabon]], dismissing Suroth's suggestion that [[Asha'man]] may be involved and disputing Suroth's minimization of the desertion by the [[Children of the Light]]. Despite provoking Suroth with the manner in his reponses to her commands, he never directly took command from Suroth due to Tuon's disappearance.{{ref/book|11|p}} 
+
+After learning the news of Empress [[Radhanan]]'s death and the chaos in [[Seanchan]], he began to assert his authority as commander of the Return and right to supersede Suroth's authority. However, he was interrupted matters when Tuon returned, effectively taking control of all the [[Seanchan]] forces and making Suroth ''[[da'covale]]''.{{ref/book|11|e}}
+
+=== Meeting the Dragon and raiding Tar Valon ===
+
+He was present when Tuon warned King [[Beslan Mitsobar]] against rebellion and accepted his oath of fealty. He showed Tuon a banner of the [[Dragon Reborn]] containing the ancient symbol of the Aes Sedai and notified her that the Dragon Reborn had asked "yet again" to meet with her. When Tuon solicited his advice, he suggested that [[Rand al'Thor]] may not be the true Dragon Reborn and that the Seanchan had more pressing concerns, but seemed to accept Tuon's assertion that Rand was the true Dragon Reborn. Tuon proclaimed that the Seanchan would remain in the [[Westlands]] rather than return to subdue the Seanchan homeland, and concluded from his reaction that Galgan agreed and respected her for the decision.{{ref/book|12|19}}
+
+Galgan brought forward [[Abaldar Yulan]], who proposed launching an aerial raid against the [[White Tower]] using ''[[raken]]'' and ''[[to'raken]]''. Galgan endorsed the plan while acknowledging its potential for "great loss." He advised Tuon that they had conflicted reports on the relationship between the [[Dragon Reborn]] and the [[White Tower]]. He was surprised by [[Tylee Khirgan]]'s sudden arrival and recommended she be allowed to speak, which Tuon allowed. At the conclusion of the meeting, Tuon ordered Galgan to accept the Dragon Reborn's request for a meeting and to order the Seanchan forces along the frontiers to adopt a defensive posture.{{ref/book|12|19}}
+
+Following her meeting with the [[Dragon Reborn]], Tuon she declared herself Empress and accepted the plan to attack the White Tower.{{ref/book|12|35}} Galgan believed the raid on the White Tower would place the Dragon Reborn in a worse bargaining position with respect to the Seanchan.{{ref/book|12|36}}
+
+=== Aftermath of the raid ===
+
+Galgan was present with Fortuona when [[Melitene]] presented [[Suffa]], the former [[Amyrlin Seat]], and had her demonstrate [[Traveling]]. Galgan sought and received permission to interrogate Suffa regarding the limits of [[Traveling]] and immediately departed with Suffa to do so. Fortuona decreed that all ''damane'' were to learn the weave in preparation for a full-scale attack on the White Tower using [[Gateways]] to transport Galgan's "finest soldiers" there.{{ref/book|13|47}}
+
+Galgan hired Westland assassins to assassinate Tuon, but executed men who quoted a price.{{ref/book|13|47}}{{ref/book|14|11}}{{ref/book|14|15}} Tuon and [[Selucia]] both considered this a way of showing that he was ambitious but, for the present, loyal.{{ref/book|13|47}}{{ref/book|14|15}} Mat interpreted it as a genuine threat to Tuon's safety, which precipitated his reunion with her.{{ref/book|14|11}}
+
+=== The [[Last Battle]] ===
+
+Galgan watched [[Matrim Cauthon]] gather the Seanchan forces for [[Tarmon Gai'don]]. He expected Mat to be punished or called down when he complained about the bowing as Tuon stood to make a proclamation. Instead, she named Mat Knotai and given the rank of [[rodholder]], which displeased Galgan, who muttered "He will need to learn to kneel" in response. After receiving a report of the [[Sharan]] attack on the [[Aes Sedai]] forces, Tuon ordered Galgan to move Seanchan forces to protect the Aes Sedai.{{ref/book|14|24}}
+
+Mat attempted to play cards with Galgan as a means of ingratiating himself, but Galgan would not do so.{{ref/book|14|27}}
+
+After Min brought [[Gareth Bryne]]'s request for cavalry to the Seanchan, Galgan ordered [[Tylee Khirgan]] to assist Bryne with her legion as suggested by Mat. In reaction to Mat's assertion that Sharan archers would move to flank Bryne, Galgan followed his suggestion to send a ''[[raken]]'' to confirm. At Mat's request, Min viewed Galgan and saw "A dagger rammed through the heart of a raven," which she did not think referred to Mat.{{ref/book|14|27}}
+
+Galgan expressed surprise that Mat had managed to retain some of his previous clothing when Mat produced the bundle of clothing in preparation for observing the battlefield.{{ref/book|14|28}} When Mat observed [[Demandred]], Galgan noted that he was yelling for the [[Dragon Reborn]].{{ref/book|14|29}}
+
+When Mat realized that [[Gareth Bryne]] was trying to lose the battle against Demandred's forces, he told Tuon that he needed full control of the army, superseding Galgan. Galgan looked as if he would rather swallow his own boots than have Mat in command, but he stepped aside.{{ref/book|14|29}}
+
+When Galgan later commented on the momentous changes likely to result from the strategic use of [[Gateways]], Mat responded that it wouldn't change delays in getting dinner from mess tents. Galgan smiled and, in answer to Tuon's request for an assessment, he praised Mat as a battle commander gifted such as Galgan had rarely seen. He acknowledged Mat's great value and told Mat that the first assassins he sent for him would be newly trained, so that Mat could "stop them with ease."{{ref/book|14|32}}
+
+Galgan and Mat discussed the prospects of the allied forces of the Light, concluding with Galgan recommending that Mat select a battlefield more advantageous for Mat's forces. Galgan recognized the reference and agreed with Mat when the latter quoted [[Artur Hawkwing]] to convince the [[Aes Sedai]] to retreat from the river.{{ref/book|14|32}} Mat's prowess and understanding seemed to Tuon to have "converted" Galgan.{{ref/book|14|37}}
+
+When Mat requested the Seanchan return after the feigned dispute between Mat and Tuon, Galgan observed the poor state of the Last Battle for Mat and asserted that Mat had waited too long. However, he spoke in support of Mat against [[Yulan]]'s criticism of Mat as reckless. Galgan looked to [[Tylee Khirgan]] to respond to Yulan's criticisms of Mat, but also rebuffed Min's apparent criticism of Tuon's hesitation to return to the Last Battle. Following Min's exposure of Yulan's [[Compulsion]] and [[Moghedien]]'s spying, Tuon ordered Galgan to return the army to the [[Field of Merrilor]].{{ref/book|14|37}}
+
+{{notes}}
+{{DEFAULTSORT:Galgan, Lunal}}
+[[Category:Ever Victorious Army]]
+[[Category:Soldiers]]

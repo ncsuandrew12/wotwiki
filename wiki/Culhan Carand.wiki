@@ -1,0 +1,30 @@
+{{ character 
+| image=Carand.png
+| imagesize=250px
+| nationality=Andoran
+| title=[[Lord]]
+| gender=Male
+| status=Alive
+| appeared={{tpod|17}}
+| mentioned={{loc|28}}
+| lastappeared={{tpod|17}}
+| lastmentioned={{tpod|18}}
+| living=tpod
+}}
+'''Culhan Carand''' is an [[Andoran]] noble. His wife is [[Aemlyn Carand]]. 
+
+== Appearance ==
+He has a square face.
+
+== Activities ==
+He was exiled with his wife by Queen [[Morgase Trakand]] under the influence of Lord [[Gaebril]].
+
+He enters the city quietly when [[Rand al'Thor]] disposes of Lord Gaebril and stays with Lord [[Pelivar Coelan]]. 
+
+He meets with the [[Salidar]] delegation on the border of Andor.
+
+{{DEFAULTSORT:Carand, Culhan}}
+
+[[es:Culhan Carand]]
+[[Category:Short pages]]
+[[Category:Nobility]]

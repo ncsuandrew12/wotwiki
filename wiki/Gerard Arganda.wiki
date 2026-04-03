@@ -1,0 +1,61 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| occupation=Soldier
+| rank=First Captain
+| eyes=Dark
+| affiliation=Perrin Aybara
+| gender=Male
+| build=Squat
+| height=Short
+| hair=Graying
+| appeared={{wh|2}}
+| lastappeared={{amol|39}}
+| living=amol
+}}
+'''Gerard Arganda''' is First Captain of the [[Ghealdan|Ghealdanin]] forces. 
+
+== Appearance ==
+His hair is graying and he has dark eyes. He is short and squat with a deep rough voice.
+
+== History ==
+He became a soldier at the age of fifteen and fought in the [[Aiel War]], as well as against [[Whitecloaks]], [[Altara]], and [[Amadicia]]. He was just a commoner when he joined the army and rose through the ranks to become an officer.
+
+== Activities ==
+=== Alliandre's kidnapping ===
+When Queen [[Alliandre Maritha Kigarin]] was kidnapped by [[Shaido]] [[Aiel]], he and his men were on the verge of attacking the Aiel within [[Perrin Aybara]]'s camp. Perrin ordered him to stand down and return to his camp.
+
+He accompanied Perrin when the latter observed the Shaido camped in [[Malden]].
+He was with the Shaido prisoners when Perrin arrived and chopped off one of their hands while looking for information about his missing wife.
+
+He was present in the tent when [[Galina Casban]] was brought in and questioned by Perrin.
+He later went with Perrin when he made his deal with the [[Seanchan]].
+He led the Ghealdanin forces in the [[Battle of Malden]].
+
+=== Confrontation with the Whitecloaks ===
+Arganda confronted Perrin over the latter's practice of hiring mercenaries as they travel through Ghealdan. Later, he attended a meeting with Perrin to decide where the army should go. A decision was made to send a scouting force to [[Cairhien]] to start looking for [[Rand al'Thor]].
+
+He was present during [[Seonid Traighan]]'s report to Perrin on current events that are happening throughout the [[Westlands]].{{ref/book|13|21}}
+When Perrin's force was about to engage the Whitecloaks, Perrin ordered the [[Asha'man]] and the [[Wise Ones]] to create a massive trench between the two forces as a show of strength. Arganda was frustrated by the "waste" of their limited channeling strength in a warning blast.{{ref/book|13|26}}
+Perrin consulted with him and [[Gallenne]] on where an enemy would set up an ambush down the [[Jehannah Road]]; Arganda suggested up on the heights above an old riverbed. He then witnessed Perrin create ''[[Mah'alleinir]]'' and declare to his followers his acceptance of his role as their Lord and leader.
+
+Arganda led the contingent of cavalry that attacked the army of [[Shadowspawn]] who were in turn about to ambush the Whitecloaks.
+He was part of Perrin's procession when they met with [[Elayne Trakand]] in [[Caemlyn]]. He [[Traveling|Travelled]] through with Perrin and the rest of his huge force to the [[Field of Merrilor]] to prepare for the [[Last Battle]].
+
+=== Saving Caemlyn ===
+He rode with Perrin as part of the plan to break the Shadowspawn forces that had taken [[Caemlyn]].{{ref/book|14|10}} Perrin grabbed his attention and told everyone that he must leave the army. Perrin placed [[Tam al'Thor]] in charge of the army in his absence. After the battle outside of Cairhien, Arganda took a plume from the helmet of the fallen Gallenne, and added it to his own helmet.
+
+== The Last Battle ==
+Arganda helped lead the fighting by the ruins along the River Mora. After securing that part of the river, he moved downriver closer to Polov Heights, where he spent several hours fighting Trollocs and [[Shara|Sharans]] trying to outflank the Andoran forces via the dried riverbed. He met up with [[Tam al'Thor]] and [[Al'Lan Mandragoran|Lan Mandragoran]] at the base of the Heights, where they made a combined push up the northeast side of the hill against an oncoming Sharan force. The Two Rivers longbowmen weakened the Sharan's formations for the Borderlander army to charge into them. Arganda wondered why Tam seemed to be such a competent battlefield commander despite being a farmer. He then led a company of foot soldiers against the shield lines of the Sharans, using a mace rather than his customary sword. His horse, [[Mighty]], was killed when a Trolloc cracked its skull with a punch. He managed to score a solid blow, breaking the Trollocs pelvis, but was backhanded and knocked unconscious. He awakened when Lan pulled him onto a horse to take him to safety. Lan informed him that he had landed a killing blow on the Trolloc, and had only been struck by its death-throe, which broke his arm. Arganda surveyed the battle, and despaired that they are so outnumbered that even if they were to beat the Sharans, every soldier would have to kill five Trollocs each.
+
+Arganda was the one who informed [[Matrim Cauthon|Mat]] of [[Egwene al'Vere|Egwene]]'s death. He also informed him that that all the Sharan channelers were defeated, and that the [[Aes Sedai]] were exhausted and could no longer fight in the Last Battle.
+
+He joined Mat in the final charge against the Trollocs, and they heard a sound. Arganda asked Mat what it was, and Mat told him it was the [[Horn of Valere]].
+
+{{DEFAULTSORT:Arganda, Gerard}}
+
+{{notes}}
+[[Category:POV character]]
+[[Category:Generals]]

@@ -1,0 +1,41 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=House Trakand
+| gender=Male
+| occupation=First Clerk
+| height=Tall
+| build=Bony
+| status=Alive
+| appeared={{loc|10}}
+| lastappeared={{tom|45}}
+| lastmentioned={{amol|7}}
+| living=amol
+}}
+'''Halwin Norry''' is [[First Clerk]] in the [[Royal Palace of Andor|Royal Palace]] of [[Andor]].
+
+== Appearance ==
+He is tall and bony. He has long spindly shanks and tufts of hair sticking up. He has a long and peaked face.
+
+== Activities ==
+=== Running the books  ===
+He helps to run the Royal Palace after [[Rand al'Thor]] defeats Lord [[Gaebril]].
+
+He reports to [[Elayne Trakand]] about deposits of alum being found on her estates in [[Danabar]]. He also informs Elayne of [[Elaida do Avriny a'Roihan]]'s proclamation towards the [[Dragon Reborn]]. He then continues with other news from around the world.
+He later comes back to inform Elayne that the two most prominent bankers in Andor are amenable to the mining and distribution of the alum. He then goes on to tell of the increased breeding of the rats in the sewer and of the [[Borderlands]] rulers remaining in [[New Braem]].
+After Elayne gets back from New Braem, Norry gives her the news that four small armies of twenty thousand men are marching towards [[Caemlyn]] from the east.
+He reports that arsons are increasing within the city, particularly on the food warehouses. He also reports that [[House Marne]], [[House Arawn]], and [[House Sarand]] have taken large loans out against their estates, probably in an attempt to hire the mercenaries within the city itself.
+
+=== Becoming the spymaster ===
+After discovering a lot of spies in the Palace Elayne give to Norry and to [[Reene Harfor]] the task to organize an intelligence system to neutralize them. Between Norry and Harfor starts a rivalry to become the best spymaster.
+
+He introduces [[Samwil Hark]] to Elayne. He was a very successful cutpurse before finally getting caught. For this reason Norry suggests using Hark to follow [[Daved Hanlon]]. He returns to Elayne with Hark, after Hark successfully follows Hanlon to where he is staying. 
+
+He reports to Elayne that arsons still continue to plague Caemlyn, even after Hanlon was captured. He also brings the death warrants for [[Rhys a'Balaman]] and [[Aldred Gomaisen]], who turned coat during the battle against [[Arymilla Marne]], for Elayne to sign.
+
+He places a tail on [[Duhara Basaheen]] to watch her movements. He finds out that she has been meeting with [[Ellorien Traemane]] although this was just a ploy. He then brings to Elayne's attention a letter written from [[Matrim Cauthon]] asking to meet with her.
+He comes in to discuss the affairs of Caemlyn, such as the three Houses Arawn, Sarand, and Marne being effectively bankrupt. Elayne asks him to send word to [[Talmanes Delovinde]] to move the [[Band of the Red Hand]] inside Caemlyn to "aid with restoring order." The Band can be used when Elayne decides to move on the [[Sun Throne]]. Norry then describes the political situation in [[Cairhien]] stating that the most supportive of the Dragon Reborn would properly be the most rebellious against Elayne.
+
+{{DEFAULTSORT:Norry, Halwin}}
+[[Category:Eyes-and-ears]]

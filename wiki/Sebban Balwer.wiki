@@ -1,0 +1,51 @@
+{{ character
+| image=Sebban Balwer.jpg
+| imagesize=250px
+| nationality=Amadician
+| gender=Male
+| affiliation=Perrin Aybara
+| height=Small
+| status=Alive
+| build=Small
+| occupation=Secretary
+| appeared={{Loc|p}}
+| lastappeared={{amol|1}}
+| living=amol
+}}
+'''Sebban Balwer''' was the secretary and spymaster of the former head of the [[Whitecloaks]], [[Pedron Niall]]. Balwer is from [[Amadicia]].
+
+== Appearance ==
+He is described as having knobby shoulders and a narrow, pinched face with a disapproving mouth.{{ref/book|6|9}} He iis often described as a "dried-up stick of a man."{{ref/book|c|Sebban Balwer}} He has a scratchy voice and dry-washes his hands when he feels insulted.
+
+== Activities ==
+===With the Whitecloaks===
+Despite not seeming to share their beliefs, Balwer worked diligently under Niall and the Whitecloaks from their base of operations, the [[Fortress of the Light]]. He was one of the few men Niall trusted, yet despite his role as spymaster, he was not the only source of information to Niall, a fact that irritated Balwer to some degree.{{ref/book|6|9}}
+
+Among other tasks, Balwer was responsible for inciting [[Estanda]] and [[Tedosian]] to rebel in [[Tear]].{{ref/book|6|9}} He was also witness to [[Eamon Valda]]'s killing of [[Abdel Omerna]].{{ref/book|7|p}}
+
+===Escape from the Seanchan===
+Following Niall's murder and Valda's subsequent mistreatment of the captive [[Queen Morgase]], the [[Seanchan]] invasion of [[Amador]] gave Balwer the opportunity to escape the Fortress, taking Morgase and the rest of her party{{ref|[[Breane]], [[Lini]], [[Basel Gill]], [[Lamgwin]], and [[Tallanvor]]}} with him.{{ref/book|7|26}} When the party are accosted by [[Masema|Masema's]] [[Dragonsworn]], they have the good fortune to be rescued by [[Perrin Aybara]] and his forces.{{ref/book|8|7}} Balwer offered his service as secretary to Perrin and his wife but did not reveal Morgase's identity. The rest of the party contrived to conceal Morgase's identity and also offered service.{{ref/book|8|8}}
+
+===Service with Perrin===
+Balwer's skills aided Perrin a number of times; he provided information on the [[Seanchan]], the Whitecloaks,{{ref/book|8|9}} King [[Ailron|Ailron's]] defeat by the Seanchan at [[Jeramel]], and [[Valda]] and the Whitecloaks' escape and flight east.{{ref/book|9|1}} Balwer proved useful in Perrin's dealings with the [[Masema Dagar|Prophet Masema]]. Balwer was the first to inform Perrin of Masema's location at [[Abila]],{{ref/book|8|9}} enabling Perrin to lead a delegation{{ref|[[Perrin]], [[Neald]], [[Grady]], [[Balwer]], [[Aram]], [[Elyas]], Wise One [[Edarra]], the three Aes Sedai [[Carelle]], [[Masuri]], [[Seonid]], and their Warders.}} to meet with him and pass on instructions from [[Rand al'Thor]].{{ref/book|8|30}}
+
+During his time with Perrin, Balwer developed an increasing depth of loyalty to Faile. When she and the others of Perrin's party were kidnapped by the [[Shaido]], he disappeared briefly,{{verify}} but worked tirelessly to discover any and all information that could aid Perrin in her rescue.{{ref/book|9|2}} He formed [[Cha Faile]] into a more organized spying network, keeping tabs on Masema's possible dealings with the Whitecloaks and Seanchan.{{ref/book|10|5}}
+
+=== Re-organizing ''Cha Faile'' ===
+When Balwer reached [[So Habor]] with Perrin, he left the party ostensibly to meet an acquaintance, taking [[Latian]] and [[Medore Damara]] with him.{{ref/book|10|26}} They stayed behind in the town when the acquaintance didn't arrive, and returned to Perrin's camp four days later, bringing [[Martyn Tallanvor]] with them.{{ref/book|10|27}}
+
+It was is Balwer who first reported to Perrin that [[Aram]] was spending more and more time with [[Masema]], foreshadowing Aram's eventual actions.{{ref/book|11|4}} He was also instrumental in the preparations for Perrin's assault on the [[Shaido]] camp, having scouted [[Almizar]] with [[Medore]] prior to the use of the [[Malden]] aqueduct to deliver [[forkroot]]-dosed water to the [[Shaido]].{{ref/book|11|12}} He was present at the meeting with Perrin and [[Tylee Khirgan]]. He informed Perrin of a rebellious group of Whitecloaks moving north not too far from camp, when the Pattern rippled. He seemed to hold [[Galad Damodred]] in high regard. Balwer remained in Perrin's camp with Berelain during the battle itself.{{ref/book|11|29}}
+
+After the battle, Balwer is sent to question the captive Aiel. He manages to find out how the Aiel were tricked by one of the [[Forsaken]] and scattered across the continent. He expresses disappointment that he didn't get a chance to question any of the Shaido [[Wise Ones]], and asks Perrin to either give him access to one of them, or to send word to Tylee to ask his questions of them, but Perrin denies these requests.
+
+After leaving Malden, he attended a meeting with Perrin to decide where the army should go next. He decided to accompany a scouting force that was sent to [[Cairhien]] and investigate the School there. He then returned to Perrin with his findings: that Rand had tried to make peace with the Seanchan and that a number of low-lives were carrying pictures of Perrin and Mat.
+
+=== Under new management ===
+Perrin loaned Balwer's services to [[Rand al'Thor]] at the [[Field of Merrilor]]. Balwer helped Rand create the documents that outline the [[Dragon's Peace]].
+
+{{Notes}}
+
+{{Major Characters}}
+
+{{DEFAULTSORT:Balwer, Sebban}}
+[[Category:Eyes-and-ears]]

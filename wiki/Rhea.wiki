@@ -1,0 +1,19 @@
+{{character 
+| image=Leaves.png
+| imagesize=200px
+| gender=Female
+| clan=Da'shain Aiel
+| status=Dead
+| appeared=
+}}'''Rhea''' was a [[Da'shain Aiel]] and the daughter of [[Adan]] and [[Siedre]].
+
+== History ==
+She was the last of her siblings to survive, the others being [[Sorelle]], [[Marind]], [[Elwin]] and [[Jaren]].{{ref|{{twotc}}, Rhea|comp}}
+
+She was kidnapped along with several other women during the [[Breaking of the World]]. Her fate is unknown.{{ref/book|4|26}}
+
+==Errata==
+She is listed as [[Jenn Aiel]] in [[The Wheel of Time Companion]], but the term Jenn did not exist until long after her kidnapping. She should be Da'shain Aiel.{{ref||comp}}
+
+{{notes}}
+[[Category:Historical people]]

@@ -1,0 +1,3 @@
+<includeonly>{{#if:{{{url|{{{1|}}}}}}|{{#ifeq:{{#sub:{{{url|{{{1|}}}}}}|0|2}}|&#91;&#91;|{{{url|{{{1|}}}}}}|{{#ifeq:{{#sub:{{{url|{{{1|}}}}}}|0|1}}|&#91;|{{#ifeq:{{#sub:{{{url|{{{1|}}}}}}|0|5}}|&#91;w:c:|{{{url|{{{1|}}}}}}|{{Err|cannot handle wikitext external links yet! Link: {{{url|{{{1|}}}}}}|{{PAGENAME}}}}}}|{{#ifeq:{{#pos:{{{url|{{{1|}}}}}}|:}}||{{Err|Missing protocol (e.g. https://) in URL: {{{url|{{{1|}}}}}}|{{PAGENAME}}}}|[{{{url|{{{1|}}}}}} {{Link/external text|{{{text|{{{2|{{{url|{{{1|}}}}}}}}}}}}}}]}}}}}}{{Link/icon|{{{url|{{{1|}}}}}}}}|{{Err|<b>Missing Parameter:</b> You forgot to specify a link!|{{PAGENAME}}}}}}</includeonly><noinclude><!-- TODO: Replace as much as possible with CSS styling -->
+{{Documentation}}
+[[Category:Linking templates]]</noinclude>

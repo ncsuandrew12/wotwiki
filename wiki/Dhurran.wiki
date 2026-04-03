@@ -1,0 +1,14 @@
+'''Dhurrans''' are breed of large draft horses originally from a region or town in [[Ghealdan]].{{ref/book|twotc|Dhurran}}  
+[[File:Dhurran.png|thumb|right|350px|Size comparison of Shire horse/Dhurran, Elder Haman, average man and regular horse (mare)]]In [[Emond's Field]], [[Bran al'Vere]] owns a team of six Dhurrans which he hires out to local farmers when they have tasks of hauling that are beyond the capabilities of regular horses.{{ref/book|1|4}} After the initial attack on the village, Rand sees them hauling Trolloc corpses to be burned.{{ref/book|1|6}}
+
+Some are large enough for [[Ogier]] to ride. [[Loial]]'s horse is described  in multiple places as "as big and heavy as a prime Dhurran stallion", but is not actually of this breed itself.{{ref/book|2|9}}{{ref/book|2|20}}{{ref/book|3|7}}{{ref/book|4|30}} 
+
+Dhurrans can be seen in the streets of [[Baerlon]] hauling large carts of ore to and from the ironworks.{{ref/book|bwb|27}}
+
+==Parallels==
+Their size and use have similarities to the English {{Wiki|Shire horse}} (pictured). They are said to have "an enormous capacity for pulling weight" and the breed holds the record for the {{Wiki|Sampson (horse)|tallest and heaviest horse in history}}.
+
+{{notes}}
+{{short}}
+[[Category:Horses| Dhurrans]]
+[[Category:Animals]]

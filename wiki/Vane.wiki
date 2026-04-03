@@ -1,0 +1,22 @@
+{{ character 
+| image=AltaraFlag.png
+| imagesize=250px 
+| status=Dead
+| death={{ne|1000}}
+| nationality=Altara
+| affiliation=Darkfriend
+| gender=Male
+| build=Stocky
+| hair=Graying
+| appeared={{KoD|11}}
+| lastappeared={{KoD|11}}
+}}'''Vane''' was a lacquerware merchant and a [[Darkfriend]].{{ref|{{twotc}}, Vane, Master}}
+
+== Appearance ==
+He had graying hair, and was stocky with a pendulous lower lip.
+
+== Activities ==
+He was playing dice in the town of Maderin when [[Matrim Cauthon|Mat]] asked to join the game. Vane recognized Mat and left the table to gather other men. They attacked Mat and [[Tuon Athaem Kore Paendrag|Tuon]] as they were leaving town. Vane was one of the first to fall to one of Mat's knives.
+
+{{notes}}
+[[Category:Merchants]]

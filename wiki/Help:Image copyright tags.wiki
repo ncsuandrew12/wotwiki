@@ -1,0 +1,18 @@
+'''Image copyright tags''' are tags added in the {{tl|Image}} template. The following are the ones used on this wiki. Each template has links to appropriate pages that explain each license.
+
+==Creative Commons==
+{{CC-BY-SA}}
+==Creative Commons Share Alike==
+{{Cc-by-sa-3.0}}
+==GNU==
+{{GFDL}}
+==GNU - Self==
+{{GFDL-self}}
+==Public Domain==
+{{PD}}
+==Public Domain - Self==
+{{PD-self}}
+==Fair Use==
+{{Fairuse}}
+
+[[Category:Help|Image Copyright tags]]

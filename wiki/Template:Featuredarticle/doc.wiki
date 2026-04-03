@@ -1,0 +1,12 @@
+==Purpose of template==
+Displays a featured article that changes every day.
+
+==How to use==
+<pre>{{Featuredarticle}}</pre>
+
+Add {{t|Featuredicon}} to pages that should be featured.
+
+==Caveats==
+'''Warning''': Pages that use <code><nowiki>{{PAGENAME}}</nowiki></code> and other magic words as input to templates may render poorly.
+
+<div style="display:none;"><references /></div>

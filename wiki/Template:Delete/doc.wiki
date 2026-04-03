@@ -1,0 +1,13 @@
+==Purpose of template==
+The purpose of this template is to let {{int:userprofile-global-tag-content-moderator}}s and {{int:userprofile-global-tag-sysop}}s know that a page needs to be deleted.
+
+==How to use==
+You just need to add <code><nowiki>{{delete|Your reason for deleting the page}}</nowiki></code> to the source editor of the article you believe needs deleted.
+
+<code><nowiki>{{delete|Your reason for deleting the page}}</nowiki></code>
+
+{{delete|Your reason for deleting the page}}
+
+<noinclude>[[Category:Template documentation]]</noinclude>
+
+[[Category:Candidates for deletion| 0]]

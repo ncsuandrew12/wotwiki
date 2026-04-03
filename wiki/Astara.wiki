@@ -1,0 +1,17 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Andoran
+| rank=Queen
+| title=Queen
+| gender=Female
+| mentioned={{Bwb}}
+}}
+'''Astara''' was the sixth Queen of [[Andor]], succeeding Queen [[Maragaine]] in {{Fy|1073}}.
+
+==History==
+It is not known if Astara was Maragaine's daughter, but it is known that she was also a descendant of Queen [[Ishara Casalain]], the founder of the kingdom of Andor.
+
+Astara ruled for twelve years (FY 1073-[[FY 1085|85]]) and was succeeded by [[Telaisien]].
+[[Category:Historical people]]

@@ -1,0 +1,6 @@
+__HIDDENCAT__
+This category is used to identify pages that contain code to display an image that has not been uploaded to the wiki. Pages listed here should have their code corrected as soon as possible. The wiki software includes pages here automatically. This category should not be added to pages by contributors.
+
+'''NOTE''': This category should remain as empty as possible and should not be deleted due to lack of content. This category should be one of two categories listed on [[Special:UnusedCategories|Unused Categories Special Page]].
+
+{{DEFAULTSORT: Pages with broken file links}}

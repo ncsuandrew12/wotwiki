@@ -1,0 +1,2 @@
+<includeonly>{{#if:{{{wiki|{{{1|}}}}}}|{{Link|[[w:c:{{{wiki|{{{1|}}}}}}:{{#switch: trim | {{{page|{{{2|}}}}}} }}|{{Link/external text|{{#switch: trim | {{{text|{{{3|{{{page|{{{2|{{{wiki|{{{1|Other Wiki}}}}}}}}}}}}}}}}}} }}}}]]}}|{{Err|<b>Missing Parameter:</b> You forgot to specify a Wiki!|{{PAGENAME}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Linking templates]]</noinclude>

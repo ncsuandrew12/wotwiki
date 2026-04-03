@@ -1,0 +1,26 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| status=Alive
+| title=Women's Circle Member
+| appeared={{teotw|2}}
+| lastappeared={{tsr|56}}
+| lastmentioned={{loc|45}}
+| living=loc
+|birth = {{Ne|955}}{{ref|[[The Wheel of Time Companion]]|Companion}}}}
+'''Alsbet Luhhan''' lives in [[Emond's Field]] with her husband [[Haral Luhhan|Haral]].
+
+== Appearance ==
+Her temper is hotter than her husband's and she is nearly as strong as he is.
+
+== Activities==
+When the [[trolloc]]s attack [[Emond's Field]] on [[Winternight]], she bravely fights them off with a frying pan and then wanders the village searching for more so she can seek revenge for the destruction to her home.
+
+As part of the Women's circle, she presides over the wedding of [[Perrin]] and [[Faile]].{{ref/book|4|53}}
+
+{{notes}}
+
+{{DEFAULTSORT:Luhhan, Alsbet}}

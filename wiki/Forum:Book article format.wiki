@@ -1,0 +1,221 @@
+{{Forumheader|Hall of the Tower}}
+
+<!-- Please put your content under this paragraph.  Be sure to sign your edits with four tildes: ~~~~ -->
+hi everyone, new here but had an idea and wanted to float it by you guys.
+
+as an update to the standard format for each article on the individual books, i thought it would be helpful to add a brief bit naming the book which came immediately before, and the one immediately after. my suggestion would be to add it to the part that sits right above the "contents" box, where the book's series number and number of pages are listed. an example (addition underlined) would look like this:
+
+
+
+Lord of Chaos
+[http://wot.wikia.com/index.php?title=Lord_of_Chaos&action=edit Edit ]*[http://wot.wikia.com/index.php?title=Lord_of_Chaos&action=history History]
+*[http://wot.wikia.com/wiki/Special:MovePage/Lord_of_Chaos Rename]
+{| align="right" style="margin: 2.8em 0px 0px 3.2em; padding: 1em 1em 1.5em; border: 1px solid rgb(170, 170, 170); font-family: Verdana, sans-serif; max-width: 215px; background-color: rgb(66, 66, 66);" width="25%"
+|'''Chapter Index'''
+[http://wot.wikia.com/wiki/New_Spring 0][http://wot.wikia.com/wiki/The_Eye_of_the_World I][http://wot.wikia.com/wiki/The_Great_Hunt II][http://wot.wikia.com/wiki/The_Dragon_Reborn III][http://wot.wikia.com/wiki/The_Shadow_Rising IV][http://wot.wikia.com/wiki/The_Fires_of_Heaven V]VI[http://wot.wikia.com/wiki/A_Crown_of_Swords VII]
+[http://wot.wikia.com/wiki/The_Path_of_Daggers VIII][http://wot.wikia.com/wiki/Winter%27s_Heart IX][http://wot.wikia.com/wiki/Crossroads_of_Twilight X][http://wot.wikia.com/wiki/Knife_of_Dreams XI][http://wot.wikia.com/wiki/The_Gathering_Storm XII][http://wot.wikia.com/wiki/Towers_of_Midnight XIII][http://wot.wikia.com/wiki/A_Memory_of_Light XIV]
+|-
+|
+{| align="center" class="collapsible collapsed" id="toc" style="border: currentColor; background-color: rgb(66, 66, 66);"
+! align="left" colspan="2" style="border: currentColor;"|<span class="collapseButton" style="width: 6em; text-align: right; font-weight: normal; margin-left: -100%; float: right;">[<span class="collapseLink" style="cursor: pointer;" tabindex="0">show</span>]</span>Chapters
+|- style="display: none;"
+|[http://wot.wikia.com/wiki/Lord_of_Chaos/Prologue The First Message]
+{| cellpadding="0" cellspacing="0" style="border: 0px currentColor; width: 100%; line-height: normal; background-color: transparent;"
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|1
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_1 Lion on the Hill]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|2
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_2 A New Arrival]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|3
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_3 A Woman's Eyes]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|4
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_4 A Sense of Humor]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|5
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_5 A Different Dance]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|6
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_6 Threads Woven of Shadow]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|7
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_7 A Matter of Thought]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|8
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_8 The Storm Gathers]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|9
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_9 Plans]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|10
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_10 A Saying in the Borderlands]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|11
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_11 Lessons and Teachers]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|12
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_12 Questions and Answers]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|13
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_13 Under the Dust]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|14
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_14 Dreams and Nightmares]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|15
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_15 A Pile of Sand]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|16
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_16 Tellings of the Wheel]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|17
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_17 The Wheel of a Life]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|18
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_18 A Taste of Solitude]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|19
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_19 Matters of Toh]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|20
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_20 From the Stedding]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|21
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_21 To Shadar Logoth]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|22
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_22 Heading South]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|23
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_23 To Understand a Message]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|24
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_24 An Embassy]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|25
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_25 Like Lightning and Rain]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|26
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_26 Connecting Lines]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|27
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_27 Gifts]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|28
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_28 Letters]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|29
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_29 Fire and Spirit]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|30
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_30 To Heal Again]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|31
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_31 Red Wax]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|32
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_32 Summoned in Haste]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|33
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_33 Courage to Strengthen]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|34
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_34 Journey to Salidar]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|35
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_35 In the Hall of the Sitters]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|36
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_36 The Amyrlin Is Raised]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|37
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_37 When Battle Begins]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|38
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_38 A Sudden Chill]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|39
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_39 Possibilities]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|40
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_40 Unexpected Laughter]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|41
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_41 A Threat]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|42
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_42 The Black Tower]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|43
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_43 The Crown of Roses]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|44
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_44 The Color of Trust]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|45
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_45 A Bitter Thought]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|46
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_46 Beyond the Gate]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|47
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_47 The Wandering Woman]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|48
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_48 Leaning on the Knife]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|49
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_49 The Mirror of Mists]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|50
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_50 Thorns]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|51
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_51 The Taking]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|52
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_52 Weaves of the Power]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|53
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_53 The Feast of Lights]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|54
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_54 The Sending]
+|- style="vertical-align: top;"
+| style="text-align: right; padding-right: 0.5em;"|55
+| style="text-align: left; padding-bottom: 2px;"|[http://wot.wikia.com/wiki/Lord_of_Chaos/Chapter_55 Dumai's Wells]
+|}
+[http://wot.wikia.com/wiki/Lord_of_Chaos/Epilogue The Answer]
+|}
+|-
+| class="plainlinks" id="infoboxend" style="width: 100%; text-align: center;"|
+|}
+
+
+:''This article is about the sixth book in the series. For the concept of the name, see [http://wot.wikia.com/wiki/Lord_of_Chaos_(concept) Lord of Chaos (concept)].''
+'''''Lord of Chaos''''' is the sixth book in the main series of [http://wot.wikia.com/wiki/The_Wheel_of_Time The Wheel of Time]. It is 1007 pages long. <u>It is preceded by The Fires of Heaven, and followed by A Crown of Swords</u>'''.'''
+{| class="toc" id="toc"
+|
+==Contents==
+[[[]]hide]*[http://wot.wikia.com/wiki/Lord_of_Chaos#Plot_Summary 1 Plot Summary]
+*[http://wot.wikia.com/wiki/Lord_of_Chaos#Plot_Developments 2 Plot Developments]
+*[http://wot.wikia.com/wiki/Lord_of_Chaos#Ebook_format 3 Ebook format]
+*[http://wot.wikia.com/wiki/Lord_of_Chaos#Statistical_Analysis 4 Statistical Analysis]
+|}
+
+i would also have those two book titles linked to their respective articles, but i just got here and dont know how to do that yet. anyway, it seemed like this would help people following a particular plot line from one book to the next, or looking for the plot origin of something they are already in the middle of.
+
+thanks for any advice or comments!
+
+-reit
+
+:Hi, Reiteration. Thanks for your suggestion. I think, though, that it would be kind of redundant. The numbers in the grey box on the right link to all of the books and there is also a template at the bottom of the article that also has all of the books listed. Not sure if you are aware of them. Also, just as a side note, to create a link, just put double brackets around the target page. So, <nowiki>[[Rand al'Thor]]</nowiki> becomes [[Rand al'Thor]]. Please let me know if you have any questions. ---- {{User:Mainphramephreak/Sig/Subst}} 10:58, December 14, 2011 (UTC)
+
+:
+willie-
+
+ah, well now i feel a bit foolish.  i had just assumed that the numbers in the grey box were chapters rather than books because it says "chapter index" above them and "chapters [show]" below.  and speaking of the [show] button, i completely failed to notice the one at the bottom, which was hiding the template from me.  thanks for pointing that out, i'm not sure i'd have found it otherwise.  i'm certainly glad i aired out my idea to the rest of you before i went flailing around in all 15 articles.
+
+-reit

@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| Description        = [[Lan]] performing [[Sword forms#Dandelion in the Wind|Dandelion in the Wind]].
+| Source             = ''[[New Spring 6]]''
+| Artist             = Harvey Tolibao
+}}

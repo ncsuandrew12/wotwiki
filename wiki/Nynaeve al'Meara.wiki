@@ -1,0 +1,236 @@
+{{Featuredicon}}
+{{character 
+| image=Wot- nynaeve.jpg
+| imagesize=250px
+| name=el'Nynaeve ti al'Meara Mandragoran
+| ajah=Yellow
+| gender=Female
+| ewot=nynaeve
+| birth={{Ne|974}}
+| status=Alive
+| nationality=Andoran
+| title=Queen
+| rank=Aes Sedai
+| height=5'4" or 163cm
+| build=Slender
+| hair=Dark, formerly long and braided
+| eyes=Deep Brown
+| appeared={{teotw|Ravens}}
+| lastappeared={{amol|e}}
+| living=amol
+}}
+
+{{WotQ|Nynaeve}} <!-- Fix WotQ w/ {{PAGENAME}} -->
+'''Nynaeve al'Meara''' (/naɪˈniːv ɑlˈmiːɹə/;<ref>https://www.theoryland.com/intvsresults.php?kw=pronunciation</ref> married name: '''el'Nynaeve ti al'Meara Mandragoran; /'''ɛlˌnaɪˈniːv tiː ɑlˈmiːɹə mænˈdɹɑ.gɔˌɹɑn/<ref>https://www.theoryland.com/intvsresults.php?kw=mandragoran</ref>) born in {{ne|974}}, {{April1
+ |joke=she is very bossy, mean to [[Mat Cauthon]], and likes to hit people with sticks while shouting about not shouting.
+ |real=she is one of the main female protagonists of the series.}} Formerly the [[Wisdom]] of [[Emond's Field]], she is now an [[Aes Sedai]] of the [[Yellow Ajah]] and, by virtue of her marriage to [[Lan Mandragoran]], is the Queen of [[Malkier]]. Nynaeve is one of the most powerful female channelers currently alive.
+
+==Name==
+The el' in "el'Nynaeve" is a Malkieri honorific given to the Queens of [[Malkier]]. As wife to [[Lan Mandragoran|al'Lan Mandragoran]], the uncrowned King of Malkier, Nynaeve is entitled to the honorific.
+
+==Appearance==
+[[File:Saliba_nyneave.jpg|thumb|left|150px|Nynaeve portrait done by Jeremy Saliba]]
+Nynaeve is typically described as having dark eyes and until recently a long dark [[braid]], which she would often yank in times of exasperation. Her hair is now significantly shorter after her harrowing ordeal in the [[oval ring]] and is too short to tug.{{ref/book|13|20}} She is also described as being relatively short and slim, standing at 5'4". She is said to be very pretty, even beautiful. She has big eyes, although not as large as [[Egwene al'Vere]]'s eyes. She looks younger than she is by virtue of her [[slowing]] at around age twenty.
+
+In the beginning of the series, Nynaeve vocally expresses her liking of "stout" [[Two Rivers]] wool clothing. As the series progresses, she demonstrates a finer sense of fashion, wearing fine silks, usually in the colors of blue or green (Lan's favorite colors). She disapproves of immodest dress, although has relaxed in that respect considerably as well.
+
+In traditional [[Aes Sedai]] fashion, she wears a yellow-fringed shawl to formally show that she is of the [[Yellow Ajah]], usually wearing blue or green dresses. Nynaeve wears a ''[[ki'sain]],'' a red dot in the center of her forehead, to show in the Malkieri tradition her marital status and her pledge to raise her children to fight the Shadow. Those who knew her as a Wisdom in Two Rivers would be surprised at the gaudy jewelry she now wears, unless they knew that each piece has a specific purpose. She wears a bracelet and connected rings ''[[angreal]]'' and several ''[[ter'angreal]]:'' a [[ring with green stone]], a [[sapphire ring]], a [[red stone bracelet]], and a [[Well]] in the form of a slim [[jeweled belt]] on her person - even while she sleeps. Nynaeve also wears the [[Great Serpent ring]] of the Aes Sedai and Lan's Golden Crane signet ring.
+
+==Family and Background==
+Nynaeve was born in {{ne|974}} to a [[Master al'Meara|father]] who herded sheep and grew tabac{{ref/book|4|46}} and a farmwife named [[Elnore al'Meara|Elnore]].{{ref/book|2|23}} Nynaeve's father thought of her as the son he never had and taught her to track, hunt and fish. Unlike fellow tomboy [[Min Farshaw|Min]], however, Nynaeve later integrated femininity in her adulthood. She is several years older than the rest of the [[Emond's Field]]ers.
+
+She was orphaned around the age of fourteen and was apprenticed to [[Doral Barran]], the Wisdom of Emond's Field, shortly afterward. Two years later she touches true source for the first time and healed [[Egwene al'Vere|Egwene]] (age 9) of [[breakbone fever]], having a reaction a week later from using [[One Power]].
+
+At 17 she switches [[Rand al'Thor|Rand]] and [[Mat Cauthon|Mat]] (both 13) for stealing a jug of apple brandy.
+
+At the age of 19 she had become the youngest [[Wisdom]] the Two Rivers had ever had, and one of the most successful. She was said to be able to cure ailments no other Wisdom ever could and wounds that would leave a man maimed for life were sometimes gone without a scar. She was the only Wisdom in the Two Rivers within the span of the books who can truly [[Listening to the Wind|Listen to the Wind]]. All this stunning successes were realized by Nynaeve channeling ''[[saidar]]'' healing weaves unconsciously. In fact she is a so called [[wilder]], a channeler with the [[spark]] who started to channel alone and learned how to survive at the use of the One Power.
+
+As a wisdom, she was able to deal with both the [[Village Council]] and the [[Women's Circle]] due to her forceful personality and her natural ability with politics, although she often felt disregarded by both due to her relative youth and inexperience.
+
+After [[Moiraine Damodred]] and [[Lan Mandragoran]] arrived in the [[Two Rivers]] looking for the [[Dragon Reborn]] in {{ne|998}}, Nynaeve left Emond's Field to pursue [[Rand]], [[Mat]], [[Perrin]], and [[Egwene]]. She heavily distrusted Moiraine due to spiriting her friends away from home, but a budding romance emerged between Nynaeve and Lan.
+
+Despite herself doubting that she could use the [[One Power]], she was enrolled in the [[White Tower]] in defiance of her age and raised directly to [[Accepted]] due to her strong abilities. Yet, she had developed a [[Block]] where she could only channel when angry. She, Egwene, and [[Elayne]] started to work together against the [[Black Ajah]] in [[Falme]] and [[Tear]], with Nynaeve being able to face off against [[Moghedien]], one of the [[Forsaken]], in [[Tanchico]]. After the [[White Tower Schism]] emerged, Nynaeve and Elayne retreated to [[Salidar]], where Nynaeve devised an advanced form of [[Healing]] that included [[Five Powers|Earth]] and [[Five Powers|Fire]] and was able to Heal [[Severing|stilling and gentling]]. She was raised to Aes Sedai by decree of Egwene, now the rebel [[Amyrlin Seat]], and joined the [[Yellow Ajah]].
+
+Nynaeve aided the [[Windfinder]]s and [[Kin]] in locating the [[Bowl of the Winds]] to stop the unnatural seasons, and was married to Lan aboard a [[Sea Folk]] ship. She later came to [[Caemlyn]] with Elayne, and was chosen by Rand to act as his female counterpart in using the [[Choedan Kal]] to cleanse the [[Taint]] on ''[[saidin]]''. Knowing that the [[Last Battle]] was approaching and unwilling to let her husband sacrifice himself, Nynaeve rallied the Malkieri to fight by Lan's side. She stayed by Rand during this time, briefly becoming his [[Aes Sedai advisors|advisor]] after [[Cadsuane Melaidhrin|Cadsuane]] Sedai was dismissed, but was called back to the Tower after Egwene ended the schism. 
+
+During her test to be truly recognized as [[Aes Sedai]], Nynaeve techically failed the criteria, but was still afforded the shawl as the [[Sitter]]s were deemed to be extraordinarily cruel in her testing. She was accepted as a full sister, and took Lan's [[bond]] from [[Myrelle Berengari]]. After helping defeat [[Mesaana]] in ''[[Tel'aran'rhiod]]'', Nynaeve readied for the Last Battle, accompanying Rand and Moiraine to [[Shayol Ghul]]. Nynaeve, Rand, and Moiraine [[link]]ed to defeat [[Moridin]] and seal the [[Dark One]]'s prison, ushering in the [[Fourth Age]]. At Rand's funeral, Lan and Nynaeve donned the crowns of the King and Queen of Malkier, ready to establish their lost nation with the [[Blight]] now gone.
+
+[[File:Nynaeve_Colour_final.jpg|thumb]]
+
+==Personality==
+Nynaeve is an extremely passionate individual. She is alternately the model of self righteous assuredness and a woman who is self-effacing and in doubt. She can be meek at times before more experienced women, though she is often stubborn about doing so, but also able to stand up and run down others. Throughout the beginning of the series in particular, Nynaeve is incredibly controlling, strong and proud, near to the point of being self-centered, but is seen to lack self-awareness. 
+
+A running theme throughout the books is how Nynaeve will complain about someone being too stubborn or proud or leaping into things without thinking, oblivious to how she exhibits the exact same behavior. Surprisingly, no one calls her on this hypocrisy, although many will stare in disbelief after such statements. Nynaeve is also shown to have quite a temper, pulling her braid to vent her anger, an expression that quickly became well known throughout the Aes Sedai community and indeed known by anyone who spends time in her company. Nynaeve's annoying habit to pull or tug her braid comes from her time as an apprentice of the Wisdom at [[Emond's Field]] and she did it to draw attention so that she is accepted by the [[Women's Circle]] as being old enough to have her hair braided. She had to do that when people did not take her seriously because of her young look and she couldn't get rid of that bad habit.
+
+[[File:Nynaeve21.jpg|thumb|left|Nynaeve's [[ki'sain]]]]
+
+Nynaeve also displays a courage that many a brave soldier would envy (and both [[Elayne]] and [[Aviendha]] have done), yet she has often been known to complain about her supposed cowardice, sometimes to the point of tears. She would describe herself as reasonable and open minded, but can have difficulty accepting differences in cultural values. Despite her limited ability for accurate self-reflection, at times Nynaeve often shows surprising insight on the surrounding situations, seeing what others do not. Nynaeve may not have been initially "wise" when named the village Wisdom, but there is no doubt she possesses an inherently sharp and capable mind. She is fiercely devoted to Lan, who is the one person able to melt her tempered exterior and gain some control over her.
+
+However, throughout her travels, Nynaeve does end up gaining a degree of self-awareness, and manages to gain a greater measure of control over her temper without sacrificing her passion. She also ends up becoming more comfortable with who she is, and more or less abandons wanting to achieve the typical cold, aloof demeanor of most Aes Sedai. Notably, she is also one of very, very few Aes Sedai to come to the realization that the White Tower as an establishment is rife with hypocrisy and self-centerdness.
+
+"''– 'We can find a way, Rand. Surely there is a way to win but also let you live.'''
+
+''– 'Dream on my behalf, Nynaeve. Dream for things I no longer can.' "''{{Ref/book|12|33}}'''<nowiki/>'''
+
+==Channeling abilities and Talents==
+{{quote|She was meeting one of the Forsaken, strength for strength!|Nynaeve's thoughts upon facing [[Moghedien]]}}Nynaeve al'Meara is one of the most powerful female channelers in this [[Age]]. [[The Wheel of Time Companion]] gives her current strength as {{opsl|10}}, and her potential as {{opsl|9}}. She matches the [[Forsaken]] Moghedien in raw strength in the [[One Power]] in ''[[The Shadow Rising]]''.  Historically speaking, only one known Aes Sedai in the history of the White Tower, [[Caraighan Maconar]], matched her in strength, although it is possible there are others that were never named. Given that the Forsaken were the strongest Aes Sedai following the Shadow in an age with a very large number of channelers, Nynaeve would have been considered very strong in the [[One Power]] even during the Age of Legends. 
+
+Of those in the [[Third Age]], only three women surpass her in potential strength: [[Alivia]], a former ''[[damane]]'', now allied with the Dragon Reborn, [[Sharina Melloy]], a grandmother and newly admitted [[novice]], and [[Talaan din Gelyn]], a young [[Windfinder]] apprentice. Only Alivia's current strength currently surpasses Nynaeve's, whereas Talaan's equals her own and Sharina's is lower.
+
+Her strength has been attributed to her [[Old Blood]].{{ref/book|1|13}}{{ref/book|2|4}}
+
+====Nynaeve's block and channeling difficulties====
+{{quote|And with hope gone, flickering on the edge of consciousness like a guttering candle flame, she did something she had never done before in her life. She surrendered completely.|Nynaeve overcoming her block in [[Ebou Dar]].{{ref/book|7|31}}}}As a [[wilder]], she learned how to channel by instinct, giving rise to a style of [[Healing]] unknown to any living Aes Sedai. However, channeling without knowing she was accessing the [[One Power]] left her with a [[block]] that prevented her from channeling, or even sensing the True Source, without being very angry. Even after overcoming her block, she still showed signs of little to no refinement (e.g., a young Sea Folk channeler bypassing her defenses in a few tries). This is due to her relative lack of formal training, consequently requiring her to learn almost everything on her own. Nonetheless, Nynaeve develops into an incredibly quick learner, able to emulate and memorize highly complex weaves after just seeing them once or twice.
+
+Despite her initial obstacles with the One Power, Nynaeve is and has always been an exceptional [[Healer]]. Rediscovering the technique of healing using all of the [[Five Powers]], a technique long forgotten in this age, her ability with Healing is only matched by [[Sumeko]], one of the [[Kin]], and possibly by the [[Asha'man]] [[Damer Flinn]] among male channelers. Due to her exceptional talent and her stubborn determination she finds a way to heal [[Severing]], a feat not thought to be possible even during the [[Age of Legends]]. Nynaeve [[Delving|delves]] the [[Asha'man]] [[Naeff]] who was suffering from the effects of the [[Dark One]]'s [[taint]] on ''[[saidin]]''. She sees the taint as a black mass that had extended thorn-like projections into the mind. She plucks each of these projections free and dissolves the mass thereby discovering the means to Heal a man who can channel of his madness. Nynaeve has also developed a method to identify and undo a weave of [[Compulsion]] on a person's mind.
+
+Nynaeve is able to channel the Five Powers of Air, Fire, Earth, Water, and Spirit with equal proficiency, a feat that is incredibly rare amongst channelers; most only being strong in one or two. This, combined with the sheer strength of her channeling ability, allows Nynaeve to have some favorable skill in battle: whenever threatened in the early books she would call down lightning and spew fireballs with an ease most Accepted (and even Aes Sedai) would have trouble matching, once even instinctively using balefire, about which only a few living Aes Sedai even have knowledge.
+
+[[File:Nynaeve.png|thumb|right|Nynaeve playing with her braid.]]In addition to being a great [[Healer]] and renowned Wisdom, she can also predict the weather (both physical and metaphorical) and has done this ever since she could remember. This is a passive [[Talent]] known in the Two Rivers as [[Listening to the Wind]]. It is claimed by all Wisdoms, though most cannot. It is suspected that Doral Barran, the Wisdom to whom Nynaeve was apprenticed, could Listen to the Wind and was also a channeler as the two apprentices she picked were both with the spark inborn, and the one prior to Nynaeve died of the sickness that comes about when failing to learn to control the One Power. Listening to the Wind is a form of [[Foretelling]]: it always tells her when trouble is about to arrive. As a Wisdom this "trouble" was bad weather, now it is human conflict she senses. Based on the intensity of the storm she feels coming, she can tell how great the conflict will be.
+
+Nynaeve also exhibits a minor version of Aviendha's ability to "read" ''ter'angreal'' and can feel emotions from them, though it is not necessarily an indication of what that ''ter'angreal'' does. For example, Nynaeve may feel great suffering from one (the so called "sad bracelets" also known as [[Domination Band]]), but this does not mean that the ''ter'angreal'' brings about pain or suffering, but it may mean that it was once used or handled by one who felt those emotions. It is unclear as to whether or not the object must be a ''ter'angreal'', for Nynaeve felt emotions emanating also from one of the [[seals]] to the [[Dark One]]'s prison, and it is unclear as to the nature of that feeling.
+
+==Activities==
+[[File:LanandNynaeve.JPG|thumb|right|Lan gives Nynaeve the signet ring of the king of [[Malkier]]]]
+===Hunt for the boys===
+{{quote|You are part of the [[Pattern]], too, both of you, in some fashion. Perhaps not [[ta'veren]] - perhaps - but strong even so..."|[[Moiraine Sedai]] to Nynaeve and [[Egwene al'Vere]]}}When Moiraine absconded with several Two Rivers youths—specifically [[Rand al'Thor]], his friends [[Mat Cauthon]] and [[Perrin Aybara]], and Rand's childhood sweetheart (and Nynaeve's apprentice) [[Egwene al'Vere]], Nynaeve, seeing that talks amongst the town council and womens circle about who to send after them were taking much too long, left to track them down and bring them back herself. She seemed to think that she could face down an [[Aes Sedai]] and bring them home; she was wrong, and ended up getting swept up into the adventure with the rest. This set the tone for her relationship with Moiraine, and to some extent with Aes Sedai in particular—not only was Moiraine consistently riding roughshod over Nynaeve, but she'd managed to ensnare Lan as well, whom Nynaeve was, quite against her will, starting to fall in love with, an attraction that was strongly returned. Even worse, Moiraine identified Nynaeve as a ''wilder'', someone who had independently learned to wield the [[One Power]] without training. Egwene was also identified as having ability to channel (although she had not yet), but Moiraine wished to take her to [[Tar Valon]] for training and safety; not all who must learn to channel on their own survive the experience. For Nynaeve, it was too late; she'd already learned how to integrate the ability into her skill as a healer, but due to her fears, she developed a mental block against the concept. Nynaeve was totally unable to channel unless extremely angry, something which later caused her no end of trouble.
+
+[[File:Nynaeve al'Meara.jpg|thumb|right|Nynaeve after joining the ranks of the [[Aes Sedai]].]]
+
+===At the Eye of the World===
+At the [[Eye of the World]], Rand discovered he could channel, and Moiraine claimed he was in fact the [[Dragon Reborn]]; perhaps because of this, and to avenge herself of the perceived injustices wrought on her by Moiraine, Nynaeve eventually agreed to go to the Tower. Once there, she was immediately promoted from Novice to Accepted by virtue of her sheer strength in the Power. She was also very old to enroll as a Novice according to Aes Sedai standards. It was unheard of to completely bypass being a novice like this, and some Aes Sedai resented her for it. She is one of the strongest female channelers alive. Like Egwene and [[Elayne Trakand]], she was tricked into going to Falme, ostensibly to help Rand, but really as part of a trap by [[Ishamael]] and the [[Seanchan]]; Later, she, Egwene, and Elayne were assigned the task of hunting down the [[Black Ajah]], a journey which took her far from the White Tower and her ostensible training as a future [[Yellow Ajah]] Aes Sedai. It also took her farther and farther away from Lan, who she had developed feelings for, feelings he tried not to reciprocate due to his loyal service to Moiraine. Before Lan leaves he gives his Golden Crane signet ring to her. She wears this around her neck at all times now.
+
+===To Tear, and beyond===
+[[File:Nynaeve mandragoran the queen of malkier by reddera-d993qqd.jpg|left|thumb|306x306px|Nynaeve Mandragoran, Queen of Malkier; by Ariel Burgess, Official Wheel of Time Artist]]
+After Rand drew ''[[Callandor]]'' from the Heart of the Stone in fulfillment of prophecy, Nynaeve and Elayne continued the quest for the Black Ajah along with [[Juilin Sandar]] and [[Thom Merrilin]]. The clues the Black Ajah left in the Stone of Tear all pointed to the city of [[Tanchico]]; Nynaeve and Elayne went, hoping that, if it was a trap, they'd have enough warning to escape it. Egwene had instead decided to learn about Dreaming from the [[Aiel]]. While hunting for the Black sisters, Nynaeve happened upon [[Moghedien]], one of the dreaded [[Forsaken]]. The two dueled, Nynaeve expecting unstoppable force at any moment... until she realized that Moghedien was working just as hard to fend off her attacks. The two were equally matched in terms of strength. Nynaeve managed to shield and bind Moghedien eventually through ingenuity rather than strength, but a Black Sister soon intervened and Moghedien disappeared in the intervening time.{{ref/book|4|54}} The enmity between the two was to later bear bitter fruit.
+
+===Healing what could not be Healed===
+With chaos reigning in Tanchico, Nynaeve and Elayne set out for the White Tower—only to receive news that it had broken, that [[Elaida Sedai]], a [[Red Ajah|Red]] sister (and former advisor to Elayne's mother Queen [[Morgase Trakand]]), had deposed and replaced the [[Amyrlin Seat]], a former [[Blue Ajah|Blue]] named [[Siuan Sanche]]. With the Tower split over this turn of events, the group changed course and joined with the rebel Aes Sedai in [[Salidar]], near [[Amador]]. Before arriving at Salidar, they encountered [[Galad]] (Elayne's older half-brother whom they both feared because of his membership of the Whitecloaks) and were forced to flee. They joined [[Valan Luca]]'s traveling menagerie for a time, before running into [[Uno]] and, again, Galad. This time, Galad and [[Masema]]—through Uno—aided in helping Nynaeve and Elayne to a ship where they continued their journey to Salidar. During their stay in Valan Luca's show, [[Birgitte]] was torn from the [[World of Dreams]] by Moghedien and Nynaeve was unable to save her. Elayne bonded her as her warder in order to save her when Nynaeve's healing failed.
+
+Upon reaching Salidar, they were punished for leaving the Tower, but continued their lessons as Accepted. Nynaeve managed to capture Moghedien and Elayne fashioned a ''ter'angreal'' akin to the ''damane'' collar without the leash, and forced knowledge out of her which they sported as their own discoveries because they chose to keep secret their capture of Moghedien. Nynaeve studied Siuan Sanche, who had been stilled as part of the deposition, as well as her former [[Keeper of the Chronicles]], [[Leane Sharif]]. Stilling had been considered impossible to heal by the Aes Sedai, but Nynaeve, after studying for many months, healed the [[False Dragon]] [[Logain Ablar]].{{ref/book|6|29}} The technique worked for the two women as well, though they did not regain their full strength, for reasons as yet unknown to the characters (Jordan has confirmed that severing can be healed fully only by a healer of opposite gender to the patient).{{ref/book|6|30}} Nynaeve has also developed a form of Healing which uses all five elements, instead of just Spirit, Air, and Water, as is usual for Aes Sedai-style Healing. When Egwene was made Amyrlin for the rebels, she immediately decreed that Nynaeve, Elayne, [[Theodrin Dabei]], and [[Faolain Orande]] raised as Aes Sedai. Nynaeve joined the Yellow Ajah and learned as much as she could of Healing with the One Power, which turned out to be not much more than she already knew and considerably less effective than her own methods.
+
+[[File:Bowl of the Winds.jpg|thumb|left|Nynaeve (right) with [[Aviendha]] (center) and [[Elayne]] (left) around the [[Bowl of the Winds]] - Artwork by Julie Bell.]]
+
+===A shift in the weather===
+When Rand dispatched Mat to rescue Egwene and return Elayne to Caemlyn, Egwene instead assigned him as an escort to Nynaeve, Elayne and [[Aviendha]], and sent them to Ebou Dar for the [[Bowl of the Winds]], a ''[[ter'angreal]]'' that could change the weather and possibly break the unnatural summer the [[Dark One]] had imposed on the world. While in Ebou Dar, Moghedien struck at Nynaeve's boat with balefire, nearly succeeding in drowning her; Nynaeve's fear and desperation as she sank into the river and her surrender to her impending death broke her block and enabled her to escape the boat half-conscious. She was then saved by Lan. He told her that he was unable to become her [[Warder]] since his Bond had been passed onto another. Nynaeve predictably vowed to make sure that the Bond would be passed onto her from the Aes Sedai who held it ([[Myrelle Berengari]], of the [[Green Ajah]]). It was the first time Nynaeve and Lan had been in each other's company since before Moiraine's assumed death; Nynaeve had no intention of wasting time. They were married later that day.
+[[File:Nynaeve al'meara karaburrito.png|thumb|283x283px|Nynaeve and her paralis-net by karaburrito on tumblr]]
+After forming a coalition of [[Aes Sedai]], [[Sea Folk]] [[Windfinders]] and [[the Kin]] (a previously unknown group made of people who had left the Tower), Nynaeve and Elayne led an expedition into the Rahad, a dangerous 'downtown' area of Ebou Dar, to retrieve the Bowl of the Winds. They succeeded, capturing a member of the Black Ajah, and recovered a hidden cache of ''ter'angreal'', including the Bowl of the Winds. The 13 most powerful women in the group then used the Bowl to break the [[Dark One]]'s unnatural summer. She is also given a bracelet-and-rings ''angreal'' by Elayne which she now uses. The coalition then fled to Andor to avoid a [[Seanchan]] invasion. Once the group finally arrives in Caemlyn, Nynaeve begins planning with [[Reanne Corly]] how to spirit Kinswomen away from Seanchan-controlled areas.
+
+She seemed to be in awe of the Kinswoman [[Alise Tenjile]] and earned her respect with her decision to let the ''damane'' prisoners go free. 
+She also began to tutor the Windfinders on how to shield and is even shielded twice by [[Talaan din Gelyn]], a young Windfinder apprentice who has as much potential as Nynaeve.
+[[File:Nynaeve al'Meara.jpeg|thumb|221x221px|left]]
+
+===Cleansing what could not be cleansed===
+At the Royal Palace in Caemlyn, Rand approached Nynaeve for help with a major project: he had discovered a way to cleanse the male half of the True Source. To do it, he would need the strongest female channeler he knew of and could trust, Nynaeve, and likewise the strongest male, himself. They succeeded, using the [[Choedan Kal]], though both required some time to recover from the intense experience of channeling huge amounts of Power for hours on end. During the beginning of the cleansing of ''[[saidin]]'', Nynaeve is amazed how rough and harsh ''saidin'' is compared to the calm tranquility that is ''[[saidar]]''.
+
+===Recovery===
+She and Rand Travel to [[Algarin Pendaloan]]'s house in Tear to both recover after cleansing ''saidin''. She seems back to full health and watches Lan practise sword fighting with [[Jahar Narishma]]. Acknowledging Lan's allegiance to his never-ending battle for his lost country, she sets him on the very edge of the Borderlands. She then visits multiple cities in order to inform men of Lan's coming and says (showing Lan's ring),
+
+"My name is el'Nynaeve ti al'Meara Mandragoran. The message I want sent is this. My husband rides from [[World's End]] toward [[Tarwin's Gap]], toward [[Tarmon Gai'don]]. Will he ride alone?" and after encountering resistance, she says: "Lan told me once that Malkier lives so long as one man wears the ''hadori'' in pledge that he will fight the Shadow, so long as one woman wears the ''ki'sain'' in pledge that she will send her son to fight the shadow. I wear the ''ki'sain'', Master Aldragoran. My husband wears the ''hadori''. So do you. Will Lan Mandragoran ride to the Last Battle alone?"
+
+She is joyous when she learns that Lan will not be alone, and continues her quest to recruit more Borderlanders to help Lan. However she does not trust the ex-Seanchan ''damane'' [[Alivia]], and returns to Rand's side to keep an eye on her.
+
+She is one of the six to accompany Rand to his meeting with the [[Daughter of the Nine Moons]]. [[Semirhage]] blew off Rand's left hand with a fireball when her illusion as the Daughter of the Nine Moons broke. Nynaeve was able to heal his arm but not restore the hand. After delving in Rand, she finds there is something wrong with his eyes.
+===Rand's conscience===
+Nynaeve Travels to [[Arad Doman]] and stays with Rand at Lord [[Tellaen]]'s manor. While there, [[Daigian Moseneillin]] begins to teach Nynaeve the one hundred weaves required to become an Aes Sedai. She offers to try and Heal Daigian from her grief of losing [[Eben Hopwil]], which Daigian rejects. Nynaeve then sits in on the meeting between Rand and the Aiel chiefs, where Rand gives the order for the Aiel to capture all the [[Council of Merchants]].
+
+When the Aiel help take [[Bandar Eban]], Nynave goes along with Rand again to the capital. It is here that she sees the poverty of the people and is sickened by their unwillingness to come to Aes Sedai aid. Soon after, she is the one who manages to find the dungeon where the last messenger allegedly from the missing King [[Alsalam Saeed Almadar]] was kept. Upon arrival, she discovers the man who killed him and confirms that he is under heavy [[compulsion]], almost certainly confirming that [[Graendal]] had a hand in it and was trying to hide her tracks.
+
+Taking the news back to Rand, Nynaeve struggles to remove the compulsion on the young man, and get Graendal's location from him before he dies from the damage on his mind. She goes with Rand to Falme, where he meets with the real Daughter of the Nine Moons, [[Tuon Athaem Kore Paendrag]].
+
+After discovering that the Forsaken is located in [[Natrin's Barrow]], Rand takes her there and sends Lord [[Ramshalan]] in, who returns under compulsion, which Nynaeve confirms. After Rand destroys the entire palace with balefire and Nynaeve then tells Rand that the compulsion is gone, it is accepted that Graendal has been burned away.
+
+Horrified at Rand's actions at Natrin's Barrow, Nynaeve goes to Cadsuane and willingly submits her inferiority to the elder Aes Sedai in order to be allowed to be a part of her and the Wise One's plans to teach Rand how to feel again. Nynaeve is ordered to find out where Perrin currently is, which she discovers when Rand experiences his ''ta'veren'' visions. It is then that Cadsuane can Travel to Perrin's army and bring back [[Tam al'Thor]].
+
+She rides with Rand when he goes to meet the Borderlander rulers in Far Madding. Rand is asked by Hurin to meet with the rulers inside Far Madding which angers Rand. He picks up the ''ter'angreal'' access key and plans to destroy the whole Borderlander army but is thankfully talked out of it by Nynaeve. She also tries to get him to provide support for the army Lan is gathering at Tarwin's Gap, but Rand refuses saying that it will provide a good distraction away from where Rand needs to be.
+
+She is with Cadsuane when an irate Tam enters the room saying that Rand just tried to kill him and has just Traveled to Ebou Dar.
+
+=== Summons to the Tower ===
+[[File:nynaeve 2.jpg|thumb|311x311px|Nynaeve al'Meara]]
+She is present when Rand returns to Tear and announces that the White Tower has been reunified under Egwene. Egwene then calls her back to the White Tower to be tested and properly raised to the [[shawl]]. Before she leaves, she discovers that she can heal madness and does so for [[Naeff]], [[Jahar Narishma]], and [[Damer Flinn]]. Upon [[Delving]] Rand, she sees his mind is full of madness but is somehow shielded from it. Before she leaves, he asks her to go with him to [[Shayol Ghul]].
+
+The seven Aes Sedai who administer the test represent every Ajah, and oddly are all Sitters - "perhaps due to Nynaeve's notoriety in the Tower". They are [[Saerin]], [[Seaine]], [[Yukiri]], [[Barasine]], [[Rubinde]], [[Lelaine]] and [[Romanda]]. Also present is [[Rosil]], the [[Mistress of Novices]], and Egwene. Several of Nynaeve's unexpected nontraditional responses in the pre-test ceremony reflect her unusual status, raised to Aes Sedai before undergoing the test. This perceived arrogance likely played a part encouraging the administrators to put Nynaeve through a "proper" testing.
+
+{{quote|Well, seems she'll live. Now, would someone please tell me what in the name of ''creation itself'' that was? I've been a part of many a raising, even one where the woman didn't survive. But I have ''never,'' in all of my days, seen a woman put through what this one just suffered.|Saerin Sedai on Nynaeve's testing{{ref/book|13|20}}}}
+
+The test is much harder than usual, brutal even, and Nynaeve is openly furious by the end. Despite the fact she completed all one hundred required weaves and passed through each exit marker, several of the Aes Sedai claim she failed the test, the purpose of which, they say, was to show "proper decorum" and the "ability to be calm as an Aes Sedai." Also, the nature of the test usually precludes the testee from channeling aside from the prescribed weaves, but Nynaeve's experience in the World of Dreams enabled her to do just that—another "rule" broken. Finally, Nynaeve's use of [[balefire]] deeply troubles the other women and they try to obtain an oath from Nynaeve never to use the forbidden weave again.
+
+Nynaeve realizes that, despite her fervent desire to be accepted and fully embraced as true Aes Sedai, it is not a priority in of itself. She would choose Lan over Aes Sedai approval. She would choose helping those in need over the propriety demanded by the institution of the White Tower. She would choose to fight the Dark One over gaining the shawl.
+
+{{quote|I'll be fighting in the Last Battle alongside Rand. What if I were to get to Shayol Ghul and discover that, without balefire, I could not help the Dragon stop the Dark One? Would you have me choose between a foolish oath and the fate of the world? [...] If you're going to raise me, then you'll just have to trust my judgment on balefire. If you don't trust me to know when to use a very dangerous weave and when not to, then I'd rather you not raise me.|Nynaeve{{ref/book|13|20}}}}
+
+To Egwene, Nynaeve goes further and questions the very philosophy behind the Aes Sedai's cool detachment. She says that the point of being Aes Sedai is to serve the people, not to leave them behind to further the goals of the Tower. Egwene is troubled, but counsels Nynaeve to hold off voicing those ideas. With four votes in her favor (Yukiri, Seaine, Romanda and Saerin) and only three against, Nynaeve is declared to have "passed this test. Narrowly."
+
+Nynaeve wastes no time in Traveling to Myrelle and demands Lan's bond.
+
+{{quote|I have never thanked you," she said, though she had to grit her teeth to get the words out. "I do so now. He lives because of you. I realize that. However, Myrelle, this is '''not''' a time to push me. Today, I have seen people I love slaughtered, I have been forced to consign children to living torment. I have been burned, scourged, and harrowed. I swear to you, woman, if you do not pass me Lan's bond '''this very moment,''' I will step into that tent and teach you the meaning of obedience. Do not press me. In the morning, I swear the [[Three Oaths]]. I'm free of them for one more night.|Nynaeve to Myrelle{{ref/book|13|20}}}}
+
+Myrelle grants the request and at long last Nynaeve and Lan share the Warder bond.
+
+=== One of the Three ===
+While camped at the [[Field of Merrilor]], she is visited by Leilwin and Domon. Nynaeve lets Leilwin feel her wrath over the close call to the world being wiped out when Rand was clamped with the dominion band because Leilwin never fulfilled her oath in hiding it away. Leilwin pledges herself to the White Tower and is escorted by Nynaeve to Egwene. When Nynaeve reaches Egwene, she finds refugees from Caemlyn coming through a gateway. She manages to Heal Talmanes, who had been struck down by Thakan'dar blades. Nynaeve links with Egwene to continue Healing the wounded.
+
+Nynaeve is present when Rand asks the leaders of the Westlands to sign the Dragon's Peace. Against all expectations she welcomes Moiraine on her return from the world of the [[Aelfinn]] and the [[Eelfinn]]. At some point she tests [[Callandor]]'s flaw. She is with Rand, when he stands just outside [[Shayol Ghul]], testing whether the [[Dull dagger]] works. Nynaeve warns Perrin to not be foolish, as he consults with Rand about entering ''Tel'aran'rhiod'' in the flesh.
+
+Nynaeve accompanies Rand to [[Thakan'dar]]. She is concerned about the flaw in ''Callandor'' and warns that Rand could be trapped if he tries to use it. Rand is determined to still take it. Nynaeve stands outside the Pit of Doom with Moiraine and Rand. She spots blood pooling at Rand's foot on the rocks of Shayol Ghul and is mortified for Rand. Rand asks Nynaeve and Moiraine to link with him, which they do. As they enter the pit, the Creator speaks out to Rand. [[Moridin]] waits for Rand at the base of the pit, the nothingness of the Dark One stretched behind him. The two men engage in a duel. She attempts to heal the Aes Sedai [[Alanna Mosvani]] using traditional techniques as she is in a circle with Rand, for should Alanna die Rand would suffer the death madness that all Warders suffer on the death of their Aes Sedai. She succeeds in saving Alanna, only to have Moridin bury a knife in Alanna's heart. Alanna, however, releases Rand's bond before her death.
+
+On Rand's command, Nynaeve and Moiraine then utilize the flaw in Callandor to trap Moridin in a circle controlled by female Aes Sedai. They pass control of the circle to Rand, who uses [[Saidar]], provided by Nynaeve and Moiraine, [[Saidin]] provided by himself, and the [[True Power]] supplied by Moridin, to seal the hole in the [[Dark One]]'s prison. She and Moiraine then flee Shayol Ghul.
+
+Nynaeve attempts to save Rand, but, along with the Asha'man [[Damer Flinn]], fails to do so. She becomes increasingly upset. Nynaeve left the Two Rivers in order to bring the Emond Fielder's back, and when she realised she could not, she vowed to protect them as it was her duty as their Wisdom. Having lost Egwene, the feeling that she was slowly deviating from her vow to protect the Emond's Fielders was becoming more justified. Her inability to save Rand only upset her further.
+
+She seeks comfort in her reunification with Lan, who, as Perrin notes, is the only one who can truly support her and care for her in the aftermath and loss suffered during The Last Battle.
+
+Nynaeve stands watch over Rand until his death.
+
+At some point Nynaeve dons the Crown of Malkier.
+
+Nynaeve confronts [[Aviendha]] on the three women's lack of compassion or grief over Rand's death. Her only answer to her demands are that it is time to build Rand's pyre.
+
+It is presumed that Nynaeve, having married Lan and accepted the Crown of Malkier, will aid Lan in rebuilding Malkier.
+
+==Nynaeve's set of jewelery==
+Among the many items recovered from the [[Kin's Storeroom]] near [[Ebou Dar]] there was a jeweled set of useful ''[[ter'angreal]]'' that can be considered very similar to a [[Paralis-net]], which Nynaeve usually wears for her personal safety{{ref/book|9|32}}.
+
+Nynaeve's set includes:
+# A slim [[jeweled belt]] made of gold and covered in very fine rubies, this ''ter'angreal'' is a [[well]], allowing the user to fill it with extra [[saidar]] to use even when in a place shaded from the source, as a [[Stedding]] or [[Far Madding]] {{ref/book|9|33}}
+# A golden [[Ring with green stone|ring]] which is average sized and adorned by a round, pale green stone. When either ''saidar'' or ''saidin'' is being channeled within a certain distance, the ring will appear to vibrate differently to signal either one, though it does not actually move{{ref/book|11|27}}
+# A golden [[Sapphire ring|ring]] which is average-sized and is adorned by a beautiful flawless blue sapphire. When in the presence of someone feeling anger or hostility, this ''ter'angreal'' will turn cold against the wearer's finger{{ref/book|11|27}}
+# A golden bracelet with fine red stones. Nynaeve tells Rand and Lan that this ''ter'angreal'' gives her armor better than steel{{ref/book|9|33}}. We can guess that its function is very similar to [[Cadsuane]]'s [[six-pointed star]] ornament
+
+Nynaeve's set includes more golden rings and bracelets, adorned with precious gems and a long gem-studded necklace, that matches them{{ref/book|9|22}}. It is not known the function of them. But from the fight between Alivia (who was wearing the set) and Cyndane{{ref/book|9|35}}, we know that one of this ''ter'angreal'' has the same function of Mat's [[foxhead medallion]] and Cadsuane's [[golden crescents]] causing flows direct to the wearer to dissipate and also warning that someone close is embracing the Power.
+
+Nynaeve usually adds to this set also a powerful ''[[angreal]]'' in the shape of a [[gold bracelet]] with rings.
+
+== Viewing ==
+*One of [[Min's viewings]] shows Nynaeve kneeling over someone's corpse in a posture of grief. This combined with of viewing of Lan showing a baby with a sword and that viewings only show the future, it seemed to suggest that Lan will die at the Last Battle, and that his child by Nynaeve would be crowned in a manner similar to him. This interpretation has been shown to be incorrect. The corpse could belong to Rand.
+*Since Min's viewing only show the future, her viewing of Lan showing a baby with a sword suggests that Lan and Nynaeve's child will follow in their father's footsteps.
+
+==Parallels==
+Nynaeve is a parallel to ''Nyneve'', one of the names given to the [[Wikipedia:Lady of the Lake|Lady of the Lake]]. As Lan is Lord of the Lakes, that would make Nynaeve Lady of the Lakes, a title more than reminiscent of the Arthurian reference. In Arthurian legend, Nyneve learned to use magic from Merlin, and tends to appear during pivotal moments to use her power. This is similar to the way Nynaeve's great strength aids in many wonderful feats that other women would not be able to manage. Meara is also a Gaelic name meaning "pool" or "lake".
+
+==In the television series==
+*In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Nynaeve al'Meara}} is played by {{TVlink|Zoë Robins}}.
+{{DEFAULTSORT:al'Meara, Nynaeve}}
+
+{{notes}}<references /><references /><references /><references /><references /><references />
+{{Primary Protagonists}}
+[[es:Nynaeve al'Meara]]
+[[it:Nynaeve al'Meara]] 
+[[nl:Nynaeve Almaeren]]
+[[Category:Wilders]]
+[[Category:Healers]]
+[[Category:Wisdoms]]
+[[Category:Two Rivers (people)]]
+[[Category:Women's Circle]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Farm Group]]
+[[Category:Best healers]]
+[[Category:Malkier (people)]]
+[[Category:Sparkers]]
+[[Category:Notes needed]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:POV character]]

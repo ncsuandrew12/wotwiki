@@ -1,0 +1,8 @@
+== Summary ==
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Map
+| Description             = Black and white map of the Westlands. 
+| Source                  = https://www.tor.com/2022/09/13/a-new-map-for-the-wheel-of-time/
+| Artist                  = Ellisa Mitchell
+}}

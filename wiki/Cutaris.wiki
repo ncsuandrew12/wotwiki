@@ -1,0 +1,21 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| affiliation=Dragon Reborn
+| occupation=Soldier
+| nationality=Domani
+| gender=Male
+| build=Long-limbed
+| status=Alive
+| appeared={{tom|21}}
+| lastappeared={{tom|21}}
+| living=tom
+}}'''Cutaris''' is a [[Domani]] soldier under the command of [[Rodel Ituralde]].{{ref|{{twotc}}, Cutaris}}
+
+== Appearance ==
+He is sturdy and long-limbed.
+
+== Activities ==
+During the battle against [[Shadowspawn]] outside [[Maradon]], he is sent to [[Durhem]] with orders to attack the center of the attacking army.
+
+{{notes}}

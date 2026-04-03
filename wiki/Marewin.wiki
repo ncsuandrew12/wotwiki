@@ -1,0 +1,25 @@
+{{character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=Alive
+| death=
+| nationality=Amadician
+| living=loc
+| title=Lady
+| rank=
+| gender=Female
+| hair=
+| build=Slight
+| appeared={{loc|9}}
+| lastappeared={{loc|9}}
+| lastmentioned={{loc|9}}
+}}
+
+'''Marewin''' is a noblewoman at King [[Ailron]]'s court in [[Amadicia]]. She is slight and little more than a girl.
+
+==Activities==
+
+Marewin was set to serve [[Morgase]] during her stay in [[Amador]] as one of her ladies-in-waiting. She looks as if she might faint when hearing news of [[Rand]].
+[[Category:Nobility]]
+[[Category:Short pages]]
+[[Category:Living as of LOC]]

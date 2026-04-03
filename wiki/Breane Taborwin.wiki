@@ -1,0 +1,38 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| gender=Female
+| birth = {{ne|954}}
+| title=Lady
+| height=5'4"
+| status=Alive
+| eyes=Dark
+| affiliation=Morgase Trakand
+| appeared={{tgh|32}}
+| lastappeared={{tom|44}}
+| living=tom
+}}
+'''Breane Taborwin''' is a [[Cairhienin]] Lady of [[House Taborwin]].
+
+== Appearance ==
+Although approaching her middle years, Breane is still pretty, short and suntanned, with dark eyes.
+
+== Activities ==
+=== Lord Barthanes' party===
+Breane first encountered [[Rand al'Thor]] at a party held in [[Cairhien]] by [[Barthanes Damodred]]. She, along with [[Alaine Chuliandred]] and [[Belevaere Osiellin]], made certain offers to Rand that made him extremely uncomfortable, causing him to seek out [[Thom Merrilin]], with whom he had previously agreed to break contact.{{ref/book|2|32}}
+
+=== Civil war ===
+Breane fled the civil war that flared up in Cairhien, eventually ending up a refugee in [[Caemlyn]] and falling in love with [[Lamgwin Dorn]], one of the guards of [[The Queen's Blessing]]. She flees with him from [[Andor]] when they follow [[Morgase Trakand]] to [[Amadicia]]. 
+
+She acts as Morgase's servant while in Amadicia but she is very disrespectful towards her. She gets stuck into Morgase after Morgase's self confidence begins to drop while being held captive in the [[Fortress of the Light]]. She escapes with Morgase and her crew with the help of [[Sebban Balwer]].
+
+While traveling in [[Ghealdan]] she and her group are saved by [[Perrin Aybara]] when they are attacked by [[Masema Dagar|the Prophet]]'s men. They then join with Perrin's army and become attendants under [[Faile Bashere]].
+
+After Faile's capture by the [[Shaido]] [[Aiel]], Breane becomes a servant to Perrin. She has an intense dislike of [[Berelain sur Paendrag Paeron]].
+Perrin sends her north just before the attack on the Shaido in [[Malden]], with the intention of catching up with her afterwards. She is captured by the [[Children of the Light]] who return her before Perrin's trial.
+She finally leaves Perrin's camp to continue serving Morgase when her identity is revealed to everyone.
+
+{{notes}}
+{{DEFAULTSORT:Taborwin, Breane}}
+[[Category:Nobility]]

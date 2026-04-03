@@ -1,0 +1,8 @@
+== Summary ==
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Character
+| Description             = [[Ilain Dormaile]]
+| Source                  = Digital copy of [[New Spring]] graphic novel
+| Artist                  = Mike S. Miller
+}}

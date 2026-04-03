@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover Art
+| Description             = Cover for the Tor edition of ''[[The Great Hunt]]''
+| Source                  = ''[[The Great Hunt]]''
+| Artist                  = Darrell Sweet
+}}
+[[Category:Tor editions|02]]

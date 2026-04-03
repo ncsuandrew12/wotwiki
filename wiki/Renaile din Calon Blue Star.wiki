@@ -1,0 +1,53 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| ewot=Renaile
+| nationality=Atha'an Miere
+| gender=Female
+| hair=Dark, with wings of white
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| status=Alive
+| appeared={{acos|39}}
+| lastappeared={{tom|36}}
+| living=tom
+}}
+{{dablink|For other uses of the word "blue," see [[Blue]].}}
+
+'''Renaile din Calon Blue Star''' was the [[Windfinder]] to the [[Atha'an Miere]] [[Mistress of the Ships]], then demoted to the rank of the most simple Windfinder.
+
+== Appearance ==
+She has wings of white in her dark straight hair. She was about 5'6 tall, cool and dignified with a cool deep voice, large dark eyes. She was handsome rather than pretty and looked to be in her middle years.
+
+Though often cool, when angry her eyes would bulge and her face become engorged with blood.
+
+When she was still Windfinder to [[Nesta din Reas Two Moons]], [[Mistress of the Ships]], she had five fat golden rings in each ear connected by a chain, with another finer chain running to her nose ring, thick with medallions of her clan, among other things.
+
+After Nesta's death, she only retained three rings in each ear and had to remove some of her honor medallions.
+
+== Strength and Abilities ==
+
+Renaile's level of strength is {{opsl|24}} by "The Wheel of Time Companion", matching the level of high ranking Aes Sedai by the White Tower standards.
+
+This strength is enough to open suitable gateways for [[Traveling]] which Renaile learnt during her time along Nynaeve and Elayne.
+
+==Activities==
+=== Bargain for the Bowl ===
+She meets with [[Nynaeve al'Meara]] and [[Elayne Trakand]] over the final details of the bargain for the [[Bowl of the Winds]]. It is [[Matrim Cauthon]] who sorts this out and sends them on their way to the [[Kin]]'s farm to use it. She observes the use of the bowl, and tries to assert her position over [[Zaida din Parede Blackwing]], who would not allow it. She then travels to [[Andor]] and stays in the [[Royal Palace of Andor|Royal Palace]] as a guest of Elayne.
+
+While Elayne is meeting with [[Dyelin Taravin]], Renaile bursts in and demands more [[Aes Sedai]] teachers. She in turn is interrupted by the arrival of [[Mazrim Taim]], and she willingly links with Elayne just in case the [[Asha'man]] attacks.
+
+=== Demotion ===
+When the news of [[Nesta din Reas Two Moons]]' death reaches [[Caemlyn]], Renaile is demoted to the lowest rank after apprentice to start all over again. A number of women Renaile offended on her rise in rank now take the opportunity to get back at her.
+
+She is with [[Chanelle din Seran White Shark]], when she demands that Elayne find [[Merilille Ceandevin]] and [[Talaan din Gelyn]]. She is sent to the [[Silver Swan]] to see if the [[Aes Sedai]] have both women.
+
+When Elayne is captured by the [[Black Ajah]], [[Birgitte Silverbow]] manages to convince Chanelle and the rest of the Sea Folk Windfinders that without Elayne there is no bargain. They [[Travel]] to the area where the Black Ajah are escaping on a wagon with Elayne inside. The strike force rides toward the wagon, but are decimated by [[balefire]] from [[Asne Zeramene]]. Birgitte finally convinces the Windfinders to actively attack the Black Ajah. The Windfinders all link, with Chanelle in control, and attack the wagon with lightning, killing Asne in the process. They shield all the remaining Black Ajah members and [[Darkfriend]]s to be taken captive by Elayne's troops.
+
+Egwene sets up a meeting in ''[[Tel'aran'riod]]'', which Renaile attends, between Aes Sedai, Sea Folk Windfinders, and [[Aiel]] [[Wise One]]s. It is decided at the meeting that Accepted will go and train with the Wise Ones for six months and then they would train with the Sea Folk for a further six months before returning back to the [[White Tower]]. They would then make a choice a year later on where they would wish to finish their training. Sea Folk and Wise One apprentices would also go through this training program but to the White Tower and the other channeling faction. It is agreed that for every two Accepted who leave, two Wise One apprentices and two Sea Folk apprentices will be exchanged. The Sea Folk Bargain is also modified so that Aes Sedai sisters no longer have to teach Sea Folk Windfinders anymore and that Sea Folk Aes Sedai can now return back to their homeland and be the channelers who teach the Sea Folk Windfinders. Finally all ''[[ter'angreal]]'' that are already owned by the Aiel or by the Sea Folk cannot be claimed by the White Tower.
+
+{{DEFAULTSORT:Calon Blue Star, Renaile din}}
+
+[[es:Renaile din Calon]]
+[[Category:Farm Group]]
+[[Category:Channelers]]

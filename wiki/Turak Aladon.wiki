@@ -1,0 +1,51 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| death={{ne|998}}
+| height= Tall
+| eyes=Dark
+| hair=Shaved
+| rank=High Lord
+| nationality=Seanchan
+| gender=Male
+| status=Dead
+| mentioned=
+| appeared={{tgh|29}}
+| ewot=turak
+| lastappeared={{tgh|45}}
+| lastmentioned={{tgs|35}}
+}}The '''High Lord Turak of House Aladon''' was a [[Seanchan]] High Lord, and the original commander of the ''[[Hailene]]''.
+
+==Appearance==
+He was tall with dark eyes; his head was completely shaved and the first two fingernails of each hand were lacquered blue.
+
+==History==
+He was a [[blademaster]].
+
+He was a collector of ''[[cuendillar]]'' and had the second largest collection of ''cuendillar'' next to the [[Radhanan|Empress of Seanchan]] herself.{{ref/book|2|29}}
+
+At the time of his arrival in the [[Westlands]], High Lord Turak was considered twelfth in line to the [[Crystal Throne]].{{ref/book|2|34}} He was therefore likely a nephew or cousin of Empress [[Radhanan]], or had received the honor of being adopted into a place in the Imperial family.
+
+==Activities==
+Turak led the ''Hailene'' to [[Falme]], marking the beginning of the Return.
+
+He met [[Bayle Domon]] and confiscated a few objects he possessed, including one of the [[Seals]] to the [[Dark One's prison]], adding them to his own substantial ''Cuendillar'' collection.{{ref/book|2|29}}
+
+[[Padan Fain]] appeared before him and presented him with the [[Horn of Valere]] as a means to draw [[Rand]] to the [[Seanchan]].{{ref/book|2|34}}
+
+When Rand finally arrived, he and his friends retrieved the Horn and Rand killed Turak in a sword fight without the use of the [[One Power]]. Initially Rand was losing, but when he used the [[Void]] technique he was a near even match in defense. Then Rand went on the offensive and killed Turak. Turak's [[so'jhin| so'jhin&nbsp;]] committed suicide by plunging daggers into their own hearts.
+
+After Turak's death, the High Lady [[Suroth Sabelle Meldarath]] took command of the ''Hailene''.
+
+====Rand's status as Blademaster====
+It is said by some that Rand's defeat of Turak gave him the status of [[Blademaster]]; though it is debatable by some whether or not this particular incident made Rand a Blademaster automatically. This is because the unwritten rule is that if one kills a Blademaster they become a Blademaster. The only other way to become one is through evaluation and consensus of a panel of Blademasters. Rand later recounts this fight, saying there were no witnesses, so it did not count. Either way, it is made clear throughout the series that Rand is as skilled as a Blademaster regardless of whether he met all the prerequisites. Robert Jordan did verify in an interview that Rand was a Blademaster.
+
+==In the television series==
+In the television series, {{TVlink|High Lord Turak}} is played by actor {{TVlink|Daniel Francis}}.
+
+{{notes}}
+{{DEFAULTSORT:Aladon, Turak}}
+
+[[es:Turak Aladon]]
+[[Category:The Blood]]
+[[Category:Blademasters]]

@@ -1,0 +1,36 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Taraboner
+| rank=Aes Sedai
+| gender=Female
+| affiliation=The Dragon Reborn
+| status=Alive
+| mentioned={{loc|55}}
+| lastmentioned={{wh|13}}
+| living=wh
+}}'''Innina Darenhold''' is an [[Aes Sedai]] of the [[Red Ajah]].{{ref|{{twotc}}, Innina Darenhold}}
+
+==History==
+She is from Tarabon.
+
+==Activities==
+She was part of the [[White Tower]] secret group to [[Cairhien]] led by [[Coiren Saeldain]] and took part in kidnapping [[Rand al'Thor]].
+
+She was captured by the [[Asha'man]] at the [[Battle of Dumai's Wells]]{{ref/book|6|55}}.
+
+[[Chisaine Nurbaya]], [[Janine Pavlara]], Innina Darenhold and [[Vayelle Kamsa]] are the last four of the prisoners to swear fealty to Rand{{ref/book|9|13}}. They did so under [[Verin Mathwin|Verin's]] [[Compulsion]].
+
+As with many Aes Sedai sworn to Rand, Innina probably fought the [[Last Battle]] on the slopes of [[Thakan'dar]]{{ref/book|14|34}}. It is not stated whether she survived or not.
+
+{{notes}}
+
+{{DEFAULTSORT:Darenhold, Innina}}
+
+[[es:Innina Darenhold]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

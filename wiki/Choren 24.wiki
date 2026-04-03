@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|September}}
+|{{Wotmonth|Choren}}
+|}
+'''Choren 24 (September 24)'''
+
+==Events==
+</noinclude>
+*{{ne|998}} - [[Liandrin]], [[Nynaeve]], [[Egwene]], [[Elayne]], and [[Min]] arrive at [[Toman Head]]. Liandrin betrays the girls to [[Suroth]]. Egwene and Min are captured.
+<noinclude>
+==External links==
+*[[wikipedia:september 24|September 24]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

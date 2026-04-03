@@ -1,0 +1,38 @@
+{{ character 
+| image=YellowBlack.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality= Unknown nationality
+| rank=Aes Sedai
+| affiliation=Black Ajah
+| status=Dead
+| death={{ne|1000}}
+| build=Bony
+| appeared={{loc|30}}
+| lastappeared={{loc|30}}
+| lastmentioned={{tgs|39}}
+}}
+'''Larissa Lyndel''' was an [[Aes Sedai]] from the [[Yellow Ajah]]. She was also secretly part of the [[Black Ajah]].
+
+==Appearance==
+She was a bony woman whose "plainness almost overcame Aes Sedai age-lessness".{{ref/book|6|30}}
+
+==Strength and Abilities==
+Larissa is [[Strength in the One Power among Aes Sedai|weak]] in the [[One Power]] for an Aes Sedai, with a strength level of {{opsl|34}}. This is too weak to [[Traveling|Travel]] without linking with another channeler.
+
+As a member of the Yellow Ajah, she would have an above-average ability in Healing.
+
+==Activities==
+She had sided with the [[Rebel Aes Sedai]].
+
+She missed [[Nynaeve al'Meara]] [[Healing]] both [[Leane Sharif]] and [[Siuan Sanche]] from [[stilling]] and insisted on her going through the whole process again step by step and even tried to give advice on how to improve it.
+
+In [[Verin Mathwin]]'s list of Darkfriends, Larissa is noted to be of the Black Ajah. It can be assumed she was one of the fifty Black sisters to be executed in the rebel camp since she didn't have enough strength to escape by gateway.
+
+{{DEFAULTSORT:Lyndel, Larissa}}
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]

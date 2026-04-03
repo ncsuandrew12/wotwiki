@@ -1,0 +1,6 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Sigil
+| Description        = Meresin Daganred's ''con''
+| Source             = created by user
+}}

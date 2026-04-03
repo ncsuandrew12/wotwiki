@@ -1,0 +1,82 @@
+{{quote|I must say, that traveling with </em>ta'veren<em> has turned out to be even more interesting than I expected. If it becomes any more interesting, I will go back to </em>Stedding<em> Shangtai immediately, confess everything to Elder [[Haman]], and never leave my books again.|[[Loial son of Arent son of Halan]]}}
+
+{{summary | book=1 |chapter=52
+|title=There Is Neither Beginning Nor End
+|icon=Leaf
+|setting=[[Eye of the World]]
+}}
+
+==Summary==
+{{pov|[[Rand al'Thor]]}}
+
+[[Rand]] awakens to light, then pain, then memory of his battle against the [[Dark One]]. A burning smell causes him to survey his surroundings, where the remains of [[Aginor]] reside from their battle over the [[Eye of the World]]. His memory slowly returns; he remembers his father [[Tam al'Thor|Tam]] and his own name. Thoughts of [[Egwene]] bring him to his feet. He tumbles down a hill like a drunkard after her and finds a trio of women resting underneath an oak. He calls out to Egwene and realizes which of the women she is. He touches her cheek and imagines a slight pulling away. He recalls the other two women, [[Moiraine Damodred|Moiraine]] and [[Nynaeve al'Meara|Nynaeve]], who exclaim that they are all right. Rand begins explaining how he defeated the Dark One and pauses as he recalls how he won the fight - by [[Channeling]] the [[One Power]], [[taint]]ed ''[[saidin]]''. He reaches for Egwene and she shies away before abruptly apologizing with a hug. [[Moiraine]] demands an explanation and confesses her earlier suspicions at [[Watch Hill]].{{ref/book|1|11}}
+
+After telling Moiraine of all that happened, Rand says that he won't go mad if he never touches ''saidin'' again. Moiraine says it might be possible with supreme strength of will. He asks Moiraine to teach him, but she cannot, as the two halves of the One Power are too different. Rand asks where the men are and Moiraine says that Lan took them inside the Eye to see what they could find. Moiraine gave them something to do so that they would not look for Rand. Nynaeve and Egwene know about Rand's channeling because they will be [[Aes Sedai]]; [[Lan Mandragoran|Lan]] because he is Moiraine's [[Warder]], but she did not tell the others for now. Rand suddenly gets angry and asks why Moiraine is behaving as such; why isn't she wanting to take him to [[Tar Valon]] to be [[Severing|gentled]]? He recalls [[Ba'alzamon]] speaking of the False [[Dragon]]s and saying they were used by the Aes Sedai; he exclaims that he won't be used like them. Moiraine berates him for being manipulated by Ba'alzamon. Rand realizes the truth of her words, but still retorts that he won't be used by anyone.
+
+The rest of the group exits the inside of the Eye with a giant chest, fragments of pottery, and a folded white cloth. The chest contains the [[Horn of Valere]], the fragments turn out to be shattered pieces of one of the [[Seal]]s to the [[Dark One's prison]], and the cloth is unfurled to reveal the [[Dragon Banner]]. Loial jokes that traveling with ''[[ta'veren]]'' is far more interesting than even he expected. Upon questioning, Rand lies and says that he only ran away and fell down a hill and lost consciousness for a while.
+
+The party spends the night at the Green Man's home one more time as the [[Blight]] rushes in to destroy his creation. Moiraine says that it is over for now and they can continue their lives as they will.
+
+==Characters==
+* [[Rand al'Thor]]
+* [[Moiraine Damodred]]
+* [[Nynaeve al'Meara]]
+* [[Egwene al'Vere]]
+* [[Mat Cauthon]]
+* [[Perrin Aybara]]
+* [[Lan Mandragoran]]
+* [[Loial]]
+
+===Referenced===
+* [[Aginor]]
+* [[Green Man]]
+* [[Tam al'Thor]]
+* [[Kari al'Thor]]
+* [[Dark One]]
+* [[Ba'alzamon]]
+* [[Aemon al Caar al Thorin]]
+* [[Eldrene ay Ellan ay Carlan]]
+* [[Bela]] (animal)
+* [[Mandarb]] (animal)
+* [[Thom Merrilin]]
+* [[Logain Ablar]]
+* [[Raolin Darksbane]]
+* [[Guaire Amalasan]]
+* [[Yurian Stonebow]]
+* [[Davian]]
+* Elder [[Haman]]
+* [[Lews Therin]]
+* [[Ishamael]]
+* [[Balthamel]]
+
+==Groups==
+===Referenced===
+* [[Forsaken]]
+
+==Places==
+* [[Eye of the World]]
+
+===Referenced===
+* [[Emond's Field]]
+* [[Tear]]
+* [[Manetheren]]
+* [[Watch Hill]]
+* [[Tar Valon]]
+* [[Stedding Shangtai]]
+* [[Shayol Ghul]]
+
+==Items==
+* [[Heron-mark sword]]
+* [[Seal]] (first one found and first broken)
+* [[Dragon Banner]]
+* [[Horn of Valere]]
+
+==Culture==
+* [[Age of Legends]]
+
+==Concepts==
+* [[Creator]]
+* [[Light]]
+
+{{notes}}
+{{DISPLAYTITLE:''There Is Neither Beginning Nor End''}}

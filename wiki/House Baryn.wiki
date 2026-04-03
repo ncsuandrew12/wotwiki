@@ -1,0 +1,15 @@
+'''House Baryn''' is one of the 19 Major [[:Category:Noble houses|Noble houses]] of [[Andor]]. Its [[High Seat]] is [[Lir Baryn]]. His sister is [[Aedelle Baryn]].
+ [[File:Baryn.png|alt=Winged hammer on background of green|thumb|Sigil of House Baryn]]
+==House Sigil==
+The sigil of House Baryn is a silver winged hammer on a green background.{{ref/book|11|33}}{{ref/book|twotc}}
+
+==Activities==
+'''[[Succession Wars|Fourth Succession War]]''' - House Baryn initially supported [[House Marne]] against [[House Trakand]], but when the army beseiging [[Caemlyn]] was defeated, House Baryn quickly transferred its support to House Trakand.{{ref/book|11|33}}
+{{notes}}<references />
+
+{{short}}
+
+[[es:Casa Baryn]]
+[[Category:Andor|Baryn]]
+[[Category:Noble houses|Baryn]]
+[[Category:Major Houses of Andor|Baryn]]

@@ -1,0 +1,41 @@
+{{character 
+| image=BlueAjah.png
+| imagesize=250px
+| ajah=Blue
+| nationality=Andoran
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| eyes=Blue
+| hair=Short, Black
+| build=Plump
+| status=Alive
+| appeared={{ns|14}}
+| lastappeared={{ns|14}}
+| lastmentioned={{cot|17}}
+| living=cot
+|birth = {{ne|905}}}}
+{{for|the [[Emond's Field]] resident|Adine Lewin}}
+'''Adine Canford''' is an [[Aes Sedai]] of the [[Blue Ajah]]. 
+
+== Appearance ==
+Adine is a plump [[Andoran]] with blue eyes and short black hair. 
+
+==Abilities==
+Adine is [[Strength in the One Power among Aes Sedai|very weak]] in the [[One Power]], with a strength level of {{opsl|40}}. This is marginally above [[Siuan Sanche]]'s strength after she was healed from [[Stilling|Severing]]. Moiraine describes her as "not very strong in the Power".{{ref/book|0|14}}
+
+==History==
+Adine is 95 years old. She was born in {{ne|905}} and she went to the [[White Tower]] in [[920 NE]]. After spending twelve years as a [[novice]] and eleven years as [[Accepted]], she was raised to the [[shawl]] in {{ne|943}}.
+
+She becomes close friends with [[Siuan Sanche]] and [[Moiraine Damodred]] just after they are raised to the shawl. She was also friends with [[Leane Sharif]], who introduced them to one another. Moiraine places a level of trust in her, and thinks she is not at all arrogant "for an Andoran". 
+
+She receives reports on behalf of Moiraine from her agents, including [[Nieda Sidoro]].
+
+==Activities==
+She has allied herself with the [[Salidar Aes Sedai]] during the split with the White Tower. She taught novice classes.
+
+{{DEFAULTSORT:Canford, Adine}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

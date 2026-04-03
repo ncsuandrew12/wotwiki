@@ -1,0 +1,59 @@
+==Purpose of template==
+
+==How to use==
+<pre><nowiki>{{SeriesInformation
+|title =
+|author = 
+|release =
+|genre=
+|pages = 
+|description =
+|characters =
+|book series = 
+|films=
+|rating = 
+|violence =
+|language =
+|sexual-themes =
+|drugs-alcohol =
+|crude-humor =
+}}
+</nowiki></pre>
+
+==Examples==
+<pre><nowiki>{{SeriesInformation
+|title = A Title
+|author = Somebody
+|release = A long time ago
+|genre = Fantasy
+|pages = 12345
+|description = Lorem ipsum
+|characters = Alice and Bob
+|book series = A Series
+|films = Some Movies
+|rating = G
+|violence = Yes
+|language = Some
+|sexual-themes = Absent
+|drugs-alcohol = DEA
+|crude-humor =
+}}
+</nowiki></pre>
+produces:
+{{SeriesInformation
+|title = A Title
+|author = Somebody
+|release = A long time ago
+|genre = Fantasy
+|pages = 12345
+|description = Lorem ipsum
+|characters = Alice and Bob
+|book series = A Series
+|films = Some Movies
+|rating = G
+|violence = Yes
+|language = Some
+|sexual-themes = Absent
+|drugs-alcohol = DEA
+|crude-humor =
+}}

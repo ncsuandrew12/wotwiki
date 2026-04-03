@@ -1,0 +1,20 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| death=
+| nationality=Altaran
+| rank=
+| title=
+| gender=Male
+| height=
+| hair=
+| eyes=
+| occupation=Unknown occupation
+| appeared={{acos|23}}
+| lastmentioned={{acos|23}}
+| living=acos
+}}
+'''Master Denal''' is an [[Altaran]] who wants to marry [[Derys]], a [[Kinswoman]], but she is not allowed to by the Kin rules.
+[[Category:Short pages]]

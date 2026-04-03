@@ -1,0 +1,19 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| death=
+| eyes=
+| rank=So'jhin
+| status=Alive
+| nationality=Seanchan
+| gender=Male
+| appeared={{tgs|19}}
+| lastappeared={{tgs|19}}
+| lastmentioned={{tgs|19}}
+| living=tgs
+}}
+'''Ma'combe''' is a strong armed [[so'jhin]] with a long black braid
+
+==History==
+He appears briefly to tell [[Tuon]] that [[Tylee Khirgan]] is seeking an audience.
+[[Category:Short pages]]

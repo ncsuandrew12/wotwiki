@@ -1,0 +1,17 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Isebele
+| status=Dead
+| nationality=Dal Calainin
+| rank=Queen
+| title=Queen of Dal Calain
+| gender=Female
+| mentioned={{Acos|16}}
+| lastmentioned={{acos|16}}
+}}
+'''Isebele''' was once Queen of [[Dal Calain]].
+
+== History ==
+She was so powerful and willful she even summoned the then-[[Amyrlin Seat|Amyrlin]] [[Anghara]] to visit her for an audience. This is either evidence of Isebele's and Dal Calain's power having stretched further than the national borders, or of Anghara having been an extremely weak Amyrlin Seat (or maybe a combination of both circumstances: a relatively weak Amyrlin confronted by a powerful leader).
+[[Category:Historical people]]

@@ -1,0 +1,9 @@
+{| class="messagebox current" style="width: auto; background: black;"
+|-
+| [[Image:Current_event.png|50px]]
+| '''This article or section needs to be updated.''' <br /> Parts of this article or section have been identified as no longer being up to date. Please update it to reflect recent events, and remove this template when finished.{{#if:{{{1|{{{description|}}}}}}|<br />An editor provided this reason: ''{{{1|{{{description|}}}}}}''}}
+| [[Image:Wheel_of_time.svg|50px]]
+|}<includeonly>[[Category:Updates needed|{{PAGENAME}}]]</includeonly>
+<noinclude>{{documentation}}
+[[Category:Updates needed| Template:Update]]
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

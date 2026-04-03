@@ -1,0 +1,16 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| affiliation=Dragon Reborn
+| occupation=Soldier
+| nationality=Domani
+| gender=Male
+| status=Alive
+| mentioned={{tom|21}}
+| lastmentioned={{tom|21}}
+| living=tom
+}}
+'''Alin''' is a [[Domani]] soldier under the command of [[Rodel Ituralde]].
+
+== Activities ==
+During the battle against [[Shadowspawn]] outside [[Maradon]], he is ordered by Ituralde to have his cavalry attack the [[Trolloc]]s eastern flank.

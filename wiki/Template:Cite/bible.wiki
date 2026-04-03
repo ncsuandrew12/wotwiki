@@ -1,0 +1,4 @@
+<includeonly>{{#if:{{{book|{{{1|}}}}}}|{{Link
+  | url=https://www.biblegateway.com/passage/?search={{urlencode:{{{book|{{{1}}}}}}|WIKI}}{{#if:{{{chapter|{{{2|}}}}}}|%20{{{chapter|{{{2}}}}}}{{#if:{{{verse|{{{3|}}}}}}|%3A{{{verse|{{{3}}}}}}}}{{#if:{{{chapter2|{{{4|}}}}}}{{{verse2|{{{5|}}}}}}|-}}{{{chapter2|{{{4|}}}}}}{{#if:{{{chapter2|{{{4|}}}}}}|{{#if:{{{verse2|{{{5|}}}}}}|%3A}}}}{{{verse2|{{{5|}}}}}}}}{{#if:{{{version|}}}|&version={{{version}}}}}
+  | text={{{book|{{{1}}}}}}{{#if:{{{chapter|{{{2|}}}}}}|&nbsp;{{{chapter|{{{2}}}}}}{{#if:{{{verse|{{{3|}}}}}}|&colon;{{{verse|{{{3}}}}}}}}{{#if:{{{chapter2|{{{4|}}}}}}{{{verse2|{{{5|}}}}}}|-}}{{{chapter2|{{{4|}}}}}}{{#if:{{{chapter2|{{{4|}}}}}}|{{#if:{{{verse2|{{{5|}}}}}}|&colon;}}}}{{{verse2|{{{5|}}}}}}}}}}|{{Err|Must provide a book to {{t|Cite/bible}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Templates]]</noinclude>

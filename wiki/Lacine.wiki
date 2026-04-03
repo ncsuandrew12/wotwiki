@@ -1,0 +1,20 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=First Twelve
+| build=Slender
+| status=Alive
+| appeared={{kod|22}}
+| lastappeared={{kod|22}}
+| living=kod
+}}
+'''Lacine''' is of the ''[[Atha'an Miere]]'' [[First Twelve]].
+
+== Appearance ==
+She is very slender.
+
+== Activities ==
+She attends the meeting of the First Twelve with [[Rand al'Thor]]'s ambassador [[Logain Ablar]]. Near the end of the meeting [[Cemeille din Selaan Long Eyes]] interrupts with the news of the [[Amayar]] committing mass suicide.

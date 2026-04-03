@@ -1,0 +1,38 @@
+==Purpose of template==
+This template allows you to get the Ajah's color as a CSS value.
+
+<span style="color : {{Ajah Color|blue}}">Blue</span> <span style="color : {{Ajah Color|green}}">Green</span> <span style="color : {{Ajah Color|yellow}}">Yellow</span> <span style="color : {{Ajah Color|red}}">Red</span> <span style="color : {{Ajah Color|white}}">White</span> <span style="color : {{Ajah Color|grey}}">Grey</span> <span style="color : {{Ajah Color|brown}}">Brown</span> "<span style="color : {{Ajah Color|black}}">Black</span>"
+
+==How to use==
+<pre>{{Ajah Color|[ajah]}}</pre>
+
+==Examples==
+<pre>{{Ajah Color}}</pre>
+{{Ajah Color}}
+
+<pre>{{Ajah Color|blue}}</pre>
+{{Ajah Color|blue}}
+
+<pre>{{Ajah Color|green}}</pre>
+{{Ajah Color|green}}
+
+<pre>{{Ajah Color|yellow}}</pre>
+{{Ajah Color|yellow}}
+
+<pre>{{Ajah Color|red}}</pre>
+{{Ajah Color|red}}
+
+<pre>{{Ajah Color|white}}</pre>
+{{Ajah Color|white}}
+
+<pre>{{Ajah Color|grey}}</pre>
+{{Ajah Color|grey}}
+
+<pre>{{Ajah Color|brown}}</pre>
+{{Ajah Color|brown}}
+
+<pre>{{Ajah Color|black}}</pre>
+{{Ajah Color|black}}
+
+<pre>{{Ajah Color|nonsense}}</pre>
+{{Ajah Color|nonsense}}

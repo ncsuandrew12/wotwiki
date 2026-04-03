@@ -1,0 +1,16 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| gender=Male
+| mentioned={{loc|50}}
+| lastmentioned={{loc|50}}
+}}
+'''Aried son of [[Coiam]]''' was an [[Ogier]] man and father of [[Jalanda]].{{ref/book|6|50}}
+
+==History==
+While he is mentioned, as part of his son's name, nothing is known about Aried.
+
+{{notes}}
+{{short}}

@@ -1,0 +1,16 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=Owyn
+| status=Dead
+| death={{ne|985}}
+| nationality=Andoran
+| gender=Female
+| mentioned={{twotc}}, Cein}}
+
+The wife of [[Owyn Merrilin]], [[Thom Merrilin]]'s nephew.
+
+==Activities==
+She dies within a month of Owyn's suicide.
+
+{{stub}}

@@ -1,0 +1,29 @@
+{{ character 
+| image=MurandyFlag.png
+| imagesize=250px
+| nationality= Murandian
+| occupation=Mayor
+| affiliation=Hinderstap
+| hair=Black
+| build=Sturdy
+| status=Alive
+| appeared={{tgs|27}}
+| lastappeared={{tgs|28}}
+| living=tgs
+| gender=Male
+}}
+'''Barlden''' is the mayor of [[Hinderstap]]. 
+
+==Appearance==
+Barlden has thick arms with curled, dark hair, matching his beard and the hair on his head.{{ref/book|12|27}}
+
+==Activities==
+Like the rest of the Hinderstap residents, Barlden succumbs to madness during sunset due to a [[bubble of evil]], attacking anyone he can, and then waking up perfectly fine the next morning.
+
+When [[Matrim Cauthon]] brings his party into Hinderstap, Barlden desperately tries to make them leave in time without giving away their predicament, but fails. After Mat and most of his party escape the village, only to return the next morning offering aid, Barlden sends them away, as there is nothing they can do to help.{{ref/book|12|28}}
+
+==Trivia==
+[[Brandon Sanderson]] joked that he could cameo as the Mayor of Hinderstap in the [[The Wheel of Time (TV series)|television series]] and be killed off in different ways as revenge for the characters that he had to kill off.<ref>[https://youtu.be/IxQYLUUMCxI?t=1869 Live with Brandon Sanderson: Wheel of Time, Cosmere, and more!]</ref>
+
+{{notes}}
+[[Category:Short pages]]

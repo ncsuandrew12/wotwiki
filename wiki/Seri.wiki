@@ -1,0 +1,23 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| birth={{ne|982}}
+| occupation=Damane
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| appeared={{tfoh|32}}
+| lastappeared={{tfoh|32}}
+| living=tfoh
+}}
+'''Seri''' is a ''[[damane]]'' from [[Seanchan]].
+
+== Appearance ==
+She is pale-faced.
+
+== Activities ==
+She is with a group of soldiers in Seanchan, when they find the [[Gateway]] left by [[Rand al'Thor]] and [[Aviendha]]. She is held by bonds of Air by [[Aviendha]], who then tries to take Seri's ''[[a'dam]]'' off. Aviendha fails and then flees back through the gateway with Rand. She is placed into the custody of the [[Seekers for Truth]] by [[Jalindin]].{{ref/book|5|32}}
+
+{{notes}}
+[[Category:Sparkers]]
+[[Category:Slaves]]

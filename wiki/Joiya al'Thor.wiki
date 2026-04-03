@@ -1,0 +1,25 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Foreseen
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| appeared={{tdr|22}}
+| lastappeared={{tdr|22}}
+}}
+'''Joiya al'Thor''' was the daughter of [[Egwene al'Vere]] and [[Rand al'Thor]] during Egwene's test for [[Accepted]].{{ref/book|3|22}}
+
+==Appearance==
+Egwene sees Joiya as the most beautiful and sweetest little girl in the Two Rivers.
+
+==Activities==
+Egwene reluctantly leaves Joiya and Rand behind when the arch appears that is her exit from her first trip in the [[Silver arches]].
+
+Egwene does not like that [[Black Ajah]] member [[Joiya Byir]] shares her hypothetical daughter's name. {{ref/book|3|25}}
+
+== In the television series ==
+In the television series, {{TVlink|Joiya al'Thor}} is played by an uncredited infant, and appeared in a vision Ishamael showed Rand, rather than than one Egwene experienced.
+
+{{notes}}
+{{DEFAULTSORT:al'Thor, Joiya}}

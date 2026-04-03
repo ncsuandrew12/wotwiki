@@ -1,0 +1,40 @@
+{{summary | book=14 
+|chapter=27
+|title=Friendly Fire
+|icon=cairhien
+|setting=[[Arafel]]-[[Kandor]] Border, Arafel
+}}
+
+== Summary ==
+
+:{{pov|[[Gareth Bryne]]}}
+Holcom reports the status of the Aes Sedai lines of defenses, which are still holding. The lancers at the ford took a lot of casualties, among them [[Joni Shagrin]]. [[Uno Nomesta|Uno]] has taken up his command position.
+
+Bryne sends [[Annah]] to ask [[Fortuona Athaem Devi Paendrag|Fortuona]] for cavalry reinforcements, but a ''raken'' flying overhead is killed and crushes her when it hits the ground. [[Elmindreda Farshaw|Min]] offers to go in her stead.
+
+:{{pov|[[Elmindreda Farshaw]]}}
+Min Travels to the Seanchan camp and is made to wait, because new messengers first need to be cleared. [[Catrona]] takes her to the command post, where she meets [[Matrim Cauthon|Mat]]. She tells him that Bryne needs cavalry reinforcements. Mat sends [[Tylee Khirgan|Tylee]] and her First Legion.
+
+After Fortuona has entered the room, Min describes a Viewing she has of Fortuona to Mat. The other woman overhears and once she has ascertained that Min is what the Seanchan know as a Doomseer, she names Min her new ''Soe'feia''.
+
+== Characters ==
+* [[Gareth Bryne]]
+* [[Siuan Sanche]]
+* Holcom
+* [[Annah]]
+* [[Elmindreda Farshaw]]
+* [[Ashmanaille]]
+* [[Catrona]]
+* [[Fortuona Athaem Devi Paendrag]]
+* [[Lunal Galgan]]
+* [[Matrim Cauthon]]
+* [[Tylee Khirgan]]
+
+=== Referenced ===
+* [[Joni Shagrin]]
+* [[Uno Nomesta]]
+
+== Places ==
+* [[Kandor]]
+* [[Arafel]]
+{{DISPLAYTITLE:''Friendly Fire''}}

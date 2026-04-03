@@ -1,0 +1,20 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Bulen
+| gender=Male
+| appeared={{tom|p}}
+}}
+'''Scouter''' is an old pack horse.
+
+==Appearance==
+Scouter is shaggy-maned.
+
+==Activities==
+Scouter is led, overloaded, by [[Bulen]] to find [[Lan Mandragoran]] on the [[Warder]]'s trek across the [[Borderlands]].{{ref/book|13|p}} They travel through [[Kandor]] and [[Arafel]], acquiring other horses to carry both people and supplies.{{ref/book|13|7}}{{ref/book|13|23}}
+
+{{notes}}
+{{short}}

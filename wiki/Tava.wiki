@@ -1,0 +1,26 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=
+| affiliation=
+| height=Tall
+| build=
+| hair=
+| status=Foreseen
+| clan=Unknown clan
+| sept=Unknown sept
+| mentioned={{tom|48}}
+}}
+
+'''Tava''' will be a distant descendant of Aviendha and Rand in one potential future. She is seen by [[Aviendha]] in the [[Glass columns]] of [[Rhuidean]]. 
+
+== Ancestry and potential descent of Tava ==
+[[Aviendha]] and [[Rand al'Thor|Rand]] ↠ [[Padra]] ↠ [[Oncala]] ↠ [[Ladalin]] ↠ ? ↠ ? ↠ [[Rowahn]] ↠ '''Tava''' ↠ ? ↠ [[Norlesh]] ↠ ? ↠ [[Malidra]]
+
+== History ==
+
+During Aviendha's visions Tava's Hold is destroyed in a Seanchan raid. [[Rowahn]] is her father and [[Norlesh]] is her granddaughter.
+[[Category:Foreseen people]]
+[[Category:Short pages]]

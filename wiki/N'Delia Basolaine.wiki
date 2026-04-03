@@ -1,0 +1,22 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=250px
+| status=Dead
+| nationality=Hol Cuchone
+| rank=First Maid
+| occupation=Historian
+| title=[[Swordfast]]
+| affiliation=Hol Cuchone
+| gender=Female
+| mentioned={{Tfoh|p}}
+| lastmentioned={{tfoh|p}}
+}}
+
+'''N'Delia Basolaine''' was the [[First Maid]] and [[Swordfast]] to [[Raidhen]] of [[Hol Cuchone]].
+
+She is believed to have translated a fragment of The [[Prophecies of the Dragon]] around {{ab|400}}.
+
+{{short}}
+{{DEFAULTSORT:Basolaine, N'Delia}}
+[[Category:Historical people]]
+[[Category:Authors]]

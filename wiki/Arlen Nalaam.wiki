@@ -1,0 +1,28 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=200px 
+| nationality=Domani
+| rank=Soldier (Asha'man)
+| occupation=Asha'man
+| affiliation=Black Tower
+| gender=Male
+| status=Dead
+| birth={{ne|971}}
+| appeared={{tpod|23}}
+| lastappeared={{amol|4}}
+| lastmentioned={{amol|8}}
+}}
+'''Arlen Nalaam''' is an [[Asha'man]] [[Soldier]]. 
+
+== Appearance ==
+He has coppery skin and and a thin mustache. He is just shy of his thirtieth year.
+
+== Activities ==
+He brings back to [[Rand al'Thor]] a [[Seanchan]] [[sul'dam]] prisoner during the campaign against the Seanchan outside [[Illian]] and he then returns to the battle. He sometimes mutters in an unrecognizable language, if it is a language, that is not the [[Old Tongue]]. When asked about it, he states that he spoke plainly. He should have been promoted to Asha'man but has been held back.
+
+He, along with [[Algarin Pendaloan|Emarin]], [[Canler]], and [[Jonneth Dowtry]] are leveling hillside with the [[One Power]]. Alongside them is a group of Taim's men led by [[Coteren]]. Coteren mocks [[Androl Genhald]] who has stopped by and embarrasses him in front of everyone by showing how weak he is in the One Power. Nalaam's group become furious and everyone fills with ''[[saidin]]'' just about leading to open battle between the two groups before Androl manages to calm them all down by making light of the situation. After Taim's group leaves, Androl agrees that they will start to investigate the bizarre changes that are happening to people.  
+
+Nalaam is present in the inn when [[Welyn Kajima]] tells everyone that Logain and Taim have patched up their differences and want a unified Tower. As the men are leaving, Coteren enters and tells Androl that he has been demoted to Soldier. Androl embraces the Source causing Nalaam to as well. Androl manages to calm down and diffuse the situation and the men leave. Nalaam is part of Androl's group to sneak into the the Black Towers foundations, where Taim has had hidden rooms constructed. There they find Logain kept captive. Before they can escape, they are found by Taim and his men after [[Evin Vinchova]] reveals their plan. They are pinned in the cell until Taim brings the roof down on them. Nalaam is killed by the falling debris. Androl notes that he was lucky to die instead of being turned. 
+ 
+{{DEFAULTSORT:Nalaam, Arlen}}
+[[Category:Channelers]]

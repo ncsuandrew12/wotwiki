@@ -1,0 +1,68 @@
+{{for|the inn by the same name|The Seven-Striped Lass}}
+{{summary | book=13 |
+|chapter=8
+|title=The Seven-Striped Lass
+|icon=Dice
+|setting=[[Caemlyn]]
+}}
+
+==Summary==
+:{{pov|[[Matrim Cauthon]]}}
+[[Matrim Cauthon]] is in [[The Seven-Striped Lass]]. There [[Verin's letter to Mat]], still unopened, is nagging Mat, along with the promise that bonds him to it. Mat whines to one of the barmaids, [[Melli Craeb]] about his situation. Melli says she will open it and then tell Mat what is inside. Mat believes this will still break his oath and is also a little reluctant about what it will tell him to do. Mat decides to leave. As Mat walks through [[Caemlyn]] he becomes concerned about street thugs accosting him at any minute due to the pictures of his face out there. {{Ref/book|12|28}} Mat also reflects on his murderous stay in [[Hinderstap]]. {{Ref/book|12|28}} He even heard of a [[Bubble of evil]] where the paving stones killed people. He finds a new tavern, [[The Dead Man's Breath]] and enters. He then joins a group for a game of dice, while playing he overhears gossip that a man, [[Jowdry]], was gruesomely murdered. The details were too horribly similar to the killings done by the ''[[gholam]]'' Mat had encountered in [[Ebou Dar]] for it to be a coincidence. Mat hastily exits the tavern. As he does, he notices one of the front-door toughs with a picture in his hands, most probably with Mat's face on it, talking to [[Bernherd]] the tavern-keeper. Mat wants to get back to camp, intent on retrieving [[Thom]] and prepare his men. He had sent word to [[Elayne Trakand]] about receiving an audience but no reply had been sent back. Mat is waiting for [[Verin Mathwin]]'s thirty day requirement to run out before he moves on. {{Ref/book|12|36}} Mat realizes that he owes the ''gholam'' for the past murders of his men and [[Tylin]]. Mat picks up Thom, where he is performing and they return to camp. 
+
+Thom and Mat return to the camp. Mat glances up at Caemlyn thinking back with his old memories. Several times he had tried to invade it before [[Andor]] was even a nation, and it was always a difficult fight. As they walk Thom tells Mat that [[Trolloc|Trollocs]] have begun invading the [[Borderlands]]. He then brings up the [[Tower of Ghenjei]] and confirms that [[Bayle Domon]] was correct with its location. Thom questions how they will get there and Mat tells him via gateway. Thom reminds him that Verin has gone missing and that he doesn't trust her, but Mat says he kind of likes her and is a good judge of character. {{ref|Of course Thom is right as Verin is Black Ajah}} Thom suggests Mat takes guards with him when he travels the city, not for protection against the ''gholam'', rather for all the thieves in the city. [[Halwin Norry]] had granted the [[Band of the Red Hand]] permission to camp just outside of Caemlyn. They are not allowed more than one hundred men in the city at any one time and must camp one league from the wall. [[Gufrin]] reports to Mat that the [[Aes Sedai]] have arrived back to camp. Mat's camp had unified with [[Estean Andiama]]'s section that had been sent ahead.{{Ref/book|11|26}} Mat ponders Trollocs invading the Borderlands and realizes that they need the [[Dragons]] sooner rather than later. He eyes his camp and thinks of changes he can make to better protect it, thinking of the Battle of [[Marisin Valley]]. Mat thinks of the old memories in his head as his own now, and has paid for it with the scar around his neck. {{Ref/book|4|26}} As he is about to reach his tent [[Teslyn Baradon]] reaches him. Teslyn asks Mat if he had heard the rumors about the [[White Tower]]. Mat replies he has heard too many rumors, Teslyn agrees that caution in believing rumors is wise. She thanks Mat for rescuing her, admitting she is in his debt and will return to the [[White Tower]] with [[Joline Maza]] and [[Edesina Azzedin]]. Mat is surprised with her sincerity and offers her horses and provisions for their trip. Mat opens his tent flap and smells blood.
+
+==Characters==
+* [[Matrim Cauthon]]
+* [[Berg]]
+* [[Chaser]]
+* [[Gufrin]]
+* [[Melli Craeb]]
+* [[Teslyn Baradon]]
+* [[Thom Merrilin]]
+* [[Bernherd]]
+* [[Clare]] tavern patron
+* [[Bromas]] innkeeper
+
+===Referenced===
+* [[Verin Mathwin]]
+* [[Talmanes Delovinde]]
+* [[Tuon Paendrag]]
+* [[Lopin]]
+* [[Jowdry]]
+* [[Elayne Trakand]]
+* [[Aludra]]
+* ''[[Gholam]]''
+* [[Nalesean Aldiaya]]
+* [[Tylin Quintara Mitsobar]]
+* [[Chel Vanin]]
+* [[Basel Gill]]
+* [[Bayle Domon]]
+* [[Jori Congar]]
+* [[Leilwin Shipless]]
+* [[Halwin Norry]]
+* [[Joline Maza]]
+* [[Edesina Azzedin]]
+* [[Estean Andiama]]
+* [[Rand al'Thor]]
+
+==Places==
+* [[Caemlyn]]
+
+===Referenced===
+* [[Tar Valon]]
+* [[Hinderstap]]
+* [[The Farrier's Green]]
+* [[Ebou Dar]]
+* [[Falme]]
+* [[Andor]]
+* [[Borderlands]]
+* [[Whitebridge]]
+* [[Marisin Valley]] historical location from Mat's memories
+* [[Coremanda]]
+
+==Items==
+* [[Foxhead medallion]]
+
+{{Notes}}
+{{DISPLAYTITLE:''The Seven-Striped Lass''}}

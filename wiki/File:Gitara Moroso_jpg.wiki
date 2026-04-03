@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Gitara Moroso]] [[foretelling]] [[Rand al'Thor]]'s birth.
+| Source             = ''[[New Spring 1]]''
+| Artist             = Mike S. Miller
+| Artist2            = Etienne St Laurent
+}}

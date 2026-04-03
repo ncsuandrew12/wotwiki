@@ -1,0 +1,31 @@
+{{ character 
+| image=Dhearic.jpg
+| imagesize=250px
+| gender=Male
+| nationality=Aiel
+| occupation=Clan chief
+| affiliation=Car'a'carn
+| build=Thick set
+| hair=Golden, white-streaked
+| clan=Reyn
+| status=Alive
+| mentioned={{tsr|49}}
+| appeared={{tfoh|20}}
+| lastappeared={{loc|4}}
+| living=loc
+}}
+'''Dhearic''' is the [[clan chief]] of the [[Reyn]] [[Aiel]]. 
+
+==Appearance==
+He is a thick set Aiel with a prominent nose and white streaks through his golden hair.
+
+==History==
+Before becoming chief, he was a [[Duadhe Mahdi'in|Water Seeker]]. 
+
+==Activities==
+Dhearic's Reyn clan join up with [[Rand al'Thor]] just before he reaches the [[Jangai Pass]].
+
+He leads his Aiel clan when he is sent to the [[Plains of Maredo]] when Rand gathers a massive army in preparation for the attack on [[Illian]].
+
+[[es:Dhearic]]
+[[Category:Duadhe Mahdi'in]]

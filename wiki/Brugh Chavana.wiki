@@ -1,0 +1,23 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Male
+| appeared={{Tfoh|17}}
+| lastappeared={{cot|29}}
+| living=cot
+}}
+{{for|others with the same surname|Chavana}}
+'''Brugh Chavana''' is an acrobat in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]].
+
+==History==
+He is one of four "[[Chavana|brothers]]" who travels with Valan Luca's circus. They are obviously not brothers - one can tell because of their different nationalities.
+
+==Activities==
+He is introduced to [[Elayne Trakand]], [[Nynaeve al'Meara]], [[Thomdril Merrilin]] and [[Juilin Sandar]] by Valan Luca when the four join the show. When Nynaeve invites the brothers to dinner, they all begin to flirt with her, causing a fight between Nynaeve and [[Latelle Luca|Latelle]]. Brugh gets a swollen lip when he tries to break up the fight.{{ref/book|5|24}} They are still with the show when [[Matrim Cauthon]] comes to the show.{{ref/book|10|29}}
+
+{{notes}}
+{{DEFAULTSORT:Chavana, Brugh}}

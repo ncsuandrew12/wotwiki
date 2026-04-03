@@ -1,0 +1,16 @@
+{{ character
+| image=Sredit.png
+| imagesize=100px
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Female
+| build=Plump
+| appeared={{CoT|29}}
+| lastmentioned={{kod|11}}
+| living=kod}}
+'''Miyora''' is a leopard trainer in [[Valan Luca]]'s [[Valan Luca's Traveling Show|traveling show]]. {{ref/book|10|29}}
+
+{{notes}}
+
+{{short}}

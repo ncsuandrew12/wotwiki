@@ -1,0 +1,11 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Map
+| Description        = A map of [[Artur Hawkwing's Empire]].
+| Source             = ''[[The World of Robert Jordan's The Wheel of Time]]''.
+| Artist             = Thomas Canty
+}}
+[[Category:Maps]]
+[[Category:Nations of the Free Years]]
+[[Category:Continental Maps]]
+[[Category:Maps of Nations and Kingdoms]]

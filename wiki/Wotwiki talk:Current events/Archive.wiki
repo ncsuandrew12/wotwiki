@@ -1,0 +1,29 @@
+{{archive}}
+==Renaming the project namespace==
+* The current descriptive site name, i.e. <nowiki>{{SITENAME}}</nowiki> '''A Wheel of Time wiki''' is too awkward for project pages that end up being of the form "A_Wheel_of_Time_wiki:somepagename". Note that this is independent of interwiki links and the URL, which remain '''wot'''.
+:We need to come up with candidates for a new, shorter name... so brainstorm here:
+:*Wotpedia:
+:*Wikiwot:
+:*Wotwiki
+:*WoTwiki:
+:*WotWiki:
+::* '''Support'''. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+:* Wheel_of_Time:
+:*...........? 
+
+<s>I like WoTwiki:article name, the longer I look at it...</s> [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 15:41, 24 Oct 2005 (UTC)
+*I don't particularly care for the capitalizaztion.  There is a very successful Wiki engine named "Twiki", and I can't help but parse that as "Wo-Twiki".  If anything, I would prefer WotWiki.  But CamelCase. is very unappealing to most non-programmers and even many programmers... a lot of people base Wikipedia's success on its decision not to use CamelCase.  So I think we can do better. --[[User:Gherald|Gherald]] 16:37, 24 Oct 2005 (UTC)
+:* You're right, my first instinct is to think it's a Twiki project, too. *I* don't mind the camelcase in WotWiki, but if it'll send the wrong message... we can always just make that part of the [[Style Guide]] (whenever it gets written). These are supposed to be behind-the-scenes pages anyway... my only concern (and it's minor) is that it looks like a Brit saying "Wot? Wot Wiki are you talking about?". Otherwise, it's cool. [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 16:49, 24 Oct 2005 (UTC)
+::* If this name is going to be for strictly behind the scenes internal use, then  we can keep refering to ourselves as '''''A Wheel of Time Wiki'''''... hooray!  So how about using just "Wiki:" for that namespace, and dispense with the Wot altogether? --[[User:Gherald|Gherald]] 22:00, 24 Oct 2005 (UTC)
+:::* Yeah, I wasn't advocating a site-name change, just the namespace links. How hard is it to change (is this something you and I have authority to do, or do we need Angela ''et al''?). If it's simple, let's try Wiki or WotWiki for now and see how we like it. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 22:28, 24 Oct 2005 (UTC)
+
+:::: Check this out, from [[wikicities:Community_portal#Name change request]]:
+:::: <blockquote>Hey, can someone change the name of "The Legend of Zelda Wiki" to "Zelda Wiki" [[User:Champion Kai|Champion Kai]] 17:54, 28 Jun 2005 (UTC)
+:::::Why not just '''move''' it to "Zelda Wiki"? <font color=green> - </font>[[User:Upssdr|<font color=green>upssdr</font>]] [[User_talk:upssdr|<sup><font color=green size=2>talk</font></sup>]] 07:44, 2 Jul 2005 (UTC)
+:::::I'm guessing you mean the wiki name as it appears in the title bar of the wiki. If so, I've changed that now to be Zelda Wiki. [[User:Angela|Angela]] ([[Wikicities:User talk:Angela|talk]])<blockquote>
+
+:::: And then on their wiki, it seems that this moved things from <code>The Legend of Zelda Wiki:Community Portal</code> to <code>Zelda Wiki:Community Portal</code>. In that case, I think WotWiki is probably better, since it may show up in the titlebar from time to time... what do you think? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 22:38, 24 Oct 2005 (UTC)
+:::::<s>Until we get this sorted out, we should link with the future-proof <code><nowiki>{{ns:4}}</nowiki></code> variable, e.g. <code><nowiki>[[{{ns:4}}:Category index|Category index]]</nowiki></code>.  This seems to work for everything except redirects.</s> Sorted out. --[[User:Gherald|Gherald]] 07:25, 25 Oct 2005 (UTC)
+
+:I've set the project namespace to "Wotwiki" and the sitetitle to A Wheel of Time Wiki. I hope that was right. Please let me know at [[Wikicities:user talk:Angela]] if any more changes are needed. [[User:Angela|Angela]] 06:55, 25 Oct 2005 (UTC)
+::Excellent!  Thanks for your help. --[[User:Gherald|Gherald]] 07:25, 25 Oct 2005 (UTC)

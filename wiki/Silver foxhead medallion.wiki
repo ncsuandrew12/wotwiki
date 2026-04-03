@@ -1,0 +1,28 @@
+{{for|the ''Towers of Midnight'' chapter by a similar name|Towers of Midnight/Chapter 23{{!}}Foxheads}}
+[[File:Foxhead medallion.jpg|thumb|right|The foxhead medallion]]
+
+The silver '''foxhead medallion''' is a ''[[ter'angreal]]'' that was given to [[Mat Cauthon]] when he emerged from the [[Rhuidean]] twisted doorframe ''ter'angreal''. It is one of his most prized possessions, and he keeps it on or with him almost all the time, though he did once offer it as protection to [[Elayne Trakand]] and [[Nynaeve al'Meara]], and he eventually agreed to let Elayne study it in return for a favour.
+
+==Appearance==
+The foxhead is made of silver, and one of its eyes bears the ancient symbol of the [[Aes Sedai (Age of Legends)|Aes Sedai]].{{ref/book|5|6}}
+
+==Use==
+The foxhead if touches the skin of the bearer will disrupt flows of the [[One Power]] aimed at the bearer. For some unknown reason it also injures a ''[[gholam]]'' on contact, burning it as if the medallion were red-hot metal. The foxhead does not, however, affect actions of the Power which are not directly aimed at the bearer. For example, although a binding formed of [[Air]] will melt away upon touching the bearer, a stone thrown by a flow of Air will strike normally. 
+
+Another example would be lightning; once formed, however many bolts, they would follow their natural course and could strike the bearer. If a person using the One Power specifically directed a bolt at someone wearing the medallion, it would still work, as lightning is merely being directed with the Power and not a construct of it.
+
+Though Mat is unaware, a side effect of the medallion is that it protects dreams. This was not part of the intended purpose of making the medallion; it is a true side effect.{{ref|[http://www.theoryland.com/intvmain.php TOR Questions of the Week]}}
+
+The medallion has the ability to nullify both ''[[saidar]]'' and ''[[saidin]].'' Its first protection from ''saidar'' comes in Rhuidean when [[Moiraine Damodred]] tries to [[Healing|Heal]] Mat from a drop of saliva from a [[Darkhound]]. Other Aes Sedai have tried to hold Mat with Air, with no success. Its first protection from ''saidin'' comes in [[Salidar]], when [[Aran'gar]], in the guise of Halima, channels at Mat. It is not known whether the protection works against the [[True Power]] as well. 
+
+==Copies==
+[[Elayne Trakand]] was able to study this medallion and reproduce it to an extent, making several flawed copies. These imperfect copies were not as powerful as the original, in that very strong weaves could somehow overwhelm the protection. Another flaw of the copies is that if the bearer is a channeler, he/she is unable to channel the [[True Source]] while in skin contact with the medallion.
+
+Mat used the original medallion and the copies to fight and kill the ''gholam,'' and later he gifted a copy to [[Olver]] and one to [[Fortuona]].
+
+{{notes}}
+
+[[es:Medallón de cabeza de zorro]]
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]
+[[Category:Aelfinn and Eelfinn]]

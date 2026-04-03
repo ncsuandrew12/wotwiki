@@ -1,0 +1,34 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| nationality=Atha'an Miere
+| ewot=Metarra
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Apprentice
+| status=Alive
+| eyes=Big
+| appeared={{tpod|2}}
+| lastappeared={{tpod|5}}
+| lastmentioned={{cot|14}}
+| living=cot
+}}
+'''Metarra din Junalle''' is an apprentice to one of the [[Sea Folk]] [[Windfinder]]s. 
+
+== Appearance ==
+She has big eyes{{ref/book|8|2}}. She is plump but solid{{ref/book|8|5}}. She has no nose ring yet and has one earring in the left ear and three in the right.
+
+==Strength==
+During the use of the [[Bowl of the Winds]] Metarra is described as strong as [[Elayne Trakand]] in the [[One Power]]{{ref/book|8|2}}. But it is not clear if the comparison is with Elayne's potential or actual strength.
+
+Also the WoTC does not clarify it, in fact in Metarra's entry there we can read "Her strength level was {{opsl|15}}, roughly equal to Elayne and Egwene". But we know firstly that both of them have a potential at level {{opsl|14}} and secondly that Egwene was forced and so reached it, but instead Elayne has to reach her full potential yet.
+
+== Activities ==
+She [[Traveling|Travels]] with the the rest of the group led by [[Nynaeve al'Meara]] and Elayne Trakand from [[Ebou Dar]] to the [[Kin]]'s [[farm]] with the Bowl of the Winds. Due to her great strength in the One Power, she is part of the thirteen women who [[link]] and channel into the Bowl of the Winds to change the weather{{ref/book|8|5}}.
+
+After it Metarra reaches [[Caemlyn]]{{ref/book|8|20}}, following Elayne and Nynaeve, along the other Windfinders{{ref/book|8|28}}. In the capital city of Andor, for a while Metarra is instructed by the Aes Sedai along her fellow companions{{ref/book|9|11}}. Some time later, when Zaida leaves Caemlyn, Metarra goes with her{{ref/book|11|15}}.
+
+
+{{notes}}
+{{DEFAULTSORT:Junalle, Metarra din}}
+[[Category:Farm Group]]

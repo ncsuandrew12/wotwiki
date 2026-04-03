@@ -1,0 +1,28 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Foreseen
+| hair=Dark
+| nationality=Aiel
+| title=Child of the Dragon
+| gender=Male
+| appeared={{tom|49}}
+| lastappeared={{tom|49}}
+}}
+'''Alarch''' is the son of [[Rand al'Thor]] and [[Aviendha]] as seen through the visions of Aviendha's second trip through the [[Glass columns]].
+
+==Appearance==
+Alarch takes after his father's [[Andoran]] heritage and has dark hair.
+
+==History==
+Born as one of four quadruplets, Alarch has two full blooded sisters, [[Marinna]] and [[Padra]], and a full blooded brother [[Janduin (son)|Janduin]], whom he often defers to. He also has another older half-brother and sister by one of his father's other wives, also his mother's first-sister, [[Elayne Trakand]]. 
+
+All four of his full siblings could [[One Power|channel]] since childhood and constantly embrace the True Source.
+
+==Activities==
+Given special privileges as children of the Dragon, Alarch and his siblings were present at the council of chiefs which decided to go to war with the [[Seanchan]].
+== Trivia ==
+*Alarch is named after Alec Breen, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Channelers]]
+[[Category:Characters named after fans]]

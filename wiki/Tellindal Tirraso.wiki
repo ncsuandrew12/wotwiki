@@ -1,0 +1,33 @@
+{{Character
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Dead
+| gender=Female
+| mentioned={{tom|51}}
+| lastmentioned={{tom|51}}
+| nationality=Unknown nationality
+}}
+'''Tellindal Tirraso''' was a clerk who worked in Lews Therin's headquarters during the [[War of Power]] during the [[Age of Legends]]. {{ref|{{twotc}}, Tellindal Tirraso}}
+
+==Activities and Death==
+After [[Demandred]] founded the [[Eighty and One]], he confronted [[Lews Therin Telamon]] in battle. Tellindal was present and was struck by a lightning from the sky. Lews Therin apparently watched her die with her blood on his hands. 
+
+==Prophecy==
+Tillendal is mentioned in a [[foretelling]] given by an Aes Sedai of King [[Paitar Nachiman]]'s own family line. When the [[Dragon]] is reborn, the [[Borderland]] kings and queens must travel to him and question him for knowledge about how Tellindal died. If the [[Dragon Reborn]] answers correctly, they will follow him, but if he does not, they must strike him down on the spot so that the Light might not be consumed by whom who was to have preserved it.{{ref/book|13|51}}
+
+=== Errata ===
+The character is referred to as female in Towers of Midnight. The Wheel of Time Companion, however, refers to them being male: ''"He was killed in an attack by Demandred." '' 
+
+== Trivia ==
+* Tellindal Tirraso is named for Maura Tirasso, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+
+
+{{Notes}}
+
+
+{{DEFAULTSORT:Tirraso, Tellindal}}
+[[Category:Age of Legends (people)]]
+[[Category:Historical people]]
+[[Category:Clerks]]
+[[Category:Characters named after fans]]

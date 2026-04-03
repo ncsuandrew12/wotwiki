@@ -1,0 +1,18 @@
+{{character 
+| image=KandorFlag.png
+| imagesize=250ps
+| status=Alive
+| nationality=Kandori
+| occupation=Merchant
+| gender=Male
+| build=
+| appeared={{wh|32}}
+| lastappeared={{wh|32}}
+| lastmentioned={{wh|32}}
+| living=wh
+}}
+
+Master '''Posavina''' is a [[Kandor]]i merchant with a gray-streaked forked beard and a large pearl in his left ear.
+==Activities==
+In [[The Golden Wheel]] in [[Far Madding]], he tells another trader, Mistress [[Shimel]], that he intends to go to [[Tear]] instead of [[Illian]], after he has heard that Rand has been crowned King of Illian. Mistress Shimel, however, tells him that the [[Stone of Tear]] is under siege, and thus the nation is not a good place to trade.
+[[Category:Short pages]]

@@ -1,0 +1,22 @@
+{{ character
+| image=ArafelFlag.png
+| imagesize=250px
+| affiliation=Lan Mandragoran
+| nationality=Arafellin
+| rank=Prince
+| gender=Male
+| status=Alive
+| mentioned={{tom|42}}
+| lastmentioned={{tom|42}}
+| living=tom
+}}
+'''Kendral''' is the grandson of King [[Paitar Nachiman]].
+
+== Activities ==
+Kendral and [[Kaisel Noramaga]] are told by [[Nynaeve al'Meara]] to wait for [[Lan Mandragoran]] at the [[Silverwall Keeps]]. Both youths plan to ride with Lan to [[Tarmon Gai'don]].
+
+== Trivia ==
+* Kendral is named for Michael Kendra, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Miscellaneous
+| Description        = The [[River Tarendrelle]]
+| Source             = ''[[The Eye of the World 7]]''
+| Artist             = Andie Tong
+| Artist2            = Nicolas Chapuis‎
+}}

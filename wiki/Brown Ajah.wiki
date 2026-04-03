@@ -1,0 +1,68 @@
+[[File:Brown_Ajah.jpg|thumb|Aes Sedai of the Brown Ajah]]
+The '''Brown Ajah''' of the [[Aes Sedai]] is devoted to knowledge and the collection of ancient wisdom. They generally forsake the mundane world, instead dedicating themselves to history and study, and are responsible for the administration of the [[White Tower Library]]. The Brown Ajah is run by a [[Brown Ajah Council|ruling council]],{{ref/book|bwb}} the head of which is called [[First Chair]].{{ref|{{Link|1=http://13depository.blogspot.com/2009/03/dragoncon-05-reports.html#brown|2=13depository.com}}}}
+
+Also see [[List of Brown Ajah sisters]].
+
+==Size==
+The Brown is the fourth-largest [[Ajah]], behind the [[Gray Ajah|Gray]] and before the [[Yellow Ajah|Yellow]]{{ref/book|bwb}} with roughly one hundred and thirty sisters before the [[White Tower Schism]]. It has a low concentration of [[Black Ajah|Black]] sisters with about twenty-eight,{{ref/book|12|39}} but we have only learned the identity of five.
+
+===Demographics===
+
+The breakdown of the nationality of named Brown Ajah sisters in recent history is as follows:
+
+* Andor: 5
+* Murandy: 4
+* Atha'an Miere, Kandor: 3
+* Arad Doman, Far Madding, Ghealdan, Saldaea, Shienar, Tear: 2
+* Altara, Amadicia, Arafel, Illian: 1
+* Cairhien, Mayene, Tarabon: 0
+
+* Unknown: 17
+
+One sister, [[Martine Janata]], is labelled as "Borderlander" without further information. All Aes Sedai from the [[Atha'an Miere]] are Brown Ajah and this is likely not coincidence.
+
+==Characteristics==
+Brown sisters are noted for being dreamy, unaware of the world around them and lost in thought.{{ref/book|2|7}} However this dreaminess is often used as a cover by crafty Browns, who may suddenly show a startling amount of clarity before quickly hiding it.{{ref/book|4|31}} Brown sisters are the least concerned with their appearance and more than one Brown has been noted wearing a too-crumpled dress, or with ink smudges on her nose,{{ref/book|2|12}} because she is too focused on her studies to pay attention to anything else. As a matter of fact, many a Brown sister makes sure that the Tower never sleeps, often being awake in the middle of the night. Some Browns have even taken their studies to such extremes that they have turned day and night, sleeping during daytime and being awake during night, where there are fewer noises and fewer people to interrupt or disturb their studies. To be sent out of the White Tower is considered a drudgery or even a punishment by many Browns, so intent are they on their studies,
+
+==Studies==
+Browns are a comprehensive source of information concerning [[White Tower|Tower]] and [[One Power]] lore, and to a lesser extent more arcane knowledge. They are the most knowledgeable about objects of the One Power, and more than one unfortunate sister has been killed or [[Burning out|burned out]] studying ''[[ter'angreal]]''.{{ref/book|2|23}} Much that is known about new [[Talent]]s has been discovered by the Browns.{{ref/book|bwb}} [[Min Farshaw]]'s [[Min's viewings|viewings]] were once studied by a Brown sister,{{ref/book|4|1}} and [[wolfbrother]]s [[Perrin Aybara]] and [[Elyas Machera]] have also come under Brown Ajah scrutiny.
+
+==Location of quarters==
+For three thousand years, beginning with the White Tower's inception in {{Ab|98}}, the Brown Ajah have occupied one of the seven pie-shaped sections of the White Tower. That is until recently, when half of the Brown Ajah's quarters on level 22 suddenly and inexplicably switched places with the [[novice]] quarters.{{ref/book|12|6}} It is believed that this is a result of reality slowly unraveling as the [[Seven Seals|seals]] on the [[Dark One]]'s [[Bore|prison]] continue to weaken. Despite this portent of impending doom, many Brown sisters actually find the situation desirable, as their quarters are now conveniently located closer to the Library.
+
+==Ajah loyalties==
+They support the [[White Ajah|White]] over the Blue, but support the Blue over the Yellow. Other than that, not much is known of their Ajah loyalties. Among the seven legitimate Ajahs, they seem to be the most neutral based on voting patterns and perceptions of Aes Sedai in the series.
+
+Interestingly, only one Brown voted to depose Siuan and raise Elaida. And a Brown Sitter, Janya, was the only one who joined the Rebels of her own volition (except the Blue Sitters). Finally, at the time of the Schism, the Brown (and perhaps the Blue) was the only Ajah not to have a Sitter who was secretly Black Ajah. 
+
+==Leaders==
+The First Chair on the ruling council is [[Jesse Bilal]]. The size of the ruling council is variable between five and thirteen, but is always an odd number.{{ref/book|c|Brown Ajah}} The manner in which a sister may sit upon it, nor the identity of the remaining sisters who do sit upon it, have not yet been revealed.  
+
+Though the head is simply called the First Chair as a reflection of the supposed egalitarian nature of the Brown, in truth, she has almost as much power as other Ajah Heads.
+
+It is not known who led the Browns in Salidar, but it is suspected that [[Morvrin]] may have held the position of rebel First Chair. 
+
+After reunification the Sitters in the [[Hall of the Tower]] for the Brown Ajah are [[Janya Frende]], [[Saerin Asnobar]], and [[Takima]].
+
+== List of Amyrlin Seats from the Brown Ajah ==
+Only five Amyrlins were raised from the fourth largest Ajah. These Amyrlins were weak or only of average strength.
+
+{{Amyrlist/Begin}}
+{{Amyrlist/Entry|[[Balladare Arandaille]]|ne|115||ne|142}}
+{{Amyrlist/Entry|[[Doniella Alievin]]|ne|306||ne|332}}
+{{Amyrlist/Entry|[[Igaine Luin]]|ne|476||ne|520}}
+{{Amyrlist/Entry|[[Zeranda Tyrim]]|ne|797||ne|817}}
+{{Amyrlist/Entry|[[Kirin Melway]]|ne|922||ne|950}}
+{{Amyrlist/End}}
+
+==List of known Brown sisters with Saidar strength==
+
+See [[List of Brown Ajah sisters]]
+
+== In the television series ==
+* {{TVlink|Brown Ajah}} on {{TVlink}}
+
+{{notes}}
+{{ajahs}}
+[[es:Ajah Marrón]]
+[[Category:Brown Ajah| ]]

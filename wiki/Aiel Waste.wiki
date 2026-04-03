@@ -1,0 +1,147 @@
+{{quote|The Three-fold Land is not soft, Aes Sedai. Soft things die here.|[[Bair]]}}
+The '''Aiel Waste''' is a desert region named for the [[Aiel]] people who live there. The Aiel themselves refer to it as the '''Three-fold Land'''.{{ref/book|twotc|Aiel Waste|AW}}{{ref/book|twotc|The Waste|W|Waste, The}} 
+
+==Location ==
+[[File:World_Aiel_Waste.png|right|thumb|400px|A map showing the location of the Aiel Waste in the world.]]
+The Waste is bordered to the west by the [[Spine of the World]], beyond which lie the [[Westlands]]; to the east by the [[Cliffs of Dawn]] and [[Great Rift]], beyond which lies [[Shara]]; to the south by the [[Termool]], beyond which lies the [[Drowned Lands]] and the [[Sea of Storms]]; and to the north by the [[Mountains of Dhoom]], beyond which lies the [[Great Blight]]. Save for the uninhabited Termool, it is entirely landlocked.
+
+==History==
+Nothing is known about the Waste before the [[Breaking of the World]], though it was likely very different. The geography surrounding the Waste appears to have been affected by major and unnatural geological events resulting in features such as the Great Rift and Cliffs of Dawn. While leaving the Waste, Rand saw a city with what appears to be docks hanging from the mountainside.{{ref/book|5|20}} These events doubtless contributed to the extreme dryness of the region. See [[#Climate|climate]].
+
+The Aiel call the Waste the "Three-fold Land," referring to the three purposes of the Waste in Aiel culture: an anvil or "shaping stone" to make them, a testing ground to prove their worth, and a punishment for their sin.{{ref/book|2|28}}{{ref/book|5|2}} Aiel prophecy stated that the Aiel would leave the Waste once the [[Stone of Tear]] falls.{{ref/book|3|34}} Few Aiel had crossed the [[Spine of the World]] since they entered the Waste, until the [[Aiel War]].{{ref|Amys claimed none had in {{tsr|34}}. But this is clearly false. Aiel crossed to gift [[Avendoraldera]] roughly 500 years before the Aiel War.{{ref/book|3|39}} And for what it's worth, [[Stedding]] [[Tsofu]] seemed accustomed to Aiel visitors when Rand's party visited.{{ref/book|2|35}}}}
+
+During the [[Trolloc Wars]], many Trollocs died in the Waste, leading them to call it "[[Djevik K'Shar]]," meaning "The Dying Ground" in their native tongue.{{ref/book|6|17}} Aiel prophecies say that the Aiel will remain in the Three-fold Land until the Trollocs come out of the [[Blight]] again.{{ref/book|2|28}} They occasionally enter the northern Waste, but only a few miles from the Blight and, even there, rarely.{{ref/book|4|37}}
+
+In the year {{fy|964}}, High King [[Artur Hawkwing]] took armies into the Waste to dig out the Aiel.{{ref/book|twotc|Tamika}} Those armies were bloodied in the only series of major defeats suffered by Hawkwing.{{ref/book|2|10}}
+
+In general, the people of the Westlands are ignorant of the Aiel Waste. However, some resources do exist, such as the books ''[[Travels in the Aiel Waste, with Various Observations on the Savage Inhabitants]]'' and ''[[The Killers of the Black Veil]]''.{{ref/book|4|10}}{{ref/book|4|22}}
+
+==Geography== 
+[[File:RobChristiansonWasteMap.jpg|400px|right|thumb|Detailed map of Aiel Waste by Rob Christianson.[https://robchristianson.wordpress.com/] Some locations speculative. ]]
+There are no known maps of the Aiel Waste itself.{{ref/book|4|g||Aiel Waste}}{{ref/book|5|g||Aiel Waste}}{{ref/book|6|g||Aiel Waste}}{{ref||W}} Those world maps that include the region largely leave the entire region as a blank wilderness. 
+
+The relative positions of the territories of the [[clan|Aiel Clans]] are very vague. Most of what we do know comes from chapters in [[The Shadow Rising]] and [[The Fires of Heaven]] and can be summarized as follows:
+
+* Rhuidean lies in neutral territory (or the territory of the [[Jenn Aiel]]), and is closest to [[Taardad]] lands, which lie northeast of it. It is 13-14 days at a fast march from Jangai Pass.{{verify}}
+* Taardad and [[Shaido]] septs raid each other, indicating they share borders.{{ref/book|4|22}} The Shaido lands are in the same direction as the Taardad from Rhuidean, but lie further away.{{verify}}
+* The [[Chareen]] and [[Goshien]] are closest to [[Imre Stand]], with the [[Tomanelle]] a little further.{{ref/book|4|37}} The Chareen raid the territory of the Taardad, so are likely adjacent.{{ref/book|4|32}}
+* Alcair Dal lies a few days north of Cold Rocks Hold.{{verify}} The [[Goshien]] and [[Shaarad]] were first to arrive, indicating they are closest. The Chareen and Tomanelle arrive next.{{ref/book|4|57}} The [[Nakai]] have longest to travel to Alcair Dal, but will be there in less than a month.{{ref/book|4|49}}
+* The [[Miagoma]] were not at Alcair Dal, but parallel the Aiel that follow Rand from the north, possibly indicating their starting point. Similarly absent were the [[Daryne]], [[Codarra]] and [[Shiande]], all following from the east.{{ref/book|5|2}}
+* Shortly before the [[Aiel War]], [[Janduin]] healed a long-standing blood feud between Taardad and Nakai and improved relations between Taardad and [[Reyn]]. This may also indicate proximity.{{ref/book|4|34}} We also know that [[Urien]] is of the Reyn and we first encounter him close to [[Kinslayer's Dagger]], hinting that the Reyn may be north and west.{{ref/book|2|28}}
+*Similarly, there existed tensions between the Shaarad and Goshien, who may be neighbours.{{ref/book|4|34}}{{ref/book|3|38}} The Shaarad and Tomanelle raided each other "nightly", so must be adjacent.{{ref/book|4|23}}
+
+The landscape consists mainly of yellow to brown cracked clay or stark, stony terrain. Dry gulleys and hollows are common.{{ref/book|4|36}} Many Aiel live in stony spires or {{Wiki|butte|buttes}} that allow them to defend themselves by increasing line of sight over the largely flat region.{{ref/book|2|10}} It is also described as "parched" and "jagged."{{ref/book|6|22}} In places it is cut by fissures and sharp cliffs.{{ref/book|6|40}}
+
+To the south lies the [[Termool]], also known as the [[Waterless Sands]].{{ref/book|twotc|Termool}} It is an even more extreme landscape of desert dunes without oasis, springs or known life, including the Aiel. It is not a part of the Aiel Waste itself.
+
+==Climate==
+The Aiel waste is so inhospitable that only the hardy [[Aiel]] can survive for extended periods there. It is extremely hot during the day and freezing at night.{{ref/book|1|23}} 
+
+Only the Aiel have the skill of finding water there. Being surrounded by the [[Spine of the World]] in the west and [[Mountains of Dhoom]] in the north, the region is likely in the [[wikipedia:rain shadow|rain shadow]] of these ranges.{{ref|{{Cite/web
+| url = https://www.tor.com/2022/02/09/the-wheel-of-time-from-a-geological-perspective/
+| title = The Wheel of Time from a Geological Perspective
+| accessdate = {{Date|2026 Mar 26}}
+| author = Allison Kubo Hutchison
+| authorlink = https://reactormag.com/author/allison-kubo-hutchison/
+| date = {{Date|2022 Feb 9}}
+| publisher = Reactor}}}} A climate model consistent with this has been created by a team at University of Bristol.{{ref|{{Cite/web
+| url = https://climatearchive.org/wot.html
+| title = Wheel of Time
+| accessdate = {{Date|2026 Mar 26}}
+| author = Sebastian Steinig, et al
+| authorlink = https://sebsteinig.github.io/
+| date = {{Date|2022 Feb 9}}
+| publisher = Climate Archive Project
+| archiveurl = https://web.archive.org/web/20240425105945/https://climatearchive.org/wot
+| archivedate = {{Date|2024 Apr 25}}}}}}{{ref|{{Cite/web
+| url = https://theconversation.com/wheel-of-time-is-set-thousands-of-years-from-now-yet-its-still-burdened-with-todays-climate-change-174088
+| title = Wheel of Time is set thousands of years from now, yet it’s still burdened with today’s climate change
+| accessdate = {{Date|2026 Mar 26}}
+| author = Dann Mitchell
+| authorlink = https://theconversation.com/profiles/dann-mitchell-1187089
+| coauthors = Emily Ball, Rebecca Áilish Atkinson, Sebastian Steinig
+| date = {{Date|2021 Dec 21}}
+| publisher = The Conversation}}}}
+
+==Trespassers==
+Foreigners do not have permission to enter the Waste, with a few exceptions. [[Gleeman|gleemen]], [[Tuatha'an]] and [[peddler]]s, if they are honest, are permitted to enter and cross. The [[Traveling People]] often enter and cross the Waste.{{ref/book|1|23}} Peddlers' elevated status may be because they can trade in water. [[Hadnan Kadere]] towed three huge barrels containing water requiring a team of twenty mules.{{ref/book|5|6}} Peddlers are also the only source of books in the Waste. Rand thinks that gleemen in the Waste are allowed anything short of murder without being called down for it.{{ref/book|4|48}}
+
+Although not specifically mentioned, it might also be expected that [[blacksmith]]s would be allowed to enter due to the level of protection they receive in Aiel society. 
+
+For almost all of the [[Third Age]], [[Aes Sedai]] were also highly respected, and were even feared. Although the [[Rebel Aes Sedai]] sent [[Bera Harkin]] and [[Kiruna Nachiman]] to the Waste with their large number of Warders for protection, it's likely the Warders would be under more danger than the Aes Sedai, presuming the Aiel knew they were Aes Sedai. However, few Aes Sedai have ever entered the Waste.{{ref/book|6|40}} [[Moiraine]] stated that this is because they never had reason to come before.{{ref/book|4|49}}
+
+In following the [[Car'a'carn]] into the [[Westlands]], the Aiel in general and the [[Wise One]]s in particular gained significant exposure to Aes Sedai. As a result, and especially following the abduction of [[Rand al'Thor]] by the [[White Tower Schism|loyalist Aes Sedai]], regard for Aes Sedai as a group fell precipitously.{{ref/book|7|1}}
+
+==Flora and Fauna==
+The Waste is home to many animal species, some of which are unique to this desert region and all which seem dangerous to humans in some way. 
+
+They include, but are not limited to:
+*[[Bloodsnake]]{{ref/book|5|21}} - Venemous snake up to 9 feet/2.7m long.
+*[[capar]]{{ref/book|4|11}} - A boar-like creature with course hair, tusks and clawed feet.
+*[[Gara]]{{ref/book|4|48}}{{ref/book|twotc|Gara}} - Large, poisonous lizard with bronze scales and yellow stripes.
+*[[Lion (animal)|Lion]]{{ref/book|4|11}}{{ref/book|beasts|Lions}} - Smaller than [[Westland]] lions
+*[[lopinginny]]{{ref/book|twotc|lopinginny}} - A bird
+*[[motai]]{{ref/book|twotc|motai}} - A grub that can be eaten as a snack.
+*[[Sorda]]{{ref/book|5|5}} - Type of rat
+*[[Two step]]{{ref/book|5|48}} - Small brown snake capable of killing a man before they have taken two steps.
+
+More information on fauna is in {{Beasts}}
+
+With regards to domesticated animals, the Aiel herd cattle, sheep, and goats.{{ref/book|2|10}}{{ref/book|4|48}}
+
+What scattered vegetation exists is sparse and low. Thorny bushes and cacti, like [[Segade plant|segade]], are typical of the region. The isolated blossoms of the cacti are white, red or yellow. There are occasional stretches of tough grass and, rarely, examples of stunted trees with thorns or spines.{{ref/book|4|36}}
+
+There are also certain crops that are only grown in the Waste, such as ''[[t'mat]]'', ''[[kardon]]'', ''[[pecara (nut)|pecara]]'', ''[[zemai]]'', and ''[[algode]]''.
+
+==Aiel holds==
+
+Holds are the settlements of the Aiel, each managed by a [[Roofmistress]]. They belong to a larger group known as a [[sept]] where each sept can call upon at least a thousand spears.{{ref/book|9|6}}  The word ''sept'' has a [[wikipedia:sept|real world origin]]. Each sept also belongs to an [[Clan|Aiel Clan]].
+
+{|
+|
+*[[Bent Valley Hold]]
+*[[Cold Rocks Hold]]
+*[[Colrada Hold]]
+*[[Comarda Hold]]
+*[[Hot Springs Hold]]
+*[[Mainde Cut Hold]]
+|
+*[[Red Springs Hold]]
+*[[Shiagi Hold]]
+*[[Shende Hold]]
+*[[Smoke Springs Hold]]
+*[[Sulara Hold]]
+|}
+
+==Other locations==
+*[[Rhuidean]]: The Waste's only city, uninhabited until recently. Larger than even [[Tar Valon]].{{ref/book|9|p}}
+*[[Alcair Dal]]: A circular bowl-like canyon and meeting place where a kind of truce holds between opposing Aiel factions.{{ref/book|4|34}}
+*[[Chaendaer]] 
+*[[Chain Ridge Stand]]
+*[[Imre Stand]]
+*[[Portal Stones]]: Verin knows of a Portal Stone in the Waste.{{ref/book|2|36}} 
+
+==External Resources==
+*{{Cite/web
+| url = https://atlasoficeandfireblog.wordpress.com/2018/09/23/the-wheel-of-time-atlas-the-aiel-waste/
+| title = The Aiel Waste
+| accessdate = {{Date|2026 Mar 26}}
+| author = Adam Whitehead
+| authorlink = https://www.blogger.com/profile/11383677312079611311
+| date = {{Date|2018 Sep 23}}
+| publisher = Atlas of Ice and Fire}}
+*{{Cite/web
+| url = http://13depository.blogspot.com/2009/07/shadow-rising-read-through-13.html
+| title = A Map of the Aiel Three-Fold Land
+| accessdate = {{Date|2026 Mar 26}}
+| author = Dominic
+| authorlink = https://www.blogger.com/profile/17610557134981958201
+| date = {{Date|2009 July 8}}
+| publisher = Thirteenth Depository
+}}
+
+{{notes}}
+[[es:Yermo de Aiel]]
+[[Category:Aiel Waste| Aiel Waste]]
+[[Category:Other features]]
+[[Category:Geographical regions]]

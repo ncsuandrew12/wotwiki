@@ -1,0 +1,49 @@
+{{ character 
+| image=Caeren.png
+| imagesize=250px
+| ewot=Sylvase
+| nationality=Andoran
+| title=Lady
+| affiliation=House Trakand
+| rank=High Seat
+| build=Sturdy
+| height=5'4" or 163 cm
+| eyes=Alert, blue
+| appeared={{cot|15}}
+| lastappeared={{tom|23}}
+| living=tom
+| gender=Female
+| status=Alive
+}}
+'''Sylvase Caeren''' is the [[High Seat]] of [[House Caeren]]. Her grandfather was [[Nasin Caeren]].
+
+== Appearance ==
+Sylvase is sturdy and placid{{ref/book|10|15}}. A little older than [[Elayne Trakand]], she is not quite pretty with alert blue eyes. She usually has a vapid gaze{{ref/book|11|17}}. She has long black hair and is around 5'4" (163&nbsp;cm) tall.{{ref|{{twotc}}, Sylvase Caeren}} Sylvase has no detectable personality or emotion. 
+
+==History==
+She was born in the year {{ne|975}}.{{ref|{{twotc}}, Sylvase Caeren}}
+
+Elayne notes she had a difficult childhood only putting stock in power and vengeance.{{ref/book|13|23}}
+While her grandfather was alive, she behaved meekly and was described as having a 'vapid gaze.' This may have been a ruse to please her grandfather. She was constantly near him and was his designated heir to the High Seat.
+
+After his death, she appears to be somewhat ruthless to the degree of offering to have [[Naean Arawn]], [[Elenia Sarand]], and [[Arymilla Marne]] tortured so that they place their support for Elayne. Elayne thinks she has a very hard core.
+
+== Activities ==
+She accompanies Arymilla around the camp which is laid in siege outside [[Caemlyn]]{{ref/book|10|15}}.
+
+Arymilla dines with Naean, Elenia, Karind, Lir, Nasin and Sylvase to prepare the last attack{{ref/book|11|17}}. Sylvase questions the value of attacking Caemlyn without the support of the other High Seats. 
+
+Sylvase and her armsmen ride with the army when Arymilla mobilizes her entire force and attacks the [[Far Madding Gate]]. Arymilla's army is hit behind by half of Elayne's force and in the end Arymilla's army surrenders. During the battle Nasin suffers a seizure and dies. Sylvase is then confirmed as High Seat of House Caeren by her cousins. She is brought before Elayne and publicly throws her support behind her{{ref/book|11|33}}.
+
+She is present at the meeting with the neutral High Seats and Elayne. There, they throw their support behind Elayne giving her the required Houses she needs to obtain the Lion Throne{{ref/book|11|35}}. 
+
+At this meeting, she is seen conversing with [[Conail Northan]] while the High Seats of Houses [[Catalyn Haevin|Haevin]], [[Perival Mantear|Mantear]], and [[Branlet Gilyard|Gilyard]] listen attentively. Elayne thinks that [[Dyelin Taravin]] doesn't know what to make of her.
+
+She has appropriated Master [[Lounalt]], Arymilla's torturer, under the title of secretary.
+
+Catalyn, Conail, Sylvase, Dyelin and Ellorien are among the attendees when Elayne hosts a "play"{{ref/book|13|23}}. 
+{{notes}}
+{{DEFAULTSORT:Caeren, Sylvase}}
+
+[[es:Sylvase Caeren]]
+[[Category:Nobility]]

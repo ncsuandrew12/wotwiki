@@ -1,0 +1,55 @@
+{{featuredicon}}{{character 
+| image=Furyk_karede.png
+| imagesize = 250px
+| birth={{ne|958}}
+| height= Tall
+| rank=Banner-General
+| occupation=Deathwatch Guard
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{tpod|23}}
+| lastappeared={{amol|37}}
+| lastmentioned={{amol|e}}
+| living=amol
+}}
+{{quote|He always tried to be polite, even with men he was going to kill|}}
+{{for|the similarly named [[Darkfriend]]|Hadnan Kadere}}
+'''Furyk Karede''' is a [[Seanchan]] [[Banner-General]] and leader of the [[Deathwatch Guard|Deathwatch Guards]].{{ref|{{twotc}}, Furyk Karede}}
+== Appearance ==
+He is a tall, bluff-faced man with gray at his temples.
+
+== History  ==
+Karede was born in {{ne|958}} as ''[[da'covale]]'', the property of [[Jalid Magonine]] in Ancarid.{{ref|{{twotc}}, Furyk Karede}} At age fifteen, he was selected for the [[Deathwatch Guard]], during which he was cited twice for heroism and mentioned three times in dispatches. He was named to the bodyguard of [[Tuon Athaem Kore Paendrag]] upon her birth.
+
+He was one of the three survivors of the first attempt upon Tuon's life in the first year of her birth. He was trained as an officer and served during the [[Muyami Uprising]] and the [[Jianmin Incident]].
+
+Though the Deathwatch Guard are not supposed to become attached to those they protect, Karede seems to have become attached to Tuon. He was reassigned to her bodyguard at his request, an unusual occurrence, and made two more requests to be transferred back later.
+
+=== Family ===
+Family lore said that one of the ancestors of the Karede family had been a nobleman from the [[Westlands]], and accompanied [[Luthair Paendrag Mondwin]] to Seanchan at [[Artur Hawkwing]]'s command. A subsequent ancestor ran afoul of the authorities by trying to create his own kingdom, and was sold on the block, with the family being reduced to ''[[da'covale]]''.{{ref|{{twotc}}, Furyk Karede}}
+
+Furyk's wife [[Kalia Karede|Kalia]] and one of his sons died in the [[Great Fire of Sohima]]. His other two sons joined the [[Deathwatch Guard]], with one dying in the line of duty.<ref name=comp-kalia>[[The Wheel of Time Companion]], Kalia.</ref>
+
+== Activities ==
+=== Promotion and kidnapping ===
+Karede is a highly experienced officer who does not suffer fools under his command. He executed [[Jadranka]], one of his officers, for giving an exceedingly stupid order during an engagement with [[Asha'man]] in Altara. He is forced to retreat back to [[Ebou Dar]] when the [[Asha'man]] begin to demolish his forces.
+He was promoted to [[Banner-General]] following [[Rand]]'s counterattack into [[Altara]], and held in Ebou Dar until the Seeker [[Almurat Mor]] slips into his room in the [[Wandering Woman]] and told him of several coincidences, including the disappearance of [[Mat]] and two [[Damane]], [[Teslyn Baradon]] and [[Edesina Azzedin]], along with [[Captain of the Green]] Lady [[Egeanin Tamarath]] and [[Thom Merrilin]] in the same night.
+
+Karede left to hunt them down, believing that Thom was the instrument of the White Tower sent to kidnap Tuon. He caught up to the party and escorted Tuon back to Ebou Dar. When they arrive back in the [[Tarasin Palace]], he brings [[Zaired Elbar]]'s head to [[Suroth Sabelle Meldarath]] and makes her ''da'covale'' under Tuon's command.
+
+He is present when Tuon warns King [[Beslan Mitsobar]] not to cause a revolt against the Seanchan. He stands guard over her when she meets with the [[Dragon Reborn]].
+He is guarding Fortuona when [[Melitene]] brings her [[Suffa]], the former [[Amyrlin Seat]] who shows Fortuona and those gathered around her how to [[Travel]]. This makes the Deathwatch Guard uneasy, as an attack on the Empress could come at any time from anywhere. Fortuona decrees that all ''damane'' are to learn the weave in preparation for a full-scale attack on the White Tower using Traveling to transport the army there.
+
+Karede is on duty when Mat saves Fortouna's life from a [[Gray Man]]. He searches for the Gray Man, who managed to escape in the confusion. Karede returns to Fortouna and asks to end his life for his failure. Fortouna forbids this as the Gray Man was a creature of the [[Shadow]]. She tells him that Mat will teach the Deathwatch Guard what to watch for in the future. Karede is summoned when Rand appears at the Tarasin Gardens. He is shocked when Rand makes the garden around them bloom with life, even though he is shielded.
+
+=== The Last Battle ===
+After the attack on the command tent by Gray Men and [[sharan|Sharans]], Karede and some of his fellow Deathwatch Guards are given a death sentence by Fortouna to kill Sharan channelers on the front lines. However, this is a ploy meant to fool any spies in the camp and allow Mat to use the Deathwatch Guards to reclaim the Polov Heights. He survives the Last Battle.  
+
+{{notes}}
+{{DEFAULTSORT:Karede, Furyk}}
+[[Category:Ever Victorious Army]]
+[[Category:Citation needed]]
+[[Category:Da'covale]]
+[[Category:POV character]]
+[[Category:Soldiers]]

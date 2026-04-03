@@ -1,0 +1,8 @@
+== Summary ==
+{{Image
+| License                 = Fairuse
+| ImageType1              = Logo
+| Description             = Fandom logo
+| Source                  = https://www.fandom.com/f2/assets/favicons/favicon-32x32.png?v=09fd25d9b8e2081ee8a8e48909afda66eb582148
+| Artist                  = 
+}}

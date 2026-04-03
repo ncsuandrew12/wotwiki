@@ -1,0 +1,7 @@
+{{Image
+| License            = Fair Use
+| ImageType1         = Character
+| Description        = Painting of Mat Cauthon outside of Shadar Logoth, by Todd Cameron Hamilton
+| Source             = ''[[The World of Robert Jordan's The Wheel of Time]]''
+| Artist             = Todd Cameron Hamilton
+}}

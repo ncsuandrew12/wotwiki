@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|November}}
+|{{Wotmonth|Nesan}}
+|}
+'''Nesan 19 (November 14)'''
+
+==Events==
+</noinclude>
+*{{ne|998}} - [[Rand]]'s party arrive on [[Toman Head]] by [[Portal Stone]].
+*{{ne|999}} - [[Egwene]] eavesdrops on the Tower embassy in [[Arilyn Dhulaine]]'s palace, and runs into [[Gawyn Trakand]]. 
+<noinclude>
+==External links==
+*[[wikipedia:november 14|November 14]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

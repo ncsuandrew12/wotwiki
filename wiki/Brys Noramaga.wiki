@@ -1,0 +1,54 @@
+{{ character
+| image=Brys.jpg
+| imagesize=250px
+| ewot=brys kandor
+| affiliation=Kandor
+| birth={{ne|940}}
+| death={{ne|979}}
+| nationality=Kandori
+| title=Swordbearer
+| rank=Lord
+| gender=Male
+| build=Stocky
+| status=Dead
+| appeared={{ns|22}}
+| lastappeared={{ns|26}}
+| lastmentioned={{tpod|p}}
+}}
+{{dablink|For a lord from [[Tarabon]] with the same name, see [[Brys (Taraboner)|Brys]].}}
+
+'''Brys Noramaga''' was a Lord of [[Kandor]], first husband and [[Prince Consort]] to [[Ethenielle Kirukon Materasu]].{{ref/book|twotc|Brys Noramaga}}
+
+== Appearance ==
+He was a solid, rough-hewn man with green eyes.{{ref/book|0|22}}{{ref/book|0|25}}
+
+== History ==
+He was born in {{ne|940}} to [[House Noramaga]], a lesser House than [[House Materasu]].{{ref/book|twotc|Ethenielle Kirukon Materasu}} 
+
+He has at least two sisters who were married before {{ne|979}}.{{ref/book|0|25}} He was close friends with Lady [[Ines Demain]]'s husband.{{ref/book|0|24}}
+
+He has a strong reputation as a general. Although more suited to armor than silks, he had grown accustomed to either. He and [[Lan Mandragoran]] have twice saved each other's lives in The Blight. Brys also fought in the [[Aiel War]], but was forced to withdraw his army due to a flare-up of activity in the Blight. {{ref/book|0|22}}
+
+Brys married Ethenielle in {{ne|963}} and took her House name upon their marriage. He was styled "Prince Brys" and served as the Swordbearer of Ethenielle and the general of Kandor's armies.{{ref/book|twotc|Brys Noramaga}} Theirs was a love-match in large part, but politics were also a factor. As [[Prince Consort]], he and Ethenielle were not allowed to leave Chachin at the same time, except in times of war.{{ref/book|0|25}}
+
+He and Ethenielle had eight children during the sixteen years of their marriage, seven of whom survived until adulthood.{{ref/book|twotc|Ethenielle Kirukon Materasu}} They are:
+
+# [[Antol]]: First son, born {{ne|964}}.
+# [[Jarene]]: First daughter, born {{ne|966}}. 
+# [[Diryk]]: Second son, born {{ne|971}}.
+# Daughter, younger than Jarene, whose name is unknown.{{ref/book|0|25}}
+# Three more sons, two of whom were infants in {{ne|979}}.{{ref/book|0|25}}
+# Another child.
+
+Seven children are mentioned in New Spring. The eighth is either a discrepnancy, not mentioned in New Spring, or was born later in {{ne|979}}.
+
+Lan and he met each other again in [[Chachin]] and Brys was present when [[Edeyn Arrel]] pledges her fealty to Lan.{{ref/book|0|22}}
+
+== Death ==
+Brys died in {{ne|979}}, along with his son Diryk, supposedly in an accidental fall which also claimed [[Iselle Arrel]]. Diryk was a victim of the male channeler pogrom, though that was not widely known.{{ref/book|twotc|Brys Noramaga}} The murderer was [[Merean Redhill]], a member of the Black Ajah. They were dropped over the edge of a long, stone-railed walk two-hundred feet above the city, a place the Prince was known to take time alone in to not be disturbed. Merean, observing this, used it as an opportunity for murder.{{ref/book|0|22}}{{ref/book|0|26}}
+
+{{Notes}}
+
+[[es:Brys Noramaga]]
+[[Category:Prince]]
+[[Category:Nobility]]

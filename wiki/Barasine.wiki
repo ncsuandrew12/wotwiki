@@ -1,0 +1,57 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| occupation=Sitter
+| rank=Aes Sedai
+| build=Lanky
+| height=Tall
+| status=Alive
+| mentioned={{loc|8}}
+| appeared={{kod|p}}
+| lastappeared={{tom|27}}
+| living=tom
+}}'''Barasine''' is an [[Aes Sedai]] and a [[Sitter]] of the [[Red Ajah]].{{ref|{{twotc}}, Barasine}}
+
+==Appearance==
+She is lanky, tall and long-legged.{{ref|{{twotc}}}}{{ref/book|11|Prologue}}
+
+==Abilities==
+We have no information on where Barasine stands with respect to the One Power hierarchy except that she stands lower than [[Katerine Alruddin]]. Since Katerine is very strong in the Power, her level is {{opsl|21}}, this does not give us much information,
+
+==History==
+As many Reds, Barasine holds a dim view of [[Wilder]]s.
+
+She often mutters to herself.
+
+Barasine was one of the sisters, along with [[Javindhra Doraille]], who [[Logain Ablar]] says promised him support if he declared himself as the [[Dragon Reborn]]. He says that she talked a great deal. These accounts were intended to discredit the [[Red Ajah]], although it is unstated if they were misrepresented truths (in the Aes Sedai fashion) or outright fabrications.
+
+==Activities==
+=== Guarding Egwene ===
+She has remained loyal to the [[White Tower]] during the split.
+
+Barasine was one of the Aes Sedai involved in capturing [[Egwene]] at [[Tar Valon#Southharbor|Southharbor]] and bringing her to the White Tower, along with [[Berisha Terakuni]], [[Felaana Bevaine]], and [[Jala Bandevin]]. She thinks that Elaida would want to be done with Egwene, perhaps ordering her [[Stilled]] and executed that night. She exchanges news with [[Melare]] on the capture of [[Leane Sharif]] at [[Northharbor]].
+
+She and [[Katerine Alruddin]] exhibit threatening behaviour towards [[Berisha Terakuni]], asking her if she is afraid to be alone with two Red sisters and asking if she thought she had reason to be.
+
+Her closeness with Katerine could have indicated a [[Black Ajah]] allegiance. She tried to keep Egwene's Accepted ring as a memento of the Rebels being brought to heel; [[Siuan Sanche]] later reclaimed it.
+
+Barasine continues to be one of Egwene's shepherd's and escorts her to her meeting with [[Elaida do Avriny a'Roihan]]. When Egwene is condemned to a cell, Barasine is about to beat her when Katerine arrives and tells her that Egwene is to be set free.
+
+=== Role as a Sitter ===
+After Egwene al'Vere was raised to the [[Amyrlin Seat]], Barasine was chosen as a new Sitter for the Red Ajah. She was able to demonstrate that she was not a member of the Black Ajah. Barasine was present in the Hall of the Tower when [[Rand al'Thor]] speaks with Egwene. As Rand tells the Hall that he plans to break the remaining [[Seven Seals|Seals]], Barasine feels as if her heart would stop.{{ref/book|13|3}}
+
+When [[Nynaeve al'Meara]] returns to the Tower and tests for the shawl, Barasine is one of the three Sitters that vote against her.{{ref/book|13|20}}
+
+The Sitters try to hold a secret meeting without Egwene, discussing ways temper the Amyrlin's power when a declaration of war is called. Barasine voted against a proposal that would allow only Egwene to deal with the monarchy of the world, which includes Rand as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army.
+
+In that same meeting of the Hall, Barasine voted in favour of the new rules and procedures in the Hall as outlined by Egwene, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present.{{ref/book|13|27}}
+
+{{notes}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

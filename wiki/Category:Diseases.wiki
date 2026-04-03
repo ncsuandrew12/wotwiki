@@ -1,0 +1,2 @@
+'''Diseases''' are afflictions that can affect just one person or an entire area. Often times they are cured by [[herbs]] or by [[Healing]].
+[[Category:Concepts| Diseases]]

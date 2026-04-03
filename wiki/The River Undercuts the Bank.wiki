@@ -1,0 +1,14 @@
+{{swordform
+| mentioned={{2|45}}
+| used=[[Rand al'Thor]], [[Be'lal]]
+}}
+'''The River Undercuts the Bank''' is a [[sword form]].
+
+==Description==
+The River Undercuts the Bank is a movement involving dropping to one knee in order to make a horizontal cut at the enemy's abdomen or legs. It is a dangerous tactic without the proper setup.
+
+==In practice==
+While [[Turak Aladon]] was still retreating from [[The Boar Rushes Down the Mountain]], [[Rand al'Thor]] used The River Undercuts the Bank to kill the [[Seanchan]] [[High Lords of Seanchan|High Lord]].{{ref/book|2|45}} During the duel between Rand al'Thor and [[Be'lal]], the [[Forsaken]] used this form and almost beheaded the [[Dragon Reborn]].{{ref/book|3|55}}
+
+{{notes}}
+{{DEFAULTSORT:River Undercuts the Bank, The}}

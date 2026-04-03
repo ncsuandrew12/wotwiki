@@ -1,0 +1,36 @@
+{{ character 
+| image=Belinde.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Sevanna
+| build=Skinny
+| hair=Nearly White
+| eyes=Pale Blue
+| status=Alive
+| clan=Shaido
+| sept=Unknown sept
+| appeared={{acos|p}}
+| lastappeared={{kod|30}}
+| living=kod
+}}
+'''Belinde''' is a [[Wise One]] of the [[Shaido]] [[Aiel]]. 
+
+==Appearance==
+She is skinny and has a narrow and fox-like face. She is slender with pale blue eyes and hair almost bleached white.
+
+==Strength and Abilities==
+Belinde can [[channel]] quite strongly. In TWoTC her strength level is described as {{opsl|24}}, the same level of [[Coiren]] and [[Corele]], which is a high ranking level among [[Aes Sedai]].
+
+This strength is more than enough to open alone a gateway for [[Travel]]ing. 
+
+==Activities==
+She participated in the murder of [[Desaine]] and fights in the [[Battle of Dumai's Wells]]. She was "Chosen from the strongest of the Shaido Wise Ones who could wield the One Power". She helps to activate the call box and is present when both "[[Sammael|Cadder]]" and "[[Graendal|Maisia]]" arrive.
+
+She ends up Traveling to [[Ghealdan]]. She carries out severe punishments on [[Galina Casban]] for slapping her.
+
+She is present when [[Therava]] and the [[Shaido]] decide to abandon the quest to conquer the [[Westlands]] and return to the [[Three-Fold Land]].
+
+[[es:Belinde]]
+[[Category:Channelers]]

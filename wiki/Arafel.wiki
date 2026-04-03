@@ -1,0 +1,59 @@
+{{nation
+| image=[[File:ArafelFlag.png|250px]]
+|name=Arafel
+|type=Monarchy
+|headofstate=King [[Paitar Nachiman]]
+|sigil=A red rose and a white rose; the Roses.
+|banner=Three white roses on a field of red quartered with three red roses on a field of white, with the white fields in the upper-left and bottom-right sections and the red fields in the upper-right and bottom-left sections.{{ref/book|twotc}}
+|region=North East [[Westlands]], from [[Kandor]] to the [[River Mora]]
+|interest=[[River Mora]]
+|capital=[[Shol Arbela]]
+|cities=[[Jakanda]], [[Tifan's Well]]
+|formed={{Fy|994}}
+|demonym = [[Arafellin]]
+}}
+
+'''Arafel''' is one of the four [[Borderlands|Borderland]] nations which lie on the threshold of the [[Great Blight]], sitting between [[Kandor]] to the west and [[Shienar]] to the east. Arafel's flag is made up of three white roses on a field of red, quartered with three red roses on a field of white.
+
+==Geography==
+
+Arafel stretches from Kandor to the [[River Mora]], which marks its border with Shienar.
+[[Image:13 - Arafel.PNG|thumb|200px|left|Location within the Westlands]]
+==History==
+The nation of Arafel was formed early in the [[War of the Hundred Years]].  The governors of [[Artur Hawkwing|Hawkwing's]] five northern provinces met and agreed to form stable nations to preserve the peace and defend against the [[Blight]].  [[Mahira Svetanya]] was the first Queen of Arafel.
+
+==Government==
+Arafel is a monarchy. The throne is currently held by King [[Paitar Nachiman]]; his sister [[Kiruna]] is an [[Aes Sedai]] of the [[Green Ajah]]. The throne is located in the capital, [[Shol Arbela]].
+
+Although the nation was founded by a woman, the Arafellin monarchy could only be held by a male ruler in the later [[New Era]]. The wife of the King is called the Queen, and is expected to rule in his place when he is on campaign. It is traditional that certain matters are left in the hands of the Queen rather than the King, even when the King is not on campaign.
+
+=== Laws ===
+It is forbidden to hide the face in any village, town, or city, in protection against [[Myrddraal]]. This law is amended in Arafel to allow women to wear veils, but the veils have to be transparent.
+
+==Fashion and Culture==
+The [[Arafellin]] people often wear bells in their hair which jingle merrily when shaken. Men will also sometimes wear them along the sleeves of their coat, and at the tops of their boots.{{ref/book|0|16}}
+
+[[Siuan Sanche]] mentions that the Arafellin are a fiery people with strange ideas about honor and debts. It is not uncommon for an Arafellin to ask for punishment as a means of restoring their honor. In many ways, they are close to [[Aiel]] in their beliefs, but without a truly formalized honor system such as ''[[ji'e'toh]]''.
+
+As a general rule, Arafellin are extremely touch. In duels, the choice of weapons goes to the challenged. The choices are sometimes odd, such as two men on horseback with bows, or two men fighting in a darkened room. Women also duel each other, but it is considered improper for women to personally duel one another rather than appoint champions to do so. However, some women do secretly duel each other and deny doing so. Women's duels rarely involve swords, but involve daggers, bows, lances and even whips.
+
+== Economy ==
+Arafel has a fair number of gemstone mines producing gemstones other than diamonds, most notably firedrops; and less important mines of rubies, emeralds, and sapphires, and a moderate number of gold and silver mines. Timber and furs are major exports.<ref name="comp">[[The Wheel of Time Companion]], Arafel.</ref>
+
+==Towns/cities==
+*[[Shol Arbela]] (capital)
+*[[Tifan's Well]]
+*[[Jakanda]]
+
+==Parallels==
+Arafel is the Hebrew word for fog and may refer to the Apocalypse. It was used by Frank Herbert in the Dune series to refer to an apocalypse.{{ref|http://en.wikipedia.org/wiki/Arafel}} Arbela is the name of a city in the Galilee,{{ref|http://www.bible-history.com/isbe/A/ARBELA/}} as well as a city in Iraq near which Alexander the Great won a major victory.{{ref|http://en.wikipedia.org/wiki/Battle_of_Gaugamela}}
+
+Arafel is also the main protagonist in the Ealdwood Stories series by C.J. Cherryh. Arafel, is the last of the Daoine Sidhe, the highest ranking of the Sidhe faery-folk, and the series has many parallels in theme and source material inspiration to the Wheel of Time. 
+
+{{notes}}
+{{nations}}
+[[es:Arafel]]
+[[Category:Nations]]
+[[Category:Arafel| Arafel]]
+[[Category:Parallels]]
+[[Category:Borderlands]]

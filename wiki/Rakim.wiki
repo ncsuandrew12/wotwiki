@@ -1,0 +1,24 @@
+{{ character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Saldaean
+| affiliation=Lan Mandragoran
+| gender=Male
+| build=Grizzled
+| occupation=Soldier
+| appeared={{ns|1}}
+| lastappeared={{tom|7}}
+| lastmentioned={{tom|42}}
+| living=tom
+}}
+'''Rakim''' is a soldier in [[Lan]]'s army during the [[Aiel War]]. 
+
+== Appearance ==
+He is grizzled. He has a hoarse voice due to receiving an [[Aiel]] arrow in the throat. He now has a ragged scar. He has tilted eyes.
+
+== History ==
+He is a [[Saldaean]] who considers himself lucky because he once cheated death. Lan thinks he is foolish for taking too many chances. He brings a messenger to Lan from Lord [[Emares]]. He then travels with Lan to [[Kinslayer's Dagger]], in pursuit of the retreating Aiel.
+
+More than twenty years later, Rakim, [[Andere]] and [[Nazar Kurenin]] all meet up with Lan and [[Bulen]] along the [[Plain of Lances]]. They travel in front of Lan until he finally accepts them into his company.
+Rakim brings [[Weilin Aldragoran]] and his company into Lan's camp, much to Lan's displeasure.

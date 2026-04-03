@@ -1,0 +1,13 @@
+The '''glass blacksmith's puzzle''' is a ''[[ter'angreal]]'' found in the [[Kin's Store Room]] in [[Ebou Dar]].{{ref/book|8|4}}
+
+==Appearance==
+The ''ter'angreal'' has an unspecified appearance of a blacksmith's puzzle made of glass. It is heavy, and when dropped broke a chip off the edge of a cistern cover.{{ref/book|8|4}}
+
+==Use==
+The use of this ''ter'angreal'' is unknown. [[Elayne]] tried testing it with a touch of Spirit, but it left her extremely dizzy and kept her from sleeping for half the night.{{ref/book|8|20}}
+
+{{notes}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]
+[[Category:Ebou Dari Stash]]

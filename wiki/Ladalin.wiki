@@ -1,0 +1,21 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| occupation=Wise One
+| gender=Female
+| hair=
+| clan=Taardad
+|sept=Unknown sept 
+| status=Unknown
+| mentioned={{tom|49}}
+}}
+'''Ladalin''' will be a [[Wise One]] of the [[Taardad]] [[Aiel]] in the future seen by [[Aviendha]]
+== Ancestry and potential descent of Ladalin ==
+[[Aviendha]] and [[Rand al'Thor|Rand]] ↠ [[Padra]] ↠ [[Oncala]] ↠ '''Ladalin''' ↠ ? ↠ ? ↠ [[Rowahn]] ↠ [[Tava]] ↠ ? ↠ [[Norlesh]] ↠ ? ↠ [[Malidra]]
+==Activities==
+Ladalin is a descendant of Aviendha and [[Rand]], the last survivor of that lineage. Aviendha sees part of her life in one of the visions in the [[Glass columns]] in Rhuidean, She is a Wise One, but is not able to channel; by that time only three clan chiefs and two Wise Ones remain of the Aiel leaders. They are the survivors of the [[Council of Twenty Two]]. 
+
+The Aiel are losing badly, and she decides that they should retreat back to the [[Aiel Waste]] and try and rebuild. Unlike [[Takai]], she does not blame Rand, and insists that Aiel take responsibility for themselves. She does not know about ''[[ji'e'toh]]'' and fights because she has always done so and because of her hatred of the [[Seanchan]].
+[[Category:Short pages]]
+[[Category:Foreseen people]]

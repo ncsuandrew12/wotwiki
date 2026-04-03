@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Fan Art
+|License     = GFDL
+| ImageType2 = Character
+|Source      = https://dragonmount.com/gallery/album/128-wheel-of-time-card-deck/
+|Description = [[Elyas Machera]] and [[Hopper]] fan art.
+|Artist      = Ariel Burgess
+}}

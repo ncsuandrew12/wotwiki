@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| society=Far Dareis Mai
+| clan=Unknown clan
+| sept=Unknown sept
+| gender=Female
+| affiliation=Car'a'carn
+| hair=Gray
+| status=Alive
+| appeared={{acos|33}}
+| lastappeared={{acos|33}}
+| living=acos
+}}
+'''Domeille''' is an [[Aiel]] ''[[Far Dareis Mai]]''. 
+
+== Appearance ==
+She has gray hair, lean with a thrusting chin. She has a scar on the side of her face.
+
+== Activities ==
+She is one of the Maidens who guards [[Rand al'Thor]] in [[Cairhien]].

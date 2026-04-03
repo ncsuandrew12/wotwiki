@@ -1,0 +1,57 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| affiliation=Morgase Trakand
+| build=Thin
+| eyes=Dark
+| occupation=Maid
+| hair=White, in a bun
+| nationality=Andoran
+| gender=Female
+| status=Alive
+| mentioned={{teotw|40}}
+| appeared={{tfoh|19}}
+| lastappeared={{tom|44}}
+| lastmentioned={{amol|10}}
+| living=amol
+| ewot=Lini
+}}
+{{quote|I think the woman was born in Far Madding in a thunderstorm. She probably told the thunder to be quiet. It probably did.|[[Basel Gill]]}}
+
+{{WotQ|{{PAGENAME}}}}
+
+'''Lini Eltring''' (LIHN-nee; /ˈlɪ.nɪ ˈɛɫ.tɹɪŋ/) is an [[Andor]]woman who has been nurse to three generations of Trakand women, including [[Maighdin Trakand|Maighdin]], [[Morgase Trakand|Morgase]] and [[Elayne Trakand]].{{ref/book|twotc|Lini Eltring}} She is known for having a saying for almost every situation.
+
+== Appearance ==
+Lini is described as very thin with a back as straight as a rod despite her old age. Her hair is white, drawn in a bun. She has a narrow face with skin like thin parchment and has dark eyes. She is very strict and has a practical view of the world and those in it.
+
+==History==
+She switched Elayne for stealing figs when she was little, and perhaps when she was "not so little".{{ref/book|1|40}}
+
+==Lini's sayings==
+(''For a full list see [[Lini's sayings]]'')
+
+{{#invoke:WotQ|render_wot_quotes|tags=Lini shortlist|quote_border=|quote_render_description=false|quote_width=}}
+
+==Activities==
+=== Leaving Andor ===
+As a nurse, she can afford to speak to both women in a way no noble lady of Andor could dare. For instance, she told Morgase that her affair with [[Gaebril]] was known to everybody.
+
+She now lives in the Pensioners' Quarter of the Queen's palace in [[Caemlyn]], like many elderly former servants. 
+When Morgase comes to Lini's apartment, Lini reveals the full extent of how things have deteriorated in Andor under Gaebril's rule. She brings in [[Martyn Tallanvor]] to confirm the story. She then flees Caemlyn with Morgase, Tallanvor, [[Basel Gill]], [[Lamgwin Dorn]], and [[Breane Taborwin]].
+
+They arrive in [[Amadicia]] and are held captive in the [[Fortress of the Light]] by [[Pedron Niall]]. She still refers to Morgase as a child but remains very loyal to her and is disgusted with the way Breane talks to Morgase. She has also hinted several times that Tallanvor would be a good love interest for Morgase. She manages to escape with Morgase and the rest of her crew with the help of [[Sebban Balwer]].
+
+=== Service to Faile ===
+While traveling in [[Ghealdan]], Lini and her group are saved by [[Perrin Aybara]] when they are attacked by the [[Masema Dagar|Prophet]]'s men. They then join with Perrin's army and become attendants under [[Faile Bashere]].
+
+After Faile's capture by the [[Shaido]] [[Aiel]], she becomes a servant to Perrin. She believes the rumors of Perrin sleeping with [[Berelain sur Paendrag Paeron]], and has become very surly with him.
+Perrin sends her north just before the attack on the Shaido in [[Malden]] with the intention of catching up with her afterwards. Her group is intercepted by the [[Children of the Light]], who keep them captive. She is returned to Perrin's army after Perrin's trial.
+After watching enough of Morgase and Tallanvor fawn over each other, she hauls the both of them in front of Perrin, where he presides over a small and simple wedding ceremony. She then leaves Perrin's army to continue serving Morgase.
+
+== Trivia ==
+* Lini's greatest treasure are six miniature portraits of [[Maighdin Trakand]], [[Morgase Trakand]] and [[Elayne Trakand]], with one as a child and one as a young woman.
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Eltring, Lini}}

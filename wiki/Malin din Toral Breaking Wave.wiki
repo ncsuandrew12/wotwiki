@@ -1,0 +1,24 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| ewot=Malin
+| nationality=Atha'an Miere
+| gender=Female
+| hair=Gray streaked
+| affiliation=Atha'an Miere
+| title=[[Sailmistress]]
+| rank=Wavemistress
+| status=Alive
+| appeared={{acos|13}}
+| lastappeared={{acos|13}}
+| living=acos
+}}
+'''Malin din Toral Breaking Wave''' is a [[Sea Folk]] [[Wavemistress]] of Clan Somarin. She is [[Sailmistress]] of ''[[Windrunner]]''.
+
+== Appearance ==
+She has gray streaked hair and a grave face. She has five rings in each ear, with one of them being connected to her nose.
+
+== Activities ==
+She greets [[Nynaeve al'Meara]] and [[Elayne Trakand]] when they come aboard ''Windrunner'' and is present when they bargain with [[Nesta din Reas Two Moons]] over the [[Bowl of the Winds]].
+
+{{DEFAULTSORT:Toral Breaking Wave, Malin din}}

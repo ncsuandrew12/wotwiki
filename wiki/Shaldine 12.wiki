@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|October}}
+|{{Wotmonth|Shaldine}}
+|}
+'''Shaldine 12 (October 10)'''
+
+==Events==
+</noinclude>
+*Recurring - [[Shaoman]]
+*{{ne|999}} - [[Osan'gar]] and [[Aran'gar]] are sent out into the world by [[Shaidar Haran]].
+<noinclude>
+==External links==
+*[[wikipedia:october 10|October 10]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

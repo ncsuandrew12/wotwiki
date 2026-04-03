@@ -1,0 +1,25 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Male
+| affiliation=Children of the Light
+| occupation=Soldier
+| status=Alive
+| appeared={{loc|26}}
+| lastappeared={{loc|26}}
+| living=loc
+}}'''Dimir Faral''' is a soldier in the [[Children of the Light]].{{ref|{{twotc}}, Dimir Faral}}
+
+==Appearance==
+He is hard-faced. His white cloak is grimy and worn.
+
+==Activities==
+He is one of four Whitecloak survivors involved in the failed assassination attempt on [[Rand al'Thor]]. He was injured by the [[Aiel]].
+
+Rand orders the other three hanged and sends Dimir back to [[Pedron Niall]] to report that the attempt failed and the threat that he would see Niall hanged too one day. Dimir starts to weep and the others stare in contempt at him, one of them spitting at him. He swears to go straight to Amador.
+
+It is later revealed that these men were not on orders from Pedron Niall, but from [[Padan Fain]]. They were part of his ragtag band of Children of the Light that stayed with him after the attack on the [[Two Rivers]]. It was simply a test to see what Rand's defenses were like rather than a real attempt at assassination.
+
+{{notes}}
+{{DEFAULTSORT:Faral, Dimir}}

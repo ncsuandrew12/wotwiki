@@ -1,0 +1,36 @@
+{{character
+| image=Cetalia Delarme.jpg
+| imagesize = 250px
+| ewot=Cetalia
+| ajah=Blue
+| nationality=Taraboner
+| gender=Female
+| status=Dead
+| rank=Aes Sedai
+| hair=Steel-gray
+| height=Tall
+| appeared={{ns|12}}
+| lastappeared={{ns|12}}
+| lastmentioned={{ns|18}}
+| living=ns
+}}
+'''Cetalia Delarme''' (pronounced: seh-TAHL-ee-ah deh-LAHR-may) was an Aes Sedai of the [[Blue Ajah]]; she was also the head of her Ajah's [[eyes-and-ears]] network at the time of the [[Aiel War]]. 
+
+==Appearance==
+Cetalia is described as a tall, square-faced woman in sky-blue silk with steel-gray hair in a multitude of blue-beaded braids that hung to her waist.{{ref/book|0|12}}{{ref|{{twotc}}, Cetalia Delarmes|comp}} Judging by her appearance, she must have been over two hundred years old when she died.
+
+==Strength==
+She was [[Strength in the One Power among Aes Sedai|very strong]] in the [[One Power]], by Aes Sedai standards, with a strength of {{opsl|20}}. It was judged that she was stronger than [[Moiraine Damodred]] and [[Siuan Sanche]], at least until they both reached their full potential and demanded "more than mere deference" for her superior strength.{{ref/book|0|12}}
+
+==History==
+Being the head of the eyes-and-ears system of the Blue Ajah, Cetalia tested Siuan just after she gained the [[shawl]]; she used many puzzles in an attempt to find out if Siuan would be useful as an apprentice.{{ref/book|0|12}} Siuan passed the tests and spent her first months, and perhaps years, as an [[Aes Sedai]] being worked hard under Cetalia.
+
+When Siuan returned from her unauthorized expedition to the [[Borderlands]] to inform Moiraine, Cetalia made sure that Siuan regretted very much taking leave.{{ref||comp}}
+
+Cetalia was murdered by the [[Black Ajah]].{{ref||comp}} The reason is not given, but it can be inferred that she was one of several sisters killed merely on the suspicion of being one of [[Tamra Ospenya's Searchers]].{{ref|{{twotc}}, Vileness}} It is not known if this occurred months or years after the events of New Spring. Siuan would eventually take over the running of the Blue Ajah eyes and ears network, but it's unclear if this happened directly after Cetalia's death or at a later date. Since she isn't known to have multiple assistants, the former seems likely.
+
+{{DEFAULTSORT:Delarme, Cetalia}}
+[[Category:Eyes-and-ears]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,20 @@
+{{ character 
+| image=Accepted icon.png
+| imagesize=250px
+| status=Dead 
+| nationality=Unknown nationality
+| gender=Female
+| rank=Accepted
+| mentioned={{loc|30}}
+| lastmentioned={{loc|30}}
+}}
+'''Echiko''' was an [[Accepted]] in the [[White Tower]].
+
+== History ==
+She thought she had rediscovered the [[Talent]] of flying and jumped off the roof of the [[White Tower]]. [[Myrelle Berengari]] recalls this event happening during her time as a novice, somewhere between [[968 NE]] and [[975 NE]].{{Ref|{{twotc}}, Echiko}}
+
+''"Another possibility," Myrelle said, "is that your brain has swollen from strain." Her lidded eyes regarded Nynaeve. "You could be surprised at the number of Accepted, and even novices, who claim they've rediscovered some lost Talent, or found a new. When I was a novice, and Accepted named Echiko was so convinced she knew how to fly, she leaped from the top of the Tower."''{{Ref/book|6|30}}
+
+{{notes}}
+{{short}}
+[[Category:Channelers]]

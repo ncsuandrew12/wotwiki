@@ -1,0 +1,28 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Bouncer
+| gender=Male
+| build=Big
+| status=Dead
+| appeared={{Teotw|32}}
+| lastappeared={{teotw|32}}
+| living=teotw
+}}
+{{quote|Well, well, well. Out here alone in the dark. Dark's dangerous, boy.| Jak to [[Rand]]}}
+{{dablink|For the leader of the [[Legion of the Dragon]], see [[Jak Masond]].}}
+
+'''Jak''' is a strongarm and bouncer working for [[Saml Hake]] at the ''[[Dancing Cartman]]'' in [[Four Kings]].{{ref|{{twotc}}, Jak}}
+
+==Appearance==
+He is big with crooked, yellow teeth. He has an ugly chuckle.
+
+==Activities==
+Jak, [[Strom]], and Saml Hake hold [[Rand al'Thor]] and [[Matrim Cauthon]] hostage through threatening behavior. They are prevented from leaving the inn and escorted to their rooms by the two bouncers. One of the two waits in the hallway outside their room and the window is barred.{{ref/book|1|32}}
+
+Jak corners Rand in the stables of the Dancing Cartman and threatens him. He tells him he and Strom have a bet - Strom says that he stole the sword from his old grandmother. Jak says that Rand's grandmother would have beat him up, had he even tried.
+
+It is unclear whether they are [[Darkfriend]]s and working with [[Howal Gode]], willing to help him for a price or entirely oblivious to Gode's intentions towards the boys.
+
+{{notes}}<references />

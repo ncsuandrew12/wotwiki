@@ -1,0 +1,77 @@
+==Purpose of template==
+
+Creates an anchor on a page.
+
+The usual method to add an anchor to a page would be to make it a header, but this template allows the user to add a an anchor at arbitrary points without affect the displayed output. 
+
+==How to use==
+<pre>{{A|id}}</pre>
+<pre>{{A|id|text}}</pre>
+
+==Examples==
+
+Some text before an anchor.
+
+{{A|anchor}}
+
+Some text after an anchor.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+Some more text after an anchor.
+
+{{A|anchor_with_text|An anchor with text}}
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+Links: [[#anchor|Anchor without text]], [[#anchor_with_text|Anchor with text]]

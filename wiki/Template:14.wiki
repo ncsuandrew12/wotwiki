@@ -1,0 +1,4 @@
+''[[A Memory of Light]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[A Memory of Light/Prologue|Prologue]]|e|ep|epilogue=[[A Memory of Light/Epilogue|Epilogue]]|[[A Memory of Light/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|A Memory of Light]]
+</noinclude>

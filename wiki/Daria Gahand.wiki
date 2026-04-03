@@ -1,0 +1,17 @@
+{{character
+| image=wheel-icon.svg
+| imagesize=250px
+| status=Dead
+| nationality=Unknown nationality
+| occupation=Author
+| affiliation=
+| gender=Female
+| mentioned={{loc|50}}
+| lastmentioned={{loc|50}}
+}}
+'''Daria Gahand''' was a philosopher and the author of the volume "[[Essays on Reason]]", which [[Rand]] found in the Royal Library of [[Cairhien]]. [[Min]] finds it quite interesting.
+
+{{short}}
+{{DEFAULTSORT:Gahand, Daria}}
+[[Category:Historical people]]
+[[Category:Philosophers]]

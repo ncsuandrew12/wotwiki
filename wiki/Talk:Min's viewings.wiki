@@ -1,0 +1,60 @@
+==Suggested layout==
+==={{TEOTW|15}}===
+{{quote|blah blah blah}}
+:explanation explanation explanation
+{{quote|bling bling bling}}
+:explanation explanation explanation
+==={{TEOTW|16}}===
+{{quote|blah blah blah}}
+:explanation explanation explanation
+
+"She saw ", "She sees " should probably be avoided... just quote directly from the books.
+
+Also, chapter-by-chapter listing rather than seperate "unresolved" section might make more sense.  It would shorten the TOC considerably, for one thing.  If ==Unresolved== is kept, then perhaps the chapters should not be ===Subheadings===.
+--[[User:Gherald|Gherald]] 19:16, 18 September 2006 (UTC)
+
+Good point. I started going with 'She saw' because that's the way the first few viewings were written here.
+
+S'pose it's time for a change, then...
+
+[[User:The Dragon Preborn|The Dragon Preborn]] 08:35, 19 September 2006 (UTC)
+
+Updated the TEotW part of the ==Completed== section, and I'll see about getting back later today to do the rest.
+
+[[User:The Dragon Preborn|The Dragon Preborn]]
+
+== Format change ==
+
+I've submitted a modified format of the list for your approval; in particular it should help reduce the size of the TOC. Let me know what you think anyway. [[User:Aristoc|Aristoc]] 12:54, 21 November 2006 (UTC)
+
+Hey just tidying Min's viewings. If anyone has the time would they be able to go and actually write in the actual quote. There are a number missing in particular the incomplete section Cheers--[[User:GuanYu79|GuanYu79]] 01:52, April 8, 2010 (UTC)
+
+==Carlinya==
+[[Carlinya|"Carlinya]]: She saw a tattoo of a raven around Carlinya Sedai. This appears to have something to do with the [[Seanchan]], or the [[Dark One]]. It should be noted that a tattoo of a raven denotes Imperial ownership according to Seanchan custom. This is perhaps a misprint because she has now died, making this viewing unfulfillable. When asked about this issue, Brandon Sanderson advised us to "read and find out"." If BS said Read and Find Out, I think she will be alive, I don't know how it could, but I think there are only two possibilities (sp?): 1. She is a Hero of the Horn (then Verin will surely be), or 2. She is not dead, and the Aes Sedai are mistaken. (Sorry, I forgot the signature yesterday) [[User:Asha&#39;man Leyrann Gaidin|Asha&#39;man Leyrann Gaidin]] 06:48, June 19, 2011 (UTC)
+
+<p style="margin-left: 40px; ">Or, the raven is for the Dark One, and The Dark One controls the dead. She died, and will either be used by the Dark One (like Isshmael used the vision of Tam's wife in EotW), or resurrected as a darkfiend.[[Special:Contributions/24.231.200.174|24.231.200.174]] 06:06, August 5, 2011 (UTC)</p>
+
+[http://wot.wikia.com/wiki/Faolain Faolain]:
+“A nasty woman. You'd think, if there was any justice, she would have an unpleasant future ahead of her.”--- Is it just me, or does this feel more like a character assessment and less of a vision?
+
+== Factual correction ==
+
+TSR 1: Gawyn
+
+He became a blademaster when he killed Hammar. Beating a blademaster makes you a blademaster. 
+
+[[Special:Contributions/83.101.71.64|83.101.71.64]] 13:44, January 8, 2013 (UTC)
+
+You also have to have someone witness it, cant remember who / where said it, maybe it was rand [[Special:Contributions/5.81.243.128|5.81.243.128]]
+
+a minor viewing about tiam
+
+'As many images and auras danced around one as the other, but it was not a viewing that made her suddenly wary. She had seen a man trying to decide whether to kill another before, and she was seeing it again.'
+
+Chapter 29, A cup of sleep, The path of daggers
+
+not sure who this viewing could be related to, tiam tried to turn logain maybe it could have been him wanting to kill him or maybe its rand [[Special:Contributions/5.81.243.128|5.81.243.128]]
+
+== Revisions needed ==
+
+I think that some of the "unresolved" viewings can be moved to "resolved" but also some of them are ambiguous and there are at least some explanations. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 14:33, 26 December 2020 (UTC)

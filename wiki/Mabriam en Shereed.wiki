@@ -1,0 +1,34 @@
+{{ character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewothist=Mabriam
+| ajah=Gray
+| status=Dead 
+| nationality=Aramaellen
+| rank=Aes Sedai
+| title=[[Queen]]
+| gender=Female
+| mentioned={{tfoh|3}}
+| lastmentioned={{acos|19}}
+}}'''Mabriam en Shereed''' (sometimes her name is rendered "en Shareed") was an [[Aes Sedai]] of the [[Gray Ajah]], and an ancient Queen of [[Aramaelle]].{{ref|{{twotc}}, Mabriam en Shereed|Mabriam}} Though never the [[Amyrlin Seat]], she is held as a legendary sister among sisters of the Gray Ajah and holds a position similar to that of [[Rashima Kerenmosa]] among the [[Green Ajah]] or [[Deane Aryman]] among the [[Blue Ajah]].
+
+== Strength and Abilities==
+Mabriam is one of the few historical Aes Sedai to be given a strength rating in [[The Wheel of Time Companion]]. She was [[Strength in the One Power among Aes Sedai|exceptionally strong]] in the One Power, with a level of {{opsl|15}}.{{ref||Mabriam}} This is the same strength as [[Cadsuane]], with no sister being as strong in the last thousand years.{{ref/book|0|17}} Even given the decline in strength of Aes Sedai since her lifetime, she was still likely high in the hierachy, not that much weaker than the Forsaken who were uncommonly strong even during the Age of Legends.
+
+History records that in addition to being a natural negotiator, she was [[Ta'veren]]; able to guide events around her to bend the [[Wheel of Time|pattern]] to her design.
+
+== History ==
+During the late second or early third century [[Timeline#After the Breaking|After the Breaking]], Mabriam proposed to the rulers of the nine other vast countries spanning the [[Westlands]] that they sign a formal treaty of alliance binding them together against the threat of the [[Shadow]].
+
+Through Mabriam's ''ta'veren'' nature and Aes Sedai help in the negotiations, the [[Compact of the Ten Nations]] was signed in {{Ab|209}}. The Compact would stand for over eight hundred years and help the kingdoms fight the [[Trolloc Wars]], although the wars would eventually overwhelm and destroy half of the kingdoms. The other half would collapse following the end of the wars and new nations would later arise.
+
+As the ruler of Aramaelle, it is assumed that Mabriam ruled from the capital of [[Mafal Dadaranell]] and as an Aes Sedai, it is assumed her reign was a long one.
+
+{{notes}}
+[[es:Mabriam en Shereed]]
+[[Category:Ta'veren]]
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai after the Breaking]]
+[[Category:Aes Sedai]]

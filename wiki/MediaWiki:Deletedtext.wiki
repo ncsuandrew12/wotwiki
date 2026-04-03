@@ -1,0 +1,1 @@
+$1 has been deleted; to undelete or review deleted versions, click [[Special:Undelete/$1]].

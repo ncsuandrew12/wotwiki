@@ -1,0 +1,109 @@
+{{featuredicon}}{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Amadician
+| birth={{ne|849}}
+| gender=Female
+| affiliation= White Tower
+| title=[[Keeper of the Chronicles]]
+| rank=Aes Sedai
+| build=Stocky
+| status=Alive
+| hair=Dark
+| mentioned={{tgh|23}}
+| appeared={{tgh|23}}
+| lastappeared={{amol|37}}
+| living=amol
+| ewot=silviana
+}}
+'''Silviana Brehon''' is an [[Aes Sedai]] of the [[Red Ajah]], she was also the [[Mistress of Novices]] under [[Elaida]] and the [[Keeper of the Chronicles]] under [[Egwene al'Vere]].
+
+== Appearance and Personality==
+She is stocky with a square face and speaks with a gruff voice. She has her dark hair in a bun and has large eyes. 
+
+She is physically very strong; she reminds people of a strict aunt, the one who would not stand for any nonsense, but who views her nieces and nephews as a raw material to be whipped into shape as human beings. This may have been a factor in her being chosen as Mistress of Novices.
+
+==Strength and Abilities==
+Silviana is [[Strength in the One Power among Aes Sedai|strong]] in the [[One Power]], with a strength level of {{opsl|21}}. After the events of [[The Path of Daggers]], there are only four women stronger than her in the White Tower that we have details on, three of whom are also Sitters. The other is, of course, the [[Amyrlin Seat]] herself. 
+
+She is strong enough to [[Traveling|Travel]].
+
+==History==
+[[File:Silviana Brehon.jpg|thumb]]Silviana is 151 years old. She was born in the year [[849 NE]] in Amadicia and went to the Tower in {{ne|867}}. After spending twelve years as [[novice]] and eleven as [[Accepted]], she was raised to the shawl in the year [[890 NE]].
+
+Despite her great potential strength she had great difficulty in learning when she arrived in the Tower, spending in white more years than it was needed. Her teachers thought this was the result of her innate stubbornness and too much pride.
+
+Silviana learned well from her mistakes and now she is strict to apply the lesson to others, becoming one of the best Mistress of Novices in ages; after being punished by her a girl very rarely repeats the same error again. However, she also uses rewards to motivate her charges, leading novices and Accepted to fear her punishments and be very grateful for her small rewards. This led to her having fewer discipline problems, faster learning and higher retention among her charges. Silviana was nowhere near as popular as [[Sheriam Bayanar|Sheriam]], her predecessor, but by most benchmarks was more successful. Silviana was careful not to play favorites, and to make each punishment one to remember - something which she felt her immediate predecessors did not do, making her despise them. She was tougher on Accepted than she was on novices, and in fact gave consideration for age and lack of experience.
+
+== Activities ==
+Silviana was present when [[Nynaeve al'Meara|Nynaeve]] was tested for Accepted.<ref>[[The Great Hunt/Chapter 23]]</ref>
+
+=== Raised to Mistress of Novices ===
+She took over as [[Mistress of Novices]] when [[Elaida do Avriny a'Roihan]] became [[Amyrlin Seat|Amyrlin]]. Her predecessor, [[Sheriam Bayanar]], fled the Tower for [[Salidar]] at the beginning of the [[White Tower Schism]], and became the initial leader of the rebels.{{ref/book|5|p}}
+
+In addition to disciplining [[novice]]s and [[Accepted]], Silviana is repeatedly called upon to administer Elaida's "penances" on other sisters, including the former [[Keeper of the Chronicles]] [[Alviarin Freidhen]]. For this reason, she has two or three visits a week from sisters seeking a private penance. She, however, believes that private penances are ridiculous; penances should be public and punishments private. She believes that anything that takes her attention away from the novices and Accepted is a needless disruption. She is even sent by Alviarin to administer a penance of the flesh on Elaida.
+
+After Egwene is captured by the Tower and reduced to a novice, she spends half her days in Silviana's study receiving punishment, so often that she requires [[Healing]]. Silviana is impressed by Egwene's sturdiness.
+
+=== Raised to Keeper of the Chronicles ===
+After Elaida abuses the [[One Power]] to punish Egwene, Silviana stands before the entire [[Hall of the Tower]] to denounce Elaida and demand justice. She is nearly stilled and executed for the offense, but is instead kept imprisoned. During the ceremony in which Egewene is raised to the Amyrlin Seat of the White Tower, Egwene demands she be brought from the cells. [[Yukiri]] objects to doling out justice during the ceremony.
+
+Egwene rounds on them, calling them a disgrace and mocking them for thinking she would exact vengeance on the only other woman in the room who had stood up to Elaida. Instead, she raises Silviana to Keeper of the Chronicles for her strength of character and as an attempt at unity.
+Egwene is immediately pleased at how efficient and effective Silviana is at being Keeper, though notes that she will have to work on Silviana's Red distrust towards men.
+
+Later on, Silviana guides Egwene to where she can see over [[Dragonmount]]. There Egwene sees a brilliant ray of light shining through the dark storm clouds onto Dragonmount. She asks Silviana to write this day down as something profound has occurred.{{ref/book|12|epilogue}}
+
+Silviana wakes Egwene up to inform her that [[Rand al'Thor]] has come to the White Tower. She then goes with Egwene when he meets in the Hall. Rand informs Egwene that he intends to break all the seals on the Dark One's prison and that he needs her help this time. After the meeting Egwene is shocked and intends to gather a huge delegation to confront Rand and oppose his plans. Silviana allows [[Gawyn Trakand]] to see Egwene when he comes to her with information on the assassinated Aes Sedai, though she and Gawyn have a mutual dislike.
+
+She brings news to Egwene that watchtowers along the [[Borderlands]] have gone silent and that the [[Last Battle]] is on-hand. She also informs Egwene that the Sitters are holding a secret meeting without her. Both Silviana and Egwene arrive late. During the meeting a proposal that would allow only Egwene to deal with the monarchy of the world, which includes Rand as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army is accepted. In that same meeting, new rules and procedures in the Hall, which include temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present is also accepted.
+Silviana informs Egwene that there has still been no word from Gawyn. Egwene asks her to send another message asking for his return to the White Tower.
+
+=== To the [[Last Battle]] ===
+Since the assassination attempt, Silviana works with Gawyn to make sure Egwene Travels to another location when she goes to sleep at night. On their way to the [[Field of Merrilor]], Egwene uses her as a distraction to keep [[Gregorin den Lushenos]] away from [[Darlin Sisnera]]. Silviana is one of the five that Egwene selects to join her in the signing of the [[Dragon's Peace]]. She goes to the [[Kandor]]i war-front that is led by [[Gareth Bryne]]. Silviana informs Egwene about Elayne Sedai's request for a Healing station to be set-up for the wounded. Egwene decides on [[Mayene]]. She is with Egwene when she demands that Bryne actively include the Aes Sedai in his war-plans. Silviana also leads the wedding ceremony of Gawyn and Egwene, standing in for the Amyrlin Seat after Egwene authorizes her own marriage.
+
+Silviana fought at the [[Kandor]]i front and at the Field of Merrilor as Egwene's right hand and kept almost as close watch over her as her [[Warder]]. The Aes Sedai are decimating thousands of Trollocs when a huge gateway splits the air and brings hundreds of [[Sharan]] channelers onto the battlefield. The Aes Sedai camp is completely routed in the attack. At least her loyalty to Egwene was doubtlessly as strong as that of a Warder; when Gawyn was dying, Silviana, a Red sister, offered herself to take the [[bond]] to shield Egwene from the pain. Egwene, however, refused, something Silviana later commented harshly on as she urged Egwene to consider the importance of her, as Amyrlin, being at her best. Though never stated, it is likely that she was devastated by Egwene's death.
+
+{{notes}}
+{{DEFAULTSORT:Brehon, Silviana}}
+
+[[es:Silviana Brehon]]
+[[Category:Mistresses of Novices]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Living as of AMOL]]
+[[Category:POV character]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Brehon, Silviana}}
+
+[[es:Silviana Brehon]]
+[[Category:Mistresses of Novices]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Living as of AMOL]]
+[[Category:POV character]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+<references />
+{{DEFAULTSORT:Brehon, Silviana}}
+
+[[es:Silviana Brehon]]
+[[Category:Mistresses of Novices]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Living as of AMOL]]
+[[Category:POV character]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+<references />
+{{DEFAULTSORT:Brehon, Silviana}}
+
+[[es:Silviana Brehon]]
+[[Category:Mistresses of Novices]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Living as of AMOL]]
+[[Category:POV character]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

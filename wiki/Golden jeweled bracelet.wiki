@@ -1,0 +1,12 @@
+The '''golden jeweled bracelet''' is a ''[[ter'angreal]]'' in the possession of [[Nynaeve al'Meara]].{{ref/book|9|33}} It was recovered from the [[Kin's Storeroom]] in the [[Rahad]] district of [[Ebou Dar]].{{ref/book|8|4}}
+
+==Appearance==
+The bracelet is decorated with pale red stones, not brilliant enough to be rubies.
+
+==Use==
+When triggered the ''ter'angreal'' forms a thin but extremely protective "armor" against the skin of the wearer. This protection is invisible except to whoever is using it. It protects against any kind of blow.
+
+{{notes}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]

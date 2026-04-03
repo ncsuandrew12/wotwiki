@@ -1,0 +1,19 @@
+{{ character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| nationality=Ghealdanin
+| occupation=Healer
+| title=Wisdom
+| gender=Female
+| status=Alive
+| mentioned= {{tdr|8}}
+| lastmentioned={{tdr|8}}
+| living=tdr
+}}
+'''Mother Roon''' is the [[Wisdom]] of [[Jarra]] in Ghealdan.
+
+== Activities ==
+[[Noam]] bit her when she tried to examine him.{{ref/book|3|8}}
+
+{{notes}}
+{{short}}

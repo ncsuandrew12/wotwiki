@@ -1,0 +1,22 @@
+{{ character 
+| image=Leaves.png
+| imagesize=200px
+| gender=Female
+| clan=Da'shain Aiel
+| status=Dead
+| appeared={{tsr|26}}
+| lastappeared={{tsr|26}}
+}}
+'''Esole''' was a [[Da'shain Aiel]] child during the [[Breaking]] and the daughter of the leader, [[Jonai]]. 
+
+== History ==
+She had two siblings, [[Willim]], who was sent away when he began to channel and couldn't stop, and [[Adan]], who become the ancestor of [[Rand al'Thor]].
+
+She was a young girl when the Aiel set out on their journey to find a safe place after the Breaking started. She was young enough to play with dolls when they left [[Paaran Disen]].{{Ref|{{twotc}}, Esole|comp}} She died not long after the journey started in a sickness which could have been Healed by an Aes Sedai but there was none around.{{ref/book|4|26}}
+
+==Errata==
+She is listed as a young [[Jenn Aiel]] girl in [[The Wheel of Time Companion]], but the term Jenn did not exist until decades after her death. She should be Da'shain Aiel.{{ref||comp}}
+
+{{short}}
+{{notes}}
+[[Category:Historical people]]

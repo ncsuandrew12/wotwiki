@@ -1,0 +1,26 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| nationality= Unknown nationality
+| gender=Male
+| affiliation= Children of the Light
+| rank=Lord Captain
+| occupation=Soldier
+| status=Unknown
+| mentioned={{acos|p}}
+| lastmentioned={{acos|p}}
+| living=acos
+}}
+'''Canvele''' is an officer of the [[Children of the Light]].
+
+==History==
+Canvele is one of the [[Lord Captains]] of the [[Council of the Anointed]] of the Children of the Light.{{ref|Though there is no explicit mention of Canvele's membership in the Council of the Anointed in the histories, [[Eamon Valda]] commands [[Sebban Balwer]] to notify all [[Lord Captain]]s in the Fortress that he calls for a meeting of the [[Council of the Anointed]]. Thus, by inference, since Lord Captain Canvele was in the Fortress, and he was summoned to the council, he may be presumed to be a member.}}
+
+[[Rhadam Asunawa]] says Canvele believes the law should be obeyed.{{ref/book|7|p}}
+
+==Activities==
+He becomes complicit in [[Eamon Valda]]'s plans for the Children, but only because Valda brought half a legion with him to the [[Fortress of the Light]].{{ref/book|7|p}}
+
+It is unknown whether or not he survived the [[Battle of Jeramel]], although it is known that three Lord Captains died there.
+
+{{notes}}

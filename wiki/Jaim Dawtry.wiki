@@ -1,0 +1,25 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Soldier
+| gender=Male
+| tworivers=yes
+| affiliation=Perrin Aybara
+| status=Alive
+| mentioned= {{tdr|22}}
+| appeared= {{tom|24}}
+| lastappeared={{tom|24}}
+| living=tom
+}}'''Jaim Dawtry''' is a farmer from the [[Two Rivers]].{{ref|{{twotc}}, Jaim Dawtry}}
+
+== Activities ==
+He is mentioned in [[Egwene]]'s first trial during her testing to become an [[Accepted]].{{ref/book|3|22}}
+
+He is one of the men in [[Perrin Aybara|Perrin Aybara's]] army assigned to guard his tent at night.
+
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Dawtry, Jaim}}
+[[Category:Farmers]]

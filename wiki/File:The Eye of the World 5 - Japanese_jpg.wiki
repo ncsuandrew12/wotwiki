@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover Art
+| Description             = The Japanese cover for ''[[The Eye of the World 5]]''
+| Source                  = ''[[The Eye of the World 5]]''
+| Artist                  = Katou Toshiaki
+}}
+[[Category:The Eye of the World covers]]

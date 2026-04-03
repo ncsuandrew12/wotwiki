@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| hair=Brown, streaked with white
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Aethan Dor
+| status=Alive
+| appeared={{tfoh|41}}
+| lastappeared={{tfoh|41}}
+| living=tfoh
+}}
+'''Juranai''' is an [[Aiel]] leader of the [[Red Shield]] society.
+
+== Appearance ==
+He is slender with pale streaks of white in his brown hair.
+
+== Activities ==
+He is present when the Aiel begin their attack on the [[Shaido]] who are laying siege to [[Cairhien]].

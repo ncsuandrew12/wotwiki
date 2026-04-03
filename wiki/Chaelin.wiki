@@ -1,0 +1,30 @@
+{{ character 
+| image=Chaelin.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| hair=Graying
+| clan=Miagoma
+| sept=Smoke Water
+| status=Alive
+| appeared={{loc|19}}
+| lastappeared={{loc|19}}
+| lastmentioned={{tpod|12}}
+| living=tpod
+}}'''Chaelin''' is an [[Aiel]] [[Wise One]] of the [[Smoke Water]] [[Miagoma]] clan.
+
+== Appearance ==
+She has touches of gray in her hair.
+
+==Strength and Abilities==
+Chaelin can [[channel]] quite strongly. In TWoTC her strength level is described as {{opsl|25}}, the same level of [[Tamra]] and [[Gitara]], which is a high ranking level among [[Aes Sedai]].
+
+This strength is more than enough to open alone a gateway for [[Travel]]ing.
+
+== Activities ==
+She is one of the many Wise Ones who settle into [[Cairhien]] after the battle with the [[Shaido]].
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.
+[[Category:Channelers]]

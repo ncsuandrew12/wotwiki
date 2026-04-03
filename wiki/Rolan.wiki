@@ -1,0 +1,30 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|1000}}
+| nationality=Aiel
+| gender=Male
+| affiliation=Sevanna
+| height=Tall
+| eyes=Blue
+| status=Dead
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Mera'din
+| appeared={{tpod|30}}
+| lastappeared={{kod|30}}
+| lastmentioned={{tom|29}}
+}}
+'''Rolan''' was a ''[[Mera'din]]'' that had joined the [[Shaido]] [[Aiel]]. 
+
+== Appearance ==
+He was tall with wide shoulders. He had blue eyes.
+
+== Activities ==
+He was part of the Shaido raiding group that capture [[Faile Bashere]], [[Morgase Trakand]] and [[Alliandre Maritha Kigarin]] and made them ''[[gai'shain]]''. He was the one to subdue Faile,{{ref/book|8|30}} which makes her his ''gai'shain'' by the usual rules. He carried [[Faile]] to the camp of the [[Shaido]], spanking her bottom when she wriggles to try and stay awake, something [[Faile]] welcomes in the depths of her exhausted, frost-bitten half-sleep.{{ref/book|9|3}} Rolan had a special interest in [[Faile]] even after [[Sevanna]] claims her, coming to her aid a number of times.{{ref/book|10|9}}
+
+He overheard Faile's plan to escape but didn't seem to worry, telling her that a number of the ''Mera'din'' are planning on returning to the Waste. He continued to try and court her in the Aiel fashion and planned on helping her escape.{{ref/book|11|5}}
+He came to help rescue Faile when she was trapped in a burnt-out old building. However, when [[Perrin Aybara]] comes to rescue his wife, Rolan (not knowing his identity and seeing only an enemy) rushes to attack him. Faile calls out to Perrin, causing Rolan to hesitate, and Perrin smashes his head with his hammer, killing him instantly.{{ref/book|11|30}}
+
+{{notes}}
+[[es:Rolan]]

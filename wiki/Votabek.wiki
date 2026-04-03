@@ -1,0 +1,23 @@
+{{ character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Domani
+| occupation=Soldier
+| affiliation=Rand al'Thor
+| gender=Male
+| rank=lieutenant
+| appeared={{tom|25}}
+| lastappeared={{tom|25}}
+| living=tom
+}}'''Votabek''' is a [[Domani]] soldier who was in the King's Guard.
+
+== Activities ==
+After King [[Alsalam Saeed Almadar]] goes missing, the King's Guard is disbanded by [[Milisair Chadmar]]. Votebek becomes a street tough guarding rich merchants. When [[Rand al'Thor]] returned to [[Bandar Eban]], he promoted Votabek to lieutenant and charged him with the duty of restoring order to the city.{{ref|{{twotc}}, Votabek}}
+
+== Trivia == 
+* Votabek is named for Nicholas Votrobeck, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Thugs]]
+[[Category:Characters named after fans]]

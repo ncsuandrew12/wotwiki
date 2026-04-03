@@ -1,0 +1,527 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+
+''[[Winter's Heart]]'' contains 35 chapters and a prologue and consists of 29 unique POVs and 73 individual POVs. It has a total word count of 238,825 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="5" | [[Winter's Heart/Prologue|Prologue: Snow]]
+| Quote
+| align="right" | 54
+| align="right" | 0.0226%
+|-
+| [[Seaine Herimon]]
+| align="right" | 3,594
+| align="right" | 1.5049%
+|-
+| [[Elayne Trakand]]
+| align="right" | 12,438
+| align="right" | 5.2080%
+|-
+| [[Toveine Gazal]]
+| align="right" | 5,901
+| align="right" | 2.4708%
+|-
+| [[Rand al'Thor]]
+| align="right" | 5,209
+| align="right" | 2.1811%
+|-
+| [[Winter's Heart/Chapter 1|Ch1: Leaving the Prophet]]
+| [[Perrin Aybara]]
+| align="right" | 4,065
+| align="right" | 1.7021%
+|-
+| [[Winter's Heart/Chapter 2|Ch2: Taken]]
+| [[Perrin Aybara]]
+| align="right" | 5,321
+| align="right" | 2.2280%
+|-
+| [[Winter's Heart/Chapter 3|Ch3: Customs]]
+| [[Faile Bashere]]
+| align="right" | 4,694
+| align="right" | 1.9655%
+|-
+| [[Winter's Heart/Chapter 4|Ch4: Offers]]
+| [[Faile Bashere]]
+| align="right" | 6,829
+| align="right" | 2.8594%
+|-
+| [[Winter's Heart/Chapter 5|Ch5: Flags]]
+| [[Perrin Aybara]]
+| align="right" | 4,042
+| align="right" | 1.6925%
+|-
+| [[Winter's Heart/Chapter 6|Ch6: The Scent of Madness]]
+| [[Perrin Aybara]]
+| align="right" | 6,850
+| align="right" | 2.8682%
+|-
+| [[Winter's Heart/Chapter 7|Ch7: The Streets of Caemlyn]]
+| [[Elayne Trakand]]
+| align="right" | 6,384
+| align="right" | 2.6731%
+|-
+| [[Winter's Heart/Chapter 8|Ch8: Sea Folk and Kin]]
+| [[Elayne Trakand]]
+| align="right" | 7,313
+| align="right" | 3.0621%
+|-
+| [[Winter's Heart/Chapter 9|Ch9: A Cup of Tea]]
+| [[Elayne Trakand]]
+| align="right" | 4,764
+| align="right" | 1.9948%
+|-
+| rowspan="3" | [[Winter's Heart/Chapter 10|Ch10: A Plan Succeeds]]
+| [[Elayne Trakand]]
+| align="right" | 7,551
+| align="right" | 3.1617%
+|-
+| [[Asne Zeramene]]
+| align="right" | 1,662
+| align="right" | 0.6959%
+|-
+| [[Mili Skane]]
+| align="right" | 1,087
+| align="right" | 0.4551%
+|-
+| rowspan="2" | [[Winter's Heart/Chapter 11|Ch11: Ideas of Importance]]
+| [[Rand al'Thor]]
+| align="right" | 2,675
+| align="right" | 1.1201%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 7,571
+| align="right" | 3.1701%
+|-
+| rowspan="3" | [[Winter's Heart/Chapter 12|Ch12: A Lily in Winter]]
+| [[Elayne Trakand]]
+| align="right" | 5,731
+| align="right" | 2.3997%
+|-
+| [[Min Farshaw]]
+| align="right" | 2,706
+| align="right" | 1.1330%
+|-
+| [[Elayne Trakand]]
+| align="right" | 343
+| align="right" | 0.1436%
+|-
+| rowspan="2" | [[Winter's Heart/Chapter 13|Ch13: Wonderful News]]
+| [[Cadsuane Melaidhrin]]
+| align="right" | 4,589
+| align="right" | 1.9215%
+|-
+| [[Demandred]]
+| align="right" | 2,238
+| align="right" | 0.9371%
+|-
+| [[Winter's Heart/Chapter 14|Ch14: What a Veil Hides]]
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 3,630
+| align="right" | 1.5199%
+|-
+| [[Winter's Heart/Chapter 15|Ch15: In Need of a Bellfounder]]
+| [[Matrim Cauthon]]
+| align="right" | 4,409
+| align="right" | 1.8461%
+|-
+| [[Winter's Heart/Chapter 16|Ch16: An Unexpected Encounter]]
+| [[Matrim Cauthon]]
+| align="right" | 5,996
+| align="right" | 2.5106%
+|-
+| [[Winter's Heart/Chapter 17|Ch17: Pink Ribbons]]
+| [[Matrim Cauthon]]
+| align="right" | 6,313
+| align="right" | 2.6434%
+|-
+| [[Winter's Heart/Chapter 18|Ch18: An Offer]]
+| [[Matrim Cauthon]]
+| align="right" | 5,968
+| align="right" | 2.4989%
+|-
+| [[Winter's Heart/Chapter 19|Ch19: Three Women]]
+| [[Matrim Cauthon]]
+| align="right" | 6,074
+| align="right" | 2.5433%
+|-
+| [[Winter's Heart/Chapter 20|Ch20: Questions of Treason]]
+| [[Bethamin Zeami]]
+| align="right" | 4,950
+| align="right" | 2.0726%
+|-
+| [[Winter's Heart/Chapter 21|Ch21: A Matter of Property]]
+| [[Egeanin Tamarath]]
+| align="right" | 4,622
+| align="right" | 1.9353%
+|-
+| rowspan="4" | [[Winter's Heart/Chapter 22|Ch22: Out of Thin Air]]
+| [[Rand al'Thor]]
+| align="right" | 3,433
+| align="right" | 1.4375%
+|-
+| [[Raefar Kisman]]
+| align="right" | 771
+| align="right" | 0.3228%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,789
+| align="right" | 0.7491%
+|-
+| [[Slayer]]
+| align="right" | 705
+| align="right" | 0.2952%
+|-
+| [[Winter's Heart/Chapter 23|Ch23: To Lose the Sun]]
+| [[Shalon din Togara Morning Tide]]
+| align="right" | 6,617
+| align="right" | 2.7706%
+|-
+| [[Winter's Heart/Chapter 24|Ch24: Among the Counsels]]
+| [[Shalon din Togara Morning Tide]]
+| align="right" | 4,734
+| align="right" | 1.9822%
+|-
+| rowspan="2" | [[Winter's Heart/Chapter 25|Ch25: Bonds]]
+| [[Rand al'Thor]]
+| align="right" | 4,618
+| align="right" | 1.9336%
+|-
+| [[Verin Mathwin]]
+| align="right" | 1,116
+| align="right" | 0.4673%
+|-
+| [[Winter's Heart/Chapter 26|Ch26: Expectation]]
+| [[Elayne Trakand]]
+| align="right" | 6,314
+| align="right" | 2.6438%
+|-
+| [[Winter's Heart/Chapter 27|Ch27: To Surprise Queens and Kings]]
+| [[Elayne Trakand]]
+| align="right" | 7,222
+| align="right" | 3.0240%
+|-
+| [[Winter's Heart/Chapter 28|Ch28: News in a Cloth Sack]]
+| [[Matrim Cauthon]]
+| align="right" | 6,734
+| align="right" | 2.8196%
+|-
+| [[Winter's Heart/Chapter 29|Ch29: Another Plan]]
+| [[Matrim Cauthon]]
+| align="right" | 6,136
+| align="right" | 2.5692%
+|-
+| [[Winter's Heart/Chapter 30|Ch30: Cold, Fat Raindrops]]
+| [[Matrim Cauthon]]
+| align="right" | 3,726
+| align="right" | 1.5601%
+|-
+| [[Winter's Heart/Chapter 31|Ch31: What the Aelfinn Said]]
+| [[Matrim Cauthon]]
+| align="right" | 5,102
+| align="right" | 2.1363%
+|-
+| [[Winter's Heart/Chapter 32|Ch32: A Portion of Wisdom]]
+| [[Rand al'Thor]]
+| align="right" | 5,309
+| align="right" | 2.2230%
+|-
+| rowspan="2" | [[Winter's Heart/Chapter 33|Ch33: Blue Carp Street]]
+| [[Min Farshaw]]
+| align="right" | 1,411
+| align="right" | 0.5908%
+|-
+| [[Rand al'Thor]]
+| align="right" | 3,359
+| align="right" | 1.4065%
+|-
+| rowspan="3" | [[Winter's Heart/Chapter 34|Ch34: The Hummingbird's Secret]]
+| [[Nynaeve al'Meara]]
+| align="right" | 1,189
+| align="right" | 0.4979%
+|-
+| [[Rand al'Thor]]
+| align="right" | 621
+| align="right" | 0.2600%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 1,685
+| align="right" | 0.7055%
+|-
+| rowspan="21" | [[Winter's Heart/Chapter 35|Ch35: With the ''Choedan Kal'']]
+| [[Rand al'Thor]]
+| align="right" | 3,924
+| align="right" | 1.6430%
+|-
+| [[Elza Penfell]]
+| align="right" | 584
+| align="right" | 0.2445%
+|-
+| [[Barmellin]]
+| align="right" | 277
+| align="right" | 0.1160%
+|-
+| [[Timna]]
+| align="right" | 186
+| align="right" | 0.0779%
+|-
+| [[Cyndane]]
+| align="right" | 305
+| align="right" | 0.1277%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 368
+| align="right" | 0.1541%
+|-
+| [[Rand al'Thor]]
+| align="right" | 141
+| align="right" | 0.0590%
+|-
+| [[Demandred]]
+| align="right" | 749
+| align="right" | 0.3136%
+|-
+| [[Cyndane]]
+| align="right" | 119
+| align="right" | 0.0498%
+|-
+| [[Osan'gar]]
+| align="right" | 396
+| align="right" | 0.1658%
+|-
+| [[Verin Mathwin]]
+| align="right" | 225
+| align="right" | 0.0942%
+|-
+| [[Eben Hopwil]]
+| align="right" | 474
+| align="right" | 0.1985%
+|-
+| [[Cyndane]]
+| align="right" | 398
+| align="right" | 0.1666%
+|-
+| [[Moghedien]]
+| align="right" | 305
+| align="right" | 0.1277%
+|-
+| [[Rand al'Thor]]
+| align="right" | 120
+| align="right" | 0.0502%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 627
+| align="right" | 0.2625%
+|-
+| [[Osan'gar]]
+| align="right" | 236
+| align="right" | 0.0988%
+|-
+| [[Elza Penfell]]
+| align="right" | 217
+| align="right" | 0.0909%
+|-
+| [[Moghedien]]
+| align="right" | 342
+| align="right" | 0.1432%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 620
+| align="right" | 0.2596%
+|-
+| Narrator
+| align="right" | 48
+| align="right" | 0.0201%
+|-
+|}
+
+
+==Unique POV Breakdown==
+{| class="wikitable sortable"
+!Character
+!# of POVs
+!% of Total POVs (73)
+!Total Word Count (238,825)
+!% of Word Count
+|-
+| Quote
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 54
+| align="right" | 0.0226%
+|-
+| [[Seaine Herimon]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 3,594
+| align="right" | 1.5049%
+|-
+| [[Elayne Trakand]]
+| align="right" | 9
+| align="right" | 12.3288%
+| align="right" | 58,060
+| align="right" | 24.3107%
+|-
+| [[Toveine Gazal]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 5,901
+| align="right" | 2.4708%
+|-
+| [[Rand al'Thor]]
+| align="right" | 11
+| align="right" | 15.0685%
+| align="right" | 31,198
+| align="right" | 13.0631%
+|-
+| [[Perrin Aybara]]
+| align="right" | 4
+| align="right" | 5.4795%
+| align="right" | 20,278
+| align="right" | 8.4907%
+|-
+| [[Faile Bashere]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 11,523
+| align="right" | 4.8249%
+|-
+| [[Asne Zeramene]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 1,662
+| align="right" | 0.6959%
+|-
+| [[Mili Skane]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 1,087
+| align="right" | 0.4551%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 8,760
+| align="right" | 3.6680%
+|-
+| [[Min Farshaw]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 4,117
+| align="right" | 1.7239%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 5
+| align="right" | 6.8493%
+| align="right" | 7,889
+| align="right" | 3.3033%
+|-
+| [[Demandred]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 2,987
+| align="right" | 1.2507%
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 3,630
+| align="right" | 1.5199%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 9
+| align="right" | 12.3288%
+| align="right" | 50,458
+| align="right" | 21.1276%
+|-
+| [[Bethamin Zeami]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 4,950
+| align="right" | 2.0726%
+|-
+| [[Egeanin Tamarath]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 4,622
+| align="right" | 1.9353%
+|-
+| [[Raefar Kisman]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 771
+| align="right" | 0.3228%
+|-
+| [[Slayer]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 705
+| align="right" | 0.2952%
+|-
+| [[Shalon din Togara Morning Tide]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 11,351
+| align="right" | 4.7529%
+|-
+| [[Verin Mathwin]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 1,341
+| align="right" | 0.5615%
+|-
+| [[Elza Penfell]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 801
+| align="right" | 0.3354%
+|-
+| [[Barmellin]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 277
+| align="right" | 0.1160%
+|-
+| [[Timna]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 186
+| align="right" | 0.0779%
+|-
+| [[Cyndane]]
+| align="right" | 3
+| align="right" | 4.1096%
+| align="right" | 822
+| align="right" | 0.3442%
+|-
+| [[Osan'gar]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 632
+| align="right" | 0.2646%
+|-
+| [[Eben Hopwil]]
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 474
+| align="right" | 0.1985%
+|-
+| [[Moghedien]]
+| align="right" | 2
+| align="right" | 2.7397%
+| align="right" | 647
+| align="right" | 0.2709%
+|-
+| Narrator
+| align="right" | 1
+| align="right" | 1.3699%
+| align="right" | 48
+| align="right" | 0.0201%
+|-
+|}
+[[Category:Statistical analysis]]

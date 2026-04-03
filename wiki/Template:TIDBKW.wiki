@@ -1,0 +1,2 @@
+<includeonly>{{TLlink|https://www.theoryland.com/intvsresults.php?kw&equals;{{{1|}}}|{{{2|{{{1}}}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

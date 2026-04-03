@@ -1,0 +1,4 @@
+<div class="noprint" id="shortcut" style="border:1px solid #999; background:#585858; margin:0 0 .5em 1em; text-align:center; padding:5px; clear:right; font-size:smaller;float:right;">
+'''[[Help:Shortcut|Shortcut]]'''<br />
+'''{{{1}}}'''
+</div><noinclude>[[Category:Linking templates|{{PAGENAME}}]]</noinclude>

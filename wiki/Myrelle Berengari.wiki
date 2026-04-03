@@ -1,0 +1,101 @@
+{{character
+| image=Myrelle Berengari.jpg
+| imagesize=250px
+| ajah=Green
+| gender=Female
+| nationality=Altaran
+| rank=Aes Sedai
+| affiliation=White Tower
+| eyes=Dark, large
+| hair=Dark
+| status=Alive
+| appeared={{ns|3}} 
+| lastappeared={{amol|31}}
+| living=amol
+| ewot=myrelle
+|birth = {{ne|954}}}}
+{{quote|Mercurial and fiery described her best. She would not know patience if it bit her on the nose.|[[Egwene al'Vere]]'s thoughts on Myrelle{{ref/book|10|19}}}}
+'''Myrelle Berengari''' (pronounced: my-REHL beh-renh-GAH-ree) is an [[Aes Sedai]] of the [[Green Ajah]].{{ref/book|3|3}}{{ref|{{twotc}}, Myrelle Berengari}}
+
+== Appearance and Personailty ==
+Myrelle is described as darkly beautiful with an oval face and smooth, olive skin. She has large, dark eyes and dark hair{{ref/book|5|27}}{{ref/book|7|11}}. She is about 5'4 tall.
+
+She owns bright green skirts.
+
+She is impatient and has a particularly fiery temper, even among the Greens.{{ref/book|10|19}} She often wears a knowing smile.
+
+==Strength and Abilities==
+Myrelle is [[Strength in the One Power among Aes Sedai|strong]] in the [[One Power]] by Aes Sedai standards, with a strength level of {{opsl|21}}. Among the [[Salidar Six]], she is equalled by [[Morvrin Thakanos]], [[Anaiya Carel]] and [[Carlinya Sorevin]]. [[Sheriam Bayanar]] is slightly stronger, and [[Beonin Marinye]] slightly weaker.
+
+She has a little [[Talent]] with [[Healing]], but no more than [[Siuan Sanche]].{{ref/book|7|12}}
+
+Myrelle is known to be particularly successful in saving [[Warders]] from the death wish that overtakes them following the passing of their own Aes Sedai{{ref/book|7|12}}; all of her current Warders, except for [[Croi Makin]], have previously lost their bonded sister. [[Llyw]] was formerly bonded to [[Kairen Stang]] until her murder; [[Faiselle]] convinces Myrelle to take his bond due to her reputation.
+
+==History==
+Myrelle is 46 years old. She was born in the year {{ne|954}} and went to the Tower in [[968 NE]]. After spending seven years as [[novice]] and five as [[Accepted]] she was raised to the shawl in the year [[980 NE]].
+
+Myrelle is from [[Ebou Dar]]{{ref/book|6|12}}. She was a novice during the [[Aiel War]], and was raised to Accepted{{ref/book|0|3}} during the same year as her friends [[Moiraine Damodred]] and [[Siuan Sanche]]; but she was raised to the shawl around one year and half after Siuan and Moiraine.
+
+When Moiraine and Siuan were being trained and punished by Elaida in the use of the One Power, in preparation to be tested as Aes Sedai, Myrelle was one of those who helped treat their wounds. Myrelle, [[Sheriam Bayanar|Sheriam]] and [[Ellid Abareim|Ellid]] wanted to tell the Mistress of Novices, but Moiraine and Siuan refused. Elaida was caught though, and Moiraine suspected that one of the three told the Mistress.
+
+When Moiraine and Siuan are raised, Myrelle is happy for them; but at the same time is sad as she knows Accepted cannot be friends wirh Aes Sedai. However, their friendship is rekindled when Myrelle is herself raised.
+
+==Activities==
+=== Salidar leaders===
+She was one of the original leaders of the [[rebel Aes Sedai]]{{ref/book|5|27}}, known informally to fans as the [[Salidar Six]]{{ref/book|6|12}}, and was made [[Captain-General (Green Ajah)|Captain-General]] of the Green Ajah among the rebel Aes Sedai{{ref/book|6|40}}.
+
+While searching the [[Amyrlin Seat|Amyrlin]]'s study in ''[[Tel'aran'rhiod]]'' for information on what [[Elaida do Avriny a'Roihan]] has received, the Salidar Six are attacked by a stray nightmare of [[Trolloc]]s. They are saved when [[Elayne Trakand]] and Siuan remind them about the dream not being real, in which case the nightmare fades away leaving only injury{{ref/book|6|7}}.
+
+Later she leads [[Nynaeve al'Meara]] into the [[Little Tower]] to show the rest of the Aes Sedai, especially those of the [[Yellow Ajah]], that Nynaeve has worked out how to [[Healing|Heal]] [[stilling]] by Healing [[Leane Sharif]] and Siuan{{ref/book|6|30}}.
+
+She is with the rest of the Salidar Six in ''Tel'aran'rhiod'' when they summon [[Egwene al'Vere]] to become Amyrlin{{ref/book|6|35}}.
+
+She is one of the three Aes Sedai to escort Egwene into the Little Tower when Egwene raised{{ref/book|6|35}}.
+
+She hides Lan coming to [[Salidar]], and enlists her friend [[Nisao Dachen]] of the Yellow to help treat Lan. They are blackmailed by [[Nicola Treehill]] for extra lessons to hide this fact. Egwene arrives and tells Lan to find Nynaeve in Ebou Dar. Egwene then demands Myrelle to pledge an oath of fealty to her, to avoid punishment for taking Lan's bond without his consent; which she does{{ref/book|7|12}}.
+
+Egwene sends her to a secret meeting with the group of nobles that block the Salidar army on the border of [[Andor]]{{ref/book|7|15}}.
+
+=== Egwene's council ===
+She has become a member of Egwene's council, a position she would have gotten easily, as head of the Green Ajah among the Rebels. She is with Egwene and [[Gareth Bryne]] when they survey the area around [[Tar Valon]]{{ref/book|10|16}}.
+She is present when Egwene reveals her plan to [[Romanda Cassin]] about when an Aes Sedai retires: that Aes Sedai would unbind herself from the [[Oath Rod]] and join the [[Kin]].
+
+She is in council with Egwene's other advisors over Egwene's disappearance, when Siuan arrives with the news that she is still alive but prisoner inside the White Tower{{ref/book|11|1}}.
+
+She is part of the delegation sent to the [[Black Tower]] and has not been heard from in some time{{ref/book|12|45}}.
+
+When [[Androl Genhald]] and [[Pevara Tazanovni]] cleanse the Black Tower from [[Turned]] channellers and [[Darkfriends]], Myrelle, together with, among others, [[Lyrelle]] and [[Seaine Herimon]] greeted them in order to bond the promised forty-seven [[Asha'man]] given them by the [[Dragon Reborn]]{{ref/book|14|21}}. Lyrelle thinks that Myrelle, with her numerous Warders and her strength in the Power, is one of those that Lyrelle made sure to keep with her the whole time for protection.
+
+Presumably, Myrelle chose any Asha'man she wanted and was officially relieved of her position, since [[Adelorna Bastine]] retained her office as Captain-General in the reunified White Tower. She sends a message back to Egwene about the process of [[Turning]] that was happening in the Black Tower. During the first events of the Last Battle, Myrelle is described fighting in the Kandori battlefront along her Warders and a cluster of other sisters{{ref/book|14|31}}.
+
+It is presumed that she also fought during the entire [[Last Battle]] in Merrilor and survived.
+
+==Warders==
+At the start of the Last Battle, Myrelle is bonded to six [[Warder]]s, a large number even for a Green sister; no known Green Sisters introduced in the books had six at the same time, although the legendary Green [[Rashima Kerenmosa]] was known to have five at the time of her death. These six are [[Avar Hachami]], [[Croi Makin]], [[Nuhel Dromand]],  [[Llyw]] and two male channelers bonded as part of the agreement with the [[Black Tower]].{{ref/book|14|21}} Of those trained in the White Tower, Croi was the only one she had not saved from death after his Aes Sedai died (although with Moiraine her death was only assumed). Lan's bond passed to Myrelle when Moiraine Damodred, anticipating her own death, threw herself into the [[twisted redstone doorframe]].{{ref/book|5|53}}
+
+{{quote|Of course - they say she marries her Warders. All of them. Perhaps poor Llyw won't do for a husband.|[[Lelaine Akashi]] about Myrelle{{ref/book|10|30}}}}
+
+Rumor has it that Myrelle is married to three of them (Avar, Croi and Nuhel). She seduced and had sex with Lan in an attempt to save him and it is not certain if she has taken that approach with Llew, although it can be assumed. This approach, although ethically questionable, appears to be successful. While in ''Tel'aran'rhiod'', Myrelle is shown wearing three [[marriage knife|marriage knives]], and briefly four. This gives added weight to the rumor. The fourth, at the time, was most likely for Lan.{{ref/book|6|7}}
+
+At one stage she proposes that [[Matrim Cauthon]] become her Warder as well, which he rejects.{{ref/book|6|44}}
+
+Myrelle attempted to keep Lan alive until someone more suitable was ready. It was clear that she knew that someone was Nynaeve, but Myrelle felt that Nynaeve was not ready.{{ref/book|7|12}} Myrelle tried to move things along by urging lessons to break Nynaeve's [[block]],{{ref/book|6|8}} while not revealing the reason to Nynaeve. Myrelle still did not think Nynaeve was ready when her block is broken, though, nor when she was given Aes Sedai status by Egwene. When Nynaeve and Lan married, Myrelle still held the bond, much to Nynaeve's chagrin. Finally, after passing the test to become formally raised to the shawl, Nynaeve comes to claim the bond of her husband, threatening harm for refusal as she had not yet taken the [[Three Oaths]]. Myrelle then passed on Lan's bond.{{ref/book|13|20}} This may have been for the best, as it is not known what effect Nynaeve's Aes Sedai testing would have had if she had held Lan's bond then.
+
+{{notes}}<references />
+{{Primary Protagonists}}
+{{DEFAULTSORT:Berengari, Myrelle}}
+[[es:Myrelle Berengari]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Ajah Heads]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Berengari, Myrelle}}
+[[es:Myrelle Berengari]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Ajah Heads]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

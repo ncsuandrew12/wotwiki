@@ -1,0 +1,37 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| ewot=Milisair
+| affiliation=Council of Merchants
+| occupation =Merchant
+| title=Lady
+| nationality=Arad Doman
+| gender=Female
+| build=Curvy
+| hair=Dark, in tight curls, past her shoulders
+| status=Alive
+| appeared={{tgs|29}}
+| lastappeared={{tgs|32}}
+| lastmentioned={{tom|25}}
+| living=tgs
+}}
+
+'''Milisair Chadmar''' lives in [[Bandar Eban]] and is a member of the Domani's [[Council of Merchants]].  
+
+== Appearance ==
+
+Milisair is a woman barely into her thirties who takes full advantage of the famous style of Domani dress to show off her curves. She has dark hair with tight curls past her shoulders.
+
+== Activities ==
+
+Rand questioned Milisair regarding the messenger supposedly sent by King [[Alsalam Saeed Almadar]]. While she first claimed no knowledge of the messenger's whereabouts, Rand suspected she was not forthcoming in her information and demanded she produce this messenger "...and perhaps you [Milisair] will live to see a new king crowned."{{ref/book|12|29}}
+
+Later, an apprehensive Milisair approached the Lord Dragon and revealed that she had the messenger imprisoned. Further, the men assigned to watch him provided such poor treatment that the messenger died while in this dungeon. Knowing Rand would be less than thrilled at her actions, Milisair was caught by [[Jalani]], a [[Maiden of the Spear]], packing her things as if planning to escape the city in a "moment of weakness." Rand opted not to execute her for treason, as she would be needed to choose a new king, but instead sentenced her to be locked in the same dungeon in which the messenger had died.{{ref/book|12|31}}
+
+[[Nynaeve]] was appalled by the conditions of Milisair's prison, and checked with a [[Delving]] of Spirit to make certain the woman was not ill beyond exhaustion and hunger. In fact, Milisair had been poisoned with [[tarchrot]] leaf by [[Kerb]], the young apprentice who prepared food for prisoners and who was under Graendal's Compulsion. Milisair was saved by Nynaeve's [[Healing]].{{ref/book|12|32}}
+
+Milisair fled Bandar Eban an hour after Rand left the city, followed soon after by the rest of the Council of Merchants, leaving the city without leadership in its time of hunger and need.{{ref/book|13|25}}
+
+{{notes}}
+
+{{DEFAULTSORT:Chadmar, Milisari}}

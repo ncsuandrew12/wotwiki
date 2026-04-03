@@ -1,0 +1,5 @@
+'''Catfern''' is an [[herbs|herb]] that can be found in the [[Two Rivers]] region. A village [[Wisdom]] such as [[Nynaeve]] can boil the catfern and mix with powdered [[mavinsleaf]] to form a viscous sickly green liquid with an atrociously acrid tang. The concoction is harmless, but the highly unpleasant taste makes drinking it a punishment administered for someone who lies.{{ref/book|5|15}}
+
+{{notes}}
+{{short}}
+[[Category:Herbs and Medicines]]

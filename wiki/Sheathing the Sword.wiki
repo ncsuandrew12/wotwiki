@@ -1,0 +1,19 @@
+{{swordform
+| mentioned={{2|9}}
+| used=Mentioned by [[Lan Mandragoran]], used by [[Ingtar Shinowa]] and [[Rand al'Thor]] and Lan Mandragoran
+}}
+{{quote|There will come a time when you must achieve a goal at all costs. It may come in attack or in defense. And the only way will be to allow the sword to be sheathed in your own body. ... when the price is worth the gain, and there is no other choice left to you. That is called Sheathing the Sword. Remember it.|[[Lan Mandragoran]]}}
+{{dablink|For other uses of the word "sword," see [[Sword]].}}
+'''Sheathing the Sword''' is a concept that encompasses [[sword forms]].
+
+==Description==
+When victory must be won at all costs, the swordsman allows the opponent's weapon, usually a sword, to be sheathed in his own body. By luring the enemy into making a cut, the enemy comes close enough to be killed. 
+
+==In practice==
+[[Lan Mandragoran]] first taught this concept to [[Rand al'Thor]] as Rand was leaving [[Fal Dara]].{{ref/book|2|9}} Rand first sees this in use when [[Ingtar Shinowa]] defended a narrow alley to the death so that Rand and his companions can escape [[Falme]].{{ref/book|2|46}} Later, in the battle over Falme, Rand realizes he is fighting [[Ishamael]] to a stalemate, and he is running out of time. Rand used [[Heron Wading in the Rushes]] to allow the Betrayer of Hope to stab him. This lured Ishamael within Rand's cutting range, allowing Rand to finish him off.{{ref/book|2|47}}
+
+Lan also utilizes Sheathing the Sword in his duel against Demandred at the Field of Merrilor, allowing him to stab the Forsaken through the throat.
+
+Accordingly, Gawyn's decision to fight a [[bloodknife]] in the total darkness and expose himself by noise, can be considered a variant of this concept {{Ref/book|13|37}}. 
+
+{{notes}}<references />

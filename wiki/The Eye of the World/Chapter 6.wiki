@@ -1,0 +1,74 @@
+{{dablink|For the forest by the same name, see [[Westwood]]. For other uses of the word "wood," see [[Wood]].}}
+{{summary | book=1 | ewot=ch6 | wotmania=7 | tarvalon=237
+|chapter=6
+|title=The Westwood
+|icon=hilttall
+|setting=The [[Westwood]] near [[Emond's Field]], The [[Two Rivers]]
+}}
+
+==Summary==
+:{{pov|[[Rand al'Thor]]}}
+
+[[Rand al'Thor|Rand]] drags [[Tam al'Thor|Tam]] towards [[Emond's Field]] on a litter in the woods along the [[Quarry Road]]. At one point he has to hide from a party of [[Trolloc]]s led by a [[Myrddraal]]. During the journey, Tam talks feverishly, reliving old battles and finding Rand during the [[Blood Snow]]. He talks about [[Kari al'Thor]], Rand's mother, who died fifteen years ago. He raves about the [[Aiel War]] and [[Laman]]'s sin, the field at Marath, and [[Cairhien]] burning. Rand heads through the woods toward the village. While the [[Fade]] and its group pass by, Rand can feel the evil emanating from the dark creature. Tam cries out more about [[Avendoraldera]], the cutting of [[Avendesora]] that grew for five hundred years before [[Laman|King Laman]] cut it down. In some stories, [[Avendesora]] belongs to the [[Green Man]]. Tam also shouts about how pleased Kari will be that he found Rand on [[Dragonmount]]. Stunned, Rand wonders who he really is.
+
+[[File:Tam_al'Thor.PNG|thumb|150px|Tam finding Rand on Dragonmount]]
+{{quote|... battles are always hot, even in the snow. Sweat heat. Blood heat. Only death is cool. Slope of the mountain ... only place didn't stink of death. Had to get away from smell of it ... sight of it ... heard a baby cry. Their women fight alongside the men, sometimes, but why they had let her come, I don't ... gave birth there alone, before she died of her wounds ... covered the child with her cloak, but the wind ... blown the cloak away ... child, blue with the cold. Should have been dead, too ... crying there. Crying in the snow. I couldn't just leave a child ... no children of our own ... always knew you wanted children. I knew you'd take it to your heart, Kari. Yes, lass. Rand is a good name. A good name.|[[Tam al'Thor]]}}
+
+==Characters==
+* [[Rand al'Thor]]
+* [[Tam al'Thor]]
+
+===Referenced===
+* [[Kari al'Thor]]
+* [[Marin al'Vere]] - as ''Mistress al'Vere''
+* [[Laman Damodred]]
+* [[Haral Luhhan]]
+* [[Alsbet Luhhan]] - as ''his wife''
+* [[Cenn Buie]]
+* [[Matrim Cauthon|Mat Cauthon]]
+* [[Green Man]]
+
+==Groups==
+* [[Trolloc]]s
+* [[Myrddraal]] - as ''Fade''
+
+[[File:Myrddraal.png|thumb|150px|Fade on the Quarry Road]]
+
+===Referenced===
+* [[Gleeman]]
+* [[Ogier]]
+* [[Aiel]] - as ''Aielman''
+
+==Places==
+* [[Westwood]]
+* [[Quarry Road]]
+
+===Referenced===
+* [[Emond's Field]]
+* [[Dragonwall]]
+* [[Marath]]
+* [[Cairhien]]
+* [[Shining Walls]]
+* [[Mountains of Mist]]
+
+==Items==
+* [[Heron-mark sword]]
+
+===Referenced===
+* [[Avendesora]]
+* [[Avendoraldera]]
+
+==Events==
+===Referenced===
+* [[Laman Damodred|Laman's Sin]]
+
+==Concepts==
+* [[Light]]
+
+==Culture==
+===Songs===
+* ''[[Jaem's Folly]]''
+* ''[[Heron on the Wing]]''
+* ''[[The Wind in the Barley]]''
+
+{{DISPLAYTITLE:''The Westwood''}}

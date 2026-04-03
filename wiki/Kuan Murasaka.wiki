@@ -1,0 +1,24 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Female
+| appeared={{tfoh|47}}
+| lastappeared={{tfoh|47}}
+| living=tfoh
+}}
+'''Kuan Murasaka''' is an acrobat and part of [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]]
+
+==History==
+She is one of six sisters who are traveling acrobats called "The Murasaka Sisters". Despite being called "sisters," they look nothing alike, and are not actually related.<ref name=comp>[[The Wheel of Time Companion]], Murasaka sisters.</ref>
+
+
+==Activities==
+She and her five "sisters", one of whom is [[Andaya Murasaka]], join Valan Luca's Traveling Show when Luca hires them away from [[Sillia Cerano]]'s show.
+
+{{notes}}
+
+{{DEFAULTSORT:Murasaka, Kuan}}

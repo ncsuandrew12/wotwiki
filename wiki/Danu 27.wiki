@@ -1,0 +1,17 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Danu}}
+|}
+'''Danu 27 (December 20)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Colavaere Saighan]] meets with her allies, plotting to gain the [[Sun Throne]].
+*{{ne|999}} - [[Rand]] kills two of [[Erian Boroleos]]'s [[Warders]] when he discovers [[Min]] is also held captive by the [[Elaida a'Roihan's White Tower|Tower Aes Sedai]].
+*{{ne|999}} - A message from [[Galina Casban]] telling of Rand's capture arrives at the [[White Tower]].
+<noinclude>
+==External links==
+*[[wikipedia:december 20|December 20]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

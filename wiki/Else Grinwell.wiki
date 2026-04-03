@@ -1,0 +1,38 @@
+{{character 
+| image=NoviceIcon.png
+| imagesize=250px
+| status=Alive
+| nationality=Andor
+| gender=Female
+| weight=Plump
+| hair=Dark
+| appeared={{Teotw|31}}
+| lastappeared={{tgh|39}}
+| lastmentioned={{tsr|6}}
+| living=tdr
+}}
+'''Else Grinwell''' is the eldest daughter of nine children, living on a farm between [[Whitebridge]] and [[Arien]]. 
+
+After meeting [[Rand al'Thor]] and [[Mat Cauthon]], Else seeks adventure and goes to the [[White Tower]] to enroll as a [[novice]], although she is a very weak channeler and is lazy as a novice, and is sent away from the Tower after a short amount of time. She is later impersonated by [[Lanfear]].
+
+==Appearance==
+She is dark-haired, big-eyed, pretty, and plump. Her dark hair is in braids.
+
+==Activities==
+When Rand and Mat are traveling to [[Caemlyn]], they stop at her family's farm. She flirts with Rand while he stays there.{{ref/book|1|31}} 
+
+Else ran away from home to go to the [[White Tower]] to train as a [[novice]] after meeting Rand and Mat,{{ref/book|2|24}} but was sent home when she shirked her works and studies.{{ref/book|3|29}} She would spend almost all her time at the Warder practice yards. She didn't want to work at learning; but her potential was very low, so the White Tower was willing to let her go in under a year.
+
+[[Lanfear]] used Else as a disguise twice while in the White Tower including once after Else had been sent away.{{ref/book|3|24}}{{ref/book|3|25}}
+
+== In the television series ==
+Else has not been cast in the [[The Wheel of Time (TV series)|television series]]. {{TVlink|Robyn Betteridge}} portrays {{TVlink|Helga Grinwell}}, another Grinwell daughter.
+
+{{notes}}
+{{DEFAULTSORT:Grinwell, Else}}
+[[es:Elsa Grinwell]]
+[[Category:Novices]]<references />
+{{DEFAULTSORT:Grinwell, Else}}
+[[es:Elsa Grinwell]]
+[[Category:Novices]]
+[[Category:Channelers]]

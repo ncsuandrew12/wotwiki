@@ -1,0 +1,17 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Alive
+| race=Ogier
+| gender=Female
+| mentioned={{tgh|35}}
+| lastmentioned={{loc|20}}
+| living=loc
+}}
+'''Iva daughter of [[Alar]]''' is an [[Ogier]] woman from [[Stedding Tsofu|''Stedding'' Tsofu]] and mother of [[Erith]].{{ref/book|2|35}}{{ref/book|6|20}}
+
+==History==
+Aside from her name and heritage, nothing is known about her.
+
+{{notes}}
+{{short}}

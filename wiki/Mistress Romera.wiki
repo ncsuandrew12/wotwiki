@@ -1,0 +1,29 @@
+{{ character 
+| image=KandorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Kandori
+| occupation=Shatayan
+| affiliation=Ethenielle Kirukon Materasu
+| gender=Female
+| hair=
+| appeared={{ns|22}}
+| lastappeared={{ns|24}}
+| living=ns
+}}
+
+Romera is the ''shatayan'' of the [[Aesdaishar Palace]] in [[Chachin]]. She is stately, straight-backed, and has graying hair that she keeps in a thick roll at the nape of her neck. She has charge of all the palace's servants.
+
+== Appearance ==
+Mistress Romera is a tall, handsome woman with hazel eyes.{{ref/book|0|24}}
+
+== Activities ==
+Romera personally conducts [[Lan Mandragoran]] to the Prince Consort, [[Brys Noramaga]]. She addresses Lan with more courtesy than would be expected from a head servant to an uncrowned king, which Lan believes hints at her personal belief that [[Malkier]] will rise once more.{{ref/book|0|22}}
+
+She later escorts Lady [[Moiraine Damodred]] [[Aes Sedai]] to the Prince after she makes herself known at the palace.{{ref/book|0|24}}
+
+{{notes}}
+[[Category:Women]]
+[[Category:Maids]]
+[[Category:Kandor (people)]]
+{{DEFAULTSORT:Romera}}

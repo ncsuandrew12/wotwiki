@@ -1,0 +1,24 @@
+Check it out, and let me know your thoughts! Report bugs and feedback to me here.
+
+To access the new FandomDesktop skin:
+* Go to [[Special:Preferences]]
+* In the top menu, select "Appearance"
+* Under "Skin" select "FandomDesktop"
+* Select any FandomDesktop preferences you want such as default light/dark mode, content width, and right rail collapse. (Personally I am all about that WIDE WIDTH experience.)
+* Click "Save" at the bottom
+
+You can also opt-out the same way, just go to Special:Preferences and switch the Skin from FandomDeskop back to Oasis.
+
+Helpful links!
+* [https://community.fandom.com/wiki/User_blog:MisterWoodhouse/The_FandomDesktop_opt-in_is_now_LIVE New blog post about opt-in]
+* [https://community.fandom.com/wiki/Help:FandomDesktop_preparation_guide FandomDesktop preparation guide]
+* [https://wot.fandom.com/f/p/4400000000000023342 FandomDesktop highlights with links to staff blog posts]
+* For admin: [https://community.fandom.com/wiki/User_blog:TimmyQuivy/FandomDesktop:_A_New_Experience_Has_A_New_Customization_Policy Blog about the customization policy]
+
+If you find a bug, please let me know about it! Along with the following:
+* A step-by-step process to reproduce the bug, and a link to where the bug was found. Screenshots are helpful!
+* Tell me what browser you are using: Chrome, Firefox, etc.
+* If it's related to editing, tell me what editor you are using: VisualEditor, VisualEditor - source mode (aka the 2017 editor), or the source editor (aka the 2010 editor). You can check which editor you're using in [[Special:Preferences]] under "Editing" for "Preferred editor".
+
+Post your feedback, questions, bug reports, etc. right here!
+[[Category:Blog posts]]

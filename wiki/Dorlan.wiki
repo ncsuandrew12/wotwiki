@@ -1,0 +1,36 @@
+'''Dorlan''' is a small village to the East of [[Tar Valon]]. Dorlan is the traditional, exclusive source of cheese for the [[White Tower]].{{ref/book|10|3}}
+
+The mayor of Dorlan is [[Garon Burlow]]. The village consists of fifteen houses, a village green and a cow barn for each house.
+
+== Activities ==
+When [[Covarla Baldene]] and eleven [[Aes Sedai]] escaped from the [[Battle of Dumai's Wells]] to secretly return to the [[White Tower]] to tell [[Elaida]] about the events, the [[Amyrlin]] sends them along the [[Younglings]] to the small village of Dorlan in order to hide the disaster from the [[Hall of the Tower|Hall]]. While the sisters are hosted in the houses, the [[Younglings]] are living in the barns. During this time, [[Tarna Feir]] and [[Katerine Alruddin]] come and go from the village, taking spare, and not-so-spare, rooms from the residents.
+
+[[Gawyn Trakand]] is leading his Younglings in Dorlan when they are caught there during the [[Siege of Tar Valon]]. Elaida orders them to start a guerilla campaign against the [[Rebel Aes Sedai|Rebel]]'s army; in that they are helped by the sisters hiding in Dorlan. Gawyn continues to use Dorlan as his main base of operations for the Younglings to harry the Rebel's forces.
+
+When the loyalists learn the [[Travel]] weaves from [[Beonin]]'s betrayal, Katerine returns to Dorlan to teach them the weave so they can use the it in their guerilla actions. While there Katerine reveals also to Gawyn the fate of [[Egwene]], so Gawyn leaves Dorlan definitively to reach the Rebel's Army.
+
+== Aes Sedai in Dorlan ==
+List of known Sisters that stayed for a while in Dorlan (ranked by strength):
+*[[Katerine Alruddin]], [[Red Ajah]], {{opsl|21}} reached Dorlan after escaping from Cairhien; returned to the Tower with Tarna
+*[[Tarna Feir]], Red Ajah, {{opsl|25}} reached Dorlan after returning from Salidar; returned to the Tower with Katerine
+*[[Narenwin Barda]], [[Yellow Ajah]], {{opsl|24}}-{{opsl|25}} sent by Elaida to replace Covarla as leader of the group
+
+*[[Covarla Baldene]] Red Ajah, {{opsl|27}} former leader of the group
+*[[Valene Sural]], Red Ajah, {{opsl|27}}
+*[[Chai Rugan]], Brown Ajah/Black Ajah, ≤ {{opsl|27}}
+*[[Lusonia Cole]], [[Green Ajah]], ≤ {{opsl|27}}
+*[[Hattori Gatano]], Green Ajah, ≤ {{opsl|27}}
+*[[Nubei Peldovni]], [[White Ajah]], ≤ {{opsl|27}}
+*[[Sanaiye Asaheen]], Green Ajah, ≤ {{opsl|27}}
+*[[Vasha]], Green Ajah, ≤ {{opsl|27}}
+*[[Wyndera Ovan]], White Ajah, ≤ {{opsl|27}}
+*[[Serafelle Tanisloe]], Brown Ajah, {{opsl|29}}
+*[[Teire Alentaine]], [[Gray Ajah]], {{opsl|38}}
+*[[Caren Endelle]], Red Ajah, {{opsl|43}}
+
+The final twelve are those Aes Sedai that managed to escape Dumai's Wells.
+{{notes}}
+
+[[es:Dorlan]]
+[[Category:Villages]]
+[[Category:Tar Valon]]

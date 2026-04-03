@@ -1,0 +1,8 @@
+{{swordform
+| mentioned={{12|28}}
+| used=[[Delarn]]
+}}
+'''Rat Gnawing the Grain''' is a [[sword form]]. Other than the name, nothing is known about it. While trapped in [[Hinderstap]], [[Matrim Cauthon]] saw [[Delarn]] use the form while being attacked by the villagers. This allowed Mat to help save Delarn.{{ref/book|12|28}}
+
+{{notes}}
+{{short}}

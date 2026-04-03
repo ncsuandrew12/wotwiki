@@ -1,0 +1,26 @@
+{{creature
+| image=Seanchan-icon.svg
+| imagesize=100px
+| ewot=Almandaragal
+| name=Almandaragal
+| type=pets
+| animal=Lopar
+| status=Alive
+| owner=Suroth Sabelle Meldarath
+| gender=Male
+| color=Reddish brown
+| appeared={{acos|26}}
+| lastappeared={{kod|p}}
+}}
+'''Almandaragal''' is a ''[[lopar]]'' that is kept by [[Suroth Sabelle Meldarath]].
+
+==Appearance==
+Almandaragal is a male ''lopar'' that is ten feet tall and weighs nearly two thousand pounds. His hairless skin is reddish brown. His forepaws have six toes each with retractable claws. His head is round and his wide mouth is full of sharp teeth.{{ref/book|11|Prologue}}
+
+==History==
+Almandaragal has been owned by Suroth since she was a child. One of the first commands that she taught him was "belly," because it amused her to have her ''lopar'' prostrate himself before her. Another command she taught him was "be at ease."{{ref/book|11|Prologue}}
+
+==Activities==
+When [[Morgase Trakand]] is brought before the High Lady Suroth in [[Amador]] , she is startled by Almandaragal. She notes that he makes a good guard dog.{{ref/book|7|26}} Suroth brought Almandaragal to [[Ebou Dar]] with her. [[Liandrin]], even having seen him several times, is still afraid of him.{{ref/book|11|Prologue}}
+
+{{notes}}

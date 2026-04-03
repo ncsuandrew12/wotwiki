@@ -1,0 +1,32 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| ewot=janduin2
+| name=Janduin
+| status=Foreseen
+| hair=Blond
+| height=Tall
+| nationality=Aiel
+| title=Child of the Dragon
+| gender=Male
+| appeared={{tom|49}}
+| lastappeared={{tom|49}}
+}}
+{{for|his grandfather, who has the same name|Janduin}}
+'''Janduin''' is the son of [[Rand al'Thor]] and [[Aviendha]] as seen through the visions of Aviendha's second trip through the [[Glass columns]].
+
+==Appearance==
+Janduin is tall and blond, somewhat taking after his mother's side.
+
+==History==
+Born as one of four quadruplets, Janduin has two full blooded sisters, [[Marinna]] and [[Padra]], and a full blooded brother [[Alarch]], whom often defers to him. He also has another older half-brother and sister by one of his father's other wives, also his mother's first-sister, [[Elayne Trakand]].
+
+Janduin is named after his [[Janduin|grandfather]].
+
+All four of his full blooded siblings could [[One Power|channel]] since childhood and constantly embrace the True Source. This might refer to the oddity in Min's viewing of Min when she indicates that there is something odd with the children, what she cannot see, only that they are healthy.
+
+==Activities==
+Given special privileges as children of the Dragon, Janduin and his siblings were present at the council of chiefs which decided to go to war with the [[Seanchan]] {{Ref/book|13|49}} in that version of a possible future thread what Aviendha sees in the glass ter'angreal of Rhuidean. It is unknown whether that actually become reality.
+
+{{Notes}}
+[[Category:Channelers]]

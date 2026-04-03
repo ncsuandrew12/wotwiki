@@ -1,0 +1,49 @@
+{{ character
+| image=Colavaere.jpg
+| imagesize=250px
+| ewot=Colavaere
+| nationality=Cairhienin
+| affiliation=House Saighan
+| rank=High Seat
+| title=Lady, [[Monarch of Cairhien|Queen of Cairhien]] (formerly)
+| gender=Female
+| status=Dead
+| death={{ne|1000}}
+| hair=Tower of curls
+| mentioned={{tfoh|45}}
+| appeared={{tfoh|46}}
+| lastappeared=
+| lastmentioned={{tom|50}}
+}}
+Lady '''Colavaere Saighan''' was the highest ranking noble in [[Cairhien]] following the deaths of [[Galldrian Riatin]] and [[Barthanes Damodred]], after which she briefly ruled as queen. She was the High Seat of [[House Saighan]]. 
+
+== Appearance ==
+She was middle aged, and considered to be more than handsome; pretty, but not quite beautiful. Like most Cairhienin noblewomen, she wore her hair in an ornate tower of curls, without a touch of gray. She had a musical voice, which [[Rand al'Thor]] was used to hearing from [[Moiraine Damodred]].
+
+Colavaere dressed like all other Cairhienin noble women. Her dresses were striped horizontally, from her high collar of lace down to her knees in the colors of House Saighan: yellow, red, and silver.
+
+== Activities ==
+After the battle with the [[Shaido]] [[Aiel]] in Cairhien she swore fealty to Rand. She tried to find a bedpartner for Rand but was strongly discouraged by [[Aviendha]] who gave her a beating.
+
+She made a deal with the [[White Tower]] embassy. When Rand was captured by the White Tower embassy she made her move for the [[Sun Throne]] and had both [[Meilan Mendiana]] and [[Lord Maringil]] murdered; they were her main rivals. [[Berelain sur Paendrag Paeron]] found evidence linking her to the crimes.{{Ref/book|7|4}}
+
+As soon as Rand was missing she was crowned Queen of Cairhien. On Rand's return he confronted her in the throne room, and for her crimes against Meilan and Maringil she had all her lands stripped from her. Rand would not pronounce her death sentence and instead exiled her to a farm for life under [[Dobraine Taborwin]]'s care. She hanged herself rather than face such disgrace.
+
+Her cousin [[Bertome Saighan]] succeeded her as High Seat of their house, while Cairhien faced another period of interregnum under direct rule of the Dragon Reborn until [[Elayne Trakand]] was crowned as queen of both Andor and Cairhien.
+
+== Viewing ==
+* She will die by hanging . ''(fulfilled)''
+
+==Parallel==
+Colavaere was Queen for nine days. The shortest length of time on the throne for any English monarch was that of [[wikipedia:Lady Jane Grey|Lady Jane Grey]] and was also nine days. This may just be coincidence, however, as Lady Grey was appointed heir to bypass the Catholic Mary from inheriting the throne, whereas Colavaere, in essence, seized the throne. Lady Grey was executed.
+
+
+
+{{Notes}}
+
+{{DEFAULTSORT:Saighan, Colavaere}}
+[[es:Colavaere Saighan]]
+[[Category:Nobility]]
+[[Category:Parallels]]
+[[Category:Queens]]
+[[Category:Ladies]]

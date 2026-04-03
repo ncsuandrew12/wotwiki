@@ -1,0 +1,48 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewot=Rina
+| ajah=Green
+| nationality=Amadician
+| status=Alive
+| affiliation=White Tower
+| rank=Aes Sedai
+| occupation=Sitter
+| gender=Female
+| build=Stocky
+| appeared={{ns|7}}
+| lastappeared={{tom|27}}
+| living=tgs
+|birth = {{ne|923}}}}
+{{for|the similarly named [[Seanchan]] ''[[sul'dam]]''|Renna Emain}}
+'''Rina Hafden''' is an [[Aes Sedai]] and for a while a loyalist [[Sitter]] of the [[Green Ajah]].
+
+== Appearance and Personality ==
+She is described as being elegant despite being stocky. 
+She has a square face and an upturned nose. She is a fierce, tenacious and determined woman, not easily daunted.
+
+==Strength and Abilities==
+Rina has a strength in the [[One Power]] of {{opsl|28}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+==History==
+Rina is 77 years old. She was born in the year {{ne|923}} and went to the [[White Tower]] in {{ne|938}}. After spending nine years as novice and eight as Accepted she was raised to the [[shawl]] in the year [[955 NE]].
+
+At the time of the [[Aiel War]] Rina had two [[Warder]]s, [[Waylin]] and [[Elyas Machera]] {{Ref/book|0|7}}, later she masked the [[Bond]] between herself and Elyas after he ran away when he discovered he was a [[Wolfbrother]].
+
+Rina gave up hunting for him actively. She let him go in large part because she knew the [[Red Ajah|Red]] sisters who had accused him of being a [[Darkfriend]] might well kill him no matter what she tried to do. None of which meant she did not want him back; he was hers by Aes Sedai rights, and they were probably married.
+
+==Activities==
+After the schism in the White Tower, when [[Joline Maza]] was unchaired by [[Elaida a'Roihan]] and sent to [[Ebou Dar]], [[Adelorna Bastine]], the head of the Green Ajah, picks Rina as new the Sitter for the Green Ajah, although she was young for the position.
+
+Rina is present when Elaida grants the Sitters requests to begin negotiations with the [[Rebel Aes Sedai]].
+
+Rina did not remain a Sitter after the [[White Tower Schism]] was over.{{Ref/book|13|27}}
+
+{{notes}}
+{{DEFAULTSORT:Hafden, Rina}}
+
+[[es:Rina Hafden]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,71 @@
+<noinclude>{{Documentation subpage}}</noinclude>
+This is a template link with a variable number of example parameters (0–30), which can be used to show example inputs.
+== Syntax ==
+=== Parameters ===
+;First parameter
+:The link to the template. Defaults to the page name (current page name: '''{{PAGENAME}}''')
+
+;2nd to 31st parameter
+:The parameters of the template.
+
+:To add named parameters, example <code><nowiki>{{notice|1st parameter|2nd parameter|3=3rd parameter}}</nowiki></code>, follow these steps:
+:# Write the parameter normally. Example: <code><nowiki>{{tlx|Documentation|1st parameter|2nd parameter|3=3rd parameter}}</nowiki></code>.
+:# Then, count how many parameters you have added, so <code>{<nowiki/>{t|''notice''|''1st parameter''|''2nd parameter''|'''3=3rd parameter'''}}</code>. <br/> On this example, there are '''4''' parameters, so prefix <code>4=</code> on the {{tlx|tlx}} template.
+:# So, the code is <code>{<nowiki/>{t|notice|1st parameter|2nd parameter|'''''4='''=3=3rd parameter''}}</code>, which results in {{tlx|Documentation|1st parameter|2nd parameter|4=3=3rd parameter}}.
+
+:Note: Adding named parameters will force you to always prefix the unnamed parameter:
+::<code><nowiki>{{tlx|Documentation|1st parameter|2nd parameter|4=3=3rd parameter|4th parameter}}</nowiki></code> will '''not work'''
+::<code><nowiki>{{tlx|Documentation|1st parameter|2nd parameter|4=3=3rd parameter|5=4th parameter}}</nowiki></code> '''will work'''.
+----
+The following will only work after all the parameters of the demo template is placed.<br/>
+'''Wrong''': <nowiki>{{tlx|Documentation|style=code|<message>}}</nowiki><br/>
+'''Right''': <nowiki>{{tlx|Documentation|<message>|style=code}}</nowiki>
+
+;Style (<code>style=</code>)
+:The style of the {{tlx|tlx}} template. Has 1 style:
+:* <code>code</code>, which encloses the {{tlx|tlx}} template with <code><nowiki><code></nowiki></code>
+
+;Prefix (<code>prefix=</code>)
+:The prefix for the template, useful when instructing the user to add <code>subst</code>, <code>safesubst</code>, or something similar.
+:Note: This '''does not''' add a prefix to the link. Use <code>linkprefix</code> instead as listed below.
+
+;Link Prefix (<code>linkprefix=</code>)
+:The prefix for the link itself, for linking to other languages/wikis. Also shows in the template link.
+:Note: This adds the prefix to the link itself. To add a prefix not included on the link, see above.
+
+;Block Mode (<code>block=</code>)
+:Makes the template styled as a block template, to aid in readability. Combine with <code>style=code</code> to get the best results.
+
+=== Sample code ===
+{| class="wikitable"
+!Syntax
+!Output
+|-
+|<code><nowiki>{{tlx}}</nowiki></code>
+|{{tlx}} (uses the page name)
+|-
+|<code><nowiki>{{tlx|Documentation}}</nowiki></code>
+|{{tlx|Documentation}}
+|-
+|<code><nowiki>{{tlx|Documentation|Item1|Item2|Item3|Item4|Item5|...}}</nowiki></code>
+|{{tlx|Documentation|Item1|Item2|Item3|Item4|Item5|...}}
+|-
+|<code><nowiki>{{tlx|Documentation|2=param1=Item1}}</nowiki></code>
+|{{tlx|Documentation|2=param1=Item1}}
+|-
+|<code><nowiki>{{tlx|Documentation|prefix=subst}}</nowiki></code>
+|{{tlx|Documentation|prefix=subst}}
+|-
+|<code><nowiki>{{tlx|Documentation|linkprefix=w}}</nowiki></code>
+|{{tlx|Documentation|linkprefix=w}}
+|-
+|<code><nowiki>{{tlx|Documentation|style=code}}</nowiki></code>
+|{{tlx|Documentation|style=code}}
+|-
+|<code><nowiki>{{tlx|Documentation|2=Item1|3=Item2|4=Item3|block=true}}</nowiki></code>
+|{{tlx|Documentation|2=Item1|3=Item2|4=Item3|block=true}}
+|}
+
+<includeonly>
+[[Category:Formatting and function templates]]
+</noinclude>

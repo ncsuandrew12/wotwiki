@@ -1,0 +1,30 @@
+{{character 
+| image=BlueAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|454}}
+| ajah=Blue
+| nationality=Andoran
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}
+{{for|the similarly named first [[queen]] of [[Andor]]|Ishara Casalain}}
+'''Ishara Nawan''' was an [[Aes Sedai]] of the [[Blue Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|419}}.{{ref|{{twotc}}, Ishara Nawan}}
+
+==History==
+Ishara's name could indicate [[Andor|Andoran]] origin (see [[Ishara Casalain]]).
+
+Ishara held the position for thirty-five years until her death in {{Ne|454}}. She was [[Nirelle Coidevwin]]'s successor and [[Cerilla Marodred]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Ishara was a strong and influential Amyrlin. She continued the policies of her predecessors but in a modified way, because she involved directly the [[White Tower]] in fewer wars. She gained considerable influence but also entangled the Aes Sedai in several dangerous situations that came to a head only after her death.
+
+{{notes}}
+{{short}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,25 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=The Kin
+| hair=Black, in three braids
+| status=Alive
+| appeared={{tom|52}}
+| lastappeared={{tom|52}}
+| living=tom
+}}
+'''Kema''' is a [[Kin]]swoman.
+
+== Appearance ==
+She is dark-skinned and has black hair tied in three braids.
+
+== Activities ==
+Like all the Kinswomen in the [[farm]], she travelled to [[Andor]] with [[Elayne]]. 
+
+Kema, with the assistance of three other Kinswomen, creates a [[gateway]] into [[Cairhien]] for [[Elayne Trakand]].
+[[Category:Farm Group]]
+[[Category:Short pages]]
+[[Category:Channelers]]
+[[Category:Novices]]

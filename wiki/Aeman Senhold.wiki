@@ -1,0 +1,18 @@
+{{ character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=
+| death=
+| nationality=Amadician
+| title=Lord
+| rank=General
+| gender=Male
+| hair=
+| build=
+}}
+Lord '''Aeman Senhold''' was an [[Amadicia]]n general during the [[Aiel War]] 
+
+==History==
+Lord Senhold was the leader of the Amadician contingent during the [[Battle of the Shining Walls]]
+[[Category:Short pages]]
+[[Category:Nobility]]

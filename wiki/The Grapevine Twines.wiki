@@ -1,0 +1,9 @@
+{{swordform
+| mentioned={{6|1}}
+| used=[[Rand al'Thor]]
+}}
+'''The Grapevine Twines''' is a [[sword form]]. Aside from the name, nothing is known about it. [[Rand al'Thor]] used this form during his practice duel with five other men in [[Caemlyn]].{{ref/book|6|1}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Grapevine Twines, The}}

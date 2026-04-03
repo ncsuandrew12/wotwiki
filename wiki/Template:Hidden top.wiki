@@ -1,0 +1,3 @@
+<div class="NavFrame" style="border: {{{border|none}}};"><div class="NavFrame" style="border: {{{border|none}}};">
+<div class="NavHead" style="background-color: {{{bg1|transparent}}}; text-align: {{{ta1|center}}}; {{{extra1|}}}">{{{header|}}}&nbsp; </div>
+<div class="NavContent" style="background-color: {{{bg2|transparent}}}; text-align: {{{ta2|center}}}; {{{extra2|}}}"><noinclude>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

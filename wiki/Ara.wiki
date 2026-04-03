@@ -1,0 +1,18 @@
+{{ character 
+| image=Ara.jpg
+| imagesize=250px
+| nationality=Andoran
+| occupation=Attendant
+| gender=Male
+| weight=Slight
+| hair=Dark
+| status=Alive
+| appeared={{teotw|14}}
+| lastappeared={{teotw|14}}
+| living=teotw
+}}
+'''Ara''' is an attendant at the [[Stag and Lion]] in [[Baerlon]].
+
+== Appearance ==
+He is a slight, dark-haired young man and doesn't talk much.
+[[Category:Short pages]]

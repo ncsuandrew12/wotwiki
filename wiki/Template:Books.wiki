@@ -1,0 +1,47 @@
+{|{{FooterStyle}}
+|-
+!align=center style="background-color: rgb(135,135,135,.25);" colspan=2| '''[[:Category:Series books|Books]]'''
+|-
+|align=center style="background-color: rgb(135,135,135,.25); font-size: 8pt" colspan=1|'''[[:Category:Main Series|Main Series]]'''
+|align=center|
+<small><i>
+[[New Spring]] ·
+[[The Eye of the World]] ·
+[[The Great Hunt]] ·
+[[The Dragon Reborn]] ·
+[[The Shadow Rising]] ·
+[[The Fires of Heaven]] ·
+[[Lord of Chaos]] ·
+[[A Crown of Swords]] ·
+[[The Path of Daggers]] ·
+[[Winter's Heart]] ·
+[[Crossroads of Twilight]] ·
+[[Knife of Dreams]] ·
+[[The Gathering Storm]] ·
+[[Towers of Midnight]] ·
+[[A Memory of Light]]
+</i></small>
+|-
+|align=center style="background-color: rgb(135,135,135,.25); font-size: 8pt" colspan=1|'''Other stories'''
+|align=center|
+<small><i>
+[[Legends: Stories By The Masters of Modern Fantasy|Legends]] ·
+[[The Strike at Shayol Ghul]] ·
+[[River of Souls]] ·
+[[A Fire Within the Ways]]
+</i></small>
+|-
+|align=center style="background-color: rgb(135,135,135,.25); font-size: 8pt" colspan=1|'''Other works'''
+|align=center|
+<small>
+''[[The World of Robert Jordan's The Wheel of Time]]'' ·
+''[[The Wheel of Time Roleplaying Game]]'' ·
+[[New Spring comic|''New Spring'' comic]] ·
+[[The Eye of the World comic|''The Eye of the World'' comic]] ·
+''[[The Wheel of Time Companion]]'' ·
+''[[Origins of the Wheel of Time]]''
+</small>
+{{MajorLinksFooter}}
+|}
+{{BooksMobile}}<noinclude>{{Documentation}}
+[[Category:Navbox templates]]</noinclude>

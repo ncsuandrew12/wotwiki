@@ -1,0 +1,78 @@
+{{ character
+| image=WoT274.jpg|thumb|Byar from the WoT comic
+| imagesize=200px
+| ewot=Jaret
+| nationality=Unknown nationality
+| gender=Male
+| affiliation=The Shadow
+| occupation=Soldier
+| rank=Officer
+| eyes=Deep-set
+| height=Tall
+| build=Thin
+| hair=Gray
+| status=Dead
+| appeared={{teotw|30}}
+| lastappeared={{tom|41}}
+| death={{ne|1000}}
+}}
+'''Jaret Byar''' (phonetically jar’et bye’are) was a zealous member of the [[Children of the Light]]. 
+
+==Appearance==
+He had a long, gaunt face with sunken eyes. His skin was drawn tight over his body, making his head look like a skull. He was also described as being skeletal in appearance. He was tall with gray hair. He spoke with a flat gravelly voice that had no emotion.
+
+==History==
+He served under [[Geofram Bornhald]], to whom he was fiercely loyal. Bornhald accounted him a good soldier, albeit a little overzealous.
+
+He had little to no experience outside the cities and his knowledge of wolves was lacking.
+
+He admitted to having done dark things in service to the Light.
+
+== Activities ==
+===Under Geofram Bornhald===
+He was in the group that captured [[Egwene al'Vere]] and [[Perrin Aybara]] shortly after the latter became a [[wolfbrother]]. He reported the number of casualties among the Children when the wolves attack to Bornhald: nine men dead, twenty-three injured, seven seriously, and thirty horses put down. {{ref/book|1|30}}
+
+He had [[Hopper]] skinned with the intention of making a wolf-hide rug for the Lord Captain, but Bornhald wasn't interested. He also confiscated Perrin's axe.
+
+He described, in detail, the activities and methods of the [[Questioner]]s to Perrin and Egwene when they denied being [[Darkfriend]]s.
+
+He suggested that Perrin and Egwene had to be killed as Darkfriends because the company had to reach [[Caemlyn]] in time and captives would slow them down too much. He believed in his heart that Perrin was a Darkfriend. Bornhald warned him about being overzealous and resolved to take them to [[Amador]] to bring them before the [[Council of the Anointed]]. 
+
+He suggested to Perrin that it would be better if they escaped, and dropped a sharp rock on the floor so that they may cut their bonds. This was, however, a trap, and they would have been killed during the escape attempt.
+[[Lan Mandragoran]] knocked Byar unconscious when he rescued Perrin and Egwene.
+
+He accompanied Bornhald to [[Alcruna]] in [[Tarabon]], where they were subject to the orders of Questioners.
+He witnessed the atrocities carried out by some of the Children in the villages on the [[Almoth Plain]] while under [[Hand of the Light]] command, including the hanging of children. Even Byar was shocked by that.{{ref/book|2|29}}
+He appeared uncomfortable at Bornhald's contempt for Questioners and believed they had some reason for their actions on Almoth Plain.
+
+Byar was ordered not to engage in combat with Bornhald and the rest of the legion, but to hold back and report that [[Aes Sedai]] have joined in battle on the side of the [[Seanchan]]. He was also to report how they were used by the Questioners. Bornhald also shared suspicions with him that Perrin may have informed the Seanchan of their coming and that he could, after all, be a Darkfriend.{{ref/book|2|44}} He was dismissed by Bornhald when the Legion was close to Falme so he would not be killed in the suicidal battle.{{ref/book|2|46}}
+
+===After Bornhald's death===
+He reported to [[Pedron Niall]] about the destruction of Bornhald's legion at [[Falme]] and the rise of another "false" Dragon.{{ref/book|3|p}}
+After Geofram's death at Falme, he went to [[Dain Bornhald]], Geofram's son, and was as loyal to him as he was to Geofram.
+
+He was second in command to Dain when the Whitecloaks entered the Two Rivers.{{ref/book|4|1}} He had an intense hatred for Perrin Aybara.
+
+His patrol brought in a man from Deven Ride, but he refused to respond to Perrin's request for additional information about where the man was found or what he might have said.{{ref/book|4|53}}
+
+He was one of the followers of [[Galadedrid Damodred]]. He backed Galad when he fought [[Eamon Valda]] in the [[Trial Beneath the Light]]. Surprisingly, he was also the one who quoted the catechism supporting the idea that the Children may ally with the Seanchan or the [[White Tower]] at the [[Tarmon Gai'don|Last Battle]] to win against the Shadow.
+
+===Following Galad===
+[[File:Jaret_Byar.jpg|thumb|Jaret Byar]]
+While following the lead of Galad, the new Lord Captain Commander of the Children, the army crossed paths with a much larger army of Children of the Light, Seanchan controlled and led by [[Rhadam Asunawa]]. Asunawa named Galad a Darkfriend and ordered him to surrender for questioning. Rather than have Whitecloak fight Whitecloak, Galad complied and had his force merge with Asunawa's. After Galad was brutally beaten by the Questioners, he was rescued by [[Trom]], Byar, and Bornhald. They came in with the other Lords Captain who previously stood against him. They dropped a sack containing Asunawa's head and pledged loyalty to him.
+
+Byar informed Galad of a group of travelers just captured by their army. They turned out to be a front force belonging to Perrin's army. Byar was zealous with convincing Galad that Perrin Goldeneyes was in fact a [[Shadowspawn]], and Galad attempted to do battle with Perrin's army over his murder of two Whitecloaks two years prior. He accompanied Galad to the parley with Perrin where it was established that former Queen [[Morgase Trakand]] was to stand over Perrin in a trial. Perrin was pronounced guilty, but allowed to go free until after the Last Battle, which enraged Byar.
+
+When Perrin returned to save the Whitecloaks from a [[Trolloc]] attack, Byar continued to be blinded from the truth, convinced that it was all a ruse set up by Perrin. At the end of the battle, Byar attempted to cut down Perrin from behind, but was stopped and killed by Dain Bornhald, who at that point saw the truth about Perrin and would not allow Byar to dishonorably kill a man whose back was turned.
+
+[[Graendal]] also revealed that she had a Whitecloak in her employ, which was most probably Byar, indicating that he was either a Darkfriend or under [[Compulsion]].
+
+{{DEFAULTSORT:Byar, Jaret}}
+
+{{notes}}
+
+[[es:Jaret Byar]]
+[[Category:POV character]]<references />
+
+[[es:Jaret Byar]]
+[[Category:POV character]]

@@ -1,0 +1,25 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| gender=Male
+| height=Tall
+| appeared={{tom|8}}
+| lastappeared={{tom|8}}
+| living=tom
+}}
+{{quote|He called himself Chaser. Mat figured that was because the women ran away from him after they got a look at that face, and he had to run after them.|[[Mat Cauthon]]'s thoughts on Chaser.}}
+'''Chaser''' is the name given by a gambler at [[The Dead Man's Breath]].{{ref/book|13|8}}
+
+==Appearance==
+He is a tall fellow, with a pinched-up face that looked like it had been closed in a door a few times.
+
+==Activities==
+Chaser spread the rumor of [[Jowdry]]'s terrible murder, [[Mat]] overheard this while gambling in [[The Dead Man's Breath]]. Mat thought of the ''[[gholam]]'' and suddenly the dice began rattling inside his head.
+
+== Trivia ==
+* Chaser is named for Chase Moore, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

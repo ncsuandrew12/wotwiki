@@ -1,0 +1,23 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| ewot=frielle
+| status=Alive
+| nationality=Altaran
+| occupation=Maid
+| gender=Female
+| appeared={{loc|52}}
+| lastappeared={{wh|19}}
+| living=wh
+}}
+'''Frielle Anan''' is an [[Ebou Dar]]i woman, the daughter of [[Jasfer Anan|Jasfer]] and [[Setalle Anan]]. Her siblings are [[Marah Anan|Marah]], [[Ross Anan|Ross]], and [[Leral Anan|Leral]].
+
+==Appearance==
+Frielle is pretty, just like her mother.{{ref/book|6|52}}
+
+==Activities==
+Frielle works at [[The Wandering Woman]] with her mother. When [[Matrim Cauthon]] and his party are in Ebou Dar and staying at the Wandering Woman, Frielle takes care of [[Olver]]. While she often said that she wanted to have six sons, Mat thinks that after taken care of the boy, she may wish to have a few daughters.{{ref/book|6|52}} A short time before Mat's party left Ebou Dar, Frielle got married. It is not known who she married. This is a great annoyance and source of jealousy for her older sister, Marah.{{ref/book|9|19}}
+
+{{notes}}
+{{DEFAULTSORT:Anan, Frielle}}
+[[Category:Short pages]]

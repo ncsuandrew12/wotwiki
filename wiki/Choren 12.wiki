@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|September}}
+|{{Wotmonth|Choren}}
+|}
+'''Choren 12 (September 12)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Nynaeve]]'s party leave the menagerie, fight their way through [[Samara]] with [[Galad]]'s help, and start downriver on the Riverserpent.
+<noinclude>
+==External links==
+*[[wikipedia:september 12|September 12]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

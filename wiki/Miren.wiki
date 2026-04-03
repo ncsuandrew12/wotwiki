@@ -1,0 +1,22 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| nationality=Andoran
+| title=
+| occupation=Seamstress
+| affiliation=
+| gender=Female
+| hair=
+| mentioned={{loc|41}}
+| living=loc
+}}'''Miren''' is one of [[Min|Min's]] three aunts.{{ref|{{twotc}}, Miren}} She lives in [[Baerlon]].{{ref/book|6|41}}.
+
+==Activities==
+[[Jan]], Miren and [[Rana]] have raised Min to be fair, but Min thinks that Miren seems to know a bit more about the world than her other two aunts. While Jan and Rana tell Min not to kiss a man unless you mean to marry him, Miren tells her not to kiss a man too casually because men fall in love too easily {{ref/book|7|10}}. Miren also seemed to be the most understanding of Min's desire to wear breeches and be a tomboy.
+
+Miren claims that there are three lies any man will believe from a woman; one of them is that a woman enjoys being held by a man just as much as sleeping with him {{ref/book|8|27}}.
+
+{{notes}}
+[[Category:Short pages]]

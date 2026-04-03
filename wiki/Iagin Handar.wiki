@@ -1,0 +1,22 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| affiliation=Defender of the Stone
+| occupation=Soldier
+| nationality=Tairen
+| gender=Male
+| build=Stocky
+| status=Alive
+| appeared={{kod|21}}
+| lastappeared={{kod|21}}
+| living=kod
+}}
+'''Iagin Handar''' is a [[Defender of the Stone]] in [[Tear]]. 
+
+== Appearance ==
+He is stocky, with a puckered scar across his face.
+
+== Activities ==
+He was one of the Defenders that fought against the [[Trollocs]] when they attacked the [[Stone of Tear]]. He received his scar from that battle. He is guarding the [[Heart of the Stone]] and greets [[Rand al'Thor]], when Rand [[Travel]]s to Tear to meet with [[Darlin Sisnera]].
+
+{{DEFAULTSORT:Handar, Iagin}}

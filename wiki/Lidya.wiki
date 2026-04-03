@@ -1,0 +1,31 @@
+{{ character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| status=Alive
+| nationality=Seanchan
+| occupation=Damane
+| affiliation=Ever Victorious Army
+| gender=Female
+| hair=Red
+| appeared={{wh|14}}
+| lastappeared={{wh|14}}
+| lastmentioned={{kod|36}}
+| living=wh
+}}'''Lidya''' is a ''[[damane]]'' owned by [[Fortuona Athaem Devi Paendrag|Tuon]].{{ref|{{twotc}}, Lidya}} She has the talent of [[Foretelling]].
+
+==Appearance==
+She has freckled cheeks and red hair.
+
+==Activities==
+She is one of [[Tuon Athaem Kore Paendrag]]'s personal ''damane'' who is part of the [[Corenne]]. She had a [[Foretelling]] about Tuon.
+
+Tuon disliked what she heard and had Lidya caned. But the princess regretted it the next day and ordered the ''sul’dam'' to give her lionheart for the pain and sweet custard as a treat.
+
+She was included in the group of Seanchan led by [[Karede]] and looking for Tuon after she disappears.
+
+{{quote|Beware the fox that makes the ravens fly, for he will marry you and carry you away. Beware the man who remembers Hawkwing's face, for he will marry you and set you free. Beware the man of the red hand, for him you will marry and none other.|Lidya's fortelling}}
+
+{{notes}}
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Channelers]]

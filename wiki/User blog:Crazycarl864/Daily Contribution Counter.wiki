@@ -1,0 +1,2 @@
+Is it just me or is there a bug with the achievement counter that counts consecutive days of contributions to the wiki? I've had it reset at least 3 times on days that I contributed. I'm not sure if I'm just doing something wrong, or maybe there's some time-zone shenanigans going on? Has anyone else run into this problem?
+[[Category:Blog posts]]

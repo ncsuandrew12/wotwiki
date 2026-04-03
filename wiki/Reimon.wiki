@@ -1,0 +1,61 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Tairen
+| rank=Banner-General
+| occupation=Soldier
+| title=Lord
+| affiliation= Band of the Red Hand
+| gender=Male
+| build=Broad
+| hair=Dark
+| status=Alive
+| appeared={{tsr|2}}
+| lastappeared={{kod|26}}
+| lastmentioned={{kod|27}}
+| living=kod
+}}
+'''Reimon''' is a young Tairen Lord and a member of the [[Band of the Red Hand]].
+
+==Appearance==
+He is broad-shouldered with a dark beard, oiled and trimmed to a neat point.
+
+==History==
+He chases the latest fashions almost as assiduously as he chases women, both of which come a close second to his love of gambling. 
+
+He smokes a pipe.
+
+He is only foolish sometimes, though he won't listen to commoners.
+
+He has a jovial nature and smiles and laughs a great deal.
+
+==Activities==
+
+===In Tear and Cairhien===
+
+He is one of the young lords in the [[Stone of Tear]] playing cards with [[Mat Cauthon]] when the [[Bubble of evil]] causes Mat's cards to come to life and attack Mat. {{ref/book|4|2}}
+
+If it weren't for the fact that the [[Aiel]] followed the [[Dragon Reborn]], he would want to use the [[Defenders of the Stone|Defenders]] to clear them out of the [[Stone of Tear|Stone]]. This is an idle boast, however. No army Tear could raise would be able to evict the Aiel.
+
+He mentions that the [[Atha'an Miere]] have docked a ship in Tear and he would like to see one of their ships - the others suggest that all he wants to look at are the Sea Folk women.
+
+He is eager at the prospect of rumors of the Dragon Reborn declaring war against [[Illian]] and of conquering the whole world in his name.
+
+Later he is part of the escort that greets [[Rand al'Thor]] when he enters [[Cairhien]] after the battle with the [[Shaido]].
+
+===In the Band of the Red Hand===
+
+Reimon goes on to join the [[Band of the Red Hand]] and leads the Fifth Squadron, also known as "Reimon's Eagles."{{ref/book|6|5}}
+
+After the rapid expansion of the Band in [[Murandy]], Reimon now leads a full Banner. As a result, Mat promotes him to [[Banner-General]].
+
+[[Talmanes Delovinde]] gives his reasons for leaving [[Estean Andiama]] in charge of the rest of the Band as being that Reimon and [[Carlomin]] refuse to listen to the advice of a commoner. After Mat places [[Daerid Ondin]] above them, he says that they will either take orders from him or go home.
+
+Reimon laughs at Tuon's inquiry about Mat being a Lord and says that Mat is only a Lord to them, and that is enough.
+
+When Reimon and the others meet up with Mat and his party, they bow in deep respect to the [[Aes Sedai]] with him. [[Tuon]] is shocked to see him also bow to [[Bethamin Zeami]] and [[Seta Zarbey]].
+
+He makes a raid on a Seanchan supply camp defended by Altaran conscripts to gain much needed supplies for the Band.
+
+{{notes}}
+[[Category:Nobility]]
+[[Category:Gamblers]]

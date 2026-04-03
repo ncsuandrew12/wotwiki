@@ -1,0 +1,24 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| affiliation=Car'a'carn
+| build=A little plump
+| hair=Yellow-red
+| status=Alive
+| clan=Unknown clan
+| sept=Unknown sept
+| appeared={{acos|18}}
+| lastappeared={{tgs|29}}
+| living=tgs
+}}
+'''Riallin''' is an [[Aiel]] ''[[Far Dareis Mai]]''.
+
+==Appearance==
+She has vivid yellow-red hair and is a little plump. She always has a ready grin.
+
+==Activities==
+She stands guard when [[Berelain sur Paendrag Paeron]] and then [[Cadsuane Melaidhrin]] both enter the Throne Room of [[Cairhien]]. She distrusts Cadsuane and veils when Cadsuane is meeting with [[Rand al'Thor]].
+
+She greets Rand in [[Bandar Eban]] and points him towards where [[Milisair Chadmar]] is being held.

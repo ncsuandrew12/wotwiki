@@ -1,0 +1,30 @@
+{{character
+| image=CotL.png
+| living=amol
+| imagesize=200px
+| ewot=
+| nationality=Unknown nationality
+| gender=Male
+| affiliation= Children of the Light
+| occupation=Soldier
+| rank=
+| eyes=
+| height=
+| build=
+| hair=
+| status=Alive
+| appeared={{amol|37}}
+| lastappeared={{amol|37}}
+| death=
+}}
+'''Mallone''' is a [[Whitecloak]].
+
+==Activities==
+Mallone was one of the best men suggested by [[Golever]] to [[Galad]] when he was ordered to reach [[Hawal Ford]] by [[Mat]].
+
+== Trivia ==
+* Mallone is named for Ramsey Malone Burt, and his name was submitted by Jonathan Burt, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Children of the Light]]
+[[Category:Short pages]]
+[[Category:Characters named after fans]]

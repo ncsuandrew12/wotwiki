@@ -1,0 +1,6 @@
+
+{{Image
+| License                 = Public Domain Self
+| ImageType1              = User
+| Description             = Picture of me and RJ at a book signing in Lexington, KY.
+}}

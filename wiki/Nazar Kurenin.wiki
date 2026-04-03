@@ -1,0 +1,29 @@
+{{ character 
+|affiliation = Lan Mandragoran
+|nationality = Malkieri
+|status = Dead
+| image=MalkierFlag.png
+|death = {{ne|1000}}
+|gender = Male
+|hair = Short
+|appeared = {{ns|15}}
+|lastappeared = {{tom|23}}
+|lastmentioned = {{amol|6}}
+|imagesize = 250px
+}}'''Nazar Kurenin''' was born in [[Malkier]] but grew up in [[Kandor]].
+
+== Appearance ==
+He was jut-nosed. His white hair was cut short and wore a forked beard. He was twice [[Lan Mandragoran]]'s age and was past his seventieth year. He once again wore the ''[[hadori]]''.
+
+== History ==
+He used to be a baker but considers himself a [[Borderlander]] first.
+
+== Activities ==
+He walks in front of Lan and [[Bukama Marenellin]] while they are in [[Canluum]].
+
+More than twenty years later, Nazar, [[Andere]] and [[Rakim]] all meet up with Lan and [[Bulen]] along the [[Plain of Lances]]. They travel in front of Lan until he finally accepts them into his company. Lan catches sight of Nazar hiding the [[Golden Crane]] in his saddlebag but lets him keep it rather than tearing it up.
+
+== Death ==
+Nazar dies during Lan's initial skirmishes against the [[Trolloc]]s at [[Tarwin's Gap]].
+
+{{DEFAULTSORT:Kurenin, Nazar}}

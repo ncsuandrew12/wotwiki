@@ -1,0 +1,54 @@
+<includeonly>
+{| cellspacing="5" style="min-width:600px; max-width:800px"
+|colspan="2"|<h2 style="margin-top: 5px"><span id="movie-general">General Information</span></h2>
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Title:'''
+|style="padding:5px; width:70%"|{{{title|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Author:'''
+|style="padding:5px; width:70%"|{{{author|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Release Date:'''
+|style="padding:5px; width:70%"|{{{release|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Genre:'''
+|style="padding:5px; width:70%"|{{{genre|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Number of Pages:'''
+|style="padding:5px; width:70%"|{{{pages|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Description:'''
+|style="padding:5px; width:70%"|{{{description|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Main Characters:'''
+|style="padding:5px; width:70%"|{{{characters|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Related Book Series:'''
+|style="padding:5px; width:70%"|{{{book series|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Related Films:'''
+|style="padding:5px; width:70%"|{{{films|}}}
+|-
+|colspan="2"|<h2><span id="movie-ratings">Content Ratings</span></h2>
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Rating:'''
+|style="padding:5px; width:70%"|{{{rating|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Violence:'''
+|style="padding:5px; width:70%"|{{{violence|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Language:'''
+|style="padding:5px; width:70%"|{{{language|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Sexual Themes and Nudity:'''
+|style="padding:5px; width:70%"|{{{sexual-themes|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Drugs and Alcohol:'''
+|style="padding:5px; width:70%"|{{{drugs-alcohol|}}}
+|-
+|style="padding:5px; width:30%; text-align:right; vertical-align:top"|'''Crude Humor or Comic Mischief:'''
+|style="padding:5px; width:70%"|{{{crude-humor|}}}
+|}
+</includeonly><noinclude>{{Documentation}}
+[[Category:Templates]]
+</noinclude>

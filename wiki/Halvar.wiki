@@ -1,0 +1,23 @@
+{{ character 
+| image=[[File:MayeneFlag.png|250px]]| imagesize = 250px
+| status=Dead
+| nationality=Mayener
+| occupation=First of Mayene
+| title=[[First of Mayene]], Blessed of the Light, [[Defender of the Waves]], [[High Seat]] of [[House Paeron]]
+| gender=Male
+| mentioned={{tsr|6}}
+| lastmentioned={{tsr|6}}
+}}
+'''Halvar''', Blessed of the Light, [[Defender of the Waves]], [[High Seat]] of [[House Paeron]], was the [[First of Mayene|First]] of [[Mayene]].
+
+==Activities==
+Halvar was the [[First of Mayene]] around three hundred years before the time of the [[Dragon Reborn]].  
+
+The [[Tairen]] fleet was planning to discover Mayene's oilfish shoals, the source of Mayene's wealth, and so Halvar tried to appease the Tairen High Lords raising the price of Mayener lamp oil, so that it was more expensive than Tairen oil. 
+
+Halvar gave also to [[Tear]] the [[Twisted redstone doorway]], a ''ter'angreal'' whose answers had previously been used by the Firsts of Mayene to help remain independent from Tear. He had already used it and so the artifact was of no use to him. 
+
+The Tairen fleets did not find the shoals, but it proved in vain as the High Lords had Halvar assassinated the following year{{ref/book|4|6}}.
+
+{{notes}}<references />
+[[Category:Historical people]]

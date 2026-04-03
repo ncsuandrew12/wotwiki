@@ -1,0 +1,49 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Domani
+| gender=Female
+| occupation=Wise Woman
+| affiliation=The Kin
+| status=Alive
+| appeared={{loc|52}}
+| lastappeared={{tpod|28}}
+| living=tpod
+}}'''Asra''' is a [[Arad Doman|Domani]] [[Wise Woman]] and a member of the [[Kin]] in [[Ebou Dar]].{{ref|{{twotc}}, Asra Zigane}}
+
+== Appearance ==
+She looks just a little older than [[Nynaeve al'Meara]] but really she is 86 years old. She has coppery skin.
+
+==History==
+Asra was born in the year {{ne|913}} and went to the [[White Tower]] in the year {{ne|929}}. After four months she was sent away because of her weakness in the [[One Power]].
+
+==Strength and Abilities==
+
+Asra is very weak in the [[One Power]], in fact Elayne thought that she would probably never be allowed to test for [[Accepted]].{{ref/book|6|52}}
+
+This is confirmed by "The Wheel of Time Companion" where her level of strength is classified {{opsl|60}}, far below the minimum level of {{opsl|51}} to become Aes Sedai
+
+Despite her lack of strength Asra is very [[talent]]ed. In fact like the strongest channelers (as [[Rand]] and [[Alivia]]) she is very quick in learning and doesn't need to see a weave more than once to be able to reproduce it perfectly.
+
+Her second talent is [[Healing]]; when she was a simple Novice in the Tower, she was not instructed in the weaves used to heal, nevertheless she learned it, copying secretly the Aes Sedai performing it, and despite her weakness in the power in short time she reached a very high level of Healing.
+
+Finally Asra has the very rare Talent that [[Aviendha]] does, of being able to tell what a weave she had never seen before would do before it is completed.
+
+== Activities ==
+In Ebou Dar she was seen by [[Nynaeve]] and [[Elayne]] when she tried to [[Heal]] a man named [[Masic]] after he was mortally wounded in a duel with [[Baris]]{{ref/book|6|52}}.
+
+Along other Kinswomen she [[Travel]]ed from Ebou Dar to [[The Farm]] and after to Andor following the leadership of Elayne and Nynaeve.{{ref/book|7|6}}
+
+She along with a number of other Kin were starting to develop a backbone and she had started to question [[Aes Sedai]] decisions.
+
+When [[Zarya Alkaese|Garenia]] and [[Kirstian]] were identified as runaways and put back in Novice white, Asra and [[Sarainya Vostovan]] attempted a revolt, but they were punished for this boldness with a switching{{ref/book|8|28}}.
+
+Asra found Lieutenant [[Charlz Guybon]] near Caemlyn and brought him and his army into the city via [[gateway]] (Because Asra is surely not strong enough to Travel alone it can be supposed that she was leading a circle of Kinswomen){{ref/book|11|13}}.
+
+{{notes}}
+[[Category:Farm Group]]
+[[Category:Short pages]]
+[[Category:Best healers]]
+[[Category:Channelers]]
+[[Category:Novices]]
+{{DEFAULTSORT:Zigane, Asra}}

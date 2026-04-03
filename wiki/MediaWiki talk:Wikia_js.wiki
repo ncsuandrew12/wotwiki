@@ -1,0 +1,2 @@
+==Autorefresh==
+Why is the autorefresh script on both MediaWiki:Common.js and MediaWiki:Wikia.js? Common.js is automatically loaded regardless of skin, so I'm guessing that this was added because the autorefresh didn't work originally when Oasis was introduced. If that's the case, then the script should probably be updated and this page blanked. [[User:Suppa chuppa|Suppa chuppa]] 14:42, July 28, 2011 (UTC)

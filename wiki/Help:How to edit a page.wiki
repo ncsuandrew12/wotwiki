@@ -1,0 +1,1035 @@
+<!--
+  If you want to test out editing pages, please
+  use the "Sandbox" for your tests.  To go to the
+  sandbox, type "Sandbox" in the search box on the
+  left, and hit "Go". Or click the link at the 
+  beginning of the article.
+-->
+{{shortcut|[[EDIT]]}}
+:''See also [[Help:Editing]] and [[m:Help:Editing|Media Help Editing]].''
+{{SITENAME}} is a [[Wikicities:Wiki|Wiki]], which means that anyone can easily edit any [[Wikipedia:Protected page|unprotected]] [[Wikipedia:Wikipedia:What is an article|article]] and have those changes posted immediately to that page.  
+
+'''Editing''' a Wiki page is quite simple. Just click on the "'''edit'''" tab at the top (or the edit link on the right or bottom) of a Wiki page. This will bring you to a page with a text box containing the editable text of that page. '''If you just want to experiment, please do so in the [[Wotwiki:Sandbox|Sandbox]]''' instead of on other pages. Alternatively, you can press the "'''Show preview'''" button instead of actually saving the page. You should write a short [[Help:Edit summary|summary of what you changed]] in the small field below the edit-box. You may use shorthand to describe your changes; a list of these notations can be found at [[Help:Edit summary#shorthand]]. You can also see what changes you have made in comparison to the previous version by pressing the [[Wikipedia:Show changes|Show changes]] button. If you're happy with what you see, then press "Save" and your changes will be immediately applied to the article.  Don't "[[Help:Sign your posts on talk pages|sign]]" edits you make to regular articles; the software keeps track of who makes every change. This also allows vandalism to be [[Wikipedia:Help:Revert|reverted]] easily when it does occur.
+
+You can also click on the "'''Discussion'''" tab to see the corresponding [[Help:Talk page|talk page]], which contains comments about the page from other {{SITENAME}} users. Click on the "'''+'''" tab to add a new section, or edit the page in the same way as an article page.  When editing talk pages, please '''do''' "sign" your comment, see [[Help:Sign your posts on talk pages]].
+
+== Tips on editing articles ==
+
+Always use a ''[[Wotwiki:Responsible point of view|responsible point of view]]'', as {{SITENAME}} is not a place to post unrelated information or diatribes against your least favorite character. We do maintain a less stringent [[Wikipedia:NPOV|neutral point of view]] standard than Wikipedia (because we want to include fan theories and discussion), but that does not make it a free-for-all. It is encouraged to show multiple sides of an argument in a fair and rational manner.
+
+[[Wotwiki:Cite your sources|Cite your sources]] so others can check and extend your work. One of the goals of {{SITENAME}} is to become a central repository for this sort of information, but it is '''not acceptable to [[Wikipedia:plagiarize|plagiarize]]''' from other sites to do so. If you are the author of a post elsewhere, of course, we encourage you to include that information here, with credit to the original site. Please see [[Help:Sources]] for more information about formatting your source information on a consistent manner.
+
+After making a new page, it's a good idea to:
+*use ''What links here'' (with your page displayed) to check the articles that already link to it, and make sure that they are all expecting the same meaning that you have supplied; and
+*use the Search button to search {{SITENAME}} for your topic title—and possible variants—to find articles that mention it, and make links from them if appropriate.
+
+== Minor edits ==
+
+When editing a page, a [[Help:How to log in|logged-in]] user can mark that edit as being "minor." Minor edits generally mean spelling corrections, formatting, and minor rearrangement of text. It is possible to ''hide'' minor edits when viewing ''Recent changes''. Marking a significant change as a minor edit is considered bad behavior, and even more so if it involves the deletion of some text. If one has accidentally marked an edit as minor, the person should edit the source once more, mark it major (or, rather, ensure that the check-box for "This is a minor edit" is not checked), and, in the summary, state that the previous change was a major one.
+
+== Major edits ==
+All editors are encouraged to [[Wotwiki:Be_bold|be bold]], but there are several things that a user can do to ensure that major edits are performed smoothly.  Before engaging in a major edit, consider discussing proposed changes on the article discussion/talk page.  If doing a lengthy edit, consider working in [[Help:Sections|Sections]] rather than with the entire article; this helps reduce edit conflicts. Once the group of edits has been completed, the inclusion of an edit summary on the talk page will assist in documenting the changes.  These steps will all help to ensure that major edits are well received and organized in a way that facilitates collaboration.
+
+==Wiki markup==
+{{cleanup}}
+The '''wiki markup''' is the simplified syntax you can use to format a Wiki page.
+
+In the left column of the table below, you can see what effects are possible. In the right column, you can see how those effects were achieved. In other words, to make text look like it looks in the left column, type it in the format you see in the right column.
+
+You may want to keep this page open in a separate browser window for reference, or take a screen-shot of it. '''If you want to try out things without danger of doing any harm, you can do so in the [[Wikipedia:Sandbox|Sandbox]]'''. Try opening the Sandbox in a separate window or tab and keeping this page open for reference.
+
+----
+<center>'''[[Wikipedia:meta:MediaWiki User's Guide: Editing overview|Meta-Wikimedia version of this page]]'''</center>
+
+{| border="1" cellpadding="2" cellspacing="0"
+|-
+! What it looks like
+! What you type
+|- valign="top"
+|
+Start your [[Help:Style Guide#sections|sections]] as follows:
+
+<!-- The following code messes up the table of contents
+     and makes the section edit links much less useful,
+     so please do not use it.
+== New section ==
+=== Subsection ===
+==== Sub-subsection ====
+-->
+<!-- The following should look almost the same, using
+     HTML headings markup instead of wiki headings.
+     However, it messes up the section edit links,
+     so please do not use it.
+<h2>New section</h2>
+<h3>Subsection</h3>
+<h4>Sub-subsection</h4>
+-->
+<!-- The following just uses bolding and font changes,
+     so it should be safe.  However, it might not
+     look exactly right, especially when people
+     use non-standard CSS stylesheets.
+'''<font style="font-size:150%;color:black;">New section</font>'''
+
+'''<font style="font-size:130%;color:black;">Subsection</font>'''
+
+'''<font style="font-size:110%;color:black;">Sub-subsection</font>'''
+
+'''<font style="font-size:100%;color:black;">Sub-sub-subsection</font>'''
+-->
+<!-- The following uses unclosed HTML tags, as suggested below for this very situation. It should render properly without messing up the edit links. -->
+
+<h2>New section<h2>
+<h3>Subsection<h3>
+<h4>Sub-subsection<h4>
+<h5>Sub-sub-subsection<h5>
+
+*Start with a second-level heading (<tt><nowiki>==</nowiki></tt>); don't use first-level headings (=).
+*Don't skip levels (for example, second-level followed by fourth-level).
+*A [[Wikipedia:Help:Table of contents|table of contents]] will automatically be added to an article that has four or more sections. 
+*If possible, place subsections in an order that will make sense to future readers/editors. 
+*If you want to keep headings out of the TOC you have to use html heading tags and close them without using a slash e.g. <nowiki><h4>heading too low level to be in the toc of large page<h4></nowiki>.
+** This last is very interesting for our template discussion... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 17:59, 1 Nov 2005 (UTC)
+
+|
+<pre><nowiki>
+== New section ==
+
+=== Subsection ===
+
+==== Sub-subsection ====
+
+===== Sub-sub-subsection =====
+</nowiki></pre>
+|- valign="top"
+|
+A single newline
+generally has no effect on the layout.
+These can be used to separate
+sentences within a paragraph.
+Some editors find that this aids editing
+and improves the function ''[[Wikipedia:Help:diff]]'' 
+(used internally to compare
+different versions of a page).
+
+But an empty line
+starts a new paragraph.
+
+* When used in a list, a newline ''does'' affect the layout (see below).
+|
+<pre><nowiki>
+A single newline
+generally has no effect on the layout. 
+These can be used to separate
+sentences within a paragraph.
+Some editors find that this aids editing
+and improves the function ''diff'' 
+(used internally to compare
+different versions of a page).
+
+But an empty line
+starts a new paragraph.
+</nowiki></pre>
+|- valign="top"
+|
+You can break lines<br/>
+without starting a new paragraph.
+
+* Please use this sparingly.
+* Close markup between lines; do not start a [[Wikipedia:link]] or ''italics'' or '''bold''' on one line and close it on the next.
+|
+<pre><nowiki>
+You can break lines<br/>
+without starting a new paragraph.
+</nowiki></pre>
+|- id="lists" valign="top"
+|
+* It's easy to create a list:
+** Start every line with a star ([[Wikipedia:asterisk]]).
+*** More stars means deeper levels.
+**** A newline in a list
+marks the end of a list item.
+
+* An empty line starts a new list.
+|
+<pre><nowiki>
+* It's easy to create a list:
+** Start every line with a star.
+*** More stars means deeper levels.
+**** A newline in a list
+marks the end of a list item.
+
+* An empty line starts a new list.
+</nowiki></pre>
+|- valign="top"
+|
+<ol>
+<li>Numbered lists are also good
+<ol>
+<li>very organized</li>
+<li>easy to follow</li>
+<li>easier still</li>
+</ol>
+|
+<pre><nowiki>
+# Numbered lists are also good
+## very organized
+## easy to follow
+### easier still
+</nowiki></pre>
+|- valign="top"
+|
+* You can even create mixed lists
+*# and nest them
+*#* like this
+|
+<pre><nowiki>
+* You can even create mixed lists
+*# and nest them
+*#* like this
+</nowiki></pre>
+|- valign="top" id="definition"
+|
+; Definition list : list of definitions
+; item : the item's definition
+; another item
+: the other item's definition
+
+* One item per line; a newline can appear before the colon, but using a space before the colon improves parsing.
+|
+<pre><nowiki>
+; Definition list : list of definitions
+; item : the item's definition
+; another item
+: the other item's definition
+</nowiki></pre>
+|- valign="top"
+|
+: A colon indents a line or paragraph.
+A manual newline starts a new paragraph.
+
+* This is primarily for displayed material, but is also used for discussion on [[Wikipedia:Talk page|Talk page]]s.
+|
+<pre><nowiki>
+: A colon indents a line or paragraph.
+A manual newline starts a new paragraph.
+</nowiki></pre>
+|- valign=top
+|
+When there is a need for separating a block of text
+<blockquote>
+the '''blockquote''' command will indent both margins when needed instead of the left margin only as the colon does.  
+</blockquote> 
+This is useful for (as the name says) inserting blocks of quoted (and cited) text.  
+|
+<pre><nowiki>
+<blockquote>
+The '''blockquote''' command will indent 
+both margins when needed instead of the 
+left margin only as the colon does.  
+</blockquote>
+</nowiki></pre>
+|- valign=top
+|
+ IF a line starts with a space THEN
+    it will be formatted exactly
+    as typed;
+    in a fixed-width font;
+    lines will not wrap;
+ ENDIF
+
+For larger preformatted text passages you can use the <nowiki><pre>a lot of text</pre></nowiki> tag.
+
+*This is useful for:
+** pasting preformatted text;
+** algorithm descriptions;
+** program source code;
+** [[Wikipedia:ASCII art]];
+** chemical structures;
+* '''WARNING''': If you make it wide, you [[Wikipedia:page widening|force the whole page to be wide]] and hence less readable, especially for people who use lower resolutions. Never start ordinary lines with spaces.
+|
+<pre><nowiki>
+ IF a line starts with a space THEN
+    it will be formatted exactly
+    as typed;
+    in a fixed-width font;
+    lines will not wrap;
+ ENDIF
+</nowiki></pre>
+|- valign="top"
+|
+<center>Centered text.</center>
+
+* Please note the American spelling of "center."
+|
+<pre><nowiki>
+<center>Centered text.</center>
+</nowiki></pre>
+|- valign="top"
+|
+A [[Wikipedia:horizontal dividing line]]:
+this is above it...
+----
+...and this is below it.
+
+* Mainly useful for 
+**disambiguation - but to be used sparsely--only when separating completely different, unrelated (groups of) meanings
+**separating threads on Talk pages.
+|
+<pre><nowiki>
+A [[horizontal dividing line]]:
+this is above it...
+----
+...and this is below it.
+</nowiki></pre>
+|}
+
+=== Links and URLs ===
+{| border="1" cellpadding="2" cellspacing="0"
+|-
+! What it looks like
+! What you type
+|- valign="top"
+|
+London has [[Wikipedia:public transport]].
+
+* A link to another Wikipedia article.
+* Internally, the first letter of the target page is automatically capitalized and spaces are represented as underscores (typing an underscore in the link has the same effect as typing a space, but is not recommended).
+* Thus the link above is to the [[Wikipedia:URL]] en.wikipedia.org/wiki/Public_transport, which is the Wikipedia article with the name "Public transport". See also [[Wikipedia:Canonicalization]].
+|
+<pre><nowiki>
+London has [[public transport]].
+</nowiki></pre>
+|- valign="top"
+|
+San Francisco also has
+[[Wikipedia:public transport|public transportation]].
+
+* Same target, different name.
+* This is a [[Wikipedia:piped link]].
+* The "piped" text must be placed first, the text that will be displayed, second.
+|
+<pre><nowiki>
+San Francisco also has
+[[public transport|public transportation]].
+</nowiki></pre>
+|- valign="top"
+|
+San Francisco also has
+[[Wikipedia:public transport]]ation.
+
+Examples include [[Wikipedia:bus]]es, [[Wikipedia:taxi]]s,
+and [[Wikipedia:streetcar]]s.
+
+* Endings are blended into the link.
+* Preferred style is to use this instead of a piped link, if possible.
+|
+<pre><nowiki>
+San Francisco also has
+[[public transport]]ation.
+
+Examples include [[bus]]es, [[taxi]]s,
+and [[streetcar]]s.
+</nowiki></pre>
+|- valign="top"
+|
+See the [[Wikipedia:Manual of Style]].
+
+* A link to another [[Wikipedia:namespace|namespace]].
+|
+<pre><nowiki>
+See the [[Wikipedia:Manual of Style]].
+</nowiki></pre>
+|- id="link-to-section" valign="top"
+|
+[[Wikipedia:Economics#See also]] is a link
+to a section within another page.
+
+[[#Links and URLs]] is a link
+to a section on the current page.
+
+[[#example]] is a link to an
+anchor that was created using
+<span id="example">an id attribute</span>
+
+* The part after the number sign (#) must match a section heading on the page. Matches must be exact in terms of spelling, case, and punctuation.  Links to non-existent sections are not broken; they are treated as links to the top of the page.
+* Identifiers may be created by attaching an <code>id="..."></code> attribute to almost any HTML element.
+|
+<pre><nowiki>
+[[Economics#See also]] is a link
+to a section within another page.
+
+[[#Links and URLs]] is a link
+to a section on the current page.
+
+[[#example]] is a link to an
+anchor that was created using
+<span id="example">an id attribute</span>
+</nowiki></pre>
+|- valign="top"
+|
+Automatically hide stuff in parentheses:
+[[Wikipedia:kingdom (biology)|kingdom]].
+
+Automatically hide namespace:
+[[Wikipedia:Village Pump|Village Pump]]. 
+
+Or both:
+[[Wikipedia:Manual of Style (headings)|Manual of Style]]
+
+* The server fills in the part after the pipe character (|) when you save the page. The next time you open the edit box you will see the expanded piped link. When [[Wikipedia:Show preview|preview]]ing your edits, you will not see the expanded form until you press '''Save''' and '''Edit''' again. The same applies to links to sections within the same page ([[#link-to-section|see previous entry]]).
+
+But not:
+[[Wikipedia:Manual of Style#Links|]]
+
+* In such a case the server does not fill in the part after the pipe character (|) even when you save the page.
+|
+<pre><nowiki>
+Automatically hide stuff in parentheses:
+[[kingdom (biology)|]].
+
+Automatically hide namespace: 
+[[Wikipedia:Village Pump|]].
+
+Or both:
+[[Wikipedia:Manual of Style (headings)|]]
+
+But not:
+[[Wikipedia:Manual of Style#Links|]]
+</nowiki></pre>
+|- valign="top"
+|
+[[The weather in London]] is a page
+that does not exist yet.
+
+* You can create it by clicking on the link (but please do not do so with this particular link).
+* To create a new page: 
+*# Create a link to it on some other (related) page.
+*# Save that page.
+*# Click on the link you just made. The new page will open for editing.
+* For more information, see [[Wikipedia:How to start a page|How to start a page]] and check out Wikipedia's [[Wikipedia:Naming conventions|naming conventions]].
+* Please '''do not''' create a new article without linking to it from at least one other article.
+|
+<pre><nowiki>
+[[The weather in London]] is a page 
+that does not exist yet.
+</nowiki></pre>
+|- valign="top"
+|
+[[Wikipedia:How to edit a page]] is this page.
+
+* [[Wikipedia:Self link]]s appear as bold text when the article is viewed.
+* Do not use this technique to make the article name bold in the first paragraph; see the [[Wikipedia:Manual of Style#Article titles|Manual of Style]].
+|
+<pre><nowiki>
+[[Wikipedia:How to edit a page]] is this page.
+</nowiki></pre>
+|- valign="top"
+|
+When adding a comment to a Talk page,
+you should sign it by adding
+three tildes to add your user name:
+: [[User:Brockert|Ben Brockert]]
+or four to add user name plus date/time:
+: [[User:Brockert|Ben Brockert]] 00:18, Nov 19, 2004 (UTC)
+Five tildes gives the date/time alone:
+: 00:18, Nov 19, 2004 (UTC)
+
+* The first two both provide a link to your [[Wikipedia:user page|user page]].
+|
+<pre><nowiki>
+When adding a comment to a Talk page,
+you should sign it by adding
+three tildes to add your user name:
+: ~~~
+or four for user name plus date/time:
+: ~~~~
+Five tildes gives the date/time alone:
+: ~~~~~
+</nowiki></pre>
+|- valign="top"
+|
+ #REDIRECT [[Wikipedia:United Nations]]
+* [[Wikipedia:Redirect|Redirect]] one article title to another by placing a directive like the one shown to the right on the ''first'' line of the article (such as at a page titled "<nowiki>[[UN]]</nowiki>").
+|
+<pre><nowiki>
+ #REDIRECT [[United Nations]]
+</nowiki></pre>
+|- valign="top"
+|
+ NO USE!
+ #REDIRECT [[Wikipedia:United Nations#International_Years]]
+* Note that, while it is possible to link to a section, it is not possible to redirect to a section. For example, "<nowiki>#REDIRECT [[United Nations#International_Years]]</nowiki>" will redirect to the [[Wikipedia:United Nations]] page, but not to any particular section on it. This feature '''will not''' be implemented in the future, so such redirects should not be used.
+|
+<pre><nowiki>
+ NO USE!
+ #REDIRECT [[United Nations#International_Years]]
+</nowiki></pre>
+|- valign="top"
+|
+* '''In the article''' link to a page on any subject in another language by using a link of the form: <nowiki>[[:language code:Title]]</nowiki>.
+**<code><nowiki>[[:fr:Encyclopedia]]</nowiki></code> produces a link like this: [[Wikipedia:fr:Encyclopédie]]<br>
+**<code><nowiki>[[:fr:Encyclopedia|Read in french!]]</nowiki></code> produces a link like this: [[Wikipedia:fr:Encyclopédie|Read in french!]]
+**Since they may not help many users, use with discretion for e.g.: the same subject or information only available in another language
+* '''On the sidebar''' link to a page on the same subject in another language by using a link of the form: <nowiki>[[language code:Title]]</nowiki>.
+** It does not matter where you put these links while editing as they will always show up in the same place when you save the page, but placement at the end of the edit box is recommended.
+**Only <code><nowiki>[[fr:Encyclopédie]]</nowiki></code> adds a french language link to the side menu for the article.<br>
+**Only use for the same subject
+* Please see [[Wikipedia:Interlanguage links]] and the [[Wikipedia:meta:List of Wikipedias|list of languages and codes]].
+|
+<pre><nowiki>
+[[:fr:Wikipédia:Aide]]
+[[fr:Wikipédia:Aide]]
+</nowiki></pre>
+|- valign="top"
+|
+'''What links here''' and '''Related changes'''
+pages can be linked as:
+[[Special:Whatlinkshere/Wikipedia:How to edit a page]]
+and
+[[Special:Recentchangeslinked/Wikipedia:How to edit a page]]
+
+|
+<pre><nowiki>
+'''What links here''' and '''Related changes'''
+pages can be linked as:
+[[Special:Whatlinkshere/Wikipedia:How to edit a page]]
+and
+[[Special:Recentchangeslinked/Wikipedia:How to edit a page]]
+</nowiki></pre>
+|- valign="top"
+|
+A user's '''Contributions''' page can be linked as:
+[[Special:Contributions/UserName]]
+or
+[[Special:Contributions/192.0.2.0]]
+|
+<pre><nowiki>
+A user's '''Contributions''' page can be linked as:
+[[Special:Contributions/UserName]]
+or
+[[Special:Contributions/192.0.2.0]]
+</nowiki></pre>
+|- valign="top"
+|
+* To put an article in a [[Wikipedia:Category]], place a link like the one to the right anywhere in the article. As with interlanguage links, it does not matter where you put these links while editing as they will always show up in the same place when you save the page, but placement at the end of the edit box is recommended.
+|
+<pre><nowiki>
+[[Category:Character sets]]
+</nowiki></pre>
+|- valign="top"
+|
+* To ''link'' to a [[Wikipedia:Category]] page without putting the article into the category, use an initial colon (:) in the link.
+|
+<pre><nowiki>
+[[:Category:Character sets]]
+</nowiki></pre>
+|- id="link-external" valign="top"
+|
+Three ways to link to external (non-wiki) sources:
+# Bare URL: http://www.nupedia.com/ (bad style)
+# Unnamed link: [http://www.nupedia.com/] (only used within article body for footnotes)
+# Named link: [http://www.nupedia.com Nupedia]
+
+:See [[MetaWikiPedia:Interwiki_map]] for the list of shortcuts.
+
+* Square brackets indicate an external link. Note the use of a ''space'' (not a pipe) to separate the URL from the link text in the "named" version.
+* In the [[Wikipedia:URL|URL]], all symbols must be among:<br/>'''A-Z a-z 0-9 . _ \ / ~ % - + &amp; # ? ! = ( ) @ \x80-\xFF'''
+* URLs must start with the protocol (eg. <nowiki>[http://www.nupedia.com], not [www.nupedia.com]</nowiki>)
+* If a URL contains a character not in this list, it should be encoded by using a percent sign (%) followed by the [[Wikipedia:hexadecimal|hex]] code of the character, which can be found in the table of [[Wikipedia:ASCII#ASCII printable characters|ASCII printable characters]]. For example, the caret character (^) would be encoded in a URL as '''%5E'''.
+* There is a class that can be used to remove the arrow image from the external link. It is used in [[Template:Ref]] to stop the URL from expanding during printing. It should '''never''' be used in the main body of an article. However, there is an exception: wikilinks in Image markup. An example of the markup is as follows:
+** Markup: <nowiki><span class="plainlinksneverexpand"> [http://www.sec.gov/edgar.shtml SEC Filing]</span></nowiki>
+** Display: <span class="plainlinksneverexpand"> [http://www.sec.gov/edgar.shtml SEC Filing] </span>
+* See [[Wikipedia:External links]] for style issues.
+|
+<pre><nowiki>
+Three ways to link to external (non-wiki) sources:
+# Bare URL: http://www.nupedia.com/ (bad style)
+# Unnamed link: [http://www.nupedia.com/]
+      (only used within article body for footnotes)
+# Named link: [http://www.nupedia.com Nupedia]
+</nowiki></pre>
+|- valign="top"
+|
+Linking to other wikis:
+# [[Wikipedia:Interwiki]] link: [[Wiktionary:Hello]]
+# Named interwiki link: [[Wiktionary:Hello|Hello]]
+# Interwiki link without prefix: [[Wiktionary:Hello|Hello]]
+
+* All of these forms lead to the URL http://en.wiktionary.org/wiki/Hello
+* Note that interwiki links use the ''internal'' link style.
+* See [[MetaWikiPedia:Interwiki_map]] for the list of shortcuts; if the site you want to link to is not on the list, use an external link ([[#link-external|see above]]).
+* See also [[Wikipedia:How to link to Wikimedia projects]].
+
+Linking to another language's wiktionary:
+# [[Wiktionary:fr:bonjour]]
+# [[Wiktionary:fr:bonjour|bonjour]]
+# [[Wiktionary:fr:bonjour|fr:bonjour]]
+
+* All of these forms lead to the URL http://fr.wiktionary.org/wiki/bonjour
+|
+<pre><nowiki>
+Linking to other wikis:
+# [[Interwiki]] link: [[Wiktionary:Hello]]
+# Named interwiki link: [[Wiktionary:Hello|Hello]]
+# Interwiki link without prefix: [[Wiktionary:Hello|]]
+
+Linking to another language's wiktionary:
+# [[Wiktionary:fr:bonjour]]
+# [[Wiktionary:fr:bonjour|bonjour]]
+# [[Wiktionary:fr:bonjour|]]
+</nowiki></pre>
+|- valign="top"
+|
+ISBN 012345678X
+
+ISBN 0-12-345678-X
+
+* Link to books using their [[Wikipedia:ISBN|ISBN]]. This is preferred to linking to a specific online bookstore, because it gives the reader a choice of vendors.
+* ISBN links do not need any extra markup, provided you use one of the indicated formats.
+|
+<pre><nowiki>
+ISBN 012345678X
+
+ISBN 0-12-345678-X
+</nowiki></pre>
+|- valign=top
+|
+Date formats:
+# [[Wikipedia:July 20]], [[Wikipedia:1969]]
+# [[Wikipedia:20 July]] [[Wikipedia:1969]]
+# [[Wikipedia:1969]]-[[Wikipedia:07-20]]
+# [[Wikipedia:1969-07-20]]
+
+* Link dates in one of the above formats, so that everyone can set their own display order. If [[Special:Userlogin|logged in]], you can use [[Special:Preferences]] to change your own date display setting.
+* All of the above dates will appear as "[[Wikipedia:20 July|20 July]] [[Wikipedia:1969|1969]]" if you set your date display preference to "15 January 2001", but as "[[Wikipedia:20 July|July 20]], [[Wikipedia:1969|1969]]" if you set it to "January 15, 2001", or as "[[Wikipedia:1969|1969]]-[[Wikipedia:July 20|07-20]]" if you set it to "2001-01-15".
+|
+<pre><nowiki>
+Date formats:
+# [[July 20]], [[1969]]
+# [[20 July]] [[1969]]
+# [[1969]]-[[07-20]]
+# [[1969-07-20]]
+
+</nowiki></pre>
+|- valign="top"
+|
+[[Wikipedia:media:Sg_mrob.ogg|Sound]]
+
+*To include links to non-image uploads such as sounds, use a "media" link. For images, [[#Images|see next section]].
+
+Some uploaded sounds are listed at [[Wikipedia:Sound]].
+|
+<pre><nowiki>
+[[media:Sg_mrob.ogg|Sound]]
+</nowiki></pre>
+|}
+
+=== Images ===
+Only images that have been uploaded to Wikipedia can be used. To upload images, use the [[Special:Upload|upload page]]. You can find the uploaded image on the [[Special:Imagelist|image list]].
+
+{| border="1" cellpadding="2" cellspacing="0"
+|-
+! What it looks like
+! What you type
+|- valign="top"
+|A picture: 
+[[Image:wiki.png]]
+|<pre>A picture: 
+<nowiki>[[Image:wiki.png]]</nowiki></pre>
+
+
+
+|- valign="top"
+|With alternative text:
+[[Image:wiki.png|jigsaw globe]]
+|<pre>With alternative text:
+<nowiki>[[Image:wiki.png|jigsaw globe]]</nowiki></pre>
+* Alternative text, used when a mouse hovers over the image, when the image is loaded in a text-only browser, or when spoken aloud, is '''strongly''' encouraged. See [[Wikipedia:Alternate text for images|Alternate text for images]] for help on choosing it.
+
+
+|- valign="top"
+|Floating to the right side of the page and with a caption:
+[[Image:wiki.png|frame|Wikipedia Encyclopedia]]<br clear=all>
+|<pre>Floating to the right side of the page and with a caption:
+<nowiki>[[Image:wiki.png|frame|Wikipedia Encyclopedia]]</nowiki></pre>
+* The frame tag automatically floats the image right.
+* The caption is also used as alternate text.
+* to cancel a float at a certain text point, see [[Wikipedia:Picture_tutorial#Forcing a break|Forcing a break]], 
+
+
+|- valign="top"
+|Floating to the right side of the page ''without'' a caption:
+[[Image:wiki.png|right|Wikipedia Encyclopedia]]
+|<pre>Floating to the right side of the page ''without'' a caption:
+<nowiki>[[Image:wiki.png|right|Wikipedia Encyclopedia]]</nowiki></pre>
+* The help topic on [[Wikipedia:Extended image syntax|Extended image syntax]] explains more options.
+
+
+|- valign="top"
+|Linking directly to the description page of an image:
+[[:Image:wiki.png]]
+|<pre>Linking directly to the description page of an image:
+<nowiki>[[:Image:wiki.png]]</nowiki></pre>
+* Clicking on an image displayed on a page (such as any of the ones above) also leads to the description page
+
+|- valign="top"
+|Linking directly to an image without displaying it:
+[[media:wiki.png|Image of the jigsaw globe logo]]
+|<pre>Linking directly to an image without displaying it:
+<nowiki>[[media:wiki.png|Image of the jigsaw globe logo]]</nowiki></pre>
+* To include links to images shown as links instead of drawn on the page, use a "media" link.
+
+|}
+
+See the Wikipedia's [[Wikipedia:Image use policy|image use policy]] as a guideline used on Wikipedia.
+
+For further help on images, including some more versatile abilities, see the topic on [[Wikipedia:Extended image syntax|Extended image syntax]].
+
+=== Character formatting ===
+{| border="1" cellpadding="2" cellspacing="0"
+|- valign="top"
+! What it looks like
+! What you type
+|- id="emph" valign="top"
+|
+''Emphasize'', '''strongly''', '''''very strongly'''''.
+* These are double, triple, and quintuple apostrophes (single-quote marks), not double-quote marks.
+|
+<pre><nowiki>
+''Emphasize'', '''strongly''', '''''very strongly'''''.
+</nowiki></pre>
+|- valign="top"
+|
+<math>\sin x + \ln y</math>
+<br>
+sin''x'' + ln''y''
+<!-- no space between roman "sin" and italic "x" -->
+
+<math>\mathbf{x} = 0</math>
+<br>
+'''x''' = 0
+
+Ordinary text should use [[#emph|wiki markup for emphasis]], and should not use <code>&lt;i&gt;</code> or <code>&lt;b&gt;</code>.  However, mathematical formulas often use italics, and sometimes use bold, for reasons unrelated to emphasis.  Complex formulas should use [[Wikipedia:Help:Formula|<code>&lt;math&gt;</code> markup]], and simple formulas may use <code>&lt;math&gt;</code>; or <code>&lt;i&gt;</code> and <code>&lt;b&gt;</code>; or <code><nowiki>''</nowiki></code> and <code><nowiki>'''</nowiki></code>.  According to [[Wikipedia:WikiProject Mathematics#Italicization and bolding|WikiProject Mathematics]], wiki markup is preferred over HTML markup like <code>&lt;i&gt;</code> and <code>&lt;b&gt;</code>.
+|
+<pre><nowiki>
+<math>\sin x + \ln y</math>
+
+sin''x'' + ln''y''
+
+<math>\mathbf{x} = 0</math>
+
+'''x''' = 0
+</nowiki></pre>
+|- valign="top"
+|
+A typewriter font for <tt>monospace text</tt>
+or for computer code: <code>int main()</code>
+
+* For semantic reasons, using <code>&lt;code&gt;</code> where applicable is preferable to using <code>&lt;tt&gt;</code>.
+|
+<pre><nowiki>
+A typewriter font for <tt>monospace text</tt>
+or for computer code: <code>int main()</code>
+</nowiki></pre>
+|- valign="top"
+|
+You can use <small>small text</small> for captions.
+|
+<pre><nowiki>
+You can use <small>small text</small> for captions.
+</nowiki></pre>
+|- valign="top"
+|
+You can <s>strike out deleted material</s>
+and <u>underline new material</u>.
+
+You can also mark <del>deleted material</del> and
+<ins>inserted material</ins> using logical markup
+rather than visual markup.
+
+* When editing regular Wikipedia articles, just make your changes and do not mark them up in any special way.
+* When editing your own previous remarks in talk pages, it is sometimes appropriate to mark up deleted or inserted material.
+|
+<pre><nowiki>
+You can <s>strike out deleted material</s>
+and <u>underline new material</u>.
+
+You can also mark <del>deleted material</del> and
+<ins>inserted material</ins> using logical markup
+rather than visual markup.
+</nowiki></pre>
+|- valign="top&quot;
+|
+'''Diacritical marks:'''
+<br/>
+À Á Â Ã Ä Å <br/>
+Æ Ç È É Ê Ë <br/>
+Ì Í
+Î Ï Ñ Ò <br/>
+Ó Ô Õ
+Ö Ø Ù <br/>
+Ú Û Ü ß
+à á <br/>
+â ã ä å æ
+ç <br/>
+è é ê ë ì í<br/>
+î ï ñ ò ó ô <br/>
+&oelig; õ
+ö ø ù ú <br/>
+û ü ÿ
+
+* See [[Wikipedia:meta:Help:Special characters|special characters]].
+|
+<br/>
+<pre><nowiki>
+&amp;Agrave; &amp;Aacute; &amp;Acirc; &amp;Atilde; &amp;Auml; &amp;Aring; 
+&amp;AElig; &amp;Ccedil; &amp;Egrave; &amp;Eacute; &amp;Ecirc; &amp;Euml; 
+&amp;Igrave; &amp;Iacute; &amp;Icirc; &amp;Iuml; &amp;Ntilde; &amp;Ograve; 
+&amp;Oacute; &amp;Ocirc; &amp;Otilde; &amp;Ouml; &amp;Oslash; &amp;Ugrave; 
+&amp;Uacute; &amp;Ucirc; &amp;Uuml; &amp;szlig; &amp;agrave; &amp;aacute; 
+&amp;acirc; &amp;atilde; &amp;auml; &amp;aring; &amp;aelig; &amp;ccedil; 
+&amp;egrave; &amp;eacute; &amp;ecirc; &amp;euml; &amp;igrave; &amp;iacute;
+&amp;icirc; &amp;iuml; &amp;ntilde; &amp;ograve; &amp;oacute; &amp;ocirc; 
+&amp;oelig; &amp;otilde; &amp;ouml; &amp;oslash; &amp;ugrave; &amp;uacute; 
+&amp;ucirc; &amp;uuml; &amp;yuml;
+</nowiki></pre>
+|- valign="top"
+|
+'''Punctuation:'''
+<br/>
+¿ ¡ § ¶<br/>
+&dagger; &Dagger; &bull; &ndash; &mdash;<br/>
+&lsaquo; &rsaquo; « »<br/>
+&lsquo; &rsquo; &ldquo; &rdquo;
+|
+<br/>
+<pre><nowiki>
+&amp;iquest; &amp;iexcl; &amp;sect; &amp;para;
+&amp;dagger; &amp;Dagger; &amp;bull; &amp;ndash; &amp;mdash;
+&amp;lsaquo; &amp;rsaquo; &amp;laquo; &amp;raquo;
+&amp;lsquo; &amp;rsquo; &amp;ldquo; &amp;rdquo;
+</nowiki></pre>
+|- valign="top"
+|
+'''Commercial symbols:'''
+<br/>
+&trade; © ® ¢ &euro; ¥<br/>
+£ ¤
+|
+<br/>
+<pre><nowiki>
+&amp;trade; &amp;copy; &amp;reg; &amp;cent; &amp;euro; &amp;yen; 
+&amp;pound; &amp;curren;
+</nowiki></pre>
+|- valign="top"
+|
+'''Subscripts:'''
+<br/>
+x<sub>1</sub> x<sub>2</sub> x<sub>3</sub> or
+<br/>
+x&#8320; x&#8321; x&#8322; x&#8323; x&#8324;
+<br/>
+x&#8325; x&#8326; x&#8327; x&#8328; x&#8329;
+
+'''Superscripts:'''
+<br/>
+x<sup>1</sup> x<sup>2</sup> x<sup>3</sup> or
+<br/>
+x&#8304; x&sup1; x&sup2; x&sup3; x&#8308;
+<br/>
+x&#8309; x&#8310; x&#8311; x&#8312; x&#8313;
+
+*The latter methods of sub/superscripting cannot be used in the most general context, as they rely on Unicode support which may not be present on all users' machines. For the 1-2-3 superscripts, it is nevertheless preferred when possible (as with units of measurement) because most browsers have an easier time formatting lines with it.
+
+&epsilon;<sub>0</sub> =
+8.85 &times; 10<sup>&minus;12</sup>
+C&sup2; / J m.
+
+1 [[Wikipedia:hectare]] = [[Wikipedia:1 E4 m&sup2;]]
+|
+<br/>
+<pre><nowiki>
+x<sub>1</sub> x<sub>2</sub> x<sub>3</sub> or
+<br/>
+x&amp;#8320; x&amp;#8321; x&amp;#8322; x&amp;#8323; x&amp;#8324;
+<br/>
+x&amp;#8325; x&amp;#8326; x&amp;#8327; x&amp;#8328; x&amp;#8329;
+</nowiki></pre>
+
+<pre><nowiki>
+x<sup>1</sup> x<sup>2</sup> x<sup>3</sup> or
+<br/>
+x&amp;#8304; x&amp;sup1; x&amp;sup2; x&amp;sup3; x&amp;#8308;
+<br/>
+x&amp;#8309; x&amp;#8310; x&amp;#8311; x&amp;#8312; x&amp;#8313;
+
+&amp;epsilon;<sub>0</sub> =
+8.85 &amp;times; 10<sup>&amp;minus;12</sup>
+C&amp;sup2; / J m.
+
+1 [[hectare]] = [[1 E4 m&amp;sup2;]]
+</nowiki></pre>
+|- valign="top"
+|
+'''Greek characters:'''
+<br/>
+&alpha; &beta; &gamma; &delta; &epsilon; &zeta;<br/>
+&eta; &theta; &iota; &kappa; &lambda; &mu; &nu;<br/>
+&xi; &omicron; &pi; &rho; &sigma; &sigmaf;<br/>
+&tau; &upsilon; &phi; &chi; &psi; &omega;<br/>
+&Gamma; &Delta; &Theta; &Lambda; &Xi; &Pi;<br/>
+&Sigma; &Phi; &Psi; &Omega;
+|
+<br/>
+<pre><nowiki>
+&amp;alpha; &amp;beta; &amp;gamma; &amp;delta; &amp;epsilon; &amp;zeta; 
+&amp;eta; &amp;theta; &amp;iota; &amp;kappa; &amp;lambda; &amp;mu; &amp;nu; 
+&amp;xi; &amp;omicron; &amp;pi; &amp;rho; &amp;sigma; &amp;sigmaf;
+&amp;tau; &amp;upsilon; &amp;phi; &amp;chi; &amp;psi; &amp;omega;
+&amp;Gamma; &amp;Delta; &amp;Theta; &amp;Lambda; &amp;Xi; &amp;Pi; 
+&amp;Sigma; &amp;Phi; &amp;Psi; &amp;Omega;
+</nowiki></pre>
+|- valign="top"
+|
+'''Mathematical characters:'''
+<br/>
+&int; &sum; &prod; &radic; &minus; &plusmn; &infin;<br/>
+&asymp; &prop; &equiv; &ne; &le; &ge;<br/>
+&times; &middot; &divide; &part; &prime; &Prime;<br/>
+&nabla; &permil; &deg; &there4; &alefsym; &oslash;<br/>
+&isin; &notin; &cap; &cup; &sub; &sup; &sube; &supe;<br/>
+&not; &and; &or; &exist; &forall; &rArr; &hArr;<br/>
+&rarr; &harr;<br/>
+* See also [[Wikipedia:WikiProject Mathematics|WikiProject Mathematics]].
+|
+<br/>
+<pre><nowiki>
+&amp;int; &amp;sum; &amp;prod; &amp;radic; &amp;minus; &amp;plusmn; &amp;infin;
+&amp;asymp; &amp;prop; &amp;equiv; &amp;ne; &amp;le; &amp;ge;
+&amp;times; &amp;middot; &amp;divide; &amp;part; &amp;prime; &amp;Prime;
+&amp;nabla; &amp;permil; &amp;deg; &amp;there4; &amp;alefsym; &amp;oslash;
+&amp;isin; &amp;notin; &amp;cap; &amp;cup; &amp;sub; &amp;sup; &amp;sube; &amp;supe;
+&amp;not; &amp;and; &amp;or; &amp;exist; &amp;forall; &amp;rArr; &amp;hArr;
+&amp;rarr; &amp;harr;
+</nowiki></pre>
+|- valign="top"
+|
+'''Spacing in simple math formulas:'''
+<br/>
+Obviously, ''x''&sup2;&nbsp;&ge;&nbsp;0 is true.
+*To space things out without allowing line breaks to interrupt the formula, use non-breaking spaces: <tt>&amp;nbsp;</tt>.
+|
+<br/>
+<pre><nowiki>
+Obviously, ''x''&amp;sup2;&amp;nbsp;&amp;ge;&amp;nbsp;0 is true.
+</nowiki></pre>
+|- valign="top"
+|
+'''Complicated formulas:'''
+<br/>
+: <math>\sum_{n=0}^\infty \frac{x^n}{n!}</math>
+
+* See [[Wikipedia:Help:Formula]] for how to use <tt>&lt;math></tt>.
+* A formula displayed on a line by itself should probably be indented by using the colon (:) character.
+|
+<br/>
+<pre><nowiki>
+: <math>\sum_{n=0}^\infty \frac{x^n}{n!}</math>
+
+</nowiki></pre>
+|- valign="top"
+|
+'''Suppressing interpretation of markup:'''
+<br/>
+<nowiki>Link &rarr; (''to'') the [[Wikipedia FAQ]]</nowiki>
+* Used to show literal data that would otherwise have special meaning.
+* Escape all wiki markup, including that which looks like HTML tags.
+* Does not escape HTML character references.
+* To escape HTML character references such as <tt>&amp;rarr;</tt> use <tt>&amp;amp;rarr;</tt>
+|
+<br/>
+<pre><nowiki>
+&lt;nowiki>Link &amp;rarr; (''to'') 
+the [[Wikipedia FAQ]]&lt;/nowiki>
+</nowiki></pre>
+|- valign="top"
+|
+'''Commenting page source:'''
+<br/>
+''not shown when viewing page''
+* Used to leave comments in a page for future editors.
+* Note that most comments should go on the appropriate [[Wikipedia:Talk page|Talk page]].
+|
+<br/>
+<pre><nowiki>
+&lt;!-- comment here -->
+</nowiki></pre>
+|}
+''(see also: [[Wikipedia:Chess symbols in Unicode]])''
+
+===Table of contents===
+<!-- ==== Placement of the Table of Contents (TOC) ==== -->
+At the current status of the wiki markup language, having at least four headers on a page triggers the TOC to appear in front of the first header (or after introductory sections).  Putting <nowiki>__TOC__</nowiki> anywhere forces the TOC to appear at that point (instead of just before the first header).  Putting <nowiki>__NOTOC__</nowiki> anywhere forces the TOC to disappear.  See also [[Wikipedia:Section#Compact_TOC|compact TOC]] for alphabet and year headings.
+<!--
+THE TEXT BELOW IS COMMENTED OUT SINCE THE DESCRIBED TECHNIQUE 
+DOESN'T WORK AFTER UPGRADING TO MEDIAWIKI 1.5
+
+==== Keeping headings out of the Table of Contents ====
+
+If you want some subheadings to not appear in the Table of Contents, then make the following replacements.
+
+Replace  <nowiki> == Header 2 == with <h2> Header 2 </h2> </nowiki>
+
+Replace  <nowiki> === Header 3 === with <h3> Header 3 </h3> </nowiki>
+
+And so forth.
+
+For example, notice that the following header has the same font as the other subheaders to this "Tables" section, but the following header does not appear in the Table of Contents for this page.
+
+<h4> This header has the h4 font, but is NOT in the Table of Contents (actually, it is)</h4>
+
+This effect is obtained by the following line of code.
+
+<code><nowiki><h4> This header has the h4 font, but is NOT in the Table of Contents </h4></nowiki></code>
+
+Note that when editing by section, this approach places the text between the tags in the subsequent section, not the previous section. To edit this text, click the edit link next to "Tables", not the one above.
+-->
+
+=== Tables ===
+There are two ways to build tables: 
+*in special Wiki-markup (see [[Wikipedia:Help:Table]])
+*with the usual HTML elements: &lt;table&gt;, &lt;tr&gt;, &lt;td&gt; or &lt;th&gt;.
+
+For the latter, and a discussion on when tables are appropriate, see [[Wikipedia:How to use tables]].
+
+===Variables===
+
+''See [[Help:Magic words]]''
+
+===Templates===
+
+The [[Wikipedia:MediaWiki|MediaWiki]] software used by Wikipedia has support for templates. This means standardized text chunks (such as [[Wikipedia:Template messages|boilerplate]] text) can be inserted into articles. For example, typing <nowiki>{{stub}}</nowiki> will appear as "''This article is a [[Wikipedia:Stub|stub]]. You can help Wikipedia by [[Wikipedia:Stub|expanding it]].''" when the page is saved. See [[Wikipedia:Template messages]] for the complete list. Other commonly used templates are: <nowiki>{{disambig}}</nowiki> for disambiguation pages, <nowiki>{{spoiler}}</nowiki> for spoiler warnings and <nowiki>{{sectstub}}</nowiki> like an article stub but for a section. There are many subject-specific stubs for example: <nowiki> {{Geo-stub}}, {{Hist-stub}}, and {{Linux-stub}}</nowiki>. For a complete list of stubs see [[Wikipedia:WP:WSS/ST]].
+
+===Hiding the edit links===
+
+Insert '''<nowiki>__NOEDITSECTION__</nowiki>''' into the document to suppress the edit links that appear next to every section header.
+
+==More information on editing wiki pages==
+
+You may also want to learn about:
+
+* [[Help:Starting a new page|How to start a page]] 
+* Informal tips on [[Wikipedia:Contributing to Wikipedia|contributing to Wikipedia]]
+* Why not to rename pages '''boldly''', at [[Wikipedia:How to rename (move) a page]]
+* Preferred layout of your article, at the [[Wikipedia:Guide to layout]] (see also [[Wikipedia:Boilerplate text]])
+* Style conventions in the [[Wikipedia:Manual of Style]] and [[Wikipedia:Category:Wikipedia style guidelines]]
+* An article with annotations pointing out common Wikipedia style and layout issues, at [[Wikipedia:Annotated article]]
+* General policies in [[Wikipedia:Policies and guidelines]]
+* [[Wikipedia:Naming conventions]] for how to name articles themselves
+* Help on [[Wikipedia:Page_size#If_you_have_problems_editing_a_long_article|editing very large articles]]
+* If you are making an article about something that belongs to a group of objects (a city, an astronomical object, a Chinese character…) check if there is a [[Wikipedia:WikiProject|WikiProject]] on the group and try to follow its directions explicitly.
+* [[Wikipedia:Help:Formula]]
+* [[m:Help:Editing|Mediawiki user's guide to editing]]
+* [[Wikipedia:MediaWiki]] - About the software that runs Wikipedia
+
+[[Category:Help|{{PAGENAME}}]]

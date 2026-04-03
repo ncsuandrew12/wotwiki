@@ -1,0 +1,4 @@
+'''Acem''' is an [[herb]]. It can be combined with [[feverbane]] to cure the white shakes, a disease that causes fever, coughing, and the loss of ones senses.{{ref|{{twotc}}, White Shakes}}{{ref/book|12|32}} Acem can also be used to help heal bumps and bruises.{{ref/book|4|52}} [[Nynaeve al'Meara]] used the mixture of acem and feverbane, along with [[Healing]], to cure a child in [[Arad Doman]] of the white shakes.{{ref/book|12|32}}
+
+{{notes}}
+{{short}}

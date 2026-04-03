@@ -1,0 +1,14 @@
+== Example ==
+{| class=wikitable
+! Code
+! Result
+|-
+|<code><nowiki>{{#invoke:OT|get_entry|word=ajah}}</nowiki></code
+|              {{#invoke:OT|get_entry|word=ajah}}
+|-
+|<code><nowiki>{{#invoke:OT|get_part|word=ajah}}</nowiki></code
+|              {{#invoke:OT|get_part|word=ajah}}
+|-
+|<code><nowiki>{{#invoke:OT|get_definition|word=ajah}}</nowiki></code
+|              {{#invoke:OT|get_definition|word=ajah}}
+|}

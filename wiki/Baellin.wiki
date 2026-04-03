@@ -1,0 +1,15 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Alive
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| clan=Shiande
+| sept=Degalle
+}}'''Baellin''' is a [[Wise One]] of the [[Degalle]] sept of the [[Shiande]] [[Aiel]].{{ref|{{twotc}}, Janwin}}
+
+==History==
+Baellin is the Wise One of [[Nine Stones Hold]], a settlement belonging to the Shiande Aiel of the [[Degalle]] sept. She is thus the Wise One in service to [[Janwin]], the [[clan chief]] of the Shiande.
+
+{{notes}}

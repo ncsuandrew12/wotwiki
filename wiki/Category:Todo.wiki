@@ -1,0 +1,11 @@
+[[Image:Evolution-tasks.png|right|<nowiki></nowiki>]]
+<choose>
+<option>{{Q|How soon not now, becomes never.|Martin Luther King}}</option>
+<option>{{Q|In delay there lies no plenty.|William Shakespeare}}</option>
+<option>{{Q|Don't wait. The time will never be just right.|Napoleon Hill}}</option>
+<option>{{Q|To think too long about doing a thing often becomes its undoing|Eva Young}}</option>
+<option>{{Q|Even if you're on the right track - you'll get run over if you just sit there.|Will Rogers}}</option>
+<option>{{Q|It is an undoubted truth, that the less one has to do, the less time one finds to do it in.|Earl of Chesterfield}}</option>
+<option>{{Q|How does a project get to be a year behind schedule? One day at a time.|Fred Brooks}}</option>
+</choose>
+[[Category:Administrative| Todo]]

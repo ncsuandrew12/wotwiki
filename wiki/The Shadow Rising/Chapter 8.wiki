@@ -1,0 +1,85 @@
+{{quote|Three questions? You go like Bili,{{ref|''[[Bili Under The Hill]]''}} I suppose, spend a night and come out ten years later with a purse that's always full of gold and a--|[[Matrim Cauthon]]|The [[Twisted redstone doorframe]]}}
+{{summary | book=4 |
+|chapter=8
+|title=Hard Heads
+|icon=Dragon
+|setting=[[Stone of Tear]]
+}}
+
+==Summary==
+:{{pov|[[Elayne Trakand]]}} {{setting|Rand's chambers in the [[Stone of Tear]]}}
+[[file:Elayne trakand reddera.jpg|thumb|left|150px|''"How could you even consider such a thing? Do you imagine we would hand you around like a package? You think a good deal of yourself. There is such a thing as being overproud."'' -Elayne to Rand]]
+[[Rand al'Thor|Rand]] is startled to discover that [[Elayne Trakand|Elayne]] did not depart with [[Egwene al'Vere|Egwene]] and stammers a bit. Rand offers Elayne a flower but cannot summon ''[[saidin]]'' to turn a bundle of feathers into one. He gives her a bundle of cloth instead and Elayne graciously accepts, taking the feathers as well because he had wanted them to be a flower. Elayne nervously tells Rand how she feels about him and he nervously does the same. She asks him to kiss her and it lasts a long time. She is determined not to let [[Berelain]] have him. She wonders if [[Min]] had a viewing about who Rand would choose.{{ref/book|1|15}}{{ref/book|2|24}} Rand apologizes again for scaring them. She asks if he is sorry about the pinch, but he refuses to apologize for that saying they deserved it. For being honest she soothes his pinch, about the most she can do with [[Healing]].
+
+[[Gaul]] knocks on the door then enters announcing the High Lords. They enter and Elayne makes her departure. Seeing Rand among the [[High Nobility of Tear|High Lords]] she realizes that he has a commanding presence much like [[Gareth Bryne]]. She leaves thinking that she has four days left to question [[Amico]] and [[Joiya]] and four days left to make Rand hers and not Berelain's.
+
+:{{pov|[[Rand al'Thor]]}} {{setting|Rand's chambers in the [[Stone of Tear]]}}
+[[file:Rand by Ariel Burgess.jpg|thumb|left|275px]]
+Rand muses about Elayne while the High Lords talk. He likes both Elayne and Min and is confused about his feelings. [[Sunamon Haellin]] brings his attention back to the meeting while the other High Lords ignore the damage done to his chambers.{{ref/book|4|3}}{{ref/book|4|7}} Rand notes how [[Carleon]] and [[Tedosian]] never meet each other's eye, confirming the suspicions from [[Thom]]'s timely note. Rand orders them to lower taxes. [[Meilan]] immediately objects at the bad precedent.
+
+Rand stands in front of ''[[Callandor]]'' in order to remind them of who and what he was. Thoughts about the women{{ref/book|4|7}} and his plans hidden within three books keep taking his focus off the High Lords. The conversation turns to the excess grain stockpiled in Tear. Rand uses his understanding of dealings between the [[Watch Hill]], [[Deven Ride]], and [[Emond's Field]] during hardship and orders the High Lords to offer the grain to [[Illian]]{{ref/book|7|41}} or [[Altara]] with help from [[Mayene]] ships in return for leaving the small nation alone as he promised.{{ref/book|4|3}} Tedosian strenuously objects. He quells further opposition with his temper and begins to bend the High Lords to do his bidding.
+
+:{{pov|[[Egwene al'Vere]]}} {{setting|The hallways of the [[Stone of Tear]]}}
+[[file:Egwene by pollyuranus.jpg|thumb|left]]
+Egwene traverses the halls while thinking of [[Joiya]] and [[Amico]] when [[Mat]] appears and walks with her. He seems uncharacteristically troubled as servants and High Lords pass them by. She asks him about the troubles from last night{{ref/book|4|2}} and Mat laughs off the danger. She notes that she and [[Nynaeve]] have not seen him in a while. While Mat silently flirts with a servant at least ten years his senior, he claims that he's been busy playing cards, reminding her that the last time he saw them, they tied him up with the [[One Power]] and stole from him; aside from that, they are always with Elayne and [[Moiraine]]. Egwene retorts that they were only taking back the letter from the [[Amyrlin Seat|Amyrlin]] that they had given him.{{ref/book|3|28}}
+
+Finally, Mat tells her that he needs some advice about what comes next and the holes in his memory. She suggests Moiraine but Mat instantly refuses the help from an [[Aes Sedai]]. She finally tells him of the ''[[ter'angreal]]'', the [[twisted redstone doorframe]] and the answers you can receive on the other side. Mat asks Egwene whether she wishes all of this never happened and they were still at home, and Egwene quickly says no and Mat agrees. Egwene asks him to promise not go into the ''ter'angreal'' without asking Moiraine for permission first, but Mat only promises not to go in unless his life depends on it.{{ref/book|4|15}}
+
+==Characters==
+*[[Elayne]] 
+*[[Rand]] 
+*[[Egwene]]
+*[[Gaul]]
+*[[Sunamon Haellin]]
+*[[Carleon]]
+*[[Tedosian]]
+*[[Meilan]]
+*[[Mat]]
+
+===Referenced===
+*[[Moiraine]]
+*[[Berelain]] 
+*[[Min]]
+*[[Gareth Bryne]]
+*[[Joiya Byir]]
+*[[Amico Nagoyin]]
+*[[Morgase]]
+*[[Torean Andiama]]
+*[[Thom]]
+*[[Nynaeve]]
+*[[Siuan]] - as ''Amyrlin''
+*[[majhere]]
+
+==Places==
+*[[Stone of Tear]]
+
+===Referenced===
+*[[Tear]] 
+*[[Andor]]
+*[[Waterwood]]
+*[[Two Rivers]]
+*[[Caemlyn]]
+*[[Cairhien]]
+*[[Emond's Field]]
+*[[Deven Ride]]
+*[[Watch Hill]]
+*[[Illian]] 
+*[[Altara]]
+*[[Mayene]]
+
+==Concepts==
+===Books===
+*''[[The Treasures of the Stone of Tear]]'' 
+*''[[Travels in the Aiel Waste, with Various Observations on the Savage Inhabitants]]''
+*''[[Dealings with the Territory of Mayene, 500 to 700 of the New Era]]''
+* ''The [[Karaethon Cycle]]''
+
+==Quotes==
+{{quote|The peasants have always paid easily, but if we lower their taxes, when the day comes that we raise them back to where they are now, the fools will complain as bitterly as if we had doubled the present levy. There might will be riots when that day comes, my [[Dragon|Lord Dragon]].|[[Meilan]]|[[Rand]]'s decision to lower taxes.}}
+{{quote|We trade little with Illian, my Lord Dragon. They are vultures, and scum."
+"We have always dealt with Mayene from strength, my Lord Dragon. Never with bent knee.|Tedosian & Meilan|Rand's proposal to sell grain to Illian with Mayener ships.}}
+
+{{notes}}
+*At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''Hard Heads''}}

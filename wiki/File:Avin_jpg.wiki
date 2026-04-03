@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Avin]]
+| Source             = ''[[The Eye of the World 9]]''
+| Artist             = Andie Tong
+| Artist2            = Nicolas Chapuis‎
+}}

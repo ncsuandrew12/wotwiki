@@ -1,0 +1,12 @@
+{{dablink|For other uses of the word "road," see [[Road]].}}
+The '''North Road''' is a road located in the [[Two Rivers]] that stretches between [[Taren Ferry]] and [[Emond's Field]].{{ref|{{twotc}}, North Road}}
+
+==Geography==
+The North Road begins at the southern banks of the [[River Tarendrelle]] in the [[Taren Ferry]] community. From there it passes south out of the town and runs adjacent to the [[Westwood]]. After several miles it passes the village limits of [[Watch Hill]]. From there it continues south and terminates at the [[Wagon Bridge]] in [[Emond's Field]] next to the [[Winespring Inn]] and the village [[Green]]. On the opposite side of the bridge the traveled-way continues to [[Deven Ride]] under a new name; the [[Old Road]]. Although outsiders often find it odd that the continuous road through Emond's Field changes names on either side of the Wagon Bridge, villagers accept the convention without question.{{ref/book|1|1}}
+
+==History==
+Long ago when [[Manetheren]] ruled the region, an intersection between the east-west road to the mountain home and a primary north-south route existed on the site that would one day be called Aemon's Field. The east-west route is now called the [[Quarry Road]] by local farmers. A possible explanation for why the main road in Emond's Field changes names at the Wagon Bridge is that travelers leaving the Manetheren capital city could make a choice to either continue east on a road that no longer exists or travel either north or south at this intersection. In time, one choice became known as the "North Road" leading to the watchtower at modern day Watch Hill, and the other became the "South Road" heading towards the bridge spanning the [[River Manetherendrelle]] near modern day Deven Ride. After Manetheren was destroyed, the route east was abandoned as the [[Winespring Water]] began flooding the [[Waterwood]] and farmers who returned to the region began to forget why the name of the two remaining roads changed at Aemon's Field, though they continued to use the older conventions. Eventually the "South Road" changed to become the Old Road, for reasons forgotten but the North Road retained it's old name.
+
+{{notes}}
+[[Category:Two Rivers]]
+[[Category:Roads]]

@@ -1,0 +1,11 @@
+The '''''River Queen''''' is a river ship. No mention is made of the names of the captain or any of the crew.
+
+==Activities==
+The ''River Queen'' traveled the [[Erinin River]] from [[Tar Valon]] to [[Medo]] and back.{{ref/book|2|12}} The ''Queen'' carried the [[Amyrlin Seat|Amyrlin]] [[Siuan Sanche]] and her party to Medo, where they then traveled to [[Fal Dara]] in [[Shienar]]. After meeting with [[Rand al'Thor]], the Amyrlin's party returned to Medo and sailed back to Tar Valon with [[Egwene al'Vere]] and [[Nynaeve al'Meara]].{{ref/book|2|18}}
+
+{{notes}}
+{{short}}
+{{DISPLAYTITLE:''River Queen''}}
+
+[[es:Reina fluvial]]
+[[Category:Ships]]

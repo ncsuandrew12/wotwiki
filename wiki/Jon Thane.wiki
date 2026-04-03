@@ -1,0 +1,34 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Miller
+| title=Village Councilor
+| gender=Male
+| status=Alive
+| affiliation=Two Rivers
+| mentioned={{teotw|1}}
+| appeared={{teotw|2}}
+| lastappeared={{tsr|56}}
+| lastmentioned={{tom|14}}
+| living=tsr
+}}
+{{dablink|For others with the same first name, see [[Jon]]. For others with the same surname, see [[Thane]].}}
+
+'''Jon Thane''' is a miller who lives in [[Emond's Field]]. His oldest son is [[Lem Thane]].
+
+==Appearance & Mannerisms==
+Master Thane is of average height and coloring for a [[Two Rivers]] man. He is deeply devoted to the maintenance and operation of his mill. He is also well known for demanding that his employees labor with a sense of urgency and that they do things right the first time.{{ref/book|2|7}}
+
+==History==
+Jon Thane has lived in the Two Rivers for his entire life. He comes from a long line of farmers and laborers and took up the life himself at a young age. It is not known if he inherited his mill or if he built it himself. He does however oversee the general operations of the business which grinds various grains for use by Two Rivers inhabitants. His mill is located along the [[Winespring Water]] about a mile east of Emond's Field. Since he has been a productive leader in the community for several years and is well respected, he has been elected to the [[Village Council]].
+
+== Activities ==
+On the day before [[Winternight]] in {{ne|998}} he traveled to Emond's Field to meet with the rest of the Village Council in the [[The Winespring Inn]].{{ref/book|1|2}} Later he was present with the Council when they conferred with [[Padan Fain]] regarding recent troubles in [[Ghealdan]].{{ref/book|1|3}} After [[Trolloc]]s attack Emond's Field he led a night watch of militiamen guarding the community.{{ref/book|1|10}} The same night Jon sold [[Cloud]], the horse that [[Rand al'Thor|Rand]] rode out of Emond's Field, to [[Al'Lan Mandragoran|Lan]].{{ref/book|1|10}}
+
+In the Summer of {{ne|999}} he was present in Emond's Field when [[Shadowspawn]] threatened the community. At one point a lone Trolloc that had wandered away from its [[Fist]] attacked Jon and another man. They were both healed by [[Verin Mathwin]] and [[Alanna Mosvani]].{{ref/book|4|44}} Jon later participated in the [[Battle of Emond's Field]] where he, along with [[Samel Crawe]], led a defense of the east perimeter of the village.{{ref/book|4|56}} Prior to the battle Jon had seen the rising smoke of his burning mill,{{ref/book|4|56}} and was grimly determined to prevail over the Trollocs.{{ref|{{twotc}}, Jon Thane}}
+
+Sometime after the battle he accused Jac Coplin and Len Congar of stealing a cow.  He appealed his case directly to [[Perrin Aybara]] and [[Zarine ni Bashere t'Aybara|Faile Bashere]] who insisted on proof of the crime before dispensing appropriate justice upon Jac and Len.{{ref/book|11|30}}
+
+{{notes}}
+{{DEFAULTSORT:Thane, Jon}}

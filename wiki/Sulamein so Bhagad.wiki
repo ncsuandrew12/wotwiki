@@ -1,0 +1,24 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=150px
+| ewothist=Sulamein
+| status=Forseen
+| nationality=Unknown nationality
+| title=Chief Historian
+| occupation=Historian
+| affiliation=Court of the Sun
+| gender=Female
+| mentioned={{tsr|58}}
+| lastmentioned={{tsr|58}}
+}}
+'''Sulamein so Bhagad''' was the Chief Historian at the [[Court of the Sun]]. in the [[Fourth Age]].{{ref/book|4|58}}
+
+==Activities==
+Sulamein wrote ''The Wheel of Time.''
+
+{{quote|And when the blood was sprinkled on ground where nothing could grow, the [[Children of the Dragon]] did spring up, the People of the Dragon, armed to dance with death. And he did call them forth from the wasted lands, and they did shake the world with battle.|''The Wheel of Time'' by Sulamein so Bhagad''}}
+
+{{notes}}
+
+{{short}}
+[[Category:Historical people]]

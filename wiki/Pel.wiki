@@ -1,0 +1,18 @@
+{{dablink|This page concerns the wagon driver seen in Lugard. For the [[Two Rivers]] man, see [[Pel Aydaer]].}}
+{{Character
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Alive
+| gender=Male
+| occupation=Wagon Driver
+| living=tfoh
+| appeared={{tfoh|11}}
+| lastappeared={{tfoh|11}}
+| nationality=Unknown nationality
+}}
+'''Pel''' is a wagon driver who was present in [[Duranda Tharne]]'s inn in [[Lugard]] when [[Siuan Sanche]] visited.
+
+==Activities==
+Mistress [[Duranda Tharne]] embarrassed Siuan by talking about her legs to Pel. Siuan was there to get information about the Blue Ajah but did not come at the appropriate time.{{ref/book|5|11}}
+
+{{notes}}

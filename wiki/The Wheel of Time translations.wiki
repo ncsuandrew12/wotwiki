@@ -1,0 +1,340 @@
+'''''The [[Wheel of Time]]''''' has been translated into many languages throughout the years since their release. This page gives links to information on the non-English versions of the series.
+
+==Translations==
+Detailed information for some of the languages the Wheel of Time has been translated into can be found below. '''WoWoT''' indicates if there is a translation of [[The World of Robert Jordan's The Wheel of Time]] in that language and '''NS''' if there is one of [[New Spring]]. '''Audio''' indicates if there are any audiobooks versions in that language. More information available in the linked articles in the Language column:
+
+{| class="fandom-table"
+!Language
+!Series Name
+!Publisher(s)
+!Total volumes
+!Fully Translated
+!WoWoT
+!NS
+!Audio
+!Notes
+|-
+|[[The Wheel of Time in Bulgarian|Bulgarian]]
+|Колелото на времето
+|Bard
+|14
+|Yes
+|No
+|Yes
+|No
+|Republished with new covers up to Towers of Midnightt (2025)
+|-
+|[[The Wheel of Time in Chinese|Chinese]] (China)
+|時間之輪
+|Wanjuan, Oriental Publishing Center
+|1, 14
+|No, Yes
+|No
+|Yes
+|No
+|
+|-
+|[[The Wheel of Time in Chinese|Chinese]] (Taiwan)
+|時間之輪
+|Fantasy base
+|31
+|Yes
+|No
+|No
+|No
+|
+|-
+|[[The Wheel of Time in Czech|Czech]]
+|Kolo času
+|FANTOM Print
+|14
+|Yes
+|No
+|Yes
+|Yes (1)
+|Being republished by Laser from Oct 2022.
+|-
+|[[The Wheel of Time in Dutch|Dutch]]
+|Het Rad des Tijds
+|Luitingh Sijthoff Fantasy
+|14
+|Yes
+|Yes
+|Yes
+|Yes (3)
+|
+|-
+|Estonian
+|Ajaratta
+|Tiritamm
+|1
+|No
+|No
+|No
+|No
+|Only The Eye of the World (''Maailma silma'') translated in 2004.[https://et.wikipedia.org/wiki/Robert_Jordan]
+|-
+|[[The Wheel of Time in Finnish|Finnish]]
+|Ajan Pyörä
+|Karisto
+|25
+|No
+|No
+|Yes
+|Yes
+|Only first 11 books translated
+|-
+|[[The Wheel of Time in French|French]]
+|La Roue du Temps
+|Bragelonne, Fleuve Noir, Rivages
+|28, 22, 22
+|Yes, No, No
+|Yes
+|Yes
+|Yes
+|Only first 11 books translated iniitally. Final books published 2021/22. Map book also available.
+|-
+|[[The Wheel of Time in German|German]]
+|Das Rad der Zeit
+|Piper, Hayne
+|14, 36
+|Yes, Yes
+|Yes
+|Yes
+|Yes
+|Audiobooks in 36 parts plus New Spring.
+|-
+|[[The Wheel of Time in Greek|Greek]]
+|Ο ΤΡΟΧΟΣ ΤΟΥ ΧΡΟΝΟΥ
+|ΦΑΝΤΑΣΤΙΚΟΣ ΚΟΣΜΟΣ (Fantastic World)
+|27
+|No
+|No
+|No
+|No
+|Only second part of A Memory of Light remains unpublished.  
+|-
+|[[The Wheel of Time in Hebrew|Hebrew]]
+|כישור הזמן Kishor HaZ'man
+|Opus
+|28
+|Yes
+|No
+|No
+|No
+|
+|-
+|[[The Wheel of Time in Hungarian|Hungarian]]
+|Az Idő Kereke
+|Delta Vision, Beholder
+|14, 21
+|Yes, No
+|No
+|Yes
+|No
+|
+|-
+|[[The Wheel of Time in Indonesian|Indonesian]]
+|The Wheel of Time
+|Mizan Pustaka
+|3
+|No
+|No
+|No
+|No
+|The Indonesion books do not translate the title of the series. 
+|-
+|[[The Wheel of Time in Italian|Italian]]
+|La Ruota del Tempo
+|Fanucci Editore
+|14
+|Yes
+|No
+|Yes
+|No
+|
+|-
+|[[The Wheel of Time in Japanese|Japanese]]
+|時の車輪 (toki no sharin) 
+|Hayakawa Bunko FT, ‎Hayakawa Shobo
+|67
+|No
+|No
+|Yes
+|No
+|Last two parts not translated
+|-
+|[[The Wheel of Time in Norwegian|Norwegian]]
+|Tidshjulet
+|Tiden Norsk Forlag
+|20, 11
+|No
+|No
+|Yes
+|Yes*
+|Only first 11 books translated. Split and single-volume versions of books 1-6 published. Audiobooks available at . [https://www.nlb.no/]
+|-
+|[[The Wheel of Time in Persian|Persian]]
+|چرخ زمان
+|Parian
+|4
+|No
+|No
+|No
+|No
+|Appears to have been recently translated, but no new translations have appeared beyond book 4 since 2022.
+|-
+|[[The Wheel of Time in Polish|Polish]]
+|Koło Czasu
+|Zysk i S-ka
+|14
+|Yes
+|Yes
+|Yes
+|Yes
+|Originaly published in two parts per book for first 11 books.
+|-
+|[[The Wheel of Time in Portuguese|Portuguese]] (Portugal)
+|A Roda do Tempo
+|Bertrand
+|6
+|No
+|No
+|No
+|No
+|Currently being translated
+|-
+|[[The Wheel of Time in Portuguese|Portuguese]] (Brazil)
+|A Roda do Tempo
+|Intrínseca, Caladwin
+|8, 2
+|No
+|No
+|No
+|No
+|Currently being translated
+|-
+|[[The Wheel of Time in Romanian|Romanian]]
+|Roata timpului
+|RAO
+|14
+|No
+|No
+|No
+|No
+|A Memory of Light published in 2024.
+|-
+|[[The Wheel of Time in Russian|Russian]] (Russia)
+|Колесо Времени
+|AST (and various subsidiaries)
+|11
+|No*
+|No*
+|Yes
+|No
+|Only official translations of the first 11. Translations/audiobooks made by fans.[http://www.wheeloftime.ru/][https://knigorai.com/series/347]
+|-
+|[[The Wheel of Time in Russian|Russian]] (Belarus)
+|Колесо Времени
+|Harvest
+|
+|No
+|No
+|No
+|No
+|
+|-
+|[[The Wheel of Time in Russian|Russian]] (Ukraine)
+|Колесо Времени
+|My Friend Fantasy
+|14
+|Yes
+|No
+|No
+|No
+|Also being published in Ukrainian.
+|-
+|[[The Wheel of Time in Serbian|Serbian]]
+|Točak Vremena
+|Laguna
+|23, 5
+|Yes
+|No
+|Yes
+|
+|
+|-
+|[[The Wheel of Time in Spanish|Spanish]]
+|La Rueda del Tiempo
+|Minotauro, Timunmas, Altaya
+|14, 28 , 22
+|Yes, Yes, No
+|Yes
+|Yes
+|Yes
+|
+|-
+|[[The Wheel of Time in Swedish|Swedish]]
+|Sagan om Drakens återkomst
+|Natur & Kultur
+|22
+|No
+|No
+|Yes
+|Yes (8)
+|Only first 11 books translated. Up to book 8 in audio.
+|-
+|[[The Wheel of Time in Turkish|Turkish]]
+|Zaman Çarkı
+|İthaki Yayınları
+|14
+|Yes
+|No
+|Yes
+|No
+|
+|-
+|[[The Wheel of Time in Ukrainian|Ukrainian]]
+|Колесо часу
+|Bohdan 
+|7
+|No
+|No
+|No
+|No
+|Currently being translated. A Crown of Swords released April 2025.
+|}
+
+==Eye of the World Gallery==
+The gallery below shows a selection of one version of The Eye of the World for each translated language.
+<gallery captionalign=center>
+WoT Bard new1.jpg|Bulgarian
+TEOTW Wanjuan.jpg|Chinese (China)
+TEOTW FB.jpg|Chinese (Taiwan)
+TEOTW_FP_new.jpg|Czech
+TEOTW_LS.jpg|Dutch
+TEOTW_Estonian.png|Estonian
+File:TEotW pt1 karisto orig.webp|Finnish
+File:TEotW bragelonne large.jpg|French
+File:TEotW piper 2.jpg|German
+TEOTW_FW_2nd.jpg|The Eye of the World|Greek
+TEotW pt2 opus tv.jpg|Hebrew
+TEotW pt1 beholder.jpg|Hungarian
+TEOTW FE2.jpg|Italian
+The Eye of the World 1 - Japanese.jpg|Japanese
+TEotW TNF.jpg|Norwegian
+TEOTW Parian.jpeg|Persian
+TEOTW ZIS.jpeg|Polish
+O Olho do Mundo.jpg|Portuguese
+TEOTW RAO.jpg|Romanian
+WoT Russian TF2 1.jpg|Russian
+Laguna_new_1.jpg|Serbian
+TEotW pt1 altaya.jpg|Spanish
+Swedish NK 01.jpg|Swedish
+TEOTW IY.jpg|Turkish
+TEOTW Bohdan.jpg|Ukrainian
+</gallery>
+
+{{notes}}
+
+[[Category:Wheel of Time translations| The Wheel of Time translations]]

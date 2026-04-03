@@ -1,0 +1,25 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| status=Alive
+| appeared={{tgs|25}}
+| lastappeared={{tgs|25}}
+| living=tgs
+}}'''Patrinda''' is an [[Aes Sedai]] of the [[Red Ajah]].{{ref|{{twotc}}, Patrinda}}
+
+== Appearance ==
+She is described as "stern."{{ref/book|12|25}}
+
+== Activities ==
+She guards [[Egwene al'Vere]]'s cell when [[Seaine Herimon]] comes to visit her.{{ref/book|12|25}}
+
+{{notes}}
+{{short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,16 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Alive
+| race=Ogier
+| gender=Male
+| mentioned={{tgh|35}}
+| lastmentioned={{tgh|35}}
+| living=tgh
+}}'''Lacel son of [[Laud]]''' is an [[Ogier]].{{ref|{{twotc}}, Lacel|Lacel}}  He is the father of [[Juin]].{{ref||Lacel}}{{ref/book|2|35}}
+
+==History==
+While he is mentioned, as part of his son's name, nothing is known about Lacel.
+
+{{notes}}
+{{short}}

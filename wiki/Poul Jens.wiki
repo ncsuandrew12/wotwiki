@@ -1,0 +1,26 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=250px
+| nationality=Almoth Plain
+| occupation=Blacksmith
+| title=Village Councilor
+| gender=Male
+| build=
+| height=
+| affiliation=
+| mentioned=''[[The Wheel of Time Roleplaying Game]]
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+| ewot=
+| status=
+|birth =
+}}
+'''Poul Jens''' is the blacksmith of [[Aturo's Orchard]] and sits on the [[Village Council]].
+== History ==
+Poul Jens has been the village blacksmith for nearly twenty years, and plans on working the smithy for nearly twenty more. He is well-liked and well-respected in the community for his fine smithing skill and his humble manner.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+{{DEFAULTSORT:Jens, Poul}}
+[[Category:Characters only mentioned in the RPG]]

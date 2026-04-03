@@ -1,0 +1,14 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=250px
+| status=Dead
+| nationality=Unknown nationality
+| occupation=Author
+| gender=Male
+| mentioned={{tgs|15}}
+| lastmentioned={{tgs|15}}
+}}
+'''Pelateos''' was a scholar or author.
+
+He was the author of a book, ''[[Ponderings]]''. [[Herid Fel]] had a copy which Min later obtained.
+[[Category:Short pages]]

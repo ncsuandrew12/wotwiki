@@ -1,0 +1,21 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Elayne Trakand
+| gender=Mare
+| color=White
+| appeared={{tom|52}}
+}}
+'''Glimmer''' is a mare from the [[Royal Palace of Andor|Royal Palace]] of [[Andor]].
+
+==Appearance==
+Glimmer is a mare of [[Saldaea]]n stock, with a fine white mane and coat. She is very fast.
+
+==Activities==
+Glimmer carries [[Elayne Trakand]] to her coronation in [[Cairhien]].{{ref/book|13|52}}
+
+{{notes}}
+{{short}}

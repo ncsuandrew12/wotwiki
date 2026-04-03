@@ -1,0 +1,2 @@
+<!-- This template should produce a link to the results of searching all namespaces for the first parameter given -->
+<span class="plainlinks">[{{SERVER}}{{localurl:Special:Search|ns0=1&ns1=1&ns2=1&ns3=1&ns4=1&ns5=1&ns6=1&ns7=1&ns8=1&ns9=1&ns10=1&ns11=1&ns12=1&ns13=1&ns14=1&ns15=1&redirs=1&search={{{1}}}&searchx=Search}} {{{1}}}]</span><noinclude>{{delete|unused}}[[Category:Utility templates|{{PAGENAME}}]]</noinclude>
