@@ -1,4 +1,5 @@
 import os
+import time
 
 import log_utils
 import string
@@ -6,6 +7,23 @@ import random
 import subprocess
 
 log = log_utils.get_logger(f"{os.path.basename(__file__)}")
+
+class Ticker():
+    def __init__(self, period=5):
+        self.period = period
+        self.last_time = None
+
+    def restart(self):
+        last = bool(self.last_time)
+        self.last_time = None
+        return last
+
+    def tick(self):
+        new_time = time.time()
+        if self.last_time is None or (new_time - self.last_time) >= self.period:
+            self.last_time = new_time
+            return True
+        return False
 
 def create_tmp_file(baseFilename=None, mutate=False, maxRetries=2):
     if baseFilename == None:

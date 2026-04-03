@@ -22,12 +22,12 @@ class ConvertOtDictToWiki(Command):
         parser.add_argument(
             "--input-file",
             action="store",
-            default="source material/companion-old-tongue.md",
+            default="./source material/companion-old-tongue.md",
             help="Path to the input Markdown file containing the Old Tongue dictionary.")
         parser.add_argument(
             "--out-json",
             action="store",
-            default="source material/companion-old-tongue.json",
+            default="./source material/companion-old-tongue.json",
             help="Path to the output JSON file.")
         parser.add_argument(
             "--out-json-force",

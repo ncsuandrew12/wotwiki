@@ -19,17 +19,17 @@ class SplitTcwot(Command):
         parser.add_argument(
             "--input",
             action="store",
-            default="../../wotwiki-secret/source material/the-complete-wheel-of-time.json",
+            default="../wotwiki-secret/source material/the-complete-wheel-of-time.json",
             help="Path to the input JSON file.")
         parser.add_argument(
             "--outdir-json",
             action="store",
-            default="../../wotwiki-secret/source material/novels-json",
+            default="../wotwiki-secret/source material/novels-json",
             help="Directory for the per-chapter JSON output files.")
         parser.add_argument(
             "--outdir-md",
             action="store",
-            default="../../wotwiki-secret/source material/novels-md",
+            default="../wotwiki-secret/source material/novels-md",
             help="Directory for the per-chapter Markdown output files.")
         return parser
 

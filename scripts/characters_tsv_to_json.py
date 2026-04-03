@@ -1,9 +1,7 @@
 import argparse
 import json
-import math
 import sys
 import re
-import time
 from command import Command, Verbosity, run_command
 from log_utils import logger as log
 from pathlib import Path
@@ -78,43 +76,6 @@ class ConvertTsvCharactersToJson(Command):
                             c_lvl[keys[-1]] = val
                             if(keys[-1] == "year") and not "calendar" in c_lvl:
                                 c_lvl["calendar"] = c["calendar"]
-                            # elif(col in { "calendar", "notes" }):
-                            #     c[col] = val
-                            # elif(col in { "origin", "ajah", "age_last", "status", "wt_schism_faction", "darkfriend", "years_novice", "years_accepted" }):
-                            #     c[col] = {col: val}
-                            # elif(col == "year_died" ):
-                            #     if "died" not in c:
-                            #         c["died"] = { "calendar": c["calendar"] }
-                            #     c["died"]["year"] = val
-                            # elif(col == "last_year" ):
-                            #     if col not in c:
-                            #         c[col] = { "calendar": c["calendar"] }
-                            #     c[col]["year"] = val
-                            # elif(col in { "strength_78" }):
-                            #     if "channeler" not in c:
-                            #         c["channeler"] = {}
-                            #     c["channeler"][col] = {col: val}
-                            # elif(col in { "years_as" }):
-                            #     if "aes_sedai" not in c:
-                            #         c["aes_sedai"] = {}
-                            #     c["aes_sedai"]["years"] = {col: val}
-                            # elif(col.endswith(".refs")):
-                            #     base_col = col[:-5]
-                            #     b = None
-                            #     if base_col == "strength_78":
-                            #         base_col = "channeler.strength_78"
-                            #         if not "channeler" in c:
-                            #             c["channeler"] = {}
-                            #         if not "strength_78" in c["channeler"]:
-                            #             c["channeler"]["strength_78"] = {}
-                            #         b = c["channeler"]["strength_78"]
-                            #     else:
-                            #         if base_col not in c:
-                            #             c[base_col] = {}
-                            #         b = c[base_col]
-                            #     b["refs"] = json.loads(val)
-                            # else:
-                            #     raise Exception(f"Error: unrecognized column name: {col}")
                 characters[name] = c
         if (self.parsed_args.verbosity == Verbosity.NORMAL):
             print("done", flush=True)

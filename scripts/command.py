@@ -6,6 +6,7 @@ from log_utils import formatter as logFormatter
 from log_utils import logger as log
 from log_utils import stderrHandler as logStdErrHandler
 from log_utils import MaxLogLevelFilter
+from utils import Ticker
 
 class Verbosity(enum.IntEnum):
     LOGQUIET = -2,
@@ -99,6 +100,29 @@ class Command:
 
     def print_v(self, msg, end="\n", flush=False):
         self.print(Verbosity.APPVERBOSE, msg, end=end, flush=flush)
+
+class Progresser():
+    def __init__(self, cmd: Command, period=5):
+        self.cmd = cmd
+        self.period = period
+        self.ticker = Ticker(period)
+
+    def tick(self):
+        if (self.cmd.parsed_args.verbosity == Verbosity.NORMAL) and self.ticker.tick():
+            print(".", end="", flush=True)
+            return True
+        return False
+    
+    def done(self):
+        if self.cmd.parsed_args.verbosity == Verbosity.NORMAL:
+            print("done", flush=True)
+            self.restart()
+            return True
+        self.restart()
+        return False
+
+    def restart(self):
+        return self.ticker.restart()
 
 def run_command(command):
     log.info("{}".format(" ".join(command.mArgs)))

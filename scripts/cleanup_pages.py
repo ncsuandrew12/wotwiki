@@ -6,6 +6,7 @@
 
 import argparse
 import json
+import pathlib
 import sys
 import os
 import shutil
@@ -15,20 +16,20 @@ import re
 import time
 import urllib.parse
 import utils
-from command import Command, Verbosity, run_command
+from command import Command, Progresser, Verbosity, run_command
 from log_utils import logger as log
 from page_mod import PageMod, PageModifier
 from pathlib import Path
 from pywikibot import pagegenerators
+from utils import Ticker
 
 language = "en"
-mod_queue_dir_path = "mod_queue"
-mod_queue_json_path = mod_queue_dir_path + "/queue.json"
+mod_queue_dir_path = os.Path(pathlib.Path.home() + "/.wotwiki/mod_queue")
+mod_queue_json_path = os.Path(mod_queue_dir_path + "/queue.json")
 wiki_name = "wot"
 
 # TODO:
 # e.g. [[Gareth Bryne|Gareth's]] -> [[Gareth Bryne|Gareth]]'s
-# ' ' (U+00a0) -> ' '
 # Determine way to exclude specific pages or sections from specific types changes. In particular, transcriptions of
 # textual content. E.g. Source pages and Beasts of the Wheel of Time should allow changes to link wikitext that results
 # in the same actual text (e.g. [[Abc|Abcs]] -> [[Abc]]s), but shouldn't allow changes that modify the actual text (e.g.
@@ -38,6 +39,8 @@ wiki_name = "wot"
 # Basic word misspellings need to exclude pronunciation strings
 # Incorporate all feasible common misspellings: https://wot.fandom.com/wiki/Wotwiki:List_of_common_misspellings
 #   Non-mundane entries from A-G have already been added.
+# Flag pages that have the Wotwiki featured article category (or otherwise might be targetd by DPL), but use {{PAGENAME}}
+# Do more icon stuff. See Template:Featuredicon
 modifiers_lookbehind = r"(?<!image=)(?<!image\s=)(?<!image\s=\s)(?<!image=\s)(?<!File:)(?<!\w)"
 modifier_makelc_lookbehind = r"(?<![.!?]\s)(?<![*#])(?<![*#]\[\[)(?<![*#]\s\[\[)"
 spelling_re_modifiers = [
@@ -171,11 +174,21 @@ class CleanupPages(Command):
             "--save-changes",
             action="store_true",
             default=False,
-            help="If not set, the script will not save changes to the wiki.")
+            help="If not set, the script will not save changes to the wiki, regardless of prompts.")
+        parser.add_argument(
+            "--non-interactive",
+            action="store_true",
+            default=False,
+            help="If set, the script will run in non-interactive mode and will not prompt for confirmation before saving changes.")
+        parser.add_argument(
+            "--changes-all-file",
+            action="store",
+            default="./changes-all.patch",
+            help="File to store diff of all changes.")
         parser.add_argument(
             "--wiki-snapdir",
             action="store",
-            default="../../wot.fandom.com",
+            default="./wot.fandom.com",
             help="Directory to store a snapshot of the wiki.")
         return parser
 
@@ -221,25 +234,29 @@ class CleanupPages(Command):
         pages_noperm = 0
         failed_pages = []
         queued_pages = []
-        last_time = time.time() - 1000
         first_status_log = True
-        with open(f"changes-all.diff", "w") as all_changes_file, open(f"changes.diff", "w") as changes_file:
+        # # {{Featuredarticle}}
+        # https://wot.fandom.com/wiki/Template:F/3
+        # for fai in range(1, 38):
+        #     page = pywikibot.Page(self.site, f"Template:F/{fai}")
+        #     self.print_n(f"Processing {page.title()}...", end="", flush=True)
+        #     page.get(get_redirect=False)
+        #     page.text = "{{Featuredarticle}}<noinclude>[[Category:Do not feature]]</noinclude>"
+        #     page.save(summary="(bot) (new featured article system)", bot=True, minor=False)
+        ticker = Ticker()
+        progresser = Progresser(self)
+        with open(f"{self.parsed_args.changes_all_file}", "w") as all_changes_file:
             for page in self.preloaded_pages:
-                new_time = time.time()
-                if (new_time - last_time) >= 5:
-                    last_time = new_time
-                    if (not first_status_log and (self.parsed_args.verbosity == Verbosity.NORMAL)):
-                        print("")
-                    self.print_n(f"{page_cnt:5d} pages read. {len(queued_pages):5d} queued. {pages_noperm:5d} skipped due to perms. {len(failed_pages):5d} pages produced errors.",
-                        end = "", flush=True)
+                if ticker.tick():
+                    first_status_log and self.parsed_args.verbosity == Verbosity.NORMAL and print("")
                     first_status_log = False
-                elif (self.parsed_args.verbosity == Verbosity.NORMAL):
-                    print(".", end="", flush=True)
+                    self.print_n(f"{page_cnt:5d} pages read. {len(queued_pages):5d} queued. {pages_noperm:5d} skipped due to perms. {len(failed_pages):5d} pages produced errors.", end = "", flush=True)
+                    progresser.tick()
                 log.debug("Processing page: %s", page.title())
                 try:
                     page.get(get_redirect=True)
                     pre_text = page.text
-                    mod = PageMod(page_id, urllib.parse.unquote(page.title()), ["(bot change)"])
+                    mod = PageMod(page_id, urllib.parse.unquote(page.title()), ["(bot)"])
                     if self.parsed_args.wiki_snapdir.strip() != "":
                         dl_path = f"{self.parsed_args.wiki_snapdir}/wiki/{self.sanitize_str_for_filename(mod.title)}.wiki"
                         os.makedirs(os.path.dirname(dl_path), exist_ok=True)
@@ -301,8 +318,9 @@ class CleanupPages(Command):
                             mod_queue.append(mod)
                             queued_pages.append(mod.title)
                             page_id += 1
-                            changes_file.write(subp.stdout)
-                            changes_file.write("\n")
+                            with open(f"{mod_path}/changes.patch", "w") as changes_file:
+                                changes_file.write(subp.stdout)
+                                changes_file.write("\n")
                         else:
                             page.text = pre_text
                             log.warning(f"Page '{page.title()}' needs update but bot is not allowed to edit it. Summary: {mod.summary}")
@@ -335,7 +353,7 @@ class CleanupPages(Command):
             for line in f:
                 log.debug(line.strip())
                 print(line.strip())
-        if input("Enter 'yes' to apply above changes: ").strip().lower() != 'yes':
+        if not self.parsed_args.non_interactive and input("Enter 'yes' to apply above changes: ").strip().lower() != 'yes':
             raise Exception("Aborting due to user input.")
         with open(mod_queue_json_path, "r") as f:
             mod_queue = json.load(f)
@@ -364,7 +382,6 @@ class CleanupPages(Command):
                     log.info(f"Saving {mod.title} with summary: {mod.summary}")
                     if (self.parsed_args.save_changes):
                         page.save(summary=mod.summary, bot=True, minor=True)
-                        time.sleep(1) # Avoid ratelimiting
                         post_page = pywikibot.Page(self.site, mod.title)
                         if post_page.text != post_text:
                             raise Exception(f"Post-save text does not match expected text for '{mod.title}' following supposedly successful save.")

@@ -1,6 +1,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 import os
+import pathlib
 import sys
 
 formatter = None
@@ -27,7 +28,8 @@ def get_logger(name):
     formatter = Formatter(
         fmt="%(asctime)s %(timeZone)s %(processName)s:%(threadName)s %(levelname)s:%(levelnameSuffix)s %(pathname)s:%(lineno)d(%(funcName)s) %(message)s",
         datefmt=None)
-    logDir = os.path.dirname(os.path.realpath(__file__))
+    logDir = os.Path(pathlib.Path.home() + "/.wotwiki/logs")
+    logDir.mkdir(parents=True, exist_ok=True)
     fileHandler = RotatingFileHandler(
         filename=os.path.join(logDir, f"wotwiki.log"),
         maxBytes=5 * 1024 * 1024, # 5MB
