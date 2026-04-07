@@ -38,10 +38,12 @@ class ConvertTsvCharactersToJson(Command):
         characters = {}
         log.info(f"Loading input file {self.parsed_args.input_file}")
         self.print_n("Processing characters", end="", flush=True)
-        with open(self.parsed_args.input_file, "r") as input_f:
+        with open(self.parsed_args.input_file, "r", encoding='iso-8859-1') as input_f:
             column_names = input_f.readline().strip().split("\t")
             log.info(f"Column names: {column_names}")
             for line in input_f:
+                if (line.startswith("#")):
+                    continue
                 if (self.parsed_args.verbosity == Verbosity.NORMAL):
                     print(".", end="", flush=True)
                 fields = line.strip().split("\t")
@@ -71,6 +73,7 @@ class ConvertTsvCharactersToJson(Command):
                                 if k not in c_lvl:
                                     c_lvl[k] = {}
                                 c_lvl = c_lvl[k]
+                            log.debug(f"Setting {keys[-1]} c {col} {val} (current level: {c_lvl})")
                             if keys[-1] in c_lvl:
                                 raise Exception(f"Error: duplicate column name {col} (already have value {c_lvl[keys[-1]]}, new value {val})")
                             c_lvl[keys[-1]] = val
@@ -80,17 +83,14 @@ class ConvertTsvCharactersToJson(Command):
         if (self.parsed_args.verbosity == Verbosity.NORMAL):
             print("done", flush=True)
         self.print_v(f"Loading existing JSON characters: {self.parsed_args.existing}")
-        existing = json.load(open(self.parsed_args.existing, "r"))
+        with open(self.parsed_args.existing, "r", encoding='utf-8') as existing_file:
+            existing = json.load(existing_file)
         self.print_v(f"Merging existing characters with newly parsed characters")
         c = characters | existing
         self.print_v(f"Writing all characters to {self.parsed_args.output_file}")
-        with open(self.parsed_args.output_file, "w") as f:
+        with open(self.parsed_args.output_file, "w", encoding='utf-8') as f:
             json.dump(c, f, indent=2, sort_keys=True)
         self.print_n(f"Wrote {len(characters)} new characters to {self.parsed_args.output_file} (+{len(existing)} -> {len(c)}).")
-        if (self.parsed_args.verbosity >= Verbosity.VERBOSE):
-            with open(self.parsed_args.output_file, "r") as f:
-                for line in f:
-                    self.print_v(line, end="", flush=True)
         return 0
 
 exit(run_command(ConvertTsvCharactersToJson(sys.argv)))
