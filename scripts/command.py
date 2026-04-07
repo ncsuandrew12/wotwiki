@@ -35,18 +35,18 @@ class Command:
             action='count',
             default=Verbosity.NORMAL,
             help="Decrease the verbosity")
-        self.parsed_args = parser.parse_args(self.mArgs[1:])
-        self.parsed_args.verbosity = self.parsed_args.verbose - self.parsed_args.quiet
-
-        self.set_log_levels(self.parsed_args.verbosity)
-
+        self.parse_args(parser)
         try:
             return self.run_command()
         except Exception as e:
             log.error(e)
             raise
-
         return 1
+
+    def parse_args(self, parser):
+        self.parsed_args = parser.parse_args(self.mArgs[1:])
+        self.parsed_args.verbosity = self.parsed_args.verbose - self.parsed_args.quiet
+        self.set_log_levels(self.parsed_args.verbosity)
 
     # Implementations can override this function to change logging behavior. Overriding with a no-op function will
     # remove any verbosity-based modifications of the log level and will use default behavior from log_utils.py. As of
@@ -94,12 +94,14 @@ class Command:
         log.debug("%s", msg)
         if self.parsed_args.verbosity >= verbosity:
             print(msg, end=end, flush=flush)
+            return True
+        return False
 
     def print_n(self, msg, end="\n", flush=False):
-        self.print(Verbosity.NORMAL, msg, end=end, flush=flush)
+        return self.print(Verbosity.NORMAL, msg, end=end, flush=flush)
 
     def print_v(self, msg, end="\n", flush=False):
-        self.print(Verbosity.APPVERBOSE, msg, end=end, flush=flush)
+        return self.print(Verbosity.APPVERBOSE, msg, end=end, flush=flush)
 
 class Progresser():
     def __init__(self, cmd: Command, period=5):

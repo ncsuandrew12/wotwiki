@@ -20,7 +20,9 @@ class Ticker():
 
     def tick(self):
         new_time = time.time()
-        if self.last_time is None or (new_time - self.last_time) >= self.period:
+        delta = self.last_time and (new_time - self.last_time) or int(new_time)
+        # log.debug(f"new - last: {delta}, period: {self.period}")
+        if self.last_time is None or (delta >= self.period):
             self.last_time = new_time
             return True
         return False
