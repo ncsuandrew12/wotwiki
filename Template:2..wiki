@@ -1,4 +1,0 @@
-''[[The Great Hunt]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[The Great Hunt/Prologue|Prologue]]|e|ep|epilogue=[[The Great Hunt/Epilogue|Epilogue]]|g|glossary=[[The Great Hunt/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[The Great Hunt/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
-{{Documentation}}
-[[Category:Book templates|Great Hunt]]
-</noinclude>

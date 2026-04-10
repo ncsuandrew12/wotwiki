@@ -1,9 +1,0 @@
-NOTE: If you plan to edit this file, it is recommended that you download the [http://images1.wikia.nocookie.net/wot/images/archive/d/d5/20100123181610!Web-icon.svg 18:11, January 23, 2010 version] since the rectangles are all separate shapes and can be moved around to your whim.
-{{Image
-| License            = fairuse
-| ImageType1          = Chapter Art
-| Description        = This is an .svg version of [[:Image:Web-icon.png]], used with permission [http://linuxmafia.com/waygate/chapter-icons-permission].
-| Source                  = http://www.dragonmount.com/Books/chapter_icons.php
-| Artist                  = Matthew C. Nielsen
-}}
-[[Category:SVG Chapter Art]]

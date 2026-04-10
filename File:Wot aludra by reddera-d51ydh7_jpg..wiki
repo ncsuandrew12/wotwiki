@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Fan Art
-|License     = GFDL
-| ImageType2 = Character
-|Source      = https://dragonmount.com/gallery/album/128-wheel-of-time-card-deck/
-|Description = [[Aludra Nendenhald]] fan art.
-|Artist      = Ariel Burgess
-}}

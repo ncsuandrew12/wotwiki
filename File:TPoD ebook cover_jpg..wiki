@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover
-| Description             = Ebook cover of ''[[The Path of Daggers]]''
-| Source                  = [http://www.dragonmount.com Dragonmount.com]
-| Artist                  = Julie Bell
-}}

@@ -1,9 +1,0 @@
-{{proposed}}
-==''Out of Character'' vs. ''In Character'' knowledge==
-As a specialized wiki, we have the opportunity to create an immersive environment, where the reader can feel as if they are reading a reference work ''in'' the Wheel of Time universe, not just about it.
-
-As such, it has been proposed that all references to the "real world" (authors, book pages, fan opinion) be placed in separate sections near the bottom of the page. Currently one such section has been defined, '''Sources''', for providing links or book/chapter/page information on where a particular piece of information can be found. Others may be needed for fan speculation, etc.
-
-A consequence of this proposal is that the Wikipedia guideline on writing about fiction in the ''present tense'' only no longer applies: If someone is deceased, write about them as such where it makes sense to do so. Actions in the article body should agree with the timeframe of the series as currently written (for simplicity's sake, anything from [[Book 14]] or [[River of Souls]] is "currently happening"). Articles on concepts should generally be written in the present tense.
-
-All normal guidelines of verifiability, neutral point of view, and attribution still apply, as if you were writing an encyclopedia from within the fictional universe.

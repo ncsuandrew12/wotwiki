@@ -1,6 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Map
-| Description        = A map of the [[Royal Library of Cairhien]].
-| Source             = ''[[The Prophecies of the Dragon]]''
-}}

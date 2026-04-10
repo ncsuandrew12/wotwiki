@@ -1,3 +1,0 @@
-<onlyinclude><includeonly><div style="width: {{{width|auto}}}; margin-bottom: 3px; padding-left: 0.5em; border: 1px solid #AAAAAA; -moz-border-radius-topleft: 0.5em; -webkit-border-top-left-radius: 0.5em; border-top-left-radius: 0.5em;"><references /></div></includeonly></onlyinclude>{{Documentation|:Template:Ref/doc}}
-[[Category:Templates]]
-[[Category:Utility templates]]

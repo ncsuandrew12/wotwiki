@@ -1,7 +1,0 @@
-== Working On ==
-
-* Bullet points for descriptive details found in the book on my Talk page
-* Writing summaries of the details to be easy to read or added to respective pages
-* Going back through and adding hyperlinks to respective pages
-* Going back through and adding any references missed
-[[Category:Blog posts]]

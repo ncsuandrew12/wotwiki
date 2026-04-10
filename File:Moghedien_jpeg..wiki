@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| ImageType2         = CCG
-| Description        = [[Moghedien]].
-| Source             = The "[[Premier]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = David Cherry
-}}

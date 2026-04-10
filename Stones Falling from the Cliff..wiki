@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{2|45}}
-| used=[[Rand al'Thor]] or [[Turak Aladon]]
-}}
-{{dablink|For other uses of the words "stone" and "cliff," see [[Stone]] and [[Cliff]].}}
-'''Stones Falling from the Cliff''' is a [[sword form]]. Nothing but the name is known about this form. It was used in the duel between [[Rand al'Thor]] and [[Turak Aladon]]. The opposing side used this form to counter [[Ribbon in the Air]].{{ref/book|2|45}}
-
-{{notes}}
-{{short}}

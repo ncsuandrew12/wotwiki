@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://dragonmount.com/gallery/image/2081-lilith-lanfear/
-|Description = Fan art of [[Lanfear]].
-|Artist      = Lilith_Lanfear
-}}

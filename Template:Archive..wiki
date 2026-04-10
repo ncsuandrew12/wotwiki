@@ -1,4 +1,0 @@
-[[Image:File.svg|thumb|right|This page is an [[:Category:Talk page archives|archive of previous discussion]].]]
-
-<includeonly>[[Category:Talk page archives]]</includeonly>
-<noinclude>[[Category:Talk page archives| ]]</noinclude>

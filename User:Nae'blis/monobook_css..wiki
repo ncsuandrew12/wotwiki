@@ -1,3 +1,0 @@
-/* make the background behind the content area and the tabs a light grey */
-#content, #content table
-#p-cactions ul li :link { background: #fcfcfc; }

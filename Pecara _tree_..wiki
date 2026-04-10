@@ -1,8 +1,0 @@
-{{dablink|This page refers to the tree in the Aiel Waste. For disambiguation, see [[pecara (disambiguation)]]. For the edible nut, see [[pecara (nut)]]. For the boar-like animal, see [[pecara (animal)]].}}
-
-'''''Pecara''''' are trees endemic to the [[Aiel Waste]] that produce pale, wrinkled fruit.{{Ref/book|twotc|Pecara (tree)||Pecara}}{{ref|The ''pecara'' tree likely produces the [[pecara (nut)|eponymous nuts]]. The use of the word 'fruit' in {{twotc}} is probably a mistake or an alternative use of the word 'fruit' to refer generally to yield, rather than a specific category of edible produce.}}
-{{DISPLAYTITLE:''Pecara'' (tree)}}
-{{notes}}
-{{short}}
-[[Category:Plants]]
-[[Category:Aiel Waste]]

@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Item
-| Description        = The old [[Aes Sedai]] banner.
-| Source             = The Tor cover of ''[[The Path of Daggers]]''.
-| Artist             = Darrell Sweet 
-}}

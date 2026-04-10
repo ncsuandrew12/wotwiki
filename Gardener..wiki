@@ -1,7 +1,0 @@
-[[Image:Deathwatch Guard.jpg|right|thumb|150px|Deathwatch Guard portrait done by Seamas Gallagher]]
-'''Gardeners''' are [[Ogier]] that serve in the [[Seanchan]] [[Deathwatch Guard]]. They wear the same red and dark green armor as the human Guard and carry long-hafted, black-tasseled axes.{{ref/book|11|34}} In contrast to the human Guard, Gardeners are not ''[[da'covale]]'' to the [[Seanchan#Culture|Empress]]. A rank of the Gardeners is [[First Gardener]], held by [[Hartha]].{{ref/book|10|4}}
-
-{{notes}}
-{{short}}
-[[Category:Ogier| Gardener]]
-[[Category:Gardeners| Gardener]]

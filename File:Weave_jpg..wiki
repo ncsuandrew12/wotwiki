@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Miscellaneous
-| Description        = [[Moiraine]] practicing [[weave]]s.
-| Source             = ''[[New Spring 3]]''
-| Artist             = Mike S. Miller
-}}

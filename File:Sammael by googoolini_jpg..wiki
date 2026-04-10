@@ -1,8 +1,0 @@
-{{Image 
-| License = GFDL
-| ImageType1 = Fan Art
-| ImageType2 = Character
-| Description = [[Sammael]] by googoolini on DeviantArt.com
-| Source = http://fav.me/d1nv62r
-| Artist = Googoolini
-}}

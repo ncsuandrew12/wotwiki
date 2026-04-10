@@ -1,7 +1,0 @@
-{{Image
-| License                 = gfdlself
-| ImageType1              = Chapter Art
-| ImageType2              = Fan Art
-| Description             = [[Tear|Tairen]] fan-created chapter icon.
-}}
-[[Category:PNG Chapter Art]]

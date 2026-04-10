@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/karaburrito/art/Nynaeve-s-Angreal-and-Ter-Angreal-535329448
-|Description = Fan art of [[Nynaeve al'Meara]].
-|Artist      = karaburrito
-}}

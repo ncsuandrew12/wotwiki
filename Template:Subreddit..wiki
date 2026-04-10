@@ -1,2 +1,0 @@
-<includeonly>{{Link|url=https://www.reddit.com/r/{{{1}}}|text={{{1}}}}}</includeonly><noinclude>{{Documentation}}
-[[Category:Templates]]</noinclude>

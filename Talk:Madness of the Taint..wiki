@@ -1,8 +1,0 @@
-==Usefulness of separating this==
-I don't think it makes a lot of sense to have a completely separate page from the [[Taint]] page. I think all of this information could be added onto that page. [[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:16, December 5, 2019 (UTC)
-
-
-==Agree==
-I'm in complete agreement. This is duplicate information.
-
-[[User:Servant of All|Servant of All]] ([[User talk:Servant of All|talk]]) 03:13, December 6, 2019 (UTC)

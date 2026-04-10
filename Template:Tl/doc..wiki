@@ -1,8 +1,0 @@
-==Purpose of template==
-This template properly formats example text for ''other'' templates, such as when discussing them on Template Talk pages, or in their Documentation. It adds nowiki encoding and monospace styling correctly without the user having to know all of the details.
-
-==How to use==
-
-Just type, ironically, '''<nowiki>{{tl|templatename}}</nowiki>'''. Remember to include examples of how the parameters can be used!
-
-<noinclude>[[Category:Template documentation]]</noinclude>

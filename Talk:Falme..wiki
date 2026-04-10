@@ -1,6 +1,0 @@
-==Formatting==
-I have had difficulty formatting this page: the original references left the text badly askew, but correcting that has proven a nightmare. Due to time constraints, I'll have to leave this until tomorrow; it's not laziness that is leaving it half-done.
-
---[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 01:02, December 12, 2012 (UTC)
-
-:Sorry about that. I forgot that the <nowiki><div></nowiki> tag puts a linebreak before and after itself. I've updated the templates so this shouldn't happen. ---- {{User:Mainphramephreak/Sig/Subst}} 01:14, December 12, 2012 (UTC)

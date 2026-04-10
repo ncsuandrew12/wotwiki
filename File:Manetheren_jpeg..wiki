@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fairuse 
-| ImageType1              = Item
-| Description             = The flag of [[Manetheren]]
-| Source                  = ''[[The Eye of the World 6]]''
-| Artist                  = Chase Conley
-| Artist2                 = Nicolas Chapuis
-}}

@@ -1,6 +1,0 @@
-<noinclude>{{Documentation subpage}}</noinclude>
-; Usage
-: Use this template to make a page's table of contents float to the right. 
-; Note
-: This uses the <code><nowiki>__TOC__</nowiki></code> [[mw:Help:Magic words#Behavior switches|magic word]], meaning it will force the table of contents to appear wherever the template is positioned on the page, starting with '''one heading''' (rather than the default four).<!--
--->

@@ -1,8 +1,0 @@
-{| class="wikitable"
-| Code
-| Result
-|-
-| <nowiki>{{See also|Wheel of Time}}</nowiki>
-|         {{See also|Wheel of Time}}
-|-
-|}

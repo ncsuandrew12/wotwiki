@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover
-| Description             = Official US cover of ''[[Towers of Midnight]]''
-| Source                  = [http://www.dragonmount.com www.dragonmount.com]
-| Artist                  = Darrell Sweet
-}}

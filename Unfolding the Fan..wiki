@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{4|2}}
-| used=[[Rand al'Thor]]
-}}
-{{for|the similarly named sword form|Folding the Fan}}
-'''Unfolding the Fan''' is a [[sword form]]. Other than the name, nothing is known about it. [[Rand al'Thor]] used this form to counter [[Stones Falling Down the Mountain]] when he was being attacked by his [[bubble of evil|reflections]] in the [[Stone of Tear]].{{ref/book|4|2}}
-
-{{notes}}
-{{short}}

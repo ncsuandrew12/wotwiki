@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Item
-| Description        = The [[oval ring]] ''[[ter'angreal]]''.
-| Source             = ''[[New Spring 4]]''
-| Artist             = Mike S. Miller
-}}

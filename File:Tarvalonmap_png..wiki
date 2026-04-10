@@ -1,9 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Map
-| Description        = A map of [[Tar Valon]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Ellisa Mitchell
-}}
-[[Category:Maps of cities]]
-[[Category:Maps]]

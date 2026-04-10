@@ -1,7 +1,0 @@
-{{Image
-| License            = Fair Use
-| ImageType1         = Item
-| Description        = The officially licensed [[Blademaster#Sword of a Blademaster|heron mark sword]] replica.
-| Source             = The official Windlass Steelcrafts [http://www.windlass.com/p-201-heron-mark-sword.aspx website].
-| Artist             = 
-}}

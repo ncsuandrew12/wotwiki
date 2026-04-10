@@ -1,8 +1,0 @@
-{{Image
-| License                 = fair use
-| ImageType1              = Chapter Art
-| Description             = Anchor chapter icon, used with permission [http://linuxmafia.com/waygate/chapter-icons-permission].
-| Source                  = http://www.dragonmount.com/Books/chapter_icons.php
-| Artist                  = Matthew C. Nielsen
-}}
-[[Category:PNG Chapter Art]]

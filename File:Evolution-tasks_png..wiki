@@ -1,8 +1,0 @@
-
-
-{{Image
-| License                 = Creative Commons
-| ImageType1              = Admin
-| Description             = Evolution tasks icon
-| Source                  = http://en.wikipedia.org/wiki/File:Evolution-tasks.png
-}}

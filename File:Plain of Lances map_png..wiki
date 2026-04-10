@@ -1,7 +1,0 @@
-{{Image
-| License            = gfdl
-| ImageType1          = Map
-| Description        = Map of the Plain of Lances
-| Source             = [[:Image:WoT Map.jpg]]
-}}
-[[Category:Plains]]

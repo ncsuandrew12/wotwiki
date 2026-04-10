@@ -1,7 +1,0 @@
-{{Image
-| License            = Creative Commons
-| ImageType1          = Admin
-| Description        = cc-sa
-| Source             =[[Commons:File:Cc-sa white.svg]] 
-}}
-[[Category:Licensing]]

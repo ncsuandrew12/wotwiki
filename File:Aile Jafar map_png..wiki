@@ -1,7 +1,0 @@
-{{Image
-| License            = gfdl
-| ImageType1          = Map
-| Description        = Map of Aile Jafar
-| Source             = [[:Image:WoT Map.jpg]]
-}}
-[[Category:Islands]]

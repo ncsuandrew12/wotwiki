@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Cover for ''Wichry cienia'' the [[Wheel of Time translations|Polish version]] of the second part of [[Crossroads of Twilight]]; (Polish Volume 17)
-| Source                  = [http://ksiazki.polter.pl/Wichry-Cienia-n4436 ksiazki.polter.pl]
-| Artist                  = 
-}}

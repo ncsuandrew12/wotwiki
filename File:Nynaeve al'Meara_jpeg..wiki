@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = [[Nynaeve al'Meara]].
-| Source             = The cover for the ebook of ''[[A Crown of Swords]]''.
-| Artist             = Mélanie Delon
-}}

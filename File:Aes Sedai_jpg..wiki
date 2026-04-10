@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character
-| ImageType2              = Fan Art
-| Description             = An [[Aes Sedai]] of the [[Green Ajah]].
-| Source                  = [http://purplewaffle.deviantart.com/art/Aes-Sedai-150712711]
-| Artist                  = PurpleWaffle
-}}

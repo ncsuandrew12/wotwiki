@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = An [[Aes Sedai]] looking at the faint residue of a past [[weave]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''.
-| Artist             = Rebecca Guay
-}}

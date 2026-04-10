@@ -1,8 +1,0 @@
-{{Image
-| License            = Public Domain
-| ImageType1         = Miscellaneous
-| Description        = [[Robert Jordan]] ouyside of  his house
-| Source             = http://web.archive.org/web/19990209135718/uts.cc.utexas.edu/~moiraine/jordan/files/int1.html
-| Artist             = 
-}}
-[[Category:Administrative images]]

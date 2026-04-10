@@ -1,9 +1,0 @@
-{{Image
-| License                 = Fairuse 
-| ImageType1              = Miscellaneous
-| Description             = Front cover of [[Dragon Magazine Annual 6]]
-
-| Source                  = {{Link |url=https://ia903109.us.archive.org/8/items/DragonMagazine260_201801/Dragon%20Magazine%20Annual%206%2C%202001.pdf |text=archive.org}}
-| Artist                  = 
-}}
-[[Category:Dragon Magazine Annual 6]]

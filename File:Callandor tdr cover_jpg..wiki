@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Miscellaneous
-| Description        = [[Rand]] with [[Callandor]]
-| Source             = The cover for the Tor Edition of ''[[The Dragon Reborn]]''.
-| Artist             = Darrell Sweet
-}}

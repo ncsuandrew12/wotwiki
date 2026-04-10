@@ -1,7 +1,0 @@
-== Summary ==
-{{Image
-| ImageType1              = misc
-| Description             = RJ's notes on New Spring Comic
-}}
-
-[[Category:Robert Jordan emails]]

@@ -1,4 +1,0 @@
-'''Dockmasters''' are those people in charge of a dock in a city. They are responsible for the organization of cargo and people at their docks.
-
-[[Category:Occupations| Dockmasters]]
-[[Category:Sort option categories]]

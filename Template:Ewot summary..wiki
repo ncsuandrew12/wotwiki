@@ -1,3 +1,0 @@
-<span class="plainlinks">[http://encyclopaedia-wot.org/books/{{lc:{{ba|{{{1}}}}}}}/{{{2}}}.html {{{3|EWoT}}}]</span>
-
-<noinclude>[[Category:Linking templates|Ewot summary]]</noinclude>

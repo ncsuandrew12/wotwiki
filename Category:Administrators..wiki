@@ -1,3 +1,0 @@
-[[m:Administrators|Administrators]] for the project have additional abilities to edit the wiki and interface to manage how it works. They can also block users and delete pages when needed. Please contact one of them if you need assistance with something you seem unable to accomplish.
-[[Category:Administrative| Administrators]]
-[[Category:Contributors| Administrators]]

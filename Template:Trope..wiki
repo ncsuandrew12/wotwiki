@@ -1,2 +1,0 @@
-<includeonly>[https://allthetropes.org/wiki/{{urlencode:{{{1}}}|WIKI}} {{{2|{{{1}}}}}}]</includeonly><noinclude>{{Documentation}}
-[[Category:Templates]]</noinclude>

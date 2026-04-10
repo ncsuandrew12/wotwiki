@@ -1,8 +1,0 @@
-{{Image
-|ImageType1   = Fan Art
-| ImageType2 = Character
-|License     = GFDL
-|Source      = http://jeremysaliba.blogspot.com/
-|Description = [[Mazrim Taim]] fan art done by Jeremy Saliba.
-|Artist      = Jeremy Saliba
-}}

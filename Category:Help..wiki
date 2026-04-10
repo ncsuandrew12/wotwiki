@@ -1,2 +1,0 @@
-Help files (these will probably be broken out more effectively into [[Wotwiki:]] pages and actual helpfiles later).
-[[Category:Administrative| Help]]

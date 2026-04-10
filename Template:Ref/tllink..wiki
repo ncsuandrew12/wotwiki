@@ -1,3 +1,0 @@
-<includeonly>{{ref|{{TlLink|{{{1|}}}|{{{2|}}}}}|TLLINK{{#if:{{{1|}}}|-{{{1}}}{{#if:{{{2|}}}|-{{{2}}}}}}}}}</includeonly><noinclude>{{Documentation|:Template:ref/doc}}
-[[Category:Utility templates|{{PAGENAME}}]]
-[[Category:Templates]]</noinclude>

@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse 
-| ImageType1              = Map
-| Description             = Map showing the borders of Tarabon
-}}
-[[Category:Maps of Nations and Kingdoms]]
-[[Category:Tarabon]]

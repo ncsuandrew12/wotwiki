@@ -1,7 +1,0 @@
-{{#if:{{{info|}}}|
-<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background:{{{bg|#424242}}}">
-	<td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">{{{title}}}</td>
-	<td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">{{{info}}}</td>
-</tr>
-}}
-<noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

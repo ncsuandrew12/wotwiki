@@ -1,2 +1,0 @@
-Templates used for both administrative needs as well as for administrators.
-[[Category:Templates| Administrative templates]]

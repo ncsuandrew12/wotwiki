@@ -1,9 +1,0 @@
-==Typo redirects==
-Mmmmm, I thought about that for [[Myrddraal|Myddddrraaaaaal]], but then thought maybe typos would be easier to spot if we didn't create redirects for them... [[Traveling]] always gets me too. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 21:09, 25 Oct 2005 (UTC)
-
-== redirect to category ==
-
-I'm not sure that redirecting an article over to the Category space is such a good idea - for one thing, it mingles them confusingly for new visitors. For another, I thought you were mostly transcluding articles into category header space? [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 15:43, 21 Nov 2005 (UTC)
-
-* In this case, our article will be at [[One Power]].  The only thing to do in an article about channelers/channeling is to give a list of known channelers, for which the cat is best... --[[User:Gherald|Gherald]] 16:27, 21 Nov 2005 (UTC)
-** Okay, I'm cool with that, I just need to know it's a possibility, for when I start redesigning the CSS file (I was going to make categories look slightly different than articles). [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 17:35, 21 Nov 2005 (UTC)

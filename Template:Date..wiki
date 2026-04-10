@@ -1,3 +1,0 @@
-<includeonly>{{#dateformat:{{{1|{{CURRENTYEAR}}-{{CURRENTMONTH1}}-{{CURRENTDAY}}}}}|j M, Y}}</includeonly><noinclude>{{Documentation}}
-[[Category:Templates]]
-</noinclude>

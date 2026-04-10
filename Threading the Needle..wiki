@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{11|p}}
-| used=[[Galadedrid Damodred]]
-}}
-{{dablink|For other uses of the word "thread," see [[Thread]].}}
-'''Threading the Needle''' is a [[sword form]]. Other than the name, nothing is known about it. [[Galadedrid Damodred]] used this form a number of times against [[Eamon Valda]] during thier [[Trial Beneath the Light]], aiming for Valda's left shoulder. Each time, Valda used [[The Swallow Takes Flight]] to counter, until the last time, when Galad altered the stroke into [[Reaping the Barley]], scoring a hit beneath Valda's rib cage.{{ref/book|11|p}}
-
-{{notes}}
-{{short}}

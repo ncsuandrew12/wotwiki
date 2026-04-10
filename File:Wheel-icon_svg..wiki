@@ -1,8 +1,0 @@
-{{Image
-| License            = fairuse
-| ImageType1          = Chapter Art
-| Description        = This is an .svg version of [[:Image:Wheel-icon.png]], used with permission [http://linuxmafia.com/waygate/chapter-icons-permission].
-| Source                  = http://www.dragonmount.com/Books/chapter_icons.php
-| Artist                  = Matthew C. Nielsen
-}}
-[[Category:SVG Chapter Art]]

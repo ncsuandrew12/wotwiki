@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character image
-| ImageType2         = CCG
-| Description        = Lizard from the [[Aiel Waste]], possibly a [[Gara]]; card called "Hostile Terrain"
-| Source             = The "Premiere" deck of ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = Paul Herbert
-}}

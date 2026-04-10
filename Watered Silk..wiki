@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{3|55}}
-| used=[[Rand al'Thor]] or [[Be'lal]]
-}}
-{{dablink|For other uses of the word "water," see [[Water (disambiguation)|Water]].}}
-'''Watered Silk''' is a [[sword form]]. Other than the name, nothing is known about it. During thier duel over ''[[Callandor]]'' in the [[Stone of Tear]], either [[Rand al'Thor]] or [[Be'lal]] used this form to counter [[The Falling Leaf]].{{ref/book|3|55}}
-
-{{notes}}
-{{short}}

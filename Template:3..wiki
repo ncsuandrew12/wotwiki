@@ -1,4 +1,0 @@
-''[[The Dragon Reborn]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[The Dragon Reborn/Prologue|Prologue]]|e|ep|epilogue=[[The Dragon Reborn/Epilogue|Epilogue]]|g|glossary=[[The Dragon Reborn/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[The Dragon Reborn/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
-{{Documentation}}
-[[Category:Book templates|Dragon Reborn]]
-</noinclude>

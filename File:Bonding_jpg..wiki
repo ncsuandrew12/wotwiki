@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Miscellaneous
-| Description        = [[Moiraine]] [[bonding]] [[Lan]].
-| Source             = The cover of ''[[New Spring 8]]''.
-| Artist             = Joe Cooper
-}}

@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fairuse 
-| ImageType1              = Character
-| Description             = Master [[Hightower]]
-| Source                  = ''[[The Eye of the World 7]]''
-| Artist                  = Andie Tong
-| Artist2                 = Nicolas Chapuis
-}}

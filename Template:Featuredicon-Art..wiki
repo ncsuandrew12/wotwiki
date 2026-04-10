@@ -1,9 +1,0 @@
-<div style="position:absolute; z-index:0; right:0px; top:0px; height:10px; width:300px;"></div>
-<div style="position:absolute; z-index:0; right:10px; top:0px;" class="metadata" id="administrator">[[File:FeaturedArtIcon.png|Featured Artwork|35px|link=Wotwiki:Featured artwork]]</div>
-
-<noinclude>
-This template places a small brush and pallet icon ([[image:FeaturedArtIcon.png|30px]]) in the top right corner of an article to indicate that it is a [[Wotwiki:Featured artwork|featured artwork on the A Wheel of Time Wiki]].
-
-This template should be placed at the top of the article.
-</noinclude>
-[[Category:Wotwiki featured artwork|{{PAGENAME}}]]

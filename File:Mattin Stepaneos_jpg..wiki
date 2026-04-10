@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| ImageType2         = CCG
-| Description        = [[Mattin Stepaneos]].
-| Source             = The "[[Dark Prophecies]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = Steve Snyder
-}}

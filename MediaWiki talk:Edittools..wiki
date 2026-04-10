@@ -1,9 +1,0 @@
-== Insertion of special characters ==
-
-To get this to work as in Wikipedia, you will need the [[m:CharInsert]] extension, which [[Special:Version|this wiki]] doesn't seem to have. --[[User:TheParanoidOne|TheParanoidOne]] 09:19, 30 August 2006 (UTC)
-:Yeah, I was trying to figure out if that was the case - at least we have them for copy-pasting now, if we need them (probably most are unnecessary, but...) -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 13:02, 30 August 2006 (UTC)
-
-== Update ==
-
-This page could do with an update, since Reflist doesn't exist, and the references tag is contained properly in {{[[Template:Notes|Notes]]}} — [[User:Fbstjoe|fbstj]] 17:51, October 14, 2010 (UTC)
-:Changed the <nowiki><ref></ref></nowiki> to the {{tl|ref/book}} and added {{tl|notes}} in place of the reflist. Any other suggestions? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 02:28, October 15, 2010 (UTC)

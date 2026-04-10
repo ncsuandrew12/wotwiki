@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Fan Art
-|License     = GFDL
-|ImageType2  = Character
-|Source      = https://www.deviantart.com/fee-absinthe/art/Leane-195646874
-|Description = [[Leane Sharif]] fan art.
-|Artist      = Artemisia Absinthium
-}}

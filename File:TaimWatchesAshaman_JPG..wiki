@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/endave/art/Asha-man-Kill-Dumai-s-Well-393165505
-|Description = Fan art of [[Mazrim Taim]] supervising [[Ashaman]] during the [[Battle of Dumai's Wells]].
-|Artist      = endave
-}}

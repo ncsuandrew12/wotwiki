@@ -1,8 +1,0 @@
-The '''crossbow''' is a weapon consisting of a bow that is mounted on a stock and shoots bolts instead of arrows. Unlike a regular bow, which relies on the muscle power of the archer, a crossbow uses mechanical principles to launch its arrow.
-
-The crossbow is consistently described as being significantly inferior to weapons such as the Two Rivers-style longbow in power, accuracy, range, and refire rate (due to long reload times). However, it is far simpler to use, and men can be trained and drilled in crossbow use far faster than they can be trained in the use of the longbow.
-
-The [[Band of the Red Hand]] have incorporated the crossbow as a standard weapon among their troops and have proved efficient when using it. They have also incorporated a number of mechanical improvements, including a crank design which significantly decreases the reload time of the crossbows and allows Band crossbowmen to unleash volleys of crossbow fire at an unprecedented rate.
-
-{{stub}}
-[[Category:Weapons]]

@@ -1,7 +1,0 @@
-{{Image
-| License            = gfdl
-| ImageType1          = Map
-| Description        = Map of the Arran Head
-| Source             = [[:Image:WoT Map.jpg]]
-}}
-[[Category:Peninsulas]]

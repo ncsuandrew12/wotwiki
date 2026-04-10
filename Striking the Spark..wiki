@@ -1,8 +1,0 @@
-{{swordform
-| mentioned={{2|47}}
-| used=[[Rand al'Thor]]
-}}
-'''Striking the Spark''' is a [[sword form]]. Aside from the name, nothing is known about the form. It was used by [[Rand al'Thor]] during his duel in the sky over [[Falme]] with [[Ishamael]].{{ref/book|2|47}}
-
-{{notes}}
-{{short}}

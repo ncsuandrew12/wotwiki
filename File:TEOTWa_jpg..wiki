@@ -1,9 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Cover for ''[[From the Two Rivers]]''
-| Source                  = ''[[From the Two Rivers]]''
-| Artist                  = Charles Keegan
-}}
-[[Category:Tor editions|01a]]
-[[Category:The Eye of the World covers]]

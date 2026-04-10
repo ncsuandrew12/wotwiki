@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = http://lizstephanoff.com/Illustration-Miscellaneous-Gallery.html
-|Description = Fan art of [[Faile Bashere]].
-|Artist      = Liz Stephanoff
-}}

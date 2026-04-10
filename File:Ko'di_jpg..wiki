@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Miscellaneous
-| Description        = [[Lan]] floating in ''[[ko'di]]''.
-| Source             = ''[[New Spring 6]]''
-| Artist             = Harvey Tolibao
-}}

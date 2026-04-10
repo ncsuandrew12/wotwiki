@@ -1,2 +1,0 @@
-Documentation of a template, where required.
-[[Category:Templates| Template documentation]]

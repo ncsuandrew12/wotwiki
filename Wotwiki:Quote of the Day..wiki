@@ -1,7 +1,0 @@
-Previously, there were specific quotes chosen for specific days.
-
-Since early 2025, quotes are instead chosen semi-randomly from a list of possible quotes, with the chosen quote changing each day (or sometimes when the quote database is updated).
-
-You can see the list of possible quotes in the [[Wotwiki:Quote of the Day/Archive|Archive]].
-
-[[Category:QOTD|{{PAGENAME}}]]

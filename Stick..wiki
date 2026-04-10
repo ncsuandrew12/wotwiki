@@ -1,6 +1,0 @@
-A '''stick''' is a denizen of the [[Great Blight]]. They look like their name, a part of a tree, however their vines lash out like snakes strangling those who walk by them.{{ref/book|14|35}} Their bite is deadly. It releases a type of poison into the persons bloodstream that digests them from inside out. The only way to save a person bitten by a stick is to amputate the bitten limb. The trees on which they live seem fleshy, rather than woody like the trees in the south.  They have sores that leak red sap that looks like blood.{{ref/book|14|35}} Unlike many other animals of the Great Blight, Sticks do not attack unless someone touches or irritates them.{{ref/book|1|48}}
-
-{{notes}}
-{{short}}
-[[Category:Shadowspawn]]
-[[Category:Constructs]]

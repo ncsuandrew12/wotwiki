@@ -1,6 +1,0 @@
-==Page Format==
-Got the initial list up, mostly based off of the Category:Two Rivers Residents.  I don't like the names being arranged alphabetically by first name, as it makes it harder to determine families like that.  I'm also unsure if I should put each individual letter of the alphabet as a heading in order to get the table of contents box at the top for an easy "Jump right to 'X'" option.  As of now though, the list isn't quite ''that'' gigantic, and it isn't likely to be.  Simply scrolling should be enough.  But if anyone thinks that headings instead of '''bolding''' is a better option, say or do something.--DanceTheSpears 19:11, 17 January 2008 (UTC)
-
-bold should be sutible their aren't all that many people from the Two rivers, and alphabetically by surname is deffinetly preferable. [[User:Phillbie|Phillbie]] 06:20, 28 May 2009 (UTC)
-
-Merging with [[Two Rivers]] might be a good idea - listing the residents grouped according to home village, social status and family name would be the way I would do it. See the [[Children of the Light]] page, for example, or some of the Aes Sedai faction pages. I'll get around to it soon, as well as adding a LOT more Two Rivers pages. [[User:Moridin 2000|Moridin_2000]] 22:16, 28 May 2009 (UTC)

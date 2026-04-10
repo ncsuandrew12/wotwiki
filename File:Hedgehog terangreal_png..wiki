@@ -1,8 +1,0 @@
-{{Image
-| License                 = 
-| ImageType1              = Item
-| Description             = [[Hedgehog]]
-| Source                  = AI
-| Artist                  = Moridin 2000
-| AI                      = AI
-}}

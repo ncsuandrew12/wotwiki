@@ -1,4 +1,0 @@
-''[[The Fires of Heaven]]''{{#if:{{{1|}}}|, {{#switch:{{{1|}}}|p|pr|prologue=[[The Fires of Heaven/Prologue|Prologue]]|e|ep|epilogue=[[The Fires of Heaven/Epilogue|Epilogue]]|g|glossary=[[The Fires of Heaven/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[The Fires of Heaven/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
-{{Documentation}}
-[[Category:Book templates|Fires of Heaven]]
-</noinclude>

@@ -1,8 +1,0 @@
-{{Image
-| License            = gfdl
-| ImageType1          = Map
-| Description        = Map of Haddon Mirk
-| Source             = [[:Image:WoT Map.jpg]]
-}}
-[[Category:Marshes]]
-[[Category:Forests]]

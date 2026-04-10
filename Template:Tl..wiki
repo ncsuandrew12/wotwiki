@@ -1,3 +1,0 @@
-{{[[Template:{{{1}}}|{{{1}}}]]}}<noinclude>
-{{Documentation}}
-[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,9 +1,0 @@
-'''Lian's Stand''' is a [[legend]] concerning [[Lian]]. [[Thom Merrilin]] recited it when the party visited [[The Stag and Lion]] in [[Baerlon]]. It is part of ''[[The Great Hunt of the Horn]].''{{ref/book|1|17}}
-{{Quote
- |quote="[[The Bargain of Rogosh Eagle-eye]]" wound its way to an end, but Thom paused only to wet his throat from a mug of ale before launching into "[[Lian's Stand]]." In turn that was followed by "[[The Fall of Aleth-Loriel]]," and "[[Gaidal Cain's Sword]]," and "[[The Last Ride of Buad of Albhain]]."
- |early_refs={{ref/book|1|17}}}}
-{{notes}}
-{{short}}
-{{DISPLAYTITLE:''Lian's Stand''}}
-[[Category:Legends]]
-[[Category:The Great Hunt of the Horn]]

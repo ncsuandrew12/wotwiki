@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Cover for ''Triumf chaosu'' the [[Wheel of Time translations|Polish version]] of the first part of [[Lord of Chaos]]; (Polish Volume 10)
-| Source                  = [http://ksiazki.polter.pl/Triumf-Chaosu-n4417 ksiazki.polter.pl]
-| Artist                  = 
-}}

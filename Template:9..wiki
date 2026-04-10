@@ -1,4 +1,0 @@
-''[[Winter's Heart]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[Winter's Heart/Prologue|Prologue]]|g|glossary=[[Winter's Heart/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[Winter's Heart/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
-{{Documentation}}
-[[Category:Book templates|Winter's Heart]]
-</noinclude>

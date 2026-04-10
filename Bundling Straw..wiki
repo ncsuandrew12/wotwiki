@@ -1,8 +1,0 @@
-{{swordform 
-| mentioned={{2|47}}
-| used=[[Rand al'Thor]]
-}}
-'''Bundling Straw''' is a [[sword form]]. It was used by [[Rand al'Thor]] during his fight with [[Ishamael|Ba'alzamon]] in the skies over [[Falme]]. Other than the fact that it was used, nothing is known about it.{{ref/book|2|47}}
-
-{{notes}}
-{{short}}

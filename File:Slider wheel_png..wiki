@@ -1,5 +1,0 @@
-{{Image
-| Licence               = Faireuse
-| ImageType1            = Slider
-| Description           = Slider made from [[:File:Wiki-background]]
-}}

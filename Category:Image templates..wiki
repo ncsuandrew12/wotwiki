@@ -1,2 +1,0 @@
-Templates used on image files.
-[[Category:Templates| Image templates]]

@@ -1,5 +1,0 @@
-<includeonly><span class="references-footnote">{{ref
-  | {{{{{book|{{{1|}}}}}}|{{{chapter|{{{2|}}}}}}|{{{section|{{{4|}}}}}}|{{{entry|}}}}}{{#if: {{{chapter2|{{{5|}}}}}}
-    | &nbsp;-&nbsp;{{{{{book|{{{1|}}}}}}|{{{chapter2|{{{5|}}}}}}|{{{section2|{{{4|}}}}}}}}}}
-  |{{{name|{{{3|{{#if: {{{book|{{{1|}}}}}}{{{chapter|{{{2|}}}}}}{{{section|{{{4|}}}}}}|{{{book|{{{1|}}}}}}-{{{chapter|{{{2|}}}}}}-{{{section|{{{4|}}}}}}-{{{entry|}}}}}}}}}}}}}</span></includeonly><noinclude>{{Documentation|:Template:ref/doc}}
-[[Category:Utility templates]]</noinclude>

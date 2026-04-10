@@ -1,3 +1,0 @@
-<big>{{{1}}} '''''{{PAGENAME}}''''' {{{2}}}</big>
-
-''<small>This is a glossary definition.  If you believe this entry deserves a more complete article, you can help us by [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} expanding it]</small><noinclude>[[Category:Templates]]</noinclude>
