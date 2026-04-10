@@ -1,0 +1,35 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| status=Alive
+| gender=Male
+| affiliation=Car'a'carn
+| build=Slender
+| height=Tall
+| clan=Taardad
+| sept=Jindo
+| society=Tain Shari
+| rank=Sept chief
+| appeared={{tsr|23}}
+| lastappeared={{tgs|3}}
+| living=tgs
+}}
+'''Heirn''' is the [[sept]] chief of the [[Jindo]] and member of the [[Taardad]] [[Aiel]].
+
+== Appearance ==
+He is tall, dark and slender, with a leathery face.
+
+== History ==
+His warrior society is ''[[Tain Shari]]''.
+
+== Activities ==
+He meets [[Rhuarc]] at [[Rhuidean]] when the Aiel from [[Tear]] are transported through the [[Portal Stone]].{{ref/book|4|23}}
+
+He helps to teach [[Rand al'Thor]] the Aiel way of fighting.
+
+He is present when Rand's forces attack the [[Shaido]] outside [[Cairhien]].
+
+Months later he [[Travel]]s with Rhuarc and the rest of his clan to [[Arad Doman]]. There, he is required to bring peace to the war torn country and find the missing members of the [[Council of Merchants]].
+
+{{notes}}

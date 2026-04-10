@@ -1,0 +1,19 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|1000}}
+| nationality=Aiel
+| gender=Female
+| affiliation=Sevanna
+| society=Far Dareis Mai
+| clan=Shaido
+| sept=Moshaine
+| eyes=
+| status=Dead
+| appeared={{acos|40}}
+}}'''Naeise''' is a [[Maiden of the Spear]].{{ref|{{twotc}}, Naeise|Naeise}}  She is of the [[Moshaine]] [[Sept]] of the [[Shaido]] [[Aiel]].{{ref||Naeise}}
+
+== Activities ==
+She, with part of her sept are dispersed through a [[Gateway]] near the [[Plains of Maredo]]. She runs to [[Maeric]] with the news that a huge force of [[Reyn]] are coming towards them. Her clan engages the enemy and she probably doesn't survive the exchange.
+
+{{notes}}

@@ -1,0 +1,26 @@
+[[File:Zomara.png|thumb|right|350px|Zomaran are beautifully androgynous and graceful human-like creations with dead black eyes.]]A '''zomara''' (plural '''zomaran'''){{ref/book|11|3}} is a type of [[Shadowspawn#Zomara|Shadowspawn]] created by [[Aginor]] during the Age of Legends for the sole purpose of serving.{{ref/book|twotc|Zomara}}
+
+== Appearance and Abilities==
+Zomaran are slender, beautiful, youthful, and always smiling. They have golden hair and blank, dead black, empty eyes. They wear tight white breeches and flowing white blouses and move with disturbing grace. Although zomaran do come in male and female genders, they appear so androgenous that it is difficult to tell the difference.
+
+Although they are able to read minds, they are of low intelligence and cannot speak. They also have an engineered memory capacity such that anything other than commands fade from their consciousness after a few minutes.{{ref/book|11|3}}
+
+==Mentions==
+
+* ''Zomaran'' first appear during the so-called [[Darkfriend]] "[[Darkfriend Social|Social]]" with [[Jaichim Carridin|Bors]].{{ref/book|2|p}}
+* A ''zomara'' serves wine to [[Moridin]] while he plays [[Sha'rah]] by himself.{{ref/book|8|p}}
+* Multiple ''zomaran'' serve the Forsaken in a ''[[Tel'aran'rhiod]]'' version of the [[Ansaline Gardens]]. This is the first time the name zomara is mentioned.{{ref/book|11|3}}
+
+==Other Notes==
+Like other Shadowspawn, they were created by Aginor. The [[True Power]] was presumably involved, something maybe hinted at by the fact they have eyes of pure black. If this is the case, it may be possible that the Dark One himself can access their eyes and ears, although this is speculation. If they are simply constructs of the [[One Power]], the apparent use of human stock would still make them one of his more perverse creations and violate all kinds of ethics and Age of Legends restrictions to limit genetic modification to plant life.
+
+[[Aran'gar]] said she "hated the creature's ability to know what was in her head," although glad that it did not have the ability to communicate whatever it found there. This is particularly useful in a setting where secret plotting may be going on. She believes that [[Moridin]] must have found a stasis box full of them.{{ref/book|11|3}} 
+
+After it was revealed that Moridin was the resurrected [[Ishamael]], he explained how he had always favored and trusted ''zomaran'' above any other human servants, despite their uselessness for every other task.{{ref/book|11|3}} The zomaran are the perfect servant: docile, subject to all instructions and capable of fulfilling its owner's wishes without the encumbrance of verbal or somatic communication. Whether by chance or not, the [[Seanchan]] would see this perfectly obedient and harmless servant as the ideal [[Da'covale|Da'Covale]]. With regards the Chosen, having zomaran would likely be a sign of status and also a way to not have to rely on [[Compulsion]] for secrecy. 
+
+Their low intelligence may remove any motivation to betray their owner by succumbing to blackmail or bribery. Their absolute obedience also makes them incapable of causing harm to anyone as a simple command to stop would prevent one attacking. The only way to get around this might be to remove their ability to receive more orders, but since they recieve commands through psychic means rather than verbal commands, this could be impossible.
+
+Their similar appearance may indicate that they are genetically very close, maybe even clones. It is not known how they reproduce. 
+
+{{notes}}
+[[Category:Shadowspawn]]

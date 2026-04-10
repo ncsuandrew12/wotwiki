@@ -1,0 +1,93 @@
+{{character 
+| image=Damer Flinn.jpg
+| imagesize=250px 
+| nationality=Andoran
+| birth={{ne|942}}
+| occupation=Asha'man
+| rank=Asha'man
+| title=Gaidin
+| affiliation= The Dragon Reborn
+| gender=Male
+| hair=White, Nearly Bald
+| status=Alive
+| appeared={{loc|3}}
+| lastappeared={{amol|e}}
+| living=amol
+}}
+'''Damer Flinn''' is an [[Asha'man]] of the [[Black Tower]]. 
+
+==Appearance==
+He is quite old, with a leathery, creased face and has a limp, he only has a small fringe of white hair left {{ref/book|6|3}}{{ref/book|7|36}}. Later he loses his left arm in battle {{ref/book|14|34}}.
+
+==History==
+Flinn served in the [[Queen's Guards]] of [[Andor]] for forty years until he took a [[Murandy|Murandian]] lance in the thigh and was forced to retire{{ref/book|6|3}}.
+
+==Talents and abilities==
+
+His ability with [[Healing]] is likely unsurpassed by any other male channeler alive, and among women is only matched by as few as [[Nynaeve]], [[Sumeko]] and [[Samitsu]].
+
+He was able to figure out a way to Heal [[stilling]] (independently of and knowing nothing about [[Nynaeve al'Meara|Nynaeve al'Meara's]] similar feat), something which was thought impossible even in the [[Age of Legends]], and was able to stabilise [[Rand al'Thor]] after he was slashed with the [[ruby-hilted dagger]] from [[Shadar Logoth]], which even [[Samitsu Tamagowa]] - herself thought to be one of the most skilled Healers the [[White Tower]] had ever seen - was unable to do fully.
+
+In very little time Flinn was able to become stronger in the One Power than some other Asha'man {{ref/book|8|22}}, but he is not particularly good at making gateways {{ref/book|12|5}} because he is lacking in the [[Travel]]ing [[Talent]]. 
+
+== Activities ==
+=== The Farm ===
+He was one of the first few men who willingly came to [[the Farm]] (which would later become the Black Tower) after [[Rand al'Thor]] announced his amnesty. Flinn was the first man to be tested, and [[Mazrim Taim]] determined that he could channel if taught.{{ref/book|6|3}} The reason Flinn came was because he wanted to learn how to [[Healing|Heal]]. At the recommendation of [[Corlan Dashiva]], Flinn begins to explore his [[Talent]] for Healing.{{ref/book|7|36}}
+
+He was in the [[Battle of Dumai's Wells]], and afterwards was chosen to be among the [[Asha'man]] to accompany Rand back to [[Cairhien]]. He has not returned to the Black Tower since. 
+
+He is one of Rand's bodyguards when he meets with the [[Sea Folk]] and makes the Bargain. Flinn's Talent for Healing allowed him to Heal Rand to an extent that he could recover from his wounding by [[Padan Fain]] with the [[Shadar Logoth]] dagger, saving his life.{{ref/book|7|36}}
+=== Illian ===
+Flinn Travels to [[Illian]] with Rand in order to confuse [[Sammael]] and try to bring him back to the city of Illian so Rand can finally defeat him. Rand trusts Flinn a great deal, so Flinn is promoted to the rank of Asha'man.{{ref/book|8|14}}
+
+He goes with Rand to meet the Illian rebels loyal to Lord Brend and is part of the force that attacks the invading [[Seanchan]] just outside Illian.
+
+On arriving back in Cairhien he accompanies Rand to his meeting with [[Cadsuane Melaidhrin]]. When the rogue Asha'man attack Rand's quarters, Rand nearly fries Flinn on purpose due to his lack of trust of the Asha'man.
+
+=== Cleansing ''saidin'' ===
+After the attack of Rand in the [[Sun Palace]], Flinn is bonded as a [[Warder]] by [[Corele Hovian]]. Despite being bullied into it by Cadsuane, there appears to be true and strong feelings between him and Corele. He Travels with Cadsuane and Corele to [[Far Madding]] to track down Rand. He then goes with Cadsuane to meet with the [[Counsel]]s of Far Madding when they have Rand prisoner. He pretends to channel ''saidin'' in order to break [[Aleis Barsalla]] and set Rand free.
+
+During the [[Battle near Shadar Logoth]], Flinn fights [[Demandred]], together with Corele and [[Sarene Nemdahl]].
+
+His instinctual skill for [[Healing]] leads Flinn to discover a cure for [[severing]], quite independently from [[Nynaeve al'Meara]]'s parallel revelation. Prior to their discovery, clear back through the [[Age of Legends]], it was firmly believed that once cut off from access to the [[One Power]], a channeler could never touch the Source again. Damer restores channeling ability to [[Irgain Fatamed]], [[Ronaille Vevanios]], and [[Sashalle Anderly]].
+
+Flinn accompanies Rand and Corele to [[Algarin Pendaloan]]'s house in [[Tear]], where Rand recovers after cleansing ''saidin''. He watches [[Lan Mandragoran]] and [[Narishma]] practice swordplay in the courtyard with the other Warders.
+
+=== Arad Doman ===
+Flinn accompanies Rand to Lord [[Tellaen]]'s manor in [[Arad Doman]]. He is sent to pick up [[Harine din Togara Two Winds]] to be Rand's ambassador. Later he is sent to the [[Daughter of the Nine Moons]] to request her to meet with Rand. He is there when Rand sends [[Naeff]] to the Seanchan, to ask to meet the Daughter of the Nine Moons in [[Falme]]. He stands with Cadsuane and Corele on the [[Bandar Eban]] walls to watch the ghostly procession that circuits the city at night. He goes with Rand to Falme, where he meets with the real Daughter of the Nine Moons, [[Tuon Athaem Kore Paendrag]].
+When Rand pulls his force out of Arad Doman, he and Naeff open the gateway for the force to enter through into [[Tear]].
+
+Rand tells Flinn to create a gateway to the [[Field of Merrilor]] for [[Darlin Sisnera]] and the entire Tairen army.
+Nynaeve Heals the damage caused when channeling while ''saidin'' was still tainted, ridding Flinn of any trace of madness.{{ref/book|13|13}}
+Flinn opens the gateway for Rand, [[Rodel Ituralde]], and the rest of their men to Travel through from [[Maradon]].
+
+=== The [[Last Battle]] ===
+Flinn is one of Rand's escorts at the signing of the [[Dragon's Peace]]. When [[Roedran Almaric do Arreloa a'Naloy]] enters the pavilion, he stands at attention just in case Roedran was [[Demandred]]. Flinn's left arm was burned away in an ambush by [[Hessalam]] at [[Shayol Ghul]].{{ref/book|14|34}}
+
+After the Last Battle, Flinn and Nynaeve tried to heal Rand with their joined strength and extraordinary Healing capabilities, but failed, not knowing that Rand's soul no longer resided in his body.{{ref/book|14|e}}
+
+{{DEFAULTSORT:Flinn, Damer}}
+{{Primary Protagonists}}
+{{notes}}
+[[es:Damer Flinn]]
+[[Category:Queen's Guards]]
+[[Category:Warders]]
+[[Category:Healers]]
+[[Category:Best healers]]
+[[Category:Learners]]
+[[Category:Channelers]]<references />
+[[es:Damer Flinn]]
+[[Category:Queen's Guards]]
+[[Category:Warders]]
+[[Category:Healers]]
+[[Category:Best healers]]
+[[Category:Learners]]
+[[Category:Channelers]]
+<references />
+[[es:Damer Flinn]]
+[[Category:Queen's Guards]]
+[[Category:Warders]]
+[[Category:Healers]]
+[[Category:Best healers]]
+[[Category:Learners]]
+[[Category:Channelers]]

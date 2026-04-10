@@ -1,0 +1,21 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| status=Alive
+| sept=Broken Cliff
+| clan=Daryne
+| mentioned={{Acos|18}}
+| lastmentioned={{acos|18}}
+| living=acos
+}}
+'''Corehuin''' is an [[Aiel]] woman of the [[Jahad Hold]] of the [[Broken Cliff]] sept of the [[Daryne]] clan.
+
+==History==
+She is the wife of [[Mandelain]] and [[sister-wife]] of [[Jair]]. 
+
+She is not the [[Roofmistress]] of the Hold and so was able to accompany Mandelain when he left the [[Aiel Waste]].{{ref|{{twotc}}, Corehuin}}{{ref/book|7|18}}
+
+{{notes}}
+[[Category:Broken Cliff]]

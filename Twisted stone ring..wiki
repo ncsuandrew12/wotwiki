@@ -1,0 +1,17 @@
+The '''flattened,''' '''twisted stone ring''' is a [[sleepweaver]] ''[[ter'angreal]]'' originally given to [[Egwene]] by [[Verin Mathwin]].{{ref/book|3|21}}
+
+==Appearance==
+[[File:Telaran-icon.svg|thumb|right|200px|The chapter icon depicts a Möbius strip]]The ring is made of stone and too large to actually be worn on a finger. It is described as having only one side, a shape known as a [[wikipedia:Möbius strip|Möbius strip]]. This is the shape depicted in the chapter icons relating to  the World of Dreams.
+
+"All flecks and stripes of red and blue and brown, it was just too large to fit a finger, and flattened and twisted besides. Odd as it seemed, the ring had only one edge; a finger drawn along that edge would circle inside and out before coming back to where it began."{{ref/book|5|13}}
+
+==Use==
+The ring allows a person to enter ''[[Tel'aran'rhiod]]''. Unlike other sleepweavers, which required channeling, the ring only needs to touch the person's skin to work and the use of the ring does not result in the user appearing misty, making this the strongest of the sleepweavers.
+
+{{notes}}
+
+{{stub}}
+
+[[es:Anillo retorcido]]
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]

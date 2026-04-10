@@ -1,0 +1,33 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| ewot=seeker
+| build=Slender
+| eyes=Blue
+| hair=Pale yellow
+| occupation=Seeker for Truth
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{tsr|38}}
+| lastappeared={{cot|4}}
+| lastmentioned={{kod|36}}
+| living=cot
+}}
+'''Almurat Mor''' is the name given to a [[Seanchan]] [[Seekers for Truth|Seeker for Truth]]. 
+
+== Appearance ==
+He is middle-aged and slender. He has pale yellow hair and blue eyes. He has a tattoo of the raven and a tower on each shoulder.
+
+== Activities ==
+He is the nameless Seeker who questions [[Egeanin Tamarath]] in [[Tanchico]] about her search of the lost ''[[sul'dam]]'' from [[Falme]]. She hides and protects [[Bethamin]] to prevent the Blood from killing her.{{ref/book|4|38}} He follows Egeanin, when she travels to meet up with [[Nynaeve al'Meara]] and [[Elayne Trakand]].{{ref/book|4|46}} He attacks [[Thomdril Merrilin]] and is knocked unconscious when [[Juilin]] and [[Bayle Domon]] arrive.{{ref/book|4|52}}
+
+He then later appears in [[Ebou Dar]] and instructs the ''sul'dam'' Bethamin to renew her friendship with Egeanin in order to spy on her.
+
+When he introduces himself to [[Furyk Karede]], he gives his name.{{ref/book|10|4}} He formulates a theory on the disappearance of [[Tuon Athaem Kore Paendrag]], Egeanin, Thom, [[Matrim Cauthon]] and a number of missing ''[[damane]]'' and ''sul'dam'' linking it all to [[Suroth Sabelle Meldarath]].
+
+{{notes}}
+{{DEFAULTSORT:Mor, Almurat}}
+[[Category:Ever Victorious Army]]
+[[Category:POV character]]
+[[Category:Eyes-and-ears]]

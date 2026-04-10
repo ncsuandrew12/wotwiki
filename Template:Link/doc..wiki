@@ -1,0 +1,63 @@
+==Purpose of template==
+Create an external link.
+*For linking to {{TVlink}}, see {{tl|TVlink}}.
+*For linking to {{TLlink}}, see {{tl|TLlink}}, {{tl|TIDB}}, and {{tl|TIDBKW}}.
+*For linking to other Fandom wikis, see {{tl|Wlink}}.
+*For linking to {{Wiki}}, see {{tl|Wiki}}.
+
+==How to use==
+
+<pre>{{Link}}
+{{Link|url}}
+{{Link|url|display text}}</pre>
+
+==Examples==
+
+
+{|
+!Code
+!Result
+|-
+|<code><nowiki>{{Link}}</nowiki></code>
+|              {{Link}}
+|-
+|<code><nowiki>{{Link|[[Robert Jordan|RJ]]}}</nowiki></code>
+|              {{Link|[[Robert Jordan|RJ]]}}
+|-
+|<code><nowiki>{{Link|https://wot.fandom.com/wiki/Robert_Jordan|Robert Jordan}}</nowiki></code>
+|              {{Link|https://wot.fandom.com/wiki/Robert_Jordan|Robert Jordan}}
+|-
+|<code><nowiki>{{Link|https://wheeloftime.fandom.com/wiki/Robert_Jordan|Robert Jordan}}</nowiki></code>
+|              {{Link|https://wheeloftime.fandom.com/wiki/Robert_Jordan|Robert Jordan}}
+|-
+|<code><nowiki>{{Link|[[w:c:wheeloftime:Robert Jordan]]}}</nowiki></code>
+|              {{Link|[[w:c:wheeloftime:Robert Jordan]]}}
+|-
+|<code><nowiki>{{Link|https://dragonmount.com/blogs/blog/4-robert-jordans-blog/}}</nowiki></code>
+|              {{Link|https://dragonmount.com/blogs/blog/4-robert-jordans-blog/}}
+|-
+|<code><nowiki>{{Link|https://dragonmount.com/blogs/blog/4-robert-jordans-blog/|Robert Jordan's blog}}</nowiki></code>
+|              {{Link|https://dragonmount.com/blogs/blog/4-robert-jordans-blog/|Robert Jordan's blog}}
+|-
+|<code><nowiki>{{Link|https://wikipedia.org/wiki/Robert_Jordan|Robert Jordan}}</nowiki></code>
+|              {{Link|https://wikipedia.org/wiki/Robert_Jordan|Robert Jordan}}
+|-
+|<code><nowiki>{{Link|[[Wikipedia:Robert Jordan]]}}</nowiki></code>
+|              {{Link|[[Wikipedia:Robert Jordan]]}}
+|-
+|<code><nowiki>{{Link|https://youtube.com}}</nowiki></code>
+|              {{Link|https://youtube.com}}
+|-
+|<code><nowiki>{{Link|xkcd.com}}</nowiki></code>
+|              {{Link|xkcd.com}}
+|-
+|<code><nowiki>{{Link|[xkcd.com XKCD]}}</nowiki></code>
+|              {{Link|[xkcd.com XKCD]}}
+|-
+|<code><nowiki>{{Link|https://xkcd.com}}</nowiki></code>
+|              {{Link|https://xkcd.com}}
+|-
+|}
+
+==See also==
+{{tl|Link/icon}}

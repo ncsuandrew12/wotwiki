@@ -1,0 +1,79 @@
+==Welcome!==
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''A Wheel of Time Wiki'''!. Thanks for your edit to the [[:Duhara Basaheen]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[:Category:Help|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Optimous|Optimous]] ([[User_talk:Optimous|Talk]]) 15:49, November 8, 2009
+
+== Randland vs. The World ==
+
+Kind of an old discussion: [[Talk:Randland]]. The term itself is a fan creation and I try to stay "in-universe" as much as possible. The talk page itself is categorized under "Things to do after Tarmon Gai'don" so it really isn't too important. I guess it is something that we can worry about later. :) ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 18:28, November 18, 2009 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}
+
+== Character categorization ==
+
+People are alphabetized by their last names. It is common and it is prevelant. It is also done on several wiki's. Besides, major changes like this should be discussed first. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 03:48, August 13, 2010 (UTC)
+:I have restored my edits, and here is why: My version helps editors; yours hinders them. I will start by explaining what drove me to make the edits in the first place. I recently re-read TGS, and was reminded that the Rebel Grays had appointed a replacement for [[Delana]]. I did not have the book in front of me, but I remembered all of the information except her exact name. I did, however, remember that it began with "N". I decided therefore to use [[:Category:Gray Ajah]] for its intended purpose. Unfortunately, she wasn't under "N" because Sanderson (or Jordan) happened to give her a surname. As a result, I had to scan every member of the Gray for ones beginning with "N", then sift through them despite the fact that they were scattered throughout the page. Had the list been properly formatted, I could have merely looked under "N", eliminated the ones it couldn't be, and clicked the right one. Someone looking for a Red called "Sashelle" would find the same problem.
+
+:Again, my version helps, but yours hinders. In favour of yours, all you can say is that people are alphabetized by last name. Sure, in the real world, in the West, that is true. Of course, that is not true in many countries, especially in Asia. In any event, forcing the names of all WoT characters into that paradigm doesn't make sense. How many times has Pevara's last name been mentioned in the series? Set that against how many times "Pevara" has been. The categories serve a function, so their form should be dictated by that function, not a European convention that is of no value to editors trying to use the website. You further state that other wikis list characters that way, yet you fail to mention what wikis or whether they have anything to do with WoT. I reject out of hand any analogy to other series both because the mere fact that things are done differently elsewhere has no bearing, and because names in WoT aren't quite the same as other fiction worlds.
+
+:Additionally, other WoT resources alphabetize by first name. See, e.g., [http://encyclopaedia-wot.org/characters/index.html Encyclopedia WoT: Characters].
+
+:Finally, you allege that I should have discussed the matter first. To begin with, there is no clear place to do any such thing. What's more, there was no clear reason why I shouldn't have gone ahead and made the categories more accessible for editors. More importantly, I could make exactly the same claim in return. The edits having been made, there is no reason for you to have swept through and reverted them all before beginning a discussion.
+
+:Since there is a clear utilitarian reason for my version and none for yours, I have restored my edits. -[[User:Rrius|Rrius]] 09:34, August 13, 2010 (UTC)
+
+::Hmmm. I'm actually leaning towards Rrius on this one. But I think we should wait till Willie get's back from vacation so he can give his input. And I understand on the confusion of where to talk about this. We were hoping the forum would be a place to talk about it.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 06:54, August 15, 2010 (UTC)
+:::I know it sounds stupid, but I don't know anything about the forum namespace (i.e., what it's for, how to make sure someone sees something there, etc.). Basically, if a tool here isn't more or less identical to Wikipedia or mentioned in the "Welcome!" at the top of this talk page, I probably don't know it exists or, if I do, what it's for and how to use it properly. -[[User:Rrius|Rrius]] 07:32, August 15, 2010 (UTC)
+::You could have just used the find option in your browser....[ctrl+f] then type the name, would have highlighted the link. — [[User:Fbstjoe|fbstj]] 12:07, August 15, 2010 (UTC)
+:::No, I could not have done. I didn't remember the exact spelling, which was the point of looking it up in the first place. To be excessively detailed, I remembered it was N, an A or O, followed by N or S, then a bunch of other letters. My browser would have been annoyed if I had tried to look that up. It is something a list is good for (like when you look up a word in the dictionary because you can't remember how to spell it), but only when the word and the ones like it are listed together. Moreover, that doesn't answer the question of which method makes more sense. Do people go around talking about the Black Salidar Sitter Mosalaine? No, they talk about Delana. Would you expect look up Rand's first bondholder as "Alanna" or "Mosvani"? -[[User:Rrius|Rrius]] 00:38, August 16, 2010 (UTC)
+
+Sorry dude I completely disagree on you on this one. Most Aes Sedai have last names and so should be placed in alphabetical order with the last name. I would be fine if they were all just first name then Sedai but they aren't--[[User:GuanYu79|GuanYu79]] 09:55, August 19, 2010 (UTC)
+
+:What is the point of list alphabetically by last name? It would make sense if they were known anywhere near as well by their last names, but they aren't. Why exactly do you feel it necessary to impose our cultural norm where it is unhelpful at best? This is a bit frustrating because I think I have a rationale argument, and apparently at least someone agrees with me, but the only response I get is, "They have last names, so we should alphabetize by them." I really think I am entitled to a better explanation than that. I say using the names used most by the authors and by fans should be the ones used to sort. What exactly is the response to that? As I see it, the reasons for sorting by last name in, say, a phone book, simply do not apply to alphabetizing characters in Wheel of Time novels. So, once again, if everyone knows Halima's little friend as "Delana", why would we force people to look for her under "M" rather than "D"? How many people even know her last name? If the choice is once again not to answer these questions, perhaps this one will get a response: What do you feel the purpose of a category is? I have to admit to more than a little exasperation at the more or less complete dismissal here, so please forgive the tone if it offends. -[[User:Rrius|Rrius]] 04:11, August 20, 2010 (UTC)
+
+::they wish to be consistent (with wikipedia?) But I've come round to your view, it makes more sense — [[User:Fbstjoe|fbstj]] 21:27, August 20, 2010 (UTC)
+:No I value your opinions and nothing like a good old debate. The problem as Aes Sedai don't refer to themselves as ____ Sedai and as the books progress more and more people are not using the honorary Sedai at the end of their names--[[User:GuanYu79|GuanYu79]] 22:53, August 21, 2010 (UTC)
+:::I think you've missed my point completely. "X Sedai" has nothing to do with it. When an Aes Sedai is mentioned in dialogue or regular prose, it is almost always by first name and without a last name. When fans discuss Aes Sedai characters, it is almost exclusively done by first name without a last name. It is really as simple as that. Also, I note again that I still haven't received an explanation of why alphabetization by last name is a better idea than actually being helpful to people trying to use this site. -[[User:Rrius|Rrius]] 03:40, August 22, 2010 (UTC)
+
+To start at the beginning, it could also be said that my version helps editors and yours hinders them. What happens when someone comes along and tries to find a character and the only information they have to go on is the first few letters of their last name? Either way, people are going to have difficulty. 
+
+Secondly, I find it really hard to believe that what "drove" you to this was having to "scan" the Gray Ajah category for a first name that began with "N." Let's take a look at that. When you first went to that page, you probably looked under "N" first, right? Seing only one name (Nisain) and finding that she was not it, you had to look at first names. Your "scan" should have taken you to the "C's" next. Opening up the Naorisa Cambral's page, you would have discovered the target of your search. I guess I am finding it difficult to see your hinderance at searching a list of fourty pages, three of which aren't characters.
+
+Third: Yes, people are alphabetized by last name. Yes, in the real world. Yes, it the West. And, if you understand Asian names, yes poeple in Asia are alphabetized by their "last" names. What we in the West call a "last" name is called a "surname" or "family" name by many other countries. Yet in Asia, and other parts of the world, this family name is placed before the "given" name or what we think of as a first name. So, in Asia, it would be Cambral Naorisa and not Naorisa Cambral. I find it very hard to belive that someone who knows what a matronym is doesn't know about surnames and Asian names. 
+
+Let's delve into that third point a little more. We all live in the real world, right? Is it really that much of a leap to try and impose our world view on something fictional? Next, I'm kind of puzzled as to why you bring the "West" into this. This is a series that was written by a westerner, is being edited by westerners, and is being finished by a westerner. 
+
+Fourth: Other wikis and other websites. Since we are dealing with liturature, there are 186 wiki's in the [http://entertainment.wikia.com/wiki/Books Books hub] alone. I randomly selected twenty of them. Nineteen alphabetized by last name. The one that didn't, and I'm sorry for not remembering which one it was, had characters that only have one single name. Do these other wikis have anything to do with WoT? No, they don't. But as the saying goes "what's good for the goose is good for the gander." What works for other fictional worlds can work for this one. Yes, things ''are'' done differently at other wikis, but many things are done the same as well, so that "mere fact" bears no weight. As for names being not "quite" the same as other fiction worlds; try Googling some secondary and tertiary WoT names when you get a chance.
+
+Now, on to other WoT resources: [http://www.sevenspokes.com/index.html Seven Spokes] alphabetizes by last name. The books themselves, in the glossaries, alphabetize by last name.
+
+Fifth: Yes, there are clear places to have discussions. First would be [[:Category talk:People]] since this concerns all of the characters. Second would be the Forums. I have to cry foul here. You have edited on the Forums. When you went there, you didn't look at this and think "Hey, this is something new." If you didn't, whatever, it just strikes me as odd. Side question: How does Wikipedia alphabetize peoples' names in categories?
+
+Sixth: Reverts. The reason I reverted them is so that all the pages are the same until consensus is reached on the issue. Now we have some pages one way and other another. To new members, that can be confusing. So, yes, I did "sweep" through and change them back before I posted to your talk page. You will find that to be a prevalent attitude on just about every wiki. With the edits more than a week gone, we can just wait for consensus.
+
+Seventh: Categories. Categories are used to group pages. They are not, at least in my opinion, a search function. 
+
+Eighth: Listing things together. Your way would split up all of the Damodreds, Trakands, Mandragorans, Cauthons, al'Thors, al'Veres, Aybaras, ''ad nauseum''. Also in that talk post, you mentioned Alanna. For the longest time, I got the name Alanna confused with some other sister, whom I can't remember now. The only way I could sort it out was by her last name. So, yes, when I think of Rand's first bondholder, I think of Mosvani. 
+
+If you take nothing else away from this, at least take this: Different people are going to have different views on how to do things. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 07:04, August 23, 2010 (UTC)
+----
+:''Moved to [[Category talk:People]].''
+
+==Request for comment 2==
+{{request|Category talk:People|Mainphramephreak}}
+
+== Preview button  ==
+
+Hello. Thanks for the clean-up on the [[What is yet to happen]] page. In the future, could you please use the Preview button? It cuts down on the listing on the [[Special:RecentChanges]] page and cuts down on the server load. Please let me know if you have any questions. Thanks! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:40, March 26, 2011 (UTC)
+:I edited section by section and occasionally separated edits to make reverting what I thought were more controversial choices easier. So in the future, I will use the preview button more or less as I always have. -[[User:Rrius|Rrius]] 03:33, March 31, 2011 (UTC)
+Ah, that explains it. Thanks for the explanation. ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 05:50, March 31, 2011 (UTC)

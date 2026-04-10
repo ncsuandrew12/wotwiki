@@ -1,0 +1,26 @@
+{{Character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| nationality=Domani
+| death={{ne|1000}}
+| build=Gaunt
+| title=Lord
+| affiliation=Dragonsworn
+| hair=White 
+| status=Dead
+| gender=Male
+| appeared={{cot|prologue}}
+}}
+'''Shimron''' was a [[Dragonsworn]] leader originally from [[Arad Doman]]. 
+
+== Appearance ==
+He was white haired and gaunt.
+
+== History ==
+He fought with [[Rodel Ituralde]] in the [[Aiel War]].
+
+== Activities ==
+He was one of King [[Alsalam]]'s most trusted advisors before joining with the Dragonsworn men in Arad Doman.
+He greets Ituralde when he comes to meet with the other Dragonsworn leaders, in Arad Doman under the [[White Ribbon]]. They agree to attack the [[Seanchan]] together on [[Almoth Plain]].
+
+He is burned to char by a ''[[damane]]'' in the attack.

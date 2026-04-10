@@ -1,0 +1,56 @@
+{{ character 
+| image=BrownAjah.png
+| imagesize=250px
+| name=Marith Riven
+| ajah=Brown
+| nationality=Murandian
+| gender=Female
+| affiliation= The Dragon Reborn
+| rank=Aes Sedai
+| status=Alive
+| mentioned={{tgh|45}}
+| appeared={{acos|1}}
+| lastappeared={{acos|1}}
+| living=acos
+}}
+{{dablink|For the similarly named [[Amyrlin Seat]], see [[Marith Jaen]].}}
+
+'''Marith Riven''' is a [[Murandy|Murandian]] [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Marith Riven}}
+
+== Appearance ==
+Marith is 5'6" tall and has not yet achieved the ageless look.
+
+== Strength and Abilities ==
+Marith is of [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|24}}. She is stronger than the minimum stated strength needed to [[Traveling|Travel]].
+
+== History ==
+Marith is 32 years old. She was born in [[968 NE]] and went to the [[White Tower]] in [[984 NE]]. Marith spent eight years as a [[novice]] and seven as [[Accepted]]. She was raised to the shawl in [[999 NE]].
+
+[[Marith Jaen]] was Amyrlin when she was a novice, and it was uncomfortable for her to have the same first name as such a tough Amyrlin.
+
+She had a habit of making observations of people and events that would have been better kept to herself.
+
+== Activities ==
+When she was still Accepted, [[Elayne]] threw a cup at her, for which she was switched.
+
+She is chosen to participate in [[Rand]]'s kidnapping, along with [[Beldeine Nyram]] and [[Janine Pavlara]] because they were among the few without the ageless look.
+
+She was taken prisoner by the [[Asha'man]] at the Battle of [[Dumai's Wells]]{{ref/book|6|55}} and swore an oath of fealty to [[Rand al'Thor]]{{ref/book|9|13}} afterwards.
+
+Like many Aes Sedai sworn to Rand, Marith probably fights the [[Last Battle]] on the slopes of [[Thakan'dar]]{{ref/book|14|34}}. Because it is not stated otherwise, it can also be presumed that she survives.
+
+==Ajah==
+Marith's Ajah is never identified in the main books of the saga.
+
+Of the thirty-nine sisters sent to kidnap Rand, 15 were of the [[Red Ajah]]. According to [[Galina Casban]], the remaining sisters were 10 of the [[Green Ajah]] and 12 of the [[White Ajah|White]] (the last two are [[Nesune]] e [[Coiren]], a Brown and a Gray respectively).
+
+But Marith's Ajah is identified as Brown in "The Wheel of Time Companion", contradicting the description given by Galina in the Book.
+
+{{notes}}
+{{DEFAULTSORT:Riven, Marith}}
+[[Category:Rand's Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

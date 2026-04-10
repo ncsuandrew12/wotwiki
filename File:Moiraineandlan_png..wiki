@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = Fairuse
+| ImageType2 = 
+|Source      = eBook cover of ''[[New Spring]]''
+|Description = [[Moiraine]] and her [[Warder]] [[Lan]].
+|Artist      = Jason Chan
+}}

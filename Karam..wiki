@@ -1,0 +1,27 @@
+{{character
+| image=AndorFlag.png
+| imagesize-250px
+| nationality=Andoran
+| gender=Male
+| title=Lord
+| occupation=Soldier
+| appeared={{amol|p}}
+| lastappeared={{amol|p}}
+| living=amol
+}}
+'''Karam''' is a minor [[Andoran]] lord loyal to [[House Sarand]].
+
+== Appearance ==
+He has a lean face and large lips.
+
+== History ==
+He has been friends with Lord [[Jarid Sarand]] since childhood.
+
+==Activities==
+Karam is stationed with Jarid's army on the road to [[Whitebridge]] when they are hit by a [[bubble of evil]] that turns all metal soft. Troubled by Jarid's increasing fervor to try and kill [[Elayne Trakand]], Karam and the rest of the men abandon Jarid and march for the [[Tarmon Gai'don|Last Battle]].
+== Trivia ==
+* Karam is named for Steven Karam, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+{{short}}
+[[Category:Nobility]]
+[[Category:Characters named after fans]]

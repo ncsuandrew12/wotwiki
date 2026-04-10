@@ -1,0 +1,20 @@
+{{ character 
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| gender=Female
+| status=Dead
+| affiliation=White Tower
+| mentioned={{acos|19}}
+}}
+'''Sevlana Meseau''' is a well-known, historical and legendary [[Aes Sedai]] of the [[Gray Ajah]] who Merana thought of as impressive.{{Ref|{{twotc}}, Sevlana Meseau}} In fact when [[Bera]] and [[Kiruna]] find themselves confronted with [[Cadsuane Melaidhrin]], [[Merana]] thinks that it must be like herself meeting [[Alind Dyfelle]], Sevlana Meseau or [[Mabriam en Shereed]]. 
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Meseau, Sevlana}}
+[[Category:Historical people]]
+[[Category:Short pages]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

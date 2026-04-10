@@ -1,0 +1,1 @@
+{{call{{{3}}}|{{{3}}}={{{2}}}|{{{4}}}={{{1}}}|1={{{4}}}|2={{{5}}}|3={{{6}}}}}<noinclude>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

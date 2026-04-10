@@ -1,0 +1,290 @@
+==About me==
+
+Enough about me! Let's talk about the Wheel of Time!
+
+==Projects==
+
+I've been working on converting all of the [[:Category:Chapter art|chapter icons]] into .svg files. I'm a bit of a perfectionist, so I try to make them very precise. In fact, in a few cases, I've even 'improved' them over the original! Note that these are intentional differences from the original icons, not differences from the .png versions stored on this site, all of which have lost detail due to lack of resolution. There are also some differences due to my own limitations.
+
+Since I want these wonderful images to get lots of coverage, I made sure that every chapter had a page created for it. At first I was just concerned that each chapter page had the chapter art posted on it. But then I went back and put in the POVs for each chapter. In the future I may work on populating certain pages with the appropriate icons (see [[Rand al'Thor]], for example).
+
+{| class="wikitable"
+!PNG
+!SVG
+!Comments
+|-
+| <center>[[Image:A'dam-icon.png|100px]]</center>
+| <center>[[Image:A'dam-icon.svg|110px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Aessedai-icon.png|110px]]</center>
+| <center>[[Image:Aessedai-icon.svg|110px]]</center>
+| '''Alteration:''' I tried to make the zigzag in the fang half a little more consistent, but it's still not perfect.
+|-
+| <center>[[Image:Aiel-icon.png|240px]]</center>
+| <center>[[Image:Aiel-icon.svg|242px]]</center>
+| '''Alteration:''' I made the spears duplicates of each other.
+|-
+| <center>[[Image:Anchor-icon.png|130px]]</center>
+| <center>[[Image:Anchor-icon.svg|132px]]</center>
+| '''Alteration:''' I made the anchor bilaterally symmetrical.
+|-
+| <center>[[Image:Andoran-icon.png|110px]]</center>
+| <center>[[Image:Andoran-icon.svg|110px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Blight-icon.png|135px]]</center>
+| <center>[[Image:Blight-icon.svg|132px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Bull-icon.png|140px]]</center>
+| <center>[[Image:Bull-icon.svg|154px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Cairhien-icon.png|145px]]</center>
+| <center>[[Image:Cairhien-icon.svg|154px]]</center>
+| '''Alteration:''' I made it bilaterally symmetrical.
+|-
+| <center>[[Image:Cotl-icon.png|130px]]</center>
+| <center>[[Image:Cotl-icon.svg|132px]]</center>
+| '''Alteration:''' I made it radially symmetrical.
+|-
+| <center>[[Image:Dagger-icon.png|225px]]</center>
+| <center>[[Image:Dagger-icon.svg|220px]]</center>
+| '''Alteration:''' I made the snakes duplicates of each other.
+|-
+| <center>[[Image:Deadtree-icon.png|120px]]</center>
+| <center>[[Image:Deadtree-icon.svg|110px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Dice-icon.png|100px]]</center>
+| <center>[[Image:Dice-icon.svg|110px]]</center>
+| '''Alteration:''' I drew the pips normally and then slanted them to fit the die faces appropriately.
+|-
+| <center>[[Image:Dragon-icon.png|222px]]</center>
+| <center>[[Image:Dragon-icon.svg|220px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>none</center>
+| <center>[[Image:Dragonoriginal-icon.svg|154px]]</center>
+| '''Alteration:''' I made the head bilaterally symmetrical and the claws and coils all duplicates of each other. The scan I worked off of to make this one was terrible, so I'm not sure it's entirely right. If anyone has a high-res scan, please let me know so I can fix any inaccuracies!
+|-
+| <center>[[Image:Faces-icon.png|120px]]</center>
+| <center>[[Image:Faces-icon.svg|110px]]</center>
+| '''Alteration:''' I made the faces mirror images of each other.
+|-
+| <center>[[Image:Falcon-icon.png|125px]]</center>
+| <center>[[Image:Falcon-icon.svg|121px]]</center>
+| '''Alteration:''' I made the feathers more evenly distributed.
+|-
+| <center>[[Image:Fang-icon.png|110px]]</center>
+| <center>[[Image:Fang-icon.svg|110px]]</center>
+| '''Alteration:''' I tried to make the zigzag a little more consistent. And I made the corner boxes all duplicates of each other.
+|-
+| <center>[[Image:Finn-icon.png|115px]]</center>
+| <center>[[Image:Finn-icon.svg|110px]]</center>
+| '''Alteration:''' Made the snake and fox heads bilaterally symmetrical (except for the fox whiskers).
+|-
+| <center>[[Image:Fish-icon.png|98px]]</center>
+| <center>[[Image:Fish-icon.svg|110px]]</center>
+| '''Alteration:''' I made the tail fins bilaterally symmetrical.
+|-
+| <center>[[Image:Flame-icon.png|120px]]</center>
+| <center>[[Image:Flame-icon.svg|110px]]</center>
+| '''Alteration:''' I made the flames in the corners duplicates of each other and radially symmetrical.
+|-
+| <center>[[Image:Gulls-icon.png|110px]]</center>
+| <center>[[Image:Gulls-icon.svg|110px]]</center>
+| '''Alteration:''' I made the curly outline around the gulls identical for all four points.
+|-
+| <center>(none)</center>
+| <center>[[Image:Gullsrev-icon.svg|110px]]</center>
+| Though this isn't the original icon, it is used more often in subsequent books.
+|-
+| <center>[[Image:Handandsword-icon.png|105px]]</center>
+| <center>[[Image:Handandsword-icon.svg|110px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Harp-icon.png|130px]]</center>
+| <center>[[Image:Harp-icon.svg|132px]]</center>
+| '''Alteration:''' I made the strings evenly spaced.
+|-
+| <center>[[Image:Hilt-icon.png|130px]]</center>
+| <center>[[Image:Hilt-icon.svg|132px]]</center>
+| '''Alteration:''' I made the actual hilt symmetrical.
+|-
+| <center>(none)</center>
+| <center>[[Image:Hilttall-icon.svg|132px]]</center>
+| This is the original icon but the smaller version is preferentially used in later books, probably because it's shorter.
+|-
+| <center>[[Image:Horse-icon.png|110px]]</center>
+| <center>[[Image:Horse-icon.svg|110px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Lanfear-icon.png|110px]]</center>
+| <center>[[Image:Lanfear-icon.svg|110px]]</center>
+| '''Alteration:''' I made the stars all duplicates of each other.
+|-
+| <center>(none)</center>
+| <center>[[Image:Lanfearrev-icon.svg|110px]]</center>
+| This icon was only used once in the first printing of ''[[The Dragon Reborn]]'' but has been changed to the other icon in subsequent printings.
+|-
+| <center>[[Image:Lans helmet-icon.png|120px]]</center>
+| <center>[[Image:Lans helmet-icon.svg|110px]]</center>
+| '''Alteration:''' I made it almost entirely bilaterally symmetrical.
+|-
+| <center>[[Image:Leaf-icon.png|200px]]</center>
+| <center>[[Image:Leaf-icon.svg|220px]]</center>
+| '''Alteration:''' I made the smaller leaves duplicates of the larger leaf and the vines bilaterally symmetrical.
+|-
+| <center>[[Image:Leaves-icon.png|120px]]</center>
+| <center>[[Image:Leaves-icon.svg|132px]]</center>
+| '''Alteration:''' I made the smaller leaves duplicates of the larger leaf.
+|-
+| <center>[[Image:Malden-icon.png|115px]]</center>
+| <center>[[Image:Malden-icon.svg|110px]]</center>
+| '''Alteration:''' I made the blacksmith puzzle bilaterally symmetrical.
+|-
+| <center>[[Image:Mice-icon.png|115px]]</center>
+| <center>[[Image:Mice-icon.svg|132px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Ornaments-icon.png|105px]]</center>
+| <center>[[Image:Ornaments-icon.svg|110px]]</center>
+| '''Alteration:''' I made the stars radially symmetrical, the moon bilaterally symmetrical, the spears duplicates of each other, and the beads duplicates of each other.
+|-
+| <center>[[Image:Portal-icon.png|95px]]</center>
+| <center>[[Image:Portal-icon.svg|110px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Ravens-icon.png|210px]]</center>
+| <center>[[Image:Ravens-icon.svg|264px]]</center>
+| '''Alteration:''' I made the ravens' bodies and beaks duplicates of each other.
+|-
+| <center>[[Image:Seanchan-icon.png|110px]]</center>
+| <center>[[Image:Seanchan-icon.svg|110px]]</center>
+| '''Alteration:''' I made the helmet bilaterally symmetrical.
+|-
+| <center>[[Image:Snake-icon.png|130px]]</center>
+| <center>[[Image:Snake-icon.svg|154px]]</center>
+| '''Alteration:''' I made the snake's head bilaterally symmetrical.
+|-
+| <center>[[Image:Sredit-icon.png|120px]]</center>
+| <center>[[Image:Sredit-icon.svg|132px]]</center>
+| '''Alteration:''' I made most of the head's features bilaterally symmetrical.
+|-
+| <center>[[Image:Staff-icon.png|115px]]</center>
+| <center>[[Image:Staff-icon.svg|110px]]</center>
+| '''Alteration:''' I made the outline around the leaves less jagged.
+|-
+| <center>[[Image:Stag-icon.png|100px]]</center>
+| <center>[[Image:Stag-icon.svg|110px]]</center>
+| '''Alteration:''' I made the stag and leaves bilaterally symmetrical.
+|-
+| <center>[[Image:Star-icon.png|100px]]</center>
+| <center>[[Image:Star-icon.svg|110px]]</center>
+| '''Alteration:''' I made the star radially symmetrical.
+|-
+| <center>[[Image:Tairen-icon.png|125px]]</center>
+| <center>[[Image:Tairen-icon.svg|110px]]</center>
+| '''Alteration:''' This isn't an actual chapter icon; I exchanged the gray field for a hashed one and made it a square instead of a rectangle.
+|-
+| <center>[[Image:Telaran-icon.png|110px]]</center>
+| <center>[[Image:Telaran-icon.svg|110px]]</center>
+| '''Alteration:''' I made the shading lines on the white swirl equidistant.
+|-
+| <center>[[Image:Tree-icon.png|122px]]</center>
+| <center>[[Image:Tree-icon.svg|110px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Triangle-icon.png|105px]]</center>
+| <center>[[Image:Triangle-icon.svg|110px]]</center>
+| '''Alteration:''' I made the ropes parallel with the opposite piece of wood.
+|-
+| <center>[[Image:Trolloc-icon.png|330px]]</center>
+| <center>[[Image:Trolloc-icon.svg|330px]]</center>
+| '''Alteration:''' I made the skull and the trident bilaterally symmetrical.
+|-
+| <center>[[Image:Valere-icon.png|120px]]</center>
+| <center>[[Image:Valere-icon.svg|110px]]</center>
+| '''Alteration:''' I made the flared bell bilaterally symmetrical.
+|-
+| <center>[[Image:Waves-icon.png|100px]]</center>
+| <center>[[Image:Waves-icon.svg|110px]]</center>
+| '''Alteration:''' I made the wave curves duplicates of each other and I made the crests and troughs duplicates of each other.
+|-
+| <center>[[Image:Web-icon.png|100px]]</center>
+| <center>[[Image:Web-icon.svg|110px]]</center>
+| '''Alteration:''' None.
+|-
+| <center>[[Image:Wheel-icon.png|152px]]</center>
+| <center>[[Image:Wheel-icon.svg|140px]]</center>
+| '''Alteration:''' Made the wheel spokes radially symmetrical.
+|-
+| <center>[[Image:Wolf-icon.png|122px]]</center>
+| <center>[[Image:Wolf-icon.svg|132px]]</center>
+| '''Alteration:''' None.
+|}
+
+If you see any problems with any of the .svg icons or see a way that they could be improved, don't hesitate to suggest them on my [[User Talk:Ninjatacoshell|talk page]]. Please also feel free to suggest other 'fake' icons, like the Tairen icon (I don't guarantee that my skills will match your imagination, though).
+
+I've also created images of the symbols on the [[portal stone]]s (at least those that have been described in the books):
+
+{| class="wikitable"
+!SVG
+!Description
+!Destination
+|-
+| <center>[[Image:Portal Stone—Down Arrow Inside Circle Symbol.svg|100px]]</center>
+| A circle with an arrow inside it, pointing down.
+| One of the worlds the Aes Sedai studied so they could build the Ways.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—Down Arrow Outside Circle Symbol.svg|100px]]</center>
+| A circle with an arrow inside it, pointing down and piercing the edge of the circle.
+| One of the worlds the Aes Sedai studied so they could build the Ways.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—Left Arrow Inside Circle Symbol.svg|100px]]</center>
+| A circle with an arrow inside it, pointing left.
+| One of the worlds the Aes Sedai studied so they could build the Ways.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—Left Arrow Outside Circle Symbol.svg|100px]]</center>
+| A circle with an arrow inside it, pointing left and piercing the edge of the circle.
+| One of the worlds the Aes Sedai studied so they could build the Ways.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—Up Arrow Inside Circle Symbol.svg|100px]]</center>
+| A circle with an arrow inside it, pointing up.
+| One of the worlds the Aes Sedai studied so they could build the Ways.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—Up Arrow Outside Circle Symbol.svg|100px]]</center>
+| A circle with an arrow inside it, pointing up and piercing the edge of the circle.
+| One of the worlds the Aes Sedai studied so they could build the Ways.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—Right Arrow Inside Circle Symbol.svg|100px]]</center>
+| A circle with an arrow inside it, pointing right.
+| One of the worlds the Aes Sedai studied so they could build the Ways.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—Right Arrow Outside Circle Symbol.svg|100px]]</center>
+| A circle with an arrow inside it, pointing right and piercing the edge of the circle.
+| One of the worlds the Aes Sedai studied so they could build the Ways.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—Toman Head Symbol.svg|100px]]</center>
+| Two parallel wavy lines crossed by an odd squiggle.
+| A portal stone on Toman Head.{{ref/book|2|37}}
+|-
+| <center>[[Image:Portal Stone—True World Symbol.svg|100px]]</center>
+| A triangle standing on point inside a circle.
+| Back to the True World from any of the various Mirror Worlds.{{ref/book|2|17}}
+|-
+| <center>[[Image:Portal Stone—Left Lightning Inside Triangle Symbol.svg|100px]]</center>
+| A forked lightning bolt pointing left inside a triangle.
+| A portal stone near Rhuidean.{{ref/book|4|22}}
+|-
+| <center>[[Image:Portal Stone—Right Lightning Inside Triangle Symbol.svg|100px]]</center>
+| A forked lightning bolt pointing right inside a triangle.
+| Back to the True World from any of the various Mirror Worlds.{{ref/book|4|22}}
+|}
+
+If you know of any portal stone symbols that I've missed, please let me know.
+
+{{notes}}
+[[Category:Contributors]]

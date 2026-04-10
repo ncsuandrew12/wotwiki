@@ -1,0 +1,423 @@
+<onlyinclude><infobox>
+	<image source="image"/>
+	<title source="name">
+	    <default>{{{name|{{PAGENAME}}}}}</default>
+	</title>
+	<group>
+	    <header>Biographical Information</header>
+	    <data source="nationality">
+	        <label>Nationality</label>
+	        <format>{{#switch:{{{nationality}}} | Atha'an Miere=[[Atha'an Miere{{!}}''Atha'an Miere'']] | Tuatha'an=[[Tuatha'an{{!}}''Tuatha'an'']] | {{#if:{{{nationality|}}}|[[{{{nationality}}}]]}}}}{{{nationality_extra|}}}</format>
+	    </data>
+	    <data source="birth">
+	        <label>Date of birth</label>
+	    </data>
+	    <data source="death">
+	        <label>Date of death</label>
+	    </data>
+	    <data source="status">
+	        <label>Current status</label>
+	        <format>{{{status|Alive}}}</format>
+	    </data>
+	    <data source="aliases">
+	        <label>Aliases</label>
+	    </data>
+	    <data source="family">
+	        <label>Family</label>
+	    </data>
+	</group>
+	<group>
+	    <header>Physical description</header>
+	    <data source="race">
+	        <label>Race</label>
+	        <format>[[{{{race|}}}]]</format>
+	    </data>
+	    <data source="gender">
+	        <label>Gender</label>
+	    </data>
+	    <data source="height">
+	        <label>Height</label>
+	    </data>
+	  	<data source="build">
+	        <label>Build</label>
+	    </data>
+	    <data source="weight">
+	        <label>Weight</label>
+	    </data>
+	    <data source="hair">
+	        <label>Hair</label>
+	    </data>
+	    <data source="eyes">
+	        <label>Eyes</label>
+	    </data>
+	</group>
+	<group>
+	    <header>Chronological and political information</header>
+	    <data source="mentioned">
+	        <label>First mentioned</label>
+	    </data>
+	    <data source="appeared">
+	        <label>First appeared</label>
+	    </data>
+	    <data source="lastappeared">
+	        <label>Last appeared</label>
+	    </data>
+	    <data source="lastmentioned">
+	        <label>Last mentioned</label>
+	    </data>
+	    <data source="era">
+	        <label>Era</label>
+	        <forma>[[{{{era|}}}]]</forma>
+	    </data>
+	    <data source="affiliation">
+	        <label>Affiliation</label>
+	        <format>{{#switch:{{{affiliation}}}|Car'a'carn=[[Car'a'carn{{!}}''Car'a'carn]]|Atha'an Miere=[[Atha'an Miere{{!}}''Atha'an Miere]]|{{#if:{{{affiliation}}}|[[{{{affiliation}}}]]}}}}</format>
+	    </data>
+	    <data source="occupation">
+	        <label>Occupation</label>
+	        <format>{{#switch:{{{occupation}}}|Damane=[[Damane{{!}}''Damane'']]|Shambayan=[[Shambayan{{!}}''Shambayan'']]|Der'sul'dam=[[Der'sul'dam{{!}}''Der'sul'dam]]|Sul'dam=[[Sul'dam{{!}}''Sul'dam'']]|Morat'raken=[[Morat'raken{{!}}''Morat'raken'']]|Da'covale=[[Da'covale{{!}}''Da'covale'']]|Gai'shain=[[Gai'shain{{!}}''Gai'shain'']]|Shatayan=[[Shatayan{{!}}''Shatayan'']]|S'redit handler=[[S'redit handler{{!}}''S'redit handler]]|{{#if:{{{occupation}}}|[[{{{occupation}}}]]}}}}</format>
+	    </data>
+	    <data source="title">
+	        <label>Title</label>
+	        <format>{{#switch:{{{title}}}|Gaidin=[[Gaidin{{!}}''Gaidin'']]||{{#if:{{{title|}}}|{{{title}}}}}}}</format>
+	    </data>
+	    <data source="rank">
+	        <label>Rank</label>
+	        <format>{{#switch:{{{rank}}}|So'jhin=[[So'jhin{{!}}''So'jhin'']]|{{#if:{{{rank}}}|[[{{{rank}}}]]}}}}</format>
+	    </data>
+	    <data source="ajah">
+	        <label>Ajah</label>
+	        <format>[[{{{ajah|}}} Ajah]]</format>
+	    </data>
+	    <data source="clan">
+	        <label>Clan</label>
+	        <format>[[{{{clan|}}}]]</format>
+	    </data>
+	    <data source="sept">
+	        <label>Sept</label>
+	        <format>[[{{{sept|}}}]]</format>
+	    </data>
+	    <data source="society">
+	        <label>Society</label>
+	        <format>''[[{{{society|}}}]]''</format>
+	    </data>
+	</group>
+</infobox><includeonly><!--
+
+-- race --
+-->{{#switch:{{{race|}}}
+|Ogier		=[[Category:Ogier]]
+|Aelfinn	=[[Category:Finn]]
+|Eelfinn	=[[Category:Finn]]
+|Nym		=[[Category:Constructs]][[Category:Other non-humans]]
+|Myrddraal	=[[Category:Myrddraal]]
+|{{#if: {{{race|}}} | [[Category:{{{race}}}]] }}
+}}<!--
+
+-- gender --
+-->{{#switch:{{{gender|}}}
+|Female			=[[Category:Women]]
+|Male			=[[Category:Men]]
+|Unknown gender	=[[Category:Unknown gender]]
+}}<!--
+
+
+-- ajahs --
+-->{{#if: {{{ajah|}}} | [[Category:{{{ajah}}} Ajah]] }}<!--
+
+
+
+-- nationality categories --
+-->{{#switch:{{{nationality}}}
+|Altaran			=[[Category:Altara (people)]]
+|Amadician			=[[Category:Amadicia (people)]]
+|Andoran			=[[Category:Andor (people)]]
+|Domani 			=[[Category:Arad Doman (people)]]
+|Arafellin			=[[Category:Arafel (people)]]
+|Cairhienin			=[[Category:Cairhien (people)]]
+|Far Madding		=[[Category:Far Madding (people)]]
+|Ghealdanin			=[[Category:Ghealdan (people)]]
+|Illianer			=[[Category:Illian (people)]]
+|Kandori			=[[Category:Kandor (people)]]
+|Murandian			=[[Category:Murandy (people)]]
+|Saldaean			=[[Category:Saldaea (people)]]
+|Shienaran			=[[Category:Shienar (people)]]
+|Taraboner			=[[Category:Tarabon (people)]]
+|Tairen 			=[[Category:Tear (people)]]
+|Mayener			=[[Category:Mayene (people)]]
+|Sharan 			=[[Category:Shara (people)]]
+|Aiel				=[[Category:Aiel (people)]]
+|Seanchan			=[[Category:Seanchan (people)]]
+|Malkieri			=[[Category:Malkier (people)]]
+|Tinker | Tuatha'an | Traveling People	=[[Category:Tuatha'an (people)]]
+|Sea Folk | Atha'an Miere	=[[Category:Atha'an Miere (people)]]
+|Aridholin			=[[Category:Aridhol (people)]]
+|Saferin			=[[Category:Safer (people)]]
+|Darmovanin			=[[Category:Darmovan (people)]]
+|Shiotan			=[[Category:Shiota (people)]]
+|Aldesharin			=[[Category:Aldeshar (people)]]
+|Masenasharin		=[[Category:Masenashar (people)]]
+|Talmouri			=[[Category:Talmour (people)]]
+|Aramaellen			=[[Category:Aramaelle (people)]]
+|Essenian			=[[Category:Essenia (people)]]
+|Manetherenite		=[[Category:Manetheren (people)]]
+|Amayarin			=[[Category:Amayar (people)]]
+|Dal Calainin		=[[Category:Dal Calain (people)]]
+|Borderlander		=[[Category:Borderlands (people)]]
+|Black Hills		=[[Category:Black Hills (people)]]
+|Unknown nationality=[[Category:Unknown nationality]]
+|{{#if: {{{nationality|}}} | [[Category:{{{nationality}}} (people)]] }}
+}}<!--
+
+
+-- affiliation --
+-->{{#switch:{{{affiliation|}}}
+|Rebel Aes Sedai		=[[Category:Rebel Aes Sedai]]
+|Elaida a'Roihan's White Tower	=[[Category:Elaida a'Roihan's White Tower]]
+|Unaligned sisters		=[[Category:Unaligned sisters]]
+|Black Ajah				=[[Category:Black Ajah]]
+|Forsaken				=[[Category:Forsaken]]
+|Seanchan				=[[Category:Seanchan (people)]]
+|Sea Folk|Atha'an Miere	=[[Category:Atha'an Miere (people)]]
+|The Kin|the Kin|Kin	=[[Category:Kinswomen]]
+|Chosen					=[[Category:Forsaken]]
+|Children of the Light	=[[Category:Children of the Light]]
+|Hand of the Light		=[[Category:Children of the Light]][[Category:Inquisitors]]
+|Darkfriend | The Shadow=[[Category:Darkfriends]]
+|M'Hael |The M'hael		=[[Category:Taim's cronies]][[Category:Darkfriends]]
+|Logain Ablar			=[[Category:Logain's followers]]
+|Band of the Red Hand	=[[Category:Band of the Red Hand]]
+|Two Rivers				=[[Category:Two Rivers (people)]]
+|Cha Faile				=[[Category:Cha Faile]]
+|Horn of Valere			=[[Category:Heroes of the Horn]]
+|Dragonsworn			=[[Category:Dragonsworn]]
+|Queen's Guard			=[[Category:Queen's Guards]]
+|Younglings				=[[Category:Younglings]]
+|Ever Victorious Army	=[[Category:Ever Victorious Army]]
+|Unknown affiliation	=[[Category:Unknown affiliation]]
+|Council of Merchants	=[[Category:Council of Merchants]]
+|Council of Nine		=[[Category:Council of Nine]]
+|Turning				=[[Category:The Turned]]|
+}}<!--
+
+
+
+-- occupation --
+-->{{#switch:{{{occupation}}}
+|Asha'man				=<noinclude><!--Leave this blank! Do not put individual Asha'man into the parent category. They belong under their rank subcat only unless rank is unknown--></noinclude>
+|Cabinetmaker			=[[Category:Carpenters]]
+|Da'covale				=[[Category:Da'covale]]
+|Damane					=[[Category:Damane]]
+|Der'sul'dam			=[[Category:Sul'dam]]
+|Dosun					=[[Category:Head servants]]
+|Eyes-and-ears			=[[Category:Eyes-and-ears]]
+|First Clerk			=[[Category:Clerks]][[Category:Head servants]]
+|First Maid				=[[Category:Maids]][[Category:Head servants]]
+|First of Mayene		=[[Category:Firsts of Mayene]][[Category:Rulers]]
+|Footman				=[[Category:Footmen]]
+|Furniture maker		=[[Category:Carpenters]]
+|Gai'shain				=[[Category:Gai'shain]]
+|Gleeman				=[[Category:Gleemen]]
+|Governor				=[[Category:Mayors and governors]]
+|Headmistress			=[[Category:Headmistresses]]
+|Holder of the Keys		=[[Category:Maids]][[Category:Head servants]]
+|Hunter of the Horn		=[[Category:Hunters of the Horn]]
+|Lady					=[[Category:Ladies]]
+|Mayor					=[[Category:Mayors and governors]]
+|Midwife				=[[Category:Midwives]]
+|Mercenary				=[[Category:Mercenaries]]
+|Morat'raken			=[[Category:Morat'rakens]]
+|Roofmistress			=[[Category:Roofmistresses]]
+|S'redit handler		=[[Category:S'redit handler]]
+|Seamstress				=[[Category:Seamstresses]]
+|Secretary				=[[Category:Secretaries]]
+|Seeker for Truth		=[[Category:Seekers for Truth]]
+|Shambayan				=[[Category:Head servants]]
+|Shatayan				=[[Category:Head servants]]
+|Stableman				=[[Category:Stablemen]]
+|Steward of the Dragon	=[[Category:Stewards of the Dragon]]
+|Sul'dam				=[[Category:Sul'dam]]
+|Wise One apprentice	=[[Category:Wise Ones]]
+|Watchman				=[[Category:Watchmen]]
+|Wisdom					=[[Category:Wisdoms]][[Category:Healers]]
+|Wise Woman				=[[Category:Healers]]
+|Unknown | Unknown occupation	=[[Category:Unknown occupation]]
+|{{#if:{{{occupation|}}}|[[Category:{{{occupation}}}s]]}}
+}}<!--
+
+
+-- titles --
+-->{{#switch:{{{title}}}
+|Amyrlin Seat | [[Amyrlin Seat]]	=[[Category:Amyrlin Seats]]
+| Highest | First Selector | Captain-General (Green Ajah) | First Weaver | Head Clerk | First Reasoner | First Chair | [[Highest]] | [[First Selector]] | [[Captain-General (Green Ajah)]] |[[First Weaver]] |[[Head Clerk]] | [[First Reasoner]] | [[First Chair]] =[[Category:Ajah Heads]]
+|Mistress of Novices | [[Mistress of Novices]]	=[[Category:Mistresses of Novices]]
+|Keeper of the Chronicles | [[Keeper of the Chronicles]] =[[Category:Keepers of the Chronicles]]
+| King | [[King]]			=[[Category:Rulers]][[Category:Kings]]
+| Queen | [[Queen]]			=[[Category:Rulers]][[Category:Queens]]
+| Lady | [[Lady]]			=[[Category:Ladies]]
+| Lord | [[Lord]]			=[[Category:Lords]]
+| High Lady | [[High Lady]]	=[[Category:Ladies]]
+| High Lord | [[High Lord]]	=[[Category:Lords]]
+| High Lady of Tear | [[High Lord of Tear]]	=[[Category:High Nobility of Tear]][[Category:Ladies]]
+| High Lord of Tear | [[High Lady of Tear]]	=[[Category:High Nobility of Tear]][[Category:Lords]]
+| Lieutenant-General | Banner-General | Captain-General | Marshall-General | [[Lieutenant-General]] | [[Banner-General]] | [[Captain-General]] | [[Marshall-General]]	=[[Category:Generals]]
+| First of Mayene | [[First of Mayene]]				=[[Category:Firsts of Mayene]][[Category:Rulers]]
+| Wavemistress| [[Wavemistress]]					=[[Category:Wavemistresses]]
+| Sailmistress| [[Sailmistress]]					=[[Category:Sailmistresses]]
+| Mistress of the Ships| [[Mistress of the Ships]]	=[[Category:Mistresses of the Ships]]
+| Empress| [[Empress]]								=[[Category:Empresses]]
+| Village Councilor									=[[Category:Village Councilors]]
+| Mayor | [[Mayor]]									=[[Category:Mayors and governors]]
+| Wisdom | [[Wisdom]]								=[[Category:Wisdoms]][[Category:Healers]]
+| False Dragon | [[False Dragon]]					=[[Category:False Dragons]]
+| Women's Circle Member | [[Women's Circle Member]]	=[[Category:Women's Circle]]
+| Warder | [[Warder]] | Gaidin | [[Gaidin]]			=[[Category:Warders]]
+}}<!--
+
+
+-- rank --
+-->{{#switch:{{{rank}}}
+|Chosen					=[[Category:Forsaken]]
+|Queen					=[[Category:Rulers]][[Category:Queens]]
+|King					=[[Category:Rulers]][[Category:Kings]]
+|General				=[[Category:Generals]]
+|Lieutenant-General		=[[Category:Generals]]
+|Banner-General			=[[Category:Generals]]
+|Captain-General		=[[Category:Generals]]
+|Marshall-General		=[[Category:Generals]]
+|High Seat				=[[Category:High Seats]]
+|Wavemistress			=[[Category:Wavemistresses]]
+|Mistress of the Ships	=[[Category:Mistresses of the Ships]]
+|Sailmistress			=[[Category:Sailmistresses]]
+|Windfinder				=[[Category:Windfinders]]
+|Aes Sedai				=[[Category:Aes Sedai]]
+|Accepted				=[[Category:Accepted]]
+|Novice					=[[Category:Novices]]
+|Warder					=[[Category:Warders]]
+|Redarm					=[[Category:Redarms]]
+|So'jhin				=[[Category:So'jhin]]
+|Hero of the Horn		=[[Category:Heroes of the Horn]]
+|Aes Sedai (Age of Legends)	=[[Category:Aes Sedai (Age of Legends)]]
+|Panarch				=[[Category:Panarchs]][[Category:Rulers]]
+|Inquisitor				=[[Category:Inquisitors]][[Category:Children of the Light]]
+|High Lord of Tear		=[[Category:High Nobility of Tear]][[Category:Lords]]
+|High Lady of Tear		=[[Category:High Nobility of Tear]][[Category:Ladies]]
+|Cargomaster			=[[Category:Cargomasters]]
+|Swordmaster			=[[Category:Swordmasters]]
+|Master of the Blades	=[[Category:Masters of the Blades]]
+|Deckmistress			=[[Category:Deckmistresses]]
+|First Twelve			=[[Category:First Twelve of the Atha'an Miere]]
+|Dedicated				=[[Category:Dedicated]]
+|Soldier (Asha'man)		=[[Category:Soldier (Asha'man)]]
+|Asha'man				=[[Category:Asha'man (rank)]]
+|Counsel				=[[Category:Counsels of Far Madding]]
+|First Counsel			=[[Category:Rulers]][[Category:Counsels of Far Madding]]
+|Dreadlord				=[[Category:Dreadlords]]
+|Lord					=[[Category:Lords]]
+|Lady					=[[Category:Ladies]]
+}}<!--
+
+
+-- clans --
+-->{{#switch:{{{clan|}}}
+|Chareen		=[[Category:Chareen]]
+|Goshien		=[[Category:Goshien]]
+|Shaarad		=[[Category:Shaarad]]
+|Tomanelle		=[[Category:Tomanelle]]
+|Codarra		=[[Category:Codarra]]
+|Shiande		=[[Category:Shiande]]
+|Daryne			=[[Category:Daryne]]
+|Reyn			=[[Category:Reyn]]
+|Miagoma		=[[Category:Miagoma]]
+|Nakai			=[[Category:Nakai]]
+|Taardad		=[[Category:Taardad]]
+|Shaido			=[[Category:Shaido]]
+|Jenn Aiel		=[[Category:Jenn Aiel]]
+|Da'shain Aiel	=[[Category:Da'shain Aiel]]
+|Unknown clan	=[[Category:Unknown clan]]
+}}<!--
+
+-- septs --
+-->{{#switch:{{{sept|}}}
+|Cosaida			=[[Category:Cosaida]]
+|Jarra (sept)		=[[Category:Jarra]]
+|White Mountain		=[[Category:White Mountain]]
+|High Plain			=[[Category:High Plain]]
+|Mosaada			=[[Category:Mosaada]]
+|Red Salt			=[[Category:Red Salt]]
+|Stones River		=[[Category:Stones River]]
+|Haido				=[[Category:Haido]]
+|Black Rock			=[[Category:Black Rock]]
+|Imran				=[[Category:Imran]]
+|Serai				=[[Category:Serai]]
+|Jenda				=[[Category:Jenda]]
+|Shorara			=[[Category:Shorara]]
+|Jaern Rift			=[[Category:Jaern Rift]]
+|Neder				=[[Category:Neder]]
+|Musara				=[[Category:Musara]]
+|Two Spires			=[[Category:Two Spires]]
+|Smoke Water		=[[Category:Smoke Water]]
+|Cold Peak			=[[Category:Cold Peak]]
+|Spine Ridge		=[[Category:Spine Ridge]]
+|Shelan				=[[Category:Shelan]]
+|Bent Peak			=[[Category:Bent Peak]]
+|Black Water		=[[Category:Black Water]]
+|Black Cliffs		=[[Category:Black Cliffs]]
+|Salt Flat			=[[Category:Salt Flat]]
+|Jumai				=[[Category:Jumai]]
+|Green Salts		=[[Category:Green Salts]]
+|Moshaine			=[[Category:Moshaine]]
+|Domai				=[[Category:Domai]]
+|Jonine				=[[Category:Jonine]]
+|Miadi				=[[Category:Miadi]]
+|Cold Rocks			=[[Category:Cold Rocks]]
+|Iron Mountain		=[[Category:Iron Mountain]]
+|Jagged Spire		=[[Category:Jagged Spire]]
+|Nine Valleys		=[[Category:Nine Valleys]]
+|Jindo				=[[Category:Jindo]]
+|Four Holes			=[[Category:Four Holes]]
+|Bloody Water		=[[Category:Bloody Water]]
+|Four Stones		=[[Category:Four Stones]]
+|Chumai				=[[Category:Chumai]]
+|Red Water			=[[Category:Red Water]]
+|Jhirad				=[[Category:Jhirad]]
+|White Cliff		=[[Category:White Cliff]]
+|Chane Rocks        =[[Category:Chane Rocks]]
+|Degalle            =[[Category:Degalle]]
+|Unknown sept		=[[Category:Unknown sept]]
+}}<!--
+
+-- society --
+-->{{#switch:{{{society|}}}
+|Far Dareis Mai		=[[Category:Far Dareis Mai]]
+|Shae'en M'taal		=[[Category:Shae'en M'taal]]
+|Aethan Dor			=[[Category:Aethan Dor]]
+|Seia Doon			=[[Category:Seia Doon]]
+|Far Aldazar Din	=[[Category:Far Aldazar Din]]
+|Rahien Sorei		=[[Category:Rahien Sorei]]
+|Sha'mad Conde		=[[Category:Sha'mad Conde]]
+|Hama N'dore		=[[Category:Hama N'dore]]
+|Sovin Nai			=[[Category:Sovin Nai]]
+|Cor Darei			=[[Category:Cor Darei]]
+|Tain Shari			=[[Category:Tain Shari]]
+|Duadhe Mahdi'in	=[[Category:Duadhe Mahdi'in]]
+|Mera'din			=[[Category:Mera'din]]
+|Unknown society	=[[Category:Unknown society]]
+}}<!--
+
+
+-- status --
+-->{{#switch:{{{status|}}}
+|Dead					=[[Category:Deceased]]
+|Unknown | Debatable	=[[Category:Unknown status]]
+|Fictional character	=[[Category:Legends]]
+|Bound to the Wheel		=[[Category:Bound to the Wheel]]
+|Foreseen				=[[Category:Foreseen people]]
+}}<!--
+
+
+-- automatic categories --
+-->{{#if:{{{living|}}}|[[Category:Living as of {{uc:{{{living}}}}}]]|{{#ifeq:{{{status|}}}|Alive|[[Category:Living]]}}}}<!--
+-->{{#if:{{{tworivers|}}}|[[Category:Two Rivers (people)]]}}<!--
+--></includeonly></onlyinclude>
+[[Category:Infobox templates]]<noinclude>{{Documentation}}</noinclude>

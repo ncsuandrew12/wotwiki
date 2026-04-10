@@ -1,0 +1,19 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| affiliation=Younglings
+| gender=Male
+| appeared={{Tgs|13}}
+| lastappeared={{tgs|13}}
+| living=tgs
+}}
+'''Corbet''' is one of the [[White Tower]] [[Younglings]].
+
+== Activities ==
+He is based with [[Gawyn Trakand]] in [[Dorlan]]. He watches Gawyn practice swordplay with [[Sleete]] and [[Marlesh]].
+
+{{short}}
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]

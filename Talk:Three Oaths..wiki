@@ -1,0 +1,38 @@
+==Chronology==
+The chronology of the second paragraph (where the addition of the first and second oaths is discussed) does not seem right.  The Breaking occurred after Lews Therin and his 100 companions sealed the breach in the bore, and was caused by the taint to saidin.  The War of the Shadows occurred between the breach in the bore and the quest of Lews Therin and his small army of Aes Sedai.  If Oath #2 is created after the War of the Shadow then it of necessity must come before Oath #1.  Comments anyone? {{unsigned|19:16, 31 December 2007|Pedantic}}
+
+== Speculation??? ==
+I don't have an opinion on chronology.
+
+What would be the best place for specutlations on the three oaths and trust of chanelers in general.  Seems to be a big issue in the books, what with the Seanchan views on damane, the three oaths, the Sharan segregation of chanelers, etc.  The Aiel and Sea Folk seem to actively respect their chanelers.
+
+Egwene seems to have flirted with the line of oaths before.  It seems like using the binder to enforce the Oaths makes them worth less (though not completely worthless) since Aes Sedai are constantly trying to mislead without lying rather than just telling the truth.  
+
+Is there a "correct" way to make observations like this? [[User:AoibheannSedai|AoibheannSedai]] 07:51, December 22, 2009 (UTC)
+
+:I would say a section names something along the lines of "Impact of the Three Oaths." Because this (for the most part) comes from the books, it wouldn't really be speculation. I seem to remember Egwene making an observation along those lines, at least with the Aiel, when she was the Wise Ones' apprentice. Add in the reader's observation of the Seanchan, Sharan and Sea Folk attitudes towards chanelers in relation to the Three Oaths (i.e. subdugation, segregation and respect) and there ya go. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:59, December 22, 2009 (UTC)
+
+==Re: First Comment==
+You were right, the chronology wasn't correct, and neither was the actual info. I've fixed it, and added ref.
+<br />[[User:Daea|Daea]] 12:15, January 22, 2011 (UTC)
+
+==Lifespan halving==
+Does anyone know the exact quotes and page numbers regarding this? I'm curious how canon is and how it works for people taking more than 3 oaths, like when Moiraine took a 4th oath to obey Siuan was her lifespan further reduced? Did Egwene quarter her lifespan by double-swearing the three oaths?
+
+The talk of getting lifespan restored by being released from the oaths makes me think the Black Ajah don't actually lose lifespan since they replace the old 3 with the new 3, and they're promised eventual immortality (in this life or the next) so the reduced lifespan wouldn't bother them. [[User:Tycio|Tycio]] ([[User talk:Tycio|talk]]) 15:58, 21 April 2025 (UTC)
+: We don't really know if any Black Ajah live longer from the unswearing-reswearing, but probably not as that would be a strong indicator of guilt or at least weirdness. Most seem to take the Black Oaths pretty early in their life anyway, if not immediately upon gaining the shawl (several BA swear themselves to the Shadow before even taking the test). 
+
+: Moiraine's fourth oath is a {{TVlink|Moiraine|artifact of the show}}, not in the books, so irrelevant here.  -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:15, 21 April 2025 (UTC)
+
+==writing untrue words==
+Given the 1st oath is to 'speak' no untrue words - can you write them? Or sign them? Is it only sound-based communication that's restricted, or would literacy be a workaround?
+
+I thought I remembered seeing something in an article about them being unable to write lies either but I can't find it and I'm not sure if it was here.
+
+Apparently [[Fires of Heaven]] had this exchange:
+:I assume and Aes Sedai can't write a lie more easily than she can speak one?
+:He did not wait for her nod
+
+I don't know if that's canon in any way though - Rand actually doesn't get an answer here. Maybe they CAN write lies but Moiraine liked Rand assuming they could not because it made him easier to manipulate?
+
+I'm not adding it to the article til I can confirm it with a page number though, searching 'a lie' in the FOH on Google Books hasn't turned it up yet. [[User:Tycio|Tycio]] ([[User talk:Tycio|talk]]) 03:12, 22 April 2025 (UTC)

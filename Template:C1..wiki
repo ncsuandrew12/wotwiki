@@ -1,0 +1,20 @@
+<includeonly>{{#switch:{{lc:{{#sub:{{{1}}}|0|1}}}}<!--
+
+non-numeric normalization
+-->|p=Prologue<!--
+-->|e=Epilogue<!--
+-->|g=Glossary<!--
+
+-->|r=Ravens<!--
+
+-->| {{{1}}} <!--
+-->}}</includeonly><noinclude>For use on {[[Template:Summarylink|{SummaryLink}]]}
+
+Normalizes 'prologue', 'epilogue' and 'glossary', and leaves everything else.
+
+===Examples===
+*<nowiki>{{C1|PblAh}} → Prologue</nowiki>
+*<nowiki>{{C1|10}} → 10</nowiki>
+*<nowiki>{{C1|DbLaH}} → Dblah</nowiki> (eg Ravens would get lc'd and then ucfirst'd)
+
+[[Category:Utility templates|{{PAGENAME}}]]

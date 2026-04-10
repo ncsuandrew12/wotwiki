@@ -1,0 +1,57 @@
+{{quote| Why, it is like old times. Sneaking away in the night, with enemies behind us, and maybe enemies ahead, and danger in the air, and the cold tang of adventure.| [[Loial son of Arent son of Halan]]}}
+
+{{summary | book=3 |
+|chapter=35
+|title=The Falcon
+|icon=Waves
+|setting=[[Remen]], [[River Manetherendrelle]]
+}}
+
+==Summary==
+:{{pov|[[Perrin Aybara]]}}
+
+[[Perrin Aybara|Perrin]] follows [[Lan Mandragoran|Lan]] into the inn and tells [[Loial]] that they are leaving while Lan informs [[Moiraine]]. The stableman asks a lot of questions of Perrin when he asks for their horses. Lan comes in and flips the stableman a gold coin which stops all the questions. Loial is reminded of the earlier times when they fled their enemies in the night and chased after [[Darkfriend]]s; he admits that he is beginning to like adventuring. They ride the horses out of the town to the docks. Lan finds the captain of the ''[[Snow Goose]]'', [[Jaim Adarra]], and arranges passage for them including the horses. The boat is about to cast off when the black-haired girl jumps onto the deck, saying she will go where Perrin is going.
+
+The girl starts talking to him and mentions that she has been to [[Illian (city)|Illian]] before. She says that the townsfolk at [[Remen]] thought that Gaul had chewed through the chain and nobody knows what he did. Despite his boasting, [[Orban]] is indeed an impressive fighter, as she had seen him take on four men and win. Perrin thinks it is odd for a girl to speak of fighting and killing. Perrin asks why she is following him. She says she was staring at Perrin because he is the only one she couldn't figure out. She knows Moiraine is [[Aes Sedai]] which makes Lan her [[Warder]]. An [[Ogier]] is just an Ogier. She cannot figure out why he would be among such a group. Not only was his presence an oddity, he acted oddly - freeing the Aiel and slaughtering [[Children of the Light|Whitecloaks]] like it was nothing. That was all very strange and as a [[Hunter of the Horn]] she feels it is a promising trail for her to follow. Perrin tries to give her some red herrings as to where the Horn may be found to shake her off but she will not be dissuaded.
+
+Perrin finally asks her name and she replies Mandarb, which he laughs at. She angrily tells him that Mandarb means blade but he tells her that Lan's horse is named [[Mandarb]]. She tells him that her real name is [[Zarine Bashere]] but she hates the name Zarine. Perrin turns to go below when Zarine announces that she will call herself [[Faile]], which means falcon. Perrin almost stumbles down the ladder after recalling Min's viewing.{{ref/book|3|6}}
+
+==Characters==
+*[[Perrin]]
+*[[Loial]]
+*[[Moiraine]]
+*[[Lan]]
+*[[Zarine Bashere]]
+*[[Stepper]]
+*[[Jaim Adarra]]
+*[[Orban]]
+
+===Referenced===
+*[[Gann]]
+*[[Gainor Furlan]]
+*[[Thom]]
+*[[Min]]
+
+==Places==
+*[[Remen]]
+
+===Referenced===
+*[[Illian]]
+*[[Jehannah]]
+*[[Great Blackwood]]
+*[[Forest of Shadows]]
+*[[Two Rivers]]
+*[[Square of Tammaz]]
+*[[Tar Valon]]
+*[[Manetheren]]
+*[[Andor]]
+*[[Mountains of Mist]]
+
+==Items==
+*''[[Snow Goose]]''
+
+===Referenced===
+*[[Horn of Valere]]
+
+{{notes}}
+{{DISPLAYTITLE:''The Falcon''}}

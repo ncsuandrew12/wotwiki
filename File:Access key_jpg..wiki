@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Item
+| ImageType2              = Character
+| Description             = [[Rand al'Thor]] using an [[access key]].
+| Source                  = The eBook cover of ''[[Winter's Heart]]''.
+| Artist                  = Scott Fischer
+}}

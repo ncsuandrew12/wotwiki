@@ -1,0 +1,26 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| ewot=Keemlin
+| nationality=Kandori
+| occupation=Soldier
+| affiliation=Kandor
+| gender=Male
+| appeared={{tom|p}}
+| lastappeared={{tom|p}}
+| status=Dead
+| death={{ne|1000}}
+}}
+'''Keemlin Rai''' is a young [[Kandori]] boy.
+
+==Appearance==
+He is a young messenger boy, only a few days shy of his fourteenth naming day.
+
+==Activities==
+He is the son of [[Heeth Tower]]'s Commander, [[Malenarin Rai]]. He demonstrates awareness, courage and maturity for his young age. When the [[Trolloc]]s are approaching, he is on top of the list to act as a messenger, and is sent south to warn the capitol of [[Chachin]]. However, he sends Tian instead because Tian's mother has already lost four sons. Upon hearing this, Keemlin's father acknowledges and honors him as a man with the gift of a sword.{{ref/book|13|p}} A huge force of [[Draghkar]] then attack from the sky and a massive army of [[Trolloc]]s marches towards the Tower. It can be assumed he doesn't survive the conflict.
+
+{{notes}}
+
+{{DEFAULTSORT:Rai, Keemlin}}
+
+[[es:Keemlin Rai]]

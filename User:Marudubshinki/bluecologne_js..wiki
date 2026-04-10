@@ -1,0 +1,54 @@
+//
+// [[User:Lupin/popups.js]] - please include this line 
+
+document.write('<script type="text/javascript" src="' 
+             + 'http://en.wikipedia.org/w/index.php?title=User:Lupin/popupsdev.js' 
+             + '&action=raw&ctype=text/javascript&dontcountme=s"></script>');
+
+popupShortcutKeys=true; // optional: enable keyboard shortcuts
+popupAdminLinks=true;   // optional: enable admin links
+popupDelay=.4;
+popupFixRedits=true;
+popupInitialWidth=250;
+
+//
+//
+//
+//
+//
+function hidevfd(){
+    var divs = document.getElementsByTagName("div");
+    for(var x = 0; x < divs.length; ++x)
+        if(divs[x].className.indexOf("vfd") != -1)
+            divs[x].style.display = "none";
+    document.getElementById('footer').style.display = 'none';
+}
+
+function showvfd(){
+    var divs = document.getElementsByTagName("div");
+    for(var x = 0; x < divs.length; ++x)
+        if(divs[x].className.indexOf("vfd") != -1)
+            divs[x].style.display = "";
+    document.getElementById('footer').style.display = '';
+}
+
+function addlilink(tabs, url, name){
+    var na = document.createElement('a');
+    na.href = url;
+    na.appendChild(document.createTextNode(name));
+    var li = document.createElement('li');
+    li.appendChild(na);
+    tabs.appendChild(li);
+    return li;
+}
+
+function vfdlinks(){
+    var tabs = document.getElementById('p-cactions').getElementsByTagName('ul')[0];
+    if(document.title.indexOf("Wikipedia:Votes for deletion") == 0){
+        addlilink(tabs, 'javascript:hidevfd()', 'Hide');
+        addlilink(tabs, 'javascript:showvfd()', 'Show');
+    }
+}
+
+if (window.addEventListener) window.addEventListener("load",vfdlinks,false);
+else if (window.attachEvent) window.attachEvent("onload",vfdlinks);

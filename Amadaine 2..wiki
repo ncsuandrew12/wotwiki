@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|June}}
+|{{Wotmonth|Amadaine}}
+|}
+'''Amadaine 2 (June 9)'''
+
+==Events==
+* [[998 NE]] - The [[Amyrlin]]'s party reaches [[Fal Dara]]. The keep is attacked and [[Fain]] escapes with [[Mat]]'s dagger and the [[Horn of Valere]].
+* [[998 NE]] - [[Geofram Bornhald]] meets with [[Questioners]] in the village of [[Alcruna]].
+* [[999 NE]] - [[Perrin]]'s party emerges in the [[Manetheren]] [[Waygate]]. In the wolf dream, he finds [[Slayer]] and follows him to the [[Tower of Ghenjei]].
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:june 9|June 9]]</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

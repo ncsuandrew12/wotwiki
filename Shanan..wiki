@@ -1,0 +1,28 @@
+{{ character
+| image=SeanchanFlag.png
+| imagesize=250px
+| occupation=Sul'dam
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| appeared={{amol|e}}
+| lastappeared={{amol|e}}
+| living=amol
+}}
+'''Shanan''' is a ''[[sul'dam]]'' from [[Seanchan]].{{ref/book|14|e}}
+
+==Appearance==
+She is smug-looking.
+
+==Activities==
+She places an ''[[a'dam]]'' on [[Moghedien]] after the [[Last Battle]] and takes her back to [[Ebou Dar]]. She explains that Moghedien is fair game to be captured as the Seanchan only have a treaty with Aes Sedai and Moghedien does not wear one of their rings and looks like she is up to no good.
+
+== Trivia ==
+* Shanan is named for Shannan Lieb, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda.[http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+* She is the last named character to be introduced in the Wheel of Time .
+{{notes}}
+{{short}}
+[[Category:Channelers]]
+[[Category:Ever Victorious Army]]
+[[Category:Learners]]
+[[Category:Characters named after fans]]

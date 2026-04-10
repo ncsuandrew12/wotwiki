@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover Art
+| Description             = Cover for ''El Ojo Del Mundo,'' the Spanish version of [[The Eye of the World]]
+| Source                  =
+| Artist                  = Ciruelo Cabral
+}}
+[[Category:The Eye of the World covers]]

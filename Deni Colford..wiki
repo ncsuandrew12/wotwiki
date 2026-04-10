@@ -1,0 +1,32 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Queen's Guard
+| occupation=Soldier
+| hair=Graying
+| build=Blocky
+| status=Alive
+| appeared={{wh|7}}
+| lastappeared={{kod|31}}
+| lastmentioned={{kod|35}}
+| living=kod
+| gender=Female
+}}{{quote|... any day you wake up, maybe you die|Deni Coldford}}
+
+'''Deni Colford''' is a member of the [[Queen's Guards]]. 
+
+== Appearance ==
+She has black hair that is graying, a placid face, strong arms and wide shoulders. She is blocky and about 5'6 tall. 
+
+She had no concept of fighting fair. Originally, she was adept with a pace-long, brass-studded cudgel but could not handle a sword. She improved after taking lessons.
+
+== Activities ==
+She is one of the first eight of the Queens's Guards placed as a bodyguard when [[Elayne Trakand]] moves through [[Caemlyn]] to greet the people. She was a former bouncer in a tavern for wagon drivers in Low Caemlyn, a very unusual job for a woman.
+
+She is assigned one of Elayne's guards, when Elayne arrives back from touring around all the minor Houses of Andor.
+
+She escorts Elayne to the meeting with [[Dyelin Taravin]] and the other [[High Seat]]s based in Caemlyn.
+When [[Daved Hanlon]] is captured and made prisoner, she and the other bodyguards pummel him severely.
+{{DEFAULTSORT:Colford, Deni}}
+[[Category:Bouncers]]

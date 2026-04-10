@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Miscellaneous
+| Description        = The entrance to [[Alindaer]] from [[Tar Valon]].
+| Source             = ''[[New Spring 2]]''
+| Artist             = Mike S. Miller
+| Artist2            = Etienne St Laurent
+}}

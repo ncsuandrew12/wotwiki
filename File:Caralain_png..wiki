@@ -1,0 +1,11 @@
+{{Image
+| License                 = OPTIONS : Creative Commons, GFDL, Public Domain, Public Domain Self, Fairuse 
+| ImageType1              = Map
+| ImageType2              = SAME AS IMAGETYPE1 (NOT REQUIRED)
+| ImageType3              = SAME AS IMAGETYPE1 (NOT REQUIRED)
+| Description             = BRIEF DESCRIPTION / SUMMARY OF IMAGE
+
+| Source                  = SOURCE WHERE IMAGE WAS OBTAINED. (EITHER OFFLINE OR ONLINE)
+| Artist                  = 
+}}
+[[Category:Maps of Nations and Kingdoms]]

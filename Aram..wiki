@@ -1,0 +1,55 @@
+{{character 
+| image=Aram.jpg
+| imagesize=250px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Tuatha'an
+| eyes=Dark
+| gender=Male
+| build=Slender
+| affiliation=Masema Dagar
+| appeared={{teotw|25}}
+| lastappeared={{kod|30}}
+| lastmentioned={{amol|37}}
+}}
+{{quote|The leaf lives its appointed time, and does not struggle against the wind that carries it away. The leaf does no harm, and finally falls to nourish new leaves. So it should be with all men. And women.|Aram}}
+'''Aram''' was a handsome young ''[[Tuatha'an]]'' man who renounced the [[Way of the Leaf]] after he witnessed a [[Trolloc]] attack on his band in which his mother was killed.
+
+== Appearance ==
+Aram was slender and handsome with dark eyes.
+
+== Activities ==
+===Aram the Tinker===
+Aram, the grandson of [[Raen]] and [[Ila]], was a Tinker when [[Elyas Machera]] and [[Perrin Aybara]] visited a ''Tuatha'an'' camp. He enjoyed flirting with [[Egwene al'Vere]] and dancing with her by the campfire. He debated with Perrin over the Way of the Leaf before Perrin left.
+
+===Aram the swordsman===
+{{quote|They killed Mother! I saw them! I might have saved her, if I had a sword. I could have saved her!|Aram}}
+[[File:WoT195.jpg|thumb|left|Aram from the WoT comic]]
+Later, Trollocs attacked the [[Two Rivers]] while his camp was nearby. His mother was killed by the Trollocs, leading Aram to ask Perrin to teach him the sword. After some thought, Perrin agreed, and told him to ask [[Tam al'Thor]] to teach him.{{ref/book|4|45}} His grandparents then abandoned him to Perrin, to whom Aram became very devoted and protective. He saved Perrin's life from Trollocs during the [[Battle of Emond's Field]].{{ref/book|4|56}} He also developed a devotion to [[Zarine ni Bashere t'Aybara|Faile]].
+
+He then followed Perrin to [[Caemlyn]] when Perrin was pulled back towards [[Rand al'Thor]]. He seemed too enthusiastic about using his sword. He was right in the thick of the [[Battle of Dumai's Wells]]. After the battle he was more than willing to kill the [[Aes Sedai]] who were taken prisoner, and was reprimanded by Perrin.
+
+===Aram the [[Dragonsworn]]===
+Aram went with Perrin on his mission to bring [[Masema Dagar]] to Rand. When he met the Prophet for the first time he had the look of worship and wonder on his face. He went with Elyas to track Faile when she was captured by [[Shaido]] [[Aiel]] even though he didn't like the man.
+
+He had found it difficult to control his anger since Faile was taken by the Shaido and becomes jealous of anyone else spending time with Perrin. He went with Perrin when they spied on the town of [[Malden]], where the Shaido had set up camp. Aram became increasingly touchy with Faile missing and Perrin forbade him to go with him to [[So Habor]]. He was present with Masema, torturing Shaido captives when Perrin arrived back and also questioned the captives.
+Perrin forbade Aram to accompany him when he met with the [[Seanchan]].
+
+Perrin didn't allow him to join the force that traveled through the aqueduct into Malden. [[Sebban Balwer]] reported that Aram was spending much time with Masema, who convinced him that Perrin is [[Shadowspawn]] due to his golden eyes. During the attack on the Shaido camp, Aram turned on Perrin. Although a better swordsman, he didn't manage to land a blow. While attacking Perrin, Shaido ''[[algai'd'siswai]]'' killed him from behind.
+
+== References and Similarities ==
+
+=== To Mara ===
+Aram is potentially a reference to {{Wiki|Mara_(demon)|Mara}}, a demon in Buddhism, who is associated with temptation and the opposite of enlightenment. This is evident to Aram's life, as he tempts Egwene when they first meet, and he turns against Perrin around the time of Perrin's own epiphany in which he choses the Hammer over the Axe. Aram is 'Mara' spelled backwards.
+
+== Prophesies ==
+Aram is referenced in Min's veiwings of Perrin as a Tinker with a sword, foreshadowing his rejection of the Way of the Leaf.
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Aram}} is played by actor {{TVlink|Daryl McCormack}}.
+
+{{notes}}
+[[es:Aram]]
+[[Category:Parallels]]<references />
+[[es:Aram]]
+[[Category:Parallels]]

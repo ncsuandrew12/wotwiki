@@ -1,0 +1,35 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| ewot=Ramshalan
+| nationality=Domani
+| gender=Male
+| build=Lanky
+| hair=Black
+| appeared={{tgs|31}}
+| lastappeared={{tom|p}}
+| living=tom
+| title=[[Lord]]
+| status=Alive
+}}'''Piqor Ramshalan''' is a [[Domani]] nobleman.{{ref|{{twotc}}, Piqor Ramshalan}}
+
+== Appearance ==
+Lord Ramshalan has a nose reminiscent of [[Saldaea]] and thin black [[Domani]] mustaches. Described as a fop, he wears a black beauty mark in the shape of a bird in flight and earrings. His voice is very nasal.
+
+== History ==
+Ramshalan is in the Domani capital of Bandar Eban when [[Rand]] enters the city.
+
+== Activities ==
+Ramshalan first brings attention to himself by exclaiming, "She should be executed, my Lord!" referring to [[Milisair Chadmar]] who appeared to have been packing to leave Bandar Eban. Rand notes that Ramshalan is quick to attempt to better his own circumstances by turning on his friends and acquaintances. Rand decides instead to lock Milisair in the dungeon facility she used for the deceased messenger who was the last person claiming to have seen [[Alsalam Saeed Almadar|King Alsalam]].
+
+Days later, after [[Nynaeve al'Meara]] has visited the dungeon, healed Milisair from poisoning and discovered [[Kerb]], the compelled chandler's apprentice poisoner, Rand has a task for Ramshalan. Ramshalan accompanies Rand and Nynaeve to [[Natrin's Barrow]] to confront [[Graendal]]. In fact, it is Ramshalan who makes the first contact with Graendal. He returns, unsurprisingly under strong [[compulsion]]. Rand then uses [[Balefire]] to destroy the entire palace and population of Natrin's Barrow. He has Nynaeve confirm that Graendal is dead by checking that the compulsion weave is gone - or in the case of balefire, never was.
+
+Ramshalan is then confronted by Rand on his claims to Lords [[Vivian]] and [[Callswell]] of being able to manipulate the [[Dragon Reborn]]. Rand deserts Ramshalan in the forest outside Natrin's Barrow with directions to a village, two days walking distance away.
+
+Lord Ramshalan's compulsion was actually a ruse by Graendal. It was [[Delana Mosalaine]] and [[Balthamel#His Resurrection and New Name|Aran'gar]] who wove compulsion on Ramshalan.
+
+{{notes}}
+{{DEFAULTSORT:Ramshalan, Piqor}}
+
+[[es:Piqor Ramshalan]]
+[[Category:Nobility]]

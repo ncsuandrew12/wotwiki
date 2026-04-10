@@ -1,0 +1,8 @@
+{{swordform 
+| mentioned={{11|p}}
+| used=[[Galadedrid Damodred]]
+}}
+'''Kingfisher Circles the Pond''' is a [[sword form]]. It was used in a fight between [[Galadedrid Damodred]] and [[Eamon Valda]]. Galad was barely able to use this form when Valda attacked with [[The Dove Takes Flight]].{{ref/book|11|p}}
+
+{{notes}}
+{{short}}

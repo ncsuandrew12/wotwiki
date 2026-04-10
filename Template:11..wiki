@@ -1,0 +1,4 @@
+''[[Knife of Dreams]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[Knife of Dreams/Prologue|Prologue]]|e|ep|epilogue=[[Knife of Dreams/Epilogue|Epilogue]]|g|glossary=[[Knife of Dreams/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}||[[Knife of Dreams/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|Knife of Dreams]]
+</noinclude>

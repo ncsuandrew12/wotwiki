@@ -1,0 +1,24 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| gender=Female
+| nationality=Andoran
+| rank=Novice
+| affiliation=White Tower
+| status=Alive
+| mentioned={{cot|17}}
+| lastmentioned={{cot|17}}
+| living=cot
+}}
+'''Althyn Conly''' is a [[novice]] in the [[Rebel Aes Sedai]] camp. She is from the [[Two Rivers]].
+
+== Activities ==
+She and [[Bodewhin Cauthon]] try to change two cups at once into ''[[cuendillar]]'' but only end up with a solid lump.
+
+She is one of only 24 novices, 2 Accepted and 9 Aes Sedai in the Rebel camp who could make ''cuendillar''.
+
+{{DEFAULTSORT:Conly, Althyn}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Two Rivers (people)]]
+[[Category:Short pages]]
+[[Category:Channelers]]

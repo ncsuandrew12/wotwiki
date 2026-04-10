@@ -1,0 +1,6 @@
+{{Image
+| License            = gfdl
+| ImageType1          = Map
+| Description        = Map of Tanchico
+| Source             = 
+}}

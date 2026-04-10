@@ -1,0 +1,47 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=White Tower
+| status=Alive
+| build=Willowy
+| mentioned=The Wheel of Time Companion
+| living=
+}}
+'''Cairlyn Nesolle''' is an [[Aes Sedai]] of the [[Yellow Ajah]].{{ref|{{twotc}}, Cairlyn Nesolle}}
+
+==Strength anf Abilities==
+Cairlyn has a strength in the [[One Power]] of {{opsl|28}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+She was part of the White Tower secret expedition who were to kidnap [[Rand al'Thor]] in [[Cairhien]].
+
+She was taken prisoner during the Battle of [[Dumai's Wells]] by the [[Asha'man]]{{ref/book|6|55}}.
+
+Cairlyn was one of the captured Aes Sedai to be interrogated by [[Verin Mathwin]] in order to discover the White Tower's intentions towards [[Rand al'Thor]].{{ref/book|7|1}}{{ref/book|8|p}} In reality, Verin used her mild [[Compulsion]] to implant in their minds some instructions about Rand.
+
+Later it is reported by [[Sorilea]] that all the Aes Sedai prisoners have sworn fealty to Rand.{{ref/book|9|13}}
+
+As with many Aes Sedai sworn to Rand, Cairlyn probably fought the [[Last Battle]] on the slopes of [[Thakan'dar]].{{ref/book|14|34}} It is not stated whether she survived or not.
+
+==Trivia==
+Cairlyn Nesolle is described only in "The Wheel of Time Companion", she is never mentioned in the main books of the Wheel of Time. She is the only Yellow mentioned being part of the party sent to kidnap Rand in Cairhien.
+
+This is in contradiction to the description of this group in the main Books, because we know well the number of sisters and the Ajah involved in the kidnapping group and no Yellow sisters were ever counted in that party.
+
+{{notes}}
+
+{{Short}}
+{{DEFAULTSORT:Nesolle, Cairlyn}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

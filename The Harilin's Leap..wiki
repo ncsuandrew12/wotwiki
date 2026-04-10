@@ -1,0 +1,21 @@
+'''Harilin's Leap''' is an inn in [[Jarra (village)|Jarra]], [[Ghealdan]]. {{ref/book|3|8}}
+
+
+==Appearance==
+It is a square stone building.
+
+===Sign===
+The sign is "a man standing on one foot with his arms thrown in the air."
+
+==Employees==
+
+*Master [[Harod]] - innkeeper
+*[[Simion]]
+*[[Nico]] - stableboy
+*[[Patrim]] - stableboy
+
+{{notes}}
+[[Category:Inns]]
+[[Category:Ghealdan]]
+[[Category:Short pages]]
+{{DEFAULTSORT:Harilin's Leap, The}}

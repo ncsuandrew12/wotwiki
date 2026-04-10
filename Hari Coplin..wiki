@@ -1,0 +1,30 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Farmer
+| affiliation=Two Rivers
+| gender=Male
+| status=Alive
+| appeared={{teotw|9}}
+| lastappeared={{tsr|56}}
+| living=tsr
+}}
+{{dablink|for the [[Dragonsworn]] soldier by the same first name, see [[Hari]]. For others with the same surname, see [[The Congars and the Coplins]].}}
+'''Hari Coplin''' is a [[Two Rivers]] resident.
+
+== Appearance ==
+He is sour-faced.
+
+==History==
+He is a farmer.
+
+== Activities ==
+When the [[trollocs]] first attack [[Emond's Field]], he confronts [[Moiraine Damodred]] with a crowd behind him, demanding she leave at once.
+
+He shoots at a group of Tuatha'an, mistaking them somehow for Trollocs. He is opposed to allowing the Tinkers in to the village due to their reputation for stealing.{{ref/book|4|45}}
+
+He helps defend [[Emond's Field]] against the invading [[Trollocs]].{{ref/book|4|56}}
+
+{{notes}}
+{{DEFAULTSORT:Coplin, Hari}}

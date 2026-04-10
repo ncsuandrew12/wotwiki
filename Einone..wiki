@@ -1,0 +1,17 @@
+{{ character
+| image=KandorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Kandori
+| title=Lady
+| gender=Female
+| mentioned={{Tpod|p}}
+| lastmentioned={{tpod|p}}
+| living=tpod
+}}
+'''Einone''' is Queen [[Ethenielle Kirukon Materasu]]'s sister. 
+
+==History==
+She is married to one of Queen [[Tenobia Kazadi|Tenobia's]] uncles.
+[[Category:Saldaea (people)]]
+[[Category:Nobility]]

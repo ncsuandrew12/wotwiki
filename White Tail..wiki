@@ -1,0 +1,18 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=White_Tail
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Unknown
+| appeared={{cot|5}}
+}}
+{{dablink|For other uses of the word "white," see [[White]].}}
+
+'''White Tail''' is a [[wolf]] belonging to [[Leafhunter|Leafhunter's]] pack.{{ref|{{twotc}}, White Tail}} 
+
+==Activities==
+White Tail, along with the rest of the pack, are known to [[Perrin Aybara]]. When Perrin asks the wolves to identify a scent, all but Leafhunter break contact as they recognize the scent: the scent of [[Darkhound]]s.{{ref/book|10|5}}
+
+{{notes}}

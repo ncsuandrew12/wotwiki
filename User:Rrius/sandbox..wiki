@@ -1,0 +1,18 @@
+<includeonly>
+{{ character
+| image=Dobraine.jpg
+| imagesize=250px
+| ewot=Dobraine
+| status=Alive
+| nationality=Cairhienin
+| title=Lord
+| occupation=Steward of the Dragon
+| affiliation=The Dragon Reborn
+| gender=Male
+| hair=Grey
+| appeared={{tfoh|46}}
+| mentioned={{tfoh|45}}
+| lastappeared={{tgs|42}}
+| living=tgs
+}}
+</includeonly>

@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| hair=Gray
+| status=Alive
+| clan=Goshien
+| sept=Red Water
+| society=Unknown society
+| appeared={{loc|42}}
+| lastappeared={{loc|42}}
+| living=loc
+}}
+'''Saeric''' is a [[Red Water]] [[Goshien]] [[Aiel]].
+ 
+== Appearance ==
+He is a gray haired and has only one hand.
+
+== Activities ==
+He is seen in the [[Black Tower]] teaching the [[Asha'man]] how to fight barehanded.

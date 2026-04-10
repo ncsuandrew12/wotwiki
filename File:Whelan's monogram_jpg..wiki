@@ -1,0 +1,7 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover
+| Description             = Close-up of [[Michael Whelan]]'s monogram on the cover of ''[[A Memory of Light]]''
+| Source                  = [http://www.glassonion.com/catalog/home.php] [http://www.tor.com/blogs/2012/05/michael-whelans-cover-for-a-memory-of-light-revealed]
+| Artist                  = Michael Whelan
+}}

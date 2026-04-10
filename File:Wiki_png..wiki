@@ -1,0 +1,6 @@
+{{Image
+| License                 = Creative Commons
+| ImageType1              = Admin
+| ImageType2              = Logo
+| Description             = Wiki logo
+}}

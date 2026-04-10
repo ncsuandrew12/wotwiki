@@ -1,0 +1,147 @@
+<onlyinclude><includeonly>[[/doc]]
+
+</includeonly>==Purpose of module==
+Render and/or search quotes.
+
+==How to use==
+
+<pre>
+{{#invoke:WotQ|random_wot_quote|tags=your newline-separated tags}}
+{{#invoke:WotQ|random_wot_quote|tags={{PAGENAME}}}}
+</pre>
+
+==Examples==
+Some regular text
+{{#invoke:WotQ|random_wot_quote|tags=Mat
+!Lini
+!Nynaeve}}
+some more regular text
+{{#invoke:WotQ|random_wot_quote|tags=Lini
+!Mat
+!Nynaeve}}
+{{#invoke:WotQ|random_wot_quote|tags=Nynaeve
+!Lini
+!Mat}}
+some more regular text
+
+{| class="wikitable"
+| Description
+| Example
+|-
+| rowspan=2 | Random quote
+| <pre>{{#invoke:WotQ|random_wot_quote}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote}}
+|-
+| rowspan=2 | Random quote related to a named character
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=Mat}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=Mat}}
+|-
+| rowspan=2 | Random quote related to a named character using an alias
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=Nyn}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=Nyn}}
+|-
+| rowspan=2 | Random quote related to a named character ''not'' related to another named character
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=Mat
+!Rand}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=Mat
+!Rand}}
+|-
+|}
+
+==Tests==
+
+{| class="wikitable"
+| Description
+| Example
+|-
+| rowspan=2 | Don't set a width.
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=}}
+|-
+| rowspan=2 | Pure conversation
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_conversation}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_conversation}}
+|-
+| rowspan=2 | Conversation with non-dialogue
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_interchange}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_interchange}}
+|-
+| rowspan=2 | Freeform references
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_other_refs}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_other_refs}}
+|-
+| rowspan=2 | Explicit description
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_description}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_description}}
+|-
+| rowspan=2 | Explicit extra description with implicit description
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_description_extra}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_description_extra}}
+|-
+| rowspan=2 | Negative filter. Result should be Moiraine's quote about her life purpose.
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_specific_result}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_specific_result}}
+|-
+| rowspan=2 | Search with exclusions in the database. Result should be Androl's quote about seconds.
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_exclusion}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_exclusion}}
+|-
+| rowspan=2 | Number
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=1}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=1}}
+|-
+| rowspan=2 | Zero
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=0}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=0}}
+|-
+| rowspan=2 | Invalid number
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=-1}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=-1}}
+|-
+| rowspan=2 | No matches
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_specific_result
+!Moiraine}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=_example_specific_result
+!Moiraine}}
+|-
+| rowspan=2 | No matches (nonsense)
+| <pre>{{#invoke:WotQ|random_wot_quote|quote_width=|tags=Iowjefaw}}</pre>
+|-
+|      {{#invoke:WotQ|random_wot_quote|quote_width=|tags=Iowjefaw}}
+|-
+|}
+
+==Stats==
+{{#invoke:WotQ|wot_stats}}
+
+===QOTD Quotes===
+<pre>{{#invoke:WotQ|render_wot_quotes|tags=all
+!QOTD}}</pre>
+''(Not rendered to save load time. See [[Wotwiki:Quote of the Day/Archive]] for output.)''
+
+==All WoT Quotes==
+<pre>{{#invoke:WotQ|render_all_wot_quotes}}</pre>
+''(Not rendered due to long load time. See [[Quotes]] for output.)''
+
+{{notes}}
+</onlyinclude>
+
+==All WoT Quotes==
+<pre>{{#invoke:Quote|render_all_wot_quotes}}</pre>
+''(Not rendered due to long load time. See [[Quotes]] for output.)''

@@ -1,0 +1,20 @@
+{{character
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| occupation=Innkeeper
+| nationality=Altaran
+| hair=
+| gender=Female
+| appeared={{amol|11}}
+| lastappeared={{amol|11}}
+| lastmentioned={{amol|11}}
+| living=amol
+}}
+'''Kathana''' is an [[Ebou Dar]]i woman and owner of the [[Yearly Brawl]] Inn. She is recently married to [[Jame]]. 
+==Activities==
+When [[Mat]] visits the inn, she doesn't believe his tale of how he lost an eye and tells him he should wear a hat as it would go well with his eyepatch. After talking to him for a couple of minutes, she realises that he is the man that all the soldiers in Ebou Dar are looking for.
+==Background==
+Jame and Kathana are named for James and Jennifer Liang, two high-profile moderators at [http://dragonmount.com Dragonmount.com] and coordinators of [[JordanCon]].
+[[Category:Short pages]]
+[[Category:Characters named after fans]]

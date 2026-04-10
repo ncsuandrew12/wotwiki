@@ -1,0 +1,8 @@
+== More stubs ==
+
+Should we stick with just one simple stub template, or diversify into more stubs? --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 20:33, 23 Nov 2005 (UTC)
+
+:I cannot think of any advantages to having more types of stubs.  We do have Template:needref and [[Template:definition]], which are sort of related.
+:I did add [[template:substub]] because I don't think nearly ''empty'' articles should be classified as stubs, but I doubt it will get much use. --[[User:Gherald|Gherald]] 21:16, 23 Nov 2005 (UTC)
+::It will if I can help it ;) [[User:Aristoc|Aristoc]] 15:49, 8 January 2007 (UTC)
+:I'm also going to create :Category:book stubs, because I'm tired of the not-yet-finished-chapter summaries cluttering up [[Special:Wantedpages]], buit I don't have time right now to write over 9000 pages... -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 22:19, 26 September 2008 (UTC)

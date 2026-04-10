@@ -1,0 +1,24 @@
+{|
+|+
+! Code
+! Result
+|-
+|<code><nowiki>{{8}}</nowiki></code>
+|              {{8}}
+|-
+|<code><nowiki>{{8|p}}</nowiki></code>
+|              {{8|p}}
+|-
+|<code><nowiki>{{8|G}}</nowiki></code>
+|              {{8|G}}
+|-
+|<code><nowiki>{{8|2}}</nowiki></code>
+|              {{8|2}}
+|-
+|<code><nowiki>{{ref/book|8|2}}</nowiki></code>
+|              {{ref/book|8|2}}
+|}
+
+{{notes}}
+
+<noinclude>[[Category:Template documentation]]</noinclude>

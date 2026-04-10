@@ -1,0 +1,94 @@
+{{for|the [[Gareth Bryne]]'s horse|Traveler}}
+[[File:Traveling.jpg|thumb|right|[[Lews Therin Telamon]] using Traveling]]
+
+'''Traveling''' is a method that uses the [[One Power]] to transport people and things nearly instantaneously over vast distances through a portal called a [[Gateway]]. Traveling is also related to [[Skimming]], a simpler but slower way to travel faster than any previously known method. Traveling is considered one of the most strategically important and useful Weaves rediscovered at the end of the [[Third Age]].
+
+== Forgotten Talent ==
+The weave was considered lost since the [[Breaking of the World]], the name known only via references in ancient texts. How it became lost is uncertain. Moiraine stated that there had "not been an [[Aes Sedai]] powerful enough to Travel since the [[Time of Madness]],"{{Ref/book|1|21}} but this is obviously not true (as evidenced by numerous contemporary Aes Sedai such as Cadsuane and Verin proving powerful enough once the weave was rediscovered) and this misconception may have led Aes Sedai throughout the Third Age to believe rediscovering Traveling to be impossible for channelers of their strength, which would explain why it had never been rediscovered.
+
+In reality, the loss may have been because of the geographic turmoil caused by the rampant violence of mad male channelers, something so pervasive that no permanent settlements from the Age of Legends survived the cataclysm. It may also have been that all channelers who remembered the wonders of the Age of Legends were dead by the end of the Breaking, or were otherwise unwilling or unable to pass on knowledge of Traveling. By the time the [[White Tower]] was founded, those who called themselves Aes Sedai were probably either self-taught [[wilders]] or the products of informal mentorships and it is almost certain that no woman who remembered the previous Age was part of this new group.
+
+== Rediscovery and Spread==
+
+The first instance of Traveling by someone born in the Third Age occurred when [[Aviendha]] unknowingly created a Gateway to [[Seanchan (continent)|Seanchan]]. She was, however, unable to repeat the weave and so it was not yet rediscovered in a meaningful sense.{{Ref/book|5|31}}
+
+Although [[Asmodean]] told [[Rand al'Thor]] of Traveling, he claimed that [[Lanfear]]'s shield on him left him unable to form the weave.{{Ref/book|5|6}} Later, after reading the residue of [[Rahvin]]'s Gateway in Caemlyn, Rand realized that, like Aviendha, he had unknowingly Traveled in Tear during his confrontation with Be'lal.{{ref/book|5|55}} After this point, Rand was able to create Gateways at will.
+
+He later taught the weave to [[Mazrim Taim]].{{ref/book|6|3}}{{ref|It is possible that Taim already knew Traveling when Rand "taught" it to him, but this knowledge would have come from the Forsaken and therefore he would have had reason to feign ignorance.}} Taim in turn taught it to the [[Asha'man]] as a whole. This is part of the general training of every student of the [[Black Tower]]; it is taught to every Soldier as soon as he is strong enough rather than being reserved for Taim, full Asha'man, or even the Dedicated.{{ref/book|7|2}}
+
+The female version of the Talent was rediscovered by [[Egwene al'Vere]]. She entered [[Tel'aran'rhiod]] in the flesh and used it to travel quickly from Cairhien to Salidar.{{ref/book|6|34}} After arriving in Salidar, she received some hints regarding Traveling from [[Moghedien]], but she largely pieced together the knowledge herself and wove a Gateway without Moghedien demonstrating in any way.{{ref/book|6|37}} 
+
+[[Alviarin Freidhen]] was also taught the weave by [[Mesaana]].{{ref/book|7|1}} For a long while, only the Salidar faction had access to Traveling, giving the rebels a very real strategic advantage. This advantage was negated when [[Beonin Marinye]] taught the weave to [[Elaida do Avriny a'Roihan]], who passed the knowledge on to sisters of her own choosing. This allowed the [[White Tower]] to collect donations and supplies from afar - a fact first discovered by [[Ashmanaille]] when it was discovered that an Aes Sedai from the loyalist faction, [[Nesita]], had already gathered the tribute from the [[Aesdaishar Palace]] in [[Kandor]] before Ashmanaille herself was due to collect it on behalf of the rebel Aes Sedai.
+
+The third faction of unaligned sisters, or at least those who followed [[Cadsuane Melaidhrin]], obtained the knowledge after [[Sorilea]] showed the weave to Cadsuane (despite Sorilea being too weak to actually use the weave).{{ref/book|7|12}}
+
+After the reunification of the White Tower, Traveling was adopted wholeheartedly by the [[Gray Ajah]] as something that would be of most use in their domain as their very purpose requires long-distance travel. Although some Gray sisters may feel an ownership of the weave, it is unlikely they could have a monopoly on Traveling, even if they could manage to take control of the protocols concerning the use of the weave.
+
+Traveling remained a strategic advantage for the various factions of the [[Westlands]], but remained unknown to the [[Seanchan]] for a time. [[Aviendha]] used her Talent of [[Unweaving]] to prevent the residues from being read by them when everyone in the vicinity of Ebou Dar who knew the weave fled to Andor via Gateway. After Elaida was made ''damane'', she was forced to show the Empress [[Fortuona]] the secret of Traveling.{{ref/book|13|47}} Mat later had a damane make a Gateway on the floor that opens high in the air in order to observe the battle at the [[Field of Merrilor]].{{Ref/book|14|32}}
+
+The [[Atha'an Miere]] Windfinders learned to Travel from their Aes Sedai teachers as part of the [[Bargain]], opening up immense commercial possibilities.
+
+It is unknown if Traveling for either male or female channelers is known by the [[Sharans]].{{Verify}} They appeared on the [[Field of Merrilor]] using a massive Gateway, but this could have been performed alone by [[Demandred]] using [[Sakarnen]]. While Egwene saw "hundreds" of women embracing the source, it is not possible for them all to be creating the Gateway due to the limitations on the size of a [[circle]].
+
+== Minimum Strength and Talents ==
+The Wheel of Time Companion states that the "minimum strength required for making a gateway of useful size, that is, large enough to walk through, was {{opsl|25}}. The minimum strength required to make any gateway at all out of a circle was {{opsl|27}}."
+
+This is not the full story, however, as Traveling is also a Talent and a fixed level of strength ignores variability in skill. The most striking example of this is [[Androl Genhald]], who can weave large gateways when he should not be able to make one work at all. Similarly, [[Berisha Terakuni]] is able to weave a gateway large enough for Faile to pass through riding atop a wagon, whereas Elayne cannot weave one tall enough for Mat to pass through while mounted, despite Elayne being significantly stronger. The Gray sister [[Ashmanaille]], at level {{opsl|28}}, is the only other known channeler who is below the stated minimum strength, but appears to be able to Travel without being in a circle.{{ref/book|14|27}}{{ref/book|12|18}} On the other side of the scale, [[Julanya Fote]] has a strength of {{opsl|22}}, and "could make a gateway, but one only just large enough to walk through".{{ref/book|twotc|Julanya Fote}} This seems to be a case of ample strength underperforming and may hint at channelers at level {{opsl|25}} existing that either can't produce a useful gateway or Travel at all.
+
+The second part about the minimum strength required to make a gateway at all out of a circle is less clear. The natural extension of "gateway of useful size" would be gateways that are too small to be useful. This would make sense, with anyone more than two levels weaker not being able to make the Traveling weave work at all.
+
+The phrase "out of a circle" implies one of three possibilities. The first is that a leader of a circle with strength less than this cannot make a gateway of any size work, regardless of the total amount of the One Power available to them via the circle. This is counterintuitive and is contradicted by evidence from the books. [[Jesamyn]] is only strong enough to weave a Gateway as one of ''four'' linked Kinswomen. After two are killed by Darkfriends, she cannot make a circle strong enough to Travel.{{ref/book|14|p}}  The second interpretation is that a channeler at level {{opsl|27}} can make a gateway by linking with ''any'' channeler - even one as weak as {{opsl|78}} - but this is also counterintuitive. The third interpretation is that a channeler of any strength can make a gateway provided sufficient Power is available via a circle (or ''[[angreal]]'', which goes unmentioned in the entry). An increased amount of strength ''does'' allow someone to create a gateway where they would otherwise not be able to. [[Siuan Sanche]]'s new strength is {{opsl|41}}, far below the minimum strength, yet she is able to create a gateway large enough to crawl through with the aid of an ''angreal''.{{ref/book|14|27}} Similarly [[Annoura Larisen]], at {{opsl|39}}, managed to create a gateway large enough to pass through by pushing herself to draw more of the One Power than she could handle safely.{{ref/book|14|37}} Also, Elayne's point of view stated that there were Kinswomen who "needed to form a circle to Travel."{{ref/book|11|17}}
+
+==Gateways and their Behaviour==
+{{dablink|For chapters of a similar name, see [[Gateways]].}}
+
+Traveling is done through the use of '''Gateways'''. They initially appear as a thin vertical light line in the air, which then expands into a rectangular portal. One cannot create a gateway within a gateway. If two gateways are created to the same location, the second gateway will open beside the first, with a small gap between the two.
+
+The edges of a Gateway are razor-sharp and can cut through anything except [[Cuendillar]]. While it is generally impossible to open a Gateway inside a solid object, it is possible for it to open in a position where the edges cut into an adjacent object or person. For this reason, the [[Rebel Aes Sedai]] and, later, the [[White Tower]], designated Traveling grounds to prevent accidents. If opened into ''cuendillar'', the ''cuendillar'' is pushed aside.{{ref/tidb|162|7}} A gateway can be blocked by placing a piece of Cuendillar into it to prevent it from closing.{{ref/tidb|632|10}}
+
+In the [[Age of Legends]], it was etiquette to make a chiming sound with the Power to announce your arrival by Gateway, much as a real-life visitor might ring a doorbell to announce their arrival at someone's house.  
+
+Gateways can also be opened horizontally, an innovation developed and used notably by [[Yukiri Haruna]] and the [[Gray Ajah]] for spying or gaining a bird's eye view of the battlefield. This allowed [[Gareth Bryne]] and others to have a real-time and comprehensive overview of both their troops and those of the enemy. Mat also uses this when he commands the overall forces of the Light. 
+
+Gateways can be tied off, but there are unspecified problems with doing this. [[Jur Grady]] and [[Fager Neald]] started doing this but stopped. According to Sanderson: "They found that it didn’t work as well as they originally thought. Tied-off gateways behaved in strange ways; they were inefficient, ineffective, and unpredictable. There was also a considerable continuing cost to maintaining even a tied-off gateway."{{ref/tidb|642|14}}
+
+The weave holding the gateway open can be tied off temporarily. While maintained, it can be used until it naturally dissipates. If the weaves are left to dissipate, the gateway will shrink back to a single vertical light line and eventually disappear. It is possible to stop a closing gateway made by another channeler. [[Asmodean]] claimed that, of the [[Aes Sedai (Age of Legends)|ancient Aes Sedai]], only [[Demandred]], [[Semirhage]], and [[Lews Therin Telamon]] could prevent a gateway from closing, making it an extremely rare Talent.
+
+The effects of striking oneself with balefire fired through Gateways are unknown.{{ref/tidb|180|6}}
+
+Male channelers describe the forming of a gateway with ''[[saidin]]'' as "boring a hole in the [[Pattern]]" to the channeler's destination. Forming a gateway with ''[[saidar]]'' is done by creating a similarity in the Pattern.
+
+Gateways can be used as weapons either by deliberately creating the gateway to slice into the victim (as [[Sammael]] does to one of [[Graendal]]'s servants), or in the form of [[Deathgates]] - rapidly opening and closing horizontal Gateways which spin and move over an area. All Shadowspawn except [[Gholam]] die when they pass through a Gateway. The Gholam is immune to weaves of the One Power targeting it, giving it protection.{{ref/book|13|31}}
+
+== Limitations, Variations and Exceptions ==
+The chief limitation other than strength is that a channeler needs to know their starting location well to be able to open a Gateway from that location (this is the reverse of [[Skimming]]).{{Ref/book|5|6}} It is for this reason that [[Verin Mathwin]] is stranded for a few days in [[Trustair]] until she could learn the location well enough to Travel.
+
+Holding the Power will speed up this "learning" process. It is possible to Travel "very short" distances without first "learning" the place of departure.{{ref/book|7|41}}{{ref/tidb|255|22}} It is also possible to "learn" a place simply by Traveling there.{{ref/book|12|44}}{{ref/tidb|254|6}}
+
+These characteristics can be exploited to more or less avoid the "learning" requirement altogether. One can simply Travel a very short distance, thereby learning the destination, then Travel from there to wherever one wishes.{{ref/book|12|44}}
+
+If someone does not know an area well enough, they will either not be able to create a gateway at all, or it will be smaller than their normal ability with gateways.
+
+It is also possible to disable the ability for anyone to open a Gateway to or from a defined area. There may be more than one way to do so, but one we see in the books is through the use of a [[dreamspike]].
+
+Beonin's and Egwene's prose indicate that Gateways are woven with [[Spirit]].{{ref/book|11|2}}{{ref/book|12|12}} Rand's prose indicates that Gateways are woven with Spirit and [[Fire]].{{ref/book|11|19}} It's possible that Gateways produced with ''[[saidar]]'' have different composite [[Five Powers]] than ''[[saidin]]''. ''Saidar'' Gateways requiring only Spirit meshes well with Egwene rediscovering the [[Talent]] by applying lessons learned by Traveling to {{tar}} in the flesh.{{ref/book|6|34}}{{ref/book|6|37}} And different elements and weavings for Gateways is consistent with conventional female Gateways involving inducing a "similarity" between origin and destination{{ref/book|6|37}} while male Gateways involve tunneling a hole through the Pattern after "bending" the origin and destination together.{{ref/book|6|27}}
+
+With certain modifications involving [[Earth]], Gateways (or at least ''saidin'' Gateways) can be modified into [[Deathgates]].{{ref/book|11|19}}
+
+== True Power Traveling ==
+Traveling with the [[True Power]] is described as ripping a hole in the [[Pattern]] and stepping outside it entirely,{{Ref/book|7|20}} and seems to be inherently destructive, possibly damaging the Pattern permanently. To [[Moridin|Moridin's]] ears, 'the world screamed' as he did it. It does not use gateways; the air seems to warp and distort around users and then they simply vanish. Users of this technique can take others with them by touching them, as [[Hessalam]] did with her "pets" at [[Thakan'dar]]. 
+
+== Parallels ==
+
+The male explanation for how ''[[saidin]]'' Gateways work - bending the Pattern between the origin and destination and boring a hole between the two such that there is no distance between origin and destination - is notably similar to the explanation for "{{Wlink|tessering}}" and the eponymous temporal wrinkles from 1962's ''{{Wlink|wrinkle-in-time|A Wrinkle in Time}}''. The book was released when [[Robert Jordan]] was about 14 (right within the target readership{{ref|''A Wrinkle in Time'' has been assigned reading in some U.S. public schools during middle school and late elementary grades.}}) and became wildly successful, winning several major awards during its first year and continuing to be read in schools after Jordan's death. As a voracious reader, Jordan certainly would have at least been familiar with the book long before writing ''The Wheel of Time''.
+
+The male explanation also resembles the theory of {{Wiki|wormhole|wormholes}} in astrophysics.
+
+== Errata ==
+In {{6}}, Egwene recalls: "only a handful were strong enough to make a gateway larger than they could put an arm through and most not even that."{{ref/book|6|39}} This contradicts the information elsewhere in the books, the One Power rankings in the Companion, and the Companion's own entry on "gateway" (quoted above). Anyone slightly [[Strength in the One Power among Aes Sedai#Hierarchy Judgements|above average]] strength for an Aes Sedai should be able to Travel.  
+
+{{notes}}
+[[es:Viaje]]
+[[Category:Talents]]
+[[Category:Weaves]]
+[[Category:Parallels]]

@@ -1,0 +1,41 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| ewot=Quillin
+| affiliation=Arad Doman
+| occupation=Innkeeper
+| nationality=Andoran
+| gender=Male
+| build=Tall
+| hair=Thinning hair at the top and dark, short hair on the sides
+| status=Alive
+| appeared={{tgs|31}}
+| lastappeared={{tgs|31}}
+| living=tgs
+}}'''Quillin Tasil''' is the [[Andor|Andoran]] innkeeper of [[The Wind's Favor]] in [[Bandar Eban]].{{ref|{{twotc}}, Quillin Tasil}}
+
+==Appearance==
+He is tall and oval-faced with thinning, dark, short hair on the sides. He has full beard, trimmed short, that is almost entirely gray.{{ref/book|12|31}} When [[Cadsuane Melaidhrin]] visits him, her wears a fine lavender coat with white, ruffled cuffs - a sign of his wife's former profession.
+
+==History==
+Quillin was married to one of Bandar Eban's most successful silk merchants and managed her accounts for some twenty years before the both retired very wealthy.{{ref/book|12|31}}
+
+The Wind's Favour is spotless and sells fine vintages. Quillin does not allow [[Gleeman|Gleemen]] or musicians to perform there. It is a very high-end establishment with few customers.
+
+Quillin's eldest daughter, [[Namine Tasil]], went to the [[White Tower]] and became a member of the [[Brown Ajah]]. 
+
+It was through Namine's knowledge of current events he became an informant for [[Cadsuane Melaidhrin]], whom he calls '''Mistress Shore'''. He is aware that she is an Aes Sedai. Cadsuane considers his information very good and he is willing to look into enquiries for her among his and his wife's associates.{{ref/book|12|31}}
+
+== Activities ==
+Cadsuane visits him when Rand goes to Bandar Eban. She offers him money for information, but he refuses it and she suggests donating it to the poor instead. She asks him about the rumoured and likely whereabouts of King [[Alsalam Saeed Almadar]].
+
+He also tells her about the presence of [[Aiel]] in the city and he gives an exact number - twenty-four thousand - and rumours that they are poisoning the grain. He points out that the grain spoilage has gotten worse since the arrival of the [[Rand al'Thor|Dragon Reborn]]. He also reports freak events due to [[Ta'veren]], but all are ill luck without any balance of good luck. This worries Cadsuane.
+
+== Trivia ==
+Quillin Tasil is named for Bob Q Kluttz, webmaster of Encyclopedia WOT and a beta reader for Sanderson's books.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{DEFAULTSORT:Tasil, Quillin}}
+[[Category:Arad Doman (people)]]
+[[Category:Eyes-and-ears]]
+[[Category:Characters named after fans]]

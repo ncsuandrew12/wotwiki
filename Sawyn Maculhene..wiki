@@ -1,0 +1,23 @@
+{{character
+| gender=Male
+| occupation=General
+| death={{Fy|943}}
+| image=Wheel-icon.svg
+| imagesize = 125px 
+| mentioned={{bwb|11}}
+| nationality=Unknown nationality
+| status=Dead
+| ewothist=sawyn
+| lastmentioned={{bwb|11}}
+}}
+'''Sawyn Maculhene''' was a general during the rise of [[Artur Hawkwing]] who followed the [[False Dragon]] [[Guaire Amalasan]].
+
+== History ==
+He was a clever cavalry leader.
+
+In {{fy|943}}, after Amalasan was captured, he sent out from [[Khodomar]] with a five thousand-strong army. Together with [[Elinde Motheneos]], he captured at least two of the [[Alindrelle Erinin]] bridges and attacked the [[White Tower]]. He was killed during their defeat.{{ref/book|bwb|11}}
+
+{{notes}}
+{{DEFAULTSORT:Maculhene, Sawyn}}
+[[Category:Historical people]]
+[[Category:People of the Free Years]]

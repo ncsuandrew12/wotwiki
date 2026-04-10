@@ -1,0 +1,20 @@
+{{character 
+| image=Meri do Ahlan a'Conlin.jpg
+| imagesize=250px
+| ewot=sedrin aconlin
+| birth={{Ne|978}}
+| status=Alive
+| nationality=Murandian
+| gender=Male
+| appeared={{ns|5}}
+| lastappeared={{ns|5}}
+| living=ns
+}} 
+{{for|the performer in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]]|Sedrin}}
+'''Sedrin a'Conlin''' is the son of the Lady [[Meri do Ahlan a'Conlin]]. He was born during the end of the [[Aiel War]] in {{Ne|978}}.
+
+==History==
+Sedrin's mother claimed the bounty from the [[White Tower]] from [[Moiraine Damodred]]. Before Moiraine would take Sedrin's name, however, she demands to know of other women who have given birth. Lady Meri, though, is "not accustomed to keeping track of every brat born in the camp."{{ref/book|0|5}}
+
+{{notes}}
+{{DEFAULTSORT:A'Conlin, Sedrin}}<!---Please keep the "A" capitalized for proper category sorting. --->

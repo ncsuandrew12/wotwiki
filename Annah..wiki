@@ -1,0 +1,32 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Unknown nationality
+| occupation=Soldier
+| gender=Female
+| build=
+| eyes=
+| appeared={{amol|27}}
+| lastappeared={{amol|27}}
+| living=
+|death = {{ne|1000}}}}'''Annah''' was a foot soldier and messenger from the [[White Tower]] army during the [[Last Battle]].
+
+== Appearance ==
+She was a heavyset young woman.
+
+== History ==
+Annah used to be a merchant's guard.
+
+== Activities ==
+During the battle in [[Kandor]], Annah was sent by [[Gareth Bryne]] to the [[Seanchan]] [[Empress]] to lend the White Tower army some cavalry.
+
+When she was on her way to the [[Traveling]] ground, a fireball knocked a ''[[raken]]'' from the sky, landing in Annah's way and crushing her as it rolled.
+
+[[Min Farshaw]] replaced her and delivered the message.
+
+== Trivia ==
+Annah is named for Anna Roberts, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Characters named after fans]]
+[[Category:Tower Guards]]

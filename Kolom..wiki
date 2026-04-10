@@ -1,0 +1,16 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| gender=Male
+| mentioned={{loc|49}}
+| lastmentioned={{loc|49}}
+}}
+'''Kolom son of [[Radlin]]''' was an [[Ogier]] man and father of [[Serden]].{{ref/book|6|49}}
+
+==History==
+While he is mentioned, as part of his son's name, nothing is known about Kolom.
+
+{{notes}}
+{{short}}

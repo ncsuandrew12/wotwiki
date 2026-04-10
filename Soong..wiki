@@ -1,0 +1,17 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Alive
+| race=Ogier
+| gender=Female
+| mentioned={{loc|20}}
+| lastmentioned={{loc|20}}
+| living=loc
+}}
+'''Soong''' is an [[Ogier]] woman. She is the mother of [[Ella (Ogier)|Ella]], grandmother of [[Covril]] and great-grandmother of [[Loial]].{{ref/book|6|20}}
+
+==Activities==
+While her name is mentioned, as part of her granddaughter's name, nothing is known about Soong.
+
+{{notes}}
+{{short}}

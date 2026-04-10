@@ -1,0 +1,22 @@
+{{dablink|For other uses of the word "tower," see [[Tower]].}}
+'''Tower Guards''' are soldiers that defend the [[Aes Sedai]] and the [[White Tower]] in the city of [[Tar Valon]]. They are led by the [[High Captain]], who answers to the [[Amyrlin Seat]].{{ref/book|7|p}}
+
+12,000 Tower Guards were used in the [[Aiel War]] and were part of the [[Great Coalition]].{{verify}}
+
+[[Elaida]], under the influence of [[Alviarin]],{{verify}}<!--This seems probable, but I can't find any direct indicators in the text that the increase in the Tower Guard was specifically done because of Alviarin's influence.--> decreed that the Tower Guard be increased to 50,000 men.{{ref/book|8|15}} However, how large it managed to grow before Egwene took the city is unknown.
+
+The Tower Guard may have been part of the White Tower army during [[Tarmon Gai'don]]. It remained a separate force from the army raised by [[Gareth Bryne]].
+
+== Known members ==
+
+* [[Jimar Chubain]] ([[High Captain]]){{ref/book|7|p}}
+* [[Celark]] (former){{ref/book|13|37}}
+* [[Mazone]] (former){{ref/book|13|37}}
+
+== Known units ==
+
+* [[Tenth Tower Company]]{{ref/book|13|23}}
+
+{{notes}}
+[[Category:Military]]
+[[Category:Military units]]

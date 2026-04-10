@@ -1,0 +1,56 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| ewot=Shalon
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| status=Alive
+| appeared={{acos|34}}
+| lastappeared={{kod|22}}
+| living=kod
+}}'''Shalon din Togara Morning Tide''' is the [[Windfinder]] of [[Clan Shodein]] of the [[Sea Folk]].
+
+== Appearance ==
+Shalon is pretty and, because of her ability to channel, still appears young.
+
+== Strength ==
+During the [[cleansing of saidin]], [[Verin]] links in a circle with Shalon and [[Kumira Dhoran|Kumira]] and she thinks Shalon is quite strong. Aes Sedai usually consider channelers above level {{opsl|21}} as quite strong.
+
+While traveling to [[Far Madding]], Shalon observed the Aes Sedai closely. She realized their hierarchy depends on their strength in ''[[saidar]]'' {{ref/book|9|23}}. Later, she was surprised and protested when she wasn't chosen to lead the Circle over Verin at level {{opsl|23}} and Kumira at {{opsl|30}}.
+
+Both circumstances implied that Shalon was stronger than the Aes Sedai in the circle with her, at least 4-5 levels above Verin.
+
+With such strength Shalon is able to open suitable [[gateways]] for [[Traveling]].
+
+== History ==
+Shalon is married to [[Mishael]], and has a much younger sister [[Harine din Togara Two Winds]], [[Wavemistress]] of Clan Shodein, whom she raised. In fact Shalon is twenty-two years older than Harine. She has a son.
+
+==Activities==
+=== The Bargain ===
+She was one of the Sea Folk present when Harine made the Bargain with [[Rand al'Thor]], their [[Coramoor]].
+
+===Affair===
+During her time spent at the [[Sun Palace]], Shalon met and befriended [[Ailil Riatin]], a Cairhienin noblewoman. The friendship became a sexual affair; a fact the pair went to some length to conceal, due to the disgrace that Shalon's extra-marital affair would cause her.
+
+They are discovered together by Rand, shortly after the [[Asha'man]] assault on the Sun Palace and, unaware of what he has discovered, he shields Shalon and ties them up under their bed for their own safety, and for his.
+
+They are later discovered and held captive by [[Cadsuane Melaidhrin]], and mistakenly believe she is aware of their secret, unwittingly revealing it themselves. Cadsuane and [[Verin Mathwin]] both now know the true nature of their relationship and are using it to blackmail the pair into helping them.
+
+===Subsequently===
+Along with her sister Harine, as official ambassadress to the [[Dragon Reborn]], Shalon accompanies Cadsuane's group to [[Far Madding]]. There they visit the [[Hall of the Counsels]] and [[Kumira Dhoran]] explains the use of the [[Guardian]] ''[[ter'angreal]]''.
+
+Later Shalon participates in the [[Battle near Shadar Logoth]] during the [[cleansing of saidin]]. There she links with [[Verin Mathwin|Verin]] and [[Kumira]] to protect the Rand and [[Nynaeve]], patrolling the area. Shalon is by far the strongest among the three and wants to lead the circle but Verin (who secretly holds an ''[[angreal]]'') does not permit it.
+
+They are attacked by [[Graendal]] during the battle and though they are able to fight her off, Kumira is killed.
+
+She then goes with Harine, when Harine is summoned by the [[First Twelve]]. They go to [[Tear]], when the meeting was in [[Illian]] and [[Zaida din Parede Blackwing]] is elected [[Mistress of the Ships]]. Harine is punished for her bargain being found wanting with Rand. Zaida then summons the First Twelve again, where they meet with Rand's ambassador [[Logain Ablar]]. During this meeting [[Cemeille din Selaan Long Eyes]] comes with the news of the [[Amayar]] committing mass suicide.
+
+Later Rand asks Harine again as his Sea Folk ambassadress and she is seen with him in [[Bandar Eban]]. Most probably Shalon is with her.
+
+{{DEFAULTSORT:Togara Morning Tide, Shalon din}}
+{{notes}}
+[[es:Shalon din Togara]]
+[[Category:POV character]]
+[[Category:Channelers]]

@@ -1,0 +1,24 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Maid
+| affiliation=House Matherin
+| gender=Female
+| height=Tall
+| hair=Dark
+| eyes=Dark
+| appeared={{cot|10}}
+| lastappeared={{cot|10}}
+| living=cot
+}}
+'''Elsie''' is a maid that works for [[House Matherin]], in [[Andor]].
+
+==Appearance==
+Elsie is a tall woman with dark hair and dark eyes. She is in her twenties.
+
+==Activities==
+Elsie helped [[Elayne Trakand]] dress when the [[Daughter-Heir]] visited House Matherin. She screams when she sees the ghost of [[Nelein Matherin]].{{ref/book|10|10}}
+
+{{notes}}

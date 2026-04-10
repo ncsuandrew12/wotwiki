@@ -1,0 +1,12 @@
+{{swordform
+| mentioned={{2|19}}
+| used=[[Rand al'Thor]]
+}}
+{{dablink|For other uses of the words "heron" and "wing," see [[Heron]] and [[Wing]].}}
+'''The Heron Spreads Its Wings''' is a [[sword form]]. Other than the name, nothing is known about it. [[Rand al'Thor]] flowed through this form to cut down a group of [[Trolloc]]s after stealing back the [[Horn of Valere]] from [[Padan Fain]].{{ref/book|2|19}}
+
+The name of the form is probably an allusion to a common [[Wikipedia:Tai Chi|Tai Chi]] form called ''White Crane Spreads Its Wings''
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Heron Spreads Its Wings, the}}

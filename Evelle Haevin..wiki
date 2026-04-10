@@ -1,0 +1,23 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| title=Lady
+| affiliation=House Trakand
+| status=Alive
+| mentioned={{cot|13}}
+| lastmentioned={{cot|13}}
+| living=cot
+| gender=Female
+}}
+Lady '''Evelle Haevin''' is a noble from [[House Haevin]] in [[Andor]]. 
+
+==History==
+Her niece is [[Catalyn Haevin]].
+
+==Activities==
+Lady Evelle acts as an advisor to her niece.{{ref/book|10|13}}
+
+{{notes}}
+{{DEFAULTSORT:Haevin, Evelle}}
+[[Category:Nobility]]

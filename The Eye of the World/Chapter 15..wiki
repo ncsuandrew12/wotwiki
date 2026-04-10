@@ -1,0 +1,120 @@
+{{quote|Nynaeve is with Mistress Alys right now, and it's cold enough in there to snow.|[[Perrin Aybara]]}}
+
+{{summary |book=1 |ewot=ch15 | wotmania=016
+|chapter=15
+|title=Strangers and Friends
+|icon=cotl
+|setting=[[The Stag and Lion]] Inn, [[Baerlon]]
+}}
+==Summary==
+:{{pov|[[Rand al'Thor]]}}
+
+After more unpleasant dreams, [[Rand al'Thor|Rand]] finally awakens long after sunrise. Before leaving his room, Rand debates whether to take Tam's [[Heron-mark sword]] with him, but eventually decides to. He hurries downstairs, not wanting to waste any more time on his only day in the city.
+
+Looking for something to eat, Rand heads for the kitchen, where he finds Master [[Fitch]] having an argument with [[Sara]]—the inn's cook—over her cat. When the cook threatens to quit, the innkeeper quickly assures her that he will ignore further complaints from customers about her cat and she agrees to stay. After throwing Fitch out of the kitchen, she tells Rand that all but one of his friends have already gone out, as she orders a maid to get him some bread and cheese. Rand begins to eat while Sara continues to talk, but becomes agitated when the cook tells him that the innkeeper was complaining about over a dozen dead rats found in the inn, all with their backs broken.
+
+Rand begins trying to find someone to talk to about his dream. He finds [[Thomdril Merrilin|Thom]] in the common room, busy telling stories. Next he goes to find which of his friends is still in the building. [[Perrin Aybara|Perrin]] is still in bed, and he says he may never sleep again because of a nightmare he had, adding that [[Matrim Cauthon|Mat]] also tossed and turned all night. When the two find that they have had the same dream, they debate telling [[Moiraine Damodred|Moiraine]] about it, but don't reach a conclusion. Rand decides to go out to see the city, but Perrin says he intends to stay in bed a while longer.
+
+When Rand gets to the stableyard gate, however, he is overwhelmed by the crowds, the sights and smells, so he turns back and just sits on a barrel outside the back of the inn. There, he once again encounters the slender woman from the previous day, who remarks on his sword and asks him what kind of trouble he's involved in before introducing herself as [[Min Farshaw|Min]]. Rand tries to answer that he's not in any trouble—being from the [[Two Rivers]], which is a quiet place of quiet people—but the girl seems to be not listening.
+
+She says she has heard the jokes about sheepherders from the Two Rivers, but that she's also spoken with those who know better, and they say that Two Rivers folk may appear meek and soft on the surface, but are tough as oak underneath, and if one prods too hard, they find stone. She claims the stone isn't very deeply buried in Rand and his friends, as if something had scraped away the soft coverings. She also shows that she knows Moiraine and [[Lan]]'s true names.
+
+When Rand asks her why she thinks Moiraine has another name than 'Mistress Alys', she tells him about her talent. She sees things around some people she looks at that tell her about things that will happen to that person in the future. When she tells Rand about her visions concerning him and his friends, he begins to think she may be crazy. As he begins to walk away from her, Min calls to him that he can't escape her, and he starts to move even faster.
+
+Several streets away, Rand finally begins to slow down and take in the sights of the town. Rand sees that the people of [[Baerlon]] look remarkably like anyone he might have seen in the Two Rivers. After wandering around for a while, he sees a man who looks like [[Padan Fain]]; only it turns out that it really is Padan Fain, and the man runs away from Rand. Rand chases him and catches him in an alley, but the man is grimy and looks like he's been on the run. When Rand asks him to come back to the [[Stag and Lion]] where they're staying, Fain declines, begging Rand not to tell Moiraine about him, then runs away again.
+
+As Rand once again chases after Fain, he runs into [[Matrim Cauthon|Mat]] and both fall over. Mat admits to Rand that he had the same dream, and the two agree to ask the gleeman what they should do, but realize that they need to get Perrin to agree to their plan of not telling Moiraine.
+
+Rand and Mat head back toward the inn, but see three [[Children of the Light]] walking down the street toward them. Mat concludes that they seem to be too full of themselves and decides to play a trick on the trio. He climbs out a shop window onto the rooftop and uses his sling to set loose a set of barrels on the street which crash into the mud and splatter the Whitecloaks. Rand laughs and earns the ire of the three men. When they confront him, he tells them accidents happen, and throws back his cloak to reveal his sword. One of the Whitecloaks notices the heron-mark, but another scoffs that Rand is too young to have earned it.
+
+Rand is feeling flushed and feverish,{{ref|This is the reaction to when he first channeled to help Bela keep pace with the other horses in {{1|11}}.}} but just as the confrontation is about to escalate, the Whitecloaks see the [[Town Watch]] approaching and walk away. Mat returns and tells Rand he must be crazy. They try to make their way back to the inn, but get lost a couple of times before they run into Thom. They tell him about their dreams and he agrees it would be best not to tell Moiraine—yet. The three finally arrive back at the inn, where Perrin rushes out to meet them.
+
+He says that [[Nynaeve al'Meara|Nynaeve]] has come to Baerlon to find them. 
+Reluctantly, the four of them go inside to face her.
+
+==Characters==
+* [[Rand al'Thor]]
+* [[Fitch]]
+* [[Sara]] (first appearance)
+* [[Ciel]] (first appearance)
+* [[Thomdril Merrilin]]
+* [[Perrin Aybara]]
+* [[Mutch]]
+* [[Min Farshaw]]
+* [[Padan Fain]]
+* [[Matrim Cauthon]]
+* [[Dain Bornhald]] - as ''Lord Bornhald'' (first appearance)
+
+===Referenced===
+* [[Tam al'Thor]]
+* [[al'Lan Mandragoran]]
+* [[Cirri]] (animal)
+* [[Moiraine Damodred]]
+* [[Bili Congar]]
+* [[Jon Thane]]
+* [[Samel Crawe]]
+* [[Brandelwyn al'Vere]] - as ''Master al'Vere''
+* [[Eward Congar]]
+* [[Guaire Amalasan]]
+* [[Raolin Darksbane]]
+* [[Davian]]
+* [[Yurian Stonebow]]
+* [[Logain Ablar]]
+* [[Lews Therin Telamon]]
+* [[Artur Hawkwing]]
+* [[Nynaeve al'Meara]]
+* Master [[Hightower]]
+* [[Abell Cauthon]] - as ''Mat's da''
+* [[Dark One]] - as ''Ba'alzamon''
+
+==Groups==
+* [[Warder]]s
+* [[Aes Sedai]]
+* [[Darkfriends]]
+* [[Children of the Light]]
+* [[Trolloc]]s
+* Baerlon [[Town Watch]]
+
+==Places==
+* [[Baerlon]]
+* [[Stag and Lion]]
+
+===Referenced===
+* [[Emond's Field]]
+* [[Winespring Inn]]
+* [[Illian]]
+* [[Watch Hill]]
+* [[Two Rivers]]
+* [[White Tower]]
+* [[Caemlyn]]
+* [[Wagon Bridge]]
+* [[Borderlands]]
+
+==Events==
+===Referenced===
+* [[Bel Tine]] - as ''Festival''
+* [[Winternight]]
+
+==Items==
+* [[Heron-mark sword]]
+
+===Referenced===
+* [[Horn of Valere]]
+* [[Eye of the World]]
+
+==Concepts==
+* [[Light]]
+* [[High Chant]]
+* [[Plain Chant]]
+* [[Common]]
+* [[Pattern]]
+===One Power===
+* [[One Power]]
+* [[Amyrlin Seat]]
+
+==Culture==
+===Stories===
+* ''The Great Hunt of the Horn''
+
+{{notes}}
+{{DISPLAYTITLE:''Strangers and Friends''}}

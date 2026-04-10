@@ -1,0 +1,52 @@
+{{dablink|This page concerns the cataclysmic period. For the in-universe book, see [[The Breaking of the World (book)]]}}
+[[File:Breaking of the World.jpg|thumb|right|A small part of the Breaking of the World.]]
+{{WotQ|{{PAGENAME}}}}
+
+The '''Breaking of the World''', also known as the '''Time of Madness''', was a period when male [[Aes Sedai]] destroyed much of the world, ending the [[Age of Legends]], and heralding the beginning of the [[Third Age]].
+
+==Beginning==
+The Breaking began the day of the Strike on [[Shayol Ghul]], when [[Lews Therin Telamon]] and his [[Hundred Companions]] along with a legion of soldiers attacked Shayol Ghul in an effort to seal [[the Bore]] into the [[Dark One]]s' prison. They succeeded, but in the last moment the Dark One managed to [[taint]] ''[[saidin]]'' and sixty-eight companions along with Lews Therin went instantly mad.
+
+Some time later, after giving up hope for stopping and curing male Aes Sedai from madness, it was decided to save the most precious ''[[angreal]]'', ''[[sa'angreal]]'' and ''[[ter'angreal]]''. While some artifacts were loaded into stasis boxes, many others had been loaded onto [[Da'shain Aiel]] wagons. At the same time, it was also decided to construct the [[Stone of Tear]] and the [[Eye of the World]].
+
+The construction of The [[Guardian]] can be also dated to this period.
+
+==During the Breaking==
+In their insanity, the male Aes Sedai used the [[One Power]] to destroy mountains and raise new ones, to drain oceans and flood dry land. Cities were wiped out and civilization completely collapsed during this time, only re-establishing itself in primitive form after the last of the male Aes Sedai were dead. Language maintained some cohesion, however, due to the continued printing of writings in the [[Old Tongue]] during the chaos of the period.
+
+The duration of the Breaking is a matter of great debate amongst historians. However, it is generally held that the Breaking lasted no less than 239 years and no more than 344, so its effects spanned around three centuries.
+
+It is unclear why the men were not more easily subdued and killed by the female Aes Sedai during this period. Some attempts were made to persuade them (ten thousand Aiel died while dancing and singing to a mad male Aes Sedai at Tsora, giving the citizens of that city time to escape). Although women are usually individually weaker in the One Power, they could have linked and [[Severing|severed]]/killed the men who were destroying the world. Some think most of the men would be too insane to remember where the ''angreal'' and ''sa'angreal'' were, while we know the female Aes Sedai had great stores of them. Lews Therin Telamon could remember perfectly well how to create weaves for killing, proving most of his knowledge of the One Power was still intact. Rhuidean is evidence that they had ''angreal'' and ''sa'angreal'' stockpiled. Perhaps, since only the one hundred surviving [[Hundred Companions|Companions]] went mad immediately, the remaining male Aes Sedai in the rest of the world began to stock ''angreal'' and ''sa'angreal'' as the female Aes Sedai began to capture and gentle the men.  It seems likely that at least some of the men had ''sa'angreal''. ''[[Callandor]]'', one of the most powerful ''sa'angreal,'' could level a city.
+
+Given that Aes Sedai lived for 700 years or even longer during the Age of Legends, it is believed possible that some female Aes Sedai who had been alive during the [[War of the Shadow]], or even before the [[Bore]] had been created, could still have lived at the end of the Breaking. However, with the possible exception of some of the Aes Sedai involved in the construction of the city of [[Rhuidean]], this does not appear to be the case. It is unclear why. The remaining living (female) Aes Sedai formed the [[White Tower]].
+
+==''Stedding'' controversy==
+
+Some male Aes Sedai escaped the madness by staying in [[Ogier]] ''[[stedding]]s'', but they eventually left and went mad, thus prolonging the Breaking, according to some. Other scholars state that this allowed the world to recover from those already mad, and that if all had gone mad at once, the world would not have survived. For their service, the Ogier were given the gift of the [[Talisman of Growing]], by the last male Aes Sedai, and with it the ability to create [[waygates]] to enter the [[Ways]].
+
+Aes Sedai of the [[Red Ajah|Red]] and [[Blue Ajah]] traditionally hold differing views of the Ogier help, with Reds acceding to the former, and Blues to the latter.
+
+==Effects on Ogier==
+The Ogier also suffered from the Breaking. All were separated from the ''stedding'', for while the One Power had no effect within a ''stedding'', when a madman creates a volcano outside the ''steddings'' boundaries, or shatters the earth around it, there is nothing left to do but run. Unfortunately, the Ogier were bound to the ''stedding'' in ways not understood. The years of the Breaking would be called the "[[Long Exile]]" by the Ogier of the lands of the west of "[[Randland]]", and would leave them with the [[Longing]], restricting them from journeying away from the ''stedding'' for long periods of time, ever again.
+
+===Ogier in other continents===
+The Ogier of [[Seanchan]] were affected differently, as there were many more ''stedding'' in that area. Because of this, Ogier from Seanchan do not suffer the Longing.{{ref|[http://13depository.blogspot.com/2009/03/tor-questions-of-week.html Tor.com's question of the week]}} Their military nature may be due to the fact that they do not need to care for trees as Mainland Ogier do.
+
+It is unknown if there are any Ogier in [[Shara]] or the [[Mad Lands]]. Presumably the Ogier in the Mad Lands were killed by the mad men. Some speculate that the Mad Lands is an area the surviving male Aes Sedai fled, in an attempt to seek refuge from the female Aes Sedai and rebuild. If so the intended effect was not achieved.
+
+==After the Breaking==
+The Breaking officially ended when the last male Aes Sedai died.
+
+Much of the world was completely changed, and most of the world's population died in the upheaval. The glorious civilization of the Age of Legends had disappeared in three hundred years of blood and fire.
+
+Among the geographic changes, the great [[World Sea]] had disappeared (although some hold that the [[Aryth Ocean]] partially lies across its former extent) and many "new" mountain ranges had formed. These mountains, formed in three centuries or less under very violent seismic shifts, can be identified as being very jagged and show little sign of erosion. "New" mountain ranges in the [[Westlands]] include the [[Damona Mountains]] in [[Altara]] and the [[Mountains of Dhoom]] in the far north.
+
+After the Breaking there was a feeling that the glories of the prior Age might come again, and indeed, civilization would return, with the construction of great Ogier-built cities like [[Tar Valon]] and [[Al'cair'rahienallen]].
+
+== External links ==
+*{{TVlink|Breaking of the World}} on {{TVlink}}
+
+{{notes}}
+[[es:Desmembramiento del Mundo]]
+[[Category:Second Age]]
+[[Category:After the Breaking]]

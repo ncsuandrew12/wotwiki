@@ -1,0 +1,68 @@
+{{nation
+|image=[[File:KandorFlag.png|250px]]
+|name=Kandor
+|type=Monarchy
+|headofstate=Queen [[Ethenielle Kirukon Materasu]]
+|sigil=A rearing red horse; the Red Horse.
+|banner=The Red Horse on a field of pale green.
+|region=between [[Saldaea]] and [[Arafel]]
+|interest=[[Plain of Lances]], [[Blight]]
+|capital=[[Chachin]]
+|cities=[[Canluum]], [[Ravinda]], [[Manala]]
+|demonym=[[Kandori]]
+|formed=Early [[War of the Hundred Years]]
+}}
+
+'''Kandor''' is one of the four [[Borderlands|Borderland]] nations which lie on the threshold of the Great Blight, sitting between [[Saldaea]] to the west and [[Arafel]] to the east. The sign of Kandor is a rearing red horse on a field of pale green.
+
+==Geography==
+[[Image:12 - Kandor.PNG|thumb|200px|left|Location within the Westlands]]
+
+Kandor is located to the east of Saldaea and is bordered by the [[Plain of Lances]] to the west, a tributary of the [[Erinin]] to the east and the [[Blight]] to the north.
+
+==History==
+The nation of Kandor was formed early in the [[War of the Hundred Years]]. The governors of [[Artur Hawkwing|Hawkwing's]] five northern provinces met and agreed to form stable nations to preserve the peace and defend against the [[Blight]]. [[Jarel Soukovni]] was the first King of Kandor.
+
+Kandor has a long history of participating in the trade of furs, and fox skins from Kandor are highly prized.
+
+==Culture==
+Kandori surnames often have a Slavic-inspired tone to them, often ending in the endings ''-vna'' and ''-vni''. Some names are East Asian-inspired, such as Noramaga and Shukosa, a trait common across the [[Borderlands]], but particularly in [[Shienar]].
+
+Certain indications imply that a child with parents of different nationality take on the nationality of their mother.
+
+Kandor is the home of a powerful [[Kandori Merchants' Guild|merchants' guild]], and many affluent merchants have their origins there. Master merchants wear three silver chains across their chest.
+
+==Government==
+The government body of Kandor is a monarchy, with the seat of power called the Throne of the Clouds. The throne is currently held by [[Ethenielle Kirukon Materasu|Queen Ethenielle]]. The throne is located in the [[Aesdaishar]] Palace in the capital, [[Chachin]].
+
+Kandor may have either a king or queen. The spouse of a Kandori ruler is a consort, called the Prince or Princess Consort. They are not an equal co-ruler, and have considerable if specifically limited and set authority. The wife of the king rules while her husband is on campaign, while the husband of the queen leads her armies into battle.
+
+The advisory council known as the Crown Council or the Council of Twelve is always an even number and traditionally, though not legally, balanced between men and women. By law, half of the council has to be commoners, usually being representatives of various guild. The council truly is advisory; the ruler has no obligation to do what it wants, but it could make considerable trouble for a ruler who wants to go too far astray.
+
+== Culture ==
+In Kandor, women ask men to marry, not vice versa. 
+
+Kandori are considered the touchiest of the Borderlanders. Duels in Kandor could have oddly specific terms and conditions. Mass duels are not unknown, wherein the last man standing is considered the victor.
+
+== Economy ==
+Kandor has a considerable mining industry in gemstones other than diamonds, including most notably sapphires, emeralds, and rubies. The city of Canluum, close to the Blight, was a rich source of gems, and home to some of the best clockmakers in the Westlands. Timber, furs, and finished wooden products are major exports.<ref name="comp">[[The Wheel of Time Companion]], Kandor.</ref>
+
+==Settlements==
+*[[Chachin]], the capital
+*[[Canluum]], city
+*[[Ravinda]], village
+*[[Manala]], village
+
+
+{{Notes}}
+
+==External links==
+*{{TVlink|Kandor}} on {{TVlink}}
+
+
+{{nations}}
+
+[[es:Kandor]]
+[[Category:Nations]]
+[[Category:Kandor| Kandor]]
+[[Category:Borderlands]]

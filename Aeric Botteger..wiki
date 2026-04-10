@@ -1,0 +1,15 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| status=Unknown
+}}
+
+'''Aeric Botteger''' is a [[Two Rivers]] resident who appears in [[Nynaeve al'Meara]]'s test for the shawl. He may or may not be someone who exists in the real Two Rivers.
+
+==Trivia==
+The character is named after reader Eric Boettger.<ref>Brandon Sanderson's Twitter, 3 June 2010. [https://twitter.com/brandsanderson/status/15311005159]</ref>
+[[Category:Characters named after fans]]
+{{DEFAULTSORT:Botteger, Aeric}}

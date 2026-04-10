@@ -1,0 +1,25 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| ewot=Fionnda
+| nationality=Tairen
+| gender=Female
+| title=[[High Lady of Tear]]
+| status=Alive
+| eyes=Iron
+| appeared={{loc|19}}
+| lastappeared={{cot|p}}
+| living=cot
+}}'''Fionnda Annariz''' is a High Lady of [[Tear]].{{ref|{{twotc}}, Fionnda Annariz}}
+
+==Appearance==
+She is pretty and has iron eyes.
+
+==Activities==
+She is one of the High Ladies sent to [[Cairhien]].
+
+She is seen by [[Samitsu Tamagowa]] in close conversation with [[Alaine Chuliandred]] in the [[Sun Palace]]. This is strange as it shows the old animosities between the Tairen and Cairhienin nobility breaking down. Whether this is for good or ill remains to be seen.
+
+{{notes}}
+{{DEFAULTSORT:Annariz, Fionnda}}
+[[Category:Nobility]]

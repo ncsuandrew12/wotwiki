@@ -1,0 +1,27 @@
+{{character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Amadician
+| title=King and [[Defender of Amadicia]], [[Guardian of the Southern Gate]]
+| rank=King
+| gender=Male
+| hair=Dark, wavy, receding
+| build=Delicate
+| mentioned={{tfoh|16}}
+| appeared={{loc|p}}
+| lastappeared={{loc|p}}
+| lastmentioned={{kod|12}}
+}}
+King '''Ailron''' '''Rovere Lukan '''was said to be anointed by the Light, King and [[Defender of Amadicia]], [[Guardian of the Southern Gate]]. Although he was ruler of [[Amadicia]], it was [[Pedron Niall]] who actually held all the power.
+
+== Appearance ==
+He had receding, dark wavy hair and a long nose. He was a very delicate man.
+
+== Activities ==
+When [[Morgase Trakand]] fled [[Andor]] she sought out King Ailron in the hope of reaching an alliance with him. Their dealings always seemed to come closer to an agreement without ever quite reaching it.
+
+After the [[Seanchan]] invasion of the country in early [[1000 NE]], Ailron fled into the countryside and rallied the nation's fighting men, but his army was crushed at the [[Battle of Jeramel]]. Ailron was killed in the fighting.
+
+[[es:Ailron]]

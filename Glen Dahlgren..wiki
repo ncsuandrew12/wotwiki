@@ -1,0 +1,23 @@
+{{Quote|quote=The fact that we shipped anything at all is kind of a miracle.|speakers=Glen Dahlgren|other_refs={{ref||pcgamer}}}}
+
+'''Glen Dahlgren''' is a video game developer and novelist. His relevance to ''The Wheel of Time'' stems from being the driving force behind the development of [[The Wheel of Time (video game)]] and the various interactions he had with [[Robert Jordan]] in the process.{{ref|{{Cite/web
+| url = https://www.pcgamer.com/games/fps/inside-the-astonishing-development-of-1999s-the-wheel-of-time-fps-the-fact-that-we-shipped-anything-at-all-is-kind-of-a-miracle/
+| title = Inside the astonishing development of 1999's The Wheel of Time FPS
+| accessdate = {{Date|2025-10-7}}
+| author = [[Rick Lane]]
+| date = {{Date|2025-10-4}}
+| publisher = {{Link|url=https://pcgamer.com|text=''PC Gamer''}}
+| language = English
+}}|pcgamer}}
+
+{{Quote|quote=Dahlgren returned to work feeling confident the project was saved. Then he received what he calls "The Fax of Doom". This reiterated all of Jordan's original concerns in even more definitive fashion, seemingly putting an end to the whole project.|speakers=Rick Lane|other_refs={{ref||pcgamer}}}}
+
+== See also ==
+
+* [[Rick Lane]]
+
+{{notes}}
+{{short}}
+[[Category:Real-world content]]
+[[Category:Real people]]
+[[Category:Exegetic]]

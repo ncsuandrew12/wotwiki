@@ -1,0 +1,8 @@
+'''The Farrier's Green''' is a [[tavern]] in [[Caemlyn]]. It was the location where [[Jowdry]] was murdered by the ''[[gholam]]''. [[Matrim Cauthon]] heard of this when he was dicing in the city.{{ref/book|13|8}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Farrier's Green, The}}
+[[Category:Taverns]]
+[[Category:Andor]]
+[[Category:Caemlyn]]

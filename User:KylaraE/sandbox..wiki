@@ -1,0 +1,66 @@
+[ timeline notes ]
+
+== ''The Eye of the World'' ==
+The main events of the first book, ''[[The Eye of the World]]'', take place entirely in 998 NE beginning with Winternight.<ref>''[[The World of Robert Jordan's The Wheel of Time]]''. Chapter 14: The New Era. "... in 998, Trollocs, not seen outside of the Borderlands since the Trolloc Wars, suddenly appeared in Emond’s Field, a small farming village in Andor ..."</ref> The following timeline places "Day 0" as the start of chapter 1.
+
+{| class="wikitable"  style="color: black; background-color: #b0b0b0;"
+|- style="background-color: #666666; color: white;"
+! Days !! Event description !! style="min-width: 80px;" | Chapter events !! Lunar phase
+|-
+| -3 || Mat sees a black-cloaked stranger.<ref>Ch01: Matrim on seeing the Myrdraal: "Three days, it’s been, and I can hardly stop thinking about him."</ref> || || 
+|-
+| -1 || Perrin sees a black-cloaked stranger at twilight.<ref>Ch03: Perrin on seeing the Myrdraal: "I saw him on the edge of the village, watching the smithy, just at twilight yesterday."</ref> Moiriane and Lan arrive in the evening.<ref>Ch02: On Moiraine and Lan's arrival: "They arrived last evening"</ref> Thom arrives in the dead of night.<ref>Ch01: On Thom's arrival: "Arrived in the dead of night, he did."</ref> || || 
+|-
+| 0 || [[Winternight]]. Rand sees a black-cloaked stranger. Padan Fain arrives. Emond's Field and some farms are attacked by Trollocs.
+| {{teotw|1}} - {{teotw|6}}
+| Full<ref>Ch5: "The full moon stood well above the treetops, shimmering pale and bulging as if about to fall on their heads." / "The full moon and drifting clouds made dappled shadows chase one another across the farmyard."</ref>
+|-
+| 1 || [[Bel Tine]]. At dawn, Rand arrives in Emond's Field.<ref>Ch07: "Gray first light came while Rand still trudged through the forest."</ref> He sleeps until twilight.<ref>Ch9: "Twilight darkened the window; the moon was well up, round and fat, and evening stars sparkled above the Mountains of Mist."</ref> That night, Moiraine, Lan, Rand, Perrin, Mat, Egwene, and Thom leave Emond's Field. They cross the River Taren and sleep an hour.<ref>Ch13: "No sooner did he lean back against the log wall, though, than sleep rolled him under. When Lan poked him awake an hour later he felt as though he had had three days rest." ... "Before the sun was twice its own height above the horizon, all traces that anyone had ever stopped there had been cleared away and they were all mounted and moving north toward Baerlon"</ref>
+| {{teotw|7}} - {{teotw|13}} ||
+|-
+| 2 || In the morning, the group heads on toward Baerlon, going out of their way to avoid being seen. That evening, Lan begins teaching the boys how to use their weapons,<ref>Ch13: "Always they halted while light still clung to the sky" ...  "At their first stop, before the sun sank, Lan began teaching the boys what to do with the weapons they carried."</ref> and Thom begins teaching them how to juggle.<ref>Ch13: "The horses’ slow walk allowed Mat to practice juggling three small stones under Thom Merrilin’s watchful eye. The gleeman had given lessons each night, too, as well as Lan."</ref>
+| {{teotw|13}} || 
+|-
+|3 || ''Estimated:'' In the morning, Egwene stops braiding her hair.<ref>Ch13: "There was the morning that Egwene awoke and began unbraiding her hair." </ref>
+| {{teotw|13}} || 
+|-
+| 5 || ''Estimated:'' At night, Mat wonders if the trollocs are no longer following them. Moiraine tells the three boys that she will destroy them rather than let the Dark One have them.<ref>Ch13, night after the events of Egwene no longer braiding her hair: "Two nights later, with the fire burning low, Mat licked the last crumbs of cheese from his fingers and said, “You know, I think we’ve lost them for good.” ... "A few days respite, and you are ready to give up." ... "Before I let the Dark One have you, I will destroy you myself."</ref>
+| {{teotw|13}} || 
+|-
+| 6 || ''Estimated:'' Rand eavesdrops on one of Moiraine and Egwene's conversations.<ref>ch13, after the event of Moiraine telling the boys she'd destroy them: "One night, he waited until the other men had all settled down" and Rand "slipped away, clutching his blanket around him" to eavesdrop on Moiraine and Egwene.</ref>
+| {{teotw|13}} || 
+|-
+|7 || The group arrives in Baerlon.<ref>Ch13: "On into the sixth day the slow journey stretched." ... "They had topped a low hill, and below them, a scant mile away through the stark trees and the stretching shadows of evening, lay Baerlon."</ref> They stay at The Stag and Lion. That night, Rand, Mat, and Perrin all have their first dream of Ba'alzamon.
+| {{teotw|13}} - {{teotw|14}} || 
+|-
+| 8 || Rand speaks with Perrin, who had the same dream. He meets Min, encounters Padan Fain, and faces Whitecloaks.<ref>Ch15.</ref> Nynaeve catches up to them at the inn.<ref>Ch16</ref> That evening, they all dance, and begin to retire just before midnight.<ref>Ch17: About dancing that night: "Toward midnight Moiraine left."</ref> A Fade confronts Rand in the hallway.<ref>Ch17: "As he came out of the kitchen, drinking, a shape in dull black started toward him down the length of the hall, raising pale hands to toss back the dark cowl that had hidden the face beneath."</ref> The group leaves Baerlon that night, taking the Caemlyn Road. The Stag and Lion is set on fire behind them. A couple hours before dawn, they rest for one hour.<ref>Ch17: "All was still pitch-dark when the Warder finally led them off the packed dirt of the road and dismounted. Rand estimated there were no more than a couple of hours till dawn." ... “One hour,” Lan warned as everyone except him was wrapping up in their blankets. He would stand guard while they slept. “One hour, and we must be on our way.”</ref>
+| {{teotw|15}} - {{teotw|17}} || 
+|-
+| 9 || Pre-dawn, the groups continues east on the Caemlyn Road.<ref>Ch17: "It was still the dark just before dawn, but once the blankets were rolled and strapped behind their saddles Lan had them riding east again."</ref> Nynaeve begins trying to talk to Moiraine about herbs.<ref>Ch18: "after ignoring the Aes Sedai completely for the first day, Nynaeve had spent the last two trying to talk to her about herbs."</ref>
+| {{teotw|18}} || 
+|-
+| 11 || Still traveling east on the Caemlyn road,<ref>Ch18: Low hills appear midday on day 9, and continue for two days to day 11: "by midday the road entered low hills. For two days the road ran through the hills—cut right through them, sometimes, if they were wide enough to have made the road go much out of its way and not so big as to have made digging through too difficult."</ref> trolloc horns sound to the west (behind them). They head north toward the Arinelle, and fight trollocs and a Fade. Mat speaks the old tongue for the first time. They change direction and take shelter in Shadar Logoth.<ref>Ch18.</ref> The boys encounter Mordeth and Mat steals a dagger, unknown to the others at the time. That night, they leave again because the Trollocs have entered the city.<ref>Ch19.</ref> The party is separated by Mashadar. Rand, Mat, and Thom get to a ship on the Arinelle.<ref>Ch20</ref>
+| {{teotw|18}} - {{teotw|20}} || 
+|-
+| 12 || At sunrise,<ref>Ch21: "Sunrise creeping across the River Arinelle found its way into the hollow not far from the riverbank where Nynaeve sat with her back against the trunk of a young oak, breathing the deep breath of sleep."</ref> Nynaeve finds Moiraine and Lan, and they set off south, following the river downstream after two of the boys (Rand and Mat).<ref>Ch21: "Lan, we must be going. South, I think."</ref> After sunrise,<ref>Ch22: "In a small copse of trees, beneath a pile of cedar branches roughly cut in the dark, Perrin slept long after sunrise."</ref> Perrin meets up with Egwene across the river, and instead of Whitebridge, they set off directly toward Caemlyn.<ref>Ch22: “If this is where we are now, and that is Whitebridge,” he stabbed the ground twice with his finger, “then Caemlyn should be somewhere around here.” ... “Caemlyn?” ... “Caemlyn. ... Away from the river, and straight across. Nobody would expect that. We’ll wait for them in Caemlyn.”</ref>
+| {{teotw|21}} - {{teotw|22}} || 
+|-
+| 13 || Elyas begins watching Perrin and Egwene, unseen from a distance.<ref>Ch23: On the evening they meet, Elyas indicates he's been following them for two days: "You and your friend might as well sit and have a bite. I haven’t seen you eat much the last couple of days.” Perrin responds, “You’ve been watching me for two days?” Elyas: "Yes, I been watching you."</ref>
+|| || 
+|-
+| 15 || 
+On ''Spray'', Rand does some acrobatics high on the mast.<ref>Ch24: "Four days into their trip downriver found Rand atop the mast, sitting on the blunt end with his legs wrapped in the stays."</ref> He discovers Mat has the dagger from Shadar Logoth.<ref>Ch24: “Where did you get that?” Mat said nothing, looking quickly to see if anyone else was close by. They were alone, for a wonder. “You didn’t take it from Shadar Logoth, did you?”</ref> In the evening, Egwene and Perrin encounter Elyas, who agrees to travel with them.<ref>Ch23: "He was walking at Bela’s head, wondering if they would find anything to eat this evening, when he first caught the smell."</ref><ref>Three days after setting out from the river (on day 12). Ch23: "Two days from the river the land changed to thickly forested hills, as gripped by the tail end of winter as everywhere else, and a day after that the hills flattened out again, the dense forest broken by glades, often a mile or more across."</ref>
+| {{teotw|23}} - {{teotw|24}} || New<ref>Ch23: "Day faded into twilight before they began to slow down, moonless darkness closing in around the fire, and then Elyas spoke." Also confirmed a few nights later, Ch25: "In the distant night the wolves howled the first thin sliver of the new moon toward the horizon, and he shivered."</ref>
+|-
+| 16 || Elyas, Perrin, and Egwene travel south toward Caemlyn.<ref>Ch23: the night before, Elyas says, "In the morning, I’ll start south with you, and so will they."</ref>
+|| ||
+|-
+| 18 || In the afternoon,<ref>Ch25: "For three days they traveled in that manner, walking and riding south and east all day, stopping only when twilight thickened." ... "Three days they journeyed, with Dapple, Hopper, and Wind bringing them rabbits and squirrels, and Elyas pointing out plants, few of which Perrin recognized, as good to eat." ... "Three days, into the afternoon."</ref> Perrin, Egwene and Elyas encounter a Tinker caravan and agree to travel with them for a time. The Tinkers tell them of a message from the Aiel about the threat to the Eye of the World.
+| {{teotw|25}} || 
+|-
+| # || Rand, Mat, and Thom arrive in Whitebridge on the ''Spray'' and learn others have been asking after them. A Fade attacks them, apparently killing Thom; Rand and Mat run out of the city gates and continue toward Caemlyn.
+| {{teotw|26}} || 
+|}
+
+== References ==
+{{Reflist}}

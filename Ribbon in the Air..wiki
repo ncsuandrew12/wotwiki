@@ -1,0 +1,8 @@
+{{swordform
+| mentioned={{2|45}}
+| used=[[Rand al'Thor]] or [[Turak Aladon]], [[Galadedrid Damodred]]
+}}
+{{dablink|For other uses of the word "air," see [[Air (disambiguation)|Air]].}}
+'''Ribbon in the Air''' is a [[sword form]]. Nothing but the name is known about this form. It was used in the duel between [[Rand al'Thor]] and [[Turak Aladon]]. The opposing side countered with [[Stones Falling from the Cliff]].{{ref/book|2|45}} [[Galadedrid Damodred]] once used this form against a [[Trolloc]].{{ref/book|13|41}}
+{{notes}}
+{{short}}

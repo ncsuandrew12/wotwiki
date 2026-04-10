@@ -1,0 +1,2 @@
+{{Link|[[Wikipedia:{{{1|Wikipedia}}}|<span class="extiw-wikipedia">{{Link/external text|{{{2|{{{1|Wikipedia}}}}}}}}</span>]]}}<noinclude>{{Documentation}}
+[[Category:Linking templates]]</noinclude>

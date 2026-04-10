@@ -1,0 +1,45 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Unknown nationality
+| occupation=Damane
+| rank=Aes Sedai
+| affiliation= Seanchan
+| build=Slim
+| status=Alive
+| mentioned={{ns|6}}
+| appeared= {{ns|11}}
+| lastappeared={{wh|28}}
+| living=wh
+| ewot=ryma
+|birth = 902 NE|hair = Dark|eyes = Blue}}
+'''Ryma Galfrey''' was an [[Aes Sedai]] of the [[Yellow Ajah]] who is now a ''[[damane]]''. 
+
+==Appearance==
+She is slim and elegant, with dark hair and blue eyes.
+
+==Strength and Abilities==
+Ryma is [[Strength in the One Power among Aes Sedai|weak]] in the [[One Power]] for an Aes Sedai, with a strength level of {{opsl|35}}. This is too weak to [[Traveling|Travel]] without linking with another channeler.
+
+== History ==
+Ryma was born in {{ne|902}} and went to the [[White Tower]] in {{ne|917}}. After spending eight years as a [[novice]] and seven years as [[Accepted]], she was raised to the shawl in {{ne|932}}. 
+
+She is the one to announce to the other Aes Sedai that [[Tamra Ospenya]] had "died in her sleep".
+
+== Activities ==
+When the Seanchan landed at [[Falme]], she and [[Sheraine Caminelle]] were captured and made ''damane''. Ryma was renamed '''Pura''' and trained harshly.  When [[Egwene al'Vere]] was collared she met Ryma, who asked her to remember her real name. [[Bayle Domon]] witnessed the capture of Sheraine Caminelle, who screamed for Ryma to help her.{{ref/book|2|43}}
+
+After Falme fell she was taken to [[Cantorin]] where the ''[[sul'dam]]'' [[Taisa]] holds her leash. [[Suroth]] questions her on how the White Tower controls the [[Dragon Reborn]]. Suroth does not believe that Pura does not know.{{ref/book|4|1}} Later she was brought back to the [[Westlands]] after [[Amadicia]] was taken. She is now completely broken.
+
+==In the television series==
+In the television series, {{TVlink|Ryma}} is played by actress {{TVlink|Nyokabi Gethaiga}}.
+
+{{notes}}
+{{DEFAULTSORT:Galfrey, Ryma}}
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Slaves]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Damane]]

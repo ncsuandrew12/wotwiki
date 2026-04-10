@@ -1,0 +1,42 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: silver; border: 2px solid #000000; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  Mariecurie7! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''A Wheel of Time Wiki'''!. Thanks for your edit to the [[:File:Jor.gif]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Mainphramephreak|Mainphramephreak]] ([[User_talk:Mainphramephreak|Talk]]) 17:21, June 5, 2010
+|}
+
+== Redirects ==
+
+Hello! First, I'd like to thank you for taking on all of the signing reports and the interactions. Great job on that! One small thing, though. When you create a redirect, if you could please, add a category to them. All of the ones you have created have been put in [[:Category:Naming redirects]]. If you have Java enabled, at the bottom of the editing window, click on the "Add category" button and type in "Naming redirects". If you don't have Java, you'll have to add it manually. Just type <nowiki>"[[Category:Naming redirects]]"</nowiki> after the link for the target page. Let me know if you have any questions. Again, thanks for cleaning up and creating those pages. Happy editing! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:22, July 8, 2010 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}
+
+== Blog Posts ==
+Hey, How come you're adding them all again? — [[User:Fbstjoe|fbstj]] 06:30, October 18, 2010 (UTC)
+: The blogs from 2007 were never in the Wiki, so I added them. For the other ones from 2005 and 2006, if you check the description of what I did, other than fixing some formatting here and there, I mainly fixed the links to the blog on the Dragonmount site. If you weren't aware, Dragonmount updated their site about a month or so ago, and the old links to RJ's blog at Dragonmount were broken. So, I edited the Wiki entries to point to the correct URL for the blog at the new Dragonmount. I hope that explains it. [[User:Mariecurie7|Mariecurie7]] 15:50, October 18, 2010 (UTC)
+::Sure, Just gonna discuss with people whether they should be moved to a sub-namespace ([[User blog:Fbstjoe/Interviews and Blog Posts]]) — [[User:Fbstjoe|fbstj]] 19:27, October 18, 2010 (UTC)
+
+==Copyright violation==
+Hi there. About a year ago, you copied a large number of reports from an external website to this wiki. Unfortunately, all content on this wiki is licensed under a CC-BY-SA license, which allows commercial usage.
+
+I am the author of several of those reports, and never licensed them as anything. This means that they fall under regular copyright, and copying them to this wiki qualifies as a copyright violation. I'm actually not opposed to the reports appearing on this wiki, as I quite like the concept of a WoT wiki, but I do strongly oppose my work appearing under such a license (especially without my explicit say-so), and unfortunately with wikia wikis, that means my content can not appear here at all.
+
+I've asked an admin to completely remove my reports - http://wot.wikia.com/wiki/User_talk:Mainphramephreak#Copyright_violations_.28again.29 - but I figure it's also worth informing you directly, to hopefully make you more aware about copyright and licensing. If you want to copy over other people's content, the correct thing to do is to contact them beforehand to explicitly ask them if they're okay with licensing their content under the prevailing license of the wiki. I expect most people shouldn't have any problems with this; it's only a few weirdos like myself who'll actually care. :)
+
+If you've copied over more content written by other people, I'd recommend trying to contact them retroactively.
+
+Thanks. [[User:Aan`allein|Aan`allein]] 14:23, October 8, 2011 (UTC)

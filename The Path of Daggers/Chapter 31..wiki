@@ -1,0 +1,19 @@
+{{for|the chapter with the same title in ''[[The Great Hunt]]''|The Great Hunt/Chapter 50}}
+{{summary | book=8 |
+|chapter=31
+|next=Winter's Heart/Prologue
+|title=After
+|icon=Wheel
+|setting=[[Tar Valon]]
+}}
+
+==Summary==
+
+{{pov|Narrator}}
+
+Many rumors criss-cross the land, even in winter. Many are completely wrong while some that are close to the truth are the least believed.
+
+==Places==
+* [[Tar Valon]]
+
+{{DISPLAYTITLE:''After''}}

@@ -1,0 +1,17 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| gender=Female
+| occupation=Maid
+| appeared={{Tfoh|1}}
+| lastappeared={{tfoh|1}}
+| living=tfoh
+}} '''Cara''' was an [[Andor]]an maid in the service of [[High Nobility of Tear|High Lady]] [[Alteima]] while Alteima was in [[Caemlyn]].{{ref|{{twotc}}, Cara}}
+
+==Activities==
+When Alteima arrives at the [[Royal Palace of Andor|Royal Palace]] to visit with Queen [[Morgase Trakand]], Cara hurriedly exits the carriage behind Alteima to tend to the pleats of her gown. Alteima slaps Cara on the wrist with her fan, and Cara grips her wrist, holding back tears. When Alteima acts concerned, telling Cara to wait in the carriage to soothe her wrist, Cara shows her gratitude.{{ref/book|5|1}}
+
+{{notes}}
+[[Category:Short pages]]

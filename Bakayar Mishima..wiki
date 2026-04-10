@@ -1,0 +1,28 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| status=Dead
+| death={{ne|1000}}
+| hair=Yellow
+| rank=Captain
+| occupation=Soldier
+| nationality=Seanchan
+| gender=Male
+| appeared={{kod|4}}
+|lastappeared = {{tgs|p}}}}
+'''Bakayar Mishima''' was a Captain in the [[Seanchan]] army under the command of [[Tylee Khirgan]].
+
+== Appearance ==
+He had yellow hair with half a dozen scars on his face. He was hard-bitten. His grin was distorted by a scar at the corner of his mouth.
+
+== Activities ==
+He went with Tylee to meet with [[Perrin Aybara]]. They agreed to lend their troops to Perrin in order to attack the [[Shaido]] [[Aiel]] in [[Malden]].
+He then accompanied Khirgan and Perrin to [[Almizar]], where they picked up about four tons of [[forkroot]] for their plan against the Shaido.
+
+He commanded the Seanchan troops who emptied the forkroot into the aqueduct in the town of Malden. After the success of the attack they almost decimated the Shaido clan and collared several [[Wise Ones]].
+
+While on his way back to [[Ebou Dar]] he was killed by a [[Trolloc]] arrow through his neck when his Seanchan troop was ambushed.{{ref/book|12|p}}
+
+{{notes}}
+{{DEFAULTSORT:Mishima, Bakayar}}
+[[Category:Ever Victorious Army]]

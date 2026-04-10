@@ -1,0 +1,22 @@
+{{ character 
+| image=Accepted icon.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Female
+| rank=Accepted
+| build= Plump
+| status=Alive
+| affiliation=White Tower
+| appeared={{kod|2}}
+| lastappeared={{kod|2}}
+| living=kod
+}}
+'''Anemara''' is an [[Accepted]] in the [[White Tower]].
+
+==Appearance==
+She is plump.
+
+==Activities==
+She comes to visit [[Tarna Feir]] with a woman wishing to present a petition to the [[Amyrlin Seat]]. Tarna tells her to give the woman some tea and tells her to wait, but [[Elaida]] is keen to give the woman an audience because she gets so few visitors and it would be a welcome change. This woman is actually [[Beonin Marinye]] in disguise.
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]

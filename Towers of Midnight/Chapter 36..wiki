@@ -1,0 +1,56 @@
+{{summary | book=13 |
+|chapter=36
+|title=An Invitation
+|icon=Gullsrev
+|setting=[[Tel'aran'rhiod]], [[wolf dream]]
+}}
+
+==Summary==
+
+:{{pov|[[Egwene al'Vere]]}}
+[[Egwene al'Vere|Egwene]] enters ''[[Tel'aran'rhiod]]'' and appears in the [[Yellow Ajah]] quarters where [[El'Nynaeve ti al'Meara Mandragoran|Nynaeve]] is waiting for her. She asks Nynaeve to be careful in facing [[Mesaana]]. Egwene then goes to the Musician's Way in [[Tar Valon]]. There she meets up with a group of [[Aes Sedai]], [[Wise One]]s and [[Windfinder]]s. [[Shielyn din Sabura Night Waters]] guesses the point to this meeting was that now it is known that Windfinders can channel, the [[White Tower]] will now want them. Egwene agrees which surprises everyone. After dancing round the point, Egwene finally puts forward her proposal. 
+*Two [[Accepted]] from the White Tower would train with the Sea Folk where they would learn all their advanced weaves of [[Air]]. Two Sea apprentices would go to the White Tower to train. There would also be the same exchange of two for two between the Aes Sedai and Wise Ones, where they would learn how to use ''tel'aran'rhiod''. This would also be repeated with the Wise Ones and the Sea Folk. The women would train for a period of between six months to two years. At the end of this they would return to where they originally came from and train there for a year. At the end of this period they can then decide where they want to end up living.
+*Egwene also wishes to modify the bargain the Aes Sedai made with the Sea Folk over the [[Bowl of the Winds]]{{ref/book|7|39}}. The Sea Folk can keep the dream ''[[Ter'angreal]]'' that Egwene has lent them in order to come to ''tel'aran'rhiod''. In return, it would be Sea Folk Aes Sedai who would train the Sea Folk, rather than any other Aes Sedai.
+*Any ''ter'angreal'' that are the property of that society already (eg the [[Glass columns]] in [[Rhuidean]]) would remain that societies.
+
+Egwene uses [[Rand]] and the [[Seanchan]] as reasons why they all need to work together. Egwene knows her decrees are law, but would still like the support of the [[Hall of the Tower]]. They should look more favorable on this proposal if Egwene had get the bargain with the Sea Folk effectively modified. The Sea Folk disappear to discuss these proposals. [[Amys]] believes the Wise Ones will agree to Egwene's proposals and pledge to send their strongest women to be trained. Egwene then discusses these details with the other Aes Sedai present. [[Yukiri Haruna]] believes the Hall will balk. Egwene explains that the end of an [[Age]] is coming and that so many more [[Talent]]s are returning. These could also return to the Sea Folk or Wise Ones, or even the [[Asha'man]]. Egwene vows that the White Tower will guide all these all societies into the new Age. Suddenly [[Siuan Sanche]] appears with dress singed. The battle has begun.
+
+:{{pov|[[Perrin Aybara]]}}
+[[Perrin Aybara]] races away from [[Slayer]]. An arrow grazes Perrin's shoulder and Slayer appears beside him but Perrin manages to escape. He realizes he cannot just hide the [[dreamspike]] as Slayer will just find it. Perrin vows he will kill Slayer. He looks to the horizon and sees the White Tower. The maze like terrain might give Perrin an advantage. He then races towards it.
+
+==Characters==
+*[[Egwene al'Vere]]
+*[[Nynaeve al'Meara]]
+*[[Amys]]
+*[[Bair]]
+*[[Melaine]]
+*[[Leane Sharif]]
+*[[Yukiri]]
+*[[Seaine Herimon]]
+*[[Shielyn]]
+*[[Renaile din Calon Blue Star]]
+*[[Perrin Aybara]]
+*[[Slayer]]
+
+===Referenced===
+*[[Mesaana]]
+*[[Elayne Trakand]]
+*[[Siuan Sanche]]
+*[[Faile Aybara]]
+
+==Places==
+*''[[Tel'aran'rhiod]]''
+*[[Wolf Dream]]
+
+===Referenced===
+*[[Tar Valon]]
+*[[Emond's Field]]
+
+==Items==
+*[[Dreamspike]]
+
+===Referenced===
+*[[Bowl of the Winds]]
+
+{{Notes}}
+{{DISPLAYTITLE:''An Invitation''}}

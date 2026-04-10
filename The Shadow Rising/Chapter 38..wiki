@@ -1,0 +1,83 @@
+{{quote|I told you not to question, Jaichim. A good dog obeys his mistress, yes? I promise you, if you do not you will beg me to find a Myrddraal to play with you. Do you understand me?| [[Liandrin]] to [[Jaichim Carridin]].}}
+{{summary | book=4 |
+|chapter=38
+|title=Hidden Faces
+|icon=Faces
+|setting=[[Tanchico]]
+}}
+
+==Summary==
+:{{pov|[[Egeanin Tamarath]]}}
+
+[[Egeanin Tamarath|Egeanin]] is at the [[Garden of Silver Breezes]] waiting for a report by [[Floran Gelb]]. Gelb delivers an ''[[a'dam]]'' he found, his third one, which Egeanin pays for. Once Gelb kidnapped a suspected ''[[sul'dam]]'' but he was incorrect and Egeanin had to have the lady shipped across the ocean by the [[Seanchan]] courier boats which are still arriving on a regular basis, delivering her gold and providing services.{{ref|Although the vast majority of the initial Seanchan military force, the ''[[Hailene]]'', was defeated, they are still regularly conducting operations in preparation for a renewed attack.}} The alternative would have been killing the woman. Gelb tries to get more money out of her and offers a rumor about the investiture of the new [[Panarch]] but Egeanin declines. After she dismisses Gelb, she sees a [[Sea Folk]] raker enter the harbor.{{ref|This is probably the ''[[Wavedancer]]''.}} As she gets up to leave she spots [[Bayle Domon]] and decides to wait for him to leave so he won't spot her, although she realizes it is very unlikely he will recognize her while she is wearing a mask in the [[Tarabon]] fashion. As she is leaving she sees [[Jaichim Carridin]] entering.
+
+Egeanin returns to her residence in a palanquin surrounded by guards. She looks around at the worn masses and the general desperation of the city which concerns her. She actually started donating to a soup kitchen using some of the money from the courier boats which she has no right to do and would be punished severely if found out, but she cannot help it. She burns with impatience for the Seanchan armies to return and restore proper order in this place, and cannot understand why the High Lady [[Suroth Sabelle Meldarath|Suroth]] continues to wait and do nothing substantial.
+
+: {{pov|[[Jaichim Carridin]]}}
+
+Carridin is in a meeting with noblemen from Tarabon, including King [[Andric]]. All of them are wearing masks. He still hasn't carried out the orders from the Myrddraal{{ref/book|3|p}} and members of his family are disappearing or being killed, one per month. Carridin has been asked to help restore order to the city and he is negotiating to get the best terms for [[Pedron Niall]]. [[Andric]], the King, hidden behind a mask, finally gives the assurances that Carridin seeks. Carridin will secure the Panarch's palace so that [[Amathera]] can be invested as the new [[Panarch]].
+
+After he returns to his residence, Jaichim finds [[Liandrin]] waiting for him with orders. He is afraid Liandrin is there to kill him for failing to kill [[Rand al'Thor]], whom he has failed locate. He pleads that he still has nephews, nieces, and a sister alive that should die before he does. Instead, she tells him he is to take over the Panarch's Palace and send the Panarch's Legion away.
+
+:{{pov|[[Liandrin]]}}
+
+Following her meeting with Carridin, Liandrin dreams of the day she will occupy the King's Palace. She enters the merchant's house where the eleven [[Black Ajah]] sisters are staying. There she finds [[Gyldin]] sweeping the entryway. In the withdrawing room, [[Eldrith Jhondar]], [[Marillin Gemalphin]], [[Jeaine Caide]], [[Asne Zeramene]], and [[Rianna Andomeran]] are busy with their own activities. They are searching for a means to control Rand and believe it to be in the Panarch's Palace somewhere. 
+
+:{{pov|[[Egeanin Tamarath]]}} 
+
+Egeanin enters her house and confronts an intruder using a hidden mini-crossbow. The intruder shows a token, then a tattoo that he is a [[Seeker for Truth]]. The Seeker serves High Lady Suroth and is checking on the progress of those like Egeanin who were left behind. He wishes any ''[[sul'dam]]'' Egeanin finds to disappear rather than try to return them to [[Seanchan (continent)|Seanchan]]. He then asks for any military intelligence she has.
+
+She goes to the basement where [[Bethamin]], the only ''sul'dam'' she has captured, is leashed by an ''a'dam''. Egeanin has found out that ''sul'dam'' can channel even though the Empire uses them to control women that can channel. She decides she needs to somehow confirm if all ''sul'dam'' can channel and ponder what she will do with the information, since it will create a huge upheaval within the Empire.
+
+==Characters==
+*[[Egeanin]]
+*[[Jaichim Carridin]]
+*[[Liandrin]]
+*[[Selindrin]]
+*[[Floran Gelb]]
+*[[Bayle Domon]]
+*King [[Andric]]
+* [[Gyldin]]
+*[[Eldrith Jhondar]]
+*[[Marillin Gemalphin]] 
+*[[Jeaine Caide]]
+*[[Asne Zeramene]]
+*[[Rianna Andomeran]] 
+*[[Bethamin Zeami]]
+*[[Almurat Mor]]
+
+===Referenced===
+*Lady [[Leilwin (Taraboner)|Leilwin]], a woman kidnapped by Floran Gelb
+*Lord [[Brys (Taraboner)|Brys]]
+*[[Suroth]]
+*[[Dealda]], Carridin's youngest sister
+*[[Vanora]], Carridin's sister
+*[[Pedron Niall]]
+*[[Amathera]]
+*[[Tamrin]], Military leader of Tanchico
+*[[Rand]]
+*[[Ba'alzamon]]
+*[[Siuan Sanche]]
+*[[Mat]]
+*[[Perrin]]
+*[[Chesmal Emry]]
+
+==Places==
+*[[Tanchico]]
+*[[Garden of Silver Breezes]]
+
+===Referenced===
+*[[Tarabon]]
+*[[Arad Doman]]
+*[[Amador]]
+*[[Almoth Plain]]
+*[[Tar Valon]]
+*[[Carmera]] Town where Carridin's sister Vanora lives
+*[[Falme]]
+*[[Cantorin]]
+
+==Notes==
+*At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{notes}}
+{{DISPLAYTITLE:''Hidden Faces''}}

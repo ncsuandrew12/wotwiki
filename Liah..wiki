@@ -1,0 +1,29 @@
+{{character 
+| image=Liah.jpg
+| imagesize=250px
+| death={{ne|1000}}
+| nationality=Aiel
+| society=Far Dareis Mai
+| clan=Chareen
+| sept=Cosaida
+| gender=Female
+| affiliation=Car'a'carn
+| status=Dead
+| appeared={{loc|3}}
+| lastappeared={{acos|41}}
+| lastmentioned={{tgs|37}}
+}}'''Liah''' was a [[Maiden of the Spear]] of the [[Cosaida]] sept of the [[Chareen]] [[Aiel]].{{ref|{{twotc}}, Liah}}
+
+== Appearance ==
+She had a scar on her face.
+
+== Activities ==
+She was one of Rand al'Thor's guards when he went to the Farm.{{ref/book|6|3}} Liah was one of the Maidens who followed [[Rand al'Thor]] to [[Shadar Logoth]] and was lost while there.
+
+Despite being trapped, she survived due to her nature as an Aiel, one of the people better at surviving under harsh circumstances than anyone else in the world. Her corruption by Shadar Logoth apparently gave her some protection as well.
+
+When Rand returned to Shadar Logoth while following [[Sammael]], he saw her again and was forced to use [[balefire]] on her rather than allowing her to be taken by [[Mashadar]].
+
+{{notes}}
+[[es:Liah]]
+[[Category:Balefired]]

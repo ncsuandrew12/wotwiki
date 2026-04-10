@@ -1,0 +1,17 @@
+{{character 
+| image=Leaves.png
+| imagesize=200px
+| status=Dead
+| clan=Jenn Aiel
+| gender=Female
+| mentioned={{tsr|25}}
+| lastmentioned={{tsr|25}}
+}}'''Kirin''' was the daughter of [[Morin]], the first [[Maiden of the Spear]].{{ref|{{twotc}}, Kirin}}{{ref/book|4|25}}
+
+==History==
+She was born [[Jenn Aiel]]. At five years old, she was kidnapped by people the Jenn traded with.{{ref/book|4|25}}
+
+Her father already mourned her as being dead, but her mother, [[Morin]], gave up the [[Way of the Leaf]] to rescue her.{{ref/book|4|25}} She was, presumably, rescued and raised [[Aiel]], rather than Jenn.
+
+{{notes}}
+[[Category:Historical people]]

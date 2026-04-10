@@ -1,0 +1,15 @@
+I'm inclined to believe that [[:Category:Nobility]] and [[:Category:Royalty]] may be easier to manage than:
+* [[:Category:Kings]]
+* [[:Category:Queens]]
+* [[:Category:Lords]]
+* [[:Category:Ladies]]
+* Category:Princes
+* [[:Category:Empresses]]
+* Category:Daughter-Heirs
+* Category:High Lords
+* [[:Category:High Seats]]
+* [[:Category:Wavemistresses]]
+* [[:Category:Firsts of Mayene]]
+* etc...
+
+Nobility have granted titles, and Royalty are in charge of autonomous regions. Not quite sure what to do with [[Amyrlin]] or Far Madding Councillors, but that is no better under the present system. Then we just crosslink them with some gender-specific role, if necessary... [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 23:16, 23 Dec 2005 (UTC)

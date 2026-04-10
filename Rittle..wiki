@@ -1,0 +1,25 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=200px
+| nationality=Andoran
+| gender=Male
+| occupation=Gambler
+| build=
+| hair=
+| affiliation=
+| appeared={{tom|31}}
+| lastappeared={{tom|31}}
+| living=tom
+| status=Alive
+}}
+'''Rittle''' is a gambler who frequents [[The Dusty Wheel]].
+== Appearance==
+He smells like garlic.
+== Activities ==
+Rittle plays dice with [[Mat Cauthon]] at The Dusty Wheel. Mat rolls five ones, and Rittle tells him that he has lost, but Mat knows he has really won. After Rittle realizes who Mat is, he exits the inn in a hurry with his friends, leaving money for Mat.{{ref/book|13|31}}
+== Trivia ==
+* Rittle is named for Michael Rittel, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Short pages]]
+[[Category:Characters named after fans]]
+[[Category:Dice]]

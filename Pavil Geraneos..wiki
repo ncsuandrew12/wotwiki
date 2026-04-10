@@ -1,0 +1,21 @@
+{{character 
+| image=IllianFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Illianer
+| occupation=Merchant
+| gender=Male
+| eyes=Dark
+| appeared={{kod|20}}
+| lastappeared={{kod|20}}
+| living=kod
+}}
+'''Pavil Geraneos''' is a jewel merchant from [[Illian]].
+
+==Appearance==
+Pavil is a young man with dark eyes and a clean shaven face.
+
+==Activities==
+Pavil and [[Jeorg Damentanis]] negotiate with [[Weilin Aldragoran]] to purchase gems. They were at an inn called [[The Queen's Lance]] in [[Kayacun]], a city in [[Saldaea]].
+
+{{DEFAULTSORT:Geraneos, Pavil}}

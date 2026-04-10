@@ -1,0 +1,40 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=
+| ajah=Gray
+| nationality=Domani
+| rank=Aes Sedai
+| gender=Female
+| affiliation=Unaligned sisters
+| hair=
+| build=Stout
+| status=Alive
+| mentioned=The Wheel of Time Companion
+| living=tgs
+|birth = c. 800 NE|height = 5'2"}}'''Shahal Comanli''' is an [[Aes Sedai]] of the [[Gray Ajah]].{{ref|{{twotc}}, Shahal Comanli}}
+
+== Appearance and Personality==
+She was 5'2" tall and quite stout, with copper skin. Shahal had a flirtatious streak; in fact, when she chose to flirt, men quickly forgot that she was short and stout. 
+
+==Strength==
+Shahal is [[Strength in the One Power among Aes Sedai|very weak]] in the [[One Power]], with a strength level of {{opsl|40}}. This is marginally above [[Siuan Sanche]]'s strength after she was healed from [[Stilling|Severing]].
+
+== History ==
+She was born roughly 200 years ago in Arad Doman. Nothing is known about her training, but she is likely to have been raised Aes Sedai sometime between between 835 and {{ne|845}}.
+
+== Activities ==
+Shahal Comanli was one of the unaligned sisters in [[Cadsuane Melaidhrin]]'s group in [[Cairhien]].
+
+When Cadsuane went to [[Far Madding]] searching for [[Rand]], she left Shahal Comanli, [[Silvane Redfor]], [[Rosara Medrano]] and other sisters to keep an eye on the situation in Cairhien, under the leadership of [[Samitsu Tamagowa]].
+
+==Trivia==
+Shahal Comanli is described only in "The Wheel of Time Companion". She is never mentioned in the main books of the Wheel of Time.
+
+{{notes}}
+{{DEFAULTSORT:Comanli, Shahal}}
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Characters only mentioned in the Companion]]
+[[Category:Character not mentioned in books]]

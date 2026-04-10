@@ -1,0 +1,15 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| rank=Quartermaster
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{tgs|p}}
+| lastappeared={{tgs|p}}
+| living=tgs
+}}
+'''Karm''' is a Quartermaster in the [[Seanchan]] army under the command of [[Tylee Khirgan]].
+
+== Activities ==
+After the [[Battle of Malden]] while traveling back to [[Ebou Dar]] he finds all the traveling rations have turned to dust.

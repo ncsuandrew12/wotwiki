@@ -1,0 +1,85 @@
+{{Quote|I’m no bloody assassin. I never kill a man unless he demands it—demands it with screams and thunder so loudly, I figure it would be impolite not to agree to the request. If I stab you, friend, you’ll know that it is coming, and you will know why. I promise you that.|[[Matrim Cauthon]]}}
+
+{{summary | book=14
+|chapter=11
+|title=Just Another Sell-sword
+|icon=Dice
+|setting=[[Field of Merrilor]], [[Ebou Dar]], [[Tarwin's Gap]]
+}}
+
+==Summary==
+
+:{{pov|[[Egwene al'Vere]]}}
+Egwene and [[Adelorna Bastine|Adelorna]] talk. Adelorna tells her that those among the [[Green Ajah]] that have not been supportive of her have been told to mend their ways. Adelorna tells her that her fight during the [[Battle of Tar Valon|Seanchan attack]] had shown her to have the spirit of a warrior and that the Greens should embrace it as an example. Egwene realizes that Adelorna is revealing that she is the [[Captain-General (Green Ajah)|Head of the Green Ajah]] and she feels that Egwene should have been raised from the Green. 
+
+She enters [[Gareth Bryne|Gareth's]] command tent and almost falls into a [[Gateways|Gateway]] open on the floor, looking down from above the [[Trolloc|Trollocs]]. [[Yukiri Haruna|Yukiri]] tells Egwene that she volunteered for the duty after Gareth asked if it was possible. She tells Egwene that she has been considering if it is possible to make a gateway that only allows light through, hiding it from the other side. 
+
+She looks at Gareth's battle plans and complains that he has not planned to use the [[Aes Sedai]]. He responds that he had intended them as a reserve force, but Egwene insists that the Tower has not trained for three thousand years to be a reserve force. He tells her that he has made plans that would make more use of them, but that he had not wanted to push the issue. They begin work on new battle plans, with the Aes Sedai as the main force.
+
+:{{pov|[[Matrim Cauthon]]}}
+Mat travels to [[Ebou Dar]] and notices numerous [[Tinkers]] gathered along the city's outskirts and laments that a tinker city is just wrong. He travels in disguise, concealing his ''[[ashandarei]]'' to resemble a walking pole, hiding his hat within saddlebags, and regretfully ripping the lace off his coat. He pretends to be a wounded sell-sword with a crude bandage wrapped around his [[Towers of Midnight/Chapter 54|missing eye]]. He fears that people would remember [[Gholam|Tylin's murder]], and his connection to it. He worries that [[Beslan]] will hate him now and wonders how [[Tuon]] feels about him after their time apart.
+
+He is annoyed when the gate guard waves him on without hearing the story he invented for himself. While searching for an inn to get a feel for Ebou Dar (and complaining that [[Setalle Anan]] no longer has an inn), he notices [[Petra Anhill]] dressed as a [[Seanchan]] soldier and guarding the gate. He almost goes over to greet the former strongman, but the uniform makes him reconsider. It was pure luck that Petra was not the one to wave him into the city. That would have ruined his plans.
+
+He contemplates entering The [[Rahad]], but the place looks different now, with guards on duty. While searching for a place to stable [[Pips]], he notices small changes to the city since the Seanchan arrived; Ebou Dar feels very different now.
+
+He enters an inn called [[The Winter Blossom]] and immediately leaves after spotting [[Deathwatch Guard]]s in uniform, fearing a run-in with [[Furyk Karede]]. After many futile attempts to find the right place, a dice game attracts him to [[The Yearly Brawl]]. [[Jame]], a Seanchan guard and [[Blademaster]], greets Mat with a distrustful glare upon his entry and receives a playful rebuke from the proprietor, [[Kathana]].
+
+Kathana queries about his missing eye and laughs at the lie he uses. Kathana calls Jame over and Mat realizes they are married and Jame confirms it. Jame interrogates Mat about events to the north, trying to get him to rethink his course of action because he suspects that Mat is an assassin after the [[Empress]]. Mat lifts the bandage, showing how his missing eye would make him a poor assassin, and asks if assassins are after [[Tuon Athaem Kore Paendrag|Tuon]]. Jame affirms this question with a tale about how he killed one who actually admitted his mission. Mat counts him as a friend and puts his hat on. After further questions, Mat learns that General [[Lunal Galgan]] is hiring the assassins, though Jame says they aren't meant to succeed. Mat leaves the inn, but not before Kathana recognizes that he is the man all the guards are looking for.
+
+:{{pov|[[Rand al'Thor]]}}
+Rand is in [[Al'Lan Mandragoran|Lan]]'s command tent in [[Shienar]] with [[Moiraine Damodred|Moiraine.]] The [[Borderlander]] soldiers burn the lands around to help slow the Trolloc advance. Moiraine wishes to know why Rand is not heading for [[Shayol Ghul]] but risking his life being at the Gap. Rand refuses to go face the Dark One before the time is right. Lan arrives and tells Rand to listen to Moiraine and leave. Rand says he would not leave yet and gives Lan two crowns, for him and Nynaeve, before opening a gateway to the battlefield. 
+
+A storm begins as the Dragon faces the Dark One's forces. Rand channels and starts destroying Shadowspawn. [[Mazrim Taim|Taim]] and other [[Dreadlords]] try to shield Rand without success. A circle then tries shielding him, but he manages to rebuff it. Rand realizes it's not the time to fight Taim and leaves through another gateway, back to Lan's tent. 
+
+==Characters==
+* [[Egwene al'Vere]]
+* [[Adelorna Bastine]]
+*[[Gawyn Trakand]]
+*[[Egeanin Tamarath]]
+*[[Silviana Brehon]]
+* [[Gareth Bryne]]
+* [[Yukiri Haruna]]
+* [[Matrim Cauthon]]
+* [[Petra Anhill]]
+* [[Jame]]
+* [[Kathana]]
+* [[Rand al'Thor]]
+* [[Moiraine Damodred]]
+* [[Al'Lan Mandragoran]]
+
+=== Referenced===
+*[[Siuan Sanche]]
+*[[Tylin Quintara Mitsobar]]
+*[[Beslan Mitsobar]]
+*[[Fortuona Athaem Devi Paendrag]]
+* [[Setalle Anan]]
+* [[Furyk Karede]]
+* [[Lunal Galgan]]
+*[[Agelmar Jagad]]
+* [[El'Nynaeve ti al'Meara Mandragoran]]
+*[[Mazrim Taim]]
+
+== Groups==
+*[[Tinkers]]
+*[[Valan Luca's Traveling Show]]
+*[[Deathwatch Guard]]
+
+==Places==
+*[[Field of Merrilor]]
+*[[Ebou Dar]]
+*The [[Rahad]]
+*[[The Winter Blossom]]
+*[[The Yearly Brawl]]
+*[[Tarwin's Gap]]
+
+==Events==
+*[[The Light of the World]]
+*[[Gholam|Queen Tylin's Murder]]
+
+==Items==
+*''[[Ashandarei]]''
+
+==Culture==
+*[[Marriage Knife]]
+*[[Blademaster#Heron Mark|Heron marked blade]]{{DISPLAYTITLE:''Just Another Sell-sword''}}

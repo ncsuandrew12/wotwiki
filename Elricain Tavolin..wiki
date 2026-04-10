@@ -1,0 +1,23 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| occupation=Soldier
+| gender=Male
+| status=Alive
+| hair=Shaved
+| appeared={{tgh|21}}
+| lastappeared={{tgh|25}}
+| living=tgh
+}}
+'''Elricain Tavolin''' is an officer under the command of [[Aldrin Caldevwin]] in the [[Cairhienin]] army. His banner bears two crossed white bars.
+
+== Appearance ==
+His hair is shaved in the fashion of a Cairhienin soldier.
+
+== Activities ==
+He is assigned by [[Aldrin Caldevwin]] to be [[Rand al'Thor]]'s escort during Rand's ride to [[Cairhien]].{{ref/book|2|21}} He brings Rand to a gatehouse to register upon arriving.{{ref/book|2|25}}
+
+{{notes}}
+
+{{DEFAULTSORT:Tavolin, Elricain}}

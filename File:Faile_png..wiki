@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://cloodsama.deviantart.com/art/Faile-t-Aybara-277615842
+|Description = Fan art of [[Faile Bashere]] traveling as a [[Hunter of the Horn]].
+|Artist      = CloodSama
+}}

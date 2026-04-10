@@ -1,0 +1,18 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Unknown nationality
+| status=Alive
+| rank=Officer
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| appeared={{kod|37}}
+| lastappeared={{kod|37}}
+| living=kod
+}}
+'''Admar''' is a soldier in the [[Band of the Red Hand]].
+
+==Activities==
+[[Mandevwin]] orders him to take his men up the north slope of the valley in preparation for the ambush on the Altaran conscripts.
+
+{{short}}

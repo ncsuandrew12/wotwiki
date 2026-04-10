@@ -1,0 +1,21 @@
+We describe a different format for the major characters (i.e. at least all those available from the title menu) than for the [[Template:Character/minor char model|minor character model]] because much more is known about the major characters than for the minor ones. The same guidelines apply for the sections in the minor character model, but additional section guidelines or modifications of those are detailed below. It should be stressed, however, that there should not be a set format for each major character. The main purpose of this is to provide some overall rough guidelines, especially with regard to use of subpages:
+
+==Family==
+This section can be used to detail the known members of the immediate and extended family of the character. This can be extended if there is a special political significance eg see [[Rand al'Thor]].
+
+==Relationships==
+This is used for romantic relationships or important friendships and can be suitably illustrated eg see [[Perrin Aybara]].
+
+==Activities==
+The major characters are involved in many, many events during the course of the fourteen main books and it may be too lengthy to list all of these on the character's page. In this case, it is better to create a separate chronology subpage where the activities can be listed chronologically by book eg. see [[Matrim Cauthon/Chronology]].
+
+==Notes/Custom Sections==
+The major characters tend to have many issues and questions that can be discussed in detail. In this case, it may be better to not have a notes section, but to deal with these in their own sections with custom titles. eg [[Perrin Aybara#The Axe and the Hammer|The Axe and the Hammer]]
+
+==Dreams/Viewings/Prophecies==
+Minor characters may have one or a couple of the above, whereas the major characters may have enough that they merit their own section or multiple sections.
+
+==Parallels==
+Some of the major characters have numerous parallels to mythological figures in our own world. The three main [[ta'veren]] have subpages for these parallels which are added to the [[:Category:Parallels|Parallels Category]]. If other main characters have a lengthy section on parallels, it may be worth creating a similar subpage.
+
+[[Category:Style guides]]

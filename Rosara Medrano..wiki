@@ -1,0 +1,34 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| status=Alive
+| ajah=Brown
+| nationality=Tairen
+| rank=Aes Sedai
+| affiliation=Unaligned sisters
+| gender=Female
+| height=Tall
+| hair=Black
+| appeared={{Cot|p}}
+| lastappeared={{cot|p}}
+| living=cot
+}}'''Rosara Medrano''' is a [[Tear|Tairen]] [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Rosara Medrano}}
+
+==Appearance==
+She is tall, with brown skin and black hair.
+
+==Strength and Abilities==
+Rosara has a [[One Power]] strength of {{opsl|38}}, making her [[Strength in the One Power among Aes Sedai|weak]] for an Aes Sedai. She would be unable to [[Travel]] without linking with another sister.
+
+== Activities ==
+Rosara was one of the sisters in Cadsuane's group in [[Cairhien]].
+
+When Cadsuane went to [[Far Madding]] in search of Rand, she left Rosara and other sisters to keep an eye to the situation there, under the leadership of [[Samitsu Tamagowa]].
+
+Some time later Rosara warned Samitsu and [[Sashalle Anderly]] of a party of [[Asha'man]], including [[Logain Ablar]], and Aes Sedai approaching the [[Sun Palace]]{{ref/book|10|p}}.
+
+{{notes}}
+{{DEFAULTSORT:Medrano, Rosara}}
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

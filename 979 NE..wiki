@@ -1,0 +1,136 @@
+__NOTOC__
+{{calnav}}
+
+{| class="grey" ||  || cellspacing="1" cellpadding="2"|
+|- bgcolor="#666666" valign="center" align="center"
+!Days<br />since<br />{{TEOTW|1}}!!Westland calendar!!Gregorian day!!Chapter #!!Event description!!Lunar phase
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Taisham 2
+| Dec 23
+| {{ns|14}}
+| [[Ellid Abareim]] dies while being tested for the shawl.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Taisham 3-11
+| Dec 24-Jan 1
+| {{ns|14}}
+| Over a period of time [[Kerene Nagashi]], [[Aisha Raveneos]], [[Valera Gorovni]], [[Ludice Daneen]] and [[Meilyn Arganya]] all leave [[Tar Valon]] to begin their search for the [[Dragon Reborn]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Taisham 12
+| Jan 2
+| {{ns|14}}
+| [[Sheriam Bayanar]] is raised to the shawl of the Aes Sedai and chooses the [[Blue Ajah]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Taisham 14
+| Jan 4
+| {{ns|14}}
+| [[Tamra Ospenya]] is tortured and killed by the [[Black Ajah]], which had learned of the existence of the Dragon Reborn. Knowing only that the Dragon had been reborn, the Black Ajah, led by [[Jarna Malari]], sets out to kill those Aes Sedai searching for him, and to kill any man who has the ability to channel.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Taisham 15
+| Jan 5
+| {{ns|14}}
+| The announcement of Tamra's death is made. The official explanation is that the Amyrlin died in her sleep.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Taisham 17
+| Jan 7
+| {{ns|14}}
+| [[Sierin Vayu]] of the [[Gray Ajah]] is raised to the Amyrlin Seat. Against Aes Sedai customs, Sierin does not grant relief from penances, but instead orders two sisters birched and three others exiled from Tar Valon for a year.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Taisham 20
+| Jan 10
+| {{ns|14}}
+| Moiraine approaches the new Amyrlin and requests to be removed from overseeing the payment of the bounty. The request is granted, but Moiraine is told not to leave the Tower. Moiraine leaves Tar Valon, not wanting to be an Aes Sedai puppet, on the rivership Bluewing.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="5" |
+| rowspan="5" |Aine 20
+| rowspan="5" |Apr 4
+| {{ns|15}}
+| Lan Mandragoran and Bukama Marenellin arrive in [[Canluum]], [[Kandor]]. They take rooms at The Blue Rose, and Bukama is reunited with Racelle Arovni, the innkeeper. Lan is found in The Blue Rose by [[Ryne Venamar]], a friend and survivor from [[Malkier]]. Ryne tells Lan of Lady Edeyn Arrel's raising of the flag of Malkier. Lan and Bukama are attacked by six men outside The Blue Rose. Lan defeats all six by himself. Ryne notes that some of the men were loyal to Edeyn. Lan decides to journey to Chachin to confront Edeyn.
+| rowspan="5" |<br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{ns|16}}
+| Lan Mandragoran and Bukama Marenellin arrive in Canluum, Kandor. They take rooms at The Blue Rose, and Bukama is reunited with Racelle Arovni, the innkeeper.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{ns|17}}
+| Moiraine encounters three more Aes Sedai at the inn: [[Cadsuane Melaidhrin]], [[Merean Redhill]] and [[Larelle Tarsi]]. Cadsuane is curious to know why Moiraine is in Kandor, and Moiraine implies that she is seeking her first Warder. After Moiraine makes known her intent to travel to Chachin as soon as possible, Cadsuane arranges for Merean and Larelle to accompany her. [[Siuan Sanche]] arrives in Canluum. She tells Moiraine of the deaths of the five Aes Sedai known to be searching for the Dragon Reborn, and of her suspicion regarding the death of Tamra Ospenya. Both assume the the Amyrlin and the five Aes Sedai were murdered by the Black Ajah.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{ns|18}}
+| Moiraine sends Siuan ahead to [[Chachin]] to start searching for Lady Ines.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{ns|19}}
+| Moirane sees an Arafellin man talking with an Aes Sedai at the Gates of Heaven. Unable to identify the sister, and on edge concerning the Black Ajah, Moiraine becomes curious.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Aine 22
+| Apr 6
+| {{ns|19}}
+| Intent on finding [[Avene Sahera]], Moiraine leaves Canluum without Cadsuane's escort. She sees three men ahead, including the one she had seen earlier with an Aes Sedai, but keeps her distance until they separate. Moiraine follows one of the three men into the forest in order to question him about the Aes Sedai in [[Canluum]]. Hoping to catch him by surprise she attempts to take his sword. The man, Lan, responds by throwing her into a nearby pond. Bukama and Ryne return later, and Moiraine asks the three to escort her to Chachin. Using the Power, Moiraine dumps a large portion of the pond on Lan as he stands watch over the camp. Although forced to reveal that she is Aes Sedai, Moiraine maintains her guise as Lady Alys.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Aine 23
+| Apr 7
+| {{ns|20}}
+| Lan's party arrives at Manala, a small village that is celebrating [[Bel Tine]]. They stop briefly before continuing to Chachin. 
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Aine 26
+| Apr 10
+| {{ns|21}}
+| A group of bandits waylays Lan's party. After a display of the Power by Moiraine and a threat from Lan, the bandits flee. For the fifth night in a row, Moiraine uses the Power to irriate Lan, whom she believes owes her an apology and has not shown the proper respect to an Aes Sedai.
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Aine 27
+| Apr 11
+| {{ns|21}}
+| Arriving at the village of [[Ravinda]], Moiraine finds [[Avene Sahera]] and learns that her son Migel was born at the wrong place and the wrong time to be the [[Dragon Reborn]]. Some time after leaving Ravinda, Lan is hit by an archer. The attacker, mortally wounded by [[Ryne]] and [[Bukama]], is [[Caniedrin]], a soldier who had served with Lan during the [[Battle of the Shining Walls]]. Caniedrin's dying words imply the involvement of [[Gorthanes]].
+| <br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="2" |
+| rowspan="2" |Adar 1
+| rowspan="2" |Apr 13
+| {{ns|22}}
+| Lan's party arrives at Chachin. Lan and the others part ways with Moiraine, and Lan makes his way to the [[Aesdaishar Palace]] to find [[Edeyn]]. Lan is reunited with Lady Edeyn, who pledges fealty to him in front of a large gathering that is honoring Malkier. Lan reminds Edeyn that he is not the King of Malkier. Returning to his rooms in the palace, Lan encounters Edeyn and learns that she intends to see him married to her daughter, Iselle.
+| rowspan="2" |<br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{ns|23}}
+| Siuan finds Moiraine in Chachin, and takes her back to [[The Evening Star]]. Moiraine learns that [[Ines Demain]], whose son [[Rahien Demain]] was born near [[Dragonmount]], is in mourning in the Aesdaishar Palace following the recent death of her husband. Moiraine develops a risky plan to gain access to Lady Ines. 
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| rowspan="3" |
+| rowspan="3" |Adar 2
+| rowspan="3" |Apr 14
+| {{ns|24}}
+| Moiraine, using her real name and noble status, but not revealing that she is Aes Sedai, arrives at the Aesdaishar Palace. Siuan acts as Moiraine's maid, Suki, and learns that [[Ines]] is in seclusion while mourning.
+| rowspan="3" |<br />
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{ns|25}}
+| During an audience with Prince Consort [[Brys]], Moiraine learns that Lan is the uncrowned King of [[Malkier]]. Returning to her rooms, Moiraine encounters [[Merean]], who indicates that [[Larelle]] had changed her mind about travelling to Chachin. Moiraine becomes suspicious about Larelle's fate. Moiraine meets with Lan and asks for Merean's activities to be watched. After Moiraine reveals why the Aes Sedai failed to render aid to Malkier when it was attacked, Lan agrees to have [[Bukama]] watch Merean. Siuan returns with news that Lady Ines' child had been born one day after the Aiel retreat from Tar Valon, and that Bukama had witnessed Merean in the company of Prince Brys all day.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| {{ns|26}}
+| Lan, pushed by someone wielding the Power, is almost killed in a fall down a flight of stairs, after which he is told of a serious injury to [[Bukama]]. Lan arrives to find Bukama dead from a dagger in his back. Lan confronts Moiraine about Bukama's death, and Moiraine, suspecting that Merean is Black Ajah and that Prince Brys is in danger, has Lan take her to Brys. Lan and Moiraine find Merean holding [[Brys]] and [[Diryk]] with the [[One Power]] on a walk on the outside of the palace. Also present is [[Iselle]], also held by Merean, and [[Ryne]], revealed to be a Darkfriend. Merean reveals Ryne's involvement in Bukama's death. Ryne attacks Lan, and Merean and Moiraine engage in a fight with the One Power. Shielded by Merean, Moiraine watches as Merean drops Diryk and then Brys off the walk to the rooftops below. Unable to channel, Moiraine stabs Merean as she attempts to move Iselle off the walk. Moiraine fails to catch Iselle in time and Iselle falls to her death. Lan barely defeats Ryne in combat. Moiraine disposes of Merean and Ryne's bodies, and Lan agrees to keep recent events a secret.
+|- bgcolor="#b0b0b0" valign="top" style="color: black;"
+| 
+| Adar 3
+| Apr 15
+| {{ns|e}}
+| Aesdaishar Palace mourns the sudden and unexplained deaths of Brys, Diryk and Iselle. Lady [[Edeyn]], mourning the loss of her daughter, abandons her efforts to revive the nation of [[Malkier]]. [[Siuan]] reveals that [[Rahien Demain]] was born in the wrong location to be the Dragon Reborn. Informed of Moiraine's fight with [[Merean]], Siuan deduces that the [[Black Ajah]], unaware of exactly when the Dragon was reborn, is attempting to kill any many who might be able to channel, including those that exhibit unusually good luck. Moiraine instructs Siuan to return to the White Tower and resume her work with [[Cetalia]]. Moiraine leaves Chachin and tracks down Lan outside the city. She asks him to bond to her as her [[Warder]], and then explains her quest to find the Dragon Reborn. Lan agrees and accepts the bond. The two return to Chachin, and then travel on to [[Arafel]].
+| <br />
+|}
+{{calnav}}
+[[Category:New Era chronology]]
+[[Category:Time]]

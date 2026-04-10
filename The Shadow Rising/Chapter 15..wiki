@@ -1,0 +1,81 @@
+{{quote|Go to Rhuidean, son of battles! Go to Rhuidean, trickster! Go, gambler! Go!| [[Aelfinn]] to [[Mat]] while in the [[Twisted redstone doorframe]]}}
+{{summary | book=4 |
+|chapter=15
+|title=Into the Doorway
+|icon=Dice
+|setting=[[Stone of Tear]], ''[[Sindhol]]'
+}}
+
+==Summary==
+:{{pov|[[Matrim Cauthon]]}} 
+
+[[Mat Cauthon|Mat]] searches the basements of the [[Stone of Tear]] for the [[Great Holding]] which contains the [[twisted redstone doorframe]]. He promised [[Egwene al'Vere|Egwene]] not to use it without asking Moiraine unless his "life depended on it." He now feels he is at that point because he wishes to get away from [[Rand al'Thor|Rand]] before he dies to the attacks from the [[Shadow]] or Rand going mad, but Rand's ''[[ta'veren]]'' pull is so strong that he can't leave. 
+
+Mat had contemplated the three questions that he will ask the creatures beyond the doorway. Stepping through, he enters a round hall with lofty ceilings. Abruptly, a weird-looking man appears and questions Mat to verify that no light source, no iron, and no means to create music were brought. As Mat's eyes focus, he sees that the man is actually a creature with non-human, snake-like features, known as an [[Aelfinn]].
+
+Mat realizes something seems off as his Aelfinn guide leads him. The views through the windows do not make sense, appearing to show the same landscape from each side of the corridor. Finally, he arrives in a large room with two female and one male Aelfinn atop pillars.
+
+Mat explains his dilemma; caught between the problem with the [[Children of the Light|Whitecloaks]] in the [[Two Rivers]] and Rand’s ''ta'veren'' pull. He asks his first question, "Should I go home to help my people?" They study him for a bit, then respond that he must go to [[Rhuidean]]. A bell sounds and the Aelfinn discuss someone else entering, straining the palace that they are in. They rush Mat into finishing his questions.
+
+Mat had planned to ask how to escape the [[Aes Sedai]] and recover his lost memories. But, their mysterious first answer distracts him into asking why he should go to Rhuidean. They respond that if he does not go to Rhuidean he will die. The bell tolls again as the floors shake.
+
+Again, Mat does not ask what he had planned and asks why he will die if he does not go to Rhuidean. They respond that he will have sidestepped the thread of fate and so will be killed by those who do not wish his fate to be fulfilled. Again, the bell sounds and the entire room trembles; the Aelfinn are very anxious to have him leave.
+
+He resists their attempts to physically remove him from the room and demands, "What fate? Burn your hearts, what fate?" The Aelfinn hurriedly respond to his fourth question: 
+*To marry the [[Daughter of the Nine Moons]]!{{Ref|This is fulfilled in ''[[Knife of Dreams]]'', [[Knife of Dreams/Chapter 36|Chapter 36]].}} 
+*To die{{Ref|This is fulfilled in ''[[The Fires of Heaven]]'', [[The Fires of Heaven/Chapter 54|Chapter 54]].}} and live again,{{Ref|This is fulfilled in ''[[The Fires of Heaven]]'', [[The Fires of Heaven/Chapter 55|Chapter 55]].}} and live once more a part of what was!{{Ref|This could refer to his memories of past generals and his reinstatement of the [[Band of the Red Hand]].}}
+*To give up half the light of the world{{Ref|This is fulfilled in ''[[Towers of Midnight]]'', [[Towers of Midnight/Chapter 54|Chapter 54]].}} to save the world!{{ref|This is fulfilled at the end of ''[[A Memory of Light]]'', [[A Memory of Light/Chapter 48|Chapter 48]].}}
+
+Then they name him son of battles, trickster, and gambler and reiterate that he must go to Rhuidean. They forcibly carry Mat through the halls as the bells toll twice more and the palace shakes even harder. Finally, they toss him back out the ''[[ter'angreal]]'' doorway. Mat tries to return, but now the doorway is merely an empty doorframe, infuriating him.{{ref|Egwene did not state that the doorway could only be used once.({{4|8}})}}
+
+Mat reviews their answers unhappily, preferring to marry a pig over a noblewoman. As he argues with the doorway, Rand backs out of it, wielding his channeled sword. Mat reveals that he also entered the doorway just as [[Moiraine]] steps out of the doorway. Moiraine chastises them, explaining the dangers of two ''ta'veren'' entering the doorway at the same time. She asks how they learned about the doorway and threatens to punish the [[Accepted]] who told them. Rand cites the books, ''Treasures of the Stone'' and ''Dealings with the Territory of Mayene'' as his source''.'' Mat successfully evades the question to keep [[Egwene]] out of trouble.
+
+Moiraine asks them about their answers, but Rand refuses and shares only that he needed an interpreter.{{Ref|Rand's three questions were:
+* how to cleanse ''[[saidin]]'' (see ''[[The Path of Daggers]]'', [[The Path of Daggers/Chapter 14|Chapter 14]] and ''[[Winter's Heart]]'', [[Winter's Heart/Chapter 35|Chapter 35]])
+* how to fulfill all the prophecies about the Dragon and still survive (see ''[[Lord of Chaos]]'', [[Lord of Chaos/Chapter 26|Chapter 26]] and ''[[Knife of Dreams]]'', [[Knife of Dreams/Chapter 18|Chapter 18]])
+* how to destroy the [[Dark One]] (see ''[[A Memory of Light]]'', [[A Memory of Light/Epilogue|Epilogue]])}} Mat then realizes that he understood the Aelfinn speaking [[Old Tongue]], but lies to Moiraine that he didn't get to ask any questions. She explains that the Aelfinn probably feed on the visitor's sensations, experiences, and emotions in exchange for answers. The answers are only true in regards to the questioner's own future. Moiraine offers to help interpret their probably obscure answers, but when Rand challenges her to share her questions and answers in return, she says nothing.{{Ref|Moiraine's questions were possibly:
+* how to protect Rand from Lanfear (see ''[[The Fires of Heaven]]'', [[The Fires of Heaven/Chapter 53|Chapter 53]])
+* how to escape from ''[[Sindhol]]'' (see ''[[Knife of Dreams]]'', [[Knife of Dreams/Chapter 10|Chapter 10]])
+* unknown.}} Finally, Mat asks why he couldn't go in again, but Moiraine doesn't know and leaves.
+
+Mat asks Rand whether he really will leave [[Emond's Field]] at the Whitecloaks' mercy. Rand says he will have to let Perrin deal with it, for he has other things he must do or there will be much more trouble for everyone else. Mat thinks again about needing to go to Rhuidean.
+
+==Characters==
+*[[Mat]]
+*[[Rand]]
+*[[Moiraine]]
+
+===Referenced===
+*[[Egwene]]
+*[[Nynaeve]]
+*[[Perrin]]
+
+==Groups==
+*[[Aelfinn]]
+
+===Referenced===
+*[[Whitecloaks]]
+
+==Places==
+*[[Stone of Tear]]
+*''[[Sindhol]]''
+
+===Referenced ===
+*[[Rhuidean]]
+*[[Aiel Waste]]
+*[[Mayene]]
+*[[Emond's Field]]
+
+==Items==
+*[[Twisted redstone doorframe]]
+
+==Culture==
+
+===Books===
+*[[The Treasures of the Stone of Tear]] 
+*[[Dealings with the Territory of Mayene, 500 to 700 of the New Era]]
+
+{{notes}}
+*At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''Into the Doorway''}}

@@ -1,0 +1,28 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|866}}
+| ajah=Gray
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Parenia Demalle''' was an [[Aes Sedai]] of the [[Gray Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|817}}. She held the position for forty-nine years until her death in {{Ne|866}}, the second longest reign during this era. She was [[Zeranda Tyrim]]'s successor and [[Sereille Bagand]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+==History==
+Notably, Parenia kept [[Sereille Bagand]] of the [[White Ajah]] as her [[Mistress of Novices]], though the name of her [[Keeper of the Chronicles]] and her subsequent [[Ajah]] are unknown. Sereille served excellently in the same office also during the reigns of the two Amyrlin that preceded Parenia (a [[Green Ajah|Green]] and a [[Brown Ajah|Brown]] respectively) becoming legendary in this role.
+
+Parenia was the last Amyrlin elected from the Red-Yellow-Gray axis for 160 years. From this time on the Blue-White-Green axis was very politically strong - Amyrlins were elected almost exclusively from these Ajahs in alternation (except for one Brown) until [[Sierin Vayu]] and then another two Blues. The [[Red Ajah|Reds]] could barely get even one of their allied Ajahs elected, whereas previously, more Amyrlins were raised from the [[Yellow Ajah|Yellow]] or the Gray. There was no Yellow Amyrlin in nearly 300 years and no Red since [[Bonwhin Meraighdin]] until [[Elaida do Avriny a'Roihan]].
+
+Parenia was an Amyrlin of average strength and influence. She was more interested in negotiations and treaties between nations than in the ruling of the [[White Tower]]. She still kept fairly good control in order to gain backing for her diplomatic goals.
+
+{{notes}}
+{{DEFAULTSORT:Demalle, Parenia}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

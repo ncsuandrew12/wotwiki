@@ -1,0 +1,29 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Arafellin
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| eyes=
+| status=Alive
+| mentioned=The Wheel of Time Companion
+| living=
+|ewot = nubei}}'''Nubei Peldovni''' is an [[Aes Sedai]] of the [[White Ajah]].
+
+== Strength ==
+[[Covarla Baldene]] obtained command in [[Dorlan]] because she was the strongest of the group that escaped [[Dumai's Wells]]. Therefore, it is likely that Nubei's strength level is beneath {{opsl|27}}, which is Covarla's level.
+
+== Activities ==
+An Arafellin, Nubei sedai remained loyal during the [[Tower]] split. She was sent to [[Cairhien]] to kidnap [[Rand]] and escaped Dumai's Wells with [[Covarla Baldene]]. Along her she took refuge in [[Dorlan]].
+
+==Trivia==
+Nubei Peldovni is described only in ''The Wheel of Time Companion'', she is never mentioned in the main books of ''The Wheel of Time''.
+[[Category:Dorlan Group]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

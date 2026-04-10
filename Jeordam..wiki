@@ -1,0 +1,27 @@
+{{ character | image=Aiel-icon.svg
+| imagesize=200px
+| ewothist=Jeordam
+| nationality=Aiel
+| gender=Male
+| clan=Aiel
+| status=Dead
+| appeared={{tsr|25}}
+| lastappeared={{tsr|25}}
+}}
+'''Jeordam''' was an [[Aiel]] who lived towards the end of the [[Breaking of the World]]. His story is learned from Rand's [[Visions of Rhuidean|visions]] in the ter'angreal of Rhuidean.
+
+{{Ancestry/Rand}}
+
+==History==
+He was the greatfather of [[Rhodric]], and the son of [[Lewin]], who at that time was leader of the largest sept of Aiel.
+
+Jeordam grew up knowing only the tents and guarding the Jenn; he and his father would help the Jenn if they came to them.{{ref/book|c|Jeordam}} 
+
+When a group of [[Jenn Aiel]] led by [[Morin]] sought out the help of the Aiel to rescue kidnapped kin from a village including Morin's daughter, they were met by Jeordam, who led them to the camp. There Jeordam instructed Morin in the use of a shortened spear; simultaneously inventing the short stabbing spears used by all future Aiel, including the first [[Maiden of the Spear]].{{ref/book|4|25}}
+
+Later in life, Jeordam and his greatson Rhodric were part of an Aiel group who were allowed to take water as the price of digging wells in an area that became part of Cairhien; the men who gave them water told them that the Jenn, whom the Aiel were following at a distance to protect them, were heading past the Spine of the World.{{ref/book|c|Jeordam}}{{ref/book|4|25}}
+
+He learns from [[Garam]] that the [[Jenn Aiel]] have crossed the [[Spine of the World]] and makes the decision to follow them, although he does not know what lies beyond. It is, of course, the harsh land that will become the permanent home of the Aiel.{{ref/book|4|25}}
+
+{{notes}}
+[[Category:Historical people]]

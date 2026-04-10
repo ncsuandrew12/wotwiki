@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Fan Art
+|License     = GFDL
+| ImageType2 = Character
+|Source      = http://www.dragonmount.com/Gallery/displayimage.php?album=227&pos=6
+|Description = [[Rand]] fan art done by Jeremy Saliba.
+|Artist      = Jeremy Saliba
+}}

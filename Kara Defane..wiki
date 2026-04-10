@@ -1,0 +1,40 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=150px
+| ewot=Kara
+| status=Alive
+| occupation=
+| nationality=Unclaimed territories
+| gender=Female
+| mentioned={{Wh|8}}
+| appeared={{kod|14}}
+| lastappeared={{kod|14}}
+| living=kod}}'''Kara Defane''' is a [[Wise Woman]] from [[Toman Head]].
+
+== Appearance ==
+She is plump and merry-eyed. She appears young, to be in her twenties, even though she is near fifty.
+
+== Strength ==
+Kara is of moderate strength in the One Power.<ref>[[The Wheel of Time Companion]], Kara Defane</ref>
+
+== Activities ==
+She is a [[wilder]] and was a Wise Woman in a fishing village near Toman Head who was captured by the [[Seanchan]] and made ''[[damane]]''.
+
+Kara was used by the Seanchan against the Dragon's armies in [[Altara]]. She is later captured by [[Rand al'Thor]]'s forces on the Seanchan campaign for [[Illian]].
+
+She is sent to [[Elayne Trakand]] in [[Caemlyn]] by [[Taim]]. Kara parroted the party line at first, but later allowed that she really would like the collar off.
+
+On the other hand she didn’t want to harm the ''[[sul'dam]]'' or at least some. In fact she was affected from a residue of the treatement suffered and she still felt a very strong affection, almost love, for the ''sul'dam'' who trained her and those who held the leash.
+
+Elayne and the others did not fully trust her, they are afraid that she would obey a ''sul'dam'' who ordered her to help an escape.
+
+[[Reanne Corly]] begins to take her on walks around the Caemlyn palace, to show her how to act like a free woman again.
+
+{{DEFAULTSORT:Defane, Kara}}
+[[Category:Channelers]]
+[[Category:Wilders]]
+[[Category:Sparkers]]
+[[Category:Damane]]
+[[Category:Slaves]]
+
+{{Notes}}

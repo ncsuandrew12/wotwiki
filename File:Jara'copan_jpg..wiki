@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Miscellaneous
+| Description        = Steps leading to [[Jara'copan]].
+| Source             = ''[[The Prophecies of the Dragon]]''
+| Artist             = Michael Dubisch
+}}
+[[Category:Featured images]]

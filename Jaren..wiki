@@ -1,0 +1,19 @@
+{{character | image=Leaves.png
+| imagesize=200px
+| nationality=Aiel
+| ewothist=Jaren
+| gender=Male
+| clan=Da'shain Aiel
+| status=Dead
+| mentioned={{tsr|26}}
+| lastmentioned={{tsr|26}}
+}}
+'''Jaren''' was the son of [[Adan]] and [[Siedre]].
+
+== History ==
+At aged nineteen, he killed himself by jumping off a cliff when he found he could channel, shortly after the breaking.{{ref/book|4|26}}{{ref|{{twotc}}, Jaren|comp}}
+
+==Errata==
+He is listed as [[Jenn Aiel]] in [[The Wheel of Time Companion]], but the term Jenn did not exist until decades after his death. He should be Da'shain Aiel.{{ref||comp}}
+
+{{notes}}

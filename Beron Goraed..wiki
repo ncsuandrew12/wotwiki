@@ -1,0 +1,19 @@
+{{ character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| occupation=Merchant
+| gender=Male
+| lastmentioned={{Tfoh|39}}
+| living=tfoh
+}}
+
+'''Beron Goerad''' is a rich [[Ghealdanin]] merchant.
+
+When Queen [[Teresia]] of Ghealdan was defeated in battle by [[Masema]]'s forces, Beron was dragged from his bed by a score of [[Alliandre]]'s retainers, hauled to the [[Jheda Palace]], and forced to marry Teresia early in the morning. By marrying a commoner, Teresia was rendered ineligible for the throne of Ghealdan, allowing Alliandre to be crowned that same morning. Beron and Teresia currently live at his country estate.{{ref/book|5|39}}
+
+{{notes}}
+{{short}}
+[[Category:Ghealdan (people)]]
+[[Category:Merchants]]

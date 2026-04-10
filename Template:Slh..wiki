@@ -1,0 +1,7 @@
+<table border="0" cellspacing="0" cellpadding="0" style="float:right; clear:right; margin: 0 0 .5em 1em; width:{{{2|250px}}}; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;">
+<tr><td colspan="2"><div id="infoboxinternal">
+<table border="0" cellspacing="0" cellpadding="4" style="float:right; margin:0 0 0 0; width:100%; background:#ffffff; border-collapse:collapse;">
+<tr style="text-align:center;"><td colspan="2" style="padding:0; background:{{{imageBG|{{{1|#999999}}}}}};">{{{image|}}}</td></tr>
+<tr style="text-align:center; color:#ffffff; background:{{{1|#999999}}}; font-size:larger;"><th colspan="2"><span title="{{{pronounced|No pronunciation given}}}">{{{name|{{PAGENAME}}}}}</span></th></tr><noinclude>{{delete|unused}}
+'''For substing only!''' Meta-template used for header in infobox construction.
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

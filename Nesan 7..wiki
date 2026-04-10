@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|November}}
+|{{Wotmonth|Nesan}}
+|}
+'''Nesan 7 (November 2)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:november 2|November 2]]
+
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

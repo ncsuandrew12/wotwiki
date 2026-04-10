@@ -1,0 +1,39 @@
+__NOTOC__{{nation
+|image=[[File:AlmothFlag.png|250px]]
+|name=Almoth
+|type=Unknown
+|sigil=The Tree of Life. Banner has blue above and black below.{{ref/book|twotc}}
+|region=[[Almoth Plain]]
+|interest=[[Paerish Swar]]
+|capital=
+|cities=Possibly [[Falme]]
+|demonym=Unknown
+|affiliation=[[Seanchan]]
+|era= [[New Era]]
+|formed = Likely between {{fy|994}} and {{fy|1112}}
+}}
+'''Almoth''' was a nation that arose from the [[War of the Hundred Years]] after [[Artur Hawkwing]]'s empire collapsed. 
+
+==History and Founding==
+The region containing Almoth was contained in what was [[Safer]] during the [[Ten Nations]] era and [[Darmovan]] during the [[Free Years]]. Darmovan was notable for being the region where [[Guaire Amalasan]] rose to power only a few years before the rise of  [[Artur Hawkwing]].
+
+It is unknown when Almoth was founded or who founded it. Hawkwing died in {{fy|994}} and the last of the known nations of the New Era to be founded was [[Altara]] in {{fy|1112}}. Similar to [[Arad Doman]] and [[Tarabon]], they claim connections with [[Chora|The Tree of Life]] (Avendesora). It is said that they actually had a living specimen of the tree, although this is never confirmed and likely just rumor. The tree is incorporated into their banner which is split into two horizontal stripes, blue - for the sky above - and black - for the earth below - with the spreading Tree of Life joining them.{{ref/book|2|7}} 
+
+== Location and Geography ==
+[[File:AlmothMap.png|left|250px|The region containing the former nation of Almoth.]]It lay in the present day [[Almoth Plain]] and may or may not have included [[Toman Head]]. It is bordered to the east and south-east by the [[Mountains of Mist]] and contains [[Paerish Swar]] (Darkwood) and [[Lake Somal]], also to the east. There are also [[Stedding]] within its borders. To the north is [[Arad Doman]], to the south is [[Tarabon]] and to the east are the [[Two Rivers]].
+
+== Fall of Almoth == 
+Almoth started to fade away and by {{ne|600}} only a few remnants of its people survived. By {{ne|800}}, even the ghost of the nation had dissapated, leaving no larger settlement than a village or small town.{{ref|{{Bwb}}, The World Since the Breaking}} There was no higher authority above a town Council or mayor.{{Ref/book|2|5}}
+
+The power vacuum left by the absence of any central authority led to numerous territorial squabbles between [[Arad Doman]] and [[Tarabon]] and a growing enmity between those two peoples. According to Moiraine and [[The World of Robert Jordan's The Wheel of Time]], the two nations have fought over the area for almost 300 years.{{Ref/book|2|4}} The Companion says "over 400 years".{{ref|{{twotc}}, Almoth Plain}} While all sources agree that this never became open war until {{ne|999}}, there have been at least five [[Fifth Treaty of Falme|treaties]] in an attempt to keep the peace.{{Ref/book|2|4}}{{ref/book|{{bwb}}, Within the Land, Tarabon}} [[Merana Ambrey]] was involved in one such treaty signed at Falme in {{ne|961}}, which quickly fell apart.{{ref/book|6|43}}{{ref|{{twotc}}, Falme, Fifth Treaty of}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+==Events and mentions==
+[[Pedron Niall]] intended to rebuild Almoth as part of a [[Whitecloak]] empire. Unlike [[Amadicia]], there was no existing monarch to have to mollify. Almoth and Amadicia would then be used as a political vise on Tarabon. He anticipated that the whole area would be under his control within five years.{{ref/book|3|p}}
+
+Most of the refugees that came to the [[Two Rivers]] in {{ne|999}} did so from the Almoth plain, bringing cultural elements from that region to western Andor. 
+{{notes}}<references /><references /><references />
+{{nations}}
+
+[[es:Almoth]]
+[[Category:Former Nations of the New Era]]
+[[Category:Historical nations]]

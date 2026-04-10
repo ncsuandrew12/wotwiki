@@ -1,0 +1,18 @@
+{{creature
+| image=wolf-icon.svg
+| imagesize=100px
+| ewot=Nip
+| name=Nip
+| type=pets
+| animal=Wolfhound
+| status=Alive
+| owner=Assid Bakuun
+| gender=Male
+| mentioned={{tpod|22}}
+}}
+'''Nip''' is a wolfhound owned by [[Assid Bakuun]].
+
+==History==
+Assid Bakuun once observed a ''[[sul'dam]]'' talking to her ''[[damane]]''. He likens it to him having a conversation with Nip.{{ref/book|8|22}}
+
+{{notes}}

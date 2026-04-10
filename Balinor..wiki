@@ -1,0 +1,20 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Unknown nationality
+| title=Gaidin
+| gender=Male
+| status=Dead
+| occupation=Warder
+| affiliation=White Tower
+| mentioned={{loc|11}}
+| lastmentioned={{loc|11}}
+}}
+'''Balinor''' was [[Warder]] to [[Verin Mathwin]]. 
+
+== History ==
+It took ten years for Verin to get over his death and bond another Warder, [[Tomas]].
+
+==Errata==
+Early printings of this book (and the audiobook) read "it had taken her ten years for her to get over Balinor's death and Bond [[Ihvon]], implying that Balinor was [[Alanna Mosvani]]'s Warder and not Verin's. This has been changed in later printings.
+{{short}}

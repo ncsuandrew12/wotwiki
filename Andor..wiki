@@ -1,0 +1,192 @@
+{{nation
+|image=[[File:AndorFlag.png|250px]]
+|pronounced=AN-door
+|name=Andor
+|type=Matriarchal monarchy
+|headofstate=Queen [[Elayne Trakand]]
+|commander=[[Captain-General (Andor)|Captain-General]] [[Birgitte Silverbow]]
+|sigil=A rampant white lion; the White Lion
+|banner=A white lion rampant on a field of red
+|region=Central [[Westlands]]
+|climate=Temperate
+|interest=[[Mountains of Mist]], [[Tower of Ghenjei]], [[Two Rivers]], [[Whitebridge]]
+|capital=[[Caemlyn]]
+|cities=[[Arien]], [[Aringill]], [[Baerlon]], [[Breen's Spring]], [[Buryhill]], [[Carysford]], [[Comfrey]], [[Cullen's Crossing]], [[Damelien]], [[Danabar]], [[Deven Ride]], [[Emond's Field]], [[Forel Market]], [[Four Kings]], [[Harlon Bridge]], [[Jornhill]], [[Kore Springs]], [[Market Sheran]], [[New Braem]], [[Sheldyn]], [[Taren Ferry]], [[Watch Hill]], [[Whitebridge]]
+|demonym=[[Andoran]]
+|exports=wool, precious metals and iron work, tabac, and grain
+|established={{fy|994}}
+}}
+'''Andor''' is a country in the heart of the [[Westlands]]. It is the largest and most populous country in the West. After the [[Borderlands]], it also has the largest and most well-trained army.
+
+Formerly a province under gubernatorial rule, it was declared a sovereign nation, and is the oldest and largest of the nations formed after [[Artur Paendrag Tanreall|Artur Hawkwing]]'s [[Artur Hawkwing's Empire|empire]] collapsed. The capital of Andor is [[Caemlyn]].{{ref/book|bwb|27}}
+
+==History==
+===Pre-imperial===
+During the first millennium [[Third Age#After the Breaking|after the Breaking]], the territory of Andor was held by two of the [[Ten Nations]], [[Manetheren]] in the west and [[Coremanda]] in the east. The city of Hai Caemlyn was founded as one of Coremanda's major strongholds, a large city close to the [[River Erinin]], which was important for trade. During the [[Trolloc Wars]] both kingdoms were destroyed.
+
+After the conclusion of the wars, the kingdoms of [[Farashelle]], [[Aldeshar]], and [[Caembarin]] arose out of the ruins of the two older kingdoms. Aldeshar and Caembarin, named for its capital at the rebuilt city of Caemlyn, were two of the most militarily powerful nations of their time and sent armies against the [[false Dragon]] [[Guaire Amalasan]] in the [[War of the Second Dragon]], although it was actually King [[Artur Paendrag Tanreall]], known as Artur Hawkwing, of the small kingdom of [[Shandalle]], east of Caembarin, who defeated Amalasan. Caembarin attacked Shandalle a few months later and Aldeshar followed suit the following year, allegedly due to the manipulations of the [[Amyrlin Seat]], [[Bonwhin Meraighdin]]. During the [[Consolidation]], Hawkwing conquered Caembarin early in his campaign, but Aldeshar did not fully surrender until {{Fy|963}}, the last nation to be added to his growing [[Artur Hawkwing's Empire|Empire]].
+[[Image:andoran-icon.svg|thumb|125px|right|Andor [[:Category:Chapter art|chapter icon]]]]
+
+===Imperial history===
+Blaming King [[Joal Ramedar]] of Aldeshar for the murder of his wife, [[Amaline Paendrag Tagora]], three years previously, Hawkwing put Ramedar to death and scattered the people of Aldeshar across the Empire. This period of rage, the [[Black Years]], ended after Hawkwing's aborted invasion of the [[Aiel Waste]] and his marriage to the lady [[Tamika]].
+
+Hawkwing set about organizing his Empire into provinces. The Imperial Province of Andor was created early on, spanning the central regions of the Empire. The precise borders of Andor Province are unknown, but Caemlyn was the ruling city. The first governor was [[Jeorad Manyard]] (who was more interested in creating a translation of ''[[Prophecies of the Dragon|The Prophecies of the Dragon]]''), but his rule did not last long. Displaying regret for his harsh treatment of Aldeshar, Hawkwing permitted its people to return home and appointed [[Endara Casalain]], King Ramedar's daughter, as the Imperial Governor of Andor in {{fy|967}}.
+
+In {{fy|975}} Hawkwing's armies besieged [[Tar Valon]], a siege that was to last for the remaining lifespan of the Empire. Endara's daughter, [[Ishara Casalain]], began a romance with General [[Souran Maravaile]], the commander of the siege, in the early FY 990s.
+
+===Declaration of sovereignty===
+After the death of Artur Hawkwing in {{fy|994}}, Ishara and the new Amyrlin Seat, [[Deane Aryman]], persuaded Souran Maravaile to lift the siege of Tar Valon. Ishara and Souran returned to Andor and married.{{ref/book|bwb|12}} Endara withdrew any claim to the governorship or crown and swore fealty to Ishara. Ishara declared herself the first Queen of Andor, establishing an unbroken bloodline of female rulers:
+
+*[[Ishara Casalain]], {{Fy|994}} - {{Fy|1020}}
+*[[Alesinde|Alesinde Casalain]], FY 1020 - {{Fy|1035}}
+*[[Melasune|Melasune Casalain]], FY 1035 - {{Fy|1046}}
+*[[Termylle]], FY 1046 - {{Fy|1054}}
+*[[Maragaine]], FY 1054 - {{Fy|1073}}
+*[[Astara]], FY 1073 - {{Fy|1085}}
+*[[Telaisien]], FY 1085 - {{Fy|1103}}
+*[[Morrigan]], FY 1103 - {{Fy|1114}}
+*[[Lyndelle]], FY 1114 - FY 1165/{{Ne|30}}
+*[[Modrellein]], c. {{Ne|300}}
+*[[Mordrellen Mantear]], ??? - {{Ne|972}}
+*[[Morgase Trakand]], 972 - {{Ne|999}}
+*[[Elayne Trakand]], {{Ne|1000}}
+
+===Early Andoran traditions===
+Many of Andor's traditions were established during these early years. Unlike many nobles of the time, Queen Ishara knew that no one ruler would be able to take control of Hawkwing's entire empire. Instead, she focused on controlling only what she could. As a result, Andor began only with the capital city of Caemlyn and the small surrounding villages. Cautious expansion marked the reigns of the early queens of Andor.
+
+The tradition of Andor is that only a queen must sit on the [[Lion Throne]] of Andor, and wear the Rose Crown. However, it wasn't always intended that a queen would rule - it happened that the sons of Andor's first two Queens were killed, and so their daughters became queens. After this it became tradition that a queen would rule. The eldest daughter is known as the [[Daughter-Heir]], and is always sent to [[Tar Valon]] to study. The eldest brother of the Daughter-Heir is sworn to protect her with his life, and is prepared from an early age to take control of the army of Andor. He is given the title [[First Prince of the Sword]]. If the Daughter-Heir does not have a brother, another man is appointed to the post.
+
+If a Queen does not have a daughter, then another successor is appointed, judged by the number of blood ties she can establish to Ishara. Four times in Andor's history this method has been disputed, leading to the [[Succession Wars]].
+
+===Andor's military strength===
+{{quote|Forward the White Lion of Andor!|battle cry of the Queen's Guard}}
+Andor is a powerful nation, with a substantial army consisting of the Queen's Guards and the standing armies maintained by the individual noble houses, who are also able to call upon huge levies in times of crisis. The maximum military strength of Andor has been estimated at almost 200,000 men, although many would be barely-trained levies.
+
+Through history, Andor has been under almost constant pressure from neighboring countries. Andor and [[Cairhien]] have been to war more times than any two countries except for [[Tear]] and [[Illian]]. Often-lawless [[Murandy]], south of Andor, is the source of many border incursions which the Queen's Guards must fend off; conversely, the Andoran forces at the Murandian border have resulted in Andor having a strong hand in Murandian politics. The [[Children of the Light]] have always had a reason to dislike Andor, as the Daughter-Heir always studies in the [[White Tower]].
+
+Andor's strength comes from its wealth. Much of this is generated in the [[Mountains of Mist]], far to the west of central Andor. {{Wiki|Gold}}, {{Wiki|silver}}, {{Wiki|iron}}, and {{Wiki|copper}} are extracted from the rich {{Wiki|mining|mines}} in these mountains. Most of this metal is refined in the smelters near the mines.
+
+The strength which must be expended to retain the valuable mines in the Mountains of Mist means that other outlying regions of Andor have been virtually forgotten. A good example of this is the [[Two Rivers]], where few even realize they are part of a larger kingdom. One well-known town in the far west of Andor is [[Whitebridge]], so named for the large bridge which crosses the [[River Arinelle]] into the town.
+
+==Geography==
+[[Image:09 - Andor.PNG|thumb|200px|right|Location within the Westlands]]
+
+===West of Whitebridge===
+====Baerlon District====
+[[Baerlon]] is the primary city of western Andor, though far smaller than huge Caemlyn in the east. Primarily a mining town, it serves as a resting point for merchants bringing metals from the mines in the Mountains of Mist or [[tabac]] and wool from the Two Rivers to the more populous eastern half of Andor. Baerlon is also the home of [[Min Farshaw]].
+
+====Two Rivers District====
+The Two Rivers is a region of Andor south of Baerlon, located between the upper reaches of the river [[Manetherendrelle]], or the White River as it is called in the Two Rivers, and the [[River Taren]], a smaller tributary. It contains four villages; from north to south, [[Taren Ferry]], [[Watch Hill]], [[Emond's Field]], and [[Deven Ride]]. To the west are the [[Sand Hills]] and the Mountains of Mist, and to the east lies the [[Waterwood]], a dangerous swamp. These obstacles, along with the two rivers, the Taren only crossable at Taren Ferry and the White River impassable at any point, make the Two Rivers a highly isolated region of Andor. Andoran soldiers and tax collectors have not been seen in the Two Rivers for many generations.
+
+After [[Rand al'Thor]] proclaimed himself the Dragon Reborn, however, the isolation of the Two Rivers ended. The collapse of the nations of Tarabon and Arad Doman, due mostly to his presence, brought huge numbers of refugees across the Mountains of Mist and into the Two Rivers, disturbing the local culture and quickly "modernizing" the agricultural backwater. Even worse, [[Padan Fain]] brought Whitecloaks and [[Trolloc]]s to the region, attempting to draw al'Thor out. Instead, [[Perrin Aybara]] returned, and, in light of his defense and leadership, was unanimously (and unwillingly) elected Lord of the Two Rivers, the region's first noble in hundreds of years. Because his wife, [[Zarine ni Bashere t'Aybara|Faile Bashere]], is second in line to the throne of [[Saldaea]] (currently held by her cousin, Queen [[Tenobia Kazadi]]), the Lord of the Two Rivers may soon rise from obscurity to political importance.
+
+The Two Rivers is home to many of the major characters of the Wheel of Time series:
+* [[Rand al'Thor]], the Dragon Reborn
+* [[Matrim Cauthon]], General of the [[Band of the Red Hand]] and husband to the [[Seanchan]] Empress
+* [[Perrin Aybara|Lord Perrin]] "Goldeneyes"
+* [[Egwene al'Vere]], the [[Amyrlin Seat]]
+* [[Nynaeve al'Meara]],  married to the [[Lan Mandragoran|King of Malkier]], an [[Aes Sedai]] of the [[Yellow Ajah]] and the most powerful living Aes Sedai channeler of this Age
+
+===East of Whitebridge===
+====Caemlyn====
+Caemlyn is the capital city of Andor, second in beauty only to [[Tar Valon]]. The city of Caemlyn is actually made up of two cities, the [[Caemlyn#New City|New City]] and the [[Caemlyn#Inner City|Inner City]]. The New City is less than two thousand years old, constructed exclusively by humans. The ancient Inner City, on the other hand, was constructed by [[Ogier]]. The entire city is encircled by a fifty-foot wall; the Inner City itself is also surrounded by a wall. Certainly the most impressive building in the Inner City is the [[Royal Palace of Andor]], which serves as the seat of government.
+
+====Black Tower====
+The [[Black Tower]] is a partially-walled fortress less than a day's walk from the city of Caemlyn. Established in the very recent past by Rand al'Thor, its purpose is to train men who can [[channel]]. With the removal of the [[taint]] on ''[[saidin]]'', the Black Tower may gain a more permanent (and tolerated) existence.
+
+===Known settlements in Andor===
+* [[Arien]] - a village on the [[Caemlyn Road]] between Whitebridge and [[Breen's Spring]].
+* [[Aringill]] - Andor's principal port on the [[River Erinin]] and a border crossing with [[Cairhien]].
+* [[Baerlon]] - Andor's largest town in the west of country, located a week's travel north of the Two Rivers.
+* [[Breen's Spring]] - a village on the Caemlyn Road between Arien and Four Kings.
+* [[Buryhill]] - a village in Andor, located between Damelien and Forel Market.
+* [[Caemlyn]] - the largest city and capital of Andor.
+* [[Carysford]] - a village on the River Cary, two days' ride by wagon west of Caemlyn.
+* [[Comfrey]] - one of the mining villages in the [[Mountains of Mist]].
+* [[Cullen's Crossing]] - a village ten miles from Caemlyn.
+* [[Damelien]] - a village in Andor near Buryhill and the Hornwell Estate, a holding of [[House Trakand]].
+* [[Danabar]] - a mountainous area near the [[Murandy|Murandian border]] and the [[Lugard Road]] where Elayne Trakand has estates.
+* [[Deven Ride]] - a village in the Two Rivers.
+* [[Emond's Field]] - a village in the Two Rivers.
+* [[Forel Market]] - a village in Andor, located between Buryhill and Harlon Bridge.
+* [[Four Kings]] - a crossroads town on the Caemlyn Road.
+* [[Harlon Bridge]] - a village in Andor, eleven days' ride from Caemlyn.
+* [[Jornhill]] - a village in Braem Wood, north of Four Kings.
+* [[Kore Springs]] - a village in Braem Wood and the home of [[Captain-General (Andor)|Captain-General]] [[Gareth Bryne]].
+* [[Market Sheran]] - a village on the Caemlyn Road between Four Kings and Carysford.
+* [[New Braem]] - a large town or small city in Braem Wood, near the northern border of Andor.
+* [[Sheldyn]] - an estate held by the Lady [[Ellorien Traemane]].
+* [[Taren Ferry]] - the northernmost village of the Two Rivers.
+* [[Watch Hill]] - a village in the Two Rivers.
+* [[Whitebridge]] - Andor's principal port on the [[Manetherendrelle|River Manetherendrelle]].
+
+==Major Andoran Houses==
+There are nineteen major houses in Andor, though this number may decrease in the future if any of the major houses are sufficiently weakened to lose their influence as a major house. The nineteen are:
+
+====Ruling House====
+*[[House Trakand]]
+
+====Trakand's initial supporters====
+*[[House Taravin]]
+*[[House Mantear]]
+*[[House Haevin]]
+*[[House Northan]]
+*[[House Gilyard]]
+
+====Tranferred from Marne to Trakand====
+*[[House Baryn]]
+*[[House Anshar]]
+*[[House Caeren]]
+
+====Transferred from Taravin to Trakand====
+*[[House Pendar]]
+*[[House Norwelyn]]
+*[[House Renshar]]
+*[[House Coelan]]
+*[[House Carand]]
+
+====Cannot support Trakand====
+*[[House Marne]]
+*[[House Arawn]]
+*[[House Sarand]]
+
+====Won't support Trakand====
+*[[House Traemane]] (Sheldyn estate)
+
+====Undecided====
+*[[House Candraed]]
+
+==Laws and customs==
+===Laws of Succession===
+The royal succession in Andor is from mother to daughter. If there is no daughter, the noblewoman who claims the most lines of descent from Ishara gains the throne. This succession was usually, but not always, peaceful.
+
+Naturally following the nature of the royal succession, other noble titles also descend normally from mother to daughter, as does the largest part of property. Only when there is no daughter does a title descend to a son. A man who thus inherits therefore leaves his main title and properties to his eldest daughter, though sons and other daughters can inherit smaller properties, and are considered nobility. Among the nobility, most property and land is in the hands of women.
+
+Commoners divide their inheritances among sons and daughters, with a daughter's share often going with her when she married. This part is her property, not her husband's, and it is her right to dispose of it or leave it where she would. It is common in some areas for men to leave property to sons and for women to leave property to daughters, but this is not a rule and is not followed in all circumstances.{{ref/book|twotc|Andor}}
+
+===Customs concerning the White Tower===
+The Queen of Andor traditionally has an Aes Sedai advisor. The Daughter-Heir traditionally trains in the White Tower, regardless of her ability with the [[One Power]].
+
+===Positions and Titles===
+*Queen
+*Daughter-Heir
+*First Prince of the Sword
+*High Seat
+*Chief Clerk
+*First Maid
+
+==Parallels==
+{{wikipedia|Andor (Wheel of Time)}}
+* Andor is thought by many to be based in part on {{Wiki|England}} during the {{Wiki|Middle Ages}}, and the author has confirmed that Andorans speak with a modern {{Wiki|English accent}}.
+* In ''{{Wiki|The Lord of the Rings}}'', {{Wiki|Númenor}} was known by the Elves as ''Andor'', meaning "Land of the Gift".
+
+== In the television series ==
+* {{TVlink|Andor}} on {{TVlink}}
+
+{{notes}}
+{{nations}}
+[[es:Andor]]
+[[Category:Nations]]
+[[Category:Andor]]
+[[Category:Midlander]]
+[[Category:Parallels]]

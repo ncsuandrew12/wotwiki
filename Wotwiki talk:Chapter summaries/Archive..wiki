@@ -1,0 +1,190 @@
+{{archive}}
+== POV/layout questions ==
+
+*This isn't as much of an issue in TEotW, but later books have several POV characters per chapter.  I would suggest following the example of [http://www.encyclopaedia-wot.org The Encyclopaedia WoT] and beginning each part of the summary with the POV.  Going one better and adding the setting would also be worthwhile.
+** POV is now external to the summary template, using [[template:pov]].  We definately want to indicate all POVs and when they change. [[template:setting]] also exists for if the setting changes. --[[User:Gherald|Gherald]] 13:21, 18 Nov 2005 (UTC)
+*For the next section, commentary would be good.  It would be a good place for pointing out how something in that chapter contributed to a certain theory, and then linking to a page for that theory.
+** Use ==Notes== for this. --[[User:Gherald|Gherald]] 13:21, 18 Nov 2005 (UTC)
+*Are animals to be considered characters?  Because it would be good to list Bela, Hopper, and the rest as well.  The question is, should that be a separate listing (i.e., animals appearing, animals referenced) or would it be subsumed under characters?  What about fictional characters like Rogosh Eagle-Eye?  Or semi-fictional characters like Jain Farstrider?
+** One or two animals mentioned by name can go under ==Characters==, with a notice that they are animals.  An ===Animals=== subsection may be warranted if there are more than a couple... --[[User:Gherald|Gherald]] 13:30, 18 Nov 2005 (UTC)
+** One or two fictional characters can be listed under ==Characters== ===Referenced===, and noted as fictional.  The same can be done for historical.  ====Fictional==== and ====Historical==== subsections may sometimes be warranted. --[[User:Gherald|Gherald]] 13:30, 18 Nov 2005 (UTC)
+*How should we list the title of each chapter?  What about the chapter icon? --[[User:Dairhenien|Dairhenien]]
+** title= and icon= parameters --[[User:Gherald|Gherald]] 13:21, 18 Nov 2005 (UTC)
+
+<!-- (moved from [[Current events]] 2005-10-25. [[User:Nae'blis|nae'blis]]) -->
+
+=== Terminology ===
+
+This POV stuff is getting confusing. Are we going to use POV in the standard Point Of View sense, in terms of opinion ("zOMG! Naynaeve = t3h h0ttorz!  lol hentai pics pls!") or in the novelistic term?  I suggest we retain the usual use of the acronym and switch to using "narrator" or such for the novelistic sense of the acronym and words. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 20:08, 20 Nov 2005 (UTC)
+*[[template:pov]] is for changes of POV in the novelistic sense.  EWoT lists the POV at the beginning of every chapter summary; we're doing the same.  wotmania has a POV index, which is similar (I assume -- haven't really looked through it).
+* Short speculation and links to Theoryland et.al. can go under ==Notes==.  More extensive discussion/commentary/personal opinion in the sense of "zOMG! Naynaeve = t3h h0ttorz!  lol hentai pics pls!" belongs on the talk page.  But we will accept fan art and other media for display at the bottom of chapter summaries... click the EWoT link on {{teotw|Prologue}} for a good example --[[User:Gherald|Gherald]] 21:28, 20 Nov 2005 (UTC)
+
+== Naming conventions (done?) ==
+
+* Establish naming conventions for plot summaries.  One was started at TEotW Prologue.  Do we then move on to TEotW Chapter 1, TEotW Chapter 2, etc?  Any other suggestions?  I also thought of using subpages, e.g. TEotW/Prologue.
+**At the moment I '''really''' like the idea of [[The Eye of the World/Prologue]], etc. Call me perfectionist, but I'd rather see us spell out the book titles, even if it's via a template. Do we have a summary of why Wikipedia abandoned subpages in article space? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+:::<s>[http://wot.wikicities.com/index.php?title=Special:Whatlinkshere&target=ACoS_Chapter_20 Have a look at this linkage].  I'd like us to be able to consistently use references in a similar format that is not too long to be unweildly.  Are you suggesting something like <nowiki>{{ACoS|20}}</nowiki> to create a fancy reference link to "A Crown of Swords/Chapter 20" ? I suppose that could be better than ACoS Chapter 20.
+:::: Not sure what you're getting at with that link. How is it different from [http://wot.wikicities.com/index.php?title=Special:Whatlinkshere&target=Lews_Therin_Telamon]? 
+:::: It's not like the chapters will change sometime in the future (well, except for the weird additions to To the Blight, etc). I'm willing to write up the chapter summary sections for each book, if that's what's stopping you. Or are you talking about which will be easier to remember for editors? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 16:58, 25 Oct 2005 (UTC)</s>
+Nevermind, its not worth arguing about, lets just start using your long version, and I'll make a template for linking to each book:
+ <code><nowiki>{{teotw|1}}</nowiki></code> gives {{teotw|1}}
+--[[User:Gherald|Gherald]] 19:41, 25 Oct 2005 (UTC)
+
+== Simplified Code for Copy and Paste ==
+
+If you've done a few summaries and are familiar with the code structure, you can copy and paste the below piece of code that does not include the field descriptions.
+
+<pre><nowiki>
+{{quote | ?
+|[[?]]
+}}
+
+{{summary | book=# | ewot=ch# | wotmania=#
+|chapter=
+|title=
+|icon=
+|setting=[[?]]
+}}
+
+==Summary==
+:{{pov|[[?]]}}
+
+Synopsis goes here.
+
+<!--
+:{{pov|[[?]]}}
+:{{setting|[[?]]}}
+:{{pov|[[?]]}} {{setting|[[?]]}}
+-->
+
+==Notes==
+<references />
+
+==Characters==
+*?
+===Referenced===
+===Groups=== 
+===First appearance of===
+
+==Places==
+*?
+===Referenced===
+
+==Events==
+===Referenced===
+
+==Items==
+===Referenced===
+
+==Concepts==
+===One Power===
+===Culture===
+</nowiki></pre>
+===First appearance===
+* I've suggested deprecating "First appearance of" lists/notices in favor of making sure that the plot summary/synopsis uses the character's full name the first time they are ever mentioned... do you think that is too subtle? --[[User:Gherald|Gherald]] 08:11, 23 Dec 2005 (UTC)
+: I think it probably is too subtle. Hopefully as we get into later books/chapters, the "First appearance" section will be much smaller. I know I'd like to know when someone first appears, although another way of doing that would be to make sure we note that on the character's page, instead (by event, not chapter, if possible).  [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 16:06, 23 Dec 2005 (UTC)
+:: I believe the first time a character is mentioned in each summary, it should be the full name (though not including ancestry or clan affiliation, like with Loial or the Aiel).  After that first time, just use the most common name throughout the rest of the summary.  I followed this rule with the summary I'm writing for [[The_Dragon_Reborn/Chapter_55| Book 3, Chapter 55]].[[User:Sinnic|Sinnic]] 03:11, 24 Dec 2005 (UTC)
+
+=Moved from [[Talk:The_Eye_of_the_World/Prologue]]=
+==Titles and Aliases==
+*Many of the characters have several titles and names.  Should there be a separate page for each of these titles?  One possibility that I had thought of was the following:
+**In a chapter summary, the name appearing in that chapter is the one used, but the link goes directly to the main page.
+**In the "Characters appearing/referenced" sections, we list the common name of the character.  If he or she appears under a different title, we put in parentheses (as "Other Name") after that.  That name would link to a page listing all the aliases for that character.  E.g., "Lord of the Morning" would link to an Aliases_Dragon page. --[[user:Dairhenien|Dairhenien]]
+***See [[project:chapter summaries]] for some ideas I am working on --[[User:Gherald|Gherald]] 03:49, 27 Oct 2005 (UTC)
+
+
+==Lists==
+What do you think of how I've begun to reorganize the lists?  I'm doing it for several reasons, such as trying to cut down on the size of the Table of Contents.  Is there any reason to stick with TOCs that end up looking like:
+
+<pre>1.2 Other Information
+
+1.2.1 Characters Appearing
+1.2.2 Animals Appearing
+1.2.3 Characters Referenced
+1.2.4 Titles and Aliases Referenced
+1.2.5 Organizations and Groups Referenced
+1.2.6 Places Referenced
+1.2.7 Events Referenced
+1.2.8 Stories Referenced</pre>
+
+vs. the much simpler:
+
+<pre>
+1.2 Other Information
+1.2.1 Characters
+1.2.2 Places
+1.2.3 Items
+1.2.4 Concepts</pre>
+--[[User:Gherald|Gherald]] 20:33, 27 Oct 2005 (UTC)
+
+I would actually say that a greater amount of detail is a good thing, although admittedly not like the first example.  I would suggest breaking down Character into two sub-headings, one for Appearing and one for Referenced.  Places, Items, and Concepts are good headings, but cannot subsume Groups, Events, Stories, or later on, Weaves (a very important heading later on, I would think.)  How about the following?
+
+<pre>
+1.2 Other Information
+1.2.1 Characters
+1.2.1.1 Appearing
+1.2.1.2 Referenced
+1.2.1.3 First Appearances
+1.2.2 Places
+1.2.3 Items
+1.2.3.1 Objects
+1.2.3.2 Animals
+1.2.3.3 Plants
+1.2.3.4 Items of the Power
+1.2.3.5 Weapons
+1.2.3.6 Other
+1.2.4 Other
+1.2.4.1 Events
+1.2.4.2 Stories
+1.2.4.3 Concepts</pre>
+
+Of course, this would be made far less unwieldy if we didn't have that initial 1 in place.  It really serves no purpose since currently EVERYTHING is under 1.  There's no need for the title of the chapter to be its own category when there is only one chapter per page.
+[[User:Dairhenien|Dairhenien]] 21:01, 27 Oct 2005 (UTC)
+
+: Agreed. That "1" is really going to jack things up when we get into Chapter 37, etc. What if we use the <nowiki>__NOTOC__</nowiki> code (like [http://en.wikipedia.org/w/index.php?title=Wikipedia:How_to_edit_a_page&action=edit&oldid=2360888] and roll our own? We could even put them AFTER the Chapter Header & Summary, then, and allow users to jump amongs that information more effectively...maybe. It's tough, of course, because not all will be needed in each chapter...maybe a subst:template that can be trimmed/added-to later? (I know, I love the damn things) [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 21:32, 27 Oct 2005 (UTC)
+::Not quite sure what that all means, but it sounds like you agree with me, so I'm going to nod and smile.   The summary doesn't really need to be part of the Table of Contents, and neither do the Notes.  That would get rid of the second digit as well.  An outline consisting of only two levels would be far simpler on the eye, yet would contain just as much detailed information. --[[User:Dairhenien|Dairhenien]] 21:38, 27 Oct 2005 (UTC)
+
+::: *laugh* Yeah, I was agreeing with you. Some people have removed the entire "autogenerated" TOC and just built one for scratch; Wikipedia uses these most frequently for alphabetical listings, but we could have one for chapter summaries, I think... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 22:28, 27 Oct 2005 (UTC)
+
+===Two things going on here===
+* My dumb suggestion of using =H1= style chapter titles is what is causing the extra 1.  This should never be done.
+* I think ===H3=== subsections for things like Objects, animals, etc. will work fine where appropriate.  In general, I think an ===H3=== needs about 5 items to make sense.  Categories with less items can go directly under the ==H2==, above the ===H3==='s (if any)
+--[[User:Gherald|Gherald]] 21:51, 27 Oct 2005 (UTC)
+: Stupid Question Time: Is there any 'wiki syntax' for centering text, or changing the size? I think if we could avoid using both complicated HTML '''and''' H1, we'd be better off all the way around.
+: Oh, and in case I didn't mention it earlier, I like Dairhenien's suggested layout; it mimics most of the strategies behind the [[project:Category index|Category index]] nicely. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 22:07, 27 Oct 2005 (UTC)
+:: Do you agree some limits, though?  I don't want to see things like:
+ ===Animals===
+ * horses
+ * [[grolm]]
+This, however, would be fine:
+ ===Animals===
+ * horses
+ * [[grolm]]
+ * rats
+ * [[ravens]]
+ * falcons
+ * ....
+(doubtful any chapter has that many animals, so you get my point) --[[User:Gherald|Gherald]] 22:25, 27 Oct 2005 (UTC)
+::: The difficulty is that sometimes animals are so important, like wolves, the broken-backed rats, the Seanchan exotics, and named animals like horses.  Sometimes they're sorta important, like ravens as the DO's eyes, weevils in the flour, etc.  And then, occasionally, they're not important at all.  We definitely have to list the named animals, and probably unnamed horses as well (like Thom's gelding).  Since vermin like rats and ravens can be important, those should probably link to pages specifically about how those animals can serve as spies for the Dark One. --[[User:Dairhenien|Dairhenien]] 22:47, 27 Oct 2005 (UTC)
+
+==Groups==
+While I'm not ''necessarily'' against moving ===Groups=== out from being a subsection of ==Characters== (though I know of no reason to prefer it that way), such a change should be consistent with [[project:Chapter_summaries#Skeleton]] as well as a number of other summaries that have already been laid out. ({{teotw|6}} among them). --[[User:Gherald|Gherald]]
+
+:So what's the consensus on where groups fit into the structure above?  The lists currently on the page look more like this than the lists in this talk page above:
+<pre>
+1 Characters
+1.1 Referenced
+1.2 Groups
+2 Places
+2.1 Referenced
+3 Events
+3.1 Referenced
+4 Items
+4.1 Referenced
+5 Concepts
+etc.
+</pre>
+
+:I'd rather use a configuration that everyone likes than have people have to redo it later... [[User:Rccarman|Rccarman]] 21:32, 12 April 2006 (UTC)
+
+::The lists above (that were moved from teotw prologue talk) are very old.  [[project:Chapter_summaries/example]] is where a lot of the later development was done.  Once it was fairly stable I made the skeleton that is on this article page., which is the current proposed policy.  Any suggestions you have are welcome... --[[User:Gherald|Gherald]] 22:02, 12 April 2006 (UTC)

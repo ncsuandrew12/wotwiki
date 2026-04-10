@@ -1,0 +1,17 @@
+{{ character | image=BOTRH icon.jpg
+| name=Verdin
+| nationality=Unknown nationality
+| rank=Squadman
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| status=Alive
+| appeared={{loc|38}}
+| lastappeared={{loc|44}}
+| living=loc
+}}'''Verdin''' is a young Squadman in the [[Band of the Red Hand]].{{ref|{{twotc}}, Verdin}}
+
+== Activities ==
+He accompanied [[Matrim Cauthon|Mat]] during a visit to the [[Rebel Aes Sedai]] in [[Salidar]].
+
+{{notes}}

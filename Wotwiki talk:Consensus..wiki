@@ -1,0 +1,19 @@
+Is there any reason to extend the period of consideration on this? We never (to my knowledge) did the broad recruitment that we wanted, so it may be worth waiting until the end of the year, and trying to get a broader sampling. Right now we only have 3-4 people voting... [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 16:10, 30 Nov 2005 (UTC)
+
+==Deletion==
+This policy proposal has not gone anywhere useful, and I reckon we have left it up long enough.  I regard it as something of an embarrasment and would like to delete it.  There are of course alternatives, but I believe scrapping it would be best.  Of course I am biased, since I really dislike the more complicated alternatives in this proposal.  Anyway, please indicate whether you would support deletion by signing <code><nowiki>*~~~</nowiki></code> below. --[[User:Gherald|Gherald]] 22:55, 1 June 2006 (UTC)
+
+'''Support''':
+*[[User:Gherald|Gherald]]
+*[[User:Rhodric|Rhodric]]
+
+'''Oppose''':
+
+'''Comment''':
+*I could see putting an "inactive" tag on it or something similar, but people coming here from Wikipedia may expect a page of this nature. Rather than deleting it wholesale I'd rather edit it to say why we don't need a formal policy right now. Maybe move this page to a subpage and restart under the same name, with that alternate explanation? I agree this is overkill, presently. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 22:10, 2 June 2006 (UTC)
+*Following my comment on the front page, it makes little sense to approve a "consensus" page that just says "we operate by voting". Special:Whatlinkshere doesn't seem to show any primary links to this page, so if we want to archive it or mark it inactive/rejected, that'd be fine by me, too. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 22:45, 7 September 2006 (UTC)
+
+'''Comment''':
+*I think more important than a consensus of the big picture is the little things. Are there certain ways we won't character pages to look? same for region or groups eg Aes Sedai. I was editing some encyclopedia-wot lifted page and was wondering what where those kind of guidelines are. If we concentrate on a consensus for formatting those little categories/sections, then the big picture will take care of itself. --[[User:Rhodric|Rhodric]] 16:21, 24 October 2006 (UTC)
+** Was that [[Elza Penfell]] (which was just deleted) or something else?  We are not allowed to lift pages from encyclopaedia-wot.
+** For character pages and governments, I am working on new infoboxes and would appreciate comments, particularly colors (see [[User:Gherald#Current projects|my project list]]).  Groups like Aes Sedai are more diverse; it's harder to come up with an infobox for them, but I suppose we might at some point.  We've made some other more general standardization attempts at [[help:style guide]] and [[wotwiki:chapter summaries]], but more input would be very welcome. --[[User:Gherald|Gherald]] 00:08, 25 October 2006 (UTC)

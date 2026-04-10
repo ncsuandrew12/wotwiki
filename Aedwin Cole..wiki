@@ -1,0 +1,23 @@
+{{character
+| image=Wheel-icon.svg
+| imagesize=150px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Sailor
+| affiliation=Bayle Domon
+| gender=Male
+| appeared={{tgh|46}}
+| lastappeared={{tgh|46}}
+| living=tgh
+}}
+'''Aedwin Cole''' is a crewman aboard the ''[[Spray]]''.
+
+==History==
+He is from northern [[Altara]] or northern [[Murandy]].{{ref|{{twotc}}, Aedwin Cole}}
+
+==Activities==
+During the beginning of the troubles at [[Falme]], Aedwin Cole wants to cast off from the city. His captain, [[Bayle Domon]], doesn't allow him to cut any of the lines, hoping that [[Nynaeve al'Meara]], [[Elayne Trakand]], and [[Min Farshaw]] will make it aboard.{{ref/book|2|46}}
+
+
+{{notes}}
+{{DEFAULTSORT:Cole, Aedwin}}

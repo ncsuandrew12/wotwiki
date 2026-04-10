@@ -1,0 +1,19 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| name=Senar
+| status=Dead
+| race=Ogier
+| gender=Male
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}
+'''Senar''' was an [[Ogier]].
+
+==History==
+He is known as the father of [[Malan]] and the grandfather of [[Aran]], but nothing about his own life is known.
+
+Given that his grandson was born in {{ab|50}}, Senar was born in either the [[Age of Legends]] or during the [[Breaking of the World]].{{ref/book|bwb}}
+
+{{notes}}
+{{short}}

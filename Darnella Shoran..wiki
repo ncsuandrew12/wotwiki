@@ -1,0 +1,17 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Innkeeper
+| gender=Female
+| appeared={{wh|20}}
+| lastappeared={{wh|20}}
+| living=wh
+}}
+'''Darnella Shoran''' is the innkeeper of The [[Golden Swans of Heaven]], in [[Ebou Dar]].
+
+==Activities==
+She is a very strict innkeeper. She chides [[Bethamin Zeami]] for having a man in her room, despite the fact that the [[Almurat Mor|man]] was a [[Seanchan]] [[Seekers for Truth|seeker]].
+
+{{DEFAULTSORT:Shoran, Darnella}}

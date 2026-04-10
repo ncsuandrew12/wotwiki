@@ -1,0 +1,22 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|1000}}
+| nationality=Unknown nationality
+| occupation=Soldier
+| affiliation=Younglings
+| gender=Male
+| appeared={{Loc|p}}
+| lastappeared={{loc|55}}
+}}
+'''Benji Dalfor''' is one of [[Gawyn Trakand]]'s [[Younglings]]. 
+
+== Appearance ==
+He has only just gained his first whiskers. He has a scar on his cheek.{{ref/book|6|p}}
+
+== Activities ==
+He fought in the [[White Tower Schism]].{{ref/book|6|p}} He is with Gawyn when they are sent to act as escort for a group of [[Aes Sedai]] that make an alliance with the [[Shaido]]. He is wounded and then dies after giving his report to Gawyn.{{ref/book|6|55}}
+
+{{notes}}
+{{DEFAULTSORT:Dalfor, Benji}}

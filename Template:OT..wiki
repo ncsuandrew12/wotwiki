@@ -1,0 +1,2 @@
+<includeonly>{{#invoke:OT|get_entry|word={{{word|{{{1|}}}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Old Tongue| Template:OT]]</noinclude>

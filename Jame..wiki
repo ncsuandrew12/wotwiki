@@ -1,0 +1,29 @@
+{{Character
+| image=SeanchanFlag.png
+| imagesize = 250px
+| ewot=Jame
+| occupation=Bouncer
+| status=Alive
+| nationality=Seanchan
+| gender=Male
+| appeared={{Amol|11}}
+| lastappeared={{amol|11}}
+| living=amol
+}}
+{{Quote|Look, friend. I know what you are and why you are here. The fake eye bandage is not fooling me. You have throwing knives tucked into your sleeves and six more on your belt that I can count. I've never met a man with one eye who could throw worth a dried bean. She's not as easy a target as you foreigners think. You'll never make it into the palace, let alone through her bodyguards. Go find some honest work instead.|Jame}}
+
+'''Jame''' is a [[Seanchan]] bouncer at [[The Yearly Brawl]] in [[Ebou Dar]].{{ref|{{twotc}}, Jame|Jame}} He is a [[Blademaster]].{{ref||Jame}}
+
+==Appearance==
+Jame has a round face.
+
+==History==
+Jame is married to [[Kathana]] and carries a heron marked blade at his side. He is loyal to the Empire and killed an assassin who admitted to hunting the [[Empress]], earning [[Matrim Cauthon]]'s friendship.{{ref/book|14|11}}
+
+==Background==
+Jame and Kathana are named for James and Jennifer Liang, two high-profile moderators at [http://dragonmount.com Dragonmount.com] and coordinators of [[JordanCon]].
+
+{{notes}}
+{{short}}
+[[Category:Characters named after fans]]
+[[Category:Blademasters]]

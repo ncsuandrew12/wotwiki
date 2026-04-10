@@ -1,0 +1,17 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=100px
+| ewothist=
+| title=
+| rank=
+| occupation=
+| nationality=Jaramide
+| gender=Female
+| status=Dead
+| hair=
+| mentioned={{tsr|1}}
+| lastmentioned={{tsr|1}}
+}} 
+'''Sereine dar Shamelle Motara''' was Counsel-Sister to Comaelle, High Queen of [[Jaramide]], circa {{ab|325}}, the [[Third Age]]. She is the author of the ''[[Karaethon Cycle#Commentaries|Commentaries on the Karaethon Cycle]]''. {{ref|{{twotc}}, Sereine dar Shamelle Motara}} {{ref/book|4|1}}
+
+{{Notes}}{{Short}}

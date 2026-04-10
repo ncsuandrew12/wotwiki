@@ -1,0 +1,25 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  SiomaiMimay! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''A Wheel of Time Wiki'''!. Thanks for your edit to the [[:User:SiomaiMimay]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Mainphramephreak|Mainphramephreak]] ([[User_talk:Mainphramephreak|Talk]]) 16:24, August 21, 2012
+|}
+
+== Images ==
+
+Hello. Thanks for adding those images. We are always looking for good pictures of the characters and all things WoT-related. I think, though, that only the close-up of Verin should go on her page, just so that the page isn't too cluttered. The larger one can definitely stay on the Battle page. Also, if you could, please add the {{tl|Image}} tempalte to both of the images. If you have any questions, please let me know. Thanks again! ---- {{User:Mainphramephreak/Sig/Subst}} 12:28, August 22, 2012 (UTC)
+
+Now that I look at it a bit more, both of the images are fine on Verin's page. :) ---- {{User:Mainphramephreak/Sig/Subst}} 12:33, August 22, 2012 (UTC)

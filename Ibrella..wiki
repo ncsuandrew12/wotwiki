@@ -1,0 +1,31 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Altaran
+| gender=Female
+| birth = {{ne|980}}
+| rank=Novice
+| affiliation=White Tower
+| status=Alive
+| mentioned={{loc|13}}
+| lastmentioned={{loc|13}}
+| living=loc
+}}
+'''Ibrella''' is a [[novice]] in [[Salidar]].
+
+==Strength==
+Her potential is {{opsl|20}}, which is [[Strength in the One Power among Aes Sedai|very strong]] by Aes Sedai standards, as strong as [[Sheriam Bayanar|Sheriam]].{{ref|{{Twotc}}, Ibrella|Ibrella}} As with all Tower initiates, she would not achieve her full strength for several years to come.
+
+== History ==
+Ibrella was born in {{ne|980}} in a village a few days' travel from Salidar.{{ref||Ibrella}}
+
+== Activities ==
+She is recruited by the [[rebel Aes Sedai]] in Salidar in {{ne|999}} after Elayne and Nynaeve reached them. 
+
+She tried to see how big a flame she could make during [[Elayne]]'s class and nearly set the whole class on fire.{{ref/book|6|13}}
+
+Presumably still alive, she would have joined the rest of the novices in [[Mayene]] to aid with [[Healing]] during [[Tarmon Gai'don]].
+[[Category:Rebel Aes Sedai]]
+[[Category:Channelers]]
+
+{{notes}}

@@ -1,0 +1,15 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| gender=Female
+| mentioned={{tdr|8}}
+| lastmentioned={{tdr|8}}
+| living=tdr
+}}'''Jorath''' is a woman who resides in [[Jarra (village)|Jarra]] [[Ghealdan]].{{ref|{{twotc}}, Widow Jorath}}  She was widowed but re-married early in the year [[999 NE]].
+
+==Activities==
+When [[Rand]] came through the village she was caught up in his ''[[ta'veren]]'' effect and decided to marry old [[Banas]]. {{ref/book|3|8}}
+
+{{notes}}

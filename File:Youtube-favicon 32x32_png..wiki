@@ -1,0 +1,2 @@
+== Summary ==
+{{Image | License = Fairuse | ImageType1 = Logo | Description = Youtube logo | Source = https://www.youtube.com/s/desktop/be7304fd/img/logos/favicon_32x32.png | Artist = }}

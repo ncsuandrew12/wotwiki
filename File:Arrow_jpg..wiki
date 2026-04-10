@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = [[Moiraine]] riding [[Arrow (Moiraine)|Arrow]].
+| Source             = ''[[New Spring 5]]''
+| Artist             = Mike S. Miller
+| Artist2            = Carlos Rafael Duarte
+}}

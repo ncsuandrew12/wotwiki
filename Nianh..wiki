@@ -1,0 +1,25 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| ajah=Unknown
+| gender=Female
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=White Tower
+| status=Alive
+| mentioned={{tpod|p}}
+| lastmentioned={{tpod|p}}
+| living=tpod
+}}
+'''Nianh''' is an [[Aes Sedai]] of unknown [[Ajah]] and former [[Aes Sedai advisors|advisor]] to [[Queen]] [[Ethenielle Kirukon Materasu]] of [[Kandor]]. 
+
+== Activities ==
+She told Queen Ethenielle that the Kandori Spire was a remnant of the [[Age of Legends]] and probably harmless. 
+
+She disappeared without a trace after news of [[Elaida do Avriny a'Roihan|Elaida]]'s deposition of [[Siuan Sanche]] and her subsequent ascension to the [[Amyrlin Seat]], either returning to [[Tar Valon]], recognizing Elaida, or joining the [[Rebel Aes Sedai]] in [[Salidar]].
+
+== Trivia ==
+* Nianh is named for Nianh McAuliffe, an Irish fan of ''The Wheel of Time''. She and her friend Aisling Ryan ([[Aisling Noon]]) wrote to Robert Jordan in their final year of school, asking him to include them in his book series.
+[[Category:Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Characters named after fans]]

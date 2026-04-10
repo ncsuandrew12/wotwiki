@@ -1,0 +1,19 @@
+'''Dhowlan''' was a kingdom of the [[Third Age#Free Years|Free Years]]. It was founded after the [[Trolloc Wars]], rising out of the southernmost remnants of [[Manetheren]], and was later conquered by the [[false Dragon]] [[Guaire Amalasan]] and then [[Artur Paendrag Tanreall|Artur Hawkwing]]. The modern kingdom of [[Ghealdan]] almost exactly matches the borders of Dhowlan.
+
+==Geography==
+[[Image:Dhowlan.png|thumb|right|200px|In red location within the Westlands]]
+
+Dhowlan possessed almost identical borders to the kingdom that replaced it, Ghealdan. It stretched from the [[Manetherendrelle|River Manetherendrelle]] in the north to the [[River Eldar]] in the south, with the [[Mountains of Mist]] to the west, and [[Garen's Wall]] to the north and east. Dhowlan's neighbors were [[Farashelle]] to the north, [[Shiota]] to the east, [[Kharendor]] to the south, and [[Elan Dapor]] and [[Darmovan]] to the west, over the mountains. The capital city is presumed to have been [[Jehannah]], as it was for Ghealdan later on.
+
+==History==
+Dhowlan appears to have been a small, quietly prosperous nation troubled only by intermittent warfare with Farashelle to the north, possibly as part of an attempt to restore Manetheren. A great general, Garen, protected Dhowlan several times from invasion by using the immense ridge line to the north as a defensive fortification, and developing tactics and additional fortifications to stop it being outflanked. The ridge is named for him.
+
+Dhowlan was conquered by Guaire Amalasan during the [[War of the Second Dragon]], and fell into discontent and lawlessness for a time after his death. Artur Hawkwing annexed the kingdom during the [[Consolidation]] and added it to his [[Artur Hawkwing's Empire|empire]] as a province. During the [[War of the Hundred Years]] the nation was gripped by fighting, mostly in attempts to restore Dhowlan. After the longest attempt at this failed, in {{Fy|1109}} four strong Houses jointly seized the throne and mediated a peace treaty between the remaining contenders, forming the Crown High Council. To sever the ties to the past, the nation was renamed Ghealdan, making it one of the last of the modern kingdoms to be founded.
+
+==Sources==
+Dhowlan's borders are shown in ''[[The World of Robert Jordan's The Wheel of Time]]''. The details of its transition into Ghealdan are given in the [[The Wheel of Time Roleplaying Game#Web Enhancement|web enhancement]] for ''The Wheel of Time Roleplaying Game''. The role of Garen and his Wall was explained by Robert Jordan in his weekly Q&A on Tor's website.
+
+{{nations}}
+[[es:Dhowlan]]
+[[Category:Nations of the Free Years]]
+[[Category:Historical nations]]

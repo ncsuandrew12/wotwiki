@@ -1,0 +1,37 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=House Trakand
+| gender=Female
+| occupation=First Maid
+| build=Slightly Plump
+| status=Unknown
+| hair=Graying
+| appeared={{loc|10}}
+| lastappeared={{kod|35}}
+| living=kod
+}}
+'''Reene Harfor''' is the [[First Maid]] of the [[Royal Palace]] in [[Caemlyn]].
+
+== Appearance ==
+She is slightly plump with graying hair and a long chin.
+
+== Activities ==
+She helps to run the Royal Palace after [[Rand al'Thor]] defeats Lord [[Gaebril]].
+She greets [[Elayne Trakand]], when she arrives back in Caemlyn to lay claim to the [[Lion Throne]].
+
+She announces [[Mazrim Taim]] to Elayne, when he arrives in Caemlyn. She begins to try and find any spies that may be lurking within the servant's quarters. She reports to Elayne about a couple that have left suddenly that may have been spies.
+[[Min Farshaw]] runs into Reene when she is escorting Rand, who has been hidden by the [[Mask of Mirrors]], to Elayne.
+
+After discovering a lot of spies in the Palace Elayne give to [[Halwin Norry]] and to Reene Harfor the task to organize an intelligence system to neutralize them. Between Norry and Harfor starts a rivalry to become the best spymaster. 
+Reene finally finds a spy and reports to Elayne that [[Jon Skellit]] is in the employ of [[House Arawn]]. Elayne tells Reene to keep an eye on them and feed them information that they are willing to be released. 
+Reene then hires Jon Skellit to sneak into [[Arymilla Marne]]'s camp and spy for Elayne. She also finds out that Master [[Harnder]] is a spy who reports to [[Millis Fendry]]. After Harnder's visit, Mistress Fendry sends a pigeon out that flies north. 
+
+
+She informs Elayne that Arymilla is trying to bribe the mercenaries under Elayne's current employ. She brings Elayne to where the mercenary captains await her and is present while Elayne meets with them. She also brings a report from Jon Skellit. He reports that Arymilla's men are fairly confident about taking Caemlyn very soon. 
+She runs to Elayne to tell her that some of the mercenary Captains they have hired, have turned camp and have started to attack the [[Far Madding Gate]] from the inside.
+After Arymilla is captured, Reene tells Elayne that most of her spies have become still and quiet. Elayne tells her to keep watching them as they will probably take coin from someone else to start spying again.
+
+{{DEFAULTSORT:Harfor, Reene}}
+[[Category:Eyes-and-ears]]

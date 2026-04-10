@@ -1,0 +1,20 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| society=Far Dareis Mai
+| affiliation=Car'a'carn
+| clan=Unknown clan
+| sept=Unknown sept
+| status=Alive
+| mentioned={{kod|29}}
+| lastmentioned={{kod|29}}
+| living=kod
+}}
+'''Aviellin''' is a ''[[Far Dareis Mai]]'' of an unknown clan and sept. 
+
+== Activities ==
+She is part of [[Perrin Aybara]]'s army that goes into [[Ghealdan]].
+
+She is gravely injured while taking out the [[Shaido]] sentries around [[Malden]] and has to be [[Heal]]ed by [[Janina]].

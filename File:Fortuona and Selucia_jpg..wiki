@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Fan Art
+|License     = GFDL
+|ImageType2  = Character
+|Source      = https://www.instagram.com/p/CDcRIxvHPl5/
+|Description = Fan art of [[Fortuona]] and [[Selucia]].
+|Artist      = nugubeef
+}}

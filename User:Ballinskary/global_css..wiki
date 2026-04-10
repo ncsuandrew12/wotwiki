@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Aleo|Heebo|Open+Sans&display=swap');
+
+h1, h2, h3, h4, h5 {
+	font-family: Aleo;
+}
+
+li {
+	font-family: Heebo; /* was Catamaran */
+	font-size: 12px;
+}
+
+#p-logo > a
+{
+	background-color: #BEEBFF;
+}
+
+body {
+	font-family: Heebo;
+	background-image: none;
+	background-color: #BEEBFF;  /* thats what you needed, fool */
+}
+
+/* this is what got the sidebar boxes to change color */
+#p-navigation > div, 
+#p-search > div,
+#p-interaction > div,
+#p-tb > div,
+#p-coll-print_export > div
+{
+	background-color: #E6F2FF;
+}
+
+#content, /* this is what got the padding to turn blue */
+#bodyContent {
+	background-color: #FBFDFE;
+}

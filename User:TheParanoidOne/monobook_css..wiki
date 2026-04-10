@@ -1,0 +1,13 @@
+a:visited {
+  color: green;
+}
+
+/* Make minor differences in a large paragraph diff more noticable. */
+.diffchange {
+  background-color: lightblue;
+}
+
+/* Make [[MediaWiki:copyrightwarning]] appear smaller */
+#editpage-copywarn {
+  font-size: smaller;
+}

@@ -1,0 +1,31 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Domani
+| title=Gaidin
+| gender=Male
+| build=Stumpy
+| status=Alive
+| occupation=Warder
+| affiliation=White Tower
+| appeared={{loc|8}}
+| lastappeared={{tgs|26}}
+| living=tgs
+}}'''Burin Shaeren''' is a [[Warder]] who is [[Bonding|bonded]] to [[Lelaine Akashi]].{{ref|{{twotc}}, Burin Shaeren}}
+
+== Appearance ==
+He is [[Domani]], with a typical coppery skin and stumpy.
+
+== History ==
+He has been her Warder for more than twenty years.
+
+== Activities ==
+While in Salidar, he is seen by [[Nynaeve al'Meara]] watching over [[Logain]], as he speaks to nobles about being set up as a false dragon by the [[Red Ajah]].
+
+He is with Lelaine, when she asks [[Siuan Sanche]] to pledge her support behind her if [[Egwene al'Vere]] is executed.
+
+He is guarding [[Romanda Cassin]]'s tent when cockroaches begin to pour into the tent.
+
+{{notes}}
+{{DEFAULTSORT:Shaeren, Burin}}
+[[Category:Rebel Aes Sedai]]

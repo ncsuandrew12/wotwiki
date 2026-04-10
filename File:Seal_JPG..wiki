@@ -1,0 +1,7 @@
+{{Image
+| License            = Fair Use
+| ImageType1         = Item
+| Description        = Broken seal of the Dark One's prison. Painting by Todd Cameron Hamilton.
+| Source             = ''[[The World of Robert Jordan's The Wheel of Time]]''
+| Artist             = Todd Cameron Hamilton
+}}

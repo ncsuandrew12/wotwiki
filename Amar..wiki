@@ -1,0 +1,16 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| gender=Female
+| mentioned={{loc|54}}
+| lastmentioned={{loc|54}}
+}}
+'''Amar daughter of [[Coura]]''' was an [[Ogier]] woman, mother of [[Elora]].{{ref/book|6|54}}
+
+==History==
+While her name is mentioned, as part of her daughter's name, nothing is known about Amar.
+
+{{notes}}
+{{short}}

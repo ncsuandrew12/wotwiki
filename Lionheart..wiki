@@ -1,0 +1,5 @@
+'''Lionheart''' is an [[Herbs|herb]] used medicinally by [[Seanchan]]. It helps alleviate pain.{{ref/book|9|14}}
+
+{{notes}}
+{{Short}}
+[[Category:Herbs and Medicines]]

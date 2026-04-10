@@ -1,0 +1,26 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| occupation=Cook
+| appeared={{cot|p}}
+| lastappeared={{cot|p}}
+| living=cot
+| status=Alive
+| gender=Female
+}}
+'''Eldrid Methin''' is a cook in the [[Sun Palace]] in [[Cairhien]].
+
+==Activities==
+Mistress [[Beldair]] bellows orders around the kitchen when [[Sashalle Anderly]] and [[Samitsu Tamagowa]] visit the kitchens in the Sun Palace. Eldrid is one of the cooks she gives orders to.
+
+She spins terrible tales about what she has heard about the [[Dragon Reborn]] and the [[Asha'man]]. These include:
+* That Rand tore half the palace apart with the One Power.
+* He has killed tens of thousands of people and would kill you soon as look as you.
+* That Rand killed [[Fedwin Morr]].
+* That Asha'man can turn you to stone by looking at you.
+* The Asha'man have glowing eyes and you can identify them by sight (she tells this excitedly to [[Karldin Manfor]], himself an Asha'man.
+
+Mistress Beldair scolds her for talking so much about a subject she apparently hates to discuss.
+
+{{DEFAULTSORT:Methin, Eldrid}}

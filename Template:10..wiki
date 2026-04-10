@@ -1,0 +1,4 @@
+''[[Crossroads of Twilight]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[Crossroads of Twilight/Prologue|Prologue]]|e|ep|epilogue=[[Crossroads of Twilight/Epilogue|Epilogue]]|g|glossary=[[Crossroads of Twilight/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}||[[Crossroads of Twilight/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|Crossroads of Twilight]]
+</noinclude>

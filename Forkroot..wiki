@@ -1,0 +1,39 @@
+'''Forkroot''' is an [[herbs|herb]] that interferes with an individual's ability to touch the [[One Power]]. In larger doses it also incapacitates and eventually renders the channeler unconscious. 
+
+==Description of effects==
+===For a channeler===
+Forkroot affects both male{{ref/book|11|4}} and female channelers, but it remains to be seen if forkroot would block the use of the [[True Power]] taken from the [[Dark One]].
+
+The main feature of forkroot is the inhibition of access to the [[True Source]]. Physical symptoms of forkroot poisoning for a channeler initially include fatigue, dizziness, weakness to the point of inability to move or speak until finally unconsciousness. It takes effect fairly quickly while its effects take a while to wear off. After revival from the unconscious state, weakness persists as does difficulty with channeling. Walking can help speed the regaining of strength and channeling ability. In the days following use of forkroot, the channeler will experience headaches and stomach cramps.{{ref/book|9|10}} At lower doses, many of those unpleasant side effects can be avoided while still inhibiting or limiting access to the Source.{{ref/book|11|Prologue}} 
+
+===For non-channelers===
+Forkroot does not affect non-channelers in the same way. A person who cannot channel can consume far greater quantities of forkroot with vastly reduced side effects. The amount needed to knock out a channeler would barely affect some one unable to touch the True Source.{{ref/book|11|Prologue}} It seems that forkroot was an herbal remedy of some kind before the discovery of its effect on channelers, but its purpose is never explicitly stated.
+
+==Usages against channelers==
+===Discovery===
+The effects of forkroot were discovered by [[Ronde Macura]], who prepared the herbs in a tea.{{ref/book|5|10}} She serves the tea to [[Elayne Trakand]] and [[Nynaeve al'Meara]] in [[Mardecin]], brewed so strongly that the same concoction made Macura and Luci—non-channelers—lose consciousness. The tea's taste is described as cool and minty. At one point Nynaeve incorrectly calls it "forktongue root".{{ref/book|5|48}}
+
+Nynaeve in turn uses forkroot tea on [[Moghedien]] in ''[[Tel'aran'rhiod]]'', causing the physical effects to take hold of her body in the waking world in [[Salidar]].
+
+===The White Tower===
+Macura sends word to the [[White Tower]] about the usefulness of forkroot after Elayne and Nynaeve flee. With this knowledge [[Elaida]] orders [[Joline]] and [[Teslyn]] to utilize it in the capture of Elayne and Nynaeve. Instead, Teslyn doses Joline with the forkroot to prevent her from interfering in Elayne and Nynaeve's escape from [[Ebou Dar]].{{ref/book|8|1}}{{ref/book|9|19}}
+
+Forkroot becomes common knowledge in the White Tower which annoys Elaida.{{ref/book|8|25}} Aes Sedai experiment with the herb, developing precise dosages for desired level of channeling inhibition.{{ref/book|10|30}} They prepare the forkroot in tincture form,{{ref/book|11|Prologue}} though perhaps it is administered in tea.{{ref/book|11|24}}
+
+After being captured at the [[Tar Valon#Northharbor|Northharbor]], [[Egwene al'Vere]] is drugged with the forkroot tincture. Throughout her captivity the Tower continues to drug her such that she can channel hardly a trickle, not enough to "cause any problems."{{ref/book|11|Prologue}}
+
+===The Seanchan===
+Macura passes the knowledge of forkroot to the [[Seanchan]] and is well rewarded for the information.{{ref/book|9|14}} They begin using forkroot to detect and capture men and women who can channel. 
+
+{{quote|There's a Seanchan army on the border of [[Murandy]]... Everybody who passes through they make drink a cup of some herbal tea... Every so often, this tea makes a woman go unsteady in her legs, and then the </em>[[sul'dam]]<em> come and [[a'dam|collar]] her.|[[Thom Merrilin]]{{ref/book|11|11}}}}
+
+The Seanchan produce the forkroot in [[Almizar]], preparing the herb by roasting (in flat pans over charcoal braziers) and grinding (using mortars and pestles or sieves) the root.{{ref/book|11|12}} The finished product resembles fine dark grains.{{ref/book|11|26}} There in the Almizar manufactory, [[Perrin]] and [[Tylee]] obtain large quantities of forkroot, four thousand eight hundred seventy-three pounds and nine ounces to be exact.{{ref/book|11|26}} Perrin and Tylee dump the supply into the aqueduct which leads to the cistern in [[Malden]]. The channeling [[Wise Ones]] were targeted successfully. Even an unintended target, [[Morgase]], collapses after drinking the water laced with forkroot, though she is an extremely weak channeler.
+
+===Other===
+[[Daved Hanlon]] spikes Elayne's tea with forkroot. Nynaeve helps ease some the effects of forkroot on Elyane with [[greenwort]] and [[goatstongue]].  These alleviate the stomach cramps and help with sleeping off the worst physical symptoms, but weakness and the inaccessibility of the Power remained unmitigated.
+
+{{notes}}
+
+[[es:Horcaria]]
+[[Category:Herbs and Medicines]]
+[[Category:Special objects]]

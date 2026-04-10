@@ -1,0 +1,29 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Saldaean
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Male
+| build=Compact
+| height=Short
+| eyes=Green
+| appeared={{tfoh|17}}
+| lastappeared={{cot|29}}
+| living=cot
+}}
+{{for|others with the same surname|Chavana}}
+'''Taeric Chavana''' is an acrobat in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling show]].
+
+==Appearance==
+Taeric is a short and compact man. He has green eyes and [[Saldaea]]n features such as high cheekbones and a hooked nose.{{ref/book|5|17}}
+
+==History==
+He is one of four "[[Chavana|brothers]]" who travels with Valan Luca's Traveling Show. They are obviously not brothers, due to the differences of their nationalities.
+
+==Activities==
+He is introduced to [[Elayne Trakand]], [[Nynaeve al'Meara]], [[Thomdril Merrilin]] and [[Juilin Sandar]] by Valan Luca when the four join the show. When Nynaeve invites the brothers to dinner, they all begin to flirt with her, causing a fight between Nynaeve and [[Latelle Luca|Latelle]]. Taeric gets a limp when he tries to break up the fight.{{ref/book|5|24}} They are still with the show when [[Matrim Cauthon]] comes to the show.{{ref/book|10|29}}
+
+{{notes}}
+{{DEFAULTSORT:Chavana, Taeric}}

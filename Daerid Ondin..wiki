@@ -1,0 +1,45 @@
+{{ character 
+| image=BOTRH icon.jpg
+| ewot=Daerid
+| nationality=Cairhienin
+| rank=Lieutenant-General
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| height=Short
+| build=Slender
+| hair=Shaven
+| status=Alive
+| eyes=Hard
+| appeared={{tfoh|43}}
+| lastappeared={{loc|38}}
+| lastmentioned={{tgs|34}}
+| living=kod
+}}'''Daerid Ondin''' is a lieutenant-general in the [[Band of the Red Hand]].{{ref|{{twotc}}, Daerid Ondin}}
+
+==Appearance==
+He has a scarred face and a nose that has been broken more than once.
+
+==History==
+He was born roughly in the year {{ne|960}} in [[Cairhien]]. He is a "good fifteen years" older than [[Talmanes Delovinde]], who was born around the year {{ne|975}}.
+
+He has been a soldier all his life. As a commoner he has risen to his position solely on merit - infantry is the one arm generally neglected by the nobility of the Westlands who generally prefer the dash and pageantry of armored cavalry.
+
+Due to his social rank, he would have normally been condemned to remain a relatively minor military commander who merely carries out the orders passed down from his superiors.
+
+==Activities==
+When Mat first meets him he is a [[Cairhienin]] soldier who is in charge of an infantry unit. He is saved by Mat who warns him that an [[Aiel]] ambush party lies up ahead during the battle outside Cairhien.
+
+He helps fight the Aiel that try to assassinate Mat.
+
+He later rises to command the infantry forces of the [[Band of the Red Hand]].
+
+He later gains the rank of [[Lieutenant-General]], third in line to command after [[Mat Cauthon]] and [[Talmanes Delovinde]] - this rank, in effect, gives him the social rank of a noble, both in the Band and in the eyes of those that deal with the Band. While other nobles may not respect him as their social equal, still considering him a commoner, they are generally shrewd enough to respect the power he represents - power backed up by cold steel.
+
+In addition, his high rank in the Band is quite likely to be a motivator to the mass of commoners that make up the Band, for his rank makes it clear that ability is rewarded in the Band, regardless of a man's origins.
+
+He joins Talmanes and [[Aludra]] in the underground cavern with the dragons during the [[Tarmon Gai'don|Last Battle]]. He helps command the dragoners as they fire through [[gateways]] at targets on the surface. He sees Talmanes smile for perhaps the first time ever, and comments that it's horrifying, but that he should maybe do it more often.
+
+{{notes}}
+{{DEFAULTSORT:Ondin, Daerid}}<references />
+{{DEFAULTSORT:Ondin, Daerid}}

@@ -1,0 +1,23 @@
+'''The wind''' is a framing device used in the [[The Wheel of Time|novels of the Wheel of Time]]. Each book's first chapter{{ref|Only [[New Spring]] omits this framing device, being a prequel outside the main sequence.}} starts with a similarly structured paragraph:
+{{Quote|The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again. In one Age, called the Third Age by some, an Age yet to come, an Age long past, a wind rose...|[[Robert Jordan]]}}
+
+==Locations==
+Where the wind originates usually changes from book to book, reflecting the next focus of the story:
+* [[The Eye of the World/Chapter 1|The Eye of the World]]: born in the [[Mountains of Mist]], blows into the [[Westwood]].
+* [[The Great Hunt/Chapter 1|The Great Hunt]]: born in the [[Mountains of Dhoom]], blows south across the [[Great Blight]] to the towers of [[Fal Dara]].{{ref|This book and only this book rewords the opening phrase before the wind slightly.}}
+* [[The Dragon Reborn/Chapter 1|The Dragon Reborn]]: blows within the [[Mountains of Mist]].
+* [[The Shadow Rising/Chapter 1|The Shadow Rising]]: born in the [[Caralain Grass]], blows north and east into [[Tar Valon]].
+* [[The Fires of Heaven/Chapter 1|The Fires of Heaven]]: born in [[Braem Wood]], blows into [[Kore Springs]].
+* [[Lord of Chaos/Chapter 1|Lord of Chaos]]: born in the hills of [[Cairhien]], blows west into the [[Royal Palace of Andor]].
+* [[A Crown of Swords/Chapter 1|A Crown of Swords]]: born in [[Braem Wood]], blows all the way to [[Dumai's Wells]].
+* [[The Path of Daggers/Chapter 1|The Path of Daggers]]: born on [[Tremalking]], blows east across the [[Sea of Storms]] to [[Ebou Dar]].
+* [[Winter's Heart/Chapter 1|Winter's Heart]]: born above the [[Aryth Ocean]], blows east across [[Tarabon]] and [[Amadicia]] to [[Abila]].
+* [[Crossroads of Twilight/Chapter 1|Crossroads of Twilight]]: born in the [[Rhannon Hills]], blows west and north to the hills outside [[Ebou Dar]].
+* [[Knife of Dreams/Chapter 1|Knife of Dreams]]: born above [[Dragonmount]], blows east into the siege camp around [[Tar Valon]].
+* [[The Gathering Storm/Chapter 1|The Gathering Storm]]: born near the damaged [[White Tower]], blows out of [[Tar Valon]] all the way to a manor house in [[Arad Doman]].
+* [[Towers of Midnight/Chapter 1|Towers of Midnight]]: born above [[Imfaral]], blows across [[Seanchan (continent)|Seanchan]] and the entire [[Aryth Ocean]] to [[Alysa|Alysa Bunt]]'s orchard near Dragonmount.
+* [[A Memory of Light/Chapter 1|A Memory of Light]]: born in the Mountains of Mist, blows out of the [[Two Rivers]], past [[Caemlyn]], into the encampment at the [[Field of Merrilor]].
+** in the epilogue ''[[A Memory of Light/Epilogue|To See An Answer]]'', the wind rises once more around [[Rand]], blows southward through forests and plans, and toward "lands unexplored".{{ref|Possibly the [[Mad Lands]]??}}
+
+{{notes}}
+[[Category:Concepts]]

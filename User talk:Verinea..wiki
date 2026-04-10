@@ -1,0 +1,31 @@
+Thanks for your edits! Are you doing a reread of The Dragon Reborn? Hope to see more improvements coming! [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 13:47, 28 November 2020 (UTC)
+
+:You guessed it! I decided to look up all the characters this time so I don't miss anything. I forgot there were 2000+ character names x_x. I look forward to contributing! — [[User:Verinea|Verinea]] ([[User talk:Verinea|talk]]) 22:37, 28 November 2020 (UTC)
+
+== Lini's sayings ==
+
+I just happened to come across the entry in the Companion that has a full list of Lini's sayings. Might be worth making it's own page although with references from the books because I don't know if copying the whole list verbatim from the Companion is allowed... [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 16:17, 6 December 2020 (UTC)
+
+:Ooh, nice, I'll have to get my hands on a copy of the companion. In the meantime, I'll hopefully remember to add the references when I come across them in the books. How many were there? — [[User:Verinea|Verinea]] ([[User talk:Verinea|talk]]) 22:52, 6 December 2020 (UTC)
+
+:: Around 1.5 pages! I don't know if they all appear in the series, but would guess not. :P [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 00:13, 7 December 2020 (UTC)
+
+:: You got a list from somewhere then? Did you get the Companion? [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 11:28, 12 December 2020 (UTC)
+
+::: Yup, from my local library - surprisingly quickly. Meanwhile, I'm reading at a snails pace because of all the wiki edits I'm making, ahah. ;_; . Please feel free to let me know if there's anything you notice I could be doing better. I have some wiki experience, but I'm not an expert on wiki guidelines (and wouldn't know what applies here specifically anyway), and sometimes I get a little carried away. I'm still hoping to keep adding references to the [[Lini's sayings]] page as I go.  — [[User:Verinea|Verinea]] ([[User talk:Verinea|talk]]) 12:18, 12 December 2020 (UTC)
+
+:::: Wow, must be a great library! I'm not reading all the edits you are making as there are a lot of them, but the ones I have seen seem fine. I am out of practice at some of the source code for the formatting, but I'm refamiliarising myself with it. Kylara is helpful to ask for some of the technical stuff. I will help out with the referencing for the pages on Lini. I finished a page on [[Great Tree]]s that I'm pleased with. I'm listening to the audiobooks between other non-WoT books so am also at a snail's pace. :) [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 12:29, 12 December 2020 (UTC)
+
+: All references for quotes found! Every one of them was in the main books somewhere. So many! I only found one that wasn't in the Companion and there were two very similar ones that I merged together. I might reorder them by appearance or theme to break it up a bit, but maybe not. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 12:41, 17 December 2020 (UTC)
+
+::Nice work! You have a pdf copy of the books? That must come in handy! 
+::I did notice the duplicated honeycomb one when I was typing them out - did you find two separate instances? Or is it from the same chapter?
+::I considered sorting them too. I should be able to format it into a sortable wikitable if you think it's worth it? — [[User:Verinea|Verinea]] ([[User talk:Verinea|talk]]) 13:29, 17 December 2020 (UTC)
+::: Yes, I have a PDF copy of the books. You can get them easily if you search online, but unfortunately it's books 1-10 with the rest as separate files. I tried to merge them into a single PDF, but something got broken in the search facility when I did. I also am lacking the NS novel in PDF. Certainly very useful though! The honey in the comb one appears twice, but only one version (the second) so maybe we should delete the first wording as it's redundant and doesn't appear anywhere I can find. The wikitable might be useful as I don't know how to code that and it would be an example I could look at, but I was thinking of grouping by book they appear in or, if possible, by theme. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 13:49, 17 December 2020 (UTC)
+
+:::: That's why I suggested the sortable table, because then the user can choose which column they sort by (alphabetically, book or theme). 
+:::: I've gone ahead and put in a table to see how it looks. Actually I cheated and used the menu bar on this one, since I wouldn't know the code off by heart either. I'm thinking the "book" column needs better formatting, but I'm not sure whether to include the book title as well as book number and chapter, or whether to break them into separate columns. — [[User:Verinea|Verinea]] ([[User talk:Verinea|talk]]) 06:51, 18 December 2020 (UTC)
+
+::::: Definitely looks more organised and less just plain text. If there was a way to organise books by order in the series by default it would be better I'll try to think how to group them by theme later on today. Nice work. :) If we could find or be bothered to do it, a similar list for Siuan Sanche's fish saying might be amusing. :P [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 15:14, 18 December 2020 (UTC)
+
+: I filled in themes for the sayings, but they are open for change/recategorization. See what you think. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 01:24, 19 December 2020 (UTC)

@@ -1,0 +1,1 @@
+You searched for '''[[:$1]]''' - ''(Index of pages starting with [[Special:Allpages/$1|$1]])''.

@@ -1,0 +1,7 @@
+=KABOOM!=
+
+If you're using Internet Exploder, don't view/restore the deleted version of this template. It triggers the self-destruct mechanism. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 21:28, 26 Oct 2005 (UTC)
+
+== Contributors? ==
+
+Is there any more compact/sensible way to list our contributors? I thought a link to the [http://wot.wikicities.com/index.php?title=Special%3AAllpages&from=&namespace=2 All Pages (user namespace)] would work, but that's sort of ugly. Any ideas? [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:18, 22 Dec 2005 (UTC)

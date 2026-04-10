@@ -1,0 +1,33 @@
+{{ character
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| gender=Male
+| rank=Captain
+| build=Lean
+| eyes=Black
+| hair=Graying, curly
+| affiliation=The Dragon Reborn
+| status=Alive
+| appeared={{tpod|21}}
+| lastappeared={{amol|20}}
+| living=amol
+}}
+'''Rodrivar Tihera''' is the Captain of the Stone, and Commander of the [[Defenders of the Stone]] in [[Tear]]. 
+
+== Appearance ==
+He is lean with a sharply pointed oiled beard. Dark even for a Tairen, he was slender but with a large chest and shoulders that made him seem more massive than he was. He is about 5'9 to 5'10 tall. He had black eyes and graying hair in tight curls. {{Ref|{{twotc}}, Rodrivar Tihera}}
+
+== History ==
+He is a minor noble, with little wealth and estates. He is a lifelong soldier, and keenly aware that he had to struggle to get where he was.
+
+He is intense, fastidious and meticulous. He is a good soldier, though by no means a great captain. He is aware that he is more competent that many of the men who gave him orders in Tear.
+
+== Activities ==
+He joins [[Rand al'Thor]]'s forces just outside [[Illian]] to fight the invading [[Seanchan]] army. He is quite often the leader of Rand's bodyguards. He spreads the Defenders out on Rand's flanks in the final assault on the Seanchan.
+
+Rodrivar Travels with his men to [[Shayol Ghul]], where he takes command of the Tairen forces. At [[Thakan'dar]], he works with [[Darlin Sisnera]] and [[Rhuarc]] on tactics after [[Rodel Ituralde]]'s Compulsion is discovered.
+
+{{Notes}}
+
+{{DEFAULTSORT:Tihera, Rodrivar}}

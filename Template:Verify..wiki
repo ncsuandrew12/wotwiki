@@ -1,0 +1,3 @@
+<includeonly><sup class="noprint"><span style="cursor: help;" title="Citation needed. {{{reason|{{{1|}}}}}}">❔</span></sup>{{#tag:ref|[[Wotwiki:Cite your sources|Citation needed]]|name="verify"}}{{#if:{{{note|{{{1|}}}}}}|{{#tag:ref|{{{note|{{{1|}}}}}}|name="{{{note|{{{1|}}}}}}"}}}}[[Category:Citation needed]]</includeonly><noinclude>{{Documentation}}
+[[Category:Utility templates]]
+</noinclude>

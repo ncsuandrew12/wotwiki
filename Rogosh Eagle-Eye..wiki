@@ -1,0 +1,32 @@
+{{character 
+| image=Valere-icon-color.png
+| imagesize=100px
+| ewothist=Rogosh
+| name=Rogosh
+| status=Bound to the Wheel
+| nationality=Talmouri
+| affiliation=Horn of Valere
+| rank=Hero of the Horn
+| gender=Male
+| hair=White
+| eyes=Sharp
+| appeared={{tgh|47}}
+| lastappeared={{tgh|47}}
+| lastmentioned={{tfoh|24}}
+}}
+'''Rogosh Eagle-Eye''' is a [[Heroes of the Horn|Hero of the Horn]], and like the other heroes, currently resides in ''[[Tel'aran'rhiod]]'', waiting for the [[Horn of Valere]] to be blown. 
+
+== Appearance ==
+He is fatherly looking, with white hair and very sharp eyes.
+
+== History ==
+In stories, he is associated with his love, [[Dunsinin]]. One book that chronicles their love is [[The Flame, the Blade and the Heart]]. 
+
+Rogosh was from [[Talmour]], and served in [[Artur Hawkwing]]'s court.
+
+== Summoned by the Horn ==
+Rogosh Eagle-Eye was called back when [[Matrim Cauthon]] blew the Horn of Valere near [[Falme]].{{ref/book|2|47}}
+
+{{notes}}
+{{DEFAULTSORT:Eagle-Eye, Rogosh}}
+[[Category:Historical people]]

@@ -1,0 +1,75 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Shienaran
+| build=Lanky
+| title=First Weaver
+| affiliation=White Tower
+| rank=Aes Sedai
+| occupation=Sitter
+| status=Alive
+| appeared={{cot|21}}
+| mentioned={{tpod|25}}
+| lastappeared={{tgs|46}}
+| living=tgs
+}}
+'''Suana Dragand''' is an [[Aes Sedai]], a former [[Sitter]] and the current head of the [[Yellow Ajah]].
+
+==Appearance and Personality==
+
+She described as "beefy" with "too much chin, a square stone of it".{{ref/book|10|21}} The Companion describes her as "A beefy woman, with too much chin, blue eyes, a square face and wide square hands".{{ref|{{twotc}}, Suana Dragand|comp}}
+
+She has an unyielding demeanor.{{Ref/book|12|43}}. Alviarin thinks she is arrogant and likely to take her own views as that of her whole Ajah.{{ref/book|10|21}} She has a blunt manner.{{ref||comp}}
+
+She is also politically well-connected and very knowledgeable - a woman with a will who could get things done..{{ref||comp}}
+
+==Strength and Abilities==
+Suana has a strength in the [[One Power]] of {{opsl|28}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+Despite the fact that she is not among the strongest sisters, she is considered in the first rank in the [[Talent]] of [[Healing]]. Her abilities are so great that no sister, not even those much stronger than she, could do better, with the possible exception of [[Samitsu]]. 
+
+==History==
+
+Born in [[Shienar]] in {{ne|784}}, she went to the Tower in {{ne|798}}. After sixteen years as Novice and twelve as Accepted, she was raised to the shawl in {{ne|826}}.
+
+She was a [[Sitter]] for more than thirty years between 919 and {{ne|952}}, before stepping down from that position{{Ref/book|10|p}}. She was made Ajah Head in {{ne|947}} and she was still in the position of [[First Weaver]] of the Yellow Ajah in the White Tower during the {{ne|999}} [[Schism]]{{Ref/book|10|21}}. She has therefore been the Head of her Ajah for over 50 years and her life expectancy could be at least another 50. It's not clear how normal it is to have an Ajah Head in place for that long.
+
+Her rooms look like a garden, with mirrors positioned to reflect light within the room. It is full of aromatic herbs pots, even little trees in vases. Also the internal balcony is like a greenhouse. [[Egwene]] thinks that [[Nynaeve]] would be pleased to see a Yellow working with herbs {{Ref/book|12|12}}. 
+
+Suana is one of a few characters who are identified early as definitely not being [[Darkfriend]]s as [[Alviarin Freidhen]] stated that [[Galina Casban]] was the only Ajah Head to be a member of the [[Black Ajah]]{{Ref/book|8|25}}.
+
+==Activities==
+===The Schism===
+During the [[White Tower Schism]], Suana and five other [[Ajah Head]]s were caught by surprise by the coup that deposed [[Siuan]] Sanche from the Amyrlin Seat and elected [[Elaida do Avriny a'Roihan]] in her place. Despite this complicated situation they remained in the White Tower{{Ref/book|10|p}}, apparently loyal to the new Amyrlin, thinking to take advantage from the events and also to find a way to restore unity{{Ref/book|12|43}}.
+
+After the departure of [[Magla Daronos]] from the Tower, Suana replaced her as Sitter by resuming her previously held position in the Hall{{Ref/book|10|p}}. This is an extreme oddity among [[Aes Sedai]]; generally one does not return to the Hall after a departure, thus causing suspect. 
+
+After the [[Rebel Aes Sedai]] started successfully the siege around [[Tar Valon]], Suana, along other Sitters, showed strong feelings about beginning negotiations with the rebels and later Elaida granted to them to arrange meetings with rebel emissaries{{Ref/book|10|21}}.
+
+When Egwene was captured by the loyalists and reduced again to the rank of a Novice, Suana obtained a meeting with her, with the excuse to teach Egwene, as a means to know her better. 
+
+While teaching Egwene some Healing weaves, Suan was impressed by the effort of the young woman to restore the unity of the Tower. She even offered Egwene to join the Yellow Ajah. Egwene tried to get Suana to begin being seen in public with other Sitters of different Ajahs, in an attempt to regrow trust among the different Ajahs{{Ref/book|12|12}}.
+
+===Reunification===
+It is revealed that Suana and the rest of the [[Ajah Heads]] (excluded Red and Blue) are behind the [[Too Young Sitters]] conspiracy. Unfortunately their plan didn't work and they are forced to throw their support behind a new [[Amyrlin]] after Elaida is captured by the [[Seanchan]]. After a discussion they all agree to raise Egwene as the new [[Amyrlin Seat]]{{Ref/book|12|43}}.
+
+As a Sitter in the Hall Suana raises Egwene to the Amyrlin Seat. Suana is smiling openly when Egwene enters the Hall and she is also one of the three Sitters, along with [[Yukiri]] and [[Seaine]], who pledges for Egwene {{Ref/book|12|46}}. 
+
+Following re-unification, Suana steps down as Yellow Sitter to leave her chair to one among [[Magla]] or [[Romanda]] {{Ref/book|14|27}} (the other chair being left by the fugitive [[Sedore]] revealed as Black Sitter), but she probably maintained the place as Ajah head, as before the schism. 
+
+==Quotes==
+
+{{quote|Being of the Yellow isn't about skill...It's about passion. If you love to make things well, to fix that which is broken, there would be a purpose for you here.|Suana Dragand, [[First Weaver]] of the Yellow Ajah to [[Egwene]]{{Ref/book|12|12}}}} 
+
+==Errata==
+Her physical description in [[The Gathering Storm/Chapter 43]] is given as "a lanky thing, all bones and skin", but this is incompatible with how Jordan described her in [[Crossroads of Twilight/Chapter 21]] and in the Companion. Potentially, Sanderson misread the line "Suana, a beefy woman, gave Alviarin a tight glance, and Shevan, tall as a man and angular" and mistakenly attributed Shevan's description to Suana.
+
+{{notes}}
+{{DEFAULTSORT:Dragand, Suana}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Best healers]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

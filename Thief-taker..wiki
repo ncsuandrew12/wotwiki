@@ -1,0 +1,26 @@
+'''Thief-takers''', called '''thief-catchers''' in [[Tear]], are those who specialize in tracking down thieves and bandits in cities.
+
+==Services==
+[[Hurin]] is described as a "thief-taker for the King of Shienar", indicating that he is in the personal service of [[Easar Togita]].{{ref/book|2|10}}. Elayne describes their role in society:
+<blockquote>thief-takers are not like the Queen’s Guards, or the Tairen Defenders of the Stone. They serve the ruler, but people who have been robbed sometimes pay them to retrieve what was stolen. And they also sometimes take money to find people. At least, they do in Caemlyn.{{ref/book|3|48}}</blockquote>
+
+Thief-catcher is a term used in Tear alone. All other nations use the term thief-taker.{{ref|{{twotc}}, thief-catcher}}{{ref|{{twotc}}, thief-taker}}
+
+Juilin outlines his services and fees:
+<blockquote>“To recover stolen goods,” he said briskly, “I ask the tenth part of the value of what I recover. For finding someone, I ask a silver mark for each person. Mother Guenna says the things stolen have little value except to you, mistress, so I suggest you take that choice...
+
+...I would not take money from you at all, except that the brotherhood would frown on it, but I will take as little as I can. A copper or two, no more."{{ref/book|3|49}}</blockquote>
+
+==Weapons==
+Their weapon of choice is usually a sword breaker, as thief-takers are generally focused on disarming and capturing outlaws rather than killing them. Hurin carries a sword, and Nynaeve questions why Juilin doesn't use one, hinting that he may need more protection. Juilin's response is that he expects Borderlanders are all warriors.
+
+==Thief-catcher vs Thief-taker==
+Juilin Sandar complains to both Mat and Nynaeve about being called "thief-taker" instead of "thief-catcher", though both characters don't understand the difference.{{ref/book|3|54}}{{ref/book|5|8}}
+<blockquote>Juilin had gone on at length about being a thief-catcher—never a thief-taker—and stared so many prickly lordlings and complacent merchants in the eye to show he was as good as they that everyone in the Palace knew who and what he was.{{ref/book|9|17}}</blockquote>
+There is clearly something objectionable to being called "thief-taker" in Tear. There are two possible reasons for this. The first is a strict class hierarchy in Tear. Perhaps "thief-takers" in Tear are not as prestigious. The second, possibly more likely, is that there is a guild of thief-catchers. Juilin says he won't do work for free because "brotherhood would frown on it", so there are prescribe rules for the profession.{{ref/book|3|49}} The guild mambers may be differentiable from non-guild "thief-takers".
+
+{{notes}}
+
+[[es:Rastreador]]
+[[Category:Culture]]
+[[Category:Thief-catchers| Thief Taker]]

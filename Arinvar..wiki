@@ -1,0 +1,41 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Cairhienin
+| title=Gaidin
+| hair=Graying
+| gender=Male
+| build=Slender
+| height=Short
+| occupation=Warder
+| affiliation=White Tower
+| status=Alive
+| appeared={{tfoh|27}}
+| lastappeared={{kod|1}}
+| lastmentioned={{tgs|43}}
+| living=tgs
+}}
+'''Arinvar''' is [[Warder]] to [[Sheriam Bayanar]]. 
+
+==Appearance==
+He is a short, slender [[Cairhienin]], graying slightly at the temples. He rides a dark bay stallion. {{ref/book|10|16}} 
+
+==Activities==
+While the Rebel Aes Sedai are hiding in [[Salidar]], he gives the news to the [[Salidar Six]] that [[Gareth Bryne]] has arrived.
+
+He is part of the Warders that accompany [[Egwene al'Vere]] and Sheriam when they survey the area around [[Tar Valon]].
+
+He is guarding [[Myrelle Berengari]]'s tent when [[Siuan Sanche]] arrives with the news that Egwene is still alive inside the [[White Tower]].
+
+His fate and affiliation is unknown. He is assumed to have been brought back to the Tower.
+
+==Sheriam's Tormentor==
+Sheriam was beaten at least once by a [[Halima Saranov|mysterious assailant]]. Arinvar should have sensed something was up via the Warder bond, unless Sheriam deliberately masked it for the short period. His opinions or even knowledge of this event is unknown. It is also unknown what happens to him after Sheriam's execution.
+
+==External links==
+*{{TVlink|Arinvar}} on {{TVlink}}
+
+{{notes}}
+
+[[es:Arinvar]]
+[[Category:Rebel Aes Sedai]]

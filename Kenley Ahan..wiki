@@ -1,0 +1,35 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Dead
+| gender=Male
+| birth={{ne|979}}
+| death={{ne|999}}
+| affiliation=Two Rivers
+| appeared={{teotw|r}}
+| lastappeared={{tsr|40}}
+| lastmentioned={{tsr|43}}
+}}'''Kenley Ahan''' was a resident of the [[Two Rivers]].{{ref|{{twotc}}, Kenley Ahan}} 
+
+==Appearance==
+He has a square face and carried himself very straight, as if to stretch taller than he was.{{Ref/book|1|r}}
+
+==History==
+His mother is [[Mistress Ahan]] and he is two years older than Egwene.{{Ref/book|1|r}}
+
+His family's farm is between [[Emond's Field]] and [[Watch Hill]]. He is familiar with Watch Hill as he often visits the village.{{ref/book|4|33}} 
+
+== Activities ==
+In {{ne|990}}, he tells [[Egwene al'Vere]] to do her job at the shearing and not to play with the children. He is caught trying to steal honeycakes from [[Corin Ayellin]], who scolds him strongly.{{Ref/book|1|r}}
+
+He goes with [[Perrin Aybara]] to rescue the prisoners taken by the [[Children of the Light]] when they are in the Two Rivers, saying that he will not go back home while [[Trollocs]] are still around. He is put in charge of a group of ten.{{ref/book|4|33}}
+
+When Perrin sets up an ambush for a group of Trollocs in the Two Rivers, they are betrayed by Lord Luc ([[Slayer]]) and Kenley is killed when the Trollocs then ambush Perrin's group. [[Wil al'Seen]] reports that he saw Kenley's head in an oak tree with the rest of his body at the foot and comments that Kenley won't be bothered by his cold any more.{{ref/book|4|40}}
+
+{{notes}}
+{{DEFAULTSORT:Ahan, Kenley}}<references />
+{{DEFAULTSORT:Ahan, Kenley}}
+
+<references />
+{{DEFAULTSORT:Ahan, Kenley}}

@@ -1,0 +1,4 @@
+{{Forumheader|Hall of the Tower}}
+<!-- Please put your content under this paragraph.  Be sure to sign your edits with four tildes: ~~~~ -->
+
+We should add a list of detahs page. It should be only for named characters, so we dont have to calucate.

@@ -1,0 +1,20 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Sailmistress
+| build=Stocky
+| status=Alive
+| appeared={{kod|22}}
+| lastappeared={{kod|22}}
+| living=kod
+}}
+'''Turane''' is an ''[[Atha'an Miere]]'' [[Sailmistress]].
+
+== Appearance ==
+She is very stocky.
+
+== Activities ==
+She lost her vessel in [[Ebou Dar]] and now captains a [[Seanchan]] ship. Her craft is used by the ''Atha'an Miere'' [[First Twelve]] for their meeting with [[Rand al'Thor]]'s ambassador [[Logain Ablar]].

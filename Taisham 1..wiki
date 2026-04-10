@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Taisham}}
+|}
+'''Taisham 1 (December 22)'''
+
+==Events==
+</noinclude>
+*Recurring - The [[Feast of Lights]]
+*{{ne|1000}} - [[Perrin]] sets out after [[Rand]].
+<noinclude>
+==External links==
+*[[wikipedia:december 22|December 22]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

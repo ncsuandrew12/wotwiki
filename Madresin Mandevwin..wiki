@@ -1,0 +1,36 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Cairhienin
+| rank=Captain
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| build=Stocky
+| hair=Gray streaks
+| status=Alive
+| appeared={{kod|27}}
+| lastappeared={{amol|37}}
+| living=amol
+}}'''Madresin Mandevwin''' is a Captain in the [[Band of the Red Hand]].{{ref|{{twotc}}, Madresin Mandevwin}}
+
+== Appearance ==
+He is stocky, with one eye. He has gray streaks in his hair.
+
+== History ==
+He is from [[Cairhien]]. He used to fight in Andor and Tear.
+
+== Activities ==
+He has been in the Band since its formation in [[Cairhien]].
+
+[[Matrim Cauthon]] joins up with the Band again, when they find him in [[Altara]]. Mandevwin is in command of the band when they engage a [[Seanchan]] unit in an ambush, wiping out the whole contingent with just about no casualties.
+He is in command of the men when they engage the Seanchan force that are trying to kill [[Tuon Athaem Kore Paendrag]] for the one hundred thousand gold crown reward.
+
+He meets with Mat, who is planning how to the approach [[Trustair]], the next village along after [[Hinderstap]]. He is displeased with Mat's cover story for him, with him abandoning his sick aunt. He is present when [[Verin Mathwin]] arrives in the Band's camp.
+
+In Ebou Dar, Mat would use Mandevwin's name as an alias.
+
+During the [[Last Battle]], Mandevwin accompanies [[Faile]] when she secretly fetches the Horn of Valere from the White Tower. He ends up in the Blight after they escape through a gateway from the Bubble of Evil attacking them. After [[Vanin]] and [[Harnan]] flee when Faile catches them with the Horn of Valere, Mandevwin defends them, insisting that they are not Darkfriends. When [[Aravine Carnel]] betrays them, he is caught by a Black sister in flows of Air, and is released when [[Olver]] stabs the channeler.{{ref/book|14|37}}
+
+It is unknown what happened to him or the rest of the group after that, but as Vanin and Harnan had released all the prisoners in the area, it is possible they survived and escaped.
+
+{{notes}}

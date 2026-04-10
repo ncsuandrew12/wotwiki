@@ -1,0 +1,24 @@
+{{ character | image=Aiel-icon.svg
+| imagesize=200px
+| ewothist=Comran
+| nationality=Aiel
+| gender=Male
+| clan=Aiel
+| status=Dead
+| mentioned={{tsr|25}}
+| lastmentioned={{tsr|25}}
+}}
+'''Comran''' was an [[Aiel]] who during the [[Breaking]].{{ref/book|c|Comran}} His story is learned from Rand's [[Visions of Rhuidean|visions]] in the ''[[ter'angreal]]'' of Rhuidean.
+
+{{Ancestry/Rand}}
+
+== History ==
+Comran was the grandfather of [[Mandein]] and the grandchild of [[Rhodric]].
+
+He found a Ogier ''stedding'' and began trade with them.{{ref/book|4|25}}
+
+==Errata==
+He is listed as "a [[Jenn Aiel]] ancestor of Rand" in [[The Wheel of Time Companion]], but he is both a descendant and ancestor of Aiel that abandoned the [[Way of the Leaf]]. Given the other mislabeling of Jenn Aiel, this is likely an error.{{ref/book|c|Comran}}
+
+{{notes}}
+[[Category:Historical people]]

@@ -1,0 +1,135 @@
+
+
+{| class="fandom-table"
+![[Angreal]]
+![[Sa'angreal]]
+!Ter'angreal
+|}
+
+
+'''''Ter'angreal''''' (pronounced: tear-ANH-gree-all) are objects of the [[One Power]] that perform specific functions. Some ''ter'angreal'' do not require the One Power to be used for their activation, such as the [[striped stone ring]] that [[Verin Sedai]] gave to [[Egwene al'Vere]], and the [[twisted redstone doorframe]]s that lead into the realms of the [[Aelfinn]] and [[Eelfinn]]. While not as rare as ''[[angreal]]'' or ''[[sa'angreal]]'', the method of making them was believed to be lost for thousands of years, until recently. Aside from the [[White Tower]], many ''ter'angreal'' have been found in the [[Stone of Tear]], in [[Rhuidean]] and in [[Ebou Dar]].
+
+== Creation: Present Age ==
+The [[Seanchan]] are the only people who are known to possess the secret of creating ''ter'angreal'', having been making'' [[a'dam]]'' for centuries. Upon encountering the Seanchan, [[Elayne Trakand]] came across the ''a'dam'', and by studying one, she was able to work out how to replicate it, and from there extrapolated how to make certain other types of ''ter'angreal''. She is the first initiate of the White Tower in millennia to discover this. She has been known to copy [[sleepweaver]]s as well as the [[Silver foxhead medallion|Foxhead medallion]].
+
+[[Nynaeve al'Meara]] has the ability to read ''ter'angreal'' and the [[Seals]] from the [[Dark One's prison]], possibly related to her [[talent]] of [[Listening to the Wind]], as she feels emotions that are somehow connected to the ''ter'angreal''; however, it has been confirmed that merely because Nynaeve feels pain from a ''ter'angreal'', its use may not be to inflict pain, but pain may have been the emotion felt by the person who last held the object.
+
+Recently, [[Aviendha]] has discovered that she has the [[Talent]] for discerning the use of ''ter'angreal'' just by holding them.{{ref/book|11|15}}
+
+==Types==
+The original uses of most ''ter'angreal'' are lost to the depths of time. A few, such as the [[silver arches]] which is used in the basement of the [[White Tower]] for [[Accepted Testing|testing]] to become an [[Accepted]], are used safely for what may or may not be a related purpose to the original intent, but most are stored away safely. ''Ter'angreal'' which require [[channeling]] can be activated at times just by someone channeling nearby, sometimes with disastrous results. [[Aes Sedai]] have been [[stilling|burned out]] trying to study them, or been killed, or have simply vanished. The type which do not require channeling to be activated, like the [[Root-like carving]], seem to be more rare, although they are generally kept safely stored away, unless their purpose is known, to prevent accidents.
+
+==Standing Flows==
+It was hinted by [[Mesaana]] that most common ''ter'angreal'' used in the [[Age of Legends]], even those that required channeling, could be used by non-channelers. When describing the function of a slender red call rod, she mentioned that powering it required simulating what she called the Standing Flows, described as an "always on" power source energizing any number of objects. This was done by weaving "hair-thin" flows of Fire and Earth at two of the "interconnections". No specification is given regarding the total number of "interconnections", but the wording implies multiple. No additional hints were given regarding the range and limitations.{{ref/book|10|21}}
+
+
+==List of recorded ''ter'angreal''==
+{|
+|
+*From the White Tower
+** [[Alabaster figurine]]{{ref|Stolen by the [[Black Ajah]].|stolen}}
+** [[Amber plaque]]{{ref|A [[sleepweaver]].|sleepweaver}}{{ref||stolen}}
+** [[Brilliant red rod]]{{ref/book|10|21}}
+** [[Chair of Remorse]]
+** [[Clear crystal rod]]{{ref||stolen}}
+** [[Fluted black rod]]{{ref||stolen}}
+** [[Glass bracelet]]{{ref||stolen}}
+** [[Hedgehog]]{{ref||stolen}}{{ref|Broken in {{3|55}}.}}
+** [[Iron disc]]{{ref||stolen}}
+** [[Metal gauntlets]]
+** [[Oath Rod]]
+** [[Oval ring]]
+** [[Peaceful illusions ter'angreal|Peaceful illusions ''ter'angreal'']]
+** [[Fancloth ter'angreal|Fancloth ''ter'angreal'']]
+** [[Silver arches]]{{ref||stolen}}
+** [[Silver ring]]
+** [[Six spotted dice]]{{ref||stolen}}
+** [[Twisted stone ring]]{{ref||sleepweaver}}
+*From Rhuidean
+** [[Access keys]]{{ref|The female statue was broken in {{9|35}} and the male statue was broken in {{12|50}}. A third, already broken statue was found by Egwene in {{4|11}}.}}
+** [[Glass columns]]{{ref|In Rhuidean.}}
+** [[Three rings]]
+** [[Red crystal chair]]
+** [[Crystal statue of a nude woman with child]]{{ref|Laying near the doorframe in Rhuidean, unbroken.}}
+*From Seanchan
+** ''[[A'dam]]''
+** [[Bloodknife ring]]
+** [[Crystal Throne]]
+|
+*From the Kin's Stash{{ref/book|8|2}}{{ref/book|8|4}}{{ref/book|8|20}}
+** [[Bearded man]]
+** [[Bent rod]]
+** [[Black and white bird]]
+** [[Blue woman]]
+** [[Bowl of the Winds]]
+** [[Crystal vial]]
+** [[Dull dagger]]
+** [[Flexible black rod]]{{ref/book|11|15}}
+** Generic [[Jewelry set]]s
+** [[Glass man]] {{ref/book|11|15}}
+** [[Glass blacksmith's puzzle]]
+** [[Helmet of metal feathers]]
+** [[Ivory box]]
+** [[Metal balls]]
+** [[Metal helmet]]{{ref/book|11|15}}
+** [[Red rod]]
+** [[Root-like carving]]
+** [[Water vase]]{{ref/book|11|15}}
+** [[White bowl]]{{ref/book|11|15}}
+**Nynaeve's Jewelery Set
+*** [[Golden jeweled bracelet]] {{ref/book|9|33}}
+*** [[Jeweled belt]]
+*** [[Ring with green stone]]
+*** [[Sapphire ring]]
+|
+*Cadsuane's Ornaments
+** [[Eight-pointed star]]
+** [[Golden carp]]
+** [[Golden crescents]]{{ref|Part of a set of hair ornaments, now held by [[Cadsuane Melaidhrin]]. Called a [[paralis-net]] by [[Semirhage]].|paralis-net}}
+** [[Golden hummingbird]]{{ref||paralis-net}}
+** [[Golden sleek fish]]{{ref||paralis-net}}
+** [[Golden swallow]]{{ref||paralis-net}}
+** [[Golden trout]]
+** [[Six-pointed star]]
+** [[Shadowed moon]]
+*Elayne's Creations
+** [[Green stone disc]]
+** [[Silver rose]]
+*Others
+**[[Bent black rod]]
+** [[Bookmark]]
+** [[Callbox]]
+**[[Domination Band]]
+**[[Dreamspike]]
+**[[Foxhead medallion]]{{ref|Owned by [[Mat Cauthon]].}}
+**[[Guardian]]
+**[[Seed]]
+**[[Small bent rod]]
+
+*Items that can be considered somehow ''Ter'angreal''
+**''[[Mah'alleinir]]''
+** [[Twisted redstone doorway]]{{ref|Two existed, one for communication with the [[Aelfinn]] and one for the [[Eelfinn]]. The latter, at least, was destroyed in Lanfear and Moiraine's battle on the docks of [[Cairhien]].}}
+*Collective names
+** [[Binding rod]]s
+** [[Paralis-net]]
+** [[Seed]]s
+** [[Sleepweaver]]s
+** [[Well]]s
+|}
+
+==See also==
+*''[[Angreal]]''
+*''[[Sa'angreal]]''
+
+== External links ==
+*{{TVlink|Ter'angreal}} on {{TVlink}}
+
+{{notes}}
+{{DISPLAYTITLE:''Ter'angreal''}}
+[[es:Ter'angreal]]
+[[Category:Items of Power]]
+[[Category:Ter'angreal| Ter'angreal]]<references />
+{{DISPLAYTITLE:''Ter'angreal''}}
+[[es:Ter'angreal]]
+[[Category:Items of Power]]
+[[Category:Ter'angreal| Ter'angreal]]

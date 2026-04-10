@@ -1,0 +1,38 @@
+{{character 
+| image=Accepted icon.png
+| imagesize=250px
+| nationality=Illianer
+| gender=Female
+| rank=Accepted
+| affiliation=White Tower
+| build= Lean
+| height=Tiny
+| status=Alive
+| eyes=Gray
+| mentioned={{tfoh|50}}
+| appeared={{loc|12}}
+| lastappeared={{cot|30}}
+| living=cot
+|birth = {{ne|968}}}}
+'''Emara''' is an [[Accepted]] who is part of the [[Salidar Aes Sedai]]. She is from [[Illian]].
+
+== Appearance ==
+She is lean and tiny with gray eyes and a quick grin. She has a high-pitched voice.
+
+==Strength and Abilities==
+Emara has a [[One Power]] strength of {{opsl|36}}, making her [[Strength in the One Power among Aes Sedai|weak]] for an Aes Sedai. She would be unable to [[Travel]] without linking with another sister.
+
+== Activities ==
+She was born in [[968 NE]], she went to the White Tower in [[985 NE]]. After spending nine years as a novice she was raised Accepted in [[994 NE]].  
+
+She did not like Siuan and Leane. She is one of the Accepted in Salidar.
+
+She is punished for taunting [[Siuan Sanche]] and [[Leane Sharif]] about their [[Stilling]]; but aside from that she was pleasant.
+
+She lives in the same house as [[Nynaeve al'Meara]] and [[Elayne Trakand]], and forced to share a bed with fellow Accepted [[Ronelle]] and serving women [[Satina]] and [[Mulinda]]. She did not resent any of her companions in the house. 
+
+When a [[Bubble of evil]] erupts in Salidar, she is nearly strangled by a sheet. She is saved, but is too ill to join the circles. 
+
+She is discourteous to [[Theodrin Dabei]], as she does not approve of her raising by decree. She is severely reprimanded for it by [[Egwene al'Vere]]. She delivers a message from [[Lelaine Akashi]], who wishes to meet with Egwene.
+[[Category:Rebel Aes Sedai]]
+[[Category:Channelers]]

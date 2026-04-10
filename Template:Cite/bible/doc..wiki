@@ -1,0 +1,30 @@
+==Purpose of template==
+Link to source for a Bible reference.
+
+== Usage ==
+
+<code><nowiki>{{</nowiki></code>Cite/bible|''book''|''chapter''|''verse''|''chapter2''|''verse2''|version=''version''<code><nowiki>}}</nowiki></code>
+
+== Examples ==
+
+{|class=wikitable
+!Code!!Result
+|-
+|<pre>{{Cite/bible}}</pre>||{{Cite/bible}}
+|-
+|<pre>{{Cite/bible|Genesis}}</pre>||{{Cite/bible|Genesis}}
+|-
+|<pre>{{Cite/bible|Genesis|2}}</pre>||{{Cite/bible|Genesis|2}}
+|-
+|<pre>{{Cite/bible|Genesis|2|3}}</pre>||{{Cite/bible|Genesis|2|3}}
+|-
+|<pre>{{Cite/bible|Genesis|2|3|4}}</pre>||{{Cite/bible|Genesis|2|3|4}}
+|-
+|<pre>{{Cite/bible|Genesis|2|3|4|5}}</pre>||{{Cite/bible|Genesis|2|3|4|5}}
+|-
+|<pre>{{Cite/bible|Genesis|2|3||6}}</pre>||{{Cite/bible|Genesis|2|3||6}}
+|-
+|<pre>{{Cite/bible|Genesis|2|3|4|5|version=KJV}}</pre>||{{Cite/bible|Genesis|2|3|4|5|version=KJV}}
+|-
+|<pre>{{Cite/bible|1 Samuel|2|3|4|5|version=KJV}}</pre>||{{Cite/bible|1 Samuel|2|3|4|5|version=KJV}}
+|}

@@ -1,0 +1,35 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| affiliation=Kandor
+| nationality=Kandori
+| title=Swordbearer
+| rank=General
+| gender=Male
+| build=Slender
+| hair=White at temples
+| status=Alive
+| appeared={{tpod|prologue}}
+| lastappeared={{amol|28}}
+| living=amol
+}}
+Lord '''Baldhere''' is the Swordbearer to Queen [[Ethenielle Kirukon Materasu]] of [[Kandor]]. 
+
+== History ==
+As part of his office, he holds the Sword of [[Kirukan]]. 
+
+== Appearance ==
+He is slender and has white hair at his temples. He has a biting tongue. 
+
+== Activities ==
+After Ethenielle's husband died, she chose him to command her army in his place.
+
+He accompanies Ethenielle to a meeting with the rest of the Borderland Rulers.
+
+Due to the chaos and devastation in Kandor, Ethenielle - and therefore Baldhere - were not present at the great council on the [[Field of Merrilor]], instead organising the rescue of refugees. Afterwards, they rejoined the other Borderlander rulers at [[Tarwin's Gap]]. Baldhere is with Ethenielle as she rides to meet with Lan when [[Dreadlords]] join the battle and start pummeling their army with the [[One Power]]. Lan orders the retreat of the Gap. Baldhere confronts Lan about [[Agelmar Jagad]] making a mistake with [[Kayen Yokata]]'s cavalry unit. The unit was completely wiped out by [[Trolloc]]s through a maneuver that Agelmar should have seen. Lan defends Agelmar but promises to watch him.
+
+He assisted [[Lan Mandragoran]] in uncovering [[Hessalam]]'s [[Compulsion]] on Lord Agelmar Jagad. It is presumed that Baldhere survived the [[Last Battle]].
+
+== Trivia ==
+Lan Mandragoran states that Lord Baldhere prefers men over women, making him one of two known homosexual male characters in the series, the other being Lord [[Algarin Pendaloan]].
+[[Category:Lords]]

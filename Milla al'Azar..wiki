@@ -1,0 +1,26 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=milla alazar
+| nationality=Andoran
+| occupation=Healer
+| title=Wisdom
+| gender=Female
+| hair=Long, Braided
+| status=Alive
+| affiliation=Two Rivers
+| appeared= {{loc|p}}
+| lastappeared={{loc|p}}
+| living=loc
+}}
+'''Milla al'Azar''' is the [[Wisdom]] of [[Taren Ferry]].
+
+== Appearance ==
+She is young.
+
+== Activities ==
+[[Daise Congar]], [[Edelle Gaelin]], [[Elwinn Taron]] and Milla meet with [[Faile Bashere]] to discuss events in the [[Two Rivers]].{{ref/book|6|p}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Al'Azar, Milla}}<!--Leave the "A" capitalized for category sortting purposes.-->

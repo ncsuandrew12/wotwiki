@@ -1,0 +1,549 @@
+[[File:WhiteAjah.png|right|alt=The Flame of Tar Valon with white background.|thumb]]The table below lists all known named members of the [[White Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. It does not contain information about the Amyrlins [[Rabayn Marushta]], [[Beryl Marle]] and [[Aliane Senican]] about which we only know their terms of office.
+
+'''Key to Columns'''
+*'''Nat''': Nationality.
+*'''Str''': Strength on the 72-level scale in the One Power used in the Companion. 72 is the weakest level. All Aes Sedai have a minimum strength of 45.
+*'''Nov''': Years spent as a novice.
+*'''Acc''': Years spent as Accepted.
+*'''Rank''': Strength on alternative scale with 1 being the strongest Aes Sedai in the White Tower at the beginning of the series. + indicates levels stronger than level 1. All Aes Sedai have a minimum rank of 33.
+*'''Age''': Age by the end of {{ne|1000}} or at time of death.
+*'''AS''': Years wearing the shawl.
+*'''Enr''': Age when enrolled as a Novice. For unknown entries, almost every sister is enrolled between the ages of 14 and 18.
+*'''Stat''': Status. Dead (D) or Alive (A), Captured (C). Unless explicitly stated otherwise, all sisters are assumed to be alive.
+*'''Fact''': Which faction they were in during the [[White Tower Schism]]. [[Elaida a'Roihan's White Tower|White Tower loyalist]] (L), [[Rebel Aes Sedai|Rebel]] Aes Sedai (R), Neutral (N), Unknown (U). If blank, none of these apply.
+*'''DF''': If they are a Darkfriend/Black Ajah (Y) or not (N).
+*'''Bonds''': Warders or people they are bonded to or by.
+*'''Notes''': Any other important information.
+
+{| class="sortable fandom-table"
+|+
+!Name
+!Nat.
+!Str.
+!Nov.
+!Acc.
+!Rank
+!Age
+!AS
+!Enr.
+!Stat.
+!Fact.
+!DF
+!Bonds
+!Notes
+|-
+|[[Aledrin Malenry]]
+|Taraboner
+|24
+| 9
+|6
+|12
+|50
+|21
+|14
+|A
+|R
+|N
+|At least one Asha'man
+|Sitter in the Rebel Hall.
+|-
+|[[Alviarin Freidhen]]
+|Amadician 
+|17
+| 5
+| 5
+|5
+|57
+|31
+|16
+|C
+|L
+|Y
+|None
+|Head of the Black Ajah. Former Keeper of the Chronicles
+|-
+|[[Astrelle]]
+|Unknown
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+|L
+|N
+| data-sort-value="zz" | -
+| Arithmetist
+|-
+|[[Ayako Norsoni]]
+|Arafellin
+|18
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|6
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|C
+|L
+|N
+|[[Donalo Sandomere]]
+|Part of the Black Tower force. Turned
+|-
+|[[Berana Shemon]]
+|Shienaran
+|28
+|10
+| 8
+|16
+|70
+|35 
+| 17
+ | A
+| R
+|N
+| data-sort-value="zz" | -
+|Sitter in the Rebel Hall.
+|-
+|[[Bernaile Gelbarn]]
+|Taraboner 
+|16 
+|7
+|9
+|4
+|81
+|48
+|17
+ | A
+|R
+|N
+|None
+|One of the ferrets
+|-
+|[[Brendas]]
+|Unknown
+|16
+|12
+|10
+|4
+| 54
+|15
+|17
+ | A
+|R
+|N
+|None
+|One of the circle that Healed Mat
+|-
+|[[Carlinya Sorevin]]
+|Kandori
+|15
+|5
+|5
+|3
+|46
+|21
+|15
+|D
+|R
+|N
+|None
+|One of the Salidar Six
+|-
+|[[Daigian Moseneillin]]
+|Cairhienin
+|45
+|27
+| 21
+|33
+|93
+|31
+|14
+| D
+|U
+|N
+|[[Eben Hopwil]]
+|Murdered during Semirhage's escape
+|-
+|[[Falion Bhoda]]
+|Kandori
+|17
+|7
+|6
+|5
+|127
+|98 
+|16
+| D
+| data-sort-value="zz" | -
+|Y
+|None
+|One of Liandrin's thirteen. Killed during the Last Battle
+|-
+|[[Fera Sormen]]
+|Unknown
+|33
+|13 
+|9
+|21
+|136
+|96
+|18
+| data-sort-value="zz" | -
+|L
+|Y
+|None
+|Captured at Dumai's Wells. Fate unknown.
+|-
+|[[Ferane Neheran]]
+|Domani
+|21 
+|9
+|6
+|9
+|273
+|243
+|15
+|A
+|L
+|N
+|None
+|First Reasoner and long-standing Sitter
+|-
+|[[Kateri Nepvue]]
+|Unknown
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| 45-65 <ref>Assumes she is raised to full Aes Sedai between the ages of 25 and 45. Some exceptions lie beyond this range.</ref>
+|20
+| data-sort-value="zz" | -
+|D
+|L
+|N
+|None
+|Murdered by Bloodknives
+|-
+|[[Mayam Colona]]
+|Tairen
+|21
+|12
+|8
+|9
+|40
+|3
+|17
+ | A
+|L
+|N
+|None
+|Captured at Dumai's Wells. Doesn't appear ageless
+|-
+|[[Meilyn Arganya]]
+|Unknown
+|10
+|7
+|6
+| +3
+| 281
+|252
+|16
+|D
+| data-sort-value="zz" | -
+|N
+|[[Andro]]
+|Murdered in New Spring. Age at time of death.
+|-
+|[[Merym]]
+|Arafellin
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+|L
+|N
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|-
+|[[Miyasi]]
+|Unknown
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|200+ <ref>Miyasi's iron gray hair places her as extremely old for an Aes Sedai. Also see [[Aes Sedai aging]].</ref>
+|155+ <ref>Assuming Miyasi was raised to the shawl younger than 45. Only exceptional cases are raised later.</ref>
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|L
+|Y
+| data-sort-value="zz" | -
+| data-sort-value="zz" |Fate unknown. Most Blacks in the Tower escaped.
+|-
+|[[Nagora]]
+|Cairhienin
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+|L
+|N
+|1
+| data-sort-value="zz" | -
+|-
+|[[Norine Dovarna]]
+|Unknown
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+| L
+|N
+|None
+| data-sort-value="zz" | -
+|-
+|[[Nubei Peldovni]]
+|Arafellin
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+| L
+|N
+| data-sort-value="zz" | -
+|Escaped Dumai's Wells. Only mentioned in Companion
+|-
+|[[Ramesa]]
+|Arafellin
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+|L
+|N
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|-
+|[[Rianna Andomeran]]
+|Kandori 
+|21
+|9
+|7
+|9
+|76
+|44
+|16
+|C
+| data-sort-value="zz" | -
+|Y
+|None
+|One of Liandrin's thirteen
+|-
+|[[Ronaille Vevanios]]
+|Illianer
+|27
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|15
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+|L
+|N
+| data-sort-value="zz" | -
+|Stilled at Dumai's Wells, but later Healed
+|-
+|[[Sarene Nemdahl]]
+|Taraboner
+|18 
+|6
+|5
+| 6
+| 45
+|19
+|15
+|C <ref>Although Sarene is technically alive when we last see her, she may no longer be capable of thinking of herself.</ref>
+|L
+|N
+|[[Vitalien]]
+|Captured at Dumai's Wells. Captured by Graendal.
+|-
+|[[Saroiya Farseen]]
+|Domani
+|24
+|13
+|11
+|12 
+|143
+|103 
+| 16
+ | A
+|R
+|N
+| data-sort-value="zz" | -
+|Sitter in the Rebel Hall and White Tower
+|-
+|[[Seaine Herimon]]
+|Murandian
+| 17
+|6
+|4
+|5
+| 159
+|134
+|15 
+|A
+|L
+|N
+|At least one Asha'man
+|Sitter in the White Tower. Black Ajah hunter
+|-
+|[[Sereille Bagand]]
+|Far Madding
+|21
+|12
+|11
+| 9
+|304
+|265 
+|15
+|D
+| data-sort-value="zz" | -
+|N
+| data-sort-value="zz" | -
+|Former Amyrlin. Age at time of death.
+|-
+|[[Shana Goridien]]
+|Unknown
+|35
+|11
+|9
+| 23
+|118
+|82 
+| 16
+ | A
+|R
+|N
+| data-sort-value="zz" | -
+|Expert at reading residues sent to Shadar Logoth
+|-
+|[[Tesan]]
+|Taraboner
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+|L
+|N
+| data-sort-value="zz" | -
+|Arithmetist
+|-
+|[[Turanna Norill]]
+|Unknown
+|26
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|14
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+|L
+|N
+| data-sort-value="zz" | -
+|Captured at Dumai's Wells
+|-
+|[[Valinde Nathenos]]
+|Illianer
+|33
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|21
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+|R
+|N
+|None
+|Part of the Rebel Aes Sedai's embassy to Rand al'Thor
+|-
+|[[Velina Behar]]
+| Saldaean 
+|25
+| 11
+|9
+| 13
+|141
+|103
+|18
+|A
+|L
+|Y
+|None 
+|Sitter in the White Tower. Member of the Supreme Council
+|-
+|[[Wyndera Ovan]]
+|Unknown
+| 27 <ref name=WO>Strength from Robert Jordan's notes as reported by the Thirteenth Depository. [http://13depository.blogspot.com/2016/12/robert-jordans-channeller-strength.html]</ref>
+| data-sort-value="zz" | -
+| 15 <ref name=WO></ref>
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+ | A
+| L
+|N
+| data-sort-value="zz" | -
+|Escaped Dumai's Wells. Only mentioned in the Companion.
+|-
+|[[Zerah Dacan]]
+|Mayener
+|19
+|7
+| 8
+|7
+|72
+|42
+|15
+|A
+| R
+|N
+|None
+|One of the ferrets.
+|}
+{{#invoke:Characters|get_characters_wikitable|ajah=white|suppress_verify=true|columns=Name;Darkfriend;Homeland;Spark;Wilder;Traits;Notes}}
+{{notes}}
+[[Category:White Ajah]]
+[[Category:Aes Sedai]]
+[[Category:List pages]]

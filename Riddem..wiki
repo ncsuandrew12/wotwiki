@@ -1,0 +1,20 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Unknown nationality
+| occupation=Soldier
+| affiliation=Band of the Red Hand
+| gender=Male
+| status=Dead
+| death={{ne|1000}}
+| appeared={{tom|9}}
+| lastappeared={{tom|9}}
+}}
+'''Riddem''' was a [[Redarm]] in [[Matrim Cauthon]] [[Band of the Red Hand]].
+
+== Activities ==
+After the Band sets up camp a league outside [[Caemlyn]], Riddem was murdered by the ''[[gholam]]'' while guarding Mat's tent.
+==Trivia==
+Riddem is named for Tim Riddell, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Redarms]]
+[[Category:Characters named after fans]]

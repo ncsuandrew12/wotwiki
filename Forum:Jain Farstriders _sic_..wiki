@@ -1,0 +1,24 @@
+{{Forumheader|Illuminator's Guild}}<!-- Please put your content under this paragraph.  Be sure to sign your edits with four tildes: ~~~~ -->
+
+I've been trying to fix the [[Jain Farstriders]] page to be the correct spelling [[Jain Farstrider]] but I can't get it to work.  Whenever I try to rename it, I get:
+
+You do not have permission to move this page, for the following reason:
+
+'''The page could not be moved:''' a page of that name already exists, or the name you have chosen is not valid. Please choose another name, or ask an [https://wot.fandom.com/wiki/Wotwiki:Administrators administrator] to help you with the move.<br />Please do not manually move the article by copying and pasting it; the page history must be moved along with the article text.
+
+However, if I go to the [[Jain Farstrider]] redirect and rename it to something like [[Jain Farstrider - Temp]] then I still can't rename [[Jain Farstriders]].
+
+I don't know what's happening here or how to fix it.
+
+---
+
+
+I noticed this a while back. A search for Jain Farstrider goes to Jain Charin, which redirects to a page called Lincoln Loud. I have no idea where this name came from, but when I google it, it seems to be an unrelated cartoon character. On the Lincoln Loud page, it redirects to Jain Farstriders (sic). I dropped a message to one of the wiki admins about just deleting all these pages and recreating them to fix this, but I haven't heard back yet. That was about a week ago.
+
+
+[[User:Crazycarl864|Crazycarl864]] ([[User talk:Crazycarl864|talk]]) 17:15, June 21, 2020 (UTC)
+
+
+== Jain Farstrider - Jain Charin page move ==
+The issue has been fixed.
+([[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 16:13, 23 November 2020 (UTC))

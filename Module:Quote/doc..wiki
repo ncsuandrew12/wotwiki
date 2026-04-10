@@ -1,0 +1,48 @@
+[[Module:Quote/doc]]
+
+== Quote ==
+
+ <nowiki>{{#invoke:Quote|quote|Direct quote 1}}</nowiki>
+{{#invoke:Quote|quote|Direct quote 1}}
+
+ <nowiki>{{#invoke:Quote|quote|Direct quote 2|Myself}}</nowiki>
+{{#invoke:Quote|quote|Direct quote 2|Myself}}
+
+ <nowiki>{{#invoke:Quote|quote|Direct quote 3|Myself|some subject}}</nowiki>
+{{#invoke:Quote|quote|Direct quote 3|Myself|some subject}}
+
+ <nowiki>{{#invoke:Quote|quote|Direct quote 4|Myself|some subject|{{ref/book|1|2}}{{ref|my reference}}}}</nowiki>
+{{#invoke:Quote|quote|Direct quote 4|Myself|some subject|{{ref/book|1|2}}{{ref|my reference}}}}
+
+ <nowiki>{{#invoke:Quote|quote|Direct quote 5|Myself||{{ref/book|1|2}}{{ref|my reference}}}}</nowiki>
+{{#invoke:Quote|quote|Direct quote 5|Myself||{{ref/book|1|2}}{{ref|my reference}}}}
+
+ <nowiki>{{#invoke:Quote|quote|Direct quote 6|||{{ref/book|1|2}}{{ref|my reference}}}}</nowiki>
+{{#invoke:Quote|quote|Direct quote 6|||{{ref/book|1|2}}{{ref|my reference}}}}
+
+ <nowiki>{{#invoke:Quote|quote|Direct quote 7||||{{ref/book|1|2}}{{ref|my reference}}}}</nowiki>
+{{#invoke:Quote|quote|Direct quote 7||||{{ref/book|1|2}}{{ref|my reference}}}}
+
+=== Interchange ===
+<pre>{{#invoke:Quote|quote_interchange|quote=Rand
+hi
+Mat
+hello
+Rand
+blah
+Mat
+halb}}</pre>
+{{#invoke:Quote|quote_interchange|quote=Rand
+hi
+Mat
+hello
+Rand
+blah
+Mat
+halb}}
+
+==Test Quotes==
+ <nowiki>{{#invoke:Quote|render_test_quotes}}</nowiki>
+{{#invoke:Quote|render_test_quotes}}
+
+{{notes}}

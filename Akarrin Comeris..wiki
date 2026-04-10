@@ -1,0 +1,42 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=Rebel Aes Sedai
+| gender=Female
+| build=Slim
+| eyes=Quick
+| appeared={{ns|3}}
+| lastappeared={{cot|19}}
+| living=cot
+| status=Alive
+|birth = {{ne|801}}}}
+'''Akarrin Comeris''' is an [[Aes Sedai]] of the [[Brown Ajah]], who has allied herself with the [[Salidar Aes Sedai]]{{ref/book|6|40}}. 
+
+==Appearance==
+She is slim, with quick eyes. She has a plain brown wool dress, and a cloak with surprisingly elaborate green embroidery. {{ref/book|10|19}} She nodded for emphasis with almost every other word.
+
+==Abilities==
+Akarrin is [[Strength in the One Power among Aes Sedai|very weak]] in the [[One Power]], with a strength level of {{opsl|40}}. Egwene thinks that "Akarrin was not strong in the Power, little more than Siuan if at all".{{ref/book|10|19}} In fact, this is marginally above [[Siuan Sanche]]'s strength after she was healed from [[Stilling|Severing]]. 
+
+She is an expert in [[talent|reading residues]].{{ref/book|10|19}}
+
+== History ==
+Akarrin is 199 years old. She was born in {{ne|801}} and went to the [[White Tower]] in {{ne|816}}. After eleven years as a [[novice]] and ten as [[Accepted]] she was raised to the shawl in [[837 NE]].
+
+She taught [[Moiraine]] and [[Siuan]] when they were novices and Accepted.
+
+==Activities==
+She is sent to where the huge amount of ''[[saidar]]'' was detected during what was then unknown but will eventually be called the [[Cleansing of saidin|Cleansing of ''saidin'']]. She reports to the [[Rebel Hall of the Tower]] of an enormous hole with huge amounts of ''[[saidin]]'' residues. {{ref/book|10|19}} This news is the impetus for the [[Black Tower Alliance|alliance]] of the [[White Tower]] and the [[Black Tower]].
+
+== Errata ==
+The [[The Wheel of Time Companion|Wheel of Time Companion]] says she was raised to the shawl in {{ne|829}}, but this is not possible given her birth date, enrollment and training times. Rather than assume an error in the other figures, we adjust the date above to {{ne|837}}.
+
+{{notes}}
+
+{{DEFAULTSORT:Comeris, Akarrin}}
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

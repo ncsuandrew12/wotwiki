@@ -1,0 +1,40 @@
+__NOTOC__{{character
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=Maighdin
+| affiliation=Andor
+| rank=High Seat
+| nationality=Andoran
+| gender=Female
+| title=[[Lady]]
+| status=Dead
+| death={{Ne|972}}
+| mentioned={{tfoh|19}}
+}}
+'''Maighdin Trakand''' was a noblewoman from [[Andor]]. She was the High Seat of [[House Trakand]], the mother of [[Morgase Trakand]], and the grandmother of [[Elayne Trakand]] and [[Gawyn Trakand]].
+
+==Appearance and Personality==
+She was beautiful. Morgase recalls her being a loving mother.{{ref/book|5|19}}
+
+==History==
+When Maighdin was a child, [[Lini Eltring]] was her nurse.{{ref/book|5|19}}
+
+At some point, a young [[Thom Merrilin]] became House Bard to House Trakand and Maighdin taught him a great deal.{{ref|{{twotc}}, Thom Merrillin}}
+
+She died of a fever shortly after Queen Mordrellen in {{ne|972}}. Morgase recalls becoming High Seat "in the middle of a struggle for the throne with no more support in the beginning than her House retainers and the House bard."{{ref/book|5|19}}
+
+According to Morgase, Maighdin "should have been Queen".{{ref/book|5|19}} It is uncertain on what basis this is true. The Companion says "The royal succession in Andor was from mother to daughter. If there was no daughter, the noblewoman who could claim the most lines of descent from [[Ishara Casalain|Ishara]] gained the throne."{{ref|{{twotc}}, Andor}} On the other hand, "Dyelin was Morgase’s cousin and her nearest female relative aside from Elayne; had Morgase and Elayne both died without issue, Dyelin would have been next in line for the Lion Throne."{{ref|{{twotc}}, Dyelin Taravin}} It may also have been just the thoughts of a daughter who missed a loving mother and thought her deserving.
+
+=== Family Tree ===
+{{RandElayneFamilyTree}}
+
+==Other==
+After escaping the [[Fortress of the Light]] in [[Amadicia]] and seeking refuge in Perrin's army, Morgase used her mother's name as a disguise.{{ref/book|8|7}}
+
+{{notes}}
+
+{{DEFAULTSORT:Trakand, Maighdin}}
+
+[[es:Maighdin Trakand]]
+[[Category:Historical people]]
+[[Category:Nobility]]

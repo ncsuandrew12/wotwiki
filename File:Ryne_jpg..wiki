@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Fan Art
+| ImageType2              = Character
+| Description             = [[Ryne Venamar]]
+| Source                  = [http://www.fantasy-fan.org/files/Jordan/Ryne_Venamar_final.jpg]
+| Artist                  = Harvey Tolibao
+}}

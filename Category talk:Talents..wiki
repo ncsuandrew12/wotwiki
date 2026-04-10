@@ -1,0 +1,20 @@
+==Talents==
+Interesting precedent to examine here: In the books Talents are usually called by their verb form (''a man Travels'', ''someone is Healed'', ''she learns Compulsion''). Do we have a definitive source that lists them all at once in their 'natural format': maybe the RPG or the computer Game? For right now I've linked to [[Travel]], [[Foretell]], and [[Heal]].  [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 22:49, 24 Oct 2005 (UTC)
+:I feel like I am much more used to seeing them with the "ing" ending, except for Compulsion of course.  Some stats:
+<pre>
+$ for i in Heal Healing Foretell Foretelling Travel Traveling Compulsion Compulsing; do echo -n "$i "; grep -cE "$i(\.| |$)" wot1-9.txt; done
+Heal 94
+Healing 161
+Foretell 5
+Foretelling 26
+Travel 20
+Traveling 62    (33 if you subtract all occurrences of "Traveling People")
+Compulsion 14
+Compulsing 0
+</pre>I don't know if this was the kind of examination you were looking for, but it's all that occured to me :) --[[User:Gherald|Gherald]] 23:40, 24 Oct 2005 (UTC)
+
+:: Wow, that's cool! Where did you find complete text for the books? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 14:42, 25 Oct 2005 (UTC)
+::: About a year ago I got the PDF through an http://isohunt.com search, converted it to HTML using some program in [[wikipedia:Portage (software)|Gentoo's portage tree]], and then coverted the HTML file to plain text somehow -- probably just "File -> Saved formatted document" in [[Wikipedia:Links (web browser)|Links]].  I currently read the books using "etext reader"... here is a fullscreen shot: [http://img373.imageshack.us/img373/9166/shot200508300344174qy.png]
+:::: Okay, I'm a believer. After looking at the Wikipedia articles on [[Wikipedia:running|running]], [[Wikipedia:swimming|swimming]], and [[Wikipedia:knitting|knitting]], I think we should redirect [[Heal]] to a main article at [[Healing]], etc. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 13:33, 26 Oct 2005 (UTC)
+::::: I'm starting to reconsider this.  While it's true that -ing is the most common, it is much easier to write "<nowiki>[[Travel]]ing"</nowiki> resulting in [[Travel]]ing than it is to write <nowiki>"[[Traveling|Travel]]"</nowiki> for the inverse case.  But I suppose it may be argued that having -ing in the main article name may "look" better... --[[User:Gherald|Gherald]] 13:12, 17 Nov 2005 (UTC)
+:::::: I don't think it should be a big deal if people are using the [[Travel]] redirect directly, rather than piping the link. When that's all we have left to worry about, we can go back and fix those. Just for kicks, I went and looked at WP's policy, and they support using the gerund form; [[wikipedia:Wikipedia:Naming_conventions_%28verbs%29|Wikipedia:Naming conventions (verbs)]]. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 22:21, 18 Nov 2005 (UTC)

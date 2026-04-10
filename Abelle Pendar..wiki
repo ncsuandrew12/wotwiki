@@ -1,0 +1,42 @@
+{{ character 
+| image=Pendar.png
+| imagesize=250px
+| ewot=Abelle
+| nationality= Andoran
+| title=Lord
+| rank=High Seat
+| affiliation=House Trakand
+| hair=Gray
+| status=Alive
+| appeared={{loc|16}}
+| gender=Male
+| mentioned={{tfoh|19}}
+| lastappeare{{kod|35}}
+| living=kod
+}}
+{{for|the similarly named [[Emond's Field]] resident|Abell Cauthon}}
+'''Abelle Pendar''' is an [[Andoran]] Lord, High Seat of [[House Pendar]]. The sign of House Pendar are the three Golden Stars.
+
+== Appearance ==
+He has a stern and angular face with gray hair{{ref/book|6|16}}.
+
+== History ==
+One of the six supporters of [[Morgase Trakand]] for the [[Lion Throne]], along with Lord [[Pelivar Coelan]], Lady [[Arathelle Renshar]] , Lady [[Ellorien Traemane]], Lady [[Aemlyn Carand]] and Lord [[Luan Norwelyn]], with all six being exiled by Morgase while under the influence of [[Rahvin|Gaebril]]{{ref/book|5|19}}.
+
+== Activities ==
+After [[Rand al'Thor]] conquers [[Caemlyn]], he invites him back into Andor making his intent clear of only holding onto the [[Lion Throne]] until [[Elayne Trakand]] is able to take over{{ref/book|6|16}}. 
+
+Rand asks Abelle for his support in which he replies that he would prefer to follow [[Dyelin Taravin]]{{ref/book|6|41}} but Dyelin supports Elayne{{ref/book|6|16}}.
+
+The Lords Abelle, Ellorien and Luan have disappeared from the capital and cannot be found{{ref/book|10|14}}. [[Elenia Sarand]] sends agents to Abelle, Ellorien and Luan to see if they might support her for the throne{{ref/book|10|15}}. 
+
+After leaving Caemlyn Abelle sets up camp with Luan, Arathelle, Ellorien, Aemlyn and Pelivar. There they sit to the side and stay neutral during [[Arymilla Marne]]'s siege on Caemlyn against Elayne{{ref/book|11|17}}. 
+
+When Arymilla's force is defeated{{ref/book|11|33}} a message is sent to Elayne asking for safe passage in Caemlyn for the neutral High Seats. They meet with Elayne and Luan asks for a temporary alliance with Elayne's forces to fight against the [[Borderlands]] army in Andor. Elayne reveals she invoked her right as an Aes Sedai and allowed them safe passage across Andor into [[Murandy]] to keep looking for the [[Dragon Reborn]]. 
+
+Luan and then Abelle throw their support behind House Trakand. Arathelle, Aemlyn and Pelivar also throw their support behind Elayne, but only for Dyelin. This gives Elayne the required amount of Houses to obtain the Lion Throne{{ref/book|11|35}}.
+{{notes}}
+
+{{DEFAULTSORT:Pendar, Abelle}}
+[[es:Abelle Pendar]]
+[[Category:Nobility]]

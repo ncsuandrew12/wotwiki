@@ -1,0 +1,27 @@
+{{character
+| image=ManetherenFlag.png
+| ewothist=Thorin
+| rank=King
+| nationality=Manetherenite
+| title=King of Manetheren
+| gender=Male
+| status=Dead
+| mentioned={{teotw|19}}
+}}
+'''Thorin al Toren al Ban''' (translated from the [[Old Tongue]] as Thorin, son of Toren, son of Ban) was a king of [[Manetheren]] during the middle years of the [[Trolloc Wars]] circa {{Ab|1150}}. He was the father of [[Caar al Thorin al Toren]] and the grandfather of [[Aemon al Caar al Thorin]] - Manetheren's last king.
+
+==History==
+Due to the destruction of records during the Trolloc Wars, little is known of King Thorin's appearance or the details of his early life.  He ruled Manetheren during a time when the entire world was at war with the [[Shadow]] and he helped forge Manetheren's reputation as a nation that would always assist others in the defense of humanity.  Early in his reign he established a close relationship with King [[Balwen Mayel]] of [[Aridhol]], who had been fighting protracted battles of attrition against armies of [[Shadowspawn]].{{ref|{{bwb}}, Chapter 10 Rise and Fall of the Ten Nations}}  Over time, King Thorin observed his ally despair of winning the war eventually falling under the manipulations of a councilor named [[Mordeth]] who advised that the only way for Aridhol to defeat the Shadow was to become as cruel as their enemy.{{ref|{{bwb}}, Chapter 10 Rise and Fall of the Ten Nations}}{{ref/book|1|19}} 
+
+Fearing that his greatest ally was being threatened from within, King Thorin sent his son Prince Caar to Aridhol as an ambassador of the [[Light]].  Sadly, Caar and his embassy were imprisoned and tortured shortly after their arrival though Caar quickly escaped and fled north.{{ref/book|1|19}}  After learning of his son's suffering, King Thorin sent a military force to Aridhol to seek vengeance but the soldiers found the gates of Aridhol torn down and nothing living within the capital city.  Thorin's men left and afterwards named the cursed place [[Shadar Logoth]].{{ref/book|1|19}} 
+
+Details of the final years of King Thorin's reign are lost to history.  It is not known if King Thorin passed his reign to his son Caar or if Caar died in exile and the rulership was passed to Aemon instead.  History only records that Manetheren was next ruled by Aemon circa {{Ab|1200}}.  
+
+== Parallels ==
+Thorin's name is taken from one of Tolkien's most well-known characters in ''The Hobbit:'' Thorin Oakenshield.{{ref|[[Origins of the Wheel of Time]], Thorin al Toren al Ban}}
+
+{{notes}}
+
+[[es:Thorin al Toren al Ban]]
+[[Category:Historical people]]
+[[Category:Parallels]]

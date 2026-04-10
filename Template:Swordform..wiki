@@ -1,0 +1,41 @@
+<infobox theme="swordform">
+    <image source="image">
+        <default>Hilt-icon-color.svg</default>
+    </image>
+	<title source="name">
+	    <default>{{PAGENAME}}</default>
+	</title>
+	<data source="mentioned">
+	    <label>First mentioned or used</label>
+	</data>
+	<data source="used">
+	    <label>Mentioned or used by</label>
+	</data>
+	<navigation>[[Template:Character|[Source]]]</navigation>
+</infobox><includeonly>[[Category:Sword forms]]</includeonly><!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>__NOTOC__
+{{clear}}
+
+__NOTOC__
+{{clear}}
+===Field list===
+<pre>
+{{ swordform 
+| mentioned = Book and chapter form was mentioned (use <nowiki>{{book #|chapter #</nowiki>).
+| used = Character or characters who used the form. You will need to link each individual character.
+}}
+</pre>
+
+===Example===
+<pre>
+{{swordform 
+| mentioned={{2|1}}
+| used=[[Rand al'Thor]]
+}}</pre>
+
+===Usage===
+Paste the following code into the top of an article, filling all known fields. Remove any unused fields.
+<pre><nowiki>{{swordform 
+| mentioned=
+| used=
+}}</nowiki></pre>
+[[Category:Infobox templates]]

@@ -1,0 +1,88 @@
+{{quote|It ... can be learned? I did not. ... No. No, I do not want to ... to learn| [[Egeanin]] on finding out from [[Elayne]] channeling can be learned.}}
+{{dablink|For other uses of the word "veil," see [[Veil]].}}
+{{summary |book=4 |ewot=ch46 |wotmania=432
+|chapter=46
+|title=Veils
+|icon=faces
+|setting=[[Tanchico]]
+}}
+
+== Summary ==
+
+:{{pov|[[Egeanin Sarna]]}}
+
+Egeanin is following [[Floran Gelb]] to find out if he has really found a ''[[sul'dam]]'' that fled from [[Falme]]. Gelb has kidnapped three women recently that were not ''sul'dam''. With eight men he sets up an ambush for [[Nynaeve]] and begins waiting for her to arrive. Egeanin sees Nynaeve and [[Elayne]] walking up the street and sees a vague resemblance between Nynaeve and [[Surine]] except Surine is taller. She moves toward Gelb to warn him off.
+
+:{{pov|[[Elayne Trakand]]}}
+
+Elayne complains to Nynaeve that they should have hired bearers to move through the crowd. She dismisses the idea, preferring to use her own feet even if they may need to use the barrel staves they carry. They discuss the meeting Elayne had with [[Amys]] and [[Egwene]] in ''tel'aran'rhiod'' the night before. They found out that [[Perrin]] did not go to the [[Aiel Waste|Waste]] but are not sure where he might have gone.
+
+A man tries to grab Nynaeve and she cracks him with the barrel stave. Another pushes Elayne out of the way to grab Nynaeve. Elayne believes someone recognized her as the [[Daughter-Heir]] and is trying to kidnap her. They prepare to channel but hesitate since a nearby [[Black Ajah]] sister would notice. A woman with a staff begins to attack the men that have them surrounded. Just as the three women have the thugs on the run, Gelb pulls a knife and prepares to stab the woman in the back. Elayne [[Channeling|channels]] to prevent him.
+
+Nynaeve invites the woman, Egeanin, to tea at their inn as thanks for helping. [[Juilin]] is back and relaxing after his night of looking for [[Liandrin's group of Black Sisters]]. He approaches with information that he has found where the women were staying, but they are gone now. [[Rendra]] arrives and leads them to a private room for their tea. Elayne and Nynaeve agree to answer her questions but then [[Thom]] arrives and mentions that [[Amathera]] is to be invested tomorrow and the [[Whitecloaks]] have moved into the area around her palace. He says this is the type of unusual happenings that he has been watching for. Thom mentions he has arranged body guards through [[Bayle Domon]]. Egeanin knows Domon and hastily arranges her exit.
+
+Rendra arrives and announces they have a visitor. A woman{{ref|This is [[Moghedien]].}} enters, channels, and suddenly Elayne and Nynaeve trip over themselves to answer the woman's questions. The woman has used [[Compulsion]] on them and finds out all about their search for Liandrin and what occurred in [[Tear]]. She does not find the ''[[ter'angreal]]'' they have because she asked the wrong questions. She then commands them to forget about the questioning and leaves.
+
+:{{pov|[[Egeanin Sarna]]}}
+
+Egeanin is trying to sort out the information she has learned versus what the [[Seanchan]] believe about all women that can channel.
+
+:{{pov|[[Almurat Mor]]}}
+
+Mor watches Egeanin leave the [[The Three Plum Court]]. He is trying to find out what she is up to and plans to check the inn.
+
+==Characters==
+*[[Egeanin Sarna]]
+*[[Floran Gelb]]
+*[[Elayne Trakand]]
+*[[Nynaeve al'Meara]]
+*[[Thom Merrilin]]
+*[[Juilin Sandar]]
+*[[Rendra]]
+*[[Moghedien]]
+*[[Almurat Mor]]
+
+===Referenced===
+*[[Surine]]
+*[[Egwene al'Vere]]
+*[[Amys]]
+*[[Lini Eltring]]
+*[[Perrin Aybara]]
+*[[Faile Bashere]]
+*[[Bayle Domon]]
+*[[Rand al'Thor]]
+*[[Be'lal]]
+*[[Ishamael]]
+*[[Bethamin Zeami]]
+*[[Aviendha]]
+*[[Mat Cauthon]]
+*[[Liandrin's Group of Black Sisters]]
+*[[Amathera]]
+*[[Rahvin]]
+
+===Groups===
+*''[[Sul'dam]]''
+*[[Aes Sedai]]
+*[[Black Ajah]]
+*[[Children of the Light]]
+
+==Places==
+*[[Tanchico]]
+
+===Referenced===
+*[[Dantora]]
+*[[Cantorin]]
+*''[[Tel'aran'rhiod]]''
+*[[Andor]]
+*[[Falme]]
+*[[Tear]]
+*[[Two Rivers]]
+*[[Tarabon]]
+
+==One Power==
+*[[Compulsion]]
+
+{{notes}}
+* At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''Veils''}}

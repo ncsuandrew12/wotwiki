@@ -1,0 +1,39 @@
+{{ character 
+| image=BrownAjah.png
+| imagesize=250px
+| ewot=Doraise
+| ajah=Brown
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=White Tower
+| build=Plump
+| mentioned={{Acos|32}}
+| appeared={{Cot|p}}
+| lastappeared={{cot|p}}
+| living=cot
+| gender=Female
+| status=Alive
+}}
+'''Doraise Mesianos''' is an [[Aes Sedai]] of the [[Brown Ajah]]. 
+
+==Appearance==
+She is plump.
+
+==History==
+Although unconfirmed, her melodious surname ending in ''-os'' suggests an [[Illianer]] origin.
+
+She has a [[Shienaran]] [[Warder]].
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+[[Alviarin Freidhen]] suggests that [[Elaida a'Roihan]] reward her, along with [[Farellien]] and [[Kiyoshi]], while simultaneously punishing [[Josaine]] and [[Adelorna Bastine]], who held ''[[angreal]]'' and ''[[ter'angreal]]'' without the [[Tower]]'s permission or knowledge. This would imply that one of the three had informed on those that were punished, thereby creating strife among the Ajahs{{Ref/book|7|32}}.
+
+She is seen walking the corridors of the White Tower with [[Marris Thornhill]], who had already been identified as [[Black Ajah]] by the [[Black Ajah Hunters]], and newly-raised [[Elin Warrel]].
+
+
+{{notes}}
+{{DEFAULTSORT:Mesianos, Doraise}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

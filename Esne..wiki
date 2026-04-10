@@ -1,0 +1,20 @@
+{{Character
+| image=KandorFlag.png
+| imagesize=250px
+| occupation = Servant
+| nationality = Kandor
+| status = Alive
+| gender = Female
+| appeared = {{ns|22}}
+| lastappeared = {{ns|26}}
+| living=ns
+}}
+'''Esne''' is a [[servant]] in the [[Aesdaishar Palace]] in [[Chachin]].
+
+==Appearance==
+Esne is a young woman with a square face.{{ref/book|0|22}}
+
+==History==
+Esne was assigned as the servant of [[Lan Mandragoran]] when he came to the Palace in {{ne|979}}.{{ref/book|0|22}} She was present when [[Moiraine Damodred]] came to call on Lan after he had arrived.{{ref/book|0|25}} After a little searching, Lan discovers that Esne is loyal to [[Edeyn Arrel]].{{ref/book|0|26}}
+
+{{notes}}

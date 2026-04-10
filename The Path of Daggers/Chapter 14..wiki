@@ -1,0 +1,60 @@
+{{for|other chapters that have "message" in the title|Message}}
+{{summary | book=8 |
+|chapter=14
+|title=Message from the M'Hael
+|icon=Fang
+|setting=[[Illian]]
+}}
+
+==Summary==
+
+{{pov|[[Rand al'Thor]]}}
+
+Rand returns to his camp after his parley with the Illianer holdouts. [[Damer Flinn]] meets Rand outside his tent and informs him that [[Torval]] has come from the Black Tower with a message from [[Mazrim Taim]]. Taim is concerned about a large number of Aes Sedai traveling through Murandy towards Caemlyn and possibly toward the Black Tower. Rand assures him the Black Tower is not in danger and they are to leave Aes Sedai be unless attacked. There are now four hundred and forty-eight Asha'man enrolled in the Black Tower. Fifty-one have died or been burned out, ten of whom went mad from the taint on ''saidin''.
+
+[[Fedwin Morr]] arrives and tells Rand the Seanchan will move soon with Illian as their target. Rand begins making plans on how to stop the Seanchan and keep them from moving out of Ebou Dar. Morr also mentions that ''saidin'' acted very strangely around Ebou Dar (possibly as a result the use of the [[Bowl of the Winds]]), sometimes not working the way he expected it to, and making the [[Taint]] more unpleasant. Rand recalls his visit through the stone doorway ''ter'angreal'' where he received true answers. He asked how to cleanse ''saidin'' but the answer was more of a riddle to him and he hasn't figured out exactly what to do yet. Rand realizes he has spoken out loud and regrets others hearing about his plans. He gives orders for the troops and for the Asha'man in the Black Tower so he can begin his fight with the Seanchan. He gives [[Narishma]] some special orders that are not to be disclosed to anyone. Lews Therin comments on his plan and agrees they might work. Rand is glad to hear the voice again.
+
+==Characters==
+* [[Rand]]
+* [[Boreane Carivin]] servant
+* [[Damer Flinn]]
+* [[Torval]]
+* [[Narishma]]
+* [[Eben Hopwil]]
+* [[Dashiva]]
+* [[Fedwin Morr]]
+* [[Weiramon]]
+* [[Lews Therin]] in Rand's head
+* [[Gregorin den Lushenos]]
+* [[Tolmeran]]
+* [[Rosana]]
+* [[Semaradrid]]
+
+===Referenced===
+* [[Mattin Stepaneos den Balgar]]
+* [[Mazrim Taim]]
+* [[Herid Fel]]
+
+==Places==
+* [[Illian]]
+
+===Referenced===
+* [[Stone of Tear]]
+* [[Plains of Maredo]]
+* [[Tarabon]]
+* [[Murandy]]
+* [[Tar Valon]]
+* [[Caemlyn]]
+* [[Ebou Dar]]
+* [[Venir Mountains]]
+* [[Arran Head]]
+* [[Sea of Storms]]
+* [[Kabal Deep]]
+* [[Altara]]
+
+==Items==
+* [[Dragon Banner]]
+* [[Banner of Light]]
+* [[Dragon Scepter]]
+
+{{DISPLAYTITLE|''Message from the M'Hael''<br /><br /><small>The Path of Daggers/Chapter 14</small>}}

@@ -1,0 +1,34 @@
+{{ character
+| image=Meira.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Sevanna
+| eyes=Blue
+| status=Alive
+| clan=Shaido
+| sept=White Cliff
+| appeared={{acos|p}}
+| lastappeared={{kod|5}}
+| living=kod
+}}
+'''Meira''' is a [[Wise One]] of the [[Shaido]] [[Aiel]]. She is of the [[White Cliff]] sept.
+
+== Appearance ==
+She has a long grim face. She is shorter than [[Faile Bashere]]. She has a narrow mouth, and hard blue eyes that resemble sapphires.{{ref/book|11|5}}
+
+==Strength and Abilities==
+Meira can [[channel]] with some strength. In TWoTC her strength level is described as {{opsl|30}}, which is a middle-high ranking level among [[Aes Sedai]].
+
+This strength is not enough to open alone a gateway for [[Travel]]ing.
+
+== Activities ==
+She participated in the murder of [[Desaine]] and fights in the [[Battle of Dumai's Wells]]. She was "Chosen from the strongest of the Shaido Wise Ones who could wield the One Power". She helps to activate the call box and is present when both "[[Sammael|Cadder]]" and "[[Graendal|Maisia]]" arrive.
+
+She ends up [[Traveling]] to [[Ghealdan]]. With [[Therava]] and a few other Wise Ones, she stands up to [[Sevanna]] and begins to take away some of her power.
+
+While in [[Malden]], she finds and presses Faile about what Sevanna has said and done recently when the ripple in the pattern occurs.
+
+{{notes}}
+[[Category:Channelers]]

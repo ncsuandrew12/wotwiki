@@ -1,0 +1,37 @@
+<includeonly>==Purpose of template==
+
+Select a quote of which [[{{#titleparts: {{{1}}} | 1 | 2 }}]] is the focus. If it's a person, they may be the speaker, or it may be in reference to them, or it may be in the prose of their POV. Otherwise, it may be a category to which the quote belongs.
+
+==How to use==
+
+ <nowiki>{{WotQ|</nowiki>{{#titleparts: {{{1}}} | 1 | 2 }}<nowiki>}}</nowiki>
+ <nowiki>{{WotQ/</nowiki>{{#titleparts: {{{1}}} | 1 | 2 }}<nowiki>|</nowiki>''index''<nowiki>}}</nowiki>
+
+''index'' is optional and must be a number between 1 and the total number of quotes this speaker has. See the source of [[Template:WotQ/{{#titleparts: {{{1}}} | 1 | 2 }}]] to see what that number is. If ''index'' is not provided, a quote will be selected randomly.
+
+===Examples from [[Template:WotQ/{{#titleparts: {{{1}}} | 1 | 2 }}/doc]]===
+
+{| class="wikitable"
+| Code
+| Result
+|-
+| <nowiki>{{WotQ|</nowiki>{{#titleparts: {{{1}}} | 1 | 2 }}<nowiki>}}</nowiki>
+|         {{WotQ|{{#titleparts: {{{1}}} | 1 | 2 }}}}
+|-
+| <nowiki>{{WotQ/</nowiki>{{#titleparts: {{{1}}} | 1 | 2 }}<nowiki>|1}}</nowiki>
+|         {{WotQ/{{#titleparts: {{{1}}} | 1 | 2 }}|1}}
+|-
+| <nowiki>{{WotQ/</nowiki>{{#titleparts: {{{1}}} | 1 | 2 }}<nowiki>|2}}</nowiki>
+|         {{WotQ/{{#titleparts: {{{1}}} | 1 | 2 }}|2}}
+|-
+| <nowiki>{{WotQ/</nowiki>{{#titleparts: {{{1}}} | 1 | 2 }}<nowiki>|9999}}</nowiki>
+|         {{WotQ/{{#titleparts: {{{1}}} | 1 | 2 }}|9999}}
+|-
+| <nowiki>{{WotQ/</nowiki>{{#titleparts: {{{1}}} | 1 | 2 }}<nowiki>|0}}</nowiki>
+|         {{WotQ/{{#titleparts: {{{1}}} | 1 | 2 }}|0}}
+|-
+| <nowiki>{{WotQ/</nowiki>{{#titleparts: {{{1}}} | 1 | 2 }}<nowiki>|-1}}</nowiki>
+|         {{WotQ/{{#titleparts: {{{1}}} | 1 | 2 }}|-1}}
+|}
+===Examples from [[Template:WotQ/{{#titleparts: {{{1}}} | 1 | 2 }}]]===
+</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,24 @@
+{{character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| occupation=Farrier
+| gender=Male
+| build=Broad and stocky
+| hair=White
+| appeared={{tpod|9}}
+| lastappeared={{tpod|9}}
+| lastmentioned={{tgs|21}}
+| living=tgs
+}}'''Falton''' is a farrier from [[Cairhien]] who followed [[Perrin Aybara]].{{ref|{{twotc}}, Falton}}
+
+==Appearance==
+Falton is a broad and stocky man with a fringe of white hair.{{ref/book|8|9}}
+
+==Activities==
+Given his nationality, it is likely Falton was hired after Perrin and Rand return from the [[Battle of Dumai's Wells]] and before Perrin Travels to [[Ghealdan]].
+
+After arriving in [[Ghealdan]], Falton is one of the farriers that look after [[Stepper]] and [[Stayer]], despite Perrin wanting to do the work himself.{{ref/book|8|9}} Falton then travels with the group to [[Malden]] to rescue [[Faile Bashere]].{{ref/book|9|6}} Falton, [[Aemin]], and [[Jerasid]] are working the night Faile meets with [[Alliandre Maritha Kigarin]], [[Arrela Shiego]] and [[Lacile Aldorwin]].{{ref/book|12|21}}
+
+{{notes}}

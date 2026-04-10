@@ -1,0 +1,4 @@
+'''Tavernkeepers''' own taverns, and are not encumbered by renting rooms like [[Innkeeper]]s.
+
+[[Category:Occupations| Tavernkeepers]]
+[[Category:Sort option categories]]

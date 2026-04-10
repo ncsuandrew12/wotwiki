@@ -1,0 +1,9 @@
+{{Testcases notice}}
+
+== Positive ==
+{{Inline test case|1}}
+{{Inline test case|1|2}}
+{{Inline test case|1|2|3}}
+{{Inline test case|4|5|6|My favorite notes}}
+
+{{notes}}

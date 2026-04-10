@@ -1,0 +1,5 @@
+{{archived}}
+
+==enWP?==
+<blockquote>Make a stub for like-named Wikipedia pages: every book title, Rand al'Thor, The Wheel of Time, and Robert Jordan (replace what's currently on the later two).</blockquote>Not sure what you're getting at here. Is this the discussion about the <nowiki>{{enWP}}</nowiki> template? [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 15:41, 24 Oct 2005 (UTC)
+:Sorry for being unclear.  What I mean is copy-pasting the text from that box to each article as a starting point (stub), to make it obvious that we do not intend to duplicate Wikipedia's already excellent articles on those subjects.  I only think we should copy-paste from Wikipedia when we intend to make drastic changes (such as splitting [[Aes Sedai]] up into pieces). --[[User:Gherald|Gherald]] 16:37, 24 Oct 2005 (UTC)

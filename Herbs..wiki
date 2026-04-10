@@ -1,0 +1,59 @@
+'''Herbs''' and other plants are used extensively for their medicinal and sometimes noxious effects.
+
+== List of Known Herbs ==
+{|
+|
+*[[acem]]{{ref/book|4|52}}
+*[[andilay root]]{{ref/book|1|18}}
+*[[asping rot]]{{ref/book|12|39}}
+*[[bluespine tea]]{{ref/book|5|5}}
+*boiled [[blue goatflowers]]{{ref/book|3|48}}
+*[[boneknit]]{{ref/book|3|48}}
+*[[bluewort]] tea{{ref/book|3|48}}
+*boiled [[catfern]]{{ref/book|5|15}}
+*[[chainleaf]] tea{{ref/book|3|48}}
+*[[corenroot]]{{ref/book|3|38}}
+*[[crimsonthorn root]]{{ref/book|8|28}}
+*[[red daisy]]{{ref/book|5|13}}
+*[[dogwart]]{{ref/book|3|38}}
+*[[dogweed]] tea{{ref/book|4|7}}
+*[[gray fennel]]{{ref/book|9|10}}
+*[[red fennel]]{{ref/book|5|49}}
+*[[feverbane]]{{ref/book|3|10}}
+*[[five-finger]]{{ref/book|1|38}}
+*[[flatwort tea]]{{ref/book|1|18}}
+*[[forkroot]]{{ref/book|5|10}}
+*[[foxtail]]{{ref/book|1|19}}
+*powdered [[gheandin blossom]]{{ref/book|3|48}}
+*[[goatstongue]]{{ref/book|9|10}}
+*[[goosemint]]{{ref/book|5|54}}
+|
+*[[gray fennel]]{{ref/book|2|23}}
+*[[greenwort]]{{ref/book|9|10}}
+*[[healall]]{{ref/book|3|38}}
+*[[heartleaf]] tea{{ref/book|9|12}}
+*[[ground ivy]]{{ref/book|1|38}}
+*[[lionheart]]{{ref/book|9|14}}
+*[[mardroot]] oil{{ref/book|5|49}}
+*[[marisin]]{{ref/book|1|19}}
+*[[marshwhite]] leaves{{ref/book|3|48}}
+*powdered [[mavinsleaf]]{{ref/book|5|15}}
+*powdered [[Peaches|peach pit]]{{ref/book|9|10}}
+*[[pokeleaf]]{{ref/book|5|49}}
+*[[rannel]]{{ref/book|2|8}}
+*[[sheepstongue root]]{{ref/book|2|8}}
+*[[sleepwell root]]{{ref/book|3|39}}
+*[[silverleaf]]{{ref/book|4|34}}
+*tincture of [[sorfa]]{{ref/book|9|14}}
+*[[sunburst root]]{{ref/book|1|38}}
+*[[tarchrot]] leaf{{ref/book|12|31}}
+*[[timsin root]]{{ref/book|4|34}}
+*[[whitefennel]]{{ref/book|3|48}}
+*[[white henpepper]]{{ref/book|5|10}}
+*[[willowbark]]{{ref/book|1|5}}
+*[[worrynot root]]{{ref/book|3|10}}
+|}
+
+{{notes}}
+[[Category:Herbs and Medicines]]
+[[Category:List pages]]

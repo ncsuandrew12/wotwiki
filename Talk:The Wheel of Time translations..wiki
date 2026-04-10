@@ -1,0 +1,24 @@
+=2011=
+==Hebrew==
+hope you like the hebrew titles. [mailto:Shlomi_cc@yahoo.com Shlomi_cc@yahoo.com] {{Unsigned|84.229.254.118|23:09, March 10, 2011}}
+
+:Nice - I fixed the caps and a few awkward translations - I also put in one title in actual hebrew, but my typing skills are pretty bad, as is my spelling - maybe you can add that in. תודה [[User:Joedmd|Joe]] 22:10, March 11, 2011 (UTC)
+
+::Hmm, I thought those were different Serbian book covers, but it looks like they all say Zenica sveta on them, all parts of Eye of the World? Wonder if that one book was really split into 9 books or else what those pictures are for...[[User:Seebster|Seebster]] 00:13, March 16, 2011 (UTC)
+
+:::I corrected some of the english translations of the german titles, as they seem to have been translated with little knowledge of german. e.g. "Schale" indeed means "shell", but i also means "bowl" which is the meaning that applies in this case -- anonymous, 25.05.2011 {{unsigned|06:12, May 25, 2011 (UTC)|92.229.36.186}}
+
+==A System==
+Ok, every language section has a slightly different format. We need a consistent system. Maybe it can be in table format? Even if it's in the current sort of outline form, there should be a formula we should be able to follow, each entry providing the foreign book name, the transliteration if applicable, the translation, and a way to indicate its relation to the original book, all with consistent punctuation (italics, parenthesis etc.) and order placement. Also, some languages have their own numbering system that doesn't take into account the fact that it's part one, two or three of the original book. This is the case with the French translations. The current numbering system doesn't reflect the fact that have 22 volumes, and I think it should!
+
+Another inconsistency between our translation language sections is the year of publication. Some of the sections have the year of the original book's publication, instead of or in addition to the year the foreign addition was published. Do we need the date of the original English edition publication?
+
+I'd love if someone would make the executive decision for how this should look, or propose something here in talk...[[User:Seebster|Seebster]] 20:53, March 19, 2011 (UTC)
+
+=2013=
+==Split==
+This page has really become quite massive. I think the coverage of Wheel of Time in different languages and nations is a very important topic. I would like to propose that rather than multiple sections on a page, we actually split each section off into its own page, and group those pages under a category, like [[:Category:Wheel of Time translations]], for example. What remains could be an overview that links to the titles by their language. So for example we could have a list that says "Japanese: [[Ji no sharin]]". I think this would make it easier for concurrent editing (a lot of the sections are missing covers/content) and also encourage expansion about additional information about the series.
+
+Learning information like who is publishing it, how many copies they're selling, etc. would be very valuable and I think separate pages could do this. [[User talk:Tycio|+]]Y[[Special:Contributions/Tycio|c]] 20:38, June 30, 2013 (UTC)
+
+: I came here to suggest that we create different pages for the different languages and see it was raised 8 years ago. There are likely multiple editions in each language by now and a comprehensive gallery for each might be interesting. I have seen the images shared around the WoT fandom. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 23:09, 16 June 2021 (UTC)

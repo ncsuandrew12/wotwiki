@@ -1,0 +1,8 @@
+== Summary ==
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Character
+| Description             = [[Setsuko]]
+| Source                  = Digital copy of [[New Spring]] graphic novel
+| Artist                  = Mike S. Miller
+}}

@@ -1,0 +1,11 @@
+A '''chinje wheel''' is a gambling device from the [[Age of Legends]].{{ref/book|11|3}}{{ref/book|c|Chinje wheel}}
+
+{{Quote|quote=At the Gardens only the finest wines had been served, the finest dishes, and it almost always had been possible to impress a beautiful woman with large winnings at the '''chinje wheels''', though cheating enough to win consistently had been difficult."|early_refs={{ref/book|11|3}}}}
+{{Quote|quote=There was also gambling at the chinje wheels|early_refs={{ref/book|c|Ansaline Gardens}}}}
+{{Quote|quote=a wheel used in gambling, perhaps like roulette|early_refs={{ref/book|c|Old Tongue Dictionary|entry=chinje}}}}
+
+{{notes}}
+{{short}}
+[[Category:Games]]
+[[Category:Short pages]]
+[[Category:Age of Legends]]

@@ -1,0 +1,30 @@
+'''Culain's Hound''' is an inn in the New City district of [[Caemlyn]].
+
+==Appearance and staff==
+Culain's Hound is a stone building that is three stories high. It has a red tiled roof. The inn is owned by Master [[Dilham]]. [[Azril]] is a serving maid. They have a gray-striped cat.{{ref/book|6|10}}
+
+==Activities==
+[[Alanna Mosvani]] and [[Verin Mathwin]] bring several girls from the [[Two Rivers]] to Culain's Hound to rest until traveling on to [[Tar Valon]] and the [[White Tower]]. 
+
+[[Rand al'Thor]] visits them when [[Bael]] tells him of them. Many of the girls exclaim at seeing Rand.{{ref/book|6|10}} 
+
+Alanna and Verin ask if Rand will speak with them privately. When they are alone in one of the inn's dining rooms, Alanna [[Bonding|bonds]] Rand against his will.{{ref/book|6|11}} Rand's enraged reaction frightens the girls as he starts to channel.
+
+[[Padan Fain]] knows that the Two Rivers girls are staying there, but considers that killing them will not provoke a reaction from Rand as Rand never lifted a finger to help them when his home was attacked by an army of Trollocs during the events of [[The Shadow Rising]].
+
+[[Vilnar Barada]] visited the inn looking for Aes Sedai in the city, but was not sure if any of the women there were Aes Sedai or not.{{ref/book|6|45}}
+
+==Namesake==
+The inn is most likely named after [[Culain]], the hero of [[Aldeshar]].{{ref/book|10|3}}
+
+==Parallel==
+The name of this inn refers to the Irish hero ''Cú Chulainn'' of the Ulster Cycle, known as the "Hound of Culain."
+
+{{notes}}
+
+[[es:El Sabueso de Culain]]
+[[Category:Inns]]
+[[Category:Andor]]
+[[Category:Parallels]]
+[[Category:Caemlyn]]<references />
+{{DEFAULTSORT:Culain's Hound, The}}

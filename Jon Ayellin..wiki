@@ -1,0 +1,26 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| tworivers=yes
+| affiliation=Perrin Aybara
+| gender=Male
+| build=Hulking
+| hair=Bald
+| status=Alive
+| appeared={{loc|p}}
+| lastappeared={{tom|40}}
+| living=tom
+}}
+{{dablink|For others with the same first name, see [[Jon]]. For others with the same surname, see [[Ayellin]].}}
+'''Jon Ayellin''' is a [[Two Rivers]] resident.
+
+== Appearance ==
+He is hulking and bald.
+
+== Activities ==
+He comes to [[Faile Bashere]] over a boundary dispute with [[Thad Torfinn]].
+
+He [[Travel]]s through [[Jur Grady]]'s [[gateway]] to join the rest of the [[Two Rivers]] men led by [[Perrin Aybara]]. He participates in the [[Battle of Malden]].
+
+{{DEFAULTSORT:Ayellin, Jon}}

@@ -1,0 +1,22 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Dragon Reborn
+| title=Lord
+| hair=Bald
+| build=Blocky
+| status=Alive
+| appeared={{loc|1}}
+| lastappeared={{loc|2}}
+| living=loc
+| gender=Male
+}}
+'''Henren''' is a minor noble of [[Andor]]. 
+
+== Appearance ==
+He is blocky and bald.
+
+== Activities ==
+After [[Rahvin|Gaebril's]] demise he is one of the nobles who fawn over [[Rand al'Thor]].
+[[Category:Nobility]]

@@ -1,0 +1,27 @@
+'''Shandalle''' was a kingdom that existed during the [[Third Age#The Free Years|Free Years]]. It was established in the first century after the end of the [[Trolloc Wars]], rising out of the former territory of [[Almoren]], and was later subsumed into the empire of [[Artur Paendrag Tanreall|Artur Hawkwing]]. Hawkwing was born in Shandalle and ruled it as king for several years before beginning his rise to power across the rest of the [[Westlands]]. Its territory is currently located in the westernmost regions of the kingdom of [[Cairhien]]. It's banner was the three golden hawks in flight.{{ref|{{bwb}}, Ch. 11: The Second Dragon and the Rise of Artur Hawkwing}}
+
+==Geography==
+[[Image:Shandalle.png|thumb|right|200px|In red location within the Westlands]]
+
+Shandalle was among the smallest kingdoms of the Free Years era. It was bordered by the [[River Erinin]] to the west and the [[River Alguenya]] to the east, and the confluence of the two rivers to the south marked its southern border, giving the kingdom a conical shape on maps. Its northern border was a line stretching between where the [[River Luan]] flowed into the Erinin, and where the [[River Gaelin]] flowed into the Alguenya. Shandalle's neighbors were [[Caembarin]] to the west, [[Tar Valon]] to the north, [[Tova]] to the east, and [[Khodomar]] to the south.
+
+The name and location of Shandalle's capital city is not recorded. The city of Cairhien lay just outside Shandalle's borders. The modern Cairhienin town of [[Jurene]] is located in what used to be Shandalle, but it is not known if the town existed at that time.
+
+==History==
+As with much of the Free Years, Shandalle's history is not known in detail. It is known that Shandalle, as a small kingdom, was vulnerable to its larger, more powerful neighbors, but had defeated every attempt to conquer or annex it, possibly due to its proximity to [[Aes Sedai]] mediators. In {{Fy|939}}, Shandalle suffered from the [[Black Fever]] epidemic that went on to wipe out ten percent of the continent's population. Its rulers, King Myrdin Paendrag Maregore and Queen Mailinde Paendrag Lyndhal, died in the epidemic. Their son, [[Artur Paendrag Tanreall]] (b. {{Fy|912}}) took the throne at the age of twenty-seven.
+
+A year later Tanreall led a contingent from Shandalle as part of a larger coalition of forces against the [[false Dragon]] [[Guaire Amalasan]], who had conquered the kingdom of [[Darmovan]] and was moving south and east towards the city of [[Tear]]. It was most likely during [[War of the Second Dragon|this campaign]] that Tanreall gained the nickname "Hawkwing" for the speed with which he could move his armies. Tanreall would clash with Amalasan several times to no conclusive result over the next three years until, with Aes Sedai aid, he finally defeated him in the [[War of the Second Dragon#The Battle of Jolvaine Pass|Battle of Jolvaine Pass]]. Shortly after this, Tanreall defeated Amalasan's lieutenants in their [[War of the Second Dragon#The Battle of Tar Valon|assault on Tar Valon]] aimed at freeing their leader. Despite this victory, Tanreall had grievously injured the pride of the [[Amyrlin Seat]], [[Bonwhin Meraighdin]], in the process.
+
+Several months later, Shandalle was invaded by all three of its neighbors, Caembarin, Tova, and Khodomar. Their justification was that Tanreall had defied the Aes Sedai on Tar Valon's sovereign territory, and that he was undermining the authority in the kingdoms left leaderless by Amalasan's death. In those kingdoms, the name of Artur Hawkwing was being cited as that of a great leader who might be better to lead them than other candidates. Tanreall defeated the invading armies and his counterattack saw him seize large amounts of territory from all three kingdoms. Over [[Consolidation|the next twenty years]] Tanreall seized control of the entire continent, bar only Tar Valon.
+
+Shandalle's position and role in the formation of the Empire is not known. However, it is known that when Hawkwing finally reorganized the Empire into provinces, the territories of Tova and Shandalle were amalgamated with parts of Ileande to form the Province of Cairhien.
+
+==Culture==
+Very little of Shandalle's culture has survived. It is known that people from this kingdom had three names, the middle one of which was the family name, and that the people of Shandalle called the [[Dark One]] ''Caisen Hob'', or 'Old Hob.' Their banner was three golden hawks in flight.
+
+{{notes}}
+
+{{nations}}
+[[es:Shandalle]]
+[[Category:Nations of the Free Years]]
+[[Category:Historical nations]]

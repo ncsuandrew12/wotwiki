@@ -1,0 +1,15 @@
+{{ character | image=IllianFlag.png
+| imagesize=150px
+| status=Alive
+| nationality=Illianer
+| gender=Male
+| occupation=Merchant
+| appeared={{Wh|32}}
+| lastappeared={{wh|32}}
+| living=wh
+}}
+
+'''Master Azereos''' is an [[Illian]]er merchant with a white beard and a pointed nose.
+
+A trader in [[The Golden Wheel]] in [[Far Madding]] advises him not to move his trade to [[Lugard]], since [[Murandy]] is too unsettled.
+[[Category:Short pages]]

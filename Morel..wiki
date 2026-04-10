@@ -1,0 +1,16 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| gender=Male
+| mentioned={{loc|20}}
+| lastmentioned={{loc|20}}
+}}
+'''Morel''' was an [[Ogier]] man, father of [[Dal]], and grandfather of [[Elder]] [[Haman]].{{ref/book|6|20}}
+
+==History==
+While he is mentioned, as part of his grandson's name, nothing is known about Morel.
+
+{{notes}}
+{{short}}

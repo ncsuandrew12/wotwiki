@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Fan Art
+|ImageType2  = Character
+|License     = GFDL
+|Source      = http://seamassketches.blogspot.com/
+|Description = [[Rand al'Thor]] fan art done by John Seamas Gallagher
+|Artist      = John Seamas Gallagher 
+}}

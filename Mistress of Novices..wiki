@@ -1,0 +1,62 @@
+[[File:NoviceIcon.png|right|250px]]
+The '''Mistress of Novices''' is the [[Aes Sedai]] responsible for the discipline and well-being of [[novice]]s and [[Accepted]] in the [[White Tower]]. The most recent Mistress of Novices was [[Rosil]], of the [[Yellow Ajah]]; following the death of [[Egwene al'Vere]] it is unknown whether [[Cadsuane Melaidhrin]] has kept Rosil as her Mistress of Novices or if she has appointed another woman to the position.
+
+The Mistress of Novices is expected to be a harsh-yet-fair woman. An essential part of her role and duty is to administer punishment to her charges, which usually takes the form of a spanking (typically a slippering, strapping, or switching of varying intensity); she may also assign extra chores. The administering of such spankings by the Mistress of Novices is viewed by the White Tower as constituting part of the Tower’s caring for and guiding of Novices and Accepted. The Mistress of Novices functions as both disciplinarian and confidante, and it is not unheard of for her to be a source of comfort and support to those who feel the pressure hardest.
+
+She is the ultimate authority over Novices, and as such she is also responsible for bringing them to their test for Accepted. She is generally considered to be harsher on Accepted than Novices, for it is believed that Accepted should know better.
+
+Aes Sedai can even be sent to her for a penance, though it is rare and ultimately humbling for the Aes Sedai. [[Silviana Brehon]], Mistress of Novices under [[Elaida do Avriny a'Roihan]] expressed distaste about the private penances that the Amyrilin set for certain Sisters, as she believed that a penance should be public by the very nature.
+
+The position of Mistress of Novices has been sought after and claimed by many [[Black Ajah]] sisters. The reason for this would appear to be that they can observe the White Tower initiates to see which ones might be potential recruits for the [[Black Ajah]].
+
+== Appointment ==
+The Mistress of Novices is traditionally appointed by the [[Amyrlin Seat]]; there are some instances of a Mistress of Novices being forced upon an Amyrlin by the [[Hall of the Tower]], although this is rare. Traditionally, a new Mistress of Novices belongs to the same [[Ajah]] as the Amyrlin was raised from, but much like the [[Keeper of the Chronicles]], this is not absolute and the Amyrlin may appoint a Mistress of Novices from a different Ajah, either to favor that Ajah or because the woman is extremely competent.
+
+Traditionally, the Mistress of Novices may be dismissed and replaced if she outlives the Amyrlin Seat, as seen with [[Amira Moselle]] replacing [[Merean Redhill]] after the death of [[Tamra Ospenya]]. However, there are exceptions, as [[Sereille Bagand]] was considered such a legendary Mistress of Novices during her time in office that she served for one hundred and seven years under three different Amyrlins.{{ref/book|c|Sereille Bagand}} Indeed, Merean herself served under two different Amyrlins, having served under the previous Amyrlin, [[Noane Masadim]], as well as Tamra Ospenya.{{ref/book|c|Merean Redhill}}
+
+The Mistress of Novices does not serve at the Amyrlins pleasure any more than the Keeper does, and can only be removed by the greater consensus of the Hall of the Tower except in the case of certain specific misdeeds, in which case only lesser consensus is required.{{ref/book|c|Mistress of Novices|comp}}
+
+== Authority ==
+With few exceptions, it requires at least the lesser consensus of the Hall of the Tower to override the Mistress of Novices regarding almost anything to do with her charges. Some things are set in the law, including strictures against singling out any girl for either favor or censure without cause, but by and large she can reward or punish as she chooses to.
+
+The manner in which novices are fed, clothed, and housed is largely in her control. The manner in which Accepted are fed, clothed, and house is only somewhat less controlled by her. Accepted are given individual rooms, or even apartments, since there are fewer of them, for example, and she cannot make them all live in the small cubicles given to novices; an Accepted as well as a novice can still find herself feeding on bread and water, and while Accepted are allowed more jewelry than novices and are seldom called down for excessive, ornament, at least once they had progressed a little, she can restrict them just as severely as the novices if she chooses to.
+
+The authority of the Mistress of Novices over her charges is such, according to the law, that she can in some cases defy the Amyrlin Seat or anything below the lesser consensus of the Hall of the Tower, or in some cases, the greater consensus. An Aes Sedai who is instructing novices or Accepted can send a novice or Accepted running on any task, or send them to the Mistress of Novices' study, but it is the Mistress of Novices who decides what punishment to dole out, if any, and the sister who sends the girl has no say. The Mistress of Novices is heartily offended if any sister tries to take a hand. By law, not even the Amyrlin Seat can tell the Mistress of Novices what reward or punishment to give any novices or Accepted.
+
+Many Mistresses of Novices say that the girls in their charge are theirs and that the girls belong to them. This attitude is generally accepted by the sisters. Some Mistresses of Novices use this to be unremittingly harsh on their charges, but it was also used to protect the girls from sisters, Sitters, and even the Amyrlin Seat. All Aes Sedai are goddesses in the eyes of the novices, and not much less in the eyes of Accepted, but even the Amyrlin Seat has to go through the Mistress of Novices for almost anything concerning both novices and Accepted.{{ref||comp}}
+==Known Mistresses of Novices==
+
+{| class="wikitable"
+! Mistress of Novices !! Ajah !! Amyrlin
+|-
+| rowspan="3" | [[Sereille Bagand]]
+|  rowspan="3" | White 
+| [[Myriam Copan]] (Green Ajah)
+|-
+|[[Zeranda Tyrim]] (Brown Ajah)
+|-
+|[[Parenia Demalle]] (Gray Ajah)
+|-
+| rowspan="2" |[[Merean Redhill]] 
+| rowspan="2 "| Blue (Black) 
+| [[Noane Masadim]] (Blue Ajah)
+|- 
+| [[Tamra Ospenya]] (Blue Ajah)
+|-
+| [[Amira Moselle]] || Red || [[Sierin Vayu]] (Gray Ajah)
+|-
+| [[Sheriam Bayanar]] || Blue (Black) || [[Siuan Sanche]] (Blue Ajah)
+|-
+| [[Silviana Brehon]] || Red || rowspan=2 | [[Elaida do Avriny a'Roihan]] (Red Ajah)
+|-
+| [[Katerine Alruddin]]{{ref/book|12|41}} || Red (Black)
+|-
+| [[Tiana Noselle]] || Gray || rowspan="2" | [[Egwene al'Vere]] (No Ajah)
+|-
+| [[Rosil]] || Yellow 
+|}
+
+{{notes}}
+
+[[es:Maestra de las Novicias]]
+[[Category:Mistresses of Novices| ]]

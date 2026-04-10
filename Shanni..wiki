@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| occupation=Wise One
+| gender=Female
+| clan=Daryne
+| sept=Unknown sept
+| status=Alive
+| mentioned={{amol|p}}
+| lastmentioned={{amol|p}}
+| living=amol
+}}'''Shanni''' is an [[Aiel]] [[Wise One]], likely of the [[Daryne]] clan.{{ref|{{twotc}}, Shanni}}
+
+== Activities ==
+[[Amys]] suggests Hayde and Shanni speed up [[Elenar]]'s training in the hope of sending her to [[Rhuidean]]. Elenar is of the Daryne, so it is assumed that she is training under Wise Ones of her own clan.
+
+== Trivia ==
+* Shanni is named for Shani Gamble, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{short}}
+{{notes}}
+[[Category:Characters named after fans]]

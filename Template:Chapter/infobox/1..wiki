@@ -1,0 +1,279 @@
+{{Chapter/infobox | book=The Eye of the World | aka=TEotW | b=1
+| before=New Spring/Epilogue
+| after=The Great Hunt/Prologue
+| p=Dragonmount
+| r=Ravens
+| e=
+| list=<table cellspacing="0" cellpadding="0" style="width: 100%; background-color: transparent; border: 0; line-height: normal;">
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">1</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 1|An Empty Road]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">2</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 2|Strangers]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">3</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 3|The Peddler]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">4</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 4|The Gleeman]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">5</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 5|Winternight]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">6</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 6|The Westwood]]</td>
+  </tr>
+
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">7</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 7|Out of the Woods]]</td>
+  </tr>
+
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">8</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 8|A Place of Safety]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">9</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 9|Tellings of the Wheel]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">10</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 10|Leavetaking]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">11</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 11|The Road to Taren Ferry]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">12</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 12|Across the Taren]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">13</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 13|Choices]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">14</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 14|The Stag and Lion]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">15</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 15|Strangers and Friends]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">16</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 16|The Wisdom]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">17</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 17|Watchers and Hunters]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">18</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 18|The Caemlyn Road]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">19</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 19|Shadow's Waiting]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">20</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 20|Dust on the Wind]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">21</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 21|Listen to the Wind]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">22</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 22|A Path Chosen]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">23</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 23|Wolfbrother]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">24</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 24|Flight Down the Arinelle]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">25</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 25|The Traveling People]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">26</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 26|Whitebridge]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">27</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 27|Shelter from the Storm]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">28</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 28|Footprints in Air]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">29</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 29|Eyes Without Pity]]</td>
+  </tr>
+
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">30</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 30|Children of Shadow]]</td>
+  </tr>
+
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">31</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 31|Play for Your Supper]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">32</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 32|Four Kings in Shadow]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">33</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 33|The Dark Waits]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">34</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 34|The Last Village]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">35</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 35|Caemlyn]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">36</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 36|Web of the Pattern]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">37</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 37|The Long Chase]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">38</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 38|Rescue]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">39</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 39|Weaving of the Web]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">40</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 40|The Web Tightens]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">41</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 41|Old Friends and New Threats]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">42</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 42|Remembrance of Dreams]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">43</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 43|Decisions and Apparitions]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">44</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 44|The Dark Along the Ways]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">45</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 45|What Follows in Shadow]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">46</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 46|Fal Dara]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">47</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 47|More Tales of the Wheel]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">48</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 48|The Blight]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">49</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 49|The Dark One Stirs]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">50</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 50|Meetings at the Eye]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">51</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 51|Against the Shadow]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">52</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 52|Neither Beginning Nor End]]</td>
+  </tr>
+
+  <tr style="vertical-align: top;">
+    <td style="text-align: right; padding-right: 0.5em;">53</td>
+    <td style="text-align: left; padding-bottom: 2px;">[[The Eye of the World/Chapter 53|The Wheel Turns]]</td>
+  </tr>
+</table>
+}}
+
+<noinclude>[[Category:Book templates|Eye of the World]]</noinclude>

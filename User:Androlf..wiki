@@ -1,0 +1,446 @@
+Howdy, I'm Andrew, a software engineer who specializes in writing security-related application code for networking and cryptographic products.
+{{tocright}}
+== About me ==
+I'm a massive WoT fan. As of {{date|2026-3-11}}, I have:
+
+#Discovered WoT by virtue of picking up {{10}} in a bookstore circa 2005 or so.
+#Read all of the main series and {{0}} twice.
+#Listened to the main series audio books about six or seven times.
+#Converted ''[[The Complete Wheel of Time]]'' and {{twotc}} into {{Wiki|markdown}} and {{Wiki|JSON}} files for my own use.
+#Started getting meaningfully involved in online WoT discussion during the 2020 pandemic.
+#Founded {{Link|http://redhand.band|The Band of the Red Hand}} in 2021. As of {{date|2024-07-22}}, it is the largest WoT Discord listed on either {{Link|https://disboard.org/search?keyword&equalswheel+of+time&sort&equals-member_count|disboard.org}} or {{Link|https://discord.me/servers?search&equalswheel+of+time|discord.me}}.
+#Read the [[Big White Book]] twice.
+#Skimmed much of {{c}}.
+#Read ''[[Origins of the Wheel of Time]]'' and given a {{YTlink|1=https://www.youtube.com/live/ftQf4p2IBMc?si=ZTat20pPETRdcgog|2=2-hour review}} of it.
+#Made a "pilgrimage" to Charleston, including the library at The Citadel, [[Ogier]] Street, and the sidewalk in front of the property where Robert Jordan wrote ''The Wheel of Time''. On the way back, I stopped by a suburban neighborhood with street names like "[[Min Farshaw|Farshaw]]" and "[[Mat Cauthon|Cauthon]]". Incidentally, {{Link|https://www.reddit.com/r/WetlanderHumor/comments/11qqebj/dump_truck_collision_minimal_damage/|the Farshaw street sign was very askew}}, as though it had been hit by a dump truck or some such.
+#A future such trip will involve perusing Jordan's notes.
+#Recruited both of my sisters into reading WoT. The younger has finished the series and is fairly active in my Discord. The older has great difficulty liking any of the significant female characters except Moiraine and Nynaeve and bailed on the series after [[Birgitte Silverbow]] was ripped from [[Tel'aran'rhiod]] in ''[[The Fires of Heaven]]''.
+#Assembled a [[Mat Cauthon]] costume. I'm still working on procuring the ring, the foxhead medallion, and the throwing knives. He's not my favorite character, but he's probably the most entertaining character. He's also the character whose physical description I most closely match. Also, as founder of a Discord called {{Link|https://discord.redhand.band|The Band of the Red Hand}}, I go by the alias Mat Cauthon frequently.
+##An [[Ashandarei]] (or close enough)
+##A [[Mat's Gear|wide-brimmed black hat]].
+##A green "coat," brown pants, roughly "period"-compatible boots
+##A dice cup
+##A black scarf.
+#Obtained a license plate named after a WoT character.
+#Acquired the following WoT items:
+##Hardcovers of the whole series (including ''[[From the Two Rivers]]'', ''[[To the Blight]]'', ''[[The Hunt Begins]]'', and ''[[New Threads in the Pattern]]''), {{c}}, {{bwb}}, {{origins}}, [[Unfettered]] ([[A Fire Within the Ways]]), [[Unfettered III]] ([[River of Souls]]), [[Legends: Stories By The Masters of Modern Fantasy]] ([[New Spring]] short story) (both hardcover and paperback versions), and ''{{Link |url=https://www.biblio.com/book/fire-cradle-charlestons-literary-heritage-david/d/1685677761 |text=A Fire in the Cradle}}''.
+##Mass market paperbacks of ''[[From the Two Rivers]]'', ''[[To the Blight]]'', ''[[The Hunt Begins]]'', and ''[[New Threads in the Pattern]]''.
+##Mass market paperbacks of books 1 through 9. I've since given most of these away.
+##A first edition paperback of {{1}} via an auction of Robert Jordan's estate.
+##An advance review copy of {{10}} via an auction of Robert Jordan's estate.
+##An uncorrected proof of {{bwb}} via an auction of Robert Jordan's estate.
+##All the graphic novels ({{0}}, {{1}}, {{2}})
+##A large number of the [[The Wheel of Time Collectible Card Game]] cards.
+##The books and a poster for [[The Wheel of Time Roleplaying Game]].
+##The [[Patterns of the Wheel]] coloring book
+##The demo for [[The Wheel of Time (video game)]]; don't have it any more.
+##The "remaster" for [[The Wheel of Time (video game)]]
+
+=== Username ===
+[[Androl Genhald|Androl]] isn't a ''favorite'' character of mine (and I absolutely believe it's a shame [[Logain Ablar|Logain]]'s story suffered to give us Androl), but he's an interesting character and I happen to love the [[Towers of Midnight/Chapter 46|leatherworking excerpt]] despite having no knowledge of the subject myself. He also happens to match the {{Wiki|Regular_expression|regex}} string <code><nowiki>^Andr[e-w]{2}$</nowiki></code> just as my first name does, so there's that.
+
+=== Personal life ===
+[[File:Androlf's Family.png|thumb|My family]]I'm married to an {{Wiki|English_as_a_second_language|ESL}} Guatemalan and together we're raising my son (born circa Covid-19) and my daughter (three years younger).
+I've already bought the complete {{Wiki|Redwall}} series in preparation for introducing my kids to fantasy novels.
+
+== Role ==
+
+I'm fairly new around here, but based on what I've seen I'm currently one of a half dozen or so regular contributors. I tend to avoid large contributions of new content, mostly because I haven't encountered many, if any, posts that need it. I mostly focus on adding small missing pages (e.g. [[cutworm]]), fixing/enhancing templates, minor style/standardization tweaks, correcting mistaken information (usually a result of attempts at fancy wording rather than fundamental errors), updating tenses, adding references, removal of duplicate bits of code, etc.
+
+An exception to this is the [[:Category:Similarities]] pages I've made. There's probably more that needs to be added to them, but the intent is to catalog every substantive (and many, many non-substantive) similarities between ''The Wheel of Time'' and other works.
+
+{{SimilaritiesFooter}}
+
+=== Notable contributions ===
+
+# April, 2026
+## Converted the entire [[Old Tongue Dictionary]] as it appears in the Companion into JSON: [[Module:OT/old tongue dictionary.json]]. The file is constructed such that non-companion data can be added and dynamically included or excluded from results. This file powers the table at [[Old Tongue Dictionary]].
+# March, 2026
+## Created the "{{Link |url=https://github.com/wotwiki |text=wotwiki}}" Github organization to contain the "{{Link |url=https://github.com/wotwiki/wotwiki |text=wotwiki}}" and "{{Link |url=https://github.com/wotwiki/wotwiki-secret |text=wotwiki-secret}}" Github repos.
+## Wrote a rough initial version of a Python script for making automatic edits. Used it to clean up absolute links to this wiki (via both Fandom and older Wikia URLs) in the couple dozen pages that still had them.
+## Migrated the Quotes database from Lua to JSON to facilitate easier editing and use by tools other than the wiki's modules ("cache" is still Lua).
+# February, 2026
+## Transcribed ''[[Beasts of the Wheel of Time]]'' from a PDF of [[Dragon Magazine Annual 6|Dragon Magazine Annual #6]].
+# November, 2025
+## Began the JSON "database" of [[Module:Characters/characters.json|characters]] and revised the list of sparkers in [[Spark]] to derive from it.
+## Expanded {{t|Image}} to handle AI.
+# October, 2025
+## Revised the quote code to use [[Module:Mbox]] instead of tables.
+## Mobile optimization
+### Created mobile versions of various templates (namely navigational footers)
+### Devised the CSS improvements that hide the mobile content on desktop
+## Stole {{tl|cite/web}} from elsewhere
+## Created some handy wikitext shortcut templates: {{tl|complete}}, {{tl|ravens}}, {{tl|ter}}, {{tl|tar}}
+## Created [[Majhere]], [[Humble Bundle]], [[The Complete Wheel of Time]], [[Rick Lane]], and [[Glen Dahlgren]]
+## Created {{tl|cite/androlf/source}} for referencing the specific sources I use (for referencing variations) (rendered text makes no reference to me)
+## Registered the https://wot.wiki domain name, with a redirect to https://wot.fandom.com
+## Create the {{Link |url=https://github.com/wotwiki/wotwiki |text=wotwiki}} and {{Link |url=https://github.com/wotwiki/wotwiki-secret |text=wotwiki-secret}} github repos.
+## Created {{Link |url=https://github.com/wotwiki/wotwiki/tree/master/theoryland/interview_db |text=scripts}} to archive the Theoryland Interview Database
+### Download the interviews
+### Convert them into JSON and Markdown
+### Produce code for [[Template:Tidb]]
+## Moved the data from [[List of Point of View Characters]] into a JSON "database."
+# September, 2025
+## Added {{tl|rignotes}} to more easily and uniformly cite [[Robert Jordan's notes]]
+## Enhanced {{tl|ref/book}} to allow for explicit footnote names in the same manner as {{tl|ref}}.
+## Created {{tl|Amyrlist}} and constituent templates.
+## Created {{tl|SortableDate}} to enable adding sortable Randland dates regardless of [[Calendar|calendar]]
+## Created {{tl|ops}}, {{tl|opsl}}, and {{tl|SortableOPS}} to allow uniform referencing/linking levels of [[Strength in the One Power rankings|strength in the One Power]].
+## Converted lists of Amyrlins on the [[:Category:Ajahs|Ajahs]] pages to sortable tables.
+# April, 2025
+## Created {{tl|Date}} to allow users to control how dates are rendered within pages.
+## Created {{tl|TIDB}}, {{tl|Ref/tidb}}, {{tl|TIDBKW}} to easily reference the Theoryland Interview Database in a standardized manner.
+## Created the [[Help:Style guide/Cleanup Checklist|cleanup checklist]] for reference when editing an article.
+
+==== Quotes ====
+
+In March and April of 2025, I created Module:Wotq/Data, since replaced by [[Module:WotQ/Data/quotes.json]]
+* No longer need a page for each day of the year.
+* The calendar at [[Wotwiki:Quote of the Day/Archive Calendar]] is dynamically generated.
+* The quote list at [[Wotwiki:Quote of the Day/Archive]] is dynamically generated.
+* Quotes are formatted in a [[Module:Mbox|MessageBox]].
+
+=== Future projects ===
+
+Some projects I'm considering:
+* Complete [[Module:Characters/characters.json]] and [[Module:Places/places.json]]
+* Add everything in [[Lini's sayings]] to [[Module:WotQ/Data/quotes.json]]
+* Convert the data in [[List of Old Tongue words]] to JSON and add to [[Module:OT/old tongue dictionary.json]], then produce the table dynamically. Add a link anchor for each term!
+* More generic templates for the book infoboxes/navigation. Ideally, each book page would call the same template and only give a title.
+* Ajah infoboxes on Ajah pages
+* Add {{tl|Nations}} to all the nations it contains.
+* Go through all speakers in [[Module:WotQ/Data/quotes.json]] and add <code><nowiki>{{WotQ|pagename}}</nowiki></code> to the respective main pages. DO NOT USE <code><nowiki>{{PAGENAME}}</nowiki></code> because it breaks when the corresponding page text is transcluded via DPL (such as in the featured article functionality).
+* Rework the featured article section on the main page to randomly select from a subset of main pages (a particular category), rather than being hard-coded to a specific set of pages.
+* Something like the featured article section, but which showcases one of the most recently created and/or modified pages, possibly weighting it in favor of larger edits.
+* Make [[Template:Dablink]] more visually prominent.
+* Port the quotes in [[Lini's sayings]] into the quote database.
+* Add [[The Gathering Storm/Glossary]], [[Knife of Dreams/Glossary]], and any other missing glossaries. See [[Towers of Midnight/Glossary]].
+* Flesh out [[Mat's Dice Sense]] and organize by "instance" rather than simply listing the quotes.
+* Create a reference CSS for the admins to modify or adopt.
+** Should obviate the need for most of the HTML styling done in the pages and in the templates. E.g. should handle making quotes "pop" and formatting footer tables.
+** See [[Wotwiki:Cascading_Style_Sheet]]
+* Replace "standard" sections (e.g. see also, TV show, external links, appearance, etc.) with templates. Mostly to help "enforce" naming standardization and produce redlinks when done wrong (e.g. writing see alsos).
+* Add chapter summaries for {{bwb}}
+* Create headers/footers for the [[:Category:Time]] and [[:Category:New Era chronology]] pages.
+* Templates for the "in the TV series" sections.
+* Update content breakdown table footnotes on the book pages (e.g. [[The Dragon Reborn]]) to use {{tl|ref}}
+* Eliminate either {{tl|Wiki}} or {{tl|wp}}. Use only the other one. As of 2025-09-07, all {{tl|wp}} instances have been moved to {{tl|Wiki}} except the Robert Jordan copyright text on the main page (no permissions) and a handful of talk/user pages.
+** Maybe enhance the CSS to do everything {{tl|Wiki}} does (namely, adding the Wikipedia icon) and just use <nowiki>[[wikipedia</nowiki> instead of templates.
+* Group footnotes. Possible groups: sources for claims, caveats/commentary/notes, references to canon text
+* {{tl|Verify}} Currently does this:{{verify}}. Possible to eliminate the explicit <nowiki>[verify]</nowiki> text and customize the footnote ref text to be "verify" instead of the number?
+* Make a template for [[:Category:Battles]] similar to Wikipedia's.
+* Use Theoryland Interview Database scripts to create/sync per-interview Source pages
+** Top of page: messagebox describing origin and linking to source and to script
+** Content section
+* Create an events JSON database that can be queried to replace the Activities sections on character pages. This would allow for deduplication of descriptions of the same events, which has led to numerous errors and imprecisions.
+
+See also: [[:Category:Proposals]]
+
+== Two cents ==
+
+* Characters
+** [[Androl Genhald]] - Don't love him, don't hate him. Very interesting, but I think it was a mistake to curtail [[Logain Ablar]] for his sake.
+** [[Bela]] - Awesome, but not the [[Creator]].
+** [[Egwene al'Vere]] - Good character, pretty bad person. Not a Mary Sue.
+** [[Elayne Trakand]] - I like early Elayne. I dislike her more and more as the series progresses. Making her the overall commander of the [[Light]] was silly. The books give no solid reason to conclude she and [[Aviendha]] were ever romantically involved, and the baths are not remotely evidence to the contrary.
+** [[Faile Bashere]] - Occasionally annoying, but I don't hate her.
+** [[Lan Mandragoran]] - Excellent character, superb person. Absolutely had something "to die for" before meeting Moiraine.
+** [[Loial]] - Excellent character, excellent person. I'll fight anyone who says otherwise.
+** [[Lanfear]] - Dead. Certainly capable of deceptive survival, but it feels like a rug pull.
+** [[Mat Cauthon]] - Excellent character, good person, some terrible traits. Not a thief!
+** [[Moiraine Damodred]] - One of the best female characters in fiction. Not an absolute moron who couldn't selectively truth-tell out of a paper bag.
+** [[Nynaeve al'Meara]] - Not a fan of early Nynaeve, but I don't hate her. Big fan of late Nynaeve. Would never try to kill someone on impulse, especially when she needs said someone.
+** [[Perrin Aybara]] - Excellent character, superb person, held back by his storyline. Would never kill his wife or get married while pining after his friend's girl.
+* Worldbuilding & Metaphysics
+** [[Channeling]] criteria - For a person to channel, a soul must be able to channel and be incarnated in a body that has some "genetic" component which allows channeling. If said component is strong enough, or if some theorized second "genetic" component is present, the channeler will be a [[:Category:Sparkers|sparker]].
+* Books
+** [[The Wheel of Time Companion]] - Good and useful, but with (understandably) so little novel information that I've had a hard time working through it and have yet to finish it as of 2026-03-31
+** [[The World of Robert Jordan's The Wheel of Time]] - Fun, interesting. Unreliable and often subtly wrong in its wording. Perfectly fine as an "in-universe" document.
+** The Comics - I own a copy of all of the released comics, but I'm not really a fan of the medium. The artwork is mostly ok, except that I'm pretty sure a DeLorean was involved in-universe.
+* Misc
+** [[Brandon Sanderson]] - Good author, excellent worldbuilder. Lots of shortcomings in TGS-AMOL, but did better than I ever expected or would reasonably have thought possible.
+** WoT Romance - Conforms very well to my preferences. I don't care to read much romance, so the frequent "off-screen" development works well. Honestly, I could have done with a ''little'' less of the "on-screen" stuff.
+*** Harem - Not an absolute travesty, but it's RJ living vicariously and WoT suffers for it.
+** ''[[w:c:wheeloftime:The Wheel of Time|The Wheel of Prime]]'' [https://discord.redhand.band is an abomination] in terms of story, plot, worldbuilding, and characters. It is an internally inconsistent TV show even ignoring the books. In the context of the books, it inverts themes, destroys characters and worldbuilding, and ultimately presents as the product of people who want to write original content but are forced to deal with source material they couldn't care less about. It was cancelled far too late, but I still celebrated that it was cancelled. [[w:c:wheeloftime:Rafe Judkins|Raginor]] is ''[[Da'tsang|da'tsang]]''. [[w:c:wheeloftime:Sara Nakamura|Mesaarah]] is either extremely limited in influence, or else ''da'tsang'' herself. Either way, pre-empting backlash by excusing all changes with "[https://x.com/sarahenakamura/status/1428161217734987777 another Turning]" is a gross misappropriation of the WoT mechanics. I refuse to watch season 2 and later, but am somewhat familiar with the events of seasons 2 and 3 from various third parties.
+*** I'm very glad the choice was made to (mostly) deposit show information in its own wiki. The listing of actors at the bottom of character pages is acceptable.
+* [[User_blog:Androlf/WoT_Sites/Groups|Communities]]
+** [https://reddit.com/r/WetlanderHumor r/WetlanderHumor] - Very entertaining.
+** [https://www.reddit.com/r/TheDailyTrolloc/ r/TheDailyTrolloc] - Small, but otherwise the best forum-style site to engage in WoT discussions on.
+** [https://lemmy.world/c/wot c/wot] - Nascent Lemmy alternative to r/wot.
+** [https://discord.redhand.band The Band of the Red Hand Discord] - The best chat-style site to discuss WoT, but I'm biased.
+** [https://discord.gg/DaJvxGzekt The wotwiki Discord] - Great place for quality WoT discussion
+** [https://discord.gg/xNG4JwRRSD The Stedding Discord] - Good and active, but be sure to mute the noise.
+** [https://discord.gg/Nav6n5hC94 The Wheel of Time Quiz Discord] - Great place for testing your WoT knowledge, at least if you have Sunday mornings free.
+** r/whitecloaks - Enjoyable, but dragged down by incessant Reddit drama. Too bad about the ban.
+** r/The_Black_Tower - Very enjoyable. Too bad about the lockdown.
+** r/wotshow, r/wheeloftime - Wretched hives of scum and villainy run by duplicitous moderators. Best avoided.
+** r/wot - Once great, but largely ruined by duplicitous moderators. Best avoided. Banned me for "harassment" for [https://www.reddit.com/r/WoT/comments/1hfhja7/january_6_is_a_day_that_will_be_remembered_in/ this inoffensive joke] about [[Robert Jordan]]'s comment on {{Wiki|Terry Goodkind}}.
+* {{Link |url=https://tiermaker.com/create/all-wheel-of-time-media-18857253 |text=All <nowiki>''Wheel of Time''</nowiki> media ranked}}<br />[[File:Androlf-rank-wot-media.png]]
+* {{Link |url=https://tiermaker.com/create/wheel-of-time-s1-cast-1626898 |text=<nowiki>''Wheel of Prime''</nowiki> S1 Characters Rated as Adaptations}}<br />[[File:Androlf-rank-wheel-of-time-s1-cast.webp|Androlf-rank-wheel-of-time-s1-cast.webp]]
+
+{{A|Original Content}}
+
+== Original content ==
+
+* {{Link|https://lemmy.world/post/34831391|The Cardplayers by Mat Cauthon}}, parody of [https://music.youtube.com/watch?v=5zMPrzqbDUU The Cardplayers by Corb Lund]
+* [https://wot.fandom.com/wiki/User_blog:Androlf/The_Land_of_the_Rising_Sun_by_Thom_Merrilin The Land of the Rising Sun by Thom Merrilin], parody of [https://www.youtube.com/watch?v=AEuFaRBGDcw House of the Rising Sun as popularized by The Animals]
+* [https://wot.fandom.com/wiki/User_blog:Androlf/A_Limerick_by_Matrim_Cauthon_Concerning_the_Band_of_the_Red_Hand A Limerick by Matrim Cauthon Concerning the Band of the Red Hand]
+* [https://wot.fandom.com/wiki/User_blog:Androlf/Much_Too_Hasty Much Too Hasty], parody of [https://www.youtube.com/watch?v=CtwJvgPJ9xw Ridin' by Chamillionaire] and [https://www.youtube.com/watch?v=N9qYF9DZPdw White & Nerdy by Weird Al Yankovic]
+* {{Link|https://lemmy.world/post/27243489|Shepherd's Paradise}}, parody of [https://www.youtube.com/watch?v=lOfZLb33uCg Amish Paradise by Weird Al Yankovic] and [https://www.youtube.com/watch?v=fPO76Jlnz6c Gangsta Paradise by Coolio].
+* {{Link|https://lemmy.world/post/34832353|Void of Colours}}, parody of [https://www.imdb.com/title/tt0449088/ Hoist the Colours by Hans Zimmer et al] as popularized by [https://youtube.com/watch?v=xkzy_420hts Bobby Bass et al]
+* {{Link|https://lemmy.world/post/27299487|Winternight}}, parody of [https://www.youtube.com/watch?v=nEH7_2c644Q Silent Night by Joseph Mohr]
+
+== Other works ==
+
+* {{Link|https://discord.redhand.band|The Band of the Red Hand Discord}}
+* {{Link |url=https://wot.miraheze.org |text=wotfans wiki}}, a companion to this wiki meant to document meta history of fan groups, fanon, etc.
+* {{Link |url=https://wot.miraheze.org/wiki/WoT_Sites |text=WoT Sites/Groups}}, a page intended to catalog all WoT sites and fan groups.
+
+== Favorites ==
+
+=== WoT books ranked ===
+''Rating is from 0 (no redeeming value at all) to 49 (barely dislike overall) to 50 (neutral overall) to 51 (barely like overall) to 100 (perfect).''
+
+{|align=center class="article-table sortable" 
+|+
+! data-sort-type="text" |Title
+! data-sort-type="number" |Enjoyment
+! data-sort-type="number" |Quality
+|-
+| {{0}} || 59 || 65
+|-
+| {{1}} || 89 || 85
+|-
+| {{2}} || 90 || 90
+|-
+| {{3}} || 80 || 75
+|-
+| {{4}} || 95 || 95
+|-
+| {{5}} || 85 || 78
+|-
+| {{6}} || 80 || 76
+|-
+| {{7}} || 68 || 70
+|-
+| {{8}} || 68 || 68
+|-
+| {{9}} || 70 || 75
+|-
+| {{10}} || 60 || 59
+|-
+| {{11}} || 83 || 90
+|-
+| {{12}} || 80 || 90
+|-
+| {{13}} || 78 || 80
+|-
+| {{14}} || 70 || 88
+|-
+| {{15}} || 80 || 85
+|-
+| ''[[A Fire Within the Ways]]'' || 85 || 85
+|-
+| ''[[The World of Robert Jordan's The Wheel of Time]]'' || 75 || 80
+|-
+| {{c}} || 60{{ref|Not that ranking enjoyment really makes sense}} || 99
+|-
+| {{origins}} || 51 || 55
+|}
+
+=== Characters ranked ===
+
+''Rating is from 0 (no redeeming value at all) to 49 (barely dislike overall) to 50 (neutral overall) to 51 (barely like overall) to 100 (perfect).''
+
+{|align=center class="article-table sortable" 
+|+
+! data-sort-type="text" |Name
+! data-sort-type="number" |Rated as<br />
+Character
+! data-sort-type="number" |Rated as<br />
+Person
+! data-sort-type="number" |Story
+|-
+| [[Verin Mathwin]]
+| 90
+| 90
+| 99
+|-
+| [[Rand al'Thor]]
+| 85
+| 80
+| 90
+|-
+| [[Galad Damodred]]
+| 90
+| 95
+| 80
+|-
+| [[Loial]]
+| 89
+| 100
+| 85
+|-
+| [[Moiraine Damodred]]
+| 85
+| 85
+| 89
+|-
+| [[Tam al'Thor]]
+| 85
+| 95
+| 80
+|-
+| [[Mat Cauthon]]
+| 93
+| 70
+| 95
+|-
+| [[Nynaeve al'Meara]]
+| 88
+| 70
+| 80
+|-
+| [[Rhuarc]]
+| 89
+| 85
+| 80
+|-
+| [[Perrin Aybara]]
+| 80
+| 93
+| 75
+|-
+| [[Egwene al'Vere]]
+| 83
+| 60
+| 85
+|-
+| [[Elayne Trakand]]
+| 75
+| 70
+| 60
+|-
+| [[Gawyn Trakand]]
+| 40
+| 60
+| 30
+|-
+| [[Faile Bashere]]
+| 65
+| 70
+| 50
+|}
+
+=== Favorite quotes ===
+
+''' {{0}} '''
+----
+:{{quote|To stand against the Shadow so long as iron is hard and stone abides. To defend the Malkieri while one drop of blood remains. To avenge what cannot be defended.|Ancient oath of [[Malkieri]] kings{{ref/book|0|16}}}}
+
+''' {{1}} '''
+----
+:{{quote|In wars, boy, fools kill other fools for foolish causes.|[[Thom]], {{1|4}}}}
+----
+:{{quote|The fact that the price must be paid is proof that it is worth paying.|[[Lan]], {{1|17}}}}
+----
+:{{quote|Teach him how you will, a pig will never play the flute.|[[Thom]], {{1|26}}}}
+----
+:{{quote|Narg smart.|[[Narg]], {{1|5}}}}
+----
+:{{quote|The Shadow has yet to darken to its blackest, and I cannot see if the Light will come after. Where the world has wept one tear, it will weep thousands. This I Foretell. This, too, I Foretell. Pain and division come to the whole world, and this man stands at the heart of it.|[[Elaida]] on [[Rand]], {{1|40}}}}
+----
+:{{quote|Till shade is gone, till water is gone, into the Shadow with teeth bared, screaming defiance with the last breath, to spit in Sightblinder's eye on the Last Day.|[[Loial]] recounting an [[Aiel]] saying, {{1|36}}}}
+
+''' {{2}} '''
+----
+:{{quote|There is one rule, above all others, for being a man. Whatever comes, face it on your feet.|[[Lan Mandragoran]], {{2|7}}}}
+----
+:{{quote|I'm only an old gleeman, who could I possibly be dangerous to?|[[Thom]], just before assassinating [[Galldrian Riatin]], {{2|34}}}}
+----
+:{{quote|Death is lighter than a feather, duty heavier than a mountain.|[[Rand's]] inner monologue, quoting a [[Borderland]] saying {{2|47}}}}
+----
+:{{quote|Jump in a hole without looking, and there'll be a snake in it every time.|[[Hurin]], {{2|33}}}}
+
+''' {{3}} '''
+----
+:{{quote|What did you do, boy? Stuff them up your sleeve?|[[Thom]], {{3|31}}}}
+----
+:{{quote|Always plan for the worst, child; that way, all your surprises will be pleasant ones.|[[Verin]], {{3|10}}}}
+----
+:{{quote|Should and would build no bridges.|[[Elayne]], quoting [[Morgase]], who was possibly quoting [[Lini]], {{3|13}}}}
+----
+:{{quote|A flapping tongue has killed more men than sudden storms ever did.|[[Siuan]], {{3|20}}}}
+----
+:{{quote|Once you decide to gut a fish, there's no use waiting till it rots.|[[Sheriam]], quoting [[Siuan]] {{3|22}}}}
+----
+:{{quote|When there are fish heads and blood in the water, you don't need to see the silverpike to know they are there.|[[Siuan]], {{3|13}}}}
+----
+:{{quote|Death comes for us all. We can only choose how to face it when it comes.|[[Aviendha]], {{3|38}}}}
+----
+:{{quote|Any fool knows men and women think differently at times, but the biggest difference is this. Men forget, but never forgive; women forgive, but never forget.|[[Thom]], {{3|47}}}}
+
+''' {{4}} '''
+----
+:{{quote|To anger the Ogier and pull the mountains down on your head.|[[Perrin]] recalling an old saying, {{4|18}}}}
+
+''' {{5}} '''
+----
+:{{quote|Men always seemed to think violence could solve anything. If she had had a stout stick, she would have thumped all three of them about the shoulders until they saw reason.|[[Nynaeve]] POV, {{5|40}}}}
+----
+:{{quote|Nynaeve shook her head. She supposed it was one way to find money for the poor. Simply rob anyone who was ''not'' poor. Of course, that would just make everyone poor in the end, but it might work for a time. She wondered if Uno and Ragan knew the whole of it. People who claimed they were collecting money to help others often had a way of letting a good bit stick in their own pockets, or else they liked the power that spreading it about gave them, liked it far too much. She had better feeling for the man who freely gave one copper from his own purse than for the fellow who wrested a gold crown from someone else's.|[[Nynaeve]] POV, {{5|39}} }}
+----
+:{{quote|In my day, girls jumped when a Wise One said jump, and continued jumping until they were told to stop. As I am still alive, it is still my day. Need I make myself clearer?|[[Sorilea]], {{5|23}}}}
+----
+:{{quote|I'm a gambler, a farmboy, and I'm here to take command of your bloody army!|[[Mat]], {{5|51}}}}
+
+''' {{6}} '''
+----
+:{{quote|Trust is the color of a dark seed growing. Trust is the color of a heart's blood flowing. Trust is the color of a soul's last breath. Trust is the color of death.|Ancient song as remembered by [[Mat]], {{6|44}}}}
+----
+:{{quote|They have caged Shadowkiller|[[Perrin]], {{6|54}}}}
+----
+:{{quote|We come.|[[Half Tail]], on learning of [[Rand]]'s captivity, {{6|54}}}}
+----
+:{{quote|Kneel and swear to the Lord Dragon, or you will be knelt.|[[Taim]] to [[Kiruna]], {{6|55}}}}
+
+''' {{7}} '''
+----
+:{{quote|"Thank you, but we don't need any help," Nynaeve shouted. Politely.|{{7|24}}}}
+----
+:{{quote|"I won't shout at you," Nynaeve shouted.|{{7|22}}}}
+
+''' {{8}} '''
+
+''' {{9}} '''
+----
+:{{quote|If a sword had memory, it might be grateful to the forge fire, but never fond of it.|[[Rand]] on his [[Far Madding]] captivity, {{9|35}}}}
+----
+:{{quote|I think [Lini] was born in Far Madding in a thunderstorm. She probably told the thunder to be quiet. It probably did.|[[Basel Gill]], {{9|6}}}}
+
+''' {{10}} '''
+
+''' {{11}} '''
+----
+:{{quote|Thieves are always the most careful of their purses.|[[Yukiri]], {{11|p}}}}
+----
+:{{quote|My name is Nynaeve ti al'Meara Mandragoran. The message I want sent is this. My husband rides from World's End toward Tarwin's Gap, toward Tarmon Gai'don. Will he ride alone?|[[Nynaeve]] to a [[Malkieri]], {{11|20}}}}
+
+''' {{12}} '''
+----
+:{{quote|Do you believe that I could kill you? Right here, right now, without using a sword or the Power? Do you believe that if I simply willed it, the Pattern would bend around me and stop your heart? By... coincidence?|[[Rand]] to [[Cadsuane]], {{12|23}}}}
+----
+:{{quote|A lion stuffed into a horse-stall might look like a peculiar joke, but a lion on the high plains was something very different. Toy was loose on the high plains, now. She felt a chill. What sort of man had she entangled herself with? After all this time, she realized, she had hardly a clue.|[[Tuon]] on [[Mat]], {{12|26}}}}
+----
+:{{quote|You are a coward and a tyrant. I'd name you Darkfriend as well, but I suspect that the Dark One would perhaps be embarrassed to associate with you.|[[Egwene]] to [[Elaida]], {{12|16}}}}
+----
+:{{quote|Small things were important. Seconds were small things, and if you heaped enough of those on top of one another, they became a man's life.|[[Androl]] POV, {{12|46}}}}
+----
+:{{quote|When fire threatens the trees, we do not run away and hope that the flames will not follow us. We fight. Now the Shadow is coming like wildfire, and we dare not run from it.|[[Loial]] to [[Covril]], on the [[Ogier]] response to the [[Last Battle]], {{12|19}}}}
+
+''' {{13}} '''
+
+''' {{14}} '''
+
+
+{{notes}}

@@ -1,0 +1,8 @@
+{{Image
+| License            = gfdl
+| ImageType1          = Map
+| Description        = Map of the Borderlands
+| Source             = 
+}}
+[[Category:Regional Maps]]
+[[Category:Borderlands]]

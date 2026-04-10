@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| Description        = [[Rand]] sitting on the [[Dragon Banner]]
+| Source             = The cover for the ebook of ''[[The Dragon Reborn]]''.
+| Artist             = Donato Giancola
+}}

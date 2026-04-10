@@ -1,0 +1,21 @@
+{{character 
+| image=CairhienFlag.png
+| imagesize=250px
+| name=Ella
+| status=Alive
+| nationality=Cairhienin
+| occupation=Serving girl
+| affiliation=Zera
+| gender=Female
+| mentioned={{tgh|34}}
+| lastmentioned={{tgh|34}}
+| living=tgh
+}}
+{{For|[[Loial]]' grandmother|Ella (Ogier){{!}}Ella}}
+'''Ella''' is a [[serving girl]] at [[The Bunch of Grapes]].
+
+==Activities==
+Ella notices that two men, sent by [[Barthanes Damodred]], were looking for [[Thomdril Merrilin]]. She neglected to inform the [[innkeeper]], [[Zera]], until the next day. By that time, it was too late for Thom to prevent the murder of [[Dena]].{{ref/book|2|34}}
+
+{{notes}}
+{{short}}

@@ -1,0 +1,21 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| occupation=Wise One
+| gender=Female
+| clan=Goshien
+| sept=Unknown sept
+| appeared={{tom|49}}
+| mentioned={{tom|49}}
+}}{{dablink|For the river of the same name, see [[River Mora]]. For [[Bair]]'s mentor, see [[Mora (Shaarad)]]}}
+'''Mora''' will be a [[Wise One]] in the future seen by [[Aviendha]] among the [[Glass columns]] in [[Rhuidean]].
+
+==Appearance and Abilities==
+She is described as having a "matronly voice" and is presumably at least middle-aged. She cannot channel.
+
+==Activities==
+She and [[Ladalin]] are the only other Wise Ones that meets with [[Tamaav]], [[Takai]] and [[Jorshem]] to discuss the losing war against the [[Seanchan]]. 
+
+It is Mora who suggests the Aiel withdraw into the [[Aiel Waste|Three-fold Land]].
+[[Category:Foreseen people]]

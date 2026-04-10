@@ -1,0 +1,21 @@
+{{character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| occupation=Cook
+| gender=Female
+| build=Stout
+| height=Tall
+| hair=Gray
+| appeared={{cot|p}}
+| lastappeared={{cot|p}}
+| living=cot
+}}
+Mistress '''Beldair''' is the head cook in the [[Sun Palace]] in [[Cairhien]].
+
+==Appearance==
+Mistress Beldair is a stout woman with gray hair. She is tall for a Cairhienin.
+
+==Activities==
+She is in the kitchens when [[Loial]] and [[Karldin Manfor]] arrive in the Sun Palace. She supervises [[Andil]], [[Eldrid Methin]] and [[Kasi]].

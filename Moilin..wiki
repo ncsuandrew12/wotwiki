@@ -1,0 +1,17 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| occupation=Historian
+| gender=Female
+| mentioned={{tdr|50}}
+| lastmentioned={{tdr|50}}
+}}'''Moilin daughter of [[Hamada]] daughter of [[Juendan]]''' was an [[Ogier]] [[author]] and [[historian]].{{ref|{{twotc}}, Moilin|Moilin}}
+
+==History==
+Moilin wrote a book entitled ''[[A Study of the War of the Shadow]]''.{{ref||Moilin}} In the book, she described [[Be'lal]] as the "Netweaver." [[Loial]] quoted the book during a discussion of the [[Forsaken]] with [[Moiraine Damodred]].{{ref/book|3|50}}
+
+{{notes}}
+{{short}}
+[[Category:Authors]]

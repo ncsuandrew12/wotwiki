@@ -1,0 +1,61 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| birth={{ne|977}}
+| nationality=Andoran
+| affiliation=Darkfriend
+| hair=Brown
+| eyes=Brown
+| gender=Female
+| status=Alive
+| appeared={{teotw|33}}
+| lastappeared={{kod|33}}
+| lastmentioned={{tom|24}}
+| living=tom
+}}
+{{dablink|For the similarly named [[Two Rivers]] resident, see [[Milli Ayellin]]. For the Andoran noblewoman whose identity was stolen by [[Mili Skane]], see [[Shiaine Avarhin]].}}
+
+'''Mili Skane''' is the daughter of a saddler from a village near [[Whitebridge]].
+
+== Appearance ==
+She is 5'4" tall, sharp-featured but pretty. Her face is delicate but vulpine. She has big brown eyes and glossy brown hair that hangs below her shoulders.{{ref/book|10|15}} There was no warmth in her face; it seemed to lack feeling. She spoke with almost the accents of an [[Andoran]] noble.
+
+==History==
+As a young girl, she went to the [[White Tower]] to become an [[Aes Sedai]]. When she discovered she couldn't channel, she became a [[Darkfriend]]. Within the year she had killed her first man - her first nonpersonal murder, anyway. Over the next seven years, she would commit nineteen assassinations; her kills for personal reasons were more numerous.{{ref/book|c|Mili Skane}}
+
+She was considered one of the best assassins, able to find anyone or anything. She led a circle which included several nobles, and most were older than she.
+
+==Activities==
+
+=== Lady Shiaine ===
+Mili murdered [[Willim Avarhin]], his daughter, [[Shiaine Avarhin|Shiaine]], and their lone servant, and has taken on Shiaine's identity. She murdered them for the sole reason of taking on Shiaine's identity, as it would be useful to pretend to be the last daughter of a minor noble family going back to the founding of Andor. Murdering Willim also got her access to his money. Mili felt that only a few Darkfriends knew her secret, and that the reclusive lives of the Avarhins would make it unlikely she would be found out.
+
+She attempted to kill Rand and Mat in a stable but Mat foiled the attempt and locked her up before they left.{{ref/book|1|33}}{{ref/book|7|14}}{{ref/book|c|Mili Skane}} She kept this a secret, as she preferred people to believe she had failed to find them, rather than that she had failed to kill them and had allowed them to escape.
+
+=== Ebou Dar ===
+In [[Ebou Dar]] she was under the command of [[Old Cully]] and [[Jaichim Carridin]] to find the cache of ''[[ter'angreal]]'', ''[[sa'angreal]]'', and ''[[angreal]]'' that was within the city.
+
+Mat spotted her at the [[Silver Circuit]] wearing a distinctive white plumed hat and followed her back to the [[Chelsaine Palace]] where Jaichim Carridin was staying.{{ref/book|7|14}} When Carridin spotted Mat he ordered her to make finding and killing him her circle's top priority.{{ref/book|7|15}}
+
+She hated Carridin for mistreating her, and for finding out that she had been embezzling gold to support her gambling habit.
+
+=== Caemlyn ===
+Lady Shiaine took up residence in Caemlyn on orders from Moridin, who also told her to kill Carridin - a task she enjoyed immensely. Moridin also gave her [[Falion Bhoda]], who was given to Shiaine to use and punish for her failure in retrieving the ''angreal'' and ''ter'angreal'' stash in Ebou Dar. Falion is mostly used as a servant, as well as being given to [[Daved Hanlon]], though the two merely exchange information. Shiaine also sent Hanlon to the [[Royal Palace of Andor|Royal Palace]] to join the [[Queen's Guards]] and get close to [[Elayne Trakand]]. She also gave him the order to free the captive ''[[sul'dam]]'' in the palace and to burn Caemlyn's food warehouses.{{ref/book|10|15}} [[Marillin Gemalphin]] was also sent to serve Mili.
+
+Although Mili would have groveled for Darkfriends above her such as Old Cully, she had gained the protection of Moridin.
+
+Mili's main mission was to create chaos in Andor, which she succeeded at by arranging arsons and creating conditions for crime.
+
+Because of Hanlon's "easy" treatment of Falion and Falion's reaction to her shield dissolving, Shiaine reminded Falion of her status as Shiaine's "dog" by allowing [[Murellin]] to "use" her when Hanlon was not present.{{ref/book|10|15}}
+
+Eventually, Elayne, [[Vandene Namelle]], [[Careane Fransi]], and [[Sareitha Tomares]] found her, along with Falion and [[Marillin Gemalphin]], at Shiaine's house on Full Moon Street. Elayne and the other Aes Sedai attempted to capture them, but were thwarted by the return of [[Asne Zeramene]], [[Chesmal Emry]], [[Eldrith Jhondar]], and [[Temaile Kinderode]]. Careane was revealed as Black Ajah and therefore the murderer of [[Ispan Shefar]], Vandene's sister [[Adeleas Namelle|Adeleas]], and some of the [[Kin]]. Vandene killed Careane, but Chesmal killed Vandene as well as Sareitha.{{ref/book|11|31}}
+
+The Black Ajah sisters took Elayne captive and attempted to flee the city, but Elayne was rescued by a force of [[Windfinders]] and Andoran soldiers led by [[Birgitte]], who had felt the incident through her [[Warder]] bond. Asne was killed in the fight and the rest of the Black Ajah sisters and Lady Shiaine were taken to the Royal Palace dungeons.{{ref/book|11|33}}
+
+She was rescued from her cell during the prison break involving the other Darkfriend prisoners and [[Jaq Lounalt]]. She managed to escape from Caemlyn and is still at large.{{ref/book|13|23}}
+
+{{notes}}
+{{DEFAULTSORT:Skane, Mili}}
+
+[[es:Mili Skane]]
+[[Category:POV character]]

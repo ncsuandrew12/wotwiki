@@ -1,0 +1,29 @@
+:{|class="wikitable" style="text-align: center"
+|
+!Rank
+!Current Rank
+|-
+!0 edits
+|born
+|{{done}}
+|-
+!100 edits
+|trainee
+|
+|-
+!200 edits
+|lord
+|
+|-
+!400 edits
+|Soldier
+|
+|-
+!700 edits
+|Dedicated
+|
+|-
+!1,000 edits
+|Asha'man
+|
+|}

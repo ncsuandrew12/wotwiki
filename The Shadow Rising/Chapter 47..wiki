@@ -1,0 +1,95 @@
+{{quote|Oh, Elmindreda, you do remind me of me when I was your age. Foolish doings, and near to getting myself hanged, sometimes. I will not betray you, child, but I must live here.| [[Laras]] to [[Min]] while helping [[Siuan]] and [[Leane]] escape.}}
+{{summary | book=4 |
+|chapter=47
+|title=The Truth of a Viewing
+|icon=Flame
+|setting=[[White Tower]], [[Tar Valon]]
+}}
+
+== Summary ==
+
+{{pov|[[Siuan Sanche]]}}
+
+Siuan is reviewing the many reports she has received recently. [[Danelle]] appears to be not paying close attention to her responsibilities. She is frustrated because none of the reports deal with what is important, [[Moiraine]] and the Dragon Reborn. The Hall of the Tower accepted that [[Rand al'Thor]]r is the Dragon Reborn based on the report that he drew ''[[Callandor]]'' from the Stone of Tear. The door crashes open and more than a dozen Aes Sedai enter. [[Elaida]] pulls the striped stole from Siuan's shoulders and tells her she won't need it anymore. Elaida tells her that she has been deposed by the Hall of the Tower, but not all of the Hall was present, only enough to make it legal. As Siuan is taken away she finds [[Leane]] has also been captured and her warder, [[Alric]], is on the floor with a knife in his back.
+
+{{pov|[[Min Farshaw]]}}
+
+Min enters the White Tower gate that is missing the usual guards. She notices smoke from a fire on the grounds in the distance. Her thoughts wander to what she should or shouldn't wear for Rand and then is furious with herself for wanting to be attractive. [[Gawyn]] emerges with a group of young men, all with bared blades. Gawyn tells her that Siuan was deposed and that she should leave immediately. She decides to stay even though she can not think of what good she can do.
+
+{{pov|[[Siuan Sanche]]}}
+
+Siuan wakes in a cell, naked, cold and bruised. Leane calls to her from nearby. Both have been stilled. They stand up as a key grates, turning the rusty lock.
+
+{{pov|[[Min Farshaw]]}}
+
+Min has teamed up with [[Laras]] to try to free Siuan and Leane. Min enters and is confused because the women in the cell do not appear to be Siuan and Leane. Stilling has changed their appearance, though Min does not recognize this at first. Min passes bundles of clothes to the women and explains that she distracted the guard while Laras hit him on the head. They move up the stairs, out of the basement and into the Tower proper without being seen. When Siuan learns of the fighting she realizes that the Tower has been ''broken''. All members of the [[Blue Ajah]] have left, and most Greens. The other Ajahs split, although most of the Reds stayed to support Elaida.
+
+As they reach the horses Gawyn steps out, having recognized [[Egwene]]'s horse [[Bela]]. He demands that Siuan tell him where Egwene and his sister [[Elayne]] are. Siuan says they are safe and were in Illian, realizing that she can lie now that she has been stilled. Min asks him to go with them but all he will do is ensure they can leave through the nearest gate. Gawyn with some of the [[Younglings]] faces down the gate guards and writes out passes so the three women can leave the city. Siuan spots someone ahead of them and recognizes [[Logain]]. She decides to add him to their party and Logain agrees. Min sees again the aura of glory to come above Logain's head. She also remembers the unusual vision she saw above Gawyn. 
+
+* Gawyn kneeling at Egwene's feet with his head bowed and Gawyn breaking Egwene's neck, first one then the other as if either could be true.
+
+She has never seen a dual vision like that before.
+
+==Unanswered Questions==
+* Why didn't Siuan feel Alric's death through the [[Bond]]?
+** per [[Source:Blog - YET ANOTHER, IT SEEMS, 5 October 2005|his blog]], Robert Jordan intended the attack on Alric to have ''just'' happened as Siuan was coming out, so there was nothing to feel until she arrived. He didn't feel like he conveyed that adequately, given the number of questions about it since.
+
+==Characters==
+* [[Siuan]]
+* [[Min]]
+* [[Leane]]
+* [[Elaida]]
+* [[Alviarin]]
+* [[Joline Maza]]
+* [[Shemerin]]
+* [[Mesaana]] (disguised as [[Danelle]])
+* [[Alric]]
+* [[Laras]]
+* [[Gawyn]]
+* [[Logain]]
+* [[Bela]]
+
+===Referenced===
+* [[Jovarin]]
+* [[Moiraine]]
+* [[Rand]]
+* [[Sahra Covenry]]
+* [[Masema]]
+* [[Mazrim Taim]]
+* [[Galad]]
+* [[Hammar]]
+* [[Coulin]]
+* [[Artur Hawkwing]]
+* [[Bonwhin Meraighdin]]
+* [[Sheriam Bayanar]]
+* [[Anaiya]]
+* [[Egwene]]
+* [[Elayne]]
+* [[Mara Tomanes]]
+* [[Coulin]]
+
+==Places==
+* [[White Tower]]
+* [[Tar Valon]]
+
+===Referenced===
+* [[Kandor]]
+* [[Ghealdan]]
+* [[Arad Doman]]
+* [[Tarabon]]
+* [[Aryth Ocean]]
+* [[Cairhien]]
+* [[Illian]]
+* [[Caemlyn]]
+* [[Tear]]
+* [[Andor]]
+
+==Items==
+
+===Referenced===
+* ''[[Callandor]]''
+
+==Notes==
+* At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''The Truth of a Viewing''}}

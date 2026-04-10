@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|November}}
+|{{Wotmonth|Nesan}}
+|}
+'''Nesan 18 (November 13)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[White Tower|The Tower]] embassy arrives in [[Cairhien]]. The [[Wise Ones]] decide [[Egwene]] is ready to return to ''[[Tel'aran'rhiod]]''.
+<noinclude>
+==External links==
+*[[wikipedia:november 13|November 13]]
+
+</noinclude>
+<noinclude>
+[[Category:Dates]]</noinclude>

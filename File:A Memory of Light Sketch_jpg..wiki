@@ -1,0 +1,9 @@
+{{Image
+|ImageType1  = Character
+|License     = Fairuse
+| ImageType2 = 
+|Source      = https://dragonmount.com/news/book-news/amol/darrell-k-sweet39s-unfinished-cover-for-a-memory-of-light-r312/
+|Description = The cover for ''[[A Memory of Light]]'' [[Darrel K. Sweet]] was working on before his death
+|Artist      = Darrell Sweet
+}}
+[[Category:A Memory of Light covers]]

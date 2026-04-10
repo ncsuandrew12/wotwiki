@@ -1,0 +1,46 @@
+{{ character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Illianer
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| status=Alive
+| build=Stout
+| mentioned={{loc|41}}
+| appeared={{loc|49}}
+| lastappeared={{loc|49}}
+| living=loc
+}}'''Valinde Nathenos''' is an [[Illianer]] [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Valinde Nathenos}} Like most Whites, she has no [[Warder]].
+
+== Appearance ==
+Valinde is described as stout.{{ref/book|6|49}}
+
+==Strength and Abilities==
+Valinde is [[Strength in the One Power among Aes Sedai|very weak]] in the [[One Power]] with a strength level of {{opsl|39}}. She was by far the weakest among the [[Salidar Embassy to the Dragon Reborn]] and the only one unable to Travel without linking with another Aes Sedai. 
+
+==History==
+We have no history for Valinde except that she was born in Illian and that she does not have a Warder. No date of birth or training times were included in the Companion for this character, the only member of the Embassy about which we have no such details.
+
+==Activities==
+She has joined the [[Salidar Aes Sedai]] and was a part of the embassy sent from [[Salidar]] to [[Rand al'Thor]] in [[Caemlyn]].{{ref/book|6|p}} While in Caemlyn, she stays at an inn called [[The Crown of Roses]].{{ref/book|6|41}}
+
+According to Min, she was very eager to have Rand drive [[Sammael]] out of Illian. Min believes that a promise from Rand to try would have convinced Valinde to swear fealty to him - though [[Melaine]] scoffed at that idea.
+
+She is part of the group of Aes Sedai who demand that Rand lift the restrictions he had placed on them. When he refuses, the Aes Sedai leave in a huff.{{ref/book|6|49}}
+
+After the delegation is dissolved, she escorts all the [[Two Rivers]] girls wanting to become [[novices]] back to Salidar.{{ref/book|6|49}}
+
+She tended to side with [[Romanda Cassin]].
+
+{{Notes}}
+{{Short}}
+{{DEFAULTSORT:Nathenos, Valinde}}
+
+[[es:Valinde Nathenos]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Caemlyn Embassy]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

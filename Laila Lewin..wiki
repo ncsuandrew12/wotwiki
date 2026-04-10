@@ -1,0 +1,32 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=Laila Dearn
+| nationality=Andoran
+| affiliation=Two Rivers
+| family=[[Natley Lewin]] (husband), [[Laila Lewin's infant]]
+| gender=Female
+| build=Wide
+| status=Alive
+| appeared={{tsr|32}}
+| lastappeared={{tsr|32}}
+| living=tsr
+}}
+{{dablink|For others with the same surname, see [[Lewin (disambiguation)|Lewin]].}}
+'''Laila Lewin''', formerly Laila Dearn, is a [[Two Rivers]] resident. She is married to [[Natley Lewin]].
+
+== Appearance ==
+She is very wide. Perrin described her as "more than stout."{{ref/book|4|32}}
+
+== History ==
+Perrin remembered her as being slim and a girl who would have danced any three boys into the ground. Perrin had once dreamed of marrying her, and she had returned the feelings somewhat, although both of them let the feelings go.{{ref/book|4|32}}
+
+She married [[Natley Lewin]], who doesn't even like to dance and is even wider than she is. They have a baby.{{ref/book|4|32}}
+
+== Activities ==
+She was present at [[Jac al'Seen]]'s farm when Perrin visited with Faile. While emphasizing the dangers of remaining on the farm, Perrin used her infant as an example of something the [[Trolloc]]s could destroy that couldn't be rebuilt.{{ref/book|4|32}}
+
+== In the television series ==
+In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Laila Dearn}} is played by {{TVlink|Helena Westerman}}.
+{{notes}}
+{{DEFAULTSORT:Lewin, Laila}}

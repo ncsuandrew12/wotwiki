@@ -1,0 +1,78 @@
+{{nation
+|image=[[File:SaldaeaFlag.png|250px]]
+|name=Saldaea
+|type=Monarchy
+|headofstate=Queen [[Zarine ni Bashere t'Aybara]]
+|commander=[[Davram Bashere]]
+|sigil=Three silver fish, one above the other; the Silver Fish.
+|banner=Three silver fish on a field of dark blue.
+|region=stretches from the [[Aryth Ocean]] to the [[Plain of Lances]]
+|interest=[[Plain of Lances]], [[World's End]], [[Banikhan Mountains]]
+|capital=[[Maradon]]
+|cities=[[Irinjavar]], [[Mehar]], [[Kayacun]]
+|demonym=[[Saldaean]]
+|formed=Early [[War of the Hundred Years]]}}
+'''Saldaea''' is one of the four [[Borderland]] nations which lie on the threshold of the [[Great Blight]]. It is the westernmost of the Borderlands, lying between the [[Aryth Ocean]] and [[Kandor]]. The sign of Saldaea is three silver fish on a field of dark blue.
+
+==Geography==
+[[Image:11 - Saldaea.PNG|thumb|200px|left|Location within the Westlands]]
+
+'''Saldaea''' is the westernmost of the four [[Borderlands]], lying adjacent to the nation of [[Kandor]]. It is also the largest of the Borderlands, larger than [[Shienar]] and [[Arafel]] combined.
+
+Saldaea stretches from the [[Aryth Ocean]] to the [[Plain of Lances]] and consists of forests in the south, mountains (such as the [[Banikhan Mountains|Banikhan range]]) in the north and plains in the east. Saldaea's coast is extremely rocky and consists of vast cliffs known collectively as [[World's End]]. It has no major port or good harbourages.
+
+==History==
+The nation of Saldaea was formed early in the [[War of the Hundred Years]]. The governors of [[Artur Hawkwing|Hawkwing's]] five northern provinces met and agreed to form stable nations to preserve the peace and defend against the [[Blight]]. [[Rylen t'Boriden Rashad]] was the first King of Saldaea. Saldaea lies on ground formerly possessed by the kingdoms of [[Basharande]] and [[Jaramide]], and the capital of [[Maradon]] is built on the site of former Jaramidean capital of [[Deranbar]].
+
+==Government==
+The government body of Saldaea is a monarchy, where the monarch may either be male or female. The spouse of the monarch is not simply a consort, but has the status of an almost co-equal ruler. It is a hereditary monarchy, and the eldest child of the reigning monarch normally succeeds. If the throne passes to a child younger than fifteen, then a regent is chosen from the child's aunts and uncles of the blood, picked by a combination of age and degree of relationship. 
+
+If the monarch dies without issue, the throne passes first to brothers and sisters where the eldest are first in line to the throne, and then to aunts and uncles, where the same rule applies.<ref name="comp">[[The Wheel of Time Companion]], Saldaea.</ref>
+
+The throne is currently held by Zarine ni Bashere t'Aybara, also known as Faile, who is also the wife of [[Perrin Aybara|Perrin t'Bashere Aybara]], [[Lord of the Two Rivers]]. Per their agreement with Queen [[Elayne Trakand|Elayne]] of [[Andor]], it is expected that the two domains will be divided between their children. The throne is located in the capital, Maradon.
+
+The reigning monarch is advised by the Council of Lords.
+
+==Gender relations==
+Saldaean women are almost a breed apart, known as they are for their fierce loyalty and strength of will (not to mention temper). For Saldaeans, war is a family affair.
+
+In general, Saldaean women expect strong husbands, or those who are strong enough to stand up to the strong-willed women of the nation, and despise weakness in men. They do not expect to be bullied, but can be expected to step back. A Saldaean woman is often contemptuous of a man who cannot stand toe-to-toe with her in a fight. 
+
+It is also custom for noblewoman to accompany their husbands on military campaigns, except into the Blight, although this expectation is often flouted. Many lesser officers' wives also accompany their husbands, and wives sometimes lead troops into battle in place of a wounded or incapacitated husband.<ref name="comp"/>
+
+A traditional farewell from a Saldaean wife to a husband going to battle is "If you fall, I will take up your sword." While not trained with the sword, Saldaean girls are quite skilled both with knives and in hand-to-hand combat. All Saldaeans are armed with at least a knife at all times; in Saldaea, steel is not bared unless it will be used. Saldaean farmgirls are notorious for being very forward, especially at harvest.
+
+==Economy==
+The Saldaean economy is strong; built upon the trade of furs and wood, Saldaean goods fetch high prices at markets as far away as [[Tear]]. Ice peppers are a Saldaean monopoly; they do not grow elsewhere due to the combination of soil and climate in the nation. There is a substantial woollen industry, but not much of it is exported. Large exports include iron, steel, and finished iron- and steel-work. Diamonds and silver are often mined, but there is very little gold-mining in Saldaea.<ref name="comp"/>
+
+==Culture==
+Saldaeans have bold, prominent noses and slightly upturned, almond-shaped eyes. While as ferocious in battle as any of the Border nations, their equestrian skills are undoubtedly superior; no other nation in [[Randland]] can match Saldaea for her famed and effective use of light [[wikipedia: cavalry|cavalry]]. Saldaean soldiers often carry serpentine swords. Saldaean men usually have long mustaches.
+
+Another important part of Saldaean life is the ''[[sa'sara]]'', a dance outlawed by several Saldaean queens for its indecency. While known by virtually every noblewoman, few would ever admit to the knowledge. Apparently, the ''sa'sara'' has the ability to drive men wild. The ''sa'sara'' is known to have started three wars and sparked two rebellions, among many other smaller disturbances.
+
+=== Marriage customs ===
+
+In Saldaea, a noble wife takes her husband's name but retains her own, and her name is also incorporated into her husband's name. For example, Faile (Zarine) si Ghaline Bashere became Faile ni Bashere t'Aybara when she married, and her husband was referred as Perrin t'Bashere Aybara in Saldaea. A noble child is born with both parents' names; thus Zarine, daughter of Davram t'Ghaline Bashere and Deira ni Ghaline t'Bashere was named Zarine si Ghaline Bashere. In commoner families, a wife keeps her maiden name. The child is born with the father's name, and takes the mother's maiden name as a middle name. 
+
+Men propose marriage, and women either accept or decline. A long pursuit is expected, and women usually make men prove that they really want her before accepting.<ref name="comp"/>
+
+==Recent events==
+Saldaea fought along the other nations of the Westlands in the [[Last Battle]] where its total losses are unknown, but the nobility and royalty suffered heavy casualties. Among the first to fall was ruling monarch [[Tenobia]] of House Kazadi, and Marshal-General [[Davram Bashere]] and his wife [[Deira Bashere]] were also killed in the fighting.
+
+
+==Towns/cities==
+*[[Maradon]] (capital)
+*[[Irinjavar]]
+*[[Mehar]]
+*[[Kayacun]]
+== External links ==
+*{{TVlink|Saldaea}} on {{TVlink}}
+{{notes}}
+
+
+{{nations}}
+
+[[es:Saldaea]]
+[[Category:Nations]]
+[[Category:Saldaea| Saldaea]]
+[[Category:Borderlands]]

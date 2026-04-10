@@ -1,0 +1,36 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px
+| status=Alive
+| gender=Male
+| affiliation=Rand al'Thor
+| occupation=Asha'man
+| rank=Asha'man
+| appeared={{tom|24}}
+| lastappeared={{amol|18}}
+| living=amol
+}}
+
+'''Antail''' is an [[Asha'man]] 
+
+== Appearance ==
+He is quiet with thin hair.
+
+== Strength and Abilities ==
+Antail is quite skilled in [[Healing]].
+
+== Activities ==
+He is part of the Asha'man sent to [[Maradon]] to serve under [[Rodel Ituralde]]. He is involved in the [[Battle of Maradon]] and Heals Ituralde's leg after one skirmish.{{Ref/book|13|24}} After Ituralde is badly injured by the exploding wall and Deepe lost his right leg, he heals both and saves Deepe's life although he cannot give his leg back. He also uses a dangerous [[Healing#with saidin|Weave]] on Inturalde which revitalizes him but will leave him absolutely exhausted later on.{{Ref/book|13|28}}
+
+Antail is left in the Healing tents when the [[Trolloc]]s broke through the walls of Maradon. He creates a very small [[Gateway]] for the Asha'man to crawl through once it has been established that Maradon will fall.
+
+During the [[Last Battle]] Antail is seen with the Bordelanders under [[Lan]], retreating through [[Shienar]]; where he makes a toast to his friend{{Ref/book|14|18}}, a fellow Asha'man [[Deepe Bhadar]], one of the fallen.{{ref|{{twotc}}, Antail}}
+
+==Trivia==
+
+Antail was named after Stephen Antill, as with many of the names Brandon Sanderson created was taken from those fans who donated to a Wheel of Time charity raising money for research into amyloidosis.<ref>https://twitter.com/BrandSanderson/status/6472526214?s=09</ref>
+
+{{Notes}}
+[[Category:Best healers]]
+[[Category:Channelers]]
+[[Category:Characters named after fans]]

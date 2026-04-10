@@ -1,0 +1,36 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| gender=Female
+| title=Lady
+| occupation=Eyes-and-ears
+| affiliation=Gray Ajah
+| status=Alive
+| mentioned={{tgh|26}}
+| lastmentioned={{wh|13}}
+| living=wh
+}}
+Lady '''Arilyn Dhulaine''' is a noble from [[Cairhien]].
+
+== History ==
+Lady Arilyn is slightly above the middle rank of nobility and thus she can worn stripes nearly to the her waist. Her sigil is a pair of silver stars above green and red stripes.
+
+She is an informant of the [[Gray Ajah]], and likely has been for some time.
+
+While [[Niande]] Sedai was advisor to King [[Galldrian]] of Cairhien she was known to have visited the country estate of Lady Arilyn more than once.
+
+== Activities ==
+The embassy from the [[White Tower]] led by [[Coiren Saeldain]], took place at Lady Arilyn's palace in Cairhien.{{ref/book|6|25}} After Coiren Sedai took over Dhulaine Mansion in the city, Lady Arilyn reportedly went to join her husband on a country estate.
+
+[[Rand]] and [[Min]] were held in Arilyn palace for a while after their kidnapping by Elaida's Aes Sedai.
+
+[[Cadsuane]] and her entourage later took Arilyn's palace as well. Here was where Cadsuane kept High Lord [[Darlin]] and Lady [[Caraline]] as "guest" until [[Dobraine]] freed them on Rand's orders.
+
+{{notes}}
+
+{{DEFAULTSORT:Dhulaine, Arilyn}}
+
+[[es:Arilyn Dhulaine]]
+[[Category:Eyes-and-ears]]
+[[Category:Nobility]]

@@ -1,0 +1,22 @@
+{{ character
+| image=KandorFlag.png
+| imagesize = 250px
+| ewot=Varan
+| affiliation=Kandor
+| nationality=Kandori
+| title=Lord of Canluum
+| rank=Lord
+| gender=Male
+| status=Alive
+| mentioned={{ns|15}}
+| lastmentioned={{ns|15}}
+| living=ns
+}}Lord '''Varan Marcasiev''' is the [[High Seat]] of House Marcasiev in [[Kandor]].{{ref|{{twotc}}, Varan Marcasiev}}
+
+== History ==
+He was the Lord of [[Canluum]] in [[Kandor]] and a loyal servant of Queen [[Ethenielle Kirukon Materasu]]. His sigil was the Red Stag, and his fortress-like palace was located on Stag's Stand, the tallest hill in the city of Canluum. Although reliable and loyal, he had a reputation for vanity and a preference for hunts and society events despite the proximity of the city to the [[Blight]]. He had many high society contacts in Kandor and also across the border in [[Arafel]], fifty miles away.
+
+{{notes}}
+{{DEFAULTSORT:Marcasiev, Varan}}
+[[Category:Lords]]
+[[Category:Nobility]]

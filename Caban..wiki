@@ -1,0 +1,21 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| eyes=Dark
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{tgh|29}}
+| lastappeared={{tgh|29}}
+| living=tgh
+}}'''Caban''' is a [[Seanchan]] soldier who served under the command of [[Egeanin Tamarath]] prior to the battle at [[Falme]].{{ref|{{twotc}}, Caban}}
+
+== Appearance ==
+He has dark eyes and is into his middle years. He has an old scar above his eyes and another nicking his chin.
+
+== Activities ==
+He is part of the Seanchan force that boards [[Bayle Domon]]'s ship, the [[Spray]]. He is left on board as the ship sails to [[Falme]] to dock.{{ref/book|2|29}}
+
+{{notes}}
+[[Category:Soldiers]]
+[[Category:Ever Victorious Army]]

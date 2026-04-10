@@ -1,0 +1,25 @@
+{{ character 
+| image=Faces-icon.svg
+| imagesize=250px
+| ewot=Ramola
+| ajah=Unknown
+| gender=Female
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=Black Ajah
+| status=Alive
+| appeared={{tom|38}}
+| lastappeared={{tom|38}}
+| living=tom
+}}
+'''Ramola''' is an [[Aes Sedai]] of the [[Black Ajah]]. 
+
+==Activities==
+She takes part in the [[Battle in Tel'aran'rhiod|Battle in ''Tel'aran'rhiod'']] and is seen standing next to [[Alviarin Freidhen]], sending random blasts of [[One Power|Power]] away from them in order to try and draw [[Egwene al'Vere]] into a trap.
+
+If she was with Alviarin, it is likely that she escaped and survived the battle.
+
+{{Short}}
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

@@ -1,0 +1,19 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Alive
+| gender=Female
+| affiliation=Two Rivers
+| mentioned={{tsr|43}}
+| lastmentioned={{tsr|43}}
+| living=tsr
+}}
+
+'''Mistress al'Taron''' is a resident of the [[Two Rivers]] and the mother of [[Dael al'Taron]].
+
+== Activities ==
+Her son goes with [[Perrin Aybara]] and is killed when the Trollocs ambush Perrin's group. She calls out for Dael when the survivors return to Emond's Field.{{ref/book|4|43}}
+
+{{notes}}
+{{DEFAULTSORT:al'Taron, Mistress}}

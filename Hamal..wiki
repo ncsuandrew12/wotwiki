@@ -1,0 +1,29 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| status=Alive
+| occupation=Blacksmith
+| affiliation=Shaido
+| clan=Shaido
+| sept=Moshaine
+| build=Big
+| height=Tall
+| appeared={{acos|40}}
+| lastappeared={{acos|40}}
+| living=acos
+}}'''Hamal''' is a blacksmith of the [[Aiel]].
+
+==Appearance==
+He is a big man.
+
+==History==
+He is a blacksmith of the [[Moshaine]] sept of the [[Shaido]] clan.{{ref|{{twotc}}, Hamal}}
+
+==Activities==
+After the Moshaine Aiel step out of the gateway, they are quickly discovered by a larger force comprised of [[Reyn]] Aiel and an army of wetlanders (presumably Rand's supporters). Their sept chief, [[Maeric]] gives Hamal the task of pressing the red spot on the [[nar'baha]] in the hope that he can save some of their sept.
+
+His fate is unknown. As a blacksmith, he will not be attacked by any Aiel, but the opposing army also included wetlanders who would have no such restrictions. They would be unlikely to kill a group that was not hostile, however.
+
+{{notes}}

@@ -1,0 +1,27 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| eyes=Blue
+| affiliation=Car'a'carn
+| hair=Light
+| status=Dead
+| appeared={{tsr|50}}
+| lastappeared={{tsr|50}}
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Far Dareis Mai
+}}
+'''Chion''' is a [[Gai'shain]] at [[Cold Rocks Hold]]
+
+==Appearance==
+Her hair is so light as to appear silver. She has pale blue eyes with a scar above one of them.
+
+==History==
+She was formerly a [[Far Dareis Mai]] and was taken by the [[Taardad]] Aiel in 998 or {{ne|999}}.{{ref|{{twotc|Chion}}}}
+
+==Activities==
+She shows [[Rand]] his room at [[Cold Rocks Hold]]. He assumes she is a former maiden because of the scar above one eye. She brings Rand wash water at his request. She is killed by a [[Draghkar]] during an attack on Cold Rocks Hold]
+
+{{notes}}

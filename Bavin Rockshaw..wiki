@@ -1,0 +1,29 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| affiliation=Perrin Aybara
+| gender=Male
+| build=Slender
+| hair=Gray, blond speckled
+| occupation=Quartermaster
+| status=Alive
+| appeared={{tgs|17}}
+| lastappeared={{tom|16}}
+| lastmentioned={{tom|44}}
+| living=tom
+}}
+'''Bavin Rockshaw''' works as [[Perrin Aybara]]'s quartermaster. He is from [[Cairhien]].
+
+== Appearance ==
+He is pale-faced, with blond speckled in his gray hair. He is quite slender but with a pot-gut.
+
+== History ==
+He has worked as a quartermaster since the [[Aiel War]].
+
+== Activities ==
+He helps distribute food to all the refugees traveling with Perrin after the [[Battle of Malden]].
+
+[[Faile]] confronts him on some of his corrupt dealings within the camp and sends him a warning to cut it out.
+
+{{DEFAULTSORT:Rochshaw, Bavin}}

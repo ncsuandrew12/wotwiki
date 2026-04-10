@@ -1,0 +1,26 @@
+
+==Syntax==
+Same as [[Template:Random]], except that it produces a random number from 1 (inclusive) to max (inclusive)
+
+==Examples==
+
+{| class="wikitable"
+| Code
+| Result
+|-
+| <nowiki>{{random1}}</nowiki>
+|         {{random1}}
+|-
+| <nowiki>{{random1|1000}}</nowiki>
+|         {{random1|1000}}
+|-
+| <nowiki>{{random1|1000|872322935}}</nowiki>
+|         {{random1|1000|872322935}}
+|-
+| <nowiki>{{random1|1000|872322935|13}}</nowiki>
+|         {{random1|1000|872322935|13}}
+|-
+| <nowiki>{{random1|1}}</nowiki>
+|         {{random1|1}}
+|-
+|}

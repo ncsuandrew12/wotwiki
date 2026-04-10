@@ -1,0 +1,15 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Alive
+| nationality=Aiel
+| gender=Female
+| occupation=Roofmistress
+| clan=Shiande
+| sept=Degalle
+}}'''Corida''' is the [[Roofmistress]] of [[Nine Stones Hold]].{{ref|{{twotc}}, Janwin}}
+
+==History==
+Corida is the wife of [[Janwin]], the [[clan chief]] of the [[Shiande]] [[Aiel]], who hails from the [[Degalle]] sept.
+
+{{notes}}

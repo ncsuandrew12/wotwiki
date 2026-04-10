@@ -1,0 +1,35 @@
+{{character 
+| image=NoviceIcon.png
+| imagesize=250px
+| ewot=Derys
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=The Kin
+| build=Slender
+| status=Alive
+| appeared={{acos|23}}
+| lastappeared={{kod|17}}
+| living=kod
+|birth = {{ne|911}}}}'''Derys Nermala''' is a member of the [[Kin]] in [[Ebou Dar]].
+
+== Appearance ==
+She is slender with a pretty face. 
+
+== Strength and Abilities ==
+Derys is not very strong in the [[One Power]], at level {{opsl|47}} by TWoTC but at this level she was strong enough to become Aes Sedai (even if in one of the lowest ranks). 
+
+This strength is not enough to open suitable gateways for [[Traveling]].
+
+== History ==
+
+During her training as a [[novice]] Derys was put out of the White Tower because she kept breaking the rules on taking male lovers.
+
+== Activities ==
+When [[Elayne Trakand]] and [[Nynaeve al'Meara]] are deposited in the Kin's house by [[Setalle Anan]], Derys is being punished for wanting to marry and is acting as a maid.
+
+She is one of the many Kin who have gone to live in the [[Caemlyn]] Palace. She finds [[Mirane Larinen]]'s doll and links this to her being murdered.
+
+{{DEFAULTSORT:Nermala, Derys}}
+[[Category:Farm Group]]
+[[Category:Channelers]]
+[[Category:Novices]]

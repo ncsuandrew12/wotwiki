@@ -1,0 +1,16 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| nationality= Unknown nationality
+| gender=Male
+| affiliation= Children of the Light
+| occupation=Soldier
+| status=Alive
+| mentioned={{amol|37}}
+| lastmentioned={{amol|37}}
+| living=amol
+}}Alhanra is a [[Children of the Light|Child of the Light]] that fights in the [[Tarmon Gai'don|Last Battle]]. He informs [[Galadedrid Damodred|Galad]] that they have found his brother [[Gawyn Trakand|Gawyn]], after he is mortally wounded.
+==Trivia==
+Alhanra is named after Tycho Alhambra, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Characters named after fans]]

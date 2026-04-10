@@ -1,0 +1,15 @@
+{{VG}}
+A '''Heal ''ter'angreal''''' is a ''[[ter'angreal]]'' enhancing the abilities of [[Healing]] in particular, and also allows a channeler to heal themselves directly. It is only known to have survived the [[Breaking of the World]] in the [[Mirror World]] inhabited by [[Elayna]] Sedai.
+
+==Use==
+The Heal ''ter'angreal'' is somewhat like an ''[[angreal]]'', but has a specific purpose of enhancing Healing abilities in particular. The ''ter'angreal'' also allows the user to circumvent the restrictions on Healing onesself, making it very useful for an injured channeler in a situation where no-one else is around.<ref name="VideoGame">''[[The Wheel of Time (video game)|The Wheel of Time]]''. Red Eagle Games, 1999.</ref>
+
+==History==
+In a Mirror World, a [[novice]] named Elayna took her [[Accepted]] test, and found a Heal ''ter'angreal'' while in the second ring of the [[silver arches]], during her time trapped in a basement of a powerful [[Darkfriend]].<ref name="VideoGame"/>
+
+{{notes}}
+
+{{DISPLAYTITLE:Heal ''ter'angreal''}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items original to the video game]]

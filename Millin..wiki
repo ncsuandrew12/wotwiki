@@ -1,0 +1,18 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Farmer
+| gender=Female
+| mentioned={{cot|p}}
+| lastmentioned={{cot|p}}
+| living=cot
+}}
+'''Mistress Millin''' is a dairy farmer in [[Dorlan]].
+
+==Activities==
+[[Gawyn Trakand]] and the [[Younglings]] use Mistress Millin's barn as a stable for their horses when passing through the town.{{ref/book|10|p}}
+
+{{notes}}
+{{short}}

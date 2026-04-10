@@ -1,0 +1,26 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Unknown nationality
+| title=Gaidin
+| gender=Male
+| status=Alive
+| occupation=Warder
+| affiliation=Elaida a'Roihan's White Tower
+| mentioned={{loc|52}}
+| lastmentioned={{cot|23}}
+| living=cot
+}}
+'''Rashan''' is a [[Warder]].
+
+==History==
+He and [[Bartol]] are bonded to [[Erian Boroleos]].
+
+He is possibly [[Domani]], given that there is another character in the series named Rashan who appears in [[Graendal]]'s palace in Arad Doman.
+
+==Activities==
+Erian reports to [[Galina Casban]] that Rashan and Bartol are suffering from her other Warders' deaths worse than she is. She comforts them in their grief.
+
+Although Erian Travels to [[Far Madding]] with [[Cadsuane]], she is forced to leave Rashan behind.
+
+Erian feels Rashan and Bartol [[Travel]] suddenly from [[Cairhien]] in steps towards where she is staying in [[Tear]]. They are Travelling with [[Logain Ablar]] and [[Toveine Gazal]], who are using the Warder bond to locate their Aes Sedai so that Logain may contact the [[Dragon Reborn]].

@@ -1,0 +1,22 @@
+{{ character 
+| image=Accepted icon.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Female
+| rank=Accepted
+| affiliation=White Tower
+| build=Lanky
+| status=Alive
+| mentioned={{tgh|38}}
+| appeared={{tgh|39}}
+| lastappeared={{tgh|39}}
+| living=tgh
+}}
+'''Irella''' is an [[Accepted]] in the [[White Tower]].
+
+== Appearance ==
+She is skinny{{ref/book|2|38}} and lanky with a permanent frown{{ref/book|2|39}}.
+== Activities ==
+[[Nynaeve al'Meara]] clouts Irella over the ear, resulting in Nynaeve being sent to [[Mistress of Novices]]{{ref/book|2|38}}. She is disciplining Else when Nynaeve, Elayne, Egwene and Min leave the White Tower and fails to notice them{{ref/book|2|39}}.
+
+{{notes}}

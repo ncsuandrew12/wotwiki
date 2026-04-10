@@ -1,0 +1,16 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| gender=Female
+| mentioned={{tdr|8}}
+| lastmentioned={{tdr|8}}
+| living=tdr
+}}
+'''Rilith''' is a weaver's daughter, recently married in [[Jarra (village)|Jarra]].
+
+==Activities==
+When Rand came through the village she was caught up in his ''ta'veren'' effect and proposed marriage to [[Jon (blacksmith)|Jon]] the Blacksmith even though he was much older than she. {{ref/book|3|8}}
+
+{{notes}}

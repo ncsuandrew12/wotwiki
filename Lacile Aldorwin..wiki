@@ -1,0 +1,33 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| ewot=lacile
+| nationality=Cairhienin
+| gender=Female
+| height=Short
+| build=Slim
+| status=Alive
+| affiliation=Cha Faile
+| appeared={{tpod|8}}
+| lastappeared={{tom|30}}
+| lastmentioned={{tom|43}}
+| living=tom
+}}'''Lacile Aldorwin''' is a member of [[Cha Faile]].{{ref|{{twotc}}, Lacile Aldorwin}}
+
+== Appearance ==
+She is slim, pale, and short. She has short hair.
+
+== Activities ==
+She follows [[Faile Bashere]] to [[Ghealdan]]. She tells Faile about [[Masema Dagar]] meeting with the [[Seanchan]] before she is captured by the [[Shaido]] [[Aiel]] and made ''[[gai'shain]]''.
+With the aid of [[Bain]] and [[Chiad]], she manages to escape the Shaido camp. She is soon recaptured by the Shaido again and is severely punished for it.
+
+She then beds [[Jhoradin]] in the hope of finding escape.
+Faile and her group head to the town of [[Malden]], to meet with [[Galina Casban]] in the hope she will help them escape. The group is betrayed by Galina and left for dead in a burnt out old house. They are rescued by [[Rolan]] and a number of those who have sworn oaths of fealty to Faile. They are all finally rescued from the Shaido when [[Perrin Aybara]] meets up with the group, after he begins his joint attack with the Seanchan against the Shaido. When Perrin kills Rolan, Lacile stabs Jhoradin in the back killing him as well. Lacile weeps profusely after murdering Jhoradin.
+
+After the [[Battle of Malden]] she meets with [[Alliandre Maritha Kigarin]], Faile, and [[Arrela Shiego]]. The four women hold a funeral ceremony for the Aiel men and women that protected them while they were in the Shaido camp and were then ultimately murdered, some by their hands. She tells them that Jhoradin had offered to marry her and take her back to the Waste, but Faile doesn't believe she would have ever accepted the offer, though she still mourns the lost possibility.
+Faile sends her into the [[Whitecloak]] camp to flirt with some of the men and see what information she can spy out. She has begun a romantic relationship with [[Niagen]].
+
+{{notes}}
+{{DEFAULTSORT:Aldorwin, Lacile}}
+[[Category:Eyes-and-ears]]
+[[Category:Gai'shain]]

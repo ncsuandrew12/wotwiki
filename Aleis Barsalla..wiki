@@ -1,0 +1,29 @@
+{{for|the similarly named [[Amyrlin Seat]] raised from the [[Green Ajah]]|Aleis Romlin}}
+{{ character 
+| image=FarMaddingFlag.png
+| imagesize=150px
+| status=Alive
+| nationality=Far Madding
+| gender=Female
+| rank=First Counsel
+| height=Tall
+| hair=Long dark winged with white
+| appeared={{Wh|24}}
+| lastappeared={{wh|34}}
+| living=wh
+}}
+'''Aleis Barsalla''' is the [[First Counsel]] of [[Far Madding]]. 
+
+==Appearance==
+She is tall and stately with long dark hair, which is winged with white. Her face is unlined. Her voice is deep for a woman.
+
+==History==
+At some point in the past [[Cadsuane Melaidhrin]] taught her an embarrassing lesson.
+
+==Activities==
+Years later Cadsuane comes back to Far Madding, much to Aleis' dismay. She greets the group Cadsuane brings to Far Madding and reluctantly allows them to stay at her palace.
+[[Rand al'Thor]] and [[Lan Mandragoran]] are captured and taken prisoner when [[channel]]ing is detected by the [[Guardian]] in Far Madding around their location. Aleis is aware of Rand being the [[Dragon Reborn]] and plans to deliver him to the [[White Tower]]. Cadsuane interrupts her meeting with the other Counsels and is forced to break Aleis in order to set Rand free.
+
+{{DEFAULTSORT:Barsalla, Aleis}}
+
+[[es:Aleis Barsalla]]

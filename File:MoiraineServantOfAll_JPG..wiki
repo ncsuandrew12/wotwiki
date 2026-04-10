@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Fan Art
+|License     = GFDL
+| ImageType2 = Character
+|Source      = https://www.artistarielburgess.com/wheel-of-time
+|Description = [[Moiraine Damodred]] fan art.
+|Artist      = Ariel Burgess
+}}

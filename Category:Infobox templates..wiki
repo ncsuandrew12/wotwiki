@@ -1,0 +1,2 @@
+An '''infobox''' is a type of template used to display information in a box at the top right side of an article page. Infoboxes are portable, meaning they are optimized for proper display on both desktop and mobile, and they use Fandom's portable infobox extension. For more, see [[Help:Infoboxes]].
+[[Category:Templates| Infobox templates]]

@@ -1,0 +1,19 @@
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Taraboner
+| occupation=Servant
+| affiliation=Tarabon
+| gender=Female
+| mentioned={{tsr|51}}
+| lastmentioned={{tsr|51}}
+| living=tsr
+}}
+
+'''Cerindra''' is a former Tirewoman of [[Amathera]].
+
+==Activities==
+While she was a servant of Amathera, Cerindra was dismissed for theft. She now is willing to make any accusation against Amathera that is suggested.{{ref/book|4|51}}
+
+{{notes}}

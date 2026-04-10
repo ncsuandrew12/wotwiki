@@ -1,0 +1,26 @@
+<onlyinclude><includeonly>{{#ifeq: {{{1}}} | end | </<noinclude></noinclude>div> | <<noinclude></noinclude>div style="-moz-column-count: {{{1|2}}}; -webkit-column-count: {{{1|2}}}; column-count: {{{1|2}}}; -webkit-column-width: {{{widths|100px}}}; -moz-column-width: {{{widths|100px}}}; column-width: {{{widths|100px}}}; -webkit-column-gap: {{{gap|15px}}}; -moz-column-gap: {{{gap|15px}}}; column-gap: {{{gap|15px}}}; {{#if: {{{font-size|}}} | font-size: {{{font-size|inherit}}}; }} {{#if: {{{line-height|}}} | line-height: {{{line-height|inherit}}}; }}"> }}</includeonly></onlyinclude>
+Use this template to create a section with 2 or more columns.
+
+To begin the columns, type {{t|Columns|# of columns}}, e.g. <nowiki>{{Columns|3}}</nowiki>. It will default to 2 columns.
+
+To end the columns, type <nowiki>{{</nowiki>'''Columns|end'''<nowiki>}}</nowiki>.
+
+Example - enter the following:
+<pre>
+{{Columns|4}}
+
+desired content here
+
+{{Columns|end}}
+</pre>
+To get this:
+{{Columns|4}}
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+{{Columns|end}}
+
+
+If the column widths need to maintain a certain width, the minimum width can be increased by using "widths", e.g. <nowiki>{{</nowiki>'''Columns|3|widths=150px'''<nowiki>}}</nowiki>. (Replace 150px with desired number. It defaults to 100px.)
+
+The "gap" value between the columns can also be adjusted (default is 15px).
+
+[[Category:Templates|{{PAGENAME}}]]

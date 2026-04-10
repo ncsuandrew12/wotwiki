@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.deviantart.com/darlinginc/art/The-Wheel-of-Time-Mazrim-205786011
+|Description = Fan art of [[Mazrim Taim]] and [[Asha'man]].
+|Artist      = darlinginc
+}}

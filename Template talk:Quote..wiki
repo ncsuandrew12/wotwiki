@@ -1,0 +1,4 @@
+Older discussion: [[/Archive]]
+
+==Reverted==
+I reverted to the old, simpler version from 2007 that is not centered and doesn't add a gray background or borders.  Now it looks just like [[w:c:starwars:Template:Quote]], except for the slight indentation (which we may want to add).  I think this simpler version increases legibility and gets rid of unnecessary garishness...but feel free to disagree and maybe add your opinion here and change it back, if you want. --[[User:Gherald|Gherald]] 20:54, 5 August 2009 (UTC)

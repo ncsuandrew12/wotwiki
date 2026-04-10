@@ -1,0 +1,55 @@
+{{enWPcontent|Aes Sedai}}
+
+== character template ==
+I'd like to try to standardize how we use the character template for Aes Sedai. Several conflicting/overlapping fields apply:
+* rank
+* title
+* occupation
+* position
+* affiliation
+I hope everyone agrees that their occupation is always [[Aes Sedai]]. Title seems to be the place for Sister, Sitter, etc, but maybe that's Rank? Affililation is currently being used for Ajah in some places, and Salidar/Elaida in others. Position may not be used very often at all... Thoughts? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 19:17, 26 January 2009 (UTC)
+
+: I tried to use a standard form for all those that I put templates in for. I used occupation as Aes Sedai, but also used it as their title at the base level (others being the Amyrlin Seat and Keeper). I decided not to use rank as it because I saw rank as a more military term and rank in Aes Sedai is determined according to their hierarchy system in the One Power, rarely their job position. Position I didn't use much because Sitters and the Keeper get defined titles when other AS speak to them - using Title and position would probably have been redundant.
+
+:as for affiliation, I only stuck to the three categories of Rebels, Elaida's White Tower and Unaligned. There should be very few that aren't in that format. There is a seperate line for Ajah, I think, and Ajahs don't count much in terms of affiliation when Ajahs have sisters split.
+
+:[[User:Moridin 2000|Moridin_2000]]
+::It may be best just to create a separate field for Ajah - it'd be trivial to do, but it'd mean redoing all the existing entries. On the other hand, it might make [[User:Zero2001|Zero]]'s job easier of making their colors match their ajah. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 13:58, 27 January 2009 (UTC)
+
+
+:::I thought there already was an Ajah line, but there must not be. :( The first line in every entry does state the Ajah of the Aes Sedai though and the colours are obvious, so adding an extra line and then editing every page is probably more unnecessary work than removing the Ajah from those entries that have the Ajah stated in the template.
+
+:::I've already picked what i think I would be good Ajah colours. The template colours I used for them all are used in the [[Salidar Six]]. With the exception of the Red, of course. The red in the entry for [[Andor]] is a good colour, I think, and less garish than the one we have for [[Elaida]]. White text in the foreground worked very neatly for most of them. For a long while I went through several of the Ajahs and updated a lot of the members' templates and tidied the articles in general. Have a look at my history to see what Ajahs have been done. I've edited a good 90 or so entries for the Aes Sedai and (I think) those that I have done are all consistent. I haven't added in first mentions where is hasn't been mentioned on the page though. WoTmania will be shutting down sometime in the future, so I'll probably be spending much more time editing here. I'll get to doing a lot of the Aes Sedai entries very soon, I think.
+
+:::[[User:Moridin 2000|Moridin_2000]]
+
+== After the Breaking :Forming the White Tower ==
+
+Some confusion remains about the formation of the white tower. Perhaps the confusion lies in the meaning of the word Aes Sedai before the breaking, and the meaning of it After the breaking.
+
+
+I can't find any info on the claim that ajahs existed before the white tower and that they were the ones who started it. Does anyone have a source for that? [[User:Nisha noire|Nisha noire]] 02:01, January 3, 2011 (UTC)
+
+
+Nisha,
+
+Yes, ajahs existed in the [[Age of Legends]] but they were vastly different. In that era the word [[Ajah]] meant "A temporary group of male and female channelers who have gathered to work on something". The word implies an academic study group. The word will endure a social evolution during the [[Breaking of the World]] when order and law is destroyed and society is wiped away. In this terrible world the word "Ajah" will change to mean "A group of female channelers who have banded together for mutual protection". At this point the word has evolved to essentially mean "A Clan". After the breaking the largest clans of channelers began to battle against each other to control the others. Eventually the largest clans...or Ajahs...met under a truce in order to forge the [[Aes Sedai]] of the third age and found the white tower. Even after the towers founding there were still small rogue groups of Ajahs that were hunted down and forced to either join the tower or be killed. Finally at around 100 years after the breaking there were only 7 groups left who by now had stopped thinking of themselves as "clans" and instead saw themselves as segments of the White Tower. These are the predecessors of the 7 Ajahs we know of. At this point the definition of "Ajah" became "A sisterhood of Aes Sedai." The source of all this information is in [[The World of Robert Jordan's The Wheel of Time]]. [[User:Servant of All|Servant of All]] ([[User talk:Servant of All|talk]]) 03:48, June 14, 2018 (UTC)
+
+== The Sealing ==
+
+i was somewhat disapointed looking at this page when i saw that the lack of females amounst the hundred companions is just implied instead of exsplicitly stated. is there an page about the sealing as this doesnt even mention the argument with the females against and the leader of the females (who's name escapes me) who whent on to be (at lest logically) the first amyrlin seat. [[User:Doonval ti bekk&#39;har|Doonval ti bekk&#39;har]] 07:44, April 8, 2012 (UTC)
+
+
+
+
+Doonval,
+
+Nearly everything you stated is incorrect. The leader of the "females" - as you put it - was [[Latra Posae Decume]], an [[Aes Sedai (Age of Legends)|Aes Sedai]] of considerable reputation during the end of the [[Age of Legends]]. She directly opposed the [[Hundred Companions]] and forged a nearly identical yet opposite group of women called the Fateful Concord. There is plenty to read about her in [[The World of Robert Jordan's The Wheel of Time]]. And she was never an [[Amyrlin Seat]]. The [[White Tower]] and the Aes Sedai of the [[Third Age]] were founded nearly three hundred years after Latra Posae's death. The First Amyrlin was [[Elisane Tishar]]. Aes Sedai of the age of legends and Aes Sedai of the third age are very different. [[User:Servant of All|Servant of All]] ([[User talk:Servant of All|talk]]) 03:48, June 14, 2018 (UTC)
+
+
+
+== Etymology ==
+
+
+
+Name "Aes Sedai" perhaps suggested to the author by Aos Sidhe --> Aes Sidhe --> (Aes Sedai) ? [[User:Eschiss1|Eschiss1]] ([[User talk:Eschiss1|talk]]) 13:22, June 10, 2018 (UTC)

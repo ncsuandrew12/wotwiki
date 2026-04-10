@@ -1,0 +1,29 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| nationality=Unknown nationality
+| occupation=
+| title=
+| gender=Female
+| build=
+| height=
+| affiliation=White Tower
+| ajah=Red
+| rank=Aes Sedai
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+| ewot=
+| status=
+|birth =
+}}
+'''Aelidas''' is an [[Aes Sedai]] of the [[Red Ajah]].
+== History ==
+After [[Mazrim Taim]] declared himself as a [[False Dragon]], Aelidas was selected as the head of the mission to capture and gentle him. Unbeknownst to her, the [[Black Ajah]] severely infiltrated the Red's delegation, and tried to use the opportunity to free Taim in the name of the Shadow.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]<references />
+[[Category:Characters only mentioned in the RPG]]
+[[Category:Channelers]]

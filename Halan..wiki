@@ -1,0 +1,17 @@
+{{character 
+| image=Tree-icon.svg
+| imagesize=125px
+| ewot=Halan
+| race=Ogier
+| status=Unknown
+| gender=Male
+| mentioned={{teotw|36}}
+| lastmentioned={{amol|16}}
+}}
+'''Halan''' is an [[Ogier]] from [[Stedding Shangtai|Stedding ''Shangtai'']]. He is the father of [[Arent]] and grandfather of [[Loial]].
+
+==Activities==
+It is unknown if Halan still lives. His only mention is in Loial's full name: "Loial son of Arent son of Halan." {{ref/book|1|36}}{{ref/book|14|16}}
+
+{{notes}}
+{{short}}

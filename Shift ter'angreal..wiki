@@ -1,0 +1,18 @@
+{{VG}}
+A '''Shift ''ter'angreal''''' is a ''[[ter'angreal]]'' allowing very short-range teleportation. It is only known to have survived the [[Breaking of the World]] in the [[Mirror World]] inhabited by [[Elayna]] Sedai.
+
+==Use==
+The Shift ''ter'angreal'' allows a channeler to move forward between around one and three feet, and allows them to bypass any objects that lie directly ahead of them. The scope of teleportation facilitated by this ''ter'angreal'' is minimal compared to [[Traveling]], the [[Portal Stone]]s or the [[Ways]], but it is very useful if the channeler in the possession of a Shift ''ter'angreal'' is trapped somewhere such as a locked room.
+
+Another issue with the Shift ''ter'angreal'' is that it often becomes inactive for a long amount of time following one instance of its usage.<ref name="VideoGame">''[[The Wheel of Time (video game)|The Wheel of Time]]''. Red Eagle Games, 1999.</ref>
+
+==History==
+In a Mirror World, a [[novice]] named Elayna took her [[Accepted]] test, and found a Shift ''ter'angreal'' while in the second ring of the [[silver arches]], where she found herself trapped in a basement of a powerful [[Darkfriend]]. She used the ''ter'angreal'' to help escape the area she was in and reach the other side of a locked gate.<ref name="VideoGame"/>
+
+{{notes}}
+
+{{DISPLAYTITLE:Shift ''ter'angreal''}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]
+[[Category:Items original to the video game]]

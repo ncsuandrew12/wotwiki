@@ -1,0 +1,51 @@
+{{ character
+| image=Abdel Omerna.jpg
+| imagesize = 250px
+| bgcolor=#ffdd11
+| fgcolor=#000000
+| nationality= Amadician
+| gender=Male
+| rank=Lord Captain
+| affiliation= Children of the Light
+| occupation=Soldier
+| status=Dead
+| hair=Long, White
+| eyes=Dark, Deep, Thoughtful
+| height=Tall
+| build=
+| death={{ne|1000}}
+| mentioned={{loc|9}}
+| appeared={{loc|9}}
+}}
+'''Abdel Omerna''' was a officer of the [[Children of the Light]].
+
+==Appearance==
+He was tall with a strong chin and waves of white hair at his temples. He has dark eyes that are deep and thoughtful. He is the image of what a Whitecloak officer should look like and appears fearless and commanding. He has a deep, resonant voice.
+
+==History==
+He was one of the [[Lord Captain]]s of the [[Council of the Anointed]]. Although supposedly a minor member of the Council, he is [[Pedron Niall]]'s public spymaster and feared every bit as much as [[Rhadam Asunawa]]. In truth, Abdel is a decoy to direct attention away from Niall's true spymaster and secretary, [[Sebban Balwer]]. Not even Abdel himself knows of this fact.
+
+While Niall acknowledges his competence in the field, he thinks the man very stupid and gullible. Niall indicates that the man has seen harsh battles. His battle experience may have been during the [[Whitecloak War]], as might fit his apparent age and position.
+
+Niall notes that he is very good at remaining calm and suggests that it is what he does best.
+
+He listens far too much to gossip in the street and in taverns, though he is very efficient at gathering such information. It is no secret that he has been duped into buying no fewer than three [[Horn of Valere|Horns of Valere]] for large sums of money, and was frustrated when he blew them and nothing happened.
+
+==Activities==
+Niall consults with him on various issues regarding the quarantine of the border between [[Tarabon]] and [[Amadicia]]. Omerna wishes to invite the [[Illuminator]]s into Amador to open a chapter house and to infiltrate them with spies for the Children. Niall does not agree. He also reports on confirming the existence of the [[Dragonsworn]] in Ghealdan and Murandy. Omerna suggests that the rulers of [[Ghealdan]], [[Altara]] and [[Murandy]] are willing to support the Children.
+
+Omerna thinks that [[Siuan Sanche]] hadn't really been deposed, the [[Stone of Tear]] had not fallen and the armies of Hawkwing had returned to [[Falme]]. Niall thinks all of these ridiculous, yet the final one was the truth.
+
+Niall thinks that Omerna was becoming increasingly incompetent and careless and reflects that he is useless as a decoy if he cannot carry out his supposed position as spymaster to his full ability.
+
+Omerna is manipulated by [[Eamon Valda]] into assassinating Pedron Niall with a dagger.{{ref/book|7|p}} The reason he gives is the fact that Niall did not act against the Aes Sedai gathering in [[Salidar]] on the border. His usefulness fulfilled, Eamon then kills Abdel himself.
+
+Valda suggests that Omerna had been bought by Tar Valon witches or the Dragonsworn.
+
+== Etymology ==
+The name Abdel is derived from the Arabic word for "servant", ''abdul.'' The name Omerna comes from ''[[wikipedia:omertà|omertà]]'', the Mafia code of silence. ''Omertà'' itself comes to Italian from the Latin word for humility, ''humilitas''. {{ref|{{Origins}}, Abdel Omerna}}
+
+{{notes}}
+
+{{DEFAULTSORT:Omerna, Abdel}}
+[[Category:Eyes-and-ears]]

@@ -1,0 +1,47 @@
+{{ character
+| image=Torean.jpg
+| imagesize = 250px
+| ewot=Torean
+| nationality=Tairen
+| gender=Male
+| title=Lord
+| affiliation=The Dragon Reborn
+| rank=High Lord of Tear
+| status=Alive
+| appeared={{tsr|3}}
+| lastappeared={{tgs|42}}
+| living=tgs
+}}
+'''High Lord Torean''' of [[House Andiama]] is a [[High Lord]] of [[Tear]]. He has a son, [[Estean]].
+
+== Appearance ==
+Torean is plain with a knobby nose, lumpy face, large ears and thin eyebrows. He wears a dark, pointed beard streaked with white and looks like a farmer. He wears a fine silk coat with red satin cuffs, only exaggerating the plainness of his face.{{ref/book|4|3}}
+
+==History==
+In early {{ne|999}}, he is the wealthiest of the Tairen High Lords.{{ref/book|4|21}}
+
+==Activities==
+[[Perrin]] and [[Faile]] encountered Torean with two personal guards in a shadowed corridor outside [[Rand]]'s anteroom. He was apparently waiting for [[Berelain]] to emerge, as he grabs her arm and talks with her briefly. Perrin overhears Torean say something about Berelain "overstepping herself in her pride" and Torean seemingly "offering her his protection".{{ref/book|4|3}}
+
+He was apparently thrown (or perhaps pushed with the [[One Power]]) from Rand's chambers. [[Gaul]] lost a bet to [[Mangin]] about how far he would slide. {{ref/book|4|7}}
+
+=== Mayene ===
+[[Sunamon]] and [[Meilan]], along with Torean, crafted a treaty with [[Mayene]] that would allow Torean an occupying army there. When this was presented to [[Rand]] for his approval, he became so angry that he burned it and threatened to hang the three of them if a reasonable treaty was not drafted.
+
+He is sent with the army of Tear to restore order to [[Cairhien]] which is to be financed with the money from his own House.{{ref/book|4|21}}
+
+=== Fealty ===
+Torean has sworn fealty to Rand as the [[Dragon Reborn]] after the battle with the [[Shaido]] in [[Cairhien]], along with the High Lords [[Aracome]], [[Gueyam]], [[Hearne]], [[Maraconn]] and [[Simaan]] but Rand still questions their loyalty.
+
+=== Current ===
+He is one of the High Lords under the command of [[Weiramon]]. He is sent to the [[Plains of Maredo]] where Rand is gathering a massive army for the imminant attack on [[Illian]].
+
+He rides with Rand when Rand's forces attack the invading [[Seanchan]] just outside Illian. He follows [[Semaradrid]] into the final assault on the Seanchan.
+
+He is back in Tear and greets Rand with King Darlin when Rand withdraws his forces from [[Arad Doman]] back into Tear.
+
+{{notes}}
+{{DEFAULTSORT:Andiama, Torean}}
+
+[[es:Torean Andiama]]
+[[Category:Nobility]]

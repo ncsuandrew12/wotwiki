@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| occupation=Wise One
+| gender=Female
+| status=Alive
+| clan=Daryne
+| sept=Broken Cliff
+}}'''Merale''' is [[Wise One]] of the [[Daryne]] [[Aiel]].
+
+==History==
+She is Wise one to [[Clan chief]] [[Mandelain]] at the [[Jahad Hold]] of the Broken Cliff sept. 
+
+She is only mentioned in [[The Wheel of Time Companion]].{{ref|{{twotc}}, Mandelain}}
+
+{{short}}
+[[Category:Daryne]]
+[[Category:Broken Cliff]]
+[[Category:Wise Ones]]
+[[Category:Character not mentioned in books]]
+[[Category:Characters only mentioned in the Companion]]

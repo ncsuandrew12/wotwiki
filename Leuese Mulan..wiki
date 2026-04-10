@@ -1,0 +1,18 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tairen
+| occupation=Merchant
+| gender=Male
+| mentioned={{tdr|48}}
+| lastmentioned={{tdr|48}}
+| living=tdr
+}}
+'''Leuese Mulan''' is a trading ship merchant from [[Tear]].
+
+==Activities==
+In {{ne|997}}, Leuese pulled up three [[heartstone]] bowls and a cup in his fishing nets. He didn't know what they were until [[Ailhuin Guenna]] told him. Because of the sale of the heartstone, he owns a trading ship. Despite the lucrative prospect of heartstone, Leuese can't remember where he found the bowls and cup.{{ref/book|3|48}}
+
+{{notes}}
+{{DEFAULTSORT:Mulan, Leuese}}

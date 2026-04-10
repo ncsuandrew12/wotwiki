@@ -1,0 +1,55 @@
+{{character 
+| image=GreenBlack.png
+| imagesize=250px
+| ewot=Nacelle
+| ajah=Green
+| gender=Female
+| nationality=Malkieri
+| affiliation=Black Ajah
+| status=Dead
+| death={{ne|1000}}
+| rank=Aes Sedai 
+| height=Tall
+| build=Slender
+| eyes=Blue
+| appeared={{kod|23}}
+| lastappeared={{kod|23}}
+| lastmentioned={{tgs|39}}
+|birth = {{ne|855}}}}{{for|the similarly named member of the [[House Noramaga|Royal House of Kandor]]|Nazelle}}
+'''Nacelle Kayama''' was an [[Aes Sedai]] of the [[Green Ajah]] and also secretly a member of the [[Black Ajah]].{{ref|{{twotc}}, Nacelle Kayama}}
+
+== Appearance and Personality ==
+She was tall and slender and had blue eyes.
+
+Romanda thinks that she is not particularly intelligent.
+
+==Strength and Abilities==
+Nacelle has a [[One Power]] strength of {{opsl|42}}, which is [[Strength in the One Power among Aes Sedai|very weak]] for an Aes Sedai. 
+
+She has some ability in reading residues and developed a [[weave]] that detects the use of ''[[saidin]]''.
+
+==History==
+She was born in {{ne|855}} in [[Malkier]]. 
+
+==Activities==
+After the split in the White Tower, she joined [[Rebel Aes Sedai]].
+
+Because of her ability to read residues, she was one of the six sisters sent from the rebel camp to investigate the [[channeling]] near [[Shadar Logoth]] after the [[cleansing of saidin|cleansing of ''saidin'']].
+
+In [[Verin Mathwin]]'s book given to [[Egwene al'Vere]], Nacelle is listed as a member of the Black Ajah. It can be assumed she was one of the fifty Black sisters executed in the rebel camp.
+
+==Parallels==
+* The English word "nacelle" refers to a streamlined container for aircraft parts such as engines, fuel or equipment. It is also used in science fiction to refer to similar parts on spaceships, such as Star Treks "warp nacelles."
+
+==Trivia==
+She is the only Malkieri Aes Sedai mentioned in the series.
+
+{{notes}}
+{{DEFAULTSORT:Kayama, Nacelle}}
+
+[[es:Nacelle Kayama]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]

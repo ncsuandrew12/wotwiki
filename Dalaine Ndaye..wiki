@@ -1,0 +1,28 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|64}}
+| ajah=Gray
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Dalaine Ndaye''' was an [[Aes Sedai]] of the [[Gray Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|36}}.
+
+==History==
+She was the first Amyrlin not of the [[Green Ajah|Green]]-[[Blue Ajah|Blue]]-[[White Ajah|White]] axis since [[Bonwhin Meraighdin]] - a period of 179 years.
+
+Dalaine held the position for twenty-eight years until her death in {{Ne|64}}. She was [[Rabayn Marushta]]'s successor and [[Edarna Noregovna]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+She was a weak Amyrlin.
+
+{{notes}}
+{{DEFAULTSORT:Ndaye, Dalaine}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

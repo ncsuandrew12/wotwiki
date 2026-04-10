@@ -1,0 +1,16 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=100px
+| ewothist=
+| title=
+| rank=
+| occupation=
+| nationality=Unknown nationality
+| gender=Male
+| status=Dead
+| hair=
+| mentioned={{tom|51}}
+| lastmentioned={{tom|51}}
+}}
+'''Gilgame''' was a man that Rand said he wished he had listened to when he lived in the Age of Legends as [[Lews Therin Telamon]].
+[[Category:Short pages]]

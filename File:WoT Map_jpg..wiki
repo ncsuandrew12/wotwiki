@@ -1,0 +1,5 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Map
+| Description             = Map of the Wheel of Time (Randland)
+}}

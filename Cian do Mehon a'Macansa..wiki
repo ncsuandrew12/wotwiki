@@ -1,0 +1,29 @@
+{{ character 
+| image=MurandyFlag.png
+| imagesize = 250px
+| ewot=cian amacansa
+| nationality=Murandian
+| gender=Female
+| title=Lady
+| eyes=Dark
+| hair=Graying
+| build=Stocky
+| status=Alive
+| appeared={{tpod|17}}
+| lastappeared={{tpod|18}}
+| living=tpod
+}}
+'''Cian do Mehon a'Macansa''' is a noble from [[Murandy]]. 
+
+==Appearance==
+She is stocky with graying hair.
+
+==Activities==
+She is one of the nobles present at the [[Rebel Aes Sedai]] meeting on the border of Murandy and [[Andor]]. She snorts loudly when introduced to the Rebel Hall without her titles. 
+
+Egwene believes that she thinks she could make a tidy sum from supplying the rebel camp and army with food and supplies at a fair price. 
+
+She is one of the nobles who inquires with Egwene about the opening up of the novice book to women of all ages.
+
+{{DEFAULTSORT:A'Macansa, Cain do Mehon}} <!---Please leave the "a" capitalized for sorting purposes.--->
+[[Category:Nobility]]

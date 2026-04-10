@@ -1,0 +1,2 @@
+:''Old discussion moved to [[/Archive]].''
+<noinclude>[[Category:Administrative templates|{{PAGENAME}}]][[Category:Talk page archives| {{PAGENAME}}]]</noinclude>

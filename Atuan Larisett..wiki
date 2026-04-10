@@ -1,0 +1,48 @@
+{{Dablink|For the town on Toman Head, see [[Atuan's Mill]]. For the Accepted, see [[Atuan]].}}
+{{ character | image=YellowBlack.png
+| imagesize=250px
+| ewot=Atuan
+| ajah=Yellow
+| nationality=Taraboner
+| gender=Female
+| affiliation= Black Ajah
+| rank=Aes Sedai
+| status=Unknown
+| hair=Dark, long and braided
+| mentioned={{tdr|48}}
+| appeared={{cot|p}}
+| lastappeared={{cot|p}}
+| lastmentioned={{kod|p}}
+| living=cot
+}}'''Atuan Larisett''' is an [[Aes Sedai]] of the [[Yellow Ajah]], who is secretly a member of the [[Black Ajah]].{{ref|{{twotc}}, Atuan Larisett|Atuan}}
+
+==Appearance and Personality==
+She is quite striking with dark hair in thin beaded braids that fall to her waist.{{ref||Atuan}}{{ref/book|10|p}} [[Yukiri Haruna]] thinks she is fairly modest, for a Yellow.{{ref/book|10|p}}
+
+==History==
+She was born in {{ne|809}} in Tarabon and was enrolled in the [[White Tower]] in {{ne|825}}.{{ref/book|10|p}}
+
+She is secretly a member of the Black Ajah and a member of a [[Heart]] along with [[Marris Thornhill]] and [[Karale Sanghir]]. She is [[Talene Minly]]'s extra contact outside of her Heart.{{ref/book|10|p}}
+
+She has no [[Warder]].{{ref/book|10|p}}
+
+==Activities==
+Elayne recalls that the [[Stone of Tear]] was created using the [[One Power]] and that Atuan says that such a feat was impossible for the White Tower today.{{ref/book|3|48}}
+
+She was betrayed as being Black Ajah by [[Talene Minly]]. Yukiri spies on her spending time with [[Pritalle Nerbaijan]], also of the Yellow, and suspects the second sister of also being Black Ajah, although as far as we know she is not .{{ref/book|10|p}} 
+
+She was tortured using the [[Chair of Remorse]] by Yukiri and [[Pevara Tazanovni]]. After having her Black Ajah Oaths removed using the [[Oath Rod]] and sworn to obey Yukiri and the rest of the Black Ajah hunters, she betrays the members of her Heart and is adamant that she once again walks in the Light.{{ref/book|11|p}}
+
+Her fate is undisclosed. It is possible that she was one of the sisters that managed to escape the Tower, though her Oaths to the Black Ajah hunters may have prevented her flight. If that is the case, she would have been executed with the rest of the Black sisters unable to escape.
+
+==Trivia==
+There is an [[Accepted]] mentioned in [[New Spring]] called [[Atuan]], but the Companion birth date for Atuan Larisett puts her as being almost 200 years old. Since the surname of the Accepted is never given, and in order to avoid inconsistencies, it is assumed that these are two seperate people with the same first name.{{ref/book|0|4}}
+
+Her name may be a reference to the classic 1971 [[wikipedia:Ursula K. Le Guin|Ursula K. Le Guin]] fantasy novel [[wikipedia:The Tombs of Atuan|The Tombs of Atuan]].
+
+{{DEFAULTSORT:Larisett, Atuan}}
+
+{{notes}}
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

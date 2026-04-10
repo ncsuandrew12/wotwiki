@@ -1,0 +1,64 @@
+{{character
+| image=Eldrene.jpg
+| imagesize=250px
+| name= Eldrene ay Ellan ay Carlan
+| ewothist=Eldrene
+| status=Dead
+| nationality=Manetherenite
+| rank=Aes Sedai
+| title=Queen of Manetheren
+| gender=Female
+| ajah=Unknown 
+| mentioned={{teotw|9}}
+| lastmentioned={{tgh|5}}
+|birth = c. 1140 AB|death = c. {{ab|1200}}}}'''Eldrene ay Ellan ay Carlan''' (translated from the [[Old Tongue]] as Eldrene daughter of Ellan daughter of Carlan) was the wife of King [[Aemon al Caar al Thorin]] and the last queen of lost [[Manetheren]]. She was an [[Aes Sedai]] and a beloved figurehead of her people who named her ''Ellisande'' which translates from the [[Old Tongue]] as "The Rose of the Sun". {{ref/book|1|9}}
+
+==Appearance and Personality==
+Moiraine relates the legend that Eldrene was "so beautiful that it was said the flowers bloomed to make her smile".{{ref/book|1|9}} Histories relate that she was kind and patient and loved her subjects dearly. In turn she herself was greatly revered and it is known that soldiers of Manetheren invoked her name in battle as a rallying cry.{{ref/book|1|18}}{{ref/book|3|19}}
+
+In the graphic novel, she and Aemon are depicted with blonde hair and blue eyes, but no physical description is given in the books or wider canon and so her portrayal is strictly artistic licence.
+
+== History ==
+
+
+===Trolloc Wars===
+[[File:ManetherenCapital.JPG|thumb|220px|The wonderous capital of Manetheren from which Eldrene ruled her people]]
+There is no history that survives the Trolloc Wars to relate Eldrene's activities as a full Aes Sedai sister. However, because the era was one of great upheaval that required the participation of nearly all Aes Sedai sisters, it is likely that Eldrene contributed in some manner. What is known with certainty is that sometime prior to {{ab|1175}} she returned to Manetheren where she eventually married King Aemon al Caar al Thorin and [[bond]]ed him as a [[Warder]]. She thus became the queen of Manetheren at a time when the entire world was at war against the [[Shadow]] and she ruled from her country's wondrous capital city, high and secure in the cloud-capped peaks of the [[Mountains of Mist]]. Her nation was known to have always been at the forefront of the fighting and it was said that people of other nations referred to Manetheren as "a thorn to the [[Dark One|Dark One's]] foot and a bramble to his hand".{{ref/book|1|9}}
+
+In time the wars would consume some within the alliance of nations, including Manetheren's close ally [[Aridhol]]. The fall of Aridhol would allow [[Shadowspawn]] forces to push unopposed into the centralized countries of [[Coremanda]] and [[Safer]]. This also allowed [[dreadlord]] generals to work towards their milestone goal of exterminating Manetheren. Sometime around {{ab|1200}} Aemon was lured into overextending his military which allowed the shadow to strike directly towards the Manetheren capital. When the shadow's plans became known to Aemon, he recalled his forces from the [[Field of Bekkar]] - site of Manetheren's most recent victory - and back to the Manetheren heartland where they engaged their enemy in a titanic multiple-day struggle that came to be known as the [[Battle of the Tarendrelle River]]. Knowing that he could not win the battle unaided, Aemon sent messengers carrying a plea for aid to all the remaining allied powers of the [[Ten Nations]] [[File:Eldrene2.JPG|thumb|260px|left|Eldrene feels the death of Aemon]] and a special messenger was sent to Eldrene's former rival Tetsuan who had since been elevated to the [[Amyrlin Seat]].
+
+Histories relate that when Tetsuan received Aemon's messenger, she was influenced by her childhood hatred of Eldrene and thus worked in secret to misdirect or delay responses from allied nations. As a consequence, Aemon's army was unable to halt the advance of the shadow into the Manetheren heartland and he ordered an evacuation of all civilians. It is said that Eldrene supervised the effort to preserve her nation's culture and helped thousands flee into nearby forests and mountains;{{ref|{{bwb}}, Chapter 10 Rise and Fall of the Ten Nations|bwb 10}} though it is also said that thousands more refused their king's order to flee and instead marched to join Aemon's failing army and pay the price of their homeland with their blood.{{ref/book|1|9}}
+
+===Eldrene's Death===
+[[File:Eldrene ay Ellan ay Carlan.jpg|thumb|260px|The death of Queen Eldrene]]
+Manetheren's doom was sealed when Aemon's army was driven back to a crossroads which is now known as the intersection of the [[North Road]], the [[Old Road]], and the [[Quarry Road]]. In a final desperate last stand, Aemon and his army were overpowered in a one day battle that came to be known as the Battle of Aemon's Field. The moment Aemon perished Eldrene felt the severing of the bond with her beloved husband. Alone in the evacuated capital city she became consumed by grief and thus she began to draw upon the [[True Source]].
+
+[[File:ManetherenDestroyed.JPG|thumb|300px|left|The capital city of Manetheren is utterly destroyed]]Drawing upon a [[sa'angreal]], Eldrene poured forth devastation and [[balefire]] at what remained of the Shadow's army.{{ref||bwb 10}} In a display reminiscent of the [[Breaking of the World]], Eldrene destroyed the larger whole of the Shadow's forces - including all the dreadlord generals. Those few shadowspawn that survived fled, tearing down the bridges of the [[River Manetherendrelle]] which connected what is now the [[Two Rivers]] with that portion of Manetheren in what is now modern-day northern [[Ghealdan]]. They were subsquently hunted down and exterminated in other nations {{ref/book|1|9}}
+
+Eldrene had drawn to herself more of the One Power than any human could wield unaided and as the enemy generals died, so did she; the fires that consumed her consumed too the empty city of Manetheren, even the stones of it, down to the living rock of the mountains.{{ref|{{twotc}}, Eldrene ay Ellan ay Carlan}} The ''sa'angreal'' therefore must have lacked the buffer that prevents a channeler from drawing too much of the One Power.
+
+===Eldrene's Veil===
+After the destruction of Manetheren, survivors returned to repopulate the land. Those that settled in the area where the [[River Taren|Tarendrelle River]] flows down from the Mountains of Mist were emotionally moved by the beauty of a well-known waterfall. The majestic [[Eldrene's Veil]] cascades for over 500 feet and for early settlers of the [[Free Years]] its beauty invoked the memory of the last queen of Manetheren.
+
+===The Winespring===
+In the village of [[Emond's Field]] there is an aquifer known as the [[winespring]] that flows from a low stone outcropping near the village [[green]].{{ref/book|1|1}} Legend asserts that when Eldrene destroyed the Shadow's forces on the day of her husbands death, upheavals caused by her channeling forced an underground spring to burst forth upon the site of the battlefield. It is further said that the water of this spring has flowed unceasingly since the day of the battle and marks the site of the final heroic sacrifice of the Army of Manetheren. {{ref/book|5|51}}
+
+===The Ancient Capital of Manetheren===
+Southwest of the [[Two Rivers]] and several thousand feet above the [[White River]] in the Mountains of Mist stands a lone [[Waygate]] surrounded by stunted trees growing in poor soil and smooth slopes of rock that shine like glass. {{ref/book|4|27}} This is the site of the former capital of Manetheren - the mountain home itself - which remains as the last physical evidence of Eldrene's death. Travelers to this location must endure a long exhausting climb which will be rewarded with a spectacular view of the cloud-capped peaks of the mountains above and the furious turbulence of the White River below.
+
+===The Legacy of Eldrene and Tetsuan===
+Beyond geography, the tragedy of Eldrene's relationship with Tetsuan is a subject taught to novices in the White Tower. Students learn that when Tetusan's treachery was made known to the [[Hall of the Tower]], the [[sitters]] voted to strip Tetsuan of her staff and stole and condemned her to be [[severing|stilled]]. Tetsuan was subsequently forced to labor in the tower kitchens as a scullery maid.{{ref/book|2|5}} She died three years later.{{ref|{{twotc}}, Tetsuan}} Tetsuan's punishment serves as a grim reminder to all students that no Aes Sedai sister - regardless of her position or influence - stands above [[Tower Law]].
+
+== External links ==
+*{{TVlink|Eldrene}} on {{TVlink}}
+
+{{Notes}}
+
+[[es:Eldrene ay Ellan ay Carlan]]
+[[Category:Historical people]]
+[[Category:Queens]]
+[[Category:Rulers]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai after the Breaking]]
+[[Category:Aes Sedai]]

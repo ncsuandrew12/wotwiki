@@ -1,0 +1,30 @@
+{{ character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| death={{ne|1000}} 
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=White Tower
+| gender=Female
+| status=Dead
+| mentioned={{acos|32}}
+| appeared={{tgs|40}}
+| lastappeared={{tgs|40}}
+}}
+'''Josaine''' was an [[Aes Sedai]] of the [[Green Ajah]].
+
+==Activities== 
+She had remained loyal to the [[White Tower]] during the split. 
+
+Several years ago, Josaine found an ''[[angreal]]'' and kept it to herself. [[Alviarin Freidhen]] ordered [[Elaida a'Roihan]] to personally search Josaine's room, as well as [[Adelorna Bastine]]'s, as Adelorna had removed an ''angreal'' from the storeroom without permission. 
+
+When Elaida found the ''angreal'', she was to give stiff punishments to both sisters. At the same time, Alviarin ordered Elaida to reward [[Doraise Mesianos]], [[Kiyoshi]] and [[Farellien]] (a Brown, a Gray and a Yellow), which will make it seem as if the latter three had exposed the former two. Elaida wanted to know why Alviarin was ordering this, as it would create dissension between the Ajahs. 
+
+Josaine and Adelorna were birched. The same day [[Seaine Herimon]] thought to herself that never in living memory have two sisters been birched for holding back ''angreal''{{Ref/book|7|32}}. This had created strife and division between the Ajahs.
+
+During the [[Seanchan]] attack on the [[White Tower]], Josaine stood with [[Marthera]] and Adelorna to fight the invaders. The group was defeated within minutes, with Josaine dead from an explosion of [[Earth]] that took out part of the Tower wall.{{ref/book|12|40}} Marthera was captured and Adelorna was forced to flee.
+
+{{notes}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Living as of TGS]]

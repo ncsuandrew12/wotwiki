@@ -1,0 +1,25 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=200px 
+| ewot=Hardlin
+| status=Alive
+| nationality=Unknown nationality
+| rank=Asha'man
+| occupation=Asha'man
+| affiliation=Logain Ablar
+| gender=Male
+| appeared={{tpod|26}}
+| lastappeared={{tpod|26}}
+| lastmentioned={{tom|46}}
+| living=tom
+}}
+'''Morly Hardlin''' is an [[Asha'man]] who has reached the rank of Dedicated.{{ref|{{twotc}}, Morly Hardin}}
+
+==Activities==
+He was involved in the capturing and [[bonding]] of the fifty-one [[Aes Sedai]] sent from the [[White Tower]]. He is a part of [[Logain Ablar]]'s group.
+
+He bonded [[Lemai Ambani]] of the [[Red Ajah]].
+
+{{notes}}
+{{DEFAULTSORT:Hardlin, Evin}}
+[[Category:Channelers]]

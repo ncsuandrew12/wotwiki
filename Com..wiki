@@ -1,0 +1,16 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Unknown
+| nationality=Tairen
+| gender=Male
+| appeared={{Kod|21}}
+| lastappeared={{kod|21}}
+| living=kod
+}}'''Com''' is a peasant boy living in [[Tear]].{{ref|{{twotc}}, Com}}
+
+==Activities==
+When [[Rand al'Thor]] comes to Tear, Com and [[Doni]] tell him of the steamwagon from [[Cairhien]] driven by [[Mervin Poel]]. [[Min Farshaw]] has a [[Min's viewings|viewing]] that both of the boys will die. It is unknown if this has happened yet.
+
+{{notes}}
+{{short}}

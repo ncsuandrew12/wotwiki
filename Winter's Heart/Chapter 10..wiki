@@ -1,0 +1,105 @@
+{{for|other chapters with "plan" in the title|Plan}}
+{{summary | book=9 |
+|chapter=10
+|title=A Plan Succeeds
+|icon=Telaran
+|setting=[[Caemlyn]]
+}}
+
+==Summary==
+
+:{{pov|[[Elayne Trakand]]}}
+It is nighttime and [[Elayne Trakand|Elayne]] wakes up in her bed, attended to by [[Aviendha]], [[Birgitte]], and [[Nynaeve]].  She is happy to hear that Nynaeve [[Heal]]ed [[Dyelin]], and she is alive. The Guardsman, [[Daved Hanlon|Doilin Mellar]], was unhurt. Nynaeve gave her herbs to treat the stomach cramps that [[forkroot]] induces, but she is still weak. Aviendha explains herbs were used because Nynaeve does not know "how to work her weaves against" forkroot. Nynaeve says Elayne must rest. Elayne believes that Dyelin proved her loyalty to her by throwing herself in harm's way to protect Elayne. Birgitte shows Elayne one of the knives they found. Nynaeve comments that Dyelin was lucky not to have been injured by that specific knife; it has poison on it and Dyelin would have been dead within seconds. After the attack, Elayne gives over to Birgitte and has a small bodyguard attending her constantly. Birgitte then wonders who should command the bodyguards. Elayne suggests Doilin Mellar, the Guardsman who saved her. Nynaeve protests but Birgitte comments that he is [[Andoran]] from near [[Baerlon]], and he fought for [[Morgase]] during the Succession. The Warder agrees to raise him to commander. 
+
+[[Egwene]] had appointed that night for them to meet in ''[[Tel'aran'rhiod]]''. They argue over who should enter the World of Dreams. Elayne wants to, but Nynaeve believes she is too weak to go. However, Elayne wins the argument and goes into ''Tel'aran'rhiod'' using the [[twisted stone ring]] ''[[ter'angreal]]''. Nynaeve goes to her own rooms but on her way demands Birgitte and Aviendha watch over Elayne. Elayne drinks a goblet of wine, in which Nynaeve put some potent herbs to make the drinker drowsy, and goes to sleep. When she "wakes up" in ''Tel'aran'rhiod'', Elayne is in the Grand Hall of the [[Royal Palace of Andor]]. Nynaeve is present, too, using a copy of the ''ter'angreal'' Elayne is using. Egwene arrives, and they tell her about everything that happened that day. She has already heard about the attack on [[Rand]]. In return, she tells them that the [[Aes Sedai]] in her army are refusing to accept [[novice]]s because there are only sixteen [[Accepted]] to teach them everything. Egwene mentions there is a new Accepted that Nynaeve should meet. Sharina is a grandmother and her name is [[Sharina Melloy]]. Nynaeve is startled by the name Sharina because "Sharina Sedai" was mentioned by Lan in Nynaeve's third pass through the Accepted test ''ter'angreal''.{{ref/book|2|23}} Nynaeve explains only that there was a "Sharina Melloy"{{ref|This might be a minor mistake on Jordan's part. The name "Melloy" was never mentioned during Nynaeve's Accepted test. However, perhaps Nynaeve is simply mistakenly including the last name when referencing the Sharina that was mentioned.}} during her Accepted test and refuses to elaborate.
+
+Egwene also tells them that she intends every Aes Sedai not sworn to the [[Three Oaths]] to do so. {{ref|In the ''[[Path of Daggers]]'', [[Egwene]] was against binding herself to the [[Three Oaths]]. Apparently [[Siuan]] convinced her about the value of being [[Aes Sedai]]. Maybe [[Aran'gar]] played a hand in it, too}} ''Every'' Aes Sedai. This leaves Nynaeve and Elayne outraged since they have realized taking the oaths on the oath rod must impact how long Aes Sedai live, but Egwene remains adamant. Suddenly, they stop talking as they see a man listening to them by the door. From his face, he could have been Rand's uncle! {{ref|The man "who could be Rand's uncle," is, of course, Rand's uncle! He is [[Luc]], better known as [[Slayer]]}} He turns and runs down the hallway. They pursue him, but to no avail. Then they hear doors slam in the opposite corner of the Hall and they suppose that somebody else also eavesdropped since doors do not swing closed by themselves in ''Tel'aran'rhiod'' (see below).
+
+:{{pov|[[Asne Zeramene]]}}
+[[Asne]] and [[Chesmal]] are in their house in [[Caemlyn]]. Asne does not want to talk to Chesmal, because the only thing the latter can do is brag about her part in questioning [[Tamra Ospenya]] and how she persuaded the [[Red Ajah]] to murder [[Sierin Vayu]]. [[Eldrith]] returns much later than expected. Chesmal is furious because of this, but does not say anything harsh, as Eldrith is the leader of their group in place of [[Moghedien]], who they think has deserted them. On the [[Forsaken]]'s orders, they stayed in [[Samara]] even after the [[Prophet]] moved his residence to [[Amadicia]]. They were forced to flee when Eldrith's Warder, [[Kennit]], discovered where they were through a slip in her mask of the bond and found them, meaning to kill them. They decided to go to Caemlyn to take their chances and hope Elayne and Nynaeve came there. [[Temaile]] comes in and reports that Nynaeve and Elayne are together in the [[Royal Palace|Palace]] in  ''Tel'aran'rhiod''. She also mentions a man eavesdropping. However, she supposes a third person to be here.
+
+:{{pov|[[Mili Skane]]}}
+[[Mili Skane]] has named herself the Lady [[Shiaine Avarhin]]. She recalls how [[Willim Avarhin]] and his daughter were impoverished nobles living in a farmhouse; she killed them and took the daughter's name. [[Falion]] is currently her maid. Shiaine believes her own failure is deeply buried, so deep that everyone will forget it. {{ref|Shiaine's failure which she buried deep is probably her failure to kill [[Rand]] and [[Mat]] in ''[[The Eye of the World]]''}} [[Daved Hanlon]] enters the room, and she asks if the plan succeeded. He replies, showing off the lions on his shoulders, "You are looking at the Captain of the Queen's Bodyguard."
+
+==Characters==
+* [[Elayne]]
+* [[Aviendha]]
+* [[Birgitte]]
+* [[Nynaeve]]
+* [[Egwene]]
+* [[Asne Zeramene]]
+* [[Chesmal Emry]]
+* [[Eldrith Jhondar]]
+* [[Temaile Kinderode]]
+* [[Mili Skane]]
+* [[Falion Bhoda]]
+* [[Marillin Gemalphin]]
+* [[Murellin]]
+* [[Daved Hanlon]]
+
+===Referenced===
+* [[Dyelin]]
+* [[Ronde Macura]]
+* [[Doilin Mellar]]
+* [[Caseille]]
+* [[Lan]]
+* [[Artur Hawkwing]]
+* [[Vandene]]
+* [[Elenia Sarand]]
+* [[Naean Arawn]]
+* [[Reene Harfor]] as [[First Maid]]
+* [[Zarya Alkaese]]
+* [[Kirstian Chalwin]]
+* [[Rand]]
+* [[Elaida]]
+* [[Faolain]]
+* [[Theodrin]]
+* [[Sharina Melloy]]
+* [[Reanne Corly]]
+* [[Aloisia Nemosni]]
+* [[Halima]]
+* [[Halwin Norry]]
+* [[Moghedien]]
+* [[Shiaine Avarhin]]
+* [[Tamra Ospenya]]
+* [[Sierin Vayu]]
+* [[Kennit]]
+* [[Liandrin]]
+* [[Powl]]
+* [[Moridin]]
+
+===Groups===
+* [[Kin]]
+
+==Places==
+* [[Caemlyn]]
+* [[Royal Palace of Andor]]
+* ''[[Tel'aran'rhiod]]''
+
+===Referenced===
+* [[Baerlon]]
+* [[Andor]]
+* [[Two Rivers]]
+* [[Murandy]]
+* [[Ebou Dar]]
+* [[Tear]]
+* [[Braem Wood]]
+* [[Samara]]
+* [[Amadicia]]
+* [[Tanchico]]
+
+==Items==
+* [[Dream ter'angreal|Dream ''ter'angreal'']]
+
+===Referenced===
+* [[Horn of Valere]]
+* [[Oath Rod]]
+
+==Errata==
+
+* In some versions, [[Elayne Trakand]] is referred to as "Elaine" when she creates a {{tar}} copy of a chair from her sitting room.{{ref|{{cite/androlf/source|wh-h}}}}{{ref|{{cite/androlf/source|complete-md}}}}{{ref|The typo is not present on the [[Humble Bundle]]'s copy of {{9}}.}}
+<!--The typo is present in a hardcover purchased new from Amazon on {{Date|2023-2-16}} and a copy of [[The Complete Wheel of Time]] downloaded in November, 2022. It-->
+{{Quote|quote="You made a proclamation. Any woman of any age, if she tested true. All you have to do is make another, about the Kin." Elaine {{sic}} made her own seat a copy of one of the chairs in her sitting room. Much easier to hold onto.}}
+
+{{Notes}}
+{{DISPLAYTITLE:''A Plan Succeeds''}}

@@ -1,0 +1,55 @@
+{{character 
+| image=WhiteBlack.png
+| imagesize=250px
+| ewot=Velina
+| ajah=White
+| nationality= Saldaean
+| gender=Female
+| affiliation=Black Ajah
+| occupation=Sitter
+| rank=Aes Sedai
+| eyes=Sharp, Tilted
+| status=Unknown
+| appeared={{tpod|25}}
+| lastappeared={{tpod|25}}
+| lastmentioned={{tgs|e}}
+| living=tgs
+|birth = {{ne|859}}}}'''Velina Behar''' is an [[Aes Sedai]] of the [[White Ajah]] publicly and secretly a member of the [[Black Ajah]].{{ref|{{twotc}}, Velina Behar|Velina}}  Once a woman of considerable influence; she was a [[sitter]] for her [[Ajah]] as well as a member of the Black Ajah's [[Supreme Council]].{{ref||Velina}}  In {{ne|1000}} her loyalties were exposed by [[Egwene al'Vere]] and she subsequently fled the [[White Tower]] rather than face justice. 
+
+== Appearance and Personality==
+She has a nose like an eagle's beak and sharp, tilted eyes. She has sharp high cheekbones and a penetrating stare from her eyes that are almost black.
+
+Her voice is almost girlishly high-pitched. Her appearance is fierce. Her plain snowy dress appears stark and cold.
+
+Elaida thinks she is normally the most self-possessed woman in the Tower and the model of a White sister.{{ref/book|7|p}}
+
+==Strength and Abilities==
+Velina is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|31}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.
+
+==History==
+Velina was born in {{ne|859}} and went to the [[White Tower|Tower]] in {{ne|877}}. She remained a novice eleven years and was Accepted for nine years. She was raised to the [[shawl]] in {{ne|897}}.{{ref||Velina}}
+
+She was elected [[Sitter]] for the White Ajah in the year [[974 NE]], having worn the shawl for 74 years at the age of 115.{{ref||Velina}} This is on the young side for a Sitter. Her exemplary status as a White Sitter may have contribited to this promotion.
+
+Velina was a member of the Black Ajah [[Supreme Council]]. She was one of only three women who knew [[Alviarin Freidhen|Alviarin]]'s identity as head of the Black Ajah; the others were [[Galina]] (also Alviarin's second) and [[Sedore Dajenna|Sedore]].{{ref||Velina}}
+
+==Activities==
+She was one of the Sitters that stood to depose [[Siuan Sanche]] and raise [[Elaida do Avriny a'Roihan]] as Amyrlin Seat. She therefore remained a Sitter in the Hall of the Tower and is counted among the loyalist faction.
+
+She is among the Sitters that Elaida meets with in [[Alviarin Freidhen|Alviarin's]] absence. At this meeting, she tries to convince Elaida that, logically, multiple ''[[a'dam]]'' cannot exist since two ''[[ter'angreal]]'' that perform the same function are rare.{{Ref/book|7|p}} She genuinely believed this logic, and that the Seanchan did not exist, despite reports to the contrary.{{ref||Velina}}
+
+[[Verin Mathwin]]'s list confirmed Velina as Black Ajah and she flees the Tower, therby escaping execution. Her current whereabouts are unknown. She may have participated in the [[Battle in Tel'aran'rhiod|Battle in ''Tel'aran'rhiod'']].
+
+{{notes}}
+{{DEFAULTSORT:Behar, Velina}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Behar, Velina}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]

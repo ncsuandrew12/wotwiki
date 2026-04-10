@@ -1,0 +1,14 @@
+The '''bookmark''' is a ''[[ter'angreal]]'' recently in the possession of [[Verin Mathwin]].{{ref/book|12|39}}
+
+==Appearance==
+The ''ter'angreal'' is a thin leather strap with steel weights on the ends, like what is normally used to mark a book, but much longer than usual.
+
+==Use==
+Placing the bookmark in a closed book and twisting the loose ends together causes the book to disappear. The ''ter'angreal'' works only on books.
+
+Verin suggests that the bookmark was created by someone concerned with concealing their personal journal.
+
+{{notes}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]

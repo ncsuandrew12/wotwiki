@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = [[Moiraine]].
+| Source             = A variant cover for ''[[The Eye of the World 2]]''
+| Artist             = Jeremy Saliba
+}}
+[[Category:Character Images]]

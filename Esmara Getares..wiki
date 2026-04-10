@@ -1,0 +1,25 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Esmara Getares
+| status=Dead
+| nationality=Unknown nationality
+| rank=Lady
+| title=Lady
+| gender=Female
+| mentioned={{Loc|26}}
+| lastmentioned={{loc|26}}
+}}
+'''Esmara Getares''' was a noblewoman of some power, influence. She lived during the latter part of the [[War of the Hundred Years]].
+
+==History==
+Circa {{Fy|1090}} she launched an invasion of [[Andor]] from the south, having already secured control over much of what is now [[Illian]] and the [[Plains of Maredo]]. The scale of her invasion is unknown, although given her ambition and the territory already under her control, it must have been significant.
+
+However, Getares' assault was defeated by Andor's forces and she was captured in battle. She spent the final twelve years of her life as the "guest" of Queen [[Telaisien]] and died by assassination, although the motives for having her killed at that point are unknown.
+
+Getares' capture saw the territory she had conquered fall apart. Her capture allowed [[Nicoli Merseneos den Ballin]] to rise to power and found the modern kingdom of Illian.
+
+{{DEFAULTSORT:Getares, Esmara}}
+[[es:Esmara Getares]]
+[[Category:Historical people]]
+[[Category:Nobility]]

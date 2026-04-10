@@ -1,0 +1,18 @@
+{{character 
+| image=Tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| occupation=Author
+| gender=Male
+| mentioned={{loc|54}}
+| lastmentioned={{cot|p}}
+}}
+'''Ledar son of [[Shandin]] son of [[Koimal]]''' was an [[Ogier]] author who lived in the early days of [[Artur Paendrag Tanreall|Artur Hawkwing's]] reign.
+
+==History==
+Ledar was the author of the book ''[[A Study of Men, Women and the One Power Among Humans]]'', which concerns [[Aes Sedai]] dealing with men who can channel. [[Loial]] tells [[Perrin Aybara]] of Ledar and [[Elora]]'s works in relation to what Aes Sedai might do in regards to [[Rand al'Thor]].{{ref/book|6|54}}
+
+When Loial and [[Karldin Manfor]] are [[Traveling]] around the [[Westlands]] closing [[Ways|waygates]], Loial uses the name of Ledar as an alias.{{ref/book|10|Prologue}}
+
+{{notes}}

@@ -1,0 +1,27 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Unknown nationality
+| title=Gaidin
+| gender=Male
+| occupation=Warder
+| affiliation=White Tower
+| status=Alive
+| mentioned={{tom|22}}
+| lastmentioned={{tom|22}}
+| living=tom
+}}'''Makzim''' is a [[Warder]] leading the training of aspiring Warder hopefuls at the [[Hall of the Tower under Egwene al'Vere|Reunited White Tower]].{{ref/book|c|Makzim}}
+
+== Appearance ==
+He is stern and thick-armed.
+
+== Activities ==
+He currently leads the Warder training sessions at the [[White Tower]].{{ref/book|13|22}} [[Gawyn Trakand|Gawyn]] approached Makzim to discuss the future of [[Younglings]] who wished to become soldiers rather than Warders bonded to new [[Aes Sedai]] sisters.
+
+== Trivia ==
+*Makzim is named for Maksim Zhukov, a fan of ''The Wheel of Time''{{ref|Taglieri, Linda. {{Link |url=http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html |text=Character Names Derived From Readers' Names}}|thirteenth-depository}}
+*In the [[The Wheel of Time (TV series)|television series]], there is a character named {{TVlink|Maksim}} portrayed by {{TVlink|Taylor Napier}}. However, the character is based on [[Owein]], who was renamed to avoid confusion with [[Owyn Merrilin|Owyn]].
+
+{{notes}}
+{{short}}
+[[Category:Characters named after fans]]

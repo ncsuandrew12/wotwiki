@@ -1,0 +1,40 @@
+{{ character
+| image=Baryn.png
+| imagesize=250px
+| ewot=Lir
+| nationality=Andoran
+| title=Lord
+| affiliation=House Trakand
+| rank=High Seat
+| build=Slender
+| status=Alive
+| appeared={{tfoh|19}}
+| lastappeared={{amol|2}}
+| living=amol
+| gender=Male
+}}'''Lir Baryn''' is an [[Andor]]an noble and the [[High Seat]] of [[House Baryn]].{{ref|{{twotc}}, Lir Baryn|Lir}} The sigil of House Baryn is a silver-winged Hammer on a field of green.{{ref||Lir}}
+
+== Appearance ==
+He is a slender man and is given to frowning.
+
+== History ==
+He was one of the nobles who didn't support [[Morgase Trakand]] when she assumed the throne after the Succession, and was forced to swear fealty to her afterwards.
+
+== Activities ==
+He was one of the nobles who hung around Lord [[Gaebril]] in the Throne Room of Andor. After Gaebril's demise he fawned over [[Rand al'Thor]].
+
+He flees Andor when both [[Elenia Sarand]] and [[Naean Arawn]] who had proclaimed themselves for the Lion Throne when Rand had been kidnapped by the [[White Tower]] [[Aes Sedai]], are imprisoned by [[Dyelin Taravin]].
+
+He joined [[Arymilla Marne]]'s forces and laid siege to [[Caemlyn]].
+
+Lir and his armsmen ride with the army when Arymilla mobilizes her entire force and attacks the [[Far Madding Gate]]. Arymilla's army is hit behind by half of Elayne's force and in the end Arymilla's army surrenders. Lir is brought before [[Elayne Trakand]] and publicly throws his support behind her.
+
+He is present at the meeting with the neutral High Seats and Elayne. There, they throw their support behind Elayne giving her the required Houses she needs to obtain the Lion Throne{{ref/book|11|35}}.
+
+Lir is furious at the loss of Caemlyn and wants to mount an attack to take it back immediately. He is finally convinced by Elayne to wait as the losses to their armies to take the city back would be significant. Elayne gives him permission to view Caemlyn from afar.
+
+{{notes}}
+{{DEFAULTSORT:Baryn, Lir}}
+
+[[es:Lir Baryn]]
+[[Category:Nobility]]

@@ -1,0 +1,10 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Dead
+| owner=Gerard Arganda
+| appeared={{amol|37}}
+}}
+'''Mighty''' is the horse ridden by [[Gerard Arganda]]. It dies in the [[Tarmon Gai'don|Last Battle]] when a large flail-wielding [[trolloc]] cracks its skull with a punch.

@@ -1,0 +1,21 @@
+[[wikipedia:weapon|Weapons]] of battle come in all sizes and shapes; some are improvised from farm implements, and others were [[power-wrought blade|forged]] with the [[One Power]] during the [[War of Power]].
+
+In the Wheel of Time universe, most weapons are directly taken from real-life.
+<br />
+{| class="fandom-table"
+!Rank
+!Descriptions(Equivalent)
+|-
+|'''[[Power-wrought]]''' 
+|(basic weapon power)
+|-
+|'''[[Angreal]]'''
+|(intermediate power weapon)
+|-
+|[[Sa'angreal|'''Sa’angreal''']]
+|(high power weapon)
+|-
+|[[Ter'angreal|'''Ter’angreal''']]
+|(Special/Super power weapon)
+|}
+[[Category:Items| Weapons]]

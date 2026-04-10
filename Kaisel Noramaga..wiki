@@ -1,0 +1,36 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| affiliation=Lan Mandragoran
+| nationality=Kandori
+| title=Prince
+| gender=Male
+| status=Alive
+| appeared={{tom|42}}
+| lastappeared={{amol|29}}
+| living=amol
+}}'''Kaisel Noramaga''' is the grandson of Queen [[Ethenielle Kirukon Materasu]] and one of the Princes of Kandor{{Ref|{{twotc}}, Kaisel Noramaga}} as one of the youngest members of the Kandori royal family.
+
+== Appearance ==
+He is young, almost a boy.
+
+== History ==
+It is likely that he is the son of [[Antol]], the eldest of Queen Ethenielle's children as Lan refers to his father being in charge of Kandor while Ethenielle is in the south.{{ref/book|13|42}} 
+
+== Activities ==
+Kaisel is told by [[Nynaeve al'Meara]] to wait for [[Lan Mandragoran]] at the [[Silverwall Keeps]] and to look for [[Mandarb]] as Lan will most probably be disguised.
+
+Kaisel spots Lan there and asks to join him on his ride to [[Tarmon Gai'don]]. With this final addition, Lan finally lets the [[Golden Crane]] fly. Kaisel wanted to forbid Saldean women from fighting in the battle; Lan promised him a decent burial after he was allowed to take Kaisel's head off the pole if he tried to forbid them.{{Ref|{{twotc}}, Kaisel Noramaga}}
+
+Kaisel is part of Lan's much smaller force which is gradually pushed backwards through the [[Tarwin's Gap]]. Their army has caused massive amounts of damage to the Trolloc army, but unfortunately Lan's army has been cut in half at the same time. Lan suggests a full retreat and then one last charge. Lan is impressed with how stoic Kaisel is with the order, not coming to fight for glory but for duty. As the army charges, Borderlander reinforcements from the [[Field of Merrilor]] arrive through gateways. Kaisel toasts fallen comrades at the end of one of their battle shifts. He is with Lan when [[Dreadlords]] join the battle and start pummeling their army with the [[One Power]]. Lan orders the retreat of the Gap. He considers himself part of the High Guard of Malkier.{{ref/book|14|24}}
+
+At one point Lan leads a quick hit and run, while the Trollocs are not ready. Andere is pulled down in the chaos and Lan rides to his aid. Lan defeats two Fades in the process. Kaisel witnesses the skirmish and is in awe and disbelief in his fighting prowess. Kaisel tells him that Queen [[Tenobia si Bashere Kazadi]] is riding with her men into battle, and Lan asks him why she should be denied this right. [[Dreadlords]] then begin attacking the front lines knocking Lan to the ground. Kaisel helps carry Lan back to safety. He rallies around Lan when a cloud of blackness covers the sun. Kaisel notices that a group of reserves move to a hole in the Borderlander defenses at the same times as another group, entangling both forces.
+Kaisel is present when Lord [[Agelmar Jagad]], who is under [[Hessalam|Hessalam's]] [[Compulsion]], is confronted by Lan concerning the mistakes he has been making throughout the battle.
+
+==Trivia==
+*Kaisel Noramaga is named for Nic Howie-Kaiser, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{DEFAULTSORT:Noramaga, Kaisel}}
+[[Category:Living as of AMOL]]
+[[Category:Characters named after fans]]

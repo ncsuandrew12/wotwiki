@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|June}}
+|{{Wotmonth|Saven}}
+|}
+'''Saven 23 (June 2)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Mat]] is introduced to the game of [[Maiden's Kiss]].
+<noinclude>
+==External links==
+*[[wikipedia:june 2|June 2]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

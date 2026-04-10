@@ -1,0 +1,3 @@
+<includeonly>{{#if:{{{prefix|{{{4|}}}}}}|<nowiki/>''<nowiki/>{{{prefix|{{{4}}}}}}<nowiki/>'',&nbsp;}}[[Rigney Papers]], box {{{box|{{{1}}}}}}, folder {{{folder|{{{2}}}}}}, page(s) {{{page|{{{3}}}}}}</includeonly><noinclude>{{Documentation|:Template:ref/doc}}
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

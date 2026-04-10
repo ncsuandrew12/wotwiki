@@ -1,0 +1,4 @@
+'''Carpenters''' are people who make items out of wood. Included here are regular carpenters as well as people who practice specialized carpentry such as cabinet makers and furniture makers.
+
+[[Category:Occupations| Carpenters]]
+[[Category:Sort option categories]]

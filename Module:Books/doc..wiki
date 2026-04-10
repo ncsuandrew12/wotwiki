@@ -1,0 +1,47 @@
+== Tests ==
+
+=== Chapter Navbox ===
+==== [[New Spring]] ====
+{{#invoke:Books|chapter_nav|book=New Spring}}
+==== [[The Eye of the World]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=The Eye of the World}}
+==== [[The Great Hunt]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=The Great Hunt}}
+==== [[The Dragon Reborn]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=The Dragon Reborn}}
+==== [[The Shadow Rising]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=The Shadow Rising}}
+==== [[The Fires of Heaven]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=The Fires of Heaven}}
+==== [[Lord of Chaos]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=Lord of Chaos}}
+==== [[A Crown of Swords]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=A Crown of Swords}}
+==== [[The Path of Daggers]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=The Path of Daggers}}
+==== [[Winter&#39;s Heart]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=Winter&#39;s Heart}}
+==== [[Crossroads of Twilight]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=Crossroads of Twilight}}
+==== [[Knife of Dreams]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=Knife of Dreams}}
+==== [[The Gathering Storm]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=The Gathering Storm}}
+==== [[Towers of Midnight]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=Towers of Midnight}}
+==== [[A Memory of Light]] ====
+<br clear="both" />
+{{#invoke:Books|chapter_nav|book=A Memory of Light}}

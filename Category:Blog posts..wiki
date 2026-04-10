@@ -1,0 +1,2 @@
+'''Blogs''' created by users.
+[[Category:Administrative| Blog posts]]

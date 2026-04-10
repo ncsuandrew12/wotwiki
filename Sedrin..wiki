@@ -1,0 +1,20 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Dead
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Valan Luca
+| death={{Ne|999}}
+| gender=Male
+| mentioned={{tfoh|17}}
+| lastmentioned={{tfoh|17}}
+| living=tfoh
+}}
+{{for|the son of [[Meri do Ahlan a'Conlin]]|Sedrin a'Conlin}}
+'''Sedrin''' was a tight-rope walker in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]].
+
+==History==
+After the show was banned from [[Sienda]], Sedrin tried to perform under the influence of alcohol. He fell off of the high rope and died.{{ref/book|5|17}}
+
+{{notes}}

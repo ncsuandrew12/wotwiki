@@ -1,0 +1,25 @@
+{{creature
+| image=77BDE317-DEAE-4387-9504-717B098E544F.jpeg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| name=Red
+| ewot=Red
+| status=Unknown
+| owner=Rand al'Thor
+| gender=Stallion
+| color=Bay, almost the color of Rand's hair
+| appeared={{teotw|44}}
+}}
+{{dablink|For other uses of the word "red," see [[Red]].}}
+'''Red''' is the name of a horse given to [[Rand al'Thor]] by [[Basel Gill]].
+
+==Appearance==
+Red is a tall bay stallion with a deep chest. His hair is almost the color of Rand's hair.
+
+==Activities==
+Basel Gill gives Rand Red to make the journey from [[Caemlyn]] to [[Fal Dara]].{{ref/book|1|44}} Red carries Rand from [[Fal Dara]] on his hunt for the [[Horn of Valere]] and the [[ruby-hilted dagger]].{{ref/book|2|9}} Rand uses Red when he travels from [[Tremonsien]] to [[Cairhien]]{{ref/book|2|25}} and later across [[Toman Head]]{{ref/book|2|41}} and into [[Falme]].{{ref/book|2|45}} When [[Matrim Cauthon]] blows the Horn of Valere, Rand is confronted by [[Ishamael|Ba'alzamon]] and is thrown from Red's saddle. After this, Red disappears.{{ref/book|2|47}}
+
+{{notes}}
+[[Category:Animals]]
+[[Category:Horses]]

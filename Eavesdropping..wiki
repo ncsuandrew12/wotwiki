@@ -1,0 +1,5 @@
+'''Eavesdropping'''  is a weave in the [[One Power]]; it is usually formed by flows of Air with a touch of Fire. It is used to listen and spy on a conversation from a distance, or from a room to a nearby room or in another floor inside a building. [[Moiraine]] used it a lot and also many other characters.
+
+Some specific [[Ward]] weaves can be used against this kind of spying.
+{{short}}
+[[Category:Weaves]]

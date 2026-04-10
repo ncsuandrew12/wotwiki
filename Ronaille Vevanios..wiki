@@ -1,0 +1,53 @@
+{{ character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ewot=Ronaille
+| nationality=Illianer
+| gender=Female
+| affiliation=The Dragon Reborn
+| rank=Aes Sedai
+| status=Alive
+| ajah=White
+| appeared={{loc|55}}
+| lastappeared={{loc|55}}
+| lastmentioned={{kod|p}}
+| living=kod
+}}
+'''Ronaille Vevanios''' is an [[Aes Sedai]] of the [[White Ajah]]<ref>The Wheel of Time Companion</ref>. Her name indicates that she is from [[Illian]].
+
+== Strength and Abilities ==
+Ronaille is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|33}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.
+
+== Activities ==
+She is one of [[Elaida's White Tower]] Aes Sedai who kidnap and beat [[Rand al'Thor]].
+
+She is stilled by Rand when he breaks free in the [[Battle of Dumai's Wells]] and taken prisoner soon after by the [[Aiel]] [[Wise Ones]].{{ref/book|6|53}} The Wise Ones used mild manners with her because they considered Stilling sufficient punishment.{{ref/book|6|55}}
+
+The other Aes Sedai prisoners try to stay away from the three who have been stilled.{{ref/book|7|2}}
+
+After [[Heal]]ing Irgain Fatamed, [[Damer Flinn]] wants to try Healing Ronaille and Sashalle.{{ref/book|9|13}}
+
+She is [[Healed]] of her [[severing]] by [[Damer Flinn]] and has sworn fealty to [[Rand al'Thor]].{{ref/book|9|25}}
+
+=== The [[Last Battle]] ===
+During the Last Battle she probably fights in [[Thakan'dar]] along the other sworn sisters.
+
+As many Aes Sedai sworn to Rand, Ronaille also probably fights the [[Last Battle]] on the slopes of [[Thakan'dar]].{{ref/book|14|34}} Because it is not stated otherwise it can also be presumed that she survives. It is likely that she has resworn the Three Oaths and was officially reinstated as a sister since the Last Battle.
+
+==Ajah==
+Ronaille's Ajah is never identified in the main books of the saga.
+
+Of the thirty-nine sisters sent to kidnap Rand, 15 were of the [[Red Ajah]]. According to [[Galina Casban]], the remaining sisters were 10 of the [[Green Ajah|Green]] and 12 [[White Ajah]]s (the last two are [[Nesune]] and [[Coiren]], a Brown and a Gray respectively).
+
+Later Ronaille's Ajah is identified as White in "The Wheel of Time Companion".
+
+{{notes}}
+
+{{DEFAULTSORT:Vevanios, Ronaille}}
+[[es:Ronaille Vevanios]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

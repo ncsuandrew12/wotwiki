@@ -1,0 +1,7 @@
+== Revert on [[Aiel terms]] ==
+
+Given the edit summary on [http://wot.wikia.com/index.php?title=Aiel_terms&curid=1074&diff=7217&oldid=7215 your revert], which entries on that page get their own article and which remain as part of that page? --[[User:TheParanoidOne|TheParanoidOne]] 21:22, 18 June 2006 (UTC)
+: I started this page for entries that do NOT warrant a standalone article, such as *-sisters.  I never envisioned it being used for proper nouns such as [[Rhuidean]], [[Wise Ones]], etc. that will be somewhere under [[:Category:Aiel]]. --[[User:Gherald|Gherald]] 23:19, 18 June 2006 (UTC)
+::Righty O, I will stop adding those ones then - [[User:Elliot N|Elliot N]] 18:21, 19 June 2006 (UTC)
+
+I made a small addition to the First-Brothers entry to indicate that near-brothers can potentially go through the Bonding ritual to become First-Brothers as women do.  Though there are no actual examples of this in the book, when Elayne and Aviendha are going through their bonding one of the wise ones says something to the extent of, "Men usually leave at this point."[[Special:Contributions/199.91.34.33|199.91.34.33]] 19:36, 26 September 2008 (UTC)Dastion

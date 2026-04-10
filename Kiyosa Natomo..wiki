@@ -1,0 +1,28 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|197}}
+| ajah=Green
+| nationality=Borderlander
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Kiyosa Natomo''' was an [[Aes Sedai]] of the [[Green Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|171}}.
+
+==History==
+Kiyosa held the position for twenty-six years until her death in {{Ne|197}}. She was [[Medanor Eramandos]]'s successor and [[Catala Lucanvalle]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Her strength of will and strong personality helped her manage [[White Tower|Tower]] affairs, making her a strong Amyrlin.
+
+Due to her Japanese-inspired name, it is likely that she hailed from the [[Borderlands]].
+
+{{notes}}
+{{DEFAULTSORT:Natomo, Kiyosa}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

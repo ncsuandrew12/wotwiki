@@ -1,0 +1,41 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Shienaran
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| occupation=Sitter
+| eyes=Brown, Big
+| status=Alive
+| appeared={{cot|19}}
+| lastappeared={{tgs|43}}
+| living=tgs
+}}
+'''Berana Shemon''' is an [[Aes Sedai]] of the [[White Ajah]]. She has allied herself with the [[Salidar Aes Sedai]] and was elected [[Sitter]] in the [[Rebel Hall of the Tower]], despite being [[Too Young Sitters|too young]]. She has no Warder.
+
+== Appearance and Personality ==
+She is 5'4 1/2 tall, haughty, with big brown eyes cold as snow and dark brown hair. She looks slim compared to [[Aledrin]] and has silver-embroidered white skirts. {{ref/book|10|19}}
+
+==Strength and Abilities==
+Berana is [[Strength in the One Power among Aes Sedai|weak]] in the [[One Power]] for an Aes Sedai, with a strength level of {{opsl|34}}. This is too weak to [[Traveling|Travel]] without linking with another channeler.
+
+She is described as a fast learner.
+
+==History==
+Berana is seventy years old, she was born in the year {{ne|930}} and went to the Tower in {{ne|947}}. After spending ten years as Novice and eight as Accepted she was raised to the shawl in the year {{ne|965}}.
+
+==Activities==
+As a sitter, she votes "yes" on the [[Rebel Aes Sedai]] declaring war on [[Elaida do Avriny a'Roihan]]{{ref/book|8|19}}, and later, for an alliance with the [[Black Tower]]{{ref/book|10|20}}.
+
+She is one of the Sitters to re-swear the [[Three Oaths]] on the [[Oath Rod]] and prove that she is not [[Black Ajah]]. She agrees with Egwene's plans to seize every Aes Sedai and make them re-swear the oaths{{ref/book|12|43}}. She is then part of the unanimous vote to attack the [[White Tower]] with their army.
+
+She steps down as Sitter after the Tower is re-unified{{ref/book|13|27}}.
+
+{{notes}}
+{{DEFAULTSORT:Shemon, Berana}}
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

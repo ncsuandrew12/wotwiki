@@ -1,0 +1,89 @@
+{{character 
+| image=Duhara_Basaheen.jpg
+| imagesize=250px
+| ewot=Duhara
+| ajah=Red
+| nationality=Domani
+| gender=Female
+| affiliation=Black Ajah
+| occupation=Dreadlord
+| rank=Aes Sedai
+| eyes=Big, Dark
+| build=Slim
+| height=Tall
+| status=Dead
+| death={{Ne|1000}}
+| appeared={{ns|14}}
+| lastappeared={{amol|23}}
+|birth = {{ne|764}}}}
+{{quote|The White Tower looks amiss on wilders gathering together. When the Tower looks on something amiss, thrones have been known to tremble.|Duhara Basaheen}}
+'''Duhara Basaheen''' was an [[Aes Sedai]] and a [[Sitter]] of the [[Red Ajah]].{{ref|{{twotc}}, Duhara Basaheen}} For a time she also held the position of [[Keeper of the Chronicles]]. She was also secretly part of the [[Black Ajah]]. She became a Dreadlord before the Last Battle.{{Ref/book|14|23}}
+
+== Appearance and Attitude ==
+Duhara was tall, slim and beautiful with big dark eyes, full lips, long slender neck and the typical [[Domani]] coppery skin, but there was a meanness about her{{Ref/book|0|14}}. She had worn, on both occasions we have met her, red skirts so dark they almost seemed black, although slashed with bright red.
+
+She moved gracefully, but stood almost rigidly straight. She looked at everyone as if she were wondering what wrongdoing they had been up to. Basically she was meaner than a snake, though only her mouth gave any outward hint.
+
+Even the mention of male channelers made her angry. In TWoTC it is stated that during the execution portion of male channelers pogrom, Duhara participated eagerly, but her involvement was discovered and she received a stiff penance (because this [[the Vileness|Vileness]] happened mostly during the reign of the Amyrlin Sierin Vayu and Duhara was her Keeper of the Chronicles, it has still to be explained how Duhara was able to participate so eagerly, and so far from the White Tower.)
+
+== Strength and Abilities ==
+Duhara is of [[Strength in the One Power among Aes Sedai|average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|29}}. She would not be able to [[Traveling|Travel]] without linking with another channeler.
+
+==History==
+Duhara was 236 years old, she was born in [[Arad Doman]] in {{ne|764}} and went to the [[White Tower]] in {{ne|779}}. She was a [[novice]] for twelve years and [[Accepted]] for nine. She was raised to the shawl in {{ne|800}}.
+
+Duhara was elected as [[Sitter]] in the [[Hall]] a first time between 929 and {{ne|953}}. It is not known why she had to step down, in any case she was most likely replaced by [[Lirene Doirellin]], because from TWoTC we know that Lirene took that office exactly in the same year.
+
+Duhara later was chosen as [[Keeper of the Chronicles]] under the reign of the Amyrlin [[Sierin Vayu]] from [[979 NE]] to [[984 NE]]. Sierin had been raised from the [[Gray Ajah]], but she had always maintained a great affinity with the Reds and so she chose two Reds as Keeper and as [[Mistress of Novices]] ([[Amira Moselle]] was the one chosen by Sierin for this second office){{Ref/book|0|14}}.
+
+Since Duhara was over two-hundred years old, it is most likely that by the time she was chosen as Keeper, she was already Black Ajah.
+
+In TWoTC is reported that there was speculation that Duhara might have been involved in Sierin's death, but she was unlikely involved, despite being Red, as the Black had been called off the pogrom in [[983 NE]] when [[Ishamael]] came into the world again.
+
+However in TWoTC is reported also that [[Angharad Juerissen]] was Keeper of the Chronicles for Sierin Vayu; a possible explanation is that Duhara may have stepped down from the office in {{ne|984}} and was briefly replaced by Angharad. It is known that Sierin was killed by a small group of Reds when she was about to put an end to the male channelers pogrom. Maybe the involvement of Duhara in this [[The Vileness|Vileness]] was discovered early and before Sierin death she was forced to resign as Keeper and severely punished. In any case, she was unlikely to have been involved in Sierin's death, as the Black Ajah had been ordered to stop involvement the male channeler pogrom before then and the previous head of the Black Ajah, [[Jarna Malari]], had been murdered by Ishamael for the Black Ajah's involvement in the death of Tamra Ospena.
+
+As every Red she remained loyal to the [[White Tower]] during the [[Schism]] and [[Elaida]] thought that she was Duhara's mistress, and it did seem that way, but Duhara chafed.
+
+After Elaida election as Amyrlin, Duhara was elected as Sitter a second time in [[999 NE]] to replace [[Teslyn Baradon]].
+
+There is a time mistake in TWoTC, where we can read that Duhara stood to depose [[Siuan Sanche]], but at that time she was not a Sitter (the Red Sitters involved in the ''coup d'etat'' were in fact Elaida, [[Pevara]] and Teslyn).
+
+== Activities ==
+Duhara was part of the council advising Elaida when she was first raised to the Amyrlin Seat, a council later disbanded. She met with Elaida and Sitters of the other Ajahs to discuss the Seanchan, the Salidar Aes Sedai, and Rand{{Ref/book|8|25}}.
+
+At that time Elaida thought that Duhara was under her thumb, she noted that Duhara was uncomfortable talking about [[forkroot]], and talk of men who can channel always lighted a fire in Duhara{{Ref/book|8|25}}.
+
+Duhara was sent by Elaida to be the Aes Sedai [[Aes Sedai advisors|advisor]] to [[Elayne]]. The other Aes Sedai in the White Tower were unaware that Duhara had been sent to [[Caemlyn]].
+
+She refused to accept Elayne as being Aes Sedai, because to do so would be to acknowledge the authority of [[Egwene al'Vere]] as [[Amyrlin Seat]] and accept Elaida's defeat.
+
+She made outrageous demands of Elayne and insisted that Elayne needed her and the Tower to help her win [[Andor]]. She also believed that the Houses had not joined Elayne's cause because they knew she didn't have the backing of the Tower. Elayne was furious and unlikely to accept an advisor from Elaida or even an ambassador. She refused Duhara a room in the [[Caemlyn Palace]] and said she would have to find an inn to stay in.
+
+Before leaving the Caemlyn Palace, Duhara threatened the [[Kin]] present there with the full might of the Tower if they did not disperse themselves.
+Now that Elayne has won the Lion Throne, her own beliefs seem to have been shattered.
+
+She purposely began to meet with [[Ellorien Traemane]] so as to be seen meeting with Elayne's enemies to send a warning.
+
+=== Black Ajah ===
+She was listed in [[Verin Mathwin]]'s book as a member of the Black Ajah.
+
+=== The [[Last Battle]] ===
+During the Last Battle, Duhara was co-opted by [[Hessalam]]. Duhara and [[Falion Bhoda]] were in a circle led by Hessalam, and faced off against a circle led by [[Aviendha]] in the valley of [[Thakan'dar]]. After a short duel with the [[One Power]], the two Black sisters were incinerated by Aviendha.
+
+{{notes}}
+{{DEFAULTSORT:Basaheen, Duhara}}
+[[es:Duhara Basaheen]]
+[[Category:Keepers of the Chronicles]]
+[[Category:Sitters]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Basaheen, Duhara}}
+[[es:Duhara Basaheen]]
+[[Category:Keepers of the Chronicles]]
+[[Category:Sitters]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

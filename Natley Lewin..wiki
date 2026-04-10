@@ -1,0 +1,25 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| family=[[Laila Lewin]] (wife), [[Laila Lewin's infant]] (child)
+| gender=Male
+| build=Wide
+| status=Alive
+| appeared={{tsr|32}}
+| lastappeared={{tsr|32}}
+| living=tsr
+}}
+{{dablink|For others with the same surname, see [[Lewin (disambiguation)|Lewin]].}}
+'''Natley Lewin''' is a [[Two Rivers]] resident. He is married to [[Laila Lewin]].
+
+== Appearance ==
+He is very wide, even wider than Laila.
+
+== Activities ==
+He was present on the [[al'Seen]] farm when [[Perrin]] visited with Faile. While emphasizing the dangers of remaining on the farm, Perrin used Natley's infant as an example of something the [[Trolloc]]s could destroy that couldn't be rebuilt.{{ref/book|4|32}}
+
+{{short}}
+{{notes}}
+{{DEFAULTSORT:Lewin, Natley}}

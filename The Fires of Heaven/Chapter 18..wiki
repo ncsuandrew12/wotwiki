@@ -1,0 +1,59 @@
+{{for|the shadowspawn creature|Darkhounds}}
+
+{{summary | book=5||chapter=18
+|title=A Hound of Darkness
+|icon=Faces
+|setting=[[Amador]]}}
+
+{{pov|[[Liandrin]]}}
+
+[[Liandrin]] is riding through [[Amador]] on her way to [[Jorin Arene]]'s house, where she and the rest of the [[Liandrin's group of Black Sisters|Black Sisters]] are staying. The group is awaiting orders from the [[White Tower]], but they have not received any since [[Elaida]] deposed [[Siuan Sanche]]. [[Amellia Arene]] directs Liandrin upstairs to where the other sisters are. There is another woman there―a recent arrival, perhaps from [[Tar Valon]]. When Liandrin enters she finds nine sisters standing, rather than sitting and the tenth, [[Temaile Kinderode]], handing tea to a woman, who is clearly not [[Aes Sedai]]. Suddenly she recognizes the woman as [[Gyldin]], the servant from [[Tanchico]]. When she reaches for the source to discipline the woman, though, Gyldin channels first and shields her. She names herself [[Moghedien]].
+
+Moghedien has tested and disciplined all of the other sisters. Now Moghedien tells Liandrin to attempt to fight back so she can show her how futile it is. Liandrin tries to use [[Compulsion]], but is blocked and punished with pain. Then Moghedien shows her what real Compulsion is like by using it on her. Moghedien uses air to bind the ears and mouth of all but those receiving her orders. Liandrin and four of the other sisters are to find [[Nynaeve al'Meara]]. Moghedien knows they were in Sienda{{ref|Possibly she overheard Nynaeve talking to the [[Wise Ones]] in ''[[Tel'aran'rhiod]]''. See ''[[The Fires of Heaven]]'', [[The Fires of Heaven/Chapter 15|Chapter 15]].}}, but does not know where they disappeared to.
+
+==Characters==
+* [[Liandrin]]
+* [[Amellia Arene]]
+* Fat [[Evan]] cook
+* [[Jeaine Caide]]
+* [[Chesmal Emry]]
+* [[Temaile Kinderode]]
+* [[Rianna Andomeran]]
+* [[Moghedien]]
+* [[Eldrith Jhondar]]
+* [[Asne Zeramene]]
+* [[Marillin Gemalphin]]
+* [[Berylla Naron]]
+* [[Falion Bhoda]]
+* [[Ispan Shefar]]
+
+===Referenced===
+* [[Elaida]]
+* [[Siuan]]
+* [[Egwene]]
+* [[Nynaeve]]
+* [[Elayne]]
+* [[Jorin Arene]]
+* [[Graendal]]
+
+===Groups===
+* [[Whitecloaks]]
+* [[Darkfriend]]
+* [[Black Ajah]]
+
+==Places==
+* [[Amador]]
+
+===Referenced===
+* [[Amadicia]]
+* [[Tarabon]]
+* [[Tar Valon]]
+* [[Tanchico]]
+* [[Pit of Doom]]
+* [[Paaran Disen]]
+* [[Asar Don]] Age of Legends reference
+* [[Saldaea]]
+* [[Sienda]]
+
+{{notes}}
+{{DISPLAYTITLE:''A Hound of Darkness''}}

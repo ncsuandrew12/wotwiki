@@ -1,0 +1,92 @@
+{{quote|To stand against the Shadow so long as iron is hard and stone abides. To defend the Malkieri while one drop of blood remains. To avenge what cannot be defended.| [[Agelmar Jagad]] on the ancient Malkieri oath sworn for [[Lan]] by his parents}}
+
+{{summary | book=1 | chapter=47
+|title=More Tales of the Wheel
+|icon=Ravens
+|setting=[[Fal Dara]]
+}}
+==Summary==
+:{{pov|[[Rand al'Thor]]}}
+
+[[Rand]], [[Mat]], [[Perrin]], [[Nynaeve]] and [[Egwene]] are waiting with [[Agelmar]] for [[Moiraine]] to return from her interrogation of [[Padan Fain]]. Agelmar provides some of the history of [[Lan]] and the Kingdom of Malkier that should have been his. He tells the story of the [[Fall of Malkier]]. [[Breyan Mandragoran]], Lan's aunt, was envious of the fact that Lan's father [[Al'Akir Mandragoran|al'Akir]] was raised as King rather than her husband [[Lain Mandragoran|Lain]]. She drove her husband to lead an expedition into the Blight with much needed men, and when all fell she blamed al'Akir for her husband's death. Plotting with the [[Darkfriend]] [[Cowin Gemallan]], they issued orders to withdraw more men from the Borderforts in an attempt to seize the throne for Breyan's son, [[Slayer|Isam]]. Trollocs poured from the Blight and overwhelmed the weakened garrisons, and although Cowin was killed in single combat by al'Akir, it was not enough and Malkier was overrun. Twenty trusted retainers were chosen to take the infant Lan out of the palace as the nation crumbled and five made it to [[Fal Moran]] where Lan was raised. The Trollocs were ultimately repelled by the other Borderland nations, but by then the Blight had swallowed Malkier. Lan swore an oath to defend against the [[Shadow]] for as long as he lives, and to avenge what cannot be defended. As Malkier is lost and can no longer be defended, Lan has lived his entire life seeking vengeance on the Shadow.
+
+Moiraine and Lan return and recount what they learned from Fain. He has been a Darkfriend for forty years and has been hunting the boys for three years. Three years ago he was chosen to be the Dark One's hound and brought to [[Shayol Ghul]] by a [[Myrddraal]]. There he was tortured and broken, changed so that he could hunt for whom the Dark One sought. He was chosen because his route as a peddler brought him to the Two Rivers and its surrounding areas. Eventually he realized the Dark One's target was one of three boys in [[Emond's Field]], and then he brought the Trollocs to the [[Two Rivers]] using the [[Ways|Waygate]] at [[Manetheren]]. After his target escaped, he was tortured again by the Myrddraal and [[Trolloc]]s he was forced to travel with. Fain went with them to [[Shadar Logoth]] where he finally escaped as [[Mashadar]] consumed the [[Shadowspawn]], but even then he felt compelled to continue to hunt for Rand and the others alone. Barely able to stop to eat and rest, he followed the party incessantly through the Ways until he was captured at [[Fal Dara]].
+
+After learning all this, Agelmar tries to get Moiraine to delay their departure for the [[Eye of the World]] so that Padan Fain can be interrogated further regarding the Eye. But Moiraine insists that no delay can be countenanced. Agelmar tries again to send a few men to assist Moiraine, but she says that it must be the others she has brought with her and no others; this causes Agelmar to suspect that Rand, Mat and Perrin may be [[Saidin|male channelers]]. Moiraine says that all three of them are ''[[ta'veren]]'', which Agelmar doubts; she then invokes the old blood of Manetheren, which finally satisfies Agelmar. Rand notices that Moiraine said that ''almost'' all of them have the blood of Manetheren.
+
+==Characters==
+* [[Perrin Aybara]]
+* [[Rand al'Thor]]
+* [[Mat Cauthon]]
+* [[Agelmar Jagad]]
+* [[al'Lan Mandragoran]]
+* [[Moiraine Damodred]]
+* [[Loial]]
+* [[Nynaeve al'Meara]]
+* [[Egwene al'Vere]]
+
+===Referenced===
+* [[Dark One]]
+* [[Padan Fain]]
+* [[al'Akir Mandragoran]]
+* [[el'Leanna Mandragoran]]
+* [[Lain Mandragoran]]
+* [[Breyan Mandragoran]]
+* [[Cowin Gemallan]]
+* [[Isam]]
+* [[Ba'alzamon]]
+* [[Mashadar]]
+* [[Jain Charin]]
+* [[Black Wind]]
+
+===Groups===
+* [[Trollocs]]
+* [[Darkfriends]]
+
+==Places==
+* [[Fal Dara]]
+
+===Referenced===
+* [[Tear]]
+* [[Andor]]
+* [[Malkier]]
+* [[Fal Moran]]
+* [[Shienar]]
+* [[Arafel]]
+* [[Kandor]]
+* [[Murandy]]
+* [[Blight]]
+* [[Blasted Lands]]
+* [[Shayol Ghul]]
+* [[Baerlon]]
+* [[Whitebridge]]
+* [[Lugard]]
+* [[Tar Valon]]
+* [[Manetheren]]
+* [[Shadar Logoth]]
+* [[Caemlyn]]
+* [[Two Rivers]]
+* [[Tarendrelle]] as Taren
+* [[Winespring Inn]]
+* [[Emond's Field]]
+* [[Mafal Dadaranell]]
+* [[Herat's Crossing]]
+* [[Stair of Jehaan]]
+* [[Mountains of Mist]]
+* [[Tarwin's Gap]]
+* [[Eye of the World]]
+
+==Concepts==
+* [[Light]]
+* [[Age of Legends]]
+* [[Shadow]]
+
+==Events==
+===Referenced===
+* [[Fall of Malkier]]
+* [[War of Power]]
+
+==Items==
+* [[Ruby-hilted dagger]]
+
+{{DISPLAYTITLE:''More Tales of the Wheel''}}

@@ -1,0 +1,24 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| build=Massive
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Unknown society
+| status=Alive
+| appeared={{tfoh|3}}
+| lastappeared={{tfoh|3}}
+| living=tfoh
+}}
+'''Jenric''' is one of the [[Aiel]] in [[Rhuidean]]. 
+
+== Appearance ==
+He is a massively built man and considers himself a wit.
+
+== Activities ==
+He plays a game of knives with [[Matrim Cauthon]] until he realizes how good Mat's luck is.{{ref/book|5|3}}
+
+{{notes}}

@@ -1,0 +1,14 @@
+{|align=center border=0 cellpadding=3 cellspacing=3 style="border: 1px solid #E0E0E0; background-color: #242424"
+|-
+| http://images3.wikia.nocookie.net/__cb20060908181209/wot/images/9/94/Smallwikipedialogo.png
+| style="font-size: 90%" |'''[[Wikipedia:Main Page|Wikipedia]]''' has an article about this subject at ''[[Wikipedia:{{{1|{{PAGENAME}}}}}|{{{1|{{PAGENAME}}}}}]]''.  This page aims to provide supplemental material not suitable for a general encyclopedia... such as detailed plot analyses, summaries, or [[wikipedia:fandom|fandom]].
+|}
+
+<noinclude>''Note: {{tl|enWPcontent}} should be used when our article was originally started on Wikipedia; otherwise use <nowiki>{{enWP}}</nowiki>.''
+
+These templates should primarily be used on talk pages, with a [[Template:wikipedia]] somewhere in the main article (usually at the bottom, by external links).
+
+However, the enWP templates may be appropriate for use on article pages for which Wikipedia maintains a good general encyclopedic article, such [[Robert Jordan]] and [[The Wheel of Time]].
+
+</noinclude><noinclude>
+[[Category:Linking templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,17 @@
+{{Character 
+| image=AradDomanFlag.png
+|imagesize   = 250px
+|nationality = Domani
+| death      ={{ne|1000}}
+| eyes      = 
+|status      = Dead
+| title=Lady
+|gender      = Female
+| mentioned   = {{tpod|12}}
+}}'''Tuva''' was a noble Lady from [[Arad Doman]] and a cousin of King [[Alsalam Saeed Almadar|Alsalam]].{{ref|{{twotc}}, Tuva}}
+
+== Activities ==
+[[Graendal]] sends [[Nazran]] as a messenger to [[Rodel Ituralde]]. He is said to tell Ituralde that the previous letter-bearer, Lady Tuva, had been killed by a [[Gray Man]]. She was presumably killed for real by Graendal or perished during Rand's destruction of [[Natrin's Barrow]].
+
+{{notes}}
+[[Category:Nobility]]

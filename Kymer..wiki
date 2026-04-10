@@ -1,0 +1,27 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| occupation=Wise One
+| gender=Female
+| hair=Deep red
+| clan=Tomanelle
+| sept=Unknown sept
+| status=Alive
+| appeared={{amol|p}}
+| lastappeared={{amol|p}}
+| living=amol
+}}'''Kymer''' is a [[Wise One]] of the [[Tomanelle]] [[Aiel]].{{ref|{{twotc}}, Kymer}}  [[Han]] is her sister-father.
+
+== Appearance ==
+She is ten years older than [[Aviendha]]. She has deep red hair and a long tanned face.
+
+== Activities ==
+Kymer is one of the Wise Ones who is present when Aviendha tells the group of her visions of the future, and the fall of the Aiel. The women rationalize that it is because Rand will leave the Aiel adrift by excluding the Aiel from his plans tomorrow. They plan to fight this future, even if it cannot be changed.
+
+== Trivia ==
+* Kymer is named for Kimberly Readdy, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{Short}}
+[[Category:Characters named after fans]]

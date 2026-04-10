@@ -1,0 +1,30 @@
+{{ character 
+| image=MalkierFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Malkier
+| occupation=Merchant
+| affiliation=Lan Mandragoran
+| gender=Male
+| appeared={{kod|20}}
+| lastappeared={{tom|23}}
+| living=tom
+}}
+{{dablink|For the similarly named [[Asha'man]], see [[Welyn Kajima]]. For the similarly named [[Warder]] of [[Rina Hafden]], see [[Waylin]].}}
+
+'''Weilin Aldragoran''' is a merchant born in [[Malkier]] who resides in [[Saldaea]].{{ref|{{twotc}}, Weilin Aldragoran}} His wife is [[Alida]].
+
+== Appearance ==
+He is growing a bit soft around the stomach. He wears the ''[[hadori]]''.
+
+== History ==
+He was a toddler when the [[Trolloc]]s wiped out Malkier. He must have escaped and now lives in [[Saldaea]]. 
+
+== Activities ==
+[[Nynaeve al'Meara]] visits him in Saldaea telling him that the [[Golden Crane]] has been raised and that [[Lan Mandragoran]] rides into the [[Blight]]. Aldragoran decrees that Lan will not ride alone.
+
+He sells everything he owns to purchase supplies for Lan's company. He catches up with Lan close to the border of [[Arafel]] and is introduced to him by [[Andere]]. Lan grudgingly accepts him into the group only if he swears not to reveal who Lan is.
+
+{{notes}}
+{{DEFAULTSORT:Aldragoran, Weilin}}
+[[Category:POV character]]

@@ -1,0 +1,58 @@
+{{WotQ|{{PAGENAME}}}}
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Illianer
+| birth={{ne|777}}
+| gender=Female
+| rank=Aes Sedai
+| affiliation=White Tower
+| build=Stout and plump
+| hair=Graying
+| status=Alive
+| appeared={{tfoh|27}} 
+| lastappeared={{tom|37}}
+| living=tom
+}}
+'''Morvrin Thakanos''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref/book|c|Morvrin Thakanos}}
+
+==Appearance==
+Morvrin is 5'5" tall, round-faced and stout, with graying hair, brown eyes, plump hands, and ample hips.{{ref/book|5|27}}{{ref/book|5|50}}
+
+Morvrin is a placid sort, and sometimes has an absently vague look. She requires a great deal of proof for anything.
+
+==Strength and Abilities==
+Morvrin is [[Strength in the One Power among Aes Sedai|strong]] in the [[One Power]] for an Aes Sedai. Among the [[Salidar Six]], she is equaled by [[Myrelle Berengari]], [[Carlinya Sorevin]] and [[Anaiya Carel]] with only [[Sheriam Bayanar]] stronger and [[Beonin Marinye]] weaker. However Morvrin serves the distinction of being much more senior, having worn the shawl for more than a hundred and fifty years longer than the others.
+
+She is strong enough to [[Traveling|Travel]].
+
+==History==
+Morvrin is 223 years old. She was born in the year {{ne|777}} in Illian and went to the Tower in {{ne|795}}. After spending seven years as novice and six as Accepted she was raised to the shawl in the year {{ne|808}}.
+
+She has a single [[Warder]], [[Jori]].
+
+She says she believes in common sense more than logic, though she more often blends the two. She is hard-headed and suspicious of easy answers.{{ref/book|10|16}}
+
+==Activities==
+=== Into [[Salidar]] ===
+She was one of the original leaders of the [[Salidar Aes Sedai]], known informally to fans as the [[Salidar Six]]. While searching the Amyrlin's study in ''[[Tel'aran'rhiod]]'' for information on what [[Elaida do Avriny a'Roihan|Elaida]] had received, the Salidar Six were attacked by a stray nightmare of [[Trolloc]]s. They were saved when [[Elayne Trakand]] and [[Siuan Sanche]] had to remind them about the dream not being real, at which point the nightmare faded away.{{ref/book|6|7}}
+
+She was with the rest of the Salidar Six in ''Tel'aran'rhiod'' when they summoned [[Egwene al'Vere]] to become Amyrlin.
+
+When Egwene was brought before the [[Rebel Hall of the Tower]] as a candidate for Amyrlin, Morvrin, [[Myrelle Berengari]], and [[Sheriam Bayanar]] are the three sisters that enter the Hall as her necessary representatives.
+
+She swore an oath of fealty to Egwene and became a member of [[Egwene's Council]]. She was with Egwene and [[Gareth Bryne]] when they surveyed the area around Tar Valon.{{ref/book|10|16}}
+
+=== Egwene captive ===
+She was in council with Egwene's other advisors over Egwene's disappearance when Siuan arrived with the news that Egwene was still alive but prisoner inside the White Tower.{{ref/book|11|p}} She woke [[Beonin Marinye]] with this news.
+
+When the [[Black Ajah]] attacked Egwene and other female channelers following a meeting ''Tel'aran'riod'', Morvrin was there. She was one of the Aes Sedai who Egwene invited to flee before the [[Battle in Tel'aran'rhiod]] started.{{ref/book|14|37}}
+
+{{notes}}
+{{DEFAULTSORT:Thakanos, Morvrin}}
+[[es:Morvrin]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

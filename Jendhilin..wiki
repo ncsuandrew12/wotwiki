@@ -1,0 +1,17 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| society=Far Dareis Mai
+| clan=Miagoma
+| sept=Cold Peak
+| gender=Female
+| affiliation=Car'a'carn
+| status=Dead
+| mentioned={{wh|34}}
+| lastmentioned={{tgs|29}}
+}}
+'''Jendhilin''' was a [[Maiden of the Spear]] of the [[Cold Peak]] [[Miagoma]]. 
+
+== History ==
+[[Rand al'Thor]] considers her to be one of the women who have died for him. She died while guarding his door.

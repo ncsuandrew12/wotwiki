@@ -1,0 +1,21 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| ewot=lindsar
+| race=Ogier
+| gender=Female
+| height=
+| hair=
+| status=Alive
+| appeared={{amol|42}}
+| lastappeared={{amol|42}}
+| living=amol
+| rank=
+}}'''Lindsar''' is an [[Ogier]] woman who is the eldest of the Ogier in [[Stedding Sholoon]].{{ref|{{twotc}}, Lindsar}} Though she was too old to fight in the [[Last Battle]], she allowed [[Androl Genhald]] and [[Pevara Tazanovni]] to use the ''[[stedding]]'' to trap a group of [[Darkfriends]], including [[Alviarin Freidhen]], some of [[Mazrim Taim|Mazrim Taim’s]] cronies, and some [[Aes Sedai]] and [[Asha'man]] who had been [[Turned]] to the [[Shadow]]. She thought that a few decades in the peace of the ''stedding'' might change their outlook.
+
+== Trivia ==
+* Lindsar is named for Lindsay Johnson, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{short}}
+[[Category:Characters named after fans]]

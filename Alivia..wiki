@@ -1,0 +1,75 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| birth={{ne|586}}
+| height= Short
+| status=Alive 
+| eyes=Blue
+| hair=Golden yellow with threads of white
+| affiliation=Dragon Reborn
+| nationality=Seanchan
+| gender=Female
+| mentioned={{Tpod|23}}
+| appeared={{wh|11}}
+| lastappeared={{amol|42}}
+| lastmentioned={{amol|e}}
+| living=amol
+}}'''Alivia''' is a former ''[[damane]]'' from [[Seanchan]]. Despite being enslaved for four centuries, she has not been fully brainwashed like other ''damane'', and has an intense hatred of ''[[sul'dam]]'' and the tyrannical culture of Seanchan.
+
+Alivia is the most powerful known female channeler to have been born in the [[Third Age]].
+
+== Appearance ==
+She has blue eyes and golden yellow hair with threads of white running through it. She has fine lines at the corners of her eyes and speaks with a slow Seanchan drawl. She is a little taller than [[Nynaeve al'Meara]].
+
+==Abilities==
+Alivia's channeling abilities are ranked as being {{opsl|7}} in the Wheel of Time Companion, which is the greatest possible strength in the One Power for a woman. There are only two other woman of equal strength, and both are Forsaken, born thousands of years earlier than Alivia:  [[Lanfear]] (before she was drained by the [[Finn]]) and [[Semirhage]]. Additionally, having been used as a living weapon by the Seanchan for around four hundred years, she is extremely adept at creating destructive weaves.
+
+Due to her remarkable strength in the Power, her background, a prediction from [[Elmindreda Farshaw|Min Farshaw]], and her apparent loyalty to only [[Rand al'Thor|Rand]], his [[Aes Sedai]] entourage has been unwilling to teach Alivia anything they know about the Power. However, she manages to pick up on some of their weaves by observing them.
+
+As with many of the strongest channellers, Alivia has the ability to reproduce a weave after seeing it performed only once.
+
+== History ==
+Alivia was born in {{Ne|586}} and was made ''damane'' when she was only thirteen or fourteen years old. So now she is 414 years old and one of the oldest people living, but in many aspects she still retains the personality of a teenager. She was captured by Rand's forces during their battle with Seanchan in [[Altara]] and killed nine [[Defenders of the Stone]] and one Asha'man Soldier when they tried to remove her ''[[a'dam]]''.
+
+==Activities==
+=== Freedom ===
+After the battle, she and her ''[[sul'dam]]'' are sent to [[Elayne Trakand]] in [[Caemlyn]]. After Elayne and [[Reanne Corly]] determine that she is ready to have her ''a'dam'' removed, she no longer fears anyone or anything. When Rand and Nynaeve depart for [[Far Madding]], Alivia insists on coming.
+She goes with Min to find [[Cadsuane Melaidhrin]] when Rand is captured by the Far Madding guards and placed in prison.
+She participates in the [[Battle near Shadar Logoth]] where she borrows Nynaeve's ring-and-bracelet ''[[ter'angreal]]'' and ''[[angreal]]''. She attacks [[Cyndane]], who is very surprised at how strong she is in the One Power, and forces her to retreat. Cyndane, however, breaks her arm and sears it to the bone, though this injury is completely Healed after the battle by [[Damer Flinn]].
+
+Alivia claims that she hates all ''sul'dam''. She claims that she didn't voice it as soon as she was captured because she was afraid that she would be recaptured. She now wants to kill the ''sul'dam''. Rand does not fully trust Alivia, but she has appointed herself as his unofficial protector. She credits Rand with being the one to free her of her ''a'dam''.
+
+She and the rest of Rand's group [[Travel]] to [[Algarin Pendaloan]]'s house in [[Tear]], where Rand recovers after the [[Cleansing of saidin|cleansing of ''saidin'']]. She now stands bodyguard to Rand's quarters, being very selective on who she allows in to see him.
+
+She is very quick to learn with the One Power, only needing to see a weave once to recreate it, an example being her driving the flies away from the dead [[Saldaean]] bodies after the battle with the [[Trolloc]]s at Algarin's house. Rand compliments her on learning so well, which seems to embarrass her, but also encourages her. Rand doesn't allow her to come to his meeting with who he thought was the [[Daughter of the Nine Moons]]. He is worried that she will slip into her old habits of being ''damane'' if exposed to any Seanchan.
+
+She Travels to [[Arad Doman]] and stays with Rand at Lord [[Tellaen]]'s manor.
+
+=== Last Battle ===
+Alivia fought in [[Tarmon Gai'don]] at [[Thakan'dar]][[Tha'kandar|<nowiki/>]] under [[Aviendha]]'s command. She joined Aviendha, Cadsuane, Amys and Talaan in fighting Graendal. She survived the Last Battle. She also provided Rand with clothing and money in order for him to vanish along with the news of his apparent death.
+
+== Viewing ==
+Min Farshaw foresaw that Alivia would "help Rand die" - the exact meaning of this prediction was unclear. It was a source of a great deal of distrust for her from Rand's advisers and friends; ironically Rand himself trusted her more because of it.
+
+After the [[Last Battle]], it is revealed that the vision of Alivia helping Rand to die means that she helps him disappear. She secretly fetches him clothes and money to start his new life. 
+
+[[es:Alivia]]
+
+{{Primary Protagonists}}
+{{notes}}
+[[Category:Damane]]
+[[Category:Channelers]]
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Ever Victorious Army]]<references />
+[[Category:Damane]]
+[[Category:Channelers]]
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Ever Victorious Army]]
+<references />
+[[Category:Damane]]
+[[Category:Channelers]]
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Ever Victorious Army]]

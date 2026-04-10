@@ -1,0 +1,48 @@
+{{character
+| image=Merean Redhill.jpg
+| imagesize = 250px
+| ewot=Merean
+| nationality=Andoran
+| ajah=Blue
+| affiliation= Black Ajah
+| rank=Aes Sedai
+| title=[[Mistress of Novices]]
+| gender=Female
+| birth={{ne|716}}
+| death={{ne|979}}
+| build=Plump
+| hair=Gray
+| mentioned={{ns|2}}
+| appeared={{ns|5}}
+| lastappeared={{ns|26}}
+| lastmentioned={{ns|e}}
+| status=Dead
+}}
+{{dablink|For the similarly named first [[queen]] of [[Shienar]], see [[Merean Tihomar]]. For the Aes Sedai of [[:Category:Unknown Ajah|unknown Ajah]] with the same last name, see [[Jestian Redhill]].}}
+
+'''Merean Redhill''' (pronounced: MEH-ree-an red-hill) was an [[Aes Sedai]] of the [[Blue Ajah]] publically, and secretly a member of the [[Black Ajah]].{{ref/book|c|Merean Redhill}}
+
+==Appearance==
+She was plump and motherly with graying hair. She was 5'8 tall.
+
+==Strength and Abilities==
+She was [[Strength in the One Power among Aes Sedai|very strong]] in the [[One Power]], with a strength of {{opsl|20}}, only a little below [[Moiraine]]'s ultimate strength. Few would have been her equal, and even fewer would have surpassed her.
+
+==History==
+She was Aes Sedai for nearly 200 years. She was born in {{ne|716}}.
+
+She was the [[Mistress of Novices]] under [[Noane Masadim]] and under [[Tamra Ospenya]]. She was very good at finding out what novices didn't want her to know. Nonetheless, she was kind and comforting to all novices, and generally warm and easygoing. Most initiates could not figure her out—she could soothe very well, but would go easy on an initiate for one offense only to be a harsh disciplinarian for another, lesser infraction. Still, she was very good to talk to and most initiates went to her on their own more often than for punishment.
+
+Shortly after the [[Aiel War]], Merean summoned the [[Accepted]] [[Moiraine Damodred]] and [[Siuan Sanche]] to test for the shawl.
+
+After Tamra's death and the rise of [[Sierin Vayu]] as Amyrlin, Merean was replaced as Mistress of Novices. She became one of the Black Ajah's searchers for the [[Dragon Reborn]], after they discovered his rebirth. Her search eventually led her to [[Kandor]], where she crossed paths with [[Lan Mandragoran]] and Moiraine. She tried to kill them, and did kill [[Diryk]], prince of Kandor, [[Brys]], the consort and Swordbearer of [[Queen]] [[Ethenielle Kirukon Materasu]] of Kandor, and [[Iselle Arrel]], the daughter of [[Edeyn Arrel]], Lan's [[carneira]]. When Merean grew overconfident and turned away, Moiraine managed to kill her with a knife in the back after a severe duel with the [[One Power]]. To keep the Black Ajah hidden Moiraine burnt Merean's body.
+
+She bonded a Warder more than ten years after becoming Aes Sedai, and after he died never bonded another. People whispered that she was in love with him. The truth is, he was a Darkfriend; she did not want to deal with a non-Darkfriend Warder, and never found another she thought suitable. She also never felt the need for a Warder as she was not bound by the Three Oaths.
+
+{{notes}}
+{{DEFAULTSORT:Redhill, Merean}}
+
+[[es:Merean Cerro Rojo]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

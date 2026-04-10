@@ -1,0 +1,25 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| name=Wind
+| ewot=Wind
+| status=Alive
+| owner=Olver
+| gender=Gelding
+| color=Gray
+| appeared={{loc|22}}
+| lastappeared={{cot|2}}
+}}
+{{dablink|For other uses of the word "wind," see [[Wind]].}}
+
+'''Wind''' is the name of a [[horse]] ridden by [[Olver]] cross-country as well as successfully on the racetrack in [[Ebou Dar]].{{ref|{{twotc}}, Wind(3)}}
+
+==Appearance==
+Wind is a leggy, high stepping gray gelding.
+
+==Activities==
+When [[Matrim Cauthon]] discovers that Olver has come with the [[Band of the Red Hand]], he gives Olver Wind so that he can be Mat's personal messenger.{{ref/book|6|44}} Wind carries Olver through [[Altara]], into [[Salidar]]{{ref/book|6|38}} and later to [[Ebou Dar]].{{ref/book|6|44}} While in Ebou Dar, [[Nalesean Aldiaya]] teaches Olver to race Wind{{ref/book|6|52}} and later Wind and Olver win a race at the [[Silver Circiut]].{{ref/book|7|14}} Olver rides Wind when they leave Ebou Dar.{{ref/book|10|2}} Wind is presumably currently residing in the area where the [[Band of the Red Hand]] keep their horses.
+
+{{notes}}

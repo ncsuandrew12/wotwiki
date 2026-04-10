@@ -1,0 +1,23 @@
+{{creature
+| image=Mice-icon.svg
+| imagesize=100px
+| ewot=Scratch
+| name=Scratch
+| type=pets
+| animal=Cat
+| status=Alive
+| owner=Brandelwyn al'Vere
+| gender=Male
+| color=Yellow
+| appeared={{teotw|2}}
+| lastappeared={{tsr|30}}
+}}
+'''Scratch''' is a yellow cat owned by [[Brandelwyn al'Vere]] that lives in the [[Winespring Inn]] in [[Emond's Field]].
+
+==Appearance==
+Scratch is a yellow tomcat.
+
+==Activities==
+Scratch usually sleeps in the common room of the Winespring Inn.{{ref/book|1|2}} He is sometimes startled by activities there{{ref/book|4|29}} and is often unnoticed by other people.{{ref/book|4|30}}
+
+{{notes}}

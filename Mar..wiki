@@ -1,0 +1,23 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Unknown nationality
+| rank=Scout
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| height=Tall
+| build=Lanky
+| status=Alive
+| appeared={{loc|40}}
+| mentioned={{loc|38}}
+| lastappeared={{amol|p}}
+| living=amol
+}}
+'''Mar''' is a member of [[Matrim Cauthon]]'s [[Band of the Red Hand]].
+
+== Appearance ==
+He is tall and lanky with a rough face.
+
+== Activities ==
+He was captured by a [[Warder]] when he was scouting the area around [[Salidar]].
+He fights with the Band against the [[Shadowspawn]] army razing [[Caemlyn]].

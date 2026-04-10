@@ -1,0 +1,43 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| birth={{ne|983}} 
+| status=Dead
+| death={{ne|999}}
+| gender=Female
+| affiliation=Two Rivers
+| appeared={{teotw|r}}
+| lastappeared={{teotw|r}}
+| lastmentioned={{tsr|56}}
+}}
+{{for|others with the same surname|Aybara}}
+'''Adora Aybara''' was [[Perrin]]'s sister.
+
+== Murder ==
+She was killed by [[Padan Fain]] at age sixteen alongside her father and mother, [[Con Aybara|Con]] and [[Joslyn Aybara]], and [[Paet]], her brother, and [[Deselle]], her sister. Their deaths are blamed on Trollocs.{{ref/book|4|29}}
+
+== Namesake ==
+Adora is also the name of Perrin and [[Faile]]'s hypothetical [[Adora Aybara (granddaughter of Perrin)|granddaughter]] in one of the visions of possible futures that [[Rand al'Thor|Rand]] experiences while confronting the [[Dark One]], presumably named for Perrin's late sister.
+{{notes}}
+{{DEFAULTSORT:Aybara, Adora}}
+
+[[es:Adora Aybara]]
+[[Category:Short pages]]<references />
+{{DEFAULTSORT:Aybara, Adora}}
+
+[[es:Adora Aybara]]
+[[Category:Short pages]]
+
+<br />
+
+{{DEFAULTSORT:Aybara, Adora}}
+
+[[es:Adora Aybara]]
+[[Category:Short pages]]
+
+<br /><references /><references />
+{{DEFAULTSORT:Aybara, Adora}}
+
+[[es:Adora Aybara]]
+[[Category:Short pages]]

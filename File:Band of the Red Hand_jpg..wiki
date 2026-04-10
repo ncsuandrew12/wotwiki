@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| ImageType2         = CCG
+| Description        = The [[Second Squadron]] of the [[Band of the Red Hand]].
+| Source             = The "[[Dark Prophecies]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = David Cherry
+}}

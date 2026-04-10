@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Miscellaneous
+| Description        = The first [[Mirror World]] visited by [[Rand al'Thor]].
+| Source             = The cover of ''[[The Hunt Begins]]''
+| Artist             = Charles Keegan
+}}
+[[Category:Featured images]]

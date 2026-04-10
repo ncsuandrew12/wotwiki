@@ -1,0 +1,48 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Altaran
+| gender=Female
+| rank=Elder
+| occupation=Wise Woman
+| affiliation=The Kin
+| build=Bone-lean
+| hair=Dark with long, white streaks
+| status=Alive
+| eyes=Dark
+| appeared={{acos|31}}
+| lastappeared={{tpod|1}}
+| living=tpod
+}}'''Tamarla''' is one of the [[Kin]] and a member of the [[Knitting Circle]] in [[Ebou Dar]].{{ref|{{twotc}}, Tamarla|comp}}
+
+==Appearance==
+She has long streaks of white in her dark hair. She is bone-lean with olive skin and dark eyes.
+
+==Strength==
+Her level of strength is {{opsl|53}}, a very low level, two levels below the [[Daigian Moseneillin|weakest known Aes Sedai]].
+
+==History==
+Tamarla was born in [[Altara]] in {{ne|681}}. She went to the [[White Tower]] in {{ne|696}} and, after spending two years as [[Novice]], was put out because she had reached her potential and was not strong enough to be tested as [[Accepted]].{{ref||comp}}
+
+==Activities==
+She is insulted that the [[Aes Sedai]] think the Kin are lying about their numbers. [[Sareitha Tomares]] calls her a liar to her face.{{ref/book|7|37}}
+
+She is among the Kin who accompany [[Elayne Trakand]] and [[Nynaeve al'Meara]] to the [[Rahad]] to find the [[Bowl of the Winds]]. She only just survives when the ''[[gholam]]'' attacks. Nynaeve seems to find her injuries difficult to [[Healing|Heal]], but [[Sumeko Karistovan]] steps in and saves her, using techniques even Nynaeve does not know. After Tamarla is Healed she takes care of [[Janira]]'s dead body.{{ref/book|7|38}}
+
+Tamarla shows respect for [[Matrim Cauthon]].{{ref/book|7|39}}
+
+She [[Traveling|Travels]] with the the rest of the group led by Nynaeve and Elayne from Ebou Dar to the Kin's [[farm]] with the Bowl of the Winds. She pulls of [[Ispan Shefar]]'s hood in a rough manner.{{ref/book|8|1}}
+
+She is one of the Kin who is ready to come to blows with the [[Sea Folk]] [[Windfinder]]s and embraces the Source ready for a fight.{{ref/book|8|1}}
+
+Tamarla is not mentioned after [[The Path of Daggers/Chapter 1]], but would have travelled to Caemlyn with Elayne and stayed at least until sha had gained the throne. The Knitting Circle was disbanded as their authority only held in Ebou Dar. Her weakness in the Power means that she would likely not have gone back to the White Tower and cannot return to Ebou Dar. Like [[Alise Tenjile]], she may have agreed to terms by [[Elayne Trakand]] for some of Kin to serve the Andoran crown.{{ref/book|13|17}}
+
+==Errata==
+[[The Wheel of Time Companion]] says that [[Kirstian Chalwin]] is the youngest member of the [[Knitting Circle]], but the birth years given puts Tamarla as a year younger than her. She appears much older, however, because of her relative weakness in the One Power.{{ref|{{twotc}}, Kirstian Chalwin}}{{ref||comp}}
+
+
+{{notes}}
+[[Category:Kinswomen]]
+[[Category:Farm Group]]
+[[Category:Channelers]]
+[[Category:Novices]]

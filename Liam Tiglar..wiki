@@ -1,0 +1,23 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| title=
+| affiliation=Black Tower
+| gender=Male
+| rank=Asha'man
+| build=
+| height=
+| appeared=
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| lastappeared=
+| living=
+}}
+'''Liam Tiglar''' is an [[Andoran]] [[Asha'man]].
+
+==History==
+He is employed by [[Mazrim Taim]] to spy on the various noble houses of [[Cairhien]] when the city is ruled in the name of the [[Dragon Reborn]].<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{DEFAULTSORT:Tiglar, Liam}}
+[[Category:Characters only mentioned in the RPG]]

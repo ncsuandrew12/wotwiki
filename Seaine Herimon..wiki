@@ -1,0 +1,76 @@
+{{character 
+| image=Seaine Herimon.png
+| imagesize=250px
+| ewot=Seaine
+| ajah=White
+| nationality=Murandian
+| gender=Female
+| affiliation=White Tower
+| occupation=Sitter
+| rank=Aes Sedai
+| eyes=Watery blue
+| hair=Black, thick
+| status=Alive
+| mentioned={{acos|8}}
+| appeared={{acos|32}}
+| lastappeared={{amol|21}}
+| living=amol
+|birth =841NE}}
+
+'''Seaine Herimon''' is an [[Aes Sedai]] of the [[White Ajah]] and a [[Sitter]] in the [[Hall of the Tower]].{{ref|{{twotc}}, Seaine Herimon}}
+
+== Appearance and Abilities ==
+
+Seaine is a [[Murandian]] with watery blue eyes and thick black hair and eyebrows.
+
+==Strength and Abilities==
+Seaine is [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai, with a [[One Power]] level of {{opsl|23}}. She is strong enough to be able to [[Traveling|Travel]]. Among the [[Black Ajah Hunters]], however, she is the weakest.
+
+== History ==
+Seaine is the daughter of a furniture-maker from [[Lugard]]. All her family are now long dead.
+
+She is 159 years old. She was born in {{ne|841}} and went to the [[White Tower]] in {{ne|856}}; she convinced her father to buy her and her mother passage to Tar Valon, but only to buy passage for one coming back. After spending six years as a [[novice]] and four years as [[Accepted]], she was raised to the [[shawl]] in [[866 NE]] and raised a Sitter in {{ne|986}}.
+
+She was raised to the shawl the same year as [[Sereille Bagand]] was raised to the [[Amyrlin Seat]], which means that Seaine has been Aes Sedai for 134 years. {{Ref/book|7|32}} She still thinks with fear-mixtured respect of Bagand when she is undertaking something dangerous.{{ref/book|8|26}}
+
+She was very close friends with [[Pevara Tazanovni]]; they had been pillow friends, though their friendship was broken off because the Reds forced Pevara to do so upon being raised. As novices, they played many pranks together; Pevara always said Seaine could never decide that it was logical to be afraid until it was too late to do so. One of their pranks was to dust [[Serancha]]'s shift with itchoak because she was a prig; their opinion of her never changed.
+
+She was also friends with [[Talene]], who was jealous that Pevara was closer to Seaine than she was.
+
+Seaine proposed that [[Siuan Sanche]] succeed [[Marith Jaen]] as Amyrlin Seat after her death in [[988 NE]]. This means that she has been a Sitter for at least eleven years. Seaine Herimon suggested young Siuan to be raised, noting the deaths of three consecutive old Amyrlins after just a few years of service, as well as Siuan's qualifications in administration.{{ref/book|7|8}}
+
+She has remained loyal to the [[White Tower]] during the [[White Tower Schism]]. However, unlike the other Sitters who remained loyal to the Tower, she did not vote to depose Siuan Sanche.
+
+==Activities==
+=== [[Black Ajah Hunters|Black Ajah hunter]] ===
+[[Elaida do Avriny a'Roihan]] gave Seaine the task to seek out traitors in the White Tower. She interpreted this to mean she should uncover the [[Black Ajah]] and, together with her friend [[Pevara Tazanovni]] of the [[Red Ajah]], they discover several Black Ajah sisters, including [[Talene Minly]], a fellow Sitter. Along the way they are joined by several other Sitters for different Ajahs; [[Saerin Asnobar]] of the [[Brown Ajah]], [[Yukiri Haruna]] of the [[Gray Ajah]] and [[Doesine Alwain]] of the [[Yellow Ajah]]. They become a secret sign of cooperation within a Tower that suffers from disunity and fear between the Ajahs.
+
+They also discover the [[Salidar Aes Sedai]] moles sent to the Tower. 
+She is confined to her room by the other Black Ajah hunters. She begins to work out the [[Too Young Sitters]] theory for the White Tower.
+
+Seaine eventually realized that Elaida was asking her to find evidence for traitorous acts such as correspondence with the [[Dragon Reborn]] by [[Alviarin Freidhen]].
+=== Meeting the new Amyrlin ===
+She is in the White Tower basement, when [[Meidani Eschede]] brings in [[Egwene al'Vere]]. Egwene tells them to continue finding the Black Ajah but tells them to remove the fourth oath they have placed on the [[Rebel Spies]]. Egwene also points out that Siuan Sanche was deposed unlawfully due to a Black Ajah member being part of the bare minimum of Sitters required. Seaine agrees, horrified, that Egwene is right.
+
+Seaine visits Egwene in the White Tower cells. Seaine informs Egwene of the trial processes both Elaida and Egwene will be facing. Egwene charges Seaine to continue to remind the White Tower of the [[Dark One]]'s stirring in Egwene's absence.
+She pledges her support behind Egwene and stands with the rest of the Hall of the Tower to raise Egwene unanimously as the new Amyrlin Seat.
+[[File:EgweneLeadingSeaineYukiriandSaerin.JPG|thumb|left|400px|Seaine (far left) with Yukiri Haruna and Saerin Asnobar deferring to the leadership of Egwene al'Vere - Artwork by Jieroque]]
+After being raised Amyrlin, Egwene tasks Seaine with the task of finding ways that a [[Forsaken]] could use to circumvent the [[Oath Rod]]. Seaine presents to Egwene three ways a Forsaken could. The first way is to use a second Oath Rod just after taking the Oaths to negate the effects. The second is to send a double (using the [[Mirror of Mists]]) to take the oaths for them. The third is to use a voice-altering weave that would allow them to fool others into hearing the Oath rather than the words that were actually spoken. {{Ref/book|13|15}}
+
+Seaine is one of seven Sitters who take part in [[Nynaeve al'Meara]]'s test for the shawl inside the [[Oval ring|oval&nbsp;''ter'angreal'']]. The testing is unusually severe, cruel even. Although she expresses concern on Nynaeve's use of [[balefire]] and agrees with [[Barasine]] about her display of calmness, she is one of the four Sitters - the others being Yukiri, Saerin and [[Romanda Cassin]] - who think her worthy, thereby allowing her to be raised properly.
+
+Egwene sets up a meeting in which Seaine attends, in [[Tel'aran'riod]] between Aes Sedai, [[Windfinders|Sea Folk Windfinders]] and [[Wise Ones|Aiel Wise Ones]]. It is decided at the meeting that Accepted will go and train with the Wise Ones for six months and then they would then train with the Sea Folk for a further six months before returning back at the White Tower. They would then make a choice a year later on where they would wish to finish their training. Sea Folk and Wise One apprentices would also go through this training program but to the White Tower and the other channeling faction. It is agreed that for every two Accepted who leave, two Wise One apprentices and two Sea Folk apprentices will be exchanged. The Sea Folk [[Bargain]] is also modified so that Aes Sedai sisters no longer have to teach Sea Folk Windfinders anymore and that Sea Folk Aes Sedai can now return back to their homeland and be the channellers who teach the Sea Folk Windfinders. Finally all ''ter'angreal'' that are already owned by the Aiel or by the Sea Folk cannot be claimed by the White Tower.
+
+=== The [[Last Battle]] ===
+Seaine was sent to the [[Black Tower]] and the formerly rebel Aes Sedai delegation present there to update them of events in the White Tower and at the Last Battle, and to call most of the sisters with [[Lyrelle Arienwin]] to fight in the Last Battle. Together with, among others, [[Myrelle Berengari]] and Lyrelle, she greeted Pevara and [[Androl Genhald]] after they had reclaimed the Black Tower from [[Mazrim Taim]] and the Black Ajah. It is unknown if she was sent by Egwene or by the Hall of the Tower.
+
+It is presumed that she fought in the Last Battle and survived.
+
+{{notes}}
+{{DEFAULTSORT:Herimon, Seaine}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Living as of AMOL]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

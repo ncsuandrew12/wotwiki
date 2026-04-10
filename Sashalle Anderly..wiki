@@ -1,0 +1,61 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ewot=Sashalle
+| living=amol
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=The Dragon Reborn
+| rank=Aes Sedai
+| eyes=Blue
+| status=Alive
+| hair=Curly
+| mentioned={{wh|14}}
+| appeared={{cot|p}}
+| lastappeared={{amol|42}}
+|birth = 816 NE|death = }}'''Sashalle Anderly''' is an [[Aes Sedai]] of the [[Red Ajah]].
+
+== Appearance ==
+She has blue eyes and curly hair, wore in ringlets to her shoulders, also a stubborn jaw. After being [[stilled]] and [[Healed]], she has lost the [[ageless look]] and, instead, looked merely short of her middle years. She also looked prettier after losing her ageless look.
+
+== Strength and Abilities ==
+Sashalle is [[Strength in the One Power among Aes Sedai|very strong]] in the [[One Power]] for an Aes Sedai, with a strength of {{opsl|20}}. Only four other women out the Tower loyalists we have details on can match her strength, and only Elaida exceeds it.{{ref|{{twotc}}}} After being Healed, she was restored to her full strength, although she was no longer bound by the [[Three Oaths]].
+
+== History ==
+Her name indicates that she is likely from [[Andor]]. She was born in {{ne|816}} and went to the [[White Tower]] in {{ne|832}}. She was a [[novice]] for nine years and [[Accepted]] for six. Sashalle was raised to the shawl in {{ne|847}}.
+
+== Activities ==
+=== Stilling ===
+Sashalle was one of the Aes Sedai involved in [[Rand al'Thor]]'s kidnapping. Along with [[Galina]], she was the strongest in this expedition, and so they were at the top in the hierarchy when the Red Ajah took charge after diplomatic failure.
+
+During [[Dumai's Wells]] battle Sashalle was holding the shield on Rand, along with [[Irgain Fatamed]] and [[Ronaille Vevanios]], and all three were [[Severing|stilled]] when he broke the shield{{ref/book|6|55}}.
+
+She has since been Healed by [[Damer Flinn]]{{ref/book|9|13}} {{ref/book|9|25}}.
+
+=== Fealty ===
+Sashalle is one of the Aes Sedai who has sworn fealty to Rand{{ref/book|9|25}} but as with other stilled Aes Sedai, she is not bound by the [[Three Oaths]].
+
+Sashalle begins to challenge [[Samitsu Tamagowa]]'s authority in [[Cairhien]]{{ref/book|10|p}} after she is Healed due to her being far higher in the [[One Power]]. She is present when Samitsu Heals [[Dobraine Taborwin]] from being stabbed by two robbers rummaging through his room.
+
+She sends word to [[Galina Casban]] (whom she presumes to still be [[Highest]]), which is received by [[Tsutama Rath]], about her swearing fealty to Rand and of her being Healed from stilling{{ref/book|11|p}}.
+
+When Dobraine was sent by Rand to [[Arad Doman]] the two [[Aes Sedai]] Sashalle Anderly and [[Samitsu Tamagowa]] took unofficially the [[Steward of the Dragon|stewardship]] of Cairhien for a while, until the coming of [[Elayne]] as new queen{{ref/book|13|52}}.
+
+Sashalle and Samitsu greet [[Elayne Trakand]] when she arrives in Cairhien and pass formally all duties of ruler-ship onto the new queen{{ref/book|13|51}}. It is unlikely that she has held the [[Oath Rod]] since being Healed.
+
+=== The [[Last Battle]] ===
+Likely on [[Cadsuane Melaidhrin]]'s command, Sashalle and the other sisters present in Cairhien joined the Last Battle in [[Thakan'dar]] Valley, where Sashalle was placed under [[Compulsion]] by [[Hessalam]] and forced to feed her her strength. Due to over-exhaustion, Sashalle collapses on the slopes of [[Shayol Ghul]]{{ref/book|14|42}}.
+
+Draining a person completely could render her useless for days, so it is likely that Sashalle is alive{{ref/book|14|34}}. However, because of Hessalam's Compulsion, she will probably not survive the Healing of her mind.
+
+{{notes}}
+{{DEFAULTSORT:Anderly, Sashalle}}
+[[es:Sashalle Anderly]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Stewards of the Dragon]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Living as of AMOL]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

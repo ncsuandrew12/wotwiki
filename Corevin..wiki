@@ -1,0 +1,21 @@
+{{ character 
+| image=BOTRH icon.jpg
+| death={{ne|1000}}
+| nationality=Cairhienin
+| rank=Redarm
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| build=Muscular
+| status=Dead
+| appeared={{acos|17}}
+| lastappeared={{acos|38}}
+}}'''Corevin''' was a [[Cairhien]]in [[Redarm]] in the [[Band of the Red Hand]].{{ref|{{twotc}}, Corevin}}
+
+== Appearance ==
+He had a very muscular build with a big nose. He had two tattoos on each arm. He had a leopard and a boar on one arm and a lion and a woman on the other. The woman isn't wearing much except her own hair.
+
+== Activities ==
+He journeys to [[Ebou Dar]] with Mat, [[Elayne Trakand]], [[Birgitte Silverbow]], [[Aviendha]], [[Nynaeve al'Meara]], and others. Mat sends him to watch the activities of [[Jaichim Carridin]]. [[Chel Vanin]] bandages him at the [[Wandering Woman]] after he gets into a duel with a fish-seller in [[Ebou Dar]]. [[Harnan]] berates him for accepting the challenge. He sympathizes with [[Olver]] after he gets his bottom spanked by a girl after he had pinched hers. While at the building that contained the ''[[ter'angreal]]'' [[Bowl of the Winds]], he is killed in the fighting between Mat's group and the [[Darkfriends]] they encounter inside.
+
+{{notes}}

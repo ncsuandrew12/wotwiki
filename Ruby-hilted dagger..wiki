@@ -1,0 +1,39 @@
+[[File:Ruby-hilted dagger.JPG|thumb|right|The ruby-hilted dagger of Shadar Logoth.]]
+{{dablink|For other uses of the word "dagger," see [[Dagger]].}}
+The '''ruby-hilted dagger''' is an artifact of [[Shadar Logoth]]; like all things from that city, it is contaminated with the evil that consumed the residents and will pass on the madness to whoever carries it.
+
+Note that while [[The Eye of the World]] and [[The Great Hunt]] refer to the dagger as a "ruby-hilted dagger" eight times (and therefore this wiki adopts this terminology), it could be more accurately called a "ruby-pommeled dagger", since the hilt is not made of ruby, but rather is "capped" with one. Other names include "Shadar Logoth dagger" (4 times in [[The Eye of the World]] and [[The Dragon Reborn]]) and "dagger from Shadar Logoth" (10 times in [[The Eye of the World]], [[The Great Hunt]], and [[The Dragon Reborn]])
+
+{{Quote|A curved dagger with a gold scabbard worked in strange symbols. Fine gold wire wrapped the hilt, which was capped by a ruby as big as Rand’s thumbnail, and the quillons were golden-scaled serpents baring their fangs.|Rand al'Thor's POV{{ref/book|1|24}}}}
+
+{{Quote|Fain drew a deep breath and fingered the ruby-hilted dagger at his belt.|Padan Fain's POV{{ref/book|2|11}}}}
+
+==With Matrim Cauthon==
+
+[[File:Ruby-hilted dagger.jpg|thumb|left|The ruby-hilted dagger.]]
+
+[[Matrim Cauthon]] initially carried the dagger from the city when he and [[Rand al'Thor]] and [[Perrin Aybara]] met [[Mordeth]] as an "old man" who claimed to have found treasure. Mat's acquisition was not discovered for several days, by which time he and Rand had been separated from the group, and paranoia had already begun to sink into Mat's personality. They made it to [[Caemlyn]] despite this and took up residence in [[Basel Gill]]'s inn, where [[Moiraine Sedai]] caught up with them and discovered the dagger's presence and significance. She was able to protect him somewhat from the taint, but could not separate him from it without killing him (and indeed, he tried to kill her on sight, but was stopped by [[Lan Mandragoran]]). The simplest scratch from the dagger brings a rapid festering, skin-blackening death within seconds unless [[Healing]] is immediately applied, and sometimes even then it is not enough.
+
+Mat and the dagger traveled to [[Fal Dara]], where a ritual was done to further insulate him from the dagger's taint. Even still, he was not completely separated from it, which would require access to the ''[[angreal]]'' in the [[White Tower]]. However a complication arose at this time: [[Padan Fain]], having merged with [[Mordeth]], was anxious to recover the dagger, and stole it along with the [[Horn of Valere]].
+
+[[File:Ruby-hilted_Dagger.JPG|thumb|left|Painting of the dagger by Todd Cameron Hamilton]]
+
+Mat's bond to the missing dagger weakened him, but also allowed him to pursue Fain, and eventually both artifacts were recovered. Mat finally traveled to [[Tar Valon]] and the White Tower on a litter, having been weakened by his long separation from the dagger. A healing ceremony there finally cut his ties to the evil of Shadar Logoth, and the dagger was sealed in a locked chest deep in the Tower's basements.
+
+The sheath of the dagger has some adventures in the early books. It first appears in Mat's hands on the deck of the [[Spray]] in TEOTW Ch. 24 p.&nbsp;342, described as "a gold scabbard worked in strange symbols." TGH Ch. 11 p.&nbsp;198, Padan Fain unsheathes the dagged before setting it on the chest containing the Horn of Valere. When Rand takes it in Ch. 19 p.&nbsp;292, the blade is said to be still bare, as it evidently is in Ch. 45 p.&nbsp;636 when Mat slashes the hand of a Seanchan soldier. However, in TDR Ch. 10 p.&nbsp;137, Mat is clutching the sheathed dagger in his hand.
+
+==With Padan Fain==
+Padan Fain came to the White Tower in search of the dagger, however, and recovered it, killing an [[Accepted]] in the process. Having the dagger amplified Fain's dangerousness and evil tendencies, and may have accelerated his madness, whereby he now shifted freely between thinking of himself as Fain, Mordeth, Ordeith, and other personalities, and his accent switched between his native [[Lugard]]er and an older, more refined voice.
+
+Fain has used the dagger's dangerous poison to slash his way through obstacles and intimidate his enemies, both of the [[Shadow]] and the [[Light]], ever since. He even wounded Rand al'Thor, the [[Dragon Reborn]], during a battle in the rebel camp south of [[Cairhien]]. Only the combined efforts of [[Asha'man]] and [[Aes Sedai]] Healing prevented it from killing him.
+
+When Fain was killed by Mat at [[Shayol Ghul]], the dagger melted away into his own melting corpse, with Mat refusing to pick it up again shortly beforehand, judging it to be one bet he would not take.
+
+==See also==
+* {{TVlink|Ruby-hilted dagger}} on {{TVlink}}
+
+{{notes}}
+[[es:Daga de Shadar Logoth]]
+[[Category:Shadar Logoth]]
+[[Category:Weapons]]
+[[Category:Special objects]]

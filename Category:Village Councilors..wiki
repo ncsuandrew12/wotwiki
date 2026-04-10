@@ -1,0 +1,4 @@
+'''Village Councilors''' are those men who sit on a [[Village Council]].
+
+[[Category:Occupations| Village Councilors]]
+[[Category:Sort option categories]]

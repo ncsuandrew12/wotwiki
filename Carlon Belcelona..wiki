@@ -1,0 +1,24 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| ewot=Carlon
+| nationality=Tairen
+| gender=Male
+| affiliation=Cha Faile
+| status=Alive
+| appeared={{wh|6}}
+| lastappeared={{kod|12}}
+| living=kod
+}}
+'''Carlon Belcelona''' is a [[Tairen]] noble who is part of [[Cha Faile]].
+
+== Appearance ==
+He has a long nose and a narrow chin.
+
+== Activities ==
+A member of [[Cha Faile]]. He accompanies [[Faile Bashere]] to [[Ghealdan]]. When Faile is captured by the [[Shaido]] he is forced to obey [[Perrin Aybara]].
+
+He is part of Perrin's group that goes to the town of [[Almizar]] to pick up some [[Forkroot]].
+
+{{DEFAULTSORT:Belcelona, Carlon}}
+[[Category:Eyes-and-ears]]

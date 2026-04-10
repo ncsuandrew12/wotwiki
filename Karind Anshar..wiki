@@ -1,0 +1,46 @@
+{{ character 
+| image=Anshar.png
+| imagesize=250px
+| ewot=Karind
+| nationality=Andoran
+| title=Lady
+| affiliation=House Trakand
+| rank=High Seat
+| hair=Dark
+| build=Blocky 
+| status=Alive
+| appeared={{tfoh|19}}
+| lastappeared={{kod|35}}
+| living=kod
+| gender=Female
+}}'''Karind Anshar''' is a noble of [[Andor]] and the [[High Seat]] of [[House Anshar]].{{ref|{{twotc}}, Karind Anshar|comp}} The sign of House Anshar is the Red Fox.
+
+== Appearance and Personality==
+Stolid and about 5'4" or 163cm tall, with a blunt voice, she had gray streaks in her dark hair, framing a severe face. Her flat-eyed stare was like a hammer.{{ref||comp}}{{ref/book|6|1}}{{ref/book|5|19}} 
+
+It is also said that if Lady Karind had had brains to match her toughness, she would have been dangerous.{{ref||comp}}  
+
+== History ==
+She was one of the nobles who didn't support [[Morgase Trakand]] when she assumed the throne after [[Succession Wars|The Succession]], and was forced to swear fealty to her afterwards.{{ref/book|5|19}}
+
+She has been thrice widowed.{{ref/book|5|19}} Some said that it had ben her hammer-like gaze that had put them underground.{{ref||comp}}
+
+
+== Activities ==
+She was one of the nobles who hung around [[Rahvin#Release|Lord Gaebril]] in the Throne Room of Andor{{ref/book|5|19}}. After Gaebril's demise she now fawns over [[Rand al'Thor]].
+
+A group of nobles including Arymilla, Elenia, Jarid, Karind, Naean, Lir, Henren, Carlys, Daerilla, Elegar, and Lord Nasin watches Rand practice the sword against five men in a courtyard of the Royal Palace in Caemlyn. Nasin tells Rand he is another [[Jearom]].{{ref/book|6|1}}. Lady Karind Anshar gasps and panics when Taim is lead into the courtyard.{{ref/book|6|2}}
+
+Lir and Karind debate whether to support Naean or Elenia for the Lion Throne.{{ref/book|9|p}}
+She leaves [[Caemlyn]] only to return with her armsman as part of [[Arymilla Marne]]'s forces, which are currently laying siege to the city.{{ref/book|10|15}}
+
+Karind and her armsmen ride with the army when Arymilla mobilizes her entire force and attacks the [[Far Madding Gate]]. Arymilla's army is hit behind by half of [[Elayne Trakand|Elayne's]] force and in the end Arymilla's army surrenders. Karind is brought before Elayne Trakand and publicly throws her support behind her.{{ref/book|11|33}}
+
+She is present at the meeting with the neutral High Seats and Elayne. There, they throw their support behind Elayne giving her the required [[Andor#Major Andoran houses|Houses]] she needs to obtain the [[Lion Throne]].{{ref/book|11|35}}
+
+{{notes}}
+
+{{DEFAULTSORT:Anshar, Karind}}
+
+[[es:Karind Anshar]]
+[[Category:Nobility]]

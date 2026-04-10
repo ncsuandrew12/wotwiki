@@ -1,0 +1,38 @@
+{{ character
+| image=Mattin Stepaneos.jpg
+| imagesize=250px
+| ewot=mattin stepaneos
+| status=Alive
+| nationality=Illianer
+| rank=King
+| title=King of Illian
+| gender=Male
+| build=Muscular
+| hair=Balding
+| appeared={{kod|2}}
+| mentioned={{tfoh|41}}
+| lastappeared={{tom|27}}
+| lastmentioned={{tom|32}}
+| living=tom
+}}
+'''Mattin Stepaneos den Balgar''' was the King of [[Illian]], Anointed by the Light, Lion of Coast, Defender of the Sea of Storms. His sigil is Three Leopards, silver on black.{{ref/book|6|9}}
+
+== Appearance ==
+He is muscular, robust. He has a white beard with the upper lip bare. He is heavily balding and having a creased face framing a nose which was broken several times in the past. 
+
+== History ==
+In {{ne|957}} as a young King, Mattin Stepaneos led a coalition to counter the [[Whitecloak]] expansion into [[Altara]] in the [[Whitecloak War]]. He lost most battles against [[Lord Captain Commander]] [[Pedron Niall]], and was even captured at the battle of [[Soremaine]]. After being ransomed back to Illian by the Whitecloaks, Mattin Stepaneos managed to force the Whitecloaks to reaffirm the pre-war borders between [[Altara]] and [[Amadicia]]. He came heavily under the influence of Lord Brend (Sammael) but later he reasserted himself. A few days before the attack on the city he vanished.
+
+== Activities ==
+Two days before [[Rand al'Thor]]'s forces attack [[Sammael]] and Illian, Mattin Stepaneos was kidnapped by the [[White Tower]], on the command of [[Elaida do Avriny a'Roihan|Elaida]]. He arrived to [[Tar Valon]] on one of the last vessels to enter before the harbors were blocked by Egwene's [[cuendillar]] chains.{{Ref|{{twotc}}, Mattin Stepaneos den Balgar}}
+
+He approaches [[Egwene al'Vere]], who tells him the truth of [[Colavaere Saighan]] and [[Morgase Trakand]]'s deaths. She defends the [[Dragon Reborn]] and points out his captivity in the White Tower.
+
+Once Egwene becomes [[Amyrlin Seat]] she tells Mattin he is free to leave but he is too afraid to return to Illian and did not try to retake the throne.
+
+He is last seen during the meeting where the [[Dragon's Peace]] is signed.
+
+{{Notes}}
+{{DEFAULTSORT:Stepaneos den Balgar, Mattin}}
+
+[[es:Mattin Stepaneos]]

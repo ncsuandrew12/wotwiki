@@ -1,0 +1,18 @@
+{{ character
+| image=Traemane.png
+| imagesize=250px
+| nationality=Andoran
+| title=Lady
+| rank=High Seat
+| status=Dead
+| gender=Female
+| mentioned={{tfoh|19}}
+}}
+'''Elayne Traemane''' was an [[Andoran]] noblewoman who was the grandmother of Lady [[Ellorien Traemane]].{{ref/book|5|19}}
+
+== Activities ==
+Queen [[Morgase Trakand]] named her daughter and heir [[Elayne Trakand|Elayne]] in honor of Lady Elayne Traemane.<ref name="comp">''[[The Wheel of Time Companion]]'', Elayne Traemane.</ref> However, despite this honor, Lady Ellorien is disgusted at House Trakand after Morgase orders her flogged when she is held under [[Compulsion]] by [[Rahvin]] as "Lord Gaebril."{{ref/book|5|19}}
+
+{{DEFAULTSORT:Traemane, Elayne}}{{notes}}
+
+[[Category:Nobility]]

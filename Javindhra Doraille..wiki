@@ -1,0 +1,54 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ewot=Javindra
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=Turning
+| rank=Aes Sedai
+| build=Angular
+| status=Alive
+| appeared={{tfoh|p}}
+| lastappeared={{amol|14}}
+| living=amol
+|birth = {{ne|842}}}}
+'''Javindhra Doraille''' is an [[Aes Sedai]] of the [[Red Ajah]] and for a while she was a [[Sitter]] in the [[Hall of the Tower under Siuan Sanche|Hall of the Tower]].
+
+== Appearance ==
+Javindhra is tall, has smooth cheeks but a very angular face. She speaks with a very harsh manner{{ref/book|5|p}}. She is bony{{ref/book|11|p}}. 
+
+==Strength and Abilities==
+Javindhra is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|31}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.
+
+== History ==
+Javindhra is 158 years old. She was born in the year {{ne|842}} and went to the [[White Tower]] in {{ne|858}}. After spending six years as [[novice]] and five as [[Accepted]] she was raised to the [[shawl]] in the year {{ne|869}}. She was elected Sitter in the year [[985 NE]].
+
+Although it is not confirmed, her name indicates that she may be [[Cairhienin]].
+
+Javindhra always argues against anything that anyone else has suggested, especially in the Hall.
+
+== Activities ==
+Javindhra was part of the original group that took [[Siuan Sanche]] into custody. After Siuan was deposed, she became one of Elaida's close confidants. She was in charge of making sure all the Aes Sedai who fled the [[White Tower]] return{{ref/book|5|p}}.
+
+[[Logain Ablar]] said that she was the leader of the group of Red sisters that met with him in [[Cosamelle]] and encouraged him to declare himself as the [[Dragon Reborn]]. This was, of course, simply part of the story that he wished to circulate about the Red Ajah in order to get revenge for them [[gentling]] him{{ref/book|6|8}}.
+
+After the double disasters of [[Dumai's Wells]] and the ill-fated attack on the [[Black Tower]], Javindhra and [[Pevara Tazanovni]] met with [[Tsutama Rath]]. Tsutama decides on a plan to allow Red sisters to [[Bonding|bond]] [[Asha'man]] as [[Warder]]s as was suggested by [[Tarna Feir]] {{ref/book|11|p}}. Initially Javindhra was not happy that the Reds are to start bonding Asha'man. Anyway she was forced by the Highest to help Pevara and Tarna and also forced to keep it from Elaida.
+
+On Tsutama's orders, Pevara, Javindhra, [[Desala Nevanche]], [[Jezrail]], [[Melare]], and Tarna went to the Black Tower to put the proposition to [[Mazrim Taim]], who agreed{{ref/book|11|e}}. Javindhra was among them because Tsutama forced her again, but despite it, she showed a strange and dubious smile to the others involved.
+
+After the [[White Tower Schism]] ended, Javindhra and Pevara were replaced as Sitters, presumably to allow the Reds full representation in the Hall{{ref/book|12|46}}{{ref/book|13|27}}.
+
+At the Black Tower, she walked around the grounds with Pevara escorted by Taim. Javindhra again asked for Asha'man to bond but was rejected by Taim stating that the Aes Sedai can only bond Soldiers or Dedicated. Taim then told them that they can only leave now with his permission{{ref/book|13|53}}. She was Turned to the Shadow.
+
+== Errata ==
+
+The Companion states that Javindhra was elected a Sitter after the exile of three Red Sitters and voted to depose Siuan and raise Elaida. Pevara also voted to raise Elaida. Since Elaida was also a Sitter at that time, it begs the question of what Teslyn's role in the coup was. She is not listed as having voted for the deposition in the Companion although she "supported" Elaida as Amyrlin. She is listed, however, as being a Sitter for fifteen years. The only resolutions to this is either that Javindhra only became a Sitter after Elaida left the Hall, or Teslyn was temporarily not a Sitter at the time of the vote. 
+
+{{notes}}
+{{DEFAULTSORT:Doraille, Javindhra}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Sitters]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

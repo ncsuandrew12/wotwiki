@@ -1,0 +1,4 @@
+{{Forumheader|The Inn}}
+
+<!-- Please put your content under this paragraph.  Be sure to sign your edits with four tildes: ~~~~ -->
+<noinclude>[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

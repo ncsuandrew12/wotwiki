@@ -1,0 +1,8 @@
+{{Image
+| License                 = GFDL
+| ImageType1              = Character
+| ImageType2              = Fan Art
+| Description             = A fan interpretation of [[Juilin Sandar]] in [[Tear]]. 
+| Source                  = https://www.facebook.com/groups/2204133522/permalink/10158103432488523/
+| Artist                  = Paul Dose
+}}

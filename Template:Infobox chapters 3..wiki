@@ -1,0 +1,1 @@
+<noinclude>{{delete|Unused. Replaced by Module:Books functionality}}</noinclude>

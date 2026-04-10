@@ -1,0 +1,22 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| title=carpenter
+| gender=Male
+| status=Alive
+| affiliation=Two Rivers
+| mentioned={{tgh|12}}
+| living=tgh
+}}
+'''Master Padwhin''' is a master carpenter in [[Emond's Field]].
+
+== Activities ==
+[[Egwene]] compares how he looks at his tools to the look she receives from the [[Amyrlin]].{{ref/book|2|12}}
+
+{{notes}}
+
+{{short}}
+
+{{DEFAULTSORT:Padwhin, Master}}
+[[Category:Carpenters]]

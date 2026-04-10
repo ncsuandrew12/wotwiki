@@ -1,0 +1,10 @@
+== Summary ==
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| ImageType2              = Fan art
+| Description             = [[Guaire Amalasan]]
+| Source                  =[https://www.deviantart.com/kaligodark/art/Guaire-Amalasan-782019614 DeviantArt]
+| Artist                  = KaligoDark
+}}
+[[Category:Featured images]]

@@ -1,0 +1,20 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Female
+| status=Alive
+| occupation=Healer
+| mentioned={{teotw|33}}
+| lastmentioned={{teotw|33}}
+| living=teotw
+}}
+Mother '''Brune''' is an [[Andoran]] [[Wisdom]]-like woman. 
+
+==History==
+She lives in a small village in the [[Caemlyn Road]].
+
+==Activities==
+When [[Mat]] is seeking a Wisdom to help [[Rand]], Mother Brune is mentioned, but she is off birthing a baby and nobody knows when she'll be back.
+
+{{short}}

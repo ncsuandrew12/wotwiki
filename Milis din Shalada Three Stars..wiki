@@ -1,0 +1,23 @@
+{{character 
+| image=Birds.png
+| imagesize=150px
+| status=Alive
+| nationality=Atha'an Miere
+| rank=Sailmistress
+| affiliation=Atha'an Miere
+| gender=Female
+| hair=Black
+| appeared={{tom|25}}
+| lastappeared={{tom|25}}
+| living=tom
+}}
+'''Milis din Shalada Three Stars''' is the ''[[Atha'an Miere]]'' [[Sailmistress]] of the ''[[Whitecap]]''.
+
+==Appearance==
+Milis din Shalada has straight black hair and tattoos on her right hand.
+
+==Activities==
+Milis din Shalada docked at [[Bandar Eban]] with food to deliver to the city. However, due to the corruption of the [[Pattern]], most of it was spoiled. This made [[Iralin]] force the ''Atha'an Miere'' to keep their cargo aboard their ships. When [[Rand al'Thor]] returns to Bandar Eban, he boards the ''Whitecap'' and finds that all of the unopened bags contain food that has not spoiled. Milis din Shalada and her companions are then allowed to offload the food.{{ref/book|13|25}}
+
+{{notes}}
+{{DEFAULTSORT:Shalada Three Stars, Milis din}}

@@ -1,0 +1,55 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality=Unknown nationality
+| hair=Dark
+| gender=Female
+| eyes=Brown
+| rank=Aes Sedai
+| height=Tall
+| build= Lanky
+| status=Alive
+| appeared={{loc|14}}
+| lastappeared={{amol|27}}
+| living=tgs
+| affiliation=White Tower
+|birth = {{ne|902}}}}
+'''Ashmanaille''' is an [[Aes Sedai]] of the [[Gray Ajah]]. 
+
+==Appearance and Personality==
+She is lanky with dark hair and brown eyes. She has a narrow face and a pointed nose. Her slender build makes her appear more tall than she really is. 
+
+She has a detached nature, seldom showing any emotion at all. 
+
+She thinks about clothes as much as anything else, and her clothes are always neat and of a high quality. 
+
+==Strength and Abilities==
+Ashmanaille has a strength in the [[One Power]] of {{opsl|28}} which is [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. 
+
+Although she is slightly weaker than the stated necessary strength of {{opsl|25}} to be able to [[Traveling|Travel]], Ashmanaille appears to be able to do so. She was sent via Gateway to obtain tribute from [[Kandor]].{{ref/book|12|18}} Later, she was on gateway-making duty during the Last Battle.{{ref/book|14|27}} This may indicate an above average ability at the Talent. A less likely alternative explanation is that circles or ''[[angreal]]'' were used; it is not definitively indicated that Ashmanaille wove any Gateways unaided, but the description of the Kandori mission heavily implies she did.
+
+She is strong in [[Earth]] and has sufficient ability to make ''[[cuendillar]]''.{{ref/book|10|16}}
+
+==History==
+Ashmanaille is 98 years old. She was born in {{ne|902}} and went to the [[White Tower]] in {{ne|918}} at the age of 16. After eleven years as a [[novice]] and ten years as [[Accepted]], she was raised to the [[shawl]] in {{ne|939}}.
+
+==Activities==
+During the Aes Sedai [[schism]], Ashmanaille sided with the [[Rebel Aes Sedai|Rebels]].
+
+Along with [[Elayne Trakand]] and [[Nynaeve al'Meara]], she was part of a circle led by [[Anaiya Carel]] in the defense of the [[Salidar]] camp against the [[Bubble of evil]] that attacked there.
+
+She was one of only nine Aes Sedai among the rebels able to make ''[[cuendillar]]'' due to her relatively high strength in Earth. She is, however, very slow at transforming iron into ''cuendillar'', slower than [[Kairen Stang]].
+
+She and [[Phaedrine]] asked [[Beonin Marinye]]'s advice about the murders of Anaiya and Kairen. The discussion yielded suspicions of a male [[channeler]] among the camp and advice to follow the connection of both sisters being [[Blue Ajah]].
+
+While collecting tributes for the Rebels in [[Kandor]], Ashmanaille found out that [[Elaida a'Roihan's White Tower]] had learned how to [[Travel]]. She reported this back to the rebel [[Hall of the Tower]].
+
+During the [[Last Battle]], she was on gateway-making duty, and recognized [[Min Farshaw]] when the latter asked for a gateway to the [[Seanchan]] army nearby. She probably knew her from the time before the [[White Tower Schism]], as she addressed Min as "Elmindreda," the alias Min used while hiding in the White Tower under [[Siuan Sanche|Siuan's]] orders.
+
+{{notes}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Gray Ajah]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

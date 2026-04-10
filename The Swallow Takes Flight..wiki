@@ -1,0 +1,13 @@
+{{swordform
+| mentioned={{2|45}}
+| used=[[Rand al'Thor]] or [[Turak Aladon]], [[Eamon Valda]]
+}}
+{{for|the similarly named sword form|The Swallow Rides the Air}}
+'''The Swallow Takes Flight''' is a [[sword form]]. Other than the name, nothing is known about it. 
+
+==In practice==
+This form was used in the duel between [[Rand al'Thor]] and [[Turak Aladon]]. The other person used [[Parting the Silk]] to counter it.{{ref/book|2|45}} [[Eamon Valda]] used this form to counter [[Galadedrid Damodred]]'s use of [[Threading the Needle]] during thier [[Trial Beneath the Light]].{{ref/book|11|p}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Swallow Takes Flight, The}}

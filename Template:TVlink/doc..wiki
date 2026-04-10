@@ -1,0 +1,26 @@
+Use this template to create links to pages on the [[w:c:wheeloftime|TV series Wheel of Time Wiki]]. It is an important template for our interlinking strategy with the TV series wiki. Be sure to double-check your spelling, because these will never show as redlinks, even if misspelled.
+
+The equivalent template on the TV series wiki is {{TVlink|Template:Booklink}}, which links to this wiki for book series content.
+
+==Usage==
+<nowiki>{{TVlink|page name|link text (optional)}}</nowiki>
+
+* '''page name''' is the article page name.
+* '''link text''' (optional) is the displayed text for the link. If left blank, it will default to the page name.
+
+{| class="wikitable" style="width: 100%;"
+! style="width: 50%" | Example input
+! style="width: 50%" | Output
+|-
+| <nowiki>{{TVlink}}</nowiki>
+|         {{TVlink}}
+|-
+| <nowiki>{{TVlink|Rand al'Thor}}</nowiki>
+|         {{TVlink|Rand al'Thor}}
+|-
+| <nowiki>{{TVlink|Moiraine|Moiraine Damodred}}</nowiki>
+|         {{TVlink|Moiraine|Moiraine Damodred}}
+|-
+|}
+
+[[Category:Linking templates|{{PAGENAME}}]]

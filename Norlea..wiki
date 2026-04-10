@@ -1,0 +1,21 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Sevanna
+| status=Alive
+| clan=Shaido
+| sept=Unknown sept
+| appeared={{acos|p}}
+| lastappeared={{tpod|11}}
+| living=tpod
+}}'''Norlea''' is a [[Wise One]] of the [[Shaido]] [[Aiel]].  She is able to [[channel]] though her exact strength in the [[One Power]] is unknown.{{ref|{{twotc}}, Norlea}}
+
+== Activities ==
+She participated in the murder of [[Desaine]]. She fights in the [[Battle of Dumai's Wells]].
+
+{{notes}}
+{{Short}}
+[[Category:Channelers]]

@@ -1,0 +1,23 @@
+{{ character 
+| image=MurandyFlag.png
+| imagesize = 250px
+| ewot=Donel alordeine
+| nationality=Murandian
+| affiliation=Murandy
+| title=Lord
+| gender=Male
+| status=Alive
+| appeared={{tpod|17}}
+| lastappeared={{tpod|18}}
+| living=tpod
+}}
+'''Donel do Morny a'Lordeine''' is a Murandian Lord. 
+
+== Appearance ==
+He wears more lace than a Lady. He has a curled mustache and has narrow eyes.
+
+== Activities ==
+He met with the [[Amyrlin]] [[Egwene al'Vere]] in [[Salidar]], and he seemed to be trying to garner favor with the Andoran Nobles who are along Andor's border with [[Murandy]].
+
+{{DEFAULTSORT:A'Lordeine, Donel do Morny}}<!---Please leave the "a" capitalized for sorting purposes.--->
+[[Category:Nobility]]

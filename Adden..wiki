@@ -1,0 +1,20 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Dead
+| nationality=Unknown nationality
+| gender=Male
+| build=Large
+| hair=Fair
+| appeared={{Tdr|39}}
+| lastappeared={{tdr|39}}
+}}
+'''Adden''' was the leader of a group of brigands that was in [[Cairhien]].
+
+==Appearance==
+He was a handsome man who was large and had fair hair.
+
+==Activities==
+When [[Egwene al'Vere]], [[Nynaeve al'Meara]] and [[Elayne Trakand]] were traveling from [[Tar Valon]] to [[Tear]], they were ambushed by a group of brigands. One of Adden's men saw their [[Great Serpent ring]]s and captured them. He believed that he could get a good price for [[Aes Sedai]] if one had the stomach to deal with the right kind of buyer, a [[Myrddraal]]. He died with a spear through him when a group of [[Aiel]], including [[Aviendha]], [[Dailin (maiden)|Dailin]] and [[Rhuarc]], saved the three women.{{ref/book|3|39}}
+
+{{notes}}

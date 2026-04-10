@@ -1,0 +1,24 @@
+{{character 
+| image=Fang-icon.svg
+| imagesize=125px
+| status=Dead
+| death={{Ne|995}}
+| nationality=Illianer
+| title=[[False Dragon]]
+| gender=Male
+| mentioned={{Teotw|3}}
+}}
+'''Gorin Rogad''' was a [[False Dragon]] in [[Illian]].
+
+== History ==
+He was captured by the Illianers and burned alive.{{ref/book|6|2}}
+
+==Notes==
+It is not known if he could channel or not, but given how he died and the rarity of False Dragons who could actually channel, it seems unlikely. While [[Bartim]] mentions that he saw a "the last False Dragon" in a cage and that he could not channel, this could not have been Gorin as Gorin was burned alive in Illian.{{ref/book|1|26}}{{ref/book|6|2}} It's possible it was the False Dragon in [[Arad Doman]] mentioned by [[Moiraine Damodred]] as being one of the last two before Logain.{{ref/book|2|4}} Rand also hints that Bartim might claim he saw a False Dragon whether he did or not.{{ref/book|1|26}} 
+
+[[Nynaeve al'Meara]] also thinks about Gorin being one of the potential False Dragons set up by the [[Red Ajah]], which may imply he could channel in order for them to be interested. On the other hand, we also know that the Tower did not have a hand in his downfall and the Illianers dealt with him themselves which is less likely if he actually was able to channel.{{ref/book|6|8}}
+
+{{short}}
+
+{{notes}}
+{{DEFAULTSORT:Rogad, Gorin}}

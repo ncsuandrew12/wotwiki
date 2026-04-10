@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = An [[Aes Sedai]] [[initiate]].
+| Source             = ''[[The Wheel of Time Roleplaying Game]]''
+| Artist             = Wayne England
+}}

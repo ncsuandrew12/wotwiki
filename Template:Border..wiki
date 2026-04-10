@@ -1,0 +1,2 @@
+<span style="display: inline;"><span style="display: table-cell; border-collapse: collapse; border: solid {{{width|1}}}px {{{color|#ddd;}}}">{{{1}}}</span></span><noinclude>{{delete|unused}}
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,50 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Soldier
+| gender=Male
+| tworivers=yes
+| affiliation=Perrin Aybara
+| appeared={{acos|1}}
+| lastappeared={{kod|4}}
+| lastmentioned={{tom|4}}
+| living=kod
+| status=Alive
+}}
+{{for|others with the same surname|Barran}}
+'''Jondyn Barran''' is a [[Two Rivers]] man in the army led by [[Perrin Aybara]]. 
+
+==Appearance==
+He is grizzled and as gnarled as an oak root.
+
+==History==
+He lives in the [[Westwood]] and hunts to sustain himself. {{verify}}
+
+The only man better than him with a bow in the Two Rivers is [[Tam al'Thor]]. Nobody in the Two Rivers is a better hunter than him. Perrin thinks that he could 'follow yesderday's wind' and [[Sulin]] gives him high praise because he can track in fresh snow.
+
+He is one of the region's less distinguished residents, having not worked a day more than he had to since leaving his father's farm. The forests and the hunt are all he lives for. 
+
+He has a reputation for drinking too much at feastdays, spitting and speaking what he thinks no matter who is listening.
+
+==Activities==
+He is one of the few older men with Perrin at the [[Battle of Dumai's Wells]]. Unlike some younger men, he does not see it as a great victory and says that it was the [[Asha'man]] who won the battle. He also says it would have been better if the captured [[Aes Sedai]] had died in battle since they will end up paying dearly for taking them prisoner.
+
+He accompanies Perrin into [[Ghealdan]] to track down [[Masema Dagar]].
+
+[[Dannil Lewin]] sends Jondyn, [[Hu Marwin]], and [[Get Ayliah]] to track down [[Faile]] when she is captured by the [[Shaido]] [[Aiel]]. Numbers of the Shaido are initially estimated based on the fact that Jondyn finds scrapes on trees which he says are made by carts and that there were a lot of them. Sulin uses this information to deduce there are probably more than one sept of the Shaido and thousands of spears, since only Aiel children ride in carts.
+
+The group of trackers eventually catch up with Faile's captors and question a number of inhabitants who are fleeing [[Malden]] because of the arrival of the Aiel.
+
+Perrin thinks that Jondyn must have shown the [[Maidens of the Spear]] how to make snow-shoes from vines and supple pine branches.
+When Perrin meets with the [[Seanchan]], he gets Jondyn to shoot an arrow into a branch he holds up, to show that Two Rivers men are hiding in the bushes and will fire on the Seanchan if necessary.
+
+===Family Name===
+Barran seems to be a common name in the Two Rivers, especially around Emond's field. The following other Barrans are mentioned: 
+
+*[[Doral Barran]]
+*[[Hilde Barran]]
+*[[Hu Barran]] - brother to Tad
+*[[Tad Barran]] - brother to Hu
+
+{{DEFAULTSORT:Barran, Jondyn}}

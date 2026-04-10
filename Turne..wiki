@@ -1,0 +1,28 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=150px
+| status=Alive
+| nationality=Ghealdanin
+| build=Lanky
+| hair=Red, Curly
+| occupation=Mercenary
+| affiliation=Perrin Aybara
+| gender=Male
+| appeared={{tom|2}}
+| lastappeared={{tom|2}}
+| living=tom
+}}
+
+'''Turne''' is a mercenary captain currently under the employ of [[Perrin Aybara]].
+
+== Appearance ==
+He is lanky with curly red hair and a beard tied with leather cords.
+
+== Activities ==
+He offers to work for Perrin by being paid with food rather than money. Perrin agrees and sends him to [[Tamlin al'Thor]] for training. {{Ref/book|13|2}}
+
+== Trivia ==
+* Turne is named for Joshua Turner, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{Notes}}
+[[Category:Characters named after fans]]

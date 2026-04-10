@@ -1,0 +1,9 @@
+== Summary ==
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| ImageType2         = CCG
+| Description        = [[Amys]].
+| Source             = The "[[Premier]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Bill O'Conner
+}}

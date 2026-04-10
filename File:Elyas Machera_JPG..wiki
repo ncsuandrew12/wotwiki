@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Fan Art
+| ImageType2              = Character
+| Description             = [[Elyas Machera]] meets [[Perrin Aybara]] and [[Egwene al'Vere]].
+| Source                  = [http://saintchase.deviantart.com/art/WoT-Wolves-127218766 deviantART].
+| Artist                  = Chase Conley
+}}

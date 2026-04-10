@@ -1,0 +1,31 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| eyes=
+| status=Alive
+| mentioned=The Wheel of Time Companion
+| living=
+|ewot = wyndera}}'''Wyndera Ovan''' is an [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Wyndera Ovan|Wyndera}}
+
+== Strength ==
+[[Covarla Baldene]] obtained command in [[Dorlan]] because she was the strongest of the group that escaped [[Dumai's Wells]]. Therefore, it is likely that Wyndera's strength level is beneath {{opsl|27}}, which is Covarla's level.
+
+== Activities ==
+Wyndera remained loyal during the [[Tower]] split. She was sent to [[Cairhien]] to kidnap [[Rand al'Thor]] and escaped Dumai's Wells with Covarla to take refuge in Dorlan.{{ref||Wyndera}}
+
+==Trivia==
+This Aes Sedai is described only in "The Wheel of Time Companion", she is never mentioned in the main books of the Wheel of Time.
+
+{{notes}}
+[[Category:Dorlan Group]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

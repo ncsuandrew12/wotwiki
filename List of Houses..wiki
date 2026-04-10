@@ -1,0 +1,355 @@
+A '''House''' is a [[nobility|noble]] family. Many nations in the [[Westlands]] have noble houses. Below are the noble houses by nation.
+
+==Altara==
+
+<center>
+{| class="wikitable"
+! colspan="3"| Noble Houses of [[Altara]]
+|-
+|[[House Mitsobar]]
+|[[House Todande]]
+|[[House Vendare]]
+|}
+</center>
+
+==Amadicia==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Amadicia]]
+|-
+|[[House Algoran]]
+|[[House Lukan]]
+|[[House Ramoth]]
+|-
+|[[House Senhold]]
+|}
+</center>
+
+==Andor==
+[[Andor]]an houses are divided into two groups, major and minor. There are nineteen major houses. During a [[Succession Wars|succession]], a claimant to the [[Rose Crown of Andor]] must win a majority of the major Houses to win the throne.
+
+===Major Houses===
+
+<center>
+{| class="wikitable"
+! colspan="3" | Major Noble Houses of [[Andor]]
+|-
+|[[House Anshar]]
+|[[House Haevin]]
+|[[House Renshar]]
+|-
+|[[House Arawn]]
+|[[House Mantear]]
+|[[House Sarand]]
+|-
+|[[House Baryn]]
+|[[House Marne]]
+|[[House Taravin]]
+|-
+|[[House Caeren]]
+|[[House Casalain]]
+|[[House Northan]]
+|-
+|[[House Traemane]]
+|[[House Candraed]]
+|[[House Norwelyn]]
+|-
+|[[House Trakand]]
+|[[House Carand]]
+|[[House Gilyard]]
+|-
+|[[House Pendar]]
+|[[House Coelan]]
+|}
+</center>
+
+===Minor Houses===
+
+<center>
+{| class="wikitable"
+! colspan="3" | Minor Noble Houses of Andor
+|-
+|[[House Ankerin]]
+|[[House Armaghn]]
+|[[House Avarhin]]
+|-
+|[[House Branstrom]]
+|[[House Bryne]]
+|[[House Janevor]]
+|-
+|[[House Gilbearn]]
+|[[House Layden]]
+|[[House Maran]]
+|-
+|[[House Martan]]
+|[[House Matherin]]
+|[[House Pensenor]]
+|-
+|[[House Raned]]
+|[[House Sharplyn]]
+|[[House Talkend]]
+|-
+|[[House Traehand]]
+|[[House Vordarian]]
+|}
+</center>
+
+=== Two Rivers ===
+<center>
+{| class="wikitable"
+! colspan="1" | Noble House of the [[Two Rivers]]
+|-
+|[[House Aybara]]
+|}
+</center>
+
+==Arad Doman==
+
+=== Bloodborn Houses ===
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Arad Doman]]
+|-
+|[[House Almadar]]
+|[[House Ituralde]]
+|[[House Lazari]]
+|-
+|[[House Nawaz]]
+|[[House Ramshalan]]
+|}
+</center>
+
+=== Merchant Houses ===
+
+<center>
+{| class="wikitable"
+! colspan="3" | Merchant Houses of [[Arad Doman]]
+|-
+|[[House Antos]]
+|[[House Chadmar]]
+|[[House Kilvar]]
+|}
+</center>
+
+==Cairhien==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Cairhien]]
+|-
+|[[House Aesnan]]
+|[[House Annallin]]
+|[[House Colmcille]]
+|-
+|[[House Delovinde]]
+|[[House Osiellin]]
+|[[House Chuliandred]]
+|-
+|[[House Dhulaine]]
+|[[House Hamarashle]]
+|[[House Riatin]]
+|-
+|[[House Daganred]]
+|[[House Maravin]]
+|[[House Saighan]]
+|-
+|[[House Damodred]]
+|[[House Moseneillin]]
+|[[House Taborwin]]
+|}
+</center>
+
+==Ghealdan==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Ghealdan]]
+|-
+|[[House Almeyda]]
+|[[House Ashmar]]
+|[[House Kigarin]]
+|-
+|[[House Prosnarin]]
+|[[House Talvaen]]
+|}
+</center>
+
+==Illian==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble House of [[Illian]]
+|-
+|[[House Drapaneos]]
+|[[House Elamri]]
+|[[House Mancuri]]
+|-
+|[[House Merseneos]]
+|[[House Narettin]]
+|[[House Netari]]
+|-
+|[[House Panar]]
+|[[House Semaris]]
+|[[House Stepaneos]]
+|}
+</center>
+
+==Kandor==
+
+<center>
+{| class="wikitable"
+! colspan="4" | Noble Houses of [[Kandor]]
+|-
+|[[House Demain]]
+|[[House Marcasiev]]
+|[[House Materesu]]
+|[[House Noramaga]]
+|-
+|[[House Okatomo]]
+|[[House Rai]]
+|[[House Soukovni]]
+|}
+</center>
+
+==Malkier==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Malkier]]
+|-
+|[[House Arathdar]]
+|[[House Arrel]]
+|[[House Gemallen]]
+|-
+|[[House Jamelle]]
+|[[House Maclain]]
+|[[House Mandragoran]]
+|}
+</center>
+
+==Mayene==
+
+<center>
+{| class="wikitable"
+! colspan="1" | Noble House of [[Mayene]]
+|-
+|[[House Paeron]]
+|}
+</center>
+
+==Murandy==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Murandy]]
+|-
+|[[House a'Balaman]]
+|[[House a'Conlin]]
+|[[House a'Conn]]
+|-
+|[[House a'Coralle]]
+|[[House a'Cowel]]
+|[[House a'Lordeine]]
+|-
+|[[House a'Macansa]]
+|[[House a'Naloy]]
+|[[House a'Roihan]]
+|-
+|[[House a'Roos]]
+|}
+</center>
+
+==Saldaea==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Saldaea]]
+|-
+|[[House Bashere]]
+|[[House Dianatkhah]]
+|[[House Gahaur]]
+|-
+|[[House Kazadi]]
+|[[House Ramsin]]
+|[[House Rashad]]
+|-
+|[[House Torkumen]]
+|}
+</center>
+
+==Seanchan==
+
+<center>
+{| class="wikitable"
+! colspan="1" | Noble Houses of [[Seanchan]]
+|-
+|[[House Paendrag]]
+|}
+</center>
+
+==Shienar==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Shienar]]
+|-
+|[[House Jagad]]
+|[[House Shinowa]]
+|[[House Tihomar]]
+|-
+|[[House Togita]]
+|[[House Yokata]]
+|}
+</center>
+
+==Tarabon==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Tarabon]]
+|-
+|[[House Amadia]]
+|[[House Bornhald]]
+|[[House Genhal]]
+|-
+|[[House Lounault]]
+|[[House Maseed]]
+|[[House Nerenhald]]
+|}
+
+</center>
+
+==Tear==
+
+<center>
+{| class="wikitable"
+! colspan="3" | Noble Houses of [[Tear]]
+|-
+|[[House Aldiaya]]
+|[[House Damara]]
+|[[House Saniago]]
+|-
+|[[House Annariz]]
+|[[House Haellin]]
+|[[House Selorna]]
+|-
+|[[House Andiama]]
+|[[House Mecandes]]
+|[[House Mendiana]]
+|-
+|[[House Narencelona]]
+|[[House Novares]]
+|[[House Sisnera]]
+|-
+|[[House Asegoar]]
+|[[House Pendaloan]]
+|[[House Tirado]]
+|-
+|[[House Tonarma]]
+|}
+</center>
+[[Category:Culture]]
+[[Category:Noble houses| House]]
+[[Category:List pages]]

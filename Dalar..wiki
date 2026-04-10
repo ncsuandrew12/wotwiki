@@ -1,0 +1,17 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| occupation=Author
+| gender=Female
+| mentioned={{tgh|35}}
+| lastmentioned={{loc|20}}
+}}
+'''Dalar''' was an [[Ogier]] woman.
+
+==History==
+[[Loial]] once told [[Rand al'Thor]] about Dalar, saying that she spent ten years outside a ''[[stedding]]'' with the ''[[Atha'an Miere]]''. The entire time, she went without suffering the [[Longing]].{{ref/book|2|35}} She had returned to her ''stedding'', and according to [[Elder]] [[Haman]], she continued to write, but had to use a walking stick for the rest of her life.{{ref/book|6|20}} Both Loial and Haman refer to Dalar in the past tense, indicating that she died.
+
+{{notes}}
+{{short}}

@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover Art
+| Description             = Cover for the Tor edition of ''[[The Path of Daggers]]''
+| Source                  = ''[[The Path of Daggers]]''
+| Artist                  = Darrell Sweet
+}}
+[[Category:Tor editions|08]]

@@ -1,0 +1,17 @@
+<noinclude>{| align="right"
+|{{Month|March}}
+|{{Wotmonth|Aine}}
+|}
+'''Aine 2 (March 17)'''
+
+==Events==
+</noinclude>
+*[[1000 NE]] - [[Rand]] forbids the forced bonding of any more [[Aes Sedai]] by the [[Black Tower]].
+*[[1000 NE]] - Rand decides to seek a truce with the [[Seanchan]].
+
+<noinclude>
+==External links==
+*[[wikipedia:march 17|March 17]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

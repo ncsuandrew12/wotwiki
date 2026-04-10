@@ -1,0 +1,92 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewot=Seonid
+| ajah=Green
+| nationality=Cairhienin
+| gender=Female
+| affiliation=Perrin Aybara
+| rank=Aes Sedai
+| height=Short
+| status=Alive
+| hair=Dark
+| mentioned={{loc|41}}
+| appeared={{loc|43}}
+| lastappeared={{tom|26}}
+| living=tom
+|birth = {{ne|928}}}}
+
+'''Seonid Traighan''' is an [[Aes Sedai]] of the [[Green Ajah]].
+
+== Appearance and Personality ==
+Seonid is a short (5'1 tall) and pale [[Cairhienin]] with dark hair that fell in waves to her shoulders{{ref/book|8|7}} with big, dark, bottomless eyes. While she is not particularly slender, neither is she stocky or stout. She is atypical for a Green in that she is cool and reserved{{ref/book|6|43}}, with an air of dignity and authority, with sometimes a determined smile. Her normal attitude is to be brisk, practical, businesslike and methodical.
+
+She sometimes wears a ''[[Kesiera]]'' on her forehead, with a white fingernail-sized stone.
+
+== Strength and Abilities ==
+Seonid is [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai, with a [[One Power]] level of {{opsl|23}}. Among the [[Salidar Embassy to the Dragon Reborn]], she was equal in strength to [[Merana Ambrey]], although there were several stronger sisters in the group.
+
+She is stronger than the minimum stated strength for [[Traveling]].
+
+Seonid is also quite good in the traditional Aes Sedai method of [[Healing]].{{ref/book|10|27}}
+
+==History==
+Seonid is 72 years old. She was born in the year {{ne|928}} and went to the [[White Tower]] in {{ne|946}}. After spending thirteen years as [[novice]] and twelve as [[Accepted]] she was raised to the shawl in the year [[971 NE]].<ref name=comp>[[The Wheel of Time Companion]], Seonid Traighan.</ref>
+
+She chose the Green Ajah because it is the Battle Ajah but, as mentioned above, Seonid is atypical for a Green. She is a lesbian, but she does not hate men, she just does not want to bed them.<ref name=comp></ref>
+
+She has two [[Warder]]s, [[Furen Alharra]] and [[Teryl Wynter]]. Seonid's attitude toward her Warders is very businesslike, brisk, practical and methodical. That is in fact her general attitude.
+
+==Activities==
+===Embassy to the Dragon===
+#She is allied with the [[Salidar Aes Sedai]] and is a member of the [[Salidar Embassy to the Dragon Reborn|embassy]] sent from Salidar to [[Rand al'Thor]] in [[Caemlyn]]{{ref/book|6|p}}. Min reported that Seonid mulled over every rumor from her native Cairhien, and kept her own counsel as to her opinion of Rand. The embassy arrives in Caemlyn. Seonid visits the Dragon Reborn, along with [[Merana]] and [[Masuri]] - the first three to do so. She is also one of the seven who confront Rand with the Mask of Mirrors after [[Demira Eriff|Demira]] is injured. Later, the embassy members connect with [[Verin]] and [[Alanna]], deciding to form an alliance with them{{ref/book|6|41}}{{ref/book|6|42}}{{ref/book|6|43}}.
+#After the delegation dissolves she accompanies [[Bera Harkin]] and [[Kiruna Nachiman]] to meet Rand in [[Cairhien]] after he flees [[Andor]]{{ref/book|6|49}}.
+#Seonid fights with [[Perrin Aybara]]'s forces at the Battle of [[Dumai's Wells]] to rescue Rand{{ref/book|6|54}}, although she is forced to swear fealty to Rand afterwards{{ref/book|6|55}}.
+#Seonid and [[Masuri Sokawa]] of the [[Brown Ajah]] accompany Perrin into [[Ghealdan]] to track down [[Masema Dagar]]{{ref/book|7|27}}. Masuri and Seonid were sent by Rand under the order to obey Perrin as they would to the Dragon, something that left room for interpretation, as she, Perrin and Masuri are all aware. In Seonid's mind, she was determined to fulfill her Oaths to Rand; and one of the best ways to do that was to suppress the Dragonsworn in whatever way possible.
+#She considered Rand as arrogant as any king, and had the typical Cairhenin attitude towards the Aiel.
+
+===Tracking the Prophet ===
+
+# In Perrin's camp, Annoura stays with Berelain but Masuri and Seonid stay with Edarra and the other Wise Ones{{ref/book|10|5}}. She becomes an apprentice to the [[Aiel]] [[Wise Ones]] and even has to suffer beatings from them{{ref/book|7|27}}.
+# Seonid helps Perrin to rescue [[Morgase]]'s group from a band of [[Dragonsworn]]{{ref/book|8|7}}.
+# After it Seonid and the Wise Ones meet with Masuri and the others to discuss the Prophet{{ref/book|8|8}}. Seonid, along with the Wise Ones, advises Perrin to kill Masema{{ref/book|8|9}}.
+# She goes with Perrin to his meeting with Masema in [[Abila]]{{ref/book|8|30}}.
+
+===Rescuing Faile===
+
+# Perrin and the others leave Abila and return to their camp to discover that Faile and others are captured by the Shaido{{ref/book|9|1}}.
+# Seonid, Masuri, Carelle and Edarra join Delora, Janina, Marline and Nevarin in the Wise Ones' tent to discuss the kidnapping{{ref/book|9|2}}.
+# Seonid, Masuri and the Wise Ones join the Two Rivers men as they all prepare to head south after Faile{{ref/book|9|6}}.
+# She goes with Perrin to [[So Habor]], where they collect grain for their troops{{ref/book|10|25}}. She wishes to investigate the ghosts in So Habor but Perrin forbids her from remaining behind{{ref/book|10|26}}.
+# She accompanies him back to camp and witnesses him cleave a Shaido prisoner's hand off when he is looking for answers on his missing wife. She [[Heal]]s the hand, but as a stump, without the hand{{ref/book|10|27}}.
+# She assists Perrin in rescuing [[Faile]] from her captivity by the Aiel. She and her Warders go through the aqueduct to enter the town of [[Malden]] before Perrin begins his attack{{ref/book|11|26}}.
+# After the rescue, Seonid, Furen and Teryl join Perrin and Faile. Seonid Heals Perrin's and Faile's injuries{{ref/book|11|26}}.
+
+===Meeting with the Whitecloaks===
+
+# From Malden, Perrin and his followers travel slowly through Ghealdan to the Jehannah Road. A bubble of evil brings black snakes and the Aes Sedai are bitten. Healing does not work properly{{ref/book|13|2}}.
+# While Perrin's army travels they come across an area of land which is diseased as the [[Blight]]. Perrin orders Seonid, Masuri, and the Wise Ones to burn it{{ref/book|13|4}}. She then attends a meeting with Perrin to decide where the army should go.
+# Seonid advances enough in the Wise Ones opinions that she is allowed to speak without their permission. She decides to accompany a scouting force that will be sent to Cairhien to start looking for Rand{{ref/book|13|6}}.
+# She reports to Perrin on current events that are happening within the continent, including [[Darlin Sisnera]] being made king of [[Tear]] and the lack of a needed leader in Cairhien{{ref/book|13|21}}.
+# Perrin requests Seonid and the other Aes Sedai to meet with him just as his force is about to engage the [[Children of the Light|Whitecloaks]]. He charges the Aes Sedai to create a massive trench between the two forces but she declines as her oaths prevent her due to possible damage to the Whitecloaks who are close{{ref/book|13|23}}.
+# She attends the second parley between Perrin and the [[Lord Captain Commander]] [[Galadedrid Damodred]]. After the meeting, the Aes Sedai and Wise Ones accompany Perrin and others to his trial.{{ref/book|13|34}}
+# After the forging of [[Mah'alleinir]] Perrin decides to help the Whitecloacks that are to be attacked by a horde of [[Shadowspawn]]. Seonid and her Warders most probably participated at this battle{{ref/book|13|41}}.
+# The Asha'man, Aes Sedai and Wise Ones link and open a large gateway for Perrin's army to Travel to the Field of Merrilor{{ref/book|13|53}}.
+
+===The Last Battle===
+
+# Seonid is not mentioned in the last book but as with many Aes Sedai sworn to Rand, she probably fought the [[Last Battle]] on the slopes of [[Thakan'dar]]{{ref/book|14|34}}. It is not stated whether she survived or not, so it is likely that she did.
+
+==Trivia==
+She is one of the few confirmed lesbians throughout the series{{ref/book|8|9}}.
+
+{{notes}}
+{{DEFAULTSORT:Traighan, Seonid}}
+
+[[es:Seonid Traighan]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Caemlyn Embassy]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

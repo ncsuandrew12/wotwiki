@@ -1,0 +1,25 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=100px
+| status=Alive
+| nationality=Andoran
+| occupation=Soldier
+| affiliation=Queen's Guard
+| rank=Sergeant
+| gender=Male
+| build=Stout
+| hair=Bald
+| appeared={{tom|22}}
+| lastappeared={{tom|22}}
+| living=tom
+}}'''Renald Macer''' is a sergeant in the [[Queen's Guards]] in [[Caemlyn]].{{ref|{{twotc}}, Renald Macer}}
+
+== Appearance ==
+He is bald-headed with a mustache. He is a stout man with wide hands and a calm temperament.
+
+== Activities ==
+[[Birgitte Silverbow]] bursts in on him dicing with [[Matrim Cauthon]], who was caught sneaking into the Palace.
+
+{{notes}}
+{{Short}}
+{{DEFAULTSORT:Macer, Renald}}
