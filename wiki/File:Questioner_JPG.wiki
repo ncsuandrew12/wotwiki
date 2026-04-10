@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = A [[Whitecloak]] [[Questioner]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Wayne England
-}}
-[[Category:Featured images]]

@@ -1,2 +1,0 @@
-<includeonly><code>''"{{{1}}}"''{{if|{{{2|}}}|<br>&nbsp;&nbsp;&nbsp;&nbsp;<strong>~ {{{2}}}</strong>|}}</code></includeonly><noinclude>{{documentation}}
-[[Category:Quotation templates|{{PAGENAME}}]]</noinclude>

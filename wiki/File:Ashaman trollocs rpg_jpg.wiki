@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character Image
-| Description        = [[Asha'man]] attacking [[trolloc]]s
-| Source             = [[The Wheel of Time Roleplaying Game]],
-http://classic-web.archive.org/web/20020806154354/www.wizards.com/wheeloftime/article.asp?x=wx20020305a
-| Artist             = Adam Rex
-}}

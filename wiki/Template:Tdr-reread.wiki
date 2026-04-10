@@ -1,9 +1,0 @@
-{|class="collapsible collapsed" width="100%" style="clear:both; margin:0 auto;" align=center id=toc
-|-
-!align=center style="background:#242424;" colspan=2| '''Leigh Butler's Re-read of ''[[The Dragon Reborn]]'', featured on [http://www.tor.com Tor.com]'''
-|-
-|style="background:#424242;" rowspan=2 |'''[http://www.tor.com/features/series/wot-reread Re-read listing]'''
-|[http://www.tor.com/index.php?option=com_content&view=blog&id=16012 Part 1] · [http://www.tor.com/index.php?option=com_content&view=blog&id=16150 Part 2] · [http://www.tor.com/index.php?option=com_content&view=blog&id=16488 Part 3] · [http://www.tor.com/index.php?option=com_content&view=blog&id=16875 Part 4] · [http://www.tor.com/index.php?option=com_content&view=blog&id=17105 Part 5] · [http://www.tor.com/index.php?option=com_content&view=blog&id=17347 Part 6] · [http://www.tor.com/index.php?option=com_content&view=blog&id=17720 Part 7] · [http://www.tor.com/index.php?option=com_content&view=blog&id=17951 Part 8] · [http://www.tor.com/index.php?option=com_content&view=blog&id=18226 Part 9]
-|-
-|}<noinclude>
-[[Category:Re-read templates|{{PAGENAME}}]]</noinclude>

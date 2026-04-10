@@ -1,2 +1,0 @@
-== Summary ==
-Icon used for the {{t|TVlink}} template to link to the TV series wiki.

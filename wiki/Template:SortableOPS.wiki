@@ -1,2 +1,0 @@
-<includeonly>data-sort-value={{#expr:79-{{{power|{{{1|}}}}}}}}|{{opsl|{{{power|{{{1|}}}}}}}}</includeonly><noinclude>{{Documentation}}
-[[Category:Templates]]</noinclude>

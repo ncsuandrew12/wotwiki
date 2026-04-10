@@ -1,1 +1,0 @@
-This category is populated with any images that use the {{t|Image}} template and specify a value for the '''AI''' parameter and "wheeloftime_mtg_cards" for the '''Artist''' parameter.

@@ -1,3 +1,0 @@
-<includeonly>{{ref|{{TIDBKW|{{{1|}}}|{{{2|}}}}}|{{#if:{{{2|}}}||TIDBKW-{{{1}}}{{#if:{{{2|}}}|-{{{2}}}}}}}}}</includeonly><noinclude>{{Documentation|:Template:ref/doc}}
-[[Category:Utility templates|{{PAGENAME}}]]
-[[Category:Templates]]</noinclude>

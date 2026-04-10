@@ -1,3 +1,0 @@
-<includeonly>{{#if:{{{1|}}}|{{#if:{{{2|}}}||<span style="color:red;"><b>ERROR: Missing Parameter:</b> Blood and Bloody Ashes! You forgot to specify a divisor!</span>}}|<span style="color:red;"><b>ERROR: Missing Parameter:</b> Blood and Bloody Ashes! You forgot to specify a number!</span>}}{{ {{{|safesubst:}}}#ifexpr:({{{2}}})=0|0|{{ {{{|safesubst:}}}#ifexpr:(({{{1}}})/({{{2}}}))=((({{{1}}})/({{{2}}}))round 0)|0|{{ {{{|safesubst:}}}#ifexpr:(({{{1}}})/({{{2}}}))>0 and(({{{1}}})/({{{2}}}))<1|{{ {{{|safesubst:}}}#expr:{{{1}}}}}|{{ {{{|safesubst:}}}#expr:({{{1}}})-((((({{{1}}})/({{{2}}}))-0.5)round 0)*({{{2}}}))}}}}}}}}</includeonly><noinclude>
-{{Documentation}}
-</noinclude>

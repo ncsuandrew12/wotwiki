@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Miscellaneous
-| Description        = [[Balefire]] being used.
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Carl Critchlow
-}}

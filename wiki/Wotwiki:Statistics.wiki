@@ -1,4 +1,0 @@
-I'm collecting some links here that may be useful in the future; right now at our current size, not so much, but sometimes interesting, regardless. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 21:42, 1 Dec 2005 (UTC)
-* [http://www.top25web.com/pagerank.php Google PageRank calculator]
-* [[Special:WikiaStats|Wikia' Statistics]]
-* [http://www.google.com/search?hl=en&lr=&safe=off&q=site%3Awot.wikia.com Google's index of our pages]

@@ -1,5 +1,0 @@
-{{Forumheader|Hall of the Tower}}
-
-<!-- Please put your content under this paragraph.  Be sure to sign your edits with four tildes: ~~~~ -->
-I know this isn't a huge problem, but it is an inconvenience. Is there a way to make it so that the wiki isn't case sensitive when linking pages. It can be a pain in the ass to have to put <nowiki>[[Gray Man|gray man]]</nowiki> rather than simply being able to link to <nowiki>[[gray man]]</nowiki>. [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]][[User_talk:Rahien|<font color="#FFB90F">'''☯'''</font>]] 20:08, November 5, 2010 (UTC)
-:Redirects are always an option, especially if it is used a lot. ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 03:49, November 6, 2010 (UTC)

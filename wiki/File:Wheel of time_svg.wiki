@@ -1,6 +1,0 @@
-
-{{Image
-| License                 = GFDL
-| ImageType1              = Admin
-| Description             = A wheel
-}}

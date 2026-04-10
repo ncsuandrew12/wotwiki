@@ -1,3 +1,0 @@
-* Should all redirects be categorized under [[:Category:Redirects]] ?
-
-:: I'm inclined to say not ALL need to be there, but the method to my madness is to use Related changes from the category page to keep track of these someday in the future, when watchlists become overloaded. It may be more effort than the gain is worth, however... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 23:21, 25 Oct 2005 (UTC)

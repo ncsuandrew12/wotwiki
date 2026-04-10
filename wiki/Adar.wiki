@@ -1,8 +1,0 @@
-{| align="right"
-|{{Wotmonth|Adar}}
-|}
-'''Adar''' is the fifth month in the [[Farede calendar]]. In most years, it is equivalent to the real world period from [[April]] [[April 13|13]] to [[May]] [[May 10|10]].  [[Tirish Adar]] occurs during Adar, [[Feast of Neman]] on the 9th, and [[Feast of Freia]] on the 21st.
-
-{{farede}}
-{{Short}}
-[[Category:Calendars]]

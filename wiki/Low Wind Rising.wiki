@@ -1,9 +1,0 @@
-{{swordform 
-| mentioned={{5|21}}
-| used=[[Rand al'Thor]]
-}}
-{{dablink|For other uses of the words "wind" and "rising," see [[Wind]] and [[Rising]].}}
-'''Low Wind Rising''' is a [[sword form]]. It has both a standing and a seated version. [[Rand al'Thor]] used the seated version of this form when testing [[Laman Damodred]]'s sword that was given to him by [[Aviendha]] to slice a silk cushion in half.{{ref/book|5|21}}
-
-{{notes}}
-{{short}}

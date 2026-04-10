@@ -1,4 +1,0 @@
-'''Smiths''' are people who work with metal. Blacksmiths work with iron or steel, silversmiths work with silver, and goldsmiths work with gold.
-
-[[Category:Occupations| Smiths]]
-[[Category:Sort option categories]]

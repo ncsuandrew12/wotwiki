@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character image
-| ImageType2         = CCG
-| Description        = [[Far Dareis Mai|Maidens]] meeting ''[[Ji'e'toh|toh]]''' by carrying dolls
-| Source             = The "Children of the Dragon" deck of ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = Ron Walotsky
-}}

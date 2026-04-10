@@ -1,7 +1,0 @@
-
-{{Image
-| License                 = GFDL
-| ImageType1              = Admin
-| Description             = Red x
-| Source                  = http://commons.wikimedia.org/wiki/Image:X_mark.svg
-}}

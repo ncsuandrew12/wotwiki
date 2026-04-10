@@ -1,4 +1,0 @@
-==Purpose of template==
-Add a sortable wiki table entry for a given Amyrlin, specifying the approximate or exact beginning and ending years of her reign and her power level.
-
-==How to use==

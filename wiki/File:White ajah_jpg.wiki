@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character
-| ImageType2              = Fan Art
-| Description             = An unnamed member of the [[White Ajah]].
-| Source                  = [http://www.clydecaldwell.com/large_images/white_ajah.html]
-| Artist                  = Clyde Caldwell
-}}

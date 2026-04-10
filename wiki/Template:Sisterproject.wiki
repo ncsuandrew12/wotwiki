@@ -1,8 +1,0 @@
-<div class="sister-project"><div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #242424; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
-<div style="float: left;">[[Image:{{{image}}}|50px|none| ]]</div>
-<div style="margin-left: 60px;">{{{text}}}
-<div style="margin-left: 10px;"><b><i>{{{link|}}}</i></b></div>
-</div>
-</div>
-</div><noinclude>
-[[Category:Linking templates|Sister]]</noinclude>

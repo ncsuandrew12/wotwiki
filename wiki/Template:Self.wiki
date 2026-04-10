@@ -1,9 +1,0 @@
-<center>
-<div class="boilerplate" id="c-fairuse" style="width: 90%; margin: 0 auto; text-align: justify; background: #424242; padding: 10px; border: 1px solid #A8ACA8;">
-'''''This file was uploaded by the photographer or author.'''''
-</div>
-</center><noinclude>
-
-To use this template, type <nowiki>{{Self}}</nowiki> on the image information page.
-[[Category:Image templates|{{PAGENAME}}]]
-</noinclude>

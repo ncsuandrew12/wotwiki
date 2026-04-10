@@ -1,5 +1,0 @@
-{{no.}}{{#switch:{{lc:{{{1}}} }}|
-ogier=1b9123|
-other={{color/css|grey}}|
-<!--human-->#default=D6F0F5}}<noinclude>{{delete|unused}}
-[[Category:Color templates|{{PAGENAME}}]]</noinclude>

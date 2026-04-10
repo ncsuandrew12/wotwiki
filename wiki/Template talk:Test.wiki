@@ -1,7 +1,0 @@
-<div style="align:right;">
-{| align="right" width="20%" style="max-width: 200px; border:1px solid #aaaaaa; border-top:{{#if:{{{header|}}}|0|1}}}px; background-color:#f9f9f9; font-family: Verdana, sans-serif; margin: 2.8em 0 0 3.2em; padding: 1em 1em 1.5em 1em ;"
-|-
-|foobar
-|}
-{{infobox chapters 1}}
-</div>

@@ -1,3 +1,0 @@
-Test: {{#expr:{{CURRENTTIMESTAMP}} mod 30 + 1}}
-
-[http://wot.wikia.com/wiki/Template_talk:Random?action=purge Reload, purging cache]

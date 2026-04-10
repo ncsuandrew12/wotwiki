@@ -1,4 +1,0 @@
-<includeonly>{{#if:{{{2|}}}|{{Wiki|{{{1|}}}|{{{2}}}}}|{{Wiki|{{{1|}}}}}}}</includeonly><noinclude>
-'''This duplicates {{tl|Wiki}}. Consider using that instead.'''
-{{Documentation}}
-[[Category:Linking templates]]</noinclude>

@@ -1,7 +1,0 @@
-{{Image
-| License            = Fair Use
-| ImageType1         = Item
-| Description        = Altara Flag
-| Source             = ''[[The World of Robert Jordan's The Wheel of Time]]''
-| Artist             = Todd Cameron Hamilton
-}}

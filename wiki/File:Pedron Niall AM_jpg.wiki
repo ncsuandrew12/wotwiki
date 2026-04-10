@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/adammasterman/art/Lord-Captain-Commander-592718896	
-|Description = Fan art of [[Pedron Niall]].
-|Artist      = Adam Masterman
-}}

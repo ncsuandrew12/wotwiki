@@ -1,8 +1,0 @@
-{{Image 
-| License = GFDL
-| ImageType1 = Fan Art
-| ImageType2 = Character
-| Description = [[Demandred]] by googoolini on DeviantArt.com
-| Source = http://fav.me/d2rsb3q
-| Artist = Googoolini
-}}

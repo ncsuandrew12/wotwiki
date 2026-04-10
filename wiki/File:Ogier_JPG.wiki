@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Character
-| Description        = An [[Ogier]] [[Protector of the Forests]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Ken Walker
-}}

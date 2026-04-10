@@ -1,3 +1,0 @@
-For the record, I wouldn't be opposed to combining <nowiki>{{fact}}</nowiki> and <nowiki>{{needref}}</nowiki> under this, as I think it's more friendly/briefer/less disruptive to the flow of prose. But if other people think we need multiple ways to ask for citations, that's cool too. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 22:26, 6 September 2006 (UTC)
-
-:Over four years later... :) ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 08:01, January 27, 2011 (UTC)

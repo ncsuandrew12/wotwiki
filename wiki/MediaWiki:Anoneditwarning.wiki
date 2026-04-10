@@ -1,4 +1,0 @@
-'''Warning:''' You are not logged in. Your IP address will be recorded in this page's edit history.
-
-
-We recommend that you [[Special:UserLogin|login or register a username]] before you make this edit.<br>

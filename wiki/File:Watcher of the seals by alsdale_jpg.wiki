@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/alsdale/art/Watcher-of-the-Seals-305081544
-|Description = Fan art of [[Egwene al'Vere]] and [[Rand al'Thor]].
-|Artist      = Alsdale
-}}

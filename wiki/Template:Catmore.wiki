@@ -1,2 +1,0 @@
-:<div class="boilerplate" id="catmore">''The main article for this [[Project:Category index|category]] is '''[[{{{1|{{PAGENAME}}}}}]]'''.''</div>
-<noinclude>[[Category:Linking templates|{{PAGENAME}}]]</noinclude>

@@ -1,4 +1,0 @@
-<span class="plainlinks">[http://www.tarvalon.net/library.asp?article={{{1|}}} {{{2|TarValon.net}}}]</span>
-
-<noinclude>{{delete|unused}}
-[[Category:Linking templates|Tar Valon]]</noinclude>

@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Character
-| Description        = [[Lanfear]]
-| Source             = A variant cover for ''[[The Eye of the World 3]]''
-| Artist             = Jeremy Saliba
-}}

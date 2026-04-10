@@ -1,4 +1,0 @@
-<includeonly>{{#invoke:Quote|quote}}</includeonly><noinclude>
-{{Documentation}}
-[[Category:Quotation templates]]
-</noinclude>

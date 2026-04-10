@@ -1,6 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Video Game Screenshots
-| Description        = An opening [[Waygate]].
-| Source             = ''[[The Wheel of Time (video game)|The Wheel of Time]]''
-}}

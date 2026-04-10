@@ -1,6 +1,0 @@
-<onlyinclude>''[[Beasts of the Wheel of Time]]''{{#if:{{{1|}}}
-  |, [[Beasts of the Wheel of Time#{{{1}}}|{{#if:{{{2|}}}|{{{2}}}|{{{1}}}}}]]
-  |{{#if:{{{2|}}}|, '''{{{2}}}'''}}
-}}</onlyinclude><noinclude>
-{{Documentation}}
-[[Category:Book templates|Beasts of the Wheel of Time]]</noinclude>

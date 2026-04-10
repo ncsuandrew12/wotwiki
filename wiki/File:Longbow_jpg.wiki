@@ -1,6 +1,0 @@
-{{Image
-| License                 = Public Domain
-| ImageType1              = Item
-| Description             = Self-yew English longbow, 6 ft 6 in (2 m) long, 470 N (105 lbf) draw force.
-| Source                  = http://commons.wikimedia.org/wiki/File:Englishlongbow.jpg
-}}

@@ -1,7 +1,0 @@
-*This is just a test to-do list to help editors make sure that the text 
-*shows 
-*#up 
-*#correctly
-
-*To use this template for your own project, insert <code><nowiki>{{todo}}</nowiki></code> at the top of that article's Talk discussion page.
-<noinclude>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

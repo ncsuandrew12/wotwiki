@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Cover
-| Description        = The UK cover of ''[[The Eye of the World]]''
-| Source             = The UK cover of ''[[The Eye of the World]]''
-| Artist             = Lee Gibbons
-}}
-[[Category:The Eye of the World covers]]

@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/kristinadjordjevic/art/Moiraine-649893655
-|Description = Fan art of [[Moiraine Damodred]].
-|Artist      = KristinaDjordjevic
-}}

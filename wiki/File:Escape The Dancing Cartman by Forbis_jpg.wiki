@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/forbis/art/Escape-The-Dancing-Cartman-70559922
-|Description = Fan art of [[Mat Cauthon]] and [[Rand al'Thor]].
-|Artist      = Forbis
-}}

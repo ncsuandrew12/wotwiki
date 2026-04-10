@@ -1,8 +1,0 @@
-== Summary ==
-{{Image
-| License                 = CC
-| ImageType1              = Chapter Art
-| Description             = Colorized version of chapter icon. 
-| Source                  =  http://jcsalomon.github.io/wot-chapter-icons/
-}}
-[[Category:Images by Chris Moorhead]]

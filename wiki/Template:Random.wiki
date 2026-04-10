@@ -1,3 +1,0 @@
-<includeonly>{{#expr:((({{#time:U}}+({{{2|{{#time:z}}}}}))*({{{3|67}}})+({{NUMBEROFARTICLES:R}} mod ({{{3|67}}}))) mod ({{{1|100}}}+1))}}</includeonly><noinclude>
-{{documentation}}
-[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

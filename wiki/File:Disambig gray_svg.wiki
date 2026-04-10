@@ -1,7 +1,0 @@
-{{Image
-| License            = Public Domain
-| ImageType1          = Admin
-| Description        = Disambiguation icon
-| Source             = [http://en.wikipedia.org/wiki/File:Disambig_gray.svg]
-}}
-[[Category:Disambiguation]]

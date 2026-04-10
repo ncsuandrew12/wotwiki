@@ -1,9 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = Fairuse
-| ImageType2 = Fan Art
-| ImageType3 = Item
-|Source      = https://scrapsliveshere.blogspot.com/2010/03/rand-althor-fan-art.html
-|Description = Fan art of [[Rand al'Thor]] holding the [[fat bald man angreal]].
-|Artist      = SCRAPS
-}}

@@ -1,7 +1,0 @@
-{{Image
-|ImageType1  = Item
-|License     = Fairuse
-|Source      = The cover of ''[[New Spring 7]]''.
-|Description = [[Lan Mandragoran|Lan's]] ''[[hadori]]''.
-|Artist      = Mike S. Miller
-}}

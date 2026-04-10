@@ -1,7 +1,0 @@
-<pre>
-{{#invoke:Characters|get_characters_wikitable|all=true}}
-</pre>
-
-{{#invoke:Characters|get_characters_wikitable|all=true}}
-
-{{notes}}

@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{2|47}}
-| used=[[Rand al'Thor]]
-}}
-'''The Kingfisher Takes a Silverback''' is a [[sword form]]. Other than the name, nothing is known about it. [[Rand al'Thor]] used this form against [[Ishamael]] during their battle in the sky over [[Falme]].{{ref/book|2|47}}
-
-{{notes}}
-{{short}}
-{{DEFAULTSORT:Kingfisher Takes a Silverback, The}}

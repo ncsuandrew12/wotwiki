@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Fan Art
-|License     = GFDL
-| ImageType2 = Character
-|Source      = https://kitsune-gari.deviantart.com/art/WoT-doodle-256694710
-|Description = Fan art of the death of [[Couladin]].
-|Artist      = Kitsune-gari
-}}

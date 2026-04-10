@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Map
-| Description        = A map of the [[Western Lands]].
-| Source             = ''[[The Prophecies of the Dragon]]''.
-| Artist             = 
-}}

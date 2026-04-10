@@ -1,1 +1,0 @@
-'''There is no page titled "$1".''' You can [[:$1|create this page]], or [[Special:Allpages/$1|search the index]] for pages starting with this text.

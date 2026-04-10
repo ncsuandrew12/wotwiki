@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Item
-| ImageType2         = CCG
-| Description        = The female [[Choedan Kal]].
-| Source             = A promo card for ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = Stephen Daniele 
-}}

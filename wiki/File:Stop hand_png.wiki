@@ -1,7 +1,0 @@
-
-{{Image
-| License                 = GFDL 
-| ImageType1              = Admin
-| Description             = Edit summary visual
-| Source                  = http://en.wikipedia.org/wiki/File:Stop_hand.png
-}}

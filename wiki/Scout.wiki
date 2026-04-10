@@ -1,8 +1,0 @@
-'''Scouts''' are part of a military unit, used to perform reconnaissance on enemy formations.
-
-==Description==
-Scouts are primarily a small group of people who work independently, riding or running ahead of a main force. When they see an enemy formation, they report back to the main force. Stealth is important for scouts, so as not to alert a nearby enemy force of their presence.
-
-==In use==
-''[[Far Dareis Mai]]'' are often used as scouts for the [[Aiel]]. The [[Seanchan]] use ''[[raken]]'' and their riders as scouts. The [[Band of the Red Hand]] also has several scouts, sometimes people who used to follow more sordid crafts outside the Band, such as [[Chel Vanin]], a former horse thief and poacher.
-[[Category:Military]]

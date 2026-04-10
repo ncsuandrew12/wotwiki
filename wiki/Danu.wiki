@@ -1,8 +1,0 @@
-{| align="right"
-|{{Wotmonth|Danu}}
-|}
-'''Danu''' is the thirteenth month in the [[Farede calendar]]. In most years, it is equivalent to the real world period from [[November]] [[November 24|24]] to [[December]] [[December 21|21]]. The [[Feast of Lights]] occurs on the 28th.
-
-{{farede}}
-{{Short}}
-[[Category:Calendars]]

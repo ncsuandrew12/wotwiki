@@ -1,8 +1,0 @@
-{{swordform
-| mentioned={{12|13}}
-| used=[[Gawyn Trakand]]
-}}
-'''Shake Dew from the Branch''' is a [[sword form]]. It is used to deliver six sharp blows that can be divided amongst several opponents. [[Gawyn Trakand]] used this form against [[Marlesh]] and [[Sleete]] during their training.{{ref/book|12|13}}
-
-{{notes}}
-{{short}}

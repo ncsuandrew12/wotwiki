@@ -1,7 +1,0 @@
-{{Image
-| License                 = fair use
-| ImageType1              = Miscellaneous
-| Description             = ground ivy herb
-| Source                  =http://www.plantcare.com/encyclopedia/ale-ivy-527.aspx
-| Artist                  =
-}}

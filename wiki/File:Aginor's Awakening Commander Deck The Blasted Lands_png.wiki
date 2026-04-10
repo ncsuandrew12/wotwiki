@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fair Use
-| ImageType1              = Fan Art
-| Description             = The [[Blasted Lands]] card from the {{Link|url=https://wheeloftimemtg.gumroad.com/l/svvpca|text=Aginor's Awakening fan-made MTG Commander Deck}}}
-| Source                  = https://wheeloftimemtg.gumroad.com/l/svvpca
-| Artist                  = wheeloftime_mtg_cards
-| AI                      = AI
-}}

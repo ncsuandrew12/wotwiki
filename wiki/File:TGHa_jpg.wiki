@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Cover for ''[[The Hunt Begins]]''
-| Source                  = ''[[The Hunt Begins]]''
-| Artist                  = Charles Keegan
-}}
-[[Category:Tor editions|02a]]

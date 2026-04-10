@@ -1,8 +1,0 @@
-== Licensing ==
-{{Image
-| License                 = Fairuse
-| ImageType1              = Item
-| Description             = An alternate flag for [[Tar Valon]]
-| Source                  = ''[[The Wheel of Time Roleplaying Game]]'' [http://web.archive.org/web/20030820025536/www.wizards.com/wheeloftime/article.asp?x=wx20020305i website].
-| Artist                  = Michael Dubisch
-}}

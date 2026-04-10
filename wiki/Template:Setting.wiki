@@ -1,1 +1,0 @@
-<small>Setting: ''{{{1}}}''</small><noinclude>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

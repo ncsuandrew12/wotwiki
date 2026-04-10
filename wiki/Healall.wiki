@@ -1,6 +1,0 @@
-'''Healall''' is an [[herbs|herb]] that can be found in the [[Two Rivers]] region and in [[Amadicia]]. It can be taken orally, its powdered form dissolved in water{{ref/book|3|38}} or used as an ingredient in an ointment, applied to scratches and open wounds.{{ref/book|5|48}}{{ref/book|5|49}}
-
-{{notes}}
-
-{{stub}}
-[[Category:Herbs and Medicines]]

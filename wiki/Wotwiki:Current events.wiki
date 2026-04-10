@@ -1,8 +1,0 @@
-* [http://www.dragonmount.com/RobertJordan/ The Official Robert Jordan Blog] (dragonmount.com)
-
-
-Old todo list follows, use the new [[project:Community Portal|Community Portal]] instead.
-
-Another thing you can do is come up with a useful use for this page.
-
-{{todo|}}

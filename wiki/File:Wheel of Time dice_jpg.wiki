@@ -1,6 +1,0 @@
-{{Image
-| License                 = Public Domain 
-| ImageType1              = CCG
-| Description             = Wheel of Time Dice use in [[The Wheel of Time Collectible Card Game|Collectible Card Game]]
-| Source                  = http://en.wikipedia.org/wiki/File:Wheel_of_Time_dice.jpg
-}}

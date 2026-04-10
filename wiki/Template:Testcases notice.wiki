@@ -1,9 +1,0 @@
-{{msgbox
-|title=This is the template test cases page for the <noinclude>[[Template:Template test cases notice/sandbox|sandbox]]</noinclude><includeonly>[[{{{sandbox link|{{#if:{{{1|}}}|{{{1|}}}|{{NAMESPACE}}:{{BASEPAGENAME}}}}/{{{subpage-name|sandbox}}}}}}|{{{sandbox name|{{{subpage-name|sandbox}}}}}}]]</includeonly> of [[:{{#if:{{{1|}}}|{{{1|}}}|{{NAMESPACE}}:{{BASEPAGENAME}}}}]].
-|text=Purge this page to update the examples.
-|nocat=1
-}}<includeonly>
-[[Category:Template test cases]]</includeonly><noinclude>
-{{documentation}}
-<!-- Put categories/interwiki on the documentation page -->
-</noinclude>

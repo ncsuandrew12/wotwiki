@@ -1,7 +1,0 @@
-{{for|the inn in Tanchico|Inn of the Golden Cup}}
-'''The Golden Cup''' is an inn in the city of [[Tear]]. [[Mat]] and [[Thom]] find [[Comar]] there when they are looking for [[Elayne]], [[Nynaeve]] and [[Egwene]]. [[Comar]] is gambling using two sets of dice to win from the locals. Mat gambles with him and wins even though they used the same loaded dice. He then confronts Comar, and after a brief scuffle Mat manages to toss him on to a table which unintentionally breaks his back. The innkeeper promises to give the Defenders a different description for the killer, a man he dreamed of the previous night which matches the description of [[Rand]].{{ref/book|3|49}}
-
-{{notes}}
-{{DEFAULTSORT:Golden Cup, The}}
-[[Category:Inns]]
-[[Category:Tear]]

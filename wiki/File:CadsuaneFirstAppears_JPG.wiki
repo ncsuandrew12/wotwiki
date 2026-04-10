@@ -1,8 +1,0 @@
-{{Image
-| License                 = GFDL
-| ImageType1              = Character
-| ImageType2              = 
-| Description             = [[Cadsuane]] enters the [[Sun Palace]].
-| Source                  = The 2nd eBook cover of ''[[A Crown of Swords]]''.
-| Artist                  = Tyler Jacobson
-}}

@@ -1,4 +1,0 @@
-{|{{FooterStyle}}
-{{MajorLinksFooter}}
-|}<noinclude>{{Documentation}}
-[[Category:Templates]]</noinclude>

@@ -1,6 +1,0 @@
-At the completion of this article is a quip from a Microsoft official about a Microsoft product.  It is humorous and a bit damning of Microsoft and IMHO, completely inappropriate for this Wiki.  The only reason I did not remove it immediately is that it looks like it might be part of a signature block placed there by the article creator.  
-
-Does anyone else agree that it should be removed?  And should we perhaps contact the contributor before so doing, to give him the opportunity to change it himself, if he so chooses?  Or, am I completely up a creek?
-[[User:Pedantic|Pedantic]] 19:01, 4 March 2008 (UTC)
-
-: It's an email signature, see http://linuxmafia.com/~pam/POD_signings.html#paloalto1 --[[User:Gherald|Gherald]] 21:31, 5 March 2008 (UTC)

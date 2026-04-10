@@ -1,9 +1,0 @@
-{{Image
-| License = Creative Commons
-| ImageType1 = Character Image
-| ImageType2 = Fan Art
-| Description = Depiction of Ishamael, Betrayer of Hope
-
-| Source = Original Work
-| Artist = Grayson Bond
-}}

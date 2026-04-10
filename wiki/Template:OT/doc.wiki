@@ -1,7 +1,0 @@
-==Purpose of template==
-
-
-==How to use==
-<pre>{{OT|ajah}}</pre>
-{{OT|ajah}}
-{{#invoke:OT|get_definition|word=ajah}}

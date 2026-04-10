@@ -1,4 +1,0 @@
-'''Artists''' are those that create artwork, from painting to scuptures and more.
-
-[[Category:Occupations| Artists]]
-[[Category:Sort option categories]]

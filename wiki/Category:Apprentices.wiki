@@ -1,4 +1,0 @@
-'''Apprentices''' are people who are learning a craft.
-
-[[Category:Occupations| Apprentices]]
-[[Category:Sort option categories]]

@@ -1,7 +1,0 @@
-{{#if:{{{hide|}}}||
-<tr>
-	<th colspan="2" style="text-align:left; font-weight:normal; background:{{{bg|#000000}}};">'''{{{1}}}'''</th>
-</tr>
-{{{2|}}}
-}}
-<noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

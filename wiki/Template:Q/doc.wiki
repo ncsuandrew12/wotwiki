@@ -1,9 +1,0 @@
-==Purpose of template==
-Like {{tl|Quote}} but uses {{tl|if}} instead of [[Module:Quote]], and is only for use inside "<nowiki><choose></nowiki>"
-
-==How to use==
-
-==Examples==
- <nowiki>{{q|Do or do not|Yoda}}</nowiki>
-
-{{q|Do or do not|Yoda}}

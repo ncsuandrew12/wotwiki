@@ -1,5 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Map
-| Description        = Color version of [[:File:WoT Map.jpg]] made by Bryan Ray
-| Source             = http://www.bryanray.name/maps.htm}}

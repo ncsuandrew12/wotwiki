@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Fan Art
-|License     = GFDL
-| ImageType2 = Character
-|Source      = https://dragonmount.com/gallery/album/128-wheel-of-time-card-deck/
-|Description = [[Faile Bashere]] fan art.
-|Artist      = Ariel Burgess
-}}

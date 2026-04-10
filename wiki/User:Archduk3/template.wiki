@@ -1,4 +1,0 @@
-----
-__NEWSECTIONLINK__
-<div class="noicon" align="center" style="font-size: 1.5em; margin: 0.75em auto;">'''[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit&section=new}} Please click here to start a new discussion]'''</div>
-----

@@ -1,7 +1,0 @@
-<includeonly>|-
-|{{{name|{{{1|}}}}}}
-|{{#if:{{{raised_era|{{{2|}}}}}}|{{SortableDate|{{{raised_era|{{{2|}}}}}}|{{{raised_year|{{{3|}}}}}}|{{{raised_circa|{{{4|}}}}}}}}}}
-|{{#ifeq:{{lc:{{{end_year|{{{6|}}}}}}}}|incumbent|{{{end_year|{{{6|}}}}}}|{{#if:{{{end_era|{{{5|}}}}}}|{{SortableDate|{{{end_era|{{{5|}}}}}}|{{{end_year|{{{6|}}}}}}|{{{end_circa|{{{7|}}}}}}}}}}}}
-|{{#if:{{{power|{{{8|}}}}}}|{{SortableOPS|{{{power|{{{8|}}}}}}}}}}</includeonly><noinclude>{{Documentation}}
-[[Category:Templates]]
-[[Category:Amyrlin List Templates]]</noinclude>

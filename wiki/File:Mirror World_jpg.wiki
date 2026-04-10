@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Miscellaneous
-| Description        = An example of a [[Mirror World]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Vance Kovacks
-}}

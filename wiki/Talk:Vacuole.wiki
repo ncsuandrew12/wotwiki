@@ -1,4 +1,0 @@
-
-I having trouble citing sources. I tried to use the {{ref/book|x|x}} tag, and I think thought that would work, but it doesn't seem to have. I then tried to add a Notes section at the end, thinking it would auto-populate, but that also didn't work like I thought it would.
-
-I tried reading the help on citing sources and footnotes, but it didn't help any. Can someone please help me out? [[User:Zelyoni|Zelyoni]] ([[User talk:Zelyoni|talk]]) 16:30, October 15, 2015 (UTC)Zelyoni

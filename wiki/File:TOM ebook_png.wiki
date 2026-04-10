@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover
-| ImageType2              = Character
-| Description             = E-book cover for ''[[Towers of Midnight]]'' showing [[Perrin Aybara]] forging ''[[Mah'alleinir]]''.
-| Source                  = [http://www.dragonmount.com]
-| Artist                  = Raymond Swanland
-}}

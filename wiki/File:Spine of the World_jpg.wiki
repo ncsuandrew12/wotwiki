@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Miscellaneous
-| Description        = An [[Aiel]] army crossing the [[Spine of the World]].
-| Source             = ''[[New Spring 1]]''
-| Artist             = Mike S. Miller
-| Artist2            = Etienne St Laurent
-}}

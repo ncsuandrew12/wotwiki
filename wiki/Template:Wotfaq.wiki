@@ -1,4 +1,0 @@
-{{sisterproject|image=a'dam-icon.svg <!-- just a placeholder -->
-|text=The Wheel of Time FAQ has an entry concerning [{{{1}}} {{{2|{{PAGENAME}}}}}]
-}}
-<noinclude>[[Category:Linking templates|WoT FAQ]]</noinclude>

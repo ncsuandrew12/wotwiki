@@ -1,3 +1,0 @@
-Right now I've got it as both Sailors and Ship Captains branching off of Category:Ships, but it's possible that Ship captains should be a subcat of Sailors instead. (Ships > Sailors > Ship captains). 
-
-On the other hand, we didn't subcategorize [[:Category:Asha'man|Asha'man]] under [[:Category:Dedicated|Dedicated]], so... -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:40, 3 October 2006 (UTC)

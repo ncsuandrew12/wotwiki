@@ -1,8 +1,0 @@
-
-{{Image
-| License                 = Fairuse 
-| ImageType1              = Map
-| Description             = Map showing the location of Tear
-}}
-[[Category:Maps of Nations and Kingdoms]]
-[[Category:Tear]]

@@ -1,8 +1,0 @@
-<div name="Under construction notice" class="boilerplate metadata" id="delete" style="background-color: #242424; margin: 0 1em; padding: 0 10px; border: 1px solid #aaa;" align=center>
-'''This page is currently under construction.'''''<br>
-This page is incomplete. This means that the page needs improvement, but is currently being worked on.<br>
-{{#if: {{{1|}}}|The following details/plans were provided: {{{1}}}|}}
-</div><noinclude>
-[[Category:Administrative templates|{{PAGENAME}}]]
-{{Documentation}}
-</noinclude>

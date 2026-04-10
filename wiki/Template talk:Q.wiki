@@ -1,5 +1,0 @@
-== Why? ==
-
-Why not use the parser function? it would mean that {{[[template:if|if]]}} can be removed. along with
-[[Template:If equal]], [[template:if2]], [[Template:Iftrue]] and [[Template:Iftrue2]] which are all pointless. — [[User:Fbstjoe|fbstj]] 21:07, November 20, 2010 (UTC)
-: also, [[template:sld]], [[template:slf]], [[template:slh]] and [[template:sls]] should either be utilized or removed since they're not used. — [[User:Fbstjoe|fbstj]] 21:16, November 20, 2010 (UTC)

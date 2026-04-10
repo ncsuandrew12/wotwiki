@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Cover
-| Description        = Ebook cover of ''[[The Great Hunt]]''
-| Source             = www.dragonmount.com
-| Artist             = Kekai Kotaki
-}}

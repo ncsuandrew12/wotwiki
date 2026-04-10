@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Character
-| Description        = [[Rafela Cindal]].
-| Source             = ''[[New Spring 4]]''
-| Artist             = Mike S. Miller
-}}

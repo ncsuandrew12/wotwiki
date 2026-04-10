@@ -1,9 +1,0 @@
-{{swordform 
-| mentioned={{12|13}}
-| used=[[Gawyn Trakand]]
-}}
-{{dablink|For the similarly named sword form, see [[Folding the Fan]]. For other uses of the word "air," see [[Air (disambiguation)|Air]].}}
-'''Folding the Air''' is a [[sword form]]. It was used by [[Gawyn Trakand]] to knock aside [[Marlesh]]'s use of [[Leopard's Caress]] during their training.{{ref/book|12|13}}
-
-{{notes}}
-{{short}}

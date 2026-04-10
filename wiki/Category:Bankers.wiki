@@ -1,4 +1,0 @@
-'''Bankers''' deal in money. Most are very strict in their business, refusing even royal and political demands for client information.
-
-[[Category:Occupations| Bankers]]
-[[Category:Sort option categories]]

@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/karaburrito/art/Davram-Bashere-535329637
-|Description = Fan art of [[Davram Bashere]].
-|Artist      = karaburrito
-}}

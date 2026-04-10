@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Cover for ''Gilotyna marzeń'' the [[Wheel of Time translations|Polish version]] of the first part of [[Knife of Dreams]]; (Polish Volume 18)
-| Source                  = [http://ksiazki.polter.pl/Gilotyna-marzen-n7671 ksiazki.polter.pl]
-| Artist                  = 
-}}

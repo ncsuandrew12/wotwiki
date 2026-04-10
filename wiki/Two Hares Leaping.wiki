@@ -1,8 +1,0 @@
-{{swordform
-| mentioned={{11|p}}
-| used=[[Galadedrid Damodred]] or [[Eamon Valda]]
-}}
-'''Two Hares Leaping''' is a [[sword form]]. Other than the name, nothing is known about it. This form was used during the duel between [[Galadedrid Damodred]] and [[Eamon Valda]]. It was used to counter [[Hummingbird Kisses the Honeyrose]].{{ref/book|11|p}}
-
-{{notes}}
-{{short}}

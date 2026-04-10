@@ -1,6 +1,0 @@
-==Welcome==
-Hi, welcome to {{SITENAME}}. Thanks for your edit to the '''Padan Fain''' page.
-
-'''[[Special:Userlogin|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.
-
-Please leave a message on [[User talk:Mainphramephreak|my talk page]] if I can help with anything! [[User:Mainphramephreak|Mainphramephreak]] ([[User talk:Mainphramephreak|talk]]) 10:26, June 19, 2013 (UTC)

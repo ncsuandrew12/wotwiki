@@ -1,2 +1,0 @@
-{{{kod}}}<noinclude>{{delete|Seems unused}}
-[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

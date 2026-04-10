@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Map
-| Description        = [[Malden]] Map
-| Source             = 
-| Artist             = Ellisa Mitchell
-}}
-[[Category:Maps of cities]]

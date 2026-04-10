@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = [[Basram]].
-| Source             = ''[[New Spring 1]]''
-| Artist             = Mike S. Miller
-| Artist2            = Etienne St Laurent
-}}

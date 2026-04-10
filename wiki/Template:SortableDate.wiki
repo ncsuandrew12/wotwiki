@@ -1,2 +1,0 @@
-<includeonly>data-sort-value={{#switch:{{lc:{{{era|{{{1|}}}}}}}}|ab=0|fy=1|ne=2|{{err|Invalid era: {{{era|{{{1|}}}}}}}}}}{{#sub:00000|0|{{#expr:5-{{#len:{{{year|{{{2|}}}}}}}}}}}}{{{year|{{{2|}}}}}}|{{#switch:{{lc:{{{circa|{{{3|}}}}}}}}|1|y|yes|t|true=c. <nowiki />}}{{{{lc:{{{era|{{{1|}}}}}}}}|{{{year|{{{2|}}}}}}}}</includeonly><noinclude>{{Documentation}}
-[[Category:Templates]]</noinclude>

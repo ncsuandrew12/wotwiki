@@ -1,2 +1,0 @@
-<includeonly><span id="{{{1}}}">{{{2|}}}</span></includeonly><noinclude>{{Documentation}}
-[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

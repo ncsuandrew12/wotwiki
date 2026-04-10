@@ -1,9 +1,0 @@
-'''The Blind Pig''' is an inn located in the [[Kandor]]i capital of [[Chachin]]. It is located within the first ringwall of the city in a disreputable, run-down district.
-
-[[Moiraine Damodred]] visited the inn in {{ne|979}}, whilst trying to find [[Siuan Sanche]] for an arranged rendezvous. Moiraine was advised to leave before the patrons "had her for dinner."{{ref/book|0|23}}
-
-{{notes}}
-{{short}}
-{{DEFAULTSORT:Blind Pig, The}}
-[[Category:Inns]]
-[[Category:Kandor]]

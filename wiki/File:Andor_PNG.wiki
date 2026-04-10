@@ -1,9 +1,0 @@
-
-{{Image
-| License                 = Fairuse 
-| ImageType1              = Map
-| Description             = Map showing the borders of Andor
-}}
-[[Category:Maps of Nations and Kingdoms]]
-[[Category:Maps]]
-[[Category:Andor]]

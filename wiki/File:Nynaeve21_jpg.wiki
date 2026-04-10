@@ -1,9 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character
-| ImageType2              = Fan Art
-| Description             = [[Nynaeve al'Meara]] with her ''[[ki'sain]]''.
-| Source                  = [http://mahteliel.deviantart.com/gallery/#/d4oqip]
-| Artist                  = Madeleine Gusdal
-}}
-[[Category:Featured images]]

@@ -1,4 +1,0 @@
-== Redirect ==
-
-I am not sure how to allow a page to accept redirects, but I believe that if the link "Caemlyn Palace" is made, it should redirect here. [[User:MegaZeroX|MegaZeroX]] 00:57, January 25, 2012 (UTC)
-:Apparently it already does redirect to this. For some reason, my link said it was incorrect. [[User:MegaZeroX|MegaZeroX]] 02:12, January 25, 2012 (UTC)

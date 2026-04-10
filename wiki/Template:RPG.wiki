@@ -1,9 +1,0 @@
-{| align=center border=1 cellpadding=5 cellspacing=3 style="border: 1px solid #88BBA0; background-color: #476944;"
-|-
-| align=center |[[Image:Dice-icon.svg|alt="a black-and-white ring of dice framed like a chapter icon"]]
-| align=center |'''This article is about someone or something from the [[The Wheel of Time Roleplaying Game|d20 roleplaying game]], not the main continuity of the [[:Category:Series books|series books]].'''<br />
-Please contribute as much detail as you like, but understand that it cannot be a source for or affect main sequence articles. Feel free to link out to articles which the worlds have in common, of course.
-|}
-<includeonly></includeonly>
-<noinclude>{{Documentation}}
-[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

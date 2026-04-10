@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{0|16}}
-| used=Unnamed assassin
-}}
-'''Black Pebbels on Snow''' is a [[sword form]]. Aside from the fact that it was used by an unnamed assassin on [[Lan Mandragoran]], nothing is known about it.{{ref/book|0|16}}
-
-[[File:Black Pebbles on Snow.jpg|left|thumb|250px|'''Black Pebbles on Snow''' being used against [[Lan]].]]
-{{notes}}
-{{short}}

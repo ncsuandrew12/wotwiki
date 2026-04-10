@@ -1,3 +1,0 @@
-<onlyinclude>{{Link|[[w:c:wheeloftime:{{#switch: trim | {{{1|}}} }}|{{Link/external text|{{#switch: trim | {{{2|{{{1|Wheel of Time TV series Wiki}}}}}} }}}}]]}}</onlyinclude><noinclude><!-- TODO: Replace this with CSS styling -->
-{{Documentation}}
-[[Category:Linking templates]]</noinclude>
