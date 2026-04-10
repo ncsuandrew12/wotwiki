@@ -1,8 +1,0 @@
-{{swordform 
-| mentioned={{11|p}}
-| used=[[Galadedrid Damodred]] or [[Eamon Valda]]
-}}
-'''Eel Among the Lily Pads''' is a [[sword form]]. Other than the name, nothing is known about it. Either [[Galadedrid Damodred]] or [[Eamon Valda]] used this form during their fight. [[Leaf on the Breeze]] was used to counter it.{{ref/book|11|p}}
-
-{{notes}}
-{{short}}

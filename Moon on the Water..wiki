@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{2|45}}
-| used=[[Rand al'Thor]], possibly [[Turak Aladon]]
-}}
-{{dablink|For other uses of the words "moon" and "water," see [[Moon]] and [[Water (disambiguation)|Water]].}}
-'''Moon on the Water''' is a [[sword form]]. Other than the name, nothing is known about it. It was used in the duel between [[Rand al'Thor]] and [[The Blood|High Lord]] [[Turak Aladon]]. The opposing side assumed [[The Wood Grouse Dances]].{{ref/book|2|45}} Rand later tried to use this form against [[Ishamael|Ba'alzamon]] during the battle in the sky over [[Falme]].{{ref/book|2|47}}
-
-{{notes}}
-{{short}}

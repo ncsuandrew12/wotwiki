@@ -1,9 +1,0 @@
-{{Image 
-| License = GFDL 
-| ImageType1 = Fan Art
-| ImageType2 = Character
-| Description = [[Shaidar Haran]] fan art done by Jeremy Saliba
-| Source = http://jeremysaliba.blogspot.com/
-| Artist = Jeremy Saliba
-}}
-[[Category:Featured images]]

@@ -1,9 +1,0 @@
-== Summary ==
-{{Image
-| License                 = Fairuse 
-| ImageType1              = Logo
-| Description             = Dragonmount logo
-
-| Source                  = https://dragonmount.com/uploads/monthly_2022_06/android-chrome-36x36.png?v=1710346568
-| Artist                  = 
-}}

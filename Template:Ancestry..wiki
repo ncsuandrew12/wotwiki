@@ -1,4 +1,0 @@
-<includeonly>{{#if:{{{3|}}}|{{{3}}}|{{#if:{{{2|}}}|== Ancestry of {{{2}}} ==
-<nowiki />|}}}}{{#replace:{{{1}}}|;|<nowiki /> ↠ <nowiki />}}</includeonly><noinclude>{{Documentation}}
-[[Category:Templates|{{PAGENAME}}]]
-</noinclude>

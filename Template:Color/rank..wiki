@@ -1,8 +1,0 @@
-{{#if:{{{1|}}}|{{no.}}{{#switch:{{{1}}}|
-accepted    =ff7800|
-novice      =663399|
-chosen      =000000|
-asha'man    =414141|
-dedicated   =414141|
-soldier     =414141}}|{{color/race}}}}<noinclude>{{delete|Unused.}}
-[[Category:Color templates|{{PAGENAME}}]]</noinclude>

@@ -1,3 +1,0 @@
-Once a process for [[project:consensus]] has been established, this page will become used for deciding which "questionable" pages should be deleted, and which can be kept as something related to {{SITENAME}}.
-
-[[Category:Administrative|Pages for deletion]]

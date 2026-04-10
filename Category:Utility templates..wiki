@@ -1,2 +1,0 @@
-Templates that are part of other templates. useful for technical reasons, or otherwise important but in no way encyclopedic.
-[[Category:Templates| Utility templates]]

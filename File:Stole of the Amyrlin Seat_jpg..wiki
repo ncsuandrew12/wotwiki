@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Item
-| Description        = [[Tamra Ospenya]] wearing the [[Stole of the Amyrlin Seat]].
-| Source             = ''[[New Spring 2]]''
-| Artist             = Mike S. Miller
-| Artist2            = Etienne St Laurent
-}}

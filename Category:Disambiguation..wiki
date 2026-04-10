@@ -1,6 +1,0 @@
-'''[[Wikipedia:Wikipedia:Disambiguation|Disambiguation]]''' is the process of resolving ambiguity — meaning the conflicts that occur when articles about two or more different topics have the same "natural" title. Most of the pages in this category are ''disambiguation pages'' containing no other article content, only links to other '''{{SITENAME}}''' pages.
-
-Notes:
-* Do not include this category manually in articles; the [[Template:dab|<nowiki>{{dab}}</nowiki>]] template automatically does this.
-* There is rarely any need for links directly to disambiguation pages. These can usually be fixed by clicking on [[Special:Whatlinkshere]].
-[[Category:Administrative| Disambiguation]]

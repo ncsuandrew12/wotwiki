@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Item
-| Description        = The [[Foxhead medallion]].
-| Source             = [[Badali Jewelry Specialities, Inc]] official [http://www.badalijewelry.com/jordan_c.htm website].
-| Artist             = 
-}}

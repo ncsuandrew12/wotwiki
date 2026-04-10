@@ -1,6 +1,0 @@
-* Template:Notes
-* Template:Short
-* Template:Quote
-* Template:Delete
-* Template:Ref
-* Template:Ref/book

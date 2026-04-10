@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Fan Art
-| ImageType2         = Item
-| Description        = The female [[Choedan Kal]].
-| Source             = [http://lordstormdragon.deviantart.com/art/With-the-Choedan-Kal-Saidar-22270341 DeviantArt]
-| Artist             = Jared Magneson
-}}

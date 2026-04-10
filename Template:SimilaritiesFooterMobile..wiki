@@ -1,9 +1,0 @@
-{| class="desktop-hidden" style="clear:both; margin:0 auto;"
-!<big>[[:Category:Similarities|Similarities to Other Works]]</big>
-|-
-|[[Similarities to Dune|Similarities to ''Dune'']] · [[Similarities to Sword of Truth|Similarities to ''Sword of Truth'']] · [[Similarities to Tolkien]]
-|-
-|[[:Category:Parallels|Parallels]] ·  [[Real-world references|Real-World References]]
-{{MajorLinksFooterMobile}}
-|}<noinclude>{{Documentation}}
-[[Category:Mobile]]</noinclude>

@@ -1,7 +1,0 @@
-[[{{{1}}} Ajah{{#if:{{{2|}}}|{{!}}{{{2}}}}}]]<noinclude>
-==Usage==
-Template to create link to an [[Ajah]]'s page from its color.
-
-For example: <nowiki>{{Ajah|Blue}}</nowiki> gives you {{Ajah|Blue}}.
-[[Category:Linking templates|{{PAGENAME}}]]
-</noinclude>

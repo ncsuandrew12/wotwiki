@@ -1,7 +1,0 @@
-{{Image
-| License            = Public Domain
-| ImageType1          = Admin
-| Description        = GNU Logo
-| Source             = [[Commons:File:Heckert_GNU_white.svg]]
-}}
-[[Category:Licensing]]

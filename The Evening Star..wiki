@@ -1,9 +1,0 @@
-{{for|the chapter in ''New Spring'' called "The Evening Star"|New Spring/Chapter 23}}
-'''The Evening Star''' is an inn located in the [[Kandori]] capital of [[Chachin]]. It is a respectable establishment made of stone and consisting of three stories. It caters mostly to merchants of middling success and rank and is popular with women, particularly of the [[Kandori Merchants' Guild]] who find more male-oriented inns noisy and tiresome. Because of its popularity with merchants, the inn employs guards and has a strong-room for the storage of high-value items and funds.
-
-[[Moiraine Damodred]] and [[Siuan Sanche]] stayed at the inn briefly in {{ne|979}} during their hunt for the [[Dragon Reborn]]. The innkeeper, [[Ailene Tolvina]], proved helpful in their attempts to infiltrate Kandori society.{{ref/book|0|23}}
-
-{{notes}}
-{{DEFAULTSORT:Evening Star, The}}
-[[Category:Inns]]
-[[Category:Kandor]]

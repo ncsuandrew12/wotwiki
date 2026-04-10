@@ -1,9 +1,0 @@
-==Year needed?==
-Just wondering if the year is needed? In my most humble opinion, it would seem that the quotes would be cyclical; the same quote for the day on the 23rd of October of this year would be the quote of the day next year. Or are we going to create different quotes for the next year and so on? Or is there a programming issue of which I am not aware? Just wondering. :) ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 19:07, October 23, 2009 (UTC)
-:Yeah I think I will change it to cycle through each year so we will only need 365 quote instead of an infinite amount.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:54, October 23, 2009 (UTC)
-:That seems an 'infinte'ly better system, thanks for doing it. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 21:54, October 23, 2009 (UTC)
-::Haha nice pun.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:36, October 23, 2009 (UTC)
-
-== Grab Html? ==
-
-would it be possible to have a link that would give us the quote of the day, something I could take and put on, say a signature. Of course it should say it came from this site so you guys still get credit.

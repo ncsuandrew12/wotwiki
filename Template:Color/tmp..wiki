@@ -1,1 +1,0 @@
-{{no.}}{{#switch:{{{1}}}|character=94C7D1|#default=ffffff}}<noinclude>[[Category:Color templates|{{PAGENAME}}]]</noinclude>

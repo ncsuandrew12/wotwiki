@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Miscellaneous
-| Description        = [[Manetheren]] being attacked by [[Trolloc]]s.
-| Source             = [http://phweengee.tripod.com/wotstuff.htm Wheel of Time Merchandise!]
-| Artist             = Mike S. Miller
-}}

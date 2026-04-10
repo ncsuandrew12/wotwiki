@@ -1,5 +1,0 @@
-{{Image
-| License                 = Public Domain Self 
-| ImageType1              = Miscellaneous
-| Description             = Elaida's Hall of the Tower
-}}

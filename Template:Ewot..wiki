@@ -1,5 +1,0 @@
-{{sisterproject|image=Ewot-favicon-32x32.png
-|text=Encyclopaedia WoT has an article about:<br />&nbsp;'''[https://encyclopaedia-wot.org/{{{1|{{PAGENAME}}}}} {{{2|{{{1|{{PAGENAME}}}}}}}}]'''
-}}
-<noinclude>{{Documentation}}
-[[Category:Linking templates|{{PAGENAME}}]]</noinclude>

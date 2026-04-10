@@ -1,3 +1,0 @@
-{| cellspacing="0" cellpadding="0" style="clear:right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: {{{1|auto}}};"
-| __TOC__
-|}<noinclude>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

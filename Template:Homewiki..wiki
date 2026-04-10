@@ -1,1 +1,0 @@
-My main user page is at [[{{#ifeq:{{{1}}}|www|wikia|wikia:c:{{{1}}}}}:User:{{{3|{{PAGENAME}}}}}|{{{2}}}]]. To contact me, please leave messages on [[{{#ifeq:{{{1}}}|www|wikia|wikia:c:{{{1}}}}}:User talk:{{{3|{{PAGENAME}}}}}|my talk page]] there.<noinclude>[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

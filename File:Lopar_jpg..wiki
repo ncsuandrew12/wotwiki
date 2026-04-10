@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = A ''[[lopar]]''
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Carl Critchlow
-}}

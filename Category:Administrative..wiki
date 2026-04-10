@@ -1,4 +1,0 @@
-Structural and behind-the-scenes articles for maintenance of '''A ''Wheel of Time'' Wiki'''.
-
-''Without good reason, <u>no</u> main space articles should be filed here.''
-[[Category:Real-world content| Administrative]]

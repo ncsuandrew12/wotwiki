@@ -1,6 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Map
-| Description        = © Illustration by SevenBridges
-| Source             = https://www.deviantart.com/sevenbridges}}
-[[Category:Maps]]

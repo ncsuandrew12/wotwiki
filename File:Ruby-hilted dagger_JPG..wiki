@@ -1,7 +1,0 @@
-{{Image
-| License            = Fair Use
-| ImageType1         = Item
-| Description        = The officially licensed [[ruby-hilted dagger]] replica.
-| Source             = [http://www.reliks.com/merchant.ihtml?pid=1497 Reliks.com]
-| Artist             = 
-}}

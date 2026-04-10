@@ -1,9 +1,0 @@
-{|class="collapsible collapsed" width="100%" style="clear:both; margin:0 auto;" align=center id=toc
-|-
-!align=center style="background:#242424;" colspan=2| '''Leigh Butler's Re-read of ''[[The Great Hunt]]'', featured on [http://www.tor.com Tor.com]'''
-|-
-|style="background:#424242;"|'''[http://www.tor.com/features/series/wot-reread Re-read listing]'''
-|[http://www.tor.com/index.php?option=com_content&view=blog&id=13648 Part 1] · [http://www.tor.com/index.php?option=com_content&view=blog&id=13839 Part 2] · [http://www.tor.com/index.php?option=com_content&view=blog&id=14067 Part 3] · [http://www.tor.com/index.php?option=com_content&view=blog&id=14357 Part 4] · [http://www.tor.com/index.php?option=com_content&view=blog&id=14530 Part 5] · [http://www.tor.com/index.php?option=com_content&view=blog&id=14800 Part 6] · [http://www.tor.com/index.php?option=com_content&view=blog&id=15163 Part 7] · [http://www.tor.com/index.php?option=com_content&view=blog&id=15379 Part 8] · [http://www.tor.com/index.php?option=com_content&view=blog&id=15625 Part 9]
-|-
-|}<noinclude>
-[[Category:Re-read templates|{{PAGENAME}}]]</noinclude>

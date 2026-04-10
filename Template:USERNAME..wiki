@@ -1,3 +1,0 @@
-<span class="InputUsername">{{{1|<insert name here>}}}</span><noinclude>
-{{Documentation}}
-</noinclude>

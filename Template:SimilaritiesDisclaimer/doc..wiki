@@ -1,5 +1,0 @@
-==How to use==
-
-<code><nowiki>{{SimilaritiesDisclaimer}}</nowiki></code>
-
-{{SimilaritiesDisclaimer}}

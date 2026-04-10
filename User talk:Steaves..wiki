@@ -1,3 +1,0 @@
-{| id="w" width="100%" style="background: transparent; "
-| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
-Thank you for your welcome :)

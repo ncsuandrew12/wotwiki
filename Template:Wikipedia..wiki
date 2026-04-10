@@ -1,4 +1,0 @@
-{{sisterproject|image=Wikipedia-logo-en.png
-|text=Wikipedia has an article about:<br>&nbsp;'''[[wikipedia:{{{1|{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]]'''
-}}
-<noinclude>[[Category:Linking templates|{{PAGENAME}}]]</noinclude>

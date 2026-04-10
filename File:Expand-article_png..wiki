@@ -1,6 +1,0 @@
-
-{{Image
-| License                 = Public Domain Self 
-| ImageType1              = Admin
-| Description             = Expand article icon
-}}

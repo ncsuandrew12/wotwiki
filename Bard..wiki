@@ -1,4 +1,0 @@
-A '''Bard''' is an entertainer.
-
-Bards often perform for nobility only. Bards can tell stories in three voices: [[High Chant]], [[Plain Chant]] and Common. [[High Chant]] is often thought to be the best way to hear any story a Bard has to tell, but it is often long, so common people like to hear stories in [[Plain Chant]].
-[[Category:Entertainers| Bard]]

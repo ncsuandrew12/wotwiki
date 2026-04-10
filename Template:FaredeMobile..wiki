@@ -1,8 +1,0 @@
-{| class="desktop-hidden" style="clear:both; margin:0 auto;"
-!<big>[[:Category:Calendars|Months]] in the [[Farede calendar]]</big>
-|-
-|[[Taisham]] · [[Jumara]] · [[Saban]] · [[Aine]] · [[Adar]] · [[Saven]] · [[Amadaine]] · [[Tammaz]] · [[Maigdhal]] ·  [[Choren]] · [[Shaldine]] · [[Nesan]] · [[Danu]]
-{{MajorLinksFooterMobile}}
-|}<noinclude>{{Documentation}}
-[[Category:Navbox templates|{{PAGENAME}}]]
-[[Category:Mobile]]</noinclude>

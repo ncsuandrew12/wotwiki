@@ -1,4 +1,0 @@
-{{proposed}}
-Protected pages should only exist in a few special instances:
-# System messages that cause significant confusion or harm to '''{{SITENAME}}''' if they are changed unexpectedly. These may be protected on an ongoing basis, and changed by any Administrator if need arises.
-# Pages that are under content dispute or vandalism attacks may be protected for a ''short period of time'' (generally 24 hours or less, although successive protections may be longer).

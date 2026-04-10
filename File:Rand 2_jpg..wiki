@@ -1,7 +1,0 @@
-{{Image
-| License                 = GFDL
-| ImageType1              = Character
-| Description             = [[Rand al'Thor]] art.
-| Source                  = [http://seamassketches.blogspot.com/]
-| Artist                  = John Seamas Gallagher
-}}

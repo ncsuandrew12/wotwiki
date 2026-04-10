@@ -1,3 +1,0 @@
-<onlyinclude>{{Link|{{{url|{{{1|https://youtube.com}}}}}}|{{{text|{{{2|{{{1|YouTube}}}}}}}}}}}</onlyinclude><noinclude>{{Documentation}}
-[[Category:Linking templates]]
-</noinclude>

@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = [[Aviendha]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Scott Fischer
-}}

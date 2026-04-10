@@ -1,9 +1,0 @@
-{{Image
-| License                 = Fair Use
-| ImageType1              = Fan Art
-| Description             = Fan art for ''[[Rand al'Thor]]'' by Kayla Woodside
-| Source                  = http://kaylawoodside.deviantart.com/#/d5cx692
-| Artist                  = Kayla Woodside
-}}
-[[Category:Images by Kayla Woodside]]
-[[Category:Featured images]]

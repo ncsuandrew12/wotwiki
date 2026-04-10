@@ -1,7 +1,0 @@
-{{Image
-| License            = gfdlself
-| ImageType1          = Flag
-| Description        = Flag of Almoth
-| Source             = Tree from http://doroteos2.wordpress.com/2009/05/16/root-rot-in-the-theological-tree/
-}}
-[[Category:Images by Chris Moorhead]]

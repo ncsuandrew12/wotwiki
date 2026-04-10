@@ -1,3 +1,0 @@
-== Wikipedia:Substub ==
-
-This template links to an inactive policy page on Wikipedia. If we are going to have the concept of a "substub", it might be a good idea to point to a page on ''this'' wiki. --[[User:TheParanoidOne|TheParanoidOne]] 16:00, 28 August 2006 (UTC)

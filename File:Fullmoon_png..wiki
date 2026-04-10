@@ -1,5 +1,0 @@
-{{Image
-| License                 = GFDL
-| ImageType1              = Miscellaneous
-| Description             = Full moon icon
-}}

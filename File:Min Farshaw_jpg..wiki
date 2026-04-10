@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Fan Art
-| ImageType2              = Character
-| Description             = Concept art for [[Min Farshaw]].
-| Source                  = [http://saintchase.deviantart.com/art/Wheel-Of-Time-Character-Design-140359725 deviantART].
-| Artist                  = Chase Conley
-}}

@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = [[Elayne Trakand]].
-| Source             = ''[[Robert Jordan's The Wheel of Time Calendar 2009]]''.
-| Artist             = Theresa Wrathall
-}}

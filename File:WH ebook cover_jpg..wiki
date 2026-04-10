@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover
-| Description             = Ebook cover of ''[[Winter's Heart]]''
-| Source                  = [http://www.dragonmount.com Dragonmount.com]
-| Artist                  = Scott Fischer
-}}

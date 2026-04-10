@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character image
-| ImageType2         = CCG
-| Description        = [[Rand al'Thor]] and [[Lan Mandragoran]] practicing [[Sword forms]] with practice swords
-| Source             = The "Children of the Dragon" deck of ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = Steve Snyder
-}}

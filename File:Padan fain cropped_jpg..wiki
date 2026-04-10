@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = Fairuse
-| ImageType2 = 
-|Source      = ''[[The Wheel of Time Companion]]''
-|Description = [[Padan Fain]] art. 
-|Artist      = Ariel Burgess
-}}

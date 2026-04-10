@@ -1,2 +1,0 @@
-{{#if: {{{prev|}}} | [[{{BASEPAGENAME}}/{{{prev}}}|< Previous Chapter]]}}
-{{#if: {{{next|}}} | [[{{BASEPAGENAME}}/{{{next}}}| Next Chapter >]]}}

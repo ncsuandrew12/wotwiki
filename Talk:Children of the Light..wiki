@@ -1,4 +1,0 @@
-I have reorganized the page a bit. Please tell me what you think. I have temporarily removed the "expand" tags. - [[User:JackEriksson|JackEriksson]] 00:33, January 9, 2011 (UTC)
-
-:Looks really good. I did add the {{tl|main}} template. This is the one you use for the "Main article" part. Again, good job! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 02:35, January 9, 2011 (UTC)
-::Cool, good to know. I'll use that one in the future. - [[User:JackEriksson|JackEriksson]] 21:29, January 9, 2011 (UTC)

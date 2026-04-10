@@ -1,2 +1,0 @@
-==Code tags==
-Are also used in [[template:quote]] and [[template:OT]].

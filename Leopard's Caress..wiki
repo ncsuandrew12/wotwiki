@@ -1,9 +1,0 @@
-{{swordform 
-| mentioned={{11|p}}
-| used=[[Galadedrid Damodred]], [[Marlesh]]
-}}
-{{for|other similarly named sword forms|Leopard in High Grass|Leopard in the Tree}}
-'''Leopard's Caress''' is a [[sword form]]. The movement of the form is not known. [[Galadedrid Damodred]] changed [[Plucking the Low-Hanging Apple]] into Leopard's Caress while fighting with [[Eamon Valda]].{{ref/book|11|p}} During their practice session, [[Marlesh]] tried using this form against [[Gawyn Trakand]], but Gawyn countered with [[Folding the Air]].{{ref/book|12|13}}
-
-{{notes}}
-{{short}}

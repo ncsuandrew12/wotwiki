@@ -1,8 +1,0 @@
-==Purpose of template==
-Create the full footer, not just the table entry used by larger footers.
-
-==How to use==
- <nowiki>{{MajorLinksFooterFull}}</nowiki>
-
-==See also==
-{{tl|MajorLinksFooter}}

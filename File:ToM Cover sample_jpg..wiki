@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover
-| Description             = Temporary mock-up for the cover of ''[[Towers of Midnight]]''
-| Source                  = [http://www.dragonmount.com www.dragonmount.com]
-| Artist                  = Darrell Sweet
-}}

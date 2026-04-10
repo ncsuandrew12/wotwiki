@@ -1,9 +1,0 @@
-'''The Long Man''' is an inn in [[Cairhien (city)|Cairhien]].
-
-==Activites==
-The Long Man is located near Lady [[Arilyn Dhulaine]]'s palace. When [[Egwene al'Vere]] runs into [[Gawyn Trakand]] near the palace, he takes her to The Long Man so that they can talk.{{ref/book|6|25}} They spend the entire morning there and agree to meet there every morning.{{ref/book|6|27}}{{ref/book|6|32}} Before departing for [[Salidar]], Egwene sends [[Cowinde]], and [[Aiel]] ''[[gai'shain]]'' to The Long Man with a note for Gawyn.{{ref/book|6|33}}
-
-{{notes}}
-{{short}}
-{{DEFAULTSORT:Long Man, The}}
-[[Category:Inns]]

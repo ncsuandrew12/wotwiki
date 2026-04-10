@@ -1,9 +1,0 @@
-'''The Twelve Salt Wells''' in an [[inn]] in [[Jurador]]. It is a large building made of stone.
-
-[[Mat Cauthon]] buys a [[razor]] for [[Tuon]] at a stable next to The Twelve Salt Wells.{{ref/book|11|6}}
-
-{{notes}}
-{{short}}
-{{DEFAULTSORT:Twelve Salt Wells}}
-[[Category:Altara]]
-[[Category:Inns]]

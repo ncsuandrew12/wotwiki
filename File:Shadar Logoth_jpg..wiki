@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Miscellaneous
-| Description        = [[Shadar Logoth]].
-| Source             = The cover of ''[[From the Two Rivers]]''.
-| Artist             = Charles Keegan
-}}

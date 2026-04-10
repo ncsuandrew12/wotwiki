@@ -1,7 +1,0 @@
-
-{{Image
-| License                 = GFDL
-| ImageType1              = Admin
-| Description             = Green check mark
-| Source                  = http://commons.wikimedia.org/wiki/Image:Yes_check.svg
-}}

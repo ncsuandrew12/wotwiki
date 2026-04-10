@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Miscellaneous
-| ImageType2         = CCG
-| Description        = The [[Stone of Tear]].
-| Source             = The "[[Premier]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = Ran Ackels
-}}

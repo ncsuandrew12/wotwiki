@@ -1,7 +1,0 @@
-
-{{Image
-| License                 = Creative Commons
-| ImageType1              = Admin
-| Description             = Image for the {{tl|archive}} template.
-| Source                  = http://commons.wikimedia.org/wiki/File:File.svg
-}}

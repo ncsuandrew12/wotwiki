@@ -1,2 +1,0 @@
-Tempaltes used on the wiki.
-[[Category:Administrative| Templates]]

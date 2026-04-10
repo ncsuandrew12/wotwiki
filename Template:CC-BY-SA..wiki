@@ -1,9 +1,0 @@
-{| id="gfdl" class="messagebox noprint" align="center" border="0" cellpadding="4" cellspacing="4" style="border: 1px solid #e0e0e0; background-color:#242424;"
-|-
-|[[File:CC some rights reserved.svg|90px]][[File:Cc-by white.svg|24px]][[File:Cc-sa white.svg|24px]]
-| style="font-size: 80%" | ''This image is licensed under the [[Wikipedia:Creative Commons|Creative Commons]]<br/>Attribution ShareAlike License, version 3.0:<br/>http://creativecommons.org/licenses/by-sa/3.0/''
-|}
-<noinclude>
-[[Category:Licensing|CC-BY-SA]]
-[[Category:Image templates|CC-BY-SA]]
-</noinclude>

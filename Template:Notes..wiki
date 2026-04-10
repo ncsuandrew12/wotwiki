@@ -1,4 +1,0 @@
-<onlyinclude><includeonly>==Notes==
-{{Reflist}}</includeonly></onlyinclude><noinclude>{{Documentation|:Template:Ref/doc}}
-[[Category:Templates]]
-[[Category:Utility templates]]</noinclude>

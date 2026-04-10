@@ -1,1 +1,0 @@
-<onlyinclude>align=center {{ajahs/cell_style|{{{1}}}}}|{{ajah|{{{1}}}|2=<span {{ajahs/cell_style|{{{1}}}}}>'''{{ucfirst:{{{1}}}}}'''</span>}}</onlyinclude><noinclude>{{delete|Unused}}[[Category:Color templates|{{PAGENAME}}]]</noinclude>

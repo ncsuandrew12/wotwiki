@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = [[Liandrin]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]'', identified as Liandrin on the author's [http://www.tnielsen.com/artists/nielsen/search_results.asp?txtsearchParamTxt=&txtsearchParamType=ALL&txtsearchParamCat=70&txtsearchParamMan=6&txtsearchParamVen=4 website].
-| Artist             = Terese Nielsen
-}}

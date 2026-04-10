@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{7|p}}
-| used=[[Gawyn Trakand]]
-}}
-'''The Creeper Embraces the Oak''' is a [[sword form]]. Other than the name, nothing is known about it. [[Gawyn Trakand]] flowed from [[The Falcon Stoops]] to The Creeper and into [[The Moon Rises Over the Lakes]] while fighting [[Aiel]] after the [[Battle of Dumai's Wells]].{{ref/book|7|p}}
-
-{{notes}}
-{{short}}
-{{DEFAULTSORT:Creeper Embraces the Oak, The}}

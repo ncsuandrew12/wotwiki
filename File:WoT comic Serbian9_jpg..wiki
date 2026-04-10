@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character
-| Description             = From the [[Wheel of Time translations|Serbian version]] of [[The Eye of the World comic]], depicts [[Thomdril Merrilin]]
-| Source                  = [http://www.stripzona.com/port/lofiversion/index.php?t6527.html www.stripzona.com]
-| Artist                  = Jeremy Saliba
-}}

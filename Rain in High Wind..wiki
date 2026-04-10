@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{11|p}}
-| used=[[Galadedrid Damodred]]
-}}
-{{dablink|For the similarly named sword form, see [[Wind and Rain]]. For other uses of the word "wind," see [[Wind]].}}
-'''Rain in High Wind''' is a [[sword form]]. Other than the name, nothing is known about it. During the duel between [[Eamon Valda]] and [[Galadedrid Damodred]], Galad used this form desperately quick as a response to Valda's use of the form [[River of Light]].{{ref/book|11|p}}
-
-{{notes}}
-{{short}}

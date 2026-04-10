@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Fan Art
-|License     = GFDL
-| ImageType2 = Character
-|Source      = https://www.artistarielburgess.com/wheel-of-time
-|Description = [[Mat Cauthon]] vs. [[Galad Damodred]] and [[Gawyn Trakand]] fan art.
-|Artist      = Ariel Burgess
-}}

@@ -1,5 +1,0 @@
-<noinclude>{|</noinclude>|-
-| style="text-align: center; background-color: rgb(135,135,135,.25);" colspan={{{1|2}}}|[[:Category:Series_books|Books]] | [[:Category:People|People]] | [[:Category:Places|Places]] | [[:Category: Items|Items]] | [[Timeline]] | [[:Category:Concepts|Concepts]]<noinclude>
-|}
-{{Documentation}}
-[[Category:Templates]]</noinclude>

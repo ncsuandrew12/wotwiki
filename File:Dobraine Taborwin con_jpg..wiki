@@ -1,6 +1,0 @@
-{{Image
-| License            = Public Domain Self
-| ImageType1          = Sigil
-| Description        = The ''con'' of [[Dobraine Taborwin]]
-| Source             = user created image
-}}

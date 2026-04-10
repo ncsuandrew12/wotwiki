@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character
-| Description             = A poster from the [[New Spring comic|''New Spring'' comic]]s, showing [[Moiraine Damodred]], [[Siuan Sanche]], and [[Lan Mandragoran]]
-| Source                  = [[New Spring comic]]
-| Artist                  = Mike S. Miller
-}}

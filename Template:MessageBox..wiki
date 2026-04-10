@@ -1,4 +1,0 @@
-<includeonly>{{#invoke:Mbox|main}}</includeonly><noinclude>{{Documentation}}<!--
-For a more traditional wikitext version of this template, see 
-https://templates.fandom.com/wiki/Template:Ambox
---></noinclude>

@@ -1,7 +1,0 @@
-:''Discussion moved from article''
-** Whitecloaks redirects to Children of the Light, since that is their "correct" name.  So if Whitecloaks doesn't occur in this chapter, this should be just:
-***[[Children of the Light]].
-**If whitecloaks does occur, then it should be:
-***[[Children of the Light]] -- by the disparaging term ''Whitecloaks''  (or whatever that term should be characterized as)
-****However, ''Whitecloaks'' is also by far the most commonly used name.  This definitely seems like a gray area.
-*****So you could go with the characterization "common disparaging term" or something of that nature (note: I'm not insisting nor even recommending "disparaging", it's just the first thing that occured to me).  In any event, assuming our article goes to [[Children of the Light]] as planned so far (by nae'blis), a usage explanation of "Whitecloaks" should figure very prominently.  See [[help:Style Guide]] if you have any general suggestions about how to resolve similar gray areas.

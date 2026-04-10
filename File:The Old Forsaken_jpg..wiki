@@ -1,9 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Fan Art
-| ImageType2              = Character
-| Description             = Promotional art featuring the [[Forsaken]] and [[Lews Therin Telamon]].
-| Source                  = [http://gorgaidon.deviantart.com/art/EotW-Comic-Promotional-Art-161489877 deviantART].
-| Artist                  = Mike S. Miller
-| Artist2                 = Teodoro Gonzalez
-}}

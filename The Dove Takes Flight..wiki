@@ -1,9 +1,0 @@
-{{swordform 
-| mentioned={{2|47}}
-| used=[[Rand al'Thor]], [[Eamon Valda]]
-}}
-'''The Dove Takes Flight''' is a [[sword form]]. Nothing is known about the form except the name. [[Rand al'Thor]] once used it when fighting with [[Ishamael|Ba'alzamon]].{{ref/book|2|47}} The form was also used by [[Eamon Valda]] against [[Galadedrid Damodred]] during their fight. Galad defended with [[Kingfisher Circles the Pond]].{{ref/book|11|p}}
-
-{{notes}}
-{{short}}
-{{DEFAULTSORT:Dove Takes Flight, The}}

@@ -1,6 +1,0 @@
-{{Image
-| ImageType1              = Character
-| Description             = AI rendition of [[Logain Ablar]], [[Damer Flinn]], and [[Jahar Narishma]]
-| Artist                  = Rand The Dragon al`Tor
-| AI                      = AI
-}}

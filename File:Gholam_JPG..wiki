@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = A ''[[Gholam]]'' getting through a door.
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Gerald Brom
-}}

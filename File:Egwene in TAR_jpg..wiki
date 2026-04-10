@@ -1,9 +1,0 @@
-== Licensing ==
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character
-| ImageType2              = Fan Art
-| Description             = [[Egwene al'Vere]] in ''[[Tel'aran'rhiod]]''.
-| Source                  = [http://www.liztephanoff.com]
-| Artist                  = Liz Stephanoff
-}}

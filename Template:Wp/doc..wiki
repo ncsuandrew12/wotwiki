@@ -1,7 +1,0 @@
-==Purpose of template==
-'''This duplicates {{tl|Wiki}}. Consider using that instead.'''
-
-==Examples==
-{{wp|Robert Jordan}}
-
-{{wp|Robert Jordan|RJ}}

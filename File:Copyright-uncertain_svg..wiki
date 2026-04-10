@@ -1,7 +1,0 @@
-{{Image
-| License            = Public Domain
-| ImageType1          = Admin
-| Description        = Copyright uncertain
-| Source             = [[Commons:File:Copyright-uncertain.svg]]
-}}
-[[Category:Licensing]]

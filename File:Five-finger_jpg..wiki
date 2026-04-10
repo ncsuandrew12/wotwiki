@@ -1,7 +1,0 @@
-{{Image
-| License                 = fairuse
-| ImageType1              = Miscellaneous
-| Description             = a five-finger plant from New Zealand
-| Source                  =http://www.thirkettlenurseries.co.nz/images/photos/PSELAT.JPG
-| Artist                  =
-}}

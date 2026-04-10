@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/adammasterman/art/Androl-and-Pevara-639454321
-|Description = Fan art of [[Pevara Tazanovni]] and [[Androl Genhald]].
-|Artist      = Adam Masterman
-}}

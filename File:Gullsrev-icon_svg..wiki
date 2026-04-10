@@ -1,8 +1,0 @@
-{{Image 
-| License = fairuse 
-| ImageType1 = Chapter Art 
-| Description = This is an .svg version of [[:Image:Gulls-icon.png]] that has been reversed (as seen in ''[[The Gathering Storm]]'', [[The Gathering Storm/Chapter 5|Chapter 5]]), , used with permission [http://linuxmafia.com/waygate/chapter-icons-permission].
-| Source                  = {{12|5}}
-| Artist                  = Matthew C. Nielsen
-}}
-[[Category:SVG Chapter Art]]

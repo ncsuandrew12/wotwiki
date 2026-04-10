@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/westling/art/Moiraine-Damodred-131761774
-|Description = Fan art of [[Moiraine Damodred]].
-|Artist      = Isabel Westling
-}}

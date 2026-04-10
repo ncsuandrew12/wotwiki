@@ -1,7 +1,0 @@
-{| width=85% align=center class="expansion" style="background: #383838; border: 1px solid #aaa; margin-bottom: 3px;"
-| style="padding-right: 4px; padding-left: 4px;" | [[Image:Expand-article.png]]
-| <center><font color="white">'''It is requested that this article or section be expanded with additional information. Please remove this notice after it has been expanded.'''<br>
--''"Surprising what you can dig out of books if you read long enough, isn't it?"'' - Rand al'Thor</font color></center>
-|}
-<noinclude>[[Category:Articles to be expanded| Articles to be expanded]]</noinclude>
-<includeonly>[[Category:Articles to be expanded|{{PAGENAME}}]]</includeonly>

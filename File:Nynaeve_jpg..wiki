@@ -1,8 +1,0 @@
-{{Image 
-| License = GFDL 
-| ImageType1 = Fan Art
-| ImageType2 = Character
-| Description = [[Nynaeve al'Meara]] fan art done by John Seamas Gallagher 
-| Source = http://seamassketches.blogspot.com/
-| Artist = John Seamas Gallagher 
-}}

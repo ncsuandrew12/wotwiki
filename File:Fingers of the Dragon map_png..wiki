@@ -1,7 +1,0 @@
-{{Image
-| License            = gfdl
-| ImageType1          = Map
-| Description        = Map of the Fingers of the Dragon
-| Source             = [[:Image:WoT Map.jpg]]
-}}
-[[Category:Rivers]]

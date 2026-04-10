@@ -1,5 +1,0 @@
-{{Image
-| License                 = GFDL
-| ImageType1              = Miscellaneous
-| Description             = New moon icon
-}}

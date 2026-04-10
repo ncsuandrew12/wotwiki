@@ -1,9 +1,0 @@
-{{Image
-| License                 = Fairuse 
-| ImageType1              = Book Cover
-| Description             = Book Cover of the first part of two of the Eye of the World book released in Greece by Ekdosis Fantastikos Kosmos
-
-| Source          =   http://www.fantastikos-kosmos.gr/o-ofthalmos-tou-kosmou-tomos-a-v-ekdosi.html     
-| Artist                  = Christos Giannopoulos 
-}}
-[[Category:Book covers]]

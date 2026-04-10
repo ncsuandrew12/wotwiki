@@ -1,8 +1,0 @@
-{{Image
-| License            = gfdlself
-| ImageType1         = Chapter Art
-| ImageType2         = Fan Art
-| Description        = This is an .svg version of [[:Image:Tairen-icon.png]], which is a fan creation.
-| Source             = [[:Image:Tairen-icon.png]]
-}}
-[[Category:SVG Chapter Art]]

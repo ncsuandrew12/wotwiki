@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = CCG
-| Description        = Friend of the Dark - a [[Darkfriend]]
-| Source             = A promo card for ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = Liz Danforth 
-}}

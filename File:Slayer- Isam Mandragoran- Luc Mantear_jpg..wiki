@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.tumblr.com/adamreadsthewheeloftime/140882534775/rands-uncle-lans-cousin-perrins-nemesis-good	
-|Description = Fan art of [[Slayer]], Luc on the left and Isam on the right.
-|Artist      = Adam Reads the Wheel of Time
-}}

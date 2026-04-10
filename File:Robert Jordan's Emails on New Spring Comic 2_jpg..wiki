@@ -1,8 +1,0 @@
-== Summary ==
-{{Image
-| ImageType1              = misc
-| Description             = RJ's notes on New Spring Comic (2) and on Old Tongue numericals.
-}}
-
-[[Category:Old Tongue]]
-[[Category:Robert Jordan emails]]

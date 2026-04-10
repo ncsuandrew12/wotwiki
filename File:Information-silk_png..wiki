@@ -1,7 +1,0 @@
-
-{{Image
-| License                 = CC
-| ImageType1              = Admin
-| Description             = Information symbol
-| Source                  = http://commons.wikimedia.org/wiki/File:Information-silk.png
-}}

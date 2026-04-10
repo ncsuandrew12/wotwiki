@@ -1,1 +1,0 @@
-{{if2|{{{case: {{{1}}}}}}}}<noinclude>[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Cover for the Tor edition of ''[[The Gathering Storm]]''
-| Source                  = ''[[The Gathering Storm]]''
-| Artist                  = Darrell Sweet
-}}

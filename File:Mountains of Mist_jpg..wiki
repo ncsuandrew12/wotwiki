@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Miscellaneous
-| Description        = The [[Mountains of Mist]].
-| Source             = ''[[The Eye of the World 1]]''
-| Artist             = Chase Conley
-| Artist2            = Nicolas Chapuis‎
-}}

@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{3|55}}
-| used=[[Rand al'Thor]]
-}}
-{{dablink|For the similarly named sword form, see [[Rain in High Wind]]. For other uses of the word "wind," see [[Wind]].}}
-'''Wind and Rain''' is a [[sword form]]. Other than the name, nothing is known about it. During thier duel over ''[[Callandor]]'' in the [[Stone of Tear]], [[Rand al'Thor]] flowed through this form, as well as [[Parting the Silk]] and [[Water Flows Downhill]], with a ''[[saidin]]''-wrought sword in an effort to best [[Be'lal]].{{ref/book|3|55}}
-
-{{notes}}
-{{short}}

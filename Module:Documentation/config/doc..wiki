@@ -1,1 +1,0 @@
-See [[w:c:dev:Module:Documentation/config]].

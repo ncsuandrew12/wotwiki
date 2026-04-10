@@ -1,8 +1,0 @@
-</table></div></td></tr><tr><td id="infoboxend" class="plainlinks" style="text-align:right; width:49%;"></td><td style="text-align:left; width:51%;"></td></tr></table><!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>{{delete|unused}}
-
-'''For substing only!'''
-
-Meta-template used for footer in infobox construction.
-
-[[Category:Utility templates|{{PAGENAME}}]]
-</noinclude>

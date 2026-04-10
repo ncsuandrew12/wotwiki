@@ -1,1 +1,0 @@
-taking a look at the conversations we had over my first few days here would be a good start.  I also had to learn some of the coding by looking at existing pages. There should be a basic tutorial on templates, format, layout of common pages - ie. people, and perhaps a page with common code.

@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character Image
-| Description             = [[Egwene]] dressed as an [[Aiel]] [[Wise One]]; from a Japanese book cover
-| Source                  = [http://www.japancontents.net/wot/translator.html www.japancontents.net/wot/translator.htm]
-| Artist                  = Katou Toshiaki
-}}
