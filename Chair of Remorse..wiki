@@ -1,0 +1,24 @@
+The '''Chair of Remorse''' is a ''[[ter'angreal]]'' kept in the second basement of the [[White Tower]].
+
+==Appearance==
+The Chair is a rectangular, marble-gray block that is as hard as steel, except for the top which molds itself around the person seated upon it. There is a small hole on one side filled with tiny, unevenly spaced notches. It appears to be an inclined bench made for reclining on instead of an actual chair, with solid arms on which the person using it can rest their arms.
+
+==Use==
+When someone reclines on the Chair of Remorse, it takes the first action on its own, without any other interaction, after an interval of perhaps twenty or thirty seconds. First the chair molds itself to the person's body; this stops and reverses if the person sits up, but it didn't matter if someone was bound and held down. The person reclining on the chair falls into a sort of trance, with nothing more happening unless a channeler is present.
+
+Channeling in a certain way to certain spots on the chair establishes a link between the Aes Sedai and the person who sits on it. The Aes Sedai can then think of a scenario, and the person sitting on the chair then experiences this scenario fully fleshed out, in part like a vision (with jump cuts and understandings of what happened in between), but also as if actually living the experience. At the end of the scenario, the person comes out of the trance with memories of the experience as if they had actually lived it, and some physical reminders, such as tiredness if they had been made to do manual labor, or soreness if the events were not real.
+
+Given that people placed on the Chair are there for punishment, with scenarios chosen for that purpose, the usual effect of wrongdoers was not all surprising, especially since the person is sent through a number of scenarios. Indeed, many individuals with no knowledge of the Chair cannot tell whether the experiences were real or not.
+
+== History ==
+In the [[Age of Legends]], the Chair of Remorse was actually a ''ter'angreal'' used for entertainment, as it could also be used to simulate positive virtual realities tied straight into the brain. There was a way to place simulated storylines into the ''ter'angreal'', and it contained a large library of simulated scenarios, but the Aes Sedai of the [[Third Age]] could not access these; indeed; implementing the scenarios manually was never a planned feature of the ''ter'angreal'' during the Age of Legends.
+
+As the ''ter'angreal'' draws on both ''saidar'' and ''saidin'', the scenarios were given a particularly grim, dark, and foreboding feel after the [[Taint]] was placed upon ''saidin''.
+
+Thieves and other criminals caught in [[Tar Valon]] are taken to the Chair of Remorse, and often leave the city as fast as they can after being made to use it, with many giving up lives of crime entirely. It was absolutely forbidden to use it on an initiate of the White Tower, although it could be used by non-channelers employed by the White Tower. This law was broken by the Black Ajah Hunters in their quest to root out Darkfriends among the Aes Sedai at any cost.<ref name="comp">[[The Wheel of Time Companion]], Chair of Remorse.</ref>
+
+==Present Day==
+Five [[Sitters of the Hall]], [[Seaine Herimon]], [[Saerin Asnobar]], [[Doesine Alwain]], [[Yukiri]], and [[Pevara Tazanovni]] use the Chair of Remorse to force [[Talene Minly]] to reveal that she is [[Black Ajah]].{{ref/book|9|Prologue}} Talene accuses [[Elaida]] of also being Black Ajah, although this is an unfounded supposition. The horrific experiences force her to retake the Three Oaths, with the addition of an oath of obedience to the [[Black Ajah Hunters]].
+{{notes}}
+[[Category: Ter'angreal]]
+[[Category:Items of Power]]

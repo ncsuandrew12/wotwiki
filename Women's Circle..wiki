@@ -1,0 +1,31 @@
+__NOTOC__
+{{quote|Everyone said Two Rivers men were stubborn, but they could not match Two Rivers women.|from the thoughts of [[Egwene al'Vere]]{{ref/book|4|7}}}}
+In the [[Two Rivers]] district of western [[Andor]] the villages of [[Taren Ferry]], [[Watch Hill]], [[Emond's Field]], and [[Deven Ride]] hold themselves politically independent and practice a form of gender-based bicameral government. The '''Women's Circle''' of each community is an all-female committee whose members are selected by consensus of woman in each village.{{ref|{{twotc}}, Women's Circle}} Each Circle is guided by a [[Wisdom]] who is chosen by the Circle and serves for life.{{ref|{{twotc}}, Wisdom}} The number of members in a Circle is not set at a certain amount, though they do tend to be proportional in size to the population of the differing communities; with Taren Ferry's Circle being the largest and Deven Ride's having the fewest members.  In lands outside the Two Rivers, Circles exist but are often known by other names such as The Ring or The Gathering.{{ref|{{twotc}}, Women's Circle}}
+
+The primary function of Circles is to establish and maintain social protocols within Two Rivers culture. A young woman in the Two Rivers is not allowed to [[Braid]] her hair until members of the local Women's Circle have decided that she is of marriageable age. When weddings do occur, members of the Circle stand as witnesses while the local Wisdom performs the ceremony.{{ref/book|4|53}}  Members of the Circle convene when villagers break with social norms; such as when a youth is caught misbehaving or if two young women are fighting over a local boy.{{ref/book|6|p}}  They will also gather to settle non-property related disputes among folk.  Members are generally versed in a Wisdom's skills and might assist her in the arts of healing, weather prediction, and herblore.
+
+The power of the Women's Circle in each community is balanced by - and often at odds with -the equally important [[Village Council]]. Councils are eight-member committees of men in each village who have been elected to office by townsfolk. They are headed by a [[Mayor]] who is also elected into office and serves as one of the eight members. Though these two ruling bodies frequently bicker over small issues, it is generally understood and accepted that Councils regulate economic matters and Circles hold sway over social issues.
+
+Beginning in the summer of {{Ne|999}} the Circles of each village began to defer to [[Perrin Aybara]] and [[Faile Aybara]] who have emerged as sovereign nobles ruling over the Two Rivers district. Under this new structure, Circles dispatch their Wisdoms to Emond's Field to engage in dispute resolution while in audience with either Perrin or Faile.{{ref/book|6|p}}  Faile has also worked in secret to manipulate Circle memberships in order to consolidate her political control over the four communities in the Two Rivers.{{ref/book|6|p}}
+
+== Members of the Women's Circle ==
+=== Emond's Field ===
+* [[Doral Barran]] ([[Wisdom]]; deceased)
+* [[Nynaeve al'Meara]] (former [[Wisdom]]; left the [[Two Rivers]])
+* [[Daise Congar]] (current [[Wisdom]])
+* [[Alsbet Luhhan]]
+* [[Elnore al'Meara]] (deceased)
+* [[Marin al'Vere]]
+* [[Natti Cauthon]]
+* [[Neysa Ayellin]]
+* [[Mistress Thane]]
+
+== External links ==
+*{{TVlink|Women's Circle}} on {{TVlink}}
+
+{{Notes}}
+
+[[es:Círculo de Mujeres]]
+[[Category:Ruling bodies]]
+[[Category:Women's Circle| Women's Circle]]
+[[Category:Two Rivers]]

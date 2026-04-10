@@ -1,0 +1,125 @@
+==Sword Form Interpretation Guidelines==
+Since Jordan deliberately kept the form descriptions vague for the most part, with the exception of explicit descriptions, metadata about how these forms are used are largely interpretations. Contributors can make comment on these guidelines, as they evolve based on community consensus.
+
+* Purpose
+: (Qaexl): The kind of people interested in this particular trivia are ones fascinated by the sword forms in WoT. Some (like me) actively train in martial arts and have a passion for them. As such, there is interest in reconstructing these forms in real life while staying as close to canon as possible. This purpose differs from the general WoT fandom and folks interested in creating game mechanics out of these forms. I'm taking the time to organize the information to be friendly to martial artists (and would-be martial artists), not to the general WoT fandom or to gamers. As such:
+
+* There will be spoilers
+
+* Examples of form applications must have enough context and may result in spoilers
+
+* Examples of form applications need to describe who did what with whom, rather than a vague interpretation.
+
+* Try to stay in active rather than passive tense ("Rand killed the enemy", rather than "The enemy was killed by Rand").
+
+* Don't interpret a form as "offensive" and "defensive"
+: In real-life martial arts, it is naive to think of kata has a single application, or is used only in a particular way. One of the more extreme of examples is my Northern Shaolin teacher showing us how to use every single warm-up we did in combat. Another example is the first form I learned in xingyiquan, something called "Splitting Fist". The form is fairly narrow and there is a total of three steps in the form, yet there are at least three ways to use the form, and many, many variants. I can use it defensively as a response to someone's straight punch, but that is naive and takes too long; better to "split" the straight punch so that it goes off to the side while simultaneously attacking the face. In other words, it is both "defensive" and "offensive" at the same time. Many kata describe applications in which an opponent is lured to make an attack at a deliberately-shown weakness. Now, is that defensive or offensive? It's neither: I am controlling the opponent's movement, and even though it looks like the enemy is attacking first, I have seized initiative. Lest you think this only applies to empty-hand combat, I have friends in the School of St. George show me one of their basic sword drills, used to lure an enemy into cutting at the exposed front leg so they in turn expose their neck in turn. There is vast creativity in applying a form, which is where the "art" of "martial art" comes from.
+
+: However, in order to imply the intent of the characters as written in the text, instead of saying, "This is an offensive form", better to write "Rand uses this to attack Be'Lal"; instead of "This is a defensive form", write "Rand uses this in response to Be'Lal's attack". (Qaexl)
+
+* '''The main thing is that I want to avoid this''': http://www.thelastsunrise.net/misc/swordguide.htm
+
+'''Terms'''
+* Swordsmen don't "spar", they have "bouts"
+
+==Revamp of page==
+First, I kind of have a problem with your stated purpose for this page. This wiki is for the general WOT fandom, not martial artists or would-be martial artists. As such, the page should be written within the confines of the wiki standards.
+
+Second, in regards to your statement of interpritation, when I wrote that a particular form was offensive or defensive, that was not interpritation but it was taken from what was said in the book. When one form "met" another, the first was defensive and the second form was offensive. And while we are on that subject, I would like to point out this that you added: "The form appears to be a favorite for initiating battle, and the name suggests a beginning or an entering." The words "appears" and "suggests" is implication. To use your own example, it should be "This form was used often at the beginning of a battle" not "The form appears to be a favorite for initiating battle".
+
+Third, the inuse tag was put on the article for a reason. I have been researching both what is stated in the books as well as interviews from Robert Jordan to expand the article. I would appriciate it if any further edits to the page be discussed first. That is why the tag was made and why I put it on the article.
+
+Please let me know if you have any questions. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 23:14, February 15, 2010 (UTC)
+
+===Re: Revamp of page===
+
+Let me first say this: I apologize if it seems as if I am invading here. First I randomly pop up out of nowhere and added this to Blademasters even though there was a sword forms (I admit, I didn't see a link to sword forms from Blademasters and instead of searching I simply assumed that page did not exist). And now I am making tons of changes to sword forms without seeming to talk to anyone. I know I look like a jerk to the regulars here.
+
+I can tell you, I have great passion for WoT and for the martial arts. This sword forms page gets double the interest from me. For now, I am sticking to just the sword form and related pages. I don't want to make assumptions about your motivations; It seems to me, you've spread yourself across the entire site acting as an editor/contributor-in-chief, making sure it is up to the standards of the rest of the site. Other than that, I don't know why you care this much about the sword forms page. I think though, this wiki is amazing, and I want to thank you and the rest of the regulars here who put the effort into this wiki.
+
+I'd like a chance to clarify what I meant in the above purpose:
+
+I want to compile all the sword forms and their descriptions on this wiki. This data would be suitable for reconstruction, but I will not be putting that reconstruction on this site. Besides being dangerous, people will argue. It's harder to argue with canon backed by citations. I'd like to reference to this page as canon and leave the speculations on a totally different site. As such, the standards for creating this compilation would have to be higher than normal, yet will not step outside of general WoT fandom.
+
+I have been compiling a list of WoT sword forms for the purpose of reconstructing since I went to the Atlanta DragonCon about four years ago. The session was about some folks who decided to demonstrate what those forms look like. Despite the fact that the people who put together that session had experience in martial arts, the stuff they came up with was total and utter crap. They used a list drawn randomly from the internet made by someone who never took the time to research what was going on in those books and probably never trained in martial arts at all. No one knew where it came from. No one knew who wrote it. No one even bothered to check it against the books. It was difficult to tell what was canon, what were stylistic metaphors, and what this anonymous author plain made up. The organizers knew this and invited the audience to help out because they know their source sucks.
+
+As such, I want to see an editorial standard for this page that is higher than the rest of the pages. Something that a WoT fan without interest in martial arts would find useful, but would be very useful for anyone who likes "that sword stuff". This is why I don't think labeling a form as "offensive" or "defensive" is a good idea -- but describing say, "Gareth Bryne used this form to defend Siuane Sanche" would be good because ... he did use it to defend Siuane. It shows someone using the form defensively in a particular context without stating that it *is* defensive. Similarly, "Heron Wading Through Rushes is used to train balance" is good because that was explicitly stated in several places. "Boar Rushing Down the Mountain is a series of aggressive overhead blows" is no good because I deduced that, it wasn't explicitly stated. But even if that were acceptable, I make no mention of saying that was defensive or offensive. You might have heard the expression, sometimes the best defense is a good offense, meaning that a pre-emptive strike takes care of a lot of problems. One might use the Boar to cover a retreat; that's a defensive intention. By stating "the Boar is an offensive move", now you have to say, "but sometimes you can use it defensively, and sometimes ...". This starts adding a lot of confusion.
+
+Put it another way, a trick I learned from the philosopher Ken Wilbur: "offensive" and "defensive" are not useful distinctions when it comes to the WoT sword forms.
+
+
+
+About the second. I have not drawn anything from the interviews -- I'd like to, but I haven't really searched through them. However, I've been pouring over the books too.
+
+
+
+In relation to "offensive" and "defensive": You can say "Offensive met Defensive." just as easily as you can say "Defensive met Offensive."
+
+A form that "met" another form cannot be said to be offensive or defensive. There is no defensive or offensive intent behind it. Usually, both parties are doing their upmost to kill the other person. It goes along with the way Jordan wrote it: every time Rand enters the Void and becomes one with the enemy, you get a series of "X met Y". There isn't even anything to indicate who is doing X and who is doing Y. There are rarely no details as to who initiated and who is responding. This jives with my own rare experiences in those state.
+
+I didn't do a statistical analysis on this ... but I'd say in general, when Rand and other blademasters were killing Trollocs or ordinary people, they simply moved through the forms and people died. When Rand sparred with the guy in Caemlyn who knew a little bit about swords: "Rand went after him in an all-out attack; the man's long face tightened as he gave ground. The Boar Rushes Down the Mountain crashed through Parting the Silk, broke Lightning of the Three Prongs, and the bundled lathes slashed hard against the side of the man's neck." The guy tried to use those forms defensively and failed. When Rand fought other blademasters, most of the descriptions were simple "X met Y." The exceptions were for example, in the duel between Galad and Eamon Valda (And looking at it now, there's an error in the description I put in River of Light). There was one example of "X countered Y", but for the most part, "met" does not convey a sense of sequence very well.
+
+More importantly, "X met Y" conveys an important principle behind a number of martial arts. The most well-known arts that teaches this would be Aikido and Tai Chi. The idea being that, first you and the enemy are two, then you become the enemy, then it is just you. Meaning that, as long as I fight against that enemy, I and the enemy are separate; we are in conflict. These two arts explicitly teaches the combat philosophy of embracing the opponent ... then entering their territory. Many of Rand's fights has the explicit statement of becoming "one" with his enemies. At that point, you're well beyond what is "offensive" and what is "defensive". This is something very meaningful to me and the minority of WoT martial art geeks, even if it may be glossed over by the general fandom.
+
+
+
+You are also absolutely right about what I wrote, "The form appears to be a favorite for initiating battle" should be changed. Thanks for picking that up.
+
+
+
+About the third, I don't know how much more time I am going to spend on all of this. This list of sword forms is huge, 69 by last count and not including what I plan to do with New Spring and The Gathering Storm. My original list came from deliberately reading through the entire series all the way through Knife of Dreams and writing down where the page they appear on. I think I've got most of them. I know I didn't get all of them since I saw a few here that I missed. That was why I wanted to keep track of first appearance.
+
+Having said that, this will be a huge undertaking. Discussing the changes here will take forever. I've been going through my own offline list, starting with Parting the Silk and digging up the actual text. I think it is better if we come to an understanding with each other and hash out a common policy here, put the information on this page, and then tweak as necessary. Again, I apologize if I stepped on my toes with my previous behavior.
+
+One of the higher standards I'd like to see for this page: Don't use the word "use". Don't use the word "techniques". Don't use the words "this move". Those words betray a martial art newbie. The words Jordan and Sanderson uses -- "perform", "tried" would be good along with the results, "cut", "kill", etc. This is really important to me. Whoever Jordan talked to about swordsmanship and the Void were able to properly convey some important ideas, and it shows in the books. One of the more important one is that these forms and techniques are not objects outside of yourself. You don't "use" them. At the level of mastery that Jordan is ascribing to Rand and the other blademasters, these people don't use weapons. They ''are'' weapons.
+
+I'm not sure if this is a practical policy though. I still sometimes fall into saying, "Rand uses X". What do you think?
+
+[[User:Qaexl|Qaexl]] 01:42, February 16, 2010 (UTC)
+
+:When I started my last read through of the series, this was one of the things that I had wanted to do, find references and descriptions of the sword forms. I will admit that I don't have an in-depth knowledge of any kind of martial arts. With that in mind, I would like to propose the following.
+
+:Continue with the updates that you have been doing. It seems that you have given this a lot of time and effort. I will take a look at the formatting of the page. I'm not sure about breaking up each form into it's own section, but there have been precidents on similar pages. I will try to play around with some of the formatting. I am also going to look into a "template" of sorts for each sword form. More to come on that
+
+:Regarding the higher standards: While it might not fit with what a martial arts expert would see as correct, this is a wiki for the general fandom of WOT. However, there is something that I have noticed. If you write the page using the proper wording and someone else comes along and adds something new, generally they will try to "match" the style already present. This is really the only thing that can be done.
+
+:Also, let me apolgize for any precieved attitude on my part. I had ben trying to work this page for a while with my read through and then someone comes along and does exactly what I was doing. But, you seem to have a greater understanding of the subject, so I will stand aside and let you work with what you have found. Let me know if you have any other questions. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:06, February 16, 2010 (UTC)
+
+:: Cool, well I'm glad there are others interested in this. I'll keep updating this. At some point, I'll do a re-read of New Spring and Gathering Storm to see if there are any more I have missed. 
+
+:: I'm not too sure about the formatting either. I did find it was difficult to locate the sword form for editing purposes. I think if we keep the formatting as it is until most of the form information has been put together, we can try alternate formatting that is easier to read, even if it is more difficult to edit.
+
+:: Thanks for the tips on the refs. I wasn't too sure about that.
+
+::[[User:Qaexl|Qaexl]] 21:48, February 18, 2010 (UTC)
+
+== Re-vamp, Part 2 ==
+
+I have gone ahead and cleaned up a few things on the page. I think that it makes both reading and editing (to include additions when they are gotten to) easier. I also put in a line near the top saying that if a description or "In Practice" line does not have a reference, it is included in the "First Mentioned" reference.
+
+Also, in regards to the footnotes. It took me a while to figure out how to use these. Here is some quick training.
+
+*When putting in a single reference, only used once on the page, use: <nowiki><ref>{{1|1}}</ref></nowiki>
+*When putting in a reference that will be used multiple times, the first time use: <nowiki><ref name="1-1"><{{1|1}}</ref></nowiki>
+*When using a reference for the second time, use: <nowiki><ref name="1-1"/></nowiki>
+
+For the reference name, it doesn't matter what you name it. I use the above format (i.e. 1-1 for 1|1) so it is easy to figure out. 
+
+When you first name a reference (the second bullet), it doesn't have to be the very first time it is used on the page.
+
+Example:
+ Line One:Blah blah<nowiki><ref name="1-1"/></nowiki>
+ Line Twenty: Blah blah<nowiki><ref name="1-1"/></nowiki>
+ Line 367: Blah blah<nowiki><ref name="1-1"><{{1|1}}</ref></nowiki>
+
+The program will find of the all of reference that are named the same and include them all on one line in the footnote section. This tends not to matter when first creating a page, but when going back and re-referencing a page (like this one) it helps.
+
+Please let me know if you have any questions regarding the page itself or referencing code. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:54, February 16, 2010 (UTC)
+
+== Added missing sword forms ==
+
+Hey guys, I kept a list of sword forms I encountered during my re-read for my own amusement. Comparing this to the wiki page I noticed that about 15 of the sword forms I noted were missing here. I edited the page and added them into the table. I also created a page for each form although I didn't note the context of the forms so no information was added to the pages except that it's a sword form. Feel free to expand. Most of the forms I added were from the last 3-4 books, it seems that so far nobody bothered to add those to the wiki.
+
+[[User:Pellwing|Pellwing]] ([[User talk:Pellwing|talk]]) 02:58, 7 October 2022 (UTC)
+
+: Thanks for updating! Very likely that this has not be touched in many years, so it was much needed. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 09:17, 7 October 2022 (UTC)

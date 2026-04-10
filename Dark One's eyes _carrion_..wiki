@@ -1,0 +1,30 @@
+{{for|the dice roll|The Dark One's Eyes (dice)}}
+'''Dark One's Eyes''' are crows,{{ref/book|1|8}}{{ref/book|11|10}}{{ref/book|11|20}} ravens,{{ref/book|1|8}}{{ref/book|1|29}}{{ref/book|11|10}}{{ref/book|11|20}}, rats{{ref/book|1|8}}{{ref/book|9|p}}{{ref/book|11|10}} and other carrion eaters{{ref/book|1|8}} that serve as spies for the [[Shadow]].
+{{tocright}}
+
+== Borderlands ==
+
+In all of the [[Borderlands]], where the threat of the Shadow is ever-present, a bounty is paid for every raven killed.{{ref/book|1|29}}{{ref/book|3|1}}
+
+== Activities ==
+
+A raven behaved strangely and seemed to be observing [[Rand al'Thor]] and [[Mat Cauthon]] just before they met [[Moiraine Damodred]].{{ref/book|1|2}} In the aftermath of the [[Winternight]] attack, Moiraine and [[Lan Mandragoran]] were confident the raven was a spy for the [[Dark One]].{{ref/book|1|8}}
+
+Large flocks of ravens scoured the countryside while [[Elyas Machera]], [[Perrin Aybara]], and [[Egwene al'Vere]] traveled cross-country towards [[Caemlyn]], slaughtering various other mammals and birds in their path.{{ref/book|1|29}}
+
+== Parallels ==
+
+There have been real-life bounties placed on crows and other animals considered vermin.{{ref|{{cite/web |url=https://www.independent.ie/life/how-much-for-a-foxs-tail-and-a-magpies-head-remembering-irelands-vermin-control-schemes-and-the-chancers-who-played-the-system-for-cash/a1720192978.html |title=‘How much for a fox’s tail and a magpie’s head?’ Remembering Ireland’s vermin control schemes and the chancers who played the system for cash |author=Liam Collins |date=2024-7-20 |accessdate=2025-10-15 }}}}
+
+== Trivia ==
+
+Rand hoped the conventional attack on [[Shayol Ghul]] would shield him from "the Dark One's eyes," but in that case the term seemed to refer to information-gathering agents of the Shadow in general, rather than carrion-eating vermin in particular.{{ref/book|14|23}}
+
+== See also ==
+
+[[Shadowspawn]]
+
+{{notes}}
+[[Category:Animals]]
+[[Category:Concepts]]
+[[Category:Antagonists]]

@@ -1,0 +1,83 @@
+Any [[Special:Userlogin|logged in]] user can [[Special:Upload|upload]] images to a Wikicity. <!--Please see the help page on [[Help:Uploading files|how to use and upload images]] for instructions.-->
+
+==Locally hosted images==
+It is strongly recommended that any images used on Wikia are uploaded directly rather than using links to external sites. Displaying externally hosted images [[Wikipedia:Bandwidth theft|steals bandwidth]] from other sites, and is a feature which could be switched off in future (as it has been on [[wikipedia:Wikipedia]]) so you should not rely on images used in this way always being available.
+
+Using images ''from other Wikia'' in this way, however, should not cause any problems. For example, you can use <nowiki>http://doom.wikicities.com/images/b/bc/Wiki.png</nowiki> if you want to display the Doom Wiki logo on a different Wikicity rather than reuploading it (although it might be more appropriate to upload it to the Wikicity it is used on so licensing information can be found easier).
+
+==Image tagging==
+All images must have a tag added stating which license they are under. <!--For example, typing [[Template:GFDL|<nowiki>{{GFDL}}</nowiki>]] on an image description page will display:
+:{{GFDL}}
+
+-->See [[Help:Image copyright tags]] for details.
+
+==Video and other files==
+If they are not in violation of any copyright, then you can upload certain file types. Images and sounds shouldn't be a problem, but there is a size-per-file limit of 5MB, so video might be a problem. It is recommended that you upload files which are too large to another site and link to them there instead. For example, you can use the [http://commons.wikimedia.org/wiki/Main_Page Wikimedia commons] if the file would also be useful to a Wikimedia project (such as [http://en.wikipedia.org/wiki/Main_Page Wikipedia]), or else to [http://ourmedia.org/ Ourmedia] which allows videos to be uploaded there and then used on other sites.
+
+==Logos==
+[[Help:User access levels|Administrators]] can [[w:Start a new Wikicity#Change the logo|change the logo]] of a wiki by uploading a new image over [[:Image:Wiki.png]]. Similarly, the favicon (the icon next to the URL box) can be changed by uploading a new image to "Image:Favicon.ico". It is recommended that administrators protect these files from unauthorized changes.
+
+==Image galleries==
+The <nowiki><gallery></nowiki> tag is a MediaWiki feature for creating image galleries; an easy way to display many images together.
+
+<pre>
+<gallery>
+Image:Wiki.png
+Image:Wiki.png|Captioned
+Image:Wiki.png|[[Wikia:Wikipedia|Links]] can be put in captions.
+</gallery>
+</pre>
+
+produces:
+<gallery>
+Image:Wiki.png
+Image:Wiki.png|Captioned
+Image:Wiki.png|[[Wikia:Wikipedia|Links]] can be put in captions.
+</gallery>
+
+Brackets are used only for adding links within captions. Captions are optional. Images are separated by newlines. The width of the gallery can be changed in your [[Special:Preferences|preferences]].
+
+==Using images in articles==
+To make images appear in an article, you need to insert it: edit the article and add the syntax 
+
+<nowiki>[[</nowiki>Image:'''Image name'''|thumb|'''Caption''']]
+
+where you want the file to appear.  See [[Wikipedia:Images]] or [[Wikipedia:Extended image syntax]] for further instructions.
+
+==Uploads==
+Before uploading images at [[Special:Upload]], make sure to read and follow the [[project:Image use policy|image use policy]].  Please note that '''most images you find on the Internet are copyrighted and not generally appropriate for use on {{SITENAME}}'''.   If you did not create the image or are unable or unwilling to verify its copyright status, '''do not upload the image'''.  For hints on how to find images appropriate for uploading, see the [[Wikipedia:finding images tutorial|finding images tutorial]].  It might also be helpful to read [[Wikipedia:Preparing images for upload]].
+
+Use the form at [[Special:Upload]] to upload new image files for use in illustrating your articles. On most browsers, you will see a "Browse..." button, which will bring up your operating system's standard file open dialog. Choosing a file will fill the name of that file into the text field next to the button. You must also check the box affirming that you are not violating any copyrights by uploading the file. Press the "Upload" button to finish the upload. This may take some time if you have a slow Internet connection.
+
+=== Formats ===
+The preferred formats are [[wikipedia:JPEG|JPEG]] for photographic images, [[wikipedia:PNG|PNG]] for non-[[wikipedia:Vector graphics|vector graphic]] iconic images, and [[wikipedia:SVG|SVG]] for drawings and line-art illustration. Please name your files descriptively to avoid confusion.
+
+To view or search previously uploaded images,
+go to the [[Special:Imagelist|list of uploaded images]].
+Uploads and deletions are logged on the [[Special:Log/upload|upload log]].
+
+Please note that as with wiki pages, others may edit or
+delete your uploads if they think it serves {{SITENAME}}, and you may be blocked from uploading if you abuse the system. 
+
+=== Licenses ===
+
+If you are uploading an image under the doctrine of [[wikipedia:fair use|fair use]], please place the text <nowiki>"{{fairuse}}"</nowiki> (or a more specific fair-use template, such as {{tl|albumcover}}) in the summary and provide the reason for the claim of fair use. Always state the source of the image. If the image is licensed under the [[Wikipedia:GNU FDL|GFDL]], please include <nowiki>"{{GFDL}}"</nowiki> in the description.
+
+If the image is under any other license please indicate this by using the appropriate message from [[Wikipedia:Image copyright tags|Image copyright tags]].
+
+[[Wikipedia:GNU FDL|GFDL]] or public domain images are strongly preferred on Wikia. Copyright information must be added to the image description page of every uploaded image. Copyright-violating images are subject to deletion. 
+
+=== Multiproject upload ===
+
+It is not possible to use an image uploaded to one Wikimedia project in another one without re-uploading it. If you want to use the same image in more than one project, you can upload it to [[commons:Main Page|Wikimedia Commons]] and it would become immediately accessible from all Wikimedia projects. Note that Commons only accepts free images (public domain or licensed under a [[wikipedia:free license|free license]]). If the image is [[wikipedia:fair use|fair use]], you can't upload it to Commons. To upload the image existing on Wikipedia to another project you will need to download the image to your own computer (often right clicking on it will give you this option), and then re-upload that to the place you want the image to be copied to. [[Wikipedia:Interlanguage links|Interlanguage links]] can be added between the two.
+
+== See also ==
+
+* [[Wikipedia:Images]]
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Images and media for deletion]]
+* [[Wikipedia:Featured pictures]]
+* [[Wikipedia:Captions]]
+* [[m:Sharing images across projects]]
+
+[[Category:Help|Images]]

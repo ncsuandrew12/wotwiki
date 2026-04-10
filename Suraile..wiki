@@ -1,0 +1,18 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| affiliation=Sevanna
+| society=Far Dareis Mai
+| clan=Shaido
+| sept=Moshaine
+| status=Alive
+| mentioned={{acos|40}}
+| lastmentioned={{acos|40}}
+| living=acos
+}}
+'''Suraile''' is an [[Aiel]] from the [[Moshaine]] [[Shaido]]. She is a [[Maiden of the Spear]]. Her father was [[Maeric]].
+
+== Activities ==
+When her clan begin to jump through a [[Gateway]] provided by "[[Sammael|Cadder]]", she stays in the rear guard position with the [[Stone Dog]] she is intending to marry. The Gateway suddenly snaps shut cutting her off from the rest of her clan.

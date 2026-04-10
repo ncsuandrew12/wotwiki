@@ -1,0 +1,29 @@
+{{ character 
+| image=Leaves.png
+| imagesize=200px
+| gender=Female
+| hair=Glossy black
+| clan=Da'shain Aiel
+| status=Dead
+| appeared={{Tsr|26}}
+| lastappeared={{tsr|26}}
+}}
+'''Alnora''' was a female [[Da'shain Aiel]] during the [[Breaking]]. She was a [[dreamer]] and wife of [[Jonai]].
+
+==Appearance==
+She had shoulder length glossy black hair.
+
+{{Ancestry/Rand}}
+
+==History and Family==
+She was a dreamwalker. She helped Jonai with her dreams which direction to go and what to do after they have left [[Paaran Disen|Paaren Disen]] with the ten thousand Da'shain Aiel. Alnora and Jonai had three children, [[Willim]], age of fifteen when they have left Paaren Disen, [[Adan]], age of ten, and [[Esole]] the youngest. 
+
+She died under unknown circumstances but it is indicated that an Aes Sedai could have Healed her, but none was traveling with them. {{ref/book|4|26}}
+
+==Errata==
+She is listed as [[Jenn Aiel]] in [[The Wheel of Time Companion]], but the term Jenn did not exist until the time of her great-grandson [[Lewin]]. She should be Da'shain Aiel.{{ref|{{twotc}},Alnora}}
+
+{{notes}}
+{{short}}
+[[Category:Dreamwalkers]]
+[[Category:Historical people]]

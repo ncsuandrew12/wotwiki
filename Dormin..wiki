@@ -1,0 +1,23 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| affiliation=Faile Bashere
+| occupation=Bootmaker
+| gender=Male
+| build=Stocky
+| status=Alive
+| appeared={{kod|28}}
+| lastappeared={{kod|28}}
+| living=kod
+}}
+'''Dormin''' is a [[Shaido]] ''[[gai'shain]]'' from [[Cairhien]]. Used to be a bootmaker.
+
+== Appearance ==
+He is stocky.
+
+== Activities ==
+He is one of the ''gai'shain'' who has sworn an oath of fealty to [[Faile Bashere]].
+
+{{short}}
+[[Category:Gai'shain]]

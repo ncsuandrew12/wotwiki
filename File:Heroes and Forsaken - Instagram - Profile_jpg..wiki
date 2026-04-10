@@ -1,0 +1,8 @@
+== Summary ==
+{{Image
+| License                 = Fairuse 
+| ImageType1              = 
+| Description             = Instagram profile photo of the official Heroes and Forsaken Instagram account
+| Source                  = https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/561423049_17853472377551345_2286351467341939109_n.jpg
+| Artist                  = 
+}}

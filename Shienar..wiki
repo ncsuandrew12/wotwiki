@@ -1,0 +1,70 @@
+{{ nation
+| image=[[File:ShienarFlag.png|250px]]
+|name=Shienar
+|type=Monarchy
+|headofstate=King [[Easar Togita]]
+|sigil=A swooping black hawk; the Black Hawk.
+|banner=A black swooping hawk on a field of three blue and two white horizontal stripes.
+|region=Northeast of the [[Westlands]]
+|capital=[[Fal Moran]]
+|cities=[[Ankor Dail]], [[Camron Caan]], [[Fal Dara]], [[Fal Eisen]], [[Fal Sion]], [[Medo]], [[Mos Shirare]] 
+|demonym=[[Shienaran]]
+|formed=Early [[War of the Hundred Years]]
+}}
+{{quote|Peace favor your sword.|Shienaran warrior's blessing}}
+'''Shienar''' (pronounced: shy-NAHR) is one of the four Borderland nations which lie on the threshold of the [[Great Blight]]. It is the easternmost of the Borderlands, lying between the [[Spine of the World]] and [[Arafel]]. The sigil of Shienar is a swooping black hawk. By tradition, the sigil of the reigning ruler is also a sign of Shienar. 
+
+==Geography==
+
+Shienar stretches from the [[River Mora]] on the border with [[Arafel]] to the [[Spine of the World]], and from the [[Blight]] to the [[River Erinin]]. The city of [[Fal Dara]] lies in the north-east of Shienar, near [[Tarwin's Gap]], while the capital [[Fal Moran]] is further south.
+[[Image:14 - Shienar.PNG|thumb|200px|left|Location within the Westlands]]
+
+==History==
+The nation of Shienar was formed early in the [[War of the Hundred Years]]. The governors of [[Artur Hawkwing|Hawkwing's]] five northern provinces met and agreed to form stable nations to preserve the peace and defend against the [[Blight]]. [[Merean Tihomar]] was the first Queen of Shienar.
+
+Following the [[Fall of Malkier]] in [[955 NE]], Shadowspawn armies crossed into the northern parts of Shienar and Arafel. With the additional aid of Kandor, the two nations met the Shadowspawn armies at [[Stair of Jehaan]] and defeated them in the largest battle in the [[Westlands]] since War of the Hundred Years.
+
+At the height of the [[Aiel War]], Shienar sent the largest expeditionary force of the [[Grand Alliance]] and fought in the [[Battle of the Shining Walls]]. The Aiel withdrew after killing [[Laman Damodred]], and both sides considered themselves the victors of the war.
+
+In [[998 NE]], Shienar faced an invasion by a Shadowspawn army. Hopelessly outnumbered and with no time to ask other countries for help, the Shienarans rode and faced the enemy at [[Tarwin's Gap]], although they knew that they would almost certainly lose. However, the [[Battle of Tarwin's Gap|subsequent battle]] saw the Shienarans win a surprising victory thanks to the intervention of [[Rand al'Thor]].
+
+==Government==
+Shienar is a monarchy. The throne is currently held by King [[Easar Togita]]. The throne is located in the capital, [[Fal Moran]].
+
+Although Shienar was founded by a woman who served as queen, Shienar's monarchy was exclusively male in the late [[New Era]]. If the king is married, his wife is called the Queen. When the king leads the armies into battle, it is expected that the Queen handle civil rule until he returned. The King is expected to surround himself with a council of nobles and representatives of the merchants and guilds, but is in no way constrained to take their advice, nor is his wife while her husband is away on campaign.
+
+==Fashion and culture==
+Shienaran men, especially warriors, typically shave their faces and wear their hair in a topknot. Like all the Borderlands, Shienar's culture is heavily martial due to the proximity of the Blight and the constant need for vigilance, and internal strife of the kind often seen in the southern countries is virtually nonexistent. According to [[Gareth Bryne]], Shienaran {{Wiki|heavy cavalry}} is the finest in the world.{{ref/book|5|50}}
+[[File:Shienaran saliba.jpg|thumb|left|A Shienaran warrior by [[Jeremy Saliba]].]]
+
+In keeps, men's quarters are separated from the women's. A man needs to be invited into the women's apartments, and never goes armed unless the keep is under attack. On the other hand, bathing in Shienar is unisex, taking place in large, tiled pools. It is not considered shameful to see someone naked in the baths, but it is considered improper to be less than fully clothed outside the baths.
+
+== Economy ==
+Shienar mines a considerable amount of gold, silver, and gems, especially firedrops, of which Shienar is the largest source. There is also some mining of emeralds, rubies, and sapphires, as well as lesser stones. Timber and furs are both major exports.{{ref/book|c|Shienar}}
+
+==Towns/cities==
+*[[Fal Moran]] (capital)
+*[[Ankor Dail]]
+*[[Camron Caan]]
+*[[Fal Dara]]
+*[[Fal Eisen]]
+*[[Fal Sion]]
+*[[Medo]]
+*[[Mos Shirare]]
+
+==Parallels==
+*{{Wiki|Shinar}} is an area mentioned several times in the Bible in reference to areas of {{Wiki|Mesopotamia}}, including the plain on which the {{Wiki|Tower of Babel}} was built.{{ref|{{cite/bible|Genesis|10|10}}, {{cite/bible|Genesis|11|2}}, {{cite/bible|Genesis|14|1}}, {{cite/bible|Genesis|14|9}}}}{{ref|{{Wiki|Shinar}}}} Another kingdom mentioned in the Bible is {{Wiki|Ellasar}},{{ref|{{cite/bible|Genesis|14|1}}, {{cite/bible|Genesis|14|9}}}} a possible origin for the name "[[Easar]]." The king of Shinar was Amrafel,{{ref|{{cite/bible|Genesis|14|9}}}} possibly an inspiration in the naming of [[Arafel]].
+*''Boyd's Bible Dictionary'' claims that "Shinar" means "[[Two Rivers|two rivers]]."{{ref|{{cite/web |url=https://bibletruthpublishers.com/shinar/ljm18152#:~:text=Potts%27%20Bible%20Proper%20Names:,XYZAll%20Subjects |title=BibleTruth - Shinar - Boyd's Bible Dictionary |accessdate=2025-10-28}}}} It's possible Jordan was familiar with this assertion.
+*Shienar's culture is thought to mostly be based on Japan. There are communal, unisex baths, but modesty is very prized outside of bathing practices. The poetry from Shienar mostly resembles the ''haiku'' style, and the warriors wear topknots. Several names of Shienarans, such as [[Easar Togita|Togita]], [[Ingtar Shinowa|Shinowa]], and [[Kayen Yokata|Yokata]], bear linguistic similarities to Japanese names.{{ref|According to the [http://www.steelypips.org/wotfaq/3_sources/3.14_countries.html Wheel of Time F.A.Q.]}}
+
+==Trivia==
+*In the "Shienar" entry in ''[[The Wheel of Time Companion]]'', the country's flag is described as consisting of a black hawk on a background of blue and white stripes (which was also previously confirmed in ''[[The World of Robert Jordan's The Wheel of Time]]''). However, in the "Black Hawk" section of the ''Companion'', the hawk is instead described as being displayed on a yellow background when used as the flag of Shienar. The reason for this inconsistency is unknown.
+
+{{notes}}
+{{nations}}
+
+[[es:Shienar]]
+[[Category:Nations]]
+[[Category:Shienar| Shienar]]
+[[Category:Parallels]]
+[[Category:Borderlands]]

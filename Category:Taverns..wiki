@@ -1,0 +1,2 @@
+'''Taverns''' are places to go to drink, dice, play cards and so on. They are much like a common room of an inn.
+[[Category:Buildings| Taverns]]

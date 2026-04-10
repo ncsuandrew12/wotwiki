@@ -1,0 +1,35 @@
+[[File:Latent Channeler.jpg|thumb|right|200px|A female [[Ebou Dari]] wilder.]]
+
+A '''wilder''' is a collective term for women who have learned to channel the [[One Power]] on their own, without formal education or particular skill. It can be a derogatory term, especially when used by certain [[Aes Sedai]] who went to the [[White Tower]] to train, although at other times it is simply used as a descriptor.{{ref|{{twotc}}, Wilder}} The term has not been used for men in living memory, as all men who can channel have been doomed to go insane from the taint on ''[[saidin]]'', obviating any need for a formal instruction program, until recently.
+
+==Definition==
+
+Women who can channel fall into two categories; women who can be taught, and a far smaller group of women with the [[spark]] who will start to touch the ''[[saidar]]'' instinctively, whether they want to or not. Those of the latter group who survive this learning curve, approximately one in four, are called "wilders" if they do not seek out training once they discover what is happening.
+
+{{quote|Of four who have the inborn ability that you ''[Nynaeve]'' and Egwene have, three die if we do not find them and train them. It is not as horrible a death as the men die, but neither is it pretty, if any death can be called so.  Convulsions.  Screaming. It takes days, and once it begins, there is nothing that can be done to stop it, not by all the Aes Sedai in Tar Valon together.|[[Moiraine]] to [[Nynaeve]]{{ref/book|1|21|}}}}
+
+[[File:Ebou Dari Wilder.jpg|thumb|left|An Ebou Dari wilder.]]
+
+Even those wilders who learn how to manage their abilities tend to do so at a price; they almost invariably have some sort of [[block]] against using the One Power effectively, and without training, they are usually limited to one or two [[Talent]]s they have discovered on their own. Most commonly, these women have learned how to listen in on the conversations of others through a long-distance form of [[eavesdropping]], or they have learned how to get what they want through a type of [[Compulsion]].{{ref/book|8|prologue}} Some however, learn to [[Healing|Heal]], or [[Listening to the Wind|predict the weather]], or a number of other specialized skills, depending on their everyday occupation. They may not even realize that they are channeling when they do so, as was the case with [[Nynaeve al'Meara]].
+
+{{quote|Almost every wilder who came to the White Tower for training--both true wilders, who really had begun teaching themselves, and girls who merely had started touching the Source because the spark born in them had quickened on its own; for some sisters there was no real difference--nearly every one of those wilders had created at least one trick for herself, and those tricks almost invariably fell under one of two headings. A way to listen in on other people's conversations, or a way of making people do as they wanted.|{{8|Prologue}}}}
+
+==Discrimination==
+Modern [[Aes Sedai]] often use the term ''wilder'' to describe any woman who learned to channel outside of the [[White Tower]], regardless of whether they had been taught by others or not; this includes [[Sea Folk]] [[Windfinder]]s, [[Aiel]] [[Wise One]]s, ''[[damane]]'', and members of the [[Kin]]. In certain cases, these women have specialized knowledge or lost Talents that exceed the skill of modern Aes Sedai, something that is only recently becoming clear. This is a surprise to both Aes Sedai and other groups of channelers in and around the westlands who generally believe Aes Sedai to be above all others in both skill and knowledge.
+
+Wilders are generally looked down upon by Aes Sedai and one reason is because they generally learn to do things on their own (or at least by non-Aes Sedai, which is considered just as bad), and once a weave is learned one way, learning to do it well a different way is nearly impossible. Since Aes Sedai tend to have specific methods for constructing many of their weaves, this handicap is considered a detriment. Also, many wilders tend to develop a [[block]] regarding the [[One Power]], and it can be extremely difficult to bypass. For example, Nynaeve al'Maera could not channel unless she was angry, which was viewed as especially strange as absolute calm is seen as necessary for one to learn channeling.
+
+==List of Wilders==
+
+Asides from the groups labeled as Wilders simply because they are not trained by Aes Sedai, the following sisters, initiates of the Tower and isolated individuals are also Wilders:
+
+{{#invoke:Characters|get_characters_wikitable|wilders=true|columns=Name;Spark;Ajah;Homeland;Traits;Notes|suppress_verify=true}}
+
+== External links ==
+*{{TVlink|Wilder}} on {{TVlink}}
+
+{{notes}}
+
+[[es:Espontánea]]
+[[Category:One Power]]
+[[Category:Wilders| Wilder]]

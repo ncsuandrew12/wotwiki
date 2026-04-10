@@ -1,0 +1,1 @@
+The spam cleanup script automatically removes links that are [[Wikia:Spam Blacklist|blacklisted]]. Please see [[Wikia:Spam cleanup script]] for more details.

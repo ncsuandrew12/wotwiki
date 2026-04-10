@@ -1,0 +1,26 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| status=Alive
+| appeared={{tpod|5}}
+| lastappeared={{kod|33}}
+| living=kod
+}}
+'''Rysael din Yulan''' is a [[Windfinder]] of the [[Sea Folk]]. She is dignified.
+
+==History==
+She is strong in the [[One Power]], equalling [[Naime]] who is described almost as strong as [[Lelaine Akashi]]. However this is not confirmed by TWoTC where Naime's level of strength is described only as {{opsl|22}} (and not as {{opsl|20}} which is a level below Lelaine). But even the lesser level of strength is enough to open a suitable gateway for [[Travel]].
+
+Anyway Rysael stands in higher rank than [[Rainyn]], who is stronger than her, making clear that, unlike Aes Sedai, among Windfinders the rank is not defined by strength in the One Power.
+== Activities ==
+She is part of the thirteen women who link up and channel into the [[Bowl of the Winds]] to change the weather at the [[Kin]]'s farm.
+
+She is one of the Windfinders being tutored by [[Aes Sedai]] in [[Caemlyn]].
+
+When [[Elayne Trakand]] is captured by the [[Black Ajah]] [[Birgitte Silverbow]] manages to convince [[Chanelle din Seran White Shark]] and the rest of the Sea Folk Windfinders that without Elayne there is no bargain. The normally reserved and calm Rysael quivers at being involved. They [[Travel]] to the area where the Black Ajah are riding a wagon with Elayne inside. The strike force ride towards the wagon, but are decimated by [[Balefire]] from [[Asne Zeramene]]. Birgitte finally convinces the Windfinders to actively attack the Black Ajah. The Windfinders all link with Chanelle in control and attack the wagon with lightning, killing Asne in the process. They shield all the remaining Black Ajah members so they can be taken captive by Elayne's troops.
+[[Category:Farm Group]]
+[[Category:Channelers]]

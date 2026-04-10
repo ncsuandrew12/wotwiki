@@ -1,0 +1,48 @@
+{{quote|Secret histories? A thirteenth Depository? If such a thing existed, and I think I would know, why should you not have told me?"|[[Bennae Nalsad]] of the [[Brown Ajah]]| The Thirteenth Depository}}
+The '''Thirteenth Depository''' is a set of hidden records in the [[Great Library]] of [[Tar Valon]]. These contain hidden histories open only to the [[Amyrlin Seat]], the [[Keeper of the Chronicles]], and the Sitters of the [[Hall of the Tower|Hall]]. These histories describe events that [[Aes Sedai]] have worked hard to hide from all but the top of their own membership.
+
+==Content==
+How much any given woman among this chosen few knows about the secret histories depends very much on their willingness to delve into the archives. [[Siuan Sanche]] knows a great deal more than most who have had this opportunity, probably as a way to defend herself from being the youngest Amyrlin in history up until that time. [[Shevan]] indicates that all Sitters at least ''should'' know something about what they contain.
+
+Siuan Sanche also tells [[Egwene al'Vere]] that, reading between the lines, you can discern some truths that are not even recorded in the Thirteenth Depository explicitly.
+
+Events that are chronicled there include:
+
+* The so-called [[The Vileness|vileness]] at the end of the [[Aiel War]] involving the summary executions of eight men who could channel, including [[Owyn Merrilin]].
+* The details on the six documented mutinies in [[White Tower|Tower]] history. In each case, it resulted in the Amyrlin and the entire Hall resigning.
+* An army of [[Trolloc]]s led by [[Dreadlords]] plundered and burned part of the White Tower itself.
+* An army made up of the followers of the [[false Dragon]] [[Guaire Amalasan]] reached the White Tower.
+* Records of 'puppet' Amyrlins who were dictated to by the Hall.
+* The exile and fate of [[Shein Chunla]].
+* The consequences for the world at large when the Tower has been divided.
+
+Siuan says that anyone swearing fealty to another sister, even the Amyrlin, is unprecedented, even in the secret histories.
+
+==Governing laws==
+Revealing the existence of these records or revealing the law that prohibits speaking of the records, is tantamount to treason. This law itself is part of the Thirteenth Depository archives, closing the loop of secrecy of the depository. {{ref|{{bwb}} pg. 221}} Siuan tells Egwene of their existence because she was Amyrlin and had a right to know, especially since it would help Egwene defend against the machinations of those who would manipulate her.
+
+Egwene spoke of their existence to [[Bennae Nalsad]],{{ref/book|11|24}} which is explicitly forbidden. She tells Bennae that if she can somehow gain access to the Thirteenth Depository, or find someone who knows of its existence and is willing to tell her, then she will find out the truth.{{verify}}
+
+==Librarians==
+The Depository is maintained by three specially chosen [[librarian]]s. All of them are [[Brown Ajah]] and members of the [[Atha'an Miere]]. They are [[Nyein]], [[Zemaille]], and [[Aiden]].
+
+===Patterns among the Librarians===
+
+It is of note that all Atha'an Miere sisters have ended up, not only as Brown Ajah, but as archivists of the secret histories, especially since Zemaille is fairly young for an Aes Sedai and weak in the [[One Power]].
+
+It might be speculated, therefore, that the secret histories contain knowledge about the truth about [[Windfinder]]s being able to channel. In general, Aes Sedai believe there to be a scarcity of channelers among the Atha'an Miere, and the Atha'an Miere themselves, like the [[Kin]], believe the Tower to be ignorant of the truth. Yet, when the few Atha'an Miere channelers that come to the Tower arrive, those with access to the information in the secret archives contact these women and/or guide their path so that they become 'coerced' into becoming caretakers for the very knowledge that protects their own secrets as members of the Atha'an Miere who can channel.
+
+Further evidence may have been revealed in [[978 NE]], when [[Moiraine Damodred]] believes that Zemaille is holding herself back in terms of her training. This may be evidence of coercion to follow a distinct path.{{ref/book|0|3}}
+
+==Parallels==
+[[Image:VaticanCity.jpg|thumb|right|240px|The Vatican Secret Archive (Archivum Secretum Vaticanum) is held within the confines of the Vatican city, one parallel for the city of [[Tar Valon]].]]
+
+The secrecy surrounding the Thirteenth Depository is similar to the [[Wikipedia:Vatican Secret Archives|Vatican Secret Archives]], with the White Tower as an organization being similar to the Catholic Church. These archives contain all records of acts promulgated by the [[Wikipedia:Holy See|Holy See]], state papers, correspondence, papal account books, and many other documents which the church has accumulated over the centuries.
+
+As far as secrecy goes, the library was forbidden to all non-Vatican persons before the end of the 19th century. Additionally, "publication of the indexes, in part or as a whole, is forbidden," according to the regulations as of 2005. Browsing is also forbidden, and selected scholars must ask in advance which document they would like to see. Of course, this means that the researcher must have prior knowledge to such a document existing in the first place.
+
+With regard to the Thirteenth Depository, it goes a level further by not allowing access to anyone ''within'' the organization as a whole, with the above exceptions. It would be speculated that browsing may also be forbidden in the secret archives and that the librarians are the sole retrievers of the documents that lie within. An opening up of the secret archives may or may not occur before the end of the series.
+
+{{notes}}
+[[Category:White Tower]]
+[[Category:Parallels]]

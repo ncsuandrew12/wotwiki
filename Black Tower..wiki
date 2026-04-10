@@ -1,0 +1,41 @@
+[[File:Black Tower.JPG|thumb|right|The Black Tower]]
+{{dablink|For the chapter in ''[[Lord of Chaos]]'' by the same name, see ''[[Lord of Chaos/Chapter 42|The Black Tower]]''. For other uses of the words "black" and "tower," see [[Black]] and [[Tower]].}}
+The '''Black Tower''' is the headquarters of the [[Asha'man]], the organization of male [[channeler]]s started by [[Rand al'Thor]] and trained by [[Mazrim Taim]]. It originated as a converted farmhouse located less than two [[Measurement#Length|leagues]] south of [[Caemlyn]].{{ref/book|6|3}}
+
+==History and formation==
+The Black Tower's name derived from Asha'man themselves, who began calling it such in contrast to the [[White Tower]] of [[Tar Valon]], where female channelers are trained.{{ref/book|6|42}} Taim has his students working on an enclosing wall nearly four square miles around the Black Tower, and has built a large manor house where he himself lives, along with most of the full Asha'man. Most of the Soldiers live in barracks, though the [[Dedicated]] have started constructing small houses for themselves.{{ref/book|9|p}}
+
+Since Rand surrendered control of [[Andor]], it has been regularly visited by soldiers sent by [[Elayne Trakand]] to enforce Andoran law, though this is largely seen as merely a token gesture due to the large size of the Black Tower compound.{{ref/book|9|p}}
+
+Leading up to the [[Tarmon Gai'don|Last Battle]], two factions emerge within the Black Tower, one led by Mazrim Taim, and the other by [[Logain Ablar]]. Taim's faction is larger and appears to be on the [[Shadow]]'s side. Those on Logain's side have become worried at Logain's continued disappearance and certain worrying developments, whereby some channelers have been changed in some way so it is no longer them there. The details of this are unknown, but are worrying for the inevitable confrontation between Rand and Taim.
+
+Logain's faction eventually discovers that Mazrim Taim is a [[Darkfriend]] (actually a new [[Forsaken]]) that, along with [[Graendal]], has Turned several channelers to the [[Shadow]], following [[Moridin]]'s orders. After the discovery, [[Androl Genhald|Androl]], with help of the [[Two Rivers]] men and the other Asha'man loyal to Logain, attack the compound, rescuing Logain (who was at the verge of been Turned by Mazrim Taim's [[dreadlords]]) and purging the Black Tower of the evil Asha'man, although the two Forsaken manage to escape along with some of their followers.
+
+==Activities==
+The Black Tower was called on to fight in the [[Battle near Shadar Logoth]].
+
+When the White Tower comes to offer an [[Black Tower Alliance|alliance]], some of them are selected to be [[bond]]ed with [[Aes Sedai]].{{verify}}
+
+==Testing==
+As opposed to female channelers, men are unable to sense the ability to channel in another. Mazrim Taim was the first to claim the ability to test and train men for channeling.{{ref/book|6|2}} Taim grabs [[Damer Flinn]] to be the first tested, saying, "The more power that is used the easier it is to detect the resonance. Too big a resonance can do unpleasant things to your mind, maybe kill you, so I'll start small."{{ref/book|6|3}} Taim channeled a tiny flame and commanded Damer to concentrate on the flame. After ten minutes a resonance finally was detected, a tiny echo of the minuscule flow of power pulsing in Taim but seeming to come from Damer. Only time will tell how strong a man will become in the power.
+
+==Quarters==
+The unmarried members sleep in barracks that get more comfortable the higher ranked they are. The married members live in houses, and there seems to be no pattern in the size of house. Several buildings are in construction that Mazrim Taim claims will rival the White Tower.
+
+==Ranking==
+''For further details, see [[Asha'man#Organization]]''
+*[[Soldier]] - The lowest rank.
+*[[Dedicated]] - Those who have developed some level of skill.
+*Asha'man - The highest rank.
+
+==Prophecies==
+[[Min Farshaw|Min]] sees the Black Tower and the White Tower kneeling to each other.{{Verify}}-''(fulfilled)''
+
+==See also==
+*[[Asha'man]]
+
+{{notes}}
+
+[[es:Torre Negra]]
+[[Category:Other notable buildings]]
+[[Category:Towns]]

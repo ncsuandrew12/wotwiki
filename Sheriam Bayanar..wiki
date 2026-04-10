@@ -1,0 +1,121 @@
+{{featuredicon}}{{character 
+| image=Sheriam Bayanar.jpg
+| imagesize=250px
+| ajah=Blue
+| ewot=Sheriam
+| nationality=Saldaean
+| status=Dead
+| death={{ne|1000}}
+| gender=Female
+| affiliation=Black Ajah
+| rank=Aes Sedai
+| hair=Fiery red
+| eyes=Pale Green, slanted
+| build=Slightly plump
+| appeared={{ns|6}}
+| lastappeared={{tgs|45}}
+| lastmentioned={{amol|25}}
+|birth=[[953 NE]]}}
+'''Sheriam Bayanar''' (pronounced: SHEER-ee-ahm bay-ah-NAHR) was a highly influential [[Aes Sedai]] of the [[Blue Ajah]]. She was [[Mistress of Novices]] during the tenure of the [[Amyrlin Seat|Amyrlin]] [[Siuan Sanche]],{{ref/book|2|18}} a primary influencer among the [[rebel Aes Sedai]] in [[Salidar]], and the [[Keeper of the Chronicles]] for the [[Salidar Tower|Tower-in-exile]] under [[Egwene al'Vere]]. 
+
+Sheriam was also a member of the [[Black Ajah]], although she had only joined the [[Shadow]] hoping it would advance her political standing in the Tower; nonetheless, she was ordered to steal several [[sleepweaver]] ''[[ter'angreal]]'' by [[Mesaana]]. Sheriam's true allegiances were exposed by Egwene when she learned of [[Verin Mathwin]]'s decades-long project of chronicling sisters of the Black Ajah, and she was executed in the rebel camps outside [[Tar Valon]].
+
+==Appearance and Personality==
+Sheriam was of Saldaean heritage and displayed the typical high cheekbones and slightly tilted eyes from the region. She stood about 5'5" tall and was regarded as being slightly plump,{{ref/book|2|18}} though she had been more slender in her youth. Sheriam's most notable physical quality was her fiery red hair, which was easily notable from any distance.{{ref/book|2|18}} She also had clear pale green eyes,{{ref/book|2|18}} and a warm inviting personality.
+
+==Strength and Abilities==
+Sheriam was considered to be [[Strength in the One Power among Aes Sedai|very strong]] in the [[One Power]] by traditional Aes Sedai standards, with a strength of {{opsl|20}}.{{ref|{{twotc}}, Sheriam Bayanar}} 
+
+When the [[Rebel Aes Sedai]] were gathering in [[Salidar]], only two other sisters were as strong, [[Bera Harkin]] and [[Kiruna Nachiman]], and none were stronger. After they were sent to the [[Aiel Waste]] to look for [[Rand al'Thor]], this made Sheriam the strongest among them.
+
+==History==
+Sheriam was born in [[Saldaea]] during the year {{ne|953}}. At the age of sixteen she learned she could channel and so went to the [[White Tower]] {{ne|969}}. She spent five years as a [[Novice]] before being chosen for the [[Accepted]] test. Fearful of what she might face, she refused her first test and remained a novice for several more months.{{ref/book|2|23}} After being offered the test a second time she passed and served the White Tower as an accepted for five years.
+
+During her time as an Accepted she befriended [[Siuan Sanche]] and [[Moiraine Damodred]]. The friendships she forged with those two young women continued after Sheriam was raised to become a full Aes Sedai in {{ne|979}}. Like Siuan and Moiraine, Sheriam chose the [[Blue Ajah]]. She was considered a good cook, so much so that Siuan made it a point to be the sixth Blue sister to welcome Sheriam upon her raising because by tradition, a new Blue was required to bake a pie for her sixth greeter. Shortly after being raised she bonded her [[Warder]] [[Arinvar]].
+
+In {{ne|992}} when Siuan Sanche rose to become the [[Amyrlin Seat]], she appointed Sheriam as the new [[Mistress of Novices]]. At the time Sheriam was considered to be very young to hold a role of such great responsibility. She was generally considered to be firm and fair in her charge over the Novices, though some thought her lax in her duties and that she played favorites with those she preferred. Sheriam also enjoyed helping young channelers who suffered from a [[Block]] overcome their barrier. She worked hard with [[Theodrin Dabei]] to help her succeed in this way.
+
+She often sounded as if she were quoting when she was just speaking.
+
+Just before her fall Sheriam revealed that she joined the Black Ajah only to gain political influence, not because she truly believed in their ideology and then she has been appalled to be caught in the return of the Forsaken and the Dragon, without any possibility to avoid her fate{{ref/book|2|18}}.
+==Activities==
+===Mistress of Novices===
+She met [[Egwene al'Vere]] and [[Nynaeve al'Meara]] at the docks of Tar Valon, when they first arrive, and escorted them back to the White Tower.{{ref/book|2|18}} She took interest in breaking Nynaeve's block, as she had Theodrin's. She accompanied Nynaeve to her testing to become an Accepted.{{ref/book|2|23}}
+
+She was in close quarters when one of the [[Gray Men]] was found dead in the White Tower after trying to kill Egwene. She told the girls to mention the incident to no one.{{ref/book|3|15}} When they later questioned her about the Gray Man, she became angry with them and told them that the Gray Man matter had nothing to do with them now.
+
+She was one of the Aes Sedai that [[Healing|Healed]] [[Mat]].{{ref/book|3|18}}
+
+She accompanied Egwene to her Accepted Test. When Egwene comes out of the three arched ''[[ter'angreal]]'', she asked Sheriam about the possibility of someone being turned to the [[Dark One]]. Sheriam seemed to have intimate knowledge of this. She confirmed that it happened during the [[Trolloc Wars]], where thirteen [[Dreadlords]] channeled through thirteen [[Myrddraal]].{{ref/book|3|22}} Egwene pointed out that that was the number of Aes Sedai who fled the White Tower. Sheriam told Egwene to forget it.
+
+A female Gray Man was found dead in her bed. It is unknown who might have killed her or if this was a warning of some type to Sheriam.{{ref/book|3|29}}
+
+===Into Salidar===
+Sheriam, along with many others, revolted against [[Elaida do Avriny a'Roihan]] after Siuan was deposed. They fled the White Tower, taking eighteen [[Novices]] with them to [[Salidar]].
+
+She became one of the original leaders of the [[Salidar Aes Sedai]], known informally to fans as the [[Salidar Six]].
+
+While searching the Amyrlin's study in ''[[Tel'aran'rhiod]]'' for information on what Elaida has received, the Salidar Six were attacked by a stray nightmare of [[Trollocs]]. They were saved when [[Elayne Trakand]] and Siuan reminded them about the dream not being real, in which case the nightmare fades away leaving only injury.
+Later she leads [[Nynaeve al'Meara]] into the [[Little Tower]] to show the rest of the Aes Sedai, especially those of the [[Yellow Ajah]], that Nynaeve has worked out how to [[Heal]] [[Stilling]] by Healing Leane and Siuan.
+
+She was with the rest of the Salidar Six in ''Tel'aran'rhiod'', when she summoned Egwene to become Amyrlin. She was one of the three Aes Sedai to escort Egwene into the [[Little Tower]] when Egwene was raised as Amyrlin.
+
+===Keeper of the Chronicles===
+She was selected to be Egwene's [[Keeper of the Chronicles]], with the intention that the Salidar Six could use Egwene to control the rebel cause.
+
+She often seemed to say "aye" without thinking once Romanda or Lelaine said "nay".
+
+She had sworn an oath of fealty to Egwene. She accompanied Egwene to the meeting with the [[Andoran]] nobles along the Andor border.
+
+She was with Egwene and Gareth when they surveyed the area around Tar Valon. When the Hall sat to vote on an agreement with the [[Black Tower]], she was strangely late and out of breath. She lost her composure during the meeting and ended up a sniveling wreck, much to Egwene's chagrin.
+
+She came with the news that [[Nicola Treehill]] had run away and that it was kept quiet by her "family." One of the "cousins" who covered for Nicola is [[Larine Ayellin]]. Sheriam pressed Egwene on whether she will let Larine escape without punishment because she is from the [[Two Rivers]].
+
+===Egwene Captive===
+She was in council with Egwene's other advisors over Egwene's disappearance, when Siuan arrives with the news that she was still alive but prisoner inside the White Tower.
+
+With Egwene now gone, Sheriam could no longer enter the Hall once it's in sitting. She was forced to watch the meeting with [[Jahar Narishma]] and the Hall from outside with the rest of the sisters who are not Sitters.
+
+===Sheriam's Tormentor===
+Following her selection as Keeper to [[Egwene al'Vere]], Sheriam began to experience regular visits from someone who beats her and pressures her for information thus explaining Sheriam's behaviour during that period. While this was done with the [[One Power]], it is not clear whether ''[[saidar]]'' or ''[[saidin]]'' was being used. It may have been related, from Sheriam's own thoughts, to a visit with a [[Sitter]] of the [[Hall of the Tower|Hall]].
+
+The identity of her tormentor was revealed to be [[Halima Saranov]], and she was using ''saidin'' to torture Sheriam.
+
+===Revealed as Black Ajah===
+Siuan learns from Sheriam that [[Ashmanaille]] has returned from [[Kandor]] with the news that [[Elaida a'Roihan's White Tower]] can now Travel. Sheriam was revealed to be a secret leader of the Black Ajah, and stole several of the rebels' [[sleepweaver]] ''[[ter'angreal]]'' on order from [[Mesaana]]. She had at least one finger severed from her hand, as promised by Mesaana if every sleepweaver wasn't acquired, because Siuan secretly had one. Mesaana also ordered her to make sure that Egwene was deposed. She was part of the group who questioned [[Shemerin]] about how she escaped the White Tower.
+
+Sheriam became a Darkfriend to get ahead, and was willing to do anything to escape punishment. Her mission was to keep the animosity between the Salidar Aes Sedai and the Tower Aes Sedai, and cause disorder. She would vacillate in her support for Rand depending on what she thought would cause the most chaos.
+
+Her affiliation was revealed to [[Egwene al'Vere]] by [[Verin Mathwin]], and she was brought to justice in the rebel camp outside of Tar Valon by the Amyrlin before the sitting Hall of the rebel Tower. She was sentenced and executed that very same day along with fifty other Black Sisters in the camp, but not before revealing several bits of potentially useful (although outdated) information, taking advantage of the fact that she had been stilled and thus was no longer bound by the Black Ajah oaths.
+
+==Viewing==
+Min had a viewing of Sheriam surrounded by "rays of silver and blue, with a golden glow flash over her head." The viewing refers to Sheriam's execution. Egwene describes the "silvery" axe falling on Sheriam. She also mentions Sheriam's blue dress, as well as her red hair suddenly "bathed in warm golden light." (''fulfilled'')
+
+Prior to her true allegiances being known, and her subsequent execution, this viewing could have signified something different. It could have referred to her being raised to the position of Keeper of the Chronicles, similarly to Min's viewing of Logain and his future glory.
+
+==In the television series==
+In the television series, {{TVlink|Sheriam Bayanar}} is played by actress {{TVlink|Rima Te Wiata}}.
+
+==Notes==
+<references />
+{{Primary Protagonists}}
+
+{{DEFAULTSORT:Bayanar, Sheriam}}
+[[es:Sheriam Bayanar]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Mistresses of Novices]]
+[[Category:Keepers of the Chronicles]]
+[[Category:POV character]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]
+
+{{DEFAULTSORT:Bayanar, Sheriam}}
+[[es:Sheriam Bayanar]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Mistresses of Novices]]
+[[Category:Keepers of the Chronicles]]
+[[Category:POV character]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

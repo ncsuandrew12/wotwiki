@@ -1,0 +1,45 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  {{<includeonly>subst:</includeonly>PAGENAME}}! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''{{SITENAME}}'''!. Thanks for your edit to the [[:A Memory of Light/Epilogue]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Mainphramephreak|Mainphramephreak]] ([[User_talk:Mainphramephreak|Talk]]) 23:42, February 16, 2013
+|}
+
+== Template info ==
+
+Hello. Thanks for all of your recent edits. I just wanted to bring up a few small things about the character template. If the character's last mention and last appearance are the same chapter, then only the last mention field is used in the template. Also, there isn't a parameter for "died" as you used it on Egwene's page. The "living" parameter is to break up the [[:Category:Living|living category]]. All of the [[:Category:Deceased|deceased]] fall into one category. See [[:Template:Character|the character template]] for descriptions of each parameter. Again, thanks for your recent edits and for joining up! Please let me know if you have any questions. ---- {{User:Mainphramephreak/Sig/Subst}} 22:37, February 20, 2013 (UTC)
+
+Hey fixed the problem. This wiki doesn't like paragraphs. Just put an enter brake between two sections. Oh and I agree with your advice to that random wiki guy with comments and spoilers. I think the spoilers should be removed now. If you haven't read the book by now then shame on you--[[User:GuanYu79|GuanYu79]] ([[User talk:GuanYu79|talk]]) 21:26, April 13, 2013 (UTC)
+
+i am that "random wiki guy"and i agree with you i would have never thought egwene would die im only on the 4th book    [[User:&#34;I am the dragon reborn&#34;|&#34;I am the dragon reborn&#34;]] ([[User talk:&#34;I am the dragon reborn&#34;|talk]]) 20:25, April 22, 2013 (UTC)"I am the dragon reborn"
+
+I started the book series 2 months ago and im only 12 so it going to take me awhile thks
+
+how could you say egwene death is awsome.(your words exactly)Welcome to Randland! My advice stay far away from here intill you finish the series. This wiki is full of spoilers I hope you didn't read the circumstances of egwenes death,-> its pretty much awsome.<- [[User:&#34;I am the dragon reborn&#34;|&#34;I am the dragon reborn&#34;]] ([[User talk:&#34;I am the dragon reborn&#34;|talk]]) 20:37, April 22, 2013 (UTC)"Iam the dragon reborn"
+
+ill still take your advice though, ill stay away from here besides to talk too people
+
+[[User:&#34;I am the dragon reborn&#34;|&#34;I am the dragon reborn&#34;]] ([[User talk:&#34;I am the dragon reborn&#34;|talk]]) 20:40, April 22, 2013 (UTC) "I am the dragon reborn"
+
+ive also read the spoiler of the cleansing of sadin i could not stop myself
+
+i have a long way to winters heart
+
+thats good you dont think that about egewene! [[User:&#34;I am the dragon reborn&#34;|&#34;I am the dragon reborn&#34;]] ([[User talk:&#34;I am the dragon reborn&#34;|talk]]) 19:54, April 23, 2013 (UTC)"I am the dragon reborn"
+
+== Literary present ==
+
+While Wikipedia uses that, as well as a lot of other sites and written works, we don't. The reason is that we write our articles as if the subjects were real. As such, because they aren't "fiction," we use past tense on articles about characters that have died. See [[Wotwiki:OOC|this page]] for the information. Please let me know if you have any more questions. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 13:48, April 24, 2013 (UTC)

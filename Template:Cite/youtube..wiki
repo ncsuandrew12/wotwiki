@@ -1,0 +1,8 @@
+<includeonly>{{Cite/web
+| url = https://www.youtube.com/watch?v={{{v|}}}
+| title = ''{{{title|}}}''
+| accessdate = {{{accessdate|}}}
+| author = {{{channel|}}} 
+| authorlink = {{{channel-link|}}} 
+}}</includeonly><noinclude>{{Documentation}}
+[[Category:Templates]]</noinclude>

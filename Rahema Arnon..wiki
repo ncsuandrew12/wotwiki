@@ -1,0 +1,21 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Merchant
+| eyes=Haggard
+| gender=Female
+| appeared={{Cot|26}}
+| lastappeared={{cot|26}}
+| living=cot
+}}
+'''Rahema Arnon''' is a grain merchant based in [[So Habor]].
+
+==Appearance==
+When she is met, she was dirty and haggard with sunken eyes.
+
+==Activities==
+When [[Perrin Aybara]] and his group come into So Habor, they meet with Mistress Arnon and [[Mycal Crossin]], two grain merchants at the [[Golden Barge]]. [[Berelain sur Paendrag Paeron]] bargins with the merchants. The price, however, goes down when Perrin discovers that the grain in the warehouses is infested with weevils.
+
+{{DEFAULTSORT:Arnon, Rahema}}

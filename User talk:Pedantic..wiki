@@ -1,0 +1,95 @@
+'''Welcome!'''
+
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''{{SITENAME}}'''!. Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[m:Help:Editing|How to edit a page]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[:Category:Help|All help pages]]
+*'''Wikipedia:'''
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact one of us for more information! -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 20:46, 10 January 2008 (UTC)
+
+== Name change of pages ==
+
+To change the name of a page you want to use the "move" link at the top (up above the page title where it says "User Page" (normaly "article") "Discussion" "Edit" "+" (only on talk pages) "History" "Move" "Watch" "Report a problem"
+
+The move link will let you rename a page (and force the old page to redirect to the new one).  Although Gherald already took care of Luhhan for you.  Note that this feature should be used sparingly, if your not sure the page name should be changed, don't change it.  Also note that normaly Wikis don't support multiple misdirects, so if a page forwards to the page your changing the name of then you will break that forward by changing the name (example [[mat]] links to [[Matrim Cauthon]] (you can tell because of the "(Redirected from Mat)" right under the main title)
+
+you can see the [http://en.wikipedia.org/wiki/Help:Move Wikipedia article] for more information.<br> --[[User:Melriken|Melriken]] 19:32, 5 February 2008 (UTC)
+
+No offense intended with my edit of Mandarb. I admire your work, but I'm a bit of a stylist, and I like to polish things.
+
+[[User:Fatidiot1234|Fatidiot1234]]
+
+Nice little edit on the Great Library.
+
+[[User:Fatidiot1234|Fatidiot1234]] 05:59, 30 April 2008 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}
+
+== In-universe ==
+
+Hi. Thanks for all of the recent edits. In the future, though, could you make sure to keep the articles in a "in-universe" style? Please let me know if you have any questions. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 04:44, October 24, 2011 (UTC)
+
+== Re:References ==
+
+Once you get the hang of them, the footnotes for the references are pretty easy. 
+
+For anything that happens in the main series and the prequel, use the {{tl|ref/book}} template. So, if you need to put in a footnote for the first chapter of the first book, it would look like this:<nowiki>{{ref/book|1|1}}</nowiki>. The first number is the book number (use "0" for ''New Spring''), and the second number is the chapter number. For books that have prologues and epilogues, you can use "p" or "e," or spell out the words in place of the chapter number. 
+
+The [[The World of Robert Jordan's The Wheel of Time|Guide]] is different. Because we don't have that book broken up into chapters like the main books, we use the parent template of the one above; {{tl|ref}}. For the references on the [[chora]] article, I used the template for the guide ({{tl|bwb}}) and then put in the chapter name behind it, like this:<nowiki>{{ref|{{bwb}}, Chapter Name}}</nowiki>. We also use this template when referencing any of the interviews and book signings and such.
+
+That's pretty much it. A few last things, though. Make sure to put the {{tl|notes}} template at the bottom of a page if it doesn't have it when adding references. Also, the references go outside punctuation.
+
+Let me know if you have any other questions. Also, I don't know if you are aware, but you don't need to add your signature in the remarks section when editing. Go to [[Special:RecentChanges]] and you'll see that the wiki software automatically attributes the edit to you and it doesn't display the signature in the remakrs. Didn't know if you knew that. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 01:38, November 13, 2011 (UTC)
+
+All you have to do is add {{tl|notes}} to the bottom of an article. That template should also be in the sidebar. ---- {{User:Mainphramephreak/Sig/Subst}} 02:29, January 29, 2012 (UTC)
+
+== Re:Editing ==
+
+Sorry about that. I know how frustrating that can be. As for how to prevent edit conflicts, we have a template for that. Just put the {{tl|inuse}} template at the top of the page and save it. You can even put your username in the template as well, like this: <nowiki>{{inuse|Pedantic}}</nowiki>. This will let everyone know that you are working on the article. Then, after you are done, remove the template. Hope that helps. Let me know if you have any other questions. ---- {{User:Mainphramephreak/Sig/Subst}} 05:48, February 4, 2012 (UTC)
+
+== Re: Quotes and other things ==
+
+Hello. Yeah, the quote template is something that I've tried to mess around with on several occasions. However, the bold is something that sets it apart better than not having it bold, so I think that it will work.
+
+A couple of other things. When making a new page, always use the article title in the first sentence and bold it the first time it is used as well. So instead of "A title used by..." you would use "'''Lord of the Seven Towers''' is a title used by..." I also added categories to those pages. Categories do take some time to get used to. The only reason I know them as well as I do is because a while ago, I completely revamped the organization of them. :) Last thing is about talk pages. When you leave a new message on a talk page, please make sure you add a header. When you click on the "Leave message" button near the top of the page, you can put in the new heading in the edit summary box. 
+
+Let me also say great work on adding those articles! The wording was really good, and adding the quote at the top really helps the articles. Thanks! As always, let me know if you have any questions. ---- {{User:Mainphramephreak/Sig/Subst}} 05:39, February 6, 2012 (UTC)
+
+== Preview ==
+
+Hello. Great job on adding that section on the [[Darkfriend]] article. In the future, could you use the Preview button. It allows you to see what the page would look like without saving it. This cuts down on the entries on the [[Special:RecentChanges|Recent Changes page]] and it also cuts down on the wear and tear on the database. Let me know if you have any questions. Thanks again! ---- {{User:Mainphramephreak/Sig/Subst}} 01:31, February 9, 2012 (UTC)
+
+Thanks for the info. I didn't know that the red links don't show up as red links in the preview. I'll forward that up to Wikia to see if this is a problem at other wikis. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 12:43, February 9, 2012 (UTC)
+
+== Re:Categories ==
+
+Two different options for you on the subject of categories. 
+
+First, we have the [[Special:Categories]] list. This lists all of the categories currently in use. To skip down the list, if you want, you can type in the text box at the top. You don't have to spell out a category, just the first letter is fine. 
+
+Your second option is the [[Special:CategoryTree]] page. This one is a bit more technical. Start by entering "Root" in the text box. This is the very top level category. Next, in the drop down, you have three options: categories only, pages except files, and all pages. If you are just looking for the right category, I would suggest leaving the drop down on categories only. After that, click on "Show tree" and the list will show up. You can click on the little plus boxes to expand the different sub lists.
+
+Let me know if you have any questions! ---- {{User:Mainphramephreak/Sig/Subst}} 00:16, February 24, 2012 (UTC)
+
+:No worries. The chapter summary template automatically adds the category for that page. Also, the setting template is {{tl|setting}}. Let me know if you need anything else. :) ---- {{User:Mainphramephreak/Sig/Subst}} 02:19, April 15, 2012 (UTC)
+
+::The "al" in "al'Lan" is similar to the "al" in "al'Thor" and "al'Vere." See [http://encyclopaedia-wot.org/characters/l/lan.html his page at EWoT]. At the beginning of a sentence, it would be capitalized. Everywhere else, to include lists, it wouldn't be. :) ---- {{User:Mainphramephreak/Sig/Subst}} 15:17, April 15, 2012 (UTC)
+
+== Chapter summaries ==
+
+Take a look at [[User:Mainphramephreak/Project#Chapter Summary Project]]. Each of the books has a table to show what still needs done. Feel free to edit those tables if and when you decide to update something. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 01:27, April 17, 2012 (UTC)
+
+== White space ==
+
+You often won't see the where the white space is unless you edit the whole page at once. The only reason I noticed it was because I checked the [http://wot.wikia.com/wiki/Dannil_Lewin?curid=5339&diff=84346&oldid=73015 difference] between edits on the [[Special:RecentChanges|Recent Changes]] page. Before Wikia updated their software, that extra hard return wouldn't have shown up and I wouldn't have minded. However, take a look at the headings [http://wot.wikia.com/wiki/Dannil_Lewin?diff=prev&oldid=84346 here] and [http://wot.wikia.com/wiki/Dannil_Lewin?diff=next&oldid=84347 here]. That extra line puts in a whole bunch of space that really isn't needed. :) Happy editing! ---- {{User:Mainphramephreak/Sig/Subst}} 00:11, April 26, 2012 (UTC)
+
+== Re: Amira Moselle ==
+
+Hello. In regards to Amira, the creator of the EWoT website had communicated with Robert Jordan. In that communication, Robert Jordan stated that Amira was one of the ambassadors sent to Cairhien and that she was killed at Dumai's Wells. See [http://encyclopaedia-wot.org/characters/a/amira.html her page] on that site. While we don't have the letter or e-mail stating this, the site and its creator are pretty reliable. Let me know if you have any questions. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 15:36, May 15, 2012 (UTC)

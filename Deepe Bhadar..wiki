@@ -1,0 +1,40 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px
+| ewot=Deepe
+| status= Dead
+| death={{ne|1000}}
+| nationality=Andoran
+| rank=Asha'man
+| title=Senior Leader
+| gender=Male
+| affiliation=Rand al'Thor
+| occupation=Asha'man
+| hair=Black, long
+| appeared={{tom|28}}
+| lastappeared={{amol|16}}
+| lastmentioned={{amol|18}}
+}}'''Deepe Bhadar''' was an [[Andor]]an [[Asha'man]].{{ref|{{twotc}}, Deepe Bhadar|Deepe}}
+
+==Appearance==
+Deepe had a flat face, long black hair and a missing leg.{{ref/book|13|28}}
+
+==History==
+He was from [[Andor]].
+
+==Activities==
+Deepe was one of the only three full Asha'man who were in [[Maradon]] with [[Lord]] [[Rodel Ituralde]]. He was the leader of the group of a hundred Asha'man, Dedicated and Soldiers sent to [[Saldaea]] by Rand (so probably he was the strongest among them). He helped defend [[Maradon]] against the [[Shadowspawn]] army.{{ref/book|13|28}} He was standing with Ituralde on Maradon's wall when part of the wall was destroyed by enemy [[Dreadlord]]s. Deepe was knocked unconscious and lost his lower right leg in the explosion but was saved by Ituralde and Healed later by [[Antail]]. {{ref||Deepe}}
+
+Deepe rides with Lan, cutting enemy channelers weaves while fighting in [[Shienar]] in the [[Last Battle]].
+
+== Death ==
+Deepe spots [[Mazrim Taim]] and wants to challenge him, but is killed by the other man before he can try. Lan caught the sight of his corpse, mangled and lying in pieces.{{ref/book|14|16}}
+
+== Trivia ==
+* Deepe Bhadar is named for Deep Bhandari, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{DEFAULTSORT:Bhadar, Deepe}}
+[[Category:Channelers]]<references />
+[[Category:Channelers]]
+[[Category:Characters named after fans]]

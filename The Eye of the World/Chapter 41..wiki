@@ -1,0 +1,114 @@
+{{quote|Better we were all dead. Everywhere we go, we bring pain and suffering on our backs. It would be better for everyone if we were dead.|[[Perrin|Perrin Aybara]]}}
+{{dablink|For other uses of the words "old" and "new," see [[Old]] and [[New]].}}
+{{summary | book=1 |chapter=41
+|title=Old Friends and New Threats
+|icon=staff
+|setting=[[The Queen's Blessing]] Inn in [[Caemlyn]]
+}}
+
+==Summary==
+{{pov|[[Rand al'Thor]]}}
+
+[[File:Loial.jpeg|thumb|left|200px|"Darkfriends, and Aes Sedai, and the Light knows what else. Or the Dark One. You are going to Tar Valon, and there is a very fine grove there, which I have heard the Aes Sedai tend well. In any case, there is more to see in the world than groves. You are truly ''ta'veren'', Rand. The Pattern weaves itself around you, and you stand at the heart of it." - Loial]]
+
+[[Rand]] enters The Queen's Blessing breathlessly from running all the way from the palace. [[Lamgwin]] directs Rand to the library and [[Basel Gill]] after telling of an attempt to steal the inn's cats. He finds Master Gill and [[Loial]] playing [[stones]] and tells them about the beggar that's been following him{{Ref|[[Padan Fain]]}} and an unbelievable tale about meeting the [[Queen of Andor]].{{ref/book|1|40}} As Rand lays out the details, Master Gill's disbelief changes into worry. He tells Rand to get [[Mat]] and prepare to leave the city before [[Elaida]] decides to hunt him down. As the humans plot Mat and Rand's departure, Loial asks to leave with him.
+
+[[Gilda]] interrupts their meeting with a knock and an ill report of [[Whitecloak]]s in the inn. The Whitecloak interrupts Gill's greeting, sneering about his search for two [[Darkfriend]]s from the [[Two Rivers]].{{ref/book|1|30}}{{ref/book|1|38}}{{ref|Rand and Gill mistakenly believe that the Whitecloaks are after him and Mat. However, the Whitecloaks are actually searching for [[Perrin]] and [[Egwene]]. {{1|38}}}} The Whitecloaks arrogantly compare [[Morgase]] to Darkfriends due to her relationship with [[Tar Valon]], prompting Lamgwin and every patron to stand and challenge the five men. The lead Whitecloak threatens Gill with the [[Dragon's Fang]], but the innkeeper stands his ground and the Whitecloaks back down and leave.
+
+[[File:Ruby-hilted Dagger.JPG|thumb|left|200px|"I felt the evil of it when I laid eyes on him, the touch of Mashadar, but a Fade could sense it for miles. Even though he would not know exactly where, he would know it was near, and Mashadar would draw his spirit while his bones remembered that this same evil swallowed an army- Dreadlords, Fades, Trollocs, and all. Some Darkfriends could probably feel it, too." - Moiraine]]
+
+Gilda interrupts Rand and Basel again to inform them of a Lady in the kitchens asking for Rand and Mat by name. They fear it is the [[Daughter-Heir]] until Rand remembers that he never mentioned Mat to [[Elayne]]. The pieces click together and Rand races to the kitchen even though Master Gill urges caution.
+
+Rand opens the kitchens to see [[Moiraine]], [[Nynaeve]], [[Egwene]], [[Perrin]], and [[Lan]]. It is a joyful reunion. After introducing everyone to Master Gill, he notices Perrin's downcast stare. Two of the inn's cats come into the kitchen and one approaches Moiraine happily. Moiraine notes that the inn has many cats and Gill explains that the entire city has a big problem with rats. Moiraine offers to keep rats away from their street and Gill accepts after a moment. Nynaeve asks about Mat, then storms up the stairs when told that he is not well. The reunion turns subdued when Perrin asks about [[Thom]],{{ref/book|1|26}} and grows worse when the [[Emond's Field]] folk visit Mat. Mat responds with great paranoia and has doubts that they are who they claim to be.
+
+Moiraine's voice interrupts Mat and she orders the Emond's Field folk to back away from him, bodily tossing the Wisdom aside when she does not move. Mat and the [[Aes Sedai]] lock eyes. She places her hand on him. In the next instant, Mat tries to stab her with the [[Ruby-hilted dagger]]. Inches from her throat, Lan's hand seizes Mat's wrist. Moiraine asks Rand how Mat came by the dagger and Rand says that it was taken from [[Shadar Logoth]],{{ref/book|1|24}} but Rand did not know about it until after they got split up. Moiraine says that the dagger must have attracted Darkfriends and Shadowspawn to them.
+
+Rand recalls his misadventures with Darkfriends and Shadowspawn during the journey to [[Caemlyn]]{{ref/book|1|26}}{{ref/book|1|32}}{{ref/book|1|33}}{{ref/book|1|34}} and tells them of rumors of strange things outside the city. Lan confirms the appearance of [[Trolloc]]s and [[Myrddraal]] waiting for the time to strike. Perrin seems depressed and says that maybe it would be better if they were dead given how much trouble they are causing everyone. Moiraine says flatly that dying would not solve the world's problems.
+
+Moiraine explains how dangerous the dagger is before kicking the Emond's Field folk out of the room so she can concentrate on [[Healing]] Mat with her ''[[angreal]]''.
+
+==Characters==
+[[file:Mat Cauthon.JPG|thumb|right|200px|"How do I know you're who you look like? Everyone changes. How can I be sure? Perrin? Is that you? You've changed, haven't you? Oh, yes, you've changed{{ref/book|1|23}}... Pretty Nynaeve. A Wisdom isn't supposed to think of herself as a woman, is she?{{ref/book|1|16}} Not a pretty woman. But you do, don't you? Now. You can't make yourself forget that you're a pretty woman, now, and it frightens you. everybody changes. Pretty Egwene. Pretty as Nynaeve. And you share other things, don't you? Other dreams.{{ref/book|1|25}} What do you dream about now?" - Mat]]
+* [[Rand al'Thor]]
+* [[Lamgwin Dorn]]
+* [[Basel Gill]]
+* [[Loial]]
+* [[Gilda]]
+* [[Matrim Cauthon]]
+* [[Moiraine Damodred]]
+* [[Nynaeve al'Meara]]
+* [[Egwene al'Vere]]
+* [[Lan Mandragoran]]
+* [[Perrin Aybara]]
+
+===Referenced===
+* [[Logain Ablar]]
+* [[Elayne Trakand]]
+* [[Gawyn Trakand]]
+* [[Padan Fain]] - as ''beggar''
+* [[Morgase Trakand]]
+* [[Elaida do Avriny a'Roihan]]
+* [[Gareth Bryne]]
+* [[Tam al'Thor]]
+* Mother [[Grubb]]
+* [[Thom Merrilin]]
+* [[Mashadar]]
+* [[Mordeth]]
+* [[Dark One]]
+
+===Shadowspawn===
+* [[Fade]]
+* [[Dreadlord]]s
+* [[Trolloc]]s
+
+===Groups===
+* [[Aes Sedai]]
+* [[Darkfriend]]s
+* [[Children of the Light]]
+* [[Queen's Guards]]
+* [[Warder]]
+* [[Ogier]]
+
+==Places==
+* [[Caemlyn]]
+* [[New City]]
+* [[The Queen's Blessing]]
+
+===Referenced===
+* [[The Crown and Lion]]
+* [[Tar Valon]]
+* [[Shadar Logoth]]
+* [[Two Rivers]]
+* [[Emond's Field]]
+* [[Borderlands]]
+
+==Items==
+* [[Ruby-hilted dagger]]
+* [[Robed woman angreal]]
+
+==Culture==
+* [[False Dragon]]
+* [[Stones]]
+* ''[[Ta'veren]]''
+* [[Dragon's Fang]]
+* [[Lord of the Grave]]
+
+==Events==
+* [[Trolloc Wars]]
+
+==Concepts==
+* [[Light]]
+* [[Pattern]]
+* [[Shadow]]
+
+==The [[One Power]]==
+* [[Ward]] against rats
+* [[Healing]]
+
+==Quotes==
+{{quote|There can only be one reason; when the Fades have enough numbers, they will come into the city after you. That act may send half the armies of the south marching to the Borderlands, but evidence is that they're willing to take the risk. You three have escaped them too long. It looks like you've brought a new Trolloc War to Caemlyn, sheepherder.|Lan Mandragoran}}
+{{quote|Better we were all dead. Everywhere we go, we bring pain and suffering on our backs. It would be better for everyone if we were dead.|Perrin}}
+{{quote|What do you think to gain, for yourself or anyone else, by dying? If the Lord of the Grave has gained as much freedom to touch the Pattern as I fear, he can reach you dead more easily that alive, now. Dead, you can help no one, not the people who have helped you, not your friends and family back in the Two Rivers. The Shadow is falling over the world, and none of you can stop it dead.|Moiraine }}
+
+{{notes}}
+{{DISPLAYTITLE:''Old Friends and New Threats''}}

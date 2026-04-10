@@ -1,0 +1,49 @@
+[[File:Wheel of Time.jpg|thumb|right|The Wheel of Time weaving the universe]]
+{{quote|The Wheel weaves as the Wheel wills, and we are only the thread of the Pattern.|[[Moiraine Damodred]]}}
+{{dablink|For other uses of the term "''Wheel of Time''," see ''[[Wheel of Time (disambiguation)|Wheel of Time]]''.}}
+The '''Wheel of Time''' is the great seven-spoked cosmic loom that weaves the Great Pattern, using the lives of people as threads. It is believed to encompass all worlds and realities into a ''Pattern of the Ages''.
+
+==The Wheel==
+Think of a great cosmic loom in the shape of a seven-spoked wheel; each spoke is representative of an Age, one passing, one always receding, one approaching. Put in place by the [[Creator]], it uses the lives of people as threads to weave the Great Pattern. The Wheel gains its energy from the [[True Source]], ''[[saidin]]'' and ''[[saidar]], ''working against and with each other. No one knows how long a full turning of the Wheel actually takes, and it very well may not be the same amount of time each turning. It is believed that all souls are reincarnations without memories of previous lives. Some with the [[Talent]] of [[Foretelling]] or [[Dreamwalking]] may have a glimpse of the future. Some of these glimpses became [[prophecies]] through the centuries. 
+
+==The Pattern==
+{{quote|The Pattern has a great deal to answer for. I don't think any man is worth this.|[[Min Farshaw]]}}
+The lives of humans, [[Ogier]], and [[Shadowspawn]] and anything else that can affect the pattern help make the weave of it. Everything is taken into account in the weave, events spanning hundreds if not thousands of years for the proper events to occur. Each Age has a separate pattern that makes the basis for the reality of that Age. This '''Pattern of the Age''', or '''[[Age Lace]],''' has been predetermined by the Wheel and it is only able to be partially changed.
+
+===Web of Destiny and ''ta'veren''===
+At the center of every [[Web of Destiny]], or [[ta'maral'ailen]] in the [[Old Tongue]] there is a ''[[ta'veren]]''. Since ''ta'veren'' are made to influence life threads to create change, the only people who can affect the Pattern in any significant ways are ''ta'veren''; hence, the destinies of ''ta'veren'' are more strictly controlled by the Wheel of Time itself. These people are used by the Wheel to correct itself when the weave begins to drift from the [[Pattern]]. The great changes caused by a ''ta'veren'' form a Web of Destiny. These Webs of Destiny are almost always arduous for those that live through that Age but are an unfortunate necessity for the Wheel. The more change required, the more ''ta'veren'' that are born.
+
+[[File:Twist.jpg|thumb|right|A twist in the Pattern]]
+
+===Influences and present day===
+''Ta'veren'' appear to affect the Pattern based on their own personalities and skills. [[Perrin Aybara]]'s ''ta'veren'' nature tends strongly to manifest in people, causing people to do or say things they otherwise would not. By contrast, [[Matrim Cauthon]]'s twisting of the Pattern manifests as a warping of the laws of chance, and tends to be limited to a fairly local area. It most often manifests as extreme good luck for Mat, as well as apparently warning him of important events to come.
+
+By far the most powerful ''ta'veren'' in the present-day world, and possibly the most powerful in history, is [[Rand al'Thor]]. His presence in an area causes any number of completely unpredictable and improbable occurrences, from throwing the laws of chance completely askew to two young people who can't stand each other suddenly marrying. This effect is uncontrollable and can extend to cover a wide area, influencing an entire village or a large part of a major city.
+
+In recent times, the three ''ta'veren'' have been experiencing momentary disorientation and visions of flashing colors whenever they think of the other ''ta'veren''. These colors are unexplained as yet, but the effect appears to be growing; most recently, the visions have been replaced with actual momentary glimpses of the other ''ta'veren''. It is unknown what these visions are caused by, but it is overwhelmingly likely that it is yet another sign of the impending [[Tarmon Gai'don|Last Battle]].
+
+===Will of the Pattern===
+
+The [[Shara]]ns ascribe various things to the "[[Will of the Pattern]]," particularly the deaths of [[Sh'botay]]s and [[Sh'boan]]s.{{ref/book|6|6}}{{ref/book|10||g|Shara}}{{ref/book|twotc|Will of the Pattern}} [[Graendal]] treats this Will as a proper noun,{{ref/book|6|6}} so there may be some distinction between this "Will of the Pattern" and the more common notion of the Wheel's will.
+
+===Weakening of the Pattern===
+Recently there have been a series of strange events occurring that are attributed to the [[Dark One]] loosening the threads of the Pattern.
+*In the White Tower the [[Brown Ajah]]'s quarters switch with the [[novice]]s' quarters, and the [[Yellow Ajah]] quarters switch with the kitchens.
+*The layout of numerous palaces have changed, including the [[Royal Palace of Andor]], the [[Stone of Tear]], and the [[Sun Palace]].
+*Ghosts frequently appear. These ghosts are unaware of living people. They have become so frequent that most people are no longer anxious when one appears.
+
+===Theories===
+Certain statements by characters throughout the series have also led to the theory that the Pattern itself is the Dark One's prison. One prime example of this is that the hole in the Dark One's prison, the [[Bore]], is described as being the thinnest area of the Pattern. Alternatively this could mean that the Pattern is somewhat of a protective bubble with the Dark One outside, not meant to imprison the Dark One but rather to protect those that live within the Pattern, and that this "thinnest area" could be where the Dark One wore away at the Pattern trying to "break in".
+
+=== Tarmon Gai'Don ===
+During Tarmon Gai'Don, Rand al'Thor, along with Nynaeve al'Meara and Moiraine Damodred, used a pure form of the One Power to seal the [[Bore]], ending the Dark One's direct influence on the Pattern. In doing so, Rand used the One Power to create new matter to fill the void that had been created by [[Lanfear|Mierin's]] drilling attempt in the Age of Legends, making the Pattern completely whole again.
+
+=== Origin of Idea ===
+Author, Robert Jordan, speaks at the end of the audible book, The Fires of Heaven. He explains about the Wheel of Time that “it is from Hindu mythology that time is a wheel.  And that’s a great gift because if time is circular, if everything repeats in cycles, then change is impossible. No matter what you do, it’s always going to come back to what is here”… “But I wanted the circularity because I wanted to go into the changes by distance so the myths and legends and a few of the stories that these people tell, well, some of them are based on our myths and legends. So they are the source of our myths and legends and we are the source of theirs.” … “There are elements that come out of religious books and elements that come out of mythology.”
+
+==See also==
+*[[Great serpent]]
+{{notes}}
+[[es:Rueda del Tiempo]]
+[[Category:Metaphysics]]
+[[Category:One Power]]

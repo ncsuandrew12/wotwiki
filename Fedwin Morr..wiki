@@ -1,0 +1,43 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=200px 
+| birth={{ne|984}}
+| status=Dead
+| death={{ne|1000}}
+| occupation=Asha'man
+| nationality=Andoran
+| rank=Asha'man
+| affiliation=The Dragon Reborn
+| gender=Male
+| build=Stocky
+| appeared={{loc|3}}
+| lastappeared={{tpod|29}}
+}}'''Fedwin Morr''' was a young [[Andor]]an man who became an [[Asha'man]].{{ref|{{twotc}}, Fedwin Morr}}
+
+== Appearance and Abilities ==
+He was very young, stocky with only a few blotches. His blotches decreased by the time he went to Dumai's Wells. He had brown eyes and straight brown hair. He was about 5'10 tall.
+
+He had a channeling block; he did not believe he could affect anything at a distance. his ability began to fail at 50 paces, and disappeared at 100. He had to catch his tongue between his teeth in order to make his weaves work. He could easily weave gateways, unless his blocks came into play.
+
+==Activities==
+=== The Black Tower ===
+When [[Rand al'Thor]] and [[Mazrim Taim]] begin testing the men to see if they could channel, he was keen to find out. He had reached the rank of [[Dedicated]]. He had placed a bar on himself and believed he couldn't affect anything at a distance with ''[[saidin]]'', so his strength decreased the further away he [[Channel]]ed.
+
+He fought in the [[Battle of Dumai's Wells]] and accompanied Rand after the battle back to [[Cairhien]]. He was brought to [[Caemlyn]] to act as a [[Traveling]] messenger between there and Cairhien. Along with the other Asha'man in Rand's entourage he helped him in the conquest of [[Illian]].
+
+=== The Seanchan and madness ===
+Later he was sent to [[Altara]] by Rand to spy the [[Seanchan]]. He felt the strangeness of the One Power near the destroyed farm of the [[Kin]]. He was very discreet but was discovered one time, fortunately he was able to destroy all the proofs of his doing.
+
+He reported to Rand with extreme accurancy that the [[Seanchan]] were planning to invade [[Illian]]. He returned to Rand with word of the Seanchan preparing to move from Ebou Dar soon they put soldiers along the Venir Mountains all the way to Arran Head. When Rand praised him, Morr mentioned there had been some talk about an "Aes Sedai weapon" (the Bowl of the Winds and following unweaving explosion of a gateway). He investigated the ground where it was used and felt ''saidin'' being worst there; he said he could feel it in the air as if it were alive. Morr insists upon not being mad, and Rand assures him he will live until the Last Battle
+
+He had just been promoted to the rank of Asha'man by Rand. He rode with Rand when Rand's forces attacked the invading Seanchan just outside Illian. He [[Healing|Healed]] Rand when Rand was struck by a crossbow bolt. On arrival back to Cairhien he accompanied Rand to his meeting with [[Cadsuane Melaidhrin]].
+
+When the rogue Asha'man blew up Rand's quarters he got Morr to guard [[Min Farshaw]] with his life. When Rand arrived back, Morr had finally succumbed to the madness of ''saidin'' and had the mind of a child. Min was keeping him at bay with toys. Rand slipped some poison into Morr's cup, putting Morr to sleep forever in a quick, painless death.{{ref/book|8|29}}
+{{DEFAULTSORT:Morr, Fedwin}}
+
+{{notes}}
+{{Primary Protagonists}}
+[[es:Fedwin Morr]]
+[[Category:Eyes-and-ears]]
+[[Category:Learners]]
+[[Category:Channelers]]

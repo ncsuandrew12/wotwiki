@@ -1,0 +1,35 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Tairen
+| gender=Female
+| affiliation=The Shadow
+| rank=Aes Sedai
+| status=Alive
+| hair=Dark
+| appeared={{kod|24}}
+| lastappeared={{amol|14}}
+| living=amol
+}}
+'''Jezrail''' is an [[Aes Sedai]] of the [[Red Ajah]].
+
+== Appearance ==
+Jezrail is a dark, square-faced [[Tairen]].
+
+==Strength ==
+Jezrail does not show too much deference to [[Katerine Alruddin]], so she can't be too weak. Because Katerine's level of strength is {{opsl|21}}, it can be guessed that Jezrail level could be between {{opsl|25}} and {{opsl|21}} in the top ten levels of the recent Aes Sedai hierarchy and enough to open alone suitable [[gateway]]s for [[Traveling]].
+
+== History ==
+Jezrail almost married a young man before she came to the [[White Tower]]. She still keeps a miniature of him and speaks fondly of him, even though his grandchildren would be grandparents now.{{ref/book|10|e}} That would probably make her over one hundred years old, likely even older.
+
+== Activities ==
+She prevents Katerine from using the [[One Power]] to punish [[Egwene al'Vere]] when she makes a display in a [[novice]] class by splitting her [[weave]]s fourteen ways, a deed that impressed Jezrail. She grabs Katerine's wrist and admonishes her for going too far, as Egwene was in danger of being injured.{{ref/book|11|24}} Jezrail also seems to dislike anything related with [[forkroot]].
+
+Jezrail is one of the Red sisters, along with [[Pevara Tazanovni]], [[Javindhra Doraille]], [[Desala Nevanche]], [[Melare]], and [[Tarna Feir]], sent to the [[Black Tower]] to put the proposition of Red sisters [[bonding]] [[Asha'man]] as [[Warder]]s to [[Mazrim Taim]]. He has agreed to this.{{ref/book|11|e}} Jezrail was chosen because she still speaks fondly about the man she was to marry; indicating that unlike most Reds, she does not hate men.
+
+Jezrail was probably [[Turned]] to the [[Shadow]] because Pevara affirmed the only herself among her group was able to escape the Turning. This is later confirmed by "The Wheel of Time Companion".
+
+{{notes}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:The Turned]]

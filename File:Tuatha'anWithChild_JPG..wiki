@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Fan Art
+|License     = GFDL
+| ImageType2 = Character
+|Source      = https://reddera.deviantart.com/art/WOT-Tuatha-an-Woman-271997751
+|Description = Fan art of a ''[[Tuatha'an]]'' with her child.
+|Artist      = Ariel Burgess
+}}

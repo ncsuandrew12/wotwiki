@@ -1,0 +1,347 @@
+{{Featuredicon}}{{TOCright}}
+The following is a list of all One Power strength rankings given in [[The Wheel of Time Companion]] along with notes and corrections on errata appearing in that book. For more general information see [[One Power]].
+
+==Robert Jordan's Ranking System==
+
+The notation of Robert Jordan's ranking system can be somewhat confusing because he expanded his initial system of 60 levels to 72 levels of One Power strength  for female channelers, and again to account for levels of males above that. The notation can be described briefly as follows:
+
+* The first number is according to his 72-level scale. 1 is the strongest a female channeler can be.
+* The second number (in parentheses) is according to his 60-level scale. 1 in this scale is the strongest Aes Sedai in the White Tower at the beginning of the first book.
+* There is a difference in 12 levels between the two. Elaida, for example, would have a strength level of 13(1).
+* Channelers stronger than the 60-level scale allows are denoted by the number of levels above level 1 they are. Egwene, for example, is marked as 8(+5), being five levels of strength above Elaida.
+* Men can be stronger than the strongest female. This is accounted for by six extra strength levels with their own notation. ++1 is the strongest a man can be. We only have strengths for a few men, however, with the weakest being level ++4.
+
+===21-level scale===
+
+Robert Jordan had an older system that had only 21 levels.
+
+''I have said that in my notes I have such a scale that I use to keep track of everyone, but its main use is for the lesser characters, in particular Aes Sedai, so that I can check on who should defer to whom, who should only listen a little more attentively to whom, and so forth.''{{ref/tidb|254|8}}
+
+An attempt to recreate using this scale can be read online.{{ref|{{Link|1=https://13depository.blogspot.com/2009/02/saidar-strength-ranking.html|2=21-level Scale at Thirteenth Depository blog}}}} There are several discrepancies that arise between the two, mainly because it allows for a lot more levels for weaker channelers, but also because the point of views needed as evidence from the books is necessarily subjective. This is particularly true among the Forsaken, who both exaggerate their own opinion of their strength and measure themselves in ways that are not restricted to just raw strength. Direct quotations from the books can also only show an incomplete picture. Discrepancies between the books and the numbers in {{c}} are noted in their own section.
+
+==Rankings Table==
+
+{| class="wikitable sortable" style="background-color: #dimgray;" border="1" cellspacing="0" cellpadding="5"
+! style="text-align:center;" | Strength Level
+! style="text-align:center;" | Channelers
+! style="text-align:center;" | Notes
+|-
+| {{A|rank1}}{{ops|1}}
+| [[Ishamael|Ishamael/Moridin]], [[Lews Therin Telamon]]/[[Rand al'Thor]], [[Rahvin]]
+| The highest strength level a man could achieve.
+|-
+| {{A|rank2}}{{ops|2}}
+| [[Aginor|Aginor/Osan'gar]], [[Demandred]], [[Logain Ablar]], [[Mazrim Taim|Mazrim Taim (M'Hael)]], [[Sammael]]
+|
+|-
+| {{A|rank3}}{{ops|3}}
+| [[Asmodean]], [[Balthamel|Balthamel/Aran'gar]]
+|
+|-
+| {{A|rank4}}{{ops|4}}
+| [[Be'lal]], [[Jahar Narishma]]
+|
+|-
+| {{A|rank5}}{{ops|5}}
+|[[Donalo Sandomere]], [[Charl Gedwyn]], [[Manel Rochaid]]
+|
+|-
+| {{A|rank6}}{{ops|6}}
+|[[Damer Flinn]], [[Atal Mishraile]], [[Welyn Kajima]]
+|
+|-
+| {{A|rank7}}{{ops|7}}
+| [[Lanfear]],{{ref|Lanfear was rumored to be the second most powerful of the Forsaken{{verify}}, but this does not necessarily mean in raw strength as women have an increased level of skill that adds to their raw strength.}} [[Alivia]], [[Semirhage]], [[Deepe Bhadar]](male), [[Naeff]](male){{ref|The ranking for Naeff in {{twotc}} is inconsistent with the text of the books. Nynaeve states that she is stronger in the One Power than Naeff.{{ref/book|13|15}}}}, [[Nensen]](male)
+| The highest strength level a woman could achieve.
+|-
+| {{A|rank8}}{{ops|8}}
+| [[Cyndane]], [[Mesaana]], [[Talaan din Gelyn]], [[Sharina Melloy]], [[Tymoth]](male), [[Mezar Kurin]](male)
+|
+|-
+| {{A|rank9}}{{ops|9}}
+| ([[Graendal|Graendal/Hessalam]]), [[Nynaeve al'Meara]], [[Caraighan Maconar]], [[Jonneth Dowtry]](male)
+|
+|-
+| {{A|rank10}}{{ops|10}}
+| [[Moghedien]], [[Someryn]], [[Fedwin Morr]](male), [[Peral Torval]](male), [[Raefar Kisman]](male)
+|
+|-
+| {{A|rank11}}{{ops|11}}
+|  [[Tamela]], [[Arel Malevin]](male), [[Fager Neald]](male)
+|-
+| {{A|rank12}}{{ops|12}}
+|[[Antail]](male), [[Eben Hopwil]](male)
+|
+|-
+| {{A|rank13}}{{ops|13}}
+|[[Jur Grady]](male)
+|-
+| {{A|rank14}}{{ops|14}}
+| [[Egwene al'Vere]], [[Elayne Trakand]]{{ref|{{c}} lists this as Elayne's potential strength, not actual strength.}}, [[Aviendha]], [[Karldin Manfor]](male), [[Coteren]](male)
+|
+|-
+| {{A|rank15}}{{ops|15}}
+| [[Cadsuane Melaidhrin]],{{ref|{{c}} gives Cadsuane's strength as {{opsl|11}}, but in earlier versions of the Companion, the entry for [[Nicola Treehill]] stated that Nicola and Cadsuane had equal potentials.}} [[Bode Cauthon]],{{ref|Bode's exact strength level is not stated in {{c}}, though she is described as having a potential almost as strong as Egwene's.}} [[Mabriam en Shareed]], [[Nicola Treehill]], [[Evin Vinchova]](male)
+|
+|-
+| {{A|rank16}}{{ops|16}}
+|[[Meilyn Arganya]], ([[Viendre]]{{ref|The books state that Viendre's strength stronger than that of Elayne. Elayne may not have reached her full potential at this point, howwever.}}), [[Jonan Adley]](male), [[Dobser]](male)
+|
+|-
+| {{A|rank17}}{{ops|17}}
+| ([[Aviendha]]),{{ref|{{c}} gives this as her current strength. As per the books, Aviendha, Elayne and Egwene have equal potential.}} [[Kerene Nagashi]], [[Arlen Nalaam]](male), [[Hardlin]](male), [[Norley]](male)
+|
+|-
+| {{A|rank18}}{{ops|18}}
+| [[Edarra]], [[Therava]], [[Canler]](male), [[Leems]](male)
+|
+|-
+| {{A|rank19}}{{ops|19}}
+| [[Colinda]], [[Elaida do Avriny a'Roihan]], [[Lelaine Akashi]], [[Moiraine Damodred]] (old), [[Rainyn]], [[Romanda Cassin]], [[Siuan Sanche]] (old), [[Zarya Alkaese]]
+| Formerly the established maximum strength level among Aes Sedai. Also the minimum to use safely the [[Choedan Kal]].
+|-
+| {{A|rank20}}{{ops|20}}
+| [[Aisha Raveneos]], [[Bera Harkin]], [[Cetalia Delarme]], [[Cosain]], [[Galina]], [[Ibrella]], [[Kirstian Chalwin]], [[Kiruna Nachiman]], [[Larelle Tarsi]], [[Leane Sharif]] (old), [[Liandrin Guirale]], [[Martine Janata]], [[Merean Redhill]], [[Merise Haindehl]], [[Pevara Tazanovni]], [[Reanne Corly]], [[Saerin Asnobar]], [[Sashalle Anderly]], [[Sheriam Bayanar]], [[Yukiri Haruna]]
+|
+|-
+| {{A|rank21}}{{ops|21}}
+| [[Anaiya]], [[Carlinya Sorevin]], [[Desandre Alraed]], [[Dorailla]], [[Katerine]], [[Lemai Ambani]], [[Maigan]], [[Marillin Gemalphin]], [[Myrelle]], [[Morvrin]], [[Nesune]], [[Shemerin]], [[Silviana Brehon]], [[Talene Minly]], [[Theodrin Dabei]],
+|
+|-
+| {{A|rank22}}{{ops|22}}
+| [[Adelorna Bastine]], [[Aisling Noon]], [[Beldeine Nyram]], [[Beonin Marinye]], [[Bernaile Gelbarn]], [[Brendas]], [[Doesine Alwain]], [[Eldrith Jhondar]], [[Ester Stepashin]], [[Faeldrin Harella]], [[Haesel Lusara]], [[Julanya Fote]], [[Kwamesa Taramasu]], [[Masuri Sokawa]], [[Naime]], [[Nisao Dachen]], [[Rafela Cindal]], [[Rysael]]{{ref|Rysael is described in the main books as being as strong as [[Naime]].}}
+|
+|-
+| {{A|rank23}}{{ops|23}}
+| [[Alanna]], [[Aloisia Nemosni]],{{ref|{{c}} gives Aloisia's strength as either {{opsl|23}} or {{opsl|24}}.|aloisia}} [[Alviarin Freidhen]], [[Annharid Matoun]], [[Caire din Gelyn Running Wave]], [[Cathal Devore]], [[Dailin]], [[Danelle]], [[Delora]], [[Erian Boroleos]], [[Falion Bhoda]], [[Faolain Orande]], [[Felaana Bevaine]], [[Ispan Shefar]], [[Janya Frende]], [[Joline Maza]], [[Meidani Eschede]], [[Melaine]], [[Merana]], [[Seaine Herimon]], [[Seonid Traighan]], [[Tebreille din Gelyn South Wind]], [[Temaile Kinderode]], [[Teslyn Baradon]], [[Verin Mathwin]]
+|
+|-
+| {{A|rank24}}{{ops|24}}
+| [[Aloisia Nemosni]],{{ref||aloisia}} [[Asne Zeramene]], [[Ayako]], [[Belinde]], [[Carelle]], [[Chesmal Emry]], [[Coiren]], [[Corele Hovian]], [[Delana]], [[Demira Eriff]], [[Dorile din Eiran Long Feather]], [[Jeaine Caide]], [[Jennet Cobb]], [[Kairen Stang]], [[Kurin]], [[Marith Riven]], [[Mikio Vadere]], [[Narenwin Barda]],{{ref|{{c}} gives Narenwin's strength level as either {{opsl|24}} or {{opsl|25}}.|narenwin}} [[Renaile din Calon Blue Star]], [[Sarene Nemdahl]], [[Shevan Gadarin]], [[Sierin Vayu]], [[Sumeko Karistovan]], [[Tialin]]
+|Mean strength of all known sisters is at 18.3. This is higher than the median, meaning that Aes Sedai strength is skewed towards the stronger side. A possible explanation is that stronger women find it easier than weaker women to pass the test for Aes Sedai.
+|-
+| {{A|rank25}}{{ops|25}}
+| [[Berenicia Morsad]], [[Celestin Eguilera]], [[Chaelin]], [[Chanelle din Seran White Shark]], [[Dagdara Finchey]], [[Elaiva Walfor]], [[Gabrelle]], [[Gitara Moroso]], [[Nadere]], [[Narenwin Barda]],{{ref||narenwin}}, [[Rhiale]], [[Rubinde]], [[Sedore]], [[Tamra Ospenya]], [[Tarna Feir]], [[Tiana Noselle]], [[Toveine]], [[Zenare Ghodar]], [[Zerah Dacan]]
+|
+|-
+| {{A|rank26}}{{ops|26}}
+| [[Evanellein Lorn]], [[Faiselle Darone]], [[Magla Daronos]], [[Samitsu Tamagowa]]
+|
+|-
+| {{A|rank27}}{{ops|27}}
+| [[Covarla Baldene]], [[Ferane Neheran]], [[Jesse Bilal]], [[Juilaine Madome]], [[Mayam Colona]], [[Rianna Andomeran]], [[Sereille Bagand]], [[Tsutama Rath]]
+| Median strength of all known Aes Sedai is at 21.2 i.e. 50% of all known Aes Sedai are stronger than this.
+|-
+| {{A|rank28}}{{ops|28}}
+| [[Ashmanaille]], [[Cairlyn Nesolle]], [[Carniele Emares]], [[Emerys]], [[Losaine]], [[Merilille Ceandevin]], [[Rina Hafden]], [[Samalin Naeroda]], [[Sibella]], [[Suana Dragand]], [[Vandene Namelle]]{{ref|Vandene's potential is stated in {{c}} to be {{opsl|26}}, but she never fulfilled it because she did not want to eclipse her sister Adeleas.}}
+| Around the minimum strength level required to open a suitable Gateway for [[Traveling]]. This is the minimum strength for several women whom we know are strong enough to travel: [[Berisha Terakuni]], [[Nimri]], [[Sabeine Ocalin]], [[Serinia]].
+|-
+| {{A|rank29}}{{ops|29}}
+| [[Adeleas]], [[Duhara Basaheen]], [[Escaralde Hamdey]], [[Janina]], [[Nevarin]], [[Serafelle]], [[Takima Deraighdin]]
+|
+|-
+| {{A|rank30}}{{ops|30}}
+| [[Akoure Vayet]], [[Aledrin Malenry]], [[Andaya Forae]], [[Edesina Azzedin]], [[Kumira Dhoran]], [[Lirene Doirellin]], [[Lyrelle Arienwin]], [[Meira]], [[Saroiya Farseen]]
+|
+|-
+| {{A|rank31}}{{ops|31}}
+| [[Beldemaine]], [[Elza]], [[Javindhra Doraille]], [[Jenare Balmaen]], [[Keatlin]], [[Malind Nachenin]], [[Moria Karentanis]], [[Velina Behar]], [[Zemaille]]
+|
+|-
+| {{A|rank32}}{{ops|32}}
+| [[Lanita]], [[Mirlene Cornwell]], [[Sareitha]], [[Turanna]], [[Varilin Zanaire]]
+|
+|-
+| {{A|rank33}}{{ops|33}}
+| [[Aeldene Stonebridge]], [[Amico Nagoyin]], [[Amira Moselle]], [[Berylla Naron]], [[Careane Fransi]], [[Janine Pavlara]], [[Micara]], [[Niande Moorwyn]], [[Ronaille Vevanios]], [[Salita Toranes]], [[Tabiya]]
+|
+|-
+| {{A|rank34}}{{ops|34}}
+| [[Berana Shemon]], [[Joiya]], [[Larissa Lyndel]], [[Marline]], [[Nelavaire Demasiellin]]
+| 
+|-
+| {{A|rank35}}{{ops|35}}
+| [[Lucilde]], [[Razina Hazzan]], [[Ryma Galfrey]]
+|
+|-
+| {{A|rank36}}{{ops|36}}
+| [[Daviena]], [[Emara]]
+|
+|-
+| {{A|rank37}}{{ops|37}}
+| [[Calindin]], [[Cavandra]], [[Ieine]]
+|
+|-
+| {{A|rank38}}{{ops|38}}
+| [[Rosara Medrano]], [[Shanelle]], [[Teire Alentaine]]
+|
+|-
+| {{A|rank39}}{{ops|39}}
+| [[Annoura Larisen]], [[Bharatine]], [[Fera Sormen]], [[Silvane Redfor]], [[Valinde Nathenos]]
+|
+|-
+| {{A|rank40}}{{ops|40}}
+| [[Adine Canford]], [[Afara]], [[Akarrin Comeris]], [[Cabriana Mecandes]], [[Memara]], [[Shahal Comanli]], [[Shimoku]], [[Therva Maresis]], [[Vayelle Kamsa]]
+|
+|-
+| {{A|rank41}}{{ops|41}}
+| [[Cariandre Temalien]], [[Guisin]], [[Phaedrine]], [[Shana Goridien]], [[Siuan Sanche]] (reduced)
+|
+|-
+| {{A|rank42}}{{ops|42}}
+| [[Leane Sharif]] (reduced), [[Nacelle Kayama]]
+|
+|-
+| {{A|rank43}}{{ops|43}}
+| [[Bennae Nalsad]], [[Caren Endelle]], [[Chilares Arman]], [[Nisain a'Cowel]]
+|
+|-
+| {{A|rank44}}{{ops|44}}
+| [[Famelle Juarde]], [[Reiko Kerevon]]
+|
+|-
+| {{A|rank45}}{{ops|45}}
+| [[Ivara]]
+|
+|-
+| {{A|rank46}}{{ops|46}}
+| [[Solain Morgeillin]]
+|
+|-
+| {{A|rank47}}{{ops|47}}
+| [[Derys Nermala]], [[Eldase Takashi]]
+|
+|-
+| {{A|rank48}}{{ops|48}}
+| [[Berowin Doraisin]]
+|
+|-
+| {{A|rank49}}{{ops|49}}
+|
+|
+|-
+| {{A|rank50}}{{ops|50}}
+| [[Marris Thornhill]]
+|
+|-
+| {{A|rank51}}{{ops|51}}
+| [[Daigian Moseneillin]], [[Monaelle]]
+| Minimum to be tested for the shawl
+|-
+| {{A|rank52}}{{ops|52}}
+| [[Alise Tenjile]], [[Dimana]], [[Sarainya Vostovan]]
+| Just below the minimum strength level to be eligible to test for Aes Sedai, but in some cases can be enough to be tested as [[Accepted]] (for political reasons).<br>This is the maximum level for women described as being too weak to test for Aes Sedai, such as [[Janira]].
+|-
+| {{A|rank53}}{{ops|53}}
+|  [[Tamarla]]
+| Just below the minimum strength level to be eligible to test for Accepted.
+|-
+|{{A|rank54}}{{ops|54}}
+|
+|
+|-
+| {{A|rank55}}{{ops|55}}
+| [[Keraille Surtovni]]
+|
+|-
+|{{A|rank56}}{{ops|56}}
+|
+|
+|-
+|{{A|rank57}}{{ops|57}}
+|
+|
+|-
+|{{A|rank58}}{{ops|58}}
+|
+|
+|-
+|{{A|rank59}}{{ops|59}}
+|
+|
+|-
+| {{A|rank60}}{{ops|60}}
+| [[Asra Zigane]]
+|
+|-
+|{{A|rank61}}{{ops|61}}
+|[[Androl Genhald]](male)
+|
+|-
+|{{A|rank62}}{{ops|62}}
+|
+|
+|-
+|{{A|rank63}}{{ops|63}} 
+| [[Sorilea]],{{ref|In {{c}} Sorilea's level of strength is described as 57(35) but it is clearly a mistake because such level does not exist. {{opsl|63}} would be correct as she is quoted as being weak enough to make Daigian look moderately strong.}}
+|
+|-
+|{{A|rank64}}{{ops|64}}
+|
+|
+|-
+|{{A|rank65}}{{ops|65}}
+|
+|
+|-
+|{{A|rank66}}{{ops|66}}
+|
+|
+|-
+|{{A|rank67}}{{ops|67}}
+|
+|
+|-
+|{{A|rank68}}{{ops|68}}
+|
+|
+|-
+|{{A|rank69}}{{ops|69}}
+|
+|
+|-
+|{{A|rank70}}{{ops|70}}
+|
+|
+|-
+|{{A|rank71}}{{ops|71}}
+|
+|
+|-
+| {{A|rank72}}{{ops|72}}
+| [[Moiraine Damodred]] (reduced)
+|
+|-
+|{{A|rank73}}{{ops|73}}
+|
+|
+|-
+|{{A|rank74}}{{ops|74}}
+|
+|
+|-
+|{{A|rank75}}{{ops|75}}
+|
+|
+|-
+|{{A|rank76}}{{ops|76}}
+|
+|
+|-
+|{{A|rank77}}{{ops|77}}
+|
+|
+|-
+| {{A|rank78}}{{ops|78}}
+| [[Morgase Trakand]]
+| Minimum known strength
+|}
+
+==Internal 78-level scale==
+
+Internally, the wiki sometimes uses a 78-level scale, with 1 being equivalent to {{opsl|1}} and 78 being equivalent to {{opsl|78}}. This is used for simplicity of editing, and shouldn't ever appear in visible wiki text; it should be rendered in the 72-level scale, usually using {{t|opsl}}.
+
+{{notes}}
+[[Category:List pages]]
+[[Category:One Power]]
+[[Category:Strength in power]]

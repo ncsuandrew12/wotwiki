@@ -1,0 +1,69 @@
+{{featuredicon}}{{character 
+| image=Rhuarc.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Male
+| occupation=Clan chief
+| affiliation=Car'a'carn
+| height=Tall
+| build=Muscular
+| hair=Dark red, graying
+| status=Dead
+| clan=Taardad
+| appeared={{tdr|39}}
+| lastappeared={{amol|42}}
+| lastmentioned={{amol|e}}
+| living=amol
+}}
+{{quote|For the young, death is an enemy they wish to try their strength against.  For those of us a little older, she is an old friend, an old lover, but one we are not eager to meet again soon.|Rhuarc to [[Elayne Trakand]]}}
+'''Rhuarc''' (pronounced: RHOOARK) is the [[clan chief]] of the [[Taardad]] [[Aiel]].
+
+== Appearance ==
+He is 6'6 tall, weighing 230 pounds. He is a muscular man with dark red hair showing more than a touch of grey, and blue eyes. His square face is strong and handsome. 
+
+==History==
+He is married to both [[Amys]] and [[Lian]], and had children with both. His daughters were at least as old as [[Berelain sur Paendrag Paeron|Berelain]] (born {{ne|974}}). In [[Aviendha]]'s vision of the future his son is named [[Ronam]]; it is unknown if he has actually been born, or if this is only a son of Rhuarc in a potential future.
+
+He was of the [[Nine Valleys]] sept, and was a [[Red Shield]] before becoming chief. 
+
+[[File:Rhuarc.JPG|thumb|left|Rhuarc with a bow.]]
+
+== Activities ==
+=== Attacking the Stone of Tear ===
+He is with the group of Aiel that rescue [[Nynaeve al'Meara]], [[Elayne Trakand]] and [[Egwene al'Vere]] from being sold off to a [[Myrddraal]].{{ref/book|3|39}} Later he meets [[Matrim Cauthon]] and [[Juilin Sandar]] outside the [[Stone of Tear]] where he is leading a group of Aiel into it.{{ref/book|3|54}}
+
+He is there when [[Rand al'Thor|Rand]] first releases ''[[Callandor]]'' and after the battle reveals to [[Moiraine Damodred]] that the People of the Dragon are in fact the Aiel, by showing the dragon on his left forearm.{{ref/book|3|56}}
+
+He tricks Mat into asking the Maidens to play [[Maidens' Kiss]].{{ref/book|4|2}}
+
+He breaks up a fight between [[Faile Bashere]] and [[Berelain sur Paendrag Paeron]] over [[Perrin Aybara]], after [[Trollocs]] had attacked the Stone of Tear. He reprimands them by telling them that enough blood had been spilt already.{{ref/book|4|14}}
+
+=== Back to Rhuidean ===
+He shows Rand the symbol for [[Rhuidean]] on the [[Portal Stone]] and is then transported from Tear with the rest of the Aiel to Rhuidean.{{ref/book|4|23}} After Rhuidean he leads Rand to [[Cold Rocks Hold]], and then onto [[Alcair Dal]] where Rand declares himself as the ''[[Car'a'carn]]'' the same time [[Couladin]] does.{{ref/book|4|57}} During this time, he teaches Rand how to fight as the Aiel do. After this he takes his clan back to Rhuidean where he waits for all the rest of the clans to gather there.{{ref/book|5|2}}
+
+While following the [[Shaido]] over into [[Cairhien]] with Rand, he brings in some Tairen Lords who report that the Shaido are attacking the city. After the attack he helps Berelain steward Cairhien and begins to treat her like a daughter, even reprimanding her when she started neglecting her duties and hiding out in her room. He leads a large group of Aiel warriors to help rescue Rand from the [[White Tower]] [[Aes Sedai]] and is in the [[Battle of Dumai's Wells]].
+
+He and [[Mandelain]] were the only two clan chiefs that the [[Wise One]]s trusted not to attack the Tower embassy with spears when they first arrived; they were also the two that were trusted with information that the Tower embassy should be watched as they were potentially dangerous to Rand.
+
+=== Restoring order to Arad Doman ===
+Months later he [[Traveling|Travels]] with the rest of his clan to [[Arad Doman]]. There, he is required by Rand to bring peace to the war torn country. With [[Dobraine Taborwin]] he manages to secure [[Bandar Eban]]. He then meets with Rand to tell him the news, but is reprimanded by Rand for taking to long. He is then given orders to try and capture all the missing [[Council of Merchants]] in order to force them to appoint a new ruler. When Rand finally rides into Bandar Eban, Rhuarc greets him with the rest of the Aiel there. Rand allows him and the rest of the Aiel to take the fifth, but only from the rich.
+He later comes to Rand with the news that the Aiel have captured [[Alamindra Cutren]].
+
+He then pulls out of Arad Doman with the rest of the Aiel to Tear. When Rand returns to Tear from [[Dragonmount]] the Rhuarc challenges Rand on his continual stupidity on running into danger alone. Rand promises to always take a Maiden escort from now on and tells Rhuarc that he will repay his ''toh''. 
+
+=== Last Battle ===
+Rhuarc is present during the signing of the [[Dragon's Peace]]. He agrees with Aviendha when she asks the Aiel to also be included in the document. The Aiel are to become the neutral enforcers of the Dragon's Peace, settling any border disputes and tracking down criminals across different nations as they see fit. However, he is surprised when both Amys and Aviendha state that the Aiel will not seek a blood feud against the Seanchan, as it is a certainty they will lose. {{ref/book|13|49}} Rhuarc is in attendance at Elayne's initial war-council, where it is decided that the army will fight on four fronts led by the four Great Generals. The Aiel bristle at the thought of being led by [[Rodel]] at Shayol Ghul, but are put in their place by Elayne, who tells them that it was the Aiel themselves that insisted on being part of Dragon's Peace. The Aiel will do as ordered.
+
+Rhuarc helps scout Thakan'dar before Rand's attack on Shayol Ghul. At Shayol Ghul after dispatching several of the light's enemies, he stumbles across [[Graendal|Hessalam]], who is Graendal reborn, and she uses Compulsion to enslave him. Under her power he acts as one of her many guards. In an attempt to defeat the Forsaken, [[Aviendha]], Amys and [[Cadsuane Melaidhrin|Cadsuane]] track her down. Cornered, Graendal sends her guards at them, including Rhuarc. Forced to kill her attacker Aviendha was horrified to learn, upon removing his veil, that she had killed her clan chief. In an attempt to come to terms with his death she tells herself that it was not truly Rhuarc, as Rhuarc died the moment Graendal touched him.
+
+== In the television series ==
+In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Rhuarc}} was portrayed by actor {{TVlink|Björn Landberg}}.
+
+{{notes}}
+{{Primary Protagonists}}
+[[es:Rhuarc]]
+[[Category:Nine Valleys]]
+[[Category:Aethan Dor]]
+[[Category:Deceased]]
+[[Category:Stewards of the Dragon]]
+[[Category:POV character]]

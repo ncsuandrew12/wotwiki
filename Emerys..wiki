@@ -1,0 +1,29 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Shaido
+| height=Short
+| status=Alive
+| clan=Shaido
+| sept=Unknown sept
+| appeared={{loc|32}}
+| lastappeared={{tpod|11}}
+| living=tpod
+}}
+'''Emerys''' is an [[Aiel]] [[Wise One]] of the [[Shaido]] Clan.
+
+==Strength and Abilities==
+Emerys can [[channel]] not very strongly but still with considerable strength. In TWoTC her strength level is described as {{opsl|28}}, which is a middle-high ranking level among [[Aes Sedai]].
+
+This strength can be the minimum needed to open alone a gateway for [[Travel]]ing.
+
+==Activities==
+She is one of three Shaido Wise Ones{{ref|The other two being [[Therava]] and [[Sevanna]]}} that visit the Aiel camp in [[Cairhien]] before the events of [[Dumai's Wells]]. Egwene thinks they are spies, but [[Amys]] thinks the suggestion absurd because Wise Ones are protected by tradition and stand apart from conflicts.
+
+She and Therava vouch for Sevanna's status as a Wise One with [[Sorilea]]. Sorilea grumbles, but has no choice but to accept it. 
+
+{{notes}}
+[[Category:Channelers]]

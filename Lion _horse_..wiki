@@ -1,0 +1,20 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| name=Lion
+| ewot=Lion
+| hidep=y
+| status=Alive
+| owner=Orban
+| mentioned={{tdr|34}}
+}}
+{{dablink|For other uses of the word "lion," see [[Lion (disambiguation)]].}}
+'''Lion''' is a horse owned by Lord [[Orban]].
+
+==Activites==
+Lion is with Lord Orban when he fought a small group of [[Aiel]], including [[Gaul]].{{ref/book|3|34}}
+
+{{Notes}}
+{{Short}}

@@ -1,0 +1,23 @@
+{{ character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Domani
+| occupation=Merchant
+| affiliation=Council of Merchants
+| gender=Male
+| build=Willowy
+| height=Tall
+| appeared={{tgs|42}}
+| lastappeared={{tom|25}}
+| living=tom
+}}'''Iralin''' is a citizen of [[Arad Doman]], one of the dockmasters at the port of [[Bandar Eban]].
+
+==Appearance==
+He is tall, willowy and uncharacteristically clean-shaven for a Domani.
+
+==Activities==
+As dockmaster at the port of Bandar Eban, Iralin was among those responsible for overseeing the import of food that the [[Sea Folk]] delivered to Arad Doman (as part of [[Bargains of the Atha'an Miere|the Bargain between the Atha'an Miere and the Coramoor]]). After it was discovered Iralin was forced to report to [[Rand al'Thor]] that all of the food on the docks had suddenly spoiled.
+
+Following the spoiling of the food, Iralin kept all Sea Folk ships under quarantine. They were kept under quarantine until a visit by Rand al'Thor. Iralin is initially enraged at Rand's abandonment of Arad Doman, but Rand boards one of the Sea Folk ships and discovers that every unopened bag of food remains unspoiled. With hope restored, Rand appoints Iralin as his [[Steward of the Dragon|Steward]] in Bandar Eban and names him to the [[Council of Merchants]].
+[[Category:Dockmasters]]

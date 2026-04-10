@@ -1,0 +1,117 @@
+'''''iwot''''', often referred to as "Red Eagle," refers to the various aliases and subsidiaries that have, at one time or another, comprised iwot Productions, the entity which has held various ''[[The Wheel of Time]]'' intellectual property rights since 2004.{{ref|{{TVlink|iwot productions}}}} For more information, see {{TVlink|iwot productions}} on {{TVlink}}.
+
+{{Quote
+ | quote                    = I hear that word was floating about ComicsCon in San Diego that I am displeased with Red Eagle. Too true. Too very true. In a few more months that last contract they have with anyone on God's green earth that so much as mentions my name will come to an end and we can see what happens after that. You see, among other things they forgot an old dictum of LBJ back when he was just a Congressman from Texas, when he famously, or infamously, said "Don't spit in the soup, boys. We all have to eat." Worse, Red Eagle though they could tell me they spit in the soup, or pee in it, if they wanted to and there wasn't anything I could do to stop them. You can't apologize your way out of that with me, not that they tried. There isn't enough money in the world to buy your way out of it with me. Not that they tried that either. So they get no further help from me. Once they are completely out of the picture, we'll see what happens.
+ | speakers                 = Robert Jordan
+ | other_refs               = {{ref|{{Cite/web
+| url = https://dragonmount.com/blogs/entry/379-a-very-quick-check-in/
+| title = A VERY quick check-in
+| accessdate = {{Date|2026-3-10}}
+| last = Jordan
+| first = Robert
+| date = {{Date|2007-8-22}}
+| publisher = {{Link |url=https://dragonmount.com/blogs/blog/4-robert-jordans-blog/ |text=Dragonmount}}
+}}|rj blog red eagle}}{{ref/tidb|306|2}}}}
+
+==Names==
+Names that have been used to refer to iwot in one form or another include:
+
+*AOL Productions
+*Cuendillar Productions
+*[[iwot]]
+*iwot Games
+*iwot Productions
+*iwot Studios
+*Manetheren, LLC
+*Red Eagle
+*[[Red Eagle Entertainment]]
+*Red Eagle Games{{ref|{{Cite/web
+| url = http://www.red-eagle-games.com/index.php
+| title = Home
+| publisher = Red Eagles Games website
+| accessdate = {{Date|2026-3-10}}
+| archiveurl = https://web.archive.org/web/20150215094108/http://www.red-eagle-games.com/index.php
+| archivedate = {{Date|2015-02-15}}
+}}|red eagle games}}
+*Red Eagle Publishing
+*REE Productions
+*Ta'veren Productions
+*Trolloc Productions
+*True Source, LLC
+
+==Owners==
+The main "principals" of iwot are {{TVlink|Rick Selvage}} and {{TVlink|Larry Mondragón}}.{{ref|{{Cite/web
+| url = http://www.red-eagle-games.com/news.php
+| title = News
+| publisher = Red Eagles Games website
+| accessdate = {{Date|2026-3-10}}
+| archiveurl = https://web.archive.org/web/20150212021419/http://www.red-eagle-games.com/news.php
+| archivedate = {{Date|2015-02-12}}
+}}|red eagle games news}}
+
+==Projects==
+Wheel of Time-related projects that have involved iwot in some capacity include:
+
+{{Quote
+ | quote                    = We have a number of ‘Wheel of Time’ projects in works right now. We have a triple-A, open-world game we’re currently developing in Montreal. We have an animated feature film that we’re developing. We have a live-action feature film in pre-production under director Kari Skogland.
+ | speakers                 = Larry Mondragón
+ | addressees               = Variety
+ | other_refs               = {{ref|{{Cite/web
+| url = https://variety.com/2026/tv/news/wheel-of-time-owner-iwot-framestore-ai-asset-platform-1236659360/
+| title = ‘Wheel of Time’ IP Owner, VFX Studio Framestore to Launch AI-Enabled Platform to Unify Productions Across Film, TV and Video Games
+| accessdate = {{Date|2026-3-10}}
+| last = Maas
+| first = Jennifer
+| authorlink = https://variety.com/author/jennifer-maas/
+| date = {{Date|2026-2-11}}
+| publisher = Variety
+}}|variety}}}}
+*[[New Spring comic]]
+*[[The Eye of the World comic]]
+*[[The Wheel of Time (TV series)]], a live-action TV series adaptation of the main books.
+*{{TVlink|Winter Dragon}}, a live-action adaptation of {{1|p}}.
+*The 2022 remaster of [[The Wheel of Time (video game)]].{{ref|{{Cite/web
+| url = https://uberstrategist.com/press-release/nightdive-studios-teams-up-for-remaster-of-the-wheel-of-time/
+| title = Nightdive Studios Teams up with Red Eagle Games, iwot productions, and GOG for Remaster of Fantasy FPS The Wheel of Time
+| accessdate = {{Date|2026-3-10}}
+| date = {{Date|2022-3-11}}
+| format = Press Release
+| publisher = UberStrategist
+| archiveurl = https://web.archive.org/web/20230331124453/https://uberstrategist.com/press-release/nightdive-studios-teams-up-for-remaster-of-the-wheel-of-time/
+| archivedate = {{Date|2023-3-31}}
+}}}}{{ref|{{Cite/web
+| url = https://www.gamespress.com/en-US/Nightdive-Studios-Teams-up-with-Red-Eagle-Games-i-wot-productions-and-
+| title = Nightdive Studios Teams up with Red Eagle Games, iwot productions, and GOG for Remaster of  Fantasy FPS The Wheel of Time
+| accessdate = {{Date|2026-3-10}}
+| date = {{Date|2022-4-6}}
+| format = Press Release
+| publisher = Games Press
+}}}}
+*One Power, an AI tool for the Wheel of Time. Presumed canceled.{{ref|{{TVlink|One Power (AI)}}}}
+*The Guide, an AI-powered mobile app for the Wheel of Time.{{ref|{{TVlink|The Guide}}}}
+*''[[Heroes and Forsaken]]'', an unreleased{{ref|as of {{Date|2026-3-10}}}} {{Wiki|CCG}} "inspired" by {{wot}}.
+*''The White Tower'', an unreleased{{ref|as of {{Date|2026-3-10}}}} animated feature film.{{ref|{{TVlink|The White Tower (animated film)}}''}}{{ref||variety}} Presumed canceled.
+*''Age of Legends'', an unreleased{{ref|as of {{Date|2026-3-10}}}} live-action feature film{{ref||variety}} prequel to the TV series.{{ref|{{TVlink|Age of Legends (film)}}}} Presumed canceled.
+*An unreleased{{ref|as of {{Date|2026-3-10}}}} "triple-A" open-world RPG.{{ref||variety}} Presumed canceled. The office developing the game (iwot Games Montreal) has closed.{{ref|{{Cite/web
+| url = https://www.reddit.com/r/TheDailyTrolloc/comments/1rb8mts/iwot_game_studio_shut_down_multiple_employees/
+| title = iWoT Game Studio shut down. Multiple employees have confirmed
+| accessdate = {{Date|2026-3-10}}
+| author = u/narg
+| authorlink = https://reddit.com/u/narg
+| date = {{Date|2026-2-22}}
+| publisher = Reddit}}}}
+*''The Wheel of Time'', a live-action film series adaptation of the main books. Abandoned.{{ref|{{TVlink|iwot productions}}}}
+*''First Banner of the Rising Sun'', an [[Aiel]]-themed mobile game. Abandoned.{{ref|{{TVlink|iwot productions}}}}{{ref|{{Cite/web
+| url = https://www.kickstarter.com/projects/1332406360/official-robert-jordans-the-wheel-of-time-games-la
+| title = Official Robert Jordan's "The Wheel of Time" Games Launch
+| accessdate = {{Date|2026 April 1}}
+| publisher = Kickstarter}}}}
+
+==Miscellaneous==
+
+*The "Red Eagle" names derive from the [[Red Eagle Banner]] of [[Manetheren]].
+
+{{notes}}
+{{DISPLAYTITLE:''iwot''}}
+[[Category:Other Media]]
+[[Category:TV Series]]

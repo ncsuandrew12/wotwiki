@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|January}}
+|{{Wotmonth|Taisham}}
+|}
+'''Taisham 16 (January 6)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:january 6|January 6]]
+
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

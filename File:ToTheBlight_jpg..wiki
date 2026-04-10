@@ -1,0 +1,8 @@
+== Summary ==
+{{Image
+| License                 = Fairuse 
+| ImageType1              = cover
+| Description             = To The Blight front cover
+}}
+
+[[Category:To The Blight covers]]

@@ -1,0 +1,27 @@
+{{Dablink|This article refers to the [[Tarabon|Taraboner]] abducted in [[Tanchico]]. For the [[Seanchan]] woman, see [[Egeanin Tamarath]].}}
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Taraboner
+| affiliation=Tarabon
+| gender=Female
+| mentioned={{tsr|38}}
+| lastmentioned={{tsr|38}}
+| living=tsr
+| title=Lady
+}}
+
+Lady '''Leilwin''' was a noblewoman from the area around Tanchico. She became a refugee when her estates were burned by [[Dragonsworn]].{{ref/book|c|{{PAGENAME}}||Leilwin, Lady}}
+
+==Activities==
+[[Floran Gelb]] mistook her for a ''[[sul'dam]]'' and kidnapped her for Egeanin Tamarath. After discovering the mistake, Egeanin had her sent off in a courier boat to become ''[[da'covale]]''.{{ref/book|4|38}}
+
+==Trivia==
+While traveling with [[Mat Cauthon]] in [[Valan Luca's Traveling Show]], Egeanin uses the alias Leilwin,{{ref/book|10|1}} most likely because it is a Taraboner (or, more relevantly, non-Seanchan) name, which likely came to mind because of the events surrounding Lady Leilwin. [[Tuon]] renames Egeanin "Leilwin Shipless" as punishment for her treason. The name Leilwin Shipless was suggested by [[Selucia]] after Tuon asked what name Egeanin was using.{{ref/book|10|28}}
+
+{{notes}}
+{{short}}
+[[Category:Nobility]]
+[[Category:Ladies]]
+[[Category:Da'covale]]

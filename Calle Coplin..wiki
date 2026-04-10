@@ -1,0 +1,32 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Alive
+| gender=Female
+| affiliation=Two Rivers
+| appeared={{teotw|r}}
+| lastappeared={{teotw|r}}
+| birth={{ne|970}} 
+| lastmentioned={{acos|31}}
+| living=loc
+}}
+{{for|others with the same surname|The Congars and the Coplins}}
+'''Calle Coplin''' is a [[Two Rivers]] girl who is considered to be quite forward and a flirt.
+
+== Appearance ==
+In {{ne|991}}, she had not been braiding her hair, despite being old enough to do so.
+
+==History==
+Calle was born in {{ne|970}}. When Egwene helps with the shearing, she is twenty, about to turn twenty-one. Calle shirks her duties and stands around chatting to boys.{{ref/book|1|ravens}}
+
+The Companion refers to her as a "[https://www.dictionary.com/browse/roundheels roundheels]".{{ref|{{twotc}}, Calle Coplin}} She has a reputation in Emond's Field and, supposedly, "as many merchant guards knew her birthmark as knew her face". Nynaeve scolds herself for thinking about kissing Lan after he rescues her from drowning, comparing herself to Calle Coplin.{{ref/book|7|31}}
+
+== Activities ==
+She tried to flirt with [[Perrin]] after taking a job in his manor house, but [[Faile]] chased her half a mile with a stick when she found out. Calle has apparently not tried to flirt with Perrin again after this.{{ref/book|7|p}}
+
+== In the television series ==
+Calle does not appear in the [[The Wheel of Time (TV series)|television series]], but {{TVlink|Mat Cauthon|Mat}} mentions that she is famous for telling tall tales.
+
+{{DEFAULTSORT:Coplin, Calle}}
+[[Category:Short pages]]

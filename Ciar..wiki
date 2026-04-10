@@ -1,0 +1,18 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| occupation=Sul'dam
+| status=Alive
+| nationality=Seanchan
+| gender=Female
+| appeared={{tgs|p}}
+| lastappeared={{tgs|p}}
+| living=tgs
+}}
+'''Ciar''' is a ''[[sul'dam]]'' in the [[Seanchan]] army.
+
+== Activities ==
+She is present at the meeting between the [[Dragon Reborn]] and the [[Daughter of the Nine Moons]], when it was revealed that the later was actually [[Semirhage]] in disguise. She vomits on herself when she learns this information.
+[[Category:Ever Victorious Army]]
+[[Category:Channelers]]
+[[Category:Learners]]

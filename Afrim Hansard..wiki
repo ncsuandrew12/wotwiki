@@ -1,0 +1,23 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| affiliation=Queen's Guard
+| build=Burly
+| occupation=Soldier
+| nationality=Andoran
+| gender=Male
+| status=Alive
+| appeared={{kod|16}}
+| lastappeared={{kod|16}}
+| living=kod
+}}
+'''Afrim Hansard''' is a member of the [[Queen's Guards]].
+
+== Appearance ==
+He is burly.
+
+== Activities ==
+He brings in [[Samwil Hark]] to be questioned by [[Elayne Trakand]]. He served under [[Morgase Trakand]] as well.
+
+{{DEFAULTSORT:Hansard, Afrim}}
+{{short}}

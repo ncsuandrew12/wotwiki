@@ -1,0 +1,41 @@
+'''''Sha'rah''''' is a complex boardgame that dates back to an age before the [[Age of Legends]].
+
+==Layout and design==
+
+[[File:Sha'rah2.jpg|thumb|250px|A 15x15 ''sha'rah'' board.]]
+''Sha'rah'' is played  either on a 15x15 board, the middle 13x13 squares alternating black and white and the outer squares, called goal rows, alternating green and red or, alternatively, on a 13x13 board{{Ref|{{twotc}}, sha'rah}} with the middle 11x11 squares alternating black and white.
+
+Each player is given thirty-three pieces, one player red, one player green; certain pieces have varying moves, but none can occupy a square in a goal row.
+[[File:Sha'rah board.jpg|thumb|A 13x13 board with green and red pieces in 3 rows of 11.]]
+The central square is occupied by the Fisher King, a black and white piece with a bandage blinding its eyes and one hand pressed to its side with drops of blood dripping through the fingers. The Fisher King's attributes change depending on what color square it occupies; on white it is weak in attack yet agile and far-ranging in escape; on black it is strong in attack but slow and vulnerable. The Fisher King is able to occupy a goal row square, but that ends the match. Either player can capture the Fisher King and the Fisher King can change sides many times in a game.
+
+==Objective==
+[[File:MoridinandtheFisher.JPG|thumb|left|220px|Moridin contemplates the Fisher King from a ''sha'rah'' board.]]
+The objective of ''sha'rah'' is to put the Fisher King on a square of your color in the goal row. There are three ways of meeting this objective:
+
+* Capture the Fisher King and move him onto a square of your color on the goal row behind your opponent. You can still move the Fisher King onto a square of your color anywhere else on the board, but it is not victory and it can still be threatened there.
+* Force your opponent to move the Fisher King onto a square of your color anywhere along the goal row.
+* Kill every piece belonging to your opponent. Moridin considers this way extremely destructive and chaotic. He contemplates that he tried it just once and failed, which was painful. This may be a reminiscence of his (as [[Ishamael]]) encounter with [[Rand al'Thor|Rand]]<nowiki/> or with [[Lews Therin Telamon|Lews Therin]].
+
+==In the [[Third Age]]==
+
+The only knowledge of the game comes from Moridin.{{ref/book|8|p}} The exact number of pieces is not certain, as Moridin states that the pieces were arrayed in a re-creation of the early stages of a famous game. Both sides may have lost pieces prior to our view of the board. Moridin thinks the Fisher King may originate from a [[Dragon]] or [[Dragon Reborn]] of an earlier Age. According to Moridin, only nine living people remember the game. The nine consist of the original Forsaken minus Be'lal, Rahvin, Asmodean and Sammael. At this point in the books, it had not yet revealed that Lanfear has been reborn as Cyndane. Cyndane first appears 12 chapters later, but is not revealed to be Lanfear until [[Winter's Heart/Chapter 13|the next book in the series]]. Interestingly, Moridin does not consider Lews Therin to be alive and/or that Rand has his memories. As Nae'blis, he also has knowledge on who is alive and who is dead, something which none of the other Forsaken are privy to.
+
+Moridin sees parallels with his fight in the real life, however; he hopes to win thanks to controlling both sides of the game.
+
+[[File:Alea_evangelii.svg.png|thumb|right|200px|Depiction of Alea Eveangelii, a game that Sha'rah is in part based on.]]
+
+==Old Tongue==
+No direct translation is given for ''sha'rah'''s component in the [[List of Old Tongue words|Old Tongue]], although it is listed in the Companion's list of Old Tongue words. "Sha'" may derive from "shar" (blood) or "shan" (lord) and ''rah'' from "raha" (free/freedom) or "rahtsi" (authority), potentially referring to the bleeding wounds of the Fisher King or the Fisher King's neutral role as a piece.
+
+==Parallels==
+The name ''sha'rah'' likely originates from [[wikipedia:Shatranj|shatranj]], which evolved into the modern game of chess and is the modern Persian name for the game. ''Shatranj'' itself evolved from the Indian game of ''chaturanga''. This evolution and modification of names is a continuing theme of The Wheel of Time. In gameplay, however, ''sha'rah'' and chess are not similar.
+
+The game itself strongly resembles the Norse game [[Wikipedia:Tafl games|tafl]]. There are many boards in the tafl variant. There is gwyddbwyll, ard-ri, fidchell, brandubh, fitchneal, tablut, tawlbwrdd, hnefatafl, and alea evangelii.{{ref|[https://13depository.blogspot.com/2002/03/sharah-fisher-king-and-their-equivalents.html The Thirteenth Depository]}}
+
+The Fisher piece is likely patterned after the Fisher King, a wounded monarch that is the keeper of the Holy Grail in some versions of the legends of King Arthur. The Fisher piece's wounds parallel significant wounds suffered by Mat and Rand, but this may be coincidence, since they both also have other injuries (Rand's missing hand and Mat's neck scar.)
+
+{{notes}}
+{{DISPLAYTITLE:''Sha'rah''}}
+[[Category:Games]]
+[[Category:Age of Legends]]

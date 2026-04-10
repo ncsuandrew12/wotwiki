@@ -1,0 +1,20 @@
+{{character
+| image=AndorFlag.png
+| imagesize-250px
+| nationality=Andoran
+| gender=Male
+| occupation=Soldier
+| appeared={{amol|p}}
+| lastappeared={{amol|p}}
+| living=amol
+}}'''Rosse''' was a member of [[Jarid Sarand|Jarid Sarand's]] personal guard.{{ref|{{twotc}}, Rosse}}
+
+==Activities==
+Jarid's force is on the road to [[Whitebridge]] when it is hit by a [[bubble of evil]] that turns all metal soft. Finally having enough of Jarid's psychotic ravings on trying to and kill [[Elayne Trakand]], [[Bayrd]] declares his intention to abandon Jarid, which enrages the lord. Jarid is held back by [[Morear]] and Rosse who tie him to a tree and then march for the [[Last Battle]].
+
+== Trivia ==
+* Rosse is named for Robert Rose, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{Short}}
+[[Category:Characters named after fans]]

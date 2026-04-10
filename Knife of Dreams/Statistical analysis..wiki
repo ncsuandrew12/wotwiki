@@ -1,0 +1,476 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+''[[Knife of Dreams]]'' contains 37 chapters, a prologue, and an epilogue and consists of 27 unique POVs and 63 individual POVs. It has a total word count of 267,807 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="8" | [[Knife of Dreams/Prologue|Prologue: Embers Falling on Dry Grass]]
+| Quote
+| align="right" | 22
+| align="right" | 0.0070%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 5,567
+| align="right" | 1.7723%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 2,965
+| align="right" | 0.9439%
+|-
+| [[Suroth Sabelle Meldarath]]
+| align="right" | 6,208
+| align="right" | 1.9764%
+|-
+| [[Pevara Tazanovni]]
+| align="right" | 5,700
+| align="right" | 1.8147%
+|-
+| [[Alviarin Freidhen]]
+| align="right" | 2,479
+| align="right" | 0.7892%
+|-
+| [[Galina Casban]]
+| align="right" | 6,408
+| align="right" | 2.0401%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 7,307
+| align="right" | 2.3263%
+|-
+| [[Knife of Dreams/Chapter 1|Ch1: When Last Sounds]]
+| [[Siuan Sanche]]
+| align="right" | 7,785
+| align="right" | 2.4785%
+|-
+| rowspan="2" | [[Knife of Dreams/Chapter 2|Ch2: The Dark One's Touch]]
+| [[Beonin Marinye]]
+| align="right" | 4,906
+| align="right" | 1.5619%
+|-
+| [[Elaida do Avriny a'Roihan]]
+| align="right" | 4,226
+| align="right" | 1.3454%
+|-
+| [[Knife of Dreams/Chapter 3|Ch3: At the Gardens]]
+| [[Aran'gar]]
+| align="right" | 3,423
+| align="right" | 1.0898%
+|-
+| [[Knife of Dreams/Chapter 4|Ch4: A Deal]]
+| [[Perrin Aybara]]
+| align="right" | 5,705
+| align="right" | 1.8163%
+|-
+| [[Knife of Dreams/Chapter 5|Ch5: Something… Strange]]
+| [[Faile Bashere]]
+| align="right" | 6,856
+| align="right" | 2.1827%
+|-
+| [[Knife of Dreams/Chapter 6|Ch6: A Stave and a Razor]]
+| [[Matrim Cauthon]]
+| align="right" | 6,706
+| align="right" | 2.1349%
+|-
+| [[Knife of Dreams/Chapter 7|Ch7: A Cold Medallion]]
+| [[Matrim Cauthon]]
+| align="right" | 4,959
+| align="right" | 1.5788%
+|-
+| [[Knife of Dreams/Chapter 8|Ch8: Dragons' Eggs]]
+| [[Matrim Cauthon]]
+| align="right" | 10,979
+| align="right" | 3.4953%
+|-
+| [[Knife of Dreams/Chapter 9|Ch9: A Short Path]]
+| [[Matrim Cauthon]]
+| align="right" | 6,055
+| align="right" | 1.9277%
+|-
+| [[Knife of Dreams/Chapter 10|Ch10: A Village in Shiota]]
+| [[Matrim Cauthon]]
+| align="right" | 8,187
+| align="right" | 2.6064%
+|-
+| [[Knife of Dreams/Chapter 11|Ch11: A Hell in Maderin]]
+| [[Matrim Cauthon]]
+| align="right" | 10,577
+| align="right" | 3.3673%
+|-
+| [[Knife of Dreams/Chapter 12|Ch12: A Manufactory]]
+| [[Perrin Aybara]]
+| align="right" | 8,013
+| align="right" | 2.5510%
+|-
+| [[Knife of Dreams/Chapter 13|Ch13: Siege]]
+| [[Elayne Trakand]]
+| align="right" | 5,287
+| align="right" | 1.6832%
+|-
+| [[Knife of Dreams/Chapter 14|Ch14: Wet Things]]
+| [[Elayne Trakand]]
+| align="right" | 5,494
+| align="right" | 1.7491%
+|-
+| [[Knife of Dreams/Chapter 15|Ch15: A Different Skill]]
+| [[Elayne Trakand]]
+| align="right" | 6,253
+| align="right" | 1.9907%
+|-
+| [[Knife of Dreams/Chapter 16|Ch16: The New Follower]]
+| [[Elayne Trakand]]
+| align="right" | 5,916
+| align="right" | 1.8834%
+|-
+| rowspan="2" | [[Knife of Dreams/Chapter 17|Ch17: A Bronze Bear]]
+| [[Elayne Trakand]]
+| align="right" | 6,537
+| align="right" | 2.0811%
+|-
+| [[Arymilla Marne]]
+| align="right" | 1,702
+| align="right" | 0.5419%
+|-
+| [[Knife of Dreams/Chapter 18|Ch18: News for the Dragon]]
+| [[Rand al'Thor]]
+| align="right" | 5,952
+| align="right" | 1.8949%
+|-
+| rowspan="2" | [[Knife of Dreams/Chapter 19|Ch19: Vows]]
+| [[Loial]]
+| align="right" | 4,357
+| align="right" | 1.3871%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,767
+| align="right" | 0.8809%
+|-
+| rowspan="3" | [[Knife of Dreams/Chapter 20|Ch20: The Golden Crane]]
+| [[Rand al'Thor]]
+| align="right" | 6,441
+| align="right" | 2.0506%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 1,468
+| align="right" | 0.4674%
+|-
+| [[Weilin Aldragoran]]
+| align="right" | 1,845
+| align="right" | 0.5874%
+|-
+| [[Knife of Dreams/Chapter 21|Ch21: Within the Stone]]
+| [[Rand al'Thor]]
+| align="right" | 10,535
+| align="right" | 3.3540%
+|-
+| [[Knife of Dreams/Chapter 22|Ch22: To Make an Anchor Weep]]
+| [[Harine din Togara Two Winds]]
+| align="right" | 6,117
+| align="right" | 1.9474%
+|-
+| [[Knife of Dreams/Chapter 23|Ch23: Call to a Sitting]]
+| [[Romanda Cassin]]
+| align="right" | 9,283
+| align="right" | 2.9554%
+|-
+| [[Knife of Dreams/Chapter 24|Ch24: Honey in the Tea]]
+| [[Egwene al'Vere]]
+| align="right" | 15,098
+| align="right" | 4.8067%
+|-
+| rowspan="2" | [[Knife of Dreams/Chapter 25|Ch25: Attending Elaida]]
+| [[Tarna Feir]]
+| align="right" | 2,179
+| align="right" | 0.6937%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 4,845
+| align="right" | 1.5425%
+|-
+| rowspan="3" | [[Knife of Dreams/Chapter 26|Ch26: As If the World Were Fog]]
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 4,488
+| align="right" | 1.4288%
+|-
+| [[Perrin Aybara]]
+| align="right" | 6,233
+| align="right" | 1.9844%
+|-
+| [[Faile Bashere]]
+| align="right" | 1,234
+| align="right" | 0.3929%
+|-
+| rowspan="2" | [[Knife of Dreams/Chapter 27|Ch27: A Plain Wooden Box]]
+| [[Rand al'Thor]]
+| align="right" | 6,423
+| align="right" | 2.0449%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 3,722
+| align="right" | 1.1850%
+|-
+| rowspan="2" | [[Knife of Dreams/Chapter 28|Ch28: In Malden]]
+| [[Faile Bashere]]
+| align="right" | 6,200
+| align="right" | 1.9739%
+|-
+| [[Galina Casban]]
+| align="right" | 467
+| align="right" | 0.1487%
+|-
+| rowspan="3" | [[Knife of Dreams/Chapter 29|Ch29: The Last Knot]]
+| [[Perrin Aybara]]
+| align="right" | 3,991
+| align="right" | 1.2706%
+|-
+| [[Faile Bashere]]
+| align="right" | 890
+| align="right" | 0.2833%
+|-
+| [[Perrin Aybara]]
+| align="right" | 4,332
+| align="right" | 1.3792%
+|-
+| rowspan="3" | [[Knife of Dreams/Chapter 30|Ch30: Outside the Gates]]
+| [[Faile Bashere]]
+| align="right" | 1,861
+| align="right" | 0.5925%
+|-
+| [[Perrin Aybara]]
+| align="right" | 4,165
+| align="right" | 1.3260%
+|-
+| [[Galina Casban]]
+| align="right" | 728
+| align="right" | 0.2318%
+|-
+| [[Knife of Dreams/Chapter 31|Ch31: The House on Full Moon Street]]
+| [[Elayne Trakand]]
+| align="right" | 7,286
+| align="right" | 2.3196%
+|-
+| [[Knife of Dreams/Chapter 32|Ch32: To Keep the Bargain]]
+| [[Birgitte Silverbow]]
+| align="right" | 6,495
+| align="right" | 2.0678%
+|-
+| [[Knife of Dreams/Chapter 33|Ch33: Nine Out of Ten]]
+| [[Elayne Trakand]]
+| align="right" | 4,959
+| align="right" | 1.5788%
+|-
+| [[Knife of Dreams/Chapter 34|Ch34: A Cup of ''Kaf'']]
+| [[Furyk Karede]]
+| align="right" | 2,816
+| align="right" | 0.8965%
+|-
+| [[Knife of Dreams/Chapter 35|Ch35: The Importance of Dyelin]]
+| [[Elayne Trakand]]
+| align="right" | 6,344
+| align="right" | 2.0197%
+|- 
+| rowspan="3" | [[Knife of Dreams/Chapter 36|Ch36: Under an Oak]]
+| [[Furyk Karede]]
+| align="right" | 3,288
+| align="right" | 1.0468%
+|- 
+| [[Matrim Cauthon]]
+| align="right" | 1,225
+| align="right" | 0.3900%
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 385
+| align="right" | 0.1226%
+|-
+| [[Knife of Dreams/Chapter 37|Ch37: Prince of the Ravens]]
+| [[Matrim Cauthon]]
+| align="right" | 5,220
+| align="right" | 1.6619%
+|-
+| rowspan="2" | [[Knife of Dreams/Epilogue|Epilogue: Remember the Old Saying]]
+| [[Suroth Sabelle Meldarath]]
+| align="right" | 1,336
+| align="right" | 0.4253%
+|-
+| [[Pevara Tazanovni]]
+| align="right" | 2,909
+| align="right" | 0.9261%
+|-
+|}
+
+==Unique POV Breakdown==
+{| class="wikitable sortable"
+!Character
+!# of POVs
+!% of Total POVs (63
+!Total Word Count (314,106)
+!% of Word Count
+|-
+| Quote
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 22
+| align="right" | 0.0070%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 5,567
+| align="right" | 1.7723%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 2,965
+| align="right" | 0.9439%
+|-
+| [[Suroth Sabelle Meldarath]]
+| align="right" | 2
+| align="right" | 3.1746%
+| align="right" | 7,544
+| align="right" | 2.4017%
+|-
+| [[Pevara Tazanovni]]
+| align="right" | 2
+| align="right" | 3.1746%
+| align="right" | 8,609
+| align="right" | 2.7408%
+|-
+| [[Alviarin Freidhen]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 2,479
+| align="right" | 0.7892%
+|-
+| [[Galina Casban]]
+| align="right" | 3
+| align="right" | 4.7619%
+| align="right" | 7,603
+| align="right" | 2.4205%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 2
+| align="right" | 3.1746%
+| align="right" | 22,405
+| align="right" | 7.1329%
+|-
+| [[Siuan Sanche]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 7,785
+| align="right" | 2.4785%
+|-
+| [[Beonin Marinye]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 4,906
+| align="right" | 1.5619%
+|-
+| [[Elaida do Avriny a'Roihan]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 4,226
+| align="right" | 1.3454%
+|-
+| [[Aran'gar]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 3,423
+| align="right" | 1.0898%
+|-
+| [[Perrin Aybara]]
+| align="right" | 6
+| align="right" | 9.5238%
+| align="right" | 32,439
+| align="right" | 10.3274%
+|-
+| [[Faile Bashere]]
+| align="right" | 5
+| align="right" | 7.9365%
+| align="right" | 17,041
+| align="right" | 5.4252%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 10
+| align="right" | 15.8730%
+| align="right" | 62,475
+| align="right" | 19.8898%
+|-
+| [[Elayne Trakand]]
+| align="right" | 8
+| align="right" | 12.6984%
+| align="right" | 48,076
+| align="right" | 15.3057%
+|-
+| [[Arymilla Marne]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 1,702
+| align="right" | 0.5419%
+|-
+| [[Rand al'Thor]]
+| align="right" | 5
+| align="right" | 7.9365%
+| align="right" | 32,118
+| align="right" | 10.2252%
+|-
+| [[Loial]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 4,357
+| align="right" | 1.3871%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 1,468
+| align="right" | 0.4674%
+|-
+| [[Weilin Aldragoran]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 1,845
+| align="right" | 0.5874%
+|-
+| [[Harine din Togara Two Winds]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 6,117
+| align="right" | 1.9474%
+|-
+| [[Romanda Cassin]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 9,283
+| align="right" | 2.9554%
+|-
+| [[Tarna Feir]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 2,179
+| align="right" | 0.6937%
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 2
+| align="right" | 3.1746%
+| align="right" | 4,873
+| align="right" | 1.5514%
+|-
+| [[Birgitte Silverbow]]
+| align="right" | 1
+| align="right" | 1.5873%
+| align="right" | 6,495
+| align="right" | 2.0678%
+|-
+| [[Furyk Karede]]
+| align="right" | 2
+| align="right" | 3.1746%
+| align="right" | 6,104
+| align="right" | 1.9433%
+|-
+|}
+[[Category:Statistical analysis]]

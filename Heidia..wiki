@@ -1,0 +1,28 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| society=Far Dareis Mai
+| clan=Unknown clan
+| sept=Unknown sept
+| gender=Female
+| affiliation=Car'a'carn
+| build=Slender
+| status=Alive
+| appeared={{tom|25}}
+| lastappeared={{tom|25}}
+| living=tom
+}}
+'''Heidia''' is an [[Aiel]] ''[[Far Dareis Mai]]''.
+
+== Appearance ==
+She is slender.
+
+== Activities ==
+She guards [[Rand al'Thor]] when he [[Travel]]s back into [[Arad Doman]].
+
+== Trivia ==
+* Heidia is named for Heidi Soderquist, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{short}}
+[[Category:Characters named after fans]]

@@ -1,0 +1,35 @@
+{{ character 
+| image=Haevin.png
+| imagesize=250px
+| ewot=Catalyn
+| nationality=Andoran
+| title=Lady
+| affiliation=House Trakand
+| rank=High Seat
+| build=Plump
+| eyes=Dark
+| status=Alive
+| appeared={{cot|13}}
+| lastappeared={{tom|23}}
+| living=tom
+| gender=Female
+}}'''Catalyn Haevin''' is the [[High Seat]] of [[House Haevin]]. The sign of House Haevin is the Blue Bear.
+
+== Appearance ==
+She is a dark-eyed young lady, still plump with baby fat. She is proud and boastful, though not particularly quick-witted.
+
+== Activities ==
+Several months before reaching the age of majority (16) her guardian, mentor, and uncle, [[Arendor Haevin]], declared that she was as ready as she would ever be to assume the role of High Seat of [[House Haevin]]. She took this as a compliment, rather than as the insult it was.
+
+She is brought to [[Caemlyn]] by [[Reanne Corly]] and [[Dyelin Taravin]]. In a meeting with [[Elayne Trakand]], she pledges her House in support of [[House Trakand]] for the [[Lion Throne]].
+
+She walks into a meeting with Elayne and Dyelin, who are discussing the fate of the five other Houses who are planning to stay neutral until a victor is decided.
+
+After Elayne's capture, a soldier arrives with the news that some mercenaries had betrayed them, and were attacking the [[Far Madding Gate]] from the inside. Catalyn wishes to accompany the force that rescues Elayne, but is instead sent by [[Birgitte Silverbow]] and [[Dyelin Taravin]] with her armsmen to secure the gate, along with [[Perival Mantear]], [[Branlet Gilyard]], and [[Conail Northan]]. [[Arymilla Marne]]'s army attack the gate but is hit behind by the recently rescued Elayne and her force. Arymilla's army soon surrenders.
+
+She is present at the meeting with the neutral High Seats and Elayne. There, they throw their support behind Elayne giving her the required Houses she needs to obtain the Lion Throne{{ref/book|11|35}}.
+{{notes}}
+{{DEFAULTSORT:Haevin, Catalyn}}
+
+[[es:Catalyn Haevin]]
+[[Category:Nobility]]

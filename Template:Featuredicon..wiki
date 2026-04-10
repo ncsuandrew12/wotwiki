@@ -1,0 +1,9 @@
+<div style="position:absolute; z-index:0; right:0px; top:0px; height:10px; width:300px;"></div>
+<div style="position:absolute; z-index:0; right:10px; top:0px;" class="metadata" id="administrator">[[File:Whitefeaturedicon.png|Featured Article|link=Wotwiki:Featured article]]</div>
+
+<noinclude>
+{{Documentation}}
+
+[[Category:Administrative templates|{{PAGENAME}}]]
+</noinclude>
+<includeonly>[[Category:Wotwiki featured articles|{{PAGENAME}}]]</includeonly>

@@ -1,0 +1,9 @@
+'''The Ruffled Goose''' is an inn located in the [[Kandor]]i capital of [[Chachin]]. It is located within the first ringwall of the city in a disreputable, run-down district.
+
+[[Moiraine Damodred]] visited the inn in {{ne|979}}, whilst trying to find [[Siuan Sanche]] for an arranged rendezvous. Her horse, Arrow, was almost stolen whilst she was inside.{{ref/book|0|23}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Ruffled Goose, The}}
+[[Category:Inns]]
+[[Category:Kandor]]

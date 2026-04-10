@@ -1,0 +1,16 @@
+{{character 
+| image=MurandyFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Murandian
+| occupation=Soldier
+| gender=Male
+| appeared={{acos|34}}
+| living=Acos
+}}
+'''Elver Shaene''' is the owner of a long boat in [[Cairhien]]. He is probably from [[Murandy]], as he wears a coat of Murandian cut. He is skinny and nearly bald, with only a thin fringe of gray hair left.
+==Activities==
+When the Dragon reborn goes to meet with the [[Sea Folk]] embassy on the River [[Alguenya]], Elver Shaene carries him and his companions to the Sea Folk ship. He tells Rand that it is an honor to carry him on his ship, but he seems very nervous and mops his head with a large handkerchief. Rand thinks to himself that Elver would plainly rather have his ship full of live vipers.
+
+{{short}}
+{{DEFAULTSORT:Shaene, Elver}}

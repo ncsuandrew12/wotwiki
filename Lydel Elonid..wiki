@@ -1,0 +1,18 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Innkeeper
+| gender=Female
+| mentioned={{wh|29}}
+| lastmentioned={{wh|29}}
+| living=wh
+}}
+'''Lydel Elonid''' is an [[innkeeper]] from [[Altara]].
+
+==Activites==
+Due to the activities in [[Ebou Dar]], [[Setalle Anan]] sells [[The Wandering Woman]] to Lydel Elonid before leaving the city with [[Matrim Cauthon]].
+
+{{Short}}
+{{DEFAULTSORT:Elonid, Lydel}}

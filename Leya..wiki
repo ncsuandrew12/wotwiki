@@ -1,0 +1,23 @@
+{{ character |image=Leaves.png
+| imagesize=120px
+| death={{ne|999}}
+| nationality=Tuatha'an
+| status=Dead
+| hair=Gray
+| gender=Female
+| appeared={{Tdr|1}}
+| lastappeared={{tdr|5}}
+}}'''Leya''' was a ''[[Tuatha'an]]'' woman who reported to [[Moiraine Damodred]].{{ref|{{twotc}}, Leya|Leya}}
+
+==Apperance==
+Gray-haired with a few lines on her face.
+
+==Activities==
+Leya rode into the Dragon's camp and was escorted inside by [[Perrin Aybara]] and some Shienarans soldiers.{{ref/book|3|1}} While she reported to Moiraine about conditions on [[Almoth Plain]], [[Min Farshaw]] had a viewing about Leya's death.{{ref/book|3|2}} Leya was injured during [[Rand al'Thor]]'s loss of control over the [[One Power]] and later died during the [[Trolloc]] attack.{{ref/book|3|5}}
+
+== Death ==
+She was killed by a [[Fade]].{{Ref||Leya}}
+
+{{notes}}
+{{short}}
+[[Category:Eyes-and-ears]]

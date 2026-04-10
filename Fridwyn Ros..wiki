@@ -1,0 +1,17 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Soldier
+| gender=Male
+| appeared={{cot|10}}
+| lastappeared={{cot|10}}
+| living=cot
+}}
+'''Fridwyn Ros''' is a former soldier who works at [[Aedmun Matherin]]'s manor in [[Andor]]. He manages Aedmun's estates when he is away. He is heavy-shouldered and has lost a leg, and so uses a crutch to move around. 
+==Activities==
+When [[Elayne]] stays the night at the Matherin manor, he is delighted to see her and says that he regrets that he can no longer ride for her. He is so sincere that Elayne thinks that if he were a liar, he would already have cheated Aemun and his clerk out of everything they own. Elayne also thinks to herself that she doesn't need to worry about Fridwyn carrying bad tales about her. When Elayne leaves, he scrapes together eleven men to escort Elayne back to the Royal Palace, even though most of able-bodied men on the estate have already left with Aedmun for [[Caemlyn]].
+
+{{Short}}
+{{DEFAULTSORT:Ros, Fridwyn}}

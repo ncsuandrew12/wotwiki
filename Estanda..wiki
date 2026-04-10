@@ -1,0 +1,28 @@
+{{ character
+| image=Estanda.jpg
+| imagesize = 250px
+| nationality=Tairen
+| gender=Female
+| title=High Lady
+| status=Alive
+| appeared={{tsr|21}}
+| lastappeared={{tgs|42}}
+| living=tgs
+}}
+'''Estanda''' is a [[High Nobility of Tear#List of High Lords and Ladies of Tear|High Lady]] of [[Tear]]. 
+
+== Appearance ==
+She has a stern face which masks her beauty.
+
+== Activities ==
+She has an intense dislike for the [[Alteima|High Lady Alteima]]. Alteima is sent to [[Cairhien]] with the Army of Tear, and Estanda is to look after her sick husband in her apartments until he has recovered.{{ref/book|4|21}}
+
+Later, in open rebellion and treason, she hides out in [[Haddon Mirk]]. She is convinced to do this by [[Sebban Balwer]]'s agents, who in turn is working for [[Pedron Niall]].
+
+She becomes the leader of the rebel [[High Nobility of Tear#List of High Lords and Ladies of Tear|High Lords]] of Tear and moves all her troops to the [[Stone of Tear]] where they lay siege, seizing any livestock that comes her way. She agrees to lift the siege if [[Darlin Sisnera]] is made King of Tear, in return she will pay the city for food for the next year but will retain her lands and titles.
+
+She greets [[Rand al'Thor]] with King Darlin when Rand withdraws his forces from [[Arad Doman]] back into Tear.
+
+{{notes}}
+[[Category:High Nobility of Tear]]
+[[Category:Nobility]]

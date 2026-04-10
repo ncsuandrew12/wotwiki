@@ -1,0 +1,31 @@
+{{character 
+| image=BlueAjah.png
+| imagesize=250px
+| nationality=Unknown nationality
+| occupation=
+| title=
+| gender=Female
+| build=
+| height=
+| affiliation=White Tower
+| ajah=Blue
+| rank=Aes Sedai
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+| ewot=
+| status=
+|birth =
+}}
+'''Nadira''' is an [[Aes Sedai]] of the [[Blue Ajah]]. Her [[Warder]] is [[Gable]].
+== History ==
+Nadira was communicating with [[Megda]] of the [[Green Ajah]] via ''[[ter'angreal]]'' when the other woman went to [[Toman Head]] to investigate claims of women harming others with the [[One Power]]. Communication stopped after Megda was taken ''[[damane]]'' by the [[Seanchan]], which worried Nadira, who went to the village of [[Aturo's Orchard]] on the border of [[Almoth Plain]] and Toman Head.
+
+Nadira later traveled to [[Tanchico]], where she began investigating the activities of [[Belyne]] Sedai, and learned that Megda had been able to escape [[Falme]] when the city was attacked by the [[Heroes of the Horn]].<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]<references />
+[[Category:Characters only mentioned in the RPG]]
+[[Category:Channelers]]

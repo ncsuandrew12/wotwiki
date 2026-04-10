@@ -1,0 +1,20 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|999}}
+| nationality=Aiel
+| gender=Female
+| affiliation=Car'a'carn
+| status=Dead
+| mentioned={{acos|2}}
+| lastmentioned={{acos|2}}
+| sept=Shelan
+| clan=Daryne
+| society=Far Dareis Mai
+}}
+'''Agirin''' is a [[Maiden of the Spear]] of the [[Shelan]] [[sept]] of the [[Daryne]] [[Aiel]].
+
+== Activities ==
+On the evening after the battle, [[Perrin Aybara]] finds [[Rand al'Thor]] sitting alone. Rand is grieving and upset over the death of 151 Maidens in the battle. Perrin sits and listens as Rand begins reciting the names of all the Maidens killed; Agirin's is the third name in the list<ref>{{7|2}}</ref>.
+
+{{notes}}

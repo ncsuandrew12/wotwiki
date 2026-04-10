@@ -1,0 +1,53 @@
+{{ character
+| image=Wot aludra by reddera-d51ydh7.jpg
+| imagesize=250px
+| status=Alive
+| birth={{ne|959}}
+| nationality= Taraboner
+| affiliation=Matrim Cauthon
+| occupation=Illuminator
+| gender=Female
+| weight=Slender
+| hair=Dark, Waist-length
+| appeared={{tgh|27}}
+| lastappeared={{amol|epilogue}}
+| living=amol
+}}'''Aludra Nendenhald''' is an [[Illuminator]] originally from Tarabon.
+
+== Appearance ==
+She is pretty, with large, dark eyes and a small, full mouth.{{ref/book|3|40}} She is slender with waist-length dark hair. She is thought to be in her mid thirties, though official sources have revealed that she is in her late thirties to early forties in the years leading up to [[Tarmon Gai'don]].{{ref/book|twotc|Aludra Nendenhald}}
+
+== History ==
+Aludra Nendenhald was born in {{ne|959}} in Tarabon to an Illuminator family. At some point, she rose to become Mistress of the chapter house in Cairhien.
+
+== Activities ==
+=== In the Guild ===
+She is kicked out of the Guild of Illuminators in [[Cairhien]] when [[Rand al'Thor]] destroys her fireworks in order to escape from Shadowspawn.{{ref/book|2|27}} While on the run, [[Mat Cauthon]] and [[Thomdril Merrilin|Thom Merrilin]] save her from members of her former guild who are trying to kill her for selling fireworks independently. As a reward she gives a few fireworks to Mat, which prove useful later on.{{ref/book|3|40}}
+
+=== Joining the circus ===
+Aludra then joins [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Circus]] and meets [[Nynaeve al'Meara]] and [[Elayne Trakand]] while they flee from [[Tanchico]].
+
+When Luca's traveling show stops in [[Ebou Dar]], she encounters Mat again, along with Tuon, Selucia, Thom, Juilin, Thera, and a number of freed ''damane'' and ''sul'dam''. The show again flees the Seanchan, this time with Mat and his companions as well. Mat tries to find out the secrets of Aludra's fireworks and even steals a few kisses from her, but she sends him on his way to find out how she could use a bellfounder.
+
+=== Dragon eggs ===
+[[File:Aludra.jpg|thumb|308x308px|Aludra]]
+Aludra begins working on a new type of weapon, called [[Dragons]] and Dragon Eggs, to avenge herself against the [[Seanchan]]. Dragons are bronze lofting tubes that launch powerful fireworks at a target and do great damage. They seem to be similar in design to early Turkish bombard cannons, though much smaller in size and delivering an explosive round instead of a round of solid metal or stone as was common in early cannons.
+Mat works out what she is doing with the bellfounder and in return she starts to give him the secrets to fireworks. She decides to leave Luca's show and continue traveling with Mat.
+
+She has created weapons from fireworks, such as an archaic form of grenade. She lights these and threw them into the Seanchan army chasing Tuon in pursuit of the one hundred thousand gold crown reward. The result was that the Seanchan force took heavy casualties and Aludra and her companions escaped.
+
+Aludra gives Mat a list of materials she will need in order to make the cannons for his army. It includes every bellfounder he can find as well as every possible scrap of tin and copper he can find. Mat grudgingly sets to work, after clearing the air of awkwardness between them after his marriage to Tuon.
+
+Aludra finally finishes the Dragons and gives [[Elayne Trakand]] a demonstration of their destructive power. Elayne is both horrified and excited by what the Dragons mean for future warfare.
+
+=== The new weapon ===
+[[Trolloc]]s invade Caemlyn and Aludra manages to move the Dragons away before they are captured by the Shadow with the help of local refugees. The Band finally manages to locate Aludra and begin to escort the Dragons as they try to escape the city. [[Dennel]] is about to give the order to destroy the Dragons before they are overrun by the Trolloc army when Talmanes orders them to turn and fire on the walls. The Dragons blow a gaping hole in Caemlyn's wall and the Band manages to escape through it. Aludra manages to escape through a gateway with all the other refugees to the [[Field of Merrilor]].
+
+Elayne's forces are finally able to lure out from the ruins of Caemlyn the Trolloc's army and to attract the enemy to [[Braem Wood]]. Aludra assisted by Talmanes, helps set up the dragons and fire on the approaching Trollocs, destroying thousands. During these skirmishes Aludra creates dragon teeth, which release bits of metal everywhere when ignited. The dragons begin to lose a lot of their effectiveness in the forest due to no clear targets. Elayne's army finally makes it to Cairhien. Elayne has Aludra and Talmanes set up the dragons in-front of the following Trolloc army and has them fire on the army once they are in range. The dragons decimate the Trolloc ranks.
+
+Aludra assisted by Talmanes, the Band, and some Asha'man moved the Dragons to a secure location. Gateways were opened to targets chosen by Mat, allowing the Dragons to fire without being attacked in return. Aludra survives the Last Battle.
+
+{{notes}}
+{{DEFAULTSORT:Nendenhald, Aludra}}
+[[Category:Entertainers]]
+[[Category:Inventors]]

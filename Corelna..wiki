@@ -1,0 +1,25 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| hair=Flaxen, graying
+| eyes=Green
+| status=Alive
+| clan=Unknown clan
+| sept=Unknown sept
+| appeared={{loc|25}}
+| lastappeared={{loc|25}}
+| living=loc
+| ewot=Corenla
+}}'''Corelna''' is an [[Aiel]] [[Wise One]].
+
+== Appearance ==
+She has green eyes and her flaxen hair is graying.
+
+== Activities ==
+She is one of the Aiel Wise One's to camp outside [[Cairhien]] after leaving the [[Aiel Waste]].
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.

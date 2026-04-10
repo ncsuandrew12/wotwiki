@@ -1,0 +1,74 @@
+<table border="0" cellspacing="0" cellpadding="0" style="float:right; clear:right; margin: 0 0 .5em 1em; width:200px; background:#ffffff; border-collapse:collapse; border:1px solid #999999; font-size:smaller; line-height:1.5;">
+<tr><td colspan="2"><div id="infoboxinternal">
+<table border="0" cellspacing="0" cellpadding="4" style="float:right; margin:0 0 0 0; width:100%; background:#ffffff; border-collapse:collapse;">
+<tr class="hiddenStructure{{{image|}}}" style="text-align:center;"><td class="hiddenStructure{{{image|}}}" colspan="2" style="padding:0; background:{{#switch:{{{ajah|}}}|Blue|blue=#4040ff|Green|green=#429346|Yellow|yellow=#fffd40|Red|red=#ff4040|Unknown|White|white=#ffffcc|Gray|gray=#6f6f6f|Brown|brown=#7e6731|Black|black=#181818|{{#switch:{{{race|}}}|Ogier|ogier=#1b9123|{{#switch:{{{ affiliation|}}}|Darkfriend|darkfriend=#181818|{{#switch:{{{rank|}}}|Chosen|chosen=#000000|#94C7D1}}}}}}}};">{{#if:{{{ImageSize|}}}|[[Image:{{{image}}}|{{{ImageSize|}}}]]|[[Image:{{{image}}}]]|}}</td></tr>
+<tr style="text-align:center; color:{{#switch:{{{ajah|}}}|White|white=#000000|Yellow|yellow=#000000|#FFFFFF}}; background:{{#switch:{{{ajah|}}}|Blue|blue=#4040ff|Green|green=#429346|Yellow|yellow=#fffd40|Red|red=#ff4040|Unknown|White|white=#ffffcc|Gray|gray=#6f6f6f|Brown|brown=#7e6731|Black|black=#181818|{{#switch:{{{race|}}}|Ogier|ogier=#1b9123|{{#switch:{{{ affiliation|}}}|Darkfriend|darkfriend=#181818|{{#switch:{{{rank|}}}|Chosen|chosen=#000000|#94C7D1}}}}}}}}; font-size:larger;"><th colspan="2">{{{name|{{PAGENAME}}}}}</th></tr> {{t|1=|1{{{hideb|}}}=<tr><th colspan="2" style="text-align:left; font-weight:normal; background:{{#switch:{{{ajah|}}}|Blue|blue=#8e8eff|Green|green=#69b86d|Yellow|yellow=#fffe8e|Red|red=#ff8e8e|Unknown|White|white=#FFFFFF|Gray|gray=#c2c2c2|Brown|brown=#b89669|Black|black=#505050|{{#switch:{{{race|}}}|Ogier|ogier=#a4673e|{{#switch:{{{ affiliation|}}}|Darkfriend|darkfriend=#505050|{{#switch:{{{rank|}}}|Chosen|chosen=#FFFFFF|#D6F0F5}}}}}}}};">'''Biographical information'''</th></tr>}} <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Nationality</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+Liverpool, England
+</td></tr><tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Date&nbsp;of&nbsp;birth</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+1985
+</td></tr>{{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Date&nbsp;of&nbsp;death</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+{{{death|}}}
+</td></tr>|1{{{death|}}}=}} {{t|1=|1{{{hidep|}}}=<tr><th colspan="2" style="text-align:left; font-weight:normal; background:{{#switch:{{{ajah|}}}|Blue|blue=#8e8eff|Green|green=#69b86d|Yellow|yellow=#fffe8e|Red|red=#ff8e8e|Unknown|White|white=#FFFFFF|Gray|gray=#c2c2c2|Brown|brown=#b89669|Black|black=#505050|{{#switch:{{{race|}}}|Ogier|ogier=#a4673e|{{#switch:{{{ affiliation|}}}|Darkfriend|darkfriend=#505050|{{#switch:{{{rank|}}}|Chosen|chosen=#FFFFFF|#D6F0F5}}}}}}}};">'''Physical description'''</th></tr>}} <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Race</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+Human
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Gender</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+Male
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Height</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+6'2"
+</td></tr> {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Build</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+{{{build|}}}
+</td></tr>|1{{{build|}}}=}} <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Hair&nbsp;color</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+Short Brown
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Eye&nbsp;color</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+Dark Brown
+</td></tr> {{t|1=|1{{{hidec|}}}=<tr><th colspan="2" style="text-align:left; font-weight:normal; background:{{#switch:{{{ajah|}}}|Blue|blue=#8e8eff|Green|green=#69b86d|Yellow|yellow=#fffe8e|Red|red=#ff8e8e|Unknown|White|white=#FFFFFF|Gray|gray=#c2c2c2|Brown|brown=#b89669|Black|black=#505050|{{#switch:{{{race|}}}|Ogier|ogier=#a4673e|{{#switch:{{{ affiliation|}}}|Darkfriend|darkfriend=#505050|{{#switch:{{{rank|}}}|Chosen|chosen=#FFFFFF|#D6F0F5}}}}}}}};">'''Chronological and political information'''</th></tr>}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">First&nbsp;mentioned</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+{{{mentioned|}}}
+</td></tr>|1{{{mentioned|}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">First&nbsp;appeared</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+{{{appeared|}}}
+</td></tr>|1{{{appeared|}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Era</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+[[{{{era|}}}]]
+</td></tr>|1{{{era|}}}=}} <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Affiliation</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+A Wheel of Time wiki 
+</td></tr> <tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Occupation</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+Mathematics Teacher.  Part-time postgraduate student.
+</td></tr> {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Title</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+{{{title|}}} {{#switch:{{{title}}}|Amyrlin=[[Category:Amyrlin Seats]]|Amyrlin Seat=[[Category:Amyrlin Seats]]|Lady=[[Category:Ladies]]|Lord=[[Category:Lords]]|High Lady=[[Category:Ladies]]|High Lord of Tear=[[Category:High Lords of Tear]]|Aes Sedai=<noinclude><!--Leave this blank! Do not put individual Aes Sedai into the parent category.  They belong under their Ajah subcat only --></noinclude>|Lieutenant-General=[[Category:Generals]]|Banner-General=[[Category:Generals]]|Captain-General=[[Category:Generals]]|Marshall-General=[[Category:Generals]]|First of Mayene=[[Category:Firsts of Mayene]]|First=[[Category:Firsts of Mayene]]|Wavemistress=[[Category:Wavemistresses]]|Sailmistress=[[Category:Sailmistresses]]|Mistress of the Ships=[[Category:Mistresses of the Ships]]|Roofmistress=[[Category:Roofmistresses]]|Empress=[[Category:Empresses]]|Daughter of the Nine Moons=[[Category:Daughters of the Nine Moons]]|Mistress of Novices=[[Category:Mistresses of Novices]]|Village Councillor=[[Category:Local Government]]|Mayor=[[Category:Local Government]]|King=[[Category:Rulers]]Queen=[[Category:Rulers]]}}
+</td></tr>|1{{{title|}}}=}} {{t|1=<tr style="spacing-top: 0px; spacing-bottom: 0px; vertical-align: middle; background: {{{3|#f0f0f0}}}"><td style="border-top: 1px solid #999; border-bottom: 1px solid #999;">Rank</td><td class="infoboxcell" style="border-top: 1px solid #999; border-bottom: 1px solid #999;">
+[[{{{rank|}}}]] {{#switch:{{{rank}}}|Lieutenant-General=[[Category:Generals]]|Banner-General=[[Category:Generals]]|Captain-General=[[Category:Generals]]|Marshall-General=[[Category:Generals]]|Wavemistress=[[Category:Wavemistresses]]|Mistress of the Ships=[[Category:Mistresses of the Ships]]|Mistress of Novices=[[Category:Mistresses of Novices]]|Sailmistress=[[Category:Sailmistresses]]}}
+</td></tr>|1{{{rank|}}}=}} </table></div></td></tr><tr><td id="infoboxend" class="plainlinks" style="text-align:right; width:49%;background:{{#switch:{{{ajah|}}}|Blue|blue=#8e8eff|Green|green=#69b86d|Yellow|yellow=#fffe8e|Red|red=#ff8e8e|Unknown|White|white=#FFFFFF|Gray|gray=#c2c2c2|Brown|brown=#b89669|Black|black=#505050|{{#switch:{{{race|}}}|Ogier|ogier=#a4673e|{{#switch:{{{ affiliation|}}}|Darkfriend|darkfriend=#505050|{{#switch:{{{rank|}}}|Chosen|chosen=#FFFFFF|#D6F0F5}}}}}}}}"></td><td style="text-align:left; width:51%;background:{{#switch:{{{ajah|}}}|Blue|blue=#8e8eff|Green|green=#69b86d|Yellow|yellow=#fffe8e|Red|red=#ff8e8e|Unknown|White|white=#FFFFFF|Gray|gray=#c2c2c2|Brown|brown=#b89669|Black|black=#505050|{{#switch:{{{race|}}}|Ogier|ogier=#a4673e|{{#switch:{{{ affiliation|}}}|Darkfriend|darkfriend=#505050|{{#switch:{{{rank|}}}|Chosen|chosen=#FFFFFF|#D6F0F5}}}}}}}}">&nbsp;&nbsp;[[Template:Infobox character|[Source]]]</td></tr></table>
+
+==About me==
+
+Started reading the Wheel of Time in 2004 as I was after a long series of fantasy books to read.  The series is amongst my favourite books and is my favourite High Fantasy. 
+
+==Favourites==
+===Wheel of Time books===
+*1.  The Eye of the World
+*2.  The Shadow Rising
+*3.  The Great Hunt
+*4.  The Gathering Storm
+*5.  The Fires of Heaven
+===Characters Like===
+*1.  Verin 
+*2.  Asmodean
+*3.  Loial
+*4.  Thom
+*5.  Mat
+*6.  Lan
+*7.  Tam
+*8.  Cadsuane
+*9.  Rhurac
+===Characters Dislike===
+*1.  Padan Fain
+*2.  Nynaeve (sometimes despised a lot sometimes not)
+*3.  Aviendha
+*4.  Mazrim Taim
+*5.  Weiramon
+===Scenes/Sequences===
+*1.  Mat during the Battle of Cairhien
+*2.  Perrin saving the Two Rivers
+*3.  Portal Stone to Falme
+*4.  Through the ''ter'angreal'' door
+*5.  Verin saying she is Black Ajah
+*6.  Egwene getting raised to Amyrlin
+*7.  Thom and Moiraine discussing each other in the Stone
+[[Category:Contributors]]

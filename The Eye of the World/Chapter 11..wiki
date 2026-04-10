@@ -1,0 +1,75 @@
+{{quote|Taren Ferry folk had a reputation for slyness and trickery. If you shook hands with a Taren Ferry man, people said, you counted your fingers afterwards.}}
+{{dablink|For the road by the same name, see [[North Road]]. For other uses of the word "road," see [[Road]].}}
+{{summary |book=1 |ewot=ch11 | wotmania=012 | tarvalon=234
+|chapter=11
+|title=The Road to Taren Ferry
+|icon=deadtree
+|setting=The [[North Road]], [[Watch Hill]], [[Taren Ferry]]
+}}
+==Summary==
+:{{pov|[[Rand al'Thor]]}}
+
+The horses gallop along the [[North Road]], [[al'Lan Mandragoran|Lan]] and [[Moiraine Damodred|Moiraine]] in front and [[Rand al'Thor|Rand]] in the rear, just behind [[Thom Merrilin|Thom]]. [[Cloud]] keeps wanting to race with Lan's horse, but Rand holds him back. Worried about [[Bela]]'s ability to keep up, and whether Lan would consider [[Egwene al'Vere|Egwene]] worth going back for, Rand exhorts her with all his heart to run,{{ref|Rand's mental urging of Bela may be his first, involuntary [[channel]]ing. He has a reaction the day after the party reaches Baerlon: {{1|15}}}} and she does.[[File:Watch Hill.jpg|thumb|150px|Watch Hill.]]
+
+They reach [[Watch Hill]] in record time and pause outside while the town's [[Bel Tine]] celebration is still going on. Thom, [[Matrim Cauthon|Mat]] and [[Perrin Aybara|Perrin]] urge a rest stop. Lan says that they cannot stop until they cross the [[River Tarendrelle|river]]. Moiraine is moving among the horses removing their fatigue. She notes that Bela is perhaps the least tired of all the horses.
+
+The [[Draghkar]] swoops low over them with a fearsome scream, panicking Cloud, who runs off with Rand still holding his reins. Rand manages to keep his hold until the horse halts his headlong rush, and looks back to see that the rest of the horses had also panicked, except for Lan's and Moiraine's. Watch Hill's celebrations stop for a moment, as they too have heard the scream.
+
+Lan says the Draghkar must have already told its master about them, so they can spare no more time to rest. Everyone promptly mounts except Rand, who is standing with his sword out, searching the sky for the Draghkar. He is embarrased when they call to him, so he leaps onto Cloud. They ride closer together this time, the Draghkar's cries following them, and Rand is surprised to see Egwene exulting in Bela's uncanny speed. Moiraine responds to a question from Lan that she cannot attack the thing from horseback in the dark; Draghkar are hard enough to kill when they can be seen. Instead, she summons a fog to cover their path. Lan says there is still only one possible destination, and Moiraine says she intends to use the [[Myrddraal|Halfman]]'s own cleverness against him.[[File:Taren Ferry.jpg|thumb|150px|Taren Ferry.]]
+
+They race on and on through the fog, the Draghkar's cries falling behind, for what seems like hours. Lan suddenly calls them to a halt, and Rand races past the group before he can rein in his horse. They have reached [[Taren Ferry]]. Lan and Moiraine lead them to the house of Master [[Hightower]], the ferryman. Lan pounds loudly on the door to wake him. The ferryman says the ferry never crosses at night, but Lan gives him enough gold to change his mind, and he goes to rouse his haulers.
+
+==Characters==
+* [[al'Lan Mandragoran]]
+* [[Mandarb]] (animal) - as ''black horse''
+* [[Moiraine Damodred]]
+* [[Aldieb]] (animal) - as ''Moiraine's white mare''
+* [[Rand al'Thor]]
+* [[Thomdril Merrilin]]
+* [[Cloud]] (animal)
+* [[Bela]] (animal)
+* [[Egwene al'Vere]]
+* [[Matrim Cauthon]]
+* [[Perrin Aybara]]
+* Master [[Hightower]]
+
+===Referenced===
+* [[Tam al'Thor]]
+
+==Groups==
+* [[Warder]]s
+* [[Trolloc]]s
+* [[Myrddraal]]
+* [[Aes Sedai]]
+* [[Draghkar]]
+
+==Places==
+* [[North Road]]
+* [[Watch Hill]]
+* [[Two Rivers]]
+* [[Taren Ferry]]
+
+===Referenced===
+* The [[White Boar]]
+* [[Tarendrelle]] as ''Taren''
+* [[Tar Valon]]
+* [[Emond's Field]]
+* [[Winespring Inn]]
+* [[Mountains of Mist]]
+
+==Events==
+===Referenced===
+* [[Bel Tine]]
+
+==Items==
+* [[Heron-mark sword]]
+
+==Concepts==
+* [[Pattern]]
+* [[Light]]
+
+===One Power===
+* [[One Power]]
+
+{{notes}}
+{{DISPLAYTITLE:''The Road to Taren Ferry''}}

@@ -1,0 +1,22 @@
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Taraboner
+| occupation=Tavernkeeper
+| affiliation=Tarabon
+| gender=Female
+| build=Sleek
+| appeared={{tsr|38}}
+| lastappeared={{tsr|38}}
+| living=tsr
+}}
+'''Selindrin''' is the proprietress of the [[Garden of Silver Breezes]] in [[Tanchico]].
+
+==Appearance==
+Selindrin is a sleek woman of indeterminate age. Her dark hair is worn in dozens of narrow braids and she wears a transparent veil across her face in the style of Tarabon.
+
+==Activities==
+Selindrin serves wine to [[Egeanin Tamarath]] and [[Floran Gelb]] in the main area of the Garden of Silver Breezes. In a more private meeting, she serves [[Jaichim Carridin]] as he meets with [[Nobility|nobles]] of Tarabon as well as the king, [[Andric]].{{ref/book|4|38}}
+
+{{notes}}

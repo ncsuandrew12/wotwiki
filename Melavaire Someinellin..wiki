@@ -1,0 +1,39 @@
+{{ character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=Melavaire
+| ajah=Gray
+| nationality=Cairhienin
+| rank=Aes Sedai
+| hair=Dark with white flecks
+| gender=Female
+| height=Short
+| build= Stout
+| status=Alive
+| affiliation=White Tower
+| appeared={{kod|24}}
+| lastappeared={{kod|24}}
+| living=kod
+}}
+'''Melavaire Someinellin''' is an [[Aes Sedai]] of the [[Gray Ajah]]. 
+
+== Appearance and Personality==
+Melavaire is a stout, short [[Cairhienin]] (inches shorter than Egwene), with flecks of white in her dark hair. 
+
+She was kindly, but could be fearsome when angry.
+
+==History==
+She is likely to be more than 150 years old as she has streaks of white in her hair, a sign of extreme age in an Aes Sedai.
+
+She has a Warder who is even wider than she.
+
+== Activities ==
+She remained loyal to the [[White Tower]] during the split.
+
+She is with [[Beonin Marinye]] when [[Egwene al'Vere]] confronts Beonin about betraying her. Melavaire is about to step in when Beonin tells her to wait to the side.
+
+{{DEFAULTSORT:Someinellin, Melavaire}}
+{{short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

@@ -1,0 +1,30 @@
+{{ character 
+| image=TarValonFlag.png
+| imagesize=250px
+| gender=Male
+| affiliation=White Tower
+| status=Dead
+| occupation=Soldier
+| appeared={{tom|22}}
+| lastappeared={{tom|42}}
+| death={{ne|1000}}
+| nationality=Unknown nationality
+}}
+'''Mazone''' was a soldier of the [[Tower Guard]].
+
+== Appearance ==
+He had dark skin.
+
+== Activities ==
+Since returning to the [[White Tower]], Mazone was one of a number of [[Younglings]] who decided that being a [[Warder]] was not the life for them. [[Gawyn Trakand]] told them to report to [[Jimar Chubain]] to become a member of the Tower Guard.
+
+When Gawyn returned to the White Tower, Mazone followed him to [[Egwene al'Vere]]'s quarters. There they found some [[Bloodknife]] assassins, and Mazone was killed in the scuffle.
+
+== Trivia ==
+* Mazone is named for Eric Mazsone, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{Notes}}
+[[Category:Younglings]]
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]
+[[Category:Tower Guards]]
+[[Category:Characters named after fans]]

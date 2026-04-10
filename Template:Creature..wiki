@@ -1,0 +1,130 @@
+<noinclude><p align="right" >
+'''[[EWoT]]:''' <span class="plainlinks">[http://encyclopaedia-wot.org/creatures/{{#if:{{{elephants|}}}|{{#replace:elephants}}|{{{type|}}}/{{#replace:{{lc:{{{ewot|{{{name|{{PAGENAME}}}}}}}}}}}}| | |_}}.html {{{name|{{PAGENAME}}}}}]</span>
+</p></noinclude>
+<infobox>
+    <image source="image"/>
+    <title source="name">
+        <default>{{PAGENAME}}</default>
+    </title>
+    <group>
+        <header>Biographical Information</header>
+        <data source="status">
+            <label>Current status</label>
+            <default>Alive</default>
+        </data>
+        <data source="animal">
+            <label>Animal type</label>
+            <format>{{#switch:{{{animal}}}|S'redit=[[S'redit|''S'redit'']]|Lopar=[[Lopar|''Lopar'']]|{{#if:{{{animal}}}|[[{{{animal}}}]]}}}} {{#switch:{{{animal}}}|Horse=[[Category:Horses]]|Wolf=[[Category:Wolves]]|Cat=[[Category:Cats]]|Lopar=[[Category:Seanchan animals]]|Trolloc=[[Category:Other non-humans]]|S'redit=[[Category:Seanchan animals]]|Wolfhound=[[Category:Other animals]]}}</format>
+        </data>
+    </group>
+    <group>
+        <header>Physical description</header>
+        <data source="gender">
+            <label>Gender</label>
+        </data>
+        <data source="color">
+            <label>Color</label>
+        </data>
+        <data source="height">
+            <label>Height</label>
+        </data>
+    </group>
+    <group>
+        <header>Chronological {{#ifeq:{{{type|}}}|horses|and ownership |}}{{#ifeq:{{{type|}}}|pets|and ownership |}}{{#ifeq:{{{type|}}}|cat|and ownership |}} information</header>
+        <data source="mentioned">
+            <label>First mentioned</label>
+        </data>
+        <data source="appeared">
+            <label>First appeared</label>
+        </data>
+        <data source="lastmentioned">
+            <label>Last mentioned</label>
+        </data>
+        <data source="lastappeared">
+            <label>Last appeared</label>
+        </data>
+        <data source="owner">
+            <label>Owner</label>
+            <format>[[{{{owner}}}]]</format>
+        </data>
+    </group>
+    <navigation>[[Template:Creature|[Source]]]</navigation>
+</infobox><!-- TEMPLATE ENDS HERE. In order to regenerate the template, replace the code above with the source code provided. --><noinclude>__NOTOC__
+{{clear}}
+
+
+===Field list===
+<pre>
+{{creature
+| image= (leave blank if not available)
+| imagesize=Leave blank if image size is fine at original size
+| animal=Type of animal (horse, wolf, ''lopar'', cat, trolloc, wolfhound)
+| type=must be used for EWoT, see section below for proper coding
+| elephants=ONLY used by ''s'redit'' articles, see section below for more info
+| ewot=If name is different at Encyclopaedia WoT
+| name=Name of animal (defaults to PAGENAME)
+| status=(Use "Alive" if still alive, leaving the field blank or not using it will do the same as "Alive", 
+use "Unknown" or "Debatable" if not known and use "Dead" if deceased)
+| owner=Owner of the animal
+| gender=Gender of animal (stalion, gelding, mare, male, female)
+| color=Color of animal (bay, dapple, brown, black)
+| height=Height of animal, if known
+| appeared={{book abbrev|chapter number}}
+| mentioned={{book abbrev|chapter number}} (only if different from appeared)
+}}
+</pre>
+
+===Display parameters===
+Add these any where in the template
+*hideb=y(To hide Biographical information)
+*hidep=y(To hide Physical description)
+*hidec=y(To hide Chronological and political information)
+
+===EWoT link parameters===
+There are two EWoT link parameters that are used in this template. Only one needs to be used, either "type" or "elephants." Do not use both.
+
+The "type" parameter is used for all animals '''except''' ''s'redit''. For this parameter, the word in quotation marks in the list below is what needs to be in the "type" field. When using this parameter, do not use the "elephants" parameter.
+*A horse = "horses"
+*A wolf = "wolves"
+*A ''lopar'' = "pet"s
+*A cat = "pets"
+*A wolfhound = "pets"
+*A Trolloc = "trollocs"
+
+The "elephants" parameter is '''only''' used for ''s'redit''. What is typed into the parameter field does not mater (e.g. "elephants=yes" and "elephants=no" will both work). When using this parameter, do not use the "type" parameter.
+
+===Example===
+<pre>
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| ewot=Aldieb
+| type=horses
+| name=Aldieb
+| status=Alive
+| owner=Moiraine Damodred
+| gender=Mare
+| color=White
+| appeared={{TEOTW|2}}
+| mentioned={{TEOTW|1}}
+}}</pre>
+
+===Usage===
+Paste the following code into the top of section, filling all known fields. Remove any unused fields. 
+<pre><nowiki>{{creature
+| image=
+| imagesize=
+| ewot=
+| name=
+| type=
+| animal=
+| status=
+| owner=
+| gender=
+| color=
+| height=
+| appeared=
+| mentioned=
+}}</nowiki></pre>
+
+[[Category:Infobox templates]]</noinclude>

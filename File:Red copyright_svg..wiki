@@ -1,0 +1,7 @@
+{{Image
+| License            = Public Domain
+| ImageType1          = Admin
+| Description        = Red copyright symbol
+| Source             = [[Commons:File:Red copyright.svg]]
+}}
+[[Category:Licensing]]

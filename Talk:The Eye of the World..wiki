@@ -1,0 +1,48 @@
+{{enWPcontent|The Eye of the World}}
+
+==Disambig==
+Wow, our first disambiguation question! We've got both a book and a place by this name; which one gets the normal article and which gets a parenthetical note? I'm inclined to say that the book should get '''(book)''' put after it, but I'm lobbying for an [[project:OOC|immersive]] experience, so I'm curious what others have to say. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+:My impulse is to care less about the immersive experience in this case, because there is not much interesting that can be said about the Eye itself.  When I first read TEotW, I looked upone the Eye as a convenient plot device to introduce the potential of Rand's power, and didn't think much of it.  I think the box on pg. 248 of the Guide pretty much covers everything we need to know about the Eye, and don't think it's worth more than a parenthetical note outside of our summary of the corresponding chapter(s). --[[User:Gherald|Gherald]] 18:27, 24 Oct 2005 (UTC)
+:: I guess what I'm more concerned about is when people link to one, thinking it's the other. I saw this on Wikipedia several times: "''and Rand killed Aginor at [[the Eye of the World]]...''" which then sent me to the book, not the place. What do you think of the proposal below? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 19:04, 24 Oct 2005 (UTC)
+::: No opinion, really, because I don't think the actual Eye is that important.  If you or anyone else want to use [[Eye of the World]], I don't much care one way or the other, I just think [[The Eye of the World]] should be the book. --[[User:Gherald|Gherald]] 19:12, 24 Oct 2005 (UTC)
+::::Not important?  I could totally write several pages about the Eye.  In fact, I have before, and have asked RJ questions about it at a signing a few years ago.  I think the current disambiguation scheme should work (and note that we'll have it again with "The Dragon Reborn"), but when this place starts kicking, we'll start having a LOT to say about such things. [[User:Dairhenien|Dairhenien]] 17:00, 27 Oct 2005 (UTC)
+::::: Different strokes, I guess.  My lasting impression after finishing the book was "Gee, what a lame ending"  (see The Eye of the World (abridged) if you don't agree) ...  and I remained very annoyed at RJ for making me go through 1000 pages what amounts to a C ending.  Thankfully, I borrowed the book from my roommate rather than doing something strenuous like buying or checking it out from the library, so I wasn't obliged to stop reading the series out of principle, and it remaind a useful distraction from Calculus and such.  Of course once stuff actually started happening in TGH (read: 2,3, perhaps even 400 pages into it) I was hooked.  But I still hate the last 200 pages or so of TEotW, and would personally have a hard time writing anything more apropos than "The (predictible, cliched, dumb) END".  That said, by all means, knock yourself out! --[[User:Gherald|Gherald]] 17:35, 27 Oct 2005 (UTC)
+::::::Hooray for collaborative efforts! [[User:141.161.98.111|141.161.98.111]] 18:01, 27 Oct 2005 (UTC)
+An alternative is to title the place article [[Eye of the World]], which I've done with the concept [[Wheel of Time]], to differentiate it from the series title. I still had to make [[The Wheel of Time Roleplaying Game]], or at least I've got a link to it somewhere... [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 18:02, 24 Oct 2005 (UTC)
+
+:I'd actually request a setup as follows, in the interests of clarity: The Eye of the World (Book) vs. The Eye of the World (Place). One of the great advantages a computerized reference work has over a traditional one is being able to use articles freely where appropriate... Bloody heck! Gotta sign up for an account! (The Confessor)[[User:70.19.175.249|70.19.175.249]] 19:09, 4 Nov 2005 (UTC)
+
+::I'd like to avoid parenthesis in article names at all costs.  Ommiting The seems accurate to me, because a capital The is only required for the book title.  The place appears in the books as "the Eye of the World", and hence according to our [[help:style guide]] shouldn't even have "the " as part of the link --[[User:Gherald|Gherald]] 02:06, 7 Nov 2005 (UTC)
+
+== enWP ==
+
+I like The Confessor's move of the wikipedia-link to the end of the page; it makes the article flow much better. Probably worth doing that everywhere; what do people think? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 21:18, 4 Nov 2005 (UTC)
+
+:I think we should move it to the bottom (read: a less prominent, noticeable place) only when our article beats Wikipedia's article. As it is, if WP's EotW article is better, we would be doing our readers a disservice. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 18:06, 6 Nov 2005 (UTC)
+
+:: I agree.  In the case of the books, RJ, and TWoT it quite possibly should never be done, since we do not aim to duplicate Wikipedia's already excellent articles on these subjects.
+
+== Book Page Format ==
+
+Are people generally *okay* with how information for this book is represented?
+I decided to go with a small capsule summary of the book plot because the book theme - 'Find The Eye of the World', for example or 'retrieve The Horn of Valere' - often does little to advance the overall plot of the series as a whole. More in-depth plotting can be included in pages devoted to the individual chapters.
+I'm approaching themes which tie the books together using the "Plot Development by Character" section. For now, I'm starting with the three ta'veren, but Egwene and Nynaeve, and possibly Elayne, Aviendha, and Min would also be candidates for inclusion, along with lesser characters who have at least one POV chapter in said book.
+Which brings me to Statistical Analysis, which I've included mainly because I've got a festering case of OCD... In the end, however, it may prove useful in "proving" the relative importance of characters (including which should generally be included in the Plot Development by Character section) using definitive statistics.
+Comments/Criticism appreciated. --[[User:The Confessor|The Confessor]] 00:01, 5 Nov 2005 (UTC)
+
+:If we are going to have sections like that, I think we need a section on political developments as well.  This isn't as apparant for this book, but in some of the later ones, character developments spawn a number of important political developments which probably shouldn't be given in the plot summary or the character development summary. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 18:08, 6 Nov 2005 (UTC)
+
+::New sections are ok as long as you group them appropriately: --[[User:Gherald|Gherald]] 02:04, 7 Nov 2005 (UTC)
+ ==Plot summary==
+ ===Character developments===
+ ===Political developments===
+
+===Infobox chapters===
+Gherald, I know you've done a ton of work getting these infoboxes to work right, but what are the possibilities of getting it to create a two-column table at the bottom of the page, instead of a tall box on the side? Unless we vastly change the layout of monobook.css, you're stealing 1/3 of the usable space, if not more, at 800x600. I kind-of like the chapter titles being there instead of just numbers, but if we can't make it more compact, I'll recommend going back to something like [http://wot.wikicities.com/index.php?title=The_Eye_of_the_World&oldid=1003]. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 20:05, 8 Nov 2005 (UTC)
+* <s>Yeah, I've been waiting for some feedback on this question since I first made them.  They look great at 1600x, of course, and I try to test everything at 1024x and they don't seem ''too'' ridiculous there, but I honestly couldn't care less about anyone at 800x.   Is there a way to make the full version automatically (dis)appear at certain resolutions? Perhaps in a .js file ? I was thinking a vertical list of just numbers for everything below 1152x, and making perhaps making it optional at 1024x via some User:/.js file --[[User:Gherald|Gherald]] 22:08, 8 Nov 2005 (UTC)</s>
+* Actually, how about a good old fashioned relative table width? (inspired by [[m:Template:H:h Help]] which includes things like [[m:Template:System admin toc]], and looks like [[m:Help:Installation]]).  Check it out now.--[[User:Gherald|Gherald]] 22:34, 8 Nov 2005 (UTC)
+** Since 25% or so of users online still use 800x600 [http://www.w3schools.com/browsers/browsers_stats.asp], I cannot agree that we should just stop caring about those users. However, I do like the somewhat narrower format and smaller text, but them my work computer is set at 1024x, I believe. Is there any way to keep the chapters from word-wrapping without your <code>&amp;nbsp;</code> trick? [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 16:20, 9 Nov 2005 (UTC)
+
+== Movie ==
+
+They're thinking of Making a movie on this book. Do you guys realize that if they manage to make Movies on all 12 books of this series then it might very well be the largest movie series of all. See List of Fantasy Films in Wikipedia, its slated for 2012, I checked. I hope it works well. I love this series. Whoo! [[User:Zero2001|Zero]] - [[User Talk:Zero2001|Talk]] 15:29, 8 September 2008 (UTC)

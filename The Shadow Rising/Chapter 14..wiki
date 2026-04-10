@@ -1,0 +1,48 @@
+{{summary | book=4 |
+|chapter=14
+|title=Customs of Mayene
+|icon=Wolf
+|setting=[[Stone of Tear]]
+}}
+
+==Summary==
+: {{pov|[[Perrin Aybara]]}}
+
+[[Perrin Aybara|Perrin]] is in his room, having just said goodbye to [[Mat]]. He is packed and ready to go to the [[Two Rivers]] with [[Loial]] in the morning. [[Berelain]] enters his room uninvited, catching him in the middle of changing shirts. Since Perrin is friends with [[Rand]],{{ref|Since the night she attempted to seduce Rand and was terrorized by the [[bubble of evil]], Berelain has avoided Rand.}} Berelain asks him to relay the news that she will leave the next day for [[Godan]], then to [[Mayene]]. When Perrin refuses to be her messenger, she reassesses him and invites him to visit Mayene to "make ornamental ironwork" for her bedchamber before he heads to the Two Rivers, though she clearly has other intentions.{{ref|Berelain pursues men with power in order to protect her small country and knows that Perrin is close friends with the [[Dragon Reborn]], [[Rand]].}} Perrin refuses her offer, but when [[Faile]] enters, Berelain deliberately flirts with him one last time and tells him that she always gets what she wants before leaving. Perrin is uneasy when Faile calmly doesn't mention Berelain. 
+
+Faile approaches Perrin with rumors of [[Whitecloaks]] spotted in the Two Rivers. He shares his plan to get there via the [[Ways]] to arrive in days instead of weeks. Faile asks when "they" are leaving, but he says he's leaving without her. Finally, she explodes in anger about Berelain. Using the opportunity to push Faile away, Perrin pretends to show interest in Berelain causing Faile to storm out of the room. While his heart wants to pursue Faile, his sense of duty pushes him forward to likely execution by the Whitecloaks. His full plan includes sacrificing himself to appease the Whitecloaks and thus allow the Two Rivers to escape their wrath as well as keeping Faile away from that danger and witnessing his death.
+
+:{{pov|[[Faile Bashere]]}} 
+
+Faile stalks through the [[Stone of Tear]] and confronts Berelain in the hallway. She claims Perrin as hers and warns Berelain to stay away. Berelain dismisses her as a servant or farmgirl, which causes Faile to almost reveal her noble [[:Category:Saldaea (people)|Saldaean]] heritage before she stops herself. Instead, she answers with a knife and a warning for Berelain to back off. Berelain overpowers her, disarms her, and mentions that the [[First of Mayene|Firsts of Mayene]] are trained in close combat to defend against [[:Category:Tear (people)|Tairen]] assassins.
+
+Berelain continues to taunt Faile, vowing to take Perrin away from her and keep him as a pet for as long as it amuses her, [[Ogier]]'s oath on it.{{ref|This gives Faile an idea to make Perrin take her along to the Two Rivers as later shown in {{4|16}}.}} Faile draws a second knife and advances to attack again but [[Rhuarc]] suddenly appears and disarms both of them. He twists Faile's arm when she attempts to punch him, and firmly orders Berelain to return to her room and stay there, with no breakfast in the morning. He sends Berelain running with a threat to repeat their first talk together.{{ref|Berelain expressed interest in Rhuarc, the leader of the [[Aiel]] in the Stone, in her first appearance in {{3|56}} but she was apparently strongly rebuffed.}} Rhuarc keeps Faile's two knives as her punishment and warns her of harsher penalties if she or Berelain do not keep the peace. After Rhuarc leaves, Faile is determined that Perrin will be hers by the time they see Berelain again.
+
+==Characters==
+*[[Perrin]]
+*[[Berelain]]
+*[[Faile]]
+*[[Rhuarc]]
+
+===Referenced===
+*[[Mat]]
+*[[Rand]]
+*[[Moiraine]]
+*[[Thom]]
+*[[Loial]]
+
+==Places==
+*[[Stone of Tear]]
+
+===Referenced===
+*[[Tear]]
+*[[Two Rivers]]
+*[[Godan]]
+*[[Mayene]]
+*[[Emond's Field]]
+*[[Saldaea]]
+
+{{notes}}
+*At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''Customs of Mayene''}}

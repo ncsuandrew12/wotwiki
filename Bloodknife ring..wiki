@@ -1,0 +1,13 @@
+{{dablink|For other uses of the word "blood," see [[Blood]].}}
+A '''Bloodknife ring''' is a ''[[ter'angreal]]'' made by the [[Seanchan]].
+
+==Appearance==
+The ''ter'angreal'' is a black stone ring.
+
+==Use==
+With a touch of the user's blood, the ''ter'angreal'' grants the wearer incredible strength and speed, as well as the ability to shroud themselves in shadows. The ring drastically shortens a person's lifespan, however, but as [[Bloodknives]] are used for suicidal destructive missions, they are the only ones who wear the rings, as they expect to die shortly anyway. Removing the ring can slow the dying process slightly.{{ref/book|12|36}} [[Demandred]] mistook the effect, including the lethality to the subject, for "Nights Shade", a weave from the [[Age of Legends]], hinting at a connection between the two.{{ref/book|14|37}}
+
+{{notes}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]

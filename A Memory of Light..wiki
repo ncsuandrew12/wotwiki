@@ -1,0 +1,389 @@
+{{#invoke:Books|chapter_nav|book={{PAGENAME}}}}
+{{dablink|For the history of ''A Memory of Light'', see [[The history of A Memory of Light|here]], For other uses of the word "light," see [[Light (disambiguation)|Light]].}}
+[[File:AMOL_cover_lg.jpg|thumb|left|200px]]'''''A Memory of Light''''' (abbreviated '''aMoL''') is the fourteenth and final book in ''[[The Wheel of Time]]'' series. It was due for publication in late 2012, however Tor later announced that the final volume would be released on January 8, 2013.{{ref|http://www.brandonsanderson.com/blog/1044/First-Draft-Finished--Updates}}
+{| cellspacing="0" cellpadding="5px" style="border:none;"
+|-
+|'''''<<<''' Previous: [[Towers of Midnight]]''
+|}
+== Pre-release material==
+Four excerpts of the final book have been released on the publisher's website, Tor.com. An excerpt of the [[A Memory of Light/Prologue|prologue]] on April 26, an excerpt of [[A Memory of Light/Chapter 1|chapter one]] on July 15, an excerpt of [[A Memory of Light/Chapter 11|chapter eleven]] on September 2, 2012, and an excerpt of [[A Memory of Light/Chapter 3|chapter three]] on December 30, 2012.{{ref|http://www.tor.com/stories/2012/04/a-memory-of-light-prologue-excerpt Excerpt from the prologue}}{{ref|http://www.tor.com/stories/2012/07/read-an-excerpt-from-chapter-one-of-a-memory-of-light Excerpt from Chapter One.}}{{ref|http://www.tor.com/stories/2012/09/a-memory-of-light-chapter-11-excerpt Excerpt from Chapter Eleven.}}{{ref|http://www.npr.org/2012/12/29/168075551/exclusive-first-read-a-memory-of-light-by-robert-jordan-and-brandon-sanderson}}
+
+It was announced that the [[A Memory of Light/Prologue|prologue]] of the book would be released as an e-book on October 2, 2012, however it was released early on September 19 due to accidental release in some regions.{{ref|http://www.tor.com/blogs/2012/09/spoiler-thread-for-a-memory-of-light-prologue-qby-grace-and-banners-fallenq Spoiler thread for the prologue.}}
+
+On September 26, 2012, the full text of chapter one was released on Tor.com.{{ref|http://www.tor.com/stories/2012/09/a-memory-of-light-chapter-1-qeastward-the-wind-blewq Full text of Chapter One.}}
+
+On October 24, 2012, audio from chapter two was released on Tor.com.{{ref|http://www.tor.com/images/stories/audio/Memory-of-Light-chapter2.mp3 Audio file of Chapter Two}}
+
+==Plot Summary==
+===A beginning ===
+In the prologue, the armies of the [[Westlands]] assemble in preparation for [[Tarmon Gai'don]], as do the forces of the [[Shadow]]. The [[Forsaken]] [[Demandred]] stages a raid on the city of [[Caemlyn]], sending [[Trollocs]] to capture [[Aludra Nendenhald]]'s [[Dragons]], developed jointly by [[Matrim Cauthon]], Queen [[Elayne Trakand]] and the Illuminator [[Aludra Nendenhald]]. [[Talmanes Delovinde]] and the Band of the Red Hand launch their own counterattack and successfully remove the Dragons out of the city, but Caemlyn is lost. The [[Light]] is bolstered by people coming from all over the world to fight, sensing the end of all things. The Shadow welcomes [[Mazrim Taim]] as a new [[Forsaken]] to their ranks in thanks for his service in turning many [[channelers]] to the Shadow. He has been given a new name by the Shadow, known only as [[M'Hael]]. Another of the Forsaken is present at the meeting, an ugly woman called [[Hessalam]], known before as Graendal.
+
+===The Field of Merrilor===
+
+[[Rand al'Thor]], the Dragon Reborn, prepares to host a meeting of all the nations of the Westlands on the Field of Merrilor, where he will attempt to persuade them to fight in Tarmon Gai'don. In the meanwhile, Mat returns to [[Ebou Dar]] on a mission to locate [[Tuon]], only to find the city crawling with assassins sent by one of her generals. At the [[Black Tower]], the internal struggle between Taim and [[Logain Ablar]] has boiled over into open conflict, with Logain missing and Taim using a form of brainwashing to turn people to the Shadow. The few [[Asha'man]] still loyal to Logain, led primarily by [[Androl Genhald]] and [[Aes Sedai]] ambassador [[Pevara Tazanovni]], stage a rescue attempt.
+
+Rand hosts his meeting, with many rulers in favor of his plan and others, particularly [[Amyrlin Seat]] [[Egwene al'Vere]], in opposition. However, his "price" - a treaty called "The Dragon's Peace" in which borders are fixed and war is outlawed - and his plan, to shatter the remaining [[Seals]] on the [[Dark One's prison]], lead to widespread argument. It is only when [[Moiraine Damodred]] shows up and not only convinces all the nations to fight (by referring to specific parts of the [[Prophecies of the Dragon]]) but also convinces Egwene to not only go along with the plan but to break the seals herself, that the leaders become willing to sign. [[Aviendha]] and the other [[Aiel]], surprisingly, demand to be subject to the treaty (spurred on, unbeknownst to Rand, by Aviendha's post-apocalyptic [[Rhuidean]] visions during [[Towers of Midnight]]), and are written in as arbiters of any dispute; and Rand agrees to get the [[Seanchan]] to sign it before it is put into effect. Finally, Elayne Trakand is named commander-in-chief of the forces of the Light.
+
+===The war===
+Elayne dispatches her forces to four different campaigns. Caemlyn is to be retaken by [[Andoran]] and [[Cairhien]]en troops, as it provides the Shadow a central location from which to strike most of the west. In the [[Borderlands]], [[Kandor]] and [[Tarwin's Gap]] are both being overrun by [[Trolloc]]s, the latter despite all efforts of [[Lan Mandragoran]] and the people of the destroyed nation of [[Malkier]] to hold it; Egwene leads her Aes Sedai to reinforce the former, while the latter becomes the new battlefield for all of the [[Borderlander]]s. And lastly, Rand himself will be leading a force, consisting primarily of Aiel, into [[Shayol Ghul]] itself, there to face The Dark One. Additionally, the four remaining "[[Great captain]]s" are available to serve, and Elayne attaches one to each campaign: [[Gareth Bryne]] at [[Kandor]], [[Agelmar Jagad]] in [[Shienar]], [[Rodel Ituralde]] to Shayol Ghul and [[Davram Bashere]] to serve Elayne directly at Caemlyn.
+
+The fighting on all sides is desperate, but Elayne's is most so: her mission is to strike decisively at Caemlyn and, at victory, reassign her forces to the delaying actions at Kandor and Shienar. Unfortunately, all four commanding generals begin making mistakes that prolong each campaign: [[Graendal]], now reincarnated into an exceptionally ugly body and renamed [[Hessalam]], uses [[Compulsion]] on them, leading to costly extra fatalities. However, Rand manages to score a victory by visiting Tuon in Ebou Dar. While she is a descendant of [[Artur Hawkwing]], who once ruled the whole land partway through the [[Third Age]], he as [[Lews Therin]] ruled the entire world during the Second Age. Thus he secures their agreement to fight, and to the peace treaty offered to the other nations (with a few provisions on captured [[channelers]], and who may be captured in future). The Seanchan march to battle with Mat as one of their generals.
+
+Rand now moves to the [[Pit of Doom]] with his force, whose orders are to defend the canyon until he has finished his business. They survive fairly well: Time moves much more slowly that close to the Bore, allowing Rand to begin the confrontation midway through the book while much rages around him, and also limiting the amount of damage Ituralde can do. Taking only Moiraine, [[Nynaeve al'Meara]] and the powerful ''[[sa'angreal]] [[Callandor]]'', he enters the Pit of Doom and finds [[Moridin]]. The two begin to duel, interrupted only when Rand steps too close to the hole in the Pattern and makes contact with the Dark One himself. Meanwhile, [[Perrin Aybara]] enters ''[[Tel'aran'rhiod]]'' in order to protect Rand from the depredations of [[Slayer]], his personal nemesis. In this he meets with an unlikely ally: [[Lanfear]], who evidently sees much in him of what she liked in Lews Therin. Unfortunately, Slayer wins, and Perrin retreats for [[Healing]], gravely wounded. Finally, Rand's grand plan to break the seals on the Dark One's prison is stymied when he and Egwene become aware that they do not have the remaining seals: some time before Rand gave them to her at the Field of Merrilor, they were switched with decoys.
+
+Elayne's forces put [[Caemlyn]] to the torch to force the [[Trolloc]]s to pursue. However, partially due to Bashere's "mistakes," they become pinned outside [[Cairhien]], pursued by not only the [[Caemlyn]] Trollocs but a new force brought up from the north. Only the unexpected intervention of [[Logain]] and his loyal [[Asha'man]] are able to save them. The battle at [[Tarwin's Gap]] becomes a rout as the defenders are pushed back into [[Shienar]]. At [[Kandor]], Egwene and the Aes Sedai are able to hold their own against the Trollocs until they are unexpectedly outflanked: the nation of [[Shara]], mentioned as early as [[The Eye of the World]] but so far unseen in the series, opens hostilities, killing a significant number of Aes Sedai. At their head is "[[Demandred|Bao the Wyld]]," a charismatic leader who reveals himself to be [[Demandred]], the sole Forsaken whose plans were thus far unrevealed. Mat and the Seanchan ride to their rescue, but the matter is exacerbated by Bryne's not-yet-revealed Compulsion. Realizing that Mat's [[foxhead medallion]] makes him the only person in the world immune to Compulsion, Egwene decides to put him in operational command of their forces. Taking stock of their losses, Mat decides to gather their remaining troops at the Field of Merrilor for Tarmon Gai'don—The Last Battle.
+
+===The Last Battle ===
+Primarily in a single chapter of 190 pages, the forces of Light and Shadow clash on the Field of Merrilor. With perhaps a week to fortify, Mat is as prepared as he will get, but his forces are already tired and depleted from weeks of grueling battle. Demandred, one of the greatest generals of the Age of Legends, leads the opposition, consisting of hundreds of battle-trained channelers of both genders—some Sharan and some from M'Hael and his Turned followers—and a seemingly-inexhaustible supply of Trollocs.
+
+The battle rages back and forth, with Mat sending out orders from his command post. It becomes quickly apparent that the Shadow have a spy embedded in his command structure, forcing him to discard the battle plan and improvise against superior forces. Demandred arrives in power, at the head of a full circle of seventy-two linked channelers and bearing a Power-amplifying ''[[sa'angreal]]'', and begins tearing apart the forces of the Light, starting with the "Dragon" cannons that Mat had placed on the high ground. To lure Demandred into over-committing, Mat stages a public falling-out with Tuon, and the Seanchan depart the field. Perrin, though exhausted, receives Healing and returns to the World of Dreams to continue his pursuit of Slayer. At Shayol Ghul, Aviendha and the other Aiel defenders find their lives complicated when [[Graendal]] takes the field against them. And a critical piece of cargo--[[The Horn of Valere]], currently in care of [[Faile Aybara]] with orders to deliver it to Mat—accidentally goes astray in the [[Blight]], forcing Faile to improvise.
+
+Demandred and the M'Hael cause widespread devastation with their channeling, and Demandred continues to bellow that Rand must come out and face him. [[Gawyn Trakand]], Egwene's Warder, correctly identifies him as the linchpin of the Shadow's forces and attacks him directly. Unfortunately, he is no match for one of the Forsaken and is mortally wounded. His elder half-brother [[Galad Damodred]], [[Lord Captain Commander]] of the [[Whitecloaks]], is severely wounded trying the same. Mat's command post is attacked directly by Sharan forces (providing a useful impetus for his fake argument with Tuon), and [[Siuan Sanche]] is killed in the defense. Elayne is waylaid by several [[Darkfriend]] Guardsmen, who arrange for a duplicate to be seen dead at her horse, and kill [[Birgitte]]. Faile's contingent arrive at Merrilor by disguising themselves as a supply convoy for the Shadow, but are almost immediately betrayed from within. Faile sacrifices herself as a distraction while [[Olver]] rides the horse [[Bela]] towards Mat's banner. Bela is killed out from under him and Olver finds himself cornered by Trollocs.
+
+Androl and Pevara, working through disguises, manage to track down M'Hael and steal from him the remaining seals on the Dark One's prison. Egwene, though emotionally traumatized by the loss of her Warder and husband and exhausted from wielding a ''sa'angreal'' of her own, then takes the field against M'Hael. He uses [[balefire]] to sweep a number of Aes Sedai from the field, instantly reviving thousands of his comrades, but Egwene discovers a new weave, named semi-symbolically "[[the Flame of Tar Valon]]," that can counter balefire and restore the holes in the [[Pattern]] it makes. Egwene causes her own death by overchanneling this new weave, but is able to take with her M'Hael and most of the Sharan channelers. Finally, Galad passes to Lan one of the copies of Mat's foxhead medallion, which protects the wearer from channeling, and Lan is able to finish what Gawyn and Galad started, slaying Demandred sword-to-sword. Finally, Olver, in desperation, sounds the Horn of Valere, summoning up the [[Heroes of the Horn]] (including Birgitte) and allowing Mat, with reinforcements from the Seanchan now that they have managed to remove their embedded spy, to finally sweep the field.
+
+===Shayol Ghul===
+Outside the Pattern, [[Shai'tan]] shows Rand a blighted world to try and break him. Rand then shows Shai'tan a world where humanity has defeated the Shadow and flourished. Shai'tan then shows Rand a world that appears quite prosperous - but looking closer Rand discovers that the people there have no compassion at all. Finally, Rand shows Shai'tan a world where Shai'tan is entirely absent. This world appears to be a utopia, but when he meets Elayne's counterpart there he realises she is 'broken' in some way - while she is good and compassionate she appears 'hollow'. He asks Shai'tan what it has done to this world, and Shai'tan confronts him with the truth: he has done nothing to it. Just as Shai'tan stripping the good out of people diminishes them, so Rand removing Shai'tan - and so stripping the evil out - will diminish them too.
+
+As Mat scrambles to get to Shayol Ghul with Olver and the Horn at his side, Perrin continues to pursue Slayer in the dream, despite having learned that Faile is missing in action. The two find each other at the Pit of Doom, where Perrin finally succeeds in killing Slayer. He also almost falls to Compulsion from Lanfear, who attempts to kill Rand and the others from within the dream; fortunately, his love for Faile saves him, and he snaps her neck. Mat also faces off against [[Padan Fain]], who caused him such temptation at [[Shadar Logoth]], and defeats him as well. Olver, via the Horn, helps see off the remaining forces of the Shadow. Aviendha, wounded, cornered by Graendal and under imminent threat of Compulsion, manages to reverse the Forsaken's weaves, inadvertently making Graendal her mind-controlled servant.
+
+Rand is then returned to the Pattern and resumes his duel with Moridin. During the fight, Moridin is able to take control of ''[[Callandor]]'', and realizes that it can amplify the True Power. However, Rand had anticipated this, and ''Callandor'''s flaw—that women can control a man that uses it—is exploited. Rand, Moiraine and Nynaeve take control of Moridin and use his power to create a huge weave of ''[[saidar]]'', ''[[saidin]]'' and [[True Power]] combined. Seeing this signal, Logain, under direct (if posthumous) orders from Egwene, shatters the remaining seals. This breaks open the Dark One's prison, and Rand uses the huge weave of three powers to drag Shai'tan into the Pattern with the intention of killing him. However, he realizes that the final reality—where people are good but 'hollow'—will come to pass without Shai'tan. He then banishes Shai'tan back outside of the Pattern and repairs the Bore itself, so that the hole in the Pattern, made three thousand years earlier, no longer exists.
+
+===An ending ===
+Bereft of the Dark One's influence, the Blight dissolves. Mat reunites with Tuon, who reveals that she is with child. Perrin, racked with guilt over his decision to help Rand and abandon his wife, continues to search for her, eventually finding her buried under Trolloc corpses but still alive. [[Loial]] attempts to track down the two of them to get statements for his book. [[Cadsuane Melaidhrin]] is elected the new [[Amyrlin Seat]], to her horror, while [[Moghedien]], now one of two remaining Forsaken, is captured by a ''[[sul'dam]]'' who is exploiting loopholes in the Dragon's Peace. [[Hessalam]] is last seen as a victim of Compulsion and worshipping Aviendha. Thom and Moiraine, Lan and Nynaeve, have all come to wait attendance on Rand, who is slowly dying of his wounds even after Nynaeve and Moiraine pulled him and Moridin out of the Bore, and Perrin suggests summoning Elayne, Min and Aviendha as well to pay their last respects.
+
+Rand dies from his wounds and a funeral pyre is held for him. But Elayne, [[Min]] and Aviendha know something no-one else does: Rand is actually alive inside Moridin's body, something that is also noticed by Cadsuane. It was Moridin who died, while inside Rand's body and was burned on the pyre, and Rand, free of channeling and burdens both, rides free into the [[Fourth Age]].
+
+==Cover art==
+[[File:A_Memory_of_Light_Sketch.jpg|thumb|200px|The above the cover for A Memory of Light Darrel K. Sweet was working on before his death]]
+
+[[Darrell Sweet]], the artist of the covers of the series, passed away on December 5, 2011. Prior to his passing, he was working on a cover for ''A Memory of Light''. It depicts three women, presumably [[Elayne]], [[Aviendha]], and [[Min]], standing around a funeral pyre.{{ref|http://www.tor.com/blogs/2011/12/darrell-k-sweet-1934-2011}}
+
+On February 27, 2012, artist [[Michael Whelan]] was chosen to produce the cover for the book. His cover art depicts [[Rand al'Thor]] holding ''[[Callandor]]'' at [[Shayol Ghul]] with [[Moiraine Damodred]] and [[Nynaeve al'Meara]] in the background.
+
+==Cover art gallery ==
+<gallery captionalign="center" orientation="none">
+AMoL_full_cover.jpg|Full cover art for ''A Memory of Light''
+Whelan's monogram.jpg|Michael Whelan's monogram hidden in the rocks
+</gallery>
+
+==Statistical Analysis==
+:''See also the [[A Memory of Light/Statistical analysis|full statistical analysis for this book]].''
+
+A Memory of Light contains 49 chapters, a prologue, and an epilogue, and consists of 49 unique POVs, of which:
+{| class="wikitable sortable"
+!Character
+!# of POVs
+!% of Total POVs (258)
+!Total Word Count (361,158)
+!% of Word Count
+|-
+| Quote
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |269
+| align="right" | 0.0747%
+|-
+| [[Bayrd]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |2733
+| align="right" | 0.7585%
+|-
+| [[Talmanes]]
+| align="right" | 8
+| align="right" | 3.1008%
+| align="right" |9599
+| align="right" | 2.6642%
+|-
+| [[Isam]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |2599
+| align="right" | 0.7213%
+|-
+| [[Leilwin Shipless]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |3133
+| align="right" | 0.8696%
+|-
+| [[Aviendha]]
+| align="right" | 12
+| align="right" | 4.6512%
+| align="right" |20877
+| align="right" | 5.7944%
+|-
+| [[Androl Genhald]]
+| align="right" | 9
+| align="right" | 3.4884%
+| align="right" |15749
+| align="right" | 4.3711%
+|-
+| [[Moghedien]]
+| align="right" | 3
+| align="right" | 1.1628%
+| align="right" |3946
+| align="right" | 1.0952%
+|-
+| [[Rand al'Thor]]
+| align="right" | 36
+| align="right" | 14.3411%
+| align="right" |40834
+| align="right" | 11.3334%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 20
+| align="right" | 7.7519%
+| align="right" |38533
+| align="right" | 10.6948%
+|-
+| [[Pevara]]
+| align="right" | 8
+| align="right" | 3.1008%
+| align="right" |13768
+| align="right" | 3.8213%
+|-
+| [[Perrin Aybara]]
+| align="right" | 20
+| align="right" | 7.7519%
+| align="right" |32990
+| align="right" | 9.1563%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 13
+| align="right" | 5.0388%
+| align="right" |20391
+| align="right" | 5.6595%
+|-
+| [[Elayne Trakand]]
+| align="right" | 17
+| align="right" | 6.2016%
+| align="right" |25092
+| align="right" | 6.9642%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 26
+| align="right" | 9.6899%
+| align="right" |42597
+| align="right" | 11.8227%
+|-
+| [[Birgitte]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |1411
+| align="right" | 0.3916%
+|-
+| [[Loial]]
+| align="right" | 5
+| align="right" | 1.9380%
+| align="right" |2806
+| align="right" | 0.7788%
+|-
+| [[Galad Damodred]]
+| align="right" | 6
+| align="right" | 2.3256%
+| align="right" |5489
+| align="right" | 1.5235%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |342
+| align="right" | 0.0949%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 4
+| align="right" | 1.5504%
+| align="right" |7988
+| align="right" | 2.2171%
+|-
+| [[Siuan Sanche]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |2259
+| align="right" | 0.6270%
+|-
+| [[Lyrelle]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |2139
+| align="right" | 0.5937%
+|-
+| [[Fortuona]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |3545
+| align="right" | 0.9839%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |3875
+| align="right" | 1.0755%
+|-
+| [[Gareth Bryne]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |2686
+| align="right" | 0.7455%
+|-
+| [[Min Farshaw]]
+| align="right" | 6
+| align="right" | 2.3256%
+| align="right" |7092
+| align="right" | 1.9684%
+|-
+| [[Faile]]
+| align="right" | 5
+| align="right" | 1.9380%
+| align="right" |9148
+| align="right" | 2.5390%
+|-
+| [[Olver]]
+| align="right" | 6
+| align="right" | 2.3256%
+| align="right" |6099
+| align="right" | 1.6928%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |946
+| align="right" | 0.2626%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 4
+| align="right" | 1.5504%
+| align="right" |1823
+| align="right" | 0.5060%
+|-
+| [[Uno Nomesta]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |2062
+| align="right" | 0.5723%
+|-
+| [[Logain Ablar]]
+| align="right" | 5
+| align="right" | 1.9380%
+| align="right" |4089
+| align="right" | 1.1349%
+|-
+| [[Tam al'Thor]]
+| align="right" | 5
+| align="right" | 1.9380%
+| align="right" |4297
+| align="right" | 1.1926%
+|-
+| [[Rhuarc]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |1423
+| align="right" | 0.3950%
+|-
+| [[Silviana Brehon]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |2455
+| align="right" | 0.6814%
+|-
+| [[Demandred]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |2082
+| align="right" | 0.5779%
+|-
+| [[Juilin Sandar]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |647
+| align="right" | 0.1796%
+|-
+| [[Gerard Arganda]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |2340
+| align="right" | 0.6495%
+|-
+| [[Leane Sharif]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |1015
+| align="right" | 0.2817%
+|-
+| [[Ila]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |861
+| align="right" | 0.2390%
+|-
+| [[Hurin]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |561
+| align="right" | 0.1557%
+|-
+| [[Berelain]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |1740
+| align="right" | 0.4829%
+|-
+| [[Mazrim Taim]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |1134
+| align="right" | 0.0760%
+|-
+| [[Shendla]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |65
+| align="right" | 0.0180%
+|-
+| [[Jur Grady]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |833
+| align="right" | 0.2312%
+|-
+| [[Atal Mishraile]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |1423
+| align="right" | 0.3950%
+|-
+| [[Thom Merrilin]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |1693
+| align="right" | 0.4699%
+|-
+| [[Shaisam]]
+| align="right" | 2
+| align="right" | 0.7752%
+| align="right" |760
+| align="right" | 0.2109%
+|-
+| [[Gaul]]
+| align="right" | 1
+| align="right" | 0.3876%
+| align="right" |920
+| align="right" | 0.2553%
+|}
+[[Category:Statistical analysis]]
+
+
+==See also==
+*[[What is yet to happen]]
+
+==External links==
+*[http://www.dragonmount.com/News/ Dragonmount's Wheel of Time News]
+*[http://www.dragonmount.com/RobertJordan/ Robert Jordan's Official Blog]
+
+{{notes}}<references /><references /><references />
+{{books}}
+{{DISPLAYTITLE:''A Memory of Light''}}
+[[Category:Main Series| e]]
+[[Category:Books]]

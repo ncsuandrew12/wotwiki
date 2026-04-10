@@ -1,0 +1,18 @@
+{{ character
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Altaran
+| rank=Queen
+| title=Queen of [[Altara]]
+| gender=Female
+| weight=
+| hair=
+| eyes=
+| mentioned={{acos|39}}
+}}'''Nariene''' was once Queen of [[Altara]].
+
+== History ==
+She was known for her honesty and now has a statue of her in [[Mol Hara Square]] in [[Ebou Dar]].
+[[Category:Queens]]
+[[Category:Historical people]]

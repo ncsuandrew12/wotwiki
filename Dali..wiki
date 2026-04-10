@@ -1,0 +1,26 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| build=Plump 
+| hair=Yellow
+| occupation=Damane
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| appeared={{wh|14}}
+| lastappeared={{wh|14}}
+| lastmentioned={{tgs|36}}
+| living=tgs
+}}
+'''Dali''' is a ''[[damane]]'' from [[Seanchan]]. Her sister [[Dani]] is also a ''damane''.
+
+== Appearance ==
+She is plump with yellow hair. 
+
+== Activities ==
+She is one of [[Tuon Athaem Kore Paendrag]]'s personal ''damane'' who is part of the [[Corenne]].
+
+She is one of the ''damane'' who is sent to the [[Battle of Tar Valon]].
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Channelers]]

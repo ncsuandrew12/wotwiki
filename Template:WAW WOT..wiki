@@ -1,0 +1,8 @@
+<div name="Wizards and Warriors WOT notice" class="boilerplate metadata" id="delete" style="background-color: #242424; margin: 0 1em; padding: 0 10px; border: 1px solid #aaa;" align=center><p>'''''This page concerns the {{YTlink|url=https://www.youtube.com/watch?v=R_V9ZzvP5VA&list=PL2Qq-rUSt7b10tegwrmO3uR6ZSW6VPSht|text=series of lore videos}} on '''[[The Wheel of Time]]''' by the {{YTlink|url=https://www.youtube.com/@WizardsandWarriors|text=Wizards and Warriors Youtube channel}}.'''''</p>
+<p>The videos are notable for being relatively prolific, with each video garnering tens of thousands of views.<br />
+For the most part, the videos are riddled with minor errors and improper terminology.<br />
+Many videos contain blatantly incorrect information on major - and even well-known - points of Wheel of Time lore.</p></div>
+{{WAW WOT/nav}}<noinclude>
+[[Category:Templates]]
+{{Documentation}}
+</noinclude>

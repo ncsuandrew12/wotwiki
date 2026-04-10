@@ -1,0 +1,16 @@
+{{ character | image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| clan=Aiel
+| status=Dead
+| title=Sept Chief
+| appeared={{tsr|25}}
+| lastappeared={{tsr|25}}
+}}
+'''Charendin''' was an [[Aiel]] sept chief who lived after the [[Breaking]] has ended.
+
+== History ==
+He was a contemporary of Mandein, part of the first group of Sept Chiefs to go to Rhuidean to learn the history of the Aiel. He is very distrustful but agrees to go through the glass columns.{{ref/book|4|25}}
+
+{{notes}}

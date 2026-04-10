@@ -1,0 +1,17 @@
+{{character 
+| image=Tree.png
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| occupation=Historian
+| gender=Male
+| mentioned={{tdr|50}}
+| lastmentioned={{tdr|50}}
+}}
+'''Jalanda son of [[Aried]] son of [[Coiam]]''' was an [[Ogier]] [[author]] and [[historian]].
+
+==History==
+Jalanda wrote that [[Be'lal]] was called the Envious because he envied [[Lews Therin]] as well as some of his fellow [[Forsaken]], [[Ishamael]] and [[Lanfear]].  [[Loial]] provides the information to [[Moiraine]] when she is trying to acquire information before trying to stop the plot to capture [[Rand]].{{ref/book|3|50}}
+
+{{notes}}
+{{short}}

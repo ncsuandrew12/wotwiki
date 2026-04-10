@@ -1,0 +1,24 @@
+{{creature
+| image=Horse-icon.svg
+| imagesize=100px
+| name=Seiera
+| ewot=seiera
+| status=Alive
+| type=horses
+| animal=Horse
+| owner=Min Farshaw
+| gender=Mare
+| color=Mouse-colored
+| appeared={{acos|34}}
+}}
+{{for|the flower by the same name|Seiera (plant){{!}}Seiera}}
+'''Seiera''' is the name of a horse owned by [[Min Farshaw]].
+
+==Appearance==
+Seiera is a mouse-colored mare.
+
+==Activities==
+Seiera belonged to one of the [[Aes Sedai]] that participated in the [[Battle of Dumai's Wells]]. She was appropriated by [[Rand al'Thor]] and given to Min to ride back to [[Cairhien]].{{ref/book|7|3}} Later, Seiera carries Min to a meeting with the [[Sea Folk]].{{ref/book|7|34}}
+
+{{notes}}
+{{short}}

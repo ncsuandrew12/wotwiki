@@ -1,0 +1,580 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+''[[The Fires of Heaven]]'' contains 56 chapters and one prologue and consists of 20 unique POVs and 95 individual POVs. It has a total word count of 345,946 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="4" | [[The Fires of Heaven/Prologue|Prologue: The First Sparks Fall]]
+| Quote
+| align="right" | 86
+| align="right" | 0.0249%
+|-
+| [[Elaida do Avriny a'Roihan]]
+| align="right" | 4,773
+| align="right" | 1.3797%
+|-
+| [[Padan Fain]]
+| align="right" | 874
+| align="right" | 0.2526%
+|-
+| [[Rahvin]]
+| align="right" | 3,456
+| align="right" | 0.9990%
+|-
+| rowspan="4" | [[The Fires of Heaven/Chapter 1|Ch1: Fanning The Sparks]]
+| [[Min Farshaw]]
+| align="right" | 8,332
+| align="right" | 2.4084%
+|-
+| [[Gareth Bryne]]
+| align="right" | 2,357
+| align="right" | 0.6813%
+|-
+| [[Alteima]]
+| align="right" | 3,000
+| align="right" | 0.8672%
+|-
+| [[Morgase Trakand]]
+| align="right" | 247
+| align="right" | 0.0714%
+|-
+| [[The Fires of Heaven/Chapter 2|Ch2: Rhuidean]]
+| [[Rand al'Thor]]
+| align="right" | 9,104
+| align="right" | 2.6316%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 3|Ch3: Pale Shadows]]
+| [[Rand al'Thor]]
+| align="right" | 3,344
+| align="right" | 0.9666%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 3,765
+| align="right" | 1.0883%
+|-
+| [[The Fires of Heaven/Chapter 4|Ch4: Twilight]]
+| [[Rand al'Thor]]
+| align="right" | 5,220
+| align="right" | 1.5089%
+|-
+| [[The Fires of Heaven/Chapter 5|Ch5: Among the Wise Ones]]
+| [[Egwene al'Vere]]
+| align="right" | 8,230
+| align="right" | 2.3789%
+|-
+| [[The Fires of Heaven/Chapter 6|Ch6: Gateways]]
+| [[Rand al'Thor]]
+| align="right" | 8,388
+| align="right" | 2.4246%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 7|Ch7: A Departure]]
+| [[Egwene al'Vere]]
+| align="right" | 2,933
+| align="right" | 0.8478%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 1,533
+| align="right" | 0.4431%
+|-
+| [[The Fires of Heaven/Chapter 8|Ch8: Over the Border]]
+| [[Nynaeve al'Meara]]
+| align="right" | 3,390
+| align="right" | 0.9799%
+|-
+| [[The Fires of Heaven/Chapter 9|Ch9: A Signal]]
+| [[Nynaeve al'Meara]]
+| align="right" | 6,131
+| align="right" | 1.7722%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 10|Ch10: Figs and Mice]]
+| [[Elayne Trakand]]
+| align="right" | 4,608
+| align="right" | 1.3320%
+|-
+| Narrator
+| align="right" | 841
+| align="right" | 0.2431%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 11|Ch11: The Nine Horse Hitch]]
+| [[Siuan Sanche]]
+| align="right" | 3,766
+| align="right" | 1.0886%
+|-
+| [[Min Farshaw]]
+| align="right" | 792
+| align="right" | 0.2289%
+|-
+| [[The Fires of Heaven/Chapter 12|Ch12: An Old Pipe]]
+| [[Gareth Bryne]]
+| align="right" | 2,619
+| align="right" | 0.7570%
+|-
+| [[The Fires of Heaven/Chapter 13|Ch13: A Small Room in Sienda]]
+| [[Elayne Trakand]]
+| align="right" | 5,285
+| align="right" | 1.5277%
+|-
+| [[The Fires of Heaven/Chapter 14|Ch14: Meetings]]
+| [[Nynaeve al'Meara]]
+| align="right" | 5,010
+| align="right" | 1.4482%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 15|Ch15: What Can Be Learned in Dreams]]
+| [[Nynaeve al'Meara]]
+| align="right" | 4,724
+| align="right" | 1.3655%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 3,147
+| align="right" | 0.9097%
+|-
+| [[The Fires of Heaven/Chapter 16|Ch16: An Unexpected Offer]]
+| [[Nynaeve al'Meara]]
+| align="right" | 5,979
+| align="right" | 1.7283%
+|-
+| [[The Fires of Heaven/Chapter 17|Ch17: Heading West]]
+| [[Nynaeve al'Meara]]
+| align="right" | 4,582
+| align="right" | 1.3245%
+|-
+| [[The Fires of Heaven/Chapter 18|Ch18: A Hound of Darkness]]
+| [[Liandrin]]
+| align="right" | 3,710
+| align="right" | 1.0724%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 19|Ch19: Memories]]
+| [[Morgase Trakand]]
+| align="right" | 7,451
+| align="right" | 2.1538%
+|-
+| [[Padan Fain]]
+| align="right" | 1,680
+| align="right" | 0.4856%
+|-
+| [[The Fires of Heaven/Chapter 20|Ch20: Jangai Pass]]
+| [[Rand al'Thor]]
+| align="right" | 3,755
+| align="right" | 1.0854%
+|-
+| [[The Fires of Heaven/Chapter 21|Ch21: The Gift of a Blade]]
+| [[Rand al'Thor]]
+| align="right" | 4,428
+| align="right" | 1.2799%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 22|Ch22: Birdcalls by Night]]
+| [[Matrim Cauthon]]
+| align="right" | 2,430
+| align="right" | 0.7024%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,665
+| align="right" | 0.7703%
+|-
+| [[The Fires of Heaven/Chapter 23|Ch23: "The Fifth, I Give You"]]
+| [[Egwene al'Vere]]
+| align="right" | 3,556
+| align="right" | 1.0279%
+|-
+| [[The Fires of Heaven/Chapter 24|Ch24: A Message Sent]]
+| [[Egwene al'Vere]]
+| align="right" | 4,004
+| align="right" | 1.1574%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 25|Ch25: Dreams of Galad]]
+| [[Egwene al'Vere]]
+| align="right" | 3,553
+| align="right" | 1.0270%
+|-
+| [[Moghedien]]
+| align="right" | 269
+| align="right" | 0.0778%
+|-
+| [[The Fires of Heaven/Chapter 26|Ch26: Sallie Daera]]
+| [[Min Farshaw]]
+| align="right" | 5,155
+| align="right" | 1.4901%
+|-
+| [[The Fires of Heaven/Chapter 27|Ch27: The Practice of Diffidence]]
+| [[Siuan Sanche]]
+| align="right" | 6,503
+| align="right" | 1.8797%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 28|Ch28: Trapped]]
+| [[Gareth Bryne]]
+| align="right" | 3,739
+| align="right" | 1.0808%
+|-
+| [[Min Farshaw]]
+| align="right" | 1,620
+| align="right" | 0.4683%
+|-
+| [[The Fires of Heaven/Chapter 29|Ch29: Memories of Saldaea]]
+| [[Hadnan Kadere]]
+| align="right" | 2,262
+| align="right" | 0.6538%
+|-
+| [[The Fires of Heaven/Chapter 30|Ch30: A Wager]]
+| [[Rand al'Thor]]
+| align="right" | 3,816
+| align="right" | 1.1030%
+|-
+| [[The Fires of Heaven/Chapter 31|Ch31: The Far Snows]]
+| [[Rand al'Thor]]
+| align="right" | 4,564
+| align="right" | 1.3193%
+|-
+| [[The Fires of Heaven/Chapter 32|Ch32: A Short Spear]]
+| [[Rand al'Thor]]
+| align="right" | 5,135
+| align="right" | 1.4843%
+|-
+| [[The Fires of Heaven/Chapter 33|Ch33: A Question of Crimson]]
+| [[Nynaeve al'Meara]]
+| align="right" | 4,784
+| align="right" | 1.3828%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 34|Ch34: A Silver Arrow]]
+| [[Nynaeve al'Meara]]
+| align="right" | 4,724
+| align="right" | 1.3655%
+|-
+| [[Liandrin]]
+| align="right" | 1,393
+| align="right" | 0.4027%
+|-
+| [[The Fires of Heaven/Chapter 35|Ch35: Ripped Away]]
+| [[Elayne Trakand]]
+| align="right" | 3,178
+| align="right" | 0.9186%
+|-
+| [[The Fires of Heaven/Chapter 36|Ch36: A New Name]]
+| [[Elayne Trakand]]
+| align="right" | 6,198
+| align="right" | 1.7916%
+|-
+| [[The Fires of Heaven/Chapter 37|Ch37: Performances in Samara]]
+| [[Nynaeve al'Meara]]
+| align="right" | 4,246
+| align="right" | 1.2273%
+|-
+| [[The Fires of Heaven/Chapter 38|Ch38: An Old Acquaintance]]
+| [[Nynaeve al'Meara]]
+| align="right" | 2,791
+| align="right" | 0.8068%
+|-
+| [[The Fires of Heaven/Chapter 39|Ch39: Encounters in Samara]]
+| [[Nynaeve al'Meara]]
+| align="right" | 7,284
+| align="right" | 2.1055%
+|-
+| [[The Fires of Heaven/Chapter 40|Ch40: The Wheel Weaves]]
+| [[Nynaeve al'Meara]]
+| align="right" | 7,737
+| align="right" | 2.2364%
+|-
+| [[The Fires of Heaven/Chapter 41|Ch41: The Craft of Kin Tovere]]
+| [[Rand al'Thor]]
+| align="right" | 4,173
+| align="right" | 1.2062%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 42|Ch42: Before The Arrow]]
+| [[Matrim Cauthon]]
+| align="right" | 4,767
+| align="right" | 1.3779%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,328
+| align="right" | 0.3839%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 43|Ch43: This Place, This Day]]
+| [[Rand al'Thor]]
+| align="right" | 3,160
+| align="right" | 0.9134%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 3,938
+| align="right" | 1.1383%
+|-
+| rowspan="3" | [[The Fires of Heaven/Chapter 44|Ch44: The Lesser Sadness]]
+| [[Rand al'Thor]]
+| align="right" | 3,735
+| align="right" | 1.0796%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 2,792
+| align="right" | 0.8070%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,056
+| align="right" | 0.5943%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 45|Ch45: After the Storm]]
+| [[Matrim Cauthon]]
+| align="right" | 2,769
+| align="right" | 0.8004%
+|-
+| [[Rand al'Thor]]
+| align="right" | 3,454
+| align="right" | 0.9984%
+|-
+| [[The Fires of Heaven/Chapter 46|Ch46: Other Battle, Other Weapons]]
+| [[Rand al'Thor]]
+| align="right" | 7,882
+| align="right" | 2.2783%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 47|Ch47: The Price of A Ship]]
+| [[Nynaeve al'Meara]]
+| align="right" | 6,981
+| align="right" | 2.0179%
+|-
+| [[Elayne Trakand]]
+| align="right" | 1,659
+| align="right" | 0.4795%
+|-
+| [[The Fires of Heaven/Chapter 48|Ch48: Leavetakings]]
+| [[Nynaeve al'Meara]]
+| align="right" | 4,989
+| align="right" | 1.4421%
+|-
+| [[The Fires of Heaven/Chapter 49|Ch49: To Boannda]]
+| [[Nynaeve al'Meara]]
+| align="right" | 11,647
+| align="right" | 3.3666%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 50|Ch50: To Teach, and Learn]]
+| [[Nynaeve al'Meara]]
+| align="right" | 8,004
+| align="right" | 2.3136%
+|-
+| [[Elayne Trakand]]
+| align="right" | 1,490
+| align="right" | 0.4307%
+|-
+| rowspan="3" | [[The Fires of Heaven/Chapter 51|Ch51: News Comes to Cairhien]]
+| [[Rand al'Thor]]
+| align="right" | 7,301
+| align="right" | 2.1104%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 573
+| align="right" | 0.1656%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,709
+| align="right" | 0.4940%
+|-
+| rowspan="4" | [[The Fires of Heaven/Chapter 52|Ch52: Choices]]
+| [[Rand al'Thor]]
+| align="right" | 3,339
+| align="right" | 0.9652%
+|-
+| [[Hadnan Kadere]]
+| align="right" | 1,258
+| align="right" | 0.3636%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,155
+| align="right" | 0.6229%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 462
+| align="right" | 0.1335%
+|-
+| [[The Fires of Heaven/Chapter 53|Ch53: Fading Words]]
+| [[Rand al'Thor]]
+| align="right" | 4,263
+| align="right" | 1.2322%
+|-
+| rowspan="2" | [[The Fires of Heaven/Chapter 54|Ch54: To Caemlyn]]
+| [[Rand al'Thor]]
+| align="right" | 3,802
+| align="right" | 1.0990%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 5,381
+| align="right" | 1.5554%
+|-
+| rowspan="7" | [[The Fires of Heaven/Chapter 55|Ch55: The Threads Burn]]
+| [[Rand al'Thor]]
+| align="right" | 2,240
+| align="right" | 0.6475%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 1,646
+| align="right" | 0.4758%
+|-
+| [[Rand al'Thor]]
+| align="right" | 835
+| align="right" | 0.2414%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 1,090
+| align="right" | 0.3151%
+|-
+| [[Rand al'Thor]]
+| align="right" | 355
+| align="right" | 0.1026%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 1,347
+| align="right" | 0.3894%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,087
+| align="right" | 0.3142%
+|-
+| rowspan="4" | [[The Fires of Heaven/Chapter 56|Ch56: Glowing Embers]]
+| [[Rand al'Thor]]
+| align="right" | 1,901
+| align="right" | 0.5495%
+|-
+| [[Asmodean]]
+| align="right" | 328
+| align="right" | 0.0948%
+|-
+| [[Morgase Trakand]]
+| align="right" | 835
+| align="right" | 0.2414%
+|-
+| Quote
+| align="right" | 77
+| align="right" | 0.0223%
+|-
+|}
+
+==Unique POV Breakdown==
+{| class="wikitable sortable"
+!Character
+!#of POVs
+!% of Total POVs (95)
+!Total Word Count (345,954)
+!% of Word Count
+|-
+| Quote
+| align="right" | 2
+| align="right" | 2.1053%
+| align="right" | 163
+| align="right" | 0.0471%
+|-
+| [[Elaida do Avriny a'Roihan]]
+| align="right" | 1
+| align="right" | 1.0526%
+| align="right" | 4,773
+| align="right" | 1.3797%
+|-
+| [[Padan Fain]]
+| align="right" | 2
+| align="right" | 2.1053%
+| align="right" | 2,554
+| align="right" | 0.7382%
+|-
+| [[Rahvin]]
+| align="right" | 1
+| align="right" | 1.0526%
+| align="right" | 3,456
+| align="right" | 0.9990%
+|-
+| [[Min Farshaw]]
+| align="right" | 4
+| align="right" | 4.2105%
+| align="right" | 15,899
+| align="right" | 4.5957%
+|-
+| [[Gareth Bryne]]
+| align="right" | 3
+| align="right" | 3.1579%
+| align="right" | 8,715
+| align="right" | 2.5191%
+|-
+| [[Alteima]]
+| align="right" | 1
+| align="right" | 1.0526%
+| align="right" | 3,000
+| align="right" | 0.8672%
+|-
+| [[Morgase Trakand]]
+| align="right" | 3
+| align="right" | 3.1579%
+| align="right" | 8,533
+| align="right" | 2.4665%
+|-
+| [[Rand al'Thor]]
+| align="right" | 27
+| align="right" | 28.4211%
+| align="right" | 103,485
+| align="right" | 29.9129%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 7
+| align="right" | 7.3684%
+| align="right" | 22,170
+| align="right" | 6.4084%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 7
+| align="right" | 7.3684%
+| align="right" | 25,996
+| align="right" | 7.5143%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 2
+| align="right" | 2.1053%
+| align="right" | 1,995
+| align="right" | 0.5767%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 20
+| align="right" | 21.0526%
+| align="right" | 102,467
+| align="right" | 29.6187%
+|-
+| [[Elayne Trakand]]
+| align="right" | 6
+| align="right" | 6.3158%
+| align="right" | 22,418
+| align="right" | 6.4801%
+|-
+| Narrator
+| align="right" | 1
+| align="right" | 1.0526%
+| align="right" | 841
+| align="right" | 0.2431%
+|-
+| [[Siuan Sanche]]
+| align="right" | 2
+| align="right" | 2.1053%
+| align="right" | 10,269
+| align="right" | 2.9683%
+|-
+| [[Liandrin]]
+| align="right" | 2
+| align="right" | 2.1053%
+| align="right" | 5,103
+| align="right" | 1.4751%
+|-
+| [[Moghedien]]
+| align="right" | 1
+| align="right" | 1.0526%
+| align="right" | 269
+| align="right" | 0.0778%
+|-
+| [[Hadnan Kadere]]
+| align="right" | 2
+| align="right" | 2.1053%
+| align="right" | 3,520
+| align="right" | 1.0175%
+|-
+| [[Asmodean]]
+| align="right" | 1
+| align="right" | 1.0526%
+| align="right" | 328
+| align="right" | 0.0948%
+|-
+|}
+[[Category:Statistical analysis]]

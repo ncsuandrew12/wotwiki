@@ -1,0 +1,19 @@
+{{ Character
+| hidep=y
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| gender=Male
+| status=Alive
+| occupation=Servant
+| appeared={{tgh|32}}
+| lastappeared={{tgh|32}}
+| living=tgh
+}}
+'''Ashin''' is a servant for Lord [[Barthanes]] in [[Cairhien]].
+
+==Activities==
+Ashin announces the arrival of [[Rand]], [[Verin]], [[Loial]] and [[Ingtar]] to a party at Lord [[Barthanes]]' manor house. {{ref/book|2|32}}
+
+{{notes}}
+{{short}}

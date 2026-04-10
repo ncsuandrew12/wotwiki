@@ -1,0 +1,19 @@
+{{ Character
+| hidep=y
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| status=Alive
+| occupation=Servant
+| appeared={{cot|p}}
+| lastappeared={{cot|p}}
+| living=cot
+}}'''Cera Doinal''' is a servant in the [[Sun Palace]] in [[Cairhien]].{{ref|{{twotc}}, Cera Doinal}}
+
+==Activities==
+Cera announces the death of Lord [[Dobraine]] to [[Samitsu Tamagowa]], [[Sashalle Anderley]], [[Karldin Manfor]] and [[Loial]]. It is revealed then that he is not yet dead and the [[Aes Sedai]] [[Heal]] him. {{ref/book|10|p}}
+
+{{DEFAULTSORT:Doinal, Cera}}
+
+{{notes}}
+{{short}}

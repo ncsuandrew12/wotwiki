@@ -1,0 +1,26 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Male
+| occupation=Soldier
+| rank=Scout leader
+| affiliation=Children of the Light
+| build=Lean
+| status=Alive
+| appeared={{tom|p}}
+| lastappeared={{tom|p}}
+| living=tom
+}}
+Child '''Barlett''' is a scout in the [[Children of the Light]].
+
+== Appearance ==
+He is lean with a scar on one cheek.
+
+== Activities ==
+He leaves [[Seanchan]] controlled territory with [[Galadedrid Damodred]]. He scouts the path for Galad's army as they make their way through swampland. Barlett and the rest of the scouts are actually loyal to [[Rhadam Asunawa]] and lead Galad's force to a much larger force of Children of the Light under Seanchan control.
+
+==Trivia==
+*Barlett is named after Scott Bartlett, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Characters named after fans]]

@@ -1,0 +1,22 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| gender=Female
+| hair=Golden
+| appeared={{tgs|p}}
+| lastappeared={{tgs|p}}
+| living=tgs
+}}'''Gallanha''' is the wife of [[Thulin]] and mother of [[Mirala]].{{ref|{{twotc}}, Gallanha}}
+
+==Apperance==
+Gallanha has golden hair.
+
+==History==
+Originally from somewhere in the south, she moved to the [[Borderlands]] to be with her husband in the village of Oak Water.
+
+==Activities==
+When her husband sees the unnatural storm, he decides to pack up his family and travel to help with the war in the north. On their way, they visit [[Renald Fanwar]] and Gallanha gives him some eggs to give to his wife, [[Auaine Fanwar|Auaine]].{{ref/book|12|p}}
+
+{{notes}}

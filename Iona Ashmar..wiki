@@ -1,0 +1,19 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Ghealdanin
+| rank=Lady
+| title=Lady
+| gender=Female
+| mentioned=[[RPG]]
+| lastmentioned=[[RPG]]
+}}
+'''Iona Ashmar''' was one of the founders of [[Ghealdan]].
+
+==History==
+In the year {{Fy|1109}}, Lady Iona, along with [[Kirin Almeyda]], [[Cynric Talvaen]] and [[Valera Prosnarin]] founded the kingdom of Ghealdan. Lady Iona sat on the [[Crown High Council]].
+
+{{DEFAULTSORT:Ashmar, Iona}}
+[[Category:Historical people]]
+[[Category:Nobility]]

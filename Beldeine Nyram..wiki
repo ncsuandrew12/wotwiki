@@ -1,0 +1,84 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Saldaean
+| rank=Aes Sedai
+| affiliation=White Tower
+| gender=Female
+| eyes=Brown, slightly tilted
+| height=5'5" or 165cm
+| hair=Curly
+| status=Dead
+| appeared={{tdr|22}}
+| lastappeared={{tgs|48}}
+| lastmentioned={{amol|37}}
+| living=amol
+|birth = 966 NE|death = {{ne|1000}}}}
+'''Beldeine Nyram''' was an [[Aes Sedai]] of the [[Green Ajah]].
+
+== Appearance and Personality==
+
+Beldeine was [[Saldaean]] and exhibited the natural traits of the region; namely slightly tilted brown eyes and a nose with a hint of a hook. She also displayed the typical tilted cheekbones, though they were not as pronounced as most Saldaeans. Beldeine's aging slowed more considerably than most other Aes Sedai, which caused her to frequently be mistaken for a young woman no older than twenty.{{ref/book|11|20}}. At 5'5" or 165cm, she was above average in height and stood a hand or more taller than [[Verin Mathwin]].{{ref/book|10|p}}
+
+The Green Ajah quickly noted her keen mind and management ability and marked her as a sister who might perform well as an administrator. Such duties were boring to Beldeine, whose personality sought out adventure whenever possible. Nonetheless, such abilities might explain why Egwene chose her as Keeper in the alternate reality in her Accepted test.
+
+==Strength and Abilities==
+Beldeine was [[Strength in the One Power among Aes Sedai|strong]] in the [[One Power]] by Aes Sedai standards, with a strength level of {{opsl|22}}.{{ref/book|9|23}}{{ref|{{twotc}}, Beldeine Nyram}} She can [[Traveling|Travel]].
+
+==History==
+She was from [[Saldaea]]. She was born in {{ne|966}} and went to the Tower in [[982 NE]]. After spending seven years as a [[novice]] and eight as [[Accepted]], she was raised in [[997 NE]]. She is too young to have the ageless Aes Sedai face {{ref/book|10|p}}. She sided with [[Elaida]] during the [[White Tower]] split.
+
+
+==Activities==
+Beldeine "appeared" for the first time as [[Egwene al'Vere]]'s [[Keeper of the Chronicles]] when Egwene went through the ''[[ter'angreal]]'' to become Accepted. In her third trip through the three arches, Egwene sees herself as Amyrlin and Beldeine as her Keeper even though she does not know Beldeine. {{ref/book|3|22}}
+
+=== Swearing fealty to the Dragon ===
+Since she did not yet have the ageless look, she was included in the Aes Sedai party sent to kidnap [[Rand al'Thor]], along with other five, including [[Janine Pavlara]] and [[Marith Riven]].
+
+[[Coiren]] reports to the rest of Elaida's embassy that Beldeine has arrived in [[Cairhien]].{{ref/book|6|25}}
+
+She was taken prisoner at the Battle of [[Dumai's Wells]].{{ref/book|6|55}}
+[[Verin]] has Beldeine brought to her for questioning. She uses a mild [[Compulsion]] on Beldeine and gives her instructions to follow.{{ref/book|8|p}} [[Sorilea]] brings [[Elza Penfell]], [[Nesune Bihara]], [[Sarene Nemdahl]], [[Erian Boroleos]] and Beldeine to Rand after they beg to be allowed to swear fealty to him. Rand accepts.{{ref/book|8|29}}
+
+Erian and Beldeine play stones while Cadsuane and [[Harine din Togara Two Winds|Harine din Togara]] speak in the sunroom of the [[Sun Palace]].{{ref/book|9|13}}
+
+She [[Traveling|Traveled]] with [[Cadsuane Melaidhrin]]'s group to [[Far Madding]] to track down Rand when he fled Cairhien.{{ref/book|9|23}}
+
+She participated in the [[Battle near Shadar Logoth]] where she linked with [[Nesune Bihara]], [[Daigian Moseneillin]], and [[Eben Hopwil]]. She was attacked by [[Aran'gar]] during the battle and Hopwil was killed.{{ref/book|9|35}}.
+
+She accompanied Rand and Cadsuane to [[Algarin Pendaloan]]'s house in [[Tear]], where Rand recovered after cleansing ''[[saidin]]''. She was starting to talk about [[bonding]] an [[Asha'man]] as a [[Warder]]. [[Merise]] counsels her to talk with [[Daigian]] about the consequences.{{ref/book|9|23}}
+
+=== Bonding an Asha'man ===
+Beldeine bonded [[Karldin Manfor]], an Asha'man as her first Warder, fulfilling a vision that [[Elmindreda Farshaw|Min Farshaw]] had about her.{{ref/book|11|27}}
+
+She watched Rand's meeting with the [[Daughter of the Nine Moons]] from a distance and Traveled in as backup when it was revealed that the Daughter of the Nine Moons was actually [[Semirhage]].{{ref/book|11|27}}
+
+She went to Rand's room after finding out about Semirhage's escape and then death.{{ref/book|12|23}} After this episode Erian, Nesune, Sarene, and Beldeine are less welcome in Rand's presence.{{ref/book|12|48}}
+
+While in Tear, she was sitting in Cadsuane's chamber when Min proposed her idea that Rand would need to wield ''[[Callandor]]'' at [[Tarmon Gai'don]]. Beldeine disdained Min's attempts at scholarship, but Cadsuane agreed with Min. Cadsuane told Beldeine to give Min credit where credit was due, but Beldeine just left the room with Karldin.{{ref/book|12|48}}
+
+Beldeine died in the Last Battle at the [[Field of Merrilor]], moments after her Karldin was killed by the [[Shara]]ns. {{ref/book|14|37}}
+
+== Viewings ==
+*One of [[Min's viewings]] showed an aura of blue, yellow, and green around Beldeine. It meant she would serve Rand in her own fashion.{{ref/book|8|29}} (''fulfilled'' - Beldeine served Rand and the Light to her last breath)
+*She would bond an Asha'man as a Warder.{{ref/book|8|29}}(''fulfilled'')
+*A black knife hovered over her head.{{ref/book|12|48}}.(''fulfilled'' - possibly indicated her death at the hands of Sharans, black knifes are mentioned as the weapons that killed Karldin, she was probably killed likewise.{{Ref/book|14|37}})
+
+{{notes}}
+{{DEFAULTSORT:Nyram, Beldeine}}
+[[es:Beldeine Nyram]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Cairhien expedition]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Nyram, Beldeine}}
+[[es:Beldeine Nyram]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Cairhien expedition]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

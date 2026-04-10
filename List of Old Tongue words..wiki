@@ -1,0 +1,21 @@
+This page gives sortable lists of all known words in the [[Old Tongue]]. It is split into two sections, one of "atomic" words and one of "compound" words which are derived by combining words from the first list. Both lists are derived from the '''Old Tongue Dictionary''' entry in the  ''[[The Wheel of Time Companion]]''. For a more exact transcription of the definitions as they appear in the Companion, see [[Old Tongue Dictionary]]. For an officially published version: {{Cite/web| url = https://reactormag.com/the-wheel-of-time-english-to-old-tongue-dictionary/| title = The Wheel of Time English to Old Tongue Dictionary| accessdate = {{Date|2026 April 8}}| author = Robert Jordan| coauthors = Harriet McDougal, Alan Romanczuk, Maria Simons| date = {{Date|2016 Dec 20}}| publisher = Reactor Mag}}
+
+__TOC__
+
+==List of Atomic Words==
+The following table gives all "atomic" words known in the Old Tongue i.e. those that cannot be broken down further or which are conjugations or irregular past participles of verbs. The list of atomic words (and some of the compound ones) is likely based on the 950-ish words of Basic English that Jordan used as the base of his language. Jordan, however, does discard some of these that are not used in his world and expands it by having some unique to his own worldbuilding and multiple words for the same word in the Common Tongue.{{ref/tidbkw|old+tongue}}
+
+If you wish to translate a word or phrase from English/Common Tongue to the Old Tongue, order the table using the second column. Sorting by part of speech will enable easier sentence construction.
+
+Note that numbers are compound words as they are composed of a stem indicating the number and a suffix indicating whether it is a physical object or an abstract one. The numbers in the Old Tongue can be found on a [[Old Tongue numbers|separate page]].
+{{#invoke:OT|get_wikitable|columns=Old Tongue;Common Tongue;Parts of Speech|wotwiki_common_only=true|no_compounds=true}}
+
+==List of Compound Words and Short Phrases==
+
+The following is a list of compound words and short phrases derived from the list above. The short phrases are not sentences, but usually named entities (eg the names of the Forsaken or Aiel societies), plurals or fixed expressions or terms (such as sul'dam). 
+{{#invoke:OT|get_wikitable|columns=Old Tongue;Common Tongue;Literal Translation;Parts of Speech;Notes|wotwiki_literal_only=true|no_compounds=false|compound_only=true}}
+
+{{notes}}
+[[Category:Old Tongue| ]]
+[[Category:Glossary]]
+[[Category:List pages]]

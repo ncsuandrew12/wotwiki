@@ -1,0 +1,22 @@
+{{character
+| gender=Female
+| death={{Fy|943}}
+| image=Wheel-icon.svg
+| imagesize = 125px 
+| mentioned={{bwb|11}}
+| nationality=Esandara
+| status=Dead
+| ewothist=elinde
+| lastmentioned={{bwb|11}}
+}}
+'''Elinde Motheneos''' was a leader in northern [[Esandara]] during the rise of [[Artur Hawkwing]] who followed the [[False Dragon]], [[Guaire Amalasan]].
+
+== History ==
+She was an expert in siege warfare. According to some accounts, she was a renegade [[Aes Sedai]], but it is considered an unverifiable rumor that often surrounds historical accounts.
+
+In {{fy|943}}, after Amalasan was captured, she joined with [[Sawyn Maculhene]], capturing at least two of the [[Alindrelle Erinin]] bridges and attacking the [[White Tower]]. She was defeated, and was either killed in battle or executed.{{ref/book|bwb|11}}
+
+{{notes}}
+{{DEFAULTSORT:Motheneos, Elinde}}
+[[Category:Historical people]]
+[[Category:People of the Free Years]]

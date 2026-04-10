@@ -1,0 +1,4 @@
+This category lists all of the categories that use the JavaScript created by [http://community.wikia.com/wiki/User:Pecoes Pecoes on the Community Central Wiki]. Only categories that list characters with first '''and''' last names should be listed here.
+
+__HIDDENCAT__
+[[Category:Administrative| Sort option categories]]

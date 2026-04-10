@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.deviantart.com/spiffiness/art/Demandred-AKA-Barid-Bel-Medar-48924000
+|Description = Fan art of [[Demandred]].
+|Artist      = Spiffiness
+}}

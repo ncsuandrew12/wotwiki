@@ -1,0 +1,4 @@
+{| align=center class="expansion" style="background: #2B3856; border: 1px solid #aaa; margin-bottom: 3px;"
+|<small>This artist's name is a user name from another website. If you know of the user's real name, please update the files.</small>
+|}<noinclude>
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

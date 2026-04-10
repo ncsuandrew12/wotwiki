@@ -1,0 +1,36 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Atha'an Miere
+| occupation=Librarian
+| rank=Aes Sedai
+| affiliation= White Tower
+| gender=Female
+| status=Alive
+| mentioned={{Wh|11}}
+| lastmentioned={{cot|21}}
+| living=cot
+|hair = Dark
+|eyes = Dark}}'''Nyein Kalede''' is an [[Atha'an Miere]] [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Nyein Kalede}}
+
+== Appearance and Personality ==
+Nyein has dark skin, hair, and eyes. Like other Sea Folk Aes Sedai, she doesn't wear any jewelry except for her [[Great Serpent ring]].
+
+Outwardly, she is a shy, withdrawn woman.
+
+==History==
+She is one of the ''[[Atha'an Miere]]'' and works in the [[White Tower Library]], along with [[Aiden Shimura]] and [[Zemaille Amassa]], the other ''Atha'an Miere'' Aes Sedai. They tend to stay on the upper levels of the library with the secret records.
+
+At the time of the [[Dragon Reborn]]'s birth, there were four Sea Folk Aes Sedai in the White Tower, and two of them were almost 300 years old. Nyein is one of the younger two.
+
+As with the other Aes Sedai of ''Atha'an Miere'' origin, Nyein is relatively weak in the [[One Power]].
+
+She went to the White Tower at twenty-six and claimed she was eighteen by pretending to be a [[wilder]]. She [[Slowing|slowed]] at nineteen.
+
+{{notes}}
+{{Short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

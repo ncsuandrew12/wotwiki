@@ -1,0 +1,18 @@
+'''Kharendor''' was a nation of the [[Third Age#The Free Years|Free Years]]. It arose from the ruins of [[Aelgar]] and was later conquered by both [[Guaire Amalasan]] and, some years later, [[Artur Paendrag Tanreall|Artur Hawkwing]]. Its territory currently contains the modern kingdom of [[Amadicia]] and the easternmost extent of the [[Shadow Coast]].
+
+==Geography==
+[[Image:Kharendor.png|thumb|right|200px|In red location within the Westlands]]
+
+Kharendor was bordered by the [[River Eldar]] to the north and east, the [[Mountains of Mist]] to the west and north, the [[Sea of Storms]] to the south, and part of the Shadow Cost to the west. Its neighbors were [[Balasun]] to the west, [[Elan Dapor]] to the northwest, [[Dhowlan]] to the north, and [[Shiota]] to the east.
+
+The name and location of Kharendor's capital city is unknown, although the modern city of [[Amador]] lies within the territory once held by Kharendor. It is unknown if Amador existed at this time or what role it played within the nation.
+
+==History==
+Very little is known of Kharendor, save that it was conquered by [[false Dragon]] [[Guaire Amalasan]] during the [[War of the Second Dragon]] and then conquered again by Artur Hawkwing during the [[Consolidation]].
+
+In {{fy|1015}}, Lord [[Santal Ramoth]] tried to reestablish Kharendor, being a direct descendant of the nation's last king. Finding that Kharendor no longer united the people in the area, he founded a new nation, [[Amadicia]], and was crowned its first king in {{fy|1023}}.
+
+{{nations}}
+[[es:Kharendor]]
+[[Category:Nations of the Free Years]]
+[[Category:Historical nations]]

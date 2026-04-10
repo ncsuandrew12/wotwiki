@@ -1,0 +1,4 @@
+'''Innkeepers''' are those people who own inns and cater to travelers and townspeople alike.
+
+[[Category:Occupations| Innkeepers]]
+[[Category:Sort option categories]]

@@ -1,0 +1,21 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| rank=Captain
+| occupation=Soldier
+| affiliation=White Tower
+| gender=Male
+| appeared={{Tgs|41}}
+| lastappeared={{tgs|41}}
+| living=tgs
+}}'''Vestas''' is a [[captain]] in [[Gareth Bryne|Gareth Bryne's]] army.{{ref|{{twotc}}, Vestas}}
+
+==Appearance==
+Captain Vestas is a man who has a deep voice.
+
+== Activities ==
+He is one of the men that accompanies Bryne, [[Siuan Sanche]] and [[Gawyn Trakand]] into the [[White Tower]] during the [[Battle of Tar Valon]] to rescue [[Egwene al'Vere]]. They engage a [[Seanchan]] attack and reports back to Bryne the casualty report.{{ref/book|12|41}}
+
+{{notes}}

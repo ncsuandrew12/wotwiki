@@ -1,0 +1,5 @@
+These are ''existing'' articles that need to be brought up to a higher level of quality, in accordance with the proposed [[Help:Style Guide|Style Guide]]. See also [[Special:WantedPages|wanted pages]] for pages that do not exist yet, but should. '''[[project:Be bold|Be bold]]!'''
+
+==See also==
+[[Help:Cleanup]]
+[[Category:Todo| Cleanup]]

@@ -1,0 +1,20 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Female
+| appeared={{Tfoh|40}}
+| lastappeared={{tfoh|40}}
+| living=tfoh
+}}
+'''Muelin''' is a contortionist in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]].{{ref|{{twotc}}, Muelin|Muelin}}
+
+==Activities==
+Muelin previously performed in a competing show that was nearly destroyed by a rioting mob.{{ref/book|5|40}} After escaping from that unfortunate circumstance she was hired by Luca in the summer of 999NE.  She lived with other contortionists in a virulently yellow wagon.{{ref||Muelin}}
+
+{{notes}}
+
+{{short}}

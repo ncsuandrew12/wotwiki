@@ -1,0 +1,9 @@
+*{{SITENAME}}
+*Top Content
+** Special:Insights/popularpages|most_visited
+** recentchanges-url|recentchanges
+*Community
+** Special:ListUsers|Top users
+** portal-url|portal
+*Jump Right In!
+** wantedpages-url|wantedpages

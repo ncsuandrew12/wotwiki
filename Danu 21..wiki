@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Danu}}
+|}
+'''Danu 21 (December 14)'''
+
+==Events==
+</noinclude>
+*{{ne|978}} - [[Moiraine]] is told just before dawn that she is to be tested for the shawl, just after sunrise.
+*{{ne|999}} - [[Coiren]] sends a fourth note asking to meet [[Rand]]; he accepts.
+<noinclude>
+==External links==
+*[[wikipedia:december 14|December 14]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

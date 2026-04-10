@@ -1,0 +1,30 @@
+{{ character 
+| image=Melindhra.jpg
+| imagesize=250px
+| death={{ne|999}}
+| nationality=Aiel
+| society=Far Dareis Mai
+| clan=Shaido
+| sept=Jumai
+| gender=Female
+| affiliation=The Shadow
+| height=Tall
+| hair=Long, golden
+| eyes=Pale blue
+| status=Dead
+| appeared={{tfoh|3}}
+| lastappeared={{tfoh|51}}
+| lastmentioned={{tfoh|52}}
+}}'''Melindhra''' was an [[Aiel]] [[Maiden of the Spear]] from the [[Jumai]] sept and the [[Shaido]] clan. She was also a [[Darkfriend]].
+
+== Appearance ==
+She was about thirty years old, and taller than Mat with short golden hair and pale blue eyes.
+
+== Activities ==
+She showed interest in [[Mat]] starting in [[Rhuidean]]. He offered her a necklace.{{ref/book|5|3}} They became romantically involved.
+
+She wrote a letter to [[Hadnan Kadere]] trying to get in contact with him. Later, she tried to kill Mat in [[Cairhien]] when she found out that [[Rand al'Thor]] had asked Mat to lead his forces against [[Sammael]] in [[Illian]] and he killed her.{{ref/book|5|51}} She was a [[Darkfriend]] who was in the employ of Sammael, proven by the knife with which she tried to kill Mat—a knife with a jade hilt and nine golden bees, the sign of Illian, Sammael's domain.
+
+Note: It is unclear where Melindhra's orders come from other than being a Darkfriend. She actually attacks Mat when he mentions Caemlyn so it could be that she works for [[Rahvin]] and killing Mat with an Illianer knife was supposed to deflect Rand back to Illian or delay Rand while giving warning of Rand's plans.
+
+{{notes}}

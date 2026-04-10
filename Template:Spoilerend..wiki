@@ -1,0 +1,2 @@
+<div class="notice metadata" id="spoiler" style="border: 1px solid #846161; background-color: #08088A; width: auto; margin: 0 auto 1em auto; padding: .2em;">'''''{{A|{{{1|spoilerend}}}|Spoilers end here}}'''''</div><noinclude>
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,16 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tairen
+| occupation=Tavernkeeper
+| gender=Male
+| appeared={{tom|8}}
+| lastappeared={{tom|8}}
+| living=tom
+}}
+'''Bernherd''' is the [[tavernkeeper]] of [[The Dead Man's Breath]] in [[Caemlyn]].
+
+==Appearance==
+Bernherd is a greasy-haired Tairen with a mouth so small it looked like he had swallowed his lips by mistake. He smells of radishes.{{ref/book|13|8}}
+{{notes}}

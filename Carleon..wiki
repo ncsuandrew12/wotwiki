@@ -1,0 +1,26 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| gender=Male
+| title=[[High Lord of Tear]]
+| build=Thick
+| status=Dead
+| death={{ne|999}}
+| mentioned={{tsr|4}}
+| appeared={{tsr|8}}
+| lastappeared={{tsr|8}}
+| lastmentioned={{tsr|17}}
+}}
+'''Carleon''' was a [[High Lord]] of [[Tear]]. 
+
+== Appearance ==
+He had a thick body.
+
+== Activities ==
+Along with High Lords [[Tedosian]], [[Sunamon]] and [[Meilan]], he attended a meeting with [[Rand al'Thor]] to discuss new policies that Rand was implementing after the [[Stone of Tear]] fell. Rand noticed he and Tedosian were avoiding looking at eachother.{{ref/book|4|8}} He was numbered among those Lords disloyal to Rand. [[Thomdril Merrilin]] forged and placed a letter where the High Lord [[Tedosian]] found it, linking Carleon to Tedosian's wife, [[Alteima]].{{ref/book|4|4}} He was killed by Tedosian in a "hunting accident."{{ref/book|4|17}}
+
+{{notes}}
+
+[[es:Carleon]]
+[[Category:Nobility]]

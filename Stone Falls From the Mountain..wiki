@@ -1,0 +1,12 @@
+{{swordform
+| mentioned={{3|55}}
+| used=[[Be'lal]]
+}}
+{{dablink|For other uses of the words "stone" and "mountain," see [[Stone]] and [[Mountain]].}}
+'''Stone Falls From the Mountain''' is a [[sword form]]. Aside from the name, nothing is known about it. [[Be'lal]] used this form against [[Rand al'Thor]] in the [[Stone of Tear]] during their duel over ''[[Callandor]]''.{{ref/book|3|55}}
+
+==See also==
+* [[Stones Falling Down the Mountain]], a sword form with a similar name.
+
+{{notes}}
+{{short}}

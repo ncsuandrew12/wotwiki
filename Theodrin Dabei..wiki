@@ -1,0 +1,87 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ewot=Theodrin
+| ajah=Brown
+| nationality=Domani
+| rank=Aes Sedai
+| affiliation=White Tower
+| gender=Female
+| status=Alive
+| appeared={{tdr|11}}
+| lastappeared={{amol|37}}
+| lastmentioned={{amol|37}}
+| living=amol
+|birth ={{ne|966}}
+|build = Willowy}}'''Theodrin Dabei''' is an [[Aes Sedai]] of the [[Brown Ajah]]. She was an [[Accepted]] until being raised to the shawl by an executive decree issued by [[Egwene al'Vere]].{{ref|{{twotc}}, Theodrin Dabei}}
+
+== Appearance and Personality ==
+Theodrin is apple cheeked, willowy and graceful, with a swanlike neck and coppery skin.{{ref/book|3|11}}{{ref/book|6|8}} Her mouth looks as if she wants to smile. Though Domani, she dresses modestly.
+
+Her personality is good-natured. She is kind and patient.{{ref/book|5|54}}
+
+==Strength and Abilities==
+Theodrin is [[Strength in the One Power among Aes Sedai|strong]] in the [[One Power]] by Aes Sedai standards with a potential strength of {{opsl|21}}. [[Egwene al'Vere]] compared her and [[Faolain Orande]]'s strength with that of [[Amys]] and [[Melaine]], grouping tham all as "far from weak".{{ref/book|7|10}}{{ref/book|7|11}} Due to her being a [[Wilder]] with a [[Block]], it's possible she is taking longer to reach her full potential.
+
+She is able to use the [[weave]] to open a [[gateway]] to [[Travel]]. 
+
+Theodrin is not very good at [[Healing]].{{ref/book|6|13}}
+
+She is a wilder. Her wilder trick was to make a man either want to kiss her or leave her alone.
+
+== History ==
+She was born in [[Arad Doman]] in {{ne|966}}.
+
+Theodrin was a [[wilder]] when she came to the [[White Tower]] in [[981 NE]]. She was originally unable to [[channel]] unless a man for whom she had very strong feelings, either attraction or hatred, was nearby. She later overcame this block; Charel, a handsome groom for whom she had very strong feelings had been watching her train, but one day was replaced by his twin sister Marel in disguise. When she realized she had been channeling only in the presence of other women, Theodrin was then able to channel ''[[saidar]]'' at will.{{ref/book|6|8}}
+
+She spent eleven years as a [[novice]] and had been [[Accepted]] for seven years when the Tower split.
+
+==Activities==
+Theodrin was still an Accepted by the time [[Nynaeve al'Meara]] and Egwene al'Vere arrived in the White Tower for their training.{{ref/book|3|11}}{{ref/book|3|13}}
+
+=== Salidar Aes Sedai ===
+When [[Siuan Sanche]] was deposed as [[Amyrlin Seat]], Theodrin joined the Aes Sedai who fled to [[Salidar]], where she continued her training. Since the Salidar Aes Sedai did not have access to the [[Oath Rod]] or testing ''[[ter'angreal]]'', Theodrin was unable to be raised to the [[shawl]], but instead was granted a special level where she was more than Accepted, but not full Aes Sedai.{{ref/book|5|54}}{{ref/book|6|8}} [[Faolain Orande]] was in a similar position.
+
+=== Nynaeve's block ===
+When Nynaeve and [[Elayne Trakand]] arrived in Salidar, Theodrin was assigned to help Nynaeve break her own block. It was far more difficult than she anticipated, but Theodrin did not stop; she kept trying many different methods.{{ref/book|5|54}}{{ref/book|6|19}}{{ref/book|6|29}}
+
+=== Aes Sedai===
+Theodrin was raised to the shawl by a declaration from Egwene al'Vere as the Amyrlin Seat in exile,{{ref/book|6|36}} along with Nynaeve, Elayne, and Faolain. She chose the Brown as her Ajah. Theodrin and Faolain later both swore fealty to Egwene.{{ref/book|7|11}} Because Theodrin hasn't used the [[Oath Rod]] other Aes Sedai still don't count her as one of their ranks. It can, however, be assumed that once she has used the Oath Rod, she will stand quite highly in the Aes Sedai hierarchy due to her strength in the One Power.
+
+[[Romanda Cassin]] has decided to take her under her wing and uses her as an attendant. She is actually being used as a spy to report all activities about Romanda to Egwene and Siuan.{{ref/book|8|16}}
+She slips Egwene a note informing her of Romanda sending sisters to [[Cairhien]], to investigate the news on someone else discovering how to [[Heal]] [[Severing]].{{ref/book|10|30}}
+
+Theodrin was not happy about the arrangement with Romanda, as she knew it meant being treated as an elevated Accepted. The Browns even appointed a guardian to make sure she did nothing wrong. However, she also saw helping Egwene as a way to get back at the sisters who treated her like that.
+
+She runs to tell Romanda of [[Lelaine Akashi]] calling the [[Hall of the Tower|Hall]] to sit.{{ref/book|11|23}}
+
+===Black Tower delegation===
+Somehow Lelaine discovered about the sisters sworn to Egwene, and Lelaine finds a way to send away several of them.
+
+In fact [[Nisao Dachen]], Myrelle, Theodrin and [[Faolain]] are part of the delegation sent to the [[Black Tower]] and has not been heard from them in some time.{{ref/book|12|45}} This is a very strange choice to send Nisao because she has a [[Warder]]. Strange choices also for Theodrin and Faolain that are not recognised full sisters from the majority of the rebels.
+
+After White Tower reunification Theodrin and Faolain are probably summoned to be tested in the [[Oval ring]] as Nynaeve was, but it is never mentioned or described in any book.
+
+=== The [[Last Battle]] ===
+After [[Androl Genhald]] and [[Pevara Tazanovni]] had lead the cleansing of the Black Tower, Theodrin joined the White Tower delegation that entered inside it, to bond 47 Asha'man. [[Lyrelle Arienwin]] tells her she is to only take one [[Asha'man]].{{ref/book|14|21}}
+
+But Theodrin does not bond a man among the 47, allowing another Aes Sedai to take her one. In fact she joined Androl and Pevara party at the [[Field of Merrilor]] because she likely wishes to bond [[Jonneth Dowtry]] as her Warder.{{ref/book|14|37}} The two of them seem to be fond of each other; many times they fight bravely together and assist one another, and it is presumed they survived the Last Battle. She and Pevara avoid each other though, as Pevara does not recognize Theodrin as a full sister because of her unorthodox raising.
+
+During the battle on the Field of Merrilor Theodrin fought along Androl, Pevara, Jonneth and [[Emarin]]. They disguised themselves as [[Darkfriends]] when they went to find and steal back the lost Seals. When [[Logain]] left to find [[Sakarnen]], they went to stop the [[Dreadlords]] from destroying the [[Dragons]]. They helped to save some refugees attacked suddenly by some fists of [[Trollocs]]. Finally they lured a group of Dreadlords into a trap in the [[Stedding Sholoon]].
+
+==Parallels==
+
+The name Theodrin is superficially similar to {{Wlink|lotr|Théoden}}, the king of {{Wlink|lotr|Rohan}} in ''{{Wlink|lotr|The Lord of the Rings}}.'' However, the characters are otherwise dissimilar.
+
+==Speculation==
+As in the case of [[Nynaeve]] it can be assumed that also [[Faolain]] and Theodrin had to be tested in the [[Oval ring]] and swore on the [[Oath Rod]] before being recognized as full sisters by the others.
+
+{{Notes}}
+{{DEFAULTSORT:Dabei, Theodrin}}
+[[Category:Wilders]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Sparkers]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Parallels]]

@@ -1,0 +1,17 @@
+{{character 
+| image=ManetherenFlag.png
+| imagesize=100px
+| status=Dead
+| nationality=Manetheren
+| occupation=Historian
+| gender=Female
+| mentioned={{tom|15}}
+| lastmentioned={{tom|15}}
+}}
+'''Alrom Marsim''' was a historical author from [[Manetheren]]. She wrote a book on the [[War of the Shadow]], [[Annals of the Final Night]], that gave some details about [[Mesaana]]. {{ref/book|13|15}}
+
+{{notes}}
+{{short}}
+[[Category:Authors]]
+[[Category:Historical people]]
+{{DEFAULTSORT:Marsim, Alrom}}

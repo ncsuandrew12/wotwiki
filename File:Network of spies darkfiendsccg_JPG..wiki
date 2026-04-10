@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character image
+| ImageType2         = CCG
+| Description        = Masked [[Darkfriends]] at the [[Darkfriend Social]]; CCG card called "Network of Spies"
+| Source             = The "Children of the Dragon" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Tina Druce-Hoffman
+}}

@@ -1,0 +1,28 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| status=presumed dead
+| nationality=Unknown nationality
+| occupation=Warder
+| gender=Male
+| weight=Slender
+| height=Tall
+| appeared={{Tgh|2}}
+| lastappeared={{wh|23}}
+| living=
+}}'''Ihvon''' is [[Warder]] to [[Alanna Mosvani]].{{ref|{{twotc}}, Ihvon}}
+
+== Appearance ==
+He is tall and slender and of a dark complexion.
+
+== Activities ==
+He is present in the Two Rivers when [[Perrin Aybara]] comes back to confront the [[Children of the Light]].{{ref/book|4|30}} He saves Perrin's life by killing a [[Myrddraal]] that was about to kill Perrin during the Waterwood ambush.{{ref/book|4|40}} He was told to bring Perrin back to Alanna. He helps the village when the [[Shadowspawn]] army attacks.{{ref/book|4|56}}
+
+He goes with Alanna to [[Far Madding]] to find [[Rand al'Thor]].{{ref/book|9|23}}
+
+His fate after Alanna's kidnapping{{ref/book|13|12}} and death{{ref/book|14|46}} is unknown, but due to the silence from him, it can be presumed he was killed in her disappearance.
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Ihvon}} is played by actor {{TVlink|Emmanuel Imani}}.
+
+{{notes}}

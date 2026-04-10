@@ -1,0 +1,16 @@
+{| class="wikitable" 
+|colspan="2" style="background-color:#242424;"|<center><big>'''Glossary'''</big></center>
+|-
+|style="border-right:none; background-color:#424242;" valign=top|'''{{{term|{{PAGENAME}}}}}'''{{{pronunciation|}}} :
+|style="border-left:none; background-color:#424242;"|{{{1<noinclude>|definition goes here</noinclude>}}}
+|}
+''<small>If you believe this deserves a more complete article, you can help by [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} expanding it]</small>
+
+<noinclude>
+==Usage==
+ <nowiki>{{</nowiki>glossary|definition goes here|term=word}}
+
+The <code>"|term=word"</code> part is optional; it defaults to <code><nowiki>|term={{PAGENAME}}</nowiki></code>
+</noinclude><includeonly>
+[[Category:Glossary]]</includeonly><noinclude>
+[[Category:Templates]]</noinclude>

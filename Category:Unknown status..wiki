@@ -1,0 +1,4 @@
+A list of people whose status is unknown or debatable. The default assumption is that characters not mentioned after their last appearance are still alive. However, if there is a high likelihood or possibility that they may have been killed, but that fact has not been confirmed, they will be included in this category. These characters will also be categorized under the appropriate sub-categories listed [[:Category:Living|here]].
+
+[[Category:Current status| Unknown status]]
+[[Category:Sort option categories]]

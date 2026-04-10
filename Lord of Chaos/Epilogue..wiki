@@ -1,0 +1,75 @@
+{{quote|The unstained tower breaks and bends knee to the forgotten sign.<br/>The seas rage, and stormclouds gather unseen.<br/>Beyond the horizon, hidden fires swell, and serpents nestle in the bosom.<br/>What was exalted is cast down; what was cast down is raised up.<br/>Order burns to clear his path.|The [[Prophecies of the Dragon]]}}
+{{for|other chapters with "Answer" in the title|Answer}}
+{{summary | book=6 | ewot=epilogue | tarvalonwiki=Lord_of_Chaos:_Epilogue
+|chapter=epilogue
+|prev=Lord of Chaos/Chapter 55
+|next=A Crown of Swords/Prologue
+|title=The Answer
+|icon=wheel
+|wotmania=355
+|setting= [[Ebou Dar]], The [[School of Cairhien]], outside Ebou Dar, [[Salidar]], the [[Pit of Doom]]
+}}
+
+== Summary ==
+
+:{{pov|[[Falion Bhoda]]}}
+Falion receives a note from a [[Darkfriend]] in [[Tarasin Palace]] livery. Like [[Mat]], she is trying to watch [[Elayne]] and [[Nynaeve]] so she can find the ''[[angreal]]'' cache [[Moghedien]] sent her to [[Ebou Dar]] to look for. She doesn't know why they are there, but she suspects that they will lead her to the cache. Unfortunately, they elude her watchers as well as they elude Mat's.
+ 
+:{{pov|Narrator}} {{setting|the [[School of Cairhien]]}}
+A ''[[gholam]]'' squeezes under the door to [[Herid Fel]]'s study and tears him limb from limb. When [[Idrien]] finds the remains, she faints.
+
+:{{pov|[[Seanchan]] rider}} {{setting|outside [[Ebou Dar]]}}
+The Seanchan man that heard Mat's comment about the [[Daughter of the Nine Moons]] while in [[The Wandering Woman]] is leaving Ebou Dar to report. He hopes the city resists the [[Return]] so there will be loot to be had.
+
+:{{pov|[[Moghedien]]}} {{setting|[[Salidar]]}}
+
+Moghedien is still furious with her situation, being held by an ''[[a'dam]]'' and living as one of [[Egwene|Egwene's]] personal servants. Egwene is a terrifying mistress but [[Siuan]] is worse. [[Aran'gar]] enters Moghedien's tent and channels a light, but Moghedien cannot see the flows. It is [[Halima]], but she must be channeling ''[[saidin]]'' like a man and realizes Halima isn't what she appears to be. Halima says she is Aran'gar and when the ''a'dam'' is removed, she will immediately be sent to Shayol Ghul. 
+
+:{{pov|[[Egwene al'Vere]]}} {{setting|[[Salidar]]}}
+Egwene feels the necklace being removed and hastens to Moghedien's tent, but she is too late. The pain of the ''a'dam'' coming off tells her that it was removed by a man who can channel. She worries briefly that it could have been [[Logain]], whom she helped to escape.
+
+:{{pov|[[Demandred]]}} {{setting|the [[Pit of Doom]]}}
+Demandred believes he has done well and says that to the [[Dark Lord]] but laughter fills his head. For once, he does not care that [[Shaidar Haran]] is watching him.
+
+==Characters==
+*[[Falion Bhoda]]
+*[[Herid Fel]]
+*unnamed [[Seanchan]] rider
+*[[Moghedien]]
+*[[Aran'gar]]
+*[[Egwene al'Vere]]
+*[[Demandred]]
+*[[Dark One]]
+*[[Gholam]]
+*[[Idrien Tarsin]]
+*[[Chesa]]
+*[[Shaidar Haran]]
+
+
+===Referenced===
+*[[Elayne Trakand]]
+*[[Nynaeve al'Meara]]
+*[[Jeorad Manyard]]
+*[[Siuan Sanche]]
+*[[Leane Sharif]]
+*[[Birgitte Silverbow]]
+*[[Logain Ablar]]
+*[[Artur Hawkwing]]
+
+==Places==
+* [[Ebou Dar]]
+* [[School of Cairhien]]
+* [[Salidar]]
+* [[Pit of Doom]]
+
+===Referenced===
+* [[Tanchico]]
+* [[Amadicia]]
+* [[Shayol Ghul]]
+* [[Andor]]
+
+==One Power==
+*''[[Angreal]]''
+*''[[A'dam]]''
+
+{{DISPLAYTITLE:''The Answer''}}

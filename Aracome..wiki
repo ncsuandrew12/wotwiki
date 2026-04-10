@@ -1,0 +1,35 @@
+{{ character
+| image=Aracome.jpg
+| imagesize = 250px
+| nationality=Tairen
+| gender=Male
+| title=[[High Lord of Tear]]
+| affiliation=The Dragon Reborn
+| build=Slender
+| status=Dead
+| hair=Graying
+| death={{ne|1000}}
+| mentioned={{tsr|21}}
+| appeared={{tfoh|46}}
+| lastappeared={{tpod|23}}
+}}
+'''Aracome''' was a [[High Lord]] of [[Tear]]. 
+
+== Appearance ==
+He was slender, with a narrow face and graying hair.
+
+== Activities ==
+He is sent with the army of Tear to restore order to [[Cairhien]].{{ref/book|4|21}}
+
+== Fealty ==
+After the battle with the [[Shaido]] in [[Cairhien]], Aracome, along with the High Lords [[Hearne]], [[Gueyam]], [[Maraconn]], [[Simaan]] and [[Torean]], swore fealty to [[Rand al'Thor]].
+
+He goes with Rand when Rand tries to deal with the [[Illian]] rebels loyal to Lord Brend.
+He rides with Rand when Rand's forces attack the invading [[Seanchan]] just outside Illian. He refuses Healing after battle with the Seanchan and dies shortly after.
+
+== Viewing ==
+[[Min]] had a viewing that Aracome, Maraconn and Gueyam were going to die bloody deaths in battle. This viewing has been fulfilled for all of them.
+
+{{notes}}
+[[es:Aracome]]
+[[Category:Nobility]]

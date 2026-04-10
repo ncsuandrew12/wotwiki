@@ -1,0 +1,5 @@
+{{Image
+| License                 = GFDL
+| ImageType1              = Miscellaneous
+| Description             = Last quarter moon icon
+}}

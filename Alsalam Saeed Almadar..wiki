@@ -1,0 +1,55 @@
+{{Character 
+| image=AradDomanFlag.png
+| ewot=alsalam
+| imagesize=250px
+| name=Alsalam Saeed Almadar
+| nationality=Domani
+| death={{ne|1000}}
+| hair=Gray, shoulder-length
+| status=Dead
+| gender=Male
+| mentioned={{Loc|6}}
+| appeared={{tom|32}}
+| lastappeared={{amol|24}}
+| lastmentioned={{amol|e}}
+| rank=King
+| title=Lord of Almadar, [[High Seat]] of [[House Almadar]]
+}}
+'''Alsalam Saeed Almadar''' was the king of [[Arad Doman]], Lord of Almadar, High Seat of House Almadar. {{ref/book|twotc|Alsalam Saeed Almadar}}
+
+== Appearance ==
+He was an older man with long gray hair which fell to his shoulders. He had a large beak of a nose, kindly eyes, and coppery skin. His eyes demand obedience.
+
+== History ==
+His reign began approximately {{ne|980}}.{{verify}}  He was elected by the [[Council of Merchants]].{{ref/book|twotc|Alsalam Saeed Almadar}}
+
+The [[Tuva|Lady Tuva]] was a close cousin of his.{{ref/book|8|12}}
+
+King Alsalam raised Lord [[Rodel Ituralde]], his personal friend, to High Seat of House Ituralde and General of [[Arad Doman]].
+
+== Activities ==
+
+Alsalam was considered a good ruler for around twenty years.{{verify}} 
+
+=== Chaos in Arad Doman ===
+
+At some point during the events of [[The Fires of Heaven]], [[Elaida do Avriny a'Roihan]] had Alsalam kidnapped and taken to an unknown location in the [[Caralain Grass]] where he remained until shortly before the [[Tarmon Gai'don|Last Battle]].{{ref/book|twotc|Alsalam Saeed Almadar}}
+
+The Forsaken [[Graendal]] took advantage of his absence to implement the [[Dark One]]'s orders to "let the Lord of Chaos rule" by kidnapping members of his family, extracting information from them and falsifying documents purporting to be orders from the King and communications from him via intermediaries. These orders were deliberately designed to create as much confusion and disorder as possible. 
+
+Various members of the royal family were seen under Graendal's thrall, including Alsalam's sister, eldest daughter, his brother, [[Ramsid]], and his sister-in-law, Ramsid's wife, who were on display as acrobats under Graendal's Compulsion. The Lady [[Tuva]], a close cousin of his, was another of Graendal's captives whose handwriting she forged in a letter giving commands to [[Rodel Ituralde]]. Graendal said that the King himself was not exquisite enough for keeping as a pet according to Graendal's standards, but in reality she had no idea where the King was other than he was nowhere to be found.
+
+The [[Council of Merchants]] claimed the Domani King and the royal family were "in hiding" for their own protection. They may have been bluffing to avoid admitting they had no idea or directly under the control of Graendal. The Council could remove him by a three-quarters vote, but the national chaos and influence of Graendal could have prevented them electing a new monarch.
+
+Rodel Ituralde, becoming suspicious of the erratic behaviour of the King, and with whom he was a close a friend, began to act more independently to solidify the efforts to resist the Seanchan and believed the King to be dead.
+
+Alsalam was discovered alive and well by [[Cadsuane Melaidhrin]] along the [[Caralain Grass]]. He had been removed from [[Arad Doman]] shortly after the start of the civil war by [[Aes Sedai]], and they were to take him back to the [[White Tower]] for his own protection. Given that he had been missing for over a year, it is unsure why they stopped in Caralain grass, a location fairly close to Arad Doman itself. 
+
+Cadsuane brought Alsalam and his escort to the [[Stone of Tear]], where he was reunited with Rodel Ituralde.
+
+===The Last Battle===
+[[Egwene al'Vere]] is surprised to see Alsalam still lives when she sees him at the [[Field of Merrilor]]. He is one of the many rulers who is present during Rands discussion of the [[Dragon's Peace]]. Alsalam ends up signing it with all the other rulers. He joined the forces of the Light at [[Shayol Ghul]], under the command of his [[great captain]], Rodel Ituralde. Alsalam calms Ituralde down on the eve of a their first big clash with the enemy. Alsalam watches on in wonder as Ituralde springs trap after trap, decimating Trolloc ranks. The Trolloc finally have enough and withdraw for the day.
+
+Although not explicitly shown, Alsalam was killed in the Last Battle and it is highly likely that Rodel Iteralde will be the next ruler of Arad Doman. We see several Aes Sedai pushing him in this direction.
+
+{{Notes}}

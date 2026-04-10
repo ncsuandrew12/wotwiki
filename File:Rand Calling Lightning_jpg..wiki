@@ -1,0 +1,9 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Fan Art
+| ImageType2              = Character
+| ImageType3              =
+| Description             = [[Rand]] calling lightning.
+| Source                  = [http://dem888.deviantart.com/gallery/#/d2d2w9n DeviantArt]
+| Artist                  = Eric de Mander
+}}

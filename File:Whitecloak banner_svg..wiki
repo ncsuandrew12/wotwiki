@@ -1,0 +1,6 @@
+{{Image
+| License            = gfdlself
+| ImageType1          = Flag
+| Description        = Flag of the Whitecloaks
+| Source             = 
+}}

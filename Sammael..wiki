@@ -1,0 +1,80 @@
+{{featuredicon}}{{character
+| image=Wot sammael by reddera-d4vmo8j.jpg
+| imagesize=250px
+| birth=Age of Legends
+| death={{ne|1000}}
+| nationality=Illian
+| rank=Chosen
+| height=Slightly above average
+| build=Compact, Solid
+| status=Dead
+| hair=Golden, Blond
+| eyes=Blue
+| gender=Male
+| mentioned={{tdr|6}}
+| appeared={{tfoh|prologue}}
+| lastappeared={{acos|41}}
+| lastmentioned={{amol|41}}
+}}'''Sammael''' (SAHM-may-EHL, /ˈsɑːm.mɛɪˌɛɫ/; [[Old Tongue]]: ''Destroyer of Hope''), formerly known as '''Tel Janin Aellinsar''', was one of the thirteen [[Forsaken]] who was trapped at [[Shayol Ghul]] due to the [[Dragon]]'s sealing. He was a world-renowned sportsman in the [[Age of Legends]] and one of the Light's greatest generals, until he defected. Sammael used the alias '''Lord Brend''' in [[Illian]] and '''Caddar''' in meeting the [[Shaido]].
+== Appearance ==
+Sammael was of slightly above-average height and had always wished that he was taller, because he believed that many subconsciously measure the worth of a man by his height. He was also known to have been irked by the fact that the One Power could not be used to increase someone's height. He is solid and compact with blue eyes and golden hair. He has a square trimmed beard and a scar which runs from hairline to beard. This scar was apparently given to him by Lews Therin at some point, and he kept it as a reminder rather than having it healed. His solid build and commanding presence often have the effect of making him seem larger than he actually is. 
+Although not physical, he was attributed to be cold and ruthless and without "any sense of humor at all".
+
+==Strength==
+In "The Wheel of Time Companion" his level of strength in the [[One Power]] is described as {{opsl|2}}, making him one of the most powerful channelers ever, but still below [[Rahvin]], [[Moridin]], and [[Rand al'Thor]].
+
+==History==
+[[Image:Snake-icon.svg|left|125px]]
+Tel Janin Aellinsar was a compact and brusque man. He was a master archer as well as a world champion of a bloodless sword sport. Janin was friends with [[Lews Therin Telamon]], although it is not certain how deep this friendship ran. Janin learned of his abilities as a strategist and soldier during the [[War of Power]], while fighting for the side of the Light. His abilities tended more towards defense; a useful talent, since the forces of the Light were often on the defensive.
+
+[[Image:Sammael.jpg|left|thumb|175px|Sammael portrait done by Seamas Gallagher]]
+However, supreme command of the forces of the Light was eventually given over to the Dragon, and this fact sat uncomfortably with Tel Janin, who believed himself to be the superior general. He went with [[Graendal]] to [[Shayol Ghul]], where he swore his oaths to the [[Dark One|Dark Lord]]. Finally, four years into the War of Power, he betrayed the side of Light by leaving the [[Gates of Hevan]] open and leading the Shadow into [[Satelle]]. Caught unprepared and off-guard, the subsequent battle was a complete disaster for the forces of humanity. It was after this betrayal that he was given the name Sammael.
+
+In leading the forces of the Shadow, Sammael much preferred battle to administration. Consequently his territories were often not well managed, and the people living there frequently had too little to eat. He also enjoyed constructing grandiose schemes, usually involving many people. Despite having turned to the Shadow out of jealousy of Lews Therin, believing him to be an inferior tactician, it is implied by Lanfear that Sammael never managed to win a battle against him. [[Moghedien]], however, considered his tactical acumen to be at least close to that of [[Demandred]].{{ref/book|14|41}}
+
+He was given the scar on the side of his face by Lews Therin and never had it [[Healing|Healed]]: he preferred to leave it as a reminder.
+
+During the War of Power, Sammael tried to bait Lews Therin into attacking him at Sarendahar. Millennia later, Sammael would use this tactic once again, this time on [[Rand al'Thor]].
+
+During the final stages of the War, forces under Sammael's command overran the area where the access keys to the massive [[Choedan Kal]] were being constructed. Fortunately for humanity, Sammael never learned of this fact. His final actions during the War were to open an offensive from his newly conquered territory. Concurrent with strikes from armies under the command of [[Demandred]] and [[Be'lal]] respectively, this final offensive seemed to possibly be aimed at capturing the Choedan Kal, as both ''[[sa'angreal]]'' were threatened by the advances.
+
+Sammael was imprisoned with the rest of the [[Forsaken]] at [[Shayol Ghul]] when Lews Therin Telamon and the [[Hundred Companions]] sealed the [[Dark One]] in his prison.
+
+==Release==
+===Illian===
+[[File:Sammael.JPG|thumb|308x308px|The Forsaken Sammael]]
+After being released from his 3000-year imprisonment, he became '''Lord Brend''', quickly taking over the [[Council of Nine]] in [[Illian]]. From here he was able to hunt ''[[angreal]]'' and ''[[sa'angreal]]'' to increase the amount of the [[One Power]] he could channel. He sent [[Jaichim Carridin]] to [[Ebou Dar]] to search for a cache there. 
+He teamed up with [[Lanfear]], [[Graendal]] and [[Rahvin]] to try and turn [[Rand al'Thor]] to the Shadow. He channels blasts of lightning and fire at Rand during the battle with the [[Shaido]] outside [[Cairhien]], killing a large number of ''[[Far Dareis Mai]]''.
+
+[[file:Sammael ccg.JPG|thumb|left|Sammael from the [[CCG]]]]
+He also tricked Graendal into revealing where [[Mesaana]] was residing, saying that he had made a truce with Rand, and said that he plans to sit back and watch Rand destroy the rest of the Chosen.
+
+===Spreading chaos===
+Sammael also approached [[Sevanna]] and the Shaido, whilst in disguise as '''Caddar''', and tricked them into dispersing themselves across the continent. The goal of deceiving the Shaido was ultimately to cause damage to Rand al'Thor's reputation among the nations of the world; to most people there was no distinction between the Aiel clans. Thus, as the various septs of the Shaido ravaged the lands to which they were sent, blame was laid at Rand's feet.
+
+===Confrontation===
+Ultimately, the time came for Rand to Travel to Illian to confront Sammael. But rather than risk destroying Illian whilst trying to kill Rand, he instead [[Traveling|Travelled]] to [[Shadar Logoth]]. During his battle with Rand, Sammael was enveloped by [[Mashadar]] after being distracted by the [[Aiel]] [[Maidens of the Spear|Maiden]] [[Liah]] and was presumably killed. He has not been seen since and his final death has been confirmed by Robert Jordan.
+
+[[File:Forsaken Sammael.jpg|thumb|200px|right|The [[Forsaken]] Sammael.]]
+Recently someone posing as Sammael has sent tens of thousands of Trollocs into the Ways.
+
+==Parallels==
+[[Wikipedia:Samael|Samael]] is an antagonistic archangel in Judaism, an angel who tests men. He is frequently referred to as the Angel of Death. He is considered a fallen angel in Christianity.
+
+Samael is one of three names given to the Demiurge in early Christian gnosticism. One of the emanations of God, Sophia (wisdom), created the antithesis of God unintentionally by attempting to create without his consent. The result was the Demiurge, the ultimate betrayal to all that is right and true. It is interesting, in light of Sammael's betrayal of Lews Therin in the Wheel of Time saga, that many have equated the Demiurge in the gnostic worldview to the ego's role in the human psyche.
+
+{{quote|Now the archon (Demiurge) who is weak (ignorant) has three names. The first name is Yaltaboath, the second is Saklas, and the third is Samael. And he is impious in his arrogance which is in him. For he said, 'I am God, and there is no other God beside me,' for he is ignorant of his strength, the place from which he had come.|The Apocryphon of John}}
+
+His true name, Tel Janin, is a probable reference to the minor War & Peace character Telyanin, an army officer who used his position to steal from others. 
+
+[[es:Sammael]]
+[[Category:Aes Sedai (Age of Legends)]]
+[[Category:Council of Nine]]
+[[Category:Generals]]
+[[Category:Blademasters]]
+[[Category:POV character]]
+[[Category:Antagonists]]
+[[Category:Channelers]]
+[[Category:Illian (people)]]
+[[Category:Nobility]]
+[[Category:Lords]]

@@ -1,0 +1,28 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|520}}
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| ajah=Brown
+| gender=Female
+| appeared={{bwb}}
+| lastappeared={{bwb}}
+}}'''Igaine Luin''' was an [[Aes Sedai]] of the [[Brown Ajah]] who served as the [[Amyrlin Seat]] from {{Ne|476}} to {{Ne|520}}.{{ref|{{twotc}}, Igaine Luin}}
+
+==History==
+Igaine held the position for forty-four years until her death in {{Ne|520}}. She was [[Cerilla Marodred]]'s successor and [[Beryl Marle]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Igaine was an Amyrlin of average strength and influence. She was chosen in large part because she would lead the [[White Tower]] away from the open involvement in the world's affairs that her four predecessor had espoused.
+
+Around [[500 NE]], during Igaine's reign, the last traces of the nation of [[Caralain]] vanished.
+
+{{notes}}
+{{DEFAULTSORT:Luin, Igaine}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

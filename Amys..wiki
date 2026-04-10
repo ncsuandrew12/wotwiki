@@ -1,0 +1,73 @@
+{{featuredicon}}{{character 
+| image=Amys.jpg
+| imagesize=250px
+| nationality=Aiel
+| birth = {{ne|952}} - {{ne|956}}
+| occupation=Wise One
+| gender=Female
+| height=Tall
+| weight=
+| hair=Silvery-White
+| eyes=Blue
+| clan=Taardad
+| sept=Nine Valleys
+| status=Alive
+| mentioned={{tdr|39}}
+| appeared={{tsr|11}}
+| lastappeared={{amol|42}}
+| living=amol
+|build = Slim}}
+{{quote|Life is a dream from which we all must wake before we can dream again.|Amys}}
+'''Amys '''(ah-MEESE; /ɑˈmiːs/) of the [[Nine Valleys]] [[sept]] of the [[Taardad]] [[Aiel]], is a [[Wise One]] who can [[channel]], and a [[Dreamwalking|Dreamwalker]].
+
+== Appearance and Abilities==
+Amys is slim and tall, with blue eyes and long white hair that hangs to her waist.{{ref/book|4|11}} Her skin is sun-darkened from living in the [[Aiel Waste]].{{ref/book|4|23}}Although her hair is white, her face is young.
+
+She can channel quite strongly; Egwene thinks she is stronger than most Aes Sedai. We can place her [[Strength in the One Power among the Wise Ones|strength level]] as {{opsl|16}}. Along with Melaine, she is best at interpreting the dream.
+
+==History==
+She used to be a [[Maiden of the Spear]].{{ref/book|4|12}} In her late teens, she was with the group of Maidens that tailed [[Tigraine Mantear]] as she entered the Aiel Waste.  Later she became an apprentice Wise One under [[Bair]], and tried to run away a number of times. She is [[Rhuarc]]'s wife, and [[sister-wife]] to [[Lian]], the [[roofmistress]] of [[Cold Rocks Hold]]. She is between 40 and 50 years old.
+
+Among the Wise Ones in the clans following the [[Car'a'carn]] west of the Dragonwall, she is second only to [[Sorilea]] and she is the only one that has the capacity to change Sorilea's mind on something.{{Ref/book|7|3}}
+
+[[File:Wot amys bair melaine by reddera-d4vmlv1.jpg|thumb|left|Fan art of Amys.]]
+
+==Activities==
+She, along with [[Bair]], [[Melaine]], and [[Seana]] told [[Rhuarc]] that the dreams say he must go in search of the ''[[Car'a'carn]]'',{{ref/book|3|39}} and sent a letter to [[Moiraine]] ordering [[Aviendha]] to return to the [[Aiel Waste]] and to [[Rhuidean]] to be trained as a Wise One. The letter was addressed to Moiraine at the [[Stone of Tear]], but sent at least a month before she had even arrived there.{{ref/book|4|12}}
+
+===Meetings in Rhuidean===
+She meets [[Egwene al'Vere]] in ''[[Tel'aran'rhiod]]'' while Egwene is searching for the [[Black Ajah]]. She tells Egwene to come to Aiel Waste where she can teach her how to become a proper Dreamwalker.{{ref/book|4|11}}
+
+Amys meets [[Rand al'Thor]] and the rest of the Aiel on the slopes of [[Chaendaer]] when they are transported from [[Tear]] to [[Rhuidean]] via the [[Portal Stone]]. She, with the rest of the Aiel Wise Ones, had sent a letter to [[Moiraine Damodred]] saying where they would meet and which day.
+
+Amys agrees to go with Egwene to her scheduled meetings with [[Nynaeve]] and [[Elayne]]. She tells Nynaeve how to use need to find the object [[Liandrin's group of Black Sisters]] are looking for in [[Tanchico]].{{ref/book|4|52}}
+===Dumai's Wells===
+She then travels with Rand and the rest of the Aiel to [[Cairhien]]. She takes Egwene as an apprentice with Bair and teaches her how to Dreamwalk. She is with Egwene in ''Tel'aran'rhiod'' when the [[Salidar Six]] summon Egwene to [[Salidar]]. Her opinion of [[Aes Sedai]] has somewhat diminished with the several meetings she had with them. She is present when Egwene reveals the lie that she is not actually an Aes Sedai. She then gives Egwene a beating to meet her ''[[toh]]''. She was proud of Egwene and would accept her back as an Aiel Wise One again if she ever returns. She leads a group of Wise Ones to help rescue Rand from the [[White Tower]] Aes Sedai but defers to [[Sorilea]] as leader in the end. She participates in the [[Battle of Dumai's Wells]].
+
+After the battle she suggests the Aes Sedai prisoners be placed into the Wise Ones' care. She is present when Rand is [[Healing|Healed]] by [[Damer Flinn]] from the [[Shadar Logoth]] dagger. She is now in complete control of the Aes Sedai, dismissing [[Bera Harkin]] and [[Kiruna Nachiman]] from Cairhien's throneroom.
+
+She acts as [[Elayne Trakand]] and Aviendha's mother in the [[first-sister]] [[Bonding#Third-party bonding|bonding]] ceremony.
+
+===Restoring order to Arad Doman===
+Months later she [[Traveling|Travels]] with the rest of her clan to [[Arad Doman]], where the Aiel attempt to bring peace to the war torn country. While there she gives Aviendha more and more meaningless punishments, in an attempt to make her stand up to the other Wise Ones. She is at the meeting with Rand and the Aiel [[clan chief]]s when Rand gives the order for the Aiel to capture the [[Council of Merchants]]. She is present when [[Davram Bashere]] and [[Damer Flinn]] arrive at the Traveling grounds after being sent to the [[Daughter of the Nine Moons]] to request her to meet with Rand. Later she follows [[Cadsuane Melaidhrin]] into Rand's room where she finds out about [[Semirhage]]'s escape and then death. 
+
+Aviendha finally confronts the Wise Ones, including Amys, on how pointless the tasks they have given are. Standing up to the other Wise Ones is Aviendha's final test, so they send her to Rhuidean to become a Wise One as well. When Cadsuane is banished from Rand's sight, she comes to the Wise Ones for help and a new plan. Amys is meeting with Cadsuane when Nynaeve al'Meara enters with the news that Rand just burned a whole palace full of people away with [[balefire]].
+
+===Meetings with the Amyrlin ===
+Egwene meets Amys and Bair in ''Tel'aran'rhiod'' to inform them that she has become [[Amyrlin Seat]] of the White Tower. She also discusses the idea of Accepted being sent to the Wise Ones for training and the Aiel sending their apprentice Wise Ones to the Tower. Egwene then informs them of Rand's plan to break the remaining [[seven Seals|seals]] on the [[Dark One's prison]], and asks them and the rest of the Wise Ones to help her oppose him. 
+
+Egwene sets up a meeting in ''Tel'aran'riod'', which Amys attends, between Aes Sedai, [[Sea Folk]] [[Windfinder]]s, and Aiel Wise Ones. It is decided at the meeting that Accepted will go and train with the Wise Ones for six months and then they would train with the Sea Folk for a further six months before returning back to the White Tower. They would then make a choice a year later on where they would wish to finish their training. Sea Folk and Wise One apprentices would also go through this training program but to the White Tower and the other channeling faction. It is agreed that for every two Accepted who leave, two Wise One apprentices and two Sea Folk apprentices will be exchanged. Finally, all ''[[ter'angreal]]'' that are already owned by the Aiel or by the Sea Folk cannot be claimed by the White Tower.
+
+The Black Ajah attack after the meeting in ''Tel'aran'riod'' and, after finding she can't leave, Amys is one of the Wise Ones who participates in the [[Battle in Tel'aran'rhiod]]. 
+
+===Last Battle===
+Amys is one of the Wise Ones who are present when Aviendha tells the group of her visions of the future, and the fall of the Aiel. The women rationalize that it is because Rand will leave the Aiel adrift by excluding the Aiel from his plans tomorrow. They plan to fight this future, even if it cannot be changed. When Aviendha asks for the Aiel to be included into the [[Dragon's Peace]], Rand is taken aback. Amys and the rest of the Wise Ones stand behind Aviendha, confirming that she speaks for the rest of her people. In the end the Aiel become the neutral enforcers of the Dragon's Peace, allowing them to cross nation to nation in the hunt of any criminal. Amys also confirms that the Aiel will not seek a blood feud against the [[Seanchan]], as it is a battle they cannot win. Amys is in attendance at Elayne's initial war-council, where it is decided that the army will fight on four fronts led by the four Great Generals. The Aiel bristle at the thought of being led by [[Rodel]] at [[Shayol Ghul]], but are put in their place by Elayne, who tells them that it was the Aiel themselves that insisted on being part of Dragon's Peace. The Aiel will do as ordered.
+
+Bair discusses with Amys and Melaine in ''tel'aran'rhiod'' that she has seen the same events as Aviendha. Egwene then approaches the women and they talk about the troubling dark cracks that are appearing, particularly when [[balefire]] is used. They all decide to ban the use of balefire. Amys tells Egwene that she is proud of her and then they farewell each other. Amys [[Travel]]s to the [[Shayol Ghul]] battlefront with Aviendha and Cadsuane. After Aviendha has her initial confrontation with [[Hessalam]], she decides to place the channelers into three smaller circles, one to attack and draw out other channelers, while the other two hide in ambush. Amys recognizes it as an old Maiden of the Spear tactic. Amys then smiles with glee when Aviendha realizes how difficult it is going to be to lead and organize all the channelers, who all have such different personalities. She leads one of the circles before [[Hessalam]] arrives. She then joins forces with Cadsuane, [[Talaan]] and [[Alivia]] to battle the [[Forsaken]].
+
+{{notes}}
+{{Primary Protagonists}}
+
+[[es:Amys]]
+[[Category:Dreamwalkers]]
+[[Category:Channelers]]

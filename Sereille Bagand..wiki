@@ -1,0 +1,49 @@
+{{character| image=WhiteAjah.png
+| imagesize=250px
+| gender=Female
+| title=[[Amyrlin Seat]]
+| rank=Aes Sedai
+| affiliation=White Tower
+| ajah=White
+| status=Dead
+| death={{Ne|890}}
+| mentioned={{acos|32}}
+| lastmentioned={{cot|18}}
+| nationality=Far Madding
+|birth = {{ne|586}}}}
+{{quote|As Mistress of Novices and later Amyrlin Seat, Sereille was a legend. The sort of legend that made you wake in the middle of the night sweating.|[[Elayne Trakand]]'s thoughts of Sereille Bagand{{ref/book|9|8}}}}
+'''Sereille Bagand''' was [[Amyrlin Seat]] from {{Ne|866}} to {{Ne|890}}.
+
+==Strength and Personality==
+Due to her fierce personality, morality, sternness, and severity, Sereille became one of the strongest Amyrlins in the last millenium.
+
+==Strength and Abilities==
+Sereille had a strength in the [[One Power]] of {{opsl|27}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai.
+
+== History ==
+Sereille Bagand was born in [[Far Madding]] in [[586 NE]], went to the Tower in [[601 NE]]. After thirteen years as [[novice]] and eleven as [[Accepted]] she was raised to the shawl in the year {{ne|625}} at age 39, choosing the [[White Ajah]].
+
+She was elected Sitter in the year {{ne|738}} and maintained this position for twenty-one years. Sereille was elected Sitter during the rule of the ineffective [[Feragaine Saralman]] (a [[Blue Ajah|Blue]]). Sereille was lacking very great strength in ''[[saidar]]'', and had shown no indications that she was extraordinary until she entered the [[Hall of the Tower|Hall]]. Despite it her fellow Whites decided to elect her to the Hall, maybe knowing some of her qualities. It is also possible that Sereille's reputation of austere sternness and disciplinary severity was known of outside her own Ajah before her election.
+
+Nevertheless as a Sitter Sereille blossomed virulently, becomimg more and more forceful. Sereille openly asserted her strong willed personality and could use logic as a knife in argument. With weak Amyrlins and all real power residing in the Hall, Sereille had plenty of oppurtinity to show her qualities. She was particularly strong in opposing measures that would have increased the power of each [[Ajah]] at the expense of the [[White Tower|Tower]], as well as any attempts at self aggrandizement by Sitters.
+
+In the year {{ne|759}} she was nominated [[Mistress of Novices]] under the Amyrlin [[Myriam Copan]] (a [[Green Ajah|Green]]) and served in this position for 107 years, an unprecedented long service under the two following Amyrlins [[Zeranda Tyrim]] (a [[Brown Ajah|Brown]]) and [[Parenia Demalle]] (a [[Gray Ajah|Gray]]), becoming legendary. Some said she was appointed Mistress of Novices and maintained there for so long to get her out of the Hall.
+
+Finally, Sereille was elected Amyrlin Seat in the year {{ne|866}}, ruling until her death in {{ne|890}}. She gained a reputation for being tough and a severe disciplinarian, placing strict importance on rules and proprieties.{{ref/book|7|32}} 
+
+Sereille used that toughness and discipline and became one of the greatest Amyrlins in history, raising the influence and prestige of the [[White Tower]] to levels seldom equaled since before [[Artur Paendrag Tanreall|Artur Hawkwing.]] It was said that Sereille controlled the Tower by the sheer force of her will.{{ref/book|8|15}}
+
+Sereille couldn't stand [[Cadsuane Melaidhrin]] because like herself, Cadsuane had an air of control and confidence. They both expected subservience from each other and therefore they would constantly butt heads with each other. Despite this, Cadsuane thwarted a coup attempt to overthrow Sereille. The conspirators, thinking that they would gain support from Cadsuane, who was Sereille's biggest adversary, went to Cadsuane to gain her support. This was a mistake. Cadsuane dragged them to the Amyrlin's office herself. Sereille wasn't particularly pleased to obtain help from someone she despised.{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+Even [[Egwene al'Vere]], more than a century later, wants to be just as strong an Amyrlin as Sereille was, and Egwene's severeness in discipline is indeed compared to her.{{ref/book|10|18}}
+
+She was Parenia Demalle's successor and [[Aleis Romlin]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}} After her passing, there was large support in the Hall to make Cadsuane Amyrlin rather than Aleis. Cadsuane, wanting to avoid this, avoided the Tower for an entire ten years.{{ref/book|twotc|Cadsuane Melaidhrin}}
+
+{{notes}}
+{{DEFAULTSORT:Bagand, Sereille}}
+[[Category:Mistresses of Novices]]
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Notes needed]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

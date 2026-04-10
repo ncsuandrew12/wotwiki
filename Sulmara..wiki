@@ -1,0 +1,22 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Dead
+| nationality=Masenasharin
+| rank=Queen
+| title=Queen of Masenashar
+| gender=Female
+| mentioned=[[RPG]]
+}}'''Sulmara''' was the Queen of [[Masenashar]], circa {{Fy|450}}, as well as a renegade [[Aes Sedai]].{{ref|{{twotc}}, Sulmara}}
+
+== History ==
+In FY 450, history records that she was removed from her home kingdom by the [[Aes Sedai]] and taken to [[Tar Valon]], where she spent many years mucking out the [[White Tower]] stables as a lesson in humility.
+
+It is not known why this was done, although there are many theories. Some suggest that Sulmara was an Aes Sedai (maybe the last to rule openly as Queen and Aes Sedai before [[Elayne Trakand]] some 1,700 years later) who had returned home to rule her kingdom without the [[Amyrlin Seat]]'s leave, although this is not considered likely. It is also suggested that Sulmara was simply a Queen who had ignored her Aes Sedai advisor's suggestions one time too many, compelling the sisters to make an example to show that even a Queen was not beyond the White Tower's power.
+
+{{notes}}
+[[Category:Historical people]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai (Free Years)]]
+[[Category:People of the Free Years]]

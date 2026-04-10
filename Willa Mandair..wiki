@@ -1,0 +1,16 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| gender=Female
+| mentioned={{ns|6}}
+| lastmentioned={{ns|6}}
+| living=ns
+}}'''Willa Mandair''' was a woman and camp follower residing in Lord [[Ellisar|Ellisar's]] camp during the [[Battle of the Shining Walls]].{{ref|{{twotc}}, Willa Mandair}}
+
+==History==
+Willa Mandair gives birth to a son, [[Bili Mandair|Bili]] in Lord Ellisar's camp. She gave birth on the day of [[Gitara Moroso]]'s [[foretelling]]. When [[Moiraine Damodred]] reads the name, she adds it to her book as a candidate for the [[Dragon Reborn]].{{ref/book|0|6}}
+
+{{notes}}
+{{DEFAULTSORT:Mandair, Willa}}

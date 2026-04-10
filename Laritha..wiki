@@ -1,0 +1,18 @@
+{{character
+| image=Wheel-icon.svg
+| imagesize=250px
+| ewot=
+| status=Alive
+| nationality=Unknown nationality
+| title=
+| occupation=Housewife
+| affiliation=
+| gender=Female
+| hair=
+| mentioned={{loc|40}}
+| living=loc
+}}
+'''Laritha''' was a woman from [[Thom Merrilin]]'s past.
+==Activities==
+She was married to a brutish bootmaker, who was said to be very hard on her. She once moaned to Thom about wishing to be rescued, so Thom proposed to take her with him and offer her a comfortable life. She was outraged to hear this and ran home to tell on Thom to her husband.
+[[Category:Short pages]]

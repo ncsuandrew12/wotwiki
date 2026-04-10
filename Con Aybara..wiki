@@ -1,0 +1,31 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| status=Dead
+| death={{ne|999}}
+| gender=Male
+| weight=Slim
+| appeared={{teotw|r}}
+| lastappeared={{teotw|r}}
+| lastmentioned={{amol|13}}
+}}
+{{dablink|For others with the same surname, see [[Aybara]]. For the small square banners used by [[Cairhien]]in officers, see ''[[Con]]}}
+
+'''Con Aybara''' was [[Perrin Aybara]]'s father and was married to [[Joslyn Aybara]].
+
+==Appearance==
+He was slim.
+
+==History==
+He had one other son named [[Paetram]], often called Little Paet, and two daughters named [[Adora]] and [[Deselle]].
+
+==Activities==
+[[Padan Fain]] murders Perrin's entire family including Con because Con and Joslyn laughed at him and insulted him when Fain told them Perrin was a [[Darkfriend]].
+== External links ==
+* {{TVlink|Con Aybara}} on {{TVlink}}
+
+{{DEFAULTSORT:Aybara, Con}}
+
+[[es:Con Aybara]]

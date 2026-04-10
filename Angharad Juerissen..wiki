@@ -1,0 +1,34 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=Angharad
+| name=Angharad Juerissen
+| ajah=Gray
+| gender=Female
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=White Tower
+| title=Keeper of the Chronicles
+| eyes=
+| hair=
+| status=Unknown
+| appeared=
+| mentioned=The Wheel of Time Companion
+| lastappeared=
+| living=
+}}'''Angharad Juerissen''' is an [[Aes Sedai]] who is only mentioned in The Wheel of Time Companion book as being of the [[Gray Ajah]] and served as [[Keeper of the Chronicles]] to the [[Amyrlin Seat]] [[Sierin Vayu]].{{Ref|{{twotc}}, Angharad Juerissen}} 
+
+== Possible inconsistency ==
+
+The entry for [[Duhara Basaheen]] also mentions that she was Keeper under Sierin from [[979 NE]] to [[984 NE]] and indeed was depicted as so in the [[New Spring]] novel.{{Ref|{{twotc}}, Duhara Basaheen}} These years correspond to the years listed as the tenure of Sierin Vayu, so this has been raised as a possible inconsistency with Angharad ever having held the position. 
+
+One possible solution to this inconsistency comes from the fact that Duhara was discovered to have been involved in the pogrom of male channelers known as [[The Vileness]] ''and'' that she recieved penance for it.{{Ref|{{twotc}}, Duhara Basaheen}} It is also known that Sierin had "intended to crush" the Vileness, which makes it seem like she knew of its existence, but not necessarily who was involved or the exact nature of their involvement.{{Ref|{{twotc}}, The Vileness}} She certainly did not know enough to carry out what her successor did, namely publically whip and subsequently exile all three Red Sitters. Given unconfirmed suspicions, Angharad could feasibly have been a replacement for Duhara in {{ne|984}} while she was pending further investigation, a move that requires ratification by law of the Hall of the Tower. This very public change in sentiment against the Red Ajah could have provoked them to act swiftly, putting in motion events that would culminate in Sierin's murder later that year. 
+
+{{notes}}<references /><references />
+{{short}}
+[[Category:Gray Ajah]]
+[[Category:Keepers of the Chronicles]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

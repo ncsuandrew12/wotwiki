@@ -1,0 +1,5 @@
+<pre>
+{{#invoke:Characters|get_characters_wikitable|all=true|columns=Ajah;Spark;Homeland|suppress_verify=true}}
+</pre>
+
+{{#invoke:Characters|get_characters_wikitable|all=true|columns=Ajah;Spark;Homeland|suppress_verify=true}}

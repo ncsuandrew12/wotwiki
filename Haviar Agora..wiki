@@ -1,0 +1,17 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| gender=Male
+| affiliation=Cha Faile
+| status=Alive
+| mentioned={{cot|5}}
+| lastmentioned={{kod|29}}
+| living=kod
+}}
+'''Haviar Agora''' is a member of [[Cha Faile]].
+
+== Activities ==
+He is sent to [[Masema Dagar]]'s camp under the pretense that he is a [[Dragonsworn]]. While he is there he spies on Masema's activities.
+{{DEFAULTSORT:Agora, Haviar}}
+[[Category:Eyes-and-ears]]

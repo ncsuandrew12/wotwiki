@@ -1,0 +1,34 @@
+{{for|the chapter in ''The Eye of the World'' called "The Wisdom"|The Eye of the World/Chapter 16}}
+'''Wisdom''' is a term used in the [[Two Rivers]] region of [[Andor]] to describe a village healer and leader of the local [[Women's Circle]].  Outside the Two Rivers and depending on the region, such a woman might instead have another title, such as Guide, Healer, Wise Woman, Reader, Advisor, Seeker, or Wise One, although Wisdom is also used in some other regions.{{Ref|{{twotc}}, Wisdom|Wisdom}}<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref> Regardless of title, such women possess similar skills in the application of herbal remedies and are adept at treating illnesses and injuries. Many, though not all, are ''[[saidar]]''-sensitive, but they are almost without variation [[Wilder]]s with no complete knowledge of their true power potential.
+
+The position of Wisdom is one of great responsibility and authority, both actual and implied.{{ref||Wisdom}}  Wisdoms are generally considered the equal to a village [[Mayor]], and in some places his superior.{{ref||Wisdom}}  Unlike mayors, Wisdoms are generally chosen for life and it is exceptionally rare for a Wisdom to be removed from her office before her death.{{ref||Wisdom}}  All Wisdoms claim that they can "[[Listening to the Wind|Listen to the Wind]]" but only those who are also wilders actually have the ability.
+
+==Wisdoms from the Two Rivers==
+
+*[[Nynaeve al'Meara]]- Emonds's Field (former){{ref/book|1|3}}
+*[[Daise Congar]]- Emond's Field (current){{ref/book|4|29}}
+*[[Edelle Gaelin]]- Watch Hill (current){{ref/book|4|56}}
+*[[Elwinn Taron]]- Deven Ride (current){{ref/book|6|p}}
+*[[Milla al'Azar]]- Taren Ferry (current){{ref/book|6|p}}
+*[[Doral Barran]]- Emond's Field (former){{ref/book|1|r}}
+*[[Mavra Mallen]]- Deven Ride (former), Emond's Field (former, temporary){{ref/book|1|16}}
+*[[Malena Aylar]]- Emond's Field (fictional){{ref/book|2|23}}
+
+==Wisdoms from elsewhere==
+*Mother [[Brune]]- [[Caemlyn Road]] (current)
+*[[Cecilia Arens]]- [[Aturo's Orchard]] (current)<ref name="RPG"/>
+*[[Darvale]]- [[Runnien Crossing]] (current)
+*[[Bryna Lisbet]]- [[Tobin's Hollow]] (former)<ref name="RPG"/>
+
+== External links ==
+* {{TVlink|Wisdom}} on {{TVlink}}
+
+{{notes}}
+[[es:Zahorí]]
+[[Category:Healers| Wisdom]]
+[[Category:Wisdoms| Wisdom]]
+[[Category:Two Rivers]]<references />
+[[es:Zahorí]]
+[[Category:Healers| Wisdom]]
+[[Category:Wisdoms| Wisdom]]
+[[Category:Two Rivers]]

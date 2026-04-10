@@ -1,0 +1,22 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| ewothist=Anarina
+| status=Dead
+| death= c. {{ne|102}}
+| nationality=Altaran
+| rank=Queen
+| title=Queen of Altara
+| gender=Female
+| mentioned={{Loc|48}}
+}}
+'''Anarina Todande''' was an infamous ruler of [[Altara]].
+
+== History ==
+Her house held the [[Throne of the Winds]] for five generations before she came to the throne, and she was a direct descendant of King [[Maddin Todande]], the first king of Altara. She was considered capricious at best, and incompetent at worst. During her reign, Altara sank into near anarchy. In the space of twenty years, Anarina drained the national treasury and impoverished House Todande; she was deposed and murdered, and House Todande never recovered.
+
+[[House Todande]] has become a very minor House following Anarina's fall. Since her death, no House has held Altara for more than two generations, save for [[House Mitsobar]], though their third ruler, King [[Beslan Mitsobar|Beslan]], ruled only with the permission of the [[Seanchan]].
+
+{{DEFAULTSORT:Todande, Anarina}}
+[[Category:Historical people]]
+[[Category:Royalty]]

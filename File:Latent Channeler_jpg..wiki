@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = A female [[wilder]].
+| Source             = "Pattern Weavers" in ''Dragon Magazine: Annual 6''.
+| Artist             = Scott Schomburg
+}}

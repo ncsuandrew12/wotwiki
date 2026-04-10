@@ -1,0 +1,21 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| gender=Female
+| mentioned={{ns|6}}
+| lastmentioned={{ns|6}}
+| living=ns
+}}
+'''Salia Pomfrey''' is the wife of a soldier during the [[Aiel War]].
+
+==History==
+Salia Pomfrey's husband was killed on the second day of fighting during the [[Battle of the Shining Walls]]. She gave birth to a son who could have been the [[Dragon Reborn]], but returned to her village in [[Andor]] after her husband was killed. Her story was written down by [[Myrelle Berengari]] during the [[White Tower]] census.{{ref/book|0|6}}
+
+{{notes}}
+{{DEFAULTSORT:Pomfrey, Salia}}<references />
+{{DEFAULTSORT:Pomfrey, Salia}}
+
+<references />
+{{DEFAULTSORT:Pomfrey, Salia}}

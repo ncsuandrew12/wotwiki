@@ -1,0 +1,1 @@
+<span class="plainlinks">[http://library.tarvalon.net/index.php?title={{{1|}}} {{{2|TarValon.net}}}]</span><noinclude>[[Category:Linking templates|Tar Valon]]</noinclude>

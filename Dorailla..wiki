@@ -1,0 +1,24 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Sevanna
+| clan=Shaido
+| sept=Unknown sept
+| status=Alive
+| appeared={{Acos|p}}
+| lastappeared={{acos|p}}
+| living=acos
+}}
+'''Dorailla''' is a [[Wise One]] of the [[Shaido]] [[Aiel]].
+
+==Strength and Abilities==
+Dorailla can [[channel]] quite strongly. In TWoTC her strength level is described as {{opsl|21}}, the same level of [[Myrelle]] and [[Anaiya]], that are among the strongest [[Aes Sedai]] until the arrive of [[Nynaeve]], [[Egwene]] and [[Elayne]].
+
+This strength is more than enough to open alone a gateway for [[Travel]]ing. 
+
+== Activities ==
+She takes part in the [[Battle of Dumai's Wells]] with [[Sevanna]]. She is one of the [[Wise Ones]] who attack the [[Aes Sedai]] who are holding [[Rand al'Thor]]. She was "Chosen from the strongest of the Shaido Wise Ones who could wield the One Power".
+[[Category:Channelers]]

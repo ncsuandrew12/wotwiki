@@ -1,0 +1,10 @@
+== Summary ==
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| ImageType2              = Fan art
+| Description             = [[Egwene al'Vere]] and [[Verin Mathwin]]
+| Source                  =[https://www.deviantart.com/edselarnold/art/A-Cup-of-Tea-529335175 DeviantArt]
+| Artist                  = Edsel Arnold
+}}
+[[Category:Featured images]]

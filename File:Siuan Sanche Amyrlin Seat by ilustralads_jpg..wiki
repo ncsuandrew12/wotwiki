@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.instagram.com/p/BldlsqoBSfL/?igsh=MW54bTh0a3huNGM0NQ==
+|Description = Fan art of [[Siuan Sanche]].
+|Artist      = ilustralads
+}}

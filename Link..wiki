@@ -1,0 +1,48 @@
+A '''link''', or "circle," is the joining together of two or more [[channeler]]s in order to combine their strength in the [[One Power]] to accomplish tasks beyond the ability of the individual channelers. A circle must be started by a female channeler; men cannot link without a woman. 
+
+==General information==
+One of the channelers leads, while the others are simply used as conduits, much like ''[[angreal]]'' and ''[[sa'angreal]].'' This joining also prevents women in the circle from being forced to draw too much of the One Power and burning themselves out.{{ref/book|8|5}} Although the strength of a linked group is not quite as high as the combined individual strengths of its members, the link allows more precise and effective weaves than could be produced by an individual. Without a link, different channelers cannot combine their flows.
+
+{{quote|Now, don’t fear that whoever leads the circle, can make you draw too much. This really is a great deal like an ''angreal''. The ''angreal'' buffers you against the extra Power, and in somewhat the same way, in a circle you can’t be made to draw too much. In fact, in a circle you can’t draw quite as much as you can otherwi—”|[[Nynaeve]] instructing [[Windfinders]]{{ref/book|8|5}}}}
+
+A circle is limited in several ways by the number, or lack, of channelers of different genders. This has limited their use since the [[Age of Legends]] until near the end of the [[Third Age]], both in size and functionality.
+
+From the Age of Legends onwards, a circle of [[Aes Sedai]] could accomplish feats impossible for individual channelers to perform. Linking increased the overall power of the leader, allowed for new and more complex weaves, and combined affinities with the different powers to great effect.
+
+==Circle formation==
+Gender-based limitations heavily influence the formation and structure of a circle. A woman must be the one to start and form the link, though she is able to pass control of it to a man, once she has done so. The men are absolutely unable to form circles by their own, instead without a man, the maximum number of channelers in exclusively female circles is thirteen. 
+
+With the addition of a man, bringing the total to fourteen, an additional thirteen female channelers are possible, reaching twenty-seven. After this, only eight female channelers can be added with the addition of one male channeler, up to the limit of seventy-two total channelers, following this scheme: 13+1+13=27; 13+1+13+1+8=36; 13+1+13+1+8+1+8=45; 13+1+13+1+8+1+8+1+8=54; 13+1+13+1+8+1+8+1+8+1+8=63; 13+1+13+1+8+1+8+1+8+1+8+1+8=72.
+
+With three exceptions, there must always be a greater number of women in the circle than there are men. These exceptions are a circle of one man and a one woman, two men and one woman, or two men and two women.
+
+==Leadership==
+When a link is formed between channelers, only one of them guides the flows for the weave. The channeler chosen to guide the flows is the leader of the link. This person is also the one who decides when the circle ends, as only the leader can break the link.
+
+Within the confines of certain gender-based limitations, control of a circle is usually determined by what skills are necessary for the task at hand. Leadership may pass between numerous inviduals during the life of the circle, as it is not necessary for one person to remain the leader throughout.
+
+In most circle formations, control can be passed to either a man or woman, but some circles limit which gender must lead. If there are only the minimum number of men present, a woman must lead, with three exceptions. A man must lead if the circle has seventy-two members, if the circle has only one man or one woman, or if it is a circle fewer than thirteen members with more than one man. Except for these combinations, a woman must lead when there is a minimum number of men. Outside these conditions, either gender may lead.{{ref/book|6|6}}{{ref/book|bwb}}{{ref|{{twotc}}, linking}} 
+
+==Increase in abilities==
+When linked, channelers combine their strength in the Power to a certain degree, which is directed by the leader of the circle. The strength of the leader of the circle is stronger than his or her individual strength, but less than the cumulative strength of all the channelers in the circle. This is because linking does not stack the strength of channelers on top of each other, but rather combines it in a way that only allows a portion of their strength to be contributed to the weaving.
+
+This combination of strength, though useful, is not the main benefit of a link. If they are not linked, no two channelers can combine their flows to work on the same weave. The leader of a link is able to do so, directing multiple flows of great power at a single weave, allowing for weaves that are impossible or extremely difficult for individual channelers.
+
+Additionally, individual members have affinities for each of the five powers that are able to be passed on, temporarily, to the leader. Talents are not passed on in such a way, and if a weave requires a certain talent then the leadership must be passed to a channeler in the circle who possesses it.
+
+==Balance==
+Though many different ratios of male to female are possible, the more balanced the gender of a circle the more effective it is. The most powerful ones keep the ratio as close to one-to-one as possible. For example, the most powerful balance for a circle would be thirty-five men and thirty-seven women. The greatest works in the Age of Legends were accomplished by such circles, as it seems that men and women working together are far more effective than working apart. A smaller circle of more balanced members is often more efficient and more productive than a larger circle based solely on strength.
+
+When circles were used in the Age of Legends they were highly organized, with channelers chosen specifically for the task required. Certain balances of male to female, and the strengths of the individual channelers in the different [[Five Powers]], were believed to be more effective for certain activities. Perhaps the best known example of this was [[Lews Therin Telamon]]'s plan to seal the [[bore]] in [[Dark One]]'s prison with six male and seven female Aes Sedai to form the circle and place seven focus points around the thinnesss of the Pattern at Shayol Ghul to seal the Dark One away.{{ref|{{twotc}}, Lews Therin Telamon}}
+
+{{notes}}
+[[es:Coligar]]
+[[Category:One Power]]<references />
+[[es:Coligar]]
+[[Category:One Power]]
+<references />
+[[es:Coligar]]
+[[Category:One Power]]
+<references />
+[[es:Coligar]]
+[[Category:One Power]]

@@ -1,0 +1,73 @@
+{{quote|An Aes Sedai is ten women in one skin.|Peasant saying in Tear}}
+{{for|the inn by the same name|The Wandering Woman}}
+{{summary | book=6 |
+|chapter=47
+|title=The Wandering Woman
+|icon=Dice
+|setting=[[Altara]], [[Ebou Dar]]
+}}
+
+== Summary ==
+
+:{{pov|[[Matrim Cauthon]]}}
+Mat, [[Olver]], [[Thom]], [[Juilin]], and some of the soldiers from the [[Band of the Red Hand|Band]] are traveling to [[Ebou Dar]] with [[Elayne]], [[Nynaeve]], [[Aviendha]], [[Birgitte]], [[Vandene]], and [[Adeleas]].
+
+After the evening meal, Elayne tells Mat that each evening he is to give her his ''[[ter'angreal]]'' for her to study, and that he will receive it back the following morning. She reasons that since according to the Law of the [[White Tower]], all ''ter' angreal'' are the property of the White Tower, she technically has a right to take it from him. 
+
+Mat refuses, and Elayne starts commenting on his handling of his men and camp as if she were in charge. For the rest of the trip, the [[Aes Sedai]] periodically [[channeling|channel]] at Mat, trying different weaves to see if all weaves are neutralized by his [[Silver foxhead medallion|foxhead medallion]].
+
+Although Mat only wants to talk to her, Nynaeve avoids him, as she is still worried about the kick she gave him.
+
+After four days of mostly ignoring the channeling the Aes Sedai subject him to, one of them uses ''[[saidar]]'' to throw horse dung at him, which makes him aware that the medallion does have certain limitations on its protections. They arrive in Ebou Dar and move into the city until they are in a large square with the [[Tarasin Palace]] on one side. Everything seems so peaceful that Mat doesn't understand why the dice start rolling around in his head. The women plan to go in to the palace where Queen [[Tylin]] resides and other Aes Sedai from Salidar expect them. Mat decides he wants no queen, no palace, and especially no nobles, so he randomly picks an inn instead. He heads over to the inn he chose, the Wandering Woman and meets the innkeeper, [[Setalle Anan]], at which point the dice stop rolling.
+
+==Characters==
+* [[Mat]]
+* [[Harnan]]
+* [[Nerim]]
+* [[Lopin]]
+* [[Vanin]]
+* [[Olver]]
+* [[Wind]]
+* [[Nynaeve]]
+* [[Elayne]]
+* [[Vandene]]
+* [[Adeleas]]
+* [[Aviendha]]
+* [[Birgitte]]
+* [[Thom]]
+* [[Juilin]]
+* [[Jaem]]
+* [[Nalesean]]
+* [[Tad Kandel]]
+* [[Lawdrin Mendair]]
+* [[Pips]]
+* [[Setalle Anan]]
+
+===Referenced===
+* [[Rand]]
+* [[Moiraine]]
+* [[Bode Cauthon]]
+* [[Merilille]]
+* [[Tylin]]
+
+==Places==
+* [[Ebou Dar]]
+* [[Altara]]
+
+===Referenced===
+* [[Stone of Tear]]
+* [[Salidar]]
+* [[Andor]]
+* [[Amadicia]]
+* [[Tear]]
+* [[So Tehar]]
+
+==Items==
+
+===Referenced===
+* [[Horn of Valere]]
+
+==Events==
+* [[Tumbling Dice]]
+
+{{DISPLAYTITLE:''The Wandering Woman''}}

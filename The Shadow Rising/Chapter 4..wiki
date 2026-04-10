@@ -1,0 +1,60 @@
+{{quote|Everyone listened to a [[gleeman]], everyone watched him, but no one really saw him or remembered who he talked to, as long as he was only a gleeman, with his hedgerow entertainments fit for a country folk and servants, and perhaps to amuse the ladies.|[[Thomdril Merrilin]]}}
+{{summary | book=4 | ewot=ch4
+|chapter=4
+|icon=harp
+|title=Strings
+|setting=[[Stone of Tear]]
+}}
+
+==Summary==
+:{{pov|[[Thom Merrilin]]}}
+
+[[Thom Merrilin]] completes the forging of a letter in the hand of High Lord [[Carleon]]. The letter, intended to be found by High Lord [[Tedosian]], is part of an intricate plot to weaken one of [[Rand]]'s political enemies, the High Lady [[Alteima]] and reads ''"Be wary. Your husband suspects."''
+
+[[File:Thom.png|thumb|left|''Did I ever tell you about the wager I once made with a [[Domani]] woman? She had eyes that could drink a man's soul, and an odd looking red bird she had brought off a [[Sea Folk]] ship. She claimed it could tell the future. This bird had a fat yellow beak nearly as long as its body, and it...'' -Thom]]
+
+Upon hearing a knock on the door, Thom quickly hides all of his forgery supplies and inspects his room for any signs of incriminating evidence before opening the door. Answering the door, Thom is surprised to see [[Matrim Cauthon|Mat]]. Mat does not seem like his usual self to Thom, with no joke about his shabby room nor the mischievous twinkle in his eye. Thom tries to entice Mat into a game of [[stones]], but Mat declines, instead asking Thom if anything happened recently.
+
+Mat tells the story of how the playing cards came to life and attacked him.{{ref/book|4|2}} He is convinced that the attack was caused by [[Rand al'Thor|Rand]] and he tells Thom that he has been thinking about leaving [[Tear]] immediately.
+
+Thom ponders why he hasn't left yet as well. The thought of leaving Rand in the hands of [[Moiraine]] to help him manage the [[High Lords of Tear]] troubles him. He thinks himself a fool for remaining involved with Rand just because of an event that happened fifteen years ago.{{ref|[[Owyn Merrilin]]}}{{ref|[[The Vileness#The Red Ajah's role|The Vileness & The Red Ajah]]}} Shaking loose of the past, Thom tells Mat that Mat has been trying to leave Tear since he arrived. Mat tries to convince Thom to leave with him, to go a place where the [[Dragon Reborn]] and the [[Dark One]] are still gleemen stories; a place where no one will be trying to kill them. When prodded by Thom again, Mat explains that the [[Aes Sedai]] has him watched. He also speaks of some of the women he's run into, and the gold that can be made with gambling, using them as excuses for remaining. Every time Mat is close to leaving he finds some reason to stay one more day, he says. Thom believes that Mat is compelled to stay by Rand's ''[[ta'veren]]'' nature, but refrains from telling Mat that after the boy threatens to leave the room should that word be mentioned.
+
+Thom tells Mat that he would normally advise one with such troubles as him to ask an [[Aes Sedai]] for help, but Mat obviously cannot ask Moiraine in this case. Thom privately thinks that he would not take his own advice. He suggests Mat ask Nynaeve instead, since she was his [[Wisdom]] after all. Mat says Nynaeve will just lecture him about drinking and gambling and then complains about the holes in his memory. Thom does not know who could possibly help with that.
+
+Angered by the discussion, Mat makes up his mind to leave immediately. Thom convinces him to wait until morning, and gets Mat to play a game of stones with him. While setting up the game, Thom sees that Mat is already focused on stones, seemingly diverted from his previous furor to leave.
+
+==Characters==
+*[[Thom Merrilin]]
+*[[Mat Cauthon]]
+
+=== Referenced===
+*[[Rand al'Thor]] 
+*[[Moiraine Damodred]]
+*[[Nynaeve al'Meara]] 
+*High Lord [[Carleon]]
+*Lady [[Alteima]]
+*High Lord [[Tedosian]]
+
+==Groups==
+===Referenced===
+*[[Aes Sedai]]
+
+==Places==
+*[[Stone of Tear]]
+*[[Tear]]
+
+===Referenced===
+*[[Kandor]]
+*[[Cairhien]]
+*[[Emond's Field]]
+
+==Concepts==
+*''[[Ta'veren]]''
+
+==Quotes==
+{{quote|Thom, I think about leaving all the time, but....I get these strange feelings. Almost as if something was going to happen. Something....Momentous; that's the word.|[[Mat]]|leaving [[Tear]] and [[Rand]]}}
+
+{{notes}}
+*At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''Strings''}}

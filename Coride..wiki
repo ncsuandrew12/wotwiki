@@ -1,0 +1,24 @@
+{{character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| hair=Pale
+| status=Alive
+| appeared={{kod|24}}
+| lastappeared={{kod|24}}
+| living=kod
+|birth = {{ne|982}}}}
+'''Coride''' is a [[Novice]] in the [[White Tower]]. 
+
+== Appearance ==
+She has pale hair.
+
+She is a year younger than Egwene, but Egwene thought she was immature, even after a year and a half in the Tower.
+
+== Activities ==
+She is comforted by [[Egwene al'Vere]] when she spots a dead person walking through one of the walls.
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]

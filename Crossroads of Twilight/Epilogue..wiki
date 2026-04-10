@@ -1,0 +1,42 @@
+{{quote|Sometimes, pain is all that lets you know you're alive.|[[Lews Therin Telamon]]}}
+{{for|other chapters with "Answer" in the title|Answer}}
+{{summary | book=10 | ewot=epilogue | wotmania=476 | tarvalonwiki=Crossroads_of_Twilight:_Epilogue
+|chapter=epilogue
+|prev=Crossroads of Twilight/Chapter 30
+|next=Knife of Dreams/Prologue
+|title=An Answer
+|icon=wheel
+|setting=Lord [[Algarin]]'s manor house
+}}
+
+:{{pov|[[Rand al'Thor]]}}
+
+[[Rand al'Thor|Rand]] watches a thunderstorm outside a window. He thinks about the pain from his wounds and heron brands, and [[Lews Therin]] whispers, "Sometimes, pain is all that lets you know you're alive." [[Davram Bashere]] enters and tells Rand the [[Seanchan]] want him to meet with the [[Daughter of the Nine Moons]].
+
+==Notes==
+* Since Tuon is with [[Mat]] she could not be part of setting up the meeting.
+
+==Characters==
+*[[Davram Bashere]]
+*[[Lews Therin]]
+*[[Rand al'Thor]]
+
+===Referenced===
+*[[Suroth]]
+*[[Tuon Athaem Kore Paendrag|Tuon]] - as ''the Daughter of the Nine Moons''
+
+===Groups Referenced===
+*[[Seanchan]]
+
+==Places Referenced==
+*The [[Spine of the World]]
+*[[Tear]]
+*[[Saldaea]]
+
+==Aliases and Titles Referenced==
+*[[Daughter of the Nine Moons]]
+*[[Dragon Reborn]]
+*[[Military rank#Marshal-General|Marshal-General of Saldaea]]
+
+{{DISPLAYTITLE:''An Answer''}}
+[[Category:Crossroads of Twilight chapter summaries]]

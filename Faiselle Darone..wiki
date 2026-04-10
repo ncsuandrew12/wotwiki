@@ -1,0 +1,57 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Domani
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| occupation=Sitter
+| build=Stocky
+| status=Alive
+| mentioned={{loc|34}}
+| appeared={{tpod|16}}
+| lastappeared={{amol|31}}
+| living=amol
+|birth = {{ne|829}}}}
+'''Faiselle Darone''' is an [[Aes Sedai]] and a [[Sitter]] of the [[Green Ajah]]. She has two Warders.
+
+== Appearance and Personality ==
+Faiselle is stocky, copper-skinned and square faced. She owns silks with dense green embroidery. {{ref/book|10|19}}
+
+== Strength and Abilities ==
+Faiselle is of [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a strength in the One Power of {{opsl|26}}. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent. 
+
+== History==
+Faiselle is [[Domani]] and is 171 years old. She was born in the year {{ne|829}} and went to the [[White Tower]] in {{ne|845}}. After spending ten years as [[novice]] and ten as [[Accepted]] she was raised to the [[shawl]] in the year {{ne|865}}.
+
+She was elected [[Sitter]]{{ref/book|10|19}} in the year {{ne|981}}.
+
+She has two Warders.
+
+==Activities==
+Her [[Ajah Head]], [[Adelorna Bastine]], sent her to the rebels because she was not invited to the vote to depose [[Siuan Sanche]] and raise [[Elaida a'Roihan]]. This would help keep her safe, and allow the Ajahs to help defuse the rebellion. She has allied herself with the [[Salidar Aes Sedai]] and is a Sitter in the [[Salidar Hall]]. She supported [[Lelaine Akashi]] because it would help stalemate [[Romanda Cassin]] and make the rebellion easier to control.
+
+She votes NO on the [[Rebel Aes Sedai]] declaring war on Elaida.
+
+She is one of the Sitters that want to begin negotiations with [[Elaida's White Tower]].
+She votes NO in the Rebel Hall of the Tower for an alliance with the [[Black Tower]].
+She is part of the group that negotiate with the White Tower Aes Sedai in [[Darein]].
+
+She believed the stories that the Reds were behind Logain, which strained her ability to fulfill her Ajah Head's orders to defuse the rebellion. However, she believed that the [[Seanchan]] were a bigger threat.
+
+She bullies [[Myrelle Berengari]] into bonding [[Llyw]], after [[Kairen Stang]]'s death.
+Lelaine calls an emergency meeting of the Hall. [[Jahar Narishma]] arrives with the offer from the [[Dragon Reborn]] of bonding forty-seven [[Asha'man]]. Faiselle opposes this motion and refuses to stand with the greater consensus when the offer is accepted.
+
+Faiselle remains a Sitter when the Hall of the Tower is re-united after the [[White Tower Schism]]. The Sitters try to hold a secret meeting without Egwene, discussing ways temper the Amyrlin's power when a declaration of war is called. Faiselle voted for a proposal that would allow only Egwene to deal with the monarchy of the world, which includes Rand as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army. In that same meeting, Faiselle voted in favor of the new rules and procedures in the Hall, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present.
+
+During the Last Battle, she accompanies the Aes Sedai army. She is present when Gareth Bryne's Compulsion is revealed, and suggests that the Sitters take command of the army. However, Egwene recommends leaving the command to Mat. She presumably survives the conflict.
+
+{{notes}}
+
+[[es:Faiselle]]
+{{DEFAULTSORT:Darone, Faiselle}}
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

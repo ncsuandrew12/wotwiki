@@ -1,0 +1,53 @@
+{{for|the similarly named member of the [[Children of the Light]]|Doirellin}}
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ewot=Lirene
+| ajah=Red
+| rank=Aes Sedai
+| occupation=Sitter
+| nationality=Cairhienin
+| affiliation=White Tower
+| gender=Female
+| height=Short
+| status=Alive
+| mentioned={{acos|p}}
+| appeared={{kod|24}}
+| lastappeared={{tgs|16}}
+| living=tgs
+|birth = {{ne|820}}}}
+'''Lirene Doirellin''' is an [[Aes Sedai]] and a former [[Sitter]] of the [[Red Ajah]].{{ref|{{twotc}}, Lirene Doirellin}}
+
+==Appearance==
+She is 5'2" tall, a little shorter than [[Egwene al'Vere]]. She has nervous eyes that remind Egwene of a sparrow watching out for cats. She used to be plump, but lost a lot of weight due to her exile. Her skin has become weathered as well.
+
+Although she is Red Ajah, her clothing only has traces of red in it. It is possible that she wishes to disown the Ajah that disowned her in her years of exile.
+
+==Strength and Abilities==
+Lirene is of [[Strength in the One Power among Aes Sedai|average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|30}}. She would not be able to [[Traveling|Travel]] without linking with another channeler.
+
+==History==
+Lirene is 180 years old. She was born in the year {{ne|820}} and went to the [[White Tower|Tower]] in {{ne|835}}. After spending eight years as novice and six as Accepted she was raised to the shawl in the year {{ne|861}}. She was selected Sitter in the year [[953 NE]] (most probably to replace in the office [[Duhara Basaheen]], who had become Keeper of the Chronicles to [[Sierin Vayu]]).
+
+She was a Sitter in the Hall until she, along with [[Toveine Gazal]] and [[Tsutama Rath]], was forced to resign and exiled by [[Marith Jaen]] in {{ne|985}}, for the role of the Red Ajah in covertly [[gentling]] around eight male channelers, including Thom Merillen's nephew, outside the White Tower, at odds with [[Tower law]], an act which was recorded in the [[Thirteenth Depository]]. Before the exile she was also privately and severely punished with a birching.
+
+==Activities==
+After long years of exile, once elected Amyrlin, [[Elaida a'Roihan]] called Lirene back to the Tower, along with Tsutama Rath and Toveine Gazal. Elaida thinks she has become nervous after her treatment over the years. Elaida considers even that Lirene spirit was somehow broken.
+
+In many ways Lirene was truly broken. She was indeed of a tense and nervous disposition after her return, and exceedingly afraid to be caught in anything wrong.
+She very much feared a return to her exile, and feared almost as much that something she did might result in another dose of the birch.
+
+Like the other two sitters punished and unchaired along her, Lirene has two major passion: a hatred for men who could channel and a desire for revenge on those who caused her downfall and suffering, as well as those who had abandoned her. The second passion even greater than the first.
+
+Moreover Lirene has a third passion: hatred for those who rose because of their downfall; those included the three Red Sitters that replaced them, [[Galina Casban]] who became Highest of the Red and never helped the three former Sitters, and Elaida herself, as she was not punished despite being involved in the gentling, and even was elected [[Amyrlin]]. She also hated the other two Sitters unchaired with her, Tsutama and Toveine.
+
+When Egwene al'Vere has lessons with Lirene, she talks endlessly about the mistakes made by Elaida. She is guarding Egwene when Egwene is forced to do endless chores in the kitchens.
+
+{{notes}}
+{{DEFAULTSORT:Doirellin, Lirene}}
+
+[[es:Lirene Doirellin]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

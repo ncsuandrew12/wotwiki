@@ -1,0 +1,25 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tairen
+| occupation=Servant
+| affiliation=Algarin Pendaloan
+| gender=Male
+| build=Bony
+| hair=White
+| appeared={{kod|18}}
+| lastappeared={{kod|18}}
+| lastmentioned={{kod|20}}
+| living=kod
+}}
+'''Ethin''' is a servant of Lord [[Algarin Pendaloan]] in [[Tear]].
+
+==Appearance==
+Ethin is a bony man with white hair and a creaky voice.
+
+==Activities==
+Ethin brings and announces [[Logain Ablar]] when he comes to Lord Algarin's manor to see [[Rand al'Thor]].{{ref/book|11|18}}
+
+{{notes}}
+{{short}}

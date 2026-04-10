@@ -1,0 +1,19 @@
+{{character 
+| image=Waves-icon.svg
+| imagesize=100px
+| status=Dead
+| nationality=Unknown nationality
+| occupation=Sailor
+| affiliation=Bayle Domon
+| gender=Male
+| mentioned={{tgh|9}}
+| lastmentioned={{tgh|9}}
+}}
+'''Carn''' was a sailor for [[Bayle Domon]]'s on the ''[[Spray]]''.
+
+== Activities ==
+He is tortured and killed as a warning to Bayle to not refuse the commission he received.{{ref/book|2|9}}
+
+{{notes}}
+
+{{short}}

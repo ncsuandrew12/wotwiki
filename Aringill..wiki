@@ -1,0 +1,15 @@
+'''Aringill''' is a moderately-sized port town on the west bank of the [[River Erinin]], on the border with [[Cairhien]]. Aringill is [[Andor]]'s largest and most important port, linking it by water with the city of [[Tar Valon]] upriver and with [[Tear]] downriver.
+
+There is a smaller Cairhienin port village located on the opposite bank of the Erinin, called [[Maerone]].
+
+During the recent civil war in [[Cairhien]], many thousands of refugees from Cairhien attempted to cross into Andor via Aringill, leading to some difficulties for the government of Andor.
+
+==Establishments==
+*[[The Riverman]]{{ref/book|3|40}}
+*[[The Good Queen]]{{ref/book|3|40}}
+
+{{notes}}
+
+[[es:Aringill]]
+[[Category:Andor]]
+[[Category:Towns]]

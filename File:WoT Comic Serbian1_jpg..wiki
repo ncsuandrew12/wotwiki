@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| Description             = From the Serbian version of [[The Eye of the World comic]], depicts [[Lews Therin Telamon]]
+| Source                  = [http://www.stripzona.com/port/lofiversion/index.php?t6527.html]
+| Artist                  = Chase Conley
+| Artist2                 = 
+}}

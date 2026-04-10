@@ -1,0 +1,23 @@
+{{character 
+| image=Leaves.png
+| imagesize=200px
+| status=Dead
+| gender=Female
+| hair=Graying
+| eyes=Green, deep-set
+| clan=Jenn Aiel
+| nationality=Aiel
+| appeared={{tsr|25}}
+| lastappeared={{tsr|25}}
+}}
+'''Narisse''' was a [[Jenn Aiel]].
+
+==Appearance==
+Narisse had graying hair and deep-set green eyes.{{ref/book|4|25}}
+
+==History==
+Narisse, along with [[Dermon]] and [[Mordaine]], speak for the Jenn Aiel. They allow the [[Aiel]] to send their sept chiefs and [[Wise Ones]] to [[Rhuidean]]. They do this to preserve ''[[ji'e'toh]]'' and the [[Prophecy of Rhuidean]].{{ref/book|4|25}}
+
+{{notes}}
+{{short}}
+[[Category:Historical people]]

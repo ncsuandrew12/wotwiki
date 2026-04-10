@@ -1,0 +1,25 @@
+{{ character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Amadician
+| affiliation=Faile Bashere
+| gender=Male
+| build=Lanky
+| height=Tall
+| appeared={{Kod|5}}
+| lastappeared={{kod|30}}
+| living=kod
+}}
+'''Theril''' is from [[Amadicia]]. His dad is [[Alvon]].
+
+== Appearance ==
+He is lanky and tall.
+
+== Activities ==
+He is made [[Gai'shain]] by the [[Shaido]]. He and his dad continue to try and escape from the Shaido, making it further each time. They tried three times.
+He swears fealty to [[Faile Bashere]] and later on steals the [[Oath Rod]] from [[Therava]]'s tent. He then gives to Faile.
+
+He witnesses [[Galina Casban]] topple a burnt down old house on top of Faile and the rest of her group. He runs back to the Shaido camp to get help from the rest of those who swore fealty to Faile.
+He is sent by Faile to the fortress in [[Malden]] to escort those that traveled through the aqueduct before the [[Battle of Malden]] to where Faile and [[Perrin Aybara]] are.
+[[Category:Gai'shain]]

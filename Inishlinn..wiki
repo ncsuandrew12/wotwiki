@@ -1,0 +1,10 @@
+'''Inishlinn''' is a city in [[Murandy]].{{ref/book|2|4}} In keeping with what seems to be Murandian tradition, people from the city refer to themselves as Inishlinni rather than Murandians.{{ref/book|2|4}}{{ref|{{twotc}}, Inishlinni}}
+
+==Parallels==
+The name is distinctly Irish in flavour. In Irish, "[http://www.fallingrain.com/world/EI/a/I/ Inish/Inis/Innis]" means "[[wikipedia:Inniskeen|island]]" and "Linn" meaning "pool" (e.g. Dubh Linn/[[wikipedia:Dublin|Dublin]] means Black Pool). Both are commonly used in place names.
+
+{{notes}}
+{{Short}}
+[[Category:Cities]]
+[[Category:Murandy]]
+[[Category:Parallels]]

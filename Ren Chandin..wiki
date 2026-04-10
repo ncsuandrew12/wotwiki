@@ -1,0 +1,18 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| status=Dead
+| gender=Male
+| death={{ne|999}}
+| mentioned={{tsr|40}}
+| lastmentioned={{tsr|40}}
+}}
+'''Ren Chandin''' was a resident of the [[Two Rivers]]. 
+
+== Activities ==
+When [[Perrin Aybara]] sets up an ambush for a group of [[Trolloc]]s in the Two Rivers, they were betrayed by [[Slayer|Lord Luc]] and Ren was killed when the Trollocs ambushed Perrin's group.{{ref/book|4|40}}
+
+{{notes}}
+{{DEFAULTSORT:Chandin, Ren}}

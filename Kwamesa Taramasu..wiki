@@ -1,0 +1,60 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality= Arafellin
+| hair=Dark
+| gender=Female
+| occupation=Sitter
+| rank=Aes Sedai
+| height=Average
+| build= Slender
+| status=Dead
+| affiliation=White Tower
+| appeared={{loc|35}}
+| lastappeared={{amol|37}}
+| living=amol
+|birth = {{ne|950}}|death = {{ne|1000}}}}
+
+'''Kwamesa Taramasu''' was an [[Aes Sedai]] and rebel [[Sitter]] of the [[Gray Ajah]]. 
+
+== Appearance and Personality==
+Kwamesa was dark and slender with a sharp nose. She was of average height, 5'3 1/2 tall.{{ref|{{twotc}}, Kwamesa Taramasu|comp}}
+
+She has the habit of peering down her nose at everyone and put great store in ceremony. Some thought her precocious.{{ref/book|10|19}}{{ref||comp}}
+
+==Strength and Abilities==
+There is potentially conflicting infomation on Kwamesa's exact strength in the One Power. The Companion lists her strength level as {{opsl|22}}, which would make her [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai. In the books, however, Nynaeve thinks that [[Reanne Corly]] "easily equaled Sheriam, say, or '''Kwamesa''' or Kiruna. Not many women possessed so much strength".{{ref/book|7|23}} The other three women in that list all have a strength of {{opsl|20}}. Nynaeve may simply be grouping strong sisters together, but she has met several Aes Sedai stronger than Kwamesa to use as examples - all the members of the [[Salidar Six]], for example. Being {{opsl|20}} would make her very strong for an Aes Sedai.
+
+Either way, she would be strong enough to [[Traveling|Travel]].
+
+==History==
+Kwamesa was born in [[Arafel]] in [[950 NE]].{{ref/book|10|19}}. She was the [[Too Young Sitters|youngest]] of the [[Hall of the Tower during the White Tower Schism|Salidar Sitters]].
+
+She went to the [[White Tower]] in [[965 NE]]. After spending five years as a [[novice]] and four years as [[Accepted]], she was raised to the [[shawl]] in [[974 NE]]. Some sisters thought her quite precocious, and wanted to slow down her rapid rise by holding her longer as novice and Accepted. Very few sisters have such a short training time.
+
+== Activities ==
+She had allied herself with the [[Salidar Aes Sedai]] and had been elected as a [[Sitter]] in the [[Salidar Hall]]. She was the youngest by a matter of months.
+
+Because she was the youngest Sitter, she intoned the ritual phrase ''Are there any present save women?'' in the call to vote for a new [[Amyrlin Seat|Amyrlin]] followed by her stripping to the waist. This tradition dates to the end of the [[Breaking of the World]]. In a similar vein, it was also her duty as youngest Sitter to make the formal call to seal the Hall away in a closed sitting:
+
+{{quote|What is brought before the Hall of the Tower is for the Hall alone to consider. Whosoever intrudes unbidden, woman or man, initiate or outsider, whether they come in peace or in anger, I will bind according to the law, to face the law. Know that what I speak is true; it will and shall be done.|Kwamesa Aes Sedai, Sitter for the Gray Ajah}}
+
+She was the second woman to cast her vote for [[Egwene al'Vere]] becoming Amyrlin in the initial round of voting, taking little time to make up her mind.
+
+She voted yes on the [[Rebel Aes Sedai]] declaring war on [[Elaida do Avriny a'Roihan]] as well as yes for an agreement with the [[Black Tower]]. She put herself forward as a candidate to negotiate a treaty with the Black Tower, highlighting the importance of the Gray Ajah in such an undertaking. {{Ref/book|10|19}}
+
+At [[Lelaine Akashi]]'s emergency meeting of the Hall, she stood to accept the offer from the [[Dragon Reborn]] of bonding forty-seven [[Asha'man]].
+Also see the article on [[Voting history]].
+
+She reswore the [[Three Oaths]] on the [[Oath Rod]] and proved that she was not [[Black Ajah]]. She was then part of the unanimous vote to attack the [[White Tower]] with their army. After the Tower reunification she was non confirmed as a Sitter.
+
+Kwamesa was given the responsibility of leading a group of female and male [[channelers]] during the [[Last Battle]]. They were to defend the ''dragons ''on the Polov Heights at the [[Field of Merrilor]], but Kwamesa and many others were killed by [[Demandred]]'s [[balefire]] attacks. She was the first named casualty of the Battle at the Field of Merrilor.
+
+{{notes}}
+{{DEFAULTSORT:Taramasu, Kwamesa}}
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Balefired]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,27 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| affiliation=Kandor
+| birth={{ne|966}}
+| nationality=Kandori
+| gender=Female
+| status=Alive
+| appeared={{ns|25}}
+| lastappeared={{ns|25}}
+| living=ns
+}}
+'''Jarene''' is the eldest daughter of Queen [[Ethenielle Kirukon Materasu]] and [[Brys Noramaga|Prince Brys]] of [[Kandor]].
+
+== Appearances ==
+She is lovely and has green eyes.{{ref/book|0|25}} 
+
+==History==
+She was born in {{ne|966}}.{{ref|{{twotc}}, Jarene|Jarene}}
+
+Moiraine meets her in {{ne|979}} when Jarene is twelve. At that time, she is in charge of her four younger brothers and younger sister while her older brother, [[Antol]], and her mother are in Southern Kandor. 
+
+While her mother is away, her father and her brother [[Diryk]] are killed by [[Merean Redhill]] of the [[Black Ajah]].{{ref/book|0|25}}
+
+She married a Kandori lord.{{ref||Jarene}}
+{{notes}}
+[[Category:Royalty]]

@@ -1,0 +1,61 @@
+{{featuredicon}}{{character 
+| image=Melaine.jpg
+| imagesize=250px
+| nationality=Aiel
+| birth = {{ne|890}} - {{ne|916}}
+| status=Alive
+| occupation=Wise One
+| gender=Female
+| hair=Golden-red
+| eyes=Green
+| clan=Goshien
+| sept=Jhirad
+| mentioned={{tdr|39}}
+| appeared={{tsr|23}}
+| lastappeared={{amol|33}}
+| living=amol
+}}'''Melaine '''(meh-LAYN; /mɛˈleɪn/), of the [[Jhirad]] sept of the [[Goshien]] [[Aiel]], is a [[Wise One]] who can [[channel]]. She is known for her temper and her above average strength in the [[One Power]]. She married [[Bael]] and was sister-wife to [[Dorindha]].
+
+== Appearance and Abilities ==
+She is a beautiful woman with golden-red hair and green eyes; she looks about thirty, but is actually between 84 and 110 years old.{{ref|{{twotc}}, Melaine|comp}} Egwene's first impression is that Melaine she is between ten and fifteen years older than herself. At this time, Egwene was seventeen.{{ref/book|4|23}}
+
+She has a strength in the One Power of {{opsl|23}}, strong enough that she can [[Travel]]. Were she Aes Sedai, this would also place her relatively highly among their hierarchy - equivalent to [[Merana Ambrey]], [[Verin Mathwin]] and [[Alanna Mosvani]]. Wise One's, however, do not rank themselves this way.
+
+Along with [[Amys]], [[Seana]] and [[Bair]] she was one of only four living [[Dreamwalking|dreamwalkers]] in to {{ne|999}}. According to Bair, Melaine and Amys are the most skilled at interpreting the future from their dreams.{{ref/book|4|23}}
+
+==Activities==
+She and the other Dreamwalkers told [[Rhuarc]] that the dreams say he must go in search of the ''[[Car'a'carn]]'',{{ref/book|3|39}} and sent a letter to [[Moiraine]] ordering [[Aviendha]] to return to the [[Aiel Waste]] and [[Rhuidean]] to be trained as a Wise One. The letter was addressed to Moiraine at the [[Stone of Tear]], but sent at least a month before she had even arrived there.{{ref/book|4|12}}
+
+=== Waiting at Rhuidean ===
+She meets [[Rand al'Thor]] and the rest of the Aiel on the slopes of [[Chaendaer]] when they are transported from [[Tear]] to [[Rhuidean]] via the [[Portal Stone]].{{ref/book|4|23}} She and the rest of the Aiel Wise Ones had sent a letter to [[Moiraine Damodred]] saying where they would meet and which day.{{ref/book|4|12}}
+
+Later, while the Aiel are on their way to cross the [[Dragonwall]], she marries the [[Goshien]] clan chief [[Bael]] and becomes first-sister to [[Dorindha (Roofmistress)|Dorindha]].
+
+She brings news to Rand in [[Caemlyn]] that the [[Aes Sedai]] delegation from [[Salidar]] has arrived.
+She is present during the meeting with Rand, [[Davram Bashere]], and Bael after Rand is rescued from the [[White Tower]] Aes Sedai, and she tries to find out if the Aes Sedai have tied any strings onto Rand.
+
+=== Restoring order to Arad Doman ===
+Months later she [[Traveling|Travels]] with the rest of her clan to [[Arad Doman]], where the Aiel attempt to bring peace to the
+[[File:Wot amys bair melaine by reddera-d4vmlv1.jpg|thumb|308x308px|Melaine with Ayms and Biar by Ariel Burgess, Official Wheel of Time Artist]]
+war torn country. While there she gives [[Aviendha]] more and more meaningless punishments, in an attempt to make her stand up to the other Wise Ones. She is at the meeting with Rand and the Aiel clan chiefs when Rand gives the order for the Aiel to capture the [[Council of Merchants]].
+
+She is insulted by [[Merise Haindehl]]'s comment to Aviendha about a "roughness" to how she weaves. Aviendha finally confronts the Wise Ones, including Melaine, on how pointless the tasks they have given are. Standing up to the other Wise Ones is Aviendha's final test, so they send her to Rhuidean to become a Wise One as well. She is meeting with Cadsuane when [[Nynaeve al'Meara]] enters with the news that Rand just burned a whole palace full of people away with [[balefire]].
+
+Egwene sets up a meeting in ''[[Tel'aran'riod]]'', which Melaine attends, between Aes Sedai, [[Sea Folk]] [[Windfinder]]s, and Aiel Wise Ones. It is decided at the meeting that [[Accepted]] will go and train with the Wise Ones for six months and then they would train with the Sea Folk for a further six months before returning back to the White Tower. They would then make a choice a year later on where they would wish to finish their training. Sea Folk and Wise One apprentices would also go through this training program but to the White Tower and the other channeling faction. It is agreed that for every two Accepted who leave, two Wise One apprentices and two Sea Folk apprentices will be exchanged. Finally, all ''[[ter'angreal]]'' that are already owned by the Aiel or by the Sea Folk cannot be claimed by the White Tower.
+
+The Black Ajah attack after the meeting in ''Tel'aran'riod''. Melaine is one of the Wise Ones who participates in the [[Battle in Tel'aran'rhiod]].
+
+=== Attacking Shayol Ghul ===
+Melaine is one of the Wise Ones who are present when Aviendha tells the group of her visions of the future, and the fall of the Aiel. The women rationalize that it is because Rand will leave the Aiel adrift by excluding the Aiel from the [[Dragon's Peace]]. When Aviendha asks for the Aiel to be included into the Dragon's Peace as enforcers, Rand is taken aback. Melaine and the rest of the Wise Ones stand behind Aviendha, confirming that she speaks for the rest of her people. Bair discusses with Amys and Melaine in ''tel'aran'rhiod'' that she has seen the same events as Aviendha. Egwene then approaches the women and they talk about the troubling dark cracks that are appearing, particularly when [[balefire]] is used. They all decide to ban the use of balefire. They then farewell each other.
+
+Because of her advanced pregnancy it can be assumed that during the [[Last Battle]] she does not fight in [[Thakan'dar]] Valley along the other Wise Ones.
+
+== Viewing ==
+[[Min Farshaw]] sees that Melaine will give birth to twin baby girls. She develops a bond with Min after this news and promises to name one of the twins after her. She later promised to name the other after Egwene. (On its way to being ''fulfilled'' as she is now pregnant)
+
+{{notes}}
+{{Primary Protagonists}}
+
+[[es:Melaine]]
+[[Category:Dreamwalkers]]
+[[Category:Channelers]]

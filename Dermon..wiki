@@ -1,0 +1,25 @@
+{{character 
+| image=Leaves.png
+| imagesize=200px
+| name=Dermon
+| status=Dead
+| nationality=Aiel
+| gender=Male
+| build=Gaunt
+| height=Tall
+| hair=White
+| eyes=Blue
+| clan=Jenn Aiel
+| appeared={{tsr|25}}
+| lastappeared={{tsr|25}}
+}}
+'''Dermon''' was a [[Jenn Aiel]].
+
+==Appearance==
+Dermon was a tall, gaunt man with white hair and blue eyes.
+
+==History==
+Dermon speaks for the [[Jenn Aiel]], with [[Mordaine]] and [[Narisse]], when the sept chiefs were invited to [[Rhuidean]].{{ref/book|4|25}}
+
+{{notes}}
+[[Category:Historical people]]

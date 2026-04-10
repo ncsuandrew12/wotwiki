@@ -1,0 +1,26 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| birth={{ne|988}} 
+| status=Dead
+| death={{ne|999}}
+| gender=Female
+| affiliation=Two Rivers
+| appeared={{teotw|r}}
+| lastappeared={{teotw|r}}
+| lastmentioned={{tsr|56}}
+}}
+{{for|others with the same surname|Aybara}}
+'''Deselle Aybara''' was [[Perrin]]'s sister. 
+
+==History==
+Her father and mother were [[Con Aybara]] and [[Joslyn Aybara]]. She also had another brother, [[Paet]], and a sister, [[Adora]]. She was twelve.
+
+==Activities==
+[[Padan Fain]] murders Perrin's entire family including Deselle. Their deaths are blamed on Trollocs.{{ref/book|4|29}}
+
+{{notes}}
+{{DEFAULTSORT:Aybara, Deselle}}
+
+[[es:Deselle Aybara]]

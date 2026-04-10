@@ -1,0 +1,98 @@
+[[File:EmondsField.jpg|thumb|300px|right|Emond's Field in the spring of {{Ne|999}}]]
+'''Emond's Field''' is a village of farmers and craftsmen centrally located in the [[Two Rivers]] district of western [[Andor]].
+
+==Geography==
+{{quote|The merchants' guards sometimes say this is the back end of forever, and I suppose it must seem that way to anyone from outside.|[[Rand al'Thor]]{{ref/book|1|2}}}}
+[[File:Two Rivers.jpg|right|thumb|400px|The geography of Emond's Field; shown centrally located in the Two Rivers district at the head of the Winespring Water]]
+Emond's Field is located north of [[Deven Ride]] and south of [[Watch Hill]] at the intersection of the [[North Road]] and the [[Old Road]]. West from the village stretches the [[Quarry Road]] which passes through the [[Westwood]] and the [[Sand Hills]] to terminate at the [[Mountains of Mist]].  The community is the largest of the villages in the region and has been built surrounding a [[Green]] where a natural aquifer, the [[Winespring]], flows continuously from a low stone outcropping. The Winespring is the headwater for the [[Winespring Water]] which flows east through the Green under two low railed footbridges, the [[Wagon Bridge]], and passes adjacent to the [[Winespring Inn]]. From there the stream widens with willow trees dotting its banks, passes the mill owned by [[Jon Thane]], and eventually splits into several flows in the [[Waterwood]] before draining into [[The Mire]]. While some villagers reside inside the community limits, others like [[Tamlin al'Thor]] live on outlying farms.
+
+==History==
+{{quote|The old blood is strong in Emond's Field, and the old blood sings.|[[Moiraine Damodred]]{{ref/book|1|12}}}}[[file:Manetheren.jpeg|thumb|left|300px|The Flag of Manetheren]]
+In the years between the [[Breaking of the World]] and the [[Trolloc Wars]] the area around Emond's Field was governed by the storied nation of [[Manetheren]].  The location where the village now rests was a crossroads of paved highways that featured a singular inn for travelers journeying within the country.  During the middle years of Trolloc Wars circa {{Ab|1200}} Manetheren was besieged by armies of [[Shadowspawn]] and waged a desperate battle for survival.{{ref|{{bwb}}, Chapter 10 Rise and Fall of the Ten Nations}}The army of Manetheren was commanded by its king [[Aemon al Caar al Thorin]] who had failed to halt the [[Shadow]] from invading Manetheren during the [[Battle of the Tarendrelle River]].{{ref/book|1|9}}  His army was driven back until they were forced to wage a final desperate last stand at a field near the crossroads.  Thus began the one-day Battle of Aemon's Field where the king perished along with his army.  Legend holds that when these heroes died, a spring identical to the Winespring burst forth where they fell to forever mark their sacrifice.{{ref/book|5|51}} In the [[Free Years]] following the fall of Manetheren, decedents returned to the locale and named the site ''Aemon's Field'' as they founded a community centered around the spring.{{ref|{{bwb}}, Chapter 27 Andor|Ch27}}  Over time, the name changed to become "''Emond's Field''" through a process of social evolution and the people forgot their heritage but retained their fierce sense of independence.
+
+==Government==
+{{quote|We have no lords in the Two Rivers.  Maybe there are some up around Baerlon.|[[Matrim Cauthon]]{{ref/book|3|47}}}}
+[[File:Winespring Inn.jpg|right|thumb|400px|The Winespring Inn serves as a meeting-house for the Village Council]]  Like the other villages in the Two Rivers region, Emond's Field practices a form of gender-based [http://en.wikipedia.org/wiki/bicameral bicameral] government.{{ref||Ch27}}  Governance is split between the [[Village Council]]; a committee of men chaired by a [[mayor]], and the [[Women's Circle]]; a gathering of women that are lead by a [[Wisdom]].
+
+===The Village Council===
+The Council is comprised of exactly seven councilors and one mayor.  All are men who have been elected to their office via popular vote.  Council meetings take place in the common room of the [[Winespring Inn]] and are chaired by the Mayor.  Of the remaining seven councilors, six are residents of the village and one is a farmer from the countryside who speaks for the outlying farms.  In the summer of {{ne|999}} the eight members of the Village council were:
+
+*[[Brandelwyn al'Vere]], Mayor of Emond's Field and proprietor of the Winespring Inn{{ref/book|1|1}} 
+*[[Tamlin al'Thor]], Westwood farmer and retired soldier{{ref/book|1|1}}
+*[[Cenn Buie]], local thatcher renowned for being cantankerous and distrustful{{ref/book|1|1}}
+*[[Jon Thane]], owner of a mill east of the village adjacent the Winespring Water.{{ref/book|1|2}}{{ref/book|4|56}}
+*[[Haral Luhhan]], local village blacksmith{{ref/book|1|2}} to whom [[Perrin Aybara]] was apprenticed
+*[[Rowan Hurn]], village resident and farmer{{ref/book|1|2}}
+*[[Samel Crawe]], village resident and farmer{{ref/book|1|2}}
+*[[Abell Cauthon]], village resident, farmer, and horsetrader{{ref/book|4|53}} 
+
+Council business typically revolves around economics and the setting of prices for wool and tabac to visiting merchants.  It is generally understood that these subjects are sensitive and not to be discussed outside council meetings.{{ref/book|1|1}}  The council will intervene if villagers believe they have been traded with unfairly, or if local residents are in disagreement over property ownership; such as a dispute over land boundaries.{{ref/book|6|p}}  The council will also negotiate with Councils of neighboring villages over matters jointly affecting the communities.{{ref|{{twotc}}, Village Council}} In the extremely rare event that villagers or outlying farmers feel that their safety or security is at risk from outsiders, the council has been known to mobilize militias to patrol the surrounding area.{{ref/book|1|4}}  Though elections for mayor can be contentious in the villages of the Two Rivers, Mayor al'Vere is well liked and has served multiple unopposed terms during his tenure.{{ref/book|7|8}} The only known historical member of the Village Council is [[Willim al'Dai]]. 
+
+===The Women's Circle===
+{{quote|You could shout at the Women's Circle all day, and you still ended up doing what they wanted anyway, wishing you had kept your mouth shut.|Egwene al'Vere {{ref/book|4|35}}}}
+In Emond's Field the Village council is balanced by - and often at odds with - the equally important Women's Circle.  Members of the Circle are always elder females who are chosen to join the body by village agreement and include at least 2-3 women from outlying farms.{{ref|{{twotc}}, Emond's Field}} Unlike the Council which was chartered at exactly 8 men, the size of the Circle is not set and has been known to fluctuate over time.  The village [[Wisdom]] generally serves as the leader of the circle, but she is considered co-equal during times when the circle seeks consensus.  Four women are currently confirmed to be in the body as of the summer of {{ne|999}}, though the Circle is certainly much larger.  These four women are:
+
+*[[Daise Congar]], The village Wisdom and the wife of [[Wit Congar]]{{ref/book|4|29}}
+*[[Marin al'Vere]], Mistress of the Winespring Inn and the wife of the Mayor{{ref/book|4|53}}
+*[[Alsbet Luhhan]], Wife of councilor Haral Luhhan{{ref/book|4|53}}
+*[[Neysa Ayellin]], Local village resident{{ref/book|4|53}} 
+
+In addition, two former members of the circle include:
+*[[El'Nynaeve ti al'Meara Mandragoran|Nynaeve al'Meara]], former village Wisdom who abdicated her position and was succeeded by Daise Congar
+*[[Doral Barran]], (deceased) Former village Wisdom who trained - and was succeed by -  Nynaeve al'Meara
+[[File:Daise Congar.jpg|right|thumb|200px|Daise Congar is the Wisdom of Emond's Field and leads the Women's Circle]]
+The Women's Circle's main purpose is to serve as a guardian of culture.  The Circle convenes on a wide array of social issues such as when a young woman is of marriageable age and may [[Braid]] her hair,{{ref/book|2|3}} or whether a villager should be punished for misbehavior.  Members will conduct meetings in secret and always seek to achieve complete consensus in decisions.  Circle members are generally knowledgeable in weather and herblore and will advise men when to plant and harvest crops.{{ref|{{twotc}}, Women's Circle}}  Because they are a nexus for culture and tradition, the Circle is the body that conducts marriages in Emond's Field.{{ref/book|4|53}}   
+
+===Overall Village Governance===
+As in the villages of Watch Hill and Deven Ride, political control of Emond's Field exists as an ongoing willful struggle between the Village Council and the Women's Circle. In general however, it is understood and accepted that the Village Council sets policy regarding economics and security while the Women's Circle holds sway over social issues. Though Emond's Field continues to assert political independence, by the fall of {{ne|999}} many villagers, including Daise Congar and Mayor al'Vere, began to defer to Lady [[Zarine ni Bashere t'Aybara|Faile Bashere Aybara]] and Lord [[Perrin Aybara]].{{ref/book|6|p}}
+
+==Culture==
+{{quote|Let the hail beat their crops into the mud, and the wind take off every roof in the district, and the wolves kill half their livestock, and they'll roll up their sleeves and start from scratch.|[[Tamlin al'Thor|Tam al'Thor]] reflecting on the villagers of Emond's Field{{ref/book|1|4}}}}
+
+===Way of Life===
+[[file:EgweneRand Bel Tine by ravenwing136.jpg|left|thumb|230px|Bel Tine in Emond's Field]]
+Inhabitants of the area live a lifestyle centered around agriculture and tradecraft. Men are usually farmers or masters of a trade skill.  Folk are often distrustful of outsiders, evidenced when they occasionally refer to Taren Ferry men as "''sheepstealers''" or "''chickenthieves''"{{ref/book|1|1}} and keep a wary eye on visiting merchant caravans. Like all inhabitants of the Two Rivers, villagers of Emond's Field are known for a strong streak of stubbornness, a legacy of ancient Manetheren. As a consequence they are a hardy folk unwilling to give up when times are tough. While on the surface it may seem to outsiders that the conflict between the Village Council and the Women's Circle is forever ongoing, villagers are actually fiercely loyal to each other. As a result they will fight united with every fiber of their being to protect their property and way of life.
+
+===Gatherings and Feastdays===
+Residents of Emond's Field celebrate different feastdays throughout the year, but there are four distinct gatherings that carry special significance because they pull all members of the community together.{{ref/book|1|r}}
+*[[Bel Tine]] - Occurs during the spring equinox when winter first falls away.  Community members will gather in a grand festival on the village Green, where contests are held and and unmarried adult villagers are encouraged to dance together around a [[Spring Pole]].  Bel Tine is a time for music, merrymaking, young love, and a celebration of the new spring season.{{ref/book|1|1}}
+[[File:Egwene al'Vere young.jpg|thumb|right|Egwene al'Vere, age 9, carrying water for the Annual Sheep Shear]]
+*The Annual Sheep Shear - Occurs in late spring.  The entire community will gather in a meadow east of the village next to the Winespring Water where they wash and shear sheep.{{ref/book|1|r}}  Wool is gathered and carefully weighed and folded.  Great care is taken to make certain the right weight of wool is returned to its proper owners.  Wool gathering is an extremely labor intensive task, so the entire community assists each other and families will often prepare potluck meals to share with others.{{ref/book|1|r}}  Younger children will be enlisted to help carry water for sheep washing and teenagers will assist with animal herding.{{ref/book|1|r}}  
+*[[Sunday]] - Held at the height of summer during the solstice and generally around the time merchants arrive to purchase wool.{{ref/book|1|r}}  It is a event of feasting, dancing, and of wearing ones best clothes.  Residents might decorate homes or wagons on Sunday.{{ref/book|2|15}}  This is also a time for young men to engage in contests of strength and dexterity such as running, lifting, archery, or quarterstaff use.  Unlike Bel Tine which is unique to the Two Rivers region, Sunday is celebrated in other areas of the [[Westlands]] though customs may differ. 
+*[[Feast of Fools|Foolday]] - Occurs in the fall.{{ref/book|1|r}}  In other parts of the world this is a time of merry tricks and foolish activities.  In the Two Rivers, Foolday is a time to gather and tell jokes, stories, and engage in harmless pranks.  It is also a way to celebrate the pending harvest and an excuse for folk to gather one final time before winter arrives.   
+
+==Economics and trade==
+{{quote|Everyone in the village had kith or kin of some sort on the farms.|Egwene al'Vere {{ref/book|1|r}}}}
+[[File:BadgeofOffice.JPG|left|thumb|200px|Mayor al'Vere's badge of office, donned when trading with merchants]]
+The economy of Emond's Field depends primarily upon [[tabac]] farming and wool gathering. Guarded merchant caravans will journey to the village from [[Baerlon]] and [[Taren Ferry]] in order to purchase and return with these commodities along with smaller quantities of apple brandy.{{ref||Ch27}} Commerce takes place upon the village green and, as a function of his office to ensure a fair marketplace, Mayor al'Vere dons his badge of office while observing all transactions and weighing coins with a set of merchant's scales.{{ref/book|1|2}} 
+
+Like the three major feastdays and the annual sheep shear, the times when merchants purchase commodities are major affairs in Emond's Field which will bring all members of the community together.{{ref/book|1|r}}  These are also the times when the Village Council plays its greatest political role.  Prior to the arrival of merchants, the Council will set prices for commodities to make certain villagers don't undercut each other and ensure nobody is cheated by outlanders.  There are two times a year when merchants visit.  They are:
+*Early summer when wool is purchased.  Villagers will gather the wool previously sheared a month earlier and transact with merchants on the village green.{{ref/book|1|r}}
+*Late summer/early fall when cured Tabac is bought.  Villagers will harvest and cure Tabac in the late summer and then bring it to the village Green for sale once the merchants arrive again.{{ref/book|1|r}}  
+
+In addition to these commodities, the economy of Emond's Field also depends on the tradecraft of blacksmith Haral Luhhan, mill owner Jon Thane, thatcher Cenn Buie, and horsetrader Abell Cauthon. The Mayor and his wife Marin al'Vere also enjoy occasional business as owners of the Winespring Inn.
+
+==Recent events==
+For as long as anyone can remember Emond's Field has been a peaceful, isolated village, but recent events have led to dramatic changes.
+
+===Winternight===
+[[file:TrollocAttack.jpg|thumb|right|300px|Emond's Field the morning after the Winternight raid of 998 NE]]
+On [[Winternight]] of the year [[998 NE]], a force of about one hundred [[Trolloc]]s raided Emond's Field in search of the [[Dragon Reborn]].{{ref/book|1|7}} As a result a few people were killed, several more were wounded, and many buildings were damaged. Fortunately the [[Aes Sedai]] Moiraine Damodred and her [[Warder]] interceded and prevented more violence. After these events, the Aes Sedai left with four young villagers ([[Rand al'Thor]], [[Matrim Cauthon]], [[Perrin Aybara]], and [[Egwene al'Vere]]) and a [[gleeman]] named [[Thom Merrilin]].{{ref/book|1|10}} Later the village Wisdom, Nynaeve al'Meara, left in pursuit. Before leaving, Nynaeve sent for the Wisdom of Deven Ride, [[Mavra Mallen]], to act as her temporary replacement. When Nynaeve did not return, Daise Congar was chosen by the Women's Circle to serve as the new Wisdom and Mavra returned to Deven Ride.
+
+===Shadowspawn invasion===
+[[file:Trolloc attack.jpg|thumb|left|300px|Trollocs attack a defensive perimeter during the Battle of Emond's Field]]
+In the summer of {{ne|999}}, forces led by [[Padan Fain]] attempted to lure Rand al'Thor into a trap by threatening the Two Rivers and specifically Emond's Field. Perrin Aybara returned to the area instead with Faile Bashere and ultimately led a heroic defense of the village in a cultural turning-point that would come to be known as the [[Battle of Emond's Field]]. The conflict led to a social knitting of Emond's Field with Watch Hill and Deven Ride establishing the foundations of a sovereign power with Lord Perrin Aybara and his wife Lady Faile Bashere Aybara as rulers. Though Perrin never sought leadership, it is likely that his nature as ''[[ta'veren]]'' was the driving cause of these social changes.
+
+===Economic expansion===
+Beginning in the Fall of {{ne|999}} refugees from [[Almoth Plain]], [[Tarabon]], [[Arad Doman]], and [[Ghealdan]] began to enter the region in flight from other conflicts and troubles. Initially this caused a population strain on the village but by {{Ne|1000}} the economy of the Two Rivers expanded and Emond's Field began to grow. New houses have begun construction that feature superior clay tile roofing along with a new inn, [[The Archers]]. The inclusion of new cultures and trade skills have lead Emond's Field to evolve into a town surrounded by a wall with fortifications reminiscent of the [[Borderlands]] from where Lady Faile hails.
+
+== External links ==
+* {{TVlink|Emond's Field}} on {{TVlink}}
+
+[[es:Campo de Emond]]
+
+{{notes}}
+[[Category:Two Rivers]]
+[[Category:Villages]]<references />
+[[Category:Two Rivers]]
+[[Category:Villages]]

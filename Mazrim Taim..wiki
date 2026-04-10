@@ -1,0 +1,112 @@
+{{Featuredicon}}{{character
+| image=Wot mazrim taim by reddera-d51fre4.jpg
+| imagesize=250px 
+| birth={{Ne|972}}
+| occupation=Asha'man
+| nationality=Saldaean
+| rank=Chosen
+| title=[[M'Hael]]
+| gender=Male
+| height=Tall
+| hair=Black
+| status=Dead
+| appeared={{loc|2}}
+| mentioned={{teotw|13}}
+| lastappeared={{amol|37}}
+| lastmentioned={{amol|43}}
+|death = {{ne|1000}}}}
+{{WotQ|{{PAGENAME}}}}
+
+'''Mazrim Taim''' (MAHZ-rihm tah-EEM; /ˈmɑz.ɹɪm taˈiːm/) is a male [[channeler]] and a former [[False Dragon]]. When Taim becomes one of the [[Forsaken]], he is renamed '''M'Hael'''.
+
+==Appearance==
+Taim is tall, has black hair, with a dark, clean-shaven face, and the tilted eyes, hooked nose and high cheekbones of a Saldaean. He used to wear facial hair, as evidenced by his first meeting with [[Rand al'Thor]]: when [[Davram Bashere]] doubts Taim's identity, Taim implies Bashere does not recognize him because he had shaved since the last time the general had seen him. Rand's first estimation of Taim's age was the mid-thirties, perhaps due to the stress of evading Bashere's armies during his journey to [[Caemlyn]]. He normally looks somewhat younger, as all channelers do.{{ref|[[Source:Blog - ONE MORE TIME, 4 October 2005]]}} When [[Pevara Tazanovni]] encounters him for the first time in the [[Black Tower]], he is also described as having an air of physical strength and of darkness.{{ref/book|10|e}}
+
+==Channeling abilites==
+[[File:taim.jpg|left|thumb|308x308px|Mazrim Taim Portrait by Seamus Gallagher]]
+Mazrim Taim is a very powerful channeler, rivaled only by [[Logain Ablar]] and a few other Asha'man and surpassed only by [[Rand al'Thor]]{{ref/book|6|3}} and some of the Forsaken. The fact that Rand al'Thor chooses him to be a teacher at the farm is also evidence of his channeling ability and skill.
+
+== Other skills ==
+In spite of being a borderlander, his skills with a sword are very limited.{{Ref/book|6|11}}
+
+==History==
+He is from Saldaea. As a man who can [[channel]], Taim falsely declared himself to be the [[Dragon Reborn]] in [[998 NE]].{{ref/book|1|13}}
+
+==Activities==
+===False Dragon===
+[[Image:Taim_saliba.jpg|right|thumb|150px|Taim portrait done by Jeremy Saliba]]
+He burnt much of Saldaea and nearly defeated Davram Bashere before he was captured, though only because he fell off his horse due to the visions of [[Falme]].{{ref/book|3|12}} Before being captured, a farmer allegedly gave him one of the [[Seal]]s of the [[Dark One]]'s prison.{{ref/book|6|2}}
+
+===Capture, escape, and the Black Tower===
+Although captured, he escaped, and took advantage of Rand al'Thor's amnesty to male channelers to escape punishment for his crimes, and for glory.{{ref/book|6|2}}
+
+After giving Rand the ''[[cuendillar]]'' Seal, he was appointed as leader and teacher of 'the farm'. 'The farm', later renamed the [[Black Tower]], was a training center for male channelers. He now leads [[Rand al'Thor]]'s male channelers, the [[Asha'man]], and calls himself the ''[[M'Hael]]'', which means ''Leader'' in the [[Old Tongue]].{{ref/book|6|2}}
+
+He is notably arrogant, forgoing normal Asha'man rankings for blue-and-gold dragons on his coat sleeves, paying homage to Rand's arm markings while apparently mocking him at the same time. It is also worth noting that Taim does not wear the collar pins, as all other Asha'man do. He leads the Asha'man into the [[Battle of Dumai's Wells]] but it is very suspect on how he found out and under whose direction he is. He enjoyed watching the [[Rebel Aes Sedai]] swear fealty to Rand.{{ref/book|7|2}} This led him to say one of his most famous quotes: "Kneel. Kneel before the Lord Dragon, or you will be knelt."
+[[File:TaimWatchesAshaman.JPG|thumb|250x250px|left|Mazrim Taim supervises Asha'man during the Battle of Dumai's Wells - Artwork by ''endave'']]
+He later pays a visit to [[Elayne Trakand]] and is forced to observe and obey Andoran law due to the Black Tower being on Andoran land. He is also forced to accept daily visits from soldiers of the [[Queen's Guards]] on the Black Tower grounds. When Elayne is summoned by the [[Wise Ones]], Taim sneaks a peek at her when she has to go naked.{{ref/book|9|p}}
+
+===Black Tower Factions===
+Taim secretly sent four Asha'man ([[Charl Gedwyn]], [[Manel Rochaid]], [[Peral Torval]], and [[Raefar Kisman]], all [[Darkfriends]]) to kill Rand in the [[Sun Palace]]. He later reports to Rand after the attack that all four men are deserters. He seems shocked and surprised when Rand also mentions that [[Corlan Dashiva]] is also a deserter. He watches Rand put [[Fedwin Morr]] to sleep for good and appreciates how hard Rand is.{{ref/book|8|29}} Both Taim's orders and his affiliation to the Shadow are confirmed by Kisman in Far Madding.{{Ref/book|9|22}}
+
+[[file:WoT Japanese LoC7.gif|right|thumb|200px|Taim from a [[Wheel of Time translations|Japanese]] translation book cover]]
+Logain claims that Taim has a small sect of followers whom he personally teaches weaves that no other Asha'man know. Taim refuses to believe that Rand was responsible for the [[cleansing of saidin|cleansing of ''saidin'']].
+
+===Let the Lord of Chaos rule===
+Taim met with [[Aes Sedai]] and agreed to allow the bonding of Asha'man by sisters of the [[Red Ajah]]. His justification for this was ''"let the [[Lord of Chaos (concept)|Lord of Chaos]] rule"'', a phrase unknown outside of the [[Forsaken]]. [[Atal Mishraile]] nearly reveals something to them before he is knocked unconscious by a blow to the head with Air from Taim. Taim will only allow him to be [[Heal]]ed if he survives the night.{{ref/book|11|28}}
+
+Taim escorts [[Javindhra Doraille]] around the Black Tower grounds with [[Pevara Tazanovni]]. Javindhra again insists on letting her Aes Sedai bond Asha'man, but Taim denies her stating that they can only bond Soldiers or Dedicated. Several channelers in the Black Tower are said to be turned different, as "Shadow brought into man."{{ref/book|13|56}} It is also revealed that Moridin's second dreamspike is at the Black Tower.
+===The [[Last Battle]]===
+====Chosen====
+
+[[Moridin]] reveals that Mazrim Taim has been elevated to the Chosen and renamed '''M'Hael''', confirming all suspicions of his loyalties.{{ref/book|14|p}}. Taim gained this status by undertaking a mission of gaining Rand's trust and then Turning his [[Asha'man]] to the Shadow with thirteen [[Myrddraal]] and thirteen [[Dreadlord]]s.
+
+====Battle for the Black Tower====
+[[File:Black Tower.JPG|thumb|left|230px|Taim meets a group of adventurers outside the Black Tower.]]
+M'Hael learns from [[Evin Vinchova]], that [[Androl Genhald]] and his men are launching a mission to rescue Logain. He and his men manage to corner them in Logain's cell, before M'Hael pulls down the roof on the opposing group, knocking most of them out unconscious and killing [[Arlen Nalaam]]. M'Hael's men become tired from trying to Turn Logain and [[Algarin Pendaloan]]. He has them bring in [[Toveine Gazal]] and Turn her while he sends for the [[Black Ajah]] with assistance from [[Hessalam]]. He admits to her that he possesses the [[Seals]] to the [[Dark One's prison]]. Evin is killed by M'Hael, after the former attacks [[Abors]]. Due to Androl being extremely weak in the One Power, and the dreamspike blocking gateways, M'Hael does not even bother to shield him, weaving balefire. In that moment, Androl weaves a very small gateway that absorbs the balefire in spite of the dreamspike. [[Taril Canler]] and the rest of the Two Rivers lads arrive to rescue them and attacks M'Hael and his men. Suddenly Androl is able to weave gateways again, and turns the attackers' channeling against them by placing a gateway behind them, killing many of them. M'Hael and Hessalam and a few of his men manage to escape through another gateway.
+
+====Tarwin's Gap====
+When Rand attempts to intercede in a losing battle at the Gap, the M'Hael leads a team of Dreadlords specifically charged with engaging the Dragon Reborn and killing him. He forces Rand to retreat, and pushes the Borderland forces back through [[Shienaran]] lands. M'Hael kills [[Deepe Bhadar]] in one skirmish.
+
+====The [[Field of Merrilor]]====
+[[File:The_wheel_of_time_mazrim_by_darlinginc-d3eipi3.jpg|thumb|300px|right|Mazrim Taim and Asha'man]]
+Demandred leads the combined forces of Shadowspawn, Dreadlords, and Sharans against the forces of Light. Demandred orders M'Hael to kill all of the channelers, admitting that he was the one who gave Taim the chance to join the Shadow. M'Hael comes to the conclusion that Demandred has allowed his hatred of Lews Therin to drive him insane.
+
+During the battle, [[Androl Genhald]] approaches M'Hael in the guise of [[Varil Nensen]] and steals back the Seals when he bumps against M'Hael. M'Hael places a [[Mask of Mirrors]] on Androl, making him look like Androl and orders him to kill Logain. Androl takes the Seals and retreats to meet his team.
+
+M'Hael battles Egwene and is forced to retreat due to her prowess with [[Vora's sa'angreal|Vora's ''sa'angreal'']]. Demandred scolds him for his failure, but gives him [[Sakarnen]], a ''sa'angreal'' as powerful as ''[[Callandor]].'' M'Hael sees an opportunity to destroy Demandred, but Demandred explains to him that the item is bonded to him and that the one to use it against him will cease to exist. M'Hael uses Sakarnen to duel Egwene and destroys the land with [[balefire]]. However, his swath of destruction is interrupted when Egwene responds with a new weave to counteract balefire's destruction, the [[Flame of Tar Valon]]. The new weave splits through his balefire and touches him, closing the cracks made by balefire and turning him into a crystalline pillar before reaching out to all channelers touched by the Shadow and doing the same.
+
+==Taimandred==
+For a long time, the theory persisted that Mazrim Taim was in fact the Forsaken [[Demandred]]. This was known as the "'''Taimandred'''" theory. It proposed several points of evidence:
+* Bashere's initial failure to recognize him.
+* His use of words and expressions like "severing" and "so-called Aiel".{{Ref/book|6|11}}
+* His apparent age, hinting that he seemed to be much older than Rand but not yet succumbed to the [[Taint]].
+* Some knowledge of [[Compulsion]].{{Ref/book|6|2}}
+
+The above list can be explained by the backstory Jordan gave later - namely that he was ripe for conversion by the [[Shadow]] and was recruited by the Shadow through Demandred. There were also good counterarguments to Taimandred, including that there did exist a man called Mazrim Taim who was captured by Aes Sedai and that Forsaken would probably make a better job at using [[Mirror of Mists]] and not dropping obvious hints. Taim, however, might benefit from disguising himself while on the run and be proud of tidbits of knowledge given to him by a [[Chosen]]. It's also not clear how free he was of the effects of the Taint. Jordan would later say Taim was "a paranoid S.O.B" and he certainly shows signs of megalomania. Robert Jordan later stated that Taim did not use Compulsion.{{ref/tidb|255|13}}
+
+Robert Jordan himself debunked this theory on a number of occasions saying "Demandred has never posed as Mazrim Taim,"{{ref/tidb|4|4}} that Taim being Demandred was "totally bogus,"{{ref/tidb|152|4}} and (according to Sanderson) that Demandred had not appeared "on screen" as any other character before ''[[Knife of Dreams]]''.{{ref/tidb|836|21}}{{ref/tidb|479|6}} Sanderson suggested Jordan did not [[RAFO]] this because "he was tired of everyone looking in the same place."{{ref/tidb|36|24}} The first definitive proof in terms of the books alone came in [[Winter's Heart]] when Demandred failed to recognize [[Damer Flinn]] (one of Taim's first [[Black Tower]] recruits) and [[Raefar Kisman]] recalled orders to kill Rand being received from both Demandred and Taim separately.{{ref/book|9|35}}{{ref/book|9|22}} Jordan also clarified the first of these saying that Taim would have recognized Flinn immediately.{{ref/tidb|137|10}}
+
+===Taimandred resurrected===
+More recent discoveries in Robert Jordan's personal notes showed that, at one point, he did in fact originally intend Demandred and Taim to be the same. In his book, [[Origins of the Wheel of Time]], [[Michael Livingston]] dates this as "when he was starting to write Lord of Chaos." When exactly the idea was abandoned is not known and there are only two known references to them being the same person, both of which are in the notes for {{6}}{{ref|The confirmation of Taim being Demandred being only in notes for {{6}} is significant in that these notes pre-date the publishing of {{loc}} and therefore pre-date any fan observations of the connections between Taim and Demandred. Therefore, these notes are very, very limited in supporting the idea that Robert Jordan changed his mind in response to fan theorizing.}} - other notes concerning Taim/Demandred during these years presumably don't mention them together.
+
+{{Quote|quote=Demandred: Hated/feared/despised Lews Therin. Like Lanfear, he plays for larger stakes than most of the others, who are trying to stake out worldly kingdoms. HE WILL SHOW UP CLAIMING TO BE '''<u>MAZRIM TAIM</u>''', TAKING ADVANTAGE OF RAND’S AMNESTY.|speakers=Robert Jordan|other_refs={{ref/rignotes|58|6|15|People}}{{ref/book|origins|3}}}}
+{{Quote|quote=Taim/Demandred showed up [at [[Dumai’s Wells]]<nowiki/>]|speakers=Robert Jordan|other_refs={{ref/rignotes|58|6|34|Rand}}{{ref/book|origins|3}}}}
+
+Some fans have proposed that he changed his mind because too many people had guessed Taim's true identity, but Livingston cautions against this, saying: "Precisely when he changed these things and why he did so is unclear. It may be that he felt fans had picked up on the Taim-Demandred connection too easily, and he altered it in an effort to keep them guessing. This would certainly be a flattering thing to think as a fan, though in truth it could just as well have been due to an entirely different reason of story, the result of some other rambling that wasn't handed down to us."
+
+==In the television series==
+*{{TVlink|Mazrim Taim}} on {{TVlink}}
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Taim, Mazrim}}
+[[es:Mazrim Taim]]
+[[Category:Asha'man]]
+[[Category:False Dragons]]
+[[Category:POV character]]
+[[Category:Sparkers]]
+[[Category:Antagonists]]
+[[Category:Dreadlords]]
+[[Category:Channelers]]
+[[Category:Asha'man (rank)]]

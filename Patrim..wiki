@@ -1,0 +1,16 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| gender=Male
+| occupation=Stableman
+| appeared={{tdr|8}}
+| lastappeared={{tdr|8}}
+| living=tdr
+}}'''Patrim''' is a stableboy at [[Harilin's Leap]] in [[Jarra (village)|Jarra]], [[Ghealdan]].{{ref|{{twotc}}, Patrim}}
+
+==Activities==
+When [[Perrin]], [[Loial]], [[Moiraine]] and [[Lan]] came through the village while chasing [[Rand]], Patrim was asked to stable their horses.{{ref/book|3|8}}
+
+{{notes}}

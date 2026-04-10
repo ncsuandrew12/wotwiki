@@ -1,0 +1,18 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Kandori
+| rank=Lady
+| affiliation=Kandor
+| gender=Female
+| appeared={{tom|p}}
+| lastappeared={{tom|p}}
+| living=tom
+}}Lady '''Yabeth''' is a [[Kandori]] noblewoman.{{ref|{{twotc}}, Yabeth, Lady}}
+
+==History==
+Lady Yabeth has lost four sons to the Blight. [[Tian]] is her sole surviving son.{{ref/book|13|p}}
+
+{{notes}}
+[[Category:Nobility]]

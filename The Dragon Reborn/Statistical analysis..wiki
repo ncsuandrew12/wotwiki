@@ -1,0 +1,446 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+''[[The Dragon Reborn]]'' contains 56 chapters and one prologue and consists of 11 unique POVs and 75 total POVs. It has a total word count of 243,569 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="3" | [[The Dragon Reborn/Prologue|Prologue: Fortress of the Light]]
+| Quote
+| align="right" | 100
+| align="right" | 0.0411%
+|-
+| [[Pedron Niall]]
+| align="right" | 5,530
+| align="right" | 2.2704%
+|-
+| [[Jaichim Carridin]]
+| align="right" | 1,220
+| align="right" | 0.5009%
+|-
+| [[The Dragon Reborn/Chapter 1|Ch1: Waiting]]
+| [[Perrin Aybara]]
+| align="right" | 4,112
+| align="right" | 1.6882%
+|-
+| [[The Dragon Reborn/Chapter 2|Ch2: ''Saidin'']]
+| [[Perrin Aybara]]
+| align="right" | 4,741
+| align="right" | 1.9464%
+|-
+| [[The Dragon Reborn/Chapter 3|Ch3: News from the Plain]]
+| [[Perrin Aybara]]
+| align="right" | 3,529
+| align="right" | 1.4488%
+|-
+| [[The Dragon Reborn/Chapter 4|Ch4: Shadows Sleeping]]
+| [[Perrin Aybara]]
+| align="right" | 2,978
+| align="right" | 1.2226%
+|-
+| [[The Dragon Reborn/Chapter 5|Ch5: Nightmares Walking]]
+| [[Perrin Aybara]]
+| align="right" | 4,870
+| align="right" | 1.9994%
+|-
+| [[The Dragon Reborn/Chapter 6|Ch6: The Hunt Begins]]
+| [[Perrin Aybara]]
+| align="right" | 5,399
+| align="right" | 2.2166%
+|-
+| [[The Dragon Reborn/Chapter 7|Ch7: The Way Out of the Mountains]]
+| [[Perrin Aybara]]
+| align="right" | 2,124
+| align="right" | 0.8720%
+|-
+| [[The Dragon Reborn/Chapter 8|Ch8: Jarra]]
+| [[Perrin Aybara]]
+| align="right" | 5,512
+| align="right" | 2.2630%
+|-
+| rowspan="2" | [[The Dragon Reborn/Chapter 9|Ch9: wolf dreams]]
+| [[Perrin Aybara]]
+| align="right" | 2,255
+| align="right" | 0.9258%
+|-
+| [[Rand al'Thor]]
+| align="right" | 523
+| align="right" | 0.2147%
+|-
+| [[The Dragon Reborn/Chapter 10|Ch10: Secrets]]
+| [[Egwene al'Vere]]
+| align="right" | 5,441
+| align="right" | 2.2338%
+|-
+| [[The Dragon Reborn/Chapter 11|Ch11: Tar Valon]]
+| [[Egwene al'Vere]]
+| align="right" | 3,965
+| align="right" | 1.6278%
+|-
+| [[The Dragon Reborn/Chapter 12|Ch12: The Amyrlin Seat]]
+| [[Siuan Sanche]]
+| align="right" | 2,088
+| align="right" | 0.8572%
+|-
+| [[The Dragon Reborn/Chapter 13|Ch13: Punishments]]
+| [[Egwene al'Vere]]
+| align="right" | 4,489
+| align="right" | 1.8430%
+|-
+| [[The Dragon Reborn/Chapter 14|Ch14: The Bite of the Thorns]]
+| [[Egwene al'Vere]]
+| align="right" | 2,759
+| align="right" | 1.1327%
+|-
+| [[The Dragon Reborn/Chapter 15|Ch15: The Gray Man]]
+| [[Egwene al'Vere]]
+| align="right" | 3,175
+| align="right" | 1.3035%
+|-
+| [[The Dragon Reborn/Chapter 16|Ch16: Hunters Three]]
+| [[Egwene al'Vere]]
+| align="right" | 3,234
+| align="right" | 1.3277%
+|-
+| [[The Dragon Reborn/Chapter 17|Ch17: The Red Sister]]
+| [[Egwene al'Vere]]
+| align="right" | 2,294
+| align="right" | 0.9418%
+|-
+| [[The Dragon Reborn/Chapter 18|Ch18: Healing]]
+| [[Egwene al'Vere]]
+| align="right" | 2,341
+| align="right" | 0.9611%
+|-
+| [[The Dragon Reborn/Chapter 19|Ch19: Awakening]]
+| [[Matrim Cauthon]]
+| align="right" | 2,761
+| align="right" | 1.1335%
+|-
+| [[The Dragon Reborn/Chapter 20|Ch20: Visitations]]
+| [[Matrim Cauthon]]
+| align="right" | 4,737
+| align="right" | 1.9448%
+|-
+| rowspan="2" | [[The Dragon Reborn/Chapter 21|Ch21: A World of Dreams]]
+| [[Egwene al'Vere]]
+| align="right" | 2,557
+| align="right" | 1.0498%
+|-
+| [[Verin Mathwin]]
+| align="right" | 221
+| align="right" | 0.0907%
+|-
+| [[The Dragon Reborn/Chapter 22|Ch22: The Price of the Ring]]
+| [[Egwene al'Vere]]
+| align="right" | 8,342
+| align="right" | 3.4248%
+|-
+| [[The Dragon Reborn/Chapter 23|Ch23: Sealed]]
+| [[Egwene al'Vere]]
+| align="right" | 3,096
+| align="right" | 1.2711%
+|-
+| [[The Dragon Reborn/Chapter 24|Ch24: Scouting and Discoveries]]
+| [[Matrim Cauthon]]
+| align="right" | 5,320
+| align="right" | 2.1841%
+|-
+| [[The Dragon Reborn/Chapter 25|Ch25: Questions]]
+| [[Egwene al'Vere]]
+| align="right" | 4,015
+| align="right" | 1.6484%
+|-
+| [[The Dragon Reborn/Chapter 26|Ch26: Behind a Lock]]
+| [[Egwene al'Vere]]
+| align="right" | 2,708
+| align="right" | 1.1118%
+|-
+| [[The Dragon Reborn/Chapter 27|Ch27: ''Tel'aran'rhiod'']]
+| [[Egwene al'Vere]]
+| align="right" | 5,580
+| align="right" | 2.2909%
+|-
+| [[The Dragon Reborn/Chapter 28|Ch28: A Way Out]]
+| [[Matrim Cauthon]]
+| align="right" | 2,692
+| align="right" | 1.1052%
+|-
+| [[The Dragon Reborn/Chapter 29|Ch29: A Trap To Spring]]
+| [[Nynaeve al'Meara]]
+| align="right" | 3,401
+| align="right" | 1.3963%
+|-
+| [[The Dragon Reborn/Chapter 30|Ch30: The First Toss]]
+| [[Matrim Cauthon]]
+| align="right" | 4,191
+| align="right" | 1.7206%
+|-
+| [[The Dragon Reborn/Chapter 31|Ch31: The Woman of Tanchico]]
+| [[Matrim Cauthon]]
+| align="right" | 2,683
+| align="right" | 1.1015%
+|-
+| rowspan="2" | [[The Dragon Reborn/Chapter 32|Ch32: The First Ship]]
+| [[Matrim Cauthon]]
+| align="right" | 5,464
+| align="right" | 2.2433%
+|-
+| [[Rand al'Thor]]
+| align="right" | 598
+| align="right" | 0.2455%
+|-
+| [[The Dragon Reborn/Chapter 33|Ch33: Within the Weave]]
+| [[Perrin Aybara]]
+| align="right" | 4,454
+| align="right" | 1.8286%
+|-
+| [[The Dragon Reborn/Chapter 34|Ch34: A Different Dance]]
+| [[Perrin Aybara]]
+| align="right" | 4,158
+| align="right" | 1.7071%
+|-
+| [[The Dragon Reborn/Chapter 35|Ch35: The Falcon]]
+| [[Perrin Aybara]]
+| align="right" | 3,225
+| align="right" | 1.3240%
+|-
+| rowspan="2" | [[The Dragon Reborn/Chapter 36|Ch36: Daughter of the Night]]
+| [[Perrin Aybara]]
+| align="right" | 4,072
+| align="right" | 1.6718%
+|-
+| [[Rand al'Thor]]
+| align="right" | 788
+| align="right" | 0.3235%
+|-
+| [[The Dragon Reborn/Chapter 37|Ch37: Fires in Cairhien]]
+| [[Egwene al'Vere]]
+| align="right" | 4,024
+| align="right" | 1.6521%
+|-
+| [[The Dragon Reborn/Chapter 38|Ch38: Maidens of the Spear]]
+| [[Egwene al'Vere]]
+| align="right" | 3,672
+| align="right" | 1.5076%
+|-
+| [[The Dragon Reborn/Chapter 39|Ch39: Threads in the Pattern]]
+| [[Egwene al'Vere]]
+| align="right" | 7,593
+| align="right" | 3.1173%
+|-
+| [[The Dragon Reborn/Chapter 40|Ch40: A Hero in the Night]]
+| [[Matrim Cauthon]]
+| align="right" | 5,947
+| align="right" | 2.4416%
+|-
+| [[The Dragon Reborn/Chapter 41|Ch41: A Hunter's Oath]]
+| [[Perrin Aybara]]
+| align="right" | 3,027
+| align="right" | 1.2427%
+|-
+| [[The Dragon Reborn/Chapter 42|Ch42: Easing the Badger]]
+| [[Perrin Aybara]]
+| align="right" | 5,636
+| align="right" | 2.3139%
+|-
+| [[The Dragon Reborn/Chapter 43|Ch43: Shadowbrothers]]
+| [[Perrin Aybara]]
+| align="right" | 2,878
+| align="right" | 1.1816%
+|-
+| rowspan="2" | [[The Dragon Reborn/Chapter 44|Ch44: Hunted]]
+| [[Perrin Aybara]]
+| align="right" | 3,136
+| align="right" | 1.2875%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,801
+| align="right" | 0.7394%
+|-
+| [[The Dragon Reborn/Chapter 45|Ch45: Caemlyn]]
+| [[Matrim Cauthon]]
+| align="right" | 3,990
+| align="right" | 1.6381%
+|-
+| [[The Dragon Reborn/Chapter 46|Ch46: A Message Out of the Shadow]]
+| [[Matrim Cauthon]]
+| align="right" | 4,159
+| align="right" | 1.7075%
+|-
+| [[The Dragon Reborn/Chapter 47|Ch47: To Race the Shadow]]
+| [[Matrim Cauthon]]
+| align="right" | 2,955
+| align="right" | 1.2132%
+|-
+| [[The Dragon Reborn/Chapter 48|Ch48: Following the Craft]]
+| [[Egwene al'Vere]]
+| align="right" | 6,193
+| align="right" | 2.5426%
+|-
+| rowspan="2" | [[The Dragon Reborn/Chapter 49|Ch49: A Storm in Tear]]
+| [[Egwene al'Vere]]
+| align="right" | 2,341
+| align="right" | 0.9611%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 5,427
+| align="right" | 2.2281%
+|-
+| [[The Dragon Reborn/Chapter 50|Ch50: The Hammer]]
+| [[Perrin Aybara]]
+| align="right" | 6,179
+| align="right" | 2.5368%
+|-
+| [[The Dragon Reborn/Chapter 51|Ch51: Bait for the Net]]
+| [[Nynaeve al'Meara]]
+| align="right" | 3,499
+| align="right" | 1.4365%
+|-
+| [[The Dragon Reborn/Chapter 52|Ch52: In Search of a Remedy]]
+| [[Matrim Cauthon]]
+| align="right" | 2,662
+| align="right" | 1.0929%
+|-
+| [[The Dragon Reborn/Chapter 53|Ch53: A Flow of the Spirit]]
+| [[Perrin Aybara]]
+| align="right" | 2,981
+| align="right" | 1.2239%
+|-
+| rowspan="5" | [[The Dragon Reborn/Chapter 54|Ch54: Into the Stone]]
+| [[Matrim Cauthon]]
+| align="right" | 3,813
+| align="right" | 1.5654%
+|-
+| [[Rand al'Thor]]
+| align="right" | 139
+| align="right" | 0.0571%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,934
+| align="right" | 0.7940%
+|-
+| [[Perrin Aybara]]
+| align="right" | 474
+| align="right" | 0.1946%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 973
+| align="right" | 0.3995%
+|-
+| rowspan="5" | [[The Dragon Reborn/Chapter 55|Ch55: What Is Written in Prophecy]]
+| [[Rand al'Thor]]
+| align="right" | 2,213
+| align="right" | 0.9086%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,003
+| align="right" | 0.4118%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,882
+| align="right" | 0.7727%
+|-
+| [[Perrin Aybara]]
+| align="right" | 740
+| align="right" | 0.3038%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,572
+| align="right" | 0.6454%
+|-
+| rowspan="3" | [[The Dragon Reborn/Chapter 56|Ch56: People of the Dragon]]
+| Narrator
+| align="right" | 126
+| align="right" | 0.0517%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 2,787
+| align="right" | 1.1442%
+|-
+| Quote
+| align="right" | 76
+| align="right" | 0.0312%
+|-
+|}
+
+==Unique POV Breakdown==
+{| class="wikitable sortable"
+!Character
+! # of POVs
+!% of Total POVs (75)
+!Total Word Count (243,574)
+!% of Word Count
+|-
+| Quote
+| align="right" | 2
+| align="right" | 2.6667%
+| align="right" | 176
+| align="right" | 0.0723%
+|-
+| [[Pedron Niall]]
+| align="right" | 1
+| align="right" | 1.3333%
+| align="right" | 5,530
+| align="right" | 2.2704%
+|-
+| [[Jaichim Carridin]]
+| align="right" | 1
+| align="right" | 1.3333%
+| align="right" | 1,220
+| align="right" | 0.5009%
+|-
+| [[Perrin Aybara]]
+| align="right" | 21
+| align="right" | 28.0000%
+| align="right" | 76,480
+| align="right" | 31.3991%
+|-
+| [[Rand al'Thor]]
+| align="right" | 6
+| align="right" | 8.0000%
+| align="right" | 5,833
+| align="right" | 2.3948%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 21
+| align="right" | 28.0000%
+| align="right" | 80,756
+| align="right" | 33.1546%
+|-
+| [[Siuan Sanche]]
+| align="right" | 1
+| align="right" | 1.3333%
+| align="right" | 2,088
+| align="right" | 0.8572%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 18
+| align="right" | 24.0000%
+| align="right" | 64,244
+| align="right" | 26.3756%
+|-
+| [[Verin Mathwin]]
+| align="right" | 1
+| align="right" | 1.3333%
+| align="right" | 221
+| align="right" | 0.0907%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 2
+| align="right" | 2.6667%
+| align="right" | 6,900
+| align="right" | 2.8328%
+|-
+| Narrator
+| align="right" | 1
+| align="right" | 1.3333%
+| align="right" | 126
+| align="right" | 0.0517%
+|-
+|}<noinclude>
+[[Category:Statistical analysis]]</noinclude>

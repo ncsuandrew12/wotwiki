@@ -1,0 +1,96 @@
+[[File:Weave.jpg|thumb|right|[[Moiraine]] practicing weaves.]]
+
+{{dablink|For other uses of the word "weave," see [[Weave (disambiguation)|Weave]].}}
+
+A '''weave''' is a combination of One Power flows manipulated by a channeler to elicit a specific effect.{{ref|{{twotc}}, weave the flows}} During the [[Age of Legends]] channelers refered to the concept as a Web.{{ref|{{twotc}}, Web}}
+
+There are five different flows that can be manipulated with the [[One Power]]: Air, Earth, Fire, Spirit, and Water; these are known as the [[Five Powers]]. Each of the Five Powers produces a different effect when woven. For example, weaving Fire on a candle wick ignites it, lighting the candle. More complex weaves require more than one flow to be used, but produce more spectacular results.
+
+Theoretically, weaves of the One Power are similar to textile weaves, and weaving ''[[Saidar]]'' has been compared to folding silk. Once a weave has been created, the [[channeler]] can "hold" it to keep the effect ongoing, or knot the flows, a process called "tying the weave off". A weave that has been tied off persists even after the channeler has released the [[True Source]] or left the area.
+
+A channeler of ''[[Saidin]]'' or ''Saidar'' is able to see the weaves created using the same half of the Power, but not the other. For this reason, a man cannot teach a woman how to create a weave and vice versa. Although a channeler can intuitively create a weave (such as when Rand wove [[Balefire]] for the first time), most channelers learn by watching others create the weave. Once it has been created, they then practice creating it themselves until they can recreate it by memory. A channeler with the knowledge of how to [[inverting|invert]] their weaves can hide them from the sight of others.
+
+==Unweaving==
+[[File:Past weave.jpg|thumb|right|An [[Aes Sedai]] looking at the faint residue of a past weave.]]
+
+{{dablink|For the chapter by the same name, see ''[[The Path of Daggers/Chapter 2|Unweaving]]''.}}
+
+Typically when a channeler is finished with a weave he or she simple lets go of the threads involved and lets the weave either "wink out" or simply dissipate. If a channeler has the rare ability to see the residues of weaves then they can see how a weave was formed, a rough estimate of when it was woven, and where the weave started and ended (including [[Traveling]]), all after the weave disappears to the naked eye. Certain [[Shadowspawn]], most notably [[Myrddraal]] and ''[[gholam]]'', also seem to have a similar, if less effective, ability.
+
+If a channeler unweaves, or picks apart, the web of threads that he or she has created into a weave, they make the weave impossible to detect because of the way it is disassembled.
+
+The process of unweaving is described as pulling out the threads of the weave one at a time. Once the first thread of the weave has been removed the channeler either must continue or let the weave fall apart uncontrolled. As time passes the threads of the weave seem to feel "slippery" and hard to handle. The more complex the weave the more threads that must be "pulled out." [[Moridin]] said, while watching a gateway created by [[Aviendha]] being unwoven, that it looked like the weave was "melting," something which amazed him because even during the [[Second Age]] this was never done.{{Ref/book|8|2}}
+
+It is very dangerous to unweave anything because if done incorrectly anything from a small flash of light, to a large explosion, to [[burning out]] everybody within a certain distance can happen. The effect and degree of a failed unweaving is completely random, although a very small weave is generally safe, which is why it cannot be relied upon as a weapon. This is also why whenever an [[Aes Sedai]] even hears the mentioning of unweaving they usually react with abrupt horror.
+
+According to the [[Wise One]]s anyone can learn how to unweave with practice. [[Aviendha]] told how when she learned to unweave it took her over fifty tries to successfully unweave a simple flow of air, many of which would make a flash of light in her face or a loud bang. It also seems that the channeler does not need to be physically close to hold onto a thread, as demonstrated by [[Elayne]] when she unsuccessfully unwove her gateway while running away.{{Ref/book|8|6}}
+
+==Standing flows==
+Standing flows were a series of weaves from the [[Age of Legends]] that apparently allowed non-[[channeler]]s to utilize most ''[[ter'angreal]]''.{{ref/book|10|21}}
+
+==List of known weaves==
+*[[Aligning the Matrix]]
+*[[Arrows of Fire]]
+*[[Balefire]]
+*[[Bonding]]
+*[[Calling Lightning]]
+*[[Caressing the Child]]
+*[[Cloud Dancing]] 
+*[[Compulsion]]
+*Channeling [[Disguise]] - Weave to mask the ability of a man or women to channel
+*[[Cutting weaves]]
+*[[Deathgates]]
+*[[Delving]]
+*[[Eavesdropping]]
+*[[Finder]]
+*[[Fire ball]]
+*[[Fire Blossom]]
+*[[Flame of Tar Valon]]
+*[[Folded Light]]
+*[[Hardened Air]]
+*[[Healing]]
+*[[Heating]]
+*[[Heating a liquid]]
+*[[Heating the air]]
+*[[Illusion]]
+*[[Insects control]]
+*[[Inverting]]- Not so much a weave as a variation that one can do to a weave.
+*[[Keeping]]
+*[[Leveling the ground]]
+*[[Liquids manipulation]]
+*[[Making a Bridge]]
+*[[Making Fog]]
+*[[Making Ice]]
+*[[Making Light]]
+*[[Masking the Power]]
+*[[Milking Tears]] - no description is given{{ref/book|6|39}}
+*[[Mirror of Mists]]
+*[[Night's Shade]]
+*[[Protective Cocoon]]
+*[[Protective Whirlwind]]
+*[[Refresh]]
+*[[Riven Earth]]
+*[[Sound amplification]]
+*[[Severing]]
+*[[Shielding]]
+*[[Shield of Air]]
+*[[Skimming]]
+*[[Spinning Earthfire]] - no description is given{{ref/book|6|39}}
+*[[Spying a conversation]]
+*[[Spying Portal]]
+*[[Stunning]]
+*[[Traveling]]
+*[[Turning]]
+*[[Ward]]
+*[[Welding stones]]
+*[[Cloud Dancing|Weaving of Winds]]
+
+{{notes}}
+
+[[es:Tejido]]
+[[Category:One Power]]
+[[Category:Weaves]]<references />
+
+[[es:Tejido]]
+[[Category:One Power]]
+[[Category:Weaves]]

@@ -1,0 +1,7 @@
+{{Image | License = GFDL
+| ImageType1 = Fan Art
+| ImageType2 = Character
+| Description = [[Berelain sur Paendrag Paeron]] fan art done by John Seamas Gallagher
+| Source = http://seamassketches.blogspot.com/
+| Artist = John Seamas Gallagher 
+}}

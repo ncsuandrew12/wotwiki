@@ -1,0 +1,4 @@
+''[[A Crown of Swords]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[A Crown of Swords/Prologue|Prologue]]|g|glossary=[[A Crown of Swords/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[A Crown of Swords/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|Crown of Swords]]
+</noinclude>

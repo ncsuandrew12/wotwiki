@@ -1,0 +1,34 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Alive
+| nationality=Aiel
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Far Dareis Mai
+| occupation=Gai'shain
+| affiliation=Melaine
+| gender=Female
+| eyes=Blue, deep
+| appeared={{tfoh|5}}
+| lastappeared={{loc|33}}
+| living=loc
+}}
+'''Cowinde''' is an [[Aiel]] ''[[gai'shain]]'' held by [[Melaine]].{{ref/book|5|5}} Before being taken ''gai'shain'', she was a ''[[Far Dareis Mai]]''. She refused to resume her rightful place in Aiel society after her year and a day in the white of ''gai'shain'' had completed.
+
+==Appearance==
+Cowinde has deep blue eyes.{{ref/book|5|5}}
+
+==Activities==
+Cowinde was the ''gai'shain'' often sent by Melaine and the [[Wise One]]s to fetch [[Egwene al'Vere]] when she was an apprentice to the Aiel women.{{ref/book|5|5}}{{ref/book|5|7}} Cowinde once served Egwene supper, but found her asleep and alerted the Wise Ones.{{ref/book|5|24}} In an effort to shame Cowinde into putting off the white, Melaine sends her to do useless work, much the same as a ''[[da'tsang]]''.{{ref/book|6|15}} Cowinde, along with [[Doilan]] and [[Rodera]], served breakfast in [[Amys]]' tent to the Wise Ones.{{ref/book|6|25}} Before Egwene departs for [[Salidar]], she gives Cowinde a note to take to [[Gawyn Trakand]] at [[The Long Man]], an inn in [[Cairhien (city)|Cairhien]].{{ref/book|6|33}}
+
+==Parallels==
+* Her name could come from ''[[wikipedia:Govinda|Govinda]]'', an epithet for Vishnu meaning "white cow", sometimes reconstructed as a Proto-Indo-European goddess, Gʷouwindā.{{ref|{{Cite/web
+| url = https://www.ceisiwrserith.com/pier/deities.htm#12
+| title = Proto-Indo-European Deities
+| accessdate = {{Date|2026 Feb 9}}
+| author = Ceisiwr Serith
+| date = {{Date|2024 Feb 6}}
+}}}}
+
+{{notes}}

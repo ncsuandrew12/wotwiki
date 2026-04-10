@@ -1,0 +1,38 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=jac alseen
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| build=Stocky
+| hair=Balding, gray
+| status=Alive
+| appeared= {{tsr|32}}
+| lastappeared={{tsr|56}}
+| living=tsr
+}}
+{{dablink|For the [[Murandian]] solder, see [[Jac Wynn]]. For the similarly named [[Taraboner]], see [[Jaq Lounalt]]. For others with the same surname, see [[al'Seen]].}}
+'''Jac al'Seen''' is a farmer from the [[Two Rivers]].
+
+== Appearance ==
+He is stocky and square-shouldered, with less hair than [[Brandelwyn al'Vere]]. What hair he does have is gray. He is almost the twin of his cousin Wit.{{ref/book|4|32}}
+
+== History ==
+The al'Seen farm is as large as farms go in the Two Rivers, with three tall barns and five [[tabac]] curing sheds.{{ref/book|4|32}}
+
+He is married to [[Elisa al'Seen]].{{ref|{{twotc}}, Jac al'Seen}} 
+
+His son is [[Ban al'Seen|Ban]] and his cousin is [[Wit al'Seen|Wit]]. He is part of the larger [[al'Seen]] clan.
+
+
+== Activities ==
+When Trollocs appeared in the Two Rivers, he provided safety for many of his neighbours at his large farm, including the families of his cousin Wit and of [[Flann Lewin]] and [[Natley Lewin]]. [[Tamlin al'Thor|Tam al'Thor]] says he is a good man.{{ref/book|4|32}} 
+
+When [[Perrin Aybara]] and his group visit their farm, Jac greets them. He tells Perrin that the Whitecloaks have been naming him a [[Darkfriend]], which they do not believe but want to know why they would accuse him of such a thing. He accepts the story Perrin gives.{{ref/book|4|32}} 
+
+After listening to Lord [[Luc]]'s advice, Jac and his family take Perrin's advice instead, which is to go to [[Emond's Field]].{{ref/book|4|33}} Jac helps defend [[Emond's Field]] against the invading [[Trolloc]] army.{{ref/book|4|56}}
+
+{{notes}}
+{{DEFAULTSORT:Al'Seen, Jac}}<!--Please leave the "a" capitalized for sorting purposes.-->
+[[Category:Farmers]]

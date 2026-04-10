@@ -1,0 +1,27 @@
+{{character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Unknown nationality
+| occupation=Warder
+| title=Gaidin
+| gender=Male
+| build=
+| height=
+| affiliation=
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+| ewot=
+| status=
+|birth =
+}}
+'''Gable''' is [[Warder]] to [[Nadira]].
+== History ==
+Gable accompanies Nadira to the village of [[Aturo's Orchard]] on the border between [[Almoth Plain]] and [[Toman Head]] after she grows worried when [[Megda]] and [[Maynard]] do not return from the region when investigating claims of women who can use the [[One Power]] to harm others.
+
+Gable later accompanied Nadira to [[Tanchico]] when she went to investigate the activities of [[Belyne]] Sedai.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]

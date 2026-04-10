@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = [[Aeldra Najaf]].
+| Source             = ''[[New Spring 4]]''
+| Artist             = Mike S. Miller
+}}

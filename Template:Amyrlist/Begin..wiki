@@ -1,0 +1,8 @@
+<includeonly>{| class="article-table sortable" 
+|+
+! data-sort-type="text" |Name
+! data-sort-type="number" |Raised
+! data-sort-type="number" |End
+! data-sort-type="number" |Power</includeonly><noinclude>{{Documentation}}
+[[Category:Templates]]
+[[Category:Amyrlin List Templates]]</noinclude>

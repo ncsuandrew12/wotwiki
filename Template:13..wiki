@@ -1,0 +1,4 @@
+''[[Towers of Midnight]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[Towers of Midnight/Prologue|Prologue]]|e|ep|epilogue=[[Towers of Midnight/Epilogue|Epilogue]]|g|glossary=[[Towers of Midnight/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[Towers of Midnight/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|Towers of Midnight]]
+</noinclude>

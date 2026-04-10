@@ -1,0 +1,24 @@
+The '''Emond's Field Five''' is a real-world term that refers collectively to:{{ref|{{Cite/web
+| url = https://www.reddit.com/r/Fantasy/comments/448iju/comment/czofyra/
+| title = Reddit comment on ''Question for readers: How many POVs can you handle in your epic fantasy before your eyeballs bleed?''
+| accessdate = {{Date|2025-10-8}}
+| author = u/Sterodactyl
+| authorlink = https://www.reddit.com/user/Sterodactyl/
+| date = {{Date|2016-2-5}}
+| format = forum comment
+| publisher = Reddit
+| language = English
+| archiveurl = 
+| archivedate = 
+| quote = I ended up giving short shrift to any POV that wasn't the Emond's Field five + the dragon's lovers.
+}}}}<!-- Feel free to replace this with an older reference. -->
+
+# [[al'Thor, Rand]]
+# [[al'Meara, Nynaeve]]
+# [[al'Vere, Egwene]]
+# [[Aybara, Perrin]]
+# [[Cauthon, Mat]]
+
+{{notes}}
+[[Category:List pages]]
+[[Category:Real-world content]]

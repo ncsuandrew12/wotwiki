@@ -1,0 +1,6 @@
+Per [[Peter Ahlstrom]], we CANNOT mirror Brandon's blog posts on this wiki, as it violates copyright. I will be removing the pages here and someone can create an indexed list of links instead. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:34, September 28, 2012 (UTC)
+: But see also [[Wotwiki talk:Copyrights]] if we can find some other way. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 17:26, September 28, 2012 (UTC)
+
+== Links not working ==
+
+I checked a random link to the blog and it doesn't seem to be hosted by the website any more. Not sure if this is a general problem or not. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]])

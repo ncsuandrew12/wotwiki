@@ -1,0 +1,48 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=Berisha
+| ajah=Gray
+| nationality= Arafellin
+| gender=Female
+| eyes=Hard
+| rank=Aes Sedai
+| height=Short
+| build= Lean
+| status=Dead
+| affiliation=White Tower
+| appeared={{acos|p}}
+| lastappeared={{amol|33}}
+|death = {{ne|1000}}}}
+'''Berisha Terakuni''' was an [[Aes Sedai]] of the [[Gray Ajah]]. 
+
+==Appearance==
+She had hard eyes and a narrow face. She was lean and the same height as [[Egwene al'Vere]]. She spoke with a strong Arafellin accent.
+
+==Strength and Abilities==
+We have no precise description of Berisha's strength in the [[One Power]] from the Companion, although her ability to open a [[gateway]] large enough for a cart with passenger to pass through indicates she is at least a strength of {{opsl|27}}. She also seems to offer resistance to [[Katerine Alruddin]], which she would not be able to do if she were much weaker. Since Katerine has a strength of {{opsl|21}}, Berisha can be guessed to have a level between {{opsl|22}} and {{opsl|20}}, making her considerably above average among Aes Sedai.
+
+==History==
+She was from [[Arafel]]. She stood high in the Aes Sedai hierarchy.
+
+She had a reputation for the strictest, and often harshest, interpretation of the law. She adhered to the letter of the law, with no sense of mercy.
+
+==Activities==
+She curtsied to [[Alviarin Freidhen|Alviarin]] when Alviarin was Keeper, to help gain some protection against [[Elaida do Avriny a'Roihan|Elaida]]. She hated currying favor, though.
+
+Berisha was one of the Aes Sedai involved in capturing Egwene at [[Tar Valon#Southharbor|Southharbor]] and bringing her to the [[White Tower]], along with [[Barasine]], Katerine, [[Felaana Bevaine]], [[Merym]], and [[Jala Bandevin]].
+
+She said that Egwene's judgement would require the use of a [[High Court]], with the [[Hall of the Tower|Hall]] sitting to deliberate on the verdict. Katerine suggested that Berisha might be called on to act as the [[Chair of Pardon]]. This role is one that Berisha certainly didn't relish, especially since the Chair sometimes shared the same fate as her defendant.
+
+She chastised Katerine for scaring [[Nicola Treehill]] by saying that [[novices]] should be guided and not bludgeoned.
+
+Katerine and Barasine made implied threats towards Berisha and Berisha left Egwene in their custody. Egwene thought that no woman who gave into fear so easily could ever have obtained the shawl and that something must have been very wrong.
+
+During the initial days of the [[Last Battle]], Egwene, as the new [[Amyrlin Seat]], had [[Faile Bashere|Faile]] go to the Tower and recover the [[Horn of Valere]]. Berisha was ready to open a gateway for her, transporting the Horn hidden among other goods in a cart to the [[Field of Merrilor]]. In that moment the convoy was surprised by a [[bubble of evil]] which hurt Berisha in the foot, this might have caused the gateway to open wrongly, leading the group into the [[Great Blight|Blight]] instead. Shortly afterwards, Berisha was stabbed to death by [[Aravine Carnel]], a [[Darkfriend]] who wanted to erase any sign of Faile and her expedition.
+
+{{DEFAULTSORT:Terakuni, Berisha}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Living as of AMOL]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,4 @@
+'''Scholars''' are those who study and research for the benefit of mankind.
+
+[[Category:Occupations| Scholars]]
+[[Category:Sort option categories]]

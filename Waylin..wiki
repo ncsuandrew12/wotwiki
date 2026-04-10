@@ -1,0 +1,27 @@
+{{ character
+| image=Waylin.jpg
+| imagesize=250px
+| nationality= Unknown nationality
+| title=Gaidin
+| gender=Male
+| build=Broad-shouldered
+| status=Alive
+| occupation=Warder
+| affiliation=White Tower
+| appeared={{ns|7}}
+| lastappeared={{ns|7}}
+| living=ns
+}}
+{{dablink|For the similarly named [[Malkier]]i merchant, see [[Weilin Aldragoran]]. For the similarly named [[Asha'man]], see [[Welyn Kajima]].}}
+
+'''Waylin''' (pronounced: WAY-lihn) is one of [[Rina Hafden|Rina Hafden's]] [[warder]]s.{{ref|{{twotc}}, Waylin}}{{ref|{{twotc}}, Rina Hafden}}
+
+==Appearance==
+He is broad-shouldered and clean-shaven.
+
+== Activities ==
+He is observed by [[Moiraine Damodred]] who walks through the [[Green Ajah]] quarters, sparring with Rina's other Warder, [[Elyas Machera]], who later ran off as he discovered he was a [[Wolfbrother]]. They are cheered by Rina, who stands next to them.{{Ref/book|0|7}}
+
+{{notes}}
+{{short}}
+[[Category:Elaida a'Roihan's White Tower]]

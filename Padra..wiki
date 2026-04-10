@@ -1,0 +1,41 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Foreseen
+| nationality=Aiel
+| society=Far Dareis Mai
+| title=Child of the Dragon
+| gender=Female
+| appeared={{tom|49}}
+| lastappeared={{tom|49}}
+}}
+'''Padra''' is the daughter of [[Rand al'Thor]] and [[Aviendha]] as seen through the visions of Aviendha's second trip through the [[Glass columns]]. Aviendha experiences possible future events through the eyes of Padra and her descendants.
+
+== Ancestry and potential descent of Padra ==
+[[Aviendha]] and [[Rand al'Thor|Rand]] ↠ '''Padra''' ↠ [[Oncala]] ↠ [[Ladalin]] ↠ ? ↠ ? ↠ [[Rowahn]] ↠ [[Tava]] ↠ ? ↠ [[Norlesh]] ↠ ? ↠ [[Malidra]]
+==History==
+Born as one of four quadruplets, Padra has two full-blooded brothers, [[Alarch]] and [[Janduin (son)|Janduin]], and a full blooded sister [[Marinna]]. She also has another older half-brother and sister by one of her father's other wives, also her mother's first-sister, [[Elayne Trakand]]. Her half-niece, [[Talana]], is the [[Queen of Andor]].
+
+Padra and her full-blooded siblings exhibit exceptional strength in the [[One Power]], having been able to channel since they were children, and hold the Power perpetually, even when sleeping.
+
+==Activities==
+As children of the Dragon, Padra and her siblings are given special privileges. Padra is allowed to channel even though she is a [[Maiden of the Spear]] and not a [[Wise One]]. Padra and her siblings were part of the council of chiefs who decided to go to war with the [[Seanchan]], eventually leading to the destruction of the Aiel people.{{ref/book|13|49}} After the meeting Padra talks with [[Ronam]] and thinks he might be someone to give up the spear for, if she were to ever take that path.
+
+== Trivia ==
+* Padra is named for Tricia Erikson, a fan of ''The Wheel of Time'' whose screen name was Padra.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Channelers]]
+[[Category:Short pages]]<references />
+[[Category:Channelers]]
+[[Category:Short pages]]
+<references />
+[[Category:Channelers]]
+[[Category:Short pages]]
+<references />
+[[Category:Channelers]]
+[[Category:Short pages]]
+<references />
+[[Category:Channelers]]
+[[Category:Short pages]]
+[[Category:Characters named after fans]]

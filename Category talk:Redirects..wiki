@@ -1,0 +1,199 @@
+'''''Note:''' I'm aware that this category looks empty currently even though it's not, but it may become useful in MediaWiki 1.5. '''Related changes''' does work already, however.'' [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 18:22, 24 Oct 2005 (UTC)
+
+== A call for comment ==
+
+Okay, the category is no longer that empty. :) That being said, I believe that now it is too full. To that end, I will in the coming days, be listing the redirects that I think should be deleted. This will probably be a lengthy process. More to come as it develops. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:46, January 7, 2010 (UTC)
+:Good idea. I will give you any help you need. Also maybe we could split it up into sub categories like "Day Redirects" for the 365 days. "Character short name redirects" for shorter names of characters or something like that.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 23:32, January 7, 2010 (UTC)
+That was my thought as well. I'm going through and looking at those now. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:59, January 8, 2010 (UTC)
+
+== Proposal for deletion - Round One ==
+
+Okay. I've gone through and I have a list of those redirects that I believe can be deleted outright. First, let me say I do not mean any disrespect to those who have created some of these. This list is just my opinion.
+
+Second, below is a list of general reasons and a table of my proposals. 
+*For those whose reason says "Qualifier unneeded," it means that the qualifier (stuff in parentheses at the end) serves no purpose.
+*For those whose reason says "Spelling," it means that the spelling of the redirect is different than that of the main article. In my most humble opinion, I believe that users should spell things correctly and not rely on redirects. Contrary to that point, I have left some of those kinds of redirects alone (i.e. ''Tel'aran'rhiod'', ''Rhuidean'' and others) where the spelling of the main article name is difficult enough.
+*For those whose reason says "Punctuation," it means that either the redirect is missing punctuation or has unnecessary punctuation.
+*For those whose reason says "Capitalization", it means that the redirect has the wrong capitalization and, again, in my most humble opinion, users should also use correct capitalization.
+
+All the others should be self-explanatory. Please let me know if something needs explaining.
+
+Thirdly, there is a column marked "VFD", which is for "Votes for Deletion". If you believe that the redirect should be deleted, add your signature (only three ~'s) to this column. Look for the empty pipe mark ("|"). My vote is implicit. Also below is a section for discussion. Enjoy!
+
+{| class="grey" || <span style="display:none"> || cellspacing="1" cellpadding="2"|
+|- bgcolor="#666666" valign="center" align="center"
+!Redirect name!!Reason!!What links here!!VFD
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Aran'gar_(Dueling_blades)&redirect=no Aran'gar (Dueling blades)]
+|Qualifier unneeded
+|[[Aran'gar (disambiguation)]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Aran'gar_(weapon)&redirect=no Aran'gar (weapon)]
+|Qualifier unneeded
+|[[Talk:Aran'gar]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Co’dansin&redirect=no Co’dansin]
+|Curly apostrophe
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Karaethon_Cycle/Talk&redirect=no Karaethon Cycle/Talk]
+|Improper talk space
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Knife_of_Dreams/Chapter_Prologue&redirect=no Knife of Dreams/Chapter Prologue]
+|Improper name
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=List_of_Two_Rivers_residents&redirect=no List of Two Rivers residents]
+|Lists unneeded
+|[[User:DanceTheSpears]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=List_of_book_templates&redirect=no List of book templates]
+|Lists unneeded
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=List_of_spoiler_tags&redirect=no List of spoiler tags]
+|Lists unneeded
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=List_of_stedding&redirect=no List of stedding]
+|Lists unneeded
+|[[User:DanceTheSpears]]
+| 
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=New_Spring/Chapter_Epilogue&redirect=no New Spring/Chapter Epilogue]
+|Improper name
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Osan'gar_(Aginor)&redirect=no Osan'gar (Aginor)]
+|Qualifier unneeded
+|[[Osan'gar (disambiguation)]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Osan'gar_(Dueling_blades)&redirect=no Osan'gar (Dueling blades)]
+|Qualifier unneeded
+|[[Osan'gar (disambiguation)]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=SUNDAY&redirect=no SUNDAY]
+|Capitalization
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]] <!-- I already fixed these because that's just ridiculous -->
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Sedrin_(entertainer)&redirect=no Sedrin (entertainer)]
+|Qualifier unneeded
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Soldier(Asha'man)&redirect=no Soldier(Asha'man)]
+|Space
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Sunday(day)&redirect=no Sunday(day)]
+|Space
+|[[Template:OTD]], [[Amadaine]], All of Amadaine days, [[June 21]] (redirect page), [[Talk:Choren]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=TEotW_Prologue&redirect=no TEotW Prologue]
+|Template does this now
+|[[Wotwiki talk:Chapter summaries/Archive]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Tarmon_Gai'don_(book)&redirect=no Tarmon Gai'don (book)]
+|Included in [[A Memory of Light]] history
+|[[User talk:79.70.196.57]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=The_Eye_of_the_World/Chapter_Prologue&redirect=no The Eye of the World/Chapter Prologue]
+|Improper name
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=The_Eye_of_the_World/Chapter_Ravens&redirect=no The Eye of the World/Chapter Ravens]
+|Improper name
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=The_Eye_of_the_World/Chapter_prologue&redirect=no The Eye of the World/Chapter prologue]
+|Improper name
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=The_Gathering_Clouds&redirect=no The Gathering Clouds]
+|Include in [[The Gathering Storm]] history
+|The Gathering Storm (blurb)
+| 
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=The_Great_Hunt/Chapter_Prologue&redirect=no The Great Hunt/Chapter Prologue]
+|Improper name
+|NONE
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=The_Shifting_Winds&redirect=no The Shifting Winds]
+|Include in [[Towers of Midnight]]
+|NONE
+| 
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Unknown&redirect=no Unknown]
+|Now [[:Category:Unknown nationality]]
+|[[Kennit]], [[Natasia]], [[Miesa]], [[Serafelle]], [[Asidim Faisar]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Valan_Luca's_Traveling_Club&redirect=no Valan Luca's Traveling Club]
+|Club =/ Show
+|[[Bari]], [[Kin (entertainer)]]
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|- bgcolor="#cccccc" valign="top"
+|[http://wot.wikia.com/index.php?title=Who_killed_Asmodean_?&redirect=no Who killed Asmodean ?]
+|Space
+|[[Narg]], Five anon talk pages
+| [[User:Ninjatacoshell|Ninjatacoshell]]
+|-
+|}
+
+
+===Discussion for Round One===
+And, go.
+
+:Alright so I've gone through part of it and marked the ones I think should be deleted. The ones I think we should keep are even though some pages aren't actually used it is also good to leave the redirect so for when people search it will use the redirect. Like with arangar someone might just forget the ' but still should be sent directly to the page. Also other names for things such as D'jevik K'Shar.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 06:19, January 9, 2010 (UTC)
+::Would it be possible to write a script that would ignore capitalization when searching? If so, then I would fully support deleting capitalization redirects. Otherwise, the way a given page is capitalized is sometimes non-intuitive to the casual reader, so we should leave the redirects to facilitate searching. Proper capitalization should be used in article links, though. As for redirecting titles, I'm of two minds. If RJ commonly refers to them by their title, then the title redirect should be kept. If he doesn't, toss 'em. I'm with OPTIMOUS that spellings which drop the ' should be kept as redirects. For the most part I think that most of the spelling redirects are unusual enough that they don't merit existence. The one major exception is "Grey Ajah", given that non-American users might unthinkingly type in the variant spelling. [[User:Ninjatacoshell|Ninjatacoshell]] 01:08, January 11, 2010 (UTC)
+So I did some experiments. Searching for any lower case term brings you to the page you want. The terms I used were both regular names as well as those with punctuation in them (i.e. al'Meara, only lower case). The search function seems to ignore capitalization, at least when the full name is used (i.e. "matrim cauthon" goes to "Matrim Cauthon" without the use of a redirect, however "mat cauthon" goes to "Mat Cauthon" without a redirect and is then redirected to "Matrim Cauthon"). So those could be deleted. For the titles and the spellings that drop punctuation, I concede the point. I looked at a couple other wikis and saw that title redirects are fairly common. More to come on some of these others. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:57, January 11, 2010 (UTC)
+
+===Update for Round One===
+I have removed a lot of the redirects from the table above. Those that I have removed fit into some of the new sub-categories that I have created. The remaining redirects I still believe could be deleted. I have left the votes in the "VFD" column. Any more feedback would be appriciated. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:41, January 20, 2010 (UTC)
+
+== Multiple Categories ==
+
+Just a question for the discussion of all. Some of the redirects are also included in other categories. Should these categories be removed or should they stay. I would lean towards remove. I will be gathering a list here shortly. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:09, January 12, 2010 (UTC)
+
+== Sub-category Discussion ==
+
+I went ahead and did the intuitively obvious ones (i.e. [[:Category:Administrative redirects|Administrative]], [[:Category:Book redirects|Book]] and [[:Category:Date redirects|Date]]. [[:Category:Chapter redirects|Chapters]] was created by [[User:Ninjatacoshell]] (yay!)). I would like to have some feedback on the next round of those to be created. My eventual goal is to have all redirects under a sub-category instead of this category. Here is what I was thinking:
+*<s>'''Grammar redirects:''' alternate spelling, missing or different punctuation, ect.</s>
+*<s>'''Naming redirects''': short names (i.e. Elaida, Rand, Nynaeve), as well as titled redirects (i.e. Adeleas Sedai, King Paitr, ect).</s>
+*<s>'''Plural redirects''': self-explanitory, ''maybe include in '''Grammar redirects.'''''</s> Will include in Grammar redirects
+*<s>'''Alias redirects''': I believe that there are enough of these to warrant their own category.  To include: Moiraine and Lan's aliases (Alys and Andra), all of the Forsakens' real names and assumed identities, ''[[:Category:Damane|damane]]'' names, differing names (i.e. Artur Hawkwing), ect. </s>
+*<s>'''Category redirects''': Again, I believe that there are enough of these. These would include those terms that are redirected to a category (i.e. Clan Chief, Channeler, as well as the "Unknown" category redirects.</s>
+*<s>'''Geo-political redirects''': Maybe a better name could be thought of for that one. To include: all of the river redirects, nationality redirects (i.e. Andoran => Andor), ect.</s>
+*<s>'''Inclusion redirects''': This one is kind of an all-inclusive one. Terms that have been included in other pages (i.e. Accepted Testing in [[Accepted]]), terms that have been merged into one page (i.e. Aelfinn and Eelfinn in [[Finn]]), all of the Aiel terms (i.e. first-sisters, the warrior societies, ect). UPDATE: I have change the name to '''Inclusion redirects'''. Same parameters as before, but without the differing names. Those got put into Alias redirects.</s>
+*<s>'''Old Tongue redirects''': self-explanitory</s>
+*<s>'''Real-world redirects''': web-sites, authors, ect.</s>
+These categories probably won't cover all of the redirects in this category, but it is a start. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:06, January 12, 2010 (UTC)
+
+I'm going to start the Naming redirects. Any feedback on the rest would be appriciated. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:04, January 14, 2010 (UTC)
+
+UPDATE: Going to start Geo-political and Inclusion redirects. I'll see what is left after that and maybe creat a "Misc" redirect for everything else. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:19, January 20, 2010 (UTC)
+
+== Some clean-up ==
+
+Those redirects with two votes, mine not included, will probably be deleted in the next couple of days. Any objections should be noted under this section header. Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 03:04, February 24, 2010 (UTC)

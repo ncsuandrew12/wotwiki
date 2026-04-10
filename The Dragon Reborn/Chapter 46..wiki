@@ -1,0 +1,53 @@
+{{quote| That bloody garden wall again. It should be built three times so high.| [[Martyn Tallanvor]] upon encountering [[Mat]] in the palace}}
+{{dablink|For other chapters that have "message" in the title, see [[Message]]. For other uses of the word "shadow," see [[Shadow (disambiguation)|Shadow]].}}
+{{summary | book=3 |
+|chapter=46
+|title=A Message Out of the Shadow
+|icon=Andoran
+|setting=[[Caemlyn]]
+}}
+
+==Summary==
+: {{pov|[[Matrim Cauthon]]}} 
+
+[[Mat Cauthon|Mat]] decides to try again to get into the palace and to deliver the letter from [[Elayne]] to [[Morgase]]. He climbs up the wall that [[Rand]] used when he first met Elayne.{{ref/book|1|39}} Mat drops down into the palace gardens, where he avoids the guards. Mat hears a man with a commanding voice talking about plots. The man tells [[Comar]] to go to [[Tear (city)|Tear]] and quietly kill Elayne and also kill the other two which Mat realizes must be [[Egwene]] and [[Nynaeve]]. Mat wonders again what the three women are up to, going to Tear. Mat peeks through the window and sees a man muttering to himself, which must be Comar.
+
+[[Tallanvor]] sees Mat and almost draws his blade. Mat manages to tell him he has a letter from Elayne, showing the seal. Tallanvor wants to deliver the letter but Mat tells him he promised to deliver the letter to Morgase himself. On the way to Morgase, Mat ponders on what his reward will be when he tells Morgase of the plot against her daughter. When Mat gives the letter to Morgase, [[Gaebril]] ask to see the letter. Mat realizes Gaebril is the voice he heard ordering Comar to kill Elayne so he can't reveal the plot. Gaebril reads that Elayne is out of the [[White Tower|Tower]] again on a service for the [[Amyrlin Seat]] and questions Mat about it. Mat claims to be Thom Grinwell and says he knows nothing about it, as he was only visiting his sister [[Else Grinwell|Else]]. Gaebril considers putting Mat to the question, but Morgase disagrees and Gaebril lets it go. Morgase tells Mat to tell Elayne that she will not remove Elayne from the Tower prematurely after all as she had previously decided that in anger. Mat acknowledges this but doubts he will see Elayne again as he will not return to [[Tar Valon]]. Gaebril accepts Mat's tale and dismisses him with ten gold marks{{ref|Why doesn't Gaebril recognize Mat as one of the three ''ta'veren''?}}. Gaebril then starts talking to Morgase about claiming the [[Sun Throne]] of [[Cairhien]] and Tallanvor leads Mat away.
+
+== Characters==
+*[[Mat]]
+* [[Rahvin]] - as ''[[Gaebril]]''
+*[[Comar]]
+* [[Morgase]]
+*[[Tallanvor]]
+
+===Referenced===
+*[[Rand]]
+*[[Perrin]]
+*[[Tam]]
+*[[Elayne]]
+*[[Egwene]]
+* [[Nynaeve]]
+*[[Elber]]
+*[[Siuan]] - as ''Amyrlin''
+*[[Galad]]
+*[[Else Grinwell]]
+* [[Sheriam]]
+*[[Taringail Damodred]]
+
+==Places==
+*[[Caemlyn]]
+
+===Referenced===
+*[[Sand Hills]]
+*[[Mountains of Mist]]
+*[[Emond's Field]]
+*[[Tear]]
+*[[Aringill]]
+*[[Tar Valon]]
+*[[Andor]]
+* [[Comfrey]]
+*[[Baerlon]]
+
+{{notes}}
+{{DISPLAYTITLE:''A Message Out of the Shadow''}}

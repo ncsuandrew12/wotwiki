@@ -1,0 +1,9 @@
+{{swordform 
+| mentioned={{2|19}}
+| used=[[Rand al'Thor]], [[Gawyn Trakand]]
+}}
+'''The Courtier Taps His Fan''' is a [[sword form]]. Nothing is known about the movements of the form. [[Rand al'Thor]] once used this form to cut down a [[Trolloc]] and protect [[Loial]] after stealing back the [[Horn of Valere]] from [[Padan Fain]].{{ref/book|2|19}} [[Gawyn Trakand]] flowed through this form while fighting against an unnamed Aiel after the [[Battle of Dumai's Wells]].{{ref/book|7|p}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Courtier Taps His Fan, The}}

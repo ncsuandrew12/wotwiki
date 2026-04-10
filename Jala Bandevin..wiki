@@ -1,0 +1,41 @@
+{{ character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| status=Alive
+| height=Very short
+| hair=Gray
+| appeared={{ns|7}}
+| lastappeared={{kod|p}}
+| living=kod
+}}'''Jala Bandevin''' is an [[Aes Sedai]] of the [[Green Ajah]].{{ref|{{twotc}}, Jala Bandevin|comp}}
+
+==Appearance and Personality==
+She is around five feet tall.{{ref||comp}} Moiraine, at 5'2" (157 cm), is "nearly a hand taller".{{ref/book|0|7}} 
+
+Despite her stature, she is imposing.{{ref/book|0|7}}
+
+The ending of her surname suggests a [[Cairhienin]] origin.
+
+==History==
+Due to her already having gray hair at the time of the Aiel War, she likely to have been born before {{ne|780}}.
+
+At this time, she had two [[Warders]], one was a round-faced man playing a stately melody on a flute, the other a pale-haired young man no more than twenty. It is unknown if those Warders are still alive by {{ne|998}}.
+
+==Activities==
+She is seen by [[Moiraine Damodred]] while she was an [[Accepted]], teaching her new Warder how to court dance.{{ref/book|0|7}}
+
+She remained loyal to the [[White Tower]] during the split.
+
+Jala was one of the Aes Sedai involved in capturing Egwene at [[Tar Valon#Southharbor|Southharbor]], along with [[Barasine]], [[Merym]], [[Berisha Terakuni]], and [[Felaana Bevaine]]. Jala and Merym galloped back to the Tower when they discovered who they have caught.{{ref/book|11|p}}
+
+{{notes}}
+{{DEFAULTSORT:Bandevin, Jala}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

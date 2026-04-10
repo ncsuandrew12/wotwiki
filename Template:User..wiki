@@ -1,0 +1,1 @@
+[[User:{{{1}}}|{{{1}}}]] <i><sub>[[User_talk:{{{1}}}|(talk)]] [[Special:Contributions/{{{1}}}|(contribs)]] </sub></i><noinclude>[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

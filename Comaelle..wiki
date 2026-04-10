@@ -1,0 +1,20 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Comaelle
+| status=Dead
+| nationality=Jaramide
+| rank=Queen
+| title=High Queen of Jaramide
+| gender=Female
+| mentioned={{TSR|1}}
+| lastmentioned={{TSR|1}}
+}}
+'''Comaelle''' was a High Queen of [[Jaramide]].
+
+== History ==
+Comaelle reigned around {{ab|325}}. Her Counsel-Sister was [[Sereine dar Shamelle Motara]], who wrote ''Commentaries on the [[Karaethon Cycle]]'' during the reign of High Queen Comaelle.{{ref/book|4|1}}
+
+{{notes}}
+
+[[Category:Historical people]]

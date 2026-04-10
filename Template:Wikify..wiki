@@ -1,0 +1,6 @@
+<!--{{Wikify}} start--><div class="messagebox cleanup metadata plainlinks">
+{|style="width:100%; background-color: rgb(135,135,135,.25);"
+|'''This {{{1|article or section}}} may need to be [[:Category:Articles that need to be wikified|wikified]] to meet general wiki [[Wikipedia:Manual of Style|quality standards]].'''<br /><small>Please help [{{fullurl:{{FULLPAGENAME}}|action=edit}} improve this article], especially its [[Wikipedia:Guide to layout|section layout]], and [[Wikipedia:Only make links that are relevant to the context|relevant]] [[Wikipedia:Build the web|internal links]]. ([[Wikipedia:How to edit a page|help]]){{#if:{{{date|}}}|<br/>This article has been tagged since '''{{{date}}}'''.}}</small>
+|}</div><!--{{wikify}} end--><includeonly>
+[[Category:Articles that need to be wikified]]</includeonly><noinclude>
+[[Category:Templates]]</noinclude>

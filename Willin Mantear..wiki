@@ -1,0 +1,26 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| title=Lord
+| affiliation=House Trakand
+| status=Alive
+| mentioned={{cot|13}}
+| lastmentioned={{cot|13}}
+| living=cot
+| gender=Male
+}}Lord '''Willin Mantear''' is a noble from [[Andor]].{{ref|{{twotc}}, Willin Mantear}}
+
+== Activities ==
+Lord Willin Mantear was the tutor, mentor and guardian of his nephew [[Perival Mantear]], the [[High Seat]] of his noble House. He is elderly and he would have traveled to Caemlyn with Perival to support Elayne for the Lion Throne, but he could not as he is bedridden.
+
+When [[Dyelin Taravin]] was visiting House Mantear to gain support for Elayne, Willin told her to tell Elayne that he sends his good wishes, as well as one he considers a son. He tells Perival to uphold the honor of both Mantear and Andor
+
+Elayne thinks that Willin has done a good job with Perival, and that she must keep it from going to waste.
+
+== Identity ==
+It is possible that Willin is one of [[Mordrellen Mantear]]'s older brothers. By Andoran custom, females are usually given the position of High Seat, so after her death he may have become High Seat as Mordrellen had no female heirs and resigned due to ill health or it first passed to his daughter, Perival's mother, who would have been a child at the time of Morgase's Succession. {{notes}}
+[[Category:Short pages]]
+[[Category:Nobility]]<references />
+[[Category:Short pages]]
+[[Category:Nobility]]

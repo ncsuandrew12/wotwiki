@@ -1,0 +1,13 @@
+{{swordform
+| mentioned={{2|45}}
+| used=[[Rand al'Thor]] or [[Turak Aladon]], [[Gawyn Trakand]], [[Eamon Valda]]
+}}
+{{dablink|For other uses of the words "wood" and "dance," see [[Wood]] and [[Dance]].}}
+'''The Wood Grouse Dances''' is a [[sword form]]. Aside from the name, nothing is know about it.
+
+==In practice==
+In the duel between [[Rand al'Thor]] and [[Turak Aladon]] in [[Falme]], this form was used to meet [[Moon on the Water]].{{ref/book|2|45}} [[Gawyn Trakand]] used this form as he fought [[Aiel]] after the [[Battle of Dumai's Wells]].{{ref/book|7|p}} [[Eamon Valda]] used this form to cut a shallow gash on [[Galadedrid Damodred]]'s shoulder during thier [[Trial Beneath the Light]].{{ref/book|11|p}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Wood Grouse Dances, The}}

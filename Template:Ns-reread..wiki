@@ -1,0 +1,9 @@
+{|class="collapsible collapsed" width="100%" style="clear:both; margin:0 auto;" align=center id=toc
+|-
+!align=center style="background:#242424;" colspan=2| '''Leigh Butler's Re-read of ''[[New Spring]]'', featured on [http://www.tor.com Tor.com]'''
+|-
+|style="background:#424242;" |'''[http://www.tor.com/features/series/wot-reread Re-read listing]'''
+|[http://www.tor.com/blogs/2011/02/the-wheel-of-time-re-read-new-spring-part-1 Part 1] · [http://www.tor.com/blogs/2011/02/the-wheel-of-time-re-read-new-spring-part-2 Part 2] · [http://www.tor.com/blogs/2011/02/the-wheel-of-time-re-read-new-spring-part-3 Part 3] · [http://www.tor.com/blogs/2011/02/the-wheel-of-time-re-read-new-spring-part-4 Part 4] · [http://www.tor.com/blogs/2011/02/the-wheel-of-time-re-read-new-spring-part-5 Part 5] · [http://www.tor.com/blogs/2011/02/the-wheel-of-time-re-read-new-spring-part-6 Part 6] · [http://www.tor.com/blogs/2011/03/the-wheel-of-time-re-read-new-spring-part-7 Part 7] · [http://www.tor.com/blogs/2011/03/the-wheel-of-time-re-read-new-spring-part-8 Part 8] · [http://www.tor.com/blogs/2011/03/the-wheel-of-time-re-read-new-spring-part-9 Part 9] · [http://www.tor.com/blogs/2011/03/the-wheel-of-time-re-read-new-spring-part-10 Part 10] · [http://www.tor.com/blogs/2011/03/the-wheel-of-time-re-read-new-spring-part-11 Part 11] · [http://www.tor.com/blogs/2011/03/the-wheel-of-time-re-read-new-spring-part-12 Part 12] · [http://www.tor.com/blogs/2011/04/the-wheel-of-time-re-read-new-spring-part-13 Part 13]
+|-
+|}<noinclude>
+[[Category:Re-read templates|{{PAGENAME}}]]</noinclude>

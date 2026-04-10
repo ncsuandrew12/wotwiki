@@ -1,0 +1,28 @@
+{{character
+| image=CairhienFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| nationality=Cairhienin
+| title=
+| occupation=Innkeeper
+| affiliation=
+| gender=Female
+| hair=
+| appeared={{loc|5}}
+| mentioned={{loc|5}}
+| lastappeared={{loc|5}}
+| lastmentioned={{loc|5}}
+| living=loc
+}}
+'''Mistress Daelvin''' is the innkeeper of [[The Golden Stag]] in [[Maerone]], [[Cairhien]]. She is small and round with her wispy gray hair in a bun at the nape of her neck.
+
+==Activities==
+Despite her placid appearance, she keeps a cudgel under her skirts and uses it on men that she thinks are behaving improperly.
+
+[[Mat]] and some of the lords and officers of the [[Band of the Red Hand]] stay at her inn. When Mat begins flirting with [[Betse Silvin|Betse]], the serving maid is afraid that Mistress Daelvin might disapprove if she sat there drinking wine with Mat. But when Mistress Daelvin sees Betse, she waves them on.
+
+Most of her profit comes from the wine and that she can usually only sell in the evening.
+[[Category:Short pages]]
+
+{{DEFAULTSORT:Daevlin, Mistress}}

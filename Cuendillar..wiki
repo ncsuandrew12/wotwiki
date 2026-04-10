@@ -1,0 +1,71 @@
+'''''Cuendillar''''' (pronounced K<tt>WAIN-de-yar</tt>), also known as '''heartstone''', is an almost indestructible substance created during the [[Age of Legends]]. It absorbs any force attempting to break it, including the [[One Power]], and is believed to become stronger as a result. ''Cuendillar'' objects have been shown to be unharmed even by [[balefire]]. We see this when [[Jeaine Caide]] unleashes balefire using the stolen black rod ''ter'angreal'' in Tanchico where "the ''cuendillar'' figures were all that dropped out of that molten white shaft".{{ref/book|4|54}}
+
+==Known Uses and Variations==
+Because the making of it has been lost since the [[Breaking of the World]], ''cuendillar'' is extremely rare and valuable. The [[Seanchan]] High Lord [[Turak]] had a vast collection of it, which both contributed to and signified his power. ''Cuendillar'' was used to make objects of great importance, including the original [[Domination Band]] and all the [[seals]] to the [[Dark One]]'s prison. Other examples six priceless figurines in the [[Panarch's Palace]] in [[Tanchico]] and wine glasses used during a meeting of the Forsaken.<ref>[https://www.theoryland.com/intvmain.php?i=468] TGS Signing Report, 11 November 2009, Q14</ref>{{ref/book|4|11}}{{ref/book|9|13}}
+
+It is not certain how the colors on the Seals were made and we do not have any examples of any color other than black or white. The leading theory is that ''saidar'' creates white ''cuendillar'' and ''saidin'' creates black ''cuendillar''. The Seals were made in advance of [[The Strike at Shayol Ghul]] to function as focus points, so this is possible even if women did not participate in the Strike itself. Brandon Sanderson did not confirm this, but did not reject it and appeared thoughtful at the suggestion.<ref>[https://www.theoryland.com/intvmain.php?i=713] TGS Signing Report, 14 November 2009, Q5</ref> Other suggestions might be to include impurities in the iron, use a different metal as a base, or use an altered weave. Note that the Domination Band is made from black ''cuendillar''.
+
+==Weaknesses==
+Over the course of the series, the Great Seals were shown to be no longer indestructible, some of them being found in pieces, others whole, but capable of being damaged. Given that it is immune to all known physical and One Power attacks, this requires an explanation. It must be something other than some long-term fallibility of ''cuendillar'' as it is not true for any other pieces that have survived the Breaking. It seems logical that the Dark One must be somehow directly involved as this is the only difference between the seals and other ''cuendillar''.
+
+The weakening can be seen to have been gradual. The first seal found in the Eye of the World was already broken, but still relatively strong. When Lan tried to test its strength, he broke a good knife of the best steel from Tear without damaging the piece further.{{ref/book|1|52}} What force was used to break the Seal is unknown, especially as it had been supposedly hidden for thousands of years. This may be a continuity error.
+
+Seals found later were not broken, but one could slice off pieces of them with a knife. {{ref/book|5|2}} It is notable that the [[Forsaken]] do not seem to consider the destruction of the Seals as a desireable goal ([[Mazrim Taim]] was even given one of them to give to [[Rand al'Thor]]). Perhaps they were in no hurry to hasten the arrival of the Great Lord and the end of all things.
+
+The last three Seals were broken by Logain in the Last Battle and he simply used his hand to break them. 
+
+{{quote| Logain reached to his belt, then took three items from his pouch. Discs, half white, half black. [...] "Do it," Gabrelle said. "Do it, Sealbreaker." Logain snapped the once unbreakable seals, one by one, and dropped the pieces to the ground. {{ref/book|14|48}}}}
+
+
+Brandon Sanderson later revealed that there are two ways ''cuendillar'' can be destroyed. The first is by using the [[True Power]], as it works by destroying the Pattern. The second is by unravelling the Pattern. <ref>[https://www.theoryland.com/intvmain.php?i=468] TGS Signing Report, 11 November 2009, Q15</ref><ref>[https://www.theoryland.com/intvmain.php?i=632#10] Alloy of Law Signing Report, 11 Nov 2011, Q10</ref>
+
+==Rediscovery==
+[[Egwene al'Vere]] was able to reconstruct the weave for making ''cuendillar'' from [[wikipedia:iron|iron]] by using flows of Earth, Air and Fire.{{ref/book|10|17}} This allowed the [[Rebel Aes Sedai]] a source of income for their siege on the [[White Tower]], a fact which some Aes Sedai, such as [[Salita Toranes]], saw as a degrading application of the One Power by an Aes Sedai. Aes Sedai do not channel for mere profit. One difficulty in creating these artefacts was the necessity for extremely fine works of iron so that the objects might be beautiful as well as rare.
+
+It was later weaponised to give the rebels an advantage in the siege of Tar Valon. By turning the city's harbor defense chains into single pieces of ''cuendillar'', they prevented those chains from being raised or lowered, blocking large supply ships from entering the harbors.{{ref/book|10|30}}{{ref/book|11|p}}
+
+==Making ''cuendillar'' Talent==
+Very few channelers have the [[Talent]] to make ''cuendillar''. Among the one thousand channelers herded by the rebel Aes Sedai between Altara and Murandy, only 9 sisters, 2 accepted and 24 novices possessed the required ability. Moghedien also knows how to make it.<ref>[https://www.theoryland.com/intvmain.php?i=204] DragonCon Report, 4 September 2005, Q5</ref> 
+
+After Egwene herself, [[Leane Sharif]] (Green Ajah) had the second best Talent for producing ''cuendillar'', followed by [[Bodewhin Cauthon]] (novice) and the deceased [[Kairen Stang]] (Blue Ajah). [[Ashmanaille]] (Gray Ajah), [[Althyn Conly]] and [[Nicola Treehill]] (novices) could also make ''cuendillar'', as well as 4-5 Yellows (from [[Salita]]'s quote that half the nine sisters who could make cuendillar are Yellow).  The last might be coincidence or point to a similarity between the dexterity needed for Healing and the weave for making cuendillar.
+
+Of these, only the first four could make it with any appreciable speed. The death of Kairen forced Egwene to put Bodewhin in Kairen's place when it came to the harbor chain plan, although she would later take that responsibility herself rather than have a novice and one of her childhood companions put in danger.
+
+== Potential applications ==
+In many respects, Aes Sedai still see cuendillar as a novelty and a trivial use of the One Power in order to make ornaments. Barring Egwene, they possibly have not considered its structural properties and applications. Such applications have been discussed in the fandom for decades, but never applied in the books themselves.
+
+=== Weapons ===
+
+It has been suggested that the weave could be used to create weapons and armour that would be indestructable by any conventional means. For [[Aes Sedai]] the first of these would violate the second of the [[Three Oaths]]. While not technically creating a new weapon, it would still be a creation of a more powerful object than existed beforehand and fall along the lines of how we see weaves being used in the forging process of [[Mah'alleinir]] to augment the strength of a blade being made by a blacksmith. Like the rest of the Oaths, however, the perception of the process in the mind of each individual Aes Sedai would be the final decider. The same restrictions, however, do not apply to other types of channelers, nor do they apply to armor. 
+
+=== Armor ===
+
+For armor, the implication would be that the result would be something impervious to any blow, no matter how thin or light the armor. One point to be remembered, however, is that armor requires interlocking pieces that allow the wearer to move. As seen by an attempt to turn two ornaments to cuendillar simulanteously in the books, items fuse together if too close when being converted. This would necessitate each individual part to me made seperately, then reassembled. Some allowance in the shape and manafacture of the pieces, such as holes or hooks, would be needed. Barring this, the principle is sound. 
+
+Any armor, however, is only as strong as its weakest part, and injuries are more often sustained through the gaps in armor rather than the destructability of the armor itself. Greater manoeuvrability by having the protection of heavy armour weighing the same as light armor is a strong advantage, nonetheless.
+
+=== Sieges ===
+
+Siege warfare would no longer be able to utilize battering rams, catapults or trebuchets to damage walls or gates. The gates and walls need not be entirely made of cuendillar, but could be reinforced in the same manner as composite materials. In theory, a fine mesh of cuendillar inside a wall would make it indestructible.
+
+From the side of the attacker, constructing or reinforcing the same battering rams and protective shields would make them impossible to break and/or lighter and more manoeuvrable. Attackers are more vulnerable the slower and more cumbersome their siege equipment.
+
+=== Gunpowder weapons ===
+
+Similar to above, the manoeuvrability of Dragons (cannons) in battle would be an advantage. Not only this, but the creation of thin and strong tubes would pave the way for hand guns. [[Aludra]] would certainly need fewer bellfounders and metal to accomplish the same task. Furthermore, the idea of cuendillar cannonballs bears considering.
+
+=== Architecture ===
+
+Strengthening structures with cuendillar could allow for structures many time the height than is currently possible to be made with relative ease. Strong intrastructure can be used to support vast weights - cuendillar that passed through geological upheavals during the breaking has been found unaffected. The same technology could also be used in mining to support tunnels deeper and further underground.
+
+== External links ==
+*''{{TVlink|Cuendillar}}'' on {{TVlink}}
+
+{{Notes}}
+
+{{DISPLAYTITLE:''Cuendillar''}}
+[[es:Cuendillar]]
+[[Category:One Power]]
+[[Category:Age of Legends]]
+[[Category:Special objects]]
+[[Category:Talents]]

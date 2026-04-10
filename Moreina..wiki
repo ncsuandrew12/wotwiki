@@ -1,0 +1,20 @@
+'''Moreina''' was a kingdom of the [[Third Age#The Free Years|Free Years]]. It arose out of the ruins of [[Essenia]] following the [[Trolloc Wars]] and later joined the expanding Empire of [[Artur Paendrag Tanreall|Artur Hawkwing]]. During the [[War of the Hundred Years]] its territory was split between the nations of [[Mar Haddon]], [[Tear]], and [[Mayene]].
+
+==Geography==
+[[Image:Moreina.png|thumb|right|200px|In red location within the Westlands]]
+
+Moreina was bordered by the [[River Erinin]] to the west, the [[Sea of Storms]] to the south, and the swamps of [[Haddon Mirk]] to the north. Its eastern border was the [[Spine of the World]] and the [[Drowned Lands]]. Its neighbors were [[Fergansea]] to the west and [[Talmour]] to the north.
+
+The city of [[Tear]] was located within Moreina, but it is unknown if it was the capital. It was a substantial city controlled by a 'High Governor' who ruled from the [[Stone of Tear]] at this time, which suggests if Tear was the capital, it was not ruled from the Stone.
+
+==History==
+The details of Moreina's history are not known in depth, although it is known that it was a monarchy. The nation appears to have been a strong trading country on the Sea of Storms, much as Tear is now. It also fought occasional naval wars with Fergansea to the west. However, its holding of the Stone of Tear was problematic, as every [[false Dragon]] knew the most credible way to prove he was the true [[Dragon Reborn]] was to capture the Stone. During the history of Moreina, it is known that the false Dragon [[Davian]] arose, but it is unknown if he attempted to attack the city.
+
+Far more serious was [[Guaire Amalasan]], who invaded Moreina and besieged the Stone in late {{Fy|942}}, during the [[War of the Second Dragon]]. The siege was inconclusive, as up to thirty [[Aes Sedai]] were defending the Stone against his attempts to take it. The city held out until Hawkwing defeated Amalasan's forces the following year and the siege was lifted. During the [[Consolidation]] Moreina was the only known kingdom to have joined Hawkwing's empire peacefully, when the High Governor of Tear surrendered to him and a popular uprising in his name delivered the rest of the nation into his hands. During Moreina's stint as a province of Hawkwing's empire, it became the assembly ground for the invasion fleet aimed at [[Shara]]. This fleet was eventually destroyed with all hands lost or enslaved.
+
+With the news of Hawkwing's death in {{Fy|994}}, the Stone and the city were seized by a group of nobles led by Lord Istaban Novares and Lady Yseidre Tirado. They repulsed every attempt to take the city and established control over the surrounding lands, eventually forging a new kingdom called Tear. Along with [[Andor]], Tear is thus one of the oldest of the modern nations.
+
+{{nations}}
+[[es:Moreina]]
+[[Category:Nations of the Free Years]]
+[[Category:Historical nations]]

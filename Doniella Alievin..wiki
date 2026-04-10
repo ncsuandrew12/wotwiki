@@ -1,0 +1,37 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| status=Dead
+| death={{ne|363}}
+| ajah=Brown
+| nationality=Cairhienin
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{amol|37}}
+}}'''Doniella Alievin''' was an [[Aes Sedai]] of the [[Brown Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|306}}.
+
+==History==
+Her name indicates that she was from [[Cairhien]].
+
+Doniella held the position for twenty-six years until her resignation in {{Ne|332}}. She was [[Serenia Latar]]'s successor and [[Aliane Senican]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Doniella was a quiet Amyrlin, not particularly strong, but not in the control of the Hall, either; her benign neglect did leave the Hall pretty much in control of the Tower.
+
+Doniella quite voluntarily resigned as Amyrlin in order to spend more time on her loved studies. She spent the next thirty-one years studying happily, however she was not allowed to return to the Tower and was strongly discouraged from letting anyone know that she had been the Amyrlin Seat.
+
+Doniella was also a [[Dreaming|Dreamer]] who made important studies on the [[Prophecies of the Dragon]]; in particular she made comments on the [[Termendal]] translation of the [[Karaethon Cycle]], apparently so diffuse that they became "the subject of nearly as much discussion among scholars as the Prophecies themselves."
+
+She is the only known Amyrlin Seat to have been a dreamer before [[Egwene al'Vere]]. {{Ref/book|14|1}} She died in {{ne|363}}.
+
+One of her most important notes read "''Wait upon the Light''"{{Ref/book|14|1}}, quoted by Egwene during the [[Tarmon Gai'don|Last Battle]].{{ref/book|14|37}}
+
+{{notes}}
+{{DEFAULTSORT:Alievin, Doniella}}
+[[Category:Dreamwalkers]]
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

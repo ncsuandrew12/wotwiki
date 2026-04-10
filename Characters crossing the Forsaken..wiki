@@ -1,0 +1,354 @@
+{{Under construction}}
+This is a cross-reference for the main characters of the Light who directly encounter the [[Forsaken]].
+
+This list is not meant to be an exhaustive summary of every character who encounters a Forsaken, especially one in disguise; what is interesting instead is how many did or did not deal with them directly. Thus with the exception of one 'minor' character who fought (and defeated) one of the Forsaken, these characters are pulled from the Main/More menus at the top of this wiki.
+
+==Key==
+
+''(A blank cell means the lack of interaction has not yet been verified.)''
+
+*'''[N]o''': No evidence that they ever saw them. Note that this does not truly mean they never interacted at all (particularly in the case of [[Someshta]] and [[Birgitte Silverbow|Birgitte]], who lived many years unrecorded in the main sequence during the lifetimes of the Forsaken) but it does mean that there is no evidence that they met during the events depicted in the books. '''Only use this to fill in the rows for characters with other interesting interactions, not to add new rows!'''
+*'''[P]resent''': Was in the same place, but did not know who they were (like Mat talking with Asmodean dressed as a gleeman, or Egwene being around Aran'gar disguised as Halima). '''Only use this to fill in the rows for characters with other interesting interactions, not to add new rows!'''
+*'''[F]ought [U]naware''': Attacked or fought but did not know who they were interacting with.
+*'''[S]aw''': Was in the same general place as, knowing who they were looking at, but didn't speak with them
+*'''[M]et''': Was in the same place and met or were mutually recognized by them, but didn't fight (or if they did, had no impact, like Egwene at the [[Eye of the World#Confrontation at the Eye|Eye]])
+*'''[F]ought [D]irectly''': Fought, well, directly.
+''Add '''†''' after the interaction to indicate they killed the Forsaken in their final encounter.''
+
+==Table==
+{| class="sortable fandom-table"
+! rowspan="2" | Character
+! colspan="2" | '''[[Aginor]]'''
+!
+! colspan="2" | '''[[Balthamel]]'''
+!
+!
+! colspan="2" | '''[[Graendal]]'''
+! colspan="2" | '''[[Ishamael]]'''
+! colspan="2" | '''[[Lanfear]]'''
+!
+!
+!
+!
+!
+!
+|-
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Aginor]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Osan'gar]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Asmodean]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Balthamel]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Aran'gar]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Be'lal]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Demandred]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Graendal]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Hessalam]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Ishamael]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Moridin]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Lanfear]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Cyndane]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Mesaana]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Moghedien]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Rahvin]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Sammael]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[Semirhage]]'''</span>
+!<span style="display:block; writing-mode:vertical-lr; transform:rotate(180deg)">'''[[M'Hael]]'''</span>
+|-
+|[[Rand al'Thor|'''Rand al'Thor''']]
+| data-sort-value="6" |FD†<br />{{Ref/book|1|51}}
+| data-sort-value="1" |P{{Ref|Rand only meets [[Osan'gar]] in disguise.}}
+| data-sort-value="6" |FD<br />{{Ref/book|4|58}}
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="3" |FU†<br />{{Ref||rand natrin's barrow}}
+| data-sort-value="6" |FD<br />{{Ref/book|3|55}}
+| data-sort-value="-1" |N
+| data-sort-value="6" |FD<br />{{Ref|Rand thought he was destroying [[Graendal]] at [[Natrin's Barrow]], but Graendal had left [[Aran'gar]] in her place.|rand natrin's barrow}}{{Ref/book|12|37}}<br />{{Ref/book|13|p}}
+| data-sort-value="-1" |N
+| data-sort-value="6" |FD<br />{{ref/book|1|51}}{{ref/book|2|47}}<br />†{{ref/book|3|55}}
+| data-sort-value="6" |FD†
+| data-sort-value="6" |FD
+| data-sort-value="5" |M{{Ref/book|13|e}}
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="6" |FD<br />{{Ref/book|5|55}}
+| data-sort-value="6" |FD
+| data-sort-value="6" |FD†
+| data-sort-value="1" |P{{Ref||taim}}
+|-
+|[[Perrin Aybara|'''Perrin Aybara''']]
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="-1" |N
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="6" |FD<br />{{Ref/book|14|40}}{{Ref/book|14|42}}<br />{{Ref/book|14|47}}
+| data-sort-value="5" |M
+| data-sort-value="4" |S{{Ref/book|14|49}}
+| data-sort-value="0" |
+| data-sort-value="6" |FD†<br />{{Ref/book|14|49}}
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+|-
+|[[Mat Cauthon|'''Mat Cauthon''']]
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="1" |P
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="4" |S
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="5" |M
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+|-
+|[[Nynaeve al'Meara|'''Nynaeve al'Meara''']]
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="-1" |N
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="6" |FD<br />{{Ref/book|4|54}}
+| data-sort-value="6" |FD†<br />{{Ref|Technically, [[Nynaeve]] fights [[Rahvin]] using [[Moghedien]]'s channeling power through the ''[[a'dam]]'', but only because of her block{{Ref/book|5|55}}}}{{Ref/book|5|55}}
+| data-sort-value="0" |
+| data-sort-value="5" |M
+| data-sort-value="0" |
+|-
+|[[Egwene al'Vere|'''Egwene al'Vere''']]
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="1" |P
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="1" |P
+| data-sort-value="0" |N
+| data-sort-value="4" |S
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="6" |FD<br />{{ref/book|4|54}}
+| data-sort-value="5" |M{{Ref/book|6|37}}
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="6" |FD†
+|-
+|[[Elayne Trakand|'''Elayne Trakand''']]
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="5" |M{{Ref/book|4|46}}
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="1" |P<br />{{Ref/book|9|p}}{{Ref|Rand only meets [[M'Hael]] before he is raised to the Chosen|taim}}
+|-
+|[[Moiraine Damodred|'''Moiraine Damodred''']]
+| data-sort-value="6" |FD{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="4" |S<br />{{Ref|[[Moiraine]] was aware of [[Asmodean]] 'helping' Rand under the guise of Jasin Natael, but she almost certainly never spoke to him directly using his Forsaken name. Asmodean most likely was unaware that Moiraine was aware of his identity.{{Ref/book|5|53}}}}{{Ref/book|5|53}}
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="6" |FD†<br />{{Ref/book|3|55}}
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |S
+| data-sort-value="0" |
+| data-sort-value="0" |FD
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+|-
+|[[Lan Mandragoran|'''Lan Mandragoran''']]
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="1" |P
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="6" |FD†<br />{{Ref/book|14|37}}
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+|-
+| [[Birgitte Silverbow|'''Birgitte Silverbow''']]
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="4" |S{{Ref|While [[Birgitte]] was in ''[[Tel'aran'rhiod]]'', she carefully spied on many meetings of the Forsaken}}
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="6" |FD{{Ref/book|5|34}}
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+|-
+|'''[[Loial]]'''
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="-1" |N
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+|-
+|'''[[Aviendha]]'''
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="1" |P
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="6" |FD
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="5" |M{{Ref/book|11|27}}
+| data-sort-value="0" |
+|-
+|[[Min Farshaw|'''Min Farshaw''']]
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="5" |M{{Ref/book|2|48}}
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="5" |M{{Ref/book|12|22}}
+| data-sort-value="0" |
+|-
+|'''[[Logain Ablar]]'''
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="6" |FD{{Ref/book|14|37}}
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |N
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="0" |
+| data-sort-value="1" |P
+|-
+|'''[[Someshta]]'''
+| data-sort-value="5" |M{{Ref/book|1|50}}
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="6" |FD†<br />{{Ref/book|1|50}}
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" |N
+| data-sort-value="-1" | N
+| data-sort-value="-1" |N
+|}
+
+
+{{Notes}}
+[[Category:Forsaken| List]]
+[[Category:List pages]]

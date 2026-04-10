@@ -1,0 +1,21 @@
+{{character 
+| image=Valere-icon-color.png
+| imagesize=250px
+| status=Deceased
+| title=
+| nationality=Unknown nationality
+| occupation=Hunter of the Horn
+| gender=Unknown gender
+| hair=
+| mentioned ={{teotw|17}}
+}}
+'''Lian''' was a legendary [[Hunter of the Horn]] and [[Horn of Valere|Hero of the Horn]].
+
+== History ==
+One of the great stories in "[[The Great Hunt of the Horn]]" is "Lian's Stand." [[Thom Merrilin]] tells the story of Lian's Stand at [[The Stag and Lion]] in [[Baerlon]].{{ref/book|1|17}}
+
+According to [[The Wheel of Time Companion]], like [[Rogosh Eagle-Eye]] and [[Gaidal Cain]], Lian became a Hero of the Horn.{{ref|{{twotc}}, Lian}}
+
+{{notes}}
+{{DEFAULTSORT:Lian}}
+[[Category:Heroes of the Horn]]

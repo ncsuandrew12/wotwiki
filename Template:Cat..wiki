@@ -1,0 +1,2 @@
+[[Category:{{{1}}}{{#if:{{{2|{{{1|}}} }}}|{{!}}{{{2|{{{1|}}} }}} }}]]<noinclude>{{delete|unused}}
+[[Category:Linking templates|{{PAGENAME}}]]</noinclude>

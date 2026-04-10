@@ -1,0 +1,15 @@
+{{ character 
+| image=wheel-icon.svg
+| imagesize=100px
+| status=Alive
+| occupation=Soldier
+| affiliation=Queen's Guard
+| gender=Male
+| mentioned={{tom|22}}
+| lastmentioned={{tom|22}}
+| living=tom
+}}
+'''Calison''' is a member of the [[Queen's Guards]].
+
+== Activities ==
+He sends [[Kaila Bent]] to inform [[Birgitte Silverbow]] that they have captured an intruder trying to sneak into the Palace.

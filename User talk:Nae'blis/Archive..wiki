@@ -1,0 +1,345 @@
+{{archive}}
+I like that you've started copying stuff from Wikipedia, but I am concerned that really general things like [[The Wheel of Time]] and [[Robert Jordan]] are best refered to with interwiki links to the Wikipedia articles.  I'm not sure there is a point to having our own copies of those, not unless there is a significant amount of non-general-encyclopedic material we plan to add.  And even if that were the case, perhaps including only that material and simply placing an interwiki in "See Also" would be best. --[[User:Gherald|Gherald]] 16:50, 22 Oct 2005 (UTC)
+<br>'''Update:''' Ok, I've edited [[Template:EnWP]] and created [[Template:EnWPcontent]] to fit more along what I had in mind... how do you like 'em?  See [[Current events]] for how I plan to seed about 15 pages. --[[User:Gherald|Gherald]] 03:39, 24 Oct 2005 (UTC)
+==Use of article talk pages==
+I'd like your input on adopting a looser policy for requiring the use of talk pages.  For simplicity, and because we still have a lot of seed posting to do, I think it should ok to visibly comment on articles inline as we are writing them, and only use talk pages when saying something very long or when commenting about minutia that is best kept out of the article itself.  Such comments can be moved as they become irrelevant to the current state of the article, and completely when the article is considered good enough to be "released".  This would apply similarly to Policy pages, et. al.  What do you think? --[[User:Gherald|Gherald]] 18:37, 24 Oct 2005 (UTC)
+
+: I have no problem whatsoever with it on Policy/Proposal/Help/WotWiki: (or whatever) pages; on main article pages, I'm concerned about the possibility of these notes lingering once we reach a critical mass of either editors or pages, and reflecting poorly on us sometime down the future. I'd rather keep commentary there to <nowiki><!--</nowiki> HTML comments --> or Talk pages, though. In fairness, however, it'll be a month or two at least before I do much work in articles, because I haven't read [[KoD]] yet (on [[LoC]] in my reread) and don't want to be spoilered... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 21:15, 24 Oct 2005 (UTC)
+:: I'm currently on [[TFoH]] myself, and not sure why this should stop you. Are you actually concerned about '''''Pre-KoD''''', erm...spoilers?  Because with all KoD ones being clearly marked, I don't see any reason to be worried about those.  I plan to work on articles while reading and add to them as I come across new, interesting information. --[[User:Gherald|Gherald]] 21:34, 24 Oct 2005 (UTC)
+
+::: Actually, yeah. I'm reading for content, this time around, and trying to follow the narrative thread even though I usually remember in some vague way what's coming. Every time I reread I catch more things (this has to be the 7th time or so for some of the early books). Also, whenever I read (diff) or edit summaries, I can come across snippets from KoD that people are putting in (already saw something about Rand's twins). Safer just not to go there, for me... YMMV. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 22:23, 24 Oct 2005 (UTC)
+
+<s>== Redirects ==
+I misunderstood your redirect's edit summary, and thought you were refering to the choice between Shai'Tan redirecting to Dark One or vice versa.  If you were just trying to justify creating a lot of redirects... that is fine, but not exactly something we are in desperate need of a proposal for.  Oh well, now we have one.  --[[User:Gherald|Gherald]] 19:55, 25 Oct 2005 (UTC)</s>
+
+
+
+==quick template question==
+* Do you know if it is or will be possible to have a template add text to a certain place in the article, regardless of where the <nowiki>{{tag}}</nowiki> is inserted?  In particular, I was thinking that it would be nice to have a template for chapter summaries that makes a header with the chapter with the header information, and a footer with some navigation information, without having to use two different templates.  I'm trying to think of ways to make writing the actual summaries as simples and standardized as possible.
+** As far as I'm aware, this should be possible, by using sub-templates with CSS codes ("clear" or "break" I believe). You want, for example, to be able to center and bold the Chapter Title at a certain font size at the top, and automagically insert the navigation bar at the bottom for the previous/following chapters? I don't think we can/should use templates much in the main body of the summary. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 18:38, 27 Oct 2005 (UTC)
+*** Well you seem more knowledgeable of CSS; can you try to cook something up for the current footer in [[template:summary]]?
+**** Yeah, I'll put it on my list.... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 01:31, 30 Oct 2005 (UTC)
+
+==Graphics / Logo==
+Sorry, I'm not a graphics guru, but I did recently run across a relevent bit of information [http://toolkit.crispen.org/formats/index.html].  Hope that helps.  
+I think I like the logo better without the text over the wheels.  Maybe if it was underneath? or around? or inside?  Best wishes --[[User:CocoaZen|CocoaZen]] 23:54, 27 Oct 2005 (UTC) (Please put any responses on my primary [[wikicities:user talk:CocoaZen|talk]] page.)
+
+== New namespaces ==
+
+Upon due consideration of [[m:Namespaces#Custom_namespaces]] and [[m:Help:Custom_namespaces]], I am thinking of asking Angela to make us a seperate namespace for each book.  Do you have thoughts on whether this is a good idea and what we should call them, etc?
+
+The programmer in me wants namespaces 1: 2: 3: etc, and to have the individual summaries at 1:P (prologue), 1:R (ravens), 1:1 (chapter 1), etc.  We can use templates to link to these prettily... the [[Template:If|meta-template "If"]] opens a lot of possiblities for this.
+
+But perhaps we should be more descriptive with bk1: or book1: or teotw: etc.
+
+Regardless of which we choose, we can use ordinary < font > tags in [[Template:Summary]] to format the book and chapter titles to overshadow the resulting article names on pages.
+--[[User:Gherald|Gherald]] 22:46, 29 Oct 2005 (UTC)
+
+: I'm fairly certain that we only get three custom namespaces, and even if we don't, putting each book in their own namespace is madness. Imagine trying to search for something, and having to click all 12/15/16 book namespaces, in addition to article space. I think your Summary: idea had merit, though I'm not sure entirely on how it would work yet. I do think you're finding a lot of cool stuff in templates though, so keep me posted... (especially if you figure out how to do book names inside a major template, then we can do something like <nowiki>{{book|teotw|14}}</nowiki>. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 01:30, 30 Oct 2005 (UTC)
+:: Unless I'm missing something particular to Wikicities: If you read the first link, you will see that we can have up to 78 namespaces including talk pages, and that number increases to 32,718 with MediaWiki 1.5  We could have one for every page of every book ;).  If you read the second link, you will see that custom namespaces can be made to be checked by default in all searches. [[User:Gherald|Gherald]]
+::I know how to do book pages in a major template; but the implementation depends on figuring out the namespaces first. [[User:Gherald|Gherald]]
+::: Yeah, it's a limitation of policy, not technology: http://www.wikicities.com/wiki/Help:Custom_namespaces [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 03:39, 30 Oct 2005 (UTC)
+
+==[[Template:Summary]] footer==
+Try to fix it if you can.  If you can't, or if it's too much trouble, I think:
+* It's not really necessary if we keep the Chapter Index on the right (whether it be the current form, or e.g. a shorter version with only numbers and "P", "E", "R", etc.)
+* It's the only reason we currently have the "pc=" and "nc=" parameters to the summary.  Creating a new ''footer'' template with those two parameters may be acceptible.
+
+==signatures==
+
+:Do you know offhand if there is a way to customize the output of <nowiki>~~~ and ~~~~</nowiki> for all users, and/or a particular user?  I'm thinking about standardizing on something like [[Template:User]]
+:Also, we're both CST, so using that would be cool too. --[[User:Gherald|Gherald]] 03:41, 27 Oct 2005 (UTC)
+
+::My signature (in Preferences, check 'Raw'), is:
+ <nowiki>[[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i></nowiki>
+::Ah, ok, I wonder if there is a way to override the default...
+::I don't think we should be manifestly changing the way signatures work by default, but you might dig around in Special:Allmessages. Another option is to write a much clearer Help file on how to make your own sig. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 14:25, 27 Oct 2005 (UTC)
+
+::::I think we should- my preference would be to add a link to talk (to facilitate communication- it really does not take up that much space), and to add two hyphens, to make clear that this user name is the author of the preceding comment. So the default would be a little like this <nowiki>--[[User:FOO|Foo Bar]] [[User talk:FOO|Talk]]</nowiki>. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 02:04, 5 Nov 2005 (UTC)
+
+::::: Okay, I'll research and see what I can find out. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 03:59, 7 Nov 2005 (UTC)
+
+::::::Great! "A beginning is the time for taking the most delicate care that the balances are correct", if I may go out of universe here. On that note, that of sigs, do you think you could find it in your heart to take the needless html out of your sig? (I refer to the italics here, I know of no way to do sub- or super-scripts in Wikimarkup).  Sets a bad example. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 05:18, 8 Nov 2005 (UTC)
+
+:::::::Thanks. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 22:58, 17 Nov 2005 (UTC)
+
+==Background changes==
+Do you know anything about the background change of some of mediawiki's elements such as TOCs and < code > tags from a very light pastel to a darker gray?  For example, look at the old images in [[Uncyclopedia:Template_talk:Wilde]]... --[[User:Gherald|Gherald]] 21:22, 16 Nov 2005 (UTC)
+
+: Not sure I'm seeing what you're seeing, over at Uncyclopedia. However what you're asking for should be possible with the style sheets... do you *want* it to be grey, or pastel? [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 22:46, 16 Nov 2005 (UTC)
+
+:: There are four groups of four quotes.  Compare the bottom line if each group. 
+:: I don't know as that I have a *want*, but the change concerns me.  In particular, it would appear that [[Template:Quote]] may now be more difficult to read than normal text (whereas before I thought it was easier).  I could add a < span > to that template, but maybe we should just consider changing the < code > tag site-wide, if there is a way to do that.  I'm unsure about the TOC... --[[User:Gherald|Gherald]] 23:00, 16 Nov 2005 (UTC)
+
+Hi, thanks for the welcome. My first project is writing some of the basic needed articles, such as completing the list of the [[Forsaken]] and other prominent characters. I spent some hours yesterday writing about four of the male forsaken, and will probably tonight as well. This will be fun! //[[User:JonesH|JonesH]] 12:46, 19 March 2006 (UTC)
+
+==the chapter index and summary categorization==
+I have no clue what you're talking about with this... --[[User:Gherald|Gherald]] 07:39, 4 May 2006 (UTC)
+
+== Admin ==
+
+Thanks for the nomination. --[[User:TheParanoidOne|TheParanoidOne]] 19:34, 30 August 2006 (UTC)
+
+== New logo design ==
+[http://www.tglman.com/avendesora/temp/portal.gif This wheel image] looks much less grainy.  Now that I see it up close, I see it's the same image at [[:Image:Wheel-icon.png]], but must be based on a higher quality scan (unless it was touched up somehow, I guess).
+
+I think I've figured out that what makes our current logo's ''text'' look grainy is just the black outline, which is too thin for the diagonal letters.  No outline at all may be better... --[[User:Gherald|Gherald]] 22:54, 22 September 2006 (UTC)
+:By the way, I've seen this, and will try to work on a solution when I get home tonight (which is where the [[wikipedia:XCF|XCF]] file is). -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 23:58, 23 September 2006 (UTC)
+
+==Protecting pages==
+I'd rather you not protect "administrative" templates gratuitously.  In fact, outside of the MediaWiki namespace I see virtually no use for it.  Semi can be used more freely, if you really want... --[[User:Gherald|Gherald]] 23:34, 23 September 2006 (UTC)
+:Sounds good, feel free to reset some/most to semi-protected. I just know that I can't sometimes get here for a few days at a time, and if someone jacks with one of our templates, it could affect a lot of pages negatively until we see it. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 23:58, 23 September 2006 (UTC)
+
+==questions==
+
+I just came up with a few questions. I don't know if anone here can answer them but maybe we can speculate on it... Here they are: 
+
+If you balefire someone in Tel'aran'rhiod how would it look in the real world? If someone was watching the sleep would they see thatperson just pop out of exxistence or would theyjust die normally? If you were strong enough to burn the thread back to when they were awake would they just be walking down a stree, for example, and just disappear,or just collapse and die, or would go back only to when they entered the Unseen World? Are the Aelfinn and Eelfinn some how related, as if they were once one species that split into two? Does their world have a Pattern like this one's. What are some of their laws? Does channeling work/exist there? If person A balefired person B and then person C balefired person A didn't balefire person B would person B not have been balefired our would person B still be dead/nonexistant?
+{{unsigned|01:06, 2 October 2006|71.236.79.160}}
+
+== please delete ==
+
+I accidentally created a discussion page for the [[morat'to'raken]], please delete it.  Thanks! [[User:76.188.7.83|76.188.7.83]] 20:41, 20 November 2006 (UTC)
+
+
+== question ==
+
+hi, you look like the main person on this wiki, and i just wanted to know if you knew anything about a possible wheel of time movie, since i recently saw this at  [http://www.red-eagle-entertainment.com/news_2.php This Place](
+
+over and out
+-[[User:Asha'man Nellis, Jearn Rift Sept of the Codarra Aiel|Asha&#39;man Nellis, Jearn Rift Sept of the Codarra Aiel]]
+:Hmmm, that's coming up as a broken link for me. Do you have another page for it? We could always start a page to collect any rumors about that sort of thing at [[Wheel of Time film]] or some similar title. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 23:40, 2 January 2007 (UTC)
+
+== Non-Power related happenings ==
+Wondering about things like [[Miasma]] from book 4 (chapters 3 and 4) and I believe I remember this happening again later in the books.  Is there a category for supernatural events such as these?  i was not sure how to categorize the page I created there or if I even created it the right way. [[Special:Contributions/68.226.5.103|68.226.5.103]] 02:06, 11 August 2008 (UTC)
+:For now, I've categorized it under [[:Category:The Shadow|The Shadow]] and [[:Category:Extradimensional entities|Extradimensional entities]]. Thanks for the head's up! -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 17:05, 19 September 2008 (UTC)
+
+==Back==
+<nowiki>*waves*</nowiki> --[[User:Gherald|Gherald]] 20:21, 19 September 2008 (UTC)
+:Hallo there - finally found a bit of time to skeeve off from work and get on here.... -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 21:15, 19 September 2008 (UTC)
+
+== Statistical Analysis ==
+
+Hello. Somewhat pursuant to the discussion at [[User talk:The Confessor]], I wanted to ask a few questions. 
+
+I've done a word count analysis of the POVs for the eleven main books. I've got percentages and counts and all that good stuff. Could we still have a [[Statistical analysis]] page to agrigate all of the information. 
+
+Also, wheather we do or not, the percentages on the pages are kind of skewed. For example, On [[The Eye of the World]] page, it lists Rand and Moiraine as having half of chapter 53. But when you look at what is actually written, Rand has about 3,200 words in his POV while Moiraine only has 124. This gives the percentage as 96.3 for Rand and 3.7 for Moiraine. There are many more like that as well. Another point; some chapters have more words in them than others. In the same book, chapter 33 has over 10,000 words while chapter 22 has just over 2,000. While it is nice to have the breakdown seen on the book pages (i.e. Rand has these chapters, Egwene has these, ect), that also kind of skews things. Overall percentages seems to be fairly decent in my opinion. 
+
+Just wondering your opinion on this. Feel free to ask me any questions.
+
+And now, for some interesting tidbits:
+
+There are eight people that have over 1% in the books out of 114 different individual POVs and 857 total POVs.
+{| cellpadding="4" class="wikitable"
+!POV
+!%
+|-
+|[[Rand al'Thor]]
+|25.5%
+|-
+|[[Perrin Aybara]]
+|13.2%
+|-
+|[[Egwene al'Vere]]
+|12.3%
+|-
+|[[Matrim Cauthon]]
+|11.1%
+|-
+|[[Elayne Trakand]]
+|9.3%
+|-
+|[[Nynaeve al'Meara]]
+|7.1%
+|-
+|[[Min Farshaw]]
+|2.4%
+|-
+|[[Faile Bashere]]
+|1.7%
+|-
+|}
+
+The other 96 individuals in the books start at .86% all the way down to .003%. Just thought you might like that. :) ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 17:35, 14 January 2009 (UTC)
+
+
+Another question; should I start redo the statistical analyses on the book pages, or just link over to [[Statistical analysis]]? Or, to put it another way, what format should be used on the book pages themselves? I didn't want to overload the casual reader with a whole bunch of numbers and explinations and such. Thanks in advance. -----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 22:22, 29 January 2009 (UTC)
+
+Thanks very much!!!! Should we go ahead and put a link, maybe at the top, of each of the book's stat ani pages to link to the full version? There is some explination on the [[Statistical analysis|full page]]. Maybe even a [[:Category:Statistical analysis]]? Just a thought. Let me know what you think. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 20:04, 30 January 2009 (UTC)
+
+==My Sign Pic and Introductions==
+
+Thanks a lot. I really appreciate it. By the way. I'm Zero. I hope to be an asset to this wiki. I have great skills in Templates. Nav or otherwise. For proof go to [http://avatar.wikia.com/wiki/User:Zero2001 My User Page on the Avatar Wiki]. If you need any help feel free to ask. I'm at your service. There seem to be a lot of redlinks on the books Pages. I'll see what I can do to turn them blue. It might take a while though. But dont worry. Once I start I dont stop untill my work is done. [[Image:Zero Sign.jpg|30px]] - [[User:Zero2001|Zero]] - [[User Talk:Zero2001|Talk]] 16:57, 22 January 2009 (UTC)
+
+I'll see what I can do. Though I can't start at once. But I will do it. Seriously I will. Thanks for the chance. [[Image:Zero Sign.jpg|30px]] - [[User:Zero2001|Zero]] - [[User Talk:Zero2001|Talk]] 17:39, 22 January 2009 (UTC)
+
+BTW. Do you guys need any help with templates. Thats my real forte after all. [[Image:Zero Sign.jpg|30px]] - [[User:Zero2001|Zero]] - [[User Talk:Zero2001|Talk]] 17:53, 22 January 2009 (UTC)
+
+==The Edit Help Template==
+
+You know the template at the end of every page when you edit something? Why is it like that? There are no wiki codes that are mostly used. Like nowiki, redirect, hide text, etc. It's just linkless. Why? [[Image:Zero Sign.jpg|30px]] - [[User:Zero2001|Zero]] - [[User Talk:Zero2001|Talk]] 17:04, 23 January 2009 (UTC)
+
+Try deleting the page. It should automatically switch to the standard version. If it doesn't you can undo the deletion. Of course you might have to Hard Refresh, Ctrl + F5, to see any changes. [[Image:Zero Sign.jpg|30px]] - [[User:Zero2001|Zero]] - [[User Talk:Zero2001|Talk]] 18:26, 23 January 2009 (UTC)
+
+Nah. Just experience. [[Image:Zero Sign.jpg|30px]] - [[User:Zero2001|Zero]] - [[User Talk:Zero2001|Talk]] 18:13, 24 January 2009 (UTC)
+
+==[[Template:Character]]==
+
+Good Point. I had only got to B. [[Image:Zero Sign.jpg|30px]] - [[User:Zero2001|Zero]] - [[User Talk:Zero2001|Talk]] 17:34, 27 January 2009 (UTC)
+
+:This falls under the character template: Auto-links. Take a look at [[Setalle Anan]] and [[Merean Redhill]]. By using a template that automatically links, it kind of breaks a few of these. Just thought you should know. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 20:23, 29 January 2009 (UTC)
+
+== New chapter stubs ==
+
+We might not want to create blank chapter stubs for every page because it's harder to tell what's been done; you can't just glance at the Chapter Index link colors.  Also, while it's more a pet project of mine I'd advise looking up the "wotmania=" variable when filling out the template for a new chapter summary : ) --[[User:Gherald|Gherald]] 18:47, 1 February 2009 (UTC)
+
+== Chapter Summary Format ==
+
+Hey, I'm new here, but I'm reading through LoC for the umpteenth time and I'm interested in writing up the Chapter Summaries for it.  Is there some sort of preferred format I should use?  I looked at the existing summaries, and most of them differ in structure.  I'm a total newcomer to wikis, so complicated code isn't really illuminating to me, but I'd like to get started on LoC. Thanks. --[[User:Alantin|Alantin]] 12:45, 16 April 2009 (UTC)
+
+I'm also a bit confused about the chapter summaries. The current format seems almost ''too'' complete in that I'm slightly offput about the level of detail needed to do one. A guide for the minimum might be a good idea in the style guide.. There are just over 500 chapter in the entirety of the books thus far. I don't think there will be enough volunteers to replicate the level of detail in the early chapters for the rest of the chapters. I'd suggest that a good summary, character mentions, appearances and maybe some notes and comments would be enough. Mentions of items and concepts are only good if they are of any significance and could be dealt with in the additional notes. We also have to get all the chapter icons right, which is a bummer. If a few of us could get together and turn this into an active project it would be pretty useful. :)
+
+Cheers!
+[[User:Moridin 2000|Moridin_2000]] 13:13, 16 April 2009 (UTC)
+
+Oh and, BTW, Alantin, I was totally daunted by the wiki code at the start too, but it isn't too bad to settle into since most of what you will need will be links, bold, italics and headers. Master those and you can pretty much get 95+% of what needs to be done accomplised without any bother. Templates are simplified for us too - I'm not very confident on their inner workings but using them is not a biggie.
+
+[[User:Moridin 2000|Moridin_2000]] 13:17, 16 April 2009 (UTC)
+
+Yeah, I've been able to find most of what I need, but the concept is a bit daunting.  In any case, about the chapter formats, there are chapters like {{teotw|1}} and ones like {{tfoh|56}}.  I can't really find a common format for them (except for the first TEotW chapters). --[[User:Alantin|Alantin]] 16:40, 16 April 2009 (UTC)
+
+Ouch, those tFoH ones are seriously flawed with bad spelling! I'd go for a basic format of the event summary and chapter icon template. Anything else can be added later and it being missing won't look seriously out of place. Adding templates for the listing of chapters can be done afterwards. Personally, I wouldn't bother with character listings if it is too much trouble. It's nice to have, but the more basic summaries the better. The other lists are more trouble than they are worth, IMO. A quote is nice, but not essential. As for myself, I'm concentrating on getting a lot of the character entries up to scratch and adding a character template to anything that needs it, but I'll do anything that's useful. GuanYu is doing a good job at adding little snippets all over the place as he does rereads and Werthead writes some really quality articles on many of the more obscure details. The fun thing about this place is there isn't much you can do wrong if you know WoT well and there is always plenty to do. :) Every edit counts!
+
+[[User:Moridin 2000|Moridin_2000]] 18:21, 16 April 2009 (UTC)
+
+{{tfoh|56}} is actually the highest voted article on the wiki.  Scary, huh? --[[User:Alantin|Alantin]] 20:37, 16 April 2009 (UTC)
+
+== Booknav on chapter summaries and a question ==
+
+Honor to serve. By the way, I posted a question [[Help talk:Style guide#Footnotes|here]]. I know [[User:Optimous|Optimous]] replied and voiced his opinion and said that he could change it, but I was wondering if you might also take a look. Not the highest priority. Thanks in advance. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 15:16, September 23, 2009 (UTC)
+:The thing about changing that template is it messes up where people were mentioned or appeared in the character template(The main reason for the abbreviations of book titles)--[[User:Optimous|Optimous]] 15:27, September 23, 2009 (UTC)
+
+== Logos ==
+
+So what do you think of the new logos? Need to change anything? [[Wotwiki:Logo]]--[[User:Optimous|Optimous]] 15:52, September 23, 2009 (UTC)
+
+== Bureaucrat/Administrative rights ==
+
+Hmm, I could have sworn I had ''already'' made Optimous a sysop months ago. I'd talked about it with him; must have goofed it up somehow :S.  Oh well, it's done now, and you're a bureaucrat as well --[[User:Gherald|Gherald]] 19:12, October 21, 2009 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}
+
+
+HI Nae'blis.  Pedantic here.  I disappeared from the board for a while because of a monster project at work that took all my time.  I am bac, now, and have made several contributions in the last month or so.  Could you please remove me from the previous users on your Contributors page and put me in the Current Contributors category.  Updating the number of edits is completely optional.  Thanks! I appreeciate it. [[User:Pedantic|Pedantic]] 21:12, October 30, 2011 (UTC)
+
+== problems with subsections on mobile skin ==
+
+Hi, I don't know who is the proper contact for these types of concerns.  The subsections are not opening on the mobile skin.  I've visited other wikia sites and those samples all work fine, it is just this one I've found that doesn
+'t work.  I'm using Android 2.2 mobile device and have tried multiple browsers and they all fail.
+
+
+
+Thanks,
+
+[[User:Dkeefe3773|Dkeefe3773]] 15:44, January 15, 2012 (UTC)
+
+== Brandon Sanderson Blog Posts ==
+
+Crossposting to all the listed admins.
+
+I'm Brandon Sanderson's assistant. There's a problem with having Brandon's blog posts on your wiki.
+http://wot.wikia.com/wiki/Category:Brandon_Sanderson_Blog_entries
+
+All your content is labeled as being licensed under CC-BY-SA, but Brandon's blog posts must be copyright Dragonsteel Entertainment, LLC. Under ideal circumstances we don't have a problem with you mirroring certain posts on your wiki, but they must not be relicensed. Because if they are licensed CC-BY-SA, people can make a printed book of Brandon's blog posts and sell it on Barnes & Noble:
+http://www.barnesandnoble.com/w/a-wheel-of-time-brandon-sanderson-blog-entries-source-wikia/1035865816?ean=9781234699406
+
+That is just not cool. The people making that book think it is legal because they got the text from your website, which says CC-BY-SA.
+
+Please do something about this. We will contact Barnes & Noble separately, but the license needs to be cleared up on your site. If wikia terms don't allow material to be posted without being CC-BY-SA, please just link straight to Brandon's blog posts instead of mirroring.
+
+I'm sorry that unscrupulous content scrapers made this necessary.
+
+You can contact me on Twitter if you want to talk about anything.
+
+Thanks,
+
+—[[User:PeterAhlstrom|Peter Ahlstrom (Not at TOKYOPOP anymore)]] 19:46, April 30, 2012 (UTC)
+: Thanks Peter. I will make sure they are relinked to the originals, rather than mirrored. We don't have a choice with the Wikia licensing but no offense was intended. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:30, September 28, 2012 (UTC)
+
+== Copyright info ==
+
+Hello. I got an e-mail from Wikia in regards to our copyright issue. Since we have the author's permission, we're not violating Wikia's Terms of Use. While it is not something that Wikia likes to do, adding the copyright notice at the bottom of those pages is okay.
+
+I also suggested that we set up one of our custom namespaces to hold of the interactions with fans and reports from fans. This would allow us to clearly differentiate between normal CC-BY-SA content and the copyrighted materials from the authors. The namespace has been suggested before here, by one of the users. I didn't think anything of it too much at the time, simply because we had the categories and we didn't have this copyright issue. If we went ahead with the namespace, there would be a few things we would need to decide, but we don't have to do that now.
+
+Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}} 21:27, October 4, 2012 (UTC)
+:I love the idea of using a separate namespace for either fanworks and/or real-world-interface stuff like that. No idea what to call it though... will think on it for a while. Feel free to open a discussion publicly somewhere if you like. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 05:18, October 6, 2012 (UTC)
+
+I was thinking of just calling the namespace "Reference" or something similar. ---- {{User:Mainphramephreak/Sig/Subst}} 21:14, October 8, 2012 (UTC)
+:"Sources"? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 02:27, October 9, 2012 (UTC)
+
+Even better. :) There were two things we would have to decide on before we had the namespace created. First, would these pages be included in the page count and "Random page" function. From the e-mail I got, it seems these two are a packaged deal. If so, the new namespace would be marked as a "content namespace." Second, should the new namespace be reachable by the search function. Usually, if a new namespace is a "content namespace," they should be included in the normal search function. I would answer yes to both. I've already searched the database to see if any pages start with either of the intended names, and there aren't any, so that takes care of Wikia's last requirement. Let me know and I'll get in contact with Wikia to set this up. Also, it should be fairly simple to move the pages once the new namespace is up and running. One of the recent updates to the software made that whole process much simpler. :) ---- {{User:Mainphramephreak/Sig/Subst}} 04:49, October 9, 2012 (UTC)
+
+If you don't have any objections, I'll set up the "Sources" namespace here in a few days. I'll also look into redoing the one copyright notice we have, and creating any more that we would need for Robert Jordan's blogs and what not. I'll also try and piece together a policy on this so we can be very clear on what goes into the new namespace. Once the new namespace is up, I can also create a notification at the top. This will be like the ones on the top of talk pages or the ones on protected pages. Just something to remind users about the namespace's purpose. Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}} 05:15, October 12, 2012 (UTC)
+:What about just 'Source:'? The plural sounds weird to me, compared to the other namespaces. Otherwise, go for it. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 11:48, October 12, 2012 (UTC)
+
+Will do. I also changed the {{tl|Dragonsteel}} template. I haven't made the changes to the blog pages yet, though. It's on my list. :) ---- {{User:Mainphramephreak/Sig/Subst}} 12:06, October 12, 2012 (UTC)
+
+[[User blog:Mainphramephreak/Recent updates and moves|Just letting you know]] almost all of the pages have been moved. There are two that I need to figure out. Something about a spam filter. Should be cleared up sometime today. All of the links should be cleared up soon, as well. Also, I've given some thought about a policy on the new namespace, but nothing in writing just yet. Any thoughts on that? I'm also going to go through all of the pages in the new namespace and try to clean them up a bit. ---- {{User:Mainphramephreak/Sig/Subst}} 09:53, October 18, 2012 (UTC)
+
+== Typos and redirects ==
+
+Thanks for correcting those typos. I shouldn't edit right when I get up. Also, I saw what you did with the [[Emarin]] page. We have [[:Category:Redirects|quite a few]] redirects. I seem to remember somewhere here that most redirects were fine. Are we still going that direction, or did I miss the reason behind this one? ---- {{User:Mainphramephreak/Sig/Subst}} 03:02, October 10, 2012 (UTC)
+:I'm only worried about this one because on some pages [[Emarin]] can actually be one person, and on others it's another. Usually it's totally clear when you've got two different people, but the brother is actually being impersonated here. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 03:19, October 10, 2012 (UTC)
+
+== Display title changes ==
+
+One of the recent updates to the wiki software now allows us to change the title of a page. Before this update, we could only change the capitalization of the first letter (see [[al'Thor]], [[al'Vere]], ect). Now, we can italicize. I've gone through and changed a lot of the pages (see ''[[saidin]]''). I think I got them all. I'm trying to look into being able to change the title completly, but it hasn't worked so far. I was thinking of possibly making the titles of the chapter pages show the name of the chapter instead of just the subpage. Any thoughts? ---- {{User:Mainphramephreak/Sig/Subst}} 09:41, November 1, 2012 (UTC)
+
+Update: The new {{tl|DISPLAYTITLE}} works. It will work in all namespaces and it will be able to fully alter the display title. I'll go through and change the category pages. One of the guys on the community wiki suggested that we just remove the parent pagename from the chapter summaries (i.e. "Chapter 1" vs. The Eye of the World/Chapter 1) instead of putting the chapter name there to avoid confusion. I think that, because we have the [[:Category:Chapter redirects|chapter redirects]] and most of the links are mainly in the sidebar templates, we should be fine. Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}} 07:06, November 2, 2012 (UTC)
+:Let's try it with a book or two, and see what we think for a while. I'm dubious, because of things like the chapter(s) called "Saidin" and the article on ''[[saidin]]. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:55, November 8, 2012 (UTC)
+
+So, ''[[The Eye of the World]]'' has been converted. I also was able to kind of have the best of both worlds. I was able to put the regular page name ("The Eye of the World/Prologue") under the title of the chapter and make it a bit smaller. This way, we have both the title and page name. This book's chapter titles also gives us a few titles that are the same as other articles, i.e. Dragonmount, Winternight, The Stag and Lion, Wisdom, Wolfbrother, ect. We also have one of the longer chapter titles (''[[There is Neither Beginning Nor End]]'') and it doesn't change anything or wrap around. Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}} 12:19, November 14, 2012 (UTC)
+:Looks great; nice work! Might add a bit more white space above the subtitle, though. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 19:39, November 14, 2012 (UTC)
+[[The Eye of the World/Prologue|This look better?]] ---- {{User:Mainphramephreak/Sig/Subst}} 07:09, November 15, 2012 (UTC)
+:Aye! -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 04:12, November 16, 2012 (UTC)
+TEoTW has been white spaced. Do we want to let this sit for a while to see what we think, or do we want to go the whole nine yards? ---- {{User:Mainphramephreak/Sig/Subst}} 07:39, November 16, 2012 (UTC)
+::I think it looks good enopugh to proceed. Forgive my ignorance but I was looking through your contribs and can't find where this whitespace is controlled?? Light, but I'm out of practice... -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:00, November 16, 2012 (UTC)
+It is the double <nowiki><br /></nowiki>. They're forced line breaks in html. I was just glad that they worked with the template. :) ---- {{User:Mainphramephreak/Sig/Subst}} 01:09, November 17, 2012 (UTC)
+
+Another thing about these changes. Do we want to hide the backlink at the top of the subpages? ---- {{User:Mainphramephreak/Sig/Subst}} 01:30, November 22, 2012 (UTC)
+
+== Disambiguation pages ==
+
+So, the chapter summary display title changes are going good. Something else I wanted to ask you though. We have [[:Category:Disambiguation|these pages]]. Some of them get away from the "normal" type of disambiguation that is defined at Wikipedia and on other wikis. In going through those last week, and in going through the chapters, I've found about sixty more that could be added. Five of those I would have to check again, but as for the rest of them, they are keeping in the same vein as the rest that we have. Most of them would actually be more [[:Category:Chapter disambiguations|chapter disambiguations]] than regular ones. I know that this might seem to be a lot. Also, a number of the target pages might have two or three different hatlinks, along the lines of the [[Winespring Water]] page.
+
+I think, in our own little corner of the universe, whatever we define as disambiguation is fine, whether that's the traditional route or more expanded, like what we already have. I'm all in favor of them, but I wanted to get a second opinion. Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}} 09:50, November 21, 2012 (UTC)
+:I'm generally a fan of the expanded definition - I'm responsible for many of the already existing pages. I think our usage is fine and recommend going forward with the other sixty. It may also make automating link-fixes later, easier... (checking to see if a page is linking to a disambiguation page). -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:28, November 26, 2012 (UTC)
+
+Hello again. Need another opinion. On [[Mountain]] and [[Road]], I didn't list each individual mountain and road, because we have category pages for that. However, should each page be linked back to the disambiguation page? Also, what about category pages? Should they get disambiguation links? I would say yes to both. Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}}
+: Others > Category:Mountains seems plenty clear to me after a few seconds' scan. Are you asking if [[Illian Road]] should also link to the [[Road]] page, or if [[Road]] should list [[Illian Road]] individually? if the former, yes. If the latter, no, as it needlessly duplicates the category work.  -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:34, December 3, 2012 (UTC)
+
+== Wikipedia links and templates ==
+
+Hello. In going through the pages, I have noticed that there are some pages that link to Wikipedia using the {{tl|Wikipedia}} template. Is there a reason for those anymore? I think that the wiki can "stand on its own," so to speak. Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}} 12:48, December 6, 2012 (UTC)
+
+== Character alphabetizing ==
+
+[[:Category talk:People|Just to let you know]], I was able to get a work-around so that we can have both. Let me know if you have any questions. ---- {{User:Mainphramephreak/Sig/Subst}} 05:47, December 20, 2012 (UTC)
+
+==[[Pillow friends]]==
+Noticed you made this page in 2005. Do you think it could be possibly to have a [[:Category:Lesbians]] for consolidating character pages for those who have had 'pillow friend' or otherwise relationships described in the books? It extends beyond Aes Sedai into the Maidens of the Spear/Sword as well and could be interesting to do a head count. I don't mean for the category to describe exclusive homosexual attraction (or even necessarily preference) just that there is confirmed and/or alleged history of behaviour or thought for them. [[User talk:Tycio|+]]Y[[Special:Contributions/Tycio|c]] 15:08, June 30, 2013 (UTC)
+
+== editing restriction ==
+
+Hi Nae'blis,
+
+are you still active on this wiki? I'd like to ask an admin to restrict editing of this wiki to only registered users. It's a security concern. Could you help me in that?
+
+Thanks in advance, and Happy New Year!
+
+Best,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 20:29, January 1, 2019 (UTC)

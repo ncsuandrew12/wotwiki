@@ -1,0 +1,18 @@
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Taraboner
+| occupation=Merchant
+| gender=Female
+| appeared={{kod|11}}
+| lastappeared={{kod|11}}
+| living=kod
+}}
+Mistress '''Alstaing''' is a Taraboner merchant. 
+
+==Activities==
+Mistress Alstaing played dice with [[Mat Cauthon]], and was also interested in purchasing lacquerware from Camrin and Kostelle.{{ref/book|11|11}}
+
+{{notes}}
+{{short}}

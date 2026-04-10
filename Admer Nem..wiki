@@ -1,0 +1,28 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Farmer
+| gender=Male
+| build=Stout
+| hair=Lank and thinning
+| appeared={{Tfoh|1}}
+| lastappeared={{tfoh|1}}
+| living=tfoh
+}}
+'''Admer Nem''' is a farmer who lives in [[Kore Springs]]. He is married to [[Maigan Nem|Maigan]].
+
+==Appearance==
+He is a stout man with lank and thinning hair.
+
+==Activities==
+When [[Siuan Sanche]], [[Leane Sharif]], [[Min Farshaw]], and [[Logain Ablar]] are traveling from [[Tar Valon]] to [[Salidar]], they spend a night in Master Nem's barn. They are found before dawn by Admer. During the argument and confusion, a lantern fell which caused the barn to burn to the ground, and some of the livestock were killed. Logain stole a purse belonging to the Nems and gave Admer a bump on the head.{{ref/book|5|1}} When Admer gives his account of the night's happenings, he embellishes the story, making Logain out to be a foot taller and turning the mere bump on his head into a longer fight in which Admer was holding his own. 
+
+[[Gareth Bryne]], then lord of Kore Springs, gives Admer and his family gold to rebuild the barn and replace the livestock, gold to replace what was stolen in the purse, and a silver mark for the bump on his head. Admer tries to complain about the silver mark, but Bryne cuts him off, saying that ''"Maigan has given you worse for drinking too much."'' All of the amounts are supervised by [[Caralin]], Lord Bryne's retainer, from whom Admer tries to extort more than his fair share.
+
+Bryne, in conversation with Caralin, states that he felt he had good reason to not follow the law and put Siuan, Leane and Min under Nem's charge. He implies that Admer, and his male kin, could be expected to sexually assault any pretty young women placed under his authority. Meanwhile, his wife and female kin would be just as likely to simply murder those same women.
+
+{{notes}}
+{{DEFAULTSORT:Nem, Admer}}<references />
+{{DEFAULTSORT:Nem, Admer}}

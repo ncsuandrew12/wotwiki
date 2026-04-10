@@ -1,0 +1,20 @@
+{| width=85% align=center class="expansion" style="background: #2B3856; border: 1px solid #aaa; margin-bottom: 3px;"
+| style="padding-right: 4px; padding-left: 4px;" rowspan=4| [[Image:Wheel-icon.svg|100px]]
+|align=center|<big>'''{{PAGENAME}}, you are summoned.'''</big>
+|-
+|To better the wiki, your input is requested at '''[[{{{1}}}]]'''. Please join the discussion and voice your opinion or provide any information that would help.
+|-
+|—''"Delay not in your coming."'' - Anaiya Sedai
+|-
+|align=right|<small>Message left by {{user|{{{2}}}}}</small>
+|}<noinclude>==Usage==
+This template is used to ask a contributor to go to a particular talk page to join a discussion.
+
+==Parameters==
+The template has two parameters that must be used. The first parameter is the talk page. Be sure to include "Talk" in the parameter. The second parameter is the name of the user leaving the message.
+
+<nowiki>{{Request|Talk:A beginning|Mainphramephreak}}</nowiki> produces:
+
+{{request|Talk:A beginning|Mainphramephreak}}
+</noinclude><noinclude>
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

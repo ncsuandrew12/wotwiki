@@ -1,0 +1,25 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| ewot=Dorile
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| build=Slender
+| status=Alive
+| appeared={{acos|13}}
+| lastappeared={{cot|15}}
+| living=cot
+}}
+{{dablink|For other uses of the word "feather," see [[Feather]].}}
+'''Dorile din Eiran Long Feather''' is a [[Sea Folk]] [[Windfinder]] on ''[[Windrunner]]''. 
+
+== Appearance ==
+She is slender and handsome. She has four rings in each ear, with one of them being connected to her nose and only a few medallions along this chain.
+
+== Activities ==
+She is present when [[Nynaeve al'Meara]] and [[Elayne Trakand]] come aboard ''Windrunner'' and when they bargain with [[Nesta din Reas Two Moons]] over the [[Bowl of the Winds]].
+
+{{DEFAULTSORT:Eiran Long Feather, Dorile din}}
+[[Category:Channelers]]

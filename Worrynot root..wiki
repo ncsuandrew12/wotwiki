@@ -1,0 +1,5 @@
+'''Worrynot root''' is an [[herbs|herb]] that can be found in the [[Two Rivers]] region.{{ref/book|3|10}} It is a common remedy for fever.{{ref/book|3|10}}{{ref|{{twotc}}, worrynot root}}
+
+{{notes}}
+{{Short}}
+[[Category:Herbs and Medicines]]

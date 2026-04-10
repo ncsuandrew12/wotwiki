@@ -1,0 +1,33 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=The Kin
+| build=Plump
+| hair=Dark, touches of white
+| status=Alive
+| appeared={{kod|32}}
+| mentioned={{cot|14}}
+| lastappeared={{kod|32}}
+| lastmentioned={{tom|31}}
+| living=tom
+}}'''Julanya Fote''' is one of the [[Kin]].
+
+== Appearance ==
+She is plump and pretty with touches of white in her dark hair.
+
+==Strength and Abilities==
+In "The Wheel of Time Companion" her level of strength is described as {{opsl|22}}. In the same entry it is stated that she could make a gateway just large enough to pass through. Usually a strength as {{opsl|22}} is more than enough to open suitable gateways to [[Travel]] (in fact the minimum strength required is usually around level {{opsl|28}}) so maybe Julanya is lacking more in [[Talent]] than in strength.
+
+== Activities ==
+Due to ability to [[Travel]], she is sent to report on what the [[Borderlands]] army is doing. She is then told to watch and report on any movement the neutral [[High Seat]]s armies may make.
+
+She [[Travel]]s back to [[Caemlyn]] to report to [[Birgitte Silverbow]] that the army is moving towards the city. She is sent back to their camp to work as a laundress.
+
+Julanya helps douse fires caused by the ''[[Gholam]]'' attack on [[Matrim Cauthon]] back in [[Caemlyn]].
+
+{{DEFAULTSORT:Fote, Julanya}}
+[[Category:Farm Group]]
+[[Category:Channelers]]
+[[Category:Novices]]

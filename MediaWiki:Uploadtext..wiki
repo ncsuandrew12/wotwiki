@@ -1,0 +1,49 @@
+Use the form below to upload new files.<br />
+<big><center><u>'''All uploads must comply with {{SITENAME}}'s [[Help:Images#Uploads|image use policy]] and [[Wotwiki:List of common misspellings|Common Mispellings]].'''</u></center></big>
+<div style="border: 1px solid grey; background: #222222; padding: 10px 30px; margin: 0 auto;">
+<big>'''Note''': Your file <span style="color: red; font-weight: bold">may be deleted</span> unless you provide the following information about your upload:</big>
+#The '''License''' type
+#*Creative Commons, GFDL, Public Domain, Public Domain Self, Fairuse
+#The '''Image''' Type
+#*Character, Chapter Art, Cover, Fan Art, Item, Logo, Main Book Cover, Map, Miscellaneous, Movie Posters, Movie Screenshots, User, Video Game Screenshots, CCG
+#The '''source''' of the file: 
+#*This means the specific name of the medium or the web address where the image was found.
+#*{{SITENAME}} does not allow non-canon images to be used in the main namespace.
+#A thorough description of the content.
+
+
+<center><big>'''Do not upload content with false descriptions, sources, or copyright tags. The image will be deleted and you will be blocked.'''</big></center>
+
+{| style="border: 3px solid grey; background: #444444;" width="100%"
+| align="center" | Unused images are deleted weekly. For free image hosting, try [http://imageshack.us/ ImageShack], [http://photobucket.com/ PhotoBucket], or a similar provider. Abuse of {{SITENAME}}'s upload function for personal use will result in a temporary block. <br /> 
+Before uploading images for your personal page, refer to the [[Help:Images#Uploads|user image policy]].<br />
+Please remember that your user page is not your primary contribution to this wiki, and {{SITENAME}} is not a free host or webpage provider.
+|}
+
+<center>'''Refer to the [[project:Image use policy|image use policy]] for additional warnings regarding prohibited upload types!'''</center>
+
+{| width="100%" style="text-align:center; border: 3px solid orange; background-color:#444444; margin-top:0.5em;"
+|-
+| align="center" | Please choose a descriptive title for the image '''before''' uploading it, since images cannot be moved or renamed in the same manner as regular pages.
+|}
+</div>
+
+'''Copy and paste the following code into the "Summary" field below and fill in the correct information to properly source your image:'''
+<pre>{{Image
+| License                 = OPTIONS : Creative Commons, GFDL, Public Domain, Public Domain Self, Fairuse 
+| ImageType1              = OPTIONS : Character, Chapter Art, Fan Art, Item, Map, Miscellaneous, Movie Posters, Movie Screenshots, 
+                                      User, Logo, Video Game Screenshots, CCG
+| ImageType2              = SAME AS IMAGETYPE1 (NOT REQUIRED)
+| ImageType3              = SAME AS IMAGETYPE1 (NOT REQUIRED)
+| Description             = BRIEF DESCRIPTION / SUMMARY OF IMAGE
+
+| Source                  = SOURCE WHERE IMAGE WAS OBTAINED. (EITHER OFFLINE OR ONLINE)
+| Artist                  = NAME OF ARTIST (LEAVE "Artist =" IN TEMPLATE IF NO ARTIST IS KNOWN)
+}}</pre>
+
+
+<div id="skipthatstuff"></div>
+[[Image:Stop hand.png|Stop!]] '''''<u>If you just skipped past everything above to get to the part where you upload the file, your upload will probably be deleted!</u>'''''
+
+<center><small>Special thanks to [[w:c:Wookiepedia|Wookiepedia]] for creating the page from which this was adapted.</small></center>
+----

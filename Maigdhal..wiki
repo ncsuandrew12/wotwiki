@@ -1,0 +1,8 @@
+{| align="right"
+|{{Wotmonth|Maigdhal}}
+|}
+'''Maigdhal''' is the ninth month in the [[Farede calendar]]. In most years, it is equivalent to the real world period from [[August]] [[August 4|4]] to [[August]] [[August 31|31]].  [[Tandar]] occurs on the 9th, and [[Low Chasaline]] on the 18th.
+
+{{farede}}
+{{Short}}
+[[Category:Calendars]]

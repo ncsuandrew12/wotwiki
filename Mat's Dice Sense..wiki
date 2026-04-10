@@ -1,0 +1,15 @@
+{{stub}}
+{{Under construction}}
+
+'''Mat's dice sense''' is the ability of [[Mat Cauthon]] to seemingly 'sense' the onset of important decisions or events soon to occur. This sense manifests as the sensation of dice "rolling," "tumbling," "bouncing," or otherwise rattling around in Mat's head. It has frequently helped him to identify important aspects of his life and act accordingly, perhaps most notably during his successful courtship of [[Tuon Athaem Kore Paendrag|Tuon]].
+
+{{WotQ|Dice in Mat's Head}} <!-- Some of the quotes are massive, so keep this after the intro paragraph. -->
+
+==Examples==
+
+<!-- TODO: Enumerate each "instance" of dice sense and tag all relevant quotes for each instance in the DB. -->
+<!-- TODO: Make a subsection for each instance and add a quote invocation under each, then delete this invocation -->
+{{#invoke:WotQ|wot_quotes|tags=Dice in Mat's Head}}
+
+{{notes}}
+[[Category:Dice]]

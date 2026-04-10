@@ -1,0 +1,21 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Alive
+| nationality=Aiel
+| clan=Shaido
+| sept=Unknown sept
+| society=Far Dareis Mai
+| occupation=Gai'shain
+| gender=Female
+| appeared={{loc|24}}
+| lastappeared={{loc|25}}
+| living=loc
+}}
+'''Rodera''' is a [[Shaido]] [[Aiel]]. Before being taken ''[[gai'shain]]'' after the battle with [[Couladin]], she was ''[[Far Dareis Mai]]''.{{ref/book|5|44}}
+
+==Activites==
+Rodera is the ''gai'shain'' who serves tea to [[Berelain sur Paendrag Paeron]], [[Amys]], [[Bair]], and [[Sorilea]].{{ref/book|6|24}} She, along with [[Cowinde]] and [[Doilan]], serve breakfast in Amys' tent to the [[Wise Ones]].{{ref/book|6|25}}
+
+{{notes}}
+{{short}}

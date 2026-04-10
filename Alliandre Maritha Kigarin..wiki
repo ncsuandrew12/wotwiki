@@ -1,0 +1,73 @@
+{{ character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| ewot=Alliandre
+| birth={{ne|972}}
+| status=Alive
+| nationality=Ghealdanin
+| occupation=Queen
+| rank=Queen
+| title=Blessed of the Light, [[Defender of Garen's Wall]], Queen of [[Ghealdan]]
+| affiliation=Perrin Aybara
+| gender=Female
+| height=Short
+| hair=Dark, long
+| appeared={{Tfoh|39}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Alliandre Maritha Kigarin''' is [[Queen]] of [[Ghealdan]], Blessed of the [[Light]], [[Defender of Garen's Wall]].{{ref/book|8|10}}
+
+== Appearance and personality ==
+She has long dark hair.{{ref/book|9|3}}{{ref/book|13|34}}{{ref/book|14|10}}{{ref/book|c|Alliandre Maritha Kigarin|comp}} She is about 5'4" tall.{{ref||comp}}
+
+While not timid, she is cognizant of her relatively weak position, leading her to pragmatic relationships with more powerful figures like the [[Prophet]]{{ref/book|5|39}} and [[Perrin Aybara]].{{ref/book|8|10}}
+
+Her personal banner consists of a dark golden wolfhound, with a black crest of hair down its back, running across a field of red.{{ref||comp}}
+
+== Activities ==
+=== Made queen ===
+A woman in her late twenties (born in {{ne|972}}), Alliandre found herself on the throne rather suddenly after her predecessor "abdicated" to marry a commoner. In fact, she was the fourth to sit on the throne in a matter of months as a result of the chaos caused by the [[Prophet]], [[Masema Dagar]].{{ref/book|5|39}}
+
+Whereas her predecessors either ignored or confronted Masema, Alliandre herself survived by appeasing him and playing along as best she could.{{ref/book|5|39}} This was why the [[Crown High Council]] let her stay on the throne - because she was able to handle Masema reasonably well and keep his depredations to a minimum.
+
+She later sent a somewhat cryptic letter to [[Rand al'Thor]] indicating her support for him as the [[Dragon Reborn]], but also implying that she could not do much while she had the [[Whitecloaks]] and Masema and his [[Dragonsworn]] so close by.{{ref/book|6|28}}
+
+=== Fealty to Perrin ===
+[[Perrin Aybara]] was dispatched by Rand in secret to Ghealdan to make contact with Alliandre in response to her letter and to determine what she wanted. When his party arrived at the town of [[Bethal]], Perrin sent [[Berelain]] and her [[Aes Sedai]] advisor, [[Annoura]], to talk with Alliandre. Alliandre herself came to the camp in disguise to meet directly with Perrin. She did this to gain a better understanding of Rand as the Dragon Reborn, explaining that much could be learned of a man by who he chooses as a representative.{{ref/book|8|10}}
+
+During this meeting, she pledged an oath of fealty to Perrin and, by association, to Rand himself, to save Ghealdan.{{ref/book|8|10}} She informed Perrin that Masema was in [[Abila]], confirming [[Balwer]]'s earlier report.{{ref/book|8|9}}
+
+=== Captured by Shaido ===
+Alliandre was captured and made ''[[gai'shain]]'' by a group of [[Shaido]] [[Aiel]] along with [[Faile|Faile t'Aybara]] and Faile's other associates. She was asked to spy on [[Sevanna]] by [[Therava]].{{verify}}
+
+Alliandre was beaten frequently for failing to please Sevanna.{{ref/book|11|5}} She was probably also assaulted at least once.{{ref/book|11|5}} The ''[[Mera'din]]'' [[Kinhuin]] became Alliandre's protector.{{ref/book|11|5}}{{ref/book|12|21}}{{ref||comp}} By the time [[Alvon]] obtained the [[binding rod]], Alliandre was near her breaking point.{{ref/book|11|5}}
+
+She helped tie up [[Dairaine Saighan]] so the latter couldn't tell Sevanna of Faile's planned escape. She accompanied the rest of Faile's party into the town of [[Malden]], where they were betrayed by [[Galina Casban]] and left for dead in the ruins of a burnt house. They were rescued by their ''Mera'din'' protectors and a number of those who had sworn oaths of fealty to Faile. Alliandre was finally rescued from the Shaido along with Faile and others of her faction when Perrin found them during the [[Battle of Malden]]. After the battle ended, Perrin informed [[Tylee Khirgan]] that Ghealdan was under his protection.{{ref/book|11|30}}
+
+After the [[Battle of Malden]], she met with [[Arrela Shiego]], Faile, and [[Lacile Aldorwin]]. The four woman held a funeral ceremony for the Aiel men and woman who protected them while they were in the Shaido camp and were ultimately killed by Faile, Arrela, and Lacile.{{ref/book|11|30}}{{ref/book|12|21}}
+
+=== Confrontation with the Whitecloaks ===
+She attended the meeting where Perrin decided to send a scouting force to [[Cairhien]] to start looking for Rand.{{ref/book|13|6}} She attended the second parley with [[Lord Captain Commander]] [[Galadedrid Damodred]].{{ref/book|13|26}} She was walking through the camp when the [[bubble of evil]] caused weapons to attack their owners. She was rescued by [[Maidens of the Spear]] who knock the weapons away with stones and then dirt.{{ref/book|13|29}} She was present at Perrin's trial.{{ref/book|13|34}} She was present when Perrin forged ''[[Mah'alleinir]]'' and declared his acceptance of leadership to his followers.{{ref/book|13|40}}
+
+Perrin sent Alliandre, Faile, and Berelain to the back of his army when his force attacked the [[Shadowspawn]] attempting to ambush the [[Whitecloaks]].{{ref/book|13|40}} After the battle, she helped Berelain and Faile cut bandages for the wounded, though she hid away a blue silk shirt she thought could be put to "better" use.{{ref/book|13|43}} She was fascinated by the changing relationship between Faile and Berelain.{{ref/book|13|43}}
+
+=== Alliance ===
+
+Ghealdan was included in the alliance between Perrin's [[Two Rivers]] and [[Elayne Trakand|Elayne Trakand's]] [[Andor]] as a result of Alliandre swearing fealty to Perrin.{{ref/book|13|47}}
+
+She [[Traveling|Traveled]] with Perrin and the rest of his huge force to the [[Field of Merrilor]] to prepare for the [[Last Battle]].
+
+Alliandre was one of the many rulers who was present for the deliberations concerning the [[Dragon's Peace]]. She signed it along with all the other rulers.{{ref/book|14|5}}{{ref/book|14|6}} She suggested the [[Borderlands|Borderlander monarchs]] as possible overall leaders of the allied forces in the Last Battle.{{ref/book|14|6}} Alliandre insisted on being with her men when they engage the Trolloc army at [[Braem Wood]].{{ref/book|14|10}}
+
+=== The Last Battle ===
+Alliandre joined her commander, [[Gerard Arganda]], in the fight near the ruins along the [[River Mora]], despite his reservations. She also joined her army when they moved to attack up the side of [[Field of Merrilor|Polov Heights]], as well as during their defense of the heights after they took it. She offered encouragement to her soldiers before a major Trolloc push up the heights.{{ref/book|14|37}}
+
+{{Notes}}
+{{Major Characters}}
+{{DEFAULTSORT:Kigarin, Alliandre Maritha}}
+
+[[es:Alliandre Kigarin]]
+[[Category:Gai'shain]]
+[[Category:POV character]]
+[[Category:Shaido]]

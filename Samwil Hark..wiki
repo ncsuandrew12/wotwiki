@@ -1,0 +1,28 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| affiliation=House Trakand
+| height=Average
+| weight=Average
+| eyes=Brown
+| hair=Brown
+| occupation=Cutpurse
+| nationality=Andoran
+| gender=Male
+| status=Alive
+| appeared={{kod|16}}
+| lastappeared={{kod|32}}
+| lastmentioned={{tom|11}}
+| living=tom
+}}
+{{for|the inventor at the [[School of Cairhien]]|Maryl Harke}}
+'''Samwil Hark''' is a cutpurse in [[Caemlyn]].  
+
+== Appearance ==
+He is average weight and height and has brown hair and eyes. He has an ordinary looking face.
+
+== Activities ==
+He is one of the most skilled and successful cut-purses in Caemlyn, cutting thousands over the course of at least 20 years. He keeps the cut purses in a chest as trophies of his conquests. When he was turned in by a rival, rather than having him imprisoned [[Elayne Trakand]] asked him to follow [[Daved Hanlon|Doilin Mellar]].  Hark led Elayne, some [[Aes Sedai]] and multiple queens guards to arrest Mellar.
+
+{{DEFAULTSORT:Hark, Samwil}}
+[[Category:Eyes-and-ears]]

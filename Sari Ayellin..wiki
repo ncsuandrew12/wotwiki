@@ -1,0 +1,20 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| status=Alive
+| mentioned={{teotw|16}}
+| lastmentioned={{teotw|16}}
+| living=teotw
+}}
+{{for|others with the same surname|Ayellin}}
+'''Sari Ayellin''' is a [[Two Rivers]] resident.
+
+== Activities ==
+She tries to capture the heart of her mothers partner, after her father dies. She finally settled down when both Sari and her mother married.{{ref/book|5|16}}
+
+{{notes}}
+
+{{DEFAULTSORT:Ayellin, Sari}}

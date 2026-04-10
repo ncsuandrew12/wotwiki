@@ -1,0 +1,23 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Soldier
+| affiliation=Younglings
+| gender=Male
+| appeared={{Loc|p}}
+| lastappeared={{tgs|13}}
+| living=tgs
+}}
+'''Hal Moir''' is one of [[Gawyn Trakand]]s [[Younglings]].
+
+== Activities ==
+He is with Gawyn when they are sent to act as escort for a group of [[Aes Sedai]] that make an alliance with the [[Shaido]].
+
+He survives [[Dumai's Wells]] and retreats to the village of [[Dorlan]].
+
+{{short}}
+{{DEFAULTSORT:Moir, Hal}}
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]

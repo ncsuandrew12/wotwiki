@@ -1,0 +1,5 @@
+<blockquote class="pull-quote">
+	<div class="pull-quote__text"><span style=\"line-height: 130%%;\">“</span>{{{text|Text...}}}<span style=\"line-height: 130%%;\">”</span>
+	<div class="pull-quote__attrib" style="margin-left:25px;"><cite>—{{{speaker|speaker}}}{{#if:{{{receiver|}}}|, to {{{receiver|}}}}}{{#if:{{{attribution|}}}|, {{{attribution|}}}}}{{#if:{{{source|}}}|, {{{source|}}}}}</cite></div></div>
+</blockquote>
+<noinclude>{{delete|Unused.}}{{Documentation}}</noinclude>

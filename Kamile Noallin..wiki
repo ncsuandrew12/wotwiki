@@ -1,0 +1,23 @@
+{{character 
+| image=KandorFlag.png
+| imagesize=250px
+| ewot=Noallin
+| status=Alive
+| nationality=Kandori
+| occupation=Banker
+| gender=Female
+| build=Slim
+| hair=Graying
+| appeared={{ns|24}}
+| lastappeared={{ns|24}}
+| living=ns
+}}
+'''Kamile Noallin''' is a banker in [[Chachin]]. 
+
+==Appearance==
+Mistress Noallin is a slim and lovely woman. She is in her middle years. Her hair is graying and worn in four long braids.
+
+==Activities==
+In {{ne|979}} she had a reputation for reliability and honesty. [[Moiraine Damodred]] used her services to gain the funds needed to enter [[Kandor]]i society and investigate the [[Aesdaishar Palace]] during her search for the [[Dragon Reborn]]. Noallin's place of work was a small, fortified building well inside the city walls.
+
+{{DEFAULTSORT:Noallin, Kamile}}

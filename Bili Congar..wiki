@@ -1,0 +1,30 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| appeared={{teotw|r}}
+| lastappeared={{tsr|56}}
+| living=tsr
+| status=Alive
+}}
+{{dablink|For others with the same first name, see [[Bili]]. For others with the same surname, see [[The Congars and the Coplins]].}}
+'''Bili Congar''' is a farmer from [[Emond's Field]] in the [[Two Rivers]].{{ref/book|1|3}}
+
+== Activities ==
+He is a grumpy, troublesome man who drinks a lot{{ref/book|4|40}}{{ref/book|4|44}}{{ref/book|4|45}}{{ref/book|4|56}} and looks for the worst in everyone. His family, along with the related [[Coplin|Coplins]], are known amongst the villagers of the Two Rivers for being sour malcontents who are always involved in trouble and are quick to complain.
+
+After the first [[Trolloc]] attack on Emond's Field, he, along with his cousins [[Hari Coplin]] and [[Darl Coplin]], confronted [[Moiraine Damodred]] at the front of a crowd, demanding she leave at once. Bili withdrew into the crowd when [[Bran al'Vere]] confronted the crowd with [[Haral Luhhan]]. After Moiraine told the crowd about the history of [[Manetheren]], the crowd dispersed, with Bili disappearing even quicker than his cousins.{{ref/book|1|9}}
+
+He shot at a group of [[Tuatha'an]], somehow mistaking them for Trollocs.{{ref/book|4|45}}
+
+He helped defend Emond's Field against the invading Trollocs.{{ref/book|4|56}}
+
+== Beliefs ==
+
+[[Mat Cauthon]] told [[Rand al'Thor|Rand]] and [[Perrin Aybara|Perrin]] that Bili claimed [[Aes Sedai]], [[Darkfriends]], and the [[Dark One]] don't exist. Bili even [[Dark One#True name|named the Dark One]].{{ref/book|1|3}} However, it is likely that Bili does now believe in such things. Despite reaffirming that he still did not believe in the Dark One, Bili refused to name the Dark One after his fields - and only his fields - became infested with [[cutworm|cutworms]] and his household contracted [[yelloweye fever]].{{ref/book|1|3}} Moreover, Bili participated in the defense of Emond's Field against [[Shadowspawn]],{{ref/book|4|56}} during which [[Verin Mathwin]] and [[Alanna Mosvani]] channelled quite visibly.
+
+{{notes}}
+{{DEFAULTSORT:Congar, Bili}}
+{{Short}}

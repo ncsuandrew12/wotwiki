@@ -1,0 +1,76 @@
+'''''The Strike at Shayol Ghul''''' was a short piece written by [[Robert Jordan]] in 1996 to explain the events surrounding the imprisonment of the [[Dark One]] and the circumstances surrounding it.
+
+==Origins==
+From the foreword of the short piece, Robert Jordan explains:
+
+{{quote|Sometimes fans ask me whether I mean to write prequels to The Wheel of Time. While some requests are for books about The [[Trolloc Wars]] or the rise and fall of the High King, [[Artur Paendrag Tanreall|Artur Hawkwing]], or the life histories of various characters, the most frequent are for books about the [[Age of Legends|AOL]] and its end in the [[War of Power]], and the most often asked question is, I believe, "Why, when the greatest feats of the Age of Legends were done by men and women working together with the [[One Power]], was the final attack on [[Shayol Ghul]] carried out by men alone?" At present I do not intend to write any of those books, but I won't say that a story or two might not creep out eventually. I do not normally do short fiction. My editor claims that for me, a short story means fifty thousand words. As for the question, though...I hope that those fans (and the rest of you) will be satisfied for the time with what follows, a fictional bit of "non-fiction," a piece from an [[Age]] called the [[Third Age]] by some, an Age yet to come, an Age long past...|Robert Jordan on ''The Strike at Shayol Ghul.}}
+
+==Availability==
+Unfortunately, ''The Strike at Shayol Ghul'' is no longer available online via the [[Tor.com|Tor website]] where it had been previously hosted. It can now be found at [http://www.dragonmount.com/Books/Strike_at_Shayol_Ghul/index.php Dragonmount.com] and [https://library.tarvalon.net/index.php?title=The_Strike_at_Shayol_Ghul TarValon.net].
+
+Nevertheless, a version of this also appears in the illustrated guide, ''[[The World of Robert Jordan's The Wheel of Time]]''.<ref>''[[The World of Robert Jordan's The Wheel of Time]]'', Section 2, Chapter 4 ''The Fall into Shadow'' p.50-51</ref><ref>The same events are also described in the prose of ''[[The World of Robert Jordan's The Wheel of Time]]'' in Section 2, Chapter 8 ''The Breaking of the World'' p.113-118</ref> If you already read ''TWoRJTWoT'', you have probably already read ''Strike''.
+
+===Differences and additional facts===
+The two versions have a few differences. The [https://web.archive.org/web/19961203010044/http://www.tor.com/shayol.html first version] can be found in the Internet Archive (1996 posting, typos included), but what follows is a small summary of what is or is not included in the original ''Strike at Shayol Ghul'':
+
+====On the author====
+The author is listed as:
+
+[[Jorille Mondevin]],<br />
+[[Royal Historian]] to the Court of<br />
+Her Most Illuminated Majesty, [[Ethenielle Kirukon Materasu]],<br />
+By the Blessing of the Light,<br />
+Queen of [[Kandor]],<br />
+[[Protector of the Land]],<br />
+[[Shield of the North]],<br />
+[[High Seat]] of [[House Noramaga|House Materasu]].<br />
+
+Jorille Mondevin is almost certainly a [[Cairhienin]] name – later she is described as "Mistress Jorille Mondevin." It has been commented on that the Guide is written from the point of view of a [[Westlands]] scholar of the time, so it may be speculated that Mistress Jorille is the author (or one if a collection of authors) of the Guide too.
+
+The Queen of Kandor is currently called Ethenielle, but she is named in the Guide as Queen Ethenielle Cosaru Noramaga. The name Ethenielle Kirukon Materasu is also given as the name of the current Queen in ''[[The Wheel of Time Roleplaying Game]]''. Which is correct is unknown as it has not been verified in the series.
+
+====The origin of the documents====
+In the original version, the first 500 words are an introduction detailing on how the manuscript was found and a description of the fragmentary documents it was found with - 'of the two hundred and twelve surviving pages, the largest number of consecutive pages number six, and nowhere else more than two.'
+
+It is also described as:
+
+{{quote|...a partial copy of no less than a history of the world from the drilling of the [[Bore]] into the Dark One's Prison to the End of the [[Breaking of the World]] . The original apparently dated from early in the First Century [[AB#Toman|A.B.]]}}
+
+====On the Collapse====
+The next 350 words summarize the events of the [[Collapse]] and the [[War of the Shadow]], though this material is greatly expanded upon in the Guide. In ''The Strike at Shayol Ghul'' it is stated that:
+
+{{quote|We still cannot be certain how long passed between the creation of the Bore and the actual beginning of what would come to be called the War of the Shadow, yet plainly at least fifty years and possibly more than one hundred were marked by a rapid decline in the social order and an equally rapid increase in a thousand ills that previously had been either rare or entirely unknown.}}
+
+Compared with:
+
+{{quote|This period of increasingly dark chaos last approximately one hundred to one hundred and ten years after the drilling of the Bore and was referred to as "The Collapse."|{{bwb}}, Chapter 3}}
+
+Thus it would appear that some elements of ''The Strike at Shayol Ghul'' were revised before going into the Guide, for whatever reason. The "document" the account is meant to have been based on was a copy of an original written just after the end of the Breaking, so it would be feasible that someone who was alive during the Collapse, or who at least was only one generation away from it, would have written it. Given the supposed accuracy of the rest of the story, such a large margin of error in the length of the Collapse may have been corrected by Jordan.
+
+After the introductory sections of ''The Strike at Shayol Ghul'', both versions run almost exactly word for word, describing the opposing plans of [[Lews Therin Telamon]] using seven female and six male [[channelers]] to place [[cuendillar]] [[Seven Seals|seals]] on the Dark One's prison and [[Latra Posae Decume]]'s plan of using the [[Choedan Kal]] to stop the Dark One.
+
+====Efficacy of a barricade====
+''The Strike at Shayol Ghul'' does, however, describe reason why people disagreed with the erection of a barrier around Shayol Ghul:
+
+{{quote|...used together they would provide sufficient [[One Power|Power]] to drive the Shadow's forces back, to defeat them completely and erect a barrier around [[Shayol Ghul]] until a safe method of dealing with the Bore was assured.<br />Detractors pointed out that the Bore had enlarged since it was first drilled, and behind the barricade erected by the [[sa'angreal]] it would continue to grow, so that eventually the Dark One might free himself within the barrier. The barrier might well contain the Dark One when all he could do was reach through the relatively small Bore, but could it hold back the Dark One let loose?}}
+
+The reasons why a barrier around the Bore might not work is not discussed at all in the Guide.
+
+====Notes by the author====
+''The Strike at Shayol Ghul'' contains footnotes written by the author. Some of these are woven into the text of the relevant section of the Guide. Summarized, they are:
+
+*If there had been no [[Fateful Concord]] and women had gone to seal the Dark One along with men, then might ''[[saidar]]'' also have been [[taint]]ed?
+*The agents that Latra Posae sent in to smuggle the [[Access key|access ''ter'angreal'']] from territory held by the Shadow were all caught, though they did not betray the location of the ''ter'angreal''. This text is added to the main body in the Guide. Presumably they had been hidden, because it is mentioned that they became scattered throughout territories taken by the Shadow when the attempt failed.
+*Some notes on the waxing and waning of the "peace faction" that existed during the War of the Shadow. It also mentions that some of those that went to petition [[Forsaken]] ended up carrying out activities that aided the Shadow, sometimes without them even knowing they had carried these acts out. They had clearly been [[Compulsion|Compelled]]. This text is added to the main body in the Guide.
+*A note on Latra Posae's role during the Breaking and of her nickname: "Shadar Nor" means "Cutter of the Shadow" or "Slicer of the Shadow" in the [[Old Tongue]]. This information is given in the section on the Breaking of the World in the Guide.
+
+====Closing text====
+The last few paragraphs are almost completely different, but yet almost exactly the same, in both versions. It recounts, in different words, the aftereffects of what happened when Lews Therin, the Hundred Companions and the non-channeling soldiers struck at Shayol Ghul and placed the Seals on the Dark One's prison successfully. It also describes how the Forsaken were trapped, the Dark One's backlash in the form of the Taint on ''[[saidin]]'' and the start of the Breaking of the world. ''The Strike at Shayol Ghul'' contains the addition that none of the non-channeling men or women that were part of the Strike lived to tell the tale. Presumably they were killed by the portion of male channelers that went insane instantly. ''The Strike at Shayol Ghul'' also ends with the lines:
+
+{{quote|The most suitable comment surely comes from what appears to be the introduction of the fragmentary manuscript. "Whoever read this, if any remain to read it, weep for us who have no more tears. Pray for us who are damned alive."}}
+
+{{books}}
+{{DISPLAYTITLE:''The Strike at Shayol Ghul''}}
+{{DEFAULTSORT:Strike at Shayol Ghyl, The}}
+[[es:El Ataque a Shayol Ghul]]
+[[Category:Books]]

@@ -1,0 +1,23 @@
+{{ character 
+| image=TarabonFlag.png
+| imagesize=250px
+| ewot=Tornay
+| death={{ne|1000}}
+| nationality=Taraboner
+| affiliation=Rodel Ituralde
+| gender=Male
+| weight=Stocky
+| status=Dead
+| appeared={{Kod|p}}
+| lastappeared={{kod|p}}
+| living=kod
+}}
+'''Tornay Lanasiet''' is a [[Dragonsworn]] from [[Tarabon]].
+
+== Appearance ==
+He is stocky.
+
+== Activities ==
+He is part of [[Rodel Ituralde]]'s force that attacked a [[Seanchan]] camp near the village of [[Serana]]. Lanasiet and his men continued to chase the fleeing Seanchan after Ituralde gave the command to halt.
+
+{{DEFAULTSORT:Lanasiet, Tornay}}

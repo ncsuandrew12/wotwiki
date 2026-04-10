@@ -1,0 +1,31 @@
+{{ character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Arafellin
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| build=Slender
+| height=Tall
+| status=Alive
+| appeared={{kod|p}}
+| lastappeared={{kod|p}}
+| living=kod
+}}'''Ramesa''' is an [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Ramesa}}
+
+==Appearance==
+She is tall and slender. She is seen wearing silver bells embroidered onto her white dress, perhaps suggesting she is [[Arafellin]].
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+When [[Alviarin Freidhen]] was removed as [[Keeper of the Chronicles]], Alviarin heard [[Norine Dovarna]] address Ramesa with a scathing remark about Alviarin. Ramesa seemed to wonder why Norine was addressing her, since they were not friends.
+
+{{notes}}
+{{short}}
+
+[[es:Ramesa]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

@@ -1,0 +1,30 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Murandian
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| status=Alive
+| eyes=Pale
+| appeared={{cot|17}}
+| lastappeared={{cot|17}}
+| living=cot
+}}
+'''Letice Murow''' a [[novice]] in the [[Rebel Aes Sedai]] camp.
+ 
+==Appearance==
+She has pale eyes and is in her middle years.
+
+==History==
+She is from [[Murandy]]. 
+
+Egwene thinks that she once had a title and that her unblemished skin shows that she has never had to work outside in her life.
+
+==Activities==
+She and her sister both become novices in Murandy. She and her sister are placed in different novice families once they enroll. She has barely seen her since becoming a novice.  
+
+[[Leane Sharif]] tells her that her meeting with her sister will have to wait and orders her to hold onto [[Egwene al'Vere]]'s horse until a groom arrives. Egwene has a private word with Leane later and suggests that Letice should be allowed to see her sister.
+
+{{DEFAULTSORT:Murow, Letice}}
+[[Category:Rebel Aes Sedai]]

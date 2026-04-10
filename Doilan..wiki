@@ -1,0 +1,22 @@
+{{for|the alias of Daved Hanlon|Daved Hanlon{{!}}here}}
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Alive
+| nationality=Aiel
+| occupation=Gai'shain
+| gender=Male
+| clan=Shaido
+| sept=Unknown sept
+| society=Unknown society
+| appeared={{loc|25}}
+| lastappeared={{loc|25}}
+| living=loc
+}}
+'''Doilan''' is a [[Shaido]] [[Aiel]], taken ''[[gai'shain]]'' after the battle with [[Couladin]].{{ref/book|5|44}}
+
+==Activities==
+Doilan, along with [[Cowinde]] and [[Rodera]], serve breakfast in [[Amys]]' tent to the [[Wise One]]s.{{ref/book|6|25}}
+
+{{notes}}
+{{short}}

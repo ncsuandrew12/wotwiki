@@ -1,0 +1,27 @@
+{{character 
+| image=WoT325.jpg|thumb|Breyan Mandragoran from Wot comic
+| imagesize=200px
+| ewot=Breyan
+| status=Unknown
+| death=Presumably {{Ne|955}}
+| nationality=Malkieri
+| rank=Lady
+| title=Lady
+| gender=Female
+| mentioned={{Teotw|47}}
+| lastmentioned={{tgh|7}}
+}}{{for|others with the same surname|Mandragoran}}
+'''Breyan ti Maclain Mandragoran''' was the wife of [[Lain Mandragoran]], mother of Isam ([[Slayer]]) and aunt of [[Lan Mandragoran]] from lost [[Malkier]].{{ref|{{twotc}}, Breyan ti Malcain Mandragoran}}
+
+==History==
+Breyan was born to [[House Maclain]], and married into [[House Mandragoran]], the royal family, through her husband Lain, the younger brother of the king.{{ref|[[Origins of the Wheel of Time]], Revision 23 - Family Tree}}
+
+Being urged by [[Cowin Gemallan]] she dares her husband Lain to travel into the [[Blight]]. He accepts this and unfortunately perishes while he is there. This weakens Malkier and [[Trollocs]] strike and completely destroy Malkier. She flees with her son Isam into the Blight.
+
+Ultimately her fate is currently unknown.
+
+{{notes}}
+{{DEFAULTSORT:Mandragoran, Breyan}}
+
+[[es:Breyan Mandragoran]]
+[[Category:Nobility]]

@@ -1,0 +1,11 @@
+'''Shocklances''' are weapons that were used during the [[Age of Legends]].
+
+==Design==
+Due to the [[War of Power]], weapons needed to be created for battle. One of them was the shocklance. Almost nothing is known about the weapon. Due to the name, it seems that the weapon is a type of lance or rifle.
+
+==Mentions==
+[[Coumin]], one of the [[Da'shain Aiel]], found an old shocklance and used it to try to fight during the start of the [[Breaking of the World]].{{ref/book|4|26}} [[Sammael]] once wished to arm his troops with shocklances.{{ref/book|6|p}} [[Moridin]] has also been shown to have one in his possession.{{ref/book|13|5}}
+
+{{notes}}
+[[Category:Weapons]]
+[[Category:Special objects]]

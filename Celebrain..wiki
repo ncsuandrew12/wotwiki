@@ -1,0 +1,20 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=250px
+| occupation=Soldier
+| nationality=Unknown nationality
+| gender=Female
+| status=Unknown
+| appeared={{amol|37}}
+| lastappeared={{amol|37}}
+}}
+'''Celebrain''' is a woman who is placed in the army of Queen [[Elayne Trakand]] during the [[Last Battle]].{{ref/book|14|37}}
+
+== Activities ==
+When [[Demandred]] announces that he is hunting Elayne, [[Birgitte Silverbow|Birgitte Trahelion]] orders Celebrain to serve as Elayne's decoy, and has her raise a banner posing as Elayne and ride in the opposing direction. This is effectively a death sentence for Celebrain.{{ref/book|14|37}}
+
+==Trivia==
+*Celebrain is named after fan Per-Kristian Buer, who went by the username ''Celebrían'', the name of a character in ''The Lord of the Rings''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

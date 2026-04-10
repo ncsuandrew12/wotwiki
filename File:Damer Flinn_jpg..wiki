@@ -1,0 +1,9 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Fan Art
+| ImageType2              = Character
+| ImageType3              =
+| Description             = [[Damer Flinn]]
+| Source                  = [http://dmantz.deviantart.com/gallery/#/d33ncxp DeviantArt]
+| Artist                  = Daniel Mantz
+}}

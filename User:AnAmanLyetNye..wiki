@@ -1,0 +1,72 @@
+<templatestyles src="User:AnAmanLyetNye/user.css" />
+<div class="warning-banner">
+<span class="warning-message">This page is currently in progress.<br><sub>Some functions may not work as intended; some content may be obscured; not all information is up-to-date; [[Message Wall:AnAmanLyetNye|contact me]] for any clarifications or help.</sub></span>
+</div>
+<div class="welcome-msg"><span class="welcome-text"><choose uncached>
+<option>Hi</option>
+<option>Hey</option>
+<option>Hello</option>
+<option>Howdy</option>
+<option>Hello there</option>
+<option>Hi there</option>
+</choose> {{USERNAME|visitor}}, <choose uncached>
+<option>what's up?</option>
+<option>how's it going?</option>
+<option>welcome to my profile.</option>
+<option>welcome to my page.</option>
+<option>how are you?</option>
+<option>what's going on?</option>
+<option>how are you today?</option>
+</choose></span></div>
+<tabber>
+|-|Me=
+{{:w:Template:User:AnAmanLyetNye}}
+
+<!--
+Projects=
+== Active ==
+-->
+
+|-|Subpages =
+{{Special:PrefixIndex/User:AnAmanLyetNye/}}
+
+
+|-|Misc.=
+== Timeline ==
+* March, 2024: First contribution
+
+== Fandom Stars ==
+
+:''Main article:'' [[w:Help:Fandom Stars|Fandom Stars]]
+
+Fandom Stars is an official recognition program within the [[homepage:|Fandom]] community, highlighting users who go above and beyond in their involvement. This is given to individuals who contribute significantly to the community in various ways, such as improving content, providing guidance, or supporting fellow users. It’s about being part of a positive, helpful environment where we can all learn from one another.
+
+A Fandom Star is someone who:
+* Demonstrates strong community engagement by editing, creating, and improving pages.
+* Supports other users by offering advice, answering questions, and helping newcomers.
+* Works to maintain a respectful, collaborative, and enjoyable atmosphere on the platform.
+* Actively works to stop and report spam, vandalism, harassment, and any other [[homepage:terms-of-use|ToU]]-breaking activities.
+
+As a Fandom Star (and a person :)), I am happy to assist with:
+* '''Content-related questions''': Need help with editing, formatting, or content creation? I can guide you through the process.
+* '''Navigating Fandom features''': Unsure how to use certain Fandom tools or features? I can help clarify things.
+* '''Everything else''': Whether it’s understanding policies, finding resources, or seeking help with specific issues, feel free to reach out.
+
+''See Also:'' [[w:Help:Fandom Stars|main article]] and [[w:fandom-stars:Become A Fandom Star|Become A Fandom Star]] ([https://docs.google.com/forms/d/e/1FAIpQLSeLnCbGM0K26lwESXfi3XDCShqDCv7hzSurPcVdqJl362rAzw/viewform form])<!--
+--><!--
+--><!--
+== Music ==
+--><!--
+-->
+== Philosophies ==
+If you like to think philosophically or are interested in my philosophical thoughts, here's a list of the main philosophies I (do not believe in, mind you) think are interesting.
+* [[wikipedia:Existentialism]] - A philosophical movement focusing on individual freedom, choice, and the search for meaning in an often meaningless world.
+* [[wikipedia:Cultural relativism]] - The idea that moral codes and values are shaped by cultural context and should be understood relative to that context, rather than judged by external standards.
+* [[wikipedia:Moral relativism]] - The belief that morality is not universal, but rather varies between individuals or cultures, emphasizing that no single moral viewpoint is objectively superior or correct.
+* [[wikipedia:Pantheism]] - A religious belief that God or divinity is identical to the universe and nature, seeing all things as interconnected manifestations of the divine.
+* [[wikipedia:Panentheism]] - Similar to pantheism, but holds that while God is present in everything, God also transcends the universe.
+* [[wikipedia:Solipsism]] - A philosophical concept that suggests that only one's own mind and experiences can be known to exist with certainty.
+* [[wikipedia:Animism]] – The belief that all things—animals, plants, rocks, rivers, places—possess a spiritual essence or consciousness. Often found in indigenous and nature-based traditions, it emphasizes the living interconnectedness of the world and challenges the human-nature divide by attributing agency and meaning to non-human entities.
+** Merely very interesting.
+ 
+</tabber>

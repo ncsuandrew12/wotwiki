@@ -1,0 +1,5 @@
+<ul style='width:93.5%; border:solid 1px green; background-color:white; padding:20px;'>
+<li style="list-style:none;text-align:center;"><span style="color:black;">'''This user believes in keeping talk page conversations in one place. If you leave a comment here, expect a reply on this page.'''</span></li>
+{{User:Archduk3/template}}
+<li style="list-style:none;text-align:center;">[[User talk:Archduk3/Archive|(Archive)]]</li>
+</ul>

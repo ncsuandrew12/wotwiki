@@ -1,0 +1,28 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Murandian
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| build=Stocky
+| status=Alive
+| eyes=Mischievous, blue
+| appeared={{kod|24}}
+| lastappeared={{kod|24}}
+| living=kod
+}}'''Marah''' is a [[novice]] in the [[White Tower]]. She is from [[Murandy]].{{ref|{{twotc}}, Marah}}
+
+== Appearance ==
+She is stocky with mischievous blue eyes.
+
+She is no more than 15 or 16 years old.
+
+== Activities ==
+She is one of the novices who has started calling [[Egwene al'Vere]] Mother behind the White Tower [[Aes Sedai]] backs.
+
+
+{{notes}}
+{{short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]

@@ -1,0 +1,40 @@
+==[[Wotwiki:Chapter summaries|Chapter summaries]]==
+Hey Dairhenien, thanks for your help! Since you've jumped right into the chapter summaries, you may want to view/comment on the proposal regarding how to organize those... just click the link above. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 20:43, 25 Oct 2005 (UTC)
+
+Quick question--how do I add the current date and time after my signature? --[[User:Dairhenien|Dairhenien]]
+*Second button from the right, ''straight on till morning.''  --  Err, I mean ''on the toolbar at the top of the edit box.'' --[[User:Gherald|Gherald]] P.S. Please feel encouraged to continue asking me such questions.  I'm dead serious. I really am very pleased to be of any help.
+:::''<small>Gherald's note to himself and anyone bored enough to be reading this: Blood and bloody ashes! If I wasn't such a sarcastic bastard, I wouldn't have to insert so many bloody disqualifiers when making honest offers to help!  You see, I'm one of those people who will frequently give informative-yet-extremely-snide links to friendly places like [http://www.justfuckinggoogleit.com?q=wiki+current+date+and+time+after+my+signature jfgi.com?q=the+question] (not to be confused with the <u>Indiannapolis Jews</u>) .... on more technical websites :O
+:::On a more positive note, I've just been inspired to make Template:jfgi, which I will promise not to ever use for your questions if you ask <u>very</u> politely and address me as ''O, Great Lord''.</small>
+::You walk a fine line, my friend discouraging the first person who showed up to post actual content.  :)  (And don't worry... I wouldn't have been insulted even without the disclaimer.  I'm going to have to bookmark that site now.) [[User:Dairhenien|Dairhenien]] 16:45, 27 Oct 2005 (UTC)
+* Also, you can use <nowiki>~~~~</nowiki> to put in your signature and the date (3 give just your sig, and 5 give just the date, for some reason). [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 01:42, 27 Oct 2005 (UTC)
+===RFC===
+* I just want to again request for comment on the latest [[project:chapter summaries/example]], since we're about ready to start using it as a reference layout for all summaries :) --[[User:Gherald|Gherald]] 22:34, 30 Oct 2005 (UTC)
+
+==Introductions==
+I have been a big fan of the Wheel of Time series ever since [[Lord of Chaos]] came out.  I'm very interesting in helping to get this wiki off the ground!
+:Welcome, feel free to create new pages!  The topic can be about pretty much anything, just be sure to tag it with a [[Special:Categories|Category]] (creating a new one first, if necessary).
+:I strongly suggest bookmarking the [[Special:recentchanges|Recent changes]] link, especially if you are like me and fancy yourself more of an ''editor'' than an ''original writer''.
+:Happy huntin' --[[User:Gherald|Gherald]] 00:13, 24 Oct 2005 (UTC)
+Hey Gherald.  Actually, I'm just the opposite, more an ''original writer'' than an ''editor.''  I was planning on doing a reread of the series, and was considering doing chapter summaries as I did, so perhaps I'll start with those.  Was there any plan or format in mind for how to handle those?
+::Excellent!  No there isn't a policy yet, so your first works can be considered a test case and we may develop a policy ''based'' on how they turn out :) --[[User:Gherald|Gherald]] 17:59, 24 Oct 2005 (UTC)
+Sounds good.  I can copy a format once it's in place, but I'm really no good at all with wiki formatting.  In the next day or so, I'll have the next few chapters of TEotW up.  Before I do though, should I reference characters by Lastname, Firstname or Firstname Lastname?
+:Use ''First Last'', e.g. [[Rand al'Thor]], [[Matrim Cauthon]], etc.  (we don't have many character articles yet)
+:There are also redirects such as [[Mat]] and [[Mat Cauthon]] --> [[Matrim Cauthon]], [[Rand]] --> [[Rand al'Thor]], [[Queen Morgase]] and [[Morgase]] to [[Morgase Trakand]], etc.
+:*See [[Special:Allpages]] for a list of article names we currently have.
+:*See [[Category index]] for how we plan to categorize future articles.
+:But you really don't have to worry too much about wiki formatting initially; the rest of us will be  more than happy to come in and "wikify" your plain text.  
+:If you have the time, check out:
+:*[[Project:Community Portal]]
+:*[[Current events]]
+:But you can basically learn as you go, at whatever pace works best for you....
+:Some editing help pages, if you're stumped on something in particular:
+:*[[w:Help:Tutorial|Help:Tutorial]] (on the main Wikia wiki)
+:*[[Wikipedia:Wikipedia:How to edit a page|Wikipedia:How to edit a page]]
+:*[[Wikipedia:Wikipedia:Tutorial|Wikipedia:Tutorial]]
+
+:In summary....
+
+{{quote|Just keep the summaries coming, we'll do the rest!|Gherald on ''<u>worrying about wikification</u>''}}
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}

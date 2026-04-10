@@ -1,0 +1,20 @@
+{{ character
+| image=Spiron Narettin.jpg
+| imagesize=250px
+| status=Alive
+| nationality=Illianer
+| affiliation=Council of Nine
+| gender=Male
+| appeared={{tpod|21}}
+| lastappeared={{tpod|21}}
+| living=tpod
+}}
+'''Spiron Narettin den Sovar''' is one of the [[Council of Nine]] in [[Illian]].{{ref|{{twotc}}, Spiron Neretting den Sovar}}
+
+== Activities ==
+[[Rand al'Thor]] sends a force led by him east of Illian to keep any hostile forces at bay.
+
+{{short}}
+{{DEFAULTSORT:Narettin, Spiron}}
+[[Category:Lords]]
+[[Category:Nobility]]

@@ -1,0 +1,42 @@
+{{for|other chapters with "Answer" in the title|Answer}}
+{{summary | book=10 |
+|chapter=22
+|title=One Answer
+|icon=Flame
+|setting=[[White Tower]]
+}}
+
+==Summary==
+
+{{pov|[[Pevara Tazanovni]]}}
+
+Pevara is meeting with [[Tarna Feir]] in her rooms with [[Pedra]] serving tea. Tarna is now the [[Keeper of the Chronicles]], replacing [[Alviarin Freidhen]] after her month long absence. Tarna recounts how she encountered a recruiting party of [[Asha'man]] when she was returning from [[Salidar]] to the [[The White Tower|White Tower]]. After pondering the situation for a long time she has concluded that [[Aes Sedai]] must take the Asha'man as Warders so they can be controlled, whether they could be [[Severing|gentled]] afterwards or not. Pevara shows Tarna a message she received from [[Cairhien]], originally sent by [[Toveine Gazal]]. She suggests it changes the whole world.
+
+==Characters==
+* [[Pevara]]
+* [[Pedra]]
+* [[Tarna Feir]]
+
+===Referenced===
+* [[Seaine]]
+* [[Elaida]]
+* [[Galina]]
+* [[Alviarin]]
+* [[Georg Tazanovni]]
+* [[Toveine Gazal]]
+
+==Places==
+* [[White Tower]]
+
+===Referenced===
+* [[Kandor]]
+* [[Salidar]]
+* [[Murandy]]
+* [[Ebou Dar]]
+* [[Illian]]
+* [[Tar Valon]]
+* [[Saldaea]]
+* [[Tear]]
+* [[Cairhien (city)]]
+
+{{DISPLAYTITLE:''One Answer''}}

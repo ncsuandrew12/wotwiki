@@ -1,0 +1,18 @@
+<noinclude>{| align="right"
+|{{Month|April}}
+|{{Wotmonth|Adar}}
+|}
+'''Adar 2 (April 14)'''
+
+==Events==
+</noinclude>
+*{{Ne|979}} - [[Moiraine Damodred]] and [[Siuan Sanche]] visit the [[Aesdaishar Palace]]. Moiraine learns [[Lan Mandragoran]]'s title and heritage.
+*{{Ne|998}} - Proclamation from [[Illian]] of the [[The Great Hunt of the Horn]] is read in [[Whitebridge]].
+*{{Ne|999}} - [[Perrin Aybara]]'s party pass through the villages of [[Samaha]] (where the wells have gone dry), [[Tallan]] (where there have been many arguments and three murders), and [[Fyall]] (where the mayor has found gold from [[Manetheren]]).
+<noinclude>
+==External links==
+*[[wikipedia:april 14|April 14]]
+
+</noinclude>
+<noinclude>
+[[Category:Dates]]</noinclude>

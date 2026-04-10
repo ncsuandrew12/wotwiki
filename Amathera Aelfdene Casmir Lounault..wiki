@@ -1,0 +1,51 @@
+{{ character 
+| image=TarabonFlag.png
+| imagesize=250px
+| ewot=Amathera
+| nationality=Taraboner
+| birth={{ne|974}}
+| gender=Female
+| rank=Panarch
+| title=Panarch of Tarabon
+| hair=Long, dark, braided
+| eyes=Large, dark
+| status=Alive
+| mentioned={{tsr|38}}
+| appeared={{tsr|52}}
+| lastappeared={{tom|17}}
+| lastmentioned={{amol|37}}
+| living=tom
+}}
+'''Amathera Aelfdene Casmir Lounault''' is a former [[Tarabon]]er noblewoman who was raised to the position of [[Panarch]] of Tarabon. 
+
+== Appearance ==
+She has many of the physical characteristics that are common to Taraboner females. She wears her long, dark hair in multiple braids and has large dark eyes. She has a pouty, rosebud mouth with a petulant look to it. She has not yet reached middle age and is quite beautiful.
+
+==Activities==
+=== Made Panarch ===
+Amathera was invested as Panarch despite being rejected by the [[Assembly of Lords]], and primarily attained her position by being the lover of King [[Andric]]. During the recent civil war in Tarabon, the Panarch's Palace was surrounded by [[Whitecloaks]] and occupied by [[Liandrin]] and her group. Amathera was held prisoner by the [[Black Ajah|Black]] sisters and tormented.{{ref/book|4|52}} She is then rescued by Elayne and [[Egeanin Tamarath]], knocking out [[Temaile Kinderode]] who had been tormenting her, in the process.{{ref/book|4|54}}
+
+Although Amathera seemed to have no clue as to what the lives of the common people were like when she is raised as Panarch, [[Elayne]] thought that she had a true concern for justice.{{ref/book|4|55}}  However, at least before being taken captive by the [[Seanchan]], Amathera knew what her position was and knew what she could do and the respect that her position entailed. During that time, this often made her seem quite selfish. 
+
+=== Made ''da'covale'' ===
+When the [[Seanchan]] arrived in Tarabon, Amathera was captured, but refused to submit to them. As a result, she was made ''[[da'covale]]'' by the High Lady [[Suroth Sabelle Meldarath]]. She was renamed '''Thera''' and trained as a [[shea dancer]].
+
+Thera was brought to [[Amadicia]] and later [[Ebou Dar]], where [[Juilin Sandar]] fell in love with her. When [[Mat Cauthon]] and his group escaped, Juilin took Thera with him, and she eventually becomes his lover.
+
+She along with the rest of the group, join and travel in [[Valan Luca's Traveling Show]] as a cover to escape Ebou Dar.
+
+She is still scared of [[Egeanin Tamarath]] and [[Tuon Athaem Kore Paendrag]] and still prostrates herself and the ground in front of them whenever they are near.
+
+=== Learning some backbone ===
+When Egeanin is demoted from the Blood, she tries to teach Amathera to stand up for herself and tries to befriend her.
+
+After a skirmish with Darkfriends in [[Maderin]] Mat and the rest of his group decide to leave Luca's show. While riding through [[Altara]] they meet up with the [[Band of the Red Hand]] and begin to travel with them.
+
+When the Aes Sedai traveling with Mat finally leave, Juilin and Thera travel with them, making for [[Tar Valon]]. It is assumed that she remains in the Tower during the fighting of the [[Last Battle]], since she is not mentioned, but Juilin is. 
+
+{{notes}}
+{{DEFAULTSORT:Lounault, Amathera Aelfdene Casmir}}
+
+[[es:Amathera Lounault]]
+[[Category:Da'covale]]
+[[Category:Slaves]]

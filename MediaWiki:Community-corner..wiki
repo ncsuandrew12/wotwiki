@@ -1,0 +1,3 @@
+'''Welcome to the Community Corner!'''
+
+A new forum about the removal of spoiler templates is open for discussion [[Forum:Spoilers|here]].

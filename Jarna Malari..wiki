@@ -1,0 +1,51 @@
+{{character
+| image=Jarna Malari.jpg
+| imagesize = 250px
+| ajah=Gray
+| nationality=Unknown nationality
+| gender=Female
+| status=Dead
+| death={{ne|983}}
+| affiliation=Black Ajah
+| eyes=Brown
+| hair=Long, black, white at temples
+| height=5'6" or 168cm
+| rank=Aes Sedai
+| occupation=Sitter
+| appeared={{ns|6}}
+| lastappeared={{ns|6}}
+| lastmentioned={{acos|p}}
+| birth={{ne|760}}}}
+'''Jarna Malari''' (pronounced: JAHR-nah MAL-ah-ree) was an [[Aes Sedai]] and [[Sitter]] for the [[Gray Ajah]] and secretly head of the [[Black Ajah]].{{ref/book|7|p}}
+
+==Appearance and Personality==
+She had liquid brown eyes and long black hair which was going white at the temples.{{ref/book|0|6}}{{ref|{{twotc}}, Jarna Malari|Jarna Malari}} She was 5'6" or 168 cm in height.{{ref||Jarna Malari}}
+
+She was well-loved and respected by many Aes Sedai, seen as a model of virtue with a saintly reputation.{{ref||Jarna Malari}}
+
+==History==
+Jarna was born in {{ne|760}}.{{ref||Jarna Malari}}
+
+Sometime prior to the [[Aiel War]], she was  made a Sitter for the Gray Ajah.{{ref/book|0|6}} She was also appointed head of the [[Supreme Council]] of the Black Ajah at an unknown point.
+
+==Activities==
+In {{ne|979}}, she made inquiries with [[Moiraine Damodred]] about her intentions to stand for the [[Sun Throne]].{{ref/book|0|6}} 
+[[File:Jarna-0.jpg|thumb|Jarna approaching Mioiraine about her intentions for the Sun Throne (from the New Spring graphic novel)|left]]
+
+A short time later, she ordered the torture and murder of [[Tamra Ospenya]] to try to learn more about the [[Dragon Reborn]]. It is not clear if she participated in this, but the interrogation was generally unfruitful.{{ref/book|7|p}} 
+
+In {{ne|983}}, [[Ishamael]] learned that she had given the order to search for and kill the Dragon Reborn. As punishment and an example to the rest of the Black Ajah, he trapped her within a ''[[ter'angreal]]'' whose function and means of activation remain unknown. For ten days no one could reach her, only listen to her throat-wrenching shrieks. Her death was all the more curious as she was not known to have prior any interest in ''ter'angreal''.{{ref/book|7|p}} 
+
+Every sister in Tar Valon and every sister who could reach Tar Valon in time attended her funeral, where they buried what was could be recovered of her body.{{ref||Jarna Malari}}
+
+[[Alviarin]] was personally appointed by Ishamael to replace her as Head of the Black Ajah.{{ref/book|7|p}}
+
+{{notes}}
+
+{{short}}
+{{DEFAULTSORT:Malari, Jarna}}
+[[es:Jarna Malari]]
+[[Category:Ajah Heads]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

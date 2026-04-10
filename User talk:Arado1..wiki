@@ -1,0 +1,31 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: silver; border: 2px solid #000000; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  Arado1! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''A Wheel of Time Wiki'''!. Thanks for your edit to the [[:The Eye of the World]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Mainphramephreak|Mainphramephreak]] ([[User_talk:Mainphramephreak|Talk]]) 20:20, June 18, 2010
+|}
+
+== Quote template ==
+
+Hello. First, thank you for adding all of that information to the chapter summary pages. It really is appreciated. On the {{tl|quote}} template, could you please include the attribution inside the template. Example: <nowiki>{{quote|Text goes here|Person goes here}}</nowiki>. Please let me know if you have any questions. Again, thanks for adding that info! ---- {{User:Mainphramephreak/Sig/Subst}} 17:07, May 16, 2012 (UTC)
+
+== Redirects ==
+
+Hello. Again, thanks for adding all of the info on the chapter summary pages. Also, thanks for adding some much-needed redirects. In the future, though, could you please add the appropriate category to the redirects? All of them can be found [[:Category:Redirects|here]]. Please let me know if you have any questions. Thanks again! ---- {{User:Mainphramephreak/Sig/Subst}} 02:02, August 20, 2012 (UTC)
+
+== Preview button ==
+
+I'm not able to replicate the problem, as the drop-down menu doesn't cover anything once something is selected. There is a keyboard shortcut (Alt+Shift+E) that will bring up the Preview window. I'll see what else I can come up with. ---- {{User:Mainphramephreak/Sig/Subst}} 02:33, April 6, 2015 (UTC)

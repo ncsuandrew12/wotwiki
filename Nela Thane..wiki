@@ -1,0 +1,19 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=
+| birth=
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| status=Alive
+| lastmentioned={{tfoh|55}}
+| living=tfoh
+}}
+
+'''Nela Thane''' is a young woman from [[Emond's Field]].
+
+A sixteen-year-old [[Nynaeve]] received a whipping from [[Corin Ayellin]] for stealing a plum pudding on a dare from Nela.
+
+{{short}}
+{{DEFAULTSORT:Thane, Nela}}

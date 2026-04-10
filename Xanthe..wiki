@@ -1,0 +1,31 @@
+{{character 
+| image=RedBlack.png
+| imagesize=250px
+| nationality=Midlander
+| occupation=
+| title=
+| gender=Female
+| build=
+| height=
+| affiliation=White Tower
+| rank=Aes Sedai
+| ajah=Red
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+| ewot=
+| status=
+|birth =
+}}
+'''Xanthe''' is an [[Aes Sedai]] of the [[Red Ajah]], and is also of the [[Black Ajah]].
+== History ==
+Xanthe is part of the [[Red Ajah]]'s mission to capture [[Mazrim Taim]]. However, she is also sent by the Black Ajah in order to kidnap Taim before he can be brought to the [[White Tower]] and [[Severing|gentled]].<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]
+[[Category:Black Ajah]]<references />
+[[Category:Characters only mentioned in the RPG]]
+[[Category:Black Ajah]]
+[[Category:Channelers]]

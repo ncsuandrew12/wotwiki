@@ -1,0 +1,4 @@
+<includeonly>{{Link
+ |url=https://www.theoryland.com/intvsresults.php?kw&equals;{{{1|}}}
+ |text={{#if:{{{2|}}}|{{{2}}}|Theoryland Interview Search: {{{1|}}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

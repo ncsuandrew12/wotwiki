@@ -1,0 +1,24 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| name=Maralenda
+| ajah=Unknown
+| nationality=Andor
+| gender=Female
+| affiliation= White Tower
+| rank=Aes Sedai
+| status=Alive
+| mentioned={{tgs|8}}
+| appeared=
+| lastappeared=
+| living=acos
+}}
+
+'''Maralenda''' is an [[Andoran]] [[Aes Sedai]] of noble origin, in the rebel camp near [[Tar Valon]]{{ref/book|12|8}}. Therefore, she is not of the [[Red Ajah]]. 
+
+She is a distant cousin to the House [[Trakand]] and [[Siuan]] uses the fact that she had been seen talking to [[Romanda]] to distract [[Lelaine]] and trying to manipulate her{{ref/book|12|8}}.
+{{notes}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Nobility]]

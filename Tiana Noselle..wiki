@@ -1,0 +1,64 @@
+{{ character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=Tiana
+| ajah=Gray
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| height=Short
+| build=Slight
+| eyes=Large, brown
+| status=Alive
+| mentioned={{loc|p}}
+| appeared={{acos|11}} 
+| lastappeared={{tom|3}}
+| living=tom
+}}'''Tiana Noselle''' is an [[Aes Sedai]] of the [[Gray Ajah]], and is made [[Mistress of Novices]]{{ref/book|6|p}} for Aes Sedai in [[Salidar]]. 
+
+== Appearance ==
+She is short and slight, with large brown eyes and a dimple in each cheek. Despite her ageless look she has an unfortunately youthful appearance due to her bone structure and large brown eyes. She usually wears dark gray skirts.
+
+When she is displeased, her disgruntled expression deepened her dimple and makes her look sulky, which she doesn't realize.
+
+== Strength and Abilities ==
+Tiana is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of {{opsl|25}}. 
+
+She matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability a the Talent, she should be able to Travel.
+
+== History==
+Tiana is 63 years old, she was born in the year {{ne|937}} and went to the Tower in {{ne|953}}. After six years as [[Novice]] and six as [[Accepted]] she was raised to the shawl in the year {{ne|965}}
+
+She twice refused the test for Accepted, and had trouble with her Aes Sedai test.
+
+== Activities ==
+Tiana was chosen as Mistress of Novices by the rebels despite being young (though [[Sheriam Bayanar|Sheriam]] was younger when she held the post), as she was thought to be easily influenced and eventually replaced when the Schism would end.
+
+As Mistress of Novices she was known for being equally sympathetic and stern when it come to the rules. She was never shy about speaking up to Sitters or to the Amyrlin.
+
+Theodrin and Faolain run into Tiana while asking about men near Marigan's tent. She tells them to go to bed.{{ref/book|7|11}}
+
+At the [[Rebel Aes Sedai|Rebel Camp]], together with [[Sharina Melloy]], she supervises the making of ''[[cuendillar]]''.{{ref/book|10|17}}
+
+She reveals to [[Romanda Cassin]] that a number of the older novices are showing a great amount of skill in using [[Nynaeve al'Meara]]'s new weave of [[Healing]], and is subsequently chastised by Romanda for not holding a tighter grip on the novices and what they are allowed to perform with the [[One Power]]. Romanda also humiliates her by asking her if she should not check in with [[Sharina]] if the latter would have more instructions for her.
+
+Tiana learns that [[Nicola]] ran away. She severely punishes the other novices who covered for her.{{ref/book|10|30}}
+
+Sharina reorganizes the whole novice structure and presents it to Tiana as a done deal. Tiana has a hard time not being deferential to Sharina.{{ref/book|11|23}}
+
+When the novices mill around the Hall at the news of Elaida having [[Traveling]], Siuan notes with annoyance that Tiana is not keeping order.{{ref/book|12|18}}
+
+[[Rosil]] of the [[Yellow Ajah]] succeeds Tiana as the Mistress of Novices once the Tower is reunited.{{ref/book|13|20}}
+
+When [[Rand al'Thor]] comes to the [[White Tower]], Tiana gives him a sealed letter she promised to deliver from someone else, most probably [[Verin]].{{ref/book|13|3}}
+
+The fact that Tiana was in the Tower after reunification confirms that she is not [[Black Ajah]].
+
+{{notes}}
+{{DEFAULTSORT:Noselle, Tiana}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Mistresses of Novices]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

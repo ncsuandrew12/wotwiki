@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Danu}}
+|}
+'''Danu 13 (December 6)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Rand]] tells [[Berelain]] he intends [[Elayne]] to rule [[Cairhien]]. 
+<noinclude>
+==External links==
+*[[wikipedia:december 6|December 6]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

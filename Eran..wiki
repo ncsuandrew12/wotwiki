@@ -1,0 +1,15 @@
+{{ character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Saldaean
+| occupation=Soldier
+| gender=Male
+| mentioned={{tsr|41}}
+| lastmentioned={{tsr|41}}
+| living=tsr
+}}
+'''Eran''' is a soldier from [[Saldaea]].
+
+== Activities ==
+He used to be under the command of [[Davram Bashere]]. He is now footman to [[Faile Bashere]] and teaches her how to fight with knives and her hands.

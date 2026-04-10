@@ -1,0 +1,20 @@
+{{character 
+| image=Fang-icon.svg
+| imagesize=125px
+| ewothist=Yurian Stonebow
+| status=Dead
+| death=[[1308 AB]]
+| nationality=Far Madding
+| title=False Dragon
+| gender=Male
+| mentioned={{Teotw|14}}
+}}'''Yurian Stonebow''' was a [[False Dragon]] who was capable of [[channel]]ing.{{ref|{{twotc}}, Yurian Stonebow}} He was born in [[Fel Moreina]] - modern day [[Far Madding]].
+
+== History ==
+He rose to power and declared himself to be The Dragon in [[1301 AB]]. He was able to kill three [[Aes Sedai]] and capture another three single-handedly. He was caught and gentled in [[1308 AB]]. He presumably died shortly thereafter.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Stonebow, Yurian}}
+[[Category:Historical people]]
+[[Category:Sparkers]]

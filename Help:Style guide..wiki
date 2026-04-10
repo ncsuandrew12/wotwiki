@@ -1,0 +1,172 @@
+{{TOCright}}
+
+Lifted shamelessly from [[Wikipedia:Style guide]] as a starting point; we should only include those areas in which we differ/specialize. Also take a look at [[Wikipedia:Guide_to_writing_better_articles]] and our [[project:chapter summaries]].
+
+==Basics==
+
+===Cleanup===
+While cleaning up a page or section, consider referring to the [[/Cleanup Checklist|cleanup checklist]] for various changes to make.
+
+===Linking===
+The first time an important Name, Item, Event, etc. is mentioned in an article, make a link by enclosing it with [[ ]] tags; thereafter do not link it again unless this helps provide context (such as if the last mention was an earlier section). If the article you are linking to does not yet exist, it is still useful because it can expose a misspelling or the article may be created later, and in the meantime it will automatically be ranked higher on the [[Special:WantedPages|Wanted Pages listing]] to help judge demand for new pages. Links to the TV show wiki can use {{tl|TVlink}}. Links to {{Wlink|fandom||other wikis}} can use {{tl|Wlink}}. Links to {{Wiki}} can use {{tl|Wiki}}. Links to {{YTlink}} can use {{tl|YTlink}}. Generic external links can use {{tl|Link}}.
+
+{| class="wikitable"
+! Example Code
+! Result
+|-
+| <code><nowiki>[[Rand al'Thor]]</nowiki></code>
+|               [[Rand al'Thor]]
+|-
+| <code><nowiki>{{TVlink|Moiraine Damodred|Moiraine}}</nowiki></code>
+|               {{TVlink|Moiraine Damodred|Moiraine}}
+|-
+| <code><nowiki>{{Wlink|lotr|Gandalf|Mithrandir}}</nowiki></code>
+|               {{Wlink|lotr|Gandalf|Mithrandir}}
+|-
+| <code><nowiki>{{Wiki|Robert Jordan|The Creator}}</nowiki></code>
+|               {{Wiki|Robert Jordan|The Creator}}
+|-
+| <code><nowiki>{{YTlink|url=https://www.youtube.com/watch?v=wm4SfUtczqg|text=Robert Jordan - Audio Renaissance Interview}}</nowiki></code>
+|               {{YTlink|url=https://www.youtube.com/watch?v=wm4SfUtczqg|text=Robert Jordan - Audio Renaissance Interview}}
+|-
+| <code><nowiki>{{Link|https://dragonmount.com/blogs/blog/4-robert-jordans-blog/|Robert Jordan's blog}}</nowiki></code>
+|               {{Link|https://dragonmount.com/blogs/blog/4-robert-jordans-blog/|Robert Jordan's blog}}
+|-
+|}
+
+==Minimum astonishment==
+
+A wiki should be easy to edit, '''and''' easy to read. If "[[Help:Links|redlinks]]" are cropping up because editors aren't sure how to address a character in the text, make a [[:Category:Redirects|redirect]]! They're extremely cheap, and improve the experience by avoiding the need to pipe every [[Elaida]] link to [[Elaida do Avriny a'Roihan]].
+
+By the same token, there's probably no need to create redirects for "Queen Morgase, by the Grace of the Light, Queen of Andor, Defender of the Realm, Protector of the People, High Seat of House Trakand," because no one is likely to ever create that link. ''But if we get to the point where that is all we have left to do... by all means, feel free.''
+
+This principle should also hold for page names and template names - e.g. {{tl|stub}} should not produce text saying that "this user is suspect sockpuppet," or something unexpected like that. However, it is acceptable to use very short but ambiguous template names for templates that will likely be ubiquitous, since this makes source text helpfully terser and quicker to write. For example {{tl|A}} is used to create link anchors, and {{tl|c}} is used to reference {{c}}.
+
+Similarly, <code><nowiki>[[Thom]]</nowiki></code> should link to the main character [[Thom Merrilin]], and ''not'' to [[Mat|Mat's]] alias [[Thom Grinwell]]. This holds even for minor characters. For example, <code><nowiki>[[Paitr]]</nowiki></code> should link to [[Paitr Conel]], who directly interacts with multiple major characters across multiple storylines and contributes to crucial plot points, and ''not'' to [[Paitr do Fearna a'Conn]], who is most notable for ogling [[Halima]]. That being said, such similar names merit disambiguation links at the top of all relevant pages.
+
+==Article titles==
+Article titles should be singular ([[Trolloc]] instead of [[Trollocs]]). Exceptions to this are when the noun is only found (or almost always found) in a plural form ([[Borderlands]], [[Two Rivers]]). When referencing such pages you can place modifications such as possessives and pluralizations after the link (<code><nowiki>[[Warder]]s</nowiki></code> -> [[Warder]]s, <code><nowiki>[[Rand]]'s</nowiki></code> -> [[Rand]]'s) or customize the link display text if grammar requires it (<code><nowiki>[[Warder|Warders]]</nowiki></code> -> [[Warder|Warders]], <code><nowiki>[[Rand|Rand's]]</nowiki></code> -> [[Rand|Rand's]]).
+
+===Page title formatting===
+When a new page is created, the wiki software creates the page with the first letter capitalized and in the regular font. For most articles, this is fine. However, some articles need to have the display title changed.
+
+For character families (i.e. [[al'Thor]], [[al'Vere]], etc.) and other pages where the first letter needs to be a lowercase, put the {{tl|lowercase}} template at the bottom of the page.
+
+For articles where the name is italicized, place the following magic word code at the bottom of the page:<nowiki>{{DISPLAYTITLE:''A'dam''}}</nowiki>. This can also be used in cases where only a part of the title is italicized, e.g. <nowiki>{{DISPLAYTITLE:''Stedding'' Shangtai}}</nowiki>.
+
+===Definite/indefinite articles===
+When a proper noun is '''always''' referred to with its definite article ([[the bleakness]], [[The Wheel of Time]] series), include it in the article title. Otherwise, omit it or create a redirect to the simplified version.
+
+===Capital letters===
+If the title of an article is not a proper noun, do not capitalize when linking to it, e.g. [[grolm]].
+
+===Entries from the Old Tongue===
+Article titles should only be in the [[Old Tongue]] '''if''' that is the most common way to refer to the subject at hand: ''[[ashandarei]]'' instead of [[Ashandarei|black-bladed spear]].
+
+Otherwise, create a [[wikia:Help:Redirects|redirect]] at the [[Old Tongue]] definition page (such as ''[[gaidin]]'', which should link to [[Warder]]).
+
+===People===
+Articles on people should be located at the '''expected full name''' (first and last name if given for modern people; three names if earned from the [[Age of Legends]]). Exceptions include the [[Forsaken]] and [[Ogier]]. Create redirects from given names and partial names.
+
+====Titles and Honorifics====
+Within reason, titles and honorifics should be included in redirects, to facilitate ease of writing articles. So [[Queen Morgase]] should redirect to [[Morgase Trakand]], and [[Alanna Sedai]] should redirect to [[Alanna Mosvani]].
+
+==Phrasing and grammar==
+
+In general, the past tense should be used when describing events that occur during the series. For example:
+# "Rand left the Two Rivers."
+# "Olver left with Noal."
+
+The present tense that is frequently used throughout the wiki should be cleaned up when improving a page. However, there are times when the present tense should be used:
+
+# Book or chapter summaries
+# Describing the permanent attributes of characters, especially characters living or probably living at the end of the series. For example:
+## "Mat loves dicing."
+## "Bryne is an important character in the Andoran storylines."
+
+==Capitalization==
+
+Words that are not capitalized in the text of the books should not be capitalized in the text of articles. Words that are capitalized in the books should be capitalized in the text of articles. For example, "sister" in reference to [[Aes Sedai]] should not typically be capitalized, but [[Sitter]] should.
+
+==Format for Character Entries==
+
+See [[Template:Character/minor char model]] for a model for all pages dealing with minor characters and [[Template:Character/major_char_model]] for major ones.
+
+==Calendar and dates==
+When writing a date, link to its calendar page with the era's template.  For instance {{tl|ne}} can be used as follows with the date page links:
+{| class="wikitable" cellpadding=4
+!Code !! Result
+|-
+|<code><nowiki>{{ne|998}}</nowiki></code>||{{ne|998}}
+|-
+|<code><nowiki>{{ne|998|Choren}}</nowiki></code>||{{ne|998|Choren}}
+|-
+|<code><nowiki>{{ne|998|Choren|17}}</nowiki></code>||{{ne|998|Choren|17}}
+|}
+
+==Regions==
+The area in which most of the books take place is the [[Westlands]]; the fan-name for the entire world is [[Randland]]; don't confuse them!
+
+As with entries in the [[Old Tongue]], create redirects from less common names to more common ones (''e.g.'' [[Three-Fold Land]] and [[Djevik K'Shar]] should redirect to [[Aiel Waste]]).
+
+==Italics== 
+
+===Book titles===
+Book titles should always be italicized (unless they are being named in a quote or excerpt that is itself italicized). If you are referring to a book by its number in the sequence ([[Book 12]], or "the prequel novel"), do not use italics.
+
+====Chapters====
+To make reference to a chapter summary, see [[help:book templates]].
+
+To write out a chapter's title, use quotations and italics: ''"Summoned in Haste"''
+
+===Old Tongue===
+Old Tongue words should always be italicized, unless they are not italicized in the books (e.g. [[Tarmon Gai'don]]). All pages (except redirects) with Old Tongue titles should use <code><nowiki>{{DISPLAYTITLE}}</nowiki></code> to italicize their titles.
+
+===Quotes===
+In general, quotes from the books should preserve italics. See [[/Quotations]]. If an entire quote is being italicized, then the italicized text from the source should not be italicized.
+
+==Quotations==
+{{main|/Quotations}}
+
+==Pronunciation==
+
+This should be defined according to the glossaries of the books. There may be some variation with the [[Wheel of Time audiobooks|audiobooks]], the {{TVlink||TV series}}, or the pronunciations by notables like [[Brandon Sanderson]], but those in the glossaries should always be taken as canon where differences occur. When the glossaries do not define a pronunciation, the audiobooks should be referenced.
+
+==Sections==
+H1 style ('''<code><nowiki>=Section name=</nowiki></code>''') headers should not be used within articles unless the sections are basically mini-articles grouped onto a single article page. Examples of this include most of the links at the bottom of [[Wikipedia:Template:wotnav|wikipedia's wotnav]].
+
+Sections headers are not titles, and should be capitalized like normal sentences. Avoid using the article title in section names as this is usually redundant.
+
+{| class="wikitable" style="background-color:transparent;" cellpadding=4
+|- align="left"
+!Right !! Wrong
+|- align="left"
+|History || History of {{PAGENAME}}
+|- align="left"
+|See also || See <u>A</u>lso
+|- align="left"
+|External links{{ref|The standard name ''External link<u>s</u>'' is preferred even when there is only one external link.  It is not meant to quantify whether there is more than one link in the section, but rather to serve as a separator indicating that loose external links should be collected below that line, regardless of however many there happen to be.}} || External <u>L</u>inks<br />External link
+|}
+
+===Parallels===
+
+Notes on references to the real world, other literature, etc, should generally be placed in "'''Parallels'''" sections. "'''References'''" should be avoided, as it is ambiguous and can be interpreted as synonymous with the '''Notes''' sections. References to the "real world" as it exists in prior Ages of the Wheel of Time belong in [[Real-world references]]. When a page contains a Parallels section, it should also be given the [[:Category:Parallels|Parallels]] category.
+
+===Footnotes===
+Entries in the Notes section should be {{Wiki|Footnotes}}, created within the body of the article using the {{tl|ref}} template for regular footnotes, the {{tl|ref/book}} template for book sources, {{tl|ref/tidb}} for {{TLlink}} interviews, and {{tl|ref/tidbkw}} for {{TLlink}} interview searches. Be sure to specify parameter numbers/names if any of the values include an '=' symbol; failing to do so breaks the footnote.
+
+To produce the list of footnotes, place the {{tl|notes}} template at the bottom of the page.
+
+'''Avoid naming sections "Notes" so as not to conflict with the footnotes section!'''
+
+==Talk pages==
+''See [[Help:Talk page]]''
+
+==See also==
+*[[Wikipedia:Principle of least astonishment]]
+*[[Wotwiki:Spoiler warning]]
+*[[Help:Redirects]]
+
+{{notes}}
+[[Category:Help|{{PAGENAME}}]]
+[[Category:Policies|{{PAGENAME}}]]

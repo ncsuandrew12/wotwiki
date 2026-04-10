@@ -1,0 +1,121 @@
+{{#invoke:Books|chapter_nav|book={{PAGENAME}}}}
+{{dablink|For other uses of the words "new" and "spring," see [[New]] and [[Spring]].}}
+[[image:NSCover.jpg|left|thumb|200px]]'''''New Spring''''' (abbreviated '''NS''' by fans) is a prequel novel in ''The Wheel of Time'' series. The events in the novel take place roughly twenty years before the beginning of ''[[The Eye of the World]]''. It was published by Tor Books and released in January 2004.
+
+''New Spring'' was originally published in short form in the fantasy anthology ''[[Legends: Stories By The Masters of Modern Fantasy]]''. The anthology was edited by Robert Silverberg and was released by Tor Books on September 15, 1999.
+
+Because it is not considered part of the main ''Wheel of Time'' storyline, ''New Spring'' was not selected for [http://www.tor.com/blogs/2014/04/the-wheel-of-time-and-the-hugo-voter-packet inclusion in the 2014 Hugo Voter Packet] with the rest of the ''Wheel of Time'' series.
+{| cellspacing="0" cellpadding="5px" style="border:none;"
+|-
+|''Next: [[The Eye of the World]] '''>>>'''''
+|}
+__TOC__
+
+==Reading Order==
+One of the most common questions for new readers is when New Spring should be read with respect to the main series books. Since it is a prequel, it obviously takes place first in the chronology of events. Robert Jordan wrote the book so that it would be possible to read New Spring without having read any of The Wheel of Time before. He clarifies in the following question posed by a fan:
+
+<blockquote>'''QUESTION''': Once all three prequel novels are written, is there any particular order you would recommend new readers read the prequels/books? Should they start off with the prequel novels, or finish with them, or read each one at certain points throughout the series?
+'''ROBERT JORDAN''': I intend to write each of the prequel novels just as I did New Spring: The Novel, in such a way that someone could pick any one of them up and begin there with no other exposure to The Wheel of Time, but for best effect, I suggest reading them in the order that they will be published.
+...As for whether to begin with the prequel novels or with the main sequence books, you can do either.
+
+-Tor Question of the Week, Apr 2004<ref>[https://www.theoryland.com/intvmain.php?i=4 Tor Questions of the Week, Q2, 20 April 2004]</ref></blockquote>That being said, there is no real consensus among fans about when to read New Spring. While there are no spoilers for the rest of the books contained in New Spring, it does make introductions to characters that we meet in later books and that could be construed as changing the reading experience. Many readers recommend or choose to read the books in publication order, reading New Spring after [[Crossroads of Twilight]], while others read after [[A Memory of Light]]. There is no official recommendation from Jordan on this, however, and, at least anecdotally, readers starting with New Spring don't seem to have been negatively affected.<ref>[https://www.reddit.com/r/WoT/comments/144933x/so_i_read_new_spring_first/ So I Read New Spring First, r/wot Reddit, May 2023]</ref>
+==Plot Summary==
+New Spring begins at the end of the [[Aiel War]]. The novel focuses on [[Moiraine Damodred]] and [[Siuan Sanche]]'s training as [[Accepted]] in the [[White Tower]] and the genesis of Moiraine's search for the [[Dragon Reborn]]. It also expands on how Moiraine and [[Lan Mandragoran]] meet, as well as how he comes to be her [[Warder]].
+
+The novel begins with the return of the [[Aiel]] to the [[Aiel Waste]], and a [[Foretelling]] by the [[Keeper of the Chronicles]], [[Gitara Moroso]], that the Dragon has been born. Moiraine, Siuan and the [[Amyrlin Seat]] [[Tamra Ospenya]] are the only ones to witness the foretelling. The Amyrlin then sets Accepted to record the births of all babies in towns and camps around [[Tar Valon]] and [[Dragonmount]] during the last days of the Aiel War, as a secretive way of finding the Dragon without letting other [[Aes Sedai]] know what is happening.
+
+Moiraine and Siuan are tested and become Aes Sedai. Shortly after this, Tamra and a number of Aes Sedai she had secretive meetings with die mysteriously, and a new Amyrlin is chosen. The new Amyrlin [[Sierin Vayu]] tells Moiraine that she must stay in [[Tar Valon]], as the tower has plans to put her on the throne of [[Cairhien]]. Moiraine flees north to the Borderlands, where she encounters Lan.
+
+Lan's story through the novel follows moves made by his ''[[carneira]]'', the Lady [[Edeyn ti Gemallen Arrel|Edeyn Arrel]], to raise support for him to regain the lands of [[Malkier]], and to make Lan its King in more than just name. She also plots to marry her daughter [[Iselle Arrel|Iselle]] to Lan to make her Queen of Malkier.
+
+The novel ends in the city of [[Chachin]], where Moiraine takes on the former [[Mistress of Novices]], [[Merean Redhill]], who is discovered to be [[Black Ajah]]. The confrontation results in five deaths, including Merean and Iselle, which takes all the wind out of Edeyn's plot. After this, Lan leaves Chachin and Moiraine finds him outside the city. She tells him everything, including the existence of Black Ajah, and asks him to be her Warder. He accepts and is bonded.
+
+The title "''New Spring''" is not only a reference to the fact that winter has gone on much longer than usual, but it also refers to the major changes that are about to happen with the birth of the [[Dragon Reborn]].
+==Plot Developments by Character==
+[[Accepted]] [[Moiraine Damodred]] and [[Siuan Sanche]] witness [[Gitara Moroso]]'s [[Foretelling]] of the [[Dragon]]'s rebirth. They are sworn to secrecy and raised to [[Aes Sedai]].
+
+Moiraine begins a quest to search for the prophesied child, and meets up with [[Lan Mandragoran]].
+==Graphic novel==
+{{main|New Spring comic}}
+It is also the first of Jordan's works to be adapted to graphic novel format. Issue #1 was published in July 2005. Issue 2 was to be published sometime in September 2005.The comics are adapted by Chuck Dixon, drawn by Mike S. Miller, colored by Etienne St Laurent, edited by Ernst Dabel, lettered by Artmonkeys, with design by Bill Tortolini. The original company that produced the comic when bust and the comic is now released by [[Dynamite Entertainment]]. They released comic number 8 and the trade paperback novel.
+{| class="wikitable" border="1" cellspacing="0" cellpadding="0"
+!Issue #
+!Issue title
+!Book chapters covered
+!Release date
+|-
+|1
+|"The Hook"
+| align="center" |1, 2
+|July, 2005
+|-
+|2
+|"Practice"
+| align="center" |3-5
+|August, 2005
+|-
+|3
+|"Shreds of Serenity"
+| align="center" |6-8
+|September, 2005
+|-
+|4
+|"It Begins"
+| align="center" |9-11
+|November, 2005
+|-
+|5
+|"Business in the City"
+| align="center" |12-14
+|December, 2005
+|-
+|6
+|"The Deep"
+| align="center" |15-18
+|April, 2009
+|-
+|7
+|"Pond Water"
+| align="center" |19-22
+|July, 2009
+|-
+|8
+|"The Evening Star"
+| align="center" |23-Epilogue
+|May, 2010
+|-
+|The Graphic Novel
+|
+| align="center" |1-Epilogue
+|February, 2011
+|}
+
+==Statistical analysis==
+:''See also the [[New Spring/Statistical analysis|full statistical analysis for this book.]]''
+''New Spring'' contains 26 chapters and an epilogue, of which:
+
+{| class="wikitable" cellpadding="4"
+!POV
+!%
+!Chapters
+|-
+|[[Moiraine Damodred]]
+| align="right" |71
+|Ch2 to 11, 65% of Ch12, Ch13, 14, 17 to 19, 58% of Ch21, Ch23 to 25, 72% of Ch26, and all of the Epilogue
+|-
+|[[Lan Mandragoran]]
+| align="right" |26
+|Ch1, 10% of Ch12, Ch15, 16, 20, 42% of Ch21, Ch22, and 28% of Ch26
+|-
+|[[Siuan Sanche]]
+| align="right" |3
+|25% of Ch12
+|}
+----
+{{books}}
+{{ns-reread}}
+{{DISPLAYTITLE:''New Spring''}}
+
+[[es:Nueva Primavera]]
+[[Category:Main Series| 0]]
+[[Category:Books]]

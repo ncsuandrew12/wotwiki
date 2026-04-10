@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|June}}
+|{{Wotmonth|Saven}}
+|}
+'''Saven 28 (June 7)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:june 7|June 7]]
+
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

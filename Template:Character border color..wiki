@@ -1,0 +1,1 @@
+{{#switch:{{{1}}}|Perrin Aybara|perrin aybara=#FFF300|#999999}}<noinclude>[[Category:Color templates|Character border color]]</noinclude>

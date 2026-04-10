@@ -1,0 +1,22 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| birth={{ne|990}}- {{ne|991}}
+| nationality=Aiel
+| gender=Male
+| occupation=Clan chief
+| affiliation=
+| height=Tall
+| build=
+| hair=
+| status=Unknown
+| clan=Taardad
+| sept=Unknown sept
+| mentioned={{tom|49}}
+}}
+
+'''Ronam''' will be the clan chief of the [[Taardad]] Aiel seventeen years after the [[Last Battle]] seen by [[Aviendha]] in the [[Glass columns]] of [[Rhuidean]].
+
+Ronam is the son of [[Rhuarc]]. In Aviendha's vision of her daughter [[Padra]] Padra states he is ten years older than she.  In this vision Ronam recalls seeing [[Rand al'Thor]] when the man had visited [[Cold Rocks Hold]]. He attends the meeting where the Aiel decide to go to war with the [[Seanchan]]. After the decision has been made, he and [[Padra]] discuss it and neither are sure it was the right thing to do.
+[[Category:Foreseen people]]
+[[Category:Short pages]]

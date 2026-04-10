@@ -1,0 +1,21 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| rank=Lieutenant-General
+| status=Alive
+| nationality=Seanchan
+| gender=Male
+| mentioned={{tgs|36}}
+| lastmentioned={{tgs|36}}
+| living=tgs
+}}
+'''Abaldar Yulan''' is the Lieutenant-General in charge of the [[Seanchan]] raid on [[Tar Valon]].
+
+He decided to leave with his force of raken, to'raken, soldiers, ''damane'' and ''sul'dam'' at sunset to avoid the chance that a warning could be taken to Tar Valon by someone that can travel. He is in favor with [[Tuon]] due to his efforts and two of his fingernails are lacquered to show his rise in station.
+
+== The Last Battle ==
+In a meeting of the blood, Yulan argues that Mat has proven himself reckless as the commander of the Last Battle and that his scouts say that the battle is not going well. [[Min Farshaw|Min]] sees a chain above Yulan's head and realizes he is being used as a spy under [[compulsion]]. She uses the announcement of this treachery as a distraction to attack a ''so'jhin ''that hides her channeling abilities.{{ref|It was Moghedien as proven in AMOL 41}}
+[[Category:Soldiers]]
+[[Category:Ever Victorious Army]]
+
+{{Notes}}

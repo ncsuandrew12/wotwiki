@@ -1,0 +1,25 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  {{<includeonly>subst:</includeonly>PAGENAME}}! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''{{SITENAME}}'''!. Thanks for your edit to the [[:Template talk:Summary]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! [[User:Mainphramephreak|Mainphramephreak]] ([[User talk:Mainphramephreak|talk]]) 10:21, May 23, 2013 (UTC)
+|}
+
+== Template ==
+
+Hello. What wiki were you thinking of using the chapter summary template on? If you need any help, let me know. ---- {{User:Mainphramephreak/Sig/Subst}} 22:22, May 23, 2013 (UTC)
+
+Thanks, for the offer. I am working on [[w:c:stormlightarchive|StormLight Archive]] Wikia. Our chapter summaries pages look very similar to yours([[w:c:stormlightarchive:The_Way_of_Kings:_Chapter_1|for example]]). I am toying with the idea of adding a chapter index on the side like you do( [[w:c:stormlightarchive:User:Mbg2/sandbox#collapsible|draft]]) to improve navigation, but I don't want it to overburden the page.--[[User:Mbg2|Mbg2]] ([[User talk:Mbg2|talk]]) 22:52, May 23, 2013 (UTC)

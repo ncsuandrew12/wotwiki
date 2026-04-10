@@ -1,0 +1,71 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=200px
+| ewot=Nisao
+| ajah=Yellow
+| gender=Female
+| nationality=Unclaimed territories
+| rank=Aes Sedai
+| affiliation=White Tower
+| height=Very Short
+| status=Alive
+| appeared={{tfoh|50}}
+| lastappeared={{kod|23}}
+| lastmentioned={{tgs|45}}
+| living=tgs
+|birth = {{ne|821}}}}'''Nisao Dachen''' is an [[Aes Sedai]] of the [[Yellow Ajah]].
+
+==Appearance==
+She is very short (under five feet) and has an average build for her height. Neither plain nor beautiful, she has dark hair and large dark brown eyes that are her best feature.
+
+She is considered intelligent, even by Romanda. As a Yellow, she is self-assured and thus often unwilling to step back for anyone. {{ref/book|10|16}}
+
+==Strength and Abilities==
+Nisao is [[Strength in the One Power among Aes Sedai|strong]] by Aes Sedai standards, with a strength of {{opsl|22}}. She was likely chosen as a 
+member of [[Egwene al'Vere's Council]] for this reason, although (along with [[Beonin Marinye]]) she is the weakest of that group. Nonetheless, she is the second strongest member of the Yellow we know of among the [[Rebel Aes Sedai]], the strongest being [[Romanda Cassin]]. She has sufficient strength to [[Traveling|Travel]].
+
+Her area of study is the healing of the mind problems and diseases.{{ref/book|7|12}}
+
+She has the ability to read resonances of ''[[saidin]].''{{ref/book|10|20}}
+
+== History ==
+Nisao is 179 years old. She was born in {{ne|821}} in a village south of [[Kandor]] on the road to [[Tar Valon]] and went to the [[White Tower]] in {{ne|837}}. After spending eleven years as a [[novice]] and seven years as [[Accepted]], she was raised to the [[shawl]] in {{ne|855}}.
+
+She bonded [[Sarin Hoigan]] as her [[Warder]].
+
+==Activities==
+=== Swearing fealty ===
+She has allied herself with the [[Salidar Aes Sedai]].
+
+She thinks [[Nynaeve al'Meara]]'s notion of [[Healing]] [[stilling]] foolish and refused to even talk to her.{{ref/book|6|8}}
+
+She is present in the [[Little Tower]] when Nynaeve Heals both [[Siuan Sanche]] and [[Leane Sharif]] from their [[Stilling]], completely shocking everyone.{{ref/book|6|30}}
+
+Nisao assists [[Myrelle Berengari]] in Healing [[Lan Mandragoran]] when he arrives, as she is interested in illnesses of the mind.{{ref/book|7|12}} When Egwene and Siuan discovered about this illegal [[bonding]], Myrelle and Nisao are forced to swear fealty to the [[Amyrlin Seat]] to escape punishment, thus Nisao is among the first sisters to swear fealty to [[Egwene al'Vere]]; subsequently Nisao is acerbic toward Myrelle for involving her in this situation.
+
+Later Nisao is chosen to become a member of [[Egwene's Council]]; she had to use whatever influence she had in her Ajah to make sure she was chosen. Nisao and the other Aes Sedai who swore fealty to Egwene are still unsettled about it. Nisao frowns constantly {{ref/book|7|16}} and the other six do not accept her presence well.
+She is with Egwene and [[Gareth Bryne]] when they survey the area around Tar Valon{{ref/book|10|16}}.
+
+Despite this forced alliance to Egwene, Nisao proved to be loyal to her. She finds the bodies of [[Anaiya Carel]] and [[Setagana]], revealing to Egwene that they had been killed with ''[[saidin]]''.{{ref/book|10|20}} She also comes to Egwene with the news that [[Kairen Stang]] was also found murdered, killed with ''saidin''.{{ref/book|10|30}} Egwene told her to investigate discretely about it.
+
+Even after Egwene is captured, Nisao continues her investigation and when [[Lelaine Akashi]] try to stop her, because the sisters involved are from the [[Blue Ajah]], Nisao doesn't quit. In fact she comes to seek a meeting with [[Romanda Cassin]]. She tells Romanda that Lelaine has forbidden her to carry on investigating the deaths of both Kairen and Anaiya, citing that it is Blue Ajah business. But Nisao complained that she was charged by Egwene to investigate those murders and Romanda gives her permission to carry on looking for the murderer.{{ref/book|11|23}}
+
+===Black Tower delegation===
+Somehow Lelaine (with probably some aid from [[Sheriam Bayanar]]) finds a way to send away several sisters sworn to Egwene.
+
+In fact Nisao, Myrelle, [[Theodrin Dabei]] and [[Faolain Orande]] are part of the delegation sent to the [[Black Tower]] and has not been heard from them in some time.{{ref/book|12|45}} This is a very strange choice to send Nisao because she has a Warder. Strange choices also for Theodrin and Faolain that are not recognised full sisters from the majority of the rebels. Egwene wonders if someone was purposely sending away many of her supporters.
+
+After the battle in the Black Tower, Nisao may or may not have bonded one or several of the promised forty-seven [[Asha'man]], and likely fought in the [[Last Battle]].
+
+It is presumed she survived the Last Battle.
+
+== Trivia ==
+Excluding the [[Atha'an Miere]] and [[Tuatha'an]], Nisao is one of only two Aes Sedai who is born [[:Category:Unclaimed territories (people)|outside of the main nations or city-states]] of the books. She was born in a village south of Kandor on the the way to Tar Valon. The territory may or may not be a dependency of Tar Valon. The second Aes Sedai is [[Yukiri Haruna]].
+{{Notes}}
+{{DEFAULTSORT:Dachen, Nisao}}
+[[es:Nisao Dachen]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Best healers]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

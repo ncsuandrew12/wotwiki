@@ -1,0 +1,55 @@
+{{character 
+| image= BlueAjah.png
+| imagesize=250px
+| ewot=Cabriana
+| ajah=Blue
+| nationality=Tairen
+| gender=Female
+| status=Dead
+| death={{ne|999}}
+| rank=Aes Sedai
+| eyes=Pale Blue
+| hair=Long, Golden
+| appeared={{ns|12}}
+| lastappeared={{loc|6}}
+| lastmentioned={{kod|23}}
+|birth = {{ne|911}}}}
+'''Cabriana Mecandes''' was an [[Aes Sedai]] of the [[Blue Ajah]].
+
+== Appearance ==
+She had long golden hair and pale blue eyes, which was fairly rare for a Tairen.
+
+==Abilities==
+Cabriana was [[Strength in the One Power among Aes Sedai|very weak]] in the [[One Power]], with a strength in the One Power of {{opsl|40}}. This is marginally above [[Siuan Sanche]]'s strength after she was healed from [[Stilling|Severing]]. Moiraine describes her as "not very strong at all".{{ref/book|0|12}}
+
+Cabriana has the [[Talent]] of fast learning.{{ref|{{twotc}}, Cabriana Mecandes}}
+
+==History==
+Cabriana was a [[Tairen]] from a noble house. She was born with the [[spark]] in {{ne|911}} and when her ability manifested in {{ne|927}} she was immediately sent to the [[White Tower]], though she went unwillingly.
+
+She was a fast learner who could have moved faster as [[novice]] and [[Accepted]] had she not spent a good deal of time sulking over being sent to the Tower, because she did not want to became an Aes Sedai. She spent twelve years as novice and seven as Accepted before being raised to the [[shawl]] in the year {{ne|946}}.
+
+She, [[Anaiya Carel]], and [[Kairen Stang]] were nicknamed "The Three" because they did not share any of their activities with anyone else except each other.
+
+She was the Aes Sedai that showed [[Moiraine Damodred]] and [[Siuan Sanche]] their living quarters just after they were raised to the Blue Ajah. Even then she showed the two newly raised Aes Sedai a submissive attitude. This surprised Moiraine, who did not yet know that Aes Sedai ranking is based on strength, especially as Cabriana seemed to have a strong personality.
+
+==Activities==
+After the [[Schism]] and before reaching [[Salidar]], Cabriana and her [[Warder]] were captured by [[Darkfriends]].
+
+On the orders of the [[Dark One]], via [[Shaidar Haran]], [[Semirhage]] tortured Cabriana for all the information she had on the Salidar Aes Sedai and their involvement with [[Rand al'Thor]]. To her credit, Cabriana tried to resist, but was broken when Semirrhage tortured her Warder to death. 
+
+Semirhage had this information passed on to [[Aran'gar]], who showed up in Salidar under the guise of Halima Saranov and claiming to have been Cabriana's companion. Halima told the [[Salidar Aes Sedai]] that Cabriana was killed in a fall. But this story generated suspicion among Cabriana's best friends, Anaiya and Kairen, who started investigating and were killed by Halima.
+
+It is confirmed in "The Wheel of Time Companion" that Cabriana was killed after questioning.
+
+{{DEFAULTSORT:Mecandes, Cabriana}}
+
+[[es:Cabriana Mecandes]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Sparkers]]
+[[Category:Channelers]]
+[[Category:Blue Ajah]]
+[[Category:Deceased]]
+[[Category:Aes Sedai]]
+[[Category:Nobility]]
+[[Category:Ladies]]

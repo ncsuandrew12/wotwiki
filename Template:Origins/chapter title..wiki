@@ -1,0 +1,14 @@
+{{#switch: {{lc:{{{1}}}}}
+|d|dedication=Introduction
+|f|foreword=Introduction
+|l|letter=A Letter to Readers from the Author
+|i|intro|introduction=Introduction
+|1|wheelwright|life=Chapter 1{{#if:{{{2|}}}|&nbsp;- The Wheelwright}}
+|2|axle|tolkien=Chapter 2{{#if:{{{2|}}}|&nbsp;- The Axle and the Wheel}}
+|3|turns|work=Chapter 3{{#if:{{{2|}}}|&nbsp;- The Wheel Turns}}
+|4|real=Chapter 4{{#if:{{{2|}}}|&nbsp;- The Real World in The Wheel of Time}}
+|p|photos=Chapter 4{{#if:{{{2|}}}|&nbsp;- The Real World in The Wheel of Time}}
+|a|acknowledgments=Acknowledgments
+|e|r|n|endnotes|endnote|note|notes|ref|references|reference=Endnotes
+|{{{2|}}}
+}}

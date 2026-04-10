@@ -1,0 +1,6 @@
+<table id="no_license" class="messagebox noprint" cellpadding="3" cellspacing="0" border="0" style="border:2px solid #BB7C77; background:#242424; text-align:left;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Copyright-uncertain.svg|80px]]</td><td style="overflow:hidden; width:100%;">''This image '''does not have information on its [[Wikipedia:Copyright|copyright]] status'''.  It may be usable under fair use but this has yet to be verified.  It might be [[Wikipedia:Public domain|public domain]] or under a license compatible with the [[Wikipedia:GNU Free Documentation License|GNU FDL]]. To the uploader: Please provide licensing information as soon as possible. Images without this information may be deleted in the future.''</td></tr></table>
+<noinclude><noinclude>
+<noinclude>
+</noinclude><noinclude>
+[[Category:Licensing|No license]]</noinclude><noinclude>
+[[Category:Image templates|No license]]</noinclude>

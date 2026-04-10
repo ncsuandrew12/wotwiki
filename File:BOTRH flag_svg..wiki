@@ -1,0 +1,6 @@
+{{Image
+| License            = gfdlself
+| ImageType1          = Flag
+| Description        = Flag of Band of the Red Hand
+| Source             = Hand from http://www.heraldicclipart.com/catalog/Hand%20dexter.html
+}}

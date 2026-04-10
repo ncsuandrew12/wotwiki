@@ -1,0 +1,52 @@
+{{ character 
+| image=Accepted icon.png
+| imagesize=250px
+| nationality=Cairhienin
+| gender=Female
+| status=Alive
+| occupation=Wise Woman
+| affiliation=The Kin
+| build=Stout
+| height=Short
+| appeared={{acos|23}}
+| lastappeared={{acos|23}}
+| lastmentioned={{acos|31}}
+| living=acos
+}}
+{{quote|We do not try to reach above our station, but skills are honed with time, and this was always nearly a Talent with me. I could hold one of the Forsaken.|Berowin|Shielding}}
+{{dablink|For the similarly named [[Emond's Field]] resident, see [[Berowyn al'Vere]]}}
+'''Berowin''' is a member of the [[Kin]] in [[Ebou Dar]]. 
+
+==Appearance==
+She is short at 5'1, and stout with a tanned face and wears the red belt of an Ebou Dari Wise Woman. She appears to be about forty despite being much older.
+
+==Abilities==
+Her strength is {{opsl|48}}, a low level by Aes Sedai standards, but strong enough to become a Sister. However, she failed her test for Aes Sedai and was put out of the White Tower. She hoped to be given a second chance to become Aes Sedai; she was ashamed that she had disappointed [[Sereille Bagand]], who was [[Mistress of Novices]] when she failed.
+
+Despite this weakness she seems to have a [[Talent]] for [[Shielding]]. Her shields do not break, but rather bend and stretch, which is extremely unusual. Also she is able to shield very strong channellers such as Nynaeve and Elayne and also to maintain these two shields simultaneously without apparent effort.{{ref/book|7|23}}
+
+==History==
+Berowin was originally from [[Cairhien]]. She is relatively weak in the [[One Power]], weaker than nearly all [[Aes Sedai]]. She is contemptuous of [[Wilder]]s.
+
+She was born in {{ne|758}}, went to the Tower in {{ne|775}}, and spent twelve years as a novice and eleven as Accepted before failing the test for Aes Sedai.
+
+Berowin is one of those among the Kin who dreamed they may return back to the [[White Tower]] one day.
+
+==Activities==
+She meets Elayne and [[Nynaeve al'Meara]] when [[Setalle Anan]] deposits them there after mistaking them for runaway novices.  
+
+Berowin almost gives the Kin away when she greets [[Garenia Rosoinde]], who had been away from [[Ebou Dar]] for a long time.
+
+Nynaeve begs Berowin and Garenia to give them information on the [[Bowl of the Winds]] - Berowin hesitates, but Garenia blurts out that she would have sent them out to [[The Farm]] for punishment. For this, Berowin castigates Garenia and forces her to apologize. This confuses Nynaeve because Garenia is very strong in the power, whereas Berowin is very weak.
+
+Berowin notices that Elayne and Nynaeve know the trick of not letting the heat touch them. She believes that Nynaeve, at least, may actually be Aes Sedai.
+
+She is present on the Kin's farm when Elayne and Nynaeve arrive with the rest of their group and the [[Bowl of the Winds]]. She brought word to [[Alise Tenjile]] of trouble in the city.
+
+Like all the Kinswomen in the farm, she later traveled to Andor. 
+
+{{notes}}
+[[Category:Farm Group]]
+[[Category:Channelers]]
+[[Category:Accepted]]
+{{DEFAULTSORT:Doraisin, Berowin}}

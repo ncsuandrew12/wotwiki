@@ -1,0 +1,50 @@
+{{ character
+| image=TamraOspenya.jpg
+| imagesize=250px
+| ewot=Tamra_Ospenya
+| nationality=Unknown nationality
+| death={{ne|979}}
+| status=Dead
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| ajah=Blue
+| gender=Female
+| hair=Dark, streaked with gray
+| appeared= {{ns|2}}
+| lastappeared={{ns|12}}
+| lastmentioned={{tgs|8}}
+}}'''Tamra Ospenya''' (pronounced: TAHM-rah oh-SPEHN-yah) was the [[Amyrlin Seat]] at the time of [[Rand al'Thor]]'s birth, raised from the [[Blue Ajah]] in {{ne|973}}.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+==Appearance==
+She was described as having long hair streaked with gray as well as a square face.{{Ref/book|0|2}}
+
+== Strength ==
+Tamra was of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of {{opsl|25}}. This is further evidence that strength is not always a factor when it comes to appointed positions.
+
+==History==
+She was thought to be fair and always just.{{Ref/book|0|2}} She also seemed to be a devious manipulator.
+
+She was raised to Amyrlin Seat from the Blue Ajah in {{ne|973}}. Her raising to the staff and stole was rumored to be the reason for the retirement of [[Romanda Cassin]] and [[Marith Jaen]].
+
+She was [[Noane Masadim]]'s successor and [[Sierin Vayu]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}} This makes her the first known Amyrlin Seat to be raised from the same Ajah as her predecessor. It has been speculated that as with the case of [[Marith Jaen]] and [[Siuan Sanche]], this consecutive pair of Blue Amyrlins was the work of the political skill of the Blue Ajah [[First Selector]] of the time, [[Eadyth]], who was also a [[Sitter]] at the time.
+
+[[File:Tamra Ospenya.jpg|250px|thumb|left|Tamra Ospenya holding Gitara's dead body]]
+
+==Activities==
+On the last day of the [[Aiel War]], as the [[Battle of the Shining Walls]] ended, Tamra was one of three people to hear [[Gitara Moroso]]'s [[Foretelling]] of the rebirth of the [[Dragon]] immediately before Gitara died. At this point Tamra began her search for the child she knew must be born by appointing [[Tamra Ospenya's Searchers|searchers]]. The other two present, the then [[Accepted]] [[Moiraine Damodred]] and Siuan Sanche, were forbidden to reveal this secret to anyone. {{Ref/book|0|2}}
+
+When the [[Black Ajah]] discovered what had happened, they—[[Galina Casban]] and [[Chesmal Emry]] in particular—tortured and murdered Tamra, along with the [[Aes Sedai]] that she had sent searching for the Dragon Reborn. Tamra's death in the tower was explained by an announcement that she had "died in her sleep." This left only Moiraine and Siuan outside of the Black who knew of the rebirth, so this began their search. {{Ref/book|0|14}}
+
+[[Alviarin Freidhen|Alviarin Freidnen]] remembers that it was [[Jarna Malari]], the former head of the Black Ajah, who ordered this quite unsuccessful interrogation.{{Ref/book|7|Prologue}} 
+
+{{notes}}
+{{DEFAULTSORT:Ospenya, Tamra}}
+[[es:Tamra Ospenya]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Ospenya, Tamra}}
+[[es:Tamra Ospenya]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

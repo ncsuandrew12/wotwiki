@@ -1,0 +1,30 @@
+{{ character
+| image=Kin Tovere.jpg
+| imagesize = 250px
+| nationality=Cairhienin
+| occupation=Lensmaker
+| affiliation=The Dragon Reborn
+| gender=Male
+| build=Stocky
+| status=Alive
+| hair=Bald
+| appeared={{tfoh|41}}
+| lastappeared={{loc|18}}
+| lastmentioned={{cot|p}}
+| living=wh
+}}
+'''Kin Tovere''' is a lensmaker from [[Cairhien]]. 
+
+== Appearance ==
+He is stocky and bald.
+
+== Activities ==
+He invented a telescope which [[Rand al'Thor]] uses to watch the battle of [[Cairhien]] through and currently works at Rand's [[School of Cairhien]].
+
+He later draws up plans for a telescope which can look to the stars. Rand is so impressed he tells Kin to start building it.
+
+[[Idrien Tarsin]] reports to Rand that Kin has finished his looking glass and can now see the moon quite clearly.
+
+{{DEFAULTSORT:TOvere, Kin}}
+[[Category:Cairhien Academy]]
+[[Category:Inventors]]

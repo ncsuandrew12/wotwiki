@@ -1,0 +1,9 @@
+{{swordform
+| mentioned={{11|p}}
+| used=[[Galadedrid Damodred]]
+}}
+
+'''Reaping the Barley''' is a [[sword form]]. [[Galadedrid Damodred]] used this form against [[Eamon Valda]] during the [[Trial Beneath the Light]]. Galad sliced Valda just beneath his rib cage.{{ref/book|11|p}}
+
+{{notes}}
+{{short}}

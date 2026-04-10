@@ -1,0 +1,6 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = The [[Forsaken]] [[Be'lal]]
+| Source             = [http://www.dragonmount.com/Books/forsaken_pics.php "13 Days of Christmas"] donated by [[Dabel Brothers]]
+}}

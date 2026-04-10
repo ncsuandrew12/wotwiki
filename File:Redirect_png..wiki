@@ -1,0 +1,5 @@
+{{Image
+| License                 = Creative Commons
+| ImageType1              = Admin
+| Description             = Spoiler redirecting
+}}

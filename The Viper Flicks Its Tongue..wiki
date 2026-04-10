@@ -1,0 +1,9 @@
+{{swordform
+| mentioned={{12|13}}
+| used=[[Sleete]]
+}}
+'''The Viper Flicks Its Tongue''' is a [[sword form]]. It can be used when a swordsman fights alone, but it is more effective when used with an ally. [[Sleete]] used this form when he and [[Marlesh]] practiced against [[Gawyn Trakand]] in the village of [[Dorlan]]. Gawyn countered with [[Cat Dances on the Wall]].{{ref/book|12|13}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Viper Flicks Its Tongue, The}}

@@ -1,0 +1,23 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Male
+| build=Fat
+| affiliation=Two Rivers
+| status=Alive
+| appeared={{tsr|56}}
+| lastappeared={{tsr|56}}
+| living=tsr
+}}
+'''Athan Dearn''' is a resident of the [[Two Rivers]].
+
+== Appearance ==
+He is fat.
+
+== Activities ==
+He helps defend [[Emond's Field]] against the invading [[Trolloc]] army.{{ref/book|4|56}}
+
+{{notes}}
+{{DEFAULTSORT:Dearn, Athan}}
+[[Category:Short pages]]

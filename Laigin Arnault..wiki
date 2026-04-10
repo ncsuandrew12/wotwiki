@@ -1,0 +1,27 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Tarabon
+| rank=Aes Sedai
+| gender=Female
+| affiliation= White Tower
+| status=Dead
+| death={{Ne|999}}
+| mentioned={{tpod|13}}
+| lastmentioned={{tpod|13}}
+}}'''Laigin Arnault''' was an [[Aes Sedai]] of the [[Red Ajah]].{{ref|{{twotc}}, Laigin Amault}}
+
+==History==
+She is from [[Tarabon]].
+
+==Activities==
+She was killed while taking [[Rand]] as a prisoner to the [[White Tower]]. Rand still considers her as one of the women who died for him. She was possibly one of the sisters holding his shield when he escaped from the chest they used to hold him.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Arnault, Laigin}}
+[[Category:Cairhien expedition]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

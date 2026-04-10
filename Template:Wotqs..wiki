@@ -1,0 +1,6 @@
+<includeonly>{{#invoke:WotQ|render_wot_quote_search}}</includeonly><noinclude>
+{{documentation}}
+[[Category:Quotelist templates]]
+[[Category:Quotation templates]]
+[[Category:Templates]]
+</noinclude>

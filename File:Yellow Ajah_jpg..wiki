@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| ImageType2         = CCG
+| Description        = A member of the [[Yellow Ajah]].
+| Source             = A promo card for ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Clyde Caldwell 
+}}

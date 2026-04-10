@@ -1,0 +1,30 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| ewot=Jennet
+| name=Jennet
+| nationality=Murandian
+| gender=Female
+| affiliation=Murandy 
+| title=Lady
+| rank=Novice
+| eyes=Big
+| status=Alive
+| appeared={{tpod|18}}
+| lastappeared={{tpod|18}}
+| lastmentioned={{kod|23}}
+| living=kod
+}}
+{{dablink|For the [[Aes Sedai]] of the [[Gray Ajah]], see [[Jennet (Aes Sedai)|Jennet]].}}
+'''Jennet''' is a noblewoman from [[Murandy]]. 
+
+==Appearance==
+She has big eyes.
+
+==Activities==
+She is one of the nobles present at the [[rebel Aes Sedai]] meeting on the border of Murandy and [[Andor]]. She and the other nobles grate at not being introduced with their full titles.
+
+She asks [[Egwene al'Vere]] about her proclamation regarding a new policy that opens up the [[novice book]] to women of any age.
+
+Later, she becomes a [[novice]] who is talented with the new [[Healing]] [[weave]]s.
+[[Category:Nobility]]

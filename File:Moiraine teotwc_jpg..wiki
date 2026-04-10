@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = [[Moiraine Damodred]]
+| Source             = ''[[The Eye of the World 1]]''
+| Artist             = Chase Conley
+| Artist2            = Nicolas Chapuis‎
+}}

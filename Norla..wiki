@@ -1,0 +1,21 @@
+{{character 
+| image=Flame-icon.svg
+| imagesize=125px
+| ewothist=Norla
+| status=Dead
+| nationality=Unclaimed territories
+| gender=Female
+| mentioned={{wh|34}}
+| lastmentioned={{cot|23}}
+}}'''Norla''' was a [[wilder]] who once lived on a farm in the heart of the [[Black Hills]].{{Ref|{{twotc}}, Norla|Norla}}
+==Appearance==
+She was an old and toothless woman.{{Ref||Norla}}
+
+==History==
+Norla encountered [[Cadsuane Melaidhrin]] a short time after Cadsuane had been newly raised to the [[shawl]].  Cadsuane experienced a humbling lesson at the hands of Norla.  Norla also was the person who gave Cadsuane her various hair ornament ''[[angreal]]'' and ''[[ter'angreal]]''.{{ref/book|9|34}}{{ref/book|10|23}}  
+
+{{notes}}
+{{short}}
+[[Category:Wilders]]
+[[Category:Channelers]]
+[[Category:Black Hills (people)]]

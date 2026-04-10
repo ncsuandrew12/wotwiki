@@ -1,0 +1,37 @@
+{{ character
+| image=Sarand.png
+| imagesize=250px
+| ewot=Jarid
+| nationality=Andoran
+| gender=Male
+| title=Lord
+| rank=High Seat
+| affiliation=House Marne
+| status=Alive
+| appeared={{tfoh|19}}
+| lastappeared={{amol|p}}
+| lastmentioned={{amol|1}}
+| living=amol
+}}
+'''Jarid Sarand''' is a high-ranking noble of [[Andor]] and [[High Seat]] of [[House Sarand]]. He is married to [[Elenia Sarand]], to whom he is completely devoted. 
+
+==Appearance==
+He is dark and square faced.
+
+==History==
+Jarid was one of the nobles who didn't support [[Morgase Trakand]] when she assumed the throne after the Succession, and was forced to swear fealty to her afterwards.
+
+==Activities==
+[[File:Jarid.jpg|thumb|left|Jarid according to the CCG]]He was one of the nobles who spent time in the [[Royal Palace of Andor]] when Queen Morgase was under the thrall of [[Gaebril|Lord Gaebril]]. After Gaebril's demise he spent his time fawning over [[Rand al'Thor]].
+
+When [[Elayne Trakand|Elayne]] returned to Andor, he was part of [[Arymilla Marne]]'s forces that have laid siege of Caemlyn. He was kept separate from Elenia so he would be unable to find a way to escape Arymilla with his wife.
+
+Arymilla mobilized her entire force and attacked the [[Far Madding Gate]]. Her army was outflanked and surrendered. Jarid still had a sizable force behind him and was still at large.
+
+His camp was apparently struck by a [[bubble of evil]] which reduced all the metal there to sludge. Their weapons useless, his troops deserted, leaving him tied to a tree while ghosts appeared around them.{{ref/book|14|p}}
+
+{{notes}}
+{{DEFAULTSORT:Sarand, Jarid}}
+
+[[es:Jarid Sarand]]
+[[Category:Nobility]]

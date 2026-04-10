@@ -1,0 +1,28 @@
+{{RPG}}
+{{Character
+| image=Wheel-icon.svg
+| imagesize=250px
+| occupation =Innkeeper
+| title=
+| nationality=Almoth Plain
+| gender=Male
+| build=
+| height=
+| hair=
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| affiliation=
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+}}
+
+'''Hobbs DaVoren''' is the innkeeper of the [[Three Crowns Inn]], the local inn of [[Aturo's Orchard]].
+
+== History ==
+In {{ne|998}}, the town of Aturo's Orchard is attacked by the [[Children of the Light]]. Hobbs's brother's farm is attacked by the Children of the Light, leaving his niece [[Issa DaVoren|Issa]] alone and scared until she is brought to her uncle.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{DEFAULTSORT:DaVoren, Hobbs}}
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]

@@ -1,0 +1,18 @@
+{{character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Amadician
+| occupation=Cook
+| affiliation=Darkfriend
+| gender=Male
+| mentioned={{tfoh|18}}
+| lastmentioned={{tfoh|18}}
+| living=tfoh
+}}
+Fat '''Evan''' is the cook for [[Jorin Arene]] and [[Amellia Arene]]
+
+==Activities==
+[[Gyldin]] is sent to Fat Evan for punishment by [[Liandrin]] but since she is really Moghedien she uses compulsion to make the cook think he did the punishment he was supposed to do.{{ref/book|5|18}}
+
+{{notes}}

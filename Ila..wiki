@@ -1,0 +1,38 @@
+{{ character 
+| image=Leaves.png
+| imagesize=120px
+| nationality=Tuatha'an
+| hair=Gray
+| eyes=Dark
+| gender=Female
+| build=Plump
+| status=Alive
+| appeared={{teotw|25}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Ila''' is the wife of [[Raen]], a [[Seeker|Mahdi]] of the ''[[Tuatha'an]]''.  She is also grandmother of [[Aram]].
+
+== Appearance ==
+She is described as plump, and as gray as her husband, but still smooth-cheeked. She usually wears a blue fringed shawl.
+
+== Activities ==
+She does not like Elyas Machera, but considers [[Egwene al'Vere]] a lovely woman, and reminds [[Perrin Aybara]] of [[Marin al'Vere]], Egwene's mother. {{ref/book|1|25}}
+
+She helps Faile bandage Perrin after the Waterwood Trolloc ambush and provides a poultice and sleeping draught.{{ref/book|4|41}}
+
+She blames Perrin for Aram leaving the [[Way of the Leaf]].{{ref/book|4|45}}
+
+Along with the other Tinkers she is prepared to flee with the children of Emond's Field during the [[Battle of Emond's Field]].{{ref/book|4|56}}
+
+She is among the many Tuatha'an that find refuge and safety in the Seanchan-controlled lands.
+
+===Last Battle===
+Ila searches for wounded soldiers and marks the dead with an "X". She discourages her husband from picking weapons and fight saying that it is not their purpose. She deeply regrets her decision of turning her back on Aram instead of trying to bring him back. She also feels disgusted at the men who are picking the dead soldiers pockets.
+
+==In the television series==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Ila}} is played by actress {{TVlink|Maria Doyle Kennedy}}.
+
+{{notes}}<references /><references />
+
+[[Category:POV character]]

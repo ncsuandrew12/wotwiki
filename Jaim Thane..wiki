@@ -1,0 +1,21 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| mentioned={{tsr|43}}
+| lastmentioned={{tsr|43}}
+| living=tsr
+| status=Alive
+}}
+{{dablink|For others with the same first name, see [[Jaim]]. For others with the same surname, see [[Thane]].}}
+
+'''Jaim Thane''' is a boy from [[Emond's Field]].{{ref|{{twotc}}, Jaim Thane}}
+
+== Activities ==
+When [[Perrin Aybara]] returns to Emond's Field after a battle with [[Trolloc]]s, Jaim is one of the boys that runs to tell Loial he has returned.{{ref/book|4|43}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Thane, Jaim}}

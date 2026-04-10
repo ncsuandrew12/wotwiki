@@ -1,0 +1,78 @@
+{{character
+| image=Tsutama-1.jpg
+| imagesize=250px
+| ewot=Tsutama
+| ajah=Red
+| nationality=Kandori
+| gender=Female
+| affiliation=Elaida a'Roihan's White Tower
+| title=[[Highest]]
+| rank=Aes Sedai
+| occupation=Ajah Head
+| status=Alive
+| hair=Black, luxuriant
+| appeared={{ns|6}}
+| lastappeared={{tgs|43}}
+| lastmentioned={{kod|e}}
+| living=tgs
+| birth = {{ne|827}}
+| height=5'5" or 168cm
+| eyes=Dark}}
+'''Tsutama Rath''' (pronounced: tsue-TAH-ma RATH) is an [[Aes Sedai]], a former [[Sitter]] and the current [[Highest]] of the [[Red Ajah]]. 
+
+==Appearance and Personality==
+Tsutama is strikingly beautiful, with black luxuriant hair and a full bosom. She would have been considered even more beautiful except that she wears a permanently angry expression that almost overwhelms her agelessness. 
+
+She often wears all crimson, so bright that it might have given the most ardent Red pause, and cut tightly, molding her breasts or exposing them as if daring anyone to comment.
+
+She tends to wear lots of jewelry and she is flamboyant and given to indulging herself with luxury and rare and expensive items. It is unclear whether this is how she has always been or this is a result of spending so many years working on a farm with only her basic needs fulfilled.
+
+==Abilities and Strength==
+Tsutama has a strength in the [[One Power]] of {{opsl|27}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.{{verify|is she shown making a Gateway?}}
+
+==History==
+Tsutama is 173 years old. She was born in the year {{ne|827}} in [[Kandor]] and she went to the Tower in {{ne|841}}. After spending seven years as novice and six as Accepted she was raised to the shawl in the year {{ne|854}}. 
+
+She was elected as a Sitter in {{ne|964}} but was forced to resign in the {{ne|985}} following the discoveries of the so-called [[The Vileness|Vileness]].
+
+==Activities==
+
+[[File:Red Ajah.jpg|thumb|150px|Tsutama Rath as a Sitter of the Red Ajah. From the ''[[New Spring comic|New Spring]]'' graphic novel.]]
+
+Just before [[Moiraine Damodred]] was raised to the shawl, Tsutama approached her on the subject of who was to inherit the [[Sun Throne]] of [[Cairhien]] after the death of [[Laman Damodred]], asking whether Moiraine had ever thought of becoming Queen herself.
+
+===Exile===
+Tsutama had been a [[Sitter]] for more than twenty years until she was removed, punished and exiled by the Amyrlin [[Marith Jaen]] for the Red Ajah involvement in [[gentling]] male channelers outside of the [[White Tower]] laws. Along with her also the two other Red Sitters, [[Toveine Gazal]] and [[Lirene Doirellin]], suffered the same fate. 
+
+Although the true circumstances were kept secret for the good of the Tower, the former Red Sitters suffered a heavy penance: they were privately birched and then sent for many years to hard work in a distant farm, a supposedly voluntary retreat.
+
+[[Elaida do Avriny a'Roihan]] shortly after being elected Amyrlin, recalled Tsutama, Lirene and Toveine back to the White Tower; their exile had lasted around seventeen years. Tsutama believed to some degree that Elaida was involved enough in the Vileness to have also been punished for it. Unlike Lirene and Toveine, Tsutama considered the possibility of taking some sort of vengeance on the entire Red Ajah, and even the entire White Tower.
+
+Elaida thinks that Tsutama had become nervous-eyed after her years of hard labour. Also a bit broken by her experience. She was broken in some ways - she was afraid of being caught out in any further wrongdoing. However, she also  came back more ruthless and angry than ever. 
+Tsutama also stopped hating men, though she had come to that earlier: her one consolation during her painful exile was an affair that she began with a man, almost in desperation to find some solace.
+
+===The New Highest===
+Tsutama was elected Highest of the Red Ajah following [[Galina Casban]]'s prolonged disappearance, and an erroneous report of Galina's death. The fact that Tsutama was chosen as new Ajah Head just after her return can be considered a further proof that she was still considered a very strong and influential Sister, despite her shameful and humiliating exile. 
+
+As Highest Tsustama discussed with the Red Sitters [[Sashalle]]'s letter sent to the Ajah from [[Cairhien]], reporting her stilling and healing, along with her swearing fealty to the Dragon. That last bit made Tsutama angry at Sashalle. She also discussed with [[Tarna]] her considerations on [[Asha'man]], and how to deal with the [[Black Tower]].
+
+Because of it she assigns [[Pevara Tazanovni]] the mission to [[Bonding|bond]] [[Asha'man]] as [[Warders]]. Later, after learning that Pevara is having difficulty gathering enough sisters, Tsutama orders [[Javindhra Doraille]] to join Pevara.
+
+Pevara assembles her team of Red sisters: Javindhra, [[Desala Nevanche]], [[Jezrail]], [[Melare]], and [[Tarna Feir]] and together they travel to the [[Black Tower]] to put the proposition to the Asha'man. 
+
+The fact that Tsutama did this without informing anyone else is an example of the huge amount of power she holds as Highest. She is not only the Head of the largest Ajah, she is also regarded by all her Red sisters with as much respect as the [[Amyrlin Seat]].
+
+Nevertheless because of the later behavior of [[Mazrim Taim]] it can be suspected that the Black Ajah and Forsaken were somehow involved in easing the sending of sisters to the Black Tower to be turned to the Shadow, even though Tsutama was not Black herself.
+
+==Parallels==
+As a seemingly permanently angry Aes Sedai of the Red Ajah, her name comes from the words ''tsunami'' and ''wrath''.{{ref|[[Origins of the Wheel of Time]], Tsutama Rath}}
+
+{{DEFAULTSORT:Rath, Tsutama}}
+
+[[es:Tsutama Rath]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Sitters]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Parallels]]

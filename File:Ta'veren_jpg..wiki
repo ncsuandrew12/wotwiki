@@ -1,0 +1,9 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Fan Art
+| ImageType2              = Character
+| ImageType3              =
+| Description             = The three [[Ta'veren]].
+| Source                  = [http://dem888.deviantart.com/art/Ta-veren-149612871 DeviantArt]
+| Artist                  = Eric de Mander
+}}

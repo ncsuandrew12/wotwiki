@@ -1,0 +1,23 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| ewot=Swift
+| name=Swift
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Galina Casban
+| gender=Mare
+| color=Gray
+| appeared={{kod|p}}
+}}
+{{dablink|For the river ship, see ''[[Swift (ship)|Swift]]''.}}
+'''Swift''' is the horse owned by [[Galina Casban]].
+
+==Appearance==
+Swift is a gray mare with an arched neck and a lively step.
+
+==Activities==
+Despite being ''[[gai'shain]]'' to [[Sevanna]] of the [[Shaido]] [[Aiel]], Gailna is still allowed to ride Swift.{{ref/book|11|Prologue}} Swift was carrying Galina when she escaped from [[Malden]]. Galina and Swift were captured, however, when they stopped so that Galina could change her clothes.
+
+{{notes}}

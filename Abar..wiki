@@ -1,0 +1,21 @@
+{{ character
+| image=Sredit.png
+| imagesize=100px
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Male
+| build=Lean
+| nationality=Domani
+| appeared={{kod|8}}
+| lastmentioned={{kod|11}}
+| living=kod
+}}
+'''Abar''', with his brother [[Balat]], is a sword-swallower and fire-eater in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]].{{ref/book|11|8}}{{ref/book|11|11}}
+
+==Appearance==
+Abar is a lean man.
+
+==Activities==
+After [[Egeanin Tamarath]] and [[Bayle Domon]] get married, [[Matrim Cauthon]] buys a tent from Abar and Balat.{{ref/book|11|8}} Later, he is performing as Mat, [[Thomdril Merrilin]], [[Tuon Athaem Kore Paendrag]], and [[Selucia]] walk to [[Maderin]].{{ref/book|11|11}}
+
+{{notes}}

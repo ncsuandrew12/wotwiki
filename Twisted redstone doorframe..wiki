@@ -1,0 +1,29 @@
+{{quote|That world is…folded…in strange ways. I cannot be clearer. It may be that that allows them to read the thread of a human life, read the various ways it may yet be woven into the Pattern. Or perhaps it is a talent of the people. The answers are often obscure, however.|[[Moiraine Damodred]]}}
+{{dablink|For other uses of the word "stone," see [[Stone]].}}
+
+==Description==
+The books ''[[Dealings with the Territory of Mayene, 500 to 700 of the New Era]]'' and ''[[The Treasures of the Stone of Tear]]'' describe the doorways. The '''twisted redstone doorframes''' are a pair of ''[[ter'angreal]]'' of polished redstone. One doorway has three lines of triangles, points down, along each upright; the other has three sinuous lines running down each upright from top to bottom. These symbols allow the user to discern which inhabitants on the other side of the door they will interact with. The doorways look twisted and cause one's eyes to slip away before being able to tell how it connects at the top. Any person can step through the doorway, since [[channeling]] is not required, but they can use the ''ter'angreal'' only once.{{ref/book|4|6}} When the person steps through, they experience white light accompanied by a vast roar of sound. One is located in [[Tear]], the other was discovered in [[Rhuidean]].{{ref|[http://13depository.blogspot.com/2009/02/doorways-and-arches.html#rhuideandoorway The 13th Depository]}}{{ref|[http://encyclopaedia-wot.org/items/twisted_doorway.html EWoT]}}{{ref|[http://library.tarvalon.net/index.php?title%3dAelfinn TarValon Library]}}
+
+The doorways provide protected access to the domains of the [[Aelfinn]] and [[Eelfinn]], in the parallel world of the [[Finn]]. The [[Tower of Ghenjei]] in [[Andor]] can be entered by applying the rhyme from [[Snakes and Foxes]], but this approach gives the entrant no protection from the wiles of the Finn. Aside from entering the Tower directly, the twisted redstone doorframes are the only known intersections between the human world and the [[Sindhol]].
+
+In this ''ter'angreal'' the user and the Finn are bound to an agreement. The petitioner can ask three requests from the Eelfinn or three questions from the Aelfinn and the Finn will always grant them…at a very high price. As well as the price, the Finn savor the petitioner's experiences and emotions and forge a mental link so they can harvest their experiences and memories when the petitioner returns to their own world. The petitioner must also abide by the treaties and agreements and carry no iron, instruments of music, or devices for making light. The petitioner must ask all three questions, and hear the answers before leaving. "Frivolous questions" are punished (the same question may or may not be frivolous depending on who is asking), and questions about the [[Shadow]] can have dire consequences for the petitioner.{{ref/book|4|6}}
+
+==History==
+===The Aelfinn doorway===
+[[File:Doorway in Tear.jpg|thumb|right|The twisted redstone doorframe in [[Tear]]]]
+[[Aes Sedai]] studied the twisted red doorway for years when it was owned by the [[First of Mayene|Firsts of Mayene]], who used its answers to help remain independent from Tear, until three hundred years ago when [[Halvar]], the First of Mayene at the time, traded it to Tear and it was entombed in the [[Great Holding]] of the [[Stone of Tear]].{{ref/book|4|6}} [[Mat Cauthon]], [[Rand al'Thor]], and [[Moiraine Damodred]] all use this doorway at the same time.{{ref/book|4|15}} After finding Moiraine, Mat and the others make their way to the original room where Mat entered the realm of the Aelfinn. The twisted red doorway is shattered with nothing but chunks of red rock rubble left.{{ref/book|13|55}}{{ref|Perhaps the doorway was somehow destroyed by [[Moridin]] when he came to kill [[Lanfear]], who was being held captive by the [[Finn]].}}
+
+===The Eelfinn doorway===
+[[File:Doorway in Rhuidean.jpg|thumb|left|The twisted redstone doorframe in [[Rhuidean]]]]Mat finds the second twisted red doorway in the great square of [[Rhuidean]] and visits the land of the Eelfinn.{{ref/book|4|26}} Moiraine transported the doorway from the [[Aiel Waste]] to [[Cairhien]].{{ref/book|5|2}} The Eelfinn's doorframe was destroyed in the battle on the docks of [[Cairhien]], when Moiraine knocked [[Lanfear]] and herself through the doorframe while both were channeling.{{ref/book|5|52}} After entering the Tower of Ghenjei, Mat finds the original room where he entered the realm of the Eelfinn. All that remains of the twisted red doorway is a black lump of slag.
+
+The doorway to the Eelfinn is mentioned in Rand's Fifth vision of the History of Aiel in Rhuidean. {{quote|More of Sulwin's cronies were unloading one of the wagons, and a large flat crate had fallen, half breaking open to reveal what looked like a polished doorframe of dark red stone.{{ref/book|4|26}}}}
+
+==Parallels==
+The description suggests a [http://www.cs.technion.ac.il/~gershon/EscherForReal/ Penrose Rectangle], inspired by the drawing of [[Wikipedia:M. C. Escher|M. C. Escher]]
+
+{{notes}}
+[[es:Portales rojos]]
+[[Category:Parallels]]
+[[Category:Ter'angreal]]
+[[Category:Aelfinn and Eelfinn]]
+[[Category:Items of Power]]

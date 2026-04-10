@@ -1,0 +1,24 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=200px 
+| ewot=
+| status=Alive
+| nationality=Unknown nationality
+| rank=Asha'man
+| occupation=Dreadlord
+| affiliation=The Shadow
+| gender=Male
+| hair=
+| eyes=
+| height=
+| mentioned=
+| appeared={{amol|3}}
+| lastappeared={{amol|4}}
+| living=amol
+}}
+
+'''Leems''' is an [[Asha'man]] 
+
+==Activities==
+Leems is an Asha'man in [[Taim]]'s faction. When [[Androl]] and [[Pevara]] decide to capture [[Dobser]] in the pub cellar, Leems comes in while they are doing it and they are forced to take him out as well. He is given a sedative that keeps him unconscious. His final status is unknown.
+[[Category:Channelers]]

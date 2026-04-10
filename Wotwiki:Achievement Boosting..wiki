@@ -1,0 +1,20 @@
+This policy deals with Achievement Boosting.
+
+==What is Boosting?==
+Achievement Boosting is where a user makes useless or malicious edits simply to raise the count of their edits. The following list are examples of Achievement boosting, but they are not all inclusive:
+*Making nonsense edits to a page and then undoing them. Nothing about the page is changed.
+*Adding unrelated pictures to pages.
+*Creating nonsense pages or blog comments.
+*Creating or adding irrelevant or nonsense categories.
+*Editing a single page multiple times, adding very little information each time (i.e. one letter at a time).
+
+==What is not Boosting?==
+Some edits may seem to be boosting, but may be legitimate edits. Additionally, valid contributions that coincide with the goal of gaining achievements is allowed. The following are examples of those:
+*Edit wars and reverts between a normal user and a vandal.
+*Multiple '''valid''' contributions made to several pages in a short amount of time. 
+*Editing a single page multiple times, adding useful information, due to computer limitations or honest mistakes.
+
+==When Boosting Happens==
+When Achievement Boosting happens, an administrator will first warn the user. If the user continues to boost, the administrator will block the user for one week. Subsequent boosting will result in longer blocks and, if necessary, a ban.
+
+[[Category:Policies|Achievement Boosting]]

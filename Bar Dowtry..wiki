@@ -1,0 +1,23 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| occupation=Cabinetmaker
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| status=Alive
+| appeared={{kod|29}}
+| lastappeared={{kod|29}}
+| living=kod
+}}
+{{for|others with the same surname|Dowtry}}
+'''Bar Dowtry''' is a [[Two Rivers]] resident. He is a cabinetmaker.
+
+== Appearance ==
+He has a square face.
+
+== Activities ==
+He [[Travel]]s through [[Jur Grady]]'s [[Gateway]] to join the rest of the [[Two Rivers]] men taken by [[Perrin Aybara]]. He participates in the [[Battle of Malden]].
+
+{{DEFAULTSORT:Dowtry, Bar}}
+[[Category:Short pages]]

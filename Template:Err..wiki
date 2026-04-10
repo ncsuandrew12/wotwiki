@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:Utils|error|msg={{#if:{{{template|{{{2|}}}}}}|{{[[Template:{{{template|{{{2|}}}}}}|{{{template|{{{2|}}}}}}]]}}:&nbsp;}}{{{msg|{{{1|}}}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Templates]]
+[[Category:Utility templates]]</noinclude>

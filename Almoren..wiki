@@ -1,0 +1,59 @@
+{{nation 
+|image=
+|name=Almoren
+|historical=yes
+|type=Monarchy
+|headofstate=
+|headofgov=
+|commander=
+|defacto=
+|executive=
+|legislative=
+|judicial=
+|sigil=
+|banner=
+|map=
+|region=
+|climate=
+|terrain=Mountains, forest
+|interest=
+|population=
+|capital=[[Al'cair'rahienallen]]
+|cities=[[Jennshain]]
+|imports=
+|exports=
+|affiliation=[[Ten Nations]]
+|currency=
+|religious=
+|holiday=
+|anthem=
+|formed=
+|established=After the Breaking
+|reorganized=
+|fragmented=
+|dissolved=During [[Trolloc Wars]]
+|restored=
+|era=[[After Breaking]]
+}}
+'''Almoren''' was one of the [[Ten Nations]] which was destroyed during the [[Trolloc Wars]].
+
+==Geography==
+[[Image:Almoren.png|thumb|left|200px|In red location within the Ten Nations]]
+
+Almoren was located in the east of the [[Westlands]]. It stretched from north of [[Kinslayer's Dagger]] to [[Haddon Mirk]] and from the [[Erinin]] to the [[Spine of the World]]. It was bordered by [[Essenia]] to the south, [[Coremanda]] and [[Tar Valon]] to the west and [[Aramaelle]] to the north. Its capital city was [[Al'cair'rahienallen]] (which later became [[Cairhien]]) and its other major [[Ogier]]-built city was [[Jennshain]].{{ref|{{bwb}}, Ch10|Ch10}} 
+
+Almoren's territory incorporated all of modern [[Cairhien]] and a substantial amount of additional land. {{ref||Ch10}}
+
+==History==
+Almoren was founded after the [[Breaking of the World]] and was brought into the [[Compact of the Ten Nations]] by King Coerid Nosar.{{ref||Ch10}} In {{ab|742}}, the nation was ruled by a queen, whose Right Hand, [[Jurith Dorine]], wrote ''Commentaries on the Prophecies of the Dragon''. {{ref/book|2|Prologue}}
+
+Almoren was overrun and destroyed during the Trolloc Wars. Following the wars its territory was divided by the new kingdoms of [[Hamarea]], [[Ileande]], [[Tova]], [[Shandalle]] and [[Khodomar]]. {{ref||Ch10}}
+
+Its name translated into the Common Tongue is possibly "For the People" - from the [[Old Tongue]] words ''al'' (meaning "for the" or "of the") and ''mora'' (meaning "people", pluralized as ''moren''{{ref|{{twotc}}, Old Tongue, Words and Phrases in the Old Tongue, Various Rules, Pluralization}}). {{ref|{{twotc}}, Old Tongue}}
+
+{{nations}}
+[[es:Almoren]]
+[[Category:Ten Nations]]
+[[Category:Almoren| Almoren]]
+[[Category:After the Breaking]]
+[[Category:Historical nations]]

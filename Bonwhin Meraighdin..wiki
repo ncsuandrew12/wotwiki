@@ -1,0 +1,38 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ewothist=Bonwhin
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| title=[[Amyrlin Seat]]
+| rank=Aes Sedai
+| status=Dead
+| death={{Fy|996}}
+| mentioned={{tgh|5}}
+| lastmentioned={{cot|30}}
+|birth = FY 738}}
+'''Bonwhin Meraighdin''' was an [[Aes Sedai]] of the [[Red Ajah]] who was raised to the [[Amyrlin Seat]]. 
+
+==History==
+Her name could indicate that she was from [[Far Madding|Fel Moreina]] in [[Esandara]], given that ''-in'' is a common ending of names in Far Madding of both first names and surnames in the New Era; as common are long surnames. 
+
+She was born in FY 738 and was elected Amyrlin from the [[Red Ajah]] in {{Fy|939}}, the same year as [[Guaire Amalasan]] declared himself as the [[False Dragon|Dragon Reborn]] and Bonwhin ruled for more than fifty years, one of the longest reigns in the history of the [[White Tower]]. 
+
+But finally, her attempt at controlling [[Artur Hawkwing]] as a puppet led to disaster. All the Aes Sedai were expelled from Hawkwing's empire and his armies put a nineteen-year-long siege to [[Tar Valon]]. 
+
+For such catastrophe Bonwhin was removed from power in {{Fy|992}} and replaced with [[Deane Aryman]] from the [[Blue Ajah]], who had uncovered damning evidence of Bonwhin's failures and mistakes. She was the last Amyrlin to be raised from the Red before [[Elaida a'Roihan]].
+
+Before [[Siuan Sanche]], [[Tetsuan]] and later Bonwhin were the only Amyrlins to ever be officially stripped of stole and staff. Both of them had been Reds, and it was Bonwhin's replacement by a Blue that reignited the feud between the two [[Ajahs]], culminating a thousand years later with the questionable deposition of Siuan Sanche.
+
+After being deposed and [[stilled]] Bonwhin was kept as a scullion till she died, four years later at the age of 258.
+
+{{DEFAULTSORT:Meraighdin, Bonwhin}}
+
+[[es:Bonwhin Meraighdin]]
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai (Free Years)]]
+[[Category:Aes Sedai]]

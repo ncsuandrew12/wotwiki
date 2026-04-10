@@ -1,0 +1,7 @@
+
+{{Image
+| License                 = Creative Commons
+| ImageType1              = Miscellaneous
+| ImageType2              = Admin
+| Description             = White featured Icon for main page
+}}

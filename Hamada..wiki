@@ -1,0 +1,16 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| gender=Female
+| mentioned={{tdr|50}}
+| lastmentioned={{tdr|50}}
+}}
+'''Hamada daughter of [[Juendan]]''' was an [[Ogier]] woman and mother of [[Moilin]].{{ref/book|3|50}}
+
+==History==
+While she is mentioned, as part of her daughter's name, nothing is known about Hamada.
+
+{{notes}}
+{{short}}

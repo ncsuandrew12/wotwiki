@@ -1,0 +1,15 @@
+{{ character 
+| image=ShienarFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Shienaran
+| gender=Male
+| mentioned={{tgh|26}}
+| lastmentioned={{tgh|26}}
+}}
+'''Teva''' was a [[Shienaran]] friend of [[Hurin]].
+
+==Activities==
+Hurin refers to Teva as someone that got so mad at a hornet that he kicked the nest. This is in the way of advice to Rand to not anger the [[Cairhien]] nobles by burning their invitations.{{ref/book|2|25}}
+
+{{notes}}

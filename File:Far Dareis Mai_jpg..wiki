@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| ImageType2         = CCG
+| Description        = A member of the ''[[Far Dareis Mai]]''.
+| Source             = The "[[Dark Prophecies]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Diana Stein
+}}

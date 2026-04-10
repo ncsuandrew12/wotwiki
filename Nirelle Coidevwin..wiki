@@ -1,0 +1,35 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|419}}
+| ajah=Green
+| nationality=Cairhienin
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Nirelle Coidevwin''' was an [[Aes Sedai]] of the [[Green Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|396}}.
+
+==History==
+Her name indicates that she was from [[Cairhien]], given the common Cairhienin ending ''-in'' preceded by a distinct consonant combination.
+
+[[Aloisia Nemosni]], one of the oldest people alive and one of the [[Kin]], may have been born during Nirelle's time on the Seat.
+
+Nirelle held the position for twenty-three years until her death in {{Ne|419}}. She was [[Suilin Escanda]]'s successor and [[Ishara Nawan]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Nirelle was a strong Amyrlin, forceful and dynamic. Chosen in the belief that she would extricate the [[White Tower]] from her predecessor's foreign intrigues, she instead continued them, involving the Aes Sedai in a number of wars.
+
+She personally led the Tower contingents in battle, a fact not seen in centuries.
+Had it not been for the war and the laws related to it, she might have been removed, but the Tower reaction to external threads was always to gather in and to do nothing that might even hint at any crack in the supposedly unbreakable facade.
+
+During her reign, [[Stedding Tsofu]] was relocated and repopulated.
+
+{{notes}}
+{{DEFAULTSORT:Coidevwin, Nirelle}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

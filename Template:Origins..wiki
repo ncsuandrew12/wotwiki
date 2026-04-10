@@ -1,0 +1,26 @@
+<onlyinclude>''[[Origins of the Wheel of Time]]''{{#if:{{{1|}}}|, [[{{#switch: {{lc:{{{1}}}}}
+|d|dedication
+|f|foreword
+|l|letter
+|i|intro|introduction
+|1|wheelwright|life
+|2|axle|tolkien
+|3|turns|work
+|4|real
+|p|photos
+|a|acknowledgments
+|e|r|n|endnotes|endnote|note|notes|ref|references|reference=Origins of the Wheel of Time/
+|{{{1}}}<!--Specifying an entry; link to the wiki page for that subject.-->
+}}{{origins/chapter title|{{{1}}}}}|{{#switch: {{lc:{{{1}}}}}
+|e|r|n|endnotes|endnote|note|notes|ref|references|reference=Notes{{#if:{{{2|}}}|&nbsp;- {{#switch: {{lc:{{{2}}}}}
+  |i|intro|introduction=Introduction
+  |1|wheelwright=The Wheelwright
+  |2|axle=The Axle and the Wheel
+  |3|turns=The Wheel Turns
+  |4|real=The Real World in The Wheel of Time
+  |g|glossary=Glossary
+  |{{Err|BAD ENDNOTES SUBSECTION {{{2}}}}}}}}}
+|{{origins/chapter title|{{{1}}}|{{{1}}}}}
+}}]]}}</onlyinclude><noinclude>
+{{Documentation}}
+[[Category:Book templates|Origins of the Wheel of Time]]</noinclude>

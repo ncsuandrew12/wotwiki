@@ -1,0 +1,24 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| death=
+| nationality=Altaran
+| rank=
+| title=
+| gender=Female
+| height=
+| hair=
+| eyes=
+| occupation=Servant
+| appeared={{acos|16}}
+| lastmentioned={{acos|37}}
+| living=acos
+}}
+'''Laren''' is a high-ranking servant in the [[Tarasin Palace]] in [[Ebou Dar]], [[Altara]]. She is round with dark eyebrows, nearly black eyes and a touch of gray at her temples. She wears a [[marriage knife]], indicating that one of her five daughters and two of her four sons are dead.
+==Activities==
+[[Madic]] takes Mat to Larin when he wants to see [[Elayne]] and [[Nynaeve]]. She disappears out of sight when they confront [[Teslyn]] and [[Joline]]. She reappears, however, to summon Mat to [[Tylin]]. He is glad that she comes to save him from the [[Aes Sedai]], but Laren assures him that the Queen really wants to see him.
+
+When the strange relationship between Mat and the Queen starts, Larin personally brings Mat a basket sent by Tylin for breakfast as she did with supper the night before.
+[[Category:Short pages]]

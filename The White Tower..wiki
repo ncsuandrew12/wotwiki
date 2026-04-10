@@ -1,0 +1,53 @@
+[[File:White_Tower.JPG|thumb|230px|Painting by Todd Cameron Hamilton]]
+
+{{dablink|For other uses of the words "white" and "tower," see [[White]] and [[Tower]].}}
+
+The '''White Tower''' is both the central structure that houses [[Aes Sedai]] in [[Tar Valon]] as well as a term that describes the organization of Aes Sedai itself.{{ref|{{twotc}}, White Tower}}  The tower structure is the tallest building in [[Tar Valon]] and resides within a campus complex refered to as the "tower grounds". The compound is both home and a training facility for [[Aes Sedai]], those seeking to become Aes Sedai, and [[warder]]s who serve and protect Aes Sedai sisters.{{ref/book|bwb}} The tower structure is a bone-white spire nearly 100 [[span]]s (around 600 feet or 183 meters) in height. Its roof is flat-topped with a waist-high railing.
+
+==History==
+After the [[Breaking]], a large number of surviving female [[Aes Sedai]] sought refuge in [[Tar Valon]]. In {{ab|98}}, the group elected as their leader the first [[Amyrlin Seat]], [[Elisane Tishar]], who ordered construction of the White Tower which would be completed over one hundred years later in {{ab|202}}.{{ref/book|bwb}} Birgitte Silverbow helped with the founding of the tower, as she herself admitted.
+
+The White Tower was attacked for the first time in {{ab|335}} by the followers of the [[Dragon|false Dragon]] [[Raolin Darksbane]] after his capture and gentling, although it was repulsed by the Tower Guard. More serious attacks on the Tower were suffered during the [[Trolloc Wars]], where the [[Shadowspawn]]'s fourth attack on the city managed to damage the Tower itself in {{ab|1290}}, though it was ultimately repelled by the Amyrlin Seat, [[Rashima Kerenmosa]]. The White Tower itself was not damaged during the [[Consolidation]] of [[Artur Hawkwing's Empire]], although the city of Tar Valon was besieged for decades, which led to [[Bonwhin Meraighdin]] being deposed as Amyrlin.
+
+In {{ne|999}}, the White Tower suffered its only known [[White Tower Schism|schism]] in history after [[Siuan Sanche]] was hastily and illegally deposed by the [[Hall of the Tower]] after her efforts to protect the true [[Dragon|Dragon Reborn]], [[Rand al'Thor]], were discovered by several Sisters. [[Elaida do Avriny a'Roihan|Elaida a'Roihan]] was raised to Amyrlin, commanding the loyalty of only a third of the Tower. Though Tar Valon was besieged by the [[Rebel Aes Sedai]], the rebels' Amyrlin, [[Egwene al'Vere]], was kidnapped by the loyalists and reduced to a novice. The Tower was unexpectedly damaged by the [[Seanchan]] after they conducted a massive raid on the Tower to capture as many ''[[marath'damane]]'' as they could, and successfully kidnapped and enslaved the sitting Amyrlin, Elaida, and damaging the White Tower. In light of her efforts to fend off the Seanchan, and her proven aptitude to the loyalists, Egwene was raised to Amyrlin by the loyalists as well as the rebels, ending the schism. The Seanchan [[Bloodknife|Bloodknives]] still infested the Tower, as well as remnants of the [[Black Ajah]] guided by [[Mesaana]], although Egwene had already exposed and executed many Black sisters in the rebel camp. The Bloodknives were rooted out by [[Gawyn Trakand]], while Egwene successfully defeated Mesaana in ''[[Tel'aran'rhiod]]'' prior to the [[Last Battle]].
+
+==Testing==
+The lowest level of the Tower is only used for testing [[Novice]]s to become [[Accepted]]. Located there is a ''[[ter'angreal]]'' made of three large linked rings, each large enough to walk through unimpeded. The ''ter'angreal'' requires the Novice to face her fears, in the past, present, and future. Some who take the test never return, and any who refuse the test three times are put out of the Tower. Once one agrees to the test they must continue until the end; if they refuse to continue at any point they are put out of the Tower.
+
+==Hall of the Tower==
+The bottom half of the White Tower is dedicated to the Hall. Many of the common rooms are decorated in all the colors of the [[Ajah]]s, with some specific to only one Ajah. The Hall is where the Ajahs will meet and discuss Aes Sedai policies and procedures. The [[Amyrlin Seat]] presides over Hall meetings.
+
+==Ajah quarters==
+Consisting of the top half of the White Tower, the [[Ajah]] Quarters are home to all fully-raised Aes Sedai. The quarters are divided into seven pie-shaped sections, each belonging to one Ajah.{{ref/book|bwb}} Each Ajah has different styles of decoration that are related to the Ajah's colors and purpose. The Floors are tiled with a colored [[Flame of Tar Valon]].
+
+* [[Green Ajah|Green]]: Sword and weapon carvings on wood and tapestries of battle scenes.
+* [[White Ajah|White]]: Often scenes of snow and other white scenery; silver paneling in areas.
+* [[Brown Ajah|Brown]]: On the 22nd Level of the White Tower; due to the unraveling of the pattern, switches place with the Novice Quarters.
+
+==Amyrlin Seat==
+The highest level of the tower is reserved for the offices of the Amyrlin Seat and the [[Keeper of the Chronicles]].
+
+==Novices and Accepted==
+Novices and Accepted are boarded in a palace-like building attached to the rear of the main tower. The interior consists of stone-railed galleries surrounding a small courtyard consisting of a small garden with only a handful of evergreen bushes. The two Accepted galleries can hold almost two hundred Accepted, while the two Novice galleries can hold nearly four hundred.
+
+[[File:TheWhiteTower2017.png|thumb|left]]
+
+==Parallels==
+
+* The Tower structure is likely inspired by the [https://en.wikipedia.org/wiki/Padgett-Thomas_Barracks Padgett-Thomas Barracks] at the Citadel, [[Robert Jordan]]'s alma mater.<ref>[[Origins of the Wheel of Time]]</ref>
+
+==See also==
+*[[Aes Sedai#White Tower]]
+*[[White Tower Schism]]
+
+== External links ==
+* {{TVlink|White Tower}} on {{TVlink}}
+
+{{notes}}
+{{DEFAULTSORT:White Tower, The}}
+[[es:Torre Blanca]]
+[[Category:Tar Valon]]
+[[Category:Aes Sedai]]
+[[Category:White Tower]]
+[[Category:Other notable buildings]]
+[[Category:Parallels]]

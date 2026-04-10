@@ -1,0 +1,139 @@
+{{Featuredicon}}
+{{character
+| image=Birgitte Silverbow by Ariel Burgess, Official Wheel of Time Artist.jpg
+| imagesize=250px
+| ewot=birgitte
+| rank=Hero of the Horn
+| affiliation=House Trakand
+| occupation=Warder
+| title=[[Captain-General]] of the [[Queen's Guard]]
+| nationality=Unknown nationality
+| hair=Blonde
+| eyes=Blue
+| gender=Female
+| height=5'7"
+| status=Bound to the Wheel
+| appeared={{tgh|47}}
+| lastappeared={{amol|e}}
+| living=amol
+}}
+{{WotQ|Birgitte}}
+'''Birgitte Silverbow'''  (ber-GEET-teh) is a legendary heroine and archer, and one of the [[Heroes of the Horn]], who has been known by many different names in many different ages.
+
+In the late [[Third Age]], Birgitte is expelled from ''[[Tel'aran'rhiod]]'' by [[Moghedien]], and is [[Bonding|bonded]] as a [[Warder]] by [[Elayne Trakand]] in order to save her life. After helping Elayne and the others to retrieve the [[Bowl of the Winds]], Birgitte makes herself known under the guise of a [[Kandor]]i lady named '''Birgitte Trahelion''', staying by Elayne's side during the Andoran War of Succession and rising to the rank of [[Captain-General (Andor)|Captain-General]] of the [[Queen's Guards]]. 
+
+During [[Tarmon Gai'don]], Birgitte is slain by [[Mellar]], allowing her to return to ''Tel'aran'rhiod'' and prepare for rebirth beside her fated lover, [[Gaidal Cain]].
+
+==Background==
+Birgitte Silverbow is the heroine of many hundreds of [[gleeman]]'s tales and legends. Like many of the great heroes of the [[Wheel of Time]], she has been "spun out" into the [[Pattern]] many times, taking a different name but always following the same pattern: an archer, sometimes a soldier, who is linked to a lump-faced man who fights with two swords (most famously known as [[Gaidal Cain]]), whom she at first hates but eventually falls for. She is also one of the Heroes of the [[Horn of Valere]], and, like [[Artur Hawkwing]], Gaidal Cain and a hundred other heroes, can be summoned to fight for the person who blows the Horn.
+
+See [[Birgitte Silverbow#Reincarnations|Reincarnations]] section for details of individual past lives.
+
+==Personality==
+{{quote|I always say, if you must mount the gallows, give a jest to the crowd, a coin to the hangman, and make the drop with a smile on your lips.|Birgitte Silverbow{{ref/book|5|36}}}}Birgitte can be be regarded as somewhat of a tomboy, but has no problem showing off her body as she takes to wearing usually very revealing clothes. She is extremely fond of drinking and frequently enjoys spending time in taverns and pubs with fellow soldiers, bearing humor and manners that are very similar to theirs. Birgitte is willing to openly admire men that she finds attractive in public, and she very seldom watches her language or her temper. These traits have made her one of Mat Cauthon's closest friends.
+
+[[File:Heroes of the Horn.jpg|thumb|left|250px|Birgitte with other Heroes of the Horn]]
+Birgitte is a very adventurous woman, with most of her past lives involving battles and other such trials. In most of them, she and her lover, Gaidal Cain, die young. Surprisingly however, Birgitte prefers this outcome, as she's stated that the few lives when she was forced to grow old were the most boring she'd ever experienced.
+
+When in her [[Tel'aran'rhiod]] form and during her unusual incarnation, Birgitte's knowledge of her past lives gave her a wealth of esoteric knowledge. For example, she makes frequent references to the customs of extinct nations and she is one of only two{{ref/book|1|19}} non-[[Aes Sedai]] to exhibit some knowledge of the [[Old Blood]] that cannot be directly attributed to Aes Sedai.{{ref/book|7|21}}
+
+== Appearance ==
+Birgitte's appearance is typically assumed to be constant over the span of most, if not all her lives. She's described as being 5'6 tall and slim, with a long, thick, blond braid of hair down to her waist, similar to the Two RIvers style but more intricately woven. She normally prefers to wear men's clothes or armor. In "The Path of Daggers", Birgitte's height, with raised heeled boots that made her three inches taller, is described as "almost a hand taller than Nynaeve, if still shorter than Elayne or Aviendha".
+
+==Reincarnations==
+
+The [[The Wheel of Time Companion|Companion]] mentions many lives that Birgitte remembers between the [[Breaking of the World]] and the end of the Third Age and one during the [[Age of Legends]] that she does not. Only a few of these are mentioned in the books themselves. In chronological order, they are:
+
+* '''Age of Legends''': Known as ''Teadra'', she foiled a plan laid by [[Moghedien]] to trap [[Lews Therin Telamon]]. She died before Moghedien could get her revenge, though the Forsaken, who was somehow able to recognize Teadra as one of the incarnated heroes, vowed to repay her one day.{{Ref/book|5|25}}
+* '''Founding of the White Tower''': Circa {{ab|47}}, incarnations of Birgitte and Gaidal Cain helped found the organisation that would become the modern-day White Tower. This is the earliest memory she remembers clearly.
+* '''Forming of the Compact of Ten Nations''': Shortly before {{ab|209}}.
+* '''Between the Founding Ten Nations and Start of Trolloc Wars''': Two incarnations between {{ab|209}} and {{ab|1000}}
+* '''During the Trolloc Wars''': Two incarnations during these 350 years.
+* '''Between the End of the Trolloc Wars and Hawkwing''': Two incarnations up until FY 912. Elayne recalls a tale from this era where Birgitte leads a band of thieves from the forest and robs a Queen of [[Aldeshar]]. 
+* '''During the Rise of Hawkwing''': One incarnation during the rise of [[Artur Hawkwing]] (born FY 912, died FY 994)
+* '''During the War of the Hundred Years''': Two incarnations between FY 994 and FY 1117.
+* '''New Era''': Her most recent incarnation was around {{ne|500}}.
+
+Except for the first, the names of her various incarnations cannot be matched to the above, but we know the names of some of her incarnations.
+
+* '''Teadra''' (see above)
+* '''Jethari Moondancer''': After what was called the battle of Lahpoint Hills, Gaidal was inflicted with a horrible head wound that affected his mind. Jethari traveled into the [[Tower of Ghenjei]] in hopes that the [[Finn]] would heal him. Sadly, neither of them survived, the Finn killing them both. Over the years the tale has changed slightly to become the tale of Elmiara and the Shadoweyes.
+* '''Maerion''': She assumes this name when she is travelling as part of [[Valan Luca's Traveling Show]].{{ref/book|6|36}}
+* '''Joana''': Another incarnation mentioned briefly in passing in conversation with [[Mat Cauthon]].{{ref/book|6|40}}
+
+Birgitte (under that name) may have lived during the Free Years as Elayne remembers a tale from that era and associates it with Birgitte. It may also be possible that she is recalling another incarnation, especially Maerion, who brings connotations with the story of Robin Hood and a similar band of thieves. It is not clear if the Heroes are always known by their most recent incarnation.
+
+==Activities==
+===''Tel'aran'rhiod''===
+She answers the Horn call by Mat Cauthon at the [[Battle of Falme]].{{ref/book|2|47}}
+
+When not being woven into the Pattern, or fighting in spectral form, she and all the other heroes of the Wheel reside in ''[[Tel'aran'rhiod]]''. She is first glimpsed by [[Egwene al'Vere]] while she is hunting for the Black Ajah.{{ref/book|4|11}} Later Birgitte first makes her acquaintance with [[Perrin Aybara]],{{ref/book|4|28}} [[Elayne Trakand]] and [[Nynaeve al'Meara]].{{ref/book|4|39}} The latter two were hunting [[Darkfriend]]s in the World of Dreams, and despite ancient injunctions to the contrary, and the ridicule of Gaidal, she insisted on stepping in to help them.{{ref/book|4|52}} This led, eventually, to a confrontation with Moghedien who, fulfilling her promise of revenge, expelled Birgitte from ''Tel'aran'rhiod'' directly into the waking world, preventing her from being reborn (re-incarnated) into it normally. When Nynaeve and Elayne found her, she was dying, a condition not even Nynaeve could [[Heal]]. With no other recourse, Elayne bonded Birgitte as her [[Warder]], saving her life, and Birgitte has served in this capacity ever since.
+
+[[File:Birgitte Silverbow.jpg|thumb|right|Birgitte Silverbow from the [[CCG]]]]
+
+===Maerion===
+It was necessary to conceal Birgitte's identity, as her presence in the world would raise too many questions about Elayne's and Nynaeve's activities prior to joining the [[Salidar]] Aes Sedai. Birgitte herself assumed the name '''Maerion''', saying ''"I was called that once"'' - indicating this was the name of one of her prior incarnations.
+
+She then heads out with Elayne, Nynaeve and Mat to [[Ebou Dar]] to find the [[Bowl of the Winds]].
+
+Deadly and of unmatched competence with a bow, she is also by far the most raucous of Elayne's entourage; she and [[Mat Cauthon]] share a fondness for drink, carousing and foul language, and their friendship is strengthened by Mat's past-life memories and the fact that he is the Hornsounder.
+
+After finding the Bowl of the Winds the group of Aes Sedai, [[Kin]] and [[Sea Folk]] manage to leave Ebou Dar just before the Seanchan appear. Elayne tries to unravel a gateway and Birgitte is forced to hold off invading Seanchan troops with her bow. She is injured with an arrow but still fights on. Her strong confidence in Elayne helps Elayne hold the weave long enough for Birgitte to get her and [[Aviendha]], who was also present, to safety before the gateway explodes.
+
+Nynaeve arrives and Heals her. [[Lan Mandragoran]] is also present and mistakes her as being from [[Kandor]], a country that would not have existed during any of her lives.
+[[File:Birgitte Silverbow.JPG|left|thumb|289x289px|Artwork by Todd Cameron Hamilton]]
+Over the course of time of having been expelled from ''tel'aran'rhiod'', Birgitte starts to lose her memory of her previous lifetimes. In her current incarnation, Birgitte is an oddity in several respects:
+*She is the world's only female [[Warder]] - Aes Sedai have never bonded a woman at any time in history. Both she and Elayne have discovered at first hand that the bond of their shared gender increases the empathic link of the Warder bond to sometimes unacceptable levels. For example, when Birgitte gets drunk, Elayne gets tipsy, and likewise when Elayne and Rand spend time alone, Birgitte shares a degree of Elayne's arousal.
+*She is the first Hero of the Horn to have been ''expelled'' from ''Tel'aran'rhiod'': while initially retaining the memories of all her past lives they are starting to blur together and fade as time passes.
+*She also does not let herself get bullied around by Elayne like other Warders and they share more of an older sister, younger sister relationship.
+
+===Gaidal Cain===
+Just before Moghedien expelled her from ''Tel'aran'rhiod'', Birgitte indicated that Gaidal had not been seen in ''Tel'aran'rhiod'' for some time, and she speculated that he had left to be naturally reborn into the Pattern. Shortly after, one of [[Min Farshaw]]'s viewings indicates that Birgitte is romantically linked to an ugly man who is simultaneously much older and much younger than Birgitte herself, whilst Birgitte claims Gaidal was always older than her; and besides, her viewings always depict the future.{{ref/book|9|12}} This is almost certainly Gaidal reincarnated, but who he has been reincarnated ''as'' is the much more pertinent question. Some fan theories about Gaidal Cain's whereabouts suggest that he may have been ripped from the ''Tel'aran'rhiod'' just as Birgitte was and that they continue to remain linked despite Birgitte's current state.
+
+===Caemlyn===
+After the group finally arrive in Caemlyn, Elayne promotes Birgitte, now called Birgitte Trahelion from Kandor, to [[Captain-General (Andor)|Captain-General]] of the [[Queen's Guards]]. However she is very reluctant to take this position. She is now building and training an army for Elayne and even strolls through the [[Black Tower]] to make sure they are keeping Andoran law.
+
+Since Elayne became pregnant by Rand, Birgitte has become overly protective of her. She escorts Elayne to meet with the [[Borderland]] rulers in [[Braem Wood]].
+
+[[file:WoT Japanese TFoH5.gif|right|thumb|200px|Birgitte, from a [[Wheel of Time translations|Japanese]] translation book cover]]
+
+Birgitte also goes with Elayne to the house on Full Moon Street, where Elayne is captured by [[Black Ajah]] [[Aes Sedai]]. Birgitte rides back to the royal palace to muster up a strike force to retrieve her. There she manages to convince [[Chanelle din Seran White Shark]] and the rest of the [[Sea Folk]] [[Windfinder]]s that without Elayne there is no bargain. They Travel to the area where the Black Ajah are riding a wagon with Elayne inside. The strike force ride towards the wagon, but is decimated by [[Balefire]] from [[Asne Zeramene]]. Birgitte finally convinces the Windfinders to actively attack the Black Ajah sisters and manage to take them all prisoner and rescue Elayne in the process. She is with Elayne when the neutral High Seats arrive and pledge their support for Elayne, giving her the required amount of Houses for the [[Lion Throne]].
+
+She discusses with Elayne what to do with the captured nobles when Elayne declares her intention to take the throne of [[Cairhien]]. [[Halwin Norry]] then arrives to inform them of a letter sent from Mat asking for a meeting with Elayne.
+
+=== Frustration at Elayne ===
+Birgitte continues to try and convince Elayne to be more careful as an assassination attempt could happen any time. Elayne disagrees because she believes she is invulnerable until her babies are born, according to Min's vision. Birgitte stands guard when Elayne meets with Alise and Sumeko about new living arrangements for the Kin. 
+She is again guarding Elayne when Mat arrives to meet with her about making and using the [[Dragons]].
+
+Mat later then comes to visit her to ask on what she knows of the [[Tower of Ghenjei]]. She advises him to keep away and relates to him a story from a previous life, when she was Jethari Moondancer and how she survived in the tower for two months before dying at the [[Finn]]s hands. Their meeting is interrupted when she senses Elayne's pain and rushes to her help. She just misses the attack on Elayne from [[Eldrith Jhondar]], [[Temaile Kinderode]], and [[Chesmal Emry]] as they try and escape from Caemlyn. All three sisters were killed but she learns that Meller was also involved but escaped with a copy of Mat's medallion. She lets Elayne feel the full force of her frustration at Elayne's reckless behavior, and at not letting Birgitte look after her properly. She then gives the news that [[Jaq Lounalt]] was found dead and that Meller, [[Mili Skane]], [[Marillin Gemalphin]] and [[Falion Bhoda]] all managed to escape from their cells and have fled from the city.
+[[File:Birgitte.jpg|thumb|267x267px|Birgitte Silverbow]]
+
+Bigitte stands guard over Elayne as they watch in horror [[Aludra]]'s display of the Dragons in action. When Gawyn decides to return to Tar Valon he goes to ask Elayne if she can take him back. He is forbidden to see her by Birgitte, who accidentally lets slip that both her and Egwene are in ''Tel'aran'rhiod''. She brings in a hooded [[Galadedrid Damodred]] and ex-queen [[Morgase Trakand]] to reunite with Elayne. She is in charge of a group of [[Cairhienin]] nobles who watch a display of Aludra's Dragons. She then escorts them into the throne room where Elayne makes her play for the [[Sun Throne]]. She is part of Elayne's guard when they Travel to Cairhien. Elayne is greeted by [[Lorstrum Aesnan]] and [[Bertome Saighan]] who escort her to the Royal Palace. As Elayne is about to sit down, Birgitte checks her chair and finds a poisoned pin hidden in the cushion. Elayne then declares to the nobles gathered that all available men will be conscripted into the army and that Cairhien's forces will move out to join the Dragon Reborn's army gathered at the [[Field of Merrilor]].
+
+=== The [[Last Battle]] ===
+Birgitte is guarding Elayne as she meets with Egwene when they receive a messenger. They are told that Caemlyn has been lost to the Shadow. She is escorting Elayne across the [[Field of Merrilor]] when they come across [[Ogier]] around the [[Great Tree]]s that Rand grew. They pledge their support to fight with humankind against the Shadow at the Last Battle. They then meet with [[Zarine ni Bashere t'Aybara]], who agrees to transport the Horn of Valere from Tar Valon to the Field of Merrilor. Birgitte stands guard of Elayne, when she orders Caemlyn to be burnt to the ground, in order to flush the Trolloc army out. Elayne's forces are finally able to lure out from the ruins of Caemlyn the Trolloc's army and to attract the enemy to [[Braem Wood]]. Birgitte is with Elayne as they watch the initial ranks of Trollocs felled by Two Rivers archers. The next lines are completely decimated by the dragons. Birgitte leads a group of Aiel through Braem Wood, carrying out guerrilla tactics on smaller groups of Trollocs that are meandering through it. All the while she is concerned about losing her memories of her previous lives and more importantly Gaidal. A larger group of Trollocs appears and she decides to leave that one alone.
+
+Birgitte is impressed with the stirring speech Elayne gives her men outside Cairhien. Elayne then intends to ride into battle much to Birgitte's dismay. The dragons start firing on the following Trolloc army, causing absolute shock from both Elayne and Birgitte, from the amount of damage they do to the Trolloc ranks.
+
+During the Last Battle, some Darkfriend soldiers disguised as refugees attack the Andorans camped at the ruins near the [[River Mora]]. As [[Mellar]] reaches for Elayne he stabs and beheads Birgitte. This releases her from the world just before the Horn is sounded and she reappears as one of the heroes of the horn, fully restored with all her skills and memories, standing over her own corpse. She shoots Mellar and rescues Elayne before joining the other heroes of the horn in fighting the battle. After the battle she says farewell to Elayne, feeling that her rebirth to flesh is imminent and looking forward to finding Gaidal again.
+
+==Parallels==
+As an excellent archer Birgitte resembles Tristan from the Arthurian Legend.
+Brigitte is also paralleled with Robin Hood. Elayne recalls a story about "a woman who, who led a band band of theives, stole money from a queen." Brigitte responds with a smile and acknowledged that "the Queen was not a very good one." 
+
+Birgitte bears mythological lineage to Brighid, the Celtic goddess, whose name is Breo-saighit, meaning "a fiery arrow". With her affinity for children, her name being synonymous with St. Bridget, and her enjoyment of beer (http://laurelmasse.typepad.com/my_weblog/2014/02/have-a-beer-with-st-brigid.html), it draws an excellent parallel. See also: http://13depository.blogspot.com/2002/02/character-names-b.html#birgitte
+
+Birgitte's famed skill as an archer and her trademark silver bow resemble stories of the Greek god Apollo who was known as "the lord of the silver bow" after both his talent as an archer and his silver bow.
+
+She also parallel's Orpheus from Greek mythology who descended into Hades to retrieve his wife who had died from a snake bite. Birgitte went into the Tower of Ghenjei to seek a cure from the snakes and foxes for a dying Gaidal in one incarnation. She like Orpheus failed and was presumably torn to shreds (her by the Finn in the tower, Orpheus escaped Hades only to be torn to shreds later). She also played the lyre to fend off the Finn, where Orpheus played the lyre to convince Hades to let him try to escape the underworld with his wife. The lyre her also serves as a double for paralleling Apollo who was also a God of music (and of course this parallel also is true of Thom entering the tower for Moiraine, the tower itself seems to be a way for anyone to parallel Orpheus' story).
+
+She also parallels Aphrodite (loosely) thanks to her golden hair (Aphrodite is called the Golden One) and thanks to her love of Gaidal Cain who is decidedly ugly (Aphrodite marries Hephaestus the ugliest of the Greek gods). Though this is a much looser parallel since Aphrodite was unhappy in her marriage where Birgitte is very happy. Her rebirth through being torn from the World of Dreams is also a loose parallel of Aphrodite's birth from the sea since both emerge into the world nude and fully formed. When she was reborn, she asked to go by the alias Maerion, stating "I was called that, once." The name Maerion is phonetically similar to {{Wiki|Maid Marian}}, another Robin Hood character, who was also an archer.
+== In the television series ==
+*{{TVlink|Birgitte}} on {{TVlink}}
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Silverbow, Birgitte}}
+[[Category:Queen's Guards]]
+[[Category:Generals]]
+[[Category:People of the Free Years]]
+[[Category:POV character]]

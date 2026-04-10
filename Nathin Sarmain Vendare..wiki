@@ -1,0 +1,20 @@
+{{ character
+| image=AltaraFlag.png
+| imagesize=250px
+| ewot=Nathin
+| status=Alive
+| nationality=Altaran
+| title=Lord
+| gender=Male
+| mentioned={{kod|11}}
+| lastmentioned={{kod|11}}
+| living=kod
+}}
+'''Nathin Sarmain Vendare''' is the Lord of [[Maderin]].
+
+==Activities==
+Lord Nathin, in trying to protect his people, listens to the [[Seanchan]] when they take over his town.{{ref/book|11|11}}
+
+{{notes}}
+{{DEFAULTSORT:Vendare, Nathin Sarmain}}
+[[Category:Nobility]]

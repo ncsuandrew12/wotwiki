@@ -1,0 +1,20 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| nationality=Atha'an Miere
+| gender=Female
+| rank=Windfinder
+| affiliation=Atha'an Miere
+| status=Alive
+| mentioned={{wh|11}}
+| lastmentioned={{wh|11}}
+| living=wh
+}}
+'''Ehvon''' is an ''[[Atha'an Miere]]'' [[Windfinder]].
+
+==History==
+Ehvon's apprentice was [[Talaan din Gelyn]].{{ref/book|9|11}} She punished Talaan severely even when she performed her tasks perfectly, only because of Talaan's parentage.
+
+{{notes}}
+{{short}}
+[[Category:Channelers]]

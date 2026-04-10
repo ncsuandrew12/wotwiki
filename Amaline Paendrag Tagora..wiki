@@ -1,0 +1,28 @@
+{{ character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Shandalle 
+| death={{Fy|961}}
+| rank=Queen
+| title=High Queen
+| gender=Female
+| mentioned={{Bwb}}
+}}
+'''Amaline Paendrag Tagora''' was the first wife of [[Artur Paendrag Tanreall]] and was the Queen of [[Shandalle]] and later the High Queen of the [[Westlands]]. 
+
+== History ==
+She married Artur in {{Fy|937}}, when Tanreall was twenty-five and the Prince of Shandalle. Two years later the [[Black Fever]] swept across the continent and killed Tanreall's parents, making him King and Amaline Queen of Shandalle.
+
+Within four years, Amaline's husband became known as "Artur Hawkwing," for the speed at which he could move his troops and had won a stunning victory over the [[false Dragon]] [[Guaire Amalasan]]. Hawkwing spent the next twenty years resisting attacks from other rulers until he had conquered the entire continent in a war known as the [[Consolidation]].
+
+Hawkwing appears to have genuinely loved his wife and historians have uncovered several poems he wrote to his wife, apparently spanning the length of their marriage. In {{Fy|942}} Amaline gave birth to twins, [[Amira Paendrag|Amira]] and [[Modair Paendrag|Modair]], and later to another son and daughter, whose names are not recorded.
+
+Modair died in battle in {{Fy|959}}, devastating both his parents, but in {{Fy|961}} Amaline and her three remaining children were all killed by poison. Hawkwing flew into a legendary rage, marking the beginning of the [[Black Years]] of his rule, and became bitter, ruthless and even cruel as he brought the war to a conclusion with the conquest of [[Aldeshar]]. In his fury, he launched an ill-considered invasion of the [[Aiel Waste]] and suffered his first major defeat. He was brought out of this time of rage by a woman named [[Tamika]], who became his second wife in {{Fy|965}}.
+
+In {{Fy|974}} Hawkwing turned violently against the [[Aes Sedai]] and the following year began a siege of [[Tar Valon]] that would last the rest of his life. Some historians have suggested that the reason for his violent turn against Tar Valon was that he uncovered evidence that it was the [[Amyrlin Seat]], [[Bonwhin Meraighdin]], who had his wife and children poisoned. Whether this is true or not remains unknown.
+
+{{DEFAULTSORT:Tagora, Amaline Paendrag}}
+
+[[es:Amaline Paendrag Tagora]]
+[[Category:Historical people]]

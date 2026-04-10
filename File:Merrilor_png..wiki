@@ -1,0 +1,8 @@
+{{Image
+| License            = fairuse
+| ImageType1         = Map
+| Description        = Map of the [[Field of Merrilor]]
+| Source             = Ellisa Mitchell
+}}
+[[Category:Regional Maps]]
+[[Category:Borderlands]]

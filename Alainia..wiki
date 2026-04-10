@@ -1,0 +1,20 @@
+{{ character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Amadician
+| occupation=Silversmith
+| affiliation=Faile Bashere
+| gender=Female
+| build=Plump
+| appeared={{Kod|28}}
+| lastappeared={{kod|28}}
+| living=kod
+}}
+'''Alainia''' is an [[Amadicia]]n silversmith who was taken ''[[gai'shain]]'' by the [[Shaido]] [[Aiel]]
+
+== Appearance ==
+She is plump
+
+== Activities ==
+Alainia is one of the ''gai'shain'' who has sworn an oath of fealty to [[Faile Bashere]].

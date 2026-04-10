@@ -1,0 +1,27 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|5}}
+| ajah=Green
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}{{for|the similarly named handmaiden of [[Egwene al'Vere]] hired by [[Lelaine Akashi]]|Selame}}
+'''Selame Necoine''' was an [[Aes Sedai]] of the [[Green Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Fy|1084}}.
+
+==History==
+Selame held the position for fifty-five years until her death in {{Ne|5}}. She was [[Deane Aryman]]'s successor and [[Rabayn Marushta]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+She failed to capitalize on Deane's earlier successes as mediator and negotiator to put an end to the [[Hundred Years War]], and the war continued for another thirty years. Still, she was an Amyrlin of average strength.
+
+{{notes}}
+{{DEFAULTSORT:Necoine, Selame}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

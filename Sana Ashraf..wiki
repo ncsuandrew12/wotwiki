@@ -1,0 +1,20 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=sana
+| status=Dead
+| nationality=Unknown nationality
+| gender=Male
+| mentioned={{amol|37}}
+| lastmentioned={{amol|37}}
+}}
+'''Sana Ashraf''' is a man from [[Mat Cauthon]]'s memories.
+
+== History ==
+Mat remembers fighting him at the [[Falls of Pena]] and used heavy cavalry, horseback archers, heavy cavalry and horseback archers, one after another.{{ref/book|14|37}}
+== Trivia ==
+* Sana Ashraf is named for Sana Salman Ashraf, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Historical people]]
+{{DEFAULTSORT:Ashraf, Sana}}
+[[Category:Characters named after fans]]

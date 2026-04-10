@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Map
+| Description        = Location of the [[Far Madding Gate]] in [[Caemlyn]]
+| Source             = 
+| Artist             = Ellisa Mitchell
+}}
+[[Category:Maps of cities]]

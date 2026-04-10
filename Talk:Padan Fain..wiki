@@ -1,0 +1,46 @@
+{{enWPcontent|Padan Fain}}
+One of the things I'd like to see our page address is why/when Fain decided that Rand was the bane of his entire existence. He was a Darkfriend, then the Dark One's hound for the three ''ta'veren'', then came to Fal Dara and was released. Somewhere during TGH, Fain converts his orders to focus primarily on Rand (I think you get some of his POV that says he still hates all three, but why Rand specifically? It can't necessarily be because Rand is the Dragon Reborn, since Rand doesn't declare himself until (at least) the Battle of Falme. Maybe his orders contained some sort of "trigger", but he's free of the Dark One's control by the time he starts to obsess about Rand... [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:38, 17 Nov 2005 (UTC)
+
+: He's already focussed on Rand by TGH/6 (Dark Prophecy), because I think it must be Fain who wrote "We will meet again on Toman Head. It is never over, al'Thor" in blood on the dungeon walls. The other scrawlings in blood comprised crude Trolloc scribblings and some Myrddraal-written poetry that might be prophecy, according to Verin Mathwin (TGH/7), but all needing translating whereas this message for Rand was written in his language, and Fain's language. The words are also reminiscent of Ishamael/Ba'alzamon's own words to Rand in his dreams at that time. Liandrin was presumably acting on Dark orders when she entered the dungeon, presumably to release Fain (TGH/5), so Fain presumably still had some part in the Dark plans, although it is also clear that he and the Myrddraal had different ideas of where to take the Horn of Valere!
+
+:As to where the decision is made, it must surely be somewhere between Shadar Logoth and Fal Dara. Perhaps this is incidental, but it is Rand whom Fain encounters in Baerlon, and again Rand whom he encounters in Caemlyn. When Fain is reported in Whitebridge and later on the Caemlyn road, he is following Rand and Mat, not Perrin. Perhaps Perrin's developing wolf-nature shields him from Fain's attention as it appears to shield him from Ishamael/Ba'alzamon's attention (tEotW/42: "I think I've already found my protection"). Perhaps the effect of the dagger on Mat, given that Fain now incorporates Mashadar-nature, means that Mat too does not call to Fain in the same way as Rand. Perhaps this is the reason that it is Rand who stands out, of the three whom Fain feels compelled to seek.
+
+:Alternatively, perhaps it is the events that declare Rand al'Thor to Ishamael that influence Fain indirectly. Before Caemlyn, Ishamael/Ba'alzamon did not yet know which of the three was the Dragon. In Fal Dara, Liandrin clearly does not yet know which of the three she is looking for, since she sets the Lady Amalisa searching for all three (unless that is just cover), but Ishamael knows by then. Perhaps Fain, with his closer connections to Shayol Ghul, is among the first to pick up the information that it is Rand al'Thor who is the target -- perhaps this causes him to identify Rand as the ultimate cause of all his recent woes. Perhaps it is the Myrddraal entering Fal Dara that brings that information. By the end of TGH, the order is clearly out to kill Rand (TDR/Prologue -- Jaichin Carridin is reminded of his orders by the Myrddraal at Amador). Ironically, Fain/Ordeith appears to manipulate Pedron Niall to preserve Rand's life, presumably because he (Fain) wants the ultimate revenge. [[User:Mooncow|Mooncow]] 20:51, 21 August 2006 (UTC)
+
+==Mordeth==
+There seems to be redundancy between this article and [[Mordeth]].  I believe the two should be at least partly merged somehow.  Perhaps [[Mordeth]] could cover everything about it up until the merger, then link here for the rest.  This article could in turn make little mention of Mordeth's history, instead linking back to that article. --[[User:Gherald|Gherald]] 19:49, 30 August 2006 (UTC)
+:Sounds like a winner to me. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 22:48, 30 August 2006 (UTC)
+
+
+== What he is now? ==
+I don't know whether anyone ever asked this of RJ before he passed, but with Fain's little rant in the White Tower in TFOH about there being only two people he was bothered with anymore that being 'Rand and his Ancient Foe' or something similar. I'm wondering whether there's been any major reveal of Fains 'powers'.[[User:Lightningbarer|Lightningbarer]] 21:43, December 9, 2009 (UTC)
+:Well he is Mordeth and Mordeth has random "dark" powers. So he is Mordeth and the ancient evil I think has to be the Dark One since Mordeth does hate shadowspawn and all that kind of stuff. So my best guess is the dark one is the other person he is bothered by.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 00:38, December 10, 2009 (UTC)
+
+== My Parallel ==
+
+
+
+
+ If you already added a parallelism section I want to add my 2 cents:
+
+*Padan Fain really resembles '''Gollum '''from The Lord of the Rings. the points of parallel:
+#Both were changed to something much evil and possessed by a sinister artifact (the ring / the dagger) which they treasure the most.
+#Both are considered insane.
+#Both had a name when they were “normal” (Sméagol/Padan) and a name after the possession (Gollum / Ordeith || Jeraal Mordeth).
+#Both chased the main character and a friend for retrieving the artifact (Gollum chased Frodo and Sam, Padan chased mat and Rand).
+#Both tried to kill them but failed (Gollum tried to strangle Sam and kill them by luring them to Shelob cave, Padan tried to kill Rand and lure them to a trap in Far Madding).
+#Both were in the possession by the dark one in its stronghold for retrieving information (Gollum by Sauron in mordor,  Padan by the dark one in Shayol Ghul).<br />
+
+*Padan somewhat resembles '''Mr. ''''''Smith''' from The Matrix as both are considered anomalies in the pattern / Matrix, and second villains to the “natural” villains (the Machines / the dark one).<br />
+As I see it both will play a significant role in the final showdown against the supposedly greater evil.
+
+
+
+
+What do you think?
+
+==Alignment?==
+Why is fain's alignment as Shadow? if it covers him as mordeth then yes he is certainly evil but in no way shadow-aligned....this should be fixed to Independantly Evil or something [[User:Doonval ti bekk&#39;har|Doonval ti bekk&#39;har]] 10:18, January 3, 2012 (UTC)
+:Before he broke away, he was a hound for the Dark One. Now, he's basically a Darkfriend on his own. I've changed his affiliation to reflect that. ---- {{User:Mainphramephreak/Sig/Subst}} 11:20, January 3, 2012 (UTC)
+
+:Much more sensible [[User:Doonval ti bekk&#39;har|Doonval ti bekk&#39;har]] 19:34, January 4, 2012 (UTC)

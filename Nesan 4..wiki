@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|October}}
+|{{Wotmonth|Nesan}}
+|}
+'''Nesan 4 (October 30)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - In [[Maerone]], [[Mat]] meets [[Olver]] for the first time.
+<noinclude>
+==External links==
+*[[wikipedia:october 30|October 30]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

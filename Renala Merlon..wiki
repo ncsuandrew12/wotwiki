@@ -1,0 +1,21 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| ewothist=Renala Merlon
+| ajah=Unknown
+| status=Dead
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| gender=Female
+| mentioned={{tgs|16}}
+}}'''Renala Merlon''' was an [[Aes Sedai]] who appears in the histories. From the circumstances how she is described she could be from the [[Brown Ajah]]. 
+
+== History ==
+In the present, [[Egwene al'Vere]] sends some [[Brown Ajah]] sisters to look for the example of Renala in relation to the divisions within the [[White Tower]].
+
+Egwene in fact considers Renala situation to have been in some way similar to the current one and wants them to look through the history of divisions, hoping that if the Aes Sedai make the connection, they might begin to see that the problems can be solved.
+
+{{DEFAULTSORT:Merlon, Renala}}
+[[Category:Historical people]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

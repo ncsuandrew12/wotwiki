@@ -1,0 +1,21 @@
+{{character
+| image=Flame-icon.svg
+| status=Dead
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| gender=Female
+| ajah=Unknown
+| mentioned={{acos|6}}
+| lastmentioned={{acos|6}}
+}}
+{{For|the [[Aes Sedai]] of the [[Blue Ajah]] with the same last name|Merean Redhill}}
+'''Jestian Redhill''' was an [[Aes Sedai]].
+
+==History==
+[[Faile]] mentions Jestian, [[Isebaille Tobanyi]] and [[Mashera Donavelle]] as examples of an Aes Sedai who would do anything the [[White Tower]] told her to do.
+
+{{DEFAULTSORT:Redhill, Jestian}}
+[[Category:Short pages]]
+[[Category:Historical people]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

@@ -1,0 +1,17 @@
+{{ character 
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive 
+| nationality=Saldaean
+| occupation=Soldier
+| affiliation=Davram Bashere
+| gender=Male
+| mentioned={{Kod|27}}
+| lastmentioned={{kod|27}}
+| living=kod
+}}'''Matoun''' is a [[Saldaean]] lancer under the command of [[Davram Bashere]].{{ref|{{twotc}}, Matoun}}
+
+== Activities ==
+He is one of the Saldaeans to accompany Bashere and [[Rand al'Thor]] to Rand's meeting with the [[Daughter of the Nine Moons]]. During this meeting it is revealed that the supposed Daughter of the Nine Moons is actually [[Semirhage]] in disguise. After a fight ensues, he is asked to secure the area by Bashere.
+
+{{notes}}

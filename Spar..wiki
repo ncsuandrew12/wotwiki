@@ -1,0 +1,20 @@
+{{ character 
+| image=Fang-icon.svg
+| imagesize=125px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Unknown nationality
+| affiliation=Darkfriend
+| gender=Male
+| appeared={{acos|29}}
+| lastappeared={{acos|29}}
+}}
+'''Spar''' is a [[Darkfriend]] working for [[Old Cully]].
+
+== Appearance ==
+He is rat-faced, has sunken cheeks and arms that are all sinew and bone.
+
+== Activities ==
+He is sent by Old Cully to kill [[Matrim Cauthon]]. He dresses up as beggars with the rest of his men and ambush Mat and his men. Mat kills Spar before real beggars attack the rest of Spars group.
+
+{{short}}

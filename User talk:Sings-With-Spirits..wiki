@@ -1,0 +1,65 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  Sings-With-Spirits! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''A Wheel of Time Wiki'''!. Thanks for your edit to the [[:Aes Sedai]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Mainphramephreak|Mainphramephreak]] ([[User_talk:Mainphramephreak|Talk]]) 13:09, May 11, 2012
+|}
+
+== Pounce badge ==
+
+Hello. The Pounce badge is awarded when you edit one hundred pages within an hour of their creation. The wiki software keeps track of how many pages you do this on. As far as I know, there shouldn't be a "reset" or anything like that. Let me know if you have any other questions. ---- {{User:Mainphramephreak/Sig/Subst}} 02:09, August 20, 2012 (UTC)
+
+== New White Tower Sigil ==
+
+Hello. Thanks for altering the White Tower Sigil image. It looks great. When you upload the others, could you please put the {{tl|image}} template on it? I took care of the Red Ajah one. Just copy and paste and change the color of the Ajah. Let me know if you have any questions. Thanks again! ---- {{User:Mainphramephreak/Sig/Subst}} 13:11, September 12, 2012 (UTC)
+
+:Sure!... um... where do I put the {{tl|image}} template? --[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 13:17, September 12, 2012 (UTC)
+
+Just go to the file page, in this case [[:File:Aes Sedai flag ajah-red.jpg]], edit the page, copy the info, paste it in the new file page once it is uploaded. ---- {{User:Mainphramephreak/Sig/Subst}} 13:24, September 12, 2012 (UTC)
+
+:OK, Let me know if I did it correctly for [[:File:Aes Sedai flag ajah-blue.jpg]]. --[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 13:29, September 12, 2012 (UTC)
+
+Go back to either of the file pages and edit it to see what I put in there. Copy that into the new files you upload and change the color. ---- {{User:Mainphramephreak/Sig/Subst}}
+
+:OK. I was still trying to figure it out when it changed. I'll try it with [[:File:Aes Sedai flag ajah-green.jpg]]. --[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 13:35, September 12, 2012 (UTC)
+
+:I think I got it. --[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 13:39, September 12, 2012 (UTC)
+
+Yup. Again, great idea. Thanks! ---- {{User:Mainphramephreak/Sig/Subst}} 13:43, September 12, 2012 (UTC)
+
+== References ==
+
+Just to let you know, the {{tl|ref}} and {{tl|ref/book}} templates surround the included info in the <nowiki><ref> and </ref></nowiki> tags. Adding them again breaks the {{tl|notes}} template. Please let me know if you have any questions. ---- {{User:Mainphramephreak/Sig/Subst}} 00:51, December 12, 2012 (UTC)
+
+:Did you see how it breaks the text? I was trying to fix the formatting issue.
+--[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 01:08, December 12, 2012 (UTC)
+
+== Re: Ajah colors ==
+
+I removed the manual categorization of the Ajahs. The [[:Template:Character|character template]] adds the category for the Ajah automatically. ---- {{User:Mainphramephreak/Sig/Subst}} 16:04, July 6, 2015 (UTC)
+
+:It adds the category? I thought it just provided a link to its appropriate ajah article.
+:Again, just curious.
+:--[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 22:23, July 6, 2015 (UTC)
+
+::Yup. Most of the entries on that template will automatically add a category based on the input. The entries will also change the color of the template as well. In fact, a large number of character pages won't need to have a manually added category; the template does the work for us. :) ---- {{User:Mainphramephreak/Sig/Subst}} 20:20, July 7, 2015 (UTC)
+
+== Ajah art == 
+
+: Oh God, I'm sorry about all the notifications! It's an automated process and I guess they were added to your watch list as default. Hopefully your Talk page will notify you too and you get this message. Yeah we are trying to refresh the wiki and do housekeeping that built up over the years. We are looking for regular contribitors to get together as a team if you are interested? There will be an organised list of things to do (great and small) to really improve the whole site before the new TV show comes out. If you can help out with that, let me know. Best wishes, [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 11:42, 29 March 2021 (UTC)
+
+::Sadly real life keeps me very busy; I barely have time to manage the other wikis I admin! Still, if you need assistance, you can drop me a line here, where hopefully it will send a notification to my email.
+::--[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 00:13, 30 March 2021 (UTC)

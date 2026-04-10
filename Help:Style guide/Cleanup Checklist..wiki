@@ -1,0 +1,70 @@
+This page contains a guide of improvements that can be made while cleaning up a page. The list is roughly sorted by increasing degree of required Fandom/{{Wiki|Mediawiki}} familiarity.
+
+==Trivial==
+
+#Update tense of text describing in-universe activity and people per [[Help:Style guide#Phrasing and grammar]]
+##Update tense of "In the television series" or "External links" section to use past tense where applicable.
+#External links -> In the television series
+##If there is an entry for the TV series under "External links", move it to the "In the television series" section (create the section if it doesn't exist). If there are no other entries under "External links," delete the header.
+#{{tl|Ref}}s (and {{tl|verify}}s) at the end of a sentence (or just before a comma or semicolon) are often placed before the punctuation. Improve aesthetics by moving them after the punctuation.
+##For example, change <code><nowiki>The sky is blue{{ref|Look up.}}.</nowiki></code> to <code><nowiki>The sky is blue.{{ref|Look up.}}</nowiki></code>. This results in "The sky is blue.{{ref|Look up.}}" instead of "The sky is blue{{ref|Look up.}}."
+#WoT Style - Make style of WoT terms and phrases match the source material
+##"[[Asha'man]]" is capitalized, but not italicized.
+##"[[balefire]]" is one word and almost always lowercase
+##"''[[damane]]''," "[[dreamspike]]", "[[Aes Sedai|sister]]," and "''[[sul'dam]]''," should almost always be lowercase
+##"wolfdream" is two words: "wolf dream"
+##In "''[[Tel'aran'rhiod]]''," only the T is capitalized
+
+===Source Claims===
+#Unsourced Claims
+##If it's correct, add a quote, source, or reference.
+##If you're sure it's incorrect, either remove it or start a discussion in the Talk page or the {{Link|https://discord.com/channels/842766495887917116/843626513479368725|Discord}}.
+##If you're unsure about its accuracy, add {{tl|verify}}.
+#Remove speculation or move it to notes or special sections.
+#For claims that are incorrect or speculative, but likely to be added by unaware users, consider adding an acknowledgement of the claim with a source showing why it's either false or not verified/verifiable. An example claim would be that [[Olver]] is [[Gaidal]] reborn.
+
+===Modernize Links===
+#Add links to in-universe dates. For example, replace the freeform text "837 NE" with <code><nowiki>{{ne|837}}</nowiki></code> to produce {{ne|837}}. See [[Calendar]].
+#Generic links - For example, replace <code><nowiki>[https://dragonmount.com/blogs/blog/4-robert-jordans-blog/ Robert Jordan's blog]</nowiki></code> with <code><nowiki>{{Link|1=https://dragonmount.com/blogs/blog/4-robert-jordans-blog/|2=Robert Jordan's blog}}</nowiki></code>.
+#Wiki pages
+##Links to this wiki
+###Replace <code><nowiki>[https://wot.fandom.com/wiki/PAGE PAGE]</nowiki></code> with <code><nowiki>[[PAGE]]</nowiki></code>
+###Replace <code><nowiki>[http://wot.wikia.com/wiki/PAGE PAGE]</nowiki></code> with <code><nowiki>[[PAGE]]</nowiki></code>
+###For example, replace <code><nowiki>[http://wot.fandom.com/wiki/Mat_Cauthon]</nowiki></code> with <code><nowiki>[[Mat Cauthon]]</nowiki></code>
+##Links to {{TVlink}}
+###For example, replace <code><nowiki>[https://wheeloftime.fandom.com/wiki/The_Wheel_of_Time_Wiki]</nowiki></code> with <code><nowiki>{{TVlink}}</nowiki></code>
+###For example, replace <code><nowiki>[https://wheeloftime.fandom.com/wiki/Rand_al'Thor]</nowiki></code> with <code><nowiki>{{TVlink|Rand al'Thor}}</nowiki></code>
+##Links to other Fandom wikis
+###Use {{tl|Wlink}}
+###Replace <code><nowiki>[https://<wiki>.fandom.com/wiki/<page>]</nowiki></code> or <code><nowiki>[[w:c:wiki:page]]</nowiki></code> with <code><nowiki>{{Wlink|wiki|page}}</nowiki></code>
+###For example, replace <code><nowiki>[https://dune.fandom.com/wiki/Paul_Atreides]</nowiki></code> with <code><nowiki>{{Wlink|dune|Paul Atreides}}</nowiki></code>
+##{{Wiki}}
+###Use {{tl|Wiki}}
+###For example, replace <code><nowiki>[https://en.wikipedia.org/wiki/Robert_Jordan RJ]</nowiki></code> with <code><nowiki>{{Wiki|Robert Jordan|RJ}}</nowiki></code>
+###For example, replace <code><nowiki>[[Wikipedia:Robert Jordan]]</nowiki></code> with <code><nowiki>{{Wiki|Robert Jordan}}</nowiki></code>
+###For example, replace <code><nowiki>{{wp|Robert Jordan}}</nowiki></code> with <code><nowiki>{{Wiki|Robert Jordan}}</nowiki></code>
+#{{TLlink}}
+##Replace raw links to theoryland with {{t|TIDB}} (for linking to interviews/questions), {{t|TIDBKW}} (for linking to keyword searches), or {{t|TLlink}} (for specific links)
+##Replace <code><nowiki><ref></nowiki></code>s to {{TLlink}} with {{t|Ref/tidb}} (for linking to interviews/questions), {{t|Ref/tidbkw}} (for linking to keyword searches), or {{t|Ref/tllink}} (for specific links)
+##For {{t|TIDB}} and {{t|Ref/tidb}}, if the interview number doesn't exist in {{t|TIDB}}'s switch statement, consider adding it. Use the title of the interview as it appears on {{TLlink}} followed (if the title doesn't clarify the date) by a comma, then a space, then the date formatted either with <code><nowiki>{{#time}}</nowiki></code> or {{t|Date}}.
+#{{c}}
+##For example, replace <code><nowiki>{{c}}, entry name</nowiki></code> with <code><nowiki>{{c|entry name}}</nowiki></code>
+##For example, replace <code><nowiki>{{ref|{{twotc}}, </nowiki></code> with <code><nowiki>{{ref/book|c|</nowiki></code>
+#[[Template:YTlink|Youtube links]]
+##For example, replace <code><nowiki>[https://youtube.com text]</nowiki></code> with <code><nowiki>{{YTlink|1=link|2=text}}</nowiki></code>
+
+==Caution==
+#Cleanup categories.
+##Many pages have numerous duplicate categories or <code><nowiki><references /></nowiki></code> tags at the end of the page. The duplicates should be deleted, but make sure they are indeed duplicates.
+#Convert Randland dates to template invocations.
+##For example, replace 123 NE with <code><nowiki>{{ne|123}}</nowiki></code>. Don't mind the redlinks; they can be used (via "what links here") at some later date to compile information on a given year when creating a dedicated page for the year.
+#Modernize real-world dates. Replace plainly written dates with {{tl|Date}}. This renders the date in a user-defined format.
+#For major pages, add <code><nowiki>{{WotQ|{{PAGENAME}}}}</nowiki></code> at the top, just after the featured icon, disambiguation link, or info box.
+##Verify that there is at least one valid quote by checking the "Show Preview" output. If a quote is not shown, consider (a) [[Help:Style guide/Quotations#Updating_the_quote_database|adding a relevant quote]] to the database, (b) using a value other than <code><nowiki>{{PAGENAME}}</nowiki></code> to retrieve a quote, or else (c) not adding a {{tl|WotQ}} invocation.
+##If a page title contains a special character (character that is not alphanumeric or a space), you may need to put <code><nowiki>{{WotQ|name}}</nowiki></code> where '''name''' is an alias (e.g. <code><nowiki>{{WotQ|Rand}}</nowiki></code> instead of <code><nowiki>{{WotQ|Rand al'Thor}}</nowiki></code>)
+#Replace manually formatted quotes with invocations to {{tl|Quote}}.
+
+==Advanced==
+#If a quote would make a good addition to the database, add the quote per the instructions in [[Help:Style guide/Quotations#Updating_the_quote_database]].
+
+{{notes}}

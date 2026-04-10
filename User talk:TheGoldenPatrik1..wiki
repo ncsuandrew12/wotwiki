@@ -1,0 +1,184 @@
+{{w:User talk:TheGoldenPatrik1}}
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  {{<includeonly>subst:</includeonly>PAGENAME}}! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wotwiki:Community Portal|welcome]] to '''{{SITENAME}}'''!. Thanks for your edit to the [[:User talk:TheGoldenPatrik1]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! [[User:Mainphramephreak|Mainphramephreak]] ([[User talk:Mainphramephreak|talk]]) 16:04, January 7, 2019 (UTC)
+|}
+
+== Welcome ==
+
+Welcome! :)
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 20:02, January 7, 2019 (UTC)
+
+== Portability ==
+
+Hi Patrik,
+
+please do not change anything on the WoT wiki before we agreed on the exact changes.
+
+Would you be available to chat about the details this Saturday CET 20:00?
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 21:18, February 25, 2019 (UTC)
+
+----
+
+Hi Patrik,
+
+When would you be available for a chat then? Until we talk, would you mind to stop creating new pages on the WoT wiki?
+
+Thank you,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:15, March 13, 2019 (UTC)
+
+----
+
+I'd like to talk to you (chat with you) and not writing questions on your talk page. That is hardly a conversation. If you cannot provide me that much time of yours then please find another wiki for your experiments with the characterpages. Sorry.
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 17:50, March 14, 2019 (UTC)
+
+You mesed up the Wikia.css it seems. Now the EWoT link looks like this: '''[https://wot.fandom.com/wiki/EWoT EWoT]:''' [if:|hist|s}}/{{#if:|{{#replace:sierin vayu|">http://encyclopaedia-wot.org/characters/s/sierin_vayu.html Sierin Vayu] I tried to undo your editing but it seems that didn't help. Would you mind fixing it pls?
+
+For chatting I'd prefer the weekend, or evenings of the workdays, since I am working according to CET. Pls try to find something which fits to outside of work hours in CET. And until we chat do not modify anything. (except restoring the Wikia.css /fixing the error in the templates.) Thx.
+
+== Design change of character boxes ==
+
+Hi Patrik,
+
+did you change some templates or .css files again? The design of the character boxes has been changed and it drastically changed the look of the whole site. In case it was you, would you mind please to reverse it?
+
+Thank you,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 17:00, March 19, 2019 (UTC)
+
+----
+
+''"What change are you referring to?"''
+
+Haven't you checked BEFORE and AFTER you changed ? I refer to the changes what I described in the message. You messed up the design of the character boxes. Each had specific design.
+
+Not to mention that you did that despite the fact that''' I asked you specifically NOT to change anything until we talk'''. I asked you like literally 3 times. You messed up the site two times already.
+
+Please reverse your changes and do not touch anything on the site until we can discuss what will you change and how.
+
+Thank you for your understanding.
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 19:05, March 19, 2019 (UTC)
+
+----
+
+''"I have a solution which I'll implement soon"''
+
+Dear Patrik,
+
+it seems to me that you force your solution on us (WoT wiki) and there's no choice except accepting whatever design changes you wish to do on WoT wiki. Am I correct? It seems to me no matter how many times I ask you NOT to change the site before we can chat and talk about the changes, you just ignore it and you do whatever you wish... That feels quite odd, to be honest.
+
+Could you please provide an explanation for your behaviour?
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:33, March 22, 2019 (UTC)
+
+----
+
+''"I'm afraid you're misunderstanding me."''
+
+No, I didn't. But I find it disturbing that the desktop versions of the character boxes lost their original design; now they all look worse than before and you didn't even seem to notice that. I understand the importance of mobiles and tablets but not on the price of loosing the original look of the site on desktops.
+
+Would you mind taking care of that too?
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:10, March 23, 2019 (UTC)
+
+----
+
+On some pages I've seen the font type changed, but I can't find them now, so they might be already fixed by one of your changes. I'll let you know if I recognise something specific.
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:24, March 24, 2019 (UTC)
+
+== Character box design fix ==
+
+Hi,
+
+please check out the character box on this page: black font color on black background.
+
+[//wot.fandom.com/wiki/Taril_Canler https://wot.fandom.com/wiki/Taril_Canler]
+
+Can you fix that?
+
+Couldn't you check the original design of the character boxes and make your new portable ones using those styles?
+
+thx&best
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 08:41, March 28, 2019 (UTC)
+
+----
+
+[[File:Character-box.png|thumb]]
+
+Firefox shows this:
+
+(I hope you'll see it)
+
+On Chrome it is red, indeed.
+
+The thing is that certain WoT characters belong to groups which are indicated by the character box coloring. 7 "ajah", seven colors. Because of your change, these character boxes look very weird right now, font colors are not fitting to background colors, etc. I attached examples how they looked like in the old version. Compare them to the new ones and you'll see the difference.[[File:Grey-aisha.png|thumb]][[File:Yellow-ludice.png|thumb]]
+
+----
+
+Hi, no change, same issue, FF full black, no text is visible only when i highlight it, chrome works ok, except the padding looks ridiculous. Checked on Linux and Windows. Both shows the same errors. I can't help you with the FF dev tools, sorry. Try to ask someone around you.
+
+21:30, April 2, 2019 (UTC)[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]])
+
+----
+
+Yeah. Because it makes no sense for me copying error messages here. I'm sure you have someone around with a windows and FF installed where you can much faster and efficiently look up what's the issue.
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:45, April 3, 2019 (UTC)
+
+----
+
+What OS do you have? If you do styling why don't you have a Windows at least in a VB or some other testing environment? You're just changing style sheets without being able to test the result?
+
+The worst thing is that you have changed the template without anyone's permission so that now I cannot even check how the site looked like before your change and show the differences to you. What you have done is so rude and unfair. You just decided to do this without any permission. :/
+
+. . .
+
+The background-font color issue looks ok to me right now, but now again red ajah members like [//wot.fandom.com/wiki/Takima_Deraighdin https://wot.fandom.com/wiki/Takima_Deraighdin] have blue background instead of red. So now the coloring doesn't work again. :/
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:23, April 4, 2019 (UTC)
+
+----
+
+Why can't you install Firefox?
+
+You don't see why it is rude? Because you were asked not to do it and you did it anyway, without even notifying that you will do it. What do you call someone who forces their will on you?
+
+"nearly identical" - When the padding is not perfect it looks ugly.
+
+This doesn't look brown to me. (see attached pic)
+
+Please install Firefox and make sure the site looks as it looked before your changes.
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 23:22, April 5, 2019 (UTC)
+--------------
+Hi Patrik,
+I've checked it and it looks finally GOOOD! Good job, thank you. :)
+If I find anything else I'll ping you.
+best,
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 20:38, April 11, 2019 (UTC)
+
+
+
+[[File:Takima.png|right]]

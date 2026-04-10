@@ -1,0 +1,17 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Faile Bashere
+| gender=Unknown
+| appeared={{tom|34}}
+}}
+'''Daylight''' is a horse owned by [[Faile Bashere]].
+
+==Activities==
+After the death of her previous horse, [[Swallow]], Faile obtains Daylight. Daylight carries Faile to the various meetings between her husband, [[Perrin Aybara]], and the [[Lord Captain Commander]] of the [[Children of the Light]], [[Galadedrid Damodred]].{{ref/book|13|34}}{{ref/book|13|40}} Daylight also carries Faile into [[Caemlyn]] to meat with Queen [[Elayne Trakand]].{{ref/book|13|47}}
+
+{{notes}}
+{{short}}

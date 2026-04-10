@@ -1,0 +1,56 @@
+__NOTOC__
+
+[[File:Morgase Trakand.jpg|300px|thumb|Morgase Trakand sitting on the Lion Throne.]] '''The Queen of Andor''' is the ruler of [[Andor]], the largest nation of the Westlands and arguably the single most powerful ruler with the exception of the [[Amyrlin Seat]]. As Andor is only ever ruled by a woman, it is technically a "Queendom". The Queen of Andor sits on the [[Lion Throne]] and resides in the [[Royal Palace of Andor]] (often just referred to as "the Palace") within the Inner City of [[Caemlyn]].{{ref/book|1|39}} The husband of the Queen gains the title [[wikipedia:Prince Consort|Prince Consort]].
+
+== Full Title ==
+
+The full title of the Andoran monarch is: Grace of the Light, Queen of Andor, Defender of the Realm, Protector of the People. If they are also High Seat of their House, this is added to the end of these titles.{{Ref/book|1|40}}{{ref|{{Twotc}}, Morgase Trakand}} 
+
+==Eligibility==
+
+The role of Queen is hereditary, the heir usually being the eldest daughter of the current Queen and given the title [[Daughter-Heir]].{{ref/book|1|34}} If the ruling Queen has no daughters, the nearest female relative of the Queen would be heir presumptive. If there are no suitable female heirs, such as the case of [[Mordrellen Mantear]], and there is no consensus for the next Queen among the major Houses of Andor, then a [[Succession Wars|Succession War]] may be triggered.<ref>Glossary, Daughter-Heir</ref> At the beginning of the books, the number of major Houses was nineteen, requiring the support of ten Houses to become Queen. By the end of the series, several major Houses have effectively been dissolved, namely [[House Marne]], [[House Arawn]] and [[House Sarand]].
+
+The elegible woman need not be High Seat of her House, as in the case of [[Elenia Sarand]], whose husband [[Jarid Sarand]] is High Seat. Elenia is only a Sarand by marriage, but this point is never raised in terms of her being ineligible to be Queen. As Elenia points out to [[Rand al'Thor]], however, the more connections any potential claimant has with the First of Andor, [[Ishara Casalain]], the stronger her claim.{{ref/book|6|26}}{{ref|{{twotc}}, Andor}} In reality, however, whoever holds Caemlyn will likely be able to take the throne.{{verify}}
+
+== Power Structure ==
+
+Unlike many nations, such as [[Ghealdan]], [[Arad Doman]], [[Tarabon]] and [[Illian]], there is no formal political body which chooses the Queen nor is there a balancing power consisting of other nobles, merchants or elected representatives to keep the monarch in check. At least in recent history, the monarch of Andor seems to hold absolute power once she is safely on the throne.
+
+The Queen also has her own personal army, called the [[Queen's Guards]], which exists in addition to the private levies of her own House and those of liegemen from minor Houses loyal to her House. They are led by the [[Captain-General (Andor)|Captain-General]], which is often also the Prince Consort, although need not be so. They rarely operate outside of the Caemlyn area and sometimes act as a police force for that city.{{ref|{{twotc}}, Andor}}
+
+== Connections with the White Tower ==
+
+[[File:AndorCI.png|thumb|left|White lion of Andor on a field of red.]] Andor has maintained a strong connection with the White Tower over the course of history. Most notably, it is tradition for the Queen to send the Daughter-Heir to [[Tar Valon]] for training, whether the girl can channel or not.{{Ref/book|2|4}} This practice dates back to the time of Andor's first Queen.{{ref|{{twotc}}, Andor}} It is also tradition for the queen's eldest son to be sent to gain military training as [[Warder]] in Tar Valon in preparation for becoming [[First Prince of the Sword]]. 
+
+This connection is not just restricted to the royal family, as was the case with [[Morgase Trakand]], who the Tower went so far as to give the [[Great Serpent ring]], even though she was merely the daughter of a High Seat of a non-ruling House.
+
+Apart from the above links, Andor also is the only nation to openly have an [[Aes Sedai advisors|Aes Sedai advisor]], although at times, such as the events of [[The Eye of the World]], this has caused some political controversy.
+
+== Known Ruling Houses ==
+
+The first ruling house of Andor was [[House Casalain]]. The most recent ruling Houses, in chronological order, are [[House Norwelyn]], [[House Mantear]], and [[House Trakand]].
+
+===Known Queens===
+Queens during the [[War of the Hundred Years]]
+#[[Ishara Casalain]]
+#[[Alesinde]]
+#[[Melasune]]
+#[[Termylle]]
+#[[Maragaine]]
+#[[Astara]]
+#[[Telaisien]]
+#[[Morrigan]]
+#[[Lyndelle]]
+
+Other Queens
+*[[Modrellein]]
+*[[Dolera Mantear]]
+*[[Mordrellen Mantear]]
+*[[Morgase Trakand]]
+*[[Elayne Trakand]]
+
+{{notes}}
+[[Category:Andor]]
+[[Category:Queens| Queen of Andor]]
+[[Category:List pages]]
+[[Category:Rulers]]

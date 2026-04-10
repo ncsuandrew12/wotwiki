@@ -1,0 +1,16 @@
+'''Forcing''' is when a channeler uses more of the [[One Power]] then they can safely handle, thereby accelerating the realization of their potential strength and increasing their risk of burnout or death.{{ref/book|7|9}}{{ref/book|twotc|Strength in the One Power}}
+
+The [[Black Tower]] required its initiates to do everything with the Power, including chores and cooking.{{ref/book|6|11}} This amounted to forcing all trainees as a training technique intended to rapidly prepare the [[Asha'man]] for the [[Last Battle]] in the limited time available. Those who died or burned out as a result were referred to as "losses in training," along with those fatally poisoned due to ''saidin''-induced madness.{{ref/book|8|14}} Such losses amounted to about nine percent.{{ref|At the time of ''[[Message from the M'Hael]]'', there were 29 [[Asha'man]], 97 [[Dedicated]], and 322 [[Soldier]]s. There had been 19 deserters, 13 burned out in training, and 28 killed by drawing too heavily on the One Power. These numbers yield a rate of about 9%. However, the Asha'man kept by Rand following [[Dumai's Wells]] may not be fully accounted for in this tally, and those killed at Dumai's Wells are almost certainly excluded from these numbers.{{ref/book|8|14}}}} It is unclear if such training methods will persist in the aftermath of the Last Battle.
+
+Conversely, the use of forcing is outright banned inside the [[White Tower]].
+
+Men are more resistant to the dangers of forcing than women, though not by much.{{ref/book|twotc|Strength in the One Power}}
+
+A less dangerous method for women is to do so under the guidance of a fully trained female channeler, because it is possible for a trained woman to know the absolute limit of another woman's strength in the One Power. When caught as a ''[[damane]]'' by the [[Seanchan]], [[Egwene al'Vere]] was forced, but the use of the ''[[a'dam]]'' seems to protect the forced ''damane'' from harm.
+
+This is likely because the ''a'dam'' produces an involuntary [[circle]] between ''damane'' and ''sul'dam''.{{ref/book|6|8}}{{ref/book|6|g||a'dam}} In fact, it seems that the [[link]]ing could be a safe way to protect a channeler who is being forced, as a circle provides a buffer effect preventing burn out. This is proved by recent developments inside the Black Tower, among the Dreadlords, where it is revealed that a man linked by a woman to another man who is teaching him, can learn weaves, improve skills and augment his strength in a faster and safer way than usual.{{verify}}
+
+While explaining the concept to [[Nicola Treehill]], Egwene recalled being forced by [[Siuan Sanche]].{{ref/book|7|9}}
+
+{{notes}}
+[[Category:One Power]]

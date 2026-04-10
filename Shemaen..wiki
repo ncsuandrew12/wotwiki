@@ -1,0 +1,21 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| ajah=Unknown
+| rank=Aes Sedai
+| gender=Female
+| mentioned={{ns|8}}
+| lastmentioned={{ns|8}}
+| living=ns
+}}
+
+'''Shemaen''' is an [[Aes Sedai]] of unknown [[Ajah]].
+
+==History==
+During the [[Aiel War]], Shemaen is told by [[Adelorna Bastine]] about [[Gitara Moroso]]'s [[Foretelling]] that the [[Last Battle]] will come during the lifetime of sisters now breathing. [[Ellid Abareim]] overhears this conversation and repeats it to her fellow [[Accepted]], [[Moiraine Damodred]] and [[Siuan Sanche]].{{ref/book|0|8}}
+
+{{notes}}
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

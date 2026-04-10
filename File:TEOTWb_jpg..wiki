@@ -1,0 +1,9 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover Art
+| Description             = Cover for ''[[To the Blight]]''
+| Source                  = ''[[To the Blight]]''
+| Artist                  = Charles Keegan
+}}
+[[Category:Tor editions|01b]]
+[[Category:The Eye of the World covers]]

@@ -1,0 +1,29 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|817}}
+| ajah=Brown
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Zeranda Tyrim''' was an [[Aes Sedai]] of the [[Brown Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|797}} and served in that capacity until her death in {{Ne|817}}.{{ref|{{twotc}}, Zeranda Tyrim}}{{ref|{{bwb}}, Chapter 24 The White Tower|Zeranda}}
+
+==History==
+Zeranda was an Amyrlin of only average strength and influence. She was [[Myriam Copan]]'s successor and [[Parenia Demalle]]'s predecessor.{{ref||Zeranda}}
+
+Notably, Zeranda kept [[Sereille Bagand]] of the [[White Ajah]] as her [[Mistress of Novices]], though the name of her [[Keeper of the Chronicles]] and her subsequent [[Ajah]] are unknown. Sereille in fact served excellently in the same office also during the reign of the Amyrlin who preceded Zeranda (a [[Green Ajah|Green]]) and she was again confirmed there by Zeranda's successor (a [[Gray Ajah|Grey]]) becoming legendary in this role.
+
+==Trivia==
+*Zeranda may be analogous to the Amyrlin Seat depicted in the events of the 1999 [[The Wheel of Time (video game)|video game]] by Legend Entertainment. According to game developer Glen Dahlgren, the video game is set one hundred and fifty years prior to the events of the novels. This would indicate a time closer to Zeranda's reign as Amyrlin than [[Kirin Melway]]'s, the only other Amyrlin to be raised from the Brown Ajah around the similar timeframe, as the game depicts the [[Keeper of the Chronicles]], Elayna Sedai, as being from the Brown Ajah.
+
+{{notes}}
+{{DEFAULTSORT:Tyrim, Zeranda}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

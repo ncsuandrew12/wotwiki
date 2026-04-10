@@ -1,0 +1,22 @@
+[[File:Faces-icon.svg|right]]
+The '''Supreme Council''', also known as the '''Great Council''', is the governing body of the [[Black Ajah]]{{ref/book|7|p}}{{ref/book|10|p}}.
+
+==Organization==
+The council is made up of thirteen Black sisters led by the Head of the Council, who is in fact the nominal leader of the entire Black Ajah{{ref/book|7|p}}{{ref/book|10|p}}. However, the Head of the Council is selected by and accountable to the [[Forsaken]], who give the Supreme Council their overall directives. If a member of the Council dies she is immediately replaced, maintaining the number of thirteen. This number, perhaps not coincidentally, is the number of channelers required along with thirteen [[Myrddraal]] to turn a channeler to the [[Dark One]] against their will.
+
+If normal Black sisters are shrouded in secrecy, the members of the Council are even more so. Their meetings are attended hooded and cloaked to disguise their identities even from each other and also their voices are disguised{{ref/book|6|p}}. If one of the members are out of the Tower, another member is brought in to make up the numbers {{ref/book|11|p}}.
+
+In fact, the Head of the Council is the only member with knowledge of every sister in the Black Ajah. The current Head of the Council is [[Alviarin Freidhen]], She was handpicked by Ishamael, replacing [[Jarna Malari]] after she had Tamra put to the question{{ref/book|7|p}}. [[Galina Casban]] also belonged to the Council, as second of Alviarin; but Galina is currently a slave to [[Shaido]] [[Aiel]] [[Wise Ones]]. It is unknown if she was replaced and who the remaining members of the Council are, but there is a strong suspicion that [[Sheriam Bayanar]] held one of its seats; she is mentioned in [[Verin Mathwin]]'s book as a "leader among the Black Ajah"{{ref/book|12|39}}, clearly signalizing her status within the Ajah of her true allegiance.
+
+Ordinary members of the Black Ajah are brought before the Supreme Council only if they are being honoured, being given a very important assignment or being put to the question{{ref/book|11|p}}.
+
+== Known members of the Supreme Coucil ==
+* [[Jarna Malari]] (former Head of the Supreme Council; killed by [[Ishamael]] in [[983 NE]])
+* [[Alviarin Freidhen]] (replaced Jarna Malari; captive in [[Stedding#Shienar|''Stedding'' Sholoon]])
+* [[Galina Casban]] (former Highest of the Red Ajah; currently ''[[gai'shain]]'' to the [[Shaido]])
+* [[Sedore Dajenna]] (former [[Sitter]] for the [[Yellow Ajah|Yellow]]; killed in ''[[Tel'aran'rhiod]]'' in [[1000 NE]])
+* [[Velina Behar]] (former Sitter for the [[White Ajah|White]]; wherabouts unknown, possibly dead or captured in the [[Last Battle]])
+* [[Sheriam Bayanar]] (former [[Mistress of Novices]] and [[Keeper of the Chronicles]]; executed in {{ne|1000}}) (likely)
+
+{{notes}}
+[[Category:Black Ajah| Supreme Council]]

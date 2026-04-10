@@ -1,0 +1,16 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Miscellaneous 
+| Description        = Letter forms and numeral forms of [[Old Tongue]] script
+| Source             = [[New Spring comic]] Graphic Novel; in the bonus material with an email from [[Robert Jordan]]. Email with the image reads:
+
+From: Robert Jordan
+To: Les Dabel, Ernst Dabel
+Sent: Thursday, April 28, 2005 12:52 PM
+Subject: NUMERALS
+I'm sending this to both of you to make sure it gets through to one of you. Here are the numerals I came up with. I think they fit well with Elisa's alphabet. I am considering that maybe the zero should be made a mirror image so it doesn't resemble a d so much. What do you think?
+Jim
+| Artist             = Ellisa Mitchell
+| Artist2 =
+
+}}

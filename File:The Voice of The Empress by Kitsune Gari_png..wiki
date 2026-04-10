@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.deviantart.com/kitsune-gari/art/The-Voice-of-the-Empress-665485399
+|Description = Fan art of [[Selucia]].
+|Artist      = Kitsune-gari
+}}

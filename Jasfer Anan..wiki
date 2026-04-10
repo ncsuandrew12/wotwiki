@@ -1,0 +1,25 @@
+{{ character
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| occupation=Ship captain
+| nationality=Altaran
+| hair=Gray
+| gender=Male
+| appeared={{acos|17}}
+| lastappeared={{wh|29}}
+| lastmentioned={{kod|9}}
+| living=kod
+}}'''Jasfer Anan''' is the husband of [[Setalle Anan]].{{ref|{{twotc}}, Jasfer Anan}} He owns a number of boats as well as the one he captains. His wife, Setalle, tells Mat that he owns ten.{{ref/book|9|29}}
+
+== Appearance ==
+He has a square-face and gray hair. He has a double earring of the [[Ancient and Honorable League of the Nets]] hanging from his left ear with two white stones in it. This signifies that he owns three boats, one that he captains and two that sail for him. His arms are criss-crossed with scars from duels he has won.
+
+== Activities ==
+He arrives on scene with his wife after [[Matrim Cauthon]] is attacked and kills two thugs in the [[Wandering Woman]]. In the course of their ensuing conversation Mat asks if men can ever understand women, to which Jasfer starts bellowing with hysterical laughter, laughing so hard that he sheds tears. This earns him a sharp, hard punch in the stomach from his wife.{{ref/book|7|17}}
+
+Two days after the [[Seanchan]] invade [[Ebou Dar]], Setalle decides to sell the Wandering Woman because she "sees what they are," and by the time Mat is ready to leave, the inn is sold; all that remains to be done is for Setalle to turn over the keys to the new owner. Approximately three days prior to Mat leaving Ebou Dar, an event in which Setalle intends to participate, Jasfer sails off with all his kin and his ten boats to [[Illian]] where he will wait for his wife.{{ref/book|9|29}}
+
+{{notes}}
+
+{{DEFAULTSORT:Anan, Jasfer}}

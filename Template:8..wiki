@@ -1,0 +1,4 @@
+''[[The Path of Daggers]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[The Path of Daggers/Prologue|Prologue]]|g|glossary=[[The Path of Daggers/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[The Path of Daggers/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|Path of Daggers]]
+</noinclude>

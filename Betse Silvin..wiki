@@ -1,0 +1,19 @@
+{{character
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| occupation=Serving girl
+| gender=Female
+| appeared={{loc|5}}
+| lastappeared={{loc|5}}
+| living=loc
+}}
+'''Betse Silvin''' is a serving girl at [[The Golden Stag]] inn in [[Maerone]]. She is short and slim; has dark eyes; black, curly, shoulder-length hair; and pale cheeks; she is beautiful.
+==Activities==
+When [[Mat]] attempts to flirt with her, she begins talking incessantly and asking lots of questions. To shut her up, Mat asks her to dance and teaches her a dance he remembers from one of his past lives. 
+
+He asks her if "[[Daughter of the Nine Moons]]" means anything to her but it does not. Later in the evening of that same day, Betse dances with Mat some more although she still refuses to kiss him.
+
+{{DEFAULTSORT:Silvin, Betse}}
+[[Category:Short pages]]

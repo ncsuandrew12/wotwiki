@@ -1,0 +1,28 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| occupation=Mercenary
+| affiliation=Elayne Trakand
+| gender=Male
+| rank=Captain
+| height=Short
+| build=Slender
+| status=Dead
+| death={{ne|1000}}
+| hair=Front shaved
+| appeared={{kod|16}}
+| lastappeared={{kod|32}}
+| lastmentioned={{kod|35}}
+}}
+'''Aldred Gomaisen''' was a hired mercenary captain working for [[Elayne Trakand]].
+
+== Appearance ==
+He was short and slender, with the front of his head shaved.
+
+== Activities ==
+He works for Elayne, pushing back the sorties from [[Arymilla Marne]].
+He demands Elayne for more money due to a loss of men. She sends him away with no agreement.
+Later, he, [[Rhys a'Balaman]] and [[Evard Cordwyn]] turn coat and attack the [[Far Madding Gate]]. Elayne later signs his death warrant.
+
+{{DEFAULTSORT:Gomaisen, Aldred}}

@@ -1,0 +1,3 @@
+It's mainly because we have many different templates all doing similar things, only with slightly differing data sets.
+
+I dont suggest you switch to these new templates, Just thought it would be nice to have some nicer code around :D

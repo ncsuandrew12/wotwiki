@@ -1,0 +1,30 @@
+{{creature
+| image=Narg teotwc.jpg
+| imagesize=250px
+| ewot=Narg
+| name=Narg
+| type=trollocs
+| animal=Trolloc
+| height=8 feet
+| status=Dead
+| gender=Male
+| appeared={{teotw|5}}
+}}
+{{WotQ|{{PAGENAME}}}}
+
+'''Narg''' is an eight foot tall [[Trolloc]] that has a wolf's muzzle and goat hooves. 
+
+==Activities==
+He is one of the Trollocs who attack the [[al'Thor]] farm.{{ref/book|1|5}} He hides in [[Rand]] and [[Tam]]'s house pretending to be dead, waiting for someone to return. He then attempts to talk [[Rand]] into coming with him to see the [[Myrddraal]]. He attacks [[Rand]] and is impaled on Tam's sword.
+
+[[Image:Narg.jpg|left|thumb|150px|Narg from the "Premier" deck of The Wheel of Time Collectible Card Game]]
+
+==Background==
+Narg is also the only Trolloc that Wheel of Time readers have witnessed speaking in the common tongue, though quite crudely.
+
+Also, [[Brandon Sanderson]] has revealed, likely humorously, that it was Narg who [[Who killed Asmodean?|killed Asmodean]].{{ref|[http://www.brandonsanderson.com/blog/739/Big-Wheel-of-Time-Interview-Retrospective Brandon Sanderson Blog: Big Wheel of Time Interview Retrospective]}}
+
+== External links ==
+* {{TVlink|Narg}} on {{TVlink}}
+
+{{notes}}

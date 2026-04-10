@@ -1,0 +1,24 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| ewot=cat_dancer
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Lan Mandragoran
+| gender=Stalion
+| color=Bay
+| appeared={{ns|1}}
+| lastappeared={{ns|22}}
+}}
+'''Cat Dancer''' is the war horse ridden by [[al'Lan Mandragoran]] during the [[Aiel War]].{{ref/book|0|1}}
+
+==Appearance==
+Cat Dancer is a bay stallion.{{ref/book|0|1}}
+
+==History==
+[[File:Canluum.jpg|200px|thumb|left|Lan leading Cat Dancer into Canluum.]]
+Cat Dancer carried Lan Mandragoran near [[Tar Valon]] in the last days of the Aiel War.{{ref/book|0|1}} He is also with Lan when the [[Malkieri]] and his company scout for [[Aiel]] near [[Kinslayer's Dagger]].{{ref/book|0|12}} Cat Dancer carried Lan to [[Canluum]] in [[Kandor]].{{ref/book|0|15}} As a trained war horse, Cat Dancer helps Lan, [[Moiraine Damodred]], [[Bukama Marenellin]], and [[Ryne Venamar]] defend against bandits on their way the [[Chachin]].{{ref/book|0|21}} As soon as the party arrives in Chachin, Lan gallops away to the [[Aesdaishar Palace]].{{ref/book|0|22}}
+[[File:NSCover.jpg|thumb|200px|Cat Dancer on the cover of ''[[New Spring]]''.]]
+
+{{Notes}}

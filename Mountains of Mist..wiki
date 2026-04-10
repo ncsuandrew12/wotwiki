@@ -1,0 +1,34 @@
+[[Image:Mountains of Mist map.png|thumb|right|350px|General location of the mountains in the Westlands]]
+{{dablink|For other uses of the words "mountain" and "mist," see [[Mountain]] and [[Mist]].}}
+The '''Mountains of Mist''' are a vast stretch of mountains that exist in the western region of the [[Westlands]]. The range is so named due to its ever-cloud-capped peaks.{{ref/book|1|1}}
+
+==Geography==
+[[File:Mountains of Mist.jpg|thumb|left|350px|The cloud-capped peaks of the Mountains of Mist.]]
+The mountains begin south of the border between [[Arad Doman]] and [[Saldaea]] and extend for several hundred leagues to form the natural boundaries of four more nations; [[Andor]], [[Tarabon]], [[Ghealdan]], and [[Amadicia]].{{ref|{{twotc}}, Mountains of Mist}} Many major rivers find their headwaters in the crags of the range, including the [[River Tarendrelle|Taren River]] and the [[River Manetherendrelle|White River]]. The terrain contains many valuable metal ores, including gold, silver, and iron; the visible surface signs of which are easily detectable to those schooled in mining.{{ref/book|6|p}} Additionally, the range features the large inland water body [[Lake Somal]], the spectacular waterfall [[Eldrene's Veil]], and the [[Sand Hills]], a geographic anomaly that extends along its eastern limits. Six [[Ogier]] ''[[stedding]]'' are also scattered throughout the range.{{ref/book|6|20}} Along with the Taren River, the White River, and [[The Mire]], the mountains serve as an element of geography that promotes the isolation of the [[Two Rivers]] region.{{ref/book|1|4}}
+
+==History==
+===The Breaking of the World===
+Evidence suggests that the Mountains of Mist did not exist during the [[Age of Legends]], when the area was covered by the shallows of a great ocean.  During the [[Breaking of the World]], insane male [[Channelers]] raised the mountain range and drove back the sea.  The disturbance of the adjacent shoreline would become the sand hills, and the rocks, ores, and minerals locked below the ocean floor were forced into enormous vertical displacements forging vast crags and peaks.
+
+===Manetheren===
+[[File:ManetherenCapital.JPG|thumb|220px|left|The capital of Manetheren; resplendent in the Mountains of Mist]]
+In the years following the breaking of the world, those who first settled the area discovered a great wealth of gold, silver, and iron that had long existed below the surface of the earth. In time settlements arose to exploit these riches which became cities and eventually birthed the nation of [[Manetheren]] (literally "''Mountain Home''" in the [[Old Tongue]]). Manetheren founded its capital near the headwaters of the Manetherendrelle River, high and secure in the safety of the surrounding peaks. For over a thousand years the nation prospered and fought wars within the passes of the mountains with its neighbor and rival [[Safer]] which controlled the northern stretches of the range. Doom came to both nations during the [[Trolloc Wars]] when Manetheren was destroyed following the [[Battle of the Tarendrelle River]] and the Battle of Aemon's Field.{{ref/book|1|9}} Safer declined soon afterwards and for several hundred years the mountains became wild and uncontrolled. Travelers to the site of the former capital will encounter a singular lone [[Waygate]] framed by mighty peaks capped with clouds and surrounded by a area where stunted trees grow in poor soil; marking the location where the wondrous capital city was annihilated.{{ref/book|4|27}} Hidden nearby among the peaks are ancient remains from Manetheren dating from this era. Daring travelers may chance upon great carved figures that can span an entire mountainside or a location where strange angular letters two spans high are incised across a cliff face that is a shade too smooth and sheer to be natural.{{ref/book|4|28}}  Leagues to the north Safer left behind evidence of their kingdom as well in the form of half-buried ruins and broken monuments, all as forgotten as those who built them.{{ref/book|3|1}}
+
+===The Free Years===
+In the years following the Trolloc Wars the Mountains of Mist fell under the control of many nations that rose and fell. New towns and encampments were founded to continue to exploit the riches locked in untapped mines near the surface of the range, though no single community would last permanently.
+
+===The New Era===
+After the death of [[Artur Hawkwing]] the nation of Andor began to grow and expand westward. Eventually Andor came into control of the Two Rivers district and some lands to the north. It was here where the town of [[Baerlon]] was founded to establish a community where miners could live while extracting riches from the mountains and funnel the subsequent wealth east to [[Caemlyn]]. Four other nations - [[Arad Doman]], [[Tarabon]], [[Amadicia]], and [[Ghealdan]] - have also claimed rights to various stretches of the range, though no single nation has managed a control of the forbidding terrain so completely as ancient Manetheren.
+
+==Recent Events==
+Though many believe the mountains to be impassable, recent troubles in Arad Doman, Tarabon, and the [[Almoth Plain]] have driven refugees into the range. Some of these exiles discovered routes through the peaks and have begun to settle on the eastern side, swelling the populations of Baerlon, Ghealdan, and the Two Rivers while bringing with them new trade skills and cultural traditions.{{ref/book|6|p}}
+
+==Trivia==
+The name of the mountains may be a reference to the Misty Mountains, a prominent mountain range that appears in both ''The Hobbit'' and ''The Lord of the Rings'' by J.R.R. Tolkien.
+
+==External links==
+*{{TVlink|Mountains of Mist}} on {{TVlink}}
+
+[[es:Montañas de la Niebla]]
+{{notes}}
+[[Category:Mountains]]

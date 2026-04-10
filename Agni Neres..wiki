@@ -1,0 +1,31 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Ship captain
+| gender=Male
+| build=Bony
+| height=Tall
+| appeared={{Tfoh|48}}
+| lastappeared={{tfoh|49}}
+| living=tfoh
+}}
+'''Agni Neres''' is the captain of the ''[[Riverserpent]]'' and a smuggler, originally from [[Ebou Dar]].
+
+==Appearance==
+He is a tall and bony man who has ears that stand out from his head. He has a dour cast to his narrow face.
+
+==Personality==
+He has a strong dislike of women thinking they cost men money, fight each other all the time, distract men, and cause trouble. Unless he has to speak directly to a woman, he looks at and speaks to the air above a woman's head or to the side of her. He expects his crew to not talk with women, yelling at them and giving them a task if he sees them doing so.
+
+==History==
+He is married and has several children who all live in Ebou Dar.{{ref/book|5|49}}
+
+==Activities==
+Captain Neres is hired by [[Galadedrid Damodred]] to take [[Elayne Trakand]] and [[Nynaeve al'Meara]] from [[Samara]]. Galad only has enough to pay for their way to [[Boannda]]. When Elayne and Nynaeve arrive with [[Birgitte Silverbow]], [[Thomdril Merrilin]], [[Juilin Sandar]], [[Ragan]], [[Uno Nomesta]] and several [[Shienar]]ans, Captain Neres demands payment for them as well. Nynaeve then bullies Neres into taking on a large group of refugees on the docks, including [[Nicola Treehill]], [[Areina Nermasiv]] and "[[Moghedien|Marigan]]." 
+
+Elayne and Nynaeve take Neres' cabin, about which he is not happy. To further Neres' unease and frustration, Elayne and Nynaeve force him to cast his cargo into the river. Wincing every time more of his cargo is swallowed by the river, he brightens when Nynaeve directs that all of his fabrics be left in the hold. His face turns very sour when he realizes that she means them for bedding. 
+
+{{notes}}
+{{DEFAULTSORT:Neres, Agni}}

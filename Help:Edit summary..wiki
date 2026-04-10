@@ -1,0 +1,33 @@
+When [[Help:How to edit a page|editing]] an article on {{SITENAME}}, there is a small field labeled "Edit summary" under the main edit-box. It looks like this:
+
+:[[Image:Editsummary.png|Edit summary text box]]
+
+The text written here, up to 200 characters, will appear on the ''Recent changes'' page, in the page revision history, on the [[m:MediaWiki User's Guide: Diff|diff page]] (for comparing revisions), and in the [[m:MediaWiki User's Guide: Using the Watchlist|watchlists]] of users who are watching that article. See '''[[m:Help:Edit summary]]''' for full information on this feature.
+
+You might find text in this box enclosed in /* and */ marks even before you entered anything, which should be the title of the section that you edited if you used the [[Help:Sections|section editing]] feature. (E.g. /* Guidelines */ would be there if you edited the Guidelines section of this page.) Add your summary after this text. You may want to check the '''[[Wikipedia:Help:Edit summary#Section title as automatic edit summary|help available on section titles in edit summaries]]''' for more details.
+
+== Guidelines ==
+'''Provide an edit summary''' is one of {{SITENAME}}'s (proposed) [[:Category:Policies|Policies]]. Even a short summary is better than no summary. Accurate summaries help people decide whether it is worthwhile for them to check a change. Summaries often pique the interest of users with an expertise in the area. This may not be as necessary for "minor changes", but "fixed spelling" or at least "typo" would be nice even then. If there is text enclosed in /* and */ already there (which, again, denotes a section title), leave that and add your summary after this text.
+
+When uploading an image one should supply an upload summary.  Please  see [[Help:Images#Uploads|Uploading images]] for full information on this feature.
+
+=== Use of edit summaries in disputes ===
+If a [[project:Dispute resolution|content dispute]] develops, proper use of edit summaries is critical. Edit summaries should accurately and succintly summarize the nature of the edit, especially if it may be controversial; if the edit involves [[Wikipedia:Help:Revert|reverting previous changes]], it should be marked as a revert in the edit summary. In controversial situations, avoid using edit summaries to carry on debates or negotiation over the content or to express opinions of the other users involved. Doing this may actually exacerbate the situation, because it naturally encourages the other party to respond in the same manner - in other words, by making an edit and using the edit summary - and what might have been productive dialogue instead becomes an [[Wikipedia:edit war|edit war]]. In these situations, it is better to discuss changes to article content on the [[Help:Talk page]]. In non-controversial cases, it is occasionally workable to negotiate changes using edit summaries, but it is still important to describe the edit in the summary.
+I
+
+==Shorthand==
+Sometimes it is acceptable to use an abbreviation in the edit summary to make known what you are doing. Some common examples follow:
+* <code>rv</code> - <code>revert to older version</code>
+* <code>rd</code> - <code>made redirect page</code>
+* <code>typo</code> - <code>revert</code>
+* <code>cat/re-cat</code> - <code>categorized</code>
+* <code>new</code> - <code>created new page</code>
+* <code>dab/disambig</code> - <code>disambiguated link/made disambiguation page</code>
+* <code>+</code> - <code>add</code> (''describe/summarize new material'')
+* <code>-/del/rm</code> - <code>delete</code> (''describe/summarize deleted material'')
+* <code>mv</code> - <code>moved page or section</code> (''give destination/source'')
+* <code>see talk</code> - <code>explanation on associated talk page</code> 
+* <code>wikify</code> - <code>added wiki markup/wikilinks to existing page</code>
+* <code>sp</code> - <code>spelling correction</code> (''helpful to note what was corrected'')
+
+[[Category:Help|Edit summary]]

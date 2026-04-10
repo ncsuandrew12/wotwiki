@@ -1,0 +1,24 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| affiliation=Darkfriend
+| nationality=Andoran
+| title=Lord
+| gender=Male
+| status=Alive
+| appeared={{tfoh|p}}
+| lastappeared={{loc|2}}
+| living=loc
+}}
+'''Elegar''' is minor Lord in [[Andor]] and a [[Darkfriend]] under [[Rahvin]]'s command. 
+
+== Appearance ==
+He is thin lipped and always nervous.
+
+== Activities ==
+He is commanded by Rahvin to take the [[Red Ajah]] [[Aes Sedai]] who is under Rahvin's compulsion, outside the royal palace.{{ref/book|5|p}}
+
+After Gaebril's demise he is one of the nobles who fawn over [[Rand al'Thor]].
+
+{{notes}}
+[[Category:Nobility]]

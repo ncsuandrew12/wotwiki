@@ -1,0 +1,66 @@
+[[File:Siuan.JPG|frame|Siuan Sanche as Amyrlin]]
+{{dablink|For other uses of the word "tower," see [[Tower]].}}
+Enough information has been given in the series to work out all but one of the members of the '''[[Hall of the Tower]] under [[Siuan Sanche]]''' just before the [[White Tower Schism]].
+
+==Members==
+{| class="wikitable"
+! [[Ajah]]
+! [[Sitter]]
+|- style="background:red"
+| rowspan=3 | [[Red Ajah]]
+| [[Teslyn Baradon]]
+|- style="background:red"
+| [[Pevara Tazanovni]]
+|- style="background:red"
+| [[Elaida do Avriny a'Roihan]]
+|- style="background:green"
+| rowspan=3 | [[Green Ajah]]
+| [[Talene Minly]]
+|- style="background:green"
+| [[Rubinde Acedone]]
+|- style="background:green"
+| [[Faiselle Darone]]
+|- style="background:gray"
+| rowspan="3" | [[Gray Ajah]]
+| [[Varilin Zanaire]]
+|- style="background:gray"
+| [[Yukiri Haruna]]
+|- style="background:gray"
+| [[Evanellein Lorn]]
+|- style="background:Peru"
+| rowspan="3" | [[Brown Ajah]]
+| [[Saerin Asnobar]]
+|- style="background:Peru"
+| [[Takima Deraighdin]]
+|- style="background:Peru"
+| [[Janya Frende]]
+|- style="background:yellow"
+| rowspan="3" | [[Yellow Ajah|<span style="color:black;">Yellow Ajah</span>]]
+| [[Magla Daronos|<span style="color:black;">Magla Daronos</span>]]
+|- style="background:yellow"
+| [[Doesine Alwain|<span style="color:black;">Doesine Alwain</span>]]
+|- style="background:yellow"
+| [[Sedore Dajenna|<span style="color:black;">Sedore Dajenna</span>]]
+|- style="background:white"
+| rowspan="3" | [[White Ajah|<span style="color:black;">White Ajah</span>]]
+| [[Saroiya Farseen|<span style="color:black;">Saroiya Farseen</span>]]
+|- style="background:white"
+| [[Seaine Herimon|<span style="color:black;">Seaine Herimon</span>]]
+|- style="background:white"
+| [[Velina Behar|<span style="color:black;">Velina Behar</span>]]
+|- style="background:blue"
+| rowspan="3" | [[Blue Ajah]]
+| [[Lelaine Akashi]]
+|- style="background:blue"
+| [[Lyrelle Arienwin]]
+|- style="background:blue"
+| Unknown (possibly [[Anlee]] or [[Eadyth]])
+|}
+
+==See also==
+*[[Hall of the Tower]]
+*[[Hall of the Tower during the White Tower Schism]]
+*[[Hall of the Tower under Egwene al'Vere]]
+[[Category:Aes Sedai]]
+[[Category:Sitters| Hall of the Tower under Siuan Sanche]]
+[[Category:Ruling bodies]]
