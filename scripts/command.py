@@ -127,8 +127,8 @@ class Progresser():
         return self.ticker.restart()
 
 def run_command(command):
-    log.info("{}".format(" ".join(command.mArgs)))
+    log.info("{}".format(" ".join(command.mArgs)), stacklevel=2)
     errorCode=command.run()
     if errorCode != 0:
-        log.error("{} command gave non-zero return code: {}".format(inspect.getfile(command.__class__), errorCode))
+        log.error("{} command gave non-zero return code: {}".format(inspect.getfile(command.__class__), errorCode), stacklevel=2)
     return errorCode
