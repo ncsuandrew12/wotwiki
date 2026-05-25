@@ -1,6 +1,0 @@
-== Summary ==
-{{Image
-| ImageType1              = misc
-| Description             = RJ's notes on New Spring Comic (1) and the specific features and dressing of the main characters. KoD name drop.
-}}
-[[Category:Robert Jordan emails]]

@@ -1,2 +1,0 @@
-'''Statistical analyses''' are breakdowns of the different points of view (POV's) in the books. Each of the books have two breakdowns; one breaks down the books chapter by chapter and the other breaks down the books by unique POV's. See each of the book's analysis page or the main analysis page for more information.
-[[Category:Series books| Statistical analysis]]

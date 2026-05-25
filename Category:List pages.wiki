@@ -1,1 +1,0 @@
-Pages that serve as lists for information by theme whose individual list entries may be too short to justify their own page. Also useful for displaying collected information at a glance.

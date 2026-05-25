@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = A ''[[to'raken]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Matt Wilson
-}}

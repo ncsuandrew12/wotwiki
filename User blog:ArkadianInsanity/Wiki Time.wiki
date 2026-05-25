@@ -1,2 +1,0 @@
-I'm trying to earn the "Two Weeks on the Wiki" badge, and I live in US Central Time. Sometimes, it accepts my edits and adds a day to the counter when I've spent more than 24 hours between edits, and sometimes when I've spent less, it resets. Does anyone know what time the wiki uses (in terms of UTC/Greenwich Mean Time would be helpful, as I have that clock on my computer)?
-[[Category:Blog posts]]

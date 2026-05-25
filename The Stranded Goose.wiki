@@ -1,8 +1,0 @@
-'''The Stranded Goose''' is an [[inn]] in the east side of [[Ebou Dar]]. It is a large, three story building.{{ref/book|7|23}}
-
-When [[Setalle Anan]] is taking [[Elayne Trakand]] and [[Nynaeve al'Meara]] to the [[Kin]], she stops at The Stranded Goose.{{ref/book|7|23}}
-
-{{notes}}
-{{short}}{{DEFAULTSORT:Stranded Goose, The}}
-[[Category:Altara]]
-[[Category:Inns]]

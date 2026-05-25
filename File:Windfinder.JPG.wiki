@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = A [[Windfinder]] apprentice.
-| Source             = "Pattern Weavers" in ''Dragon Magazine: Annual 6''.
-| Artist             = Scott Schomburg
-}}

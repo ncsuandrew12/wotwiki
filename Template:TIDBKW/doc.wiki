@@ -1,8 +1,0 @@
-==Purpose of template==
-
-
-==How to use==
-
-
-==Examples==
-{{TIDBKW|jordan}}

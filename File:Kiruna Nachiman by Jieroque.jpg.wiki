@@ -1,8 +1,0 @@
-{{Image
-| License                 = Public Domain Self 
-| ImageType1              = Character
-| ImageType2              = Fan Art
-| Description             = Fan Art of [[Kiruna Nachiman]] during the [[Battle of Dumai's Wells]].
-| Source                  = http://jieroque.blogspot.com/2013/06/bera-harkin-and-kiruna-nachiman.html
-| Artist                  = Benjamin Roque
-}}

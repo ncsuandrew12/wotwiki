@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Provisional cover for the Tor edition of ''[[The Gathering Storm]]''
-| Source                  = [http://www.dragonmount.com www.dragonmount.com]
-| Artist                  = Darrell Sweet
-}}

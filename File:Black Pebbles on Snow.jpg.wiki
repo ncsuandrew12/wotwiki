@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Miscellaneous
-| Description        = [[Lan]] having [[Sword forms#Black Pebbles on Snow|Black Pebbles on Snow]] used against him.
-| Source             = ''[[New Spring 6]]''
-| Artist             = Harvey Tolibao
-}}

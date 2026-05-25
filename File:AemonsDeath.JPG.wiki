@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Fan Art
-|License     = GFDL
-| ImageType2 = Character
-|Source      = https://www.facebook.com/photo.php?fbid=2070422713177417&id=1453555618197466&set=a.1455005591385802
-|Description = [[Aemon al Caar al Thorin]] fan art.
-|Artist      = Ariel Burgess
-}}

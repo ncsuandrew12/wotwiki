@@ -1,7 +1,0 @@
-dev:DiscordIntegrator/code.js
-dev:AjaxRC.js
-dev:AllPagesHideRedirect/code.js
-dev:Standard Edit Summary/code.js
-dev:CategorySorter.js
-dev:InputUsername/code.js
-dev:LinkPreview/code.js

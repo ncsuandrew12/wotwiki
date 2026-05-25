@@ -1,8 +1,0 @@
-{{swordform
-| mentioned={{12|24}}
-| used=[[Gawyn Trakand]]
-}}
-'''Oak Shakes Its Branches''' is a [[sword form]], often used by masters when training students. It deals non-lethal blows and is also very effective against large groups of opponents who are using different types of weapons. [[Gawyn Trakand]] used this form as he was challenged by [[Gareth Bryne]]'s soldiers when they would not let him enter the [[rebel Aes Sedai]] camp.{{ref/book|12|24}}
-
-{{notes}}
-{{short}}

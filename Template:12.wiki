@@ -1,4 +1,0 @@
-''[[The Gathering Storm]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|i|intro=[[The Gathering Storm|Intro]]|p|pr|prologue=[[The Gathering Storm/Prologue|Prologue]]|e|ep|epilogue=[[The Gathering Storm/Epilogue|Epilogue]]|g|glossary=[[The Gathering Storm/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[The Gathering Storm/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
-{{Documentation}}
-[[Category:Book templates|Gathering Storm]]
-</noinclude>

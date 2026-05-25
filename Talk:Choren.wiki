@@ -1,4 +1,0 @@
-==Date Correction==
-Does anyone want to look over the Farede-Gregorian correspondence? It seems that the second half of the Farede is listed as coming a day later than the first half in terms of the real-life calendar. I'm just wondering which side is correct before I start changing the wrong pages. [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]] 22:49, December 28, 2009 (UTC)
-:Someone missed [[Sunday]] but I went through and fixed it.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 07:15, December 29, 2009 (UTC)
-::Oh, I see. I didn't realize that Sunday was its own separate day. [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]][[User_talk:Rahien|<font color="#FFB90F">'''☯'''</font>]]

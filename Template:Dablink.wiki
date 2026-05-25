@@ -1,6 +1,0 @@
-<includeonly><div class="dablink">
-:''{{{1}}}''
-</div></includeonly><noinclude>
-{{Documentation}}
-[[Category:Linking templates|{{PAGENAME}}]]
-[[Category:Disambiguation| {{PAGENAME}}| ]]</noinclude>

@@ -1,2 +1,0 @@
-<includeonly>{{ref|text={{cite/youtube|v={{{v|}}}|title={{{title|{{{v|}}}}}}|accessdate={{{accessdate|}}}|channel={{{channel|}}}|channel-link={{{channel-link|}}}}}|name={{{name|{{{title|{{{v|}}}}}}}}}}}</includeonly><noinclude>{{Documentation|:Template:ref/doc}}
-[[Category:Templates]]</noinclude>

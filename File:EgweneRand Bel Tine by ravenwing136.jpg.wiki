@@ -1,8 +1,0 @@
-{{Image 
-| License = GFDL
-| ImageType1 = Fan Art
-| ImageType2 = Character
-| Description = [[Egwene]] and [[Rand]] at [[Bel Tine]] in [[Emond's Field]]; fan art done by ravenwing136 on DeviantArt
-| Source = http://fav.me/d1b4i86
-| Artist = Ravenwing136
-}}

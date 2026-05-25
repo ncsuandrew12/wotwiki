@@ -1,9 +1,0 @@
-{{swordform 
-| mentioned={{4|2}}
-| used=[[Rand al'Thor]], [[Gawyn Trakand]]
-}}
-{{dablink|For other uses of the word "wind," see [[Wind]].}}
-'''Apple Blossoms in the Wind''' is a [[sword form]]. It is meant to be used against multiple opponents. It uses three quick strikes to push opponents back.{{ref/book|4|2}}{{ref/book|12|13}}
-
-{{notes}}
-{{short}}

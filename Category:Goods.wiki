@@ -1,2 +1,0 @@
-'''Goods''' are products, wares, and foodstuffs that require relatively little skill in creation. <!--Compare with [[:Category:Some sort of handicrafts category]]? -->
-[[Category:Items| Goods]]

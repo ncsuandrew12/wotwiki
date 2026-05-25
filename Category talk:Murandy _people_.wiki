@@ -1,1 +1,0 @@
-The noble names need to be default sorted to ignore the a' prefix so that they are not all automatically sorted under "A". [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 14:41, 28 June 2021 (UTC)

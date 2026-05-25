@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/adammasterman/art/Wise-One-700876742
-|Description = Fan art of [[Sorilea]].
-|Artist      = Adam Masterman
-}}

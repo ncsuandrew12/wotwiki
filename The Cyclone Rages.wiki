@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{13|37}}
-| used=[[Gawyn Trakand]]
-}}
-'''The Cyclone Rages''' is a [[sword form]]. Other than the name, nothing is known about it. [[Gawyn Trakand]] used this form to defend his vital areas while fighting three [[Seanchan]] [[Bloodknives]] in the [[White Tower]].{{ref/book|13|37}}
-
-{{notes}}
-{{short}}
-{{DEFAULTSORT:Cyclone Rages, The}}

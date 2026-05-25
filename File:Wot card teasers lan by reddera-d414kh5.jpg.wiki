@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = 
-|Source      = https://dragonmount.com/gallery/album/128-wheel-of-time-card-deck/
-|Description = [[Lan Mandragoran]] art. Black and white version used in ''[[The Wheel of Time Companion]]''.
-|Artist      = Ariel Burgess
-}}

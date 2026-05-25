@@ -1,9 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Fan Art
-| ImageType2              = Character
-| ImageType3              =
-| Description             = An [[Eelfinn]]
-| Source                  = [http://dmantz.deviantart.com/gallery/#/d35o6m4 DeviantArt]
-| Artist                  = Daniel Mantz
-}}

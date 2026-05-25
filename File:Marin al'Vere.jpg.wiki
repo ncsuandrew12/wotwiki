@@ -1,8 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Fan Art
-| ImageType2              = Character
-| Description             = Concept art for [[Marin al'Vere]].
-| Source                  = [http://saintchase.deviantart.com/art/WheelOfTime-Character-Design-2-140797490 deviantART].
-| Artist                  = Chase Conley
-}}

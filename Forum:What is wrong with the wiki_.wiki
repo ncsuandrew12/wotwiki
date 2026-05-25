@@ -1,7 +1,0 @@
-{{Forumheader|Illuminator's Guild}}
-
-<!-- Please put your content under this paragraph.  Be sure to sign your edits with four tildes: ~~~~ -->
-
-I've tried the site from Firefox and Safari on a Mac and Chrome on an IBM, and on each, the HTML doesn't load properly. Instead of the normal, horrible-to-look-at black background, the page is white and skeletal. No other site I've tried has had this problem, including the Wikia wiki I used as a test (NCIS). Is this just part of some routine maintenance or is something broken? -[[User:Rrius|Rrius]] 03:49, March 31, 2011 (UTC)
-:I'm not seeing the problem on either Firefox or IE. Could you upload a screenshot? I could then forward that to the central wikia to see if others are having this problem. ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 05:50, March 31, 2011 (UTC)
-::It's fine now, so it must have been an overnight maintenance issue. -[[User:Rrius|Rrius]] 02:56, April 1, 2011 (UTC)

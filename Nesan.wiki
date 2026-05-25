@@ -1,8 +1,0 @@
-{| align="right"
-|{{Wotmonth|Nesan}}
-|}
-'''Nesan''' is the twelfth month in the [[Farede calendar]]. In most years, it is equivalent to the real world period from [[October]] [[October 27|27]] to [[November]] [[November 23|23]].  [[Danshu]] occurs on the 28th.
-
-{{farede}}
-{{Short}}
-[[Category:Calendars]]

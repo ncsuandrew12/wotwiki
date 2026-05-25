@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Video Game Screenshots
-| Description        = A map of the [[Westlands]].
-| Source             = ''[[The Wheel of Time (video game)|The Wheel of Time]]''
-}}
-[[Category:Maps]]

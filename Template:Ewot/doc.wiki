@@ -1,9 +1,0 @@
-==Purpose of template==
-Create a box linking to an EWoT page.
-
-==How to use==
-<pre>{{ewot|[non-domain-part-of-url]|[link display text]}}</pre>
-
-==Examples==
-<pre>{{ewot|prophecies/viewings.html|Prophetic Viewings}}</pre>
-{{ewot|prophecies/viewings.html|Prophetic Viewings}}

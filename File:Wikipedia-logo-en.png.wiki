@@ -1,7 +1,0 @@
-{{Image
-| License                 = Creative Commons
-| ImageType1              = Admin
-| ImageType2              = Logo
-| Description             = Wikipedia logo
-| Source                  = http://en.wikipedia.org
-}}

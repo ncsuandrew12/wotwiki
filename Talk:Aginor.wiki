@@ -1,6 +1,0 @@
-== Article name ==
-Current thinking on [[Help:Style_Guide#People]] is that the Chosen names should be used for the article title rather than the given+honorific AoL names (note for instance [[Rahvin]])
-... so unless you'd like to comment further this should be moved to [[Aginor]]
-:Ok, but that kind of ruins the spoiler protection, since someone clicking on the Talk page for Corlan Dashiva is now taken directly to the Talk page for Aginor... [[User:Rccarman|Rccarman]] 20:24, 2 May 2006 (UTC)
-
-I disagree with this and will trying to add some information from Dashiva and will edit some of that to behind the spoiler page. It makes no sense to have a page for Dashiva and have it blank. [[User:Syberexile|Syberexile]]

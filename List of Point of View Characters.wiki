@@ -1,6 +1,0 @@
-All characters who have a point of view scene in the series. There are {{#invoke:Povs|get_number_of_povs}} points of view{{ref|Multiple points of view by a given character in the same chapter are counted as 1 point of view.}} by {{#invoke:Povs|get_number_of_pov_characters}} characters on [[Module:Povs/povs.json|this list]].
-
-{{#invoke:Povs|render_all_povs}}
-{{notes}}
-[[Category:POV character| List of POV characters]]
-[[Category:List pages]]

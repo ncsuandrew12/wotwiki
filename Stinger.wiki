@@ -1,2 +1,0 @@
-{{Creature|name = Stinger|animal = Horse|lastmentioned = AMOL|lastappeared = AMOL|owner = Silviana Brehon|image = 77BDE317-DEAE-4387-9504-717B098E544F.jpeg}}'''Stinger''' is ridden by [[Silviana Brehon]].
-[[Category:Horses]]

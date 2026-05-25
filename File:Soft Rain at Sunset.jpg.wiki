@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Miscellaneous
-| Description        = [[Lan]] performing [[Sword forms#Soft Rain at Sunset|Soft Rain at Sunset]].
-| Source             = ''[[New Spring 6]]''
-| Artist             = Harvey Tolibao
-}}

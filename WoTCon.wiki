@@ -1,7 +1,0 @@
-'''WoTCon ''' is a Wheel of Time Convention that takes place annually in Columbus, Ohio. It was founded in 2022.
-
-==External Links==
-* [https://wotcon.com/ WoTCon Website]
-
-{{stub}}
-[[Category:Conventions]]

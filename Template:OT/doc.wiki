@@ -1,6 +1,0 @@
-==Purpose of template==
-
-
-==How to use==
-<pre>{{OT|dai}}</pre>
-{{OT|dai}}

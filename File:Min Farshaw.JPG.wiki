@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character
-| Description             = [[Min Farshaw]]
-| Source                  = The ebook cover of ''[[Knife of Dreams]]''
-| Artist                  = Michael Komarck
-}}

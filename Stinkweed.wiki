@@ -1,5 +1,0 @@
-'''Stinkweed''' is a plant that produced a rank smell when crushed.{{ref/book|1|5}}
-
-{{notes}}
-{{short}}
-[[Category:Plants]]

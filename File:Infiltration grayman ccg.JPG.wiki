@@ -1,8 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character image
-| ImageType2         = CCG
-| Description        = A [[Gray Man]] assassin passing an [[Aiel]] guard unnoticed (Card called "Infiltration")
-| Source             = The "Premier" deck of ''[[The Wheel of Time Collectible Card Game]]''.
-| Artist             = Tony Moseley
-}}

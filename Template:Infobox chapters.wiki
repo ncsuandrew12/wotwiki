@@ -1,1 +1,0 @@
-<noinclude>{{delete|Unused except by templates that are themselves unused. Replaced by Module:Books functionality}}</noinclude>

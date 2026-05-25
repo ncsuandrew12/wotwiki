@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = [[Thomdril Merrilin]]
-| Source             = [http://darlinginc.deviantart.com/art/The-Wheel-of-Time-Thom-206539693 Deviant Art]
-| Artist             = Ben Darling
-}}

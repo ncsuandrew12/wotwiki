@@ -1,2 +1,0 @@
-These templates are used for linking to other fansites, Wikipedia, or are used as an easier way to link to other articles on this wiki.
-[[Category:Templates| Linking templates]]

@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Character
-| Description        = [[Chesmal Emry]].
-| Source             = ''[[New Spring 6]]''
-| Artist             = Harvey Tolibao
-}}

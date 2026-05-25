@@ -1,3 +1,0 @@
-==Gherald==
-Okay, I give up, I can't figure out how to edit this to make it show the header all the time, like {{tl|infobox chapters}} does now. Do you understand what you copied over from SW?
-:I don't think such a change would be useful, but yeah I understand how to do it.  The header consists of an image and a name below it.  Hiding the image but keeping the name would require moving the name out of the div it's in, plus a new div to encapsulate what's below it, with a different id and corresponding javascript.  It could also be done with a class instead of 2 ids, though not as simply. --[[User:Gherald|Gherald]] 01:31, 31 October 2006 (UTC)

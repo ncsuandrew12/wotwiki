@@ -1,4 +1,0 @@
-<includeonly>{{#if:{{{number|{{{2}}}}}}|{{A|pov-{{{character|{{{1|}}}}}}-{{{number|{{{2|}}}}}}}}}}
-===Point of view: ''{{#ifeq:{{#sub:{{{character|{{{1|}}}}}}|0|1}}|&#91;|{{{character|{{{1|}}}}}}|[[:Category:{{{character|{{{1|}}}}}} points of view|{{{character|{{{1|}}}}}}]]}}''===
-{{#ifeq:{{#sub:{{{character|{{{1|}}}}}}|0|1}}|&#91;|[[Category:Uncategorized points of view]]|[[Category:{{{character|{{{1|}}}}}} points of view]]}}</includeonly><noinclude>{{Documentation}}
-[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

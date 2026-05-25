@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = 
-|Source      = https://www.artistarielburgess.com/wheel-of-time
-|Description = [[Perrin Aybara]] art. Black and white version used in ''[[The Wheel of Time Companion]]''.
-|Artist      = Ariel Burgess
-}}

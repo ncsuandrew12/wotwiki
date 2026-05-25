@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = [[Rand al'Thor]].
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''.
-| Artist             = Christopher Moeller
-}}

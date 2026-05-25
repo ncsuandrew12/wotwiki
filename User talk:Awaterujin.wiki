@@ -1,8 +1,0 @@
-==copying==
-Unless noted otherwise on the page, everything on this site is licensed under the free [[Wikipedia:GFDL|GFDL]].  Many of our templates were adapted from [http://en.wikipedia.org Wikipedia] or other [http://www.wikia.com Wikia], which use this same license.  If you use the GFDL on your own wiki (recommended), you can pretty much copy anything you want without asking permission (though we'd certainly give it, anyway).  In order to fully comply with the GFDL which requires giving credit to all authors, you may want to link back to the external wiki page you copied, from inside the Edit summary of your initial import or <code><nowiki><!-- inline comments like this --></nowiki></code>.  Alternatively, we currently use either [[Template:enWP]] or [[Template:enWPcontent]] for full article pages taken from Wikipedia.  --[[User:Gherald|Gherald]] 13:34, 19 May 2006 (UTC)
-
-== What book ==
-
-What series are you/did you make a wikia for? [[User:71.236.79.160|71.236.79.160]] 22:45, 22 September 2006 (UTC)
-: He didn't. I guess he's not active anymore, at least not with this account.  He only made 2 edits on this wiki and none on any others AFAICT. --[[User:Gherald|Gherald]] 22:57, 22 September 2006 (UTC)
-It's for the Shannara series by Terry Brooks. I downloaded the [http://www.mediawiki.org mediawiki] package and installed it on my server. It's still being developed, and basic info being added to it, so it's only on my internal network right now. Sorry for the long delay in reply, just got around to checking my email O.O [[User:Awaterujin|Awaterujin]] 17:04, 24 September 2006 (UTC)

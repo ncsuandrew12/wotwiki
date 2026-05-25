@@ -1,6 +1,0 @@
-So, after seeing [[User:Mariecurie7]]'s work on mirror/archiving the blog posts (which is great work btw), I thought ''hmmm, surely this shouldnt be 'polluting' the main namespace, since its not 'in-universe'.'' So I was thinking they should be moved to a different namespace (a word before a `:` in a page title), and maybe gain a better naming scheme. After checking the '''Blog:''' namespace, and finding it particularly useless for such a task, I converged on the thought that '''RJ:''' would work best (though other suggestions are welcome), and that the name of each page in this 'namespace' (which isnt technically a namespace, unless the admins can add custom ones?) would be EITHER (as in TBD) the full title, or the publication date.
-
-And on the same vein, the Question/Answer pages (eg [[Source:Amazon.com Interview, 2002|Amazon.com_Interview_2002]], formatted correctly :D ) should all be moved to a 'namespace' like '''QA:''' and named in a more standardized way (have no idea what though).
-
-Joe
-[[Category:Blog posts]]

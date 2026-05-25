@@ -1,8 +1,0 @@
-== Summary ==
-{{Image
-| License                 = Fairuse 
-| ImageType1          = Map
-| Description          = Black and white map of the Westlands.
-| Source                  = The Wheel of Time Companion (2015)
-| Artist                     =
-}}

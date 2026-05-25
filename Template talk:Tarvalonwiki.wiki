@@ -1,2 +1,0 @@
-Tests:
-*{{tarvalonwiki|{{bt underscored|1}}:_Chapter_22}}

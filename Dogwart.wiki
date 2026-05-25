@@ -1,5 +1,0 @@
-'''Dogwort''' is an [[herbs|herb]] that can be found in the [[Two Rivers]] region and is used to aid kitting flesh from a wound.{{ref/book|3|38}}
-
-{{notes}}
-{{short}}
-[[Category:Herbs and Medicines]]

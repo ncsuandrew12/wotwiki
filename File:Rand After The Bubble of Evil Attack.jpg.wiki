@@ -1,9 +1,0 @@
-{{Image
-| License                 = fairuse
-| ImageType1              = Fan Art
-| ImageType2              = Character
-| Description             = [[Rand al'Thor]] holding ''[[Callandor]]'' after being attacked by a [[bubble of evil]].
-| Source                  = [http://kittehness.deviantart.com/art/reflections-41731310]
-| Artist                  = Kat Hallberg
-}}
-[[Category:Featured images]]

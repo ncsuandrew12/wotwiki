@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Fan Art
-|License     = GFDL
-| ImageType2 = Character
-|Source      = https://the-wheel-of-art.tumblr.com/post/120464485082/work-from-the-2014-official-wheel-of-time-calendar
-|Description = [[Rand al'Thor]] fan art.
-|Artist      = Ariel Burgess
-}}

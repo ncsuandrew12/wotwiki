@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Cover for ''Książę kruków'' the [[Wheel of Time translations|Polish version]] of the second part of [[Knife of Dreams]]; (Polish Volume 19)
-| Source                  = [http://ksiazki.polter.pl/Ksiaze-krukow-n13911 ksiazki.polter.pl]
-| Artist                  = 
-}}

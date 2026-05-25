@@ -1,6 +1,0 @@
-{{Image
-| License                 = Creative Commons
-| ImageType1              = Miscellaneous
-| Description             = Saint Peter's Square, Rome
-| Source                  = http://commons.wikimedia.org/wiki/File:Place-Saint-Pierre-foule.jpg
-}}

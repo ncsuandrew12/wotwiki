@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Character
-| Description        = [[Sheriam Bayanar]].
-| Source             = ''[[New Spring 3]]''
-| Artist             = Mike S. Miller
-}}

@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Miscellaneous
-| Description        = ''[[Tel'aran'rhiod]]''.
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Rebecca Guay
-}}

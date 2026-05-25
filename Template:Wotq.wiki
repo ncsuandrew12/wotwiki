@@ -1,6 +1,0 @@
-<includeonly>{{#invoke:WotQ|random_wot_quote}}</includeonly><noinclude>
-{{documentation}}
-[[Category:Quotelist templates]]
-[[Category:Quotation templates]]
-[[Category:Templates]]
-</noinclude>

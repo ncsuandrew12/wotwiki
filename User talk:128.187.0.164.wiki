@@ -1,9 +1,0 @@
-Hi, welcome to A Wheel of Time Wiki. Thanks for your edit to the [[:Manel Rochaid]] page.
-
-'''[[Special:Userlogin|Please sign in and create a user name]]'''. It's an easy way to keep track of your contributions and helps you communicate with the rest of the community.
-
-Please leave a message on [[User talk:Gherald|my talk page]] if I can help with anything! -- [[User:Gherald|Gherald]] ([[User_talk:Gherald|Talk]]) 22:03, September 1, 2009
-
-== Pipped links and italics ==
-
-There is no need to put the italics formatting in pipped links. For example, use <nowiki>''[[Rand al'Thor]]'' instead of [[Rand al'Thor|''Rand al'Thor'']]</nowiki>. This will cut down on the keystrokes needed. Thanks!!!! -----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 23:58, November 19, 2009 (UTC)

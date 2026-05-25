@@ -1,9 +1,0 @@
-{{swordform
-| mentioned={{7|p}}
-| used=[[Gawyn Trakand]]
-}}
-'''The Falcon Stoops''' is a [[sword form]]. Other than the name, nothing is known about it. [[Gawyn Trakand]] used this form, as well as [[The Creeper Embraces the Oak]] and [[The Moon Rises Over the Lakes]], when he fought [[Aiel]] after the [[Battle of Dumai's Wells]].{{ref/book|7|p}}
-
-{{notes}}
-{{short}}
-{{DEFAULTSORT:Falcon Stoops, The}}

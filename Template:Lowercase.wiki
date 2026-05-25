@@ -1,5 +1,0 @@
-{{DISPLAYTITLE:{{#if:{{NAMESPACE}}|{{NAMESPACE}}:|}}{{lcfirst:{{PAGENAME}}}}}} 
-<noinclude>
-Use this template on pages where the first character of the page name is supposed to be lowercase.
-[[Category:Utility templates|{{PAGENAME}}]]
-</noinclude>

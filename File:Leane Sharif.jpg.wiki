@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Character
-| Description        = [[Leane Sharif]].
-| Source             = ''[[New Spring 4]]''
-| Artist             = Mike S. Miller
-}}

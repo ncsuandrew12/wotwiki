@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = A [[Corlm]] and its nest.
-| Source             = ''[[The Wheel of Time Roleplaying Game]]''
-| Artist             = Adam Rex
-}}

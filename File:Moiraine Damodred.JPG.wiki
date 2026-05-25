@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = [[Moiraine Damodred]].
-| Source             = The cover for the ebook of ''[[The Fires of Heaven]]''.
-| Artist             = Dan Dos Santos
-}}

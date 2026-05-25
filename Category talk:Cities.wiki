@@ -1,9 +1,0 @@
-==Cities with nation names==
-There are a few links to [[Cairhien (city)]], [[Tear (city)]], etc.  Any good reason why we need this?  I think [[Cairhien#city]] and [[Tear#city]] (that is to say, sections of the nation articles) should be more than sufficient. --[[User:Gherald|Gherald]] 02:51, 17 September 2006 (UTC)
-
-:Works for me... -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 05:05, 18 September 2006 (UTC)
-
-Oh and I suppose the articles should be categorized under here as well as Nations.  -[[User:Gherald|Gherald]] 01:38, 22 September 2006 (UTC)
-
-==Confusing subcategories==
-The current subcategorization confuse me.  Cities is under Places.  Independent cities is under both Cities and Places.  Rhuidean is in Independent cities, but not Cities. But the category of Shadar Logoth (a category for a city? hmm..) is under both.  The article of Shadar Logoth is only under Cities (and of course itself).  And Caemlyn is under both Capitals and Cities. Argh! --[[User:Gherald|Gherald]] 01:38, 22 September 2006 (UTC)

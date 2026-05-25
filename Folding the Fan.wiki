@@ -1,9 +1,0 @@
-{{swordform 
-| mentioned={{3|36}}
-| used=[[Rand al'Thor]]
-}}
-{{for|other similarly named sword forms|Folding the Air|Unfolding the Fan}}
-'''Folding the Fan''' is a [[sword form]] used to sheathe a swordsman's weapon. It is typically used at the end of another form. After killing an unnamed woman and her companions in the [[Murandy|Murandian]] hills, [[Rand al'Thor]] started to sheathe his blade woven from ''[[saidin]]'' with Folding the Fan, forgetting he had neither scabbard nor steel.{{ref/book|3|36}}
-
-{{notes}}
-{{short}}

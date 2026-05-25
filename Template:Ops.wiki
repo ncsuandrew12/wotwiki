@@ -1,2 +1,0 @@
-<includeonly>{{#ifexpr:{{{power|{{{1|}}}}}}<7|<nowiki />++{{{power|{{{1|}}}}}}|{{#ifexpr:{{{power|{{{1|}}}}}}<19|{{#expr:{{{power|{{{1|}}}}}}-6}}(+{{#expr:19-{{{power|{{{1|}}}}}}}})|{{#ifexpr:{{{power|{{{1|}}}}}}<79|{{#expr:{{{power|{{{1|}}}}}}-6}}({{#expr:{{{power|{{{1|}}}}}}-18}})|{{err|Invalid power level: {{{power|{{{1|}}}}}}}}}}}}}}</includeonly><noinclude>{{Documentation}}
-[[Category:Templates]]</noinclude>

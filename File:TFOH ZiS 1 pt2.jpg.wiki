@@ -1,7 +1,0 @@
-{{Image
-| License                 = Fairuse
-| ImageType1              = Cover Art
-| Description             = Cover for ''Spustoszone ziemie'' the [[Wheel of Time translations|Polish version]] of the second part of [[The Fires of Heaven]]; (Polish Volume 9)
-| Source                  = [http://ksiazki.polter.pl/Spustoszone-ziemie-n4421 ksiazki.polter.pl]
-| Artist                  = 
-}}

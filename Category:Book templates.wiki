@@ -1,4 +1,0 @@
-These templates allow for quick referencing of book chapters within articles or on discussion pages.
-
-Use '''<tt><nowiki>{{tgh|12}}</nowiki></tt>''', for example, to link to {{tgh|12}}. Or, use '''<tt><nowiki>{{2|12}}</nowiki></tt>''' to link to {{2|12}}. See each template for additional parameters.
-[[Category:Templates| Book templates]]

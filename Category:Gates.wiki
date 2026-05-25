@@ -1,3 +1,0 @@
-'''Gates''' are breaks in a city or town's walls. They allow the settlement to be secure while still permitting visitors and inhabitants. Gates are often named for the place to which the road leads.
-
-[[Category:Geographical features| Gates]]

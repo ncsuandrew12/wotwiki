@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1          = Miscellaneous
-| Description        = The village of [[Manala]].
-| Source             = ''[[New Spring 7]]''
-| Artist             = Harvey Tolibao
-}}

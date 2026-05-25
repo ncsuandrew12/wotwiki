@@ -1,2 +1,0 @@
-<onlyinclude>{{#invoke:documentation|main|ignoreCurrentLang=true|_content={{ {{#invoke:documentation|contentTitle}}}}}}[[Category:Template documentation|{{PAGENAME}}]]</onlyinclude><noinclude>
-[[Category:Templates|{{PAGENAME}}]]</noinclude>

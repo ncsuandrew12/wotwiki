@@ -1,9 +1,0 @@
-<small><div style="float:right;">[[User:Aristoc/projects|(edit list)]]</div></small>
-
-* Looking for anything I can add to [[Special:Random|any old page]]
-* Add [[Template:Notes|references/notes]] to [[Special:Random|any old page]], if possible
-* Categorise any [[Special:Uncategorizedpages|uncategorised pages]]
-* Create/expand the [[:Category:Chapter summaries|chapter summaries]]
-* Adding [[:Category:Chapter art|chapter icon images]] to appropriate articles
-* Wikify [[1000 NE]]
-* Maybe extend the navigation box for primary protagonists to cover other categories? ([[Talk:Aristoc/Primary Protagonists|Comments?]])

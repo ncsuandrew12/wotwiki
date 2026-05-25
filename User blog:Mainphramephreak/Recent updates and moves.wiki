@@ -1,4 +1,0 @@
-Hello all! You may have noticed that we've added a new namespace to the wiki. "Sources" will be a place where we have all of the [[:Category:Interaction with Fans|interactions]] between the authors and the fans as well as blog posts from the authors and reports from fans. This new namespace will let us keep these articles separate from the main namespace. This will also let us host content that we couldn't otherwise have because of copyrights. As such, forthcoming policy will detail what can be posted in the namespace and how those pages can be edited. 
-
-As always, any suggestions will be appreciated! ---- {{User:Mainphramephreak/Sig/Subst}} 09:46, October 18, 2012 (UTC)
-[[Category:Blog posts]]

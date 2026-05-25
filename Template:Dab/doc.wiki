@@ -1,8 +1,0 @@
-==Purpose of template==
-This template is placed at the bottom of [[:Category:Disambiguation|disambiguation]] pages. It also automatically adds the disambiguation category to those page.
-
-==How to use==
-This:
-<pre>{{dab}}</pre>
-Produces this:
-{{dab}}

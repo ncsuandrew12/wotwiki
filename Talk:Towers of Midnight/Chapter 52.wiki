@@ -1,2 +1,0 @@
-The emphasis markdown wasn’t showing correctly in mobile view but when I fixed it up it isn’t working properly in full site view now. I think it’s because of the block quote. Hopefully someone more familiar with this wiki layout can fix it better.
-[[User:MarkGrant92|MarkGrant92]] ([[User talk:MarkGrant92|talk]]) 15:58, July 18, 2020 (UTC)

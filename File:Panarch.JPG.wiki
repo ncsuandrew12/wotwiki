@@ -1,7 +1,0 @@
-{{Image
-| License            = Fairuse
-| ImageType1         = Character
-| Description        = A dying [[Panarch]].
-| Source             = ''[[The Prophecies of the Dragon]]''
-| Artist             = Adi Granov
-}}

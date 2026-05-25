@@ -1,6 +1,0 @@
-'''Arrays''' is a game wealthy women play using playing cards.
-
-The game is played by laying down cards in descending order to form a specific pattern. Only certain suits can be lain upon certain other suits. One possible pattern is (in order) the Ruler of Cups, the Lord of Winds, the Ruler of Flames, the Lady of Rods, the Five of Coins, and the Four of Cups. It is uncertain whether this is a complete set, as no other cards were mentioned with regard to it, but [[Aes Sedai]] [[Siuan Sanche]] (of the [[Blue Ajah]]) told Aes Sedai [[Cetalia Delarme]] (also of the Blue Ajah) that she thought it was a winning game; however, being a fisherman's daughter (and therefore having never been wealthy enough to afford playing cards), Siuan had only ever read of the game.{{ref/book|0|12}}
-
-{{notes}}
-[[Category:Games]]

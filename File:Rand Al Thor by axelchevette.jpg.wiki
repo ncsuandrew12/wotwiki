@@ -1,8 +1,0 @@
-{{Image
-|ImageType1  = Character
-|License     = GFDL
-| ImageType2 = Fan Art
-|Source      = https://www.deviantart.com/axelchevette/art/Rand-Al-Thor-101512049
-|Description = Fan art of [[Rand al'Thor]].
-|Artist      = axelchevette
-}}

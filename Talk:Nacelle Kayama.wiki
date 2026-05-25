@@ -1,7 +1,0 @@
-==Surname==
-Her surname is actually Kayama,{{ref/book|12|39}} but I'm not sure if I'm able to change it ;)
-<br />[[User:Daea|Daea]] 16:39, January 7, 2011 (UTC)
-
-:Yup. In the future, you can use the "Move" function and enter in why you are moving a page. Should be in the dropdown button. Then, make sure to add the redirect pages to the appropriate category. Let me know if you have any questions. Thanks for spotting this, by the way! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:22, January 7, 2011 (UTC)
-
-{{notes}}

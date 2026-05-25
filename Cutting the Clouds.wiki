@@ -1,9 +1,0 @@
-{{swordform 
-| mentioned={{0|16}}
-| used=[[Lan Mandragoran]]
-}}
-'''Cutting the Clouds''' is a [[sword form]]. The movements associated with this form are unknown. [[Lan Mandragoran]] once used this form to cut off an assassin's hand in [[Canluum]].{{ref/book|0|16}} There may be a very tenuous allusion to "Wave Hands Like Clouds" from [[Wikipedia:Tai Chi|Tai Chi]].
-[[File:Cutting the Clouds.jpg|thumb|150px|left|Lan performing '''Cutting the Clouds'''.]]
-
-{{notes}}
-{{short}}

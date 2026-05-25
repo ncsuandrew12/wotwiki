@@ -1,5 +1,0 @@
-This is the top-level category for '''A ''Wheel of Time'' Wiki'''. All other categories should be sub-categorized here, either in the in-universe section or the real-world section. All content from the books (e.g. characters, countries, etc.) should be in the '''In-universe''' sub-category. All content from outside the books (e.g. authors, the books themselves, etc.) should be in the '''Real-world''' sub-category. No other page, except for the [[A beginning|main page]], should be categorized here.
-
-'''NOTE''': This category is the top-level category and, as such, should not be categorized into any other category. This should be the only category listed on the [[Special:UncategorizedCategories|Uncategorized Categories Special Page]].
-
-{{DISPLAYTITLE|''The Wheel of Time''}}

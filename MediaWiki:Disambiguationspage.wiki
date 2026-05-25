@@ -1,3 +1,0 @@
-This page is used by the software to know which pages are designated as disambiguation pages. The list here is used by [[Special:Disambiguations]] to show any pages linking directly to disambiguation pages. In general, links should go directly to the intended page and not to a disambiguation page.
-
-{{[[Template:Dab]]}}

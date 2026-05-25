@@ -1,8 +1,0 @@
-{{proposed}}
-
-'''Shortcuts''' are quick links (usually abbreviations or acronyms) to [[project:About|project]] namespace pages, such as the GNU license or the [[Help:Style Guide|Style Guide]]. They can be entered in the search box and by clicking '''Go''', you'll end up at that page very quickly.
-
-===Usage===
-<code><nowiki>{{shortcut|abbr}}</nowiki></code>
-
-The shortcut itself should probably be in all capitals; remember to actually create the [[Help:Redirects|redirect]] as well, or the shortcut will not do any good!

@@ -1,9 +1,0 @@
-Looking at the table I have two observations:
-
-1.)  The columns would do remarkably better with titles to give us a clue as to what we are looking at.
-
-2.)  Point #1 is made because, when present, the contents of column 4 seems to be abbreviations for a book title, but that simply cannot be since most events are either blank or labeled with TGH.  Blank is okay, but TGH is added to many entries that  obviously do not occur until several books later, such as Mat's first meeting up with Olver.  So, either we fix this column, get it appropriately labeled (because there is nothing to fix--I simply do not understand what is going on here), or barring either of these solutions, I recommend removing it since it is grossly inaccurate at this point, as far as I can tell.
-[[User:Pedantic|Pedantic]] 18:00, 12 May 2008 (UTC)
-
-{{quote|partially converted, need to correct chapter links|--[[User:Gherald|Gherald]] edit summary, August 2006}}
-: Tee-hee, well I changed the ones that were still to the wrong book (had substituted with regular expressions for formatting purposes).  The interspersed chapter references to events described in different books and to the prologues still need to be linked properly... --[[User:Gherald|Gherald]] 02:11, 13 May 2008 (UTC)

@@ -1,9 +1,0 @@
-== Summary ==
-{{Image
-| License                 = Fairuse
-| ImageType1              = Character
-| ImageType2              = Fan art
-| Description             = [[Siuan Sanche]]
-| Source                  =[https://www.deviantart.com/kaligodark/art/Siuan-Sanche-650886453 DeviantArt]
-| Artist                  = KaligoDark
-}}

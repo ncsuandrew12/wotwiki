@@ -1,6 +1,0 @@
-{{Image
-| License            = Creative Commons
-| ImageType1          = Logo
-| Description        = The calendar logo remade blown up
-| Source             = {{User|Optimous}}
-}}

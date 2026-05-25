@@ -1,5 +1,0 @@
-{{Image
-| License                 = Public Domain Self
-| ImageType1              = Logo
-| Description             = Maybe new logo
-}}
