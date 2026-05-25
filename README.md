@@ -8,10 +8,10 @@ Unless otherwise noted, all code and content are under the [MIT license](LICENSE
 
 ## Theoryland Interview Database
 
-We host [a copy](https://web.wot.wiki/theoryland/interviews) of the [Theoryland Interview Database](https://www.theoryland.com/listintv.php) which is better suited for simple text searches and machine processing than the original.
+We host [a copy](http://web.wot.wiki/theoryland/interviews) of the [Theoryland Interview Database](https://www.theoryland.com/listintv.php) which is better suited for simple text searches and machine processing than the original.
 
 # Web
 
-To view the web pages for the wotwiki repo, visit [web.wot.wiki](https://web.wot.wiki).
+To view the web pages for the wotwiki repo, visit [web.wot.wiki](http://web.wot.wiki).
 
-To view the wiki itself, visit [wot.wiki](https://wot.wiki).
+To view the wiki itself, visit [wot.wiki](http://wot.wiki).
