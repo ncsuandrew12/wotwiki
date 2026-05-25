@@ -1,0 +1,261 @@
+*Hi there! This is a fun project, isn't it?
+
+I thought I would just say hello. Are you doing a reread of TGH at the moment? I've noticed a lot of the info you have added recently has been from TGH.
+
+See you around!
+*Chris
+[[User:Moridin 2000|Moridin 2000]] 00:47, 21 November 2008 (UTC)Moridin_2000
+
+*Yeah man i'm gonna try and read a book a month so that by the time i have finished the full series the final book will be out and everything will be fresh in my mind. I noticed u are going through all the Ajah's and giving the icon updates. Looks fantastic. I'm really enjoying this site.
+Whats your next project on here Moridan2000
+
+*Dunno, it'll take me a while to go through all the Aes Sedai. I'm trying to add some extra stuff as I go along, but only what I can remember from memory. I'll prob add a lot more of the character templates to some other groups like the Whitecloaks and such. I also plan on adding some Sea Folk stuff, but there is enough to keep me busy. I have never edited a wiki before and am surprised at how easy and flexible it is! Cheers! [[User:Moridin 2000|Moridin 2000]] 02:01, 21 November 2008 (UTC)Moridin_2000
+
+Hey there just a question for anyone who may be able to answer this one
+If Semirhage was trapped in the Bore when it was sealed, then the Dark One released the counter stroke which tainted saidin, in Knife of Dreams when she confronts Rand, how would she even know about the effects of the madness and the "voices" in his head. Its not like she was around the Breaking to study it????
+
+Re: Your edit of [[Trom]]
+
+Do you entirely fail understand what you are reading? "He busted a Darkfriend gathering and had [[Paitr Conel]] arrested, which led to eventual hanging." This was an attempt to break [[Morgase Trakand]] out of custody. Paitr was not a Darkfriend. That was a [[Whitecloak]] lie.
+
+Sorry, I forgot to sign.
+
+[[User:Fatidiot1234|Fatidiot1234]] 05:41, 15 February 2009 (UTC)
+
+In EotW its established that Paitr Conel is a darkfriend which he even admits to Rand and Mat when they are traveling to Caemlyn. Perhaps I missed the whitecloak lie but I assumed because he is a darkfriend he would be at a darkfriend gathering and so would be hanged as a result --[[User:GuanYu79|GuanYu79]] 07:39, 15 February 2009 (UTC)
+
+You are right and I was wrong. Please forgive me.
+
+[[User:Fatidiot1234|Fatidiot1234]] 16:28, 15 February 2009 (UTC)
+
+== Problem reports ==
+
+Most of your problem reports are things you should be able to fix yourself. I don't mind, but it sometimes takes me days to get time to get back on this site. Is the 'Move' button working at the top of your screen when you're on these articles that need last names? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 17:51, 10 March 2009 (UTC)
+
+Yeh it is. Sorry i didn't know how to change the title. Should be sweet now--[[User:GuanYu79|GuanYu79]] 20:28, 10 March 2009 (UTC)
+
+== Number 1! ==
+
+Just noticed that you are now the top in edit count for content edits. That's pretty cool! I'm gonna catch up with you sometime, I swear! :D
+
+Still got a while before either of us catch up with the total contributions by Gherald and Naeblis though!
+
+I like the way the wiki is shaping up though. By the time the new book comes out, It'll only be better. :)
+
+PS: I've only got the Gray Ajah and some Reds to work through as far as reformatting the AS pages goes. Also been doing all the Whitecloak pages too. I'm going to finish the latter and add a couple of new pages on Whitecloak background we don't have before going back to the AS. Once the AS are done, I'm gonna move onto more character groups. Sea Folk and Kin, perhaps. I notice that you are on a PoD reread now.
+
+[[User:Moridin 2000|Moridin_2000]] 21:40, 22 March 2009 (UTC)
+
+== Asha'man ==
+
+The entry for Taim is a little scattered just now, so the entry for [[Damer Flinn]] is probably a better model. I've been sorting the sections into Appearance, History and Activities as per the [[Help:Style guide|Style guide]], though it's up to you whether you want to do that just now. I've skipped that in places when I just wanted to add the char templates.
+
+For the Asha'man, I'm thinking that we whould use occupation=Asha'man and use rank for an indicator as opposed to the use of title in the Aes Sedai. Asha'man are structured in a more military way, so rank works, and Aes Sedai is an honorific title that Asha'man don't share. Allegiance should be The Dragon Reborn or The Mhael - a category for Taim's cronies would be good. I'll edit the template to add that automatically for everyone with allegiance=The Mhael. There is also an error with occupation that adds the category Asha'mans that I'll fix.
+
+[[User:Moridin 2000|Moridin_2000]] 22:19, 20 April 2009 (UTC)
+
+Didn't realise you had added so many templates already! I see you have added a Logain affiliation - I'll add an automatic category for that too. Name and status can be left blank in the templates - the defaults will always be the page title and 'Alive'. I was thinking a simple black and white for the color banner - Black for association for the Black Tower and white because I have been sticking with only black and white as the text colors to keep it simple and consistent. I did ponder gold and tried it out against black, but I thought the white looked better - plus the gold is only associated with full ashaman. Thoughts?
+
+[[User:Moridin 2000|Moridin_2000]] 22:26, 20 April 2009 (UTC)
+
+:Had a look at some of the ones you edited and they seem great. :) I do have black and white for the Black Ajah too, but the icon for the Asha'man is the claw and I used the two faces/Black Ajah icon for the others. I will possibly make the Forsaken back and white too, but with the Forsaken icon. WRT Logain, I have changed the code to automatically add that page to a category called Logain's Followers. See [[Androl Genhald]] for an example. I hadn;t created the page yet, but I'll do so now. The above link should lead you there. :) I've also created a similar page for Taim's cronies. See [[Raefar Kisman]] for an example.
+
+:For the [[Band of the Red Hand]], tell me what you think of the page for [[Daerid Ondin]]. Cheers! [[User:Moridin 2000|Moridin_2000]] 19:02, 21 April 2009 (UTC)
+
+::The image comes up OK for me - maybe there is a slight delay? There is a strange problem with the Taim's cronies page that I don't understand. I filed a problem report. If all else fails, we will have to add them to that category manually. The category appears at the bottom of the page where it should, but those pages aren't in the category. It is strange. [[User:Moridin 2000|Moridin_2000]] 20:19, 21 April 2009 (UTC)
+
+:::Ah, possibly there is a delay in how wikia updates, because there are now four entries to the Taim's cronies category and when I first looked there weren't any! You haven't edited them, so wikia must be doing it's things slowly. [[User:Moridin 2000|Moridin_2000]] 20:21, 21 April 2009 (UTC)
+
+== Thanks for your work ==
+
+Hi Guan, I was just looking through the history and wanted to thank you for your work in recent months. Carry on, and feel free to drop me a line if I can be of help. --[[User:Gherald|Gherald]] 16:07, 22 April 2009 (UTC)
+
+== ? ==
+
+Hey GuanYu, just a note that if you are filling in any character templates to write Unknown instead of using a question mark. The reason is that the character template is trying to create a new category for those pages under ?s, which doesn't make any sense. Alternatively, just leave that field blank. :) Thanks! [[User:Moridin 2000|Moridin_2000]] 21:57, 11 May 2009 (UTC)
+
+== Tairen Character Template Model  ==
+
+What do you think of the [[Astoril Damara]] page as a model for the Tairen characters? I created my own facsimile of a chapter icon based on the Tairen flag. I also changed the background to a golden colour based on the flag - red has been already used for Band of the Red Hand, the Red Ajah and Andor.
+
+Any changes to this you would like to suggest? I can add a few more details to the image or change the design slightly if you wish. :)
+
+Cheers!
+[[User:Moridin 2000|Moridin_2000]] 13:49, 12 June 2009 (UTC)
+
+==Aes Sedai characters==
+I see you've been making some edits, like [http://wot.wikia.com/index.php?title=Aeldra_Najaf&diff=27835&oldid=27316 this one]. Why? I don't understand. If you're going to insist on doing this, please explain on a talk page somewhere like [[Template talk:Character]], as I thought we agreed to never, ever list Aes Sedai as an occupation, to have it as rank, and to never, ever have it as Title. Meanwhile, Keeper of Chronicles is a title.
+I thought the only unclear point was for Sitters, which I've been putting as a Rank, not a Title, replacing Aes Sedai (thus having Aes Sedai nowhere on the template for Sitters).
+Anyway, whatever you do, please make certain Aes Sedai only ever appears in one single field for present-day Aes Sedai (AoL ones might need a different system, I dunno about that) --[[User:Gherald|Gherald]] 15:18, 9 August 2009 (UTC)
+
+== Occupation removing ==
+
+So I've noticed you started removing the occupation of Aes Sedai on Aes Sedai characters. Thats good I was hoping to do it but you are so its good. Anyways when you do remove the occupation just take the (|occupation =) completly out cause if left alone it makes the characters as part of a S category Category:S. It's an error in the character template that I have not been able to fix. So for now if no occupation just take it out.--[[User:Optimous|Optimous]] 21:11, 26 August 2009 (UTC)
+
+== Number of edits ==
+
+Sorry it took me a while to get back to you. When I started doing the category sorting and then the redirect project, it wasn't my intention to try and rack up the edits. Most of those were minor stuff anyways. But thanks for the head-nod! Glad you are around again. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:07, February 4, 2010 (UTC)
+
+== Thanks ==
+
+Thanks for catching those. I try to do some when I am updating other things, but a few slip by. Thanks!! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:56, February 25, 2010 (UTC)
+
+== Bertain and Amathera ==
+
+The flag that is on Bertain's page looks fine. I believe it is from {{Bwb}}. What was wrong with Amathera's page? Her colors seem to match up with the other Taraboners that I can see. Let me know. Also, I'll take a look at Haran's color as well. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 02:38, April 13, 2010 (UTC)
+:I see what's going on now. The options that you filled in manually are overriden by the switches from nationality, affiliation, ajah and so on. Tomorrow, I'll go and change the character template to reflect the changes that were discussed. Thanks for reminding me of those. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 02:47, April 13, 2010 (UTC)
+
+== Template colors ==
+
+It shouldn't be necessary to manually input the colors into the template. From what I can figure out, the manual inputs don't actually change the colors. I tried searching through the Character Template and couldn't find anything that would make those fields work. Just thought you should know. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 12:40, April 16, 2010 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}
+Hey Guan, thanks for the advise. I appreciate it and will attempt to setup the pages as you have suggested.
+
+
+
+Thx [[User:Kumar12|Kumar12]] 23:35, August 20, 2010 (UTC)
+
+==Request for comment 2==
+{{request|Category talk:People|Mainphramephreak}}
+
+== Headings ==
+
+They should be the two "=" sign headings for activities. Those should be the "default," if you will, for every page. Sub-headings (3 "=") will be used when there is a lot of info under the "main" heading and all of it needs to be broken up. [[Help:Style guide#Format for Character Entries|This help page]] is what I normally use for all of the characters. Taking a quick look at some of the recently edited characters, I see that this standard isn't always used. [[Dain Bornhald]] and [[Rhadam Asunawa]]'s pages look good as far as the headings go. Hope that helps! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 23:35, November 15, 2010 (UTC)
+
+== New pages ==
+
+Hey, thanks for starting in on the new characters as well as expanding {{tom|p}}. Hope you don't mind that I made a few corrections. I know sometimes that it can seem a little annoying when someone jumps on a page you just created. Again, thanks! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 23:24, November 16, 2010 (UTC)
+
+== Pictures and template ==
+
+As far as the pictures are concerned, if it is the only official one we have, then yeah, we use it as the main picture in the template. If you can find Galad in any of the graphic novels, then by all means. I'm not the biggest fan of the portraits from the BWB.
+
+The ewot thing in the template only needs to be used when the name of the page at EWoT is different that what we have here. Seventy to eighty percent of them match up, but not all. More details can be found at [[:Template:Character]]. I added a lot of documentation to the template page.
+
+The "es" thing is a language link to the Spanish wiki. [[User:Tenbu Horin]] has been putting those in when his pages are made and linking to us from their site. I would let him carry on with that, just so we don't create links to non-existent pages.
+
+Also, welcome back! :) ---- {{User:Mainphramephreak/Sig/Subst}} 22:30, February 20, 2013 (UTC)
+
+== Source ==
+
+That is a link back to the [[Template:Character|character template]]. It should be on all of them. ---- {{User:Mainphramephreak/Sig/Subst}} 13:06, March 2, 2013 (UTC)
+
+== Hiya GuanYu! ==
+
+I have seen your name a lot on the Recent Changes page, and I'm glad to say hi! And thanks for the thanks, haha! I've only edited on one other wiki before, so I'm still getting used to some things on this wiki that are different from the other one I'm experienced with, but I'm trying to do what I can to help. Let me know if there's anything I can improve on or look out for in particular. :)<br />And, by the way, your English and spelling are not horrific. I still haven't gotten the chance to read A Memory of Light, and I'm currently re-reading Towers of Midnight (slowly), so I've mostly just been focusing on grammar and spelling for now as I get used to editing on a new and different wiki. It's fun for me, and it gives me a way to keep my brain working (even if it's just a little bit) since I spend most of my day with a toddler whose speech skills are... ''minimal. '';) So it's just a way to help me keep my sanity, haha!<br />Thanks for the message, and see ya around the wiki! :)<br />[[User:DagnyVin|DagnyVin]] ([[User talk:DagnyVin|talk]]) 01:58, March 22, 2013 (UTC)
+
+==Hi!==
+I tried editing a bit of Aviendha the other day, and got some weird results, which I undid (undoed?) The text I tried to add was inside the Last Battle spoiler box, but apeared in this little sub box. If you have time could you take a look at it and tell me what I did wrong? Im still a wiki noob.
+
+[[User:AbusiveUncleJoe|AbusiveUncleJoe]] ([[User talk:AbusiveUncleJoe|talk]]) 19:52, April 13, 2013 (UTC)
+
+== Affiliation and Forsaken ==
+
+Hi. Sorry about the late reply. For the Affiliation, I say go for it. We can make a category for it if we want, but just putting in "Perrin Aybara" in the affiliation part of the template is fine.
+
+As far as the Forsaken, I know those guys need some work. I'll look through them to see what might be able to be done. ---- {{User:Mainphramephreak/Sig/Subst}} 02:22, April 18, 2013 (UTC)
+
+Well, we can do one of two things.
+
+The first option would cause the least amount of edits and give us what we need. It involves adding a new parameter to the character template that would categorize and color the template for the Two Rivers folk, but wouldn't show up in the template's display. It would be similar to how the "living" parameter works; it does the categorizing and coloring, but doesn't display anything. This way, we could still show the right affiliation.
+
+The second option would mean changing all of the Two Rivers folk, all 149 of them. This option would also involve adding a new parameter, one for hometown. This one will be displayed. By putting it in the right spot in the template, it would allow for the correct coloring of the template.
+
+Either one is fairly simple to set up. The second option would also allow for other character to use the parameter as well. Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}} 16:06, April 18, 2013 (UTC)
+
+Character template update complete. An affiliation of "Perrin Aybara" will change the border color to a bright yellow, which is close to gold. :) Right now, it doesn't categorize the affiliation, but that can be added easily once we pick a name for the army. There is a new parameter for the Two Rivers folk that are a part of Perrin's army. The parameter is "tworivers" and the input needs to be "yes". This will color the template properly as well as add the Two River (people) category. See [[Jori Congar]] for an example.
+
+Speaking of the army, I've always called them the "Goldeneyes Companions." This is mainly due to most of his people calling him "Perrin Goldeneyes." The Companions part, I think, came from a loose connection with Tam and his time with the Illianer Companions. It kinda stuck for me. Let me know what you think. ---- {{User:Mainphramephreak/Sig/Subst}} 23:05, April 19, 2013 (UTC)
+
+== Re:Forsaken ==
+
+Hey! I haven't gotten the chance to look at the Aginor page yet, but I will definitely check it out when I get back online later. I enjoy working with words and grammar so I don't mind going through those pages for that at all. I'll make sure to look at Aginor first when I get back online later and I'll watch for your changes to the other pages too. You do a really awesome job with summarizing and adding content! [[User:DagnyVin|DagnyVin]] ([[User talk:DagnyVin|talk]]) 14:04, May 19, 2013 (UTC)
+
+== Thanks! ==
+
+Hey. I just wanted to say great job on all of the new character pages and the new info from the latest books. It's been great to see the wiki expand in page count. Keep up the great work! ---- {{User:Mainphramephreak/Sig/Subst}} 22:21, May 23, 2013 (UTC)
+
+==Shanna'har==
+Separation of ''Shanna'har'' done. --[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 08:43, November 11, 2018 (UTC)
+
+==jibberish page==
+deleting a page is a job for admin and moderators--[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 13:29, November 15, 2018 (UTC)
+
+== Addition to Rhuidean ==
+
+Re: Rhuidean - ToM - Ch48-49
+
+Sure, will do it in the upcoming days. :) Thx for asking.
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 19:06, November 15, 2018 (UTC)
+
+
+==Page deletion==
+("Cheers for that. How do you delete a page, a new one which is jibberish has just been made" )
+
+RE: reported to one of the admins. Now we wait. :)
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 19:19, November 15, 2018 (UTC)
+
+== Chat ==
+
+Do you ever use the chat here? :)
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 10:37, November 18, 2018 (UTC)
+
+– – – – –
+
+
+Now you know. ;)
+I always ping one, but nobody else is there...
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:39, November 18, 2018 (UTC)
+==Spelling mistakes==
+Hi,
+
+just have read your message about the grammar/spelling mistakes. I'd recommend you to use Firefox, since it has an inbuilt spell checker. More than nothing. ;)
+
+Best,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 08:23, November 25, 2018 (UTC)
+
+– – – – –
+
+Certainly. :D
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 09:26, November 25, 2018 (UTC)
+
+==Kajima and Androl==
+It is Androl that has been demoted again to the rank of Soldier by Taim (AMoL, Ch. 3)--[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 14:00, December 4, 2018 (UTC)
+
+== message ==
+
+Hi,
+
+you are quite productive. :) Do you ever go to the chat? Or are you available in any other - more private - way than this messaging?
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 21:18, December 23, 2018 (UTC)
+
+– – – – – – – – – – – – – – – – – – – –
+
+I just missed you on the chat... arrggh I'm so angry of myself. :D When is the next time you are planning to be online? I'll try to adjust myself to that and catch you. Just stay logged in in the chat. :)
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 23:39, December 23, 2018 (UTC)
+
+– – – – – – – – – – – – – – – – – – – –
+
+I'm here, it's 20:15 in your time. Can you come to chat? :)
+
+TWOTC: those were notes during the writing which helped RJ to keep in mind who is who and what was their purpose or look, or story, during the writing. It's kind of a fan-candy. I think it is normal that fans know more about the story than the author. :D Maybe Tolkien was a mastermind to keep everything in his mind.
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 07:22, December 25, 2018 (UTC)
+
+==Kayen Yokata ==
+I checked about this character. In the categories he is classified as "Deceased" and "Living as of AMOL" because he died in this book. It seems correct to me. Anyway if you want to delete a category from an article you have to throw it in the bin while doing classic editing, you find it on the right column. Tell me which other articles you want to correct and I will try to help you.--[[User:-kay-|-kay-]] ([[User talk:-kay-|talk]]) 17:25, January 28, 2019 (UTC)
+
+Sorry for coming across so douchey! I simply meant please use the spellchecker when able lol
+
+==Return to the Wiki==
+I appreciate your feedback yesterday on my talk page.  Yes I'm back after a slight hiatus.  I was working on a project in 2018 to bring a higher level of prose to pages and character descriptions - similar to what I did with Wit's "appearance and personality" section that you remarked upon. I'll be doing this with several pages as well as pulling more art for value-add visuals. [[User:Servant of All|Servant of All]] ([[User talk:Servant of All|talk]]) 03:32, February 28, 2019 (UTC)

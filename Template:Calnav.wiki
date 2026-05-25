@@ -1,0 +1,26 @@
+{|class="collapsible" width="100%" style="clear:both;" align=center id=toc
+|-
+!align=center style="background-color: rgb(135,135,135,.25);" colspan=1|'''[[Timeline|Years]]'''
+|-
+|align=center|
+<small><i>[[978 NE]] &middot; [[979 NE]] &middot; [[998 NE]] &middot; [[999 NE]] &middot; [[1000 NE]]</i></small>
+|-
+!align=center style="background-color: rgb(135,135,135,.25);" colspan=1|'''[[:Category:Series books|Books]]'''
+|-
+|align=center|
+<small><i>
+[[978 NE#book0|New Spring]] &middot;
+[[998 NE#book1|The Eye of the World]] &middot;
+[[998 NE#book2|The Great Hunt]] &middot;
+[[999 NE#book3|The Dragon Reborn]] &middot;
+[[999 NE#book4|The Shadow Rising]] &middot;
+[[999 NE#book5|The Fires of Heaven]] &middot;
+[[999 NE#book6|Lord of Chaos]] &middot;
+[[1000 NE#book7|A Crown of Swords]] &middot;
+[[1000 NE#book8|The Path of Daggers]] &middot;
+[[1000 NE#book9|Winter's Heart]] &middot;
+[[1000 NE#book10|Crossroads of Twilight]] &middot;
+[[1000 NE#book11|Knife of Dreams]] &middot;
+[[1000 NE#book12|The Gathering Storm]]
+</i></small>
+|}<noinclude>[[Category:Navbox templates]]</noinclude>

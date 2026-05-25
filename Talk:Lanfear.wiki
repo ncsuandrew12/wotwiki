@@ -1,0 +1,53 @@
+{{enWPcontent}}
+== First Appearance ==
+I am unsure if her first appearance in the series is Book 2, Chapter 16 (when Rand "saves" her from the ''grolm'' in the alternate world).  Does she show up before this?
+<br>- [[User:Sinnic|Sinnic]] 22:09, 7 Jan 2006 (UTC)
+
+== References for later use ==
+* http://www.tarvalon.net/library.asp?article=277
+
+== Roughly equal to Moiraine's former strength? ==
+
+You have to be kidding! Moiraine is roughly equal to Siuan, who is significantly weaker than Egwene, who is noticably weaker than Nynaeve, who is roughly equal to Moghedien, who is the weakeset among the Forsaken. Cyndane has been said to be still on par with Graendal. [[User:Astro Droid|Astro Droid]] 21:29, February 11, 2010 (UTC)
+
+I could have sworn Graendal said that Cyndane was still stronger than herself even after her loss of power. ~ Tommy a
+
+"The Path of Daggers" chapter 12 ''New Alliances ''is where it states that Cyndane was stronger in the One Power than even Graendal who then further states that this was a rare occurence even during her time period, which was the Age of Legends. So if any ability in the One Power was lost when Lanfear became Cyndane it is minimal and negligible at most. It would be more likely to infer that her abilities in the One Power as Cyndane are just as strong as they were when she was Lanfear. Which is to say that Cyndane is as strong in the One Power as a female can become without forming a circle or using any angreal or sa' angreal. [[Special:Contributions/151.190.254.108|151.190.254.108]] 17:17, March 29, 2011 (UTC)
+
+Cyndane isn't as strong as Lanfear was. Someone of the female (saidar-channeling) Forsaken said to one of the others (I thought Aran'gar, but I'm not sure) Cyndane was weaker than Lanfear had been. But there is a theory Lanfear once get an angreal from the Finn, and that she lost it when she fell trough the doorframe again. [[User:Asha&#39;man Leyrann Gaidin|Asha&#39;man Leyrann Gaidin]] 15:21, June 10, 2011 (UTC)
+
+== Factual correction ==
+
+: "Her hunger for power was enough to blind her to reality at times, as shown '''when she asked the Eelfinn to make her more powerful than any living Aes Sedai''' without realising that she already was by a considerable margin, and so they made her weaker than she was before instead."
+
+Um, unless there has been a major reveal by Team Jordan recently, this should plainly be deleted.
+
+== ...what ==
+
+Part of the intro states "Her original strength in the power was 1(+12), making her stronger than all other female channelers except for Alivia and Semirhage, who match her in strength. However, she was reduced to 2(+11) after her stay with the Finn."
+
+I have read the books, and haven't the faintest idea what in the hell that means. If that's the gibberish it appears to be, it really ought to be excised from the article. If it actually means ''something'', it really needs to be explained either immediately before or immediately after those two sentences.... &mdash; '''[[User:DigiFluid|DigiFluid]]'''<sup>([[User_talk:DigiFluid|Whine here]])</sup> 02:53, November 17, 2015 (UTC)
+
+:This is the strength ranking system from the Companion that was released at the beginning of the month. ---- {{User:Mainphramephreak/Sig/Subst}} 05:08, November 28, 2015 (UTC)
+
+== Last appearance? ==
+
+Lanfear has her last encounter with Perrin in the World of Dreams during Chapter 49 of AMOL. Shouldn't that be hear last appearance and last mention in her character info?
+
+: Hi, there are seperate pages for Lanfear and [[Cyndane]], so I added a link to the top of the page. Lanfear's appearances are with here new body, but she weaves an illusion in the final scene. "As she died, she changed back to the other form she had been wearing before, her new body." It's ambiguous. Does weaving an illusion of her old form count as being Lanfear again? I think two seperate pages works for now. Last mentioned should be changed though, for sure. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 17:58, 15 January 2023 (UTC)
+
+== Phrasing ==
+
+These lines are ambiguous/unclear. Consider revising:
+
+"Making her stronger than all other female channelers except for Alivia and Semirhage, who nominally her equal."
+
+It looks like you're trying to say that Semirhage is Lanfear's equal. If so, change to reflect that.
+
+"This would also give us cause to wonder how Perrin Aybara might be able to ultimately defeat her in her own domain. In fact, he did not, and she faked her own death.[11]"
+
+This is awkward. If you want to preserve the history regarding Lanfear's death and subsequent reveal that she faked her own death according to Sanderson, consider changing this. Otherwise if the history is unnecessary, remove it. Two suggestions:
+
+1. "Perrin Aybara defeated her in her own domain which led to questions about her mastery of the dreamworld. Later, it was revealed that Lanfear had in fact faked her own death by skillfully manipulating the dreamworld."
+
+2. "Lanfear was skilled enough as a Dreamwalker to manipulate those within it into believing she had been killed."

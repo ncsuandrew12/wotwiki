@@ -1,0 +1,32 @@
+{{ character 
+| image=TarValonFlag.png
+| imagesize=250px
+| gender=Male
+| affiliation=White Tower
+| status=Dead
+| occupation=Soldier
+| build=Lean
+| hair=Light brown
+| appeared={{tom|22}}
+| lastappeared={{tom|42}}
+| death={{ne|1000}}
+| nationality=Unknown nationality
+}}
+'''Celark''' was a soldier of the [[Tower Guard]].
+
+== Appearance ==
+He was lean, with light brown hair and thick fingers.
+
+== Activities ==
+Since returning to the [[White Tower]], Celark was one of a number of [[Younglings]] who decided that being a [[Warder]] was not the life for them. [[Gawyn Trakand]] tells them to report to [[Jimar Chubain]] to become a member of the Tower Guard.
+
+When Gawyn returned to the White Tower, Celark followed him to [[Egwene al'Vere]]'s quarters. There they found some [[Bloodknife]] assassins, and Celark was beheaded in the scuffle.
+
+== Trivia ==
+* Celark is named for Fitzgerald Clark, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Younglings]]
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]
+[[Category:Characters named after fans]]
+[[Category:Tower Guards]]

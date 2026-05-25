@@ -1,0 +1,21 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Female
+| appeared={{wh|15}}
+| lastappeared={{wh|15}}
+| living=wh
+}}
+'''Neilyn''' is a performer in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]].
+
+==Appearance==
+[[Olver]], who is taken with Neilyn, says that her eyes are the prettiest he has ever seen. He makes the same statement about [[Merici]].{{ref/book|9|15}}
+
+==Activities==
+Neilyn is one of several women who have taken an interest in Olver. When he leaves the show with [[Matrim Cauthon]], Olver spends time with Neilyn, [[Adria]], [[Gillin]], [[Jameine]] and Merici.{{ref/book|9|15}}
+
+{{notes}}

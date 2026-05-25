@@ -1,0 +1,18 @@
+{{ character 
+| name=Wil
+| nationality=Andoran
+| rank=
+| occupation=
+| affiliation=
+| gender=Male
+| mentioned={{tom|24}}
+| lastmentioned={{tom|24}}
+| tworivers=
+}}
+'''Wil''' was a cousin of [[Perrin Aybara]] who once planted a bucket of wet feathers to drop on Perrin.{{ref/book|13|24}}
+
+==Death==
+Wil's status is unknown, but he was most likely killed by [[Padan Fain]] along with the rest of Perrin's family.{{ref/book|4|29}}
+{{short}}
+{{notes}}
+[[Category:Two Rivers (people)]]

@@ -1,0 +1,33 @@
+<pre>
+{{Quote||}}
+{{summary | book=
+|chapter=
+|title=
+|icon=
+|setting=
+}}
+==Summary==
+{{pov|[[NAME]]}}
+
+==Characters==
+*[[NAME]]
+===Referenced===
+*[[NAME]]
+==Places==
+*[[NAME]]
+===Referenced===
+*[[NAME]]
+==Groups==
+*[[NAME]]
+==Events==
+*[[EVENT]]
+==Items==
+*[[ITEM]]
+==Animals==
+==Concepts==
+===The One Power===
+===Culture===
+===Quotes===
+===Theory===
+==Notes==
+</pre>

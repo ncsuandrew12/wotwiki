@@ -1,0 +1,25 @@
+{{character
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| occupation=Maid
+| nationality=Altaran
+| gender=Female
+| appeared={{wh|19}}
+| lastappeared={{wh|29}}
+| lastmentioned={{wh|29}}
+| living=wh
+}}
+'''Marah Anan''' is a young woman from [[Ebou Dar]], [[Altara]]. She is the eldest daughter of [[Setalle Anan]] and [[Jasfer Anan]]. She has two younger sisters, [[Frielle]] and [[Leral Anan|Leral]], and at least one younger brother, [[Ross Anan|Ross]]. Marah, like the rest of her family, works in the Wandering Woman inn.
+
+She is "pleasingly plump" with big, pretty eyes that are the same hazel shade as her mother's.
+
+==History==
+Marah does not like [[Mat]], and made it plenty clear when he moved out of the Wandering Woman that she was glad to see him go. She is also currently angry that her younger sister Frielle has recently been married, while she herself has not had a proposal.
+
+When Mat shows up at the Wandering Woman to check on the gold that he has stored there, he finds that Mistress Anan is out and that she has left Marah in charge. He notices that Marah has her skirts sewed up to mid-thigh on the left side, which Mistress Anan would not have allowed while Mat was living there. Marah is rude to Mat, as well as to her younger brother and one of the serving maids, both of whom she orders about. Finally, when a Seanchan woman demands more wine and there is no one else to fill her cup, Marah goes to fill it herself.
+
+When Setalle Anan tells Mat that she means to accompany him out of Ebou Dar when he makes his escape, she mentions that her family left for Illian three days ago.
+
+{{DEFAULTSORT:Anan, Marah}}
+[[Category:Short pages]]

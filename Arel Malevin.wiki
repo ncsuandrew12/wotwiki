@@ -1,0 +1,34 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px 
+| nationality=Cairhienin
+| rank=Asha'man
+| occupation=Asha'man
+| gender=Male
+| build=Wide
+| height=Short
+| status=Alive
+| appeared={{kod|20}}
+| lastappeared={{amol|37}}
+| living=amol
+}}'''Arel Malevin''' was a Cairhienin blacksmith who became an [[Asha'man]] and bonded [[Aisling Noon]] of the [[Green Ajah]].{{ref|{{twotc}}, Arel Malevin|Arel}}
+
+== Appearance ==
+He was a wide man barely as tall as Logain's chest.{{Ref||Arel}}
+
+== Activities ==
+He was present when [[Rand al'Thor|Rand]] named the Asha'man and handed out the first pins.
+
+He was one of the Asha'man who captured and bonded the group of sisters led by [[Toveine Gazal]].
+
+He [[Travel]]s with [[Logain Ablar]] to [[Tear]] to find [[Rand al'Thor]]. He takes part in the battle against the [[Trollocs]] that attack [[Algarin Pendaloan]]'s manor.
+He was then part of the group that burns all the bodies left behind afterwards.
+
+During the [[Last Battle]] on the [[Field of Merrilor]], Arel is one of the few men that stays with Logain after he sends groups of Asha'man and [[Aes Sedai]] to try to find the lost [[Seals]]. Logain affirms that it was a fortune that at least some of his men as Arel Malevin had been absent when he was captured by Taim. We can also suppose that Aisling Sedai was with Arel and so she escaped the capture and the forced conversion to the Shadow.
+
+{{Notes}}
+{{DEFAULTSORT:Malevin, Arel}}
+[[Category:Logain's followers]]
+[[Category:Asha'man]]
+[[Category:Channelers]]
+[[Category:Blacksmiths]]

@@ -1,0 +1,41 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Atha'an Miere
+| occupation=Librarian
+| rank=Aes Sedai
+| affiliation=White Tower
+| gender=Female
+| build=Round
+| status=Alive
+| appeared={{cot|21}}
+| lastappeared={{cot|21}}
+| living=cot
+|hair = Black|eyes = Dark}}'''Aiden Shimura''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Aiden Shimura}}
+
+==Appearance==
+She is a shy, withdrawn woman.
+
+She is round and very dark, even darker than [[Zemaille]].{{ref/book|10|21}} She has black hair and dark eyes.
+
+==Strength==
+As with the other Aes Sedai of ''[[Atha'an Miere]]'' origin, Aiden is relatively weak in the [[One Power]].
+
+==History==
+Aiden lied about her age when she enrolled as a [[novice]].
+
+She is one of the few ''Atha'an Miere'' sisters and works in the [[White Tower Library]], along with [[Nyein]] and [[Zemaille]], the other Sea Folk Aes Sedai. They tend to stay alone on the upper levels of the library with the [[Thirteenth Depository|secret records]].
+
+At the time of the [[Dragon Reborn]]'s birth, there were four Sea Folk Aes Sedai in the White Tower, and two of them were almost 300 years old. Aiden is one of the younger two.
+
+==Activities==
+She is in the library when [[Alviarin Freidhen]] is creeping around the 9th Depository. Her presence saves Zemaille from death at the [[Black Ajah|Black sister's]] hand. {{ref/book|10|21}}
+
+{{notes}}
+
+{{DEFAULTSORT:Shimura, Aiden}}
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

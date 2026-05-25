@@ -1,0 +1,3 @@
+<table id="fairuse" class="messagebox noprint" cellpadding="3" cellspacing="0" border="0" style="border:2px solid #A8ACA8; background:#242424; text-align:left;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:PD-icon.svg|50px]]</td><td style="overflow:hidden; width:100%;">''This file has been released into the '''[[Wikipedia:Public domain|public domain]]''' by the copyright holder, its copyright has expired, or it is ineligible for copyright. This applies worldwide.''</td></tr></table><noinclude>
+[[Category:Licensing|PD]]</noinclude><noinclude>
+[[Category:Image templates|PD]]</noinclude>

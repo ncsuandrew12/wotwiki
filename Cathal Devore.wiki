@@ -1,0 +1,53 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ewot=
+| ajah=Brown
+| nationality=Ghealdanin
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| hair=Dark Brown
+| build=Lanky and Bony
+| status=Alive
+| mentioned=The Wheel of Time Companion
+| living=tgs
+|birth = 942 NE|height = 5'9" or 5'10"|eyes = Hazel}}'''Cathal Devore''' is an [[Aes Sedai]] of the [[Brown Ajah]] from [[Ghealdan]]{{ref|{{twotc}}, Cathal Devore}}
+
+== Appearance and Personality ==
+Cathal was tall for a woman at about 5'9" to 5'10", and she was lanky and bony in build. She was awkward, physically, often dropping things. She had dark brown hair that she wore drawn back with combs, and hazel eyes.
+
+She blinked a great deal, as if she could not understand. In fact, she was a keen observer with an analytical mind—at least, when she had a reason to be interested in what was going on—and not nearly so retiring and half-asleep as she seemed.
+
+She could recall every word she heard, word for word, even after a considerable time, a gift useful mainly when she could not take notes right away.
+
+== Strength and Abilities ==
+Cathal is [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai, with a [[One Power]] level of {{opsl|23}}. She is strong enough to be able to [[Traveling|Travel]].
+
+== History ==
+Cathal is 58 years old. She was born in {{ne|942}} and went to the [[White Tower]] in [[957 NE]]. After nine years as a [[novice]] and eight years as [[Accepted]], she was raised to the [[shawl]] in [[974 NE]].
+
+She was Accepted when [[Elaida a'Roihan]] became a novice, and watched Elaida rise faster than she did; she was not envious, though she did regard Elaida with a mix of personal dislike, awe and fear.
+
+She taught [[Moiraine Damodred]] and [[Siuan Sanche]] and was proud of their quick rise. She was uncertain about Siuan being [[Amyrlin]] so young, but kept quiet.
+
+Unlike most Browns, she paid attention to political matters and felt that Siuan's deposing was a coup. She was a historian, with possibly as wide a knowledge of [[False Dragon]]s as anyone living at the time, perhaps wider than anyone else.
+
+She had a [[Cairhienin]] [[Warder]].
+
+==Activities==
+She has allied herself with the [[Salidar Aes Sedai]] and was one of the [[ten ferrets]] sent to the [[White Tower]] to spread the rumoor that the [[Red Ajah]] set [[Logain]] up as a [[False Dragon]].{{ref/book|7|8}}
+
+When [[Zerah Dacan]] is found out to be a Salidar spy, she gives up Cathal's name as well. Cathal Devore was so part of the group that was trying to hunt down the [[Black Ajah]]{{ref/book|8|26}}. When [[Meidani Eschede]] was freed from her oath of obedience, it can be assumed Cathal was as well.
+
+==Trivia==
+Cathal Devore is described only in "The Wheel of Time Companion", she is never mentioned in the main books of the Wheel of Time.
+
+{{notes}}
+{{DEFAULTSORT:Devore, Cathal}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Ferrets]]
+[[Category:Eyes-and-ears]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

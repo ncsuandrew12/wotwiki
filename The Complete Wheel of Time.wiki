@@ -1,0 +1,13 @@
+'''The Complete Wheel of Time''' is an {{Wiki|omnibus edition|omnibus}} ebook released by Amazon on {{Date|2014-8-12}}.{{ref|{{Link|url=https://www.amazon.com/Complete-Wheel-Time-Robert-Jordan-ebook/dp/B00M64A8UA|text=Amazon listing}}}}
+
+The ebook contains the entire ''Wheel of Time'' series, including {{0}} and the [[:Category:Book glossaries|glossaries]]. It does not include {{twotc}}, {{bwb}}, {{strike}}, {{ros}}, {{ravens}}, or ''[[A Fire Within the Ways]]''.
+
+The ebook also contains the beginning of ''{{Link|url=https://coppermind.net/wiki/The_Way_of_Kings|text=The Way of Kings}}'', the first book of [[Brandon Sanderson]]'s ''{{Link|url=https://coppermind.net/wiki/The_Stormlight_Archive|text=The Stormlight Archive}}''.
+
+==Errata==
+
+The ebook mistakenly contains the word "reseated" instead of "resealed" in the '''[[Forsaken|Forsaken, the]]''' entry in {{teotw|g|}}. This typo does not appear in the first printing of {{1}}. This typo is also present in the corresponding entry in {{loc|g}} and is also absent from printed versions of {{6}}. It is not present in any other glossaries in the ebook.
+
+{{notes}}
+[[Category:Books]]
+[[Category:Real-world content]]

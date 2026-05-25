@@ -1,0 +1,59 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality= Unknown nationality
+| rank=Aes Sedai
+| affiliation=White Tower
+| build=Thin
+| height=Short
+| status=Alive
+| appeared={{cot|p}}
+| mentioned={{tfoh|10}}
+| lastappeared={{tgs|13}}
+| living=tgs
+|birth = {{ne|913}}}}
+'''Narenwin Barda''' is an [[Aes Sedai]] of the [[Yellow Ajah]].
+
+== Appearance ==
+She is thin, very short and with a square face. She usually is so quiet that people could forget she was there; she was also mousy around other sisters.
+
+== Strength and abilities ==
+Nerenwin is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of "{{opsl|24}} or {{opsl|25}}".{{ref|{{twotc}}, Narenwhin Barda}} The lower possible strength matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability a the Talent, she should be able to Travel.
+
+Being a Yellow sister also usually indicates a skill in [[Healing]].
+
+== History ==
+Narenwin is 87 years old; she was born in {{ne|913}} and went to the Tower in {{ne|928}}. After spending twelve years as a [[novice]] and eight as [[Accepted]] she was raised to the [[shawl]] in [[948 NE]]. 
+
+For a time she was the assistant to the head of the Yellow Ajah [[eyes-and-ears]]; during that period she recruited [[Ronde Macura]] as a spy and punished her severely for asking about the [[Black Ajah]].
+
+She later became head of the Ajah eyes-and-ears system, and she has been so for years, rising high in the Yellow hierarchy.
+
+Once a week Narenwin would allow children to bring their pets to her in the Tower, so that she could heal them.
+
+She has no [[Warder]].
+
+== Activities ==
+During the Aes Sedai [[Schism]] Narewin stayed in the [[White Tower]] accepting [[Elaida do Avriny a'Roihan|Elaida]]'s leadership.
+
+[[Ronde Macura]] reported to Narenwin as an eyes-and-ears in [[Mardecin]], [[Amadicia]].{{ref/book|5|10}}
+
+[[Nynaeve]] and [[Elayne]] were sure that Ronde Macura would report them to Narenwin so they changed their plans and adopted disguises. {{ref/book|5|13}}
+
+She was sent by Elaida to [[Dorlan]] to take command of the [[Aes Sedai]] there. She also gave orders to [[Gawyn Trakand]] and the [[Younglings]] from Elaida{{ref/book|10|p}}: they have to take guerilla actions against the rebel army, with the aid of the sisters there.
+
+Some weeks later Narenwin met [[Katerine Alruddin]], who [[Travel]]ed back from the White Tower to Dorlan to inform the sisters in the village that the [[Rebel Aes Sedai|rebels']] [[Amyrlin Seat]], [[Egwene al'Vere]], had been captured.{{ref/book|12|13}} Katerine also taught them the [[weave]]s for Traveling so they could be more effective against the rebels.
+
+But Gawyn also heard from Katerine the news about Egwene and left Dorlan suddenly, leaving Narenwin without the captain of her troops.
+
+{{notes}}
+
+{{DEFAULTSORT:Barda, Narenwin}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Eyes-and-ears]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Dorlan Group]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

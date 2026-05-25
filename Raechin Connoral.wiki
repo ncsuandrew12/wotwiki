@@ -1,0 +1,53 @@
+{{ character
+| image=RedAjah.png
+| imagesize=250px
+| ewot=Raechin
+| ajah=Red
+| gender=Female
+| nationality=Unknown nationality
+| occupation=Sitter
+| rank=Aes Sedai
+| affiliation=White Tower
+| height=Tall
+| hair=Dark
+| status=Alive
+| appeared={{tom|27}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+
+'''Raechin Connoral''' is an [[Aes Sedai]] of the [[Red Ajah]] and a [[Sitter]] in the [[Hall of the Tower]].
+
+==Appearance==
+She is a tall, dark-haired woman, who likes to wear her hair in a coil of braids atop her head.{{ref/book|13|27}}
+
+== Strength and Abilities ==
+Nothing is known about Raechin's strength or abilities in the One Power.
+
+==History==
+She has a sister, [[Viria Connoral]], who is also a Sitter for the Red.{{ref/book|13|27}} With the deaths of [[Vandene Namelle|Vandene]] and [[Adeleas Namelle]], they are the sole remaining siblings in the [[White Tower]].{{ref/book|13|27}} Being a Sitter in the Hall means that Raechin has been Aes Sedai for, at least, more than one hundred years.
+
+Her name is reminiscent of those of Murandy, but her nationality is not known.
+
+==Activities==
+Raechin became a Sitter in the [[Hall of the Tower]] after the [[White Tower Schism]] was mended.{{ref/book|13|27}} [[Egwene al'Vere]] considers her an odd choice for the position, but not unexpected.{{ref/book|13|27}}
+The Sitters try to hold a secret meeting without Egwene, discussing ways to temper the [[Amyrlin Seat|Amyrlin]]'s power when a declaration of war is called. Raechin voted for a proposal that would allow only Egwene to deal with the monarchy of the world, which includes [[Rand al'Thor]] as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army. In that same meeting, Raechin voted in favor of the new rules and procedures in the Hall, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present.
+
+===Last Battle===
+She fought the Sharans with [[Leane]] and [[Manda Wan|Manda]]. They were ready to retreat and regroup when Egwene returned to the battlefield to face [[Mazrim Taim]]. It is presumed she survived.
+
+==Trivia==
+*Raechin Connoral is named after Rachel O'Connor, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{DEFAULTSORT:Connoral, Raechin}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Connoral, Raechin}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Characters named after fans]]

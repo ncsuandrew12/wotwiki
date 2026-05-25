@@ -1,0 +1,18 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| status=Dead
+| death={{ne|999}}
+| gender=Female
+| mentioned={{tsr|29}}
+}}
+
+'''Neain''' was [[Perrin]]'s aunt. She was married to [[Carlin]] before he passed away. She visits his grave everyday.
+
+==Activities==
+She lives on the Aybara farm with the rest of Perrin's family. [[Padan Fain]] murders Perrin's entire family including Neain. There deaths are blamed on [[Trolloc|Trollocs]].{{ref/book|4|29}}
+
+{{notes}}
+[[Category:Short pages]]

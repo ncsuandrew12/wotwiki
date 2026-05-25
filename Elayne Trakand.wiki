@@ -1,0 +1,123 @@
+{{Featuredicon}}
+{{for|the similarly-named video game character|Elayna}}
+{{Character
+| image=Wot elayne trakand by reddera-d4sxaz5.jpg
+| imagesize=250px
+| ewot=elayne
+| ajah=Green
+| birth={{ne|981}}
+| nationality=Andoran
+| title=[[Queen]] of [[Andor]] and [[Cairhien]], [[Defender of the Realm]], [[Protector of the People]], [[High Seat]] of [[House Trakand]]
+| rank=Aes Sedai
+| hair=Reddish Golden Blonde
+| eyes=Blue
+| gender=Female
+
+| height=5'7" or 170cm
+| status=Alive
+| mentioned={{teotw|34}}
+| appeared={{teotw|39}}
+| lastappeared={{amol|e}}
+| living=amol
+}}
+{{quote|A wise ruler takes advice, but should never be seen to take it. Let them think you know more than you do. It will not harm them, and it will help you.|[[Elayne]] to [[Rand]] {{Ref/book|4|9}}}}
+{{April1
+ |joke='''Elaine Tracan't''' is a failed escape artist and fortune-interpreter.
+ |real='''Elayne Trakand''' (ee-LAIN trah-KAND) is by the Grace of the Light, [[Queen of Andor|Queen]] of [[Andor]] and [[Cairhien]], [[Defender of the Realm]], [[Protector of the People]], [[High Seat]] of [[House Trakand]], and [[Aes Sedai]] of the [[Green Ajah]].}}
+
+Elayne was born to Queen [[Morgase Trakand]] and Prince [[Taringail Damodred]], and was [[Daughter-Heir]] of Andor from birth. 
+
+==Appearance==
+[[File:Elayne by julia carl.jpeg|right|thumb|200px|Elayne Trakand by Julia Carl]]
+Elayne is described as exceedingly beautiful, with blue eyes like sapphires and red-gold, curly hair. With a smooth-skinned, perfectly oval face, Elayne can charm many with her pretty, dimpled smile with full red lips. She is 5'7" or 170cm tall. <!--- One span, six inches in WoT measurement equals five foot six in real-world measurement.--->
+
+She bears a resemblance both in name and appearance to [[Ilyena]], the doomed wife of [[Lews Therin Telamon]] from the [[Age of Legends]].
+
+==Channeling abilities and Talents==
+While customary for the Daughter-Heir of Andor to receive training at the [[White Tower]],{{ref/book|2|1}} Elayne is the only member of House Trakand in memory and the first to sit on the [[Lion Throne]] to be born with sufficient strength to become full Aes Sedai.{{ref/book|2|19}} 
+
+Elayne has a potential in the [[One Power]] of {{opsl|14}}, equal to that of Egwene al'Vere, although may not have reached this level yet.{{ref|{{twotc}}, Elayne Trakand|comp}} Only a dozen female channelers are stronger, or have a greater potential, than her, namely [[Nynaeve]], [[Alivia]], [[Sharina]], [[Talaan]], [[Tamela]], [[Viendre]], [[Someryn]] and the female [[Forsaken]]). She is the strongest channeler that the White Tower has seen in [[Strength in the One Power among Aes Sedai|over a thousand years]].
+
+As with many very strong channelers Elayne has the so called "fast learner" [[Talent]], in fact for her it is enough to see and study the forming of a [[weave]] only one or two times to memorize it and learn how to reproduce it. Elayne has not been a Novice or Accepted for long time, and surely she has not followed a normal Aes Sedai training, remaining far from the White Tower or Aes Sedai for long periods. Anyway thanks to her potential and talents she has learned quickly to use more than proficiently the One Powers, for instance copying from Egwene and Nynaeve what they did during the Battle of Falme. It can also be guessed that during their return from Falme to Tar Valon, Verin Sedai trained her and the other girls. But while Egwene was [[Forcing|forced]] by the Seanchan and so she probably has reached her full potential, the same can't be affirmed for Elayne.
+
+She has helped rediscover the ability to create ''[[ter'angreal]]'', demonstrating strength in both [[Earth]] and [[Fire]]. She is the most skilled [[Cloud Dancing|Cloud Dancer]] among the [[Rebel Aes Sedai]] due to [[Sea Folk]] [[Windfinder]] training.
+
+==Family and Background==
+The youngest child and only daughter of Queen [[Morgase Trakand]] of Andor, Elayne grew up in the Royal Palace in [[Caemlyn]]. She was [[wikipedia:Heir Apparent|Heir Apparent]] throughout her childhood, bearing the title of [[Daughter-Heir]], as only women traditionally hold the [[Lion Throne]] of [[Andor]]. She and her older brother [[Gawyn Trakand]] were fathered by [[Taringail Damodred]], as was her half brother [[Galadedrid Damodred]]. Her childhood nurse was [[Lini Eltring]].
+
+She was named after Lady [[Elayne Traemane]], the grandmother of Lady [[Ellorien Traemane]], a close ally and friend of Queen Morgase who supported her in the Third Succession War.{{ref/book|5|19}}
+
+Her personal banner is a Golden Lily on a blue field.{{ref/book|11|32}}
+{{clear}}
+===Family tree===
+
+{{RandElayneFamilyTree}}
+
+Taringail Damodred was married twice: first to Tigraine Mantear, with whom he fathered Galad Damodred, and then to Morgase Trakand who bore Gawyn and Elayne. Although Galad is half brother both to Rand and to Gawyn and Elayne, Rand is only very distantly related to Elayne by their common ancestor, as it is said that although Morgase was Tigraine's closest female line relative, the two women would not have been considered related at all if they had been commoners. 
+
+As the daughter of Taringail Damodred, Elayne is the great-niece of King [[Laman Damodred]] and the direct descendant of Queen [[Carewin Damodred]], by which she traces her claim to the [[Sun Throne]] of Cairhien. She is also the half-niece of [[Moiraine Damodred]]. She has several unnamed cousins by her aunt [[Innloine Damodred]], while on her mother's side, she is fairly closely related to Lady [[Dyelin Taravin]], her close ally and political mentor.
+[[Image:Elayne's lily.svg|left|thumb|125px|Elayne's sigil]]
+
+==Activities==
+
+As was tradition, she was sent to the [[White Tower]] for her education as Daughter-Heir, where she was enrolled as a [[novice]] after it was discovered that she had the potential to be one of the most powerful [[channelers]] of the era. She grew close to [[Egwene al'Vere]], [[Nynaeve al'Meara]] and [[Min Farshaw]], and had their first encounter with the [[Seanchan]] and [[Black Ajah]] in [[Falme]]. Elayne was raised to [[Accepted]] at the behest of the [[Amyrlin Seat]], [[Siuan Sanche]], and decided to hunt the Black Ajah in [[Tear]] with Egwene and Nynaeve.
+
+In the [[Stone of Tear]], Elayne declared her love to [[Rand al'Thor]], the [[Dragon Reborn]]. She and Nynaeve then ventured to [[Tanchico]] to save the [[Panarch]] of [[Tarabon]] from the Black Ajah. The pair subsequently made their way to [[Salidar]] while chased by [[Moghedien]], and Elayne was forced to [[bond]] [[Birgitte Silverbow]] as her [[Warder]] after she was ripped from ''[[Tel'aran'rhiod]]''. In Salidar, Elayne discovered her [[Talent]] for ''[[ter'angreal]]'' creation and made an ''[[a'dam]]'' to leash Moghedien, where she and Nynaeve had the [[Forsaken]] teach them about lost [[Weave]]s from the [[Age of Legends]]. She was raised to full Aes Sedai by Egwene as rebel Amyrlin, and though Andor was in chaos after the presumed death of Elayne's mother, she chose to seek the [[Bowl of the Winds]] in order to combat the unnatural seasons.
+
+In [[Ebou Dar]], Elayne worked with a group of Aes Sedai, [[Kin]], [[Windfinders]] and one [[Wise One]] in order to use the Bowl of the Winds and defeat the Seanchan. With her mission complete, she returned to Caemlyn to claim the throne, and although she secured the capital, many Houses would not support her due to her link with the White Tower, and the perceived tyranny of Morgase in her last year of reign. Before she secured the Lion Throne through her skill with [[Daes Dae'mar]], she bonded [[Aviendha]] as her [[first-sister]], and bonded Rand as her second Warder, falling pregnant with his twins. Elayne, Min, and Aviendha all chose to love Rand and to respect each other's love for him.
+
+After her coronation as Queen of Andor, she was also accepted as [[Monarch of Cairhien|Queen of Cairhien]] due to her paternal ancestry of the royal [[House Damodred|Damodred]] line, and to her great surprise, she learned that her mother still lived, but had privately chosen to abdicate to Elayne following her escape from [[Rahvin]]. As the [[Last Battle]] approached, Elayne was the first ruler to sign the [[Dragon's Peace]], and was given command of the forces of all nations of the [[Westlands]]. Elayne was greatly wounded by an attack led by [[Darkfriend]]s, but was saved when the [[Horn of Valere]] was sounded. She mourned Rand after the battle, but along with his other lovers, remained one of the few individuals to know that he was truly alive.
+
+For a more detailed account see [[Elayne Trakand/Chronology]].
+
+==''Ter'angreal''==
+The art of understanding and creating ''ter'angreal'' was lost to the White Tower in the time after the Age of Legends. After extensively studying an ''[[a'dam]]'', a ''[[damane]]'' leash, which she obtained during her stay in [[Valan Luca]]'s menagerie, Elayne learned how to make ''ter'angreal''. She was the first in the [[Westlands]] in a long time to be able to not only understand the workings of some ''[[ter'angreal]]'', but also be able to duplicate or create them.
+
+Along with the ''a'dam'' Elayne was able to duplicate a number of ''ter'angreal'' that would allow access to ''Tel'aran'rhiod'' by examining existing ones recovered from the Black Ajah. She did the same with Mat's medallion even if the new ones were not as fully functioning as the original, probably needing to link to a male channeler to provide the other half of the source.
+
+By herself Elayne invented a new ''ter'angreal'' in the shape of a [[green stone disc]], which permitted a female channeler not strong enough to make herself invisible to do so.
+
+==Rand al'Thor==
+[[File:Aviendha Elayne and Min.jpg|thumb|left|Elayne, Min and Aviendha  by Liz Stephanoff.]]
+
+{{Quote|Aviendha and Min were different. They were part of her. In a way, they were her, and she them.|Elayne, Winter's Heart}}
+
+Elayne is one of three women who love Rand al'Thor, along with Aviendha and Min. Elayne and Aviendha have a particularly strong friendship, and adopted each other as [[first-sisters]] in the Aiel fashion, and as such are able to sense each other to a degree.{{ref/book|9|prologue}} The three women are close friends and have agreed to share him, recently bonding him as their mutual Warder. Shortly thereafter, she and Rand spent some time together alone in Elayne's room, almost immediately demonstrating one of the downsides of the Warder bond and leading Birgitte, Min and Aviendha to get blinding drunk as soon as possible. According to Min's visions, Elayne is now carrying Rand's twin children, one of each sex, and they will be born healthy. Elayne uses that vision to go into dangerous situations under the belief that no harm can come to her or the babies until they are born, since what Min "[[Min's viewings|views]]" inevitably comes to pass.
+
+Elayne, Min and Aviendha were all able to feel that Rand was still alive after his supposed death and funeral.
+
+==Parallels==
+Elayne is a reference to the name [[Wikipedia:Elaine (legend)|Elaine]], which was the name of several different noblewomen in Arthurian legend, including Elaine of Garlot (one of King Arthur's three half-sisters, along with Morgan le Fay and Morgause) and Elaine of Corbenic (the mother of Galahad by Lancelot).
+
+In Irish mythology, [[wikipedia:Ellén Trechend|Ellén Trechend]] is a three-headed monster. While Elayne is no monster, she is one of three women linked with a Dragon.
+
+Similarly, Jordan borrowed heavily from ideas in [[wikipedia:Robert Graves|Robert Graves]]' [[wikipedia:The White Goddess|The White Goddess]] which dealt with the idea of the [[wikipedia:Triple Goddess (Neopaganism)|Triple Goddess]], commonly referred as the "mother, maiden and crone" archetypes.{{ref|{{origins}}}} Elayne is the Mother, both because she is pregnant with Rand's children for the last few books, but also because she is seen as "Protector of the Realm."
+
+==In the television series==
+*In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Elayne Trakand}} is played by actress {{TVlink|Ceara Coveney}}.
+
+==External links==
+*{{TVlink|Elayne Trakand}} on {{TVlink}}
+
+{{DEFAULTSORT:Trakand, Elayne}}
+
+{{Primary Protagonists}}
+{{notes}}
+[[it:Elayne Trakand]]
+[[es:Elayne Trakand]]
+[[Category:Queens]]
+[[Category:Rulers]]
+[[Category:Ladies]]
+[[Category:High Seats]]
+[[Category:Andor (people)]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Farm Group]]
+[[Category:Notes needed]]
+[[Category:Nobility]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Royalty]]
+[[Category:Sparkers]]
+[[Category:POV character]]
+[[Category:Dragonriders]]

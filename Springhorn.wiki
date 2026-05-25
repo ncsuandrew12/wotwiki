@@ -1,0 +1,18 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=Springhorn
+| name=Springhorn
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Unknown
+| appeared={{wh|2}}
+}}
+{{dablink|For other uses of the word "spring," see [[Spring]].}}
+'''Springhorn''' is a leader of a pack of [[wolf|wolves]].
+
+==Activities==
+Springhorn, along with [[Three Toes]], [[Cold Water]] and [[Twilight (wolf)|Twilight]] are contacted by [[Perrin Aybara]]. He wants them to help him search for his wife, [[Faile Bashere]]. They are unable to help.{{ref/book|9|2}}
+
+{{notes}}

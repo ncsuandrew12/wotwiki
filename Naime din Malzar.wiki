@@ -1,0 +1,34 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| status=Alive
+| appeared={{tpod|5}}
+| lastappeared={{tpod|5}}
+| lastmentioned={{tpod|5}}
+| living=tpod
+}}'''Naime din Malzar''' is a [[Sea Folk]] [[Windfinder]].{{ref|{{twotc}}, Naime din Malzar}}
+
+== Appearance ==
+She is dignified with a quiet air of command.{{Ref/book|8|5}}
+{{ref|{{twotc}}, Naime din Malzar}}
+
+== History ==
+She is of relatively high rank among the Windfinders. Judging by number of medallions on her honor chain, she is placed above [[Rainyn din Burun]] and on a level with [[Rysael din Yulan]].{{Ref/book|8|5}}
+
+==Abilities==
+Naime is strong in the [[One Power]] compared to most Aes Sedai and has a One Power level of {{opsl|22}}. This is strong enough for her to be able to [[Travel]].{{ref|{{twotc}}, Naime din Malzar}}
+
+== Activities ==
+She is one of the thirteen women making up the circle who operate the [[Bowl of the Winds]] in order to fix the weather.{{Ref/book|8|5}}
+
+
+She Travelled with [[Elayne Trakand]] to [[Caemlyn]], although is not mentioned by name after using the Bowl of the Winds.{{ref|{{twotc}}, Naime din Malzar}} 
+
+{{notes}}
+{{short}}
+[[Category:Farm Group]]
+[[Category:Channelers]]

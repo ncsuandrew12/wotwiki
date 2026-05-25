@@ -1,0 +1,8 @@
+{{Image
+| License                 = GFDL
+| ImageType1              = Character
+| ImageType2              = Fan Art
+| Description             = Fan art of [[Yukiri Haruna]]
+| Source                  = https://dragonmount.com/news/fan-art-friday/fan-art-friday-a-deeper-look-into-jieroque39s-gallery-r712/
+| Artist                  = Benjamin Roque
+}}

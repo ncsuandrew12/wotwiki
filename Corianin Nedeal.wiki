@@ -1,0 +1,28 @@
+{{character 
+| image=Flame-icon.svg
+| imagesize=250px
+| ewothist=Corianin Nedeal
+| gender=Female
+| death={{ne|526}}
+| nationality=Unknown nationality
+| ajah=Unknown
+| rank=Aes Sedai
+| status=Dead
+| mentioned={{tdr|21}}
+| lastmentioned={{tfoh|15}}
+}}'''Corianin Nedeal''' was an [[Aes Sedai]] and, prior to [[Egwene al'Vere]], the last known [[Dreamer]]. She died in the year [[526 NE]].
+
+== History ==
+She studied ''[[Tel'aran'rhiod]]'' in detail for at least fifty years, as well as many ''[[ter'angreal]]'' related to ''Tel'aran'rhiod'' and Dreaming, in particular the [[sleepweaver]] that Egwene uses to enter ''Tel'aran'rhiod'' before her training with the [[Wise One]] [[dreamwalker]]s and later on by [[Nynaeve al'Meara]], [[Elayne Trakand]], [[Siuan Sanche]], [[Leane Sharif]], and eventually the rest of the [[Aes Sedai]] in [[Salidar]]. [[Verin Mathwin]] found the ring and a collection of her notes only by chance;{{ref/book|3|21}} all records of the ''ter’angreal'' had been removed from the official records. Verin thinks that Corianin was a very secretive woman. She kept most of her knowledge to herself, leaving most of what she had learned only in her notes.
+
+This brings into question how much information Corianin withheld from the [[White Tower]] in her research. Given that Verin withheld the notes at the same time she was assisting Egwene in her search for members of the [[Black Ajah]], Verin could have been caught between her Black Ajah oaths and the [[Amyrlin Seat|Amyrlin's]] command to help Egwene (violating which would have also meant violating the oaths). In that case, it is entirely possible Corianin was herself Black Ajah and that her notes proved it, or that somehow the notes, or how she came to possess them, would show Verin to be a Black sister.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Nedeal, Corianin}}
+
+[[es:Corianin Nedeal]]
+[[Category:Dreamwalkers]]
+[[Category:Historical people]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

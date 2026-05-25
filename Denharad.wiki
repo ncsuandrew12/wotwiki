@@ -1,0 +1,20 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| rank=Lance-Captain
+| occupation=Soldier
+| affiliation=Dragon Reborn
+| gender=Male
+| appeared={{Tpod|23}}
+| lastappeared={{tpod|24}}
+| living=tpod
+}}
+'''Denharad''' is the Lance-Captain of [[Ailil Riatin]]'s forces. 
+
+== Appearance ==
+He is a pale little man.
+
+== Activities ==
+He is in [[Rand al'Thor]]'s army which fight against the [[Seanchan]] trying to invade [[Illian]].

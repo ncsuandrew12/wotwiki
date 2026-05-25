@@ -1,0 +1,9 @@
+<includeonly>{{#if:{{{1|}}}
+  | '''See also:''' {{#if:{{{2|}}}
+    | [[{{{1}}}|{{#switch: trim | {{{2|}}} }}]]
+    | [[{{{1}}}]]
+  }}
+  |{{err|'''Missing Parameter:''' Blood and bloody ashes! You forgot to specify a Page!}}
+}}</includeonly><noinclude>
+{{Documentation}}
+[[Category:Linking templates|{{PAGENAME}}]]</noinclude>

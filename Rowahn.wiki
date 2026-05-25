@@ -1,0 +1,28 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| gender=Male
+| occupation=
+| affiliation=
+| height=Tall
+| build=
+| hair=
+| status=Foreseen
+| clan=Unknown clan
+| sept=Unknown sept
+| mentioned={{tom|48}}
+}}
+
+'''Rowahn''' will be a distant descendant of Aviendha and Rand. He is seen by [[Aviendha]] in the [[Glass columns]] of [[Rhuidean]]. He is the father of [[Tava]].
+
+== Ancestry and potential descent of Padra ==
+[[Aviendha]] and [[Rand al'Thor|Rand]] ↠ [[Padra]] ↠ [[Oncala]] ↠ [[Ladalin]] ↠ ? ↠ ? ↠ '''Rowahn''' ↠ [[Tava]] ↠ ? ↠ [[Norlesh]] ↠ ? ↠ [[Malidra]]
+
+== History ==
+
+In his time, almost all Aiel ways have been abandoned, but he still wears the [[cadin'sor]] and keeps himself clean shaven. He doesn't keep completely though, and picks up a [[Seanchan]] sword when he has the opportunity. 
+
+When the Seanchan destroy his hold, he tries to keep the survivors together to regroup but they refuse and go their own way.
+[[Category:Foreseen people]]
+[[Category:Short pages]]

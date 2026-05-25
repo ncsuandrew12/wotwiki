@@ -1,0 +1,24 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| occupation=Damane
+| status=Alive
+| nationality=Seanchan
+| gender=Female
+| appeared={{tgs|p}}
+| lastappeared={{tgs|p}}
+| living=tgs
+}}
+'''Tabi''' is a ''[[damane]]'' in the [[Seanchan]] army. Her ''[[sul'dam]]'' is [[Surya]].
+
+== Appearance ==
+She has pale eyes.
+
+== Activities ==
+She is present at the meeting between the [[Dragon Reborn]] and the [[Daughter of the Nine Moons]], when it was revealed that the latter was actually [[Semirhage]] in disguise.
+
+{{short}}
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Ever Victorious Army]]
+[[Category:Channelers]]

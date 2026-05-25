@@ -1,0 +1,43 @@
+'''[[{{GregoriantoFarede|{{CURRENTMONTHNAME}} {{CURRENTDAY}}}}]]'''
+{{#ifexist: {{CURRENTMONTHNAME}} {{CURRENTDAY}}|{{:{{CURRENTMONTHNAME}} {{CURRENTDAY}}}}|''Nothing happened today.''}}
+<noinclude>{| align="center"
+! colspan="4" bgcolor="#BBBBFF" |Gregorian calendar
+|-
+| {{Month|January}}
+| {{Month|February}}
+| {{Month|March}}
+| {{Month|April}}
+|-
+| {{Month|May}}
+| {{Month|June}}
+| {{Month|July}}
+| {{Month|August}}
+|-
+| {{Month|September}}
+| {{Month|October}}
+| {{Month|November}}
+| {{Month|December}}
+|}
+<br>
+{| align="center"
+! colspan="5" bgcolor="#BBBBFF" |[[Farede calendar]]
+|-
+| {{Wotmonth|Taisham}}
+| {{Wotmonth|Jumara}}
+| {{Wotmonth|Saban}}
+| {{Wotmonth|Aine}}
+|-
+| {{Wotmonth|Adar}}
+| {{Wotmonth|Saven}}
+| {{Wotmonth|Amadaine}}
+| {{Wotmonth|Tammaz}}
+|-
+| {{Wotmonth|Maigdhal}}
+| {{Wotmonth|Choren}}
+| {{Wotmonth|Shaldine}}
+| {{Wotmonth|Nesan}}
+|-
+| {{Wotmonth|Danu}}
+|}
+[[Category:Dates| OTD Template]] [[Category:Utility templates|{{PAGENAME}}]]
+</noinclude>

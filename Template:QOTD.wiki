@@ -1,0 +1,4 @@
+{{#invoke:QotD|quote_of_the_day|tags={{{tags|{{{1|}}}}}}}}
+[[Quotes|More quotes]]<noinclude>{{Documentation}}
+[[Category:Quotation templates|{{PAGENAME}}]]
+</noinclude>

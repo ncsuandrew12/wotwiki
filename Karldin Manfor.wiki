@@ -1,0 +1,45 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=200px 
+| ewot=Karldin
+| nationality=Andoran
+| rank=Asha'man
+| occupation=Asha'man
+| affiliation=The Dragon Reborn
+| gender=Male
+| hair=Pale
+| status=Dead
+| appeared={{acos|2}}
+| lastappeared={{amol|37}}
+| living=amol
+}}'''Karldin Manfor''' was an [[Asha'man]].{{ref|{{twotc}}, Karldin Manfor}}
+
+== Appearance ==
+He was narrow-faced with pale hair.
+
+== Activities ==
+He was one of the first to arrive at the farm that would be called the [[Black Tower]].
+
+After the [[Battle of Dumai's Wells]], he was one of the Asha'man to be selected by [[Rand al'Thor]] to accompany him to [[Cairhien]].
+Rand sent him to escort [[Loial]] and [[Traveling|Travel]] to all the ''[[stedding]]s'' and warn the Elders about [[Shadowspawn]] using the [[Waygate]]s.
+
+He arrived back in Cairhien with Loial looking for Rand. [[Samitsu Tamagowa]] and [[Sashalle Anderly]] found them hiding in the Sun Palace kitchen when they all were warned of the murder of the Steward of Cairhien. They arrived on the scene just after [[Dobraine Taborwin]] was stabbed and nearly murdered in his chambers. He found a note indicating the assailants were looking for something.
+
+In Cairhien, Karldin was also found by the group lead by Logain and Bashere that was also in search of Rand. Using the warder bond of some of the Warders left in the city by the sisters sworn to Rand, they were able to track the Dragon to Tear, at the Pendaloan estate.
+
+Some time after, Karldin was sent by the Dragon to accompany [[Davram Bashere]] on one of his embassies to the [[High Lady Suroth]] in [[Ebou Dar]], thus likely missing the massive [[Trolloc]] and [[Myrddraal]] raid on the estates of [[House Pendaloan]] in [[Tear]].
+
+He was [[Bonding|bonded]] as [[Warder]] to the [[Aes Sedai]] [[Beldeine Nyram]], as well as raised to the rank of Asha'man by Rand.
+He watched Rand's meeting with the [[Daughter of the Nine Moons]] from a distance and Traveled in as backup when it was revealed that the Daughter of the Nine Moons was actually [[Semirhage]].
+
+He was in [[Cadsuane Melaidhrin]]'s room in Tear when Beldeine was shot down by [[Min Farshaw]] and Cadsuane. Beldeine got up and left in a huff and Karldin left with her.
+
+He died in the [[Tarmon Gai'don|Last Battle]] at the [[Field of Merrilor]], falling to the ground, completely exhausted from over-wielding ''[[saidin]]''. He was stabbed to death by [[Sharan]]s mere moments before Beldeine met the same fate.
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Manfor, Karldin}}
+[[es:Karldin Manfor]]
+[[Category:Warders]]
+[[Category:Learners]]
+[[Category:Channelers]]

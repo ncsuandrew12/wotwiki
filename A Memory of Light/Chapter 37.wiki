@@ -1,0 +1,768 @@
+{{dablink|For the actual battle, see [[Tarmon Gai'don]]. For other uses of the word "battle," see [[Battle]].}}
+{{summary | book=14 
+|chapter=37
+|title=The Last Battle
+|icon=Aessedai
+|setting=The [[Field of Merrilor]], the [[Blight]], and outside the [[Wheel of Time]]
+}}
+
+[[File:Ta'veren.png|thumb|center|325px|''[[Ta'veren]]'', [[Rand]], [[Mat]] and [[Perrin]] lead the Forces of the Light]]
+
+==Summary==
+
+===Act I: ''Cauthon's Gambit''===
+
+
+:{{pov|[[Lan Mandragoran]]}} 
+Setting: [[River Mora]], [[Hawal Ford]] 
+
+Lan and [[Andere]] ride to the River Mora where they are to lead the cavalry as the frontline against the [[Trolloc|Trollocs]] and [[Shara|Sharans]]. They see [[Logain Ablar|Logain]] there, with a group of [[Asha'man]] and [[Aes Sedai]]. They cross at Hawal Ford and attack the Sharans riding between bogs and Polov Heights.
+
+:{{pov|[[Elayne Trakand]]}} 
+
+Setting: [[Dashar Knob]] 
+
+Elayne hears [[Draghkar]] in the [[Seanchan]] camp at the base of Dashar Knob and starts riding towards the noise. [[Birgitte Silverbow|Birgitte]] alerts her and she weaves a thunderclap, deafening those around her and rendering the Draghkar's call useless. They ride into the camp and see over a hundred of the Draghkhar. After destroying the creatures, Elayne [[Healing|Heals]] Birgitte's hearing and then directs her to tell one of the ''[[damane]]'' to Heal her own broken ear drums, then sends them to Heal the others in the camp. 
+
+She enters the command building, where [[Mat Cauthon|Mat]] tells her he had been expecting her. [[Tuon Athaem Kore Paendrag|Tuon]] and [[Min Farshaw|Min]] are also in the tent, and Elayne explains that Draghkar were in his camp when a messenger enters and explains the archer bank is down. Elayne is upset Mat hasn't shared his plan with her, but he explains that if he had revealed the true battle plan, it would have got back to the enemy. She asks what the real plan is, but he refuses to tell her. She realizes that he can't say anything as it might be overheard.
+
+:{{pov|[[Uno Nomesta]]}} 
+
+Setting: [[Polov Heights]] 
+
+On the Heights, Uno watches the battle begin to unfold, with [[Talmanes Delovinde|Talmanes]] and [[Aludra]] ordering the [[dragons]]. They are holding the hill and Uno believes they can continue to hold it when a ''[[raken]]'' drops a message telling him to retreat down the southwestern slope. Uno doubts the order but follows it anyway. They begin to retreat when they come under attack from the Sharans. Lightning rains down on them overwhelming the Aes Sedai and Asha'man defenders, even destroying some of the dragons. An immense gateway opens behind them and they see [[Demandred]], who weaves balefire, killing [[Kwamesa Taramasu|Kwamesa]] Sedai and the Asha'man, [[Einar]]. Uno then understands the wisdom of the order to retreat and organizes his men.
+
+:{{pov|[[Logain Ablar]]}} 
+
+Setting: [[River Mora]] 
+
+Logain stands by the Mora, he releases the power from what had been a thirty-nine person circle and tells the Asha'man and Aes Sedai with him that Rand's final order was to find the three [[Seven Seals|Seals]] that [[Mazrim Taim|Taim]] has stolen. He tells them to kill any male channelers they encounter and most go, leaving just [[Gabrelle Brawley|Gabrelle]] Sedai and the two Asha'man, [[Karldin Manfor|Karldin]] and [[Arel Malevin|Arel]]. 
+
+He tells Gabrelle that he has released the bond to [[Toveine Gazal|Toveine]], who has been [[Turning|Turned]], and that he will kill her if he gets the chance. He is shocked when he feels envy through the bond to Gabrelle and thinks on how she had been trying to manipulate him. He links with those remaining, drawing through the ''[[angreal]]'' that [[Rand al'Thor|Rand]] had given him and tells them he means to be the one to kill Taim.
+
+:{{pov|[[Gawyn Trakand]]}} 
+
+Setting: [[Field of Merrilor]] 
+
+Gawyn watches the battle through a gateway, made invisible to the other side, created by [[Yukiri Haruna|Yukiri]]. [[Gareth Bryne|Bryne]] suggests that Mat is trying to bait a trap. They see Demandred kill thousands of men, but there is nothing they can do, as even if they had their own full circle, they couldn't match his power. 
+
+Gawyn thinks that he had promised himself he would stand in [[Egwene al'Vere|Egwene]]'s shadow, but that didn't mean he had to stop doing important work. He takes out the [[Bloodknife ring|rings]] he got from the [[Bloodknife|Bloodknife assassins]] and puts them on.
+
+:{{pov|[[Tam al'Thor]]}} 
+
+Setting: [[River Mora]] 
+
+On the south bank of the Mora, Tam fires arrows at Trollocs that are trying to cross. Tam thinks on Perrin being found, bloodied and almost dead, but thankfully is now safe in [[Mayene]] after being Healed. He is unsure if Perrin will be able to rejoin the battle. 
+
+[[Dannil Lewin|Dannil]] arrives and tells him that Mat is sending infantry banners from the [[Legion of the Dragon]] to try and ensure that Tam's men are able to hold their positions. Tam says he will make sure [[Gerard Arganda|Arganda]] and [[Galad Damodred|Galad]] know to expect reinforcements.
+
+:{{pov|[[Pevara Tazanovni]]}} 
+
+Setting: [[Hawal Ford]] 
+
+Pevara fights Trollocs at Hawal Ford. She tells [[Androl Genhald|Androl]] her location through their bond and he comes to her through a gateway with [[Emarin]]. They have been fighting the Sharan army. They move along the southwestern base of the Heights, saving a group of soldiers on the way. They join [[Jonneth Dowtry|Jonneth]], [[Taril Canler|Canler]] and [[Theodrin Dabei|Theodrin]] and move through another gateway. 
+
+Pevara and Androl link and they continue to fight, Androl killing Trollocs and [[Myrddraal]] through the creative use of gateways. Lightning strikes at them and Androl loses his gateway, but despite being linked, Pevara is able to weave her own gateway and they all pass through to safety.
+
+:{{pov|[[Mat Cauthon]]}} 
+
+Setting: Command Post at [[Dashar Knob]] 
+
+Galad complains about Mat's decisions, but Mat tells him to do as he is told and hold the river. He agrees coldly. 
+
+Elayne also complains, but Mat responds that they put him in charge so they should let him do his job. Elayne responds with the somewhat petty argument that they made him commander of the armies but that he isn't in charge. Mat sees Min telling Tuon something and when asked what it was, she says she saw Galad lying alone on a field, as if dead. Tuon and Elayne both agree the battle is concerning and the Shadow's general is very good.  
+
+He sends the [[Ogier]] in as reinforcements at the ford and instructs Lan to swing round behind the second Trolloc army at the ruins and hold position without engaging them. Mat sends coded orders to Talmanes referencing a past bet between them. He uses his looking glass and sees that the Sharans have moved to intercept Lan, before Lan even receives his order and realizes there is a spy in the command tent. Talmanes sends a response that his forces cannot fight and that the dragons need repairing, thereby fooling the spy into thinking they had no dragons for use. There are five or six that are functional and more that can be repaired, but Mat decides to wait before deploying them as once he does, Demandred will strike immediately. 
+
+He goes outside the command tent to talk to Elayne, who weaves a ward against eavesdropping. He tells her of the spy and that he plans to use it. He tells her that the battle is a little like cards, that you want your opponent to think they are winning and start betting too high, so that you can take advantage when the right hand comes along. He tells her that Demandred has sent a force to block the river, which will succeed before long and that they need a solid defense in place when they come over the river bed. Elayne says she will go. Mat goes back in the command tent thinking that Talmanes understood his signal and that Elayne is doing what he wanted, so now he just has to persuade [[Fortuona Athaem Devi Paendrag|Tuon]].
+
+===Act II: ''The Shadow's Dragon''===
+
+:{{pov|[[Galad Damodred]]}} 
+
+Setting: [[River Mora]]
+
+Galad leads the [[Children of the Light|Whitecloak]] cavalry against the Trollocs. After the charge, he searches out small groups of isolated men and orders them to the ruins so they can be formed into new banners. He thinks he might have given Mat too little credit. He tells [[Berab Golever|Golever]] that he doesn't expect the Trollocs to stop for the night and sees the river go dry. At that he realizes he did give Mat too little credit. Golever hands him a letter from Mat instructing him to move to Hawal Ford and to wait for more orders once he sees Elayne's banner.
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: Outside the [[Pattern]]
+
+The Dark One attacks Rand's very essence, but Rand is able to hold himself together with great difficulty. He then shows Rand a possible future in which the Blight has overrun the world. He sees Tam, [[Jori Congar]] and [[Dannil Lewin]] working on a tree stump. Insects swarm out of it and kill Jori. Tam runs and crashes through a nearby thicket but a vine reaches down and wraps itself around Tam's neck. Rand is only able to reach a trickle of the Source and destroys the vine, but Tam is already dead. Seeing he can channel, Dannil, who no longer knows Rand, takes him to [[Nynaeve al'Meara|Nynaeve]], who then takes him to be Turned. 
+
+He learns that in this reality, Nynaeve, Egwene, [[Cadsuane Melaidhrin|Cadsuane]] and Logain have all been Turned and were now Forsaken, and that Elayne, [[Aviendha]], and [[Min Farshaw|Min]] are endlessly tortured. Moiraine was killed for being too weak. He refuses the reality of the world and it shatters. He takes the threads of the Pattern and tells the Dark One he will show him what is going to happen.
+
+:{{pov|[[Egwene al'Vere]]}} 
+
+Setting: [[Field of Merrilor]]
+
+Egwene sees tiny cracks in the rocks and Yukiri tells her they think they are a result of balefire. She looks at them in detail and sees they look into pure nothing. She weaves and heals them turning them into normal cracks, before noticing that Gawyn is missing. Bryne and Yukiri go to look for him and she sends [[Siuan Sanche|Siuan]] to Mat and Tuon, to hear what is being said and better, what is not being said. 
+
+Egwene goes through a gateway and speaks with Captain [[Jimar Chubain|Chubain]] who says at first he thought Mat was mad, but he is now able to see his reasoning for some of what he has done, but does not understand why Mat abandoned the Heights only to assault them again.
+
+:{{pov|[[Gawyn Trakand]]}} 
+
+Setting: [[Polov Heights]]
+
+Gawyn walks through the battlesite. He kills a Trolloc that is carrying the body of [[Symon]] and immediately regrets it as he could have been spotted. 
+
+He sees where Demandred is and runs after him with the cover of the rings, thinking that someone had to kill the Forsaken and that Egwene and Logain can't be risked, but he can. He sees Demandred and plans to sneak up on him, pull him off his horse and kill him, but Demandred senses him and turns around, aiming balefire at Gawyn, which misses. 
+
+He strikes Demandred's horse and prepares to kill him after he is thrown off. A blast of air saves Demandred and the two begin to fight, Demandred waving off the Sharans. Gawyn does well at first, with the edge the rings gives him, but despite the extra speed, is unable to land a hit on Demandred. Demandred channels to throw a rock at Gawyn, hitting him, before telling Gawyn that he is the savior and that Rand is mad, as the Great Lord cannot be defeated. He says he will protect the world by destroying it and sheltering its people. 
+
+He also tells Gawyn that he believes that Mat is actually [[Lews Therin Telamon|Lews Therin]] as no mortal general would have the skill Mat has shown. He tells Gawyn that his weakness is that he wields the sword, rather than becoming it. 
+
+He stabs Gawyn in the stomach and tells him that if he survives, he should tell Lews Therin that Demandred is looking forward to a match between the two and has improved since they last met. 
+
+Demandred leaves him to bleed out. Gawyn pulls himself onto a horse and rides off.
+
+:{{pov|[[Faile t'Aybara]]}} 
+
+Setting: The [[Great Blight|Blight]]
+
+[[Mandevwin]] insists that [[Chel Vanin|Vanin]] and [[Harnan]] are not [[Darkfriend|Darkfriends]]. Faile assumes he must be wrong. She looks up at Thakan'dar and thinks she will get the [[Horn of Valere|Horn]] to Shayol Ghul. [[Selande Darengil|Selande]] and [[Arrela Shiego|Arrela]] arrive from scouting and tell her they have seen a caravan.
+
+They see a village in the foothills of Thakan'dar and that there is a central supply station not far from it. A gateway opens and men trudge through with carts. Faile and Mandevwin think that sneaking through the gateway might be their best option. They see a group of [[Samma N'Sei]] and realize they won't be able to sneak past them so retreat to plan their next move.
+
+:{{pov|[[Perrin Aybara]]}} 
+
+Setting: [[Mayene]]
+
+Perrin wakes in [[Berelain sur Paendrag Paeron|Berelain]]'s palace. The [[Wise One]] [[Janina]] tells him to lie down. Berelain tells him she has taken precautions to prevent the problems that occurred last time he spent the night in her care. He sees Uno sitting nearby and is told he has been unconscious for ten hours. He asks Janina if she can wash away his tiredness, but she says even if she knew how she wouldn't as he needs rest. He tries to get up but realizes he is exhausted and cannot even stand. Perrin confirms with Berelain that his message about the great captains was received. He learns that the armies now fight at the Field of Merrilor and although Faile vanished in a bubble of evil, her body has not been found, so he insists she is still alive.  
+
+He reluctantly falls asleep, and considers one of the three possibilities: the wolf dream, the wolf dream in the flesh, and true sleep. He comes to the conclusion he needs true sleep or he will die.
+
+:{{pov|[[Androl Genhald]]}} 
+
+Setting: Away from the [[Field of Merrilor]]
+
+The group rest and Heal their injuries while planning their next move. Androl opens a few gateways to provide Pevara with first water, then hot tea and she calls him wonderful. He thinks he is falling in love with Pevara and is amused as he had thought love a thing for the young. 
+
+Pevara tells him that if they are going to get the Seals from Taim, they will have to use stealth. Then she asks Androl how crazy he can be, if the situation warrants.
+
+:{{pov|[[Rhuarc]]}} 
+
+Setting: [[Shayol Ghul|Thakan'dar]]
+
+[[Rhuarc]] stalks through Thakan'dar hunting [[Shadowspawn]] and Samma N'Sei, who he thinks of as the Honorless. He and his companions come across a group that are unable to channel. They slay them, but [[Trask]] is killed. He sneaks up on one of the red veiled men who is able to channel and kills him. He thinks that the Aes Sedai and Asha'man are tiring. 
+
+[[Hessalam]] appears and uses compulsion on him, turning him into her adoring slave.
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: A Possible Future
+
+Rand walks through a large city in what was the Two Rivers in a world he has constructed. The city is ruled by Perrin and Faile's grandchildren. There is a monument for all who died in the Last Battle. The Dark One tells him he has not eliminated suffering and that his vision is flawed. The Dark One attacks and the world becomes just a possibility.
+
+:{{pov|[[Silviana Brehon]]}} 
+
+Setting: [[Polov Heights]] Corridor
+
+Silviana attacks the Sharans with fire. The Tower forces have split in two, the infantry attacking on the heights and the other half, the cavalry, to the corridor between the bogs and the heights to attack the rear flank of Trollocs attacking the first group. 
+
+She sees Egwene go pale and thinks she is under attack, but Egwene tells her that Gawyn has been injured. Egwene wants to go after him, but Silviana says it is too dangerous and suggests that Egwene pass the bond to her, but she refuses. 
+
+:{{pov|[[Elayne Trakand]]}} 
+
+Setting: [[River Mora]]
+
+Elayne looks across the riverbed to the Heights, where a large number of Sharans have gathered. Birgitte tells her she now only has memories of her current life. 
+
+Galad asks her why Mat wanted him there, but she has no idea. A messenger arrives with a note from Mat telling Galad to "do what has to be done," along with a copy of Mat's medallion that Elayne made. They don't understand, so Galad turns the page over, and sees a postscript clarifying that he is to go and kill as many Sharan channelers as he can. 
+
+Bryne also arrives, to tell her that Gawyn had gone that way but no one knows where he is.
+
+:{{pov|[[Mat Cauthon]]}} 
+
+Setting: Command Post at [[Dashar Knob]]
+
+Mat looks out on the battle, with the Trollocs crossing the riverbed, under fire from Tam's men. He hopes Tam can hold long enough for Lan and the Borderlanders to strike the rear flank. 
+
+Logain enters and Mat tells him he needs the Asha'man to help the Aes Sedai. Logain tells him it is not his war, but Mat replies it is everyone's war. He says he and his men should be at [[Shayol Ghul]], but Mat realizes he doesn't really mean this. Logain tells him that none of them are able to face Demandred and Mat then understands Logain wants to. Mat knows that he has to do something about Demandred, and that even though Logain stands little chance, he may be a distraction at least, so gives him permission. 
+
+He suggests to Tuon that they move her to safety, but she says she can protect herself, choosing the matter as something to fight over so that Mat can fake a split with the Seanchan. Two guards enter and Mat notices that there is a gray man with them. He sees him pull out a knife as [[Mika]] shouts that there is channeling nearby.
+
+:{{pov|[[Min Farshaw]]}} 
+
+Min throws herself at Fortuona, tipping over her chair as [[Ayyad]] and other Sharans come though a hole they create in the wall. She sees Tuon abandon her costume for sleek silken trousers and shirt and run to Mat. 
+
+Min steps through the hole and runs round the building, encountering a male Ayyad, who catches a knife she throws at him, before being killed by Siuan stopping his heart. She tells Siuan that she was supposed to stay near Bryne if she wanted to live. Siuan says she did that already and they saved each other's lives. Min tells her the danger still exists. Siuan tells her it is more important to save Mat, even if it costs both their lives. They see Mat fighting three gray men, and one surviving ''damane'' who won't do anything as her ''sul'dam'' is dead. 
+
+Min sees one of the gray men has left Mat and is about to kill Tuon. She saves her as Siuan helps Mat.
+
+With the command post on fire, they must flee. She regretfully sees Siuan is dead then gets outside the tent with Mat and Tuon.
+
+:{{pov|[[Egwene al'Vere]]}} 
+
+Setting: [[Polov Heights]] Corridor
+
+Egwene instructs the Aes Sedai with her to try and stop the Sharans' weaves while she attacks, intending to fight her way through them to Gawyn. 
+
+:{{pov|[[Demandred]]}} 
+
+Setting: [[Polov Heights]]
+
+Demandred watches the battle through the eyes of a falcon as ravens are shot down by the Borderlanders. He thinks it should give him an unsurmountable advantage, but the gateways that look down on the battle even things out. He considers Traveling to the command post at Dashar Knob but is concerned it might be a trap. 
+
+He wonders why the resistance encountered when diverting the river was only a small unit of soldiers and townspeople. 
+
+He looks to his side and sees [[Shendla]], with three other women and thinks that his affection for her is almost enough to change his heart. [[Galbrait]], the leader of the Ayyad tells him she failed and that Mat escaped, but he says she wasn't supposed to kill him because he is beyond her skill. It is enough that she disrupted his command post. 
+
+Demandred still suspects that Mat is Lews Therin in disguise, but feels he can't prove it. He thinks that to truly master battle tactics takes centuries. He admits to himself that in general, Lews Therin was more accomplished than he was, but that Demandred was the better general. He thinks that if Cauthon really is Lews Therin, he is a better general than he was in the [[Age of Legends]]. 
+
+He wonders when Mat will commit the ''damane'' and if he can widen the fracture between them and the Aes Sedai. The three Ayyad leave and he asks Shendla if she is worried, fighting alongside Trollocs and Halfmen despite not having given herself to the Shadow. She tells him she doesn't see his actions as evil, as he will remake the world and preserve her people. He briefly wonders what he will do once Lews Therin is dead and the world has been remade. 
+
+[[Mazrim Taim|M'Hael]] arives, through a [[True Power]] gateway. He mocks Demandred for losing the battle near the ruins and Demandred shields him with a True Power shield and pulls energy out of him. The intense use of the True Power begins to unravel the Pattern. He tells Taim to keep away from him, from Lews Therin, and from the enemy general, but other than that he doesn't care what chaos he creates . He turns and weaves balefire from the True Power, destroying hundreds of the forces of the Light. He tells Taim to go and is amazed that he is able to Travel with the True Power.
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: [[Pit of Doom]]
+
+Rand resists the “wind” and feels as if it took millennia. He watches the threads of the Pattern and realizes that when the Dark One touches the Pattern, he is somehow restricted by reality. However, it is the Dark One who owns the dead.  
+
+The Dark One tells Rand he will win eventually and prepares to show him another possible future.
+
+:{{pov|[[Juilin Sandar]]}} 
+
+Setting: Base of the [[Polov Heights|Heights]]
+
+Juilin wishes he was at home with [[Amathera Aelfdene Casmir Lounault|Thera]] hunting criminals and thieves. He is no commander. Alas, he leads his squad of pikemen against a Sharan troop.
+
+:{{pov|[[Pevara Tazanovni]]}} 
+
+Setting: [[Polov Heights]]
+
+Androl and Pevara, wearing inverted [[Mirror of Mists|Mask of Mirrors]] walk through Darkfriends, Shadowspawn and Sharans. She is not pleased when he tells her she looks good in black. Androl is disguised as [[Varil Nensen|Nensen]] and [[Algarin Pendaloan|Emarin]] as [[Kash]]. Pevara is disguised as [[Alviarin Freidhen|Alviarin]] and Theodrin as [[Rianna Andomeran|Rianna]], with Jonneth simply as a Darkfriend. 
+
+Pevara wonders about some of the battle tactics and Androl is able to telepathically explain some of what is going on. An old man interrupts them and says he will take them to the Wyld. She thinks on how she had intended to take multiple Asha'man warders, but can't continue her train of thought as it is interrupted by Androl's jealousy. Androl is surprised when she tells him Emarin prefers men. 
+
+They see Demandred, who tells them that if he sees any Dreadlords away from the fight against the White Tower forces, he will make them wish he had given them to the Trollocs. Androl thinks what they did was effective, as they know where to find Taim now.
+
+:{{pov|[[Galad Damodred]]}} 
+
+Galad is feeling that the Last Battle may be the end of the world as he hunts Sharan channelers. He sees three of them and approaches. One throws a ball of fire at him, which dissipates when it hits him, leaving him singed but unharmed. She looks at him in shock as he takes her head off with his sword. Golever comes to tell him that this is a great day and the Children should have done much more of it in the past. [[Alhanra]] tells him that he has found Gawyn, and Galad goes to see him. They see him, lying between two rocks and Galad assumes he is dead. 
+
+Gawyn speaks and tells Galad that he had failed. Galad reassures him and tells him not to die and that he won't be left without a brother, but Gawyn tells him he has one. He tells him that [[Tigraine Mantear|Tigraine]] went to the Waste and gave birth to a son on Dragonmount. He asks Galad not to hate Rand and dies. Galad, with tears on his cheeks, tells Golever to take the wounded to safety and plans to fight Demandred and avenge his brother.
+
+:{{pov|[[Egwene al'Vere]]}} 
+
+Setting: [[Polov Heights]] Corridor
+
+Egwene feels Gawyn die and, distraught, lashes out with the Power until Silviana makes her realize she is out of control. She releases saidar and with it, she feels lifeless. 
+
+Someone weaves a gateway and she is carried from the battlefield through it.
+
+===Act III: ''The Flame of Tar Valon''===
+
+:{{pov|[[Tam al'Thor]]}} 
+
+Setting: [[River Mora]]
+
+Tam uses his last arrow, saving a Whitecloak. Downriver, the [[Legion of the Dragon]] is halting the Trollocs and his men are doing the same. He feels there is no reason to retreat, so tells the men to gather their weapons and leave the bows for when they have more arrows, though he knows none will come. He splits the forces into two wedges, Tam leading one and [[Deoan]] leading the other. 
+
+They attack. 
+
+:{{pov|[[Fortuona Athaem Devi Paendrag]]}} 
+
+Setting: By [[Dashar Knob]]
+
+Fortuona refuses ''damane'' Healing, though she thinks it a useful development. She realizes that the Deathwatch Guards who allowed the assassins through will need punishment, as to deny it them would be to deny them their honor. She instructs [[Furyk Karede|Karede]] to go to the enemy and fight the ''marath'damane'' directly. She raises Min to the Blood for saving her life. 
+
+Tuon decides that it is time to misdirect the spy. She tells Mat that he holds the ultimate responsibility for the attack and is surprised to see [[Lunal Galgan|Galgan]] frown, and that Mat has already converted him. She tells him that he is not serious enough and he laughs. Tuon is the only one to see an omen behind him, twin lines of smoke rising from the heights to signify a large gamble that will yield a large reward or a great cost. He tells Tuon he has had it with her and Seanchan ways and she tells him the Seanchan should never have joined the battle. 
+
+She tells the Seanchan with her that other than the Deathwatch Guards, they are returning to [[Ebou Dar]]. She hopes the spy will simply see a young woman foolish enough to want to fight on her own and believe the ploy.
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: A World That Could Be
+
+The Dark One takes Rand to a world that could exist. He is at first surprised as it doesn't have any of the decay and devastation of the previous world he was shown. When a street vendor, [[Renel]], kills a street urchin with not even a second thought, and starts to look at Rand as though she would do the same to him, Rand begins to grow suspicious.
+
+He goes to [[The Queen's Blessing]], where he doesn't recognize the door guard, but [[Basel Gill]] is still the Innkeeper. Gill tries to rob him and seems amazed at the idea that there would be laws against theft, claiming if a man can't keep what is his, he doesn't deserve it. Rand understands that the Dark One took people's consciences. He tells Shai'tan that he will show him the world's opposite.
+
+:{{pov|[[Mat Cauthon]]}} 
+
+Setting: By [[Dashar Knob]]
+
+Mat walks away from Tuon, a little concerned that she meant what she was saying. He asks Min to stay with her and watch. 
+
+He sees Karede, who says he is going to the front line. Mat tells him that he is going there as well and the Deathwatch Guard are to come with him. Karede agrees, looking for death as punishment, as long as Mat does not call the Empress "Tuon" as that would be a bad omen.
+
+:{{pov|[[Tam al'Thor]]}} 
+
+Setting: [[River Mora]]
+
+Tam continues to fight Trollocs. He is not as strong as he had been as a young man, but with age has come maturity and an understanding of the void. The Trollocs turn and break as the Borderlanders arrive, forcing them into a vise with the Legion of the Dragon. He has held his position. 
+
+Lan rides over to tell him he had wondered if the man who gave Rand his sword had earned it, but that he now knows and he salutes Tam. 
+
+Lan tells Tam that the battle is not done and that Demandred had sent a smaller force here to keep them from the battle at Hawal Ford. Lan leaves just before a gateway opens from Mayene, bringing refugees from [[Caemlyn]] who had insisted on being brought to the battle. Tam thinks that battle is not the place for them, but when he sees them retrieving arrows, he thinks they can be of use. Berelain asks after Galad and Tam says he was called away but he hasn't heard from him in hours.
+
+:{{pov|[[Elayne Trakand]]}} 
+
+Setting: [[Hawal Ford]]
+
+Gareth Bryne is found dead and is carried from the battle on his shield. Those who saw him say he went crazy and went riding off into the fray. Elayne concludes that Siuan is dead.
+
+Birgitte tells Elayne that the command post at Dashar Knob has fallen and the Seanchan have retreated. Elayne says she will take charge until they hear from Mat. 
+
+She realizes that the Trollocs are slowly surrounding them and their position is poor. They are attacked by Demandred who sends balefire at them and demands that Lews Therin come to him as he hunts a woman Lews' loves. Birgitte instructs [[Celebrain]] to raise a banner and ride in the opposite direction as a decoy. Elayne is not happy, as this is effectively a death sentence, but Birgitte makes her understand it is necessary.
+
+:{{pov|[[Galad Damodred]]}} 
+
+Setting: [[Polov Heights]]
+
+Galad rides towards Demandred. He kills a male channeler and calls out to Demandred, telling him that the Dragon Reborn's brother is here. The shock of Gawyn's death has dulled his response to the revelation.
+
+Demandred steps forward and says he hopes he is a better match than his dead brother was. Demandred says he is displeased that Lews Therin is ignoring him and the two begin to fight.
+
+:{{pov|[[Nynaeve al'Meara]]}} 
+
+Setting: [[Pit of Doom]]
+
+Unable to Heal because of the circle, Nynaeve uses her herbs and knowledge of stitching to help [[Alanna Mosvani|Alanna]]. Rand and Moridin are still not moving, but she can feel a thrumming coming from them.
+
+:{{pov|[[Mat Cauthon]]}} 
+
+Setting: [[Hawal Ford]]
+
+Mat encounters [[Davram t'Ghaline Bashere|Bashere]] at the back of the Andoran lines. Bashere has become king of [[Saldaea]], but has refused to be crowned. The corruption of his mind has shaken him, but he still wants to kill Trollocs.  
+
+Elayne's forces are holding, but are in danger of being surrounded. Mat has the Band and the Andoran cavalry engaging the Trollocs to prevent them separating the lines of pikes in Elayne's forces. He asks about Faile but no one has heard from her. He then sends Bashere to Lan, with instructions to engage the Trollocs trying to move round the Andoran right flank. 
+
+Mat rides towards the Dragonsworn and sees [[Loial]] and other Ogier, including some of the [[Gardener]]s breaking a Trolloc Fist. He takes the Ogier and continues on to the Dragonsworn and talks with their leader, Lady [[Tinna]], who is able to channel. He needs a gateway but Tinna isn't strong enough, then [[Teslyn Baradon|Teslyn]] speaks up from a distance. He then asks her for a gateway to move as many of the troops as possible to the top of the Heights with the intention of seizing the northern slope and preventing Demandred from fully surrounding Elayne's armies.
+
+:{{pov|[[Egwene al'Vere]]}} 
+
+Setting: [[Mayene]]
+
+Egwene wakes to hear Silviana and [[Rosil]] discussing her and finds that she is in Mayene. Rosil tells her she should rest but she replies that she can't afford to. She tells Silviana that she wants [[Vora's sa'angreal|Vora's Sa'angreal]]. Silviana hesitates, but Egwene insists and Rosil reluctantly agrees. Rosil says her current emotions will crush her if she tries to use them with the ''sa'angreal'', so she needs to regulate them. She says she will need another warder to watch her back and chooses [[Egeanin Tamarath|Leilwin]].
+
+:{{pov|[[Galad Damodred]]}} 
+
+Setting: [[Polov Heights]]
+
+Demandred and Galad fight in darkness lit by Sharan torches. Demandred comments he is better than his brother was and that he died easily but Galad ignores this jab. Demandred injures Galad's forearm but then Galad injures Demandred, impressing him. Galad grabs him, but his muscle gives out from the earlier wound and he drops his sword. Demandred strikes, severing his right arm at the elbow. He picks up his arm and spits at Demandred's feet. 
+
+Demandred strikes again and all goes black.
+
+:{{pov|[[Androl Genhald]]}} 
+
+Androl, disguised as [[Varil Nensen|Nensen]], and his companions look for Taim on the Heights. He sees [[Atal Mishraile|Mishraile]] and Taim, holding one of the Seals. Taim asks him what he is doing and Androl tells him Demandred's message, that he would kill any Dreadlord who is out of position. Taim causes Androl deep pain and it causes him to stumble against Taim. Taim places a Mask of Mirrors, thinking he is disguising Nensen as Androl and tells him to find and kill Logain. Androl leaves and when he meets up with Pevara and the rest, he shows he stole Taim's pouch containing the Seals.
+
+:{{pov|[[Gerard Arganda]]}} 
+
+Demandred rants that Rand's brother lies dying and that he is the true savior of the world. Arganda charges and hits a Trolloc, which back hands him as it dies. 
+
+When he wakes, Lan tells him that a second army comprised of Dragonsworn accompanied by a banner of cavalry had attacked the left flank and broke the Sharans apart. A flash of light reveals the sheer number of Trollocs and Arganda thinks that each man would have to kill at least five of them.
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: [[Caemlyn]], in a possible future
+
+Rand weaves the threads of the Pattern into a possible world, feeling it resist as he does, creating a world without the Dark One. 
+
+He walks into the palace in Caemlyn and passes windows, gateways to other places, showing a rebuilt [[Malkier]], [[Tear]] and [[Rhuidean]], surrounded by chora fields. He sees a stone slab, in what was the Blasted Lands where his body had been buried after the Last Battle. 
+
+He sees Elayne who wonders if her daughter had pranked her with the Mask of Mirrors. When she realises it is Rand, she says she will invite Aviendha who is playing with children in Rhuidean. As she babbles on, Rand looks into her eyes and sees a shadow, similar to that in the eyes of someone who has been Turned. He realises that the Dark One is not merely the source of evil, he is the manifestation of evil and that by removing him from existence, he has taken away the ability to do or be evil, condemning people to be insipid and vacuous. 
+
+He realises the world he would create, a world without the Dark One, is horrible.
+
+:{{pov|[[Mat Cauthon]]}} 
+
+Setting: [[Polov Heights]]
+
+Mat sits on a dead Trolloc. Demandred didn't take his bait at the Ford, having sent only Trollocs and not Sharans. Demandred is now trying to get behind Elayne's forces, but Mat is managing to hold him off. He is aware that the Ayyad are winning against the Aes Sedai. He sees something attacking the Sharans and watches them flee across the Heights.
+
+:{{pov|[[Olver]]}} 
+
+Setting: The [[Blasted Lands]]
+
+Olver and Faile's group walk through the Blasted Lands. They had attacked a Shadow supply train, defeating a merchant and three Darkfriends. They free a string of captives, many of whom accompany them into the supply dump. 
+
+On their way in, they are stopped and [[Aravine Carnel|Aravine]] claims to be Ansai, Lifa's partner. They are allowed through. A plump woman in white weaves a gateway and Aravine waves them through it. 
+
+On the other side, they see [[Dragonmount]] in the distance as the body of a member of the Band of the Red Hand falls down a slope behind them and into the fire. Aravine comes through and points at Faile. Arrella, Selande and Mandevwin are captured by air. Aravine apologises and tells them she is a Darkfriend who thought she could escape her vows, but that she intends to take the Horn to Demandred. 
+
+Olver thinks on what Mat would do and launches himself at the woman in white, stabbing her in the lower back.
+
+:{{pov|[[Leane Sharif]]}} 
+
+Setting: Base of [[Polov Heights]]
+
+Leane and other Aes Sedai fight the Sharans. They are attacked by male Ayyad and [[Doesine Alwain|Doesine]] is killed. Leane feels pride at the way the Aes Sedai are holding out. 
+
+She goes to [[Raechin Connoral|Raechin]] who tells her she would like to know if there really is a way to make a man do as you wish. Leane tells her she will share everything she knows if they survive. They see that the Sharans have replaced the troops who had drawn away earlier with what looks like villagers. Raechin is still able to call lightning on them. [[Manda Wan]] suggests pulling back to regroup at Dashar Knob but before they have the chance to, Egwene walks through them and releases a dozen flows of fire, killing Sharan channelers. 
+
+:{{pov|[[Talmanes Delovinde]]}} 
+
+Setting: Dragon's Den
+
+Talmanes and some of the Band are in a cavern somewhere, with no exit, found by one of the Asha'man, trying to repair the dragons. He speaks with [[Dennel]] but decides it is too quiet, so starts singing Jak o' the Shadows to raise morale. 
+
+He thinks they will take part in the battle even if they have to blast their way out.
+
+:{{pov|[[Faile t'Aybara]]}} 
+
+Setting: [[Field of Merrilor]]
+
+The bonds holding Faile vanish and Aravine jumps on a horse and flees. Faile gets on [[Bela]] and gives chase. Trollocs move to bar her way but one is killed by Harnan and Vanin and the other knocked out of her way, allowing Faile to pass. They explain that they were not trying to steal the Horn, but Mat's tabac. They had allowed themselves to be captured and were preparing to free the captives and escape. 
+
+They break off and intercept other riders and Faile continues after Aravine. She throws a knife, hitting her in the back and reclaiming the Horn. With Bela nearing exhaustion, she considers swapping horses, but as she is doing so hears Olver and hands him the Horn, asking him to take it to Mat while she distracts the Trollocs.
+
+:{{pov|[[Logain Ablar]]}} 
+
+Setting: Bogs by [[Polov Heights]]
+
+Logain asks why Taim didn't break the Seals, but no one knows. He wonders if he will ever have vengeance, but thinks vengeance seems empty. His Asha'man are in a small camp, below the bogs. He takes off his dragon pin and raises Androl to full Asha'man. Pevara tells him he should take the Seals to the Aes Sedai as they belong to the White Tower, but he replies that the Amyrlin is as good as dead and he is a fitting steward. 
+
+He tells them he is going to find Demandred and the others are to deal with Taim's men and the Sharan channelers, apart from Gabrelle who is to wait for him. He thinks that if he can get Demandred's ''[[Sakarnen|sa'angreal]]'', the world would tremble for him and the [[Black Tower]].
+
+:{{pov|[[Egwene al'Vere]]}} 
+
+Setting: [[Polov Heights]]
+
+Egwene leads an attack on the Sharans seeking out Taim. [[Jahar Narishma|Narishma]] gives a warning and she sends everyone away, apart from him, [[Merise Haindehl|Merise]] and Leilwin. 
+
+:{{pov|[[Ila]]}} 
+
+Setting: [[Field of Merrilor]]
+
+Ila scours the battlefield, searching for survivors. Ila says the Shadow cannot be worse than how humans have already treated them but [[Raen]] disagrees with her. Raen tells her that in the future he will not think so poorly of those who don't follow the [[Way of the Leaf]], which frustrates her. Ila's heart is broken from Aram leaving them and prays to the Light that he is safe. 
+
+She sees a man looting the bodies and wonders who is worse - those that fight, or those that avoid it to exploit the dead and injured. She continues to look for survivors so she can help them.
+
+:{{pov|[[Olver]]}} 
+
+Setting: [[Field of Merrilor]]
+
+Olver rides Bela, but a Trolloc arrow hits and kills her. He runs from the Trollocs, trying to get to where he saw Mat's banner. 
+
+He sees a crack in a rocky outcrop and is able to squeeze himself into it.
+
+:{{pov|[[Logain Ablar]]}} 
+
+Setting: [[Polov Heights]]
+
+Logain hurls himself through a gateway and strikes at Demandred, weaving fire, but the Sharans throw themselves in the way, giving Demandred time to defend himself. Logain sees that the Andoran pike formations are close to failing after which it will be a rout. 
+
+He and Demandred fight with the Power, Demandred weaving a Deathgate that leaves a trail of lava, some of which splashes Logain. Logain weaves lightning at him, but Demandred creates a weave which dissipates it harmlessly and shields Logain. He begins to weave balefire and Logain throws a rock at him, striking him and causing him to drop the shield. Logain quickly prepares a shield and a gateway, and, as Demandred destroys the shield, he goes through the gateway, and back to be Healed by Gabrelle. 
+
+:{{pov|[[Egwene al'Vere]]}} 
+
+Setting: [[Polov Heights]]
+
+Egwene fights Taim and comes close to shielding him, but he balefires the shield and Travels away using the True Power. 
+
+She launches herself at the Sharans. 
+
+:{{pov|[[Hurin]]}} 
+
+Hurin fights on Polov Heights, trying to prevent the Trollocs from taking it. The rest of the army is trying to push the Sharans into the Trollocs fighting Elaynes forces, but Mat's army is beginning to flounder.
+
+:{{pov|[[Berelain sur Paendrag Paeron]]}} 
+
+Setting: [[Mayene]]
+
+Berelain organises the Healing and talks with [[Ronja]] about the possibility of ''gai'shain'' fighting. Kitan comes and takes her to Galad. 
+
+[[Annoura Larisen|Annoura]] tells her she found him while Demandred was distracted fighting Logain and brought him back, but that she burned herself out in the process.
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: Outside the [[Pattern]]
+
+Rand can see people fight and die for him, [[Hurin]], Davram Bashere and his wife, [[Karldin Manfor]] and [[Beldeine Nyram|Beldeine]], [[Jori Congar]], [[Gareth Bryne]] and [[Siuan Sanche]] amongst them. He refuses to give in and the Dark One prepares his final vision of the future. Everything gets dark. 
+
+:{{pov|[[Mazrim Taim]]}} 
+
+Setting: [[Polov Heights]]
+
+On the Heights, Taim can see the Trollocs control the corridor between the Heights and the bogs to the south, while the Sharan army fights on the Heights. He thinks the key to the battle is to destroy the Aes Sedai. 
+
+Demandred arrives and asks him how it is he failed and he tells him that Egwene had a ''sa'angreal''. Demandred gives him Sakarnen, saying he won't need it if Lews Therin comes as their strengths must be matched if he is to show himself the better. Taim thinks him insane, far worse than when they first met. As he leaves, Demandred tells him that Sakarnen is bonded to him and if Taim tries to use it against him it will destroy Taim. He tells Taim to use balefire against the Amyrlin.
+
+:{{pov|[[Elayne Trakand]]}} 
+
+Setting: [[Hawal Ford]]
+
+Elayne has retreated to the ruins. A group of mercenaries, disguised as refugees attack her guards. She channels at one and the weave dissipates. She realises the man holds one of her foxhead medallions as [[Daved Hanlon|Mellar]] grabs her and presses it to her skin. 
+
+His comrades bring Birgitte and he kills her by beheading her. Another comes in with a dead body, dressed to look like Elayne. Hanlon says that the Dark One wants Elayne's babies, but doesn't need her. His companion says he can cut them out and keep them alive with a weave the Chosen taught him, and  send them to Shayol Ghul.
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: A Possible World
+
+The Dark One shows Rand the final possibility - oblivion. Under these circumstances, it seems an attractive and fair offer, but Rand finally refuses. He has already refused the same thing on the top of [[Dragonmount]] during his reforging.
+
+:{{pov|[[Min Farshaw]]}} 
+
+Setting: Unknown
+
+Min does not know her location. Galgan says that Mat has requested that the Seanchan return, but [[Yulanwho|Yulan]] argues that Mat has proven himself reckless and he doesn't have confidence in him. [[Beslan Mitsobar|Beslan]] and Galgan disagree. [[Tylee Khirgan|Tylee]] also says she thinks they should return. Yulan changes tack and says Mat fought well but is overmatched. Min sees a chain above Yulan's head and realises he is being used as a spy under compulsion. 
+
+She looks around to see if she can see who is controlling him and sees that one of the ''[[so'jhin]]'', the same one with freckles Mat has noticed before, has images around her. She is suspicious, but not enough to condemn the woman so she speaks to Tuon as her [[Truthspeaker]], then says there is a spy for the Shadow in their midst. The ''so'jhin'' looks up and Min is sure. She announces it is Yulan and when she sees the relief of the ''so'jhin'''s face throws a knife at her, which is held in air. The woman flees through a gateway.{{ref|It was disguised Moghedien, as revealed in AMOL 14/41}} Tuon tells Galgan to gather his troops as they are returning to Merrilor.
+
+:{{pov|[[Egwene al'Vere]]}} 
+
+Setting: [[Polov Heights]]
+
+As she fights, Leilwin comes to tell Egwene that Logain has the Seals. Taim's balefire kills half a dozen Aes Sedai, undoing several hours of their lives and restoring many Sharans. Egwene considers responding with balefire of her own, but realises it could make things worse. Leilwin tells her they must leave as they are being overrun. 
+
+Egwene thinks on Perrin's words that balefire is just a weave and creates her own weave, that she had tried earlier on the cracks, but much stronger, that she thinks of as the [[Flame of Tar Valon]]. She releases it against the balefire, overcoming it and shooting up Taim's arm, causing him to crystalize from the inside. She realises that if she releases the Power she will be burned out. 
+
+She tells Leilwin to break the Seals at the moment the Light shines, releases the bond and pushes her through a gateway. Surrounded by hundreds of Sharan channelers, she draws in more power and releases her new weave, killing them and sealing the cracks Taim created.
+
+===Act IV: ''The Last King of Malkier''===
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: Outside the [[Pattern]]
+
+Rand sees Egwene die and adds her to his list as the Dark One tells him he will kill them all.
+
+:{{pov|[[Leane Sharif]]}} 
+
+Setting: [[Polov Heights]]
+
+Leane sees Sharans crystalize. At the top of a fifty foot high column of crystal, she sees Vora's ''sa'angreal'' and realises the Amyrlin has fallen.
+
+:{{pov|[[Berelain sur Paendrag Paeron]]}} 
+
+Setting: [[Mayene]]
+
+Galad briefly wakes to tell Berelain to take the Medallion back to Mat.
+
+:{{pov|[[Mat Cauthon]]}} 
+
+Setting: [[Polov Heights]]
+
+Arganda tells Mat that Egwene and half the Aes Sedai are dead, as are all the Sharan channelers, with the remaining Aes Sedai too weak to channel. Mat has joined his surviving forces together, strung out across the Heights. They are defending on two fronts as the Trollocs have broken through on the east. Arganda tells him that Elayne, Bashere and six Aiel Clan Chiefs are dead. They hear Demandred's voice saying they are at their end and Lews Therin has abandoned them. 
+
+[[Naeff]] and [[Fager Neald|Neald]] arrive and tell him Tuon is waiting to return. He gives Naeff instructions for Tuon and tells Neald to go to Talmanes. 
+
+He sees Lan riding towards Demandred.
+
+:{{pov|[[Olver]]}} 
+
+Setting: [[Field of Merrilor]]
+
+Trollocs are still trying to get through to Olver. He huddles in on himself - terrified.
+
+:{{pov|[[Loial]]}} 
+
+Setting: [[Polov Heights]]
+
+Loial sees Lan burst from the ranks of soldiers knowing and respecting Lan for what he is about to do. He chases after him, away from Erith. He tells her he is going to witness the fall of the last king of Malkier.
+
+:{{pov|[[Gerard Arganda]]}} 
+
+Arganda lines up his men for a charge that Tam expects to fail. Tam sees Lan riding to Demandred, his way blocked by Trollocs and orders his men to fire on them. He looses a burning arrow. 
+
+:{{pov|[[Lan Mandragoran]]}} 
+
+Lan rides at the Trollocs wearing the Medallion he got from Berelain. Burning arrows rain down on them, creating an opening. He silently thanks Tam. 
+
+He dismounts to save Mandarb and attacks Demandred, exchanging three blows and drawing blood. Demandred asks with surprise who he is and he replies:
+
+"I am the man who will kill you."
+
+:{{pov|[[Min Farshaw]]}} 
+
+Setting: [[Field of Merrilor]]
+
+Min rides a ''[[torm]]'' through a gateway back to the Field of Merrilor. She can feel Rand tremble far to the north.
+
+:{{pov|[[Rand al'Thor]]}} 
+
+Setting: Outside the [[Pattern]]
+
+Rand sees Lan fight, Elayne captive, Rhuarc a slave to Graendal. He sees his friend Mat. He sees the pain, loss and fear in their faces. 
+
+He thinks he has failed, but hears a voice at the back of his mind: 
+
+"Let it go."
+
+:{{pov|[[Lan Mandragoran]]}} 
+
+Setting: [[Polov Heights]]
+
+Lan and Demandred fight; Lan avoiding rocks Demandred throws at him with the Power, but Demandred is the better swordsman. He doesn't believe anyone of the third age could have the skill that Lan shows and stops talking and using the Power in order to concentrate on the sword. Demandred tells him he can't win.
+
+Lan [[Sheathing the Sword|Sheathes The Sword]].
+
+"I didn't come here to win. I came here to kill you."
+
+And he does.
+
+==Characters==
+
+*[[Lan Mandragoran]]
+*[[Andere]]
+*[[Mat Cauthon]]
+*[[Logain Ablar]]
+*[[Elayne Trakand]]
+*[[Birgitte Silverbow]]
+*[[Fortuona Athaem Devi Paendrag]]
+*[[Uno Nomesta]]
+*[[Allin]]
+*[[Talmanes Delovinde]]
+*[[Aludra Nendenhald]]
+*[[Demandred]]
+*[[Kwamesa Taramasu]]
+*Asha'man [[Einar]]
+*[[Androl Genhald]]
+*[[Emarin Pendaloan]]
+*[[Pevara Tazanovni]]
+*[[Gabrelle Brawley]]
+*[[Gawyn Trakand]]
+*[[Yukiri Haruna]]
+*[[Egwene al'Vere]]
+*[[Gareth Bryne]]
+*[[Siuan Sanche]]
+*[[Lelaine Akashi]]
+*[[Silviana Brehon]]
+*[[Doesine Alwain]]
+*[[Tam al'Thor]]
+*[[Abell Cauthon]]
+*[[Bayrd]]
+*[[Azi al'Thone]] or [[Azil Mareed]]{{verify}}
+*[[Tinna]]
+*[[Galad Damodred]]
+*[[Gerard Arganda]]
+*[[Alliandre]]
+*[[Dannil Lewin]]
+*[[Theodrin Dabei]]
+*[[Mika]] the ''damane''
+*[[Min Farshaw]]
+*[[Golever]]
+*[[Kline]]
+*[[Alix]]
+*[[Dark One]]
+*[[Rand al'Thor]]
+*[[Jori Congar]]
+*[[Nynaeve al'Meara]]
+*[[Damer Flinn]]
+*[[Cadsuane Melaidhrin]]
+*[[Moiraine Damodred]]
+*[[Aviendha]]
+*[[Adora Aybara]]
+*[[Basel Gill]]
+*[[Perrin Aybara]]
+*[[Mazrim Taim]]
+
+===Referenced===
+
+*[[Masema Dagar]]
+*[[Canler]]
+*[[Jonneth Dowtry]]
+*[[Toveine Gazal]]
+*[[Kimtin]]
+*[[Haral Luhhan]]
+*[[Loial]]
+*[[Harnesh]]
+*[[Mallone]]
+*[[Brokel]]
+
+==Groups==
+
+*[[Sharan]]
+*[[Malkieri]]
+*[[Borderlander]]s
+*[[Aes Sedai]]
+*[[Asha'man]]
+*[[Channelers]]
+*[[Queen's Guards]]
+*[[Warder]]
+*[[Seanchan]]
+*[[Taraboner]]
+*[[Forsaken]]
+*[[Dragonsworn]]
+*[[Whitecloak]]s
+*[[Ghealdanin]]
+*[[Wolf Guard]]
+*[[Aiel]]
+*[[Saldaean]]
+*[[Legion of the Dragon]]
+*[[Black Ajah]]
+*[[Ogier]]
+*[[Deathwatch Guard]]
+*[[Band of the Red Hand]]
+*[[Winged Guards]]
+*[[Chosen]]
+
+==Animals==
+
+*[[Bela]]
+*[[Mandarb]]
+*[[Moonshadow]]
+*[[Sidama]]
+
+==Shadowspawn==
+
+*[[Draghkar]]
+*[[Trolloc]]s
+*[[Fade]]s
+
+==Places==
+
+*[[Arafel]]
+*[[Shienar]]
+*[[Field of Merrilor]]
+*[[River Mora]]
+*[[Dashar Knob]]
+*[[River Erinin]]
+*[[Two Rivers]]
+*[[The Queen's Blessing]] in [[Caemlyn]]
+
+===Referenced===
+
+*[[Andor]]
+*[[Falme]]
+*[[Fal Dara]]
+*[[Black Tower]]
+*[[Mayene]]
+*[[Sabinel]]
+*The [[Blight]]
+*[[Shayol Ghul]]
+
+==Events==
+
+*The [[Taint]]
+*The stolen [[Seal]]s for the [[Dark One's prison]]
+*The [[Dragon's Peace]]
+
+==Concepts==
+===Culture===
+
+*[[Sharan]]
+*[[dragons]]
+*''[[Damane]]''
+*''[[Sul'dam]]''
+*Seanchan [[Empress]]
+*[[Amyrlin Seat]]
+*'[[Sa'angreal]]
+*[[Bloodknife ring]]
+*''[[So'jhin]]''
+*''[[kaf]]''
+*[[Circle]]
+*The [[Void]]
+*The [[Game of Houses]]
+*The [[Pattern]]
+*[[steamwagon]]
+
+==[[One Power]]==
+
+*[[Fire ball]]
+*[[Thunderclap]]
+*[[Healing]]
+*[[Lightnings]]
+*[[Gateway]]
+*[[Balefire]]
+*[[Compulsion]]
+*[[Deathgates]]
+*[[Flame of Tar Valon]]
+*[[Mask of Mirrors]]{{DISPLAYTITLE:''The Last Battle''}}
+
+{{Notes}}<references /><references /><references /><references /><references /><references /><references /><references /><references /><references /><references />

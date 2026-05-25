@@ -1,0 +1,124 @@
+{{Featuredicon}}
+{{character 
+| image=Wot card teasers 3 thom by reddera-d3i4wpj.jpg
+| imagesize=250px
+| ewot=thom
+| nationality=Andoran
+| occupation=Warder
+| gender=Male
+| hair=White
+| eyes=Blue
+| mentioned={{teotw|1}}
+| appeared={{teotw|4}}
+| lastappeared={{amol|e}}
+| living=amol
+| status=Alive
+| height=6'0 or about 183 cm}} <!-- Family: Owyn Merrilin (nephew), Moiraine Damodred (wife) -->
+{{dablink|For the alias used by [[Mat]], see [[Thom Grinwell]].}}
+{{WotQ|Thom}}
+'''Thomdril "Thom" Merrilin''' (TOM MER-rih-lihn) is a [[gleeman]] and, formerly, a court [[bard]] in Andor.
+
+== Appearance ==
+He is six feet tall, and lanky, with a gnarled, leathery face, sharp blue eyes, white hair long enough to touch his collar, bushy white eyebrows, and long white mustaches that hang down on either side of his mouth.{{ref|{{twotc}}, Thom Merrillin|comp}}{{ref/book|1|4}} He typically wears the cloak of a gleeman "more patches than cloak, and more colors than you can think of."{{ref/book|1|1}} When he arrives in [[Emond's Field]] he also has a long coat with odd baggy sleeves and big pockets. He smokes a long-stemmed, ornately carved pipe.{{ref/book|1|4}}
+
+==History==
+While Thom's date of birth is not given in the books or [[The Wheel of Time Companion]], Robert Jordan's private notes on Andor state he is about 19–20 years older than Morgase, placing his year of birth as 937-{{ne|938}} and in his early 60s during the main events of the book.{{verify}} While this is not a fully canonical source, it fits in well with comments made by other characters, namely him being roughly "twice [Morgase's] age" and still "in his prime" in period leading up to {{ne|985}}.{{Ref/book|5|19}}{{Ref/book|1|35}}{{ref|{{twotc}}, Owyn|owyn}} 
+
+Thom had at least one sibling, a brother. Whatever other family he had were already dead by {{ne|985}}. His last remaining relative, his brother's only son, was from eastern Andor, near [[Aringill]], so it is possible this is where Thom was born too.{{ref/book|1|26}}{{ref||owyn}} 
+
+He became House-bard to House Trakand; even then he was known as a skilled player of the Game of Houses. He advised and assisted Lady [[Maighdin Trakand]], who taught him much.{{ref||comp}} In 971 or {{ne|972}}, after Maighdin's death, he would continue to advise her young daughter, Lady [[Morgase Trakand]] and soon help Morgase ascend to the throne of [[Andor]] during the [[Succession Wars|Third Andoran War of Succession]].
+
+After Morgase became Queen in {{ne|972}}, Thom became her Court Bard in the [[Royal Palace of Andor]] and renowned in the noble circles of most nations. During this time he was known as the "Gray Fox".{{ref/book|4|17}} He later thwarted [[Taringail Damodred]]'s plan to kill Morgase by killing him instead. He and Morgase became lovers shortly afterwards.
+
+Around this time, Thom discovered that his nephew [[Owyn]], was being pursued by the [[Red Ajah]] because he could channel ''[[saidin]]. Unfortunately,'' he was too busy with his duties to Morgase to find and help him.
+[[File:Thom.jpg|thumb|296x296px|Thom Merrilin]]
+
+The issue of Owyn returned later. This time Thom disappeared to help him, but he had waited too long. Owyn had been [[Severing|gentled]] by the Red Ajah as part of the male channeler pogrom and had subsequently died alone. When Thom returned, Morgase was angry with him for leaving. A fight ensued, and Thom said she was a spoiled baby and a tool of the [[White Tower]]. He accused [[Elaida do Avriny a'Roihan|Elaida]] for the role he suspected the Red Ajah played in the circumvention of White Tower law, Gentling Owyn without returning him to the White Tower first, something he had counted on to buy him time to reach him. He left, barely dodging the execution block.
+
+Thom was hot-headed but generally kind and considerate, though he nursed a hatred of the Red Ajah and a distrust of all [[Aes Sedai]] following their treatment of his nephew. A great player of [[Daes Dae'mar]], Thom was able to sort out what was important among the information he gathered and what was lies. He assisted [[Matrim Cauthon]] in rescuing [[Moiraine Damodred|Moiraine]] from the [[Tower of Ghenjei]] and became her Warder and husband.
+
+==Activities==
+===Escape from the Two Rivers===
+[[File:Thom rpg.jpg|left|thumb|299x299px]]
+With his Bardic talents and his experience in the Andoran court giving him more than the requisite skills, Thom became a [[gleeman]] and journeyed across the land, performing in inns and villages sometimes for pay and sometimes just for supper and a bed. He just so happened to arrive in [[Emond's Field]] late on the same night [[Moiraine Damodred]] arrived{{ref/book|1|2}} and was present the following night when [[Trolloc]]s attacked. After the four young people decided to leave for [[Tar Valon]] with Moiraine who by then had revealed herself as [[Aes Sedai]], he went with [[Rand al'Thor]], [[Mat Cauthon]], [[Perrin Aybara]], and [[Egwene al'Vere]], fearing that they would succumb to the same fate Owyn had by following Moiraine. He felt he had to repay his failure to help his nephew. When the company was later split up after their foray into [[Shadar Logoth]], he was on [[Bayle Domon]]'s ship with Rand and Mat. He seemingly sacrificed his life to protect them from a [[Myrddraal]] in [[Whitebridge]]. While he did not die, the encounter did leave him with a permanent limp. Actually, he was [[Healed]] by an [[Aes Sedai]] who managed to save his life, but the healing did not cure the limp.
+
+===After Whitebridge===
+Thom later ran into Rand in [[Cairhien]] when the young man was making his way to [[Falme]].{{ref/book|2|25}} Soon afterward, Thom's apprentice and lover [[Dena]] was murdered by men in the employ of [[King]] [[Galldrian Riatin]].{{ref/book|2|34}} In a suspicious turn of events, the king was murdered hours later. (Thom may or may not have been the killer, as even his own statements on the subject were ambiguous). It was strongly hinted that he was the killer when Elayne offered him a pardon for any crimes he may have committed in Cairhien, to which Thom replied, "How did she know...?"
+
+Depressed, Thom left the city and made his way to Tar Valon where he began drinking heavily. It was there  Mat reentered his life after escaping from the White Tower.{{ref/book|3|31}} They rejoined the company in [[Tear]] after the Fall of the [[Stone of Tear|Stone]].
+
+Thom used his knowledge of the Game of Houses and his ability to collect information to aid Rand. He manipulated the Tairen High Lords and passed information to Rand about whom to be wary.{{ref/book|4|4}}
+
+Moiraine requested that Thom take care of [[Nynaeve al'Meara]] and [[Elayne Trakand]] as they journeyed to [[Tanchico]]. She swore by the Three Oaths that he would survive Tarabon, that they would meet again, and that she would then provide him with the names of the Red Sisters who gentled Owyn as well as the one who gave the order to have him gentled on the spot.{{ref/book|4|17}}
+
+===Ebou Dar===
+[[Image:Thom_saliba.jpg|right|thumb|200px|Thom portrait done by Jeremy Saliba]]
+After Tanchico, Thom and Juilin rescued the two young women who had been dosed with [[forkroot]] by [[Ronde Macura]]. They then joined [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]] where Thom performed as a fire-eater and juggler. Thom and Juilin accompanied the women on their trip to [[Salidar]] where afterwards they were sent by the [[Salidar Six]] to scout around Tarabon for a time before returning again. Mat arrived in Salidar soon after Thom returned, but Thom was told to stay away from him. Thom then went to [[Ebou Dar]] with Elayne, Nynaeve, and Mat to search for the [[Bowl of the Winds]].
+
+Thom and Juilin stayed with Mat after the [[Seanchan]] captured Ebou Dar and Mat was injured, during which time he schemed with [[Beslan Mitsobar]] against the Seanchan. He also used the excuse of playing the harp to sneak into the room of one of [[Tylin Quintara Mitsobar]]'s maids. He helped Mat escape with [[Tuon]].
+
+He, with the rest of Mat's group, joined up with Luca's Traveling Show as a cover while they fled from Ebou Dar.
+
+===Moiraine's letter===
+It was later revealed that Thom knew of Moiraine's fate after her battle with [[Lanfear]] and that her rescue would require Mat's help. This comes from [[Moiraine's letter to Thom|the letter that Thom received]] after her "death," in which she detailed some of what she saw when visiting the three rings in [[Rhuidean]].{{ref/book|11|10}}
+
+===Traveling with the Band===
+He accompanied [[Tuon Athaem Kore Paendrag]] and Mat to a [[hell]] in the town of [[Maderin]]. While in [[The White Ring]], he brought the news that the entire Seanchan army was after Tuon, claiming she was an imposter. As they were all leaving the hell, they were spotted by [[Darkfriend]]s who were intent on killing Mat. Thom protected Tuon while Mat engaged another group behind them. Here Thom witnessed [[Selucia]]'s fighting ability. At the end of the fight, Thom professed to not remember seeing Selucia fight at all.
+
+[[file:Thom.png|thumb|left|Thom smoking his pipe]]
+
+After this incident, Thom, Mat, and the rest of their group decided to leave Luca's show. While riding through [[Altara]], they met up with the [[Band of the Red Hand]] and began to travel with them.
+
+[[Furyk Karede]] entered the Band's camp looking for the return of Tuon. He asked to speak with Thom, having him confused for being in command of the Band and the hatcher of a plot to take Tuon to the White Tower.
+
+He rode with Mat into the cursed village of [[Hinderstap]] where they were attacked by crazed villagers when nightfall descended. The group only just managed to escape the village and wait out the night before entering the village again at daybreak to find everyone back to normal. Later he met with Mat, who was planning how to approach [[Trustair]], the next village along after Hinderstap. He was present when [[Verin Mathwin]] arrived in camp and informed Mat that ''saidin'' had been cleansed.
+
+Thom watched with Mat as Teslyn, Joline, and Edesina left for the White Tower. He then rode with Mat into [[Caemlyn]] to meet with Queen Elayne. After a pleasant greeting with her, Elayne offered him a proclamation to become a proper court bard of Caemlyn. He promised to think about it.
+
+Thom was with Mat when they finally caught up with Perrin again in [[The Happy Throng]] in Caemlyn. There they discuss the feats they had carried out and the respective wives they had married. Mat told Perrin about possible assassination attempts and to try not to sleep in the same tent every night. Mat then discussed his plan to rescue Moiraine from the Tower of Ghenjei.
+
+{{quote|The Wheel has turned, for better or worse. And it will keep on turning, as lights die and forests dim, storms call and skies break. Turn it will. The Wheel is not hope, and the Wheel does not care, the Wheel simply is. But so long as it turns, folk may hope, folk may care. For with light that fades, another will eventually grow, and each storm that rages must eventually die. As long as the Wheel turns.|Thom Merrilin {{Ref/book|12|27}}}}
+
+===Tower of Ghenjei===
+After the Band set up camp in Caemlyn, the ''[[gholam]]'' attacked Mat. During the fight, the ''gholam'' threatened to kill Thom. After the attack, Mat insisted on Thom sleeping in the city in a different tavern each night. He met with Mat and Noal in lower Caemlyn to discuss their strategy on how to retrieve Moiraine from the [[Tower of Ghenjei]]. Thom provided a variety of musical instruments for the "music to dazzle" verse.
+
+Thom traveled to the Tower of Ghenjei with Mat and Noal in order to confront the [[Finn]] and rescue Moiraine. He was the one who endured the burning mist that had trapped Moiraine in the Chamber of Bonds to free her. After escaping the Finn's world, Thom and Moiraine announced to Mat their plans for marriage. Moriraine also [[Bonding|bonded]] Thom as her [[Warder]].
+
+===The Last Battle===
+Thom tagged along with Moiraine,when she entered the discussion between Rand and all the other monarchs of the land at the [[Field of Merrilor]]. There Moiraine managed to quell all arguments against Rand, leading to all the rulers signing the [[Dragon's Peace]]. Thom was with Rand when he stood outside [[Shayol Ghul]] testing whether the [[Dull dagger]] worked. Thom decided to guard the entrance to the Bore rather than enter with Rand, Moiraine, and Nynaeve. He kissed Moiraine goodbye and watched them as they enter the Pit of Doom. There were many channelers wearing [[Mask of Mirrors]] posing as, among others, [[Cadsuane Melaidhrin]]. He killed at least five intruders, the last one being [[Jeaine Caide]], and dumped their bodies in a hollow not far from his position. He used his time guarding the passage writing a ballad telling Rand's tale and the Last Battle. He compared several words to each other to determine which ones he would use.
+
+After killing the Black Sister, he started writing everything down before he was forced to flee because the battle was nearing its end. When the [[Bore]] closed, he grabbed Moiraine who had rushed out of the cave to keep her from falling over the cliff.
+
+[[File:Thom Merrilin.JPG|thumb|right|250px|Thom Merrilin juggling]]
+
+== Viewings ==
+A man, not Thom, juggling fire and the White Tower. {{ref|The man is most likely Thom's nephew, Owyn, who was Gentled by the White Tower. Likely juggling fire is symbolic of his channeling, and the White Tower of his Gentling.}}
+
+== Similarities to Merlin ==
+*Both Thom and Merlin advise very important people in their respective series (Rand and King Arthur), and after certain events both Thom and Merlin cease to advise their former pupil.
+*In some legends, Merlin is the son of an Incubus; a male version of the Succubus known for its abilities at manipulation, much as Thom plays the Game of Houses.
+*The persona of Merlin is also linked to a woman named Nynaeve (one of a number of Lady of the Lakes with similar names), and is eventually trapped in an enchanted tower by her.
+*Merlin was known for the ability to shape-shift, changing his appearance to disguise his identity. Thom is an excellent spy with the ability to blend into any situation without appearing out of place.
+*Ironically, Thom makes a reference to it himself. When speaking of how history may not remember him correctly. "Thom Merrilin. Not a gleeman — but what? Who can say? Not eating fire, but breathing it. Hurling it about like an Aes Sedai.” {{Ref/book|4|19}}
+
+== The Eleventh Ball ==
+[[Rodel Ituralde]] tells a story about an unnamed Court Bard in Caemlyn, who must be Thom, juggling in front of an unnamed Daughter-Heir, who must be Elayne.{{ref/book|12|10}} Having reached the point of juggling ten balls, he yielded to the clamor of the crowd, and his assistant tossed out an eleventh.
+:''That last "ball" wasn't actually a ball at all. It was some kind of Illuminator's trick; once it got halfway to the bard, it flashed and gave off a sudden burst of light and smoke. By the time our vision cleared, the bard was gone, and ten balls were lined up on the floor. When I looked around I found him sitting at one of the tables with the rest of the diners, drinking a cup of wine and flirting with Lord Finndal's wife.''
+
+== Exceptional knowledge ==
+* Thom is one of only two{{ref/book|7|21}} non-[[Aes Sedai]] to exhibit some knowledge of the [[Old Blood]] that cannot be directly attributed to Aes Sedai.{{ref/book|1|19}}
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Thom Merrilin}} was played by actor {{TVlink|Alexandre Willaume}}.
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Merrilin, Thomdril}}
+[[es:Thom Merrilin]]
+[[Category:Gleemen]]
+[[Category:POV character]]
+[[Category:Notes needed]]
+[[Category:Bards]]
+[[Category:Entertainers]]
+[[Category:Gamblers]]
+[[Category:Dice]]

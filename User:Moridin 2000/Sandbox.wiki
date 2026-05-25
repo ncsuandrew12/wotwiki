@@ -1,0 +1,232 @@
+= Character Module testing =
+
+==TO DO==
+
+* Populate with more chracters and fill current gaps
+* Strengths not all showing
+* Ajahs using coloured text
+* Alternative Darkfriend display
+* Remove Shadow controllers and move to a note for Darkfriend field. NB. This information is extremely patchy at present and elsewhere
+* There exists no current documentation to instruct users how to render tables on pages or create filters. 
+
+== Done ==
+
+* Bonds now present in various forms
+* Age calculated from verified DOB in WOTC. Age at death calculated from DOB and death date.
+* Merged alive and died for more efficient display. If Alive needed later for filtered renderings, add as an inferred characteristic.
+* More standard notation for death used.
+* Sisters who are known to have no Warders now dealt with as stating that rather than the same as unknown
+* Variable potential ages and birth dates dealt with<br />
+==Current full table==
+
+{{#invoke:Characters|get_characters_wikitable|all=true}}
+
+==Testing==
+⚡︎ ⚡
+
+= Heights of Buildings and Landmarks =
+
+Note: Areas depicting cities and settlements are not to scale. Any one of the major cities (Caemlyn, Tear, Cairhien, Tar Valon, Rhuidean) are large enough to be the width of the whole graphic.
+
+'''Winespring Inn and Oak'''
+
+* Winespring Inn is two storeys. 
+* The bottom is old grey stone said to be 1000 years old
+* The top is whitewashed. 
+* The roof is the only one in the village with red tiles
+* Beside the inn are ruins that are from the same time as the inn. 
+* In the ruins grows a large oak tree that has a circumference of 30 feet (approx 10 feet diameter). (tEotW, Ch. 1)
+
+'''Springpole'''
+
+* Erected on the green and 10 feet tall
+
+'''Walls of Baerlon'''
+
+* Trollocs 8*10 feet tall (Wheel of Time Companion, Trollocs)
+* Wooden pallisade surrounding Baerlon is 3 paces (18 feet) tall. Also described as "nearly twenty feet tall". (tEotW, Ch. 13)
+* Moiraine grows tall enough to tower over the wall and step over it. 
+
+'''Shadar Logoth'''
+
+* The gates are wide enough for fifty men to walk abreast 
+* Broken towers to either side
+* Fountain big enough to hold the whole population of Emonds Field
+*Ampitheatre
+* Big dome
+
+Monarch statues
+
+* with crowns
+* Kings and Queens a hundred feet high that continue for half a mile along high bluffs. (tEotW, Ch. 24)
+
+'''Spray'''
+
+* Two masts
+* Rand climbs the mast and it is fifty feet above the water. (tEotW, Ch. 24)
+* Spray has a length of eighty feet
+
+'''The White Bridge'''
+
+* More than twice as high as Spray's mast. Top of mast is at least 50 feet above water level (see Spray above). More than twice this is more than 100 feet. (tEotW, Ch. 26)
+* Milky white in colour. Appears to frail to support the weight. Piers extend into the water of the same spidery material. (tEotW, Ch. 26)
+
+'''Tower of Ghengei'''
+
+* 200 feet high and 40 feet diameter (TSR, Ch. 28; KoD, Ch. 10)
+* Shining with no rust. No marks or openings (tEotW, Ch. 24)
+
+'''Caemlyn'''
+
+* Grand Hall in Royal Palace: red and white floor tiles. Two rows of gleaming white marble columns 10 spans (60 ft) high run the length of the room.  (WH, Ch. 10; tFoH, Ch. 55; PoD, Ch. 28)
+* The Lion Throne is in the Grand Hall at the top of a marble dais with red carpeting and white steps. (WH, Ch. 10)
+
+'''The White Tower and Environs'''
+
+* Almost 100 spans (600 feet) tall. (NS, Ch. 4; tWotC, White Tower)
+*Has 40 levels. The top 20 contain living quarters for the Aes Sedai. The lower 20 contain offices and 
+*200 feet in diameter at the top,  300 feet at the base. (WotC, White Tower; BWB, Formation of the White Tower)
+*Amyrlin's study is on the third floor of the Tower. (tFoH, Prologue; CoT, Ch. 21) Amyrlin's rooms on the same level. (aCoS, Prologue)
+* Alviarin's quarters as Keeper: 100 feet above ground level (aCoS, Prologue) Ceiling higher than the upper levels.
+* Elaida's new apartments were close to 80 spans (480 feet) above the ground, not far from the top of the White Tower. (aCoS, Prologue)
+* Alviarin climbs close to 80 spans (480 feet) to Elaida's apartment from ground level (CoT, Ch. 21)
+* Hall of the Tower in a domed ceiling at least 30 paces (90 feet) high. Circled by a raised platform except where three equally spaced ramps break the circle. The Flame of Tar Valon is in the centre surrounded by a spiral of Ajah colours. (TDR, Ch. 22)
+*The sections of the Tower are divided equally between the Ajahs like slices of a pie. The Brown Ajah quarters are in the south-east wedge.
+* Brown Ajah quarters on 21st and 22nd floors swap with Novice Quarters. 
+*Novice quarters
+
+* Elaida's vanity project, the Amyrlin's Palace, is to be topped by a spire reaching 10 spans higher than the White Tower. (aCoS, Prologue)
+* Ogier grove two miles across (TGH, Ch, 39) NB: spiraling?
+* Grove "wall" made up of arches five spans (30 feet) high and twice (60 feet) wide.
+
+* '''Smaller Towers''': Not just spires, but spirals and fluted towers. (NS, Ch. 4) Some close together linked by bridges 200+ feet above street level (NS, Ch 4)
+
+* '''Bridges''': Stone lacework almost a mile long. (NS, Ch. 4) More than 50 paces (150 feet) above the river at their highest. (NS, Ch. 4; TDR, Ch. 11)
+
+* '''Squares''': Each with a fountain, mountain or huge statue. Some on plinths as much as 50 paces (150 feet) tall. (NS, Ch. 4)
+
+'''Portal Stone'''
+
+* 3 spans long (18 feet) and a pace (3 feet) thick. (TSR, Ch. 22)
+
+'''Hawkwing Talidar/Trolloc Victory Monument'''
+
+* 100 spans (600 ft) tall. Also described as "100 spans and more" (TGH, Ch. 10; TGH, Ch. 16)
+* Talidar monument was topped with a golden sun to celebrate the victory of the Light. (TGH, Ch. 10)
+* Trolloc monument topped with a raven. (TGH, Ch. 16)
+
+'''Ogier Great Trees and Stedding'''
+
+* NB: Mounds? Windowless?
+* 100 spans high (600 feet) (TGH, Ch. 39; KoD, Ch. 44)  
+* Ogier ceiling four spans (24 feet) high
+* Great stump at stedding Tsofu was easily 100 paces (300 feet) in diameter. (TGH, Ch. 35)
+
+'''Tammuz Square in Illian'''
+
+* Surrounded by white marble columns at lease 15 spans (90 feet) high and two spans (12 feet) thick.
+* Columns support nothing but wreathes of olive brances.
+* Many hides in area (a hide is 300 by 300 feet)
+* At each end is a white palace with columned walks and airy balconies, slender towers and purple roofs. 
+* The palaces are duplicates except that one (Great Hall of the Council) is two feet shorter than the other (The King's Palace_
+
+'''Stone of Tear'''
+
+* Mat estimates it is 100 paces, perhaps 120 paces to the lowest point of entry (300*360 feet) (TDR, Ch. 53)
+* Mat contemplates climbing three hundred feet or more of the Stone in the dark. (TDR, Ch. 54) This is the lowest accessible point.
+* Covers and area of 8-9 marches or greater than a square mile. A march is 1000 paces by 1000 paces (3000 by 3000 feet). A square mile in the books is 6000 by 6000 feet or 36 million square feet. Estimating 1.2 square miles we get 43.2 million square feet. Using marches, the estimate is 72-81 million square feet. Averaging this, we get approx 60 million square feet. If the Stone is exactly square, it would have sides 7700 feet long. (KoD, Ch. 21)
+* First battlements are 100 paces (300 feet) above the ground. (KoD, Ch. 21)
+* There are arrowslits aplenty and spouts for pouring oil lower than this. (KoD, Ch. 21)
+* The sides are sheer like cliffs. (TDR, Ch. 53; KoD, Ch. 21)
+* Stretches from the River Erinin into the heart of the city of Tear. (KoD, Ch. 21)
+* It is not as tall as the White Tower (CoT, Ch. 21)
+* Elayne can see a banner flapping at it's height at least 300 paces (900 feet) above the river. She finds it difficult to believe it had been built and not carved out of a mountain. (TDR, Ch. 48) This seems impossibly huge and contradicts information in CoT (above) We choose to believe that she means 300 feet not 300 paces.
+
+* Heart of the Stone contains huge columns of polished redstone fifty paces tall. (TDR, Ch. 4; TDR, Ch. 49)
+* Domed ceiling rises 50 paces (150 feet) high. (TDR, Ch. 4)
+* Columns too big for two very large men to encircle. (TDR, Ch. 4)
+* Floor pale grey stone worn smooth. (TDR, Ch. 4)
+
+* City wall of Tear is almost 10 spans (60 ft) high and a single pace (3 ft) wide at the top. (TDR, Ch. 53)
+
+'''Rhuidean'''
+
+* Avendesora is around 100 feet tall. (TSR, Ch. 24)
+* Aiel Visions ter'angreal: Transparent glass spires are in concentric rings almost as tall as Avendesora (so approx. 90 ft) (TSR, Ch. 24)
+* Immense palaces with red, white or blue columns 50 feet thick and 100 paces (300 feet) tall. (TSR, Ch. 24; TSR, Ch. 58)
+
+'''Cold Rocks Hold'''
+
+* Width of fissure is 10-12 paces (30-36 feet) at the widest. (TSR, Ch. 49)
+* Lian's home is on the highest level on the west side with canyon wall rising 100 paces (300 feet) above. (TSR, Ch. 49)
+
+'''Mountains of Mist Artefacts'''
+
+* Two great carved figures that took nearly an entire mountainside. (TSR, Ch. 28)
+* Carved letters incised into the cliff. Each 2 spans (12 feet) tall. (TSR, Ch. 28)
+
+'''Mountainside Snake'''
+
+* Carved into a smoothed area of cliff 100 paces wide (300 feet) by 300 spans (1800 feet). (tFoH, Ch. 19)
+* A wind-weathered snake entwining a staff. (tFoH, Ch. 19)
+
+'''Kin Tovere's Watchtowers'''
+
+* Twenty spans or more (120 feet) in height. (tFoH, Ch. 41)
+* Thrusts above the treetops and topped with a wide platform. (tFoH, Ch. 41)
+
+'''Great Hall in Cairhien'''
+
+* Angle-vaulted ceiling 50 paces (150 feet) high. (tFoH, Ch. 46)
+
+'''Dome of Truth'''
+
+* Ringed in thick white columns. Centre contains white marble dais. (LoC, Ch. 31)
+* Dome 100 paces (300 feet) across and 50 paces (150 feet) at it's highest point. (LoC, Ch. 31)
+
+'''Silver Death Spike'''
+
+* A mountain hollowed into a bowl with a spike one hundred spans high in the centre (tEotW, Ch. 24)
+* Anyone who comes within a mile of it dies (tEotW, Ch. 24)
+* Made of crystal harder than steel (KoD, Ch. 9)
+
+'''Far Madding Hall of the Counsels'''
+
+* Blue dome a hundred feet or more in height. (WH, Ch. 24)
+
+'''Black Tower grounds'''
+
+* Constructed with black stone
+* Gate: Crenellated and double-arched with down-pointing central spike. 50 feet tall and ten spans (60 feet) wide. (KoD, Ch. 11)
+No actual gates to close the opening
+* Gate Towers: Crenelated, thick and at least 15 spans (90 feet) high.
+* Walls: Stretch out of sight to east and west. Marked at intervals with foundations of bastions and towers. No higher than 4-5 paces (12-15 feet)
+
+'''Windfinders Gateway'''
+
+* Five paces (15 feet) tall and the width of the road (???) (KoD, Ch. 32)
+'''
+Dashar Knob'''
+
+* 100 feet high (aMoL, Ch. 37)
+* Inaccessable except through a Gateway because of the steep sides. (aMoL, Ch. 37)
+'''
+Height Fallen by Gareth Bryne and Siuan'''
+
+* 300 paces (900 feet) (aMoL, Ch. 21)
+'''
+TO DO'''
+
+Arc du Triomph
+Waygate
+Caemlyn Royal Palace?
+
+Choedan Kal Hand
+Cairhien topless towers and Wall?
+Full Choedan Kal statues
+Wavedancer
+Hyperion (tree)
+Coastal Redwood
+Other Trees
+Ogier Houses
+Empire State Building

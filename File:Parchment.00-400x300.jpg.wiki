@@ -1,0 +1,12 @@
+{{delete|Unused}}
+== Summary ==
+Parchment
+
+{{Cite/web
+| url = https://commons.wikimedia.org/wiki/File:Parchment.00.jpg
+| title = Parchment.00.jpg on wikimedia
+| accessdate = {{Date|2025-10-5}}
+}}
+
+== Licensing ==
+{{From Wikimedia}}

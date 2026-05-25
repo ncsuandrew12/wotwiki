@@ -1,0 +1,11 @@
+[[File:Brown Ajah.jpg|right|alt=A Brown Ajah sister stacking books in a library|thumb]]“Each of you pick two,” Lyrelle said to her companions. “A few of us will 
+take only one. Faolain and Theodrin, you are among those. Be quick about it, all
+of you. I want away from this place as soon as possible.” 
+
+The table below lists all known named members of the [[Brown Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. It does not include the ancient Brown Ajah scholar [[Yasicca Cellaech]], nor the historical Amyrlins [[Balladare Arandaille]], [[Doniella Alievin]], [[Igaine Luin]], [[Zeranda Tyrim]] or [[Kirin Melway]] as we know little more than their dates of tenure. 
+
+{{#invoke:Characters|get_characters_wikitable|ajah=brown|suppress_verify=true|columns=ajah}}
+{{notes}}
+[[Category:Brown Ajah]]
+[[Category:Aes Sedai]]
+[[Category:List pages]]

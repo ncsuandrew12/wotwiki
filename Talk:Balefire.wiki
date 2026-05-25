@@ -1,0 +1,29 @@
+==reincarnation==
+On the TOR website, RJ answered a question about balefire and the Dark One. Apparently, the reason the DO can't reincarnate people killed by balefire is simple: the Dark One's reincarnation ability has a time limit. I guess he has an instant or something like that to retrieve the soul before it is lost to him, and since balefire kills in reverse as well, that instant has already passed. And to those that have wondered how far back balefire can burn somebody, while no exact limits have been set, there are some logical limits you could probably come up with. You couldn't balefire Lanfear so far back that the Bore is never opened, for example: not only would this require an impossible amount of balefire, the Pattern would instantly come apart at the seams. Having to reweave an entire Age might do that. I don't know whether someone killed with balefire would be resurrected if whoever BF'd them was balefired themselves... sounds like a headache for the Creator, if you ask me. [[User:Kefkakrazy|Kefkakrazy]] 13:04, 18 April 2006 (UTC)
+
+:I think thats why it could completely unravel the pattern. If you do something that is impossible, there is really nothing else that can happen. Say forsaken A opens a gateway, and forsaken B jumps through and and balefires forsaken A. A never opened the gateway, which means B never balefired A, which means A did open the gateway, and so on and so on. [[User:207.181.15.218|207.181.15.218]] 20:08, 27 August 2007 (UTC)
+
+::The situation described above is an example of the [[wikipedia:Grandfather paradox|grandfather paradox]] that appears in some form whenever time travel or temporal modification are involved. It seems, though, that the burning and "reweaving" of the threads by balefire has little or no effect on the user. When Rand used balefire to destroy Rahvin, he still remembered Aviendha's and Mat's deaths, despite the fact that Rahvin's thread had been burned out to before the attack which killed them. More to the point, Rand still took actions, in pursuing and destroying Rahvin, that he would not have if Rahvin had ceased to exist earlier. The user of balefire, it seems, is not accefted, nor is their "path" changed between the farthest extent of the balefire into the past and the time of casting. --[[User:Matt Rubin|Matt Rubin]] 17:15, 29 August 2007 (UTC)
+
+:::I disagree. It might not affect memory of what was done, but it affects everything the balefired person did. [[User:207.181.15.218|207.181.15.218]] 03:33, 31 August 2007 (UTC)
+
+== Postmortem Balefire ==
+Does Balefire's thread-burning effect still work on those already dead. Could you, for instance, balefire a corpse to undo the dead person's last deeds?
+
+:Yes, Balefireing a boat will cause the boat to be underwater (to have already started sinking).  Thus it is reasonable to expect that Balefireing a sword would undo any wound that sword inflicted, or balefireing a dead body to undo anything that was done by that body for whatever durration the Balefire burned.  [[User:Melriken|Melriken]] 22:40, 12 March 2008 (UTC)
+
+==Memory==
+:''An interesting side effect of using balefire is that anyone that is affected by the "reversal" of time will still remember all the events that were undone as if they had actually happened even if the effects themselves no longer exist. ''
+I thought anyone at all remembered the original time line, with the sole exception of those altered by it (ie when Rand Balefired Raven everyone remembered Avienda dying, accept Avienda) [[User:Melriken|Melriken]] 22:40, 12 March 2008 (UTC)
+
+If I recall correctly, Asmodean remembered his "death", but didn't want to think about it because he knew what had happened, and remembered what balefire had done in the Age of Legends. I'll look it up in the book. --[[User:Eki!|Eki!]] 20:36, 21 May 2008 (UTC)
+
+I checked, and I had remembered wrong. People had been surprised to see him, and he saw that balefire had been used because of the misses. He figured it out himself.
+However, I'm pretty sure that Mat remembered a big wound from the Darkhounds, which was reduced to a small one after Rand had balefired them. I believe the exception to remembering is if you die.--[[User:Eki!|Eki!]] 13:19, 22 May 2008 (UTC)
+
+== Paradox ==
+Well, I might be breaking the laws of thought by asking this, but here it goes. ;D If someone balefires another person, that person gets wiped from existence. If the attacker is himself then balefired immediately after, does the first person balefired come back to life, since their attacker evidently ended up not having attacked at all after being burned from the pattern? Or would the first person be doomed anyway? [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]][[User_talk:Rahien|<font color="#FFB90F">'''☯'''</font>]] 04:20, November 7, 2010 (UTC)
+:See [http://linuxmafia.com/jordan/2_nondark/2.3_one-power/2.3.07_balefire.html here]. I would think that you are right. Alan balefires Billy. Then, Alan is balefired by Chuck. I would think that Billy would be back. That would be my thoughts. ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 05:09, November 7, 2010 (UTC)
+
+==Fire and Air==
+Article mentions when males make it using saidin it uses fire and air weaves. Is there any indication as to whether this is also the case when women do it using saidar? [[User:Tycio|Tycio]] ([[User talk:Tycio|talk]]) 20:06, 21 April 2025 (UTC)

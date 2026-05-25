@@ -1,0 +1,17 @@
+<noinclude>
+Please keep only six items at a time on this template.  Remove old items and place them in the proper archive (linked below).
+</noinclude>
+*'''April 15th - 16th, 2011''': JordanCon 2011: A Concise and Orderly Report of the Events by Leigh Butler. [http://www.tor.com/blogs/2011/04/jordancon-2011-a-concise-and-orderly-report-of-the-events-part-1 Part 1] and [http://www.tor.com/blogs/2011/04/jordancon-2011-a-concise-and-orderly-report-of-the-events-part-2 part 2] at Tor.com
+*'''March 30th, 2011''': Tournament season [http://www.dragonmount.com/index.php/News/events/tournamentseason at Dragonmount.com]
+*'''March 25th, 2011''': Fan Art Friday: The [[Black Tower]] [http://www.dragonmount.com/index.php/News/events/fan-art-friday/fanartfridaytheblacktower at Dragonmount.com]
+*'''March 21st, 2011''': WoT Video News: JordanCon 2011 [http://www.dragonmount.com/index.php/News/videonews/jordancon2011 at Dragonmount.com]
+*'''March 18th, 2011''': Fan Art Friday: Japanese Covers [http://www.dragonmount.com/index.php/News/events/fan-art-friday/fan-art-friday-japanese-covers-r102 at Dragonmount.com]
+*'''March 15th, 2011''': Ta'veren Tees now open. [http://www.dragonmount.com/index.php/News/events/taveren-tees-open Dragonmount.com's announcement] [http://www.taverentees.com/ TaverenTees.com]
+----
+<div style="text-align: right; font-size:90%;">''[[Template talk:News|Submit news stories]]''</div>
+<noinclude>
+*[[Template:News/2009|2009 Archive]]
+*[[Template:News/2010|2010 Archive]]
+*[[Template:News/2011|2011 Archive]]
+</noinclude><noinclude>
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

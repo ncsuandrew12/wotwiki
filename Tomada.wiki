@@ -1,0 +1,19 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| occupation=Treesingers{{!}}Seed Singer
+| gender=Male
+| mentioned={{tsr|26}}
+| lastmentioned={{tsr|26}}
+}}
+'''Tomada''' was an [[Ogier]] from the [[Age of Legends]].
+
+==History==
+Tomada was among the Ogier that sang with [[Someshta]], [[Coumin]], and the [[Da'shain Aiel]]. After the singing, he asks a soldier for news about the [[War of Power|war]]. The soldier replies that [[Lews Therin Telamon]] and the [[Hundred Companions]] succeeded in sealing the [[Bore]].{{ref/book|4|26}}
+
+{{notes}}
+{{short}}
+[[Category:Age of Legends (people)]]
+[[Category:Historical people]]

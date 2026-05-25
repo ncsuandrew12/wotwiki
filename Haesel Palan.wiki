@@ -1,0 +1,23 @@
+{{character 
+| image=MurandyFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Murandian
+| occupation=Merchant
+| gender=Female
+| build=Plump
+| appeared={{ns|18}}
+| lastappeared={{ns|18}}
+| living=ns
+}}{{For|the [[Aes Sedai]] of the [[Brown Ajah]]|Haesel Lusara}}
+'''Haesel Palan''' is a rug merchant from [[Murandy]].{{ref/book|c|{{PAGENAME}}||Palan, Haesel}}
+
+==Appearance==
+Haesel is a plump woman.
+
+==History==
+She stayed at the [[Gates of Heaven]] Inn in [[Canluum]] at the same time as several [[Aes Sedai]], including [[Cadsuane Melaidhrin]], [[Larelle Tarsi]], [[Felaana Bevaine]], and [[Merean Redhill]]. Though not in the company of the others, the newly raised [[Moiraine Damodred]] of the [[Blue Ajah]] also stayed at the inn concurrently with the them while on the [[Tamra Ospenya's Searchers|search]] for the infant [[Dragon Reborn]]. After being questioned publicly by Cadsuane and Felaana, she seemed a [[wilder]] to the innkeeper, who had Moiraine share her room and bed with Haesel Palan.{{Ref/book|0|18}} Moiraine did not enjoy the night; Palan snored and spent half the night talking.{{Ref/book|0|18}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Palan, Haesel}}

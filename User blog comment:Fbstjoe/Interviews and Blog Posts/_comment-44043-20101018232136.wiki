@@ -1,0 +1,3 @@
+It is possible to create custom namespaces, however, an admin would have to request it from Wikia. We would have to come to a consensus as to the naming convention for the namespace. 
+
+I'm not entirely sure, though, that we would need a separate namespace just for interviews and another one just for Q & A sessions. Just my opinion. We'll see what others think. :)

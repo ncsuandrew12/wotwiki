@@ -1,0 +1,19 @@
+{{ character
+| image=Lira.png
+| imagesize=250px
+| nationality=Kandori
+| occupation=Serving girl
+| gender=Female
+| appeared={{ns|16}}
+| lastappeared={{ns|16}}
+| living=ns
+}}'''Lira''' is a serving girl at [[The Blue Rose]] in [[Canluum]].{{ref|{{twotc}}, Lira}}
+
+==Appearance==
+She is dark-eyed and full-lipped, and has a throaty voice.
+
+==Activities==
+Lira offered to spend the night with [[Lan]].{{ref/book|0|16}}
+
+{{short}}
+{{notes}}

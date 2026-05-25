@@ -1,0 +1,22 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Unknown nationality
+| rank=Sergeant
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| status=Alive
+| mentioned={{tom|8}}
+| lastappeared={{tom|8}}
+| living=tom
+}}
+'''Gufrin''' is a [[Redarms]] sergeant.{{ref/book|13|8}}
+
+==Appearance==
+
+He is a sturdy, broad-shouldered man. Not terribly bright, but keen eyed.
+
+==Activities==
+He informs [[Mat]] that all three Aes Sedai had returned to the camp while Mat was away.
+
+{{notes}}

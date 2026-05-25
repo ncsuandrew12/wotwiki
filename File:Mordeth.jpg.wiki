@@ -1,0 +1,7 @@
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Character
+| Description             = [[Mordeth]] showing his true self to [[Rand al'Thor]]
+| Source                  = ''[[Robert Jordan's The Wheel of Time Calendar 2009]]''
+| Artist                  = James Keegan
+}}

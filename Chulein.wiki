@@ -1,0 +1,17 @@
+{{character
+| image=SeanchanFlag.png
+| imagesize = 250px
+| occupation=Morat'raken
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| appeared={{tpod|6}}
+| lastappeared={{tpod|6}}
+| living=tpod
+}}
+'''Chulein''' is a [[Seanchan]] ''[[morat'raken]]''.
+
+== Activities ==
+From her [[Raken]] she witnesses the massive explosion on the [[Kin]]'s farm when [[Elayne Trakand]] unravels her Gateway. She returns to [[Ebou Dar]] to report back.
+[[Category:Ever Victorious Army]]
+[[Category:POV character]]

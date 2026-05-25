@@ -1,0 +1,22 @@
+{{ character
+| image=KandorFlag.png
+| imagesize = 250px
+| affiliation=Kandor
+| nationality=Kandori
+| gender=Male
+| occupation=Soldier
+| hair=Graying
+| status=Alive
+| appeared={{ns|15}}
+| lastappeared={{ns|15}}
+| living=ns
+}}
+'''Alin Seroku''' is a gate officer from [[Kandor]].
+ 
+== Appearance ==
+He is a bluff, graying man with white scars on his face. 
+
+== Activities ==
+He gives warning to [[Lan Mandragoran]] and [[Bukama Marenellin]] to keep the peace inside [[Canluum]].
+
+{{DEFAULTSORT:Seroku, Alin}}

@@ -1,0 +1,24 @@
+{{for|other uses of 'Elnore'|Elnore (disambiguation)}}
+{{for|other uses of 'al'Meara'|al'Meara (disambiguation)}}
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| occupation=Farmer
+| title=Women's Circle Member
+| gender=Female
+| status= Dead
+}}'''Elnore al'Meara''' was one of the village women of [[Emond's Field]]. She was the wife of a shepherd, [[Master al'Meara]], and the mother of [[Nynaeve al'Meara|Nynaeve]]. She passed away when Nynaeve was still young.
+
+== History ==
+Elnore was married to a shepherd, and had a daughter with him named [[Nynaeve al'Meara|Nynaeve]]. Her daughter considered her a very difficult woman to live with.
+
+Elnore never had to raise her voice; she told people what to do, and they obeyed, even the [[The Congars and the Coplins|Coplins and Congars]]. The [[Women's Circle]] always asked her to speak first so that people could know her opinions before opening their mouths. Every woman in the district wanted her advice, and most of the men, too. Elnore never lost her temper, but even [[Doral Barran]], the old [[Wisdom]], jumped to apologize as soon as one of Elnore's rare frowns appeared.<ref name="comp">''[[The Wheel of Time Companion]]'', Elnore.</ref>
+
+== Activities ==
+In Nynaeve's test for [[Accepted]], she has a daughter named [[Elnore Mandragoran|Elnore]], after her own mother.
+==In the television series==
+In the television series, {{TVlink|Elnore al'Meara}} is played by actress {{TVlink|Melissa James}}.
+{{notes}}
+{{DEFAULTSORT:al'Meara, Elnore}}

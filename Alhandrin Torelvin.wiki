@@ -1,0 +1,15 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Cairhienin
+| rank=Officer
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| status=Alive
+| mentioned={{loc|5}}
+| lastmentioned={{loc|5}}
+| living=loc
+}}'''Alhandrin Torelvin''' is one of [[Matrim Cauthon]]'s officers in the [[Band of the Red Hand]]. He commanded the Third Banner of Horse.{{ref|{{twotc}}, Alhandrin Torelvin}}
+
+{{notes}}
+{{short}}

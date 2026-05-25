@@ -1,0 +1,38 @@
+{{for|the main character|Elayne Trakand}}
+{{VG}}
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| nationality=Unknown nationality
+| occupation=
+| title=Keeper of the Chronicles
+| gender=Female
+| rank=Aes Sedai
+| build=
+| height=
+| affiliation=White Tower
+| ajah=Brown
+| mentioned=
+| appeared=''[[The Wheel of Time (video game)|The Wheel of Time]]''
+| lastappeared=
+| lastmentioned=
+| living=
+| ewot=
+| status=
+|birth =
+}}
+'''Elayna''' was an [[Aes Sedai]] of the [[Brown Ajah]] in a [[Mirror World]], where she served as [[Keeper of the Chronicles]], and briefly as [[Amyrlin Seat]] around {{ne|850}}.
+== Abilities ==
+Given her extreme natural weakness in the White Tower to the point that she cannot effectively participate in any combat without the use of objects of the One Power, Elayna's natural strength in the One Power likely sits at around {{opsl|51}}, the level of [[Daigian Moseneillin]], the weakest ever known Aes Sedai from the primary world. This is only an estimation, as the Mirror World that Elayna is from may have different standards for an Aes Sedai. 
+
+== History ==
+As a child, Elayna was once trapped in a collapsing cave during one of her adventures. She remembered this experience during her test to be raised [[Accepted]] at the [[White Tower]], during the first experience with the [[silver arches]]. She then experienced being trapped in the basement of a prominent [[Darkfriend]], and being sent to [[Fal Dara]] to stand against [[Shadowspawn]] as a full Aes Sedai. The [[Mistress of Novices]] of the time, of the [[Blue Ajah]], deemed that she had passed the test, and raised her to Accepted.
+
+Elayna was eventually raised to the shawl and chose the [[Brown Ajah]], although she was as weak as possible for an Aes Sedai to be. She was a student of ''[[ter'angreal]]'' and used them to raise her abilities in the [[One Power]] to the extent that it raised her own political standing within the White Tower.
+
+She was good friends with an Aes Sedai of the [[Green Ajah]] who once served as [[Keeper of the Chronicles]]. Eventually, Elayna's friend was raised to the [[Amyrlin Seat]], and Elayna was chosen to be her new Keeper of the Chronicles.
+
+Elayna was essential in her Mirror World thwarting a plan of [[Ishamael]] to weaken the seals on the [[Dark One]]'s prison before the [[Last Battle]] could take place.<ref name="videogame">''[[The Wheel of Time (video game)|The Wheel of Time]]</ref>
+{{notes}}
+[[Category:Characters original to the video game]]
+[[Category:Amyrlin Seats]]

@@ -1,0 +1,9 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Item
+| ImageType2         = CCG
+| Description        = The [[Lion Throne]].
+| Source             = The "[[Dark Prophecies]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Rob Carlos
+| Artist2            = Ran Ackels
+}}

@@ -1,0 +1,244 @@
+{{TOCright}}
+==Syntax==
+<pre>{{Quote
+ | quote                    = 
+ | speakers                 = 
+ | addressees               = 
+ | pseudosource             = 
+ | description              = 
+ | description_extra        = 
+ | topic                    = 
+ | early_refs               = 
+ | other_refs               = 
+ | quote_border             = 
+ | quote_marks              = 
+ | quote_margins            = 
+ | quote_width              = 
+ | quote_render_refs        = 
+ | quote_render_description = 
+}}</pre>
+
+
+==Usage==
+
+===Basic===
+
+ <nowiki>{{Quote|Quotation}}</nowiki>
+produces:
+
+{{Quote|Quotation}}
+
+===Missing quote===
+
+ <nowiki>{{Quote}}</nowiki>
+produces:
+
+{{Quote}}
+
+----
+
+===Attribution===
+
+ <nowiki>{{Quote|Quotation|Mat}}</nowiki>
+produces:
+
+{{Quote|Quotation|Mat}}
+
+----
+
+===Basic with topic===
+
+ <nowiki>{{Quote|quote=Quotation|description=Source|topic=Topic}}</nowiki>
+produces:
+
+{{Quote|quote=Quotation|description=Source|topic=Topic}}
+
+===Missing description===
+
+ <nowiki>{{Quote|quote=Quotation|speakers=Mat|topic=Topic}}</nowiki>
+produces:
+
+{{Quote|quote=Quotation|speakers=Mat|topic=Topic}}
+
+===Reference===
+
+ <nowiki>{{Quote|quote=Quotation|other_refs={{ref|A reference}}}}</nowiki>
+produces:
+
+{{Quote|Quotation|||{{ref|A reference}}}}
+
+===Early reference===
+
+ <nowiki>{{Quote|quote=Quotation|early_refs={{ref|A reference}}}}</nowiki>
+produces:
+
+{{Quote|quote=Quotation|early_refs={{ref|A reference}}}}
+
+===Full===
+
+<pre>{{Quote
+ | quote = Quotation
+ | description = Somebody
+ | topic = Topic
+ | early_refs = {{ref|Early reference}}
+ | other_refs = {{ref|A reference}}
+}}</pre>
+produces:
+
+{{Quote
+ | quote = Quotation
+ | description = Somebody
+ | topic = Topic
+ | early_refs = {{ref|Early reference}}
+ | other_refs = {{ref|A reference}}
+}}
+
+----
+
+===Internal quote marks===
+
+ <nowiki>{{Quote|Lews Therin Telamon wandered the palace, deftly keeping his balance when the earth heaved. "Ilyena! My love, where are you?"|Lews Therin Telamon}}</nowiki>
+produces:
+
+{{Quote|Lews Therin Telamon wandered the palace, deftly keeping his balance when the earth heaved. "Ilyena! My love, where are you?"|Lews Therin Telamon}}
+
+----
+
+===Internal italics and quote marks, with attribution link and footnote===
+
+ <nowiki>{{Quote|''Dovie’andi se tovya sagain.'' "It’s time to toss the dice."|[[Mat Cauthon]] (inner monologue){{ref/book|6|5}}}}</nowiki>
+produces:
+
+{{Quote|''Dovie’andi se tovya sagain.'' "It’s time to toss the dice."|[[Mat Cauthon]] (inner monologue){{ref/book|6|5}}}}
+
+----
+
+===Quote with surrounding text===
+
+<pre>Some earlier text
+
+{{Quote|Quotation|Mat}}
+Some later text
+
+Some even later text</pre>
+produces:
+
+Some earlier text
+
+{{Quote|Quotation|Mat}}
+Some later text
+
+Some even later text
+
+----
+
+===Immediately consecutive quotes with surrounding text===
+
+<pre>Some earlier text
+
+{{Quote|Quotation 1|Alice}}
+{{Quote|Quotation 2|Bob}}
+
+Some later text
+
+Some even later text</pre>
+produces:
+
+Some earlier text
+
+{{Quote|Quotation 1|Alice}}
+{{Quote|Quotation 2|Bob}}
+
+Some later text
+
+Some even later text
+
+----
+
+===Spaced consecutive quotes with surrounding text===
+
+<pre>Some earlier text
+
+{{Quote|Quotation 1|Alice}}
+
+{{Quote|Quotation 2|Bob}}
+
+Some later text
+
+Some even later text</pre>
+produces:
+
+Some earlier text
+
+{{Quote|Quotation 1|Alice}}
+
+{{Quote|Quotation 2|Bob}}
+
+Some later text
+
+Some even later text
+
+----
+
+===Consecutive quotes with breaks===
+
+<pre>Some earlier text
+
+{{Quote|Quotation 1|Alice}}
+
+{{Quote|Quotation 2 line 1
+Quotation 2 line 2|Alice}}
+
+{{Quote|Quotation 3 line 1<br />Quotation 3 line 2|Alice}}
+
+{{Quote|Quotation 4 line 1<br />
+Quotation 4 line 2|Alice}}
+
+{{Quote|Quotation 5|Bob}}
+
+Some later text
+
+Some even later text</pre>
+produces:
+
+Some earlier text
+
+{{Quote|Quotation 1|Alice}}
+
+{{Quote|Quotation 2 line 1
+Quotation 2 line 2|Alice}}
+
+{{Quote|Quotation 3 line 1<br />Quotation 3 line 2|Alice}}
+
+{{Quote|Quotation 4 line 1<br />
+Quotation 4 line 2|Alice}}
+
+{{Quote|Quotation 5|Bob}}
+
+Some later text
+
+Some even later text
+
+===Consecutive quotes without attribution===
+
+<pre>Some earlier text
+
+{{Quote|Quotation 1}}
+{{Quote|Quotation 2}}
+
+Some later text
+
+Some even later text</pre>
+produces:
+
+Some earlier text
+
+{{Quote|Quotation 1}}
+{{Quote|Quotation 2}}
+
+Some later text
+
+Some even later text
+
+{{notes}}
+<noinclude>[[Category:Template documentation]]</noinclude>

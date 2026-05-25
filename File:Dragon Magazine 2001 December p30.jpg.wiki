@@ -1,0 +1,10 @@
+== Summary ==
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Magazine page
+| Description             = Latent Channeler (Dragon Magazine 2001 December page 30)
+| Source                  = https://ia903109.us.archive.org/8/items/DragonMagazine260_201801/Dragon%20Magazine%20Annual%206%2C%202001.pdf
+| Artist                  = Owen K.C. Stephens
+| Artist2                 = Scott Schomburg
+}}
+[[Category:Dragon Magazine Annual 6]]

@@ -1,0 +1,19 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Dead
+| death={{Fy|1046}}
+| nationality=Andoran
+| rank=Queen
+| title=[[Queen of Andor]]
+| gender=Female
+| mentioned=[[RPG]]
+| lastmentioned=[[RPG]]
+}}
+'''Melasune''' (presumed, but not confirmed, to be Melasune Casalain) was the third Queen of [[Andor]]. She was the daughter of [[Alesinde]] and the granddaughter of [[Ishara Casalain]] and [[Souran Maravaile]].
+
+==History==
+The date of Melasune's reign is unknown. In accordance with her grandmother's treaty of alliance with the [[Aes Sedai]], Melasune was sent to [[Tar Valon]] for schooling in the art of politics as a young woman.
+
+When her mother died in {{Fy|1035}}, Melasune's own brothers had been killed in battle during the [[War of the Hundred Years]], leaving her to take the [[Lion Throne]] of Andor. She ruled for eleven years before dying in {{Fy|1046}}. She was succeeded by [[Termylle]]. It is not known whether Termylle was her daughter or not.
+[[Category:Historical people]]

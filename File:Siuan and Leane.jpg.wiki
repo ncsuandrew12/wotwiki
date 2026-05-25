@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://meeppodraws.tumblr.com/post/149331539866/i-love-siuan-shes-so-anime
+|Description = Fan art of [[Siuan Sanche]] and [[Leane Sharif]].
+|Artist      = meeppodraws
+}}

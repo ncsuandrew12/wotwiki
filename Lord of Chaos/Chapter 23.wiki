@@ -1,0 +1,44 @@
+{{for|other chapters that have "message" in the title|Message}}
+{{summary | book=6 |
+|chapter=23
+|title=To Understand a Message
+|icon=Snake
+|setting=[[Illian (city)]]
+}}
+
+{{pov|[[Graendal]]}}
+
+Graendal visits [[Sammael]]'s rooms in [[Illian]] and is amazed at the items he has found from the [[Age of Legends]]. He hints that he has found something powerful, which Graendal suspects means he has an ''[[angreal]]'' or ''[[sa'angreal]]''.{{ref|It is actually a ''[[gholam]]''.}} Sammael claims he now has a truce with [[Rand]]. Sammael wants to know where the other [[Forsaken]] are. Graendal states that [[Asmodean]]{{ref|Graendal's knowledge of his death (here and more obliquely in [[Lord of Chaos/Chapter 6|Chapter 6]]), missed by many readers, was her first confession to his murder!}} and [[Lanfear]] are dead and [[Moghedien]] probably is, too. [[Mesaana]] is in the [[White Tower]]. Graendal does not know where any of the others are. Sammael hints that the Great Lord has promised him the position of [[Nae'blis]] and tells Graendal to find where the others are so he can point Rand at them.
+
+{{pov|[[Sammael]]}}
+
+Sammael plans to do whatever he must to survive and become Nae'blis and defeat Rand in the [[Last Battle]].
+
+==Characters==
+* [[Graendal]]
+* [[Sammael]]
+
+===Referenced===
+* [[Ceran Tol]]
+* [[Andris]]
+* [[Lews Therin]]
+* [[Demandred]]
+* [[Semirhage]]
+* [[Mesaana]]
+* [[Asmodean]]
+* [[Lanfear]]
+* [[Moghedien]]
+* [[Ishamael]]
+* [[Rahvin]]
+
+==Places==
+* [[Illian (city)]]
+
+===Referenced===
+* [[Tear]]
+* [[Shayol Ghul]]
+* [[Arad Doman]]
+
+{{notes}}
+
+{{DISPLAYTITLE:''To Understand a Message''}}

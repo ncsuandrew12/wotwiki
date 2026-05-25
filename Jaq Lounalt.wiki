@@ -1,0 +1,37 @@
+{{ character 
+| image=TarabonFlag.png
+| imagesize=250px
+| nationality=Taraboner
+| gender=Male
+| affiliation=Darkfriend
+| build=Lean
+| status=Dead
+| death={{ne|1000}}
+| mentioned={{tsr|38}}
+| appeared={{cot|15}}
+| lastappeared={{tom|23}}
+| lastmentioned={{tom|24}}
+}}
+{{dablink|For the similarly named [[Murandy|Murandian]] soldier, see [[Jac Wynn]]. For the similarly named resident of the [[Two Rivers]], see Jac al'Seen.}}
+
+'''Jaq Lounalt''' was a torturer from [[Tarabon]] and a [[Darkfriend]].
+
+== Appearanace ==
+He was lean with huge mustaches.{{ref/book|10|15}}
+
+== Activities ==
+===With Arymilla Marne===
+Jaq Lounalt was in the employ of [[Arymilla Marne]] and resided in her camp outside [[Caemlyn]].{{ref/book|10|15}} After she took Caemlyn, Arymilla planned on using Jaq to coerce the [[High Seat]]s that were supporting [[Elayne Trakand]] to support her as queen of [[Andor]].{{ref/book|11|17}}
+
+===With Sylvase Caeren===
+When [[Sylvase Caeren]] takes over as [[High Seat]] of [[House Caeren|her house]], she pledges her support to Elayne and the use of Jaq in the questioning of Arymilla, [[Naean Arawn]], and [[Elenia Sarand]].{{ref/book|11|32}} Elayne uses Jaq's services to question [[Daved Hanlon|Doilin Mellar]] and the sisters of the [[Black Ajah]] that tried to kidnap her.{{ref/book|11|35}}{{ref/book|13|23}} 
+
+===True allegiance===
+Unknown to Elayne, Jaq was a Darkfriend and was secretly carrying messages to and from the sisters and planning their escape.{{ref/book|13|23}} When Elayne [[Mask of Mirrors|disguised]] herself as one of the [[Forsaken]] and attempted to get information out of [[Chesmal Emry]], Jaq tried to free the Black sisters. 
+
+In the ensuing skirmish Elayne is badly injured, while Chesmal, [[Eldrith Jhondar]], and [[Temaile Kinderode]], were killed, while Jaq managed to flee the scene.{{ref/book|13|23}} His body is later found with a knife in the back.{{ref/book|13|24}}
+
+{{Notes}}
+{{DEFAULTSORT:Lounalt, Jaq}}
+
+[[es:Jaq Lounalt]]

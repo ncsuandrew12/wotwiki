@@ -1,0 +1,24 @@
+{{Character
+| image=MurandyFlag.png
+| imagesize=250px
+| affiliation=Hunter of the Horn
+| title=Lord
+| occupation=Hunter of the Horn
+| nationality=Murandian
+| gender=Male
+| build=Lean
+| status=Alive
+| appeared={{loc|5}}
+| lastappeared={{loc|5}}
+| living=loc
+}}
+'''Culen''' is a nobleman and a [[Murandian]] [[Hunter of the Horn]] from [[Minde]]. 
+
+==Appearance==
+Culen is tall and lean with a curled mustache.
+
+== Activities ==
+[[Matrim Cauthon]] orders him, [[Paers]] and their servant, [[Padry]], out of [[Maerone]] for manhandling [[Olver]], who was sitting on Paers' horse.{{ref/book|6|5}}
+
+{{notes}}
+[[Category:Nobility]]

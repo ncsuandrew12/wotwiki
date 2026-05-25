@@ -1,0 +1,28 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| affiliation=Gareth Bryne
+| nationality=Andoran
+| gender=Male
+| status=Alive
+| mentioned={{tfoh|1}}
+| appeared={{tfoh|12}}
+| lastappeared={{tfoh|28}}
+| living=tfoh
+}}
+{{dablink|For the farmer from the [[Two Rivers]], see [[Thad Torfinn]].}}
+'''Thad Haren''' is an old warhand under the command of [[Gareth Bryne]] and brick maker in retirement.
+
+== Appearance ==
+His wrinkled face is like crumpled leather.
+
+It is said that, despite being beyond seventy yeas of age, he could still "track yesterday's wind across stone by moonlight."
+
+== Activities ==
+He sets off with Gareth to track down [[Siuan Sanche]] when she broke her oath to Gareth. This leads him all the way from [[Andor]] to [[Salidar]] where the Rebel [[Aes Sedai]] are.{{ref/book|5|1}}
+
+He is sent to scout around and find out what the [[Whitecloaks]] are doing.
+
+{{notes}}
+{{DEFAULTSORT:Haren, Thad}}
+[[Category:Short pages]]

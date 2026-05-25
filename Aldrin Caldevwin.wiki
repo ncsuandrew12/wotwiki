@@ -1,0 +1,30 @@
+{{ character
+| image=Aldrin Caldevwin.gif
+| imagesize=250px
+| nationality=Cairhienin
+| occupation=Soldier
+| gender=Male
+| rank=Captain
+| status=Alive
+| hair=Dark, shaved, powdered
+| appeared={{tgh|21}}
+| lastappeared={{tgh|21}}
+| living=tgh
+}}
+{{for|the similarly named [[Aes Sedai]] of the [[White Ajah]]|Aledrin}}
+'''Aldrin Caldevwin''' is a Captain in the [[Cairhienin]] army. His banner bears a single white star.
+
+==Appearance==
+He has shaven and dusted the front of his hair in the fashion of a Cairhienin soldier. His hair is long and dark at the back.
+
+==Activities==
+He is in charge of clearing free the male [[Choedan Kal]].
+
+He meets [[Rand al'Thor]] in [[The Nine Rings (inn)]] and interrogates him.{{ref/book|2|21}}
+
+He assigns [[Elricain Tavolin]] to be Rand's bodyguard while Rand is in Cairhien. He is surprised when Rand tells him [[Selene]] left The Nine Rings during the night even though he had soldiers watching it.
+
+He is in the guard house one day when Rand asks about [[Ingtar]] and Selene but ducks out of sight and the clerk pretends that he is not present.{{ref/book|2|30}}
+
+{{notes}}
+{{DEFAULTSORT:Caldevwin, Aldrin}}

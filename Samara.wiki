@@ -1,0 +1,13 @@
+'''Samara''' is a town in [[Ghealdan]]. It is situated on the River [[Eldar]].
+
+It was here that [[Nynaeve al'Meara]] was brought to meet [[Masema Dagar]], the Prophet of the Dragon.{{ref/book|5|39}}
+
+Shortly after this meeting, she met [[Galad Damodred]] and other [[Children of the Light]].{{ref/book|5|40}} A conflict between the two forces of the [[Dragonsworn]] and Children of the Light takes place in Samara, and after it, only ruins are left.{{ref/book|5|48}}
+
+{{notes}}
+
+{{short}}
+
+[[es:Samara]]
+[[Category:Ghealdan]]
+[[Category:Towns]]

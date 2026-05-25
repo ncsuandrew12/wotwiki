@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|October}}
+|{{Wotmonth|Nesan}}
+|}
+'''Nesan 2 (October 28)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Mazrim Taim]] arrives in [[Caemlyn]]. [[Rand]] takes him to [[Asha'man|the farm]] and installs him as the leader there.
+*{{ne|999}} - In the night, Rand visits [[Mat]] in [[Maerone]] and tells him of Taim.
+<noinclude>
+==External links==
+*[[wikipedia:october 28|October 28]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

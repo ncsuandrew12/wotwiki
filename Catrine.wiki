@@ -1,0 +1,20 @@
+{{character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| occupation=Maid
+| gender=Female
+| appeared={{tgh|21}}
+| lastappeared={{tgh|21}}
+| living=tgh
+}}
+'''Catrine''' is a maid at [[The Nine Rings (inn)]] in [[Tremonsien]].
+
+==Activities==
+She serves [[Rand]], [[Hurin]], [[Loial]] and [[Selene]] when they are on their way to Cairhien.{{ref/book|2|21}}
+
+She drops a lamp, just as [[Aldrin Caldevwin]] begins to question Selene.{{ref|Likely caused by Selene to avoid being questioned}}
+
+{{notes}}
+{{short}}

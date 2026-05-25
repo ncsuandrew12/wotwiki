@@ -1,0 +1,5 @@
+<includeonly>{{Link
+  | url  = https://www.reddit.com/user/{{{1}}}/
+  | text = {{{text|u/{{{1}}}}}}}}</includeonly><noinclude>{{Documentation}}
+[[Category:Templates]]
+[[Category:Utility templates]]</noinclude>

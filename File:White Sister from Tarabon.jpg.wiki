@@ -1,0 +1,10 @@
+== Licensing ==
+{{Image
+| License                 = Fair Use
+| ImageType1              = Character
+| ImageType2              = Fan art
+| Description             = An [[Aes Sedai]] of the [[White Ajah]], from [[Tarabon]]
+| Source                  = Selina Fenech Fairies & Fantasy[http://selinafenech.com/gallery/archives/#all].
+| Artist                  = Selina Fenech
+}}
+[[Category:Featured images]]

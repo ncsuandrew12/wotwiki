@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = A member of the [[Younglings]].
+| Source             = "Pattern Weavers" in ''Dragon Magazine: Annual 6''.
+| Artist             = Scott Schomburg
+}}

@@ -1,0 +1,78 @@
+{{enWPcontent|Morgase Trakand}}
+
+==Queens vs. Royalty==
+If we do not use Category:Queens instead of Category:Royalty, then we need Category:Women. Category:Women is discouraged, and should be reserved for Women who do not fit into any other categories (unlikely, since we can make one for whatever group they represent) --[[User:Gherald|Gherald]] 16:43, 26 Oct 2005 (UTC)
+
+The same applies to Kings.
+
+: Yeah, sorry for unilaterally recatting your article. I'm concerned that ''Queens'' doesn't encompass [[Panarch]]s, [[Empress]]es, and the like (and :Category:Female rulers we already decided was a bad idea. I think (under our current system) I'd rather cat her as both Royalty and Women. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 16:50, 26 Oct 2005 (UTC)
+:*Panarch: Ladies and something under government (Perhaps "Rulers" -- I'm not sure if they qualify as Royalty)
+:*IIRC we only know of one Empress, which can be Ladies and The Blood. --[[User:Gherald|Gherald]] 17:11, 26 Oct 2005 (UTC)
+:** Graendal refers to the Sh'botay/Sh'boan of Shara as Emperor-level rules, but that may be her bias. On the other hand, I don't remember what the Guide says about them... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 19:46, 26 Oct 2005 (UTC)
+
+== Valda Raped Morgase? ==
+
+I'd like to pose a question. At what point does any book, EVER, specifically state as a fact that Morgase was raped by Eamon Valda? And I don't mean Valda taunting Galad, as that was a taunt intended to enrage him. I've recently re-read through all the books and am currently near the end of Chapter 28 in Towers of Midnight, and I still have yet to see any sort of confirmation as to this having really happened. [[User:Kyle Evans|Kyle Evans]] 06:41, April 2, 2011 (UTC)
+
+:There are a quite a few lines in {{Acos|26}} that give credence to the rape issue:
+
+{{quote|Sweat hardly mattered; no matter how many times she bathed, no matter how hot the water, she did not feel clean.|Morgase's POV}}
+
+:This one shows the shame and typical reaction to something not the victim's fault.
+
+{{quote|Eamon Valda had completed her education with one question. The bruise her answer had left on her heart had not faded.|POV}}
+
+:More victimization, especially combined with the "yes" quote below.
+
+{{quote|Valda had ridden north from Amador yesterday, him and Asunawa, with thousands of Whitecloaks to face the Prophet, but if he had come back, if he...|Morgase's POV}}
+
+:The "if he..." section is telling. "If he" had come back, what more could he do to her?
+
+{{quote|"You moan like a sheep, Morgase Trakand." Even kept low, her voice seethed in anger. She set the cup on the small bedside table with a thump; more of the contents splashed onto the tabletop. "Bah! Many others have seen far worse. You are alive. None of your bones are broken; your wits are whole. Endure; let the past pass, and go on with your life. You have been so much on edge that the men walk on their toes, even Master Gill. Lamgwin has hardly slept a wink these three nights."
+
+Morgase flushed with annoyance; even in Andor, servants did not speak so. She caught the woman’s arm in a tight grip, but anxiety warred with displeasure. "They don’t know, do they?" If they did, they would try to avenge her, rescue her. They would die. Tallanvor would die.|[[Breane Taborwin]], [[Morgase Trakand]] and Morgase's POV}}
+
+:Breane knows what has transpired. She tells Morgase to let the past be in the past. From this, Breane knows that Morgase has been so much on edge that even the men (Basil, Lamgwin and Tallanvor) have sensed it. But the she asks if they know. Questions, even torture, can be endured. Even from a queen. But the rape of a woman?
+
+{{quote|She did not think she could have decided in cold blood to lie with Valda, but had she, she could have lived with it. She thought she could. Another matter entirely to say yes because she feared facing Asunawa's knotted cords and needles again, feared worse that he would have gotten to eventually. However she had screamed under Asunawa's ministrations, Valda was the one who had showed her the true borders of her courage, so far short of where she had believed. Valda's touch, his bed, could be forgotten, with time, but she would never be able to wash the shame of that "yes" from her lips. Breane hurled the truth in her face, and she did not know how to reply.|Morgase's POV}}
+
+:This, I think, is the most telling. This says that Morgase would not willingly share Valda's bed, but had she, she would be able to deal with it. From the next sentences (Another matter entirely... However she had screamed...), it seems that Valda had provided the "escape" from Asunawa's torture. The "release" or "deliverance" from Asunawa's cords and needles. Then, the next sentence seals it (Valda's touch, his bed...).
+
+:Sharing his bed wasn't a shame to Morgase. Morgase having sex with Valda wasn't shameful. It was the acceptance of his offer, the escape from Asunawa's torture, I think, that made it rape.
+
+{{quote|Another time she would have regretted [Tallanvor's] hand leaving her shoulder, and been irritated at her own regret as well as his tone. Now, after Valda, she felt relief.|Morgase's POV}}
+
+:This shows that Morgase felt relief at someone ''not'' touching her. Many rape victims will absolutely not want anyone to touch them. Morgase thinks that "another time" she would want Tallanvor to keep his hand on her shoulder. Now, "after Valda," she shows relief at him not touching her.
+
+{{quote|For a moment she thought [Tallanvor] might touch her face; if he did, she did not know whether she would weep or scream or order him to leave her forever or...|Morgase's POV}}
+
+:Again, more indecision. More confusion. Tallanvor is someone whom Morgase would love (as is evident in {{tom|44}}). But even then, in the early part of their relationship, she shows conflicting emotions; sadness, rage, uncertainty. Due to Valda's ministrations perhaps?
+
+{{quote|Valda had dented her confidence — no, he had casually ripped it to shreds — but she must cling to those shreds and knit them up again. Somehow. If the tatters were worth knitting up again.|Morgase's POV}}
+
+:Confidence, self-worth, fortitude. All of those are destroyed by the act of rape.
+
+:If you put all of these parts together, there can be no doubt that Eamon Valda took Morgase Trakand against her will. I think that even Valda's taunts to Galad confirm this. He thought that he would triumph over Galad. So, in that confidence, why would he not admit that which he had been accused? ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 08:56, April 2, 2011 (UTC)
+
+::Well, then.....After such an in-depth analysis, and a reminder of what I'd just read (and apparently not retained) a few months ago, I suppose there can't be any more doubt in my mind. Thank you for that very surprising and enlightneing answer. (okay, i'm confused, i don't know how to make the bullet point to be just ONE, but in reply to yours.)[[User:Kyle Evans|Kyle Evans]] 09:30, April 2, 2011 (UTC)
+
+:::fixed your tabbing for you :) — [[User:Fbstjoe|fbstj]] 11:34, April 2, 2011 (UTC)
+:::awesome.....how?[[Special:Contributions/66.190.244.153|[[User:Piccolo113|Piccolo113]] 02:59, April 3, 2011 (UTC)]]
+:::btw, Piccolo113 and Kyle Evans are both me. Didn't remember my login last night, so I used the facebook connect. Remembered my login today :)[[User:Piccolo113|Piccolo113]] 03:00, April 3, 2011 (UTC)
+
+:For talk page conversations, the first person doesn't use any colons, the second person uses one and so on. ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 04:13, April 3, 2011 (UTC)
+::Ah, yes, that's right. I used to spend some time on the Lost wiki discussing theories and such, but it's been a very long time. [[User:Piccolo113|Piccolo113]] 04:24, April 3, 2011 (UTC)
+
+== Morgase's abdication ==
+
+Shouldn't we have another rank and title of Morgase since she's abdicated?
+
+Remember that [[Elayne_Trakand|Elayne]] has the title "Queen".
+
+Sadly I don't have a suggestion to what Morgase should be reffered as.
+
+:Fixed. I changed her title to "Lady" and removed her rank. She will still show up in the "Queens" and "Rulers" category, as she has been both of them. ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:36, June 15, 2011 (UTC)
+
+==Slowing==
+I wonder if she slowed. With such a barely ability to channel, I almost can't imagine it myself, but on Theoryland someone said she did. [[User:Asha&#39;man Leyrann Gaidin|Asha&#39;man Leyrann Gaidin]] 18:15, July 10, 2011 (UTC)
+:To Fatidiot1234: Speculative, yes. Drivel, no. The talk page is absolutely the right place for people to ask these kinds of questions. To Leyrann: Yes, I think she has slowed. Slowing is dependent on one's strength in the Power, so Morgase wouldn't have slowed a whole heck of a lot. It might not even be noticeable to the average person. ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:51, July 11, 2011 (UTC)

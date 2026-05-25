@@ -1,0 +1,29 @@
+{{ character 
+| image=Erim.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Male
+| occupation=Clan chief
+| affiliation=Car'a'carn
+| hair=Red, going white
+| eyes=Green
+| clan=Chareen
+| sept=White Mountain
+| society=Unknown society
+| status=Alive
+| mentioned={{tsr|49}}
+| appeared={{tsr|57}}
+| lastappeared={{loc|4}}
+| living=loc
+}}'''Erim''' is the clan chief of the [[Chareen]] [[Aiel]]. He is of the White Mountain sept.{{ref|{{twotc}}, Erim}}
+
+==Appearance==
+He is an older man with his red hair starting to go white, and with green eyes.
+
+==Activities==
+He is present at [[Alcair Dal]] when [[Rand al'Thor]] declares himself ''[[Car'a'carn]]'' the same time [[Couladin]] does.{{ref/book|4|57}} After this he takes his clan to [[Rhuidean]] while waiting for all the rest of the clans to gather there.{{ref/book|5|2}}
+
+He leads his Aiel clan when he is sent to the [[Plains of Maredo]] when Rand gathers a massive army in preparation for the attack on [[Illian]].
+
+{{notes}}
+[[es:Erim]]

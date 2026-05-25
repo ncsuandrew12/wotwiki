@@ -1,0 +1,64 @@
+{{summary | book=13 |
+|chapter=5
+|title=Writings
+|icon=Snake
+|setting=[[White Tower]] in [[Tar Valon]]
+}}
+
+==Summary==
+:{{pov|[[Gawyn Trakand]]}}
+[[Gawyn Trakand]] walks through the [[The White Tower]] with [[Sleete]]. They arrive at a guarded room, just as soldiers exit it carrying the dead body of an [[Aes Sedai]]. She is the fourth sister that has been found murdered inside the Tower. Gawyn enters the room and searches the crime scene. The murder victim is [[Kateri Nepvue]] and there is nothing that she shares in common with the other victims. It is assumed that it is the [[Black Ajah]], but no channeling has been detected. It is believed that the Black Ajah enter via [[Gateways]], but there is no evidence to support this either. Sleete examines the door and believes that it has been forced open. None of the sisters had [[Warder]]s and they have been murdered with a knife rather than the [[One Power]]. Captain [[Jimar Chubain]] is present and acts hostile towards Gawyn during the investigation. Gawyn finally realizes Chubain sees his closeness to the [[Amyrlin Seat|Amyrlin]] and knows he trained under [[Gareth Bryne]], so he might think he wants Chubain's position. Gawyn takes him aside and tells him that his only desire is to be [[Egwene al'Vere]]'s Warder and he thanks Chubain for allowing him to help with the investigation, hoping it can bring him closer to his goal. Chubain then becomes more agreeable and helps Gawyn with his investigation. Sleete finds some black silk in the room and the assumption is an assassin used it to hide. 
+
+Gawyn decides to seek out Egwene; he believes she knows more about the murders than she is saying publicly. When he gets to Egwene's office, he is rebuffed by [[Silviana Brehon]] so Gawyn watches the practice grounds below. The remaining [[Younglings]] have eagerly returned to Warder training; most of the officers have been bonded as Warders. Egwene opens her door to ask Silviana a question and Gawyn takes the opportunity to enter the office. Gawyn asks Egwene to make the sisters all bond Warders. Egwene promises to bring the merits of bonding a Warder to the [[Hall of the Tower]]. Gawyn then discusses the murders. Egwene believes that [[Mesaana]] is the assassin. Egwene asks Gawyn to stop guarding her room at night since she is using herself as bait. Egwene is confident she can best Mesaana in battle, as Mesaana was more an administrator than warrior. Gawyn is not at all impressed by the plan and takes his leave to practice the sword.
+
+:{{pov|[[Egwene al'Vere]]}}
+Egwene cares for Gawyn and sees the merit in bonding him, but believes he is still too loose at the moment. She looks over her letter to King [[Darlin Sisnera]], asking him for support in stopping [[Rand al'Thor]] from breaking the [[Seal]]s. Egwene is pleased with Gawyn's suggestion on sisters bonding Warders and prepares to write up the formal letter. Egwene can't help thinking about Gawyn, particularly at night, which is another reason why she didn't want him outside her room.
+
+:{{pov|[[Graendal]]}}
+[[Graendal]] hides in her most secret hiding place in the [[Aryth Ocean]]. She is still found by a messenger from the [[Dark One]]. One of her pets, [[Alteima]], is present{{ref|From the description it is assumed that it is the High Tairen Lady Alteima. However the Wheel of Time Companion contradicts this, saying that she became a refugee and ladies maid after Rahvin's Compulsion wore off.}}. Graendal steps through the Gateway and is greeted by [[Moridin]]. He is not happy that [[Aran'gar]] is lost to the Pattern and that Graendal had a hand in her death. Graendal spins the story that she lead [[Rand al'Thor]] to [[Natrin's Barrow]], saying al'Thor's killing of innocents will eat away at his conscience therefore fulfilling what the Great Lord desired. Moridin grudgingly agrees and after receiving communication from the Great Lord directly, lets Graendal off without any punishment. Graendal, searching for a way to make up for her mistake, reveals to Moridin her plan to kill [[Perrin Aybara]]. Moridin leads Graendal to a room lined with hundreds of objects of Power. He gives her a [[dreamspike]] to use, telling her that the other one he has is occupied at the moment{{ref|Used in the Black Tower.}}. Moridin warns her to not use the dreamspike against any of the other [[Forsaken]]. He also lends Graendal [[Slayer]]. If she succeeds, she will be rewarded with more access to the [[True Power]]. Moridin then shows her a book full of dark prophecies. The two Chosen interpret that Perrin will die at their hand from one of the prophesies. Moridin opens a Gateway with the True Power, which Graendal still has access to, despite her failure, with the warning not to fail again.
+
+==Characters==
+*[[Gawyn Trakand]]
+*[[Sleete]]
+*[[Egwene al'Vere]]
+*[[Jimar Chubain]]
+*[[Kateri Nepvue]]
+*[[Silviana Brehon]]
+*[[Graendal]]
+*[[Moridin]]
+
+===Referenced===
+*[[Elaida a'Roihan]]
+*[[Gareth Bryne]]
+*[[Morgase Trakand]]
+*[[Seaine Herimon]]
+*[[Hattori]]
+*[[Jisao Hamora]]
+*[[Rajar]]
+*[[Durrent]] Youngling
+*[[Mesaana]]
+*[[Hammar]]
+*[[Darlin Sisnera]]
+*[[Rand al'Thor]]
+*[[Aran'gar]]
+*[[Lews Therin]]
+*[[Semirhage]]
+*[[Shaidar Haran]]
+*[[Perrin Aybara]]
+
+==Places==
+*[[White Tower]] in [[Tar Valon]]
+
+===Referenced===
+*[[Andor]]
+*[[Tear]]
+*[[Aryth Ocean]]
+*[[Natrin's Barrow]]
+*[[Shayol Ghul]]
+
+== Items ==
+
+* [[Shocklance]]
+* [[Dreamspike]]
+{{Notes}}
+{{DISPLAYTITLE:''Writings''}}

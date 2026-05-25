@@ -1,0 +1,24 @@
+==Purpose of template==
+Render alternative text on [[Aine]] 17 and adds the page to [[:Category:April Fools pages]].
+
+==How to use==
+<code><nowiki>{{April1 |joke=</nowiki>''joke_text''<nowiki> |real=</nowiki>''serious_text''<nowiki>}}</nowiki></code>
+
+<pre>
+{{April1
+ | joke = 
+ | real =
+}}
+</pre>
+
+=== Examples ===
+<pre>{{April1 |joke=It's [[Aine]] 17! |real=April 1st is the 17th of [[Aine]].}}</pre>
+{{April1 |joke=It's [[Aine]] 17! |real=April 1st is the 17th of [[Aine]].}}
+
+<pre>{{April1 |joke=It's [[Aine]] 17!}}</pre>
+{{April1 |joke=It's [[Aine]] 17!}}
+
+<pre>Today is a good day. {{April1 |joke=It's [[Aine]] 17!}} What a day!</pre>
+Today is a good day. {{April1 |joke=It's [[Aine]] 17!}} What a day!
+
+[[Category:April Fools pages| 0]]

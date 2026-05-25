@@ -1,0 +1,6 @@
+The table below lists all known named members of the [[Gray Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. It does not include the historical Amyrlins [[Dalaine Ndaye]], [[Medanor Eramandos]], [[Elise Strang]], [[Serenia Latar]], [[Cerilla Marodred]], [[Gerra Kishar]], [[Cemaile Sorenthaine]] and [[Parenia Demalle]] nor the historical figure [[Sevlana Meseau]] as we have little information other than their names and tenures. The legendary Gray sisters [[Mabriam en Shereed]] and the recent Amyrlin [[Sierin Vayu]] are included, however.
+
+{{#invoke:Characters|get_characters_wikitable|ajah=gray|suppress_verify=true|columns=ajah}}
+{{notes}}
+[[Category:List pages]]
+[[Category:Gray Ajah]]

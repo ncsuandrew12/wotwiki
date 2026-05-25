@@ -1,0 +1,36 @@
+== Welcome ==
+
+Thanks for all the additions and corrections you have been making this week! Let me know if you want any general information about the wiki. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 09:38, 25 May 2023 (UTC)
+
+Glad to help! [[User:ForagingSpoons|ForagingSpoons]] ([[User talk:ForagingSpoons|talk]]) 13:53, 20 June 2023 (UTC)
+
+== AI Art ==
+Hi, just a FYI, but we are formulating a policy for the inclusion of AI art on the wiki that must adhere to some conditions. For the moment, can you not add any more images? Some of those already uploaded will have to be removed because they do not match the criteria. 
+
+Thank you for your patience. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 22:43, 11 August 2023 (UTC)
+
+Sure! I'll pause on image uploads. Just seeing this now! 
+[[User:ForagingSpoons|ForagingSpoons]] ([[User talk:ForagingSpoons|talk]]) 18:00, 28 August 2023 (UTC)
+
+==Tenobia Art==
+I notice you fixed the hands, but you need to do something about the horse's reins disappearing into nothing. You can paint over the image and regenerate the horse's body with inpainting. Also, I'm not sure if there is something strange going on with the horse's nose. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 20:31, 24 August 2023 (UTC)
+
+For now, I'll revert to the original Saldaean flag. Thanks! [[User:ForagingSpoons|ForagingSpoons]] ([[User talk:ForagingSpoons|talk]]) 18:32, 28 August 2023 (UTC)
+
+: I'm not sure if you are generating these with online resources or on your PC, but there are some great tools out there using Automatic 1111 and ControlNet features which enable you to edit and do inpainting a lot more accurately and which generate fewer artefacts. Check out some tutorials on YouTube, if only for personal interest. I am finding them very useful. I have StableDiffusion on my PC with a GPU. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 13:19, 30 August 2023 (UTC)
+
+==Image Categories==
+Just an explanation of how the files are structured - when you upload images, you should add the category "Images by ForagingSpoons" to each page. I will be doing a lot of work tidying up the exising image categories and adding artists' galleries and external links. The category page for each artist in turn belongs to the Images by artist category. We will also be labelling the AI ones as "Image by ForagingSpoons using MidJourney" or replacing MidJourney with whatever you used.
+
+Many thanks,
+[[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 21:05, 24 August 2023 (UTC)
+
+Thanks for the explanation! As a 1st time reader of the Wheel of Time series, I was curious about the visuals (so many characters!). Since there weren't updated visuals for lots of the characters, I was excited to try adding via AI images. But, I hadn't thought much about keepings things consistent, organized, and accurate. I was mainly thinking to create something where little existed. Please let me know how I can help and excuse slow responses! Eventually I come around to seeing these! [[User:ForagingSpoons|ForagingSpoons]] ([[User talk:ForagingSpoons|talk]]) 19:38, 28 August 2023 (UTC)
+
+: Yeah, it's not something an average user would be aware of. It's mainly a housekeeping thing for the wiki. We have a list of "uncategorised files" somewhere, but it saves a job if it's done when the uploads happen. Cheers! [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 13:14, 30 August 2023 (UTC)
+
+== ‎what ai art program do you use? ==
+
+‎what ai art program do you use?
+
+mage.space is a free online site which has multiple models to choose from (e.g. stable diffusion). Since I’m specifically looking for a digital painting style instead of a photorealistic style, it does a decent job of this. [[User:ForagingSpoons|ForagingSpoons]] ([[User talk:ForagingSpoons|talk]]) 13:18, 11 September 2023 (UTC)

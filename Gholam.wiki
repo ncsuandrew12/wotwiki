@@ -1,0 +1,69 @@
+{{featuredicon}}{{character 
+| image=Trolloc-icon.svg
+| imagesize=250px
+| affiliation=The Shadow
+| hair=Sandy
+| build=Slender
+| gender=Male
+| status=Lost in the abyss
+| appeared=
+| lastappeared={{tom|31}}
+| lastmentioned={{amol|17}}
+| living=tom
+}}
+{{quote|A bird must fly. A man must breathe. I must kill.|The ''gholam''}}
+'''''Gholam''''' were made by [[Aginor]] during the [[War of Power]] to assassinate [[Aes Sedai (Age of Legends)|Aes Sedai]]. Only six were made, three male and three female, as the [[Forsaken]] were wary of an assassin designed to target [[channelers]].
+
+==Characteristics==
+''Gholam'' are immune to the [[One Power]] and most known weapons. They can detect a channeler at fifty paces and someone holding the One Power from even further. From several miles away ''gholam'' are able to feel use of the One Power and [[True Power]] as an itch akin to that experienced by the [[Myrddraal]].
+
+''Gholam'' live on fresh blood, generally rending their victims limb from limb or tearing their throats out before feeding. Their preferred prey are channelers, as they receive a sense of euphoria when they take the life of one who can channel.
+
+Furthermore, ''gholam'' are incredibly resistant to harm. They are almost completely immune to conventional weapons, as they have nothing resembling internal human physiology and appear not to feel pain when struck or cut. They are not completely immune to such weapons however, as they can still be dismembered, though doing so will not truly harm it. Weaves of the One Power directed at ''gholam'' dissolve. There is no known instance of a ''gholam'' engaging a wielder of the True Power, but the weaves spun by the True Power would likely be useless as well, as even the Forsaken did not wish to create many ''gholam''. However, they may be indirectly harmed by weaves that are directed at other objects or at the surrounding environment. The [[foxhead medallion]] worn by [[Matrim Cauthon]], and copies of the medallion created by [[Elayne Trakand]], are the only objects known to have significantly harmed a ''gholam'', and are the only weapons to have ever caused one to retreat. [[File:Gholam.JPG|thumb|200px|A ''gholam'' getting through a door
+''Artwork by Brom ''
+
+''WoT Rolplaying Game artist''
+]]They possess a degree of superhuman strength, able to easily tear a man's throat out with their bare hands. While attempting to resist one strength-to-strength, [[Matrim Cauthon]] mentally compared the contest to a child attempting to resist the strength of a grown man, and that comparison was made while the ''gholam'' was merely toying with him. Additionally, the one that Mat fought in Ebou Dar was noted by him to be even faster than a [[Myrddraal]]. Due to the fact that they lack any sort of skeletal structure, they are impossibly flexible and agile, and can squeeze through incredibly small spaces. They also survive going through a [[Gateways|gateway]] better than most Shadowspawn. 
+
+They are not 'immortal' like a construct, though they have a lifespan of probably several hundred years, akin to a strong Aes Sedai who has taken the Three Oaths.{{Ref|[https://www.theoryland.com/intvmain.php?i%3d183#5 Budapest Q&A]}}
+
+==The final ''gholam''==
+There was only one known active ''gholam'' in the [[Third Age]]; it was possibly retrieved from a [[stasis box]] by [[Sammael]].{{Ref/book|6|23}} 
+
+===Appearance===
+It looks like a man, slender with sandy hair and unremarkable features. It has a scar on its cheek where Mat hit it with his foxhead medallion.
+
+===Ebou Dar ===
+The ''gholam'' began its killing spree with [[Herid Fel]], a knowledgeable resident of [[Rand al'Thor]]'s [[School of Cairhien|school]] in [[Cairhien]] who had been helping Rand figure out what to do about the [[Seven Seals|seals]] to the [[Dark One]]'s prison.
+
+[[File:Gholam.jpg|thumb|left|A ''gholam'' attacking<br />
+''Artwork by Jim Holloway'']]
+
+It was then sent to [[Ebou Dar]] to attempt to stop the recovery of the [[Bowl of the Winds]]. There, it attacked a number of [[Wise Woman|Wise Women]], [[Elayne Trakand]], Mat, and his [[Redarms]]. It fled after touching Mat's medallion, which appeared to burn its cheek.
+
+It demonstrated independent thought, as it had been ordered to track down [[Nynaeve al'Meara]] and Elayne but it wanted revenge on Mat for hurting it. It attacked Mat again in Ebou Dar, and was again forced to retreat when Mat defended himself with the medallion and [[Noal Charin]] came to his aid. It remained in Ebou Dar killing arbitrary people for their blood. In its hunt for Mat, it also killed Queen [[Tylin Quintara Mitsobar]] after finding her in chambers where Mat had left her tied up when he left Ebou Dar.
+
+After the [[Band of the Red Hand]] set up camp a league outside [[Caemlyn]], the ''gholam'' returned, now under orders to kill Mat and those close to him, like [[Thomdril Merrilin]], Noal, and [[Tuon Athaem Kore Paendrag|Tuon]]. It left a trail of dead citizens in Caemlyn as it tracked him, finally coming to wait for him at the Band's camp, where it killed [[Lopin]] before attacking Mat again. It would have succeeded if not for the aid of [[Teslyn Baradon]]. It was eventually forced to flee after the rest of the Redarms were alerted.{{Ref/book|13|9}}
+
+===Final encounter===
+[[File:Aginor's Awakening Commander Deck The Gholam.png|thumb|right|Fan-made MTG card featuring a ''gholam''. ''Image by wheeloftime_mtg_cards via AI'']]
+Soon afterward, Mat confronted the ''gholam'' for one final time, intentionally luring the creature to him in the streets of Caemlyn. He surprised the ''gholam'' with two extra foxhead medallions, lesser copies created by Elayne, and backed the [[Shadowspawn]] into a house. Then he used the three medallions to dispose of the ''gholam'' by corralling him into a [[gateway]] leading to the endless void used for [[Skimming]], which had been carefully placed beforehand by [[Sumeko Karistovan]]. He then pushed it off the edge where it would fall through the void until it died.{{Ref/book|13|31}} 
+
+===Death===
+
+While its final fate was not discussed in the novels, Brandon Sanderson stated in an interview that, while going through a gateway would not kill a ''gholam'', a few minutes spent inside the dimension used for Skimming would, and indeed the one that Mat confronted died after a few minutes of falling through the void.{{Ref|[https://www.theoryland.com/intvmain.php?i%3d580#12 Paris Q&A]}}
+
+== Parallels ==
+The word ''gholam'' is likely a reference to [http://en.wikipedia.org/wiki/Golem golem], an animated anthropomorphic being made of inorganic matter that appears in Jewish mythology and popular culture.
+
+==External links== 
+*[http://steelypips.org/wotfaq/1_dark/1.6_beasties/1.6.2_gholam.html Steelypips.org: Fifty Ways to Kill a Gholam]
+
+{{Notes}}
+{{DISPLAYTITLE:''Gholam''}}
+[[es:Gholam]]
+[[Category:Shadowspawn]]
+[[Category:Constructs]]
+[[Category:POV character]]
+[[Category:Antagonists]]
+[[Category:Parallels]]

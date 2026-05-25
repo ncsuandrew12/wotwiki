@@ -1,0 +1,19 @@
+{{character
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Amadician
+| occupation=King
+| gender=Male
+| mentioned=''[[The Wheel of Time Companion]]''
+| lastmentioned=
+}}
+'''Santal Ramoth''' was the first king of [[Amadicia]].
+
+== History ==
+In c. {{fy|1015}}, Lord Santal Ramoth tried to reestablish the nation of [[Kharendor]], being a direct descendant of the nation's final king. However, he discovered that Kharendor was no longer a symbol of unity to the people in the area, and that many resident nobles were from other areas of [[Artur Hawkwing's Empire]]. He thus deftly decided to found a new nation, and was crowned the first king of Amadicia in {{fy|1023}}.
+
+{{short}}
+{{DEFAULTSORT:Ramoth, Santal}}
+[[Category:Historical people]]
+[[Category:People of the Free Years]]

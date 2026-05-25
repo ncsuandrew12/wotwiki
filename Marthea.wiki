@@ -1,0 +1,19 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| society=Far Dareis Mai
+| clan=Shaido
+| sept=Unknown sept
+| affiliation=Shaido
+| status=Dead
+| death={{ne|1000}}
+| mentioned={{tgs|21}}
+| lastmentioned={{tgs|22}}
+}}'''Marthea''' was a [[Shaido]] [[Maiden of the Spear]].{{ref|{{twotc}}, Marthea}}
+
+== Activities ==
+She became [[Arrela Shiego]]'s protector while Arrela was a ''[[gai'shain]]'' in the town of [[Malden]]. They become lovers.<ref name="comparrela">[[The Wheel of Time Companion]], Arrela Shiego.</ref> She hated what the Shaido did but stayed with them out of loyalty. Ultimately this cost her her life and she died in the [[Battle of Malden]].
+
+{{notes}}

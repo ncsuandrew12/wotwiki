@@ -1,0 +1,18 @@
+The '''[[Shara]]n monarchy''' have two titles, [[Sh'boan]] (empress{{ref/book|6|6}}{{ref/book|twotc|otdict|ot shboan|Sh'boan}}) and [[Sh'botay]] (emperor), that refer to the monarch and the monarch's consort.
+
+== System ==
+When the monarch ascends to reign, they marry a consort, and that consort becomes the new Sh'boan or Sh'botay. The reigning monarch rules the land for seven years. At the end of their rule, they die and their consort rules and chooses a consort for themself. This cycle has repeated itself every seven years since the [[Breaking of the World]],{{ref/book|6|6}} and it is believed that the first of these rulers was a male Sh'botay.{{ref/book|ros}} It is not publicly known how the deaths of each monarch occur, and Sharans believe the deaths are the "[[Will of the Pattern]]."{{ref/book|10|g||Shara}} In reality the monarchs are terminated covertly by the [[Ayyad]], the female channelers of Shara who are the real power of that country.{{ref/book|twotc|Will of the Pattern}}
+
+== Latest monarchs ==
+In {{ne|999}}, the ruling Sh'boan was [[Chiape]], who had newly been widowed after the death of the previous Sh'botay. She was about to marry [[Shaofan]], but both of them were kidnapped by [[Graendal]], plunging Shara into chaos. It was the first time in millennia that the line of spousal succession was broken.{{ref/book|6|6}}
+
+By the events of the [[Last Battle]], the Sharan monarchy had been essentially replaced by the rule of [[Bao the Wyld]] (Demandred).{{ref/book|14|22}}{{ref/book|twotc|Demandred}}
+
+== Terminology ==
+There are some mildly conflicting pieces of information regarding whether Sh'boans and Sh'botays refer merely to the reigning monarch or also apply to the monarch's consort. The Companion entry for [[Shara]] can be interpreted as indicating that the titles apply solely to the reigning monarch.{{ref/book|twotc|Shara}} The Companion entry for Sh'boan and the Sh'boan entry in the Companion's [[Old Tongue Dictionary]] define Sh'boan as "the absolute monarch"{{ref/book|twotc|Sh'boan}} and "empress,"{{ref||ot shboan}} respectively. The Sh'botay entry in the dictionary defines it as "empress's consort."{{ref/book|twotc|otdict||Sh'botay}} The Companion entry for Sh'boan both refers to Sh'botay as the "mate of that ruler [the previous Sh'boan]" and refers to Sh'boan as the ruling title of the Sh'botay's "(second) mate."{{ref/book|twotc|Sh'boan}} [[Graendal]] indicated that the titles applied both to the ruler and the consort.{{ref/book|6|6}} The narrow definitions are almost certainly incomplete information resulting from the "current" state of the Sharan monarch at the time of Graendal's interference, and it can be safely concluded that the title Sh'boan or Sh'botay is conferred when one weds the reigning monarch.
+
+== Beauty ==
+"''Boan''" means "female ideal of beauty"{{ref/book|twotc|otdict||boan}} and "''botay''" means "male ideal of beauty"{{ref/book|twotc|otdict||botay}} in the [[Old Tongue]]. The last Sh'boan and Sh'botay, [[Chiape]] and [[Shaofan]], were described as being "of great beauty" and notably became Graendal's pets.{{ref/book|6|6}} This suggests that physical beauty plays a significant role in the selection of new Sh'boans and Sh'botays.
+{{notes}}
+[[Category:Titles]]
+[[Category:Shara]]

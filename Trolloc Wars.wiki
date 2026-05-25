@@ -1,0 +1,68 @@
+{{Featuredicon}}
+{{infobox battle
+|battle= Trolloc Wars
+|release = 
+|image = Manetheren.JPG
+|caption = The last days of Manetheren
+|location = [[Westlands]], [[Aiel Waste]], [[Shara]]
+|date = [[1000 AB|1000]]&ndash;{{ab|1350}}
+|result = Costly victory for humanity
+|comba = '''[[Westlands]]:'''<br>[[Aelgar]]<br>[[Almoren]]<br>[[Aramaelle]]<br>[[Aridhol]]<br>[[Coremanda]]<br>[[Eharon]]<br>[[Essenia]]<br>[[Jaramide]]<br>[[Manetheren]]<br>[[Safer]]<br>[[Tar Valon]]<hr>'''[[Aiel]]:'''<br>[[Chareen]]<br>[[Codarra]]<br>[[Daryne]]<br>[[Goshien]]<br>[[Miagoma]]<br>[[Nakai]]<br>[[Reyn]]<br>[[Shaarad]]<br>[[Shaido]]<br>[[Shiande]]<br>[[Taardad]]<br>[[Tomanelle]]<hr>'''[[Shara]]'''
+|combb = [[Dark One's Eyes]]<br>[[Shadowspawn]]<br>[[Darkfriend|Darkfriends]] from every nation except Shara<br>[[Black Ajah]]<br>[[Dreadlords]]
+|cmda = [[Balwen Mayel]]<br>[[Thorin al Toren al Ban|Thorin al Toren]]<br>[[Aemon al Caar al Thorin|Aemon al Caar]]
+|cmdb = [[Ba'alzamon|Ishamael]]
+|stra = 
+|strb = 
+|casa = Annihilation of Almoren, Aramaelle, Aridhol, Coremanda, and Manetheren
+|casb = Destroyed to a point where it took a millennium to recover
+|}}
+
+The '''Trolloc Wars''' were a series of sustained conflicts fought between humanity and [[Shadowspawn]] between {{ab|1000}} and {{ab|1350}}. The Shadow armies were comprised mostly of [[Trollocs]], hence the name, although [[Myrddraal]], [[Draghkar]], and most other forms of Shadowspawn are believed to have played major roles as well. During the war human servants of the Shadow - [[Darkfriends]] and [[Dreadlords]] - also fought against the forces of the [[Light]].
+
+The Trolloc Wars mark the end of the period of history known as [[Third Age#After the Breaking|After the Breaking]] and the beginning of the [[Third Age#The Free Years|Free Years]]. The wars also mark the end of a period of intense cooperation between the nations of humanity and the beginning of a somewhat more fractious period, with all of the [[Ten Nations]] either totally destroyed in the war or weakened so much they collapsed shortly after it concluded.
+
+==The start of the war==
+The wars began with a series of increasingly heavy raids by Shadowspawn into the then-Borderlands of [[Jaramide]] and [[Aramaelle]]. What triggered these incursion was never discovered, but the intensity of the threat became clear when the city of [[Barsine]] in Jaramide was destroyed by Trollocs. At this point the [[Aes Sedai]] and the Ten Nations rallied to face the threat, but were unable to contain it. The Trolloc armies struck deep into the [[Westlands]], destroying the great [[Ogier]]-built city of [[Mafal Dadaranell]] in [[Aramaelle]] amongst many other fortresses and settlements.
+
+Aramaelle was eventually overrun and completely destroyed, although Jaramide managed to survive. With Aramelle gone, the Shadowspawn were able to sweep into kingdoms further south such as [[Aridhol]] and [[Coremanda]], and around this time may have launched the first of four major assaults on [[Tar Valon]].
+
+The mid-war period saw the most desperate fighting, as humanity was pushed back on almost every front and the Shadow advanced. During this period the human armies began to develop new tactics which favored encircling and destroying Trolloc forces they had split off from the main armies, since pitched field battles against superior numbers of Trollocs usually led to defeat unless large numbers of Aes Sedai were present.
+
+==The fall of Aridhol==
+While these tactics were developed, the Shadow launched a renewed thrust at Aridhol. The King of Aridhol, [[Balwen Mayel]], received counsel from his advisor [[Mordeth]] that the only way to defeat the Shadow was to become colder, more ruthless than the Shadow itself. Mayel thus sacrificed many lives to keep the Shadow armies at bay from his kingdom and his capital. While this was successful, the cost in blood was appalling. Prince Caar al Thorin of the neighboring kingdom of [[Manetheren]] to the south attempted to "win back" Aridhol to the Light, but instead he was imprisoned, tortured, and maimed, losing a hand before he managed to escape. The forces of Manetheren, furious at this betrayal of an allied nation, marched on the capital to find that Aridhol had been consumed by the evil it had unleashed, transformed by unknown means into a horrific ruin. They cursed the city with the name of [[Shadar Logoth]] and retreated. After an army of the Shadow camped in the city and never came out, even Shadowspawn feared entering Aridhol.
+
+==The fall of Manetheren==
+The fall of Aridhol was a massive blow to the Westlands, as it allowed the Shadow to now funnel armies into Coremanda and Manetheren. This was the 'hottest' part of the war, with fighting raging throughout those two kingdoms. The armies of Manetheren became famous during this period, with King Thorin and his grandson and successor Aemon achieving great victories over the Shadow with new tactics. A group of elite warriors formed around Aemon, the [[Band of the Red Hand]], and their appearance alone on the battlefield could cow the forces of the Shadow. But the Shadow also gained renewed confidence at this time with the emergence of a commander who called himself [[Ba'alzamon]]. Rumored to be the [[Dark One]] itself at the time, modern historians now prefer the theory that this was the [[Forsaken]] [[Ishamael]] during one of his periods of liberty from his prison.
+
+Ba'alzamon led the Shadow forces in assaulting Manetheren directly, attempting to penetrate into the Manetheren heartland by crossing the [[River Tarendrelle]] while the armies of Manetheren were engaged elsewhere. According to legend, King [[Aemon al Caar al Thorin]] marched his army day and night and beat the army of the Shadow to a strategically important bridge. Thus began the [[Battle of the Tarendrelle River]], where the forces of Manetheren held their ground for ten days, awaiting relief forces that had been promised but would never arrive. Eventually, King Aemon's forces were broken and he was forced into a fighting retreat across the heartland of Manetheren ending with a final last stand at the Battle of Aemon's Field where the remaining defenders perished. [[Eldrene]], the king's Aes Sedai wife and queen, felt the severing of their [[Bonding|bond]] the moment he perished. Driven mad with grief, she drew deeply upon the Source and unleashed a vast wave of the [[One Power]] that routed the army of Shadowspawn but also utterly destroyed the capital of Manetheren.
+
+It was learned later that the then-Amyrlin Seat, [[Tetsuan]], delayed and misdirected reinforcements so they would not arrive in time to save Manetheren. Her actions stemmed from youthful envy of Eldrene, a more powerful channeler. For this crime Tetsuan became the first Amyrlin to be deposed, stripped of staff and stole, and [[Severing|stilled]] by the [[Hall of the Tower]].{{ref/book|2|5}}
+
+==The end of the war==
+After the fall of Manetheren, the Trolloc armies swept south into [[Eharon]], overrunning the capital at [[Londaren Cor]] before reaching the south coast and destroying the city of [[Barashta]]. However, this was the southernmost penetration of the Shadowspawn armies. The extreme distance from the [[Great Blight|Blight]], combined with the growing proficiency of the human armies, saw the Trollocs forced to retreat from this offensive. However, with Coremanda and [[Almoren]] now also collapsing, the eventual victory of the Shadow seemed to remain assured.
+
+The end seems to have come from two sources. First, about forty years after he first appeared, Ba'alzamon vanished, throwing the Shadowspawn armies into some confusion. Second, [[Rashima Kerenmosa]] was raised to the Amyrlin Seat in {{Ab|1251}}. In addition to being a political leader of formidable ability, Rashima was a general and a battlefield commander who led from the saddle. She orchestrated a number of reversals of the Shadow's fortunes, and in {{Ab|1290}} defeated and destroyed the Trolloc armies during their fourth and final assault on Tar Valon itself. After this victory, she led a fierce ten-year campaign of the armies of the Light, resulting in the significant victories at Kaisin Pass, the Sorelle Step, Larapelle, and Tel Norwin. This campaign seems to have corralled the armies of the Shadow and the Light into one major confrontation, the [[Battle of Maighande]] ({{Ab|1301}}), the most decisive battle since the War of the Shadow. In a colossal engagement lasting several days, the Shadow armies were destroyed and scattered, although Rashima Kerenmosa was killed during the battle by an entire detachment of Dreadlords (nine of whom she took with her). The Shadow armies' remnants continued to plague the continent for another fifty years before the last roving bands were eliminated, finally ending the Trolloc Wars.
+
+==Aftermath==
+Almoren, Aramaelle, Aridhol, Coremanda, and Manetheren were destroyed during the Trolloc Wars, and the remaining five kingdoms did not long survive it. For a time the Westlands descended into factionalism, until twenty-nine new, much smaller kingdoms arose. In what had once been Manetheren the people crept back and founded a village called Aemon's Field on the site of the battle, although over the next two millennia its name would become corrupted to [[Emond's Field]].
+
+The Shadow armies were so utterly destroyed by the conflict it would be a thousand years until they ventured south again, at the [[Battle of Talidar]].
+
+==Other lands affected by the wars==
+The [[Aiel Waste]] suffered an invasion of Shadowspawn during the Trolloc Wars. The duration of this conflict was not known, except that the [[Aiel]] clans unified to throw back the invading Trolloc armies. Since then, the Trollocs call the Aiel Waste the Dying Ground.
+
+[[Shara]], the land beyond the Aiel Waste, also suffered an invasion, but again the extent of the conflict is unknown and complicated due to conflicting reports from the Sharans themselves about the very existence of such an invasion. The Sharans clearly defeated the assault, if it took place.
+
+[[Seanchan]] was not affected by such an invasion, as the myriad small kingdoms that existed on that landmass at that time had already destroyed all Trollocs and Myrddraal in the [[Lesser Blight]] using creatures such as ''[[torm]]'' and ''[[grolm]]'' in the centuries following the Breaking.
+
+==Fears of a reoccurrence==
+The [[Borderlands]] reinforced their vigilant guard upon the Blightborder following the Trolloc Wars, and the specter of a repeat of such an invasion has haunted the Westlands for the past two millennia. However, no invasion of similar size and scope has taken place since Talidar, although the fear is that such an attack may be an inevitable precursor of the [[Tarmon Gai'don|Last Battle]].
+
+== External links ==
+*{{TVlink|Trolloc Wars}} on {{TVlink}}
+
+{{notes}}
+[[es:Guerra de los Trollocs]]
+[[Category:The Free Years]]
+[[Category:After the Breaking]]
+[[Category:Wars]]

@@ -1,0 +1,17 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Ship captain
+| gender=Male
+| appeared={{tdr|35}}
+| lastappeared={{tdr|41}}
+| living=tdr
+}}'''Jaim Adarra''' is the captain of the ''[[Snow Goose]]''.{{ref|{{twotc}}, Jaim Adarra}}
+
+==Activities==
+After [[Perrin]] helped [[Gaul]] escape and kill some Whitecloaks, he, [[Loial]], [[Moiraine]] and [[Lan]] needed a hasty departure from [[Remen]]. They pay Jaim Adarra to leave earlier than planned to sail to [[Illian]] down the [[River Manetherendrelle]]. Just after the ''Snow Goose'' casts off, [[Faile]] jumps aboard.{{ref/book|3|35}}. They depart the ship in Illian.{{ref/book|3|41}}
+
+{{notes}}
+{{DEFAULTSORT:Adarra, Jaim}}

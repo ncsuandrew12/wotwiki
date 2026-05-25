@@ -1,0 +1,64 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality= Tairen
+| occupation=Sitter
+| rank=Aes Sedai
+| affiliation=White Tower
+| hair=Dark
+| build=Plump
+| status=Alive
+| eyes=Cool
+| appeared={{loc|30}}
+| lastappeared={{kod|23}}
+| living=kod
+| skin color=charcoal
+}}
+'''Salita Toranes''' is an [[Aes Sedai]] and for a while a rebel [[Sitter]] of the [[Yellow Ajah]]. 
+
+== Appearance ==
+Salita is a dark-skinned [[Tairen]],{{ref/book|8|19}} with skin "as dark as charcoal".{{ref/book|10|17}} She is plump, with a round face{{ref/book|10|17}} and cool eyes. She is about 5'4 tall.
+
+She is known for her love of clothes, allegedly emptying her trunk every morning to find the perfect outfit, such as a yellow-slashed green dress embroidered with yellow scroll work on the bosom.{{ref/book|11|23}}
+
+==Strength and Abilities==
+Salita is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|33}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.
+
+She appears to be a very fast learner with an eidetic memory. She doesn’t need to see a weave formed more than a couple of times to be able to reproduce it perfectly. She quickly mastered the new [[Healing]] weaves introduced by [[Nynaeve]].
+
+==History==
+She is from a lesser noble house of [[Tear]] and still receives money from her estate. 
+
+She was born in {{ne|933}} and went to the Tower in {{ne|950}}. 
+
+She remained Novice nine years and seven as Accepted and she was raised to the shawl in {{ne|966}}. Due to her quick learning Talent she might well have been allowed to move through Novice and Accepted even faster had she had also a stronger potential in the Power.
+
+Salita is one of the Yellows who believes the other Ajahs are merely adjuncts to their own, as they believe [[Healing]] is the only useful application of the [[One Power]].
+
+== Activities ==
+Following the White Tower split in {{ne|999}}, Salita has allied herself with the [[Salidar Aes Sedai]]. 
+
+Later that year, she was elected a [[Sitter]] for the Yellow Ajah. [[Romanda Cassin]], her fellow Yellow Sitter and [[First Weaver]], considered her intelligent, but a bad and inexperienced choice for a Sitter, and would much rather have had [[Dagdara Finchey]] raised. Unbeknownst to Romanda, Dagdara was Black Ajah.
+
+She was jointly responsible for electing [[Egwene al'Vere]] as [[Amyrlin]].{{ref/book|6|35}}
+
+Salita sometimes supported Egwene in the Hall and sometimes not.
+
+At the War Vote, Salita stands voting positively.{{ref/book|8|19}} Later, when the report on events at [[Shadar Logoth]] is delivered to the Sitters, she and [[Romanda]] arrive early to hear it. Salita again votes positively on an alliance with the Black Tower.{{ref/book|10|19}}
+
+She is one of the two Aes Sedai spectators who watch [[Kairen Stang]] and [[Ashmanaille]] turn ordinary iron into [[Cuendillar]].{{ref/book|10|17}} She complains because she thought that Aes Sedai should not be making things for sale. Being a noblewoman with income from her estate she is casual about money and contemptuous of trade.
+
+At [[Lelaine Akashi]]'s emergency meeting of the Hall, she stands to accept the offer from the [[Dragon Reborn]] of bonding forty-seven [[Asha'man]].{{ref/book|11|23}}
+
+After the reunification of the Aes Sedai factions, she resigned her place as Sitter.
+
+{{notes}}
+{{DEFAULTSORT:Toranes, Salita}}
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Best healers]]
+[[Category:Nobility]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

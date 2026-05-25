@@ -1,0 +1,37 @@
+{{ character 
+| image=MurandyFlag.png
+| imagesize=250px
+| ewot=Roedran analoy
+| nationality=Murandian
+| affiliation=Murandy
+| title=King of Murandy
+| gender=Male
+| status=Alive
+| rank=King
+| build=Corpulent
+| hair=White, thinning
+| mentioned={{tfoh|11}}
+| appeared={{amol|5}}
+| lastappeared={{amol|6}}
+| living=amol
+}}
+'''Roedran Almaric do Arreloa a'Naloy''' is the king of [[Murandy]].
+
+== Appearance ==
+Roedran is a corpulent man. He has white hair, with some black still in it, that is thinning. He has the reputation of being boorishly rude.
+
+== Activities ==
+When the [[Rebel Aes Sedai]] left Murandy for the siege of Tar Valon, [[Talmanes Delovinde]] and the [[Band of the Red Hand]] were left in the country, awaiting the return of [[Mat]]. During their stay King Roedran decided to take advantage of the situation in the same way [[Egwene]] and [[Siuan]] used the presence of the Band to unify the Rebels and hire an army.
+
+Roedran secretly contacted Talmanes and hired the Band of the Red Hand to stay inside the borders of Murandy. There they were to sit and wait. Roedran would then say that a foreign army was sitting on their border and use this as an excuse to raise an army of his own and in the process unite the fractured country of Murandy. He managed to unite the country against the Band but in the end he paid Talmanes in secret and allowed the Band to withdraw.
+
+Roedran makes it to the [[Field of Merrilor]], where all the other rulers of the nations are present. On the way to [[Rand|Rand']]s meeting he comes across [[Egwene al'Vere]]. He arrogantly ignores decorum and lets her ride to meet him, instead of vice versa. Roedran confirms the reason he is here was because [[Elayne Trakand]] promised to sign a declaration that she would not invade Murandy if he came. He does not believe that Rand is the Dragon Reborn. Egwene plays mind-games with him, hinting that [[Aes Sedai]] were the reason why Roedran has actually solidified power in [[Lugard]]. During the outlining of the [[Dragon's Peace]] by Rand, Roedran keeps interrupting with poorly timed and impractical questions. Channelers keep flicking him in the ear to keep him quiet. Roedran finally signs the document with all the other rulers.
+
+== Demandred? ==
+There were popular theories set forth that Roedran may have in fact been [[Demandred]]. In terms of evidence, Demandred mentioned that 'his rule was secure' and 'he was gathering his forces for war.' There was also the fact that Murandy (a country divided constantly) had united for the first time in years, that Roedran owned two copies of a rare book on strategy, and also the proximity to many events 'in the south'. As [[Sammael]] mentioned, 'events in the south' had Demandred's mark all over them. Murandy gave him access to [[Amadicia]], [[Ghealdan]], and [[Altara]], while maintaining a foothold on [[Andor]]. He had his partners in crime in the [[White Tower]], and among the [[Seanchan]]. The strongest argument against this was Murandy's minor role in world relations. But Demandred, by possibly choosing Murandy as his base of operations, could have allowed himself time and freedom to operate beneath notice.
+
+[[A Memory of Light]] reveals that Roedran is not Demandred. Rand has his [[Asha'man]] surround Roedran when he enters the pavilion where they will sign the Dragon's Peace. Rand stares into Roedran's eyes and states:
+:{{quote|You're not him are you? I thought for certain...... where ''are'' you?}}
+So even Rand was convinced Roedran was Demandred. This is probably a tongue in cheek ribbing at all the theories out there that were certain of the same thing.
+
+{{DEFAULTSORT:A'Naloy, Roedran Almaric do Arreloa}}<!---Please keep the "A" caitalized for proper category sorting.--->

@@ -1,0 +1,68 @@
+{{ character 
+| image=Gaidal.jpg
+| imagesize=250px
+| ewothist=Gaidal Cain
+| affiliation=Horn of Valere
+| status=Alive
+| rank=Hero of the Horn
+| build=Muscled
+| height=Short
+| gender=Male
+| appeared={{Tgh|47}}
+| mentioned={{Teotw|17}}
+| lastappeared={{tsr|52}}
+| lastmentioned={{amol|12}}
+}}
+'''Gaidal Cain''' is a legendary hero-swordsman and one of the [[Heroes of the Horn]].{{ref/book|twotc|Gaidal Cain}}
+
+==Appearance==
+In all instances we see him, he is a swarthy, heavily muscled man with broad shoulders. He wields two swords which are strapped to his back when not used.{{Ref/book|2|47}} His face is wide and flat, his heavy nose too big, and his mouth far too broad. He is short of stature, shorter than Birgitte.{{Ref/book|4|52}} When called by the Horn, he also rides a horse.{{ref/book|2|47}} 
+
+During his rebirths, his appearance will be different, but he is always ugly. 
+
+==History==
+The soul known in the Third Age as Gaidal Cain has been bound to the Wheel for an unspecified length of time. It is unknown if he has been bound for many Ages, many turnings of the Wheel, or ever since the moment of Creation. He is also bound to the [[Horn of Valere]] and is summoned whenever it is blown except when he has already been woven back into the [[Pattern]].
+
+The circumstances of his rebirth are determined by the needs of the Pattern. When reborn, his life follows an archetypical pattern unique to that soul. While his appearance and name differ with each incarnation, certain features are common in every one; the ability to fight with two swords, a link (usually a romantic one) with the soul of [[Birgitte Silverbow]], and being remarkably ugly.
+
+The myths and legends of his past lives are often changed or forgotten with the passage of time. For example, legend says he is handsome as Birgitte is beautiful, but legend is wrong.{{ref/book|twotc|Gaidal Cain}}
+
+Between incarnations, he and the other Heroes dwell in ''[[Tel'aran'rhiod]]'' and can appear or spy on visitors to the World of Dreams. There are, however, unwritten precepts which forbid him to interfere with the physical world while he is being "stored" in Tel'Aran'Rhiod.{{Ref/book|4|52}} When he is reborn, it is always before the Birgitte archetype - by one year, five or ten.{{ref/book|5|14}}
+
+===Birgitte Silverbow===
+Gaidal is linked with [[Birgitte Silverbow]] when he is spun out by the wheel.  At first meeting, the two usually do not get along well, with emotions ranging from dislike to hatred.  Over time, they invariably become attracted to each other, often falling in love. This bond also seems to be mirrored when they are both restricted to the World of Dreams as they are the only two heroes which we see together there.
+
+===Reincarnations===
+In {{ab|47}}, under an unknown name, Gaidal and Birgitte helped to found the [[White Tower]].
+
+In one life, after what was called the battle of Lahpoint Hills, Gaidal was inflicted with a horrible head wound that affected his mind. Birgitte, then known as Jethari, took Gaidal and traveled into the [[Tower of Ghenjei]] with him in hopes that the [[Finn]] would heal him. Sadly, neither of them survived, the Finn killing them both.{{Ref/book|13|22}}
+
+==Activities and Mentions==
+
+"Gaidal Cain's Sword" is one of the stories that [[Thom Merrilin]] tells at [[The Stag and Lion]] in [[Baerlon]].{{Ref/book|1|15}}
+
+Gaidal Cain is one of the roles played by the "players" (actors) in Cairhien whose craft Thom disparages.{{Ref/book|2|26}}
+
+He is summoned by [[Matrim Cauthon]] after Mat blew the Horn of Valere at [[Falme]] to aid in the defeat of the [[Seanchan]] invaders.{{ref/book|2|47}}
+
+He warns Birgitte not to help [[Nynaeve]] or others that are visiting ''tel'aran'rhiod''. He also says that [[Moghedien]] threatened them when they followed [[Lews Therin Telamon]].{{ref/book|4|52}}
+==Current Whereabouts==
+
+Gaidal was reborn at some point between his last appearance in [[Tel'aran'rhiod]] in {{4|52}} (on or about 999-7-21 NE{{ref|{{Link|https://dragonmount.com/Books/Shadow_rising/chapter-recaps/|Dragonmount Chapter Recap: TSR 52}}}}) and [[Birgitte]] suggesting that he has been spun out into the Pattern in {{5|14}} (on or about 999-9-14 NE{{ref|{{Link|https://dragonmount.com/Books/Fires_of_Heaven/chapter-recaps/|Dragonmount Chapter Recap: TFOH 14}}}}). [[Elayne]] is impregnated in {{9|12}} (on or about 1000-3-2 NE{{ref|{{Link|https://dragonmount.com/Books/Winters_heart/chapter-recaps/|Dragonmount Chapter Recap: WH 12}}}}) and is six months pregnant by the time of Tarmon Gaidon,{{ref|"They are young yet. Six months along." {{14|37}}}} placing the end of the series at roughly the start of the ninth month of 1000 NE. Therefore, the series ends about 11-14 months after Gaidal is spun out again. Combined, these facts yield the conclusion that Gaidal's new incarnation would be - at most - an infant by the end of the series.
+
+While time is [[Relativity in The Wheel of Time|somewhat fluid]] between TAR and the physical world, time does not flow backwards nor has the ability to travel to the past been demonstrated.{{ref|[[Relativity in The Wheel of Time#Time Travel]]}} Therefore, limits can be placed on how old or young Gaidal's reincarnation can be. If Gaidal's soul is woven out when the baby is born (which is consistent with Birgitte's comments on her own rebirth{{Ref|"“I’m being reborn, Elayne,” Birgitte whispered. “Now. Somewhere, a woman is preparing to give birth, and I will go to that body. It’s happening.”"{{ref/book|14|e}}}}), then Gaidal would be roughly 11-14 months at most by the end of the series. If the soul is woven out during conception or sometime during the pregnancy, then he will be as much as nine months younger, 2-5 months. Brandon Sanderson has stated that souls become "tied to the body at viability", which probably places "weaving out" at some point in between the two.{{ref/tidb|950|2}}
+
+One of the most common theories was that Gaidal Cain had been reborn as [[Olver]]. This has been denied, however, by both Jordan and Sanderson on multiple occasions.{{ref/tidb|161|23}}{{ref/tidbkw|Olver}} Olver was born years before the main sequence began and therefore is far too old to be the infant Gaidal.
+
+A second suspected identity was [[Gadren Grady]], son of the [[Asha'man]] [[Jur Grady]], but this is generally ruled out for the same reason as Olver - he is too old ([[Rand]] says he is four).{{ref/book|6|3}} While Grady later says Gadren is "big for his age"{{ref/book|13|10}}, there is an upper limit for Gaidal's age at this point of roughly 4.5 months (the time between his last appearance and Rand's visit to the Black Tower) - definitely too young to be confused with a four-year-old. There is also a lower limit of negative six months (the time between Birgitte noting he had disappeared and Rand's visit, less the length of a typical pregnancy), or three months of pregnancy.
+
+Later, Sanderson underlined the problem with Gadren's age and (reluctantly) confirmed that Grady has multiple children. It may be the case that Sanderson originally intended Gadren to be Gaidal, but this was an inconsistency with the timeline and so he needed to fix it by saying there was another child.{{ref/tidb|874|51}}{{ref/tidb|971|9}}{{ref/tidb|950|2}}
+
+[[File:GaidalTimeline.png|left|825px|Viable timeline for Gaidal's rebirth. Dates from Wheel of Timelines {{Link|https://wheeloftimelines.com/}}, Tellings of the Wheel {{Link|http://www.stevenac.net/wot/wotchron.htm}} and Encycloaedia WoT.|alt=Viable timeline for Gaidal's rebirth. Dates from Wheel of Timelines, Tellings of the Wheel and Encycloaedia WoT.]] 
+
+Grady, his wife [[Sora Grady]], and his son were at the Black Tower when Rand first took Taim to the Black Tower{{ref/book|6|3}} on or about 999-12-2 NE{{Ref|{{Link|https://dragonmount.com/Books/Lord_of_Chaos/chapter-recaps/|Dragonmount Chapter Recap: LoC 3}}}}, around nine months before the end of the series. If Grady had another child or if Sora was pregnant, it is not mentioned. Considering the full pregnancy as possible points at which the soul is woven out during pregnancy, Gaidal-as-Gadren's-brother would be anything from a fetus of 2 months to an infant of 6 months when Taim arrives. 
+
+Grady went to Dumai's Wells with Taim{{ref/book|6|55}} on or around 1000-1-11 NE{{ref|{{Link|https://dragonmount.com/Books/Lord_of_Chaos/chapter-recaps/|Dragonmount Chapter Recap: LoC 55}}}} and left with Perrin{{ref/book|7|27}} on or around 1000-1-16 NE.{{ref|{{Link|https://dragonmount.com/Books/Crown_of_swords/chapter-recaps/|Dragonmount Chapter Recap: ACoS 27}}}} Given this, Sora Grady could have been as little as 2 months pregnant when Grady last saw her, which could explain some of his impatience to get back to his family in [[Towers of Midnight]], especially as this is around the baby's due date and he has "a reason to live" now that saidin is clean.{{ref/book|13|10}}
+
+In conclusion, Gaidal Cain is a baby between two and fourteen months old, is the son of Jur and Sora Grady, and is the younger brother of Gadren.
+{{Notes}}

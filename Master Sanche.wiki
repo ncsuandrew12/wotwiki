@@ -1,0 +1,23 @@
+{{quote|Change what you can if it needs changing, but learn to live with what you can't change.|Master Sanche{{ref/book|0|3}}}}
+{{character
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| status=Dead
+| occupation=Fisher
+| gender=Male
+| mentioned={{ns|2}}
+}}
+
+'''Master Sanche''' was a fisherman from the [[Tear (city)|City of Tear]]. He was the father of [[Siuan Sanche]].
+==History==
+Master Sanche had a profound upbringing on his daughter, a fisher girl named Siuan, who adopted many of his characteristics. His wife passed away when his daughter was still young.
+
+After it was found that Siuan possessed the [[spark]], she was sent to the [[White Tower]] to train as a novice. Master Sanche died while his daughter was still training at the Tower.{{ref/book|0|2}} His daughter eventually rose to become the [[Amyrlin Seat]].
+
+== In the television series ==
+In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Berden Sanche}} is played by {{TVlink|Peter de Jersey}}.
+
+{{notes}}
+
+{{DEFAULTSORT:Sanche}}

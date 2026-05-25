@@ -1,0 +1,17 @@
+{{character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| occupation=Farmer
+| gender=Male
+| appeared={{Wh|35}}
+| lastappeared={{wh|35}}
+| living=wh
+}}
+'''Barmellin''' is a farmer who lives near [[Tremonsien]].
+
+==Activities==
+During a delivery of brandy to [[Maglin Madwen]] at The [[The Nine Rings (inn)|Nine Rings]] in Tremonsien, he was frightened by the glow of the [[Choedan Kal]] during the [[cleansing of saidin|cleansing]] of ''[[saidin]]''. Because of this, he turns his horse [[Nisa]] around and rides very fast back to his farm.
+{{short}}
+[[Category:POV character]]

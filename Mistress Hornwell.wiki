@@ -1,0 +1,33 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=200px
+| nationality=Andoran
+| gender=Female
+| occupation=Servant
+| build=Average
+| hair=Gray
+| affiliation=House Trakand
+| appeared={{tpod|20}}
+| lastappeared={{tpod|20}}
+| lastmentioned={{tpod|20}}
+| living=tpod
+| status=Alive
+}}
+'''Mistress Hornwell''' is the caretaker, with her husband [[Master Hornwell]], of one of [[Elayne Trakand]]'s estates in [[Andor]].{{ref|{{twotc|Mistress Hornwell}}|comp}}
+
+==Appearance==
+Mistress Hornwell resembles her husband remarkably, though she is slightly less round and slightly less gray than he is.{{ref/book|8|20}}
+
+==History==
+Mistress Hornwell and her husband keep one of Hoouse Trakand's Andoran estates.{{ref||comp}}
+
+After Elayne's party escapes the [[Kin]]'s [[Farm]] near [[Ebou Dar]], [[Nynaeve al'Meara]] leads the group toward the Hornwells' manor house while Elayne remains behind to unweave the gateway and prevent the [[Seanchan]] from learning [[Traveling].{{ref/book|8|6}}
+
+
+==Activities==
+When Elayne's party reaches the estate, Mistress Hornwell and Master Hornwell have the estate's workers, [[Pol]], and the servants from the [[Tarasin Palace]] helping to find sleeping accommodations for more than two hundred unexpected arrivals. The work proceeds surprisingly quickly, though [[Alise Tenjile]] proves even more effective at bringing the disorder under control than the capable Hornwells.{{ref/book|8|20}}
+
+The manor shelters Elayne's party overnight before they continue toward [[Caemlyn]] the next morning.{{ref/book|8|20}}
+
+{{notes}}
+[[Category:Short pages]]

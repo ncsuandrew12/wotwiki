@@ -1,0 +1,20 @@
+{{ character 
+| image=
+| imagesize=
+| name=Charn
+| status=Dead
+| death={{ne|1000}}
+| rank=
+| occupation=Soldier
+| affiliation=
+| gender=Male
+| mentioned={{amol|37}}
+| appeared={{amol|37}}
+| lastappeared={{amol|37}}
+| lastmentioned={{amol|37}}
+| living=
+}}'''Charn''' was a pikeman who fought alongside [[Juilin Sandar]] and [[Myk]] against the [[Sharan]]s in the [[Last Battle]].{{ref/book|14|37}} He tried to help Juilin when the latter lost his spear against a mace-wielding Sharan. The Sharan split his head "like a cracked walnut" with a mace.
+
+{{notes}}
+{{short}}
+[[Category:People]]

@@ -1,0 +1,30 @@
+{{for|other uses of 'Lian'|Lian (disambiguation)}}
+{{ character 
+| image=Lian.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| occupation=Roofmistress
+| hair=Yellow Graying slightly
+| eyes=Gray
+| clan=Taardad
+| sept=Nine Valleys
+| status=Alive
+| appeared={{Tsr|49}}
+| mentioned={{Tsr|12}}
+| lastappeared={{tsr|49}}
+| lastmentioned={{tsr|50}}
+| living=tsr
+}}'''Lian''' is the [[Roofmistress]] of [[Cold Rocks Hold]].{{ref|{{twotc}}, Lian|Lian}} She is of the [[Nine Valleys]] [[Sept]] of the [[Taardad]] [[Aiel]].{{ref||Lian}}
+
+== Appearance ==
+Lian is slender and beautiful, with yellow hair graying slightly at the temples, and gray eyes. She appears older than her sister-wife Amys since Amys can channel.
+
+== Family affiliations ==
+Lian is wife to [[Rhuarc]], [[sister-wife]] to [[Amys]] and [[sister-mother]] to [[Aviendha]].{{ref/book|4|12}}
+
+==Activities==
+She greets Rhuarc, [[Heirn]] and [[Rand]] when they arrive at Cold Rocks Hold from Rhuidean. When [[Couladin]] acts as a clan chief, she responds as if he is a beggar.{{ref/book|4|49}}
+
+{{notes}}
+[[es:Lian]]

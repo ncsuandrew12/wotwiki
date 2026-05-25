@@ -1,0 +1,28 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Male
+| occupation=Fletcher
+| hair=White
+| status=Alive
+| affiliation=Two Rivers
+| mentioned={{tsr|40}}
+| appeared={{tsr|45}}
+| lastappeared={{tsr|56}}
+| lastmentioned={{tom|46}}
+| living=tom
+}}
+{{for|others with the same surname|Dowtry}}
+'''Buel Dowtry''' is the fletcher in [[Emond's Field]].
+
+== Appearance ==
+He is white haired with a sharp nose.
+
+== Activities ==
+He helps defend Emond's Field against the invading [[Trollocs]] as an archer.{{ref/book|4|56}}
+
+He relocates to the [[Black Tower]] when his grandson, [[Jonneth Dowtry]], joins the [[Asha'man]].
+
+{{Short}}
+{{DEFAULTSORT:Dowtry, Buel}}

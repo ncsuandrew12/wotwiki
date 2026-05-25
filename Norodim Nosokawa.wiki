@@ -1,0 +1,21 @@
+{{character
+| gender=Male
+| death=
+| image=Wheel-icon.svg
+| imagesize = 125px 
+| mentioned={{bwb|12}}
+| nationality=Unknown nationality
+| status=Dead
+| ewothist=norodim
+| lastmentioned={{bwb|12}}
+}}
+'''Norodim Nosokawa''' was a leader during the reign of [[Artur Hawkwing]].
+
+== History ==
+After Hawkwing's death, Nosokawa was advised by [[Jalwin Moerad]], and was later killed in battle. He was one of three people to come closest to seizing the late Hawkwing's [[Artur Hawkwing's Empire|empire]].{{ref/book|bwb|12}}
+
+{{notes}}
+{{DEFAULTSORT:Nosokawa, Norodim}}
+[[Category:Historical people]]
+[[Category:People of the Free Years]]
+[[Category:Rulers]]

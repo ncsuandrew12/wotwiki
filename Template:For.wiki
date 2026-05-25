@@ -1,0 +1,3 @@
+<includeonly>:<span class="dablink">''For {{{1}}}, see [[{{{2|{{PAGENAME}} (disambiguation)}}}]]{{#if:{{{3|}}}|&#32;and [[{{{3}}}]]}}.''</span></includeonly><noinclude>
+{{Documentation}}
+[[Category:Disambiguation| {{PAGENAME}}]][[Category:Linking templates|{{PAGENAME}}]]</noinclude>

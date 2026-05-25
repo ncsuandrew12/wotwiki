@@ -1,0 +1,9 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| ImageType2              = Fan Art
+| Description             = A sister of the [[Red Ajah]].
+| Source                  = [http://leilasedai.deviantart.com/gallery/#/d1r0gkq]
+| Artist                  = Leila del Duca
+}}
+[[Category:Featured images]]

@@ -1,0 +1,176 @@
+Hello, [https://wot.fandom.com/wiki/User:Zerah_Dacan Zerah Dacan] and [https://wot.fandom.com/wiki/User:ShellFire6 ShellFire6], could you try to search for some compromise wording? I understand both your apparoches but your "fight" starts to be quite boring.
+==categorization==
+Maybe I'm misunderstanding your intent, but why did you demote Egwene back to Accepted? Beonin's whole justification for them being able to raise her is that becoming Amyrlin makes her Aes Sedai...
+
+{{quote|The Amyrlin Seat, she is Aes Sedai— the law is quite clear; several places it is stated, 'the Amyrlin Seat as Aes Sedai'— but nowhere is it said that it is necessary to be Aes Sedai to become Amyrlin.|Beonin Sedai, arguing before the Salidar Hall}}
+
+You can't mean to list all Aes Sedai as [[:Category:Accepted]] and [[:Category:Novices]] as well, just because they went through the steps...so I'm just wondering what your line of thought was here. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 22:54, 22 Nov 2005 (UTC)
+:No, I was going by status changes that happen after we first meet a character... see [[Nynaeve]] for a previous example. --[[User:Gherald|Gherald]]
+::Are we still doing this? Does this not completly mess up the organization of having different categories for everything, because people will be listed under all of them? Whats the deal on this one? - [[User:Elliot N|Elliot N]] 16:23, 6 June 2006 (UTC)
+:::I don't see how it messes up organization; people will only be listed under categories they've been members of at some point in the main books. Seems fine to me... --[[User:Gherald|Gherald]] 19:08, 6 June 2006 (UTC)
+::::So then somone goes and looks to see every Accepted in the tower at the time. And instead gets every Aes Sedai in existance?
+:::::No, you misunderstand. If the person was Aes Sedai at the time of {{teotw|1}}, they will not be listed under [[:Category:Accepted]]. If the person was an Accepted at the time of {{teotw|1}}, they will not be listed under [[:Category:Novices]]. I hope that's clear enough. Alternatively, we could use {{ns|1}} as the anchor, I don't much care one way or the other. --[[User:Gherald|Gherald]] 22:20, 7 June 2006 (UTC)
+::::This completly screws up organisation. Why bother having seperate categories then, why not channelers of Tar Valon? Then we could specify on the seperate pages. So now we have to make a category for every lower rank in existance and put every character that was ever in them at them time? No sorry, this really makes no sense - [[User:Elliot N|Elliot N]] 21:32, 7 June 2006 (UTC)
+::::::Woa I almost missed your response :). But why are we only doing it for a few characters then? Is this not be written from the point of view from the last book? Like are we not writing from a KoD perspective, and then aMoL once that comes out? Is that not how this kinda stuff works? And now they are not accepted they are Aes Sedai, so they get categorized as Aes Sedai? If we are able to specify on the actual category pages and divide it into former accepted or something then this would make sense. I can see where you are comming from on this now, but it still makes no sense to me. Categories are for organization, when you hit accepted and see Egwene there it is kinda silly cause if you have read into the series you'll scratch your head and think "These people are way off, she is Aes Sedai now!" I dunno, it seems obvious to us because we are the ones doing this, someone outside would think that we were just plain wrong. KNow what I mean? - [[User:Elliot N|Elliot N]] 15:42, 8 June 2006 (UTC)
+I don't think the criteria is selective at all ("only a few characters", you say?) so I'm not sure where you are going with that. Yes this should be written from the point of view of the latest book. The people who are now Aes Sedai will certainly be categorized as such.
+I think someone outside would understand "Categories: Two Rivers | Novices | Damane | Accepted | Dreamers | Amyrlins". If they don't we could consider seperate Former categories, but that's overkill IMO. I'm guessing the most we'll do is insert an HTML comment on the page right before the categorization, explaining the logic so ppl don't change it. --[[User:Gherald|Gherald]] 21:03, 8 June 2006 (UTC)
+:Why are we starting at tEotW? Why not New Spring. In which case, several more Aes Sedai have to be put in this category too. There are something like 10 or so Aes Sedai in NS who will now be in the Accepted category as they appeared as Accepted in the book series.
+::Do you have a reason to prefer starting at NS? As I said, I don't much care one way or the other.
+:And by saying it is being written from the perspective of the last book then this whole thing defin<s>a</s>itly makes less sense.
+::Articles being written from the perspective of the latest book does not mean the articles will not cover events from previous books, nor that the circumstances of previous books will not be relevant to their categorization.
+:And when I say for a only a few characters I say why? Why not all of them then? Why are the Super Girls so important? So are we ignoring NS now? Or are we just doing this for the Super 3? Because I don't see how this will affect anyone but the Super Girls if we ignore NS. - [[User:Elliot N|Elliot N]] 15:32, 9 June 2006 (UTC)
+::There is nothing about this that is specific to the super 3 or even to Aes Sedai. The principle applies to any character whose circumstance changes. --[[User:Gherald|Gherald]] 22:41, 9 June 2006 (UTC)
+:::But why??? I can only keep asking this. If this is written from the perspective of KoD they are categorized as Aes Sedai, cause thats what they ARE.
+::::Why is what they WERE not relevant?
+:::I personally would not even have Siuan under Amyrlins as she is no longer Amyrlin and is just Aes Sedai. I agree on the whole overkill thing for seperate former category, but then there has to be a way to specify on the Category page itself, it it just looks silly and incorrect. You go to the Accepted page and see Egwene and then go to Aes Sedai and see her again.
+::::If you take a closer look at our categorization scheme, you will see that Accepted is actually a subcategory of Aes Sedai. There's a good reason for that, too :)
+:::Unless it can say after her name (Raised to the Blue Ajah)then I think it is useless.
+::::Put that in the article
+:::Also it is not personal preferance when the series starts, if we are by the order in the series then it starts at NS. I Dunno, if this is written within the WoT world then it would have to start at NS. - [[User:Elliot N|Elliot N]] 17:03, 10 June 2006 (UTC)
+::::Not so much personal preference as a matter of practicality. NS is a side plot novel, and takes place what, 20 years earlier? With far fewer main characters? If you think the same exact principles we apply to the main books should be applicable to prequels, I don't know what to say other than I think you are very wrong. --[[User:Gherald|Gherald]] 21:33, 10 June 2006 (UTC)
+:::::On the topic of NS I think that it really sets up the story of Wot alot, it explains about Moiraine, Siuan and Lan. It explains further about how all of this was able to happen in the way that it dide. It was written as a side plot and then extended to be a prequel. I think we just have to agree to disagree (I hate that expression :-) ) on the categorization thing, my opinion is known thats all I can do. But I dunno, I think this NS thing needs further discussion. And on the whole thing about put the info in the article I meant so people don't think we are incorrect when we list them in what looks like the wrong place. Plus it just looks better, in my opinion at least. I understand having an explaination, but really how many people do you think would read it? When you hit a category you usually know what you are looking for already or have a rough idea, so stuff at the top is usally not read very much. I don't know, do what you gotta do - [[User:Elliot N|Elliot N]] 16:45, 12 June 2006 (UTC)
+:I do think it's important for anyone who changes rank within the books, and that includes NS. If you'd expect to know information about anyone within the context of them being an Accepted/Novice (like Siuan and Moiraine getting in trouble before their raising), you should be able to find them during the categorization scheme.
+:Alternatively we could have "Category:Former Amyrlins" for people like Tetsuan and Siuan, but that may be overkill. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 15:48, 23 June 2006 (UTC)
+
+==Family Tree==
+
+The Family Tree is misleading. "Ravens" indicates that Egwene is the youngest daughter, not the middle one. I'd fix it myself, but I don't know how. [[User:Puragus|<font color="blue">Puragus</font>]] <sup>[[User talk:Puragus|<font color="red">Talk</font>]]</sup> 16:50, November 6, 2009 (UTC)
+:Fixed.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:21, November 6, 2009 (UTC)
+
+
+== Outside the White Tower ==
+
+I'm currently re-reading the series and from what I've read so far Egwane wants to give 'all female channellers' links to the White Tower. Now I'm not sure whether it's actually in there, but doesn't Egwane eventually come up with an idea of giving all Aes Sedai a time as 'Aes Sedai' and then to retire(removing the shortening of life via the Oath Rod) and to be a part of the larger group that aren't Aes Sedai? If I'm not talking out my ass, shouldn't that be updated on the main page?[[User:Lightningbarer|Lightningbarer]] 16:08, January 17, 2010 (UTC)
+:I know you're right but I don't know the reference. [[User:Fatidiot1234|Fatidiot1234]] 17:02, January 17, 2010 (UTC)
+
+*The first referance appears in Winters Heart, with the Kin being set up for an Aes Sedai's Retirement. I'm sure there's more, but I haven't got to it yet.[[User:Lightningbarer|Lightningbarer]] 14:40, January 31, 2010 (UTC)
+
+== Pics ==
+
+Um, no offence, but the picture here by Todd Cameron Hamilton really sucks. I mean, it's just bad and it makes Egwene look terrible. It's like he didn't even try, because I could do better than that. I won't outright delete it, but what is the consensus here. I don't really like any of Hamilton's pictures, actually. [[User:Kgable10|Kgable10]] 17:07, March 29, 2010 (UTC)
+:It may be horrible, but if this wiki wants to be a reliable source of information then it can't use ''fan art'', even good fan art, as the main image for a character when ''official'' artwork exists. No matter what I personally think, I'd much rather be able to look at this site and say that it uses crappy official art than good fan-made stuff. In my mind, at least, it would make people question tdhe legitimacy of the information presented. &mdash;[[User:Jaymach|Jaymach Ral'Tir]] <small>([[User talk:Jaymach|talk]])</small> 17:13, March 29, 2010 (UTC)
+::What do you mean by official? Are you saying that that is the '''official '''character portrait? I mean, what about Saliba and the other guy? They did work for the comic. That is pretty official[[User:Kgable10|Kgable10]] 17:19, March 29, 2010 (UTC)
+To be honest i have to agree with Kgable on this one, there have been some great pics been posted recently and I'm really appreciative of it all don't get me wrong but the last lot by that Hamilton guy have been pretty average and a bit of an eye sore--[[User:GuanYu79|GuanYu79]] 04:33, March 30, 2010 (UTC)
+:Saliba's art is ''completely'' unofficial. He has drawn 5 covers for the comics (he does not do the inside artwork) that ''haven't even been published''. Though I'm fine with us using the cover art (because it goes through official licensing), the rest of the stuff he does is still fan art and not official at all. The work by Todd Cameron Hamilton, however, was published in ''[[The World of Robert Jordan's The Wheel of Time]]'' and thus was approved by Mr Jordan himself. You don't get much more official than that. &mdash;[[User:Jaymach|Jaymach Ral'Tir]] <small>([[User talk:Jaymach|talk]])</small> 04:40, March 30, 2010 (UTC)
+
+
+===Gallery===
+Where is the GALLERY sub-section? This page is getting cluttered with more images; can we please add a GALLERY section that redirects to more images? I think that will appeal to the graphic fans but remove the clutter and maintain a polished professional format. [[User:Ronmamita|Ronmamita]] 03:29, September 13, 2010 (UTC)
+:I reorganized the pictures so that they are not so clustered. Right now, there are four official pictures and three fan-made pictures. That seems to be a good balance. I would think that any more pictures, without more expansion of the text, should get a gallery. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:41, September 13, 2010 (UTC)
+
+Thank you for replying, I see a stark contrast between the more numerous pages that have no images and the few pages of main characters that have several pics. This seems to me an unbalanced format. I had imagined, and may I suggest, each page has a maximum limit of pics of 2 or 3 images. All other images could then be in the gallery section, at present Egwene page has 8 images where 2 or 3 would work just fine. I gather from other discussions that official and fan pics are to be included so a format of one official and one fan pic would work, or two official and one fan pic; but a page with 8 images still feels cluttered on the page as a whole (Yes, you spaced them out so as not to be clustered together but the page itself, seems cluttered with a lot of images). If every page has less than 4 images then the other images would be in the Gallery and all pages would follow a structured format.<br />
+Sincerely [[User:Ronmamita|Ronmamita]] 16:49, September 13, 2010 (UTC)
+:Mainly, that has to do with the fact that most secondary, tertiary and quaternary characters aren't as "important" as the primary characters. Therefore, characters like Egwene, Rand, Nynaeve, ect, are more "popular" for fan artists to draw. However, I do see your point. It can look unbalanced. Go ahead and bring it up on [[Help talk:Style guide]] and we can discuss it further. Thanks for the input! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:03, September 13, 2010 (UTC)
+
+== Logain ==
+
+I noticed something doesn't add up in the description of the event where Egwene sets Logain free. It currently says, "Moghedien is released by a man who can channel, making her wonder who did it. Her first thought is [[Logain Ablar]]; she induces Siuan to slip something the tea of the Aes Sedai that are holding his shield, allowing him to escape."
+
+This makes no freaking sense. Why would she release the first person she thought of who released a *Forsaken*. This is likely a typo. I'm going to find a page to cite and edit it soon, unless someone knows the correct verbiage.
+
+[[User:Saidin Antelope|Saidin Antelope]] 15:15, July 20, 2010 (UTC)
+
+:One of the reasons that Egwene suspects Logain in Moghedien's release is because ''saidin'', or at least a man who could channel, opened Moghedien's collar. At the time, he was the only ''known'' person who could channel ''saidin'' since they didn't know about Halima. Egwene also fears for Logain's saftey in a way, in that some of the sisters were pushing for his gentling. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:30, July 20, 2010 (UTC)
+
+::I wasn't asking why she suspected Logain (briefly) as well as the male Forsaken. I was asking why the article seemed to indicate that she releases Logain immediately after suspecting him of doing something they would indicate he was a darkfriend.
+::But I already fixed it, he was released *before* Moghedien was set free, and the article now shows that so it all makes more sense.
+::Saidin Antelope 09:49, August 25, 2010 (UTC)
+
+== Betrayal ==
+
+The wiki currently states that Egwene's betrayer was confirmed as Beonin Marinye, citing chapter 24 of ''Knife of Dreams'' as proof. However, the relevant passages suggests that Beonin ''wasn't'' the one who betrayed Egwene:
+
+: Beonin gestured and waited until her own Warder, a lean man with a long scar on his face, joined them. She adjusted her shawl several times. '''"Me, I betrayed nothing,"''' she said quietly. "I would not have sworn to you except that the Hall, it would have had me birched if it learned the secrets you knew. Perhaps more than once, even. Reason enough to swear, no? I never pretended to love you, yet '''I maintained that oath until you were captured."'''
+
+To me, this strongly suggests that Beonin wasn't the one who betrayed Egwene. Betraying Egwene would be tantamount to Beonin breaking her oath of fealty, yet Beonin explicitly states that she "betrayed nothing" and "maintained that oath [of fealty] until [Egwene] was captured" - i.e. until ''after'' Egwene had been betrayed. Beonin is bound by the Oath Rod against lying, so she must be telling the truth: she did not betray Egwene.
+
+Egwene herself believes this to be true:
+
+: "I saw Beonin today," she said softly. "She's here in the Tower. She claimed her oath to me no longer held because I was no longer the Amyrlin Seat."
+
+: Leane gasped and stepped near enough that she was brushing the iron bars. "''She'' betrayed us?"
+
+: "She denies it, and I believe her," Egwene whispered.
+
+Here Egwene states that she believes that Beonin did not betray her as Beonin ''was'' actually faithful to her oath of fealty until Egwene was captured. Beonin decided that Egwene was no longer Amyrlin once she had been captured and thus the oath of fealty to her as the Amyrlin Seat was no longer valid. 
+
+Leane Sharif agrees with Egwene that Beonin couldn't have betrayed them:
+
+: Leane glanced at the Whites. "Some always thought Elaida had spies among us. If Beonin was one, her oath to you would have held her until she could convince herself you were no longer Amyrlin."
+
+It's my opinion that the identity of whoever betrayed Egwene is still unknown, and will probably remain so now the series is finished.
+
+[[User:Nevtrev|Nevtrev]] ([[User talk:Nevtrev|talk]]) 12:59, May 9, 2013 (UTC)
+
+== Added category ==
+
+[[User:Yrael Aeir|Yrael Aeir]] ([[User talk:Yrael Aeir|talk]]) 02:04, June 11, 2013 (UTC)
+
+I don't know where to put this, so putting this here and if I'm wrong lemme know.
+
+I cried when Egwene died.
+
+[[User:Yrael Aeir|Yrael Aeir]] ([[User talk:Yrael Aeir|talk]]) 02:04, June 11, 2013 (UTC)
+
+
+
+I'm not entirely certain she is actually dead, although given that the books are finished it likely isn't relevant.
+
+As she self-destructed using the inverse weave of balefire, which burns you out of the pattern by annihilating your existence before the time in which it hit you, I felt it both entertaining and possible to suppose that the Flame of Tar Valon weave would actually instantiate you back into the pattern at a time later than it hit you.  Frozen time could certainly appear as indestructible crystal to an outside observer, as any area where time had ceased to move would in fact be impermeable to anything until time resumed, I think the Flame of Tar Valon locks you into the pattern and time until you are released and time resumes at some indeterminate point in the future based on the strength of the weave.  Thusly, a month, a year, 10 years, the weave's time interval (like balefire's backwards time interval) will complete and Egwene will pop out, although unless the Flame of Tar Valon has a restorative effect in the same way that balefire has a destructive effect she will still be in serious trouble from her overdrawing of the Power.
+
+ Not likley. Remember that while fighting the dark one, Rand could see the entirety of the patern, from the outside. He saw Egwene die, if she had been pushed forward, Rand would have seen this.
+
+ [[User:AbusiveUncleJoe|AbusiveUncleJoe]] ([[User talk:AbusiveUncleJoe|talk]]) 01:35, June 28, 2013 (UTC)
+
+== Flame of Tar Valon ==
+
+I went to a Brandon Sanderson book signing and asked him a couple of questions. So don't read any further if you don't want to know the answers.
+
+Now I'm just typing a random sentence that doesn't mean anything to give you time to stop reading...ok so the Flame of Tar Valon 'spell' had never been used in the Age of Legends, otherwise we would have known about it. But he did hint that it could have been used before the AoL.
+
+== Channeling abilities ==
+
+" Among women, Egwene al'Vere is only outstripped in the One Power currently by [http://wot.wikia.com/wiki/Nynaeve Nynaeve], [http://wot.wikia.com/wiki/Talaan Talaan], [http://wot.wikia.com/wiki/Sharina Sharina], [http://wot.wikia.com/wiki/Alivia Alivia], [http://wot.wikia.com/wiki/Someryn Someryn], [http://wot.wikia.com/wiki/Tamela Tamela], [http://wot.wikia.com/wiki/Viendre Viendre] and the [http://wot.wikia.com/wiki/Forsaken Forsaken]. She has likely reached her potential, or at least very far along." 
+
+
+
+Shouldn't something like this have references before being outright stated?   --[[User:Shimel|Shimel]] ([[User talk:Shimel|talk]]) 05:32, February 8, 2014 (UTC)
+
+== Skin ==
+
+I am just wondering where you got the dark skin from. [[User:Bookskiing|Bookskiing]] ([[User talk:Bookskiing|talk]]) 22:56, August 30, 2016 (UTC)
+
+Edit by Laerensedai 10/17/23
+Egwene is described by Rand as having '''''pale cheeks'''''. 
+
+"He did not want to meet her eyes, but he could not stop looking at her. She wore fed wild-roses twined in her hair, flowing about her shoulders. She held her cloak close, dark blue and embroidered along the edge with a thin line of '''''white flowers''''' in the Shienaran fashion, and the blossoms made a line straight up to her face. '''''They were no paler than her cheeks'''''; her eyes seemed so large and dark."
+
+--TEOTW, Chapter 53, "The Wheel Turns"
+
+So it seems Egwene has pale, white skin.
+
+
+
+[[Special:Contributions/112.65.11.202|112.65.11.202]] 11:19, December 5, 2017 (UTC)
+
+Why Min has not seen Egwene's death?
+
+This problem is always bothered me forever since Min has seen <span style="font-size:14px;">all main characters's end in TEOTW CH15.</span>
+
+<span style="font-size:14px;">She only mentioned that Egwene is part of the fighting against shadow and is in danger but never death.[[Special:Contributions/112.65.11.202|112.65.11.202]] 11:19, December 5, 2017 (UTC)</span>
+
+== Personality section ==
+
+In general we need to come up with an agreed-upon list of personality traits from Egwene as seen from the perspective of other characters. A shortlist of 5 or 6 traits would be ideal. All articles should be in [[Wikipedia:WK:NPOV|neutral PoV]] with as little discussion as possible. This is not a forum. There are places for debate other than the content of this article. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 15:04, 28 November 2020 (UTC)
+
+: Also, this might be useful to read about how the authors thought of Egwene's personality and her character arc. The last one is interesting, but doubtless there is more of use in there and you all have the books for other opinions in world. [https://www.theoryland.com/intvsresults.php?kw=egwene][[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 15:17, 28 November 2020 (UTC)
+
+== Spoilers ==
+
+Has there been any discussion on spoiler-proofing entries for people new to the series because of the TV show? New fans will google Egwene after watching the show, only to have two major plot points spoiled for them!
+
+People new to the series should not be exposed to so many major plot points on just the introduction of a character. The fact that she becomes Amyrlin seat is a major spoiler, the possibility of her becoming Aes Sedai is the first real hint we get of our villagers being special. The introduction of characters should give basic information about that character, info from the first introduction in the book and the first introduction in the TV series. Major plot points that are relevant to a characters biography can then be set aside in a dedicated section.
+
+I've never been involved in a wiki before, so I have no idea how to implement it. I do want to learn to contribute, but this is something that I think needs to be addressed in less than a month, before the premier.
+
+: Hi, this topic does occasionally come up. There is a peril in googling characters from an already existing IP on the internet and I don't believe there is much we can do about it. I attach a screenshot of the google search from my computer.[[File:2023-10-22.png|right|500px]] Any leading information is not viewable in the search, but what IS viewable is an image of Egwene with the Amyrlin's stole which isn't available on this website (Madeline Madden's face is in the artwork) and suggestions that Rand does not marry her and she is related to Gawyn Trakand in some way. The Google algorithm has the ability to extract information from the main text of webpages, so it's not really possible for us to make the wiki spoiler safe as far as Google is concerned. Also appreciate that this series was completed 10 years ago and started 30 years ago, so it's not really "new". Also, not all people care about spoilers. I did not when I read the series for the first time. If people do, however, it's an important lesson to learn to not Google characters from long-standing IPs and expect not to be spoiled. My main point, however, is that we have limited ability to control how Google displays it's information.  [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 17:04, 22 October 2023 (UTC)

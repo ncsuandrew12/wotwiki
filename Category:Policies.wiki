@@ -1,0 +1,4 @@
+Policies are agreed-upon standards and ways of doing business at this wiki. Please explain what concerns you have with a particular policy on its Talk page, rather than breaking it unilaterally. 
+
+'''All policies should be arrived at by [[project:Consensus|consensus]] before being placed in this category''', unless they are a pre-existing legal requirement, or condition of use for [[w:Community Central|Fandom]].
+[[Category:Administrative| Policies]]

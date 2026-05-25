@@ -1,0 +1,9 @@
+<noinclude><!-- The usage of the second parameter as an alternate display name for the link to the first parameter really complicates the logic here. Ideally, we'd remove that usage or implement it with a new parameter. At the time of this writing (March, 2026), I, androlf (who initially added that functionality), think that usage is only one a couple of pages. --></noinclude>''[[The Wheel of Time Companion|TWOTC]]''<nowiki/>{{#if:{{{1|}}}
+  | {{#if:{{{2|}}}
+    |{{#switch:{{lc:{{{1|}}}}}
+      | otdict|the old tongue dictionary|old tongue dictionary=&nbsp;- '''[[Old Tongue Dictionary]]''' - ''[[Old Tongue Dictionary#_twotcotd_{{{2}}}|{{{2}}}]]''
+      | &nbsp;- '''[[{{{1}}}|{{{2}}}]]'''}}
+    |&nbsp;- '''[[{{{1}}}]]'''}}
+  | {{#if:{{{2|}}}|&nbsp;- '''{{{2}}}'''}}
+}}<noinclude>{{Documentation}}
+[[Category:Book templates|TWOTC]]</noinclude>

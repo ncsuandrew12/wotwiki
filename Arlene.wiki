@@ -1,0 +1,18 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Maid
+| gender=Female
+| appeared={{cot|15}}
+| lastappeared={{kod|17}}
+| living=kod
+}}
+'''Arlene''' is [[Arymilla Marne]]'s maid. She is slim, pretty, and seems to be young 
+==History==
+
+Arymilla thinks of her as knowing what she likes, and Arlene always makes her choices for which bed Arymilla will sleep in.
+
+To distract Lord [[Nasin Caeren]] from [[Elenia Sarand]], Arymilla sends Arlene away with him to his tent, supposedly to fix him a spiced wine. Arlene is not at all happy to be chosen out to serve Nasin's lusts and Elenia finds it disgusting to offer one's own maid for this.
+[[Category:Short pages]]

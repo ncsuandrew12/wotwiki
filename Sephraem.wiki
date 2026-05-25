@@ -1,0 +1,27 @@
+{{VG}}
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| nationality=Unknown nationality
+| occupation=Sitter
+| rank=Aes Sedai
+| title=
+| gender=Female
+| build=
+| height=
+| affiliation=White Tower
+| ajah=Red
+| mentioned=
+| appeared=''[[The Wheel of Time (video game)|The Wheel of Time]]''
+| lastappeared=
+| lastmentioned=
+| living=
+| ewot=
+| status=
+|birth =
+}}
+'''Sephraem''' was an [[Aes Sedai]] of the [[Red Ajah]] in a [[Mirror World]], where she served as a [[Sitter]] in the [[Hall of the Tower]] around {{ne|850}}.
+== History ==
+After the unexpected death of the [[Amyrlin Seat]], Sephraem tried to wrestle control from [[Elayna]] Sedai, who had been the most recent [[Keeper of the Chronicles]].<ref name="videogame">''[[The Wheel of Time (video game)|The Wheel of Time]]</ref>
+{{notes}}
+[[Category:Characters original to the video game]]

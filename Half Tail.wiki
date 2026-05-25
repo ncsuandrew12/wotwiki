@@ -1,0 +1,18 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=half_tail
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Male
+| appeared={{loc|54}}
+}}
+{{WotQ|{{PAGENAME}}}}
+
+'''Half Tail''' is sour [[wolf]] and pack leader.
+
+==Activities==
+Half Tail, along with [[Two Moons]], [[Wildfire]], [[Old Deer]], [[Rabbit Nose]], [[Morning Clouds]], and numerous other wolves are known to [[Perrin Aybara]]. They scout for Perrin when he is searching for [[Rand al'Thor]] after Rand was kidnapped by [[Aes Sedai]] loyalists.{{ref/book|6|54}}
+
+{{notes}}

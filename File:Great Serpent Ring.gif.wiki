@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Item
+| Description        = A [[Great Serpent Ring]].
+| Source             = [[Badali Jewelry Specialities, Inc]] official [http://www.badalijewelry.com/jordan.htm website].
+| Artist             = 
+}}

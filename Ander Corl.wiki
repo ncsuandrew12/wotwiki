@@ -1,0 +1,19 @@
+{{character
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| occupation=Bootmaker
+| gender=Male
+| appeared={{tfoh|20}}
+| lastappeared={{tfoh|20}}
+| living=tfoh
+}}
+
+'''Ander Corl''' is a bootmaker from [[Taien]], a small town in the eastern end of the [[Jangai Pass]], in [[Cairhien]].
+
+==Activities==
+After [[Couladin]] and the [[Shaido]] [[Aiel]] stop and decimate the town of Taien on their way from [[Alcair Dal]] to Cairhien, he accompanies his wife, [[Aril Corl|Aril]], and her brother, [[Tal Nethin]], in approaching [[Rand al'Thor]] and his group on their way into Taien. The three are now refugees from the events in Taien, part of about one hundred survivors from the Shaido's attack. Rand decides to take the refugees with him. {{ref/book|5|20}}
+
+{{notes}}
+{{DEFAULTSORT:Corl, Ander}}

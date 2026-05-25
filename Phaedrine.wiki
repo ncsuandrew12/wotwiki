@@ -1,0 +1,43 @@
+{{ character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Unknown nationality
+| gender=Female
+| rank=Aes Sedai
+| affiliation=White Tower
+| build=Lean
+| eyes=Brown
+| hair=Dark
+| status=Alive
+| appeared={{tfoh|50}}
+| lastappeared={{kod|2}}
+| living=kod
+}}'''Phaedrine''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Phaedrine}}
+
+==Appearance==
+She is lean and small-boned, with dark hair and brown eyes. Much like the Brown Ajah stereotype, she tends to allow her low quality clothing to fall into disrepair, with tears and stains. She might be considered pretty if not for how much she frowns.
+
+== Abilities and Strength ==
+Phaedrine is [[Strength in the One Power among Aes Sedai|very weak]] for an Aes Sedai, with a strength in the [[One Power]] of {{opsl|41}}. We know of only a handful of Aes Sedai that are weaker. She is the same strength as [[Siuan Sanche]] after Siuan was [[Healed]] from [[stilling]].
+
+Although she is not strong enough to [[Traveling|Travel]], she and [[Shemari]] linked together were just strong enough to make a barely usable gateway.
+
+==Activities==
+She taught [[Egwene al'Vere]] as a [[novice]].
+
+She is allied with the [[Salidar Aes Sedai]].
+
+[[Elayne Trakand]] and [[Nynaeve al'Meara]] reported to her upon reaching [[Salidar]].
+
+She is spotted by Egwene leaving the Traveling grounds with [[Shemari]]. They were only just pinning on their cloaks so they must have been somewhere warm or inside.
+
+Phaedrine still seemed surprised that Egwene was [[Amyrlin]]; Egwene kept her face averted to prevent Phaedrine from wading out into the muck to ask if she needed assistance.
+
+She and [[Ashmanaille]] spoke with [[Beonin Marinye]] about how to hunt down whoever murdered [[Anaiya Carel]] and [[Kairen Stang]]. Phaedrine thought that the murderer was a male [[wilder]] working in their camp.
+
+{{notes}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

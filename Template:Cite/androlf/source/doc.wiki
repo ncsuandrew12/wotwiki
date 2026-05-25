@@ -1,0 +1,19 @@
+==Purpose of template==
+Refer to specific versions of specific sources. Useful when discussing things that were changed between versions, such as typos.
+
+==How to use==
+
+ <nowiki>{{</nowiki>cite/androlf/source|source=''source''<nowiki>}}</nowiki>
+
+{| class=wikitable
+!Code!!Result
+|-
+|<pre>{{cite/androlf/source|wh-h}}</pre>||{{cite/androlf/source|wh-h}}
+|-
+|<pre>{{cite/androlf/source|complete-md}}</pre>||{{cite/androlf/source|complete-md}}
+|-
+|<pre>{{cite/androlf/source|companion-md}}</pre>||{{cite/androlf/source|companion-md}}
+|-
+|<pre>{{cite/androlf/source}}</pre>||{{cite/androlf/source}}
+|-
+|}

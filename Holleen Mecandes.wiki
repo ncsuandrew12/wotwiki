@@ -1,0 +1,30 @@
+{{RPG}}
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| title=Lady
+| affiliation=Darkfriend
+| gender=Female
+| build=
+| height=
+| appeared=
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| lastappeared=
+| living=tom
+}}
+'''Holleen Mecandes''' is a [[Cairhien|Cairhienin]] noblewoman, known as '''the Kite'''.
+
+==Appearance==
+She is blonde, statuesque, and was in her forties at the time of the events of the main series.
+
+==History==
+She is the much younger sister, or more likely the niece, of [[Cabriana Mecandes]], an [[Aes Sedai]] of the [[Blue Ajah]]. At some point, her branch of the family relocated from Tear to Cairhien.
+
+Lady Holleen is the head of the largest [[Darkfriend]] cell in Cairhien.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Cairhien (people)]]
+[[Category:Nobility]]
+[[Category:Characters only mentioned in the RPG]]

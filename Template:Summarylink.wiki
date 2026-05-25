@@ -1,0 +1,4 @@
+{{#if:{{{1|}}}
+|[[{{{bookname}}}/{{c0|{{{1}}} }}|{{{bookabrev}}}&nbsp;{{c1|{{{1}}} }}]]
+|''[[{{{bookname}}}]]''
+}}<noinclude>[[Category:Utility templates|{{PAGENAME}}]]

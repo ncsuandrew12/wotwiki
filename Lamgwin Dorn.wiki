@@ -1,0 +1,34 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=Lamgwin
+| nationality=Andoran
+| gender=Male
+| build=Hulking
+| affiliation=Morgase Trakand
+| status=Alive
+| appeared={{teotw|39}}
+| lastappeared={{tom|44}}
+| living=tom
+}}
+'''Lamgwin Dorn''' was hired by [[Basel Gill]] to prevent trouble in [[The Queen's Blessing]] in [[Caemlyn]]. 
+
+== Appearance ==
+He is a hulking figure with heavy lidded, lazy eyes, an often broken nose with scars on his face and hands. He has broad shoulders and sunken knuckles. He is 6'2 to 6'3 tall, and is more accustomed to using bare fists or cudgels than any other weapon.
+
+== Activities ==
+He was born in {{ne|951}}.
+
+He is at the Queen's Blessing when [[Matrim Cauthon]] and [[Thomdril Merrilin]] arrive with the letter from [[Elayne]] to Morgase.{{ref/book|3|45}} He thinks that [[Rand al'Thor|Rand]] would be good in a fight. He is very loyal to Queen Morgase.
+
+He along with Basel Gil, [[Queen Morgase]], [[Lini]], [[Tallanvor]] and [[Breane Taborwin]] travel to [[Amadicia]] where they are made guests of King [[Ailron]] and subsequently kept under guard. Since Breane fled [[Cairhien]], she seems to have met Lamgwin and fallen in love with him, being utterly devoted to him. Lamgwin also fell in love with her, becoming utterly devoted. and the rest are then held captive in the [[Fortress of the Light]] by [[Pedron Niall]]. He manages to escape with Morgase and the rest of her crew with the help of [[Sebban Balwer]].
+
+Upon escaping Amadicia, the party go on to become personal servants of [[Perrin]] and [[Faile]] of the [[Two Rivers]].
+
+Perrin sends him north just before the attack on the [[Shaido]] in [[Malden]] with the intention of catching up with him afterwards. He is captured by the [[Children of the Light]] who return him before Perrin's trial.
+He finally leaves Perrin's camp to continue serving Morgase, when her identity is revealed to everyone.
+
+{{notes}}
+{{DEFAULTSORT:Dorn, Lamgwin}}
+
+[[es:Lamgwin Dorn]]

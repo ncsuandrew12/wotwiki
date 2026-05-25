@@ -1,0 +1,44 @@
+{{character 
+| image=MeilynSedai.png
+| imagesize=250px
+| ewot=Meilyn
+| ajah=White
+| nationality=Ghealdanin
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| eyes=Startling blue
+| hair=Silver-gray
+| status=Dead
+| death={{ne|979}}
+| height=Tall
+| mentioned={{ns|3}}
+| appeared={{ns|5}}
+| lastappeared={{ns|8}}
+| lastmentioned={{ns|18}}
+}}
+'''Meilyn Arganya''' was an [[Aes Sedai]] of the [[White Ajah]]. She had one Warder named [[Andro]].
+
+== Appearance ==
+She was a tall woman with silver-gray hair, a thrusting chin, a smooth face, and "startling" blue eyes.{{Ref/book|0|5}} 
+
+== Abilities ==
+She was [[Strength in the One Power among Aes Sedai|exceptionally strong]] in the [[One Power]] by Aes Sedai standards, with a strength of {{ops|16}}.{{ref/book|c|Meilyn Arganya|comp}} Except for [[Cadsuane Melaidhrin]], she was the strongest channeler the White Tower had seen in six hundred years.{{Ref/book|0|17}}
+
+==History==
+Arganya was born in {{ne|698}}. Due to her name, she was most likely from [[Ghealdan]] (see [[Gerard Arganda]]). 
+
+She went to the [[The White Tower|White Tower]] in {{ne|714}} at the age of 16. She spent 7 years as a [[novice]] and 6 as [[Accepted]].{{ref||comp}} She was raised to the [[shawl]] in {{ne|727}} at the age of 29.
+
+A highly respected Aes Sedai, she was also one of the oldest Aes Sedai during the [[Aiel War]]. She visited [[Siuan Sanche]] and [[Moiraine Damodred]] when they are taking babies' names just after the end of the [[Aiel War]]. She was one of [[Tamra Ospenya's Searchers]] sent out by the Amyrlin after [[Gitara Moroso]]'s [[Foretelling]] to find the child who would become the [[Dragon Reborn]].{{Ref/book|0|7}}
+
+She was murdered by the [[Black Ajah]] during a return to the Tower some time after Tamra's death. She was supposed to have died while asleep in her bed, but [[Siuan Sanche]] was hiding under her bed that night and discovered that Meilyn never came to her quarters. Her death was announced by [[Chesmal Emry]], later revealed to be Black. She was the last of the Searchers to die, leaving only [[Moiraine Damodred]] and Siuan Sanche to search for the child.{{Ref/book|0|18}}
+
+== Similarity to [[Aisha Raveneos]] ==
+
+Aisha and [[Aisha Raveneos]] share several similarities. They were born in the same year, went to the Tower in the same year, spent the same number of years as novice and Accepted, and were raised to the shawl in the same year. Both were also among the strongest contemporary Aes Sedai when raised, and both were among [[Tamra Ospenya's Searchers]].
+
+{{notes}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

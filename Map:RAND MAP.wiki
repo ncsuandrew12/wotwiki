@@ -1,0 +1,40 @@
+{
+    "mapImage": "RANDMAP.jpg",
+    "pageCategories": [
+        "Interactive_Maps"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1177,
+            858
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": true,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "General",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "MAPS",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": []
+}

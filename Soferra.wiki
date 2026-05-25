@@ -1,0 +1,17 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| gender=Female
+| mentioned={{tsr|43}}
+| lastmentioned={{tsr|43}}
+}}
+'''Soferra''' was an [[Ogier]] woman, mother of [[Ala]] and grandmother of [[Damelle]].{{ref/book|4|43}}
+
+==History==
+While she is mentioned, as part of her granddaughter's name, nothing is known about her.
+
+{{notes}}
+{{short}}
+[[Category:Historical people]]

@@ -1,0 +1,41 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  {{<includeonly>subst:</includeonly>PAGENAME}}! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wotwiki:Community Portal|welcome]] to '''{{SITENAME}}'''!. Thanks for your edit to the [[:Eye of the World]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! [[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 07:04, February 19, 2020 (UTC)
+|}
+
+Hi,
+
+sorry for the late reply.
+
+I deleted your "True Souce" page, although I've been thinking for a second to just correct it to True Sauce. :D
+
+There is already a True Source page which is redirected to the One Power page.
+https://wot.fandom.com/wiki/True_Source
+
+The first few sentences of the One Power page and the paragraph Nature of the True Source explain the True Source well enough, so I think it's unnecessary to create a short page for the True Source separately, since you can look the keywords up and get the info right away.
+
+Keep continue editing, but please check before you create something whether there's already a page for that. It would be also nice if you could learn to keep the style of the existing pages, e.g. the use of "short page box, Notes box, links and references". Check my contributions if you need a reference. 
+
+I would also need to ask you to please restrain yourself from using photos from unknown sources. Copyright restrictions require us to only use pictures from known sources and with proper crediting. If you would be so kind you could start crediting or removing the photos you've uploaded so far. Thank you.
+Overall, I'd recommend to read the https://wot.fandom.com/wiki/Category:Policies and the https://wot.fandom.com/wiki/Help:Contents section for more info. 
+
+If you are uncertain, you can try to leave a message to me, I'll try to visit a bit more often. ;)
+
+Best,
+
+S.

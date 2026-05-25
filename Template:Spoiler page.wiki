@@ -1,0 +1,11 @@
+<includeonly>{|style="width:100%;background-color:#cc0033;border:1px solid #ccc"
+|style="width:100%;text-align:center;color:#000"|<div style="font-size:200%;border:none;margin: 0;padding:.1em;color:#000">
+Warning!
+
+This entire page contains spoilers{{#if: {{{1|}}}|&nbsp;from {{{1}}}}}.
+Continue reading at your own risk!</div>
+|}
+[[Category:Spoilers]]</includeonly><noinclude>
+{{Documentation}}
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

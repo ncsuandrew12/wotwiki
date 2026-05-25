@@ -1,0 +1,98 @@
+{{featuredicon}}{{character
+| image=Leane Sharif by KaligoDark.jpg
+| imagesize = 250px
+| ajah=Green
+| gender=Female
+| nationality=Domani
+| rank=Aes Sedai
+| affiliation=White Tower
+| height=Tall (roughly 6ft)
+| build=Thin
+| status=Alive
+| appeared={{ns|11}}
+| lastappeared={{amol|37}}
+| living=amol
+| ewot=leane
+|birth ={{ne|952}}}}'''Leane Sharif''' (pronounced: lee-AHN-eh shah-REEF) is an [[Aes Sedai]] of the [[Green Ajah]], originally of the [[Blue Ajah]].
+
+==Appearance and Personality==
+She has the copper skin of a [[Domani]], and is thin and nearly as tall as a man. She is willowy, graceful, and beautiful. When Min meets her at Tar Valon, she describes her hair straight, dark and only a little longer than Min's own hair. 
+
+She lost her ageless look after being stilled, and looked about 23 years old. {{ref/book|10|16}}
+
+As Keeper of the Chronicles, she was brisk and well-organized.
+
+==Strength and Abilities==
+[[File:Leane.png|thumb|left|200px|Leane Sedai]]Leane was considered [[Strength in the One Power among Aes Sedai|very strong]] in the [[One Power]] with a strength of {{opsl|20}}. Few equalled this strength, and even fewer surpassed it.
+
+After being stilled and Healed, she was considered very weak for an Aes Sedai, with a strength of {{opsl|42}}. Leane explains that she and Siuan were less than half their original strength and, had they even been as strong as half, "most [in Salidar] would be as strong, and a good many stronger".{{ref/book|6|30}} Siuan, with a strength level of {{opsl|41}}, considered herself so weak that a "no more than middling" sister like [[Aeldene Stonebridge]] would expect her to be "holding my tongue until [she] give me permission to speak".{{ref/book|7|11}}  Aeldene would be classed as no more than low average and we know of only a handful of Aes Sedai that are weaker than Leane.
+
+Leane has the [[talent]] to use the Healing weaves. She is also strong in [[Earth]], having the second-best ability with metals after Egwene and is one of the best at making ''[[cuendillar]] - ''being faster than Aes Sedai stronger than her in the Power such as Kairen at level {{opsl|24}} and Ashmanaille at level {{opsl|28}}.
+
+After her stilling, she began to practice the Domani arts of seduction. She once thought that these arts worked as well on women as on men, and she used these to great effect to guide and manipulate the rebel Aes Sedai into listening to her suggestions. She also maintained an eyes-and-ears network within Tar Valon itself, as she always thought the Aes Sedai should pay greater attention to what was going on near them, giving a great deal of intelligence and information to the rebels. 
+[[File:Siuan and Leane.jpg|thumb|right|210px|Siuan Sanche as Amyrlin Seat and Leane Sharif as Keeper of the Chronicles]]
+
+== History ==
+Leane is 48 years old. She was born in the year {{ne|952}} in a merchant family and was sent to the [[White Tower]] in [[967 NE]]. After spending five years as [[novice]] and four as [[Accepted]] she was raised to the [[shawl]] in the year [[976 NE]]. A very short time even for one with her potential.
+
+She was an Accepted with [[Moiraine Damodred]], though Leane was raised to Aes Sedai sometime earlier.
+
+Because she was one of the newest Blues, raised only about a year before, she was one of the sisters who presented the shawl to Moiraine and [[Siuan Sanche]] when they first became Aes Sedai. She then escorted them to the Blue Ajah living quarters. As Aes Sedai, she resumed her friendship with Siuan and Moiraine once they became Aes Sedai.
+
+She had a Warder called [[Anjen]], who she Bonded in {{ne|977}} and who died in {{ne|984}}. They were therefore only Bonded for seven years, which is not long.{{ref|{{twotc}}, Anjen}}
+
+She was [[Keeper of the Chronicles]] under Siuan Sanche, raised from the Blue Ajah in {{ne|988}}, serving for 11 years.
+
+== Activities ==
+She was one of the Aes Sedai that Healed [[Mat Cauthon]] from his link with the [[Shadar Logoth]] dagger.{{ref/book|3|18}}
+
+=== Deposed ===
+She is deposed and stilled by [[Elaida do Avriny a'Roihan]] and her followers. With the help of [[Laras]], the Mistress of the Kitchens, she escapes with Siuan, [[Logain Ablar]], and [[Min Farshaw]].{{ref/book|4|47}}
+
+While on the run under the name of '''Amaena''', she begins trying to use her Domani charms on men, with mixed results. She is captured by [[Gareth Bryne]]—who notices that she seems out of practice with Domani seduction—with Min and Siuan after a slight misunderstanding caused by their companion Logain, but the latter comes and saves them.{{ref/book|5|1}} Eventually they reach [[Salidar]] and join the rebels hiding there. She helps Siuan run the [[eyes-and-ears]] for the [[Salidar Aes Sedai]], saying she built up a large network in [[Tar Valon]] itself. She also helps Siuan to guide the [[Salidar Six]] all the while giving the appearance that she and Siuan despise each other.
+
+=== Healed  ===
+[[File:Leane.jpg|thumb|left|Leane Sharif from the CCG]]
+When [[Nynaeve al'Meara]] Heals her from being stilled, she joins the Green Ajah instead of returning to the Blue. Due to her being Healed by a woman, her strength with the [[One Power]] has been severely reduced and as a result she stands fairly low among Aes Sedai now, but she has adapted to it quite easily and is praised by other Aes Sedai for her adjustment. After [[Egwene al'Vere]]'s arrival, she becomes one of her spies, especially in [[Lelaine Akashi|Lelaine Akashi's]] group. Leane makes a show of fighting with Siuan in public, so that her connection to Egwene and Siuan will remain secret. She also keeps a secret the fact that she is no longer bound by the [[Three Oaths]]. This becomes very useful, as when she agrees with Siuan in public, the other Aes Sedai take more notice due to the perceived animosity between the two.
+
+During the celebration in honor of the new [[Amyrlin Seat]], she dances with [[Mat Cauthon]] and kisses him.
+
+As Egwene starts experimenting with the production of ''cuendillar'' after having rediscovered the [[weave]] for making it, Leane turns out to be unique among the rebels, due to her unusual strength with [[Earth]]. She can create ''cuendillar'' with almost the same speed and efficiency as Egwene, and is far better than [[Kairen Stang]] and [[Ashmanaille]], the two sisters behind her in ''cuendillar'' making skill but who are stronger than her in the Power.
+
+After the failed attempt to block [[Tar Valon]] harbor she is imprisoned in the open cells of the White Tower. She is beaten by [[Desala Nevanche]], who seems to believe she is a [[wilder]] rather than who she is.
+
+She is kept in one of the open cells as a prisoner. Egwene visits her and tells her of her intent to remain in the White Tower and try the attack from the inside. Egwene tells her to slip in bits of discord in her conversations to her visitors; Leane has many, as many want to learn [[Traveling]] from her.
+
+Egwene is visiting Leane in the cells when a [[bubble of evil]] erupts and begins to melt Leane's cell. She is saved when her two jailers [[Gelarna]] and [[Musarin]] pull her out of the cell with weaves of [[Air]]. She is finally released from captivity when Egwene becomes Amyrlin Seat of the White Tower.
+
+=== Back in the Tower ===
+Egwene sets up a meeting in which Leane attends, in ''[[Tel'aran'riod]]'' between Aes Sedai, [[Sea Folk]] [[Windfinders]], and [[Aiel]] [[Wise Ones]]. It is decided at the meeting that Accepted will go and train with the Wise Ones for six months and they would then train with the Sea Folk for another six months before returning to the White Tower. They would then make a choice a year later on where they would wish to finish their training. Sea Folk and Wise One apprentices would also go through this training program but to the White Tower and the other channeling faction. It is agreed that for every two Accepted who leave, two Wise One apprentices and two Sea Folk apprentices will be exchanged. The Sea Folk Bargain is also modified so that Aes Sedai sisters no longer have to teach Sea Folk Windfinders anymore and that Sea Folk Aes Sedai can now return back to their homeland and be the channelers who teach the Sea Folk Windfinders. Finally all ''[[ter'angreal]]'' that are already owned by the Aiel or by the Sea Folk cannot be claimed by the White Tower.
+
+The [[Black Ajah]] attack after the meeting in ''Tel'aran'rhiod'' and Leane is one of the Aes Sedai who participate in the [[Battle in Tel'aran'rhiod]]. Because of her skill in Tel'aran'rhiod, she is one of the handful whom Egwene allows to stay and fight.
+
+===The [[Last Battle]]===
+Leane fights beside Egwene on the Kandori war-front when she witnesses the arrival of the [[Sharan]] army. She she is captured by them. [[Demandred]] releases her with a message for the [[Dragon Reborn]]: to tell him that he has come to kill him. Leane is able to hold her composure during the whole process. She keeps fighting the Sharans once she is released and ends up identifying [[Doesine Alwain|Doesine Alwain's]] headless body, fighting alongside, among others, [[Raechin Connoral]] and [[Manda Wan]].
+
+She witnesses Egwene's death and describes it as a "magnificent burst of light." She also finds [[Vora's sa'angreal|Vora's ''sa'angreal'']] in the crystal column that is the sole earthly remnant of Egwene al'Vere.
+
+It is presumed she survived the [[Last Battle]] and that she witnessed the [[Flame of Tar Valon]], Egwene's last weave.
+
+== Viewing ==
+Min sees her looking through a transparent mask of herself, screaming. This refers to the way she was too used to avoiding her seduction skills while an Aes Sedai and was not able to start using them again. After being stilled, removing this 'mask' is what she does to try to find something to replace saidar to stop herself from dying. (''fulfilled'')
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Leane Sharif}} is played by actress {{TVlink|Jennifer Cheon Garcia}}.
+
+{{Notes}}<references />
+{{Primary Protagonists}}
+{{DEFAULTSORT:Sharif, Leane}}
+[[Category:Blue Ajah]]
+[[Category:Keepers of the Chronicles]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Eyes-and-ears]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Stilled|Stilled]]

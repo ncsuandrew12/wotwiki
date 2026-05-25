@@ -1,0 +1,19 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| gender=Male
+| occupation=Farmer
+| nationality=Andoran
+| mentioned={{teotw|33}}
+| lastmentioned={{teotw|33}}
+| living=teotw
+}}
+'''Ackley Farren''' is an [[Andoran]] villager.
+
+==Activities==
+When [[Rand]] and [[Mat]] are told by a farmer that an old man mentioned there were [[Darkfriends]] in [[Market Sheran]], the farmer laughs and tells the boys that it was the best story he had heard since Ackley Farren got drunk and spent the night on the inn roof.{{ref/book|1|33}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Ferran, Ackley}}

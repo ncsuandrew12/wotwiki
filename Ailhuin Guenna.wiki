@@ -1,0 +1,35 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| ewot=Ailhuin
+| status=Alive
+| nationality=Tairen
+| occupation=Wise Woman
+| gender=Female
+| build=Large, muscular
+| height=
+| hair=Gray
+| eyes=Dark
+| appeared={{Tdr|48}}
+| lastappeared={{tdr|52}}
+| lastmentioned={{tdr|56}}
+| living=tdr
+}}
+'''Ailhuin Guenna''', known as Mother Guenna, is a [[Wise Woman]] living in [[Tear]].
+
+==Appearance==
+Mother Guenna is a large and muscular woman. She has gray hair in thick curls and dark eyes.
+
+==Activities==
+When [[Nynaeve al'Meara]], [[Elayne Trakand]] and [[Egwene al'Vere]] come to Tear to hunt the [[Black Ajah]], Nynaeve notices Mother Guenna's shop as an herbalist. She asks to stay in Mother Guenna's home, which is part of her shop. Mother Guenna accepts her offer after she and Nynaeve banter back and forth regarding herbs. Mother Guenna's price for staying is for them to buy some meat and other supplies occasionally.{{ref/book|3|48}} 
+
+{{quote|Burn my soul, have you no menfolk? Men are not good for much beyond heavy hauling and getting in the way, most of the time — and kissing and such — but if there's a battle to be fought or a thief to catch, I say let them do it. Andor is as civilized as Tear. You are not Aiel.|Mother Guenna on the girls hunting the Black Ajah, {{3|48}}}}
+
+To help with the hunt, Mother Guenna introduces the three women to [[Juilin Sandar]], a [[Thief Taker|thief taker]].{{ref/book|3|49}} During his search for the Black Ajah, Liandrin uses compulsion on him so they can capture the three women. When Nynaeve is out of the house, the Black Ajah captures Mother Guenna, Elayne and Egwene. Nynaeve is captured when she returns. [[Liandrin]], [[Rianna Andomeran]], [[Amico Nagoyin]] and [[Joiya Byir]] leave with the three women and warn Mother Guenna not to speak to anyone concerning the events in her house.{{ref/book|3|51}} 
+
+Soon after the three women are taken from the house, [[Matrim Cauthon]] brings [[Thomdril Merrilin]] to Mother Guenna to get Thom help with a bad cough. During their talk, Mother Guenna discovers that Mat knows the three women. Mother Guenna tells him that they were taken to the [[Stone of Tear]]. Thom is left at Mother Guenna's house, albeit under vehement but weak protest.{{ref/book|3|52}} After Juilin helps Mat rescue Nynaeve, Elayne and Egwene, Juilin returns to Mother Guenna's house to tell her the news.{{ref/book|3|56}}
+
+{{notes}}
+{{DEFAULTSORT:Guenna, Ailhuin}}
+
+[[es:Ailhuin Guenna]]

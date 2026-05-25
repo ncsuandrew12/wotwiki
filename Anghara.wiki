@@ -1,0 +1,27 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| ewothist=Anghara
+| ajah=Unknown
+| nationality=Unknown nationality
+| gender=Female
+| title=[[Amyrlin Seat]]
+| status=Dead
+| mentioned={{acos|16}}
+| lastmentioned={{acos|16}}
+}}'''Anghara''' was an [[Amyrlin Seat]] from the past as [[Mat Cauthon|Mat]] remembers from his memories given him by the [[Eelfinn]].
+
+== History ==
+[[Isebele]], the ruler of [[Dal Calain]], a country that disappeared during the [[Trolloc Wars]] had enough power to force Anghara to come to her.{{Ref|{{twotc}}, Anghara}}
+
+''"Tylin Quintara [...] She had little power – a man could ride beyond her writ in two or three days and still have a lot of Altara ahead – but he thought she might make even an Aes Sedai step back. Like Isebele of Dal Calain, who had made the Amyrlin Anghara come to her. That was one of the old memories; Dal Calain had vanished in the Trollocs Wars."''{{Ref/book|7|16}}
+
+– Mat thinking of [[Tylin Quintara Mitsobar|Tylin Quintara]]
+
+{{notes}}
+{{short}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai (Free Years)]]
+[[Category:Aes Sedai]]

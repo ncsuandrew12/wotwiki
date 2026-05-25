@@ -1,0 +1,20 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andor
+| gender=Male
+| occupation=Innkeeper
+| appeared={{loc|10}}
+| lastappeared={{loc|10}}
+| living=loc
+}}
+'''Dilham''' is the [[innkeeper]] of [[Culain's Hound]], an inn in the city of [[Caemlyn]].
+
+==Appearance==
+He is a round-faced man with three chins and wears a white apron that strains around his bulk.{{Ref/book|6|10}} 
+
+==Activities==
+He houses [[Alanna Mosvani]] and [[Verin Mathwin]] leading a group of about a dozen [[novices]] to be from the [[Two Rivers]].
+
+His inn is visited by the [[Dragon Reborn]] himself, who in anger at their disbelief scares them through a demonstration of ''[[saidin]]''. Shortly afterwards, in the separate dining hall of the inn, Alanna Mosvani attempts to trick the [[Pattern]] by [[bonding]] him.

@@ -1,0 +1,23 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Comadrin
+| status=Dead
+| nationality=Unknown nationality
+| rank=General
+| occupation=Soldier
+| gender=Male
+| mentioned={{loc|5}}
+| lastmentioned={{kod|37}}
+}}
+{{quote|It is always better to kill your enemies far off than close at hand.|Madoc Comadrin}}
+'''Madoc Comadrin''' was a [[general]] who lived approximately six hundred years before the era of [[Artur Paendrag Tanreall|Artur Hawkwing]].{{ref|{{twotc}}, Madoc Comadrin|Madoc}} He was a genius of military strategy and authored a book entitled ''[[Fog and Steel]]''.{{ref||Madoc}}{{ref/book|11|p}}
+
+== Referenced ==
+Centuries later [[Matrim Cauthon]] often quotes Comadrin, from his book and from his own memories of actually meeting him.{{ref/book|6|5}} King [[Roedran Almaric do Arreloa a'Naloy]] was also very impressed with Comadrin's book and printed some copies of it.{{ref/book|11|26}} In respons to [[Musenge]]'s querry about Mat not donning armor and participating in battle, Mat quotes Comadrin, saying ''"a general who draws his sword has put aside his baton and become a common soldier."''{{ref/book|11|37}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Comadrin, Madoc}}
+[[Category:Authors]]
+[[Category:Historical people]]

@@ -1,0 +1,29 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| society=
+| clan=Unknown clan
+| sept=Unknown sept
+| affiliation=Samma N'Sei
+| status=Dead
+| appeared={{amol|34}}
+| lastappeared={{amol|34}}
+| living=tom
+}}
+'''Soro''' is an [[Aiel]] of the ''[[Samma N'Sei]]''.
+
+== History ==
+[[Aviendha]] remembers him as a kind man, who learned to channel when he was a child, making ''[[algode]]'' grow where it should not. He was banished to the [[Blight]] due to suffering the [[Taint]] and expected to sacrifice his life fighting [[Shadowspawn]]; instead, he was turned to the ''[[Samma N'Sei]]'' like many male channelers of the Aiel.
+
+== Activities ==
+At the [[Last Battle]], Soro is killed by Aviendha and her [[Circle]] in [[Thakan'dar Valley]].{{ref/book|14|34}}
+
+== Trivia ==
+* Soro is named for Chris Beckman, a fan of ''The Wheel of Time''. His screen name was Soronhen Cirayher.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{short}}
+{{notes}}
+[[Category:Characters named after fans]]
+[[Category:Channelers]]

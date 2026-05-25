@@ -1,0 +1,20 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Elayne Trakand
+| gender=Gelding
+| color=Black
+| appeared={{tpod|20}}
+}}
+'''Fireheart''' is the name of [[Elayne Trakand]]'s horse.
+
+==Appearance==
+Fireheart is a tall, black gelding.
+
+==Activities==
+After [[Lioness]] is killed, Elayne acquires Fireheart from Master [[Hornwell]].{{ref/book|8|20}} Fireheart carries Elayne to [[Caemlyn]].{{ref/book|8|28}} Fireheart is used by Elayne throughout several activities done by Elayne; riding through the streets of Caemlyn,{{ref/book|9|7}} meeting with the [[Borderland]]er rulers,{{ref/book|9|27}} returning from [[House Matherin]],{{ref/book|10|10}} and defending Caemlyn's walls from an attack from [[Arymilla Marne]].{{ref/book|11|13}} Fireheart is also riden by Elayne when she is captured by the [[Black Ajah]].{{ref/book|11|31}}
+
+{{notes}}

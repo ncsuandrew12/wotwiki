@@ -1,0 +1,6 @@
+<div class="messagebox cleanup metadata plainlinks">
+{| style="width:100%; background-color: rgb(135,135,135,.25);"
+|'''This article discusses a fan theory based on incomplete information.'''<br /><small>Please discuss this theory on the [[{{TALKPAGENAME}}|talk page]] or [{{fullurl:{{FULLPAGENAME}}|action=edit}} remove this tag] if the subject is resolved.</small>
+|}</div><includeonly>
+[[Category:Theories]]</includeonly><noinclude>
+[[Category:Templates]]</noinclude>

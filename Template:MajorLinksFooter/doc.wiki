@@ -1,0 +1,8 @@
+==Purpose of template==
+Add a table entry for the major links in a footer table.
+
+==How to use==
+ <nowiki>{{MajorLinksFooter|colspan}}</nowiki>
+
+==See also==
+{{tl|MajorLinksFooterFull}}

@@ -1,0 +1,23 @@
+{{creature
+| image=sredit-icon.svg
+| imagesize=100px
+| elephants=yes
+| animal=S'redit
+| status=Alive
+| owner=Cerandin
+| gender=Cow
+| color=Gray
+| appeared={{tfoh|17}}
+| mentioned={{tfoh|13}}
+}}'''Sanit''' is a ''[[s'redit]]'' cow tended by [[Cerandin]] in [[Valan Luca's Traveling Show]].{{ref|{{twotc}}, Sanit}}
+
+==Appearance==
+Like other ''s'redit'', Sanit is gray.
+
+==Activities==
+When the [[Seanchan]] landed at [[Falme]], the brought many ''s'redit'', as well as ''[[raken]]'', ''[[grolm]]'', ''[[corlm]]'', and ''[[torm]]''.{{ref/book|2|47}} Sanit, along with [[Mer]] and [[Nerin]], were separated and were eventually rounded up by [[Cerandin]].
+
+She brought the animals to [[Valan Luca|Valan Luca's]] [[Valan Luca's Traveling Show|traveling show]] to be performers. [[Elayne Trakand]] and [[Nynaeve al'Meara]] recognized Sanit, Mer, and Nerin as Seanchan animals and discover Cerandin is Seanchan as well.{{ref/book|5|17}} When the two women leave the show, they offer to take Cerandin as well. She said that she would not leave the circus if she could not take the ''s'redit'' as well.{{ref/book|5|47}}
+
+{{notes}}
+{{short}}

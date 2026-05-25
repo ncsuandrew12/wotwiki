@@ -1,0 +1,18 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| affiliation=Kandor
+| nationality=Kandori
+| title=Lady
+| gender=Female
+| status=Alive
+| mentioned={{tpod|p}}
+| lastmentioned={{tpod|p}}
+| living=tpod
+}}
+{{for|the similarly named [[Aes Sedai]] of the [[Black Ajah]] posing as [[Green Ajah|Green]]|Nacelle Kayama}}
+Lady '''Nazelle''' is Queen [[Ethenielle Kirukon Materasu]]'s older{{verify}} sister. 
+
+==History==
+Queen [[Ethenielle Kirukon Materasu|Ethenielle]] arranged Nazelle's wedding to [[Ismic]] when she was younger than [[Tenobia Kazadi|Tenobia]].
+[[Category:Nobility]]

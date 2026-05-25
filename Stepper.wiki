@@ -1,0 +1,15 @@
+{{creature
+| image=662DCDA2-507E-447D-A29D-F093FAEA2A32.jpeg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Perrin Aybara
+| gender=Stallion
+| color=Dun
+| appeared={{tdr|1}}
+}}
+'''Stepper''' is a horse ridden by [[Perrin Aybara]]. Stepper is a dun stallion.{{ref/book|3|1}} Perrin named him so due to his quick feet.
+
+{{notes}}
+{{stub}}

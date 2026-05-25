@@ -1,0 +1,46 @@
+==Black Ajah==
+I don't think the 'point' is to obscure the BA, here; I thought the point was navigation among articles. I appreciate the irony of what you're doing, but.. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 17:45, 27 June 2006 (UTC)
+: Well my point was to obscure them because they are not at all like the official ajahs and arguably don't belong in this template at all.  To me the obfuscated link seems like a tastefully amusing compromise.
+: But to each his own, I guess; I'm hardly going to complain if you really want to change it back again. --[[User:Gherald|Gherald]] 23:24, 27 June 2006 (UTC)
+::Indeed, I'll leave it alone unless somebody else wants to weigh in. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:48, 5 July 2006 (UTC)
+
+:I like it this way [[User:71.236.79.160|71.236.79.160]] 22:46, 20 October 2006 (UTC)
+
+Hmm, think I have to go with [[User:Nae'blis|nae'blis]]'s initial thoughts here. While ultimately we're a fan site, and we don't have to be as straightlaced as Wikipedia, we ''are'' here to provide the reader with information as a primary goal. How about, as [[User:Gherald|Gherald]] hinted, removing the Black link from the main coloured list, and providing it in centred smalltext at the bottom of the template? [[User:Aristoc|Aristoc]] 12:19, 8 December 2006 (UTC)
+==New Template==
+{|style="margin:0 auto;" align=center id=toc
+|colspan=8|<center>'''[[Ajah]]s of the [[Aes Sedai]] '''</center>
+|-
+|{{Ajahs/cell|blue}}
+|{{Ajahs/cell|green}}
+|{{Ajahs/cell|yellow}}
+|{{Ajahs/cell|red}}
+|{{Ajahs/cell|white}}
+|{{Ajahs/cell|grey}}
+|{{Ajahs/cell|brown}}
+|{{Ajahs/cell|black}}
+|}
+: a suggested new template — [[User:Fbstjoe|fbstj]] 22:00, May 10, 2010 (UTC)
+
+Would there be a way to capitalize the Ajah names? I tried, but it turned them all black. In the template below, I put in a line-height to make the blocks shorter. I tried to make all of the blocks the same width, but with the additional formatting from the cell template, it wouldn't work. Great idea! I think it will look good. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 00:12, May 11, 2010 (UTC)
+
+{|style="margin:0 auto;" align=center id=toc style="line-height:1.00;"
+|colspan=8|<center>'''[[Ajah]]s of the [[Aes Sedai]] '''</center>
+|-
+|{{Ajahs/cell|blue}}
+|{{Ajahs/cell|green}}
+|{{Ajahs/cell|yellow}}
+|{{Ajahs/cell|red}}
+|{{Ajahs/cell|white}}
+|{{Ajahs/cell|grey}}
+|{{Ajahs/cell|brown}}
+|{{Ajahs/cell|black}}
+|}
+
+:to remove the line height edit [[Template:Ajahs/cell style]], and change `padding:3px` to `padding:0 3px` rather than using `line-height:1.0` where you did.(it stops it from boxing like yours does. I made it make each box the same length too. Issues I see include the [[Template:Ajah Color|Ajah colors]], especial the blue and yellow. — [[User:Fbstjoe|fbstj]] 10:36, May 11, 2010 (UTC)
+
+What is wrong with the blue and yellow? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:31, May 11, 2010 (UTC)
+
+:well the blue is rather light, and the yellow doesn't look nice with black text...— [[User:Fbstjoe|fbstj]] 17:19, May 11, 2010 (UTC)
+
+Try #4040ff for the blue and #fffd40 for the yellow. They are from the character template. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 00:54, May 12, 2010 (UTC)

@@ -1,0 +1,30 @@
+{{ character 
+| image=Indirian.jpg
+| imagesize=250px
+| nationality=Aiel
+| occupation=Clan chief
+| gender=Male
+| affiliation=Car'a'carn
+| build=Gaunt
+| height=Average
+| eyes=Emerald
+| clan=Codarra
+| sept=Chane Rocks
+| society=Unknown society
+| status=Alive
+| mentioned={{tfoh|2}}
+| appeared={{loc|24}}
+| lastappeared={{acos|18}}
+| living=acos
+}}'''Indirian''' is a man of the [[Chane Rocks]] sept of the [[Codarra]] [[Aiel]] who is also the [[Clan chief]] of the Codarra.{{ref|{{twotc}}, Indirian}}
+
+== Appearance ==
+He has heavy white eyebrows with a long nose. He is of average height for an Aiel and is very gaunt with emerald eyes.
+
+==Activities==
+His clan shadow's the rest of the Aiel's march from [[Rhuidean]] to [[Cairhien]]. The Codarra sit back and do nothing when the rest of the Aiel fight with the [[Shaido]] and near the end of the battle declare themselves for the ''[[Car'a'carn]]''.
+
+He now occupies Cairhien. When Rand was kidnapped by [[White Tower]] Aes Sedai the bleakness hits his clan hard. Rand uses [[Merana Ambrey]] as a servant to convince Indirian that he is not an [[Aes Sedai]] puppet in the hope Indirian will continue to support him.
+
+{{notes}}
+[[es:Indirian]]

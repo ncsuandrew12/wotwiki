@@ -1,0 +1,18 @@
+{{character 
+| image=tree-icon.svg
+| imagesize=125px
+| status=Dead
+| race=Ogier
+| occupation=Author
+| gender=Female
+| mentioned={{tsr|43}}
+| lastmentioned={{tsr|43}}
+}}
+'''Damelle daugher of [[Ala]] daughter of [[Soferra]]''' was an [[Ogier]] [[author]].
+
+==History==
+Damelle once wrote a book about the [[Ways]]. In it, she describes how a [[Waygate]] in the [[Great Blight]] was destroyed. It took thirteen [[Aes Sedai]] using a ''[[sa'angreal]]'' to accomplish it. [[Loial]] tells [[Perrin Aybara]] about Damelle and her book when Perrin asks the Ogier to destroy the Waygate in the [[Two Rivers]].{{ref/book|4|43}}
+
+{{notes}}
+{{short}}
+[[Category:Historical people]]

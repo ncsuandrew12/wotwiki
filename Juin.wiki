@@ -1,0 +1,20 @@
+{{character
+| image=tree-icon.svg
+| imagesize=125px
+| appeared={{Tgh|35}}
+| lastappeared={{tgh|37}}
+| living=tgh
+| gender=Male
+| race=Ogier
+| status=Alive
+}}
+'''Juin son of [[Lacel]] son of [[Laud]]''' is an [[Ogier]].
+
+== Appearance ==
+He has a narrow beard.
+
+== Activities ==
+He stops the fight between the [[Maidens of the Spear]] and the [[Shienar]] warriors from fighting each other while they are in his home of [[Stedding Tsofu|''Stedding'' Tsofu]]. He leads [[Rand al'Thor]] and his group to the [[Elder]]s. {{ref/book|2|35}}
+
+{{notes}}
+{{short}}

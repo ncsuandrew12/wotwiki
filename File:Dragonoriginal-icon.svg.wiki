@@ -1,0 +1,8 @@
+{{Image
+| License            = fairuse
+| ImageType1          = Chapter Art
+| Description        = This is an .svg version of the original Dragon icon, as it appeared in the first edition of ''[[The Dragon Reborn]]'', used with permission [http://linuxmafia.com/waygate/chapter-icons-permission]
+| Source             = ''[[The Dragon Reborn]]'', [[The Dragon Reborn/Chapter 55|Chapter 55]], first edition.
+| Artist                  = Matthew C. Nielsen
+}}
+[[Category:SVG Chapter Art]]

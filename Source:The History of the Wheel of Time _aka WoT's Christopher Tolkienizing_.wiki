@@ -1,0 +1,54 @@
+''This content was copied from ''A Forum of Ice and Fire''. Text and paragraph structure was preserved, but not bold text, italics, or precise inter-paragraph spacing.''{{ref|{{Cite/web
+  | url=https://asoiaf.westeros.org/index.php?/topic/108745-the-history-of-the-wheel-of-time-aka-wots-christopher-tolkienizing/
+  | title = The History of the Wheel of Time (aka WoT's Christopher Tolkienizing)
+  | accessdate = 2025-10-11
+  | author = Adam Whitehead
+  | authorlink = https://www.blogger.com/profile/11383677312079611311
+  | date = 2014-4-29
+  | format = Forum post
+  | language = English
+}}}}
+
+== Source ==
+
+SPOILERS for the Wheel of Time series
+
+A little while ago, Robert Jordan's writings and notes were donated to Charleston University (they have a blog on this here, featuring some cool stuff like photos of RJ's computer that he used to write the first draft of EotW before he swore off Apple for life), so people could go and take a look at his life's work. And some people did just that, scanning about three-quarters of the material and letting me take a look at it. Unfortunately, it appears certain 'sensitive' documents that were not supposed to be in the collection were added by mistake, so they are re-evaluating what can and cannot be made public. But there's certainly enough material in the notes to make some future History of Middle-earth style 'behind the scenes' look at the books viable (probably not to the tune of thirteen volumes though).
+
+Due to the limitations, I'm not reporting everything that was in there. Plus there's the fact that some of the material is going to be in the ''Wheel of Time Encyclopedia'' next year: the things that seem confirmed for that are a glossary of the Old Tongue and an account of what happened to Moiraine during her imprisonment by the Aelfinn and Eelfinn. There's also a lot of material on geography, distances and chronology which I assume will go in the encyclopedia (I saw a lot of info on distances which clears up some of the confusing map scale issues).
+
+Here's one of the note pages as an example. This is from an outline of Books 2-6 (RJ envisaged WoT as a six book series after selling it to Tom Doherty as such in 1984), probably written somewhere in the late 1980s when EotW was well underway but before he completed it in 1988/89 and before some final spellings and ideas were settled on (the notes do indicate that a lot of concepts were a work-in-progress until TGH was underway, explaining some inconsistencies between EotW and the rest of the series).
+
+Example: the Dark One was originally Sa'khan, a mortal but extremely powerful being from another world who was sealed back into that world by the Dragon. The War of the Shadow was basically an interplanetary war between Earth and this other world, fought through portals. During WoT proper, Rand would have inadvertently let Sa'khan into the WoT world (more explicitly our planet in the notes) and he would have conquered it before Rand defeated him at the Last Battle. This idea evolved into the one of the Dark One being Sha'tan (and then Shai'tan), the primal force of utter chaos and destruction. In this version the Forsaken were half-human, half-demon (or similar) servants of Sa'khan.
+
+A less extreme example is that RJ used the terms 'Great Wars' to describe the major post-AoL conflicts (so the War of the Shadow was the First Great War, the Trolloc Wars were the Second Great War etc). RJ also had a very vague idea about geography originally: the Westlands appear to have originally been much smaller, with our heroes travelling from their village to the Spine of the World and then Tar Valon all in the first book. I also get the impression he initially envisaged the Westlands as one big nation before dividing it up into smaller ones. The Aiel Waste was around from the earliest draft, but it was described as the Wastelands and there were only going to be two or three clans rather than thirteen. There were also multiple small Blights, all over both the main continent and what would became Seanchan. Originally Rand would travel to Seanchan through a complex series of reefs. Seanchan would be a vast supercontinent ruled by women. In fact, this version of Seanchan sounds almost identical to Jordan's premise for his never-written Infinity of Heaven series, as he said at one time.
+
+An interesting thing is that the village of red-veiled Aiel in the Blight, which only appears in AMoL, is present right from the very earliest drafts. At one point it is said that the red-veiled Aiel are 'Sightblinders' who seek to destroy the Seven Eyes of the World, sources of power that will be pivotal in the Last Battle (there is also one Eye per Seal). When RJ reduced this to one and gave the Sightblinder title to the Dark One, a lot of the purpose of the red-veiled Aiel appears to have vanished, but he later came up with a new of idea of keeping them in reserve as shock troops for the Last Battle. There were also 'natural ''angreal''<nowiki/>' which would work like ''stedding'', but boost the power of the channeller rather than shut it down. Originally ''sa'angreal'' were so rare that they all had names. The Ogier were originally 'Ogyr' and came to our world via the 'Book of Changes' (later changed to the Book of Translation). It is unclear if they're from another planet in space or from something like a Portal Stone world.
+
+In the original notes, Morgase was the queen of a remote city-state who seemed to enjoy seducing men. So she was basically Berelain. Galad and Gawyn were her children. Elayne (under a different name, Elyn) was the daughter of the Queen of Andor, who was a different character altogether. Rand actually slept with Morgase. This drives the furious Galad into the camp of the Shadow. He then becomes a channeller and one of Rand's main enemies. It would have been revealed that Lan was Galad's father! Clearly, this all changed. Rand was also called Rhys al'Thor for a while. A character called 'Kadsuane' is also mentioned in the earliest drafts (an important point, for those who claimed that Cadsuane was introduced on the fly in ACoS because RJ needed a Mary Stu to fix all of Rand's mistakes).
+
+Tear was originally called Stair, and the Stone of Tear was the Stone of Stair. Luckily this got changed. Also, one of the southern Blights was to be near Stair, taking the form of an immense swamp. This probably became Haddon Mirk.
+
+Jordan's musings on what traditional fantasy elements to use and which not to:<blockquote> Quote
+
+"HOW MANY TRADITIONAL FANTASY ELEMENTS DO WE HAVE?...GIANTS? ELVES?...[No fucking unicorns, that's for damned sure!]"</blockquote>Something interesting from ''The Great Hunt'': RJ apparently planned for Lanfear to be responsible for the trap in the village which nearly engulfs Rand, but later seemed to change it to Fain.
+
+The Aiel were named and in the earliest draft of the story. Other groups/concepts came along later: the Seanchan are not named for a long time, and Andor only after a while. The One Power is simply called 'Power' for quite a while, and the rules and limitations of its use were very vague.
+
+Tar Valon was originally built directly on the volcanic slopes of Dragonmount, with Aes Sedai tasked to using Power to keep the city inhabitable. Practicality seems to have made RJ abandon this idea.
+
+Robert Jordan's notes on the Aes Sedai are truly insane, as reported. He had a biographical note on each one (some very long), a date of birth for each Aes Sedai, an expected lifespan if they had not taken the Oath Rod and power levels on a multi-point scale. As far as I could tell, every single Aes Sedai (all 1,000-odd of them) is on the list, with notes on who is Black Ajah and who is not. There was also a similar (but much smaller) list for the Asha'man. I suspect a lot of material from both lists will be in the Encyclopedia.
+
+RJ seems to have done a massive burst of note-writing starting after TPoD. There's lots of, "As of TPoD," style notes. Speculation: this quest for extra consistency at that point may have contributed to the slowdown in writing speed.
+
+The white-hot iron viewing Min has of Rand in the books was a storyline RJ abandoned, possibly because it was rather grim: Rand gets his hand cut off and is blinded by the Queen of Andor (both would later be Healed). Oddly, RJ seems to have abandoned the viewing idea some time before finishing EotW, so it's unclear why he left the viewing in there. Note: the first-draft WoT outline is much, much more grimdark than the series we got, with rape, mutilations and graphic violence being more prevalent than anything in the series-as-published, and also a lot more sex. Male channelers were gelded as well as gentled, to prevent spreading the spark onwards, and gentling/stilling was a procedure more akin to lobotomising.
+
+Moiraine and Siuan appear to have originally been the same character, and were split when it became clear that Moiraine-as-Amyrlin didn't make sense.
+
+The fourth Two Rivers boy, Dannil, had his story elements divided between the other three. In the earliest draft, in fact, only Rand/Rhys is mentioned. He appears to be doing everything that was later divided between Rand, Perrin and Mat (i.e. Rand/Rhys has a relationship with proto-Tuon as well as Morgase, Elyn and an as-yet-unnamed female Aiel warrior).
+
+A very interesting worldbuilding point: Rand dedicated substantial amounts of material to building a series of religions for the WoT world, with notes on customs and beliefs. However, when he changed the idea of Sa'khan being a mortal being to becoming the Dark One, it appears he changed his mind. The religions were reworked to become, with varying degrees of direct transition, the Way of the Leaf, the Children of the Light and the Red Ajah (among others).
+
+RJ also envisaged Seanchan as being much bigger. Southern Seanchan was supposed to extend much further eastwards into the southern Aryth Ocean, with the whole continent (which is already completely massive, maybe three times the size of the Westlands) being maybe 75% bigger than what appears on the world book maps. However, it was too late to change it.
+
+A lot of the rest of the notes take the form of almost post-it notes and reminders. For example, he has a file on each country but these look like they've been added to as he went along, so the file on Altara was just updated with the towns and villages from as late as KoD as he introduced them. Those kind of notes don't hold any material not already in the books or the Big White Book. One interesting note suggests that the Last Battle would be fought at Caemlyn, in a more direct echo of Camlaan. However, it was apparently impossible to practically arrange this given where the Shadowspawn armies were coming from, so it was changed to the Borderlands (it is unclear if by RJ or Team Jordan).{{notes}}

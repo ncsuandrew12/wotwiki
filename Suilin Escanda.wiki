@@ -1,0 +1,36 @@
+{{character 
+| image=BlueAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|422}}
+| ajah=Blue
+| nationality=Tairen
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}{{for|the similarly named [[Maiden of the Spear]] of the [[Goshien]] [[Aiel]]|Sulin}}
+
+'''Suilin Escanda''' was an [[Aes Sedai]] of the [[Blue Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|355}}.
+
+==History==
+Her name indicates that she was almost certainly from [[Tear]].
+
+Suilin held the position for forty-one years until her resignation in {{Ne|396}}. She was [[Aliane Senican]]'s successor and [[Nirelle Coidevwin]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Suilin was an Amyrlin of moderate strength who involved the [[White Tower|Tower]] in a number of foreign intrigues.
+
+One or another faction in the [[Hall of the Tower|Hall]] was always trying to thwart her, but she successfully outmanoeuvred them until [[396 NE]].
+
+It was put about as voluntary, as was her retirement to the country, but she spent the next twenty-six years under constant guard until her death in {{ne|422}}.
+
+Her body was returned to [[Tar Valon]] and buried with considerable pomp and honour, though.
+
+{{notes}}
+{{DEFAULTSORT:Escanda, Suilin}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

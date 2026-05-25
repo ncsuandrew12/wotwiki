@@ -1,0 +1,24 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| hair=Red
+| clan=Unknown clan
+| sept=Unknown sept
+| status=Alive
+| appeared={{acos|3}}
+| lastappeared={{acos|3}}
+| living=acos
+}}'''Feraighin''' is an [[Aiel]] [[Wise One]].{{ref|{{twotc}}, Feraighin|Feraighin}}
+
+== Appearance ==
+She is "youngish", long-nosed with a large amount of red hair and brilliant blue eyes. She is capable of channeling, but is not strong. Her exact strength in the power is unknown. She speaks in a hurried manner.{{ref||Feraighin}}
+
+== Activities ==
+She greets [[Rand al'Thor]] and his army when they arrive back in [[Cairhien]] after the [[Battle of Dumai's Wells]].{{ref/book|7|3}} She reports all that has happened after Rand is kidnapped by [[Aes Sedai]] such as the bleakness hitting the Aiel again and [[Colavaere Saighan]] taking the [[Sun Throne]] for herself. She names [[Perrin]] ''[[sei'cair]]'', the [[Old Tongue]] for Golden Eyes.
+
+{{notes}}
+[[Category:Channelers]]

@@ -1,0 +1,30 @@
+{|
+|+
+! Code
+! Result
+|-
+|<code><nowiki>{{6}}</nowiki></code>
+|              {{6}}
+|-
+|<code><nowiki>{{6|p}}</nowiki></code>
+|              {{6|p}}
+|-
+|<code><nowiki>{{6|e}}</nowiki></code>
+|              {{6|e}}
+|-
+|<code><nowiki>{{6|G}}</nowiki></code>
+|              {{6|G}}
+|-
+|<code><nowiki>{{6|G|a'dam}}</nowiki></code>
+|              {{6|G|a'dam}}
+|-
+|<code><nowiki>{{6|2}}</nowiki></code>
+|              {{6|2}}
+|-
+|<code><nowiki>{{ref/book|6|2}}</nowiki></code>
+|              {{ref/book|6|2}}
+|}
+
+{{notes}}
+
+<noinclude>[[Category:Template documentation]]</noinclude>

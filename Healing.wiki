@@ -1,0 +1,145 @@
+[[File:Healing.jpg|thumb|250px|right|[[Elaida]] using healing on [[Moiraine]]]]
+
+{{dablink|For the chapter in ''[[The Dragon Reborn]]'' by the same name, see ''[[The Dragon Reborn/Chapter 18|Healing]]''.}}
+
+'''Healing''' is a [[Talent]] of [[channeler]]s and also a method to cure physical or mental injuries and illnesses with the use of the [[One Power]]. Healing can be applied to both humans and animals. 
+
+== History ==
+During the [[Age of Legends]] Healing was developed to almost perfection; except for death they could Heal every physical illness. Unfortunately, most of the knowledge was lost during the [[Breaking of the World|Breaking]] and the [[Aes Sedai]] of the [[Third Age]] were only able to perform a so called battlefield first-aid form of Healing which was used as a rough-and-ready method during the [[War of Power|War or Power]]. {{ref/book|twotc|Yellow Ajah}}
+
+In [[Seanchan]] all knowledge of Healing was entirely lost, and even if a [[damane]] would have the Talent, she would not be allowed to use it. {{ref/book|twotc|Healers}}
+
+After the founding of the [[White Tower]] and the formation of the [[Ajah]]s, Healers typically joined the [[Yellow Ajah]]. When a [[Novice]] or [[Accepted]] showed signs of the Talent of Healing it was expected for her to join the Yellow. 
+
+There are several examples of mixtures of Talents, so Aes Sedai of a different Ajah can also show a fair amount of skill and Talent in Healing, despite the choice another Ajah. [[Moiraine Damodred]] is a good example of being quite talented in many forms of Healing despite joining the [[Blue Ajah]].
+== Known types of Healing ==
+There are several types of Healing. They require the use of different Powers woven together. [[Spirit]] is the most important part of every Healing weave. The more complex types of Healing use all the five Powers. {{ref/book|twotc|Healing}}  [[Nynaeve al'Meara|Nynaeve]] uses all five, as does [[Damer Flinn]]. The Healing weaves of [[saidin]] work differently than weaves of [[saidar]]; male and female Healers cannot use Healing the same way. In some special cases, e.g. Healing the [[Severing]] of a channeler requires the Healer being the opposite gender as the healed one to restore full strength in the Power.
+
+=== <u>First Aid Healing</u> ===
+'''First Aid Healing, or "Traditional Healing"''' during the [[Third Age]]. The method heals everything in the body at once, and nothing can be left out.
+
+[[File:Healing.JPG|thumb|left|Healing being used on an arrow wound]]
+
+After identifying all injuries with [[Delving]], the female Healer weaves [[Spirit]], [[Water]], and [[Air]], and eliminates all physical ailments at once using the patient's body energy for the Healing. This method was used as battlefield first-aid during the [[War of Power]] because only this method could heal injuries inflicted by a [[Myrddraal]]'s [[Thakan'dar|Thakan'dar-wrought blade.]] This is probably why this is the only method which survived, as it was the one learned and used the most extensively. Although it is considered as 'one' method, depending on the Healer's personal mixture of skill/Talent/Power-level the possibilities of its use vary. Very Talented Healers of the Yellow Ajah such as [[Suana]] and [[Samitsu]] are able to accomplish this.{{Verify}} However, major advantages and disadvantages apply.
+
+==== <u>Advantages</u> ====
+Small wounds and scars vanish instantly, visible to all viewer's eyes, while larger wounds will close and heal as if they had healed naturally, but do so in mere seconds. 
+
+==== <u>Disadvantages</u> ====
+Lost appendages cannot be replaced and truly grievous wounds will leave a visible scar. 
+
+===== <u>Imminent death</u> =====
+It uses the energy of the injured person. The more serious the injuries, the more energy the Healing requires. In the case of a very serious injury it could kill the patient by draining their energy, so in such cases Aes Sedai are unable to do anything with this method of Healing.
+
+===== <u>Starving to death as a consequence of the Healing</u> =====
+Once a patient has been Healed in this manner, his energy reserves must be replenished. The patient usually feels imminent increasing hunger. In case of a serious injury or illness the patient will be unable to stand under his own power without eating a huge amount of food and would literally starve to death. One example was [[Mat Cauthon]]'s Healing in the [[White Tower]], severing his connection to the dagger from [[Shadar Logoth]]. For days afterwards Mat was given five times as much food to replenish his strength.
+
+===== <u>Energy drainage of the Healer</u> =====
+It requires a disproportionate amount of strength from the Healer so in the case of many being injured, the Healer's strength might not last long enough.
+
+See information about a similar kind of Healing performed with saidin [[Healing#Healing with saidin|here]].
+
+=== <u>Long-term process Healings</u> ===
+This is a category where several different Healing cases fall. Knowing that in the Age of Legends they could heal any physical injuries and illnesses with advanced and very complex Healing methods, most probably all Healing, except the first aid Healing, fall into this category. In comparison, most probably they could be applied on only a particular part of the body, so in case of a serious injury, death as a consequence of the Healing did not apply to these methods.
+
+<u>'''Advantages'''</u>
+
+Required less strength from both the Healer and the healed person, though it still required a fair amount.
+
+<u>'''Disadvantages'''</u>
+
+A month or more needed for full recovery. It left visible scars, although less serious ones compared to the natural healing of the body. 
+
+=== <u>Pain easement</u> ===
+Depending on the skill/Talent/Strength in Power of the Healer, this method can be applied, reducing the level of pain to wiping it out completely. Requires higher level of ability in Healing. In correlation with the skill/Talent/Strength in Power of the Healer the patient might feel drowsiness, or simply result in unconsciousness.
+
+=== <u>Removing fatigue</u> ===
+
+==== Saidar ====
+This weave washes away fatigue from muscles. Although the healed person feels similarly full of energy as after a good sleep, physically the body is not refreshed completely. The energy deficit also has its consequences, so the normal ways of recovery would be needed. It cannot be applied constantly. In this method skills and Talent are more important factors than strength in Power. [[Moiraine Damodred|Moiraine]] was particularly good at this kind of Healing.
+
+==== Saidin ====
+There is a male version of this weave, used by Antail on Inturalde. ''"Another wave of Power washed through Ituralde. it was like a broom sweeping through him, pushing away all of the fatigue and confusion, restoring his senses and making him feel as if he'd a perfect night's rest. His right eye didn't hurt anymore. There was something lingering, deep down, an exhaustion in his bones. He could ignore that." ''{{Ref/book|13|28}} Antail tells him that this Weave is more dangerous than the women's version, as he was told. Although in some way, it is more effective. 
+
+== Relations with the One Power ==
+More factors affect the success level of Healing. The level of strength in the Power and the amount of Talent possessed, as well as the skill of the Healer; the latter two more so than strength in the Power. With less Power and more skill and Talent one can perform better Healing. Some of strongest Aes Sedai were only able to Heal bruises while other weaker ones were excellent Healers.{{Verify}}  
+
+=== <u>Shai'tan's Healing</u> ===
+Healing with the [[True Power]] instead of the One Power, [[Elan Morin Tedronai]] cured [[Lews Therin Telamon]] of his madness temporarily. He calls it Shai'tan's Healing and despite admitting that he was never talented in Healing, he is able to give the [[Dragon]] his sanity back, so that he can realize what had he done to his loved ones. The method caused Lews Therin extreme distress and suffering. {{Ref/book|1|prologue}} By the description of the method it is clear that it is very different from the one Nynaeve invents when she Heals [[Naeff]] from his madness. {{Ref/book|13|15}} While the former happens quite quickly and is described as temporary, the latter requires time and patience and it's effect is permanent. Rand/Lews Therin comments that even the most Talented Healers during the Age of Legends had difficulty with diseases of the mind and many believed that madness could not be Healed with the One Power.{{Ref/book|13|15}}
+
+=== <u>Healing a channeler</u> ===
+If an injured channeler is able to hold on the Power while they are Healed the Power can replace the energy needed for Healing. {{Ref/book|4|3}} {{ref/book|twotc|Healing}} Channelers cannot perform Healing on themselves.{{Ref/book|4|3}}
+
+=== <u>Healing Severing</u> ===
+[[Nynaeve al'Meara]] and [[Damer Flinn]] independently from each other discovered a weave that can Heal [[Severing]], something that was thought impossible even in the Age of Legends. 
+
+Only channelers who were forcefully cut from the True Source can be Healed. Unfortunately, those who were burned out by accident cannot be healed. Also, the Healing is only fully successful if the Healer is of the opposite gender. Otherwise channelers will not gain back their full strength in the One Power. After Healing Severing the healed channelers gain back their Talents as well.
+
+== Special cases ==
+
+=== <u>Healing attempt on Rand's madness</u> ===
+After Nynaeve finds out that she could actually Heal the madness caused by the taint of saidin, she tries to Heal Rand's madness too. When she [[Delving|Delves]] him she finds the darkness to be enormous, covering the entirety of his mind, thousands upon thousands of tiny black thorns pricked into his brain that she understands she would not be able to remove. On the other hand, she finds something like a brilliant white lacing of something beneath the blackness of the thorns, radiating white like liquid Power. Light given form and life. Coated each of the dark tines, driving into Rand's mind alongside them.{{Ref/book|13|15}}
+
+=== <u>Removing Compulsion</u> ===
+Nynaeve attempts to unravel the web of Graendal's [[Compulsion]] from the mind of [[Kerb]] and she manages to do so with the use of all five Powers, although it leads to the almost imminent death of the boy with only a few minutes of not even complete sanity before death. The success of the removal might most probably depend on the level of Compulsion. Unraveling the web of Kerb's Compulsion took almost an hour for Nynaeve and drained her strength rapidly. Although this was her first attempt to apply such a Healing method.
+
+Graendal, who is an undisputed master of Compulsion can remove her own Compulsion from Ramshalan leaving him dazed and disoriented, but alive. 
+
+Semirhage is also able to remove Compulsion. She knows though, that removing even a very weak Compulsion could have a very nasty effect on a person. The brain could be seriously harmed. {{Ref/book|12|22}} 
+
+=== <u>Rand/Lews Therin skills regarding Healing</u> ===
+Before he merges with Lews Therin, Rand thinks about learning more about Healing. When he is already having great access to LTT's memories he is able to advise Nynaeve to a certain level on how to remove Compulsion, and he is sure that it can be done. ''"I have little skills with this kind of weaving. I suspect that you can remove Compulsion, if you try. It is similar to Healing, in a way. Use the same weave that creates Compulsion, but reverse it."''{{Ref/book|12|33}} Rand also knows that the boy's brain will be damaged severely after the process, but that was also the effect of the powerful Compulsion already. LTT had seen that kind of effect dozens of times.
+
+== Healing with saidin ==
+The [[Asha'man]] of the [[Black Tower]] developed a similar rudimentary and basic method of Healing like the First-Aid Healing, but they use Spirit with [[Fire]] and [[Earth]]. 
+
+=== <u>Gender based differences</u> ===
+'''Healing with saidar''' is accompanied by a great chill rippling through the body; contrarily, '''Healing with saidin''' it is accompanied by a great wave of heat.
+
+== Delving ==
+Traditionally, the Aes Sedai use the [[Delving]] weave before performing Healing as a way to look for injuries and illnesses in a body.
+
+==New-Old Healing method rediscovery==
+[[Nynaeve al'Meara]] is the one who in her desire to make Healing more efficient rediscovers a more complex method of Healing which requires the use of all five Powers. So does [[Damer Flinn]] and [[Sumeko Karistovan]] of the [[Kin]], independent from Nynaeve. Compared to the only known, "traditional", Aes Sedai method, these new methods are far more effective and avoid most of the negative side effects of the former one.
+
+
+
+==People possessing the Talent==
+
+*All [[Yellow Ajah]]
+*[[Aginor]]/Osan'gar, posing as Corlan Dashiva he taught some Healing weaves to Damer Flinn and other Asha'man
+*[[Alanna Mosvani]], she demonstrated some talent Healing Rand after the [[Battle of Dumai's Wells]]
+*[[Anaiya Carel]], she demonstrated some talent trying to Heal [[Verin Mathwin]] after a unfortunate adventure in [[Tel'aran'rhiod]]
+*[[Antail]], he is a good Healer among the [[Asha'man]], inventor of a weave that revitalizes exhausted people
+*[[Asra Zigane]], despite her weakness she is a very talented Healer
+*[[Cadsuane Melaidhrin]], she demonstrated some talent Healing Rand and Nynaeve after the ''[[cleansing of saidin]]''. Cadsuane describes her ability in Healing as "no more than average". {{ref/book|9|35}}
+*[[Chesmal Emry]], considered a very good Healer, she used her talent also to kill people without leaving a trace
+*[[Corele Hovian]], she is considered among the best Aes Sedai Healers
+*[[Dagdara Finchey]], she is among the best Aes Sedai Healers
+*[[Damer Flinn]], he is the best Healer among the male channellers, rivalling Nynaeve's talent
+*[[Elaida do Avriny a'Roihan]], she demonstrated some talent Healing [[Moiraine Damodred]] during her training as [[Accepted]]
+*[[Gabrelle Brawley]], she demonstrated some talent Healing [[Logain Ablar]] during the [[Last Battle]]
+*[[Jahar Narishma]], he performed some preliminary Healing on Lan after his combat with [[Demandred]]
+*[[Joline Maza]], she demonstrated some talent in [[Hinderstap]]
+*[[Masuri Sokawa]], she is quite good in the traditional Aes Sedai method of Healing, she is also good in the weave that removes weariness
+*[[Merilille Ceandevin]], she Healed [[Windfinders]] in the [[Kin's Farm]]
+*[[Moiraine Damodred]], her Talent was particularly strong. {{ref/book|3|3}}
+*[[Myrelle Berengari]], she is described with a little talent in Healing, but no more than [[Siuan Sanche]]
+*[[el'Nynaeve ti al'Meara Mandragoran|Nyneave al' Meara]], she is one of the most talented Healers of the current era
+*[[Pevara Tazanovni]], she demonstrated some talent many times
+*[[Samitsu Tamagowa]], she was considered the best Aes Sedai Healer until the arrival of Nynaeve
+*[[Semirhage]], in the Age of Legends she was among the best healers but used hers skills also to inflict pain for her pleasure; she was even able to remove [[Compulsion]] from [[Elza Penfell]]'s mind
+*[[Seonid Traighan]], she demonstrated her talent Healing a badly wounded [[Aiel]] tortured by [[Perrin Aybara]]
+*[[Sharina Melloy]], she demonstrated a great talent in the new weaves introduced by Nynaeve
+*[[Siuan Sanche]], she demonstrated some talent many times
+*[[Suana Dragand]], the Yellow [[Ajah Head]] is in the first rank in the [[Talent]] of Healing. Her abilities were so great that no sister, not even those much stronger than her, could do better, with the possible exception of [[Samitsu]]. But this was before the arrival of Nynaeve
+*[[Sumeko Karistovan]], she is the best Healer among the [[Kinswomen]], rivalling Nynaeve
+*[[Teslyn Baradon]], she demonstrated her talent Healing a badly wounded [[Egeanin]]
+*[[Vandene Namelle]], she demonstrated some talent Healing Moiraine in [[Tifan's Well]]
+*[[Verin Mathwin]], she demonstrated some talent many times
+
+{{notes}}
+
+[[es:Curación]]
+[[Category:Talents]]
+[[Category:Weaves]]references />

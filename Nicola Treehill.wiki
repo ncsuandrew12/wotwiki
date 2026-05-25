@@ -1,0 +1,78 @@
+{{ character 
+| image=Accepted icon.png
+| imagesize=250px
+| ewot=Nicola
+| birth={{ne|974}}
+| nationality=Ghealdanin
+| gender=Female
+| rank=Accepted
+| affiliation=White Tower
+| build=Slender
+| height=Average
+| hair=Dark
+| eyes=Black, big
+| status=Dead
+| appeared={{tfoh|49}}
+| lastappeared={{tom|38}}
+| death={{ne|1000}}
+}}
+{{quote|The lion sword, the dedicated spear, she who sees beyond. Three on the boat, and he who is dead yet lives. The great battle done, but the world not done with battle. The land divided by the Return, and the guardians balance the servants. The future teeters on the edge of a blade.|{{6|14}}}}
+'''Nicola Treehill''' was a weaver from [[Ghealdan]] who enrolled as a [[novice]] in [[Salidar]] after the [[novice book]] was opened to women of all ages. She was one of the most powerful female channelers of the [[Third Age]], possessing the [[Talent]]s of [[Foretelling]] and ''[[cuendillar]]'' creation.
+
+In spite of her great ability, Nicola was ultimately a rather selfish woman whose primary motivation was her own channeling abilities, and she betrayed the [[Rebel Aes Sedai]] by aiding in the capture of [[Egwene al'Vere]] in the hopes of the [[Elaida a'Roihan's White Tower|loyalists]] being able to help her advance as an initiate. She was raised to [[Accepted]] after the reunification of the [[White Tower]], but perished in the battle in ''[[Tel'aran'rhiod]]'' against [[Mesaana]] and the [[Black Ajah]].
+
+==Appearance==
+She was slender, dark haired, had big black eyes, and was around the height of [[Nynaeve al'Meara]].
+
+==History==
+She was around the same age as Nynaeve.
+
+Prior to coming to [[Salidar]], she was a weaver in [[Ghealdan]].
+
+Nicola had nearly as much channeling potential as [[Egwene al'Vere]] and had three known Talents: [[Foretelling]], seeing ''[[ta'veren]]'', and being able to make ''[[cuendillar]] (which also indicates she has high strength in Earth)''. The Companion gives her strength as {{opsl|15}}, which puts her one level below Egwene and Elayne, and ahead of [[Kerene Nagashi]] and [[Meilyn Arganya]], two of the most powerful Aes Sedai twenty years before.
+
+As described in the books, she is possibly as strong as [[Cadsuane Melaidhrin|Cadsuane]], though the Companion has Cadsuane stronger than Egwene and Elayne.
+
+Nicola was greedy for attention and respect. Nynaeve believed that Nicola grew to dislike her and [[Elayne Trakand]] simply because if it wasn't for them Nicola would have been the [[Aes Sedai]] trainee with the most potential, however because of them she received less attention for her extraordinary channeling power; it's speculated that she misused her Foretelling abilities to this end. Though she was not supposed to remember what she foretold, her constant companion [[Areina Nermasiv]] was suspiciously always the only one there to hear, and the foretellings were often about Nicola's need to advance in the [[One Power]] as much as they were about the [[Dragon Reborn]] or other extreme events. {{ref/book|10|17}} Nicola also refused to believe that Nynaeve and Elayne would be stronger than she in the Power; she felt that the rules were holding her back.
+
+She was also very nosy, and eavesdropped on Aes Sedai. She and Areina were very effective at ferreting out information. She was known to lie.
+
+The Wheel of Time Companion says in Areina's entry that Nicola bonded Areina as a Warder
+
+== Activities ==
+=== Blackmail ===
+Nicola and Areina decided to accompany Nynaeve and Elayne when they went to [[Salidar]] aboard the [[Riverserpent]]. Nicola's potential was discovered and she became a novice.
+
+Nicola's Foretelling occurred after a [[bubble of evil]] attacked the [[rebel Aes Sedai]] camp in Salidar when Nicola linked with twelve other [[channeler]]s. The most likely interpretation of this foretelling is that Elayne, [[Aviendha]], and [[Min Farshaw]] are there when [[Rand al'Thor]] comes back from the dead after winning the [[Last Battle]], but the land is still divided by the [[Seanchan]] and those battles continue, and the [[Asha'man]] and Aes Sedai will use the [[One Power]] together once more as in the [[Age of Legends]]. Interestingly Melaine and Bair had a dream of Rand on a boat with three women whose faces they could not see, and a scale tilting first one way then the other {{ref/book|6|19}} which somewhat supports Nicola's Foretelling, although the reader of the series never learns about that happening.
+
+Her Talent for seeing ''ta'veren'' was discovered when she saw [[Mat Cauthon]] surrounded by light.
+
+In ''[[Crossroads of Twilight]]'' she claimed to foretell a battle with the Seanchan or the Asha'man, the imprisonment of the [[Amyrlin]], the Dragon Reborn doing nine impossible things, and visions that might be Tarmon Gai’don. However, she was not believed by the [[Salidar Aes Sedai]] because she and Areina tried to use this to indicate that she ought to be allowed to go faster with her lessons.
+
+: ''"Some are the sort of thing anyone in the camp with half a brain and a credulous nature might think of—battles with the Seanchan or the Asha’man, an Amyrlin imprisoned, the Dragon Reborn doing nine impossible things, visions that might be Tarmon Gai’don or a bilious stomach—and the rest all just happen to indicate that Nicola ought to be allowed to go faster with her lessons."''
+
+Nicola later tried to blackmail Egwene, Nynaeve, and Elayne about acting as Aes Sedai when they were [[Accepted]] so that she could progress in her studies faster. She also tried to blackmail [[Nisao Dachen]] and [[Myrelle Berengari]] with her knowledge that they had been concealing [[Lan Mandragoran]]. Egwene quickly stopped her from being successful in this, by simply facing her down and intimidating her.
+
+Nicola was one of the few women with the Talent to make ''cuendillar'' and was in the ''cuendillar'' tent when Egwene arrived. She tried to remain behind instead of going to her next class and was sternly told to go by [[Sharina Melloy]].
+
+=== Running to the Tower ===
+Eventually Nicola and Areina ran away to the [[White Tower]]. She thought that they would allow her to progress faster than the Aes Sedai in the rebel camp. She indirectly caused Egwene's capture by telling the Tower Aes Sedai everything she knew, including that something was planned with the harbor chains. After Egwene was captured, Nicola apologized for leaving and informed other novices of Egwene's deeds and leadership as [[Amyrlin Seat|Amyrlin]] in Salidar. She tried to emulate Egwene's behavior in classes, but after a string of beatings from [[Silviana Brehon]] she stopped.
+
+She entered Egwene's room with some soup from [[Laras]] for the recently deceased [[Verin Mathwin]]. She was both unaware of being Laras' messenger to Egwene and the fact that Verin was dead. She later woke Egwene from ''[[Tel'aran'rhiod]]'' as the [[Seanchan]] began the [[Battle of Tar Valon]]. Nicola went with Egwene who linked with her and a number of other novices in order to fight the attacking Seanchan.
+
+After the Seanchan invasion of the White Tower, Nicola was raised to Accepted. She brought Egwene news that the [[Hall of the Tower]] had convened without their Amyrlin. When Egwene returned, she sent Nicola to the [[Traveling]] ground to [[weave]] a [[gateway]] to [[Caemlyn]]. They were to retrieve ''[[ter'angreal]]'' from Elayne. Egwene told the girls that she was going to begin training them and some others in the ''ter'angreal'''s use.
+
+Nicola died during the battle against [[Mesaana]] and the [[Black Ajah]] in ''Tel'aran'riod''. She entered the World of Dreams unauthorized and was killed by a blast from one of the Black sisters. If Areina was her Warder, Areina would likely have died as well. However, the Wheel of Time Companion says Areina's final fate is unknown.
+
+== Viewings ==
+[[Min Farshaw]] had a viewing that Nicola, with Marigan and Areina, would cause trouble for Elayne and Nynaeve. (''fulfilled'' — she tried to blackmail the three)
+
+{{notes}}
+{{DEFAULTSORT:Treehill, Nicola}}
+
+[[es:Nicola Sotomonte]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Learners]]
+[[Category:Channelers]]
+[[Category:Weavers]]

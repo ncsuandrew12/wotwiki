@@ -1,0 +1,27 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| name=Mist
+| ewot=Mist
+| status=Alive
+| owner=Egwene al'Vere
+| gender=Mare
+| color=Gray
+| appeared={{tdr|39}}
+}}
+{{dablink|For other uses of the word "mist," see [[Mist]].}}
+'''Mist''' is the name of one of [[Egwene al'Vere]]'s horses.
+
+==Appearance==
+Mist is a gray mare.
+
+==Activities==
+When Egwene al'Vere, [[Elayne Trakand]] and [[Nynaeve al'Meara]] escape from brigands on their way to [[Tear]], they take horses to help them on their journey. Egwene chooses a gray mare and names her Mist.{{ref/book|3|39}} 
+
+Mist carries Egwene into Tear{{ref/book|3|47}} and then to the [[Portal Stone]] to travel to the [[Aiel Waste]].{{ref/book|4|23}} 
+
+Mist is used by Egwene to journey across the Waste; from [[Rhuidean]] to [[Cold Rocks Hold]]{{ref/book|4|48}} and later to the [[Jangai Pass]].{{ref/book|5|7}} Egwene later rides Mist into [[Cairhien]].{{ref/book|5|21}}{{ref/book|5|23}}{{ref/book|5|44}}
+
+{{notes}}

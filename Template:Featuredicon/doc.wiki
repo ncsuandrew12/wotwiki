@@ -1,0 +1,7 @@
+==Purpose of template==
+This template places a small Wheel of Time symbol ([[image:Whitefeaturedicon.png]]) in the top right corner of an article to indicate that it is a [[Wotwiki:Featured_article|featured article on the A Wheel of Time Wiki]]. It also adds the page to [[:Category:Wotwiki featured articles]]. Articles with this category may appear as featured articles on the front page, or wherever {{t|Featuredarticle}} is used.
+
+==How to use==
+This template should be placed at the top of the article, once it is approved. It has no arguments, just {{tl|featuredicon}}. Only high-level users should add this template after proper review.
+
+<noinclude>[[Category:Template documentation]]</noinclude>

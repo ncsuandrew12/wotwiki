@@ -1,0 +1,39 @@
+The '''First Age''', the Age before the [[Age of Legends]], ended many thousands of years before the time of the novels. Little is known of this period of history, save that the [[Portal Stone|portal stones]] come from this epoch. There are stories of this time which [[Gleeman|gleemen]] still tell, although they are no doubt heavily corrupted from the original events. It is implied that this era is the one in which the readers live - that is to say modern day, real life. This view is contested by some, but is hinted at by several legends mentioned throughout the series and certain artifacts in the [[Panarch's Palace]].
+
+==Legends==
+Throughout the books, many mythological figures are mentioned who seem to be references to real-world history. These include;
+* [[Lenn]], who "flew to the moon in the belly of an eagle made of fire", and [[Salya]], his daughter who "walked among the stars". Jordan has confirmed these to be references to {{Wiki|John Glenn}} and {{Wiki|Sally Ride}}, respectively. The "eagle made of fire" is almost certainly a reference to the Apollo 11 rocket and the "Eagle" lander module, as well to the latter half of {{Wiki|Neil Armstrong|Neil Armstrong's}} first words as the Apollo 11 Lunar module touched down on the moon's surface, "The eagle has landed."{{ref|{{Link|https://www.archives.gov/files/social-media/transcripts/transcript-eagle-has-landed-1969-45017.pdf|Transcript of Apollo 11's communication with Houston as played in the documentary ''The Eagle has Landed''.}}}} [[Thom Merrilin]] specifically states that "some say" the stories of Lenn and Salya are from the First Age.{{ref/book|1|4}}
+* [[Mosk the Giant]], who "wielded a lance of fire which could reach around the world", and fought wars against another giant, [[Merk the Giant|Merk]].{{ref/book|1|4}} The legends of Mosk and Merk may stem from the Cold War, with Mosk's name deriving from the word "Moscow", the soviet capital city, and Merk's from the word "America." In this case, Mosk's "lance of fire" would refer to the Soviets' Intercontinental Ballistic Missile Technology and their ability to strike a target anywhere on earth.
+* [[Elsbet, the Queen of All]], who is likely a reference to {{Wiki|Elizabeth II|Queen Elizabeth II}}.{{ref/book|4|20}}
+* [[Materese the Healer]], Mother of the Wondrous Ind, refers to {{Wiki|Mother Teresa}}.
+
+
+==Artifacts==
+The portal stones found in random locations across the world are said to be older than the Age of Legends,{{verify}} and even the Aes Sedai of the Second Age were uncertain of their precise origin and operation.
+
+The museum of the Panarch's Palace in [[Tanchico]] holds several items said to date from this age, including a frieze depicting animals unknown in the Third Age (including what is recognizably a giraffe) and a strange symbol representing hubris, which resembles a three-pronged star (this is reminiscent of the hood ornament from a Mercedes-Benz car).
+
+==Possible artifacts==
+The [[glass columns]] of [[Rhuidean]] may have existed before the Age of Legends. [[Aviendha]], who has a [[Talent]] of reading ''ter'angreal'', is stupefied and unable to successfully read the glass columns. However, her contemporary musings on the depth of Aes Sedai understanding of ''ter'angreal'' does give a weak indication that this ''ter'angreal'' was made by the Aes Sedai of the Age of Legends (or early in the Third Age).{{ref/book|13|48}}{{ref|Aviendha muses that perhaps "ancient" Aes Sedai (perhaps not limited to AoL Aes Sedai) did not fully understand ''ter'angreal''. However, this is (1) a general musing not directly linked specifically to the glass column ''ter'angreal'' and (2) accompanied by the assertion that the ancient Aes Sedai created the ''ter'angreal'' in question.}}
+
+==Robert Jordan's Notes==
+Linda Taglieri reports the one piece of information we have that concerns the First Age.{{ref|{{Link|https://wot-notes.tumblr.com/page/5|RJ’s notes Part 45, Tumblr, Linda Taglieri}}}} This is from Robert Jordan's notes and, while not canon, does not contradict anything from the books either. This extract is undated and may have been at any stage during the development of The Wheel of Time. Quoting the extract in full:
+
+''The First Age ended when fire rained from the heavens. The flesh of men melted, and those who did not melt were charred like coals. Plagues, boils and sores roamed the world and famine, yet to eat or drink often meant death, for waters and fruits that once were wholesome now slew at the eating. Even the air or the dust could slay. The wind could bring death. Rivers filled with dead fish and birds fell from the sky. Invisible vapours from the land that slew. Noxious fumes that corroded men’s flesh.
+
+Man stretched forth his hands to the heavens, and seized the stars, and called them his own. For his presumption man was purged of his greatness, purged of knowledge and abilities, reduced to an animal to begin again the climb to the Light…”
+
+“Acceptance at last of the burdens of responsibility; that men must not depend on gods or spirits for salvation, but find it in themselves; that men and women alone are incomplete parts of a whole; that free will is a necessary part of humanity; that evil cannot be destroyed any more than can good; that the possibility of evil is as necessary for free will to exist, and thus for humanity to be human, as is the possibility of good.”''
+
+Some comments follow that attempt to square with this with the accepted canon:
+*'''Nuclear/Biological warfare''': The fire that "rained from the heavens" and the "plagues" seem to hint at a man-made cataclysm. Nuclear armageddon and the resulting fallout would produce widespread illness and toxic foods, although the attacks may also be biological in nature.
+*'''Space Travel''': Moghedien references travelling to other worlds, although this was done with the One Power. The above would indicate that space travel predates this. Given the references to [[Lenn]] (see above), this is perhaps not surprising. We would assume that the end of the First Age happened a long time after the first space flight. The above text goes another step to give space travel as the reason for mankind being brought down. This would imply that visiting other planets was rediscovered in the [[Age of Legends]].
+* '''Breaking''': The destruction was complete, perhaps more complete than that of the Breaking following the Tainting of saidin at the end of the Second Age. The end of that breaking saw society still able to construct [[Tar Valon]] and the [[Ten Nations]] which seems less severe than humankind being reduced to an "animal."
+* '''Free will''': This is the exact conclusion that Rand must come to in his final battle with the [[Dark One]]. Evil cannot be destroyed if the possibility of evil must remain to keep free will intact.
+* '''Gods/The Creator''': Similarly, this underlines the Creator's policy of non-intervention in the struggles of mankind. Humanity is on its own.
+{{Notes}}
+[[Category:Parallels]]
+[[Category:First Age]]
+[[Category:Ages]]
+[[Category:Concepts]]
+[[Category:Time]]

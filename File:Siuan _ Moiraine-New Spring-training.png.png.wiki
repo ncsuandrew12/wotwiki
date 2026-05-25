@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Siuan Sanche]].
+| Source             = ''[[New Spring]]'' comic
+| Artist             = Mike S. Miller
+| Artist2            = Etienne St Laurent
+}}

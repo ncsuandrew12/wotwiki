@@ -1,0 +1,12 @@
+{{swordform
+| mentioned={{7|41}}
+| used=[[Rand al'Thor]], [[Gawyn Trakand]]
+}}
+{{dablink|For other uses of the word "wind," see [[Wind]].}}
+'''Twisting the Wind''' is a [[sword form]]. Other than the name, nothing is known about it. 
+
+==In practice==
+While a mass of [[Trolloc]]s and [[Myrrdraal]] attempted to swarm [[Rand al'Thor]] as he chased [[Sammael]] through [[Shadar Logoth]], Rand flowed through the forms to end poised in Twisting the Wind with numerous dead [[Shadowspawn]]  at his feet.{{ref/book|7|41}} When attempting to gain access to [[Gareth Bryne]]'s war camp during the [[Siege of Tar Valon]], [[Gawyn Trakand]] used this form to block two strikes made by Bryne's soldiers while trying to minimize the damage to those soldiers.{{ref/book|12|24}}
+
+{{notes}}
+{{short}}

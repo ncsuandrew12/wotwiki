@@ -1,0 +1,13 @@
+<includeonly><!-- {{Mergefrom|{{{1|}}}|{{{2|}}}|date={{{date|}}}}}
+                  {{Mergefrom|{{{1|}}}|{{{2|}}}{{#if:{{{date|}}}|{{{date}}}|}}}} end -->{{ambox
+| type  = merge
+| image = [[Image:Merge-arrows.gif|50px]]
+| imageright = 
+| text  = It has been suggested that ''[[:{{NAMESPACE}}:{{{1}}}|{{{1}}}]]'' be [[Wikipedia:Merging and moving pages|merged]] into this {{#if:{{NAMESPACE}}|page|article}} or section. ([[{{{discuss|{{{2|:{{NAMESPACE}} talk:{{PAGENAMEE}}}}}}}}|Discuss]])
+}}{{
+#switch:{{NAMESPACE}}
+|Help|Help talk|Portal|Portal talk|Wikipedia|Wikipedia talk=[[Category:Items to be merged|{{PAGENAME}}]]
+|Category|Category talk|Image|Image talk|MediaWiki|MediaWiki talk|Template|Template talk|User|User talk=
+|#default=[[Category:Articles to be merged{{#if: {{{date|}}} | &#32;since {{{date}}} }}|{{PAGENAME}}]]}}</includeonly><noinclude>{{documentation}}
+[[Category:Administrative templates|{{PAGENAME}}]]
+</noinclude>

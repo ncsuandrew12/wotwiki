@@ -1,0 +1,21 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| gender=Female
+| title=Lady
+| affiliation=Crown High Council
+| mentioned={{tfoh|39}}
+| lastmentioned={{tfoh|39}}
+| living=tfoh
+}}
+Lady '''Baelome''' is a [[Ghealdanin]] noblewoman.
+
+==History==
+
+She was ordered flogged by the Prophet for speaking of "this Rand al'Thor." She was the most powerful member of the Crown High Council in Ghealdan.
+
+==References==
+[[Category:Ghealdan (people)]]
+[[Category:Nobility]]

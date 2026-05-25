@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.encyclopaedia-wot.org/Wiki.jsp?page=Gareth%20Bryne
+|Description = Fan art of [[Gareth Bryne]] and [[Siuan Sanche]].
+|Artist      = Richard Boyé
+}}

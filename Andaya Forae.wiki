@@ -1,0 +1,57 @@
+{{ character
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=Andaya
+| ajah=Gray
+| nationality= Taraboner
+| hair=Light Brown, Very long, Gleaming
+| gender=Female
+| occupation=Sitter
+| rank=Aes Sedai
+| height=Average
+| build= Thin
+| status=Alive
+| affiliation=White Tower
+| appeared={{tfoh|p}} 
+| lastappeared={{tom|27}}
+| living=tom
+}}
+{{for|the acrobatic Murasaka Sister|Andaya Murasaka}}
+'''Andaya Forae''' is an [[Aes Sedai]] and a [[Sitter]] of the [[Gray Ajah]].
+
+==Appearance==
+She is 5'5" tall, with hazel eyes. {{ref|{{twotc}}, Andaya | SHORTCUT}} She is described as thin and birdlike.{{ref/book|5|p}} She is not particularly slim nor particularly small and reminds [[Elaida]] of a sparrow. She has long light brown hair, which she brushes till it gleams{{ref/book|8|25}}.
+
+==Strength and Abilities==
+Andaya is of [[Strength in the One Power among Aes Sedai|average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|30}}. She would not be able to [[Traveling|Travel]] without linking with another channeler.
+
+==History== 
+Andaya is 99 years old. She was born in [[Tarabon]] in the year {{ne|901}} and she went to the Tower in the year 918. After spending ten years as Novice and ten as Accepted she was raised to the shawl in the year {{ne|938}}. {{ref||SHORTCUT}}
+
+She is an unlikely-appearing negotiator and despite appearing outwardly timid, she is one of the best mediators the Gray Ajah has, with a well-earned reputation. She can have an acid tongue. {{ref||SHORTCUT}}
+
+Everyone was sure that she would become a Sitter for the Hall in forty or fifty years. She has worn the shawl for seventy years or less{{ref/book|10|p}}. 
+
+==Activities==
+=== Tower split ===
+In 999, After the [[White Tower Schism]], [[Serancha Colvine]], the head of the Gray Ajah, nominates Andaya to be Sitter to serve in the Hall under [[Elaida]] and orders Andaya to serve on Elaida's advisory council.{{ref/book|10|p}}{{ref/book|5|p}} Both Serancha and Andaya doubted the legality of Siuan's removal and thought it best to keep an eye on the new [[Amyrlin Seat]]. Andaya replaced [[Varilin Zanaire]], who joined with the Rebels.{{ref||SHORTCUT}} Her appointment to Sitter was a surprise because it was not expected for another forty or fifty years.{{ref/book|10|p}}
+
+During a Council meeting, Andaya inquires after [[Elayne Trakand]] and [[Galad Damodred]], who disappeared after the [[White Tower Schism]], because if the Tower cannot locate them, then [[Andor]] may become as closed to Aes Sedai as [[Amadicia]]. [[Morgase Trakand]] will likely make the White Tower her enemy.{{ref/book|5|p}}
+
+She is one of several Sitters convened in a meeting with Elaida when [[Alviarin Freidhen]] returns to the Tower after a period of absence. She is a member of the group that confronts Elaida about the prospect of negotiations with the Rebel Aes Sedai. She argues very strongly in favor of the negotiations and she specifically suggests that they should work very hard to prevent any fighting in the streets of Tar Valon. She fears that the rebels could simply [[Travel]] with their army into the city, and even if they won the day, all would still be lost.{{ref/book|10|21}}
+
+Shortly after the Seanchan attack the Tower, Andaya is sent by the remaining White Tower leadership to meet with [[Egwene al'Vere]]. She requests Egwene become the new [[Amyrlin Seat]] because Elaida has been kidnapped by the [[Seanchan]]. {{ref/book|12|45}}
+
+=== The White Tower re-united ===
+After reunification Andaya is the only one among the so-called [[Too Young Sitters]] to maintain her position as Sitter.{{ref/book|13|27}}
+
+The Sitters try to hold a secret meeting without Egwene, discussing ways to temper the Amyrlin's power when a declaration of war is called. Andaya voted in favor a proposal that would allow only Egwene to deal with the monarchy of the world, which includes Rand as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army.{{ref/book|13|27}}
+
+In that same meeting of the Hall, Andaya voted in favor of the new rules and procedures in the Hall as outlined by Egwene, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present or informed.{{ref/book|13|27}}
+
+{{notes}}
+{{DEFAULTSORT:Forae, Andaya}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,22 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| title=
+| occupation=Cook
+| affiliation=Rebel Aes Sedai
+| gender=Female
+| build=Fat
+| hair=
+| appeared={{loc|7}}
+| lastappeared={{loc|7}}
+| living=loc
+}}'''Gera''' was a cook in the rebel Aes Sedai's camp.{{ref|{{twotc}}, Gera}} She is described as a very good cook and a very fat woman.
+==Activities==
+She once dreams herself into [[Tel'aran'rhiod]] as an [[Aes Sedai]] of the [[Green Ajah]] "weighing no more than half what she really did".
+
+She is seen in the world of dreams while Elayne and Nynaeve are teaching about it to Siuan, Leane, Anaiya, Beonin, Carlinya, Morvrin, Myrelle and Sheriam.
+
+{{notes}}
+[[Category:Short pages]]

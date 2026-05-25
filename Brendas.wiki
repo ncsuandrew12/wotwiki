@@ -1,0 +1,50 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=Rebel Aes Sedai
+| status=Alive
+| rank=Aes Sedai
+| eyes=Dark, cool
+| mentioned={{ns|2}}
+| appeared={{ns|3}}
+| lastappeared={{tom|37}}
+| living=tom
+|birth = {{ne|946}}}}'''Brendas''' is an [[Aes Sedai]] of the [[White Ajah]].
+
+== Appearance and Personality ==
+She is pale with cool, dark eyes, and a voice like chimes. She never shows any emotion and speaks in a level tone. 
+
+==Strength and Abilities==
+Brendas has a [[One Power]] strength level of {{opsl|22}}, making her [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai. This is strong enough to be able to [[Traveling|Travel]]. She is the second strongest of the White Ajah among the [[Rebel Aes Sedai]] of which we have information, only [[Carlinya Sorevin]] being stronger and [[Bernaile Gelbarn]] her equal.{{ref||comp}} 
+
+==History==
+Brendas is 54 years old. She was born in {{ne|946}} and went to the Tower in {{ne|963}}. After twelve years as [[novice]] and ten as [[Accepted]] she was raised to the shawl in the year [[985 NE]].
+
+She was an Accepted during the [[Aiel War]]. She and [[Temaile]] were on duty attending [[Tamra Ospenya]], the [[Amyrlin Seat]], and [[Gitara Moroso]], her [[Keeper of the Chronicles|Keeper]], before [[Moiraine]] and [[Siuan]]’s shift on the day Gitara has her [[Foretelling]].{{Ref/book|0|2}}
+
+Like most Whites, Brendas has no [[Warder]].
+
+It is interesting that Brendas is counted among the trustworthy Aes Sedai by Siuan and Egwene. She was included in the circle that healed Mat Cauthon; and she was included in the forces of the Light during the Battle against the [[Battle in Tel'aran'rhiod|Black Ajah in Tel'aran'rhiod]].
+
+== Activities ==
+She was part of the circle that [[Healing|Healed]] [[Matrim Cauthon]] from the taint of [[Shadar Logoth]].{{Ref/book|3|18}}
+
+She has allied herself with the [[Salidar Aes Sedai]].{{Ref/book|6|29}}
+
+While in [[Salidar]], she questions [[Nynaeve al'Meara]] on her progress with her block and seems to think she has the best plan for breaking it down, so Nynaene's marvelous "discoveries" can continue.{{Ref/book|6|29}}
+
+She is writing in the [[Little Tower]] when Nynaeve asks her where to find Siuan and [[Leane]]. Nynaeve thinks that she is one of the few Aes Sedai to have never asked her about [[Rand]]. Nynaeve also thinks Brendas is the only Aes Sedai to be completely emotionless.{{Ref/book|6|29}}
+
+Brendas was participating in a fake convention in ''[[Tel'aran'riod]]'' (formally to discuss important matters but really an attempt to expose and attire the [[Black Ajah]]), when the Black Sisters attacked.
+
+Brendas was told to wake but couldn't leave due to [[Perrin Aybara]] bringing the [[dreamspike]] over [[Tar Valon]]. So, she briefly participated in the [[Battle in Tel'aran'rhiod]] until [[Amys]] took her out of the Dreamworld with the order to wake up the others to get them away from danger.{{Ref/book|13|37}}
+
+{{notes}}
+[[es:Brendas]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,33 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| occupation=Stableman
+| nationality=Andoran
+| tworivers=yes
+| affiliation=Perrin Aybara
+| gender=Male
+| build=Lanky
+| mentioned={{teotw|2}}
+| appeared={{teotw|4}}
+| lastappeared={{tom|10}}
+| living=tom
+| ewot=hu
+| status=Alive
+}}
+{{dablink|For the [[Two Rivers]] resident with the same first name, see [[Hu Marwin]]. For others with the same surname, see [[Barran]].}}
+'''Hu Barran'''<ref>Last name finally given in {{11|29}}</ref> is one of the stablemen at the [[Winespring Inn]]. His brother is [[Tad Barran|Tad]].
+
+== Appearance ==
+He is lanky.{{ref/book|4|44}}
+
+== Activities ==
+When [[Rand al'Thor|Rand]] and [[Tamlin al'Thor]] come to Emond's Field, Hu and Tad take [[Bela]] and the wagon to the Whiespring Inn's stable.{{ref/book|1|2}} As the al'Thors are leaving, Tam briefly speaks with the brothers.{{ref/book|1|4}}
+
+When [[Perrin Aybara]] returns to Emond's Field, he hears Hu and Tad working in the stable.{{ref/book|4|29}} Later, he and his brother bring out [[Stepper]] and [[Swallow]] for Perrin and [[Faile Bashere|Faile]].{{ref/book|4|44}}
+
+Hu helps defend Emond's Field against the invading [[Trolloc]] army.{{ref/book|4|56}}
+
+He [[Traveling|Travels]] through [[Jur Grady]]'s gateway to join the rest of the [[Two Rivers]] men taken by Perrin Aybara. He also participates in the [[Battle of Malden]].{{ref/book|11|29}} Hu and [[Darl Coplin]] are manning a guard post when Perrin is inspecting his camp.{{ref/book|13|10}}
+
+{{Notes}}
+{{DEFAULTSORT:Barran, Hu}}

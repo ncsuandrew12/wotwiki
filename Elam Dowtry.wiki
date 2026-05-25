@@ -1,0 +1,25 @@
+{{ character
+| image=Elam Dowtry.jpg
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| status=Alive
+| appeared={{teotw|r}}
+| lastappeared={{tsr|56}}
+| lastmentioned={{loc|p}}
+| living=loc
+}}{{for|others with the same surname|Dowtry}}
+'''Elam Dowtry''' is a [[Two Rivers]] resident and a friend of [[Mat Cauthon]].{{ref|{{twotc}}, Elam Dowtry|Elam}}
+
+==Appearance==
+He has a long nose and a cowlick. He wears a farmer's wool coat and a sword with its rawhide handle freshly wrapped, though the leather scabbard is flaking and peeling.{{ref/book|4|43}}
+
+== Activities ==
+He helps carry [[Perrin Aybara]] inside the [[Winespring Inn]].{{ref/book|4|43}} He helps defend [[Emond's Field]] against the invading [[Trolloc]] army.{{ref/book|4|56}}
+
+In the fall of {{ne|999}} he ran away from the Two Rivers with [[Dav Ayellin]] and [[Ewin Finngar]] to explore the world.{{ref/book|6|p}}{{ref||Elam}}
+
+{{notes}}
+
+{{DEFAULTSORT:Dowtry, Elam}}

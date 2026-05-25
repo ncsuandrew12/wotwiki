@@ -1,0 +1,22 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Clerk
+| affiliation=White Tower
+| gender=Female
+| build=Stout
+| hair=Gray
+| appeared={{ns|6}}
+| lastappeared={{ns|6}}
+| living=ns
+}}Mistress '''Wellin''' is a clerk in the [[White Tower]].{{ref|{{twotc}}, Wellin, Mistress}}
+
+==Appearance==
+Mistress Wellin is a stout woman. She wears her gray hair in a roll at the nape of her neck.
+
+==History==
+Mistress Wellin and [[Martan]] were assigned to copy lists gather by [[Accepted]] during the White Tower's census. They arrive at their workplace and find [[Moiraine Damodred]] and [[Siuan Sanche]] already doing the task. Mistress Wellin complains to the [[Amyrlin Seat]] [[Tamra Ospenya]], but the Amyrlin lets Moiraine and Siuan continue.{{ref/book|0|6}}
+
+{{notes}}

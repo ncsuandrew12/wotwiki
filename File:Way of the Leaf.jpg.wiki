@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Miscellaneous
+| ImageType2         = CCG
+| Description        = A representation of the [[Way of the Leaf]].
+| Source             = The "[[Premier]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = April Lee
+}}

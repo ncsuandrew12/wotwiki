@@ -1,0 +1,52 @@
+{{character
+| gender=Male
+| title=False Dragon
+| death={{Fy|943}}
+| image=Guaire Amalasan by KaligoDark.jpg
+| imagesize = 125px 
+| mentioned={{teotw|14}}
+| nationality=Darmovanin
+| status=Dead
+| ewothist=guaire
+| lastmentioned={{wh|24}}
+}}
+
+'''Guaire Amalasan''' was one of the most powerful [[False Dragon]]s of the Third Age. The conflict to capture him became known as the [[War of the Second Dragon]].
+
+His personal banner consisted of the ancient symbol of the Aes Sedai on a field of blue.{{ref|{{bwb}}, Chapter 11}}
+
+==Appearance and Personality==
+When he declared himself, he was somewhere in his twenties, with dark, deep-set eyes and a mesmerizing gaze. He had a compelling presence.
+
+He was not only accounted to be a charismatic leader, but one of the [[Five Great Captains|Great Captains]] of his day.{{ref|{{bwb}}, Chapter 11|bwb}}
+== History ==
+Guaire Amalasan was born in [[Darmovan]] in the FY 910s. Darmovan covered what is now southern [[Arad Doman]], [[Toman Head]] and part of the [[Almoth Plain]]. Internal evidence suggests he was an educated man.
+
+Guaire Amalasan declared himself the [[Dragon]] in {{fy|939}}. It is said that he never addressed a body of people, but managed to gain a large following of people whom he named "The Children of the Dragon". 
+
+Within six months of his declaration, he proclaimed himself the ruler of Darmovan. It is said that the arrival of the [[Black Fever]] in his homeland attributed to his rapid ascent to power.
+
+Within a year, both [[Balasun]] and [[Elan Dapor]] were also his. During the next three years his conquests continued at an increasing rate as tens of thousands from many nations flocked to his banner. 
+
+[[File:GuaireAmalasanBanner.png|thumb|left|200px|Banner used by Guaire Amalasan during the War of the Second Dragon]]In spring of {{fy|940}}, the young King of [[Shandalle]], [[Artur Hawkwing|Artur Paendrag]] (not yet called Hawkwing) led a force against him - one of the first to do so. By summer of {{fy|941}}, every nation had sent armies against Amalasan and, by {{fy|942}} , Paendrag had engaged Amalasan's forces several times and remained undefeated, thereby earning the name "Hawkwing".
+
+By {{fy| 943}}, Amalasan had added [[Kharendor]], [[Dhowlan]], [[Farashelle]], [[Shiota]], [[Nerevan]], [[Esandara]], [[Fergansea]], and [[Moreina]] to his holdings.  
+
+The last of these held [[Stone of Tear]] which he had besieged and managed to hold out only because as many as thirty Aes Sedai had taken refuge there when the rest of Moreina fell. Given that the region had a history of distrusting channelers that dated back to shortly after the [[Breaking of the World]], this may be a sign that the [[Pattern]] intended him to be defeated.
+
+Talmour and Khodomar were in danger of falling into Amalasan's hands, and fierce fighting had begun in Masenashar, Dal Calain, and Aldeshar itself. In many cities not under his control, rioting mobs declared that he was the Dragon Reborn. 
+
+Six [[Aes Sedai]] tried to take him captive; he killed one and stilled two others.{{ref/book|6|54}} He was able to conquer almost half of the [[Westlands]] in the war known as the [[War of the Second Dragon]], including taking the city of [[Far Madding]] in only three weeks.{{ref/book|9|24}} 
+
+Eventually he was defeated by [[Artur Hawkwing]] and [[Stilling|gentled]] by the [[White Tower]] in {{fy|943}}.{{ref||bwb}}
+
+{{notes}}
+{{DEFAULTSORT:Amalasan, Guaire}}
+
+{{expand}}
+
+[[es:Guaire Amalasan]]
+[[Category:Historical people]]
+[[Category:Sparkers]]
+[[Category:Channelers]]
+[[Category:Stilled|Stilled]]

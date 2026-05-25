@@ -1,0 +1,21 @@
+The size of the [[Westlands]] can be [[User blog:Moridin 2000/Canonical Map Distances|calculated]] using quotes from the books. The distances quoted here are accurate to 1%.
+
+=Overall Size of the Westlands=
+[[File:SizeOfWestlands.png|600px|center]]
+
+
+=Distances between capital cities and main locations=
+
+The tables below give distances between all the capital cities and main locations of the nations of the Westlands. All are as the crow flies. Calculating the distances by road would depend on the route taken and we would assume that only the main roads are shown on the canonical maps. in addition, many times it makes sense to go off-road (as in [[The Dragon Reborn]] where Egwene travels with Verin and other across the Caralain grass to reach Tar Valon from Falme).
+
+==In Miles==
+[[File:Miles.png|700px|center]]
+
+==In Kilometers==
+
+[[File:Distances in kilometers.png|700px|center]]
+
+==In-world Distances WL Miles==
+The glossaries give a definition of a mile that is different from that of those used in real life. For more details, see [[Measurement|this page]]. We call these units WL miles to distinguish them and they are equivalent to 1.136 miles or 1.828 km.[[File:Distances in WL Miles .png|700px|center|]]
+[[Category:Maps]]
+[[Category:Westlands]]

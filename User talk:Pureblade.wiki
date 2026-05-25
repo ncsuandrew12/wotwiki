@@ -1,0 +1,13 @@
+== Welcome ==
+Thanks for starting to help with '''{{SITENAME}}'''! We need all the help we can get, so whatever your area of expertise, jump right in. I see you've already caught one typing error - well done!
+
+If you're up to some policy/procedure discussion, please check out the "Your opinion counts" section of the [[project:Community Portal|Community Portal]]. Thanks again! [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 17:53, 17 Nov 2005 (UTC)
+
+==Real-world references==
+Not to put a damper on your enthusiasm, but I'm the author of [[Wikipedia:The_Wheel_of_Time#To_our_world]] and I'm not sure why you want to maintain a seperate list here (Note: I'm not necessarily against you doing it if you really want to; I'm just not sure it's a good use of your time)
+
+You'll notice that our [[The Eye of the World]] and [[Robert Jordan]] articles are rather baren; this is because we think Wikipedia is already doing an excellent job and that linking to theirs is mostly sufficient (at least for now...)
+
+What *will* be cool once we have our chapter summaries in order will be to link to them from Wikipedia when referencing specific chapters... so if for example you wanted to use the skeleton in [[project:chapter summaries]] and merge [[ConcordWiki:The Eye of The World: Chapter 4]] into {{teotw|4}} so it would be worth linking to from [[Wikipedia:The Wheel of Time]] (using <nowiki>[[wikicities:c:wot:The Eye of the World/Chapter 4|Chapter 4]]</nowiki>), that would be pretty cool... --[[User:Gherald|Gherald]] 21:41, 19 Nov 2005 (UTC)
+
+Faker! I am the real Pureblade! I am Pureblade on several places!

@@ -1,0 +1,31 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| ewot=Coine
+| nationality=Atha'an Miere
+| gender=Female
+| hair=Black, with touches of gray
+| affiliation=Atha'an Miere
+| rank=Sailmistress
+| eyes=Brown
+| status=Alive
+| appeared={{tsr|19}}
+| lastappeared={{tsr|39}}
+| living=tsr
+}}
+{{dablink|For other uses of the word "wind," see [[Wind]].}}
+'''Coine din Jubai Wild Winds''' is an [[Atha'an Miere]] [[Sailmistress]] of the ''[[Wavedancer]]''. 
+
+== Appearance ==
+She has black hair with touches of gray in it, and brown eyes with fine wrinkles on the corners of them.
+
+== Activities ==
+She takes [[Elayne Trakand]] and [[Nynaeve al'Meara]] from [[Tear]] to [[Tanchico]] when they are tracking down the [[Black Ajah]]. She mentions for the first times to the girls about the [[Jendai Prophecies]] and the return of the [[Coramoor]] when she sees that the [[Stone of Tear]] has fallen.{{ref/book|4|19}}
+
+On the voyage to Tanchico she intercepts other Sea Folk ships to tell them of the coming of the Coramoor.{{ref/book|4|35}}
+
+After dropping Elayne and Nynaeve off in Tanchico she plans to visit various Sea Folk islands to inform as many as possible that the Coramoor has appeared.{{ref/book|4|39}}
+
+{{notes}}
+
+{{DEFAULTSORT:Jubai Wild Winds, Coine din}}

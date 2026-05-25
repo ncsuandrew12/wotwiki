@@ -1,0 +1,4 @@
+<includeonly>[[The World of Robert Jordan's The Wheel of Time|TWORJTWOT]]{{#if:{{{1|}}}|, {{#switch:{{{1|}}}|p|pr|preface|Preface=[[The World of Robert Jordan's The Wheel of Time/Prologue|Preface]]|r|ra|ravens|Ravens=[[The Eye of the World/Ravens|Ravens]]|[[The World of Robert Jordan's The Wheel of Time/Chapter {{{1}}}|Chapter {{{1}}}]]}}{{#if:{{{2|}}}|&nbsp; - {{{2|}}}}}|{{#if:{{{2|}}}|, {{{2|}}}}}}}</includeonly><noinclude>
+{{Documentation}}
+[[Category:Book templates|World of]]
+</noinclude>

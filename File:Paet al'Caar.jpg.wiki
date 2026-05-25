@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Character
+| Description             = [[Paet al'Caar]]
+| Source                  = ''[[The Eye of the World 6]]''
+| Artist                  = Chase Conley
+| Artist2                 = Nicolas Chapuis
+}}

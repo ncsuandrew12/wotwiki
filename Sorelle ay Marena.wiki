@@ -1,0 +1,18 @@
+{{character 
+| image=ManetherenFlag.png
+| status=Dead
+| nationality=Manetherenite
+| rank=Queen
+| title=Queen of Manetheren
+| gender=Female
+| mentioned={{bwb}}
+}}
+'''Sorelle ay Marene''' (translated from the [[Old Tongue]] as Sorelle daughter of Marena) was an early queen of [[Manetheren]].
+
+==History==
+Due to the destruction of records that followed the [[Trolloc Wars]], historians know very little about Queen Sorelle.  In {{Ab|209}} she emerged as an early adopter of the [[Ten Nations#Formation|Compact of the Ten Nations]] proposed by Queen [[Mabriam en Shereed]] - the [[Aes Sedai]] queen of [[Aramaelle]]. {{ref|{{bwb}}, Chapter 10 Rise and Fall of the Ten Nations}}{{ref|{{twotc}}, Sorelle ay Marena}}
+
+Histories relating her appearance and the details of her life have been lost to time and legend.  Because many queens that lived between the [[Breaking of the World|breaking]] and the end of the Trolloc Wars were also Aes Sedai, it is suspected that Queen Sorelle was as well, though no historical records have survived to provide definitive proof.
+
+{{notes}}
+[[Category:Historical people]]

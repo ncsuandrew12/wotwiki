@@ -1,0 +1,74 @@
+__NOTOC__
+{{ character 
+| image=FagerAshaman.png
+| imagesize=250px 
+| nationality=Murandian
+| rank=Soldier (Asha'man)
+| occupation=Asha'man
+| affiliation=Perrin Aybara
+| gender=Male
+| status=Alive
+| appeared={{acos|2}}
+| lastappeared={{amol|13}}
+| lastmentioned={{amol|14}}
+| living=amol
+}}'''Fager Neald''' is a [[Murandy|Murandian]] [[Asha'man]] with the rank of Soldier. Even if never stated officially it is most likely that Fager Neald was promoted as full Asha'man before the time of the Last Battle as it has happened to the other men chosen by Rand at Dumai's Well.
+
+== Appearance ==
+He has the beginnings of a mustache which is waxed to form points. He is described as a fop and a dandy.{{ref|{{twotc}}, Fager neald|comp}} Perrin thinks he could also have been a farmer, for all he knew, but he affected the airs and graces of a nobleman.{{ref/book|7|27}}
+
+== Strength and Abilities ==
+Fager Neald's strength level in ''[[saidin]]'' is {{opsl|11}}, extremely strong, strong as the [[Wise One]] [[Tamela]] and his fellow [[Asha'man]] [[Arel Malevin]]. He is strong enough to Travel. He is particularly strong in Earth.{{ref||comp}} According to [[Jur Grady]], the other Asha'man assigned to [[Perrin Aybara]], he is stronger than Neald in the [[One Power]].{{ref/book|10|8}}
+
+Fager Neald is the first channeler to show the ability to produce [[power-wrought]] weapons. This is likely the same as [[Talent#Aligning the Matrix|Aligning the Matrix]], a [[Talent]] for strengthing metals presumably lost since the Breaking.
+
+This discovery can be attributed to Perrin's influence as ''[[Ta'veren]]''. While Perrin was working as smith, Neald just wanted to help him keeping the metal at the right temperature with ''saidin'' fire weaves, but suddenly he started doing something by instinct, that he himself cannot explain but feels right to do. Soon Neald asked the [[Wise Ones]] to form a circle and Perrin felt something "leaking" from him ''"as if each blow infused the metal with his own strength, and also his own feelings. Both worries and hopes. These flowed from him into the three unwrought pieces."'' At the end Grady and all six Wise Ones had joined in the process. When Perrin asked Neald he said: ''"It felt right. I saw what to do, how to put the weaves into the metal itself. It seemed to draw them in, like an ocean drinking in the water of a stream.''"{{ref/book|13|40}}
+
+==History==
+Fager was born in Murandy almost on the border with Andor.{{ref||comp}} According to Perrin, he is only seventeen when they visit [[Almizar]] to take possession of quantities of [[Forkroot]] while the Companion places him as three or four years younger than Perrin (b.{{ne|978}}).{{ref/book|11|12}}{{ref||comp}} This would place his birth year as {{ne|982}}.
+
+== Activities ==
+=== Dumai's Wells ===
+Fager Neald is among the men brought to [[Dumai's Wells]] by [[Mazrim Taim]] to free 
+[[Rand al'Thor]].
+
+After the [[Battle of Dumai's Wells]] Rand chooses Fager and other channelers as personal bodyguards. Shortly thereafter, while in [[Cairhien]] Sun Palace, Neald is assigned as bodyguard to [[Perrin Aybara]] going to [[Ghealdan]], Neald, along [[Jur Grady]], has also to assist Perrin in tracking down [[Masema Dagar]].
+
+Neald escorts Perrin to his meeting with Masema in [[Abila]].
+Later he creates a [[gateway]] to [[So Habor]] for Perrin and his group, where they collect grain for their troops. Neald accompanies him back to camp and witnesses him cleave a [[Shaido]] prisoner's hand off when he is looking for answers on his [[Zarine ni Bashere t'Aybara|missing wife]]. Neald finds Perrin after leaving the tent and reports that the prisoners have talked.
+He is with [[Gaul]] when [[Galina Casban]] is captured and brought back to Perrin for questioning.
+
+=== Against the Shaido ===
+He goes with Perrin to [[Almizar]], where they pick up about four tons of [[forkroot]] for their plan against the Shaido.
+He helps create a large number of gateways to move Perrin's troops from one place to another before the attack against the Shaido in [[Malden]]. He creates large mists that cover Perrin's troops before they finally storm the town. He probably uses ''[[saidin]]'' as a weapon against the Shaido when the actual attack begins.
+
+=== Confrontation with the Whitecloaks ===
+On their march from Malden a [[bubble of evil]] erupts in the form of small serpents. Neald is bitten and nearly dies from sickness. After he recovers he begins to practice linking with the [[Wise One]]s to create larger gateways.
+Neald goes with Perrin when Perrin's force is about to engage the Whitecloaks. He asks the Asha'man to create a gateway but for some reason the weaves keep slipping away. He then charges the Asha'man to create a massive trench between the two forces in an attempt to stall combat. When a bubble of evil erupts in camp, he and Grady walk through destroying all the weapons that are trying to kill their owners. He is then asked to protect Perrin if things go wrong during the trial.
+
+Perrin charges [[Gaul]] and Neald to scout the area around camp to find where a gateway will actually work. It takes them several hours in any direction to find a place where one will finally work. He acts as one of Perrin's bodyguards at Perrin's trial and moves to attack when Perrin is deemed guilty, but is waved down by Perrin. 
+After the trial, he and Grady hold open a gateway for all of Perrin's force to Travel through, managing to escape [[Graendal]]'s trap.
+
+He assists Perrin in making the first [[power-wrought]] weapon, ''[[Mah'alleinir]]'', in over two thousand years. Perrin's army engage a [[Shadowspawn]] army that is about to ambush the Whitecloaks. Grady and Neald stand upon the high ground and destroy any [[Myrddraal]] they see. 
+Later Neald helps create a gateway for Perrin's huge force as they all Travel through to the [[Field of Merrilor]] to prepare for the [[Last Battle]].
+
+=== The Last Battle ===
+Neald begins to work on more power-wrought weapons for Rand's gathered army. Rand supplies more Asha'man to help with the forging. Perrin asks Neald to make a gateway for him to the Black Tower. Neald tries but the weaves fall apart. Instead Perrin asks to make a gateway to [[Shayol Ghul]] where Rand is.
+
+He, together with [[Naeff]], later informs Mat that the Seanchan are prepared to return to the battle, and that the spy among them had been discovered. Mat sends him to [[Talmanes Delovinde|Talmanes]] with the order to enact the pre-arranged plan to use the dragons. Neald creates gateways from the cavern with the dragons, allowing them to fire on targets on the surface without having to be moved around.
+
+{{Notes}}
+{{DEFAULTSORT:Neald, Fager}}
+[[Category:Learners]]
+[[Category:Channelers]]<references />
+{{DEFAULTSORT:Neald, Fager}}
+[[Category:Learners]]
+[[Category:Channelers]]
+<references />
+{{DEFAULTSORT:Neald, Fager}}
+[[Category:Learners]]
+[[Category:Channelers]]
+<references />
+{{DEFAULTSORT:Neald, Fager}}
+[[Category:Learners]]
+[[Category:Channelers]]

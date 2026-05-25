@@ -1,0 +1,849 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+
+''[[Towers of Midnight]]'' contains 57 chapters, a prologue and an epilogue and consists of 29 unique POVs and 148 individual POVs. It has a total word count of 325,997 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="7" | [[Towers of Midnight/Prologue|Prologue: Distinctions]]
+| Quote
+| align="right" | 179
+| align="right" | 0.0549%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 1,280
+| align="right" | 0.3926%
+|-
+| [[Perrin Aybara]]
+| align="right" | 2,588
+| align="right" | 0.7939%
+|-
+| [[Graendal]]
+| align="right" | 3,539
+| align="right" | 1.0856%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 4,330
+| align="right" | 1.3282%
+|-
+| [[Padan Fain]]
+| align="right" | 973
+| align="right" | 0.2985%
+|-
+| [[Malenarin Rai]]
+| align="right" | 3,023
+| align="right" | 0.9273%
+|-
+| [[Towers of Midnight/Chapter 1|Ch1: Apples First]]
+| [[Almen Bunt]]
+| align="right" | 2,931
+| align="right" | 0.8991%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 2|Ch2: Questions of Leadership]]
+| [[Perrin Aybara]]
+| align="right" | 3,606
+| align="right" | 1.1061%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 1,461
+| align="right" | 0.4482%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 3|Ch3: The Amyrlin's Anger]]
+| [[Egwene al'Vere]]
+| align="right" | 1,154
+| align="right" | 0.3540%
+|-
+| [[Siuan Sanche]]
+| align="right" | 2,609
+| align="right" | 0.8003%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,794
+| align="right" | 0.5503%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 4|Ch4: The Pattern Groans]]
+| [[Perrin Aybara]]
+| align="right" | 3,830
+| align="right" | 1.1749%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 2,505
+| align="right" | 0.7684%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 5|Ch5: Writings]]
+| [[Gawyn Trakand]]
+| align="right" | 4,383
+| align="right" | 1.3445%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 391
+| align="right" | 0.1199%
+|-
+| [[Graendal]]
+| align="right" | 2,146
+| align="right" | 0.6583%
+|-
+| [[Towers of Midnight/Chapter 6|Ch6: Questioning Intentions]]
+| [[Morgase Trakand]]
+| align="right" | 4,972
+| align="right" | 1.5252%
+|-
+| rowspan="9" | [[Towers of Midnight/Chapter 7|Ch7: Lighter than a Feather]]
+| [[Lan Mandragoran]]
+| align="right" | 1,032
+| align="right" | 0.3166%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 384
+| align="right" | 0.1178%
+|-
+| [[Perrin Aybara]]
+| align="right" | 683
+| align="right" | 0.2095%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 393
+| align="right" | 0.1206%
+|-
+| [[Perrin Aybara]]
+| align="right" | 350
+| align="right" | 0.1074%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 240
+| align="right" | 0.0736%
+|-
+| [[Perrin Aybara]]
+| align="right" | 192
+| align="right" | 0.0589%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 67
+| align="right" | 0.0206%
+|-
+| [[Perrin Aybara]]
+| align="right" | 71
+| align="right" | 0.0218%
+|-
+| [[Towers of Midnight/Chapter 8|Ch8: The Seven-Striped Lass]]
+| [[Matrim Cauthon]]
+| align="right" | 6,788
+| align="right" | 2.0822%
+|-
+| [[Towers of Midnight/Chapter 9|Ch9: Blood in the Air]]
+| [[Matrim Cauthon]]
+| align="right" | 2,908
+| align="right" | 0.8920%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 10|Ch10: After the Taint]]
+| [[Perrin Aybara]]
+| align="right" | 3,445
+| align="right" | 1.0568%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 270
+| align="right" | 0.0828%
+|-
+| [[Towers of Midnight/Chapter 11|Ch11: An Unexpected Letter]]
+| [[Elayne Trakand]]
+| align="right" | 4,289
+| align="right" | 1.3157%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 12|Ch12: An Empty Ink Bottle]]
+| [[Min Farshaw]]
+| align="right" | 878
+| align="right" | 0.2693%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 898
+| align="right" | 0.2755%
+|-
+| [[Towers of Midnight/Chapter 13|Ch13: For What Has Been Wrought]]
+| [[Min Farshaw]]
+| align="right" | 3,029
+| align="right" | 0.9291%
+|-
+| [[Towers of Midnight/Chapter 14|Ch14: A Vow]]
+| [[Egwene al'Vere]]
+| align="right" | 5,749
+| align="right" | 1.7635%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 15|Ch15: Use a Pebble]]
+| [[Nynaeve al'Meara]]
+| align="right" | 3,917
+| align="right" | 1.2015%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,987
+| align="right" | 0.6095%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 16|Ch16: ''Shanna'har'']]
+| [[Faile Bashere]]
+| align="right" | 1,967
+| align="right" | 0.6034%
+|-
+| [[Perrin Aybara]]
+| align="right" | 3,922
+| align="right" | 1.2031%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 17|Ch17: Partings, and a Meeting]]
+| [[Matrim Cauthon]]
+| align="right" | 3,818
+| align="right" | 1.1712%
+|-
+| [[Elayne Trakand]]
+| align="right" | 2,934
+| align="right" | 0.9000%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 18|Ch18: The Strength of This Place]]
+| [[Perrin Aybara]]
+| align="right" | 2,407
+| align="right" | 0.7383%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 2,266
+| align="right" | 0.6951%
+|-
+| [[Faile Bashere]]
+| align="right" | 2,528
+| align="right" | 0.7755%
+|-
+| [[Towers of Midnight/Chapter 19|Ch19: Talk of Dragons]]
+| [[Matrim Cauthon]]
+| align="right" | 7,209
+| align="right" | 2.2114%
+|-
+| [[Towers of Midnight/Chapter 20|Ch20: A Choice]]
+| [[Nynaeve al'Meara]]
+| align="right" | 8,030
+| align="right" | 2.4632%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 21|Ch21: An Open Gate]]
+| [[Perrin Aybara]]
+| align="right" | 3,108
+| align="right" | 0.9534%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 2,736
+| align="right" | 0.8393%
+|-
+| [[Morgase Trakand]]
+| align="right" | 1,228
+| align="right" | 0.3767%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 22|Ch22: The End of a Legend]]
+| [[Gawyn Trakand]]
+| align="right" | 3,335
+| align="right" | 1.0230%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 4,242
+| align="right" | 1.3012%
+|-
+| [[Birgitte Silverbow]]
+| align="right" | 3,992
+| align="right" | 1.2245%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 23|Ch23: Foxheads]]
+| [[Elayne Trakand]]
+| align="right" | 5,951
+| align="right" | 1.8255%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 1,207
+| align="right" | 0.3702%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 755
+| align="right" | 0.2316%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 24|Ch24: To Make a Stand]]
+| [[Elayne Trakand]]
+| align="right" | 1,488
+| align="right" | 0.4564%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 1,402
+| align="right" | 0.4301%
+|-
+| [[Perrin Aybara]]
+| align="right" | 4,625
+| align="right" | 1.4187%
+|-
+| [[Towers of Midnight/Chapter 25|Ch25: Return to Bandar Eban]]
+| [[Min Farshaw]]
+| align="right" | 3,676
+| align="right" | 1.1276%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 26|Ch26: Parley]]
+| [[Perrin Aybara]]
+| align="right" | 2,175
+| align="right" | 0.6672%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 3,517
+| align="right" | 1.0788%
+|-
+| [[Towers of Midnight/Chapter 27|Ch27: A Call to Stand]]
+| [[Egwene al'Vere]]
+| align="right" | 4,279
+| align="right" | 1.3126%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 28|Ch28: Oddities]]
+| [[Faile Bashere]]
+| align="right" | 556
+| align="right" | 0.1706%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,673
+| align="right" | 0.5132%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 3,655
+| align="right" | 1.1212%
+|-
+| rowspan="4" | [[Towers of Midnight/Chapter 29|Ch29: A Terrible Feeling]]
+| [[Faile Bashere]]
+| align="right" | 2,027
+| align="right" | 0.6218%
+|-
+| [[Morgase Trakand]]
+| align="right" | 1,805
+| align="right" | 0.5537%
+|-
+| [[Perrin Aybara]]
+| align="right" | 709
+| align="right" | 0.2175%
+|-
+| [[Elayne Trakand]]
+| align="right" | 2,428
+| align="right" | 0.7448%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 30|Ch30: Men Dream Here]]
+| [[Faile Bashere]]
+| align="right" | 848
+| align="right" | 0.2601%
+|-
+| [[Perrin Aybara]]
+| align="right" | 4,539
+| align="right" | 1.3923%
+|-
+| [[Towers of Midnight/Chapter 31|Ch31: Into the Void]]
+| [[Matrim Cauthon]]
+| align="right" | 4,366
+| align="right" | 1.3393%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 32|Ch32: A Storm of Light]]
+| [[Rodel Ituralde]]
+| align="right" | 4,201
+| align="right" | 1.2887%
+|-
+| [[Min Farshaw]]
+| align="right" | 1,618
+| align="right" | 0.4963%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 33|Ch33: A Good Soup]]
+| [[Siuan Sanche]]
+| align="right" | 1,217
+| align="right" | 0.3733%
+|-
+| [[Perrin Aybara]]
+| align="right" | 969
+| align="right" | 0.2972%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 5,078
+| align="right" | 1.5577%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 34|Ch34: Judgment]]
+| [[Perrin Aybara]]
+| align="right" | 1,273
+| align="right" | 0.3905%
+|-
+| [[Faile Bashere]]
+| align="right" | 1,641
+| align="right" | 0.5034%
+|-
+| [[Perrin Aybara]]
+| align="right" | 3,902
+| align="right" | 1.1969%
+|-
+| rowspan="4" | [[Towers of Midnight/Chapter 35|Ch35: The Right Thing]]
+| [[Egwene al'Vere]]
+| align="right" | 373
+| align="right" | 0.1144%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,120
+| align="right" | 0.3436%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 527
+| align="right" | 0.1617%
+|-
+| [[Perrin Aybara]]
+| align="right" | 2,255
+| align="right" | 0.6917%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 36|Ch36: An Invitation]]
+| [[Egwene al'Vere]]
+| align="right" | 4,643
+| align="right" | 1.4242%
+|-
+| [[Perrin Aybara]]
+| align="right" | 401
+| align="right" | 0.1230%
+|-
+| rowspan="10" | [[Towers of Midnight/Chapter 37|Ch37: Darkness in the Tower]]
+| [[Gawyn Trakand]]
+| align="right" | 843
+| align="right" | 0.2586%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 577
+| align="right" | 0.1770%
+|-
+| [[Perrin Aybara]]
+| align="right" | 443
+| align="right" | 0.1359%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 878
+| align="right" | 0.2693%
+|-
+| [[Perrin Aybara]]
+| align="right" | 544
+| align="right" | 0.1669%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 965
+| align="right" | 0.2960%
+|-
+| [[Perrin Aybara]]
+| align="right" | 672
+| align="right" | 0.2061%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 652
+| align="right" | 0.2000%
+|-
+| [[Mesaana]]
+| align="right" | 351
+| align="right" | 0.1077%
+|-
+| [[Perrin Aybara]]
+| align="right" | 670
+| align="right" | 0.2055%
+|-
+| rowspan="5" | [[Towers of Midnight/Chapter 38|Ch38: Wounds]]
+| [[Egwene al'Vere]]
+| align="right" | 2,628
+| align="right" | 0.8061%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,171
+| align="right" | 0.3592%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 571
+| align="right" | 0.1752%
+|-
+| [[Perrin Aybara]]
+| align="right" | 850
+| align="right" | 0.2607%
+|-
+| [[Graendal]]
+| align="right" | 260
+| align="right" | 0.0798%
+|-
+| [[Towers of Midnight/Chapter 39|Ch39: In the Three-fold Land]]
+| [[Aviendha]]
+| align="right" | 2,329
+| align="right" | 0.7144%
+|-
+| rowspan="5" | [[Towers of Midnight/Chapter 40|Ch40: A Making]]
+| [[Perrin Aybara]]
+| align="right" | 3,562
+| align="right" | 1.0926%
+|-
+| [[Faile Bashere]]
+| align="right" | 1,111
+| align="right" | 0.3408%
+|-
+| [[Perrin Aybara]]
+| align="right" | 714
+| align="right" | 0.2190%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 631
+| align="right" | 0.1936%
+|-
+| [[Perrin Aybara]]
+| align="right" | 880
+| align="right" | 0.2699%
+|-
+| rowspan="5" | [[Towers of Midnight/Chapter 41|Ch41: An Unexpected Ally]]
+| [[Galadedrid Damodred]]
+| align="right" | 571
+| align="right" | 0.1752%
+|-
+| [[Perrin Aybara]]
+| align="right" | 886
+| align="right" | 0.2718%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 762
+| align="right" | 0.2337%
+|-
+| [[Perrin Aybara]]
+| align="right" | 982
+| align="right" | 0.3012%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 1,551
+| align="right" | 0.4758%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 42|Ch42: Stronger than Blood]]
+| [[Gawyn Trakand]]
+| align="right" | 1,236
+| align="right" | 0.3791%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 1,386
+| align="right" | 0.4252%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 43|Ch43: Some Tea]]
+| [[Galadedrid Damodred]]
+| align="right" | 1,447
+| align="right" | 0.4439%
+|-
+| [[Alliandre Maritha Kigarin]]
+| align="right" | 1,480
+| align="right" | 0.4540%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 44|Ch44: A Backhanded Request]]
+| [[Morgase Trakand]]
+| align="right" | 1,676
+| align="right" | 0.5141%
+|-
+| [[Perrin Aybara]]
+| align="right" | 2,613
+| align="right" | 0.8015%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 45|Ch45: A Reunion]]
+| [[Elayne Trakand]]
+| align="right" | 3,977
+| align="right" | 1.2199%
+|-
+| [[Aviendha]]
+| align="right" | 967
+| align="right" | 0.2966%
+|-
+| [[Towers of Midnight/Chapter 46|Ch46: Working Leather]]
+| [[Androl Genhald]]
+| align="right" | 6,010
+| align="right" | 1.8436%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 47|Ch47: A Teaching Chamber]]
+| [[Faile Bashere]]
+| align="right" | 4,114
+| align="right" | 1.2620%
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 2,110
+| align="right" | 0.6472%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,725
+| align="right" | 0.5291%
+|-
+| [[Towers of Midnight/Chapter 48|Ch48: Near Avendesora]]
+| [[Aviendha]]
+| align="right" | 4,566
+| align="right" | 1.4006%
+|-
+| [[Towers of Midnight/Chapter 49|Ch49: Court of the Sun]]
+| [[Aviendha]]
+| align="right" | 4,938
+| align="right" | 1.5147%
+|-
+| [[Towers of Midnight/Chapter 50|Ch50: Choosing Enemies]]
+| [[Elayne Trakand]]
+| align="right" | 3,311
+| align="right" | 1.0157%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 51|Ch51: A Testing]]
+| [[Min Farshaw]]
+| align="right" | 3,123
+| align="right" | 0.9580%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 1,040
+| align="right" | 0.3190%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 52|Ch52: Boots]]
+| [[Elayne Trakand]]
+| align="right" | 2,952
+| align="right" | 0.9055%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 2,822
+| align="right" | 0.8656%
+|-
+| rowspan="3" | [[Towers of Midnight/Chapter 53|Ch53: Gateways]]
+| [[Pevara Tazanovni]]
+| align="right" | 1,855
+| align="right" | 0.5690%
+|-
+| [[Perrin Aybara]]
+| align="right" | 2,155
+| align="right" | 0.6610%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 4,417
+| align="right" | 1.3549%
+|-
+| [[Towers of Midnight/Chapter 54|Ch54: The Light of the World]]
+| [[Matrim Cauthon]]
+| align="right" | 5,406
+| align="right" | 1.6583%
+|-
+| [[Towers of Midnight/Chapter 55|Ch55: The One Left Behind]]
+| [[Matrim Cauthon]]
+| align="right" | 3,330
+| align="right" | 1.0215%
+|-
+| rowspan="2" | [[Towers of Midnight/Chapter 56|Ch56: Something Wrong]]
+| [[Egwene al'Vere]]
+| align="right" | 1,233
+| align="right" | 0.3782%
+|-
+| [[Androl Genhald]]
+| align="right" | 1,423
+| align="right" | 0.4365%
+|-
+| [[Towers of Midnight/Chapter 57|Ch57: A Rabbit for Supper]]
+| [[Matrim Cauthon]]
+| align="right" | 2,986
+| align="right" | 0.9160%
+|-
+| rowspan="7" | [[Towers of Midnight/Epilogue|Epilogue: And After]]
+| [[Graendal]]
+| align="right" | 564
+| align="right" | 0.1730%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,433
+| align="right" | 0.4396%
+|-
+| [[Olver]]
+| align="right" | 1,663
+| align="right" | 0.5101%
+|-
+| [[Barriga]]
+| align="right" | 456
+| align="right" | 0.1399%
+|-
+| [[Rand al'Thor]]
+| align="right" | 925
+| align="right" | 0.2837%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 475
+| align="right" | 0.1457%
+|-
+| Quote
+| align="right" | 245
+| align="right" | 0.0752%
+|-
+|}
+
+==Unique POV Breakdown==
+{| class="wikitable sortable"
+!Character
+!# of POVs
+!% of Total POVs (148)
+!Total Word Count (325,998)
+!% of Word Count
+|-
+| Quote
+| align="right" | 2
+| align="right" | 1.3514%
+| align="right" | 424
+| align="right" | 0.1301%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 5
+| align="right" | 3.3784%
+| align="right" | 4,928
+| align="right" | 1.5117%
+|-
+| [[Perrin Aybara]]
+| align="right" | 37
+| align="right" | 25.0000%
+| align="right" | 67,143
+| align="right" | 20.5961%
+|-
+| [[Graendal]]
+| align="right" | 4
+| align="right" | 2.7027%
+| align="right" | 6,509
+| align="right" | 1.9966%
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 15
+| align="right" | 10.1351%
+| align="right" | 18,656
+| align="right" | 5.7227%
+|-
+| [[Padan Fain]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 973
+| align="right" | 0.2985%
+|-
+| [[Malenarin Rai]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 3,023
+| align="right" | 0.9273%
+|-
+| [[Almen Bunt]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 2,931
+| align="right" | 0.8991%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 13
+| align="right" | 8.7838%
+| align="right" | 26,344
+| align="right" | 8.0810%
+|-
+| [[Siuan Sanche]]
+| align="right" | 2
+| align="right" | 1.3514%
+| align="right" | 3,826
+| align="right" | 1.1736%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 8
+| align="right" | 5.4054%
+| align="right" | 17,612
+| align="right" | 5.4025%
+|-
+| [[Morgase Trakand]]
+| align="right" | 4
+| align="right" | 2.7027%
+| align="right" | 9,681
+| align="right" | 2.9697%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 11
+| align="right" | 7.4324%
+| align="right" | 48,292
+| align="right" | 14.8136%
+|-
+| [[Elayne Trakand]]
+| align="right" | 8
+| align="right" | 5.4054%
+| align="right" | 27,330
+| align="right" | 8.3835%
+|-
+| [[Min Farshaw]]
+| align="right" | 5
+| align="right" | 3.3784%
+| align="right" | 12,324
+| align="right" | 3.7804%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 2
+| align="right" | 1.3514%
+| align="right" | 1,938
+| align="right" | 0.5945%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 2
+| align="right" | 1.3514%
+| align="right" | 11,947
+| align="right" | 3.6647%
+|-
+| [[Faile Bashere]]
+| align="right" | 8
+| align="right" | 5.4054%
+| align="right" | 14,792
+| align="right" | 4.5375%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 5
+| align="right" | 3.3784%
+| align="right" | 14,260
+| align="right" | 4.3743%
+|-
+| [[Birgitte Silverbow]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 3,992
+| align="right" | 1.2245%
+|-
+| [[Mesaana]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 351
+| align="right" | 0.1077%
+|-
+| [[Aviendha]]
+| align="right" | 4
+| align="right" | 2.7027%
+| align="right" | 12,800
+| align="right" | 3.9264%
+|-
+| [[Alliandre Maritha Kigarin]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 1,480
+| align="right" | 0.4540%
+|-
+| [[Androl Genhald]]
+| align="right" | 2
+| align="right" | 1.3514%
+| align="right" | 7,433
+| align="right" | 2.2801%
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 2,110
+| align="right" | 0.6472%
+|-
+| [[Pevara Tazanovni]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 1,855
+| align="right" | 0.5690%
+|-
+| [[Olver]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 1,663
+| align="right" | 0.5101%
+|-
+| [[Barriga]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 456
+| align="right" | 0.1399%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1
+| align="right" | 0.6757%
+| align="right" | 925
+| align="right" | 0.2837%
+|-
+|}
+[[Category:Statistical analysis]]

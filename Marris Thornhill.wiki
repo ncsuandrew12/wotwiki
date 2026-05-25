@@ -1,0 +1,48 @@
+{{ character | image=BrownBlack.png
+| imagesize=250px
+| ewot=Marris
+| ajah=Brown
+| nationality=Andoran
+| gender=Female
+| affiliation= Black Ajah
+| rank=Aes Sedai
+| build=Plump
+| status=Unknown
+| mentioned={{tdr|13}}
+| appeared={{cot|p}}
+| lastappeared={{cot|p}}
+| lastmentioned={{kod|p}}
+| living=kod
+}}'''Marris Thornhill''' is an [[Aes Sedai]] of the [[Brown Ajah]] from [[Andor]]. She is also [[Black Ajah]] and is part of a [[Heart]] along with [[Atuan Larisett]] and [[Karale Sanghir]].
+
+==Appearance==
+Marris is described as being plump-chinned. She usually seemed mild and absorbed in her studies.
+
+==Strength==
+Marris is [[Strength in the One Power among Aes Sedai|exceptionally weak]] for an Aes Sedai, with a [[One Power]] strength level of {{opsl|50}}. She is the second weakest known Aes Sedai, just above [[Daigian Moseneillin]], and so at the bottom of the hierarchy. It may be speculated that being at such a disadvantage with respect to other Aes Sedai would make her bitter enough to join the Black Ajah.
+
+== History ==
+Marris' history is not given in the books or Companion, although some details may be inferred. Her lack in strength means she would have spent a long time in training. Daigian, of similar strength, was in training for forty eight years whereas two other weak Aes Sedai, [[Bennae Nalsad]] and [[Cariandre Temalien]] were in training for twenty-four and twenty-five years respectively. Marris is considerably weaker than these two, however. Her connection with [[Leane Sharif]] and [[Elin Warrel]] may indicate they were in training together, but this is less certain.
+
+She spends long periods in the White Tower itself.{{ref/book|10|p}}
+
+She has no [[Warder]]. 
+
+== Activities ==
+[[Faolain Orande]] is sent to Marris to be punished by [[Leane Sharif]].{{ref/book|3|13}}
+
+[[Yukiri Haruna]] encounters Marris, [[Doraise Mesianos]] and [[Elin Warrel]] escorted by Doraise's Warder in the corridor and notes that they show her a distinct lack of respect, especially towards a Sitter.{{ref/book|10|p}}
+
+She was discovered and broken by the Black Ajah hunters, and then she was forced to swear on the [[Oath Rod]] obedience to Yukiri and the rest of the Black Ajah-hunting sisters. She is adamant that she now walks in the [[Light]] again. She is part of a [[Heart]] along with [[Atuan Larisett]] and [[Karale Sanghir]].
+
+After her interrogation, the [[Black Ajah Hunters]] reached a problematic stalemate in their task, since Marris' contact outside of her Heart was with the [[Rebel Aes Sedai]].
+
+Her fate is undisclosed. There exists the possibility that she was one of the sisters that managed to escape the Tower, though her Oaths to the Black Ajah hunters may have prevented her flight. If that is the case, she would have been executed with the rest of the Black sisters unable to escape.
+
+{{notes}}
+
+{{DEFAULTSORT:Thornhill, Marris}}
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

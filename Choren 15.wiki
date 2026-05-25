@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|September}}
+|{{Wotmonth|Choren}}
+|}
+'''Choren 15 (September 15)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Egwene]] tells [[Rand]] of [[Masema]]'s actions, and of the existence of a group of [[Aes Sedai]] who would support him.
+<noinclude>
+==External links==
+*[[wikipedia:september 15|September 15]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

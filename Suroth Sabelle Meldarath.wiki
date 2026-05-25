@@ -1,0 +1,48 @@
+{{character
+| image=Suroth Sabelle Meldarath.jpg
+| imagesize=250px
+| status=Alive
+| ewot=Suroth
+| affiliation=Darkfriend
+| eyes=Black
+| hair=Dark
+| height=5'5"
+| occupation=Da'covale
+| nationality=Seanchan
+| gender=Female
+| appeared={{Tgh|40}}
+| lastappeared={{kod|e}}
+| lastmentioned={{amol|p}}
+| living=tgs
+}}The [[High Lady]] '''Suroth Sabelle Meldarath''' was a [[Seanchan]] noblewoman, the High Lady of [[Asinbayar]] and [[Barsabba]]. She fell in disgrace and is now ''[[da'covale]]''. She is also a [[Darkfriend]].
+
+== Appearance ==
+She has black eyes, and the sides of her head are shaved with a long crest of dark hair. When she first arrives at [[Falme]], the first two fingernails of each of her hands are an inch long and lacquered blue.{{ref/book|2|40}}
+
+==Activities==
+=== Capturing Egwene ===
+She strikes a deal with [[Liandrin]], who hands over [[Elayne Trakand]], [[Egwene al'Vere]], and [[Nynaeve al'Meara]] to be collared and trained as ''[[damane]]''. During this conversation with Liandrin they refer to the [[Dark One]] as the Great Lord indicating that both are [[Darkfriends]].{{ref/book|2|40}}
+
+She becomes commander of the ''[[Hailene]]'' following the death of High Lord [[Turak Aladon|Turak]], but takes her orders from [[Semirhage]]. She leads the Seanchan in the conquering of the [[Fortress of the Light]] in [[Amadicia]]. She greets [[Morgase Trakand]] and tells her she can either take the oath to the Seanchan or become a servant like [[Amathera Aelfdene Casmir Lounault]] who was the old [[Panarch]] of [[Tarabon]].{{ref/book|7|26}}
+
+=== In Ebou Dar ===
+She is present in [[Ebou Dar]] when [[Rand al'Thor]] begins to drive the Seanchan back into the city. She commands [[Kennar Miraj]] to engage Rand and informs him that Rand's army is Traveling.{{ref/book|8|24}} She has taken Liandrin as a captive and named her ''[[da'covale]]''. She uses [[Alwhin]] as her ''[[so'jhin]]''.
+
+She then begins to reside in the [[Tarasin Palace]] and promotes Queen [[Tylin Quintara Mitsobar]] to one of the [[Blood]]. She is present when [[Matrim Cauthon]] barges into a meeting with herself, Tylin, and [[Tuon Athaem Kore Paendrag]]. She is horrified with how [[Anath Dorje]] speaks to Tuon. She takes Tylin away by ''[[to'raken]]'' to show her the expanded area around Ebou Dar she now rules under Seanchan rule.{{ref/book|9|28}}
+
+=== Plotting treason ===
+She is called into a war council with General [[Lunal Galgan]] after Tuon goes missing. She orders all ''raken'' shifted to Tarabon to suppress the uprisings caused by [[Rodel Ituralde]], and orders Ituralde's head brought back to her. Galgan persuades her to only send a portion of the flyers. [[Semirhage]] later visits Suroth with the news that she murdered the entire Imperial Family and that Suroth can now claim the title of Empress from this side on the ocean, if she wishes. Suroth weighs her options and orders the murder of Tuon, under the pretense that she is an imposter.{{ref/book|11|p}}
+She enters a meeting and is told by Galgan that the Forerunners are being absorbed in the Return. Tuon then arrives, alive and well with the head of [[Elbar]]. Suroth is declared a traitor and stripped of her name and rank. She is then made ''da'covale'' and given to the [[Deathwatch Guard]] to use as they wish until her hair grows out so she can be sold.{{ref/book|11|e}} Some time later, she admits to being a darkfriend and conspiring with Semirhage, who was posing as [[Anath Dorje]], to kill Tuon.
+
+==In the television series==
+In the television series, {{TVlink|High Lady Suroth}} is played by actress {{TVlink|Karima McAdams}}.
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Meldarath, Suroth Sabelle}}
+
+[[es:Suroth Meldarath]]
+[[Category:The Blood]]
+[[Category:Ladies]]
+[[Category:POV character]]
+[[Category:Slaves]]

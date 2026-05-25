@@ -1,0 +1,31 @@
+{{character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| nationality=Domani
+| occupation=Merchant
+| affiliation=Faile Bashere
+| gender=Female
+| status=Alive
+| build=Buxom
+| hair=Black, going white, shoulder-length
+| appeared={{kod|5}}
+| lastappeared={{kod|28}}
+| living=kod
+}}
+'''Lusara''' was a merchant from [[Arad Doman]]. 
+
+== Appearance and personality ==
+She is buxom and copper-skinned. She is well into her middle years and has a few white hairs amongst her black hair, which falls below her shoulders. She is stunningly beautiful.{{ref/book|c|Lusara}}  
+
+She has a flippant attitude towards risks others take seriously. She treated [[Faile Bashere|Faile's]] escape plans "like a child's game" and gained and lost several fortunes as a merchant.{{ref/book|11|5}}
+
+== Activities ==
+She was made ''[[gai'shain]]'' by the [[Shaido]] and was one of [[Sevanna]]'s personal servants.{{ref/book|11|5}}
+
+She pledged an oath of fealty to [[Faile Bashere]] in the hopes of being taken with Faile when she eventually escaped from the Shaido.{{ref/book|11|5}}
+
+She was present when Faile's supporters gathered to see her go.{{ref/book|11|28}} She was never mentioned again, so may have been unable to escape the Shaido camp.
+
+{{notes}}
+[[Category:Gai'shain]]
+[[Category:Shaido]]

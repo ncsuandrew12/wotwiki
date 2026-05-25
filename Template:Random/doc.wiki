@@ -1,0 +1,37 @@
+
+==Syntax==
+<code><nowiki>{{random|max|seed|prime}}</nowiki></code>
+
+Will generate a random number between 0 and max (inclusive) every time the page is loaded.
+
+==Examples==
+
+{| class="wikitable"
+| Code
+| Result
+|-
+| <nowiki>{{random}}</nowiki>
+|         {{random}}
+|-
+| <nowiki>{{random|1000}}</nowiki>
+|         {{random|1000}}
+|-
+| <nowiki>{{random|1000|872322935}}</nowiki>
+|         {{random|1000|872322935}}
+|-
+| <nowiki>{{random|1000|872322935|13}}</nowiki>
+|         {{random|1000|872322935|13}}
+|-
+| <nowiki>{{random|1}}</nowiki>
+|         {{random|1}}
+|-
+| <nowiki>{{random|0}}</nowiki>
+|         {{random|0}}
+|-
+| <nowiki>{{random|-2}}</nowiki>
+|         {{random|-2}}
+|-
+| <nowiki>{{random|-1}}</nowiki>
+|         {{random|-1}}
+|-
+|}

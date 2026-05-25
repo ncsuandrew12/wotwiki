@@ -1,0 +1,8 @@
+{{Image
+| License                 = Public domain
+| ImageType1              = Character
+| Description             = AI rendition based on {{7|39}}
+| Source                  = Gemini
+| Artist                  = Androlf
+| AI                      = Gemini 2.5 Flash
+}}

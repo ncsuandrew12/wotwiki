@@ -1,0 +1,7 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| Description             = [[Jain Farstrider]]
+| Source                  = Official US cover of ''[[Towers of Midnight]]''
+| Artist                  = Darrell Sweet
+}}

@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = A ''[[Tuatha'an]]'' female dancing the ''[[tiganza]]''.
+| Source             = ''[[The Wheel of Time Roleplaying Game]]''
+| Artist             = Jon Foster
+}}

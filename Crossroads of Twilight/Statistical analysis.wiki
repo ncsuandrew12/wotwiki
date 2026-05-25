@@ -1,0 +1,367 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+''[[Crossroads of Twilight]]'' contains 30 chapters, a prologue, and an epilogue and consists of 22 unique POVs and 45 individual POVs. It has a total word count of 264,665 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="8" | [[Crossroads of Twilight/Prologue|Prologue: Glimmers of the Pattern]]
+| Quote
+| align="right" | 80
+| align="right" | 0.0302%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 4,927
+| align="right" | 1.8616%
+|-
+| [[Eamon Valda]]
+| align="right" | 1,644
+| align="right" | 0.6212%
+|-
+| [[Gabrelle]]
+| align="right" | 2,873
+| align="right" | 1.0855%
+|-
+| [[Yukiri]]
+| align="right" | 6,188
+| align="right" | 2.3380%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 3,014
+| align="right" | 1.1388%
+|-
+| [[Davram Bashere]]
+| align="right" | 4,320
+| align="right" | 1.6322%
+|-
+| [[Samitsu]]
+| align="right" | 9,655
+| align="right" | 3.6480%
+|-
+| [[Crossroads of Twilight/Chapter 1|Ch1: Time to Be Gone]]
+| [[Matrim Cauthon]]
+| align="right" | 7,864
+| align="right" | 2.9713%
+|-
+| [[Crossroads of Twilight/Chapter 2|Ch2: Two Captains]]
+| [[Matrim Cauthon]]
+| align="right" | 5,996
+| align="right" | 2.2655%
+|-
+| [[Crossroads of Twilight/Chapter 3|Ch3: A Fan of Colors]]
+| [[Matrim Cauthon]]
+| align="right" | 9,834
+| align="right" | 3.7156%
+|-
+| [[Crossroads of Twilight/Chapter 4|Ch4: A Tale of a Doll]]
+| [[Furyk Karede]]
+| align="right" | 5,721
+| align="right" | 2.1616%
+|-
+| [[Crossroads of Twilight/Chapter 5|Ch5: The Forging of a Hammer]]
+| [[Perrin Aybara]]
+| align="right" | 8,846
+| align="right" | 3.3423%
+|-
+| [[Crossroads of Twilight/Chapter 6|Ch6: The Scent of a Dream]]
+| [[Perrin Aybara]]
+| align="right" | 5,625
+| align="right" | 2.1253%
+|-
+| [[Crossroads of Twilight/Chapter 7|Ch7: Blacksmith's Puzzle]]
+| [[Perrin Aybara]]
+| align="right" | 5,957
+| align="right" | 2.2507%
+|-
+| [[Crossroads of Twilight/Chapter 8|Ch8: Whirlpools of Color]]
+| [[Perrin Aybara]]
+| align="right" | 7,690
+| align="right" | 2.9055%
+|-
+| [[Crossroads of Twilight/Chapter 9|Ch9: Traps]]
+| [[Faile Bashere]]
+| align="right" | 11,636
+| align="right" | 4.3964%
+|-
+| [[Crossroads of Twilight/Chapter 10|Ch10: A Blazing Beacon]]
+| [[Elayne Trakand]]
+| align="right" | 7,019
+| align="right" | 2.6520%
+|-
+| [[Crossroads of Twilight/Chapter 11|Ch11: Talk of Debts]]
+| [[Elayne Trakand]]
+| align="right" | 6,885
+| align="right" | 2.6014%
+|-
+| [[Crossroads of Twilight/Chapter 12|Ch12: A Bargain]]
+| [[Elayne Trakand]]
+| align="right" | 6,643
+| align="right" | 2.5099%
+|-
+| [[Crossroads of Twilight/Chapter 13|Ch13: High Seats]]
+| [[Elayne Trakand]]
+| align="right" | 6,782
+| align="right" | 2.5624%
+|-
+| [[Crossroads of Twilight/Chapter 14|Ch14: What Wise Ones Know]]
+| [[Elayne Trakand]]
+| align="right" | 8,858
+| align="right" | 3.3468%
+|-
+| rowspan="2" | [[Crossroads of Twilight/Chapter 15|Ch15: Gathering Darkness]]
+| [[Elenia Sarand]]
+| align="right" | 6,642
+| align="right" | 2.5095%
+|-
+| [[Daved Hanlon]]
+| align="right" | 6,287
+| align="right" | 2.3754%
+|-
+| [[Crossroads of Twilight/Chapter 16|Ch16: The Subject of Negotiations]]
+| [[Egwene al'Vere]]
+| align="right" | 7,357
+| align="right" | 2.7797%
+|-
+| rowspan="2" | [[Crossroads of Twilight/Chapter 17|Ch17: Secrets]]
+| [[Delana Mosalaine]]
+| align="right" | 248
+| align="right" | 0.0937%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 10,363
+| align="right" | 3.9155%
+|-
+| [[Crossroads of Twilight/Chapter 18|Ch18: A Chat with Siuan]]
+| [[Egwene al'Vere]]
+| align="right" | 7,445
+| align="right" | 2.8129%
+|-
+| [[Crossroads of Twilight/Chapter 19|Ch19: Surprises]]
+| [[Egwene al'Vere]]
+| align="right" | 9,803
+| align="right" | 3.7039%
+|-
+| [[Crossroads of Twilight/Chapter 20|Ch20: In the Night]]
+| [[Egwene al'Vere]]
+| align="right" | 8,034
+| align="right" | 3.0355%
+|-
+| [[Crossroads of Twilight/Chapter 21|Ch21: A Mark]]
+| [[Alviarin Freidhen]]
+| align="right" | 8,132
+| align="right" | 3.0725%
+|-
+| [[Crossroads of Twilight/Chapter 22|Ch22: One Answer]]
+| [[Pevara Tazanovni]]
+| align="right" | 2,392
+| align="right" | 0.9038%
+|-
+| [[Crossroads of Twilight/Chapter 23|Ch23: Ornaments]]
+| [[Cadsuane Melaidhrin]]
+| align="right" | 6,551
+| align="right" | 2.4752%
+|-
+| rowspan="4" | [[Crossroads of Twilight/Chapter 24|Ch24: A Strengthening Storm]]
+| [[Rand al'Thor]]
+| align="right" | 4,231
+| align="right" | 1.5986%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 761
+| align="right" | 0.2875%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,384
+| align="right" | 0.5229%
+|-
+| [[Elza Penfell]]
+| align="right" | 424
+| align="right" | 0.1602%
+|-
+| [[Crossroads of Twilight/Chapter 25|Ch25: When to Wear Jewels]]
+| [[Perrin Aybara]]
+| align="right" | 4,360
+| align="right" | 1.6473%
+|-
+| [[Crossroads of Twilight/Chapter 26|Ch26: In So Habor]]
+| [[Perrin Aybara]]
+| align="right" | 5,462
+| align="right" | 2.0637%
+|-
+| [[Crossroads of Twilight/Chapter 27|Ch27: What Must Be Done]]
+| [[Perrin Aybara]]
+| align="right" | 6,558
+| align="right" | 2.4778%
+|-
+| [[Crossroads of Twilight/Chapter 28|Ch28: A Cluster of Rosebuds]]
+| [[Matrim Cauthon]]
+| align="right" | 10,355
+| align="right" | 3.9124%
+|-
+| [[Crossroads of Twilight/Chapter 29|Ch29: Something Flickers]]
+| [[Matrim Cauthon]]
+| align="right" | 8,628
+| align="right" | 3.2599%
+|-
+| [[Crossroads of Twilight/Chapter 30|Ch30: What the Oath Rod Can Do]]
+| [[Egwene al'Vere]]
+| align="right" | 10,877
+| align="right" | 4.1097%
+|-
+| rowspan="2" | [[Crossroads of Twilight/Epilogue|Epilogue: An Answer]]
+| [[Rand al'Thor]]
+| align="right" | 263
+| align="right" | 0.0994%
+|-
+| Quote
+| align="right" | 55
+| align="right" | 0.0208%
+|-
+|}
+
+==Unique POV Breakdown==
+{| class="wikitable sortable"
+!Character
+!# of POVs
+!% of Total POVs (45)
+!Total Word Count (264,669)
+!% of Word Count
+|-
+| Quote
+| align="right" | 2
+| align="right" | 4.4444%
+| align="right" | 135
+| align="right" | 0.0510%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 4,927
+| align="right" | 1.8616%
+|-
+| [[Eamon Valda]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 1,644
+| align="right" | 0.6212%
+|-
+| [[Gabrelle]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 2,873
+| align="right" | 1.0855%
+|-
+| [[Yukiri]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 6,188
+| align="right" | 2.3380%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 3,014
+| align="right" | 1.1388%
+|-
+| [[Davram Bashere]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 4,320
+| align="right" | 1.6322%
+|-
+| [[Samitsu]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 9,655
+| align="right" | 3.6480%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 5
+| align="right" | 11.1111%
+| align="right" | 42,677
+| align="right" | 16.1247%
+|-
+| [[Furyk Karede]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 5,721
+| align="right" | 2.1616%
+|-
+| [[Perrin Aybara]]
+| align="right" | 7
+| align="right" | 15.5556%
+| align="right" | 44,498
+| align="right" | 16.8127%
+|-
+| [[Faile Bashere]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 11,636
+| align="right" | 4.3964%
+|-
+| [[Elayne Trakand]]
+| align="right" | 5
+| align="right" | 11.1111%
+| align="right" | 36,187
+| align="right" | 13.6725%
+|-
+| [[Elenia Sarand]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 6,642
+| align="right" | 2.5095%
+|-
+| [[Daved Hanlon]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 6,287
+| align="right" | 2.3754%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 6
+| align="right" | 13.3333%
+| align="right" | 53,879
+| align="right" | 20.3571%
+|-
+| [[Delana Mosalaine]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 248
+| align="right" | 0.0937%
+|-
+| [[Alviarin Freidhen]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 8,132
+| align="right" | 3.0725%
+|-
+| [[Pevara Tazanovni]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 2,392
+| align="right" | 0.9038%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 2
+| align="right" | 4.4444%
+| align="right" | 7,312
+| align="right" | 2.7627%
+|-
+| [[Rand al'Thor]]
+| align="right" | 3
+| align="right" | 6.6667%
+| align="right" | 5,878
+| align="right" | 2.2209%
+|-
+| [[Elza Penfell]]
+| align="right" | 1
+| align="right" | 2.2222%
+| align="right" | 424
+| align="right" | 0.1602%
+|-
+|}
+[[Category:Statistical analysis]]

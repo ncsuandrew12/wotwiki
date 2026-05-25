@@ -1,0 +1,20 @@
+{{ character 
+| image=Mutch.jpg
+| imagesize=250px
+| nationality=Andoran
+| occupation=Stableman
+| build=Wiry
+| status=Alive
+| gender=Male
+| appeared={{Teotw|13}}
+| lastappeared={{teotw|17}}
+| living=teotw
+}}'''Mutch''' is a stableman at the [[Stag and Lion]] in [[Baerlon]].{{ref|{{twotc}}, Mutch}}
+
+== Appearance ==
+He is wiry.
+
+
+{{notes}}
+{{Expand}}
+{{stub}}

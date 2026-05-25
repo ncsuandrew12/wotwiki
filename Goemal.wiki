@@ -1,0 +1,16 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=200px
+| status=Unknown
+| gender=Male
+| mentioned={{tsr|17}}
+| lastmentioned={{tsr|17}}
+}}
+
+'''Goemal''' is a fictitious name [[Min Farshaw]] uses in her alibi as Elmindreda.
+
+== Activities ==
+Min claims Goemal is one of the two suitors competing for her hand in marriage that she is trying to escape by seeking refuge in the White Tower. The other name she cites is [[Darvan]].{{ref/book|4|17}}
+{{short}}
+
+{{notes}}

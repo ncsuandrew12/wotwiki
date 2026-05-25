@@ -1,0 +1,77 @@
+''this was copied from Wikipedia so we have something we can customize if needed --[[User:Gherald|Gherald]] 18:36, 26 Oct 2005 (UTC)
+
+The '''Todo list''' (template {{tl|todo}}) of an article shows, as its name implies, the list of improvements that are suggested for the article.  This list is maintained by editors, writers, reviewers or readers like you as a way to focus your collaborative efforts.  As such, they represent a tentative consensus, helping improve the efficiency of the editing process. A To-do list for this page may look like this:
+{{todo}}
+The tag to include the above is <nowiki>{{todo}}</nowiki>. The dynamic list in the box is drawn from a subpage of the talk page represented simply by "[[/todo]]."
+
+'''For a list of all articles with to-do lists, see [[:Category:Todo]].''' Check the category page from time to time if you're looking for articles to help out on. This is a great way to contribute to Wikipedia.
+
+To-do lists focus on '''improving otherwise adequate articles''': tasks in to-do lists are important, significant, but not urgent (example: "insert a history section", or "provide more examples in the introduction").
+
+The "todo" collaboration mechanism '''has the following advantages''':
+* the list of tasks is permanently visible in the talk page of the article, i.e. where most editors will see it.
+* articles with To do's are automatically listed in the [[:Category:Todo|list of articles with Todo's]], so that additional editors unaware of the article are also attracted to it.  More specialized sub-categories can be defined for specific purposes (e.g. for a [[Wikipedia:WikiProject|WikiProject]]).
+
+Feel free to discuss todo lists in the talk page of articles, to add new tasks, or to work on pending tasks.  We also encourage you to contribute to other articles by visiting the list of "articles with Todo's", at [[:Category:Todo]]
+
+Please note that the todo list is edited in a '''special todo page''' which is separate from the talk page of the article.  However, its content automatically appears at the top of the talk page.  Therefore, you cannot edit the normal talk page to modify the todo list, as you may have expected.  This is further explained in the detailed procedures below.
+
+==Procedure==
+To '''discuss a task''' and help reach a consensus:
+* in most cases, you just edit the task as described below, summarizing the change and its reason in the edit summary as necessary
+* if more discussion space is needed, enter a new heading at the bottom of the talk page of the article (not in the todo page) to start a new discussion
+
+To '''start a new todo list''':
+* go to the talk page of the article
+* edit it
+* at the top of the edit box, enter '''<nowiki>{{todo}}</nowiki>'''
+* save your edit : the talk page is now shown with an empty todo list
+* click the "edit" link at the top of the todo list 
+* enter "*" followed by the description of the task.  Please begin with a verb such as "explain", "discuss", "justify" to clearly describe the task.
+* enter an edit summary as needed, select "watch", and save your changes
+* go back to the talk page to check your entry. If necessary, click the [[Wikipedia:Wikipedia:Todo list/purge|purge]] button to refresh it.
+
+To '''add a task''' to the todo list:
+* click the "edit" link at the top of the todo list
+* enter "*" followed by the description of the task.  Please begin with a verb such as "explain", "discuss", "justify" to clearly describe the task.
+* enter an edit summary as needed, select "watch", and save your changes
+* you can now go back to the talk page to check your entry.  If necessary, click the [[Wikipedia:Wikipedia:Todo list/purge|purge]] button to refresh it.
+
+Similarly, to '''edit or remove a task''' from the todo list:
+* click the "edit" link at the top of the todo list
+* edit or remove the task in the edit box
+* enter an edit summary as needed, select "watch", and save your changes
+* you can now go back to the talk page to check your entry.  If necessary, click the [[Wikipedia:Wikipedia:Todo list/purge|purge]] button to refresh it.
+
+To '''add an article to a "[[:Category:Todo|Todo]]" sub-category''':
+* go to the talk page of the article: you see its todo list
+* click the "edit" link at the top of the todo list
+* add <code><nowiki>[[Category:Todo,<sub-category>]]</nowiki></code> in the edit box, where you replace "sub-category" by the name of the sub-category in which you want to include the article
+* enter an edit summary as needed and save your changes
+
+To '''mark an item as in progress''':
+* from the talk page of the article click the "edit" link on the todo list
+* add "<code><nowiki>''In progress'' ~~~</nowiki></code> to the end of desired item.
+* save your edit
+* remember to remove your marker if you cease working on it, and to strike it out if finished
+
+==What a todo list is==
+* place to help give the page clear direction
+**General goals for the page
+**New sections to be added
+*A place to note facts which need to be found or checked for the article
+*A place to note sections which need expansion or other alterations
+
+==What a to-o list is not==
+*Not a place for discussion (use the talk page for that)
+*Not a place for experimental ideas (these should be discussed first to reach a consensus)
+
+<s>==Spelling and grammar==
+
+*"Todo" is used for simplicity as a template name.
+*Otherwise, it is two words, and hyphenated when used adjectivally before the noun, i.e.:
+**"List of things todo", or "List of Todos"
+**"Todo list"
+</s> Snotty wikipedians --[[User:Gherald|Gherald]] 00:00, 27 Oct 2005 (UTC)
+
+[[Category:Proposals|{{PAGENAME}}]]

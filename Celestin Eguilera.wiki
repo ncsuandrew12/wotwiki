@@ -1,0 +1,48 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Tairen
+| status=Alive
+| rank=Aes Sedai
+| affiliation=White Tower
+| mentioned={{wh|p}}
+| lastmentioned={{cot|p}}
+| living=wh
+|birth = 960 NE|hair = Black|eyes = Gray}}'''Celestin Eguilera''' is an [[Aes Sedai]] of the [[Yellow Ajah]].{{ref|{{twotc}}, Celestin Eguilera}}
+
+== Appearance and Personality ==
+Celestin is about 5'6" tall. She has black and straight hair worn above the shoulder at a length that suggested she can’t decide whether to wear it long or short. Her eyes are gray, though they seem almost pale blue at times. Her nose is perhaps a little too prominent; it makes her look like she's looking down on people, which she probably is, consistent with her somewhat supercilious manner.
+
+== Strength and Abilities ==
+Celestin is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of {{opsl|25}}. 
+
+She matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability with the Talent, she should be able to Travel.
+
+== History ==
+Celestin was born in {{ne|960}} in Tear.
+
+She went to the [[White Tower]] in [[976 NE]] at the age of sixteen. 
+
+After spending five years as a [[novice]] and four as [[Accepted]], quite a short period of time
+
+She was raised to the shawl in {{ne|986}} at the age of twenty-six.
+
+==Activities==
+Celestin has allied herself with the [[Salidar Aes Sedai]]. She is one of the [[Rebel Spies]] sent back to the White Tower.{{ref/book|7|8}}{{ref/book|8|26}} She was out of the White Tower at the time of the coup and so did not arouse suspicion when she returned back to Tar Valon.
+
+[[Zerah Dacan]] betrayed her unwillingly, along with the other spies, when she was questioned by [[Pevara Tazanovni]] and [[Seaine Herimon]] with the [[Oath Rod]]{{ref/book|8|26}}.
+
+Celestin is currently working with [[Annharid]] on [[Yukiri]]'s orders as a result of this to find more about [[Atuan Larisett]]'s friends in order to see who else might be members of her Black [[Heart]]{{ref/book|10|p}}.
+
+When [[Meidani Eschede|Meidani]] is freed from her oath of obedience, it can be assumed Celestin was as well.
+
+{{notes}}
+{{DEFAULTSORT:Eguilera, Celestin}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Eyes-and-ears]]
+[[Category:Ferrets]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Slider
+| Description        = Slider made from the [[:File:Tar Valon.jpg]]
+| Source             = ''[[New Spring 3]]''
+| Artist             = Mike S. Miller
+}}

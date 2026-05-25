@@ -1,0 +1,138 @@
+{{#invoke:Books|chapter_nav|book={{PAGENAME}}}}
+{{dablink|For the quest by the same name, see [[The Great Hunt of the Horn]]. For other uses of the word "hunt," see [[Hunt]].}}
+[[image:TGHCover.jpg|left|thumb|200px]]'''''The Great Hunt''''' (abbreviated '''tGH''') is the second book in ''[[The Wheel of Time]]'' series. It was published by Tor Books and released on November 15, 1990. It is 705 pages long.
+{| cellspacing="0" cellpadding="5px" style="border:none;"
+|-
+|'''''<<<''' Previous: [[The Eye of the World]]''
+| style="text-align:right;" |''Next: [[The Dragon Reborn]]''' >>>'''''
+|}
+==Plot Summary==
+''The Great Hunt'' consists of a prologue and fifty chapters. The main story is about a group of young heroes, namely [[Rand al'Thor]], [[Mat Cauthon]], and [[Perrin Aybara]], all ''[[ta'veren]]'', who join [[Shienar]]an soldiers in a quest to get the [[Horn of Valere]] out of enemy hands. At the same time, [[Egwene al'Vere]], [[Nynaeve al'Meara]], and [[Elayne Trakand]] go to the [[White Tower]] in [[Tar Valon]] to begin learning the ways of the [[Aes Sedai]]. Finally, in a distant land, a strange group of people start an invasion of the western coast.
+===The Hunt Begins===
+Following the events in ''[[The Eye of the World]]'', the book opens with the major characters united at the city-fortress of [[Fal Dara]] in Shienar, where the [[Amyrlin Seat]] is traveling to. Shortly after her arrival, the fortress at Fal Dara is attacked by [[Trolloc]]s and [[Myrddraal]]. The evil, twisted, prisoner [[Padan Fain]], takes Mat's mysterious and powerful, but tainted, dagger, without which he would slowly die, as well as the [[Horn of Valere]]. In the wake of the attack, Rand has an audience with the Amyrlin Seat and is told that he is the [[Dragon Reborn]].
+
+Seeking to recover the Horn, [[Ingtar Shinowa]], a brave Shienaran soldier, leads a small group including Rand, Mat, Perrin, [[Loial]], [[Verin Mathwin]], and about twenty Shienarans after the thieves, a band of [[Shadowspawn]], and [[Darkfriend]]s. To track them, they enlist [[Hurin]], a middle aged Shienaran with the strange ability to "smell" things that other people can't, such as being able to smell where there was a battle, even if there is no trace of it. Using this [[sniffing]] ability, Hurin is able to follow the scent of their quarry across the land. However, it is not long before Rand, Loial, and Hurin are accidentally separated from the party and transported to another world via a [[portal stone]] that they unknowingly slept beside, and somehow activated. In the other world, Rand meets [[Ba'alzamon]] and has a [[Blademaster#Heron mark|heron]] branded into his palm in a fight. 
+
+Later, having determined that the portal stone transported them to a parallel world that essentially is the same but with a different timeline, they eventually find another portal stone with the help of [[Selene]], a mysterious woman dressed in white whom they meet there. Rand is able to use it to return to their own world, albeit much farther ahead of the rest of their group and even the Darkfriends and Shadowspawn. Shortly afterward, they recover the Horn and the dagger by sneaking into their enemy's camp, which they found simply by waiting for them to catch up.
+
+Ingtar's group had earlier been mystified and confused at the disappearance of Rand and the other two but they manage to continue tracking the Darkfriends, however, as Perrin pretends to be another sniffer like Hurin. Secretly, he is using his wolf sense, his ability to talk to wolves, to ask nearby wolves which way the Darkfriends and Shadowspawn went.
+
+Egwene and Nynaeve leave Fal Dara at the same time as Ingtar's party. Along with the Amyrlin and [[Moiraine Damodred]], they head for Tar Valon. They are visited by the Amyrlin and other Aes Sedai who give them lessons. Their main concern, however, is to make questions about Rand, Mat and Perrin. At the [[White Tower]], Egwene learns from [[Anaiya]] Sedai that she might be a [[Dreamer]] and Nynaeve passes the test to become [[Accepted]] by walking through three rings, each of which takes her to a vision that could deter her from going on and becoming an Aes Sedai. 
+
+The first ring transports her to a giant maze, where she battles a facsimile of [[Aginor]], the [[Forsaken]], and almost wins, but leaves the vision before finishing him. The next two of her visions are painful because she knows that they are also fake and she has to leave them, but she doesn't want to abandon them. One of those visions is of herself in her hometown, [[Emond's Field]], which is in trouble and needs her help, but she has to leave the vision by leaving the village, which makes herself feel as if she truly had left Emond's Field to its fate. Another vision is of herself in the future, married with children to the man she loves, [[Lan Mandragoran]], but once again she must leave the vision by running away from Lan, the last thing she wants to do. After this, she is made an Accepted, a rank in the White Tower just below Aes Sedai and above [[novice]], the lowest.
+
+Rand and his group travel through [[Cairhien]], along with Selene, who keeps mysteriously disappearing. After reaching the capital at Cairhien, Rand finds [[Thom Merrilin]], a [[gleeman]] whom he thought had been killed by a [[Myrddraal]], but who had actually survived the encounter. Thom is with his girlfriend and apprentice [[Dena]] in Cairhien. In the city, Rand and Loial are attacked by Trollocs and, during their escape, destroy the chapterhouse of the [[Illuminator's Guild]], a secretive society of people who make fireworks and set them off during celebrations. The Horn and dagger, unfortunately, are once again lost. Later on, Dena is murdered for Thom's involvement with Rand.
+
+Meanwhile, the wolves tell Perrin about Rand's location. Ingtar's group is reunited with Rand. They learn that the Horn has been taken to [[Toman Head]], at the port city of [[Falme]]. Hoping to get there faster, Rand and Verin attempt to use two [[Waygates]], the second with the help of Ogiers in a nearby ''[[stedding]]'', but they are closed to them by the Black Wind. Next Rand uses a portal stone, but it malfunctions and the group loses time by traveling by way of stone.
+===To Toman Head===
+As these events unfold, action also takes place on the other side of the continent, where the [[Seanchan]] have occupied the city of Falme. [[Geofram Bornhald]], of the [[Children of the Light]], is preparing forces to take against the Seanchan.
+
+At the White Tower, [[Liandrin]] (secretly of the [[Black Ajah]]) tells Egwene and Nynaeve that they must travel to Toman Head because the Emond's Field boys are in danger there. Elayne and [[Min Farshaw]], also at the Tower, join the group and they travel by Waygate to Falme. Once there, Min and Egwene are betrayed to the Seanchan by Liandrin. Egwene is collared with an ''[[a'dam]]'', a device used by the Seanchan to control women who can channel, who they call ''[[damane]]'', or "Leashed Ones". Nynaeve and Elayne escape and  lay low for a bit.
+
+Rand, Ingtar, and the others arrive at Falme, where they send forth five of their number to reclaim the horn and dagger. The five chosen to go are Ingtar, Hurin, because of his sniffing, Rand, Perrin, and Mat, who ''looks'' sickly and pale having been separated from the dagger so long, but has all of his physical strength and stamina. In the city, Rand sneaks into the building where the horn is being kept, but is found out and gets into a swordfight with the [[blademaster]] High Lord [[Turak Aladon|Turak]] of the Seanchan. Rand manages to defeat Turak and escapes with the horn and dagger.
+
+At the same time, Elayne, Nynaeve and Min rescue Egwene from the Seanchan then try to get away from the city. Unfortunately, the Whitecloaks choose this time to attack as well, and the heroes are trapped between the Seanchan and the Children. In a last desperate chance, Mat blows the Horn of Valere, summoning forth the heroes of the horn, led by [[Artur Hawkwing]] himself, and including [[Birgitte Silverbow]]. The Children are easily defeated by the ''damane'', but the Heroes of the Horn then overwhelm the Seanchan, who retreat in haste back to their ships and sail away. Thus the ghost of Artur Hawkwing helps to defeat a Seanchan Army of the Return, his supposed heirs.
+
+The climax of the book is an epic sword battle between Rand and [[Ba'alzamon]], an image of which appears in the sky, drawing the attention of all. In the fight, Rand is unable to penetrate the defense of Ba'alzamon, and is forced to let his enemy strike a blow to his side in order to himself make an offensive lunge which becomes a fatal hit, again ''seemingly'' beating his opponent, just like it ''seemed'' he had at the end of ''[[The Eye of the World]]''.
+
+After the battle, Rand gives in to fate and proclaims himself the Dragon Reborn for the first time.
+==Plot Developments by Character==
+[[Rand al'Thor]] journeys from denial to grudging acceptance of his identity as the [[Dragon Reborn]] and channels deliberately for the first time. He proves himself as a swordsman by slaying [[Seanchan]] [[blademaster]] [[Turak Aladon]], and defeats [[Ba'alzamon]] a second time.
+
+[[Matrim Cauthon]] retrieves the dagger from Seanchan custody, but sounds the Horn of Valere in a moment of desperation during their escape, forging a link with it that can only be broken by death.
+
+[[Perrin Aybara]] grudgingly uses his talent as a [[wolfbrother]] to assist in the search for the Horn.
+
+[[Nynaeve al'Meara]] becomes one of the accepted in the White Tower.
+==Re-release==
+[[image:TGHa.jpg|left|thumb|100px|The Hunt Begins cover]]
+[[image:TGHb.jpg|right|thumb|100px|New Threads in the Pattern]]
+{{dablink|For other articles by the same title "''The Hunt Begins''," see [[The Hunt Begins]].}}
+In 2004, ''The Great Hunt'' was re-released as two separate books aimed at a [[wikipedia:young adult literature|young adult literature]] market, with larger text and a handful of illustrations. These were ''The Hunt Begins'' and ''New Threads in the Pattern''.
+==Ebook Format==
+[[File:TGH Ebook cover.png|right|thumb|100px|New ebook cover]]
+November 17 of 2009 sees the ebook release of ''The Great Hunt''. The artwork is by Kekai Kotaki. Depicted is the scene where Rand al'Thor recovers the [[Horn of Valere]] from [[Trolloc]]s. With Rand is [[Loial]] and what appears to be [[Selene]].
+==Statistical Analysis==
+:''See also the [[The Great Hunt/Statistical analysis|full statistical analysis for this book]].''
+''The Great Hunt'' contains fifty chapters and a prologue, of which:
+{| class="wikitable" cellpadding="4"
+!POV
+! %
+!Chapters
+|-
+|[[Rand al'Thor]]
+| align="right" |53.16%
+|Ch1 through 3, Ch6, 31% of Ch7, 48% of Ch8, 50% of Ch9, Ch10, 75% of Ch11, Ch13, Ch15 through 17, 95% of Ch19, Ch20, 21, 25, 87% of Ch26, Ch27, 30, 40% of Ch31, Ch32, 33, Ch35 through 37, Ch41, 40% of Ch44, 65% of Ch45, 22% of Ch46, 95% of Ch47'''<sup>1</sup>''', and Ch49
+|-
+|[[Egwene al'Vere]]
+| align="right" |13.49%
+|24% of Ch8, Ch12, Ch18, 95% of Ch24, Ch38, 39, 75% of Ch40, and 65% of Ch42
+|-
+|[[Nynaeve al'Meara]]
+| align="right" |7.58%
+|26% of Ch8, Ch23, 25% of Ch40, 35% of Ch42, 33% of Ch45, and 70% of Ch46
+|-
+|[[Moiraine Damodred]]
+| align="right" |7.44%
+|Ch4, 50% of Ch5, 51% of Ch7, 2% of Ch8, and Ch22
+|-
+|[[Perrin Aybara]]
+| align="right" |4.37%
+| 18% of Ch7, Ch14, 28, 60% of Ch31, and 30% of Ch44
+|-
+|[[Bayle Domon]]
+| align="right" |3.87%
+|50% of Ch9, 78% of Ch29, 2% of Ch45, and 5% of Ch46
+|-
+|[[Padan Fain]]
+| align="right" | 2.10%
+|2% of Ch5, 25% of Ch11, 5% of Ch19, and 65% of Ch34
+|-
+|[[Min Farshaw]]
+| align="right" |2.06%
+|5% of Ch24, Ch43, and 94% of Ch48
+|-
+|[[Jaichim Carridin]]
+| align="right" |2.04%
+|96% of the Prologue
+|-
+|[[Geofram Bornhald]]
+| align="right" |1.74%
+| 19% of Ch5, 22% of Ch29, 30% of Ch44, 3% of Ch46, and 5% of Ch47
+|-
+|[[Thomdril Merrilin]]
+| align="right" |1.06%
+|13% of Ch26 and 35% of Ch34
+|-
+|[[Liandrin]]
+| align="right" |0.85%
+|29% of Ch5
+|-
+|Quote
+| align="right" |0.12%
+|4% of the Prologue and 40% of Ch50
+|-
+|Narrator
+| align="right" |0.07%
+| 60% of Ch50
+|-
+|[[Jaret Byar]]
+| align="right" |0.05%
+|6% of Ch48
+|-
+| colspan="3" |&nbsp;
+|-
+| colspan="3" |'''<sup>1</sup>''' Chapter 47 has three points of view, two of which are from Rand al'Thor's POV. His first is 30% of the chapter and his second is 65% of the chapter.
+|}
+{{clear}}
+
+== Glossary==
+:''See also the [[The Great Hunt/Glossary|full glossary for this book]].''
+The Glossary is at the end of the book and contains 194 terms.
+{{books}}
+{{Tgh-reread}}
+{{wikipedia}}
+{{DISPLAYTITLE:''The Great Hunt''}}
+[[Category:Main Series| 2]]
+[[tr:Büyük Av]]
+[[Category:Books]]

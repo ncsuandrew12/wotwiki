@@ -1,0 +1,204 @@
+What do you think my edits. Player1
+
+== Administrator rights ==
+
+Hi Moridin, 
+it looks to me you have the admin rights. Don't you? You're listed in the group of Administrators. 
+Best. S.
+: Hi, that could be the case. I was trying to find the delete page tool to tidy up some of the stubs and replace them with redirects to lists instead. Namely the short pages for the songs and stedding. It's been almost a decade since I looked at the wiki tools and the interface changed so my memory is completely gone. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 21:44, 11 November 2020 (UTC)
+
+:: Seems not. I think there was a prolonged changeover between the old Wiki and the new one. I am listed in autoconfirmed and users only now. [[https://wot.fandom.com/wiki/Special:ListUsers]] My edit count is unchanged, but the achievements weren't update like with the other old-time users. I'm not bothered by that though. We can chat about it if we manage a Hangouts session. :) [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 19:03, 24 November 2020 (UTC)
+
+== Missing Chat and regular activity ==
+
+Hi Moridin,
+It's good to see that there's another active admin on the site. :) I only joined in 2018 and did quite some edits during a few months. No admin replied to any of my messages so I asked for the admin rights for myself. Would you be available for a little chat? 
+(Sadly the chat function was removed from this site, so we need to find another way. Gmail / Hangouts, maybe?).
+Waiting for your reply,
+S.
+([[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 09:09, 24 November 2020 (UTC))
+
+:Hey Moridin! I've seen the WoT Discord groups but haven't joined any yet. If you're on Discord, feel free to DM me, my Discord name is in my profile.
+
+:Alternatively for now, especially since Sophiae doesn't seem to be on Discord, we can use a chat feature that's on a legacy wiki. I can temporarily enable it on the [[w:c:wot-prime|TV series wiki]], for instance.
+
+:My time zone is PST, and it's about 11:30 AM right now for me, and I'll be on-and-off for the next twelve hours or so. I have a meeting in about two hours that will last up to 90 minutes, but I can be available before or after that, just let me know what works for you.
+
+:Let me know your thoughts and when you're available!
+
+:–&nbsp;[[User:KylaraE|<span style="background: -webkit-linear-gradient(#a58fb3 25%,#ff00d4 75%); background: -webkit-linear-gradient(#a58fb3 25%,#ff00d4 75%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 115%; letter-spacing: 1.5px;">KylaraE</span>]]&nbsp;<staff />&nbsp;([[User talk:KylaraE|talk]]) 19:36, 24 November 2020 (UTC)
+
+-- -- -- -- 
+
+I will create a discord account tomorrow and then we can talk there. :)
+S.  ([[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 21:13, 24 November 2020 (UTC))
+
+-- -- -- -- -- -- -- --
+
+Hi Moridin,
+
+Well, I think I have just ruined my non-existing reputation... t(-_-t)  I never made it to the discord. I was busy with work, then sick (not corona at least), then busy with work again. I will try my best to finally create an account this week, probably around the end. Trust me. ( ͡° ᴥ͡°)
+
+S.
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:49, 12 January 2021 (UTC)
+
+== Areas that Need Some Work ==
+
+I just finished my most recent read through and noticed there were a lot of details missing about character activities during the Last Battle. I have tried to add things as I see them. Are there any other areas that need some attention that I could help with?
+
+[[User:Crazycarl864|Crazycarl864]] ([[User talk:Crazycarl864|talk]]) 19:27, 24 November 2020 (UTC)
+
+: Hi, I have been away from the wiki for a long time and only just checking out what needs done myself. Sophiae.seraphim is more recently active and might have some ideas. ATM, I am listening through the audiobooks and adding things I thought interesting if they aren't in the wiki already. I also have a PDF of the books to make searching for terms and names a bit easier. One thing I thought would be useful is to replace the short pages for songs and stedding with redirects to a list page with all the information in one place. I don't know if those short pages are complete. Do you have a copy of the Wheel of Time Companion? Finally, there is need for some referencing on most pages. Some of that is a little dull, but things that need done. If there is more content-based stuff I notice, I'll make a list on my talk page for ideas. Best wishes, Chris [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 20:50, 24 November 2020 (UTC)
+
+I do have a copy of the Companion, though I think I only have pdfs for books 1-11. That's something I've wanted to fix for a while because my most recent read-through was the audiobook version, and checking articles can be rough when you have to guess at the spelling. 
+So are you suggesting just going through the companion item by item and adding references to the relevant pages? I wouldn't mind doing that, but sometimes I have issues with adding references randomly breaking page formatting, which is why I haven't been as meticulous about referencing. I'll try to figure out if it's something I'm doing wrong. It might not even be an issue since the migration.
+Thanks for the suggestions.
+[[User:Crazycarl864|Crazycarl864]] ([[User talk:Crazycarl864|talk]]) 21:40, 24 November 2020 (UTC)
+: I'm split on the referencing. Editing on the main Wikipedia got me into the habit of doing that, but in general it isn't done so much on this wiki (including by me in the past!). I raised it as a proposal for discussion, but it's probably too huge of a task to go through everything. It would seem a good policy to add for less-known trivia and leave out for obvious information. I added references to the [[Havien Nurelle]] page that I don't think are too intrusive, but let me know your thoughts on whether it breaks up the formatting or not. It's up to you what you enjoy doing or would think useful for readers or to make things a bit tidier. If you want to check missing info from the Companion, that would be useful and I could lend a hand if you wanted cooperation on some themed material [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 22:05, 24 November 2020 (UTC)
+
+== Egwene Page ==
+
+These aren't even my opinions, they're the actual info on the page that Zerah Dacan is deleting huge swathes of. I'm just trying to stop him from removing relevant and correct information. If someone reworked it to be less biased, because I realize that it is biased, that would be fine, but he's just deleting all of it.
+
+: Even if you didn't write it, it's clearly biased and without citations and that's the point. At this point, three different editors have been removing this material and you have been engaging in an edit war. It's not "actual info", it's material that should be removed because it's not meeting quality standards. That can exist on pages for a long while until it gets edited. It's also etiquette to engage with people on talk pages, create relevant sections for discussion and sign your replies. [[wikipedia:WP:NPOV|neutral point of view]] is one of the pillars of Wikipedia and a basic rule of article writing for factual content in general. If you want to support material in this way, write "character X thinks that Egwene is arrogant/reckless/manipulative" with information backed up by citations. Otherwise, it's completely fair game for deletion. I could equally write some paragraphs (without evidence) saying that Egwene is the best Amyrlin in the Tower's history and how she is persecuted and scapegoated by agents of the Black Ajah, that she is super intelligent, competent and the strongest in the character and in the Power in its history. But that would be equally biased and unsuitable. You see why we have rules and guidelines? [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 09:27, 28 November 2020 (UTC)
+
+:: Also, you clearly edited and added a lot of this material. Don't say they are not your opinions. The material only appeared in July of this year and this the only "contribution" you have made to the entire wiki. [https://wot.fandom.com/wiki/Egwene_al%27Vere?type=revision&diff=134133&oldid=131501][https://wot.fandom.com/wiki/Special:Contributions/ShellFire6] So far you've made 27 reverts related to this material, some arguments on talk pages on the same and nothing else to page content. This is not constructive. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 09:48, 28 November 2020 (UTC)
+
+
+And your deleting anything bad about her is unbiased how?
+
+== Aes Sedai flags ==
+
+Just curious as to why you replaced all the Aes Sedai flags from the relevant pages. 
+
+--[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 23:53, 27 March 2021 (UTC)
+
+: Hi, I was making colorised versions of the chapter icons outside of the wiki and thought that they looked a little cleaner as images than the previous ones. As it affects a lot of pages, I put a poll under "Request for comments" in the discussion board for the last month. The results were 7 votes to 1 to replace the old ones with these, so I took that as a fair consensus to go ahead and make the changes. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 00:20, 28 March 2021 (UTC)
+
+::Oh. I never saw the poll. I just kinda hoped that those would stay there longer; it took me quite a long time to make the pics and post them, so it was kinda shocking to have my email flooded with hundreds of notifications telling me that my work is being replaced by an admin.
+::Heck, I did not even get a notification that you had answered this question! 
+::--[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 21:43, 28 March 2021 (UTC)
+
+::: I left a message on your own talk page. Leaving a note here in case you don't look there. :) [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 12:16, 29 March 2021 (UTC)
+
+::::Thank you. :)
+::::--[[User:Sings-With-Spirits|Sings-With-Spirits]] ([[User talk:Sings-With-Spirits|talk]]) 23:58, 29 March 2021 (UTC)
+
+== Matrim Cauthon ==
+
+Mat's marriage is no spoiler. It has been prophecied since 4th book.[[User:Robin WH|Robin WH]] ([[User talk:Robin WH|talk]]) 03:00, 3 April 2021 (UTC)
+
+: Hi, it's only a slight technicality that I made that change. Basically it's a general rule on wikis to try to not have spoilers from any of the books in the lede for the article as that appears in google searches. We are entirely open to spoilers in the content, but we want to avoid leaking too much by accident and it's a fairly easy fix to be able to do that as a courtesy. It was mentioned to me by the wiki manager as a general policy for fan wikis that I wouldn't have considered but makes sense in the bigger picture.
+
+[[File:Screenshot 2021-04-04 085735.png|thumb]]
+
+: The screenshot appears at the side and as the first entry in the google search for Matrim Cauthon. While it could be argued that the Daughter of Nine Moons has been mentioned since book 4, we don't know he will marry the Empress of Seanchan until we firstly find out what DotNM means and secondly that the Empress dies and Tuon becomes Fortuona, which doesn't happen until books 9 and 10. I am a little uncertain about how to determine what is best to include in the lede as spoilers, but I agree with it as a general policy. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 08:07, 4 April 2021 (UTC)
+
+== Pages missing ==
+
+Hello Moridin, sorry to bother you, but I don't know where else to ask this but, I was looking into the battles and conflicts that happend during the story, and I was wondering if there is a page for Rand's invasion to Illian and for Rand's conflict with the seanchan. I was looking in the Battles category and I couldn't find those two, but I don't know if the exist in another category or there's simple no article for those conflicts?
+
+Thanks.
+
+: Hi, I don't think we have a page for either. Would make good additions if a decent summary could be made of both. :) [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 02:46, 29 May 2021 (UTC)
+
+== Whitecloak flag ==
+
+Hi! I tried removing the transparent background on [[:File:Whitecloak banner.svg]]. However, now the image won't show at all on wiki, although it does when you open the file and then click on the image. Could you look into this? Btw, thanks for uploading all those flags! :) [[User:CrappyScrap|CrappyScrap]] ([[User_talk:CrappyScrap|talk]]) 11:39, 10 July 2021 (UTC)
+
+: I noticed this yesterday actually, but I did not yet make a new flag for the Whitecloaks and I was thinking of just making a new one and replacing it across the board. Thanks for letting me know though! Add me on Discord if you have that too. We also now have a Twitter account at @wheeloftimewiki. Glad you like the new flags! How are you doing in completing the books? [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 16:58, 10 July 2021 (UTC)
+
+:: I'm probably years from completing the books, so I will do my best not to read too much on this wiki! When it comes to any fictional universe, I tend to be more interested in the historical background than the story itself, and Wheel of Time is no exception. (Boy, do I wish we knew more about Shara...) Knowing a fair bit about the backstory doesn't really ruin the reading experience for me - if anything, it makes it more interesting. I'll see if I can find you on Discord. Cheers! [[User:CrappyScrap|CrappyScrap]] ([[User_talk:CrappyScrap|talk]]) 19:50, 10 July 2021 (UTC)
+
+== Brief How-To question; Formatting ==
+
+Good Day Moridin,
+After trying to read the How-To pages I still do not understand all the terminology well enough to self help.
+
+From what I understand, the Blog page is the page that others can follow and receive updates on.
+
+1. How to I add to a blog category and have that cool Table of Contents window like you have on yours?
+
+When trying to add a new post under an existing blog title, it seems to want me to just delete the prev blog post or add to it.  
+
+2. If I write over my previous blog, will it get rid of the previously written blog under that same title, or will it add to the table of contents as a sub category?
+
+For example, I just want to update my blog with the tweets and facebook postings that I have put out there.
+
+3. Should I be using the Talk page vs the Blog page for these "posts"?
+
+4. I like the format of a "what am I working on" page that I saw and would like to do the same.  Do you have a template you could share?
+
+Mrs. Istalee'82 [Fan since 1996] 14:31, 29 July 2021 (UTC)
+
+== Editor of the Month - September 2021 ==
+
+Congratulations, you've been named one of Fandom's Editors of the Month for your contributions in September 2021! [https://community.fandom.com/wiki/User_blog:MisterWoodhouse/This_Month_at_Fandom_-_September_2021 Here's the link to check it out!] --[[User:MisterWoodhouse|MisterWoodhouse]] ([[User talk:MisterWoodhouse|talk]]) 18:17, 30 September 2021 (UTC)
+
+: Oh wow! Awesome! Thanks so much! :D [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 14:58, 4 October 2021 (UTC)
+
+== Editing Projects! ==
+
+Hi!  So, I don't check my user pages or notifications a lot, LOL.  But I appreciate the invite to be involved in projects on the wiki, and I am interested.  I do have Discord, yes, if you want to drop me an invite.  My handle is the same as here.  --[[User:DavidK93|DavidK93]] ([[User talk:DavidK93|talk]]) 06:10, 12 December 2021 (UTC)
+
+== ‎what ai art program do you use? ==
+
+‎what ai art program do you use?
+
+== what's up with the needless block? is that the most antisocial thing you could probably do? (new member contributed something he thought was good to the wot blog) ==
+
+just wondering, no hard feelings
+
+: Hi, I mentioned the reason for the temporary ban when it was issued. I don't have a problem with generative A.I., but you need to learn to use the tools effectively to match the characters as being book-accurate to a reasonable degree. As someone who has worked with generative art, you need to develop a work flow beyond text prompts which involves editing out undesirable artefacts and features. There are tools like ControlNet, img2img editing or digital editing that will help with that. I will give an example of a rejected image for reference:
+ [[File:RejectedAIArt1.webp|thumb]]
+: The image doesn't match any physical features of [[Shalon din Togara Morning Tide]], but here are a list of problems:
+
+* She, and most of your other uploads, are white. Sea Folk are explicitly dark-skinned
+* She has blue eyes
+* She is missing the distinctive Sea Folk jewellery
+* The text is both unnecessary and nonsense
+* In that text, the name is wrong
+* She has elf ears
+* She a  large blue tattoo/decoration on her forehead
+
+Note that your ban is only for file uploads. Since it is possible to generate many AI images in a relatively short time, I :insist on the quality being high in terms of book accuracy. There is some leeway for artistic licence, but within reason, and the tools exist to hold A.I. assisted art to a high standard.
+
+[[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 08:44, 30 January 2024 (UTC)
+
+
+Fair enough. This is reasonable enough. Perhaps somebody else who reads this will be able to get a good sense of what your expectations are for the blog and be able to better post artwork that matches your needs. 
+
+It is possible that you may want to consider the descriptions on each character page: It is possible that for some characters, the text descriptions are not detailed or specific enough to meet your requirements.
+
+Each of the images generated was generated using all relevant descriptive information found on the corresponding character page in the prompt.  It may be a good decision to ensure that no matter what, each character description is accurate and fully robust. That way, nobody else will make the same mistake I did.
+
+Given your experience in generative art, I would love to see what you could do with generating images for each of the sea folk you decided to take down.
+
+I hope you understand that it does not make sense for me to guess and risk wasting more energy.  I did just read all fourteen wheel of time books in a row since august with one of my best friends. It was his second time through the series and we each thought the set of generated images you took down was a nice addition to the empty array of sea folk portraits.  
+
+Maybe you might agree to generate some better ones to replace the ones you took down? It sounds like they might be even better than the ones we made given your attention to detail and high standard.
+
+🌿
+
+== Hello Chris - Bot edits + bot tag + Adding Category:Redirects to all redirects ==
+
+===Are you amiable with bot edits?===
+Hiya, I've read through the policies here and I didn't see a rule against bot edits, but I figured I'd ask. Are you okay with bots edits on the Wiki? <br>
+In case you don't know what those are, you can read about them on [[w:|Community Central]], [[w:Help:Bots|here]]. In short, its a program that can make many edits at once based on criteria.
+
+===Would you be willing to give a bot tag?===
+If you are okay with bot edits, would you be willing to tag my bot account, [[User:Moonwatcher x Qibli +bot+]], as a bot? This is so the bot edits don't flood [[Special:RecentChanges]]. You can read about bot tags on [[w:|Community Central]], [[w:Help:Bots#Bot flags|here]].
+
+===Idea about [[:Category:Redirects]]===
+I was wondering if you think it'd be a good idea to categorize all of our redirects in [[:Category:Redirects]]? They're all already categorized in subcategories like [[:Category:Geo-political redirects‎]] and [[:Category:Naming redirects]], and those categories are in Category:Redirects, but the individual pages are not.<br>
+This might seem pointless, but honestly, it could be quite useful in the future. E.G.
+* Widespread changes: If a widespread change needed to happen across all redirect articles having this category would make it so much easier for software like [[w:Help:AutoWikiBrowser|AWB]] (AutoWikiBrowser) or even Fandoms [[w:c:dev:MassEdit|ME]] (MassEdit) to enact the change.
+* Redirect management: If you ever need to manage redirects in any way, having every one in a category page could be invaluble.
+I do know that we have [[Special:Redirect]]s, but that doesn't work in the same way for AWB or ME.<br>
+
+===Message Walls===
+I was thinking, it might benefit the Wiki to modernize it a tad - mainly what I was thinking is enabling Fandom's [[w:Help:Message_Wall|Message Wall]] feature, which you can do [[Special:AdminDashboard|here]]. Of course TP's are good as well, it's just a thought I had - either way, TP's or MW's, is fine o course.
+
+Anyways, thank you for taking the time to read this,<br>
+<span style="background-image: linear-gradient(to right, #16369e, #0a5bc4, #0f94d1, #3fb3e8, #3fcce8, #52dbeb) !important; font-family: 'Comic Sans MS'; font-size: 17px;font-weight:bold; -webkit-background-clip: text; -webkit-text-fill-color: transparent; -webkit-animation: gradientName 8s cubic-bezier(0, 0, 1, 0.99) infinite; text-shadow: 0.4px 1px 1px #82eefd;"><span class="hoveremphasis">[[User:Moonwatcher x Qibli|DigitalKandra/DK]] - [[Message_Wall:Moonwatcher x Qibli|Message Wall]] | [[Special:Contributions/Moonwatcher_x_Qibli|Contribs]] | [[:w:c:community:Template:User:Moonwatcher_x_Qibli/Guestbook|Guestbook]] | [[w:c:community:Help:Fandom Stars|Fandom Stars member]]</span></span> 20:24, 16 February 2024 (UTC)

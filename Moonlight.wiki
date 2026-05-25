@@ -1,0 +1,19 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Nynaeve al'Meara
+| gender=Mare
+| color=White
+| appeared={{tgs|44}}
+}}
+{{dablink|For other uses of the word "moon," see [[Moon]].}}
+'''Moonlight''' is the name of a horse in [[Tear]], riden by [[Nynaeve al'Meara]].
+
+==Appearance==
+Moonlight is a pure white mare.
+
+==Activities==
+Moonlight carries Nynaeve to the meeting between [[Rand al'Thor]] and [[Hurin]].

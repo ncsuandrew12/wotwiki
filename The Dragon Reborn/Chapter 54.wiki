@@ -1,0 +1,74 @@
+{{quote|I'm coming. I'll get you out or die! I promise it!| [[Mat]]'s thoughts after entering the Stone to rescue [[Egwene]], [[Nynaeve]] and [[Elayne]]}}
+{{dablink|For other uses of the word "stone," see [[Stone]].}}
+{{summary | book=3 |
+|chapter=54
+|title=Into the Stone
+|icon=Dice
+|setting=[[Tear]], [[Stone of Tear]], ''[[Tel'aran'rhiod]]'
+}}
+
+==Summary==
+:{{pov|[[Matrim Cauthon]]}}
+
+[[Mat Cauthon|Mat]] has been going around the [[Stone of Tear]] all evening, trying to find the best way to get in. The best path he has found so far is to go from a rooftop to the city wall which connects to the Stone's wall. He sees someone scaling the wall of the Stone and is worried that the man is going to get caught and trigger the alarm.{{ref|This is Rand, who is ahead of Mat in entering the Stone as we see in the second part of the chapter.}} He has his fireworks bundle and a tin box with a coal in it. He is examining the city wall trying to find the best way to climb it when he feels a blade at his throat. He fights the wielder briefly but is outnumbered and finds himself surrounded by spears. He looks at the other people and sees them wearing black veils which makes them [[Aiel]]. [[Juilin]] arrives and questions the reason the Aiel are on the rooftops but the Aiel respond to him with the same question. Juilin says he is trying to right a wrong he did someone. Mat admits he wants to rescue some friends in the Stone. The leader of the Aiel says he is [[Rhuarc]], and means no harm as long as they do not raise the alarm. Mat asks whether the Aiel will help him since they seem interested in the Stone too, but Rhuarc declines. The Aiel leave and head toward the Stone.
+
+[[File:Race_to_the_Stone_by_Forbis.jpg|thumb|left|200px|Race to the Stone by Forbis]]
+
+Juilin asks whether the friends are three women, which Mat confirms. He says he can help Mat get the women out by pretending Mat is a thief he is bringing to the jail. Mat decides to create a diversion with the fireworks first. With the Aiel heading into the stone via the city wall section that he was looking at before, he heads in the opposite direction and finds an arrow slit. It is too small for him to fit through but he is able to wedge his bundle of fireworks in it and sets it off. The explosion is much larger than he expected and there is now a substantial hole where the arrow slit used to be, big enough to enter the Stone. He decides this is a better bet than hoping Juilin doesn't betray him in the proposed captured thief ruse, but when he gets inside he realizes his mistake because the area is now swarming with [[Defenders of the Stone]]. He intended this to be a diversion after all and the Tairens are indeed diverted to the area. There are too many for Mat until Juilin jumps through the hole in the wall too and the Defenders are sandwiched between them and are quickly subdued. Juilin is in shock that he actually attacked Defenders and thinks he will be executed; then he questions Mat about what happened, thinking that Mat may be a male channeler.<ref>Juilin is likely experiencing Mat's Ta'veren nature. </ref> Mat says only that it was fireworks and tells Juilin to lead him to the jail cells. The alarm gong begins to sound.
+
+:{{pov|[[Rand al'Thor]]}}
+
+[[Rand al'Thor|Rand]] hears the alarm gongs after Mat sets off his fireworks but cannot pay attention to them. ''[[Callandor]]'' is close now and one way or another he will be done with being hunted, done with the dreams taunting and baiting him.
+
+:{{pov|[[Egwene al'Vere]]}}
+
+[[Egwene al'Vere|Egwene]] wakes up and recalls that she was dreaming about Rand and Mat shouting that he is coming. She sees the cell walls and reacts badly, but [[Nynaeve al'Meara|Nynaeve]] and [[Elayne Trakand|Elayne]] are there to soothe her. She remembers being beaten by [[Liandrin]] when she refused to submit. She asks Elayne if they are still [[Shielding|shielded]]. Nynaeve says she tried to [[Healing|Heal]] them but could not. [[Amico]] is sitting outside the door maintaining the shield. Egwene remembers Liandrin saying they are bait. She remembers her dreams of Rand and ''Callandor'' and realizes they are bait for Rand. She is puzzled though by her dreams of Mat and [[Perrin]].
+
+Egwene says she still has the [[twisted stone ring]] and can use the [[Tel'aran'rhiod|World of Dreams]] to get them out. Nynaeve is skeptical and concerned, since the last time Egwene went there she ran into the [[Black Ajah]]. Egwene actually hopes to find the Black Ajah this time though, perhaps she can fight them there because they cannot fight in the real world currently. She drifts to sleep and in ''Tel'aran'rhiod'' she is not shielded. She goes to the Heart of the Stone and finds [[Joiya Byir]] and shields her. After tying off the shield, she goes to see if she can find a way to get them out of the cells.
+
+:{{pov|[[Perrin Aybara]]}}
+
+[[Perrin Aybara|Perrin]] and [[Hopper]] are in the Stone of Tear in the wolf dream. They kill guards, who are surprised to see wolves, in a corridor and come to a locked door. Perrin becomes a man again and uses his hammer to break the lock on the door. He finds [[Faile]] inside who is glad to see him. He smashes the bolts holding her but she disappears. Hopper says the wolf dream is different from the real world and the two continue their hunt with Perrin remaining in human form.
+
+:{{pov|[[Matrim Cauthon]]}}
+
+Mat is fighting [[High Nobility of Tear|High Lord]] [[Darlin]] and is not finding any openings. Finally Mat attacks all out and is able to sweep his feet out, then crack him on the head. Mat thinks he sees Rand trotting through a hallway but believes he must be mistaken. Mat hits another High Lord in the head by accident when putting his staff back on his shoulder. He and Juilin are looking for a shortcut passage the High Lords use to get to the jail cells.
+
+==Characters==
+*[[Mat]]
+*[[Rand]]
+*[[Nynaeve]]
+*[[Juilin Sandar]]
+*[[Rhuarc]]
+*[[Gaul]]
+*[[Egwene]]
+*[[Elayne]]
+*[[Joiya Byir]]
+*[[Perrin]]
+*[[Hopper]] (wolf)
+*[[Faile]]
+*[[Darlin Sisnera]]
+
+===Referenced===
+*[[Thom]]
+*[[Aludra]]
+*[[Liandrin]]
+*[[Amico Nagoyin]]
+
+==Places==
+*[[Tear]]
+*[[Stone of Tear]]
+*''[[Tel'aran'rhiod]]''
+
+===Referenced===
+*[[Caemlyn]]
+*[[Tar Valon]]
+
+==Items==
+*[[Twisted stone ring]]
+
+===Referenced===
+*''[[Callandor]]''
+
+{{notes}}
+{{DISPLAYTITLE:''Into the Stone''}}

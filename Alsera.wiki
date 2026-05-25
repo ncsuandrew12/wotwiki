@@ -1,0 +1,20 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| clan=Nakai
+| sept=Unknown sept
+| status=Alive
+| mentioned={{tsr|49}}
+| lastmentioned={{tsr|49}}
+| living=tsr
+}}
+'''Alsera''' is the Wise One to [[Bruan]], clan chief of the [[Nakai]] [[Aiel]].{{ref|{{twotc}}, Alsera}}
+
+== Activities ==
+She informs [[Seana]] through [[Dreamwalking]] that the Nakai Aiel will run all the way from [[Shiagi Hold]] to [[Alcair Dal]] to get there on time.{{Ref/book|4|49}}
+[[Category:Dreamwalkers]]
+
+{{notes}}

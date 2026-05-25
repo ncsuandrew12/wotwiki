@@ -1,0 +1,24 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=200px
+| nationality=Andoran
+| status=Alive
+| gender=Male
+| affiliation=Logain Ablar
+| rank=Soldier (Asha'man)
+| occupation=Asha'man
+| appeared={{tom|46}}
+| lastappeared={{tom|46}}
+| living=tom
+}}
+'''Trost''' is a [[Two Rivers]] youth who now resides in the [[Black Tower]]. He is a Soldier within the [[Asha'man]].
+
+== Activities ==
+Trost is part of a group of Two Rivers lads who can [[channel]] and are recruited by the Black Tower. He is part of a team of mostly Two Rivers channelers who are clearing land within the Black Tower with ''[[saidin]]''. He inquires to [[Androl Genhald]] on the status of [[Logain Ablar]] and his team.
+
+== Trivia ==
+* Trost is named for Michael Trostler, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Two Rivers (people)]]
+[[Category:Channelers]]
+[[Category:Characters named after fans]]

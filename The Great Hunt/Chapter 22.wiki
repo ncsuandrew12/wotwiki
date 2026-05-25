@@ -1,0 +1,80 @@
+{{quote|A young wolfhound must meet his first wolf someday, but if the wolf sees him as a puppy, if he acts the puppy, the wolf will surely kill him. The wolfhound must be a wolfhound in the wolf's eyes even more than in his own, if he is to survive.| [[Lan]] to [[Moiraine]] on why he helped [[Rand]]}}
+{{dablink|For other uses of the word "watcher," see [[Watcher]].}}
+{{summary|book=2
+|chapter=22
+|icon=dagger
+|title=Watchers
+|setting=[[Tifan's Well]]
+}}
+
+==Summary==
+:{{pov|[[Moiraine Damodred]]}}
+
+[[Moiraine Damodred|Moiraine]] sits surrounded by books and scrolls, frustrated that nothing is happening as she expects. She and [[Lan]] are in a town called [[Tifan's Well]], in [[Arafel]], where [[Adeleas]] and [[Vandene]] live. The two aged [[Aes Sedai]] are sisters who retired from the White Tower a long time ago, intending to write the history of the world from before the Breaking to present times. The villagers do not realize they are Aes Sedai and think they are only old village healers. Moiraine is here because the sisters have the greatest collection of scrolls and books outside of the [[White Tower|Tower]] library. Returning to the Tower now would cause Moiraine lots of problems, so this is the next best thing.
+
+Moiraine cannot find what she is looking for which causes her to reminisce. She talks to Lan about their first meeting despite having said that she would never speak of it again. She asks Lan if he has ever regretted being bonded, but he says no. She tells Lan that in the event of her death, his [[Warder]] bond will be passed to [[Myrelle]], a [[Green Ajah|Green]] sister. She will not allow him to waste his life avenging her or going back to pointlessly killing [[Trolloc]]s in the [[Great Blight|Blight]] until he dies. Moiraine thinks her death is increasingly likely as events approach [[Tarmon Gai'don]]. Moiraine says that Myrelle will only keep his bond until she finds someone more suitable. He is not happy about this, saying he won’t be passed around like a lapdog. Moiraine won't tell Lan who she intends to end up with his bond, but indicates it may be a newly raised Aes Sedai who will need guidance from a wise Warder.
+
+Moiraine asks again if Lan regrets his bonding, given that she can give him to whomever she wishes. Lan asks if the entire thing is a test after all. Moiraine presses Lan and asks him about why he helped [[Rand al'Thor|Rand]] prepare for the meeting with the [[Amyrlin Seat|Amyrlin]]. Lan says that he helped Rand stand up to the Amyrlin to make a strong first impression, so that he would survive being manipulated by Aes Sedai. He then backtracks his words, saying that he still believes Moiraine is doing the right thing, then blames it on ''[[ta'veren]]''. Moiraine sends Lan out of the room, saying she needs to think. Moiraine knows Lan is in love with [[Nynaeve al'Meara|Nynaeve]] and thinks he helped Rand because of those loyalties. She expects Lan to ask her to release him from the bond sooner or later.
+
+Vandene comes in with tea and asks if Moiraine found what she was looking for. She hasn't and Vandene looks at the documents Moiraine has around her. Moiraine is researching the [[Karaethon Cycle|Prophecies of the Dragon]] including the original in [[Old Tongue]], the [[Horn of Valere]], the [[The Watchers Over the Waves|Watchers Over the Waves]], [[Shadar Logoth]] and the [[Forsaken]], among others. Vandene remembers that Moiraine asked for privacy in her research and turns to leave. But Moiraine decides to ask her questions, as even though she is Green Ajah, she has learned much of history due to spending time with her sister, a [[Brown Ajah|Brown]]. Vandene says that there is no direct link between the [[Dragon]] and the Horn of Valere in the Prophecies; the Horn must be found before Tarmon Gai'don but that is all. They discuss the intricacies of translating the Prophecies, as Vandene believes that one passage indicates that the Dragon Reborn will appear somewhere above [[Toman Head]]. She mentions that [[Mordeth]] lives in [[Shadar Logoth]], waiting for a soul to steal. Moiraine then asks about [[Lanfear]]. Vandene only knows that Lanfear was linked with Lews Therin but Moiraine knows that also. Vandene then asks if Moiraine knows about the Dragon being reborn, but Moiraine only says that she knows as much as the Amyrlin does.  
+
+Moiraine goes out to the garden, finding no answers inside. A [[Draghkar]] is waiting for her. The Draghkar hums to her seductively, stopping her from channeling. Just as it is about to kill her, Lan and Vandene’s Warder [[Jaem]] kill it. Adeleas comes over and is relieved to see that Moiraine is unharmed, then sees to Jaem. Adeleas cannot believe that [[Shadowspawn]] managed to get so close without any of them detecting it, but Moiraine tells her it must have been warded. Adeleas says only a sister could do that, before realizing what Moiraine is implying - the [[Black Ajah]] must have summoned and warded the Draghkar. Moiraine must depart before she endangers the two sisters further. She leaves letters with Vandene to send to the Tower as Adeleas disposes of the body before any villagers can see it.
+
+==Characters==
+*[[Moiraine]]
+*[[Lan]]
+*[[Vandene]]
+*[[Jaem]]
+*[[Adeleas]]
+
+===Referenced===
+*[[Myrelle]]
+*[[Rand]]
+*[[Siuan]] - as ''Amyrlin''
+*[[Nynaeve]]
+*[[Anaiya]]
+*[[Mazrim Taim]]
+*[[Logain]]
+*[[Mordeth]]
+*[[Yurian Stonebow]]
+*[[Lanfear]]
+*[[Lews Therin]]
+
+==Groups==
+*[[Aes Sedai]]
+*[[Warders]]
+===Referenced===
+*[[Children of the Light]]
+*[[Forsaken]]
+*[[Darkfriends]]
+*[[Black Ajah]]
+*[[The Watchers Over the Waves|Watchers Over the Waves]]
+
+==Places==
+*[[Tifan's Well]]
+*[[Arafel]]
+
+===Referenced===
+*[[Borderlands]]
+*[[Chachin]]
+*[[Tar Valon]]
+*[[Blight]]
+*[[Fal Dara]]
+*[[Emond's Field]]
+*[[Shadar Logoth]]
+*[[Illian]]
+*[[Toman Head]]
+*[[Arad Doman]]
+*[[Saldaea]]
+*[[Shayol Ghul]]
+*[[Dragonmount]]
+
+==Items==
+*[[Horn of Valere]]
+*[[Santhra's book on the Forsaken]]
+
+==Events==
+*[[Breaking of the World]]
+*[[Tarmon Gai'don]]
+
+{{DISPLAYTITLE:''Watchers''}}

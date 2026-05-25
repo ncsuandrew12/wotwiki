@@ -1,0 +1,34 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Alive
+| occupation=Farmer
+| gender=Male
+| appeared={{teotw|31}}
+| lastappeared={{teotw|31}}
+| living=teotw
+}}
+
+'''Master Grinwell''' is a farmer who lives between [[Whitebridge]] and [[Caemlyn]].
+
+==Appearance==
+
+He is described as being a sturdy man.
+
+==History==
+
+He is the father of nine children, the eldest being [[Else Grinwell]].
+
+==Activities==
+
+Master Grinwell shelters [[Rand al'Thor]] and [[Matrim Cauthon]] when they're on their way to Caemlyn in exchange for work in the farm. He loans them clothes and offers them the barn for sleeping, but [[Mistress Grinwell]] convinces him to give them Else's room.{{ref/book|1|31}}
+
+At night, Rand and Mat play with [[Thom|Thom's]] instruments for the family.
+
+==In the television series==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Master Grinwell}} is played by actor {{TVlink|Pasha Bocarie}}.
+
+{{notes}}
+
+{{DEFAULTSORT:Grinwell, Master}}

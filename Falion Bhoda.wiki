@@ -1,0 +1,63 @@
+{{ character | image=WhiteBlack.png
+| imagesize=250px
+| ewot=Falion
+| ajah=White
+| nationality=Kandori
+| affiliation=Black Ajah
+| occupation=Dreadlord
+| rank=Aes Sedai
+| gender=Female
+| status=Dead
+| death={{Ne|1000}}
+| hair=Dark, glossy
+| appeared={{tfoh|18}}
+| lastappeared={{amol|23}}
+}}
+
+'''Falion Bhoda''' was an [[Aes Sedai]] of the [[White Ajah]], who was also [[Black Ajah]]. She was part of [[Liandrin's Group of Black Sisters|Liandrin's group of Black sisters]] and became a Dreadlord of the Shadow before the Last Battle.{{Ref/book|14|23}}
+
+== Appearance and Personality==
+Falion was a cold, long-faced [[Kandori]] with dark, glossy hair. She stands 5'5 tall. 
+
+She was willing to use the Power to torture anyone, even to death, but was dispassionate about it. She only cared whether they gave her the answers she wanted.
+
+==Strength and Abilities==
+Falion was [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai, with a [[One Power]] level of {{opsl|23}}. While she is strong enough to be able to [[Traveling|Travel]], it's not certain she would have had the opporunity to learn from any Black Sister we know can Travel.
+
+==History==
+Born in {{ne|873}}, she went to the White Tower in {{ne|889}}. She spent seven years as a novice and six as Accepted, being raised Aes Sedai in {{ne|902}}.
+
+She ran away to Ebou Dar as a novice and knows of the existence of the Wise Women of Ebou Dar. Her brief stay in Ebou Dar was not pleasant. she was caught and returned to the Tower.
+
+Though outwardly cool, inside she was full of anger and slights. She was contemptuous of others' faults, but ignored her own. She considered only other Whites as good company, and even then could find fault with any of them, particularly in their logic. She even thought the Forsaken behaved illogically.
+
+== Activities ==
+After fleeing the White Tower in Liandrin's group, they went to [[Tear]] and worked for the [[Forsaken]] [[Be'lal]]. They captured [[Elayne]], [[Egwene]] and [[Nynaeve]] and tried to trap [[Rand al'Thor]] just after he released ''[[Callandor]]''. After this fails she fled to [[Tanchico]] to try and steal the [[Domination Band|male ''a'dam'']] from the [[Panarch]]'s [[Panarch's Palace|Palace]]. This plan was also foiled by [[Elayne Trakand]] and [[Nynaeve al'Meara]].
+
+After this, they reached Amadicia. There, Falion was sent by [[Moghedien]] to [[Ebou Dar]], along with [[Ispan Shefar]], to find a stash of ''[[angreal]]'' and ''[[ter'angreal]]'' hidden there.{{ref/book|5|18}} 
+
+They did not manage to retrieve the stash, and eventually came to believe it did not exist. They confronted Elayne and Nynaeve over the Bowl of Winds; they failed, and Ispan was captured. Falion was shielded by a Forsaken (probably by Moghedien under the control of Moridin) and then given to [[Lady Shiaine]] as a punishment. The shield was set in such a way that it would dissolve over time. Lady Shiaine tortured her and kept her as a servant and allowed [[Daved Hanlon]], another [[Darkfriend]], to use her for sex as he willed. Shiaine was happy to have an Aes Sedai to command, though only punished Falion because she herself would have been punished for disobeying orders.
+
+Meanwhile Falion recovered some of her ability to channel. So Falion and Hanlon come to an agreement of exchanging information with each other, while keeping up appearances that Hanlon was using her, though he was not. Hanlon himself did not want an Aes Sedai angry at him. 
+
+This ruse was discovered however and [[Murellin]] was allowed rights over her as well — though Falion mentioned that this arrangement was only when Hanlon was not present. {{ref/book|10|15}} Falion asked Hanlon for something that would make Murellin sleep through the night as well.
+
+=== Captured by Elayne ===
+After her shield dissolved, Falion was involved in the unsuccessful attempt to kidnap [[Elayne Trakand]]. She was captured, along with Lady Shiaine and the other Black Ajah sisters involved, and was held in the [[Royal Palace of Andor|Royal Palace]] dungeons in [[Caemlyn]].{{ref/book|11|33}}
+
+=== The [[Last Battle]] ===
+She was rescued from her cell by [[Mellar]].{{ref/book|13|23}} She managed to escape from Caemlyn and was at large until she showed up in the valley of [[Thakan'dar]] with [[Duhara Basaheen]]. Falion fought in a circle with Duhara, led by [[Hessalam]], and faced a circle led by [[Aviendha]]. Duhara and Falion were both killed with the [[One Power]].{{ref/book|14|23}}
+
+=== Parallels ===
+
+* Her first name, Falion, is noticeably similar to {{Wiki|The Fallon Blood|the Fallon trilogy}}, also written by [[Robert Jordan]]
+* Her surname, Bhoda, bears resemblance to
+** ''bhoda'', the Bengali word for "God"
+** ''boda'', the Spanish word for "wedding"
+
+{{notes}}
+{{DEFAULTSORT:Bhoda, Falion}}
+[[Category:POV character]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

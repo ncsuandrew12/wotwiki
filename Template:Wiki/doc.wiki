@@ -1,0 +1,19 @@
+Use this template to create links to Wikipedia pages.
+
+{| class="wikitable"
+| Code
+| Result
+|-
+| <nowiki>{{Wiki}}</nowiki>
+|         {{Wiki}}
+|-
+| <nowiki>{{Wiki|Robert Jordan}}</nowiki>
+|         {{Wiki|Robert Jordan}}
+|-
+| <nowiki>{{Wiki|Robert Jordan|The Creator}}</nowiki>
+|         {{Wiki|Robert Jordan|The Creator}}
+|-
+| <nowiki>{{Wiki|This article does not exist}}</nowiki>
+|         {{Wiki|This article does not exist}}
+|-
+|}

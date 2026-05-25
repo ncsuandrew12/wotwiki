@@ -1,0 +1,35 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| gender=Male
+| affiliation=The Dragon Reborn
+| status=Dead
+| eyes=Blue
+| title=[[High Lord of Tear]]
+| death={{ne|1000}}
+| mentioned={{tsr|21}}
+| appeared={{tfoh|46}}
+| lastappeared={{tpod|24}}
+}}'''Maraconn''' was a [[High Lord]] of [[Tear]].{{ref|{{twotc}}, Maraconn}}
+
+== Appearance ==
+He had blue eyes and thin lips.
+
+== Activities ==
+===To Cairhien===
+He was sent with the army of Tear to restore order to [[Cairhien]].{{ref/book|4|21}}
+
+=== Fealty ===
+After the battle with the [[Shaido]] in [[Cairhien]], Maraconn, along with the High Lords [[Aracome]], [[Gueyam]], [[Hearne]], [[Simaan]] and [[Torean]], swore fealty to [[Rand al'Thor]].
+
+He went with Rand when Rand tried to deal with the [[Illian]] rebels loyal to Lord Brend. He rode with Rand when Rand's forces attacked the invading [[Seanchan]] just outside Illian. He followed [[Semaradrid]] into the final assault on the Seanchan. It is assumed that he does not survive this battle.
+
+== Viewing ==
+[[Min]] had a viewing that Aracome, Maraconn and Gueyam were going to die bloody deaths in battle. This viewing has been fulfilled for all of them, with Maraconn dying in a battle with the [[Seanchan]].
+
+In TWoTC it is stated instead that Maraconn died fighting in the [[Last Battle]].
+
+{{notes}}
+[[es:Maraconn]]
+[[Category:Nobility]]

@@ -1,0 +1,9 @@
+== Licensing ==
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| ImageType2              = Fan art
+| Description             = [[Silviana Brehon]]
+| Source                  = [http://rosemuse.deviantart.com/art/Light-Part-II-155687917 DeviantArt]
+| Artist                  = Kayley H.
+}}

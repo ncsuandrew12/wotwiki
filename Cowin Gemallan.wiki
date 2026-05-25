@@ -1,0 +1,30 @@
+{{ character
+| image=WoT324.jpg|thumb|Cowin Gemallan from WoT comic
+| imagesize=200px
+| status=Dead
+| nationality=Malkier
+| rank=Lord
+| affiliation=Darkfriend
+| gender=Male
+| mentioned={{teotw|47}}
+| lastmentioned={{kod|6}}
+}}
+'''Cowin Gemallan''', aka '''Cowin Fairheart''', was a nobleman of [[Malkier]], one of the Great Lords and a rightful candidate of the throne of Malkier. A hero almost as well loved as [[al'Akir Mandragoran]] and deeply jealous of al'Akir. He was a [[Darkfriend]].{{ref/book|1|47}}
+
+== History ==
+When the Great Lords had cast the rods to choose their King, only two separated him from Akir and he never forgot that he could have been the King instead of Akir.  
+
+[[Breyan Mandragoran|Breyan]], wife of [[Lain Mandragoran]] was also deeply envious of al'Akir. She dared the King's brother to ride far behind the Blight, deep into the [[Blasted Lands]] maybe even into [[Shayol Ghul]] where he died. Breyan blamed al'Akir for her husband's death and as revenge, she plotted with Fairheart to seize the [[Seven Towers]] and have the throne for her son, [[Isam Mandragoran|Isam]].{{ref|{{twotc}}, Cowin Gemallan}}
+
+<nowiki> </nowiki>Fairheart moved the soldiers back from the Borderland, leaving only bare garrisons. As a consequence [[Trollocs]] poured into Malkier like a flood. People of Malkieri was so broken by the death of Lain that they could not defend their land against the Shadow and were pushed back into the heartland. 
+
+After his treachery was revealed, Fairheart was captured by the young [[Jain Charin]], who was already called Farstrider {{ref/book|11|6}} by then. The Great Lords wanted to have Geamallan beheaded, but al'Akir faced him in a single combat instead, and slew him. It is said that al'Akir wept when he killed Cowin. Some say he wept for a friend who had given himself to the Shadow, and some say for Malkier. But the first peal of the doom of the Seven Towers had already been struck.
+
+== Family ==
+He had a sister called [[Edeyn ti Gemallen Arrel]] who was [[Lan Mandragoran]]'s [[carneira]].
+
+{{notes}}
+{{DEFAULTSORT:Gemallan, Cowin}}
+
+[[es:Cowin Gemallan]]
+[[Category:Nobility]]

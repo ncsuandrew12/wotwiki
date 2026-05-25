@@ -1,0 +1,26 @@
+{{Character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| nationality=Domani
+| build=Boulder-like
+| eyes=Brown
+| hair=Bald 
+| affiliation=Dragon Reborn
+| status=Dead
+| death={{ne|1000}}
+| gender=Male
+| appeared={{cot|p}}
+| lastappeared={{tom|18}}
+| lastmentioned={{tom|32}}
+}}
+'''Rajabi''' was a [[Dragonsworn]] leader originally from [[Arad Doman]]. He was an officer under [[Rodel Ituralde]].
+
+== Appearance ==
+He had a bull-neck. He had brown eyes, a wide nose and a bulbous chin. He was completely bald and resembled a boulder. He later lost a leg to battle and replaced it with a peg.
+
+== Activities ==
+He met with Ituralde and the other Dragonsworn leaders, in Arad Doman under the [[White Ribbon]]. They agreed to attack the [[Seanchan]] together on the [[Almoth Plain]]s.
+
+He was with Ituralde's force when they destroy the Seanchan force outside [[Darluna]]. He was also with Ituralde when they decide to make their last stand in an [[Ogier]] ''[[stedding]]'' in Arad Doman. While there, they were visited by [[Dragon|The Dragon Reborn]] who offers them a way out by serving him instead.
+
+He is part of Ituralde's force that is sent to [[Maradon]] to engage [[Shadowspawn]]. He lost his leg in the fighting but refused to leave the battle. He leads a group of men who recover the wounded during a lull in the fighting. He was later killed by a [[Draghkar]] who was pretending to be a dead body thrown into the camp by Shadowspawn trebuchets.

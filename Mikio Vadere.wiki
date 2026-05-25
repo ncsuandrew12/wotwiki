@@ -1,0 +1,43 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewot=
+| ajah=Green
+| nationality=Kandori
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| hair=Black
+| build=Plump
+| status=Alive
+| mentioned=The Wheel of Time Companion
+| living=twotc
+|birth = 907 NE|eyes = Dark Brown}}
+'''Mikio Vadere''' is an [[Aes Sedai]] of the [[Green Ajah]]{{ref/book|twotc}}.
+
+== Appearance and Personality ==
+Mikio is 5'5" tall, and plump, with a round face, black hair worn short of her shoulders and dark brown eyes. Physically quite strong, she has a fairly ordinary appearance. 
+
+Her eyes are the most striking thing about her; they are intent and inquisitive always; she has a way of noticing small things that escaped others’ notice. 
+
+==Strength and Abilities==
+Mikio is of [[Strength in the One Power among Aes Sedai|high average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|24}}. She is stronger than the minimum stated strength needed to [[Traveling|Travel]].
+
+== History ==
+Mikio is 93 years old. She was born in {{ne|907}} and went to the [[White Tower]] in {{ne|923}}. After spending twelve years as a [[novice]] and eleven years as [[Accepted]], she was raised to the [[shawl]] in {{ne|946}}.
+
+==Activities==
+She has allied herself with the [[Salidar Aes Sedai]] and was one of the [[ten ferrets]] sent to the [[White Tower]] to spread the rumour that the [[Red Ajah]] set [[Logain Ablar]] up as a [[False Dragon]].{{ref/book|7|8}}
+
+When [[Zerah Dacan]] is found out to be a Salidar spy, she gives up Mikio's name as well. Mikio was so part of the group that was trying to hunt down the [[Black Ajah]]{{ref/book|8|26}}. When [[Meidani Eschede]] is freed from her oath of obedience, it can be assumed Mikio is as well.
+
+==Trivia==
+Mikio is described only in "The Wheel of Time Companion", she is never mentioned in the main books of the Wheel of Time.
+
+{{notes}}
+{{DEFAULTSORT:Vadere, Mikio}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Ferrets]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

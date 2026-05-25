@@ -1,0 +1,52 @@
+{{ character 
+| image=WhiteBlack.png
+| imagesize=250px
+| ajah=White
+| nationality=Kandori
+| gender=Female
+| affiliation=Black Ajah
+| occupation=Dreadlord
+| rank=Aes Sedai
+| hair=Black, streak of white
+| status=Alive
+| mentioned={{tdr|25}} 
+| appeared={{tdr|51}}
+| lastappeared={{amol|42}}
+| lastmentioned={{amol|42}}
+| living=amol
+}}
+'''Rianna Andomeran''' is an [[Aes Sedai]] of the [[White Ajah]], but also secretly a member of the [[Black Ajah]]. She was part of [[Liandrin's Group of Black Sisters|Liandrin's group of Black sisters]].
+
+== Appearance and Personality ==
+Rianna is black haired with a white streak above her left ear. 5'4 tall, she had a coldly arrogant face.
+
+==Strength and Abilities==
+Rianna has a strength in the [[One Power]] of {{opsl|27}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+She has the [[Talent#Blood boiling|ability to cause someone's blood to boil]], or to make one's heart to stop, killing them. Although this Talent is closely linked with [[Healing]], her potential Healing skills are unknown.
+
+==History==
+She is from [[Kandor]]. Born in {{ne|924}}, she went to the White Tower in {{ne|940}}. She spent nine years as a novice and seven as Accepted, becoming Aes Sedai in {{ne|956}}.
+
+==Activities==
+=== Fleeing the Tower ===
+When the Liandrin's group of Black sisters left the [[White Tower]], they took several ''[[ter'angreal]]'' with them. They first fled to [[Tear]], but they are followed by [[Elayne Trakand]], [[Egwene al'Vere]], and [[Nynaeve al'Meara]]. They captured the three pursuing them,{{ref/book|3|51}} but [[Matrim Cauthon]] rescued them while he aided [[Rand al'Thor]] in taking the [[Stone of Tear]].
+
+=== Tanchico and Amador ===
+Rianna and the others then fled to [[Tanchico]], but [[Joiya Byir]] and [[Amico Nagoyin]] were captured. After arriving, they lived in a house that used to belong to a [[Darkfriend]] merchant. They then gained access to the [[Panarch]]'s [[Panarch's Palace|Palace]] and held the newly invested [[Amathera Aelfdene Casmir Lounault]] captive. Unbeknownst to them, they were followed again by Elayne and Nynaeve, who had been told where they were going by Amico. Elayne and Nynaeve freed Amathera and left as a mob gathered around the palace.
+
+Somehow, Rianna and the rest escaped and went to [[Amador]]. There, [[Moghedien]] took over the group that Liandrin had been leading. Rianna accepted her instructions stolidly, with just a touch of relief in her eyes. Her mission was unknown.{{ref/book|5|18}}
+
+=== The [[Last Battle]] ===
+Regardless of what her task was or if it was completed, Rianna appears again at the [[Field of Merrilor]] in [[Alviarin Freidhen]]'s company. Together with Alviarin and a number of Darkfriend [[Asha'man]], she is lured into an [[Ogier]] ''[[stedding]]'' and taken captive.
+
+She is presumed to be alive and kept in [[Stedding Sholoon|''Stedding'' Sholoon]] by [[Elder|Eldest]] [[Lindsar]].
+
+{{notes}}
+{{DEFAULTSORT:Andomeran, Rianna}}
+
+[[es:Rianna Andomeran]]
+[[Category:Dreadlords]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

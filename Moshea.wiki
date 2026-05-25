@@ -1,0 +1,17 @@
+{{ character 
+| image=Leaves.png
+| imagesize=120px
+| status=Alive
+| nationality=Tuatha'an
+| gender=Male
+| mentioned={{tsr|41}}
+| lastmentioned={{tsr|41}}
+| living=tsr
+}}
+
+'''Moshea''' is a ''[[Tuatha'an]]'' in the band that is lead by Raen.
+
+== Activities ==
+Moshea is in the Two Rivers, replacing a wheel on a wagon. Raen goes to check on his progress.{{ref/book|4|41}}
+
+{{notes}}

@@ -1,0 +1,29 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|578}}
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| ajah=Yellow
+| affiliation=White Tower
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Alvera Ramosanya''' was an [[Aes Sedai]] of the [[Yellow Ajah]] who was raised to the [[Amyrlin Seat]] in {{Ne|549}}.
+
+==History==
+Alvera held the position for twenty-nine years till her death in {{Ne|578}}. She was [[Eldaya Tolen]]'s successor and [[Shein Chunla]]'s predecessor.{{ref/book|bwb|24}}
+
+During her reign, the [[Aiel]] gave the [[Cairhienin]] a [[chora]] sapling in gratitude for the water their ancestors were given by those of the Cairhienin.{{ref/book|bwb|14}}
+
+Though she tried to establish some measure of leadership, she was a weak Amyrlin. The [[Hall]] had been in control of the [[White Tower]] with her two predecessors and chose Alvera for that purpose. She died at a young age, she was 248. There is a possibility that she was actually murdered in an attempt to assert some authority.{{ref/book|twotc|Alvera Ramosanya}}
+
+{{notes}}
+{{DEFAULTSORT:Ramosanya, Alvera}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

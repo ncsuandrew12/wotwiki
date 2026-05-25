@@ -1,0 +1,58 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Ghealdanin
+| rank=Aes Sedai
+| affiliation=White Tower
+| status=Alive
+| build=Willowy
+| mentioned={{ns|4}}
+| appeared={{wh|p}}
+| lastappeared={{cot|p}}
+| living=cot
+}}'''Desandre Alraed''' is a [[Ghealdan|Ghealdanin]] [[Aes Sedai]] of the [[Yellow Ajah]].
+
+==Appearance==
+She is willowy, with brown hair and large brown eyes. She wears her Great Serpent ring on her right hand.{{ref/book|9|p}}
+
+== Strength and Abilities ==
+Desandre is [[Strength in the One Power among Aes Sedai|strong]] in the [[One Power]], with a strength level of {{opsl|21}}.{{ref/book|twotc|Desandre|comp}} She is the strongest among the fifty-one Aes Sedai captured at the [[Black Tower]], with only [[Lemai]] being as strong.{{ref/book|9|p}}
+
+==History==
+Assuming she enrolled between the age of 14 and 18, the earliest she could have been born was 947 NE and latest was 958 NE. 
+
+She spent six years as [[novice]] and seven as [[Accepted]].   
+
+The earliest she could have become a novice was 965 NE, while the latest would be 972 NE.  
+
+The earliest she could have become Accepted was 971 NE, while the latest would be 978 NE.  
+
+She was an [[Accepted]] in the [[White Tower]] in 978-979 NE during the [[Aiel War]]  when the [[Dragon]] was reborn, she was sent out of the White Tower to collect the names of newborn children for the bounty.{{ref/book|0|4}}
+
+==Activities==
+She sides with [[Elaida's White Tower]] after the coup.
+
+She is one of fifty-one sisters that took part in the [[attack on the Black Tower]].{{ref/book|7|p}}
+
+Elaida abandons the Aes Sedai sent to capture the Black Tower, including Desandre, at [[Alviarin]]'s suggestion. {{ref/book|7|32}}
+
+They were all captured and bonded involuntarily by the [[Asha'man]]. To whom Desandre was bonded is unknown.{{ref/book|8|26}}
+
+[[Gabrelle]] convinces Toveine that they must publicly submit themselves to Lemai and Desandre, the two sisters who stand the highest among the captured Aes Sedai; Gabrelle says this is necessary to ensure that the captured Aes Sedai remain united.{{ref/book|9|p}}
+
+She and Lemai become the leaders of the captive Aes Sedai, although Lemai is "second" to her due to spending longer as Accepted.{{ref|{{twotc}}, Lemai Ambani}} They issue orders that all Aes Sedai must achieve cordial relations with their [[Asha'man]] captors. According to [[Toveine Gazal]], this is simply a ploy to lull the men into becoming amenable to them.{{ref/book|10|p}}
+
+Toveine dislikes taking any orders from them.{{ref/book|10|p}}
+
+As most Aes Sedai in this group it can be guessed that also Desandre was Turned to the Shadow along her Asha'man.
+
+{{notes}}
+{{DEFAULTSORT:Alraed, Desandre}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:The Turned]]
+[[Category:Aes Sedai]]

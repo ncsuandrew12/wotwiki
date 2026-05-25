@@ -1,0 +1,1 @@
+{{#invoke:Quote/Cacher|get_output}}

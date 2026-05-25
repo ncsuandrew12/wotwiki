@@ -1,0 +1,21 @@
+{{character 
+| image=Flame-icon.svg
+| imagesize=250px
+| ajah=Unknown
+| gender=Female
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| status=Alive
+| mentioned={{tpod|p}}
+| lastmentioned={{tpod|p}}
+| living=tpod
+|affiliation = Unaligned sisters}}
+'''Illeisien''' is an [[Aes Sedai]] of unknown [[Ajah]]. 
+
+== Activities ==
+Illeisien is the leader of five Aes Sedai who accidentally encountered [[Tenobia Kazadi]] on her way out of [[Saldaea]]. She is described as being intent on secrecy - more so then Tenobia herself.
+
+This group is uncommited to any faction - loyalist or rebel - so they are not Red nor Blue Ajah; they accompany Tenobia south.
+[[Category:Unaligned sisters]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

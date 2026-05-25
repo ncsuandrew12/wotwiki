@@ -1,0 +1,21 @@
+{|
+|+
+! Code
+! Result
+|-
+|<code><nowiki>{{5}}</nowiki></code>
+|              {{5}}
+|-
+|<code><nowiki>{{5|p}}</nowiki></code>
+|              {{5|p}}
+|-
+|<code><nowiki>{{5|2}}</nowiki></code>
+|              {{5|2}}
+|-
+|<code><nowiki>{{ref/book|5|2}}</nowiki></code>
+|              {{ref/book|5|2}}
+|}
+
+{{notes}}
+
+<noinclude>[[Category:Template documentation]]</noinclude>

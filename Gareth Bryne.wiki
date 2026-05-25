@@ -1,0 +1,99 @@
+{{featuredicon}}{{character 
+| name=Gareth Bryne
+| image=Wot card teasers siuan gareth by reddera-d3lbakv.jpg
+| imagesize=250px
+| ewot=bryne
+| title=Gaidin
+| nationality=Andoran
+| rank=Captain-General
+| affiliation=White Tower
+| occupation=Warder
+| gender=Male
+| birth={{ne|939}}
+| death={{ne|1000}}
+| status=Dead
+| build=Stocky
+| height=Medium
+| hair=Black, streaked with gray
+| eyes=Dark
+| appeared={{teotw|40}}
+| mentioned={{teotw|35}}
+| lastappeared={{amol|37}}
+| lastmentioned={{amol|37}}
+| living=amol
+}}
+'''Gareth Bryne''' is a former [[Captain-General (Andor)|Captain-General]] of the Queen's Guard in [[Andor]], in which he also served in the capacity of [[First Prince of the Sword]] to Queen [[Morgase Trakand]], although they weren't related. His sigil is three golden stars, each of five rays. The sign of House Bryne is a bull wearing a collar of roses. He is well known as one of the [[Five Great Captains]], the finest generals in the [[Westlands]], as well as a veteran [[blademaster]]. He is bonded to [[Siuan Sanche]], an [[Aes Sedai]] of the [[Blue Ajah]] and former [[Amyrlin Seat]] as her [[Warder]], and is also her husband.
+
+== Appearance ==
+His hair is black, streaked with gray at the temples.
+
+==Background==
+[[File:Bull-icon.svg|left|thumb|200px|Gareth Bryne's Chapter Icon Depicting the Sigil of House Bryne]]
+Little is known of Bryne's early life, save he was born in [[Kore Springs]], a small town in [[Braem Wood]] in the northeast of Andor. His father was a noble, and House Bryne is an old house, though minor. He joined the Queen's Guard in the 950s or 960s NE and rose to the rank of Captain-General during the reign of Queen [[Mordrellen Mantear]]. He served Queen Mordrellen and, after [[Succession Wars#Third Succession War|the Third Succession War]], Queen Morgase Trakand, ably and well. He is typically referred to as an extremely capable and experienced warrior and influential member of the Andoran government, likely a result of resolution of conflicts unmentioned.
+
+==Activities==
+[[File:Gareth.jpg|left|thumb|299x299px|Captain General Gareth Bryne - Portrait by Seamas Gallagher]]
+===In Andor===
+During a dispute over [[Murandian]] raids into the Andoran border, he is severely upbraided by the [[Amyrlin Seat]], [[Siuan Sanche]], in front of his men. Years later Siuan explains why Bryne was not allowed to interfere. The [[White Tower]] had identified a young [[Murandy]] border lord named [[Dulain]] who could one day unify all of Murandy. She didn't want Bryne's soldiers to kill him. Unfortunately the young lord is killed a month later by an Andoran farmer during a sheep raid.
+
+He served both Queen Mordrellen and Queen Morgase as First Prince of the Sword, the former after the disappearance of her son [[Luc Mantear|Luc]], and the latter until her son [[Gawyn Trakand|Gawyn]] came of age, although before this could happen he was dismissed from service by Morgase on the advice of [[Rahvin|Lord Gaebril]], in {{ne|999}}.
+
+
+==="Retirement"===
+[[File:Gareth Bryne.JPG|thumb|299x299px|Gareth Bryne - Portrait by Todd Cameron Hamilton]]
+After his dismissal, Bryne headed back to his family's manor in Kore Springs. He stays there with a small group of retainers, taking an active part of the village's affairs, albeit reluctantly. It's there that he had a run-in with [[Siuan Sanche]], [[Leane]] and [[Min Farshaw|Min]], who had caused some damage to a farmer's homestead, and he dealt out their punishment.{{ref/book|5|1}} When they ran away Bryne set out after them, and found them along with the [[rebel Aes Sedai]] in [[Salidar]].
+
+He presented himself before the Sisters there and explained why he had come, learning that it is the former [[Amyrlin Seat|Amyrlin]] [[Siuan Sanche]] he had been pursuing. After he was 'given' the runaways so they may fulfill their sentences, the rebel Aes Sedai approached Bryne about building an army for them. He grudgingly agreed, and has developed a growing respect for the [[Amyrlin Seat]] of the rebels, [[Egwene al'Vere]]. He says that he will follow where she leads, and that his army is hers to command. It is also strongly impled that he is in love with Siuan, and her with him, though their strong wills mean that a love-hate relationship seems to have formed.
+
+===With the Salidar Army===
+He reports to Egwene with the news that an [[Andoran]] army led by [[Pelivar Coelan]] and [[Arathelle Renshar]] with a few [[Murandy]] lords and their retainers are on the move to intercept the Salidar army. She sends him away to set up a meeting with them. He then escorts Egwene to the meeting and just about declares his loyalty to her publicly.
+
+[[File:Gareth Bryne.jpg|thumb|left|Gareth Bryne from the CCG]]
+
+Bryne is currently commanding the rebel Aes Sedai army besieging [[Tar Valon]]. He accompanies Egwene, when she surveys the area around Tar Valon. He informs her that the siege will be pointless while the rivers remain open.
+
+Bryne reveals his reasons for chasing Siuan about her oaths and gains respect for her when he learns why she broke it. He also manages to deduce that Siuan is still meeting with Egwene while she is in captivity, in ''[[Tel'aran'rhiod]]''. Siuan sends him a warning that [[Elaida a'Roihan's White Tower]] can now Travel as well. Gawyn leaves the [[Younglings]] and asks to meet with Bryne. The two talk and Bryne fills Gawyn in on Elayne taking the [[Lion Throne]] and Rand defeating [[Rahvin]]. Gawyn leads Bryne to [[Shemerin]], who was hiding amongst the washing ladies. 
+Bryne pushes Gawyn to reveal where the [[Younglings]] are so he can muster a force against them. Gawyn refuses which causes Bryne to ask what side Gawyn is on and that he will need to choose one before the end.
+
+[[File:Gareth Bryne.jpeg|thumb|Gareth Bryne concept art by [[Chase Conley]].]]
+
+During the [[Seanchan]] attack on the [[White Tower]], [[Gawyn]] and [[Siuan]] conscript Bryne into leading a rescue mission for [[Egwene]]. Bryne agrees with two conditions, one being that Siuan bonds him as her [[Warder]] which she immediately does. The second condition is later revealed that she agrees to marry him. Min's viewing is proved true when Bryne saves Siuan's life from a Seanchan assassin. As the assassin dies he shoots a poisoned dart unseen into Bryne. Siuan remembers Min's warning and carries out a [[Delving]] on Bryne. She [[Heal]]s Bryne and prevents the assassin's poison from killing him. The group then find an exhausted Egwene and take her back to camp.
+Egwene finally gives Bryne the order to prepare his armies for attack. After everyone is in place Egwene tells Bryne to wait for an hour before attacking the White Tower. When the hour is up Bryne is about to give the signal when a delegation is spotted from the White Tower. They ask Egwene to become their Amyrlin, which halts all thought of bloodshed.
+
+=== The White Tower General ===
+He comes to Siuan's side when Rand enters the White Tower. Bryne steps to block Rand when he walks over to talk to her. Rand continues his conversation with Siuan around him.
+Gawyn comes to visit him in his quarters and asks what he should do with his situation with Egwene. Bryne gives him a very ambiguous answer.
+
+=== The Last Battle ===
+[[File:Wot card teasers siuan gareth by reddera-d3lbakv.jpg|thumb|left|289x289px|Gareth with Siuan by Ariel Burgess, Official Wheel of Time Artist]]
+Bryne is present during the signing of the [[Dragon's Peace]]. Rand has Bryne sign the document as well, just in case he raises to a position of leadership. At the [[Field of Merrilor]], Elayne sets up an initial war council. Bryne wishing to completely sever ties with Andor, asks to take command of the war-front in [[Kandor]]. There he will lead the White Tower faction in battle against the Trollocs. Bryne also insists on the [[Illianer Companions]] to be part of their force. With the help of [[Yukiri Haruna]], Bryne has started using gateways as a window to observe the enemy lines. He uses this to also look at his own lines. Egwene confronts him about only using Aes Sedai as a relief force. She wants the Aes Sedai to be more active in attacking the enemy. Bryne already had the plans ready for this and puts them into play. Bryne is disturbed by the news of enemy [[Dreadlords]] entering the battle. Egwene charges him with sending a message to the Aes Sedai outside the [[Black Tower]], asking them to return in order to re-enforce the Borderlander army. 
+
+They are routed when [[Demandred]] unexpectedly brings his [[Shara]]n's army into battle. When the Sharan channelers destroyed the Aes Sedai encampment, Yukiri saved Siuan Sanche and Gareth Bryne by pushing them with her into the spying portal and creating a cushion of air to cushion their fall. Bryne is furious with himself because he knew the Trollocs were forming a defensive position in the hills, even though they are traditionally not defensive. This grabbed the armies attention, allowing the Sharans to hit them unprepared. They manage to retreat back beside a massive river that sits on the border between Kandor and [[Arafel]]. Bryne plans to sit in this position until the losses become unacceptable. ''[[Raken]]'' scouts have been noticed and reports have come in saying that the Seanchan will fight the shadow.
+
+In addition, [[Graendal]] manipulates Bryne, as she does the other [[Great captain|Great Captains]], using [[Compulsion]]. She forces him to subtly alter his battle plans to force the army to lose to the Shadowspawn. This is detected in time to stop the defeat and Bryne is relieved of command. Bryne continues to fight, until the attack on the command post where [[Siuan]] is killed. At that moment he goes berserk, throwing himself into the [[Trolloc]]s. He is killed and [[Birgitte Silverbow|Birgitte]] recovers his body.
+
+==Viewing==
+One of Min Farshaw's viewing revealed that he must always be near Siuan Sanche, otherwise one or both of them may die. (''fulfilled'' - Siuan dies when Gareth is not around and he goes into a Warder rage and dies.)
+
+==Sources==
+A potted biography of Bryne is given by Gawyn in ''[[The Eye of the World]]'', which states he served in Andor's army for the past three queens and was Captain-General and First Prince of the Sword for the last two. This would indicate he joined the army during the reign of Queen Mordrellen's predecessor and became Captain-General and First Prince of the Sword during her reign (which began before {{ne|968}} and ended with her death in 972). This would clash with the information given (in ''[[The World of Robert Jordan's The Wheel of Time]]'') that one [[Aranvor Naldwinn]] served as Captain-General during the [[Aiel War]] (976-{{ne|978}}) and was killed at the [[Battle of the Shining Walls]]. It is possible that the prolonged absence of a large contingent of Andoran troops - 28,000 men - during the war necessitated the temporary appointment of a second Captain-General. ''The Gathering Storm'' furthers the confusion by stating that Bryne was only an under-captain during the Aiel War.
+
+== Parallels ==
+Gareth Bryne is based on Sir Gareth, one of King Arthur's nephews and a Knight of the Round Table.
+
+Bryne also has parallels to American Civil War General [[wikipedia:Robert E. Lee|Robert E. Lee]]. His occupation and horse [[wikipedia:Traveller (horse)|Traveller]] appear to be references to Lee.
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Bryne, Gareth}}
+
+[[es:Gareth Bryne]]
+[[Category:Five Great Captains]]
+[[Category:Queen's Guards]]
+[[Category:Blademasters]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Parallels]]
+[[Category:Nobility]]
+[[Category:POV character]]
+[[Category:Notes needed]]
+[[Category:Citation needed]]

@@ -1,0 +1,7 @@
+{{Image
+| License            = gfdl
+| ImageType1          = Map
+| Description        = Map of the Dead Sea
+| Source             = [[:Image:WoT Map.jpg]]
+}}
+[[Category:Oceans]]

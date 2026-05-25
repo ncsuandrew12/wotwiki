@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|February}}
+|{{Wotmonth|Jumara}}
+|}
+'''Jumara 16 (February 3)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:february 3|February 3]]
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

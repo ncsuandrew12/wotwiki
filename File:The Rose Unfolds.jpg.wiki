@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| Description        = [[Lan]] performing [[Sword forms#The Rose Unfolds|The Rose Unfolds]].
+| Source             = ''[[New Spring 6]]''
+| Artist             = Harvey Tolibao
+}}

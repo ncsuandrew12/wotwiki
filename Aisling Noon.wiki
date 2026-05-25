@@ -1,0 +1,58 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewot=Aisling
+| ajah=Green
+| nationality=Tuatha'an
+| gender=Female
+| rank=Aes Sedai
+| affiliation=White Tower
+| height=Tall
+| status=Alive
+| appeared={{ns|3}}
+| lastappeared={{kod|20}}
+| living=kod
+|birth = {{ne|954}}}}'''Aisling Noon''' is an [[Aes Sedai]] of the [[Green Ajah]].{{ref|{{twotc}}, Aisling Noon}}
+
+== Appearance and Personality ==
+She is tall with fierce eyes. She is determined.{{ref/book|0|3}}
+
+She is given to swearing in very vulgar Borderlander oaths, doubtless picked up from spending time with soldiers in Shienar.
+
+==Strength and Abilities==
+Aisling has a [[One Power]] strength of {{opsl|22}}, making her [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai. Among the fifty-one sisters taken at the [[Black Tower]], she is the third strongest we have infomation on, just below the de facto leaders [[Desandre Alraed]] and [[Lemai Ambani]].
+
+She is able to [[Traveling|Travel]].
+
+== History ==
+Aisling is 46 years old. She was born in {{ne|954}} and went to the [[White Tower|Tower]] in {{ne|970}}. After five years as [[novice]] and five as [[Accepted]] she was raised to the shawl in the year {{ne|980}}.
+
+Aisling was a ''[[Tuatha'an]]'' before coming to the White Tower. She was born with the [[spark]].
+She was fairly dedicated with her studies, which some thought to be unusual for a girl of ''Tuatha'an'' heritage. Aisling was close with her classmates, [[Moiraine Damodred]] and [[Siuan Sanche]], and was friends with [[Zemaille din Amassa]], who was also unusual for a White Tower initiate as a [[Sea Folk]] girl.
+
+She was an Accepted in the White Tower during the [[Aiel War]], when [[Gitara Moroso]] had her [[Foretelling]]. She gathered with her classmates to hear [[Tamra Ospenya]]'s announcement of the Accepted having to coordinate a record of every woman in the city who had given birth recently, as the Amyrlin wished to donate money to them as a sign of thanksgiving.{{ref/book|0|3}}
+
+Some time after being raised to the shawl, Aisling was appointed as the Aes Sedai advisor to King [[Easar Togita]] of [[Shienar]].
+
+== Activities ==
+After [[Elaida do Avriny a'Roihan]]'s coup, she disappears from [[Fal Moran]] and returns to [[Tar Valon]].
+
+Aisling is in the group of fifty Aes Sedai, led by [[Toveine Gazal]], sent by Elaida to take out the [[Black Tower]]. All are captured and [[Bonding|bonded]] by [[Asha'man]]. Aisling is bonded by [[Arel Malevin]].
+
+She [[Traveling|Travels]] with Malevin and [[Logain Ablar]] to [[Tear]] to find [[Rand al'Thor]]. She takes part in the battle against the [[Trollocs]] that attack [[Algarin Pendaloan]]'s manor. She is then part of the group that burns all the bodies left behind afterwards: Arel Malevin and Aisling Noon are together using the [[One Power|Power]] and help burn the dead Trollocs after the battle. As [[Nynaeve al'Meara]] watches, six fires bloom in front of them.
+
+During the [[Last Battle]] on the [[Field of Merrilor]], Arel is one of the few men that stays with Logain after he sends groups of Asha'man and Aes Sedai to try to find the lost [[Seals]]. Logain affirms that it was a fortune that at least some of his men as Arel Malevin had been absent when he was captured by [[Mazrim Taim]]. We can also suppose that Aisling was with Arel and so she escaped the capture and the forced conversion to the [[Shadow]].
+
+== Trivia ==
+* Aisling is named for Irish fan of ''The Wheel of Time'', Aisling Ryan. She and Nianh McAuliffe ([[Nianh]]) wrote to Robert Jordan in the final year of school, asking him to include them in the series.
+
+{{notes}}
+{{DEFAULTSORT:Noon, Aisling}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Living as of AMOL]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Sparkers]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Characters named after fans]]

@@ -1,0 +1,21 @@
+==Description==
+This template will change the displayed title (next to the edit button) on pages in any namespace. 
+
+Articles in the main namespace should use the wiki magic word <nowiki>{{DISPLAYTITLE:Title here}}</nowiki> (note the ":" instead of the template's "|"). The magic word does not work in any namespace other than the main. 
+
+This template should only be used to change formatting (i.e. italics). Possible future uses include changes to the [[:Category:Chapter summaries|chapter subpages]] to show the chapter name. Please add any suggestions to this template's talk page.
+
+==Usage==
+The following code placed on a category page will italicize the category title:
+<pre>{{DISPLAYTITLE|''Category name''}}</pre>
+
+Partial formatting is possible. In the example, the title of the page would show ''Atha'an Miere'' in italics, but show (people) as normal:
+<pre>{{DISPLAYTITLE|''Atha'an Miere'' (people)}}</pre>
+
+The following code placed on any page will change the title completely. In the example, Rand's page title will show in all caps:
+<pre>{{DISPLAYTITLE|RAND AL'THOR}}</pre>
+
+The following code will remove the namespace name from the title:
+<pre>{{DISPLAYTITLE|{{PAGENAME}}}}</pre>
+
+<noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>

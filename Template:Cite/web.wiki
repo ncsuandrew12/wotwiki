@@ -1,0 +1,81 @@
+<includeonly>{{
+#if: {{#if: {{{url|}}} | {{#if: {{{title|}}} |1}}}}
+  ||Error on call to {{t|cite/web}}: Parameters '''url''' and '''title''' must be specified
+}}{{
+#if: {{{archiveurl|}}}{{{archivedate|}}} 
+  | {{#if: {{#if: {{{archiveurl|}}}| {{#if: {{{archivedate|}}} |1}}}}
+    ||Error on call to {{t|cite/web}}: Parameters '''archiveurl''' and '''archivedate''' must be both specified or both omitted
+}}
+}}{{#if: {{{author|}}}{{{last|}}}
+  | {{#if: {{{authorlink|}}}
+    | {{#ifeq: {{#sub: {{{authorlink}}} | 0 | 4 }} | http
+      |
+        [{{{authorlink}}} {{#if: {{{last|}}}
+        | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+        | {{{author}}}
+      }}]
+      |
+        [[{{{authorlink}}}|{{#if: {{{last|}}}
+        | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+        | {{{author}}}
+      }}]]
+    }}
+    | {{#if: {{{last|}}}
+      | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+      | {{{author}}}
+    }}
+  }}
+}}{{#if: {{{author|}}}{{{last|}}}
+  | {{#if: {{{coauthors|}}}| <nowiki>;</nowiki>&#32;{{{coauthors}}} }}
+}}{{#if: {{{author|}}}{{{last|}}}|
+    {{#if: {{{date|}}}
+    | &#32;({{Date|{{{date}}}}})
+    | {{#if: {{{year|}}}
+      | {{#if: {{{month|}}}
+        | &#32;({{{month}}} {{{year}}})
+        | &#32;({{{year}}})
+      }}
+    }}
+  |}}
+}}{{#if: {{{last|}}}{{{author|}}}
+  | .&#32;}}{{
+  #if: {{{editor|}}}
+  | &#32;{{{editor}}}: 
+}}{{#if: {{{archiveurl|}}}
+    | {{#if: {{{title|}}} | [{{{archiveurl}}} {{{title}}}] | [{{{archiveurl}}}] }}
+    | {{#if: {{{url|}}} | {{#if: {{{title|}}} | [{{{url}}} {{{title}}}] | [{{{url}}}] }}}}
+}}{{#if: {{{section|}}} | &#32;- {{{section}}}}}{{#if: {{{language|}}} | &#32;<span style="font-size: 0.95em; font-weight: bold; color:#555; position: relative;">({{{language}}})</span> 
+}}{{#if: {{{format|}}}
+  | &#32;({{{format|}}})
+}}{{#if: {{{work|}}}
+  | .&#32;''{{{work}}}''
+}}{{#if: {{{pages|}}}
+  | &#32;{{{pages}}}
+}}{{#if: {{{publisher|}}}
+  | .&#32;{{{publisher}}}{{#if: {{{author|}}}{{{last|}}}
+    | 
+    | {{#if: {{{date|}}}{{{year|}}}{{{month|}}} || }}
+  }}
+}}{{#if: {{{author|}}}{{{last|}}}
+  ||{{#if: {{{date|}}}
+    | &#32;({{Date|{{{date}}}}})
+    | {{#if: {{{year|}}}
+      | {{#if: {{{month|}}}
+        | &#32;({{{month}}} {{{year}}})
+        | &#32;({{{year}}})
+      }}
+    }}
+  }}
+}}.{{#if: {{{archivedate|}}}
+  | &#32;Archived from [{{{url}}} the original] on {{Date|{{{archivedate}}}}}{{#if: {{{archiveyear|}}} | , {{{archiveyear}}} }}.
+}}{{#if: {{{accessdate|}}}
+  | &#32;Retrieved on {{Date|{{{accessdate}}}}}{{#if: {{{accessyear|}}} | , {{{accessyear}}} }}.
+}}{{#if: {{{accessmonthday|}}}
+  | &#32;Retrieved on {{{accessmonthday}}}, {{{accessyear}}}.
+}}{{#if: {{{accessdaymonth|}}}
+  | &#32;Retrieved on {{{accessdaymonth}}} {{{accessyear}}}.
+}}{{#if: {{{quote|}}} 
+  | &nbsp;“{{{quote}}}”
+}}</includeonly><noinclude>{{documentation}}
+[[Category:Templates]]
+</noinclude>

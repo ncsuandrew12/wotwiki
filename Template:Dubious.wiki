@@ -1,0 +1,13 @@
+{| align=center border=1 cellpadding=5 cellspacing=3 style="border: 1px solid #FF5555; background-color: #692225;"
+|-
+| align=center {{#if: {{{1|}}}|rowspan=2}} |[[Image:Dubious-question.png|alt="a brown question mark icon with an Aes Sedai symbol as the dot"]]
+| align=center |<big>'''Items in this page or section are [[Wotwiki:Responsible point of view|of disputed accuracy]].'''</big><br />
+Anyone may contribute their opinion on the [[Talk:{{PAGENAME}}|talk page]] or the {{Link|https://discord.gg/DaJvxGzekt|Discord}},<br />in the interest of [[Wotwiki:Consensus|gaining consensus]] on how to go forward.<br /><br />
+But if you know of an exact source, [[Wotwiki:Be bold|be bold]] and edit it in!{{#if: {{{2|}}}|<br /><br />{{{2}}}}}
+{{#if: {{{1|}}}|
+{{!}}- align=right
+{{!}}<small>'''''Added: {{Date|{{{1|on an unknown date}}}}}'''''</small>}}
+|}
+<includeonly>[[Category:Dubious|{{PAGENAME}}]]</includeonly>
+<noinclude>{{Documentation}}
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

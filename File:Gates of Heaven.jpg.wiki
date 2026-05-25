@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| Description        = The [[Gates of Heaven]] inn.
+| Source             = ''[[New Spring 6]]''
+| Artist             = Harvey Tolibao
+}}

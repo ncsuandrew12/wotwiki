@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|September}}
+|{{Wotmonth|Choren}}
+|}
+'''Choren 7 (September 7)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Egwene]] and the [[Wise One]]s meet with [[Elayne]]. 
+*{{ne|999}} - [[Egwene]] tells of fighting in [[Cairhien]], and the presence of [[Andoran]] [[soldier]]s there.
+<noinclude>
+==External links==
+*[[wikipedia:september 7|September 7]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

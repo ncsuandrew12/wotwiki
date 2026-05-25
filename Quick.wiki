@@ -1,0 +1,20 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Davram Bashere
+| gender=Male
+| color=Bay
+| appeared={{tpod|24}}
+}}
+'''Quick''' is the name of [[Davram Bashere]]'s horse.
+
+==Appearance==
+Quick is a bay horse.
+
+==Activities==
+Quick carries Davram Bashere during a battle with the [[Seanchan]]{{ref/book|8|24}} and as Bashere scouts [[Arymilla Marne]] camp near [[Caemlyn]].{{ref/book|10|Prologue}}
+
+{{notes}}

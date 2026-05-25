@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Item
+| ImageType2         = CCG
+| Description        = The [[Glass columns]] ''[[ter'angreal]]'' in [[Rhuidean]], through which [[Rand al'Thor]] and [[Muradin]] are passing. The card is entitled "Relive the Past."
+| Source             = The "Children of the Dragon" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Stephanie Law 
+}}

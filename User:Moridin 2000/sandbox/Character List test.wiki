@@ -1,0 +1,3347 @@
+{{Under construction}}
+This page lists character appearances by chapter. Character names are linked directly, and chapter appearances are grouped by book within each character entry.
+
+For brevity, contiguous numbered chapter appearances are compressed into linked ranges. A range such as {{tsr|31}}–{{tsr|33}} means the character appears in every numbered chapter from 31 through 33. Prologues, Ravens, and epilogues are kept as their own linked entries.
+
+The main table lists characters with more than three chapter appearances. Characters with exactly three, two, or one appearances are summarized separately below the table. Within each appearance cell, different books are separated by semicolons and different chapters within the same book are separated by commas.Annour
+
+Data source: [https://www.reddit.com/r/WoT/comments/ycjcpe/character_names_analysis/ Character Names Analysis] on Reddit.
+
+== Characters with more than three chapter appearances ==
+''Total characters: 452.''
+
+{| class="wikitable sortable" style="font-size:90%; width:100%;"
+! Character
+! class="unsortable" | Appearances
+! Total
+|-
+| [[Abaldar Yulan]]
+| TPoD: {{tpod|24}}<br>WH: {{wh|19}}<br>KoD: {{kod|p}}, {{kod|e}}<br>TGS: {{tgs|19}}, {{tgs|36}}<br>AMoL: {{amol|24}}
+| 7
+|-
+| [[Abell Cauthon]]
+| TSR: {{tsr|31}}–{{tsr|33}}, {{tsr|43}}–{{tsr|44}}, {{tsr|53}}, {{tsr|56}}<br>AMoL: {{amol|10}}, {{amol|37}}, {{amol|e}}
+| 10
+|-
+| [[Adeleas]]
+| TGH: {{tgh|22}}<br>LoC: {{loc|29}}, {{loc|44}}, {{loc|47}}, {{loc|52}}<br>ACoS: {{acos|16}}, {{acos|30}}–{{acos|31}}, {{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|4}}, {{tpod|6}}, {{tpod|28}}
+| 15
+|-
+| [[Adelin]]
+| TSR: {{tsr|37}}, {{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|3}}–{{tfoh|4}}, {{tfoh|6}}, {{tfoh|20}}–{{tfoh|23}}, {{tfoh|44}}
+| 12
+|-
+| [[Adelorna Bastine]]
+| KoD: {{kod|p}}, {{kod|24}}<br>TGS: {{tgs|40}}, {{tgs|43}}<br>AMoL: {{amol|11}}
+| 5
+|-
+| [[Aemlyn Carand]]
+| LoC: {{loc|41}}<br>TPoD: {{tpod|17}}–{{tpod|18}}<br>KoD: {{kod|35}}
+| 4
+|-
+| [[Aeron]]
+| TFoH: {{tfoh|23}}<br>LoC: {{loc|25}}, {{loc|33}}<br>TPoD: {{tpod|p}}
+| 4
+|-
+| [[Agelmar Jagad]]
+| TEotW: {{teotw|46}}–{{teotw|47}}, {{teotw|53}}<br>TGH: {{tgh|2}}, {{tgh|8}}–{{tgh|9}}, {{tgh|12}}<br>TPoD: {{tpod|p}}<br>AMoL: {{amol|7}}, {{amol|9}}–{{amol|10}}, {{amol|18}}, {{amol|29}}
+| 13
+|-
+| [[Ailhuin Guenna]]
+| TDR: {{tdr|48}}–{{tdr|49}}, {{tdr|51}}–{{tdr|52}}
+| 4
+|-
+| [[Ailil Riatin]]
+| TPoD: {{tpod|21}}–{{tpod|24}}, {{tpod|29}}<br>ToM: {{tom|50}}
+| 6
+|-
+| [[Alaabar Harnesh]]
+| ToM: {{tom|p}}, {{tom|2}}, {{tom|4}}, {{tom|26}}, {{tom|35}}
+| 5
+|-
+| [[Alanna Mosvani]]
+| NS: {{ns|3}}<br>TGH: {{tgh|4}}, {{tgh|12}}<br>TDR: {{tdr|18}}, {{tdr|22}}–{{tdr|23}}, {{tdr|27}}<br>TSR: {{tsr|31}}–{{tsr|32}}, {{tsr|42}}–{{tsr|45}}, {{tsr|56}}<br>LoC: {{loc|10}}–{{loc|11}}, {{loc|43}}, {{loc|49}}, {{loc|54}}–{{loc|55}}<br>ACoS: {{acos|2}}–{{acos|3}}, {{acos|34}}<br>TPoD: {{tpod|12}}<br>WH: {{wh|13}}, {{wh|23}}–{{wh|25}}<br>KoD: {{kod|21}}<br>TGS: {{tgs|42}}<br>AMoL: {{amol|36}}, {{amol|46}}
+| 32
+|-
+| [[Alarys]]
+| ACoS: {{acos|p}}, {{acos|20}}<br>TPoD: {{tpod|11}}<br>CoT: {{cot|9}}
+| 4
+|-
+| [[Aledrin Malenry]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}<br>KoD: {{kod|23}}<br>AMoL: {{amol|21}}
+| 9
+|-
+| [[Algarin Pendaloan]]
+| CoT: {{cot|23}}<br>ToM: {{tom|46}}, {{tom|56}}<br>AMoL: {{amol|p}}, {{amol|4}}, {{amol|8}}, {{amol|10}}, {{amol|14}}, {{amol|21}}, {{amol|37}}, {{amol|41}}
+| 11
+|-
+| [[Alise Tenjile]]
+| TPoD: {{tpod|4}}, {{tpod|6}}, {{tpod|20}}, {{tpod|28}}<br>KoD: {{kod|13}}, {{kod|31}}<br>ToM: {{tom|17}}, {{tom|52}}
+| 8
+|-
+| [[Alivia]]
+| WH: {{wh|11}}, {{wh|22}}, {{wh|32}}–{{wh|35}}<br>CoT: {{cot|23}}<br>KoD: {{kod|18}}–{{kod|21}}, {{kod|27}}<br>TGS: {{tgs|1}}, {{tgs|29}}, {{tgs|37}}<br>AMoL: {{amol|23}}, {{amol|42}}
+| 17
+|-
+| [[Alliandre Maritha Kigarin]]
+| TFoH: {{tfoh|39}}<br>TPoD: {{tpod|10}}, {{tpod|30}}<br>WH: {{wh|3}}–{{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|5}}, {{kod|26}}, {{kod|28}}–{{kod|30}}<br>TGS: {{tgs|21}}<br>ToM: {{tom|6}}, {{tom|21}}, {{tom|26}}, {{tom|29}}, {{tom|34}}–{{tom|35}}, {{tom|40}}–{{tom|41}}, {{tom|43}}, {{tom|47}}, {{tom|53}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|10}}, {{amol|37}}
+| 27
+|-
+| [[Almen Bunt]]
+| TEotW: {{teotw|34}}–{{teotw|35}}<br>ToM: {{tom|1}}<br>AMoL: {{amol|36}}
+| 4
+|-
+| [[Almurat Mor]]
+| TSR: {{tsr|38}}, {{tsr|46}}, {{tsr|52}}<br>WH: {{wh|20}}<br>CoT: {{cot|4}}
+| 5
+|-
+| [[Alsalam Saeed Almadar]]
+| ToM: {{tom|32}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|20}}, {{amol|24}}
+| 5
+|-
+| [[Alsbet Luhhan]]
+| TGH: {{tgh|23}}<br>TSR: {{tsr|33}}, {{tsr|43}}, {{tsr|45}}, {{tsr|53}}, {{tsr|56}}
+| 6
+|-
+| [[Aludra]]
+| TGH: {{tgh|27}}<br>TDR: {{tdr|40}}<br>TFoH: {{tfoh|17}}, {{tfoh|48}}<br>WH: {{wh|15}}<br>CoT: {{cot|2}}, {{cot|29}}<br>KoD: {{kod|6}}, {{kod|8}}, {{kod|25}}–{{kod|26}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|34}}<br>ToM: {{tom|29}}<br>AMoL: {{amol|p}}, {{amol|1}}, {{amol|10}}, {{amol|24}}, {{amol|37}}, {{amol|41}}
+| 21
+|-
+| [[Alviarin Freidhen]]
+| TGH: {{tgh|12}}<br>TDR: {{tdr|23}}<br>TSR: {{tsr|1}}, {{tsr|47}}<br>TFoH: {{tfoh|p}}, {{tfoh|19}}<br>ACoS: {{acos|p}}, {{acos|32}}<br>TPoD: {{tpod|25}}<br>CoT: {{cot|21}}<br>KoD: {{kod|p}}, {{kod|24}}<br>TGS: {{tgs|2}}<br>ToM: {{tom|14}}, {{tom|37}}–{{tom|38}}<br>AMoL: {{amol|42}}
+| 17
+|-
+| [[Alwhin]]
+| TGH: {{tgh|40}}<br>TSR: {{tsr|1}}<br>ACoS: {{acos|26}}<br>TPoD: {{tpod|24}}<br>WH: {{wh|28}}
+| 5
+|-
+| [[Amathera Aelfdene Casmir Lounault]]
+| TSR: {{tsr|52}}, {{tsr|54}}–{{tsr|55}}<br>ACoS: {{acos|26}}<br>WH: {{wh|31}}<br>CoT: {{cot|1}}–{{cot|3}}, {{cot|29}}<br>KoD: {{kod|8}}, {{kod|10}}, {{kod|25}}–{{kod|26}}, {{kod|36}}<br>ToM: {{tom|17}}
+| 15
+|-
+| [[Amico Nagoyin]]
+| TDR: {{tdr|51}}, {{tdr|55}}<br>TSR: {{tsr|5}}–{{tsr|6}}, {{tsr|9}}
+| 5
+|-
+| [[Amys]]
+| TSR: {{tsr|11}}, {{tsr|23}}, {{tsr|34}}–{{tsr|35}}, {{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|52}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|5}}, {{tfoh|7}}, {{tfoh|21}}–{{tfoh|24}}, {{tfoh|41}}, {{tfoh|44}}, {{tfoh|49}}, {{tfoh|53}}–{{tfoh|54}}<br>LoC: {{loc|15}}, {{loc|18}}–{{loc|19}}, {{loc|24}}–{{loc|25}}, {{loc|32}}–{{loc|33}}, {{loc|50}}, {{loc|53}}–{{loc|55}}<br>ACoS: {{acos|2}}–{{acos|3}}, {{acos|10}}, {{acos|36}}, {{acos|41}}<br>WH: {{wh|p}}<br>TGS: {{tgs|3}}, {{tgs|7}}, {{tgs|15}}, {{tgs|23}}, {{tgs|26}}, {{tgs|37}}<br>ToM: {{tom|14}}, {{tom|36}}–{{tom|38}}<br>AMoL: {{amol|p}}, {{amol|5}}–{{amol|7}}, {{amol|19}}–{{amol|20}}, {{amol|23}}, {{amol|33}}, {{amol|40}}, {{amol|42}}
+| 59
+|-
+| [[Anaiya Carel]]
+| NS: {{ns|9}}–{{ns|10}}, {{ns|12}}, {{ns|14}}<br>TGH: {{tgh|4}}, {{tgh|12}}<br>TDR: {{tdr|18}}, {{tdr|27}}, {{tdr|30}}<br>TFoH: {{tfoh|26}}–{{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|p}}, {{loc|7}}, {{loc|12}}, {{loc|14}}, {{loc|32}}, {{loc|34}}–{{loc|36}}, {{loc|38}}<br>CoT: {{cot|16}}–{{cot|19}}
+| 26
+|-
+| [[Anaiyella Narencelona]]
+| LoC: {{loc|19}}<br>TPoD: {{tpod|21}}–{{tpod|24}}<br>KoD: {{kod|21}}<br>TGS: {{tgs|42}}<br>ToM: {{tom|13}}
+| 8
+|-
+| [[Andaya Forae]]
+| TFoH: {{tfoh|p}}<br>TPoD: {{tpod|25}}<br>CoT: {{cot|21}}<br>TGS: {{tgs|45}}–{{tgs|46}}<br>ToM: {{tom|3}}, {{tom|27}}
+| 7
+|-
+| [[Andere]]
+| ToM: {{tom|7}}, {{tom|23}}, {{tom|42}}, {{tom|e}}<br>AMoL: {{amol|6}}, {{amol|9}}, {{amol|16}}, {{amol|24}}–{{amol|25}}, {{amol|28}}–{{amol|29}}, {{amol|37}}
+| 12
+|-
+| [[Androl Genhald]]
+| WH: {{wh|p}}<br>ToM: {{tom|46}}, {{tom|56}}<br>AMoL: {{amol|p}}, {{amol|2}}–{{amol|4}}, {{amol|8}}, {{amol|10}}, {{amol|14}}, {{amol|21}}, {{amol|30}}, {{amol|37}}, {{amol|41}}–{{amol|43}}, {{amol|48}}
+| 17
+|-
+| [[Annoura Larisen]]
+| ACoS: {{acos|5}}–{{acos|6}}, {{acos|18}}–{{acos|19}}<br>TPoD: {{tpod|7}}, {{tpod|10}}<br>WH: {{wh|2}}<br>CoT: {{cot|6}}–{{cot|8}}, {{cot|25}}–{{cot|27}}<br>KoD: {{kod|4}}, {{kod|29}}<br>ToM: {{tom|2}}, {{tom|4}}, {{tom|6}}, {{tom|18}}, {{tom|21}}, {{tom|26}}, {{tom|44}}<br>AMoL: {{amol|37}}
+| 23
+|-
+| [[Aracome]]
+| TSR: {{tsr|21}}<br>TFoH: {{tfoh|46}}, {{tfoh|51}}<br>LoC: {{loc|19}}, {{loc|50}}<br>TPoD: {{tpod|13}}, {{tpod|21}}
+| 7
+|-
+| [[Aram]]
+| TEotW: {{teotw|27}}<br>TSR: {{tsr|41}}–{{tsr|42}}, {{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|p}}, {{loc|45}}, {{loc|54}}–{{loc|55}}<br>ACoS: {{acos|1}}–{{acos|6}}, {{acos|27}}<br>TPoD: {{tpod|7}}–{{tpod|10}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}<br>CoT: {{cot|5}}–{{cot|8}}, {{cot|25}}, {{cot|27}}<br>KoD: {{kod|4}}, {{kod|26}}, {{kod|29}}–{{kod|30}}<br>ToM: {{tom|p}}
+| 35
+|-
+| [[Aran'gar]]
+| LoC: {{loc|p}}, {{loc|30}}, {{loc|37}}, {{loc|44}}, {{loc|e}}<br>ACoS: {{acos|12}}, {{acos|25}}<br>TPoD: {{tpod|15}}–{{tpod|19}}<br>WH: {{wh|13}}, {{wh|35}}<br>CoT: {{cot|18}}, {{cot|20}}, {{cot|30}}<br>KoD: {{kod|3}}, {{kod|23}}<br>ToM: {{tom|p}}
+| 20
+|-
+| [[Arathelle Renshar]]
+| LoC: {{loc|41}}<br>TPoD: {{tpod|17}}–{{tpod|18}}<br>KoD: {{kod|35}}
+| 4
+|-
+| [[Aravine Carnel]]
+| CoT: {{cot|9}}<br>KoD: {{kod|5}}, {{kod|28}}–{{kod|30}}<br>TGS: {{tgs|9}}<br>ToM: {{tom|6}}, {{tom|29}}, {{tom|34}}, {{tom|53}}<br>AMoL: {{amol|33}}–{{amol|35}}
+| 13
+|-
+| [[Areina Nermasiv]]
+| TFoH: {{tfoh|49}}–{{tfoh|50}}<br>LoC: {{loc|12}}, {{loc|29}}, {{loc|40}}<br>ACoS: {{acos|9}}, {{acos|12}}<br>CoT: {{cot|17}}
+| 8
+|-
+| [[Arlen Nalaam]]
+| TPoD: {{tpod|24}}<br>ToM: {{tom|46}}<br>AMoL: {{amol|3}}–{{amol|4}}
+| 4
+|-
+| [[Arrela Shiego]]
+| TPoD: {{tpod|8}}, {{tpod|30}}<br>WH: {{wh|3}}–{{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|28}}–{{kod|30}}<br>TGS: {{tgs|21}}<br>AMoL: {{amol|34}}–{{amol|35}}, {{amol|37}}
+| 12
+|-
+| [[Artur Hawkwing]]
+| TGH: {{tgh|47}}, {{tgh|50}}<br>AMoL: {{amol|39}}, {{amol|43}}
+| 4
+|-
+| [[Arymilla Marne]]
+| TFoH: {{tfoh|19}}<br>LoC: {{loc|1}}–{{loc|2}}<br>CoT: {{cot|15}}<br>KoD: {{kod|17}}, {{kod|33}}<br>ToM: {{tom|50}}
+| 7
+|-
+| [[Ashmanaille]]
+| LoC: {{loc|14}}<br>CoT: {{cot|17}}<br>KoD: {{kod|2}}<br>TGS: {{tgs|18}}<br>AMoL: {{amol|27}}
+| 5
+|-
+| [[Asmodean]]
+| TSR: {{tsr|36}}–{{tsr|37}}, {{tsr|39}}, {{tsr|48}}, {{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}–{{tfoh|3}}, {{tfoh|6}}–{{tfoh|7}}, {{tfoh|15}}, {{tfoh|20}}–{{tfoh|23}}, {{tfoh|32}}, {{tfoh|42}}, {{tfoh|45}}–{{tfoh|46}}, {{tfoh|51}}–{{tfoh|56}}
+| 26
+|-
+| [[Asne Zeramene]]
+| TSR: {{tsr|38}}<br>TFoH: {{tfoh|18}}<br>WH: {{wh|10}}<br>KoD: {{kod|31}}, {{kod|33}}
+| 5
+|-
+| [[Atal Mishraile]]
+| CoT: {{cot|p}}<br>KoD: {{kod|e}}<br>ToM: {{tom|56}}<br>AMoL: {{amol|3}}, {{amol|8}}, {{amol|10}}, {{amol|14}}, {{amol|42}}
+| 8
+|-
+| [[Avar Hachami]]
+| TFoH: {{tfoh|50}}<br>LoC: {{loc|52}}<br>ACoS: {{acos|12}}<br>CoT: {{cot|16}}<br>KoD: {{kod|1}}
+| 5
+|-
+| [[Aviendha]]
+| TDR: {{tdr|37}}–{{tdr|39}}<br>TSR: {{tsr|5}}–{{tsr|6}}, {{tsr|9}}, {{tsr|11}}–{{tsr|12}}, {{tsr|22}}–{{tsr|24}}, {{tsr|34}}–{{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|4}}–{{tfoh|5}}, {{tfoh|7}}, {{tfoh|15}}, {{tfoh|21}}–{{tfoh|23}}, {{tfoh|31}}–{{tfoh|32}}, {{tfoh|41}}, {{tfoh|43}}–{{tfoh|46}}, {{tfoh|51}}–{{tfoh|56}}<br>LoC: {{loc|3}}, {{loc|10}}, {{loc|16}}–{{loc|17}}, {{loc|19}}, {{loc|28}}, {{loc|33}}, {{loc|38}}, {{loc|40}}, {{loc|47}}–{{loc|48}}<br>ACoS: {{acos|13}}, {{acos|21}}, {{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|6}}, {{tpod|20}}, {{tpod|28}}<br>WH: {{wh|p}}, {{wh|10}}, {{wh|12}}, {{wh|26}}–{{wh|27}}<br>CoT: {{cot|10}}–{{cot|14}}, {{cot|20}}<br>KoD: {{kod|13}}–{{kod|15}}<br>TGS: {{tgs|3}}, {{tgs|7}}, {{tgs|11}}, {{tgs|15}}, {{tgs|26}}<br>ToM: {{tom|39}}, {{tom|45}}, {{tom|48}}–{{tom|49}}<br>AMoL: {{amol|p}}, {{amol|2}}–{{amol|3}}, {{amol|5}}–{{amol|7}}, {{amol|13}}, {{amol|20}}, {{amol|23}}, {{amol|33}}–{{amol|35}}, {{amol|37}}, {{amol|40}}, {{amol|42}}–{{amol|43}}, {{amol|47}}–{{amol|48}}, {{amol|e}}
+| 104
+|-
+| [[Ayako Norsoni]]
+| WH: {{wh|p}}<br>KoD: {{kod|20}}, {{kod|27}}<br>AMoL: {{amol|42}}
+| 4
+|-
+| [[Azi al'Thone]]
+| ToM: {{tom|p}}, {{tom|10}}, {{tom|34}}, {{tom|40}}, {{tom|53}}<br>AMoL: {{amol|37}}
+| 6
+|-
+| [[Bael]]
+| TSR: {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}, {{tfoh|23}}, {{tfoh|41}}–{{tfoh|43}}, {{tfoh|54}}–{{tfoh|55}}<br>LoC: {{loc|10}}, {{loc|49}}<br>ACoS: {{acos|7}}<br>CoT: {{cot|p}}<br>TGS: {{tgs|3}}, {{tgs|7}}<br>AMoL: {{amol|6}}
+| 16
+|-
+| [[Bain]]
+| TDR: {{tdr|38}}–{{tdr|39}}<br>TSR: {{tsr|3}}, {{tsr|18}}, {{tsr|27}}–{{tsr|33}}, {{tsr|40}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|45}}, {{loc|49}}–{{loc|51}}<br>ACoS: {{acos|27}}<br>TPoD: {{tpod|30}}<br>WH: {{wh|3}}–{{wh|4}}<br>KoD: {{kod|28}}<br>TGS: {{tgs|21}}<br>ToM: {{tom|34}}, {{tom|53}}<br>AMoL: {{amol|13}}, {{amol|44}}
+| 33
+|-
+| [[Bair]]
+| TSR: {{tsr|23}}, {{tsr|34}}–{{tsr|35}}, {{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|52}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|5}}, {{tfoh|7}}, {{tfoh|21}}–{{tfoh|24}}, {{tfoh|41}}, {{tfoh|53}}–{{tfoh|54}}<br>LoC: {{loc|15}}, {{loc|18}}–{{loc|19}}, {{loc|24}}–{{loc|25}}, {{loc|32}}–{{loc|33}}, {{loc|50}}<br>ACoS: {{acos|10}}<br>TGS: {{tgs|3}}, {{tgs|7}}, {{tgs|14}}, {{tgs|26}}, {{tgs|37}}<br>ToM: {{tom|14}}, {{tom|36}}–{{tom|38}}<br>AMoL: {{amol|p}}, {{amol|19}}
+| 39
+|-
+| [[Bakayar Mishima]]
+| KoD: {{kod|4}}, {{kod|12}}, {{kod|26}}<br>TGS: {{tgs|p}}
+| 4
+|-
+| [[Baldhere]]
+| TPoD: {{tpod|p}}<br>AMoL: {{amol|10}}, {{amol|18}}, {{amol|28}}
+| 4
+|-
+| [[Ban al'Seen]]
+| TSR: {{tsr|33}}, {{tsr|40}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|54}}<br>ACoS: {{acos|2}}<br>KoD: {{kod|26}}, {{kod|30}}<br>AMoL: {{amol|15}}
+| 14
+|-
+| [[Barasine]]
+| KoD: {{kod|p}}, {{kod|24}}<br>TGS: {{tgs|2}}, {{tgs|38}}<br>ToM: {{tom|3}}, {{tom|20}}, {{tom|27}}
+| 7
+|-
+| [[Basel Gill]]
+| TEotW: {{teotw|35}}, {{teotw|39}}, {{teotw|41}}, {{teotw|43}}–{{teotw|44}}<br>TDR: {{tdr|45}}, {{tdr|47}}<br>TFoH: {{tfoh|19}}, {{tfoh|56}}<br>LoC: {{loc|p}}, {{loc|9}}, {{loc|31}}<br>ACoS: {{acos|26}}<br>TPoD: {{tpod|7}}–{{tpod|9}}<br>WH: {{wh|2}}, {{wh|6}}<br>CoT: {{cot|5}}<br>KoD: {{kod|29}}<br>ToM: {{tom|4}}, {{tom|44}}<br>AMoL: {{amol|37}}
+| 23
+|-
+| [[Bayle Domon]]
+| TEotW: {{teotw|20}}, {{teotw|24}}, {{teotw|26}}<br>TGH: {{tgh|9}}, {{tgh|29}}, {{tgh|43}}, {{tgh|45}}–{{tgh|46}}<br>TSR: {{tsr|38}}–{{tsr|39}}, {{tsr|51}}–{{tsr|52}}, {{tsr|54}}–{{tsr|55}}<br>WH: {{wh|19}}, {{wh|21}}, {{wh|29}}–{{wh|31}}<br>CoT: {{cot|2}}–{{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|7}}–{{kod|10}}, {{kod|25}}–{{kod|26}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|34}}<br>ToM: {{tom|17}}<br>AMoL: {{amol|p}}, {{amol|1}}, {{amol|9}}, {{amol|18}}, {{amol|23}}, {{amol|31}}, {{amol|43}}
+| 40
+|-
+| [[Beldeine Nyram]]
+| ACoS: {{acos|1}}<br>TPoD: {{tpod|p}}, {{tpod|29}}<br>WH: {{wh|13}}, {{wh|23}}, {{wh|35}}<br>CoT: {{cot|23}}<br>KoD: {{kod|27}}<br>TGS: {{tgs|23}}, {{tgs|48}}
+| 10
+|-
+| [[Belinde]]
+| ACoS: {{acos|p}}, {{acos|20}}<br>TPoD: {{tpod|11}}<br>KoD: {{kod|30}}
+| 4
+|-
+| [[Beonin Marinye]]
+| TFoH: {{tfoh|27}}–{{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|7}}, {{loc|12}}, {{loc|29}}–{{loc|30}}, {{loc|32}}, {{loc|34}}–{{loc|35}}<br>CoT: {{cot|16}}–{{cot|17}}, {{cot|19}}<br>KoD: {{kod|2}}, {{kod|24}}
+| 15
+|-
+| [[Bera Harkin]]
+| LoC: {{loc|49}}, {{loc|54}}–{{loc|55}}<br>ACoS: {{acos|2}}–{{acos|3}}, {{acos|19}}, {{acos|34}}, {{acos|36}}, {{acos|41}}<br>TPoD: {{tpod|12}}<br>KoD: {{kod|21}}<br>ToM: {{tom|12}}<br>AMoL: {{amol|23}}
+| 13
+|-
+| [[Berab Golever]]
+| ToM: {{tom|p}}, {{tom|2}}, {{tom|4}}<br>AMoL: {{amol|16}}, {{amol|37}}
+| 5
+|-
+| [[Berana Shemon]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>TGS: {{tgs|43}}
+| 9
+|-
+| [[Berelain sur Paendrag Paeron]]
+| TDR: {{tdr|56}}<br>TSR: {{tsr|2}}–{{tsr|3}}, {{tsr|13}}–{{tsr|14}}<br>LoC: {{loc|17}}–{{loc|19}}, {{loc|50}}<br>ACoS: {{acos|18}}, {{acos|27}}<br>TPoD: {{tpod|7}}, {{tpod|10}}, {{tpod|30}}<br>WH: {{wh|2}}, {{wh|5}}<br>CoT: {{cot|6}}–{{cot|8}}, {{cot|25}}–{{cot|27}}<br>KoD: {{kod|p}}, {{kod|4}}, {{kod|26}}, {{kod|29}}<br>ToM: {{tom|2}}, {{tom|4}}, {{tom|18}}, {{tom|26}}, {{tom|29}}, {{tom|34}}–{{tom|35}}, {{tom|40}}–{{tom|41}}, {{tom|43}}–{{tom|44}}, {{tom|53}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|37}}
+| 41
+|-
+| [[Bertain Gallenne]]
+| ACoS: {{acos|27}}<br>TPoD: {{tpod|7}}, {{tpod|10}}<br>WH: {{wh|2}}<br>CoT: {{cot|7}}–{{cot|8}}, {{cot|25}}–{{cot|26}}<br>KoD: {{kod|4}}, {{kod|29}}<br>TGS: {{tgs|9}}<br>ToM: {{tom|2}}, {{tom|4}}, {{tom|6}}, {{tom|21}}, {{tom|34}}, {{tom|40}}–{{tom|41}}, {{tom|53}}<br>AMoL: {{amol|10}}, {{amol|13}}
+| 21
+|-
+| [[Bertome Saighan]]
+| TPoD: {{tpod|21}}, {{tpod|24}}<br>CoT: {{cot|p}}<br>ToM: {{tom|50}}, {{tom|52}}
+| 5
+|-
+| [[Beslan Mitsobar]]
+| LoC: {{loc|48}}<br>ACoS: {{acos|16}}, {{acos|29}}, {{acos|37}}–{{acos|38}}<br>WH: {{wh|15}}–{{wh|16}}, {{wh|28}}, {{wh|30}}<br>TGS: {{tgs|19}}<br>ToM: {{tom|47}}<br>AMoL: {{amol|24}}
+| 12
+|-
+| [[Bethamin Zeami]]
+| TSR: {{tsr|38}}<br>WH: {{wh|20}}–{{wh|21}}<br>CoT: {{cot|1}}, {{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|7}}–{{kod|9}}, {{kod|25}}–{{kod|26}}, {{kod|37}}<br>ToM: {{tom|17}}
+| 14
+|-
+| [[Bili Congar]]
+| TEotW: {{teotw|Ravens}}, {{teotw|9}}<br>TSR: {{tsr|44}}–{{tsr|45}}, {{tsr|56}}
+| 5
+|-
+| [[Birgitte Silverbow]]
+| TGH: {{tgh|47}}<br>TSR: {{tsr|28}}, {{tsr|39}}, {{tsr|52}}<br>TFoH: {{tfoh|14}}, {{tfoh|34}}–{{tfoh|37}}, {{tfoh|40}}, {{tfoh|47}}, {{tfoh|49}}–{{tfoh|50}}, {{tfoh|54}}<br>LoC: {{loc|p}}, {{loc|12}}, {{loc|15}}, {{loc|40}}, {{loc|44}}, {{loc|47}}–{{loc|48}}, {{loc|52}}<br>ACoS: {{acos|13}}, {{acos|21}}, {{acos|29}}, {{acos|31}}, {{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|3}}, {{tpod|6}}, {{tpod|20}}, {{tpod|28}}<br>WH: {{wh|p}}, {{wh|7}}, {{wh|10}}, {{wh|12}}, {{wh|26}}<br>CoT: {{cot|11}}–{{cot|14}}<br>KoD: {{kod|13}}–{{kod|17}}, {{kod|31}}–{{kod|33}}, {{kod|35}}<br>ToM: {{tom|11}}, {{tom|17}}, {{tom|19}}, {{tom|22}}–{{tom|24}}, {{tom|29}}, {{tom|33}}, {{tom|37}}, {{tom|45}}, {{tom|50}}, {{tom|52}}<br>AMoL: {{amol|1}}, {{amol|7}}–{{amol|8}}, {{amol|10}}, {{amol|12}}, {{amol|24}}, {{amol|26}}, {{amol|37}}, {{amol|39}}–{{amol|40}}, {{amol|e}}
+| 74
+|-
+| [[Blaeric Negina]]
+| WH: {{wh|29}}<br>CoT: {{cot|1}}–{{cot|3}}, {{cot|28}}<br>KoD: {{kod|7}}, {{kod|9}}–{{kod|10}}, {{kod|25}}, {{kod|37}}<br>TGS: {{tgs|27}}–{{tgs|28}}<br>ToM: {{tom|9}}
+| 13
+|-
+| [[Bode Cauthon]]
+| TEotW: {{teotw|Ravens}}<br>TSR: {{tsr|33}}, {{tsr|45}}, {{tsr|56}}<br>LoC: {{loc|10}}–{{loc|11}}<br>CoT: {{cot|17}}, {{cot|30}}<br>KoD: {{kod|23}}
+| 9
+|-
+| [[Bran al'Vere]]
+| TEotW: {{teotw|Ravens}}, {{teotw|1}}–{{teotw|4}}, {{teotw|7}}–{{teotw|9}}<br>TSR: {{tsr|29}}–{{tsr|30}}, {{tsr|44}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>ToM: {{tom|20}}
+| 15
+|-
+| [[Branlet Gilyard]]
+| CoT: {{cot|13}}<br>KoD: {{kod|17}}, {{kod|32}}–{{kod|33}}, {{kod|35}}
+| 5
+|-
+| [[Breane Taborwin]]
+| TGH: {{tgh|32}}<br>TFoH: {{tfoh|56}}<br>LoC: {{loc|p}}, {{loc|31}}<br>ACoS: {{acos|26}}<br>TPoD: {{tpod|7}}–{{tpod|10}}<br>CoT: {{cot|5}}<br>KoD: {{kod|26}}, {{kod|29}}<br>ToM: {{tom|4}}, {{tom|44}}
+| 14
+|-
+| [[Brugh Chavana]]
+| TFoH: {{tfoh|33}}, {{tfoh|36}}, {{tfoh|47}}<br>CoT: {{cot|29}}
+| 4
+|-
+| [[Bukama Marenellin]]
+| NS: {{ns|1}}, {{ns|12}}, {{ns|15}}–{{ns|16}}, {{ns|19}}–{{ns|22}}, {{ns|25}}
+| 9
+|-
+| [[Bulen]]
+| NS: {{ns|22}}, {{ns|25}}<br>ToM: {{tom|p}}, {{tom|7}}, {{tom|23}}<br>AMoL: {{amol|6}}–{{amol|7}}, {{amol|9}}
+| 8
+|-
+| [[Cadsuane Melaidhrin]]
+| NS: {{ns|17}}–{{ns|18}}<br>ACoS: {{acos|18}}–{{acos|19}}, {{acos|35}}–{{acos|36}}, {{acos|41}}<br>TPoD: {{tpod|12}}, {{tpod|27}}, {{tpod|29}}<br>WH: {{wh|13}}, {{wh|23}}–{{wh|25}}, {{wh|34}}–{{wh|35}}<br>CoT: {{cot|23}}–{{cot|24}}<br>KoD: {{kod|18}}–{{kod|21}}, {{kod|27}}<br>TGS: {{tgs|p}}, {{tgs|1}}, {{tgs|5}}, {{tgs|7}}, {{tgs|14}}, {{tgs|17}}, {{tgs|23}}, {{tgs|31}}–{{tgs|32}}, {{tgs|37}}, {{tgs|44}}, {{tgs|48}}<br>ToM: {{tom|12}}–{{tom|13}}, {{tom|32}}, {{tom|51}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|13}}, {{amol|18}}, {{amol|33}}, {{amol|35}}, {{amol|37}}, {{amol|40}}, {{amol|42}}, {{amol|e}}
+| 49
+|-
+| [[Caira]]
+| ACoS: {{acos|17}}, {{acos|21}}–{{acos|22}}, {{acos|28}}<br>WH: {{wh|19}}
+| 5
+|-
+| [[Caire din Gelyn Running Wave]]
+| TPoD: {{tpod|5}}, {{tpod|20}}<br>WH: {{wh|11}}<br>KoD: {{kod|22}}
+| 4
+|-
+| [[Camaille Nolaisen]]
+| ACoS: {{acos|4}}, {{acos|27}}<br>TPoD: {{tpod|8}}<br>KoD: {{kod|12}}
+| 4
+|-
+| [[Caraline Damodred]]
+| ACoS: {{acos|35}}–{{acos|36}}<br>KoD: {{kod|21}}<br>TGS: {{tgs|42}}
+| 4
+|-
+| [[Careane Fransi]]
+| ACoS: {{acos|30}}–{{acos|31}}, {{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|6}}<br>WH: {{wh|7}}, {{wh|27}}<br>CoT: {{cot|11}}<br>KoD: {{kod|16}}, {{kod|31}}
+| 14
+|-
+| [[Carelle]]
+| TPoD: {{tpod|9}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}<br>CoT: {{cot|6}}–{{cot|7}}<br>KoD: {{kod|29}}
+| 7
+|-
+| [[Carlinya]]
+| TGH: {{tgh|4}}<br>TFoH: {{tfoh|26}}–{{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|7}}, {{loc|12}}, {{loc|15}}, {{loc|30}}, {{loc|32}}, {{loc|34}}–{{loc|35}}<br>TPoD: {{tpod|16}}<br>CoT: {{cot|16}}–{{cot|17}}, {{cot|19}}<br>KoD: {{kod|1}}
+| 17
+|-
+| [[Caseille Raskovni]]
+| WH: {{wh|7}}, {{wh|12}}, {{wh|27}}<br>CoT: {{cot|10}}–{{cot|11}}, {{cot|14}}<br>KoD: {{kod|13}}, {{kod|32}}–{{kod|33}}, {{kod|35}}
+| 10
+|-
+| [[Catalyn Haevin]]
+| CoT: {{cot|13}}<br>KoD: {{kod|17}}, {{kod|32}}–{{kod|33}}, {{kod|35}}<br>ToM: {{tom|23}}
+| 6
+|-
+| [[Cenn Buie]]
+| TEotW: {{teotw|Ravens}}, {{teotw|1}}–{{teotw|4}}, {{teotw|9}}<br>TGH: {{tgh|23}}<br>TSR: {{tsr|30}}, {{tsr|42}}, {{tsr|44}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|p}}
+| 14
+|-
+| [[Cerandin]]
+| TFoH: {{tfoh|17}}, {{tfoh|33}}, {{tfoh|36}}–{{tfoh|38}}, {{tfoh|40}}, {{tfoh|48}}
+| 7
+|-
+| [[Chanelle din Seran White Shark]]
+| CoT: {{cot|12}}–{{cot|13}}<br>KoD: {{kod|14}}, {{kod|32}}–{{kod|33}}
+| 5
+|-
+| [[Charl Gedwyn]]
+| LoC: {{loc|55}}<br>ACoS: {{acos|2}}<br>TPoD: {{tpod|21}}–{{tpod|24}}, {{tpod|29}}<br>WH: {{wh|33}}
+| 8
+|-
+| [[Charlz Guybon]]
+| KoD: {{kod|13}}, {{kod|32}}–{{kod|33}}<br>ToM: {{tom|11}}, {{tom|19}}, {{tom|31}}, {{tom|50}}, {{tom|52}}<br>AMoL: {{amol|p}}, {{amol|1}}, {{amol|8}}
+| 11
+|-
+| [[Chel Vanin]]
+| LoC: {{loc|22}}, {{loc|38}}, {{loc|40}}, {{loc|44}}, {{loc|47}}, {{loc|52}}<br>ACoS: {{acos|17}}, {{acos|28}}, {{acos|37}}–{{acos|38}}<br>WH: {{wh|17}}, {{wh|30}}<br>CoT: {{cot|1}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|8}}, {{kod|25}}–{{kod|27}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|20}}<br>ToM: {{tom|17}}<br>AMoL: {{amol|33}}, {{amol|35}}
+| 25
+|-
+| [[Chesa]]
+| LoC: {{loc|36}}–{{loc|37}}, {{loc|52}}, {{loc|e}}<br>ACoS: {{acos|8}}<br>TPoD: {{tpod|16}}, {{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|20}}, {{cot|30}}<br>TGS: {{tgs|43}}
+| 11
+|-
+| [[Chesmal Emry]]
+| TFoH: {{tfoh|18}}, {{tfoh|34}}<br>WH: {{wh|10}}<br>KoD: {{kod|31}}, {{kod|33}}<br>ToM: {{tom|23}}
+| 6
+|-
+| [[Chiad]]
+| TDR: {{tdr|38}}–{{tdr|39}}<br>TSR: {{tsr|3}}, {{tsr|18}}, {{tsr|27}}–{{tsr|33}}, {{tsr|40}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|45}}, {{loc|49}}–{{loc|51}}<br>ACoS: {{acos|4}}, {{acos|27}}<br>TPoD: {{tpod|30}}<br>WH: {{wh|3}}–{{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|28}}<br>TGS: {{tgs|21}}<br>ToM: {{tom|34}}, {{tom|38}}, {{tom|53}}<br>AMoL: {{amol|13}}, {{amol|44}}
+| 36
+|-
+| [[Clarine Anhill]]
+| TFoH: {{tfoh|17}}, {{tfoh|36}}–{{tfoh|37}}, {{tfoh|47}}–{{tfoh|48}}<br>CoT: {{cot|2}}<br>KoD: {{kod|7}}
+| 7
+|-
+| [[Coiren Saeldain]]
+| LoC: {{loc|p}}, {{loc|27}}, {{loc|51}}, {{loc|55}}<br>ACoS: {{acos|1}}
+| 5
+|-
+| [[Colavaere Saighan]]
+| TFoH: {{tfoh|46}}, {{tfoh|51}}<br>LoC: {{loc|19}}, {{loc|25}}, {{loc|50}}<br>ACoS: {{acos|5}}–{{acos|6}}
+| 7
+|-
+| [[Coline]]
+| TEotW: {{teotw|35}}–{{teotw|36}}, {{teotw|44}}<br>TDR: {{tdr|45}}
+| 4
+|-
+| [[Conail Northan]]
+| CoT: {{cot|13}}<br>KoD: {{kod|17}}, {{kod|32}}–{{kod|33}}, {{kod|35}}<br>ToM: {{tom|23}}
+| 6
+|-
+| [[Corele Hovian]]
+| ACoS: {{acos|19}}, {{acos|41}}<br>WH: {{wh|23}}, {{wh|34}}–{{wh|35}}<br>TGS: {{tgs|5}}, {{tgs|7}}, {{tgs|29}}, {{tgs|32}}, {{tgs|35}}, {{tgs|44}}, {{tgs|48}}<br>ToM: {{tom|12}}–{{tom|13}}
+| 14
+|-
+| [[Couladin]]
+| TSR: {{tsr|23}}, {{tsr|34}}, {{tsr|36}}–{{tsr|37}}, {{tsr|49}}, {{tsr|57}}
+| 6
+|-
+| [[Covril]]
+| LoC: {{loc|20}}–{{loc|21}}<br>KoD: {{kod|19}}–{{kod|20}}<br>AMoL: {{amol|7}}
+| 5
+|-
+| [[Cowinde]]
+| TFoH: {{tfoh|5}}, {{tfoh|7}}, {{tfoh|24}}<br>LoC: {{loc|15}}, {{loc|25}}, {{loc|33}}
+| 6
+|-
+| [[Croi Makin]]
+| TFoH: {{tfoh|50}}<br>LoC: {{loc|8}}<br>ACoS: {{acos|12}}<br>CoT: {{cot|16}}
+| 4
+|-
+| [[Cuale]]
+| TGH: {{tgh|25}}–{{tgh|27}}, {{tgh|30}}–{{tgh|31}}
+| 5
+|-
+| [[Cyndane]]
+| TPoD: {{tpod|12}}<br>WH: {{wh|13}}, {{wh|35}}<br>KoD: {{kod|3}}<br>AMoL: {{amol|p}}, {{amol|12}}, {{amol|14}}, {{amol|22}}, {{amol|25}}, {{amol|34}}, {{amol|49}}
+| 11
+|-
+| [[Daerid Ondin]]
+| TFoH: {{tfoh|43}}–{{tfoh|45}}, {{tfoh|53}}<br>LoC: {{loc|5}}, {{loc|22}}, {{loc|33}}, {{loc|38}}<br>AMoL: {{amol|41}}
+| 9
+|-
+| [[Daigian Moseneillin]]
+| ACoS: {{acos|19}}<br>TPoD: {{tpod|12}}, {{tpod|27}}<br>WH: {{wh|13}}, {{wh|23}}, {{wh|34}}–{{wh|35}}<br>TGS: {{tgs|7}}, {{tgs|14}}, {{tgs|17}}
+| 10
+|-
+| [[Dain Bornhald]]
+| TEotW: {{teotw|15}}, {{teotw|17}}<br>TDR: {{tdr|10}}<br>TSR: {{tsr|1}}, {{tsr|31}}, {{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|31}}<br>KoD: {{kod|p}}<br>ToM: {{tom|p}}, {{tom|2}}, {{tom|4}}, {{tom|10}}, {{tom|26}}, {{tom|34}}–{{tom|35}}, {{tom|41}}<br>AMoL: {{amol|13}}
+| 19
+|-
+| [[Daise Congar]]
+| TEotW: {{teotw|1}}<br>TSR: {{tsr|42}}, {{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|p}}
+| 6
+|-
+| [[Damer Flinn]]
+| LoC: {{loc|3}}, {{loc|11}}, {{loc|42}}, {{loc|55}}<br>ACoS: {{acos|3}}–{{acos|4}}, {{acos|34}}, {{acos|36}}, {{acos|41}}<br>TPoD: {{tpod|14}}, {{tpod|21}}–{{tpod|24}}, {{tpod|27}}, {{tpod|29}}<br>WH: {{wh|23}}, {{wh|34}}–{{wh|35}}<br>CoT: {{cot|23}}<br>TGS: {{tgs|1}}, {{tgs|5}}, {{tgs|7}}, {{tgs|15}}, {{tgs|31}}–{{tgs|32}}, {{tgs|35}}, {{tgs|42}}<br>ToM: {{tom|13}}, {{tom|32}}<br>AMoL: {{amol|5}}, {{amol|33}}–{{amol|34}}, {{amol|37}}, {{amol|e}}
+| 35
+|-
+| [[Dannil Lewin]]
+| TSR: {{tsr|33}}, {{tsr|40}}, {{tsr|42}}–{{tsr|45}}, {{tsr|53}}<br>LoC: {{loc|45}}, {{loc|54}}–{{loc|55}}<br>ACoS: {{acos|2}}, {{acos|27}}<br>WH: {{wh|2}}, {{wh|6}}<br>CoT: {{cot|5}}, {{cot|8}}, {{cot|25}}, {{cot|27}}<br>KoD: {{kod|4}}, {{kod|29}}<br>ToM: {{tom|30}}, {{tom|34}}<br>AMoL: {{amol|8}}, {{amol|37}}, {{amol|39}}
+| 25
+|-
+| [[Dark One]]
+| LoC: {{loc|p}}, {{loc|e}}<br>AMoL: {{amol|34}}, {{amol|37}}–{{amol|39}}
+| 6
+|-
+| [[Darl Coplin]]
+| TEotW: {{teotw|9}}<br>TSR: {{tsr|44}}–{{tsr|45}}, {{tsr|56}}<br>ToM: {{tom|10}}
+| 5
+|-
+| [[Darlin Sisnera]]
+| TDR: {{tdr|54}}<br>ACoS: {{acos|35}}–{{acos|36}}<br>KoD: {{kod|21}}<br>TGS: {{tgs|42}}<br>ToM: {{tom|13}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|20}}, {{amol|33}}
+| 10
+|-
+| [[Daved Hanlon]]
+| ACoS: {{acos|35}}<br>TPoD: {{tpod|28}}<br>WH: {{wh|9}}–{{wh|10}}, {{wh|26}}–{{wh|27}}<br>CoT: {{cot|11}}, {{cot|15}}<br>KoD: {{kod|16}}, {{kod|31}}<br>ToM: {{tom|23}}<br>AMoL: {{amol|39}}
+| 12
+|-
+| [[Davram Bashere]]
+| TFoH: {{tfoh|56}}<br>LoC: {{loc|1}}–{{loc|2}}, {{loc|10}}–{{loc|11}}, {{loc|16}}, {{loc|26}}, {{loc|46}}<br>ACoS: {{acos|7}}, {{acos|41}}<br>TPoD: {{tpod|22}}–{{tpod|24}}<br>CoT: {{cot|p}}, {{cot|24}}, {{cot|e}}<br>KoD: {{kod|20}}, {{kod|27}}<br>TGS: {{tgs|1}}, {{tgs|7}}, {{tgs|11}}, {{tgs|15}}, {{tgs|22}}, {{tgs|42}}<br>ToM: {{tom|32}}<br>AMoL: {{amol|7}}–{{amol|8}}, {{amol|10}}, {{amol|13}}, {{amol|19}}, {{amol|26}}
+| 31
+|-
+| [[Deira Bashere]]
+| LoC: {{loc|26}}, {{loc|46}}<br>ACoS: {{acos|7}}, {{acos|41}}<br>CoT: {{cot|p}}<br>TGS: {{tgs|22}}<br>AMoL: {{amol|26}}
+| 7
+|-
+| [[Delana Mosalaine]]
+| LoC: {{loc|12}}, {{loc|30}}, {{loc|34}}–{{loc|37}}<br>TPoD: {{tpod|16}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|16}}–{{cot|17}}, {{cot|19}}<br>KoD: {{kod|23}}<br>ToM: {{tom|p}}
+| 16
+|-
+| [[Demandred]]
+| LoC: {{loc|p}}, {{loc|e}}<br>WH: {{wh|13}}, {{wh|35}}<br>KoD: {{kod|3}}<br>TGS: {{tgs|p}}<br>AMoL: {{amol|p}}, {{amol|22}}–{{amol|23}}, {{amol|37}}–{{amol|38}}
+| 11
+|-
+| [[Deni Colford]]
+| WH: {{wh|7}}, {{wh|12}}<br>CoT: {{cot|11}}<br>KoD: {{kod|16}}–{{kod|17}}, {{kod|31}}
+| 6
+|-
+| [[Dhearic]]
+| TFoH: {{tfoh|20}}, {{tfoh|23}}, {{tfoh|42}}<br>LoC: {{loc|4}}
+| 4
+|-
+| [[Dobraine Taborwin]]
+| TFoH: {{tfoh|46}}, {{tfoh|51}}, {{tfoh|53}}<br>LoC: {{loc|19}}, {{loc|50}}, {{loc|53}}–{{loc|55}}<br>ACoS: {{acos|2}}–{{acos|6}}, {{acos|34}}<br>TPoD: {{tpod|27}}<br>WH: {{wh|p}}, {{wh|13}}<br>CoT: {{cot|p}}<br>TGS: {{tgs|29}}, {{tgs|42}}
+| 20
+|-
+| [[Doesine Alwain]]
+| TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>CoT: {{cot|21}}<br>KoD: {{kod|24}}<br>TGS: {{tgs|12}}, {{tgs|16}}, {{tgs|46}}<br>ToM: {{tom|3}}, {{tom|27}}<br>AMoL: {{amol|25}}, {{amol|31}}, {{amol|37}}
+| 12
+|-
+| [[Donalo Sandomere]]
+| WH: {{wh|p}}<br>KoD: {{kod|20}}, {{kod|27}}<br>AMoL: {{amol|42}}
+| 4
+|-
+| [[Dorile din Eiran Long Feather]]
+| ACoS: {{acos|13}}<br>TPoD: {{tpod|2}}, {{tpod|5}}, {{tpod|20}}
+| 4
+|-
+| [[Duhara Basaheen]]
+| NS: {{ns|14}}<br>TPoD: {{tpod|25}}<br>KoD: {{kod|31}}<br>AMoL: {{amol|23}}
+| 4
+|-
+| [[Dyelin Taravin]]
+| LoC: {{loc|16}}, {{loc|41}}, {{loc|43}}<br>WH: {{wh|p}}, {{wh|9}}<br>CoT: {{cot|13}}–{{cot|14}}<br>KoD: {{kod|17}}, {{kod|32}}–{{kod|33}}, {{kod|35}}<br>ToM: {{tom|11}}, {{tom|23}}, {{tom|45}}, {{tom|50}}<br>AMoL: {{amol|2}}, {{amol|7}}
+| 17
+|-
+| [[Eadyth]]
+| NS: {{ns|11}}–{{ns|14}}
+| 4
+|-
+| [[Eamon Valda]]
+| LoC: {{loc|31}}<br>ACoS: {{acos|p}}<br>CoT: {{cot|p}}<br>KoD: {{kod|p}}
+| 4
+|-
+| [[Easar Togita]]
+| TPoD: {{tpod|p}}<br>WH: {{wh|27}}<br>ToM: {{tom|51}}<br>AMoL: {{amol|5}}–{{amol|7}}, {{amol|10}}
+| 7
+|-
+| [[Eben Hopwil]]
+| LoC: {{loc|3}}, {{loc|11}}, {{loc|42}}, {{loc|55}}<br>ACoS: {{acos|7}}<br>TPoD: {{tpod|13}}–{{tpod|14}}, {{tpod|21}}–{{tpod|24}}, {{tpod|27}}<br>WH: {{wh|13}}, {{wh|23}}, {{wh|34}}–{{wh|35}}
+| 16
+|-
+| [[Edarra]]
+| LoC: {{loc|19}}, {{loc|25}}<br>ACoS: {{acos|1}}, {{acos|3}}, {{acos|19}}, {{acos|27}}<br>TPoD: {{tpod|7}}–{{tpod|9}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}<br>CoT: {{cot|27}}<br>KoD: {{kod|29}}<br>ToM: {{tom|6}}, {{tom|10}}, {{tom|21}}, {{tom|26}}, {{tom|38}}, {{tom|53}}<br>AMoL: {{amol|12}}
+| 21
+|-
+| [[Edesina Azzedin]]
+| TFoH: {{tfoh|26}}<br>WH: {{wh|28}}, {{wh|31}}<br>CoT: {{cot|1}}, {{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|7}}, {{kod|9}}–{{kod|10}}, {{kod|25}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|20}}, {{tgs|27}}–{{tgs|28}}<br>ToM: {{tom|17}}
+| 17
+|-
+| [[Edorion Selorna]]
+| TSR: {{tsr|2}}<br>TFoH: {{tfoh|30}}, {{tfoh|46}}<br>LoC: {{loc|5}}<br>KoD: {{kod|26}}
+| 5
+|-
+| [[Efalin]]
+| ACoS: {{acos|p}}, {{acos|40}}<br>TPoD: {{tpod|11}}, {{tpod|30}}
+| 4
+|-
+| [[Egeanin]]
+| TGH: {{tgh|29}}<br>TSR: {{tsr|38}}, {{tsr|46}}, {{tsr|51}}–{{tsr|52}}, {{tsr|54}}–{{tsr|55}}<br>WH: {{wh|19}}, {{wh|21}}, {{wh|29}}–{{wh|31}}<br>CoT: {{cot|1}}–{{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|7}}–{{kod|10}}, {{kod|25}}–{{kod|26}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|34}}<br>ToM: {{tom|17}}<br>AMoL: {{amol|p}}, {{amol|1}}, {{amol|9}}, {{amol|11}}, {{amol|18}}, {{amol|23}}, {{amol|29}}, {{amol|31}}, {{amol|36}}, {{amol|43}}
+| 37
+|-
+| [[Egwene al'Vere]]
+| TEotW: {{teotw|Ravens}}, {{teotw|3}}–{{teotw|4}}, {{teotw|7}}, {{teotw|10}}–{{teotw|14}}, {{teotw|16}}–{{teotw|20}}, {{teotw|22}}–{{teotw|23}}, {{teotw|25}}, {{teotw|27}}, {{teotw|29}}–{{teotw|30}}, {{teotw|38}}, {{teotw|41}}–{{teotw|53}}<br>TGH: {{tgh|3}}–{{tgh|4}}, {{tgh|6}}, {{tgh|8}}, {{tgh|12}}, {{tgh|18}}, {{tgh|23}}–{{tgh|24}}, {{tgh|38}}–{{tgh|40}}, {{tgh|42}}, {{tgh|46}}, {{tgh|48}}<br>TDR: {{tdr|10}}–{{tdr|11}}, {{tdr|13}}–{{tdr|18}}, {{tdr|21}}–{{tdr|23}}, {{tdr|25}}–{{tdr|29}}, {{tdr|37}}–{{tdr|39}}, {{tdr|48}}–{{tdr|49}}, {{tdr|51}}, {{tdr|54}}–{{tdr|56}}<br>TSR: {{tsr|5}}–{{tsr|9}}, {{tsr|11}}–{{tsr|12}}, {{tsr|16}}, {{tsr|21}}–{{tsr|23}}, {{tsr|34}}–{{tsr|37}}, {{tsr|48}}–{{tsr|49}}, {{tsr|52}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}, {{tfoh|5}}, {{tfoh|7}}, {{tfoh|14}}–{{tfoh|15}}, {{tfoh|21}}–{{tfoh|25}}, {{tfoh|41}}, {{tfoh|43}}–{{tfoh|44}}, {{tfoh|51}}–{{tfoh|53}}<br>LoC: {{loc|14}}–{{loc|15}}, {{loc|18}}, {{loc|24}}–{{loc|25}}, {{loc|27}}, {{loc|32}}–{{loc|39}}, {{loc|44}}, {{loc|52}}, {{loc|e}}<br>ACoS: {{acos|8}}–{{acos|12}}<br>TPoD: {{tpod|15}}–{{tpod|19}}, {{tpod|30}}<br>WH: {{wh|10}}, {{wh|26}}<br>CoT: {{cot|16}}–{{cot|20}}, {{cot|30}}<br>KoD: {{kod|p}}, {{kod|24}}<br>TGS: {{tgs|2}}, {{tgs|6}}, {{tgs|8}}, {{tgs|12}}, {{tgs|16}}, {{tgs|25}}, {{tgs|38}}–{{tgs|39}}, {{tgs|41}}, {{tgs|43}}, {{tgs|45}}–{{tgs|46}}, {{tgs|e}}<br>ToM: {{tom|3}}, {{tom|5}}, {{tom|14}}–{{tom|15}}, {{tom|20}}, {{tom|22}}–{{tom|23}}, {{tom|27}}, {{tom|33}}, {{tom|35}}–{{tom|38}}, {{tom|42}}, {{tom|56}}<br>AMoL: {{amol|1}}, {{amol|5}}–{{amol|7}}, {{amol|9}}, {{amol|11}}, {{amol|13}}, {{amol|18}}–{{amol|20}}, {{amol|22}}–{{amol|23}}, {{amol|25}}–{{amol|26}}, {{amol|29}}, {{amol|31}}–{{amol|32}}, {{amol|36}}–{{amol|37}}
+| 194
+|-
+| [[Elaida do Avriny a'Roihan]]
+| NS: {{ns|5}}–{{ns|6}}, {{ns|8}}–{{ns|11}}<br>TEotW: {{teotw|40}}<br>TGH: {{tgh|24}}<br>TDR: {{tdr|16}}–{{tdr|17}}, {{tdr|22}}–{{tdr|23}}, {{tdr|27}}<br>TSR: {{tsr|1}}, {{tsr|47}}<br>TFoH: {{tfoh|p}}<br>ACoS: {{acos|p}}, {{acos|32}}<br>TPoD: {{tpod|25}}<br>CoT: {{cot|21}}<br>KoD: {{kod|2}}, {{kod|25}}<br>TGS: {{tgs|2}}, {{tgs|16}}, {{tgs|41}}<br>ToM: {{tom|47}}
+| 26
+|-
+| [[Elayne Trakand]]
+| TEotW: {{teotw|39}}–{{teotw|40}}<br>TGH: {{tgh|24}}, {{tgh|38}}–{{tgh|40}}, {{tgh|42}}–{{tgh|43}}, {{tgh|45}}–{{tgh|46}}<br>TDR: {{tdr|10}}–{{tdr|11}}, {{tdr|13}}, {{tdr|16}}–{{tdr|18}}, {{tdr|23}}, {{tdr|25}}–{{tdr|29}}, {{tdr|37}}–{{tdr|39}}, {{tdr|48}}–{{tdr|49}}, {{tdr|51}}, {{tdr|54}}–{{tdr|56}}<br>TSR: {{tsr|5}}–{{tsr|9}}, {{tsr|11}}–{{tsr|12}}, {{tsr|16}}, {{tsr|19}}–{{tsr|20}}, {{tsr|35}}, {{tsr|39}}, {{tsr|46}}, {{tsr|51}}–{{tsr|52}}, {{tsr|54}}–{{tsr|55}}<br>TFoH: {{tfoh|8}}–{{tfoh|10}}, {{tfoh|13}}, {{tfoh|16}}–{{tfoh|17}}, {{tfoh|25}}, {{tfoh|33}}–{{tfoh|37}}, {{tfoh|40}}, {{tfoh|47}}–{{tfoh|50}}<br>LoC: {{loc|p}}, {{loc|7}}–{{loc|8}}, {{loc|12}}–{{loc|15}}, {{loc|29}}–{{loc|30}}, {{loc|36}}–{{loc|39}}, {{loc|47}}–{{loc|48}}, {{loc|52}}<br>ACoS: {{acos|13}}, {{acos|21}}–{{acos|24}}, {{acos|30}}–{{acos|31}}, {{acos|37}}–{{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|6}}, {{tpod|20}}, {{tpod|28}}<br>WH: {{wh|p}}, {{wh|7}}–{{wh|10}}, {{wh|12}}, {{wh|26}}–{{wh|27}}<br>CoT: {{cot|10}}–{{cot|14}}<br>KoD: {{kod|13}}–{{kod|17}}, {{kod|31}}, {{kod|33}}, {{kod|35}}<br>ToM: {{tom|11}}, {{tom|14}}, {{tom|17}}, {{tom|19}}, {{tom|22}}–{{tom|24}}, {{tom|29}}, {{tom|33}}, {{tom|45}}, {{tom|47}}, {{tom|50}}, {{tom|52}}, {{tom|56}}<br>AMoL: {{amol|1}}–{{amol|2}}, {{amol|5}}–{{amol|10}}, {{amol|13}}, {{amol|19}}, {{amol|24}}, {{amol|26}}, {{amol|30}}, {{amol|32}}, {{amol|37}}, {{amol|39}}–{{amol|40}}, {{amol|48}}, {{amol|e}}
+| 153
+|-
+| [[Eldrin Cauthon]]
+| TEotW: {{teotw|Ravens}}<br>TSR: {{tsr|33}}, {{tsr|45}}, {{tsr|56}}
+| 4
+|-
+| [[Eldrith Jhondar]]
+| TSR: {{tsr|38}}<br>TFoH: {{tfoh|18}}<br>WH: {{wh|10}}<br>KoD: {{kod|31}}<br>ToM: {{tom|23}}
+| 5
+|-
+| [[Elenia Sarand]]
+| TFoH: {{tfoh|19}}<br>LoC: {{loc|1}}, {{loc|26}}<br>CoT: {{cot|15}}<br>KoD: {{kod|17}}, {{kod|33}}<br>ToM: {{tom|50}}
+| 7
+|-
+| [[Ellorien Traemane]]
+| LoC: {{loc|16}}, {{loc|41}}<br>KoD: {{kod|35}}<br>ToM: {{tom|22}}–{{tom|23}}
+| 5
+|-
+| [[Elyas Machera]]
+| NS: {{ns|7}}<br>TEotW: {{teotw|23}}, {{teotw|25}}, {{teotw|27}}, {{teotw|29}}–{{teotw|30}}<br>TPoD: {{tpod|10}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}<br>CoT: {{cot|8}}, {{cot|27}}<br>KoD: {{kod|26}}, {{kod|30}}<br>ToM: {{tom|6}}, {{tom|10}}, {{tom|24}}, {{tom|38}}, {{tom|40}}<br>AMoL: {{amol|30}}–{{amol|31}}, {{amol|40}}
+| 22
+|-
+| [[Elza Penfell]]
+| ACoS: {{acos|1}}<br>TPoD: {{tpod|29}}<br>WH: {{wh|13}}, {{wh|23}}, {{wh|25}}, {{wh|35}}<br>CoT: {{cot|23}}–{{cot|24}}<br>KoD: {{kod|20}}, {{kod|27}}<br>TGS: {{tgs|5}}, {{tgs|7}}, {{tgs|17}}, {{tgs|22}}
+| 14
+|-
+| [[Enaila]]
+| TFoH: {{tfoh|3}}, {{tfoh|6}}, {{tfoh|15}}, {{tfoh|20}}, {{tfoh|41}}, {{tfoh|44}}, {{tfoh|46}}, {{tfoh|53}}–{{tfoh|54}}, {{tfoh|56}}<br>LoC: {{loc|1}}, {{loc|3}}–{{loc|4}}, {{loc|10}}, {{loc|41}}–{{loc|42}}, {{loc|50}}<br>ACoS: {{acos|7}}, {{acos|33}}<br>KoD: {{kod|18}}–{{kod|19}}
+| 21
+|-
+| [[Erian Boroleos]]
+| LoC: {{loc|p}}, {{loc|25}}, {{loc|53}}, {{loc|55}}<br>ACoS: {{acos|1}}<br>TPoD: {{tpod|29}}<br>WH: {{wh|13}}, {{wh|23}}<br>CoT: {{cot|23}}<br>TGS: {{tgs|17}}, {{tgs|23}}
+| 11
+|-
+| [[Erim]]
+| TSR: {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}, {{tfoh|6}}, {{tfoh|42}}–{{tfoh|43}}<br>LoC: {{loc|4}}
+| 7
+|-
+| [[Erith]]
+| TGH: {{tgh|35}}<br>LoC: {{loc|20}}–{{loc|21}}<br>KoD: {{kod|19}}–{{kod|20}}<br>AMoL: {{amol|7}}, {{amol|16}}
+| 7
+|-
+| [[Escaralde Hamdey]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>KoD: {{kod|23}}
+| 9
+|-
+| [[Essande]]
+| WH: {{wh|9}}, {{wh|26}}–{{wh|27}}<br>CoT: {{cot|12}}–{{cot|13}}<br>KoD: {{kod|15}}, {{kod|35}}
+| 7
+|-
+| [[Estean Andiama]]
+| TSR: {{tsr|2}}, {{tsr|21}}<br>TFoH: {{tfoh|30}}, {{tfoh|43}}–{{tfoh|45}}<br>LoC: {{loc|5}}
+| 7
+|-
+| [[Ethenielle Kirukon Materasu]]
+| TPoD: {{tpod|p}}<br>WH: {{wh|27}}<br>ToM: {{tom|51}}<br>AMoL: {{amol|10}}, {{amol|28}}
+| 5
+|-
+| [[Evin Vinchova]]
+| TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>ToM: {{tom|56}}<br>AMoL: {{amol|2}}–{{amol|3}}, {{amol|8}}, {{amol|14}}
+| 7
+|-
+| [[Ewin Finngar]]
+| TEotW: {{teotw|2}}–{{teotw|4}}<br>TSR: {{tsr|43}}, {{tsr|56}}
+| 5
+|-
+| [[Faeldrin Harella]]
+| LoC: {{loc|49}}, {{loc|55}}<br>ACoS: {{acos|34}}<br>TPoD: {{tpod|12}}<br>AMoL: {{amol|34}}
+| 5
+|-
+| [[Fager Neald]]
+| ACoS: {{acos|27}}<br>TPoD: {{tpod|8}}–{{tpod|10}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}, {{wh|6}}<br>CoT: {{cot|25}}–{{cot|27}}<br>KoD: {{kod|p}}, {{kod|12}}, {{kod|29}}<br>ToM: {{tom|6}}, {{tom|10}}, {{tom|26}}, {{tom|34}}, {{tom|38}}, {{tom|40}}–{{tom|41}}, {{tom|53}}<br>AMoL: {{amol|13}}, {{amol|41}}
+| 24
+|-
+| [[Faile]]
+| TDR: {{tdr|33}}–{{tdr|36}}, {{tdr|41}}–{{tdr|44}}, {{tdr|50}}, {{tdr|53}}–{{tdr|55}}<br>TSR: {{tsr|2}}–{{tsr|3}}, {{tsr|10}}, {{tsr|14}}, {{tsr|16}}, {{tsr|18}}, {{tsr|27}}–{{tsr|33}}, {{tsr|40}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|p}}, {{loc|45}}–{{loc|46}}, {{loc|50}}–{{loc|51}}, {{loc|53}}<br>ACoS: {{acos|5}}–{{acos|6}}, {{acos|27}}<br>TPoD: {{tpod|7}}–{{tpod|10}}, {{tpod|30}}<br>WH: {{wh|3}}–{{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|5}}, {{kod|26}}, {{kod|28}}–{{kod|30}}<br>TGS: {{tgs|p}}, {{tgs|9}}, {{tgs|21}}<br>ToM: {{tom|p}}, {{tom|2}}, {{tom|4}}, {{tom|6}}–{{tom|7}}, {{tom|16}}, {{tom|18}}, {{tom|21}}, {{tom|24}}, {{tom|26}}, {{tom|28}}–{{tom|30}}, {{tom|34}}–{{tom|35}}, {{tom|38}}, {{tom|40}}–{{tom|41}}, {{tom|43}}–{{tom|44}}, {{tom|47}}, {{tom|53}}<br>AMoL: {{amol|5}}–{{amol|7}}, {{amol|33}}–{{amol|35}}, {{amol|37}}, {{amol|e}}
+| 88
+|-
+| [[Faiselle Darone]]
+| LoC: {{loc|34}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>KoD: {{kod|2}}, {{kod|23}}<br>TGS: {{tgs|43}}<br>ToM: {{tom|3}}, {{tom|27}}<br>AMoL: {{amol|31}}
+| 15
+|-
+| [[Falion Bhoda]]
+| TFoH: {{tfoh|18}}<br>LoC: {{loc|e}}<br>ACoS: {{acos|17}}, {{acos|38}}<br>TPoD: {{tpod|28}}<br>WH: {{wh|10}}<br>CoT: {{cot|15}}<br>KoD: {{kod|31}}, {{kod|33}}<br>AMoL: {{amol|23}}
+| 10
+|-
+| [[Famelle Juarde]]
+| ACoS: {{acos|37}}–{{acos|39}}<br>TPoD: {{tpod|2}}–{{tpod|3}}
+| 5
+|-
+| [[Faolain Orande]]
+| TDR: {{tdr|11}}, {{tdr|13}}, {{tdr|25}}<br>TSR: {{tsr|1}}<br>TFoH: {{tfoh|26}}, {{tfoh|50}}<br>LoC: {{loc|15}}, {{loc|36}}<br>ACoS: {{acos|11}}<br>TPoD: {{tpod|16}}<br>AMoL: {{amol|21}}
+| 11
+|-
+| [[Fedwin Morr]]
+| LoC: {{loc|3}}, {{loc|11}}, {{loc|42}}, {{loc|55}}<br>ACoS: {{acos|7}}<br>TPoD: {{tpod|14}}, {{tpod|21}}–{{tpod|24}}, {{tpod|27}}, {{tpod|29}}
+| 12
+|-
+| [[Felaana Bevaine]]
+| NS: {{ns|17}}–{{ns|18}}<br>KoD: {{kod|p}}, {{kod|24}}
+| 4
+|-
+| [[Fen Mizar]]
+| WH: {{wh|29}}<br>CoT: {{cot|1}}–{{cot|3}}, {{cot|28}}<br>KoD: {{kod|7}}, {{kod|9}}–{{kod|10}}, {{kod|25}}, {{kod|37}}<br>TGS: {{tgs|27}}–{{tgs|28}}<br>ToM: {{tom|9}}
+| 13
+|-
+| [[Ferane Neheran]]
+| CoT: {{cot|21}}<br>KoD: {{kod|p}}, {{kod|24}}<br>TGS: {{tgs|16}}, {{tgs|43}}, {{tgs|46}}<br>ToM: {{tom|3}}, {{tom|27}}
+| 8
+|-
+| [[Fergin]]
+| ACoS: {{acos|38}}–{{acos|39}}<br>WH: {{wh|17}}<br>CoT: {{cot|28}}–{{cot|29}}<br>KoD: {{kod|8}}<br>ToM: {{tom|9}}
+| 7
+|-
+| [[Fitch]]
+| TEotW: {{teotw|13}}–{{teotw|15}}, {{teotw|17}}
+| 4
+|-
+| [[Flann Barstere]]
+| TPoD: {{tpod|9}}<br>CoT: {{cot|25}}–{{cot|26}}<br>ToM: {{tom|34}}
+| 4
+|-
+| [[Floran Gelb]]
+| TEotW: {{teotw|20}}, {{teotw|24}}, {{teotw|26}}<br>TSR: {{tsr|38}}, {{tsr|46}}
+| 5
+|-
+| [[Furen Alharra]]
+| TPoD: {{tpod|7}}–{{tpod|8}}<br>WH: {{wh|6}}<br>CoT: {{cot|26}}–{{cot|27}}<br>KoD: {{kod|26}}, {{kod|30}}
+| 7
+|-
+| [[Furyk Karede]]
+| TPoD: {{tpod|23}}<br>CoT: {{cot|4}}<br>KoD: {{kod|34}}, {{kod|36}}, {{kod|e}}<br>TGS: {{tgs|19}}, {{tgs|35}}<br>ToM: {{tom|47}}<br>AMoL: {{amol|15}}, {{amol|17}}, {{amol|29}}, {{amol|39}}
+| 12
+|-
+| [[Gabrelle Brawley]]
+| WH: {{wh|p}}<br>CoT: {{cot|p}}<br>KoD: {{kod|27}}<br>AMoL: {{amol|37}}, {{amol|43}}, {{amol|48}}
+| 6
+|-
+| [[Galad Damodred]]
+| TEotW: {{teotw|40}}<br>TGH: {{tgh|24}}<br>TDR: {{tdr|16}}, {{tdr|24}}<br>TSR: {{tsr|17}}<br>TFoH: {{tfoh|16}}, {{tfoh|40}}, {{tfoh|47}}–{{tfoh|48}}<br>KoD: {{kod|p}}<br>ToM: {{tom|p}}, {{tom|2}}, {{tom|4}}, {{tom|7}}, {{tom|10}}, {{tom|26}}, {{tom|29}}, {{tom|34}}–{{tom|35}}, {{tom|40}}–{{tom|41}}, {{tom|43}}–{{tom|45}}, {{tom|47}}, {{tom|53}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|13}}, {{amol|16}}, {{amol|26}}, {{amol|32}}, {{amol|37}}
+| 33
+|-
+| [[Galina Casban]]
+| LoC: {{loc|p}}, {{loc|27}}, {{loc|51}}, {{loc|53}}, {{loc|55}}<br>ACoS: {{acos|40}}<br>TPoD: {{tpod|11}}<br>WH: {{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|p}}, {{kod|5}}, {{kod|26}}, {{kod|28}}, {{kod|30}}
+| 14
+|-
+| [[Gareth Bryne]]
+| TEotW: {{teotw|40}}<br>TFoH: {{tfoh|1}}, {{tfoh|12}}, {{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|p}}, {{loc|8}}, {{loc|12}}–{{loc|13}}, {{loc|30}}<br>ACoS: {{acos|11}}–{{acos|12}}<br>TPoD: {{tpod|15}}, {{tpod|17}}, {{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|16}}–{{cot|17}}<br>KoD: {{kod|23}}<br>TGS: {{tgs|8}}, {{tgs|24}}, {{tgs|30}}, {{tgs|40}}–{{tgs|41}}, {{tgs|43}}, {{tgs|45}}<br>ToM: {{tom|3}}, {{tom|22}}<br>AMoL: {{amol|6}}–{{amol|7}}, {{amol|9}}, {{amol|11}}, {{amol|18}}, {{amol|21}}, {{amol|25}}, {{amol|27}}, {{amol|31}}, {{amol|37}}
+| 38
+|-
+| [[Gaul]]
+| TDR: {{tdr|33}}–{{tdr|34}}, {{tdr|54}}<br>TSR: {{tsr|7}}–{{tsr|8}}, {{tsr|16}}, {{tsr|18}}, {{tsr|27}}–{{tsr|33}}, {{tsr|40}}–{{tsr|43}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|45}}, {{loc|49}}–{{loc|50}}, {{loc|54}}<br>ACoS: {{acos|3}}, {{acos|27}}<br>TPoD: {{tpod|10}}<br>WH: {{wh|2}}<br>CoT: {{cot|5}}<br>KoD: {{kod|p}}, {{kod|26}}, {{kod|30}}<br>ToM: {{tom|2}}, {{tom|7}}, {{tom|10}}, {{tom|24}}, {{tom|26}}, {{tom|29}}, {{tom|34}}–{{tom|35}}, {{tom|38}}, {{tom|40}}, {{tom|47}}, {{tom|53}}<br>AMoL: {{amol|13}}–{{amol|14}}, {{amol|22}}, {{amol|25}}, {{amol|30}}, {{amol|45}}, {{amol|47}}
+| 51
+|-
+| [[Gawyn Trakand]]
+| TEotW: {{teotw|40}}<br>TGH: {{tgh|24}}<br>TDR: {{tdr|16}}, {{tdr|24}}<br>TSR: {{tsr|1}}, {{tsr|17}}, {{tsr|47}}<br>LoC: {{loc|p}}, {{loc|25}}, {{loc|53}}, {{loc|55}}<br>CoT: {{cot|p}}<br>TGS: {{tgs|4}}, {{tgs|13}}, {{tgs|24}}, {{tgs|30}}, {{tgs|40}}–{{tgs|41}}, {{tgs|43}}, {{tgs|45}}<br>ToM: {{tom|3}}, {{tom|5}}, {{tom|22}}–{{tom|23}}, {{tom|33}}, {{tom|37}}–{{tom|38}}, {{tom|42}}, {{tom|56}}<br>AMoL: {{amol|1}}, {{amol|5}}–{{amol|6}}, {{amol|9}}, {{amol|11}}, {{amol|13}}, {{amol|18}}–{{amol|20}}, {{amol|22}}–{{amol|23}}, {{amol|26}}, {{amol|29}}, {{amol|31}}–{{amol|32}}, {{amol|36}}–{{amol|37}}
+| 46
+|-
+| [[Geofram Bornhald]]
+| TEotW: {{teotw|30}}<br>TGH: {{tgh|5}}, {{tgh|29}}, {{tgh|44}}, {{tgh|46}}–{{tgh|47}}
+| 6
+|-
+| [[Gerard Arganda]]
+| WH: {{wh|2}}<br>CoT: {{cot|7}}–{{cot|8}}, {{cot|25}}, {{cot|27}}<br>KoD: {{kod|p}}, {{kod|4}}, {{kod|29}}<br>TGS: {{tgs|9}}<br>ToM: {{tom|2}}, {{tom|6}}, {{tom|21}}, {{tom|26}}, {{tom|34}}, {{tom|40}}–{{tom|41}}, {{tom|47}}, {{tom|53}}<br>AMoL: {{amol|10}}, {{amol|13}}, {{amol|26}}, {{amol|30}}, {{amol|32}}, {{amol|37}}, {{amol|39}}
+| 25
+|-
+| [[Gholam]]
+| LoC: {{loc|e}}<br>ACoS: {{acos|38}}<br>TPoD: {{tpod|1}}–{{tpod|2}}<br>WH: {{wh|16}}<br>ToM: {{tom|9}}, {{tom|31}}
+| 7
+|-
+| [[Gorderan]]
+| ACoS: {{acos|38}}–{{acos|39}}<br>WH: {{wh|17}}<br>CoT: {{cot|28}}–{{cot|29}}<br>KoD: {{kod|26}}<br>ToM: {{tom|9}}
+| 7
+|-
+| [[Graendal]]
+| TFoH: {{tfoh|p}}, {{tfoh|34}}<br>LoC: {{loc|p}}, {{loc|6}}, {{loc|23}}<br>ACoS: {{acos|20}}, {{acos|40}}<br>TPoD: {{tpod|12}}<br>WH: {{wh|13}}, {{wh|35}}<br>KoD: {{kod|3}}<br>TGS: {{tgs|p}}<br>ToM: {{tom|p}}, {{tom|5}}, {{tom|38}}, {{tom|e}}<br>AMoL: {{amol|p}}, {{amol|14}}, {{amol|22}}–{{amol|23}}, {{amol|30}}, {{amol|33}}–{{amol|34}}, {{amol|40}}, {{amol|42}}–{{amol|43}}, {{amol|47}}–{{amol|48}}
+| 28
+|-
+| [[Gregorin den Lushenos]]
+| ACoS: {{acos|41}}<br>TPoD: {{tpod|13}}–{{tpod|14}}, {{tpod|21}}, {{tpod|23}}–{{tpod|24}}<br>AMoL: {{amol|5}}–{{amol|6}}
+| 8
+|-
+| [[Gueyam]]
+| TSR: {{tsr|21}}<br>TFoH: {{tfoh|46}}<br>LoC: {{loc|19}}, {{loc|50}}<br>TPoD: {{tpod|13}}, {{tpod|21}}, {{tpod|23}}–{{tpod|24}}
+| 8
+|-
+| [[Hadnan Kadere]]
+| TSR: {{tsr|36}}–{{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|57}}<br>TFoH: {{tfoh|7}}, {{tfoh|20}}, {{tfoh|23}}, {{tfoh|29}}, {{tfoh|46}}, {{tfoh|52}}
+| 12
+|-
+| [[Hal Moir]]
+| LoC: {{loc|p}}, {{loc|55}}<br>ACoS: {{acos|p}}<br>TGS: {{tgs|13}}
+| 4
+|-
+| [[Halwin Norry]]
+| LoC: {{loc|16}}<br>WH: {{wh|9}}, {{wh|26}}–{{wh|27}}<br>CoT: {{cot|14}}<br>KoD: {{kod|16}}, {{kod|31}}, {{kod|35}}<br>ToM: {{tom|11}}, {{tom|45}}
+| 10
+|-
+| [[Haman]]
+| LoC: {{loc|20}}–{{loc|21}}<br>KoD: {{kod|19}}–{{kod|20}}<br>AMoL: {{amol|7}}, {{amol|16}}, {{amol|32}}
+| 7
+|-
+| [[Han]]
+| TSR: {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}, {{tfoh|6}}, {{tfoh|41}}–{{tfoh|43}}<br>LoC: {{loc|4}}
+| 8
+|-
+| [[Haral Luhhan]]
+| TEotW: {{teotw|Ravens}}, {{teotw|2}}–{{teotw|4}}, {{teotw|7}}, {{teotw|9}}<br>TGH: {{tgh|23}}<br>TSR: {{tsr|33}}, {{tsr|45}}, {{tsr|56}}<br>AMoL: {{amol|36}}, {{amol|44}}
+| 12
+|-
+| [[Hari Coplin]]
+| TEotW: {{teotw|9}}<br>TSR: {{tsr|44}}–{{tsr|45}}, {{tsr|56}}
+| 4
+|-
+| [[Harine din Togara Two Winds]]
+| ACoS: {{acos|34}}<br>WH: {{wh|13}}, {{wh|23}}–{{wh|24}}, {{wh|35}}<br>KoD: {{kod|22}}<br>TGS: {{tgs|5}}
+| 7
+|-
+| [[Harnan]]
+| LoC: {{loc|5}}, {{loc|47}}<br>ACoS: {{acos|17}}, {{acos|28}}, {{acos|38}}–{{acos|39}}<br>WH: {{wh|17}}, {{wh|28}}, {{wh|30}}<br>CoT: {{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|8}}, {{kod|25}}<br>TGS: {{tgs|27}}–{{tgs|28}}<br>AMoL: {{amol|33}}–{{amol|35}}
+| 19
+|-
+| [[Hartha]]
+| CoT: {{cot|4}}<br>KoD: {{kod|34}}, {{kod|36}}–{{kod|37}}
+| 4
+|-
+| [[Havien Nurelle]]
+| LoC: {{loc|17}}, {{loc|54}}–{{loc|55}}<br>ACoS: {{acos|2}}–{{acos|5}}, {{acos|27}}<br>TPoD: {{tpod|9}}–{{tpod|10}}<br>KoD: {{kod|29}}<br>AMoL: {{amol|32}}
+| 12
+|-
+| [[Heirn]]
+| TSR: {{tsr|23}}, {{tsr|34}}, {{tsr|36}}–{{tsr|37}}, {{tsr|49}}, {{tsr|57}}<br>TFoH: {{tfoh|41}}<br>TGS: {{tgs|3}}
+| 8
+|-
+| [[Hu Barran]]
+| TEotW: {{teotw|3}}–{{teotw|4}}<br>TSR: {{tsr|44}}, {{tsr|56}}<br>KoD: {{kod|29}}<br>ToM: {{tom|10}}
+| 6
+|-
+| [[Hurin]]
+| TGH: {{tgh|9}}–{{tgh|11}}, {{tgh|13}}, {{tgh|15}}–{{tgh|17}}, {{tgh|19}}–{{tgh|21}}, {{tgh|25}}–{{tgh|27}}, {{tgh|30}}–{{tgh|33}}, {{tgh|35}}–{{tgh|37}}, {{tgh|41}}, {{tgh|44}}–{{tgh|47}}<br>TDR: {{tdr|10}}–{{tdr|11}}<br>TGS: {{tgs|44}}
+| 28
+|-
+| [[Idrien Tarsin]]
+| LoC: {{loc|18}}, {{loc|53}}, {{loc|e}}<br>ACoS: {{acos|18}}<br>WH: {{wh|p}}
+| 5
+|-
+| [[Ihvon]]
+| TSR: {{tsr|30}}–{{tsr|31}}, {{tsr|40}}–{{tsr|42}}, {{tsr|44}}–{{tsr|45}}, {{tsr|56}}<br>LoC: {{loc|10}}–{{loc|11}}<br>WH: {{wh|13}}, {{wh|23}}–{{wh|24}}
+| 13
+|-
+| [[Ila]]
+| TEotW: {{teotw|27}}<br>TSR: {{tsr|41}}–{{tsr|42}}, {{tsr|45}}, {{tsr|56}}
+| 5
+|-
+| [[Ingtar Shinowa]]
+| TEotW: {{teotw|46}}, {{teotw|48}}, {{teotw|53}}<br>TGH: {{tgh|p}}, {{tgh|5}}–{{tgh|6}}, {{tgh|8}}–{{tgh|11}}, {{tgh|14}}, {{tgh|28}}, {{tgh|30}}–{{tgh|33}}, {{tgh|35}}–{{tgh|37}}, {{tgh|41}}, {{tgh|44}}–{{tgh|47}}
+| 24
+|-
+| [[Isendre]]
+| TSR: {{tsr|37}}, {{tsr|48}}, {{tsr|50}}, {{tsr|57}}<br>TFoH: {{tfoh|4}}, {{tfoh|7}}, {{tfoh|23}}, {{tfoh|29}}
+| 8
+|-
+| [[Ishamael]]
+| TEotW: {{teotw|p}}, {{teotw|14}}, {{teotw|24}}, {{teotw|27}}, {{teotw|33}}, {{teotw|43}}, {{teotw|51}}<br>TGH: {{tgh|p}}, {{tgh|15}}, {{tgh|47}}<br>TDR: {{tdr|4}}, {{tdr|36}}, {{tdr|55}}
+| 13
+|-
+| [[Ispan Shefar]]
+| TFoH: {{tfoh|18}}<br>ACoS: {{acos|17}}, {{acos|38}}<br>TPoD: {{tpod|1}}–{{tpod|4}}, {{tpod|6}}
+| 8
+|-
+| [[Jaem]]
+| TGH: {{tgh|22}}<br>LoC: {{loc|44}}, {{loc|47}}<br>TPoD: {{tpod|6}}, {{tpod|28}}<br>KoD: {{kod|14}}, {{kod|31}}–{{kod|32}}
+| 8
+|-
+| [[Jahar Narishma]]
+| LoC: {{loc|42}}, {{loc|55}}<br>ACoS: {{acos|3}}, {{acos|5}}, {{acos|18}}, {{acos|34}}, {{acos|36}}, {{acos|41}}<br>TPoD: {{tpod|14}}, {{tpod|22}}–{{tpod|24}}, {{tpod|27}}, {{tpod|29}}<br>WH: {{wh|13}}, {{wh|23}}–{{wh|24}}, {{wh|34}}–{{wh|35}}<br>CoT: {{cot|23}}<br>KoD: {{kod|23}}, {{kod|27}}<br>TGS: {{tgs|1}}, {{tgs|5}}, {{tgs|7}}, {{tgs|22}}–{{tgs|23}}, {{tgs|35}}, {{tgs|44}}<br>ToM: {{tom|13}}, {{tom|51}}<br>AMoL: {{amol|5}}, {{amol|7}}, {{amol|9}}–{{amol|10}}, {{amol|25}}, {{amol|39}}
+| 37
+|-
+| [[Jaichim Carridin]]
+| TGH: {{tgh|p}}<br>TDR: {{tdr|p}}<br>TSR: {{tsr|38}}, {{tsr|54}}<br>LoC: {{loc|p}}, {{loc|48}}<br>ACoS: {{acos|15}}<br>TPoD: {{tpod|28}}
+| 8
+|-
+| [[Jain Farstrider]]
+| ACoS: {{acos|14}}–{{acos|15}}<br>WH: {{wh|16}}–{{wh|17}}, {{wh|28}}, {{wh|31}}<br>CoT: {{cot|1}}–{{cot|2}}, {{cot|28}}<br>KoD: {{kod|6}}–{{kod|10}}, {{kod|25}}–{{kod|26}}, {{kod|36}}<br>TGS: {{tgs|20}}, {{tgs|34}}<br>ToM: {{tom|9}}, {{tom|22}}, {{tom|53}}–{{tom|55}}<br>AMoL: {{amol|39}}, {{amol|45}}
+| 26
+|-
+| [[Jalani]]
+| LoC: {{loc|1}}–{{loc|4}}, {{loc|10}}, {{loc|17}}–{{loc|21}}, {{loc|28}}, {{loc|49}}<br>ACoS: {{acos|7}}<br>TGS: {{tgs|31}}
+| 14
+|-
+| [[Janya Frende]]
+| LoC: {{loc|p}}, {{loc|12}}, {{loc|30}}, {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|17}}, {{cot|19}}<br>KoD: {{kod|23}}<br>TGS: {{tgs|43}}<br>ToM: {{tom|3}}, {{tom|27}}
+| 16
+|-
+| [[Jaret Byar]]
+| TEotW: {{teotw|30}}, {{teotw|38}}<br>TGH: {{tgh|5}}, {{tgh|29}}, {{tgh|44}}, {{tgh|46}}, {{tgh|48}}<br>TDR: {{tdr|p}}<br>TSR: {{tsr|1}}, {{tsr|31}}, {{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>KoD: {{kod|p}}<br>ToM: {{tom|p}}, {{tom|2}}, {{tom|4}}, {{tom|7}}, {{tom|26}}, {{tom|34}}–{{tom|35}}, {{tom|40}}–{{tom|41}}
+| 23
+|-
+| [[Jaril]]
+| TFoH: {{tfoh|49}}–{{tfoh|50}}<br>LoC: {{loc|p}}, {{loc|12}}
+| 4
+|-
+| [[Javindhra Doraille]]
+| TFoH: {{tfoh|p}}<br>KoD: {{kod|p}}, {{kod|e}}<br>ToM: {{tom|53}}
+| 4
+|-
+| [[Jeaine Caide]]
+| NS: {{ns|11}}<br>TSR: {{tsr|38}}, {{tsr|54}}<br>TFoH: {{tfoh|18}}<br>AMoL: {{amol|44}}
+| 5
+|-
+| [[Jenare]]
+| TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>KoD: {{kod|27}}<br>AMoL: {{amol|3}}
+| 4
+|-
+| [[Jheran]]
+| TSR: {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}, {{tfoh|23}}, {{tfoh|42}}<br>LoC: {{loc|4}}<br>AMoL: {{amol|6}}
+| 7
+|-
+| [[Jimar Chubain]]
+| CoT: {{cot|16}}<br>TGS: {{tgs|41}}<br>ToM: {{tom|3}}, {{tom|5}}, {{tom|23}}<br>AMoL: {{amol|9}}
+| 6
+|-
+| [[Jisao Hamora]]
+| LoC: {{loc|p}}, {{loc|55}}<br>ACoS: {{acos|p}}<br>TGS: {{tgs|4}}
+| 4
+|-
+| [[Joiya Byir]]
+| TDR: {{tdr|51}}, {{tdr|54}}<br>TSR: {{tsr|5}}–{{tsr|6}}, {{tsr|9}}
+| 5
+|-
+| [[Jolien]]
+| TDR: {{tdr|38}}–{{tdr|39}}<br>TFoH: {{tfoh|20}}, {{tfoh|44}}
+| 4
+|-
+| [[Joline Maza]]
+| TSR: {{tsr|47}}<br>TFoH: {{tfoh|p}}<br>ACoS: {{acos|16}}–{{acos|17}}<br>WH: {{wh|19}}, {{wh|29}}<br>CoT: {{cot|1}}, {{cot|3}}, {{cot|28}}<br>KoD: {{kod|7}}–{{kod|10}}, {{kod|25}}–{{kod|26}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|20}}, {{tgs|27}}–{{tgs|28}}<br>ToM: {{tom|9}}, {{tom|17}}
+| 22
+|-
+| [[Jon Thane]]
+| TEotW: {{teotw|2}}, {{teotw|10}}<br>TSR: {{tsr|44}}, {{tsr|56}}<br>KoD: {{kod|30}}
+| 5
+|-
+| [[Jonan Adley]]
+| LoC: {{loc|11}}<br>ACoS: {{acos|7}}, {{acos|41}}<br>TPoD: {{tpod|22}}–{{tpod|24}}
+| 6
+|-
+| [[Jondyn Barran]]
+| ACoS: {{acos|1}}–{{acos|2}}<br>TPoD: {{tpod|9}}<br>CoT: {{cot|25}}
+| 4
+|-
+| [[Jonneth Dowtry]]
+| ToM: {{tom|46}}<br>AMoL: {{amol|3}}–{{amol|4}}, {{amol|8}}, {{amol|21}}, {{amol|41}}–{{amol|42}}
+| 7
+|-
+| [[Jori Congar]]
+| TPoD: {{tpod|9}}<br>CoT: {{cot|5}}<br>KoD: {{kod|29}}<br>TGS: {{tgs|17}}<br>ToM: {{tom|p}}, {{tom|2}}, {{tom|40}}–{{tom|41}}, {{tom|53}}<br>AMoL: {{amol|37}}
+| 10
+|-
+| [[Juilin Sandar]]
+| TDR: {{tdr|49}}, {{tdr|51}}, {{tdr|54}}–{{tdr|55}}<br>TSR: {{tsr|20}}, {{tsr|39}}, {{tsr|46}}, {{tsr|51}}–{{tsr|52}}, {{tsr|54}}–{{tsr|55}}<br>TFoH: {{tfoh|8}}–{{tfoh|10}}, {{tfoh|13}}, {{tfoh|16}}–{{tfoh|17}}, {{tfoh|33}}–{{tfoh|37}}, {{tfoh|47}}–{{tfoh|50}}<br>LoC: {{loc|29}}, {{loc|47}}<br>ACoS: {{acos|14}}, {{acos|21}}, {{acos|28}}, {{acos|39}}<br>WH: {{wh|17}}, {{wh|28}}–{{wh|29}}, {{wh|31}}<br>CoT: {{cot|1}}–{{cot|3}}, {{cot|29}}<br>KoD: {{kod|6}}, {{kod|8}}, {{kod|10}}, {{kod|25}}–{{kod|26}}, {{kod|36}}<br>ToM: {{tom|17}}<br>AMoL: {{amol|37}}
+| 48
+|-
+| [[Jur Grady]]
+| LoC: {{loc|3}}, {{loc|11}}, {{loc|55}}<br>ACoS: {{acos|3}}, {{acos|27}}<br>TPoD: {{tpod|8}}–{{tpod|10}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}, {{wh|5}}–{{wh|6}}<br>CoT: {{cot|5}}, {{cot|8}}<br>KoD: {{kod|p}}, {{kod|4}}, {{kod|26}}, {{kod|29}}<br>TGS: {{tgs|17}}<br>ToM: {{tom|6}}, {{tom|10}}, {{tom|21}}, {{tom|26}}, {{tom|34}}, {{tom|38}}, {{tom|40}}–{{tom|41}}, {{tom|44}}, {{tom|47}}, {{tom|53}}<br>AMoL: {{amol|6}}, {{amol|13}}, {{amol|36}}, {{amol|40}}, {{amol|45}}, {{amol|47}}
+| 37
+|-
+| [[Kairen Stang]]
+| NS: {{ns|12}}, {{ns|14}}<br>LoC: {{loc|43}}, {{loc|49}}<br>CoT: {{cot|17}}
+| 5
+|-
+| [[Kaisel Noramaga]]
+| ToM: {{tom|42}}, {{tom|e}}<br>AMoL: {{amol|6}}, {{amol|9}}–{{amol|10}}, {{amol|16}}, {{amol|24}}–{{amol|25}}, {{amol|28}}–{{amol|29}}
+| 10
+|-
+| [[Karind Anshar]]
+| TFoH: {{tfoh|19}}<br>LoC: {{loc|1}}–{{loc|2}}<br>KoD: {{kod|17}}, {{kod|33}}, {{kod|35}}
+| 6
+|-
+| [[Karldin Manfor]]
+| ACoS: {{acos|27}}<br>CoT: {{cot|p}}<br>KoD: {{kod|27}}<br>TGS: {{tgs|48}}
+| 4
+|-
+| [[Katerine Alruddin]]
+| NS: {{ns|5}}–{{ns|6}}<br>LoC: {{loc|p}}, {{loc|25}}, {{loc|55}}<br>ACoS: {{acos|1}}<br>CoT: {{cot|p}}<br>KoD: {{kod|24}}<br>TGS: {{tgs|2}}, {{tgs|13}}, {{tgs|16}}, {{tgs|38}}, {{tgs|41}}<br>ToM: {{tom|37}}–{{tom|38}}
+| 15
+|-
+| [[Kenly Maerin]]
+| ACoS: {{acos|1}}<br>WH: {{wh|6}}<br>CoT: {{cot|5}}<br>KoD: {{kod|26}}<br>ToM: {{tom|24}}
+| 5
+|-
+| [[Kirstian Chalwin]]
+| TPoD: {{tpod|1}}–{{tpod|3}}, {{tpod|5}}, {{tpod|28}}<br>WH: {{wh|8}}<br>CoT: {{cot|11}}<br>KoD: {{kod|14}}, {{kod|17}}
+| 9
+|-
+| [[Kiruna Nachiman]]
+| TFoH: {{tfoh|26}}<br>LoC: {{loc|49}}, {{loc|54}}–{{loc|55}}<br>ACoS: {{acos|2}}–{{acos|3}}, {{acos|19}}, {{acos|36}}, {{acos|41}}<br>TPoD: {{tpod|12}}<br>AMoL: {{amol|34}}
+| 11
+|-
+| [[Kumira]]
+| TPoD: {{tpod|12}}<br>WH: {{wh|23}}–{{wh|24}}, {{wh|35}}
+| 4
+|-
+| [[Kurin din Calin Red Sails]]
+| TPoD: {{tpod|2}}–{{tpod|3}}<br>WH: {{wh|11}}<br>KoD: {{kod|32}}
+| 4
+|-
+| [[Kwamesa Taramasu]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>KoD: {{kod|23}}<br>TGS: {{tgs|43}}<br>AMoL: {{amol|37}}
+| 11
+|-
+| [[Lacile Aldorwin]]
+| TPoD: {{tpod|8}}, {{tpod|30}}<br>WH: {{wh|3}}<br>CoT: {{cot|9}}<br>KoD: {{kod|28}}–{{kod|30}}<br>TGS: {{tgs|21}}<br>ToM: {{tom|30}}
+| 9
+|-
+| [[Lamgwin Dorn]]
+| TEotW: {{teotw|39}}, {{teotw|41}}<br>TDR: {{tdr|45}}<br>TFoH: {{tfoh|56}}<br>LoC: {{loc|p}}, {{loc|31}}<br>ACoS: {{acos|26}}<br>TPoD: {{tpod|7}}–{{tpod|9}}<br>CoT: {{cot|5}}<br>KoD: {{kod|29}}<br>ToM: {{tom|4}}, {{tom|44}}
+| 14
+|-
+| [[Lan Mandragoran]]
+| NS: {{ns|1}}, {{ns|12}}, {{ns|15}}–{{ns|16}}, {{ns|19}}–{{ns|22}}, {{ns|25}}–{{ns|26}}, {{ns|e}}<br>TEotW: {{teotw|2}}, {{teotw|4}}, {{teotw|7}}–{{teotw|14}}, {{teotw|16}}–{{teotw|21}}, {{teotw|28}}, {{teotw|37}}–{{teotw|38}}, {{teotw|41}}–{{teotw|50}}, {{teotw|52}}–{{teotw|53}}<br>TGH: {{tgh|1}}, {{tgh|6}}–{{tgh|9}}, {{tgh|12}}, {{tgh|22}}–{{tgh|23}}, {{tgh|49}}<br>TDR: {{tdr|3}}, {{tdr|5}}–{{tdr|8}}, {{tdr|33}}–{{tdr|36}}, {{tdr|41}}–{{tdr|44}}, {{tdr|50}}, {{tdr|53}}, {{tdr|55}}<br>TSR: {{tsr|3}}, {{tsr|10}}, {{tsr|16}}, {{tsr|22}}–{{tsr|23}}, {{tsr|34}}, {{tsr|36}}–{{tsr|37}}, {{tsr|48}}–{{tsr|49}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}, {{tfoh|6}}–{{tfoh|7}}, {{tfoh|20}}–{{tfoh|23}}, {{tfoh|41}}–{{tfoh|45}}, {{tfoh|52}}–{{tfoh|53}}<br>ACoS: {{acos|12}}, {{acos|31}}, {{acos|37}}–{{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|4}}, {{tpod|6}}, {{tpod|20}}, {{tpod|28}}<br>WH: {{wh|8}}, {{wh|11}}–{{wh|12}}, {{wh|22}}, {{wh|32}}–{{wh|35}}<br>CoT: {{cot|23}}<br>KoD: {{kod|20}}<br>ToM: {{tom|p}}, {{tom|7}}, {{tom|23}}, {{tom|42}}, {{tom|e}}<br>AMoL: {{amol|6}}–{{amol|7}}, {{amol|9}}–{{amol|11}}, {{amol|16}}, {{amol|18}}, {{amol|24}}–{{amol|25}}, {{amol|28}}–{{amol|29}}, {{amol|37}}, {{amol|39}}, {{amol|e}}
+| 134
+|-
+| [[Lanfear]]
+| TGH: {{tgh|10}}, {{tgh|16}}–{{tgh|17}}, {{tgh|19}}–{{tgh|21}}, {{tgh|27}}, {{tgh|48}}<br>TDR: {{tdr|4}}, {{tdr|9}}, {{tdr|20}}, {{tdr|24}}–{{tdr|25}}, {{tdr|36}}<br>TSR: {{tsr|9}}–{{tsr|10}}, {{tsr|36}}–{{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|p}}, {{tfoh|6}}, {{tfoh|34}}, {{tfoh|52}}–{{tfoh|53}}
+| 28
+|-
+| [[Laras]]
+| TDR: {{tdr|29}}<br>TSR: {{tsr|17}}, {{tsr|47}}<br>KoD: {{kod|24}}<br>TGS: {{tgs|2}}, {{tgs|16}}<br>AMoL: {{amol|33}}
+| 7
+|-
+| [[Latelle]]
+| TFoH: {{tfoh|17}}, {{tfoh|33}}, {{tfoh|36}}–{{tfoh|37}}, {{tfoh|48}}<br>CoT: {{cot|2}}, {{cot|29}}<br>KoD: {{kod|6}}, {{kod|10}}–{{kod|11}}
+| 10
+|-
+| [[Leane Sharif]]
+| NS: {{ns|11}}<br>TGH: {{tgh|2}}, {{tgh|4}}–{{tgh|9}}, {{tgh|12}}, {{tgh|18}}<br>TDR: {{tdr|12}}–{{tdr|13}}, {{tdr|18}}, {{tdr|20}}<br>TSR: {{tsr|1}}, {{tsr|17}}, {{tsr|47}}<br>TFoH: {{tfoh|1}}, {{tfoh|11}}, {{tfoh|26}}–{{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|p}}, {{loc|7}}–{{loc|8}}, {{loc|15}}, {{loc|30}}, {{loc|44}}<br>ACoS: {{acos|9}}<br>TPoD: {{tpod|15}}<br>CoT: {{cot|17}}<br>TGS: {{tgs|6}}, {{tgs|46}}<br>ToM: {{tom|36}}–{{tom|38}}<br>AMoL: {{amol|20}}, {{amol|22}}–{{amol|23}}
+| 40
+|-
+| [[Lelaine Akashi]]
+| NS: {{ns|11}}, {{ns|14}}<br>LoC: {{loc|8}}, {{loc|30}}, {{loc|35}}–{{loc|37}}, {{loc|44}}<br>ACoS: {{acos|11}}<br>TPoD: {{tpod|16}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}, {{cot|30}}<br>KoD: {{kod|1}}, {{kod|23}}<br>TGS: {{tgs|8}}, {{tgs|26}}, {{tgs|30}}, {{tgs|43}}, {{tgs|45}}<br>ToM: {{tom|3}}, {{tom|20}}, {{tom|27}}<br>AMoL: {{amol|5}}, {{amol|20}}, {{amol|32}}, {{amol|37}}
+| 31
+|-
+| [[Leof Torfinn]]
+| TSR: {{tsr|44}}–{{tsr|45}}<br>KoD: {{kod|4}}, {{kod|26}}
+| 4
+|-
+| [[Lerian]]
+| LoC: {{loc|45}}<br>TGS: {{tgs|11}}<br>ToM: {{tom|12}}, {{tom|25}}
+| 4
+|-
+| [[Lews Therin Telamon]]
+| TEotW: {{teotw|p}}<br>TFoH: {{tfoh|2}}, {{tfoh|6}}, {{tfoh|20}}, {{tfoh|42}}–{{tfoh|44}}, {{tfoh|46}}, {{tfoh|51}}–{{tfoh|52}}, {{tfoh|54}}–{{tfoh|55}}<br>LoC: {{loc|1}}–{{loc|3}}, {{loc|10}}, {{loc|16}}–{{loc|19}}, {{loc|21}}, {{loc|26}}, {{loc|28}}, {{loc|32}}, {{loc|41}}–{{loc|42}}, {{loc|46}}, {{loc|49}}–{{loc|51}}, {{loc|53}}, {{loc|55}}<br>ACoS: {{acos|7}}, {{acos|18}}<br>TPoD: {{tpod|14}}, {{tpod|21}}–{{tpod|24}}, {{tpod|27}}, {{tpod|29}}<br>WH: {{wh|p}}, {{wh|11}}, {{wh|22}}, {{wh|25}}, {{wh|32}}–{{wh|35}}<br>CoT: {{cot|24}}, {{cot|e}}<br>KoD: {{kod|19}}–{{kod|21}}, {{kod|27}}<br>TGS: {{tgs|1}}, {{tgs|5}}, {{tgs|22}}, {{tgs|29}}, {{tgs|31}}, {{tgs|35}}, {{tgs|42}}, {{tgs|47}}, {{tgs|49}}
+| 64
+|-
+| [[Liah]]
+| LoC: {{loc|3}}–{{loc|4}}, {{loc|19}}–{{loc|21}}<br>ACoS: {{acos|41}}
+| 6
+|-
+| [[Liandrin Guirale]]
+| TGH: {{tgh|p}}, {{tgh|4}}–{{tgh|6}}, {{tgh|12}}, {{tgh|38}}–{{tgh|40}}<br>TDR: {{tdr|51}}<br>TSR: {{tsr|38}}, {{tsr|55}}<br>TFoH: {{tfoh|18}}, {{tfoh|34}}<br>TPoD: {{tpod|24}}<br>KoD: {{kod|p}}
+| 15
+|-
+| [[Lidrin]]
+| TGS: {{tgs|p}}, {{tgs|10}}<br>ToM: {{tom|18}}, {{tom|21}}
+| 4
+|-
+| [[Lini Eltring]]
+| TFoH: {{tfoh|19}}, {{tfoh|56}}<br>LoC: {{loc|p}}, {{loc|31}}<br>ACoS: {{acos|26}}<br>TPoD: {{tpod|7}}–{{tpod|10}}<br>WH: {{wh|2}}, {{wh|6}}<br>CoT: {{cot|5}}<br>KoD: {{kod|p}}, {{kod|26}}, {{kod|29}}<br>ToM: {{tom|44}}
+| 16
+|-
+| [[Lir Baryn]]
+| TFoH: {{tfoh|19}}<br>LoC: {{loc|1}}–{{loc|2}}<br>KoD: {{kod|17}}, {{kod|33}}, {{kod|35}}<br>AMoL: {{amol|2}}
+| 7
+|-
+| [[Logain Ablar]]
+| TEotW: {{teotw|39}}<br>TGH: {{tgh|24}}<br>TSR: {{tsr|17}}, {{tsr|47}}<br>TFoH: {{tfoh|1}}, {{tfoh|11}}, {{tfoh|26}}, {{tfoh|28}}<br>LoC: {{loc|8}}, {{loc|29}}–{{loc|30}}, {{loc|52}}<br>TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>CoT: {{cot|p}}, {{cot|24}}<br>KoD: {{kod|18}}–{{kod|20}}, {{kod|22}}, {{kod|27}}<br>TGS: {{tgs|p}}<br>AMoL: {{amol|4}}, {{amol|8}}, {{amol|10}}, {{amol|14}}, {{amol|30}}, {{amol|32}}, {{amol|37}}, {{amol|41}}, {{amol|43}}, {{amol|48}}
+| 32
+|-
+| [[Loial]]
+| TEotW: {{teotw|36}}, {{teotw|41}}–{{teotw|50}}, {{teotw|52}}–{{teotw|53}}<br>TGH: {{tgh|3}}, {{tgh|9}}–{{tgh|11}}, {{tgh|13}}, {{tgh|15}}–{{tgh|17}}, {{tgh|19}}–{{tgh|21}}, {{tgh|25}}–{{tgh|27}}, {{tgh|30}}–{{tgh|33}}, {{tgh|35}}–{{tgh|37}}, {{tgh|41}}, {{tgh|44}}, {{tgh|49}}<br>TDR: {{tdr|1}}–{{tdr|3}}, {{tdr|5}}–{{tdr|8}}, {{tdr|33}}, {{tdr|35}}, {{tdr|41}}–{{tdr|44}}, {{tdr|50}}, {{tdr|53}}<br>TSR: {{tsr|16}}, {{tsr|18}}, {{tsr|27}}–{{tsr|32}}, {{tsr|43}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|p}}, {{loc|49}}, {{loc|51}}, {{loc|53}}–{{loc|55}}<br>ACoS: {{acos|1}}–{{acos|6}}, {{acos|27}}<br>CoT: {{cot|p}}, {{cot|24}}<br>KoD: {{kod|18}}–{{kod|20}}<br>AMoL: {{amol|7}}, {{amol|16}}, {{amol|28}}, {{amol|38}}, {{amol|e}}
+| 86
+|-
+| [[Lopin]]
+| LoC: {{loc|44}}, {{loc|47}}<br>ACoS: {{acos|28}}, {{acos|39}}<br>WH: {{wh|18}}, {{wh|28}}, {{wh|30}}<br>CoT: {{cot|28}}<br>KoD: {{kod|8}}–{{kod|10}}, {{kod|25}}–{{kod|26}}<br>ToM: {{tom|9}}
+| 14
+|-
+| [[Luan Norwelyn]]
+| LoC: {{loc|16}}, {{loc|41}}, {{loc|43}}<br>KoD: {{kod|35}}
+| 4
+|-
+| [[Lunal Galgan]]
+| KoD: {{kod|p}}, {{kod|e}}<br>TGS: {{tgs|35}}<br>ToM: {{tom|47}}<br>AMoL: {{amol|24}}, {{amol|27}}, {{amol|29}}, {{amol|32}}, {{amol|37}}
+| 9
+|-
+| [[Lyrelle Arienwin]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}<br>KoD: {{kod|23}}<br>ToM: {{tom|3}}<br>AMoL: {{amol|21}}, {{amol|e}}
+| 11
+|-
+| [[Magla Daronos]]
+| LoC: {{loc|30}}, {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>KoD: {{kod|2}}<br>TGS: {{tgs|26}}, {{tgs|43}}<br>ToM: {{tom|3}}, {{tom|27}}
+| 14
+|-
+| [[Malind Nachenin]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}<br>KoD: {{kod|23}}
+| 8
+|-
+| [[Mandevwin]]
+| KoD: {{kod|27}}, {{kod|37}}<br>TGS: {{tgs|34}}, {{tgs|36}}<br>AMoL: {{amol|33}}–{{amol|35}}, {{amol|37}}
+| 8
+|-
+| [[Manel Rochaid]]
+| LoC: {{loc|42}}<br>TPoD: {{tpod|21}}–{{tpod|24}}, {{tpod|29}}<br>WH: {{wh|22}}
+| 7
+|-
+| [[Mangin]]
+| TSR: {{tsr|7}}<br>TFoH: {{tfoh|30}}, {{tfoh|41}}<br>LoC: {{loc|17}}
+| 4
+|-
+| [[Maraconn]]
+| TSR: {{tsr|21}}<br>TFoH: {{tfoh|46}}<br>LoC: {{loc|19}}, {{loc|50}}<br>TPoD: {{tpod|13}}, {{tpod|21}}, {{tpod|23}}–{{tpod|24}}
+| 8
+|-
+| [[Marillin Gemalphin]]
+| TSR: {{tsr|38}}, {{tsr|54}}<br>TFoH: {{tfoh|18}}<br>WH: {{wh|10}}<br>KoD: {{kod|31}}, {{kod|33}}
+| 6
+|-
+| [[Marin al'Vere]]
+| TEotW: {{teotw|2}}, {{teotw|8}}<br>TGH: {{tgh|23}}<br>TSR: {{tsr|29}}–{{tsr|31}}, {{tsr|43}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}
+| 11
+|-
+| [[Maringil]]
+| TFoH: {{tfoh|51}}, {{tfoh|53}}<br>LoC: {{loc|19}}, {{loc|50}}
+| 4
+|-
+| [[Martyn Tallanvor]]
+| TEotW: {{teotw|40}}<br>TDR: {{tdr|46}}–{{tdr|47}}<br>TFoH: {{tfoh|1}}, {{tfoh|19}}, {{tfoh|56}}<br>LoC: {{loc|p}}, {{loc|31}}<br>ACoS: {{acos|26}}<br>TPoD: {{tpod|7}}–{{tpod|9}}<br>WH: {{wh|2}}<br>CoT: {{cot|27}}<br>KoD: {{kod|4}}, {{kod|26}}, {{kod|30}}<br>ToM: {{tom|6}}, {{tom|21}}, {{tom|44}}
+| 20
+|-
+| [[Masema Dagar]]
+| TGH: {{tgh|3}}, {{tgh|9}}–{{tgh|10}}, {{tgh|14}}, {{tgh|28}}, {{tgh|37}}, {{tgh|41}}, {{tgh|49}}<br>TDR: {{tdr|1}}–{{tdr|2}}, {{tdr|5}}–{{tdr|6}}<br>TFoH: {{tfoh|39}}<br>TPoD: {{tpod|30}}<br>WH: {{wh|6}}<br>CoT: {{cot|7}}, {{cot|27}}<br>KoD: {{kod|29}}<br>TGS: {{tgs|p}}
+| 19
+|-
+| [[Masuri Sokawa]]
+| LoC: {{loc|43}}, {{loc|49}}, {{loc|54}}–{{loc|55}}<br>ACoS: {{acos|27}}<br>TPoD: {{tpod|8}}, {{tpod|10}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}, {{wh|6}}<br>CoT: {{cot|6}}–{{cot|8}}, {{cot|25}}–{{cot|27}}<br>KoD: {{kod|29}}<br>ToM: {{tom|4}}, {{tom|6}}, {{tom|10}}, {{tom|26}}, {{tom|38}}, {{tom|40}}, {{tom|44}}<br>AMoL: {{amol|44}}
+| 26
+|-
+| [[Mat Cauthon]]
+| TEotW: {{teotw|Ravens}}, {{teotw|1}}–{{teotw|4}}, {{teotw|9}}–{{teotw|20}}, {{teotw|24}}, {{teotw|26}}, {{teotw|31}}–{{teotw|36}}, {{teotw|39}}, {{teotw|41}}–{{teotw|50}}, {{teotw|52}}–{{teotw|53}}<br>TGH: {{tgh|3}}, {{tgh|6}}–{{tgh|7}}, {{tgh|9}}–{{tgh|11}}, {{tgh|14}}, {{tgh|23}}, {{tgh|28}}, {{tgh|30}}–{{tgh|33}}, {{tgh|35}}–{{tgh|37}}, {{tgh|41}}, {{tgh|44}}–{{tgh|47}}<br>TDR: {{tdr|10}}–{{tdr|11}}, {{tdr|18}}–{{tdr|20}}, {{tdr|24}}, {{tdr|28}}, {{tdr|30}}–{{tdr|32}}, {{tdr|40}}, {{tdr|44}}–{{tdr|47}}, {{tdr|49}}, {{tdr|52}}, {{tdr|54}}–{{tdr|56}}<br>TSR: {{tsr|2}}, {{tsr|4}}, {{tsr|8}}–{{tsr|9}}, {{tsr|13}}, {{tsr|15}}, {{tsr|21}}–{{tsr|24}}, {{tsr|26}}, {{tsr|34}}, {{tsr|36}}–{{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|3}}, {{tfoh|6}}–{{tfoh|7}}, {{tfoh|20}}–{{tfoh|23}}, {{tfoh|42}}–{{tfoh|45}}, {{tfoh|51}}–{{tfoh|56}}<br>LoC: {{loc|5}}, {{loc|22}}, {{loc|33}}, {{loc|38}}–{{loc|40}}, {{loc|44}}, {{loc|47}}, {{loc|52}}<br>ACoS: {{acos|1}}, {{acos|14}}–{{acos|17}}, {{acos|21}}–{{acos|22}}, {{acos|28}}–{{acos|29}}, {{acos|31}}, {{acos|37}}–{{acos|39}}<br>WH: {{wh|15}}–{{wh|19}}, {{wh|28}}–{{wh|31}}<br>CoT: {{cot|1}}–{{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|4}}, {{kod|6}}–{{kod|11}}, {{kod|25}}–{{kod|27}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|20}}, {{tgs|27}}–{{tgs|28}}, {{tgs|34}}, {{tgs|36}}<br>ToM: {{tom|8}}–{{tom|9}}, {{tom|17}}, {{tom|19}}, {{tom|22}}–{{tom|24}}, {{tom|29}}, {{tom|31}}, {{tom|44}}, {{tom|47}}, {{tom|52}}–{{tom|55}}, {{tom|57}}<br>AMoL: {{amol|11}}, {{amol|15}}, {{amol|17}}, {{amol|19}}, {{amol|24}}, {{amol|26}}–{{amol|29}}, {{amol|32}}, {{amol|36}}–{{amol|40}}, {{amol|43}}, {{amol|45}}–{{amol|47}}, {{amol|e}}
+| 204
+|-
+| [[Mazrim Taim]]
+| LoC: {{loc|2}}–{{loc|3}}, {{loc|11}}, {{loc|28}}, {{loc|42}}, {{loc|55}}<br>ACoS: {{acos|2}}<br>TPoD: {{tpod|29}}<br>WH: {{wh|p}}<br>KoD: {{kod|e}}<br>ToM: {{tom|53}}<br>AMoL: {{amol|p}}, {{amol|8}}, {{amol|10}}, {{amol|14}}, {{amol|16}}, {{amol|37}}
+| 17
+|-
+| [[Medore Damara]]
+| WH: {{wh|6}}<br>CoT: {{cot|25}}–{{cot|26}}<br>KoD: {{kod|12}}
+| 4
+|-
+| [[Meidani Eschede]]
+| CoT: {{cot|p}}<br>KoD: {{kod|24}}–{{kod|25}}<br>TGS: {{tgs|2}}, {{tgs|12}}, {{tgs|39}}
+| 6
+|-
+| [[Meilan Mendiana]]
+| TSR: {{tsr|8}}–{{tsr|9}}, {{tsr|21}}<br>TFoH: {{tfoh|46}}, {{tfoh|51}}, {{tfoh|53}}<br>LoC: {{loc|19}}, {{loc|25}}, {{loc|50}}
+| 9
+|-
+| [[Meira]]
+| ACoS: {{acos|p}}, {{acos|20}}<br>TPoD: {{tpod|11}}<br>KoD: {{kod|5}}
+| 4
+|-
+| [[Melaine]]
+| TSR: {{tsr|23}}, {{tsr|34}}–{{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|5}}, {{tfoh|7}}, {{tfoh|14}}, {{tfoh|21}}–{{tfoh|23}}, {{tfoh|41}}, {{tfoh|53}}–{{tfoh|54}}<br>LoC: {{loc|15}}, {{loc|18}}–{{loc|19}}, {{loc|41}}, {{loc|49}}<br>ACoS: {{acos|7}}, {{acos|10}}<br>TGS: {{tgs|3}}, {{tgs|7}}, {{tgs|11}}, {{tgs|26}}, {{tgs|37}}<br>ToM: {{tom|36}}–{{tom|38}}<br>AMoL: {{amol|p}}, {{amol|6}}, {{amol|19}}, {{amol|33}}
+| 38
+|-
+| [[Melindhra]]
+| TFoH: {{tfoh|3}}, {{tfoh|6}}, {{tfoh|21}}–{{tfoh|22}}, {{tfoh|42}}–{{tfoh|43}}, {{tfoh|51}}
+| 7
+|-
+| [[Melitene]]
+| CoT: {{cot|4}}<br>KoD: {{kod|36}}<br>TGS: {{tgs|19}}<br>ToM: {{tom|47}}
+| 4
+|-
+| [[Merana Ambrey]]
+| LoC: {{loc|43}}, {{loc|46}}, {{loc|49}}, {{loc|54}}–{{loc|55}}<br>ACoS: {{acos|18}}–{{acos|19}}, {{acos|34}}<br>TPoD: {{tpod|12}}, {{tpod|27}}
+| 10
+|-
+| [[Merean Redhill]]
+| NS: {{ns|5}}–{{ns|6}}, {{ns|8}}–{{ns|10}}, {{ns|17}}–{{ns|18}}, {{ns|25}}–{{ns|26}}
+| 9
+|-
+| [[Merilille Ceandevin]]
+| LoC: {{loc|52}}<br>ACoS: {{acos|16}}, {{acos|30}}–{{acos|31}}, {{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|6}}, {{tpod|20}}, {{tpod|28}}<br>WH: {{wh|p}}, {{wh|26}}–{{wh|27}}<br>CoT: {{cot|11}}
+| 17
+|-
+| [[Merise Haindehl]]
+| WH: {{wh|13}}, {{wh|23}}–{{wh|24}}, {{wh|34}}–{{wh|35}}<br>CoT: {{cot|23}}<br>KoD: {{kod|23}}, {{kod|27}}<br>TGS: {{tgs|p}}, {{tgs|5}}, {{tgs|7}}, {{tgs|11}}, {{tgs|23}}, {{tgs|29}}, {{tgs|32}}, {{tgs|37}}, {{tgs|44}}, {{tgs|48}}<br>ToM: {{tom|13}}, {{tom|32}}, {{tom|51}}<br>AMoL: {{amol|10}}, {{amol|25}}
+| 23
+|-
+| [[Mesaana]]
+| TSR: {{tsr|47}}<br>TFoH: {{tfoh|p}}<br>LoC: {{loc|p}}<br>ACoS: {{acos|p}}<br>TPoD: {{tpod|25}}<br>CoT: {{cot|21}}<br>KoD: {{kod|3}}<br>TGS: {{tgs|p}}, {{tgs|25}}<br>ToM: {{tom|37}}–{{tom|38}}
+| 11
+|-
+| [[Metwyn]]
+| ACoS: {{acos|38}}–{{acos|39}}<br>WH: {{wh|17}}<br>CoT: {{cot|3}}, {{cot|29}}<br>KoD: {{kod|8}}, {{kod|10}}, {{kod|25}}
+| 8
+|-
+| [[Mezar Kurin]]
+| WH: {{wh|p}}<br>KoD: {{kod|27}}<br>AMoL: {{amol|3}}, {{amol|8}}
+| 4
+|-
+| [[Mili Skane]]
+| TEotW: {{teotw|33}}<br>ACoS: {{acos|14}}–{{acos|15}}<br>TPoD: {{tpod|28}}<br>WH: {{wh|10}}<br>CoT: {{cot|15}}<br>KoD: {{kod|31}}, {{kod|33}}
+| 8
+|-
+| [[Min Farshaw]]
+| TEotW: {{teotw|14}}–{{teotw|16}}<br>TGH: {{tgh|24}}, {{tgh|38}}–{{tgh|40}}, {{tgh|42}}–{{tgh|43}}, {{tgh|45}}–{{tgh|46}}, {{tgh|48}}–{{tgh|49}}<br>TDR: {{tdr|1}}–{{tdr|3}}, {{tdr|5}}–{{tdr|6}}<br>TSR: {{tsr|1}}, {{tsr|17}}, {{tsr|47}}<br>TFoH: {{tfoh|1}}, {{tfoh|11}}, {{tfoh|26}}, {{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|p}}, {{loc|41}}–{{loc|43}}, {{loc|45}}–{{loc|46}}, {{loc|49}}–{{loc|50}}, {{loc|55}}<br>ACoS: {{acos|2}}–{{acos|6}}, {{acos|19}}, {{acos|33}}–{{acos|36}}, {{acos|41}}<br>TPoD: {{tpod|27}}, {{tpod|29}}<br>WH: {{wh|p}}, {{wh|11}}–{{wh|12}}, {{wh|22}}, {{wh|25}}, {{wh|32}}–{{wh|35}}<br>CoT: {{cot|23}}–{{cot|24}}<br>KoD: {{kod|6}}, {{kod|18}}–{{kod|21}}, {{kod|27}}<br>TGS: {{tgs|1}}, {{tgs|7}}, {{tgs|15}}, {{tgs|22}}–{{tgs|23}}, {{tgs|26}}, {{tgs|33}}, {{tgs|37}}, {{tgs|42}}, {{tgs|44}}, {{tgs|48}}<br>ToM: {{tom|12}}–{{tom|13}}, {{tom|25}}, {{tom|32}}, {{tom|51}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|18}}, {{amol|20}}, {{amol|27}}–{{amol|29}}, {{amol|31}}–{{amol|32}}, {{amol|37}}, {{amol|48}}, {{amol|e}}
+| 93
+|-
+| [[Modarra]]
+| ACoS: {{acos|p}}, {{acos|20}}<br>TPoD: {{tpod|11}}<br>KoD: {{kod|30}}
+| 4
+|-
+| [[Moghedien]]
+| TSR: {{tsr|38}}, {{tsr|46}}, {{tsr|52}}, {{tsr|54}}<br>TFoH: {{tfoh|18}}, {{tfoh|25}}, {{tfoh|34}}, {{tfoh|49}}–{{tfoh|50}}, {{tfoh|54}}–{{tfoh|55}}<br>LoC: {{loc|p}}, {{loc|8}}, {{loc|12}}, {{loc|37}}, {{loc|e}}<br>ACoS: {{acos|25}}, {{acos|30}}<br>TPoD: {{tpod|12}}<br>WH: {{wh|35}}<br>KoD: {{kod|3}}<br>AMoL: {{amol|p}}, {{amol|41}}, {{amol|e}}
+| 24
+|-
+| [[Moiraine Damodred]]
+| NS: {{ns|2}}–{{ns|14}}, {{ns|17}}–{{ns|26}}, {{ns|e}}<br>TEotW: {{teotw|2}}, {{teotw|4}}, {{teotw|7}}–{{teotw|14}}, {{teotw|16}}–{{teotw|21}}, {{teotw|28}}, {{teotw|37}}–{{teotw|38}}, {{teotw|41}}–{{teotw|50}}, {{teotw|52}}–{{teotw|53}}<br>TGH: {{tgh|4}}–{{tgh|8}}, {{tgh|12}}, {{tgh|22}}–{{tgh|23}}, {{tgh|49}}<br>TDR: {{tdr|3}}, {{tdr|5}}–{{tdr|9}}, {{tdr|33}}–{{tdr|36}}, {{tdr|41}}–{{tdr|44}}, {{tdr|50}}, {{tdr|53}}, {{tdr|55}}–{{tdr|56}}<br>TSR: {{tsr|3}}, {{tsr|5}}–{{tsr|6}}, {{tsr|10}}, {{tsr|12}}, {{tsr|15}}, {{tsr|17}}, {{tsr|21}}–{{tsr|23}}, {{tsr|34}}–{{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}, {{tfoh|5}}–{{tfoh|7}}, {{tfoh|15}}, {{tfoh|20}}–{{tfoh|23}}, {{tfoh|41}}, {{tfoh|44}}–{{tfoh|46}}, {{tfoh|51}}–{{tfoh|53}}<br>ToM: {{tom|54}}–{{tom|55}}, {{tom|57}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|11}}, {{amol|13}}, {{amol|16}}, {{amol|18}}, {{amol|20}}, {{amol|23}}, {{amol|25}}, {{amol|36}}–{{amol|37}}, {{amol|47}}, {{amol|49}}, {{amol|e}}
+| 134
+|-
+| [[Morgase Trakand]]
+| TEotW: {{teotw|40}}<br>TGH: {{tgh|23}}<br>TDR: {{tdr|46}}<br>TFoH: {{tfoh|1}}, {{tfoh|19}}, {{tfoh|56}}<br>LoC: {{loc|p}}, {{loc|9}}, {{loc|31}}<br>ACoS: {{acos|p}}, {{acos|26}}<br>TPoD: {{tpod|7}}–{{tpod|10}}, {{tpod|30}}<br>WH: {{wh|3}}–{{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|28}}–{{kod|30}}<br>ToM: {{tom|6}}, {{tom|21}}, {{tom|26}}, {{tom|29}}, {{tom|34}}–{{tom|35}}, {{tom|44}}–{{tom|45}}, {{tom|47}}, {{tom|50}}, {{tom|56}}
+| 33
+|-
+| [[Moria Karentanis]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>KoD: {{kod|23}}<br>TGS: {{tgs|18}}, {{tgs|43}}
+| 11
+|-
+| [[Moridin]]
+| ACoS: {{acos|20}}, {{acos|25}}, {{acos|41}}<br>TPoD: {{tpod|p}}, {{tpod|2}}<br>WH: {{wh|13}}<br>KoD: {{kod|3}}, {{kod|18}}<br>TGS: {{tgs|p}}, {{tgs|15}}<br>ToM: {{tom|5}}<br>AMoL: {{amol|p}}, {{amol|4}}, {{amol|25}}, {{amol|30}}, {{amol|36}}, {{amol|46}}–{{amol|47}}, {{amol|49}}, {{amol|e}}
+| 20
+|-
+| [[Morvrin]]
+| TFoH: {{tfoh|27}}–{{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|7}}, {{loc|12}}, {{loc|15}}, {{loc|29}}–{{loc|30}}, {{loc|32}}, {{loc|34}}–{{loc|36}}<br>TPoD: {{tpod|16}}<br>CoT: {{cot|16}}–{{cot|19}}, {{cot|30}}<br>KoD: {{kod|1}}<br>ToM: {{tom|37}}
+| 20
+|-
+| [[Musenge]]
+| WH: {{wh|14}}<br>KoD: {{kod|34}}, {{kod|37}}<br>AMoL: {{amol|17}}
+| 4
+|-
+| [[Myrelle Berengari]]
+| NS: {{ns|3}}, {{ns|8}}, {{ns|10}}<br>TFoH: {{tfoh|26}}–{{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|7}}–{{loc|8}}, {{loc|12}}, {{loc|15}}, {{loc|29}}–{{loc|30}}, {{loc|32}}, {{loc|34}}–{{loc|35}}, {{loc|44}}, {{loc|52}}<br>ACoS: {{acos|11}}–{{acos|12}}<br>CoT: {{cot|16}}–{{cot|19}}, {{cot|30}}<br>KoD: {{kod|1}}<br>ToM: {{tom|20}}<br>AMoL: {{amol|21}}, {{amol|31}}
+| 29
+|-
+| [[Naean Arawn]]
+| TFoH: {{tfoh|19}}<br>LoC: {{loc|1}}–{{loc|2}}<br>CoT: {{cot|15}}<br>KoD: {{kod|17}}, {{kod|33}}<br>ToM: {{tom|50}}
+| 7
+|-
+| [[Naeff]]
+| TGS: {{tgs|1}}, {{tgs|11}}, {{tgs|31}}, {{tgs|42}}, {{tgs|44}}<br>ToM: {{tom|15}}, {{tom|25}}, {{tom|32}}, {{tom|51}}<br>AMoL: {{amol|5}}, {{amol|13}}
+| 11
+|-
+| [[Nalesean Aldiaya]]
+| TFoH: {{tfoh|44}}–{{tfoh|45}}, {{tfoh|53}}<br>LoC: {{loc|5}}, {{loc|22}}, {{loc|33}}, {{loc|38}}, {{loc|44}}, {{loc|47}}, {{loc|52}}<br>ACoS: {{acos|14}}, {{acos|28}}–{{acos|29}}, {{acos|37}}–{{acos|38}}
+| 15
+|-
+| [[Nandera]]
+| LoC: {{loc|21}}, {{loc|26}}, {{loc|28}}, {{loc|50}}–{{loc|51}}, {{loc|53}}–{{loc|54}}<br>ACoS: {{acos|2}}–{{acos|3}}, {{acos|33}}–{{acos|34}}, {{acos|36}}<br>KoD: {{kod|20}}–{{kod|21}}, {{kod|27}}
+| 15
+|-
+| [[Naris Pelden]]
+| CoT: {{cot|12}}<br>KoD: {{kod|15}}, {{kod|35}}<br>ToM: {{tom|45}}
+| 4
+|-
+| [[Nasin Caeren]]
+| TFoH: {{tfoh|19}}<br>LoC: {{loc|1}}<br>CoT: {{cot|15}}<br>KoD: {{kod|17}}
+| 4
+|-
+| [[Nerim]]
+| LoC: {{loc|22}}, {{loc|44}}, {{loc|47}}, {{loc|52}}<br>ACoS: {{acos|17}}, {{acos|28}}–{{acos|29}}, {{acos|39}}<br>WH: {{wh|18}}, {{wh|28}}, {{wh|30}}<br>CoT: {{cot|28}}<br>KoD: {{kod|8}}–{{kod|10}}, {{kod|25}}–{{kod|26}}
+| 17
+|-
+| [[Nesune Bihara]]
+| LoC: {{loc|p}}, {{loc|25}}, {{loc|27}}, {{loc|55}}<br>ACoS: {{acos|1}}<br>TPoD: {{tpod|29}}<br>WH: {{wh|13}}, {{wh|23}}, {{wh|35}}<br>CoT: {{cot|23}}<br>AMoL: {{amol|23}}
+| 11
+|-
+| [[Nevarin]]
+| TPoD: {{tpod|7}}–{{tpod|9}}<br>WH: {{wh|2}}<br>CoT: {{cot|7}}<br>KoD: {{kod|29}}<br>ToM: {{tom|4}}, {{tom|6}}
+| 8
+|-
+| [[Neysa Ayellin]]
+| TSR: {{tsr|42}}, {{tsr|45}}, {{tsr|53}}, {{tsr|56}}
+| 4
+|-
+| [[Nicola Treehill]]
+| TFoH: {{tfoh|49}}–{{tfoh|50}}<br>LoC: {{loc|8}}, {{loc|12}}, {{loc|14}}, {{loc|29}}, {{loc|38}}<br>ACoS: {{acos|9}}, {{acos|12}}<br>CoT: {{cot|17}}<br>KoD: {{kod|p}}, {{kod|24}}<br>TGS: {{tgs|39}}–{{tgs|40}}<br>ToM: {{tom|27}}, {{tom|38}}
+| 16
+|-
+| [[Nieda Sidoro]]
+| TGH: {{tgh|9}}<br>TDR: {{tdr|42}}–{{tdr|44}}
+| 4
+|-
+| [[Nisao Dachen]]
+| TFoH: {{tfoh|50}}<br>LoC: {{loc|8}}, {{loc|30}}, {{loc|52}}<br>ACoS: {{acos|12}}<br>CoT: {{cot|16}}–{{cot|17}}, {{cot|19}}–{{cot|20}}, {{cot|30}}<br>KoD: {{kod|23}}
+| 11
+|-
+| [[Noam]]
+| TDR: {{tdr|8}}<br>ToM: {{tom|18}}, {{tom|24}}, {{tom|28}}, {{tom|35}}, {{tom|e}}
+| 6
+|-
+| [[Nuhel Dromand]]
+| TFoH: {{tfoh|27}}–{{tfoh|28}}<br>ACoS: {{acos|12}}<br>CoT: {{cot|16}}<br>KoD: {{kod|1}}<br>ToM: {{tom|20}}
+| 6
+|-
+| [[Nynaeve al'Meara]]
+| TEotW: {{teotw|Ravens}}, {{teotw|3}}–{{teotw|4}}, {{teotw|7}}, {{teotw|16}}–{{teotw|21}}, {{teotw|28}}, {{teotw|37}}–{{teotw|38}}, {{teotw|41}}–{{teotw|53}}<br>TGH: {{tgh|6}}, {{tgh|8}}, {{tgh|12}}, {{tgh|18}}, {{tgh|23}}, {{tgh|38}}–{{tgh|40}}, {{tgh|42}}–{{tgh|43}}, {{tgh|45}}–{{tgh|46}}<br>TDR: {{tdr|10}}–{{tdr|11}}, {{tdr|13}}–{{tdr|18}}, {{tdr|23}}, {{tdr|25}}–{{tdr|29}}, {{tdr|37}}–{{tdr|39}}, {{tdr|48}}–{{tdr|49}}, {{tdr|51}}, {{tdr|54}}–{{tdr|56}}<br>TSR: {{tsr|5}}–{{tsr|6}}, {{tsr|9}}, {{tsr|11}}–{{tsr|12}}, {{tsr|16}}, {{tsr|19}}–{{tsr|20}}, {{tsr|39}}, {{tsr|46}}, {{tsr|51}}–{{tsr|52}}, {{tsr|54}}–{{tsr|55}}<br>TFoH: {{tfoh|8}}–{{tfoh|10}}, {{tfoh|13}}–{{tfoh|17}}, {{tfoh|24}}, {{tfoh|33}}–{{tfoh|40}}, {{tfoh|47}}–{{tfoh|50}}, {{tfoh|54}}–{{tfoh|55}}<br>LoC: {{loc|p}}, {{loc|7}}–{{loc|8}}, {{loc|12}}–{{loc|14}}, {{loc|29}}–{{loc|30}}, {{loc|36}}–{{loc|40}}, {{loc|44}}, {{loc|47}}–{{loc|48}}, {{loc|52}}<br>ACoS: {{acos|13}}, {{acos|21}}–{{acos|24}}, {{acos|31}}, {{acos|37}}–{{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|6}}, {{tpod|20}}, {{tpod|28}}<br>WH: {{wh|8}}, {{wh|10}}–{{wh|11}}, {{wh|22}}, {{wh|32}}–{{wh|35}}<br>CoT: {{cot|23}}<br>KoD: {{kod|18}}–{{kod|21}}, {{kod|27}}<br>TGS: {{tgs|p}}, {{tgs|1}}, {{tgs|7}}, {{tgs|31}}–{{tgs|33}}, {{tgs|35}}, {{tgs|37}}, {{tgs|44}}, {{tgs|48}}<br>ToM: {{tom|p}}, {{tom|12}}–{{tom|15}}, {{tom|20}}, {{tom|33}}, {{tom|36}}–{{tom|38}}<br>AMoL: {{amol|p}}, {{amol|1}}, {{amol|5}}–{{amol|6}}, {{amol|13}}, {{amol|20}}, {{amol|23}}, {{amol|25}}, {{amol|36}}–{{amol|37}}, {{amol|46}}–{{amol|47}}, {{amol|49}}, {{amol|e}}
+| 180
+|-
+| [[Olver]]
+| LoC: {{loc|5}}, {{loc|22}}, {{loc|33}}, {{loc|38}}, {{loc|44}}, {{loc|47}}, {{loc|52}}<br>ACoS: {{acos|14}}, {{acos|28}}–{{acos|29}}<br>WH: {{wh|15}}–{{wh|16}}, {{wh|30}}<br>CoT: {{cot|2}}–{{cot|3}}, {{cot|28}}<br>KoD: {{kod|6}}–{{kod|10}}, {{kod|25}}–{{kod|26}}, {{kod|36}}<br>TGS: {{tgs|20}}, {{tgs|34}}<br>ToM: {{tom|19}}, {{tom|e}}<br>AMoL: {{amol|33}}, {{amol|35}}, {{amol|37}}, {{amol|39}}, {{amol|45}}
+| 33
+|-
+| [[Osan'gar]]
+| LoC: {{loc|p}}<br>ACoS: {{acos|2}}–{{acos|4}}, {{acos|18}}, {{acos|34}}, {{acos|36}}, {{acos|41}}<br>TPoD: {{tpod|13}}–{{tpod|14}}, {{tpod|21}}–{{tpod|24}}, {{tpod|29}}<br>WH: {{wh|13}}, {{wh|35}}
+| 17
+|-
+| [[Padan Fain]]
+| TEotW: {{teotw|2}}–{{teotw|3}}, {{teotw|15}}, {{teotw|39}}, {{teotw|46}}<br>TGH: {{tgh|3}}, {{tgh|5}}, {{tgh|11}}, {{tgh|19}}, {{tgh|34}}, {{tgh|42}}<br>TDR: {{tdr|p}}<br>TSR: {{tsr|31}}, {{tsr|56}}<br>TFoH: {{tfoh|p}}, {{tfoh|19}}<br>LoC: {{loc|28}}<br>ACoS: {{acos|35}}–{{acos|36}}<br>WH: {{wh|22}}, {{wh|33}}<br>ToM: {{tom|p}}<br>AMoL: {{amol|45}}, {{amol|47}}, {{amol|e}}
+| 25
+|-
+| [[Paitar Nachiman]]
+| TPoD: {{tpod|p}}<br>WH: {{wh|27}}<br>ToM: {{tom|51}}<br>AMoL: {{amol|5}}–{{amol|6}}
+| 5
+|-
+| [[Paitr Conel]]
+| TEotW: {{teotw|33}}<br>LoC: {{loc|p}}, {{loc|9}}, {{loc|31}}
+| 4
+|-
+| [[Pedron Niall]]
+| TDR: {{tdr|p}}<br>LoC: {{loc|9}}, {{loc|31}}<br>ACoS: {{acos|p}}
+| 4
+|-
+| [[Pelivar Coelan]]
+| LoC: {{loc|16}}, {{loc|41}}<br>TPoD: {{tpod|17}}–{{tpod|18}}<br>KoD: {{kod|35}}
+| 5
+|-
+| [[Peral Torval]]
+| LoC: {{loc|42}}, {{loc|55}}<br>TPoD: {{tpod|14}}, {{tpod|21}}<br>WH: {{wh|33}}
+| 5
+|-
+| [[Perival Mantear]]
+| CoT: {{cot|13}}<br>KoD: {{kod|17}}, {{kod|32}}–{{kod|33}}, {{kod|35}}<br>AMoL: {{amol|2}}
+| 6
+|-
+| [[Perrin Aybara]]
+| TEotW: {{teotw|Ravens}}, {{teotw|3}}–{{teotw|4}}, {{teotw|10}}–{{teotw|20}}, {{teotw|22}}–{{teotw|23}}, {{teotw|25}}, {{teotw|27}}, {{teotw|29}}–{{teotw|30}}, {{teotw|38}}, {{teotw|41}}–{{teotw|50}}, {{teotw|52}}–{{teotw|53}}<br>TGH: {{tgh|3}}, {{tgh|7}}, {{tgh|9}}–{{tgh|11}}, {{tgh|14}}, {{tgh|23}}, {{tgh|28}}, {{tgh|30}}–{{tgh|31}}, {{tgh|33}}, {{tgh|35}}–{{tgh|37}}, {{tgh|41}}, {{tgh|44}}–{{tgh|47}}, {{tgh|49}}<br>TDR: {{tdr|1}}–{{tdr|9}}, {{tdr|27}}, {{tdr|33}}–{{tdr|36}}, {{tdr|41}}–{{tdr|44}}, {{tdr|50}}, {{tdr|53}}–{{tdr|55}}<br>TSR: {{tsr|2}}–{{tsr|3}}, {{tsr|9}}–{{tsr|10}}, {{tsr|13}}–{{tsr|14}}, {{tsr|16}}, {{tsr|18}}, {{tsr|27}}–{{tsr|33}}, {{tsr|40}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|p}}, {{loc|45}}–{{loc|46}}, {{loc|49}}–{{loc|51}}, {{loc|53}}–{{loc|55}}<br>ACoS: {{acos|1}}–{{acos|6}}, {{acos|27}}<br>TPoD: {{tpod|7}}–{{tpod|10}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}, {{wh|5}}–{{wh|6}}<br>CoT: {{cot|5}}–{{cot|8}}, {{cot|25}}–{{cot|27}}<br>KoD: {{kod|p}}, {{kod|4}}, {{kod|12}}, {{kod|26}}, {{kod|29}}–{{kod|30}}<br>TGS: {{tgs|9}}, {{tgs|17}}, {{tgs|21}}<br>ToM: {{tom|p}}, {{tom|2}}, {{tom|4}}, {{tom|6}}–{{tom|7}}, {{tom|10}}, {{tom|16}}, {{tom|18}}, {{tom|20}}–{{tom|21}}, {{tom|24}}, {{tom|26}}, {{tom|28}}–{{tom|30}}, {{tom|33}}–{{tom|38}}, {{tom|40}}–{{tom|41}}, {{tom|43}}–{{tom|44}}, {{tom|47}}, {{tom|53}}, {{tom|e}}<br>AMoL: {{amol|1}}, {{amol|5}}–{{amol|7}}, {{amol|10}}, {{amol|12}}–{{amol|14}}, {{amol|22}}, {{amol|25}}, {{amol|30}}, {{amol|33}}–{{amol|34}}, {{amol|36}}–{{amol|37}}, {{amol|44}}–{{amol|47}}, {{amol|49}}, {{amol|e}}
+| 188
+|-
+| [[Petra Anhill]]
+| TFoH: {{tfoh|17}}, {{tfoh|33}}, {{tfoh|36}}–{{tfoh|37}}, {{tfoh|47}}–{{tfoh|48}}<br>CoT: {{cot|2}}–{{cot|3}}<br>KoD: {{kod|6}}–{{kod|8}}<br>AMoL: {{amol|11}}
+| 12
+|-
+| [[Pevara Tazanovni]]
+| ACoS: {{acos|32}}<br>TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>CoT: {{cot|22}}<br>KoD: {{kod|p}}, {{kod|24}}, {{kod|e}}<br>ToM: {{tom|53}}<br>AMoL: {{amol|p}}, {{amol|2}}–{{amol|4}}, {{amol|8}}, {{amol|10}}, {{amol|14}}, {{amol|21}}, {{amol|30}}, {{amol|37}}, {{amol|41}}–{{amol|42}}
+| 20
+|-
+| [[Pol]]
+| ACoS: {{acos|30}}<br>TPoD: {{tpod|1}}–{{tpod|2}}, {{tpod|20}}
+| 4
+|-
+| [[Raen]]
+| TEotW: {{teotw|27}}<br>TSR: {{tsr|41}}–{{tsr|42}}, {{tsr|45}}, {{tsr|56}}
+| 5
+|-
+| [[Rafela Cindal]]
+| NS: {{ns|11}}<br>LoC: {{loc|43}}, {{loc|49}}<br>ACoS: {{acos|34}}<br>TPoD: {{tpod|27}}<br>ToM: {{tom|12}}
+| 6
+|-
+| [[Ragan]]
+| TEotW: {{teotw|46}}<br>TGH: {{tgh|3}}, {{tgh|9}}–{{tgh|11}}, {{tgh|14}}, {{tgh|41}}, {{tgh|49}}<br>TDR: {{tdr|1}}–{{tdr|2}}<br>TFoH: {{tfoh|39}}–{{tfoh|40}}, {{tfoh|48}}–{{tfoh|49}}<br>CoT: {{cot|30}}
+| 15
+|-
+| [[Rahvin]]
+| TDR: {{tdr|4}}, {{tdr|46}}<br>TFoH: {{tfoh|p}}, {{tfoh|1}}, {{tfoh|19}}, {{tfoh|34}}, {{tfoh|54}}–{{tfoh|55}}
+| 8
+|-
+| [[Rainyn]]
+| TPoD: {{tpod|2}}–{{tpod|3}}, {{tpod|5}}<br>WH: {{wh|11}}<br>KoD: {{kod|32}}
+| 5
+|-
+| [[Rand al'Thor]]
+| TEotW: {{teotw|Ravens}}, {{teotw|1}}–{{teotw|20}}, {{teotw|24}}, {{teotw|26}}, {{teotw|31}}–{{teotw|36}}, {{teotw|39}}–{{teotw|53}}<br>TGH: {{tgh|1}}–{{tgh|4}}, {{tgh|6}}–{{tgh|11}}, {{tgh|13}}, {{tgh|15}}–{{tgh|17}}, {{tgh|19}}–{{tgh|21}}, {{tgh|23}}, {{tgh|25}}–{{tgh|27}}, {{tgh|30}}–{{tgh|33}}, {{tgh|35}}–{{tgh|37}}, {{tgh|41}}, {{tgh|44}}–{{tgh|50}}<br>TDR: {{tdr|2}}–{{tdr|3}}, {{tdr|5}}, {{tdr|9}}, {{tdr|27}}, {{tdr|32}}, {{tdr|36}}, {{tdr|54}}–{{tdr|55}}<br>TSR: {{tsr|2}}–{{tsr|3}}, {{tsr|7}}–{{tsr|10}}, {{tsr|15}}, {{tsr|21}}–{{tsr|26}}, {{tsr|34}}, {{tsr|36}}–{{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}–{{tfoh|4}}, {{tfoh|6}}–{{tfoh|7}}, {{tfoh|15}}, {{tfoh|20}}–{{tfoh|23}}, {{tfoh|30}}–{{tfoh|32}}, {{tfoh|41}}–{{tfoh|46}}, {{tfoh|51}}–{{tfoh|56}}<br>LoC: {{loc|1}}–{{loc|4}}, {{loc|10}}–{{loc|11}}, {{loc|16}}–{{loc|21}}, {{loc|26}}, {{loc|28}}, {{loc|32}}–{{loc|33}}, {{loc|41}}–{{loc|42}}, {{loc|45}}–{{loc|46}}, {{loc|49}}–{{loc|51}}, {{loc|53}}, {{loc|55}}<br>ACoS: {{acos|2}}–{{acos|7}}, {{acos|18}}–{{acos|19}}, {{acos|33}}–{{acos|36}}, {{acos|41}}<br>TPoD: {{tpod|13}}–{{tpod|14}}, {{tpod|21}}–{{tpod|24}}, {{tpod|27}}, {{tpod|29}}<br>WH: {{wh|p}}, {{wh|11}}–{{wh|12}}, {{wh|22}}, {{wh|25}}, {{wh|32}}–{{wh|35}}<br>CoT: {{cot|23}}–{{cot|24}}, {{cot|e}}<br>KoD: {{kod|6}}, {{kod|18}}–{{kod|21}}, {{kod|27}}<br>TGS: {{tgs|p}}, {{tgs|1}}, {{tgs|5}}, {{tgs|7}}, {{tgs|10}}–{{tgs|11}}, {{tgs|15}}, {{tgs|22}}–{{tgs|23}}, {{tgs|26}}, {{tgs|29}}, {{tgs|31}}, {{tgs|33}}, {{tgs|35}}, {{tgs|37}}, {{tgs|42}}, {{tgs|44}}, {{tgs|47}}, {{tgs|49}}–{{tgs|50}}<br>ToM: {{tom|p}}, {{tom|1}}, {{tom|3}}, {{tom|13}}, {{tom|15}}, {{tom|25}}, {{tom|30}}, {{tom|32}}, {{tom|51}}, {{tom|e}}<br>AMoL: {{amol|1}}, {{amol|3}}–{{amol|6}}, {{amol|9}}, {{amol|11}}–{{amol|13}}, {{amol|15}}–{{amol|20}}, {{amol|23}}, {{amol|25}}, {{amol|30}}, {{amol|34}}, {{amol|36}}–{{amol|39}}, {{amol|43}}, {{amol|46}}–{{amol|47}}, {{amol|49}}, {{amol|e}}
+| 257
+|-
+| [[Rasoria Domanche]]
+| WH: {{wh|26}}<br>CoT: {{cot|11}}–{{cot|14}}
+| 5
+|-
+| [[Reanne Corly]]
+| ACoS: {{acos|23}}–{{acos|24}}, {{acos|29}}, {{acos|31}}, {{acos|37}}–{{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|5}}, {{tpod|20}}, {{tpod|28}}<br>WH: {{wh|8}}, {{wh|26}}–{{wh|27}}<br>KoD: {{kod|14}}
+| 18
+|-
+| [[Reene Harfor]]
+| LoC: {{loc|26}}, {{loc|28}}, {{loc|49}}<br>TPoD: {{tpod|28}}<br>WH: {{wh|p}}, {{wh|7}}–{{wh|8}}, {{wh|11}}, {{wh|26}}–{{wh|27}}<br>CoT: {{cot|14}}<br>KoD: {{kod|14}}, {{kod|16}}, {{kod|32}}, {{kod|35}}
+| 15
+|-
+| [[Renaile din Calon Blue Star]]
+| ACoS: {{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|3}}, {{tpod|5}}–{{tpod|6}}, {{tpod|20}}<br>WH: {{wh|p}}<br>KoD: {{kod|14}}, {{kod|32}}<br>ToM: {{tom|36}}
+| 11
+|-
+| [[Rendra]]
+| TSR: {{tsr|39}}, {{tsr|46}}, {{tsr|51}}, {{tsr|55}}
+| 4
+|-
+| [[Renna Emain]]
+| TGH: {{tgh|40}}, {{tgh|42}}, {{tgh|46}}<br>WH: {{wh|20}}, {{wh|30}}–{{wh|31}}<br>CoT: {{cot|1}}, {{cot|3}}, {{cot|28}}–{{cot|29}}
+| 10
+|-
+| [[Rhadam Asunawa]]
+| LoC: {{loc|31}}<br>ACoS: {{acos|p}}<br>CoT: {{cot|p}}<br>KoD: {{kod|p}}<br>ToM: {{tom|p}}
+| 5
+|-
+| [[Rhiale]]
+| ACoS: {{acos|p}}, {{acos|20}}, {{acos|40}}<br>TPoD: {{tpod|11}}
+| 4
+|-
+| [[Rhuarc]]
+| TDR: {{tdr|39}}, {{tdr|54}}, {{tdr|56}}<br>TSR: {{tsr|3}}, {{tsr|14}}, {{tsr|21}}–{{tsr|23}}, {{tsr|34}}, {{tsr|36}}–{{tsr|37}}, {{tsr|48}}–{{tsr|50}}, {{tsr|57}}–{{tsr|58}}<br>TFoH: {{tfoh|2}}, {{tfoh|6}}, {{tfoh|20}}, {{tfoh|23}}, {{tfoh|30}}, {{tfoh|41}}, {{tfoh|43}}<br>LoC: {{loc|17}}–{{loc|18}}, {{loc|24}}, {{loc|50}}, {{loc|53}}–{{loc|55}}<br>ACoS: {{acos|2}}–{{acos|4}}<br>TGS: {{tgs|3}}, {{tgs|7}}, {{tgs|29}}, {{tgs|31}}<br>ToM: {{tom|13}}<br>AMoL: {{amol|6}}–{{amol|7}}, {{amol|20}}, {{amol|37}}, {{amol|42}}
+| 43
+|-
+| [[Rianna Andomeran]]
+| TDR: {{tdr|51}}<br>TSR: {{tsr|38}}, {{tsr|55}}<br>TFoH: {{tfoh|18}}<br>AMoL: {{amol|42}}
+| 5
+|-
+| [[Rodel Ituralde]]
+| CoT: {{cot|p}}<br>KoD: {{kod|p}}<br>TGS: {{tgs|p}}, {{tgs|6}}, {{tgs|10}}–{{tgs|11}}, {{tgs|22}}<br>ToM: {{tom|18}}, {{tom|21}}, {{tom|24}}, {{tom|28}}, {{tom|32}}<br>AMoL: {{amol|7}}, {{amol|20}}, {{amol|24}}, {{amol|31}}, {{amol|e}}
+| 17
+|-
+| [[Rodrivar Tihera]]
+| TPoD: {{tpod|21}}–{{tpod|22}}, {{tpod|24}}<br>AMoL: {{amol|20}}, {{amol|31}}
+| 5
+|-
+| [[Rolan]]
+| TPoD: {{tpod|30}}<br>WH: {{wh|3}}–{{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|5}}, {{kod|26}}, {{kod|29}}–{{kod|30}}
+| 8
+|-
+| [[Romanda Cassin]]
+| LoC: {{loc|15}}, {{loc|29}}–{{loc|30}}, {{loc|35}}–{{loc|37}}, {{loc|44}}<br>ACoS: {{acos|11}}<br>TPoD: {{tpod|16}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}, {{cot|30}}<br>KoD: {{kod|23}}<br>TGS: {{tgs|18}}, {{tgs|26}}, {{tgs|43}}, {{tgs|45}}<br>ToM: {{tom|3}}, {{tom|20}}, {{tom|27}}<br>AMoL: {{amol|1}}, {{amol|5}}–{{amol|6}}, {{amol|20}}
+| 28
+|-
+| [[Rovair Kirklin]]
+| TPoD: {{tpod|10}}<br>CoT: {{cot|26}}–{{cot|27}}<br>KoD: {{kod|26}}, {{kod|30}}
+| 5
+|-
+| [[Rubinde Acedone]]
+| TPoD: {{tpod|25}}<br>CoT: {{cot|21}}<br>TGS: {{tgs|16}}, {{tgs|46}}<br>ToM: {{tom|3}}, {{tom|20}}, {{tom|27}}<br>AMoL: {{amol|e}}
+| 8
+|-
+| [[Ryma Galfrey]]
+| NS: {{ns|14}}<br>TSR: {{tsr|1}}<br>ACoS: {{acos|26}}<br>TPoD: {{tpod|24}}<br>WH: {{wh|28}}
+| 5
+|-
+| [[Ryne Venamar]]
+| NS: {{ns|16}}, {{ns|18}}–{{ns|22}}, {{ns|25}}–{{ns|26}}
+| 8
+|-
+| [[Saerin Asnobar]]
+| TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>TGS: {{tgs|12}}, {{tgs|38}}, {{tgs|41}}, {{tgs|46}}<br>ToM: {{tom|3}}, {{tom|15}}, {{tom|20}}, {{tom|27}}, {{tom|37}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|25}}, {{amol|31}}–{{amol|32}}, {{amol|e}}
+| 17
+|-
+| [[Salita Toranes]]
+| LoC: {{loc|30}}, {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|17}}, {{cot|19}}<br>KoD: {{kod|23}}
+| 10
+|-
+| [[Samalin Naeroda]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}<br>KoD: {{kod|23}}
+| 8
+|-
+| [[Samitsu Tamagowa]]
+| ACoS: {{acos|36}}, {{acos|41}}<br>CoT: {{cot|p}}, {{cot|24}}<br>ToM: {{tom|52}}
+| 5
+|-
+| [[Sammael]]
+| TFoH: {{tfoh|p}}, {{tfoh|34}}<br>LoC: {{loc|6}}, {{loc|23}}<br>ACoS: {{acos|15}}, {{acos|20}}, {{acos|40}}–{{acos|41}}
+| 8
+|-
+| [[Sareitha Tomares]]
+| ACoS: {{acos|16}}, {{acos|30}}–{{acos|31}}, {{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|6}}, {{tpod|20}}<br>WH: {{wh|7}}<br>CoT: {{cot|11}}<br>KoD: {{kod|16}}, {{kod|31}}
+| 15
+|-
+| [[Sarene Nemdahl]]
+| LoC: {{loc|25}}, {{loc|55}}<br>ACoS: {{acos|1}}<br>TPoD: {{tpod|29}}<br>WH: {{wh|13}}, {{wh|23}}–{{wh|24}}, {{wh|35}}<br>CoT: {{cot|23}}<br>TGS: {{tgs|14}}, {{tgs|17}}, {{tgs|23}}, {{tgs|26}}<br>ToM: {{tom|12}}<br>AMoL: {{amol|23}}, {{amol|34}}, {{amol|42}}
+| 17
+|-
+| [[Sarin Hoigan]]
+| ACoS: {{acos|12}}<br>CoT: {{cot|16}}, {{cot|30}}<br>KoD: {{kod|23}}
+| 4
+|-
+| [[Saroiya Farseen]]
+| LoC: {{loc|35}}–{{loc|36}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>KoD: {{kod|2}}, {{kod|23}}<br>TGS: {{tgs|43}}<br>ToM: {{tom|3}}, {{tom|27}}
+| 13
+|-
+| [[Seaine Herimon]]
+| ACoS: {{acos|32}}<br>TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>CoT: {{cot|p}}<br>KoD: {{kod|p}}<br>TGS: {{tgs|12}}, {{tgs|25}}, {{tgs|46}}<br>ToM: {{tom|3}}, {{tom|15}}, {{tom|20}}, {{tom|36}}<br>AMoL: {{amol|21}}
+| 13
+|-
+| [[Seana]]
+| TSR: {{tsr|23}}, {{tsr|34}}–{{tsr|35}}, {{tsr|37}}, {{tsr|48}}–{{tsr|50}}
+| 7
+|-
+| [[Sebban Balwer]]
+| LoC: {{loc|p}}, {{loc|9}}, {{loc|31}}<br>ACoS: {{acos|p}}, {{acos|26}}<br>TPoD: {{tpod|7}}, {{tpod|9}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}<br>CoT: {{cot|5}}, {{cot|26}}<br>KoD: {{kod|12}}, {{kod|26}}, {{kod|29}}<br>TGS: {{tgs|9}}<br>ToM: {{tom|6}}, {{tom|21}}<br>AMoL: {{amol|1}}
+| 19
+|-
+| [[Selande Darengil]]
+| TFoH: {{tfoh|51}}<br>LoC: {{loc|19}}, {{loc|50}}<br>ACoS: {{acos|4}}–{{acos|6}}, {{acos|27}}<br>TPoD: {{tpod|8}}<br>WH: {{wh|6}}<br>CoT: {{cot|5}}<br>KoD: {{kod|26}}, {{kod|30}}<br>ToM: {{tom|30}}<br>AMoL: {{amol|37}}
+| 14
+|-
+| [[Selucia]]
+| WH: {{wh|14}}, {{wh|17}}, {{wh|28}}, {{wh|31}}<br>CoT: {{cot|1}}, {{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|6}}–{{kod|11}}, {{kod|25}}–{{kod|27}}, {{kod|36}}<br>TGS: {{tgs|19}}, {{tgs|35}}–{{tgs|36}}<br>ToM: {{tom|47}}<br>AMoL: {{amol|15}}, {{amol|17}}, {{amol|24}}, {{amol|29}}, {{amol|32}}
+| 27
+|-
+| [[Semaradrid Maravin]]
+| LoC: {{loc|4}}<br>TPoD: {{tpod|13}}–{{tpod|14}}, {{tpod|21}}–{{tpod|24}}
+| 7
+|-
+| [[Semirhage]]
+| LoC: {{loc|p}}, {{loc|6}}<br>WH: {{wh|14}}, {{wh|17}}, {{wh|28}}<br>KoD: {{kod|p}}, {{kod|3}}, {{kod|27}}<br>TGS: {{tgs|p}}, {{tgs|5}}, {{tgs|14}}, {{tgs|17}}, {{tgs|22}}
+| 13
+|-
+| [[Seonid Traighan]]
+| LoC: {{loc|43}}, {{loc|46}}, {{loc|49}}<br>ACoS: {{acos|27}}<br>TPoD: {{tpod|7}}–{{tpod|9}}, {{tpod|30}}<br>WH: {{wh|1}}–{{wh|2}}, {{wh|6}}<br>CoT: {{cot|25}}–{{cot|27}}<br>KoD: {{kod|26}}, {{kod|30}}<br>ToM: {{tom|4}}, {{tom|6}}, {{tom|21}}, {{tom|26}}
+| 20
+|-
+| [[Sephanie Pelden]]
+| CoT: {{cot|12}}–{{cot|13}}<br>KoD: {{kod|15}}, {{kod|17}}, {{kod|35}}<br>ToM: {{tom|45}}
+| 6
+|-
+| [[Seta Zarbey]]
+| TGH: {{tgh|45}}–{{tgh|46}}<br>WH: {{wh|30}}–{{wh|31}}<br>CoT: {{cot|1}}, {{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|7}}–{{kod|9}}, {{kod|25}}–{{kod|26}}, {{kod|37}}<br>ToM: {{tom|17}}
+| 15
+|-
+| [[Setalle Anan]]
+| LoC: {{loc|47}}, {{loc|52}}<br>ACoS: {{acos|17}}, {{acos|21}}–{{acos|23}}<br>WH: {{wh|18}}–{{wh|19}}, {{wh|29}}<br>CoT: {{cot|3}}, {{cot|28}}<br>KoD: {{kod|7}}, {{kod|9}}–{{kod|11}}, {{kod|25}}–{{kod|26}}, {{kod|36}}<br>ToM: {{tom|19}}, {{tom|52}}<br>AMoL: {{amol|33}}–{{amol|35}}
+| 23
+|-
+| [[Sevanna]]
+| TSR: {{tsr|57}}<br>LoC: {{loc|p}}, {{loc|32}}, {{loc|50}}, {{loc|53}}<br>ACoS: {{acos|p}}, {{acos|20}}, {{acos|40}}<br>TPoD: {{tpod|11}}<br>WH: {{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|5}}, {{kod|30}}
+| 13
+|-
+| [[Seve]]
+| TFoH: {{tfoh|49}}–{{tfoh|50}}<br>LoC: {{loc|p}}, {{loc|12}}
+| 4
+|-
+| [[Shaidar Haran]]
+| TGH: {{tgh|p}}<br>TDR: {{tdr|p}}<br>LoC: {{loc|p}}, {{loc|6}}, {{loc|e}}<br>ACoS: {{acos|25}}, {{acos|40}}<br>TPoD: {{tpod|12}}<br>CoT: {{cot|21}}<br>TGS: {{tgs|22}}<br>ToM: {{tom|e}}<br>AMoL: {{amol|25}}
+| 12
+|-
+| [[Shalon din Togara Morning Tide]]
+| ACoS: {{acos|34}}<br>TPoD: {{tpod|29}}<br>WH: {{wh|23}}–{{wh|24}}, {{wh|35}}<br>KoD: {{kod|22}}
+| 6
+|-
+| [[Sharina Melloy]]
+| TGH: {{tgh|23}}<br>CoT: {{cot|17}}<br>KoD: {{kod|23}}<br>TGS: {{tgs|18}}
+| 4
+|-
+| [[Shemerin]]
+| TSR: {{tsr|47}}<br>TFoH: {{tfoh|p}}<br>TGS: {{tgs|24}}, {{tgs|26}}
+| 4
+|-
+| [[Sheraine Caminelle]]
+| WH: {{wh|14}}, {{wh|28}}<br>CoT: {{cot|4}}<br>KoD: {{kod|36}}
+| 4
+|-
+| [[Sheriam Bayanar]]
+| NS: {{ns|6}}, {{ns|8}}, {{ns|10}}, {{ns|14}}<br>TGH: {{tgh|18}}, {{tgh|23}}<br>TDR: {{tdr|11}}, {{tdr|15}}, {{tdr|17}}–{{tdr|18}}, {{tdr|22}}–{{tdr|23}}, {{tdr|27}}<br>TSR: {{tsr|1}}<br>TFoH: {{tfoh|26}}–{{tfoh|28}}, {{tfoh|50}}<br>LoC: {{loc|7}}, {{loc|12}}, {{loc|15}}, {{loc|29}}–{{loc|30}}, {{loc|32}}, {{loc|34}}–{{loc|37}}, {{loc|39}}, {{loc|44}}<br>ACoS: {{acos|8}}<br>TPoD: {{tpod|16}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|16}}–{{cot|17}}, {{cot|19}}–{{cot|20}}, {{cot|30}}<br>KoD: {{kod|1}}, {{kod|23}}<br>TGS: {{tgs|18}}, {{tgs|25}}–{{tgs|26}}, {{tgs|43}}
+| 47
+|-
+| [[Shevan]]
+| TPoD: {{tpod|25}}<br>CoT: {{cot|21}}<br>TGS: {{tgs|16}}, {{tgs|46}}
+| 4
+|-
+| [[Shielyn]]
+| WH: {{wh|11}}<br>CoT: {{cot|12}}–{{cot|13}}<br>KoD: {{kod|22}}<br>ToM: {{tom|36}}
+| 5
+|-
+| [[Sibella]]
+| ACoS: {{acos|38}}–{{acos|39}}<br>TPoD: {{tpod|1}}, {{tpod|3}}
+| 4
+|-
+| [[Silviana Brehon]]
+| TGH: {{tgh|23}}<br>TPoD: {{tpod|25}}<br>KoD: {{kod|p}}, {{kod|24}}<br>TGS: {{tgs|2}}, {{tgs|46}}, {{tgs|e}}<br>ToM: {{tom|3}}, {{tom|5}}, {{tom|23}}, {{tom|27}}, {{tom|35}}, {{tom|42}}<br>AMoL: {{amol|5}}, {{amol|9}}, {{amol|11}}, {{amol|18}}, {{amol|20}}, {{amol|32}}, {{amol|37}}
+| 20
+|-
+| [[Siuan Sanche]]
+| NS: {{ns|2}}–{{ns|14}}, {{ns|18}}, {{ns|23}}–{{ns|25}}, {{ns|e}}<br>TGH: {{tgh|2}}, {{tgh|4}}–{{tgh|9}}, {{tgh|12}}, {{tgh|18}}, {{tgh|23}}<br>TDR: {{tdr|12}}–{{tdr|14}}, {{tdr|18}}, {{tdr|20}}, {{tdr|22}}–{{tdr|23}}, {{tdr|29}}<br>TSR: {{tsr|1}}, {{tsr|17}}, {{tsr|47}}<br>TFoH: {{tfoh|1}}, {{tfoh|11}}, {{tfoh|26}}–{{tfoh|28}}, {{tfoh|50}}, {{tfoh|54}}–{{tfoh|55}}<br>LoC: {{loc|p}}, {{loc|7}}–{{loc|8}}, {{loc|15}}, {{loc|30}}, {{loc|32}}, {{loc|34}}–{{loc|35}}, {{loc|37}}, {{loc|44}}<br>ACoS: {{acos|8}}–{{acos|9}}, {{acos|11}}–{{acos|12}}<br>TPoD: {{tpod|15}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|18}}–{{cot|19}}, {{cot|30}}<br>KoD: {{kod|1}}, {{kod|23}}<br>TGS: {{tgs|8}}, {{tgs|18}}, {{tgs|26}}, {{tgs|38}}–{{tgs|41}}, {{tgs|43}}, {{tgs|45}}–{{tgs|46}}<br>ToM: {{tom|3}}, {{tom|22}}, {{tom|33}}, {{tom|35}}, {{tom|37}}–{{tom|38}}<br>AMoL: {{amol|7}}, {{amol|9}}, {{amol|18}}, {{amol|21}}, {{amol|25}}, {{amol|27}}, {{amol|37}}
+| 95
+|-
+| [[Slayer]]
+| TSR: {{tsr|28}}, {{tsr|33}}, {{tsr|39}}–{{tsr|40}}, {{tsr|42}}, {{tsr|45}}<br>WH: {{wh|22}}<br>ToM: {{tom|24}}, {{tom|28}}, {{tom|35}}–{{tom|38}}<br>AMoL: {{amol|p}}, {{amol|25}}, {{amol|33}}, {{amol|45}}–{{amol|46}}
+| 18
+|-
+| [[Sleete]]
+| TGS: {{tgs|13}}<br>ToM: {{tom|5}}<br>AMoL: {{amol|p}}, {{amol|18}}
+| 4
+|-
+| [[Somara]]
+| TFoH: {{tfoh|46}}, {{tfoh|51}}, {{tfoh|56}}<br>LoC: {{loc|1}}, {{loc|3}}–{{loc|4}}, {{loc|27}}, {{loc|41}}–{{loc|42}}, {{loc|50}}<br>ACoS: {{acos|7}}, {{acos|33}}<br>TPoD: {{tpod|27}}, {{tpod|29}}
+| 14
+|-
+| [[Someryn]]
+| ACoS: {{acos|p}}, {{acos|20}}<br>TPoD: {{tpod|11}}<br>WH: {{wh|4}}<br>CoT: {{cot|9}}
+| 5
+|-
+| [[Sorilea]]
+| TFoH: {{tfoh|23}}, {{tfoh|41}}, {{tfoh|44}}, {{tfoh|53}}–{{tfoh|54}}<br>LoC: {{loc|18}}–{{loc|19}}, {{loc|24}}–{{loc|25}}, {{loc|33}}, {{loc|50}}–{{loc|51}}, {{loc|53}}–{{loc|55}}<br>ACoS: {{acos|1}}–{{acos|3}}, {{acos|18}}<br>TPoD: {{tpod|p}}, {{tpod|12}}, {{tpod|29}}<br>WH: {{wh|13}}<br>TGS: {{tgs|14}}, {{tgs|23}}, {{tgs|31}}, {{tgs|37}}<br>AMoL: {{amol|p}}, {{amol|5}}–{{amol|6}}, {{amol|33}}, {{amol|35}}
+| 32
+|-
+| [[Suana Dragand]]
+| CoT: {{cot|21}}<br>TGS: {{tgs|12}}, {{tgs|43}}, {{tgs|46}}
+| 4
+|-
+| [[Sulin]]
+| TFoH: {{tfoh|20}}–{{tfoh|21}}, {{tfoh|30}}–{{tfoh|31}}, {{tfoh|41}}, {{tfoh|43}}–{{tfoh|44}}, {{tfoh|46}}, {{tfoh|53}}–{{tfoh|56}}<br>LoC: {{loc|1}}–{{loc|4}}, {{loc|10}}, {{loc|16}}–{{loc|21}}, {{loc|26}}, {{loc|28}}, {{loc|41}}, {{loc|49}}–{{loc|51}}, {{loc|53}}–{{loc|55}}<br>ACoS: {{acos|2}}–{{acos|7}}, {{acos|27}}<br>TPoD: {{tpod|8}}–{{tpod|10}}<br>WH: {{wh|2}}, {{wh|6}}<br>CoT: {{cot|8}}, {{cot|27}}<br>KoD: {{kod|26}}, {{kod|29}}<br>TGS: {{tgs|37}}<br>ToM: {{tom|4}}, {{tom|6}}, {{tom|10}}, {{tom|21}}, {{tom|29}}, {{tom|34}}, {{tom|40}}, {{tom|47}}
+| 57
+|-
+| [[Sumeko Karistovan]]
+| ACoS: {{acos|31}}, {{acos|37}}–{{acos|39}}, {{acos|41}}<br>TPoD: {{tpod|1}}–{{tpod|4}}, {{tpod|20}}<br>CoT: {{cot|14}}<br>KoD: {{kod|31}}<br>ToM: {{tom|17}}, {{tom|31}}<br>AMoL: {{amol|1}}, {{amol|7}}
+| 16
+|-
+| [[Sunamon Haellin]]
+| TSR: {{tsr|8}}–{{tsr|9}}, {{tsr|21}}<br>LoC: {{loc|4}}<br>TPoD: {{tpod|21}}–{{tpod|24}}
+| 8
+|-
+| [[Suroth Sabelle Meldarath]]
+| TGH: {{tgh|40}}<br>TSR: {{tsr|1}}<br>ACoS: {{acos|26}}<br>TPoD: {{tpod|24}}<br>WH: {{wh|17}}, {{wh|28}}<br>KoD: {{kod|p}}, {{kod|e}}
+| 8
+|-
+| [[Sylvase Caeren]]
+| CoT: {{cot|15}}<br>KoD: {{kod|17}}, {{kod|33}}<br>ToM: {{tom|23}}
+| 4
+|-
+| [[Tabiya]]
+| TFoH: {{tfoh|26}}<br>LoC: {{loc|8}}, {{loc|29}}, {{loc|38}}–{{loc|39}}
+| 5
+|-
+| [[Tad Barran]]
+| TEotW: {{teotw|3}}–{{teotw|4}}<br>TSR: {{tsr|44}}, {{tsr|56}}<br>KoD: {{kod|29}}
+| 5
+|-
+| [[Takima Deraighdin]]
+| TGH: {{tgh|39}}<br>LoC: {{loc|30}}, {{loc|35}}–{{loc|36}}<br>ACoS: {{acos|11}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>KoD: {{kod|2}}<br>TGS: {{tgs|43}}<br>ToM: {{tom|3}}, {{tom|27}}
+| 15
+|-
+| [[Talaan din Gelyn]]
+| TPoD: {{tpod|2}}, {{tpod|5}}–{{tpod|6}}<br>WH: {{wh|11}}
+| 4
+|-
+| [[Talene Minly]]
+| ACoS: {{acos|32}}<br>TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>CoT: {{cot|21}}
+| 4
+|-
+| [[Talmanes Delovinde]]
+| TFoH: {{tfoh|43}}–{{tfoh|45}}, {{tfoh|53}}<br>LoC: {{loc|5}}, {{loc|22}}, {{loc|33}}, {{loc|38}}, {{loc|44}}<br>TPoD: {{tpod|17}}–{{tpod|18}}<br>KoD: {{kod|25}}–{{kod|26}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|20}}, {{tgs|27}}–{{tgs|28}}, {{tgs|34}}, {{tgs|36}}<br>ToM: {{tom|19}}, {{tom|31}}, {{tom|e}}<br>AMoL: {{amol|p}}, {{amol|1}}, {{amol|8}}, {{amol|10}}, {{amol|13}}, {{amol|24}}, {{amol|26}}, {{amol|32}}, {{amol|37}}, {{amol|41}}
+| 33
+|-
+| [[Tam al'Thor]]
+| TEotW: {{teotw|Ravens}}, {{teotw|1}}–{{teotw|9}}<br>TSR: {{tsr|31}}–{{tsr|33}}, {{tsr|43}}–{{tsr|44}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|p}}<br>KoD: {{kod|29}}<br>TGS: {{tgs|9}}, {{tgs|47}}<br>ToM: {{tom|6}}, {{tom|10}}, {{tom|13}}, {{tom|21}}, {{tom|26}}, {{tom|29}}<br>AMoL: {{amol|10}}, {{amol|13}}, {{amol|15}}, {{amol|26}}, {{amol|37}}, {{amol|39}}, {{amol|e}}
+| 34
+|-
+| [[Tamarla]]
+| ACoS: {{acos|37}}–{{acos|39}}<br>TPoD: {{tpod|1}}
+| 4
+|-
+| [[Tamra Ospenya]]
+| NS: {{ns|2}}–{{ns|3}}, {{ns|6}}–{{ns|7}}, {{ns|11}}
+| 5
+|-
+| [[Taril Canler]]
+| WH: {{wh|p}}<br>ToM: {{tom|46}}, {{tom|56}}<br>AMoL: {{amol|p}}, {{amol|3}}, {{amol|14}}, {{amol|21}}, {{amol|41}}
+| 8
+|-
+| [[Tarna Feir]]
+| NS: {{ns|3}}<br>LoC: {{loc|13}}, {{loc|15}}<br>CoT: {{cot|p}}, {{cot|22}}<br>KoD: {{kod|2}}, {{kod|25}}, {{kod|e}}<br>ToM: {{tom|53}}
+| 9
+|-
+| [[Tebreille din Gelyn South Wind]]
+| TPoD: {{tpod|5}}, {{tpod|20}}<br>WH: {{wh|11}}<br>KoD: {{kod|22}}
+| 4
+|-
+| [[Tell Lewin]]
+| TSR: {{tsr|33}}, {{tsr|41}}–{{tsr|42}}, {{tsr|44}}, {{tsr|53}}, {{tsr|56}}<br>ACoS: {{acos|3}}<br>KoD: {{kod|4}}
+| 8
+|-
+| [[Temaile Kinderode]]
+| TSR: {{tsr|52}}, {{tsr|54}}<br>TFoH: {{tfoh|18}}, {{tfoh|34}}<br>WH: {{wh|10}}<br>KoD: {{kod|31}}, {{kod|33}}<br>ToM: {{tom|23}}
+| 8
+|-
+| [[Tenobia si Bashere Kazadi]]
+| TPoD: {{tpod|p}}<br>WH: {{wh|27}}<br>ToM: {{tom|51}}<br>AMoL: {{amol|5}}–{{amol|6}}, {{amol|9}}, {{amol|16}}
+| 7
+|-
+| [[Tervail Dura]]
+| LoC: {{loc|30}}<br>CoT: {{cot|16}}<br>KoD: {{kod|2}}, {{kod|24}}
+| 4
+|-
+| [[Teryl Wynter]]
+| TPoD: {{tpod|7}}–{{tpod|8}}<br>WH: {{wh|6}}<br>CoT: {{cot|26}}–{{cot|27}}<br>KoD: {{kod|26}}, {{kod|30}}
+| 7
+|-
+| [[Teslyn Baradon]]
+| TFoH: {{tfoh|p}}<br>ACoS: {{acos|16}}–{{acos|17}}<br>TPoD: {{tpod|1}}<br>WH: {{wh|17}}, {{wh|19}}–{{wh|20}}, {{wh|28}}, {{wh|30}}–{{wh|31}}<br>CoT: {{cot|1}}, {{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|7}}–{{kod|10}}, {{kod|25}}, {{kod|27}}, {{kod|36}}–{{kod|37}}<br>TGS: {{tgs|20}}, {{tgs|27}}–{{tgs|28}}<br>ToM: {{tom|8}}–{{tom|9}}, {{tom|17}}
+| 28
+|-
+| [[Theodrin Dabei]]
+| TDR: {{tdr|11}}, {{tdr|13}}<br>LoC: {{loc|12}}–{{loc|13}}, {{loc|36}}<br>ACoS: {{acos|11}}<br>TPoD: {{tpod|16}}<br>CoT: {{cot|30}}<br>KoD: {{kod|23}}<br>AMoL: {{amol|21}}, {{amol|37}}
+| 11
+|-
+| [[Therava]]
+| LoC: {{loc|p}}, {{loc|53}}<br>ACoS: {{acos|p}}, {{acos|40}}<br>TPoD: {{tpod|11}}<br>WH: {{wh|4}}<br>CoT: {{cot|9}}<br>KoD: {{kod|5}}, {{kod|30}}
+| 9
+|-
+| [[Theril]]
+| KoD: {{kod|5}}, {{kod|28}}–{{kod|30}}
+| 4
+|-
+| [[Thom Merrilin]]
+| TEotW: {{teotw|3}}–{{teotw|4}}, {{teotw|7}}–{{teotw|8}}, {{teotw|10}}–{{teotw|20}}, {{teotw|24}}, {{teotw|26}}<br>TGH: {{tgh|25}}–{{tgh|26}}, {{tgh|32}}, {{tgh|34}}<br>TDR: {{tdr|31}}–{{tdr|32}}, {{tdr|40}}, {{tdr|44}}–{{tdr|45}}, {{tdr|47}}, {{tdr|49}}, {{tdr|52}}<br>TSR: {{tsr|4}}, {{tsr|17}}, {{tsr|20}}, {{tsr|39}}, {{tsr|46}}, {{tsr|51}}–{{tsr|52}}, {{tsr|54}}–{{tsr|55}}<br>TFoH: {{tfoh|8}}–{{tfoh|10}}, {{tfoh|13}}, {{tfoh|16}}–{{tfoh|17}}, {{tfoh|34}}–{{tfoh|37}}, {{tfoh|47}}–{{tfoh|50}}<br>LoC: {{loc|29}}, {{loc|40}}, {{loc|47}}<br>ACoS: {{acos|21}}, {{acos|28}}, {{acos|39}}<br>WH: {{wh|15}}–{{wh|16}}, {{wh|28}}–{{wh|29}}<br>CoT: {{cot|1}}, {{cot|3}}, {{cot|29}}<br>KoD: {{kod|8}}, {{kod|10}}–{{kod|11}}, {{kod|25}}–{{kod|26}}, {{kod|36}}<br>TGS: {{tgs|27}}–{{tgs|28}}, {{tgs|34}}, {{tgs|36}}<br>ToM: {{tom|8}}–{{tom|9}}, {{tom|17}}, {{tom|19}}, {{tom|22}}, {{tom|47}}, {{tom|53}}–{{tom|55}}, {{tom|57}}<br>AMoL: {{amol|6}}, {{amol|13}}, {{amol|20}}, {{amol|23}}, {{amol|44}}, {{amol|48}}, {{amol|e}}
+| 92
+|-
+| [[Tod al'Caar]]
+| ACoS: {{acos|1}}–{{acos|3}}<br>CoT: {{cot|25}}–{{cot|26}}<br>KoD: {{kod|4}}, {{kod|26}}<br>TGS: {{tgs|17}}<br>ToM: {{tom|p}}
+| 9
+|-
+| [[Tomas]]
+| TSR: {{tsr|30}}–{{tsr|33}}, {{tsr|44}}–{{tsr|45}}, {{tsr|53}}, {{tsr|56}}<br>LoC: {{loc|10}}–{{loc|11}}<br>WH: {{wh|23}}–{{wh|24}}, {{wh|35}}<br>CoT: {{cot|23}}<br>TGS: {{tgs|34}}, {{tgs|36}}
+| 16
+|-
+| [[Torean Andiama]]
+| TSR: {{tsr|3}}, {{tsr|21}}<br>TFoH: {{tfoh|46}}, {{tfoh|51}}<br>LoC: {{loc|4}}<br>TPoD: {{tpod|21}}–{{tpod|24}}<br>TGS: {{tgs|42}}
+| 10
+|-
+| [[Toveine Gazal]]
+| TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>CoT: {{cot|p}}<br>KoD: {{kod|27}}<br>AMoL: {{amol|10}}, {{amol|14}}
+| 6
+|-
+| [[Trom]]
+| TFoH: {{tfoh|16}}<br>KoD: {{kod|p}}<br>ToM: {{tom|p}}, {{tom|2}}, {{tom|4}}, {{tom|40}}–{{tom|41}}<br>AMoL: {{amol|10}}, {{amol|16}}, {{amol|32}}
+| 10
+|-
+| [[Tumad Ahzkan]]
+| LoC: {{loc|1}}–{{loc|2}}<br>CoT: {{cot|p}}<br>KoD: {{kod|20}}
+| 4
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| WH: {{wh|14}}, {{wh|17}}, {{wh|19}}, {{wh|28}}, {{wh|31}}<br>CoT: {{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|4}}, {{kod|6}}–{{kod|11}}, {{kod|25}}–{{kod|27}}, {{kod|36}}, {{kod|e}}<br>TGS: {{tgs|19}}, {{tgs|35}}–{{tgs|36}}<br>ToM: {{tom|47}}<br>AMoL: {{amol|15}}, {{amol|17}}, {{amol|24}}, {{amol|26}}–{{amol|29}}, {{amol|32}}, {{amol|37}}, {{amol|e}}
+| 34
+|-
+| [[Tylee Khirgan]]
+| KoD: {{kod|4}}, {{kod|12}}, {{kod|30}}<br>TGS: {{tgs|p}}, {{tgs|19}}<br>AMoL: {{amol|27}}, {{amol|29}}, {{amol|32}}
+| 8
+|-
+| [[Tylin Quintara Mitsobar]]
+| LoC: {{loc|48}}<br>ACoS: {{acos|16}}, {{acos|28}}–{{acos|29}}, {{acos|39}}<br>WH: {{wh|17}}–{{wh|18}}, {{wh|28}}, {{wh|31}}
+| 9
+|-
+| [[Uno Nomesta]]
+| TGH: {{tgh|9}}–{{tgh|11}}, {{tgh|14}}, {{tgh|28}}, {{tgh|32}}–{{tgh|33}}, {{tgh|35}}–{{tgh|37}}, {{tgh|41}}, {{tgh|44}}, {{tgh|49}}<br>TDR: {{tdr|1}}–{{tdr|3}}, {{tdr|5}}–{{tdr|6}}<br>TFoH: {{tfoh|37}}–{{tfoh|40}}, {{tfoh|47}}–{{tfoh|50}}<br>LoC: {{loc|8}}, {{loc|29}}<br>TPoD: {{tpod|17}}, {{tpod|19}}<br>AMoL: {{amol|10}}, {{amol|31}}, {{amol|37}}
+| 33
+|-
+| [[Urien]]
+| TGH: {{tgh|28}}<br>LoC: {{loc|16}}–{{loc|17}}, {{loc|19}}–{{loc|21}}, {{loc|54}}<br>AMoL: {{amol|36}}
+| 8
+|-
+| [[Valan Luca]]
+| TFoH: {{tfoh|13}}, {{tfoh|17}}, {{tfoh|33}}–{{tfoh|34}}, {{tfoh|36}}–{{tfoh|37}}, {{tfoh|47}}<br>WH: {{wh|15}}<br>CoT: {{cot|2}}–{{cot|3}}, {{cot|28}}–{{cot|29}}<br>KoD: {{kod|6}}–{{kod|7}}, {{kod|10}}–{{kod|11}}
+| 16
+|-
+| [[Vandene Namelle]]
+| TGH: {{tgh|22}}<br>LoC: {{loc|29}}, {{loc|44}}, {{loc|47}}, {{loc|52}}<br>ACoS: {{acos|30}}–{{acos|31}}, {{acos|39}}<br>TPoD: {{tpod|1}}–{{tpod|4}}, {{tpod|6}}, {{tpod|28}}<br>WH: {{wh|8}}, {{wh|27}}<br>CoT: {{cot|11}}<br>KoD: {{kod|14}}, {{kod|17}}, {{kod|31}}
+| 20
+|-
+| [[Varilin Zanaire]]
+| LoC: {{loc|30}}, {{loc|35}}–{{loc|36}}<br>ACoS: {{acos|11}}<br>TPoD: {{tpod|16}}, {{tpod|18}}–{{tpod|19}}, {{tpod|30}}<br>CoT: {{cot|19}}–{{cot|20}}<br>KoD: {{kod|2}}<br>TGS: {{tgs|43}}<br>ToM: {{tom|3}}, {{tom|27}}
+| 14
+|-
+| [[Verin Mathwin]]
+| NS: {{ns|10}}<br>TGH: {{tgh|4}}, {{tgh|6}}–{{tgh|8}}, {{tgh|12}}, {{tgh|14}}, {{tgh|28}}, {{tgh|31}}–{{tgh|33}}, {{tgh|35}}–{{tgh|37}}, {{tgh|41}}, {{tgh|44}}<br>TDR: {{tdr|10}}–{{tdr|12}}, {{tdr|18}}, {{tdr|21}}, {{tdr|27}}<br>TSR: {{tsr|31}}–{{tsr|33}}, {{tsr|42}}–{{tsr|45}}, {{tsr|56}}<br>LoC: {{loc|10}}–{{loc|11}}, {{loc|43}}, {{loc|46}}, {{loc|49}}, {{loc|54}}<br>ACoS: {{acos|2}}<br>TPoD: {{tpod|p}}<br>WH: {{wh|13}}, {{wh|23}}, {{wh|25}}, {{wh|32}}, {{wh|35}}<br>CoT: {{cot|23}}<br>KoD: {{kod|18}}–{{kod|19}}<br>TGS: {{tgs|34}}, {{tgs|36}}, {{tgs|38}}–{{tgs|39}}
+| 50
+|-
+| [[Weiramon Saniago]]
+| TFoH: {{tfoh|41}}–{{tfoh|42}}<br>LoC: {{loc|4}}<br>ACoS: {{acos|41}}<br>TPoD: {{tpod|13}}–{{tpod|14}}, {{tpod|21}}–{{tpod|24}}<br>CoT: {{cot|p}}<br>KoD: {{kod|21}}<br>TGS: {{tgs|42}}<br>ToM: {{tom|13}}
+| 14
+|-
+| [[Welyn Kajima]]
+| TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>KoD: {{kod|27}}<br>AMoL: {{amol|3}}–{{amol|4}}, {{amol|8}}
+| 6
+|-
+| [[Wil al'Seen]]
+| TEotW: {{teotw|Ravens}}<br>TSR: {{tsr|32}}–{{tsr|33}}, {{tsr|40}}–{{tsr|42}}, {{tsr|44}}, {{tsr|53}}, {{tsr|56}}<br>CoT: {{cot|25}}<br>ToM: {{tom|2}}, {{tom|4}}, {{tom|6}}, {{tom|34}}, {{tom|40}}
+| 15
+|-
+| [[Wit Congar]]
+| TEotW: {{teotw|1}}, {{teotw|3}}<br>TSR: {{tsr|42}}, {{tsr|45}}
+| 4
+|-
+| [[Yarin Maeldan]]
+| TGH: {{tgh|9}}, {{tgh|29}}, {{tgh|45}}–{{tgh|46}}
+| 4
+|-
+| [[Yukiri Haruna]]
+| TPoD: {{tpod|26}}<br>WH: {{wh|p}}<br>CoT: {{cot|p}}, {{cot|21}}<br>KoD: {{kod|p}}<br>TGS: {{tgs|12}}, {{tgs|16}}, {{tgs|46}}<br>ToM: {{tom|3}}, {{tom|15}}, {{tom|20}}, {{tom|27}}, {{tom|36}}–{{tom|37}}<br>AMoL: {{amol|11}}, {{amol|18}}, {{amol|21}}, {{amol|31}}, {{amol|37}}, {{amol|e}}
+| 20
+|-
+| [[Zaida din Parede Blackwing]]
+| WH: {{wh|p}}, {{wh|11}}–{{wh|12}}<br>CoT: {{cot|12}}–{{cot|13}}<br>KoD: {{kod|22}}<br>AMoL: {{amol|24}}
+| 7
+|-
+| [[Zarya Alkaese]]
+| ACoS: {{acos|23}}–{{acos|24}}<br>TPoD: {{tpod|4}}–{{tpod|5}}, {{tpod|28}}<br>WH: {{wh|8}}<br>CoT: {{cot|11}}<br>KoD: {{kod|14}}, {{kod|17}}
+| 9
+|}
+
+== Characters with exactly three chapter appearances ==
+''Total characters: 112.''
+
+{| class="wikitable sortable" style="font-size:90%; width:100%;"
+|-
+| [[Adine Lewin]] - {{tsr|32}}–{{tsr|33}}, {{tsr|56}}
+| [[Aeldra Najaf]] - {{ns|7}}, {{ns|11}}, {{ns|14}}
+| [[Aginor]] - {{teotw|50}}–{{teotw|51}}; {{tgh|23}}
+| [[Alaine Chuliandred]] - {{tgh|32}}; {{cot|p}}; {{tom|50}}
+|-
+| [[Amondrid Osiellin]] - {{tpod|21}}, {{tpod|24}}; {{tom|50}}
+| [[Ankaer]] - {{cot|p}}; {{tgs|10}}; {{tom|21}}
+| [[Antail]] - {{tom|24}}, {{tom|28}}; {{amol|18}}
+| [[Arinvar]] - {{tfoh|27}}; {{cot|17}}; {{kod|1}}
+|-
+| [[Berisha Terakuni]] - {{acos|p}}; {{kod|p}}; {{amol|33}}
+| [[Bili (bouncer)]] - {{tgh|9}}; {{tdr|42}}–{{tdr|43}}
+| [[Brendas]] - {{tdr|18}}; {{loc|29}}; {{tom|37}}
+| [[Bruan]] - {{tfoh|2}}; {{loc|4}}; {{tom|49}}
+|-
+| [[Brys Noramaga]] - {{ns|22}}, {{ns|25}}–{{ns|26}}
+| [[Burin Shaeren]] - {{loc|8}}; {{kod|1}}; {{tgs|26}}
+| [[Caniedrin]] - {{ns|1}}, {{ns|12}}, {{ns|21}}
+| [[Cariandre]] - {{kod|2}}, {{kod|24}}; {{tgs|25}}
+|-
+| [[Cassin]] - {{loc|19}}–{{loc|21}}
+| [[Catrona]] - {{wh|14}}; {{amol|27}}, {{amol|32}}
+| [[Celark]] - {{tom|22}}, {{tom|37}}, {{tom|42}}
+| [[Cieryl Arjuna]] - {{tpod|1}}; {{kod|31}}–{{kod|32}}
+|-
+| [[Coine din Jubai Wild Winds]] - {{tsr|19}}–{{tsr|20}}, {{tsr|39}}
+| [[Coteren]] - {{tom|46}}; {{amol|3}}–{{amol|4}}
+| [[Dagdara Finchey]] - {{tfoh|50}}; {{loc|8}}, {{loc|30}}
+| [[Dav Ayellin]] - {{teotw|Ravens}}; {{tsr|43}}, {{tsr|56}}
+|-
+| [[Delarn]] - {{tgs|27}}–{{tgs|28}}; {{amol|36}}
+| [[Demetre Marcolin]] - {{tpod|13}}, {{tpod|22}}, {{tpod|24}}
+| [[Demira Eriff]] - {{loc|43}}, {{loc|46}}, {{loc|49}}
+| [[Desora]] - {{loc|3}}, {{loc|21}}, {{loc|26}}
+|-
+| [[Dimana]] - {{tpod|1}}, {{tpod|3}}; {{tom|33}}
+| [[Doressin Chuliandred]] - {{tpod|21}}, {{tpod|24}}; {{tom|50}}
+| [[Elam Dowtry]] - {{teotw|Ravens}}; {{tsr|43}}, {{tsr|56}}
+| [[Elegar]] - {{tfoh|p}}; {{loc|1}}–{{loc|2}}
+|-
+| [[Emara]] - {{loc|12}}, {{loc|14}}; {{cot|30}}
+| [[Enid]] - {{acos|23}}, {{acos|28}}; {{wh|19}}
+| [[Evanellein]] - {{tfoh|p}}; {{tom|37}}–{{tom|38}}
+| [[Eward Candwin]] - {{teotw|9}}; {{tsr|45}}, {{tsr|56}}
+|-
+| [[Farran]] - {{tsr|1}}, {{tsr|31}}, {{tsr|56}}
+| [[Flann Lewin]] - {{tsr|32}}–{{tsr|33}}, {{tsr|56}}
+| [[Gaidal Cain]] - {{tgh|47}}; {{tsr|28}}, {{tsr|52}}
+| [[Harilin]] - {{loc|28}}; {{kod|18}}–{{kod|19}}
+|-
+| [[Hearne]] - {{tsr|21}}; {{tfoh|46}}; {{tgs|42}}
+| [[Herid Fel]] - {{loc|18}}, {{loc|53}}, {{loc|e}}
+| [[Hu Marwin]] - {{tsr|33}}, {{tsr|56}}; {{cot|25}}
+| [[Ieine]] - {{acos|38}}; {{tpod|1}}, {{tpod|3}}
+|-
+| [[Jac al'Seen]] - {{tsr|32}}–{{tsr|33}}, {{tsr|56}}
+| [[Jaim Torfinn]] - {{tsr|33}}, {{tsr|56}}; {{tom|46}}
+| [[Janina]] - {{tpod|9}}; {{kod|29}}; {{amol|37}}
+| [[Jaq Lounalt]] - {{cot|15}}; {{kod|33}}; {{tom|23}}
+|-
+| [[Jarid Sarand]] - {{tfoh|19}}; {{loc|1}}; {{amol|p}}
+| [[Jharen]] - {{tfoh|13}}, {{tfoh|16}}–{{tfoh|17}}
+| [[Jon Ayellin]] - {{loc|p}}; {{kod|29}}; {{tom|40}}
+| [[Jori]] - {{loc|29}}; {{cot|16}}; {{kod|1}}
+|-
+| [[Jorin din Jubai White Wing]] - {{tsr|19}}–{{tsr|20}}, {{tsr|39}}
+| [[Juin]] - {{tgh|35}}–{{tgh|37}}
+| [[Kalyan Ramsin]] - {{tpod|p}}; {{amol|10}}, {{amol|28}}
+| [[Kenley Ahan]] - {{teotw|Ravens}}; {{tsr|33}}, {{tsr|40}}
+|-
+| [[Kireyin]] - {{cot|25}}–{{cot|27}}
+| [[Lamelle]] - {{tfoh|46}}, {{tfoh|54}}–{{tfoh|55}}
+| [[Latian]] - {{cot|25}}–{{cot|27}}
+| [[Leya]] - {{tdr|1}}–{{tdr|2}}, {{tdr|5}}
+|-
+| [[Madic]] - {{acos|16}}, {{acos|28}}; {{tpod|2}}
+| [[Maira]] - {{tfoh|23}}; {{loc|3}}–{{loc|4}}
+| [[Marline]] - {{tpod|9}}; {{cot|7}}–{{cot|8}}
+| [[Mazone]] - {{tom|22}}, {{tom|37}}, {{tom|42}}
+|-
+| [[Melfane Dawlish]] - {{kod|35}}; {{tom|24}}, {{tom|45}}
+| [[Miyora]] - {{cot|29}}; {{kod|7}}, {{kod|11}}
+| [[Moad]] - {{wh|23}}–{{wh|24}}, {{wh|35}}
+| [[Mutch]] - {{teotw|13}}, {{teotw|15}}, {{teotw|17}}
+|-
+| [[Nadere]] - {{wh|p}}; {{kod|15}}; {{tgs|3}}
+| [[Natti Cauthon]] - {{teotw|Ravens}}; {{tsr|33}}, {{tsr|45}}
+| [[Nazar Kurenin]] - {{ns|15}}; {{tom|7}}, {{tom|23}}
+| [[Ned Yarman]] - {{wh|7}}; {{kod|31}}–{{kod|32}}
+|-
+| [[Nildra]] - {{loc|8}}, {{loc|34}}; {{tpod|18}}
+| [[Norine Dovarna]] - {{acos|p}}; {{kod|p}}, {{kod|24}}
+| [[Paet al'Caar]] - {{teotw|9}}; {{tgh|23}}; {{tsr|56}}
+| [[Parelean]] - {{tpod|8}}, {{tpod|10}}, {{tpod|30}}
+|-
+| [[Pedra]] - {{tgh|24}}; {{cot|22}}; {{kod|24}}
+| [[Pevin]] - {{tfoh|46}}, {{tfoh|54}}–{{tfoh|55}}
+| [[Piqor Ramshalan]] - {{tgs|31}}, {{tgs|37}}; {{tom|p}}
+| [[Pritalle Nerbaijan]] - {{cot|p}}; {{kod|p}}, {{kod|24}}
+|-
+| [[Rajabi]] - {{cot|p}}; {{tgs|10}}; {{tom|18}}
+| [[Rajar]] - {{loc|55}}; {{cot|p}}; {{tgs|4}}
+| [[Rakim]] - {{ns|1}}, {{ns|12}}; {{tom|7}}
+| [[Reimon]] - {{tsr|2}}; {{tfoh|46}}; {{kod|26}}
+|-
+| [[Riallin]] - {{acos|18}}–{{acos|19}}; {{tgs|29}}
+| [[Rina Hafden]] - {{ns|7}}; {{cot|21}}; {{tgs|46}}
+| [[Riselle]] - {{acos|29}}, {{acos|39}}; {{wh|28}}
+| [[Ronde Macura]] - {{tfoh|9}}–{{tfoh|10}}; {{wh|14}}
+| [[Samel Crawe]] - {{teotw|2}}–{{teotw|3}}; {{tsr|56}}
+|-
+| [[Samwil Hark]] - {{kod|16}}, {{kod|31}}–{{kod|32}}
+| [[Sandip]] - {{amol|p}}, {{amol|33}}, {{amol|35}}
+| [[Sashalle Anderly]] - {{cot|p}}; {{tom|52}}; {{amol|42}}
+| [[Senine]] - {{tpod|2}}; {{wh|11}}; {{kod|32}}
+|-
+| [[Serafelle]] - {{tgh|4}}, {{tgh|6}}; {{tdr|18}}
+| [[Simaan]] - {{tsr|21}}; {{tfoh|46}}; {{tgs|42}}
+| [[Someshta]] - {{teotw|49}}–{{teotw|50}}; {{tsr|26}}
+|-
+| [[Sora Grady]] - {{loc|3}}, {{loc|11}}, {{loc|42}}
+| [[Taeric Chavana]] - {{tfoh|17}}, {{tfoh|47}}; {{cot|29}}
+| [[Tesan]] - {{kod|p}}; {{tgs|16}}, {{tgs|46}}
+| [[Therva Maresis]] - {{tfoh|50}}; {{loc|30}}; {{cot|19}}
+|-
+| [[Tiana Noselle]] - {{cot|17}}; {{kod|23}}; {{tom|3}}
+| [[Tion]] - {{acos|p}}, {{acos|20}}; {{tpod|11}}
+| [[Tolmeran]] - {{tpod|13}}–{{tpod|14}}, {{tpod|21}}
+| [[Toram din Alta Wild Winds]] - {{tsr|19}}–{{tsr|20}}, {{tsr|39}}
+|-
+| [[Toram Riatin]] - {{acos|35}}–{{acos|36}}; {{wh|33}}
+| [[Turak Aladon]] - {{tgh|29}}, {{tgh|34}}, {{tgh|45}}
+| [[Tzigan Sokorin]] - {{wh|7}}; {{cot|14}}; {{kod|33}}
+| [[Venr Kosaan]] - {{wh|7}}; {{kod|31}}–{{kod|32}}
+|-
+| [[Wit al'Seen]] - {{tsr|32}}–{{tsr|33}}, {{tsr|56}}
+| [[Yoeli]] - {{tom|21}}, {{tom|24}}, {{tom|28}}
+| [[Yurith Azeri]] - {{kod|15}}, {{kod|17}}, {{kod|32}}
+| [[Zaired Elbar]] - {{tgh|40}}; {{acos|26}}; {{kod|37}}
+|}
+
+== Characters with exactly two chapter appearances ==
+''Total characters: 227.''
+
+{| class="wikitable sortable" style="font-size:90%; width:100%;"
+|-
+| [[Abar]] - {{kod|8}}, {{kod|11}}
+| [[Abelle Pendar]] - {{loc|16}}; {{kod|35}}
+| [[Abors]] - {{amol|10}}, {{amol|14}}
+| [[Adan]] - {{tsr|25}}–{{tsr|26}}
+|-
+| [[Adora Aybara]] - {{teotw|Ravens}}; {{amol|37}}
+| [[Adria]] - {{wh|15}}; {{cot|2}}
+| [[Aemin]] - {{tpod|9}}; {{tom|40}}
+| [[Agni Neres]] - {{tfoh|48}}–{{tfoh|49}}
+|-
+| [[Ailene Tolvina]] - {{ns|23}}–{{ns|24}}
+| [[Aisling Noon]] - {{ns|3}}; {{kod|20}}
+| [[Ajimbura]] - {{cot|4}}; {{kod|36}}
+| [[Akarrin]] - {{loc|40}}; {{cot|19}}
+|-
+| [[Alar]] - {{tgh|36}}–{{tgh|37}}
+| [[Aldin]] - {{kod|30}}; {{tom|34}}
+| [[Aldrin Caldevwin]] - {{tgh|21}}, {{tgh|30}}
+| [[Aleis Barsalla]] - {{wh|24}}, {{wh|34}}
+|-
+| [[Alteima]] - {{tsr|21}}; {{tfoh|1}}
+| [[Alvon]] - {{kod|5}}, {{kod|28}}
+| [[Amalisa Jagad]] - {{tgh|4}}–{{tgh|5}}
+| [[Anford]] - {{kod|17}}, {{kod|32}}
+|-
+| [[Anya]] - {{ns|22}}, {{ns|25}}
+| [[Asra]] - {{loc|52}}; {{tpod|28}}
+| [[Balat]] - {{kod|8}}, {{kod|11}}
+| [[Barel Layden]] - {{kod|17}}, {{kod|32}}
+|-
+| [[Bari (entertainer)]] - {{tfoh|17}}, {{tfoh|48}}
+| [[Bari (servant)]] - {{loc|19}}–{{loc|20}}
+| [[Barim Halle]] - {{tfoh|1}}, {{tfoh|12}}
+| [[Barit Chavana]] - {{tfoh|17}}; {{cot|29}}
+|-
+| [[Barlden]] - {{tgs|27}}–{{tgs|28}}
+| [[Barthanes]] - {{tgh|32}}–{{tgh|33}}
+| [[Bassane]] - {{wh|23}}, {{wh|35}}
+| [[Bavin Rockshaw]] - {{tgs|17}}; {{tom|16}}
+|-
+| [[Bayrd]] - {{amol|p}}, {{amol|37}}
+| [[Be'lal]] - {{tdr|4}}, {{tdr|55}}
+| [[Belevaere Osiellin]] - {{tgh|32}}; {{tom|50}}
+| [[Bendhuin]] - {{acos|p}}, {{acos|40}}
+|-
+| [[Benji Dalfor]] - {{loc|p}}, {{loc|55}}
+| [[Bennae Nalsad]] - {{kod|24}}; {{tgs|12}}
+| [[Berenecia Morsad]] - {{loc|46}}, {{loc|49}}
+| [[Berowin]] - {{acos|23}}–{{acos|24}}
+|-
+| [[Bharatine]] - {{loc|14}}, {{loc|30}}
+| [[Bili al'Dai]] - {{tsr|33}}, {{tsr|40}}
+| [[Brandel Vordarian]] - {{tom|2}}, {{tom|4}}
+| [[Brannin Martan]] - {{kod|17}}, {{kod|32}}
+|-
+| [[Buel Dowtry]] - {{tsr|45}}, {{tsr|56}}
+| [[Cabriana Mecandes]] - {{ns|12}}; {{loc|6}}
+| [[Canin]] - {{tdr|39}}, {{tdr|48}}
+| [[Carlomin]] - {{tsr|2}}; {{kod|26}}
+|-
+| [[Carlon Belcelona]] - {{wh|6}}; {{kod|12}}
+| [[Chilares Arman]] - {{tpod|1}}, {{tpod|3}}
+| [[Cian do Mehon a'Macansa]] - {{tpod|17}}–{{tpod|18}}
+| [[Cilia Cole]] - {{teotw|Ravens}}; {{tsr|42}}
+|-
+| [[Cinchonine]] - {{loc|43}}, {{loc|49}}
+| [[Colinda]] - {{loc|25}}, {{loc|50}}
+| [[Comar]] - {{tdr|46}}, {{tdr|49}}
+| [[Connel]] - {{tom|21}}, {{tom|28}}
+|-
+| [[Corana]] - {{acos|7}}; {{tgs|15}}
+| [[Corevin]] - {{acos|17}}, {{acos|38}}
+| [[Corgaide Marendevin]] - {{tpod|12}}; {{cot|p}}
+| [[Corin Ayellin]] - {{teotw|Ravens}}; {{tgh|23}}
+|-
+| [[Corman]] - {{tfoh|3}}; {{loc|17}}
+| [[Cosain]] - {{loc|33}}; {{acos|3}}
+| [[Courtani]] - {{amol|28}}–{{amol|29}}
+| [[Covarla Baldene]] - {{acos|32}}; {{tgs|13}}
+|-
+| [[Culhan Carand]] - {{tpod|17}}–{{tpod|18}}
+| [[Cumere Powys]] - {{wh|24}}, {{wh|34}}
+| [[Dailin (Far Dareis Mai)]] - {{tdr|38}}–{{tdr|39}}
+| [[Dali]] - {{wh|14}}; {{tgs|36}}
+|-
+| [[Dalthanes Annallin]] - {{tpod|21}}, {{tpod|24}}
+| [[Deepe Bhadar]] - {{tom|28}}; {{amol|16}}
+| [[Dena]] - {{tgh|26}}, {{tgh|34}}
+| [[Denharad]] - {{tpod|23}}–{{tpod|24}}
+|-
+| [[Derah din Selaan Rising Wave]] - {{acos|34}}; {{wh|13}}
+| [[Dermid Ajala]] - {{tdr|50}}, {{tdr|53}}
+| [[Derys Nermala]] - {{acos|23}}–{{acos|24}}
+| [[Desaine]] - {{loc|p}}, {{loc|53}}
+|-
+| [[Dilham]] - {{loc|10}}–{{loc|11}}
+| [[Diryk]] - {{ns|22}}, {{ns|26}}
+| [[Dobser]] - {{amol|3}}–{{amol|4}}
+| [[Donel do Morny a'Lordeine]] - {{tpod|17}}–{{tpod|18}}
+|-
+| [[Dorindha (Roofmistress)]] - {{acos|7}}; {{kod|15}}
+| [[Eagan Padros]] - {{tpod|21}}–{{tpod|22}}
+| [[Edeyn Arrel]] - {{ns|22}}, {{ns|e}}
+| [[Efraim Yamada]] - {{kod|e}}; {{tgs|19}}
+|-
+| [[Einor Saren]] - {{tgh|5}}; {{loc|31}}
+| [[Elber]] - {{tdr|45}}, {{tdr|47}}
+| [[Eldase]] - {{tpod|2}}–{{tpod|3}}
+| [[Elienda]] - {{wh|6}}; {{cot|8}}
+|-
+| [[Elin Warrel]] - {{ns|2}}; {{cot|p}}
+| [[Elisa al'Seen]] - {{tsr|32}}–{{tsr|33}}
+| [[Elricain Tavolin]] - {{tgh|21}}, {{tgh|25}}
+| [[Else Grinwell]] - {{teotw|31}}; {{tgh|39}}
+|-
+| [[Esne]] - {{ns|22}}, {{ns|25}}
+| [[Estair]] - {{loc|27}}, {{loc|33}}
+| [[Estanda]] - {{tsr|21}}; {{tgs|42}}
+| [[Ethin]] - {{kod|18}}, {{kod|20}}
+|-
+| [[Falendre]] - {{kod|27}}; {{tgs|p}}
+| [[Farnah Sadaou]] - {{tom|3}}, {{tom|27}}
+| [[Fearil]] - {{cot|24}}; {{kod|27}}
+| [[Fionnda Annariz]] - {{loc|19}}; {{cot|p}}
+|-
+| [[Gainor Furlan]] - {{tdr|33}}–{{tdr|34}}
+| [[Gorenellin]] - {{kod|20}}; {{tom|23}}
+| [[Haesel]] - {{acos|16}}, {{acos|28}}
+| [[Hamad]] - {{loc|16}}; {{kod|27}}
+|-
+| [[Hari]] - {{tpod|30}}; {{cot|27}}
+| [[Hend the Striker]] - {{amol|39}}, {{amol|43}}
+| [[Hightower]] - {{teotw|11}}–{{teotw|12}}
+| [[Huan Mallia]] - {{tdr|32}}, {{tdr|40}}
+|-
+| [[Ilain Dormaile]] - {{ns|13}}–{{ns|14}}
+| [[Indirian]] - {{loc|24}}; {{acos|18}}
+| [[Iralin]] - {{tgs|42}}; {{tom|25}}
+| [[Iselle Arrel]] - {{ns|25}}–{{ns|26}}
+|-
+| [[Jaalam Nishur]] - {{cot|p}}; {{kod|p}}
+| [[Jaim Adarra]] - {{tdr|35}}, {{tdr|41}}
+| [[Jak Masond]] - {{tpod|22}}, {{tpod|24}}
+| [[Jameine]] - {{wh|15}}; {{cot|3}}
+|-
+| [[Jancy Torfinn]] - {{loc|10}}–{{loc|11}}
+| [[Jezrail]] - {{kod|24}}, {{kod|e}}
+| [[Joni Shagrin]] - {{tfoh|1}}, {{tfoh|12}}
+| [[Jorshem]] - {{tom|48}}–{{tom|49}}
+| [[Juilaine Madome]] - {{tpod|26}}; {{tgs|46}}
+|-
+| [[Julanya Fote]] - {{kod|32}}; {{tom|31}}
+| [[Jurah Haret]] - {{tdr|50}}, {{tdr|53}}
+| [[Kaila Bent]] - {{tom|22}}–{{tom|23}}
+| [[Kelwin Janevor]] - {{kod|17}}, {{kod|32}}
+|-
+| [[Keraille Surtovni]] - {{wh|8}}; {{kod|32}}
+| [[Kerb]] - {{tgs|32}}–{{tgs|33}}
+| [[Kerene Nagashi]] - {{ns|7}}–{{ns|8}}
+| [[Kin (entertainer)]] - {{tfoh|17}}, {{tfoh|48}}
+|-
+| [[Kin Tovere]] - {{tfoh|41}}; {{loc|18}}
+| [[Kinhuin]] - {{tpod|11}}; {{kod|30}}
+| [[Ladwin]] - {{loc|40}}; {{amol|p}}
+| [[Laerid Traehand]] - {{kod|17}}, {{kod|32}}
+|-
+| [[Laila Lewin]] - {{tsr|32}}–{{tsr|33}}
+| [[Larelle Tarsi]] - {{ns|17}}–{{ns|18}}
+| [[Laren]] - {{acos|16}}, {{acos|37}}
+| [[Larine Ayellin]] - {{loc|10}}–{{loc|11}}
+|-
+| [[Lawdrin Mendair]] - {{loc|47}}; {{acos|38}}
+| [[Leems]] - {{amol|3}}–{{amol|4}}
+| [[Lemai]] - {{tpod|26}}; {{wh|p}}
+| [[Lewin]] - {{tsr|25}}–{{tsr|26}}
+|-
+| [[Lirene Doirellin]] - {{kod|24}}; {{tgs|16}}
+| [[Londraed]] - {{kod|27}}; {{amol|p}}
+| [[Lorstrum Aesnan]] - {{tom|50}}, {{tom|52}}
+| [[Luci]] - {{tfoh|9}}–{{tfoh|10}}
+|-
+| [[Lusara]] - {{kod|5}}, {{kod|28}}
+| [[Madwin]] - {{kod|27}}; {{amol|p}}
+| [[Maeric]] - {{acos|p}}, {{acos|40}}
+| [[Maigran]] - {{tsr|25}}–{{tsr|26}}
+|-
+| [[Mair]] - {{kod|24}}; {{tgs|41}}
+| [[Managan]] - {{kod|20}}; {{tom|23}}
+| [[Mar]] - {{loc|40}}; {{amol|p}}
+| [[Mattin Stepaneos den Balgar]] - {{kod|2}}, {{kod|24}}
+|-
+| [[Meilyn Arganya]] - {{ns|5}}, {{ns|8}}
+| [[Melare]] - {{kod|p}}, {{kod|e}}
+| [[Melore]] - {{acos|37}}–{{acos|38}}
+| [[Mervin Poel]] - {{loc|18}}; {{wh|p}}
+|-
+| [[Metarra din Junalle]] - {{tpod|2}}, {{tpod|5}}
+| [[Mikhel Najirah]] - {{kod|p}}; {{tgs|19}}
+| [[Milisair Chadmar]] - {{tgs|29}}, {{tgs|31}}
+| [[Miyasi]] - {{kod|24}}; {{tgs|16}}
+|-
+| [[Monaelle]] - {{wh|p}}; {{cot|14}}
+| [[Muelin]] - {{tfoh|40}}, {{tfoh|47}}
+| [[Muradin]] - {{tsr|25}}–{{tsr|26}}
+| [[Murellin]] - {{wh|10}}; {{cot|15}}
+|-
+| [[Nagora]] - {{kod|24}}; {{tgs|12}}
+| [[Nakomi]] - {{tom|39}}; {{amol|e}}
+| [[Narenwin Barda]] - {{cot|p}}; {{tgs|13}}
+| [[Nela al'Caar]] - {{tgh|23}}; {{tsr|45}}
+|-
+| [[Nerith]] - {{tpod|22}}–{{tpod|23}}
+| [[Nethan]] - {{wh|35}}; {{cot|23}}
+| [[Norlea]] - {{acos|p}}; {{tpod|11}}
+| [[Norley]] - {{tpod|26}}; {{tom|56}}
+|-
+| [[Omerna]] - {{loc|9}}; {{acos|p}}
+| [[Orban]] - {{tdr|33}}, {{tdr|35}}
+| [[Paitr do Fearna a'Conn]] - {{tpod|17}}–{{tpod|18}}
+| [[Phaedrine]] - {{cot|17}}; {{kod|2}}
+|-
+| [[Raefar Kisman]] - {{loc|42}}; {{wh|22}}
+| [[Ramey]] - {{teotw|44}}; {{tdr|45}}
+| [[Reed Soalen]] - {{tom|2}}; {{amol|1}}
+| [[Renald Fanwar]] - {{tgs|p}}; {{amol|36}}
+|-
+| [[Rodera]] - {{loc|24}}–{{loc|25}}
+| [[Roedran Almaric do Arreloa a'Naloy]] - {{amol|5}}–{{amol|6}}
+| [[Rogosh Eagle-Eye]] - {{tgh|47}}; {{amol|43}}
+|-
+| [[Roidan]] - {{tfoh|41}}; {{loc|4}}
+| [[Romera]] - {{ns|22}}, {{ns|25}}
+| [[Rosana]] - {{tpod|13}}–{{tpod|14}}
+| [[Rowan Hurn]] - {{teotw|2}}; {{tom|34}}
+|-
+| [[Rysael]] - {{tpod|5}}; {{kod|32}}
+| [[Sahra Covenry]] - {{tsr|1}}, {{tsr|17}}
+| [[Sanor]] - {{tdr|32}}, {{tdr|40}}
+| [[Sarainya Vostovan]] - {{acos|24}}; {{tpod|28}}
+|-
+| [[Saralin]] - {{tsr|25}}–{{tsr|26}}
+| [[Sedore Dajenna]] - {{tpod|25}}; {{tom|37}}
+| [[Segan do Avharin a'Roos]] - {{tpod|17}}–{{tpod|18}}
+| [[Selame]] - {{acos|10}}; {{tpod|16}}
+|-
+| [[Serailla]] - {{tpod|p}}; {{amol|28}}
+| [[Serancha Colvine]] - {{kod|24}}; {{tgs|43}}
+| [[Sergase Gilbearn]] - {{kod|17}}, {{kod|32}}
+| [[Shana]] - {{loc|40}}; {{cot|19}}
+|-
+| [[Shendla]] - {{amol|37}}–{{amol|38}}
+| [[Simion]] - {{tdr|8}}–{{tdr|9}}
+| [[Solain Morgeillin]] - {{acos|29}}; {{wh|8}}
+| [[Steler]] - {{ns|4}}–{{ns|5}}
+|-
+| [[Surandha]] - {{loc|27}}, {{loc|33}}
+| [[Surial]] - {{tgs|11}}; {{tom|12}}
+| [[Tad Kandel]] - {{loc|47}}; {{acos|38}}
+| [[Tammuz]] - {{tgh|27}}; {{tdr|40}}
+|-
+| [[Tamore Alkohima]] - {{ns|13}}–{{ns|14}}
+| [[Tavan]] - {{kod|31}}–{{kod|32}}
+| [[Tedosian]] - {{tsr|8}}; {{tgs|42}}
+| [[Tellaen]] - {{tgs|1}}, {{tgs|11}}
+|-
+| [[Thad Haren]] - {{tfoh|1}}, {{tfoh|12}}
+| [[Thad Torfinn]] - {{loc|p}}; {{kod|29}}
+| [[Tialin]] - {{loc|25}}; {{tpod|p}}
+| [[Timolan]] - {{tfoh|20}}; {{loc|24}}
+|-
+| [[Tinna]] - {{amol|37}}, {{amol|40}}
+| [[Tsutama Rath]] - {{ns|6}}; {{kod|p}}
+| [[Varil Nensen]] - {{tpod|23}}; {{amol|42}}
+| [[Verdin]] - {{loc|40}}; {{amol|35}}
+|-
+| [[Vitalien]] - {{tgs|17}}; {{amol|23}}
+| [[Vram Torkumen]] - {{tom|24}}, {{tom|32}}
+| [[Wakeda]] - {{cot|p}}; {{tgs|10}}
+| [[Weilin Aldragoran]] - {{kod|20}}; {{tom|23}}
+|-
+| [[Yuril]] - {{wh|14}}; {{tgs|19}}
+| [[Zemaille Amassa]] - {{ns|3}}; {{cot|21}}
+| [[Zera]] - {{tgh|26}}, {{tgh|34}}
+|}
+
+== Characters with exactly one chapter appearance ==
+''Total characters: 863.''
+
+{| class="wikitable sortable" style="font-size:90%; width:100%;"
+|-
+| [[Adamad]] - {{tgs|p}}
+| [[Adden]] - {{tdr|39}}
+| [[Adela]] - {{kod|6}}
+| [[Adim]] - {{tom|1}}
+|-
+| [[Admar]] - {{kod|27}}
+| [[Admer Nem]] - {{tfoh|1}}
+| [[Admira]] - {{wh|32}}
+| [[Adrielle]] - {{kod|27}}
+|-
+| [[Adrin]] - {{tgs|11}}
+| [[Adsalan]] - {{tgs|12}}
+| [[Aedwin Cole]] - {{tgh|46}}
+| [[Aeric Botteger]] - {{tom|20}}
+|-
+| [[Afrim Hansard]] - {{kod|16}}
+| [[Agardo Saranche]] - {{kod|21}}
+| [[Aghan]] - {{kod|27}}
+| [[Mistress Ahan|Ahan]] - {{tsr|43}}
+|-
+| [[Aiden]] - {{cot|21}}
+| [[Aiko]] - {{ns|24}}
+| [[Ailron]] - {{loc|p}}
+| [[Aisha Raveneos]] - {{ns|8}}
+|-
+| [[Akoure Vayet]] - {{wh|p}}
+| [[al'Donel]] - {{tom|20}}
+| [[Alainia]] - {{kod|28}}
+| [[Alalved]] - {{tom|49}}
+|-
+| [[Alarch]] - {{tom|49}}
+| [[Aldred Gomaisen]] - {{kod|16}}
+| [[Alesune Chulin]] - {{tpod|p}}
+| [[Alijha]] - {{tsr|25}}
+|-
+| [[Alin Seroku]] - {{ns|15}}
+| [[Alis]] - {{acos|28}}
+| [[Alix]] - {{amol|37}}
+| [[Allin]] - {{amol|37}}
+|-
+| [[Alnora]] - {{tsr|26}}
+| [[Alpert Mull]] - {{teotw|33}}
+| [[Alric]] - {{tsr|47}}
+| [[Alstaing]] - {{kod|11}}
+|-
+| [[Altalin]] - {{loc|9}}
+| [[Alvistere]] - {{kod|24}}
+| [[Amaresu]] - {{amol|39}}
+| [[Amellia Arene]] - {{tfoh|18}}
+|-
+| [[Amenar Shumada]] - {{tgs|19}}
+| [[Amylia]] - {{kod|22}}
+| [[Ananda]] - {{tsr|1}}
+| [[Andaya Murasaka]] - {{tfoh|47}}
+|-
+| [[Ander Corl]] - {{tfoh|20}}
+| [[Ander Tol]] - {{acos|36}}
+| [[Andil]] - {{cot|p}}
+| [[Andric]] - {{tsr|38}}
+|-
+| [[Anemara]] - {{kod|2}}
+| [[Anghar]] - {{tpod|23}}
+| [[Angla]] - {{loc|14}}
+| [[Anlee]] - {{ns|11}}
+|-
+| [[Annah]] - {{amol|27}}
+| [[Anthelle Sharplyn]] - {{kod|17}}
+| [[Antol]] - {{amol|7}}
+| [[Ara]] - {{teotw|14}}
+|-
+| [[Arel Malevin]] - {{kod|20}}
+| [[Aril Corl]] - {{tfoh|20}}
+| [[Arilinde Branstrom]] - {{kod|17}}
+| [[Arin]] - {{teotw|17}}
+|-
+| [[Arlene]] - {{cot|15}}
+| [[Arnin]] - {{acos|17}}
+| [[Arrata]] - {{kod|26}}
+| [[Arwin]] - {{loc|p}}
+|-
+| [[Asan Sandair]] - {{tgh|25}}
+| [[Ashelin]] - {{kod|24}}
+| [[Mistress Asher|Asher]] - {{ns|17}}
+| [[Ashin]] - {{tgh|32}}
+|-
+| [[Asseil]] - {{kod|24}}
+| [[Assid Bakuun]] - {{tpod|22}}
+| [[Astelle al'Seen]] - {{tsr|32}}
+| [[Astoril Damara]] - {{kod|21}}
+|-
+| [[Astrelle]] - {{kod|p}}
+| [[Atal (clerk)]] - {{kod|12}}
+| [[Athan Chandin]] - {{kod|26}}
+| [[Athan Dearn]] - {{tsr|56}}
+|-
+| [[Atuan Larisett]] - {{cot|p}}
+| [[Auaine Fanwar]] - {{tgs|p}}
+| [[Aubrem Pensenor]] - {{kod|17}}
+| [[Avene Sahera]] - {{ns|21}}
+|-
+| [[Avi Shendar]] - {{tfoh|10}}
+| [[Avin]] - {{teotw|13}}
+| [[Awlsten]] - {{amol|24}}
+| [[Azereos]] - {{wh|32}}
+|-
+| [[Azril]] - {{loc|11}}
+| [[Baerin]] - {{loc|27}}
+| [[Balthamel]] - {{teotw|50}}
+| [[Ban Crawe]] - {{cot|5}}
+|-
+| [[Bandry Crawe]] - {{teotw|Ravens}}
+| [[Bar Dowtry]] - {{kod|29}}
+| [[Baran]] - {{tsr|2}}
+| [[Barettal]] - {{tom|21}}
+|-
+| [[Baris]] - {{loc|52}}
+| [[Barlett]] - {{tom|p}}
+| [[Barmanes Nolaisen]] - {{kod|12}}
+| [[Barmellin]] - {{wh|35}}
+|-
+| [[Baroc]] - {{acos|13}}
+| [[Barriga]] - {{tom|e}}
+| [[Barrin]] - {{amol|15}}
+| [[Bartim]] - {{teotw|26}}
+|-
+| [[Bartu]] - {{cot|7}}
+| [[Basram]] - {{ns|1}}
+| [[Beldair]] - {{cot|p}}
+| [[Beldemaine]] - {{loc|30}}
+|-
+| [[Benish]] - {{amol|16}}
+| [[Beralna]] - {{tgs|29}}
+| [[Berden]] - {{tgs|13}}
+| [[Berg]] - {{tom|8}}
+|-
+| [[Berin Thane]] - {{tsr|56}}
+| [[Bernaile Gelbarn]] - {{cot|p}}
+| [[Bernherd]] - {{tom|8}}
+| [[Berylla Naron]] - {{tfoh|18}}
+|-
+| [[Betse Silvin]] - {{loc|5}}
+| [[Bili Adarra]] - {{kod|26}}
+| [[Binde]] - {{amol|31}}
+| [[Blaes of Matuchin]] - {{amol|39}}
+|-
+| [[Blasic Faloun]] - {{kod|12}}
+| [[Bollin]] - {{kod|7}}
+| [[Boreane Carivin]] - {{tpod|14}}
+| [[Bran]] - {{tgh|23}}
+|-
+| [[Bren]] - {{acos|16}}
+| [[Bromas]] - {{tom|8}}
+| [[Brynt]] - {{amol|p}}
+| [[Caban]] - {{tgh|29}}
+|-
+| [[Caiden]] - {{kod|13}}
+| [[Cail]] - {{tfoh|41}}
+| [[Cairdin]] - {{acos|40}}
+| [[Caldin]] - {{loc|26}}
+|-
+| [[Calindin]] - {{loc|14}}
+| [[Calle Coplin]] - {{teotw|Ravens}}
+| [[Callie]] - {{acos|17}}
+| [[Calwyn Sutoma]] - {{wh|18}}
+|-
+| [[Camar]] - {{acos|34}}
+| [[Camrin]] - {{kod|11}}
+| [[Candeiar]] - {{tom|2}}
+| [[Cara]] - {{tfoh|1}}
+|-
+| [[Carahuin]] - {{tpod|p}}
+| [[Caralin]] - {{tfoh|1}}
+| [[Careme Mowly]] - {{ns|5}}
+| [[Carilo]] - {{loc|53}}
+|-
+| [[Carin]] - {{acos|16}}
+| [[Carleon]] - {{tsr|8}}
+| [[Carlys]] - {{loc|1}}
+| [[Carney]] - {{ns|14}}
+|-
+| [[Carniele]] - {{wh|p}}
+| [[Catrine]] - {{tgh|21}}
+| [[Cavan Lopar]] - {{tdr|49}}
+| [[Cedora]] - {{acos|31}}
+|-
+| [[Celebrain]] - {{amol|37}}
+| [[Cemeille din Selaan Long Eyes]] - {{kod|22}}
+| [[Cera Doinal]] - {{cot|p}}
+| [[Cetalia Delarme]] - {{ns|12}}
+|-
+| [[Chaelin]] - {{loc|19}}
+| [[Changu]] - {{tgh|3}}
+| [[Charendin]] - {{tsr|25}}
+| [[Charlin]] - {{tsr|25}}
+|-
+| [[Charn]] - {{tsr|26}}
+| [[Charral]] - {{wh|14}}
+| [[Chaser]] - {{tom|8}}
+| [[Chet]] - {{tom|22}}
+|-
+| [[Chiape]] - {{loc|6}}
+| [[Chiarid]] - {{loc|28}}
+| [[Chin Ellisor]] - {{tdr|37}}
+| [[Chion]] - {{tsr|50}}
+|-
+| [[Chulein]] - {{tpod|6}}
+| [[Ciar]] - {{tgs|p}}
+| [[Ciel]] - {{teotw|15}}
+| [[Cinda]] - {{teotw|14}}
+|-
+| [[Clara]] - {{tgs|40}}
+| [[Clare]] - {{tom|8}}
+| [[Clintock]] - {{tom|52}}
+| [[Coke]] - {{tdr|39}}
+|-
+| [[Col]] - {{cot|2}}
+| [[Coladara]] - {{amol|9}}
+| [[Colar Najima]] - {{ns|17}}
+| [[Master Cole|Cole]] - {{teotw|Ravens}}
+|-
+| [[Colline]] - {{tsr|25}}
+| [[Colly Garren]] - {{tsr|40}}
+| [[Com]] - {{kod|21}}
+| [[Con Aybara]] - {{teotw|Ravens}}
+|-
+| [[Connl]] - {{kod|27}}
+| [[Coram]] - {{tpod|p}}
+| [[Corbet]] - {{tgs|13}}
+| [[Cords]] - {{tgs|24}}
+|-
+| [[Corelna]] - {{loc|25}}
+| [[Coride]] - {{kod|24}}
+| [[Corvila]] - {{kod|28}}
+| [[Coumin]] - {{tsr|26}}
+|-
+| [[Culen]] - {{loc|5}}
+| [[Cutaris]] - {{tom|21}}
+| [[Cynd]] - {{amol|36}}
+| [[Cyprien]] - {{wh|34}}
+|-
+| [[Dael al'Taron]] - {{tsr|40}}
+| [[Daelvin]] - {{loc|5}}
+| [[Daerilla Raned]] - {{loc|1}}
+| [[Dag Coplin]] - {{teotw|Ravens}}
+|-
+| [[Dagendra]] - {{loc|10}}
+| [[Dairaine Saighan]] - {{kod|28}}
+| [[Dalevien]] - {{kod|24}}
+| [[Dalresin Damodred]] - {{ns|10}}
+|-
+| [[Dani]] - {{wh|14}}
+| [[Dar]] - {{teotw|17}}
+| [[Darea Candwin]] - {{loc|10}}
+| [[Daricain Annallin]] - {{tfoh|30}}
+|-
+| [[Darnella Shoran]] - {{wh|20}}
+| [[Daruo]] - {{amol|15}}
+| [[Darvin]] - {{tom|49}}
+| [[Dav al'Thone]] - {{amol|15}}
+|-
+| [[Daviena]] - {{tpod|p}}
+| [[Davies]] - {{amol|p}}
+| [[Dedric]] - {{loc|18}}
+| [[Deindre]] - {{tsr|26}}
+|-
+| [[Delora]] - {{tpod|9}}
+| [[Denezel]] - {{tom|47}}
+| [[Dennel]] - {{amol|p}}
+| [[Denton]] - {{tom|24}}
+|-
+| [[Dermon]] - {{tsr|25}}
+| [[Derne]] - {{tdr|49}}
+| [[Deryl]] - {{acos|14}}
+| [[Desala Nevanche]] - {{kod|e}}
+|-
+| [[Desandre]] - {{wh|p}}
+| [[Desautel]] - {{amol|43}}
+| [[Deselle Aybara]] - {{teotw|Ravens}}
+| [[Devore Zarbayan]] - {{kod|15}}
+|-
+| [[Dill]] - {{tpod|28}}
+| [[Dimir Faral]] - {{loc|26}}
+| [[Doilan]] - {{loc|25}}
+| [[Doile]] - {{tpod|24}}
+|-
+| [[Doirellin]] - {{kod|p}}
+| [[Doirmanes]] - {{kod|5}}
+| [[Domeille]] - {{acos|33}}
+| [[Dongal]] - {{kod|27}}
+|-
+| [[Doni]] - {{kod|21}}
+| [[Donjel]] - {{cot|p}}
+| [[Dorailla]] - {{acos|p}}
+| [[Doraise Mesianos]] - {{cot|p}}
+|-
+| [[Doral Barran]] - {{teotw|Ravens}}
+| [[Dorele]] - {{tsr|19}}
+| [[Dorindha (Far Dareis Mai)]] - {{tsr|36}}
+| [[Dosera]] - {{acos|p}}
+|-
+| [[Duranda Tharne]] - {{tfoh|11}}
+| [[Durnham]] - {{tom|25}}
+| [[Dyrele]] - {{acos|40}}
+| [[Eazil Forney]] - {{teotw|31}}
+|-
+| [[Ebram]] - {{loc|6}}
+| [[Eddar]] - {{tom|19}}
+| [[Edelle Gaelin]] - {{loc|p}}
+| [[Ehvin]] - {{kod|2}}
+|-
+| [[Einar]] - {{amol|37}}
+| [[Elansu]] - {{tgh|2}}
+| [[Eldrid Methin]] - {{cot|p}}
+| [[Elis]] - {{ns|25}}
+|-
+| [[Elisa al'Vere]] - {{teotw|Ravens}}
+| [[Elise Marwin]] - {{loc|10}}
+| [[Eliya]] - {{tpod|6}}
+| [[Elle]] - {{loc|11}}
+|-
+| [[Ellid Abareim]] - {{ns|8}}
+| [[Ells]] - {{amol|18}}
+| [[Elnore Mandragoran]] - {{tgh|23}}
+| [[Elsie]] - {{cot|10}}
+|-
+| [[Elswell]] - {{amol|e}}
+| [[Elvaine Martan]] - {{kod|17}}
+| [[Elver Shaene]] - {{acos|34}}
+| [[Elwinn Taron]] - {{loc|p}}
+|-
+| [[Emerys]] - {{tpod|11}}
+| [[Emry Lewin]] - {{loc|10}}
+| [[Enkazin]] - {{kod|e}}
+| [[Eri]] - {{amol|p}}
+|-
+| [[Ershin Netari]] - {{tpod|24}}
+| [[Eselle Najima]] - {{ns|17}}
+| [[Esole]] - {{tsr|26}}
+| [[Espara Soman]] - {{loc|p}}
+|-
+| [[Estalaine]] - {{acos|p}}
+| [[Estevan]] - {{loc|4}}
+| [[Evan]] - {{tfoh|18}}
+| [[Evard Cordwyn]] - {{kod|16}}
+|-
+| [[Evasni]] - {{tom|32}}
+| [[Eyndel]] - {{kod|27}}
+| [[Falton]] - {{tpod|9}}
+| [[Faverde Nothish]] - {{tgs|19}}
+|-
+| [[Favidan]] - {{tgs|p}}
+| [[Fennel]] - {{tom|2}}
+| [[Feraighin]] - {{acos|3}}
+| [[Filger]] - {{amol|p}}
+|-
+| [[Flern]] - {{tom|48}}
+| [[Fridwyn Ros]] - {{cot|10}}
+| [[Frielle Anan]] - {{loc|52}}
+| [[Galbrait]] - {{amol|37}}
+|-
+| [[Gallanha]] - {{tgs|p}}
+| [[Gallger]] - {{wh|32}}
+| [[Gamel Loune]] - {{kod|34}}
+| [[Garam]] - {{tsr|25}}
+|-
+| [[Garlvan]] - {{tom|48}}
+| [[Garumand]] - {{tom|p}}
+| [[Gavid]] - {{amol|p}}
+| [[Gearan]] - {{tsr|25}}
+|-
+| [[Gelarna]] - {{tgs|6}}
+| [[Gelen]] - {{amol|36}}
+| [[Gendar]] - {{wh|5}}
+| [[Gera]] - {{loc|7}}
+|-
+| [[Get Ayliah]] - {{cot|25}}
+| [[Get Eldin]] - {{tsr|45}}
+| [[Gilda]] - {{teotw|41}}
+| [[Gillin]] - {{wh|15}}
+|-
+| [[Gitara Moroso]] - {{ns|2}}
+| [[Gokhan]] - {{amol|32}}
+| [[Gray Man]] - {{tdr|15}}
+| [[Grayor Frenn]] - {{tom|40}}
+|-
+| [[Gregana]] - {{tgs|40}}
+| [[Gueye Arabah]] - {{kod|29}}
+| [[Gufrin]] - {{tom|8}}
+| [[Guisin]] - {{wh|28}}
+|-
+| [[Gwil]] - {{loc|p}}
+| [[Had al'Lora]] - {{kod|26}}
+| [[Hadora]] - {{kod|32}}
+| [[Haerm]] - {{amol|21}}
+|-
+| [[Haesel Palan]] - {{ns|18}}
+| [[Hafeen Bakuvun]] - {{kod|16}}
+| [[Hahn]] - {{tom|1}}
+| [[Hamal]] - {{acos|40}}
+|-
+| [[Hamarashle]] - {{tom|50}}
+| [[Hammar]] - {{tdr|24}}
+| [[Hanselle Renshar]] - {{kod|35}}
+| [[Hardlin]] - {{tpod|26}}
+|-
+| [[Harril]] - {{kod|p}}
+| [[Harvell]] - {{tom|31}}
+| [[Hashala]] - {{tgs|41}}
+| [[Haster Nalmat]] - {{tgs|32}}
+|-
+| [[Hatch]] - {{tom|31}}
+| [[Hehyal]] - {{tom|49}}
+| [[Heidia]] - {{tom|25}}
+| [[Heilin]] - {{kod|11}}
+|-
+| [[Helmke]] - {{tom|21}}
+| [[Helvin]] - {{ns|18}}
+| [[Henre Haslin]] - {{loc|42}}
+| [[Henren]] - {{loc|1}}
+|-
+| [[Herod]] - {{tdr|8}}
+| [[Hilde Barran]] - {{loc|10}}
+| [[Hirshanin]] - {{tom|40}}
+| [[Holcom]] - {{amol|27}}
+|-
+| [[Howal Gode]] - {{teotw|32}}
+| [[Huan (Seanchan)]] - {{tgh|34}}
+| [[Hurd]] - {{kod|6}}
+| [[Hyam Kinch]] - {{teotw|33}}
+|-
+| [[Iagin Handar]] - {{kod|21}}
+| [[Ianelle]] - {{wh|14}}
+| [[Ianor]] - {{tom|23}}
+| [[Idrelle Menford]] - {{kod|24}}
+|-
+| [[Ifeyina]] - {{tom|32}}
+| [[Inala]] - {{tgs|40}}
+| [[Ines]] - {{acos|35}}
+| [[Inlow]] - {{teotw|33}}
+|-
+| [[Irella]] - {{tgh|39}}
+| [[Irgain Fatamed]] - {{tpod|p}}
+| [[Ishigari Terasian]] - {{tpod|p}}
+| [[Ivara]] - {{acos|31}}
+|-
+| [[Ivon]] - {{tsr|1}}
+| [[Jadein]] - {{kod|22}}
+| [[Jadranka]] - {{tpod|23}}
+| [[Jaem Dawlish]] - {{kod|35}}
+|-
+| [[Jaim (soldier)]] - {{ns|1}}
+| [[Jaim Dawtry]] - {{tom|24}}
+| [[Jak]] - {{teotw|32}}
+| [[Jakob Hernvil]] - {{kod|17}}
+|-
+| [[Jala Bandevin]] - {{ns|7}}
+| [[Jalindin]] - {{tfoh|32}}
+| [[Jame]] - {{amol|11}}
+| [[Janduin]] - {{tom|49}}
+|-
+| [[Janine Pavlara]] - {{acos|1}}
+| [[Janira]] - {{acos|38}}
+| [[Janny]] - {{cot|15}}
+| [[Janwin]] - {{acos|18}}
+|-
+| [[Jar Silvin]] - {{tfoh|12}}
+| [[Jared Aydaer]] - {{tsr|40}}
+| [[Jargen]] - {{tom|p}}
+| [[Jarna Malari]] - {{ns|6}}
+|-
+| [[Jarr]] - {{tom|2}}
+| [[Jasfer Anan]] - {{acos|17}}
+| [[Jasmen]] - {{tgs|40}}
+| [[Jen]] - {{acos|16}}
+|-
+| [[Jennet]] - {{tpod|18}}
+| [[Jenric]] - {{tfoh|3}}
+| [[Jeordam]] - {{tsr|25}}
+| [[Jeordwyn Semaris]] - {{tpod|24}}
+|-
+| [[Jeorg Damentanis]] - {{kod|20}}
+| [[Jera]] - {{kod|11}}
+| [[Jeral]] - {{tgh|29}}
+| [[Jeral Florry]] - {{tdr|40}}
+|-
+| [[Jerasid]] - {{tpod|9}}
+| [[Jerilin al'Caar]] - {{loc|10}}
+| [[Jerinvar Barstere]] - {{tsr|56}}
+| [[Jerum Nus]] - {{tom|43}}
+|-
+| [[Jesain]] - {{cot|9}}
+| [[Jesamyn]] - {{amol|p}}
+| [[Jesse Bilal]] - {{tgs|43}}
+| [[Jhoradin]] - {{kod|30}}
+|-
+| [[Jillari]] - {{kod|14}}
+| [[Jillien]] - {{tpod|20}}
+| [[Jini]] - {{tfoh|32}}
+| [[Jinjin]] - {{acos|26}}
+|-
+| [[Joao]] - {{tom|23}}
+| [[Jol]] - {{tfoh|41}}
+| [[Jom]] - {{tsr|26}}
+| [[Jon Gaelin]] - {{tom|34}}
+|-
+| [[Jonai]] - {{tsr|26}}
+| [[Jophil]] - {{amol|6}}
+| [[Jorgin]] - {{tgs|32}}
+| [[Joslyn Aybara]] - {{teotw|Ravens}}
+|-
+| [[Jurad Shiman]] - {{ns|22}}
+| [[Juranai]] - {{tfoh|41}}
+| [[Jurine Najima]] - {{ns|17}}
+|-
+| [[Kainea]] - {{tom|13}}
+| [[Kaisea]] - {{tom|33}}
+| [[Kajin]] - {{tgh|8}}
+| [[Kamile Noallin]] - {{ns|24}}
+|-
+| [[Kanara]] - {{tom|15}}
+| [[Kappre]] - {{tom|21}}
+| [[Kara Defane]] - {{kod|14}}
+| [[Karam]] - {{amol|p}}
+|-
+| [[Kari al'Thor]] - {{teotw|51}}
+| [[Karile]] - {{ns|7}}
+| [[Kash]] - {{amol|42}}
+| [[Kashgar]] - {{kod|p}}
+|-
+| [[Kasi]] - {{cot|p}}
+| [[Kateri Nepvue]] - {{tom|5}}
+| [[Katerin]] - {{amol|5}}
+| [[Kathana]] - {{amol|11}}
+|-
+| [[Kati]] - {{tom|31}}
+| [[Kayen Yokata]] - {{wh|27}}
+| [[Kazin]] - {{ns|19}}
+| [[Keemlin Rai]] - {{tom|p}}
+|-
+| [[Keene]] - {{wh|32}}
+| [[Keilar]] - {{kod|11}}
+| [[Kely Huldin]] - {{loc|3}}
+| [[Kema]] - {{tom|52}}
+|-
+| [[Kennar Miraj]] - {{tpod|24}}
+| [[Kera]] - {{acos|p}}
+| [[Kert Wagoner]] - {{amol|1}}
+| [[Kev Barstere]] - {{kod|29}}
+|-
+| [[Kevlyn Torr]] - {{tom|44}}
+| [[Kevrim al'Azar]] - {{tsr|56}}
+| [[Kiril Drapaneos]] - {{tpod|23}}
+| [[Kiril Drapeneos]] - {{tpod|24}}
+|-
+| [[Kirkun]] - {{kod|20}}
+| [[Kline]] - {{amol|37}}
+| [[Kostelle]] - {{kod|11}}
+| [[Kralle]] - {{tom|p}}
+|-
+| [[Kuan Murasaka]] - {{tfoh|47}}
+| [[Kuehn]] - {{tom|23}}
+| [[Kumiko]] - {{kod|13}}
+| [[Kymer]] - {{amol|p}}
+|-
+| [[Kyril Shianri]] - {{tpod|p}}
+| [[Laandon]] - {{amol|35}}
+| [[Lacine]] - {{kod|22}}
+| [[Ladalin]] - {{tom|49}}
+|-
+| [[Lady Hamarashle]] - {{tom|50}}
+| [[Lady Torkumen]] - {{tom|24}}
+| [[Laerad]] - {{acos|40}}
+| [[Lairain]] - {{tgs|46}}
+|-
+| [[Landalin]] - {{tom|p}}
+| [[Lanelle]] - {{tgs|19}}
+| [[Lanita]] - {{loc|14}}
+| [[Larissa Lyndel]] - {{loc|30}}
+|-
+| [[Laurain]] - {{loc|9}}
+| [[Leeh]] - {{tom|13}}
+| [[Lehynen]] - {{tom|21}}
+| [[Leiran]] - {{loc|4}}
+|-
+| [[Leish]] - {{amol|3}}
+| [[Leitha]] - {{tsr|21}}
+| [[Lem al'Dai]] - {{wh|6}}
+| [[Lem Thane]] - {{teotw|Ravens}}
+|-
+| [[Leonin]] - {{cot|p}}
+| [[Letice Murow]] - {{cot|17}}
+| [[Leyn]] - {{acos|19}}
+| [[Liale Mosrara]] - {{loc|p}}
+|-
+| [[Lian]] - {{tsr|49}}
+| [[Lidan]] - {{tgh|21}}
+| [[Lidya]] - {{wh|14}}
+| [[Lincora]] - {{kod|22}}
+|-
+| [[Lind Taglien]] - {{amol|3}}
+| [[Lindsar]] - {{amol|42}}
+| [[Lira]] - {{ns|16}}
+| [[Lisaine Jarath]] - {{tpod|24}}
+|-
+| [[Lisandre]] - {{ns|6}}
+| [[Loise al'Vere]] - {{teotw|Ravens}}
+| [[Lomas]] - {{tpod|p}}
+| [[Loral]] - {{tgs|32}}
+|-
+| [[Losaine]] - {{tpod|p}}
+| [[Loya]] - {{acos|28}}
+| [[Luaine]] - {{loc|53}}
+| [[Luca (Aiel)]] - {{tsr|25}}
+|-
+| [[Lucain]] - {{tgs|40}}
+| [[Lucilde]] - {{loc|30}}
+| [[Ludin]] - {{amol|12}}
+| [[Lurts]] - {{tgs|32}}
+|-
+| [[Lussin]] - {{tom|19}}
+| [[Lyncon]] - {{tgs|9}}
+| [[Ma'combe]] - {{tgs|19}}
+| [[Macharan]] - {{tpod|18}}
+|-
+| [[Macoll]] - {{kod|37}}
+| [[Macu]] - {{tpod|6}}
+| [[Mada]] - {{tdr|31}}
+| [[Maenadrin]] - {{tgs|6}}
+|-
+| [[Maglin Madwen]] - {{tgh|21}}
+| [[Mahiro Shukosa]] - {{loc|49}}
+| [[Maigan]] - {{cot|30}}
+| [[Maigan Nem]] - {{tfoh|1}}
+|-
+| [[Malahavana]] - {{tgs|36}}
+| [[Malai]] - {{tgs|35}}
+| [[Malain]] - {{tom|32}}
+| [[Malena Aylar]] - {{tgh|23}}
+|-
+| [[Malenarin Rai]] - {{tom|p}}
+| [[Malian]] - {{tgs|p}}
+| [[Malidra]] - {{tom|48}}
+| [[Malien]] - {{tpod|20}}
+|-
+| [[Malin din Toral Breaking Wave]] - {{acos|13}}
+| [[Malindare]] - {{acos|33}}
+| [[Manal]] - {{loc|54}}
+| [[Mandein]] - {{tsr|25}}
+|-
+| [[Mandelain]] - {{acos|18}}
+| [[Mandhuin]] - {{tsr|57}}
+| [[Mantual]] - {{kod|34}}
+| [[Marac den Norvin]] - {{tpod|13}}
+|-
+| [[Marah]] - {{kod|24}}
+| [[Marah Anan]] - {{wh|19}}
+| [[Marande Algoran]] - {{loc|9}}
+| [[Marce Eldin]] - {{loc|10}}
+|-
+| [[Mardry]] - {{tgs|27}}
+| [[Mareil]] - {{kod|22}}
+| [[Marek Cormer]] - {{tom|34}}
+| [[Marewin]] - {{loc|9}}
+|-
+| [[Mari]] - {{teotw|14}}
+| [[Maric]] - {{loc|27}}
+| [[Maric Mandragoran]] - {{tgh|23}}
+| [[Marille]] - {{tom|33}}
+|-
+| [[Marinna]] - {{tom|49}}
+| [[Marisa Ahan]] - {{loc|10}}
+| [[Marishna]] - {{ns|20}}
+| [[Marith Riven]] - {{acos|1}}
+|-
+| [[Marlesh]] - {{tgs|13}}
+| [[Marli Noichin]] - {{wh|8}}
+| [[Marris Thornhill]] - {{cot|p}}
+| [[Marsial]] - {{tgs|38}}
+|-
+| [[Martan]] - {{ns|6}}
+| [[Masalin]] - {{cot|9}}
+| [[Masic]] - {{loc|52}}
+| [[Master Gill]] - {{teotw|36}}
+|-
+| [[Master Grinwell]] - {{teotw|31}}
+| [[Master Hornwell]] - {{tpod|20}}
+| [[Masuto]] - {{tdr|2}}
+| [[Matilde]] - {{acos|16}}
+|-
+| [[Matoun]] - {{kod|27}}
+| [[Mavabwin]] - {{tom|50}}
+| [[Mavra Mallen]] - {{tgh|23}}
+| [[Maylin]] - {{acos|39}}
+|-
+| [[Meciar]] - {{tfoh|54}}
+| [[Mehtan]] - {{kod|12}}
+| [[Meise]] - {{tom|48}}
+| [[Melanril Asegora]] - {{tfoh|43}}
+|-
+| [[Melarned]] - {{tgs|10}}
+| [[Melavaire Someinellin]] - {{kod|24}}
+| [[Melli Craeb]] - {{tom|8}}
+| [[Melten]] - {{amol|p}}
+|-
+| [[Mendan]] - {{tpod|p}}
+| [[Mera]] - {{loc|27}}
+| [[Meralda]] - {{tpod|8}}
+| [[Merekel]] - {{tom|23}}
+|-
+| [[Meresin Daganred]] - {{tfoh|30}}
+| [[Meri]] - {{acos|11}}
+| [[Meri do Ahlan a'Conlin]] - {{ns|5}}
+| [[Merici]] - {{wh|15}}
+|-
+| [[Merk (farmer)|Merk]] - {{tgs|p}}
+| [[Mestra]] - {{tom|37}}
+| [[Metalan]] - {{tom|48}}
+| [[Micara]] - {{acos|40}}
+|-
+| [[Mika]] - {{amol|37}}
+| [[Mikel of the Pure Heart]] - {{tgh|47}}
+| [[Mil Tesen]] - {{loc|p}}
+| [[Milis din Shalada Three Stars]] - {{tom|25}}
+|-
+| [[Milla al'Azar]] - {{loc|p}}
+| [[Mirala]] - {{tgs|p}}
+| [[Mistress Grinwell]] - {{teotw|31}}
+| [[Mistress Hornwell]] - {{tpod|20}}
+|-
+| [[Montem al'San]] - {{tom|10}}
+| [[Moor]] - {{tom|1}}
+| [[Mora (Goshien)]] - {{tom|49}}
+| [[Moradri]] - {{tgs|41}}
+|-
+| [[Mord]] - {{tgs|32}}
+| [[Mordaine]] - {{tsr|25}}
+| [[Mordeth]] - {{teotw|19}}
+| [[Morear]] - {{amol|p}}
+|-
+| [[Mori]] - {{tom|4}}
+| [[Morin]] - {{tsr|25}}
+| [[Morsa]] - {{tfoh|32}}
+| [[Muadh]] - {{tgh|29}}
+|-
+| [[Mulinda]] - {{loc|14}}
+| [[Murel]] - {{kod|7}}
+| [[Musarin]] - {{tgs|6}}
+| [[Musicar]] - {{amol|17}}
+|-
+| [[Mycal Crossin]] - {{cot|26}}
+| [[Nacelle Kayama]] - {{kod|23}}
+| [[Nad]] - {{acos|17}}
+| [[Nadoc]] - {{tpod|23}}
+|-
+| [[Nadric]] - {{cot|9}}
+| [[Naime]] - {{tpod|5}}
+| [[Naiselle]] - {{tpod|20}}
+| [[Nalhera]] - {{wh|22}}
+|-
+| [[Namene]] - {{kod|24}}
+| [[Nan Belman]] - {{loc|28}}
+| [[Nana]] - {{wh|5}}
+|-
+| [[Narg]] - {{teotw|5}}
+| [[Naris]] - {{cot|13}}
+| [[Narisse]] - {{tsr|25}}
+| [[Narvais Maslin]] - {{wh|24}}
+|-
+| [[Narvin]] - {{wh|28}}
+| [[Nashia]] - {{tom|52}}
+| [[Nata]] - {{amol|19}}
+| [[Natasia]] - {{ns|12}}
+|-
+| [[Natley Lewin]] - {{tsr|32}}
+| [[Nazran]] - {{tpod|12}}
+| [[Nedare Satarov]] - {{ns|23}}
+| [[Negaine]] - {{tgs|6}}
+|-
+| [[Negara]] - {{tpod|18}}
+| [[Neilyn]] - {{wh|15}}
+| [[Nelsa]] - {{cot|29}}
+| [[Nenci]] - {{tgs|p}}
+|-
+| [[Nengar]] - {{cot|7}}
+| [[Nerilea]] - {{acos|7}}
+| [[Nerion]] - {{kod|29}}
+| [[Nerrine]] - {{tsr|25}}
+|-
+| [[Nesair]] - {{tpod|27}}
+| [[Nesita]] - {{kod|24}}
+| [[Nesta din Reas Two Moons]] - {{acos|13}}
+| [[Nestelle din Sakura South Star]] - {{wh|31}}
+|-
+| [[Niagen]] - {{tom|43}}
+| [[Niande Moorwyn]] - {{acos|36}}
+| [[Nichil]] - {{amol|12}}
+| [[Nico]] - {{tdr|8}}
+|-
+| [[Nidao]] - {{tgh|3}}
+| [[Niella]] - {{loc|18}}
+| [[Nils]] - {{tom|18}}
+| [[Nimri]] - {{tom|23}}
+|-
+| [[Niolle]] - {{kod|22}}
+| [[Nisain]] - {{cot|19}}
+| [[Nissa]] - {{tom|27}}
+| [[Nisura]] - {{tgh|8}}
+|-
+| [[Noreladim]] - {{tgs|31}}
+| [[Noren]] - {{kod|p}}
+| [[Norie]] - {{kod|4}}
+| [[Norlesh]] - {{tom|48}}
+|-
+| [[Norowhin]] - {{loc|9}}
+| [[Notasha]] - {{tgs|41}}
+| [[Oncala]] - {{tom|49}}
+| [[Oratar]] - {{tom|34}}
+|-
+| [[Oren Dautry]] - {{kod|29}}
+| [[Ortis]] - {{tpod|10}}
+| [[Osana]] - {{loc|6}}
+| [[Oselle]] - {{tsr|26}}
+|-
+| [[Otarin]] - {{tgh|47}}
+| [[Padra]] - {{tom|49}}
+| [[Padry]] - {{loc|5}}
+| [[Paedrig the Peacemaker]] - {{tgh|47}}
+|-
+| [[Paers]] - {{loc|5}}
+| [[Paetram (Kandori merchant)]] - {{tsr|13}}
+| [[Paetram Aybara]] - {{teotw|Ravens}}
+| [[Patrim]] - {{tdr|8}}
+|-
+| [[Patrinda]] - {{tgs|25}}
+| [[Pavil Geraneos]] - {{kod|20}}
+| [[Pel]] - {{tfoh|11}}
+| [[Pel Aydaer]] - {{tsr|42}}
+|-
+| [[Pelanna]] - {{kod|22}}
+| [[Perwyn Belman]] - {{loc|28}}
+| [[Piava]] - {{amol|18}}
+| [[Posavina]] - {{wh|32}}
+|-
+| [[Pylar]] - {{amol|31}}
+| [[Qi]] - {{tom|23}}
+| [[Quillin Tasil]] - {{tgs|31}}
+| [[Raab]] - {{tdr|30}}
+|-
+| [[Racelle Arovni]] - {{ns|16}}
+| [[Rad al'Dai]] - {{acos|3}}
+| [[Raechin Connoral]] - {{tom|27}}
+| [[Raemassa]] - {{amol|20}}
+|-
+| [[Rahema Arnon]] - {{cot|26}}
+| [[Raimun Holdwin]] - {{teotw|34}}
+| [[Ramesa]] - {{kod|p}}
+| [[Ramola]] - {{tom|38}}
+|-
+| [[Ramsid Almadar]] - {{loc|6}}
+| [[Ranun Sinah]] - {{tom|43}}
+| [[Rashan (servant)]] - {{loc|6}}
+| [[Reale]] - {{acos|5}}
+|-
+| [[Redbord]] - {{tom|25}}
+| [[Reiko]] - {{cot|19}}
+| [[Ren Chandin]] - {{tsr|40}}
+| [[Renald Macer]] - {{tom|22}}
+|-
+| [[Rhea Avin]] - {{loc|p}}
+| [[Rhian]] - {{tgh|35}}
+| [[Rhodric]] - {{tsr|25}}
+| [[Riddem]] - {{tom|9}}
+|-
+| [[Ries Gorthanes]] - {{ns|14}}
+| [[Rinnin]] - {{tgs|p}}
+| [[Rittle]] - {{tom|31}}
+| [[Robb Solter]] - {{tom|26}}
+|-
+| [[Roidelle]] - {{kod|26}}
+| [[Ronam]] - {{tom|49}}
+| [[Ronan]] - {{tgh|2}}
+| [[Ronelle]] - {{loc|14}}
+|-
+| [[Rorik]] - {{tgs|26}}
+| [[Rosara Medrano]] - {{cot|p}}
+| [[Rosene]] - {{wh|5}}
+| [[Rosil]] - {{tom|20}}
+|-
+| [[Ross Anan]] - {{wh|19}}
+| [[Rosse]] - {{amol|p}}
+| [[Rovair]] - {{wh|6}}
+| [[Rowahn]] - {{tom|48}}
+|-
+| [[Rulan Allwine]] - {{teotw|33}}
+| [[Ruthan]] - {{kod|20}}
+| [[Ryden]] - {{amol|p}}
+|-
+| [[Saal]] - {{tdr|31}}
+| [[Saddler]] - {{tom|31}}
+| [[Saeric]] - {{loc|42}}
+| [[Saml al'Seen]] - {{kod|e}}
+|-
+| [[Saml Hake]] - {{teotw|32}}
+| [[Sanetre]] - {{kod|32}}
+| [[Santes]] - {{wh|5}}
+| [[Sara]] - {{teotw|15}}
+|-
+| [[Sarasia]] - {{tom|52}}
+| [[Sarena]] - {{loc|8}}
+| [[Sarendhra]] - {{kod|21}}
+| [[Sarinde]] - {{amol|6}}
+|-
+| [[Satina]] - {{loc|14}}
+| [[Savara]] - {{amol|24}}
+| [[Sealdre]] - {{tsr|25}}
+| [[Seirin]] - {{tfoh|44}}
+|-
+| [[Selindrin]] - {{tsr|38}}
+| [[Sera]] - {{wh|14}}
+| [[Seri]] - {{tfoh|32}}
+| [[Serile]] - {{kod|22}}
+|-
+| [[Serinia]] - {{amol|1}}
+| [[Serrisa]] - {{tgh|29}}
+| [[Setagana]] - {{cot|16}}
+| [[Setsuko]] - {{ns|6}}
+|-
+| [[Shaen]] - {{amol|20}}
+| [[Shanal]] - {{tgs|40}}
+| [[Shanan]] - {{amol|e}}
+| [[Shanelle]] - {{loc|30}}
+|-
+| [[Shaofan]] - {{loc|6}}
+| [[Sharbon]] - {{tdr|p}}
+| [[Sharmad Zeffar]] - {{loc|p}}
+| [[Shedren]] - {{tom|49}}
+|-
+| [[Shemari]] - {{cot|17}}
+| [[Shimel]] - {{wh|32}}
+| [[Shimoku]] - {{loc|14}}
+| [[Shimron]] - {{cot|p}}
+|-
+| [[Shiv]] - {{amol|p}}
+| [[Shyanda]] - {{wh|p}}
+| [[Siedre]] - {{tsr|26}}
+| [[Sierin Vayu]] - {{ns|14}}
+|-
+| [[Sigmont]] - {{amol|36}}
+| [[Silene Dorelmin]] - {{ns|24}}
+| [[Slone Maddow]] - {{tom|9}}
+| [[Snelle]] - {{tom|31}}
+|-
+| [[Snert]] - {{tom|22}}
+| [[Solinda]] - {{tsr|26}}
+| [[Somma]] - {{tom|15}}
+| [[Soro]] - {{amol|34}}
+|-
+| [[Sorrentin]] - {{tom|21}}
+| [[Sotarin]] - {{acos|3}}
+| [[Spar]] - {{acos|29}}
+| [[Spiron Narettin]] - {{tpod|21}}
+|-
+| [[Stepin]] - {{ns|7}}
+| [[Stevan Gedarien]] - {{loc|46}}
+| [[Strom]] - {{teotw|32}}
+| [[Sulaan]] - {{amol|45}}
+|-
+| [[Sulwin]] - {{tsr|26}}
+| [[Surlivan Sarat]] - {{wh|17}}
+| [[Surya]] - {{tgs|p}}
+| [[Susa Wynn]] - {{ns|5}}
+|-
+| [[Susu]] - {{tfoh|11}}
+| [[Sybaine Aldwyn]] - {{wh|34}}
+| [[Tabi]] - {{tgs|p}}
+| [[Tadvishm]] - {{tom|48}}
+|-
+| [[Taisa]] - {{tsr|1}}
+| [[Takai]] - {{tom|49}}
+| [[Tal Nethin]] - {{tfoh|20}}
+| [[Talana]] - {{tom|49}}
+|-
+| [[Talha]] - {{tgs|p}}
+| [[Talva]] - {{tom|14}}
+| [[Tamaav]] - {{tom|49}}
+| [[Tamala]] - {{tgs|40}}
+|-
+| [[Tamela]] - {{wh|p}}
+| [[Tamlin al'Thor]] - {{amol|32}}
+| [[Tando]] - {{tgs|13}}
+| [[Tarra]] - {{tom|49}}
+|-
+| [[Tarran]] - {{tom|24}}
+| [[Tauan]] - {{tpod|6}}
+| [[Tava]] - {{tom|48}}
+| [[Taval din Chanai Nine Gulls]] - {{acos|34}}
+|-
+| [[Tavalad]] - {{tom|49}}
+| [[Tehan]] - {{wh|14}}
+| [[Tema]] - {{tgh|2}}
+| [[Teven Marwin]] - {{tsr|40}}
+|-
+| [[Therille Marza]] - {{loc|p}}
+| [[Therin Lugay]] - {{tfoh|10}}
+| [[Thulin]] - {{tgs|p}}
+| [[Thurasa]] - {{tgs|p}}
+|-
+| [[Tian]] - {{tom|p}}
+| [[Tiedra]] - {{tgh|31}}
+| [[Tijds]] - {{tgs|40}}
+| [[Timna]] - {{wh|35}}
+|-
+| [[Tiras]] - {{tpod|22}}
+| [[Tobrad]] - {{tgs|28}}
+| [[Toke Fearnim]] - {{kod|6}}
+| [[Toma]] - {{tsr|26}}
+|-
+| [[Tomada]] - {{tsr|26}}
+| [[Tomichi]] - {{ns|20}}
+| [[Tornay Lanasiet]] - {{kod|p}}
+| [[Torwyn Barshaw]] - {{loc|31}}
+|-
+| [[Trask]] - {{amol|37}}
+| [[Trayal]] - {{tgh|36}}
+| [[Triben]] - {{tgs|32}}
+| [[Trost]] - {{tom|46}}
+|-
+| [[Tuandha]] - {{cot|8}}
+| [[Tuck Padwhin]] - {{tsr|56}}
+| [[Tuon]] - {{cot|1}}
+| [[Turan]] - {{tgs|6}}
+|-
+| [[Turane]] - {{kod|22}}
+| [[Turanna Norill]] - {{tpod|p}}
+| [[Turese]] - {{tgs|39}}
+| [[Turne]] - {{tom|2}}
+|-
+| [[Tymoth]] - {{tom|28}}
+| [[Uso]] - {{tom|1}}
+| [[Vadere]] - {{cot|26}}
+| [[Valinde Nathenos]] - {{loc|49}}
+|-
+| [[Vane]] - {{kod|11}}
+| [[Varek]] - {{tpod|24}}
+| [[Vasa]] - {{tdr|32}}
+| [[Velina Behar]] - {{tpod|25}}
+|-
+| [[Verine]] - {{tfoh|19}}
+| [[Veshir]] - {{tgs|p}}
+| [[Vestas]] - {{tgs|41}}
+| [[Viendre]] - {{wh|p}}
+|-
+| [[Vilnar Barada]] - {{loc|45}}
+| [[Viria Connoral]] - {{tom|27}}
+| [[Vogeler]] - {{tom|32}}
+| [[Votabek]] - {{tom|25}}
+|-
+| [[Wallein]] - {{kod|22}}
+| [[Wat]] - {{acos|28}}
+| [[Waylin]] - {{ns|7}}
+| [[Wellin]] - {{ns|6}}
+|-
+| [[Whelborn]] - {{tom|21}}
+| [[Will Reeve]] - {{tom|9}}
+| [[Willim]] - {{tsr|26}}
+| [[Willim al'Dai]] - {{teotw|Ravens}}
+|-
+| [[Win Lewin]] - {{tsr|32}}
+| [[Yeteri]] - {{tgs|40}}
+| [[Yuan]] - {{ns|10}}
+| [[Zakai]] - {{tpod|24}}
+|-
+| [[Zang]] - {{tom|22}}
+| [[Zavion]] - {{cot|p}}
+| [[Zenare Ghodar]] - {{loc|30}}
+| [[Zerah Dacan]] - {{tpod|26}}
+|-
+| [[Zhell]] - {{tom|18}}
+| [[Zushi]] - {{wh|20}}
+|}

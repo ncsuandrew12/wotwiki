@@ -1,0 +1,31 @@
+{{character 
+| image=NoviceIcon.png
+| imagesize=250px
+| birth={{ne|983}}
+| nationality=Andoran
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| status=Alive
+| eyes=Green
+| appeared={{tfoh|26}}
+| lastappeared={{loc|39}}
+| living=loc
+}}
+'''Tabiya''' is a [[novice]] in [[Salidar]]. She is occasionally, and mistakenly, called '''Tabitha'''.{{ref|{{twotc}},Tabitha}}
+
+== Appearance ==
+She is a green-eyed freckle-faced girl around sixteen years old.{{ref/book|6|8}}{{ref/book|5|26}}
+
+==Strength and Abilities==
+Tabiya is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] potential of {{opsl|33}}. She would be unable to [[Traveling|Travel]] without linking with another channeler. She would not yet have reached her potential, having only been in training for a couple of years.
+
+== Activities ==
+She is one of eighteen novices that were brought from the White Tower to Salidar by [[Sheriam Bayanar]].{{ref/book|6|8}} The others include [[Angla]] and [[Lucilde]]. 
+
+She is present when [[Siuan Sanche]], [[Min Farshaw]] and [[Leane Sharif]] arrive in Salidar.{{ref/book|5|26}} She is one of the novices in [[Elayne Trakand]]'s class.{{ref/book|6|8}} She summons [[Thomdril Merrilin]] and [[Juilin Sandar]] to the [[Little Tower]].{{ref/book|6|29}} She is sent to serve [[Egwene al'Vere]] when [[Matrim Cauthon]] arrives in Salidar.{{ref/book|6|38}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Channelers]]
+
+==Notes/Errata==
+The Companion notes that she is both Tabitha and Tabiya, though it is uncertain why they need be the same person. She is referred to as Tabiya in [[Lord of Chaos/Chapter 8|Lord of Chaos, Ch. 8]] and [[The Fires of Heaven/Chapter 26|The Fires of Heaven, Ch. 26]], and as Tabitha in [[Lord of Chaos/Chapter 29|Lord of Chaos, Ch. 29]], [[Lord of Chaos/Chapter 38|Lord of Chaos, Ch. 38]] and [[Lord of Chaos/Chapter 39|Lord of Chaos, Ch. 39]]. Both are referred to as having a green eyes and freckled.

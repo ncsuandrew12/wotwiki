@@ -1,0 +1,85 @@
+==Welcome!==
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''A Wheel of Time Wiki'''!. Thanks for your edit to the File:Spiderweb-icon.png page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[:Category:Help|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Moridin 2000|Moridin 2000]] ([[User_talk:Moridin 2000|Talk]]) 20:39, November 11, 2009
+
+== SVG file ==
+
+Did you make [[:File:Telaran-icon.svg]]? Because it is great. If you want you can make more svg files :). Also what program you use to make them?--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 01:55, November 22, 2009 (UTC)
+:Yes, I'm the one that made [[:File:Telaran-icon.svg]]. Thanks for your praise! And I do plan on making .svg files for some of the other chapter art icons. I'd like to say I'll do them all, but that may be too ambitious since I'll just be doing them when I have a bit of spare time here and there. I make them/edit them using [http://www.inkscape.org/ Inkscape], which is open source and free to download. I haven't been using it for that long, so I'm still learning all the ins and outs of the program. [[User:Ninjatacoshell|Ninjatacoshell]] 02:25, November 22, 2009 (UTC)
+::Oh yeah I've heard of that program. I want to start messing with it some time too. Yeah just making a couple over time would be awesome no rush.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 02:51, November 22, 2009 (UTC)
+:::Hope you don't mind, I updated some of the Brown sisters' pages with your new svg file. To tell you the truth, at first I prefered the older files, but now that I see them on the pages, they look great! Keep up the great work!!! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 06:27, November 23, 2009 (UTC)
+::::Thanks! And by all means feel free to use them wherever appropriate. [[User:Ninjatacoshell|Ninjatacoshell]] 06:30, November 23, 2009 (UTC)
+:::::I like how you added them through out rands page. It looks really good. Can't wait for them all to be done. Keep it up!
+
+== Icons ==
+
+Good stuff on those icons, that was something I was thinking of doing. Are you adding it to other pages?
+[[User:Kgable10|Kgable10]] 15:33, December 10, 2009 (UTC)
+
+== Different Icons ==
+
+Just a quick question. Do you have a list of all of the differing icons for the books? The reversed icons and the ones that have different icons in earlier versions and such. I noticed what you put on one of the pages. Great job, by the way, on all of the SVG icons. Thanks for that! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:54, December 14, 2009 (UTC)
+: I'll take a look at my books when I get home and also look at a few different websites. Thanks!! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:59, December 14, 2009 (UTC)
+
+== Redirects ==
+
+Please make sure you add the category to all of the redirects you are creating. Category is "Redirect". Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:04, January 5, 2010 (UTC)
+:Oops! I'll get on that. [[User:Ninjatacoshell|Ninjatacoshell]] 18:24, January 5, 2010 (UTC)
+
+Also, here is a list of duplicate chapter titles that I have found. Might be helpful for your redirects.
+
+:A Different Dance - {{Tdr|34}} and {{Loc|5}}
+:After - {{Tgh|50}} and {{Tpod|31}}
+:An Answer - {{Ns|25}} and {{Cot|Epilogue}}
+:Caemlyn - {{Teotw|35}} and {{Tdr|45}}
+:Changes - {{Ns|14}} and {{Tpod|10}}
+:Choices - {{Teotw|13}}, {{Tgh|17}} and {{Tfoh|52}}
+:Glimmers of the Pattern - {{tgh|11}} and {{Cot|Prologue}}
+:Leavetakings - {{Tgh|9}}, {{Tsr|16}} and {{Tfoh|48}}
+:Practice - {{Ns|3}} and {{Tgh|38}}
+:Rhuidean - {{Tsr|24}} and {{Tfoh|2}}
+:''Saidin'' - {{Tgh|20}} and {{Tdr|2}}
+:Secrets - {{Tdr|10}} and {{Cot|17}}
+:Sealed to the Flame - {{Acos|32}} and {{Tgs|43}}
+:Suprises - {{Ns|6}} and {{Cot|19}}
+:Tellings of the Wheel - {{Teotw|9}} and {{Loc|16}}
+:The Breaking Storm - {{Tsr|44}} and {{Tpod|5}}
+:The Hunt Begins - {{Tgh|10}} and {{Tdr|6}}
+:The Wheel Weaves  - {{Tgh|34}} and {{Tfoh|40}}
+:To Keep the Bargain - {{Tpod|1}} and {{Kod|32}}
+:Traps - {{Tsr|50}} and {{Cot|9}}
+
+Hope that helps! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:23, January 5, 2010 (UTC)
+:Yes, that does help. Thanks! [[User:Ninjatacoshell|Ninjatacoshell]] 18:24, January 5, 2010 (UTC)
+Made a change. For TEOTW chapter 10, it is singular. All the others for that title (Leavetakings) are the same. Sorry. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:26, January 5, 2010 (UTC)
+:Found another: Wolfbrother - {{Teotw|23}} and {{Tgh|14}} [[User:Ninjatacoshell|Ninjatacoshell]] 21:27, January 6, 2010 (UTC)
+I didn't add that one because in the copies that I have, the first one is "Wolfbrother" and the second is "Wolf brother", with the space. I don't know if that holds true with other editions. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:30, January 6, 2010 (UTC)
+
+== Chapter redirects ==
+
+You know, I had the same thought this past weekend, but didn't get to it. Awesome work! Hope you didn't mind me changing the categories on some of those. I was in the Redirect category list and saw that you had started the Chapter redirects category and thought I would help out. Also, nice work on those disambiguation pages too! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:55, January 8, 2010 (UTC)
+
+== Quick note ==
+
+Don't forget the categories for the redirects. I think I got most of them. Great job with the redirects and the disambiguation pages! Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:01, January 13, 2010 (UTC)
+
+I see what it was. Sorry about the confusion. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:34, January 13, 2010 (UTC)
+
+== Statistical analysis ==
+
+I sent you an e-mail about this. :) ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 22:36, January 20, 2010 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}
+
+thank you [[Special:Contributions/108.254.226.57|108.254.226.57]] 06:06, July 14, 2018 (UTC)a wheel of time fan

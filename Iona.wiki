@@ -1,0 +1,24 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| ewot=Bethamin
+| height= 
+| eyes=
+| occupation=Sul'dam
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| mentioned={{wh|20}}
+| lastmentioned={{wh|20}}
+| living=wh
+}}'''Iona''' is a ''[[sul'dam]]'' and the roommate of [[Bethamin Zeami]] in [[Ebou Dar]].{{ref|{{twotc}}, Iona}}
+
+==History==
+She is one of the two others that [[Bethamin]] shares a room with in [[The Golden Swans of Heaven]] in [[Ebou Dar]].
+
+When [[Almurat Mor]] asks Bethamin if she has any wine or brandy, she replies that Iona has a flask of the local brandy; Almurat tells her to pour him some.
+
+{{notes}}
+[[Category:Short pages]]
+[[Category:Channelers]]
+[[Category:Learners]]

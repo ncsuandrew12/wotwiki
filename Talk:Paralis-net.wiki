@@ -1,0 +1,17 @@
+I just added a list of components to Cadsuane's paralis-net as well as their function in the appearance section. I guess the function should be teased out and put in the uses section.{{Unsigned|05:20, 26 January 2011|Seebster}}
+:How it looks now is fine. The "Use" section looks to be more of a general use instead of the particulars of each component. Having those in the "Appearance" section works well. Thanks for adding those, by the way! ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 05:35, January 26, 2011 (UTC)
+:See also [[Cadsuane Melaidhrin#Hair ornaments]] -- [[User:WRAR|wRAR]] 21:42, January 26, 2011 (UTC)
+
+== Powers of the Intertwined Crescent Moons ==
+
+I have edited the powers listed for the Intertwined Crescent Moons and removed any reference to dissipation of weaves. This is because the reference listed to Chapter 12 of Path of Daggers does not support the listed powers. All the that is mentioned in that chapter is "She made no move to embrace the Source herself. One of her dangling hair ornaments, intertwined golden crescents,was cool on her temple."
+
+This implies only that the intertwined golden crescent ter'angreal detects that a woman holds Saidar in the wearer's vicinity. It doesn't imply anything about it having the power to dissipate weaves used against its wearer. It doesn't imply that it can detect Saidin. If it does do either of these things, there needs to be additional reference(s) to the actual chapter(s) where either power is referenced or used and that needs to be edited into the article.
+--------------
+I restored the information what was deleted and added the comment "verification needed". I always assume information is added because there is a section in the story somewhere referencing it. With the Paralis-net it totally makes sense that some of the ornaments gives such protection and I vaguely remember reading about it. I will attempt to find the reference later.
+--------------
+I have found reference to Cadsuane having a ter'angreal that "disrupts flows of the Power", specifically, the following passage from Chapter 7, A Cold Medallion, in The Knife of Dreams, "Joline must have tried to stop you, and Teslyn and Edesina as well, but whatever they did failed. I think that means you possess a ter'angreal that can disrupt flows of the Power. I've heard of such things--Cadsuane Melaidhrin supposedly had one, or so rumor said--but I've never seen the like."
+
+However, this may only be referring to the ter'angreal used to disrupt the disguise weave of Semirhage when she was impersonating Tuon as the Daughter of the Nine Moons. This would still not be a ter'angreal similar to Mat's as his is always-on and indiscriminate and Cadsuane's appears to need to be activated and targeted. It also doesn't specify which ter'angreal is capable of such powers, so it doesn't help with the extra powers the crescent ter'angreal might or might not have.
+
+I am still going through the books on my third read through. I will post any more references I find here.

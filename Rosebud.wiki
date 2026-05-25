@@ -1,0 +1,20 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Selucia
+| gender=Mare
+| color=Dun
+| appeared={{kod|10}}
+}}
+'''Rosebud''' is the name of [[Selucia]]'s horse.
+
+==Appearance==
+Rosebud is a dun colored mare.
+
+==Activities==
+After [[Matrim Cauthon]] bought [[Tuon Athaem Kore Paendrag]] [[Akein]], Selucia buys Rosebud.{{ref/book|11|10}} Rosebud carries Selucia during her travels across [[Altara]] and back to [[Ebou Dar]].{{ref/book|11|26}}{{ref/book|11|27}}{{ref/book|11|36}}
+
+{{notes}}

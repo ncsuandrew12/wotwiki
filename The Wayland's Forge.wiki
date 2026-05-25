@@ -1,0 +1,17 @@
+'''Wayland's Forge''' is an [[inn]] in [[Remen]] on the [[Ghealdan]]/[[Murandy]] border.{{ref|{{twotc}}, Wayland's Forge}}
+
+==Appearance==
+Wayland's Forge is three stories tall and made of gray stone with a purple tile roof. It has large windows and scroll-carved doors. The sign of the inn shows a man with a leather apron holding a hammer. The inn has an [[Ogier]] room with a [[sung wood]] bed. The [[innkeeper]]'s name is [[Gainor Furlan]].{{ref/book|3|33}}
+
+==Recent events==
+[[Moiraine Damodred]], [[Lan Mandragoran]], [[Perrin Aybara]], and [[Loial]] stop at Wayland's Forge on their way to [[Tear]] to search for [[Rand al'Thor]]. [[Faile Bashere]] was already at the inn, along with fellow [[Hunter of the Horn|Hunters of the Horn]] [[Orban]] and [[Gann]].{{ref/book|3|33}} Moiraine and the rest do not stay the night, as Perrin killed some [[Whitecloaks]] to free [[Gaul]]. Faile leaves with them.{{ref/book|3|34}}
+
+== Parallels ==
+The name derives from tales of Wayland the Smith, which are present in several Northern European literatures.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Wayland's Forge, The}}
+[[Category:Altara]]
+[[Category:Inns]]
+[[Category:Parallels]]

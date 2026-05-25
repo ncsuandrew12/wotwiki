@@ -1,0 +1,98 @@
+==Relevancy==
+
+Comprehensive lists of quotations belong on [[Wikiquote:The Wheel of Time]]. But you are encouraged to freely insert relevant ones into articles using the {{tl|WotQ}} and {{tl|quote}} templates, or by directly invoking [[Module:Quote]] APIs. If it makes sense for the quote to appear in the [[Template:QOTD|Quote of the Day]] box on the [[A beginning|welcome page]], as a "random" quote at the top of a main page, or otherwise might be suitable for searches and filtering, you can add the quote with appropriate filtering "tags" to the [[Quotes|wotwiki database]].
+
+Relevancy can range from simple comic relief to somber pronouncements on issues of grave importance to the series. For example:
+{{WotQ|humorous}}
+{{quote|In the last, lorn fight
+'gainst the fall of long night,
+the mountains stand guard,
+and the dead shall be ward,
+for the grave is no bar to my call.|Inscription on the [[Horn of Valere]]}}
+
+==Wheel of Time quotes==
+
+'''Proposal:''' ({{Date|April 7, 2025}}) Each individual summary of a major character, nation, people, item, concept, or event ''should'' contain at least one quotation at the top of the page. Quotes of the prose (as opposed to dialogue, internal monologues, and character POVs), can be attributed to Robert Jordan directly or to the book the quote is taken from. To quote a character, the source can be a link to that character's page. But the source can also be more descriptive, or attributed to Robert Jordan directly, or omitted entirely if the quote is on a chapter page and it's just a direct quote from that particular chapter.
+
+ <nowiki>{{WotQ|{{PAGENAME}}}}</nowiki>
+
+If no quotes for the page exist, the quote database [[#Updating the quote database|should be updated]].
+
+If you wish to reference a specific quote from the database, make sure the quote has a unique tag that no other quote has, then simply use that tag. For example:
+
+ <nowiki>{{WotQ|Special snowflake tag}}</nowiki>
+
+See [[Template:WotQ/doc]] for more information.
+
+If the quote is not in the database, and for some reason it doesn't make sense to add it, a quote may be added manually:
+
+ <nowiki>{{quote|text to quote|source|topic{{ref/book|book number|chapter number]}}</nowiki>
+
+See [[Template:Quote/doc]] for more information.
+
+===Examples===
+
+====Random quotes with optional filter====
+
+ <nowiki>{{WotQ}}</nowiki>
+{{WotQ}}
+
+ <nowiki>{{WotQ|Lini}}</nowiki>
+{{WotQ|Lini}}
+
+ <nowiki>{{WotQ|Nyn}}</nowiki>
+{{WotQ|Nyn}}
+
+====Manual quotes====
+
+ <nowiki>{{quote|The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again.|[[Robert Jordan]]{{ref/book|1|1}}{{ref/book|11|1}}}}</nowiki>
+{{quote|The Wheel of Time turns, and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again.|[[Robert Jordan]]{{ref/book|1|1}}{{ref/book|11|1}}}}
+
+ <nowiki>{{quote|Death is lighter than a feather, duty heavier than a mountain.|Rand al'Thor{{ref/book|2|47}}}}</nowiki>
+{{quote|Death is lighter than a feather, duty heavier than a mountain.|Rand al'Thor{{ref/book|2|47}}}}
+
+ <nowiki>{{quote|Rand screamed. He felt as if he were collapsing like an empty sack, as if he were being turned inside out. The pain in his side, the wound taken at Falme, was almost welcome, something to hang onto, a reminder of life.. His hand closed convulsively. On Callandor's hilt.|{{3|55}}}}</nowiki>
+{{quote|Rand screamed. He felt as if he were collapsing like an empty sack, as if he were being turned inside out. The pain in his side, the wound taken at Falme, was almost welcome, something to hang onto, a reminder of life.. His hand closed convulsively. On Callandor's hilt.|{{3|55}}}}
+
+==Quoting Text==
+
+When quoting text (or videos, etc.), please keep the following guidelines in mind:
+
+# Do '''''not''''' write quotes from memory.
+## There are Mandela effects, spelling problems, etc. Sometimes the meaning of a quote can be drastically changed by slightly incorrect wording.
+## If you cannot or will not copy or transcribe the quote, please suggest it in a comment or on a Talk page and let someone with more resources/time handle adding it to the database/page.
+# If something is italicized or bolded in the original text, italicize it with <nowiki>''</nowiki>, bold it with <nowiki>'''</nowiki>, or both with <nowiki>'''''</nowiki>.
+## Even if it Fandom doesn't render the text that way, it's useful information for our quote-processing code (for example, we can un-italicize [[Old Tongue]] words if a quote is italicized overall).
+# If a link can be added to either the quote text or the description/topic, prefer the description/topic over the quote text itself.
+# Add links for anything significant in a quote.
+## Let the quote-processing code decide how to handle the link (remove it, display it like regular text, display it as a normal wiki link, etc.)
+# Use newlines, not break tags.
+## Don't add <code><nowiki><br /></nowiki></code> tags inside quote text.
+## Simply use newlines and let the quote-processing code handle it.
+## Adding break tags won't cause problems, but it makes the code less readable.
+# Use [[Template:Quote/Interchange]] instead of [[Template:Quote]] if a quote is a conversation.
+## If it's an interchange between individuals that is not a pure conversation (that is, there are lines that are not dialogue), then the current best way is to add the quote to [[Module:WotQ/Data/quotes.json]] with a unique tag and reference it with <code><nowiki>{{WotQ|your tag}}</nowiki></code>.
+# Prefer double quotes (") over single quotes (') in quote text due to the latter's significance in wiki text.
+## That said, it does often make sense to use single quotes, particularly if that's what the source text uses.
+# If you remove intervening source text from a quote, add <pre><nowiki>[...]</nowiki></pre> where the text was.
+## '''Exception''': If you're simply removing prose that breaks up a line of dialogue or an internal thought, don't bother with the ellipsis. You're simply quoting the person/character, rather than the text (book, etc.) conveying said person's/character's words/thoughts. In such a case, be sure to fill out the description with the speaker, not the passage of text (e.g. chapter) that it comes from (though that should of course be added as a footnote reference).
+# If you add text to a quote that is not in the source, write it like so:<br /><pre>Quoted text <nowiki>[</nowiki>your text<nowiki>]</nowiki> more quoted text</pre>
+# When a text addition clarifies something like a pronoun, you can either replace the original or simply add the clarification next to the word.
+## Whichever you choose, please be consistent in the context of a single quote.
+## Please don't add clarifiers when the text of the quote or the description make it obvious.
+## In cases of borderline clarity, one option is to leave the quote text as-is, but link the ambiguous word/phrase to the page of the character/item/etc that is being referenced/addressed/etc.
+
+==Updating the quote database==
+
+To add a quote to the database used by [[Module:WotQ]], {{tl|WotQ}}, [[Module:QotD]], and {{tl|QOTD}} follow these steps:
+
+#[{{fullurl:Module:Wotq/Data/quotes.json|action=edit}} Edit the JSON database page] to add the quote at the end of the quotes array. See comments near the top of the page for guidance.
+#Visit [[Module:Quote/Cacher/out]].
+#For safety, purge the cache.
+#Copy the output.
+#[{{fullurl:Module:Wotq/Data/Cache|action=edit}} Edit the cache page] and replace all of the contents with the copied output. Doing this exposes the new quotes to the various modules and templates. Depending on the change, it can also cause the quote of the day to change.
+#Visit [[Quotes]] and verify that everything renders correctly.
+
+{{notes}}
+[[Category:Help|{{PAGENAME}}]]
+[[Category:Policies|{{PAGENAME}}]]

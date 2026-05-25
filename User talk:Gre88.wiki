@@ -1,0 +1,41 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  {{<includeonly>subst:</includeonly>PAGENAME}}! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wotwiki:Community Portal|welcome]] to '''{{SITENAME}}'''!. Thanks for your edit to the [[:File:Bigjpg 4x art mid MYDRAAL 1.jpg]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! [[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 13:33, April 24, 2019 (UTC)
+|}
+
+Hi Gre88,
+
+welcome on the WoT wiki.
+
+Please name the Artist and give source of your pic uploads, otherwise they might get deleted.
+
+Thank you,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 21:46, April 24, 2019 (UTC)
+
+yes, please always add Artist and source and if you find old pics without Artist and source feel free to add if you know it. Thanks & best,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 17:50, April 25, 2019 (UTC)
+
+== Deleting images ==
+
+You should be able to delete your own images. Also you don't need to give me anything, if you want to upload something just do it and give proper author info and source.
+
+Best,
+
+[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:32, April 28, 2019 (UTC)

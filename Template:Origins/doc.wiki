@@ -1,0 +1,76 @@
+==How to use==
+
+{| class="wikitable"
+| Code
+| Result
+|-
+| <nowiki>{{origins|D}}</nowiki>
+|         {{origins|D}}
+|-
+| <nowiki>{{origins|dedication}}</nowiki>
+|         {{origins|dedication}}
+|-
+| <nowiki>{{origins|Foreword}}</nowiki>
+|         {{origins|Foreword}}
+|-
+| <nowiki>{{origins|Letter}}</nowiki>
+|         {{origins|Letter}}
+|-
+| <nowiki>{{origins|Intro}}</nowiki>
+|         {{origins|Intro}}
+|-
+| <nowiki>{{origins|Wheelwright}}</nowiki>
+|         {{origins|Wheelwright}}
+|-
+| <nowiki>{{origins|Axle}}</nowiki>
+|         {{origins|Axle}}
+|-
+| <nowiki>{{origins|Turns}}</nowiki>
+|         {{origins|Turns}}
+|-
+| <nowiki>{{origins|Real}}</nowiki>
+|         {{origins|Real}}
+|-
+| <nowiki>{{origins|Photos}}</nowiki>
+|         {{origins|Photos}}
+|-
+| <nowiki>{{origins|Acknowledgments}}</nowiki>
+|         {{origins|Acknowledgments}}
+|-
+| <nowiki>{{origins|Nakomi}}</nowiki>
+|         {{origins|Nakomi}}
+|-
+| <nowiki>{{origins|N}}</nowiki>
+|         {{origins|N}}
+|-
+| <nowiki>{{origins|N|Wheelwright}}</nowiki>
+|         {{origins|N|Wheelwright}}
+|-
+| <nowiki>{{origins|N|Axle}}</nowiki>
+|         {{origins|N|Axle}}
+|-
+| <nowiki>{{origins|N|Turns}}</nowiki>
+|         {{origins|N|Turns}}
+|-
+| <nowiki>{{origins|N|Real}}</nowiki>
+|         {{origins|N|Real}}
+|-
+| <nowiki>{{origins|N|G}}</nowiki>
+|         {{origins|N|G}}
+|-
+| <nowiki>{{ref/book|origins|Nakomi}}</nowiki>
+|         {{ref/book|origins|Nakomi}}
+|-
+| <nowiki>{{ref/book|origins|1}}</nowiki>
+|         {{ref/book|origins|1}}
+|-
+| <nowiki>{{ref/book|origins|Wheelwright}}</nowiki>
+|         {{ref/book|origins|Wheelwright}}
+|-
+| <nowiki>{{ref/book|origins|N||Wheelwright}}</nowiki>
+|         {{ref/book|origins|N||Wheelwright}}
+|}
+
+{{notes}}
+
+<noinclude>[[Category:Template documentation]]</noinclude>

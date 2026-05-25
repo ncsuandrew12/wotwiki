@@ -1,0 +1,37 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| title=Lady
+| affiliation=Elayne Trakand
+| gender=Female
+| build=Slim, quite pretty
+| height=5'6"
+| appeared={{tpod|21}}
+| lastappeared={{tom|50}}
+| living=tom
+}}
+'''Ailil Riatin''' is a [[Cairhien]]in noblewoman, sister to [[Toram Riatin]].
+
+==Appearance==
+Lady Ailil is slim and dignified. She is tall for a Cairhienin at 5'6", and is pretty.{{ref|{{twotc}}, Ailil Riatin}} She is middle-aged.
+
+==History==
+Ailil grew up and prospered in [[House Riatin]], and her cousin [[Galldrian Riatin]] ascended to the [[Sun Throne]] after the [[Aiel War]], in [[978 NE]]. She lived in comfort and relative obscurity until the [[Shaido]] [[Aiel]] came to Cairhien ahead of the [[Dragon Reborn]]. After his forces defeated the Shaido and took control of Cairhien, her family was no longer in the powerful place it once enjoyed. Her brother Toram became a rebel, aligned with [[Caraline Damodred]] and some [[Tear|Tairen]] [[High Nobility of Tear|High Lord]]s in an encampment outside the city. She did not join him, presumably because she neither likes nor trusts him.
+
+== Activities ==
+===Assault on the Seanchan===
+During the preparations for the his assault on the [[Seanchan]], [[Rand al'Thor]] sent for numerous nobles whose loyalties were unclear to him. One of those summoned to him was Ailil, who protested loudly about being anywhere near the site of an actual battle. She brought her Lance-Captain with her, [[Denharad]], who she said could do any and all fighting or leading into battle that was necessary. Rand was emphatic, however, and kept Ailil close by his side. At one point in the battle, Rand was knocked off his horse by an unseen Seanchan crossbow bolt, and Ailil discussed his fate - and theirs - with the High Lady [[Anaiyella]] of Tear. When Rand recovered, he noticed her belt knife was out; whether she intended to kill him or defend him is never made clear.
+
+Once the offensive against the [[Seanchan]] is concluded, [[Dobraine Taborwin]] arranges to have “trusted servants” (spies)in the [[Sun Palace]] keep an eye on Ailil and others of the untrustworthy nobles who returned with him. 
+
+===With Shalon===
+Ailil begins to converse with a [[Windfinder]] named [[Shalon din Togara Morning Tide]] during the time she is a 'guest' in the Sun Palace, and these conversations develop into friendship, and then into the two of them becoming lovers. The relationship has to be kept secret because Shalon is married, but they are discovered together (quite by accident) by Rand shortly after the [[Asha'man]] assault on the Sun Palace. Unaware of what he has discovered, he [[shield]]s Shalon and ties them up under their bed for their own safety, and for his. They are later discovered and held captive by [[Cadsuane Melaidhrin]] until they promise to help her. She and [[Verin Mathwin]] both know the true nature of their relationship, and are using it to hold the pair to their promise.
+
+She has assumed power and control over House Riatin after Toram's disappearance. She has been vocal in supporting Queen [[Elayne Trakand]] to take the Sun Throne. Elayne brings her and a small group of Cairhienin nobles to [[Caemlyn]] where she first demonstrates her newly created [[Dragon]]s. She then witnesses [[Arymilla Marne]], [[Elenia Sarand]], and [[Naean Arawn]] have their lands and titles stripped by Elayne. These lands are offered to [[Bertome Saighan]] and [[Lorstrum Aesnan]] on the condition that they support her ascension to the Sun Throne. Elayne also plans to divide some up for Ailil as reward for supporting Elayne.
+
+{{DEFAULTSORT:Riatin, Ailil}}
+
+[[es:Ailil Riatin]]
+[[Category:Nobility]]

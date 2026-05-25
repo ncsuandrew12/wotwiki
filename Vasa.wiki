@@ -1,0 +1,26 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tairen
+| occupation=Sailor
+| affiliation=Huan Mallia
+| gender=Male
+| build=Large
+| appeared={{tdr|32}}
+| lastappeared={{tdr|32}}
+| living=tdr
+}}'''Vasa''' is a crewman aboard the ''[[Gray Gull]]''.{{ref|{{twotc}}, Vasa}}
+
+==Appearance==
+Vasa is a large man with arms as big as [[Perrin Aybara|Perrin Aybara's]].
+
+==Activities==
+When [[Matrim Cauthon]] and [[Thomdril Merrilin]] hastily board the ''Gray Gull'' in [[Tar Valon]], [[Sanor]] and Vasa are ordered by [[Huan Mallia]] to throw them overboard. The captain reconsiders when he sees Mat's coin.{{ref/book|3|32}}
+
+==Parallels==
+Vasa takes his name from the Swedish warship ''[[wikipedia:Vasa (ship)|Vasa]]'', which was one of the most magnificent ships of her age when she began her maiden voyage on August 10, 1628—and sank fourteen hundred yards into it.
+
+{{notes}}
+{{short}}
+[[Category:Parallels]]

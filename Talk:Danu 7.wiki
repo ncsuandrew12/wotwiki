@@ -1,0 +1,3 @@
+==Naming==
+I started creating the wanted date pages, but then I started noticing that a lot of the already-existing pages are named for either the real date or the WoT date. Which one is it supposed to be? [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]]
+:It's supposed to be wot dates and real dates that redirect to wot dates that correspond to them.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 04:46, December 21, 2009 (UTC)

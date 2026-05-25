@@ -1,0 +1,11 @@
+== Automated transfer of Problem Report #22260 ==
+
+The following message was left by '''''Anonymous''''' via [[Special:ProblemReports/22260|PR #22260]] on 2009-05-18 00:04:48 UTC
+
+<div style="border:1px solid #ccc; padding:4px;">
+Eyecolour is stated to be blue...
+As a wolfbrother, that can't be right.
+
+Just at the start of chapter 1 from Winter's Heart eyes are described to be golden:
+"Elyas murmured at Perrin's shoulder. His golden eyes were calm, though. A lanky [....] graying hair that hung down his back to his waist and a long beard fanning across his chest." 
+</div>

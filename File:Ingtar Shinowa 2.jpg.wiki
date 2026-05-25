@@ -1,0 +1,9 @@
+{{Image
+| License                 = fairuse
+| ImageType1              = Character
+| ImageType2              = Fan art
+| Description             = [[Ingtar Shinowa]]'s last stand at [[Falme]].
+| Source                  = http://luktarig.deviantart.com/art/Ingtar-s-Last-Stand-211525216
+| Artist                  = Raymond Kissell
+}}
+[[Category:Featured images]]

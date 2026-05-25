@@ -1,0 +1,583 @@
+:<noinclude>''See also: [[Statistical analysis]]''</noinclude>
+''[[The Gathering Storm]]'' contains 50 chapters, a prologue, and an epilogue and consists of 28 unique POVs and 85 individual POVs. It has a total word count of 296,221 words.
+
+<noinclude>{{:Statistical analysis}}</noinclude>
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+!Chapter
+!Character
+!Word Count
+!Percentage
+|-
+| rowspan="7" | [[The Gathering Storm/Prologue|Prologue: What the Storm Means]]
+| Quote
+| align="right" | 69
+| align="right" | 0.0233%
+|-
+| [[Renald Fanwar]]
+| align="right" | 3,841
+| align="right" | 1.2966%
+|-
+| [[Falendre]]
+| align="right" | 1,794
+| align="right" | 0.6056%
+|-
+| [[Tylee Khirgan]]
+| align="right" | 1,453
+| align="right" | 0.4905%
+|-
+| [[Graendal]]
+| align="right" | 3,355
+| align="right" | 1.1326%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 1,138
+| align="right" | 0.3842%
+|-
+| [[Masema Dagar]]
+| align="right" | 1,449
+| align="right" | 0.4892%
+|-
+| [[The Gathering Storm/Chapter 1|Ch1: Tears of Steel]]
+| [[Rand al'Thor]]
+| align="right" | 6,500
+| align="right" | 2.1943%
+|-
+| [[The Gathering Storm/Chapter 2|Ch2: The Nature of Pain]]
+| [[Egwene al'Vere]]
+| align="right" | 7,040
+| align="right" | 2.3766%
+|-
+| [[The Gathering Storm/Chapter 3|Ch3: The Ways of Honor]]
+| [[Aviendha]]
+| align="right" | 4,458
+| align="right" | 1.5049%
+|-
+| [[The Gathering Storm/Chapter 4|Ch4: Nightfall]]
+| [[Gawyn Trakand]]
+| align="right" | 1,926
+| align="right" | 0.6502%
+|-
+| rowspan="2" | [[The Gathering Storm/Chapter 5|Ch5: A Tale of Blood]]
+| [[Rand al'Thor]]
+| align="right" | 3,879
+| align="right" | 1.3095%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 2,171
+| align="right" | 0.7329%
+|-
+| rowspan="3" | [[The Gathering Storm/Chapter 6|Ch6: When Iron Melts]]
+| [[Rodel Ituralde]]
+| align="right" | 1,369
+| align="right" | 0.4621%
+|-
+| [[Leane Sharif]]
+| align="right" | 1,169
+| align="right" | 0.3946%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 619
+| align="right" | 0.2090%
+|-
+| [[The Gathering Storm/Chapter 7|Ch7: The Plan for Arad Doman]]
+| [[Nynaeve al'Meara]]
+| align="right" | 6,114
+| align="right" | 2.0640%
+|-
+| [[The Gathering Storm/Chapter 8|Ch8: Clean Shirts]]
+| [[Siuan Sanche]]
+| align="right" | 7,627
+| align="right" | 2.5747%
+|-
+| [[The Gathering Storm/Chapter 9|Ch9: Leaving Malden]]
+| [[Perrin Aybara]]
+| align="right" | 5,245
+| align="right" | 1.7706%
+|-
+| [[The Gathering Storm/Chapter 10|Ch10: The Last of the Tabac]]
+| [[Rodel Ituralde]]
+| align="right" | 4,506
+| align="right" | 1.5211%
+|-
+| [[The Gathering Storm/Chapter 11|Ch11: The Death of Adrin]]
+| [[Aviendha]]
+| align="right" | 4,507
+| align="right" | 1.5215%
+|-
+| [[The Gathering Storm/Chapter 12|Ch12: Unexpected Encounters]]
+| [[Egwene al'Vere]]
+| align="right" | 8,403
+| align="right" | 2.8367%
+|-
+| [[The Gathering Storm/Chapter 13|Ch13: An Offer and a Departure]]
+| [[Gawyn Trakand]]
+| align="right" | 5,917
+| align="right" | 1.9975%
+|-
+| [[The Gathering Storm/Chapter 14|Ch14: A Box Opens]]
+| [[Cadsuane Melaidhrin]]
+| align="right" | 2,582
+| align="right" | 0.8716%
+|-
+| rowspan="3" | [[The Gathering Storm/Chapter 15|Ch15: A Place to Begin]]
+| [[Rand al'Thor]]
+| align="right" | 2,022
+| align="right" | 0.6826%
+|-
+| [[Min Farshaw]]
+| align="right" | 2,577
+| align="right" | 0.8699%
+|-
+| [[Aviendha]]
+| align="right" | 1,242
+| align="right" | 0.4193%
+|-
+| [[The Gathering Storm/Chapter 16|Ch16: In the White Tower]]
+| [[Egwene al'Vere]]
+| align="right" | 10,574
+| align="right" | 3.5696%
+|-
+| rowspan="2" | [[The Gathering Storm/Chapter 17|Ch17: Questions of Control]]
+| [[Cadsuane Melaidhrin]]
+| align="right" | 1,975
+| align="right" | 0.6667%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,720
+| align="right" | 0.5806%
+|-
+| [[The Gathering Storm/Chapter 18|Ch18: A Message in Haste]]
+| [[Siuan Sanche]]
+| align="right" | 3,325
+| align="right" | 1.1225%
+|-
+| [[The Gathering Storm/Chapter 19|Ch19: Gambits]]
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 6,922
+| align="right" | 2.3367%
+|-
+| [[The Gathering Storm/Chapter 20|Ch20: On a Broken Road]]
+| [[Matrim Cauthon]]
+| align="right" | 5,587
+| align="right" | 1.8861%
+|-
+| rowspan="3" | [[The Gathering Storm/Chapter 21|Ch21: Embers and Ash]]
+| [[Perrin Aybara]]
+| align="right" | 1,281
+| align="right" | 0.4324%
+|-
+| [[Faile Bashere]]
+| align="right" | 3,840
+| align="right" | 1.2963%
+|-
+| [[Perrin Aybara]]
+| align="right" | 277
+| align="right" | 0.0935%
+|-
+| rowspan="2" | [[The Gathering Storm/Chapter 22|Ch22: The Last That Could Be Done]]
+| [[Semirhage]]
+| align="right" | 1,084
+| align="right" | 0.3659%
+|-
+| [[Rand al'Thor]]
+| align="right" | 6,365
+| align="right" | 2.1487%
+|-
+| [[The Gathering Storm/Chapter 23|Ch23: A Warp in the Air]]
+| [[Cadsuane Melaidhrin]]
+| align="right" | 1,790
+| align="right" | 0.6043%
+|-
+| [[The Gathering Storm/Chapter 24|Ch24: A New Commitment]]
+| [[Gawyn Trakand]]
+| align="right" | 6,335
+| align="right" | 2.1386%
+|-
+| rowspan="2" | [[The Gathering Storm/Chapter 25|Ch25: In Darkness]]
+| [[Sheriam Bayanar]]
+| align="right" | 1,322
+| align="right" | 0.4463%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 978
+| align="right" | 0.3302%
+|-
+| rowspan="2" | [[The Gathering Storm/Chapter 26|Ch26: A Crack in the Stone]]
+| [[Aviendha]]
+| align="right" | 3,813
+| align="right" | 1.2872%
+|-
+| [[Romanda Cassin]]
+| align="right" | 1,841
+| align="right" | 0.6215%
+|-
+| [[The Gathering Storm/Chapter 27|Ch27: The Tipsy Gelding]]
+| [[Matrim Cauthon]]
+| align="right" | 8,440
+| align="right" | 2.8492%
+|-
+| [[The Gathering Storm/Chapter 28|Ch28: Night in Hinderstap]]
+| [[Matrim Cauthon]]
+| align="right" | 8,779
+| align="right" | 2.9636%
+|-
+| [[The Gathering Storm/Chapter 29|Ch29: Into Bandar Eban]]
+| [[Rand al'Thor]]
+| align="right" | 5,581
+| align="right" | 1.8840%
+|-
+| [[The Gathering Storm/Chapter 30|Ch30: Old Advice]]
+| [[Gawyn Trakand]]
+| align="right" | 4,418
+| align="right" | 1.4914%
+|-
+| rowspan="2" | [[The Gathering Storm/Chapter 31|Ch31: A Promise to Lews Therin]]
+| [[Cadsuane Melaidhrin]]
+| align="right" | 3,874
+| align="right" | 1.3078%
+|-
+| [[Rand al'Thor]]
+| align="right" | 4,389
+| align="right" | 1.4816%
+|-
+| [[The Gathering Storm/Chapter 32|Ch32: Rivers of Shadow]]
+| [[Nynaeve al'Meara]]
+| align="right" | 9,489
+| align="right" | 3.2033%
+|-
+| [[The Gathering Storm/Chapter 33|Ch33: A Conversation with the Dragon]]
+| [[Nynaeve al'Meara]]
+| align="right" | 3,717
+| align="right" | 1.2548%
+|-
+| [[The Gathering Storm/Chapter 34|Ch34: Legends]]
+| [[Matrim Cauthon]]
+| align="right" | 5,571
+| align="right" | 1.8807%
+|-
+| rowspan="2" | [[The Gathering Storm/Chapter 35|Ch35: A Halo of Blackness]]
+| [[Rand al'Thor]]
+| align="right" | 2,024
+| align="right" | 0.6833%
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 3,351
+| align="right" | 1.1312%
+|-
+| rowspan="2" | [[The Gathering Storm/Chapter 36|Ch36: The Death of Tuon]]
+| [[Matrim Cauthon]]
+| align="right" | 3,457
+| align="right" | 1.1670%
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 1,096
+| align="right" | 0.3700%
+|-
+| [[The Gathering Storm/Chapter 37|Ch37: A Force of Light]]
+| [[Min Farshaw]]
+| align="right" | 7,667
+| align="right" | 2.5882%
+|-
+| [[The Gathering Storm/Chapter 38|Ch38: News in ''Tel'aran'rhiod'']]
+| [[Egwene al'Vere]]
+| align="right" | 6,875
+| align="right" | 2.3209%
+|-
+| [[The Gathering Storm/Chapter 39|Ch39: A Visit from Verin Sedai]]
+| [[Egwene al'Vere]]
+| align="right" | 7,996
+| align="right" | 2.6993%
+|-
+| rowspan="4" | [[The Gathering Storm/Chapter 40|Ch40: The Tower Shakes]]
+| [[Siuan Sanche]]
+| align="right" | 1,047
+| align="right" | 0.3534%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,900
+| align="right" | 0.6414%
+|-
+| [[Siuan Sanche]]
+| align="right" | 1,413
+| align="right" | 0.4770%
+|-
+| [[Adelorna Bastine]]
+| align="right" | 1,706
+| align="right" | 0.5759%
+|-
+| rowspan="7" | [[The Gathering Storm/Chapter 41|Ch41: A Fount of Power]]
+| [[Gawyn Trakand]]
+| align="right" | 1,587
+| align="right" | 0.5357%
+|-
+| [[Saerin Asnobar]]
+| align="right" | 1,534
+| align="right" | 0.5178%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 576
+| align="right" | 0.1944%
+|-
+| [[Gareth Bryne]]
+| align="right" | 2,789
+| align="right" | 0.9415%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 783
+| align="right" | 0.2643%
+|-
+| [[Saerin Asnobar]]
+| align="right" | 477
+| align="right" | 0.1610%
+|-
+| [[Elaida do Avriny a'Roihan]]
+| align="right" | 304
+| align="right" | 0.1026%
+|-
+| [[The Gathering Storm/Chapter 42|Ch42: Before the Stone of Tear]]
+| [[Rand al'Thor]]
+| align="right" | 3,863
+| align="right" | 1.3041%
+|-
+| rowspan="4" | [[The Gathering Storm/Chapter 43|Ch43: Sealed to the Flame]]
+| [[Egwene al'Vere]]
+| align="right" | 1,938
+| align="right" | 0.6542%
+|-
+| [[Jesse Bilal]]
+| align="right" | 2,635
+| align="right" | 0.8895%
+|-
+| [[Siuan Sanche]]
+| align="right" | 970
+| align="right" | 0.3275%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 2,486
+| align="right" | 0.8392%
+|-
+| [[The Gathering Storm/Chapter 44|Ch44: Scents Unknown]]
+| [[Nynaeve al'Meara]]
+| align="right" | 6,935
+| align="right" | 2.3411%
+|-
+| [[The Gathering Storm/Chapter 45|Ch45: The Tower Stands]]
+| [[Egwene al'Vere]]
+| align="right" | 4,589
+| align="right" | 1.5492%
+|-
+| [[The Gathering Storm/Chapter 46|Ch46: To Be Forged Again]]
+| [[Egwene al'Vere]]
+| align="right" | 5,696
+| align="right" | 1.9229%
+|-
+| [[The Gathering Storm/Chapter 47|Ch47: The One He Lost]]
+| [[Rand al'Thor]]
+| align="right" | 5,202
+| align="right" | 1.7561%
+|-
+| [[The Gathering Storm/Chapter 48|Ch48: Reading the Commentary]]
+| [[Min Farshaw]]
+| align="right" | 2,672
+| align="right" | 0.9020%
+|-
+| [[The Gathering Storm/Chapter 49|Ch49: Just Another Man]]
+| [[Rand al'Thor]]
+| align="right" | 2,374
+| align="right" | 0.8014%
+|-
+| [[The Gathering Storm/Chapter 50|Ch50: Veins of Gold]]
+| [[Rand al'Thor]]
+| align="right" | 1,971
+| align="right" | 0.6654%
+|-
+| rowspan="2" | [[The Gathering Storm/Epilogue|Epilogue: Bathed in Light]]
+| [[Egwene al'Vere]]
+| align="right" | 2,002
+| align="right" | 0.6758%
+|-
+| Quote
+| align="right" | 52
+| align="right" | 0.0176%
+|-
+|}
+
+==Unique POV Breakdown==
+{| class="wikitable sortable"
+!Character
+!# of POVs
+!% of Total POVs (
+!Total Word Count (296,226)
+!% of Word Count
+|-
+| Quote
+| align="right" | 2
+| align="right" | 2.3529%
+| align="right" | 121
+| align="right" | 0.0408%
+|-
+| [[Renald Fanwar]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 3,841
+| align="right" | 1.2966%
+|-
+| [[Falendre]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 1,794
+| align="right" | 0.6056%
+|-
+| [[Tylee Khirgan]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 1,453
+| align="right" | 0.4905%
+|-
+| [[Graendal]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 3,355
+| align="right" | 1.1326%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 3
+| align="right" | 3.5294%
+| align="right" | 7,013
+| align="right" | 2.3674%
+|-
+| [[Masema Dagar]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 1,449
+| align="right" | 0.4892%
+|-
+| [[Rand al'Thor]]
+| align="right" | 11
+| align="right" | 12.9412%
+| align="right" | 44,170
+| align="right" | 14.9109%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 15
+| align="right" | 17.6471%
+| align="right" | 62,455
+| align="right" | 21.0836%
+|-
+| [[Aviendha]]
+| align="right" | 4
+| align="right" | 4.7059%
+| align="right" | 14,020
+| align="right" | 4.7329%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 5
+| align="right" | 5.8824%
+| align="right" | 20,183
+| align="right" | 6.8134%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 5
+| align="right" | 5.8824%
+| align="right" | 12,392
+| align="right" | 4.1833%
+|-
+| [[Leane Sharif]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 1,169
+| align="right" | 0.3946%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 4
+| align="right" | 4.7059%
+| align="right" | 26,255
+| align="right" | 8.8632%
+|-
+| [[Siuan Sanche]]
+| align="right" | 5
+| align="right" | 5.8824%
+| align="right" | 14,382
+| align="right" | 4.8551%
+|-
+| [[Perrin Aybara]]
+| align="right" | 4
+| align="right" | 4.7059%
+| align="right" | 8,523
+| align="right" | 2.8772%
+|-
+| [[Min Farshaw]]
+| align="right" | 3
+| align="right" | 3.5294%
+| align="right" | 12,916
+| align="right" | 4.3602%
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 3
+| align="right" | 3.5294%
+| align="right" | 11,369
+| align="right" | 3.8379%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 5
+| align="right" | 5.8824%
+| align="right" | 31,834
+| align="right" | 10.7465%
+|-
+| [[Faile Bashere]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 3,840
+| align="right" | 1.2963%
+|-
+| [[Semirhage]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 1,084
+| align="right" | 0.3659%
+|-
+| [[Sheriam Bayanar]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 1,322
+| align="right" | 0.4463%
+|-
+| [[Romanda Cassin]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 1,841
+| align="right" | 0.6215%
+|-
+| [[Adelorna Bastine]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 1,706
+| align="right" | 0.5759%
+|-
+| [[Saerin Asnobar]]
+| align="right" | 2
+| align="right" | 2.3529%
+| align="right" | 2,011
+| align="right" | 0.6789%
+|-
+| [[Gareth Bryne]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 2,789
+| align="right" | 0.9415%
+|-
+| [[Elaida do Avriny a'Roihan]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 304
+| align="right" | 0.1026%
+|-
+| [[Jesse Bilal]]
+| align="right" | 1
+| align="right" | 1.1765%
+| align="right" | 2,635
+| align="right" | 0.8895%
+|-
+|}
+[[Category:Statistical analysis]]

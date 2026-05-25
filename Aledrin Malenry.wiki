@@ -1,0 +1,63 @@
+{{ character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Taraboner
+| gender=Female
+| affiliation=White Tower
+| occupation=Sitter
+| rank=Aes Sedai
+| eyes=Brown
+| hair=Dark Golden
+| status=Alive
+| appeared={{ns|3}}
+| lastappeared={{amol|21}}
+| living=amol
+|body=plump 
+}}{{for|the similarly named captain in the [[Cairhien]]in army|Aldrin Caldevwin}}
+'''Aledrin Malenry''' is an [[Aes Sedai]] and for a while a [[Sitter]] of the [[White Ajah]] in the [[Rebel Hall of the Tower]].
+
+== Appearance and Personality ==
+She has dark golden hair, worn in a net instead of the typical Taraboner braids, and liquid brown eyes. She is very plump and has a dress with wide white sleeves and a snowy panel on the front that accentuates her berth{{ref/book|8|19}} {{ref/book|10|19}}. [[Egwene]] thinks that she is quite lovely when she smiles, though [[Romanda]] thinks that she falls short of pretty but she has a good head on her shoulders{{ref/book|11|23}}.
+
+As an Accepted, she was considered excitable. This seems to have changed by the time she became Aes Sedai. Though an exemplar of White logic, she also has a degree of practicality and worldliness foreign to most Whites. These may have weighed against her becoming a Sitter any other time, but these were considered useful qualities for a Rebel Sitter.
+
+== Strength and Abilities ==
+Aledrin is of [[Strength in the One Power among Aes Sedai|average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|30}}. She would not be able to [[Traveling|Travel]] without linking with another channeler.
+
+==History==
+She is from [[Tarabon]] and she is 50 years old. Aledrin was born in the year {{ne|950}} and went to the Tower in {{ne|964}}. After spending nine years as [[Novice]] and six as [[Accepted]] she was raised to the shawl in the year {{ne|979}}.
+
+She was an [[Accepted]] in the [[White Tower]] during the [[Aiel War]] when the [[Dragon]] was reborn. [[Tamra Ospenya]] summons all of the Accepted and sends them out to gather names for the bounty being given out to women who have recently given birth. Before Tamra arrives, Aledrin thinks that they have been summoned because they are all to be tested for the shawl immediately{{ref/book|0|3}}.
+
+==Activities==
+She has joined with the [[Salidar Aes Sedai]] and has been elected a [[Sitter]] on the [[Salidar Hall]]. She is the second youngest Sitter in the [[Rebel Hall of the Tower]]. It is therefore her duty to weave the ward against eavesdropping in a closed session of the Hall{{ref/book|10|19}}.
+
+
+===Vote for War===
+She votes YES on the [[Rebel Aes Sedai]] declaring war on [[Elaida do Avriny a'Roihan]]{{ref/book|8|19}}. When Aledrin stands, she pulls [[Berana]] up with her.
+
+The [[Hall]] meets to hear what the Aes Sedai sent to [[Shadar Logoth]] have found. Aledrin escorts [[Akarrin]] and the others before the Hall. She charges them to tell what they have learned, and then goes to sit on the White bench{{ref/book|10|19}}.
+
+===Black Tower Alliance===
+She votes YES in the [[Rebel Hall of the Tower]] for an alliance with the [[Black Tower]]{{ref/book|10|19}}.
+
+At [[Lelaine Akashi]]'s emergency meeting of the Hall to accept the offer from the [[Dragon Reborn]] of bonding forty-seven [[Asha'man]], Aledrin enters with [[Saroiya]]. When Lelaine asks that the meeting be sealed to the Hall, [[Romanda]] asks Aledrin to make them private against eavesdropping. She seems uncertain of whether or not to speak the formal words, but since it is not a formal sitting, simply weaves the ward{{ref/book|11|23}}.
+
+When [[Merise]] enters the Hall, Aledrin actually squeaks out loud upon realizing that her [[Warder]], [[Jahar Narishma]], is an [[Asha'man]]. When Jahar announces that someone who can channel ''[[saidin]]'' is attempting to eavesdrop on them, Aledrin confirms that something touched her ward and that it wasn’t ''[[saidar]]''{{ref/book|11|23}}.
+
+She is quite nervous and edges away when Jahar demonstrates using ''saidin'' on Saroiya so that [[Nacelle]] can test her new ''saidin'' detection weave. In the end, Aledrin stands in support of the bonding {{ref/book|11|23}}.
+
+Aledrin is one of the sister chosen to bond the forty-seven Asha'man and camped outside the Black Tower; [[Seaine Herimon]] was sent from the White Tower to warn them of the Black sisters among their ranks, with whom was presumably dealt. {{ref/book|14|21}}.
+
+After reunification Aledrin is not confirmed as a Sitter in the Hall {{ref/book|13|27}}.
+
+When the [[Black Tower]] is cleansed, Aledrin is still camped outside it, waiting invitation. She along [[Lyrelle]], [[Myrelle]] and [[Seaine]] greeted the leaders of the liberated Asha'man, [[Androl Genhald]] and his bonded Aes Sedai, [[Pevara Tazanovni]], and were given their promised forty-six Asha'man{{ref/book|14|21}}(in fact meanwhile Androl was bonded by Pevara and so only 46 needed to be bonded).
+
+{{Notes}}
+{{DEFAULTSORT:Malenry, Aledrin}}
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Sparkers]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

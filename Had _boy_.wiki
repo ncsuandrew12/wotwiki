@@ -1,0 +1,20 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Male
+| status=Alive
+| affiliation=Two Rivers
+| mentioned={{tsr|56}}
+| lastmentioned={{tsr|56}}
+| living=tsr
+| name=Had
+}}
+{{for|other uses of 'Had'|Had (disambiguation)}}
+'''Had''' is a resident of the [[Two Rivers]].
+
+== Activities ==
+When [[Perrin Aybara]] agrees that [[Jaim Aybara]] is a cousin, Jaim runs off to tell his friend Had.{{ref/book|4|56}}
+
+{{notes}}
+{{short}}

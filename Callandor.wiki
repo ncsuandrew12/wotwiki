@@ -1,0 +1,76 @@
+[[File:Callandor.JPG|thumb|210px|''Callandor'', painting by Todd Cameron Hamilton]]
+
+{{quote|Who wields me wields destiny. Take me, and begin the final journey.|{{3|4}}}}
+
+{{dablink|For other uses of the word "sword," the form of this ''[[sa'angreal]]'', see [[Sword]].}}
+'''''Callandor''''', ''the Sword That Is Not a Sword'' is a male ''[[sa'angreal]]'' in the form of a sword which seemed to be made of glass, or perhaps crystal, blade and hilt and crossguard sparkling in the light.{{ref/book|3|4}} It was called the ''Sword That Cannot Be Touched'' because it was sealed behind powerful wards of the [[One Power]] to ensure only the [[Dragon Reborn]] could take it. Despite being a sa'angreal it also functioned as a sword. It could cleave [[balefire]]. 
+
+{{quote|The shaft of light struck the blade of Callandor - and parted on its edge, forking to stream past on either side.|{{3|55}}}}
+
+==Known Flaws==
+
+===Lack of buffer===
+[[Angreal]] and [[sa'angreal]] are usually made with a buffer that protects the channeler from drawing too much of the One Power and burning out as a consequence. ''Callandor'' has no such buffer,{{ref/book|twotc|Callandor}} but it is safe to use if a man is linked with two women and one of the women leads the [[circle]].{{ref/book|8|27}}<!-- An earlier revision claimed that the lack of a buffer might be intentional. However, the Companion states it is a "manufacturing flaw" -->
+
+===Amplification of the taint on saidin===
+''Callandor'' also amplifies the effect of the taint on ''[[saidin]]'',{{ref/book|8|27}} risking madness for the channeler.
+
+===Trap===
+When ''Callandor'' is used without a circle, the man who wields it can be forced to link with women and to be placed in their control.{{ref/book|14|47}} The man cannot break out of this circle. 
+
+==History==
+It was constructed during the [[War of Power]]{{ref/book|twotc|Callandor}} and is the only known artifact in the [[Third Age]] able to amplify not only the [[One Power]] but the [[True Power]] as well.{{ref/book|14|16}}<!--TODO: Does Callandor work as a saidar (sa')angreal?--> When it was used to amplify the True Power its glow turned violent crimson.{{ref/book|14|47}}
+There were only two known more powerful ''sa'angreal'' that a man can use: the male half of the [[Choedan Kal]], and ''[[Sakarnen]]''.
+
+{{quote|The Sword That Cannot Be Touched is a ''sa'angreal'', girl. Only two more powerful were ever made, and thank the Light, neither of those was ever used.|Siuan Sanche{{ref/book|4|29}}}}
+
+===Prophecies===
+{{quote|The [[Stone of Tear]] will never fall till ''Callandor'' is wielded by the Dragon’s hand.|The [[Karaethon Cycle|Prophecies of the Dragon]], as quoted by [[Thom Merrilin]]{{ref/book|1|13}} and [[Loial]]{{ref/book|3|6}}}}
+
+{{quote|The Stone of Tear shall never fall till the [[People of the Dragon]] come.|The [[Karaethon Cycle|Prophecies of the Dragon]], as quoted by [[Siuan Sanche]]{{ref/book|5|27}}{{ref|See nearly identical quotes by [[Perrin Aybara]]{{ref/book|3|6}} and [[Thom Merrilin]].{{ref/book|1|13}}}}{{ref|The [[Aiel]] infiltrate Tear and sneak into the Stone prior to Rand's third fight with Ishamael.}}{{ref/book|3|54}}}}
+
+{{quote|Into the [[Stone of Tear#Heart of the Stone|heart]], he thrusts his sword,{{ref|Rand thrusts ''Callandor'' into the [[Heart of the Stone]] within the [[Stone of Tear]], telling the [[Tairen|Tairens]] that he will come back for the sword.}}{{ref/book|4|21}}
+into the heart, to hold their hearts.{{ref|Rand admits to Moiraine that he left ''Callandor'' in Tear in order to bind the Tairens to him because they will fear his return.}}{{ref/book|5|2}}
+[[Jahar Narishma|who draws it out]] shall follow after,{{ref|[[Jahar Narishma]] draws the sword out for Rand prior to his Altaran Campaign against the [[Seanchan]].}}{{ref/book|5|21}}
+What hand can grasp that fearful blade?|The [[Karaethon Cycle|Prophecies of the Dragon]], as quoted by [[Rand al'Thor]]{{ref/book|4|21}}}}
+
+The [[Prophecies of the Dragon]] indicated that ''Callandor'' needed to be used during [[Tarmon Gai'don]] to battle the Dark One. 
+
+[[File:Callandor.jpg|thumb|left|The sword, Callandor]]
+
+After learning of the [[Foretelling|Foretellings]] of the [[Prophecies of the Dragon]], the [[Aes Sedai (Age of Legends)|Aes Sedai of the time]] built the [[Stone of Tear]] to safeguard ''Callandor''. They placed it in the central [[Stone of Tear#Heart of the Stone|Heart of the Stone]], surrounded by powerful wards of ''[[saidin]]'' and ''[[saidar]]'' to prevent anyone other than the true [[Dragon Reborn]] from claiming it. These wards were so effective that not even the [[Forsaken]] could circumvent them.
+
+For three thousand years the sword floated in the Heart, guarded fiercely and seen only by [[High Nobility of Tear|High Lords]] of [[Tear]], for according to Tairen lore any man who managed to take it would be their rightful ruler.{{verify}} The [[Defenders of the Stone]] are the elite military group used specifically to guard the Stone. Only Tairens are accepted into the Defenders and officers are usually of noble birth. 
+
+==Recent events==
+In {{ne|999}}, the Dragon Reborn finally claimed and used it against [[Ishamael]]. During this battle, its ability to deflect ''[[balefire]]'' was showcased, as well as Rand somehow instinctively countering all of Ishamael's reality-bending in {{tarlink}} while wielding it. 
+
+During a later assault on the Stone, he used it to unleash a deadly weave upon the [[Trolloc|Trollocs]] and [[Myrddraal]], destroying them utterly, though he had no idea how he did it and later could not replicate it. Before leaving for the [[Aiel Waste]], he thrust the sword into the floor of the Heart, to make clear his intention to return. He did this both so that Tear would remain loyal to him, and because the amount of the Power that he could access through ''Callandor'' frightened him.
+
+[[File:Callandor.jpeg|thumb|left|Callandor, stuck in the floor]]
+
+As part of Rand's offensive against the [[Seanchan]] in {{ne|1000}}, [[Jahar Narishma]] was dispatched to Tear to retrieve ''Callandor''. This probably fulfills the [[Karaethon Cycle#The Shadow Rising|prophecy]] that "who draws it shall follow after." Narishma remained loyal to Rand until the end of the series.
+
+Rand used it to call a lightning storm down on the Seanchan army attacking [[Illian]], but due to the design flaws, and the instability of the One Power around [[Ebou Dar]] after the use of the [[Bowl of the Winds]], he killed some of his own men as well. Nevertheless, the Seanchan [[Ever Victorious Army]] was defeated. Rand forewent using it in the future and instead preferred the male [[Choedan Kal]], as it was far, far more powerful than Callandor and had none of its flaws.
+
+[[File:Rand After The Bubble of Evil Attack.jpg|thumb|right|Rand holding ''Callandor'' after an attack by a bubble of evil]]
+
+During the [[One Power#Cleansing of saidin|cleansing of ''saidin'']], Jahar Narishma used ''Callandor'' in a circle with [[Merise Haindehl]] and [[Elza Penfell]], with Elza melding the flows. It was used to bombard the attacking Forsaken at long range, killing [[Osan'gar]]. After this, [[Cadsuane Melaidhrin]] gave ''Callandor'' to an Aes Sedai friend of hers to study further, as she had long been aware of a verse from the Prophecies of the Dragon that indicated to her that ''Callandor'' specifically would be needed at [[Tarmon Gai'don]].
+
+In researching scholarly works to aid Rand, [[Min Farshaw]] independently reached two of the same conclusions as Cadsuane. First, a line from the [[Karaethon Cycle]], "He shall hold a blade of light in his hands, and the three shall be one," referred to ''Callandor'', rather than to Rand uniting three nations or cities. The latter interpretation was the consensus of commentators, but Cadsuane told Min that the same passage led her to research ''Callandor'' and discover its flaws. Cadsuane and Min also agreed that there was something important about ''Callandor'' that they had not yet discovered.{{ref/book|12|48}} Later, taking this text along with a phrase from the [[Jendai Prophecies|Jendai Prophecy]], "and the Blade will bind him by twain," Min expressed concern that ''Callandor'' would in some way make Rand vulnerable to an attack while using it.{{ref/book|13|32}} Ultimately, Min explained the key facet of ''Callandor's'' nature to Rand; a man using Callandor could be forced into a circle controlled by women.{{ref/book|14|47}}
+
+During a meeting with the Borderland rulers, Rand drew it from a sheath on his back as proof that he was not a [[false Dragon]].
+
+===The Last Battle===
+Afterward, ''Callandor's'' ability to amplify the [[True Power]] was discovered, an ability upon which Rand formulated his plan to repair the Dark One's prison. When [[Tarmon Gai'don]] began, Rand took ''Callandor'' with him to [[Shayol Ghul]], and there he engaged [[Moridin]] in an ordinary sword fight. Near the end of their duel, Moridin stabbed his own hand, causing Rand pain through their link and forcing him to drop ''Callandor''. 
+
+Taking up the crystal sword, Moridin discovered its ability to act as a ''sa'angreal'' for the True Power, something he evidently had not thought possible. But when he attempted to use it to destroy Rand and himself, [[Moiraine Damodred|Moiraine]] and [[El'Nynaeve ti al'Meara Mandragoran|Nynaeve]] exploited ''Callandor's'' flaw to entrap Moridin in a link. Linking with Moridin and the two women, Rand was able to use the True Power from Moridin, ''saidin'' from himself, and ''saidar'' from the two women to repair the Dark One's prison. Coating his weaves of the One Power with the True Power in order to keep the Dark One from touching either half of the One Power and tainting it as he had with ''saidin'', Rand "permanently" sealed the [[Bore]].
+
+===Old Tongue===
+''Callandor'' is listed in the [[Old Tongue]] section of [[The Wheel of Time Companion]] as "The Sword That Cannot Be Touched" and "The Sword That is Not a Sword". These translations are not only mutually exclusive but don't contain any of the known words for sword or blade or other known parts. If it is indeed a word in the Old Tongue, we have no translation for the word.
+
+{{notes}}
+{{DISPLAYTITLE:''Callandor''}}
+[[es:Callandor]]
+[[Category:Sa'angreal]]
+[[Category:Items of Power]]

@@ -1,0 +1,22 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| gender=Male
+| occupation=Unknown occupation
+| affiliation=
+| height=Tall
+| build=
+| hair=
+| status=Foreseen
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Shae'en M'taal
+| mentioned={{tom|48}}
+}}
+
+'''Tadvishm''' is a potential distant descendant of Aviendha and Rand. He is seen by [[Aviendha]] in the [[Glass columns]] of [[Rhuidean]].
+
+Tadvishm is a Stone Dog that is killed in a Seanchan raid.
+[[Category:Foreseen people]]
+[[Category:Short pages]]

@@ -1,0 +1,4 @@
+''[[Lord of Chaos]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|p|pr|prologue=[[Lord of Chaos/Prologue|Prologue]]|e|ep|epilogue=[[Lord of Chaos/Epilogue|Epilogue]]|g|glossary=[[Lord of Chaos/Glossary|Glossary]]{{#if:{{{2|}}}|, [[{{{2|}}}]]}}|[[Lord of Chaos/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|Lord of Chaos]]
+</noinclude>

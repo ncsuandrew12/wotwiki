@@ -1,0 +1,57 @@
+==Introduction==
+The passage of time is somewhat fluid in the world of [[The Wheel of Time]]. However, there are limits to this and the existence of a little time dilation here or a past-changing balefire blast there do not indicate that "anything goes" with regards to the passage of time and causality within Robert Jordan's world. As with all other supernatural or pseudo-scientific phenomena, there are fairly clearly defined limits on what is and isn't possible.
+
+==Realms==
+
+===The Physical World===
+
+====The Last Battle and The Pit of Doom====
+During [[Tarmon Gai'don]], time slows in the physical world with a positive correlation to one's proximity to the [[Pit of Doom]], with those closer to the Pit experiencing time much more slowly than those in, say, [[Tear]]. The Last Battle passed over weeks or months in the wider world, while in [[Shayol Ghul]] only days passed, and mere hours passed in the Pit.
+
+====Rhuidean====
+Those who enter [[Rhuidean]] to become [[Wise One|Wise Ones]] and [[Clan chief|clan chiefs]] experience time differently than those outside. However, this may be only because of how time passes in the various [[Ter'angreal|ter'angreal]] and perhaps doesn't indicate any time dilation in the physical world itself. The only known person to enter Rhuidean between the institution of the testing and the dissipation of the mists who didn't use the testing ter'angreal was [[Mat Cauthon]]. He may or may not have experienced time dilation. However, he also entered the realm of the [[Finn|Eelfinn]] while in Rhuidean, rendering his example unhelpful to determining Rhuidean's status as an area containing inherent time dilation. Moreover, there is no evidence whatsoever of Rhuidean time dilation after it is re-inhabited following Rand's original visit, which probably indicates that it was never the physical location that was dilating time.
+
+<blockquote>“Burn me,” Mat muttered hoarsely, “we were in there all night. It’s nearly sunrise. I didn’t think it was that long.”{{ref/book|4|26}}</blockquote>
+
+===Realm of the Finn===
+
+Time functions differently in the [[Finn#Realm|realm]] of the [[Finn|Aelfinn]] and Eelfinn, allowing them to "predict" the future and read the past.
+
+===Tel'aran'rhiod===
+
+Time passes at an ever-changing rate relative to the physical world in [[Tel'aran'rhiod]]. An hour in the physical world may correspond to mere minutes or many days in the dream world, and vice versa.
+
+<blockquote>“I met you here last ten days gone, as it seems to me, and Elayne only a day before. What was it for you?”<br />
+“Four days and three,” Nynaeve muttered.{{ref/book|5|14}}</blockquote>
+
+===Vacuoles===
+
+Time passes at varying rates within pocket-dimensions outside the Pattern known as [[Vacuole]]s.
+
+<blockquote>The only reason anyone would want to enter a vacuole was that time flowed differently there, sometimes slower, sometimes faster. Sometimes much faster. She would not have been entirely surprised to learn that the Great Lord had really imprisoned her for a hundred years, or a thousand, to emerge into a world already his, to make her way feeding among carrion while the other Chosen stood at the pinnacle.{{Ref/book|7|25}}</blockquote>
+
+== Ter'angreal ==
+Several [[Ter'angreal]] are known to alter the flow of time relative to the physical world for those who enter them or at least permit entry to realms that do so. Examples include:
+
+* The ter'angreal used in [[Accepted#Novice_to_Accepted|the tests to become Accepted]] and [[Accepted#Accepted_to_Aes_Sedai|Aes Sedai]]
+* The ter'angreal used in the Aiel [[Aiel#Clan_Chiefs|testing for clan chiefs]] and [[Wise One#Training|Wise Ones]]
+* Any ter'angreal that facilitates entry to either [[Tel'aran'rhiod]] or the realm of the [[Finn|Aelfinn and Eelfinn]], such as the [[Twisted stone ring|twisted stone ring]] and [[Twisted redstone doorframe|twisted redstone doorframes]].
+* [[Stasis box]]es are essentially artificial vacuoles and protect their contents from the passage of time.<ref>[https://www.theoryland.com/intvmain.php?i=183#22 Budapest Q&A Q22]</ref>
+
+== Balefire ==
+
+[[Balefire]] does not permit time travel, but does allow the wielder to undo past events, permanently altering the timeline and erasing all effects of said events except for memories in peoples' minds.
+
+==Time Travel==
+
+Time dilation certainly occurs, travel to the future is possible (it is, after all, what normal people do in the course of living their normal lives), and travel to the past is possible in the sense that time is circular and Ages long past come again. But "conventional" travel to the past has never been conclusively demonstrated in The Wheel of Time, nor has any confirmation of such a possibility been given. The closest [[Robert Jordan]] came to such confirmation was a RAFO:
+
+<blockquote>'''QUESTION:''' There seem to be some time discrepancies surrounding the incident where Elayne and company Traveled to the Kin farm. Did the gateway Aviendha opened to the countryside near the Kin farm at the beginning of The Path of Daggers allow Elayne's party to travel forward or backward in time?<br />
+'''ROBERT JORDAN''': ''*chuckled for a brief moment*'' RAFO.<ref>[https://www.theoryland.com/intvmain.php?i=215#2 KOD Signing Report Q2 NaClH2O]</ref></blockquote>
+
+While time may "pass differently" in, for example, [[Tel'aran'rhiod]], people who enter the world of dreams always enter at a point in the TAR timeline later than when they last left. They also always return to the physical world at some point after they entered TAR.
+
+It is for this reason, along with knowledge of the main story's [[Timeline]] and various statements by Jordan and [[Brandon Sanderson]], that we know that [[Gaidal Cain#Current_Whereabouts|Gaidal Cain]] is neither [[Olver]] nor [[Gadren Grady]].
+
+{{notes}}
+[[Category:Metaphysics]]

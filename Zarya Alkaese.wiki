@@ -1,0 +1,46 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| ewot=Zarya Alkaese
+| nationality=Saldaea
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| eyes=Dark, tilted
+| status=Alive
+| appeared={{acos|23}}
+| lastappeared={{kod|17}}
+| living=kod
+}}'''Zarya Alkaese''' is a [[Saldaea]]n woman and a member of the [[Kin]] in [[Ebou Dar]] who went by the name '''Garenia Rosoinde'''.{{ref|{{twotc}}, Zarya Alkaese}}
+
+==History==
+She is from [[Saldaea]].
+
+With a [[saidar]] strength of {{opsl|19}}, she is very strong in the [[One Power]] by [[Aes Sedai]] standards, and if she had completed her training, she would have been one of the 6 strongest Aes Sedai at the start of the books, matching [[Lelaine Akashi]], [[Romanda Cassin]], [[Moiraine Damodred]], [[Siuan Sanche]], [[Elaida do Avriny a'Roihan]], and only outranked by [[Cadsuane Melaidhrin]]. In the hierarchy among the regular sisters, she would have been the 4th highest, outranked only by Lelaine, Romanda, and Cadsuane, and would have thus only had to defer to them, the Amyrlin, a Sitter, or her ajah head. 
+
+She ran away from the [[White Tower]] as a novice about 70 years ago, and is around 90 years old. She was a [[novice]] for two years with [[Careane Fransi]].
+
+She wanted the Kin to accept [[Wilder|wilders]], and she taught girls who could learn to channel, even though this was forbidden among the Kin.
+
+== Appearance ==
+She has dark tilted eyes and a hooked nose and wide mouth.
+
+==Activities==
+=== Introduction of the Kin ===
+Using the name Garenia Rosoinde, she meets [[Elayne Trakand]] and [[Nynaeve al'Meara]] in her house when [[Setalle Anan]] deposits them there mistaking them for runaway novices. Setalle says that Garenia reminds her of a woman she once knew called Zarya Alkaese. "Garenia" says that it was a great aunt of hers. When Elayne and Nynaeve refuse any help [[Reanne Corly]] sends them on their way.
+
+She is present on the farm when Elayne and Nynaeve arrive with their group and the [[Bowl of the Winds]]. She faints when she spots the [[Aes Sedai]] in the group. She is part of the thirteen women who link up and channel into the Bowl of the Winds to change the weather.
+
+=== Returned to novice white ===
+She is found out to be a runaway by [[Adeleas Namelle]] and is put back into novice white again along with [[Kirstian]], who confessed to also be a runaway novice. The two novices work out that the murderer of Adeleas must have been an [[Aes Sedai]]. Zarya is now solely taught by [[Vandene Namelle]].
+
+She is with Vandene when the Aes Sedai tells Elayne the news of Reanne's death.
+
+{{notes}}
+{{DEFAULTSORT:Alkaese, Zarya}}
+
+[[es:Zarya Alkaese]]
+[[Category:Kinswomen]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Farm Group]]
+[[Category:Channelers]]

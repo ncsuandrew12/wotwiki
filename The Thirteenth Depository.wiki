@@ -1,0 +1,9 @@
+'''The Thirteenth Depository''' is a blog style website, with articles, analysis and indices.
+
+==External links==
+
+* [http://13depository.blogspot.com/ The Thirteenth Depository]
+
+{{Short}}
+{{DEFAULTSORT:Thirteenth Depository, The}}
+[[Category:Reference]]

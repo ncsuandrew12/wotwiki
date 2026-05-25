@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Fan Art
+|License     = GFDL
+| ImageType2 = Character
+|Source      = https://the-wheel-of-art.tumblr.com/post/140386697011/moiraine-vs-lanfear-by-ariel-burgess-illustrated
+|Description = [[Moiraine]] and [[Lanfear]] fan art.
+|Artist      = Ariel Burgess
+}}

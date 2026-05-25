@@ -1,0 +1,87 @@
+{{quote|The Amyrlin Seat has come in person. Better for you if you were a week gone.|[[Lan]] to [[Rand]] during sword practice.}}
+{{for|the symbol of the White Tower|Flame of Tar Valon}}
+
+{{summary | book=2
+|chapter=1
+|prev=The Great Hunt/Prologue
+|title=The Flame of Tar Valon
+|icon=wheel
+|setting=[[Fal Dara]], [[Shienar]]
+}}
+
+==Summary==
+:{{pov|Omni}}
+[[The wind|A wind]] blows from the [[Mountains of Dhoom]] through the [[Great Blight]] to the fortress-city of [[Fal Dara]] in [[Shienar]]. The trees have new growth as spring was late in coming.
+
+:{{pov|[[Rand al'Thor]]}}
+[[Rand al'Thor]] and [[Lan Mandragoran]] are practicing sword fighting in a tower in the middle of Fal Dara. The wind blows so strongly at Rand that he is unable to back away from a thrust by Lan. Lan's practice sword shatters and injures Rand. This is the first known instance of a [[bubble of evil]].
+
+Lan questions Rand on why he hasn't left Fal Dara when he had said he was going to leave a month ago. Rand makes excuses, saying that he needs to learn sword fighting to protect himself. The sword makes him think about his father [[Tam al'Thor|Tam]]; Lan remarks that when a man raises a boy in the [[Borderlands]], he is regarded as the father regardless of birth. Rand learns from Lan that his [[Heron-mark sword]] is power wrought, just like Lan's. It will never dull or rust.
+
+Lan says that Rand has learned well enough that others will believe he has a right to the sword, and he does not have time to learn enough to be a true [[Blademaster]]. So Lan asks again why Rand is not gone. Rand mentions his friends [[Mat Cauthon]] and [[Perrin Aybara]] as well as [[Egwene al'Vere]], and how he may never see them again once they part. Lan presses further and finally Rand admits the real reason - he is hoping [[Moiraine Damodred|Moiraine]] can help him further, but now she refuses to talk to him and frequently goes elsewhere for her own reasons. Lan says that even he cannot question what Moiraine does, but she did in fact return last night.
+
+Lan tells Rand that he is wasting time and should at least resume his practice, but then they hear the sound of trumpets and drums. Rand looks out from the tower and sees banners inscribed with the [[Flame of Tar Valon]] as a large group approaches Fal Dara. Lan says it is the [[Amyrlin Seat]] and that Rand should have left earlier before this could happen. Rand scrambles down the tower, hoping to get away as soon as possible.
+
+==Characters==
+*[[Rand al'Thor]]
+*[[Lan Mandragoran]]
+
+===Referenced===
+*[[Tam al'Thor]]
+*[[Moiraine Damodred]]
+*[[Mat Cauthon]]
+*[[Perrin Aybara]]
+*[[Nynaeve al'Meara]]
+*[[Egwene al'Vere]]
+*[[Ingtar Shinowa]]
+*[[Elayne Trakand]] - as ''Daughter-Heir''
+*[[Siuan Sanche]] - as ''Amyrlin Seat''
+*[[Dark One]]
+*[[Morgase Trakand]] - as ''queen''
+
+==Groups==
+*[[Warder]]s
+
+===Referenced===
+*[[Aes Sedai]]
+*[[Dreadlord]]s
+
+==Places==
+*[[Fal Dara]]
+*[[Shienar]]
+
+===Referenced===
+*[[Mountains of Dhoom]]
+*[[Great Blight]]
+*[[Two Rivers]]
+*[[Borderlands]]
+*[[Tar Valon]]
+*[[Emond's Field]]
+*[[Ways]]
+*[[Malkier]]
+
+==Items==
+*[[Heron-mark sword]]
+
+==Events==
+*[[War of Power]]
+*[[Breaking of the World]]
+
+==Concepts==
+*[[Wheel of Time]]
+*[[One Power]]
+*[[Light]]
+*[[Flame and the Void]]
+
+==Culture==
+*[[Blademaster]]
+*[[Flame of Tar Valon]]
+
+==One Power==
+*[[Power-wrought blade]]s
+
+==Sword Forms==
+*[[Parting the Silk]]
+*[[Heron Wading in the Rushes]]
+
+{{DISPLAYTITLE:''The Flame of Tar Valon''}}

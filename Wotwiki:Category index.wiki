@@ -1,0 +1,227 @@
+The top categories feed into the [[:Category:The Wheel of Time|''The Wheel of Time'']] top-level category. These upper level sub-categories are the main sections of the wiki.
+
+==People==
+
+<br>
+<br>
+<div style="border: 1px solid #AAAAAA; padding:0.5em; background-color:#242424; ">
+<h2>Browse people</h2>
+<table width="100%" style="background: transparent;">
+<tr>
+<td valign="top" width="25%">
+*'''By occupation (Channelers)'''
+**[[:Category:Aes Sedai|Aes Sedai]]
+***[[:Category:Ajahs|by Ajah]]
+***[[:Category:Aes Sedai factions|by faction]]
+***[[:Category:Aes Sedai positions|Highly ranking Aes Sedai]]
+***[[:Category:Tower initiates|Tower initiates]]
+**[[:Category:Asha'man|Asha'man]]
+**[[:Category:Kinswomen|Kinswomen]]
+**[[:Category:Windfinders|Windfinders]]
+**[[:Category:Sul'dam|Sul'dam]]
+**[[:Category:Damane|Damane]]
+
+*'''By occupation (Non-channelers)'''
+**[[:Category:Smiths|Gold, Silver and Blacksmiths]]
+**[[:Category:Entertainers|Entertainers]]
+**[[:Category:Farmers|Farmers]]
+**[[:Category:Healers|Healers]]
+**[[:Category:Innkeepers|Innkeepers]]
+**[[:Category:Local government|Local government]]
+**[[:Category:Merchants|Merchants]]
+**[[:Category:Nobility|Nobility]]
+***[[:Category:Lords|Lords]]
+***[[:Category:Ladies|Ladies]]
+
+</td><td width="25%" valign="top">
+*'''By occupation (Non-channelers)'''
+**[[:Category:Peddlers|Peddlers]]
+**[[:Category:Rulers|Rulers]]
+**[[:Category:Sailors|Sailors]]
+**[[:Category:Servants|Servants]]
+**[[:Category:Ship captains|Ship Captains]]
+**[[:Category:Soldiers|Soldiers]]
+**[[:Category:Warders|Warders]]
+<br>
+*'''By nationality (Westlands)'''
+**[[:Category:Altara|Altarans]]
+**[[:Category:Amadicia|Amadicians]]
+**[[:Category:Andor|Andorans]]
+***[[:Category:Two Rivers|Two Rivers folk]]
+**[[:Category:Arad Doman|Domani]]
+**[[:Category:Borderlands|Borderlanders]]
+***[[:Category:Arafel|Arafellin]]
+***[[:Category:Kandor|Kandori]]
+***[[:Category:Malkier|Malkieri]]
+***[[:Category:Saldaea|Saldaeans]]
+***[[:Category:Shienar|Shienarans]]
+
+</td><td width="25%" valign="top">
+*'''By nationality (Westlands)'''
+**[[:Category:Cairhien|Cairhienin]]
+**[[:Category:Ghealdan|Ghealdanin]]
+**[[:Category:Illian|Illianers]]
+**[[:Category:Murandy|Murandians]]
+**[[:Category:Tarabon|Taraboners]]
+**[[:Category:Tear|Tairens]]
+**[[:Category:City-states|City-States]]
+***[[:Category:Tar Valon|Tar Valoners]]
+***[[:Category:Mayene|Mayeners]]
+***[[:Category:Far Madding|People from Far Madding]]
+
+*'''Nationality/Origin (Non-Westlands)'''
+**[[:Category:Aiel|Aiel]]
+***[[:Category:Aiel clans|by clan]]
+***[[:Category:Aiel warrior societies|by society]]
+***[[:Category:Wise Ones|Wise Ones]]
+**[[:Category:Atha'an Miere|Atha'an Miere]]
+**[[:Category:Seanchan|Seanchan]]
+***[[:Category:The Blood|The Blood]]
+**[[:Category:Tuatha'an|Tuatha'an]]
+**[[:Category:Unknown nationality|Unknown nationality]]
+
+</td><td width="25%" valign="top">
+* '''By sex'''
+** [[:Category:Men|Male]]
+** [[:Category:Women|Female]]
+** [[:Category:Unknown gender|Unknown gender]]
+
+*'''By current status'''
+**[[:Category:Living|Alive]]
+**[[:Category:Deceased|Dead]]
+***[[:Category:Historical|Historical]]
+**[[:Category:Unknown status|Unknown status]]
+
+*'''Non-Human characters'''
+**[[:Category:Ogier|Ogier]]
+**[[:Category:Wolves|Wolves]]
+**[[:Category:Horses|Horses]]
+**[[:Category:Extradimensional entities|Extradimensional entities]]
+**[[:Category:Other non-humans|Other non-humans]]
+
+*'''Other misc. groups'''
+**[[:Category:Darkfriends|Darkfriends]]
+***[[:Category:Forsaken|Forsaken]]
+**[[:Category:Wilders|Wilders]]
+**[[:Category:Wolfbrothers|Wolfbrothers]]
+</td>
+</tr>
+</table>
+</div>
+
+==Places==
+
+
+<br>
+<br>
+<div style="border: 1px solid #AAAAAA; padding:1em; background-color:#242424; ">
+<h2>Browse places</h2>
+<table width="100%" style="background: transparent;">
+<tr>
+<td valign="top" width="34%">
+*'''Nations in the Westlands'''
+**[[:Category:Altara|Altara]]
+**[[:Category:Amadicia|Amadicia]]
+**[[:Category:Andor|Andor]]
+***[[:Category:Two Rivers|Two Rivers]]
+**[[:Category:Arad Doman|Arad Doman]]
+**[[:Category:Borderlands|Borderlands]]
+***[[:Category:Arafel|Arafel]]
+***[[:Category:Kandor|Kandor]]
+***[[:Category:Malkier|Malkier]]
+***[[:Category:Saldaea|Saldaea]]
+***[[:Category:Shienar|Shienar]]
+**[[:Category:Cairhien|Cairhien]]
+**[[:Category:Ghealdan|Ghealdan]]
+**[[:Category:Illian|Illian]]
+**[[:Category:Murandy|Murandy]]
+**[[:Category:Tarabon|Tarabon]]
+**[[:Category:Tear|Tear]]
+**[[:Category:City-states|City-states]]
+***[[:Category:Tar Valon|Tar Valon]]
+***[[:Category:Mayene|Mayene]]
+***[[:Category:Far Madding|Far Madding]]
+
+</td><td width="33%" valign="top">
+*'''Locations outside of the Westlands'''
+**[[:Category:Aiel Waste|Aiel Waste]]
+**[[The Blight]]
+**[[Blasted Lands|The Blasted Lands]]
+**[[:Category:Seanchan continent|Seanchan continent]]
+**[[:Category:Islands of the Atha'an Miere|Islands of the Atha'an Miere]]
+**[[:Category:Shara|Shara]]
+**[[Land of the Madmen]]
+
+*'''Historical nations'''
+**[[:Category:Ten Nations|The Ten Nations]]
+**[[:Category:Nations of the Free Years|Nations of the Free Years]]
+**[[:Category:Former Nations of the New Era|Former Nations of the New Era]]
+
+
+*'''Geographical features'''
+**[[:Category:Mountains|Mountains]]
+**[[:Category:Hills|Hills]]
+**[[:Category:Plains|Plains]]
+**[[:Category:Forests|Forests]]
+**[[:Category:Marshes|Marshes]]
+**[[:Category:Islands|Islands]]
+**[[:Category:Oceans|Oceans and Seas]]
+**[[:Category:Rivers|Rivers]]
+**[[:Category:Other features|Other features]]
+
+</td><td width="33%" valign="top">
+*'''Settlements'''
+**[[:Category:Cities|Cities]]
+***[[:Category:Capitals|Capitals]]
+***[[:Category:City-states|City States]]
+***[[:Category:Ruins|Ruins]]
+**[[:Category:Towns|Towns]]
+**[[:Category:Villages|Villages]]
+
+*[[:Category:Stedding|Stedding]]
+
+
+
+*'''Buildings, Structures and Thoroughfares'''
+**[[:Category:Palaces|Palaces]]
+***[[White Tower|The White Tower]]
+**[[:Category:Inns|Inns]]
+**[[:Category:Other notable buildings|Other notable buildings]]
+**[[:Category:Roads|Roads, Streets and Bridges]]
+
+</td>
+</tr>
+</table>
+</div>
+
+
+==Concepts==
+
+This will likely be merged with Culture.
+
+* [[:Category:Concepts|Concepts]]
+** [[:Category:Prophecies|Prophecies]]
+** [[:Category:Laws and customs|Laws and customs]]
+** [[:Category:Titles|Titles]]
+** [[:Category:Old Tongue|Old Tongue]]
+** [[:Category:One Power|One Power]]
+*** [[:Category:Weaves|Weaves]]
+*** [[:Category:Talents|Talents]]
+** [[:Category:ta'veren|ta'veren]]
+
+==[[:Category:Administrative|Administrative]]==
+* [[:Category:Cleanup|Cleanup]]
+* [[:Category:Help|Help]]
+* [[:Category:Policies|Policies]]
+* [[:Category:Proposals|Proposals]]
+* [[:Category:Redirects|Redirects]]
+* [[:Category:Todo|Todo]]
+** [[:Category:Stubs|Stubs]]
+*** [[:Category:Substubs|Substubs]]
+** [[:Category:Citation needed|Citation needed]]
+
+==See Also==
+* <span class="plainlinks">[{{SERVER}}{{localurl:Special:Allpages|namespace=14}} Currently existing category pages]</span>
+* [[Special:Categories]] — List of all categories currently being ''used'', regardless of whether they yet exist.
+* [[Special:Uncategorizedpages]]
+* [[Special:Uncategorizedcategories]]

@@ -1,0 +1,28 @@
+--<pre>
+----------------------------------------------------------------------------------------------------
+--
+--                         '''Configuration for [[Module:Documentation]]'''
+--
+-- Here you can set the values of the parameters and messages used in [[Module:Documentation]]
+-- to localise it to your wiki and your language. Unless specified otherwise, values given here
+-- should be string values.
+----------------------------------------------------------------------------------------------------
+
+local cfg = {} -- Do not edit this line.
+
+-- -------------------------------------------------------------------------------------------------
+-- Protection template configuration
+-- -------------------------------------------------------------------------------------------------
+
+--- The protection reason for edit-protected templates to pass
+--  to Module:Protection banner.
+cfg['protection-reason-edit'] = 'template'
+
+-- -------------------------------------------------------------------------------------------------
+-- Sandbox notice configuration
+--
+-- On sandbox pages the module can display a template notifying users that the current page is a
+-- sandbox, and the location of test cases pages, etc. The module decides whether the page is a
+-- sandbox or not based on the value of cfg['sandbox-subpage']. The following settings configure the
+-- messages that the notices contains.
+-- ------------------------------------------------------------------------------------------

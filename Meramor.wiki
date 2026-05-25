@@ -1,0 +1,21 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| status=Alive
+| mentioned={{tom|20}}
+| lastmentioned={{tom|20}}
+| living=tom
+}}'''Meramor''' is an [[Aes Sedai]] of the [[Yellow Ajah]].{{ref|{{twotc}}, Meramor}}
+
+==Activities==
+Meramor is one of only three Yellow sisters who accepts [[Nynaeve al'Meara]] as a full sister before she is actually raised.
+
+{{notes}}
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]

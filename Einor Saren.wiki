@@ -1,0 +1,29 @@
+{{ character 
+| image=Questioner2.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Male
+| affiliation=Children of the Light
+| height=Tall
+| rank=Inquisitor
+| occupation=Inquisitor
+| status=Alive
+| appeared={{tgh|5}}
+| lastappeared={{loc|31}}
+| living=loc
+}}'''Einor Saren''' is a [[Whitecloak]] officer and a [[Questioner]] who once served under [[Jaichim Carridin]].{{ref|{{twotc}}, Einor Saren}}
+
+==Appearance==
+He is tall and hook-nosed, with a harsh voice and a look of unalterable certainty on his face.
+
+==Activities==
+In {{ne|998}}, he greets [[Geofram Bornhald]] when he arrives in [[Tarabon]]. He is second in command after [[Jaichim Carridin]].
+
+Saren invites Bornhald and his men to a village that has been "pacified." Bornhald takes that to mean that they have killed all the inhabitants to ensure secrecy. Saren gives them orders to root out Darkfriends on the [[Almoth Plain]] and the men of Bornhald's legion are to be put at the disposal of the [[Hand of the Light]] by orders of [[Pedron Niall]]. Bornhald feels like he is being moved like stones on a board.{{ref/book|2|5}}
+
+In {{ne|999}}, he is used as a messenger by [[Pedron Niall]] to escort [[Morgase Trakand]] to his audience chamber. Saren has a deep contempt for her and "happens" to walk past the place where [[Paitr Conel]] and [[Torwyn Barshaw]], two locals who offered to help her escape the [[Fortress of the Light]], are being hanged as Darkfriends.
+
+Afterwards, he talks with [[Rhadam Asunawa]] about being used like a dog to fetch Morgase and how he felt about to sick up his stomach standing so close to a witch. He wanted to kill her.{{ref/book|6|31}}
+
+{{notes}}
+{{DEFAULTSORT:Saren, Einor}}

@@ -1,0 +1,26 @@
+{{character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| title=Lord
+| affiliation=Dragon Reborn
+| gender=Male
+| appeared={{tpod|21}}
+| lastappeared={{tom|50}}
+| living=tom
+}}'''Amondrid Osiellin''' is a [[Cairhien]]in nobleman.{{ref|{{twotc}}, Amondrid Osiellin}}
+
+==Appearance==
+He is moon-faced.
+
+==Activities==
+He supported [[Colavaere Saighan]] assuming the [[Sun Throne]].
+
+He rides with [[Rand al'Thor]] when Rand's forces attack the invading [[Seanchan]] just outside [[Illian]]. He follows [[Davram Bashere]] into the final assault on the Seanchan.
+
+Queen [[Elayne Trakand]] brings him and a small group of Cairhienin nobles to [[Caemlyn]] where she first demonstrates her newly created [[Dragon]]s. He then witnesses [[Arymilla Marne]], [[Elenia Sarand]], and [[Naean Arawn]] have their lands and titles stripped by Elayne. These lands are offered to [[Bertome Saighan]] and [[Lorstrum Aesnan]] on the condition that they support her ascension to the Sun Throne.
+
+{{notes}}
+{{DEFAULTSORT:Osiellin, Amondrid}}
+[[Category:Nobility]]

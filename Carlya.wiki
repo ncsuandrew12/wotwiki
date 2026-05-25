@@ -1,0 +1,19 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tar Valon
+| occupation=Maid
+| eyes=
+| gender=Female
+| appeared={{tgs|31}}
+| lastappeared={{tgs|31}}
+| living=tgs
+}}
+'''Carlya''' is the name of [[Elaida]]'s maid. 
+
+When Elaida is taken by the [[Seanchan]] and feels the air, her first thought is to blame Carlya for not shutting the window properly.
+
+[[Elayne]] uses a similar alias "Mistress Caryla" aboard the ''[[Darter]]'' and whilst in [[Tear]].{{ref/book|3|48}}
+
+[[Category:Short pages]]

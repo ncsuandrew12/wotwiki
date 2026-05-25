@@ -1,0 +1,20 @@
+{{character 
+| image=Fang-icon.svg
+| imagesize=125px
+| ewothist=Davian
+| status=Dead
+| nationality=Unknown nationality
+| title=False Dragon
+| gender=Male
+| mentioned={{Teotw|14}}
+| lastmentioned={{loc|54}}
+}}
+'''Davian''' was a [[False Dragon]] who was actually able to [[channel]]. 
+
+==History==
+Not much else is known about him, except perhaps at the [[White Tower]]. [[Ishamael]], [[Thomdril Merrilin]] and [[Loial]], three people not affiliated with the Tower, also know about him. In dreams, Ishamael taunted [[Rand al'Thor]] that the White Tower would use him as they used Davian and other False Dragons.{{ref/book|1|14}} Thom, the next morning, believes that Davian was used by the Tower.{{ref/book|1|15}} Loial also knows of Davian.{{ref/book|6|54}} What Loial knows of Davian, however, is unknown as he went on to talk about [[Erith]].
+
+{{notes}}
+[[Category:Historical people]]
+[[Category:Sparkers]]
+[[Category:Stilled|Stilled]]

@@ -1,0 +1,19 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| nationality=Andoran
+| title=
+| occupation=Banker
+| affiliation=
+| gender=Male
+| hair=
+| mentioned={{kod|26}}
+| living=kod
+}}Master '''Hoffley''' is one of the two most prominent bankers in [[Caemlyn]], [[Andor]].{{ref|{{twotc}}, Hoffley, Master}}
+
+[[Halwin Norry]] informs [[Elayne]] that Master Hoffley and Mistress [[Andscale]], another prominent banker, are amenable to loaning her money now that large deposits of first quality alum have been discovered on her estates. They were somewhat hesitant at first, but they both know how big the market for alum is.
+
+{{notes}}
+[[Category:Short pages]]

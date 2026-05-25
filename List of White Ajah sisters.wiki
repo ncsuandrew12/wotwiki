@@ -1,0 +1,7 @@
+[[File:WhiteAjah.png|right|alt=The Flame of Tar Valon with white background.|thumb]]The table below lists all known named members of the [[White Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. It does not contain information about the Amyrlins [[Rabayn Marushta]], [[Beryl Marle]] and [[Aliane Senican]] about which we only know their terms of office.
+
+{{#invoke:Characters|get_characters_wikitable|ajah=white|suppress_verify=true|columns=ajah}}
+{{notes}}
+[[Category:White Ajah]]
+[[Category:Aes Sedai]]
+[[Category:List pages]]

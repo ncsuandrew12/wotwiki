@@ -1,0 +1,14 @@
+{{character 
+| name=Rashan
+| status=Dead
+| occupation=Servant
+| affiliation=
+| gender=Male
+| build=Muscular
+| appeared={{loc|6}}
+| lastappeared={{loc|6}}
+}}
+{{dablink|For the [[Warder]], see [[Rashan]].}}
+'''Rashan''' was one of [[Graendal]]'s [[Compulsion|Compelled]] servants. He waited on [[Graendal]] and [[Sammael]] during their meeting in Graendal's [[Domani]] palace. He was bisected and killed by Sammael's [[Gateway]] when the latter departed.{{ref/book|6|6}}
+{{short}}
+{{notes}}

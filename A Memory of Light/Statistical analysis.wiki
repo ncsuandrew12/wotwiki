@@ -1,0 +1,1097 @@
+<noinclude>See also: [[:Statistical analysis]]</noinclude>
+''[[A Memory of Light]]'' contains 49 chapters, a prologue, and an epilogue and consists of 49 unique POVs and 258 individual POVs. It has a total word count of 353,790 words.
+<noinclude>{{:Statistical analysis}}</noinclude>
+
+==Chapter by Chapter Breakdown==
+{| class="wikitable"
+! Chapter
+! Character
+! Word Count
+! Percentage
+|-
+| rowspan="13" | [[A Memory of Light/Prologue|Prologue: By Grace and Banners Fallen]]
+| Quote
+| align="right" | 103
+| align="right" | 0.029%
+|-
+| [[Bayrd]]
+| align="right" | 2,703
+| align="right" | 0.764%
+|-
+| [[Talmanes]]
+| align="right" | 834
+| align="right" | 0.236%
+|-
+| [[Isam]]
+| align="right" | 2,592
+| align="right" | 0.733%
+|-
+| [[Talmanes]]
+| align="right" | 1,186
+| align="right" | 0.335%
+|-
+| [[Leilwin Shipless]]
+| align="right" | 3,103
+| align="right" | 0.877%
+|-
+| [[Talmanes]]
+| align="right" | 1,097
+| align="right" | 0.310%
+|-
+| [[Aviendha]]
+| align="right" | 2,420
+| align="right" | 0.684%
+|-
+| [[Talmanes]]
+| align="right" | 1,672
+| align="right" | 0.473%
+|-
+| [[Androl Genhald]]
+| align="right" | 3,151
+| align="right" | 0.891%
+|-
+| [[Talmanes]]
+| align="right" | 2,292
+| align="right" | 0.648%
+|-
+| [[Moghedien]]
+| align="right" | 2,462
+| align="right" | 0.696%
+|-
+| [[Talmanes]]
+| align="right" | 1,271
+| align="right" | 0.359%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 1|Ch1: Eastward the Wind Blew]]
+| [[Rand al'Thor]]
+| align="right" | 2,910
+| align="right" | 0.823%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 2,700
+| align="right" | 0.763%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,474
+| align="right" | 0.699%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 2|Ch2: The Choice of an Ajah]]
+| [[Pevara]]
+| align="right" | 3,899
+| align="right" | 1.102%
+|-
+| [[Aviendha]]
+| align="right" | 2,932
+| align="right" | 0.829%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 3|Ch3: A Dangerous Place]]
+| [[Androl Genhald]]
+| align="right" | 2,454
+| align="right" | 0.694%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,443
+| align="right" | 0.408%
+|-
+| [[Pevara]]
+| align="right" | 2,309
+| align="right" | 0.653%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 4|Ch4: Advantages to a Bond]]
+| [[Androl Genhald]]
+| align="right" | 2,516
+| align="right" | 0.711%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,390
+| align="right" | 0.393%
+|-
+| [[Pevara]]
+| align="right" | 2,229
+| align="right" | 0.630%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 5|Ch5: To Require a Boon]]
+| [[Rand al'Thor]]
+| align="right" | 1,402
+| align="right" | 0.396%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 8,411
+| align="right" | 2.377%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 6|Ch6: A Knack]]
+| [[Perrin Aybara]]
+| align="right" | 5,064
+| align="right" | 1.431%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 2,145
+| align="right" | 0.606%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 7|Ch7: Into the Thick of It]]
+| [[Elayne Trakand]]
+| align="right" | 4,602
+| align="right" | 1.301%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 1,299
+| align="right" | 0.367%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 8|Ch8: That Smoldering City]]
+| [[Elayne Trakand]]
+| align="right" | 2,128
+| align="right" | 0.601%
+|-
+| [[Androl Genhald]]
+| align="right" | 1,229
+| align="right" | 0.347%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 9|Ch9: To Die Well]]
+| [[Lan Mandragoran]]
+| align="right" | 2,799
+| align="right" | 0.791%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,851
+| align="right" | 0.523%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,699
+| align="right" | 0.763%
+|-
+| rowspan="5" | [[A Memory of Light/Chapter 10|Ch10: The Use of Dragons]]
+| [[Perrin Aybara]]
+| align="right" | 236
+| align="right" | 0.067%
+|-
+| [[Elayne Trakand]]
+| align="right" | 1,624
+| align="right" | 0.459%
+|-
+| [[Androl Genhald]]
+| align="right" | 483
+| align="right" | 0.137%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 509
+| align="right" | 0.144%
+|-
+| [[Elayne Trakand]]
+| align="right" | 1,937
+| align="right" | 0.547%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 11|Ch11: Just Another Sell-sword]]
+| [[Egwene al'Vere]]
+| align="right" | 1,531
+| align="right" | 0.433%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 3,700
+| align="right" | 1.046%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,149
+| align="right" | 0.607%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 12|Ch12: A Shard of a Moment]]
+| [[Birgitte]]
+| align="right" | 1,045
+| align="right" | 0.295%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,267
+| align="right" | 0.641%
+|-
+| [[Perrin Aybara]]
+| align="right" | 687
+| align="right" | 0.194%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 13|Ch13: What Must Be Done]]
+| [[Egwene al'Vere]]
+| align="right" | 1,567
+| align="right" | 0.443%
+|-
+| [[Elayne Trakand]]
+| align="right" | 1,015
+| align="right" | 0.287%
+|-
+| [[Perrin Aybara]]
+| align="right" | 2,307
+| align="right" | 0.652%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 14|Ch14: Doses of Forkroot]]
+| [[Perrin Aybara]]
+| align="right" | 2,023
+| align="right" | 0.572%
+|-
+| [[Androl Genhald]]
+| align="right" | 2,022
+| align="right" | 0.572%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,979
+| align="right" | 0.559%
+|-
+| [[Androl Genhald]]
+| align="right" | 504
+| align="right" | 0.142%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 15|Ch15: Your Neck in a Cord]]
+| [[Matrim Cauthon]]
+| align="right" | 2,451
+| align="right" | 0.693%
+|-
+| [[Rand al'Thor]]
+| align="right" | 3,016
+| align="right" | 0.852%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 2,489
+| align="right" | 0.704%
+|-
+| rowspan="5" | [[A Memory of Light/Chapter 16|Ch16: A Silence Like Screaming]]
+| [[Loial]]
+| align="right" | 858
+| align="right" | 0.243%
+|-
+| [[Galad Damodred]]
+| align="right" | 356
+| align="right" | 0.101%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,461
+| align="right" | 0.413%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 180
+| align="right" | 0.051%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 2,994
+| align="right" | 0.846%
+|-
+| rowspan="1" | [[A Memory of Light/Chapter 17|Ch17: Older, More Weathered]]
+| [[Matrim Cauthon]]
+| align="right" | 3,588
+| align="right" | 1.014%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 18|Ch18: To Feel Wasted]]
+| [[Gawyn Trakand]]
+| align="right" | 3,461
+| align="right" | 0.978%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 2,014
+| align="right" | 0.569%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,853
+| align="right" | 0.524%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 19|Ch19: The Choice of a Patch]]
+| [[Elayne Trakand]]
+| align="right" | 1,107
+| align="right" | 0.313%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 2,029
+| align="right" | 0.574%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,766
+| align="right" | 0.499%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 20|Ch20: Into Thankan'dar]]
+| [[Egwene al'Vere]]
+| align="right" | 2,566
+| align="right" | 0.725%
+|-
+| [[Aviendha]]
+| align="right" | 3,539
+| align="right" | 1.000%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 21|Ch21: Not a Mistake to Ignore]]
+| [[Siuan Sanche]]
+| align="right" | 1,499
+| align="right" | 0.424%
+|-
+| [[Lyrelle]]
+| align="right" | 2,111
+| align="right" | 0.597%
+|-
+| [[Pevara]]
+| align="right" | 572
+| align="right" | 0.162%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 22|Ch22: The Wyld]]
+| [[Egwene al'Vere]]
+| align="right" | 2,235
+| align="right" | 0.632%
+|-
+| [[Perrin Aybara]]
+| align="right" | 3,545
+| align="right" | 1.002%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 23|Ch23: At the Edge of Time]]
+| [[Gawyn Trakand]]
+| align="right" | 716
+| align="right" | 0.202%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 2,000
+| align="right" | 0.565%
+|-
+| [[Aviendha]]
+| align="right" | 2,728
+| align="right" | 0.771%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,085
+| align="right" | 0.307%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 24|Ch24: To Ignore the Omens]]
+| [[Fortuona]]
+| align="right" | 2,533
+| align="right" | 0.716%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 758
+| align="right" | 0.214%
+|-
+| [[Elayne Trakand]]
+| align="right" | 1,994
+| align="right" | 0.564%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 2,345
+| align="right" | 0.663%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 25|Ch25: Quick Fragments]]
+| [[Siuan Sanche]]
+| align="right" | 739
+| align="right" | 0.209%
+|-
+| [[Rand al'Thor]]
+| align="right" | 821
+| align="right" | 0.232%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 928
+| align="right" | 0.262%
+|-
+| [[Perrin Aybara]]
+| align="right" | 4,182
+| align="right" | 1.182%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 26|Ch26: Considerations]]
+| [[Egwene al'Vere]]
+| align="right" | 3,654
+| align="right" | 1.033%
+|-
+| [[Elayne Trakand]]
+| align="right" | 2,127
+| align="right" | 0.601%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 27|Ch27: Friendly Fire]]
+| [[Gareth Bryne]]
+| align="right" | 1,683
+| align="right" | 0.476%
+|-
+| [[Min Farshaw]]
+| align="right" | 3,113
+| align="right" | 0.880%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 28|Ch28: Too Many Men]]
+| [[Lan Mandragoran]]
+| align="right" | 1,862
+| align="right" | 0.526%
+|-
+| [[Loial]]
+| align="right" | 498
+| align="right" | 0.141%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,551
+| align="right" | 0.438%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 29|Ch29: The Loss of a Hill]]
+| [[Egwene al'Vere]]
+| align="right" | 904
+| align="right" | 0.256%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 1,566
+| align="right" | 0.443%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 4,072
+| align="right" | 1.151%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 30|Ch30: The Way of the Predator]]
+| [[Perrin Aybara]]
+| align="right" | 1,823
+| align="right" | 0.515%
+|-
+| [[Rand al'Thor]]
+| align="right" | 344
+| align="right" | 0.097%
+|-
+| [[Elayne Trakand]]
+| align="right" | 2,309
+| align="right" | 0.653%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 31|Ch31: A Tempest of Water]]
+| [[Egwene al'Vere]]
+| align="right" | 2,126
+| align="right" | 0.601%
+|-
+| [[Rodel Ituralde]]
+| align="right" | 1,515
+| align="right" | 0.428%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 2,339
+| align="right" | 0.661%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 32|Ch32: A Yellow Flower-Spider]]
+| [[Matrim Cauthon]]
+| align="right" | 4,266
+| align="right" | 1.206%
+|-
+| [[Galad Damodred]]
+| align="right" | 1,332
+| align="right" | 0.376%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 33|Ch33: The Prince's Tabac]]
+| [[Perrin Aybara]]
+| align="right" | 1,916
+| align="right" | 0.542%
+|-
+| [[Faile]]
+| align="right" | 3,428
+| align="right" | 0.969%
+|-
+| [[Aviendha]]
+| align="right" | 3,979
+| align="right" | 1.125%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 34|Ch34: Drifting]]
+| [[Rand al'Thor]]
+| align="right" | 334
+| align="right" | 0.094%
+|-
+| [[Perrin Aybara]]
+| align="right" | 534
+| align="right" | 0.151%
+|-
+| [[Faile]]
+| align="right" | 1,829
+| align="right" | 0.517%
+|-
+| [[Aviendha]]
+| align="right" | 1,173
+| align="right" | 0.332%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 35|Ch35: A Practiced Grin]]
+| [[Olver]]
+| align="right" | 1,872
+| align="right" | 0.529%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 757
+| align="right" | 0.214%
+|-
+| [[Faile]]
+| align="right" | 1,399
+| align="right" | 0.395%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 36|Ch36: Unchangeable Things]]
+| [[Nynaeve al'Meara]]
+| align="right" | 887
+| align="right" | 0.251%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 3,485
+| align="right" | 0.985%
+|-
+| [[Perrin Aybara]]
+| align="right" | 274
+| align="right" | 0.077%
+|-
+| rowspan="72" | [[A Memory of Light/Chapter 37|Ch37: The Last Battle]]
+| [[Lan Mandragoran]]
+| align="right" | 736
+| align="right" | 0.208%
+|-
+| [[Elayne Trakand]]
+| align="right" | 2,010
+| align="right" | 0.568%
+|-
+| [[Uno Nomesta]]
+| align="right" | 2,053
+| align="right" | 0.580%
+|-
+| [[Logain Ablar]]
+| align="right" | 1,136
+| align="right" | 0.321%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 847
+| align="right" | 0.239%
+|-
+| [[Tam al'Thor]]
+| align="right" | 1,402
+| align="right" | 0.396%
+|-
+| [[Pevara]]
+| align="right" | 1,612
+| align="right" | 0.456%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 2,516
+| align="right" | 0.711%
+|-
+| [[Galad Damodred]]
+| align="right" | 1,033
+| align="right" | 0.292%
+|-
+| [[Rand al'Thor]]
+| align="right" | 2,663
+| align="right" | 0.753%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,151
+| align="right" | 0.325%
+|-
+| [[Gawyn Trakand]]
+| align="right" | 2,927
+| align="right" | 0.827%
+|-
+| [[Faile]]
+| align="right" | 1,059
+| align="right" | 0.299%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,234
+| align="right" | 0.349%
+|-
+| [[Androl Genhald]]
+| align="right" | 1,338
+| align="right" | 0.378%
+|-
+| [[Rhuarc]]
+| align="right" | 1,411
+| align="right" | 0.399%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,209
+| align="right" | 0.342%
+|-
+| [[Silviana Brehon]]
+| align="right" | 821
+| align="right" | 0.232%
+|-
+| [[Elayne Trakand]]
+| align="right" | 1,612
+| align="right" | 0.456%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,400
+| align="right" | 0.396%
+|-
+| [[Min Farshaw]]
+| align="right" | 1,348
+| align="right" | 0.381%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 171
+| align="right" | 0.048%
+|-
+| [[Demandred]]
+| align="right" | 2,062
+| align="right" | 0.583%
+|-
+| [[Rand al'Thor]]
+| align="right" | 291
+| align="right" | 0.082%
+|-
+| [[Juilin Sandar]]
+| align="right" | 647
+| align="right" | 0.183%
+|-
+| [[Pevara]]
+| align="right" | 2,012
+| align="right" | 0.569%
+|-
+| [[Galad Damodred]]
+| align="right" | 1,410
+| align="right" | 0.399%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 245
+| align="right" | 0.069%
+|-
+| [[Tam al'Thor]]
+| align="right" | 792
+| align="right" | 0.224%
+|-
+| [[Fortuona]]
+| align="right" | 997
+| align="right" | 0.282%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,841
+| align="right" | 0.520%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 603
+| align="right" | 0.170%
+|-
+| [[Tam al'Thor]]
+| align="right" | 1,555
+| align="right" | 0.440%
+|-
+| [[Elayne Trakand]]
+| align="right" | 911
+| align="right" | 0.257%
+|-
+| [[Galad Damodred]]
+| align="right" | 574
+| align="right" | 0.162%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 202
+| align="right" | 0.057%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 2,405
+| align="right" | 0.680%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,007
+| align="right" | 0.285%
+|-
+| [[Galad Damodred]]
+| align="right" | 563
+| align="right" | 0.159%
+|-
+| [[Androl Genhald]]
+| align="right" | 984
+| align="right" | 0.278%
+|-
+| [[Gerard Arganda]]
+| align="right" | 2,323
+| align="right" | 0.657%
+|-
+| [[Rand al'Thor]]
+| align="right" | 1,954
+| align="right" | 0.552%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 602
+| align="right" | 0.170%
+|-
+| [[Olver]]
+| align="right" | 1,756
+| align="right" | 0.496%
+|-
+| [[Leane Sharif]]
+| align="right" | 1,168
+| align="right" | 0.330%
+|-
+| [[Talmanes]]
+| align="right" | 831
+| align="right" | 0.235%
+|-
+| [[Faile]]
+| align="right" | 1,371
+| align="right" | 0.388%
+|-
+| [[Logain Ablar]]
+| align="right" | 791
+| align="right" | 0.224%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 680
+| align="right" | 0.192%
+|-
+| [[Ila]]
+| align="right" | 838
+| align="right" | 0.237%
+|-
+| [[Olver]]
+| align="right" | 842
+| align="right" | 0.238%
+|-
+| [[Logain Ablar]]
+| align="right" | 923
+| align="right" | 0.261%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 797
+| align="right" | 0.225%
+|-
+| [[Hurin]]
+| align="right" | 558
+| align="right" | 0.158%
+|-
+| [[Berelain]]
+| align="right" | 1,503
+| align="right" | 0.425%
+|-
+| [[Rand al'Thor]]
+| align="right" | 502
+| align="right" | 0.142%
+|-
+| [[Mazrim Taim]]
+| align="right" | 1,120
+| align="right" | 0.317%
+|-
+| [[Elayne Trakand]]
+| align="right" | 1,196
+| align="right" | 0.338%
+|-
+| [[Rand al'Thor]]
+| align="right" | 299
+| align="right" | 0.085%
+|-
+| [[Min Farshaw]]
+| align="right" | 1,755
+| align="right" | 0.496%
+|-
+| [[Egwene al'Vere]]
+| align="right" | 1,729
+| align="right" | 0.489%
+|-
+| [[Rand al'Thor]]
+| align="right" | 123
+| align="right" | 0.035%
+|-
+| [[Leane Sharif]]
+| align="right" | 178
+| align="right" | 0.050%
+|-
+| [[Berelain]]
+| align="right" | 202
+| align="right" | 0.057%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,218
+| align="right" | 0.344%
+|-
+| [[Olver]]
+| align="right" | 69
+| align="right" | 0.020%
+|-
+| [[Loial]]
+| align="right" | 423
+| align="right" | 0.120%
+|-
+| [[Tam al'Thor]]
+| align="right" | 257
+| align="right" | 0.073%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 626
+| align="right" | 0.177%
+|-
+| [[Min Farshaw]]
+| align="right" | 70
+| align="right" | 0.020%
+|-
+| [[Rand al'Thor]]
+| align="right" | 101
+| align="right" | 0.029%
+|-
+| [[Lan Mandragoran]]
+| align="right" | 800
+| align="right" | 0.226%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 38|Ch38: The Place That Was Not]]
+| [[Rand al'Thor]]
+| align="right" | 524
+| align="right" | 0.148%
+|-
+| [[Shendla]]
+| align="right" | 65
+| align="right" | 0.018%
+|-
+| [[Rand al'Thor]]
+| align="right" | 449
+| align="right" | 0.127%
+|-
+| [[Loial]]
+| align="right" | 155
+| align="right" | 0.044%
+|-
+| rowspan="10" | [[A Memory of Light/Chapter 39|Ch39: Those Who Fight]]
+| [[Rand al'Thor]]
+| align="right" | 513
+| align="right" | 0.145%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 141
+| align="right" | 0.040%
+|-
+| [[Rand al'Thor]]
+| align="right" | 21
+| align="right" | 0.006%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 100
+| align="right" | 0.028%
+|-
+| [[Rand al'Thor]]
+| align="right" | 37
+| align="right" | 0.010%
+|-
+| [[Olver]]
+| align="right" | 48
+| align="right" | 0.014%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 156
+| align="right" | 0.044%
+|-
+| [[Elayne Trakand]]
+| align="right" | 357
+| align="right" | 0.101%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,370
+| align="right" | 0.387%
+|-
+| [[Olver]]
+| align="right" | 309
+| align="right" | 0.087%
+|-
+| rowspan="5" | [[A Memory of Light/Chapter 40|Ch40: Wolfbrother]]
+| [[Elayne Trakand]]
+| align="right" | 431
+| align="right" | 0.122%
+|-
+| [[Aviendha]]
+| align="right" | 1,298
+| align="right" | 0.367%
+|-
+| [[Elayne Trakand]]
+| align="right" | 529
+| align="right" | 0.150%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 718
+| align="right" | 0.203%
+|-
+| [[Jur Grady]]
+| align="right" | 823
+| align="right" | 0.233%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 41|Ch41: A Smile]]
+| [[Pevara]]
+| align="right" | 628
+| align="right" | 0.178%
+|-
+| [[Moghedien]]
+| align="right" | 1,021
+| align="right" | 0.289%
+|-
+| [[Talmanes]]
+| align="right" | 302
+| align="right" | 0.085%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 42|Ch42: Impossibilities]]
+| [[Aviendha]]
+| align="right" | 1,078
+| align="right" | 0.305%
+|-
+| [[Atal Mishraile]]
+| align="right" | 1,400
+| align="right" | 0.396%
+|-
+| [[Pevara]]
+| align="right" | 368
+| align="right" | 0.104%
+|-
+| [[Aviendha]]
+| align="right" | 551
+| align="right" | 0.156%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 43|Ch43: A Field of Glass]]
+| [[Logain Ablar]]
+| align="right" | 838
+| align="right" | 0.237%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,261
+| align="right" | 0.356%
+|-
+| [[Rand al'Thor]]
+| align="right" | 381
+| align="right" | 0.108%
+|-
+| [[Aviendha]]
+| align="right" | 441
+| align="right" | 0.125%
+|-
+| rowspan="2" | [[A Memory of Light/Chapter 44|Ch44: Two Craftsmen]]
+| [[Perrin Aybara]]
+| align="right" | 2,327
+| align="right" | 0.658%
+|-
+| [[Thom Merrilin]]
+| align="right" | 1,623
+| align="right" | 0.459%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 45|Ch45: Tendrils of Mist]]
+| [[Matrim Cauthon]]
+| align="right" | 418
+| align="right" | 0.118%
+|-
+| [[Shaisam]]
+| align="right" | 573
+| align="right" | 0.162%
+|-
+| [[Gaul]]
+| align="right" | 896
+| align="right" | 0.253%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 1,115
+| align="right" | 0.315%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 46|Ch46: To Awaken]]
+| [[Rand al'Thor]]
+| align="right" | 143
+| align="right" | 0.040%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 244
+| align="right" | 0.069%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,944
+| align="right" | 0.549%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 479
+| align="right" | 0.135%
+|-
+| rowspan="4" | [[A Memory of Light/Chapter 47|Ch47: Watching the Flow Writhe]]
+| [[Aviendha]]
+| align="right" | 417
+| align="right" | 0.118%
+|-
+| [[Shaisam]]
+| align="right" | 269
+| align="right" | 0.076%
+|-
+| [[Perrin Aybara]]
+| align="right" | 415
+| align="right" | 0.117%
+|-
+| [[Rand al'Thor]]
+| align="right" | 500
+| align="right" | 0.141%
+|-
+| rowspan="5" | [[A Memory of Light/Chapter 48|Ch48: A Brilliant Lance]]
+| [[Elayne Trakand]]
+| align="right" | 150
+| align="right" | 0.042%
+|-
+| [[Thom Merrilin]]
+| align="right" | 61
+| align="right" | 0.017%
+|-
+| [[Min Farshaw]]
+| align="right" | 85
+| align="right" | 0.024%
+|-
+| [[Aviendha]]
+| align="right" | 155
+| align="right" | 0.044%
+|-
+| [[Logain Ablar]]
+| align="right" | 345
+| align="right" | 0.098%
+|-
+| rowspan="3" | [[A Memory of Light/Chapter 49|Ch49: Light and Shadow]]
+| [[Perrin Aybara]]
+| align="right" | 1,057
+| align="right" | 0.299%
+|-
+| [[Rand al'Thor]]
+| align="right" | 421
+| align="right" | 0.119%
+|-
+| [[Moiraine Damodred]]
+| align="right" | 162
+| align="right" | 0.046%
+|-
+| rowspan="16" | [[A Memory of Light/Epilogue|Epilogue: To See the Answer]]
+| [[Rand al'Thor]]
+| align="right" | 175
+| align="right" | 0.049%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 184
+| align="right" | 0.052%
+|-
+| [[Perrin Aybara]]
+| align="right" | 1,015
+| align="right" | 0.287%
+|-
+| [[Loial]]
+| align="right" | 844
+| align="right" | 0.239%
+|-
+| [[Matrim Cauthon]]
+| align="right" | 327
+| align="right" | 0.092%
+|-
+| [[Perrin Aybara]]
+| align="right" | 167
+| align="right" | 0.047%
+|-
+| [[Moghedien]]
+| align="right" | 402
+| align="right" | 0.114%
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 467
+| align="right" | 0.132%
+|-
+| [[Perrin Aybara]]
+| align="right" | 631
+| align="right" | 0.178%
+|-
+| [[Birgitte]]
+| align="right" | 352
+| align="right" | 0.099%
+|-
+| [[Tam al'Thor]]
+| align="right" | 259
+| align="right" | 0.073%
+|-
+| [[Min Farshaw]]
+| align="right" | 178
+| align="right" | 0.050%
+|-
+| [[Rand al'Thor]]
+| align="right" | 434
+| align="right" | 0.123%
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 177
+| align="right" | 0.050%
+|-
+| [[Rand al'Thor]]
+| align="right" | 663
+| align="right" | 0.187%
+|-
+| Quote
+| align="right" | 182
+| align="right" | 0.051%
+|}
+
+
+[[Category:Statistical analysis]]

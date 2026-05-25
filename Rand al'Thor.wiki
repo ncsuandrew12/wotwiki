@@ -1,0 +1,222 @@
+{{Featuredicon}}
+{{character 
+| image=Rand al'thor by reddera-d761cuv (1).jpg
+| imagesize=250px
+| ewot=rand
+| birth=2 [[Danu]] {{Ne|978}}
+| status=Alive
+| nationality=Andoran
+| title=Dragon Reborn, ''Coramoor'', ''Car'a'carn'', He Who Comes With the Dawn, Shadowkiller, King of Illian, Lord of the Morning
+| rank=King
+| gender=Male
+| height=6' 6", 198cm
+| weight= 235 lbs, 16 st 11 lbs, 106.6 kg
+| hair=Dark red
+| eyes=Gray-blue
+| mentioned={{ns|2}}
+| appeared={{teotw|Ravens}}
+| lastappeared={{amol|e}}
+| living=amol
+|build = Muscular}}{{for|others with the same surname|al'Thor}}
+
+<!-- TODO: Migrate this quote to the database -->
+{{quote|He came like the wind, like the wind touched everything, and like the wind was gone.|from ''[[The Dragon Reborn]]''. By [[Loial]], son of Arent, son of Halan, the [[Fourth Age]]{{ref/book|14|epilogue}}}}
+
+{{WotQ|Rand}} <!-- TODO: Fix {{PAGENAME}} -->
+
+{{April1
+ |joke='''Randall Thor''' is a {{Wiki|Thor|hammer-wielding}} {{Link |url=https://disney.fandom.com/wiki/Randall_Boggs |text=purple chameleon}}.
+ |real='''Rand al'Thor''' is the [[Dragon Reborn]], the [[champion of the Light]] in the battle against the [[Dark One]], and one of the main protagonists of the series.}}
+
+He, together with [[Mat Cauthon]] and [[Perrin Aybara]], was a strong ''[[ta'veren]].''  
+
+== Appearance ==
+Rand was very tall - 6'6" or 198 cm in height.{{ref/book|c|Rand al'Thor|comp}} He had blue-gray eyes and coppery red hair,{{ref/book|1|1}}{{ref||comp}} both features of his Aiel heritage. He was broad-shouldered and slender, but muscular.
+
+His appearance changed throughout the series. By the time of [[Winter's Heart]], for example, his hair was in "dark, reddish curls that hung to his neck".{{Ref/book|9|12}} Other physical changes occur in the form of injuries or permanent marks. His palms have brands in the shape of a heron and his forearms are covered by two scarlet and gold [[dragon]] tattoos that mark him as the Car'a'carn. He had a wound that would not heal in its side, although this was not visible when fully clothed. He also lost his left hand to a fireball thrown by [[Semirhage]].{{ref/book|11|27}}
+
+Most of this description does not apply to his new body after his consciousness moved from his original body to the body used by [[Ishamael]] in his [[Moridin]] incarnation.
+
+== Channeling abilities ==
+At level {{opsl|1}}, Rand al'Thor was as strong in the One Power as it is possible to be.{{ref||comp}} The only known channelers of the same strength were the Forsaken [[Ishamael]] and [[Rahvin]].{{ref/book|c|Ishamael}}{{ref/book|c|Rahvin}}[[File:Rand 2.jpg|thumb]]
+
+Aside from raw strength, his skill in the One Power may have been unsurpassed. There are many examples of this prowess; in the Stone of Tear, he effortlessly held [[Egwene al'Vere]] and [[Elayne Trakand]] captive in [[shield]]s while weaving over a dozen other flows.{{ref/book|4|7}} Later, this ability to split flows is even greater, notably at the [[Shadowspawn]] attacks at [[Algarin Pendaloan]]'s manor and [[Maradon]], where [[Naeff]] is unable to track the number of weaves created by Rand.{{ref/book|13|32}}
+
+It was implied that he was particularly strong in both [[Five Powers|Fire and Spirit]]. He could force his dreams on others, which requires strength in Spirit. He could also create weaves of Fire without much trouble at all.{{ref/book|4|7}} Although he learned much from the Forsaken [[Asmodean]], he still lacked some areas of knowledge that might be considered basic among male channelers of the Age of Legends. [[Mazrim Taim]], for example, expressed surprise that he did not know how to detect the ability to channel in another man, yet knew how to [[Travel]].{{Ref/book|6|1}} As he merged more with Lews Therin, he drew closer to the level of knowledge possessed by the Dragon in the Age of Legends.
+
+In addition to his own natural strength, he had several ''angreal'' and ''sa'angreal'' that boosted his strength considerably.
+
+At times, Rand could also channel the [[True Power]].
+
+Following his transference to the [[Moridin]] body, Rand is no longer able to channel either the [[One Power]] or the True Power.{{ref/book|14|e}}
+
+==Family and Ancestry==
+
+{{RandElayneFamilyTree}}
+
+Rand was introduced as the son of [[Tam al'Thor]] and [[Kari al'Thor]] (who died when Rand was five years old{{verify}}), being born within weeks of [[Perrin Aybara]] and [[Mat Cauthon]] in [[978 NE]].{{ref/book|1|8}} His family were farmers and lived on a farm in the [[Westwood]] near [[Emond's Field]].  
+
+Following the [[Shadowspawn]] attack on their farm on [[Winternight]], Tam revealed in his feverish mumblings that the al'Thors are not Rand's birth parents and that Rand was born to an [[Aiel]] [[Far Dareis Mai|spearmaiden]] on the slopes of [[Dragonmount]], where he was rescued by Tam.{{ref/book|1|6}} However, aside from the fact that the al'Thors are not his birth parents, it is unclear at which points Rand actually understood and believed the various revealed facts. Throughout the series, Rand gradually discovered more about his heritage. [[File:Rand3.jpg|thumb|left|The Dragon Reborn by Seumas Gallagher]] At [[Fal Dara]], [[Moiraine Damodred]] confirmed that Tam had found Rand on Dragonmount.{{ref/book|2|8}} In the [[Aiel Waste]], Rand discovered that his biological father was [[Janduin]] of the [[Iron Mountain]] [[Taardad]] Aiel and clan chief of the Taardad. His mother was "Shaiel", which means "she who is dedicated" in the [[Old Tongue]], a Wetlander that appeared in the Aiel Waste six years before Rand was born. His mother and father were never married, even after Shaiel fell pregnant, as she refused to give up the spear.{{ref/book|c|Tigraine Mantear}} [[Seana]] told Rand that he more resembles his mother than his father.{{Ref/book|4|34}} 
+
+After conquering [[Caemlyn]] and holding court with Andoran nobles, their strange reactions to him prompt him to ask questions. [[Dyelin Taravin]] told him that he bore a striking resemblance to the former [[Daughter-Heir]], [[Tigraine Mantear]]. Dyelin's father blamed Tigraine's disappearance on [[Mordrellen Mantear|Queen Mordrellen]]'s advisor, [[Gitara Moroso]], who seemed to spend more time with Tigraine and her brother [[Luc]] than with the queen. Gitara had convinced both Mordrellen's children to leave Andor, which indirectly brought about the [[Succession Wars|Third Andoran War of Succession]] when shortly thereafter a grief-stricken Mordrellen died without an heir. Later, [[Elenia Sarand]] explained to Rand that, although the Andoran Houses are all related and are "royal cousins," [[Morgase]] and Tigraine would not be considered related at all. From this, Rand deduced that he and [[Elayne Trakand]] are not related by blood.{{Ref/book|6|26}}
+[[File:Wot rand al thor by reddera-d4pa4fe.jpg|thumb|302x302px|Rand Al'Thor Artwork by Ariel Burgess Official Wheel of Time Artist]]
+Beyond his parents, Rand's known family include:
+* [[Luc Mantear]]: Rand's uncle.
+* [[Galadedrid Damodred]]: Rand's half-brother.
+* [[Mordrellen Mantear]]: Rand's grandmother.
+* [[Dolera Mantear]]: Rand's great-grandmother.
+
+Given the comments by Elenia mentioned above, he is related in some fashion to ''all'' the Andoran nobles, if sometimes distantly, including Elenia herself, through their common descent from [[Ishara Casalain|Queen Ishara]].{{Ref/book|6|26}}
+
+Some other major figures share no meaningful blood relation with Rand, but are nonetheless closely connected to him:
+* [[Taringail Damodred]]: his mother's ex-husband.
+* [[Moiraine Damodred]]: Taringail's half-sister.
+* [[Lan Mandragoran]]: cousin to Isam, who shares a body with Luc.
+
+During Rand's [[Visions of Rhuidean|visions]] in the [[Rhuidean]] ''[[ter'angreal]]'', he sees the lineage of his very distant ancestors. [[Mandein]], the most recent of these, however, lived nearly 3000 years ago,{{ref/book|c|Rhuidean}} only twelve generations from the drilling of the [[Bore]] and less since the beginning of the [[Breaking of the World]]. This is long enough for the principle of {{Wiki|Most recent common ancestor|most recent common ancestor}} to apply and this lineage could be shared by ''all'' living Aiel.{{ref/book|4|25}} However, [[Rhuarc]] claims that different contemporary clan chiefs have witnessed partially different events through partially different individuals and concludes that the visions are of one's ancestors.{{ref/book|4|34}} Thus, the precise effect of one's ancestry on the specific visions witnessed is not completely clear.
+
+{{Ancestry/Rand|1==== Aiel ancestry of Rand al'Thor ===
+<nowiki />}}
+
+==Relationships==
+
+{{Quote|Do you love both of them?"
+"Maybe I do. Light help me, I think maybe I do. Does that make me a lecher, Min, or just a greedy fool?|Min and Rand, {{6|41}}}}[[File:A Memory of Light Sketch.jpg|thumb|left|Original artwork for A Memory of Light showing Rand's three lovers at his funeral pyre.]]He grew up together with Mat Cauthon and Perrin Aybara in [[Emond's Field]] where they got into trouble quite a bit, with Mat generally being the force behind it. Early on, [[Egwene al'Vere]] seemed to be his love interest and it was assumed by both them and others in Emond's Field that they would marry when both came of age. He also knew [[Nynaeve al'Meara]] from childhood. During the events of the story, he met his [[Two Rivers]] friends on various occasions.
+
+During the series, Rand fell in love with three different women - [[Min Farshaw]], [[Elayne Trakand]], and [[Aviendha]] - who eventually bond him. [[Alanna Mosvani]] also bonded him, though without his foreknowledge and against his will. Elayne became pregnant with Rand's twin children.{{ref/book|9|12}}{{ref/book|9|26}} According to Min's viewings, Aviendha will have four children from him, all at once. {{ref/book|9|12}} Min's significance is clear well before the Last Battle.
+
+"Rand put his arm around [Min's] waist. Light, what would he have done without her? ''I'd have fallen'', he thought. During the dark months... ''I'd have fallen for certain.''"{{Ref/book|14|18}}
+
+He is advised mostly by [[Cadsuane Sedai]], and the Wise One [[Sorilea]]. They pledged to teach him "laughter and tears." He was also advised by [[Moiraine Damodred]] before and after her captivity in [[Sindhol]].
+
+===Connection with Moridin===
+
+[[File:Wot card teasers moridin by reddera-d4dz4ri.jpg|right|thumb|Moridin by official Wheel of Time artist Ariel Burgess.]]During Rand's battle with [[Sammael]] in Shadar Logoth, a mysterious figure only identified as "The Watcher", but later revealed to be [[Moridin]], helped Rand when a floor collapsed beneath him. When a wave of [[Mashadar]] threatened them both, they simultaneously wove bars of [[balefire]] to destroy it. The balefire streams crossed, shattering Rand's void and briefly giving Rand a ringing headache and double vision. Since Rand did not sense ''saidin'' when Moridin wove balefire, the other stream was woven with the [[True Power]].{{ref/book|6|41}}
+
+A side effect of this event was that Rand and Moridin became linked in body and soul. Rand began to see another face in his mind's eye and Lews Therin referred to the presence of three men and that each of them were "destroyers."{{verify}} The effect was mirrored in Moridin, who could feel whenever Rand was injured. This overlapping in consciousness increased with time with Moridin being able to speak to Rand. Eventually, this led to a consciousness swap where Rand inhabited Moridin's body and Moridin inhabited Rand's. This allowed Rand to live on after his battle with the Dark One. Meanwhile, Rand's old body - along with the consciousness of Moridin, who wanted to die - was burned with the assumption that it was that of the Dragon Reborn.
+
+==Figure of Prophecy==
+Rand al’Thor is the current reincarnation of the soul of [[Lews Therin Telamon]], also known as the [[Dragon]]. 
+
+Many cultures have prophecies concerning his return and the end of the [[Third Age]]. In the Westlands, they are generally known as the [[Karaethon Cycle]], or more simply ''The Prophecies of the Dragon'', and are translated from the [[Old Tongue]], with several translations mentioned throughout the series. 
+
+The Aiel have prophecies concerning the [[Car'a'carn]], or "He who comes with the dawn", which are held above the Prophecies of the Dragon as they pertain more to the Aiel people. There is likely some awareness of the Prophecies of the Dragon among the Aiel as they appear to be a highly literate people who purchase written material from peddlers passing through the [[Aiel Waste]], but they do not associate the Dragon with the Car'a'carn. Nor do they place much importance on the Dragon Reborn, generally dismissing it as a "wetlander prophecy".{{ref/book|4|3}} Rand just happens to be both of these figures at the same time.
+
+The [[Atha'an Miere]] have the [[Jendai Prophecies]] that concern the [[Coramoor]]. Among other things, they said that the Atha'an Miere would not return to the land until the Coramoor came to herald in a new Age. Like the Aiel, they do not associate the Coramoor with being the same as the Dragon Reborn. The Jendai Prophecies are not specified in detail, but include some connection with the city of Tear, Aes Sedai serving him, and the White Tower being broken by his name.{{Ref/book|4|19}} The Atha'an Miere also seem to be aware of his coming long before the taking of the Stone of Tear - or even the [[Battle of Falme]] - as a recent surge in activity is noted in [[Fal Dara]] by [[Anaiya Carel]] as being related to the coming of the Chosen One. She obtained this information from the few Atha'an Miere Aes Sedai, who were otherwise tight-lipped on the subject.{{Ref/book|2|4}} Given that this occurred around the same time that Taim and the unnamed Tairen false Dragon were defeated, the Atha'an Miere likely perceived some sort of prophetic fulfilment around the time of Rand's confrontation with Ba'alzamon at Tarwin's Gap.
+
+The [[Seanchan]] have their own prophecies similar to the Prophecies of the Dragon which they call the [[Essanik Cycle]].{{Ref/book|12|35}} How they differ from the prophecies in the Westlands is unknown. They may have been known in the Westlands at some point, but the knowledge was lost over time, or may be native to that part of the world and discovered or predicted after the arrival of [[Luthair Paendrag Mondwin]] to the continent. Alternatively, they may have spawned from the Karaethon Cycle as it was known in the time of Hawkwing and been changed, mistranslated or altered for political reasons. It is also possible that these prophecies are more accurate and it was the Westlands one that became corrupted; this is the Seanchan belief. The most obvious difference is that their versions say that the Dragon Reborn will kneel to the [[Crystal Throne]] before [[Tarmon Gai'don]]. Another option is that successive generations of functionaries "amended" the originals in order to please the Emperor/Empress at the time. A third option still is that both version of the prophecies have changed over time and the divergence just became greater with an ocean and a millennium separating the two.
+
+Lastly, the [[Amayar]] had their own prophecies about what they call the end of the [[Time of Illusion]] that they viewed as fulfilled by the activation of the [[Choedan Kal]] on [[Tremalking]] during the [[cleansing of saidin]]. This prophecy is not known to prophesy the coming of Rand, but his use of the male Choedan Kal was the cause of the fulfillment of their prophecy, leading to the {{Wiki|mass suicide}} of their entire people.
+
+===Rebirth and Parentage===
+{{quote|He is born again! I feel him! The Dragon takes his first breath on the slopes of Dragonmount! He is coming! He is coming! Light help us! Light help the world! He lies in the snow and cries like the thunder! He burns like the sun!|[[Gitara Moroso]], [[Keeper of the Chronicles]]{{ref/book|0|2}}}}
+
+Rand was born according to prophecy on the slopes of [[Dragonmount]] on 2 [[Danu]] {{Ne|978}} on the last day of the Battle of the [[Blood Snow]] at the end of the [[Aiel War]]. [[File:Gitara Moroso.jpg|thumb|left|150px|Gitara Moroso Foretells the birth of the Dragon Reborn. (from New Spring graphic novel)]] At the moment of his birth, the [[Keeper of the Chronicles]] [[Gitara Moroso]] shouted out in a brief moment of [[Foretelling]], prophesying the coming of [[Tarmon Gai'don]]. His mother, [[Shaiel]], died in childbirth and the abandoned newborn was rescued by [[Tam al'Thor]] to eventually be raised in the [[Two Rivers]]. His father [[Janduin]], distraught at the death of Shaiel and loss of his baby, gave up his position as clan chief of the [[Taardad]] Aiel and went to seek a glorious death in the [[Blight]], where he was killed by a man resembling Shaiel. This man was, in fact, Shaiel's brother Luc Mantear, otherwise known as [[Slayer]].{{ref/book|6|16}}
+
+Rand was brought up in the Two Rivers without knowing his true origin until he overheard Tam speaking during a fever following an injury sustained in an attack on his farm. His adopted mother, [[Kari al'Thor]], died when Rand was five years old.
+
+===Bound to the Wheel===
+Rand al’Thor is the current reincarnation of the soul of [[Lews Therin Telamon]] who was first named [[Dragon]] during the [[War of Power]] in the [[Age of Legends]]. The concept of being "bound to the Wheel" was mentioned by [[Artur Hawkwing]], and later [[Birgitte Silverbow]], is a concept distinct from being the Dragon and is related to the [[Horn of Valere|Heroes of the Horn]] spun out to "fight the Shadow."{{ref/book|2|47}}{{ref/book|5|52}}{{ref/book|6|40}} The Dragon and Dragon Reborn are two specific incarnations of this bound soul. According to Robert Jordan himself: "This soul is one of the Heroes, and bound to the Wheel, spun out as the Pattern wills. "It" is born in other Ages, but in a non-Dragon incarnation, to suit the pattern of that Age."{{ref/tidb|86|3}}
+
+[[Ishamael]] claimed to have "divined secrets" regarding this pattern of rebirth.{{ref/book|6|6}} What these might be, or whether they existed at all (Ishamael and Moridin are both considered insane) is unknown. He claimed to have knowledge of having faced Lews Therin "a thousand times a thousand," although he may not have any knowledge or memories of those Turnings other than their existence.{{ref/book|1|p}}{{ref/book|2|41}} It's possible that one of those secrets is that, in order for the Shadow to win, the Dragon must turn to the Shadow of his own free will. During the lives lived out by Rand in the [[Portal Stone]], Rand fails, but never turns to the Shadow.{{ref/book|2|37}} It should be noted, however, that these are ''parallel'' lives, and not ''previous'' lives. Robert Jordan makes the following analogy:
+
+"Imagine two tapestries hanging on a wall, and you look at them from the back of the room to the front of the store. And to look at them, they look identical to you. But as you get closer, you begin to see differences. And if you get close enough, they don't look anything at all alike. That is the difference between the Ages. Between the Age in one Turning and the Age in another. So it's quite possible that ''someone other than Rand'' could be the reborn soul of the Dragon Reborn."{{ref/tidb|131|20}}
+
+Note that this is a different person, but the same soul. In the Portal Stone lives, Rand is always the Dragon Reborn. It could also be the case that the whole setup was manipulated by Ishamael in order to convince the Dragon Reborn to join the Shadow. 
+
+Lastly, although there are other prophecies about the [[the Wolf King|Wolf King]] and the [[Karaethon Cycle|Fox]], there is no indication that these souls are bound to the Wheel in the same way, not least because Hawkwing does not address Mat or Perrin in the same terms as "Lews Therin". This is a further differentiation between ''ta'veren'', prophecy, and what it is meant to be "bound to the Wheel". Birgitte, for example, is not ''ta'veren'', but is bound to the Wheel.
+
+==Rand, Lews Therin and Madness==
+
+[[File:Wot lews therin telamon by manweri-d8hkerk.jpg|350px|left|Lews Therin Telemon in his final moments of madness.]]Given the nature of the [[Taint]], it was inevitable that Rand would suffer from madness in the same way all male channelers have since the Breaking of the World. It is also known that Rand is the Dragon Reborn and hence the reincarnation of Lews Therin Telamon. For some readers, and Rand himself, there was a question of whether or not the voice of Lews Therin was something real or simply a symptom of ''saidin''-induced madness. [[Cadsuane Melaidhrin]] asked Rand if he has started hearing voices yet, something that she has presumably had experience with with the many male channelers she has encountered in her life. [[Semirhage]] too seemed to know that Rand was hearing the voice of Lews Therin and, although she suggested such a voice may be real, indicated that it being real would make reintegration more difficult.{{Ref/book|11|27}}
+
+Various pieces of evidence can be combined to suggest that Rand has memories of the Dragon or has new skills that he did not have before Lews Therin appeared in his mind. These include, but are not limited to:
+
+* Information about the Forsaken such as their real names, atrocities they performed, character, preferred tactics, etc
+* Memories of other people known to Lews Therin, such as the image of [[Ilyena Therin Moerelle|Ilyena]]'s face
+* References to places such as the [[Can Breat]] unknown to anyone in the [[Third Age]]
+* Memories of Lews Therin's childhood
+* New abilities possessed by Lews Therin but not by Rand, such as the ability to draw life-like sketches. 
+* Age of Legends terms for instead of the Third Age terms eg. "web" instead of "weave", "shield" instead of "ward".{{Ref/book|10|24}}
+* Many types of weaves that he did not learn from Asmodean eg those woven at Lord [[Algarin Pendaloan]]'s manor against the Shadowspawn{{Ref/book|11|19}}
+* He recognized Semirhage's face when Cadsuane broke the Mask of the Mirrors disguising her.{{Ref/book|11|27}}
+* Exhibiting habits and tics that were Lews Therin's and not his, such as humming or thumbing his ear when looking at attractive women{{verify}}
+
+A skeptic, however, may say this is part of a complex hallucination or inferred from other information. This cannot not be true, however, as Rand is able to recall facts such as Sammael's real name, Tel Janin Aellinsar. Rand thinks to himself that "No history recorded the name, no fragment in the library at Tar Valon; Moiraine had told him everything the Aes Sedai knew of the Forsaken".{{Ref/book|5|45}} His mental image of Ilyena's golden hair matches the women we see killed in [[The Eye of the World/Prologue|the opening of the whole series]].{{Ref/book|1|p}} The Forsaken use the term "web" rather than weave in their point of view.{{Ref/book|9|35}} Lews Therin also makes astute observations about the identity of the [[Moridin|third man]] inside their head before Rand is even aware of him. Even harder to dispute is the sudden ability to draw portraits to assist Rand in the search for the renegade Asha'man.{{Ref/book|9|32}}
+
+It should also be noted that Rand did not generally have all of Lews Therin's memories and that he gained more memories as the series progressed. He did not, for example, recognise Lanfear nor Asmodean face to face. However, this changed with the reintegration atop [[Dragonmount]].
+
+Whether Rand possessed (at least part of) Lews Therin's knowledge is a subtly different to whether the voice in Rand's head was real or not. This is less easy to prove. After Nynaeve discovered that she could Heal the Taint-induced madness of the Asha'man {{ref|[[Healing#Healing attempt on Rand's madness]]}} she Delved Rand for madness, and she discovered that the entirety of his mind was so heavily covered with the web of tiny thorns of blackness that it seemed impossible to her to remove. She was surprised by Rand's ability to even ''think'' with that in his brain. She also, however, discovered that there was a protective glowing white insulation between the web of thorns and his brain. ''"Light given form and life. Coated each of the dark tines, driving into Rand's mind alongside them."''{{Ref/book|13|15}} This implies that Rand received some kind of protection from the Taint that should have long ago driven him to madness and, going further, could be interpreted to mean that Lews Therin could not be a product of a madness whose cause is the Taint. Indeed, after Rand's epiphany on Dragonmount, he has the realization that he and Lews Therin are one. After that point, the merging of both personalities and memories is complete and he no longer hears the voice. When he meets with Egwene in the White Tower, he states that he can remember Lews Therin's life "as a clear dream."
+
+==Chronology==
+
+For a full chronology concerning the activities of Rand al'Thor ordered by book see [[Rand al'Thor/Chronology]].
+[[File:Rand loses hand.jpg|thumb|243x243px|Rand loses his hand]]
+
+== Viewings ==
+*A sword that isn't a sword (''fulfilled'' - refers to ''Callandor'').
+*A golden crown of laurel leaves (''fulfilled'' - he now rules Illian, accepted the Laurel Crown, and renamed it the Crown of Swords).
+*A beggar's staff (''fulfilled'' by his visit to Ebou Dar).
+*Pouring water on sand (''fulfilled'' - refers to when Rand creates rain in the Aiel Waste, or to opening an underground river at Rhuidean, or may refer to the attempted healing of the wound on his side, of which the flows of power sink into it "like water into sand", or may refer to the Prophecy of Rhuidean that mentions him spilling the blood of the Aiel "as water on sand").
+*A bloody hand and a white hot iron (partially fulfilled with Semirhage blowing his hand off, the other half could refer to Semirhage's death as balefire is often described as a bar of white hot iron).
+*Three women standing over a funeral bier with Rand on it (the three women are Min, Aviendha and Elayne).
+*Black rock wet with blood (Clear reference to the [[Karaethon Cycle]] -"His blood on the rocks of Shayol Ghul, washing away the shadow, sacrifice for man's salvation."-).
+*Rand will be hurt by Aes Sedai (''fulfilled'' refers to when the White Tower Aes Sedai captured Rand, kept him in a box and beat him).
+*Dragonmount is seen cloaked in shadows from storm clouds, then a pinprick of light will burst through the storm cover (''fulfilled'' - refers to the land covered in clouds and Rand having his epiphany).
+*An open cavern, gaping like a mouth (could refer to the Bore).
+*Bloodstained rocks (''fulfilled'' - his old wound opening at Shayol Ghul and spilling blood onto the rock).
+*Two dead men on the ground, surrounded by ranks and ranks of Trollocs (a reference to Lan and Demandred, laying on the ground, after their fight).
+*A pipe with smoke curling from it. (''fulfilled'' - signified Rand's ability to channel being replaced by having the power to "Will" things into existence in the Waking World)
+
+==Significant possessions==
+
+Rand is associated with many iconic possessions throughout the series. These variously mark coming of age, great victories, and reminders of the possibility of failure. We list them in the order in which they were gained:
+
+* '''[[Tam al'Thor's sword]]''': A heron-marked sword given to him by [[Tam al'Thor]] on [[Winternight]] after the [[Trollocs]] attacked [[Emond's Field]]. It was this sword that marked his palms with herons. It was destroyed during Rand's battle against [[Ishamael]]. 
+
+* [[File:Callandor tdr cover.jpg|thumb|right|The sword that is not a sword.]]'''[[Callandor]]''': The famed "Sword That Cannot Be Touched" or "Sword That Is Not a Sword", one of the most powerful ''sa'angreal'' attuned to ''saidin'' ever made. Attained when he took the [[Stone of Tear]]. It is used only four times by Rand in the series.{{Ref/book|3|55}}{{Ref/book|4|10}}{{Ref/book|8|24}}{{Ref/book|14|47}}
+
+* '''[[Fat bald man angreal|Fat bald man ''angreal'']]''': Found by Rand among the objects of Power collected in the [[Great Holding]]. It is a shiny green stone carving of a fat bald man with a sword. He lost it when he was kidnapped by the loyalist Aes Sedai, but recovered it later in the series.
+
+* '''[[Choedan Kal|Choedan Kal Keys]]''': Discovered in Rhuidean, these ''ter'angreal'' gave access to the most powerful ''sa'angreal'' ever constructed, each of which had the power to "melt continents."{{Ref/book|9|13}} He used them to cleanse ''saidin'' of the Dark One's Taint. The female access key was destroyed during this feat and the male ''sa'angreal'' destroyed by Rand later in the series.
+
+* '''Laman's Sword''': Gifted to him by Aviendha to meet her ''toh'', this used to belong to Laman "Treekiller" Damodred and was passed around the Aiel for twenty years. The original was set in a gem-encrusted sheath and hilt, but Rand discarded these and kept the most useful part - the heron-marked power-wrought blade - which he had reset with a more practical hilt.
+
+* [[File:Rand with angreal.JPG|thumb|right|Rand with the fat man angreal]]'''Dragon Belt Buckle''': Another gift from Aviendha. When she gave up her spears to become a Wise One's apprentice, she had them melted and some of the metal used to create a buckle in the shape of a Dragon.
+
+* '''The [[Dragon Scepter]]''': Obtained when Rand and Aviendha returned from Seanchan following the events in the igloo. Hurled by a Seanchan soldier, it was cut clean in two by a closing Gateway. Rand kept it as a reminder that the Seanchan were still a threat. He used the spear as a scepter and kept it with him when receiving various important nobles and Aes Sedai delegations. It was destroyed during Semirhage's attack on Rand.
+
+* '''[[Crown of Swords]]''': The crown worn by the King of Illian and officially known as the Laurel Crown, but renamed by Rand. He obtained this after defeating Sammael and was crowned King by the Council of Nine. 
+
+* '''The Dragon Sword''': Uncovered shortly before the Last Battle, this is a two-handed sword that he is incapable of wielding as a weapon due to only having one hand at this point. It formerly belonged to [[Artur Paendrag Tanreall]] and was called [[Justice]]. The scabbard is lacquered black with a long, sinuous, red-and-gold dragon decorating it and the blade is not heron-marked. He bequeathed it to Tam before entering Shayol Ghul, reflecting Tam gifting Rand his sword at the beginning of the series. When Tam asked whether it is Power-forged, Rand said he didn't know.{{Ref/book|14|15}}
+
+==Real-World Parallels==
+
+{{Main|Rand al'Thor/Parallels}}
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Rand al'Thor}} was played by actor {{TVlink|Josha Stradowski}}.
+
+{{Notes}}
+{{DEFAULTSORT:Al'Thor, Rand}}<!--To sort him without putting him in the "little a" part of the list, please leave the "a" in "al'Thor" capitalized -->
+{{Primary Protagonists}}
+
+[[de:Rand al'Thor]]
+[[es:Rand al'Thor]]
+[[it:Rand al'Thor]]
+[[nl:Rhand Altor]]
+[[tr:Rand al'Thor]]
+
+[[Category:Ta'veren]]
+[[Category:Blademasters]]
+[[Category:Lords]]
+[[Category:Asha'man (rank)]]
+[[Category:Warders]]
+[[Category:Two Rivers (people)]]
+[[Category:Aiel (people)]]
+[[Category:Sparkers]]
+[[Category:Notes needed]]
+[[Category:Prince]]
+[[Category:Channelers]]
+[[Category:Andor (people)]]
+[[Category:POV character]]

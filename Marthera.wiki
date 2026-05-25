@@ -1,0 +1,24 @@
+{{ character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=Seanchan
+| occupation=Damane
+| gender=Female
+| status=Alive
+| mentioned={{tgs|40}}
+| lastmentioned={{tgs|40}}
+| living=tgs
+}}
+'''Marthera''' is an [[Aes Sedai]] of the [[Green Ajah]].
+
+==Activities== 
+She has remained loyal to the [[White Tower]] during the split. 
+
+During the [[Seanchan]] attack on the [[White Tower]], Marthera stands with [[Josaine]] and [[Adelorna Bastine]] to fight the invaders. The group is defeated within minutes (Josaine dies and Adelorna is forced to flee) and Marthera is taken captive by the Seanchan and gets an ''[[a'dam]]'' placed around her neck.
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Slaves]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

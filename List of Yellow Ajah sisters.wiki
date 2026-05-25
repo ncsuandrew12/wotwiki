@@ -1,0 +1,6 @@
+[[File:YellowAjah.png|alt=The Flame of Tar Valon with yellow background.|thumb]]The table below lists all known named members of the [[Yellow Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. It does not include the historical Amyrlins [[Catala Lucanvalle]], [[Alvera Ramosanya]], or [[Marasale Jureen]] as we have little information other than their names and tenures. 
+
+{{#invoke:Characters|get_characters_wikitable|ajah=yellow|suppress_verify=true|columns=ajah}}
+{{notes}}
+[[Category:List pages]]
+[[Category:Yellow Ajah]]

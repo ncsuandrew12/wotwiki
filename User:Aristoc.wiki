@@ -1,0 +1,32 @@
+Hi, thanks for visiting.
+
+Fan of The Wheel Of Time series for many years - longer than I realised! I also love to organise things. These two facts alone are probably what keeps me here!
+
+Aside from the above, my interests tend to lie in the direction of fashion (hence my chosen name) and music. Oh, and shoes. Can't have enough shoes ;)
+
+{| class="plainlinks" width="100%" style="background: #f8fcff;"
+|- align="top" align="left"
+|
+{| border="0" cellpadding="0" cellspacing="0" style="border-width: 2px; border-color: #999999; border-style: solid"
+! align="center" valign="middle" style="background: #e6e6fa; padding: 2px"|T<br/>O<br/>O<br/>L<br/>B<br/>O<br/>X<br/>
+| align="left" valign="center" style="background: #f5f5f5; padding: 20px"|
+
+:'''Special:''' [[Special:Wantedpages|Wanted pages]] • [[Special:Newpages|New pages]] • [[Special:Deadendpages|Dead ends]] • [[Special:BrokenRedirects|Broken redirects]]<br> [[Special:Categories|Categories]]
+----
+:'''References:''' {{tl|Notes}} • {{tl|Verify}} 
+----
+:'''Article templates:''' {{tl|Summary}} ''(chapter)'' • 
+----
+:'''Article tags:''' {{tl|Cleanup}} • Confusing • {{tl|Expand}} • Expert • Hoax <br> Inappropriate person •   Inappropriate tone •  {{tl|Inuse}} • LEAD <br> Not verified • POV • {{tl|Spoiler}} • {{tl|Theory}} • Unreferenced • {{tl|Wikify}}
+----
+:'''Collections:''' {{tl|Primary Protagonists}} • {{tl|Forsaken}} • {{tl|Nation}}
+----
+:'''Category and stub:''' [[project:Category index|Category index]] • {{tl|Stub}} ''([[:Category:Stubs|Stubs]])'' • {{tl|Substub}} ''([[:Category:Substubs|Substubs]])''
+----
+:'''WP Cite:''' [[Wikipedia:Citing sources|Cite]] • {{tl|Cite web}} • Cite journal • Cite book
+|}
+|}<!---User:Fuhghettaboutit/Toolbox--->
+
+==Projects==
+{{/projects}}
+[[Category:Contributors|Aristoc]]

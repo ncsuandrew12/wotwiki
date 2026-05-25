@@ -1,0 +1,66 @@
+[[File:Seal.JPG|thumb|210px|A broken seal, painting by Todd Cameron Hamilton]]
+{{WotQ|{{PAGENAME}}}}
+
+The '''Great Seals''' are seven ''[[cuendillar]]'' discs, each bearing the ancient symbol of the [[Aes Sedai (Age of Legends)|Aes Sedai]] (a white teardrop and a black teardrop conjoined). They are the size of a man's hand and serve as a focus point for the actual seals which hold the [[Dark One]] in his prison. {{ref/book|3|56}}
+
+When the forces of the [[Shadow]] were about to overrun the forces of [[Light]] and defeat seemed only months away, [[Lews Therin Telamon]] and the [[Hundred Companions]] decided to execute their dangerous plan to reseal the [[Bore]] that allowed the Dark One to touch the earth. They, together with a bodyguard of ten thousand warmen, [[Traveling|Traveled]] to [[Shayol Ghul]] to execute their plan, sealing away the Dark One and the thirteen [[Forsaken]]. Strictly speaking, the discs themselves are not seals, but are as focus points, or anchors, for the seals. However, in common usage they are referred to as Seals.
+
+Currently, even though the seals are made of ''cuendillar'', the entropic influence of the Dark One has caused them to weaken to such an extent that they could shatter from a fall to the ground or being struck by a man with a hammer.
+
+==The Breaking and after==
+[[File:Seal.jpg|thumb|left|An intact seal]]
+The histories are unclear about precisely when the seals were dispersed to hidden locations, but there is sufficient information to deduce that they were scattered either toward the end of the [[Breaking of the World]] {{ref/book|3|56}}, or shortly thereafter, to prevent a maddened [[Aes Sedai]], or worse, a [[Shadowspawn]] from gaining possession of these focus points. 
+
+Only a few knew of their hiding places, including the [[Amyrlin Seat]]; indeed one of her titles descended from that time is "Watcher of the Seals." The knowledge of their secret locations, however, was lost during the [[Trolloc Wars]].{{ref|{{bwb}}, The Breaking of the World}}{{ref/book|2|5}} {{ref/book|3|56}}
+
+Upon delivering one seal to [[Rand al'Thor]], [[Mazrim Taim]] tells the story of how he obtained it: a farmer—who claimed descent from royalty during the Trolloc Wars and then nobility during [[Artur Hawkwing]]'s reign—had guarded the disc for two thousand years until Taim passed by. The man, old and without heirs, thought Taim was the [[Dragon Reborn]], so he gave it to him for safekeeping.{{ref/book|6|2}}
+
+Recently, the Seals have begun to resurface and are no longer invulnerable.
+
+==Status of the Seals==
+
+{| class="wikitable"
+! Discovery
+! Status
+! Location (intact)/<br />When broken
+|-
+| In the [[Eye of the World]] after drained by Rand al'Thor {{ref/book|1|52}}
+| Broken
+| At discovery
+|-
+| Bought by [[Bayle Domon]] from a [[Saldaea]]n antiques dealer, confiscated by the [[Seanchan]] High Lord [[Turak]]; later found by [[Moiraine Damodred]]
+| rowspan="2" | Broken
+| rowspan="2" | During the battle at [[Falme]]
+|-
+| In Turak's possession, possibly brought from Seanchan; later found by Moiraine
+|-
+| By Moiraine in the Great Holding in the [[Stone of Tear]]
+| Broken
+| rowspan="2" | By [[Logain Ablar]] during [[Tarmon Gai'don]]
+|-
+| By Moiraine in [[Rhuidean]] {{ref/book|5|2}}
+| Broken
+|-
+| By [[Nynaeve al'Meara]] at the Panarch's Palace in [[Tanchico]]
+| Broken
+| During the journey from [[Samara]] to [[Salidar]]
+|-
+| Given to [[Rand al'Thor]] by [[Mazrim Taim]], who says a Saldaean crofter gave it to him {{ref/book|6|2}}
+| Broken
+| By Logain during Tarmon Gai'don
+|}
+
+== Breaking the final Seals==
+[[File:Seals.png|thumb|The seven seals]]
+Research by [[Min Farshaw]], prompted by a cryptic note from [[Herid Fel]], indicates that the Seals need to be destroyed before the Bore can be made whole or resealed properly. Rand announced his intention to do just that to the Amyrlin and the [[Hall of the Tower]], announcing they would discuss it at a fixed date at the [[Field of Merrilor]]. The Aes Sedai are, for the most part, opposed to the idea, and [[Egwene al'Vere]] is gathering leaders to oppose him at that meeting. Gathering them appears to be exactly what he wants, though he intends to break them in any event.
+
+Later during the negotiation about [[The Dragon's Peace]] at the Field of Merrilor, Rand surrenders the remaining three unbroken seals to Egwene, the Amyrlin Seat. She is at the same time told by [[Moiraine Damodred]] that Egwene herself will break them. Moiraine asks if Egwene has [[Dreaming|Dreamed]] of Rand breaking the seals to which she replies that she has Dreamed him walking on the ''shards'' of the broken seals indicating they have been broken already. Later Rand checks in on Egwene and asks to see the seals. While inspecting them he finds they are not the real things, as he had crafted them thousands of years ago as Lews Therin Telamon. The seals that Rand had been carrying around, had in fact been counterfeits.
+
+== Stolen ==
+From the conversation between the Forsaken and later between Rand and Egwene, it is found that the seals were stolen by the Dark One's minions and replaced with fakes. In fact the Dark One now holds keys to his prison. Mazrim Taim reveals that he is the one who has stolen them and now holds them on his person. [[Androl Genhald]] manages to steal them from Taim while under the [[Mask of Mirrors]] as [[Varil Nensen]]. He hands them over to [[Logain Ablar]], who breaks them on seeing the lance of white light released when Rand forges the Dark One's new prison. [[Gabrelle]] names him ''sealbreaker''.
+
+{{notes}}
+
+[[es:Sellos]]
+[[Category:Age of Legends]]
+[[Category:Items of Power]]

@@ -1,0 +1,40 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| height=Short
+| hair=Red, hints of blond
+| clan=Goshien
+| sept=Unknown sept
+| status=Alive
+| appeared={{wh|p}}
+| lastappeared={{kod|15}}
+| living=kod
+}}'''Monaelle''' is a [[Wise One]] of the [[Goshien]] [[Aiel]].{{ref|{{twotc}}, Monaelle}}
+
+== Appearance ==
+She is 5'6, short for an Aiel, with hints of red in her waist-long blond hair. She has gray eyes. She has a mild, motherly face and is very weak in the [[One Power]], believed to be about equal in strength with [[Daigian Moseneillin]] for she would barely have been able to earn the shawl.{{ref/book|9|p}}
+
+==Strength and Abilities==
+Monaelle is quite weak in ''[[saidar]]''. In TWoTC her strength level is described as {{opsl|51}}, which is the lowest level among [[Aes Sedai]].Despite her low strength in the Power, she has a high standing among Aiel Wise Ones.
+
+This strength is not enough to open alone a gateway for [[Travel]]ing.
+
+Monaelle has some proficiency with the delving weaves as the [[Caressing the Child]] [[Weave]].
+
+== History ==
+Monaelle has married three times and has bore seven children.{{ref/book|10|14}}
+
+== Activities ==
+She leads the first-sister ceremony between [[Elayne Trakand]] and [[Aviendha]].
+
+Monaelle later comes to check on Elayne's babies and teaches [[Sumeko Karistovan]] the [[Caressing the Child]] [[Weave]]. She cites having borne seven children as her experience, and gives advice on keeping Elayne healthy through the pregnancy. She continued to act as Elayne's midwife while the Aiel were in Caemlyn.
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.
+
+{{notes}}
+[[Category:Channelers]]
+[[Category:Midwives]]

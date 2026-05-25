@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = A few [[darkhound]]s.
+| Source             = ''[[The Wheel of Time Roleplaying Game]]''
+| Artist             = Carl Critchlow
+}}
+[[Category:Featured images]]

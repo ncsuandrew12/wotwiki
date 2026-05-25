@@ -1,0 +1,21 @@
+{{character 
+| image=MurandyFlag.png
+| imagesize=200px
+| status=Alive
+| nationality=Murandian
+| gender=Female
+| appeared={{Ns|5}}
+| lastappeared={{ns|5}}
+| living=ns
+}}'''Careme Mowly''' is a mother with a newborn daughter, living in the second camp down the road from the empty village of [[Alindaer]] on the outskirts of [[Tar Valon]]. Her infant daughter's name is [[Ellya Mowly|Ellya]].{{ref|{{twotc}}, Careme Mowly}}{{ref/book|0|5}}
+
+==History==
+The [[Accepted]] [[Moiraine Damodred]] and [[Siuan Sanche]] arrive in that camp to collect the names of women who "bore a child between the day the first soldiers arrived and the day the threat is ended" (the threat being referred to is the invasion by the Aiel) both in the city of Tar Valon and in the army who "provided the shield" to Tar Valon during the [[Aiel War]]. The [[Amyrlin]] has promised a bounty of one hundred gold crowns to any woman whose name is on that list.{{ref/book|0|3}}
+
+The real reason for the Amyrlin's generosity is an attempt to identify the infant child who is also the [[Dragon Reborn]], proclaimed as having just been born on the slopes of [[Dragonmount]] by [[Gitara Moroso]].{{ref/book|0|2}}
+
+Careme refuses to get in line to receive the bounty as she holds a grudge against the [[White Tower]]. The man she wanted to marry ran off to be a [[Warder]] and left her to marry someone she didn't like quite as well. Moiraine takes down her name anyway, saying, "nevertheless, she will receive the bounty."{{ref/book|0|5}}
+
+{{notes}}
+
+{{DEFAULTSORT:Mowly, Careme}}

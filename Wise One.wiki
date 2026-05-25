@@ -1,0 +1,47 @@
+[[File:Wise One.jpg|thumb|200px|right|A Wise One.]]
+
+{{quote|I have heard it said that a man caught between his wife and a Wise One often wishes for a dozen old enemies to fight instead. A man caught between a wife and three Wise Ones, and the wife a Wise One herself, must consider trying to slay Sightblinder.|[[Aviendha]]}}
+
+'''Wise Ones''' are matriarchal leaders among the [[Aiel]].  Every [[Hold]] has at least one Wise One and they socially rank as peers alongside a [[Roofmistress]] or the chief of a Hold.{{ref|{{twotc}}, Wise One}}
+
+==Description==
+===Abilities===
+Every Aiel woman who can [[channel]] or [[Dreamwalking|Dreamwalk]] will be trained as a Wise One, though there are also many Wise Ones who can do neither. The ability to Dreamwalk seems to be a much more common ability, or at least better developed, among the Aiel than it is on the other side of the [[Spine of the World]]. Recently, [[Min Farshaw]]'s ability to receive [[Min's viewings|viewings]] has been discovered by the Aiel, and she has been deemed an equivalent to a Wise One, although this ability is seemingly unknown by the Aiel. All Wise Ones are trained in the use of [[herbs]] and healing.
+
+Until recently, the fact that Wise Ones could channel was not known by people other than the Aiel, and all Wise Ones avoided contact with [[Aes Sedai]] for fear of being taken to the [[White Tower]]. Even among Aiel, most Wise Ones who channel only seldom do so, and then usually only around other Wise Ones. Therefore in most cases only another Wise One knows whether any given woman can channel.
+
+===Status===
+[[File:AmysBairMelaine.jpg|thumb|Three Wise Ones; Amys, Bair and Melaine.]]
+Unlike the Aes Sedai, strength in the One Power has no bearing on a woman’s standing among the Wise Ones; nor (it seems) does any other factor besides a Wise One’s strength of will. This is seen when [[Amys]], both a Dreamwalker and a stronger channeler, yields leadership to [[Sorilea]], a Wise One who can barely channel. Nor does age seem to determine standing, evidenced by Amys’ willingness to challenge Sorilea’s leadership despite being much younger.
+
+{{quote|...but to the Aiel, a Wise One was a Wise One, whatever her clan. They visited like neighbors over for tea while their clans killed one another. Two Aiel trying to kill each other would step back to let a Wise One pass between.|{{7|3}}}}
+Wise Ones have great influence among the clans and also great responsibility. They stand apart from blood-feuds, cannot be harmed or impeded in any way according to ''[[ji'e'toh]]'', and cannot be taken as ''gai'shain''. Certain events in Aiel society require the approval of the Wise Ones, for example:
+*Three Wise Ones are required to declare a person [[da'tsang]]
+*Four Wise Ones must give permission for a man wishing to become Clan chief to enter [[Rhuidean]]
+
+Traditionally, Wise Ones do not take part in battle, hence the reason they could not be taken ''gai'shain.'' Killing a Wise One ranks with killing a pregnant woman, a child or a blacksmith.{{ref/book|7|Prologue}} However, recently the use of the [[One Power]] in battle by other groups, such as the Aes Sedai and Seanchan ''[[damane]]'', have forced the Wise Ones who channel to begin taking part in battles themselves.
+
+[[File:Wise One.JPG|thumb|200px|left|A Wise One apprentice.]]
+
+==Training==
+To become a Wise One, a prospective apprentice must first go to [[Rhuidean]] and enter a ''[[ter'angreal]]'' much like the one used by the Aes Sedai in the [[White Tower]] for the test to become [[Accepted]]. However, instead of facing one's fears, the Rhuidean ''ter'angreal'' allows the user to see their future, laid out for them many many times in variation. Hence an apprentice can be understood to be the equivalent of an Accepted at the White Tower, bypassing the rank of [[Novice]] entirely. Indeed, it is the opinion of at least some Wise Ones that the White Tower "coddles women".
+
+After this first test, the apprentice undergoes training in various aspects of being a Wise One. From the use of the One Power, and Dreamwalking, to the use of herbs and medicine, depending on the student's abilities and talents. In the mean time, she must also serve the Wise Ones much as ''gai'shain'' do, by making tea, tending the sweat tents, etc.
+
+When an apprentice's training is complete, she would be subjected to menial, and increasingly meaningless tasks without any further training, until she declares herself ready to be a Wise One. This step of the training is often confusing to the apprentice, as she would not know why she was being subjected to such seemingly unfair treatment. However, the rationale is that the apprentice must see herself as an equal to the Wise Ones rather than be told she is ready, and therefore thinking independently rather than remaining obedient as an apprentice would.
+
+When the apprentice has declared she is ready, she is welcomed by the Wise Ones to their sisterhood, though she must return to Rhuidean to enter another ''ter'angreal'' before formally becoming a Wise One. This ''ter'angreal'' is also the one used for the male test to become Clan Chief showing them the history of the Aiel, from the Breaking of the World to the Founding of Rhuidean, through the eyes of their ancestors. More women return from this test than men who hope to become Clan Chiefs, but unlike the men, the women return without any physical markings.
+
+==Numbers==
+Just before the Battle of [[Malden]], the Shaido Wise Ones able to channel are described to be around four hundred. If more or less each Aiel Clan collects the same amount of female channelers it can be calculated that the female channelers among the remaining eleven Clans are around 4400 in total, an impressive amount considering the Aes Sedai are around 1000 (even considering also that among the Aiel Wise Ones there are almost a thousand very weak channelers that are not even considered to be tested for the shawl in the White Tower). 
+
+This can partially be attributed to the fact that all women who can channel are discovered by the Wise Ones, and there are no [[wilder]]s among the Aiel. The Wise Ones also marry and have children regularly, which is not traditional for the Aes Sedai, and may increase the genetic chance for channeling among the Aiel.
+
+{{notes}}
+{{Aiel}}
+
+[[es:Sabia]]
+[[Category:Wise Ones| Wise One]]
+[[Category:Aiel culture]]
+[[Category:Titles]]
+[[Category:Organizations]]

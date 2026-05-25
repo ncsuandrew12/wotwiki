@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| ImageType2              = Fan Art
+| Description             = [[Elaida do Avriny a'Roihan]]
+| Source                  = [http://sicilianvalkyrie.deviantart.com/art/Elaida-Sedai-94759485]
+| Artist                  = Patricia Leonardo Cavalieri
+}}

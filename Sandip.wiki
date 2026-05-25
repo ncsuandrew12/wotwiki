@@ -1,0 +1,24 @@
+{{Character
+|image=BOTRH icon.jpg
+|imagesize=150px
+|nationality=Unknown nationality
+|affiliation=Band of the Red Hand
+| hair=Dark
+|gender=Male
+|status=Alive
+|rank=Lieutenant
+| occupation=Soldier
+|appeared={{amol|prologue}}
+}}'''Sandip''' is a [[Lieutenant]] with the [[Band of the Red Hand]]. He appears to work primarily with the scouts. He is also an accomplished hedge-doctor.
+
+== Appearance ==
+He is tan-skinned and dark haired.
+
+==Activities==
+Sandip is involved in the [[Last Battle#The Andoran front|Andoran front of the Last Battle]] with the rest of the Band, trying to rescue the fleeing citizens and recover the [[dragons]] before they can be captured by [[Shadowspawn]].
+
+== Trivia ==
+* Sandip is named for Sandip Mehta, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

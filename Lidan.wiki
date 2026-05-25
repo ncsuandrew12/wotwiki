@@ -1,0 +1,18 @@
+{{character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| occupation=Maid
+| gender=Female
+| appeared={{tgh|21}}
+| lastappeared={{tgh|21}}
+| living=tgh
+}}'''Lidan''' is a serving girl at [[The Nine Rings (inn)|The Nine Rings]] in [[Tremonsien]].{{ref|{{twotc}}, Lidan}}
+
+==Activities==
+She helped [[Selene]] move her things to her room after eating her meal.{{ref/book|2|21}}
+
+{{notes}}
+{{short}}
+[[Category:Serving girls]]

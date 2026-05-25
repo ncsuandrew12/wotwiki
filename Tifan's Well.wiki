@@ -1,0 +1,17 @@
+__NOTOC__'''Tifan's Well''' is a small village and farming community in Arafel.{{ref/book|2|22}}
+
+==Location==
+No information about its location is given except that it is "deep within the grassy plains of [[Arafel]]". 
+
+==Events==
+For at least thirty years, it was home to [[Aes Sedai]] [[Vandene]] and [[Adeleas Namelle]], and Vandene's [[Warder]], [[Jaem]].{{ref|{{twotc}},Vandene Namelle}} The two women went into retirement "so long ago that few in the White Tower remembered they still lived". The people of Tifan's Well do not suspect they are Aes Sedai, but came to them for advice for problems and cures for their ills and consider them two women "blessed by the Light".{{ref/book|2|22}}
+
+[[Moiraine Damodred|Moiraine]] visited them here in search of information and was attacked by a [[Draghkar]] that had been Warded by a member of the [[Black Ajah]].{{ref|{{twotc}}, Tifan's Well}}
+
+==Errata==
+The Companion says that the sisters retired to Tifan's Well in {{ne|970}}, but this contradicts other details that set their retirement at seventy years ago.{{ref|{{twotc}}, Zarya Alkaese}} It is possible, however, that they simply moved to Tifan's Well in {{ne|970}}, as it would doubtless be necessary for Aes Sedai to move around during retirement lest locals become suspicious about their lack of aging. This is a practice also used by the [[Kin]].
+{{notes}}
+{{Short}}
+[[es:Pozo de Tifan]]
+[[Category:Arafel]]
+[[Category:Villages]]

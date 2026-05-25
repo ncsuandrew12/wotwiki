@@ -1,0 +1,16 @@
+'''Masenashar''' was a kingdom of the [[Third Age#Free Years|Free Years]]. It was founded after the end of the [[Trolloc Wars]], and was established on the former territory of [[Aridhol]]. It was later absorbed by the growing might of [[Artur Hawkwing's Empire]]. The lands it once held are now mostly uninhabited wilderness.
+
+==Geography==
+[[Image:Masenashar.png|thumb|right|200px|In red location within the Westlands]]
+
+Masenashar stretched from the [[Mountains of Mist]] to the [[River Haevin]], and from the [[River Arinelle]] in the south to the [[River Ivo]] in the north. It was bordered by [[Farashelle]] to the south, [[Dal Calain]] to the southeast, [[Roemalle]] to the northeast, [[Oburun]] to the north, and [[Oman Dashar]] to the west, across the mountains. The ruined city of [[Shadar Logoth]] lay on Masenashar's southwestern border, across the Arinelle.
+
+==History==
+Little is known of Masenashar, except that circa {{Fy|450}} Queen [[Sulmara]] was removed from her throne and taken to [[Tar Valon]], where she was set to work by the [[Aes Sedai]] in the [[White Tower]] kitchens. It is theorized that Sulmara was a [[novice]] or full sister who had shirked her Aes Sedai responsibilities to return home and become Queen, and the Aes Sedai's actions showed that no one, despite their power, was beyond their reach. If this is true, then Masenashar is the last known nation to have been ruled by a woman who can channel prior to [[Morgase Trakand]] of [[Andor]].
+
+Masenashar was unaffected by the [[War of the Second Dragon]] but was conquered by [[Artur Paendrag Tanreall|Artur Hawkwing]]. After the [[War of the Hundred Years]] the territory controlled by Masenashar became less populous and no nation holds sway over its lands today.
+
+{{nations}}
+[[es:Masenashar]]
+[[Category:Nations of the Free Years]]
+[[Category:Historical nations]]

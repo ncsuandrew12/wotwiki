@@ -1,0 +1,29 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Male
+| affiliation= Children of the Light
+| occupation=Soldier
+| status=Dead
+| death={{ne|999}}
+| appeared={{tgh|29}}
+| lastappeared={{tgh|29}}
+}}'''Muadh''' is a member of the [[Children of the Light]].
+
+==Appearance==
+His face is horribly scarred and his voice is just a hoarse, whispered growl.
+
+==History==
+He was once captured by [[Darkfriends]], who mutilated his face.
+
+He served under [[Geofram Bornhald]]. 
+
+==Activities==
+After arriving in a small village on the [[Almoth Plain]], Geofram sees a long gibbet with around thirty bodies of men, women and children hanging from it. He asks Muadh if he is responsible or the Seanchan. Muadh replies that it was neither, but a group of so-called '[[Taraboner]]s' that are really Questioners in disguise.{{ref/book|2|29}}
+
+Geofram sends Muadh to get someone to provide him with information on the [[Seanchan]]. 
+
+He, presumably, died at [[Falme]] along with all the other Children that were part of Bornhald's legion.
+
+{{notes}}

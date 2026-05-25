@@ -1,0 +1,11 @@
+{|{{FooterStyle}}
+|-
+! style="text-align: center; background-color: rgb(135,135,135,.25);"| '''''[[:Category:Similarities|Similarities to Other Works]]'''''
+|-
+| align=center | [[Similarities to Dune|''Dune'']] · [[Similarities to Sword of Truth|''Sword of Truth'']] · [[Similarities to Tolkien|Tolkien]]
+|-
+| align=center | [[:Category:Parallels|Parallels]] ·  [[Real-world references|Real-World References]]
+{{MajorLinksFooter|1}} 
+|}
+{{SimilaritiesFooterMobile}}<noinclude>
+[[Category:Navbox templates]]</noinclude>

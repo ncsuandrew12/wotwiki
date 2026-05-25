@@ -1,0 +1,25 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Soldier
+| gender=Male
+| status=Alive
+| tworivers=yes
+| affiliation=Perrin Aybara
+| appeared={{tom|34}}
+| lastappeared={{tom|34}}
+| living=tom
+}}
+Marek Cormer is a resident of the [[Two Rivers]].
+
+== Activities ==
+He was a member of [[Perrin Aybara]]'s army. Along with [[Flann Barstere]] and [[Jon Gaelin]], he is one of three soldiers that waves to [[Faile]] after the dicomfort about Perrin and [[Berelain]] passed.{{ref/book|13|34}}
+
+== Trivia ==
+* Marek Cormer is named for Mark Comer, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{Short}}
+{{notes}}
+{{DEFAULTSORT:Cormer, Marek}}
+[[Category:Characters named after fans]]

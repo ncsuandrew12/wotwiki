@@ -1,0 +1,45 @@
+{{character 
+| image=Laras.jpg
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| title=Mistress of the Kitchens
+| occupation=Cook
+| affiliation=White Tower
+| gender=Female
+| build=Fat
+| hair=Graying
+| appeared={{ns|6}}
+| lastappeared={{amol|33}}
+| living=amol
+}}
+'''Laras''' is the [[Mistress of the Kitchens]] in the [[White Tower]].
+
+==Appearance==
+She is hefty. She has a pudgy face with gray hair and creases at the corners of her eyes. She has a couple of chins.
+
+==Personality==
+Laras is a seemingly stubborn and harsh woman; this, combined with the common and ignorant perception that stout people are stupid, has led many to underestimate her, such as [[Elaida do Avriny a'Roihan]], who never even suspected her for her part in [[Siuan Sanche]]'s and [[Leane Sharif]]'s escape. Laras is, in fact, politically skilled, highly intelligent, deeply trustworthy and extremely fair-minded. She does not retain a punishment for any reason whatsoever, but refuses to allow one to go on for too long. She didn't doubt for long to come to the aid of Siuan Sanche and Leane Sharif as they were falsely deposed, stilled and imprisoned awaiting execution. She shows the same fairness with [[Egwene al'Vere]] when her time came.
+
+==Activities==
+
+===The Aiel War===
+Laras is working as Mistress of the Kitchens during the [[Aiel War]]. She frowns at Moiraine Damodred and Siuan Sanche when they dawdle over breakfast.{{ref/book|0|6}} 
+
+===Under Siuan Sanche===
+When Egwene al'Vere, [[Elayne Trakand]] and [[Nynaeve al'Meara]] return to the Tower and are set a heavy punishment by the [[Amyrlin Seat]], Laras demands to know the limit of the punishment, saying that she will not be party to breaking someone's spirit.{{ref/book|3|29}} When Laras works in the kitchens, she carries a large wodden spoon, almost in imitation of a scepter, and never uses it to stir anything. She did, however, once use the spoon for it's intended purpose when Siuan Sanche surreptitiously receives a report on the [[Black Ajah]] hunting done by Nynaeve.{{ref/book|3|29}} 
+
+Later, when [[Min Farshaw]] is hiding in the Tower, Laras takes her under her wing.{{ref/book|4|17}} After the deposing of Siuan Sanche, Laras helps Min Farshaw free both Siuan and [[Leane Sharif]] from the dungeons. She gave them an hour before she would send food to the guards; doing so would help give her an alibi{{ref/book|4|47}}
+
+===Under Elaida a'Roihan===
+When Egwene is captured by the Tower [[Aes Sedai]], she is set to work in the kitchens with Laras. Laras looks out for Egwene as she does her duties, protecting her from the kitchen staff and objecting to her beatings, but showing no favoritism.{{ref/book|11|24}} Laras later tries to help Egwene escape the Tower after Egwene is forbidden from going to private lessons with the sisters. Laras takes Egwene to a storage room that has a hidden trap door. She tells Egwene that she can hide there until the serving girls take out the garbage. Egwene thought that it had a practiced feel to it, indicating that Laras has done this before. Egwene refused to leave and was almost caught by [[Katerine Alruddin]], but Egwene's quick thinking kept both of them out of trouble.{{ref/book|12|16}}
+
+When [[Verin Mathwin]] returns to the Tower to speak with Egwene, Laras carefully brews tea for her, which Verin then poisons, allowing her to speak freely to Egwene in the hour before she dies.{{ref/book|12|39}}
+
+===Under Egwene al'Vere===
+With the [[Last Battle]] underway, the [[Horn of Valere]] had to be taken from the White Tower storerooms to the [[Field of Merrilor]] and [[Mat Cauthon]]. Laras handed it over personally to the hand-picked messenger Egwene had accepted, namely [[Faile Aybara]].{{ref/book|14|33}} This could have been the meaning behind Verin's cryptic "thank Laras [for the poisoned tea]" to Egwene; Laras likely knew of the Horn's existance in the Tower and had taken care of it.{{ref/book|12|39}}
+
+==Laras' past==
+Almost nothing is known about Laras' past or how she came to work in the Tower. It is known by some that she has a suprising amount of knowledge and a shocking past.{{ref/book|2|Glossary}} Min either had a viewing or found out that Laras used to be a real beauty, and one with a good eye for beautiful young ladies. {{ref/book|4|1}} Verin has also confirmed that Laras is definitely not a [[Darkfriend]].{{ref/book|12|39}}
+
+{{notes}}

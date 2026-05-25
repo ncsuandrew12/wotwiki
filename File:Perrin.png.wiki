@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = [[Perrin]].
+| Source             = A variant cover for ''[[The Eye of the World 3]]''
+| Artist             = John Seamas Gallagher 
+}}
+[[Category:Character Images]]

@@ -1,0 +1,17 @@
+{{character 
+| image=KandorFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Kandor
+| title=King of Kandor
+| rank=King
+| gender=Male
+| mentioned=[[RPG]]
+}}
+'''Jarel Soukovni''' was the first King of [[Kandor]] and the founder of that nation.
+
+==History==
+Soukovni was the Imperial Governor for the Province of [[Kandor]] during the latter part of the reign of [[Artur Hawkwing]], the High King. Upon his death in {{Fy|994}}, Soukovni and the other [[Borderlands|Borderland]] Province rulers met to discuss what they should do as the rest of the Empire began to disintegrate in the [[War of the Hundred Years]]. The five provinces became independent nation-states, allied together against both the threat of the [[Blight]] to the north and also from attack by the southern kingdoms. They were able to subsequently ride out the chaos of the wars with minimal violence.
+
+{{DEFAULTSORT:Soukovni, Jarel}}
+[[Category:Historical people]]

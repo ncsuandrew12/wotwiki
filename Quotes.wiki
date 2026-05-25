@@ -1,0 +1,15 @@
+This page contains an automatically-generated list of all ''[[Wheel of Time]]'' quotes in the [[Module:Wotq/Data|wotwiki database]].
+
+__TOC__
+==See also==
+* [[Wotwiki:Quote of the Day/Archive]]
+* [[Wotwiki:Quote of the Day/Archive Calendar]]
+
+==Stats==
+{{#invoke:WotQ|wot_stats}}
+
+==Quotes==
+{{#invoke:WotQ|render_all_wot_quotes}}
+
+{{notes}}
+[[Category:List pages]]

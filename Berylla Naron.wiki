@@ -1,0 +1,43 @@
+{{character | image=BlueBlack.png
+| imagesize=250px
+| ajah=Blue
+| status=Alive
+| nationality=Illianer
+| gender=Female
+| affiliation=Black Ajah
+| rank=Aes Sedai
+| strength in saidar=level {{opsl|33}}
+| build=Lean
+| appeared={{tfoh|18}}
+| lastappeared={{tfoh|18}}
+| living=tfoh
+|birth = {{ne|933}}|hair = Black|eyes = Dark Brown}}
+'''Berylla Naron''' is an [[Aes Sedai]] of the [[Blue Ajah]]. She was also [[Black Ajah]] and part of [[Liandrin's Group of Black Sisters]].
+
+== Appearance ==
+Berylla is lean, almost to scrawniness. She has black hair and dark brown eyes.
+
+==Strength and Abilities==
+Berylla is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|33}}. Among [[Liandrin's group of Black Sisters]], only [[Joiya Byir]] was weaker and [[Amico Nagoyin]] was her equal.
+
+== History ==
+Berylla is 67 years old. She was born in [[933 NE]] and went to the [[White Tower]] in [[948 NE]]. After seven years as a [[novice]] and five years as [[Accepted]], she was raised to the shawl in {{ne|960}}.
+
+She is as fine a manipulator and plotter as there ever was.
+
+==Activities==
+
+She was part of the group led by [[Liandrin]] that left the White Tower and made for [[Tear]]. When the [[Stone of Tear]] fell to the [[Aiel]], the group fled to [[Tanchico]]. After their plans were foiled by [[Elayne Trakand]] and [[Nynaeve al'Meara]],  they were forced to leave.
+
+When [[Moghedien]] took control of the group, she gave each member a mission. When receiving her orders, Berylla showed little expression.{{ref/book|5|18}}
+
+Her fate is undisclosed.
+
+{{notes}}
+{{DEFAULTSORT:Naron, Berylla}}
+
+[[es:Berylla Naron]]
+[[Category:Dreadlords]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

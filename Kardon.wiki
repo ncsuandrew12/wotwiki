@@ -1,0 +1,16 @@
+__NOTOC__
+A '''''kardon''''' is a leafless, spiny plant found in the [[Aiel Waste]].
+
+==Description==
+[[File:Prickly Pears by Tomás Castelazo.jpg|thumb|Prickly Pears, a real-life fruit similar to kardon|right|350px]]They produce a sweet, bulbous fruit with tough greenish skin. Rand tries various Aiel foods at [[Cold Rocks Hold]]:
+<blockquote>A dark, spicy stew of goat with chopped peppers was unfamiliar but hardly strange, and peas were peas anywhere, or squash. The same could not be said of the crumbly, coarse yellow bread, or long, bright red beans mixed in with the green, or a dish of bright yellow kernels and bits of pulpy red that Aviendha called ''zemai'' and ''t’mat'', or a sweet, bulbous fruit with a tough greenish skin she said came from one of those leafless, spiny plants called ''kardon''. It was all tasty, though.{{ref/book|4|49}}</blockquote>
+==Old Tongue==
+Like many Aiel terms, the name of the fruit also has an entry in the [[List of Old Tongue words|Old Tongue dictionary]] in [[The Wheel of Time Companion]].
+
+==Parallels==
+{{Wiki|Opuntia|Prickly pears}} are bulbous, sometimes green fruits that grow on cacti.
+{{Notes}}
+{{short}}
+[[Category:Plants]]
+[[Category:Foods]]
+[[Category:Aiel culture]]

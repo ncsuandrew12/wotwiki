@@ -1,0 +1,63 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality=Saldaean
+| gender=Female
+| affiliation=White Tower
+| occupation=Sitter
+| rank=Aes Sedai
+| height=6'2" or 188 cm
+| build=Slender
+| status=Alive
+| hair=Red
+| mentioned={{loc|13}}
+| appeared={{loc|30}}
+| lastappeared={{tom|27}}
+| living=tom
+|birth = {{ne|831}}}}'''Varilin Zanaire''' is an [[Aes Sedai]] of the [[Gray Ajah]] and formerly a [[Sitter]] in the [[Hall of the Tower]].{{ref|{{twotc}}, Varilin Zanaire}}
+
+== Appearance==
+Varilin has red hair. Her nose is not particularly prominent, nor are her cheekbones very high, considering she is Saldaean. She resembles a stork: slim and taller than most men.{{ref/book|10|19}} She is 6'2" or 188cm in height.{{ref|{{twotc}}, Varilin Zanaire}}
+
+==Strength and Abilities==
+Varalin is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|32}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.
+
+== History ==
+Varilin was born in [[Saldaea]] in the year {{ne|831}} and went to the [[White Tower|Tower]] in {{ne|848}} at the age of seventeen.
+
+After spending seven years as novice and six as Accepted she was raised to the shawl in the year {{ne|861}} at the age of thirty.
+
+She was elected Sitter recently in the year {{ne|992}}.
+
+== Activities ==
+Her [[Ajah Head]] sent her to the [[Rebel Aes Sedai|rebels]] because she was not invited to the vote to depose [[Siuan]] and raise [[Elaida]]. This would help keep her safe, and allow the Ajah to help defuse the rebellion. So she supported [[Romanda]] because it would help stalemate [[Lelaine]] and make the rebellion easier to control.
+
+=== Rebel faction ===
+In [[Salidar]] Varilin apparently belonged to [[Romanda Cassin|Romanda Cassin's]] faction of Aes Sedai. She was concerned about reports of the [[Seanchan]] collaring women, though she had to be careful in bringing it up in the Hall because she was part of Romanda's faction.
+
+In Salidar, during a class taught by [[Elayne]], Varilin made a mistake in trying to make ''[[ter'angreal]]'' and created an explosive ball of fire in her hands; she would have died had [[Dagdara]] not been nearby to [[Heal]] her.
+
+Later, after the siege was put around [[Tar Valon]], Varilin was one of the Sitters wanting to begin negotiations with [[Elaida's White Tower]]. When Egwene allowed the talking Varilin took charge as the head negotiator.
+
+She votes NO in the [[Rebel Hall of the Tower]] for an alliance with the [[Black Tower]].
+
+Later Varilin was in the group that negotiates with the White Tower Aes Sedai in [[Darein]].
+Because of this she missed [[Lelaine Akashi]]'s emergency meeting of the Hall with [[Jahar Narishma]].
+
+She was one of the Sitters to re-swear the [[Three Oaths]] on the [[Oath Rod]] and proved that she was not [[Black Ajah]]. She was then part of the unanimous vote to attack the [[White Tower]] with their army.
+
+=== The White Tower re-united ===
+Varilin remains a Sitter when the Hall of the Tower is re-united after the [[White Tower Schism]]. The Sitters try to hold a secret meeting without Egwene, discussing ways to temper the Amyrlin's power when a declaration of war is called. Varilin voted against a proposal that would allow only Egwene to deal with the monarchy of the world, which includes Rand as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army.
+
+In that same meeting of the Hall, Varilin voted in favour of the new rules and procedures in the Hall as outlined by Egwene, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present.
+
+During the [[Last Battle]] Varilin, [[Takima]] and [[Saroiya]] are the three Sitters designated to manage the White Tower and Tar Valon in the absence of the Amyrlin, the Keeper and the other Sitters in the Hall.
+
+{{notes}}
+
+{{DEFAULTSORT:Zanaire, Varilin}}
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

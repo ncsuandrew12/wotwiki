@@ -1,0 +1,25 @@
+{{ character 
+| image=Faces-icon.svg
+| imagesize=250px
+| ewot=Notori
+| ajah=Unknown
+| gender=Female
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=Black Ajah
+| status=Dead
+| mentioned={{tom|37}}
+| lastmentioned={{tom|37}}
+| death={{ne|1000}}
+}}
+'''Notori''' was an [[Aes Sedai]] of unknown [[Ajah]], and secretly part of the [[Black Ajah]]. 
+
+==Activities==
+She took part in the [[Battle in Tel'aran'rhiod|Battle in ''Tel'aran'rhiod'']] and was killed by a blast of [[Fire]] created by [[Nynaeve al'Meara]]. Because she was killed in the World of Dreams, she also died in the waking world.
+
+She was probably using a dream ''[[ter'angreal]]'', otherwise her soul would be obliterated from the [[Pattern]].
+
+[[es:Notori]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

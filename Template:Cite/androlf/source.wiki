@@ -1,0 +1,36 @@
+<includeonly>{{#switch: {{lc:{{{source|{{{1|}}}}}}}}
+|wh-h={{Cite/web
+| url = https://www.amazon.com/dp/0312864256
+| title = Winter's Heart
+| accessdate = {{Date|2023-2-16}}
+| author = [[Robert Jordan]]
+| date = {{Date|2000-11-1}}
+| format = Hardcover
+| publisher = Amazon
+| language = English
+}}
+|complete-md={{Cite/web
+| url = http://www.amazon.com/Complete-Wheel-Time-Robert-Jordan-ebook/dp/B00M64A8UA
+| title = The Complete Wheel of Time
+| accessdate = November, 2022
+| author = [[Robert Jordan]]
+| coauthors = [[Brandon Sanderson]]
+| date = {{Date|2014-8-12}}
+| format = Kindle
+| publisher = Amazon
+| language = English
+}}
+|companion-md={{Cite/web
+| url = https://www.humblebundle.com/books/robert-jordans-wheel-time-books
+| title = The Wheel of Time Companion
+| accessdate = {{Date|2025-4-15}}
+| author = [[Robert Jordan]]
+| coauthors = [[Harriet McDougal]], [[Alan Romanczuk]], [[Maria Simons]]
+| date = {{Date|2015-11-3}}
+| format = EPUB
+| publisher = [[Humble Bundle]]
+| language = English
+}}
+|{{Err|Invalid source: {{{source{{{1|}}}}}}}}}}
+</includeonly><noinclude>{{Documentation}}
+[[Category:Utility templates]]</noinclude>

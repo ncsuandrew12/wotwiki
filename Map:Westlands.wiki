@@ -1,0 +1,2575 @@
+{
+    "mapImage": "Westlands-Background.svg",
+    "pageCategories": [
+        "Interactive_Maps"
+    ],
+    "defaultSort": "",
+    "mapImageChangedAt": "2022-05-27 21:49:08",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            3166,
+            2573
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Geographic features",
+            "color": "#59c92b",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Forest marker.png"
+        },
+        {
+            "id": "3",
+            "listId": 2,
+            "name": "Nations",
+            "color": "#fabb00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Nation marker.png"
+        },
+        {
+            "id": "4",
+            "listId": 3,
+            "name": "City-states and Capitals",
+            "color": "#fffd60",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Capital marker.png"
+        },
+        {
+            "id": "2",
+            "listId": 4,
+            "name": "Towns and villages",
+            "color": "#fa009d",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Settlement marker.png"
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Rivers and bodies of water",
+            "color": "#00a0fa",
+            "symbol": "",
+            "symbolColor": "#000",
+            "icon": "File:Water marker.png"
+        },
+        {
+            "id": "6",
+            "listId": 6,
+            "name": "Former nations and ruins",
+            "color": "#8b8b8b",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:History marker.png"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "2",
+            "position": [
+                1274,
+                1254.5
+            ],
+            "popup": {
+                "title": "Emond's Field",
+                "description": "A rural village, home to Rand, Mat, Perrin, Egwene, and Nynaeve. The site of the last battle of Manethern in which king Aemon died, hence the name.",
+                "link": {
+                    "url": "Emond's Field",
+                    "label": "Emond's Field"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1292,
+                1287
+            ],
+            "popup": {
+                "title": "Taren Ferry",
+                "description": "Heavily influenced by outsiders, its buildings have redstone foundations. The ferry was run by Master Hightower.",
+                "link": {
+                    "url": "Taren Ferry",
+                    "label": "Taren Ferry"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1303.1977977268,
+                1355.5236995346
+            ],
+            "popup": {
+                "title": "Baerlon",
+                "description": "A mining town that is home to the Stag and Lion where the group first meet Min. Moiraine weaves an illusion here to frighten Whitecloaks.",
+                "link": {
+                    "url": "Baerlon",
+                    "label": "Baerlon"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1671.2468773344,
+                1155.0589270682
+            ],
+            "popup": {
+                "title": "Whitebridge",
+                "description": "Named after a remnant of the Age of Legends - a lacy white bridge seemingly to thin to stand. Thom faces a Fade here allowing Rand and Mat to escape.",
+                "link": {
+                    "url": "Whitebridge",
+                    "label": "Whitebridge"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2146.5,
+                1152
+            ],
+            "popup": {
+                "title": "Caemlyn",
+                "description": "Capital of Andor and comprised of an outer and inner city that rise in tiers. The inner city is Ogier-built and contains the Royal Palace of Andor.",
+                "link": {
+                    "url": "Caemlyn",
+                    "label": "Caemlyn"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                579,
+                1283
+            ],
+            "popup": {
+                "title": "Falme",
+                "description": "The largest town on Toman Head and home to the Do Miere Avron who were to watch for the return of Hawkwing's armies. They failed and were punished.",
+                "link": {
+                    "url": "Falme",
+                    "label": "Falme"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                709,
+                1637
+            ],
+            "popup": {
+                "title": "Bandar Eban",
+                "description": "The capital of Arad Doman and one of the most populous cities. Under the influence of Graendal, it descended into chaos with the rest of the nation.",
+                "link": {
+                    "url": "Bandar Eban",
+                    "label": "Bandar Eban"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2792.5,
+                2128
+            ],
+            "popup": {
+                "title": "Fal Dara",
+                "description": "Constructed on the site of Mafal Dadaranell, this fortress town is the first line of defence against the Shadow. Home to Great Captain Agelmar Jagad.",
+                "link": {
+                    "url": "Fal Dara",
+                    "label": "Fal Dara"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2763.5,
+                2081.5
+            ],
+            "popup": {
+                "title": "Fal Moran",
+                "description": "The heart and soul of Shienar, it is the seat of King Easar Togita. It was razed during the Last Battle to impede the progress of the Trolloc armies.",
+                "link": {
+                    "url": "Fal Moran",
+                    "label": "Fal Moran"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2356.4333483042,
+                1658.518955273
+            ],
+            "popup": {
+                "title": "Tar Valon",
+                "description": "Centre of Aes Sedai power and largest city with population of half a million, it's lavish architecture is a testament to the lost wonders of the past.",
+                "link": {
+                    "url": "Tar Valon",
+                    "label": "Tar Valon"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2197,
+                851.5
+            ],
+            "popup": {
+                "title": "Far Madding",
+                "description": "A matriarchal city-state where channelers cannot touch or sense the True Source. Visitors must bind their weapons to keep the peace.",
+                "link": {
+                    "url": "Far Madding",
+                    "label": "Far Madding"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1891,
+                1225
+            ],
+            "popup": {
+                "title": "Andor",
+                "description": "The largest and most powerful nation, it was the first to emerge from the collapse of Hawkwing's Empire. It has strong ties to the White Tower.",
+                "link": {
+                    "url": "Andor",
+                    "label": "Andor"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1387.3999633789,
+                1001.1857335856
+            ],
+            "popup": {
+                "title": "Ghealdan",
+                "description": "",
+                "link": {
+                    "url": "Ghealdan",
+                    "label": "Ghealdan"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                964.79998779297,
+                1033.1846333231
+            ],
+            "popup": {
+                "title": "Tarabon",
+                "description": "",
+                "link": {
+                    "url": "Tarabon",
+                    "label": "Tarabon"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2686.3999633789,
+                1421.3859688927
+            ],
+            "popup": {
+                "title": "Cairhien",
+                "description": "",
+                "link": {
+                    "url": "Cairhien",
+                    "label": "Cairhien"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2524,
+                1461.5
+            ],
+            "popup": {
+                "title": "Cairhien",
+                "description": "Capital city of Cairhien built on hills and notorious for political machinations. It's geometric design was once punctuated by the Topless Towers.",
+                "link": {
+                    "url": "Cairhien (city)",
+                    "label": "Cairhien"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2912,
+                1578.5
+            ],
+            "popup": {
+                "title": "Jangai Pass",
+                "description": "A pass through the Spine of the World between Cairhien and the Aiel Waste.",
+                "link": {
+                    "url": "Jangai Pass",
+                    "label": "Jangai Pass"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2936.2609088771,
+                377.94857454421
+            ],
+            "popup": {
+                "title": "Mayene",
+                "description": "A city-state.",
+                "link": {
+                    "url": "Mayene",
+                    "label": "Mayene"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2882,
+                495.5
+            ],
+            "popup": {
+                "title": "Godan",
+                "description": "",
+                "link": {
+                    "url": "Godan",
+                    "label": "Godan"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2548.5,
+                655
+            ],
+            "popup": {
+                "title": "Tear",
+                "description": "Wealthy nation ruled by a group of High Lords and Ladies. Like Cairhien, it is steeped in politics. The common folk have little rights in Tear.",
+                "link": {
+                    "url": "Tear",
+                    "label": "Tear"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2370.5,
+                559
+            ],
+            "popup": {
+                "title": "Tear",
+                "description": "Walled capital city of the nation of the same name. Dominated by the inpenetrable Stone of Tear. The empoverished Maule area lies outside the walls.",
+                "link": {
+                    "url": "Tear",
+                    "label": "Tear (city)"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2071.5,
+                545
+            ],
+            "popup": {
+                "title": "Illian",
+                "description": "",
+                "link": {
+                    "url": "Illian",
+                    "label": "Illian"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1935,
+                352
+            ],
+            "popup": {
+                "title": "Illian",
+                "description": "Capital city of Illian and home to the monarch and the Council of Nine. A major sea port with a huge harbour. Linked to the Great Hunt of the Horn.",
+                "link": {
+                    "url": "Illian",
+                    "label": "Illian (city)"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1379,
+                446
+            ],
+            "popup": {
+                "title": "Ebou Dar",
+                "description": "Capital city of Altara. The monarch lives in the Tarasin Palace, but their power does not extend far from the city. A city of white domes and plazas.",
+                "link": {
+                    "url": "Ebou Dar",
+                    "label": "Ebou Dar"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1453.1044353384,
+                713.47074221723
+            ],
+            "popup": {
+                "title": "Salidar",
+                "description": "Birthplace of famed Amyrlin Deane Aryman, but abandoned since the Whitecloak War, it became the rallying point for the Rebel Aes Sedai.",
+                "link": {
+                    "url": "Salidar",
+                    "label": "Salidar"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                923.5,
+                912.5
+            ],
+            "popup": {
+                "title": "Elmora",
+                "description": "A city in Tarabon that appears on all Jordan's maps but about which we know nothing.",
+                "link": {
+                    "url": "Elmora",
+                    "label": "Elmora"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1329,
+                1030
+            ],
+            "popup": {
+                "title": "Jehanna",
+                "description": "Capital city of Ghealdan where the ruler lives in the Jheda Palace.",
+                "link": {
+                    "url": "Jehanna",
+                    "label": "Jehanna"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                676.5,
+                981
+            ],
+            "popup": {
+                "title": "Tanchico",
+                "description": "Capital of Tarabon and home to the Panarch, ruler of Tarabon and the Illuminators Guild. It is built on three peninsulas jutting into Tanchico Bay.",
+                "link": {
+                    "url": "Tanchico",
+                    "label": "Tanchico"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1139,
+                1443
+            ],
+            "popup": {
+                "title": "Katar",
+                "description": "",
+                "link": {
+                    "url": "Katar",
+                    "label": "Katar"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1453,
+                2004
+            ],
+            "popup": {
+                "title": "Saldaea",
+                "description": "",
+                "link": {
+                    "url": "Saldaea",
+                    "label": "Saldaea"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1641,
+                2106
+            ],
+            "popup": {
+                "title": "Maradon",
+                "description": "Capital of Saldaea built on the ancient site of Derenbar. Tenobia ruled from the Cordamora Palace. The Blight is visible from its highest points. ",
+                "link": {
+                    "url": "Maradon",
+                    "label": "Maradon"
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2056,
+                2082
+            ],
+            "popup": {
+                "title": "Chachin",
+                "description": "Capital of Kandor.",
+                "link": {
+                    "url": "Chachin",
+                    "label": "Chachin"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2246.5,
+                2048.5
+            ],
+            "popup": {
+                "title": "Canluum",
+                "description": "Moiraine visits this city in 979 NE.",
+                "link": {
+                    "url": "Canluum",
+                    "label": "Canluum"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1963,
+                2009
+            ],
+            "popup": {
+                "title": "Kandor",
+                "description": "",
+                "link": {
+                    "url": "Kandor",
+                    "label": "Kandor"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2917.5225791757,
+                2227.3863607376
+            ],
+            "popup": {
+                "title": "Malkier",
+                "description": "Former nation swallowed by the Blight in 955 NE. They were betrayed by Cowin Gemallan in a story of treachery and ambition.",
+                "link": {
+                    "url": "Malkier",
+                    "label": "Malkier"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2658.3999633789,
+                2014.9910758638
+            ],
+            "popup": {
+                "title": "Shienar",
+                "description": "",
+                "link": {
+                    "url": "Shienar",
+                    "label": "Shienar"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2534,
+                2048
+            ],
+            "popup": {
+                "title": "Arafel",
+                "description": "",
+                "link": {
+                    "url": "Arafel",
+                    "label": "Arafel"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2408,
+                2090.5
+            ],
+            "popup": {
+                "title": "Shol Arbela",
+                "description": "The capital of Arafel, called the \"City of Ten Thousand Bells.\" One of the largest cities that has no Ogier architecture or ruins.",
+                "link": {
+                    "url": "Shol Arbela",
+                    "label": "Shol Arbela"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1013,
+                1607.1857259584
+            ],
+            "popup": {
+                "title": "Arad Doman",
+                "description": "Nation ruled by a King elected by a Council of Merchants (always female). Domani women are known for being trained in manipulating men.",
+                "link": {
+                    "url": "Arad Doman",
+                    "label": "Arad Doman"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1292.200012207,
+                807.60179092906
+            ],
+            "popup": {
+                "title": "Amadicia",
+                "description": "",
+                "link": {
+                    "url": "Amadicia",
+                    "label": "Amadicia"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1681,
+                737
+            ],
+            "popup": {
+                "title": "Altara",
+                "description": "Large and diverse nation that is more a coalition of independent regions than ruled by a monarch centrally. Now controlled by the Seanchan.",
+                "link": {
+                    "url": "Altara",
+                    "label": "Altara"
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1951.6147160749,
+                930.1989706509
+            ],
+            "popup": {
+                "title": "Murandy",
+                "description": "A hodgepodge of local allegiances that barely hold together as a nation. They have a history of border disputes with Andor.",
+                "link": {
+                    "url": "Murandy",
+                    "label": "Murandy"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1825.5,
+                916
+            ],
+            "popup": {
+                "title": "Lugard",
+                "description": "Capital city of Murandy known for its licenciousness. King Roedran's authority extends only a small distance from the city.",
+                "link": {
+                    "url": "Lugard",
+                    "label": "Lugard"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                900,
+                1327
+            ],
+            "popup": {
+                "title": "Almoth Plain",
+                "description": "Location of the former nation of Almoth which disappeared over 400 years ago. Without any central authority, settlements here apply their own rules.",
+                "link": {
+                    "url": "Almoth Plain",
+                    "label": "Almoth Plain"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2125.5999755859,
+                2288.9944224148
+            ],
+            "popup": {
+                "title": "The Blight",
+                "description": "A continually expanding region corrupted by the influence of the Dark One, it is rife with Shadowspawn and even more dangerous creatures.",
+                "link": {
+                    "url": "Great Blight",
+                    "label": "Great Blight"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                251,
+                440
+            ],
+            "popup": {
+                "title": "Tremalking",
+                "description": "The largest of the islands of the Atha'an Miere and home to the peaceful Amayar, it is also the site of the female Choedan Kal.",
+                "link": {
+                    "url": "Tremalking",
+                    "label": "Tremalking"
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2356.0797949136,
+                1150.4627329905
+            ],
+            "popup": {
+                "title": "Aringill",
+                "description": "A river port that becomes home to thousands of refugees from Cairhien during the civil war.",
+                "link": {
+                    "url": "Aringill",
+                    "label": "Aringill"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2059.4485002058,
+                1151.346616467
+            ],
+            "popup": {
+                "title": "Four Kings",
+                "description": "Home of the Dancing Cartman, the innkeeper tries to keep Rand and Mat here against their will for Darkfriend Howal Gode. Rand channels and kills Gode.",
+                "link": {
+                    "url": "Four Kings",
+                    "label": "Four Kings"
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1212.5,
+                753
+            ],
+            "popup": {
+                "title": "Amador",
+                "description": "The capital of Amadicia and location of the Fortress of the Light, headquarters of the Children of the Light. King Ailron lives in the Serenda Palace.",
+                "link": {
+                    "url": "Amador",
+                    "label": "Amador"
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2365.9792898502,
+                1151.5233931623
+            ],
+            "popup": {
+                "title": "Maerone",
+                "description": "Cairhien port town on the east bank of the River Erinin, on the border with Andor.",
+                "link": {
+                    "url": "Maerone",
+                    "label": "Maerone"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1107.3292193381,
+                1617.8603153548
+            ],
+            "popup": {
+                "title": "Natrin's Barrow",
+                "description": "Former site of a fortress defending against incursions from Manetheren before the Trolloc Wars. Graendal made her home here as the Lady Basene.",
+                "link": {
+                    "url": "Natrin's Barrow",
+                    "label": "Natrin's Barrow"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1266.0746917145,
+                1229.3051390928
+            ],
+            "popup": {
+                "title": "Deven Ride",
+                "description": "The southernmost and smallest of the villages in the Two Rivers. Home to the Goose and Pipe Inn.",
+                "link": {
+                    "url": "Deven Ride",
+                    "label": "Deven Ride"
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1283,
+                1268.5
+            ],
+            "popup": {
+                "title": "Watch Hill",
+                "description": "A village in the Two Rivers. It is famous for its cooking. It's name and hilltop position suggest it was once a defensive outpost.",
+                "link": {
+                    "url": "Watch Hill",
+                    "label": "Watch Hill"
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2302.7816212816,
+                1615.562218316
+            ],
+            "popup": {
+                "title": "Dragonmount",
+                "description": "A towering volcano in sight of Tar Valon.",
+                "link": {
+                    "url": "Dragonmount",
+                    "label": "Dragonmount"
+                }
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1086,
+                2107
+            ],
+            "popup": {
+                "title": "World's End",
+                "description": "",
+                "link": {
+                    "url": "World's End",
+                    "label": "World's End"
+                }
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                103.59997558594,
+                1319.211515055
+            ],
+            "popup": {
+                "title": "Aile Somera",
+                "description": "One of the main clusters of islands home to the Atha'an Miere. High Lady Suroth regroups the Hailene on Cantorin, the largest of these islands ",
+                "link": {
+                    "url": "Aile Somera",
+                    "label": "Aile Somera"
+                }
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                770,
+                1404
+            ],
+            "popup": {
+                "title": "Toman Head",
+                "description": "",
+                "link": {
+                    "url": "Toman Head",
+                    "label": "Toman Head"
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1417.6000061035,
+                861.4429691918
+            ],
+            "popup": {
+                "title": "Boannda",
+                "description": "Large town with tall, gray walls, towers and a palace-like structure, Elayne and Nynaeve stopped docked here on the way to Salidar.",
+                "link": {
+                    "url": "Boannda",
+                    "label": "Boannda"
+                }
+            },
+            "id": "58"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1722.700012207,
+                875.20020479797
+            ],
+            "popup": {
+                "title": "Remen",
+                "description": "Decent-sized river town with colorful roofs. Perrin frees Gaul from a cage and they both kill Whitecloaks before fleeing. Faile also joins the party.",
+                "link": {
+                    "url": "Remen",
+                    "label": "Remen"
+                }
+            },
+            "id": "59"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2109.6530816701,
+                1150.4627329905
+            ],
+            "popup": {
+                "title": "Carysford",
+                "description": "",
+                "link": {
+                    "url": "Carysford",
+                    "label": "Carysford"
+                }
+            },
+            "id": "60"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2029.6000061035,
+                1887.1423678611
+            ],
+            "popup": {
+                "title": "Denhuir",
+                "description": "",
+                "link": {
+                    "url": "Denhuir",
+                    "label": "Denhuir"
+                }
+            },
+            "id": "61"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2435.6000976562,
+                1618.3937470028
+            ],
+            "popup": {
+                "title": "Dumai's Wells",
+                "description": "",
+                "link": {
+                    "url": "Battle of Dumai's Wells",
+                    "label": "Battle of Dumai's Wells"
+                }
+            },
+            "id": "62"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1190.5,
+                1203
+            ],
+            "popup": {
+                "title": "White River",
+                "description": "The local name for the portion of the Manetherendrelle which marks the southern border of the Two Rivers. It is too treacherous to cross.",
+                "link": {
+                    "url": "White River",
+                    "label": "White River"
+                }
+            },
+            "id": "63"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1358.5,
+                1272
+            ],
+            "popup": {
+                "title": "Taren River",
+                "description": "Marks the northern border of the Two Rivers. During the time of Manetheren, it was called the Tarendrelle.",
+                "link": {
+                    "url": "Taren",
+                    "label": "Taren"
+                }
+            },
+            "id": "64"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1523.5,
+                1192.5
+            ],
+            "popup": {
+                "title": "Manetherendrelle",
+                "description": "The Taren River and the White River merge to form the Manetherendrelle.",
+                "link": {
+                    "url": "River Manetherendrelle",
+                    "label": "Manetherendrelle"
+                }
+            },
+            "id": "65"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2811,
+                2145
+            ],
+            "popup": {
+                "title": "Tarwin's Gap",
+                "description": "Once the entry from Shienar into Malkier, it is now a defensive choke point against Trolloc invasions from the Blight.",
+                "link": {
+                    "url": "Tarwin's Gap",
+                    "label": "Tarwin's Gap"
+                }
+            },
+            "id": "66"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2650,
+                2097.25
+            ],
+            "popup": {
+                "title": "Medo",
+                "description": "Siuan Sanche and her entourage docked ships at this small village during her visit to Fal Dara. It was later burned to hinder the Shadow's advance.",
+                "link": {
+                    "url": "Medo",
+                    "label": "Medo"
+                }
+            },
+            "id": "67"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2498.5,
+                1549.5
+            ],
+            "popup": {
+                "title": "Tremonsien",
+                "description": "A precisely laid-out village atop a terraced hill that is home to the Nine Rings Inn. The archaeological site of the male Choedan Kal is close by.",
+                "link": {
+                    "url": "Tremonsien",
+                    "label": "Tremonsien"
+                }
+            },
+            "id": "68"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1059.599511608,
+                1153.9982668964
+            ],
+            "popup": {
+                "title": "Alcruna",
+                "description": "The population of this Taraboner small village is killed, or \"pacified\", on orders of Jaichim Carridin. Geofram Bornhald recieves orders here.",
+                "link": {
+                    "url": "Alcruna",
+                    "label": "Alcruna"
+                }
+            },
+            "id": "69"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1367.5,
+                1306.5
+            ],
+            "popup": {
+                "title": "Hills of Absher",
+                "description": "The party flee across this area and face off against a group of Trollocs. Moiraine channels a wall of fire using an angreal.",
+                "link": {
+                    "url": "Hills of Absher",
+                    "label": "Hills of Absher"
+                }
+            },
+            "id": "70"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1322.6432342094,
+                1396.5358928434
+            ],
+            "popup": {
+                "title": "Shadar Logoth",
+                "description": "The former city of Aridhol, abandoned since the Trolloc Wars. It is home of Mordeth's shade and the entity known as Mashadar",
+                "link": {
+                    "url": "Shadar Logoth",
+                    "label": "Shadar Logoth"
+                }
+            },
+            "id": "71"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1453,
+                1359
+            ],
+            "popup": {
+                "title": "Tower of Ghenjei",
+                "description": "Bayle Domon points out a tower the colour of burnished steel two hundred feet high, but with no way in. This is an entry point to Sindhol.",
+                "link": {
+                    "url": "Tower of Ghenjei",
+                    "label": "Tower of Ghenjei"
+                }
+            },
+            "id": "72"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                344,
+                1992
+            ],
+            "popup": {
+                "title": "Aile Dashar",
+                "description": "A group of islands inhabited by the Atha'an Miere.",
+                "link": {
+                    "url": "Aile Dashar",
+                    "label": "Aile Dashar"
+                }
+            },
+            "id": "73"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                436,
+                928
+            ],
+            "popup": {
+                "title": "Aile Jafar",
+                "description": "One of the groups of islands inhabited by the Atha'an Miere",
+                "link": {
+                    "url": "Aile Jafar",
+                    "label": "Aile Jafar"
+                }
+            },
+            "id": "74"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1047,
+                334
+            ],
+            "popup": {
+                "title": "Qaim",
+                "description": "An island inhabited by the Atha'an Miere.",
+                "link": {
+                    "url": "Qaim",
+                    "label": "Qaim"
+                }
+            },
+            "id": "75"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2854,
+                255
+            ],
+            "popup": {
+                "title": "Cindalking",
+                "description": "One of the islands inhabited by the Atha'an Miere.",
+                "link": {
+                    "url": "Cindalking",
+                    "label": "Cindalking"
+                }
+            },
+            "id": "76"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1521.4000854492,
+                1340.1999511719
+            ],
+            "popup": {
+                "title": "Arinelle",
+                "description": "",
+                "link": {
+                    "url": "Arinelle",
+                    "label": "Arinelle"
+                }
+            },
+            "id": "77"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1208.8000488281,
+                1358.8000488281
+            ],
+            "popup": {
+                "title": "Lake Somal",
+                "description": "",
+                "link": {
+                    "url": "Lake Somal",
+                    "label": "Lake Somal"
+                }
+            },
+            "id": "78"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2594.1499938965,
+                2046.3499984741
+            ],
+            "popup": {
+                "title": "Mora",
+                "description": "",
+                "link": {
+                    "url": "Mora (river)",
+                    "label": "Mora"
+                }
+            },
+            "id": "79"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2289.3500061035,
+                1913.7499885559
+            ],
+            "popup": {
+                "title": "Erinin",
+                "description": "",
+                "link": {
+                    "url": "Erinin",
+                    "label": "Erinin"
+                }
+            },
+            "id": "80"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2197.875,
+                1604.25
+            ],
+            "popup": {
+                "title": "Luan",
+                "description": "",
+                "link": {
+                    "url": "Luan (river)",
+                    "label": "Luan"
+                }
+            },
+            "id": "81"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1600.75,
+                1629.25
+            ],
+            "popup": {
+                "title": "Ivo",
+                "description": "",
+                "link": {
+                    "url": "Ivo",
+                    "label": "Ivo"
+                }
+            },
+            "id": "82"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2739,
+                1507
+            ],
+            "popup": {
+                "title": "Gaelin",
+                "description": "",
+                "link": {
+                    "url": "Gaelin (river)",
+                    "label": "Gaelin"
+                }
+            },
+            "id": "83"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2397.7990950036,
+                1174.5043635509
+            ],
+            "popup": {
+                "title": "Alguenya",
+                "description": "",
+                "link": {
+                    "url": "Alguenya",
+                    "label": "Alguenya"
+                }
+            },
+            "id": "84"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2169.5,
+                1811.5
+            ],
+            "popup": {
+                "title": "Antaeo",
+                "description": "",
+                "link": {
+                    "url": "Antaeo",
+                    "label": "Antaeo"
+                }
+            },
+            "id": "85"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1750,
+                1527
+            ],
+            "popup": {
+                "title": "Haevin",
+                "description": "Haevin",
+                "link": {
+                    "url": "Haevin (river)",
+                    "label": "Haevin"
+                }
+            },
+            "id": "86"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2574,
+                947
+            ],
+            "popup": {
+                "title": "Iralell",
+                "description": "",
+                "link": {
+                    "url": "Iralell",
+                    "label": "Iralell"
+                }
+            },
+            "id": "87"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2035,
+                738
+            ],
+            "popup": {
+                "title": "Shal",
+                "description": "",
+                "link": {
+                    "url": "Shal",
+                    "label": "Shal"
+                }
+            },
+            "id": "88"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1972.8279195105,
+                796.55578900665
+            ],
+            "popup": {
+                "title": "Cary",
+                "description": "",
+                "link": {
+                    "url": "Cary",
+                    "label": "Cary"
+                }
+            },
+            "id": "89"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1955.1502499808,
+                1015.0517843933
+            ],
+            "popup": {
+                "title": "Storn",
+                "description": "",
+                "link": {
+                    "url": "Storn",
+                    "label": "Storn"
+                }
+            },
+            "id": "90"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1874,
+                998
+            ],
+            "popup": {
+                "title": "Armahn",
+                "description": "",
+                "link": {
+                    "url": "Armahn",
+                    "label": "Armahn"
+                }
+            },
+            "id": "91"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1800.293864901,
+                830.85046789419
+            ],
+            "popup": {
+                "title": "Reisendrelle",
+                "description": "",
+                "link": {
+                    "url": "Reisendrelle",
+                    "label": "Reisendrelle"
+                }
+            },
+            "id": "92"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1062,
+                1672
+            ],
+            "popup": {
+                "title": "Dhagon",
+                "description": "",
+                "link": {
+                    "url": "Dhagon",
+                    "label": "Dhagon"
+                }
+            },
+            "id": "93"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1097,
+                1495.5
+            ],
+            "popup": {
+                "title": "Akuum",
+                "description": "",
+                "link": {
+                    "url": "Akuum",
+                    "label": "Akuum"
+                }
+            },
+            "id": "94"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1453,
+                1050
+            ],
+            "popup": {
+                "title": "Garen's Wall",
+                "description": "",
+                "link": {
+                    "url": "Garen's Wall",
+                    "label": "Garen's Wall"
+                }
+            },
+            "id": "95"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1363,
+                1044
+            ],
+            "popup": {
+                "title": "Boern",
+                "description": "",
+                "link": {
+                    "url": "Boern",
+                    "label": "Boern"
+                }
+            },
+            "id": "96"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1272.4386527452,
+                654.42732598815
+            ],
+            "popup": {
+                "title": "Sharia",
+                "description": "",
+                "link": {
+                    "url": "Sharia",
+                    "label": "Sharia"
+                }
+            },
+            "id": "97"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1445,
+                800
+            ],
+            "popup": {
+                "title": "Eldar",
+                "description": "",
+                "link": {
+                    "url": "Eldar",
+                    "label": "Eldar"
+                }
+            },
+            "id": "98"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                817.5,
+                1026
+            ],
+            "popup": {
+                "title": "Andahar",
+                "description": "",
+                "link": {
+                    "url": "Andahar",
+                    "label": "Andahar"
+                }
+            },
+            "id": "99"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                3029.9525573844,
+                487.55012562812
+            ],
+            "popup": {
+                "title": "The Drowned Lands",
+                "description": "",
+                "link": {
+                    "url": "Drowned Lands",
+                    "label": "Drowned Lands"
+                }
+            },
+            "id": "100"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2326.25,
+                1973.25
+            ],
+            "popup": {
+                "title": "Tifan's Well",
+                "description": "Moiraine visits the home of Adeleas and Vandene Namelle, two elderly retired Aes Sedai, to research the Forsaken and other obscure knowledge.",
+                "link": {
+                    "url": "Tifan's Well",
+                    "label": "Tifan's Well"
+                }
+            },
+            "id": "101"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1243.4472747165,
+                1259.0036239026
+            ],
+            "popup": {
+                "title": "The Westwood",
+                "description": "The location of Tam al'Thor's farm and similar farmsteads, isolated even by Two Rivers' standards.",
+                "link": {
+                    "url": "Westwood",
+                    "label": "Westwood"
+                }
+            },
+            "id": "102"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2518,
+                1209.75
+            ],
+            "popup": {
+                "title": "Morelle",
+                "description": "",
+                "link": {
+                    "url": "Morelle",
+                    "label": "Morelle"
+                }
+            },
+            "id": "103"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2334,
+                1257
+            ],
+            "popup": {
+                "title": "Jurene",
+                "description": "A small village of one-storey, thatched, wooden houses. Nynaeve, Elayne and Egwene walk to here when the Blue Crane becomes stuck on a mud flat.",
+                "link": {
+                    "url": "Jurene",
+                    "label": "Jurene"
+                }
+            },
+            "id": "104"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2209.0015844268,
+                2151.0188283695
+            ],
+            "popup": {
+                "title": "The Shadow's Lance",
+                "description": "",
+                "link": {
+                    "url": "The Shadow's Lance",
+                    "label": "The Shadow's Lance"
+                }
+            },
+            "id": "105"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2798.5,
+                2177
+            ],
+            "popup": {
+                "title": "The Seven Towers",
+                "description": "",
+                "link": {
+                    "url": "The Seven Towers",
+                    "label": "The Seven Towers"
+                }
+            },
+            "id": "106"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                3026,
+                2097
+            ],
+            "popup": {
+                "title": "Niamh Passes",
+                "description": "",
+                "link": {
+                    "url": "Niamh Passes",
+                    "label": "Niamh Passes"
+                }
+            },
+            "id": "107"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2468.125,
+                1959.3125
+            ],
+            "popup": {
+                "title": "Field of Merrilor",
+                "description": "",
+                "link": {
+                    "url": "Field of Merrilor",
+                    "label": "Field of Merrilor"
+                }
+            },
+            "id": "108"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2749,
+                1496
+            ],
+            "popup": {
+                "title": "Eianrod",
+                "description": "A large town abandoned  during the Cairhienin civil war. Aviendha opens a Gateway from here to Seanchan and flees from Rand. ",
+                "link": {
+                    "url": "Eianrod",
+                    "label": "Eianrod"
+                }
+            },
+            "id": "109"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2974,
+                1596.5
+            ],
+            "popup": {
+                "title": "Selean",
+                "description": "",
+                "link": {
+                    "url": "Selean",
+                    "label": "Selean"
+                }
+            },
+            "id": "110"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                3115,
+                1639
+            ],
+            "popup": {
+                "title": "Taien",
+                "description": "Those following Couladin massacre the inhabitants, leaving only 100 survivors. It lies at the foot of an ancient monument locals call the Cliff Snake.",
+                "link": {
+                    "url": "Taien",
+                    "label": "Taien"
+                }
+            },
+            "id": "111"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2696,
+                592
+            ],
+            "popup": {
+                "title": "Lord Algarin's Manor",
+                "description": "Residence of Algarin Pendeloan, Rand's party recover here after the Cleansing of saidin. It is unsuccessfully attacked by a hundred thousand Trollocs.",
+                "link": {
+                    "url": "Battle at Lord Algarin's manor",
+                    "label": "Algarin's manor"
+                }
+            },
+            "id": "112"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2207,
+                681
+            ],
+            "popup": {
+                "title": "Plains of Maredo",
+                "description": "",
+                "link": {
+                    "url": "Plains of Maredo",
+                    "label": "Plains of Maredo"
+                }
+            },
+            "id": "113"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2136.1695859646,
+                1147.6343058658
+            ],
+            "popup": {
+                "title": "Cullen's Crossing",
+                "description": " A small village in which Adeleas Namelle and Ispan Shefar are murdered.",
+                "link": {
+                    "url": "Cullen's Crossing",
+                    "label": "Cullen's Crossing"
+                }
+            },
+            "id": "114"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2351.4836008359,
+                1660.4634989213
+            ],
+            "popup": {
+                "title": "Darein",
+                "description": "A village at the foot of one of the bridges joining Tar Valon to the mainland. It is the site of negotiations between the White Tower and Rebels.",
+                "link": {
+                    "url": "Darein",
+                    "label": "Darein"
+                }
+            },
+            "id": "115"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2387.2808816334,
+                1654.011149543
+            ],
+            "popup": {
+                "title": "Dorlan",
+                "description": "Sisters who managed to flee the disaster at Dumais Wells were holed up here and prevented from returning to Tar Valon.",
+                "link": {
+                    "url": "Dorlan",
+                    "label": "Dorlan"
+                }
+            },
+            "id": "116"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2843.9834739323,
+                1839.8918446474
+            ],
+            "popup": {
+                "title": "Hardan",
+                "description": "Former nation which collapsed due to population decline.",
+                "link": {
+                    "url": "Hardan",
+                    "label": "Hardan"
+                }
+            },
+            "id": "117"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1740.1897885001,
+                523.96612485923
+            ],
+            "popup": {
+                "title": "Kabal Deep",
+                "description": "",
+                "link": {
+                    "url": "Kabal Deep",
+                    "label": "Kabal Deep"
+                }
+            },
+            "id": "118"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1858,
+                1452
+            ],
+            "popup": {
+                "title": "Caralain Grass",
+                "description": "",
+                "link": {
+                    "url": "Caralain Grass",
+                    "label": "Caralain Grass"
+                }
+            },
+            "id": "119"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1768,
+                1430
+            ],
+            "popup": {
+                "title": "Caralain",
+                "description": "",
+                "link": {
+                    "url": "Caralain",
+                    "label": "Caralain"
+                }
+            },
+            "id": "120"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2051,
+                871
+            ],
+            "popup": {
+                "title": "Kintara",
+                "description": "",
+                "link": {
+                    "url": "Kintara",
+                    "label": "Kintara"
+                }
+            },
+            "id": "121"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2150,
+                747
+            ],
+            "popup": {
+                "title": "Maredo",
+                "description": "",
+                "link": {
+                    "url": "Maredo",
+                    "label": "Maredo"
+                }
+            },
+            "id": "122"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1011.5,
+                1381.5
+            ],
+            "popup": {
+                "title": "Almoth",
+                "description": "",
+                "link": {
+                    "url": "Almoth",
+                    "label": "Almoth"
+                }
+            },
+            "id": "123"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1988.7378220872,
+                994.89924112947
+            ],
+            "popup": {
+                "title": "Minde",
+                "description": "The Mindeans are unreasonably proud of the fact they have bad tempers. Lords Paers and Cullen were prime examples. Mat rescues Olver from them.",
+                "link": {
+                    "url": "Minde",
+                    "label": "Minde"
+                }
+            },
+            "id": "124"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2504,
+                736
+            ],
+            "popup": {
+                "title": "Haddon Mirk",
+                "description": "",
+                "link": {
+                    "url": "Haddon Mirk",
+                    "label": "Haddon Mirk"
+                }
+            },
+            "id": "125"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2550,
+                804
+            ],
+            "popup": {
+                "title": "Mar Haddon",
+                "description": "",
+                "link": {
+                    "url": "Mar Haddon",
+                    "label": "Mar Haddon"
+                }
+            },
+            "id": "126"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1436.4874259805,
+                527.32488206987
+            ],
+            "popup": {
+                "title": "Alkindar",
+                "description": "",
+                "link": {
+                    "url": "Alkindar",
+                    "label": "Alkindar"
+                }
+            },
+            "id": "127"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1440.5532899723,
+                527.32488206987
+            ],
+            "popup": {
+                "title": "Coramen",
+                "description": "",
+                "link": {
+                    "url": "Coramen",
+                    "label": "Coramen"
+                }
+            },
+            "id": "128"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1454.5186489007,
+                536.1637168347
+            ],
+            "popup": {
+                "title": "Jurador",
+                "description": "",
+                "link": {
+                    "url": "Jurador",
+                    "label": "Jurador"
+                }
+            },
+            "id": "129"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1457.5238527208,
+                539.69925074063
+            ],
+            "popup": {
+                "title": "Runnien Crossing",
+                "description": "",
+                "link": {
+                    "url": "Runnien Crossing",
+                    "label": "Runnien Crossing"
+                }
+            },
+            "id": "130"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1463.1807069703,
+                549.24519228665
+            ],
+            "popup": {
+                "title": "Londaren Cor",
+                "description": "Ruined capital of Eharon, one of the Ten Nations. It was claimed that here the Ogier perfected the stonework they had practiced in building Tar Valon.",
+                "link": {
+                    "url": "Londaren Cor",
+                    "label": "Londaren Cor"
+                }
+            },
+            "id": "131"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1388.5,
+                451.75
+            ],
+            "popup": {
+                "title": "Kin's farm",
+                "description": "Farm maintained as a cover for  Kinswomen moving to and from Ebou Dar or serve out penance. Destroyed when Elayne failed to unweave a Gateway.",
+                "link": {
+                    "url": "Kin's farm",
+                    "label": "Kin's farm"
+                }
+            },
+            "id": "132"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2819.5882899814,
+                2140.0586732611
+            ],
+            "popup": {
+                "title": "Blood Springs",
+                "description": "So-called because the rocks beneath the river make the water appear red. Lan makes a defence here during the Last Battle.",
+                "link": {
+                    "url": "Blood Springs",
+                    "label": "Blood Springs"
+                }
+            },
+            "id": "133"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2499.6224714944,
+                1548.0335207126
+            ],
+            "popup": {
+                "title": "Male Choedan Kal",
+                "description": "",
+                "link": {
+                    "url": "Choedan Kal",
+                    "label": "Male Choedan Kal"
+                }
+            },
+            "id": "134"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2446.5894629055,
+                2419.7194052204
+            ],
+            "popup": {
+                "title": "Shayol Ghul",
+                "description": "Cavernous mountain where the Pattern is thin enough for the Dark One to speak to his minions, it was a tropical island before the drilling of the Bore",
+                "link": {
+                    "url": "Shayol Ghul",
+                    "label": "Shayol Ghul"
+                }
+            },
+            "id": "135"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1298.6016036491,
+                1374.2620292361
+            ],
+            "popup": {
+                "title": "Comfrey",
+                "description": "Mat pretends to be from this village when delivering a letter to Morgase, calling himself \"Thom Grinwell\". ",
+                "link": {
+                    "url": "Comfrey",
+                    "label": "Comfrey"
+                }
+            },
+            "id": "136"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2255.6706319851,
+                1279.8632739477
+            ],
+            "popup": {
+                "title": "Braem Wood",
+                "description": "",
+                "link": {
+                    "url": "Braem Wood",
+                    "label": "Braem Wood"
+                }
+            },
+            "id": "137"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2648.8220023248,
+                2214.6584386763
+            ],
+            "popup": {
+                "title": "The Eye of the World",
+                "description": "A store of purified saidin and historical artefacts presided over for over 3000 yrs by the Green Man. It's location is hidden by some unknown means.",
+                "link": {
+                    "url": "Eye of the World",
+                    "label": "The Eye of the World"
+                }
+            },
+            "id": "138"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2099.2232566476,
+                1124.2997820866
+            ],
+            "popup": {
+                "title": "Harlon Bridge",
+                "description": "",
+                "link": {
+                    "url": "Harlon Bridge",
+                    "label": "Harlon Bridge"
+                }
+            },
+            "id": "139"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2074.8280726966,
+                1151.5233931623
+            ],
+            "popup": {
+                "title": "Market Sheran",
+                "description": "",
+                "link": {
+                    "url": "Market Sheran",
+                    "label": "Market Sheran"
+                }
+            },
+            "id": "140"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2090.9147519686,
+                1151.8769465529
+            ],
+            "popup": {
+                "title": "Breen's Spring",
+                "description": "",
+                "link": {
+                    "url": "Breen's Spring",
+                    "label": "Breen's Spring"
+                }
+            },
+            "id": "141"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1833.5278836167,
+                1152.2304999435
+            ],
+            "popup": {
+                "title": "Arien",
+                "description": "",
+                "link": {
+                    "url": "Arien",
+                    "label": "Arien"
+                }
+            },
+            "id": "142"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1813.0217869623,
+                1153.2911601153
+            ],
+            "popup": {
+                "title": "Grinwell's Farm",
+                "description": "",
+                "link": {
+                    "url": "Master Grinwell",
+                    "label": "Grinwell's Farm"
+                }
+            },
+            "id": "143"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2354.9307463941,
+                1664.3525862178
+            ],
+            "popup": {
+                "title": "Jualdhe",
+                "description": "",
+                "link": {
+                    "url": "Jualdhe",
+                    "label": "Jualdhe"
+                }
+            },
+            "id": "144"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2357.9359502142,
+                1662.6732076125
+            ],
+            "popup": {
+                "title": "Luagde",
+                "description": "",
+                "link": {
+                    "url": "Luagde",
+                    "label": "Luagde"
+                }
+            },
+            "id": "145"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2360.0572705578,
+                1659.4028387495
+            ],
+            "popup": {
+                "title": "Daghain",
+                "description": "",
+                "link": {
+                    "url": "Daghain",
+                    "label": "Daghain"
+                }
+            },
+            "id": "146"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2353.1629794412,
+                1657.5466834489
+            ],
+            "popup": {
+                "title": "Alindaer",
+                "description": "",
+                "link": {
+                    "url": "Alindaer",
+                    "label": "Alindaer"
+                }
+            },
+            "id": "147"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2355.5494648277,
+                1655.6021398007
+            ],
+            "popup": {
+                "title": "Osenrein",
+                "description": "",
+                "link": {
+                    "url": "Osenrein",
+                    "label": "Osenrein"
+                }
+            },
+            "id": "148"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1392.25,
+                465.25
+            ],
+            "popup": {
+                "title": "Weesin",
+                "description": "",
+                "link": {
+                    "url": "Weesin",
+                    "label": "Weesin"
+                }
+            },
+            "id": "149"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1386.75,
+                458
+            ],
+            "popup": {
+                "title": "So Tehar",
+                "description": "So Teha",
+                "link": {
+                    "url": "So Tehar",
+                    "label": "So Tehar"
+                }
+            },
+            "id": "150"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1426.2343776533,
+                606.16728817217
+            ],
+            "popup": {
+                "title": "Mosra",
+                "description": "",
+                "link": {
+                    "url": "Mosra",
+                    "label": "Mosra"
+                }
+            },
+            "id": "151"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1448.5082412606,
+                674.04953916608
+            ],
+            "popup": {
+                "title": "So Eban",
+                "description": "",
+                "link": {
+                    "url": "So Eban",
+                    "label": "So Eban"
+                }
+            },
+            "id": "152"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2153.8472554942,
+                1277.3884002135
+            ],
+            "popup": {
+                "title": "Jornhill",
+                "description": "",
+                "link": {
+                    "url": "Jornhill",
+                    "label": "Jornhill"
+                }
+            },
+            "id": "153"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2152.0794885413,
+                1255.1145366061
+            ],
+            "popup": {
+                "title": "New Braem",
+                "description": "",
+                "link": {
+                    "url": "New Braem",
+                    "label": "New Braem"
+                }
+            },
+            "id": "154"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2127.6843045903,
+                1254.4074298249
+            ],
+            "popup": {
+                "title": "Kore Springs",
+                "description": "",
+                "link": {
+                    "url": "Kore Springs",
+                    "label": "Kore Springs"
+                }
+            },
+            "id": "155"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2309.4107473553,
+                1622.1029560419
+            ],
+            "popup": {
+                "title": "Negin Bridge",
+                "description": "",
+                "link": {
+                    "url": "Negin Bridge",
+                    "label": "Negin Bridge"
+                }
+            },
+            "id": "156"
+        }
+    ]
+}

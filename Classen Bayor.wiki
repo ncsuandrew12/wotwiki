@@ -1,0 +1,20 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=classen
+| status=Dead
+| nationality=Unknown nationality
+| gender=Male
+| mentioned={{amol|32}}
+| lastmentioned={{amol|32}}
+}}
+'''Classen Bayor''' is a military leader from [[Mat Cauthon]]'s memories.
+
+== History ==
+Mat remembers that Bayor was a leader at the [[Battle of Kolesar]] who lost his cavalry in some marshes.{{ref/book|14|32}}
+== Trivia ==
+* Classen Bayor is named for Bjorn Clasen, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Historical people]]
+[[Category:Characters named after fans]]
+{{DEFAULTSORT:Bayor, Classen}}

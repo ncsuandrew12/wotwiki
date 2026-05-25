@@ -1,0 +1,39 @@
+{{nation 
+|name=Aelgar
+|historical=yes
+|type=Monarchy
+|region=[[Shadow Coast]]
+|capital=[[Ancohima]]
+|cities=[[Condaris]], [[Mainelle]], [[Shar Honelle]]
+|affiliation=[[Ten Nations]]
+|established=After the Breaking
+|fragmented=After [[Trolloc Wars]]
+|era=[[After Breaking]]
+}}
+
+'''Aelgar''' was one of the [[Ten Nations]] and fell in the aftermath of the [[Trolloc Wars]]. It was renowned for its wealth and power.{{verify}} The associated denonym is '''Aelgari'''.{{ref/book|5|22}}
+
+==Geography==
+[[Image:Aelgar.png|thumb|200px|left|In red location within the Ten Nations]]
+
+Aelgar was located in the southwestern corner of the [[Westlands]], stretching from the [[Aryth Ocean]] to the [[River Eldar]] and from the southern end of the [[Mountains of Mist]] to the [[Sea of Storms]]. It was bordered by [[Safer]] to the north, [[Manetheren]] to the northeast, and [[Eharon]] to the east. Its capital was [[Ancohima]]. Its other major cities were [[Condaris]], [[Mainelle]] (on the site of modern [[Tanchico]]), and [[Shar Honelle]]. All were [[Ogier]]-built.{{ref|{{twotc}}}}
+
+Aelgar's territory incorporated most of modern [[Tarabon]], all of [[Amadicia]], and a thin slice of western [[Altara]], as well as the entirety of the [[Shadow Coast]].
+
+==History==
+Aelgar arose in the aftermath of the [[Breaking of the World]]. King [[Remedan|Remedan the Goldentongued]] signed the [[Compact of the Ten Nations]] for Aelgar in {{Ab|209}}, allying the kingdom to the other nations of the [[Westlands]].
+
+Mat's earliest memory given to him by the [[Eelfinn]] is fighting against the Aelgari on the side of King [[Maecine]] of [[Eharon]] between 500-{{ab|600}}.{{ref/book|5|22}}
+
+It was known for its "fabled lost mines" that lay south of modern-day Amadicia in the mountain range on the Shadow Coast.{{ref/book|11|p}}
+
+It survived the Trolloc Wars, but collapsed shortly thereafter, with the nations of [[Balasun]] and [[Kharendor]] arising from its ruins.
+
+{{notes}}
+
+{{nations}}
+[[es:Aelgar]]
+[[Category:Ten Nations]]
+[[Category:Aelgar| Aelgar]]
+[[Category:After the Breaking]]
+[[Category:Historical nations]]

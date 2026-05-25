@@ -1,0 +1,58 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Murandian
+| gender=Female
+| rank=Aes Sedai
+| affiliation=Elaida a'Roihan's White Tower
+| mentioned={{ns|6}}
+| status=Alive
+| appeared={{tgh|4}}
+| lastappeared={{tdr|18}}
+| living=tdr
+}}'''Serafelle Tanisloe''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Serafelle Tanisloe}}
+
+==Appearance and Personality==
+Serafelle is 5'4<nowiki>''</nowiki> tall, and pretty in a plump fashion, with brown hair and large hazel eyes. Sometimes, especially when thinking, she had the physical mannerisms of a spoiled noblewoman.
+
+She was a quick study and a fast learner—very observant, very intelligent and quick-witted.
+
+==Abilities==
+Serafelle is of [[Strength in the One Power among Aes Sedai|average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|29}}. She would not be able to [[Traveling|Travel]] without linking with another channeler.
+
+==History==
+Serafelle was born in Murandy in {{ne|862}} to mid-level nobility.
+
+She was married, but lost her husband and three children to a fever; she herself barely escaped death. She was a pampered, self-indulgent woman, but after the deaths, she reassessed her life and decided to become Aes Sedai. 
+
+She lied about her age to get enrolled in the novice book in {{ne|891}}. She claimed to be eighteen, but was actually twenty-nine and started slowing at nineteen.
+
+Two years passed before sisters discovered the truth, and by that time, she had to be allowed to continue. That lie, though, was possibly the reason she was not allowed to test for Accepted for ten years; she believed that, with some justification. 
+
+After spending ten years as a novice and four years as Accepted, she was raised to the shawl in {{ne|905}}. She would have become Yellow except that she possessed a minimal Talent for Healing.
+
+At the end of the [[Aiel War]], [[Sheriam]] reports that she overheard Serafelle, [[Jennet Cobb]] and [[Ryma Galfrey]] say the Aiel were retreating.
+
+==Activities==
+Serafelle is one of the representatives of her Ajah to escort the [[Amyrlin]] to [[Fal Dara]]. She is in the anteroom during [[Moiraine]]'s audience with [[Siuan Sanche]]{{ref/book|2|4}}. With [[Verin Mathwin]] she translates the dark prophecy left by [[Padan Fain]] and [[Trollocs]] in the Fal Dara dungeon. Verin tells Moiraine and Siuan that Serafelle is the only other one to read the Dark Prophecy and that she is too caught up in ancient books to interpret it correctly{{ref/book|2|7}}. Serafelle has told Verin there are many lost books still waiting to be found{{ref/book|2|37}}.
+
+She was part of the circle of Aes Sedai who [[Healed]] [[Mat]] from the evil of [[Shadar Logoth]].{{ref/book|3|18}}
+
+During the [[White Tower Schism]], she remained a loyalist to the Tower.
+
+Serafelle was one of thirty-nine sisters sent to escort the Dragon Reborn to Tar Valon. As such, she was present at the [[Battle of Dumai's Wells]], but managed to escape.
+
+She was one of twelve sisters kept in [[Dorlan]] in order to prevent word of the Tower's defeat from reaching the city.<ref>[http://13depository.blogspot.com/2002/03/elaidas-embassy-to-rand.html Robert Jordan's Notes, as reported by Linda Taglieri]</ref>
+
+==Trivia==
+Although she is of noble birth, she does not have the distinctive name structure of Murandian nobles - like [[Elaida do Avriny a'Roihan]], [[Nisain a'Cowel]] and [[Roedran Almaric do Arreloa a'Naloy]].
+
+{{notes}}
+{{DEFAULTSORT:Tanislow, Serafelle}}
+
+[[es:Serafelle]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Dorlan Group]]

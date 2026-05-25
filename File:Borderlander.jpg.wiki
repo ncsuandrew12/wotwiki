@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = An unidentified [[Borderlander]].
+| Source             = ''[[The Wheel of Time Roleplaying Game]]'' [http://web.archive.org/web/20030820043529/www.wizards.com/wheeloftime/article.asp?x=wx20020305j website].
+| Artist             = Paolo Parente
+}}

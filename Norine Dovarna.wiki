@@ -1,0 +1,39 @@
+{{ character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| eyes=Large
+| status=Alive
+| appeared={{acos|p}}
+| lastappeared={{kod|24}}
+| living=kod
+}}'''Norine Dovarna''' is an [[Aes Sedai]] of the [[White Ajah]].{{ref|{{twotc}}, Norine Dovarna}}
+
+==Appearance==
+She is beautiful, with large 'liquid' eyes, often vague as any Brown.
+
+==Strength and Abilities==
+Her strength is not given in the Companion, nor are their clues as to her strength in the books.
+
+==History==
+She has few friends, perhaps none. She was almost as dreamy as [[Danelle]] and perhaps as friendless and solitary.
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+Norine carries a strong resentment towards [[Alviarin Freidhen]] as she herself wanted to be Keeper of the Chronicles. However, she still almost curtsies to Alviarin to curry favor. When Alviarin loses the position of Keeper, she taunts Alviarin with her failures.
+
+She is one of the sisters to hold the shield over [[Leane Sharif]], when [[Egwene al'Vere]] comes to visit her. She sends Egwene for punishment because Egwene does not stop her visit to Leane when commanded.
+
+{{notes}}
+{{DEFAULTSORT:Dovarna, Norine}}
+
+{{Short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

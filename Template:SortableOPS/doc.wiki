@@ -1,0 +1,59 @@
+==Purpose of template==
+Add a [[One Power]] [[Strength in the One Power rankings|strength]] table entry sortable by the "number" type (doesn't prepend the |).
+
+==How to use==
+ <nowiki>{{SortableOPS|power}}</nowiki>
+
+The "power" parameter is a simple integer from 1 to 78, where 1 is equivalent to ++1, 7 is equivalent to 1(+12), 19 is equivalent to 13(1) and 78 is equivalent to 72(6).
+
+==Example==
+
+<pre>{| class="article-table sortable" 
+|+
+! data-sort-type="number" |Power Index
+! data-sort-type="number" |Power Notation
+|-
+|1
+|{{SortableOPS|1}}
+|-
+|6
+|{{SortableOPS|6}}
+|-
+|7
+|{{SortableOPS|7}}
+|-
+|18
+|{{SortableOPS|18}}
+|-
+|19
+|{{SortableOPS|19}}
+|-
+|78
+|{{SortableOPS|78}}
+|-
+|}</pre>
+
+{| class="article-table sortable" 
+|+
+! data-sort-type="number" |Power Index
+! data-sort-type="number" |Power Notation
+|-
+|1
+|{{SortableOPS|1}}
+|-
+|6
+|{{SortableOPS|6}}
+|-
+|7
+|{{SortableOPS|7}}
+|-
+|18
+|{{SortableOPS|18}}
+|-
+|19
+|{{SortableOPS|19}}
+|-
+|78
+|{{SortableOPS|78}}
+|-
+|}

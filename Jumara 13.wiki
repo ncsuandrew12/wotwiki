@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|January}}
+|{{Wotmonth|Jumara}}
+|}
+'''Jumara 13 (January 31)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:january 31|January 31]]
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

@@ -1,0 +1,13 @@
+{| align=center border=1 cellpadding=4 cellspacing=2 style="border: 1px solid #E0E0E0; background-color: #242424"
+|- align=center
+|<big>'''Matters on this talk page or section are being actively discussed, ''or should be''.'''</big>
+Anyone may contribute their opinion, in the interest of gaining [[Wikipedia:Wikipedia:Consensus|consensus]] on how to go forward.
+|- align=right
+|<small>'''''Added: {{{1|on an unknown date}}}'''''</small>
+|}
+<noinclude>
+:''Any talk page may utilize this template to gain additional eyeballs; all such pages will be added to [[:Category:Calls for Comments]].''
+:''Adding a parameter will show when the discussion started/template was added, such as <code><nowiki>{{comment|June 2005}}</nowiki></code>.''
+</noinclude><includeonly>
+[[Category:Calls for Comments|{{PAGENAME}}]]</includeonly><noinclude>
+[[Category:Administrative templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,28 @@
+{{ character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| gender=Female
+| nationality=Saldaean
+| rank=Aes Sedai
+| affiliation=White Tower
+| eyes=Dark
+| status=Alive
+| appeared={{tgs|6}}
+| lastappeared={{tgs|6}}
+| living=tgs
+}}
+'''Maenadrin''' is an [[Aes Sedai]] of the [[Brown Ajah]].
+
+== Appearance ==
+She has dark eyes.
+
+== Activities ==
+Maenadrin and [[Negaine]] were surprised to see [[Egwene al'Vere]] in the Brown Ajah quarters very late at night. In reality, Egwene had been following her usual path to the novice quarters and was just as surprised to see the Brown sisters on reaching what she thought was her destination. This confusion was a result in a shift in the [[Pattern]] which had swapped the locations of part of the novice quarters with a portion of those belonging to the Brown Ajah.
+
+The swap occured without any of those inside the affected areas feeling any motion or vibration. Maenadrin, along with the other Browns in the same situation, continued to live in her old room in the middle of the novice quarters as the alternative would have been to be squeezed into a much smaller and basic accommodation provided to a novice.{{Ref/book|12|6}}
+
+{{Short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

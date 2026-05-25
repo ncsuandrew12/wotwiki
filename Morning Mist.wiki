@@ -1,0 +1,16 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=morning_mist
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Female
+| appeared={{tdr|5}}
+}}
+'''Morning Mist''' is a she-[[wolf]].
+
+==Activities==
+Following the skirmish in the [[Mountains of Mist]], Mourning Mist is one of a few wolves that survive the encounter.{{ref/book|3|5}}
+
+{{notes}}

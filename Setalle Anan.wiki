@@ -1,0 +1,80 @@
+{{character 
+| image=BrownAjah.png
+| imagesize = 250px
+| nationality=Borderlander
+| gender=Female
+| status=Alive
+| occupation=Innkeeper
+| ajah=
+| eyes=Hazel
+| hair=Graying
+| appeared={{loc|47}}
+| lastappeared={{amol|34}}
+| living=amol
+|birth = {{ne|902}}}}'''Setalle Anan''' is an innkeeper in [[Ebou Dar]] and a former [[Aes Sedai]] of the [[Brown Ajah]] whose ability to channel was [[Severing#Burning out|burned out]] while studying a ''[[ter'angreal]]'' in [[973 NE]]. Her real name is '''Martine Janata'''.{{ref|{{twotc}}, Setalle Anan}}
+
+==Appearance==
+She is stately, with a touch of gray in her hair. She has hazel eyes. She wears a marriage knife set with red and white stones nestled between generous cleavage, and carries a curved belt knife in the Ebou Dari fashion.
+
+==Strength and Abilities==
+Before burning herself out, she had a strength in the [[One Power]] of {{opsl|20}}, making her [[Strength in the One Power among Aes Sedai|very strong]] for an Aes Sedai. Few would have matched her strength, and even fewer surpassed it. She was an expert in ''ter'angreal.''
+
+==History==
+Setalle was born '''Martine Janata '''somewhere in the Borderlands in {{ne|902}}.
+
+She went to the [[White Tower]] in {{ne|917}}. She spent five years as a [[novice]] and four years as [[Accepted]] before being raised to the shawl in {{ne|926}}.
+
+As a sister of the brown Ajah, she was happiest while studying and researching. However, her love of travel and adventures and men made many joke that she should have been a Green. She often joked that she would like three or four Warders, and not just for extra hands to carry books.
+
+She was the last Aes Sedai who regularly studied ''ter'angreal'' which nobody knew the use of. In [[973 NE]], she was discovered unconscious in her apartments, having been burned out. She was unconscious for three days and had no memory of the week before the incident. Her Warder had been killed by the shock of her burning out. Nobody ever wanted to have anything to do with any of the ter'angreal she had been studying. As soon as she was well enough, she slipped out of Tar Valon.
+
+She has some acquaintance of the Kin, if not actually a member herself.
+
+As Setalle, she married [[Jasfer Anan]] to become Setalle Anan. She has several children, and would have died in childbirth had it not been for the [[Kin]]. Setalle and Jasfer have three daughters, [[Marah Anan]], [[Leral Anan]], [[Frielle Anan]], and two sons, one of whom is named [[Ross Anan]].
+
+She was the innkeeper of the [[Wandering Woman]] in Ebou Dar, until selling the inn during [[Winter's Heart]].
+
+==Activities==
+=== Hiding Joline ===
+She reports [[Elayne Trakand]] and [[Nynaeve al'Meara]] to the [[Kin]] as runaway Accepted posing as [[Aes Sedai]].
+
+She hides [[Joline Maza]] and her [[Warder]]s from the [[Seanchan]], who would make her ''[[damane]]''. She introduces Joline to [[Matrim Cauthon]] and charges him with the task of spiriting Joline away from [[Ebou Dar]].
+
+She later accompanies Mat and his party when he flees Ebou Dar. They join up with [[Valan Luca]]'s Traveling Circus where she is confined to watching over [[Tuon Athaem Kore Paendrag]].
+She accompanies Mat and Tuon on their walks together.
+
+She interrupts Mat when he is beating Joline and points out that he must be wearing a ''ter'angreal'' that disrupts weaves from the One Power. She says that [[Cadsuane Melaidhrin]] also has one, which surprises the Aes Sedai there, who question why she would even know Cadsuane. During this time, she reveals to Mat that she was previously Aes Sedai and left the Tower after being burned out. In return for his silence she gives some insight into Tuon's character, knowing Mat is falling for Tuon.
+
+=== Traveling with the Band ===
+After a skirmish with Darkfriends in [[Maderin]], Mat and the rest of his group decide to leave Luca's show. While riding through [[Altara]] they meet up with the [[Band of the Red Hand]] and begin to travel with them.
+
+[[Furyk Karede]] comes to the Band's camp to take Tuon back to Ebou Dar. Tuon gives a farewell to Setalle, who she was becoming quite fond of, especially enjoying their discussions.
+
+Setalle decides to stay with Mat's camp and take care of [[Olver]] when the Aes Sedai leave for the White Tower. She later reports to Mat about receiving a letter from Joline stating that she has made it safely to the White Tower.
+
+===Last Battle===
+
+She is in Tar Valon with [[Faile]] when a [[bubble of evil]] takes the group to the [[Blight]]. After [[Berisha|Berisha's]] death, Faile asks her if she could make a [[gateway]] and Setalle explains that she had been burned out in an accident over twenty-five years ago. Setalle is the one to suggest going toward [[Shayol Ghul]] and Faile thinks she might be a [[Darkfriend]].
+
+As the group reaches Shayol Ghul they take a gateway to the [[Field of Merrilor]].
+
+==After the Last Battle==
+
+It was stated by Brandon Sanderson that she survived the [[Last Battle]].
+
+In "The Wheel of Time Companion" it is stated that somehow Setalle was relieved by the fact that Nynaeve was unable to [[Heal]] her from the burning out, as she preferred in fact to continue to live as a common person with her family, rather than as an Aes Sedai.
+
+== The One Who Is No Longer ==
+[[Bair]], [[Melaine]], and [[Amys]] had dreamt of the finding of the [[Bowl of the Winds]] and told [[Aviendha]] about it:
+
+{{quote|All three Dreamwalkers had this dream, which makes it especially significant. Rain... coming from a bowl. There are snares and pitfalls around the bowl. If the right hands pick it up, they will find a treasure perhaps as great as the bowl. In the wrong hands the world is doomed. The key to finding the bowl is to find the one who is '''no longer'''.|Bair}}
+
+It seems likely that "the one who is no longer" is indeed Setalle. It is she who takes Elayne and Nynaeve to the Kin, which eventually leads them to the Bowl of Winds. As the books progress and it seems more apparent that she was Aes Sedai (up to her ultimate confession to Mat) it might be deduced that the phrase "who is no longer" refers to her being burned out of the Source. 
+
+{{notes}}
+{{DEFAULTSORT:Anan, Setalle}}
+[[Category:Brown Ajah]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Stilled|Stilled]]

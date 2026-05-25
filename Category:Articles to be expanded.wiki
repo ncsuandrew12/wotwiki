@@ -1,0 +1,4 @@
+These articles still need expansion, although they may no longer be [[:Category:Stubs|Stubs]]. To add an article to this list, insert {{[[Template:expand|expand]]}} into the article text, and make a note on the talk page of what you would like to see added.
+
+Of course, it may be simpler, if you have the knowledge, to add the information yourself. [[project:Be bold|Be bold]]!
+[[Category:Todo| Articles to be expanded]]

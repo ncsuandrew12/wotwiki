@@ -1,0 +1,87 @@
+{{Featuredicon}}
+{{ character 
+| image=Wot padan fain by reddera-d507pr0.jpg
+| imagesize = 250px
+| affiliation=Darkfriend
+| nationality=Murandy
+| gender=Male
+| status=Dead
+| weight=Gaunt
+| eyes=Dark
+| mentioned={{teotw|1}}
+| appeared={{teotw|2}}
+| lastappeared={{amol|47}} (as Shaisam)
+| ewot=fain
+}}
+{{WotQ|Padan Fain}}
+'''Padan Fain''' is a [[peddler]] and [[Darkfriend]] from [[Lugard]] who made regular visits to the [[Two Rivers]] and [[Emond's Field]]. He has since become far more than a simple peddler and is a secondary antagonist for most of the series.
+
+== Appearance ==
+Fain is pale and skinny with gangly arms. He has a large beak of a nose and wide ears.
+
+==Activities==
+===Peddler and Darkfriend===
+Padan Fain became a Darkfriend in his twenties for the promise of immortality. Continuing his work as a [[peddler]], he came to [[Emond's Field]] every spring and loved being the center of attention.{{ref/book|1|3}} Unknown to anyone in the town, he had also been a Darkfriend for more than 40  years and was the "Dark One's Hound," searching for the [[Dragon Reborn]].
+
+===Dark One's Hound===
+Sometime in [[996 NE]], he was chosen for a special task: to seek the Dragon Reborn. He journeyed to [[Shayol Ghul]] and met [[Ba'alzamon]] who gave him dark powers to aid in his hunt. In {{ne|997}}, he journeyed back to Shayol Ghul, and his mind was "distilled" of his findings. By {{ne|998}}, given the special ability to track the ones he was seeking, he had narrowed his search to three boys from Emond's Field: [[Rand al'Thor]], [[Matrim Cauthon]], and [[Perrin Aybara]]. With this certainty in mind, he brought [[Trolloc]]s and [[Myrddraal]] to Emond's Field on [[Winternight]].
+[[Image:Fain.jpg|left|thumb|150px|Fain with the [[ruby-hilted dagger|ruby dagger]] portrait done by Seamas Gallagher]]
+
+===Escape===
+After the failure of that attack, he was forced to join the Trollocs in the hunt for [[Moiraine Damodred]] and company. When they hid in [[Shadar Logoth]], he managed to escape the Myrddraal only to be trapped by [[Mordeth]], the ancient spirit which had caused the downfall of [[Aridhol]] (now Shadar Logoth). Mordeth had at last found the vessel he needed to command, so he could escape the damned city, but because the Dark One had touched and changed Fain's soul, Mordeth could only merge with Fain, not overtake him.{{ref/book|2|49}}
+
+[[File:Padan_Fain.PNG|thumb|308x308px|Padan Fain arrives in Emond's Field]]
+The resulting entity was considered a maverick by the forces of the [[Shadow]]. Mordeth's hatred of the Shadow combined corrosively with Fain's resentment of the changes forced upon him. After this merger, his compulsion to hunt Rand, Mat, and Perrin grew even stronger, aided by the fact that he could already sense where they were. He blamed the boys, on some level, for causing what had happened to him. Following them to [[Fal Dara]] in [[Shienar]], he was captured and arrested.{{ref/book|1|46}} While imprisoned, he was able to remove his ties to Ba'alzamon, renounced his Darkfriend vows, and claimed to be a changed man; in fact, any changes wrought made him more dangerous and evil, not less. In the chaos of the attack against Fal Dara, he escaped with [[ruby-hilted dagger|Mat's dagger]] and the [[Horn of Valere]].{{ref/book|2|6}}
+
+Rand and Loial took the dagger and horn from Fain and his Trollocs {{ref/book|2|19}} and went to Cairhien. Darkfriends stole the dagger and horn back and set fire to the inn just before [[Ingtar]] arrived.{{ref/book|2|30}}
+
+[[file:Fain rpg.jpg|thumb|Padan Fain and the dagger|left|177x177px]]
+While traveling in the [[Ways]], Fain was caught by [[Machin Shin]], the Black Wind of the Ways that devours souls, be they human or Shadowspawn. The screaming voices of the Wind greeted him as a friend and feared him. In fact, the Wind fled from him. (This was the first time Machin Shin had grasped something living and let it go.) It is unknown whether this had any real effect on Fain, but the Wind appears to have picked up Fain's compulsion to hunt Rand. The Wind was next seen trying to force itself out of the Ways to devour Rand in [[Cairhien]]. This, too, is a first because it is assumed that the Wind cannot leave the Ways and had never before sought specific people. Fain seemed to be unaware that, after having been grasped by the Wind and then released, Machin Shin has acquired Fain's own compulsive desire to hunt after Rand.{{ref/book|2|34}} 
+
+[[file:Ordeith ccg.JPG|thumb|left|Ordeith from the [[CCG]]]]
+
+===Ordeith===
+Padan enticed Rand, Mat, Perrin, [[Verin Sedai]], and [[Ingtar Shinowa]] to [[Falme]] where he lost the dagger and the Horn.{{ref/book|2|34}} Calling himself '''Ordeith''' (''wormwood'' in the [[Old Tongue]], pronounced: OHR-deeth), he changed strategies from force to manipulation, convincing Lord Commander [[Pedron Niall]] of the [[Children of the Light|Whitecloaks]],{{ref/book|3|p}} as well as [[Elaida|Elaida do'Avriny a'Roihan]], [[Amyrlin Seat]] of the [[Aes Sedai]], to oppose Rand. He also convinced Niall to send Whitecloaks to the Two Rivers, hoping it would draw Rand out. Unfortunately, he got Perrin instead, and the future Lord Goldeneyes of the Two Rivers broke him of his Whitecloak affiliations.
+
+[[File:Padan Fain.JPG|thumb|right|Padan Fain after becoming Ordeith.]]
+
+Padan was one of the most dangerous creatures in the known world, as dangerous as any [[Forsaken]]. He could corrupt people by just being in their presence. He could sense fear and tension and could recognize a Darkfriend on sight. He had also developed a way of inflicting pain by touch, from levels of "merely" harmful to deadly.{{ref/book|6|28}} Eventually, he recovered the dagger (his primary interest) in [[Tar Valon]];{{ref/book|5|19}} feeling complete with it. He was very likely insane and was wanted by the Shadow. [[Slayer]] was sent to the Two Rivers to kill him but failed when Perrin interfered.
+
+===Jeraal Mordeth===
+Padan changed his name to '''Jeraal Mordeth''' and sought out [[Toram Riatin]], leader of the [[Cairhien]]in rebellion against Rand, whom he advised. When Rand showed up to neutralize the rebellion, Padan was able to wound him with the dagger from Shadar Logoth, which - but for the frantic efforts of both a [[Yellow Ajah]] Sister [[Samitsu Tamagowa]] and the [[Asha'man]] [[Damer Flinn]] - would have resulted in al'Thor's death.
+
+[[Image:Fain_saliba.jpg|left|thumb|150px|Fain portrait done by Jeremy Saliba]]
+Then Padan showed up in [[Far Madding]] with Toram Riatin, where, after killing some renegade Asha'man, he lured Rand and Lan into a trap; however, the trap failed, leaving Toram dead and Fain injured and fleeing.{{ref/book|9|33}} He also appeared to show a new ability to produce ghosts or mirages of dead people. 
+
+Fain then walked through the [[Blight]]. He had become so dangerous that he could kill [[Jumara (Shadowspawn)|Jumara]] with just his dagger. He also appeared to have become both completely insane and almost inhumanly psychotic. He came across a group of [[Trollocs]] and a [[Myrddraal]] and attacked them with [[Mashadar]]. His Mashadar was so powerful that the Myrddraal died instantly instead of remaining alive until sunset. The mist had a strange effect on the Trollocs, corrupting them and raising them as almost zombie-like slaves that Fain believed would fight even more viciously than they did before he enslaved them. He finally decided to stop the hunt and kill al'Thor.[[File:Padan fain cropped.jpg|thumb|314x314px|Fain, as he appears during the Last Battle, illustrated by Paul Bielaczyc]]
+
+===Shaisam===
+Padan was on the battlefield at Thakan'dar calling himself Shaisam. He spread Mashadar by consuming the souls of Trollocs and Men and appeared to believe the Fain part of him was his only weakness, which he decided to eliminate as soon as he re-establisheds himself in a new location. He touched Mat who appeared to die. Shaisam (Padan) found Mat lying on the ground, pretending to be dead. Mat rose up, surprised him, stole the dagger, and rammed it into Shaisam's heart, finally killing him.
+
+==Parallels==
+* The Arthurian character [[Wikipedia:Mordred|Mordred]] is similar in name to Fain's alias Mordeth. Mordred was a traitor to King Arthur, and, during their last battle, he fatally wounded Arthur. Fain left Rand with a never-healing wound during the mist incident among the Cairhienin rebels.
+
+* Together with [[Aram]], Fain's name comes from the Mesopotamian kingdom [[Wikipedia:Paddan Aram|Padan Aram]].
+
+* The alias [[Ordeith]] means "wormwood"{{ref/book|3|p}}{{ref/book|4|1}}
+** In ''{{Wiki|The Screwtap Letters}}'', the eponymous {{Trope|Lemony narrator|demonic narrator}} addresses his correspondence to his nephew Wormwood, advising him on various ways to lead his charge into evil. Fain, as Ordeith, insinuated himself with the [[Whitecloaks]] who harassed the [[Two Rivers]] and himself murdered the [[Aybara]] family.{{ref/book|4|31}}
+** "Wormwood" is the name of the star that turned a third of the waters to wormwood in {{Cite/bible|Revelation|8|10||11|version=ESV}}.
+
+* See [[Similarities to Tolkien#Fain]] for parallels to characters from ''{{Wlink|lotr|The Lord of the Rings}}''.
+
+==Trivia==
+*Padan Fain was nearly named Nikel Fain until his name was changed by Robert Jordan while editing his test manuscript for "The Eye of the World".[[File:Padan_Fain_Name_Change.jpg|thumb|Padan Fain's name Changed from Nikel to Padan]]
+[[File:Eye_of_the_World_Manuscript.jpg|thumb|Original Eye of the World Manuscript from The James O. Rigney Jr. Papers at the College of Charleston]]
+== In the television series ==
+* In the {{TVlink||TV Series}}, {{TVlink|Padan Fain}} is played by actor {{TVlink|Johann Myers}}.
+
+{{notes}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Fain, Padan}}
+
+[[es:Padan Fain]]
+[[Category:Peddlers]]
+[[Category:Shadar Logoth]]
+[[Category:POV character]]
+[[Category:Eyes-and-ears]]
+[[Category:Antagonists]]

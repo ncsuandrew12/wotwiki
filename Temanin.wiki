@@ -1,0 +1,20 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Temanin
+| status=Dead
+| nationality=Eharon
+| rank=King
+| title=King of [[Eharon]]
+| gender=Male
+| mentioned={{Bwb}}
+| lastmentioned={{Bwb}}
+}}
+'''Temanin''' was a King of [[Eharon]].
+
+== History ==
+In {{ab|209}}, King Temanin signed the [[Compact of the Ten Nations]] on behalf of Eharon.{{ref/book|bwb}}
+
+{{notes}}
+
+[[Category:Historical people]]

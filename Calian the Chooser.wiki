@@ -1,0 +1,30 @@
+{{character 
+| image=Valere-icon-color.png
+| imagesize=100px
+| ewothist=Calian
+| name=Calian
+| status=Bound to the Wheel
+| rank=Hero of the Horn
+| nationality=Unknown nationality
+| affiliation=Horn of Valere
+| gender=Female
+| appeared={{tgh|47}}
+| mentioned={{acos|21}}
+| lastmentioned={{acos|21}}
+}}
+'''Calian the Chooser''' is one of the [[Heroes of the Horn]]. She is sister to [[Shivan the Hunter]]; both of whom are only born at the end of an [[Age]].  It was suspected that [[Elayne Trakand]] was pregnant with Shivan and Calian, but [[The Wheel of Time Companion]] states in the entries for each that they were born before the beginning of the [[Last Battle]] and Elayne had not yet given birth.{{ref|{{twotc}}, Calian|Calian}}
+==Appearance==
+She rides with a red mask. 
+
+==Activities==
+She appears when [[Matrim Cauthon]] blows the [[Horn of Valere]] at [[Falme]].{{ref/book|2|47}} Mat later remembers her when he recognizes [[Birgitte Silverbow]].{{ref/book|7|21}}
+
+==Relationship with Shivan the Hunter==
+She and her brother were reborn prior to the [[Last Battle]].{{ref||Calian}} It is not clear if they are twins, however, as there is enough time for a woman to have given birth twice between the end of The Great Hunt and [[A Memory of Light]] when the horn is sounded for the second time (approx. 2 years). The Companion and books simply refer to them as brother and sister.
+
+==Parallels==
+[[File:Kali.jpg|thumb|Kali: Hindu goddess associated with time, change, creation, power, destruction and death.|left|160px]]Calian is a parallel of the Hindu goddess [[Wikipedia:Kali|Kali]]. She is an alternate form or aspect of the Divine Mother Parvati or Durga. In this form she is goddess of chaos and destruction, symbolizing the destruction of the previous Age, and is today considered as a goddess of time and change, symbolizing her role in bringing a new Age. She is revered as ''Bhavatarini'' - literally "redeemer of the universe". She is also represented as the consort of the god [[Wikipedia:Shiva|Shiva]], who is the parallel to her brother, Shivan the Hunter.
+
+{{notes}}
+[[Category:Parallels]]
+[[Category:Historical people]]

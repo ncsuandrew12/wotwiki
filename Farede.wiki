@@ -1,0 +1,20 @@
+{{for|other uses of 'Farede'|Farede (disambiguation)}}
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Taraboner
+| gender=Male
+| rank=Panarch
+| title=[[Panarch]] of [[Tarabon]]
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}
+'''Farede''' was an early [[Panarch]] of [[Tarabon]], who reigned around the year {{ne|1}}. 
+==History==
+Farede was the sponsor of a new calendar introduced by [[Uren din Jubai Soaring Gull]] in light of the chaos of the [[War of the Hundred Years]]. He is especially known for wanting to make [[Tanchico]] the intellectual capital of the world.
+
+The new calendar was adopted by academics across the [[Westlands]], and became known as the Farede Calendar in honor of the Panarch.{{ref/book|bwb}}
+
+{{notes}}
+[[Category:Historical people]]

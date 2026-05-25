@@ -1,0 +1,6 @@
+<noinclude>{|</noinclude>|-
+|'''[[:Category:Series_books|Books]] · [[:Category:People|People]] · [[:Category:Places|Places]] · [[:Category: Items|Items]] · [[Timeline]] · [[:Category:Concepts|Concepts]]'''<noinclude>
+|}
+{{Documentation}}
+[[Category:Templates]]
+[[Category:Mobile]]</noinclude>

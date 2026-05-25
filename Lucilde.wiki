@@ -1,0 +1,31 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| build=Lanky
+| status=Alive
+| appeared={{loc|30}}
+| lastappeared={{loc|30}}
+| living=loc
+}}
+'''Lucilde''' is a [[novice]] in [[Salidar]].
+
+== Appearance and Personality ==
+She is lanky. [[Delana Mosalaine]] thinks she is always nervous, but it may just be towards [[Aes Sedai]].{{ref/book|6|30}}
+
+==Strength and Abilities==
+Lucilde is [[Strength in the One Power among Aes Sedai|weak]] in the [[One Power]] for an Aes Sedai, with a potential strength level of {{opsl|35}}. This is too weak to [[Traveling|Travel]] without linking with another channeler. It is not known if she has reached this potential yet.
+
+== History ==
+She was born in {{ne|978}} and went to the Tower in {{ne|993}}. She has been a novice for seven years.{{ref|{{twotc}}, Lucilde}}
+
+== Activities ==
+She is one of eighteen novices that were brought from the White Tower to Salidar by [[Sheriam Bayanar]].{{ref/book|6|8}} The other novices include [[Angla]] and [[Tabiya]]. Had she remained in the Tower, she would have been tested for Accepted.{{ref|{{twotc}}, Lucilde}}
+
+She brings [[Halima Saranov]] to Delana. She states everything as if it were a question, for which Delana scolds her.{{ref/book|6|30}}
+
+
+[[Category:Rebel Aes Sedai]]

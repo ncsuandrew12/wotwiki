@@ -1,0 +1,25 @@
+{{character
+| image=SeanchanFlag.png
+| imagesize = 250px
+| eyes=Blue
+| hair=Gray
+| occupation=Der'sul'dam
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| appeared={{tpod|24}}
+| lastappeared={{tpod|24}}
+| living=tpod
+}}
+'''Lisaine Jarath''' is a ''[[der'sul'dam]]'' from [[Seandar]] in [[Seanchan]]. 
+
+== Appearance ==
+She has gray hair, a plump face and blue eyes.
+
+== Activities ==
+She rides under [[Kennar Miraj]] in the attack against [[Rand al'Thor]]'s forces outside [[Ebou Dar]].
+
+{{DEFAULTSORT:Jarath, Lisaine}}
+[[Category:Ever Victorious Army]]
+[[Category:Channelers]]
+[[Category:Learners]]

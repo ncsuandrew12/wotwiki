@@ -1,0 +1,26 @@
+{{character 
+| image=Fang-icon.svg
+| imagesize=125px
+| ewothist=raolin darksbane
+| status=Dead
+| death={{Ab|335}}
+| nationality=Essenian
+| title=False Dragon
+| gender=Male
+| mentioned={{teotw|14}}
+| lastmentioned={{loc|54}}
+}}
+'''Raolin Darksbane''' was a [[False Dragon]] who could [[channel]].
+
+==History==
+Born in [[Aren Mador]] in [[Essenia]], now modern day [[Far Madding]], he was one of the most powerful False Dragons on record.{{ref/book|9|22}} After he was captured his followers assaulted [[Tar Valon]] in an effort to rescue him.{{ref/book|3|22}}{{ref/book|6|8}}
+
+==Legacy==
+When [[Ishamael|Ba'alzamon]] speaks with [[Rand al'Thor]] in his dreams, he tells of the [[White Tower]] using False Dragons such as Darksbane, [[Davian]], [[Yurian Stonebow]], [[Guaire Amalasan]] and [[Logain Ablar]].{{ref/book|1|14}} [[Thomdril Merrilin]] recognizes the names and knows that even speaking them is dangerous.{{ref/book|1|15}} Rand says that he will not be used by the White Tower, [[Moiraine Damodred]], [[Siuan Sanche]] or [[Verin Mathwin]], like Darksbane and the others were used.{{ref/book|1|52}}{{ref/book|2|8}}  
+
+{{notes}}
+{{DEFAULTSORT:Darksban, Raolin}}
+[[Category:Historical people]]
+[[Category:Sparkers]]
+[[Category:Channelers]]
+[[Category:Stilled|Stilled]]

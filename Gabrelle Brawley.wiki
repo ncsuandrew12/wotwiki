@@ -1,0 +1,62 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Murandian
+| rank=Aes Sedai
+| affiliation= White Tower
+| height=5'5"
+| eyes=Green
+| status=Alive
+| appeared={{wh|p}}
+| lastappeared={{amol|48}}
+| living=amol
+| gender=Female
+|birth = 902 NE|build = Average|hair = Brown, short}}'''Gabrelle Brawley''' is an [[Aes Sedai]] of the [[Brown Ajah]].{{ref|{{twotc}}, Gabrelle Brawley}}
+
+== Appearance and Personality==
+Gabrelle has brown hair, barely touching her shoulders, with large green eyes and an upturned nose.{{ref/book|9|p}} She has a dusky complexion, and is around 5'5" tall.{{ref|{{twotc}}, Gabrelle Brawley}}
+
+She attempts to seduce and win over Logain as an atypical Brown with a sense of pragmatism.
+
+== Strength and abilities ==
+Gabrelle is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of {{opsl|25}}. She matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability at the Talent, she should be able to Travel.
+
+She has an ability in [[Healing]]. She heals Logain's wounds during the [[Last Battle]].
+
+== History ==
+Gabrelle was born in {{ne|902}} in Murandy. 
+
+She went to the Tower in {{ne|917}} at the age of fifteen. After seven years as [[Novice]] and six as [[Accepted]] she was raised to the shawl in the year {{ne|930}}.
+
+She is old enough to have been Aes Sedai much longer than [[Logain Ablar]] has even lived.
+
+== Activities ==
+===Attack on the [[Black Tower]]===
+Gabrelle was in the group of fifty or so Aes Sedai sent to destroy the [[Black Tower]] and to gentle and hang every man they found{{ref/book|7|p}}.
+
+Elaida abandons the Aes Sedai sent to capture the Black Tower, including Toveine, at [[Alviarin]]'s suggestion {{ref/book|7|32}}.
+
+Gabrelle was captured during the ill-fated attack on the Black Tower{{ref/book|8|26}}, and [[Bonding|bonded]] by Logain{{ref/book|9|p}}.
+
+She and [[Toveine Gazal]], the expedition's leader, agree to fall into rank below the two strongest Aes Sedai of the group, [[Lemai]] and [[Desandre]].{{ref/book|9|p}}
+
+She developed a sexual relationship with Logain to get information from him.{{ref/book|9|p}} Although initially purely for pragmatic reasons, she eventually found it exhilarating. Her helplessness against Logain was strangely thrilling to her, in a way that did not happen for her with men who could not channel; Logain's masking of the bond would also slip sometimes, giving Gabrelle positive feedback through the bond.
+
+She accompanies Logain to [[Algarin Pendaloan]]'s manor in [[Tear]]. While there she participates in the battle with the [[Trollocs]] and is used to burn away the dead bodies afterwards.{{ref/book|11|20}}
+
+She watches [[Rand al'Thor]]'s meeting with the [[Daughter of the Nine Moons]] from a distance and Travels in as back up when it is revealed that the Daughter of the Nine Moons is actually [[Semirhage]].{{ref/book|11|27}}
+
+===Last Battle===
+She was captured with Logain and Toveine when they returned to the Black Tower, but Gabrelle manages to avoid or resist the [[Turning]] technique being performed by [[Mazrim Taim]], his lackeys and sisters of the [[Black Ajah]]. When they were later freed, she fights in the [[Last Battle]] alongside Logain. She tries to tell him the [[Seals]] belong to the [[Amyrlin Seat]] and is frightened when he plans to use [[balefire]] to reach [[Sakarnen]].{{ref/book|14|37}}
+
+Once [[Androl Genhald]] and [[Pevara Tazanovni]] recover the remaining [[Seal]]s to the [[Dark One's prison]] from Taim, Gabrelle tells Logain he must break them when the time comes.{{ref/book|14|48}} She is still with Logain when he makes the decision to save the refugees and to break the seals, she convinces him of the task and gives him the name "Sealbreaker". It is assumed she stays with him after the Last Battle and does not return to the [[White Tower]].
+
+{{notes}}
+{{DEFAULTSORT:Brawley, Gabrelle}}
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

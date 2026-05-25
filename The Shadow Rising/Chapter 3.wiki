@@ -1,0 +1,100 @@
+{{quote|Not one of the [[Forsaken]]. I think not. This was too simple. And too complex. As the [[Seal]]s holding the [[Dark One's prison]] weaken, it may be inevitable that a...miasma...will escape even while he is still held. Like bubbles rising from the things rotting on the bottom of a pond. But the bubbles will drift through the [[Pattern]] until they attach to a thread and burst.| [[Moiraine]]|[[Bubble of evil|bubbles of evil]]
+
+|}}
+{{summary | book=4 | ewot=ch3 | wotmania=
+|chapter=3
+|title=Reflection
+|icon=fang 
+|setting=[[Stone of Tear]]
+}}
+
+==Summary==
+:{{pov|[[Perrin Aybara]]}}
+
+[[File:Rand After The Bubble of Evil Attack.jpg|thumb|left|''And [[Rand]] was sitting at the foot of the bed, slumped against one of the bedposts with eyes closed and hands limp atop ''[[Callandor]],'' which lay across his knees. He looked as if he had taken a bath in blood.'']]
+
+[[Perrin Aybara|Perrin]] and [[Faile Bashere|Faile]] make their way through the [[Stone of Tear]] to confront [[Rand al'Thor|Rand]] about a bizarre event during which they were assaulted by Perrin's axe.{{ref/book|4|2}} On their way they meet High Lord [[Torean Andiama]], who angers Perrin with his tone and the way he looks at Faile. Perrin and Faile proceed to bicker over his reaction to Torean's conversation with them. They see [[Berelain sur Paendrag Paeron|Berelain]] bolting down the hall where Torean grabs her and they have a speedy conversation. Faile mistakes why Perrin stares at Berelain but what he noticed was her scent of fear and panic. Faile decides to return to bed and let Perrin go meet the [[Rand al'Thor|Dragon]] on his own, but not before being amused by his misunderstanding of the situation.
+
+Perrin makes his way to Rand's room, passing the [[Defenders of the Stone]] and then Rand's real guards, the [[Far Dareis Mai|Maidens of the Spear]]. [[Bain]] and [[Chiad]] give Perrin trouble as he tries to enter Rand's room, threatening him with their spears. Perrin gently but firmly picks up Bain and moves her out of his way, which earns the respect of the two [[Aiel]]. They suggest that he play [[Maidens' Kiss]], but Perrin declines and they let him enter.
+
+Perrin is greatly alarmed by Rand's appearance and shouts for one of the Maidens to get [[Moiraine Damodred|Moiraine]]. Rand tells Perrin to shut the door. Perrin tears a strip from a linen sheet and uses it to apply pressure to the wound on Rand's side, the one from [[Falme]]. Perrin asks Rand what he tried to do and Rand responds that it must have been an attack from one of the [[Forsaken]]. They both worry over Mat and guess at his whereabouts.
+
+[[Rhuarc]] enters telling Rand that rumors of what happened are starting to surface. Following on Rhuarc's heels is Moiraine, who demands to hear what has happened; her [[Warder]] [[Lan Mandragoran]] enters behind her. Silent sparks erupt between the two warriors but Lan cracks a joke about Rand making a mess while shaving which amuses Rhuarc and eases the tension.
+
+As Moiraine prepares to [[Heal]] Rand, she asks him to hold ''[[saidin]]'' so that it can be used to aid in the Healing, but he is unable to grasp the [[Void]]. The [[Aes Sedai]] Heals him anyway but expresses concern that the wound at his side still refuses to respond. {{Ref|The wound taken at [[Falme]] from [[Ishamael]] may have been caused by the [[True Power]] and is possibly the reason why normal Healing will not work. ({{2|47}})}} Rand believes that it will be the wound that kills him.
+
+<gallery orientation="portrait" columns="3">
+Rand 2.jpg|That is the one that will kill me, isn't it? ''His blood on the rocks of [[Shayol Ghul]], washing away the [[Shadow]], sacrifice for men's salvation.'' -Rand
+Moiraine.jpg|You read to much, and understand too little. -Moiraine
+Lan 2.jpg|He is only trying to find his way. No man likes to run forward blindly when he knows there is a cliff somewhere ahead. -Lan
+</gallery>
+
+Moiraine tries to send Rand to another bedchamber to rest, but Rand refuses to leave. He is tired of being chased around by his enemies. Rand explains uneasily what happened to him, and hypothesizes that one of the [[Forsaken]] attempted to murder him, possibly [[Sammael]]. Moiraine says it is the [[Dark One]] reaching out, creating [[Bubble of evil|bubbles of evil]].
+
+Moiraine then tries to talk Rand into making a decision, saying that the Tairen's fear of him will only last so long before they try plotting against him. Rand says for her not to rush him, before dismissing the group and telling Perrin that they will speak tomorrow.
+
+Perrin and Rhuarc discuss the similarities between the [[Dragon Reborn]] and [[Car'a'carn|He Who Comes With Dawn]], and the two related prophecies. Rhuarc mentions that the Aiel prophecy is different and that Rand still has to prove himself, and Rand and Rand alone will know what to do. Should Rand fail to meet the Aiel prophecy, they would leave to continue their search. Rhuarc bids Perrin a good night. After Rhuarc leaves Perrin studies the Tairen officer's face and feels that it won't be safe in the Stone of Tear should the Aiel leave. So he heads to his room to convince Faile to get away from this dangerous and volatile situation.
+
+==Characters==
+*[[Perrin Aybara]]
+*[[Faile Bashere]]
+*[[Rand al'Thor]]
+*High Lord [[Torean Andiama]]
+*[[Berelain sur Paendrag Paeron]]
+*[[Bain]]
+*[[Chiad]]
+*[[Rhuarc]]
+*[[Moiraine Damodred]]
+*[[Lan Mandragoran]]
+
+===Referenced===
+*[[Artur Hawkwing]]
+*[[Thomdril Merrilin]]
+*[[Dark One]]
+*[[Matrim Cauthon]]
+*[[Loial]]
+*[[Sammael]]
+
+==Groups==
+*[[Defenders of the Stone]]
+*[[High Nobility of Tear|High Lords of Tear]]
+*[[Aes Sedai]]
+*[[Aiel]]
+*[[Taardad]]
+*[[Maidens of the Spear]]
+
+===Referenced===
+*[[Forsaken]]
+
+==Places==
+*[[Tear]]
+*[[Stone of Tear]]
+
+===Referenced===
+*[[Mayene]]
+*[[Spine of the World]]
+*[[Aryth Ocean]]
+*[[Shayol Ghul]]
+*[[Illian]]
+
+==Items==
+*''[[Callandor]]''
+
+==Concepts==
+*[[Bubble of evil]]
+*''[[Saidin]]''
+*''[[Saidar]]''
+*[[Healing]]
+*[[Ta'veren]]
+===Culture===
+*''[[Shoufa]]''
+
+==Quotes==
+{{quote|I do not care if she smelled of the Essence of Dawn. That one is not interested in hunting a bear, however fine his hide would look stretched on a wall. She hunts the sun.|Faile|Berelain}}
+{{quote|I thought you were old enough to shave without someone to guide your hand.|Lan|seeing Rand with cuts everywhere}}
+{{quote|I will sleep here, Moiraine. I won't be chased any more. Not even out of bed.|Rand}}
+
+{{notes}}
+*At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''Reflection''}}

@@ -1,0 +1,17 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Entertainer
+| gender=Female
+| mentioned={{tfoh|36}}
+| lastmentioned={{tfoh|38}}
+| living=tfoh
+}}'''Mairin Gome''' is the owner and manager of a touring circus similar to the rival show owned by [[Valan Luca]].{{ref|{{twotc}}, Mairin Gome|MG}}
+
+==Activities==
+When Luca led his [[Valan Luca's Traveling Show|traveling show]] to [[Samara]], he was annoyed that Mairin Gome had arrived before him.{{ref/book|5|36}} Her circus included two women who performed on a hanging rope.{{ref/book|5|38}}  At one point the line to enter Mairin's show was almost as long as Luca's.{{ref||MG}}
+
+{{notes}}
+{{DEFAULTSORT:Gome, Mairin}}

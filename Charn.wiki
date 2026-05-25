@@ -1,0 +1,36 @@
+{{for|other uses of 'charn'|Charn (disambiguation)}}
+{{ character 
+| image=Leaves.png
+| imagesize = 200px
+| gender=Male
+| hair=Short Reddish-Gold
+| clan=Da'shain Aiel
+| status=Dead
+| appeared={{Tsr|26}}
+| lastappeared={{tsr|26}}
+}}
+'''Charn''' was a [[Da'shain Aiel]] who lived during the [[Age of Legends]] in the city of [[V'saine]]. His story is learned from Rand's [[Visions of Rhuidean|visions]] in the ter'angreal of Rhuidean.
+
+{{Ancestry/Rand}}
+
+==History==
+
+On his twenty-fifth naming day, Charn was walking down the streets of [[V'saine]] contemplating accepting the latest offer of marriage from his lover Nalla, as he witnessed the destruction of the [[Sharom]] as the [[Bore]] was made.
+
+Charn was in service to [[Mierin Eronaile]], who was largely responsible for the creation of the Bore and unleashing the [[Dark One]] upon the world.
+
+Charn was the great-greatfather of [[Coumin]], and the earliest known ancestor of Rand.
+
+Charn was killed by some citizens on the day the Bore was sealed.{{ref/book|4|26}}
+
+==Notes==
+
+His was the earliest point of view [[Rand al'Thor]] experienced while walking through the glass-column ''[[ter'angreal]]'' left in [[Rhuidean]] used by [[Aiel]] to relive their history as part of the path to becoming a clan chief or [[Wise One]].
+
+Since his lover proposed marriage to him, there may be some indication that the Aiel tradition of women proposing to men (and not the other way around) may have existed in some form during the Age of Legends, at least among a subpopulation.
+
+Since no two people who walk through the glass-column ''ter'angreal'' experience the same visions, it is thought that each individual relives small pieces of the lives of his or her ancestors. This presents an interesting situation: Charn was in service to Mierin (later [[Lanfear]] after swearing herself to [[the Shadow]]), and Lanfear was in love with [[Lews Therin Telamon]] before being sealed in the Bore. After being released, Lanfear pursued Rand as Lews Therin reborn. Thus, she is ostensibly in love with a descendant of one of her former servants and not just Lews Therin's reincarnation.
+
+{{notes}}
+[[Category:Age of Legends (people)]]
+[[Category:Historical people]]

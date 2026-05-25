@@ -1,0 +1,50 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| affiliation= White Tower
+| title=[[Amyrlin Seat]]
+| rank=Aes Sedai
+| status=Dead
+| death=circa {{Ab|1200}}
+| mentioned={{tgh|5}}
+| ewothist=tetsuan
+}}'''Tetsuan''' was an [[Aes Sedai]] of the [[Red Ajah]] who lived during the early and middle years of the [[Trolloc Wars]]. During the wars she was elevated to the [[Amyrlin Seat]] and later became the first Amyrlin to be stripped of her office and [[stilled]] by the [[Hall of the Tower]].
+
+==Appearance and Abilities==
+
+Records regarding the appearance of Tetsuan are scant. Scraps of history imply that she was "plain" in her appearance though exceptionally strong in her ability to [[channel]]. Records indicate that until the arrival of [[Eldrene ay Ellan ay Carlan]] at the [[White Tower]], Tetsuan was considered an exceptional novice and the strongest channeler of her era; possessing strength greater than all other Aes Sedai of the time and was exceeded only by the legendary Aes Sedai [[Caraighan Maconar]] who had died nearly 700 years previous. Tetsuan's absolute strength in the power is unknown, but given that she was less powerful than both Caraighan Maconar (who was rated as {{opsl|9}} on the [[One Power|power strength scale]]{{ref|{{twotc}}, Caraighan Maconar}}
+) and Eldrene (strength unknown but also exceeded by Caraighan Maconar), it is reasonable to assume Tetsuan's strength to be between {{opsl|13}} and {{opsl|11}}.
+
+==History==
+Due to the loss of knowledge that accompanied the destruction of records during the Trolloc Wars, very little of Tetsuan's history is known to loremasters. Her region of birth and her surname have both been forgotten.
+
+What is known about her is that she arrived at the [[White Tower]] as a [[novice]] circa AB 1105 during the middle years of the Trolloc Wars. For a short time Tetsuan was regarded as the strongest potential channeler of her era. This prestige ended with the arrival of fellow novice [[Eldrene ay Ellan ay Carlan]] of [[Manetheren]].
+
+White Tower records imply that Tetsuan and Eldrene quickly emerged as adversaries and that Tetsuan developed an adolescent jealousy of Eldrene's overwhelming beauty and greater strength in the power. {{ref/book|2|5}} Specific details of their animosity are unknown, though it is believed that because she had a "plain" appearance, Tetsuan bent all of her time towards her studies in an effort to become more prestigious than Eldrene but was never quite able to surpass her rival. Both were raised to full Aes Sedai circa AB 1115, with Tetsuan choosing the [[Red Ajah]]. Soon after receiving her shawl, Eldrene departed the White Tower and returned to Manetheren, eventually marrying and bonding King [[Aemon al Caar al Thorin]] many years later and becoming his queen. Tetsuan is believed to have remained in the tower.
+
+Tetsuan's activities as a full sister are lost to time, though given the hardships of the Trolloc Wars her career surely patterned other Aes Sedai who were swept into many great deeds and adventures. {{ref|{{bwb}}, Chapter 10 Rise and Fall of the Ten Nations}} What is known with certainty is that Tetsuan eventually rose to prominent political power as a Red Ajah [[Sitter]] within the tower. Ultimately she was raised to the Amyrlin Seat circa {{Ab|1200}}.
+
+Historians relate that at this time Manetheren fell under siege by the forces of [[shadow]]. During this period King Aemon had answered pleas from allies in the [[Ten Nations]] and had overextended his military - a flaw that the shadow sought to exploit - and Aemon recalled his army back to his homeland when he realized that Manetheren was in grave danger.{{ref/book|1|9}} Ultimately his forces clashed with their enemy in a titanic multiple day struggle that came to be known as the [[Battle of the Tarendrelle River]]. {{ref/book|1|9}}
+
+Knowing that his forces would be unable to repulse the Shadow alone, Aemon sent messengers to all the allied nations and a special plea was sent to Tetsuan. It is believed that when Tetsuan received Aemon's messenger she was influenced by her childhood hatred of Eldrene and selfishly chose to betray Manetheren by working in secret to halt or delay responses from allied nations. Her actions ultimately led to the annihilation of King Aemon's army and the Nation of Manetheren perished.
+
+When the details of her treachery became known to the [[Hall of the Tower]], the [[Sitters]] voted to strip Tetsuan of her Staff and Stole and condemned her to being stilled. She was kept in the White Tower kitchens and forced to labor as a scullery maid. {{ref/book|2|5}} She died three years later.{{ref|{{twotc}}, Tetsuan}}
+
+==Legacy==
+
+Tetsuan is a figure in the history of the White Tower that represents an embarrassment to all Aes Sedai. After more than two thousand years following her death her name continues to be uttered with scorn. She is one of only three Amyrlins to have been deposed and stilled, the other two being [[Bonwhin Meraighdin]] in {{Fy|992}} {{ref/book|2|5}} and [[Siuan Sanche]] in {{Ne|999}}.{{ref/book|4|47}} The tragedy of the relationship between Tetsuan and Eldrene is a subject taught to all novices in the White Tower and stands as a grim reminder that no Aes Sedai sister - regardless of position or influence - stands above [[Tower Law]].
+
+Some believe that a more detailed account of Tetsuan's life can be found within [[Thirteenth Depository|sealed White Tower records]] available only to Amyrlins, Sitters, and a secret group of [[Brown Ajah]] tower historians. Aes Sedai sisters will neither confirm nor deny knowledge of such records to outsiders.
+
+{{notes}}
+
+[[es:Tetsuan]]
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai after the Breaking]]
+[[Category:Aes Sedai]]
+[[Category:Stilled|Stilled]]

@@ -1,0 +1,121 @@
+{{nation
+|image=[[File:CairhienFlag.png|250px]]
+|pronounced=KEYE-ree-EHN
+|name=Cairhien
+|type=Monarchy
+|headofstate=[[Elayne Trakand]]
+|headofgov=
+|commander=
+|defacto=
+|executive=
+|legislative=
+|judicial=
+|sigil=A many-rayed golden rising sun; the Rising Sun.
+|banner=A many-rayed golden sun rising on a field of sky blue.
+|map=
+|region=between the [[River Erinin]] and [[Dragonwall]], north of [[Caemlyn]] and south of [[Kinslayer's Dagger]]
+|climate=
+|terrain=some fertile farmland
+|interest=
+|population=
+|capital=[[Cairhien (city)|Cairhien]]
+|cities=[[Eianrod]], [[Jurene]], [[Maerone]], [[Morelle]], [[Selean]], [[Taien]], [[Tremonsien]]
+|imports=grain
+|exports=
+|affiliation=
+|currency=
+|religious=
+|holiday=
+|anthem=
+|formed=
+|established=end of the [[War of the Hundred Years]]
+|reorganized=
+|fragmented=
+|dissolved=
+|restored=
+|era=
+|demonym=[[Cairhienin]]
+}}
+{{for|the chapter of the same name|The Great Hunt/Chapter 25}}
+'''Cairhien''' (/ˈkaɪ.ɹiˌɛn/) is a large country at the end of the Third Age in the east-central part of the [[Westlands]]. Cairhien's flag is a golden rising sun on a field of blue and the nation is renowned for exporting ''[[Daes Dae'mar]]'', the politically intrigued Game of Houses. Cairhienin speak in a precise, clipped accent, enunciating every word.
+
+==Geography==
+
+Cairhien is a nation that borders the [[Spine of the World]], north of [[Tear]] and south of the [[Borderlands]]. It stretches from [[Kinslayer's Dagger]] to the [[Maraside Mountains]], and from the Spine to the [[River Erinin]]. Its capital city is also named [[Cairhien (city)|Cairhien]]. It is famous for the [[Topless Towers]] of its eponymous capital city.
+[[Image:10 - Cairhien.PNG|thumb|200px|left|Location within the Westlands]]
+==Name==
+Pronounced ''"KEYE-ree-EHN"'', Cairhien's name comes the name of the capital city, also Cairhien, which comes from ''Al'cair'rahienallen''. This is an [[Old Tongue]] word that means "Hill of the Golden Dawn."{{ref/book|1|36}} After the [[Trolloc Wars]] and the [[War of the Hundred Years]], the original name was shortened to simply "Cairhien". Before then, the city had been the capital of the nation of [[Almoren]], which later became [[Tova]].{{ref/book|3|Prologue}} After the War of the Hundred Years, the province of Cairhien rose up against their Tovan rulers and slaughtered the entire ruling line.{{ref|{{TWoTRPG}}}}
+
+==Appearance and custom==
+Cairhienin are usually short in stature and of rather pale complexion, usually with dark hair. They are also, outwardly at least, a very reserved people.  Their love of order and control is best illustrated by the perfect grid of their capital's streets, ignoring even hills and, where possible, waterways. The map in [[Lord of Chaos]] is, accordingly, grossly inaccurate and misleading.{{ref/book|6|18}}
+
+It is said that when Cairhienin reserve breaks, it can do so to a surprising degree.  A good example is Cairhien during the [[Feast of Lights]].  During this two day celebration, all social barriers fall, and any man may kiss any woman, and any woman may kiss any man; nobles and commoners alike can be seen in the streets in various states of undress.  After the two days are over, life proceeds as if nothing had occurred.{{ref/book|6|53}}
+
+===Fashion===
+[[File:Selande.jpg|thumb|right|A typical Cairhienin noblewoman hair style]]
+
+Cairhienin nobles tend to favor dark colors, particularly black, dark blue, or green. This upper-class wear clothing with narrow, horizontal slashes of color that indicate their House, the number of slashes across the chest and body reflecting the rank of the wearer. Servants also bear stripes of House colors corresponding to those they serve, but only on their sleeves and collar. The number of these stripes, too, are indicative of the rank, though only among liveried servants.
+
+[[File:Meresin.jpg|left|thumb|An officer wearing slashes color, forehead shaved]]
+Lords and ladies are often seen with dark ivory lace adorning the collar and cuffs of the sleeves. Ladies pile their hair into elaborate styles that tower atop their heads. When dressing for a formal occasion, their skirts are made wide with supporting hoops. Men cover their long hair with hats, either flat or bell-shaped.
+
+[[file:Daricain.jpg|right|thumb|Cairhienin officer]]
+Military officers' dress is similar to that of nobles in that also dark with slashes of rank across their coats. Their hair is worn long in the back, but the front of their head is shaved and often dusted with white powder. Recently noblemen who were in positions of command during the Shaido War have adopted this hair style, though it was originally only worn by officers of common birth.  High ranking officers wear large white plumes atop bell-shaped helmets, gilded decorative breastplates and ornate gauntlets. Soldiers' hair is short, cut in a bowl shape. Likewise, their armor is functional rather than ornate.
+
+Commoners are much more flamboyant in the colors of their dress, commonly choosing clashing colors. More free of restraint than those involved in the Game of Houses, there is no particular "dress code" and there are a variety of styles worn in the city.{{ref|{{bwb}}}}
+
+==History==
+[[image:Cairienmap.png|left|thumb|200px|Map of the Cairhien Capital]]
+The lands that now form Cairhien were claimed by the nations of [[Tova]] and [[Shandalle]] before the time of [[Artur Hawkwing]] and [[Almoren]] during the time of the [[Ten Nations]]. After Hawkwing conquered Tova during the [[Consolidation]], he united Tova with his own homeland of [[Shandalle]] to form the Imperial Province of Cairhien. Very shortly after Hawkwing's death, there was a coup in Cairhien and the Imperial governor was deposed by a group of nobles plotting to reestablish Tova. At a ball held to mark the occasion, these nobles were brutally murdered. Several months of fighting followed, after which Lord [[Matraine Colmcille]] emerged as the strongest leader. He was crowned the first King of Cairhien. Cairhien reached its current borders at the end of the [[War of the Hundred Years]]. Its attempt to extend north after the fall of [[Hardan]] and south after the fall of [[Mar Haddon]] did not last very long and its borders retreated to their current status again by around two hundred years ago.
+
+Cairhien's fortunes originate in a random encounter; during the [[Breaking of the World]], a tribe of people gave water and shelter to the [[Aiel#Origins|Aiel]] who were guarding the treasures entrusted to them by the [[Aes Sedai (Age of Legends)|Aes Sedai]]. In a time when so much of civilization was reverting to barbarism, and the peaceful Aiel were preyed on more than most, this kindness stuck in their heads. Centuries later, they discovered that the people of that small village had later gone on to form the nation of Cairhien. In {{Ne|566}} the [[Aiel]] gifted the Cairhienin with ''[[Avendoraldera]]'', a cutting from the great ''[[chora]]'' tree ''[[Avendesora]]'', and right of passage through the [[Aiel Waste]], so long as they carried a banner with the trefoil leaf of the tree. Thus was born the Silk Path.{{ref/book|3|Glossary}}
+
+===Silk Path===
+With passage through the Aiel Waste came access to the remote land of [[Shara]], whose silks and other rare goods had previously only been available through trade with the [[Sea Folk]]. Despite the Sharan reputation for being fierce and unscrupulous hagglers, Cairhienin fortunes prospered and the nation grew rich and prominent in the following centuries.
+
+===Laman's Pride===
+[[Laman Damodred]] took the [[Sun Throne]] of Cairhien in {{Ne|965}}, and nearly immediately began an on-again, off-again war with [[Andor]].{{ref|{{bwb}}}} The political marriage of his nephew [[Taringail]] to Andor's Daughter-Heir failed to bring an end to the bloodshed, as it became apparent that [[House Damodred]] sought to rule both nations. King Laman began to face stiff opposition at home to the ongoing war, and cut down ''Avendoraldera'' to make a throne for himself that would be unmatched across the known world. This simple action triggered what would become the [[Aiel War]].{{ref/book|3|39}}
+
+[[File:Cairhien.jpg|thumb|right|Another flag for Cairhien.]]
+
+===Aiel War===
+When the Aiel clans learned of Laman's actions, they were outraged. [[Janduin]], the charismatic clan chief for the [[Taardad]], led four clans across the [[Spine of the World]] and began to hunt Laman "Treekiller" down. Cairhien was put to the torch and the spear, and Laman fled for his life, perhaps finally realizing what he had done. Fear of the "Aiel savages" looting and pillaging their lands galvanized the nations to unite in the Great Alliance. They fought the Aiel all the way to [[Tar Valon]], where the [[Battle of the Blood Snow]] appeared to finally turn the tide. In truth, the Aiel had finally succeeded in executing Laman; with justice having been served in their eyes, they turned immediately to return to their Three-Fold Land. Harrying parties tried to engage the "retreating" Aiel, but did not pursue them across the Spine.
+
+===Rebuilding===
+After the war, of course, the Silk Path was closed to the Cairhienin (now called "oathbreakers" or "treekillers" by the Aiel), and the country's fortunes dried up almost immediately. Fear of an Aiel return kept eastern lands uninhabited, and the fertile grain harvest became a near-famine. It is possible that the [[Hall of the Tower|Hall of the White Tower]] planned to put [[Moiraine Damodred]] in the Sun Throne once she was raised Aes Sedai, but it was [[Galldrian]] of [[House Riatin]] who succeeded Laman on the throne, and set about rebuilding the city, and its topless towers. Loss of revenue kept him from being able to pay the [[Ogier]] and human masons what they required, however, and eventually work ground to a halt.
+
+[[Image:Cairhien-icon.svg|thumb|left|125px|Cairhien [[:Category:Chapter art|chapter&nbsp;icon]]]]
+
+==Recent events==
+King Galldrian's rivalry with [[House Damodred]] never cooled, however, with the latter constantly scheming to regain their former place of privilege. This set in motion events that led, in the way that only ''Daes Dae'mar'' can, to Galldrian's death and the destruction of the [[Foregate]] which surrounds the city proper. It is suspected by some that [[Thom Merrilin]] may have killed King Galldrian out of revenge for [[Dena]], Thom's lover, who was killed by two of Galldrian's henchmen. The death of another king triggered a civil war which pushed the nation even further into privation, and it remained in that state until the [[Shaido]] Aiel crossed the Dragonwall ahead of the [[Dragon Reborn]] and the Aiel loyal to him. To the Cairhienin, it must have seemed like the end of all existence; another Aiel War and the destruction of all they knew.
+
+In fact, the Shaido were defeated within a few days, and [[Rand al'Thor]] took control of the city and country, providing grain from [[Tear]] so that the people would not starve. He intended the Sun Throne for [[Elayne Trakand]], by virtue of her right through her father Taringail Damodred. After taking [[Caemlyn]], Rand placed Cairhien under the joint administration of [[Berelain sur Paendrag Paeron]], the First of [[Mayene]], and [[Rhuarc]], [[clan chief]] of the [[Taardad]] [[Aiel]]. Berelain's stewardship is undermined by [[Colavaere Saighan]]'s attempt at seizing the throne during Rand's absence in early [[999 NE]]. When Rand returns, however, he strips her of her land and titles, leading Colavaere to commit suicide.
+
+A quarter of the [[Sun Palace]] is destroyed during an assassination attempt on Rand, led by [[Corlan Dashiva]], [[Manel Rochaid]], and [[Charl Gedwyn]], causing Rand to go into hiding. In his absence, he names [[Dobraine Taborwin]] as Steward of Cairhien. After Dobraine is sent to Arad Doman, two Aes Sedai allied to the Dragon, [[Sashalle]] and [[Samitsu]], take the stewardship of the Kingdom.
+
+After [[Elayne]] solidifies her rule in [[Andor]], she begins making plans to claim the Sun Throne. She courts the support of [[Bertome Saighan]] and [[Lorstrum Aesnan]], two of the most powerful neutral lords in Cairhien (neither openly supporting Rand nor explicitly plotting against him), as well as [[Ailil Riatin]], [[Alaine Chuliandred|Alaine]] and [[Doressin Chuliandred]], [[Amondrid Osiellin|Amondrid]] and [[Belevaere Osiellin]], Lord and Lady Hamarashle, and Lord Mavabwin. Offering them estates in [[Andor]], she gains the support of both Bertome and Lorstrum, who openly endorse her claim and escort her to the [[Sun Palace]], where she claims the [[Sun Throne]] and commands the Cairhienin to prepare to march for the [[Field of Merrilor]].
+
+==Locations==
+*[[Cairhien (city)|Cairhien]] (capital)
+*[[Eianrod]]
+*[[Jurene]]
+*[[Maerone]]
+*[[Morelle]]
+*[[Selean]]
+*[[Taien]]
+*[[Tremonsien]]
+
+==Parallels==
+Cairhien is thought by many to be based in part on [[wikipedia:France|France]] during the reign of [[wikipedia:Louis XIV|Louis XIV]], as well as [[wikipedia:Japan|Japan]]. Their bell-shaped helmets are similar to open-faced [[wikipedia:Bascinet|bascinets]] worn in the mid 14th-century. The city of Cairhien may be based on Caerleon, an important city in Arthurian lore.
+==External links==
+*{{TVlink|Cairhien}} on {{TVlink}}
+{{notes}}
+
+==See also==
+{{wikipedia}}
+{{nations}}
+
+[[es:Cairhien]]
+[[Category:Cairhien]]
+[[Category:Nations]]
+[[Category:Parallels]]

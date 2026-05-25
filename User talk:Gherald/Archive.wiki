@@ -1,0 +1,75 @@
+{{archive}}
+:''Note to self: do not accidentaly uncheck "[[special:preferences|Preferences]] -> Editing -> Show preview before edit box and not after it" after 4 AM, as this may induce project:Why can't I preview anything?|Extreme Zombie Syndrome.
+
+I've created a Search_logo.png image for use in the 'Search' box in place of the generic "Wikicities" link, but you (or the software) have the Upload file link protected. 
+
+I also added the [[wikicities:Wheel_of_Time]] entry to the Categories on the main page. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 00:35, 18 Oct 2005 (UTC)
+:See if you can unprotect it now as a sysop; I'm not sure what "Upload file link" you're refering to. --[[User:Gherald|Gherald]] 22:28, 19 Oct 2005 (UTC)
+:: Got it sorted out, just had to log out/in to get my privs. Thanks, by the way. [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 15:25, 20 Oct 2005 (UTC)
+------
+<s>Addendum: We should probably consider changing the 'title' of the Wiki from "A Wheel of Time wiki" to something shorter; currently, it's making all "project:article_name" links become A_Wheel_of_Time_wiki:article_name. I might suggest something like "WoT-wiki:article_name", but that's just me. "WoTwiki" looked silly. [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 20:02, 19 Oct 2005 (UTC)
+:[[w:c:wot:article_name]] should work fine; I don't think the longer description gets used? But I will certainly be open to ideas for a new name once this project gets some steam behind it.  I'm going to wait until we get either a Wikipedia consensus or a definitive position from EWoT before I start agonizing over cosmetic details like title, logo, etc --[[User:Gherald|Gherald]] 22:28, 19 Oct 2005 (UTC)
+It probably won't be clear until we get more pages up, but the equivalent of "[[Wikipedia:article_name]]" here is what I was referring to. No big deal right now. [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 15:25, 20 Oct 2005 (UTC)</s> Resolved at [[Current events]].
+------
+==iframe==
+If you can avoid them, don't use iframes. They're one of those "helpful" html tricks that causes all sorts of weird browser compatability and layout issues. Is this for the chapter summaries? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 14:39, 27 Oct 2005 (UTC)
+
+== courtesy ==
+Please, don't archive '''my''' talk page for me; I'll get to that sort of thing when I feel it necessary. I don't mind you refactoring discussions elsewhere in the wiki (although I think you're overeager about it), but those pages are kind of 'my' space, eh? Thanks. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 21:49, 16 Nov 2005 (UTC)
+* Eh? Suit yourself; I started most of the threads in there and figured I was doing you a favor by cleaning up the mess. --[[User:Gherald|Gherald]] 22:06, 16 Nov 2005 (UTC)
+
+== Theories==
+Understood that that is still being organized, but...
+
+* The Categories page hasn't happened yet
+
+* Mine could be linked to "Foretelling" or "COS"
+
+* and couldn't, for future fanfics/theroies/anything user-created, which you have stated you may add, include recognition for the User who submitted it?
+
+Keep in mind, I am always open to help or ideas regarding theories. Thanks for your time,--[[User:Jenn Aiel|Jenn Aiel]] 20:10, 19 December 2006 (UTC)
+
+==Buenos Aires==
+You are still needed down south at [http://buenosaires.wikicities.com/index.php?title=Especial:Recentchanges&hideminor=0&hideliu=0&hidebots=1&hidepatrolled=0&limit=200&hidemyself=0&days=300&limit=200] unless you can persuade your Hispanic friends to get working! 
+
+Kind regards - [[w:User:Robin Patterson]]
+
+== copying files ==
+
+I am about to compile a Wiki site of my own on a different book series that I really enjoy, and am still learning the many many intricacies of making and editing a wiki.<br>
+<br>
+I am coming to you for assistance with this, as your site is well written and well kept.  I am wondering if I could possibly 'shamelessly copy' some of your templates and policy pages, so that my project can get underway a bit faster.<br>
+<br>
+I look forward to your response, and if given permission, will link to your site, as well as list on each where I obtained the initial copy from.<br>
+--[[User:Awaterujin|Awaterujin]] 12:11, 19 May 2006 (UTC)
+
+== Revert on [[Aiel terms]] ==
+
+Given the edit summary on [http://wot.wikia.com/index.php?title=Aiel_terms&curid=1074&diff=7217&oldid=7215 your revert], which entries on that page get their own article and which remain as part of that page? --[[User:TheParanoidOne|TheParanoidOne]] 21:22, 18 June 2006 (UTC)
+
+== Spoilers? ==
+
+I was wondering how liberally the spoilers tag should be used. You seem to be an active editor so I thought that you would know. For example should I have put spoilers tages in [[Jaichim Carridin]] [[User:Spewin|Spewin]] 00:05, 21 June 2006 (UTC)
+
+== TPO admin ==
+
+I wonder if we could use a third sysop. TheParanoidOne has been around for quite some time, working steadily (sometimes more steadily than either of us), and probably has the next-most edits (I need to update my counts, but I'm getting ready to go out of town). Would you support asking someone at Wikia to promote him? I mean, we could ask him first, too, I suppose. ;) -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 13:08, 30 August 2006 (UTC)
+
+Thanks for the mop and bucket. --[[User:TheParanoidOne|TheParanoidOne]] 19:36, 30 August 2006 (UTC)
+
+==Thanks==
+Thank you for the help! --[[User:Randfan|Randfan]] 19:56, 22 September 2006 (UTC)
+
+OK, thanks for the advise for the editing of articles! --[[User:Randfan|Randfan]] 20:17, 22 September 2006 (UTC)
+
+== Ajahs ==
+
+Hello this is Randfan!  May I borrow your {{Ajahs}} template?  I want to use it in Wikipedia's WoT articles about [[Aes Sedai]].  Thanks in advance! [[User:Randfan|Randfan]] 22:44, 29 September 2006 (UTC)
+==Thanks==
+Thanks for the helping with linking to [[Machin Shin]] from [[The Ways]].  I had the nagging feeling that I had something I thought I should do in that article, thanks for remembering what is was for me! --DanceTheSpears 23:34, 23 January 2008 (UTC)
+
+==Luhhan vs Lubhan==
+
+I feel this incredible need to dance around while waving my arms and producing vague and indefensible gibberish-like explanations for why I thought Haral and Alsbet ''Luhhan'' were actually Haral and Alsbet ''Lubhan'', but I an going to suppress such indicators of deep embarrassment and simply say thank you for handling my mistake with diplomacy and panache.  
+
+The bad news is that I am good at making bonehead (no offense meant to any Minbari reading this post) mistakes; the good news is that I am also good at admitting them and amending my behavior (I've had lots of practice).--[[User:Pedantic|Pedantic]] 18:55, 13 February 2008 (UTC)

@@ -1,0 +1,62 @@
+{{Under construction}}
+
+''The following is the Wheel of Time-relevant excerpts of a transcription from a recording made by [[User:Androlf]] at the Sanderson Q&A at JordanCon on 2026-04-17 at 14:41.''
+
+''Note: I plan to clean this up manually, then move the unabridged text {{Link |url=https://wob.coppermind.net/events/553-jordancon-2026/#e17151 |text=elsewhere}} and just leave the two WoT questions here.''
+
+== Transcript ==
+
+'''Sanderson''': 
+
+You can see that Billy is in his Brandon costume. I didn't wear my blue jacket; I had it yesterday. He was hoping that he would match me. The very first person to dress up like me was Wilson, Robert Jordan's cousin. And they were very close; it was ''at'' JordanCon and so it's now become a thing. Billy does it regularly.
+
+So, here's what we're going to do today. As Billy mentioned, I'm going to do a Q&A for 30 minutes. Usually I do that at the end of the panel. But I'm going to do it at the beginning because after that, it's going to get a little more boring. ''[Editor's note: I do not know on what world a lecture on Tolkien and fantasy is considered 'more boring' than a bunch of Cosmere questions and my own failed attempt to unearth new information on the [[Rigney Papers]].]'' I ask your indulgence. In about a month, I'm going to speak at Oxford at the Tolkien lecture series. That is super intimidating, right? That's the most prestigious university in the entire world. And -
+
+'''Fan''': You got this!
+
+'''Audience''': ''[laughter]''
+
+'''Sanderson''': I - Thank you!
+
+'''Audience''': ''[cheers and applause]''
+
+'''Sanderson''': If you'll indulge me, I'd like to give ''you'' the lecture I'm going to give to ''Oxford'' -
+
+'''Audience''': ''[cheers and applause]''
+
+'''Sanderson''': - because I want to go through it first once -
+
+'''Audience''': ''[laughter]''
+
+'''Sanderson''': - in front of a crowd before I - before I go do that. So, that's like a 40 to 60 minute - I haven't ''done'' it before so I don't know how long - lecture. I'll try not to make it too dry but it is on, like, the nature of fantasy and Tolkien's influence on it - it's like an actual academic lecture rather than my normal kind of dog-and-pony show. If you record that, please don't share a recording of that until I've spoken at Oxford, which is end of May. Alright? ''[Editor's note: Alright.]'' So I'd rather that remain, you know, ''not'' out there in the æther. Once I've done that lecture, you're fine then, you know, doing your thing. Do understand I haven't had my lecture peer-reviewed yet which I'm going to do in the next month. And I haven't had it gone through Peter's fact-checking process.
+
+'''Audience''': ''[laughter]''
+
+'''Sanderson''': Right? So a lot of the things I'm saying here about history or fantasy are kind of Brandon's armchair philosophy on it. And then I'm going to give it to ''real'' scholars and they're going to read it and tell me "No, this is where you're actually wrong; your vibe is wrong. You know, you can't just - you can't just vibe history."
+
+'''Audience''': ''[laughter]''
+
+'''Sanderson''': And so we'll see what I - what I get wrong and what they correct me on. Hopefully it won't be on anything too big and too embarrassing. But let's go to the Q&A. We're going to do that for 30 minutes. Let me - show of hands, who would rather this be spoiler-free? Raise your hands.
+
+''[Editor's note: I observed about half the crowd and saw perhaps three hands.]''
+
+'''Sanderson''': Okay, not very many of you. Spoilers are allowed. I will try to talk around - If it's a very big spoiler like, you know, ''end-of-the-book''-type spoiler - then try to talk around it to not spoil the ending of a book. But anything's on the table for this one. Let's see what you come up with and see how technical your Cosmere questions are. ''[in an (even) brighter, cheerier voice]'' Feel free to ask ''non''-technical Cosmere questions also, ''[normal voice]'' but I can handle them. So if you want to just come up to - Oh and ''[smiling and barely-containing laughter]'' Genny ''[spelling?]'' is coming. Oh, and Genny is coming. And Genny is - Oh, great! Thank you all for crowding in front of Genny. Genny is one of our ''[unintelligible]''. He's a - he's a very good friend.
+
+'''Genny''': No, no! I'll take some time to make my question!
+
+'''Sanderson''': Yeah. Alright! Go ahead, sir!
+
+''[...]''
+
+[TODO: my question]
+
+''[...]''
+
+=== 23:10 ===
+
+'''Fan''': So going back a ways, in ''A Memory of Light'',{{ref|It was actually {{12|44}}}} Rand shows us a loophole in Traveling; no one else had figured it out. Fandom had kind of been mentioning it; was that something that was in the notes, something that you heard from fandom, or that you recognized and decided to put in?
+
+'''Sanderson''': My best guess - it's been a while - is that, so, I grew up in the fandom. I was on the forums and things - I didn't post a lot - but some of my first Internet interactions were in the Robert Jordan usenet group{{ref| Most likely {{Link |url=https://groups.google.com/g/rec.arts.sf.written.robert-jordan |text=rec.arts.sf.written.robert-jordan}}}} back in the late 90s. And so it's possible that I heard these things, but I was also, Magic systems are my thing, and a theorycrafter on how these things would go. And so my best guess is that I read it somewhere but wouldn't be able to point to it. But I very easily could have come up with it on my own, it was not in the notes.
+
+{{notes}}
+[[Category:Interaction with Fans]]

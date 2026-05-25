@@ -1,0 +1,27 @@
+{{ character 
+| image=Accepted icon.png
+| imagesize=250px
+| nationality=Taraboner
+| gender=Female
+| rank=Accepted
+| affiliation=White Tower
+| build=Slim
+| status=Alive
+| hair=Pale
+| eyes=Brown
+| appeared={{kod|24}}
+| lastappeared={{kod|24}}
+| living=kod
+}}
+'''Asseil''' is an [[Accepted]] in the [[White Tower]]. 
+
+== History ==
+She is from [[Tarabon]].
+
+== Appearance ==
+She is tall with pale hair and brown eyes.
+
+== Activities ==
+She tries to overwhelm [[Egwene al'Vere]] with commands when Egwene is on her way through the Accepted quarters. Egwene refuses to obey her.
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]

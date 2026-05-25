@@ -1,0 +1,25 @@
+{{ character 
+| image=CotL.png
+| imagesize=250px
+| ewot=ivon2
+| nationality=Unknown nationality
+| gender=Male
+| affiliation= Children of the Light
+| occupation=Soldier
+| status=Alive
+| appeared={{tsr|1}}
+| lastappeared={{tsr|1}}
+| living=tsr
+}}
+{{dablink|For the blacksmith from [[Cairhien (city)|Cairhien]], see [[Ivon (blacksmith)]].}}
+'''Ivon''' is a member of the [[Children of the Light]].
+
+==Appearance==
+He is hard-faced. His armor shines as much as his snowy white cloak.
+
+==Activities==
+He is one of the men that arrives in [[Taren Ferry]] with [[Dain Bornhald]] and who had been previously patrolling near [[Tar Valon]].
+
+He carries a message from Hundredman [[Farran]] to Dain about the suspicious activities of [[Ordeith]] and the disappearance of three ''[[Tuatha'an]]'' he had been talking with.{{ref/book|4|1}}
+
+{{notes}}

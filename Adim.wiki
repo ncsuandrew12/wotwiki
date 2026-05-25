@@ -1,0 +1,23 @@
+{{ character
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| hair=Golden
+| appeared={{tom|1}}
+| lastappeared={{tom|1}}
+| living=tom
+}}
+'''Adim''' is a thirteen year old boy, who has an uncle named [[Almen Bunt]].
+
+==Appearance==
+He has golden hair.
+
+==Activities==
+He is the son of [[Graeger]] and [[Alysa]] and has an older brother named [[Hahn]]. He pleads with his uncle Almen for help in saving his mother's apple orchard.
+
+==Trivia==
+*Adim is named after Adam Sampson, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Short pages]]
+[[Category:Characters named after fans]]

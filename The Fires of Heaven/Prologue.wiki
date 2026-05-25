@@ -1,0 +1,118 @@
+{{Quote|With his coming are the dread fires born again. The hills burn, and the land turns sere. The tides of men run out, and the hours dwindle. The wall is pierced, and the veil of parting raised. Storms rumble beyond the horizon, and the fires of heaven purge the earth. There is no salvation without destruction, no hope this side of death.| fragment from ''The Prophecies of the Dragon'' believed translated by [[N'Delia Basolaine]] First Maid and Swordfast to [[Raidhen]] of Hoi Cuchone (circa {{ab|400}})}}
+
+{{summary | book=5| ewot=prologue | tarvalonwiki=The_Fires_of_Heaven:_Prologue
+|prev=The Shadow Rising/Chapter 58
+|chapter=
+|title=The First Sparks Fall
+|icon=Wheel
+|setting=[[White Tower]], [[Royal Palace of Andor]]
+|next = Fanning the Sparks}}
+
+{{pov|[[Elaida do Avriny a'Roihan]]}} {{setting|Office of the [[Amyrlin Seat]]}}
+
+[[Elaida do Avriny a'Roihan]] has a meeting with [[Alviarin]], [[Danelle]], [[Teslyn]], [[Joline]], [[Shemerin]], [[Javindhra Doraille|Javindhra]], [[Andaya]], [[Evanellein]], and some other sisters in the offices of the Amyrlin Seat. They discuss the current world affairs, but without actually asking Elaida for advice or letting her make any decisions.
+
+* [[Davram Bashere]] is moving an army away from the Blight{{ref|Most likely because the false dragon, [[Mazrim Taim]], escaped.}};
+* War and civil war in [[Tarabon]] and [[Arad Doman]] has escalated, [[Amathera Aelfdene Casmir Lounault|Amathera]] (the [[Panarch]] of Tarabon) has disappeared, and an Aes Sedai may have been involved;
+* [[Elayne]], the Daughter-heir of Andor, is still missing, as well as her half-brother, [[Galad]];
+* [[Morgase]], the Queen of Andor, may make a claim to the throne of Cairhien;
+* [[Gawyn]] and his [[Younglings]] are clashing with [[Whitecloaks]] and not under close [[White Tower]] control;
+* [[Pedron Niall]] is trying to broker a deal with [[Illian]], [[Murandy]], and [[Altara]] to prevent a war between them;
+
+Elaida becomes angered that the sisters do not acknowledge her as their leader and lashes out at them towards the end of the meeting. This frightens them all. Alviarin is unimpressed but doesn't say anything. The nonverbal communication between her and Elaida is interrupted by an unnamed [[Accepted]] informing Elaida that [[Padan Fain]] has arrived and has asked to meet her.
+
+{{pov|[[Padan Fain]]}}
+
+Briefly considering tormenting the 'toothsome, fluttery' Accepted, Fain walks into Elaida's study as she sends away Alviarin. He looks around her office and is apprehensive about her picture  of [[Rand al'Thor]]. He also thinks about how he can feel the [[ruby-hilted dagger]] pulling at him and that the [[Horn of Valere]] is being kept in the Tower. He begins to talk to Elaida about Rand and how he is extremely uncontrollable…{{ref|Amusingly, Elaida thinks of Fain as from "Lugard, in Murandy", despite being Murandian herself and almost no Murandians identifying themselves as such; they usually name their city or region. This is surely for the reader's benefit.}}
+
+{{pov|[[Rahvin]]}} {{setting|[[Royal Palace of Andor]]}}
+
+Rahvin is sitting in his chambers surrounded by an unnamed Aes Sedai of the [[Red Ajah]]{{ref|This is the newly-raised sister that the White Tower has sent to spy on Morgase.}} and [[Elegar]]. He uses the [[Compulsion]] on her so she doesn't report Rahvin. He contemplates what he will do with Morgase when he no longer needs her to rule as the Queen of [[Andor]]. When they both leave, Rahvin is visited by [[Lanfear]]. She informs him that she has scheduled a meeting with [[Sammael]] and [[Graendal]] at his palace. They arrive shortly after. The four of them discuss the situations of the rest of the Forsaken and Rand and what they are going to do. Rahvin thinks about how the situation can benefit him and him only.
+
+==Characters==
+* [[Elaida do Avriny a'Roihan]]
+* [[Danelle]]
+* [[Alviarin Freidhen]]
+* [[Teslyn Baradon]]
+* [[Joline Maza]]
+* [[Shemerin]]
+* [[Javindhra Doraille]]
+* [[Evanellein]]
+* [[Andaya Forae]]
+* [[Padan Fain]]
+* [[Rahvin]]
+* [[Elegar]]
+* [[Lanfear]]
+* [[Sammael]]
+* [[Graendal]]
+* Unnamed Aes Sedai in Caemlyn and Tarabon
+
+===Referenced===
+* [[Davram Bashere]]
+* [[Mazrim Taim]]
+* [[Tenobia]]
+* [[Memara]]
+* [[Pedron Niall]]
+* [[Amathera]]
+* [[Elayne]]
+* [[Galad]]
+* [[Morgase]]
+* [[Gaebril]]
+* [[Gawyn]]
+* [[Bonwhin Meraighdin]]
+* [[Artur Hawkwing]]
+* [[Rand al'Thor]]
+* [[Siuan Sanche]] as that woman
+* [[Masema Dagar]] as mad Shienaran
+* [[Alliandre Maritha Kigarin]]
+* [[Moiraine Damodred]]
+* [[Silviana Brehon]]
+* [[Moghedien]]
+* [[Ishamael]]
+* [[Demandred]]
+* [[Asmodean]]
+* [[Lews Therin]]
+
+===Groups===
+* [[Whitecloaks]]
+
+==Places==
+* [[White Tower]]
+* [[Royal Palace of Andor]]
+
+===Referenced===
+* [[Tar Valon]]
+* [[Shienar]]
+* [[Borderlands]]
+* [[Niamh Passes]]
+* [[Saldaea]]
+* [[Blight]]
+* [[Arad Doman]]
+* [[Tarabon]]
+* [[Bandar Eban]]
+* [[Shadow Coast]]
+* [[Aryth Ocean]]
+* [[Spine of the World]]
+* [[Mountains of Mist]]
+* [[Kandor]]
+* [[Sea of Storms]]
+* [[Altara]]
+* [[Andor]]
+* [[Amadicia]]
+* [[Cairhien]]
+* [[Murandy]]
+* [[Illian]]
+* [[Tear]]
+* [[Ghealdan]]
+* [[Lugard]]
+* [[Aridhol]]
+
+==Items==
+* [[Ruby-hilted dagger]]
+
+===Referenced===
+* [[Horn of Valere]]
+
+{{notes}}
+
+{{DISPLAYTITLE:''The First Sparks Fall''}}

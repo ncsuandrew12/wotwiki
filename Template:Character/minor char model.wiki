@@ -1,0 +1,31 @@
+At the head of the page, we start with the [[:Template:Character|character infobox]], filling in the fields as required. Not all the information will be known. It should be accurate and verifiable. See the source code for example infoboxes, such as [[Venr Kosaan]], as an example. The infobox illustration will usually take the form of a standard image used for all characters in a given category, but in cases where there are alternative images are available, official art for which the editor has permission or illustrations from the graphic novels are the only type allowed. Other fan art is not encouraged for use within wiki article infoboxes, but can be used as illustration in other sections. Do refer to general guidance on image use, however.
+
+We give the '''NAME OF CHARACTER''' in bold. The text in the lede should be one or two lines and should be spoiler free. This page describes the form that any character pages concerning non-historical characters should aim to conform to. References are key in verifiability and should be used throughout.
+
+== Appearance and Personality== 
+This should be a referenced description from the books or The Wheel of Time Companion. The books are first preference for the source. In some cases, physical appearance will change during the course of the series, so multiple descriptions may be relevant. eg. [[Egeanin Tamarath]]. Descriptions of clothes are not likely to be relevant unless part of a recurring theme or part of a uniform. 
+
+Descriptions of personality should be a separate paragraph. The content should match what is described in the series and not the personal opinion of the editor. Opinions of another character from a given point of view may be colored by the character whose point of view it is, so whose opinion it is should be mentioned. Where differing characters have differing opinions on another character, more than one view may be necessary and each must be sourced. The descriptions in the Wheel of Time Companion are regarded as canon and neutral.
+
+== Abilities and Strength ==
+For channelers only, this should include their strength in the One Power if it is given in the Wheel of Time Companion or a qualitative description from the books where it is not. It is also fine to state that nothing is known about the characters strength or abilities.
+
+==History==
+This section should include anything relevant about the character dating from before the events of the books themselves. This includes, but is not limited to, their year of birth, family background, appointment to any important positions the character holds or has previously held, personal relationships (including Warders Bonded before the series starts), skills they may have attained (eg Blademaster) etc. The information should be separated into paragraphs and in chronological order wherever possible.
+
+==Activities==
+This should be a chronological account of all events the character is involved in during the books themselves. New Spring counts as being before the events of the rest of the series and so will appear first. The events should be in separate paragraphs, but grouped and summarised as appropriate. The aim is to give maximum useful information in the minimum word count.
+
+==Notes==
+This should be included if there are any important discussion points about this character. While pure speculation and personal theories should be discouraged, there is some leeway here to extrapolate beyond the events of the series or in order to connect the character to the larger picture.
+
+==Trivia==
+Reserved for any possible interesting facts that make this character unique, such as the only character for X to be true, or the last living Y. This can also be used for cases where a character is named after a real-life person, like [[Charlz Guybon]].
+
+==Errata/Possible inconsistency==
+There are occasionally errata or inconsistencies in the books, both in current and past printings. These can be noted here with mention if they have been subsequently corrected, if known.
+
+==Parallels==
+Some characters take influence from real-life figures of myth and legends. These should be mentioned in separate section and the page added to the [[:Category:Parallels|Parallels Category]].
+
+[[Category:Style guides]]

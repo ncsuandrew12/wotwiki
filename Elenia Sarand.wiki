@@ -1,0 +1,49 @@
+__NOTOC__
+{{ character
+| image=Sarand.png
+| imagesize=250px
+| ewot=Elenia
+| nationality=Andoran
+| title=Lady
+| affiliation=Andor
+| hair=Honey-colored
+| gender=Female
+| status=Alive
+| appeared={{tfoh|19}}
+| lastappeared={{tom|50}}
+| lastmentioned={{amol|p}}
+| living=amol
+}}'''Elenia Sarand''' is a high-ranking noble of [[Andor]] from House Sarand, married to [[Jarid Sarand]].{{ref|{{twotc}}, Elenia Sarand}}
+
+==Appearance==
+She has honey colored hair and a fox-like face.
+
+==History==
+She was one of the nobles who did not support [[Morgase Trakand]] when she assumed the throne after the [[Succession Wars|Succession]], and was forced to acknowledge her as Queen afterwards.
+
+== Personal Qualities ==
+She is a calculating noblewoman, always seeking more power for herself. She looks down on the common folk while at the same time condescending to them in an attempt to bolster her position. She doesn't realize that this attitude backfires, causing commoners to recoil when she deigns to smile at them. She does have a sense of gratitude, rewarding those useful or loyal to her.
+
+== Activities ==
+[[File:Elenia.jpg|thumb|left|Elenia according the the WoT CCG]]
+===Morgase's demise===
+She was one of the nobles who associated with [[Lord Gaebril]] in the throne room in the [[Royal Palace of Andor]]. After Gaebril's demise she fawned over [[Rand al'Thor]] pointing out that she is well versed in [[Andor#History|Andoran history]] and that she has a claim to the [[Lion Throne]]. She gives Rand a big lesson on Andoran history and confirms that he is not related to [[Elayne Trakand]].
+
+When Rand is kidnapped by the [[White Tower]] [[Aes Sedai]], she proclaims herself for the Lion Throne but is instead imprisoned by [[Dyelin Taravin]] who is acting as Regent for Elayne.
+
+=== Siege of Caemlyn ===
+She is broken free by [[Arymilla Marne]]'s troops when being escorted to [[Aringill]], in exchange for her throwing her support behind Arymilla's claim to the Lion Throne. Her troops combined with Arymilla's have begun their siege of [[Caemlyn]].
+
+She has a firm belief that her husband will be able to free her from Arymilla. She also has [[Naean Arawn]] convinced of her escape and encourages her to sign a pledge to back Elenia for the Lion Throne and promises to take Naean as well when she does escape. Arymilla has now made the two ladies sleep together, but it remains unclear if she is suspicious of them.
+
+She has started to break down due to the constant pressure of Arymilla keeping an eye on her.
+Elenia and her armsmen ride with the army when Arymilla mobilizes her entire force and attacks the [[Far Madding Gate]]. Arymilla's army is hit from behind by half of Elayne's force and in the end Arymilla's army surrenders. Elenia is then held prisoner by Elayne{{ref/book|11|35}}.
+
+Elayne finally releases Elenia and passes judgement on her crimes against the Crown. She is stripped of all her titles and her lands are forfeited to the Crown. After Elayne offers Elenia's old estates to some of the nobles present gathered from [[Cairhien]], she then offers some of Cairhien's restored land to the west to Elenia.
+
+{{notes}}
+{{DEFAULTSORT:Sarand, Elenia}}
+
+[[es:Elenia Sarand]]
+[[Category:POV character]]
+[[Category:Nobility]]

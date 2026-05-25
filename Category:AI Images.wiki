@@ -1,0 +1,3 @@
+This category serves to clearly label images that were created using Artificial Intelligence. Images that use the {{t|Image}} template and specify a value for the '''AI''' parameter are included here.
+
+This category is a superset of [[:Category:Images by AI]], which is the subset for which the specific model is not known.

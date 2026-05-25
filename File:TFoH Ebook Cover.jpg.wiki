@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Cover art
+| Description        = ebook cover of {{Tfoh}}
+| Source             = www.dragonmount.com
+| Artist             = Dan Dos Santos
+}}
+[[Category:The Fires of Heaven covers]]

@@ -1,0 +1,7 @@
+==To do==
+
+* Make seperate list for non-humans with column for species
+* Graphics
+* QA for a large group to test accuracy
+* Annoura not logged as appearing in AMOL. Double-check all of Last Battle chapter. 
+* Check some anonymous Forsaken appearances in TAR.

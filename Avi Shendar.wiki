@@ -1,0 +1,18 @@
+{{character 
+| image=AmadiciaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Amadician
+| occupation=
+| gender=Male
+| appeared={{tfoh|10}}
+| lastappeared={{tfoh|10}}
+| living=tfoh
+}}
+'''Avi Shendar''' keeps pigeons for sending messages in [[Mardecin]], [[Amadicia]].
+
+== Activities ==
+He keeps pigeons for several different locations. [[Ronde Macura]] sends a message to the White Tower from his cote. Then she sends another to someplace to the west. Later Avi sends a copy of her message to another location.{{ref/book|5|10}}
+
+{{notes}}
+{{DEFAULTSORT:Shendar, Avi}}

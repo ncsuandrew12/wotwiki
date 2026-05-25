@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|May}}
+|{{Wotmonth|Adar}}
+|}
+'''Adar 22 (May 4)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:may 4|May 4]]
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

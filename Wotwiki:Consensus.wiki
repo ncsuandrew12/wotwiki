@@ -1,0 +1,107 @@
+{{TOCright}}
+{{proposed}}
+
+==Wikipedia precedent==
+They have a [[Wikipedia:Consensus|Consensus]] guideline for decision-making: decisions should involve as much input as possible, and take into account dissenting views in order to make the end result a better decision. Contrast this with [[Wikipedia:majority vote|majority voting]].
+
+Here at '''''{{SITENAME}}''''', we need to come up with a similar set of guidelines to manage our day-to-day business. Some matters will not require a group decision at all (editing article information, categorizing articles and building new pages), some will be better served by group input ([[project:Pages for deletion|deleting pages]], for example, could be one of these), and some should require some sort of formal decision-making process before being instituted (changes to [[:Category:Policies|policy]], for example). '''The first such decision, ironically, is how to decide these matters.''' As a start, we'll utilize [[Wikipedia:Approval voting]] to narrow the field of possibilities; you may support as many options as you like, and the one with the greatest number of supporters at the end of November 2005 will be what we go with. If two are close, we'll revise and try again. Anybody have a problem with that?
+
+Feel free to add additional proposals, or additions/modifications to mine. However, sign any changes, so that people who voted before you can make an informed decision about your changes. Also, we don't have 5 users yet, but I'll be posting this to some of the people who have expressed an interest in the project. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 17:30, 3 Nov 2005 (UTC)
+
+If you think Nae'blis' three initial proposals may be needlessly complex (read: scary!) ... give [[#Simple majority|simple majority]] a good look :) --[[User:Gherald|Gherald]] 03:12, 5 Nov 2005 (UTC)
+
+==Proposals==
+===Consensus/supermajority=== 
+:<small>''last modified 11/3/05 by [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>''</small>
+
+# Generally, consensus should be sought. Any dissenting opinions should be examined to see if they can make the final decision better. Consensus cannot be reached by less than 5 users. A time frame (generally 1 week) should be given when the call for consensus goes out.
+## Options for consensus include '''Support''', '''Oppose''', and '''Stand Aside'''. Each regular user may voice one of these options; unregistered/new users without adequate edit histories may be discounted as [[Wikipedia:Sock puppet|sock puppets]] if circumstances seem to show evidence of tampering.
+### '''Comment''' may be used to present ideas without taking a final stance. Anyone may comment, regardless of edit history. Anyone may change their stance before a final decision is reached.
+## A supermajority decision can be reached in most cases, if full unanimity appears impossible. 
+### 80% (4/5, minimum) support is necessary for [[:Category:Policies|policy]] approval/changes/removal;
+### 66% (2/3, minimum 5) support is sufficient for articles, templates, and categories to be deleted/moved.
+### Are there other cases we need to consider? Promoting users to admin?
+### In cases where consensus is not unanimous, the user who declares consensus must <u>not</u> be part of the majority side; they can refrain from taking a side ('''Stand Aside'''), or have declared for the side which will not be victorious (''i.e.'' they voiced '''Support''' one something which will lose, or '''Oppose''' on something which will pass).
+## If consensus is unable to be reached, the time frame may be extended, or the matter withdrawn, at the original proposer's discretion. 
+## The same matter may not be brought up more than once in a 30-day period; during that period, the original decision or ''status quo'' must stand (''i.e.'' pages deleted may be automatically deleted if they are recreated in violation of consensus).
+
+* '''Strong Support''' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 17:30, 3 Nov 2005 (UTC)
+
+* '''Comment''' I don't think this is entirely finalized, but I'm unclear on how to a) get a final proposal, and then b) get it approved by the group. Maybe a deadline of the end of November, with the stipulation that no major changes can have occurred in the preceeding week? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 17:30, 3 Nov 2005 (UTC)
+** '''Comment''' Would the deadline be extended if there is no consensus on the issue? '''Update:''' eh. sorry. It's a bit late and I'm a bit sleepy guess I skipped over the bit with the deadline thing.[[User:Narvi|Narvi]] 17:59, 18 Nov 2005 (UTC)
+* '''Strong Support''' [[User:Narvi|Narvi]] 18:05, 18 Nov 2005 (UTC)
+* '''Comment'''  I recently came across something on Wikipedia's project pages that seemed to suggest the main reason they do not operate by simple majority is because there would be too much incentive for fraud, i.e. it would be too easy to manipulate the system with sock pupets.  Is that the concern here, or is there some other reason you want this...system? I honestly have no other idea why you would vote for something this complicated that AFAICT will accomplish nothing other than make consensus a long and convoluted process. It's puzzling to me. --[[User:Gherald|Gherald]] 16:51, 21 Nov 2005 (UTC)
+** '''Comment''': See below for why I think we need a little bit of bureaucracy on matters of policy/organization. I agree with Maru that the books should trump on factual content, but with all the different websites/communities we're looking at pulling resourceful people from, I don't want to have our data see-sawing back and forth every time we get a new member. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 17:49, 21 Nov 2005 (UTC)
+*** I responded below but I'd just like to point out that the only "bureaucracy" we need are some admins paying attention and trying to assure that the vote is fair.  Higher thresholds are not a bureaucracy; they are just something that complicates the system and leave issues that are split closer to 50/50 unresolved.
+**** You're talking about a [[wikipedia:benevolent_dictator|benevolent_dictator]]ship; I don't agree that Admins should necessarily have wide latitude to just 'ignore' community opinion. I would much rather have a system in place that allowed the group to decide for themselves, in a rational manner, when to change things, than an autocrat. I don't trust ''myself'' enough for that power, much less someone else. But then I've recently come off a bad experience with encountering "Such-and-such character is SUCH a bitch!" bias in otherwise sane articles. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:36, 21 Nov 2005 (UTC)
+***** It's not about dictatorship, it's about enforcing policies against vandalisms, sockpupetry, etc.  That's what admins are supposed to do!  None of this involves ignoring community opinion!  And if someone has a problem with project sysops like you and me, they can appeal to wikicities brass if they feel it's warranted.  I'm not sure what your recent experience has to do with any of this.. isn't it just an obvious POV statement? --[[User:Gherald|Gherald]] 19:04, 21 Nov 2005 (UTC)
+****** With respect, that's NOT what we're talking about. Vandalism and sockpuppetry can be dealt with on an administrative level; coming to a decision about how to interpret the books (beyond basic facts) should not. If I want a template to include certain fields, that should be up to group decision, should it not? That's not an area in which admins should be tampering, beyond their usual abilities as editors to Be Bold and try things. Your modifications to the wotwiki template could be an example here. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 16:15, 30 Nov 2005 (UTC)
+******* Actually, it is precisely what I was talking about and I don't see any way I can further clarify my above comments... I'd just be repeating myself. --[[User:Gherald|Gherald]] 17:40, 1 Dec 2005 (UTC)
+******* With regard to everything after your semicolon, I am in full agreement (although I'm not sure what specifically you are refering to regarding the wotwiki template).  So I don't understand the point you are making with any of that (if there was one...?) --[[User:Gherald|Gherald]] 17:40, 1 Dec 2005 (UTC)
+******** There's no need to get nasty about it. This section:<blockquote>It's not about dictatorship, it's about enforcing policies against vandalisms, sockpupetry, etc. That's what admins are supposed to do! None of this involves ignoring community opinion!</blockquote>confused me, because you're talking about enforcement of policy, and I'm talking about creation/change of policy. Now do you see the confusion I'm having? I understand you view the system as presented as too complex, but I'd like to at least be sure we're arguing about the same thing... [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 19:29, 1 Dec 2005 (UTC)
+********* Well I was talking about both, and offering my opinion about what which we need. I am sorry if it confuses you that I don't think we need what you were talking about, but I don't see what is nasty about this... --[[User:Gherald|Gherald]] 07:25, 2 Dec 2005 (UTC)
+* '''Support''' [[User:Mhoskins|Mhoskins]] 14:35, 6 Jan 2006 (UTC)
+
+===Supermajority voting=== 
+:<small>''last modified 11/3/05 by [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>''</small>
+
+#Supermajority voting should be used for formal decisions. Informal polling can be used beforehand to improve the final decisions to be made. At least 5 users must vote for a valid decision to be reached. A time frame (generally 1 week) should be given when the call for a vote goes out.
+##Voters may register either '''Aye''' or '''Nay'''. Each regular user may vote; unregistered/new users without adequate edit histories may be discounted as [[Wikipedia:Sock puppet|sock puppets]] if circumstances seem to show evidence of tampering.
+###'''Comment''' may be used to present ideas without taking a final stance. Anyone may comment, regardless of edit history. Anyone may change their vote before the deadline passes.
+##Different supermajorities are needed in different situations: 
+###80% (4/5, minimum) approval is necessary for [[:Category:Policies|policy]] approval/changes/removal;
+###66% (2/3, minimum 5) approval is sufficient for articles, templates, and categories to be deleted/moved.
+###Are there other cases we need to consider? Promoting users to admin?
+###In cases where consensus is not unanimous, the user who declares consensus must <u>not</u> be part of the majority side; they can refrain from taking a side ('''Stand Aside'''), or have declared for the side which will not be victorious (''i.e.'' they voiced '''Support''' one something which will lose, or '''Oppose''' on something which will pass).
+##If a majority is unable to be reached, or there are insufficient votes, the time frame may be extended, or the matter withdrawn, at the original proposer's discretion. 
+##The same matter may not be brought up more than once in a 30-day period; during that period, the original decision or ''status quo'' must stand (''i.e.'' pages deleted may be automatically deleted if they are recreated in violation of a valid vote).
+
+*'''Support''' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 17:30, 3 Nov 2005 (UTC)
+*'''Support'''. However, I would ''really'' like a factual overide clause- this is not Wikipedia, there can be little legitimate dispute over facts, as we all have access to the only really relevant source materials, the novels. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 20:11, 4 Nov 2005 (UTC)
+** Maru, something like what I've got over at [[project:Responsible point of view]], now? That may not be the ideal place for it, but I see what you're saying...I'm not seeing much need to vote on page content, more on things like marginally appropriate pages/page titles, policies/procedures, and changes to adminship. I totally agree about a factual superiority for article content; not sure how to write that in. Does Wookipedia have something similar, even though they have different levels of canon? [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 17:48, 21 Nov 2005 (UTC)
+***Yeah, almost exactly.  It would be an even better policy if the text of the books were online and hence acessible to all who can get here at all, but... --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 19:35, 21 Nov 2005 (UTC)
+*'''Comment''' While I prefer #1 to #2, either would be acceptable to me. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 17:30, 3 Nov 2005 (UTC)
+*'''Comment''' I don't really understand the difference between #1 and #2, other than that a consensus should generally be sought with #1. [[User:Mhoskins|Mhoskins]] 21:36, 5 Jan 2006 (UTC)
+** Pretty much, yes. This option doesn't use a consensus model at all, really, rather relying on straight voting results. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 14:08, 6 Jan 2006 (UTC)
+----
+
+===Majority voting=== 
+:<small>''last modified 11/3/05 by [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>''</small>
+<s>
+# Majority voting should be used for formal decisions. Informal polling can be used beforehand to improve the final decisions to be made. At least 5 users must vote for a valid decision to be reached. A time frame (generally 1 week) should be given when the call for a vote goes out.
+## Voters may register either '''Aye''' or '''Nay'''. Each regular user may vote; unregistered/new users without adequate edit histories may be discounted as [[Wikipedia:Sock puppet|sock puppets]] if circumstances seem to show evidence of tampering.
+### '''Comment''' may be used to present ideas without taking a final stance. Anyone may comment, regardless of edit history. Anyone may change their vote before the deadline passes.
+## If a majority is unable to be reached, or there are insufficient votes, the time frame may be extended, or the matter withdrawn, at the original proposer's discretion. 
+## The same matter may not be brought up more than once in a 30-day period; during that period, the original decision or ''status quo'' must stand (''i.e.'' pages deleted may be automatically deleted if they are recreated in violation of a valid vote).</s>
+
+''This section was struck out, as it got no votes at all during the initial comment period. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]''
+----
+
+===Simple majority=== 
+:<small>''last modified 11/5/05 by {{user|Gherald}}</small>
+
+# There is a fixed timeframe of one week, during which all '''Comment'''s will be considered and at the conclusion of which a decision will be finalized according to the majority '''Support''' and '''Oppose''' votes of all logged in users with reasonable edit histories who have participated (an explicit '''Abstain''' is optional).
+# Ties will be decided in favor of the longest standing version.
+# Calls for consensus on previously resolved issues may be reopened by anyone who commits to change their stance or who did not participate in the previous call.
+
+
+* '''Support''' --[[User:Gherald|Gherald]] 03:12, 5 Nov 2005 (UTC)
+* '''Comment''': The problem with simple majorities is that they are very easy to overcome. If we have 11 users/voters, and 6 vote for something and 5 do not, then it is easy for the losers to go get two of their friends to call another vote (under your system, this new user would be allowed to call for the new vote, as well). With supermajorities/consensus, changing the tide of public opinion is a much more measured process. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 17:41, 21 Nov 2005 (UTC)
+** First of all, I think you are GROSSLY overestimating the impetus for gaming the system on a small project run by fans. This is NOT a general encyclopedia like Wikipedia where people have agendas to push.  So I am not really concerned about sockpuppets.  That sort of lameness just isn't a factor.
+*** You and I will have to agree to disagree, then. I've been in arguments with Egwene-haetrs, Red sister-roleplayers, Taimandred-believers, and others that make me think there is PLENTY of risk to having a first-past-the-post system here. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:38, 21 Nov 2005 (UTC)
+**** Eh? Those are obvious points of view that will never get any traction regardless of which of these proposals we adopt, as you already spelled out in [[project:Responsible point of view]]. --[[User:Gherald|Gherald]] 19:21, 21 Nov 2005 (UTC)
+***** Taimandred, at least, is a dead duck, but there are people who view Reds as completely different than they are usually characterized, even by the author. Again, not factual differences, just motivational (they're trying to prevent another Breaking). And the aforementioned Egwene-is-the-most-hated-character-ever posters, which have no place in the main body of an article. We're wandering afield, though; you believe people won't game the system, I think they will/might. Think about some of your favorite theories, and the contradictory evidence for and against them... ideally we'd be able to include all reasonable views on the matter in a commentary section, but there will be those who push the envelope.  [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 19:34, 1 Dec 2005 (UTC)
+** Secondly, new users may call a new vote, but their call is likely to just be ignored if they haven't made any substantial comments.  If they do make a substantial comment articulating their position (even if it's just to basically agree with those 5 people in your example) then we welcome their opinion regardless of whose "friends" they are.  Also bear in mind they'll need a reasonable edit history for us to pay attention to them. --[[User:Gherald|Gherald]] 17:55, 21 Nov 2005 (UTC)
+*** So how do we decide who gets 'ignored'? Your system is only simpler because it makes several assumptions I'm not willing to make. [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:38, 21 Nov 2005 (UTC)
+**** Such decisions are individual, so use your own criteria. You are of course free to comment and persuade others. --[[User:Gherald|Gherald]] 19:21, 21 Nov 2005 (UTC)
+*I could support this in general, especially since it looks like our numbers are not going to climb to anything requiring minimum thresholds anytime soon. Would you be amenable to changing "reasonable edit histories" to "editors in good standing", and then perhaps we can define that elsewhere? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 22:17, 7 September 2006 (UTC)
+
+==See also==
+* [[Wikipedia:Consensus]]
+* [[Wikipedia:How to hold a consensus vote]]
+* [[Wikipedia:Survey guidelines]]
+* [[Wikipedia:Consensus decision-making]]
+* [[Wikipedia:Voting methods]]
+* [[Wikipedia:Quorum]]
+* [[Wikipedia:Minoritarianism#Minoritarianism in small deliberative groups]]
+* [[Wikipedia:Consensus-seeking decision-making]]

@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://dragonmount.com/gallery/album/155-athena39s-wot-album/
+|Description = Fan art of [[Nynaeve al'Meara]].
+|Artist      = ElusiveAthena
+}}

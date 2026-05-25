@@ -1,0 +1,58 @@
+{{summary | book=14 
+|chapter=29
+|title=The Loss of a Hill
+|icon=trolloc
+|setting=[[Kandor]], [[Tarwin's Gap]], [[Arafel]]
+}}
+
+== Summary ==
+
+:{{pov|[[Egwene al'Vere]]}}
+Egwene fights [[Trolloc]]s climbing the hillside. From her vantage point she could see a trap springing around the veteran force under [[Joni Shagrin]]. Only a few cavalrymen manage to survive the slaughter.
+
+She wants to question [[Gareth Bryne|Bryne]] about how this could have been allowed to happened. Afterwards, she plans to join the troops defending the ford.
+
+:{{pov|[[Al'Lan Mandragoran]]}}
+Lan goes to see [[Agelmar Jagad|Agelmar]] in his tent, who tells him he hopes to take down the leader of the [[Dreadlords]]. Listening to Agelmar, Lan wonders if he missed something that Agelmar saw. But a messenger arrives, confirming Lan's earlier suspicion about a Shadowspawn force sneaking up on them.
+
+He relieves Agelmar of duty and places him under guard, just as [[Elayne Trakand|Elayne]] did to [[Bashere]]. Agelmar is at first outraged, but after a short cross-examination about his latest decisions he suddenly realizes the mistakes he has made and tries to kill himself.
+
+Agelmar remembers that he has sent [[Tenobia si Bashere Kazadi|Tenobia]] to her death, just as Lan has resigned himself to their loss here.
+
+:{{pov|[[Matrim Cauthon]]}}
+Mat, [[Fortuona Athaem Devi Paendrag|Fortuona]], and her entourage ride to a point overlooking the battlefield on the border to Arafel. A few hundred paces opposite the ford Mat spots [[Tylee Khirgan|Tylee]]'s soldiers waiting. Wondering what she was up to, he asks Fortuona for five minutes on his own and rides toward their camp. Tylee says [[Gareth Bryne|Bryne]] gave them the order to stay put.
+
+Not being able to wait around any longer, Mat orders Tylee to take the right flank and Banner-General Makoti the middle; he himself will deal with the left flank and the channelers.
+
+In the midst of battle, Mat takes out an [[Ayyad]] woman, which is rare for a man and a great honor as Fortuona later tells him. Having seen Mat fight, the Seanchan soldiers are in awe of him.
+
+After the skirmish, Mat rides back to Fortuona, who is displeased about his joining the battle. But he explains he had to feel "its pulse" to know it. 
+
+Mat demands absolute control of the Seanchan armies and sends [[Elmindreda Farshaw|Min]] to Egwene to warn her that Bryne is a Darkfriend.
+
+== Characters ==
+* [[Egwene al'Vere]]
+* [[Gawyn Trakand]]
+* [[Egeanin Tamarath|Leilwin Shipless]]
+* [[Al'Lan Mandragoran]]
+* [[Andere]]
+* [[Kaisel Noramaga]]
+* [[Agelmar Jagad]]
+* [[Matrim Cauthon]]
+* [[Fortuona Athaem Devi Paendrag]]
+* [[Selucia]]
+* [[Elmindreda Farshaw]]
+* [[Lunal Galgan]]
+* [[Courtani]]
+* [[Furyk Karede]]
+* [[Tylee Khirgan]]
+
+=== Referenced ===
+* [[Gareth Bryne]]
+* [[Ethenielle Kirukon Materasu]]
+
+== Places ==
+* [[Kandor]]
+* [[Tarwin's Gap]]
+* [[Arafel]]
+{{DISPLAYTITLE:''The Loss of a Hill''}}

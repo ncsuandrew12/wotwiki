@@ -1,0 +1,17 @@
+<noinclude>{| align="right"
+|{{Month|May}}
+|{{Wotmonth|Adar}}
+|}
+'''Adar 27 (May 9)'''
+
+==Events==
+</noinclude>
+*{{ne|998}} - After surviving the [[Great Blight]], [[Rand]]'s party reaches the [[Eye of the World]] and meets the [[Green Man]]. They confront and kill [[Aginor]] and [[Balthamel]]. The Green Man dies, the Eye is drained of ''[[saidin]]'', and the [[Horn of Valere]], a broken [[seal]], and the [[Dragon Banner]] are discovered.
+*{{ne|998}} - [[Fal Dara]]'s army claims victory over the [[Trolloc]]s at [[Tarwin's Gap]].
+<noinclude>
+
+==External links==
+*[[wikipedia:may 9|May 9]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

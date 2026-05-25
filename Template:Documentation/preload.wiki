@@ -1,0 +1,7 @@
+==Purpose of template==
+
+
+==How to use==
+
+
+<noinclude>[[Category:Template documentation]]</noinclude>

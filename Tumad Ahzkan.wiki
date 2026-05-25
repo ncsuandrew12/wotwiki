@@ -1,0 +1,24 @@
+{{character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| ewot=Tumad
+| status=Dead
+| nationality=Saldaean
+| death={{ne|1000}}
+| occupation=Soldier
+| gender=Male
+| appeared={{loc|1}}
+| lastappeared={{cot|p}}
+}}'''Tumad Ahzkan''' was young officer from [[Saldaea]] and a lieutenant serving under [[Davram Bashere]].{{ref|{{twotc}}, Tumad Ahzkan}} Bashere was grooming him to take command of his forces one day.
+
+== Appearance ==
+He was young, heavy-shouldered with a hatchet nose and a black beard and mustache. He was a head taller than Bashere and walked like one who is more used to a saddle than walking. {{ref/book|6|11}}
+
+== Activities ==
+He brought [[Mazrim Taim]] into audience with [[Rand al'Thor]] and Bashere, but was more servile to the latter.{{Ref/book|6|1}}
+
+When Rand's forces were asked to withdraw from [[Caemlyn]], he was disgruntled with having to watch an enemy army lay siege to Caemlyn without being allowed to interfere.{{Ref/book|10|p}}
+
+He wemt with Bashere to [[Algarin Pendaloan]]'s manor in [[Tear]], where they met up with Rand. He died in the [[Trolloc]] attack against the manor.{{Ref/book|11|20}}
+
+{{Notes}}

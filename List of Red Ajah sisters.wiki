@@ -1,0 +1,9 @@
+[[File:Aes Sedai of the Red Ajah.jpg|right|alt=Red Ajah sister|thumb]]The table below lists all known named members of the [[Red Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. 
+
+All the Red sisters were Loyalists during the [[White Tower Schism]]. They, at least, kept any criticisms of [[Elaida do Avriny a'Roihan]] in private and there were no known Red sisters in the Rebel or unaligned groups. The Amyrlins [[Bonwhin Meraighdin]] and [[Tetsuan]] do not appear in this table.
+
+{{#invoke:Characters|get_characters_wikitable|ajah=red|suppress_verify=true|columns=ajah}}
+{{notes}}
+[[Category:List pages]]
+[[Category:Aes Sedai]]
+[[Category:Red Ajah]]

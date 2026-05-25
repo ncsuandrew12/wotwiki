@@ -1,0 +1,22 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| rank=Seeker
+| nationality=Seanchan
+| occupation=Secretary
+| gender=Male
+| status=Alive
+| appeared={{Wh|14}}
+| lastappeared={{tgs|19}}
+| living=tgs
+}}'''Yuril''' is [[Tuon Athaem Kore Paendrag|Tuon's]] [[Hand]] and the commander of all her [[Seekers]].{{ref|{{twotc}}, Yuril|Yuril}} He also serves as her secretary.{{ref||Yuril}}
+
+== Appearance ==
+He is sharp nosed.
+
+== Activities ==
+He is part of the [[Corenne]] escorting Tuon personally.
+
+He is present when Tuon warns King [[Beslan Mitsobar]] not to cause a revolt against the [[Seanchan]].
+
+{{notes}}

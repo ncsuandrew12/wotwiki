@@ -1,0 +1,23 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=
+| nationality=Ghealdanin
+| rank=General
+| title=Lord
+| gender=Male
+| mentioned=
+}}
+
+Lord '''Aleshin Talvaen''' was a [[Ghealdan]]in general during the [[Aiel War]] and a member of the [[Crown High Council]]
+
+==History==
+Lord Talvaen was the leader of the Ghealdanin contingent during the [[Battle of the Shining Walls]]
+
+==Recent Activities==
+Lord Talvaen was flogged by [[Masema]] for having expressed contempt about some word from the Lord [[Dragon]].
+
+{{DEFAULTSORT:Talvaen, Aleshin}}
+[[Category:Generals]]
+[[Category:Short pages]]
+[[Category:Nobility]]

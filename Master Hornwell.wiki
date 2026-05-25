@@ -1,0 +1,36 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=200px
+| nationality=Andoran
+| gender=Male
+| occupation=Servant
+| build=Stout
+| hair=Gray
+| affiliation=House Trakand
+| mentioned={{tpod|8}}
+| appeared={{tpod|20}}
+| lastappeared={{tpod|20}}
+| lastmentioned={{tpod|20}}
+| living=tpod
+| status=Alive
+}}
+'''Master Hornwell''' is the caretaker, with his wife [[Mistress Hornwell]], of one of [[Elayne Trakand]]'s estates in [[Andor]].{{ref|{{twotc|Master Hornwell}}|comp}}
+
+==Appearance==
+Master Hornwell is stout and gray-haired.{{ref/book|8|20}}
+
+==History==
+Master Hornwell and his wife keep one of House Trakand's Andoran estates.{{ref||comp}}
+
+When Elayne was a little girl, she cried over the redbird with the broken wing when visiting the Hornwell estate.{{ref/book|8|20}}
+
+
+==Activities==
+
+After fleeing the [[Kin]]'s [[Farm]] near [[Ebou Dar]], Elayne sends [[Nynaeve al'Meara]] and the rest of the party toward the Hornwells' manor house while she remains behind to unweave the gateway and prevent the [[Seanchan]] from learning [[Traveling]].{{ref/book|8|6}}
+
+When Elayne's party reaches the estate, Master Hornwell and Mistress Hornwell have the estate's workers, [[Pol]], and the servants from the [[Tarasin Palace]] helping to find sleeping accommodations for more than two hundred unexpected arrivals. The work proceeds surprisingly quickly, though [[Alise Tenjile]] proves even more effective at bringing the disorder under control than the capable Hornwells.{{ref/book|8|20}}
+
+The manor shelters Elayne's party overnight before they continue toward [[Caemlyn]] the next morning.{{ref/book|8|20}}
+
+{{notes}}

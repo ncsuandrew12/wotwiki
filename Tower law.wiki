@@ -1,0 +1,65 @@
+{{dablink|For other uses of the word "tower," see [[Tower]].}}
+'''Tower law''' is a set of decrees, laws, and statutes for governing the [[White Tower]]. As the [[Tower Guard]] is the military force of [[Tar Valon]], they may be applied to the entire city-island.
+
+Known laws of the White Tower at the current time:
+
+==[[Novice]]s==
+* Novices may not leave the Tower grounds unless in the company of an [[Aes Sedai]].
+* Novices must wear all-white dresses, belt pouches, stockings, and, when out-of-doors, cloaks.
+* Novices may not speak to Aes Sedai unless they are told to.
+* Novices must curtsy every time they pass an Aes Sedai.
+* Novices may not touch or use the [[One Power]] unless with an [[Accepted]] who is teaching classes or an Aes Sedai is present.
+* Novices may never attempt the [[weave]] of [[Healing]].
+
+==[[Accepted]]==
+* Accepted are not allowed to bond [[Warder]]s under any circumstances.
+* Accepted may not leave Tar Valon except on official business.
+* Accepted may not be seen to be hurrying unless necessary.
+* Accepted are responsible for arranging their own classes with Aes Sedai.
+* Accepted are responsible for deciding in which direction to take their studies.
+* Accepted are never to speak of what they experienced on their test for accepted.
+
+==[[Aes Sedai]]==
+* All Aes Sedai are bound by the [[Three Oaths]].
+* Aes Sedai believe in a system of customs and traditions, many of which are as strong as law.
+** Example: Aes Sedai are expected to keep what they experienced during their test for Accepted and for the [[shawl]] to themselves. New Aes Sedai are told that the secrets of what happened to them during these tests are "to be shared in silence, and only then with the woman who has shared it with you."
+
+==[[The Amyrlin Seat]]==
+* The conditions a woman has to meet to be raised to Aes Sedai are written in the Tower laws.
+* No where in Tower law does it state a woman has to be Aes Sedai to become Amyrlin.
+* The words of summons to trial at the Tower and to become Amyrlin at the Tower are identical.
+* Tower law requires the greater consensus of the Hall (a unanimous vote of present Sitters) to depose an Amyrlin. In addition, a majority of the Hall (traditionally eleven members) must be present, including at least one from each Ajah, with the exception of the former Ajah of the Amyrlin.
+
+==General==
+* Letters that are "Sealed to the Flame" are only to be opened by the [[Amyrlin Seat]]. For anyone else to open them is accounted a crime as strong as assaulting the Amyrlin herself.{{ref/book|7|12}}
+* Letters and decrees that are "Sealed to the Hall" are only to be opened or known by [[Sitter]]s of the [[Hall of the Tower]].{{ref/book|7|12}}
+* Letters and decrees that are "Sealed to the Ring" can be opened or known by any full Aes Sedai.{{ref/book|7|12}}
+* Any letter that is not sealed can be known by any Tower initiate, even the newest novice.{{ref/book|7|12}}
+
+==Formal Sitting of the Hall==
+''This list tries to incorporate those features of a sitting which are laws. For a list that includes traditions see [[Hall of the Tower#Rules and Customs]].''
+
+A sitting is a meeting of the [[sitters]], Aes Sedai who have been elected, three from each Ajah, and form the governing body of the White Tower.
+
+*A formal sitting of the Hall is called by three sitters who have the same question. This question must be addressed before any other during the sitting.{{ref/book|10|19}}
+
+*The Amyrlin does not need to be present at the start of the meeting, but when she arrives, The Keeper of the Chronicles must announce the Amyrlin before her entrance into the Hall of the Tower {{ref/book|10|18}} by declaring "She comes! She comes! The Flame of Tar Valon, the Amyrlin Seat."{{ref/book|10|19}}
+
+*More than half (eleven) of the sitters are needed for a formal sitting of the hall to commence.{{ref/book|10|19}}
+
+*Before calling a witness Aes Sedai, the following is intoned: "You have been called before the Hall of the Tower to relate what you have seen. I charge you to speak of these things without the evasion or holding back and to answer each question in complete fullness leaving out nothing. Say now that you will do so. Under the light and by your hope of the rebirth and salvation or suffer the consequences." The witness gives assurance and can begin giving her account. {{ref/book|10|19}}
+
+*The sitters may vote to call into effect the Law of War, which grants Amyrlin the right to make certain decisions without consulting the Sitters. {{ref/book|10|19}}
+
+==Court==
+At times where a trial held by the [[Hall of the Tower]] is not necessary, or when a sister must receive a penance from other sisters, a court may be held. For more serious offenses, a "High Court" is used and for less serious offenses, a regular court is used. The only difference between the two is that in a High Court, the "Seats" are called "Chairs."{{ref/book|11|p}} Both formats follow the same layout. From the accused's standing perspective, three judges sit in the middle, with the Seat of Rebuke on the right and the Seat of Pardon on the left.{{ref/book|7|30}} The following are terms used in such a court:
+*'''Judges''': Three judges face the accused and pass sentence on her.{{ref/book|7|30}}
+*'''Seat of Rebuke''': The Seat of Rebuke is the "prosecutor" of the court and provides evidence against the accused.{{ref/book|7|30}}
+*'''Seat of Pardon''': The Seat of Pardon is the "defender" of the accused.{{ref/book|7|30}} In High Courts, the Chair of Pardon often shares in the accused's sentence.{{ref/book|11|p}}
+
+==Male Channelers==
+* By Tower law, male channelers must be brought to Tar Valon for gentling, and he must face a White Tower trial before being gentled.
+
+{{notes}}
+[[Category:Laws and customs]]
+[[Category:Aes Sedai]]

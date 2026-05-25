@@ -1,0 +1,18 @@
+{{character 
+| image=ShienarFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Shienaran
+| gender=Female
+| eyes=
+| living=TGH
+| mentioned={{TGH|13}}}}
+
+'''Melia''' was a [[Shienaran]] woman. She was married to [[Hurin]], a [[sniffer]] from [[Fal Dara]].
+
+==Activities==
+She has several children with her husband, Hurin.
+
+Hurin worries about Melia when he is trapped in a [[Mirror World]].<ref>{{TGH|13}}</ref>
+
+{{Notes}}

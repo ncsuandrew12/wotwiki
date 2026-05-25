@@ -1,0 +1,41 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| ewot=Fen
+| nationality=Saldaean
+| title=Gaidin
+| hair= Black, shoulder length
+| gender=Male
+| eyes=Dark, tilted
+| build= Compact
+| status=Alive
+| occupation=Warder
+| affiliation=White Tower
+| mentioned={{acos|17}}
+| appeared={{wh|29}}
+| lastappeared={{tom|9}}
+| living=tom
+}}'''Fen Mizar''' is a [[Warder]] [[Bonding|bonded]] to [[Joline Maza]].{{ref|{{twotc}}, Fen Mizar}}
+
+== Appearance ==
+He has dark, tilted eyes, shoulder length black hair and a sharp chin.
+
+== History ==
+He is [[Saldaean]].
+
+== Activities ==
+=== Evading the Seanchan ===
+He accompanies Joline to [[Ebou Dar]]. When the [[Seanchan]] attack, Joline is poisoned with [[forkroot]]. He with the help of his fellow [[Warder]] [[Blaeric Negina]], manage to sneak Joline out of the [[Tarasin Palace]] where they were staying. 
+They hide her in the basement of [[The Wandering Woman]]. The owner of the inn, [[Setalle Anan]], finds [[Matrim Cauthon]] and charges him with the task of helping Joline flee. Mat plans to use an ''[[a'dam]]'' around her neck, which neither Joline or her two Warders are very pleased with.
+
+=== Traveling with the Band ===
+He goes with Joline and Mat when they flee Ebou Dar and joins up with [[Valan Luca]]'s Traveling Circus.
+When [[Tuon Athaem Kore Paendrag]] manages to get an ''a'dam'' on Joline, Fen and Blaeric just about break down every door in order to rescue her.
+
+He rides with Mat into the cursed village of [[Hinderstap]] and is attacked by the crazed villagers when nightfall comes. The group only just manage to escape the village with some captives. During Fen's shift the captive serving girls just disappear. The party wait the rest of the night away before entering the village again at daybreak to find everyone is back to normal.
+
+Once the Band reaches [[Caemlyn]] Joline, with her Warders, decide to takes Mat's leave and journey back to the [[White Tower]].
+
+{{notes}}
+{{DEFAULTSORT:Mizar, Fen}}
+[[Category:Elaida a'Roihan's White Tower]]

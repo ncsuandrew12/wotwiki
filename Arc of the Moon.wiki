@@ -1,0 +1,8 @@
+{{swordform 
+| mentioned={{6|1}}
+| used=[[Rand al'Thor]]
+}}
+'''Arc of the Moon''' is a [[sword form]]. Other than the name, nothing is known about it. [[Rand al'Thor]] used the form during his practice duel against five other men in [[Caemlyn]].{{ref/book|6|1}}
+
+{{notes}}
+{{short}}

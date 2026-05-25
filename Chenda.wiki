@@ -1,0 +1,17 @@
+{{ character | image=Aiel-icon.svg
+| imagesize = 200px
+| nationality=Aiel
+| gender=Female
+| occupation=Roofmistress
+| status=Alive
+| clan=Tomanelle
+| sept=Jenda
+| mentioned={{Tsr|23}}
+| lastmentioned={{tsr|23}}
+| living=tsr
+}}'''Chenda''' is the [[Roofmistress]] of [[Mainde Cut Hold]].{{ref|{{twotc}}, Chenda|Chenda}}  She is of the [[Jenda]] sept of the [[Tomanelle]] [[Aiel]].{{ref||Chenda}}
+
+== Activities ==
+A young [[Haido]] [[Water Seeker]] is forced to take Chenda as ''[[gai'shain]]'' because he pushed her aside during a raid while she was holding a carving knife. Before a year and a day is passed, he ends up taking one of Chenda's daughters as a wife, meaning that his mother-in-law was still in service to him. In an effort to remedy this situation, he tried to give his mother-in-law to his wife as a wedding gift, yet both of the women involved claimed he was trying to rob them of honor. He almost had to take his own wife as ''gai'shain'' to keep his own honor intact.
+
+{{notes}}

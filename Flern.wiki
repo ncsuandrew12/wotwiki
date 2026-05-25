@@ -1,0 +1,20 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| nationality=Seanchan
+| gender=Male
+| occupation=Unknown occupation
+| affiliation=
+| height=
+| build=
+| hair=
+| status=Unknown
+| mentioned={{tom|48}}
+}}
+'''Flern''' is a Seanchan man seen by [[Aviendha]] in the [[Glass columns]] of [[Rhuidean]].{{ref|{{twotc}}, Flern}}
+
+He is laying a railway line across the Waste when [[Malidra]] tried to take food from his trash. He shot and killed her as he considered Aiel to be vermin.
+
+{{notes}}
+[[Category:Foreseen people]]
+[[Category:Short pages]]

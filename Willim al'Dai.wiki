@@ -1,0 +1,23 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=rad aldai
+| nationality=Andoran
+| occupation=
+| gender=Male
+| affiliation=Two Rivers
+| status=Dead
+| appeared= {{Ravens}}
+}}{{for|others with the same surname|al'Dai}}
+
+'''Willim al'Dai''' was a [[Two Rivers]] man who once served on the [[Emond's Field]] [[Village Council]]. He appears in [[The Eye of the World/Ravens|Ravens]], but is only named as '''Master al'Dai''' in that chapter. His full name is given in [[The Wheel of Time Companion]].
+
+==History==
+He was [[Bili al'Dai]]'s grandfather and [[Hu al'Dai]]'s father.{{ref/book|1|Ravens}}{{ref|{{Twotc|Willim al'Dai}}|comp}}  This fact ties the Ravens and Companion together suffiently to conclude they refer to the same person.
+
+Willim was once on the Emond’s Field Village Council.{{ref||comp}} 
+
+He died of old age well before the first appearance of Trollocs in the Two Rivers.{{ref||comp}} 
+
+[[Category:Village Councilors]]
+{{notes}}

@@ -1,0 +1,18 @@
+{{character 
+| image=Leaves-icon.svg
+| imagesize=100px
+| ewothist=Ghoetam
+| status=Fictional character
+| nationality=Unknown nationality
+| gender=Male
+| mentioned={{Tsr|24}}
+| lastmentioned={{tsr|24}}
+}}According to legend, '''Ghoetam''' was a sage who sat beneath [[Avendesora]] for forty years to gain wisdom.{{ref|{{twotc}}, Ghoetam}} When Rand and Mat arrive at Avendesora, Rand begins to feel the effects of [[chora]] trees and can well believe the tale of Ghoetam.{{ref/book|4|24}}
+
+==Parallel==
+This legend is a parallel of [[Wikipedia:Gautama Buddha|Gautama Buddha]] who sat in meditation underneath the [[Wikipedia:Bodhi Tree|Bodhi Tree]] for forty-nine days to achieve enlightenment and a knowledge of the Truth.
+
+{{notes}}
+[[Category:Parallels]]
+[[Category:Deceased]]
+[[Category:Historical people]]

@@ -1,0 +1,66 @@
+{{featuredicon}}{{character
+| image=Wot be lal by reddera-d507q7b.jpg
+| imagesize = 250px
+| birth=Age of Legends
+| status=Dead
+| death={{ne|999}}
+| nationality=Tear
+| title=Blademaster
+| rank=Chosen
+| height=Tall
+| build=Stocky
+| hair=White, close-cropped
+| gender=Male
+| appeared={{tdr|4}}
+| lastappeared={{tdr|55}}
+| lastmentioned={{kod|3}}
+| ewot=belal
+}}'''Be'lal''', (BEH-lahl; /ˈbɛː.lal/; ''The Envious'' or ''Netweaver'') formerly known as '''Duram Laddel Cham''', is one of the thirteen [[Forsaken]] who were trapped at [[Shayol Ghul]] due to the [[Dragon]]'s sealing. He used the alias '''Lord Samon''' the High Lord of [[Tear]].
+
+==Strength==
+Be'lal has a strength in the [[One Power]] of {{opsl|4}}. Although this places him as the weakest of the male Forsaken in terms of raw power, he was still one of the strongest channelers of the Shadow at the end of the [[War of Power]] and very few match him strength in the Third Age. It is likely that Rand was also weaker than he when he faced him in the [[Stone of Tear]].
+
+==Appearance==
+He was a tall, athletic man with close-cropped silver hair.{{ref|{{bwb}}, Chapter 5: The Dark One and the Male Forsaken|bwb}} When Rand meets him in the guise of Lord Samon, he has "close-cropped white hair" and "a red silk coat with black stripes down its puffy sleeves and black breeches tucked into elaborately silver-worked boots."{{ref/book|3|54}}
+
+==History==
+[[Image:Be'lal.jpg|left|100px|thumb|Duram Laddel Cham, better known as Be'lal]]
+Ironically, the histories have little to say about someone so highly regarded, stating "he is the Forsaken about whom the least is known."{{ref||bwb}} Loial only says that "[Be'lal] is not mentioned much" and "is just not spoken of very often." The literal translation of his name is "desire to have" from the [[Old Tongue]].{{ref|{{twotc}}, Old Tongue}} Historian[[Jalanda (Ogier)|Jalanda son of Aried son of Coiam]] recounts that he was called the '''Envious''' attributing it to his envy of [[Lews Therin Telamon]] and the most powerful Forsaken, [[Lanfear]] and [[Ishamael]].{{ref/book|3|50}} [[Moilin|Moilin daughter of Hamada daughter of Juendan]] provides another nickname, '''Netweaver''', in her book [[A Study of the War of the Shadow]] due to his mastery of manipulation.{{ref/book|3|50}}
+
+Prior to the [[Collapse]], Be'lal was known as '''Duram Laddel Cham'''. He was a legal advocate in the courts and was talented enough to earn his honorific third name for outstanding public service.{{ref||bwb}} He was a colleague and possible friend of Lews Therin Telamon. Together, they revived the "tame sport" of sword fighting in a world where war was previously unknown.{{ref/book|3|54}} He was a true [[blademaster]], but acknowledged Lews Therin as the better swordsman.{{ref/book|3|54}} Once, he defeated Lews Therin at a game of [[Stones]], then known as no'ri, and bragged that this was proof he was the better strategist.{{ref/book|3|50}}. When the War of Power broke out, he was on the side of the Light, eventually becoming one of its leaders and top generals.
+
+As his envy of Lews Therin grew, their relationship soured and eventually led him to swear allegiance to the Shadow. [[The World of Robert Jordan's The Wheel of Time]] says he defected at some point during the Collapse, although whether at the beginning or end is unknown.{{ref||bwb}} This seems a discrepancy, however, as he was one of the leaders of the Light during the [[War of Power]] that occurs around a hundred years after the drilling of the [[Bore]]. It is possible that he was infiltrating and sabotaging the Light for all this time, although his own words at the end of The Dragon Reborn seem to contradict this fact in that they imply they truly were on the same side once the War of Power broke out: ''Once we rode to war side by side, and for that I give you a chance... Do you remember even one of those desperate battles, even one of our dire defeats?''
+
+[[Image:Belal.jpg|left|thumb|150px|Be'lal portrait done by Seamas Gallagher]]
+Nevertheless, it could be speculated that he caused chaos when he finally betrayed the Light. Among the forces of the Shadow, he was "judged a more than adequate if not outstanding general, and he governed at least one conquered region".{{ref||bwb}} His campaigns and governance were marked by extreme violence and cruelty, but not notably moreso than the other Forsaken. Later in the war, he and [[Demandred]] led massive attacks near the [[Choedan Kal]], but failed to retrieve the [[Access key|access key ter'angreal]] needed to use them. It's possible they were simply unaware they were nearby during the attacks.{{ref||bwb}} He also took part in the razing of [[Aes Sedai (Age of Legends)|Hall of the Servants]].{{ref/book|3|50}} Shortly afterwards, Lews Therin and the [[Hundred Companions]] sealed him in Shayol Ghul with the other [[Forsaken]] for roughly 3,000 years, thus ending the War of Power and the [[Age of Legends]].
+
+[[File:Samon.jpg|thumb|right|Lord Samon]]
+
+== Activities ==
+===Release===
+He escaped from the Bore and quickly adapted to the new world's political landscape. He assumed the name of '''Lord Samon''' and positioned himself as a [[High Nobility of Tear|High Lord of Tear]]. In this role, he wielded significant influence and governed Tear in all but name. He was more manipulative than [[Rahvin]] and deadlier than [[Sammael]] in open combat against their enemies. His plan hinged on luring [[Rand al'Thor]] to the Stone of Tear, encouraging him to claim [[Callandor]], and thus release its seal. Then, he would kill Rand and seize Callandor for himself.{{ref/book|3|55}}
+
+While hiding in the [[Mountains of Mist]], just before [[Shadowspawn]] attacks the camp, [[Perrin Aybara|Perrin]] is visited in his dreams by several Forsaken, one of them clearly [[Lanfear]], and then dreams of a meeting of Be'lal and [[Rahvin]] in a place resembling [[The Ways]]. Perrin cannot hear what they're saying, but Be'lal and Rahvin's gestures indicate a heated argument. A third man appears, possibly [[Ishamael]]. Be'lal and Rahvin appear to side against Ishamael, but soon their short alliance breaks.
+[[File:Belal2 CCG.jpg|left|thumb|294x294px|Be'lal as depicted in the CCG]]
+
+===Death===
+During the capture of the Stone of Tear, he fought Rand with a dark heron blade sword made from the One Power. He relied on his superior swordsmanship to overcome Rand, rather than the One Power and voiced his disappointment that Rand was not as good as Lews Therin yet. Instead of killing him, Be'lal began forcing Rand to claim Callandor. Ultimately, [[Moiraine Damodred]] saved Rand by killing Be'lal with [[balefire]]{{ref/book|3|55}}. Burned away from the [[Pattern]] before his death, Be'lal was now out of reach even for the Dark One. 
+
+[[File:Forsaken Be'lal.jpg|170px|thumb|right|The [[Forsaken]] Be'lal]]
+
+==Parallels==
+Be'lal is likely a reference to [[Wikipedia:Belial|Belial]], one of the seven princes of Hell in Christian and Jewish apocrypha, or it could be related to Ba'al, another of the seven princes. The word "belial" in Hebrew describes someone who is extremely wicked or iniquitous.
+
+{{notes}}
+[[es:Be'lal]]
+[[Category:Blademasters]]
+[[Category:Forsaken]]
+[[Category:Men]]
+[[Category:Balefired]]
+[[Category:Antagonists]]
+[[Category:Aes Sedai (Age of Legends)]]
+[[Category:Channelers]]
+[[Category:Tear (people)]]
+[[Category:Lords]]
+[[Category:Nobility]]
+[[Category:High Nobility of Tear]]

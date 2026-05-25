@@ -1,0 +1,24 @@
+{{ character
+| image=WoT325.5.jpg|thumb|Al'Akir Mandragoran from WoT comic
+| imagesize=200px
+| ewot=alakir
+| status=Dead
+| name=al'Akir Mandragoran
+| nationality=Malkier
+| rank=King
+| title=King of Malkier
+| gender=Male
+| mentioned={{ns|15}}
+| lastmentioned={{amol|6}}
+}}{{for|others with the same surname|Mandragoran}}
+'''al'Akir Mandragoran''' was the last crowned king of the nation of [[Malkier]].{{ref|{{twotc}}, Akir Mandragoran}}
+
+== History ==
+[[Jain Farstrider]] captured [[Cowin Gemallan]] and brought him back to al'Akir. Due to his betrayal and him being a [[Darkfriend]], al'Akir challenged and then killed Cowin in single combat. He and his wife, [[el'Leanna Mandragoran]], sent [[al'Lan Mandragoran]], their son, out of dying Malkier when he was born. They both were killed at [[Herot's Crossing]] soon afterward.
+
+{{notes}}
+{{DEFAULTSORT:Mandragoran, Al'Akir}}
+{{lowercase}}
+
+[[es:Akir Mandragoran]]
+[[Category:Historical people]]

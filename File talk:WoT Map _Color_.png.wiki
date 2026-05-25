@@ -1,0 +1,4 @@
+== Errata == 
+First and foremost, thank you for a great map to view while reading the series! <br>Based on WoT03 TDR ch33 para9-15: Along the Lugard Road in Ghealdan, between Jara and Remen the sequence of towns, (rivers,) and ''unnamed villages'' appears to be: <br>Jarra, (River Boern,) Sidon, , , , , Willar, , , , Samaha, Tallan, Fyall, Remen. <br>This sequence is different than what is annotated on this map and makes me wonder if there are other (albeit trivial) errata. 
+* ''I wonder if the gimp or similar source for this map is available from the original uploader for possible editing of only the layers that contain the annotations.'' 
+Bryan Ray's original work is located at http://www.bryanray.name/maps.htm <br>Cheers!  -- najevi 00:28, May 3, 2016 (UTC)

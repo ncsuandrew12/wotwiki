@@ -1,0 +1,29 @@
+{{ character 
+| image=RedAjah.png
+| imagesize=250px
+| ewot=Jamilila
+| ajah=Red
+| nationality=Unknown nationality
+| gender=Female
+| rank=Aes Sedai
+| affiliation=White Tower
+| mentioned={{tgs|e}}
+| lastmentioned={{tgs|e}}
+| living=tgs
+| status=Alive 
+}}'''Jamilila Norsish''' is an [[Aes Sedai]] of the [[Red Ajah]].{{ref|{{twotc}}, Jamilila Norsish}}
+
+== History ==
+She is very weak in the [[One Power]] and has been an Aes Sedai for years.
+
+== Activities ==
+She disappears from the [[White Tower]] after [[Egwene al'Vere]] becomes [[Amyrlin Seat]] and asks all Aes Sedai to re-swear the [[Three Oaths]] on the [[Oath Rod]]. This strongly suggests she is [[Black Ajah]], even though her name was not on [[Verin Mathwin|Verin's]] list. Egwene also thought she might possibly be [[Mesaana]].
+
+Another possibility is that she was taken by the [[Seanchan]].
+
+{{notes}}
+{{DEFAULTSORT:Norsish, Jamilila}}
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

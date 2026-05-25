@@ -1,0 +1,17 @@
+{{ character
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| occupation=Merchant
+| nationality=Altaran
+| hair=Dark
+| gender=Male
+| appeared={{kod|11}}
+| lastappeared={{kod|11}}
+| lastmentioned={{kod|11}}
+| living=kod
+}}
+'''Camrin''' is a merchant from [[Altara]] who sells lacquerware. He is lean and bald except for a fringe of dark hair.
+==Activities==
+He dices and drinks with [[Kostelle]], [[Vane]], and Mistress [[Alstaing]] in [[The White Ring]] in [[Maderin]] until Mat joins them.
+[[Category:Short pages]]

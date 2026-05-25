@@ -1,0 +1,70 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| ewot=Edesina
+| ajah=Yellow
+| gender=Female
+| nationality=Unknown nationality
+| status=Alive
+| rank=Aes Sedai
+| affiliation=White Tower
+| hair=Very long, Black
+| build=Slender
+| mentioned={{ns|4}}
+| appeared={{tfoh|26}}
+| lastappeared={{tom|17}}
+| living=tom
+}}'''Edesina Azzedin''' is an [[Aes Sedai]] of the [[Yellow Ajah]].
+
+== Appearance ==
+Edesina is handsome and slender, with waist-length black hair.{{ref/book|5|26}}
+
+==Strength and Abilities==
+Edesina is of [[Strength in the One Power among Aes Sedai|average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|30}}. She would not be able to [[Traveling|Travel]] without linking with another channeler.
+
+Given she is Yellow Ajah, she would have an above average ability at Healing.
+
+==History==
+She was an [[Accepted]] in the [[White Tower]] during the [[Aiel War]] when the [[Dragon]] was reborn. Accepted Edesina asks Alanna and Pritalle to loan her stockings in preparation for the bounty collection.{{ref/book|0|4}}
+
+==Activities==
+=== Capture and rescue from Seanchan ===
+She is allied with the [[Salidar Aes Sedai]]. In Salidar Edesina helps out Min with Faolain; some time after she examines Logain{{ref/book|5|26}}.
+
+She was sent, along with [[Afara]] and [[Guisin]], as representatives of the [[Rebel Aes Sedai]] to bring order to [[Tarabon]]{{ref/book|6|15}}. All three were captured by the [[Seanchan]]. Edesina and Guisin were brought to Altara, while Afara remained in Tarabon.
+
+[[Mat Cauthon]] helped her and [[Teslyn Baradon]] to escape from the [[Tarasin Palace]] 'kennel' in [[Ebou Dar]]. The other Aes Sedai damane in Altara, Guisin and [[Sheraine Caminelle]], were not brought along as they had been broken. After fleeing Ebou Dar, Mat's group joins up with [[Valan Luca]]'s Traveling Circus as a cover to escape Seanchan notice{{ref/book|10|1}}.
+
+=== In Valan Luca's show ===
+She ends up in Valan Luca's Traveling Circus due to arrangements made by Mat Cauthon, sharing a wagon with the other Aes Sedai and ''[[sul'dam]]'' {{ref/book|10|3}}.
+
+Edesina finds out that [[Tuon Athaem Kore Paendrag]] is a High Lady of Seanchan and continuously approaches her about forming a truce with the White Tower. Finally things get out of hand and [[Selucia]] slaps an ''a'dam'' on [[Joline Maza]] and Teslyn, and hands it to Tuon who then places a shield on Edesina and binds her with air. Mat diffuses the situation and takes the bracelets off of her and buries them with the promise that Edesina won't bother Tuon again{{ref/book|11|9}}.
+
+After the disappearance of the Shiotan ghost village, Joline, Edesina and Teslyn inspect the area but find nothing{{ref/book|11|20}}.
+
+=== Traveling with the Band ===
+After a skirmish with Darkfriends in [[Maderin]], Mat and the rest of his group decide to leave Luca's show. While riding through [[Altara]] they meet up with the [[Band of the Red Hand]] and begin to travel with them{{ref/book|11|25}}. When they rejoin the Band of the Red Hand, the nobles bow to Teslyn, Joline and Edesina and even Bethamin and Seta{{ref/book|11|25}}.
+
+[[Seta Zarbey]] asks to be taught how to channel and is refused due to her age. She then copies the weave [[Bethamin]] used and is now taught by a reluctant [[Joline Maza]] and Edesina{{ref/book|11|25}}.
+
+Teslyn, Joline and Edesina assist and also interfere in Mat's plans to disrupt the Seanchan army in northeast Altara{{ref/book|11|27}}.
+
+When [[Furyk Karede]] enters the Band's camp to bring Tuon back to Ebou Dar, [[Sheraine Caminelle]], who has been made ''damane'', also accompanies him. Joline tries to get [[Melitene]] to let her go. Teslyn and Edesina try to convince Joline to forget about Sheraine when suddenly both are shielded by Sheraine herself. Mat manages to get Melitene to release the shields{{ref/book|11|36}}.
+
+She rides with Mat into the cursed village of [[Hinderstap]] and is attacked by the crazed villagers when nightfall comes{{ref/book|12|27}}. She Heals the injured [[Redarm]] [[Delarn]] when he is stabbed in the gut. The group only just manages to escape the village and wait the night away before entering the village again at daybreak to find everyone back to normal{{ref/book|12|28}}.
+
+She takes Mat's leave and begins her journey back to the White Tower with Joline, Teslyn, Egeanin (Leilwin), and Domon{{ref/book|13|17}}. A few months later, she and her companions arrive at the Tower{{ref/book|13|52}}.
+
+== Viewing ==
+[[Min]] had a viewing that Edesina would be made ''[[damane]]'' by the [[Seanchan]] but would escape{{ref/book|5|26}} (fulfilled).
+
+{{notes}}
+{{DEFAULTSORT:Azzedin, Edesina}}
+
+[[es:Edesin Azzedin]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Damane]]
+[[Category:Slaves]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,84 @@
+{{summary | book=13 |
+|chapter=7
+|title=Lighter than a Feather
+|icon=Hilt
+|setting=[[Kandor]], [[Ghealdan]]
+}}
+
+==Summary==
+
+:{{pov|[[Lan Mandragoran]]}}
+[[Lan]] is near the border of [[Kandor]] and [[Saldaea]]. [[Bulen]] now travels beside Lan, where they travel mostly at night so as not to be seen. They approach a group of three men. Bulen notices that two of them wear the ''[[Hadori]]''. As Lan approaches them, the three, [[Nazar Kurenin]], [[Rakim]] and [[Andere]] ride out and pass Lan. Lan nonplussed asks them to stop following him, to which they reply that they are actually ahead of him. However, if a king ordered them, they would obey. Lan flatly tells them that there is no king to a fallen kingdom. Lan tries to persuade them to not ride to their deaths, to which Rakim replies that death is lighter than a feather. Lan concedes and the two become five.
+
+:{{pov|[[Galad Damodred]]}}
+[[Galadedrid Damodred]] sits inside his tent while his officers report to him. The [[Children of the Light]]s captives {{ref|Basel Gill and the other refugees from Malden.}} told them where the army would be. Reports say that the flag of [[Ghealdan]] and [[Mayene]] fly, although the wolfhead banner was taken down the previous day, confirming that [[Perrin Aybara]] is within the camp. [[Jaret Byar]] tells Galad that Perrin killed [[Dain]]'s father and that he is from the [[Two Rivers]], where they met previously {{ref/book|4|45}}. Galad asks for a full report on Perrin.
+
+:{{pov|[[Perrin Aybara]]}}
+Perrin has camped his army by the [[Jehannah Road]], contemplating the emergence of the Whitecloak army might be linked to his vision of wolves chasing sheep to the edge of a cliff. He eats breakfast with [[Gaul]] seated on the floor.
+
+:{{pov|[[Galad Damodred]]}}
+Byar informs Galad that the Children fought [[Trolloc]]s in the Two Rivers, confirming that he is in fact Shadowspawn and that his men were run out of the Two Rivers. Galad wonders if it is coincidence or something more that has led his army to Perrin now. [[Oratar]] and Bornhald can confirm this as well as Perrin being at [[Falme]].
+
+:{{pov|[[Perrin Aybara]]}}
+Gaul reports to Perrin that the Whitecloaks have Gill and the other refugees. The [[Lord Captain Commander]] is also present within the camp.
+
+:{{pov|[[Galad Damodred]]}}
+Based on Byar's testimony, Galad is now determined to bring Perrin to justice.
+
+:{{pov|[[Perrin Aybara]]}}
+Perrin wonders if this being ''[[Ta'veren]]'' at work. Gaul confirms that their army is larger than the Whitecloaks.
+
+:{{pov|[[Galad Damodred]]}}
+Galad makes the choice to move against Perrin's army.
+
+:{{pov|[[Perrin Aybara]]}}
+Perrin is unsure what to do. He decides to send more scouts and properly investigate the camp and offer parley. However, he will not leave Gill and the others to the Whitecloaks.
+
+==Characters==
+*[[Lan Mandragoran]]
+*[[Bulen]]
+*[[Scouter]]
+*[[Andere]]
+*[[Nazar Kurenin]]
+*[[Rakim]]
+*[[Mandarb]]
+*[[Galad Damodred]]
+*[[Jaret Byar]]
+*[[Perrin Aybara]]
+*[[Faile Aybara]]
+*[[Gaul]]
+
+===Referenced===
+*[[Nynaeve al'Meara]]
+*[[Eamon Valda]]
+*[[Geofram Bornhald]]
+*[[Alliandre]]
+*[[Pedron Niall]]
+*[[Oratar]]
+*[[Elyas Machera]]
+*[[Sulin]]
+*[[Sebban Balwer]]
+*[[Hopper]]
+*[[Basel Gill]]
+
+==Places==
+*[[Kandor]]
+*[[Ghealdan]]
+
+===Referenced===
+*[[Saldaea]]
+*[[Plain of Lances]]
+*[[Berndt Crossroads]] location in Kandor
+*[[South Mettler]] location in Kandor
+*[[Blight]]
+*[[Salmarna]] historical location possibly fictional
+*[[Mayene]]
+*[[Two Rivers]]
+*[[Lugard]]
+*[[Borderlands]]
+*[[Manetheren]]
+*[[Andor]]
+*[[Falme]]
+
+{{Notes}}
+{{DISPLAYTITLE:''Lighter than a Feather''}}

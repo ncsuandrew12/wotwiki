@@ -1,0 +1,43 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewot=Nelavaire
+| ajah=Green
+| status=Alive
+| nationality=Cairhien
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| mentioned={{tgs|31}}
+| lastmentioned={{tom|15}}
+| living=amol
+|birth = {{ne|850}}}}'''Nelavaire Demasiellin''' is a [[Cairhien]]in [[Aes Sedai]] of the [[Green Ajah]].{{ref|{{twotc}}, Nelavaire Demasiellin|comp}} She was one of the Tower Aes Sedai captured at [[Dumai's Wells]].
+
+== Appearance, Personality and Abilities ==
+She is 5'2 tall, slim, wiry and whipcord tough. Rand thinks she is relatively pleasant for an Aes Sedai.{{Ref/book|12|31}}
+
+Nelavaire has a strength in the [[One Power]] of {{opsl|34}}, slightly below average for an Aes Sedai. She is unable to [[Travel]] without linking.
+
+== History ==
+Nelavaire was born in {{ne|850}} in [[Cairhien]].
+
+She was born with the [[spark]] which began to manifest at the age of thirteen. Due to this, the White Tower made an exception and she was enrolled at thirteen as a Novice in the year {{ne|863}}.
+
+After spending ten years as a [[novice]] and six years as [[Accepted]], she was raised to the shawl in {{ne|879}} at the age of 29.{{ref||comp}}
+
+== Activities ==
+She remained loyal to the [[White Tower]] during the split following [[Siuan Sanche]]'s deposing. She is one of the sisters who was captured after the [[Battle of Dumai's Wells]], made ''da'tsang, ''and then swore fealty to Rand under [[Verin Mathwin|Verin]]'s compulsion. She has now bonded the [[Asha'man]] [[Naeff]].
+
+Naeff informs her of [[Nynaeve]] [[Healing]] his madness.
+
+She probably fought in the [[Last Battle]] alongside Naeff. During the battle of the [[Field of Merrilor]], Naeff is seen without Nelavaire, but she is presumed alive. Had she died, Naeff would have shown the effects of their Warder bond being broken.
+
+{{Notes}}
+{{DEFAULTSORT:Demasiellin, Nelavaire}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Sparkers]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

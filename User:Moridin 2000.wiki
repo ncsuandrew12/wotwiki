@@ -1,0 +1,79 @@
+==To Do List==
+I will keep a list here for things on my to do list with the nature of the improvements needed. Stepping in to make the required improvements is highly encouraged!
+
+===Aiel Pages===
+
+* [[Tamela]] (Companion info)
+* [[Tion]] (refs, description)
+* [[Viendre]] (check details)
+* [[Sarien]] (check details)
+* [[Camar]]
+* [[Manderic]] (refs, reorganise)
+* [[Rolan]] (details)
+* [[Indirian]] (refs, hold?)
+* [[Jalys]] (sept/hold)
+* [[Shedren]] (reorganise)
+* [[Tavalad]] (reorganise)
+* [[Bruan]] (refs, details)
+* [[Darvin]] (reorganise)
+* [[Dhearic]] (refs)
+* [[Turolin]] (check details)
+* [[Corida]] (details)
+* [[Janwin]]
+* [[Han]]
+* [[Kymer]]
+* [[Ronam]]
+* [[Lian]]
+* [[Chenda]]
+* [[Tarra]]
+
+==Contributions==
+Asides from many casual edits on random pages here and there, this is a list of some of my favourite projects I've completed or are ongoing:
+*Redesigning of all [[:Category:Flags|nation flags]] to the same style with corrections on the errors in [[The World of Robert Jordan's The Wheel of Time]].
+*Poster of the [[:File:Poster.png|Trolloc Bands and their symbols]]
+*Calculations of [[Distances in the Westlands]] with detailed [[User_blog:Moridin_2000/Canonical_Map_Distances|method]] on how that was achieved.
+*[[The Wheel of Time translations]]: A collection of almost 1000 covers over 25 different languages.
+*[[Wheel of Time audiobooks]]: History and details on all currently available audiobooks in English. Other languages are covered above.
+*Many list pages such as: [[List of Red Ajah sisters]] (and all other Ajahs), [[Aes Sedai advisors]], [[Lini's sayings]], [[Clan chief]] etc that give an overview of series-wide information.
+*[[List of character heights]] compiling all information from the Companion and other sources with a fun infographic filled with hidden details.
+*Expansion and organisation of [[List of Old Tongue words|Old Tongue vocabulary]] and a page on [[Old Tongue numbers]].
+*Infographics on the [[:File:Guide_to_Andoran_Politics.png|Houses and Politics of Andor]] and [[:File:Hall_of_the_Tower.png|The Hall of the Tower]]
+*Sitewide standardisation of Aes Sedai strengths and hierarchy judgements from the Companion as well as comprehensive lists seen on [[Strength in the One Power among Aes Sedai]], [[Strength in the One Power among the Kin]] and [[Strength in the One Power among the Wise Ones]].
+*Interactive [[Map:Westlands|map of the Westlands]]. This needs more annotation and details, but I started reaching the limits of what the tool allowed.
+
+==Further Projects==
+*Comprehensive expansion of examples of One Power usage throughout the series. I have a spreadsheet catalogue of more than 900 examples of weaves with 700 of those giving which the [[Five Powers]] is used to form them.
+*Strength in the One Power and life expectency correlations for both female and male channelers. I have plots and supporting quotes and arguments.
+*One Power strengths in terms of how the levels relate to absolute strength using canon comparisons. I have plots and some basic quotes, but needs work to tighten speculative elements of the theory.
+*List of heights and sizes of many structures and buildings in the books. Data gathering is done, but potential for another large infographic.
+*Reworking of the Chronology. I've collected all references to specific years from all Wheel of Time resources and most other chronological references by year. I do not yet have a comprehensive timeline of the events of the books.
+*Catalogue of all Aiel characters by warrior society and clan (to be done).
+*'''Expansion on Old Tongue''': I've created a bidirectional translator with expanded vocabulary via synonym lookup. This also renders the words in Old Tongue script with marhers for upper case and correct rendering of symbols for dipthongs like "th" and "ai". See [[Old Tongue]] for the script. Unfortunately this compiles to 1.2 Gb as a standalone app, so it is a work in progress. Asides from this, I'd like to use the expanded vocabulary and make categories for the Old Tongue that makes the dictionary more navigable and the language more learnable.
+*More interactive maps of the routes the characters take in the books. Commentary on locations.
+*List of errata for the [[The Wheel of Time Companion]] and [[The World of Robert Jordan's The Wheel of Time]].I've been gathering a document on the first for a number of years, adding a new entry whenever I come across something.
+
+==History with the Wheel of Time==
+I discovered The Wheel of Time at the tail end of 1999 in a bookstore in {{wiki|Downpatrick}}, Northern Ireland, where I went to school. I picked up the book because I liked the book cover art and there seemed to be enough of them to keep me going for a while. After bouncing off my first attempt to read [[The Eye of the World]] in early 2000, I retried from the beginning a few months later and was so gripped by the ending and teaser [[The Great Hunt/Prologue|chapter]] for The Great Hunt that I've never looked back. 
+
+I recall setting my alarm for 6am just to get reading time in before school and pushed my way through the first eight books before the publication of [[Winter's Heart]]. We didn't have the internet at home until later that year, so I started using the school library computer to find out what other people thought about this thing called "Wheel of Time" on Ask Jeeves. I am not ashamed to admit that I filled myself with spoilers by reading the Usenet WoTFAQ and discovering sites like Encyclopaedia WoT, WoTmania, Dragonmount and Theoryland. I was so enthusiastic that I convinced the school librarian to purchase some of the books for the other students to loan out.
+
+That same year, I also became an admin for WoTmania contributing to Wheel of Time Quizzes, theory posts and our own Wheel of Time FAQ. I was joined by Linda Sedai (Linda Taglieri of the Thirteenth Depository Blog) and others more experienced than my 18-year-old self. My username was Moridin_2000 on WoTmania and M2K on Dragonmount and Theoryland. Apparently, like a lot of teenagers, I thought the nihilist guy who dressed all in black and was a philosopher was "edgy". And 2000 was the year. The folly of youth!
+
+While at university, I continued to contribute and converse online but that became more difficult after 2005 when entering full-time employment. In 2007, Robert Jordan died and, like many people, felt a deep sadness, but also an uncertainty and a feeling of being in limbo with not knowing anything about Brandon Sanderson. I read the last three books when they were released, and enjoyed them immensely, but did not reread them in as much detail as Jordan's books. 
+
+===History with the WoT Wiki===
+In 2009, WoTmania shut down. Some folks migrated to ReadAndFindOut, a more general SF&F website made to the same mould, while others went to Thirteenth Depository and elsewhere. Looking around for a space that had the potential for stable hosting and flexibility in what I could contribute, I joined the team at the Wheel of Time wiki. The wiki had been around since 2005, but still had a long way to go to match other online resources. One of the first things I remember doing was adding new material from the Sanderson books in terms of new character pages. I became an admin at some point during that time.
+
+When [[A Memory of Light]] was released, I had already moved to Scotland from Northern Ireland and had less time for Wheel of Time. For a few years I did not look near the wiki and updates from the Companion were made by other editors. In 2019, however, news of an adaptation reached me. In 2020, we were hit by the pandemic and I was getting married in Bolivia at the time, so ended up spending nine months there. During this time, I started to get back into the fandom by watching deep dives on The Dusty Wheel, short videos by YouTubers Nae'blis and Daniel Greene and taking part in Discord discussions on Nae'blis channel. I also started editing again on the wiki and renewed my admin status. Like a lot of us, I had a lot of free time during the pandemic, made worse by the fact I had to wait a long time for my wife to get her spouse visa. My edit numbers climbed up and I started to experiment with infographics, maps and other things as curiousity took me. I also started some social media engagement for the wiki and made some more connections in the fandom. I had the great pleasure to appear on The Dusty Wheel with the wonderful Gary Kephart of Encyclopaedia WoT. 
+
+Since then I've been contributing at a variable pace to the projects listed below. We have a very active Discord server which we share with the Wiki for the Amazon TV show.
+
+==Other Interests==
+
+*I count myself a mathematician first and a programmer second. I definitely identify with the [[White Ajah]]!
+*I read a lot of books outside of Wheel of Time, approximately 75 per year. 
+*I am a keen enthusiast of the works of {{wiki|William Shakespeare}}. I've read 36 of his plays so far, most multiple times, and seen many adaptations of his work. My DVD collection contains around 200 versions of a variety of plays. I am also a member of the Glasgow Shakespeare Society.
+
+[[Category:Administrators]]
+
+{{notes}}

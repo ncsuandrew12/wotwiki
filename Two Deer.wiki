@@ -1,0 +1,17 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=Two_Deer
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Unknown
+| appeared={{tgh|14}}
+}}
+'''Two Deer''' is a [[wolf]].
+
+==Activities==
+Two Deer, along with [[Smoke]] and [[Winter Dawn]], are wolves known to [[Perrin Aybara]]. When [[Rand al'Thor]], [[Hurin]] and [[Loial]] disappear from [[Ingtar Shinowa]]'s camp, Perrin asks the wolves to help search for the [[Horn of Valere]] which was stolen by [[Padan Fain]].{{ref/book|2|14}}
+
+{{notes}}
+[[Category:Wolves]]

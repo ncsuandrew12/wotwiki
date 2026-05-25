@@ -1,0 +1,27 @@
+{{character 
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Saldaean
+| rank=Marshal-General
+| occupation=Soldier
+| affiliation=Saldaea
+| gender=Male
+| mentioned={{loc|2}}
+| lastmentioned={{loc|2}}
+}}
+{{quote|He might have been insane but he could out-general anyone I ever saw. He never lost a battle, he never even came close to losing.|[[Davram Bashere]] about General Muad Cheade}}
+'''Muad Cheade''' was at one time the [[Marshal-General]] of [[Saldaea]].{{ref|{{twotc}}, Muad Cheade}}
+
+==History==
+When [[Davram Bashere]] was younger, he served under Marshall-General Cheade. Bashere told [[Rand al'Thor]] about the general, in relation to madness.
+
+Cheade, according to Bashere and many more, was mad. He searched his bodyservant for poison twice a day and drank nothing but vinegar and water. He claimed it protected him from the poison that his bodyservant fed him. Despite the "poison," Cheade ate everything the same servant prepared for him.
+
+Cheade once had a grove of twenty-three oak trees chopped down. He believed that the trees were looking at him. Regardless of the fact that they were trees, he still gave them decent funerals, even giving them an oration.
+
+Despite the madness, his family and friends would do nothing to help him (those who were not themselves also insane). [[Queen]] [[Tenobia Kazadi]]'s father gave an order that no one interfere with the general. Even though he was insane, he was a great general.{{ref/book|6|2}}
+
+{{notes}}
+{{DEFAULTSORT:Cheade, Muad}}
+[[Category:Generals]]

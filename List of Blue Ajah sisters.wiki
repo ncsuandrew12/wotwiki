@@ -1,0 +1,9 @@
+[[File:BlueAjah DoS.jpg|right|400px|alt=Blue Ajah Sister channelling]]The table below lists all known named members of the [[Blue Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. It does not include the ancient Blue Ajah scholar [[Lannis]], nor the historical Amyrlins [[Comarra Zepava]], [[Suilin Escanda]], [[Edarna Noregovna]], [[Eldaya Tolen]], [[Feragaine Saralman]], [[Ishara Nawan]] or [[Noane Masadim]] as we know little more than their dates of tenure. The Amyrlins [[Deane Aryman]], [[Tamra Ospenya]] and [[Marith Jaen]] have been included as we have extra information.
+
+All Blue Ajah sisters are assumed to be part of the [[Rebel Aes Sedai]] faction, with the notable exception of those women who may have died prior to the [[White Tower Schism]].
+
+{{#invoke:Characters|get_characters_wikitable|ajah=blue|suppress_verify=true|columns=ajah}}
+{{notes}}
+[[Category:Blue Ajah]]
+[[Category:List pages]]
+[[Category:Aes Sedai]]

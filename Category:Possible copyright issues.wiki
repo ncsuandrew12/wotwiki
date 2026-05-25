@@ -1,0 +1,4 @@
+Pages listed here have been identified as a possible copyright violation, due to text or images, that could cause problems for the site. [[:Category:Administrators|Administrators]] will look into the matter as promptly as possible. Contributors should add a page to this category that they feel violates any copyright.
+
+'''NOTE''': This category should remain as empty as possible and should not be deleted due to lack of content. This category should be one of two categories listed on [[Special:UnusedCategories|Unused Categories Special Page]].
+[[Category:Administrative| Possible copyright issues]]

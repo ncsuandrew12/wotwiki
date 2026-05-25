@@ -1,0 +1,45 @@
+{{ character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Domani
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| status=Alive
+| hair=Long, black
+| eyes=Green
+| appeared={{tgs|13}}
+| lastappeared={{tgs|13}}
+| living=tgs
+}}'''Vasha''' is a [[domani]] [[Aes Sedai]] of the [[Green Ajah]].{{ref|{{twotc}}, Vasha}}
+
+== Strength ==
+[[Covarla Baldene]] obtained command in [[Dorlan]] because she was the strongest of the group that escaped [[Dumai's Wells]]. Therefore, it is likely that Vasha's strength level is beneath {{opsl|27}}, which is Covarla's level.
+
+== History ==
+She is from [[Arad Doman]]{{ref/book|12|13}}.
+
+She has one Warder, [[Marlesh]], with whom she has an almost sibling-like relationship{{ref/book|12|13}}.
+
+She stands quite low in the Aes Sedai hierarchy{{ref/book|12|13}}, likely on the same level as her fellow Green [[Hattori]], or maybe a little above her, among the middle-ranking sisters in the Aes Sedai hierarchy.
+
+== Appearance ==
+She is pretty, young, and has long black hair and striking green eyes{{ref/book|12|13}}.
+
+==Activities==
+She is one of the twelve Aes Sedai loyal to [[Elaida's White Tower]] who escaped the [[Battle of Dumai's Wells]]{{ref/book|6|55}}.
+
+[[Covarla]], [[Lusonia Cole]], Vasha, Hattori and the others return to the White Tower. Elaida secretly sends them to the small village of [[Dorlan]] to hide the disaster of Dumai's Wells to the Hall. So Vasha travels to [[Dorlan]], keeping an eye on the [[Younglings]]{{ref/book|7|32}}.
+
+By orders from Elaida the sisters in Dorlan, under the command of [[Narenwin Barda]], and the Younglings started a guerilla campaign against the rebel sister's army during the [[siege of Tar Valon]]{{ref/book|10|p}}{{ref/book|12|4}}.
+
+She watches [[Gawyn Trakand]] practice swordplay with [[Sleete]] and Marlesh. She then informs Gawyn about a meeting with the Aes Sedai in Dorlan and an embassy from the [[White Tower]]{{ref/book|12|13}}.
+
+{{notes}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

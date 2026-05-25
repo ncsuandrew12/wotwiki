@@ -1,0 +1,39 @@
+{{ character 
+| image=Mandelain.jpg
+| imagesize=250px
+| gender=Male
+| height=6'5" or 196cm
+| nationality=Aiel
+| sept=Broken Cliff
+| clan=Daryne
+| occupation=Clan chief
+| affiliation=Car'a'carn
+| hair=Balding
+| clan=Daryne
+| status=Alive
+| mentioned={{tfoh|2}}
+| appeared={{acos|18}}
+| lastappeared={{acos|18}}
+| lastmentioned={{acos|33}}
+| living=acos
+}}'''Mandelain''' is the clan chief of the [[Daryne]] [[Aiel]].
+
+He is of the [[Broken Cliff]] sept. His hold was [[Jahad Hold]], his Wise One was [[Merale]], and he was married to roofmistress [[Jair]] and her sister-wife [[Corehuin]].{{ref|{{twotc}}, Mandelain|comp}}
+
+==Appearance==
+He is 6'5" or i96 cm tall and weighs 235 pounds.{{ref||comp}}
+
+He has lost his right eye and wears a gray-green eye-patch over it and has a scar which runs along the right side of his face. His other eye is blue as a polished gemstone. He is just about completely bald, though his head is fringed in white-streaked red hair.
+
+==Activities==
+His clan joins [[Rand al'Thor]]'s forces after the [[Shaido]] siege of [[Cairhien]]. He now occupies Cairhien. When Rand was kidnapped by [[White Tower]] Aes Sedai the bleakness hits his clan hard.
+
+Rand uses [[Merana Ambrey]] as a servant to convince Mandelain that he is not an [[Aes Sedai]] puppet in the hope Mandelain will continue to support him.
+
+He is one of two clan chiefs, the other being [[Rhuarc]], whom the Wise Ones trusted to not go after the Tower Embassy with spears before Rand was kidnapped. The Wise Ones also trusted them with information that the Tower should be watched as they might be a threat to Rand.
+
+Rand later sent Mandelain to deal with the Shaido who had scattered across the Westlands; he later sent Mandelain and others to bring order to [[Arad Doman]].
+
+{{notes}}
+[[es:Mandelain]]
+[[Category:Broken Cliff]]

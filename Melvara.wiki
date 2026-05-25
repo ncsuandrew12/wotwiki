@@ -1,0 +1,20 @@
+{{ character 
+| image=Faces-icon.svg
+| imagesize=250px
+| ajah=Unknown
+| status=Alive
+| nationality=Unknown nationality
+| gender=Female
+| affiliation=Black Ajah
+| rank=Aes Sedai
+| mentioned={{Tgs|39}}
+| lastmentioned={{tgs|39}}
+| living=tgs
+}}
+'''Melvara''' is an [[Aes Sedai]] of the [[Black Ajah]]. Her supposed [[Ajah]] is unknown.
+
+==Activities==
+She was first mentioned in [[Verin Mathwin]]'s book, naming her a [[Darkfriend]].
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

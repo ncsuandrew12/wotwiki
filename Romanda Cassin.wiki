@@ -1,0 +1,116 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality= Far Madding
+| birth={{ne|726}}
+| death={{ne|1000}}
+| rank=Aes Sedai
+| title=[[First Weaver]]
+| occupation=Sitter
+| affiliation=White Tower
+| hair=Gray
+| eyes=Dark
+| status=Dead
+| appeared={{loc|15}}
+| lastappeared={{amol|20}}
+}}
+{{for|the similarly named ''[[Aethan Dor]]'' [[Aiel]]|Cassin}}
+'''Romanda Cassin''' was an [[Aes Sedai]] of the [[Yellow Ajah]]. She was one of the most powerful and influential [[Sitters]] in the [[Hall of the Tower]], firstly before her retirement, then among the [[Rebel Aes Sedai|rebels]] and, after that, in the reunified Hall. In the past and for a long time she held the position of [[Ajah Head]] and she regained this position for a while among the rebels of her Ajah.
+
+== Appearance and Behaviour ==
+Romanda was handsome, with dark eyes and gray hair worn in a bun at the nape of her neck. Her face always looked set for scolding, but she had a beautiful, high-pitched voice. She had a commanding personality and projected a grandmotherly air{{ref/book|10|19}}, with a strong will.
+
+She had a weakness for love stories, particularly [[The Flame, the Blade and the Heart]]{{ref/book|11|23}}.
+
+==Strength and Abilities==
+
+At a strength level of {{opsl|19}}, Romanda was very strong in the [[One Power]] by Aes Sedai standards and in the [[Strength in the One Power among Aes Sedai|top rank]] of Aes Sedai.{{ref/book|8|9}}{{ref/book|8|11}}{{ref/book|8|23}}{{ref/book|10|2}} At the beginning of the series, she was equalled only by [[Lelaine Akashi]], [[Elaida do Avriny a'Roihan]], [[Moiraine Damodred]] and [[Siuan Sanche]] and surpassed by only [[Cadsuane Melaidhrin]], although the latter had retired.
+
+She was a very skilled at the Aes Sedai method of [[Healing]]. She could also use the new [[weave]]s for [[Healing]] introduced by [[Nynaeve al'Meara]], she had little skill with them and so she preferred the traditional method.{{verify}}
+
+==History==
+She was born in [[Far Madding]] in the year {{ne|726}}; she was 274 years old at the time of her death. She went to the Tower in the year {{ne|743}} and after spending five years as a [[novice]] and three as [[Accepted]], she was raised to the shawl in {{ne|751}}. 
+
+She was elected [[Sitter]] in the year {{ne|885}} holding this position for almost ninety years till [[973 NE]], when she retired in [[Altara]]. During this period she was for a time also [[First Weaver]], the head of her Ajah.
+
+At an age of 273 in [[999 NE]] she joined the [[Salidar]] Aes Sedai, being elected again as a Sitter and Ajah head among the rebels. She was therefore the oldest [[Sitter]] in the [[Rebel Hall of the Tower]]{{ref/book|6|15}}{{ref/book|10|19}} and probably the second oldest living Aes Sedai after [[Cadsuane Melaidhrin]].
+
+Being a Sitter in the [[Hall]] for more than eighty years {{ref/book|10|19}}
+, which is a very long time for any Aes Sedai, was unprecedented. A great many people did not like the amount of power that she wielded, so when she tried to become [[Amyrlin]] against [[Tamra Ospenya]] in {{ne|973}} she was fiercely stopped and she did not get the position. It was this failure that induced her into retirement to [[Altara]].
+
+[[Lelaine Akashi]] was her political rival, though it is uncertain how far back their animosity goes. Lelaine was also a [[Sitter]], however, when Romanda lost the Amyrlin Seat to another [[Blue Ajah|Blue]] sister.
+
+During her retirement she went to her place of birth, [[Far Madding]], where her maid [[Aelmara]] helped her escape after a slight misunderstanding.
+
+==Activities==
+=== Coming out of retirement ===
+She allied herself with the [[Salidar Aes Sedai]] and was re-elected as a Sitter and First Weaver in Salidar, though her aspirations were of becoming Amyrlin. These hopes resulted in her becoming the leader of one of the factions within Salidar which contains [[Magla Daronos]], [[Saroiya]] and [[Varilin]] among the Sitters. She only voted for [[Egwene]] as Amyrlin to prevent Lelaine becoming Amyrlin instead of her and with the hope that she herself could manipulate young Egwene. Nevertheless Romanda was the last to stand when voting for Egwene to become Amyrlin.
+
+Romanda would have rather [[Dagdara Finchey]] have become a Sitter than [[Salita Toranes]] because in her opinion Dagdara was a much more suitable candidate (in reality Dagdara was a Black sister) and Romanda thought she could have swayed her without too much difficulty. At the time, however, she did not yet hold a seat in the Hall while Magla already did{{ref/book|11|23}}. Anyway this is evidence that Romanda was not involved in the [[Too Young Sitters]] conspiracy.
+
+She held the honour of being eldest among the Sitters{{ref/book|6|15}}. This brought with it some perks related to her right to speak before others{{ref/book|9|19}}.
+
+She made [[Nynaeve]] jump up and down on one foot while spreading gossip about Lelaine Akashi and her meeting with Egwene for the purpose of breaking her [[block]] - though in reality she probably just wanted the information. 
+
+She hired Egwene a new maid called [[Meri]]{{ref/book|8|8}} to spy on her, but the maid was killed by [[Aran'gar]].
+
+Initially Romanda resented and resisted both the influence of [[Sheriam]] and Lelaine over many other Sitters in the Hall, forming her own faction with [[Magla]], [[Saroiya]] and [[Varilin]].
+
+Romanda and Lelaine seemed to disagree almost by rote; if one wanted a thing the other opposed as a matter of course. Both made sure that nothing she herself disapproved of was possibly discussed and approved by the Hall, with the result that very little passed, stalling the rebels in Salidar. But [[Egwene]] was able to use their rivalry for her own advantage.
+
+Romanda suggested to Egwene that the soldiers in the Rebel's army should be paid less {{ref/book|8|8}}). Romanda and Lelaine talked to Egwene about Delana's proposal concerning Elaida and the Black Ajah {{ref/book|8|11}}. 
+
+Romanda asked Egwene to issue a decree for all sisters to be questioned to find out if they are Black Ajah {{ref/book|8|12}}. Romanda, Lelaine and Egwene discussed the Atha'an Miere gathering in Caemlyn and Cairhien {{ref/book|8|16}}. 
+
+She traveled with Egwene to meet with various nobles along the border of [[Andor]], where she insisted on speaking on Egwene's behalf{{ref/book|8|16}}. She was finally set down in her place by Egwene when she forced the Hall to declare war on Elaida{{ref/book|8|18}}.
+
+She voted "yes" in the Rebel Hall of the Tower, this time for an alliance with the [[Black Tower]]{{ref/book|10|19}}. 
+
+Romanda sent two sisters to Cairhien to see the sisters who had been Stilled and then Healed by Damer Flinn {{ref/book|10|30}}. 
+
+She later meet with Egwene by herself. Egwene revealed her plan on when an Aes Sedai retires, she will unbind herself from the [[Oath Rod]] and join the [[Kin]]. Romanda seemed furious at this idea, believing that once you are an Aes Sedai, you are always an Aes Sedai{{ref/book|10|30}}.
+
+=== After Egwene's capture ===
+[[Nisao Dachen]] came to seek a meeting with Romanda saying that Lelaine had forbidden her to carry on investigating the deaths of both [[Kairen Stang]] and [[Anaiya]], citing that it was Blue Ajah business. Nisao was charged by Egwene to investigate those murders and Romanda gave her permission to carry on looking for the murderer{{ref/book|11|23}}.
+
+It was these two names, with the mention of [[Halima Saranov]] knowing [[Cabriana Mecandes]] that led her to figure out [[Delana Mosalaine]]'s true allegiances. She combines this with the revelation from [[Jahar Narishma]] that there is a female Forsaken who can channel saidin, and his sensing of saidin in the Rebel camp.  She orders the arrests of Halima and Delana, but not before they escaped the Rebel camp.
+
+She was worried when Lelaine called an emergency meeting of the Hall, due to her believing that now Egwene was gone, Lelaine will try to become Amyrlin. The meeting actually turned out to be an offer from [[Rand al'Thor]], who asked if the Rebel Aes Sedai wish to bond forty-seven [[Asha'man]]. Romanda voted Yes, and the offer was accepted{{ref/book|11|23}}.
+
+She was part of the group who questioned [[Shemerin]] about how she escaped the [[White Tower]]{{ref/book|12|26}}.
+
+She was the first of the Sitters to re-swear the [[Three Oaths]] on the [[Oath Rod]] and prove that she is not [[Black Ajah]]{{ref/book|12|43}}. 
+
+She was then part of the unanimous vote to attack the White Tower with their army. She later gave the news to Egwene that the delegation that was sent to the Black Tower has not been heard from in some time, which disturbed Egwene{{ref/book|12|43}}.
+
+She withdrew her support for Egwene when she found out that [[Silviana Brehon]] had been raised to [[Keeper of the Chronicles]] instead of her.
+
+=== The White Tower re-united ===
+Romanda remained a Sitter when the Hall of the Tower was re-united after the [[White Tower Schism]]. Probably she left the position of Ajah head to [[Suana]], who in exchange gave up her chair in the re-united Hall. 
+
+Romanda was one of seven Sitters who took part in Nynaeve's test for the shawl inside the oval ''ter'angreal''. The testing was unusually severe. After it she was one of the four Sitters - the others being [[Yukiri]], [[Seaine]] and [[Saerin]] - who judged her worthy, thereby allowing her to be raised properly{{ref/book|13|20}}.
+
+Some time later Romanda was in charge of gathering the Sitters and holding a secret meeting without Egwene to discuss ways to temper the Amyrlin's power when a declaration of war is called. 
+
+Romanda voted for a proposal that would allow only Egwene to deal with the monarchy of the world, which included Rand as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army.
+
+In that same meeting, Romanda voted in favour of the new rules and procedures in the Hall, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present{{ref/book|13|27}}.
+
+Romanda takes charge of Healing the survivors who manage to escape from the capture of Caemlyn. She was one of the five that Egwene chose to bring for the meeting with Rand at the Field of [[Merrilor]] {{ref/book|14|5}}, as Romanda was widely considered one of the most influential Aes Sedai living.
+
+=== Last Battle ===
+Romanda is one of the five that Egwene takes with her to sign the [[Dragon's Peace]]. She asks if perhaps the White Tower could become the supreme leader of the Light. Rand denies this request as he believes that the Amyrlin should not be a war commander. Romanda is placed in charge of setting up the Healing station for the wounded in [[Mayene]]. During the Last Battle on the border between Kandor and Arafel, Romanda stayed on the field to provide emergency Healing.
+
+Romanda insists on staying on the Kandori war-front to provide emergency Healing when needed. She was part of the group that witnesses the arrival of the Sharans to the battle, by gateway. Egwene, upon perceiving many female channelers on the other side of the gateway warned the group not to channel, but Romanda ignored this order and attempted to open a gateway. The Sharans sensed this and incinerated her with weaves of fire, killing her instantly{{ref/book|14|20}}.
+
+{{notes}}
+{{DEFAULTSORT:Cassin, Romanda}}
+
+[[es:Romanda Cassin]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

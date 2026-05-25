@@ -1,0 +1,24 @@
+{{ character
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Secretary
+| affiliation=House Marne
+| gender=Male
+| build=Lean
+| height=Short
+| appeared={{Kod|17}}
+| lastappeared={{Kod|17}}
+| living=Kod
+}}'''Jakob Hernvil''' is the secretary of [[Arymilla Marne]].{{ref|{{twotc}}, Jakob Hernvil}}
+
+==Appearance==
+"He was a little man, and lean, as if all the fat had been boiled from him."{{ref/book|11|17}}
+
+==Activities==
+He was responsible for bribing [[Elayne]]'s mercenaries to switch alliances during the siege of [[Caemlyn]].{{ref/book|11|17}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Hernvil, Jakob}}

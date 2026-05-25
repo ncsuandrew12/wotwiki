@@ -1,0 +1,4 @@
+{{Forumheader|Illuminator's Guild}}
+
+<!-- Please put your content under this line.  Be sure to sign your edits with four tildes: ~~~~ -->
+Welcome to the {{SITENAME}} Wiki Help.  This is the place to ask for help with anything related to wiki coding. There are more help pages in [[:Category:Help]] or you can also ask questions on the talk pages of any of the [[Special:ListUsers/sysop|site admins]].

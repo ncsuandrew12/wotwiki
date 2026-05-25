@@ -1,0 +1,1 @@
+<includeonly>style="min-width:60px;background-color:{{Ajah Color|{{{1}}}}};color:{{#switch:{{{1}}}|white=black|yellow=black|#default=white}};padding:3px;"</includeonly><noinclude>{{delete|Unused except by other templates that are themselves unused.}}[[Category:Color templates|{{PAGENAME}}]]</noinclude>

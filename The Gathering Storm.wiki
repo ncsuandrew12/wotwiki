@@ -1,0 +1,190 @@
+{{#invoke:Books|chapter_nav|book={{PAGENAME}}}}
+{{dablink|For other uses of the words "gather" and "storm," see [[Gather]] and [[Storm]].}}
+[[image:Tgs_thumb.jpg|left|thumb|200px]]'''''The Gathering Storm''''' (abbreviated '''tGS''') is the twelfth book in ''[[The Wheel of Time]]'' series. It was originally thought that it would be under the supertitle ''[[A Memory of Light]]'', but is now being marketed as 'Book Twelve'. The Gathering Storm is the first of three novels that make up what was planned as ''A Memory of Light''.
+
+While the final novel, ''[[A Memory of Light]]'', according to author [[Robert Jordan]], was originally to have been released in one large volume "whether it is 1500 pages long, Tor has to invent a new binding system, or it comes with its own library cart" , it was announced on March 25, 2009 that a decision has been reached by {{Wiki|Tor Books}}, [[Harriet Rigney]], and [[Brandon Sanderson]] to release it in three parts, starting on 27 October 2009.{{ref|{{Link|http://www.tor.com/index.php?option&equals;com_content&view&equals;blog&id&equals;19734|Tor announces ''The Gathering Storm''}}}} It is 1120 pages long.
+{| cellspacing="0" cellpadding="5px" style="border:none;"
+|-
+|'''''<<<''' Previous: [[Knife of Dreams]]''
+| style="text-align:right;" |''Next: [[Towers of Midnight]]''' >>>'''''
+|}
+==Blurb from DragonCon==
+An early blurb (under the title ''The Gathering Clouds'') was included in the {{Wiki|DragonCon}} 2009 program.{{ref|{{Link|http://media.us.macmillan.com/video/olmk/fall09/Tor-Fall-09-1.pdf}}}}
+<blockquote>'''Tarmon Gai’don, the Last Battle, looms. And mankind is not ready.'''</blockquote>
+A Memory of Light was partially finished by Robert Jordan before his untimely passing in 2007. Brandon Sanderson, New York Times bestselling author of the Mistborn books, was chosen by Jordan’s editor—his wife, Harriet McDougal—to complete the final book. The scope and size of the novel was such that it cannot be contained in a single volume, and so TOR proudly presents A Memory of Light:
+
+Gathering Clouds{{ref|This synopsis predates the change from [[The Gathering Clouds]] to The Gathering Storm}} as the first in a short sequence of novels that will complete the struggle against the Shadow, bringing to a close a journey begun almost twenty years ago and marking the conclusion of the Wheel of Time, the preeminent fantasy epic of our era.
+
+''In this epic novel, Robert Jordan’s international bestselling series begins its dramatic conclusion. Rand al’Thor, the Dragon Reborn, struggles to unite a fractured network of kingdoms and alliances in preparation for the Last Battle. As he attempts to halt the Seanchan encroachment northward—wishing he could form at least a temporary truce with the invaders—his allies work in desperation to forestall the shadow that seems to be growing within the heart of the Dragon Reborn himself.''
+
+Egwene al’Vere, the Amyrlin Seat of the rebel Aes Sedai, is a captive of the White Tower and subject to the whims of their tyrannical leader. As days tick toward the Seanchan attack she knows is imminent, Egwene works to hold together the disparate factions of Aes Sedai while providing leadership in the face of increasing uncertainty and despair. Her fight will prove the mettle of the Aes Sedai, and her conflict will decide the future of the White Tower—and therefore the world itself.'
+
+The Wheel of Time turns, and Ages come and pass. What was, what will be, and what is, may yet fall under the Shadow.{{ref|The book is officially listed as written by Robert Jordan and Brandon Sanderson and is named ''Book 12'' rather than ''Book 12:Part One''.}}
+[[File:The_Gathering_Storm_Provisional_Cover.jpg|thumb|150px|left|Provisional cover art for ''The Gathering Storm'']]
+==Other Pre-Release Details==
+JordanCon also saw a recording being played of Robert Jordan reading a summary of the first scene in the prologue to the final book.
+
+[[Brandon Sanderson]] has given some further information about the book on his Twitter feed. The book is to have 21 distinct PoVs and will have 50 chapters, not including the prologue and epilogue.
+
+The first chapter was able to be read {{Link|http://www.tor.com/index.php?option&equals;com_content&view&equals;story&id&equals;53532|online for free}} until the end of September 2009, courtesy of {{Wiki|Tor books|Tor}}. The audio book clip of the same chapter is also available, as is the [[Prologue]] e-book ({{Link|http://www.tor.com/gatheringstorm/prologue|for sale}}).
+
+==Plot Summary==
+''The Gathering Storm'' centers on the stories of two characters, primary protagonist [[Rand al'Thor]] and [[Egwene al'Vere]]. While the stories of main characters such as [[Perrin Aybara]] and [[Mat Cauthon]] are briefly touched upon, they have little bearing on the main plotline. Some main characters such as [[Elayne Trakand]] and [[Lan Mandragoran]] do not appear at all, but are referred to.
+
+Rand's story begins in [[Arad Doman]], restoring order while searching for the Forsaken [[Graendal]]. The [[Aes Sedai]] working with Rand interrogate [[Semirhage]], but she is freed by [[Shaidar Haran]]. She takes a [[Domination Band]], an item used to control male channelers, and locks it around Rand's neck. She and Black sister [[Elza Penfell]] use it to make him torture and attempt to kill his lover, [[Min Farshaw]]. Unable to touch ''[[saidin]]'', he reaches out in desperation and embraces the [[True Power]], possibly through his connection to [[Moridin]], using it to free himself and kill Semirhage and Elza with [[balefire]]. After this, he resolves to make himself harder and emotionless. He banishes [[Cadsuane]] for not securing the Domination Band, promising to kill her if he sees her face again. Strange occurrences accompanying [[ta'veren]] are becoming mostly destructive around Rand in this period.
+
+Rand meets at [[Falme]] with the [[Seanchan]] leader, the Daughter of the Nine Moons, [[Tuon]], to discuss a truce. When Tuon senses the dark aura and mood from the Dragon Reborn, she rejects his terms. Following the meeting, Tuon declares herself Empress, taking a new name and approving a surprise attack against the White Tower to reduce what she sees as a source of Rand's strength.
+
+Graendal's hiding place is eventually traced to a remote palace in Arad Doman. Confirming her presence, Rand uses the Choedan Kal to eliminate the entire building with balefire. This horrifies Min and [[Nynaeve al'Meara]], and they turn to Cadsuane for help. Giving up on saving Arad Doman from the Seanchan and starvation, Rand returns to [[Tear]].
+
+The second main plot thread follows [[Egwene al'Vere]], leader of the rebel faction of Aes Sedai. After her capture by the White Tower in the previous book, Egwene works to undermine [[Elaida a'Roihan]]'s rule and mend the strife it is causing between the Ajahs in the White Tower. She is initially granted freedom of the tower as novice, but after denouncing Elaida as a coward and a tyrant, Elaida names her [[Darkfriend]] and orders her imprisonment. When Elaida fails to prove her accusation, Egwene is released and instead the Mistress of Novices, [[Silviana Brehon]], is scapegoated for failing to control Egwene's behavior.
+
+Egwene returns to her room to find [[Verin Mathwin]], who announces that she is of the [[Black Ajah]]. Taking advantage of a loophole in the unbreakable oath Verin had sworn that she could not betray them "until the hour of my death", she fatally poisons herself, allowing her to use her last hour to reveal everything she has learned to Egwene. Verin explains that although she was forced to swear fealty to them or face death, she used the position to research the Black sisterhood. She provides Egwene with a journal detailing the group's structure and nearly every member.
+
+The Seanchan then raid the White Tower. The fractured state of the tower prevents an effective defense and many Aes Sedai are captured or killed before Egwene, leading a group of novices, succeeds in driving off the Seanchan. [[Siuan Sanche]], [[Gawyn Trakand]] and [[Gareth Bryne]] mount a rescue for Egwene. When they find her, she is so exhausted that she cannot protest when they extract her against her orders. After Egwene awakens in the camp, she complains that they may have ruined her chances to gain credit among the Tower loyalists for defeating the Seanchan.
+
+Using the information provided by Verin, Egwene begins to expose the Black Ajah among the rebels, requiring every sister to re-swear her allegiances. Fifty sisters are exposed and executed, while twenty are able to escape. Taking advantage of the weakened White Tower defenses following the Seanchan raid, the rebels prepare an immediate attack. Just before the attack is mounted, the Tower Aes Sedai announce that Elaida was captured in the Seanchan raid, and that they would have Egwene as the [[Amyrlin Seat]]. She appoints Silviana as her [[Keeper of the Chronicles|Keeper]] as a gesture to the Red Ajah and in honor of Silviana's sense of duty and fairness (she stood up to Elaida following Egwene's imprisonment, and was nearly stilled and executed for it). The rebels return, and after exposing the Black Ajah in the tower itself, they begin rebuilding the Tower.
+
+Nynaeve, under the instruction of Cadsuane, locates [[Tam al'Thor]], Rand's father, who meets with Rand in an attempt to break his emotional isolation. Rand becomes angry when he learns that Tam was sent by Cadsuane, nearly killing his father before fleeing in horror at what he had almost done. Rand Travels to [[Ebou Dar]], intending to destroy the entire Seanchan army, but he becomes reluctant to act after seeing how peaceful the city is, and their concern for him when he is struck by his channeling sickness. Nearly mad with rage and grief, he Travels to the top of [[Dragonmount]], the location where he killed himself as Lews Therin Telamon. Angry at the futility of life bound to the Wheel and its repeating pattern, he uses the Choedan Kal to draw enough power to destroy the world and end all suffering. [[Lews Therin]] seizes a moment of lucidity and suggests that by being reborn to the same life, one has the opportunity to do things right. Agreeing, Rand turns the power of the Choedan Kal against itself, destroying it. Rand is finally able to laugh again, and the oppressive clouds which had shrouded the [[Westlands]] for weeks break in a circle around Dragonmount. At  this moment, '''Rand is reforged''' to an opposition to the Dark One.
+
+==Ebook==
+[[File:TGS ebook.jpg|thumb|right|150px|Egwene battles a ''raken''.]]
+The ebook for ''The Gathering Storm'' was created by [[Todd Lockwood]]. It shows Egwene al'Vere fighting a ''raken''. 
+{{clear}}
+==Statistical Analysis==
+:''See also the [[The Gathering Storm/Statistical analysis|full statistical analysis for this book]].''
+''The Gathering Storm'' contains 50 chapters, a prologue and an epilogue, in 28 different POVs, of which:
+{| class="wikitable" cellpadding="4"
+!POV
+!%
+!Chapters
+|-
+|[[Egwene al'Vere]]
+| align="right" |21.08%
+|Ch2, 20% of Ch6, Ch12, 16, 43% of Ch25, Ch 38, 39, 32% of Ch40, 17% of Ch41'''<sup>1</sup>''', 55% of Ch43'''<sup>2</sup>''', Ch45, 46, and 97% of the Epilogue
+|-
+|[[Rand al'Thor]]
+| align="right" |14.91%
+|Ch1, 65% of Ch5, 35% of Ch15, 85% of Ch22, Ch29, 53% of Ch31, 38% of Ch35, Ch42, 47, 49 and 50
+|-
+|[[Matrim Cauthon]]
+| align="right" |10.75%
+|Ch20, 27, 28, 34, and 76% of Ch36
+|-
+|[[Nynaeve al'Meara]]
+| align="right" |8.86%
+|Ch7, 32, 33, and 44
+|-
+|[[Gawyn Trakand]]
+| align="right" |6.81%
+|Ch4, 13, 24, 30 and 19% of Ch41
+|-
+|[[Siuan Sanche]]
+| align="right" |4.86%
+|Ch8, 18, 40% of Ch40'''<sup>3</sup>''', and 12% of Ch43
+|-
+|[[Aviendha]]
+| align="right" |4.73%
+|Ch3, 11, 21% of Ch15, and 67% of Ch26
+|-
+|[[Min Farshaw]]
+| align="right" |4.36%
+|44% of Ch15, Ch37, and 48
+|-
+|[[Cadsuane Melaidhrin]]
+| align="right" |4.18%
+|35% of Ch5, Ch14, 53% of Ch17, Ch23, and 47% of Ch31
+|-
+|[[Tuon Athaem Kore Paendrag]]
+| align="right" |3.84%
+|Ch19, 62% of Ch35, and 24% of Ch36
+|-
+|[[Perrin Aybara]]
+| align="right" |2.88%
+|Ch9, 47% of Ch17, and 29% of Ch21'''<sup>4</sup>'''
+|-
+|[[Rodel Ituralde]]
+| align="right" |2.37%
+|8.5% of the Prologue, 43% of Ch6, and Ch10
+|-
+|[[Renald Fanwar]]
+| align="right" |1.30%
+|29% of the Prologue
+|-
+|[[Faile Bashere]]
+| align="right" |1.30%
+|71% of Ch21
+|-
+|[[Graendal]]
+| align="right" |1.13%
+|26% of the Prologue
+|-
+|[[Gareth Bryne]]
+| align="right" |0.94%
+|35% of Ch41
+|-
+|[[Jesse Bilal]]
+| align="right" |0.89%
+|33% of Ch43
+|-
+|[[Saerin Asnobar]]
+| align="right" |0.68%
+|25% of Ch41<sup>1</sup>
+|-
+|[[Romanda Cassin]]
+| align="right" |0.62%
+|33% of Ch26
+|-
+|[[Falendre]]
+| align="right" |0.61%
+|14% of the Prologue
+|-
+|[[Adelorna Bastine]]
+| align="right" |0.58%
+|28% of Ch40
+|-
+|[[Tylee Khirgan]]
+| align="right" |0.49%
+|11% of the Prologue
+|-
+|[[Masema Dagar]]
+| align="right" |0.49%
+|11% of the Prologue
+|-
+|[[Sheriam Bayanar]]
+| align="right" |0.45%
+|57% of Ch25
+|-
+|[[Leane Sharif]]
+| align="right" |0.39%
+|37% of Ch6
+|-
+|[[Semirhage]]
+| align="right" |0.37%
+|15% of Ch22
+|-
+|[[Elaida do Avriny a'Roihan]]
+| align="right" |0.10%
+|4% of Ch41
+|-
+|Quote
+| align="right" |0.04%
+|0.5% of the Prologue and 3% of the Epilogue
+|-
+| colspan="3" |&nbsp;
+|-
+| colspan="3" |'''<sup>1</sup>''' Chapter 41 has seven points of view, two of which are from Egwene al'Vere's POV and two of which are from Saerin Asnobar's. Egwene al'Vere's first is 19% of the chapter and her second is 10% of the chapter. Saerin Asnobar's first is 19% of the chapter and her second is 6% of the chapter.
+|-
+| colspan="3" |'''<sup>2</sup>''' Chapter 43 has four points of view, two of which are from Egwene al'Vere's POV. Her first is 24% of the chapter and her second is 31% of the chapter.
+|-
+| colspan="3" |'''<sup>3</sup>''' Chapter 40 has four points of view, two of which are from Siuan Sanche's POV. Her first is 17% of the chapter and her second is 23% of the chapter.
+|-
+| colspan="3" |'''<sup>4</sup>''' Chapter 21 has three points of view, two of which are from Perrin Aybara's POV. His first is 24% of the chapter and his second is 5% of the chapter.
+|}
+
+{{books}}
+{{tgs-reread}}
+{{notes}}
+{{DISPLAYTITLE:''The Gathering Storm''}}
+[[Category:Main Series| c]]
+[[Category:Books]]

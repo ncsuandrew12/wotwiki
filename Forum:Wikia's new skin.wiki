@@ -1,0 +1,48 @@
+{{Forumheader|Hall of the Tower}}
+
+<!-- Please put your content under this paragraph.  Be sure to sign your edits with four tildes: ~~~~ -->
+
+Hello all! This is more of a general announcement that a discussion.
+
+Wikia is going to be implementing a new skin. Please see [http://community.wikia.com/wiki/User_blog:Sannse/Important_Updates_on_Wikia%E2%80%99s_New_Look here] and [http://community.wikia.com/wiki/User_blog:Susan_Taylor/Beta_Wrap-up here] for more information.
+
+As of now, the new skin will be manditory on November 3rd. You may have noticed some functions on the wiki don't work anymore. This is due to the roll-out of the new skin today. All users will be able to use the new skin now. Just go to [[Special:Preferences]] and change to the "New Wikia Look."
+
+Check back here for continued updates! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 22:07, October 6, 2010 (UTC)
+
+:Wow, the new look is horrible... I hardly know what to say, the appearance is nasty and difficult to navigate. I think Wikia is nuts to be forcing this change.
+:To compound matters, I temporarily disabled adblock plus to see what kind of ads Wikia is running these days... they're animated and awfully distracting. Really unfair to naive users :(
+:I have to say Wikia is no longer compatible with my original vision of what this site would be. I'll defer to the more active people here, as I'm still catching up on my reading (trying to avoid TGS/TOM spoilers)... but for what it's worth I would fully support moving to an alternate host with a good skin and reasonable ads. ShoutWiki looks nice, for instance. --[[User:Gherald|Gherald]] 15:38, October 7, 2010 (UTC)
+::The current skin is much nicer, will they be implementing the functionality which has been broken? as I see that the hide feature on the frontpage doesnt work on the new skin. — [[User:Fbstjoe|fbstj]] 20:27, October 7, 2010 (UTC)
+
+:::This weekend I'm going to sit down and figure out all of the problems I will have to work around in the redesign of the wiki. I will also have to see what I can do with the new look. I'll have a design up in a week(For everyone to vote and decide what changes they want)--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:26, October 7, 2010 (UTC)
+
+::::Yikes. The new skin hurts a little. I'm sure a lot of it is just from needing that new layout though. I do miss having a sidebar. A lot. Hopefully the background is changeable. [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]][[User_talk:Rahien|<font color="#FFB90F">'''☯'''</font>]] 05:21, October 14, 2010 (UTC)
+:::::If you guys need any help with customizing the new look, you can drop me a line here or at my "home" wiki [[w:c:memory-alpha|Memory Alpha]], since we've already spent some time working on the look, as well as a way of removing some of the "new" feature without violating the new terms of use. A word or warning about changing hosts, don't discuss details on site until you've already started a move, as wikia isn't above just removing your admins and replacing them with some more to their liking, or sitting on domain names, or refusing to provide database dumps because of some questionable reasons, etc. - [[w:c:memory-alpha:User:Archduk3|<span style="color:green;">Archduk3:</span>]][[w:c:memory-alpha:User talk:Archduk3|<span style="color:purple;">talk</span>]] 16:57, October 20, 2010 (UTC)
+:::::The new look sucks. I'm sticking to MonoBook. [[User:Fatidiot1234|Fatidiot1234]] 22:00, October 20, 2010 (UTC)
+
+:I am currently only going to use the new look so it will force me to make a background and a new logo because I hate looking at the plainness of this new look.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:21, October 20, 2010 (UTC)
+:Here's possible logos. Let me know what everybody thinks. [[File:Wotlogo.png]] [[File:Wotlogo2.png]]--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 17:42, October 21, 2010 (UTC)
+
+I would prefer the first one. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:54, October 21, 2010 (UTC)
+:Here's another version. [[File:Wotlogo3.png]]--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:13, October 21, 2010 (UTC)
+:Also I am currently just messing around with new looks. What if we went with a dark look? I can undo it. I just wanted to test it out.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:30, October 21, 2010 (UTC)
+Now I like the third one. I like the dark look, with the exception of the menu background for the forum links. Other than that, it does look nice. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:38, October 21, 2010 (UTC)
+
+We ''might'', I stress ''might'', be getting a wider content area. See [http://community.wikia.com/index.php?title=Forum:Main_Page_looks_great_in_Oasis_due_to_lack_of_sidebars&t=20101023033858 this] at Community Central. Hopefully, the wider area will be for everyone. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 04:52, October 24, 2010 (UTC)
+
+I like the new features of the new look. However, that said with the current dark skin, certain bits of text are hard(and or almost impossible to read.) I recieved a note after my first edit that was gray text on a gray background for example.(the text was barely darker then the background.) Also when adding a link to an article using the link button the text next to the radio buttons is black on black.
+
+[[User:Raystorm1|Raystorm1]] 23:02, October 25, 2010 (UTC)
+
+We're working to fix the style issues. Many of the templates will have to be changed once a final color scheme is decided upon for the site. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 02:27, October 26, 2010 (UTC)
+
+
+
+Black on Black is a problem too. Also the search box is black, the word search next to the box is black, and the text typed in the box is black. How is this better?
+
+
+
+Mpr1968
+
+I use this site whilst reading on the kindle and switch into here to expand my understanding of characters.  The new skin does not work on the Kindle at all well.

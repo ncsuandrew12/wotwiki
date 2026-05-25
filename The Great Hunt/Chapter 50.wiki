@@ -1,0 +1,41 @@
+{{quote|And men cried out to the Creator, saying, O Light of the Heavens, Light of the World, let the Promised One be born of the mountain, according to the Prophecies, as he was in Ages past and will be in Ages to come. Let the Prince of the Morning sing to the land that green things will grow and the valleys give forth lambs. Let the arm of the Lord of the Dawn shelter us from the Dark, and the great sword of justice defend us. Let the Dragon ride again on the winds of time.|from Charal Drianaan te Calamon, The Cycle of the Dragon, Author unknown, the Fourth Age<}}
+{{for|the chapter with the same title in ''[[The Path of Daggers]]''|The Path of Daggers/Chapter 31}}
+{{summary | book=2 | ewot=ch50
+|chapter=50
+|next=The Dragon Reborn/Prologue
+|title=After
+|icon=wheel
+|setting=[[Almoth Plain]], [[Arad Doman]], [[Tarabon]]
+}}
+
+==Summary==
+:{{pov|Omni}}
+
+Tales of a great battle and the [[Dragon Reborn]] spread across the land, sparking conflict between those declaring for the Dragon with those opposed. There are many variations with varying degrees of truth, but the part about the Dragon appearing in the sky above [[Falme]] is constant.
+
+==Characters==
+*[[Rand al'Thor]]
+*[[Artur Hawkwing]]
+
+==Groups==
+*[[Children of the Light]]
+*[[Heroes of the Horn]]
+*[[Seanchan]]
+
+==Places==
+*[[Arad Doman]]
+*[[Tarabon]]
+*[[Falme]]
+*[[Almoth Plain]]
+
+==Items==
+*[[Horn of Valere]]
+
+==Events==
+===Referenced===
+*[[Tarmon Gai'don]]
+
+==Concepts==
+*[[Dragon Reborn]]
+
+{{DISPLAYTITLE:''After''}}

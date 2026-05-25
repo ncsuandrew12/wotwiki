@@ -1,0 +1,6 @@
+The table below lists all known named members of the [[Green Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. It does not include the historical Amyrlins [[Aleis Romlin]], [[Kiyosa Natomo]], [[Myriam Copan]], [[Nirelle Coidevwin]], [[Selame Necoine]], [[Shein Chunla]] or [[Varuna Morrigan]] nor the historical figures [[Eleyan al'Landerin]] or [[Chowin Tsao]] as we have little information other than their names and tenures. The legendary Green sisters [[Caraighan Maconar]] and [[Rashima Kerenmosa]] are included, however.
+
+{{#invoke:Characters|get_characters_wikitable|ajah=green|suppress_verify=true|columns=ajah}}
+{{notes}}
+[[Category:Green Ajah]]
+[[Category:List pages]]

@@ -1,0 +1,96 @@
+[[File:Asha'man.JPG|thumb|An Asha'man holding ''saidin''.]]{{dablink|For other uses of the word "''saidin''," see ''[[Saidin (disambiguation)|Saidin]]''.}}
+<!-- THIS ARTICLE IS SHORT BECAUSE MOST OF THE MATERIAL IS CURRENTLY COVERED AT [[One Power]] -->
+
+'''''Saidin''''' (pronounced: sah-ih-DEEN) is the male half of the [[One Power]]. It is described as a raging torrent of the Power which must be subdued and dominated by a strong-willed channeler in order to be controlled.
+
+==Characteristics==
+Men feel women holding the Source as a tingling on their skin, like goosebumps.{{ref/book|4|7}} They can also sense when another man is holding the Power though not in the way women do: a man would describe it as a feeling of awe and menace,{{ref/book|6|3}} with nothing truly visible, and not easily pinpointed to a particular location or person. The farther the channeling, the fainter the feel.
+
+While a female channeler can sense any woman channeling, sensing for men depends largely on the amount of ''saidin'' used in the weave. No man can tell at sight if another man can channel, unless the other man has seized ''saidin''. {{ref/book|6|3}} So unlike women, men cannot immediately tell if another man is able to channel and cannot see when another is holding the Power, though they can feel it as a sense of menacing power, and can judge how much is being held. In order to test if a man can learn to channel, they form a simple weave as a little flame dancing in mid-air between them. The applicant concentrates on the flame and if the candidate can learn, a resonance is felt.
+
+''Saidin'' is described as a rough torrent that resists any attempts to control it. To employ it requires strict control, forcing it to do what you want. Male channellers universally refer to gaining the Power as "seizing" it and weaving ''saidin'' as "wielding" it like a weapon.{{ref/book|4|7}}
+
+This essential difference in the nature of the two halves of the Power means that a woman cannot teach a man to channel, and vice versa.
+
+== ''Saidin'' strength ranking ==
+In '''bold''' it is signed the position given by "The Wheel of Time Companion", the other positions are supposed by the description given in the books.
+{| class="wikitable"
+|- valign="top" bgcolor="#ececec"
+! Rank !! [[Asha'man]] !! [[Forsaken]] and [[Dreadlord]]s
+|-
+| {{opsl|1}} || '''[[Rand al'Thor]]''' || '''[[Ishamael]] ([[Moridin]]), [[Rahvin]]''' ||
+|-
+| {{opsl|2}} || '''[[Logain Ablar]]''' || '''[[Aginor]] ([[Osan'gar]]/[[Dashiva]]), [[Demandred]], [[Sammael]],''' 
+'''[[Mazrim Taim|Mazrim Taim (M'Hael)]]'''
+|
+|-
+| {{opsl|3}} || - || '''[[Balthamel]] ([[Aran'gar]]/[[Halima]]), [[Asmodean]]'''||
+|-
+| {{opsl|4}} || [[Jahar Narishma]]|| '''[[Be'lal]]''' ||
+|-
+| {{opsl|5}} || [[Donalo Sandomere]] || [[Charl Gedwyn]], [[Manel Rochaid]] ||
+|-
+| {{opsl|6}} ||[[Damer Flinn]]  || [[Atal Mishraile]], [[Welyn Kajima]] ||
+|-
+| {{opsl|7}} ||[[Deepe Bhadar]], [[Naeff]] || [[Nensen]] ||The highest strength level a 
+woman could achieve.
+|-
+| {{opsl|8}} || [[Tymoth]] || [[Mezar Kurin]] ||
+|-
+| {{opsl|9}} ||[[Jonneth Dowtry]] || - ||
+|-
+| {{opsl|10}} || [[Fedwin Morr]]  || [[Peral Torval]], [[Raefar Kisman]] ||
+|-
+| {{opsl|11}} ||[[Arel Malevin]], [[Fager Neald]] || - ||
+|-
+| {{opsl|12}} || [[Antail]], [[Eben Hopwil]] || - ||
+|-
+| {{opsl|13}} || [[Jur Grady]] || - ||
+|-
+| {{opsl|14}} ||  [[Karldin Manfor]] || [[Coteren]] ||
+|-
+| {{opsl|15}} || - || [[Evin Vinchova]] ||
+|-
+| {{opsl|16}} ||  [[Jonan Adley]] || [[Dobser]] ||
+|-
+| {{opsl|17}} || [[Arlen Nalaam]], [[Hardlin]], [[Norley]] || - ||
+|-
+| {{opsl|18}} || [[Canler]] || [[Leems]] ||
+|-
+| {{opsl|19}} || - || - ||
+|-
+| {{opsl|20}} ||  - || - ||
+|-
+| {{opsl|21}} ||  - || - ||
+|-
+| {{opsl|22}} ||  - || - ||
+|-
+| {{opsl|23}} ||  - || - ||
+|-
+| {{opsl|24}} ||  - || - ||
+|-
+| {{opsl|25}}-{{opsl|60}}||  - || - ||
+|-
+| {{opsl|61}}|| [[Androl Genhald]] || - ||
+|}
+
+==Groups/people that channel ''saidin''==
+*[[Asha'man]]
+*Male [[Ayyad]]
+*[[Samma N'Sei]]
+*Male [[Forsaken]]
+*[[Aran'gar]]
+*Some [[False Dragon]]s
+*[[Dragon|The Dragon Reborn]]
+*Male [[Aes Sedai (Age of Legends)|Aes Sedai]]
+
+==See also==
+*[[Channeler]]s
+*[[Taint]]
+*''[[Saidar]]''
+*[[Cleansing of saidin|Cleansing of ''saidin'']]
+
+{{notes}}
+{{DISPLAYTITLE:''Saidin''}}
+[[es:Saidin]]
+[[Category:One Power]]

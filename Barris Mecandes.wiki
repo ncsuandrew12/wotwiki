@@ -1,0 +1,29 @@
+{{RPG}}
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| title=Lord
+| affiliation=
+| gender=Male
+| build=
+| height=
+| appeared=
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| lastappeared=
+| living=
+}}
+'''Barris Mecandes''' is a [[Cairhien]]in nobleman.
+
+==Appearance==
+He is short, and is in his fifties.
+
+==History==
+His wife, Lady [[Holleen Mecandes|Holleen]], is the head of the largest [[Darkfriend]] cell in Cairhien.
+
+Their daughter [[Elspeth Mecandes|Elspeth]] goes missing during the time period of Lady [[Berelain sur Paendrag Paeron|Berelain]] being appointed [[Steward of the Dragon]] in Cairhien.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{DEFAULTSORT:Mecandes, Barris}}
+[[Category:Nobility]]
+[[Category:Characters only mentioned in the RPG]]

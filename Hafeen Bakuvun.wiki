@@ -1,0 +1,25 @@
+{{character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| nationality=Domani
+| rank=Captain
+| affiliation=House Trakand
+| occupation=Mercenary
+| build=Stout
+| hair=Gray, thinning
+| gender=Male
+| height=Short
+| status=Alive
+| appeared={{kod|16}}
+| lastappeared={{kod|35}}
+| living=kod
+}}
+'''Hafeen Bakuvun''' is a hired mercenary Captain working for [[Elayne Trakand]].
+
+== Appearance ==
+Hafeen Bakuvun appears as a short, aging man. Although stout in stature, and with graying, thinning hair, he still maintains his position as a mercenary captain. He wears a jeweled ring on every finger, and a thick gold looped earing in his left ear.
+
+== Activities ==
+Hafeen Bakuvun works as a hired mercenary for [[Elayne Trakand]]. He is hired to push back the sorties from Arymilla Marne. When many men are lost, Hafeen demands more money from Elayne, but he is sent away. When [[Aldred Gomaisen]], [[Rhys a'Balaman]] and [[Evard Cordwyn]] turn coat and attack the [[Far Madding Gate]], Hafeen and his men attack these forces until [[Dyelin Taravin]] arrives with his reinforcements. Hafeen Bakuvun again asks for more money because he is loyal, but Elayne still refuses to grant his request.
+
+{{DEFAULTSORT:Bakuvan, Hafeen}}

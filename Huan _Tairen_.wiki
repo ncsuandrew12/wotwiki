@@ -1,0 +1,17 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| name=Huan
+| status=Dead
+| nationality=Tairen
+| gender=Male
+| mentioned={{ns|6}}
+| lastmentioned={{tdr|20}}
+}}
+{{for|others with the same first name|Huan}}
+'''Huan''' was a [[Tairen]] and uncle to [[Siuan Sanche]].
+
+==History==
+Huan was a gambler and a ne'er-do-well person. He was also a hero who died pulling children out of a burning building.{{ref/book|3|20}} Siuan once told [[Moiraine Damodred]] about Huan and that he died proving what a good man he was.{{ref/book|0|6}} Siuan also told [[Matrim Cauthon]] that he reminds her of her uncle.{{ref/book|3|20}}
+
+{{notes}}

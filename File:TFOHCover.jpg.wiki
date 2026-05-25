@@ -1,0 +1,9 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover Art
+| Description             = Cover for the Tor edition of ''[[The Fires of Heaven]]''
+| Source                  = ''[[The Fires of Heaven]]''
+| Artist                  = Darrell Sweet
+}}
+[[Category:Tor editions|05]]
+[[Category:The Fires of Heaven covers]]

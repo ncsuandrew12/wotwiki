@@ -1,0 +1,93 @@
+{{nation
+|image=[[File:ManetherenFlag.png|250px]]
+|historical=yes
+|name=Manetheren
+|headofstate=King [[Aemon al Caar al Thorin]], Queen [[Eldrene ay Ellan ay Carlan]]
+|headofgov=Monarchy
+|sigil=The Red Eagle
+|banner=The Red Eagle flying across a field of blue{{ref/book|4|53}}{{ref/book|9|26}}
+|region=Central [[Westlands]]
+|capital=[[Manetheren (city)|City of Manetheren]]
+|cities=[[Corartheren]], [[Jara'copan]], [[Shanaine]] (site of [[Jehannah]])
+|affiliation=[[Ten Nations]]
+|established=Circa {{ab|100}}; Joined the Ten Nations in {{Ab|209}}
+|fragmented=Circa {{Ab|1200}}
+|pronounced = Meh-NEH-the-ren|type = Kingdom}}'''Manetheren''' (Translated from the [[Old Tongue]] as ''Mountain Home'') was one of the [[Ten Nations]] which arose from the ashes of the [[Breaking of the World]]. It was destroyed circa {{ab|1200}} amidst the upheavals of the [[Trolloc Wars]].
+
+==Geography==
+[[Image:Ten_Nations.JPG|thumb|Manetheren located within the Ten Nations, in the southern reaches of the Mountains of Mist|left|250px]]
+Manetheren was located in and around the southern [[Mountains of Mist]], stretching from the [[River Arinelle]] to the north and the [[River Eldar]] and [[Damona Mountains]] to the south, then the [[Arinelle]] and [[Manetherendrelle]] to the east and the [[Mountains of Mist]] and [[Lake Somal]] to the west.  It was bordered by [[Aridhol]] to the north and [[Aelgar]] and [[Eharon]] to the south, then [[Coremanda]] to the east and [[Safer]] to the west. Its capital city was also called Manetheren and was located in the mountains between the headwaters of the [[Tarendrelle]] and the [[Manetherendrelle]]. Its other major, [[Ogier]]-built cities included [[Corartheren]], [[Jara'copan]], and [[Shanaine]] (now the site of [[Jehannah]]).{{ref|{{twotc}}, Manetheren}}
+
+Manetheren incorporated most of modern [[Andor]] west of the Arinelle, all lands south of the Tarendrelle, and all of [[Ghealdan]], as well as part of modern day Tarabon and Amadicia and a sliver of the [[Almoth Plain]].
+
+==History==
+[[File:Manetheren.jpg|right|thumb|300px|A historical map detailing the lands that birthed Manetheren]]
+Before the upheavals brought about by the Breaking of the World, the land that would eventually be Manetheren looked very different, with half of its landmass existing under the shallows of a great western ocean.{{ref/book|1|1}} During the Breaking, insane male channelers dramatically changed the face of the world; and in the process some of them raised the Mountains of Mist and drove back the sea. The result was a mountain range rich in mineral resources that had long been locked beneath an ocean floor. The range is so rich in metal ores in fact, that for three thousand years visible signs have been continuously detectable to those schooled in mining.{{ref/book|6|p}}
+
+===The Founding of a Nation===
+The first people to come to the region arrived even before the last decades of the breaking concluded. These initial settlers quickly discovered not only the vast mineral wealth in the mountains, but also a rich and verdant land to the east fed by new rivers flowing down from the uplands. Communities were quickly established to exploit these resources which grew into towns as decades passed. Eventually a sovereign power began to emerge during the first century after the breaking. The first historical records mentioning Manetheren existing as a nation-state date to a time circa {{ab|100}}.
+
+For another hundred years Manetheren would consolidate power, continuously expanding its borders which eventually reached nearly to modern-day [[Murandy]].{{ref/book|9|5}} During this period Manetheren fought pitched battles with its neighbors over sovereignty claims. These conflicts would eventually end when Queen [[Mabriam en Shereed]] of [[Aramaelle]] proposed an alliance of the ten great nations of the era. History records that Queen Mabriam was an [[Aes Sedai]], which was apparently common for many queens of the time period, and in {{Ab|209}} she was successful in forging the [[Compact of the Ten Nations]].{{ref|{{bwb}}, Chapter 10 Rise and Fall of the Ten Nations|bwb 10}} Manetheren joined the compact under an agreement signed by Queen [[Sorella ay Marena]], herself likely an Aes Sedai as well.{{ref||bwb 10}}
+
+===The Golden Age of Manetheren===
+[[File:ManetherenCapital.JPG|thumb|left|200px|The capital of Manetheren, a city so beautiful Ogier stonemasons would come only to stare at it in wonder]]
+In the centuries following the signing of the compact Manetheren flourished. It was in this time that [[Ogier]] were invited to assist in the construction of the nations capital which was built high and secure in the peaks of the Mountains of Mist. It is said that once completed the capital of Manetheren was a true marvel to behold and that Ogier stonemasons would come to the Mountain Home simply to stare at it in wonder.{{ref/book|1|9}} The city contained an [[Ogier grove]] accounted as the second most beautiful in the world behind the grove in [[Tar Valon]], as well as a [[Waygate]] providing easy travel to a multitude of sister cities and [[Stedding]].{{ref/book|1|45}}{{ref/book|1|47}}
+
+===Conflicts with Safer and The Battle of Midean's Ford===
+Though Manetheren was generally at peace with the Ten Nations, the Mountains of Mist were filled with vast riches and there are records of frequent skirmishes and battles with its neighbor and rival [[Safer]], a kingdom which claimed sovereignty over the northern stretches of the range. In one century when Manetheren was ruled by a king named [[Buiryn]], Safer invaded Manetheren led by its own king, a man named [[Aedomon]]. Buiryn responded by mobilizing the Manetheren army and engaged Aedomon at [[Midean's Ford]] where Safer emerged victorious but was unable to press the advantage.{{ref/book|4|37}} Conflicts with Safer would continue for generations due to animosities between the two cultures.
+
+==Government==
+The records of the founding of Manetheren's government are lost to time and only scraps of history remain to shed light on the political structure of the nation. It is known that Manetheren was governed via a traditional monarchy though it is unclear if hereditary succession descended through male or female lines. Since as many queens are mentioned in historical records as kings, it is plausible that political heirs were firstborn children in general and not necessarily sons. Frequently noblewomen were channelers trained as Aes Sedai at the [[White Tower]]. Traditionally every queen of Manetheren was herself an Aes Sedai and bonded her king and husband as a [[Warder]].{{ref/book|3|35}} It can therefore be surmised that the genetic ability to channel was very strong in Manetheren royalty. Records also indicate that Manetheren had a ruling class of nobles which were refereed to as First Lords who spoke an elegant dialect of the [[Old Tongue]] and wielded a great deal of power within individual provenances.{{ref/book|7|21}}
+
+===Military===
+The Army of Manetheren was perhaps the most significant military force in the [[Westlands]] during the millennium after the Breaking of the World. The nation was known as a staunch defender of the [[Ten Nations|Compact of the Ten Nations]] and its military would become renowned for its unflinching opposition to the [[Shadow]], earning the moniker ''The Sword that could not be broken''.{{ref||bwb 10}}
+[[File:AttheTarendrelle.JPG|thumb|335x335px|The Band of the Red Hand was famed as being the greatest military company of the era]]
+The greatest warriors of the era flocked to Manetheren for the chance to be selected as worthy of induction into the legendary [[Band of the Red Hand]]; a company of heroes and [[blademaster]]s that had defended generations of Manetheren nobility. The Band of the Red Hand's history was long and storied, and the company engaged in innumerable exploits.{{ref|{{twotc}}, Band of the Red Hand}} Sadly the majority of records related to the Band were destroyed during the upheavals of the Trolloc Wars and stories of the Company have passed from fact into legend.
+
+===Cities===
+Manetheren engineers were accounted as some of the greatest in the world and worked alongside Ogier Stonemasons to build some of the most beautiful cities of the era. Most records naming the many cities of the nation have been lost or destroyed but four cities of the era are known:
+
+*Manetheren - The capital of the nation; its name translates as ''Mountain Home''. Accounted as the most beautiful city in the world at the time. Manetheren was located in the Mountains of Mist just above the Manetherendrelle River.
+*[[Corartheren]] - A city located in the heartlands of the nation. Histories describing the city have been destroyed or lost and so nothing is known of this Ogier-built city other than its name.
+*[[Jara'copan]] - A city located in the foothills of the Mountains of Mist. Jara'Copan was Ogier-built.{{ref|{{twotc}}, Jara'Copan}}
+*[[Shanaine]] - An Ogier-built city and the site of present day [[Jehannah]].{{ref|{{twotc}}, Shanaine}}
+
+==Economics and Trade==
+During the golden age of Manetheren the country produced many goods and resources which it traded throughout the [[Ten Nations]]. Farmers and craftsmen abounded and harvested a cornucopia of agricultural goods from the nation's verdant heartland. To help facilitate trade, Manetheren engineers built vast networks of paved highways and bridges to provide easy travel within national boundaries. These highways were built so well that remnants of pavement shards have been detectable for two thousand years after their abandonment.{{ref/book|4|29}}
+
+Though Manetheren was rich in agricultural goods, its true wealth lay in the Mountains of Mist. Gold and silver abounded in the range along with baser metals such as iron and copper. Precious metals mined from the mountains provided the basis for Manetheren's economic strength. Gold coinage minted in the capital city was often regarded as the reserve currency throughout the Ten Nations. Coins typically featured the ruling monarch on the obverse and an Eagle in flight on the reverse.{{ref/book|3|33}} Manetheren's coins were highly prized for their gold purity and frequently wound up in private hordes.{{ref/book|3|33}}
+
+
+==The Fall of Manetheren==
+
+===The Trolloc Wars===
+{{quote|For nearly two centuries the Trolloc Wars had ravaged the length and breadth of the world, and wherever battles raged, the Red Eagle banner of Manetheren was in the forefront.|Moiraine Damodred{{ref/book|1|9}}}}[[File:AemonandEldrene.JPG|thumb|300x300px|Aemon al Caar al Thorin and Eldrene ay Ellan ay Carlan were the last monarchs of Manetheren]] For almost a thousand years the Ten Nations of the [[Westlands]] co-existed in relative balance. This peace would be shattered circa {{ab|1000}} when shadowspawn poured forth from the [[Great Blight]] triggering a series of conflicts that would lead to nearly 350 years of protracted warfare. This era would come to be known as the [[Trolloc Wars]]. During the early years of the wars Manetheren emerged as a staunch supporter of the Ten Nations, valiantly answering pleas for aid from embattled allies and fighting the [[Shadow]] at every turn. Wherever men fought the forces of the [[Dark One]], the Red Eagle of Manetheren was always at the fore. For their perseverance and courage, the Army of Manetheren became known as ''a thorn to the Dark one's foot, and a bramble to his hand'' and Manetheren itself as ''the sword that could not be broken''.{{ref||bwb 10}}
+
+In the middle years of the wars, circa {{ab|1150}}, Manetheren was ruled by King [[Thorin al Toren al Ban]] who had forged a close relationship with King [[Balwen Mayel]] of [[Aridhol]]. King Thorin worried that his ally was beginning to despair that the forces of [[Light]] might win and so sent a delegation to Aridhol headed by his son Prince [[Caar al Thorin al Toren]] to reinforce the tenets of the [[Ten Nations|Compact of the Ten Nations]]. Unbeknownst to Thorin, King Balwen had fallen under the manipulations of a mysterious councilor named [[Mordeth]] who advised Balwen to murder the Manetheren delegation and imprison Prince Caar. Caar would eventually escape after suffering torture in Aridhol and King Thorin would send his army to exact vengeance. When the soldiers of Manetheren arrived at Aridhol's capital they found nothing living - the entire population having mysteriously disappeared. Sensing a great evil, the men of Manetheren named the place [[Shadar Logoth]] and shunned it ever after.
+[[File:AemonsDeath.JPG|thumb|300x300px|left|King Aemon perishes on the battlefield, by Ariel Burgess official Wheel of Time artist]]
+Later Manetheren came under attack by a vast Trolloc horde. Despite a valiant defense commanded by King [[Aemon al Caar al Thorin]] at the [[Battle of the Tarendrelle River]], the Army of Manetheren was defeated and forced into a fighting retreat before perishing at a crossroads near the Mountain Home in a second engagement called the Battle of Aemon's Field. Queen [[Eldrene]] committed suicide with the [[One Power]] at this moment, destroying the invading Trolloc army and sending the remnants fleeing back across the Tarendrelle. However, Manetheren did not rise again during the war.
+
+It was later revealed that the then-[[Amyrlin Seat]], [[Tetsuan]], had intervened to stop reinforcements being sent to relieve Manetheren, apparently acting out of jealousy of Eldrene's power and influence. The [[Hall of the Tower]] publicly stripped her of the staff and stole and [[stilling|stilled]] her for her crime.
+
+The [[Ogier]] also heard Manetheren's call to arms, but were unable to send relief in time.
+
+In the aftermath of the Trolloc Wars, the kingdoms of [[Farashelle]] and [[Dhowlan]] arose out of Manetheren's former territories.
+
+==Legacy==
+[[File:TwoRiversFolk.JPG|thumb|280x280px|Two Rivers folk are the hardy and determined descendants of Manetheren.]]
+Throughout the ages many attempts have been made to resurrect Manetheren, but all have failed. Most recently, however, Lord [[Perrin Aybara]] (also known as Perrin [[Wolfbrother|Goldeneyes]]) has raised the banner of the Red Eagle, the symbol of Manetheren. He already has the [[Two Rivers]] district behind him, and the [[Alliandre Maritha Kigarin|Queen of Ghealdan]], a traditional territory of Manetheren, has sworn allegiance to him. His marriage to [[Faile|a close relation]] of the [[Tenobia|Queen of Saldaea]] and abilities as a ''[[ta'veren]]'' give him the best chance of succeeding where all others have failed. Yet in a meeting with [[Elayne Trakand]], [[Queen of Andor]], both he and Faile renounced all desire to raise Manetheren up from the ashes.{{ref/book|13|47}} Elayne, for her part, began plans for ceding the lands to the [[Dragon Reborn]] as his permanent Andoran seat, and requesting that Perrin be made steward while she names him "High Lord." See the article on the [[Two Rivers]] for more information on recent developments.
+
+[[Matrim Cauthon]] has raised a new Band of the Red Hand, in honor of his Manetheren blood and his memories from the Trolloc Wars. The Band is currently unaffiliated with Perrin Aybara's movement to unify ancient Manetheren.
+
+==Trivia==
+The flag of Manetheren is described as consisting of a red eagle on a blue field in both ''[[The Shadow Rising]]'' and ''[[Winter's Heart]],'' and also illustrated as such on the original cover of ''Winter's Heart''. However, in Issue #6 of ''[[The Eye of the World comic]]'', the flag is instead illustrated as a red eagle on a white field. This could be an error on the illustrator's part.
+
+==External links==
+*{{TVlink|Manetheren}} on {{TVlink}}
+
+{{notes}}
+{{nations}}
+[[Category:Ten Nations]]
+[[Category:Manetheren| Manetheren]]
+[[Category:Historical nations]]
+[[Category:After the Breaking]]

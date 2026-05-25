@@ -1,0 +1,30 @@
+{{character
+| image=Birds.png
+| imagesize=150px
+| ewot=Toram
+| name=Toram
+| nationality=Atha'an Miere
+| gender=Male
+| hair=Gray
+| affiliation=Atha'an Miere
+| rank=Cargomaster
+| status=Alive
+| appeared={{tsr|19}}
+| lastappaerd={{tsr|19}}
+| lastmentioned={{tsr|39}}
+| living=tsr
+}}
+{{for|the [[Cairhienin]] nobleman|Toram Riatin}}
+'''Toram''' is the Cargomaster of the ''[[Wavedancer]]'' and he is married to the [[Sailmistress]] [[Coine din Jubai Wild Winds]]. 
+
+== Appearance ==
+He defends the ship whenever it is under attack, and has earned a long scar down the side of his face due to one of these battles. He is heavy-shouldered with gray hair. He has four gold rings in each ear.
+
+== Activities ==
+He is very displeased with his wife when she deceides to go to [[Tanchico]] instead of [[Shara]] where he had had trades routes already sorted out.
+
+==Notes==
+His full name is listed officially as Toram din Alta Wild Winds in his entry in the Companion.  Unusually, he shares the salt name of his spouse, '''Wild Winds''' while they have different famil names (din Jubai vs din Alta).{{ref/book|{{twotc|Toram din Alta Wild Winds
+}}}} The only other spouse pair we know among the ''Atha'an Miere'', [[Amel din Monaga Stone Anchor]] and [[Zaida din Parede Blackwing]], does not share this pattern. Since the salt name is earned by the owner, it's umclear why this might be so and it may be an unresolved detail in Jordan's notes that made it into the Companion.
+
+{{DISPLAYTITLE:Toram (''Atha'an Miere'')}}

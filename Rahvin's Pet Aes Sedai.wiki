@@ -1,0 +1,36 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=
+| gender=Female
+| affiliation=White Tower
+| living=tfoh
+| rank=Aes Sedai
+| build=
+| status=Alive
+| appeared={{tfoh|p}}
+| lastappeared={{tfoh|p}}
+|birth = |eyes = Brown|lastmentioned = {{loc|1}}}}
+'''[[Rahvin]]'s Pet [[Aes Sedai]]''' is an Aes Sedai of the [[Red Ajah]] who has just been recently raised to the [[shawl]]. 
+
+== Appearance ==
+She is quite young with brown eyes and lacks the ageless look of an Aes Sedai.
+
+== Activities ==
+She had been planted in [[Andor]] by the [[White Tower]] ruled by [[Elaida a'Roihan]] to spy on [[Morgase Trakand]]. She was, however, betrayed by someone from the [[Black Ajah]] who told Rahvin. He used [[Compulsion]] on her to report back what he wanted the White Tower to know.
+
+== Fate ==
+It is not known what happened to this Aes Sedai after Rand killed Rahvin and conquered [[Caemlyn]].
+
+"''A good many people fled Caemlyn in the days after Rand and the [[Aiel]] seized the city; the [[Royal Palace of Andor|Palace]] itself nearly emptied overnight......One fleeing in those first days had been a young Aes Sedai, young enough that her face still lacked the distinctive agelessness.....when she found out who Rand was, she ran screaming. Literally screaming.''" {{ref/book|6|1}}
+
+{{short}}
+{{notes}}
+[[Category:Women]]
+[[Category:Living as of TFOH]]
+[[Category:Red Ajah]]
+[[Category:Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Unknown nationality]]

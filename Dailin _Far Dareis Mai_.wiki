@@ -1,0 +1,38 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|999}}
+| ewot=dailin2
+| nationality=Aiel
+| gender=Female
+| society=Far Dareis Mai
+| clan=Taardad
+| sept=Nine Valleys
+| affiliation=Car'a'carn
+| hair=Dark red
+| eyes=Gray
+| status=Dead
+| appeared={{tdr|38}}
+| lastappeared={{tdr|39}}
+}}
+{{For|Shaido Wise One|Dailin}}
+'''Dailin''' was a [[Maiden of the Spear]] of the [[Nine Valleys]] [[sept]] of the [[Taardad]] [[Aiel]]. She was [[Aviendha]]'s [[second-sister]].
+
+== Appearance ==
+She had dark red hair and gray eyes.
+
+== Activities ==
+Dailin, Aviendha, [[Bain]], [[Chiad]], and [[Jolien]] are some of the last ''[[algai'd'siswai]]'' sent over the [[Spine of the World]] in search of [[He Who Comes With the Dawn]]. [[Nynaeve al'Meara]], [[Egwene al'Vere]], and [[Elayne Trakand]] encountered Aviendha after leaving their grounded ship during their journey towards [[Cairhien]]. She brought them to Dailin, who was wounded, and the other Maidens, and Nynaeve [[Heal]]ed Dailin.{{ref/book|3|38}} The three women left the Aiel and headed towards [[Jurene]].
+
+Shortly after leaving the Maidens, Nynaeve, Egwene, and Elayne were attacked and knocked unconscious. When they awoke, they were being held captive by [[Darkfriend]] bandits and three [[Myrddraal]]. A group of [[Aiel]] arrived, including the five Maidens, and killed the Darkfriends. Nynaeve, Egwene, and Elayne killed the Myrddraal using the [[One Power]].
+
+When the fight was over, Dailin was among the dead.{{ref/book|3|39}} Nynaeve was angered and saddened over "the waste," saying she didn't Heal the girl just so she could die.
+
+Rand mentions her in his list of dead, although she dies before they had even met.{{ref/book|6|26}}
+
+==Errata==
+In early printings of the [[The Dragon Reborn]], her sept was incorrectly given as [[Iron Mountain]]. However, Aviendha said that she and Dailin were from the same sept; Aviendha's is consistently given as Nine Valleys.
+
+{{notes}}
+{{DISPLAYTITLE:Dailin (''Far Dareis Mai'')}}
+[[es:Dailin]]

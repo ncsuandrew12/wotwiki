@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.deviantart.com/jieroque/art/The-Flame-of-Tar-Valon-335285347
+|Description = Fan art of [[Egwene al'Vere]].
+|Artist      = Benjamin Roque
+}}

@@ -1,0 +1,50 @@
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ewot=
+| ajah=Brown
+| nationality=Murandian
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| hair=Black
+| build=Stocky
+| status=Alive
+| mentioned=The Wheel of Time Companion
+| living=tgs
+|birth = 878 NE|eyes = Black}}{{For|the [[Murandian]] [[:Category:Merchants|merchant]] with the same first name|Haesel Palan}}
+'''Haesel Lusara''' is an [[Aes Sedai]] of the [[Brown Ajah]] from [[Murandy]]{{ref|{{twotc}}, Haesel Lusara}}
+
+== Appearance ==
+Haesel is not particularly pretty, average in face and figure, but has a vivacity that makes most people see her as pretty.
+
+About 5'4" tall, she is neither slim nor stout. Her black hair is worn in an elaborate braid that hangs halfway down her back, with the braiding running onto the top of her head. She has black eyes.
+
+== Strength and Abilities ==
+In "The Wheel of Time Companion" Haesel level of strength is described as {{opsl|22}}, which is a quite high level in the Aes Sedai hierarchy.
+
+This strength is more than enough to open alone a suitable [[Traveling]] gateway.
+
+== History ==
+Haesel is 122 years old. She was born in {{ne|878}} and went to the [[White Tower]] in {{ne|891}}. After spending ten years as a [[novice]] and four years as [[Accepted]], she was raised to the shawl in {{ne|905}}.
+
+When she went to the White Tower, she lied about her age by two years, but by the time she was caught out, she had been training for a year. She was punished, but the Aes Sedai could not turn her away by that time, though she always believed that the reason she had been so long a novice was that they simply would not let her test because of her subterfuge.
+
+==Activities==
+She has allied herself with the [[Salidar Aes Sedai]] and was one of the ten ferrets sent to the [[White Tower]] to spread the rumor that the [[Red Ajah]] set [[Logain Ablar]] up as a [[False Dragon]].{{ref/book|7|8}} Of all the [[ten ferrets]], Haesel is the oldest and the highest in hierarchy by strength and years of training.
+
+When [[Zerah Dacan]] is found out to be a Salidar spy, she gives up Haesel's name as well. Haesel was so part of the group that was trying to hunt down the [[Black Ajah]]{{ref/book|8|26}}.
+
+When the oath of obedience is lifted from [[Meidani Eschede]], it can be assumed that Haesel was freed as well.
+
+==Particularity of this character==
+Haesel Lusara is described only in "The Wheel of Time Companion", she is never mentioned in the main books of the Wheel of Time. Her strength is {{opsl|22}}, a very high level in the Aes Sedai hierarchy. She is strong enough to [[Traveling|Travel]].
+
+{{notes}}
+{{DEFAULTSORT:Lusara, Haesel}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Ferrets]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Eyes-and-ears]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

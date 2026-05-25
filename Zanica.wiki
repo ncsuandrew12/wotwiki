@@ -1,0 +1,28 @@
+{{ character 
+| image=Faces-icon.svg
+| imagesize=250px
+| ajah=Unknown
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=Black Ajah
+| gender=Female
+| status=Alive
+| mentioned={{kod|p}}
+| lastmentioned={{tgs|e}}
+| living=tgs
+}}'''Zanica''' is an [[Aes Sedai]] who remained loyal to the [[White Tower]] during the [[White Tower Schism]].{{ref|{{twotc}}, Zanica}}  Her [[Ajah]] is not currently known, but she is not [[Blue Ajah]] because she is a loyalist, and also she is not [[Red Ajah]] as she has a [[Warder]].
+
+She is also secretly part of the [[Black Ajah]].
+
+== Activities ==
+Zanica, along with [[Desala Nevanche]], [[Melare]], [[Arebis]] and three other Aes Sedai, were involved in [[Leane Sharif]]'s capture at [[Tar Valon#Northharbor|Northharbor]].
+
+[[Egwene al'Vere]] has some lessons with her.
+
+Zanica is listed as a member of the Black Ajah in [[Verin Mathwin]]'s book.
+
+{{notes}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Dreadlords]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

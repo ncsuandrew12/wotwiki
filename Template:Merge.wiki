@@ -1,0 +1,3 @@
+<div style="border: 1px solid #cf9fff; background-color: #242424; text-align: center; width: 85%; margin: 0 auto 1em auto; padding: .2em;">
+[[Image:Merge-arrows.gif|left]] It has been suggested that this article or section be [[Wikipedia:Wikipedia:Merging and moving pages|merged]] with ''[[{{{1|}}}]]''. ([[:{{NAMESPACE}} talk:{{PAGENAME}}|Discuss]])</div>
+[[Category:Todo|{{PAGENAME}}]]

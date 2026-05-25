@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|June}}
+|{{Wotmonth|Amadaine}}
+|}
+'''Amadaine 15 (June 23)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:june 23|June 23]]
+
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

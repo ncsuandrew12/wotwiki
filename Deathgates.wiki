@@ -1,0 +1,6 @@
+'''Deathgates''' are a [[weave]] of the [[One Power]] using Spirit, Earth, and Fire that opens and closes [[gateway]]s very rapidly, sending them speeding along the ground. Any [[Shadowspawn]] that pass through these Deathgates die because the Shadowspawn are constructs of the One Power, and  cannot survive such a trip. The destination shifts every time a Deathgate opens, and the destinations themselves are random, preventing too many Shadowspawn corpses from accumulating in a single area. Like with a typical gateway, a Deathgate's size is determined by the amount of Power the user can hold.
+
+Along with [[Arrows of Fire]] and [[Fire Blossom]]s, Deathgates are a recently rediscovered combat weave used by the [[Asha'man]]. These [[weave]]s were shown to [[Rand al'Thor]] when [[Lews Therin Telamon]] gained control of the [[One Power]] in the [[Battle at Lord Algarin's manor]].{{ref/book|11|19}}
+
+{{notes}}<references />{{short}}
+[[Category:Weaves]]

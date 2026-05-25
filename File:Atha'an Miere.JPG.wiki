@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = A female ''[[Atha'an Miere]]'' [[Windfinder]] apprentice.
+| Source             = ''[[The Wheel of Time Roleplaying Game]]''
+| Artist             = Michael Dubisch
+}}

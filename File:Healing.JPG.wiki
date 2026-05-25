@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| ImageType2         = CCG
+| Description        = [[Healing]] being used to treat an arrow wound.
+| Source             = The "[[Premier]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Pat Morrisey
+}}

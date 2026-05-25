@@ -1,0 +1,22 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| hair=Yellow
+| clan=Codarra
+| sept=Jaern Rift
+| society=Aethan Dor
+| status=Alive
+| appeared={{Loc|18}}
+| lastappeared={{loc|18}}
+| living=loc
+}}
+'''Dedric''' is an [[Aiel]] from the [[Jaern Rift]] [[Codarra]] Clan. He is an ''[[Aethan Dor]]''.
+
+== Appearance ==
+He has yellow hair.
+
+== Activities ==
+He escorts [[Rand al'Thor]] when he goes to the School in [[Cairhien]]. The Maiden [[Jalani]] shows interest in him.

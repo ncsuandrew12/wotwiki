@@ -1,0 +1,55 @@
+Very few characters are given specific heights and weights; however from extrapolation we should be able to compare the few we know with the people we see in relation to them.
+
+==For reference==
+* 10 inches = 3 hands = 1 foot 
+* 6 feet = 2 paces = 1 span 
+* 3 feet = 1 pace, etc.
+* 10 ounces = 1 pound
+* 10 pounds = 1 stone
+* 10 stone = 1 hundredweight
+* 10 hundredweight = 1 ton
+
+==Known measures==
+*Rand is 6'5"-6'6" 195/198 cm in our terms, according to Robert Jordan himself.<ref>http://linuxmafia.com/waygate/no-haunt/jordan.letter</ref>
+* Mat is 5'11"" 180cm  in our terms.
+* Perrin is somewhere between them, 6'2" or 6'3". 188/190cm According to the RPG, he is 'half a head' shorter than Rand.
+* [[Therava]] is a 'good span' in height.<ref>{{wh|4}}</ref>
+* The RPG lists these ''average'' heights and weights (in their measures, not ours):
+** Ogier: 7'2" to 8'6" for males, 6'9" to 8'3" for females. (that's definitely too short!)
+** Aiel: 6' to 6'6" for males, 5'6" to 6'2" for females. (that seems too short)
+** Ebou Dari, Illianers, Midlanders, Taraboners, Tar Valoners: 5'6" to 6'2" for males, 5'2" to 5'8" for females.
+** Cairhienin: 5'3" to 5'9" for males, 4'9" to 5'5" for females.
+** Domani and Tairens: 5'7" to 6'3" for males, 5'3" to 5'9" for females.
+** Atha'an Miere: 5'8" to 6'4" for males, 5'4" to 6' for females.
+** Borderlanders: 5'5" to 6'1" for males, 5'1" to 5'7" for females.
+** Humans average 5 lbs/inch of height: males are 14 stone + 10 to 80 pounds, females are 10 stone + 10 to 80 pounds. Adjust for height.
+
+==Known ranges==
+* Ogier are ten feet or more in height.
+* Trollocs are 8-10 feet in height.
+
+==Extrapolations==
+* Nynaeve only comes up to Mat's shoulder.<ref>{{teotw|3}}</ref>
+* Nynaeve and Egwene are 'of a height'.<ref>{{teotw|3}}, {{tdr|10}}</ref>
+* Nynaeve is shorter than [[Min Farshaw]].<ref>{{teotw|16}}</ref>
+* Rand and Gawyn are approx. the same height, according to Egwene.<ref>{{loc|14}}</ref> This may cause problems with later comparisons.
+* Lan and [[Ryne Venamar]] are 'of a height'.<ref>{{ns|16}}</ref>
+* [[Galad Damodred]] is nearly a head taller than [[Eamon Valda]].<ref>{{wh|prologue}}</ref>
+* [[Barthanes Damodred]] was 'no more than half a head' shorter than Rand.<ref>{{tgh|32}}</ref>
+* [[Liandrin]] is less than a hand taller than Moiraine. [[Anaiya]] is taller than Moiraine as well.<ref>{{tgh|4}}</ref>
+* Mazrim Taim is 'nearly as tall' as Rand.<ref>{{wh|Prologue}}</ref>
+* [[Deira Bashere]] is 'inches' taller than her husband, [[Davram Bashere]].<ref>{{cot|prologue}}</ref>
+* [[Ashmanaille]] and [[Phaedrine]] are 'of a height'.<ref>{{kod|2}}</ref>
+* [[Sevanna]] is at least as tall as Faile.<ref>{{wh|4}}</ref>
+* Sevanna is shorter than [[Tion]] though, who is 'nearly a head' shorter than [[Someryn]].<ref>{{tpod|11}}</ref>
+* [[Someryn]] is half a hand taller than Perrin.<ref>{{wh|4}}</ref>
+* [[Modarra]] is even taller than [[Someryn]].<ref>{{tpod|11}}</ref>
+* [[Han]] is the only clan chief not as tall/taller than [[Rand]].<ref>{{tfoh|2}}</ref>
+* [[Melindhra]] is taller than [[Mat]].<ref>{{tfoh|22}}</ref>
+* [[Rosana]] is 'nearly' as tall as [[Semaradrid]].<ref>{{tpod|13}}</ref>
+* [[Silviana Brehon]] is 'nearly as tall' as [[Barasine]].<ref>{{kod|prologue}}</ref>
+* Aviendha is 'nearly as tall' as Mat.<ref>{{loc|38}}</ref> That seems too short, somehow...
+* [[Leane Sharif]] is nearly as tall as Perrin.<ref>{{tgh|7}}</ref>
+* Mistress [[Beldair]] (cook of the Sun Palace) is nearly as tall as [[Samitsu]], despite being Cairhienin.<ref>{{cot|prologue}}</ref>
+* [[Daerid Ondin]] is a 'just a little taller' than [[Talmanes]]; [[Nalesean Aldiaya]] is taller than either of them.<ref>{{loc|5}}</ref>
+{{notes}}

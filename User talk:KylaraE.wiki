@@ -1,0 +1,79 @@
+{{w:User:KylaraE}}
+
+== Issue After UCP Migration ==
+[[File:Issue.png|thumb]]
+Hi, I noticed that after the migration to the UCP, there has been a minor glitch with showing article thumbnail previews under the "Popular Pages" section. I'm not sure exactly the mechanics of it, but I'll include a screenshot. It appears that the thumbnails are misdirected to other articles. In the screenshot example, the only correct image is the bottom one. I'm not even sure if the migration is the culprit here, but I've never noticed this problem until after the switchover.
+{{Unsigned|14:22, October 9, 2020‎|Crazycarl864}}
+
+:Thanks for reaching out! Not sure if it's specific to the UCP, but it's a known issue and it's being worked on. Not sure when we'll see a fix for it yet.
+
+:Let me know if you see any other issues and I'll take a look!
+
+:–&nbsp;[[User:KylaraE|<span style="background: -webkit-linear-gradient(#a58fb3 25%,#ff00d4 75%); background: -webkit-linear-gradient(#a58fb3 25%,#ff00d4 75%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 115%; letter-spacing: 1.5px;">KylaraE</span>]]&nbsp;<staff />&nbsp;([[User talk:KylaraE|talk]]) 18:49, 9 October 2020 (UTC)
+
+== Administrator status ==
+
+Hi, I am interesting in doing more edits on the wiki in the long term. I am, however, not sure if my admin privileges have expired. Also, a lot has changed over the years. There were some candidates for deletion but I wasn't seeing an obvious way to delete the articles. Also, I was thinking of tidying up some of the stubs into a collected article. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 16:35, 12 October 2020 (UTC)
+
+:Hi there, thanks for reaching out! I looked at your rights history to see what happened; the wiki was adopted last year, so all previous (and inactive) admin had their rights removed as part of the adoption process. The most recently-active admin is [[User:Sophiae.seraphim|Sophiae.seraphim]], so you could try requesting admin rights from them, but their activity has been a bit on and off. 
+
+:I also [[User_blog:KylaraE/Wiki_coverage_of_the_TV_series|welcome your input]] regarding whether or not the TV show should be documented on the wiki. Only got three responses, and only two seem to have an opinion, so I'm still hoping to hear from more of the community.
+
+:–&nbsp;[[User:KylaraE|<span style="background: -webkit-linear-gradient(#a58fb3 25%,#ff00d4 75%); background: -webkit-linear-gradient(#a58fb3 25%,#ff00d4 75%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 115%; letter-spacing: 1.5px;">KylaraE</span>]]&nbsp;<staff />&nbsp;([[User talk:KylaraE|talk]]) 17:02, 12 October 2020 (UTC)
+
+:: I think the TV show should be included, but I'm not a fan of including speculation that is buzzing in the fandom. I feel like if the show gets very popular, they will have their own wiki relating to the screen adaptation similar to how Game of Throne has separate wikis for the books and the show. Listing who plays which character is a good idea, with links to the wikipedia article for the actor where it exists. A lot of other possible options, but those are my immediate thoughts. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 14:00, 24 November 2020 (UTC)
+
+== WoT TV show wiki ==
+
+Hi KylaraE,
+sorry for the late reply, I left my comment on the TV show topic and just wanted to let you know that from now you can reach me out if you have any more topics to talk about. 
+Best,
+S.
+
+== Messaging  ==
+
+Hi KylaraE,
+Do you have a particular time when we could talk in the chat? I would not need more time but ~30 minutes. My timezone is CET. Mornings and evenings are mostly free.
+Thank you in advance,
+S.  ([[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 11:57, 23 November 2020 (UTC))
+
+:Sure, I'm on now and I will be available (on and off) for the next several (10ish) hours. Are you on Discord? –&nbsp;[[User:KylaraE|<span style="background: -webkit-linear-gradient(#a58fb3 25%,#ff00d4 75%); background: -webkit-linear-gradient(#a58fb3 25%,#ff00d4 75%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 115%; letter-spacing: 1.5px;">KylaraE</span>]]&nbsp;<staff />&nbsp;([[User talk:KylaraE|talk]]) 21:35, 23 November 2020 (UTC)
+
+-- -- -- -- -- -- -- 
+
+Hi,
+If you reply on your wall, the other person will NOT get any notification, so you have to reply on the other person's wall. :) It's far from optimal. I hope the fandom community will do something about this in the near future. Especially, because there was a chat function available when I joined, where you could actually talk in real time, and I have just realized yesterday that it disappeared. (rolling eyes emoji here) 
+I have no discord acc. If you have a gmail we could chat on their default/inbuilt Hangouts. 
+
+Do you happen to know why was the chat function from this fandom page removed? It's so disappointing. :(
+S.   ([[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 08:51, 24 November 2020 (UTC))
+
+: Hi to both of you,
+: I am on some of the WoT discord servers and would be up for a chat sometime. Also have HangOuts, so we could post a temporary video chat link and arrange a day and time. I'm in the UK, but recently travelled from South America and still operating under that timezone, so most times suit me. [[User:Moridin 2000|Moridin_2000]] ([[User talk:Moridin 2000|talk]]) 13:51, 24 November 2020 (UTC)
+
+-- -- -- -- -- -- -- 
+
+I will create a discord account tomorrow then we all can talk there. :)
+
+S.   ([[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 21:14, 24 November 2020 (UTC))
+
+-- -- -- -- -- -- -- 
+
+Sorry, I had too much on my plate today. Hopefully I can do it on Thursday. I'll be back.
+S.  ([[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:13, 25 November 2020 (UTC))
+
+-- -- -- -- -- -- -- 
+
+Oh, I totally forgot about Thanksgiving. Sorry for that. :( But a few days shouldn't matter anyway. 
+S.  ([[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 22:30, 25 November 2020 (UTC))
+
+== Hey Kylara ==
+=== Bot flag ===
+
+Hello Kylara, would you mind flagging [[User:Moonwatcher x Qibli +bot+]] as a bot? I only ask you as [[User:Moridin 2000|Moridin 2000]] hasn't returned [[User talk:Moridin 2000#Hello Chris - Bot edits + bot tag + Adding Category:Redirects to all redirects|my message]], and we don't have much of an active community. I don't need the tag to perform fully automated edits as the bot already can, but just to screen them from [[Special:RecentChanges]] so I can more easily track other users' edits to revert vandalism.<br>
+For context on why I'm bot editing: Mainly right now it's due to the thousands of instances of <code><span style="background-color: #3d3d3d"><nowiki>\{\{DISPLAYTITLE\|''([^']*)''<br /><br /><small>([^<]*)<\/small>\}\}</nowiki></span></code> (regex), which is horrible formatting, and doesn't even work (it's <code><span style="background-color: #3d3d3d"><nowiki>{{DISPLAYTITLE:</nowiki></span></code> not <code><span style="background-color: #3d3d3d"><nowiki>{{DISPLAYTITLE|</nowiki></span></code>, <code><span style="background-color: #3d3d3d"><nowiki><br></nowiki></span></code> doesn't work in these and just displays <code><span style="background-color: #3d3d3d"><nowiki><br></nowiki></span></code>, etc.), as well as just performing [[w:wikipedia:Wikipedia:AutoWikiBrowser/General fixes|General Fixes]] on main mainspace articles.
+
+=== Content Moderation ===
+As a final question I’d like to ask if you’d be willing to give myself and the bot content moderator rights? I would go through the appropriate channels for adoption, but unfortunately I was promoted on Stephen King Wiki and Coding Help Wiki recently so I’m ineligible.
+
+<span style="background-image: linear-gradient(to right, #16369e, #0a5bc4, #0f94d1, #3fb3e8, #3fcce8, #52dbeb) !important; font-family: 'Comic Sans MS'; font-size: 17px;font-weight:bold; -webkit-background-clip: text; -webkit-text-fill-color: transparent; -webkit-animation: gradientName 8s cubic-bezier(0, 0, 1, 0.99) infinite; text-shadow: 0.4px 1px 1px #82eefd;"><span class="hoveremphasis"><span style="background: linear-gradient(90deg, #78aac0, #78aac0) repeat-x 0 1.2em;">[[User:Moonwatcher x Qibli|DigitalKandra/DK]]</span> - <span style="background: linear-gradient(90deg, #78aac0, #78aac0) repeat-x 0 1.2em;">[[Message_Wall:Moonwatcher x Qibli|Message Wall]]</span> | <span style="background: linear-gradient(90deg, #78aac0, #78aac0) repeat-x 0 1.2em;">[[:w:c:community:Template:User:Moonwatcher_x_Qibli/Guestbook|Guestbook]]</span> | <span style="background: linear-gradient(90deg, #78aac0, #78aac0) repeat-x 0 1.2em;">[[w:c:community:Help:Fandom Stars|Fandom Stars member]]</span></span></span>

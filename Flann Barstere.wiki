@@ -1,0 +1,29 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Soldier
+| gender=Male
+| build=Lanky
+| status=Alive
+| tworivers=yes
+| affiliation=Perrin Aybara
+| appeared={{tpod|9}}
+| lastappeared={{tom|34}}
+| living=tom
+}}
+{{dablink|For the farmer near [[Emond's Field]], see [[Flann Lewin]]. For others with the same surname, see [[Barstere]].}}
+
+'''Flann Barstere''' is a young [[Two Rivers]] man from [[Watch Hill]].{{ref|{{twotc}}, Flann Barstere}}
+
+== Appearance ==
+He is lanky with a dent in his chin.
+
+== Activities ==
+He is part of the [[Two Rivers]] men in [[Perrin Aybara]]'s army in [[Ghealdan]].
+
+He leaves with Perrin for [[So Habor]] to buy some grain for the army.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Barstere, Flann}}

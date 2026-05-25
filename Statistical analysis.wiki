@@ -1,0 +1,1078 @@
+<noinclude>
+''[[The Wheel of Time]]'' main series consists of fourteen books and a prequel. The books are written from different points of view (POVs). The series has 147 unique POVs and 1,379 total POVs, including the prequel, ''New Spring''. Each book section below details the breakdown of these points of view as a word count and as a percentage. </noinclude>The '''Chapter by Chapter Breakdown''' sections lists the POVs in order by chapter. The percentage expressed here takes the total number of words in that section and divides it by the total word count. If a character has multiple POVs in the same chapter, they are listed again and not totaled up in one line.
+
+The '''Unique POV Breakdown''' sections list all of the people (including Quotes and Narrator) who had POVs in the book. They are listed in the order of their appearance. The second column counts how many POVs they had. The third column divides the number of POVs the person had by the number of total POVs in the book. The fourth column lists the total word count for each POV. The fifth column divides the word count of the POV by the total word count. For example, in ''The Eye of the World'', Rand al'Thor has 44 POVs. This is 74.586% of the total number of POVs (59) in the book. The next percentage indicates that 79.569% of the words in book are from Rand's point of view.<noinclude>The '''Full-Series Unique POV Breakdown''' section lists combined values for all fifteen books published to date. They are also listed in the order of their appearance. 
+
+== New Spring ==
+{{:New Spring/Statistical analysis}}
+== The Eye of the World ==
+{{:The Eye of the World/Statistical analysis}}
+==The Great Hunt==
+{{:The Great Hunt/Statistical analysis}}
+==The Dragon Reborn==
+{{:The Dragon Reborn/Statistical analysis}}
+==The Shadow Rising==
+{{:The Shadow Rising/Statistical analysis}}
+==The Fires of Heaven==
+{{:The Fires of Heaven/Statistical analysis}}
+==Lord of Chaos==
+{{:Lord of Chaos/Statistical analysis}}
+==A Crown of Swords==
+{{:A Crown of Swords/Statistical analysis}}
+==The Path of Daggers==
+{{:The Path of Daggers/Statistical analysis}}
+==Winter's Heart==
+{{:Winter's Heart/Statistical analysis}}
+==Crossroads of Twilight==
+{{:Crossroads of Twilight/Statistical analysis}}
+==Knife of Dreams==
+{{:Knife of Dreams/Statistical analysis}}
+==The Gathering Storm==
+{{:The Gathering Storm/Statistical analysis}}
+==Towers of Midnight==
+{{:Towers of Midnight/Statistical analysis}}
+
+==A Memory of Light==
+{{:A Memory of Light/Statistical analysis}}
+
+==Full-Series Unique POV Breakdown==
+==Full-Series Unique POV Breakdown==
+{| class="wikitable sortable"
+! Character
+! # of POVs
+! % of Total POVs (1,379)
+! Word Count (4,366,649)
+! % of Word Count
+! Average Word Count per POV
+|-
+| [[Lan Mandragoran]]
+| align="right" | 26
+| align="right" | 1.8854%
+| align="right" | 48,321
+| align="right" | 1.1066%
+| align="right" | 1858.50
+|-
+| [[Moiraine Damodred]]
+| align="right" | 33
+| align="right" | 2.3930%
+| align="right" | 123,639
+| align="right" | 2.8314%
+| align="right" | 3746.64
+|-
+| [[Siuan Sanche]]
+| align="right" | 18
+| align="right" | 1.3053%
+| align="right" | 46,384
+| align="right" | 1.0622%
+| align="right" | 2576.89
+|-
+| [[Lews Therin Telamon]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,362
+| align="right" | 0.0541%
+| align="right" | 2362.00
+|-
+| Quote
+| align="right" | 24
+| align="right" | 1.7404%
+| align="right" | 2,460
+| align="right" | 0.0563%
+| align="right" | 102.50
+|-
+| [[Egwene al'Vere]]
+| align="right" | 130
+| align="right" | 9.4271%
+| align="right" | 530,972
+| align="right" | 12.1597%
+| align="right" | 4084.40
+|-
+| [[Rand al'Thor]]
+| align="right" | 236
+| align="right" | 17.1139%
+| align="right" | 915,784
+| align="right" | 20.9722%
+| align="right" | 3880.44
+|-
+| [[Perrin Aybara]]
+| align="right" | 154
+| align="right" | 11.1675%
+| align="right" | 541,132
+| align="right" | 12.3924%
+| align="right" | 3513.84
+|-
+| [[Nynaeve al'Meara]]
+| align="right" | 61
+| align="right" | 4.4235%
+| align="right" | 271,167
+| align="right" | 6.2100%
+| align="right" | 4445.36
+|-
+| [[Jaichim Carridin]]
+| align="right" | 4
+| align="right" | 0.2901%
+| align="right" | 13,106
+| align="right" | 0.3001%
+| align="right" | 3276.50
+|-
+| [[Geofram Bornhald]]
+| align="right" | 5
+| align="right" | 0.3626%
+| align="right" | 4,526
+| align="right" | 0.1036%
+| align="right" | 905.20
+|-
+| [[Liandrin]]
+| align="right" | 4
+| align="right" | 0.2901%
+| align="right" | 9,256
+| align="right" | 0.2120%
+| align="right" | 2314.00
+|-
+| [[Padan Fain]]
+| align="right" | 12
+| align="right" | 0.8702%
+| align="right" | 12,218
+| align="right" | 0.2798%
+| align="right" | 1018.17
+|-
+| [[Bayle Domon]]
+| align="right" | 4
+| align="right" | 0.2901%
+| align="right" | 10,075
+| align="right" | 0.2307%
+| align="right" | 2518.75
+|-
+| [[Min Farshaw]]
+| align="right" | 35
+| align="right" | 2.5381%
+| align="right" | 110,670
+| align="right" | 2.5344%
+| align="right" | 3162.00
+|-
+| [[Thomdril Merrilin]]
+| align="right" | 6
+| align="right" | 0.4351%
+| align="right" | 10,044
+| align="right" | 0.2300%
+| align="right" | 1674.00
+|-
+| [[Jaret Byar]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 122
+| align="right" | 0.0028%
+| align="right" | 122.00
+|-
+| Narrator
+| align="right" | 8
+| align="right" | 0.5801%
+| align="right" | 1,869
+| align="right" | 0.0428%
+| align="right" | 233.62
+|-
+| [[Pedron Niall]]
+| align="right" | 5
+| align="right" | 0.3626%
+| align="right" | 15,216
+| align="right" | 0.3485%
+| align="right" | 3043.20
+|-
+| [[Matrim Cauthon]]
+| align="right" | 116
+| align="right" | 8.4119%
+| align="right" | 486,595
+| align="right" | 11.1434%
+| align="right" | 4194.78
+|-
+| [[Verin Mathwin]]
+| align="right" | 5
+| align="right" | 0.3626%
+| align="right" | 12,068
+| align="right" | 0.2764%
+| align="right" | 2413.60
+|-
+| [[Elaida do Avriny a'Roihan]]
+| align="right" | 7
+| align="right" | 0.5076%
+| align="right" | 23,922
+| align="right" | 0.5478%
+| align="right" | 3417.43
+|-
+| [[Dain Bornhald]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 3,906
+| align="right" | 0.0895%
+| align="right" | 1953.00
+|-
+| [[Suroth Sabelle Meldarath]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 10,212
+| align="right" | 0.2339%
+| align="right" | 3404.00
+|-
+| [[Elayne Trakand]]
+| align="right" | 83
+| align="right" | 6.0189%
+| align="right" | 356,803
+| align="right" | 8.1711%
+| align="right" | 4298.83
+|-
+| [[Faile Bashere]]
+| align="right" | 27
+| align="right" | 1.9579%
+| align="right" | 81,766
+| align="right" | 1.8725%
+| align="right" | 3028.37
+|-
+| [[Sahra Covenry]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 592
+| align="right" | 0.0136%
+| align="right" | 592.00
+|-
+| [[Egeanin Tamarath]]
+| align="right" | 6
+| align="right" | 0.4351%
+| align="right" | 13,358
+| align="right" | 0.3059%
+| align="right" | 2226.33
+|-
+| [[Almurat Mor]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 130
+| align="right" | 0.0030%
+| align="right" | 130.00
+|-
+| [[Rahvin]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 3,456
+| align="right" | 0.0791%
+| align="right" | 3456.00
+|-
+| [[Gareth Bryne]]
+| align="right" | 5
+| align="right" | 0.3626%
+| align="right" | 13,187
+| align="right" | 0.3020%
+| align="right" | 2637.40
+|-
+| [[Alteima]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 3,000
+| align="right" | 0.0687%
+| align="right" | 3000.00
+|-
+| [[Morgase Trakand]]
+| align="right" | 12
+| align="right" | 0.8702%
+| align="right" | 37,665
+| align="right" | 0.8626%
+| align="right" | 3138.75
+|-
+| [[Moghedien]]
+| align="right" | 9
+| align="right" | 0.6526%
+| align="right" | 10,296
+| align="right" | 0.2358%
+| align="right" | 1144.00
+|-
+| [[Hadnan Kadere]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 3,520
+| align="right" | 0.0806%
+| align="right" | 1760.00
+|-
+| [[Asmodean]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 328
+| align="right" | 0.0075%
+| align="right" | 328.00
+|-
+| [[Demandred]]
+| align="right" | 6
+| align="right" | 0.4351%
+| align="right" | 7,093
+| align="right" | 0.1624%
+| align="right" | 1182.17
+|-
+| [[Gawyn Trakand]]
+| align="right" | 21
+| align="right" | 1.5228%
+| align="right" | 54,182
+| align="right" | 1.2408%
+| align="right" | 2580.10
+|-
+| [[Katerine Alruddin]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 1,079
+| align="right" | 0.0247%
+| align="right" | 539.50
+|-
+| [[Sevanna]]
+| align="right" | 6
+| align="right" | 0.4351%
+| align="right" | 14,740
+| align="right" | 0.3376%
+| align="right" | 2456.67
+|-
+| [[Mesaana]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 2,259
+| align="right" | 0.0517%
+| align="right" | 1129.50
+|-
+| [[Osan'gar]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 1,904
+| align="right" | 0.0436%
+| align="right" | 634.67
+|-
+| [[Sammael]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 5,246
+| align="right" | 0.1201%
+| align="right" | 2623.00
+|-
+| [[Graendal]]
+| align="right" | 9
+| align="right" | 0.6526%
+| align="right" | 16,267
+| align="right" | 0.3725%
+| align="right" | 1807.44
+|-
+| [[Semirhage]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 4,175
+| align="right" | 0.0956%
+| align="right" | 2087.50
+|-
+| [[Sheriam Bayanar]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 1,619
+| align="right" | 0.0371%
+| align="right" | 539.67
+|-
+| [[Sulin]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 149
+| align="right" | 0.0034%
+| align="right" | 149.00
+|-
+| [[Aviendha]]
+| align="right" | 23
+| align="right" | 1.6679%
+| align="right" | 64,293
+| align="right" | 1.4724%
+| align="right" | 2795.35
+|-
+| [[Nesune Bihara]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 885
+| align="right" | 0.0203%
+| align="right" | 442.50
+|-
+| [[Sarene Nemdahl]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,116
+| align="right" | 0.0256%
+| align="right" | 1116.00
+|-
+| [[Delana Mosalaine]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 1,959
+| align="right" | 0.0449%
+| align="right" | 653.00
+|-
+| [[Eamon Valda]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 4,382
+| align="right" | 0.1004%
+| align="right" | 1460.67
+|-
+| [[Rhadam Asunawa]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 351
+| align="right" | 0.0080%
+| align="right" | 351.00
+|-
+| [[Romanda Cassin]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 11,324
+| align="right" | 0.2593%
+| align="right" | 3774.67
+|-
+| [[Lelaine Akashi]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 160
+| align="right" | 0.0037%
+| align="right" | 160.00
+|-
+| [[Merana Ambrey]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 8,916
+| align="right" | 0.2042%
+| align="right" | 2972.00
+|-
+| [[Dyelin Taravin]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 102
+| align="right" | 0.0023%
+| align="right" | 102.00
+|-
+| [[Luan Norwelyn]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 109
+| align="right" | 0.0025%
+| align="right" | 109.00
+|-
+| [[Ellorien Traemane]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 83
+| align="right" | 0.0019%
+| align="right" | 83.00
+|-
+| [[Vilnar Barada]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 879
+| align="right" | 0.0201%
+| align="right" | 879.00
+|-
+| [[Demira Eriff]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 2,218
+| align="right" | 0.0508%
+| align="right" | 1109.00
+|-
+| [[Bain]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 280
+| align="right" | 0.0064%
+| align="right" | 280.00
+|-
+| [[Sorilea]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 205
+| align="right" | 0.0047%
+| align="right" | 205.00
+|-
+| [[Myrelle Berengari]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 588
+| align="right" | 0.0135%
+| align="right" | 588.00
+|-
+| [[Galina Casban]]
+| align="right" | 7
+| align="right" | 0.5076%
+| align="right" | 15,001
+| align="right" | 0.3435%
+| align="right" | 2143.00
+|-
+| [[Falion Bhoda]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 1,793
+| align="right" | 0.0411%
+| align="right" | 896.50
+|-
+| Seanchan Rider
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 129
+| align="right" | 0.0030%
+| align="right" | 129.00
+|-
+| [[Alviarin Freidhen]]
+| align="right" | 5
+| align="right" | 0.3626%
+| align="right" | 13,786
+| align="right" | 0.3157%
+| align="right" | 2757.20
+|-
+| [[Joline Maza]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,527
+| align="right" | 0.0350%
+| align="right" | 1527.00
+|-
+| [[Noal Charin]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 314
+| align="right" | 0.0072%
+| align="right" | 314.00
+|-
+| [[Cadsuane Melaidhrin]]
+| align="right" | 18
+| align="right" | 1.3053%
+| align="right" | 36,137
+| align="right" | 0.8276%
+| align="right" | 2007.61
+|-
+| [[Moridin]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 2,993
+| align="right" | 0.0685%
+| align="right" | 997.67
+|-
+| [[Reanne Corly]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 1,516
+| align="right" | 0.0347%
+| align="right" | 758.00
+|-
+| [[Seaine Herimon]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 12,136
+| align="right" | 0.2779%
+| align="right" | 4045.33
+|-
+| [[Maeric]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,127
+| align="right" | 0.0258%
+| align="right" | 1127.00
+|-
+| [[Shaidar Haran]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 230
+| align="right" | 0.0053%
+| align="right" | 230.00
+|-
+| [[Ethenielle Kirukon Materasu]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 3,917
+| align="right" | 0.0897%
+| align="right" | 3917.00
+|-
+| [[Gholam]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 402
+| align="right" | 0.0092%
+| align="right" | 402.00
+|-
+| [[Chulein]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,231
+| align="right" | 0.0282%
+| align="right" | 1231.00
+|-
+| [[Aran'gar]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 3,678
+| align="right" | 0.0842%
+| align="right" | 1839.00
+|-
+| [[Assid Bakuun]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,403
+| align="right" | 0.0321%
+| align="right" | 1403.00
+|-
+| [[Furyk Karede]]
+| align="right" | 4
+| align="right" | 0.2901%
+| align="right" | 13,428
+| align="right" | 0.3075%
+| align="right" | 3357.00
+|-
+| [[Kennar Miraj]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 3,189
+| align="right" | 0.0730%
+| align="right" | 1594.50
+|-
+| [[Bertome Saighan]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,141
+| align="right" | 0.0261%
+| align="right" | 1141.00
+|-
+| [[Varek]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,308
+| align="right" | 0.0300%
+| align="right" | 1308.00
+|-
+| [[Davram Bashere]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 5,096
+| align="right" | 0.1167%
+| align="right" | 2548.00
+|-
+| [[Abaldar Yulan]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 117
+| align="right" | 0.0027%
+| align="right" | 117.00
+|-
+| [[Toveine Gazal]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 7,805
+| align="right" | 0.1787%
+| align="right" | 3902.50
+|-
+| [[Daved Hanlon]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 7,590
+| align="right" | 0.1738%
+| align="right" | 3795.00
+|-
+| [[Asne Zeramene]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,662
+| align="right" | 0.0381%
+| align="right" | 1662.00
+|-
+| [[Mili Skane]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,087
+| align="right" | 0.0249%
+| align="right" | 1087.00
+|-
+| [[Tuon Athaem Kore Paendrag]]
+| align="right" | 9
+| align="right" | 0.6526%
+| align="right" | 25,512
+| align="right" | 0.5842%
+| align="right" | 2834.67
+|-
+| [[Bethamin Zeami]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 4,950
+| align="right" | 0.1134%
+| align="right" | 4950.00
+|-
+| [[Raefar Kisman]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 771
+| align="right" | 0.0177%
+| align="right" | 771.00
+|-
+| [[Slayer]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 3,297
+| align="right" | 0.0755%
+| align="right" | 1648.50
+|-
+| [[Shalon din Togara Morning Tide]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 11,351
+| align="right" | 0.2599%
+| align="right" | 5675.50
+|-
+| [[Elza Penfell]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 1,225
+| align="right" | 0.0281%
+| align="right" | 408.33
+|-
+| [[Barmellin]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 277
+| align="right" | 0.0063%
+| align="right" | 277.00
+|-
+| [[Timna]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 186
+| align="right" | 0.0043%
+| align="right" | 186.00
+|-
+| [[Cyndane]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 822
+| align="right" | 0.0188%
+| align="right" | 274.00
+|-
+| [[Eben Hopwil]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 474
+| align="right" | 0.0109%
+| align="right" | 474.00
+|-
+| [[Rodel Ituralde]]
+| align="right" | 12
+| align="right" | 0.8702%
+| align="right" | 33,025
+| align="right" | 0.7563%
+| align="right" | 2752.08
+|-
+| [[Gabrelle]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,873
+| align="right" | 0.0658%
+| align="right" | 2873.00
+|-
+| [[Yukiri]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 6,188
+| align="right" | 0.1417%
+| align="right" | 6188.00
+|-
+| [[Samitsu]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 9,655
+| align="right" | 0.2211%
+| align="right" | 9655.00
+|-
+| [[Elenia Sarand]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 6,642
+| align="right" | 0.1521%
+| align="right" | 6642.00
+|-
+| [[Pevara Tazanovni]]
+| align="right" | 12
+| align="right" | 0.8702%
+| align="right" | 26,485
+| align="right" | 0.6065%
+| align="right" | 2207.08
+|-
+| [[Galadedrid Damodred]]
+| align="right" | 22
+| align="right" | 1.5954%
+| align="right" | 29,491
+| align="right" | 0.6754%
+| align="right" | 1340.50
+|-
+| [[Beonin Marinye]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 4,906
+| align="right" | 0.1124%
+| align="right" | 4906.00
+|-
+| [[Arymilla Marne]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,702
+| align="right" | 0.0390%
+| align="right" | 1702.00
+|-
+| [[Loial]]
+| align="right" | 6
+| align="right" | 0.4351%
+| align="right" | 7,135
+| align="right" | 0.1634%
+| align="right" | 1189.17
+|-
+| [[Weilin Aldragoran]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,845
+| align="right" | 0.0423%
+| align="right" | 1845.00
+|-
+| [[Harine din Togara Two Winds]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 6,117
+| align="right" | 0.1401%
+| align="right" | 6117.00
+|-
+| [[Tarna Feir]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,179
+| align="right" | 0.0499%
+| align="right" | 2179.00
+|-
+| [[Birgitte Silverbow]]
+| align="right" | 4
+| align="right" | 0.2901%
+| align="right" | 11,884
+| align="right" | 0.2722%
+| align="right" | 2971.00
+|-
+| [[Renald Fanwar]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 3,841
+| align="right" | 0.0880%
+| align="right" | 3841.00
+|-
+| [[Falendre]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,794
+| align="right" | 0.0411%
+| align="right" | 1794.00
+|-
+| [[Tylee Khirgan]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,453
+| align="right" | 0.0333%
+| align="right" | 1453.00
+|-
+| [[Masema Dagar]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,449
+| align="right" | 0.0332%
+| align="right" | 1449.00
+|-
+| [[Leane Sharif]]
+| align="right" | 3
+| align="right" | 0.2175%
+| align="right" | 2,515
+| align="right" | 0.0576%
+| align="right" | 838.33
+|-
+| [[Adelorna Bastine]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,706
+| align="right" | 0.0391%
+| align="right" | 1706.00
+|-
+| [[Saerin Asnobar]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 2,011
+| align="right" | 0.0461%
+| align="right" | 1005.50
+|-
+| [[Jesse Bilal]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,635
+| align="right" | 0.0603%
+| align="right" | 2635.00
+|-
+| [[Malenarin Rai]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 3,023
+| align="right" | 0.0692%
+| align="right" | 3023.00
+|-
+| [[Almen Bunt]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,931
+| align="right" | 0.0671%
+| align="right" | 2931.00
+|-
+| [[Alliandre Maritha Kigarin]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,480
+| align="right" | 0.0339%
+| align="right" | 1480.00
+|-
+| [[Androl Genhald]]
+| align="right" | 11
+| align="right" | 0.7977%
+| align="right" | 22,114
+| align="right" | 0.5064%
+| align="right" | 2010.36
+|-
+| [[Olver]]
+| align="right" | 7
+| align="right" | 0.5076%
+| align="right" | 6,559
+| align="right" | 0.1502%
+| align="right" | 937.00
+|-
+| [[Barriga]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 456
+| align="right" | 0.0104%
+| align="right" | 456.00
+|-
+| [[Bayrd]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,703
+| align="right" | 0.0619%
+| align="right" | 2703.00
+|-
+| [[Talmanes]]
+| align="right" | 8
+| align="right" | 0.5801%
+| align="right" | 9,485
+| align="right" | 0.2172%
+| align="right" | 1185.62
+|-
+| [[Lyrelle]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,111
+| align="right" | 0.0483%
+| align="right" | 2111.00
+|-
+| [[Uno Nomesta]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,053
+| align="right" | 0.0470%
+| align="right" | 2053.00
+|-
+| [[Logain Ablar]]
+| align="right" | 5
+| align="right" | 0.3626%
+| align="right" | 4,033
+| align="right" | 0.0924%
+| align="right" | 806.60
+|-
+| [[Tam al'Thor]]
+| align="right" | 5
+| align="right" | 0.3626%
+| align="right" | 4,265
+| align="right" | 0.0977%
+| align="right" | 853.00
+|-
+| [[Rhuarc]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,411
+| align="right" | 0.0323%
+| align="right" | 1411.00
+|-
+| [[Silviana Brehon]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 821
+| align="right" | 0.0188%
+| align="right" | 821.00
+|-
+| [[Juilin Sandar]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 647
+| align="right" | 0.0148%
+| align="right" | 647.00
+|-
+| [[Gerard Arganda]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 2,323
+| align="right" | 0.0532%
+| align="right" | 2323.00
+|-
+| [[Ila]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 838
+| align="right" | 0.0192%
+| align="right" | 838.00
+|-
+| [[Hurin]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 558
+| align="right" | 0.0128%
+| align="right" | 558.00
+|-
+| [[Berelain]]
+| align="right" | 2
+| align="right" | 0.1450%
+| align="right" | 1,705
+| align="right" | 0.0390%
+| align="right" | 852.50
+|-
+| [[Mazrim Taim]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,120
+| align="right" | 0.0256%
+| align="right" | 1120.00
+|-
+| [[Shendla]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 65
+| align="right" | 0.0015%
+| align="right" | 65.00
+|-
+| [[Jur Grady]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 823
+| align="right" | 0.0188%
+| align="right" | 823.00
+|-
+| [[Atal Mishraile]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 1,400
+| align="right" | 0.0321%
+| align="right" | 1400.00
+|-
+| [[Gaul]]
+| align="right" | 1
+| align="right" | 0.0725%
+| align="right" | 896
+| align="right" | 0.0205%
+| align="right" | 896.00
+|}</noinclude><noinclude>
+[[Category:Statistical analysis| ]]</noinclude>
+[[Category:POV character]]

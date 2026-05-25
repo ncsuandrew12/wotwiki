@@ -1,0 +1,10 @@
+== Summary ==
+{{Image
+|ImageType1  = Fan Art
+|License     = GFDL
+|ImageType2  = Character
+| Description             = Two windfinders of the Atha'an Miere. The front one an experienced windfinder, and the back one her apprentice
+
+| Source                  = https://www.artstation.com/artwork/QraEb8
+| Artist                  = Niek Schlosser
+}}

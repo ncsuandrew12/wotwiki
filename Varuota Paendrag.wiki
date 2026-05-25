@@ -1,0 +1,22 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| height=
+| eyes=
+| hair=
+| rank=Empress
+| status=Dead
+| nationality=Seanchan
+| gender=Female
+| mentioned={{amol|24}}
+| lastmentioned={{amol|24}}
+}}'''Varuota''' is [[Fortuona Athaem Devi Paendrag]]'s great-great-great-grandmother.{{ref|{{twotc}}, Varuota|Varuota}}
+
+== History ==
+Fortuona recalled her saying ''"Sa'rabat shaiqen nai batain pyast,"'' meaning "a woman is most resourceful with a knife at her throat." {{Ref||Varuota}}
+
+{{Notes}}
+{{Short}}
+[[Category:The Blood]]
+[[Category:Empresses]]
+{{DEFAULTSORT:Paendrag, Varuota}}

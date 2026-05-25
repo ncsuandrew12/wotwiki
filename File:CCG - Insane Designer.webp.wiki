@@ -1,0 +1,7 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = CCG full card
+| Description             = [[The Wheel of Time Collectible Card Game]] - Insane Designer
+| Source                  = https://i.ebayimg.com/images/g/mP0AAeSw3SZowwjX/s-l1600.webp
+| Artist                  = 
+}}

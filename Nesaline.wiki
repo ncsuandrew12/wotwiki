@@ -1,0 +1,25 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Nesaline
+| status=Dead
+| nationality=Caembarin
+| rank=Queen
+| title=Queen of [[Caembarin]]
+| gender=Female
+| mentioned={{Bwb|11}}
+| lastmentioned={{Bwb|11}}
+}}
+'''Nesaline''' was a Queen of [[Caembarin]].
+
+== History ==
+Nesaline reigned as the Queen of Caembarin during the rise of [[Artur Hawkwing]]
+
+In the summer of {{fy|943}}, Nesaline moved her armies into [[Shandalle]] along with First Counselor [[Almindhra]] of [[Tova]] and King [[Tefan]] of [[Khodomar]]. The reasons for this are unclear, but some sources speculate that it was due to a fear of a man who would not submit to [[White Tower]] law and who refused an audience with the [[Amyrlin Seat]], [[Bonwhin Meraighdin]].
+
+Hawkwing fought back, and by the end of FY 943 he had conquered half of Tova, as well as large parts of Caembarin and Khodomar.{{ref/book|bwb|11}}
+
+{{notes}}
+
+[[Category:Historical people]]
+[[Category:People of the Free Years]]

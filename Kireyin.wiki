@@ -1,0 +1,21 @@
+{{ character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| occupation=Soldier
+| title=Lord
+| affiliation=Perrin Aybara
+| gender=Male
+| build=Lean
+| appeared={{cot|25}}
+| lastappeared={{cot|27}}
+| living=cot
+}}
+'''Kireyin''' is an officer in the [[Ghealdan]] army. He is nobly born. 
+
+== Appearance ==
+He is lean with a haughty gaze.
+
+== Activities ==
+[[Gerard Arganda]] assigns him to lead the Ghealdan troops to [[So Habor]]. While there he sees a ghost. He is left in charge of over seeing the winnowing process of the grain when [[Perrin Aybara]] [[Travel]]s back to camp.
