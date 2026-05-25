@@ -36,16 +36,64 @@ class DownloadWiki(Command):
             description="Download everything on the wiki."
         )
         parser.add_argument(
-            "--include-images",
+            "--include-media",
             action="store_true",
             default=False,
-            help="If set, the script will include images in the download.")
+            help="If set, the script will include media in the download.")
+        parser.add_argument(
+            "--latest",
+            action="store_true",
+            default=False,
+            help="""By default, the script downloads the last revision before downloading began in order to obtain a
+ snapshot of the wiki at a particular point in time and ignore edits made during the download process. If set, this
+ parameter will download the latest version of each page, which is an order of magnitude faster at the cost of
+ downloading a snapshot that may not truly represent the wiki at any particular point in time.""")
         parser.add_argument(
             "--out-dir",
             action="store",
-            default="./wot.fandom.com",
+            default="./wiki",
             help="Directory to store the downloads.")
         return parser
+
+    def get_namespace_description(self, ns):
+        if ns == -2:
+            return "Media"
+        elif ns == -1:
+            return "Special"
+        elif ns == 0:
+            return "Main"
+        elif ns == 1:
+            return "Talk"
+        elif ns == 2:
+            return "User"
+        elif ns == 3:
+            return "User talk"
+        elif ns == 4:
+            return "Project"
+        elif ns == 5:
+            return "Project talk"
+        elif ns == 6:
+            return "File"
+        elif ns == 7:
+            return "File talk"
+        elif ns == 8:
+            return "MediaWiki"
+        elif ns == 9:
+            return "MediaWiki talk"
+        elif ns == 10:
+            return "Template"
+        elif ns == 11:
+            return "Template talk"
+        elif ns == 12:
+            return "Help"
+        elif ns == 13:
+            return "Help talk"
+        elif ns == 14:
+            return "Category"
+        elif ns == 15:
+            return "Category talk"
+        else:
+            return f"{ns}"
     
     def run_command(self):
         try:
@@ -70,23 +118,33 @@ class DownloadWiki(Command):
             page_cnt = 0
             failed_pages = []
             ticker = Ticker(10)
+            start_time = pywikibot.Timestamp.now()
             for ns in self.site.namespaces:
-                self.print_n(f"Namespace {ns}", end="", flush=True)
-                if int(ns) in [-2, -1]: # Skip images and special
+                nsn = self.get_namespace_description(ns)
+                self.print_n(f"Namespace {ns}: {nsn}: ", end="", flush=True)
+                if self.parsed_args.include_media != True and int(ns) == -2: # Skip images
                     self.print_n("")
-                    self.print_n(f"Skipping namespace {ns}")
+                    self.print_n(f"Skipping namespace {ns}: {nsn}: include_media: {self.parsed_args.include_media}")
                     continue
-                # TODO: Don't skip the canonical namespaces
-                if int(ns) >= 0 and int(ns) <= 15:
+                if int(ns) == -1: # Skip special
                     self.print_n("")
-                    self.print_n(f"Skipping namespace {ns}")
+                    self.print_n(f"Skipping namespace {ns}: {nsn}")
                     continue
+                # Skip the Media and Special namespaces
+                # if int(ns) >= 0 and int(ns) <= 15:
+                #     self.print_n("")
+                #     self.print_n(f"Skipping namespace {ns}")
+                #     continue
                 all_pages_gen = self.site.allpages(namespace=ns)
                 self.preloaded_pages = pagegenerators.PreloadingGenerator(all_pages_gen, groupsize=50, quiet=True)
                 first_status_log = True
                 ticker.restart()
                 # TODO Get version of page as it existed when script started runnning.
                 for page in self.preloaded_pages:
+                    text = page.text
+                    if self.parsed_args.latest == False:
+                        for rev in page.revisions(starttime=start_time, total=1):
+                            text = page.getOldVersion(oldid=rev.revid)
                     if ticker.tick() == True:
                         if not first_status_log and (self.parsed_args.verbosity == Verbosity.NORMAL):
                             print("")
@@ -98,13 +156,20 @@ class DownloadWiki(Command):
                     try:
                         page.get(get_redirect=True)
                         os.makedirs(mod_queue_dir_path, exist_ok=True)
-                        filename = self.sanitize_str_for_filename(page.title())
-                        page_path = f"{self.parsed_args.out_dir}/{filename}.wiki"
+                        filename = page.title()
+                        ext = ".wiki"
+                        if re.match(r"^Module\:[^/]+$", page.title()):
+                            ext = ".lua"
+                        elif re.match(r".*\.json$", page.title()):
+                            filename = re.sub(r"\.json$", "", filename)
+                            ext = ".json"
+                        filename = self.sanitize_str_for_filename(filename)
+                        page_path = f"{self.parsed_args.out_dir}/{filename}{ext}"
                         os.makedirs(os.path.dirname(page_path), exist_ok=True)
                         if pathlib.Path(page_path).exists():
                             raise Exception(f"Page path {page_path} already exists, skipping page '{page.title()}'.")
                         with open(page_path, "w") as f:
-                            f.write(page.text)
+                            f.write(text)
                     except Exception as e:
                         err_log = f"Error processing page '{page.title()}':"
                         log.error(err_log, exc_info=True)
@@ -131,7 +196,7 @@ class DownloadWiki(Command):
         log.debug("Processing arguments.")
 
     def sanitize_str_for_filename(self, s):
-        s = re.sub(r"[^a-zA-Z0-9_\-\\\/ \'\:]", "_", s)
+        s = re.sub(r"[^a-zA-Z0-9_\-\\\/ \'\:\.]", "_", s)
         return s
 
 exit(run_command(DownloadWiki(sys.argv)))
