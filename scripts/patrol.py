@@ -91,8 +91,9 @@ regex_modifiers = [
     [ "Link AB dates.", r"([^\[\d])(\d{1,4}) AB([^A-Za-z\]\|])([^\]])", r"\1{{ab|\2}}\3\4", 0, re.IGNORECASE ], # Needs to be tested
     # [ "Link FY dates (range).", r"([^A-Za-z\[]])FY (\d{1,4})(\s*-\s*)(\d{1,4})([^\|\]])", r"\1{{fy|\2}}\3{{fy|\4}}\5", 0, re.IGNORECASE ], # Needs to be tested
     [ "Link FY dates.", r"([^A-Za-z\[]])FY (\d{1,4})([^\|\]])", r"\1{{fy|\2}}\3", 0, re.IGNORECASE ], # Needs to be tested
+    # TODO Enhance to handle (or ignore) specific days (e.g. 999-9-14 NE)
     # [ "Link NE dates (range).", r"([^\[])(\d{1,4})(\s*-\s*)(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3{{ne|\4}}\5\6", 0, re.IGNORECASE ],
-    [ "Link NE dates.", r"([^\[\d])(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3\4", 0, re.IGNORECASE ],
+    # [ "Link NE dates.", r"([^\[\d])(\d{1,4}) NE([^A-Za-z\]\|])([^\]])", r"\1{{ne|\2}}\3\4", 0, re.IGNORECASE ],
     [ "Fix Wolf Dreams chapter link", r"(\[\[)wolf dreams([\|\]])", r"\1Wolf Dreams\2", 0, re.IGNORECASE ], # Needs to be tested
 ]
 # italicize_modifiers = [ "Tel'aran'rhiod", "sul'dam", "damane", "ter'angreal", "sa'angreal", "angreal", "grolm", "gholam" ] # Needs to be tested, particulary with respect to words being in filenames and link display text.
@@ -437,7 +438,7 @@ class Patrol(Command):
                             raise Exception(f"Post-save text does not match expected text for '{mod.title}' following supposedly successful save.")
                         os.remove(pre_path)
                         os.remove(post_path)
-                    pages_saved += 1
+                        pages_saved += 1
                 except Exception as e:
                     err_log = f"Error saving page '{mod.title}'"
                     log.error(err_log, exc_info=True)
