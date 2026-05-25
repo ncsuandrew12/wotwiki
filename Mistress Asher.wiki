@@ -1,0 +1,9 @@
+{{Character|name = Mistress Asher|status = Alive|gender = Female|hair = Gray|appeared ={{ns|17}}|lastappeared ={{ns|17}}|nationality = Unknown nationality
+|image=Wheel-icon.svg
+|living=ns}}'''Mistress Asher''' was a merchant traveling through [[Canluum]] who was also a wilder.{{ref|{{twotc}}, Asher, Mistress|Asher}} She was staying at [[The Gates of Heaven]] where she encountered [[Moiraine Damodred]] along with six other [[Aes Sedai]].{{ref/book|0|7}} Because she was past middle-age and displaying grey hair, the Aes Sedai mutually agreed that she was too old to become a [[novice]].{{ref||Asher}}{{ref/book|0|7}}
+
+{{notes}}
+{{short}}
+[[Category:Channelers]]
+[[Category:Wilders]]
+{{DEFAULTSORT:Asher, Mistress}}

@@ -1,0 +1,44 @@
+{{infobox battle
+|battle= Aiel War
+|release = 
+|image = Spine of the World.jpg
+|caption = The Aiel pouring over the Spine of the World
+|location = Eastern [[Westlands]]
+|date = [[Timeline#976 NE|976&ndash;978 NE]]
+|result = Aiel victory
+|comba = '''[[Grand Alliance]]:'''<hr>[[File:ShienarFlag.png|15px|border]] [[Shienar]]<br>[[File:AndorFlag.png|15px|border]] [[Andor]]<br>[[File:IllianFlag.png|15px|border]] [[Illian]]<br>[[File:TearFlag.png|15px|border]] [[Tear]]<br>[[File:ArafelFlag.png|15px|border]] [[Arafel]]<br>[[File:TarValonFlag.png|15px|border]] [[Tar Valon]]<br>[[File:CairhienFlag.png|15px|border]] [[Cairhien]]<br>[[File:GhealdanFlag.png|15px|border]] [[Ghealdan]]<br>[[File:AmadiciaFlag.png|15px|border]] [[Amadicia]]<br>[[File:CotL.png|15px|border]] [[Children of the Light]]<br>[[File:MurandyFlag.png|15px|border]] [[Murandy]]<br>[[File:AltaraFlag.png|15px|border]] [[Altara]]<br>[[File:AradDomanFlag.png|15px|border]] [[Arad Doman]]<br>[[File:MayeneFlag.png|15px|border]] [[Mayene]]
+|combb = '''[[Aiel]]:'''<hr>[[Reyn]]<br>[[Nakai]]<br>[[Taardad]]<br>[[Shaarad]]
+|cmda = '''Shienar:'''<br>[[Agelmar Jagad]]<br>'''Andor:'''<br>[[Aranvor Naldwinn]]<br>'''Illian:'''<br>[[Mattin Stepaneos den Balgar]]<br>'''Tear:'''<br>[[Astoril Damara]]<br>'''Arafel:'''<br>[[Hirare Nachiman]]<br>'''Tar Valon:'''<br>[[Azil Mareed]]<br>[[Marya Somares]]<br>'''Cairhien:'''<br>[[Laman Damodred]]<br>'''Ghealdan:'''<br>[[Aleshin Talvaen]]<br>'''Amadicia:'''<br>[[Aeman Senhold]]<br>'''Children:'''<br>[[Pedron Niall]]<br>'''Arad Doman:'''<br>[[Rodel Ituralde]]<br>'''Others:'''<br>[[al'Lan Mandragoran]]
+|cmdb = '''Taardad:'''<br>[[Janduin]]
+|stra = Shienar: 29,000<br>Andor: 28,000<br>Illian: 26,000<br>Tear 24,000<br>Arafel: 21,000<br>Tar Valon: 12,000<br>Cairhien: 7,000<br>Ghealdan: 5,000<br>Amadicia: 4,000<br>Children: 4,000<br>Murandy: 4,000<br>Altara: 3,500<br>Arad Doman: ?<br>Mayene: ?<br>Malkier: ?<br><small>(By the Battle of the Shining Walls)</small>
+|strb = Total: 70-80,000<br><small>(By the Battle of the Shining Walls)</small>
+|casa = Heavy
+|casb = Heavy
+|}}
+
+The '''Aiel War''' was a massive invasion of the [[Aiel]] into the [[Westlands]] in numbers never known in prior history. Although it was referred to as a war by [[Wetlander]]s, the Aiel simply considered it as punishment for [[Laman Damodred]]'s offense.
+
+==Cause==
+During the breaking of the world, the Aiel (who at that time still held to the [[Way of the Leaf]]), were allowed to collect water by a group of people, a kindness the Aiel experienced from nowhere else. This water gift was eventually traced to the people of [[Cairhien]], and the Aiel presented a [[chora]] tree sapling, [[Avendoraldera]], to Cairhien in [[566 NE]] in thanks, and allowed them free passage through the [[Aiel Waste]].
+
+The truce stood for more than 400 years. But in [[976 NE]], the then current king, Laman Damodred, cut down the tree to build a throne for himself. The cutting of Avendoraldera, which the Aiel considered sacred, was considered a sin by the Aiel and a betrayal of the truce. It was decided that Laman had to be executed for his sin, and four Aiel clans poured over the [[Spine of the World]] to carry out this execution.
+
+==The War==
+When the Aiel invaded, the nations of the Wetlands initially dismissed the threat and disparaged them as nothing more than savages. This perception changed as the Aiel overran Cairhien and put their capital to the torch, forcing Laman to flee. After countless battles and cities lost to the Aiel, the nations finally decided to unite together to combat the threat, forming the [[Great Coalition]]. Although the force opposing the Aiel greatly outnumbered them, the tactical acumen of the Aiel leadership and the individual skill of the Aiel warriors continued to carry them to victory time and again. The war carried on for over two years in a huge, bloody struggle for both sides. During this time, Cairhien itself was attacked and nearly burned to the ground.
+
+==End of War==
+The last battle of the war, the [[Battle of the Shining Walls]], was fought outside of [[Tar Valon]], in the winter of [[978 NE]] at the base of [[Dragonmount]]. It is here that the Aiel succeeded in killing Laman Damodred, and with his death the Aiel immediately ceased fighting and returned to the [[Aiel Waste|Three-fold Land]] now that the mission was complete.
+
+==Aftermath==
+After the war ended, and the Aiel returned to their own land, the Wetlands began to return to its original state, the unified nations rebuilding their barriers. The [[White Tower]] sent members of the [[Gray Ajah]] to each nation to try and maintain the peace between the countries that the Aiel War created, but the effort was generally unsuccessful.
+
+Cairhien began to rebuild its city, but the process continues to the present day, with the burned-down [[Topless Towers]] of Cairhien still uncompleted.
+
+The invasion, however, created a bad reputation for the Aiel, darkening their names as barbarians even more. Tensions between Aiel and the Cairhien have never lessened since, with the Aiel referring to all Cairhienin as "treekillers". The agreement of water and passage through the waste between the two groups, of course, had ended. Somewhat amusingly, the commanders of the Westland forces who initially believed that their staunch defense in the Battle of the Shining Walls had been responsible for the Aiel retreat, learned later that the Aiel had in fact not actually been fighting to defeat them but rather simply to kill Laman. However, they were so embarrassed by this fact that they never corrected the public record.
+
+== In the television series ==
+* {{TVlink|Aiel War}} on {{TVlink}}
+
+[[es:Guerra de Aiel]]
+[[Category:New Era]]
+[[Category:Wars]]

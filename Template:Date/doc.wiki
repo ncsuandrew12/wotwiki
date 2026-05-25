@@ -1,0 +1,26 @@
+==Purpose of template==
+
+Format a given date according to user preferences.
+
+==How to use==
+
+<pre>{{Date}}
+{{Date|date}}</pre>
+
+==Examples==
+
+===Current date===
+<pre>{{Date}}</pre>
+{{Date}}
+
+===YYYY-M-D===
+<pre>{{Date|1990-1-15}}</pre>
+{{Date|1990-1-15}}
+
+===D Mon, YYYY===
+<pre>{{Date|15 Jan 1990}}</pre>
+{{Date|15 Jan 1990}}
+
+===Month D, YYYY===
+<pre>{{Date|January 15 1990}}</pre>
+{{Date|January 15 1990}}

@@ -1,0 +1,6 @@
+<div class="forumheader">'''Forums:''' [[Forum:Index|Index]] > [[Forum:{{{1}}}|{{{1}}}]] > {{PAGENAME}}</div><br />
+
+[[Category:Forum:{{{1}}}]]
+<noinclude>
+[[Category:Administrative templates|{{PAGENAME}}]]
+</noinclude>

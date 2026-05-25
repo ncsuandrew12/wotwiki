@@ -1,0 +1,21 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=250px
+| nationality=Aiel
+| gender=Male
+| occupation=Clan chief
+| affiliation=
+| height=Tall
+| build=
+| hair=
+| status=Foreseen
+| clan=Tomanelle
+| sept=Unknown sept
+| mentioned={{tom|49}}
+}}
+
+'''Alalved''' will be the clan chief of the [[Tomanelle]] Aiel seen by [[Aviendha]] in the [[Glass columns]] of [[Rhuidean]].
+
+Seventeen years after the [[Last Battle]] Alalved attends the meeting where the Aiel decide to go to war with the [[Seanchan]] where he points out that the Aiel were excluded from [[The Dragon's Peace]].
+[[Category:Foreseen people]]
+[[Category:Short pages]]

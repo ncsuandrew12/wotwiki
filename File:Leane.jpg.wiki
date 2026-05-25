@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| ImageType2         = CCG
+| Description        = [[Leane Sharif]].
+| Source             = The "[[Dark Prophecies]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Tina Druce-Hoffman
+}}

@@ -1,0 +1,21 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Female
+| appeared={{wh|15}}
+| lastappeared={{wh|15}}
+| living=wh
+}}
+'''Gillin''' is a performer in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]].
+
+==Appearance==
+[[Olver]], who is taken with Gillin, says that her lips are like ripe cherries.{{ref/book|9|15}}
+
+==Activities==
+Gillin is one of several women who have taken an interest in Olver. When he leaves the show with [[Matrim Cauthon]], Olver spends time with Gillin, [[Adria]], [[Jameine]], [[Merici]] and [[Neilyn]].{{ref/book|9|15}}
+
+{{notes}}

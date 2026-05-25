@@ -1,0 +1,60 @@
+{{character
+| image=Kerene Nagashi.jpg
+| imagesize = 250px
+| ajah=Green
+| gender=Female
+| nationality=Unknown nationality
+| affiliation= White Tower
+| rank=Aes Sedai
+| title=[[Captain-General (Green Ajah)]]
+| eyes=Nearly black
+| hair=Short, dark, touched with white
+| status=Dead
+| death={{ne|979}}
+| appeared={{ns|7}}
+| lastappeared={{ns|8}}
+| lastmentioned={{ns|18}}
+| birth = {{ne|793}}
+| occupation=Ajah Head}}
+'''Kerene Nagashi''' was an [[Aes Sedai]] of the [[Green Ajah]] and its [[Captain-General (Green Ajah)|Captain-General]]. She was also one of [[Tamra Ospenya's Searchers]].
+
+==Appearance and Personality==
+She was tall and beautiful with short dark hair lightly touched with white. Her eyes were nearly black. 
+
+She was reputed to adhere to the strictest letter of the law no matter her own feelings, whether pity or contempt.{{ref/book|0|7}}
+
+==Abilities and Strength==
+Kerene was [[Strength in the One Power among Aes Sedai|exceptionally strong]] in the One Power, with a level of {{opsl|17}}.{{ref|{{twotc}}, Kerene Nagashi|comp}} She stands above [[Moiraine Damodred]] and [[Siuan Sanche]], but lower than [[Cadsuane Melaidhrin]]. Cadsuane said that "no one had come to the Tower who could match [herself] in a thousand years. No one to match Kerene or [[Meilyn Arganya|Meilyn]] in almost six hundred." There was "a sharp drop" between Kerene and Moiraine in terms of strength.{{ref/book|0|17}}  
+
+==History==
+Kerene was born in {{ne|793}}.{{ref||comp}} Her last name seems to indicate either [[Borderlands|Borderlander]] or [[Domani]] origin, although her nationality is never confirmed. 
+
+We don't have details on her training and enrollment dates, but she likely was raised to the shawl around {{ne|820}}, making her a cohort of fellow Green sisters [[Adelorna Bastine]] and [[Merise Haindehl]] and [[Sitter|Sitters]] [[Saerin Asnobar]] and [[Suana Dragand]], among others.
+
+She came from a home of rather modest character and had four siblings; two sisters and two brothers.
+
+Kerene had two [[Warder]]s, [[Karile]] and [[Stepin]].
+
+She was [[Captain-General (Green Ajah)|Captain-General]] of the Green Ajah.{{ref||comp}}
+
+==Activities==
+[[Tamra Ospenya]] personally hands [[Moiraine Damodred]] a letter to take to Kerene.{{ref/book|0|7}}
+
+She had been Aes Sedai for well over 100 years when she was hand-picked to become one of [[Tamra Ospenya]]'s Searchers to find the [[Dragon Reborn]] after Tamra heard [[Gitara Moroso]]'s [[Foretelling]]. 
+
+It was generally considered that she would be the next [[Amyrlin Seat]] after [[Sierin Vayu]], which infuriated Sierin and made Kerene nervous.{{ref||comp}}
+
+===Death===
+She reportedly fell off a ship in the [[River Alguenya]] during a storm and drowned. But in truth, she was killed by the [[Black Ajah]].{{ref/book|0|18}}{{ref||comp}} She was around 185 years old at the time of her murder.
+
+==In the television series==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Kerene Nagashi}} is played by actress {{TVlink|Clare Perkins}}.
+{{notes}}
+{{DEFAULTSORT:Nagashi, Kerene}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Nagashi, Kerene}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

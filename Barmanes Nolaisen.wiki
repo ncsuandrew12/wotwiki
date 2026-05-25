@@ -1,0 +1,22 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| ewot=Barmanes
+| title=Lord
+| nationality=Cairhienin
+| gender=Male
+| affiliation=Cha Faile
+| status=Alive
+| appeared={{kod|12}}
+| lastappeared={{kod|12}}
+| living=kod
+}}
+'''Barmanes Nolaisen''' is a member of [[Cha Faile]]. His sister is [[Camaille Nolaisen]].
+
+== Activities ==
+[[Faile Bashere]] takes Barmanes into her service. He then Travels to [[Ghealdan]] with Faile and [[Perrin Aybara]] and his army to track down [[Masema Dagar]].
+
+He accompanies Perrin to the town of [[Almizar]]. While there he joins some [[Seanchan]] in dice and attempts to find out any news or rumors during the process. When Perrin is struck with an arrow, Barmanes is the one who pulls it out.
+
+{{DEFAULTSORT:Nolaisen, Barmanes}}
+[[Category:Eyes-and-ears]]

@@ -1,0 +1,25 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| nationality=Atha'an Miere
+| ewot=Nestelle sakura
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Windfinder
+| appeared={{wh|31}}
+| lastappeared={{wh|31}}
+| lastmentioned={{cot|1}}
+| living=cot
+}}'''Nestelle din Sakura South Star''' is an ''[[Atha'an Miere]]'' [[Windfinder]] and former [[Damane]].{{ref|{{twotc}}, Nestelle din Sakura South Star}}
+
+== Activities ==
+She was captured during the [[Seanchan]] attack on [[Ebou Dar]] and made ''damane''. 
+
+[[Matrim Cauthon]] stole into her sleeping room where she was held in the ''damane'' kennels and freed her from her ''[[a'dam]]''.{{ref/book|9|31}} In return he taught her how to unlock more ''a'dam'' by herself. Mat instructed her to wait three hours and then release as many of the captive Sea Folk ''damane'' as she could before fighting her way to freedom. 
+
+It is unknown whether she was killed, recaptured, or managed to escape in the uprising that ensued. 
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Sakura South Star, Nestelle din}}
+[[Category:Channelers]]

@@ -1,0 +1,3004 @@
+[
+	{
+		"wot_series": true,
+		"number": 0,
+		"title": "New Spring",
+		"abbrev": "NS",
+		"chapters": [
+			{
+				"number": 1,
+				"title": "The Hook"
+			},
+			{
+				"number": 2,
+				"title": "A Wish Fulfilled"
+			},
+			{
+				"number": 3,
+				"title": "Practice"
+			},
+			{
+				"number": 4,
+				"title": "Leaving the Tower"
+			},
+			{
+				"number": 5,
+				"title": "The Human Heart"
+			},
+			{
+				"number": 6,
+				"title": "Surprises"
+			},
+			{
+				"number": 7,
+				"title": "The Itch"
+			},
+			{
+				"number": 8,
+				"title": "Shreds of Serenity"
+			},
+			{
+				"number": 9,
+				"title": "It Begins"
+			},
+			{
+				"number": 10,
+				"title": "It Finishes"
+			},
+			{
+				"number": 11,
+				"title": "Just Before Dawn"
+			},
+			{
+				"number": 12,
+				"title": "Entering Home"
+			},
+			{
+				"number": 13,
+				"title": "Business in the City"
+			},
+			{
+				"number": 14,
+				"title": "Changes"
+			},
+			{
+				"number": 15,
+				"title": "Into Canluum"
+			},
+			{
+				"number": 16,
+				"title": "The Deeps"
+			},
+			{
+				"number": 17,
+				"title": "An Arrival"
+			},
+			{
+				"number": 18,
+				"title": "A Narrow Passage"
+			},
+			{
+				"number": 19,
+				"title": "Pond Water"
+			},
+			{
+				"number": 20,
+				"title": "Breakfast in Manala"
+			},
+			{
+				"number": 21,
+				"title": "Some Tricks of the Power"
+			},
+			{
+				"number": 22,
+				"title": "Keeping Custom"
+			},
+			{
+				"number": 23,
+				"title": "The Evening Star"
+			},
+			{
+				"number": 24,
+				"title": "Making Use of Invisibility"
+			},
+			{
+				"number": 25,
+				"title": "An Answer"
+			},
+			{
+				"number": 26,
+				"title": "When to Surrender"
+			},
+			{
+				"type": "epilogue"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 1,
+		"title": "The Eye of the World",
+		"abbrev": "TEoTW",
+		"chapters": [
+			{
+				"title": "Dragonmount",
+				"type": "prologue"
+			},
+			{
+				"title": "Ravens",
+				"type": "prologue",
+				"book_subpage": "Ravens"
+			},
+			{
+				"number": 1,
+				"title": "An Empty Road"
+			},
+			{
+				"number": 2,
+				"title": "Strangers"
+			},
+			{
+				"number": 3,
+				"title": "The Peddler"
+			},
+			{
+				"number": 4,
+				"title": "The Gleeman"
+			},
+			{
+				"number": 5,
+				"title": "Winternight"
+			},
+			{
+				"number": 6,
+				"title": "The Westwood"
+			},
+			{
+				"number": 7,
+				"title": "Out of the Woods"
+			},
+			{
+				"number": 8,
+				"title": "A Place of Safety"
+			},
+			{
+				"number": 9,
+				"title": "Tellings of the Wheel"
+			},
+			{
+				"number": 10,
+				"title": "Leavetaking"
+			},
+			{
+				"number": 11,
+				"title": "The Road to Taren Ferry"
+			},
+			{
+				"number": 12,
+				"title": "Across the Taren"
+			},
+			{
+				"number": 13,
+				"title": "Choices"
+			},
+			{
+				"number": 14,
+				"title": "The Stag and Lion"
+			},
+			{
+				"number": 15,
+				"title": "Strangers and Friends"
+			},
+			{
+				"number": 16,
+				"title": "The Wisdom"
+			},
+			{
+				"number": 17,
+				"title": "Watchers and Hunters"
+			},
+			{
+				"number": 18,
+				"title": "The Caemlyn Road"
+			},
+			{
+				"number": 19,
+				"title": "Shadow's Waiting"
+			},
+			{
+				"number": 20,
+				"title": "Dust on the Wind"
+			},
+			{
+				"number": 21,
+				"title": "Listen to the Wind"
+			},
+			{
+				"number": 22,
+				"title": "A Path Chosen"
+			},
+			{
+				"number": 23,
+				"title": "Wolfbrother"
+			},
+			{
+				"number": 24,
+				"title": "Flight Down the Arinelle"
+			},
+			{
+				"number": 25,
+				"title": "The Traveling People"
+			},
+			{
+				"number": 26,
+				"title": "Whitebridge"
+			},
+			{
+				"number": 27,
+				"title": "Shelter from the Storm"
+			},
+			{
+				"number": 28,
+				"title": "Footprints in Air"
+			},
+			{
+				"number": 29,
+				"title": "Eyes Without Pity"
+			},
+			{
+				"number": 30,
+				"title": "Children of Shadow"
+			},
+			{
+				"number": 31,
+				"title": "Play for Your Supper"
+			},
+			{
+				"number": 32,
+				"title": "Four Kings in Shadow"
+			},
+			{
+				"number": 33,
+				"title": "The Dark Waits"
+			},
+			{
+				"number": 34,
+				"title": "The Last Village"
+			},
+			{
+				"number": 35,
+				"title": "Caemlyn"
+			},
+			{
+				"number": 36,
+				"title": "Web of the Pattern"
+			},
+			{
+				"number": 37,
+				"title": "The Long Chase"
+			},
+			{
+				"number": 38,
+				"title": "Rescue"
+			},
+			{
+				"number": 39,
+				"title": "Weaving of the Web"
+			},
+			{
+				"number": 40,
+				"title": "The Web Tightens"
+			},
+			{
+				"number": 41,
+				"title": "Old Friends and New Threats"
+			},
+			{
+				"number": 42,
+				"title": "Remembrance of Dreams"
+			},
+			{
+				"number": 43,
+				"title": "Decisions and Apparitions"
+			},
+			{
+				"number": 44,
+				"title": "The Dark Along the Ways"
+			},
+			{
+				"number": 45,
+				"title": "What Follows in Shadow"
+			},
+			{
+				"number": 46,
+				"title": "Fal Dara"
+			},
+			{
+				"number": 47,
+				"title": "More Tales of the Wheel"
+			},
+			{
+				"number": 48,
+				"title": "The Blight"
+			},
+			{
+				"number": 49,
+				"title": "The Dark One Stirs"
+			},
+			{
+				"number": 50,
+				"title": "Meetings at the Eye"
+			},
+			{
+				"number": 51,
+				"title": "Against the Shadow"
+			},
+			{
+				"number": 52,
+				"title": "Neither Beginning Nor End"
+			},
+			{
+				"number": 53,
+				"title": "The Wheel Turns"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 2,
+		"title": "The Great Hunt",
+		"abbrev": "TGH",
+		"chapters": [
+			{
+				"title": "In the Shadow",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "The Flame of Tar Valon"
+			},
+			{
+				"number": 2,
+				"title": "The Welcome"
+			},
+			{
+				"number": 3,
+				"title": "Friends and Enemies"
+			},
+			{
+				"number": 4,
+				"title": "Summoned"
+			},
+			{
+				"number": 5,
+				"title": "The Shadow in Shienar"
+			},
+			{
+				"number": 6,
+				"title": "Dark Prophecy"
+			},
+			{
+				"number": 7,
+				"title": "Blood Calls Blood"
+			},
+			{
+				"number": 8,
+				"title": "The Dragon Reborn"
+			},
+			{
+				"number": 9,
+				"title": "Leavetakings"
+			},
+			{
+				"number": 10,
+				"title": "The Hunt Begins"
+			},
+			{
+				"number": 11,
+				"title": "Glimmers of the Pattern"
+			},
+			{
+				"number": 12,
+				"title": "Woven in the Pattern"
+			},
+			{
+				"number": 13,
+				"title": "From Stone to Stone"
+			},
+			{
+				"number": 14,
+				"title": "Wolfbrother"
+			},
+			{
+				"number": 15,
+				"title": "Kinslayer"
+			},
+			{
+				"number": 16,
+				"title": "In the Mirror of Darkness"
+			},
+			{
+				"number": 17,
+				"title": "Choices"
+			},
+			{
+				"number": 18,
+				"title": "To the White Tower"
+			},
+			{
+				"number": 19,
+				"title": "Beneath the Dagger"
+			},
+			{
+				"number": 20,
+				"title": "Saidin"
+			},
+			{
+				"number": 21,
+				"title": "The Nine Rings"
+			},
+			{
+				"number": 22,
+				"title": "Watchers"
+			},
+			{
+				"number": 23,
+				"title": "The Testing"
+			},
+			{
+				"number": 24,
+				"title": "New Friends and Old Enemies"
+			},
+			{
+				"number": 25,
+				"title": "Cairhien"
+			},
+			{
+				"number": 26,
+				"title": "Discord"
+			},
+			{
+				"number": 27,
+				"title": "The Shadow in the Night"
+			},
+			{
+				"number": 28,
+				"title": "A New Thread in the Pattern"
+			},
+			{
+				"number": 29,
+				"title": "Seanchan"
+			},
+			{
+				"number": 30,
+				"title": "Daes Dae'mar"
+			},
+			{
+				"number": 31,
+				"title": "On the Scent"
+			},
+			{
+				"number": 32,
+				"title": "Dangerous Words"
+			},
+			{
+				"number": 33,
+				"title": "A Message from the Dark"
+			},
+			{
+				"number": 34,
+				"title": "The Wheel Weaves"
+			},
+			{
+				"number": 35,
+				"title": "Stedding Tsofu"
+			},
+			{
+				"number": 36,
+				"title": "Among the Elders"
+			},
+			{
+				"number": 37,
+				"title": "What Might Be"
+			},
+			{
+				"number": 38,
+				"title": "Practice"
+			},
+			{
+				"number": 39,
+				"title": "Flight From the White Tower"
+			},
+			{
+				"number": 40,
+				"title": "Damane"
+			},
+			{
+				"number": 41,
+				"title": "Disagreements"
+			},
+			{
+				"number": 42,
+				"title": "Falme"
+			},
+			{
+				"number": 43,
+				"title": "A Plan"
+			},
+			{
+				"number": 44,
+				"title": "Five Will Ride Forth"
+			},
+			{
+				"number": 45,
+				"title": "Blademaster"
+			},
+			{
+				"number": 46,
+				"title": "To Come Out of the Shadow"
+			},
+			{
+				"number": 47,
+				"title": "The Grave Is No Bar to My Call"
+			},
+			{
+				"number": 48,
+				"title": "First Claiming"
+			},
+			{
+				"number": 49,
+				"title": "What Was Meant to Be"
+			},
+			{
+				"number": 50,
+				"title": "After"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 3,
+		"title": "The Dragon Reborn",
+		"abbrev": "TDR",
+		"chapters": [
+			{
+				"title": "Fortress of the Light",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "Waiting"
+			},
+			{
+				"number": 2,
+				"title": "Saidin"
+			},
+			{
+				"number": 3,
+				"title": "News from the Plain"
+			},
+			{
+				"number": 4,
+				"title": "Shadows Sleeping"
+			},
+			{
+				"number": 5,
+				"title": "Nightmares Walking"
+			},
+			{
+				"number": 6,
+				"title": "The Hunt Begins"
+			},
+			{
+				"number": 7,
+				"title": "The Way Out of the Mountains"
+			},
+			{
+				"number": 8,
+				"title": "Jarra"
+			},
+			{
+				"number": 9,
+				"title": "Wolf Dreams"
+			},
+			{
+				"number": 10,
+				"title": "Secrets"
+			},
+			{
+				"number": 11,
+				"title": "Tar Valon"
+			},
+			{
+				"number": 12,
+				"title": "The Amyrlin Seat"
+			},
+			{
+				"number": 13,
+				"title": "Punishments"
+			},
+			{
+				"number": 14,
+				"title": "The Bite of the Thorns"
+			},
+			{
+				"number": 15,
+				"title": "The Gray Man"
+			},
+			{
+				"number": 16,
+				"title": "Hunters Three"
+			},
+			{
+				"number": 17,
+				"title": "The Red Sister"
+			},
+			{
+				"number": 18,
+				"title": "Healing"
+			},
+			{
+				"number": 19,
+				"title": "Awakening"
+			},
+			{
+				"number": 20,
+				"title": "Visitations"
+			},
+			{
+				"number": 21,
+				"title": "A World of Dreams"
+			},
+			{
+				"number": 22,
+				"title": "The Price of the Ring"
+			},
+			{
+				"number": 23,
+				"title": "Sealed"
+			},
+			{
+				"number": 24,
+				"title": "Scouting and Discoveries"
+			},
+			{
+				"number": 25,
+				"title": "Questions"
+			},
+			{
+				"number": 26,
+				"title": "Behind a Lock"
+			},
+			{
+				"number": 27,
+				"title": "Tel'aran'rhiod"
+			},
+			{
+				"number": 28,
+				"title": "A Way Out"
+			},
+			{
+				"number": 29,
+				"title": "A Trap to Spring"
+			},
+			{
+				"number": 30,
+				"title": "The First Toss"
+			},
+			{
+				"number": 31,
+				"title": "The Woman of Tanchico"
+			},
+			{
+				"number": 32,
+				"title": "The First Ship"
+			},
+			{
+				"number": 33,
+				"title": "Within the Weave"
+			},
+			{
+				"number": 34,
+				"title": "A Different Dance"
+			},
+			{
+				"number": 35,
+				"title": "The Falcon"
+			},
+			{
+				"number": 36,
+				"title": "Daughter of the Night"
+			},
+			{
+				"number": 37,
+				"title": "Fires in Cairhien"
+			},
+			{
+				"number": 38,
+				"title": "Maidens of the Spear"
+			},
+			{
+				"number": 39,
+				"title": "Threads in the Pattern"
+			},
+			{
+				"number": 40,
+				"title": "A Hero in the Night"
+			},
+			{
+				"number": 41,
+				"title": "A Hunter's Oath"
+			},
+			{
+				"number": 42,
+				"title": "Easing the Badger"
+			},
+			{
+				"number": 43,
+				"title": "Shadowbrothers"
+			},
+			{
+				"number": 44,
+				"title": "Hunted"
+			},
+			{
+				"number": 45,
+				"title": "Caemlyn"
+			},
+			{
+				"number": 46,
+				"title": "A Message Out of the Shadow"
+			},
+			{
+				"number": 47,
+				"title": "To Race the Shadow"
+			},
+			{
+				"number": 48,
+				"title": "Following the Craft"
+			},
+			{
+				"number": 49,
+				"title": "A Storm in Tear"
+			},
+			{
+				"number": 50,
+				"title": "The Hammer"
+			},
+			{
+				"number": 51,
+				"title": "Bait for the Net"
+			},
+			{
+				"number": 52,
+				"title": "In Search of a Remedy"
+			},
+			{
+				"number": 53,
+				"title": "A Flow of the Spirit"
+			},
+			{
+				"number": 54,
+				"title": "Into the Stone"
+			},
+			{
+				"number": 55,
+				"title": "What Is Written in Prophecy"
+			},
+			{
+				"number": 56,
+				"title": "People of the Dragon"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 4,
+		"title": "The Shadow Rising",
+		"abbrev": "TSR",
+		"chapters": [
+			{
+				"number": 1,
+				"title": "Seeds of Shadow"
+			},
+			{
+				"number": 2,
+				"title": "Whirlpools in the Pattern"
+			},
+			{
+				"number": 3,
+				"title": "Reflection"
+			},
+			{
+				"number": 4,
+				"title": "Strings"
+			},
+			{
+				"number": 5,
+				"title": "Questioners"
+			},
+			{
+				"number": 6,
+				"title": "Doorways"
+			},
+			{
+				"number": 7,
+				"title": "Playing With Fire"
+			},
+			{
+				"number": 8,
+				"title": "Hard Heads"
+			},
+			{
+				"number": 9,
+				"title": "Decisions"
+			},
+			{
+				"number": 10,
+				"title": "The Stone Stands"
+			},
+			{
+				"number": 11,
+				"title": "What Lies Hidden"
+			},
+			{
+				"number": 12,
+				"title": "Tanchico or the Tower"
+			},
+			{
+				"number": 13,
+				"title": "Rumors"
+			},
+			{
+				"number": 14,
+				"title": "Customs of Mayene"
+			},
+			{
+				"number": 15,
+				"title": "Into the Doorway"
+			},
+			{
+				"number": 16,
+				"title": "Leavetakings"
+			},
+			{
+				"number": 17,
+				"title": "Deceptions"
+			},
+			{
+				"number": 18,
+				"title": "Into the Ways"
+			},
+			{
+				"number": 19,
+				"title": "The Wavedancer"
+			},
+			{
+				"number": 20,
+				"title": "Winds Rising"
+			},
+			{
+				"number": 21,
+				"title": "Into the Heart"
+			},
+			{
+				"number": 22,
+				"title": "Out of the Stone"
+			},
+			{
+				"number": 23,
+				"title": "Beyond the Stone"
+			},
+			{
+				"number": 24,
+				"title": "Rhuidean"
+			},
+			{
+				"number": 25,
+				"title": "The Road to the Spear"
+			},
+			{
+				"number": 26,
+				"title": "The Dedicated"
+			},
+			{
+				"number": 27,
+				"title": "Within the Ways"
+			},
+			{
+				"number": 28,
+				"title": "To the Tower of Ghenjei"
+			},
+			{
+				"number": 29,
+				"title": "Homecoming"
+			},
+			{
+				"number": 30,
+				"title": "Beyond the Oak"
+			},
+			{
+				"number": 31,
+				"title": "Assurances"
+			},
+			{
+				"number": 32,
+				"title": "Questions to Be Asked"
+			},
+			{
+				"number": 33,
+				"title": "A New Weave in the Pattern"
+			},
+			{
+				"number": 34,
+				"title": "He Who Comes With the Dawn"
+			},
+			{
+				"number": 35,
+				"title": "Sharp Lessons"
+			},
+			{
+				"number": 36,
+				"title": "Misdirections"
+			},
+			{
+				"number": 37,
+				"title": "Imre Stand"
+			},
+			{
+				"number": 38,
+				"title": "Hidden Faces"
+			},
+			{
+				"number": 39,
+				"title": "A Cup of Wine"
+			},
+			{
+				"number": 40,
+				"title": "Hunter of Trollocs"
+			},
+			{
+				"number": 41,
+				"title": "Among the Tuatha'an"
+			},
+			{
+				"number": 42,
+				"title": "A Missing Leaf"
+			},
+			{
+				"number": 43,
+				"title": "Care for the Living"
+			},
+			{
+				"number": 44,
+				"title": "The Breaking Storm"
+			},
+			{
+				"number": 45,
+				"title": "The Tinker's Sword"
+			},
+			{
+				"number": 46,
+				"title": "Veils"
+			},
+			{
+				"number": 47,
+				"title": "The Truth of a Viewing"
+			},
+			{
+				"number": 48,
+				"title": "An Offer Refused"
+			},
+			{
+				"number": 49,
+				"title": "Cold Rocks Hold"
+			},
+			{
+				"number": 50,
+				"title": "Traps"
+			},
+			{
+				"number": 51,
+				"title": "Revelations in Tanchico"
+			},
+			{
+				"number": 52,
+				"title": "Need"
+			},
+			{
+				"number": 53,
+				"title": "The Price of a Departure"
+			},
+			{
+				"number": 54,
+				"title": "Into the Palace"
+			},
+			{
+				"number": 55,
+				"title": "Into the Deep"
+			},
+			{
+				"number": 56,
+				"title": "Goldeneyes"
+			},
+			{
+				"number": 57,
+				"title": "A Breaking in the Three-fold Land"
+			},
+			{
+				"number": 58,
+				"title": "The Traps of Rhuidean"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 5,
+		"title": "The Fires of Heaven",
+		"abbrev": "TFOH",
+		"chapters": [
+			{
+				"title": "The First Sparks Fall",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "Fanning the Sparks"
+			},
+			{
+				"number": 2,
+				"title": "Rhuidean"
+			},
+			{
+				"number": 3,
+				"title": "Pale Shadows"
+			},
+			{
+				"number": 4,
+				"title": "Twilight"
+			},
+			{
+				"number": 5,
+				"title": "Among the Wise Ones"
+			},
+			{
+				"number": 6,
+				"title": "Gateways"
+			},
+			{
+				"number": 7,
+				"title": "A Departure"
+			},
+			{
+				"number": 8,
+				"title": "Over the Border"
+			},
+			{
+				"number": 9,
+				"title": "A Signal"
+			},
+			{
+				"number": 10,
+				"title": "Figs and Mice"
+			},
+			{
+				"number": 11,
+				"title": "The Nine Horse Hitch"
+			},
+			{
+				"number": 12,
+				"title": "An Old Pipe"
+			},
+			{
+				"number": 13,
+				"title": "A Small Room in Sienda"
+			},
+			{
+				"number": 14,
+				"title": "Meetings"
+			},
+			{
+				"number": 15,
+				"title": "What Can Be Learned in Dreams"
+			},
+			{
+				"number": 16,
+				"title": "An Unexpected Offer"
+			},
+			{
+				"number": 17,
+				"title": "Heading West"
+			},
+			{
+				"number": 18,
+				"title": "A Hound of Darkness"
+			},
+			{
+				"number": 19,
+				"title": "Memories"
+			},
+			{
+				"number": 20,
+				"title": "Jangai Pass"
+			},
+			{
+				"number": 21,
+				"title": "The Gift of a Blade"
+			},
+			{
+				"number": 22,
+				"title": "Birdcalls by Night"
+			},
+			{
+				"number": 23,
+				"title": "\"The Fifth, I Give You\""
+			},
+			{
+				"number": 24,
+				"title": "A Message Sent"
+			},
+			{
+				"number": 25,
+				"title": "Dreams of Galad"
+			},
+			{
+				"number": 26,
+				"title": "Sallie Daera"
+			},
+			{
+				"number": 27,
+				"title": "The Practice of Diffidence"
+			},
+			{
+				"number": 28,
+				"title": "Trapped"
+			},
+			{
+				"number": 29,
+				"title": "Memories of Saldaea"
+			},
+			{
+				"number": 30,
+				"title": "A Wager"
+			},
+			{
+				"number": 31,
+				"title": "The Far Snows"
+			},
+			{
+				"number": 32,
+				"title": "A Short Spear"
+			},
+			{
+				"number": 33,
+				"title": "A Question of Crimson"
+			},
+			{
+				"number": 34,
+				"title": "A Silver Arrow"
+			},
+			{
+				"number": 35,
+				"title": "Ripped Away"
+			},
+			{
+				"number": 36,
+				"title": "A New Name"
+			},
+			{
+				"number": 37,
+				"title": "Performances in Samara"
+			},
+			{
+				"number": 38,
+				"title": "An Old Acquaintance"
+			},
+			{
+				"number": 39,
+				"title": "Encounters in Samara"
+			},
+			{
+				"number": 40,
+				"title": "The Wheel Weaves"
+			},
+			{
+				"number": 41,
+				"title": "The Craft of Kin Tovere"
+			},
+			{
+				"number": 42,
+				"title": "Before the Arrow"
+			},
+			{
+				"number": 43,
+				"title": "This Place, This Day"
+			},
+			{
+				"number": 44,
+				"title": "The Lesser Sadness"
+			},
+			{
+				"number": 45,
+				"title": "After the Storm"
+			},
+			{
+				"number": 46,
+				"title": "Other Battle, Other Weapons"
+			},
+			{
+				"number": 47,
+				"title": "The Price of a Ship"
+			},
+			{
+				"number": 48,
+				"title": "Leavetakings"
+			},
+			{
+				"number": 49,
+				"title": "To Boannda"
+			},
+			{
+				"number": 50,
+				"title": "To Teach, and Learn"
+			},
+			{
+				"number": 51,
+				"title": "News Comes to Cairhien"
+			},
+			{
+				"number": 52,
+				"title": "Choices"
+			},
+			{
+				"number": 53,
+				"title": "Fading Words"
+			},
+			{
+				"number": 54,
+				"title": "To Caemlyn"
+			},
+			{
+				"number": 55,
+				"title": "The Threads Burn"
+			},
+			{
+				"number": 56,
+				"title": "Glowing Embers"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 6,
+		"title": "Lord of Chaos",
+		"abbrev": "LoC",
+		"chapters": [
+			{
+				"title": "The First Message",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "Lion on the Hill"
+			},
+			{
+				"number": 2,
+				"title": "A New Arrival"
+			},
+			{
+				"number": 3,
+				"title": "A Woman's Eyes"
+			},
+			{
+				"number": 4,
+				"title": "A Sense of Humor"
+			},
+			{
+				"number": 5,
+				"title": "A Different Dance"
+			},
+			{
+				"number": 6,
+				"title": "Threads Woven of Shadow"
+			},
+			{
+				"number": 7,
+				"title": "A Matter of Thought"
+			},
+			{
+				"number": 8,
+				"title": "The Storm Gathers"
+			},
+			{
+				"number": 9,
+				"title": "Plans"
+			},
+			{
+				"number": 10,
+				"title": "A Saying in the Borderlands"
+			},
+			{
+				"number": 11,
+				"title": "Lessons and Teachers"
+			},
+			{
+				"number": 12,
+				"title": "Questions and Answers"
+			},
+			{
+				"number": 13,
+				"title": "Under the Dust"
+			},
+			{
+				"number": 14,
+				"title": "Dreams and Nightmares"
+			},
+			{
+				"number": 15,
+				"title": "A Pile of Sand"
+			},
+			{
+				"number": 16,
+				"title": "Tellings of the Wheel"
+			},
+			{
+				"number": 17,
+				"title": "The Wheel of a Life"
+			},
+			{
+				"number": 18,
+				"title": "A Taste of Solitude"
+			},
+			{
+				"number": 19,
+				"title": "Matters of Toh"
+			},
+			{
+				"number": 20,
+				"title": "From the Stedding"
+			},
+			{
+				"number": 21,
+				"title": "To Shadar Logoth"
+			},
+			{
+				"number": 22,
+				"title": "Heading South"
+			},
+			{
+				"number": 23,
+				"title": "To Understand a Message"
+			},
+			{
+				"number": 24,
+				"title": "An Embassy"
+			},
+			{
+				"number": 25,
+				"title": "Like Lightning and Rain"
+			},
+			{
+				"number": 26,
+				"title": "Connecting Lines"
+			},
+			{
+				"number": 27,
+				"title": "Gifts"
+			},
+			{
+				"number": 28,
+				"title": "Letters"
+			},
+			{
+				"number": 29,
+				"title": "Fire and Spirit"
+			},
+			{
+				"number": 30,
+				"title": "To Heal Again"
+			},
+			{
+				"number": 31,
+				"title": "Red Wax"
+			},
+			{
+				"number": 32,
+				"title": "Summoned in Haste"
+			},
+			{
+				"number": 33,
+				"title": "Courage to Strengthen"
+			},
+			{
+				"number": 34,
+				"title": "Journey to Salidar"
+			},
+			{
+				"number": 35,
+				"title": "In the Hall of the Sitters"
+			},
+			{
+				"number": 36,
+				"title": "The Amyrlin Is Raised"
+			},
+			{
+				"number": 37,
+				"title": "When Battle Begins"
+			},
+			{
+				"number": 38,
+				"title": "A Sudden Chill"
+			},
+			{
+				"number": 39,
+				"title": "Possibilities"
+			},
+			{
+				"number": 40,
+				"title": "Unexpected Laughter"
+			},
+			{
+				"number": 41,
+				"title": "A Threat"
+			},
+			{
+				"number": 42,
+				"title": "The Black Tower"
+			},
+			{
+				"number": 43,
+				"title": "The Crown of Roses"
+			},
+			{
+				"number": 44,
+				"title": "The Color of Trust"
+			},
+			{
+				"number": 45,
+				"title": "A Bitter Thought"
+			},
+			{
+				"number": 46,
+				"title": "Beyond the Gate"
+			},
+			{
+				"number": 47,
+				"title": "The Wandering Woman"
+			},
+			{
+				"number": 48,
+				"title": "Leaning on the Knife"
+			},
+			{
+				"number": 49,
+				"title": "The Mirror of Mists"
+			},
+			{
+				"number": 50,
+				"title": "Thorns"
+			},
+			{
+				"number": 51,
+				"title": "The Taking"
+			},
+			{
+				"number": 52,
+				"title": "Weaves of the Power"
+			},
+			{
+				"number": 53,
+				"title": "The Feast of Lights"
+			},
+			{
+				"number": 54,
+				"title": "The Sending"
+			},
+			{
+				"number": 55,
+				"title": "Dumai's Wells"
+			},
+			{
+				"title": "The Answer",
+				"type": "epilogue"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 7,
+		"title": "A Crown of Swords",
+		"abbrev": "ACoS",
+		"chapters": [
+			{
+				"title": "Lightnings",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "High Chasaline"
+			},
+			{
+				"number": 2,
+				"title": "The Butcher's Yard"
+			},
+			{
+				"number": 3,
+				"title": "Hill of the Golden Dawn"
+			},
+			{
+				"number": 4,
+				"title": "Into Cairhien"
+			},
+			{
+				"number": 5,
+				"title": "A Broken Crown"
+			},
+			{
+				"number": 6,
+				"title": "Old Fear, and New Fear"
+			},
+			{
+				"number": 7,
+				"title": "Pitfalls and Tripwires"
+			},
+			{
+				"number": 8,
+				"title": "The Figurehead"
+			},
+			{
+				"number": 9,
+				"title": "A Pair of Silverpike"
+			},
+			{
+				"number": 10,
+				"title": "Unseen Eyes"
+			},
+			{
+				"number": 11,
+				"title": "An Oath"
+			},
+			{
+				"number": 12,
+				"title": "A Morning of Victory"
+			},
+			{
+				"number": 13,
+				"title": "The Bowl of the Winds"
+			},
+			{
+				"number": 14,
+				"title": "White Plumes"
+			},
+			{
+				"number": 15,
+				"title": "Insects"
+			},
+			{
+				"number": 16,
+				"title": "A Touch on the Cheek"
+			},
+			{
+				"number": 17,
+				"title": "The Triumph of Logic"
+			},
+			{
+				"number": 18,
+				"title": "As the Plow Breaks the Earth"
+			},
+			{
+				"number": 19,
+				"title": "Diamonds and Stars"
+			},
+			{
+				"number": 20,
+				"title": "Patterns Within Patterns"
+			},
+			{
+				"number": 21,
+				"title": "Swovan Night"
+			},
+			{
+				"number": 22,
+				"title": "Small Sacrifices"
+			},
+			{
+				"number": 23,
+				"title": "Next Door to a Weaver"
+			},
+			{
+				"number": 24,
+				"title": "The Kin"
+			},
+			{
+				"number": 25,
+				"title": "Mindtrap"
+			},
+			{
+				"number": 26,
+				"title": "The Irrevocable Words"
+			},
+			{
+				"number": 27,
+				"title": "To Be Alone"
+			},
+			{
+				"number": 28,
+				"title": "Bread and Cheese"
+			},
+			{
+				"number": 29,
+				"title": "The Festival of Birds"
+			},
+			{
+				"number": 30,
+				"title": "The First Cup"
+			},
+			{
+				"number": 31,
+				"title": "Mashiara"
+			},
+			{
+				"number": 32,
+				"title": "Sealed to the Flame"
+			},
+			{
+				"number": 33,
+				"title": "A Bath"
+			},
+			{
+				"number": 34,
+				"title": "Ta'veren"
+			},
+			{
+				"number": 35,
+				"title": "Into the Woods"
+			},
+			{
+				"number": 36,
+				"title": "Blades"
+			},
+			{
+				"number": 37,
+				"title": "A Note from the Palace"
+			},
+			{
+				"number": 38,
+				"title": "Six Stories"
+			},
+			{
+				"number": 39,
+				"title": "Promises to Keep"
+			},
+			{
+				"number": 40,
+				"title": "Spears"
+			},
+			{
+				"number": 41,
+				"title": "A Crown of Swords"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 8,
+		"title": "The Path of Daggers",
+		"abbrev": "TPoD",
+		"chapters": [
+			{
+				"title": "Deceptive Appearances",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "To Keep the Bargain"
+			},
+			{
+				"number": 2,
+				"title": "Unweaving"
+			},
+			{
+				"number": 3,
+				"title": "A Pleasant Ride"
+			},
+			{
+				"number": 4,
+				"title": "A Quiet Place"
+			},
+			{
+				"number": 5,
+				"title": "The Breaking Storm"
+			},
+			{
+				"number": 6,
+				"title": "Threads"
+			},
+			{
+				"number": 7,
+				"title": "A Goatpen"
+			},
+			{
+				"number": 8,
+				"title": "A Simple Country Woman"
+			},
+			{
+				"number": 9,
+				"title": "Tangles"
+			},
+			{
+				"number": 10,
+				"title": "Changes"
+			},
+			{
+				"number": 11,
+				"title": "Questions and an Oath"
+			},
+			{
+				"number": 12,
+				"title": "New Alliances"
+			},
+			{
+				"number": 13,
+				"title": "Floating Like Snow"
+			},
+			{
+				"number": 14,
+				"title": "Message from the M'Hael"
+			},
+			{
+				"number": 15,
+				"title": "Stronger than Written Law"
+			},
+			{
+				"number": 16,
+				"title": "Unexpected Absences"
+			},
+			{
+				"number": 17,
+				"title": "Out on the Ice"
+			},
+			{
+				"number": 18,
+				"title": "A Peculiar Calling"
+			},
+			{
+				"number": 19,
+				"title": "The Law"
+			},
+			{
+				"number": 20,
+				"title": "Into Andor"
+			},
+			{
+				"number": 21,
+				"title": "Answering the Summons"
+			},
+			{
+				"number": 22,
+				"title": "Gathering Clouds"
+			},
+			{
+				"number": 23,
+				"title": "Fog of War, Storm of Battle"
+			},
+			{
+				"number": 24,
+				"title": "A Time for Iron"
+			},
+			{
+				"number": 25,
+				"title": "An Unwelcome Return"
+			},
+			{
+				"number": 26,
+				"title": "The Extra Bit"
+			},
+			{
+				"number": 27,
+				"title": "The Bargain"
+			},
+			{
+				"number": 28,
+				"title": "Crimsonthorn"
+			},
+			{
+				"number": 29,
+				"title": "A Cup of Sleep"
+			},
+			{
+				"number": 30,
+				"title": "Beginnings"
+			},
+			{
+				"number": 31,
+				"title": "After"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 9,
+		"title": "Winter's Heart",
+		"abbrev": "WH",
+		"chapters": [
+			{
+				"title": "Snow",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "Leaving the Prophet"
+			},
+			{
+				"number": 2,
+				"title": "Taken"
+			},
+			{
+				"number": 3,
+				"title": "Customs"
+			},
+			{
+				"number": 4,
+				"title": "Offers"
+			},
+			{
+				"number": 5,
+				"title": "Flags"
+			},
+			{
+				"number": 6,
+				"title": "The Scent of Madness"
+			},
+			{
+				"number": 7,
+				"title": "The Streets of Caemlyn"
+			},
+			{
+				"number": 8,
+				"title": "Sea Folk and Kin"
+			},
+			{
+				"number": 9,
+				"title": "A Cup of Tea"
+			},
+			{
+				"number": 10,
+				"title": "A Plan Succeeds"
+			},
+			{
+				"number": 11,
+				"title": "Ideas of Importance"
+			},
+			{
+				"number": 12,
+				"title": "A Lily in Winter"
+			},
+			{
+				"number": 13,
+				"title": "Wonderful News"
+			},
+			{
+				"number": 14,
+				"title": "What a Veil Hides"
+			},
+			{
+				"number": 15,
+				"title": "In Need of a Bellfounder"
+			},
+			{
+				"number": 16,
+				"title": "An Unexpected Encounter"
+			},
+			{
+				"number": 17,
+				"title": "Pink Ribbons"
+			},
+			{
+				"number": 18,
+				"title": "An Offer"
+			},
+			{
+				"number": 19,
+				"title": "Three Women"
+			},
+			{
+				"number": 20,
+				"title": "Questions of Treason"
+			},
+			{
+				"number": 21,
+				"title": "A Matter of Property"
+			},
+			{
+				"number": 22,
+				"title": "Out of Thin Air"
+			},
+			{
+				"number": 23,
+				"title": "To Lose the Sun"
+			},
+			{
+				"number": 24,
+				"title": "Among the Counsels"
+			},
+			{
+				"number": 25,
+				"title": "Bonds"
+			},
+			{
+				"number": 26,
+				"title": "Expectation"
+			},
+			{
+				"number": 27,
+				"title": "To Surprise Queens and Kings"
+			},
+			{
+				"number": 28,
+				"title": "News in a Cloth Sack"
+			},
+			{
+				"number": 29,
+				"title": "Another Plan"
+			},
+			{
+				"number": 30,
+				"title": "Cold, Fat Raindrops"
+			},
+			{
+				"number": 31,
+				"title": "What the Aelfinn Said"
+			},
+			{
+				"number": 32,
+				"title": "A Portion of Wisdom"
+			},
+			{
+				"number": 33,
+				"title": "Blue Carp Street"
+			},
+			{
+				"number": 34,
+				"title": "The Hummingbird's Secret"
+			},
+			{
+				"number": 35,
+				"title": "With the Choedan Kal"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 10,
+		"title": "Crossroads of Twilight",
+		"abbrev": "CoT",
+		"chapters": [
+			{
+				"title": "Glimmers of the Pattern",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "Time to Be Gone"
+			},
+			{
+				"number": 2,
+				"title": "Two Captains"
+			},
+			{
+				"number": 3,
+				"title": "A Fan of Colors"
+			},
+			{
+				"number": 4,
+				"title": "A Tale of a Doll"
+			},
+			{
+				"number": 5,
+				"title": "The Forging of a Hammer"
+			},
+			{
+				"number": 6,
+				"title": "The Scent of a Dream"
+			},
+			{
+				"number": 7,
+				"title": "Blacksmith's Puzzle"
+			},
+			{
+				"number": 8,
+				"title": "Whirlpools of Color"
+			},
+			{
+				"number": 9,
+				"title": "Traps"
+			},
+			{
+				"number": 10,
+				"title": "A Blazing Beacon"
+			},
+			{
+				"number": 11,
+				"title": "Talk of Debts"
+			},
+			{
+				"number": 12,
+				"title": "A Bargain"
+			},
+			{
+				"number": 13,
+				"title": "High Seats"
+			},
+			{
+				"number": 14,
+				"title": "What Wise Ones Know"
+			},
+			{
+				"number": 15,
+				"title": "Gathering Darkness"
+			},
+			{
+				"number": 16,
+				"title": "The Subject of Negotiations"
+			},
+			{
+				"number": 17,
+				"title": "Secrets"
+			},
+			{
+				"number": 18,
+				"title": "A Chat with Siuan"
+			},
+			{
+				"number": 19,
+				"title": "Surprises"
+			},
+			{
+				"number": 20,
+				"title": "In the Night"
+			},
+			{
+				"number": 21,
+				"title": "A Mark"
+			},
+			{
+				"number": 22,
+				"title": "One Answer"
+			},
+			{
+				"number": 23,
+				"title": "Ornaments"
+			},
+			{
+				"number": 24,
+				"title": "A Strengthening Storm"
+			},
+			{
+				"number": 25,
+				"title": "When to Wear Jewels"
+			},
+			{
+				"number": 26,
+				"title": "In So Habor"
+			},
+			{
+				"number": 27,
+				"title": "What Must Be Done"
+			},
+			{
+				"number": 28,
+				"title": "A Cluster of Rosebuds"
+			},
+			{
+				"number": 29,
+				"title": "Something Flickers"
+			},
+			{
+				"number": 30,
+				"title": "What the Oath Rod Can Do"
+			},
+			{
+				"title": "An Answer",
+				"type": "epilogue"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 11,
+		"title": "Knife of Dreams",
+		"abbrev": "KoD",
+		"chapters": [
+			{
+				"title": "Embers Falling on Dry Grass",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "When Last Sounds"
+			},
+			{
+				"number": 2,
+				"title": "The Dark One's Touch"
+			},
+			{
+				"number": 3,
+				"title": "At the Gardens"
+			},
+			{
+				"number": 4,
+				"title": "A Deal"
+			},
+			{
+				"number": 5,
+				"title": "Something... Strange"
+			},
+			{
+				"number": 6,
+				"title": "A Stave and a Razor"
+			},
+			{
+				"number": 7,
+				"title": "A Cold Medallion"
+			},
+			{
+				"number": 8,
+				"title": "Dragons' Eggs"
+			},
+			{
+				"number": 9,
+				"title": "A Short Path"
+			},
+			{
+				"number": 10,
+				"title": "A Village in Shiota"
+			},
+			{
+				"number": 11,
+				"title": "A Hell in Maderin"
+			},
+			{
+				"number": 12,
+				"title": "A Manufactory"
+			},
+			{
+				"number": 13,
+				"title": "Siege"
+			},
+			{
+				"number": 14,
+				"title": "Wet Things"
+			},
+			{
+				"number": 15,
+				"title": "A Different Skill"
+			},
+			{
+				"number": 16,
+				"title": "The New Follower"
+			},
+			{
+				"number": 17,
+				"title": "A Bronze Bear"
+			},
+			{
+				"number": 18,
+				"title": "News for the Dragon"
+			},
+			{
+				"number": 19,
+				"title": "Vows"
+			},
+			{
+				"number": 20,
+				"title": "The Golden Crane"
+			},
+			{
+				"number": 21,
+				"title": "Within the Stone"
+			},
+			{
+				"number": 22,
+				"title": "To Make an Anchor Weep"
+			},
+			{
+				"number": 23,
+				"title": "Call to a Sitting"
+			},
+			{
+				"number": 24,
+				"title": "Honey in the Tea"
+			},
+			{
+				"number": 25,
+				"title": "Attending Elaida"
+			},
+			{
+				"number": 26,
+				"title": "As If the World Were Fog"
+			},
+			{
+				"number": 27,
+				"title": "A Plain Wooden Box"
+			},
+			{
+				"number": 28,
+				"title": "In Malden"
+			},
+			{
+				"number": 29,
+				"title": "The Last Knot"
+			},
+			{
+				"number": 30,
+				"title": "Outside the Gates"
+			},
+			{
+				"number": 31,
+				"title": "The House on Full Moon Street"
+			},
+			{
+				"number": 32,
+				"title": "To Keep the Bargain"
+			},
+			{
+				"number": 33,
+				"title": "Nine Out of Ten"
+			},
+			{
+				"number": 34,
+				"title": "A Cup of Kaf"
+			},
+			{
+				"number": 35,
+				"title": "The Importance of Dyelin"
+			},
+			{
+				"number": 36,
+				"title": "Under an Oak"
+			},
+			{
+				"number": 37,
+				"title": "Prince of the Ravens"
+			},
+			{
+				"title": "Remember the Old Saying",
+				"type": "epilogue"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 12,
+		"title": "The Gathering Storm",
+		"abbrev": "TGS",
+		"chapters": [
+			{
+				"title": "What the Storm Means",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "Tears from Steel"
+			},
+			{
+				"number": 2,
+				"title": "The Nature of Pain"
+			},
+			{
+				"number": 3,
+				"title": "The Ways of Honor"
+			},
+			{
+				"number": 4,
+				"title": "Nightfall"
+			},
+			{
+				"number": 5,
+				"title": "A Tale of Blood"
+			},
+			{
+				"number": 6,
+				"title": "When Iron Melts"
+			},
+			{
+				"number": 7,
+				"title": "The Plan for Arad Doman"
+			},
+			{
+				"number": 8,
+				"title": "Clean Shirts"
+			},
+			{
+				"number": 9,
+				"title": "Leaving Malden"
+			},
+			{
+				"number": 10,
+				"title": "The Last of the Tabac"
+			},
+			{
+				"number": 11,
+				"title": "The Death of Adrin"
+			},
+			{
+				"number": 12,
+				"title": "Unexpected Encounters"
+			},
+			{
+				"number": 13,
+				"title": "An Offer and a Departure"
+			},
+			{
+				"number": 14,
+				"title": "A Box Opens"
+			},
+			{
+				"number": 15,
+				"title": "A Place to Begin"
+			},
+			{
+				"number": 16,
+				"title": "In the White Tower"
+			},
+			{
+				"number": 17,
+				"title": "Questions of Control"
+			},
+			{
+				"number": 18,
+				"title": "A Message in Haste"
+			},
+			{
+				"number": 19,
+				"title": "Gambits"
+			},
+			{
+				"number": 20,
+				"title": "On a Broken Road"
+			},
+			{
+				"number": 21,
+				"title": "Embers and Ash"
+			},
+			{
+				"number": 22,
+				"title": "The Last That Could Be Done"
+			},
+			{
+				"number": 23,
+				"title": "A Warp in the Air"
+			},
+			{
+				"number": 24,
+				"title": "A New Commitment"
+			},
+			{
+				"number": 25,
+				"title": "In Darkness"
+			},
+			{
+				"number": 26,
+				"title": "A Crack in the Stone"
+			},
+			{
+				"number": 27,
+				"title": "The Tipsy Gelding"
+			},
+			{
+				"number": 28,
+				"title": "Night in Hinderstap"
+			},
+			{
+				"number": 29,
+				"title": "Into Bander Eban"
+			},
+			{
+				"number": 30,
+				"title": "Old Advice"
+			},
+			{
+				"number": 31,
+				"title": "A Promise to Lews Therin"
+			},
+			{
+				"number": 32,
+				"title": "Rivers of Shadow"
+			},
+			{
+				"number": 33,
+				"title": "A Conversation with the Dragon"
+			},
+			{
+				"number": 34,
+				"title": "Legends"
+			},
+			{
+				"number": 35,
+				"title": "A Halo of Blackness"
+			},
+			{
+				"number": 36,
+				"title": "The Death of Tuon"
+			},
+			{
+				"number": 37,
+				"title": "A Force of Light"
+			},
+			{
+				"number": 38,
+				"title": "News in Tel'aran'rhiod"
+			},
+			{
+				"number": 39,
+				"title": "A Visit from Verin Sedai"
+			},
+			{
+				"number": 40,
+				"title": "The Tower Shakes"
+			},
+			{
+				"number": 41,
+				"title": "A Fount of Power"
+			},
+			{
+				"number": 42,
+				"title": "Before the Stone of Tear"
+			},
+			{
+				"number": 43,
+				"title": "Sealed to the Flame"
+			},
+			{
+				"number": 44,
+				"title": "Scents Unknown"
+			},
+			{
+				"number": 45,
+				"title": "The Tower Stands"
+			},
+			{
+				"number": 46,
+				"title": "To Be Forged Again"
+			},
+			{
+				"number": 47,
+				"title": "The One He Lost"
+			},
+			{
+				"number": 48,
+				"title": "Reading the Commentary"
+			},
+			{
+				"number": 49,
+				"title": "Just Another Man"
+			},
+			{
+				"number": 50,
+				"title": "Veins of Gold"
+			},
+			{
+				"title": "Bathed in Light",
+				"type": "epilogue"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 13,
+		"title": "Towers of Midnight",
+		"abbrev": "ToM",
+		"chapters": [
+			{
+				"title": "Distinctions",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "Apples First"
+			},
+			{
+				"number": 2,
+				"title": "Questions of Leadership"
+			},
+			{
+				"number": 3,
+				"title": "The Amyrlin's Anger"
+			},
+			{
+				"number": 4,
+				"title": "The Pattern Groans"
+			},
+			{
+				"number": 5,
+				"title": "Writings"
+			},
+			{
+				"number": 6,
+				"title": "Questioning Intentions"
+			},
+			{
+				"number": 7,
+				"title": "Lighter than a Feather"
+			},
+			{
+				"number": 8,
+				"title": "The Seven-Striped Lass"
+			},
+			{
+				"number": 9,
+				"title": "Blood in the Air"
+			},
+			{
+				"number": 10,
+				"title": "After the Taint"
+			},
+			{
+				"number": 11,
+				"title": "An Unexpected Letter"
+			},
+			{
+				"number": 12,
+				"title": "An Empty Ink Bottle"
+			},
+			{
+				"number": 13,
+				"title": "For What Has Been Wrought"
+			},
+			{
+				"number": 14,
+				"title": "A Vow"
+			},
+			{
+				"number": 15,
+				"title": "Use a Pebble"
+			},
+			{
+				"number": 16,
+				"title": "Shanna'har"
+			},
+			{
+				"number": 17,
+				"title": "Partings, and a Meeting"
+			},
+			{
+				"number": 18,
+				"title": "The Strength of This Place"
+			},
+			{
+				"number": 19,
+				"title": "Talk of Dragons"
+			},
+			{
+				"number": 20,
+				"title": "A Choice"
+			},
+			{
+				"number": 21,
+				"title": "An Open Gate"
+			},
+			{
+				"number": 22,
+				"title": "The End of a Legend"
+			},
+			{
+				"number": 23,
+				"title": "Foxheads"
+			},
+			{
+				"number": 24,
+				"title": "To Make a Stand"
+			},
+			{
+				"number": 25,
+				"title": "Return to Bandar Eban"
+			},
+			{
+				"number": 26,
+				"title": "Parley"
+			},
+			{
+				"number": 27,
+				"title": "A Call to Stand"
+			},
+			{
+				"number": 28,
+				"title": "Oddities"
+			},
+			{
+				"number": 29,
+				"title": "A Terrible Feeling"
+			},
+			{
+				"number": 30,
+				"title": "Men Dream Here"
+			},
+			{
+				"number": 31,
+				"title": "Into the Void"
+			},
+			{
+				"number": 32,
+				"title": "A Storm of Light"
+			},
+			{
+				"number": 33,
+				"title": "A Good Soup"
+			},
+			{
+				"number": 34,
+				"title": "Judgment"
+			},
+			{
+				"number": 35,
+				"title": "The Right Thing"
+			},
+			{
+				"number": 36,
+				"title": "An Invitation"
+			},
+			{
+				"number": 37,
+				"title": "Darkness in the Tower"
+			},
+			{
+				"number": 38,
+				"title": "Wounds"
+			},
+			{
+				"number": 39,
+				"title": "In the Three-fold Land"
+			},
+			{
+				"number": 40,
+				"title": "A Making"
+			},
+			{
+				"number": 41,
+				"title": "An Unexpected Ally"
+			},
+			{
+				"number": 42,
+				"title": "Stronger than Blood"
+			},
+			{
+				"number": 43,
+				"title": "Some Tea"
+			},
+			{
+				"number": 44,
+				"title": "A Backhanded Request"
+			},
+			{
+				"number": 45,
+				"title": "A Reunion"
+			},
+			{
+				"number": 46,
+				"title": "Working Leather"
+			},
+			{
+				"number": 47,
+				"title": "A Teaching Chamber"
+			},
+			{
+				"number": 48,
+				"title": "Near Avendesora"
+			},
+			{
+				"number": 49,
+				"title": "Court of the Sun"
+			},
+			{
+				"number": 50,
+				"title": "Choosing Enemies"
+			},
+			{
+				"number": 51,
+				"title": "A Testing"
+			},
+			{
+				"number": 52,
+				"title": "Boots"
+			},
+			{
+				"number": 53,
+				"title": "Gateways"
+			},
+			{
+				"number": 54,
+				"title": "The Light of the World"
+			},
+			{
+				"number": 55,
+				"title": "The One Left Behind"
+			},
+			{
+				"number": 56,
+				"title": "Something Wrong"
+			},
+			{
+				"number": 57,
+				"title": "A Rabbit for Supper"
+			},
+			{
+				"title": "And After",
+				"type": "epilogue"
+			}
+		]
+	},
+	{
+		"wot_series": true,
+		"wot_main_series": true,
+		"number": 14,
+		"title": "A Memory of Light",
+		"abbrev": "AMoL",
+		"chapters": [
+			{
+				"title": "By Grace and Banners Fallen",
+				"type": "prologue"
+			},
+			{
+				"number": 1,
+				"title": "Eastward the Wind Blew"
+			},
+			{
+				"number": 2,
+				"title": "The Choice of an Ajah"
+			},
+			{
+				"number": 3,
+				"title": "A Dangerous Place"
+			},
+			{
+				"number": 4,
+				"title": "Advantages to a Bond"
+			},
+			{
+				"number": 5,
+				"title": "To Require a Boon"
+			},
+			{
+				"number": 6,
+				"title": "A Knack"
+			},
+			{
+				"number": 7,
+				"title": "Into the Thick of It"
+			},
+			{
+				"number": 8,
+				"title": "That Smoldering City"
+			},
+			{
+				"number": 9,
+				"title": "To Die Well"
+			},
+			{
+				"number": 10,
+				"title": "The Use of Dragons"
+			},
+			{
+				"number": 11,
+				"title": "Just Another Sell-sword"
+			},
+			{
+				"number": 12,
+				"title": "A Shard of a Moment"
+			},
+			{
+				"number": 13,
+				"title": "What Must Be Done"
+			},
+			{
+				"number": 14,
+				"title": "Doses of Forkroot"
+			},
+			{
+				"number": 15,
+				"title": "Your Neck in a Cord"
+			},
+			{
+				"number": 16,
+				"title": "A Silence Like Screaming"
+			},
+			{
+				"number": 17,
+				"title": "Older, More Weathered"
+			},
+			{
+				"number": 18,
+				"title": "To Feel Wasted"
+			},
+			{
+				"number": 19,
+				"title": "The Choice of a Patch"
+			},
+			{
+				"number": 20,
+				"title": "Into Thakan'dar"
+			},
+			{
+				"number": 21,
+				"title": "Not a Mistake to Ignore"
+			},
+			{
+				"number": 22,
+				"title": "The Wyld"
+			},
+			{
+				"number": 23,
+				"title": "At the Edge of Time"
+			},
+			{
+				"number": 24,
+				"title": "To Ignore the Omens"
+			},
+			{
+				"number": 25,
+				"title": "Quick Fragments"
+			},
+			{
+				"number": 26,
+				"title": "Considerations"
+			},
+			{
+				"number": 27,
+				"title": "Friendly Fire"
+			},
+			{
+				"number": 28,
+				"title": "Too Many Men"
+			},
+			{
+				"number": 29,
+				"title": "The Loss of a Hill"
+			},
+			{
+				"number": 30,
+				"title": "The Way of the Predator"
+			},
+			{
+				"number": 31,
+				"title": "A Tempest of Water"
+			},
+			{
+				"number": 32,
+				"title": "A Yellow Flower-Spider"
+			},
+			{
+				"number": 33,
+				"title": "The Prince's Tabac"
+			},
+			{
+				"number": 34,
+				"title": "Drifting"
+			},
+			{
+				"number": 35,
+				"title": "A Practiced Grin"
+			},
+			{
+				"number": 36,
+				"title": "Unchangeable Things"
+			},
+			{
+				"number": 37,
+				"title": "The Last Battle"
+			},
+			{
+				"number": 38,
+				"title": "The Place That Was Not"
+			},
+			{
+				"number": 39,
+				"title": "Those Who Fight"
+			},
+			{
+				"number": 40,
+				"title": "Wolfbrother"
+			},
+			{
+				"number": 41,
+				"title": "A Smile"
+			},
+			{
+				"number": 42,
+				"title": "Impossibilities"
+			},
+			{
+				"number": 43,
+				"title": "A Field of Glass"
+			},
+			{
+				"number": 44,
+				"title": "Two Craftsmen"
+			},
+			{
+				"number": 45,
+				"title": "Tendrils of Mist"
+			},
+			{
+				"number": 46,
+				"title": "To Awaken"
+			},
+			{
+				"number": 47,
+				"title": "Watching the Flow Writhe"
+			},
+			{
+				"number": 48,
+				"title": "A Brilliant Lance"
+			},
+			{
+				"number": 49,
+				"title": "Light and Shadow"
+			},
+			{
+				"title": "To See the Answer",
+				"type": "epilogue"
+			}
+		]
+	},
+	{
+		"title": "River of Souls",
+		"abbrev": "RoS",
+		"templates": [
+			"15",
+			"ros"
+		],
+		"key": "ros"
+	},
+	{
+		"title": "Legends",
+		"key": "legends"
+	},
+	{
+		"title": "The Strike at Shayol Ghul",
+		"abbrev": "TSaSG",
+		"template": "strike",
+		"key": "tsasg"
+	},
+	{
+		"title": "A Fire Within the Ways",
+		"key": "afwtw"
+	},
+	{
+		"title": "The World of Robert Jordan's The Wheel of Time",
+		"abbrev": "TWoRJTWoT",
+		"template": "bwb",
+		"key": "tworjtwot",
+		"other_aliases": [ "world" ]
+	},
+	{
+		"title": "The Wheel of Time Companion",
+		"abbrev": "TWoTC",
+		"templates": [
+			"c",
+			"twotc"
+		],
+		"other_aliases": [
+			"wotc"
+		],
+		"key": "twotc"
+	},
+	{
+		"title": "Origins of the Wheel of Time",
+		"abbrev": "OotWoT",
+		"template": "origins",
+		"key": "ootwot"
+	}
+]

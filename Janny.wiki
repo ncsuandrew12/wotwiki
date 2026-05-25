@@ -1,0 +1,19 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Maid
+| gender=Female
+| appeared={{cot|15}}
+| lastappeared={{cot|15}}
+| living=cot
+}}
+'''Janny''' is [[Elenia Sarand]]'s maid, so she is possibly [[Andoran]] as well. She is plump.
+==History==
+She has been Elenia's maid for twenty years and during this time she has delivered loyalty and discretion. Whenever Elenia feels particularly good, Janny is promised some fine new dresses.
+
+Once, Elenia had to sleep in a tiny soldier's tent, but without Janny to help her with her clothes or to add a little warmth under the blanket.
+
+She accompanies Elenia when she rides around [[Arymilla]]'s camp. When Lord [[Nasin]] shows up, Janny keeps placing her brown mare between the newcomer and her mistress to prevent him from groping her. Mentally, Elenia adds some embroidery to the dresses she had promised Janny earlier. When Nasin looks about to punch Janny and the woman does not back away, she even decides on silk embroidery, even though it is unsuitable for a maid.
+[[Category:Short pages]]

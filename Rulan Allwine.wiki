@@ -1,0 +1,22 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| occupation=Innkeeper
+| gender=Male
+| build=Stout
+| appeared={{teotw|33}}
+| lastappeared={{teotw|33}}
+| living=teotw
+}}
+'''Rulan Allwine''' is an innkeeper in [[Market Sheran]], a village in [[Andor]].
+
+==Appearance==
+He is a stout man.
+
+==Activities==
+When [[Rand al'Thor]] and [[Matrim Cauthon]] are making their way to [[Caemlyn]], they stop at Rulan's inn. Rand and Mat are shocked at the prices he is charging, due to the hard times. Nevertheless, they stay at his inn for the night.{{ref/book|1|33}}
+
+{{notes}}
+{{DEFAULTSORT:Allwine, Rulan}}

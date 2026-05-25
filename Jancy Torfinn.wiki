@@ -1,0 +1,40 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| birth= {{ne|985}}
+| nationality=Andoran
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| status=Alive
+| appeared={{loc|10}}
+| lastappeared={{loc|11}}
+| lastmentioned={{tpod|30}}
+| living=tpod
+}}{{for|others with the same surname|Torfinn}}
+'''Jancy Torfinn''' (sometimes spelled Janacy) is a [[novice]] from the [[Two Rivers]] among the [[Rebel Aes Sedai]].{{ref|{{twotc}}, Jancy Torfinn}}
+
+==Appearance==
+She is about fourteen, small and has a high voice.
+
+==Abilities ==
+She is described as 'very strong' in the [[One Power]], likely on the same level as [[Lelaine Akashi]], [[Elaida do Avriny a'Roihan]], [[Romanda Cassin]], [[Zarya Alkaese]] and [[Rainyn]], and possibly even stronger.
+
+==History==
+She is from [[Emond's Field]].
+
+She is among the five girls born with the [[spark]] and found in the Two Rivers by [[Verin Mathwin]] and [[Alanna Mosvani]], and so is found suitable for training.{{ref/book|6|10}}  
+
+It is possible that she is the sister of [[Jaim Torfinn]], an [[Asha'man]] Soldier in the [[Black Tower]]. 
+
+==Activities==
+She accompanies several other [[Two Rivers]] girls with channeling abilities to [[Caemlyn]], where they are all terrorized by [[Rand]].
+
+She eventually joins the rebel Aes Sedai in [[Murandy]], and becomes a novice. Later she follows the Aes Sedai to Tar Valon.
+
+{{notes}}
+{{DEFAULTSORT:Torfinn, Jancy}}
+[[Category:Two Rivers (people)]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Sparkers]]
+[[Category:Channelers]]

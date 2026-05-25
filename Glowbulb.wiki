@@ -1,0 +1,18 @@
+A '''glowbulb''' is a device from the [[Age of Legends]] that emits light. It never needs replacement or recharging.{{ref|{{bwb}}, Chapter 3: The Age of Legends}} Since the [[Breaking of the World]], the process used to manufacture glowbulbs has been lost, as well as almost all knowledge of their existence in the first place.
+
+Some have survived in [[stasis box]]es, and even three thousand years later still emit some light. 
+
+==Appearances and Mentions==
+
+Semirhage uses multiple glowbulbs during the interrogation of [[Cabriana Mecandes]] and her Warder, half of which "shimmered on the edge of failure". Another is described as flickering fitfully.{{ref/book|6|6}}
+
+Graendal observes several "bright and steady" glowbulbs in [[Sammael|Lord Brend's]] appartments which "stood oddly in heavy gold candleholders, giving much better illumination than candles or oil lamps ever could".{{ref/book|6|23}}
+
+==Lightsticks==
+The ship captain, [[Bayle Domon]], owned two of what he calls "light sticks". These may not be the same as glowbulbs, but perform a similar function:
+{{quote|[The lightstick] looked like a plain glass rod, thicker than his thumb and not quite as long as his forearm, but when held in the hand it glowed as brightly as a lantern. Lightsticks shattered like glass, too; he had nearly lost Spray in the fire caused by the first he had owned.|[[Bayle Domon]]|lightsticks|{{ref/book|2|9}}}}  
+This item was taken by [[Seanchan]] soldiers and given to High Lord [[Turak Aladon]].
+
+The main difference between glowbulbs and lightsticks is that lightsticks are only activated when holding them, whereas glowbulbs seem to be permanently emitting light. There is also the implied difference in shape between "bulb" and "stick" similar to lightbulbs and florescent tubes.
+{{notes}}
+[[Category:Age of Legends]]

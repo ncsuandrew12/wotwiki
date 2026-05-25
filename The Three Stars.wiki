@@ -1,0 +1,9 @@
+'''The Three Stars''' is an [[inn]] in [[Ebou Dar]]. Nothing is known about the location or appearance of the building.
+
+In {{ne|1000}}, [[Tuon Athaem Kore Paendrag]] tell [[Beslan Mitsobar]] that she is aware of the treasonous meetings he had with [[General]] [[Habiger]] and [[Lord]] [[Malalin]] at The Three Stars.{{ref/book|12|19}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Three Stars, The}}
+[[Category:Altara]]
+[[Category:Inns]]

@@ -1,0 +1,18 @@
+<noinclude>{| align="right"
+|{{Month|June}}
+|{{Wotmonth|Saven}}
+|}
+'''Saven 27 (June 6)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Lanfear]] visits [[Rand]] in the [[Stone of Tear]]. [[Trollocs]] and [[Myrddraal]] attack the Stone, but are eventually killed at once by Rand, using ''[[Callandor]]''.
+*{{ne|999}} - [[Egwene]] explored [[Tanchico]] in ''[[Tel'aran'rhiod]]'' and meets [[Amys]] for the first time. Amys invites her to the [[Aiel Waste]] to learn how to [[Dreamwalking|dreamwalk]]. [[Elayne]] and [[Nynaeve]] decide to go to Tanchico while Egwene goes to the Waste.
+*{{ne|999}} - News of trouble in the [[Two Rivers]] arrives, and [[Perrin]] prepares to journey home.
+*{{ne|999}} - Rand, [[Matrim Cauthon|Mat]], and [[Moiraine]] all enter the [[twisted redstone doorframe]] and speak with the [[Aelfinn]].
+<noinclude>
+==External links==
+*[[wikipedia:june 6|June 6]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

@@ -1,0 +1,36 @@
+{{character 
+| image=Ashaman.png
+| imagesize=200px 
+| nationality=Andoran
+| rank=Asha'man
+| occupation=Asha'man
+| affiliation=Logain Ablar
+| gender=Male
+| build=Sturdy
+| hair=Graying
+| status=Alive
+| mentioned={{acos|27}}
+| appeared={{wh|p}}
+| lastappeared={{amol|21}}
+| living=amol
+|name = Taril Canler|height = 5'10"}}
+'''Taril Canler''' is an [[Asha'man]] from Andor with the rank of [[Dedicated]]. He was a farmer before he joined to the [[Black Tower]]. {{ref|{{twotc}}, Taril Canler}} Canler is finally promoted to full Asha'man. {{Ref/book|14|21}}
+
+== Appearance ==
+His hair is graying, but he is still sturdy. He has a square face and is worn from many years in the sun.
+
+== Activities ==
+He worked out a weave to bond his wife, [[Leish]], in a similar fashion to the [[Warder]] bond. He has taught this weave to the other Asha'man, a fact which displeases [[Mazrim Taim]].
+
+He is part of [[Logain Ablar]]'s faction in the Black Tower. He, along with [[Algarin Pendaloan|Emarin]], [[Arlen Nalaam]], and [[Jonneth Dowtry]] are leveling hillside with the [[One Power]]. Alongside them is a group of Taim's men led by [[Coteren]]. Coteren mocks [[Androl Genhald]] who has stopped by and embarrasses him in front of everyone by showing how weak he is in the One Power. Canler's group become furious and everyone fills with ''[[saidin]]'' just about leading to open battle between the two groups before Androl manages to calm them all down by making light of the situation. After Taim's group leaves, Androl agrees that they will start to investigate the bizarre changes that are happening to people. {{Ref/book|13|46}}
+
+He tries creating [[gateways]] with Androl, [[Evin Vinchova]] and Emarin but the weaves just won't form. {{Ref/book|13|56}} The men are disturbed when [[Norley]] reports that  something in [[Mezar Kurin]]'s personality has changed and he is now one of Taim's men. [[Pevara Tazanovni]] fills in the men on what she suspects has happened to the people that have undergone suspicious behavior changes and that they have likely been turned to the [[Shadow]]. The men pick Androl as their leader to mount a resistance to Taim and his cronies.
+
+Canler is present in the inn when [[Welyn Kajima]] tells everyone that Logain and Taim have patched up their differences and want a unified Tower. As the men are leaving, Coteren enters and tells Androl that he has been demoted to Soldier. Androl embraces the Source. Resigned Canler does as well. Androl manages to calm down and diffuse the situation and the men leave. Canler is left with the [[Two Rivers]] men, when Androl and his group launch their mission to rescue Logain. If Canler hears nothing more from Androl, then he is to attempt to leave the Black Tower with the others. Androl manages to create a tiny gateway to his group pleading for help. Canler's group burst in to free Androl and the rest of the captives. Androl manages to kill many followers of the [[Shadow]] with their own weaves via a gateway. Taim and the rest of his men still living retreat, leaving the Black Tower for good.
+
+Logain promises to raise Canler to Asha'man. Androl then meets with Canler, Emarin and Jonneth. They are concerned about Logain changing after being subjected to the Turning process several times. However, they are loyal to what he decrees. Androl is concerned that Rand knew about the trap at the Black Tower and didn't help them. The men decide that they will take Rand's last command to heart and fight to live, rather than to die. They are not minions of the Dragon Reborn or the White Tower but their allegiance lies to the Black Tower only.
+
+{{Notes}}
+
+{{DEFAULTSORT:Canler, Taril}}
+[[Category:Channelers]]

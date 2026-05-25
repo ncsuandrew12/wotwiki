@@ -1,0 +1,25 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Andoran
+| rank=Governor
+| title=Governor of the Province of Andor
+| affiliation=Artur Paendrag Tanreall
+| gender=Male
+| mentioned={{loc|e}}
+| lastmentioned={{loc|e}}
+}}
+'''Jeorad Manyard''' is listed in history texts as the governor for the Imperial Province of [[Andor]] for the High King, [[Artur Hawkwing]].
+
+==History==
+Dates for Jeorad Manyard rule are not given. Since [[Endara Casalain]] was made governor of Andor some time after Hawkwing's marraige to the Lady [[Tamika]] in {{Fy|965}}, it is assumed that Manyard was governor between Aldeshar's capitulation in {{Fy|963}}, or earlier, if the province of Andor existed prior to the end of the [[Consolidation]], and prior to Endara being given the title.
+
+Next to nothing is known of Manyard aside from a partial translation of the ''[[Karaethon Cycle]]'' that has survived with his name attached to it.
+
+==Sources==
+Jeorad Manyard's name solely appears in the series in the closing quotation to ''[[Lord of Chaos]]'', where he is named "Governor of the Province of Andor for the High King, Artur Paendrag Tanreall." Elsewhere in the same novel and also in ''[[The World of Robert Jordan's The Wheel of Time]]'', Endara Casalain is named as the governor of Andor some time after the Black Years ({{Fy|961}} - [[FY 965|965]]) but before Hawkwing's death in {{Fy|994}}. Thus, Manyard must have been governor prior to Endara's ascent to the position.
+
+{{DEFAULTSORT:Manyard, Jeorad}}
+[[Category:Historical people]]
+[[Category:Mayors and governors]]

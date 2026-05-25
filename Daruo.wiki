@@ -1,0 +1,26 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| build=
+| rank=
+| occupation=Deathwatch Guard
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{amol|15}}
+| lastappeared={{amol|15}}
+| living=amol
+}}
+'''Daruo''' is a member of the [[Seanchan]] [[Deathwatch Guard]].
+
+== History ==
+Daruo has caught an arrow mid-flight with his bare hand.
+
+== Activities ==
+Daruo is on duty, when [[Matrim Cauthon]] saves [[Fortuona Athaem Devi Paendrag]]'s life from a [[Gray Man]]. He is sent to search for the Gray Man, who managed to escape in the confusion.
+
+==Trivia==
+*Daruo is named after Jay Dauro, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+{{Short}}
+[[Category:Characters named after fans]]

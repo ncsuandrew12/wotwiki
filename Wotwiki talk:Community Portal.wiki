@@ -1,0 +1,125 @@
+<!--
+Tried to create an input box for new pages as seen on [[Wikipedia:Help:Starting_a_new_page]], but it didn't work. Direct HTML may be disabled on Wikicities? Proposed code follows:
+ <inputbox>
+ type=create
+ preload=Template:New_page
+ editintro=Template:Policies
+ width=25
+ </inputbox>
+Other than that, this community portal isn't really up and running yet...
+
+:This won't work until we move to MediaWiki 1.5, which should be fairly soon. [[User:Angela|Angela]] ([[Wikicities:User talk:Angela|talk]]) 03:27, 20 Oct 2005 (UTC)
+:: Ahhh, thanks Angela! Figured it was something straightforward. [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 14:29, 20 Oct 2005 (UTC)
+-->
+
+== Help: namespace ==
+
+I've been thinking today whether we really need this namespace to be populated at all. Most of the articles we'd need there are technical MediaWiki questions that can be directed at [[wikia:Help]] or [[wikipedia:Help]], and the rest of the 'procedural' issues can probably be covered in project: space. Here's what we've got so far, for comparison:
+* [[Help:Book templates]] - '''good page''', but I just duplicated part of it at [[:Category:Book templates]] because I didn't know it existed.
+* [[Help:Cleanup]] - just a modified version of [[wikipedia:Wikipedia:Cleanup process]]
+
+* [[Help:Create an account]] - copy of [[wikia:Help:Create an account]]
+* [[Help:Edit summary]] - copied
+* [[Help:Contents]] &rarr; [[Help:Editing]] -- just an attempt at organizing these pages
+* [[Help:How to edit a page]] - copied from WP
+* [[Help:How to log in]] - not even a stub yet
+* [[Help:Image copyright tags]] - not even a stub yet 
+* [[Help:Images]] - copied from both WP and Wikia
+* [[Help:Redirects]] - just some discussion on using [[:Category:Redirects]]
+* [[Help:Searching]] - not even a stub yet
+* [[Help:Sections]] - not even a stub yet
+* [[Help:Shortcut]] - more of a policy proposal we haven't even implemented
+* [[Help:Sign your posts on talk pages]] - 
+* [[Help:Sources]] - taken from Wikia
+* [[Help:Spoiler tags]] &rarr; [[Help:Spoilers]] - more of a policy/style guide
+* [[Help:Starting a new page]] - not even a stub yet
+* [[Help:Style Guide]] &rarr; [[Help:Style guide]] - one of our '''biggest''' "behind-the-scenes" pages, but could just as easily go in project space. I think that's how Wikipedia does it.
+* [[Help:Talk pages]] &rarr; [[Help:Talk page]] - copied from meta, I think
+* [[Help:User access levels]] - not even a stub yet
+
+Of course, I'm pretty sure interwiki redirects don't work, so it's not like we could just point our help page index there. Maybe one page (Help:Contents? Help:Index?) with some common pages on Wikipedia/Wikia that may be useful for new users, rather than trying to reinvent the wheel, and keep it up to date when the originals change... -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 18:44, 27 July 2006 (UTC)
+
+: Yeah I don't think we need almost anything in the Help namespace except redirects to a Help:(Help|Contents|Index|whatever), which can point to meta/wikia/wikipedia as appropriate. --[[User:Gherald|Gherald]] 22:54, 5 October 2006 (UTC)
+::This one, I can work on. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:38, 16 October 2006 (UTC)
+
+==Redesign?==
+I'm growing disatisfied with this design.  It seemed like a good (and pretty) idea at the time, but I don't think it's served us particularly well.  How about including only choice links in a header (ala {{tl|useful}}, plus editing help) and making the rest of it a giant general-purpose anything-goes discussion board, meeting place, task coordinator, etc. ? --[[User:Gherald|Gherald]] 06:08, 6 October 2006 (UTC)
+:I find the "general discussion area" suggestion appealing, as there isn't really such a place here (or I haven't yet found it). --[[User:TheParanoidOne|TheParanoidOne]] 20:44, 15 October 2006 (UTC)
+:I support it, and will help in any way I can, just can't do it myself right now due to work commitments. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:30, 16 October 2006 (UTC)
+
+== Spoiler Saver Bar? ==
+
+Ok so I'm new here, (and no doubt am leaving this in the wrong place), and I know almost nothing about how a wiki works, but I did have an idea, I just don't know if its possible.
+
+How about a slider bar that can be set to wherever the reader has reached in the books, (perhaps down to chapter), so (for example) if set to chapter 14 of book 2 the page for Siuan Sanche would have no mention of her Stilling or removal from the Amyrlin Seat. Set later it would, later still would mention her being Healed.
+
+I kinda figure this would mean a heck of a lot more work, with each entry needing a number of entries rather than one, but the removal of plot spoilers would be a big advantage.
+
+The idea of a particular "now" within the tale is is ultimatly bunk as it simply depends on how far the reader has got.
+
+just an idea; feel free to call me a fool and say it wont work.
+
+You're probably right!
+:A cool idea, but I don't think it's technically possible with the software currently. --[[User:TheParanoidOne|TheParanoidOne]] 06:15, 3 November 2006 (UTC)
+
+:It's technically possible with CSS classes and a [[MediaWiki:monobook.js]] that sets or unsets style="display:none;" according to some settings stored in a local browser cookie.  But the issue is tagging everything in every article with the appropriate class.  This can be done via templates, but it's a lot of editing work for very little gain IMO.  I think it's best to just read through the books once w/o ever consulting sites like this one; wait till your second time through :) --[[User:Gherald|Gherald]] 18:36, 3 November 2006 (UTC)
+
+== better page on RJ ==
+
+just looked aat the page for Robert jordan and it's terrible, it's just sightings and stuff. can someone just do a little copy and paste from wikipedia?
+: We're using that page for fan stuff that ''doesn't'' belong on Wikipedia.  There is little point in maintaining a duplicate of that article, so we link to it instead. --[[User:Gherald|Gherald]] 06:52, 1 March 2008 (UTC)
+
+== a little bit of randomness, but i'm talking to the community ==
+
+if a person who can channel wears the foxhead medallion, can they still channel?
+
+Im guessing it would do the whole gholam burn your skin thing. So they probably could channel, but be in a lot of pain. [[User:207.181.15.218|207.181.15.218]] 16:09, 25 August 2007 (UTC)
+
+== Quote Font ==
+
+I think the font that is used for quoting passages from the books is hard to read.  Would the administrators be willing to change it?  ~Moridin
+
+: It was copied from the one that Uncyclopedia uses for [[w:uncyclopedia:Category:Oscar Wildeizms|Oscar Wildeizms]] on almost all their pages.  I like it a lot because it is fixed-width, but we can certainly consider alternatives... feel free to bring them up at [[Template talk:Quote]] --[[User:Gherald|Gherald]] 06:52, 1 March 2008 (UTC)
+
+I don't know why a fixed-width font would make quoting anything easier.  But I'm not a Wikia-making person, either.  All I'm saying is that, as a fan of the site who uses it quite frequently, the font is a little difficult to read.  I think a regular font would be better.  Times New Roman is my personal favorite, but you could pick anything that you want.  Anything more elegant and less rigid would be better than what you're using now.  ~Moridin
+
+: There's a reason why when you click edit page the response you type will be shown fixed-width.  It's easier to spot mistakes and verify you wrote/read what was meant. By the same token, fixed-width conveys the quotations with greater precision. --[[User:Gherald|Gherald]] 08:06, 9 March 2008 (UTC)
+
+Oh, okay.  That makes sense.  I guess fixed-width fonts ''would'' be better.  So, the best ones that I can find are Andale Mono, Courier (bold), Courier New (bold), and Monaco.  Do you like any of those and are they available to use on Wikias?  ~Moridin
+
+: It's a matter of whether they are available client-side, which is determined by the browser and windowing system.  Here's a comparison, if you don't have the font available you'll see <span style="font-family:impact;">impact</span> (I don't have Andale Mono or monaco, myself) --[[User:Gherald|Gherald]] 11:26, 12 March 2008 (UTC)
+
+:*<code>The quick brown fox jumps over the lazy dog, code tag</code>
+:*<span style="font-family:monospace, impact;">The quick brown fox jumps over the lazy dog, generic "monospace"</span>
+:*<span style="font-family:'Andale Mono', impact;">The quick brown fox jumps over the lazy dog, Andale Mono</span>
+:*<span style="font-family:courier, impact;">The quick brown fox jumps over the lazy dog, Courier</span>
+:*<span style="font-family:courier new, impact;">The quick brown fox jumps over the lazy dog, Courier New</span>
+:*<span style="font-family:monaco, impact;">The quick brown fox jumps over the lazy dog, monaco</span>
+
+I'd be happy with any of the last four, but Courier and Monaco are my favorite.  But again, you're the forum admin so it's up to.
+
+== New skin ==
+
+Hi!
+
+Several months ago, Wikia released a new site skin called Monaco.  The new skin features tools which make it much easier for visitors to find content and edit it.  You can read all about Monaco [[w:Wikia's New Style|here]].  As you can read on that page, while you will still be able to select Monobook (this wiki's current default skin) as the skin you personally use to view the site (via [[Special:Preferences]]), we are no longer able to support Monobook as a default skin for anonymous visitors.  So, we need to change the default skin to Monaco.
+
+There are a number of pre-built themes for Monaco.  Check out how the homepage looks in [http://wot.wikia.com/index.php?title=A_beginning&useskin=monaco&usetheme=sapphire Sapphire], [http://wot.wikia.com/index.php?title=A_beginning&useskin=monaco&usetheme=jade Jade], [http://wot.wikia.com/index.php?title=A_beginning&useskin=monaco&usetheme=slate Slate], [http://wot.wikia.com/index.php?title=A_beginning&useskin=monaco&usetheme=smoke Smoke], [http://wot.wikia.com/index.php?title=A_beginning&useskin=monaco&usetheme=beach Beach], and [http://wot.wikia.com/index.php?title=A_beginning&useskin=monaco&usetheme=brick Brick], and let me know which one you like best.  In addition to those pre-built themes, you can build your own custom themes as well.  Check out the custom themes on the [[w:c:shaiya|Shaiya Wiki]] and the [[w:c:diablo|Diablo Wiki]].  You can learn about customizing the theme, menus and other aspects of Monaco [[w:c:help:Help:Customizing_Monaco|here]].
+
+Take a look at that information, and let me know which theme you think might work best.  We need to change the skin by Friday, October 31st, so I am here to make that transition as easy as possible.  Let me know if you have any questions, or if I can help in any way.
+
+Thanks! --[[User:KyleH|KyleH]]<staff /> <small>([[User talk:KyleH|talk]])</small> 23:25, 28 October 2008 (UTC)
+
+:I set the theme to Sapphire for now.  If you would like to change it to something else, an admin can do that via the option at the bottom of the Skin tab in [[Special:Preferences]]. --[[User:KyleH|KyleH]]<staff /> <small>([[User talk:KyleH|talk]])</small> 18:30, 31 October 2008 (UTC)
+
+== Thoughts on Tense and Style ==
+Unlike most wikis dealing with fictional material, this one has several different tenses, and perspectives throughout.  I propose that we standardize this to what most other wikis like this do.  All matters are past tense, and in the third person.  If you think about it, I think you will agree that this approach makes the most sense.  All the events have already happened, we are just waiting for the recorder of said events to finish the account.  Take the Star Wars, Star Trek, or Dune wikis for example.  Everything is past tense because it all has already happened, we are just waiting for the events to be recorded.  No more of the "Right now" or "Currently", it should just be "She was" or "He did".  What do y'all think?  [[User:Xnuiem|Xnuiem]] 16:32, June 24, 2010 (UTC)
+:See [[Wotwiki:OOC]] and the [[Wotwiki talk:OOC#Writing in the present tense|talk page]].----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:41, June 24, 2010 (UTC)
+
+== New WOT Fanfilm ==
+
+I've never done this before, but felt ya'll might like to know; there's a Wheel of Time fanfilm out, called "Flight from Shadows", by Wheel of 9 Productions, up on youtube. Check it out!!
+
+
+
+[[Special:Contributions/174.23.132.88|174.23.132.88]] 05:46, September 21, 2013 (UTC)NewGirl

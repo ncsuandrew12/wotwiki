@@ -1,0 +1,17 @@
+{{character 
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Saldaea
+| rank=King
+| title=King of Saldaea
+| gender=Male
+| mentioned=[[RPG]]
+}}
+'''Rylen t'Boriden Rashad''' was the first King of [[Saldaea]] and the founder of that nation.
+
+==History==
+Rashad was the Imperial Governor for the Province of [[Saldaea]] during the latter part of the reign of [[Artur Hawkwing]], the High King. Upon his death in {{Fy|994}}, Rashad and the other [[Borderlands|Borderland]] Province rulers met to discuss what they should do as the rest of the Empire began to disintegrate in the [[War of the Hundred Years]]. The five provinces became independent nation-states, allied together against both the threat of the [[Blight]] to the north and also from attack by the southern kingdoms. They were able to subsequently ride out the chaos of the wars with minimal violence.
+
+{{DEFAULTSORT:Rashad, Rylen t'Boriden}}
+[[Category:Historical people]]

@@ -1,0 +1,23 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| occupation=Attendant
+| gender=Male
+| appeared={{tdr|8}}
+| lastappeared={{tdr|9}}
+| living=tdr
+}}'''Simion''' is master [[Harod]]'s attendant at an inn called [[Harilin's Leap]], in [[Jarra (village)|Jarra]].
+
+==Appearance==
+Simion has a wide mouth and almost no chin.
+
+==Activities==
+When [[Moiraine Damodred]], [[Lan Mandragoran]], [[Perrin Aybara]] and [[Loial]] travel through Jarra, Simion greets them and welcomes them to the inn. Simion sees Perrin's eyes, he asks Perrin to speak with Moiraine regarding his brother, [[Noam]]. Perrin and Moiriane go to see Noam and discover that, while he is a [[wolfbrother]], his humanity is lost and there is nothing either of them could do.{{ref/book|3|8}} Simion, in gratitude, brings Perrin's meals to his room so no more locals will see his eyes.{{ref/book|3|9}}
+
+==Parallels==
+According one legend, Bajan, the son of the Bulgarian ruler [[wikipedia:Simeon I of Bulgaria|Simeon the Great]] had the ability to transform himself into a wolf. It seems more than coincidence that he shares his name with someone who has a brother who had also transformed into a wolf.
+
+{{notes}}
+[[Category:Parallels]]

@@ -1,0 +1,39 @@
+{{character
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| affiliation=Turning
+| gender=Female
+| height=Tall
+| status=Alive
+| appeared={{kod|27}}
+| lastappeared={{kod|27}}
+| living=kod
+}}'''Adrielle''' is an [[Aes Sedai]] of the [[Gray Ajah]].{{ref|{{twotc}}, Adrielle}}
+
+==Appearance==
+She is tall and beautiful.{{ref|{{twotc}}, Adrielle|Adrielle}} She is taller than [[Mezar Kurin]], the Asha'man she is bonded to.{{ref/book|11|27}}.
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+She was one of fifty-one sisters sent to destroy the [[Black Tower]]{{ref/book|7|p}}. They were, however, all captured and bonded by the [[Asha'man]]{{ref/book|8|26}}. Adrielle is bonded to [[Mezar Kurin]]. She has become quite friendly with Kurin even though she was bonded against her will{{ref/book|11|27}}.
+
+
+Elaida abandons the Aes Sedai sent to capture the Black Tower, including Toveine, at [[Alviarin]]'s suggestion {{ref/book|7|32}}.
+
+She has [[Travel]]ed with Kurin to [[Tear]] to join up with [[Rand al'Thor]]. 
+She watches Rand's meeting with the [[Daughter of the Nine Moons]] from a distance and Travels in as backup when it is revealed that the Daughter of the Nine Moons is actually [[Semirhage]]{{ref/book|11|27}}.
+
+She vanished after Kurin was [[Turned]]. She was, presumably, also Turned.{{ref||Adrielle}}
+
+
+{{notes}}
+{{short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:The Turned]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

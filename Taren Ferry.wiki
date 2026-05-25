@@ -1,0 +1,51 @@
+[[File:Taren Ferry.jpg|thumb|375px|The fog-filled streets of Taren Ferry.]]
+
+{{quote|A cat for a hat, or a hat for a cat, but nothing for nothing.|A common Taren Ferry adage{{ref/book|6|18}}}}
+
+'''Taren Ferry''' is a small town that lies on the northern boundary of the [[Two Rivers]] region.
+
+==Geography==
+
+[[File:Two Rivers.jpg|thumb|left|375px|Map of Two Rivers region, Taren Ferry North and central]]
+
+The community rests upon the southern banks of the [[River Tarendrelle|Taren River]] several miles to the east of the waterfall known as [[Eldrene's Veil]]. The [[North Road]] begins at the town's ferry dock and travels south to [[Watch Hill]] and [[Emond's Field]]. A second ferry dock rests upon the north banks of the river where travelers can continue to [[Baerlon]]. Due to the isolation of the [[Two Rivers]] region, Taren Ferry exists as the sole gateway to the area from the outside and all travelers to villages south are forced to travel through the town. The subsequent flow of commerce has allowed Taren Ferry to prosper, creating a community with more than one inn and cobbled streets, features considered luxuries to the residents of southern villagers.  Buildings in the town are constructed on raised redstone foundations.{{ref/book|1|11}} These are necessary to ward against flooding when spring melt in the [[Mountains of Mist]] causes the Taren River to overflow its banks.{{ref|{{twotc}}, Taren Ferry|TF}}{{ref/book|1|11}} Due to the peaceful nature of the Two Rivers area coupled with the Taren River serving as a natural barrier to the outside world, a wall has not been constructed around the community.  
+
+==History==
+Evidence suggests that Taren Ferry did not exist when [[Manetheren]] ruled the region. The community traces its roots to the [[Free Years]] following the [[Trolloc Wars]] when a ferry was constructed to provide access for farmers returning to grow [[tabac]].  Later a village sprouted up around the ferry which eventually evolved into a town.  By [[998 NE]] Taren Ferry had grown to be about five times larger than Emond's Field and around half the size of Baerlon.
+
+==Government==
+Like the other communities in the Two Rivers region, Taren Ferry practices a form of gender based bicameral government. Governance is officially controlled by a [[Village Council]] consisting entirely of men who are elected to office by citizens via a popular vote. Council elections are often quite contentious in Taren Ferry, sometimes leading to political quarrels among townsfolk.{{ref/book|7|8}} The council is headed by a [[Mayor]] who is elected in a similar fashion. Additionally, a second ruling body called the [[Women's Circle]] controls matters in Taren Ferry as well. Members of the circle are always elder females within the town who are chosen by existing members. The Women's Circle is headed by a [[Wisdom]] who serves for life. As in the southern villages of Watch Hill, Emond's Field, and [[Deven Ride]], political control of Taren Ferry exists as an ongoing willful struggle between the Village Council and the Women's Circle. In general however, the council tends to regulate economic matters and the Women's Circle holds sway over social issues. Recently the politics of Taren Ferry have experienced outside influence exerted by [[Faile Bashere|Lady Faile Bashere Aybara]] who deliberately maneuvered individuals sympathetic to her husband into the two ruling bodies in order to consolidate political control over the community.{{ref/book|6|p}} As a result, the people of Taren Ferry have begun to acknowledge Lord and Lady Aybara as their sovereign nobles.
+
+==Culture==
+{{quote|''If you shook hands with a Taren Ferry man, you counted your fingers afterwards''|A statement regarded as common wisdom in the lower villages of the Two Rivers{{ref/book|1|11}}}}
+
+The people of Taren Ferry blend Two Rivers culture with that of the outside world. Surnames in Taren Ferry often do not follow the traditional conventions of the "al" prefix - a legacy of Manetheren heritage.  Rather, surnames in Taren Ferry are based on other influences, with examples being "Hightower", "Hilltop", and "Stoneboat".{{ref/book|1|11}} Citizens of Taren Ferry do not celebrate [[Bel Tine]] so the town is quiet on nights when celebrations are occurring in southern villages.  Men from the town are well known as hagglers, tricksters and fast-talkers,{{ref/book|1|11}} leading other Two Rivers folk to distrust them and use pejorative terms like "''sheepstealer''" or "''chickenthief''"" to describe them.{{ref/book|1|1}} Taren Ferry folk seldom visit Watch Hill, Emond's Field, or Deven Ride and tend to look down upon those communities by referring to them as the "lower villages".{{ref/book|1|11}} Local culture has evolved around the constant flow of commerce through the town and the influence of merchant dealings.  As a result, bloodlines of residents are mixed with foreigners. [[Verin Mathwin]] acknowledges this fact in her thoughts when she notes the general inability of Taren Ferry girls to [[channel]] as compared with the enormous number of potential [[novices]] found by her and [[Alanna Mosvani]] in the three lower villages.{{ref/book|6|11}}
+
+==Economics and trade==
+Taren Ferry enjoys a unique economic advantage as the singular gateway into and out of the Two Rivers region. All merchant caravans traveling south to Watch Hill, Emond's Field, and Deven Ride must first pay a toll to utilize the ferry system, and must pay again to travel north to Baerlon. Additionally, as a function of his office the Mayor of Taren Ferry observes the flow of goods and enforces Tarrifs. This ability to lay and collect taxes on merchants represents greater executive power than is held by mayors of lower villages who merely observe commerce to ensure a fair marketplace.  The town therefore prospers more from the movement of agricultural commodities through the community than upon the actual farming of the products. Taren Ferry also does brisk business in several inns, and there are many craftsmen, horse traders, and brokers in the town.
+
+==Recent Events==
+For as long as townsfolk can remember Taren Ferry has existed as a quiet community, but recent events have led to changes.
+[[File:River Tarendrelle.jpg|thumb|left|175px|Destruction of the ferry]]
+===Ferry Destruction===
+On the night of Bel Tine in [[998 NE]] while the southern villages celebrated, Taren Ferry slept.  In the dark of night a mysterious group of travelers consisting of a [[Moiraine Damodred|woman]] with a [[al'Lan Mandragoran|male companion]] leading a group of youths and a [[Thomdril Merrilin|gleeman]] demanded immediate access to the ferry system.  After appealing to the greed of [[Hightower|Master Hightower]], the chief ferryman, the ferry crew was rousted from their beds and the travelers were transported to the north shore of the river.  After they debarked a bizarre whirlpool suddenly appeared and destroyed the ferry craft.{{ref/book|1|12}}  For several months afterwards commerce through Taren Ferry was disrupted while travelers awaited the construction of a new ferry.
+
+===Military occupation & Shadowspawn invasion===
+The following year the community suffered a string of troubles that began when a regiment of [[Children of the Light]] led by [[Dain Bornhald]] appeared on the north banks of the Taren River and demanded immediate access to the town.  After a brief conference, representatives of the Village Council and Women's Circle were intimidated into granting Bornhald permission to utilize the ferry system which led to a subsequent military occupation lasting for several months.{{ref/book|4|1}}  During this time residents were harassed with [[darkfriend]] accusations and were forced to feed and house a garrison of soldiers left in the town while Bornhald led a larger contingent south in search of [[Perrin Aybara]].
+
+Subsequent troubles in the lower villages led to an invasion of Shadowspawn accessing the Two Rivers region via a [[Waygate]] on the site of the former capital of Manetheren and a large force of [[Trollocs]] eventually attacked Taren Ferry.  The lack of a town wall left the community exposed, a vulnerability exploited by the shadowspawn.  As a result, the small contingent of Children of the Light fled and the citizens of Taren Ferry were left open to slaughter.  More than half of the population of Taren Ferry was murdered - including the Wisdom - and many structures were destroyed.  Peace came to the community after the [[Battle of Emond's Field]] when the Children of the Light were expelled from the Two Rivers and the remaining Shadowspawn were systematically hunted down and exterminated.
+
+===Reconstruction===
+{{quote|The smoke had long since stopped rising from burned buildings, but there was little left of the town to rebuild.  Feral dogs hunted through the rubble for meat.  They looked up as the wind passed, their eyes hungry.|Taren Ferry one year after its destruction by shadowspawn{{ref/book|14|1}}}}
+After suffering extreme depopulation, those who survived returned during the late summer of 999NE to begin rebuilding the community.  A new Village Council and Women's Circle were established under the political manipulations of Faile Bashere Aybara with a focus on providing the most basic necessities for survivors - food, water, and shelter.  The new Wisdom, [[Milla al'Azar]], is extremely young and chosen simply because no woman of greater experience was alive.{{ref|{{twotc}}, Milla al'Azar}} Progress on reconstruction slowed during the winter of 999NE when many survivors found themselves pulled away from Taren Ferry to [[Perrin Aybara]] and ultimately to [[Tarmon Gai'don]].{{ref/book|11|29}}  Sometime in 1000NE Taren Ferry was raided a second time and by late summer stood ruined and virtually abandoned.{{ref||TF}}
+
+== External links ==
+*{{TVlink|Taren Ferry}} on {{TVlink}}
+
+{{notes}}
+
+[[es:Embarcadero de Taren]]
+[[Category:Towns]]
+[[Category:Andor]]
+[[Category:Two Rivers]]
+[[Category:Citation needed]]

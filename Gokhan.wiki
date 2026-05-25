@@ -1,0 +1,24 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize=250px
+| rank=Lord
+| occupation=Soldier
+| affiliation=Ever Victorious Army
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{amol|32}}
+| lastappeared={{amol|32}}
+| living=amol
+}}
+'''Gokhan''' is a Lord of [[the Blood]] who serves in the [[Ever Victorious Army]].{{ref/book|14|32}}
+
+== Activities ==
+After Empress Fortuona discovers [[Min Farshaw]]'s ability as a [[Doomseer]], she orders Min to record several [[Min's viewings|viewings]] about [[Seanchan]] soldiers. Min sees white lace trailing in a pond, and knows that he will marry in the near future. As a result, the Empress sends Gokhan to the front lines, as she can be certain that he will survive the [[Last Battle]]. 
+
+== Trivia ==
+* Gokhan is named for Gokhan Ipek, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:The Blood]]
+[[Category:Characters named after fans]]

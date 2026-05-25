@@ -1,0 +1,237 @@
+{{dablink|For the chapter in ''[[The Dragon Reborn]]'' by another name for the Aiel, see ''[[The Dragon Reborn/Chapter 56|People of the Dragon]]''. For the origin of the name "The People of the Dragon" see [[Child of the Dragon]]. For other uses of the word "dragon," see [[Dragon (disambiguation)|Dragon]].}}
+{{Featuredicon}}[[Image:Jeremy_Saliba_aiel_take_2.jpg|right|thumb|250px|Aiel veiled, portrait done by Jeremy Saliba]]
+{{WotQ|Aiel}}
+The '''Aiel''' (pronounced: eye-EEL) are a race of people who live between the "wetlanders" in the [[Westlands]] and the [[Shara|Sharans]] in the east, in a desert which the Aiel call the Three-fold Land and which everyone else calls the [[Aiel Waste]]. They have earned a reputation as exceptionally skilled warriors; little else is known about them in the wider world. Physically, Aiel can be recognized through their unusually tall height, characteristic pale eyes and light-colored hair, as well as their distinctive clothing.
+
+==Origins==
+[[File:VeiledAiel.JPG|thumb|right|220px|A Portrait of an Aiel Veiled for Battle, by Ariel Burgess Official Wheel of Time Artist]]
+Rand Al’Thor learns the history of the Aiel by passing through a glass columns [[ter'angreal]] in [[Rhuidean]].{{ref/book|4|26}} Modern Aiel are descended from the [[Da'shain Aiel]] during the [[Age of Legends]], who were sworn never to do violence (a philosophy known as ''the [[Way of the Leaf]]''). Da'shain Aiel served the [[Aes Sedai (Age of Legends)|Aes Sedai]] (male and female) both in the Age of Legends and during the [[War of Power]] in which the leader of the Forces of the Light was [[Lews Therin Telamon]], the Dragon. For that reason, these Aiel are called by the name "People of the Dragon". 
+
+=== Into the Exile ===
+As the world was being destroyed by male Aes Sedai (who were going mad following [[The Strike at Shayol Ghul|the strike at Shayol Ghul]] by the Dragon), the remaining female Aes Sedai in [[Paaran Disen]] bound the [[Da'shain Aiel]] to an oath to protect ''[[angreal]]'', ''[[sa'angreal]]'', ''[[ter'angreal]]'', and various other items from the madness of the male Aes Sedai. The Da'shain Aiel are commanded to "keep moving, always moving until they find a place of safety", where none can harm them. 
+
+Some time during the [[Breaking of the World]], however, the Da'shain Aiel began disintegrating from one people into three.
+
+=== Tuatha'an ===
+The first split between Aiel occurred during the [[Breaking of the World]]. This split took place among second generation traveling Da'shain Aiel. A portion of the caravan of Aiel refused to continue the task entrusted to them by the Aes Sedai, and emptied their wagons of the items of power. They left in order to search for the peace they had enjoyed during the Age of Legends; they later became known as the ''Tuatha'an'' or Traveling People. 
+
+To this day, there is distrust and revulsion on the part of modern Aiel for the "Lost Ones" (the Aiel term for the ''Tuatha'an''), though most Aiel and all{{verify}} ''Tuatha'an'' do not remember why. They are allowed passage through the Aiel Waste because the Aiel cannot bring themselves to interact with such a (from their perspective) disgraced people.
+
+===Taking up the spear===
+[[file:Algai'd'siswai.JPG|thumb|left|An Aiel warrior]]
+The remaining group of Da'shain Aiel themselves split during the fourth generation of their travels. While rescuing two women who had been taken by raiders, four young men of this group went to rescue them rather than simply accept the violation. One member of the group, [[Lewin]], accidentally grabbed a spear while one of the raiders was attacking him and ultimately killed the raider in self-defense. Another of the Aiel men was killed, but they all participated in the violence.{{ref|Given how ingrained non-violence was to the Aiel, this feels like a moment of the Pattern twisting fate. Perhaps Lewin was ''[[ta'veren]]'', like some of his descendants?}} When they returned to camp and the others found out that the men had killed the raiders, they told the men to hide their faces (using the dust veils they used in the dry lands) and that they were no longer Aiel because they had broken the Covenant and killed, even though they still refused to use a sword. Over time, more and more Aiel joined those who would kill in self-defense, even [[Morin|women]] (creating [[Far Dareis Mai]]), leaving only what became known as the [[Jenn Aiel]] ("True Dedicated") to hold to both the Way of the Leaf and the task set by the Aes Sedai.
+
+===Into the Waste===
+These two groups remained together, the now-violent Aiel defending the Jenn Aiel despite their protestations, and this bifurcated group made their way across the [[Spine of the World]] into what would become known as the Aiel Waste. {{A|Water-sharing}}They were helped during their journey by a tribe of people who would later become the nation of [[Cairhien]]. This help came in the form of water freely given, the first time since the Breaking that the Aiel encountered a people who did not try to attack them or cheat them. This event (called Sharing of Water by those who visited the glass columns in Rhuidean) may be the origin of the Aiel custom of water oaths and is the reason the Cairhienin would eventually be given safe passage across the Waste. In the Waste, the Aiel prospered while the Jenn Aiel dwindled; the last Jenn of the sacred city [[Rhuidean]]{{ref|According to [[Brandon Sanderson]], a remnant of the Jenn Aiel still survives. [[Nakomi]] is one such Jenn survivor.{{ref/book|origins|Nakomi}}}} died hundreds of years ago.
+
+[[file:Codarra.jpg|thumb|225px|right|Aiel in the Waste]]
+Today, the Aiel have all but forgotten their ancient ways. Only the Wise Ones and clan chiefs remember that they once followed the Way of the Leaf. Knowledge that they once served Aes Sedai and failed them in some way is known to some outside of the Wise Ones and clan chiefs, but only these leaders know the details. No trace of the Way of the Leaf remains in their culture other than a total unwillingness to touch a sword, and the forced pacifism of ''gai'shain''.
+
+==Reputation==
+Not much is known about the Aiel by the outside world. Any wetlanders (as they call those who live to the west) are killed on sight; only [[peddler]]s, [[gleemen]], and [[Aes Sedai]] are given free passage. ''[[Tuatha'an]]'' can also move freely in the Waste if they so choose, as no Aiel will go near them. Aiel have a reputation for being vicious fighters, and "black-veiled Aiel" is a common epithet for violent people.{{ref/book|1|g}} The confused{{ref|Most Aiel have light-colored eyes.}} term "black-eyed Aiel" is sometimes used.{{ref/book|8|20}}{{ref/book|9|27}}
+
+[[file:Spine of the World.jpg|thumb|200px|left|An Aiel army crossing the Spine of the World.]]
+The Aiel once allowed a fifth class of wetlander to traverse their lands: the citizens of Cairhien, in honor of the help they had given the Aiel during their wandering. The Cairhienin were allowed to travel through the Waste to [[Shara]], where the Cairhienin were able to obtain precious silks, spices and other luxury goods. The Aiel also gave Cairhien a small tree: ''[[Avendoraldera]]'', a cutting of ''[[Avendesora]]'', the Tree of Life. Unfortunately, several centuries later, a Cairhienin king with more ambition than sense, [[Laman Damodred]], cut down ''Avendoraldera'' to make himself a throne. Four clans of outraged Aiel boiled out of the Waste to bring back Laman's head. Led by a charismatic Taardad clan chief named [[Janduin]], the expedition was complicated when several "wetlander" armies mistook the Aiel for an invasion force and started fighting back. The Aiel cut them to ribbons, chasing King Laman across the nations, and by [[978 NE]] they had pursued him all the way to [[Tar Valon]]. At the  [[Battle of the Blood Snow]], as it was later called, the Aiel finally succeed in killing King Laman; the next day, they went home. Wetlanders call this the [[Aiel War]]; the Aiel called it justice. Since then, however, the Aiel have been even more hostile to the Cairhienin than to other wetlanders, calling them "treekillers" and "oathbreakers."
+
+[[file:Gaul.jpg|thumb|right|An Aiel warrior]]
+
+== Culture ==
+
+The Aiel have a very distinct culture that wetlanders and others (particularly the [[Atha'an Miere]]) find opaque and confusing.
+
+=== Customs ===
+The Aiel have a number of cultural practices that are quite strange to outsiders. For example, women frequently become soldiers and fight alongside men. In addition, the taboo against nudity in practical settings is much weaker amongst the Aiel than in some cultures, much to the astonishment of many wetlanders. On the other hand, their capacity for public display of affection is almost nonexistent, and they are mortified to watch lovers kiss or even embrace. The Aiel moral code is called ''[[ji'e'toh]]'', an Old Tongue word which roughly translates to "honor and duty" or "honor and obligation"; it codifies the Aiel responses to honor and shame (which is essentially synonymous with obligation). Outsiders consider it labyrinthine—one who studied it for a month reportedly ended more confused than they started—but the Aiel live and die by it.
+
+====''Gai'shain''====
+One of the most intricate convolutions of ''ji'e'toh'' concerns the taking of ''[[gai'shain]]'', "those sworn to peace in battle". Aiel earn honor and prestige for deeds in battle—or accumulate shame by misdeeds—but killing an opponent earns the least honor; "any child can kill". What earns the most honor is touching the opponent while they are holding a weapon, but without harming them, much like the practice of {{Wiki|counting coup}} performed by the Native Americans. An Aiel so shamed is considered to have ''toh''—obligation—to the person who touched them, and will march straight to that person and demand to be made ''gai'shain'', at which point they don white robes, become that person's peaceful servant in all but name for a year and a day, and swear not to touch a weapon, or even defend themselves, during that time. 
+[[file:Gai'shain.jpg|thumb|left|Gai'shain: in white for a year and a day to meet ''toh'']]
+Becoming ''gai'shain'' is a way to answer for ''toh''; it is totally voluntary and can be used to atone for non-battle-related shaming as well. ''Gai'shain'' are not slaves, and any wetlander who suggests it is soon straightened out. Conversely, Aiel are horrified and confused by the concept of "servants", people who work throughout their life in the service of others.
+
+[[Wise One]]s, children, pregnant women, women with a child under the age of ten, and blacksmiths cannot be taken ''gai'shain''. Exact "ownership" of the ''gai'shain'' is a variable matter; though each ''gai'shain'' swears only to one person, they can be and are often instructed to obey commands from other people as well. On occasion a man will allow himself to be taken gai'shain by a Maiden he wishes to marry in an attempt to get her to fall in love with him during his time of servitude. The Maiden never does because they would never look at a gai'shain as a potential mate, and usually "teach them to sing", something Aiel men do not do unless a battle hymn or dirge for the slain.
+
+The rules of ''ji'e'toh'' are so strong among the Aiel that even the ''Car'a'carn'' cannot make ''gai'shain'' fight, not even in the [[Last Battle]].{{ref/book|14|37}}
+
+====Gender differences====
+[[file:Edarra.jpg|thumb|right|Aiel woman in the Waste]]
+Though only men can become clan chiefs, only women can hold property. The owner of any given roof (house) or [[hold]]ing (settlement) is the [[roofmistress]], and she must give permission to step under her roof. Only women, likewise, can become Wise Ones. Only women can ask for marriage; a man may accept or decline, but may not ask, although he may make his interest known in other ways, such as giving a gift. The Maidens of the Spear mistake Rand's gifts to [[Aviendha]] as gifts proclaiming his interest. Along the same lines, a man who notices a woman eyeing him is supposed to ignore it until she vocalizes her interest.
+
+Aiel practice polygyny, a form of polygamy in which a man has multiple wives (though not all Aiel men do), but not polyandry, in which a woman has multiple husbands. Wives of the same husband are referred to as sister-wives and share a close relationship. All parties must be in agreement for a polygynous marriage.
+
+====Water Oath====
+A water oath is an agreement traditionally between members of the Aiel that is sworn over water. It is considered an extremely serious oath and is rarely broken.
+
+====Sharing of water====
+When Aiel wish to relax formality with newly met strangers, they may conduct a ritualistic sharing of water wherein the hosts and guests each take a sip of water and formally introduce themselves.{{ref/book|4|23}} It is unclear if this ritual is practiced by all Aiel, or merely all Aiel women, or if it is limited to Wise Ones. [[Rhuarc]]'s reaction to a perceived insult by [[Rand]] indicates that men, or at least clan chiefs, also practice this ritual or a variation of it.{{ref/book|12|7}}
+
+This practice may possibly be derived from the original [[#Water-sharing|sharing of water]] by the ancestors of the [[Cairhienin]].
+
+====The Fifth====
+When a group of Aiel take one of the holds of an enemy clan in the Waste, by custom they carry away one fifth of all it contains, excepting only food.
+
+=== Humor ===
+
+Aiel humor is seen as strange by outsiders. Aiel often don't see the humor in wetlander wit (for example, [[Maidens]] were distracted by the incidental presence of water in a joke told by [[Rand al'Thor]]{{ref/book|6|4}}). Aiel will often find humor in ways that mystify wetlanders (for example, when [[Gaul]] described breakfast as a "mighty victory" to [[Perrin Aybara]]{{ref/book|13|7}}).
+
+{{Quote|What happened with the pond? Surely the water is the point of this story.|speakers=Somara|other_refs={{ref/book|6|4}}}}
+
+{{Quote|How can we laugh when he doesn't know what happened to the water?|speakers=Maira|other_refs={{ref/book|6|4}}}}
+
+==Organization and hierarchy==
+[[Image:Aiel-icon.svg|right|200px]]
+The Aiel are organized on several different levels. There are twelve Aiel clans, each of which has a clan chief; clans are further divided into septs, and septs subdivide into holdings (which are individual settlements; each clan and sept also has a central hold). Aiel warriors also affiliate themselves with various warrior societies, of which there are twelve: Mountain Dancers, Thunder Walkers, Stone Dogs, Brothers of the Eagle, etc. The only society to accept women is the ''Far Dareis Mai'', the Maidens of the Spear; their members 'marry' their spears and are forbidden to take men into their lives on a permanent basis without forfeiting membership. 
+[[file:Couladin.jpg|thumb|left|An Aiel warrior]]
+[[file:Maiden Handtalk.jpg|thumb|left|Maidens of the Spear communicating with their "handtalk"]]
+[[file:Shaarad.jpg|thumb|left|Black-veiled Aiel warriors]]
+The lines of loyalty amongst clan, sept and society are tangled; but, roughly, allegiance to one's warrior society trumps clan allegiance. This appears counter-intuitive until one remembers that the clans are in a state of almost perpetual multidirectional warfare; since Aiel from any clan can join any society, and will not raise spear against fellow society members, this allows open lines of diplomacy between all clans at all times. Some Aiel even sojourn with their societies to avoid participating in clan feuds.
+
+===Clans and septs===
+The thirteen Aiel clans (including the ancient ''Jenn'' Aiel), and their known septs.
+{| cellspacing="5"
+|
+* '''[[Chareen]]'''
+**[[Cosaida]]
+**[[Jarra (sept)|Jarra]]
+**[[White Mountain]]
+*'''[[Codarra]]'''
+**[[Jaern Rift]]
+*'''[[Daryne]]'''
+**[[Bent Peak]]
+**[[Shelan]]
+*'''[[Goshien]]'''
+**[[High Plain]]
+**[[Jhirad]]
+**[[Mosaada]]
+**[[Red Salt]]
+**[[Red Water]]
+**[[Stones River]]
+*'''[[Miagoma]]'''
+**[[Cold Peak]]
+**[[Smoke Water]]
+**[[Spine Ridge]]
+|
+*'''[[Nakai]]'''
+**[[Black Cliffs]]
+** [[Black Water]]
+**[[Salt Flat]]
+*'''[[Reyn]]'''
+**[[Musara]]
+**[[Two Spires]]
+* '''[[Shaarad]]'''
+**[[Black Rock]]
+**[[Haido]]
+**[[Imran]]
+*'''[[Shaido]]'''
+**[[Domai]]
+** [[Green Salts]]
+**[[Jonine]]
+**[[Jumai]]
+**[[Morai]]
+**[[Moshaine]]
+**[[White Cliff]]
+|
+*'''[[Shiande]]'''
+**[[Neder]]
+*'''[[Taardad]]'''
+**[[Bitter Water]]
+**[[Bloody Water]]
+**[[Chumai]]
+**[[Four Holes]]
+**[[Four Stones]]
+**[[Iron Mountain]]
+**[[Jagged Spire]]
+**[[Jindo]]
+**[[Miadi]]
+**[[Nine Valleys]]
+*'''[[Tomanelle]]'''
+**[[Jenda]]
+**[[Serai]]
+**[[Shorara]]
+*'''[[Jenn Aiel]]'''
+|}
+
+=== Warrior societies===
+{{main|Aiel warrior societies}}
+[[File:Aiel.JPG|thumb|right|An Aiel warrior]]
+[[File:Shiande.jpg|thumb|right|Aiel with their spears]]
+*''Far Dareis Mai'' (Maidens of the Spear)
+*''Shae'en M'taal'' (Stone Dogs)
+*''Aethan Dor'' (Red Shields)
+*''Seia Doon'' (Black Eyes)
+*''Far Aldazar Din'' (Brothers of the Eagle)
+*''Rahien Sorei'' (Dawn Runners)
+* ''Sha'mad Conde'' (Thunder Walkers)
+*''Hama N'dore'' (Mountain Dancers)
+*''Sovin Nai'' (Knife Hands)
+*''Cor Darei'' (Night Spears)
+*''Tain Shari'' (True Bloods)
+*''Duadhe Mahdi'in'' (Water Seekers)
+*''Mera'din'' (the Brotherless, described below)
+
+===Rhuidean===
+'''[[Rhuidean]]''' is a small city located in the [[Aiel Waste]]. After the Breaking of the World, the Jenn Aiel and female Aes Sedai who accompanied them to escape the insane male channelers, built the first and only city there, which they named Rhuidean. The city was never fully inhabited, and was abandoned after the gradual extinction of the Jenn Aiel; however, it is still used for raising clan chiefs and [[Wise One]]s.
+
+[[file:Rhuidean.jpg|thumb|left|The city of Rhuidean]]
+Since [[Rand al'Thor]] destroyed the Power-woven barrier surrounding Rhuidean, and tapped into an underground water supply to form a lake on the edge of the city, Rhuidean is now being slowly populated and rebuilt. If this effort is successful, it will be the only inhabited city in the entire Aiel Waste.
+
+===Wise Ones===
+{{main|Wise Ones}}
+[[file:Meira.jpg|thumb|right|A Wise One]]
+Aiel women who can channel are not sent to the White Tower; instead, they remain among the Aiel and become Wise Ones. However a woman can become a Wise One without having the ability to channel. Some Aiel women are also skilled in [[dreamwalking]] ''Tel'aran'rhiod'', the World of Dreams; they too become Wise Ones (even if they cannot channel). Wise Ones undergo a grueling testing period, culminating in a trip to Rhuidean; inside there are ''ter'angreal'' which administer the final test.
+
+[[file:Chiefs chair ccg.JPG|thumb|left|150px|The only chair found among the Aiel would be a ceremonial chair for a clan chief]]
+
+===Clan Chiefs ===
+Aiel clan chiefs must also undergo a test by traveling to the center of Rhuidean, four Wise Ones must say yes for them to do so. They enter a ''ter'angreal'' which teaches them their true history; those who can bear the weight of that rough knowledge become clan chiefs. They come out marked with an iridescent dragon tattoo around one forearm—or do not come out at all. Women receive no such marking. Two of three who go, do not return; what they learn in Rhuidean is too much for some to bear.{{ref/book|4|23}} Eventually, it is told, a man will emerge from Rhuidean at daybreak with ''two'' dragons, one on each forearm: a '''''Car'a'carn''''', a chief-of-chiefs.
+
+===Prophecy ===
+There is also a ''Car'a'carn'', a chief of chiefs, spoken of in prophecy, who will lead the clans and destroy them:
+
+{{quote|He shall spill out the blood of those who call themselves Aiel as water on sand, and he shall break them as dried twigs, yet the remnant of a remnant shall he save, and they shall live.|''[[The Shadow Rising]]'', [[The Shadow Rising/Chapter 34|Chapter 34]]}}
+[[file:Car'a'carn.jpg|thumb|right|250px|Dual dragon tattoos of the ''Car'a'carn'']]
+Of late, [[Rand al'Thor]] has been proven to be that man. The arrival of ''He Who Comes with the Dawn'' has caused a number of upheavals to the Aiel way of life, manifest in a number of ways, such as:
+
+====The Shaido====
+One of the twelve clans, the [[Shaido]], has splintered off from the Aiel proper; its now-deceased leader, [[Couladin]] claimed to be the real ''Car'a'carn'' and led the [[Shaido]] across the Dragonwall into [[Cairhien]]. His claim was bolstered by markings on his arms identical to those Rand received in Rhuidean; [[Asmodean]] placed them there to sow dissent. His claim has been supported posthumously by his wife [[Sevanna]].
+
+====The Bleakness ====
+At [[Alcair Dal]], Rand also revealed the secret he learned in the Rhuidean test, the secret that drove two of three prospective clan chiefs to insanity:{{ref/book|4|23}} that the Aiel had once been the Da'shain Aiel, served the [[Aes Sedai (Age of Legends)|Aes Sedai]], and followed the Way of the Leaf. To a culture that lives and dies by its oaths, the news that they were all oathbreakers due to their violence was devastating, and many Aiel have since succumbed to the resulting "bleakness." Some take on permanent ''gai'shain'' white, in hopes of paying off a debt that can never be repaid. More forsake spear and ''[[cadin'sor]]'' and attempt to live the Way of the Leaf as their ancestors would have.{{ref/book|5|5}} Others simply disappear. And some of them abandon clan and sept to to join the Shaido, hoping for a return to an earlier, simpler time.
+[[file:Couladin.JPG|thumb|left|Couladin, deceased leader of the ''Shaido'' clan]]
+
+====Brotherless====
+Because of this, the Shaido ranks are swelling, but these runaways are scorned by the Shaido, and their warrior societies will not accept them. This resulted in the unofficial creation of a thirteenth warrior society, peculiar to the Shaido: the ''[[Mera'din]]'', the Brotherless, those who have lost everything (no Maidens of the Spear seem to have made this decision).
+
+At present, the heads of the other eleven clans remain loyal to al'Thor, but as battle and the bleakness take their tolls, the number of loyal Aiel diminishes daily.
+
+==Future==
+[[image:Indirian.jpg|thumb|right|Aiel in repose; they scorn chairs as a practice of Wetlanders]]
+A possible future of the Aiel is a dark one - based on Aviendha's vision in Rhuidean, the Aiel will break Rand's peace with the Seanchan due to their captured Wise Ones not being released (from having been made ''damane'') after an agreed year of service. The Aiel will have drawn all other states into war with the Seanchan as well, resulting in a likely total conquest of the whole continent by the Seanchan.
+
+Also by edict of Seanchan Empress, all Aiel were to be hunted down like animals till last one for their fight against the empire, and by first part of Aviendha's vision, they were.{{ref/book|13|48}}
+
+However, this possible future came about as a direct result of Rand al'Thor's decision to exclude the Aiel from the Dragon's Peace. Including the Aiel as a police force in the Dragon's Peace definitively avoids the precise future seen by Aviendha. It will likely avert the broader destitute future.
+
+==Language==
+The language of the Aiel is derived from the same Old Tongue as known to the rest of the known world in the series, though with a particular stress on maintaining many of the traditional terms of importance, such as titles and legal terminology.
+
+It should be noted that all Aiel in the books also speak the common language of the world, while maintaining terminology and syntax from the Old Tongue where it is useful.
+
+==Parallels==
+Robert Jordan has said that the Aiel are based on the {{Wiki|Zulu}}, {{Wiki|Bedouin}}, {{Wiki|Apache}}, and Japanese cultures, among others. This can be seen through their nomadic lifestyle and disdain for cities, as well as their fierce warriors who have the clothing and skills of American Indian trackers. This combines with their Japanese Shogun era deep devotion to “honor” and “duty” which the Aiel hold sacred and call "ji" and “toh” respectively.  It is also the root of the honor they feel is received from touching an armed enemy without harming them, similar to {{Wiki|counting coup}}.
+
+The Da'shain Aiel were somewhat reminiscent of {{Wiki|Jain}}. The [[Jenn Aiel]] were similar to Jain and were the clan who held to their beliefs, while the other clans abandoned their pacifism.
+
+The twelve Aiel clans are similar to the {{Wiki|Twelve Tribes of Israel}}. There is a thirteenth clan, not counted among them: the Jenn Aiel, who built the city of Rhuidean, a repository of Aiel history, equivalent to the Hebrew {{Wiki|Levites}}. The [[#Water-sharing|sharing of water by Garam's father]] is somewhat reminiscent of {{Wiki|Abimelech|Abimelek}} allowing {{Wiki|Isaac}} to briefly settle in the vicinity of {{Wiki|Gerar}}, where Isaac re-opened wells that had been dug in the time of {{Wiki|Abraham}}.{{ref|{{Cite/bible|Genesis|26}}}}
+
+The Aiel are also [[Similarities to Dune|similar]] to the {{Wlink|dune|Fremen}} from {{Wiki|Frank Herbert}}'s science fiction {{Wiki|Dune universe|''Dune'' universe}}, as both are desert-dwelling warrior cultures.
+
+The system of clan and sept is also one that is a parallel of old Scottish and Irish {{Wiki|Irish clans|clans}} and {{Wiki|Sept (social)|septs}}. Jordan has said that he thought it would be fun to have the Aiel as a desert culture but with Irish heritage, thus the Aiel physically resemble the Irish people despite their environs. This is evident through their pale skin, light hair, and light eyes (even though these traits were mostly brought to Ireland through the Norse). The Aiel are further connected to the Irish through the ''[[Tuatha'an]]''.
+
+== In the television series ==
+*{{TVlink|Aiel}} on {{TVlink}}
+
+{{notes}}
+{{Aiel}}
+
+[[es:Aiel]]
+[[Category:Parallels]]
+[[Category:Aiel]]

@@ -1,0 +1,3920 @@
+This page contains information about the characters' heights as listed in the [[The Wheel of Time Companion]]. Many of these are referenced in the books themselves and no direct contradictions have been found. Some additional entries have been added that can be inferred from either source and notes and references have been added where this is the case. Non-human characters and creatures will be added at a later date.
+
+= Overview =
+
+Some basic stats from the data left by Robert Jordan:
+
+'''Tallest Man''': [[Nadric]] (7'0" or 2.13m)
+
+'''Tallest Woman''': [[Someryn]] (6'4" or  1.93m)
+
+'''Tallest Non-Aiel Man''': [[Rahvin]] (approx. 6'8" or 2.03m). For purely Third Age characters with listed heights, [[Lan Mandragoran]] is the tallest at 6'5.5" or 1.97m. [[Moridin]] is listed as 6'5" or 6'6" (1.955-1.98m)
+
+'''Tallest Non-Aiel Woman''': [[Varilin Zanaire]] (6'2" or 1.88m)
+
+'''Shortest Man''': [[Raen]] (approx. 5'1" or 1.55m) or [[Wit Congar]] (approx. 5'2" or  1.575m). Both of these depend on the height of their spouses, who are a head taller than them.
+
+'''Shortest Man (confirmed)''': [[Jori]] (5'4" or 1.625m)
+
+'''Shortest Woman''': [[Escaralde Hamdey]], [[Sheraine Caminelle]], [[Ilain Dormaile]] (4'10" or 1.47m)
+
+'''Average height for men in the Westlands''': 5'10" or 1.78m 
+
+'''Average height for women in the Westlands''': 5'5" or 1.65m
+
+'''Average height for Aiel men''': 6'2" or 1.88m
+
+'''Average height for Aiel women''': 5'9" or 1.75m
+
+=Infographic=
+
+<gallery widths=1000>
+File:AllHeightsNew.png|Infographic showing many heights and sizes of characters and creatures
+</gallery>
+
+=Notes on Measurements and Descriptions=
+It is worthwhile noting that there is some difference between length [[Measurement|measurements]] in The Wheel of Time and real life. Firstly, there are a different number of inches in a foot. In the [[Westlands]], there are 10" compared to 12" in real life. We know that the heights in the Companion are given in real world measurements, otherwise heights like 5'11" for Mat would not be valid. We also know that feet are the same in both real life and the Westlands by comparing heights that appear in both. Mat doubts Tuon can "stretch to five feet with her heels flat" and Moiraine thinks her father is "an inch short of six feet", which is consistent with their listed heights of 4'11" and 5'11" respectively. A '''hand''' is also a standard measurement with three hands making a foot. This is four inches in real-world terms.
+
+Some other non-standard measures can be inferred from how they are used by Jordan in a consistent way. 
+
+'''Head:''' Can be defined as 8 inches. Examples of this being used to define height differences are Tam/Rand (5'10/6'6"){{ref/book|1|1}}{{ref/book|12|47}}, Elayne/Gawyn (5'7"/6'3"){{ref/book|1|40}} and [[Easar Togita]]/[[Paitar Nachiman]] (5'7"/6'3"){{ref/book|8|p}}. Darlin/Rand (6'0"/6'6"){{ref/book|11|21}} and Perrin/Gaul (6'1"/6'7"){{ref/book|3|34}}{{ref/book|7|3}} are also described as having less than a head's difference between their heights.
+
+'''Head and Shoulders taller''': Can be defined as around 10-12" difference and certainly more than a head as defined above.  Examples where we know both heights are Nisao/Sarin (10"),  Rand/Kiruna (11"), Perrin/Moiraine (11") and Enaila/Somara (12.5").
+
+'''Chest high''': More than head and shoulders. Examples of height differences with this description are Rand/Egwene (15") and Rand/Idrien (13"). It can be used to infer Graendal's height compared to Sammael when disguised as we aren't given her height directly in the Companion.
+
+'''As tall as most men''': Interpreted to be average height for a man. This phrase is used to describe [[Leane Sharif]] (5'10.5"), [[Yurith]] (5'10.5"), [[Shevan Gadarin]] (5'10"), [[Nadere]] (5'11"). [[Masema Dagar]] (5'10") and [[Daved Hanlon]] (5'10"-5'11") are both described as average height. Mat says he's a little taller than most men at 5'11". On the other hand, [[Therava]] (6'0") is described as "taller than most men" , as is [[Dagdara Finchey]] (6'0"), and [[Varilin Zanaire]] (6'2") as "inches taller than most men".
+
+=List of Heights=
+The default order in the table below is by height in m. Where a name is marked by a *, it is a best estimate. In cases where the Companion lists two heights for the same person, there are listed in the notes column and they are listed according to the average.
+
+The factions column includes Accepted and novices for Aes Sedai as a means of categorising them all under the same channeler faction. Commoners/nobles shows potential trends between classes. References are given for relevant statements from the books using book abbreviation and chapter in some cases, but not all references are listed. 
+{| class="sortable fandom-table"
+!Name
+!Feet
+!Inches
+!Height (m)
+!Faction
+!Gender
+!Nationality
+!Notes
+|-
+|Escaralde Hamdey
+|4
+|10
+|1.47
+|Aes Sedai
+|Female
+|Far Madding
+|
+|-
+|Ilain Dormaile*
+|4
+|10
+|1.47
+|Commoner
+|Female
+|Cairhienin
+|A hand shorter than Moiraine.{{ref/book|0|13}}
+|-
+|Sheraine Caminelle (Mylen)
+|4
+|10
+|1.47
+|Aes Sedai
+|Female
+|Cairhienin
+|
+|-
+|Ester Stepashin
+|4
+|11
+|1.50
+|Aes Sedai
+|Female
+|Illianer
+|Under five feet.
+|-
+|Nisao Dachen*
+|4
+|11
+|1.50
+|Aes Sedai
+|Female
+|No nationality
+|Under 5'. Between Escaralde (4'10") and Takima (5'1")  in height.{{ref/book|10|19}}
+|-
+|Tuon Paendrag
+|4
+|11
+|1.50
+|Noble
+|Female
+|Seanchan
+|
+|-
+|Jala Bandevin*
+|4
+|11.5
+|1.51
+|Aes Sedai
+|Female
+|Unknown
+|About five feet.{{ref|{{twotc}}, Jala Bandevin}} Almost a hand shorter than Moiraine.{{ref/book|0|7}}
+|-
+|Verin Mathwin
+|5
+|0
+|1.52
+|Aes Sedai
+|Female
+|Far Madding
+|
+|-
+|Yukiri Haruna
+|5
+|0
+|1.52
+|Aes Sedai
+|Female
+|No nationality
+|
+|-
+|Melavaire Someinellin*
+|5
+|0.5
+|1.54
+|Aes Sedai
+|Female
+|Cairhienin
+|Inches shorter than Egwene. {{Ref/book|11|24}}Assuming 5'0"-5'1".
+|-
+|Berowin Doraisin
+|5
+|1
+|1.55
+|Kinswoman
+|Female
+|Cairhienin
+|
+|-
+|Cyndane*
+|5
+|1
+|1.55
+|Forsaken
+|Female
+|Unknown
+|Decribed as small,  little and "a doll" by Graendal/Aran'gar who are short themselves.{{Ref/book|14|14}}{{Ref/book|8|12}}{{Ref/book|11|3}}
+|-
+|Jesse Bilal
+|5
+|1
+|1.55
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Merilille Ceandevin
+|5
+|1
+|1.55
+|Aes Sedai
+|Female
+|Cairhienin
+|
+|-
+|Raen*
+|5
+|1
+|1.55
+|Commoner
+|Male
+|Tuatha'an
+|Described as short and a head shorter than Ila.{{Ref/book|1|25}}{{Ref/book|4|31}}
+|-
+|Setsuko*
+|5
+|1
+|1.55
+|Aes Sedai
+|Female
+|Arafellin
+|Shorter than  Moiraine.{{ref/book|0|6}}
+|-
+|Seonid Traighan
+|5
+|1
+|1.55
+|Aes Sedai
+|Female
+|Cairhienin
+|Also Noble
+|-
+|Takima Deraighdin
+|5
+|1
+|1.55
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Pedra
+|5
+|1.5
+|1.56
+|Aes Sedai
+|Female
+|Unknown
+|Accepted, but  close to being raised. About 5'1" to 5'2".
+|-
+|Ayako Norsoni
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Arafellin
+|
+|-
+|Camaile Nolaisen
+|5
+|2
+|1.57
+|Noble
+|Female
+|Cairhienin
+|
+|-
+|Corgaide  Marendevin
+|5
+|2
+|1.57
+|Commoner
+|Female
+|Cairhienin
+|
+|-
+|Daigian Moseneillin
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Cairhienin
+|Noble
+|-
+|Enaila
+|5
+|2
+|1.57
+|Soldier
+|Female
+|Aiel
+|
+|-
+|Ferane Neheran
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Domani
+|
+|-
+|Jesain
+|5
+|2
+|1.57
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Lirene Doirellin
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Cairhienin
+|
+|-
+|Moiraine  Damodred
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Cairhienin
+|
+|-
+|Nelavaire Demasiellin
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Cairhienin
+|
+|-
+|Shahal Comanli
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Domani
+|
+|-
+|Temaile Kinderode
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Cairhienin
+|
+|-
+|Tiana Noselle
+|5
+|2
+|1.57
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Wit Congar*
+|5
+|2
+|1.57
+|Commoner
+|Male
+|Andoran
+|A head shorter than his wife, Daise.{{Ref/book|4|56}}
+|-
+|Graendal*
+|5
+|2.5
+|1.59
+|Forsaken
+|Female
+|N/A
+|As high as  "Caddar's" chest. Sammael is head and shoulders taller than she.{{Ref/book|7|20}}
+|-
+|Ryma Galfrey (Pura)
+|5
+|2.5
+|1.59
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Zaida din Parede
+|5
+|2.5
+|1.59
+|Commoner
+|Female
+|Atha'an Miere
+|
+|-
+|Adelorna Bastine*
+|5
+|3
+|1.60
+|Aes Sedai
+|Female
+|Saldaean
+|No taller than  Egwene (5'3").{{ref/book|11|24}}
+|-
+|Alaine  Chuliandred*
+|5
+|3
+|1.60
+|Noble
+|Female
+|Cairhienin
+|Her head does not  quite reach Rand's shoulder. Head and shoulders shorter.{{Ref/book|2|32}}
+|-
+|Berisha Terakuni*
+|5
+|3
+|1.60
+|Aes Sedai
+|Female
+|Arafellin
+|No taller than Egwene (5'3").{{Ref/book|11|p}}
+|-
+|Caraline Damodred
+|5
+|3
+|1.60
+|Noble
+|Female
+|Cairhienin
+|
+|-
+|Egwene al'Vere
+|5
+|3
+|1.60
+|Aes Sedai
+|Female
+|Andoran
+|Also commoner
+|-
+|Janine Pavarla
+|5
+|3
+|1.60
+|Aes Sedai
+|Female
+|Arafellin
+|
+|-
+|Lacile Aldorwin
+|5
+|3
+|1.60
+|Noble
+|Female
+|Cairhienin
+|
+|-
+|Phaedrine
+|5
+|3
+|1.60
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Selande Darengil
+|5
+|3
+|1.60
+|Noble
+|Female
+|Cairhienin
+|
+|-
+|Toveine Gazal
+|5
+|3
+|1.60
+|Aes Sedai
+|Female
+|Saldaean
+|
+|-
+|Tylin Mitsobar
+|5
+|3
+|1.60
+|Noble
+|Female
+|Altaran
+|
+|-
+|Chesa
+|5
+|3.5
+|1.61
+|Commoner
+|Female
+|Altaran
+|5'3" to  5'4". Presumably local.
+|-
+|Kwamesa Taramasu
+|5
+|3.5
+|1.61
+|Aes Sedai
+|Female
+|Arafellin
+|
+|-
+|Zarya Alkaese
+|5
+|3.5
+|1.61
+|Kinswoman
+|Female
+|Saldaean
+|
+|-
+|Akoure Vayet
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Amadician
+|
+|-
+|Alliandre
+|5
+|4
+|1.63
+|Noble
+|Female
+|Ghealdanin
+|
+|-
+|Alviarin Friedhen
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Amadician
+|
+|-
+|Annoura Larisen
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Taraboner
+|
+|-
+|Areina Nermasiv
+|5
+|4
+|1.63
+|Commoner
+|Female
+|Kandori
+|
+|-
+|Ashmanaille
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Asne Zeramene
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Saldaean
+|
+|-
+|Berylla Naron
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Illianer
+|
+|-
+|Breane Taborwin
+|5
+|4
+|1.63
+|Noble
+|Female
+|Cairhienin
+|
+|-
+|Eldrith Jhondar
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Amadician
+|
+|-
+|Ethenielle Materasu
+|5
+|4
+|1.63
+|Noble
+|Female
+|Kandori
+|
+|-
+|Evanellein Lorn
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Faldrin Harella
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Taraboner
+|
+|-
+|Haesel Lusara
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Murandian
+|
+|-
+|Janya Frende
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Jenare Balmaen
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Joline Maza
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Jori
+|5
+|4
+|1.63
+|Warder
+|Male
+|Unknown
+|Shortest man whose height is listed directly.
+|-
+|Kairen  Stang
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Karind Anshar
+|5
+|4
+|1.63
+|Noble
+|Female
+|Andoran
+|
+|-
+|Kin Tovere*
+|5
+|4
+|1.63
+|Commoner
+|Male
+|Cairhienin
+|A head shorter than Han.{{ref/book|5|41}}
+|-
+|Lelaine Akashi
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Lyrelle  Arienwin
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Cairhienin
+|
+|-
+|Marin al'Vere
+|5
+|4
+|1.63
+|Commoner
+|Female
+|Andoran
+|
+|-
+|Masuri  Sokawa
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Arafellin
+|
+|-
+|Merana Ambrey
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Milli  Skane (Lady Shiaine)
+|5
+|4
+|1.63
+|Commoner
+|Female
+|Andoran
+|
+|-
+|Myrelle Berengari
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Altaran
+|
+|-
+|Nesta  din Reas
+|5
+|4
+|1.63
+|Commoner
+|Female
+|Atha'an Miere
+|
+|-
+|Nesune Bihara
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Nicola  Treehill
+|5
+|4
+|1.63
+|Commoner
+|Female
+|Ghealdanin
+|
+|-
+|Nynaeve al'Meara
+|5
+|4
+|1.63
+|Commoner
+|Female
+|Andoran
+|Also Aes Sedai
+|-
+|Perival  Mantear
+|5
+|4
+|1.63
+|Child
+|Male
+|Andoran
+|Also a Noble
+|-
+|Pevara Tazanovni
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Rianna  Andomeran
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Romanda Cassin
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Far Madding
+|
+|-
+|Ronda  Macura
+|5
+|4
+|1.63
+|Commoner
+|Female
+|Amadician
+|
+|-
+|Salita Toranes
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Tairen
+|Also Noble.
+|-
+|Sarene  Nemdahl
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Taraboner
+|
+|-
+|Saroiya Farseen
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Domani
+|
+|-
+|Selucia
+|5
+|4
+|1.63
+|Commoner
+|Female
+|Seanchan
+|
+|-
+|Serafelle Tanisloe
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Murandian
+|Also Noble
+|-
+|Sylvase  Caeren
+|5
+|4
+|1.63
+|Noble
+|Female
+|Andoran
+|
+|-
+|Tamra Ospenya
+|5
+|4
+|1.63
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Adeleas  Namelle
+|5
+|4.5
+|1.64
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Alanna Mosvani
+|5
+|4.5
+|1.64
+|Aes Sedai
+|Female
+|Arafellin
+|
+|-
+|Aledrin  Malenry
+|5
+|4.5
+|1.64
+|Aes Sedai
+|Female
+|Taraboner
+|Between 5'4" and 5'5"
+|-
+|Aran'gar
+|5
+|4.5
+|1.64
+|Forsaken
+|Female
+|N/A
+|Around  5'4" or 5'5"
+|-
+|Berana  Shemon
+|5
+|4.5
+|1.64
+|Aes Sedai
+|Female
+|Shienaran
+|
+|-
+|Jennet Cobb
+|5
+|4.5
+|1.64
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Aleune  Chulin
+|5
+|5
+|1.65
+|Commoner
+|Female
+|Shienaran
+|
+|-
+|Alise Tenjile
+|5
+|5
+|1.65
+|Commoner
+|Female
+|Taraboner
+|
+|-
+|Alivia
+|5
+|5
+|1.65
+|Commoner
+|Female
+|Seanchan
+|
+|-
+|Aludra Narenhald
+|5
+|5
+|1.65
+|Commoner
+|Female
+|Taraboner
+|
+|-
+|Amathera
+|5
+|5
+|1.65
+|Noble
+|Female
+|Taraboner
+|
+|-
+|Andaya
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Taraboner
+|
+|-
+|Annharid  Matoun
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Saldaean
+|
+|-
+|Beldeine Nyram
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Saldaean
+|
+|-
+|Bernaile  Gelbarn
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Taraboner
+|
+|-
+|Cadsuane Melaidhrin
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Far Madding
+|
+|-
+|Cariandre  Temalien
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Ghealdanin
+|
+|-
+|Carlinya Sorevin
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Danelle
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Desandre Alraed
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Ghealdanin
+|
+|-
+|Doesine  Alwain
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Cairhienin
+|
+|-
+|Elenia Sarand
+|5
+|5
+|1.65
+|Noble
+|Female
+|Andoran
+|
+|-
+|Elin  Warrel*
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Andoran
+|Not tall for an  Andoran, but enough taller than Moiraine that she needs to look up to meet  her eyes.{{Ref/book|0|2}}
+|-
+|Ellorien  Traemane
+|5
+|5
+|1.65
+|Noble
+|Female
+|Andoran
+|
+|-
+|Elza Penfell
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Erian  Boroleos
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Illianer
+|
+|-
+|Falion Bhoda
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Gabrelle  Brawley
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Murandian
+|
+|-
+|Galina Casban
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Harine  din Togara
+|5
+|5
+|1.65
+|Commoner
+|Female
+|Atha'an Miere
+|
+|-
+|Idrien Tarsin
+|5
+|5
+|1.65
+|Commoner
+|Female
+|Cairhienin
+|
+|-
+|Kirstian  Chalwin
+|5
+|5
+|1.65
+|Kinswoman
+|Female
+|Cairhienin
+|
+|-
+|Kumira Dhoran
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Shienaran
+|
+|-
+|Liandrin  Guirale
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Taraboner
+|
+|-
+|Mesaana
+|5
+|5
+|1.65
+|Forsaken
+|Female
+|N/A
+|
+|-
+|Mikio  Vadere
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Min Farshaw
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Moghedien
+|5
+|5
+|1.65
+|Forsaken
+|Female
+|N/A
+|
+|-
+|Morvrin Thakanos
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Illianer
+|
+|-
+|Narvais  Maslin
+|5
+|5
+|1.65
+|Noble
+|Female
+|Far Madding
+|
+|-
+|Rafela Cindal
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Tairen
+|
+|-
+|Reanne  Corly
+|5
+|5
+|1.65
+|Kinswoman
+|Female
+|Unknown
+|
+|-
+|Riselle
+|5
+|5
+|1.65
+|Noble
+|Female
+|Altaran
+|
+|-
+|Rubinde  Acedone
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Mayener
+|
+|-
+|Samitsu Tamagowa
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Arafellin
+|
+|-
+|Sashalle Anderley*
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Andoran
+|No taller than Samitsu.{{Ref/book|10|p}}
+|-
+|Sedore  Dajenna
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Tairen
+|
+|-
+|Seraille
+|5
+|5
+|1.65
+|Noble
+|Female
+|Kandori
+|Perhaps a  commoner?
+|-
+|Setalle  Anan (Martine Janata)
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Sharina Malloy
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Murandian
+|Only Novice.
+|-
+|Sheriam  Bayanar
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Saldaean
+|
+|-
+|Siuan Sanche
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Tairen
+|
+|-
+|Sumeko  Karistovan
+|5
+|5
+|1.65
+|Kinswoman
+|Female
+|Unknown
+|
+|-
+|Suroth Sabelle Meldarath
+|5
+|5
+|1.65
+|Noble
+|Female
+|Seanchan
+|
+|-
+|Talaan  din Gelyn
+|5
+|5
+|1.65
+|Windfinder
+|Female
+|Atha'an Miere
+|
+|-
+|Tebreille din Gelyn
+|5
+|5
+|1.65
+|Windfinder
+|Female
+|Atha'an Miere
+|
+|-
+|Teslyn  Baradon
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Illianer
+|
+|-
+|Tsutama Rath
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Vandene  Namelle
+|5
+|5
+|1.65
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Careane Fransi
+|5
+|5.5
+|1.66
+|Aes Sedai
+|Female
+|Domani
+|
+|-
+|Coiren  Saeldain
+|5
+|5.5
+|1.66
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Corele Hovian
+|5
+|5.5
+|1.66
+|Aes Sedai
+|Female
+|Murandian
+|
+|-
+|Cumere  Powys
+|5
+|5.5
+|1.66
+|Noble
+|Female
+|Far Madding
+|
+|-
+|Javindhra Doraille
+|5
+|5.5
+|1.66
+|Aes Sedai
+|Female
+|Unknown
+|About 5'5"  or 5'6". Cairhienin?
+|-
+|Jurine  Najima*
+|5
+|5.5
+|1.66
+|Commoner
+|Female
+|Kandori
+|A hand taller/almost  a hand taller than Moiraine.{{Ref/book|0|17}}
+|-
+|Tarna Feir
+|5
+|5.5
+|1.66
+|Aes Sedai
+|Female
+|Altaran
+|
+|-
+|Zerah  Dacan
+|5
+|5.5
+|1.66
+|Aes Sedai
+|Female
+|Mayener
+|
+|-
+|Ailil Riatin
+|5
+|6
+|1.68
+|Noble
+|Female
+|Cairhienin
+|
+|-
+|Aisling  Noon
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Tuatha'an
+|
+|-
+|Anaiya Carel
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Beldaire
+|5
+|6
+|1.68
+|Commoner
+|Female
+|Cairhienin
+|Mistress Beldaire 
+|-
+|Bera Harkin
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Birgitte  Silverbow
+|5
+|6
+|1.68
+|Soldier
+|Female
+|Unknown
+|Usually wears 3" boots in addition to this.
+|-
+|Caire din Gelyn
+|5
+|6
+|1.68
+|Windfinder
+|Female
+|Atha'an Miere
+|
+|-
+|Caseille  Raskovni
+|5
+|6
+|1.68
+|Soldier
+|Female
+|Arafellin
+|Merchant's Guard/Guardswoman
+|-
+|Celestin Eguilera
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Tairen
+|
+|-
+|Cenn  Buie*
+|5
+|6
+|1.68
+|Commoner
+|Male
+|Andoran
+|A little taller than  Marin al'Vere.{{Ref/book|4|30}}
+|-
+|Delana  Mosalaine
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Shienaran
+|
+|-
+|Deni Colford
+|5
+|6
+|1.68
+|Soldier
+|Female
+|Andoran
+|Guardswoman
+|-
+|Dyelin  Taravin
+|5
+|6
+|1.68
+|Noble
+|Female
+|Andoran
+|
+|-
+|Edesina Azzedin
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Elaida  do'Avriny a Roihan
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Murandian
+|
+|-
+|Emerys
+|5
+|6
+|1.68
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Gitara  Moroso
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Jarna Malari
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Katerine  Alruddin
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Marith Riven
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Murandian
+|
+|-
+|Mayam  Colona
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Tairen
+|
+|-
+|Meidani Eschede
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Arafellin
+|
+|-
+|Meira
+|5
+|6
+|1.68
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Monaelle
+|5
+|6
+|1.68
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Morgase Trakand
+|5
+|6
+|1.68
+|Noble
+|Female
+|Andoran
+|
+|-
+|Naean Arawn
+|5
+|6
+|1.68
+|Noble
+|Female
+|Andoran
+|
+|-
+|Nerim
+|5
+|6
+|1.68
+|Commoner
+|Male
+|Cairhienin
+|
+|-
+|Renaile din Calon
+|5
+|6
+|1.68
+|Commoner
+|Female
+|Atha'an Miere
+|
+|-
+|Rosana  Emares
+|5
+|6
+|1.68
+|Noble
+|Female
+|Tairen
+|
+|-
+|Saerin Asnobar
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Altaran
+|
+|-
+|Seaine  Herimon
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Murandian
+|
+|-
+|Sebban Balwer
+|5
+|6
+|1.68
+|Commoner
+|Male
+|Amadician
+|
+|-
+|Seta  Zarbey
+|5
+|6
+|1.68
+|Commoner
+|Female
+|Seanchan
+|
+|-
+|Shalon din Togara
+|5
+|6
+|1.68
+|Commoner
+|Female
+|Atha'an Miere
+|
+|-
+|Stevan  Geradien
+|5
+|6
+|1.68
+|Warder
+|Male
+|Cairhienin
+|
+|-
+|Talmanes  Delovinde*
+|5
+|6
+|1.68
+|Soldier
+|Male
+|Cairhienin
+|Also a noble. Less  than a hand taller than Egwene. Shorter than Daerid.{{Ref/book|8|17}}{{Ref/book|5|43}}{{Ref/book|6|5}}
+|-
+|Velina Behar
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Saldaean
+|
+|-
+|Zemaille  Amassa
+|5
+|6
+|1.68
+|Aes Sedai
+|Female
+|Atha'an Miere
+|
+|-
+|Ajimbura
+|5
+|6
+|1.68
+|Commoner
+|Male
+|Seanchan
+|5'6" or  5'7".  Kinsaeda tribes.
+|-
+|Carniele  Emares
+|5
+|6.5
+|1.69
+|Aes Sedai
+|Female
+|Tairen
+|
+|-
+|Meralda Belmondes*
+|5
+|6.5
+|1.69
+|Noble
+|Female
+|Tairen
+|Almost 5'7". As tall as Faile.{{Ref/book|8|8}}
+|-
+|Silviana Brehon
+|5
+|6.5
+|1.69
+|Aes Sedai
+|Female
+|Amadician
+|
+|-
+|Aldred Gomaisen*
+|5
+|7
+|1.70
+|Soldier
+|Male
+|Cairhienin
+|Birgitte is taller than him while wearing her  boots.{{Ref/book|11|16}}
+|-
+|Aleis  Barsalla
+|5
+|7
+|1.70
+|Noble
+|Female
+|Far Madding
+|
+|-
+|Arinvar
+|5
+|7
+|1.70
+|Warder
+|Male
+|Cairhienin
+|
+|-
+|Berelain  sue Paendrag
+|5
+|7
+|1.70
+|Noble
+|Female
+|Mayener
+|
+|-
+|Bertome Saighan
+|5
+|7
+|1.70
+|Noble
+|Male
+|Cairhienin
+|
+|-
+|Bethamin  Zeami
+|5
+|7
+|1.70
+|Commoner
+|Female
+|Seanchan
+|
+|-
+|Chesmal Emry
+|5
+|7
+|1.70
+|Aes Sedai
+|Female
+|Ghealdanin
+|
+|-
+|Daerid  Ondin*
+|5
+|7
+|1.70
+|Soldier
+|Male
+|Cairhienin
+|Half a head shorter  than Mat. Taller than Talmanes.{{Ref/book|5|43}}{{Ref/book|5|43}}{{Ref/book|6|5}}
+|-
+|Daganred
+|5
+|7
+|1.70
+|Noble
+|Male
+|Cairhienin
+|Lord Dagenred
+|-
+|Dailin
+|5
+|7
+|1.70
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Davram Bashere
+|5
+|7
+|1.70
+|Noble
+|Male
+|Saldaean
+|
+|-
+|Delora
+|5
+|7
+|1.70
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Easar Togita
+|5
+|7
+|1.70
+|Noble
+|Male
+|Shienaran
+|
+|-
+|Edarra
+|5
+|7
+|1.70
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Egeanin Sarna
+|5
+|7
+|1.70
+|Soldier
+|Female
+|Seanchan
+|
+|-
+|Elayne Trakand
+|5
+|7
+|1.70
+|Noble
+|Female
+|Andoran
+|Also Aes Sedai
+|-
+|Faile Aybara
+|5
+|7
+|1.70
+|Noble
+|Female
+|Saldaean
+|
+|-
+|Gaidal  Cain*
+|5
+|7
+|1.70
+|Soldier
+|Male
+|N/A
+|Shorter than Birgitte  (presumably with her boots).{{Ref/book|4|52}}
+|-
+|Juilaine  Madome
+|5
+|7
+|1.70
+|Aes Sedai
+|Female
+|Ghealdanin
+|
+|-
+|Kiruna Nachiman
+|5
+|7
+|1.70
+|Aes Sedai
+|Female
+|Arafellin
+|Also a Noble
+|-
+|Medore Damara*
+|5
+|7
+|1.70
+|Noble
+|Female
+|Tairen
+|A tall woman, but shorter than Latian who is  considered short for a man.{{Ref/book|10|25}}
+|-
+|Merise Haindehl
+|5
+|7
+|1.70
+|Aes Sedai
+|Female
+|Taraboner
+|
+|-
+|Micara
+|5
+|7
+|1.70
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Norlea
+|5
+|7
+|1.70
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Rosara  Medrano
+|5
+|7
+|1.70
+|Aes Sedai
+|Female
+|Tairen
+|
+|-
+|Sulin
+|5
+|7
+|1.70
+|Soldier
+|Female
+|Aiel
+|
+|-
+|Talene Minly
+|5
+|7
+|1.70
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Tavan Shandare
+|5
+|7
+|1.70
+|Warder
+|Male
+|Cairhienin
+|
+|-
+|Tenobia Kazadi
+|5
+|7
+|1.70
+|Noble
+|Female
+|Saldaean
+|
+|-
+|Chiad
+|5
+|7.5
+|1.71
+|Soldier
+|Female
+|Aiel
+|
+|-
+|Doraille
+|5
+|7.5
+|1.71
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Duhara Basaheen
+|5
+|7.5
+|1.71
+|Aes Sedai
+|Female
+|Domani
+|
+|-
+|Janina
+|5
+|7.5
+|1.71
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Alarys
+|5
+|8
+|1.73
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Amys
+|5
+|8
+|1.73
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Andro*
+|5
+|8
+|1.73
+|Warder
+|Male
+|Unknown
+|No taller than Meilyn Arganya.{{Ref/book|0|5}}
+|-
+|Barasine*
+|5
+|8
+|1.73
+|Aes Sedai
+|Female
+|Unknown
+|Silviana (5'6.5") is nearly as tall as her.{{Ref/book|11|p}}
+|-
+|Bassane Chuliandred
+|5
+|8
+|1.73
+|Warder
+|Male
+|Cairhienin
+|
+|-
+|Belinde
+|5
+|8
+|1.73
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Colinda
+|5
+|8
+|1.73
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Doilaine  Barmellin
+|5
+|8
+|1.73
+|Noble
+|Male
+|Cairhienin
+|
+|-
+|Gerard Arganda
+|5
+|8
+|1.73
+|Soldier
+|Male
+|Mayener
+|
+|-
+|Guisin
+|5
+|8
+|1.73
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Ieine*
+|5
+|8
+|1.73
+|Kinswoman
+|Female
+|Unknown
+|Almost as tall as  Aviendha.{{Ref/book|8|1}}
+|-
+|Latian Basar*
+|5
+|8
+|1.73
+|Noble
+|Male
+|Cairhienin
+|Short for a man, but taller than Medore who is  considered a tall woman.{{Ref/book|10|25}}
+|-
+|Meilyn  Arganya
+|5
+|8
+|1.73
+|Aes Sedai
+|Female
+|Unknown
+|
+|-
+|Merean Redhill
+|5
+|8
+|1.73
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Meri  do Ahlan a’Conlin*
+|5
+|8
+|1.73
+|Noble
+|Female
+|Murandian
+|Almost a hand taller  than Siuan.{{Ref/book|0|5}}
+|-
+|Metwyn
+|5
+|8
+|1.73
+|Soldier
+|Male
+|Cairhienin
+|
+|-
+|Nevarin
+|5
+|8
+|1.73
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Sevanna
+|5
+|8
+|1.73
+|Wise One
+|Female
+|Aiel
+|Not really a Wise One.
+|-
+|Shielyn din Sabura
+|5
+|8
+|1.73
+|Windfinder
+|Female
+|Atha'an Miere
+|
+|-
+|Tuanda
+|5
+|8
+|1.73
+|Soldier
+|Female
+|Aiel
+|
+|-
+|Viendre
+|5
+|8
+|1.73
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Warder  to Cathal Devore
+|5
+|8
+|1.73
+|Warder
+|Male
+|Cairhienin
+|
+|-
+|Bain
+|5
+|8.5
+|1.74
+|Soldier
+|Female
+|Aiel
+|
+|-
+|Marline
+|5
+|8.5
+|1.74
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Tylee Khirgan
+|5
+|8.5
+|1.74
+|Soldier
+|Female
+|Seanchan
+|5'8" to  5'9"
+|-
+|Arrela  Shiego
+|5
+|9
+|1.75
+|Noble
+|Female
+|Tairen
+|Inferred as noble
+|-
+|Aviendha
+|5
+|9
+|1.75
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Bartu
+|5
+|9
+|1.75
+|Soldier
+|Male
+|Shienaran
+|
+|-
+|Bili  Adarra*
+|5
+|9
+|1.75
+|Commoner
+|Male
+|Andoran
+|A hand shorter than Perrin.{{Ref/book|11|26}}
+|-
+|Carahuin*
+|5
+|9
+|1.75
+|Soldier
+|Female
+|Aiel
+|A hand taller than Beldeine.{{Ref/book|8|p}}
+|-
+|Carelle
+|5
+|9
+|1.75
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Dobraine  Taborwin
+|5
+|9
+|1.75
+|Noble
+|Male
+|Cairhienin
+|
+|-
+|Doressin Chuliandred
+|5
+|9
+|1.75
+|Noble
+|Male
+|Cairhienin
+|
+|-
+|Eben Hopwil
+|5
+|9
+|1.75
+|Asha'man
+|Male
+|Andoran
+|
+|-
+|Elienda
+|5
+|9
+|1.75
+|Soldier
+|Female
+|Aiel
+|
+|-
+|Ila*
+|5
+|9
+|1.75
+|Commoner
+|Female
+|Tuatha'an
+|Not noted as being extremely tall, but a head  taller than Raen.{{Ref/book|1|25}}{{Ref/book|4|31}}
+|-
+|Rhiale
+|5
+|9
+|1.75
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Santes
+|5
+|9
+|1.75
+|Commoner
+|Male
+|Mayene
+|
+|-
+|Sarin Hoigan
+|5
+|9
+|1.75
+|Warder
+|Male
+|Unknown
+|
+|-
+|Semaradrid  Maravin
+|5
+|9
+|1.75
+|Noble
+|Male
+|Cairhienin
+|
+|-
+|Tamela
+|5
+|9
+|1.75
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Welyn  Kajima
+|5
+|9
+|1.75
+|Asha'man
+|Male
+|Arafellin
+|
+|-
+|Zushi
+|5
+|9
+|1.75
+|Windfinder
+|Female
+|Atha'an Miere
+|Taller than  Bethamin (5'7")
+|-
+|Cathal Devore
+|5
+|9.5
+|1.77
+|Aes Sedai
+|Female
+|Ghealdanin
+|About 5'9" to 5'10"
+|-
+|Ellid  Abareim*
+|5
+|9.5
+|1.78
+|Aes Sedai
+|Female
+|Unknown
+|Very tall for a woman. Nearly as tall as most men.{{Ref/book|0|8}} Assuming 5'9"-5'10".
+|-
+|Nasin Caeren
+|5
+|9.5
+|1.77
+|Noble
+|Male
+|Andoran
+|About 5'9"  to 5'10"
+|-
+|Rodrivar  Tihera
+|5
+|9.5
+|1.77
+|Soldier
+|Male
+|Tairen
+|About 5'9" to 5'10"
+|-
+|Surine
+|5
+|9.5
+|1.77
+|Commoner
+|Female
+|Seanchan
+|Between  5'8" and 5'11"
+|-
+|Tomas
+|5
+|9.5
+|1.77
+|Warder
+|Male
+|Unknown
+|About 5'9" to 5'10"
+|-
+|Almurat Mor
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Seanchan
+|
+|-
+|Aram
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Tuatha'an
+|
+|-
+|Bayle Domon
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Illianer
+|
+|-
+|Bertain Gallene
+|5
+|10
+|1.78
+|Soldier
+|Male
+|Mayener
+|
+|-
+|Beslan Mitobar
+|5
+|10
+|1.78
+|Noble
+|Male
+|Altaran
+|
+|-
+|Chel Vanin
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Cairhienin
+|From Maerone
+|-
+|Culhan Carand
+|5
+|10
+|1.78
+|Noble
+|Male
+|Andoran
+|
+|-
+|Damer Flinn
+|5
+|10
+|1.78
+|Asha'man
+|Male
+|Andoran
+|Soldier previously
+|-
+|Daise Congar*
+|5
+|10
+|1.78
+|Commoner
+|Female
+|Andoran
+|As tall as most men.{{Ref/book|6|p}} Mat considers himself taller  than most at 5'11".{{Ref/book|5|22}}
+|-
+|Deira Bashere
+|5
+|10
+|1.78
+|Noble
+|Female
+|Shienaran
+|
+|-
+|Demira Eriff
+|5
+|10
+|1.78
+|Aes Sedai
+|Female
+|Domani
+|
+|-
+|Donel do Morny a’Lordeine
+|5
+|10
+|1.78
+|Noble
+|Male
+|Murandian
+|
+|-
+|Elyas Machera
+|5
+|10
+|1.78
+|Warder
+|Male
+|Tairen
+|
+|-
+|Fedwin Morr
+|5
+|10
+|1.78
+|Asha'man
+|Male
+|Andoran
+|
+|-
+|Fergin
+|5
+|10
+|1.78
+|Soldier
+|Male
+|Andoran
+|
+|-
+|Gendar
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Mayener
+|
+|-
+|Gorderan
+|5
+|10
+|1.78
+|Soldier
+|Male
+|Tairen
+|
+|-
+|Harnan
+|5
+|10
+|1.78
+|Soldier
+|Male
+|Tairen
+|
+|-
+|Hurin
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Shienaran
+|
+|-
+|Ishigari Terasian
+|5
+|10
+|1.78
+|Noble
+|Male
+|Arafellin
+|
+|-
+|Jarid Sarand
+|5
+|10
+|1.78
+|Noble
+|Male
+|Andoran
+|
+|-
+|Juilin Sandar
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Tairen
+|
+|-
+|Lopin
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Tairen
+|
+|-
+|Masema Dagar
+|5
+|10
+|1.78
+|Soldier
+|Male
+|Shienaran
+|
+|-
+|Moad din Nopara
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Atha'an Miere
+|
+|-
+|Nalesean  Aldiaya*
+|5
+|10
+|1.78
+|Noble
+|Male
+|Tairen
+|Taller than Daerid.  Described as blocky.{{Ref/book|6|5}}
+|-
+|Petra Anhill
+|5
+|10
+|1.78
+|Commoner
+|Male
+|Unknown
+|
+|-
+|Roedran do Arreloa a’Naloy
+|5
+|10
+|1.78
+|Noble
+|Male
+|Murandian
+|
+|-
+|Shevan Gadarin
+|5
+|10
+|1.78
+|Aes Sedai
+|Female
+|Kandori
+|
+|-
+|Tam al'Thor
+|5
+|10
+|1.78
+|Soldier
+|Male
+|Andoran
+|
+|-
+|Taril Canler
+|5
+|10
+|1.78
+|Asha'man
+|Male
+|Andoran
+|
+|-
+|Tion
+|5
+|10
+|1.78
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Venr Kosaan
+|5
+|10
+|1.78
+|Warder
+|Male
+|Saldaean
+|
+|-
+|Yurith  Azeri
+|5
+|10
+|1.78
+|Soldier
+|Female
+|Saldaean
+|May be a Noble
+|-
+|Daved Hanlon
+|5
+|10.5
+|1.79
+|Soldier
+|Male
+|Andoran
+|About  5'10" to 5'11"
+|-
+|Demetre Marcolin
+|5
+|10.5
+|1.79
+|Soldier
+|Male
+|Illianer
+|About 5'10" to 5'11"
+|-
+|Eamon Valda*
+|5
+|10.5
+|1.79
+|Soldier
+|Male
+|Unknown
+|Valda is nearly a head shorter than Galad who is  6'4"-6'5". {{Ref/book|11|p}}
+|-
+|Leane Sharif
+|5
+|10.5
+|1.79
+|Aes Sedai
+|Female
+|Domani
+|About  5'10" to 5'11"
+|-
+|Weiramon Saniago
+|5
+|10.5
+|1.79
+|Noble
+|Male
+|Tairen
+|About 5'10" to 5'11"
+|-
+|Alsbet  Luhhan*
+|5
+|11
+|1.80
+|Commoner
+|Female
+|Andoran
+|As big as most men and the only woman taller than Daise Congar in Emond's Field.{{Ref/book|4|30}}
+|-
+|Charl Gedwyn
+|5
+|11
+|1.80
+|Asha'man
+|Male
+|Unknown
+|
+|-
+|Dalresin Damodred
+|5
+|11
+|1.80
+|Noble
+|Male
+|Cairhienin
+|
+|-
+|Daviena*
+|5
+|11
+|1.80
+|Wise One
+|Female
+|Aiel
+|Head and shoulders taller than Verin.{{Ref/book|8|p}}
+|-
+|Fen Mizar
+|5
+|11
+|1.80
+|Warder
+|Male
+|Saldaean
+|
+|-
+|Gareth Bryne
+|5
+|11
+|1.80
+|Soldier
+|Male
+|Andoran
+|Also Noble/Warder
+|-
+|Gholam*
+|5
+|11
+|1.80
+|Soldier
+|Male
+|N/A
+|A little above average height.{{Ref/book|8|2}} Same height as Mat.{{Ref/book|7|38}}
+|-
+|Lanfear
+|5
+|11
+|1.80
+|Forsaken
+|Female
+|N/A
+|
+|-
+|Losaine*
+|5
+|11
+|1.80
+|Wise One
+|Female
+|Aiel
+|Head and shoulders  taller than Verin.{{Ref/book|8|p}}
+|-
+|Mat Cauthon
+|5
+|11
+|1.80
+|Commoner
+|Male
+|Andoran
+|170lbs
+|-
+|Nadere
+|5
+|11
+|1.80
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Nengar
+|5
+|11
+|1.80
+|Soldier
+|Male
+|Shienaran
+|
+|-
+|Paitr do Fearna a’Conn
+|5
+|11
+|1.80
+|Noble
+|Male
+|Murandian
+|
+|-
+|Sorilea*
+|5
+|11
+|1.80
+|Wise One
+|Female
+|Aiel
+|A head taller than Egwene.{{Ref/book|6|18}}
+|-
+|Agelmar Jagad
+|6
+|0
+|1.83
+|Noble
+|Male
+|Shienaran
+|
+|-
+|Asmodean*
+|6
+|0
+|1.83
+|Forsaken
+|Male
+|N/A
+|Taller than most outside of the Waste.{{Ref/book|4|37}}{{Ref/book|5|2}}
+|-
+|Blaeric  Negina
+|6
+|0
+|1.83
+|Warder
+|Male
+|Shienaran
+|
+|-
+|Cieryl Arjuna
+|6
+|0
+|1.83
+|Warder
+|Male
+|Tairen
+|
+|-
+|Conail  Northan
+|6
+|0
+|1.83
+|Noble
+|Male
+|Andoran
+|16 years old
+|-
+|Dagdara Finchey
+|6
+|0
+|1.83
+|Aes Sedai
+|Female
+|Andoran
+|
+|-
+|Darlin Sisnera
+|6
+|0
+|1.83
+|Noble
+|Male
+|Tairen
+|
+|-
+|Furen Alharra
+|6
+|0
+|1.83
+|Warder
+|Male
+|Tairen
+|
+|-
+|Han
+|6
+|0
+|1.83
+|Clan chief
+|Male
+|Aiel
+|Touchy about being "short". 210 lbs.
+|-
+|Havian Nurelle
+|6
+|0
+|1.83
+|Soldier
+|Male
+|Mayener
+|
+|-
+|Jhoradin*
+|6
+|0
+|1.83
+|Soldier
+|Male
+|Aiel
+|Not quite as tall as  Perrin and squat for an Aiel.{{Ref/book|11|30}}
+|-
+|Martyn Tallanvor
+|6
+|0
+|1.83
+|Soldier
+|Male
+|Andoran
+|
+|-
+|Rumann
+|6
+|0
+|1.83
+|Commoner
+|Male
+|Unknown
+|
+|-
+|Norowhin*
+|6
+|0
+|1.83
+|Soldier
+|Male
+|Unknown
+|Same height as  Tallanvor.{{Ref/book|6|9}}
+|-
+|Sammael
+|6
+|0
+|1.83
+|Forsaken
+|Male
+|N/A
+|Not actually short!
+|-
+|Therava
+|6
+|0
+|1.83
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Thom Merrillin
+|6
+|0
+|1.83
+|Commoner
+|Male
+|Andoran
+|
+|-
+|Toram Riatin
+|6
+|0
+|1.83
+|Noble
+|Male
+|Cairhienin
+|
+|-
+|Valan Luca
+|6
+|0
+|1.83
+|Commoner
+|Male
+|Unknown
+|
+|-
+|Aemon al'Caar al'Thorin
+|6
+|1
+|1.85
+|Noble
+|Male
+|Manetheren
+|Given by RJ in an interview.
+|-
+|Aral  Mishraile*
+|6
+|1
+|1.85
+|Asha'man
+|Male
+|Unknown
+|Almost as tall as Logain.{{Ref/book|10|p}}
+|-
+|Furyk Karede
+|6
+|1
+|1.85
+|Soldier
+|Male
+|Seanchan
+|
+|-
+|Nethin Conway
+|6
+|1
+|1.85
+|Warder
+|Male
+|Andoran
+|
+|-
+|Peral Torval
+|6
+|1
+|1.85
+|Asha'man
+|Male
+|Taraboner
+|
+|-
+|Perrin Aybara
+|6
+|1
+|1.85
+|Commoner
+|Male
+|Andoran
+|235lbs
+|-
+|Teryl Winter
+|6
+|1
+|1.85
+|Warder
+|Male
+|Murandian
+|
+|-
+|Adelin*
+|6
+|1.5
+|1.87
+|Soldier
+|Female
+|Aiel
+|A little more than a hand shorter than Rand.{{Ref/book|5|50}}
+|-
+|Semirhage
+|6
+|1.5
+|1.87
+|Forsaken
+|Female
+|N/A
+|
+|-
+|Artur Hawkwing
+|6
+|2
+|1.88
+|Noble
+|Male
+|Shandallan
+|
+|-
+|Barthanes  Damodred*
+|6
+|2
+|1.88
+|Noble
+|Male
+|Cairhienin
+|No more than half a head shorter than Rand.{{Ref/book|2|32}}
+|-
+|Farran*
+|6
+|2
+|1.88
+|Soldier
+|Male
+|Unknown
+|A boulder of a man with both height and width, yet the same height as Byar.{{Ref/book|4|1}}
+|-
+|Halwin Norry
+|6
+|2
+|1.88
+|Commoner
+|Male
+|Andoran
+|
+|-
+|Jaret Byar*
+|6
+|2
+|1.88
+|Soldier
+|Male
+|Unknown
+|Described in multiple places as tall. Also see Farran.{{Ref/book|1|30}}{{Ref/book|4|1}}
+|-
+|Logain Ablar
+|6
+|2
+|1.88
+|Noble
+|Male
+|Ghealdanin
+|
+|-
+|Meilan Mendiana*
+|6
+|2
+|1.88
+|Noble
+|Male
+|Tairen
+|A hand shorter than Rand.{{Ref/book|4|8}}
+|-
+|Modarra
+|6
+|2
+|1.88
+|Wise One
+|Female
+|Aiel
+|
+|-
+|Tumad Ahzkan
+|6
+|2
+|1.88
+|Soldier
+|Male
+|Saldaean
+|
+|-
+|Varilin Zenaire
+|6
+|2
+|1.88
+|Aes Sedai
+|Female
+|Saldaean
+|
+|-
+|Lamgwin Dorn
+|6
+|2.5
+|1.89
+|Commoner
+|Male
+|Andoran
+|6'2" to  6'3"
+|-
+|Manel Rochaid
+|6
+|2.5
+|1.89
+|Asha'man
+|Male
+|Murandian
+|About 6'2" to 6'3"
+|-
+|Paitar Nachiman
+|6
+|2.5
+|1.89
+|Noble
+|Male
+|Arafellin
+|About 6'2"  to 6'3"
+|-
+|Somara
+|6
+|2.5
+|1.89
+|Soldier
+|Female
+|Aiel
+|6'2" to 6'3"
+|-
+|Gawyn Trakand
+|6
+|3
+|1.91
+|Noble
+|Male
+|Andoran
+|Literally the most hated person on this list.
+|-
+|Jheran
+|6
+|3
+|1.91
+|Clan chief
+|Male
+|Aiel
+|180bs
+|-
+|Kyril Shianri
+|6
+|3
+|1.91
+|Noble
+|Male
+|Arafellin
+|
+|-
+|Ned Yarman
+|6
+|3
+|1.91
+|Warder
+|Male
+|Andoran
+|
+|-
+|Pelivar Coelan
+|6
+|3
+|1.91
+|Noble
+|Male
+|Andoran
+|
+|-
+|Timolan
+|6
+|3
+|1.91
+|Clan chief
+|Male
+|Aiel
+|225lbs
+|-
+|Kinhuin*
+|6
+|3.5
+|1.92
+|Soldier
+|Male
+|Aiel
+|A good hand or more shorter than Rolan.{{Ref/book|11|30}}
+|-
+|Bukama Marenellin*
+|6
+|4
+|1.93
+|Soldier
+|Male
+|Malkieri
+|Almost as tall as Lan (6'5.5") {{ref/book|0|1}}
+|-
+|Dedric
+|6
+|4
+|1.93
+|Soldier
+|Male
+|Aiel
+|
+|-
+|Indirian
+|6
+|4
+|1.93
+|Clan chief
+|Male
+|Aiel
+|180lbs
+|-
+|Mazrim Taim
+|6
+|4
+|1.93
+|Asha'man
+|Male
+|Saldaean
+|
+|-
+|Someryn
+|6
+|4
+|1.93
+|Wise One
+|Female
+|Aiel
+|Tallest woman listed.
+|-
+|Demandred
+|6
+|4.5
+|1.94
+|Forsaken
+|Male
+|N/A
+|6'4" to 6'5"
+|-
+|Galad  Damodred*
+|6
+|4.5
+|1.94
+|Noble
+|Male
+|Andoran
+|Galad is "taller  than Gawyn". Averaging 1-2" taller.{{Ref/book|4|17}}
+|-
+|Kajin
+|6
+|4.5
+|1.94
+|Noble
+|Male
+|Shienaran
+|Lord Kajin.  About 6'4" to 6'5".
+|-
+|Daeric
+|6
+|5
+|1.96
+|Clan chief
+|Male
+|Aiel
+|Around 250lbs
+|-
+|Haral Luhhan
+|6
+|5
+|1.96
+|Commoner
+|Male
+|Andoran
+|
+|-
+|Kireyin*
+|6
+|5
+|1.96
+|Noble
+|Male
+|Ghealdanin
+|Perrin remarks on his exceptional height and he knows Rand and Haral Luhhan.{{Ref/book|10|25}}
+|-
+|Mandelain
+|6
+|5
+|1.96
+|Clan chief
+|Male
+|Aiel
+|235lbs
+|-
+|Lan Mandragoran
+|6
+|5.5
+|1.97
+|Warder
+|Male
+|Malkieri
+|245lbs. Also a Noble.
+|-
+|Moridin
+|6
+|5.5
+|1.97
+|Forsaken
+|Male
+|N/A
+|6'5" to  6'6". Also noted as Rand's height.{{Ref/book|7|41}}
+|-
+|Bruan
+|6
+|6
+|1.98
+|Clan chief
+|Male
+|Aiel
+|Over 300lbs
+|-
+|Lews  Therin Telemon*
+|6
+|6
+|1.98
+|Age of Legends
+|Male
+|N/A
+|Same height as Rand.{{Ref/book|4|9}}{{Ref/book|6|6}}
+|-
+|Rand al'Thor
+|6
+|6
+|1.98
+|Clan chief
+|Male
+|Aiel
+|Faction/nationality  for grouping only. 235lbs.
+|-
+|Rhuarc
+|6
+|6
+|1.98
+|Clan chief
+|Male
+|Aiel
+|230lbs
+|-
+|Cassin
+|6
+|7
+|2.01
+|Soldier
+|Male
+|Aiel
+|An inch taller  than Rand
+|-
+|Erim
+|6
+|7
+|2.01
+|Clan chief
+|Male
+|Aiel
+|Around 235lbs
+|-
+|Gaul
+|6
+|7
+|2.01
+|Soldier
+|Male
+|Aiel
+|Around 240lbs.  A little older than Nynaeve
+|-
+|Janwin
+|6
+|7
+|2.01
+|Clan chief
+|Male
+|Aiel
+|240lbs
+|-
+|Mangin*
+|6
+|7
+|2.01
+|Soldier
+|Male
+|Aiel
+|Slightly taller than Rand. Assume  6'6.5"-6'7.5".{{Ref/book|5|30}}{{Ref/book|6|17}}
+|-
+|Rahvin*
+|6
+|8
+|2.03
+|Age of Legends
+|Male
+|N/A
+|More than Rand's height.{{Ref/book|3|46}}
+|-
+|Rolan
+|6
+|8
+|2.03
+|Soldier
+|Male
+|Aiel
+|
+|-
+|Bael
+|6
+|10
+|2.08
+|Clan chief
+|Male
+|Aiel
+|275lbs
+|-
+|Camar*
+|6
+|10
+|2.08
+|Soldier
+|Male
+|Aiel
+|Half a head  taller than Rand.{{Ref/book|7|33}}
+|-
+|Nadric*
+|7
+|0
+|2.13
+|Soldier
+|Male
+|Aiel
+|A hand taller than Rolan and "perhaps seven feet".{{Ref/book|10|9}}
+|}
+
+==Differences from Robert Jordan interviews and correspondences==
+Prior to the publication of the Companion, there were a number of statements and answers from Jordan regarding the heights of the main characters. The following table summarises all existing information on this. The heights from the Companion are included for comparison.
+
+{| class="fandom-table"
+!Date
+|Dec-93
+|17-Oct-94
+|1994
+|21-Oct-94
+|26-Oct-94
+|05-Dec-00
+|Oct-00
+|03-Nov-15
+|-
+!Reporter
+|Tom McCormick
+|Erica Sadun
+|Jennifer Cross
+|AOL Chat
+|Greg
+|Br00se
+|Orbit interview
+|Companion
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!Rand
+|6'5"-6-6"
+|6'6"
+|6'6"
+|6'5"-6'6"
+|6'6"
+|6'5"-6'6"
+|6'5"
+|6'6"
+|-
+!Perrin
+|
+|6'2"
+|
+|
+|
+|6'1.5"
+|
+|6'1"
+|-
+!Mat
+|
+|5'11.5"
+|
+|
+|
+|6'0"
+|
+|5'11"
+|-
+!Moiraine
+|
+|5'0" - 5'2"
+|
+|
+|5'3"
+|
+|
+|5'2"
+|-
+!Nynaeve
+|
+|5'4"
+|
+|
+|5'5"
+|
+|
+|5'4"
+|-
+!Egwene
+|
+|5'2"
+|
+|
+|5'5"
+|
+|
+|5'3"
+|-
+!Elayne
+|
+|5'6"
+|
+|
+|
+|
+|
+|5'7"
+|-
+!Aviendha
+|
+|5'8"-5'9"
+|5'10"
+|
+|
+|
+|
+|5'9"
+|}
+
+
+Not only do these disagree with the Companion, but they are not consistent even when the interviews are dated close together. According to one of the reporters above: "I definitely got the impression that he cares nothing for the detailed heights and such, but instead goes completely from the mental pictures he's got in his head." This seems a valid statement.
+
+How then does Jordan go from not knowing the heights of the main characters from week to week, to having a list of exact heights for more than 350 characters? The simple answer is that he decided some time after the year 2000 (and publication of Winter's Heart) that he would set these descriptions in stone, possibly in response to being asked it several times by fans. For this reason, the Companion heights are considered canon over these earlier interview responses, especially since they originate ultimately from Robert Jordan's own notes.
+
+[[Category:List pages]]
+
+{{notes}}

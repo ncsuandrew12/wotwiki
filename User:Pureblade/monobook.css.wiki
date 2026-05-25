@@ -1,0 +1,84 @@
+/***********This is rounders from User Style. ******************/
+
+/* make a few corners round, only supported by moz/firefox/other gecko browsers for now */
+#p-cactions ul li, #p-cactions ul li a {  
+  -moz-border-radius-topleft: 1em;
+  -moz-border-radius-topright: 1em;
+}
+#content { 
+  -moz-border-radius-topleft: 1em; 
+  -moz-border-radius-bottomleft: 1em;
+}
+div.pBody {
+  -moz-border-radius-topright: 1em;
+  -moz-border-radius-bottomright: 1em;
+}
+
+/* same following the css3 draft specs, any browsers supporting this? */
+       /* thetorpedodog sez: oddly enough, not the latest Mozilla...  */
+#p-cactions ul li, #p-cactions ul li a {  
+  border-radius-topleft: 1em;
+  border-radius-topright: 1em;
+}
+#content { 
+  border-radius-topleft: 1em;
+  border-radius-bottomleft: 1em;
+}
+div.pBody {
+  border-radius-topright: 1em;
+  border-radius-bottomright: 1em;
+}
+
+/************** This is a tweak from the intro section ********************/
+/*******************THIS_LINE_TESTS_THAT_TWEAK******************************************************************************************************************************************************************************************/
+
+/* put scrollbar on pre sections instead of ugly cutoff/overlap in firefox */
+pre { overflow: auto; }
+
+/**********************This is where my part starts***********************/
+
+/* Gets rid of the border on the left of the nav boxes in rounders. Doesn't
+look so good in non-roundness. */
+div.pBody {
+  border-left:none;
+}
+
+/* Make the personal toolbar have roundness */
+#p-personal ul {
+  /* ooooh transparency */
+   opacity:.6;
+  -moz-border-radius-bottomleft:1em;
+  border-color:rgb(250, 189, 35);
+  border-width:1px;
+  border-style:solid;
+  background:#F8FCFF;
+  /* if it weren't for this, that tool bar would stretch itself across the entire screen. */
+   float:right;
+  padding:0;
+  padding-bottom:.3em;
+  padding-right:3px;
+  border-top:none;
+  border-right:none;
+  margin:0;
+  /* my background code - use your own if you want (16*16px) */
+   background-image:url("http://www.blizzcenter.com/pureblade/Blog.ico");
+   background-repeat:no-repeat;
+   /* overrides 3px p-r that's above */
+    padding-right:20px;
+   background-position:right center;
+  
+}
+
+#p-personal a:hover {
+  background:#FFF;
+}
+
+#p-personal a {
+  padding:.5em;
+  margin:0;
+}
+
+#p-personal li {
+  margin:0;
+  border-right:1px dotted rgb(170, 170, 170);
+}

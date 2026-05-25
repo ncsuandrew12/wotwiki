@@ -1,0 +1,44 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: silver; border: 2px solid #000000; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  Astro Droid! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''A Wheel of Time Wiki'''!. Thanks for your edit to the [[:Talk:Lanfear]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Optimous|Optimous]] ([[User_talk:Optimous|Talk]]) 21:29, February 11, 2010
+|}
+
+== Aviendha ==
+
+Sorry about that. I see what the problem was. Trying to use a header in a spoiler section is kind of tricky. On the page, it looked like there wasn't anything there. I've fixed it now. If you wanted to expand on anything there, please go ahead. Again, sorry about the mix-up. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 22:01, February 17, 2010 (UTC)
+
+== Links and stuff ==
+
+Hey, great job on the re-write of the [[Wise One]] article. If you could, please take a look at the article now. I don't know if it is the browser you are using or if you are using an external editor or something, but something is kind of wonky with the links. It looks like you are formatting them like they are external links, (e.g. <nowiki>[http://wot.wikia.com/wiki/Wise_One Wise One]</nowiki> produces [http://wot.wikia.com/wiki/Wise_One Wise One]). Now, this wouldn't really be a problem, however it is kinda difficult when someone else tries to edit the article. Here is a quick breakdown on wikilinks.
+*Normal link: <nowiki>[[Wise One]]</nowiki> looks like [[Wise One]]
+*Making a link look like something else: <nowiki>[[Dreamwalking|Dreamwalk]]</nowiki> looks like [[Dreamwalking|Dreamwalk]]
+Also, the curly apostrophe (’), if used in a link, won't link properly. Kind of look out for that. :) Hope I don't sound to over-bearing or anything. Again, great job on the re-write. Let me know if you have any questions. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 03:30, March 4, 2010 (UTC)
+
+
+Thanks for your edit. I used Word to edit because my browser is AMAZINGLY slow when in the edit screen for some reason, must be a problem with the change over for the links. I was gonna look at it again on my home PC, but it seems you beat me to it, hehe. I'll come back to it a bit later just to review I think. Cheers! ---- [[User:Astro Droid|Astro Droid]] 22:24, March 4, 2010 (UTC)
+
+== Lewin ==
+
+Go ahead and edit [http://wot.wikia.com/index.php?title=Lewin&redirect=no this page]. I moved "Lewin" to "Lewin (disambiguation)," so you should be able to create the character's page. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:34, March 11, 2010 (UTC)
+
+== A favor ==
+
+Could you do me a favor? Could you try and edit [[MediaWiki talk:Community-corner]]. I know that the regular page for that can only be edited by admins, but I want to make sure that the talk page can be edited by anyone. Thanks!!! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:27, March 11, 2010 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}

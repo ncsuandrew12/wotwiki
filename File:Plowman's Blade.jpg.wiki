@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| Description        = The [[Plowman's Blade]] inn.
+| Source             = ''[[New Spring 7]]''
+| Artist             = Harvey Tolibao
+}}

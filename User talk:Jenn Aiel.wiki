@@ -1,0 +1,36 @@
+==[[Black Tower Foretelling]]==
+I'm not sure how to best organize theories yet, so I'll just add a category to it for now.  Take a look at the wiki markup I changed and see if you like it. --[[User:Gherald|Gherald]] 09:51, 19 December 2006 (UTC)
+:To aid this I've added a {{tl|theory}} template to tag theory articles and automatically add them to ''Category:Theories''. [[User:Aristoc|Aristoc]] 12:51, 19 December 2006 (UTC)
+:: Cool, that looks nice --[[User:Gherald|Gherald]] 03:58, 20 December 2006 (UTC)
+
+:Understood that that is still being organized, but...
+
+:# The Categories page hasn't happened yet
+:# Mine could be linked to "Foretelling" or "COS"
+:# and couldn't, for future fanfics/theroies/anything user-created, which you have stated you may add, include recognition for the User who submitted it?
+
+:Keep in mind, I am always open to help or ideas regarding theories. Thanks for your time,--[[User:Jenn Aiel|Jenn Aiel]] 20:10, 19 December 2006 (UTC)
+
+::# The Categories page may "happen" whenever someone gets around to it.  It's ok to have articles categorized into new categories that don't actually have a category page yet... wikis are works in progress like that.  But I added some text to the category page so you can see how it works.
+::# There is no category for [[Foretelling]]s, just that one article page, which [[Black Tower Foretelling]] already links to.  It also links to {{acos|prologue}}, which will contain our [[cs|chapter summary]] for that chapter.
+::# For recognition of original material submitted to this wiki, we have the [http://wot.wikia.com/index.php?title=Black_Tower_Foretelling&action=history page history].  If the material submitted was first on another site (e.g. theoryland or a fan forum) and was taken with permission (e.g. because you wrote it yourself), then it is appropriate to link back to the original work under an <code>==External&nbsp;links==</code> heading.   I'm not necessarily against linking to your user page ([[User:Jenn Aiel]]) from the theory page, if there is a need, but that seems unusual to me and in general not how wikis are used because of the multiple authorship, and the page history being so much more convenient.  It is however quite common to see a user page linking baack to major articles the user has contributed to, as you've already done :-)
+:: --[[User:Gherald|Gherald]] 03:58, 20 December 2006 (UTC)
+
+Thanks. --[[User:Jenn Aiel|Jenn Aiel]] 12:00, 20 December 2006 (UTC)
+
+=='''Welcome!'''==
+
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''{{SITENAME}}'''!. Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[m:Help:Editing|How to edit a page]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[:Category:Help|All help pages]]
+*'''Wikipedia:'''
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact one of us for more information!
+
+--[[User:TheParanoidOne|TheParanoidOne]] 23:44, 18 December 2006 (UTC)

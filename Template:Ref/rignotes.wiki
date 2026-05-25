@@ -1,0 +1,3 @@
+<includeonly>{{ref|{{rignotes|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}}}|rignotes-{{{1}}}_{{{2}}}_{{{3}}}}}</includeonly><noinclude>{{Documentation|:Template:ref/doc}}
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

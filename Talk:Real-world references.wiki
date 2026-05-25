@@ -1,0 +1,127 @@
+Here's the list from Wikipedia at the time it was excised: Much of this can be reintegrated here, with sources where appropriate, though a lot of it is self-evident for our purposes (not having an OR policy). -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 15:51, 1 August 2006 (UTC)
+
+
+==References and similarities==
+===To ancient places===
+Perhaps the most obvious borrowing is the Aes Sedai symbol, which is a modified [[wikipedia:yin-yang|Yin-Yang]] symbol, solid white on one side, black on the other. The name [[Aes Sedai]] is suggestive of the Irish [[wikipedia:Aes Sidhe|Aes Sidhe]], or Aes Dana, despite Ireland's lack of proximity to East Asia. Other references of similar effect include the game of ''stones'' played by several of the characters, which is very much like [[wikipedia:Go (board game)|Go]]. Another is the saying of the Borderlands: ''Duty is heavier than a mountain, death lighter than a feather.'' This is an oft-quoted part of the code of the [[wikipedia:Samurai|Samurai]].
+(It's actually a quote by a Japanese soldier that Jordan heard during his time as a soldier. Bushido is not a written code and therefore can't be quoted.)
+
+There are also similarities to various [[wikipedia:martial arts|martial arts]], especially with respect to [[wikipedia:sword|sword]]-fighting techniques. In the books, the swordmasters practice and use specific moves that are representative of the behavior of animals and natural phenomena. Each of the moves has a stylized name which is very similar to many East [[wikipedia:Asian|Asian]] combat styles and traditions (for example: [[wikipedia:kung-fu|kung fu]] and [[wikipedia:samurai|samurai]]). Finally, perhaps most tellingly, the [[heron-mark sword|Sword Masters' swords]] are very similar to a [[wikipedia:katana|katana]]. Mat Cauthon's weapon, a sword-tipped pole named an "Ashandarei", is also very similar to the [[wikipedia:naginata|naginata]] of [[wikipedia:Ancient Japan|Ancient Japan]]. (or a multitude of other South East Asian bladed halberds. Could also be a European Glaive or Bardiche.)
+
+The city of the [[Tear|Stone of Tear]] is similar to the [[wikipedia:Phoencia|Phoenician]] city of [[wikipedia:|Tyre]] (in present-day [[wikipedia:|Lebanon]]). Tear's position as an impregnable fortress and trade center echo the importance of Tyre, until it was conquered by [[wikipedia:Alexander the Great|Alexander the Great]].
+
+When creating names in the series, Jordan used names and words of foreign languages, religions, mythologies, such as [[Shaitan|Shai'tan]], similar to the [[wikipedia:Arabic|Arabic language]] name for [[wikipedia:Satan|Satan]]. The names of Trolloc clans (Dha'vol, Kho'bol, etc), is likewise reminsicent of [[wikipedia:devil|devil]], [[wikipedia:kobold|kobold]], etc.
+
+===To other literature===
+Jordan includes several references to [[wikipedia:Tolkien|J. R. R. Tolkien]]'s ''[[wikipedia:Lord of the Rings|The Lord of the Rings]]'', such as an inn named "The Nine Rings" (chapter 21, [[The Great Hunt]]) and "The Nine Horse Hitch" (chapter 11, [[The Fires of Heaven]]), hinting at the rings that enslaved [[wikipedia:Nazgûl|the Nine Riders]] who sought the [[wikipedia:One Ring|One Ring]] at the [[wikipedia:Prancing Pony|Prancing Pony]] inn. A minor character, Karldin Manfor, uses the pseudonym "Underhill" (prologue, [[Crossroads of Twilight|CoT]]), which is [[wikipedia:Frodo Baggins|Frodo]]'s traveling name in ''[[wikipedia:Fellowship of the Ring|The Fellowship of the Ring]]''. [[Perrin]]'s name can be seen as an amalgam of the names of [[wikipedia:Meriadoc Brandybuck|Merry]] and [[wikipedia:Peregrin Took|Pippin]], two of Frodo's [[wikipedia:Hobbit|Hobbit]] companions. Also, [[Andor]] is a reference to [[wikipedia:Númenor|Númenor]] in Tolkien's works; the original name of Númenor was Andor, meaning "Land of Gift" in [[wikipedia:Sindarin|Sindarin]]. North of Kandor on [[Randland]]'s world map lie the Mountains of Dhoom, a reference to Tolkien's [[wikipedia:Mount Dhoom|Mount Doom]]. And the book ''[[The Eye of the World]]'' starts out in the town Emond's Field, near the Mountains of Mist, a reference to the Misty Mountains.
+
+Indeed the structure of ''The Eye of the World'' can be seen as roughly analogous to the beginning of ''The Lord of the Rings'', up until the point where the group of traveling companions gets separated. Both start in an isolated and agrarian village (Emond's Field/Hobbiton) at a time of celebration (Beltine/Birthday Party). The presence of evil in the village (Trollocs/One Ring) causes a group of young men to leave the village. They first travel to a small town where they are attacked at an inn, then escaping in through the countryside to some ancient ruins (Shadar Logoth/Amon Sûl), where they are again attacked. At times they are accompanied by an experienced fighter skilled in tracking and the ways of the wild, as well as a wise magic user. Obviously there are many details that are different between the two stories, but the basic structure is strikingly similar until about halfway through ''The Eye of the World''. Robert Jordan has in fact stated that he consciously intended the early chapters of ''The Eye of the World'' to evoke the Shire of Middle-earth in Tolkien's work.{{verify}}
+
+The Aes Sedai have some similarities with the [[wikipedia:Bene Gesserit|Bene Gesserit Sisterhood]] of the [[wikipedia:Dune universe|Dune series]]; both are orders of women with special powers, both seek to influence politics and powerful individuals, and both are sometimes referred to by other characters as "witches" (however Jordan modeled the Aes Sedai after nuns, and Herbert modeled the Bene Gesserit after the [[wikipedia:Jesuit Order|Jesuit Order]]). The Dragon Reborn, like the [[wikipedia:Kwisatz Haderach]], is a male with powers normally reserved for the women of those organizations. Men could and still channel, though because of the taint on the ''saidin'', they are often "gentled" before the talent blooms and they begin to go mad. The Aiel bear many similarities to the Fremen of "Dune", the most obvious being the environment that shaped them into the most formidable warriors in the known world. The [[Aiel]] [[Wise One]]s are similar to the [[wikipedia:Fremen|Fremen]] [[wikipedia:Reverend Mother (Dune)|Reverend Mothers]] in that they serve the same function as Aes Sedai or Bene Gesserits, but forsake the connection to the sisterhood.
+
+Aes Sedai also show some minor similarities to robots in [[wikipedia:Isaac Asimov's Robot Series|Isaac Asimov's Robot Series]], in that the Three Oaths protect ordinary people from their otherwise overwhelming power, similar to the [[wikipedia:Three laws of robotics|Three Laws of Robotics]] in Asimov's series.
+
+In [[Crossroads of Twilight]] (Chapter 16) the similarities between the mountain/tower combinations of WoT and LoTR are detailed: "People who lived in the region were accustomed to [[Dragonmount]] dominating the sky, much as they were accustomed to the [[White Tower]] looming above the city walls and visible for miles." (p.481). ''[[wikipedia:Lord of the Rings|The Lord of the Rings]]'' also features as mountain/tower combination with [[wikipedia:Mount Dhoom|Mount Doom]] (a.k.a. [[wikipedia:Orodruin|Orodruin]]) and [[wikipedia:Isengard|Isengard]], (as well as with Mount Doom and [[wikipedia:Sauron|Sauron]]'s Tower in [[wikipedia:Peter Jackson|Peter Jackson]]'s movie trilogy).
+
+===To myth and legend===
+The series also borrows from various myths and legends, most notably [[wikipedia:Arhturian Legend|Arthurian legend]], [[wikipedia:Irish Mythology|Irish mythology]], [[wikipedia:Hindu|Hindu]] and [[wikipedia:Norse mythology|Norse]] mythic cycles, and even Christian imagery (the Dragon Reborn, principal hero of the piece, has over the course of the story received wounds similar to [[wikipedia:stigmata|stigmata]]).  Noticeably, many of the borrowed names are nearly the same as Arthurian legend:
+
+*[[Artur Hawkwing|Artur Paendrag]] — [[wikipedia:King Arthur|Arthur Pendragon]]
+*[[Egwene al'Vere]] — [[wikipedia:Gwynevere|Gwynevere]]
+*[[Elayne Trakand|Elayne]] — [[wikipedia:Elaine (legend)|Elaine]]
+*[[Galad Damodred|Galad]] — [[wikipedia:Galahad|Galahad]]
+*[[Gawyn Trakand|Gawyn]] — [[wikipedia:Gawain|Gawain]]
+*[[Padan Fain|Mordeth]] — [[wikipedia:Mordred|Mordred]]
+*[[Morgase Trakand|Morgase]] — [[wikipedia:Morgause|Morgause]]
+*[[Tigraine Mantear|Tigraine]] — [[wikipedia:Igraine|Igraine]]
+*[[Nynaeve al'Meara|Nynaeve]] — Nyneve (the [[wikipedia:Lady of the Lake|Lady of the Lake]])
+*[[Moiraine Damodred|Moiraine]] — [[wikipedia:Morgan le Fay|Morgan le Fay]] which is Morien in Welsh.[[Special:Contributions/96.36.31.78|96.36.31.78]] 20:30, December 17, 2017 (UTC)
+*[[Tar Valon]] - [[wikipedia:Avalon|Avalon]]
+*[[Thom Merrilin]] - [[wikipedia:Merlin|Merlin]]
+*Caemlyn - [[wikipedia:Camelot|Camelot]] or [[wikipedia:Battle of Camlann|Camlann]]
+*[[Bel Tine]] - [[wikipedia:Beltane|Beltane]], the Gaelic spring holiday
+
+Shai'tan is a modification of [[wikipedia:Shaitan|Shaitan]], the [[wikipedia:Jinn|Jinn]] thrown out of paradise for refusing to bow to Adam in the Islamic tradition. It may also refer to ha'satan in the book of Job from the Juedo-Christian Bible.  Ha'satan, used as both a noun and verb in Job, means "the adversary" in Hebrew.  Shayol Ghul, the gateway to Shai'tan's prison, is borrowed from [[wikipedia:Sheol|Sheol]], the abode of the dead in the [[wikipedia:Hebrew Bible|Hebrew Bible]].
+
+Sa'angreal is clearly borrowed from [[wikipedia:Sangreal|Sangreal]], the Holy Grail, while al'Thor proving that he is the Dragon Reborn by pulling the sword (Callandor) out of the Stone (of Tear) is highly reminiscent of Arthurian legend.
+
+Tarmon Gai'don, the term used throughout the books to refer to the Last Battle or culminative struggle between good and evil, is clearly borrowed from [[wikipedia:Armageddon|Armageddon]], the Biblical term for the location of the last great battle at the end of time.
+
+The three central ''ta'veren'' of the story also draw from religious mythology.  [[Rand al'Thor]], the Dragon Reborn, is confirmed by author Robert Jordan as sharing traits with the Norse god [[wikipedia:Tyr|Tyr]], [[Mat Cauthon]] is clearly based on [[wikipedia:Odin|Odin]], and [[Perrin Aybara]] draws inspiration from the Slavic god [[wikipedia:Perun|Perun]].  The three also embody aspects of the [[wikipedia:Hinduism|Hindu]] "Creator-Preserver-Destroyer" [[wikipedia:trimurti|trimurti]].
+
+There are also several indications that the central character, Rand al'Thor, is patterned after Jesus Christ. He has several [[wikipedia:stigmata|stigmata]] (namely, marks in his hands/wrists and a spear wound in his side). Prophecy says he will give his life to save the world. And he will fight in the final battle, Tarmon Gai'don.  There is also reference to his rebirth (to live, he must die), another parallel with Christ. He also wears the Crown of Swords, which can be a direct reference to the crown of thorns christ wore.
+
+The Hindu gods [[wikipedia:Shiva|Shiva]] and [[wikipedia:Kali|Kali]] are referenced in the series: "Shivan the Hunter, behind his black mask. He was said to herald the end of Ages, the destruction of what had been and the birth of what was to be, him and his sister Calian, called the Chooser, who rode red-masked at his side." — Chapter 21 of ''A Crown of Swords''. The Japanese sun goddess [[wikipedia:Amaterasu|Amaterasu]] is also referenced in the same passage: "Amarasu, riding out of the sun with a sword of fire", and again in ''Knife of Dreams'', Chapter 24: "Amaresu herself, carrying the Sword of the Sun into battle."
+
+Rand is in love with three women, [[Elayne Trakand|Elayne]] (who can channel), [[Aviendha]] (who can channel), and [[Min Farshaw|Min]] (who sees auras around people, sometimes foretelling the future). In Arthurian legend, when Arthur was wounded by [[wikipedia:Mordred|Mordred]], three witches came and bore him away to the [[wikipedia:Avalon|Avalon]].
+
+The invasion of the [[Seanchan]] could be correlated to the invasion of the Saxons to the English continent, putting them at war with the Celtic tribes there, one of which may have been led by King Arthur. Alternately, the Seanchan could refer to Asiatic peoples - this is supported by the idea that the Seanchan shave portions of their head, have a deeply entrenched honor system and bureaucracy, and that they have tilted eyes. The Asiatic view is supported by their armor, dress, and imperial system. Alternate allegoric analyses draw connections to the Roman Empire. Many conclude the Seanchan were derived from a variety of real world sources.
+
+The Wheel of Time also draws from Norse legend with the similarities between the female half of the One Power ([[Saidar]]).  According to Nordic mythology, there existed a magic-like power named saiđr, which was wielded by unsavory females.  These women, regarded as outsiders (similar to the [[Aes Sedai]]) were not considered normal components of society.  Furthermore, the dichotomy between [[wikipedia:wolves|wolves]] and "Shadow Brothers" can be traced to the Nordic legends, as they held lore of both the Wolf and the Varg, which were considered two sides of the same essence.  The Varg was the incarnation of the evil tendencies of the wolf.  It could be considered that Perrin's descent into his feral connection with wolves is mirrored in the Epic of [[wikipedia:Gilgamesh|Gilgamesh]], in which the character Enkidu is a primal character who clothes himself in animal skins, and whose death prompts Gilgamesh to do the same.
+
+In ''[[Knife of Dreams]]'',<!--On page 159--> Perrin calls on two Two Rivers men to show off their archery abilities. One of them is called Tell, probably inspired by [[wikipedia:William Tell|William Tell]]. In addition, the founder of the [[Children of the Light|Whitecloaks]] is Lothair Mantelar, likely inspired by [[wikipedia:Martin Luther|Martin Luther]].
+
+In ''[[Towers of Midnight]]'', Perrin forges a hammer which he names Mah'alleinir which is probably a reference to Mjolnir the hammer of Thor.
+
+Robert Jordan himself once said: "The characters in the books are the source of many of our myths and legends, and we are the source of many of theirs. You can look two ways along a wheel." [America Online chat, June 28, 1996]
+
+===To Jungian Archetypes===
+A number of Wheel of Time Characters fulfill the basic archetypes laid out by [[wikipedia:Carl Jung|Carl Jung]]. In most cases different characters fulfill the same archetype, and one character can represent multiple concepts at the same time. Below are some of the most obvious examples.
+
+*[[Rand al'Thor]] - the [[wikipedia:Übermensch|Übermensch]] ("Superman", the [[wikipedia:omnipotent|Omnipotent]]), the [[wikipedia:hero|hero]]
+*[[Matrim Cauthon]] - the [[wikipedia:trickster|Trickster]]
+*[[Thom Merrilin]] - the [[wikipedia:senex|senex]] ('[[wikipedia:Wise Old Man|Wise Old Man]]')
+*[[Aran'gar]] (Balthamel) - the [[wikipedia:anima|anima]]
+*[[Egwene al'Vere]] - the '[[wikipedia:Great Mother|Great Mother]]'
+
+===To our world===
+A number of references occur in ''[[The Eye of the World]]'', Chapter 4:
+* [[wikipedia:Elizabeth II of the United Kingdom|Queen Elizabeth]]: "Alsbet, queen of all" (changed to ''Elsbet'' in later editions)
+* [[wikipedia:Ann Landers|Ann Landers]]: "The Thousand Tales of Anla, the Wise Counselor"
+* [[wikipedia:Mother Theresa|Mother Theresa]]: "Materese the Healer"
+* [[wikipedia:John Glenn|John Glenn]], [[wikipedia:lunar module|The Eagle]], [[wikipedia:Sally Ride|Sally Ride]] or [[wikipedia:Salyut|Salyut]]: "Tell us about Lenn," Egwene called. "How he flew to the moon in the belly of an eagle made of fire. Tell about his daughter Salya walking among the stars."
+And several more in ''[[The Shadow Rising]]'':
+* [[wikipedia:Mercedes Benz|Mercedes Benz]] hood ornament: "A silvery thing in another cabinet, like a three-pointed star inside a circle, was made of no substance she knew; it was softer than metal, scratched and gouged, yet even older than any of the ancient bones. From ten paces she could sense pride and vanity." (Chapter 11, What lies hidden, p. 147)
+* [[wikipedia:Moscow|Moscow]], [[wikipedia:USA|America]], [[wikipedia:ICBM|ICBM]]s, [[wikipedia:superpower|superpower]]s:  "Did Mosk and Merk really fight with spears of fire, and were they even giants?" (Chapter 20, Winds Rising)
+* [[wikipedia:Gautama Buddha|Gautama Buddha]]: "Ghoetam under the tree of life" (Chapter 24, Rhuidean, p. 277)
+
+The intended impression is that the world in which the series is set might be our own world at some — probably later — point on '''The Wheel of Time'''.
+A list of more real-world inspirations can be found in [http://www.steelypips.org/wotfaq/3_sources/index.html The Wheel of Time FAQ, section 3].
+
+[[Ba'alzamon]] - [[wikipedia:baal|baal]]
+
+== Did Jordan Ever... ==
+
+...explicity SAY it?  These references could all be just tongue-in-cheek coincidences, deliberately placed there as allusions. [[User:Jachra|Jachra]] 06:41, 24 March 2007 (UTC)
+
+:Some of them are pretty obvious.  But it's just semantics IMO; you could call them "real-world allusions" etc. if you really want... --[[User:Gherald|Gherald]] 18:14, 25 March 2007 (UTC)
+
+
+==Myrddraal==
+Is it just me, or do myrddraal seem like the ringwraiths? I mean, big, black swords that can kill just by touching you, always dressed in black cloaks... [[User:Howabout|Howabout]] 20:47, 16 July 2007 (UTC)
+
+I 
+
+I thought they were based on Dementor's because of the eyeless thing and looking at them is looking at fear.
+
+
+
+---Harry Potter was written years after the start of the Wheel of Time (started writing in the 80's and published in 1990). So, no, they most DEFINITELY aren't created after Dementors.
+
+|
+
+I always seen them as more like a  Slender man; big pale man dressed in black. The idea of them have been around for sometime (you could say the start of man) the before the start of the writing process of tEotW; but the name of 'Slender man' is a new thing though
+
+
+
+===Forsaken===
+
+<p style="font-weight:normal;">[[Semirhage]] = [https://en.wikipedia.org/wiki/Semiramis Semiramis]</p>
+
+<span style="font-weight:normal;">[[Asmodean]] = [</span>https://en.wikipedia.org/wiki/Asmodeus <span style="font-weight:normal;">Asmodeus]</span>
+
+I think these might be references, but I don't especially think the characters match their name sakes. [[Special:Contributions/132.216.234.140|132.216.234.140]] 03:28, February 18, 2017 (UTC)
+
+One that struck me from the beginning:
+
+[[Lanfear]]  ~ [[L'enfer]]  = "hell" in French

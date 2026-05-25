@@ -1,0 +1,24 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=Teven aerwin
+| status=Dead
+| nationality=Unknown nationality
+| occupation=Author
+| gender=Male
+| mentioned={{tgh|5}}
+| lastmentioned={{tgh|5}}
+}}
+{{dablink|For the [[Two Rivers]] resident with the same first name, see [[Teven Marwin]].}}
+
+'''Teven Aerwin''' was an author.
+
+==History==
+Teven Aerwin was the author of ''[[The Dance of the Hawk and the Hummingbird]]'', a book purportedly laying out proper conduct between men and women. [[Liandrin]] burnt a copy of his book in [[Fal Dara]].{{ref/book|2|5}} 
+
+It is possible, but unlikely, that the [[Feast of Teven]] has some connection with this author.
+
+{{notes}}
+{{DEFAULTSORT:Aerwin, Teven}}
+{{short}}
+[[Category:Historical people]]

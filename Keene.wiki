@@ -1,0 +1,18 @@
+{{ character | image=FarMaddingFlag.png
+| imagesize=150px
+| status=Alive
+| nationality=Far Madding
+| gender=Female
+| occupation=Innkeeper
+| appeared={{Wh|32}}
+| lastappeared={{wh|33}}
+| living=wh
+}}
+'''Mistress Keene''' is the innkeeper of [[The Counsel's Head]] in [[Far Madding]]. She has a pointed chin and wears her white hair in a bun.
+
+She has a suspicious and disapproving look, which makes [[Rand]] certain that she would have no customers at all if the accommodation and meals were not as enjoyable as they are. Her suspicions are mainly towards men; she even has a strap in each of her rooms. Women can use them to keep their husbands in line.
+
+She gives [[Min]] a letter for Rand.
+
+She thinks Rand is a pretty man and advises Min to keep an eye on her friends.
+[[Category:Short pages]]

@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.deviantart.com/forbis/art/Pull-of-Saidin-71382762
+|Description = Fan art of the pull of [[Saidin]].
+|Artist      = Forbis
+}}

@@ -1,0 +1,18 @@
+{{ character | image=Aiel-icon.svg
+| imagesize = 200px
+| nationality=Aiel
+| gender=Female
+| rank=Wise One
+| clan=Unknown clan
+| sept=Unknown sept
+| status=Alive
+| mentioned={{tsr|23}}
+| lastmentioned={{tsr|23}}
+| living=tsr
+}}
+'''Coedelin''' is an [[Aiel]] [[Wise One]].
+
+== History ==
+She is one of the Wise Ones who had [[Amys]] as an apprentice.{{ref/book|4|23}}
+
+{{notes}}

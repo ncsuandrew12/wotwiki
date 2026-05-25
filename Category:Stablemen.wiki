@@ -1,0 +1,4 @@
+'''Stablemen''' are people who care for [[:Category:Horses|horses]], usually at an [[:Category:Inns|inn]].
+
+[[Category:Servants| Stablemen]]
+[[Category:Sort option categories]]

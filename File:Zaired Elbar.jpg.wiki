@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Zaired Elbar]].
+| Source             = The cover of ''[[New Threads in the Pattern]]''.
+| Artist             = Charles Keegan
+}}

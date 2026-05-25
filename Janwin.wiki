@@ -1,0 +1,33 @@
+{{ character 
+| image=Janwin.jpg
+| imagesize=250px
+| nationality=Aiel
+| occupation=Clan chief
+| gender=Male
+| affiliation=Car'a'carn
+| eyes=Blue-gray
+| hair=Gray
+| status=Alive
+| clan=Shiande
+| sept=Degalle
+| mentioned={{tfoh|2}}
+| appeared={{acos|18}}
+| lastappeared={{acos|18}}
+| living=acos
+}}
+'''Janwin''' is the [[clan chief]] of the [[Shiande]] [[Aiel]]. 
+
+== Appearance ==
+He has a fierce creased face, blue-gray eyes, and gray hair.
+
+== History ==
+Janwin is of the [[Degalle]] sept. He is married to the [[roofmistress]] [[Corida]]. The [[Wise One]] [[Baellin]] is in service to him.{{ref|{{twotc}}, Janwin}}
+
+== Activities ==
+His clan joins [[Rand al'Thor]]'s forces after the [[Shaido]] siege of [[Cairhien]]. He now occupies Cairhien. When Rand was kidnapped by [[White Tower]] Aes Sedai the bleakness hits his clan hard.
+
+Rand uses [[Merana Ambrey]] as a servant to convince Janwin that he is not an [[Aes Sedai]] puppet in the hope Janwin will continue to support him.
+
+{{short}}
+
+[[es:Janwin]]

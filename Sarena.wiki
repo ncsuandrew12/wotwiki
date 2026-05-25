@@ -1,0 +1,24 @@
+{{character
+| image=AltaraFlag.png
+| imagesize=250px
+| ewot=
+| status=Alive
+| nationality=Altaran
+| rank=Noblewoman
+| title=Lady
+| gender=Female
+| weight=Stocky
+| hair=
+| eyes=
+| appeared={{Loc|8}}
+| lastappeared={{loc|8}}
+| living=loc
+}}'''Sarena''' is a powerful Altaran noblewoman. She is stocky, hard-eyed, and has greying hair.  She features a thin scar across her face.{{ref|{{twotc}}, Sarena, Lady}}
+
+==Activities==
+[[Nynaeve]] saw her listening to [[Logain]] as he described how the [[Red Ajah]] conspired to establish him as a [[false Dragon]].{{ref/book|6|8}} Lady Sarena questioned [[Lelaine]] in an effort to determine the validity of Logain's claim.  {{ref/book|6|8}}
+
+{{notes}}
+{{short}}
+[[Category:Nobility]]
+[[Category:Short pages]]

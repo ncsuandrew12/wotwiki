@@ -1,0 +1,20 @@
+{{character 
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Saldaean
+| occupation=Clerk
+| affiliation=Weilin Aldragoran
+| gender=Male
+| eyes=Hard
+| appeared={{kod|20}}
+| lastappeared={{kod|20}}
+| living=kod
+}}
+'''Ruthan''' is a [[Saldaea]]n clerk, who works for [[Weilin Aldragoran]].
+
+==Appearance==
+Ruthan has hard eyes.
+
+==Activities==
+When Weilin Aldragoran concludes is gem deal with [[Jeorg Damentanis]] and [[Pavil Geraneos]], Weilin has Ruthan put the money in a strong box. Though he looks dangerous, he does not know one end of a sword from the other.

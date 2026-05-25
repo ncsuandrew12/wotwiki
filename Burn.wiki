@@ -1,0 +1,19 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=Burn
+| name=Burn
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Male
+| appeared={{teotw|23}}
+}}'''Burn''' is a wolf that is a part of [[Dapple]]'s pack.
+
+==Appearance and History==
+Burn received his name due to an old shoulder injury from a [[Trolloc]]. He thinks of little outside of hunting and killing [[Shadowspawn]].{{ref/book|1|23}} He is impatient, angry, and large.{{ref|{{twotc}}, Burn}}
+
+==Activities==
+Burn, along with Dapple, [[Hopper]] and [[Wind (wolf)|Wind]], speak with [[Elyas Machera]] and [[Perrin Aybara]] when Perrin is learning about being a [[wolfbrother]].{{ref/book|1|23}} Burn becomes reluctant as Dapple wants to follow the humans.{{ref/book|1|27}}
+
+{{notes}}

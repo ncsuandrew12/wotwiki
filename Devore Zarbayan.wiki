@@ -1,0 +1,24 @@
+{{ character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| ewot=Devore
+| status=Alive
+| nationality=Saldaean
+| rank=Bannerwoman
+| occupation=Queen's Guard
+| gender=Female
+| build=Slim
+| eyes=Cool
+| appeared={{kod|15}}
+| lastappeared={{kod|16}}
+| living=kod
+}}'''Devore Zarbayan''' is a [[Saldaea]]n Bannerwoman of [[Elayne Trakand|Elayne Trakand's]] Guardswomen in [[Caemlyn]].{{ref|{{twotc}}, Devore Zarbayan}}
+
+== Appearance ==
+She is slim and cool-eyed.
+
+== Activities ==
+She is one of Elayne's bodyguards, when Elayne gets lost walking through the [[Caemlyn]] Palace corridors.
+
+{{notes}}
+{{DEFAULTSORT:Zarbayan, Devore}}

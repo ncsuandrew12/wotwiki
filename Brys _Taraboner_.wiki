@@ -1,0 +1,21 @@
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Taraboner
+| affiliation=Tarabon
+| rank=Lord
+| gender=Male
+| mentioned={{tsr|38}}
+| lastmentioned={{tsr|38}}
+| living=tsr
+}}
+{{dablink|For a lord from [[Kandor]] with the same name, see [[Brys (Kandori)|Brys]].}}
+
+'''Lord Brys''' is a nobleman from [[Tarabon]].{{ref|{{twotc}}, Brys}}
+
+==Activities==
+Floran Gelb passes information from the body servant to Lord Brys to [[Egeanin Tamarath]] at the [[Garden of Silver Breezes]] in [[Tanchico]]. Gelb says the Assembly has secretly chosen a new Panarch.{{ref/book|4|38}}
+
+{{notes}}
+[[Category:Nobility]]

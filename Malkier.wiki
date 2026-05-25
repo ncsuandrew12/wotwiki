@@ -1,0 +1,104 @@
+{{nation
+| image=MalkierFlag.png
+|name=Malkier
+|type=Hereditary monarchy
+|headofstate=King [[Lan Mandragoran]]
+|defacto=
+|executive=
+|legislative=
+|judicial=
+|sigil=Golden crane in flight
+|banner=The golden crane on a white background{{ref/book|13|23}}
+|map=
+|region=[[Blight]] border
+|terrain=
+|interest=[[Blight]]
+|population=
+|demonym=Malkieri
+|capital=[[Seven Towers]]
+|cities=[[Herot's Crossing]], Jehaan
+|imports=
+|affiliation=
+|currency=
+|religious=
+|holiday=
+|anthem=
+|formed=
+|reorganized=
+|fragmented={{ne|953}}
+|dissolved={{ne|955}}
+|restored={{ne|1000}}
+|era=
+}}'''Malkier''' (pronounced: mahl-KEER) is part of the [[Borderlands]], lying north of [[Shienar]]. The sign of Malkier is a golden crane. Malkieri men are recognized by a braided leather cord they wear around their temples; the ''[[hadori]]''. The nation was swallowed by the [[Great Blight|Blight]] in [[955 NE]], causing [[Shienar]] to become the northernmost of the Borderlands. After the [[Last Battle]], the Blight vanished, and the nation was restored.{{verify}}
+
+==History==
+The nation of Malkier was a former province of [[Artur Hawkwing's Empire]], forged out of the earlier kingdom of [[Rhamdashar]]. Lord [[Shevar Jamelle]], governor of the province, declared it to be a sovereign kingdom very early in the [[War of the Hundred Years]], forging an alliance with the other Borderlands against both the [[Shadow]] in the north and the threat of interference by other nations to the south.
+
+Malkier endured against the Shadow for almost a thousand years, until it was destroyed in 953-{{ne|957}}. [[Lain Mandragoran]], the brother of King [[al'Akir Mandragoran]], took five thousand lancers to the [[Blasted Lands]] as part of a wager laid by his wife [[Breyan Mandragoran|Breyan]] and was killed along with most of the army. Al'Akir's refusal to support Lain's foolishness saw Breyan plot to have him and his young son [[al'Lan Mandragoran|Lan]] killed so her own son [[Isam]] could take the throne. [[Cowin Gemallan]], a Malkieri noble but also a [[Darkfriend]], supported Breyan's plan and attempted a coup against al'Akir.[[File:Malkier.jpg|left|thumb]]
+
+The coup failed, but the [[Blightborder]] forts had been stripped of most of their soldiers and a major [[Shadowspawn]] invasion was able to break through. Breyan and Isam were believed killed and much of the kingdom laid waste, although the famed scout [[Jain Charin]], already called Farstrider, was able to take Gemallen prisoner and bring him back to the [[Seven Towers]] to face al'Akir in single combat, where he was killed. Al'Akir abdicated the throne to his son Lan, anointing him a [[Dai Shan|Diademed Battle Lord]], and sent him south to Shienar to be raised in safety, before rallying the last of the Malkieri to fight the Shadow at [[Herot's Crossing]]. Al'Akir was killed, Malkier was overrun, the Seven Towers were destroyed, and the Blightborder was pushed a hundred miles or more to the south, until troops from the other Borderlands met the Shadowspawn at the Stair of Jehaan and turned them back.
+[[File:LanandNynaeve.JPG|thumb|right|Lan gifts Nynaeve the signet ring of the kings of Malkier]]
+From then on Malkier was desolate and overrun by the Blight. The Thousand Lakes were poisonous and inhabited by foul creatures, while the Seven Towers were toppled ruins. Despite this, Malkier's reputation for martial excellence and stalwart defense against the Shadow remained incredibly powerful. It was known that thousands would flock to Lan Mandragoran's cause if he would but call, which put him in a precarious place of esteem and suspicion in the other Borderlands.
+
+Al'Lan Mandragoran did indeed raise the Crane Banner and rode for [[Tarwin's Gap]] and [[Tarmon Gai'don]] in {{ne|1000}}, with an increasingly large force of volunteer soldiers from across the Borderlands assembling with him. At the defeat of the [[Dark One]], the Blight all but vanished and Malkier once more was able to became a sovereign nation, ruled by Lan with his Queen, [[Nynaeve al'Meara]], by his side.
+[[File:Wiki_Malkier.png|thumb|left|A map showing the former borders of Malkier.]]
+
+==Geography==
+Malkier lay north of Shienar, running from where the [[Blightborder]] is now located to [[Tarwin's Gap]] and possibly even beyond the [[Mountains of Dhoom]]. It was the northernmost of the [[Westlands]] and the one located closest to [[Shayol Ghul]]. Its capital city contained the fabled Seven Towers, located along the shores of several lakes not far from the southern feet of the Mountains of Dhoom.
+
+== Culture ==
+In many ways, the Malkieri are considered the most extreme of the Borderlanders. Many customs from the other Borderlands were also found in Malkier, but even more emphasized. Respect for women was paramount; it was considered impolite for a Malkieri man to look directly at a woman unless she began the interaction. Malkieri found men of other nations to be strange in the way they just began conversations with women without regard for what they wanted.
+
+The Malkieri were a land of warriors, as their land was bordered on three sides by the Blight, but they were not unpleasant; they loved dances and festivals, and prized musical and poetic ability. If composing poetry was not in their skills, they should at least know enough to recite it. Notably their love poems never directly named their object.
+
+[[File:El‘Leanna ti Arathdar Mandragoran.png|thumb|150px|[[El'Leanna Mandragoran]], Queen of Malkier wearing ki'sain. Artwork by Nyalesta]]When women reached adulthood they were allowed to mark their forehead with the ''[[ki'sain]]''; men began wearing the ''[[hadori]]'' upon reaching maturity. The age at which these were granted were not fixed; it could be as young as fifteen, and were usually granted by seventeen or eighteen, rarely longer. The decision to grant  the ''[[hadori]]'' was decided by the boy's father, uncles, and often a circle of their friends. Being part of this circle was considered a great honor. However, the boy's mother had the authority to veto their approval, if she lived, in which case the boy would wait a year. By custom the mother could veto three times, but doing so even once was considered shaming to her son, and few women did so more than once. A girl was granted the ''ki'sain'' by a circle of her mother, aunts, and their friends; no such veto was granted to the girl's father.
+
+It was expected that youths would take a lover, called a ''[[carneira]]'' ("first" in the [[Old Tongue]]) before marriage, usually someone older and more experienced. Women were expected to take the lead on this; women chose their first male lover, while young men were chosen by an older woman. Once begun, custom also dictated that the woman decided when the carneira relationship was over, unless the man chose to marry. An exception was if a young woman tried to pick a married man as her first lover; she would face strong disapproval and would be reprimanded by other women. The relationship was not just casual or just sexual; in fact the sexual part of being ''carneira'' was expected to last only a year or two. However certain lifelong rights, responsibilities and obligations were assumed by both upon entering into it, although they usually favored the woman in both directions.
+
+Malkieri girls wore their hair cut to the shoulder until donning the ''ki'sain'', then grew it to the waist or longer. A woman who wished to retire from the world would cut her hair short, which meant she wanted to simplify her life and give over involvement of most affairs in the world, and would not expected to be involved in politics. A Malkieri boy on the other hand grew his hair to the waist, even after tying on the ''hadori''. His hair would only be cut by his ''carneira'' once chosen, to the shoulders, and he would weave the cut hair into a cord called a ''daori'' afterward, which he presented to her as a gift and a token of their relationship. Once cut by his ''carneira'', Malkieri men never again grow his hair past his shoulders nor cut it shorter.
+
+Both men and women needed the permission of their mother to marry at whatever age. If the mother of the bride or groom was dead, the closest female relative by blood and age decided if the couple could marry: first the eldest maternal aunt, then the younger ones; then to the eldest paternal aunt, the younger paternal aunts; then to elder sisters, to younger sisters; then to the daughters of maternal aunts, to the daughters of paternal aunts, and then to more distant relatives. Arranged marriages were common among nobles, but not among commoners. In noble families, the bride and groom sometimes did not know that they were to marry after their mothers or closest female relatives had arranged the wedding.<ref name="comp">[[The Wheel of Time Companion]], Malkier.</ref>
+
+==Towns/cities==
+*[[Seven Towers]] (capital)
+*[[Herot's Crossing]]
+*Jehaan
+
+== Important Malkieri ==
+*[[al'Lan Mandragoran]], last king of Malkier and former warder of Moiraine Damodred
+*[[Jain Charin]], also known as Jain Farstrider, traveled the world and brought [[Cowin Gemallan]], who had betrayed Malkier to the [[Shadow]], before the King for justice. He was also known as [[Noal Charin]] who traveled with [[Matrim Cauthon]] and later on became a [[Heroes of the Horn|Hero of the Horn]].
+* [[Edeyn ti Gemallen Arrel]], unsuccessfully rose the [[Golden Crane]] in [[979 NE]].
+* [[Nacelle Kayama]], the last known Malkieri Aes Sedai. Unfortunately, she was also a Darkfriend.
+
+==Trivia==
+*In Chapter 23 of ''Towers of Midnight'', the flag of Malkier is described as a golden crane on a white background, and also sold as such in official merchandise. However, in ''[[The Wheel of Time Companion]]'', the flag of Malkier is instead described as a golden crane on a blue background.{{ref/book|twotc|Golden Crane}} The reason for this inconsistency is unknown.
+
+==Parallels==
+The symbol of Malkier is the Golden Crane, likely a reference to the [[wikipedia:Yellow Crane Tower|Yellow Crane Tower]] and the following poem of the same name by 8th century Chinese poet Cui Hao:
+
+[[File:Yellow Crane.jpg|200px|thumb|A depiction of Yellow Crane Tower with crane flying away from the main structure, painted by Xia Yong circa 1400.]]
+::The yellow crane has long since gone away,
+::All that here remains is yellow crane tower.
+::The yellow crane once gone does not return,
+::White clouds drift slowly for a thousand years.
+::The river is clear in Hanyang by the trees,
+::And fragrant grass grows thick on parrot isle.
+::In this dusk, I don't know where my homeland lies,
+::The river's mist-covered waters bring me sorrow.
+
+The Seven Towers are one of the last visible remnants of Malkier. The poem seems to explicitly reference the fall of something of great importance, since reclaimed by nature and time and the narrator mourns its loss. The poem could have almost been written by a Malkieri survivor.
+
+In general, Malkier is considered to be inspired by nations in the Himalayas, such as Nepal and Tibet. The ''ki'sain'' is reminiscent of the bindi worn by Hindu and Jain women or representations of the Buddha. John Stopford also likens the recent fall of Malkier to the relatively recent incorporation of Tibet into the People's Republic of China when Jordan started writing the book series.{{ref|According to the [http://www.steelypips.org/wotfaq/3_sources/3.14_countries.html Wheel of Time F.A.Q.]}}
+
+== External links ==
+* {{TVlink|Malkier}} on {{TVlink}}
+
+{{notes}}<references /><references />
+{{nations}}
+[[es:Malkier]]
+[[Category:Former Nations of the New Era]]
+[[Category:Malkier| Malkier]]
+[[Category:Nations]]
+[[Category:Borderlands]]
+[[Category:Historical nations]]
+[[Category:Parallels]]

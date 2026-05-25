@@ -1,0 +1,8 @@
+{{Image 
+| License = GFDL 
+| ImageType1 = Character
+| Description = [[Thomdril Merrilin]] art done by John Seamas Gallagher 
+| Source = http://seamassketches.blogspot.com/
+| Artist = John Seamas Gallagher 
+}}
+[[Category:Featured images]]

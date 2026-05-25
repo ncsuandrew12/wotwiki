@@ -1,0 +1,82 @@
+{{ character 
+| image=GreenBlack.png
+| imagesize=250px
+| ajah=Green
+| death={{ne|1000}}
+| nationality=Andoran
+| gender=Female
+| affiliation= Black Ajah
+| rank=Aes Sedai
+| eyes=Brown
+| status=Dead
+| appeared={{acos|p}}
+| lastappeared={{tgs|22}}
+| lastmentioned={{tgs|39}}
+}}'''Elza Penfell''' was an [[Aes Sedai]] of the [[Green Ajah]], and secretly part of the [[Black Ajah]].
+
+==Appearance and Personality==
+She had a pleasant-face with brown hair and eyes. She is 5'5 tall.
+
+She is normally cool, but could become rabid about Rand.
+
+==Strength and Abiltiies==
+Elza is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|31}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.
+
+In fact, she was so conscious of her strength that other Aes Sedai felt she thought too much about her place in the hierarchy, when dealing with other sisters.{{verify}}
+
+
+==History==
+She was from [[Andor]], near the Altaran border. Born in {{ne|874}}, she went to the Tower in {{ne|891}}. She spent 12 years as a novice and ten as Accepted, becoming Aes Sedai in {{ne|913}}. 
+
+Shortly after being raised, she joined the Black Ajah. She was a very dissatisfied woman at that time, because of her slow progress, and had been considered ripe for recruiting for several years.{{ref|{{twotc}}, Elza Penfell}} 
+
+She had one [[Warder]], [[Fearil]]. Like her, he was a [[Darkfriend]]. She cultivated a rumor that she had married him, to make her one-on-one meetings with him less suspicious. She used those meetings to give him instructions and to punish him when needed; she would muffle his cries and mask her bond when doing so, to avoid feeling his pain.
+
+==Activities==
+===Oath to the Dragon===
+She was taken prisoner by the [[Asha'man]] after the battle at [[Dumai's Wells]] but begged to be allowed to swear fealty to the [[Dragon Reborn]]. She appeared somewhat fanatical in her following of Rand. Elza swore fealty to Rand after convincing herself that it was crucial that al'Thor make it to the [[Last Battle]], so her true master, the [[Dark One]], can defeat him there. This suggests that the oath she gave was the result of the [[Compulsion]] [[Verin Mathwin]] used on some of the Aes Sedai captives from Dumai's Wells, in order to make sure they all swear fealty.
+
+She [[Traveling|Traveled]] with [[Cadsuane Melaidhrin]] to [[Far Madding]] to track down Rand. During the [[Battle near Shadar Logoth]], under [[Cadsuane]]'s direction, she linked with [[Jahar Narishma]] and [[Merise Haindehl]] to defend Rand against an attack by the [[Forsaken]]. During the attack, she killed [[Corlan Dashiva]], who she thought was a mere [[Asha'man]], not knowing he was actually the Forsaken [[Osan'gar]].
+
+The group Traveled to [[Algarin Pendaloan]]'s house in [[Tear]], where Rand recovers after cleansing ''[[saidin]]''. Elza stood guard over him and had become very protective of him, even using physical means to stop people from seeing him. She met with her Warder, Fearil, when he arrived in Tear and wasn’t reticent about inflicting pain on him. She had decided that some people in the group are going to have to die soon.
+
+She participated in the battle with the [[Trollocs]] when they attacked the manor. After the battle, she escorted [[Davram Bashere]] to Rand and then helped to burn all the dead bodies away.
+She watched Rand's meeting with the supposed highest ranking Seanchan on the continent from a distance and Traveled in as back up when it was revealed that the [[Daughter of the Nine Moons]] is actually [[Semirhage]], who was taken captive.
+
+She escorted Rand when he went to meet [[Harine din Togara Two Winds]].
+
+===Lost from the [[Pattern]]===
+She assisted  when [[Semirhage]] was freed by [[Shaidar Haran]]. She handed the [[Domination Band]] to Semirhage and mentioned that there was [[Compulsion]] in her mind and that Semirhage was to remove it. Semirhage and Elza ensnared Rand with the male ''a'dam'', from which he escaped by drawing from the [[True Power]], killing both women with [[balefire]].
+
+== Viewings ==
+Min had a viewing of Elza, along with [[Sarene Nemdahl]], [[Nesune Bihara]], [[Erian Boroleos]], [[Sorilea]], and [[Beldeine Nyram]], that each of them would serve Rand in their own fashion.
+
+{{notes}}
+{{DEFAULTSORT:Penfell, Elza}}
+[[es:Elza Penfell]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Balefired]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Penfell, Elza}}
+[[es:Elza Penfell]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Balefired]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+<references />
+{{DEFAULTSORT:Penfell, Elza}}
+[[es:Elza Penfell]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Balefired]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

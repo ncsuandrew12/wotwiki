@@ -1,0 +1,34 @@
+{{ character 
+| image=GreenAjah.png
+| imagesize=250px
+| ewothist=Eleyan allanderin
+| ajah=Green
+| status=Dead
+| nationality=Farashelle
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| mentioned={{tgs|26}}
+| lastmentioned={{tgs|26}}
+}}
+'''Eleyan al'Landerin''' was an ancient [[Aes Sedai]] of the [[Green Ajah]].{{Ref|{{twotc}}, Eleyan al'Landerin}}
+
+== History ==
+There is a statue of her and her Warders in the southwestern side of [[Tar Valon]], in the same place she sacrificed herself with her [[Warder]]s to stop and repel [[Artur Hawkwing]]'s army at the beginning of the nineteen-year-long siege to the city.
+
+Her name indicates that she was from the [[Two Rivers]] region of [[Farashelle]].
+== Background ==
+The name of this character comes from the name of a Tarvalon.net member.<ref>[http://library.tarvalon.net/index.php?title=Eleyan_Teyal_Al'Landerin  User Profile on TarValon.net]</ref>
+
+When [[Siuan Sanche|Siuan]] asks [[Shemerin]] where could they find the Watergate, she replies: 
+
+''"On the southwest side of the city, Aes Sedai. About five minutes' walk eastward from where the ancient statues of Eleyan al'Landerin and her Warders stand."''{{Ref/book|12|26}}
+
+{{Notes}}
+{{Short}}
+{{DEFAULTSORT:Al'Landerin, Eleyan}}<!---Please leave the "a" capitalized for categorization purposes --->
+[[Category:Historical people]]
+[[Category:Channelers]]
+[[Category:Aes Sedai (Free Years)]]
+[[Category:Characters named after fans]]
+[[Category:People of the Free Years]]

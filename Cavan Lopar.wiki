@@ -1,0 +1,25 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tairen
+| occupation=Innkeeper
+| gender=Male
+| build=Rotund
+| appeared={{tdr|49}}
+| lastappeared={{tdr|49}}
+| lastmentioned={{tdr|52}}
+| living=tdr
+}}'''Cavan Lopar''' is [[innkeeper]] of [[The White Crescent]] in [[Tear]].{{ref|{{twotc}} Lopar, Cavan}}{{ref/book|3|49}}
+
+==Appearance==
+He is rotund. His girth made his long blue coat fit snugly below the waist as well as above. His baggy breeches, tied at the ankle above low shoes, were big enough for two ordinary men to fit inside, one in each leg. He has a fat forehead and multiple chins.{{ref/book|3|49}}
+
+==Activites==
+He is happy to see [[Mat]]'s silver and even happier with [[Thom]]'s offer to perform for a small fee some nights. Mat and Thom stay at his inn whilst looking for [[Egwene]], [[Elayne]] and [[Nynaeve]] who are being chased by the [[Darkfriend]] [[Comar]].{{ref/book|3|49}}
+
+Lopar gives Mat directions to the [[Wise Woman]] [[Ailhuin Guenna|Mother Guenna]] for Thom's cough.{{ref/book|3|52}}
+
+
+{{notes}}
+{{DEFAULTSORT:Lopar, Cavan}}

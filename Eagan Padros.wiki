@@ -1,0 +1,22 @@
+{{character
+| image=IllianFlag.png
+| imagesize=250px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Illianer
+| gender=Male
+| appeared={{tpod|21}}
+|lastappeared = {{tpod|22}}}}
+'''Eagan Padros''' was the leader of the rebel [[Illian]] soldiers loyal to [[Sammael|Lord Brend]]. 
+
+==Appearance==
+He had a narrow face and a runny nose.
+
+==Activities==
+[[Rand al'Thor]] meets with Padros outside Illian after the defeat of Lord Brend. 
+
+The rebels decide to join Rand's army and Padros served under Rand when he attacks the [[Seanchan]] trying to invade Illian.
+
+He tries to assassinate Rand and narrowly misses, probably due to Rand's ''[[ta'veren]]'' nature. He is then killed by surrounding [[Asha'man]] by means of Power-wrought [[Fire ball]]s.
+
+{{DEFAULTSORT:Padros, Eagan}}

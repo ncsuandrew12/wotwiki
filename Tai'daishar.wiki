@@ -1,0 +1,19 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| ewot=taidaishar
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Rand al'Thor
+| gender=Gelding
+| color=Black
+| appeared={{loc|54}}
+| lastappeared={{tgs|44}}
+}}
+{{quote|It was good that the [[Dragon|Dragon Reborn's]] horse seemed as cold as he did, as though they floated in the [[Void]] together|''[[The Path of Daggers]]}}
+'''Tai'daishar''' ("Lord of Glory" in the [[Old Tongue]]), is the name of a great fiery-eyed black gelding [[Rand al'Thor]] acquired shortly after his rescue from the [[Elaida's White Tower|Tower Aes Sedai]] during the [[Battle of Dumai's Wells]].  The horse used to belong to [[Kiruna Nachiman]] of the [[Rebel Aes Sedai]] faction.{{Ref/book|6|54}} Rand comments on Tai'daishar's ability to mirror his own mood in any given moment, as shown by Tai'daishar's solid demeanor in the short campaign against [[Seanchan]] forces on the borders of [[Illian]].{{Ref/book|8|23}}
+
+Tai'daishar accompanied Rand to most places his owner traveled after he acquired ownership of the gelding. These places include: [[Cairhien]],{{Ref/book|7|3}} the locations where Rand's forces battled the Seanchan in [[Altara]],{{Ref/book|8|22}} [[Tear]],{{Ref/book|11|21}} the location where Rand met "[[Semirhage|The Daughter of the Nine Moons]],"{{Ref/book|11|27}} in [[Saldaea]] just north of [[Maradon]],{{Ref/book|12|22}} [[Bandar Eban]],{{Ref/book|12|29}} [[Falme]],{{Ref/book|12|35}} and just outside of [[Far Madding]].{{Ref/book|12|44}}
+
+{{Notes}}

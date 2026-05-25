@@ -1,0 +1,7 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| Description             = From the [[Wheel of Time translations|Serbian version]] of [[The Eye of the World comic]], depicts [[Rand al'Thor]], [[Matrim Cauthon]], and [[Perrin Aybara]]
+| Source                  = [http://www.stripzona.com/port/lofiversion/index.php?t6527.html www.stripzona.com]
+| Artist                  = Jeremy Saliba
+}}

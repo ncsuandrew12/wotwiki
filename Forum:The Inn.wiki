@@ -1,0 +1,24 @@
+<div class="forumheader">'''Forums:''' [[Forum:Index|Index]] > {{PAGENAME}}</div><br />
+
+'''The Inn''' is a place for discussing anything that comes to mind involving The Wheel of Time.
+
+----
+[[Special:Recentchangeslinked/Category:Forum:{{PAGENAME}}|View recent changes for this forum]] | [[:Category:Forum:{{PAGENAME}}|View alphabetic list of topics]]
+
+<table width="100%"><tr><td><!-- You could create (or transclude) a forum header here --></td><td width="50%"><createbox>
+break=no
+prefix=Forum:
+preload=Template:Forumheader/{{PAGENAME}}
+buttonlabel=Add new topic
+</createbox></td></tr></table>
+<table class="forumlist" width="100%"><tr><th class="forum_title" align="left">Topic</th><th class="forum_edited" align="left">Last Edit</th><th class="forum_editor" align="left">Last Author</th></tr>
+<forum>
+namespace=Forum
+category=Forum:Forum:{{PAGENAME}}
+shownamespace=false
+addlasteditor=true
+historylink=true
+cache=false
+</forum></table>
+
+[[Category:Forums|The Inn]]

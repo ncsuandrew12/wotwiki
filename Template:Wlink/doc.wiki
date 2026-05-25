@@ -1,0 +1,22 @@
+Use this template to create links to pages on other wikis. Be sure to double-check your spelling, because these will never show as redlinks, even if misspelled.
+
+{| class="wikitable"
+| Code
+| Result
+|-
+| <nowiki>{{Wlink}}</nowiki>
+|         {{Wlink}}
+|-
+| <nowiki>{{Wlink|lotr}}</nowiki>
+|         {{Wlink|lotr}}
+|-
+| <nowiki>{{Wlink|lotr|Gandalf}}</nowiki>
+|         {{Wlink|lotr|Gandalf}}
+|-
+| <nowiki>{{Wlink|lotr|Gandalf|Mithrandir}}</nowiki>
+|         {{Wlink|lotr|Gandalf|Mithrandir}}
+|-
+| <nowiki>{{Wlink|lotr||Lord of the Rings}}</nowiki>
+|         {{Wlink|lotr||Lord of the Rings}}
+|-
+|}

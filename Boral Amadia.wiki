@@ -1,0 +1,19 @@
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Taraboner
+| rank=General
+| title=Lord
+| affiliation=Artur Hawkwing
+| gender=Male
+| mentioned=[[RPG]]
+| lastmentioned=[[RPG]]
+}}
+'''Boral Amadia''' was one of three powerful nobles who seized control of [[Tanchico]] during the [[War of the Hundred Years]] and founded the kingdom of [[Tarabon]] around it. 
+
+==History==
+He was a provincial governor and general under [[Artur Hawkwing]]. He died in the struggle for the city, leaving his compatriots Lady [[Tazenia Nerenhald]] and Lord [[Haren Maseed]] to become the first Queen and [[Panarch]], respectively.
+{{DEFAULTSORT:Amadia, Boral}}
+[[Category:Historical people]]
+[[Category:Nobility]]

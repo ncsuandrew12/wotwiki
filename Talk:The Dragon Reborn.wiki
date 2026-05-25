@@ -1,0 +1,5 @@
+{{enWPcontent|The Dragon Reborn}}
+
+==Infobox links==
+The links in the "Chapter Index" infobox here appear to be wrong, but I can't figure out how to fix them... [[User:Rccarman|Rccarman]] 06:17, 9 April 2006 (UTC)
+: Fixed, blame [[User:Sinnic]] ;) --[[User:Gherald|Gherald]] 06:25, 9 April 2006 (UTC)

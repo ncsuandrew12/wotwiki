@@ -1,0 +1,1 @@
+return require('Dev:Documentation')

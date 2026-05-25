@@ -1,0 +1,34 @@
+{{character 
+| image=BrownBlack.png
+| imagesize=250px
+| ewot=Chai
+| ajah=Brown
+| nationality=Kandori
+| gender=Female
+| affiliation=Black Ajah
+| rank=Aes Sedai
+| status=Alive
+| mentioned={{Tgs|39}}
+| lastmenteiond=
+| living=tgs
+|lastmentioned = {{tgs|e}}}}'''Chai Rugan''' is a [[Kandori]] [[Aes Sedai]] of the [[Brown Ajah]], who is secretly a member of the [[Black Ajah]].{{ref|{{twotc}}, Chai Rugan}}
+
+== Activities ==
+During the [[White Tower Schism]], she remains a loyalist to the Tower.
+
+Chai is one of thirty-nine sisters sent to escort the Dragon Reborn to Tar Valon. As such, she was present at the [[Battle of Dumai's Wells]], but managed to escape.
+
+She is one of twelve sisters kept in [[Dorlan]] in order to prevent word of the Tower's defeat from reaching the city.<ref>[http://13depository.blogspot.com/2002/03/elaidas-embassy-to-rand.html Robert Jordan's Notes, as reported by Linda Taglieri]</ref>
+
+She was first mentioned in [[Verin Mathwin]]'s book, naming her a [[Darkfriend]].
+
+She fled from the [[White Tower]] after [[Egwene al'Vere]] became [[Amyrlin Seat]].
+
+{{notes}}
+{{DEFAULTSORT:Rugan, Chai}}
+[[Category:Brown Ajah]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Dorlan Group]]

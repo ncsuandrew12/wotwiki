@@ -1,0 +1,362 @@
+==Color Suggestions==
+
+==Chapter Summary Suggestions==
+
+==Completed==
+
+{|class="collapsible collapsed" width="100%" style="border:2px solid #3337AA; background-color:#000000; margin: 0 auto 1em auto; padding: 0;" align=center id=toc
+|-
+! align=center width="100%" style="font-size:110%;background-color:#000000;"| Expand to see what was done.
+|-
+|
+Oh thanks :P(I made the character colors). Nah I'm kidding the colors were chosen just so I could get the new character template done. I have no idea what they could be. I like how you have them like that. The color table is really cool.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 04:56, February 24, 2010 (UTC)
+
+:Thanks! I just pulled it together to try and figure out some colors for nationalities that use the regular colors. And again, no offense, but that green for the Two Rivers reseidents is kind of glaring. I'll try and work on these in the coming days. Thanks again! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:33, February 24, 2010 (UTC)
+
+::I agree that the Kin should be a different colour than novices. What colours were you thinking for the Asha'man and Forsaken--[[User:GuanYu79|GuanYu79]] 21:43, February 24, 2010 (UTC)
+
+I think that the Forsaken can stay the same. The black/white combo works for them. A few of the Asha'man that I have looked at (the last time that I did) seem to take their nationality into consideration before their affiliation. This may or may not be the case. That would be somewhat easy to change, and I think that it should. The Asha'man are like the Aes Sedai (in a way) and when a woman is a Novice, Accepted or full Sister, their nationality doesn't dictate their tempalte color. I'm just not sure about colors at this point. A while back, when I changed the colors for the Unknown Ajah sisters, there wasn't many color combinations to be had (all eight Ajah colors, plus the Accepted "Orange" Ajah and the Novice "Purple" Ajah), so they got to be the Pink Ajah. If we are going the treat the Soldiers, Dedicated and full Asha'man the same, we would need three different color schemes or maybe a single first color and three different second colors. I just don't know right now. In the next week or so, I will be throwing some colors around. Let me know if you have any suggestions for anything. They would be greatly appreciated. Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:53, February 24, 2010 (UTC)
+
+===Asha'man===
+{|class="wikitable"
+|+'''Asha'man'''
+|-style="height:20px;"
+|style="background:#000000"|
+|style="background:#D81414"|
+|-
+|#000000
+|#D81414
+|-
+|}
+
+Black for the coats and red for the red-and-gold Dragon pin. Gold is kind of taken by the Malkier. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 23:00, February 24, 2010 (UTC)
+{|
+|
+{|class="wikitable"
+|+'''Asha'man'''
+|-style="height:20px;"
+|style="background:#D81414"|
+|style="background:#FFEA00"|
+|-
+|#D81414
+|#FFEA00
+|-
+|}
+|
+{|class="wikitable"
+|+'''Dedicated'''
+|-style="height:20px;"
+|style="background:#000000"|
+|style="background:#C0C0C0"|
+|-
+|#000000
+|#C0C0C0
+|-
+|}
+|}
+:Black for the black coat and silver for the sword pin. This is just my 2 coppers. We could use your Asha'man and my dedicated? I'm still trying to figure out a good combo for soldiers.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:39, February 26, 2010 (UTC)
+
+{|class="wikitable"
+|+'''Soldiers'''
+|-style="height:20px;"
+|style="background:#000000"|
+|style="background:#000000"|
+|-
+|#000000
+|#000000
+|-
+|}
+Maybe black and black? They just have the coats after all. Or something else. Not quite sure myself. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 23:35, February 26, 2010 (UTC)
+:Works for me. We just need to make sure the text is white.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 01:27, February 27, 2010 (UTC)
+Something that just occured to me. We have soldiers (i.e. soldiers in the miliatries of the Westlands) and we have Soldiers (i.e. men who get to be Dedicated and Asha'man). We would have to ensure that the soldiers remain in the "Occupation" parameter and Soldiers in the "Rank" parameter. That is if I'm remembering the character template coding correctly. Just food for thought. Another thing that someone will have to look at is the hierarchy of Ajah, Rank, Occupation, Nationality, etc... Your or me, not a big thing right now, though. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 03:52, February 27, 2010 (UTC)
+:Yeah a while ago I think we decided for Soldier(Asha'man) that their rank would be Soldier (Asha'man) and their occupation Asha'man. Example: [[Algarin Pendaloan]].
+That will work when we put these new colors into effect. Please also see [[Template talk:Character]] here in a few minutes. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 06:43, February 27, 2010 (UTC)
+
+Was thinking that darkfriends are black template, is there another colour to use for Asha'man soldiers just so there is a difference as both have the dragon fang as their picture to--[[User:GuanYu79|GuanYu79]] 04:15, February 28, 2010 (UTC)
+
+{|
+|
+{|class="wikitable"
+|+'''Asha'man'''
+|-style="height:20px;"
+|style="background:#414141"|
+|style="background:#D81414"|
+|-
+|#414141
+|#D81414
+|-
+|}
+|
+{|class="wikitable"
+|+'''Dedicated'''
+|-style="height:20px;"
+|style="background:#414141"|
+|style="background:#C0C0C0"|
+|-
+|#414141
+|#C0C0C0
+|-
+|}
+|
+{|class="wikitable"
+|+'''Soldier'''
+|-style="height:20px;"
+|style="background:#414141"|
+|style="background:#000000"|
+|-
+|#414141
+|#000000
+|-
+|}
+|}
+
+You raise a good point GuanYu. How about just a dark gray? Some "black" could be a really dark gray, especially in relation to clothes, which is what we were kind of going for with the black (i.e. the Asha'man coats). ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:44, March 1, 2010 (UTC)
+
+===Seanchan===
+{|
+|
+{|class="wikitable"
+|+'''Seanchan 1'''
+|-style="height:20px;"
+|style="background:#006500"|
+|style="background:#FFFFCC"|
+|-
+|#006500
+|#FFFFCC
+|-
+|}
+|
+{|class="wikitable"
+|+'''Seanchan 2'''
+|-style="height:20px;"
+|style="background:#113079"|
+|style="background:#FFFFCC"|
+|-
+|#113079
+|#FFFFCC
+|-
+|}
+|}
+
+-Green and white for the [[Seanchan]] spear turned [[Dragon Scepter]]. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 00:02, February 25, 2010 (UTC)
+
+-Or royal blue and white, the colors of their flag. Got that from the [[guide]]. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 01:32, February 25, 2010 (UTC)
+
+:Second is probably best since it's from their flag. I also like it more.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:40, February 26, 2010 (UTC)
+
+::I like the first one as its very different from any other templates--[[User:GuanYu79|GuanYu79]] 04:16, February 28, 2010 (UTC)
+
+I made the blue a bit darker and used a different white to differentiate it from the Shienaran's colors. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:12, March 1, 2010 (UTC)
+
+===Far Madding===
+
+{|class="wikitable"
+|+'''Far Madding'''
+|-style="height:20px;"
+|style="background:#FFFFFF"|
+|style="background:#1C2A99"|
+|-
+|#FFFFFF
+|#1C2A99
+|-
+|}
+
+White and blue for the [[Hall of the Counsels]] dome. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:55, February 25, 2010 (UTC)
+:Looks good to me and you are using some of their colors.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:44, February 26, 2010 (UTC)
+
+===Sea Folk===
+
+{|
+|
+{|class="wikitable"
+|+'''Sea Folk 1'''
+|-style="height:20px;"
+|style="background:#1E90FF"|
+|style="background:#20B2AA"|
+|-
+|#1E90FF
+|#20B2AA
+|-
+|}
+|
+{|class="wikitable"
+|+'''Sea Folk 2'''
+|-style="height:20px;"
+|style="background:#1E90FF"|
+|style="background:#99FF99"|
+|-
+|#1E90FF
+|#99FF99
+|-
+|}
+|}
+
+Two different suggestions for the Sea Folk. Blue and a sea foam green. There are two different greens. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:55, February 25, 2010 (UTC)
+:I say the second one.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:44, February 26, 2010 (UTC)
+
+The Far Madding and second sea folk colours look good to me--[[User:GuanYu79|GuanYu79]] 04:17, February 28, 2010 (UTC)
+
+===Band of the Red Hand===
+Hey was wondering if you were intending to make any difference in character template colour for guys from the Band--[[User:GuanYu79|GuanYu79]] 11:12, April 13, 2010 (UTC)
+
+{|class="wikitable"
+|+'''Band'''
+|-style="height:20px;"
+|style="background:#D81414"|
+|style="background:#FFFFCC"|
+|-
+|#D81414
+|#FFFFCC
+|-
+|}
+
+Any objections to the above color scheme? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:56, April 13, 2010 (UTC)
+
+=== The Kin ===
+{|class="wikitable"
+|+'''The Kin'''
+|-style="height:20px;"
+|style="background:#990000"|
+|style="background:#2B40AA"|
+|-
+|#990000
+|#2B40AA
+|-
+|}
+For the [[Kin]], the red for their belts and the blue for Altara, since they are based there. Any comments? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:35, April 13, 2010 (UTC)
+
+I like both colours. Good job. I was actually thinking what colour you would use for the Band as there are so many reds already but it worked well--[[User:GuanYu79|GuanYu79]] 00:51, April 14, 2010 (UTC)
+=== The Younglings ===
+{|class="wikitable"
+|+'''The Younglings'''
+|-style="height:20px;"
+|style="background:#006600"|
+|style="background:#FFFFCC"|
+|-
+|#006600
+|#FFFFCC
+|}
+
+Green for his boar and white for both the background of his sign and for the White Tower. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:19, April 20, 2010 (UTC)
+Actually, the green is from the background. The boar is white. Either way, colors still make sense. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:34, April 21, 2010 (UTC)
+
+=== Valan Luca's Grand Traveling Show and Magnificant Display of Marvelous Wonders ===
+
+Or, at least, the people that are with him.
+{|class="wikitable"
+|+'''Luca's Entertainers'''
+|-style="height:20px;"
+|style="background:#0000FF"|
+|style="background:#FF0033"|
+|-
+|#0000FF
+|#FF0033
+|}
+
+Blue and red for the banner and lettering in {{Cot|2}}. Neither color has been used. The only other red-and-blue combo is The Kin, and their's is reversed and much darker. Thoughts? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:50, April 23, 2010 (UTC)
+
+=== Heroes of the Horn ===
+
+{|
+|
+{|class="wikitable"
+|+'''Heroes 1'''
+|-style="height:20px;"
+|style="background:#FFCC00"|
+|style="background:#F6F9F9"|
+|-
+|#FFCC00
+|#F6F9F9
+|}
+|
+{|class="wikitable"
+|+'''Heroes 2'''
+|-style="height:20px;"
+|style="background:#FFCC00"|
+|style="background:#DBDBDB"|
+|-
+|#FFCC00
+|#DBDBDB
+|}
+|}
+Gold for the horn and silver for the inscription. The first secondary color (#F6F9F9) is the html color code for silver, but it really doesn't show up that well. The second is just a grey. The gold color for both is used for the Whitecloaks' primary color and the second grey is used as the secondary color for Ghealdanin, so I don't think there will be any confusion. Thoughts? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:13, April 26, 2010 (UTC)
+
+=== Tinkers, Tuatha'an and Traveling People (oh my) ===
+
+Something along the lines of green, in keeping with the Way of the Leaf? Probably not something garish, like their clothing and wagons. I will try to put some combinations together. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:06, April 16, 2010 (UTC)
+{|
+|
+{|class="wikitable"
+|+'''Two Rivers Residents'''
+|-style="height:20px;"
+|style="background:#406B2E"|
+|style="background:#8DB87A"|
+|-
+|#406B2E
+|#8DB87A
+|}
+|
+{|class="wikitable"
+|+'''Green Ajah'''
+|-style="height:20px;"
+|style="background:#429346"|
+|style="background:#69B86D"|
+|-
+|#429346
+|#69B86D
+|}
+|
+{|class="wikitable"
+|+'''Tinkers 1'''
+|-style="height:20px;"
+|style="background:#33FF00"|
+|style="background:#006633"|
+|-
+|#33FF00
+|#006633
+|-
+|}
+|
+{|class="wikitable"
+|+'''Tinkers 2'''
+|-style="height:20px;"
+|style="background:#CC0033"|
+|style="background:#66FF66"|
+|-
+|#CC0033
+|#66FF66
+|}
+|
+{|class="wikitable"
+|+'''Kandor'''
+|-style="height:20px;"
+|style="background:#B82424"|
+|style="background:#4DFF51"|
+|-
+|#B82424
+|#4DFF51
+|}
+|
+{|
+{|class="wikitable"
+|+'''Kandor Change'''
+|-style="height:20px;"
+|style="background:#B82424"|
+|style="background:#CCFFCC"|
+|-
+|#B82424
+|#CCFFCC
+|}
+|}
+The first green is somewhat bold (i.e. garish), so it kind of fits. Neither green is in use right now. Any thoughts? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:05, April 19, 2010 (UTC)
+:I'd personally go with the colours used in [[:File:Traveling_People.jpg|this guy's]] clothing. Although they are quite garish, they're also somewhat subdued so won't hurt your eyes. &mdash;[[User:Jaymach|Jaymach Ral'Tir]] <small>([[User talk:Jaymach|talk]])</small> 16:59, April 19, 2010 (UTC)
+Found a slightly different red than those used before and I toned the green down a little. My only problem is the colors used by the Kandori, but there are also problems with the one I proposed being maybe to similar to the Two Rivers Residents and the Green Ajah. So now, I am not sure. I'll think on it some more. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:21, April 19, 2010 (UTC)
+:Why not swap the Kandor colours around? Going by their flag, the primary should be green with a secondary red. &mdash;[[User:Jaymach|Jaymach Ral'Tir]] <small>([[User talk:Jaymach|talk]])</small> 18:35, April 19, 2010 (UTC)
+::Talking of green templates we probably also need to sort out colours for the Younglings as well--[[User:GuanYu79|GuanYu79]] 21:23, April 19, 2010 (UTC)
+The Kandori flag is described as a "rearing red horse on a field of pale green." To me, and probably to the designer of the colors, it seems that red is the primary color with the green as the secondary. Either way, I propose a change to the green of Kandor to a paler green (seen above). It would make the colors different enough, in my opinion, to use the red and green for the Tinkers (#2).
+
+==False Dragons and Birgitte==
+Hey just looking through the templates I thought we had made a False Dragon template. Was it there or was I seeing things. Also just tried to change Birgette's profile to hunter of the horn but hasn't seemed to have worked. Could you help please. I also deleted nationality out as Andoran because she isn't. Any idea where she was orinally from??--[[User:GuanYu79|GuanYu79]] 08:06, May 14, 2010 (UTC)
+:I don't remember seeing anything for False Dragons. Any thoughts on colors? Right now, the affiliation of "Horn of Valere" is what changes the color for the Heroes. I'll add in the rank of Hero of the Horn as well. Should take care of Birgitte's colors. As for her nationality, I seem to remember her playing at being Kandori, because of her clothing. At least, Lan mistakes her for Kandori. Beyond that, I don't know. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:32, May 14, 2010 (UTC)
+
+|}

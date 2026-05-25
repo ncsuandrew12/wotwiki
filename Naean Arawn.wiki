@@ -1,0 +1,44 @@
+{{ character 
+| image=Arawn.png
+| imagesize=250px
+| ewot=Naean
+| nationality=Andoran
+| title=Lady
+| affiliation=Andor
+| rank=High Seat
+| hair=Gleaming dark
+| build=Slim
+| eyes=Blue, big
+| status=Alive
+| gender=Female
+| appeared={{tfoh|19}}
+| lastappeared={{tom|50}}
+| living=tom
+}}'''Naean Arawn''' is a noblewoman of [[Andor]] and the [[High Seat]] of [[House Arawn]].{{ref|{{twotc}}, Naean Arawn}} The sign of her House is the Triple Keys.
+
+== Appearance ==
+She is slim with big blue eyes, gleaming dark hair, and pale skin.
+
+== History ==
+She was one of the nobles who did not support [[Morgase Trakand]] when she assumed the throne after the [[Succession Wars|Succession]], and was forced to swear fealty to her afterwards. At the time, [[Daved Hanlon]] was a mercenary in her employment, years before he formed his own company.
+
+==Activities==
+=== Morgase's demise ===
+She was one of the nobles who associated with Lord [[Gaebril]] while in the throne room of the [[Royal Palace of Andor]]. After Gaebril's demise she fawned over [[Rand al'Thor]]. She pretends not to lay any claim to the [[Lion Throne]].
+
+When Rand is kidnapped by the [[White Tower]] [[Aes Sedai]] she proclaims herself for the Lion Throne but is instead imprisoned by [[Dyelin Taravin]] who is acting as Regent for [[Elayne Trakand]].
+
+=== Siege of Caemlyn ===
+She is broken free when being escorted to [[Aringill]] by [[Arymilla Marne]]'s troops, in exchange for her to throw her support behind Arymilla's claim to the Lion Throne. Her troops combined with Arymilla's have begun their siege of [[Caemlyn]].
+
+She believes [[Elenia Sarand]] has a plan for escape and is encouraged by her to sign a pledge to back Elenia for the Lion Throne in return to be taken when they do escape. Arymilla has now made the two ladies sleep together, but it remains unclear if she is suspicious of them.
+
+Naean and her armsmen ride with the army when Arymilla mobilizes her entire force and attacks the [[Far Madding Gate]]. Arymilla's army is hit behind by half of Elayne's force and in the end Arymilla's army surrenders. Naean is then held prisoner by Elayne{{ref/book|11|35}}.
+
+Elayne finally releases Naean and passes judgement on her crimes against the Crown. She is stripped of all her titles and her lands are forfeited to the Crown. Elayne then plans to give her back land, but in [[Cairhien]] and not Andor.
+
+{{notes}}
+{{DEFAULTSORT:Arawn, Naean}}
+
+[[es:Naean Arawn]]
+[[Category:Nobility]]

@@ -1,0 +1,4 @@
+''[[New Spring]]''{{#if:{{{1|}}}|, {{#switch:{{lc:{{{1|}}}}}|e|ep|epilogue=[[New Spring/Epilogue|Epilogue]]|[[New Spring/Chapter {{{1}}}|Chapter {{{1}}}]]}}}}<noinclude>
+{{Documentation}}
+[[Category:Book templates|New Spring]]
+</noinclude>

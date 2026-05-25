@@ -1,0 +1,24 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Tairen
+| occupation=Innkeeper
+| gender=Male
+| hair=Balding
+| appeared={{tdr|50}}
+| lastappeared={{tdr|53}}
+| living=tdr
+}}
+'''Jurah Haret''' is [[innkeeper]] of [[The Star]] in [[Tear]]. The inn has a weaver's shop on one side and the smithy run by [[Dermid Ajala]] on the other.
+
+==Appearance==
+He is round-faced and balding, with a stout belly. He wears a long, deep blue coat and loose breeches. Like many of the residents of Tear at the time, his face had a look of weary resignation.
+
+==Activites==
+[[Lan]] chooses The Star inn for the party looking for [[Rand]] in Tear. Jurah shows them to their rooms.{{ref/book|3|50}}
+
+He allows two women to leave a "surprise" for [[Moiraine]] which is really a [[hedgehog]]-shaped ''[[ter'angreal]]'' designed to trap the victim in ''[[Tel'aran'rhiod]]''. [[Faile]] springs the trap instead and [[Perrin]] goes in after her with [[Loial]] standing guard.{{ref/book|3|53}}
+
+{{notes}}
+{{DEFAULTSORT:Haret, Jurah}}

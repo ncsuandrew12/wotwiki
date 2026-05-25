@@ -1,0 +1,2 @@
+'''Glossaries''' that are at the end of the books.
+[[Category:Series books| Book glossaries]]

@@ -1,0 +1,72 @@
+<includeonly>[[Category:{{bt|{{{book}}}}} chapter summaries]]
+[[Category:Chapter summaries]]
+<!-- CHAPTER INDEX -->
+{{#invoke:Books|chapter_nav}}
+<!-- PAGE TABLE OF CONTENTS -->
+<div style="float:left; padding-right:10px;">
+  __TOC__
+</div>
+<!-- CHAPTER TITLE, ICON, AND SETTING -->
+{| align="center" style="background-color:transparent; text-align: center"
+|- align="center"
+|{{#switch: {{lc:{{{icon}}}}}
+ | a'dam = [[Image:{{{icon}}}-icon.svg|110px]]
+ | aessedai = [[Image:{{{icon}}}-icon.svg|110px]]
+ | aiel = [[Image:{{{icon}}}bw-icon.svg|242px]]
+ | anchor = [[Image:{{{icon}}}-icon.svg|132px]]
+ | andoran = [[Image:{{{icon}}}-icon.svg|110px]]
+ | blight = [[Image:{{{icon}}}-icon.svg|132px]]
+ | bull = [[Image:{{{icon}}}-icon.svg|154px]]
+ | cairhien = [[Image:{{{icon}}}-icon.svg|154px]]
+ | cotl = [[Image:{{{icon}}}-icon.svg|132px]]
+ | dagger = [[Image:{{{icon}}}-icon.svg|220px]]
+ | deadtree = [[Image:{{{icon}}}-icon.svg|110px]]
+ | dice = [[Image:{{{icon}}}-icon.svg|110px]]
+ | dragon = [[Image:{{{icon}}}-icon.svg|220px]]
+ | dragonoriginal = [[Image:{{{icon}}}-icon.svg|154px]]
+ | faces = [[Image:{{{icon}}}-icon.svg|110px]]
+ | falcon = [[Image:{{{icon}}}-icon.svg|121px]]
+ | fang = [[Image:{{{icon}}}-icon.svg|110px]]
+ | finn = [[Image:{{{icon}}}-icon.svg|110px]]
+ | fish = [[Image:{{{icon}}}-icon.svg|110px]]
+ | flame = [[Image:{{{icon}}}-icon.svg|110px]]
+ | gulls = [[Image:{{{icon}}}-icon.svg|110px]]
+ | gullsrev = [[Image:{{{icon}}}-icon.svg|110px]]
+ | handandsword = [[Image:{{{icon}}}-icon.svg|110px]]
+ | harp = [[Image:{{{icon}}}-icon.svg|132px]]
+ | hilt = [[Image:{{{icon}}}-icon.svg|132px]]
+ | hilttall = [[Image:{{{icon}}}-icon.svg|132px]]
+ | horse = [[Image:{{{icon}}}-icon.svg|110px]]
+ | lanfear = [[Image:{{{icon}}}-icon.svg|110px]]
+ | lanfearrev = [[Image:{{{icon}}}-icon.svg|110px]]
+ | lans helmet = [[Image:{{{icon}}}-icon.svg|110px]]
+ | leaf = [[Image:{{{icon}}}-icon.svg|220px]]
+ | leaves = [[Image:{{{icon}}}-icon.svg|132px]]
+ | malden = [[Image:{{{icon}}}-icon.svg|110px]]
+ | mice = [[Image:{{{icon}}}-icon.svg|132px]]
+ | ornaments = [[Image:{{{icon}}}-icon.svg|110px]]
+ | portal = [[Image:{{{icon}}}-icon.svg|110px]]
+ | ravens = [[Image:{{{icon}}}-icon.svg|264px]]
+ | seanchan = [[Image:{{{icon}}}-icon.svg|110px]]
+ | snake = [[Image:{{{icon}}}-icon.svg|154px]]
+ | sredit = [[Image:{{{icon}}}-icon.svg|132px]]
+ | staff = [[Image:{{{icon}}}-icon.svg|110px]]
+ | stag = [[Image:{{{icon}}}-icon.svg|110px]]
+ | star = [[Image:{{{icon}}}-icon.svg|110px]]
+ | telaran = [[Image:{{{icon}}}-icon.svg|110px]]
+ | tree = [[Image:{{{icon}}}-icon.svg|110px]]
+ | triangle = [[Image:{{{icon}}}-icon.svg|110px]]
+ | trolloc = [[Image:{{{icon}}}-icon.svg|330px]]
+ | valere = [[Image:{{{icon}}}-icon.svg|110px]]
+ | waves = [[Image:{{{icon}}}-icon.svg|110px]]
+ | web = [[Image:{{{icon}}}-icon.svg|110px]]
+ | wheel = [[Image:{{{icon}}}-icon.svg|140px]]
+ | wolf = [[Image:{{{icon}}}-icon.svg|110px]]
+ | #default = [[Image:{{{icon}}}-icon.png]]
+}}
+|-
+| <strong><big>[[{{{prev|{{bt|{{{book|1}}}}}/Chapter {{#expr:{{{chapter|0}}} - 1 }}}}}|<<<]]&nbsp;&nbsp;&nbsp;<em>{{{title}}}</em>&nbsp;&nbsp;&nbsp; [[{{{next|{{bt|{{{book|1}}}}}/Chapter {{#expr:{{{chapter|0}}} + 1 }}}}}|>>>]]</big></strong>
+|-
+|<small>Setting: ''{{{setting}}}''</small>
+|}</includeonly><noinclude>{{Documentation}}
+[[Category:Utility templates|{{PAGENAME}}]]</noinclude>

@@ -1,0 +1,24 @@
+{{Short}}
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Female
+| affiliation=Two Rivers
+| mentioned={{WH|11}}
+| living=wh
+| status= Alive
+}}
+'''Mistress Thane''' is a member of the [[Women's Circle]] in [[Emond's Field]].<ref name=comp>[[The Wheel of Time Companion]], Mistress Thane.</ref>
+
+== Activities ==
+[[Rand al'Thor]] visits the [[Royal Palace of Andor|Royal Palace]] of [[Caemlyn]] disguised as "Nuli". When he reaches [[Nynaeve al'Meara]], he tells her that Mistress Thane says that Nynaeve to see him right away on Women's Circle business about [[Cenn Buie]], so that he can speak to Nynaeve and [[Lan Mandragoran|Lan]] alone.{{ref/book|9|11}}
+
+
+
+
+<!--{{Notes}} is uses as opposed to {{Reflist}}-->
+{{Notes}}
+
+{{DEFAULTSORT:Thane}}
+[[Category:Women's Circle]]

@@ -1,0 +1,66 @@
+{{summary | book=14 
+|chapter=31
+|title=A Tempest of Water
+|icon=trolloc
+|setting=[[Kandor]], [[Thakan'dar]]
+}}
+
+== Summary ==
+
+:{{pov|[[Egwene al'Vere]]}}
+
+Egwene arrives at the command tent, hoping to speak to [[Gareth Bryne|Bryne]], only to find it empty. She learns from [[Egeanin Tamarath|Leilwin]] and [[Bayle Domon|Domon]] that [[Matrim Cauthon|Mat]] is leading the [[Seanchan]] cavalry banner giving the [[Shara]]ns a hiding on the left flank.  
+
+She sees [[Uno Nomesta|Uno]] clambering out of the river. With colorful words, he tells her his force was instructed to attack the [[Trolloc|Trollocs]] and that Gareth Bryne would send in a reserve cavalry to defend their flanks, but that it never came. He says they must have been tricked by some "sheep-gutted, milk drinking" traitor.
+
+Egwene leads the [[Aes Sedai]] fighting Trollocs. They fight for what seems like hours, but even with the Aes Sedai, the Trollocs have the advantage. They see [[Elmindreda Farshaw|Min]], who they at first take for one of the [[The Blood|Blood]], riding towards them. Egwene asks if there is a problem and Min says it depends on how much she trusts Mat. She says she trusts him to find trouble. Min says Mat thinks Gareth is a [[Darkfriend]]. [[Gawyn Trakand|Gawyn]] laughs and says Mat should stay out of the royal brandy. Egwene tells Min to tell Mat that she appreciates the warning. Min tells her he seems certain and that Tuon has given him control of the Seanchan armies. Egwene accepts that Mat is a good tactician, but says giving him the armies is beyond possibility. Min asks her to at least consider what Mat is saying, but she dismisses it as laughable.
+
+:{{pov|[[Rodel Ituralde]]}}
+
+At the mouth of the pass to the valley of Thakan'dar, Rodel's army is fighting a Trolloc onslaught. His sleep has been troubled by terrifying nightmares involving his family and it is giving him headaches, affecting his ability to think straight. He has split his army into groups of around three thousand, using pikes and crossbowmen to break up the Trollocs and the [[Aiel]] to finish them. On three occasions, he has felt himself wanting to send in a direct assault, abandoning the square formations and go for blood, but he always reminds himself that they are not there for blood, but to hold. 
+
+A storm rumbles overhead, but the [[Windfinder]]s with the [[Bowl of the Winds]] are preventing it from getting severe enough to wipe his men out. The Trollocs withdraw and an army of hundreds of [[Myrddraal]] appear. He thinks he should send the cavalry in to draw pressure from the infantry, but a voice in his head is telling him to withdraw. He refuses to give that order and he tries to pass command to [[Rodrivar Tihera|Tihera]] but he can't form the words. He knows that if he orders the retreat, the Trollocs will surround them. He begins to give the order anyway when wolves come out of the fog. A [[Elyas Machera|man in furs]] leaps for Rodel and shoves him off the rocks, knocking him into a grateful unconsciousness.
+
+:{{pov|[[Egwene al'Vere]]}}
+
+Egwene is in her tent, thinking of Mat and how he is a blowhard, leering at every pretty woman he meets. She thinks of how he saved [[Jer al'Hune]] from drowning and had rescued her from the [[Stone of Tear]]. She asks herself the question, how much does she trust him and realizes that she does, and that while he is often wrong, when he is right, he saves lives. 
+
+She learns there has been no word from the other battlefronts and tells Gawyn to send a messenger to [[Cairhien]] to see how [[Elayne Trakand|Elayne]] is doing. She goes for a walk until she finds [[Silviana Brehon|Silviana]], who tells her Bryne is in the mess tent. Egwene instructs Silviana to fetch the Hall. 
+
+She knows she can't accuse Gareth, but she can't ignore Mat. Gawyn returns and tells her that [[Davram t'Ghaline Bashere|Davram Bashere]] turned against Elayne and that the battle would have been lost if not for the [[Asha'man]]. Egwene questions Gareth on some of the poor orders he sent, and on orders he didn't send. She pressures him, telling him that if not for Mat, the relief force would still be there. Bryne tells her he doesn't know what is wrong, that he keeps making mistakes and it is more than just being tired. He has been giving orders and seeing the holes afterwards. Egwene states he has been under [[Compulsion]] and proposes the Hall relieve him of command. Bryne suggests relinquishing command to one of his commanders, but [[Doesine Alwain|Doesine]] says they may also be compromised.  
+
+Egwene says there is only one man they can trust not to be under Compulsion and tells them they will have to put the armies under the command of Matrim Cauthon.
+
+== Characters ==
+* [[Egwene al'Vere]]
+* [[Bayle Domon]]
+* [[Gawyn Trakand]]
+* [[Egeanin Tamarath|Leilwin Shipless]]
+* [[Elmindreda Farshaw]]
+* [[Myrelle Berengari]]
+* [[Pylar]]
+* [[Uno Nomesta]]
+* [[Rodel Ituralde]]
+* [[Binde]]
+* [[Rodrivar Tihera]]
+* [[Elyas Machera]] as man in furs
+* [[Gareth Bryne]]
+* [[Doesine Alwain]]
+* [[Faiselle Darone]]
+* [[Saerin Asnobar]]
+* [[Yukiri Haruna]]
+
+=== Referenced ===
+* [[Matrim Cauthon]]
+* [[Elayne Trakand]]
+* [[Davram t'Ghaline Bashere]]
+* [[Logain Ablar]]
+* [[Siuan Sanche]]
+
+== Places ==
+* [[Kandor]]l
+* [[Shayol Ghul|Thakan'dar]]
+
+=== Referenced ===
+* [[Cairhien]]
+{{DISPLAYTITLE:''A Tempest of Water''}}

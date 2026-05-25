@@ -1,0 +1,23 @@
+{{character 
+| image=Susa Wynn.jpg
+| imagesize=200px
+| status=Alive
+| nationality=Murandian
+| gender=Female
+| appeared={{ns|5}}
+| lastappeared={{ns|5}}
+| living=ns
+}}
+{{dablink|For the [[novice]] from [[Emond's Field]], see [[Susa al'Seen]].}}
+'''Susa Wynn''' is a [[Murandy|Murandian]] woman in the camps outside [[Tar Valon]] at the end of the [[Aiel War]]. Her recently deceased husband's name was [[Jac Wynn]] and their son is named [[Cyril Wynn|Cyril]].
+
+==Appearance==
+Susa Wynn is a gaunt woman who has dark circles under her eyes. This may be due to the poor living conditions under which she suffers at the time.
+
+==History==
+Susa Wynn applies to [[Moiraine]] for the White Tower bounty as she and [[Siuan]] take information from women who have given birth around [[Dragonmount]] near the end of the [[Aiel War]]. Her infant son's name is Cyril.
+
+While Cyril is way too old to receive the White Tower bounty, with Siuan's quiet encouragement Moiraine takes pity on her and adds her to the list after noticing that the woman is starving and her child looks sick.{{ref/book|0|5}}
+
+{{notes}}
+{{DEFAULTSORT:Wynn, Susa}}

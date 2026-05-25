@@ -1,0 +1,22 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Alive
+| gender=Male
+| appeared={{Teotw|44}}
+| lastappeared={{tdr|45}}
+| occupation=Stableman
+| living=tdr
+}}'''Ramey''' is the head groom at the [[The Queen's Blessing]] in [[Caemlyn]].{{ref|{{twotc}}, Ramey}}
+
+==Appearance==
+He is leathery-skinned and horse-faced.
+
+==Activities==
+When [[Rand]] and the others leave the Queen's Blessing for the Ways, Ramey makes sure the alley behind the stables is clear.{{ref/book|1|44}}
+
+When [[Mat]] comes to [[Caemlyn]] to deliver a letter to [[Morgase Trakand]] from [[Elayne Trakand]], Ramey stables Mat's horse.{{ref/book|3|45}}
+
+{{notes}}
+{{short}}

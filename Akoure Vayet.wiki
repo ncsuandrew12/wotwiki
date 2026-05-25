@@ -1,0 +1,46 @@
+{{character 
+| image=GrayAjah.png
+| imagesize=250px
+| ewot=Akoure
+| ajah=Gray
+| nationality=Amadician
+| rank=Aes Sedai
+| gender=Female
+| build = Stout
+| height= 5'4" or 163 cm
+| status=Alive
+| affiliation=White Tower
+| appeared={{wh|p}}
+| lastappeared={{wh|p}}
+| lastmentioned={{kod|p}}
+| living=kod
+|hair = Dark|eyes = Brown}}
+'''Akoure Vayet''' is an [[Aes Sedai]] of the [[Gray Ajah]]. 
+
+==Appearance==
+She is 5'4" or 163&nbsp;cm tall and stout{{ref/book|9|p}} with brown eyes and dark hair.{{ref|{{twotc}}, Akoure Vayet}}
+
+==Strength and Abilities==
+Akoure is of [[Strength in the One Power among Aes Sedai|average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|30}}. She would not be able to [[Traveling|Travel]] without linking with another channeler.
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split. 
+
+She was one of the fifty one Aes Sedai, headed by [[Toveine Gazal]], sent by [[Elaida a'Roihan]] to take out the [[Black Tower]]{{ref/book|7|p}}. 
+
+At [[Alviarin Freidhen|Alviarin Freidhen's]] suggestion, Elaida does not help this group of sisters and abandons them {{ref/book|7|32}}. 
+
+They were all captured and[[bond]]ed involuntarily by [[Asha'man]]{{ref/book|8|26}}. Toveine witnesses Akoure staring at her hand in disbelief after the Asha'man confiscate her [[Great Serpent ring]]{{ref/book|9|p}}.
+
+She sent reports back to the Gray Ajah in the White Tower about the outcome of the expedition{{ref/book|11|p}}. It is likely the content of the report was only shared with the [[Sitters]].
+
+Like many sisters held in the Black Tower she was most probably [[Turned]] to the [[Shadow]] by [[Mazrim Taim|Mazrim Taim's]] cronies.
+
+{{notes}}
+{{DEFAULTSORT:Vayet, Akoure}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:The Turned]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,19 @@
+{{creature
+| image=Wolf-icon-color.png
+| imagesize=100px
+| ewot=Feather
+| name=Feather
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Male
+| appeared={{cot|5}}
+}}
+{{dablink|For other uses of the word "feather," see [[Feather]].}}
+
+'''Feather''' is a young [[wolf]] who is the mate of [[Leafhunter]] and part of her pack.{{ref|{{twotc}}, Feather}}
+
+==Activities==
+After [[Perrin Aybara]] has a dream and cannot idendify a scent, he reaches out to Feather and the rest of the pack. Feather leaves the link when he recognizes the scent, that of the [[Darkhound]]s.{{ref/book|10|5}}
+
+{{notes}}

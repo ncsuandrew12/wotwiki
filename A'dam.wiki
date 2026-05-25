@@ -1,0 +1,93 @@
+{{Featuredicon}} 
+
+An '''''a'dam''''' (pronounced: AYE-dam) is a ''[[ter'angreal]]'' used to control a [[channeler]].{{ref/book|twotc|a'dam}}
+
+== Appearance ==
+[[File:Adam real.jpg|300px|alt=Jewelly model with flexible a'dam collar round the the neck. Connected is the leash with bracelet at the other end.|thumb|a'dam created by Clare Selley.[https://unchained.design/]]]The a'dam is most commonly formed out of a flexible silver collar and bracelet, joined by a long silvery leash. The one wearing the bracelet (called the ''"[[Sul'dam]]"'' in [[Seanchan]]) is in control of the a'dam, and has the woman wearing the collar (called a ''"[[damane]]"'') completely at her mercy.
+
+''"[[Setalle Anan|Setalle]] took the a'dam from [[Mat Cauthon|Mat]] and fumbled at the flat segmented bracelet on one end of the round silver leash. The whole thing was made in segments, fitted together so cunningly you could not see how it had been done."''{{Ref/book|9|29}}
+
+Experimentation by [[Elayne Trakand|Elayne]] revealed that the cord is not strictly necessary, as she was able to fashion an a'dam that did not require one. However, the cordless version comes with the notable downside of allowing the one wearing the collar a greater degree of physical freedom.
+
+==Origin==
+The first ''a'dam'' was made by [[Deain]] Sedai, a [[Seanchan]] woman who wanted to assist [[Luthair Paendrag Mondwin]] in his [[consolidation]] of the continent by giving him an instrument to control female channellers who opposed him. She was later collared herself by an ''a'dam'', and it is said that her screams ''"shook the Towers of Midnight"''.{{ref/book|2|40}} While the exact timing of this event is unclear, it must have occurred in Luthair's lifetime, so sometime in the latter days of the [[Free Years]] calendar.
+
+[[File:Sul'dam and Damane.JPG|thumb|right|A ''sul'dam'' using the ''a'dam'' on a ''damane''.]]
+
+==Function==
+The ''a'dam'' creates a [[link]] between the two female [[channeller]]s; the wearer of the collar is completely controlled by the wearer of the bracelet. In the parlance of linking, we would say that the wearer of the bracelet leads the circle.{{ref/book|twotc|a'dam}} This is an important difference compared to a regular circle. See the section on circles vs forced circles for details.
+
+The one wearing the bracelet must have the capacity to learn how to channel, though she is not required to have any active control over (or even knowledge of) the [[One Power]]. 
+
+In order to be able to be controlled by the collar, a woman must either possess the [[Spark]], or have trained enough to gain a minimum level of proficiency and familiarity with the [[One Power]]. Ironically, [[Sul'dam]] gradually learn the basics of channelling through their control over [[Damane]], and thus eventually become susceptible to the control of the collar themselves; however, this fact is not generally known within the [[Seanchan]] Empire.
+
+The ''a'dam'' protects the ''[[damane]]'', preventing her from burning herself out. This may have been incorporated into the original design to prevent any possibility of a captive deliberately burning herself out. This also enables the ''[[Sul'dam]]'' to [[Forcing|Force]] the ''damane'', allowing them to quickly reach their full potential.
+
+== Effect on society and life ==
+[[Image:a'dam-icon.svg|thumb|right|150px|''a'dam'' [[:Category:Chapter art|chapter&nbsp;icon]]]] Wearing the ''a'dam'' marks and defines the social status of female [[channeller]]s in the [[Seanchan]] Empire; the leashed woman is called a ''[[damane]]'' (Leashed one), and the woman who holds the bracelet is a ''[[sul'dam]]'' (Leash holder). 
+
+At the time of its invention, the fact that Sul'dam could learn to channel was common knowledge, but this knowledge was either deliberately erased or slowly forgotten over time. The Seanchan believe that only those women who are born with the spark can channel. Ironically, while ''[[damane]]'' are viewed as dangerous, subhuman property to be controlled, ''[[sul'dam]]'' are valued and well-regarded members of society due to their skill in working with the women who actually wield the [[One Power]]. 
+
+The rediscovery of the [[Sul'dam]]'s ability to channel by certain members of [[Seanchan]] society (including some ''sul'dam'') at the end of the [[Third Age]] has the potential to rock their society to the core.{{Ref/book|9|21}} However, as of the beginning of the [[Fourth Age]], this information has not yet been widely disseminated. 
+
+== Circles vs Forced Circles ==
+
+{{Under construction}}
+
+There are a number of differences between circles and the forced circles created by the a'dam. In general, the a'dam is a much stronger form of a circle that adds additional control by design. Several things stated to be impossible with circles are possible with the forced circles.
+
+* '''Involuntary Membership''': While Elayne says nobody can be forced into a circle, the a'dam's chief purpose is to do exactly that. Conventional circles requires a woman to embrace the source and allow to be included. The a'dam requires neither.
+* '''Potential Channelers''': Not only do women not need to be embracing the source, but they don't even have to know how to. Channelers with the spark, or who have developed a subconscious affinity with the One Power, can be forced into the circle by collaring.{{ref/book|twotc|a'dam}} 
+* '''Passing Leadership''': Leadership can be passed willingly from one member to another in a circle, but the a'dam creates "a link between the two women, a circle of two, with the woman wearing the bracelet always leading the circle".{{ref/book|twotc|a'dam}}
+* '''Weaving/Melding Flows''': In a conventional circle, only the leader can create weaves. The a'dam, however, allows for two modes. While the leash-holder can "combine her own abilities with those of the other woman to channel a single, combined set of flows herself", the default mode operated by the Seanchan is that the leashed one creates the weaves while not being the one that leads the circle.{{ref/book|twotc|a'dam}} We know that the Damane must be the one doing the actual weaving as, in most cases, the weaves are completely invisible to the sul'dam, the sul'dam do not slow due to drawing on the One Power themselves, and the functionality of the circle is limited by the knowledge and limitations of the damane. On the last point, this can be seen by the fact that captured Aes Sedai cannot be used as weapons and Elaida is able to teach the Seanchan [[Traveling]]. If the sul'dam were doing the actual weaving, then the Aes Sedai Oaths would not be a block and they could not channel weaves they had no knowledge of.
+* '''Controlling Flow''': Although the collar-wearer can create weaves, this is at the discretion of the leash-holder. The collar-holder can "control the other woman’s flow of saidar completely".{{ref/book|twotc|a'dam}} When Nynaeve collars Moghedien she thinks she "did not want to channel those flows, so they were not channeled". Nonetheless, it does seem that the collar-wearer must embrace the source of their own "free will". Logically, most sul'dam do not know how to embrace the source as they have never knowingly channeled. When Renna instructs Egwene to channel, Egwene must "reach for the source" herself. Renna does not open access to it for her.{{ref/book|2|40}} Although it is voluntary, the ability to inflict pain on the collar-wearer makes coercion easy enough for the leash-holder. Presumably, just like a conventional circle, it is not possible to let go of the True Source once it is embraced. 
+* '''Feedback''': Where being in a circle allows members to sense each other's emotions, the a'dam creates a one-directional link which means that the collar-wearer experiences whatever happens to the leash-holder as if it were happening to her at "several times the intensity".{{ref/book|twotc|a'dam}} 
+Note that the circle is formed only when the leash is attached. 
+
+=== Gender mixed use ===
+While a normally formed circle of one man and one woman is possible, wearing the bracelet of an a'dam causes intense pain to a male channeller and often kills him. This is likely a consequence of the fact that in a circle of one man and one woman, a woman must always initiate the bond, but the a'dam attempts to force the creation of a link controlled by the wearer of the bracelet, which would be the man in this case.
+
+A woman wearing the bracelet might be able to control a man wearing the collar, although it is generally believed this would be difficult to do due to the higher inherent strength of male [[channelers]].{{verify}} (The [[Forsaken]] attempted to capture [[Rand al'Thor]] using a similar [[Ter'angreal]] with two bracelets, allowing two women to control one man, thus overcoming this issue.)
+
+A male channeler touching an a'dam causes intense pain both to the women wearing the bracelet and the collar as well as the man. This makes it nearly impossible for a man to physically open the a'dam. {{Ref/book|5|32}}
+
+''"He [Rand] put a hand to the collar of the nearest, and felt a jolt that nearly numbed his arm; for an instant the Void shifted, and saidin raged through him like the snowstorm a thousandfold. The damane's short yellow hair flailed as she convulsed at his touch, screaming, and the sul'dam connected to her gasped, face going white. Both would have fallen if not held by bonds of Air."''{{Ref/book|5|32}}
+
+When [[Aran'gar]]/Halima frees [[Moghedien]] from the a'dam, Moghedien notes Halima flinch in pain and reflects that should only happen for male channelers.{{ref/book|6|Epilogue}} Females and any males who cannot channel can open both the bracelet and the collar, or remove the collar from a damane when she is not linked with a [[sul'dam]].
+
+''"The catches were a simple matter for him [Mat] the bracelet easiest. That was just a matter of squeezing the right spots, top and bottom, not quite opposite the leash. It could be done with one hand, and the bracelet popped open on one side with a metallic click. The collar was a little trickier, and required both hands. Putting his fingers on the proper spots on either side of where the leash attached, he pressed, then twisted and pulled while holding the pressure. Nothing happened, that he could see, until he twisted the two sides the other way. Then they came apart right beside the leash, with a sharper click than the bracelet. Simple. Of course, figuring it out had taken him nearly an hour, back in the Palace, even with what [[Juilin Sandar|Juilin]] had seen to help."''{{Ref/book|9|29}}
+
+Unlike a normal [[Circle]], the one using the bracelet does not need much proficiency with the [[One Power]] to initiate the link.
+
+==== Burned out channellers ====
+An a'dam cannot be used on or by a [[Channelers|channeler]] who is burned out. {{Ref/book|9|29}}
+
+===Traits===
+An ''a'dam'' can be opened at a distance with the [[One Power]], as discovered by [[Nynaeve al'Meara|Nynaeve]] at [[Falme]].
+
+The ''a'dam'' includes a number of useful characteristics for maintaining the captivity of the ''damane'': It incapacitates the ''damane'' if she makes any attempt to open the clasp on the collar, or move an empty bracelet from where it has been placed by a ''sul'dam''.
+* It allows the addition of emotional sensations to the ''damane'''s worldview; she can thus be punished immediately and unavoidably for any transgressions, a fact used liberally in most training.
+* Any pain inflicted on a ''sul'dam'' is also felt by the ''damane'' twice as severely, effectively preventing a ''damane'' from attacking her ''sul'dam''.
+* A ''damane'' cannot pick up a weapon. If a ''damane'' thinks of using an object as a weapon, she will not be able to pick it up until she completely expunges the thought from her mind.
+* When the bracelet is not worn by a ''sul'dam'', moving it will incapacitate the ''damane'' with pain and nausea. This prevents her from escaping even when unattended.
+* A ''sul'dam'' can make a ''damane'' embrace or release the [[True Source]] at will.
+* ''Damane'' are unable to form circles as other channelers can, because they are already linked with their ''sul'dam''. This fact constitutes an extraordinary weakness with regard to using ''damane'' against other channelers.
+
+== Leashless ''a'dam'' ==
+[[Elayne Trakand]] created a unique ''a'dam'' in order to hold [[Moghedien]] captive. This example had a few special features allowing it to be kept secret more easily. Most importantly, the bracelet and collar were not joined by a leash. Because of this, Moghedien could move around more freely, as doing so did not require her to move the bracelet.
+==Male ''a'dam'' ==
+{{main|Domination Band}}
+A similar ''ter'angreal'' exists to allow control of male channelers. It consists of a collar and two bracelets, in separate pieces, all made of black ''[[cuendillar]]''. Though it has been referred to as an "''a'dam ''for men," it should be noted that it dates from the [[Breaking of the World]], centuries before the ''a'dam'' was invented. This version of the device allows for far more control over the subject, but it requires two women to maintain that control as opposed to one. If only a single woman attempts to use it, a high degree of possibility exists that the device will, given time, give the subject complete control over whomever is wearing the bracelet.
+
+Originally only one such set was known. This fell into the possession of the [[Seanchan]], who made at least six copies. 
+
+== Etymology ==
+This [[Old Tongue]] word was not derived from the similarly spelled name Adam, but instead from the phrase "a domme," a common short form for referring to a dominant woman in a [[wikipedia:BDSM|BDSM]] relationship. {{ref/book|origins|a'dam}}
+
+{{notes}}
+{{DISPLAYTITLE:''a'dam''}}
+[[es:a'dam]]
+[[Category:Seanchan culture]]
+[[Category:Ter'angreal]]
+[[Category:Old Tongue]]
+[[Category:Items of Power]]

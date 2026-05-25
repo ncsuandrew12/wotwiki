@@ -1,0 +1,27 @@
+{{ character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Unknown nationality
+| gender=Female
+| rank=Aes Sedai
+| affiliation=White Tower
+| hair=Dark, streaked with gray
+| build=Stocky
+| status=Alive
+| appeared={{kod|24}}
+| lastappeared={{kod|24}}
+| living=kod
+}}
+'''Dalevien''' is an [[Aes Sedai]] of the [[Brown Ajah]]. She has remained loyal to the [[White Tower]] during the split.
+
+== Appearance ==
+Dalevien is stocky with short, dark hair streaked with gray. Her appearance hints that she might be just over 150, as with some sisters with streaks of gray in their hair, like [[Verin Mathwin]] and [[Dagdara Finchey]].
+
+==Activities==
+Dalevien and [[Felaana Bevaine]] are maintaining a shield on [[Leane Sharif]] when [[Egwene al'Vere]] comes to visit her in the Tower cells. Dalevien is comparing the text between two books, barely registering Egwene's arrival.
+
+{{Short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

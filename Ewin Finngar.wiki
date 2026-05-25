@@ -1,0 +1,27 @@
+{{ character
+| image=Ewin Finngar.jpg
+| imagesize = 250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| status=Alive
+| appeared={{teotw|2}}
+| mentioned={{teotw|r}}
+| lastappeared={{tsr|54}}
+| lastmentioned={{loc|p}}
+| living=loc
+}}
+'''Ewin Finngar''' is a teenager from [[Emond's Field]] in the [[Two Rivers]].  In his childhood he was a younger friend to [[Rand al'Thor]] and [[Matrim Cauthon]]; the latter of whom would occasionally make Ewin the target of pranks and practical jokes. 
+
+== Appearance ==
+In the spring of {{ne|998}} Ewin was a short, highly excitable pudgy-faced fourteen-year-old.{{ref/book|1|2}}  Other boys generally saw him as a squeaky little nuisance who tried to crowd in whenever older fellows got together.{{ref/book|4|43}}  By the summer of {{ne|999}}, just a little more than year later, Ewin had changed considerably; developing a leaner face, wider shoulders, a bass voice, and growing a full half-foot taller.{{ref/book|4|43}}
+
+== Activities ==
+On the day before [[Bel Tine]] in {{ne|998}}, Ewin became enamored with a [[Moiraine Damodred|mysterious female visitor]] to the village who arrived with a [[Al'Lan Mandragoran|male companion]].  He rushed to the cellar of the [[Winespring Inn]] in order to gossip about these strangers to Mat and Rand.  Ewin was later gifted a silver penny from the visitor and decided not to spend it.{{ref/book|1|2}}  That same day when [[Padan Fain]] arrived in Emond's Field, Ewin interrupted Fain's storytelling about [[Logain Ablar]] and was nearly cuffed by [[Cenn Buie]] who wanted him to remain silent while elders were speaking.{{ref/book|1|3}}
+
+The next year in {{ne|999}} Ewin became one of the early followers of [[Perrin Aybara]] who had returned to the [[Two Rivers]] with [[Zarine ni Bashere t'Aybara|Faile Bashere]].  Ewin helped to carry Perrin into the [[Winespring Inn]] after the Waterwood Skirmish.  At first, Perrin did not recognize Ewin, but later marveled at how much Ewin had grown in just over a year.{{ref/book|4|43}} Later Ewin participated in the [[Battle of Emond's Field]] where he helped defend the north perimeter of the village.{{ref/book|4|56}}
+
+In the fall of 999NE Ewin ran away from the [[Two Rivers]] with [[Elam Dowtry]] and [[Dav Ayellin]] to explore the world.{{ref/book|6|p}}{{ref|{{twotc}}, Ewin Finngar}}
+
+{{notes}}
+{{DEFAULTSORT:Finngar, Ewin}}

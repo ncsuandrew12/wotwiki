@@ -1,0 +1,6 @@
+<includeonly>{{#invoke:Sandbox/androlf/Quote|random_wot_quote|tags={{{1|}}}}}</includeonly><noinclude>
+{{documentation}}
+[[Category:Quotelist templates|{{PAGENAME}}]]
+[[Category:Quotation templates|{{PAGENAME}}]]
+[[Category:Templates|{{PAGENAME}}]]
+</noinclude>

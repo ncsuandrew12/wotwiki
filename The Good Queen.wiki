@@ -1,0 +1,12 @@
+'''The Good Queen''' is an inn located in the city of [[Aringill]], in [[Andor]].
+
+In [[999 NE]] the innkeeper was [[Jeral Florry]]. {{ref/book|3|40}}
+
+==Events==
+
+Aringill was packed with refugees following the [[Cairhien]] Civil War. All the inns were full, so [[Mat]] and [[Thom]] had to pay an exorbitant amount to sleep in the stable, where they rescued [[Aludra]] from [[Tammuz]]. Mat also won two horses from Master Florry.
+
+{{notes}}
+{{DEFAULTSORT:Good Queen, The}}
+[[Category:Andor]]
+[[Category:Inns]]

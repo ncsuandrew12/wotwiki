@@ -1,0 +1,24 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Sevanna
+| clan=Shaido
+| sept=Green Salts
+| status=Alive
+| society=Far Aldazar Din
+| appeared={{acos|p}}
+| lastappeared={{acos|40}}
+| lastmentioned={{kod|5}}
+| living=kod
+}}
+'''Bendhuin''' is of the [[Green Salts]] [[sept]] and the [[Shaido]] [[Aiel]] clan. He is the head of the [[Shaido]] ''[[Far Aldazar Din]]'', a Brother to the Eagle.
+
+== Appearance ==
+He is a scar-faced man.
+
+== Activities ==
+He fights in the [[Battle of Dumai's Wells]].
+
+The Green Salt sept is scattered by [[Sammael]]'s call-boxes and eventually regroup in the town of [[Malden]]. There he is given permission by [[Therava]] to leave for [[Rhuidean]] to become [[clan chief]] of the Shaido.

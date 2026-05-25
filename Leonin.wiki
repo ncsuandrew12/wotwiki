@@ -1,0 +1,23 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Arafellin
+| title=Gaidin
+| hair=Black, braided with bells
+| gender=Male
+| status=Alive
+| occupation=Warder
+| affiliation=White Tower
+| appeared={{cot|p}}
+| lastappeared={{cot|p}}
+| lastmentioned={{tgs|12}}
+| living=tgs
+}}
+'''Leonin''' is [[Warder]] to [[Meidani]]. 
+
+== Appearance ==
+He is [[Arafellin]], and wears silver bells in his braided black hair.
+
+== Activities ==
+He accompanies Meidani back to the [[White Tower]] when she acts as a spy for the [[Rebel Aes Sedai]].
+[[Category:Rebel Aes Sedai]]

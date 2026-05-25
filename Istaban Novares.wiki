@@ -1,0 +1,19 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Tairen
+| title=[[High Lord of Tear]]
+| gender=Male
+| mentioned=[[RPG]]
+}}
+'''Istaban Novares''' is credited as being one of the founders of the nation of [[Tear]]. 
+
+==History==
+He was a nobleman of the province during the days of [[Artur Hawkwing]]. Upon Hawkwing's death in {{Fy|994}}, he formed an alliance with an equally powerful noblewoman named [[Yseidre Tirado]] and, together with their supporters, they seized control of the city and a stretch of surrounding countryside. Neither was powerful enough to declare themselves king or queen, so a ruling council was established instead.
+
+Over the course of the [[War of the Hundred Years]], Tear overcame its enemies and expanded to its modern size, with the notion of a council of [[High Nobility of Tear|High Lords and Ladies]] leading the country instead of a single ruler becoming cemented in law.
+
+{{DEFAULTSORT:Novares, Istaban}}
+[[Category:Historical people]]
+[[Category:Nobility]]

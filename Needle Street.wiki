@@ -1,0 +1,6 @@
+A street in the city of Caemlyn. Elayne notes that while it used to be full of shops dedicated to needlework, now the shops are all different types. {{ref/book|9|7}}
+
+{{notes}}
+[[Category:Caemlyn]]
+[[Category:Short pages]]
+[[Category:Roads]]

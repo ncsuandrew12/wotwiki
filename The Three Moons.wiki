@@ -1,0 +1,10 @@
+'''The Three Moons''' is an inn in the [[Tear (city)|City of Tear]], not far from [[The Dragon]].{{ref/book|11|21}}
+
+==Activities==
+[[Agardo Saranche]], innkeeper of The Dragon, offers to escort [[Rand al'Thor]] and his party up the street to The Three Moons, as all his large rooms are taken.{{ref/book|11|21}}
+
+{{notes}}
+[[Category:Inns]]
+[[Category:Tear]]
+[[Category:Short pages]]
+{{DEFAULTSORT:Three Moons, The}}

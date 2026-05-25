@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Danu}}
+|}
+'''Danu 8 (December 1)'''
+
+==Events==
+</noinclude>
+*{{ne|978}} - In preparation for [[Moiraine]] and [[Siuan]] taking the test to become [[Aes Sedai]], [[Elaida]] helps them to practice concentrating while weaving flows of the [[One Power|Power]]. Her methods result in minor injuries to the two [[Accepted]].
+*{{ne|999}} - [[Mat]]'s party joins the road to [[Ebou Dar]].
+<noinclude>
+==External links==
+*[[wikipedia:december 1|December 1]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

@@ -1,0 +1,36 @@
+:''This article is about the book. For the animated shorts, see {{TVlink|The Wheel of Time Origins}}.''
+[[Image:Origins of the Wheel of Time cover.jpg|250px|right|thumb|Cover art for ''Origins of the Wheel of Time'']]
+'''''Origins of the Wheel of Time: The Legends and Mythologies that Inspired Robert Jordan''''' is an new non-fiction book by Michael Livingston, with a foreword from [[Harriet McDougal]]. The book was released on November 8, 2022.
+
+The book focuses on the history of the writing process of ''The Wheel of Time'', as well as the real-world inspirations for the series.
+
+== Content ==
+The book is divided into several sections:
+
+# ''[[A Letter to Readers from the Author]]'' - Letter from [[Michael Livingston]] to the readers of the book.
+# [[Origins of the Wheel of Time/Introduction|Introduction]] - Includes a brand-new, redrawn map by [[Ellisa Mitchell]] using change requests discovered in Robert Jordan's unpublished notes.
+# ''[[The Wheelwright: The Life of Robert Jordan]]'' - Describes Robert Jordan's personal and professional life.
+# ''[[The Axle and the Wheel: Tolkien and Jordan]]'' - Describes the most significant literary influences on Jordan and WoT.<ref>See Also: [[Similarities to Tolkien]], [[Similarities to Dune]]</ref>
+# ''[[The Wheel Turns: Jordan at Work]]'' - Describes the actual writing of WoT.
+# ''[[The Real World in The Wheel of Time]]'' - Describes confirmed and speculative real-world inspirations for WoT. Includes several notable photos pertaining to ''[[Wheel of Time]]''.
+# A [[Origins of the Wheel of Time/Glossary|glossary]] focused on actual and potential real-world inspirations for WoT [[:Category:Characters|characters]], [[:Category:Places|places]], and [[:Category:Items|things]].
+# [[Origins of the Wheel of Time/Endnotes|Endnotes]] - An extensive, but non-comprehensive list of sources for the facts asserted in the book.
+
+Other content includes:
+* An alternate scene from an early draft of ''[[The Eye of the World]]'' that occurs shortly after Rand meets Min.
+* Excerpts from drafts of certain chapters, illustrating Robert Jordan's writing process.
+* The reveal of [[Nakomi]]'s true identity as decided by [[Brandon Sanderson]].<ref name="Jordancon2022">First announced by Michael Livingston at JordanCon 2022.</ref>{{ref|Note: The character of Nakomi, aside from being a mysterious woman who appears "randomly" and gives advice to a main character, is entirely a Sanderson creation. See [[Nakomi]] entry in {{origins}}}}
+* Numerous [[Origins of the Wheel of Time/Acknowledgments|acknowledgments]] of those who contributed to the book.
+
+== See Also ==
+
+*[[:Category:Parallels]]
+*[[Similarities to Dune]]
+*[[Similarities to Tolkien]]
+
+{{Notes}}
+{{Books}}
+{{Stub}}
+{{DISPLAYTITLE:''Origins of the Wheel of Time''}}
+[[Category:Books]]
+[[Category:Series books]]

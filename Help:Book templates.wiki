@@ -1,0 +1,28 @@
+One of the major goals of the Wheel of Time Wiki is to have more complete referencing on every page where appropriate. To reference a book and chapter, code of the form <nowiki>{{ref/book|BOOK #|CHAPTER #}}</nowiki> must be applied after the fact or group of facts found at that location. BOOK # is replaced by the number of that book in the series. For example, 2 will generate a reference to {{2}}. CHAPTER # is replaced by the chapter number. See {{tl|ref/book}} for more information and numerous examples. 
+
+== Useful Hints ==
+
+* {{0}} is referenced by BOOK # of 0.
+* {{15}} is referenced by BOOK # of 15.
+* Prologues, epilogues, and glossaries can be referenced by replacing CHAPTER # with p, e, or g, respectively. Upper case letters may not always work. e.g. <nowiki>{{ref/book|1|p}}</nowiki>: {{ref/book|1|p}}
+* {{c}} referencing must specify the entry instead of the chapter number. It has the form <nowiki>{{ref/book|c|ENTRY|NAME|WORD}}</nowiki>, where ENTRY is replaced by the name of the entry being referenced. e.g. <nowiki>{{ref/book|c|Moiraine Damodred}}</nowiki>: {{ref/book|c|Moiraine Damodred}}. If ENTRY is "Old Tongue Dictionary" or "otdict", WORD refers to the specific Old Tongue entry being referenced. (NAME is optional and does not affect the displayed text.
+* ''[[The World of Robert Jordan's The Wheel of Time]]'' referencing is similar: <nowiki>{{ref/book|bwb|CHAPTER}}</nowiki> or <nowiki>{{ref/bwb|CHAPTER|EXTRA}}</nowiki>, where CHAPTER can refer to the preface, ''[[Ravens]]'', or a chapter number. EXTRA can be used to specify something more beyond the chapter number. CHAPTER and EXTRA are both optional, so EXTRA can be used to specify something more freeform if necessary.
+* {{origins}} referencing is similar, but significantly more complicated: <nowiki>{{ref/book|origins|SECTION}}</nowiki>, where SECTION is the abbreviation of one of the sections (e.g. "Introduction" or "Wheelwright"). See {{tl|origins}} for more information. e.g. <nowiki>{{ref/book|origins|Axle}}</nowiki>: {{ref/book|origins|Axle}}
+
+== Shorthand for inline book references ==
+
+If one wishes to link directly to the page for the book and/or chapter inline (ie not in a footnote) (eg for a table used in pages like [[Statistical analysis]]), one can use simplified book templates. Generally, they're the same as the footnote template but without the <code>ref/book|</code> at the beginning. <nowiki>{{BOOK #}}</nowiki> will produce the full name of the book, with BOOK # being replaced as above and {{tl|c}}, {{tl|bwb}}, {{tl|origins}} used for the resources mentioned above. (Due to its length, {{tl|bwb}} displays the initialism rather than the full title: {{bwb}}.
+
+=== By initialism ===
+
+For a shorthand version of the books commonly used by fans, the abbreviations {{t|ns}}, {{t|teotw}}, {{t|tgh}}, {{t|tdr}}, {{t|tsr}}, {{t|tfoh}}, {{t|loc}}, {{t|acos}}, {{t|tpod}}, {{t|wh}}, {{t|cot}}, {{t|kod}}, {{t|tgs}}, {{t|tom}}, {{t|amol}}, and {{t|twotc}} can be used. Note that these must be lower case initialisms!
+
+The full title of the book is only generated when using book numbers or {{t|c}}. e.g. <code><nowiki>{{0|2}}</nowiki></code>: {{0|2}}
+
+== General style advice ==
+
+For uniformity, it is recommended to not use inline referencing unless strictly necessary. Instead, generate a list of references at the bottom of a page using {{t|notes}}. Next most desirable is the inline referencing of the full book title and long version of the chapter number (e.g. in tables). Lastly, the initialism and short chapter referencing is best when space is limited, such as on tables with many columns or on infoboxes and other templates.
+
+{{notes}}
+[[Category:Book templates]]
+[[Category:Help]]

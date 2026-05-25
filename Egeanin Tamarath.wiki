@@ -1,0 +1,72 @@
+{{character
+| image=Wot bayle and lilwin by reddera-d52e4u3.jpg
+| imagesize=
+| ewot=Egeanin
+| birth={{ne|965}}
+| eyes=Blue
+| hair=Dark, Shaved
+| height=5'7"
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| appeared={{tgh|29}}
+| lastappeared={{amol|23}}
+| living=amol
+| affiliation = White Tower
+| occupation=Warder}}'''Egeanin Tamarath''' (formerly '''Egeanin Sarna''' before being promoted){{ref/book|9|20}} is a [[Seanchan]] captain, promoted to one of the [[Blood]]. She has since been demoted and has been given the name '''Leilwin Shipless'''.
+
+== Appearance ==
+Egeanin is tall, thin, fair-skinned with dark hair and sharp blue eyes. Her face is attractive, but stern. Her hands are slender, with swordsman's calluses. She is 5'7". Her hair was originally very short, although she wears it in a bowl-cut since her promotion.
+
+After joining [[Valan Luca]]'s [[Valan Luca's Traveling Show|circus]], she has to shave all her hair off (an idea that has mortified her) and wore a black wig. She also cuts short her fingernails.
+
+== History ==
+Egeanin was born in {{ne|965}} (though the date was counted differently in the continent of [[Seanchan (continent)|Seanchan]]). Her father was a soldier, and her mother was a very high-ranking naval officer, a [[Captain of the Gold]], and was later made ''[[so'jhin]]'' to the Empress as the Hand of the Empress at Sea. When the ''[[Corenne]]'' is declared, Egeanin is sent east across the [[Aryth Ocean]] captaining ''Fearless''.<ref name="comp">''[[The Wheel of Time Companion]]'', Egeanin Tamarath.</ref>
+
+==Activities==
+=== Captain ===
+Egeanin captains the ship ''Fearless'' during the ''[[Hailene]]''. She encounters [[Bayle Domon]] on his ship, the ''[[Spray]]'', and captures him.{{ref/book|2|29}} She discovers his stash of 'old things', including a ''[[cuendillar]]'' [[Seven Seals|Seal]] to the [[Dark One | Dark One's]] prison, and takes him to the High Lord [[Turak]] in [[Falme]]. She presents these things to Turak as a gift and Turak finds Domon's interest in old things fascinating, resulting in Domon being held virtually as a prisoner in Falme.
+
+=== Tanchico ===
+Under the orders of the High Lady [[Suroth Sabelle Meldarath]], Egeanin searches in [[Tanchico]] for ''[[a'dam]]'' bracelets and ''[[sul'dam]]'' who fled Falme after the battle between the [[Heroes of the Horn]] and the Seanchan.{{ref/book|4|38}} She spots Domon again in Tanchico and has a [[Seeker for Truth|Seeker]] check up on her progress. She has the ''sul'dam'' [[Bethamin Zeami]] held captive, but keeps her captivity a secret from everybody.
+
+She later saves [[Elayne Trakand]] and [[Nynaeve al'Meara]] from being taken captive by street thugs under her employ.{{ref/book|4|46}} After meetings with the two girls, she begins to like them. This strongly contradicts her Seanchan values, since Elayne and Nynaeve are ''[[Marath'damane]]''. As a result of this friendship, Egeanin releases Bethamin,{{ref/book|4|51}} but is then held captive herself by Elayne and Nynaeve when they are told by Domon that she is in fact Seanchan. She enters the [[Panarch]]'s Palace with the girls and rescues [[Amathera Aelfdene Casmir Lounault]], the Panarch, from the [[Black Ajah]]. The girls entrust Egeanin with the so-called [[Domination Band|sad bracelets]] to dispose of in the ocean.
+
+
+
+
+
+ 
+
+=== Raised to the Blood ===
+She then sails out to sea to drop the Domination Band over the side, but she is boarded by another Seanchan vessel with ''[[damane]]'' on board. When Egeanin reports to Suroth with the bracelets, she is promoted to [[Captain of the Green]]. Domon is captured during the exchange and made property. Egeanin buys him and makes him her ''[[so'jhin]]''. She has started to develop a romantic relationship with Domon.
+
+Egeanin later shows up in [[Ebou Dar]] and is ordered by Suroth to get a room in the [[Wandering Woman]]. She walks in on [[Matrim Cauthon]] and [[Joline Maza]], but Joline is hidden from Egeanin.
+
+Bethamin shows up at her door, telling her of the Seeker she met in Tanchico asking questions about her. She sends Domon to meet with Mat and [[Thomdril Merrilin]] to form a plan of escape from Ebou Dar and the Seeker.
+When she meets with Mat she reveals that she helped Nynaeve and Elayne in Tanchico which convinces Mat to help her. She gathers Bethamin, [[Seta Zarbey]] and [[Renna Emain]] to escort the captive Aes Sedai in the ''damane'' kennels out to freedom. She then walks in on Mat and [[Noal Charin]] holding [[Tuon Athaem Kore Paendrag]]. She tells Mat that he is holding the [[Daughter of the Nine Moons]]. This causes him to tell her that Tuon is his wife three times and begin the Seanchan marriage ritual.
+
+=== On the run ===
+Mat decides to keep close to Ebou Dar so as not to raise any suspicion. He pretends to be Egeanin's lover, she having run away from her "brutal husband". They joined [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Circus]] in an attempt to escape Ebou Dar. Tuon decrees that she should be known as Leilwin Shipless. She is no longer one of the Blood.
+She is stabbed by Renna, who knows that Egeanin is privy to the secret of the ''sul'dam'' potential for channeling. Renna then flees Luca's show and Egeanin is [[Heal]]ed by [[Teslyn Baradon]].
+
+Egeanin and Bayle Domon get married. Due to Tuon's decree about her name, however, she refuses to take Domon's name.
+She remains with Mat after he is forced to leave Valan Luca's troupe and meets up with the [[Band of the Red Hand]]. She is present when Mat battles the Seanchan alongside the [[Deathwatch Guards]]. Throughout the journey from Ebou Dar she has resented requiring Mat's help and is often struggling for control - she refers to the situation as there being two captains on the same ship. Eventually, however, it appears that she has stopped trying to undermine him and it is possible that she has come to grudgingly respect him, though this has not been stated.
+
+She has begun to work on the [[dragons|dragon cannons]] with [[Aludra]] now. She decides to leave with Domon and the Aes Sedai and make for [[Tar Valon]].
+Once Leilwin reaches Tar Valon, she sneaks through a gateway and Travels to the [[Field of Merrilor]]. Once there, she and Bayle are escorted to Nynaeve by [[Sleete]]. Nynaeve reprimands Leilwin for letting the dominion band fall into Seanchan hands and then it being used on the Dragon Reborn. Leilwin pledges herself ''da'covale'' to the White Tower in the hope of regaining some scrap of honor.
+
+=== In service of the White Tower ===
+Leilwin seeks out [[Egwene al'Vere]] while at the Field of Merrilor. She pledges to serve her. Egwene gets her taken away by Tower guards to deal with her later. Leilwin and Domon are taken to the [[Kandor]]i war-front. Leilwin gives Egwene an oath to fully serve and protect her. Egwene asks Leilwin to start by telling her everything she knows about the Seanchan empire. She has now taken it upon herself to become Egwene's bodyguard. Leilwin is with Egwene when she demands that Bryne actively include the Aes Sedai in his war-plans. She spots [[Gawyn Trakand]] with the [[Bloodknife]] ''[[Ter'angreal]]'' and warns him that there will be consequences if it touches his blood.
+
+When [[Demandred]] and the [[Shara]] invade the Aes Sedai camp, she comes back for [[Egwene]], who has been captured by a Sharan channeler and saves her from certain death. Leilwin and Gawyn lead Egwene out of the Sharan camp, back to where Domon waits for her. They then Skim back to the White Tower. She then takes [[Gawyn|Gawyn's]] place as Egwene's warder, after Gawyn is killed trying to assassinate Demandred. Egwene releases the bond before she dies, allowing her survival. 
+
+{{Primary Protagonists}}
+{{notes}}
+{{DEFAULTSORT:Tamarath, Egeanin}}
+[[es:Egeanin Sarna]]
+[[Category:Ever Victorious Army]]
+[[Category:The Blood]]
+[[Category:POV character]]
+[[Category:Eyes-and-ears]]
+[[Category:Warders]]

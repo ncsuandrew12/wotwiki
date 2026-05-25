@@ -1,0 +1,33 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Unknown nationality
+| title=Gaidin
+| gender=Male
+| build=Wiry
+| status=Dead
+| birth={{ne|922}}{{ref|{{twotc}}, Jaem|Jaem}}
+| death={{ne|1000}}
+| occupation=Warder
+| affiliation=Rebel Aes Sedai
+| appeared={{tgh|22}}
+| lastappeared={{kod|32}}
+}}
+{{for|the fictional character|Jaem the Giant-Slayer}}
+'''Jaem''' was a [[Warder]] bonded to [[Vandene Namelle]].{{ref||Jaem}}
+
+== Appearance ==
+He was old for a Warder, but still remained as dangerous as always. He was wiry and gnarled.
+
+== Activities ==
+When [[Moiraine]] came to visit Vandene and [[Adeleas Namelle]], Jaem picked up the sword again and began to work out with [[Lan Mandragoran]], even stabbing a [[Draghkar]] at the same time as Lan, saving Moiraine's life.{{ref/book|2|22}}
+
+After joining with the [[Salidar]] [[Aes Sedai]] for a while, he soon left with Vandene again to go to [[Ebou Dar]] to look for the [[Bowl of the Winds]]. When he found out [[Birgitte Silverbow]] was [[Elayne Trakand]]'s Warder, he took her under his wing and taught her to act like a Warder.
+
+He then [[Traveling|Traveled]] from Ebou Dar to the [[Kin]]'s farm and then on to [[Andor]].
+
+He taught Elayne's bodyguards how to use the sword. He felt Vandene die inside the house on Full Moon Street and rushed inside to confront the [[Black Ajah]] Aes Sedai who killed her. He died in the confrontation.
+
+{{notes}}
+
+[[es:Jaem]]

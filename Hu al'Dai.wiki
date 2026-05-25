@@ -1,0 +1,28 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=hu aldai
+| nationality=Andoran
+| status=Alive
+| gender=Male
+| affiliation=Two Rivers
+| appeared={{tsr|43}}
+| lastappeared={{tsr|43}}
+| living=tsr
+}}
+{{dablink|For others with the same first name, see [[Hu]]. For others with the same surname, see [[al'Dai]].}}
+'''Hu al'Dai''' is a resident of the [[Two Rivers]].
+
+==Appearance==
+He is an old man.{{ref/book|4|43}}
+
+==History==
+He is the son of [[Willim al'Dai]] and father of [[Bili al'Dai]].{{ref|{{twotc}}, Willim al'Dai}}
+
+His farm lay between Emond’s Field and Watch Hill.{{ref|{{twotc}}, Hu al'Dai}}
+
+== Activities ==
+He fruitlessly calls for his son [[Bili al'Dai]] after [[Perrin]] and his band returns from a battle with [[Trollocs]].{{ref/book|4|43}}
+
+{{notes}}
+{{DEFAULTSORT:Al'Dai, Hu}}<!--Please leave the "a" capitalized for sorting purposes.-->

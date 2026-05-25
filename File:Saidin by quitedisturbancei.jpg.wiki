@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://quiet-disturbance.deviantart.com/art/Saidin-314088822
+|Description = Fan art of [[Rand al'Thor]].
+|Artist      = Quiet-Disturbance
+}}

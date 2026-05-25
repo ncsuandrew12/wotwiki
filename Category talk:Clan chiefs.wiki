@@ -1,0 +1,5 @@
+This category only has one name on it. And there's plenty of other clan chiefs that we know the names of, but aren't here. I have no idea how to edit that in here though. It would be good if someone can remedy this.  [[User:Astro Droid|Astro Droid]] 01:10, March 12, 2010 (UTC)
+
+Still a problem! I don't know how to fix it. There are other clan chiefs whose wiki pages are categorized with "clan chiefs," so why doesn't it show up here? [[User:Seebster|Seebster]] 23:59, May 13, 2011 (UTC)
+
+:It was because the character template takes capitalization into account. Rhuarc was the only one that was done properly and there was a redirect from "Clan Chief" to this category. It is all fixed now. ----[[User:Mainphramephreak|<span style="color:#0080FF;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 00:51, May 14, 2011 (UTC)

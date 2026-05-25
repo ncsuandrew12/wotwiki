@@ -1,0 +1,23 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| build=Bulky
+| status=Alive
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Cor Darei
+| appeared={{tfoh|54}}
+| lastappeared={{tfoh|54}}
+| living=tfoh
+}}
+'''Meciar''' is an [[Aiel]] warrior from the [[Night Spear]] society. 
+
+== Appearance ==
+He is a bulky man and wears the red headband representing the People of the Dragon. 
+
+== Activities ==
+He is part of the attack force that confronts [[Rahvin]]'s forces in [[Caemlyn]].
+[[Category:Short pages]]

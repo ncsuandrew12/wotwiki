@@ -1,0 +1,8 @@
+
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Map
+| Description             = Map showing the location of Ghealdan
+}}
+[[Category:Maps of Nations and Kingdoms]]
+[[Category:Ghealdan]]

@@ -1,0 +1,29 @@
+{{ character
+| image=Daricain.jpg
+| imagesize=250px
+| ewot=daricain
+| nationality=Cairhienin
+| occupation=Soldier
+| gender=Male
+| title=Lord
+| rank=Lieutenant
+| build=Slender
+| status=Alive
+| appeared={{tfoh|30}}
+| lastappeared={{tfoh|30}}
+| living=tfoh
+| hair=Shaved
+}}'''Daricain Annallin''' is from the [[Cairhienin]] [[House Annallin]]. 
+
+==Appearance==
+He is a pale, slender man with a narrow face and long nose and has the shaved head of a Cairhienin soldier.
+
+==History==
+He is a lieutenant. His ''[[con]]'' has red and black squares all over it. 
+
+==Activities==
+[[File:Daricain Annallein con.jpg|thumb|left|100px|Daricain Annallin's ''con'']]
+He is sent from Cairhien when it is attacked by the [[Shaido]] and finds [[Rand al'Thor]] and the rest of the [[Aiel]].
+
+{{DEFAULTSORT:Annallin, Daricain}}
+[[Category:Nobility]]

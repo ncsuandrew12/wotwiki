@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Character
+| Description        = [[King]] [[Laman Damodred]].
+| Source             = ''[[New Spring 3]]''
+| Artist             = Mike S. Miller
+}}

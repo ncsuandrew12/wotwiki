@@ -1,0 +1,58 @@
+{| id="w" width="100%" style="background: transparent; "
+| valign="top" width="50%" style="background: #242424; border: 2px solid #FFFFFF; padding: .5em 1em; -moz-border-radius: 1em"|
+== Welcome,  {{<includeonly>subst:</includeonly>PAGENAME}}! ==
+[[File:WOTcalendarlogo.png|right|375px]]
+Hello, and [[Wotwiki:Community Portal|welcome]] to '''{{SITENAME}}'''!. Thanks for your edit to the [[:Elmindreda Farshaw]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[Help:Contents|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! [[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 20:10, January 31, 2020 (UTC)
+|}
+
+Hi,
+
+I've seen your edit on the Valan Luca page. Can you please give a reference from which book/chapter you got that info?
+
+Thanks&Best, :)
+
+S.
+
+
+
+Sorry, I checked the page for another detail and added it from memory. Currently on KoD in my current read-through. I'll have to check back on which book/chapter has a solid example, though cape flourishing seems so ubiquitous to his character that I could pick by throwing a dart at any scene he's in.
+
+--[[User:Crazycarl864|Crazycarl864]] ([[User talk:Crazycarl864|talk]]) 21:14, April 29, 2020 (UTC)
+
+== casting ==
+
+Thanks for keeping up with the casting announcements and creating pages as needed! -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 18:03, August 19, 2020 (UTC)
+
+
+
+
+
+
+
+------------------------------
+
+Hi, 
+
+thanks for the Jain Farstrider typo notice, I fixed it. :)
+
+Best,
+
+S.[[User:Sophiae.seraphim|Sophiae.seraphim]] ([[User talk:Sophiae.seraphim|talk]]) 20:27, August 21, 2020 (UTC)
+
+===Edit War===
+I'm being vehement about those edits staying because 1, they do accurately convey her personality, and 2, they're not my edits, and this guy just showed up and started deleting accurate information. If he had edited it to make it more clear, I would have been fine with that, but he just showed up and deleted everything he didn't like. 
+
+I'm not saying that the description of her is perfect, but the information in it is correct even if there are some opinions. If he reworked it to be a little less biased, that would be fine, but he seems to believe that the only solution is the deletion of correct information. I can't support that, so I keep undoing his edits.

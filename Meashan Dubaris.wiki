@@ -1,0 +1,20 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| ewot=Meashan
+| affiliation=Council of Merchants
+| occupation =Merchant
+| nationality=Arad Doman
+| gender=Female
+| status=Dead
+| death={{ne|1000}}
+| mentioned={{tgs|31}}
+| lastmentioned={{tgs|31}}
+}}
+'''Meashan Dubaris''' was a member of the [[Domani]]'s [[Council of Merchants]].  
+
+== Activities ==
+She was murdered by a mob in Arad Doman.
+
+{{short}}
+{{DEFAULTSORT:Dubaris, Meashan}}

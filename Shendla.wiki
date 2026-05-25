@@ -1,0 +1,24 @@
+{{character 
+| image=WyldSymbol.png
+| imagesize=100px
+| status=Alive
+| nationality=Sharan
+| rank=Ayyad
+| affiliation=Bao the Wyld
+| gender=Female
+| appeared={{amol|37}}
+| lastappeared={{amol|38}}
+| living=amol
+}}'''Shendla''' is a [[Sharan]] female [[channeler]], one of leaders of the [[Ayyad]]. [[Demandred]] considered her devious, capable, and powerful.{{ref|{{twotc}}, Shendla}} Demandred felt affection for her, something that surprised him.
+
+== Activities ==
+While [[Demandred]] was establishing himself as Bao the Wyld in [[Shara]], Shendla developed a relationship with him. While she is not a [[Darkfriend]], she fought alongside the [[Forsaken]] and [[Shadowspawn]], believing that they could save her people if they won.{{ref/book|14|37}} She also truly loved Demandred.
+
+<nowiki> </nowiki>After Demandred is killed by [[Lan Mandragoran]], Shendla announces his death to her people.{{ref/book|14|38}}
+
+{{notes}}
+{{short}}
+[[Category:Channelers]]
+[[Category:Ayyad]]
+[[Category:POV character]]
+[[Category:Dreadlords]]

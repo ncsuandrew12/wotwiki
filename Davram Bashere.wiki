@@ -1,0 +1,80 @@
+{{featuredicon}}{{for|others with the same surname|Bashere}}
+{{character
+| image=Davram bashere karaburrito.png
+| imagesize=250px
+| status=Dead
+| nationality=Saldaean
+| rank=Marshal-General
+| name=Davram t'Ghaline Bashere
+| title=Lord of [[Bashere]], [[Tyr]] and [[Sidona]], [[Guardian of the Blightborder]], [[Defender of the Heartland]]
+| gender=Male
+| weight=Slender
+| height=5'7" or 170 cm
+| hair=Gray streaked black
+| eyes=Tilted dark
+| mentioned={{Tsr|13}}
+| appeared={{Tfoh|56}}
+| lastappeared={{amol|37}}
+| lastmentioned={{amol|e}}
+| ewot=d_bashere
+}}
+'''Davram t'Ghaline Bashere''', was the the Lord of [[Bashere]], [[Tyr]] and [[Sidona]], [[Guardian of the Blightborder]], [[Defender of the Heartland]], [[Marshal-General]] to [[Queen]] [[Tenobia]] of [[Saldaea]], and her uncle. {{ref/book|4|41}} He was counted among the [[Five Great Captains]] of the [[New Era]]. In the summer of 1000NE he was killed in battle on the [[Field of Merrilor]] during [[Tarmon Gai'don]].
+
+== Appearance ==
+He was short and slender. He had gray streaked black hair and a thick mustache that curled around his mouth. He had tilted dark eyes.
+
+== History ==
+He was counted as one of the [[Five Great Captains]], and had defended the Blightborder since before [[Tenobia]] became Queen. In fact, he was one of her chief advisors during her reign, often displeasing her enough for brief periods of exile to the countryside.
+
+His skill as a Great Captain may come in part to his earlier service under the command of the mad [[Muad Cheade]], who was never defeated. His strategy and skill in battle was great, and he had only been known to have been defeated in battle against [[Mazrim Taim]], and his powerful channeling. He also hated [[Mazrim Taim]] for burning [[Saldaea]], as many Saldaeans did.
+
+==Activities==
+=== Service to the Dragon Reborn ===
+In [[999 NE]], he was dispatched by Queen [[Tenobia]] to capture (or more likely kill) [[Mazrim Taim]], after it was discovered that he had escaped from the [[White Tower]]. Inexplicably, once he came south, he came to [[Caemlyn]] and swore fealty to the [[Dragon Reborn]], possibly due to some ''[[ta'veren]]'' twist of the [[Pattern]], or simply by his choice. In truth, he follows the Dragon Reborn because of who he is and what he has to do, as he once followed a madman who was the best general at the time. So utterly loyal is he to his oath and his liege-lord, that he even tolerates the continued life of [[Mazrim Taim]], a man he was tasked to capture or slay.
+
+Since swearing fealty, Lord Bashere has been one of [[Rand al'Thor]]'s most trusted advisors. His skill as a general is often put to the test in his service; He was one of three to know of Rand's original plan to take [[Illian]], and indeed had a hand in its making. Rand has also placed him in charge of [[Andor]] with [[Bael]] while he waits for [[Elayne Trakand]] to arrive and take the [[Lion Throne]]. He meets [[Perrin Aybara]] for the first time in Caemlyn after Perrin had married Faile. He likes what he sees in Perrin and likes the idea of "fresh blood" in the family line.
+
+=== Campaign against Illian and the Seanchan ===
+Rand meets with Davram after Rand had been rescued from the [[White Tower]] [[Aes Sedai]], and initiates the strike on [[Illian]].
+
+Davram also came up with the strategy that hounded the larger [[Seanchan]] forces as they maneuvered to take [[Illian]]. 
+When Rand is struck by a crossbow bolt and is surrounded by Seanchan, Bashere manages to rally his men with [[Gregorin den Lushenos]] and rout the Seanchan force. He leads [[Manel Rochaid]], [[Jeordwyn Semaris]], [[Amondrid Osiellin]] and [[Gueyam]] into the final assault on the Seanchan. When Rand loses control of ''[[Callandor]]'', Bashere manages to tackle him and knock it out of his hands before he kills all the Seanchan as well as his own army.
+
+He then takes command of Rand's forces in Caemlyn again but is told to withdraw them from the city by [[Elayne Trakand]]. While camped outside the city, Deira is stabbed when she walks in on a burglary attempt. The burglars escape but then are found dead outside the camp perimeter.
+[[File:Davram bashere karaburrito.png|thumb|264x264px|Davram Bashere]]
+
+=== Truce with the Seanchan ===
+He then Travels with [[Loial]] and [[Logain Ablar]] to find Rand in [[Tear]]. 
+Representative of the trust Rand holds in him, he was part of the embassy that was eventually sent to negotiate peace with the [[Seanchan]], and also the keeper of one of the [[seven Seals]].{{verify}}
+
+He joins Rand to his meeting with who he thought was the [[Daughter of the Nine Moons]]. Bashere warns Rand of the probability of the meeting being a trap.
+
+He and his men Travel to [[Arad Doman]] where they stay with Rand at Lord [[Tellaen]]'s manor. He is at the meeting with Rand and the Aiel Clan Chiefs when Rand gives the order for the Aiel to capture the [[Council of Merchants]]. Later he is sent to the real [[Daughter of the Nine Moons]] to request her to meet with Rand.
+
+Bashere reports to Rand that [[Milisair Chadmar]] and the rest of the Council of Merchants have been returned to their estates.
+He Travels to [[Maradon]] with [[Naeff]]. There they find the city on the brink of defeat to the [[Shadow]]s forces. [[Rodel Ituralde]] is found alive with a remnant of his men still fighting the Trollocs. Bashere's forces manage to repel the Trollocs from the city but spy a massive gathering of them forming just outside. Bashere declares that the city needs to be abandoned but Rand steps in and disagrees. Bashere witnesses the Dragon Reborn Travel behind the Trollocs forces and completely annihilate them with a storm of weaves. They then Travel back to Tear and watch Ituralde reunite with his king [[Alsalam Saeed Almadar]].
+
+=== The Last Battle ===
+At the [[Field of Merrilor]], [[Elayne Trakand]] sets up an initial war council. There it is decided that as one of the [[Great captain]]s, Bashere will command the army sent to defeat the Trollocs in [[Caemlyn]]. He uses gateways to fill many houses in Caemlyn with oil, and then lighting it, forcing the shadowspawn to leave exit the walls. Bashere manages to convince Elayne to announce to her army that she is in-fact carrying the Dragon Reborn's unborn babies. This was to give something more for the men to fight for. Under his command his forces lure the Trollocs into [[Braem Wood]]. Once inside Bashere utilizes guerrilla tactics to try to destroy the Trollocs, but his forces are pushed back, as the Trollocs adapt.
+
+Bashere suggests crossing over to [[Cairhien (city)|Cairhien]], then turning about to make a stand with City's walls at their backs. However, Bashere failed to realize that the fades leading the Trollocs army will push hard, splitting their force in two, sending one half ahead to Cairhien, which was left without defenders in order to bolster the force in Andor. Now facing with one army ahead and one behind, Bashere leads the army to try and destroy the northern force threatening the city as quickly as possible before the southern force catches up. Exhausting the Kin channelers with them, Bashere's army succeeds in surrounding the northern force, yet the southern force catches up earlier than expected. Tam al'Thor, made one of the commanding officers of the army, accuses Bashere of betrayal, revealing that Bashere had forged the scouts' reports in order to conceal the advancement of the southern force. The army is now in a trap and have no way to retreat by gateways. Bashere denies, but the truth comes out and Elayne is forced to condemns him as a darkfriend, removing him from command.
+
+It is later revealed by Perrin that [[Graendal]] used [[Compulsion]] on all of the great captains. However, since the only channeler in the forces of the light who knows how to detect it and remove, [[Nynaeve al'Meara|Nynaeve]], is occupied at [[Shayol Ghul]] with Rand, the Compulsion cannot be removed. Bashere still wishes to serve, and it seems that he was compelled only to lead the army to ruin, and not to serve the Shadow completely. He fights on, but not as a commander. After the fall of Queen Tenobia he refuses to take the crown of Saldea, instead calling its troops to follow the orders of Lan. He later falls, along with his wife, in a cavalry charge against the forces of the Shadow in the Field of Merrilor.
+
+==Family==
+Davram Bashere is the uncle (erroneously called "cousin" in TGS ch. 22, p.&nbsp;342) of Queen [[Tenobia]]. He is also the father of [[Zarine ni Bashere t'Aybara]], also known as [[Faile]]; [[Maedin Bashere]]; and possibly others of whom no sign has been seen. He is also father-in-law to the [[Wolfbrother]] [[Perrin Aybara]].
+
+==Parallels==
+The names, Tyr and Sidona are strongly reminiscent of two Phoenician city-states that existed B.C.E; Tyre and Sidon. Both survive to this day in the current nation of Lebanon.
+
+{{notes}}<references />
+{{Primary Protagonists}}
+{{DEFAULTSORT:Bashere, Davram t'Ghaline}}
+
+[[es:Davram Bashere]]
+[[Category:Lords]]
+[[Category:Generals]]
+[[Category:Five Great Captains]]
+[[Category:POV character]]
+[[Category:Nobility]]
+[[Category:High Seats]]

@@ -1,0 +1,24 @@
+{{creature 
+| image=112A521A-341E-43E4-B062-DB45B9855249.jpeg
+| imagesize=100px
+| name=Arrow
+| ewot=arrow2
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Birgitte Silverbow
+| gender=Gelding
+| color=Gray
+| appeared={{wh|7}}
+| mentioned=
+}}
+{{dablink|For other uses of the word "arrow," see [[Arrow]].}}
+'''Arrow''' is the name of [[Birgitte Silverbow]]'s horse. 
+
+==Appearance==
+Arrow is a lean gray [http://en.wikipedia.org/wiki/Gelding gelding].
+
+==Activities==
+Arrow carries Birgitte all throughout [[Caemlyn]] during the [[Succession Wars|succession]].{{ref/book|9|7}}{{ref/book|11|31}}{{ref/book|11|32}} Arrow also carries Birgitte to the meeting with the [[Borderlands|Borderlanders]].{{ref/book|9|27}}
+
+{{notes}}

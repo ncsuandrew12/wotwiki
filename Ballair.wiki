@@ -1,0 +1,21 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| status=Dead
+| nationality=Unknown nationality
+| ajah=Unknown
+| rank=Aes Sedai
+| gender=Female
+| mentioned={{loc|26}}
+| lastmentioned={{bwb}}
+}}
+'''Ballair''' was an [[Aes Sedai]] of unknown [[Ajah]].
+
+==History==
+During the [[War of the Hundred Years]], [[Ishara]] of [[Andor]] sent her eldest daughter to study in the [[White Tower]]. For her show of support of the Tower, she was granted Ballair as an [[Aes Sedai advisors|advisor]].
+
+Ballair became the first Aes Sedai adviser since the dismissal by [[Artur Hawkwing]] of all Aes Sedai holding posts across his realm.
+[[Category:Historical people]]
+[[Category:Aes Sedai (Free Years)]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

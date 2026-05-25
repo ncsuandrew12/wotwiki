@@ -1,0 +1,28 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=150px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Farrier
+| affiliation=Perrin Aybara
+| gender=Male
+| appeared={{tom|2}}
+| lastappeared={{tom|2}}
+| living=tom
+}}'''Fennel''' is a farrier in [[Perrin Aybara]]'s army.{{ref|{{twotc}}, Fennel}}
+
+== Appearance ==
+He has wide-shoulders.{{ref/book|13|2}}
+
+== Activities ==
+Although his nationality is not listed in the books or [[The Wheel of Time Companion]], he is likely Cairhienin like the three other named farriers in Perrin's army [[Aemin]], [[Falton]] and [[Jerasid]].{{ref|{{twotc}}, Aemin}}{{ref|{{twotc}}, Falton}}{{ref|{{twotc}}, Jerasid}}
+
+He is one of six farriers with Perrin's army in [[Ghealdan]]. Presumably they were hired after Rand and he return from the [[Battle of Dumai's Wells]] and before Rand sends Perrin to meet with Queen [[Alliandre Maritha Kigarin]].{{ref/book|8|9}}
+
+He is part of the group sent forward by Perrin while traveling through [[Ghealdan]]. He waits behind for Perrin, to inform him where the forward group has traveled to.{{ref/book|13|2}}
+
+==Trivia==
+*Fennel is named after Vincent Fennel, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

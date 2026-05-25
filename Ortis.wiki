@@ -1,0 +1,21 @@
+{{ character 
+| image=MayeneFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Mayener
+| rank=Squadman
+| occupation=Soldier
+| affiliation=Mayene
+| gender=Male
+| appeared={{tpod|10}}
+| lastappeared={{tpod|10}}
+| living=tpod
+}}
+'''Ortis''' is a Squadman of the [[Winged Guards]] of [[Mayene]]. 
+
+== Appearance ==
+He has a burn on one cheek and a scar at the corner of his mouth. He is in his middle years.
+
+== Activities ==
+While in [[Ghealdan]] he reports on a group of [[Dragonsworn]] murdering innocent people.
+[[Category:Winged Guard]]

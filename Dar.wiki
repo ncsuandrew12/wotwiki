@@ -1,0 +1,20 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=Dar
+| status=Alive
+| gender=Male
+| nationality=Andoran
+| occupation=Watchman
+| appeared={{teotw|17}}
+| lastappeared={{teotw|17}}
+| living=teotw
+}}
+
+'''Dar''' is a Watchman from [[Baerlon]].
+
+==Activities==
+
+Dar and [[Arin]] open one of the city's gates to help [[Rand]] and the rest of the group escape the city. However they are interrupted by the [[Children of the Light]]. They hesitate but, under orders from a superior, they open and close the gates before the Children can cause any harm.
+
+{{short}}

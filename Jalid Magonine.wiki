@@ -1,0 +1,17 @@
+{{character
+| image=SeanchanFlag.png
+| imagesize = 250px
+| occupation=Craftsman
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| mentioned={{cot|4}}
+| lastmentioned={{cot|4}}
+| living=cot
+}}'''Jalid Magonine''' was a craftsman in [[Ancarid]], [[Seanchan]].{{ref|{{twotc}}, Jalid Magonine}}
+
+He owned weavers, including [[Furyk Karede]]'s family.
+
+{{notes}}
+{{Short}}
+{{DEFAULTSORT:Magonine, Jalid}}

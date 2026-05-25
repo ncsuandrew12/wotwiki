@@ -1,0 +1,34 @@
+{{ character 
+| image=TearFlag.png
+| imagesize=250px
+| nationality=Tairen
+| gender=Male
+| title=Lord
+| rank=High Lord
+| build=Thick
+| status=Alive
+| mentioned={{tsr|4}}
+| appeared={{tsr|8}}
+| lastappeared={{tgs|42}}
+| living=tgs
+}}
+'''Tedosian''' is a [[High Lord]] of [[Tear]]. Lady [[Alteima]] is his wife. 
+
+== Appearance ==
+He is described as having a thick body.
+
+== Activities ==
+High Lord Tedosian is first mentioned when [[Thom]] forges a note from High Lord [[Carleon]] to Lady [[Alteima]] with the intention that the note be found by High Lord Tedosian.{{ref/book|4|4}} He attended a meeting with [[Rand]] along with High Lords Carleon, [[Sunamon]] and [[Meilan]]. Rand noticed he and Carleon were avoiding looking at eachother.{{ref/book|4|8}}
+
+He kills Carleon in a "hunting accident". Later his wife poisons him and now is the only one who will feed him and look after him, keeping him in his sickbed. His wife is sent with the Army of Tear to [[Cairhien]], and while she is away, he is to recover in the High Lady [[Estanda]]'s apartments.
+
+Later in open rebillion and treason he goes to hide out in [[Haddon Mirk]]. He is convinced to do this by [[Sebban Balwer]]'s agents, who in turn is working for [[Pedron Niall]].
+
+He moves his forces to Tear, where he lays siege to the [[Stone of Tear]]. He agrees to dissolve the siege if [[Darlin Sisnera]] is made king of Tear. As punishment he has to pay the city a year for food, but is allowed to retain all his lands and titles.
+
+He greets Rand with King Darlin when Rand withdraws his forces from [[Arad Doman]] back into Tear.
+
+{{notes}}
+[[es:Tedosian]]
+[[Category:High Nobility of Tear]]
+[[Category:Nobility]]

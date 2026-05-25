@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Item
+| ImageType2         = CCG
+| Description        = The [[Wheel of Time]] weaving the universe.
+| Source             = The "[[Premier]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Ron Rousselle
+}}

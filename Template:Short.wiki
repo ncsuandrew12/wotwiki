@@ -1,0 +1,8 @@
+<onlyinclude><div class="notice metadata" id="stub" style="clear:both; border: 1px solid #fff; text-align: center; font-style: italic; font-size: 80%;">
+This is a [[:Category:Short pages|short page]]. It is considered substantively complete based on the limited information available in the source material. Please '''do not add''' {{tl|stub}}.
+</div><includeonly>[[Category:Short pages| ]]</includeonly></onlyinclude>
+
+==Usage==
+Add <code><nowiki>{{short}}</nowiki></code> to the '''bottom''' of the article after all of the content.
+Any article that is less then '''500 Kbytes''' is considered a short article if it is not a legitimate {{tl|stub}}.
+[[Category:Administrative templates|{{PAGENAME}}]]

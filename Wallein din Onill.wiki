@@ -1,0 +1,17 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| nationality=Atha'an Miere
+| gender=Female
+| rank=First Twelve
+| affiliation=Atha'an Miere
+| status=Alive
+| appeared={{kod|22}}
+| lastappeared={{kod|22}}
+| living=kod
+}}'''Wallein''' is an ''[[Atha'an Miere]]'' [[Wavemistress]] and one of the [[First Twelve]].{{ref|{{twotc}}, Wallein din Onill}}
+
+== Activities ==
+She attends the meeting of the First Twelve with [[Rand al'Thor]]'s ambassador [[Logain Ablar]]. Near the end of the meeting [[Cemeille din Selaan Long Eyes]] interrupts with the news of the [[Amayar]] committing mass suicide.{{Ref/book|11|22}}
+
+{{Notes}}

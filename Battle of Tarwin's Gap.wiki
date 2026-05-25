@@ -1,0 +1,23 @@
+{{infobox battle
+|battle= Battle of Tarwin's Gap
+|release = 
+|image = 
+|caption = 
+|location = [[Tarwin's Gap]]
+|date = [[998 NE]]
+|result = Shienaran victory
+|comba = [[Shienar]]
+|combb = [[Shadowspawn]]
+|cmda = [[Easar Togita]]<br>[[Agelmar Jagad]]
+|cmdb = [[Ba'alzamon]]
+|stra = 
+|strb = 
+|casa = 
+|casb = 
+|}}
+
+The '''Battle of [[Tarwin's Gap]]''' was an engagement between the forces of [[Shienar]] and invading [[Shadowspawn]]. Although the Shienaran forces were severely outnumbered, they emerged victorious when [[Rand al'Thor]] emerged as [[Dragon Reborn]] at the [[Eye of the World]] and destroyed much of the Shadowspawn army.
+
+Prior to the battle, the situation had looked bleak to the Shienarans, with [[Agelmar Jagad]] being pessimistic about the chances of victory. Nevertheless, the Shienarans were determined to either stop the invasion at Tarwin's Gap, or die trying. In the end, the Shienaran army had to do very little fighting before the Shadowspawn were forced to flee.
+
+[[Category:Battles]]

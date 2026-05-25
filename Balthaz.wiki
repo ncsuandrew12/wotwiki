@@ -1,0 +1,25 @@
+{{Character
+| image=TarabonFlag.png
+| imagesize=250px
+| affiliation=
+| occupation =
+| title=Lord
+| nationality=Taraboner
+| gender=Male
+| build=
+| height=
+| hair=
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+}}
+
+'''Balthaz''' is a nobleman of [[Tanchico]].
+== History ==
+Balthaz is the owner of the [[Crescent Palace]], a very large and ornate residence. When he is absent from the city to visit his country estates in the west, he lets his estate to [[Belyne]] Sedai and two of her companions.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]
+[[Category:Nobility]]

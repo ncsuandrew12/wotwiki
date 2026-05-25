@@ -1,0 +1,26 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|355}}
+| ajah=White
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Aliane Senican''' was an [[Aes Sedai]] of the [[White Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|332}}.
+
+==History==
+Aliane held the position for twenty-three years until her death in {{Ne|355}}. She was [[Doniella Alievin]]'s successor and [[Suilin Escanda]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+Aliane began as a strong Amyrlin, but her notions of running things according only to logic (and her rages when others failed to see her logic) led by {{ne|339}} to her becoming not so much a puppet of the [[Hall of the Tower|Hall]] as ignored by them except when she had to be trotted out for ceremonies.
+
+{{notes}}
+{{DEFAULTSORT:Senican, Aliane}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

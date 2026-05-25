@@ -1,0 +1,54 @@
+{{character 
+| image=GreenBlack.png
+| imagesize=250px
+| ajah=Green
+| nationality=Andoran
+| gender=Female
+| affiliation= Black Ajah
+| occupation=Sitter
+| rank=Aes Sedai
+| height=Tall
+| build=Statesque
+| hair=Golden
+| eyes=Blue
+| status=Unknown
+| appeared={{acos|32}}
+| lastappeared={{kod|p}}
+| lastmentioned={{tgs|46}}
+| living=kod
+|birth = {{ne|840}}}}
+'''Talene Minly''' was an [[Aes Sedai]] and a [[Sitter]]. She belongs to the [[Black Ajah]], posing as a sister of the [[Green Ajah]].
+
+== Appearance and Personality==
+She is described as being statuesque with golden hair. She has blue eyes and is beautiful, with a perfect oval face, full red lips, full-bosomed and round of hip. [[Seaine Herimon|Seaine]] thought of her as "beauty carved from ice", though this thought came at a time of tension. Talene could be very personable and charming, though she hated deferring to anyone or to be less than another in any way whatsoever.
+
+== Strength and Abilities ==
+Talene has a One Power strength of {{opsl|21}}, which is [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai. 
+
+While she is strong enough to [[Travel]], there is no way she would have been able to learn the weave.
+
+==History==
+Talene is 160 years old. She was born in {{ne|840}} and grew up as the daughter of a farmer in [[Andor]]. She went to the [[White Tower]] in {{ne|855}} and spent six years as a [[novice]] and six years as [[Accepted]], being raised to the [[shawl]] in {{ne|867}}. She had a record as perhaps the most punished novice and Accepted in history, and would have risen faster had she not been such a discipline problem.
+
+She was friends with [[Seaine Herimon|Seaine]], and jealous of Seaine's pillow friendship with [[Pevara Tazanovni|Pevara]]. It was not a sexual thing; she was just jealous that Pevara and Seaine had a closer friendship. She also disliked that Pevara was stronger than she was in the Power.
+
+She had never had more than one Warder at a time, and all had been Darkfriends. As a Sitter, she had no Warder, claiming that a Sitter had no need of one.
+
+==Activities==
+She was one of the [[Sitters]] who voted in favor of the deposition of [[Siuan Sanche]]. Elaida would give her a penance scrubbing floors. She leads [[Saerin Asnobar|Saerin]], [[Yukiri Haruna|Yukiri]] and [[Doesine Alwain|Doesine]] to find out why Seaine and Pevara are sneaking around. She had been ordered by the Black Ajah to find out why the Ajah Heads were at each others' throats in public but sneaking around together in private, and suspected that Seaine and Pevara were involved.
+
+She is exposed as Black Ajah by the [[Black Ajah Hunters]] when she refuses to reswear her [[Three Oaths]] on the [[Oath Rod]]. After being subjected to the [[Chair of Remorse]] several times, she is forced to renounce her oaths taken as Black Ajah and reswear the Three Oaths. She then betrays the other members of her heart, [[Galina Casban]] and [[Temaile Kinderode]], as well as naming [[Atuan Larisett]] as Black Ajah. {{Ref/book|9|p}}
+
+She is present when [[Elaida do Avriny a'Roihan]] grants the Sitters' requests to begin negotiations with the [[Rebel Aes Sedai|Salidar Aes Sedai]]. When Elaida asks Talene's opinion on negotiations, she looks to [[Yukiri]] and [[Doesine Alwain]], two of the Hunters. [[Alviarin Freidhen]] had just returned to the [[White Tower]] to witness this exchange, which has started her following up on who is hunting the Black Ajah.
+
+She is adamant that she walks in the Light again. 
+She is called to a Black Ajah Supreme Council meeting, but is terrified of turning up as she is positive she will be killed there. [[Saerin Asnobar]] hides her in a room in the lower basement of the White Tower.
+
+She flees the White Tower before the [[Battle of Tar Valon]]. Ultimately her fate is undisclosed. It is likely that she hid during the [[Last Battle]] or was found by the [[Shadow]] and killed. Because she failed to show up before the Supreme Council, she would be killed if found.
+
+{{Notes}}
+{{DEFAULTSORT:Minly, Talene}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

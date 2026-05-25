@@ -1,0 +1,73 @@
+A '''sept''' is a subdivision of the [[Aiel]] [[clan]]s. Aiel can be of the same clan, but different septs. Each clan has different septs. For example, Jindo is a sept of the Taardad and no other clan would have a Jindo sept. While these are the known septs, it is possible that there are many that are known only within each clan.
+
+While it is not known how many septs a clan normally has, the Shaido has had as many as eighty-three septs '''{{wh|4}}.'''
+
+=== List of Septs by clan ===
+{| cellspacing=5
+|
+* '''[[Chareen]]'''
+** [[Cosaida]]
+** [[Jarra (sept)|Jarra]]
+** [[White Mountain]]
+*'''[[Codarra]]'''
+** [[Jaern Rift]]
+*'''[[Daryne]]'''
+** [[Bent Peak]]
+** [[Shelan]]
+* '''[[Goshien]]'''
+** [[High Plain]]
+** [[Jhirad]]
+** [[Mosaada]]
+** [[Red Salt]]
+** [[Red Water]]
+** [[Stones River]]
+*'''[[Miagoma]]'''
+** [[Cold Peak]]
+** [[Smoke Water]]
+** [[Spine Ridge]]
+|
+*'''[[Nakai]]'''
+** [[Black Cliffs]]
+** [[Black Water]]
+** [[Salt Flat]]
+*'''[[Reyn]]'''
+** [[Musara]]
+** [[Two Spires]]
+* '''[[Shaarad]]'''
+** [[Black Rock]]
+** [[Haido]]
+** [[Imran]]
+*'''[[Shaido]]'''
+** [[Domai]]
+** [[Green Salts]]
+** [[Jonine]]
+** [[Jumai]]
+** [[Morai]]
+** [[Moshaine]]
+** [[White Cliff]]
+|
+*'''[[Shiande]]'''
+** [[Degalle]]
+** [[Neder]]
+*'''[[Taardad]]'''
+** [[Bitter Water]]
+** [[Bloody Water]]
+** [[Chumai]]
+** [[Four Holes]]
+** [[Four Stones]]
+** [[Iron Mountain]]
+** [[Jagged Spire]]
+** [[Jindo]]
+** [[Miadi]]
+** [[Nine Valleys]]
+*'''[[Tomanelle]]'''
+** [[Jenda]]
+** [[Serai]]
+** [[Shorara]]
+|}
+
+==Origin==
+The word ''sept'' comes from real-world Irish and Scottish [[wikipedia:sept|origins]] where it is used in the context of the division of a family or clan.
+
+[[Category:Aiel septs| List of Aiel Septs]]
+[[Category:Aiel culture]]

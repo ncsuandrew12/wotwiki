@@ -1,0 +1,36 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|922}}
+| ajah=Green
+| nationality=Far Madding
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}{{for|the similarly named [[First Counsel]] of [[Far Madding]]|Aleis Barsalla}}
+'''Aleis Romlin''' was an [[Aes Sedai]] of the [[Green Ajah]] who was raised to the [[Amyrlin Seat]] in the year {{Ne|890}}.
+
+==History==
+Her name indicates that she was from [[Far Madding]], "Aleis" being a Far Madding female name, and ''-in'' a common Far Madding surname ending.
+
+Aleis held the position for thirty-two years until her death in {{Ne|922}}. She was [[Sereille Bagand]]'s successor and [[Kirin Melway]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+After the death of her predecessor, there was talk of raising [[Cadsuane Melaidhrin]] instead of Aleis. Cadsuane, wanting to avoid this, stayed away from the [[White Tower|Tower]] for an entire ten years.
+
+The last judicial [[stilling]] of a woman before the deposition and stilling of [[Siuan Sanche]] and [[Leane Sharif]] took place before {{ne|899}}, and therefore possibly under Aleis' reign, but the woman's name and her subsequent crime(s) are not known. It is also possible that the last woman or women to be stilled were the ones trying to overthrow Sereille Bagand.
+
+Aleis is considered quite a weak Amyrlin. Sha had a strong personality but she was lacking all the proper abilities needed in the troublesome politics of the Tower, a fact that probably influenced the [[Sitter]] in her election. She had no true interest in ruling the White Tower and no ability in administration or consensus making.
+
+Aleis herself wanted only to be out in the world, involved especially in warfare; the secret records reported that she was watched closely and several times stopped from leaving [[Tar Valon]] or involving Aes Sedai in some of the wars that blew up in the continent.
+
+Finally all those unsuccessful attempts, coupled with her knowledge that she was entirely unsuited for the position, forced her to cooperate with the [[Hall of the Tower|Hall]], if somehow sullenly.
+
+{{notes}}
+{{DEFAULTSORT:Romlin, Aleis}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

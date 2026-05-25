@@ -1,0 +1,10 @@
+A '''banner''' is a [[:Category:Military units|military unit]] led by a [[Banner-General]]. There are two types of banners, foot and horse.
+
+==Foot==
+A banner of foot consists of three thousand men divided into twelve [[Company|companies]] which in turn are divided into five [[squad]]s.
+
+==Horse==
+A banner of horse consists of roughly fifteen hundred [[cavalry]] divided into three [[squadron]]s which in turn are divided into ten [[troop]]s.
+
+{{short}}
+[[Category:Military units]]

@@ -1,0 +1,28 @@
+{{ character 
+| image=TarValonFlag.png
+| imagesize=250px
+| nationality=Unknown nationality
+| death={{ne|1000}}
+| gender=Female
+| status=Dead
+| occupation=Maid
+| affiliation=Rebel Aes Sedai
+| eyes=Dark
+| hair=Dark
+| mentioned={{acos|8}}
+| appeared={{acos|11}}
+}}
+{{dablink|For the similarly named [[Murandy|Murandian]] [[nobility|noble]], see [[Meri do Ahlan a'Conlin]].}}
+'''Meri''' was a maid in [[Salidar]]. 
+
+==Appearance and personality==
+She had a pinched nose, down turned mouth, dark eyes and black hair.
+
+Egwene thinks she was poorly named as she was not a bit "merry" and was as disapproving of faults in herself as others.{{Ref/book|8|16}}
+
+==Activities==
+[[Romanda Cassin]] provided her maid Meri to serve [[Egwene al'Vere]] and report back anything she could find out. She woke Egwene and helped her get ready for the day when Egwene was adorned the stole and staff.
+
+Chesa, Egwene's other maid, brings her evening meal late one day and complains that Meri seems to have "wandered off".{{Ref/book|8|16}}
+
+She was actually murdered by [[Halima Saranov]], who disposed of the body by smuggling it out of the rebel camp.{{Ref/book|8|15}}

@@ -1,0 +1,34 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=200px
+| nationality=Andoran
+| status=Alive
+| gender=Male
+| affiliation=Logain Ablar
+| rank=Soldier (Asha'man)
+| occupation=Asha'man
+| appeared={{tsr|33}}
+| lastappeared={{tom|46}}
+| living=tom
+}}
+{{Dablink|For others with the name first name, see [[Jaim]]. For others with the same surname, see [[Torfinn]].}}
+
+'''Jaim Torfinn''' was a young [[Two Rivers]] man who was considered to be a good shot with a bow and arrow.{{ref|{{twotc}}, Jaim Torfinn|JT}} He could learn to channel and became a Soldier within the [[Asha'man]].
+
+== Appearance ==
+He was spindly, with dusty brown hair.{{Ref||JT}}
+
+== History ==
+His family's farm lay between [[Emond's Field]] and [[Watch Hill]]. When Perrin perusaded the [[Torfinn]]s to go to Emond's Field, Jaim joined Perrin's band. Later Perrin sent him back to Emond's Field and Jaim was not happy about that while the others could be heroes. He missed the ambush in the [[Waterwood]] and was thereafter reluctant to join the Companions.
+
+It is possible that he is the brother of [[Jancy Torfinn]], a [[novice]] with the [[Rebel Aes Sedai]].
+
+== Activities ==
+He joined to [[Perrin Aybara]] to rescue the prisoners taken by the [[Children of the Light]] when they were in the Two Rivers. He also helped to defend [[Emond's Field]] against the invading [[Trolloc]] army.{{ref/book|4|56}} Since he was capable of learning to channel he was recruited by [[Taim]] for the [[Black Tower]].
+
+He interacted with [[Androl]] while he gave them some advice on how to dig a canal right with the [[One Power]] while he was leading a team of mostly Two Rivers channelers in clearing land within the [[Black Tower]] with ''[[saidin]]''.
+
+{{notes}}
+{{DEFAULTSORT:Torfinn, Jaim}}
+[[Category:Two Rivers (people)]]
+[[Category:Channelers]]

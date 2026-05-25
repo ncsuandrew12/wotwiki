@@ -1,0 +1,34 @@
+==Welcome!==
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to '''A Wheel of Time Wiki'''!. Thanks for your edit to the [[:Uno Nomesta]] page. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+* '''Local:'''
+**[[Help:Style guide|Detailed style guide (in progress)]]
+**[[project:Be bold|Be bold! We need your help!]]
+**[[Help:Edit_summary|Leave an edit summary when you make changes]]
+**[[:Category:Help|All help pages]]
+*'''Wikipedia:'''
+**[[m:Help:Editing|How to edit a page]]
+**[[Wikipedia:Wikipedia:Tutorial|Tutorial]]
+**[[Wikipedia:Wikipedia:Five pillars|The five pillars of Wikipedia]]
+**[[Wikipedia:Wikipedia:How to write a great article|How to write a great article]]
+I hope you enjoy editing here and helping us get this project started. By the way, please be sure to [[Help:Sign_your_posts_on_talk_pages|Sign your comments on talk pages]], using four tildes (&#126;&#126;&#126;&#126;) to produce your name and the current date, or three tildes (&#126;&#126;&#126;) for just your name. If you have any questions, please don't hesitate to contact [[:Category:Administrators|one of us]] for more information! -- [[User:Optimous|Optimous]] ([[User_talk:Optimous|Talk]]) 05:30, December 7, 2009
+
+== Preview button ==
+
+First, thanks for the upload of the picture of Uno. I am a big fan of Seamas' work. In the future, though, try and use the "Preview Button" near the "Save Button". It will let you see what the page will look like without having to save it. Thanks again and let me know if you have any questions! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:48, December 7, 2009 (UTC)
+:They way you uploaded the file is fine. It has is website there and that should be sufficient. I'll ask to make sure, though. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:48, December 7, 2009 (UTC)
+
+== Icons ==
+
+Good stuff on those icons, that was something I was thinking of doing. Are you adding it to other pages?
+[[User:Kgable10|Kgable10]] 15:33, December 10, 2009 (UTC)
+:Thanks. I did a few pages, but I'm spending most of my time actually generating the .svg files for the icons. So I probably won't be doing much more. Feel free to take over if you like. [[User:Ninjatacoshell|Ninjatacoshell]] 17:40, December 10, 2009 (UTC)
+
+== Recent Edits ==
+
+I think your account may have been hacked by a vandal because the edits you recently made to [[A Crown of Swords/Chapter 33]] seemed completely out of character. [[User:Ninjatacoshell|Ninjatacoshell]] 20:32, January 11, 2010 (UTC)
+:Yeah that wasn't me, that's why I reverted it, and some ---- changed it back. Sorry about that, I think it was my little brother. Haha
+
+Some may find those words offensive, Mr. Gables. [[User:Ambermoon|Ambermoon]] 02:37, January 22, 2010 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}

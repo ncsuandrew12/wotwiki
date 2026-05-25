@@ -1,0 +1,73 @@
+{{ character 
+| image=Merise_Haindehl.jpg
+| imagesize=250px
+| ewot=Merise
+| ajah=Green
+| nationality=Taraboner
+| gender=Female
+| rank=Aes Sedai
+| affiliation= Unaligned sisters
+| height=Tall
+| status=Alive
+| eyes=Blue
+| hair=Dark
+| appeared={{wh|13}}
+| lastappeared={{amol|37}}
+| birth={{ne|798}}
+| living=amol
+}}'''Merise Haindehl''' is a [[Tarabon]]er [[Aes Sedai]] of the [[Green Ajah]].{{ref/book|twotc|Merise Haindehl|comp}}
+
+== Appearance and Personality ==
+She is tall, with blue eyes and dark hair drawn severely back and an ivory complexion. She is stern-faced with a stern manner. Some thought her beautiful without being pretty, some saw her as handsome, while others saw only severity.
+
+==Strength and Abilities==
+Merise has a strength in the [[One Power]] of {{opsl|20}}, making her [[Strength in the One Power among Aes Sedai|very strong]] in the Aes Sedai hierarchy.{{ref||comp}} Few are as strong as her, and fewer stronger. She is strong enough to be able to [[Travel]].
+
+She has an ability at [[Healing]], although not as good as [[Corele Hovian]].
+
+==History==
+Merise was born in [[Tarabon]] in {{ne|798}}.
+
+She went to the [[White Tower]] in {{ne|811}} at the age of thirteen, an extremely young age for a Novice. She lied about her age but was discovered, and so she spent fifteen years as a [[novice]] and five as [[Accepted]].
+
+She was raised to the [[shawl]] in {{ne|831}} at the age of thirty-three.
+
+She currently has three [[Warder]]s: [[Bassane]], [[Nethan]], and [[Jahar Narishma]], an [[Asha'man]]. She has a firm hand with them, but dresses them well.
+
+== Activities ==
+=== Accompanying Cadsuane ===
+She followed Cadsuane after the [[White Tower Schism]]. Cadsuane probably trusted her more than the others with her.
+
+She [[Traveling|Traveled]] with [[Cadsuane Melaidhrin]] to [[Far Madding]] to track down [[Rand al'Thor]]. She linked with Jahar, who holds ''[[Callandor]]'', and [[Elza Penfell]] during the [[Battle near Shadar Logoth]].
+
+She accompanied Rand and Cadsuane to [[Algarin Pendaloan]]'s house in [[Tear]], where Rand recovered after cleansing ''[[saidin]]''. 
+She confided to Cadsuane that Jahar's strength in the [[One Power]] increased in fits and starts.{{ref/book|10|23}}
+
+She and Jahar Traveled to the [[Rebel Aes Sedai]] camp. There, [[Lelaine Akashi]] called an emergency meeting of the [[Hall]]. Jahar presented Rand's offer of bonding forty-seven Asha'man and informed the Aes Sedai that [[Eben Hopwil]] and those with him had encountered a female [[Forsaken]] channeling ''saidin''. The Hall accepted Rand's offer.
+
+Her relationship with Jahar was different from her relationship with her non-channeling Warders; she questioned whether she could be as firm with him as with the others.
+
+=== The capture of Semirhage ===
+Merise watched Rand's meeting with the [[Daughter of the Nine Moons]] from a distance and Traveled in as backup when it was revealed that the Daughter of the Nine Moons was actually [[Semirhage]]. She [[Healing|Healed]] Narishma after the fight.
+
+She took part in helping Cadsuane interrogate Semirhage but got nowhere with her questioning. She watched [[Aviendha]] weave a column of Air and Water to transport water from a river onto an out-of-control fire. She seemed regretful that Aviendha would not be joining the [[White Tower]]. She informed Cadsuane of Semirhage's escape and [[Daigian Moseneillin]]'s death. She tried to convince Rand that he needed Cadsuane after he banished her. She stood with Cadsuane on the [[Bandar Eban]] walls to watch the ghostly procession that circuited the city at night. She was part of the plan to try and help Rand laugh again after learning from [[Nynaeve al'Meara]] that Rand burned a whole palace full of people away with [[balefire]].
+
+She was with Cadsuane when Nynaeve came back with the whereabouts of [[Tam al'Thor]]. When Cadsuane complimented Nynaeve's show of humility by saying she is probably the only one of the current crop of Aes Sedai who can be salvaged, Merise pales. She was again with Cadsuane when an irate Tam entered the room saying that Rand just tried to kill him and has just Traveled to [[Ebou Dar]].
+
+Merise was present when Rand returned to Tear and announced that the White Tower had been reunified under [[Egwene al'Vere]].
+
+She admitted Rand and [[Rodel Ituralde]] into Cadsuane's quarters where they were keeping the Domani king [[Alsalam Saeed Almadar]]. She accompanied Rand again to his second meeting with the [[Borderlander]] rulers in [[Far Madding]].
+
+=== The [[Last Battle]] ===
+She fought with the Borderlanders in [[Tarwin's Gap]]. Lan charged her and Narishma to help protect their army from the newly arrived [[Dreadlords]], as the army made its complete withdrawal from the Gap. Merise and Narishma began weaving lightning back at Dreadlords when they returned to the frontlines. When the armies of the [[Light]] gathered to fight in the [[Field of Merrilor]], she and Narishma joined the Aes Sedai fighting the [[Sharan]]s on [[Polov Heights]]. She was with the [[Amyrlin Seat]] when she first confronted [[M'Hael]].
+
+It is presumed that she survived the battle and that she was with her Asha'man Warder when they rescued [[Lan Mandragoran]] after his duel with [[Demandred]]. It is speculated that she may have been Cadsuane's choice for [[Keeper of the Chronicles]] after she was raised to [[Amyrlin Seat]], as Cadsuane trusts Merise more than any other sister.
+
+{{notes}}
+{{DEFAULTSORT:Haindehl, Merise}}
+
+[[es:Merise Haindehl]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

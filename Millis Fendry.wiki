@@ -1,0 +1,18 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Female
+| occupation=Innkeeper
+| status=Alive
+| mentioned={{cot|14}}
+| lastmentioned={{cot|14}}
+| living=cot
+}}'''Millis Fendry''' is the innkeeper of the [[Hoop and Arrow]] in [[Caemlyn]].{{ref|{{twotc}}, Millis Fendry}}
+
+== Activities ==
+Every three to four days Master [[Harnder]] visits Mistress Fendry in the Hoop and Arrow. After the visit she sends a pigeon north. She was also visited by three [[Brown Ajah]] sisters, who met with Mistress Fendry in private. [[Reene Harfor]] seems to be aware that she is a spy.
+
+{{notes}}
+{{DEFAULTSORT:Fendry, Millis}}
+[[Category:Eyes-and-ears]]

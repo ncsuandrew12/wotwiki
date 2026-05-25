@@ -1,0 +1,19 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Car'a'carn
+| status=Alive
+| clan=Unknown clan
+| sept=Unknown sept
+| appeared={{acos|3}}
+| lastappeared={{acos|3}}
+| living=acos
+}}'''Sotarin''' is an [[Aiel]] [[Wise One]].
+
+== Activities ==
+She participated in the [[Battle of Dumai's Wells]].
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.

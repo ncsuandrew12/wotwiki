@@ -1,0 +1,10 @@
+'''Heating''' are weaves in the [[One Power]].
+
+==Heating a liquid==
+This is a very simple weave, formed by flows of element Fire. For example a very tiny thread of Fire is used by [[Aes Sedai]] to heat the water inside a teapot. A more powerful weave of this kind was used by [[Elayne]] to heat the water in a bath tube because it was becoming cold.
+
+==Heating the air==
+It is formed by flows of Air and Fire. It was used by Rand on the top of [[Dragonmount]] to warm the very cold air around him.
+
+{{short}}
+[[Category:Weaves]]

@@ -1,0 +1,20 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Andoran
+| title=Lady
+| gender=Female
+| mentioned={{wh|10}}
+| lastmentioned={{wh|10}}
+}}
+{{dablink|This article is about the real Lady Shiaine. For the [[Darkfriend]] who stole her identity, see [[Mili Skane]].}}
+'''Shiaine Avarhin''' was a minor noble in [[Andor]] who once lived in [[Caemlyn]].{{ref/book|9|10}}
+
+==History==
+Shiaine Avarhin was the only daughter of Lord [[Willim Avarhin|Willim]] of House Avarhin, a minor and impoverished house of [[Andor]]. She was killed by [[Mili Skane]] and had her identity stolen by Mili.{{ref/book|9|10}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Avarhin, Shiaine}}
+[[Category:Nobility]]

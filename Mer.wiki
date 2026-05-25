@@ -1,0 +1,24 @@
+{{creature
+| image=sredit-icon.svg
+| imagesize=100px
+| elephants=yes
+| animal=S'redit
+| status=Alive
+| owner=Cerandin
+| gender=Bull
+| color=Gray
+| appeared={{tfoh|17}}
+| mentioned={{tfoh|13}}
+}}
+'''Mer''' is a ''[[s'redit]]'' bull.
+
+==Appearance==
+Like other ''s'redit'', Mer is gray.
+
+==Activities==
+When the [[Seanchan]] landed at [[Falme]], the brought many ''s'redit'', as well as ''[[raken]]'', ''[[grolm]]'', ''[[corlm]]'', and ''[[torm]]''.{{ref/book|2|47}} Mer, along with [[Sanit]] and [[Nerin]], were separated and were eventually rounded up by [[Cerandin]]. 
+
+She brought the animals to [[Valan Luca]]'s [[Valan Luca's Traveling Show|traveling show]] to be performers. While in the town of [[Sienda]] in [[Amadicia]], Mer tore a hole in the front of an inn called [[The King's Lancer]]. This cost Luca a lot of his cash and forced the circus to make a very fast departure.{{ref/book|5|13}} [[Elayne Trakand]] and [[Nynaeve al'Meara]] recognized Mer, Sanit, and Nerin as Seanchan animals and discover Cerandin is Seanchan as well.{{ref/book|5|17}} When the two women leave the show, they offer to take Cerandin as well. She said that she would not leave the circus if she could not take the ''s'redit'' as well.{{ref/book|5|47}}
+
+{{notes}}
+{{short}}

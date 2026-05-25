@@ -1,0 +1,21 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Female
+| status=Alive
+| occupation=Healer
+| mentioned={{teotw|39}}
+| lastmentioned={{teotw|41}}
+| living=teotw
+}}
+
+Mother '''Grubb''' is a woman from [[Caemlyn]] who, by description, sounds like a [[Wisdom]].
+
+==History==
+She sell herbs, attends births and tends the sick. She lives two streets over from the Queen's Blessing.
+
+==Activities==
+Mother Grubb is suggested to [[Rand]] by [[Master Gill]] when [[Mat]] is sick. Rand does not request her services.
+
+{{short}}

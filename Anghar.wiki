@@ -1,0 +1,20 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| occupation=Soldier
+| nationality=Seanchan
+| gender=Male
+| status=Alive
+| appeared={{tpod|23}}
+| lastappeared={{tpod|23}}
+| living=tpod
+}}
+''For the similarly named [[Amyrlin Seat]], see [[Anghara]].''
+
+'''Anghar''' is in the [[Seanchan]] soldier in the army under the command of [[Furyk Karede]]. 
+
+== Appearance ==
+He has steady eyes.
+
+== Activities ==
+He is in a Seanchan unit that is on the way to attack [[Illian]]. When the [[Asha'man]] attack the Seanchan army, he rides back to [[Ebou Dar]] to report that they are retreating.

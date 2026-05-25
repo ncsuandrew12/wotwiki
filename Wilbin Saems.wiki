@@ -1,0 +1,17 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Andoran
+| occupation=Merchant
+| gender=Male
+| mentioned={{kod|16}}
+| lastmentioned={{kod|16}}
+}}'''Wilbin Saems''' was a merchant from [[Andor]].{{ref|{{twotc}}, Wilbin Saems}} He had a daughter.
+
+==Activities==
+[[Samwil Hark]] claims to have worked as clerk for Saems until his death. Hark also says that he had been gathering evidence of how Saems' daughter was stealing from him, but the merchant died before he could give it to him. Of course, this is all a story made-up by Hark, who does not even fulfill the requirements of a clerk.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Saems, Wilbin}}

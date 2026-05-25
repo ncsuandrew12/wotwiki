@@ -1,0 +1,19 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Dead
+| gender=Male
+| death={{ne|999}}
+| affiliation=Two Rivers
+| mentioned={{tsr|40}}
+| lastmentioned={{tsr|43}}
+}}
+'''Colly Garren''' was a resident of the [[Two Rivers]]. 
+
+== Activities ==
+When [[Perrin Aybara]] sets up an ambush for a group of [[Trollocs]] in the Two Rivers, they are betrayed by Lord [[Slayer#Luc Mantear|Luc]]  and Colly was killed when the Trollocs then ambush Perrin's group.{{ref/book|4|40}}
+
+{{notes}}
+{{DEFAULTSORT:Garren, Colly}}
+[[Category:Short pages]]

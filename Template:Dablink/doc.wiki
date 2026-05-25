@@ -1,0 +1,8 @@
+==Purpose of template==
+
+
+==How to use==
+
+ <nowiki>{{Dablink|This template is for linking to disambiguation pages and similar pages. For the arm movement, see {{Wiki|Dab (dance)}}. For the movement, see [https://www.merriam-webster.com/dictionary/dab Merriam-Webster's entry on dab]. For other uses, see {{Wiki|Dab}}.}}</nowiki>
+
+{{Dablink|This template is for linking to disambiguation pages and similar pages. For the arm movement, see {{Wiki|Dab (dance)}}. For the movement, see [https://www.merriam-webster.com/dictionary/dab Merriam-Webster's entry on dab]. For other uses, see {{Wiki|Dab}}.}}

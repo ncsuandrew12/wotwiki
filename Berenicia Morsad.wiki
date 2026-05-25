@@ -1,0 +1,50 @@
+{{character 
+| image=YellowAjah.png
+| imagesize=250px
+| ewot=Berenicia
+| ajah=Yellow
+| gender=Female
+| nationality=Shienaran
+| rank=Aes Sedai
+| affiliation=White Tower
+| build=Plump
+| status=Alive
+| mentioned={{loc|41}}
+| appeared={{loc|46}}
+| lastappeared={{loc|49}}
+| living=loc
+|birth = {{ne|838}}}}
+'''Berenicia Morsad''' is an [[Aes Sedai]] of the [[Yellow Ajah]]. She is part of the [[Salidar Aes Sedai]].
+
+== Appearance ==
+She is plump and always looks grave. She has a sharp tongue.
+
+== Strength and Abilities ==
+Berenicia is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of of {{opsl|25}}. She matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability for the Talent, she should be able to [[Traveling|Travel]].
+
+She is the second weakest in strength among the sisters making up the [[Salidar Embassy to the Dragon Reborn]], with only [[Valinde Nathenos]] being weaker. 
+
+She adhered to the Aes Sedai hierarchy by deferring to more powerful sisters, but could grumble quietly even while doing so.
+
+== History ==
+Berenicia was born in {{ne|838}} in the Border Marches in [[Shienar]]. She went to the [[White Tower]] in {{ne|854}}. After spending eight years as a [[novice]] and six years as [[Accepted]], she was raised to the shawl in {{ne|868}}.
+
+She has a [[Warder]].
+
+== Activities ==
+She is part of the [[Salidar Embassy to the Dragon Reborn|Salidar delegation]] sent to greet [[Rand al'Thor]] in [[Caemlyn]]. According to Min, she was impressed that [[Agelmar Jagad]] had once received Rand in Fal Dara. She Heals [[Demira Eriff]] when she is stabbed by false [[Aiel]]. 
+
+After the delegation is dissolved she escorts all the [[Two Rivers]] girls wanting to become novices back to Salidar. She leaned towards Romanda's faction.
+
+== Name Origin ==
+Berenicia is derived from the first name, '''Berenice''', of Greek origin. There are several historical figures [[wikipedia:Berenice|of this name]], but no specific parallels. The Latinised version of the name is '''Veronica''' which has several alternative spellings.
+{{notes}}
+
+{{DEFAULTSORT:Morsad, Berenicia}}
+
+[[es:Berenicia Morsad]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Caemlyn Embassy]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

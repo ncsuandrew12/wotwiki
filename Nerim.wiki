@@ -1,0 +1,27 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Cairhienin
+| occupation=Servant
+| affiliation= Band of the Red Hand
+| gender=Male
+| height=Short
+| build=Skinny
+| hair=Gray
+| status=Alive
+| appeared={{loc|22}}
+| lastappeared={{kod|26}}
+| living=kod
+}}'''Nerim''' is a [[Cairhien]]in manservant in the service of [[Talmanes Delovinde]].{{ref|{{twotc}}, Nerim}}
+
+== Appearance ==
+He is very short and skinny with gray hair cut short of his shoulders. He had a long narrow face and was clean-shaven. He has a very pessimistic attitude.
+
+== Activities ==
+He sews Talmanes wounds after the [[Aiel]] assassination attempt on [[Matrim Cauthon]], and then is sent over to sew Mat's as well. Mat and Talmanes agree that Nerim makes a ham-fisted sewer.
+
+When Mat leaves for [[Ebou Dar]], Talmanes sends Nerim as well, to carry on serving Mat.
+He then stays in the [[Tarasin Palace]] with Mat and begins to transfer his clothes and all his money back into the [[Wandering Woman]]. Mat sends Nerim and [[Lopin]] to collect all the stored money and meet him outside the city when Mat carries out his plan of escaping with the captive [[Aes Sedai]]. Nerim and Lopin were competitive in fulfilling their duties to Mat.
+
+He then catches up with Mat and then travels in [[Valan Luca's Traveling Show]] as cover for their escape. He is happy to finally be reunited with Talmanes.
+
+{{notes}}

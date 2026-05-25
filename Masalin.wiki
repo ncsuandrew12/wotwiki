@@ -1,0 +1,27 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Alive
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Shaido Aiel
+| hair=Gray
+| clan=Shaido
+| sept=Unknown sept
+| appeared={{cot|9}}
+| lastappeared={{cot|9}}
+| living=cot
+}}
+'''Masalin''' is a [[Wise One]] of the [[Shaido]] [[Aiel]]. 
+
+==Appearance==
+She is gray-haired.
+
+==History==
+She cannot [[channel]].
+
+==Activities==
+She is one of the Wise Ones that [[Travel]]s with [[Sevanna]]'s group of Shaido to [[Ghealdan]].
+
+She talks to a man leading a horse. [[Zarine ni Bashere t'Aybara|Faile]] presumes it is about the animal's health. All the while, she is entirely oblivious to the [[Choedan Kal]] being used because she cannot channel.

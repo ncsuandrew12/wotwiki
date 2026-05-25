@@ -1,0 +1,21 @@
+{{dablink|This article concerns the animal. For other uses of the word "bear," see [[Bear (disambiguation)]].}}
+
+A variety of '''bears''' exist in the [[Westlands]].
+
+== Black and brown bears ==
+
+There are a variety of types of bears that are generally referred to as "[[black bear]]s" or "[[brown bear]]s." Some northern bears sometimes exhibit blue-gray or golden-brown fur and may be referred to as "[[blue bear]]s" or "[[golden bear]]s."{{ref/book|beasts|Black bear}}{{ref|There are no references to "brown bear" in the text of the main series or the Companion. There are no explicit references to "black bears" ''per se'' in the text of the main series. The only instances of such words are describing white-faced bears, a great black bear, or ''[[The Old Black Bear]]''. The only references to "golden bear" in the text of the main series refers to a literal golden bear adorning a sitting room in the [[Stone of Tear]].{{ref/book|11|21}}. The only references to "blue bear" in the text of the main series refer to the [[House Haevin]] sigil.}}
+
+== White-faced bears ==
+
+In the [[Dragonwall]], there are the rarely-seen [[white-faced bear]]s, which are black bears with white faces.{{ref/book|beasts|White-faced bears}}{{ref|These sound reminiscent of the {{Wiki|Giant panda}}, but descriptions imply that only their faces are white and they are black rather than brown, unlike the {{Wiki|Qinling panda}}.}}
+
+[[Valan Luca's Traveling Show]] has at least two white-faced bears trained by [[Latelle]].{{ref/book|5|17}}{{ref/book|5|24}}{{ref/book|5|33}}{{ref/book|5|36}}{{ref/book|5|37}}{{ref/book|twotc|Latelle}} They are present during both  [[Elayne]]'s time with the show{{ref/book|5|13}} and [[Mat]]'s stint traveling with the menagerie.{{ref/book|11|6}}{{ref/book|11|11}}
+
+== Great black bear ==
+Great black bears, also called [[king bear]]s or [[royal bear]]s, are very large black bears with one or more downward-pointing white chevrons across their abdomen. They are strong and dangerous enough to break the neck of a wild bull with a single swipe of a paw.{{ref/book|beasts|King Bear}}
+
+Mat and those with him observed one while traveling from [[Salidar]] to [[Ebou Dar]].{{ref/book|6|47}}
+
+{{notes}}
+[[Category:Animals]]

@@ -1,0 +1,17 @@
+<noinclude>{| align="right"
+|{{Month|June}}
+|{{Wotmonth|Amadaine}}
+|}
+'''Amadaine 8 (June 15)'''
+
+==Events==
+</noinclude>
+*{{ne|998}} - [[Ingtar Shinowa|Ingtar's]] party continues to follow the [[Trolloc]]s.
+*{{ne|998}} - [[Egwene]] has a dream of [[Rand]] in danger.
+*{{ne|999}} - [[Rand]] and [[Mat]] return from [[Rhuidean]] at dawn. Rand confronts [[Couladin]]. Later in the day [[Aviendha]] returns from the city, followed by [[Moiraine]].
+
+<noinclude>
+==External links==
+*[[wikipedia:june 15|June 15]]
+</noinclude><noinclude>
+[[Category:Dates]]</noinclude>

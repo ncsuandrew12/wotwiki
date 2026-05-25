@@ -1,0 +1,7 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| Description             = [[Semirhage]]
+| Source                  = The ebook cover of ''[[Knife of Dreams]]''
+| Artist                  = Michael Komarck
+}}

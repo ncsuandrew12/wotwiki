@@ -1,0 +1,4 @@
+Trying to personalize our templates here... [[w:c:wot:User:Nae'blis|nae'blis]] <i><sub>[[w:c:wot:User_talk:Nae'blis|(talk)]]</sub></i> 19:52, 19 Oct 2005 (UTC)
+
+==Class: talk-notice==
+I assume that these are defined within the Cascading Style Sheets, though I haven't played with them yet. That will keep us from having a blue box on a style that is predominately black or orange, for example... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 15:28, 25 Oct 2005 (UTC)

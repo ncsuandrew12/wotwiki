@@ -1,0 +1,15 @@
+The '''Amber Plaque''' is a ''[[ter'angreal]]'' that was stolen from the [[White Tower]] by [[Liandrin's Group of Black Sisters]].{{Ref/book|4|11}} 
+
+==Appearance==
+The ''ter'angreal'' seems to be made of clear amber, yet hard enough to scratch steel. It is no longer than a hand. It bears the image of a sleeping woman carved into the middle of it.
+
+==Use==
+It is a [[sleepweaver]]. By channeling spirit into the plaque, the user will fall asleep and then enter ''[[Tel'aran'rhiod]]''.{{Ref/book|4|11}}
+
+==History==
+This sleepweaver was recovered from the Black sisters Amico and Joya in [[Tear]].{{Ref/book|4|11}} [[Elayne]] made many copies of it.
+
+{{notes}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]

@@ -1,0 +1,22 @@
+{{character
+| image=AndorFlag.png
+| imagesize-250px
+| nationality=Andoran
+| gender=Male
+| occupation=Soldier
+| appeared={{amol|37}}
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Deoan''' is a man from [[Deven Ride]].
+
+==Activities==
+During the [[Last Battle]], [[Tam al'Thor]] has Deoan lead half the Two Rivers men in an attack against the [[Trolloc]]s.{{ref/book|14|37}}
+
+==Trivia==
+*Deoan is named after Travis Hall, a fan of ''The Wheel of Time''. His screen name was Deoan Kakarot.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{short}}
+[[Category:Characters named after fans]]
+[[Category:Two Rivers (people)]]

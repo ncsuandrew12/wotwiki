@@ -1,0 +1,23 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Weaver
+| affiliation=Faile Bashere
+| gender=Female
+| build=Lean
+| appeared={{Kod|28}}
+| lastappeared={{kod|28}}
+| living=kod
+}}'''Corvila''' is a weaver who was taken ''[[gai'shain]]'' by the [[Shaido]] [[Aiel]].{{ref|{{twotc}}, Corvila}}
+
+== Appearance ==
+She is a lean woman.
+
+== Activities ==
+Corvila was one of the ''gai'shain'' who has sworn an oath of fealty to [[Faile Bashere]]. It is assumed that she has been freed with the dispersion of the Shaido and traveling with [[Perrin Aybara]]'s army.
+
+{{notes}}
+[[Category:Gai'shain]]
+[[Category:Shaido]]

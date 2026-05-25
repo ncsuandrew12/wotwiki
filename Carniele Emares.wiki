@@ -1,0 +1,41 @@
+{{ character 
+| image=YellowAjah.png
+| imagesize=250px
+| gender=Female
+| nationality=Tairen
+| rank=Aes Sedai
+| affiliation=White Tower
+| ajah=Yellow
+| status=Alive
+| mentioned={{wh|p}}
+| lastmentioned={{wh|p}}
+| living=wh
+}}'''Carniele Emares''' is an [[Aes Sedai]] of the [[Yellow Ajah]].{{ref|{{twotc}}, Carniele Emares|comp}}
+
+==Appearance==
+Carniele is fair-skinned for a Tairen and has blue eyes and black hair. She is 5'6.5" tall and of medium build.{{ref||comp}}
+
+==Strength and Abilities==
+Carniele has a strength in the [[One Power]] of {{opsl|28}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+Since she is of Yellow Ajah, we can assume she has an above average ability at Healing.
+
+==Activities==
+She remained loyal to the [[White Tower]] during the schism.
+
+Carniele was involved in the disastrous attack on the [[Black Tower]] led by [[Toveine Gazal]] on [[Elaida]]'s orders.{{ref/book|7|p}} All fifty-one sisters involved were captured and [[bond]]ed by [[Asha'man]]. It is not known who Carniele was bonded to.{{ref/book|8|26}}
+
+Elaida abandons the Aes Sedai sent to capture the Black Tower, including Carniele, at [[Alviarin]]'s suggestion.{{ref/book|7|32}}
+
+Carniele healed Toveine on [[Logain]]'s request after she was beaten by the other sisters.{{ref/book|9|p}}
+
+Like the majority of the Aes Sedai captive in the Black Tower, it can be assumed that she and the Asha'man to whom she was bonded were both [[Turned]] to the Shadow.
+
+{{notes}}
+{{DEFAULTSORT:Emares, Carniele}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:The Turned]]
+[[Category:Aes Sedai]]

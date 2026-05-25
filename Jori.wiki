@@ -1,0 +1,32 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Cairhienin
+| title=Gaidin
+| hair=Bald
+| gender=Male
+| build=Very Wide
+| height=Short
+| status=Alive
+| occupation=Warder
+| affiliation=White Tower
+| appeared={{loc|29}}
+| lastappeared={{kod|1}}
+| living=kod
+}}
+{{for|the resident of the [[Two Rivers]]|Jori Congar}}
+'''Jori''' is a [[Warder]] bonded to [[Morvrin Thakanos]].{{ref|{{twotc}}, Jori}}
+
+== Appearance ==
+He is quite short, even for a Cairhienin, and shorter than Morvrin.{{ref/book|10|16}} He is very wide, square-faced and bald.
+
+==History==
+He is considered to be one of the best swordsmen among the Warders.
+
+== Activities ==
+He is part of the Warders that accompany Egwene and Morvin when they survey the area around [[Tar Valon]]. {{ref/book|10|16}}
+
+He is guarding [[Myrelle Berengari]]'s tent when [[Siuan Sanche]] arrives with the news that [[Egwene al'Vere]] is still alive inside the [[White Tower]].
+
+{{notes}}
+[[Category:Rebel Aes Sedai]]

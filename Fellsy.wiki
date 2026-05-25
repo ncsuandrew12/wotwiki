@@ -1,0 +1,20 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhienin
+| occupation=Maid
+| gender=Female
+| build=
+| height=
+| appeared=
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| lastappeared=
+| living=
+}}
+'''Fellsy''' is a maid to [[House Mecandes]].
+
+==History==
+Fellsy worries about Lady [[Elspeth Mecandes]] during her unexpected disappearance.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+[[Category:Characters only mentioned in the RPG]]

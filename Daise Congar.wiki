@@ -1,0 +1,55 @@
+{{ character
+| image=Daise Congar.jpg
+| imagesize=250px
+| nationality=Andoran
+| occupation=Wisdom
+| title=Women's Circle Member
+| gender=Female
+| height=Tall
+| build=Wide, Muscular
+| affiliation=Two Rivers
+| status=Alive
+| appeared={{teotw|1}}
+| lastappeared={{loc|p}}
+| living=loc
+}}
+{{for|others with the same surname|The Congars and the Coplins}}
+'''Daise Congar''' becomes the [[Wisdom]] of [[Emond's Field]] after they learn Nynaeve will not come back.
+
+==Appearance==
+Daise is a hard-faced, wide but muscular woman. She is twice as wide as her husband, Wit, and a head taller. Perrin says she is 'like a bull'. She is as tall as most men and wider.
+
+==History==
+She is married to [[Wit Congar]].
+
+Perrin says she has a mean streak and a temper.
+
+==Activities==
+As [[Rand]] and [[Tam al'Thor]] make their way to the village, she appears at the doorway of her home and shouts at her husband for getting involved in [[Women's Circle]] business, namely criticizing how their [[Wisdom]] behaved.
+
+She became the [[Wisdom]] of [[Emond's Field]] after it was discovered that [[Nynaeve]] would not be returning.
+
+[[Marin al'Vere]] threatens [[Cenn Buie]] with having Daise call on him to convince him why [[Village Council]] business did not take precedence over that of the [[Women's Circle]].
+
+[[Verin Mathwin]] sends a girl to get the Wisdom to tend to the wounded. Daise heals the injured at [[Emond's Field]] with poultices and ointments.
+
+Daise doesn't want [[Tinkers]] in Emond's Field because she thinks they steal belongings and children. [[Perrin]] responds angrily, saying that they aren't going to abandon anyone to the [[Trollocs]]. Daise looks abashed.{{ref/book|4|45}}
+
+Daise and Marin discuss the rationing in [[Emond's Field]] - they have kept it hidden from the men that all the women are on half-rations because they do not need to fight.{{ref/book|4|53}}
+
+Daise and other members of the Women's Circle agree that [[Faile]] would qualify as being betrothed to Perrin by the customs of the Two Rivers. She, [[Brandelwyn al'Vere]] and the rest of the Women's Circle preside over Perrin's wedding to Faile.{{ref/book|4|53}}
+
+Daise and others devise a plan to rescue the children of Emond's Field if the Trollocs break through the defenses. Daise is armed with a long pitchfork. Later, when the [[Whitecloaks]] fail to help and the women join the battle lines, she kills a goat-snouted Trolloc through the throat with her makeshift weapon.{{ref/book|4|56}}
+
+Faile sends [[Rhea Avin]] and [[Sharmad Zeffar]] to Daise after they have been fighting over [[Wil al'Seen]]. 
+
+Daise, [[Edelle Gaelin]], [[Elwinn Taron]] and [[Milla al'Azar]] meet with Faile to discuss events in the [[Two Rivers]]. Daise thrusts herself forward to take the lead in the group since Perrin's manor is closer to her own village. Daise now addresses Faile as 'my Lady'. They find talking to Faile easier because of the unexpected effect Perrin's Ta'veren ability has on their resolve.
+
+Daise is having dresses and a gown made for Faile by Therille Marza, a [[Domani]] seamstress that has settled in Emond's Field. A gown was Daise's idea, though Faile wonders of what use a ballgown will be in the Two Rivers.
+
+==In the television series==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Daise Conger}} will be played by actress {{TVlink|Mandi Symonds}}.
+
+{{notes}}
+{{DEFAULTSORT:Congar, Daise}}<references />
+{{DEFAULTSORT:Congar, Daise}}

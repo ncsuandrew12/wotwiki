@@ -1,0 +1,9 @@
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Character
+| ImageType2              = Item
+| Description             = [[Perrin Aybara]] forging ''[[Mah'alleinir]]''.
+| Source                  = [http://www.dragonmount.com]
+| Artist                  = Raymond Swanland
+}}
+[[Category:Featured images]]

@@ -1,0 +1,22 @@
+<onlyinclude><nowiki>{{</nowiki>{{#if:{{{prefix|}}}|{{{prefix}}}:}}[[Template:{{{1}}}|{{{1}}}]]<!--
+-->{{#if:{{{2|}}}|&#124;<span style="color:#555;">''&lt;{{{2}}}&gt;''</span>}}<!--
+-->{{#if:{{{3|}}}|&#124;<span style="color:#555;">''&lt;{{{3}}}&gt;''</span>}}<!--
+-->{{#if:{{{4|}}}|&#124;<span style="color:#555;">''&lt;{{{4}}}&gt;''</span>}}<!--
+-->{{#if:{{{5|}}}|&#124;<span style="color:#555;">''&lt;{{{5}}}&gt;''</span>}}<!--
+-->{{#if:{{{6|}}}|&#124;<span style="color:#555;">''&lt;{{{6}}}&gt;''</span>}}<!--
+-->{{#if:{{{7|}}}|&#124;<span style="color:#555;">''&lt;{{{7}}}&gt;''</span>}}<!--
+-->{{#if:{{{8|}}}|&#124;<span style="color:#555;">''&lt;{{{8}}}&gt;''</span>}}<!--
+-->{{#if:{{{9|}}}|&#124;<span style="color:#555;">''&lt;{{{9}}}&gt;''</span>}}<!--
+-->{{#if:{{{10|}}}|&#124;<span style="color:#555;">''&lt;{{{10}}}&gt;''</span>}}<!--
+-->{{#if:{{{11|}}}|&#124;<span style="color:#555;">''&lt;{{{11}}}&gt;''</span>}}<!--
+-->{{#if:{{{12|}}}|&#124;<span style="color:#555;">''&lt;{{{12}}}&gt;''</span>}}<!--
+-->{{#if:{{{13|}}}|&#124;<span style="color:#555;">''&lt;{{{13}}}&gt;''</span>}}<!--
+-->{{#if:{{{14|}}}|&#124;<span style="color:#555;">''&lt;{{{14}}}&gt;''</span>}}<!--
+-->{{#if:{{{15|}}}|&#124;<span style="color:#555;">''&lt;{{{15}}}&gt;''</span>}}<!--
+-->{{#if:{{{16|}}}|&#124;<span style="color:#555;">''&lt;{{{16}}}&gt;''</span>}}<!--
+-->{{#if:{{{17|}}}|&#124;<span style="color:#555;">''&lt;{{{17}}}&gt;''</span>}}<!--
+-->{{#if:{{{18|}}}|&#124;<span style="color:#555;">''&lt;{{{18}}}&gt;''</span>}}<!--
+-->{{#if:{{{19|}}}|&#124;<span style="color:#555;">''&lt;{{{19}}}&gt;''</span>}}<!--
+-->{{#if:{{{20|}}}|&#124;<span style="color:#555;">''&lt;{{{20}}}&gt;''</span>}}<!--
+-->{{#if:{{{21|}}}|&#124;<span style="color:#555;">''&lt;{{{21}}}&gt;''</span>}}<!--
+--><nowiki>}}</nowiki></onlyinclude><noinclude>{{documentation}}</noinclude>

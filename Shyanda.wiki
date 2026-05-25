@@ -1,0 +1,25 @@
+{{character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| occupation=Wise One
+| gender=Female
+| hair=Fiery Red
+| clan=Goshien
+| sept=Unknown sept
+| status=Alive
+| appeared={{Wh|p}}
+| lastappeared={{wh|p}}
+| living=wh
+}}'''Shyanda''' is an [[Wise One]] of the [[Goshien]][[Aiel]].{{ref|{{twotc|Shyanda}}}} She can channel.
+
+==Apperance==
+She has fiery red hair.
+
+==Activites==
+She takes part in the first-sister bonding ceremony with [[Aviendha]] and [[Elayne Trakand]].
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.
+
+{{notes}}
+[[Category:Channelers]]

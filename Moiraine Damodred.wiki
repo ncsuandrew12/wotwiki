@@ -1,0 +1,161 @@
+{{Featuredicon}}{{character
+| name=Moiraine Damodred
+| image=Wot card teasers moiraine by reddera-d3r8il3.jpg
+| imagesize=250px
+| ajah=Blue
+| birth={{ne|956}}
+| aliases=[[Alys]]
+| status=Alive
+| title=Lady
+| nationality=Cairhienin
+| rank=Aes Sedai
+| gender=Female
+| height=Short
+| hair=Brown
+| eyes=Large, Brown
+| appeared={{ns|2}}
+| lastappeared={{amol|e}}
+| lastmentioned=
+| living=amol
+| ewot=moiraine
+}} 
+{{WotQ|Moiraine}}
+{{April1
+ |joke='''More Rain Dame of Dread''' (pronounced: MOR-rain DAYM-uv-drehd
+ |real='''Moiraine Damodred'''{{ref|Her last name/House is not revealed until the glossary of ''The Dragon Reborn''.}} (pronounced: mwah-RAIN DAHM-oh-drehd; /mwaˈɹɛːɪn ˈdɑː.moʊˌdɹɛd/)}} was born in the year {{Ne|956}} in [[Cairhien]], the youngest daughter of [[Dalresin Damodred]], a scholar, and his second wife whose name is unknown.{{ref/book|6|g}} She also goes by the name "Alys." She is married to [[Thom Merrilin]].{{ref/book|c|Moiraine Damodred}}
+
+Moiraine's extraordinary achievements were many: she avoided being put on the [[Sun Throne]] as the [[Queen]] of Cairhien for years, she tracked down and became the trusted [[Aes Sedai advisors|advisor]] of the [[Dragon Reborn]], and most significantly, no other [[Third Age]] Aes Sedai is known to have faced—let alone survived—an encounter with a [[Forsaken]], while Moiraine faced not one but four and defeated two of them, earning her a remarkable status as one of the most accomplished sisters in Tower history.
+
+Her heroic deeds as a member of the [[circle]] that resealed the [[Dark One's prison]] and surviving the [[Tower of Ghenjei]] likely immortalized her name.
+
+== Appearance ==
+When she arrived in [[Emond's Field]], she was described as having dark hair that hung in ringlets. She looked the same age as [[Nynaeve]] but with large dark eyes that belong to a much older woman. She was relatively short, like most Cairhienin, standing at 5'2", and had a melodious voice. She wore a sky-blue velvet cloak with vines and flowers along the edges in thick silver embroidery, a golden woven belt, and a dark blue dress slashed with cream. She wore her [[Great Serpent ring]] on the second finger of her left hand, though she was known to change the finger. Moiraine also wore the traditional Cairhienien ''[[kesiera]]'', hers being a small sparkling blue stone held by a fine golden chain.
+
+[[Image:Moiraineandlan.png|thumb|150px|Moiraine and her Warder Lan.<br />''Artwork by Jason Chan''<br /> ebook cover of New Spring]]
+
+==Channeling Abilities and Talents==
+[[Image:Moiraine saliba2.jpg|left|thumb|150px|Moiraine using balefire, portrait done by Jeremy Saliba]]
+
+Moiraine is notable as a [[channeler]] in several ways aside from being [[Spark|born with the ability]]. Firstly, her original strength was once considered exceptionally strong in the [[One Power]] among Aes Sedai. Among the Aes Sedai active just before the [[White Tower Schism]], only three equaled her in strength: [[Siuan Sanche]], who was Amyrlin Seat for a time; [[Elaida do Avriny a'Roihan]], advisor to [[Morgase|the Queen of Andor]] and Amyrlin after Siuan; and [[Lelaine Akashi]], a prominent Sitter. The then-retired [[Romanda Cassin]] also equaled Moiraine in strength. Only one Aes Sedai surpassed Moiraine's strength: [[Cadsuane Melaidhrin]], who was thought to be retired at the time of the schism (though in fact she had come out of retirement to deal with Logain and remained active after his apprehension{{ref/book|7|19}}). 
+
+New sisters recently recruited, [[Egwene al'Vere]], [[Nynaeve al'Meara]], and [[Elayne Trakand]] all surpassed Moiraine in strength, with Nynaeve being the most powerful.
+
+Moiraine's original strength level in the Power was {{opsl|19}}, but it was dramatically reduced to {{opsl|72}} after her imprisonment by the [[Finn]].
+[[File:Moiraine Damodred.jpg|thumb|right|Moiraine Damodred <br />''Artwork by Terese Nielsen'']]
+Among Moiraine's known [[Talent]]s were [[Cloud Dancing]] and [[Healing]]. Her Talent in the latter was particularly strong. {{ref/book|3|3}} She was strong enough to [[Travel]] but disappeared before she could learn the weave. She also learned to weave [[balefire]] from information in old books.{{ref/book|3|50}} Before coming to the White Tower, she developed a trick using the One Power to eavesdrop, using her ''kesiera'' as a focus point. Her high strength level also caused [[Verin]] to cite her as one of the few living women with the strength to use the [[Choedan Kal]].
+
+Despite being able to create an earthquake and a wall of fire strong enough to destroy hundreds of Trollocs and halt three Myrddraal, Moiraine said that she was not at her strongest when working with [[Five Powers|Earth and Fire]]. She was surprised when she was able to hold [[Aginor]] as long as she did, knowing that Aginor in the AoL was close behind [[Lews Therin]] and [[Ishamael]] in power.{{ref/book|1|52}} It should be noted that, at the time, she was making ample use of one of the White Tower's ''[[angreal]]''.{{ref/book|1|18}}
+
+After being rescued from the Finn, her strength was reduced below the threshold for testing for Accepted. However, she also used one of her requests to either gain or keep the ''[[angreal]]'' which she took from Lanfear before falling through the [[twisted redstone doorframe]].{{ref/book|5|52}}{{ref/book|13|54}}{{ref/book|c|Moiraine}} The ''angreal'' was so strong it was considered almost a ''sa'angreal''.{{ref/book|13|54}}{{ref|{{c}} claims that this bracelet is a ''[[ter'angreal]]'',{{ref/book|c|Moiraine}} but that is likely a typo.}} When she used it, her strength was increased past her original strength.{{verify}}
+
+==Background==
+===Family Connections===
+{{dablink|For other family connections, see [[House Damodred]]}}
+Moiraine was the youngest daughter of [[Dalresin Damodred]], a scholar and a brother to [[Laman Damodred|King Laman Damodred]] of Cairhien and High Seat of [[House Damodred]]. This relation made her minor royalty who was in line for the throne of Cairhien until the reign of [[Galldrian Riatin]]. The name of her mother, the second wife of Dalresin, is unknown to readers. Like her father, Moiraine was also a scholar. She had two sisters, [[Anvaere Damodred|Anvaere]] and [[Innloine]].{{ref/book|0|6}} Moiraine was also half-sister to [[Taringail Damodred]]. She spent much of her childhood in the [[Sun Palace]]. She was the aunt of [[Galad Damodred]], [[Gawyn Trakand]], and Queen [[Elayne Trakand]] and has other unnamed nieces and nephews through her sister Innloine.  She also had several other Damodred cousins, such as Lady [[Caraline Damodred]], the future Queen of Tear, and Lord [[Barthanes Damodred]]. Her great-grandmother was Queen [[Carewin Damodred]].
+
+She shares no blood connection with [[Rand al'Thor]].
+
+[[File:Moiraine.png|thumb|left|Moiraine using the One Power.]]
+
+===At the White Tower===
+At the age of 16, Moiraine discovered that she possessed the [[spark]] that allowed her to channel the [[One Power]]. Subsequently, she left for the [[White Tower]] to become an [[Aes Sedai]].{{ref/book|0|2}} Very little is known about her life before her arrival at the White Tower, although it is known that Moiraine was glad to divorce herself as much as she could from the blackened name of House Damodred. Even so, before she left for the White Tower, a grand dance was held in her honor.{{ref/book|0|2}}
+
+Technically, Moiraine was a wilder, meaning her ability to channel manifested itself before she turned 16 and outside Aes Sedai guidance. She wisely kept this a secret until she could tell King Laman's Aes Sedai advisor (who taught her for a short time before sending her to Tar Valon). All this was kept secret, so Moiraine could avoid the stigma of being a wilder. Among other talents, Moiraine had taught herself an eavesdropping trick using the One Power.
+
+Moiraine became close friends - [[pillow friends]], in fact - with another [[novice]] named Siuan Sanche, who arrived at the White Tower on the same day. Both were quick learners, passing all tests on their first attempt, although Moiraine had the benefit of a classical education in the [[Old Tongue]] and knew much of the politics and history of the world before she arrived at the Tower, whereas Siuan, being from a poor fishing family, had little if any formal education. 
+
+To Moiraine's surprise, Siuan took the lead between them, and it "felt surprisingly natural" to follow her.{{ref/book|0|3}}
+
+She and Siuan become [[Accepted]] after three years and [[Aes Sedai]] after three more. In the history of the White Tower, only one other woman had become Aes Sedai in such a short time: [[Elaida do Avriny a'Roihan]]. Elaida took an interest in both Moiraine and Siuan, pushing both of them to live up to her extremely high standards and not allowing a single slip.{{ref/book|0|3}}{{ref/book|0|5}}
+
+==Activities==
+===Aiel War===
+Both Moiraine and Siuan were [[Accepted]] in {{ne|978}}, during the [[Aiel War]]. During the [[Battle of the Shining Walls]], the [[Aiel]] came right up to the banks of the [[River Erinin]] outside [[Tar Valon]] itself where Moiraine's uncle [[Laman Damodred|Laman]] had retreated with the remainder of his [[Cairhienin]] forces. On the final day of the battle, Moiraine and Siuan attended the [[Amyrlin Seat]], [[Tamra Ospenya]], and her [[Keeper of the Chronicles]], [[Gitara Moroso]]. While doing so, they witnessed the Keeper [[Foretelling|Foretell]] that at that very moment the [[Dragon]] had been reborn on the slopes of [[Dragonmount]] not far away and then immediately die.{{ref/book|0|2}}
+[[File:Moiraine and Lan.JPG|thumb|right|Moiraine and Lan by Todd Cameron Hamilton]]
+Moiraine and Siuan made a pact soon after: they would find the Dragon and guide him, knowing that he was the only one who could save the world from the [[Dark One]] but that others would fear him and try to hinder him—if not kill him outright. The [[Dragon Reborn]] was not the most celebrated of saviors; he was prophesied to save the world yet break it too.
+
+Moiraine and Siuan were raised to Aes Sedai soon after Gitara's Foretelling. The night before their raising, they tried to play one last prank on [[Elaida]] by sneaking mice into her bed. Elaida caught them and made sure they were punished severely.
+
+Soon after Moiraine was raised to the shawl, several Sitters began insinuating that Moiraine should take the throne of Cairhien. This made her uncomfortable and added to her motivation to escape the Tower (the main reason being to search for the Dragon Reborn).
+
+===Quest for the Dragon===
+Shortly after leaving the Tower, Moiraine met [[Lan Mandragoran]], the uncrowned king of [[Malkier]],{{ref/book|0|e}} in [[Kandor]] and soon bonded him as her [[Warder]].
+
+At unspecified times during her decades-long search for the Dragon Reborn, Moiraine acquired an [[angreal]] and visited the [[Green Man]] at the [[Eye of the World]].{{ref/book|0|14}} The [[Hall of the Tower]] gave permission for the use of the angreal, possibly due to pressure from Siuan.{{Ref/book|2|5}}
+[[File:Moiraine teotwc.jpg|thumb|left|Moiraine from The Eye of the World Comic]]
+
+Nineteen years of searching later, Moiraine and Lan journeyed to the town of [[Emond's Field]] in the [[Two Rivers]] region of [[Andor]],{{ref/book|1|2}} where Moiraine identified three boys born close to the birth date of the Dragon Reborn. Her suspicions were confirmed when, on [[Winternight]], [[Trolloc]]s attacked Emond's Field and nearby farms.{{ref/book|1|7}} After the attack, she and Lan persuaded the three boys -- [[Rand al'Thor]], [[Matrim Cauthon]], and [[Perrin Aybara]] to leave Emond's Field and head for the safety of the White Tower.  [[Thomdril Merrilin]] and [[Egwene al'Vere]] (and later [[Nynaeve al'Meara]]) also accompanied them.{{ref/book|1|10}} But the [[Shadow]] pursued them and their plans were derailed. Their journey ultimately took them to [[Shienar]] and to the [[Eye of the World]], where Rand channeled consciously for the first time. Soon after, Moiraine knew she'd found the Dragon Reborn.{{ref/book|1|53}}
+
+===Guide and advisor===
+Moiraine immediately sent word to Siuan, who by this time was [[Amyrlin Seat]], and the two of them, with the unexpected{{ref/book|2|7}} help of [[Verin Mathwin]], confronted Rand with his destiny.{{ref/book|2|8}} Moiraine sent Rand with a small group to recover the [[Horn of Valere]]{{ref/book|2|8}}{{ref/book|2|9}} only to find him again after the [[Battle of Falme]].{{ref/book|2|49}} After that, Moiraine left Rand's side as little as possible. Prior to confronting [[Lanfear]] and becoming trapped in [[Sindhol]],{{ref/book|5|52}}{{ref/book|5|53}}{{ref/book|11|10}} the only time she was separated from him again was when Rand snuck away to obtain ''[[Callandor]]''.{{ref/book|3|6}}{{ref/book|3|32}} Following the resulting fall of the [[Stone of Tear]], Rand, despite his success, resented what he saw as interference and manipulation on Moiraine's part.{{ref/book|4|3}} Though she seemed to be trying to help him, Aes Sedai were used to getting what they wanted and keeping their plans to themselves. Finally, after Rand's journey to [[Rhuidean]] in the [[Aiel Waste]], the two managed to form a sort of compromise with Rand agreeing to listen if Moiraine agreed to merely advise.{{ref/book|4|49}}
+[[File:MoiraineAndEgwene.JPG|thumb|250px|right|Moiraine teaching Egwene al'Vere to Channel]]
+
+===Sacrifice===
+Unfortunately, their cooperation was short-lived. Just as Rand was preparing to launch a raid against [[Caemlyn]] to confront the [[Forsaken]] [[Rahvin]], Moiraine took him, Mat, Egwene, [[Aviendha]], and Lan to the docks of [[Cairhien]].{{ref/book|5|52}} While at Rhuidean, Moiraine had entered a ''[[ter'angreal]]'' that showed her hundreds of possible futures.{{ref/book|4|23}}{{ref/book|5|53}} As a consequence, she knew if she wasn't present at the docks that day, [[Lanfear]], a Forsaken who was obsessed with Rand, might take control of him.{{ref/book|5|53}} When Rand refused to kill Lanfear even in his own defense, Moiraine took matters into her own hands.{{ref/book|5|52}} The [[twisted redstone doorframe]] from [[Rhuidean]] was present nearby, and Moiraine shoved Lanfear through it by tackling her while she was distracted by Rand, and thus joined her inside which ended the assault but seemingly also both of their lives.{{ref/book|5|53}} Neither she nor Lanfear re-emerged from the doorway which immediately caught on fire and began to melt.{{ref/book|5|53}} Lan also reported that he could not feel her through the [[Warder bond]] any longer; everyone believed her dead.{{ref/book|5|53}} Because she had altered her bond so that Lan would belong to another Aes Sedai instead of trying to avenge her (prior to her visions beyond the doorway, and before leaving [[Tar Valon]] or arriving in [[Emond's Field]]),{{ref/book|2|22}} Lan left immediately, if not happily, to seek out [[Myrelle Berengari]].{{ref/book|5|52}}
+[[File:Wheel of time calendar back and july image by reddera d6uy9ij-fullview.jpg|left|thumb|200x200px|Moiraine pushing Lanfear through the Redstone Doorway<br />''Artwork by Ariel Burgess''<br />''Official Wheel of Time Artist'']]
+
+===Mysterious future===
+One of [[Egwene al'Vere]]'s [[Dreaming|Dreamed]] visions linked [[Thom Merrilin]] to Moiraine: Egwene saw Thom drawing Moiraine's ''[[kesiera]]'' from a fire.{{ref/book|5|15}} A certain amount of romantic tension between Thom and Moiraine had gone unresolved at the time of Moiraine's disappearance.{{ref/book|2|25}}{{ref/book|3|31}}{{ref/book|4|6}}{{ref/book|4|17}} Also, an important viewing of [[Min Farshaw]]'s alarmingly suggested that without Moiraine's help, Rand was doomed to fail. In Moiraine's last interaction with Thom before confronting [[Lanfear]], (shortly after receiving her answers from the Eelfinn) she promised to provide Thom with information about who [[Severing|gentled]] his nephew, firmly asserting that they would meet again.{{ref/book|4|17}} Moiraine mentioned she knew who she would marry to [[Elayne Trakand]], Egwene, and Nynaeve.{{ref/book|4|6}} However, she did so prior to entering the ''ter'angreal'' to Sindhol{{ref/book|4|15}} and could be merely admitting some desire on her part. Alternatively, it could be that Thom appeared in Moiraine's Accepted test in some form.
+[[File:Moiraine-500x697.jpg|thumb|307x307px|Moiraine Damodred<br />Artwork by Westling]]
+
+=== Letter to Thom ===
+While crossing [[Altara]], Thom finally showed Mat the letter he had received from Moiraine saying she was not in fact dead, but she could only be brought back in a specific way. Thom, Mat, and one other would need to go to the [[Tower of Ghenjei]] to access the realm of the [[Aelfinn]] and [[Eelfinn]]. Even then, their mission might not be successful. Moiraine wrote that to be successful they would need to remember what they know of the game [[Snakes and Foxes]]. What is known about the game, aside from the manner of game play, is that it begins with player saying, "Courage to strengthen, fire to blind, music to dazzle, iron to bind" while drawing a triangle with a wavy line through it in the air and that it is necessary to cheat to win. According to [[Birgitte]], drawing the symbol on the Tower of Ghenjei will open a doorway to the dimension of the Eelfinn and/or Aelfinn.{{ref/book|11|10}} From Mat's trips through the ''ter'angreal''s, he learned that the Aelfinn and Eelfin asked whether visitors had brought fire, iron, or musical instruments because they are prohibited by the "agreement."
+
+=== Rescue ===
+[[Image:Moiraine.jpg|left|thumb|200px|Moiraine embracing the power - portrait  by Seamas Gallagher]]
+Mat, Thom, and [[Noal Charin]] traveled to the Tower of Ghenjei to rescue Moiraine. Using the method learned from Birgitte, they created an opening into the tower and entered. They entered the land of the Eelfinn and the Aelfinn armed with torches and Aludra's strikers (fire), spear and shortswords (iron), and flutes and a harp (implements of music). They found themselves in a labyrinthine tower with strange halls and doors, but using Mat's luck, they randomly made their way to the [[Chamber of Bonds]] where they found a barely conscious Moiraine. Moiraine was trapped and suspended in mist. Thom freed Moiraine, and Mat was forced to bargain with the Eelfinn to leave with Moiraine and receive unbarred passage out of that world. Realizing the meaning of the Aelfinn's predictions, he surrendered half the light of the world in order to save the world which meant sacrificing his left eye in exchange for Moiraine's release. 
+
+Following the bargain, they make their way through the tower; however, the safe passage out became a wild chase as the Aelfinn had not agreed to the bargain. Noal, revealing himself as Jain Farstrider, sacrificed himself  to buy time for the others to get away. Mat and Thom decided to attempt escaping using the Aelfinn's red archway to escape, but when they reached its location, they discovered that it had been destroyed. As the Aelfinn closed in on them, Mat remembered that the request the Eelfinn had granted him of a way out had given him his ''ashandarei''. Realizing that the spear was a way out, he used it to draw the same symbol that they had used to enter on the wall. This allowed them to escape through a new exit in the tower.
+
+=== Being Free ===
+[[File:Moiraine Damodred.JPG|left|thumb|311x311px|Moiraine Damodred battling Lanfear<br />''eBook cover by Dan Dos Santos'']]
+Once finally free from the Finn, Moiraine revealed that the Eelfinn and Aelfinn had decreased her ability to channel because they had been feeding off her power. She did, however, possess a bracelet ''[[angreal]]'' that allowed her to be stronger than she was before. When she went through the ''ter'angreal'', the ancient treaty held for both her and Lanfear, and she was granted three demands. One of her demands was getting that ''angreal'', but what her other two demands were she did not reveal to anyone.
+
+Thom, Mat, and Moiraine settled down to rest a short walk from the tower. After some discussion of events that had occurred during her captivity, she asked Thom to marry her, fufilling a viewing Min had of her stating, without details, that she would marry Thom.{{ref/book|c|Moiraine Damodred}} He accepted and decided to become Moiraine's Warder as well.
+
+=== The Last Battle ===
+[[File:Dcwe42d-4b8fff4a-99f2-4113-a155-80acc0a3e396.jpg|thumb|396x396px|Moiraine Damodred returns, by Isabel Westling.]]
+[[File:MoiraineServantOfAll.JPG|thumb|200px|right|Moiraine Damodred, A Servant of All - By Ariel Burgess Official Wheel of time Artist]]
+Moiraine appeared at the [[Field of Merrilor]] when Rand and the leaders of the nations were meeting to discuss the [[Dragon's Peace]]. She entered the tent just as Rand had lost his patience and was leaving. She convinced Rand to stay to continue negotiations and reminded the leaders of several prophesies regarding the Dragon Reborn. Her appearance saved the talks and gave the impetus to everyone to sign the agreement.
+
+Moiraine was with Rand when he Traveled to Lan's camp in Shienar. She tried to convince Rand to not join the battle, as he must save himself for his confrontation with the Dark One. Rand felt he must help his people and left anyway. Rand was not gone long before he stumbled back through the gateway. The [[Dreadlords]] were watching for him and tried to shield him with a full circle. Moiraine chided him against attacking like this again. She was with Rand, when he stood just outside [[Shayol Ghul]] testing whether the [[Dull dagger]] worked.
+
+Moiraine and Rand had a moment to catch up before he launched his attack on Shayol Ghul. She tried to discover what his plan was against the Dark One. Rand told her that he wished to make peace with the Seanchan first, as Mat was with the Empress at this time. He also revealed that he wished to actually kill the Dark One due to him not being apart of the Pattern. Moiraine did not believe it could be done. He told her he had more wisdom over his accrued lifetime including Lews Therin's life, but she brushed him off knowing he only had the memories. Moiraine also had knowledge of Mat having other men's memories. She then commanded Rand to make some tea, which Rand moved did quickly, before realizing what she just did to him. Moiraine wondered if Rand had finally the right balance of self-effacement and pride to succeed. She then enjoyed the tea that always tasted better when Rand made it. Moiraine counciled Rand to stop delaying his attack on Shayol Ghul, telling him he should not try to go to the Black Tower because it was a trap for him.
+
+Moiraine accompanied Rand, Nynaeve, and Thom to Shayol Ghul to assist Rand with a power circle. Thom decided to wait at the entrance where Thom and Moiraine kiss each other goodbye. As the group entered the pit, Moiraine was shocked when they heard the Creator speak to Rand. They encountered [[Moridin]], who had come to confront and defeat Rand. She and Nynaeve linked to provide their power to Rand who drew upon it to wield [[Callandor]] against Moridin. Moiraine and Nynaeve were caught up in a maelstrom that prevented them from most movement and were held in place until Rand was at the point of defeating the Dark One. When he dropped Callandor during his duel with Moridin, Moridin picked up the sword to use it against Rand. But Moiraine and Nynaeve used their link to control the power of the Sword, pulling the energy through Moridin, thereby also using the [[True Power]]. Once the Dark One's bore was resealed, Moiraine and Nynaeve escaped the cave. She then collapsed into Thom's waiting arms. She mourned Rand at his funeral.
+
+==Etymology and parallels==
+The name Moiraine might be connected to the [http://en.wikipedia.org/wiki/Moirae Moirae], who "controlled the metaphorical thread of life of every mortal from birth to death." This is consistent with the series' main philosophy and may also reflect the fact that Moiraine had dedicated her life to Rand from the moment of his birth, and based on Min's viewings, would presumably continue to do so until his death. The word 'Moira' is also Greek for 'fate,' which is rather fitting considering her role in the series.
+
+One might possibly parallel a connection of the character Moiraine to the character [http://en.wikipedia.org/wiki/Merlin Merlin] from the Arthurian legend. Merlin is Arthur's trusted advisor and helps him after he pulls the sword from the stone. Merlin meets his end in one version by being trapped in an Invisible tower. Nimue, from the Arthurian legend, also called Nynaeve in one version, hates Merlin but steeled herself, so she could learn from Merlin. 
+
+Another likely influence on the naming and character development of Moiraine comes from the Slavic goddess [[wikipedia:Marzanna|Marzanna]]. From the Wikipedia page, "'''Marzanna''' (in Polish), '''Morė''' (in Lithuanian) or '''Morena''' (in Czech, Slovak, Russian) or also Mara, Maržena, Morana, Moréna, Mora or Marmora is [...] associated with seasonal rites based on the idea of death and rebirth of nature. She is associated with death, winter, and nightmares." The theme of death and rebirth is a vital part of Moiraine's character arc throughout the Wheel of Time series. In the first book, she was especially insistent on Rand, Perrin, and Mat informing her of any nightmares they had. She was of the Blue Ajah and described frequently as giving "cool" looks or having a "cool" or "cold" demeanor, all of which subtly allude to winter. 
+[[File:Moiraine painting.jpg|thumb|262x262px|Moiraine by Kristina Djordjevic]]
+
+== Personal Quotes ==
+{{wotqs|Moiraine}}
+*"''Live with what you cannot change.''"{{ref/book|0|4}}
+*"''You learn nothing if you put someone's back up to start''."{{ref/book|0|6}}
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Moiraine Damodred}} was played by actress {{TVlink|Rosamund Pike}}.
+
+{{notes}}
+{{wikipedia|Moiraine Damodred}}
+{{Primary Protagonists}}
+{{DEFAULTSORT:Damodred, Moiraine}}
+
+[[es:Moraine Damodred]]
+[[it:Moiraine Damodred]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Low Ranking Aes Sedai]]
+[[Category:Best healers]]
+[[Category:Sparkers]]
+[[Category:Notes needed]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Nobility]]
+[[Category:POV character]]
+[[Category:Wilders]]
+[[Category:Royalty]]

@@ -1,0 +1,24 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| hair=Short, yellow
+| occupation=Damane
+| nationality=Seanchan
+| gender=Female
+| status=Alive
+| appeared={{tfoh|32}}
+| lastappeared={{tfoh|32}}
+| living=tfoh
+}}
+'''Jini''' is a ''[[damane]]'' from [[Seanchan]].
+
+== Appearance ==
+She has short yellow hair.
+
+== Activities ==
+She is with a group of soldiers in Seanchan, when they find the [[Gateway]] left by [[Rand al'Thor]] and [[Aviendha]]. She is held by bonds of Air by [[Aviendha]]. Rand then tries to take Jini's ''[[a'dam]]'' off but is jolted by a shock of pain as soon as he touches it. Both Aviendha and Rand then run off back through the gateway. She is placed into the custody of the [[Seekers for Truth]] by [[Jalindin]].{{ref/book|5|32}}
+
+{{notes}}
+[[Category:Sparkers]]
+[[Category:Slaves]]
+[[Category:Channelers]]

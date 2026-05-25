@@ -1,0 +1,41 @@
+{{character 
+| image=ArafelFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Arafellin
+| rank=Lieutenant
+| occupation=Soldier
+| affiliation=Queen's Guard
+| gender=Female
+| build=Lean
+| appeared={{Wh|7}}
+| lastappeared={{kod|35}}
+| living=kod
+}}
+'''Caseille Raskovni''' is a [[lieutenant]] in the [[Queen's Guards]].
+
+== Appearance ==
+She is lean with bells in her hair. She stands 5'6 tall, with a narrow face, dark eyes, and dark hair cut off above the shoulders and tied back with a black ribbon. 
+
+She had mannish mannerisms, a brisk way of talking, and seemed tightly coiled. She seemed lean and hard as any [[Maiden of the Spear]].
+
+She did not sound cultured or educated, but she was brisk and no-nonsense.
+
+==History==
+She is from [[Arafel]]. She was a merchant's guard for nearly twenty years, which was very rare.
+
+She is reticent about her past.
+
+== Activities ==
+She is one of the Queens's Guards placed as a bodyguard when [[Elayne Trakand]] moves through [[Caemlyn]] to greet the people.
+She comes to argue with Elayne about having a group of bodyguard around her when she goes to meet with the [[Borderlander]] Rulers. [[Birgitte Silverbow]] sends her away without any luck.
+
+She is part of Elayne's bodyguard, when Elayne does her tour around [[Andor]] visiting all the minor Houses.
+
+She leads the Bodyguards in the rescue attempt of Elayne from the [[Black Ajah]]. She escorts Elayne to her meeting with the neutral [[High Seat]]s.
+
+Birgitte thinks she is a natural bannerman, but Elayne wants her to command, saying that a bannerman could handle about twenty (the number she hoped to keep the bodyguard to). 
+
+She starts as an under-lieutenant, then becomes second to [[Doilin Mellar]] when he is Captain. She later becomes a lieutanent with two knots of rank.
+
+{{DEFAULTSORT:Raskovni, Caseille}}

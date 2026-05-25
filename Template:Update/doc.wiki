@@ -1,0 +1,19 @@
+==Purpose of template==
+This template is used to flag pages that need updates.
+
+==How to use==
+ <nowiki>{{update|description=description}}</nowiki>
+
+==Examples==
+
+===Basic===
+
+ <nowiki>{{update}}</nowiki>
+
+{{update}}
+
+===With description===
+
+ <nowiki>{{update|description=Needs more information.}}</nowiki>
+
+{{update|description=Needs more information.}}

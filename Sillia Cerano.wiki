@@ -1,0 +1,18 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Sillia Cerano
+| gender=Female
+| mentioned={{tfoh|36}}
+| lastmentioned={{tfoh|47}}
+| living=tfoh
+}}'''Sillia Cerano''' is the owner and manager of a touring circus that directly competed with  [[Valan Luca's Traveling Show]].{{ref|{{twotc}}, Sillia Cerano}}
+
+==Activities==
+[[Valan Luca]] is annoyed when he finds out that Sillia has set up her circus at [[Samara]] before he did. He also learns that she has clowns at her circus.{{ref/book|5|36}} Her good fortune does not last long however. When [[Masema Dagar]], self-proclaimed Prophet of the [[Dragon|Lord Dragon]], has Sillia flogged and [[Chin Akima]] beheaded for not leaving Samara fast enough to suit him. In the ensuing chaos, Valan Luca hires the [[Andaya Murasaka|Murasaka]] sisters away from Sillia's show.{{ref/book|5|47}}
+
+{{notes}}
+{{DEFAULTSORT:Cerano, Sillia}}

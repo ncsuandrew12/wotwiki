@@ -1,0 +1,22 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| type=horses
+| animal=Horse
+| status=Dead
+| owner=Faile Bashere
+| gender=Mare
+| color=Glossy black
+| appeared={{tsr|18}}
+| lastappeared={{tpod|30}}
+}}
+{{for|the ''[[ter'angreal]]'' owned by [[Cadsuane Melaidhrin]]|Golden swallow}}
+'''Swallow''' was the horse owned by [[Faile Bashere]].
+
+==Appearance==
+Swallow was a glossy black mare of [[Tear|Tairen]] stock.
+
+==Activities==
+Soon after arriving at the [[Stone of Tear]], Faile purchased Swallow.{{ref/book|4|18}} Swallow carried Faile from Tear, through the [[Ways]] and into the [[Two Rivers]].{{ref/book|4|18}}{{ref/book|4|27}} Both [[Tamlin al'Thor]] and [[Abell Cauthon]] admired [[Stepper]] and Swallow before they walked with Perrin in [[Emond's Field]].{{ref/book|4|31}} Swallow later journeyed with Faile from Emond's Field up to [[Watch Hill]] to rescue prisoners of the [[Children of the Light|Whitecloaks]].{{ref/book|4|32}} Faile later left the Two Rivers on Swallow to go to [[Caemlyn]] with Perrin and a group of Two Rivers men.{{ref/book|6|45}} When [[Rand al'Thor]] had Perrin and Faile [[Traveling|Travel]] to [[Cairhien]], the Two Rivers men followed them to the [[Cairhien (city)|city]] with Swallow and Stepper.{{ref/book|7|4}} When Perrin's group Traveled to [[Ghealdan]], Faile brought Swallow.{{ref/book|8|7}} Swallow and Stepper carried Faile and Perrin while they scouted [[Bethal]].{{ref/book|8|7}} Swallow was later killed when Faile was taken ''[[gai'shain]]'' by the [[Shaido]] [[Aiel]].{{ref/book|8|30}}
+
+{{notes}}

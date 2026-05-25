@@ -1,0 +1,30 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Maid
+| affiliation=Egwene al'Vere
+| gender=Female
+| build=Plump
+| height=Stout
+| hair=Dark
+| appeared={{Loc|36}}
+| lastappeared={{tgs|43}}
+| living=tgs
+}}
+'''Chesa''' is [[Egwene al'Vere]]'s maid.
+
+==Appearance==
+She has dark hair without a touch of gray.  She is plump, pretty and stout. She is in her mid-thirties (barely twice Egwene's age). {{ref/book|10|20}} She was 5'3 or 5'4 tall.
+
+She has a gray dress and darns socks.
+
+==Activities==
+When Egwene is raised to [[Amyrlin Seat]], [[Sheriam Bayanar]] finds Chesa and assigns her as Egwene's maid. During the [[Rebel Aes Sedai]]'s march to [[Tar Valon]], Chesa has her own tent. She is often present in meetings with Egwene and offers advice, but only as if talking to herself so she does not overstep. She notes that Egwene's headaches probably come from lack of sleep. 
+
+When [[Romanda Cassin]] and [[Lelaine Akashi]] find [[Meri]] and [[Selame]] to be Egwene's maids as well, they are forced to share Chesa's tent. Chesa oversees them. [[Halima Saranov|Halima]] would later murder Meri and Selame to keep them from spying and blowing her cover; Chesa complains that they ran off. Chesa survived simply because she was not a spy for anyone. Halima does make her uncomfortable though, which Egwene notices.
+
+When Egwene is captured by the Tower Aes Sedai, Chesa weeps often but keeps Egwene's tent neat. She is overjoyed when Egwene returns.
+
+{{notes}}

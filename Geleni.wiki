@@ -1,0 +1,16 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| nationality=Borderlander
+| status=Alive
+| occupation=Farmer
+| gender=Male
+| appeared={{tgs|p}}
+| lastappeared={{tgs|p}}
+| living=tgs
+}}'''Geleni''' is one of [[Renald Fanwar]]'s farmhands.{{ref|{{twotc}}, Geleni}}
+==History==
+He is at the village buying new seed when Renald decides to follow [[Thulin]] north. Renald sends another of the farmhands to fetch him.
+
+{{notes}}
+[[Category:Short pages]]

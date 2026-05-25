@@ -1,0 +1,70 @@
+{{character
+| image=KandorFlag.png
+| imagesize=250px
+| ewot=ethenielle noramaga
+| affiliation=Kandor
+| nationality=Kandori
+| title=Queen of [[Kandor]], [[Protector of the Land]], [[Shield of the North]], [[High Seat]] of [[House Materasu]]
+| rank=Queen
+| gender=Female
+| build=Plump
+| hair=Black, dusted with gray
+| eyes=Clear blue
+| status=Alive
+| mentioned={{ns|22}}
+| appeared={{tpod|p}}
+| lastappeared={{amol|10}}
+| lastmentioned={{amol|18}}
+| living=amol
+|birth ={{ne|946}}
+|height = 5'4"
+}}
+'''Ethenielle Kirukon Materasu, ''' is the Queen of [[Kandor]], seated on the [[Throne of the Clouds]] residing in [[Aesdaishar Palace]], [[Chachin]].  
+
+Her full title is "Her Most Illumined Majesty, By the Blessing of the Light, Queen of Kandor, [[Protector of the Land]], [[Shield of the North]], High Seat of [[House Materasu]]."{{ref|{{twotc}}, Ethenielle Kirukon Materasu|comp}}{{ref|{{tsasg}}. Note: This uses "Illuminated" rather than Illumined, but Illumined is consistent with a similar title for [[Tenobia si Bashere Kazadi]] used in the books and Companion}}
+
+== Appearance ==
+She is about 5'4" tall and buxom, plump, with clear blue eyes and black hair dusted with a few gray. She is stately with a considerable regal dignity.{{ref||comp}}
+
+==History==
+Ethenielle was born in {{ne|946}} and has at least one brother and two sisters, one of which, [[Nazelle]], was married to Lord [[Ismic]] on Ethenielle's command.
+
+She was married to Prince Consort [[Brys Noramaga]], Swordbearer to the [[Throne of the Clouds]], and general of Kandor's army. By law, only one of them can leave Chachin at any one time, except in times of war. Returning to Chachin from the Aiel War because of a flare-up in the Blight, Brys' presence allowed Ethenielle to go on a royal tour with her oldest son and so she is not present for the events of New Spring.{{ref/book|0|25}} 
+
+Ethenielle had eight children with Bryn during the sixteen years of their marriage. Seven of those survived until adulthood.{{ref||comp}} They are:
+
+# [[Antol]]: First son, born {{ne|964}}.
+# [[Jarene]]: First daughter, born {{ne|966}}. 
+# [[Diryk]]: Second son, born {{ne|971}}. Died {{ne|979}}.
+# Daughter, younger than Jarene, whose name is unknown.{{ref/book|0|25}}
+# Three more sons, two of whom were infants in {{ne|979}}.{{ref/book|0|25}}
+# Another child.
+
+Seven children are mentioned in New Spring. The eighth is either a discrepancy, not mentioned in New Spring, or was born later in {{ne|979}}.
+
+Her heir is Prince [[Antol]], the older son of her and Brys. Ethenielle personally negotiated political marriages for her children. The unnamed daughter is wed to King [[Easar Togita]]'s third son, and one of her sons is married to King [[Paitar Nachiman]]'s favorite granddaughter. Jarene married a Kandori lord.
+
+Both her husband and son Diryk were murdered in {{Ne|979}} by [[Merean Redhill]] of the [[Black Ajah]], posing as [[Blue Ajah]]. [[Moiraine Damodred]] was present at their deaths, dueling Merean with the [[One Power]], but the only person alive who knows this is her [[Warder]], [[Lan Mandragoran]], and neither Moiraine's presence nor Merean's involvement in the deaths of the Prince Consort and the heir to the throne were ever discovered.
+
+She has one named grandson, [[Kaisel Noramaga]]. Having so many children, she likely has many more grandchildren.
+
+== Activities ==
+===From the Borderlands to Far Madding===
+She meets with the other Borderland rulers and makes a blood pact with them before setting out from the Borderlands to look for [[Rand al'Thor]].
+
+The army travels to [[Braem Wood]] in [[Andor]] where it camps down for the winter. She, with the rest of the rulers, meets with [[Elayne Trakand]]. They agree with her to carry on moving south towards [[Murandy]] in exchange for Elayne not raise a hostile hand against them as they travel through Andor. 
+
+Rand finally agrees to meet with all the Borderlander rulers in the city of [[Far Madding]]. Ethenielle takes the lead in negotiations and strikes Rand across the face. After being struck by the other three rulers, [[Paitar Nachiman]] asks Rand a question about [[Tellindal Tirraso]]. When Rand answers, the four rulers then agree that Rand is the [[Dragon Reborn]] and officially meet with him. Rand demands their oath of allegiance, otherwise he will leave the Borderlander army to sit where it is and miss the [[Tarmon Gai'don|Last Battle]].
+
+===To the Last Battle===
+Ethenielle is the only monarch to not attend the signing of the [[Dragon's Peace]], instead leaving her son Antol to act in her stead. She returns to Kandor, which has fallen to the [[Shadow]], organizing her peoples retreat. Later the Borderland rulers with their armies are transported through [[gateway]]s to [[Tarwin's Gap]] to help [[Lan]] against the Shadow's Armies. Ethenielle marries [[Kalyan Ramsin]] at some stage before getting to Tarwin's Gap. Ethenielle rides to meet with Lan when [[Dreadlords]] join the battle and start pummeling their army with the [[One Power]]. Lan orders the retreat of the Gap. They fought bravely in the Shienar campaign, but finally are defeated and have to retreat again to Merrilor. There the Last Battle is fought and won and Ethenielle is among the survivors. 
+
+===Errata===
+Her name is given as Ethenielle Cosaru Noramaga in [[The World of Robert Jordan's The Wheel of Time]], but this name is never used in the books, the book predates her first mention in [[The Path of Daggers]] and does not contain any great detail about Kandor. Her full name given in this article is also not referred to in the books, but other auxiliary resources, [[The Strike at Shayol Ghul]], [[The Wheel of Time Companion]], [[The Wheel of Time Roleplaying Game]] and [[Origins of the Wheel of Time]], all refer to Ethenielle Kirukon Materesu. Two of these use Robert Jordan's notes as their source, so we will adopt this as canon. In addition, the entry for her husband in the Companion details that he adopted her name because she was of the greater House and already in line for the throne. While both he and their grandson are listed as Brys Noramaga and [[Kaisel Noramaga]] respectively in the Companion, only Kaisel is referred to by his full name, and then only once in Towers of Midnight.{{ref|{{twotc}}, Brys Noramaga}}{{ref|{{twotc}}, Kaisel Noramaga}}{{ref/book|13|42}}{{ref/book|14|16}}{{ref|New Spring}}
+
+===Parallels===
+Ethenielle's surname Kirukon is similar to [[Sword of Kirukan]], the symbol of the rulers of Kandor, perhaps indicating the importance of her House. Michael Livingston notes in [[Origins of the Wheel of Time]] that her name Materesu comes from the Japanese goddess of the sun, [[wikipedia:Amateresu|Amateresu]], also linked to [[Amaresu]], one of the [[Heroes of the Horn]].{{ref|Origins of the Wheel of Time, Ch. 4, Ethenielle Kirukon Materesu|origins}}{{ref|Origins of the Wheel of Time, Ch. 4, Amaresu}} Ameresu also carries the Sword of the Sun. Linguistic similarities between the names, the legendary sword and the sky theme of the Throne of Clouds and the sun may indicate Jordan intended them to be linked in some way. More speculatively, Amaresu may have been an ancestor of Ethenielle's.
+
+Michael Livingston also notes that her first name, Ethenielle, comes from ''Ethanael'' meaning "God-given strength".{{ref||origins}}
+{{notes}}
+[[Category:POV character]]

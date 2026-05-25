@@ -1,0 +1,343 @@
+{{proposed}}
+{{shortcut|CI}}
+
+When using these categories on article pages, try to list them in chronological order.  For example, Nynaeve was a Wisdom before Accepted, before Yellow Ajah.
+
+==Characters==
+'''Rule of thumb:''' Phrase all subcategories to be as short-named and wide-encompassing as possible.  Avoid creating compound categories out of distinct concepts such as "Male Forsaken",  "Tairen Lords", etc. If membership in one category such as "Aes Sedai" '''''implies''''' membership in another category such as "Channellers", then '''''and only then''''' should the former be a subcategory of the later.'''
+
+* [[:Category:People|People]] (was [[:Category:Characters|Characters]])
+** [[:Category:Ogier|Ogier]]
+** Aelfinn <!---No named characters of the Aelfinn.--->
+** Eelfinn <!---No Named characters of the Eelfinn.--->
+** [[:Category:Wolves|Wolves]]
+** [[:Category:Shadowspawn|Shadowspawn]]
+
+===Humans===
+* Humans <!---Subsumed into Category:People.--->
+
+====Men====
+* [[:Category:Men|Men]]
+<!--** ''maybe these can be category redirects, for specific people to be categorized as?''
+** ''guess I'll have to read up on what category redirects would accomplish'' --[[User:Gherald|Gherald]] 15:14, 26 Oct 2005 (UTC)-->
+**
+** [[:Category:Asha'man|Asha'man]]
+** [[:Category:Blademasters|Blademasters]]
+** [[:Category:Children of the Light|Children of the Light]]
+** [[:Category:Clan chiefs|Clan chiefs]]
+** [[:Category:Band of the Red Hand|Band of the Red Hand]] -- too long of a category name, IMO --[[User:Gherald|Gherald]]
+** Village Council <!---Subsumed into Category:Local Government.--->
+** [[:Category:Warders|Warders]]
+** [[:Category:Wolfbrothers|Wolfbrothers]]
+<!--**** ''With apologies to [[Birgitte]].'' [[User:Gherald|Gherald]]
+*** ''this is a not inconsequential exception, but I think it's okay.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>-->
+** [[:Category:Lords|Lords]]
+*** [[:Category:Kings|Kings]]
+** [[:Category:Generals|Generals]]
+<!--*** ''but are <u>all</u> generals men? What about the women who lead armies in the Borderlands, and in the [[Trolloc Wars]]?'' [[User:Nae'blis|nae'blis]]<i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+*** ''I don't know of any offhand. Would they call themselves Generals?''  --[[User:Gherald|Gherald]] 15:36, 26 Oct 2005 (UTC)
+*** ''I think the Saldaean ones do; and one of the books has a prophecy/quote from "First Maid and Sword-Captain" (or something)... [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>-->
+
+====Women====
+* [[:Category:Women|Women]]
+** Dreamers <!---Subsumed into Category:Dreamwalkers--->
+*** But isn't [[Perrin Aybara|Perrin]] also a Dreamer? --[[User:Dairhenien|Dairhenien]]
+**** I added [[:Category:Wolfbrothers]] below.  Do we know of any other men that dream?  Does Slayer count? --[[User:Gherald|Gherald]] 14:54, 30 Oct 2005 (UTC)
+***** Not sure where you added it, but I tried to solve it by putting both in [[:Category:Tel'aran'rhiod]] (which I just made up on the spot, heh). [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:23, 23 Dec 2005 (UTC)
+** [[:Category:Ladies|Ladies]]
+*** [[:Category:Queens|Queens]]
+<!--*** ''these seem to be multicats of Nobility/Royalty with Women.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+**** Yes, they are. --[[User:Gherald|Gherald]] 20:17, 28 Oct 2005 (UTC)-->
+** [[:Category:Maidens|Maidens]]
+** [[:Category:Roofmistresses|Roofmistresses]] and [[:Category:Windfinders]] and ...
+<!--**** ''how many will be here? What if they're just under [[:Category:Aiel]] and [[:Category:Women]]?'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+*** ''It's not terribly necessary, but I'd like to have a list.  It can be inlined to [[Roofmistresses]] if you prefer. [[User:Gherald|Gherald]]''-->
+** [[:Category:Windfinders|Windfinders]]
+** Women's Circle<!---Subsumed into Category:Local Government --->
+<!--**** ''too Two-Rivers-centric...'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+*** ''It's not terribly necessary, but I'd like to have a list.  It can be inlined to [[Two Rivers]] if you prefer.'' [[User:Gherald|Gherald]]-->
+** [[:Category:Wise Ones|Wise Ones]]
+** ''A fair amount of subcategories in "Channelers" belong under here as well, but that list is ommited for brevity.''
+
+====Channelers====
+* [[:Category:Channelers|Channelers]]
+** [[:Category:Asha'man|Asha'man]]
+** [[:Category:Forsaken|Forsaken]]
+** [[:Category:damane|damane]]
+** [[:Category:Wilders|Wilders]]
+** Learned ability<!---Unneeded--->
+*** ''or Trained channelers<!Unneeded--->, or something'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+*** [[:Category:Sul'dam|Sul'dam]]
+**Marath'damane<!---Somewhat Seanchan-specific--->
+*** [[:Category:Kinswomen|Kin]]
+*** [[:Category:Aes Sedai|Aes Sedai]]
+**** [[:Category:Blue Ajah|Blue Ajah]]
+**** [[:Category:Brown Ajah|Brown Ajah]]
+**** [[:Category:Red Ajah|Red Ajah]]
+**** [[:Category:Gray Ajah|Gray Ajah]]
+**** [[:Category:Green Ajah|Green Ajah]]
+**** [[:Category:White Ajah|White Ajah]]
+**** [[:Category:Yellow Ajah|Yellow Ajah]]
+**** [[:Category:Black Ajah|Black Ajah]]
+**** [[:Category:Unknown Ajah|Unknown Ajah]]
+**** [[:Category:Accepted|Accepted]]
+**** [[:Category:Novices|Novices]]
+** '''''NB:''' None of the subcategories currently being listed under "Women" belong here, because not '''all''' their members can channel.''
+
+====Nationalities====
+*[[:Category:Nationality/Origin|Nationality/Origin]]
+** [[:Category:Seanchan|Seanchan]]
+*** [[:Category:The Blood|The Blood]]
+** [[:Category:Tuatha'an|Tuatha'an]]
+** [[:Category:Atha'an Miere|Atha'an Miere]]
+*** [[:Category:Cargomasters|Cargomasters]]
+*** [[:Category:Wavemistresses|Wavemistresses]]
+*** [[:Category:Windfinders|Windfinders]]
+*** [[:Category:Sailmistresses|Sailmistresses]]
+** [[:Category:Aiel|Aiel]]
+*** [[:Category:Clan chiefs|Clan chiefs]]
+*** [[:Category:Roofmistresses|Roofmistresses]]
+<!--*** ''Avoid a Category:Aiel Societies.  That would imply Category:Aiel Clans, and would just lead to pointless further subdivisions''  [[User:Gherald|Gherald]]
+*** ''I'm not sure I agree, but okay for now.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>-->
+*** [[:Category:Maidens|Maidens]]
+*** [[:Category:Wise Ones|Wise Ones]]
+*** (list of other societies)
+*** (list of clan subcategories and ''their'' sept subcategories)
+** [[:Category:Andor|Andor]]
+** [[:Category:Cairhien|Cairhien]]
+** [[:Category:Illian|Illian]]
+** [[:Category:Tear|Tear]]
+** [[:Category:Borderlands|Borderlands]]
+** [[:Category:Shienar|Shienar]]
+** (other Borderlands)
+** [[:Category:Shara|Shara]]
+** ''(add other nationalities as needed)''
+
+====Organizations====
+* [[:Category:Organizations|Organizations]]   
+** ''name subject to change - these are all organizations by choice, as contrasts with [[:Category:Nationality/Origin]]
+*** See talk page.  Basically I think all of these are Skills/Trades/Nationalities, except Darkfriends.  --[[User:Gherald|Gherald]] 07:39, 28 Oct 2005 (UTC)
+* [[:Category:Illuminators|Illuminators]]   
+* [[:Category:Wavemistresses|Wavemistresses]]   
+* [[:Category:Windfinders|Windfinders]]   
+* [[:Category:Sailmistresses|Sailmistresses]] ''(all three under [[:Category:Atha'an Miere]] as a nationality)''   
+* [[:Category:Asha'man|Asha'man]] or * Black Tower<!---subsumed into Category:Asha'man--->
+* [[:Category:White Tower|White Tower]]   
+** [[:Category:Aes Sedai|Aes Sedai]]
+** [[:Category:Warders|Warders]]
+<!--** [[:Category:Accepted|Accepted]]
+** [[:Category:Novices|Novices]]-->
+** <s>Tower staff - not sure what to call this one. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i></s>
+*** Unless a particular need arises, can't we just have these directly under [[:Category:White Tower|White Tower]]? --[[User:Gherald|Gherald]] 23:57, 7 Nov 2005 (UTC)
+**** Yep, I like it; was just unsure if it should be WT or TV. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 19:32, 8 Nov 2005 (UTC)
+* [[:Category:Children of the Light|Children of the Light]]  
+* [[:Category:Military|Military]] 
+** [[:Category:Band of the Red Hand|Band of the Red Hand]]   
+** [[:Category:Illianer Companions|Illianer Companions]]   
+** [[:Category:Defenders of the Stone|Defenders of the Stone]]   
+** [[:Category:White Lions|White Lions]] 
+** ''etc...''  
+* [[:Category:Darkfriends|Darkfriends]]
+** [[:Category:Black Ajah|Black Ajah]]
+** [[:Category:Forsaken|Forsaken]]
+
+
+:::Should shadow spawn be here?  The rest seem to be essentially social groups, whereas the various shadowspawn seem to be actual distinct species. --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 02:28, 5 Nov 2005 (UTC)
+
+:::: Oh, and what about Ogier, Aelfinn, Eelfinn, and Wolves?  Are you going to classify ''them'' as ''Homo sapiens'' ?  Due to the anthropomorphic nature of fantasy, our use of "races" encapsulates "species". --[[User:Gherald|Gherald]] 03:35, 5 Nov 2005 (UTC)
+
+:::::Really, what I am objecting to is that we have all sorts of ''human'' social categorizations on the same level of the hierarchy as bona fide species/races- like the *finn, the wolves, and so on.  Are Aiel really as distinct and separable from, say, Illians as they are from Wolves?  I don't think so. We need a human category we can stick all the Aiel, Andoran, Borderlands..... &etc --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 00:34, 6 Nov 2005 (UTC)
+
+:::::: If you can come up with a good name for such a category, and a way to relate it to "Races and Nationalities", then we could use it.  But they are apparently sentient beings, so I personally don't see any point to this "non-human" distinction you are making.  --[[User:146.151.57.255|146.151.57.255]] 00:44, 6 Nov 2005 (UTC)
+
+:::::::How's that? --[[User:Marudubshinki|Maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|Contribs]] 01:01, 6 Nov 2005 (UTC)
+
+:::::::: I like it (either with the subcat "Humans" or not), but it does raise the question of whether the supercat "People" is really appropriate. "Entities" is so clinical; "Beings"? [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 04:05, 7 Nov 2005 (UTC)
+
+::::::::: There are several definitions of person/people.  I of course am of the opinion that in the context of most Fantasy and Sci-fi, being human is not a necessary condition.  But we could go back to the original "Characters" supercat... --[[User:Gherald|Gherald]] 04:49, 7 Nov 2005 (UTC)
+
+:::::::::: Oh, I agree with you, they're all "People", just wasn't sure if that was just me. I'd prefer that to "Characters", in line with my immersive ''[[wikipedia:modus operandi|modus operandi]]''. See above. [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 22:10, 7 Nov 2005 (UTC)
+
+::::::::::: I'd rather go back to [[:Category:People]] anyway, so I'm gonna switchover the ones that are in Characters. I think I was the only one seriously bringing up the question... [[User:Nae'blis|nae'blis]] ''<sub>[[User_talk:Nae'blis|(talk)]]</sub>'' 18:31, 23 Dec 2005 (UTC)
+
+:::: And now for a more apropos argument, how many times have you heard someone in real life refer to "<span class=plainlinks>[http://www.googlefight.com/index.php?lang=en_GB&word1=%22the+human+race%22&word2=%22the+human+species%22 the human race]</span>" ?  I rest my case. --[[User:Gherald|Gherald]] 12:07, 7 Nov 2005 (UTC)
+
+===Skills===
+* Skills
+** ''this seems to be getting overly specific - what about something like Category:Trades?'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i> 
+** (later) ''Okay, I think I'm seeing the point of this now, but we should make a clear dinstiction between Nationalities/Races, Organizations, and whatever this is called. At least at the top level... obviously there will be crosslinks the deeper you go.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+** [[:Category:Smiths|Gold, Silver and Blacksmiths]]
+** [[:Category:Combat|Combat]] or [[:Category:Battles|Battles]] ??
+** Some of these will include weapons and people.  But it simplifies things --[[User:Gherald|Gherald]]
+*** Category:Archers
+*** Category:Cavalry
+*** [[:Category:Green Ajah|Green Ajah]]
+*** Category:Knives
+*** Category:Spears
+**** [[:Category:Maidens|Maidens]]
+*** Category:Swords
+**** [[:Category:Blademasters|Blademasters]]
+**** [[:Category:Warders|Warders]]
+<!--***** ''This allows us to e.g. categorize Lan as a Warder, and have him grandfathered into Swordsmen.  Do we know of any Warders who do not use swords?'' --[[User:Gherald|Gherald]] 16:10, 26 Oct 2005 (UTC)
+***** ''None I can think of.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>-->
+*** Category:Staffers
+<!--**** ''who? People who wield staves?'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+***** ''Quarterstaffs, mostly.  It's a D&D term... I'm not sure this category is important enough now that Mat has his spear.  Can't think of any other stave users offhand... Julin, maybe?'' --[[User:Gherald|Gherald]]
+***** ''Yeah, Juilin, and I think Thom carried one early in the series. Moiraine, technically...'' [[User:Nae'blis|nae'blis]]<i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>-->
+** [[:Category:Entertainers|Entertainers]]
+*** [[:Category:Damane|Damane]]
+<!--**** The lights thing they do is notable, so I think the link is relevant.'' [[User:Gherald|Gherald]]
+**** ''Hmmm, okay, maybe. Still 'shave to think about this whole cat.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>-->
+*** [[:Category:Illuminators|Illuminators]]
+*** Category:Musicians
+**** [[:Category:Gleemen|Gleemen]]
+** [[:Category:Sailors|Sailors]]
+** [[:Category:Servants|Servants]]
+** [[:Category:Talents|Talents]]
+** Category:Stones player
+** [[:Category:Government|Government]]
+<!--*** ''Is Government really a subclass of Skill/Trade?'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>-->
+*** [[:Category:Gray Ajah|Gray Ajah]]
+<!--**** ''these Ajah cross-categorizations are silly IMO.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+**** ''Strange, I think they serve a very clear purpose.  If I'm looking for articles about Government, Combat/Battle, or Espionage, I may very well be interested in information about which Ajah tends to focus on that area....''  [[User:Gherald|Gherald]]-->
+***[[:Category:Nobility|Nobility]] 
+**** [[:Category:Ladies|Ladies]]
+**** [[:Category:Lords|Lords]]
+**** [[:Category:Royalty|Royalty]]
+***** [[:Category:Kings|Kings]]
+***** [[:Category:Queens|Queens]]
+***** [[:Category:The Blood|The Blood]]
+*** Category:Mayors
+*** Category:Wisdoms
+** Category:Espionage
+*** [[:Category:Blue Ajah|Blue Ajah]]
+*** Category:Daes Dae'mar
+
+==Places==
+<noinclude>
+*'''[[:Category:Places]]''' ([[Tel'aran'rhiod]])
+**'''[[:Category:Nations]]''' ([[Altara]] • [[Amadicia]] • [[Andor]] • [[Arad Doman]] • [[Arafel]] • [[Cairhien]] • [[Ghealdan]] • [[Illian]] • [[Kandor]] • [[Murandy]] • [[Saldaea]] • [[Shienar]] • [[Tarabon]] • [[Tear]] • [[Borderlands]] • [[Shara]] • [[Seanchan]] • [[Atha'an Miere]] • [[Amayar]])
+***'''[[:Category:City-states]]''' ([[Far Madding]] • [[Mayene]] • [[Tar Valon]])
+***'''[[:Category:Aiel clans]]''' ([[Chareen]] • [[Goshien]] • [[Shaarad]] • [[Tomanelle]] • [[Codarra]] • [[Shiande]] • [[Daryne]] • [[Reyn]] • [[Miagoma]] • [[Nakai]] • [[Taardad]] • [[Shaido]])
+***'''[[:Category:Historical nations]]''' ([[Jenn Aiel]])
+****'''[[:Category:Ten Nations]]''' ([[Aelgar]] • [[Almoren]] • [[Aramaelle]] • [[Aridhol]] • [[Coremanda]] • [[Eharon]] • [[Essenia]] • [[Jaramide]] • [[Manetheren]] • [[Safer]] )
+****'''[[:Category:Nations of the Free Years]]''' ([[Abayan]] • [[Aldeshar]] • [[Balasun]] • [[Basharande]] • [[Caembarin]] • [[Dal Calain]] • [[Darmovan]] • [[Dhowlan]] • [[Elan Dapor]] • [[Elsalam]] • [[Esandara]] • [[Farashelle]] • [[Fergansea]] • [[Hamarea]] • [[Ileande]] • [[Indrahar]] • [[Kharendor]] • [[Khodomar]] • [[Masenashar]] • [[Moreina]] • [[Nerevan]] • [[Oburun]] • [[Oman Dahar]] • [[Roemalle]] • [[Rhamdashar]] • [[Shandalle]] • [[Shiota]] • [[Talmour]] • [[Tova]])
+****'''[[:Category:Former Nations of the New Era]]''' ([[Almoth]] • [[Caralain]] • [[Goaban]] • [[Hardan]] • [[Irenvelle]] • [[Kintara]] • [[Malkier]] • [[Maredo]] • [[Mar Haddon]] • [[Mosara]])
+**'''[[:Category:Settlements]]''' ([[Black Tower]] • [[The Farm]])
+***'''[[:Category:Cities]]''' ([[Ankor Dail]] • [[Aringill]] • [[Camron Caan]] • [[Fal Dara]] • [[Fal Eisen]] • [[Fal Sion]] • [[Godan]] • [[Inishlinn]] • [[Katar]] • [[Malden]] • [[Mindea]] • [[Mos Shirare]])
+****'''[[:Category:Capitals]]''' ([[Amador]] • [[Bandar Eban]] • [[Caemlyn]] • [[Cairhien]] • [[Chachin]] • [[Ebou Dar]] • [[Fal Moran]] • [[Illian (city)|Illian]] • [[Jehannah]] • [[Lugard]] • [[Maradon]] • [[Seandar]] • [[Shol Arbela]] • [[Tanchico]] • [[Tear (city)|Tear]])
+****'''[[:Category:City-states]]''' ([[Far Madding]] • [[Mayene]] • [[Tar Valon]])
+****'''[[:Category:Ruins]]''' ([[Rhuidean]] • [[Seven Towers]] • [[Shadar Logoth]])
+****'''Category:Ogier-built Cities''' ([[Abor'maseleine]] • [[Al'cair'rahien'allen]] • [[Allorallen]] • [[Ancohima]] • [[Anolle'sanna]] • [[Aren Mador]] • [[Shadar Logoth|Aridhol]] • [[Barashta]] • [[Barsine]] • [[Braem]] • [[Canaire'somelle]] • [[Condaris]] • [[Corartheren]] • [[Cuebiyarsande]] • [[Cyrendemar'naille]] • [[Dalsande]] • [[Deranbar]] • [[Dorelle Caromon]] • [[Hai Caemlyn]] • [[Iman]] • [[Jara'copan]] • [[Jennshain]] • [[Londaren Cor]] • [[Mafal Dadaranell]] • [[Mainelle]] • [[Manetheren]] • [[Miereallen]] • [[Nailine Samfara]] • [[Nashebar]] • [[Rhahime Naille]] • [[Shaemal]] • [[Shainrahien]] • [[Shanaine]] • [[Shar Honelle]] • [[Tar Valon]] • [[Tear (city)|Tear]])
+***'''[[:Category:Towns]]''' ([[Abila]] • [[Alkindar]] • [[Baerlon]] • [[Bellon]] • [[Bethal]] • [[Boannda]] • [[Canluum]] • [[Coramen]] • [[Cosamelle]] • [[Elmora]] • [[Falme]] • [[Jeramel]] • [[Jurador]] • [[Manala]] • [[Maracru]] • [[Mardecin]] • [[Nassad]] • [[New Braem]] • [[Ravinda]] • [[Serana]] • [[Sienda]] • [[So Habor]] • [[Whitebridge]])
+***'''[[:Category:Villages]]''' ([[Alcruna]] • [[Brytan]] • [[Carysford]] • [[Cormaed]] • [[Deven Ride]] • [[Fyall]] • [[Ionin Spring]] • [[Marella]] • [[Medo]] • [[Mosra]] • [[Nor Chasen]] • [[Remen]] • [[Salidar]] • [[Sehar]] • [[So Eban]] • [[So Tehar]] • [[Tifan's Well]] • [[Weesin]])
+***'''[[:Category:Holds]]''' ([[Cold Rocks Hold]] • [[Bent Valley Hold]])
+**'''[[:Category:Geographical features]]''' ([[Drowned Lands]] • [[Alianelle Spring]])
+***'''[[:Category:Rivers]]''' ([[River Ivo]] • [[Manetherendrelle]] • [[Tarendrelle]])
+***'''[[:Category:Oceans]]''' ([[Sea of Storms]] • [[Aryth Ocean]] • [[Morenal Ocean]] • [[Dead Sea]] • [[Eastern Sea]])
+***'''[[:Category:Islands]]''' ([[Qaim]] • [[Cindaking]] • [[Tremalking]])
+***'''[[:Category:Mountains]]''' ([[Mountains of Mist]] • [[Kinslayer's Dagger]] • [[Dragonmount]] • [[Shayol Ghul]] • [[Spine of the World]])
+***'''[[:Category:Plains]]'''  ([[Almoth Plain]] • [[Plains of Maredo]])
+***'''[[:Category:Forests]]''' ([[Westwood]] • [[Braem Wood]] • [[Paerish Swar]])
+***'''[[:Category:Hills]]''' ([[Black Hills]] • [[Hills of Kintara]])
+**'''[[:Category:Stedding]]''' ([[Stedding Tsofu|''Stedding'' Tsofu]] • [[Stedding Shangtai|''Stedding'' Shangtai]] • [[Stedding Daiting|''Stedding'' Daiting]])
+**'''[[:Category:Nations]]''' ([[Westlands]] • [[Shara]] • [[Seanchan]] • [[Isles of the Atha'an Miere|Isles of the ''Atha'an Miere'']] • [[Land of the Madmen]] • [[Aiel Waste]] • [[The Blight]])
+***'''[[:Category:Westlands]]''' ([[Two Rivers]] • [[Borderlands]])
+****'''[[:Category:Borderlands]]''' ([[Arafel]] • [[Malkier]])
+****'''[[:Category:Two Rivers]]''' ([[Emond's Field]] • [[Watch Hill]])
+***'''[[:Category:Seanchan continent]]''' ([[Lesser Blight]])
+***'''[[:Category:Shara]]''' ([[Cliffs of Dawn]])
+***'''[[:Category:Islands of the Atha'an Miere]]''' ([[Aile Somera]] • [[Tremalking]])
+***'''[[:Category:Aiel Waste]]''' ([[Termool]] • [[Alcair Dal]])
+***'''Category:The Blight''' ([[Blasted Lands]] • [[Shayol Ghul]])<!---Subsumed into Category:Other features--->
+**'''[[:Category:Buildings]]''' ([[Tower of Ghenjei]] • [[Stone of Tear]])
+***'''[[:Category:Inns]]''' ([[Stag and Lion]])
+***'''[[:Category:Palaces]]''' ([[Royal Palace of Andor]] • [[Sun Palace]])
+</noinclude>
+===Discussion===
+''Feel free to add anythig to this list that I haven't got round to yet.'' - [[User:Jade-eyed Raven|Jade-eyed Raven]] 11:08, 14 January 2007 (UTC)
+
+==Items==
+: ''I'm tempted to rename this ''Things'', so that the wotnav template flows better.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+:: I think "Things" is too vague --[[User:Gherald|Gherald]] 12:50, 7 Nov 2005 (UTC)
+* [[:Category:Items|Items]]
+** [[:Category:Angreal|Angreal]]
+** [[:Category:Sa'angreal|Sa'angreal]]
+** [[:Category:Ter'angreal|Ter'angreal]]
+** Category:Power-wrought
+*** ''Above cats also cross-listed under [[:Category:One Power|One Power]]''
+** [[:Category:Weapons|Weapons]] - contains cross-lists from [[:Category:Combat]]
+** Category:Armor and clothes
+** [[:Category:Ships|Ships]]
+** [[:Category:Symbols]] - Perhaps cross-listed under Concepts.
+*** [[:Category:Flags|Flags]]
+*** [[:Category:Thrones|Thrones]]
+*** [[:Category:Crowns and Regalia|Crowns and Regalia]]
+
+==Events==
+Keep in mind that these subcategories will be used both for events that have their own article, and to tag chapter summaries in which they happen.
+* Category:Events
+** [[:Category:Wars|Wars]] 
+** [[:Category:Battles|Battles]] - Named battles only.
+** Category:Skirmishes - Any battle-like condition that does not have its own name.
+** Category:Fights - Any violence that does not fit under the above.
+** Category:Successions
+** Category:Chronology
+*** [[:Category:New Era chronology|New Era chronology]]
+*** ''etc...''
+** Etc. Any type of notable event can be added to this list for possible future use, but the actual categories should not be used nor tagged inside articles until there are at least 3 articles/summaries are ready to be tagged with them (Categories with only 0-2 items in them are just annoying)
+
+==Concepts==
+* [[:Category:Concepts|Concepts]]
+** [[:Category:Prophecies|Prophecies]]
+** [[:Category:Laws and customs|Laws and customs]]
+** [[:Category:Titles|Titles]]
+** [[:Category:Old Tongue|Old Tongue]]
+** [[:Category:One Power|One Power]]
+*** [[:Category:Weaves|Weaves]]
+*** [[:Category:Talents|Talents]]
+** [[:Category:ta'veren|ta'veren]]
+
+==Other==
+* [[:Category:Books|Books]]
+<s>** ''The sub-categories will include plot summaries, analysis, and discussions of that nature.'' [[User:Gherald|Gherald]]
+** ''See [[Current events]] for why I think these are unnecessary, at least currently.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+#Category:TEotW
+#Category:TGH
+#Category:TDR
+#Category:TSR
+#Category:TFoH
+#Category:LoC
+#Category:ACoS
+#Category:TPoD
+#Category:WH
+#Category:CoT
+#Category:KoD
+#Category:AMoL
+#Category:NS</s> For [[project:chapter summaries]] we have decided to use subpages instead.
+
+** Category:Analysis
+*** ''gender roles, speculation, etc?
+
+* [[:Category:Creators|Creators]]
+''Real world authors of content related to the series, such as illustrations, etc.'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+
+* Category:Tie-ins
+''Things like the d20 RPGm, the computer game, fan fiction?'' [[User:Nae'blis|nae'blis]] <i><sub>[[User_talk:Nae'blis|(talk)]]</sub></i>
+
+==[[:Category:Administrative|Administrative]]==
+* [[:Category:Cleanup|Cleanup]]
+* [[:Category:Help|Help]]
+* [[:Category:Policies|Policies]]
+* [[:Category:Proposals|Proposals]]
+* [[:Category:Redirects|Redirects]]
+* [[:Category:Todo|Todo]]
+** [[:Category:Stubs|Stubs]]
+*** [[:Category:Substubs|Substubs]]
+** [[:Category:Citation needed|Citation needed]]
+
+==See Also==
+* <span class="plainlinks">[{{SERVER}}{{localurl:Special:Allpages|namespace=14}} Currently existing category pages]</span>
+* [[Special:Categories]] — List of all categories currently being ''used'', irregardless of whether they yet exist.
+* [[Special:Uncategorizedpages]]
+* [[Special:Uncategorizedcategories]]

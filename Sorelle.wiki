@@ -1,0 +1,19 @@
+{{character | image=Leaves.png
+| imagesize=200px
+| ewothist=Sorelle
+| gender=Female
+| clan=Da'shain Aiel
+| status=Dead
+| mentioned={{tsr|26}}
+| lastmentioned={{tsr|26}}
+}}
+'''Sorelle''' was a [[Da'shain Aiel]], a [[Dreamer]] and the daughter of [[Adan]] and [[Siedre]].
+
+== History ==
+She died at age twenty during the Aiel travels during the Breaking. She was a Dreamer and dreamed of her own death coming from a fever.{{ref/book|4|26}}
+
+==Errata==
+She is listed as [[Jenn Aiel]] in [[The Wheel of Time Companion]], but this term did not exist until long after her death. She should be Da'shain Aiel.{{ref|{{twotc}}, Sorelle}}
+
+{{notes}}
+[[Category:Dreamwalkers]]

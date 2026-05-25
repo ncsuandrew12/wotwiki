@@ -1,0 +1,23 @@
+{{character 
+| image=Flag of Malkier.png
+| imagesize=250px
+| status=Alive
+| nationality=Malkieri
+| affiliation=Lan Mandragoran
+| build=
+| hair=
+| gender=Male
+| appeared={{amol|28}}
+| lastappeared={{amol|28}}
+| living=amol
+}}
+'''Geral''' is a [[Malkier]]i soldier.
+
+== Activities ==
+Geral fights at [[Tarwin's Gap]] with [[Lan Mandragoran]], and the uncrowned King of Malkier grows to respect him.{{ref/book|14|28}}
+
+== Trivia ==
+* Geral is named for Gerald Turkington, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Characters named after fans]]

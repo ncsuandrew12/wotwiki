@@ -1,0 +1,27 @@
+As this wiki has developed over the years I'm beginning to note how it has pushed past the original constraints placed upon it.  I speak specifically of section headers for characters.  If one was to dig back into the rules that chartered the wiki in 2005 there is mention made of the "AHA" acronym when it comes to building pages for characters.  This refers to the 3 primary section headers for a character:
+*Appearance
+*History
+*Activities 
+
+The idea being that these three headers were all a person needed to compress the details of a character into one succinct page.  But as time has moved on this schema has proven - at least to me - to be insufficient.  Characters have personalities.  They have unique skills.  Sometimes they leave behind legacies that last for hundreds  - or thousands - of years.  It's too much to cram into the old "AHA" acronym.  
+
+After tinkering and experimenting, as well as looking at competing wiki sites, I believe I have the best overall structure for character pages on the WoT wiki.  The lineup is as follows:
+*Appearance and Personality
+*Strength and Abilities (for channelers) 
+*Skills and Abilities (for non-channelers)
+*History
+*Activities
+*Legacy (if they are dead)
+
+Appearance and Personality - this is precisely what the title says it is.  In this section we describe the character as Jordan does, height, eye color, hair, fashion sense, whatever.  In a second paragraph we focus on a persons mannerisms.  i.e.  [[Cadsuane Melaidhrin|Cadsuane]] has no patience for people in general.  [[Elayne Trakand|Elayne]] sometimes likes to cuss.  [[Alviarin Freidhen|Alviarin]] is secretly a sociopath.  [[Matrim Cauthon|Mat]] frequently sleeps in his clothes.  You get the general idea.
+
+Strength and Abilities - For Channelers this is where we cite the WoTC and provide channeling strength.  If we don't know absolute strength (which is the case for most male channelers) we can provide an educated guess.  We also list any special skills someone has.  i.e.  [[Elmindreda Farshaw|Min]] sees auras.  [[Matrim Cauthon|Mat]] has the memories of dead generals.  [[Demandred]] is a blademaster.  ect.   For non-channelers we re-title the section "Skills and Abilities" but use the section for the same purpose.
+
+History - This is where we describe the character's life up to the moment they first enter the story.  For most characters this transition will occur when they are introduced in one of the 14 main novels.  i.e. [[Zarine ni Bashere t'Aybara|Faile]] first appears in the 3rd book and everything she did before meeting [[Perrin Aybara|Perrin]] falls under history.  However, for some characters this transition will happen sooner.  i.e.  [[Moiraine Damodred|Moiraine]] and [[Al'Lan Mandragoran|Lan]] both feature in [[New Spring]] which means only events that happen before that novel will feature in "History".
+
+Activities - This is where we detail everything that happens to a character within the main storyline.  For most characters, the core novels will control this section; but we must also remember to include [[New Spring]], [[The Eye of the World/Ravens]], and [[River of Souls]] here as well.  "Activities" ends when a character dies - but can continue if they are resurrected (i.e. [[Moridin]]) or if they continue to exist in [[Tel'aran'rhiod]] (i.e. [[Birgitte Silverbow|Birgitte]])
+
+Legacy - This is a section that will rarely apply, and usually only when the character is dead and left a lasting footprint on the world.  Historical figures such as [[Artur Paendrag Tanreall]] or [[Eldrene ay Ellan ay Carlan]] certainly fall into this category; but so can more recently deceased characters such as [[Hopper]], who inspired Perrin to forge his masterwork warhammer [[Mah'alleinir]].  Very rarely a living character may be worthy of having made a big enough impact on the world that they get a legacy section, but honestly only [[Rand al'Thor|Rand]] comes to mind at the moment.  Maybe Mat and Perrin also.
+
+Feedback on this schema is appreciated.  As time wears on I'm watching many character pages drift in these general directions but there has been no attempt to provide better structure.  I hope I've hit on the best outline.   
+[[Category:Blog posts]]

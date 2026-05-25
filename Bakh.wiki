@@ -1,0 +1,30 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=100px
+| ewothist=
+| title=
+| rank=
+| occupation=
+| nationality=Unknown nationality
+| gender=Male
+| status=Dead
+| death={{ne|1000}}
+| hair=
+| mentioned={{amol|9}}
+| lastmentioned={{amol|9}}
+}}'''Bakh''' was a soldier from the [[Borderlands]] in [[Lan Mandragoran]]'s army.{{ref|{{twotc}}, Bakh|Bakh}}
+
+== Activities ==
+Bakh fights in the Borderlander army at [[Tarmon Gai'don]]. He always had a crossbow tied to the back of his horse, despite Lan's warning that it might go off accidentaly. {{ref||Bakh}}
+
+== Death ==
+His sword got caught in a Trolloc's armor, then he is pulled off his horse by two [[Trolloc]]s. Bakh kills one with the crossbow shot to the eye. The other runs him through, but not before Bakh also mortally wounds the Trolloc with his boot knife.{{Ref/book|14|9}}
+
+==Trivia==
+*Bakh is named after Bach Payson, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{Notes}}
+{{short}}
+[[Category:Borderlands (people)]]
+[[Category:Soldiers]]
+[[Category:Characters named after fans]]

@@ -1,0 +1,17 @@
+{{Character
+| image=Wheel-icon.svg
+| imagesize=100px
+| status=Dead
+| gender=Female
+| mentioned={{tom|p}}
+| lastmentioned={{tom|p}}
+| nationality=Unknown nationality
+}}'''Yanet''' was a woman from the [[Age of Legends]] who was murdered by [[Graendal]].{{ref|{{twotc}}, Yanet}} It can be assumed that [[Lews Therin Telamon]] held some affection for her, although nothing else is known of her.
+
+== Present time ==
+Millennia later Graendal is worried that [[Rand al'Thor]], Lews Therin's incarnation, will remember her killing Yanet.{{ref/book|13|p}}
+
+{{notes}}
+{{short}}
+[[Category:Age of Legends (people)]]
+[[Category:Historical people]]

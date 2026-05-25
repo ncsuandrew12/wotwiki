@@ -1,0 +1,10 @@
+'''Refresh''' is a weave associated with [[Healing]]. While it does not remove a targets exhaustion, it does mask it, allowing a person or animal to perform as if they are well rested. Care must be taken with this [[weave]] as a subject of the weave, such as a horse, becomes mostly{{ref/book|14|44}} ignorant of their true physical state and may run up until the time that they fall over dead from exhaustion.{{ref/book|1|12}}
+
+==Examples of use==
+[[Moiraine Damodred]] uses this weave to help the [[Emond's Field|Emond's Fielders]] in their midnight flight. After seeing to the people, she performs this weave on their horses, pausing curiously in front of [[Bela]].{{ref/book|1|11}}
+
+[[Masuri Sokawa]] refreshes [[Perrin Aybara]] while he is recuperating in [[Mayene]] during the [[Last Battle]].{{ref/book|14|44}} This enables him to return to [[Tel'aran'rhiod]] and rejoin the fight against [[Slayer]] and others.{{ref/book|14|45}}
+
+{{notes}}
+{{update|There are a lot of missing examples.}}
+[[Category:Weaves]]

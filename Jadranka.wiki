@@ -1,0 +1,22 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| death={{ne|1000}}
+| height=Short 
+| build=Thin 
+| nationality=Seanchan
+| gender=Male
+| status=Dead
+| appeared={{tpod|23}}
+| lastappeared={{tpod|23}}
+}}'''Jadranka''' was an officer in the [[Ever Victorious Army]].{{ref|{{twotc}}, Jadranka}}
+
+== Appearance==
+He was a short thin man with a prominent nose.
+
+== Activities ==
+He is part of [[Furyk Karede]] troop that engage [[Rand al'Thor]]'s forces on their campaign into [[Illian]]. He questions Karede's order about retreating when their force is being destroyed by [[Asha'man]] and is killed by Karede in mid-sentence.
+
+{{notes}}
+[[Category:Ever Victorious Army]]
+[[Category:Soldiers]]

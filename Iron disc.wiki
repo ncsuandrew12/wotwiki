@@ -1,0 +1,16 @@
+{{dablink|For other uses of the word "iron," see [[Iron]].}}
+The '''iron disc''' is a ''[[ter'angreal]]'' that was stolen from the [[White Tower]] by [[Liandrin's Group of Black Sisters]].
+
+==Appearance==
+The disc is seemingly made of simple iron but has been untouched by rust over the years. It is three inches in diameter and is finely engraved with a tight spiral on both sides.{{ref/book|3|25}}{{ref/book|4|11}}
+
+==Use==
+It is a [[sleepweaver]]. By channeling spirit into the disk, the user will fall asleep and then enter ''[[Tel'aran'rhiod]]''.{{Ref/book|4|11}}
+
+==History==
+It was previously last studied by [[Corianin Nedeal]].{{ref/book|3|25}} This sleepweaver was recovered from the [[Black Ajah|Black Ajah sister]] [[Amico Nagoyin]] in [[Tear]].{{Ref/book|4|11}}{{ref/book|3|55}} [[Elayne]] made many copies of it.
+
+{{notes}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]

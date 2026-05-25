@@ -1,0 +1,18 @@
+{{ character 
+| image=Leaves.png
+| imagesize=200px
+| gender=Female
+| clan=Jenn Aiel
+| status=Dead
+| appeared={{tsr|25}}
+| lastappeared={{tsr|25}}
+}}
+'''Colline''' was a [[Da'shain]] [[Aiel]], later [[Jenn Aiel]], who lived during the middle of the [[Breaking of the World]].
+
+==History==
+Colline was the sister of [[Charlin]] and [[Alijha]]. Her mother was [[Nerrine]]. She was abducted by bandits, then rescued by a group of Aiel including her brothers. Her brother Charlin was killed during the rescue.{{ref/book|4|25}}
+
+From absence of further details in [[The Wheel of Time Companion]], it is presumed that she did not abandon the [[Way of the Leaf]]. If so, she would have become one of the first generation of those known as the [[Jenn Aiel]].{{ref|{{twotc}}, Colline}}
+
+{{notes}}
+[[Category:Jenn Aiel]][[Category:Da'shain Aiel]]

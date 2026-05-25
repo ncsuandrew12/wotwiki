@@ -1,0 +1,14 @@
+==Reviving old discussion==
+Bringing this up again from [[Wotwiki talk:Category index/archive#Resident Categories|here]]. Most seem to be fairly straight forward. There are a few that might require some interesting categorization. 
+*'''Far Madding''' - While "Far Madding Residents" keeps in line with "[[:Category:Two Rivers (people)]]," I think it would be better with something along the lines of "Far Maddingers."
+*'''Sea Folk''' - Either have "Atha'an Miere" as the person category and "Sea Folk" as the main category or something along the lines of "Sea Folk (people)" as the person category.
+*'''Seanchan''' - "Seanchan (people)"
+*'''Aiel''' - "Aiel (people)"
+*'''Tar Valon''' - Not sure if we have met people actually from Tar Valon, but for this one maybe "Tar Valoners" or "Tar Valon (people)"
+*'''Tuatha'an''' - "Tuatha'an (people)"
+
+Maybe, and I'll stress that very much, "Two Rivers Residents" might be changed to "Two Rivers (people)." The only reason I bring up the "Residents" vs. "(people)" things is the word  residents seems to conotate that they actually live there, where this would be more along the lines of origin and nationality. 
+
+Thoughts on any of this? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 23:38, June 22, 2010 (UTC)
+:Should we have a common way of saying whether it's people or not? Like have them all say (people) instead of "Far Maddingers" have it say "Far Madding (people)"? I like that idea.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 17:14, June 24, 2010 (UTC)
+So also, instead of "Andorans" or "Illianers," have "Andor (people)" and "Illian (people)?" That should work. I think that the names of the people right now are redirects to the country, but we could change it to go to the category. It really shouldn't be too hard. The {{tl|Character}} template will have to be changed and the categories created and properly sub-cat'ed. I'll look into it later today if this is what we want to do. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:25, June 24, 2010 (UTC)

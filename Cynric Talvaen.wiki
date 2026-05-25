@@ -1,0 +1,19 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Ghealdanin
+| rank=Lord
+| title=Lord
+| gender=Male
+| mentioned=[[RPG]]
+}}
+'''Cynric Talvaen''' was one of the founders of [[Ghealdan]].
+
+==History==
+In the year {{Fy|1109}}, Lord Cynric, along with [[Kirin Almeyda]], [[Valera Prosnarin]] and [[Iona Ashmar]] founded the kingdom of Ghealdan. Lord Cynric sat on the [[Crown High Council]].
+
+{{short}}
+{{DEFAULTSORT:Talvaen, Cynric}}
+[[Category:Historical people]]
+[[Category:Nobility]]

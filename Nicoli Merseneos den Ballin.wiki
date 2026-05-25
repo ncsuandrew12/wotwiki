@@ -1,0 +1,36 @@
+{{character 
+| image=IllianFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Illianer
+| rank=King
+| title=King of Illian
+| gender=Male
+| mentioned={{tdr|42}}
+| lastmentioned={{tdr|42}}
+}}
+'''Lord''' '''Nicoli Merseneos den Ballin,''' was a lord who lived near to the end of the [[War of the Hundred Years]]. He is considered to be the founder of the modern Kingdom of [[Illian]], as well as its first king.{{ref|{{twotc}}, Illian}}
+
+==History==
+As with many records of the war, Lord Nicoli Merseneos den Ballin's detailed history is not known. What is known is that circa {{Fy|1090}}, a noblewoman named [[Esmara Getares]] overran and conquered much of what is now Illian and the [[Plains of Maredo]] before launching an assault on [[Andor]]. This assault was defeated and Getares was taken prisoner by Queen [[Telaisien]].
+
+Following this event, in roughly FY 1094 Lord Nicoli Merseneos den Ballin's army captured Illian. His name suggests he was a native of the city of Illian or the surrounding area. Nicoli proclaimed himself King after taking Illian, and won the support of the people and the nobility for his rule.
+
+According to records, Nicoli Merseneos den Ballin was considered a "fair and just" ruler, noted for his wisdom in creating the bodies known as the [[Council of Nine]] and the [[Assemblage]] to help him rule over the kingdom.
+
+Lord Nicoli ordered the construction of the [[King's Palace]] early in his reign and granted permission for the Council of Nine to build a "[[Great Hall of the Council]]" on the condition it was not as large as his palace. He was unimpressed to discover their hall was in fact an exact copy of his palace, merely two feet smaller in every dimension.
+
+It is unknown how long den Ballin ruled for, or when he died, save that his children succeeded him as the ruler of Illian, and his House retained control of the kingdom for the next three centuries until it died out in all but the most distant lines.{{ref|{{twotc}}, Illian}} 
+
+==Additional information==
+King Nicoli's name is never mentioned in the book series, only referred in a conversation between Zarine and Perrin in the book [[The Dragon Reborn/Chapter 42|The Dragon Reborn]].
+
+''"The King's Palace,"'' Zarine said against his back, ''"and the Great Hall of the Council. It is said that the first King of Illian said the Council of Nine could have any palace they wished, just as long as they did not try to build one larger than his. So the Council copied the King's palace exactly, but two feet smaller in every measurement. That has been the way of Illian ever since. The King and the [[Council of Nine|Council of the Nine]] duel with each other, and the [[Assemblage]] struggles with both, and so while they carry on their battles, the people live much as they wish, with none to look over their shoulders too much. " ''{{ref/book|3|42}}
+
+His name comes from the [[RPG|roleplaying game]].{{verify}}
+
+{{Notes}}
+
+{{DEFAULTSORT:Merseneos den Ballin, Nicoli}}
+[[Category:Historical people]]
+[[Category:Generals]]

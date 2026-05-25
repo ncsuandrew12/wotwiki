@@ -1,0 +1,25 @@
+'''Administrators''' are Wheel of Time wiki users with so-called ''sysop'' rights. They are not in any way superior to other users, but are able to perform maintenance and security tasks. Administrators still have all of the responsibilities that any other regular user has, in addition to an administrator's more exclusive responsibilities.
+
+==Administrator responsibilities==
+Administrators at this wiki have the following privileges and responsibilities:
+
+* '''Deletion and undeletion'''. Admins can delete and un-delete pages and images.  This happens more frequently, but it is necessary to restrict permissions to this feature in order to prevent vandalism
+* '''Block and unblock'''. Admins can ban users from contributing to A Wheel of Time wiki, either for a specific amount of time, or indefinitely for multiple reasons including excess vandalism, harassment, or boosting. (see also: [[Wotwiki:Achievement Boosting|Achievement Boosting]]).
+
+==Bureaucrats==
+
+[[Special:ListUsers/bureaucrat|Full List of Bureaucrats]]
+
+'''Bureaucrats''' are administrators who have the ability to make other users into administrators. Currently [[User:Moridin 2000|Moridin 2000]] has this status.
+
+==List of Administrators==
+
+[[Special:ListUsers/sysop|Full List of Administrators]]
+
+(Listed from most active to least)
+*[[User:Moridin 2000|Moridin 2000]] <small>- [[Message wall:Moridin 2000|contact]]</small>
+*[[User:Nae'blis|Nae'blis]] <small>- [[Message wall:Nae'blis|contact]]</small>
+*[[User:Sophiae.seraphim|Sophiae]] <small>- [[Message wall:Sophiae.seraphim|contact]]</small>
+*[[User:Optimous|Optimous]] <small>- [[Message wall:Optimous|contact]]</small>
+
+[[Category:Administrators| Administrators]]

@@ -1,0 +1,23 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| gender=Male
+| status=Alive
+| tworivers=yes
+| affiliation=Perrin Aybara
+| appeared={{tom|26}}
+| lastappeared={{tom|26}}
+| living=tom
+}}
+'''Robb Solter''' is a [[Two Rivers]] man in [[Perrin Aybara]]'s army.
+
+== Activities ==
+He is sent to fetch a pavilion for a second parley between Perrin and [[Galadedrid Damodred]] the [[Lord Captain Commander]] of the [[Children of the Light]].
+
+==Trivia==
+This character is named after Wheel of Time fan Rob Soelter.<ref>Brandon Sanderson's Twitter, 10 June 2010. [https://twitter.com/BrandSanderson/status/15812215559]</ref>
+
+{{Short}}
+{{DEFAULTSORT:Solter, Robb}}
+[[Category:Characters named after fans]]

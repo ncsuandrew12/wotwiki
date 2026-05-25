@@ -1,0 +1,23 @@
+'''Cloud Dancing''' is a [[Talent]] in the use of the [[One Power]] that is the ability to control and change the weather.{{ref|{{twotc}}, Cloud Dancing}} This Talent has been cultivated by [[Sea Folk]] [[Windfinders]] who refer to it as the Weaving of Winds. {{ref/book|7|13}}{{ref|{{twotc}}, Windfinder}}
+
+==Description==
+Although not all channelers have this Talent many can be led through linking and with major workings of weather especially in the last [[Third Age]] the use of this ability was often aided by ''[[ter'angreal]]'' like the [[Bowl of the Winds]]. The Talent seems to be abundant among Sea Folk Windfinders who use it to change the course of the weather to be more favourable for their ships. It appears to be far rarer among other groups of channelers. The way the Sea Folk cultivate this ability is similar to how the [[Aiel]] [[Wise Ones]] cultivate the Talent of [[Dreamwalking]]. In the [[White Tower]] this was a talent that was much forgotten and was considered for the most part lost, having died out long ago. Whether the [[Hall of the Tower]] knew of Moiraine's skill in this area is unknown.
+
+Work within this talent is delicate as it is often difficult to predict the long term effects of a [[weave]]. "Doing too much too fast with weather could cause effects that rippled across the countryside for leagues, and you never knew what the effects might be."{{ref/book|11|13}}
+
+==Examples==
+
+[[Moiraine Damodred]] is an [[Aes Sedai]] who possesses this talent. On the way to Taren Ferry Moiraine covers the whole Taren with thick fog for miles in both directions while she is galloping on horseback. She states there are not ten women in Tar Valon who could do that unaided.{{ref/book|1|11}}
+
+[[Verin Mathwin]], also an [[Aes Sedai]], is able to call up storms that surprise even herself with their ferocity. {{ref/book|4|30}}{{ref/book|4|40}}
+
+The [[Windfinders]] of the [[Sea Folk]] have this talent, although their power and talent may differ from person to person. Windfinders use this manipulation of weather to aid in sailing. They can avoid stormy seas as well as use unusually thick [[weave]]s of Water and Air to speed the movement of ships. [[Jorin din Jubai White Wing]] is one such [[Windfinder]] aboard the ''[[Wavedancer]].''{{ref/book|4|20}}
+
+
+
+{{notes}}
+{{stub}}
+
+[[es:Danza de las Nubes]]
+[[Category:Talents]]
+[[Category:Weaves]]

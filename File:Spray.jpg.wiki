@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| Description        = [[Rand]] on the mast of the ''[[Spray]]''.
+| Source             = The cover for the ebook of ''[[The Eye of the World]]''.
+| Artist             = David Grove
+}}

@@ -1,0 +1,22 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Soldier
+| affiliation=White Tower
+| gender=Male
+| hair=Black
+| appeared={{tgs|40}}
+| lastappeared={{tgs|40}}
+| living=tgs
+}}
+'''Tijds''' is a soldier in [[Gareth Bryne]]'s army.
+
+== Appearance ==
+Tijds is a young man with neat, black hair.
+
+== Activities ==
+He reports to Bryne and [[Siuan Sanche]] about the [[Seanchan]] attacking the [[White Tower]].{{ref/book|12|40}}
+
+{{notes}}

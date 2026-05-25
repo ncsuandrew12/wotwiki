@@ -1,0 +1,9 @@
+{{swordform
+| mentioned={{4|34}}
+| used=[[Rand al'Thor]]
+}}
+{{dablink|For other uses of the words "wind" and "mountain," see [[Wind]] and [[Mountain]].}}
+'''Whirlwind on the Mountain''' is a [[sword form]]. Other than the name, nothing is known about it. [[Rand al'Thor]] used this form with a ''[[saidin]]''-wrought blade to defend against spears thrown by [[Couladin]] and two other [[Aiel]] after returning from [[Rhuidean]] with [[Matrim Cauthon]].{{ref/book|4|34}}
+
+{{notes}}
+{{short}}

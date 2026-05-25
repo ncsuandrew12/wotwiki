@@ -1,0 +1,23 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Foreseen
+| nationality=Andoran
+| occupation=Wisdom
+| affiliation=Two Rivers
+| gender=Female
+| build=Scrawny
+| height=Tall
+| appeared={{tgh|23}}
+| lastappeared={{tgh|23}}
+}}
+'''Malena Aylar''' was the name of the [[Wisdom]] in [[Emond's Field]] during [[Nynaeve al'Meara]]'s testing for [[Accepted]] in the [[White Tower]].{{ref/book|2|23}}
+
+==Appearance==
+Mistress Aylar is a tall and scrawny woman.{{ref/book|2|23}}
+
+==Activities==
+Malena is shown to be wicked, cruel and selfish in the extreme, almost to the point of being irrational. When she replaced Nynaeve, she took steps to cement her hold over the people of the Emond's Field. After securing the loyalties of [[Cenn Buie]], she pushed the husbands of the other members of the Woman's Council into voting for him to become Mayor after murdering [[Brandelwyn al'Vere]] and [[Haral Luhhan]] with poison while pretending to heal them after they spoke out against her. Her next victims were the two sons of [[Paet al'Caar]] as well as Paet himself. When Nynaeve was sent into the [[silver arches|second arch]] during her testing, she was confronted with an Emond's Field that had fallen apart without her, and was under the grip of a tyrant.{{ref/book|2|23}}
+
+{{notes}}
+{{DEFAULTSORT:Aylar, Malena}}

@@ -1,0 +1,48 @@
+{{character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Murandian
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| height=Tall
+| status=Alive
+| appeared={{loc|35}}
+| lastappeared={{kod|23}}
+| living=kod
+|birth = {{ne|935}}}}
+'''Samalin Naerodan''' is an [[Aes Sedai]] of the [[Green Ajah]] and a [[Sitter]] in the [[Salidar Hall]].{{ref|{{twotc}}, Samalin Naerodan|comp}}
+
+== Appearance and Personality ==
+Samalin is a fox-faced [[Murandian]] with a mannish stride.{{ref/book|10|19}}
+
+Despite being sharp-faced she has a surprising sense of humour and a bright, clear laugh.
+
+==Strength and Personality==
+Samalin has a strength in the [[One Power]] of {{opsl|28}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+== History==
+Samalin is [[Murandian]] and 65 years old; she was born in the year [[935 NE]] and went to the [[White Tower]] in {{ne|952}}. After spending six years as [[novice]] and five as [[Accepted]] she was raised to the shawl in the year {{ne|963}}.{{ref||comp}}
+
+Samalin has only one [[Warder]], to whom she is married, though that is not widely known.
+
+== Activities ==
+
+She was elected as a Sitter in the Rebel Hall of the Tower. She is one of the Sitters whom [[Siuan Sanche]] identifies as being too young for the position.
+
+She is one of the Aes Sedai in the [[Little Tower]] who rejects [[Egwene al'Vere]] as [[Amyrlin]] in the first vote. But she stood immediately for Egwene the second time.
+
+She votes to declare war on [[Elaida do Avriny a'Roihan]] in the first round of voting. She also votes to ally with the [[Black Tower]] and to accept the offer from the [[Dragon Reborn]] to allow sisters to bond forty-seven [[Asha'man]].
+
+She was unseated upon the reunification of the [[White Tower]] due to being surplus to requirements. [[Farnah Sadaou]] replaced the Black Ajah Sitter [[Talene Minly]], while the other two positions continued to be held by the previous incumbents [[Faiselle Darone]] and [[Rubinde Acedone]].
+
+It is presumed that she fought in and survived the [[Last Battle]].
+
+{{notes}}
+{{DEFAULTSORT:Naeroda, Samalin}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Sitters]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

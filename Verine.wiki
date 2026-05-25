@@ -1,0 +1,23 @@
+{{ character 
+| image=Accepted icon.png
+| imagesize=250px
+| nationality=Unknown nationality
+| gender=Female
+| rank=Accepted
+| affiliation=White Tower
+| status=Dead
+| appeared={{tfoh|19}}
+| lastappeared={{tfoh|19}}
+}}'''Verine''' was an [[Accepted]] in the [[White Tower]] who was murdered by [[Padan Fain]].{{ref|{{twotc}}, Verine}}
+
+==Appearance==
+She was young and pale.
+
+==Activities==
+Verine is monitoring the [[ward]] set on the storeroom that holds the [[ruby-hilted dagger]] from [[Shadar Logoth]]. When Fain unknowingly sets the ward off, Verine does not call for the [[Aes Sedai]] like she is supposed to, but instead comes to investigate herself. Fain slashes her cheek with the dagger and pulls her into the storeroom where her face begins to blacken and bloat beyond recognition. She flails uselessly on the floor, unable to scream, as the blackness spreads down to her shoulders. Fain giggles as he watches her die, licking blood from one of his hands.{{ref/book|5|19}}
+
+[[Alviarin Freidhen]] suddenly appears, telling Fain he was lucky that Verine did not do her job properly as there should be a dozen Aes Sedai there by now. She makes no attempt to [[Heal]] Verine, letting her die as punishment for her stupidity.
+
+{{notes}}
+[[Category:Channelers]]
+[[Category:Elaida a'Roihan's White Tower]]

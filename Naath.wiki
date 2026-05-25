@@ -1,0 +1,21 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewothist=eyal
+| status=Dead
+| nationality=Unknown nationality
+| gender=Male
+| mentioned={{amol|36}}
+| lastmentioned={{amol|36}}
+}}
+'''Naath''' is a man from [[Mat Cauthon]]'s memories.
+
+== History ==
+Mat remembers the stories of Naath and the [[San d'ma Shadar]] when convincing [[Egwene]] that they cannot retreat.{{ref/book|14|36}}
+
+== Trivia ==
+* Naath is named for Helen Cousins, a fan of ''The Wheel of Time''. Naath is a username, and has no connection to George R. R. Martin's ''A Song of Ice and Fire''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+[[Category:Historical people]]
+[[Category:Characters named after fans]]

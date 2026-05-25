@@ -1,0 +1,106 @@
+{{quote|No, Wisdom.  It was old Bil — I mean, Master Congar, not me!  Blood and ashes, I — |[[Matrim Cauthon]]}}
+
+{{summary | book=1 | ewot=ch3 | wotmania=4 | tarvalon=229
+|chapter=3
+|title=The Peddler
+|icon=fang
+|setting=[[Emond's Field]], The [[Two Rivers]]
+}}
+
+==Summary==
+:{{pov|[[Rand al'Thor]]}}
+
+The peddler's wagon crosses the [[Wagon Bridge]] and stops by the [[Winespring Inn]]. The members of the [[Village Council]] emerge from the inn and wait with the crowd while the peddler, [[Padan Fain]], busies himself with his wagon. [[Rand al'Thor|Rand]] and [[Matrim Cauthon|Mat]] push through the crowd to stand close behind the men of the Council, and are soon joined by their friend [[Perrin Aybara]]. After tantalizing the gathered crowd for a sufficient amount of time, Fain finally gets up to speak. 
+[[File:Padan Fain.PNG|thumb|left|150px|"The peddler reined his horses to a stop in front of the inn."]]
+
+He states that though the people of [[Emond's Field]] may feel they've lived through a harsh winter, the rest of the world has had as bad if not worse. He tells of war rising in [[Ghealdan]], with a man claiming to be the [[Dragon Reborn]] at its heart. The crowd cries out at this, the third occurrence of a [[False Dragon]] in five years, and [[Cenn Buie]] crankily wonders if this truly is a false Dragon. Fain can't speak to that, but does say that the man can wield the [[One Power]].
+
+[[Ewin Finngar]] points out that only women can safely touch the [[True Source]], and nearly gets a cuff from Buie as a reward. Fain then says that [[Aes Sedai]] have already been dispatched from [[Tar Valon]] to attempt to capture the man. [[Brandelwyn al'Vere|The Mayor]] then asks the peddler to go inside the inn so that the Village Council can ask additional questions in private.
+
+After the peddler and the council disappear into the inn, the crowd slowly disperses with the exception of a few of the younger folk.    
+Rand, Mat, and Perrin ponder the news. Mat says he heard a story from a merchant's guard that the [[Dragon]] would be ''reborn in mankind's greatest hour of need'', but Rand and Perrin are skeptical. Just as the trio are finishing a discussion about whether all Aes Sedai are [[Darkfriend]]s, [[Nynaeve al'Meara]], the village [[Wisdom]] comes by and reprimands Mat for his loose talk about [[Bili Congar]].
+
+Eventually, Rand notices that [[Egwene al'Vere]] arrived just behind Nynaeve. After telling Rand to quit staring at Egwene, Nynaeve asks why the group had been talking about something they should not have been, and Rand relays Padan Fain's news. Stating that only the [[Women's Circle]] will find out anything useful from Fain, the Wisdom leaves the group and enters the inn.
+
+Rand and Egwene get a chance to talk alone, and Rand asks her if she'll dance with him on [[Bel Tine]]. She says she will in the afternoon, but she will be busy in the morning—she's been permitted to braid her hair for the first time, meaning she is of marriageable age—dancing the [[Spring Pole|Pole]]. When Rand marks this change, he objects that not everyone of age to marry should. The two get in a bit of a tiff when Rand laughs at Egwene's comment that she might become a Wisdom. Many villages want a Wisdom that is not from their own town, and Egwene wants to see the places found in stories. 
+[[File:Nynaeve.jpg|thumb|right|150px|"Watch your tongue Matrim!"]]
+
+At this point, Mat and Perrin come over and say that Perrin has also seen the black rider. Egwene, overhearing, claims none of the three should be off leading strings, not believing any of them.
+
+The growing argument is interrupted by the appearance of a [[Thomdril Merrilin|man with shaggy white hair]].
+
+==Characters==
+* [[Padan Fain]]
+* [[Rand al'Thor]]
+* [[Brandelwyn al'Vere|Bran al'Vere]]
+* [[Tam al'Thor]]
+* [[Cenn Buie]]
+* [[Haral Luhhan]]
+* [[Samel Crawe]]
+* [[Matrim Cauthon|Mat Cauthon]]
+* [[Perrin Aybara]] (first appearance)
+* [[Ewin Finngar]]
+* [[Wit Congar]]
+* [[Hu Barran]] (first appearance)
+* [[Tad Barran]] (first appearance)
+* [[Nynaeve al'Meara]] (first appearance)
+* [[Egwene al'Vere]] (first appearance)
+* [[Thomdril Merrilin]] - as ''a man with shaggy white hair'' (first appearance)
+
+===Referenced===
+* [[Dragon]]
+* [[Dark One]]
+* [[Logain Ablar]] - as ''[[Dragon Reborn]]'' and ''false Dragon''
+* [[Bili Congar]]
+* [[Corin Ayellin]] - as ''Mistress Ayellin''
+* [[Moiraine Damodred]]
+
+==Groups==
+* [[Village Council]]
+* [[Women's Circle]]
+* [[Peddler]]
+* [[Gleeman]]
+* [[Wisdom]]
+
+===Referenced===
+* [[Aes Sedai]]
+* [[Children of the Light]]
+* [[Darkfriend]]s
+
+==Places==
+* [[Wagon Bridge]]
+* [[Emond's Field]]
+* [[Two Rivers]]
+* [[Winespring Inn]]
+* [[Green]]
+
+===Referenced===
+* [[Great Blight]]
+* [[Sea of Storms]]
+* [[Aryth Ocean]]
+* [[Aiel Waste]]
+* [[Borderlands]]
+* [[Ghealdan]]
+* [[Dhallin Forest]]
+* [[Illian (city)]]
+* [[Taren Ferry]]
+* [[Tar Valon]]
+* [[Tarendrelle]] - as ''the Taren''
+
+==Items==
+*[[Spring Pole]]
+
+==Events==
+===Referenced===
+* [[Bel Tine]]
+* [[Time of Madness]]
+* [[Breaking of the World]] - as ''Breaking''
+* [[Age of Legends]]
+
+==Concepts==
+* [[False Dragon]]
+* [[Light]]
+===[[One Power]]===
+* [[Listening to the Wind]]
+
+{{DISPLAYTITLE:''The Peddler''}}

@@ -1,0 +1,28 @@
+{{character 
+| image=CairhienFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Cairhien
+| occupation=Farrier
+| tworivers=yes
+| affiliation=Perrin Aybara
+| gender=Male
+| build=Broad and stocky
+| hair=Graying
+| appeared={{tpod|9}}
+| lastappeared={{tom|40}}
+| living=tom
+}}
+'''Aemin''' is a farrier from [[Cairhien]] who travels with [[Perrin Aybara]].
+
+==Appearance==
+Aemin is a broad and stocky man with graying hair.{{ref/book|8|9}}
+
+==Activities==
+Given his nationality, it is likely Aemin was hired after Perrin and Rand return from the [[Battle of Dumai's Wells]] and before Perrin Travels to [[Ghealdan]].
+
+Aemin is one of the farriers who look after [[Stepper]] and [[Stayer]], despite Perrin wanting to do the work himself.{{ref/book|8|9}} Aemin then travels with the group to [[Malden]] to rescue [[Faile Bashere]].{{ref/book|9|6}} Aemin, [[Falton]] and [[Jerasid]] are working the night Faile meets with [[Alliandre Maritha Kigarin]], [[Arrela Shiego]] and [[Lacile Aldorwin]].{{ref/book|12|21}}
+
+He is working the forges when Perrin relieves him from duty and creates ''[[Mah'alleinir]]''.
+
+{{notes}}

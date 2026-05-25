@@ -1,0 +1,21 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| affiliation=Dragon Reborn
+| occupation=Soldier
+| nationality=Domani
+| gender=Male
+| status=Alive
+| appeared={{tom|21}}
+| lastappeared={{tom|21}}
+| living=tom
+}}
+'''Kappre''' is a [[Domani]] soldier under the command of [[Rodel Ituralde]].
+
+== Activities ==
+During the battle against [[Shadowspawn]] outside [[Maradon]], he is sent to [[Alin]] with orders to attack the [[Trolloc]]s eastern flank.
+
+== Trivia ==
+* Kappre is named for Eddy Knapper, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Characters named after fans]]

@@ -1,0 +1,25 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| status=Alive
+| nationality=Aiel
+| occupation=Wise One apprentice
+| affiliation=Car'a'carn
+| gender=Female
+| build=Slender
+| hair=Red
+| eyes=Gray, serious
+| clan=Unknown clan
+| sept=Unknown sept
+| appeared={{Loc|27}}
+| lastappeared={{loc|33}}
+| living=loc
+}}'''Estair''' is an [[Wise One apprentice|apprentice]] to the [[Wise One]] [[Aeron]].
+
+==Appearance==
+She has red hair. She is slender with serious gray eyes.
+
+==Activities==
+She is with the Wise Ones camped outside [[Cairhien]]. She is in awe of [[Rand al'Thor]] being the ''[[Car'a'carn]]''. She is part of the group that whips [[Egwene]] for lying about being [[Aes Sedai]].
+
+It can be assumed that during the [[Last Battle]] she fights in [[Thakan'dar]] Valley along the other Wise Ones.

@@ -1,0 +1,29 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| birth={{ne|983}}
+| rank=Novice
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+}}
+{{dablink|For others with the same surname, see [[Lewin (disambiguation)|Lewin]].}}
+'''Maddy Lewin''' is a [[wilder]] from the [[Two Rivers]].
+
+== Activities ==
+Maddy's [[channeling]] abilities start to manifest when [[Whitecloaks]] and [[Trolloc]]s attack the [[Two Rivers]] in {{ne|999}}.
+
+She lived in her family's farm, but the Whitecloaks arrived and called all of them [[Darkfriend]]s due to her unusual powers. She buried her parents in the orchard, and then started hiding in the tabac shed.
+
+[[Alanna Mosvani]] later has her enroll as a novice so that she can control her abilities. She has a [[block]] that she must be afraid to channel.
+
+==Trivia==
+Maddy only shows up in the [[The Wheel of Time Roleplaying Game|roleplaying game]]. Her exact relationship to the other Lewins of the Two Rivers is not specified.
+
+
+{{DEFAULTSORT:Lewin, Maddy}}
+[[Category:Channelers]]
+[[Category:Wilders]]
+[[Category:Characters only mentioned in the RPG]]

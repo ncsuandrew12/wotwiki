@@ -1,0 +1,6 @@
+{{Image
+| License            = gfdl
+| ImageType1         = Map
+| Description        = Map of [[Salidar]]'s location in [[Altara]]
+| Source             = Created by Seebster, with inspiration and information from [http://www.bryanray.name/maps/randland.png http://www.bryanray.name/maps/randland.png], [http://13depository.blogspot.com/2009/10/storm-is-coming-13-mired-in-altara-part.html http://13depository.blogspot.com/2009/10/storm-is-coming-13-mired-in-altara-part.html], and [http://13depository.blogspot.com/2009/10/storm-is-coming-16-mired-in-altara-part.html http://13depository.blogspot.com/2009/10/storm-is-coming-16-mired-in-altara-part.html]
+}}

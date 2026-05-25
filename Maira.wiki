@@ -1,0 +1,25 @@
+{{ character 
+| image=Maira.jpg
+| imagesize=250px
+| nationality=Aiel
+| gender=Female
+| society=Far Dareis Mai
+| clan=Tomanelle
+| sept=Serai
+| affiliation=Car'a'carn
+| hair=Red
+| status=Alive
+| appeared={{Tfoh|23}}
+| lastappeared={{loc|3}}
+| living=loc
+}}'''Maira''' is an [[Aiel]] [[Maiden of the Spear]]. She is of the [[Serai]] [[Sept]] of the [[Tomanelle]] Aiel.{{ref|{{twotc}}, Maira}}
+
+== Appearance ==
+She has red hair.
+
+== Activities ==
+She takes off to dance the spears during a night attack on the Aiel's camp by [[Shadowspawn]]. While she is gone, [[Rand al'Thor]] is attacked by a [[Draghkar]]. When her and the rest of the Maidens who were supposed to be guarding him find out, they all receive punishments from the [[Wise One]]s in the form of carrying a doll.
+
+She is one of Rands guards when he goes to [[Black Tower|the farm]].
+
+{{notes}}

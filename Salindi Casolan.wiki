@@ -1,0 +1,25 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| status=Dead
+| nationality=Unknown nationality
+| ajah=Unknown
+| rank=Aes Sedai
+| gender=Female
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}'''Salindi Casolan''' was an [[Aes Sedai]] [[sitter]] who lived at the time of the formation of the [[White Tower]].{{ref|{{twotc}}, Salindi Casolan}}
+
+==History==
+Circa {{Ab|47}}, Salindi is recorded as being one of more than twelve delegates who each sat for their sovereign ''ajahs'' (note the lowercase), in negotiations centered around unifying all female channelers of differing allegiances into one indivisible society.{{ref|{{bwb}}, Chapter 9, Formation of the White Tower|bwb 9}} It is known that one outcome of these discussions was a decision to establish a new city as a center of Aes Sedai power. It is also known that many decisions made at these conferences were not unanimous and that various dissenting delegates threatened to walk out of negotiations at different times.{{ref||bwb 9}} Salindi's allegiances in these discussions is not recorded and the weight of her political influence is unknown.
+
+Fifty-one years later in {{Ab|98}} Salindi was recorded as being one of seven women providing assistance and council to [[Elisane Tishar]], herself a former delegate who became the first [[Amyrlin Seat]].{{ref||bwb 9}} This is strong evidence that Salindi and her six colleagues represent the founding Aes Sedai who chartered the seven [[Ajah]] sisterhoods that would come to define [[Aes Sedai]] power and influence.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Casolan, Salindi}}
+[[Category:Historical people]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Ajah Heads]]

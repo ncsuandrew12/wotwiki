@@ -1,0 +1,48 @@
+{{ character
+| image=Brandelwyn al'Vere.jpg
+| imagesize=250px
+| ewot=bran alvere
+| nationality=Andoran
+| occupation=Innkeeper
+| affiliation=Two Rivers
+| birth = {{ne|937}}
+| gender=Male
+| title=Mayor
+| hair=Gray
+| eyes=Brown
+| status=Alive
+| appeared={{teotw|r}}
+| lastappeared={{tsr|56}}
+| lastmentioned={{amol|13}}
+| living=amol
+}}
+{{quote|I've just spent twenty minutes explaining to Mistress [[al'Donel]] that I can do nothing about the storks.|Bran al'Vere}}
+{{for|others with the same surname|al'Vere}}
+'''Brandelwyn "Bran" al'Vere''', is the Mayor of [[Emond's Field]], in the [[Two Rivers]]. [[Egwene al'Vere]] is one of Bran and Marin's children.
+
+== Appearance ==
+With sparse gray hair and a round face, he has the look of many innkeepers: wearing an apron that strains over his wide girth. Surprisingly, he walks lightly for a man of his size. On special occasions, he wears a silver medallion of scales, the symbol of the office of Mayor.
+
+== History ==
+Bran was born in {{ne|937}}, married his wife Marin in {{ne|964}}, and was elected Mayor of Emond's Field in {{ne|978}}.
+
+As the village Mayor and the head of the [[Village Council]], people are always taking their problems to Bran for solving. He is also the owner of the [[Winespring Inn]], which he runs with the help of his wife, [[Marin al'Vere|Marin]]. The cellar of the inn contains many barrels of brandy and ale made by Bran, and sometimes apple cider or apple brandy made by [[Tam al'Thor]], and delivered every year about Bel Tine. 
+
+== Activities ==
+He is part of the Village council, which is in session when [[Padan Fain]] arrives.
+
+Bran tells Perrin of the death of his entire family when he arrives at the Winespring Inn with [[Faile]].{{ref/book|4|29}}
+
+Bran tells [[Dain Bornhald]] that there will be no arrests, no intimidation or other trouble from the Whitecloaks while they are in the village defending against the [[Trollocs]].{{ref/book|4|45}}
+
+He helps defend Emond's Field against the invading Trollocs.{{ref/book|4|56}}
+
+== Etymology ==
+His name is an allusion to the Baranduin River (more commonly called the Brandywine River) of ''Lord of the Rings'' by J.R.R. Tolkien''.''
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|television series]], {{TVlink|Bran al'Vere}} is portrayed by actor {{TVlink|Michael Tuahine}}
+{{notes}}
+{{DEFAULTSORT:Al'Vere, Bran}}<!--Please leave his last name capitalized for category sorting.-->
+[[es:Bran al'Vere]]<references />
+[[es:Bran al'Vere]]

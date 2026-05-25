@@ -1,0 +1,58 @@
+{{quote |A bloody [[Tinker]]?|[[Uno Nomesta]]}}
+
+{{summary | book=3 | ewot=ch1 | wotmania=107 | tarvalon=667
+|chapter=1
+|prev=The Dragon Reborn/Prologue
+|title=Waiting
+|icon=Ravens
+|setting=[[Mountains of Mist]]
+}}
+
+==Summary==
+:{{pov|[[Perrin Aybara]]}}
+
+[[Perrin]] on his horse [[Stepper]], along with [[Uno Nomesta]], [[Masema Dagar]], [[Ragan]] and two other unnamed [[Shienar]]an soldiers, are waiting for a woman coming to see [[Moiraine Sedai]]. Perrin finds himself using his wolf-enhanced senses and tries to stop using them. He almost tries to contact the wolves to find out more about what is in the mountains around them but refuses to. The Shienarans are deferring to Perrin and he isn't sure why they should since he sees himself as just a blacksmith apprentice. Perrin spots the woman first in the distance coming from the west. Masema spots a raven which Perrin kills with an arrow.
+
+The woman comes into view of the waiting party, and everyone see she's one of the ''[[Tuatha'an]]''. They ride out to meet her, where Perrin starts subtly questioning her to see if she's the one they are waiting for. The woman, called [[Leya]], gives the name Moiraine, confirming she is the one. Perrin asks another question to confirm her identity{{ref|She says she "just knew" to come, as if she is puzzled herself. What is going on here? How '''do''' the women know to come to Moiraine? This book does a lot with Dreaming, but Moiraine has no Talent in that area.}} and is satisfied with the answer.
+
+The men start guiding Leya to the camp of the [[Dragon Reborn]]. Perrin begins to make idle conversation with her which quickly becomes slightly heated on the subject of the [[Way of the Leaf]]. Perrin ends the conversation and they ride through the wilderness in silence until they reach the camp. The [[Dragon Banner]] is flying openly{{Ref|In early printings, the dragon was mistakenly described as being scaled in gold and ''blue'', unlike in all other places where it is gold and scarlet.}}.
+
+==Characters ==
+*[[Perrin Aybara]]
+*[[Uno Nomesta]]
+*[[Masema Dagar]]
+*[[Ragan]]
+*[[Leya]]
+*[[Stepper]] (animal)
+*[[Loial]]
+*[[Min]]
+*[[Piesa]] (animal)
+
+===Referenced ===
+*[[Moiraine Damodred]]
+*[[Haral Luhhan]]
+*[[Agelmar Jagad]] - as the ''Lord of Fal Dara''
+*[[Easar Togita]] - as ''King of Shienar''
+
+==Groups ==
+*''[[Tuatha'an]]''
+
+=== Referenced===
+*[[Aes Sedai]]
+
+==Places==
+*[[Mountains of Mist]]
+
+===Referenced ===
+*[[Borderlands]]
+*[[Great Blight]]
+*[[Tarabon]]
+*[[Ghealdan]]
+*[[Amadicia]]
+
+==Items==
+===Referenced===
+*[[Dragon Banner]]
+
+{{notes}}
+{{DISPLAYTITLE:''Waiting''}}

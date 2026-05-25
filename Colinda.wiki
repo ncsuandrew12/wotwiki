@@ -1,0 +1,39 @@
+{{ character
+| image=Colinda.jpg
+| imagesize = 250px
+| gender=Female
+| nationality=Aiel
+| occupation=Wise One
+| affiliation=Car'a'carn
+| clan=Shaarad
+| sept=Imran
+| status=Alive
+| mentioned={{tsr|28}}
+| appeared={{loc|25}}
+| lastappeared={{tpod|p}}
+| living=tpod
+}}'''Colinda''' is a [[Wise One]] of the Imran [[Shaarad]] [[Aiel]] from [[Hot Springs Hold]].
+
+==Appearence==
+Colinda is tall and slender with penetrating gray eyes, she looks short of her middle years but is around ninety years old.
+
+==Strength and Abilities==
+Colinda can [[channel]] strongly. In TWoTC her strength level is described as {{opsl|19}}, the same level of [[Lelaine]] and [[Romanda]], that are among the strongest [[Aes Sedai]] until the arrive of [[Nynaeve]], [[Egwene]] and [[Elayne]].
+
+This strength is more than enough to open alone a gateway for [[Travel]]ing.
+
+She has almost as strong a presence as [[Sorilea]].
+
+== Activities ==
+She is one of the many Wise Ones who settle outside the city of [[Cairhien]] after the battle with the [[Shaido]] Aiel.
+
+Colinda tells [[Gaul]] that he thinks too much for a [[Stone Dog]], while [[Bair]] threatens to send him to [[Rhuidean]] when [[Jheran]] dies, whether he wants to go or not.
+
+Later, with [[Aeron]] and [[Edarra]], she is sent to the [[Royal Library of Cairhien]] by [[Sorilea]] to find out what the Aes Sedai delegation from the [[White Tower]] are looking for in there.
+
+They find [[Nesune Bihara]] there, who is poking around looking for information on the [[seals]], which Wise Ones want as well. Nesune is startled by Edarra and Colinda great strength in the One Power and by the fact that Aeron cannot channel at all but she is equally considered and respected as a Wise One.
+
+Colinda later fights at [[Dumai's Wells]].
+
+It can be assumed that during the [[Last Battle]] Colinda fights in [[Thakan'dar]] Valley along the other Wise Ones.
+[[Category:Channelers]]

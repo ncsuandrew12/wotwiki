@@ -1,0 +1,3 @@
+<includeonly>|}</includeonly><noinclude>{{Documentation}}
+[[Category:Templates]]
+[[Category:Amyrlin List Templates]]</noinclude>

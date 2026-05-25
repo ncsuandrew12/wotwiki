@@ -1,0 +1,23 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| mentioned={{tgh|36}}
+| lastmentioned={{tgh|36}}
+| living=tgh
+}}
+{{Dablink|For the other Two Rivers resident with the same first name, see [[Marisa Ahan]]. For others with the same surname, see [[Ayellin]].}}
+
+'''Marisa Ayellin''' is a [[Two Rivers]] girl.{{ref|{{twotc}}, Marisa Ayellin}}
+
+== Activities ==
+She is first mentioned while [[Verin Mathwin]] is leading [[Rand]], [[Perrin]] and [[Mat]] in the search for the [[Horn of Valere]]. While in [[Stedding Tsofu|''Stedding'' Tsofu]], [[Loial]] mentions that [[Erith]] is pretty. Mat scoffs at Loial's taste in women and claims that Marisa finds him attractive. Perrin comments that she has a face like a goat, but this is just a joke. Rand notes that she is nearly as pretty as [[Egwene]].
+
+== Trivia ==
+* Her name in the original publication of the novels was Neysa, but it was changed to Marisa in later editions.
+
+{{notes}}
+{{DEFAULTSORT:Ayellin, Marisa}}

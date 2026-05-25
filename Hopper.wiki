@@ -1,0 +1,47 @@
+{{creature
+| image=Hopper.jpg
+| imagesize=250px
+| type=wolves
+| animal=Wolf
+| status=Dead
+| death={{ne|1000}}
+| gender=Male
+| appeared={{teotw|23}}
+| lastappeared={{tom|38}}
+| lastmentioned={{amol|46}}
+}}
+'''Hopper''' was a [[wolf]] friend of [[Perrin Aybara]].
+
+== Appearance ==
+He was large and grizzled with fur the color of pale gray river stone. He was scarred from a lifetime of battles and hunts.
+ 
+== Activities ==
+=== To finally fly ===
+
+[[Image:Wolf-icon.svg|left|150px]]
+
+He helped Perrin when Perrin was first learning the ability to communicate with [[wolf|wolves]], but was killed by [[Whitecloaks]]. 
+
+How Hopper attempted to save Perrin during the skirmish with the Whitecloaks:
+
+{{quote|Out of the night Hopper came, and Perrin was one with the wolf. Hopper, the cub who had watched the eagles soar, and so badly wanted to fly through the skies as the eagles did. The cub who hopped and jumped and leaped until he could leap higher than any other wolf, and who never lost the cub's yearning to soar through the sky. Out of the night Hopper came and left the ground in a leap, soaring like the eagles.}}
+
+After he was killed by the Whitecloaks they considered making him into a rug, which enraged Perrin, which gets him a kick from an overzealous Whitecloak.
+
+He later appears in ''[[Tel'aran'rhiod]]'', or The wolf dream as it is known to the wolves, where he can finally fly. He saves Perrin when Perrin accidentally stumbles onto a meeting with the [[Forsaken]] in the World of Dreams by snapping him out of the wolf dream. He later guides Perrin to a safe place where he watches a meeting between [[Lanfear]] and [[Ba'alzamon]]. He also tells Perrin about [[Darkhound]]s refering to them as Shadowbrothers. When [[Faile]] is captured by the hedgehog ''[[ter'angreal]]'' in ''Tel'aran'rhiod'', Perrin also enters in order to save her. Hopper accompanies him throughout it until he finally rescues her.
+[[File:Wot- elyas and hopper.jpg|thumb|308x308px|Hopper with Elyas by Ariel Burgess, Official Wheel of Time Artist]]
+When Faile is captured by the [[Shaido]], Perrin frantically searches the wolf dream for signs of the Shaido; Hopper appears, tells him that he risks his life by being in the Dream too strongly, and attacks him, casting him out.
+
+=== Teaching Young Bull ===
+Perrin comes to the wolf dream to ask Hopper to teach him how to use it. Hopper sends him back to the real world telling him that he needs to mature first before he can learn.
+
+Perrin finally agrees to let Hopper start training him and help find the balance between him and the wolf inside him. During one training session, Perrin leads Hopper and another group of wolves on the hunt of a white stag. As Perrin goes in for the kill he is knocked away by Hopper, who informs him that if he kills it here, it will die the last death. 
+The next step of Perrin's training is to teach him how to ''shift'' in the wolf dream. He uses his pack to ''shift'' to another location and then, using scent, track them down. He chides Perrin for attacking Slayer too early after Perrin attacks him for killing [[Morninglight]].
+
+Hopper continues to train Perrin and during one session, takes him to [[Caemlyn]]. There he shows Perrin the nightmares of the humans who dream in that place and how Perrin can use these as a tactic against Slayer. Then both he and Perrin ''shift'' to [[Dragonmount]] where all the other wolves have gathered. There they wait for [[Rand al'Thor]] to make his decision on whether the wolves fight in the Last Hunt or not. When Rand finally overcomes the [[Dark One]]'s influence and merges with [[Lews Therin Telamon]], the wolves begin to howl in triumph. 
+
+===The Final Death===
+[[Slayer]] begins using a [[dreamspike]] to attempt to trap Perrin and other wolves in order to kill them. When finally confronting Slayer, they end up in the [[Tar Valon]] of the dream world. Hopper, in an attempt to save Perrin, is mortally injured from an arrow from Slayer. Slayer throws him off of a wall and Perrin jumps and catches him before he hits the ground. They are all sucked into a nightmare and Perrin manages to retrieve the dreamspike and destroy it. Hopper's final words are to tell Perrin to flee and to seek [[Boundless]] to help answer his questions. Hopper finally dies from his wounds. Since Hopper died in ''Tel'aran'rhiod,'' he died his final death as the wolves put it, and will never be reborn or re-spun into the pattern.
+
+[[es:Saltador]]
+[[Category:Deceased]]

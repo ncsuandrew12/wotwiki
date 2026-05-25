@@ -1,0 +1,24 @@
+{{Dablink|Note: Not to be confused with [https://wot-prime.fandom.com/wiki/Dana Dana], who is a character in the [[The Wheel of Time (TV series)|Wheel of Time TV series]] and does not exist in the books.}}{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| gender=Female
+| occupation=Entertainer
+| height=Slender
+| status=Dead
+| death={{ne|998}}
+| hair=Dark, shoulder length
+| appeared={{tgh|26}}
+| lastappeared={{tdr|31}}
+}}
+'''Dena''' was a slim and pretty [[Cairhienin]] woman and [[Thomdril Merrilin]]'s lover. 
+
+== Appearance ==
+She was slender and young. She had fair skin and dark hair to her shoulders.
+
+== Activities ==
+She intended to be the first female [[gleeman]]. She met [[Rand al'Thor]], when he caught up with Thom and showed Thom the [[Horn of Valere]].{{ref/book|2|26}} Dena was murdered by [[Galldrian]]'s lackeys who were looking for Thom.{{ref/book|2|34}}
+
+{{notes}}
+[[es:Dena]]
+[[Category:Gleemen]]

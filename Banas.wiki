@@ -1,0 +1,16 @@
+{{character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| gender=Male
+| mentioned={{tdr|8}}
+| lastmentioned={{tdr|8}}
+| living=tdr
+}}
+'''Banas''' was a widower living in [[Jarra (village)|Jarra]], but is now married once again.
+
+==Activities==
+When Rand came through the village he was caught up in his ''ta'veren'' effect and married widow [[Jorath]] when she asked. {{ref/book|3|8}}
+
+{{notes}}

@@ -1,0 +1,29 @@
+{{ character 
+| image=BOTRH icon.jpg
+| nationality=Tairen
+| rank=Redarm
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| build=Skinny
+| status=Dead
+| death={{ne|1000}}
+| eyes=Gray
+| appeared={{acos|38}}
+| lastappeared={{tom|9}}
+}}'''Fergin''' was a [[Redarm]] in [[Matrim Cauthon]]'s [[Band of the Red Hand]].{{ref|{{twotc}}, Fergin}}
+
+== Appearance ==
+He is skinny and not very bright. He has gray eyes.
+
+== Activities ==
+He goes to [[Ebou Dar]] with Mat to find the [[Bowl of the Winds]]. When arriving in the Rahad where the Bowl is kept, he narrowly survives an attack by the [[Gholam]].
+
+He then stays in the [[Tarasin Palace]] with the rest of the surviving Redarms. Mat sends him to meet him outside the city when Mat carries out his plan of escaping with the captive [[Aes Sedai]].
+
+He then travels with Mat in [[Valan Luca's Traveling Show]] as cover for their escape.
+He is part of the group that chase [[Renna Emain]] after she stabbed [[Egeanin Tamarath]] and tries to flee to the town of [[Coramen]].
+
+When the ''gholam'' attempts to flee the Band's camp outside [[Caemlyn]], Fergin and [[Gorderan]] try and cut off its escape despite Mat's warning to flee. It casually rips out their throats as it passes.
+
+{{notes}}

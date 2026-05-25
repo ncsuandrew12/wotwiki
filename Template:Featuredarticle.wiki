@@ -1,0 +1,10 @@
+<includeonly><div style="display:none;"><references /></div></includeonly>{{#dpl:
+|{{#if:{{{page|}}}|title={{{page}}}|category = Wotwiki featured articles}}
+|notcategory = Do not feature
+|include=#,#Overview,#Summary,#Appearance,#Strength and Abilities,#Strength,#Abilities,#Channeling Abilties,#History,#Parallels,#Trivia,#Errata,#Near death experience
+|ordermethod=title
+|mode=none
+|randomcount=1
+|randomseed={{#time:Ymd}}
+}}[[Category:Do not feature]]<noinclude>[[/doc|Documentation]]
+</noinclude>

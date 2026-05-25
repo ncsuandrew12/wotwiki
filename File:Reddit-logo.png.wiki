@@ -1,0 +1,9 @@
+{{delete|Unused}}
+== Summary ==
+{{Image
+| License                 = Fairuse 
+| ImageType1              = Logo
+| Description             = Reddit Logo
+| Source                  = https://www.redditstatic.com/shreddit/assets/favicon/192x192.png
+| Artist                  = 
+}}

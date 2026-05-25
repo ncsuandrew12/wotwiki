@@ -1,0 +1,21 @@
+{{ character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| ewot=Maedin
+| birth=c. {{ne|983}}
+| status=Alive
+| nationality=Saldaean
+| gender=Male
+| appeared=
+| mentioned={{tsr|41}}
+| lastmentioned={{tsr|41}}
+| living=tsr
+}}
+{{for|others with the same surname|Bashere}}
+'''Maedin Bashere''' is from [[Saldaea]]. 
+
+==History==
+He is [[Faile Bashere]]'s younger brother and the son of [[Davram Bashere]] and [[Deira Bashere]].
+
+{{DEFAULTSORT:Bashere, Maedin}}
+[[Category:Nobility]]

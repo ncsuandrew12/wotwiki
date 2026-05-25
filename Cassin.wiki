@@ -1,0 +1,25 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| affiliation=Car'a'carn
+| build=Lean
+| height=Tall
+| hair=Yellow
+| society=Aethan Dor
+| clan=Goshien
+| sept=Unknown sept
+| status=Alive
+| appeared={{loc|19}}
+| lastappeared={{loc|21}}
+| living=loc
+}}
+{{For|thee similarly named [[Aes Sedai]] and [[Sitter]] of the [[Yellow Ajah]]|Romanda Cassin}}
+'''Cassin''' is an [[Aiel]] ''[[Aethan Dor]]'' of the [[Goshien]].
+
+== Appearance ==
+He is tall and lean with yellow hair.
+
+== Activities ==
+He is one of [[Rand al'Thor]]'s guards in [[Caemlyn]]. He is guarding Rand, when Rand meets with Elder [[Haman]], [[Covril]] and [[Erith]].

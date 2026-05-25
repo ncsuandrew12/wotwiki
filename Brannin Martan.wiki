@@ -1,0 +1,28 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality= Andoran
+| title=Lord
+| affiliation=House Trakand
+| hair=Gray
+| appeared={{kod|17}}
+| lastappeared={{kod|17}}
+| lastmentioned={{kod|32}}
+| living=kod
+| gender=Male
+| status=Alive
+}}
+{{for|the [[White Tower]] clerk|Martan}}
+'''Brannin Martan''' is an [[Andoran]] noble of a minor House. He is married to [[Elvaine Martan]].
+
+== Appearance ==
+He is gray haired.
+
+== Activities ==
+He is one of the nobles to have thrown their support behind [[Elayne Trakand]] and brought their extended family as armsmen to [[Caemlyn]].
+
+When Elayne is captured by the [[Black Ajah]], Brannin, Elvaine and their armsmen aid [[Birgitte Silverbow]] in rescuing her.
+
+{{DEFAULTSORT:Martan, Brannin}}
+[[Category:Short pages]]
+[[Category:Nobility]]

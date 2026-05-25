@@ -1,0 +1,6 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Sigil
+| Description        = The ''con'' of Daricain Annallin
+| Source             = Created by user
+}}

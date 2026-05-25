@@ -1,0 +1,52 @@
+{{quote|Kumira, a pleasant-looking woman with blue eyes that could turn into knives when something interested her.|[[Shalon din Togara Morning Tide]]{{ref/book|9|23}}}}
+{{character 
+| image=BrownAjah.png
+| imagesize=250px
+| ajah=Brown
+| nationality=Shienaran
+| gender=Female
+| rank=Aes Sedai
+| affiliation=Unaligned sisters
+| hair=Short
+| status=Dead
+| death={{ne|1000}}
+| eyes=Blue
+| appeared={{tpod|12}}
+| lastappeared={{wh|35}}
+}}'''Kumira Dhoran''' was a [[Shienaran]] [[Aes Sedai]] of the [[Brown Ajah]].
+
+== Appearance and Personality==
+Kumira was a handsome with blue eyes, graceful hands and short dark brown hair. She was 5'5" tall. She preferred strong woolens over silk, but would sometimes wear a silk scarf. She sometimes gets ink stains on her clothes, but she would deal with them as soon as she could.
+
+Like many of the Brown Ajah, Kumira could become easily absorbed in her studies, sometimes to the exclusion of the world around her. She had a reputation of aggressively pursuing those things of which she had taken an interest.{{ref/book|9|23}}  
+
+Unlike most Browns, she is also hard-headed, practical, observant and very strong-willed. She is interested in everything and doesn't like wasting time. 
+
+She was not afraid to swear, sometimes using the word "peace" as if it were an oath. She takes care not to offend anyone on purpose, even those of a lower status than hers; in fact, she is often more considerate of those with lower status, such as when she debates with Daigian over logic. 
+
+==Strength and Abilities==
+Kumira is of [[Strength in the One Power among Aes Sedai|average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|30}}. She would not be able to [[Traveling|Travel]] without linking with another channeler.
+
+Kumira had a eidetic memory.
+
+== History ==
+Kumira was born in {{ne|886}}. She came from a well-to-do farm family, although her father was a soldier who retired due to his wounds. She had soldiers on both sides of her family.
+
+She went to the Tower in {{ne|902}} at the age of sixteen. After spending seven years as Novice and nine as Accepted she was raised to the shawl in the year {{ne|918}}. 
+
+She did not have a Warder.
+
+== Activities ==
+[[Cadsuane Melaidhrin]] brought Kumira and [[Daigian]] to the [[Sun Palace]] so that that she could memorize every detail of the goings on among the captured Aes Sedai so that it could be analyzed later. 
+
+Some time later Kumira [[Traveling|Traveled]] with Cadsuane to [[Far Madding]] to track down [[Rand al'Thor]].  Among the group of sisters Cadsuane had gathered around her, which included some captured at the [[Battle of Dumai's Wells]] and sworn to obey the Dragon Reborn, Kumira stood almost at the bottom in terms of the usual hierarchy.
+
+During the [[Battle near Shadar Logoth]], Kumira linked with [[Shalon din Togara Morning Tide]] and [[Verin Mathwin]] to patrol the area around [[Shadar Logoth]]. They encountered [[Graendal]] and Kumira was killed in driving her off.
+
+{{notes}}
+{{DEFAULTSORT:Dhoran, Kumira}}
+[[es:Kumira]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

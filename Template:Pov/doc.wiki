@@ -1,0 +1,62 @@
+==Purpose of template==
+
+
+==How to use==
+<pre><nowiki>{{</nowiki>Pov|''character''|''number (optional)''<nowiki>}}</nowiki></pre>
+
+The optional '''''number''''' parameter is used to disambiguate the link anchors when a character has multiple POVs in the same chapter. Without it, all links will just link to the first POV that character has in the chapter. The '''''number''''' parameter does not affect the visible, rendered output - it only changes the anchor label used in links.
+
+==Examples==
+<pre><nowiki>{{</nowiki>Pov|Rand<nowiki>}}</nowiki></pre>
+{{Pov|Rand}}
+
+<pre><nowiki>{{</nowiki>Pov|Lews|1<nowiki>}}</nowiki>
+<nowiki>{{</nowiki>Pov|[[Lews]]|2<nowiki>}}</nowiki>
+</pre>
+[[#pov-Lews-1]]
+
+[[#pov-Lews-2]]
+
+{{Pov|Lews|1}}
+
+<!-- Need a bunch of extra text so the effects on link anchors is demonstrable -->
+<blockquote>
+The palace still shook occasionally as the earth rumbled in memory, groaned as if it would deny what had happened. Bars of sunlight cast through rents in the walls made motes of dust glitter where they yet hung in the air. Scorch-marks marred the walls, the floors, the ceilings. Broad black smears crossed the blistered paints and gilt of once-bright murals, soot overlaying crumbling friezes of men and animals which seemed to have attempted to walk before the madness grew quiet. The dead lay everywhere, men and women and children, struck down in attempted flight by the lightnings that had flashed down every corridor, or seized by the fires that had stalked them, or sunken into stone of the palace, the stones that had flowed and sought, almost alive, before stillness came again. In odd counterpoint, colorful tapestries and paintings, masterworks all, hung undisturbed except where bulging walls had pushed them awry. Finely carved furnishings, inlaid with ivory and gold, stood untouched except where rippling floors had toppled them. The mind-twisting had struck at the core, ignoring peripheral things.
+</blockquote>
+
+{{Pov|[[Lews]]|2}}
+
+<!-- Need a bunch of extra text so the effects on link anchors is demonstrable -->
+<blockquote>
+Lews Therin Telamon wandered the palace, deftly keeping his balance when the earth heaved. “Ilyena! My love, where are you?” The edge of his pale gray cloak trailed through blood as he stepped across the body of a woman, her golden-haired beauty marred by the horror of her last moments, her still-open eyes frozen in disbelief. “Where are you, my wife? Where is everyone hiding?”
+
+His eyes caught his own reflection in a mirror hanging askew from bubbled marble. His clothes had been regal once, in gray and scarlet and gold; now the finely-woven cloth, brought by merchants from across the World Sea, was torn and dirty, thick with the same dust that covered his hair and skin. For a moment he fingered the symbol on his cloak, a circle half white and half black, the colors separated by a sinuous line. It meant something, that symbol. But the embroidered circle could not hold his attention long. He gazed at his own image with as much wonder. A tall man just into his middle years, handsome once, but now with hair already more white than brown and a face lined by strain and worry, dark eyes that had seen too much. Lews Therin began to chuckle, then threw back his head; his laughter echoed down the lifeless halls.
+
+“Ilyena, my love! Come to me, my wife. You must see this.”
+
+Behind him the air rippled, shimmered, solidified into a man who looked around, his mouth twisting briefly with distaste. Not so tall as Lews Therin, he was clothed all in black, save for the snow-white lace at his throat and the silverwork on the turned-down tops of his thigh-high boots. He stepped carefully, handling his cloak fastidiously to avoid brushing the dead. The floor trembled with aftershocks, but his attention was fixed on the man staring into the mirror and laughing.
+
+“Lord of the Morning,” he said, “I have come for you.”
+
+The laughter cut off as if it had never been, and Lews Therin turned, seeming unsurprised. “Ah, a guest. Have you the Voice, stranger? It will soon be time for the Singing, and here all are welcome to take part. Ilyena, my love, we have a guest. Ilyena, where are you?”
+
+The black-clad man’s eyes widened, darted to the body of the golden-haired woman, then back to Lews Therin. “Shai’tan take you, does the taint already have you so far in its grip?”
+
+“That name. Shai—” Lews Therin shuddered and raised a hand as though to ward off something. “You mustn’t say that name. It is dangerous.”
+
+“So you remember that much, at least. Dangerous for you, fool, not for me. What else do you remember? Remember, you Light-blinded idiot! I will not let it end with you swaddled in unawareness! Remember!”
+
+For a moment Lews Therin stared at his raised hand, fascinated by the patterns of grime. Then he wiped his hand on his even dirtier coat and turned his attention back to the other man. “Who are you? What do you want?”
+
+The black-clad man drew himself up arrogantly. “Once I was called Elan Morin Tedronai, but now—”
+
+“Betrayer of Hope.” It was a whisper from Lews Therin. Memory stirred, but he turned his head, shying away from it.
+
+“So you do remember some things. Yes, Betrayer of Hope. So have men named me, just as they named you Dragon, but unlike you I embrace the name. They gave me the name to revile me, but I will yet make them kneel and worship it. What will you do with your name? After this day, men will call you Kinslayer. What will you do with that?”
+
+Lews Therin frowned down the ruined hall. “Ilyena should be here to offer a guest welcome,” he murmured absently, then raised his voice. “Ilyena, where are you?” The floor shook; the golden-haired woman’s body shifted as if in answer to his call. His eyes did not see her.
+
+Elan Morin grimaced. “Look at you,” he said scornfully. “Once you stood first among the Servants. Once you wore the Ring of Tamyrlin, and sat in the High Seat. Once you summoned the Nine Rods of Dominion. Now look at you! A pitiful, shattered wretch. But it is not enough. You humbled me in the Hall of Servants. You defeated me at the Gates of Paaran Disen. But I am the greater, now. I will not let you die without knowing that. When you die, your last thought will be the full knowledge of your defeat, of how complete and utter it is. If I let you die at all.”
+
+“I cannot imagine what is keeping Ilyena. She will give me the rough side of her tongue if she thinks I have been hiding a guest from her. I hope you enjoy conversation, for she surely does. Be forewarned. Ilyena will ask you so many questions you may end up telling her everything you know.”
+</blockquote>

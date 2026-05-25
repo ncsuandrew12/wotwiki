@@ -1,0 +1,31 @@
+{{character 
+| image=AradDomanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Domani
+| occupation=Seamstress
+| gender=Female
+| build=Full-figured
+| appeared={{ns|13}}
+| lastappeared={{ns|13}}
+| lastmentioned={{ns|18}}
+| living=ns
+}}
+'''Tamore Alkohima''' is a [[Domani]] dressmaker who owns an expensive dress shop in the city of [[Tar Valon]].
+
+==Appearance==
+Tamore is a full-figured woman who is fair-skinned for a Domani.
+
+==Her shop==
+Tamore's shop is one of several shops on the ground floor of a building that seems to be all curves.
+
+==Activities==
+After being newly raised [[Aes Sedai]], [[Moiraine Damodred]] and [[Siuan Sanche]] find than many in the [[Blue Ajah]] recomend Tamore as the best dressmaker in the city. After paying a silver penny for sedan chairs, they arrive at Tamore's shop and are greated by her personally, as they are wearing their [[shawl]]s. After being delighted at hearing Moiraine's order, she begins offering advice on style, cut and colors. Siuan, being raised as a fisherman's daughter and therefore not knowing of the relationship between patron and seamstress, offends Tamore by asking after prices and calling her "Mistress Alkohima." Moiraine sets Siuan straight fairly quickly, but not quickly enough in Tamore's mind. As the first few dresses are pinned to Moiraine, she realizes that the first several dresses are going to be pale blue, regardless of her desires, and Tamore pins Siuan's bosom snugly, completely unlike the requests Siuan has made for style, but Moiraine is simply glad that she was not stuck "accidentally" a dozen times as well as not being required to stay for pinnings for every dress. 
+
+Just prior to leaving, Moiraine orders five more riding dresses made in the strictest [[Cairhien]]ien style, to be made last, and to be picked up, not delivered to the [[White Tower]].  Their production puts in place a final part of her plan, or at least as much of it as she can do for now.
+
+Six days later, on the first day of the [[Feast of Lights]], and after a generous gratuity, the first batch of Moiraine's dresses are made and delivered by Tamore.{{ref/book|0|14}}
+
+{{notes}}
+{{DEFAULTSORT:Alkohima, Tamore}}
+[[Category:Tar Valon (people)]]

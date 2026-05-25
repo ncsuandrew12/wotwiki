@@ -1,0 +1,20 @@
+{{ character 
+| image=GhealdanFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Ghealdanin
+| occupation=
+| rank= 
+| title= Lord
+| affiliation=Ghealdan
+| gender=Male
+| height=
+| hair=
+| mentioned={{tpod|8}}
+| lastmentioned={{tpod|10}}
+| living=tpod
+}}
+'''Telabin''' is a [[Ghealdanin]] [[Lord]].
+
+== Activities ==
+Queen [[Alliandre Maritha Kigarin]] stays at his estates in [[Bethal]].

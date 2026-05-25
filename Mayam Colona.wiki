@@ -1,0 +1,48 @@
+{{character 
+| image=WhiteAjah.png
+| imagesize=250px
+| nationality=Tairen
+| ajah=White
+| rank=Aes Sedai
+| affiliation=White Tower
+| gender=Female
+| mentioned={{loc|25}}
+| lastmentioned={{loc|25}}
+| living=loc
+| status=Alive
+|birth = {{ne|960}}}}
+'''Mayam Colona''' is a [[Tairen]] [[Aes Sedai]] of the [[White Ajah]]<ref>The Wheel of Time Companion</ref>. She has no Warder.
+
+== Appearance and Personality ==
+Mayam is slim, 5'6 tall, with dark skin, black eyes and black hair. She still lacks the ageless look of an Aes Sedai.
+
+She could eat as much as she liked without gaining a pound.
+
+==Strength and Abilities==
+Mayam has a strength in the [[One Power]] of {{opsl|27}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+== History ==
+Mayam was born in [[Tear]] in {{ne|960}} and went to the [[White Tower]] in [[977 NE]]. After spending twelve years as a [[novice]] and eight years as [[Accepted]], she was raised to the shawl in [[997 NE]].
+
+== Activities ==
+She remains loyal to the White Tower during the split.
+
+She was part of the White Tower secret expedition who were to kidnap [[Rand al'Thor]] in [[Cairhien]]. She arrived at Lady [[Arilyn Dhulaine]]'s manor two days after the official embassy arrived.
+
+Because she has not yet the typical ageless look of an Aes Sedai, Mayam was among the sisters who helped to carry the chest during the actual kidnapping.
+
+She was taken prisoner during the Battle of [[Dumai's Wells]] by the [[Asha'man]]<ref>The Wheel of Time Companion</ref>{{ref/book|6|55}}.
+
+Mayam was one of the captured Aes Sedai{{ref/book|7|1}} to be interrogated by [[Verin Mathwin]] in order to discover the White Tower's intentions towards [[Rand al'Thor]]{{ref/book|8|p}}. In reality Verin used her mild [[Compulsion]] to implant in their minds some instructions about Rand.
+
+Later it is reported by [[Sorilea]] that all the Aes Sedai prisoners have sworn fealty to Rand{{ref/book|9|13}}.
+
+As with many Aes Sedai sworn to Rand, Mayam probably fought the [[Last Battle]] on the slopes of [[Thakan'dar]]{{ref/book|14|34}}. She is not mentioned during the last book.
+
+{{notes}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

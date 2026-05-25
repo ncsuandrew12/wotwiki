@@ -1,0 +1,10 @@
+{{dablink|This page refers to the boar-like animal. For disambiguation, see [[pecara (disambiguation)]]. For the tree, see [[pecara (tree)]]. For the edible nut, see [[pecara (nut)]].}}
+
+'''''Pecara''''' are a creature endemic to the [[Aiel Waste]]. The appear similar to a thin, angular boar, but have short coarse hair, pointed snouts, sharp teeth, claws, and no tusks.{{ref/book|beasts|Pecara}} They generally weight between one hundred and two hundred pounds{{ref/book|beasts|Pecara}} and are immunes to most of the Waste's poisons and venoms.{{ref/book|beasts|Sand pig}}<!--"Sand pig" is not a typo!--> They and travel in groups.{{ref/book|beasts|Pecara}}
+
+[[Egwene]] observed [[Amys]] hunting a "boar" in the Aiel Waste in {{Tar}}.{{ref/book|4|11}} While it seemed to be solitary like a [[bladetusk]],{{ref/book|beasts|Bladetusk}} its description most closely matches ''pecara.'' Egwene noted its "coarse hair" and that it may not be a boar because it "did not seem to be shaped exactly right." Moreover, she observed a "sharp" snout "full of keen teeth," and four toes per foot.
+{{DISPLAYTITLE:''Pecara'' (animal)}}
+{{notes}}
+{{short}}
+[[Category:Animals]]
+[[Category:Aiel Waste]]

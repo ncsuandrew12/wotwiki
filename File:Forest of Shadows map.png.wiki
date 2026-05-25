@@ -1,0 +1,7 @@
+{{Image
+| License            = gfdl
+| ImageType1          = Map
+| Description        = Map of the Forest of Shadows (Great Blackwood)
+| Source             = [[:Image:WoT Map.jpg]]
+}}
+[[Category:Forests]]

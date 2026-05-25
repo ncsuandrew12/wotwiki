@@ -1,0 +1,12 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Map
+| Description        = A map of [[Seanchan]].
+| Source             = ''[[The World of Robert Jordan's The Wheel of Time]]''.
+| Artist             = Thomas Canty
+}}
+[[Category:Maps]]
+[[Category:Continental Maps]]
+[[Category:Maps of Nations and Kingdoms]]
+[[Category:Seanchan]]
+[[Category:Featured images]]

@@ -1,0 +1,25 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| death={{ne|1000}}
+| rank=Lieutenant-General
+| nationality=Seanchan
+| hair=Close-cropped, black
+| height=Short
+| build=Stout
+| gender=Male
+| status=Dead
+| mentioned={{kod|prologue}}
+| appeared={{tgs|6}}
+}}'''Turan''' was a Lieutenant-General in the [[Seanchan]] army.
+
+== Appearance ==
+He was stout and not very tall with a peaked nose. He had close-cropped black hair which was shaved two finger widths up each side of his head.
+
+== Activities ==
+[[Rodel Ituralde]] led a series of hit and run attacks on Seanchan forces in [[Tarabon]]. Turan was given orders from [[Lunal Galgan]] to chase Ituralde back into [[Arad Doman]]. When crossing into Arad Doman, Turan's forces were surrounded when another enemy force came from behind them.
+
+In the ensuing battle at [[Darluna]], Turan was mortally wounded. At the end of a meeting called by him, in which Ituralde revealed that the enemy force behind Turan was a sham. Turan then asked Ituralde to kill him quickly, and Ituralde granted his wish. Turan was carrying a [[heron-mark sword]] and was therefore a [[Blademaster]].
+[[Category:Blademasters]]
+[[Category:Ever Victorious Army]]
+[[Category:Soldiers]]

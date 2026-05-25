@@ -1,0 +1,38 @@
+{{ character 
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality=Unknown nationality
+| ewothist=Gerra Kishar
+| status=Dead
+| death={{Ne|638}}
+| gender=Female
+| title=[[Amyrlin Seat]]
+| rank=Aes Sedai
+| affiliation=White Tower
+| mentioned={{bwb}}
+| lastmentioned={{tpod|19}}
+}}'''Gerra Kishar''' was an [[Aes Sedai]] of the [[Gray Ajah]] who was raised to the [[Amyrlin Seat]] in {{Ne|601}}.{{ref|{{bwb}}, Chapter 24 The White Tower|Gerra}}
+
+== History ==
+
+Gerra held the position for thirty-seven years until her death in {{Ne|638}}. She was the successor of [[Shein Chunla]], and [[Varuna Morrigan]]'s predecessor.{{ref||Gerra}}
+
+She was later on considered an Amyrlin as successful as [[Sereille Bagand]], one of the greatest Amyrlins, but instead of iron will, Gerra used political prowess to turn the different groups of the [[Hall of the Tower]] against each other.
+
+She was elected partly because her mild personality was so much in contrast to her predecessor, that many [[Sitters]] thought to be able to control her, and partly because Gerra was among the ringleaders of the coup that toppled Shein Chunla, which should have given the others some clue as to how biddable she would be.
+
+Anyway she used her skills as a negotiator and mediator to play factions against each other, and an attempted coup against her was crushed utterly.
+
+[[Egwene al'Vere]] states centuries later that she wants to be just like Gerra. {{Ref/book|8|19}}
+
+Only three named characters would have seen Gerra in the flesh. They are the [[Kin]]swomen [[Reanne Corly]], [[Sumeko Karistovan]] and [[Sibella]] who were enrolled in the novice book during her tenure.
+
+
+
+{{notes}}
+{{DEFAULTSORT:Kishar, Gerra}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

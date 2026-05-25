@@ -1,0 +1,24 @@
+{{character 
+| image=IllianFlag.png
+| imagesize=250px
+| status=Alive
+| name=Bili
+| nationality=Illianer
+| occupation=Bouncer
+| affiliation=Nieda Sidoro
+| gender=Male
+| build=Large
+| appeared={{tgh|9}}
+| lastappeared={{tdr|43}}
+| living=tdr
+}}
+{{for|others with the same first name|Bili}}
+'''Bili''' is a [[bouncer]] at an inn called [[Easing the Badger]] in [[Illian]]. His aunt is named [[Nieda Sidoro]].
+
+==Appearance==
+Bili is a very large man, bigger than [[Perrin Aybara]].{{ref/book|3|42}} He can carry a man in either hand out of the inn.{{ref/book|2|9}}
+
+==Activities==
+Bili sees [[Bayle Domon]] at the inn when the ship captain visits.{{ref/book|2|9}} When [[Shadowspawn#Grey men|Gray Men]] attack the inn, Perrin, [[Lan Mandragoran]], [[Moiraine Damodred]], [[Faile Bashere]], and [[Loial]] kill them before Bili has time to react.{{ref/book|3|42}} Bili is told by his aunt to haul the bodies of the Gray Men out of the common room and lay down clean sawdust.
+
+{{notes}}

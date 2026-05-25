@@ -1,0 +1,38 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| rank=Aes Sedai
+| nationality=Unknown nationality
+| gender=Female
+| status=Alive
+| mentioned=The Wheel of Time Companion
+| living=cot
+|birth = {{ne|972}}}}'''Valene Sural''' is an [[Aes Sedai]] of the [[Red Ajah]].{{ref|{{twotc}}, Valene Sural}} She was part of [[Elaida do Avriny a'Roihan|Elaida's]] expedition to kidnap [[Rand al'Thor]] in [[Cairhien]].
+
+== Appearance ==
+Valene is new to the shawl, so she lacks the ageless look of the Aes Sedai.
+
+==Strength and Abilities==
+Valene has a strength in the [[One Power]] of {{opsl|27}}, [[Strength in the One Power among Aes Sedai|average]] for an Aes Sedai. She would not be strong enough to [[Traveling|Travel]] unless she has an above average skill in the Talent.
+
+== History ==
+She was born in [[972 NE]] and went to the [[White Tower]] in [[988 NE]]. She was a [[novice]] for five years and [[Accepted]] for six. She was raised in [[999 NE]].
+
+== Activities ==
+Since Valene lacks the ageless look, she was chosen for the expedition to Cairhien.
+
+After kidnapping Rand and escaping capture during the [[Battle of Dumai's Wells]], she was sent with her group to [[Dorlan]] under the leadership of [[Covarla]].
+
+==Notes==
+Valene Sural is described only in "The Wheel of Time Companion", she is never mentioned in the main books.
+
+{{notes}}
+
+{{DEFAULTSORT:Sural, Valene}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Dorlan Group]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

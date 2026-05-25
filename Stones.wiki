@@ -1,0 +1,45 @@
+{{dablink|For other uses of the word "stone," see [[Stone]].}}[[File:StonesBoard.webp|500px|right|A modern Go board, the real-world version of stones.]]'''Stones''' is a two-player game featured prominently in the Wheel of Time universe. It is the same as, or extremely similar to, the real-world game of [[wikipedia:Go|Go]]. Each player alternates placing a stone on the board with the intention being to "capture" stones belonging to your opponent.
+
+==History==
+Moridin remembers that its original name from before the Breaking was ''no'ri'', and that it is in a similar class of games to ''tcheran'' and ''sha'rah'', which he prefers due to its more complicated nature.{{ref/book|8|p}} Be'lal is said to have bragged to have once beaten Lews Therin.{{ref/book|3|50}}
+
+==In the Books==
+
+'''Stones''' is mentioned in the very first chapter of the books when Rand thinks about [[Brandelwyn al'Vere]] setting out a table underneath the great oak next to [[The Winespring Inn]] during the summer months for people to talk or set out a board for a game of stones. Mat also mentions that "he would rather play a game of stones with his baby sister" than help Rand with the work of unloading the barrels from his wagon.{{ref/book|1|1}} It is mentioned again in the second chapter.{{ref/book|1|2}}
+
+The game is popular in all countries in the [[Westlands]] and the [[Seanchan]] Empire. It's presence, or lack of it, in [[Shara]] is unknown. Ogier also play stones. Both Rand and [[Basel Gill]] play games with [[Loial]] at [[The Queen's Blessing]]. Loial almost always won.{{ref/book|1|36}}{{ref/book|1|40}} It is considered a gentleman's game, like chess, and is valued by both generals and rulers. It was said that all of the intrigues and all of life's pleasures was found in this game.
+
+People who are play stones well are known to be good at both the game of houses as well as leading a battlefield. People who are exceptually good at either are the best players at stones throughout the series (Thom, the best at the Game but not well established at being a general, and Mat, the best at being a general but awful at leading a nation; as well as multiple examples shown throughout the series such as Morgase.
+
+A similar analogy to people being manipulated like "pawns" in the game of chess exists in the Wheel of Time. [[Siuan Sanche]] says of [[Elaida do Avriny a'Roihan]] that "everyone else who isn't Aes Sedai might as well be pieces on a stones board as far as she
+is concerned."{{ref/book|2|4}}
+
+==Notable instances of games==
+
+* Loial beats Rand and Basel Gill
+* Mat learns that luck is not with him when playing stones against Thom
+* Morgase plays against Pedron Niall
+* Mat plays well against Tuon
+
+==Parallels==
+According to [[The Wheel of Time Companion]] "in a much later age, [stones] was known as [[wikipedia:Go|Go]]."{{ref|{{twotc}}, stones}} Go is a board game that originated in ancient China and has been played for over 2,500 years. 
+==Rules of Go==
+For a better understanding, the rules of Go are presented here. 
+
+The objective of the game is to capture your opponent's stones by surrounding them with your own pieces. The player with the most captured stones at the end of the game wins.
+
+* '''The board''': Go is played on a board consisting of 19 horizontal and 19 vertical lines, creating a grid of 361 intersections.
+
+* '''The stones''': There are two colors of stones, black and white, with players alternating turns to place stones on the intersections of the board.
+
+* '''Capturing''': Stones are captured when they are surrounded by opposing stones on all sides and have no escape route. Captured stones are removed from the board and count towards the final score.
+
+* '''Territory''': Players can also gain points by controlling territory on the board. Territory consists of empty intersections surrounded by a player's stones.
+
+* '''Ko rule''': The ko rule prevents players from repeating the same move in an endless cycle. If a player's move would result in a board position identical to the previous turn, they are not allowed to make that move.
+
+* '''Scoring''': The game ends when both players pass their turns consecutively. Then, the points are counted by tallying up captured stones and territory. The player with the most points wins.
+
+Overall, Go is a complex and strategic game that requires careful planning and foresight. With millions of possible moves on the board, each game is different and presents a unique challenge.
+{{notes}}
+[[Category:Games]]

@@ -1,0 +1,4 @@
+'''Brickmasons''' are those persons who create brick blocks used in the building of structures.
+
+[[Category:Occupations| Brickmasons]]
+[[Category:Sort option categories]]

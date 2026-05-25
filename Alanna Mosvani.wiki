@@ -1,0 +1,133 @@
+{{character
+| image=Alanna Mosvani.jpg
+| imagesize=250px
+| ajah=Green
+| nationality=Arafellin
+| affiliation=Rebel Aes Sedai
+| rank=Aes Sedai
+| status=Dead
+| gender=Female 
+| build=Slim
+| born={{ne|949}}
+| died={{ne|1000}}
+| height= 5' 4 1/2" or 164 cm
+| eyes=Dark dark
+| hair=Black, long
+| appeared={{ns|3}}
+| lastappeared={{amol|46}}
+| ewot=alanna
+|birth = 951 NE|death = {{ne|1000}}}}'''Alanna Mosvani''' (pronounced: ah-LAN-nah mos-VANH-nie) was an [[Aes Sedai]] of the [[Green Ajah]]{{ref/book|2|4}} from [[Arafel]]{{ref/book|3|29}}.
+
+
+
+== Appearance and Personality ==
+Alanna was a slender, graceful, and beautiful woman with waves of black hair.{{ref/book|6|10}} She is described as "dark" and "darkly pretty" which means she is likely dark-skinned.{{ref/book|4|43}}{{ref/book|6|10}}{{ref/book|7|2}} She is also described as vulpine.{{ref/book|4|43}}
+
+She was 5'4 1/2" or 164&nbsp;cm in height.{{ref/book|twotc}}
+
+She was noted for her temper and her sense of humour.{{ref/book|3|23}}
+
+==Strength and Abilities==
+Alanna was [[Strength in the One Power among Aes Sedai|strong]] for an Aes Sedai, with a [[One Power]] level of {{opsl|23}}. She was strong enough to be able to [[Traveling|Travel]].
+
+==History==
+Alanna was born in the year {{ne|951}}. She went to the [[White Tower]] in [[967 NE]]. When Alanna appeared in ''[[New Spring]]'', she was an [[Accepted]] with [[Sheriam Bayanar]], [[Moiraine Damodred]], and [[Siuan Sanche]]{{ref/book|0|3}}. She had been a [[novice]] for six years and Accepted for another six before being raised to the shawl in [[979 NE]].
+
+After the Aiel War, Alanna was involved in taking the census of all women who had recently given birth.
+
+She was quite shy at that time but afterwards had a fiery temper. Moiraine thought that she worked hard at being fierce.
+
+She had two [[Warder]]s; [[Owein]] who was killed in the [[Two Rivers]] by the [[Children of the Light]], and [[Ihvon]] who remained at her side.
+
+==Activities==
+===First encounters===
+Alanna was first encountered during ''[[The Great Hunt]]'', in which she was a part of Siuan's entourage to [[Fal Dara]].{{ref/book|2|4}} When [[Egwene al'Vere]] and [[Nynaeve al'Meara]] were taken back to the [[White Tower]] to become Aes Sedai, she gave them several lessons in channeling, although she was unable to break through Nynaeve's block. She also seemed to be very interested in Rand and asked the two girls many questions about him.{{ref/book|2|12}}
+
+She was part of the circle of Aes Sedai who [[Healed]] [[Mat]] from the evil of [[Shadar Logoth]].{{ref/book|3|18}}
+
+Alanna was present during Egwene's test for becoming an Accepted, along with Sheriam, Siuan, and [[Elaida do Avriny a'Roihan]]. She noticed a strange resonance in the ''[[ter'angreal]]'' rings during Egwene's test and appeared to blame herself for not stopping the test and risking danger to Egwene.{{ref/book|3|22}} She even asked Siuan for a penance as a result of this.
+
+Alanna was also one of the Aes Sedai responsible for [[Healing]] [[Matrim Cauthon]] from the taint of the [[Shadar Logoth]] [[ruby-hilted dagger|dagger]]. Later, she was in the Two Rivers searching for more girls who could become novices for the White Tower when she was forced to hide from Children of the Light, who killed one of her Warders.{{ref/book|4|31}}
+
+[[File:Alanna.jpg|thumb|left|Fan art of Alanna Mosvani.]]
+
+Alanna joined with [[Perrin Aybara]] and the rest of the village in fighting the [[Shadowspawn]] army. She wanted to bond Perrin, but was warned off by [[Zarine ni Bashere t'Aybara|Faile Bashere]], who threatened to kill her if she did so. She helped in the [[Battle of Emond's Field]] by firing catapults.{{ref/book|4|56}}
+
+Alanna and Verin left the Two Rivers with many female channelers and journeyed towards Tar Valon. When they reached Whitebridge they learned of the split in the White Tower but continued to Caemlyn. They later decided against taking the girls to Tar Valon {{ref/book|6|10}}. Alanna disliked Elaida, but also disapproved of the rebellion.
+
+===Bonding Rand===
+In addition to her Warder Ihvon (her other Warder, Owein, was killed in the Two Rivers), Alanna also forcibly bonded Rand al'Thor as Warder when she met him at [[Culain's Hound]], an inn in [[Caemlyn]]{{ref/book|6|10}}. She had just arrived in Caemlyn with the huge group of novices she and [[Verin Mathwin]] had gathered from the Two Rivers.
+
+Her bond to him, however, could not be used to compel him to her will, as normal for most Warder bonds. She joined up with the Aes Sedai from [[Salidar]] while still in Caemlyn{{ref/book|6|54}}. She met up with Perrin's force of Two Rivers archers, [[Mayene]]rs, [[Cairhien]]in, and [[Aiel]] and pointed them in the direction Rand was being taken by the White Tower Aes Sedai. All the while, she could feel his pain while he was being beaten and was very concerned for him. She was in the [[Battle of Dumai's Wells]]{{ref/book|6|55}}.
+
+Afterwards she was forced to swear fealty to Rand and was the only Aes Sedai to be near him and [[Healing|Healed]] him from his extensive wounds.
+
+Because bonding another forcibly was akin to rape, many Aes Sedai treated her roughly - even those weaker than her. Alanna had a difficult time fighting back because she also adhered strongly to the hierarchy.
+[[File:WoT Japanese LoC3.gif|thumb|350px|Alanna healing Rand after Dumai's Wells Battle in a cover of the Japanese edition]]
+She was part of Rand's embassy when he met with the [[Sea Folk]] and made the [[Bargains of the Atha'an Miere#The Bargain with the Coramoor|Bargain]]{{ref/book|7|34}}.
+
+[[Cadsuane Melaidhrin]] asked Alanna to keep her updated on anything she may have felt through the bond to keep tabs on him{{ref/book|7|19}}.
+
+===Sharing Rand===
+Rand was also bonded by [[Elayne Trakand]], [[Elmindreda Farshaw|Min Farshaw]], and [[Aviendha]] of the [[Taardad]] Aiel. This had an adverse and unexpected effect on Alanna, who fainted when the bonding took place. The faint lasted for a total of three days{{ref/book|9|25}}.
+
+Alanna was furious when she heard about the new bond, although Rand refused to tell her with whom he had bonded.{{ref/book|9|25}}
+
+===Negotiations with the High Lords===
+Alanna used her bond with Rand to track him down in [[Far Madding]]. She also brought Cadsuane, Verin, and a number of other Aes Sedai along as well. After meeting with Rand, she finally convinced him that he needed Aes Sedai behind him{{ref/book|9|23}}. He sent her back to Cairhien to gather [[Rafela Cindal]], [[Merana Ambrey]], [[Bera Harkin]], and [[Faeldrin Harella]] and then to approach the rebels in [[Haddon Mirk]] to negotiate with them{{ref/book|9|25}}.
+
+She was present when Rand [[Traveling|Traveled]] to the [[Stone of Tear]] to meet with [[Darlin Sisnera]]{{ref/book|11|21}}. She seemed genuinely pleased to be around Rand again. She greeted Rand with King Darlin when Rand withdrew his forces from [[Arad Doman]] back into Tear, but Rand chooses not to look at her{{ref/book|12|42}}.
+
+She mysteriously disappeared from the Stone of Tear without visibly using ''saidar'', possibly by using [[Inverting|inverted]] weaves and masking her ability. An open red waxed envelope, assumed to be from Verin, was found on her writing desk{{ref/book|13|12}}.Rand says she is somewhere to the north {{ref/book|13|13}}.
+
+=== The Last Battle ===
+While Rand was confronting [[Shai'tan]] at [[Shayol Ghul]], Nynaeve discovered Alanna in the [[Pit of Doom]]. She was chained to the wall and badly injured{{ref/book|14|36}}. [[Moridin]]'s plan was for her to die during Rand's battle and for the sudden shock, passing through the bond, to cause him to lose control and be defeated. Nynaeve was unable to Heal Alanna without the One Power, as Rand was currently linked to Nynaeve and drawing all the power she had.
+
+Nynaeve was forced to use conventional healing techniques and began to stitch Alanna back together{{ref/book|14|37}}. She was able to help Alanna regain consciousness. After Rand rejected Shai'tan, Moridin threw a knife into Alanna's heart, making Nynaeve unable to save her. However, because of Nynaeve's work, Alanna was able to release Rand's bond before she died, saving him from the backlash of her death{{ref/book|14|37}}.
+
+It is unknown, though, if she released her other Warder Ihvon; most likely, he had already been killed at her kidnapping.
+
+==Viewing==
+Min Farshaw saw her in the palm of Rand's hand{{ref/book|7|34}}. This indicated that she would keep her oath and could be trusted by Rand. (''fulfilled'' through her death at Shayol Ghul)
+
+==Errata==
+There are conflicting accounts of Alanna's age from [[Merana Ambrey]] and [[Cadsuane Melaidhrin]]. The original printings had that Merana "had been Aes Sedai ten years the day the midwife laid Alanna at her mother’s breast"{{Ref/book|6|43}}. Various information in that chapter puts Alanna in her mid-thirties. Later, however, Cadsuane thinks that Alanna had been Aes Sedai for "almost forty years", which is obviously incompatible. Clarification from [[Maria Simons]]<ref>http://13depository.blogspot.com/2011/03/verin-q-with-maria-simmons.html Maria Simons on Verin</ref> corrects Merana as being Aes Sedai "above thirty years the day the midwife laid Alanna at her mother’s breast" and this has been changed in later printings.{{verify}} This is still incompatible with Cadsuane's thoughts, although the age given by Maria is consistent with The Wheel of Time Companion's entries for Alanna and Merana's account of Alanna's age.
+
+== In the television series ==
+* In the [[The Wheel of Time (TV series)|TV series]], {{TVlink|Alanna Mosvani}} is played by actress {{TVlink|Priyanka Bose}}.
+
+{{notes}}
+
+{{DEFAULTSORT:Mosvani, Alanna}}
+[[es:Alanna Mosvani]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Caemlyn Embassy]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]<references />
+
+{{DEFAULTSORT:Mosvani, Alanna}}
+[[es:Alanna Mosvani]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Caemlyn Embassy]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+<references />
+
+{{DEFAULTSORT:Mosvani, Alanna}}
+[[es:Alanna Mosvani]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Caemlyn Embassy]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+<references />
+
+{{DEFAULTSORT:Mosvani, Alanna}}
+[[es:Alanna Mosvani]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Caemlyn Embassy]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

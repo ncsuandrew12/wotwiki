@@ -1,0 +1,13 @@
+<div style=font-size:90%;>
+<div style="float:right;">[[User:Gherald/projects|(edit list)]]</div>
+
+* [[Special:Random|Lots of work needed here]]
+* [[template:infobox character]] design -- need [[template talk:infobox character|comments and suggestions]], particularly for colors
+* same thing at [[template talk:nation]]
+* standardize the articles for each [[forsaken]] and make [[template:forsaken]] viable
+* [[project:category index]] -- ongoing, but pretty stalled
+<s>* start on {{ns|1}} as soon as I find a suitable ebook to re-read it</s>
+:ended up listening to the audiobook instead....
+<!--COMPLETED * [[template:summary]] for [[project:chapter summaries]] -->
+<!--COMPLETED * Chapter Index infobox for [[teotw]] and each other book as needed -->
+</div>

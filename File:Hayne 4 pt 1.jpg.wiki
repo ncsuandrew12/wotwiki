@@ -1,0 +1,7 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Cover Art
+| Description             = Cover for ''Schattensaat'' the [[Wheel of Time translations|German version]] of the first part of [[The Shadow Rising]]; (German Volume 7) (Note: There are multiple cover images for this volume.)
+| Source                  = [http://www.die-welt-der-romanhefte.de/Das%20Rad%20der%20Zeit%2007.htm www.die-welt-der-romanhefte.de]
+| Artist                  = Ralph Voltz
+}}

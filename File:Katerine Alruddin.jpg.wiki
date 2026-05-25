@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Katerine Alruddin]].
+| Source             = ''[[New Spring 2]]''
+| Artist             = Mike S. Miller
+| Artist2            = Etienne St Laurent
+}}

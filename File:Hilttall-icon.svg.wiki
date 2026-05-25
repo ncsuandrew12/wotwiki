@@ -1,0 +1,8 @@
+{{Image
+| License            = fairuse
+| ImageType1          = Chapter Art
+| Description        = This is an .svg version of [[:Image:Hilt-icon.png]] with a longer hilt as used in ''[[The Dragon Reborn]], used with permission [http://linuxmafia.com/waygate/chapter-icons-permission].
+| Source                  = ''[[The Dragon Reborn]]''
+| Artist                  = Matthew C. Nielsen
+}}
+[[Category:SVG Chapter Art]]

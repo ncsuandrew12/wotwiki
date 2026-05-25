@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|September}}
+|{{Wotmonth|Shaldine}}
+|}
+'''Shaldine 2 (September 30)'''
+
+==Events==
+</noinclude>
+
+<noinclude>
+==External links==
+*[[wikipedia:september 30|September 30]]
+
+{{stub}}
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

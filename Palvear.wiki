@@ -1,0 +1,25 @@
+{{Character
+| image=Wheel-icon.svg
+| imagesize=250px
+| occupation =Peddler
+| title=
+| nationality=Almoth Plain
+| gender=Male
+| build=
+| heihgt=Short
+| hair=Bald
+| status=Alive
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+| affiliation=
+| appeared=
+| lastappeared=
+| lastmentioned=
+| living=
+}}
+
+'''Pelvear''' is a [[peddler]] who sells his wares around [[Almoth Plain]] and [[Toman Head]].
+== History ==
+Pelvear was being attacked by the [[Children of the Light]], who had disguised themselves as [[Tarabon]]er bandits to stoke up resentment in the local area. He was saved by [[Lorwyn Kilvar]] and his companions. Guards from [[House Antos]] later caught up to the group and asked if Lorwyn was present; Pelvear affirmed that Lorwyn was with him, being unaware of the man's distress about his arranged marriage.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Characters only mentioned in the RPG]]

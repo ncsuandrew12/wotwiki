@@ -1,0 +1,15 @@
+{{swordform 
+| mentioned={{12|41}}
+| used=[[Gareth Bryne]]
+}}
+'''Black Lance's Last Strike''' is a [[sword form]]. It is a simple form, depending entirely upon speed to draw a sword from the scabbard and thrust it into the enemy's neck. It is, however, an all-or-nothing move; if it fails, the swordsman usually dies.
+
+[[Gareth Bryne]] used this form to kill an assassin sneaking up on [[Siuan Sanche]] during the [[Seanchan]] [[Battle of Tar Valon|raid]] on the [[White Tower]]. The assassin was a Seanchan [[Bloodknife]].{{ref/book|12|41}}
+
+==Parallel==
+The real-world parallel is found the Japanese ''{{Wiki|iaido}}''.
+
+{{notes}}
+{{short}}
+
+[[Category:Parallels]]

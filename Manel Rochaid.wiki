@@ -1,0 +1,33 @@
+{{ character 
+| image=Ashaman.png
+| imagesize=200px 
+| ewot=Rochaid
+| status=Dead
+| occupation=Asha'man
+| death={{ne|1000}}
+| nationality=Murandian
+| rank=Asha'man
+| title=[[Baijan'm'hael]]
+| affiliation=Darkfriend
+| gender=Male
+| height=Tall
+| appeared={{loc|42}}
+}}'''Manel Rochaid''' was an [[Asha'man]] from [[Murandy]].{{ref|{{twotc}}, Manel Rochaid}} He had reached the rank of Asha'man and was one of [[Mazrim Taim]]'s men. He had named himself the [[Baijan'm'hael]].
+
+== Appearance ==
+He was slightly shorter and younger than [[Rand al'Thor]] and always had an amused smile on his face.
+
+==Activities==
+=== The Black Tower ===
+He carried away [[Peral Torval]] after he had been clubbed unconsious by Taim. He fought in the [[Battle of Dumai's Wells]].
+
+=== Illian and the Seanchan ===
+He was [[Charl Gedwyn]]'s second in command when the Asha'man arrived to help Rand drive the invading [[Seanchan]] away from [[Illian]]. He fried [[Eagan Padros]] after Padros's failed assassination attempt on Rand. He followed [[Davram Bashere]] into the final assault on the Seanchan. On arrival back to [[Cairhien]] he, with Gedwyn and [[Corlan Dashiva]], blew up Rand's quarters in an attempt on Rand's life. The attack fails and they were forced to flee. Later Taim reports to Rand that Rochaid was a deserter.
+
+=== Far Madding ===
+He followed Rand's trail to [[Far Madding]] where he confronted Rand there. He was injured by Rand in the exchange and then stabbed by his own partner [[Raefar Kisman]]. He died soon after. 
+
+{{notes}}
+{{DEFAULTSORT:Rochaid, Manel}}
+[[Category:Taim's cronies]]
+[[Category:Channelers]]

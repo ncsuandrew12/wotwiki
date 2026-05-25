@@ -1,0 +1,57 @@
+The ''[[Wheel of Time]]'' '''canon''' is, compared to other fictional universes, mostly consistent and free from major controversies or problems, although there are some minor issues.
+
+==Primary sources==
+All material written by [[Robert Jordan]] can be considered to be fully canon. This would include the first twelve novels in the series, ''[[New Spring]]'' (which supercedes the earlier short story version), and ''[[The Strike at Shayol Ghul]]'' short story. Where material contradicts itself, such as the date of the [[Aiel]] giving [[Avendoraldera]] to the [[Cairhienin]] or the name of [[Manetheren]]'s last queen, the more commonly-given reference is generally accepted as being correct.
+
+''[[The Gathering Storm]]'', ''[[Towers of Midnight]],'' and ''[[A Memory of Light]]'' are also canon. Although the overwhelming majority of these books are written by [[Brandon Sanderson]], he worked very closely from Robert Jordan's own notes and background materials.
+
+''[[The Wheel of Time Companion]]'' was compiled by [[Harriet Rigney]], [[Alan Romanczuk]], and [[Maria Simons]] (Robert Jordan's wife/editor and two assistants) from Robert Jordan's own notes. It can be regarded as canon and has a lot of information that does not appear in the main novels. Some information does, however, contradict information in the main series, such as the age of [[Atuan Larisett]]. It is, however, mostly as consistent as the series itself and differs only in minor details. Where it contradicts the information in the series, it should be regarded the same as conflicting information within the books themselves and the conflicting facts and their sources should be noted in the text.
+
+{{Quote|We also don't claim that this book is without errors. Our entries draw
+as much as possible from Robert Jordan's abundant notes, in order to
+show the reader what the writer wished to note for his own reference. <nowiki>[...]</nowiki>
+
+While we hope that the reader will find a lot that is new and
+interesting here, we make certain disclaimers about the material. In
+some instances, the descriptions may vary from what is in the books.
+Writers constantly change their minds about characters, events and
+places in their creations, and adjustments often fail to be made in
+background notes. We have tried to correct all discrepancies of this
+sort, but sometimes let the more interesting ones stand, to show a
+change from the writer's original intention compared with what finally
+arrived on the printed page. Or, the error remained because of our own
+oversight.|[[Harriet McDougal]], {{c}}, ''Introduction''}}
+
+Robert Jordan also wrote ''[[Beasts of the Wheel of Time]]'' for [[Dragon Magazine Annual 6]], the Christmas 2001 special of ''[[wikipedia:Dragon Magazine|Dragon Magazine]]'' to accompany the release of the ''Wheel of Time'' role-playing game (see below). This article focuses on the "normal" flora, fauna, and animals of the main continent, and can be considered canon.
+
+==Secondary sources==
+This consists of material approved of by Robert Jordan, but was not actually written by him.
+
+''[[The World of Robert Jordan's The Wheel of Time]]'' was mostly written by [[Teresa Patterson]], based closely on his notes. He also edited the book, and approved it for publication. However, the book is based on the conceit that it is written by a historian of [[Rand al'Thor]]'s time, and may consist of deliberate misunderstandings, bias, and disinformation, as with a work of real history. As a result, where the world-book conflicts with the novels, the novels are accepted as being "correct."
+
+''[[The Wheel of Time Roleplaying Game]]'', published in 2001 by Wizards of the Coast, was written by a team of writers and editors, but approved by Robert Jordan, who also contributed a foreword. He also provided new, exclusive background information and notes for the book, such as the circumstances under which most of the modern nations were founded during the [[War of the Hundred Years]], as well as never-before-seen maps of the capital cities of [[Illian]] and [[Tear]]. The book also gives the first in-universe unified name for the main continent, the [[Westlands]]. The book and its accompanying web enhancement (featuring material cut from the original book) is therefore accepted as a secondary source.
+
+''[[The Wheel of Time Roleplaying Game#The Prophecies of the Dragon|The Prophecies of the Dragon]]'', published in 2002 by Wizards of the Coast, was again written by a team of RPG designers, and approved by Robert Jordan. Due to the fact that the book mostly consists of adventures in which the player-characters can alter the history of the world and the storyline in the novels, naturally these player-generated elements are not considered canon in the micro-details. The status of the background materials, such as the description, location and layout of the city of [[Jara'copan]], or the names and locations of various villages on [[Toman Head]], is less clear. For these reasons, although the book was approved by Robert Jordan, it should be given the lowest canonical standing of any ''Wheel of Time''-related works. Information from the series may be hosted on the wiki, although references to player characters or choice-based scenarios should not be made.
+
+==Non-canon sources==
+[[The Wheel of Time (video game)|''The Wheel of Time'' PC game]] is not considered canon to the primary world of ''The Wheel of Time'', as it takes place in one of the [[Mirror World|alternate realities]] reachable only by [[portal stone]], and the events and storyline of the game cannot be easily reconciled with the history of the world as presented in the books. In particular, the game ends with the [[Seven Seals]] being rendered inert, so destroying the physical seals has no effect on the [[Dark One]]'s prison, which is in direct contradiction to the novels. Information exclusive to the game may be hosted on the wiki, but only if it is clarified that such information originates from a mirror world.
+
+''[[River of Souls]]'' contains "deleted scenes" depicting [[Demandred]] in [[Shara]] that were cut from {{14}}.{{ref|{{15}}|ros}}
+
+{{Quote|<nowiki>[</nowiki>W<nowiki>]</nowiki>e left these scenes on the cutting room floor. I’m quite fond of them, and do consider the general outline of events within to be canon. However, the specifics of the worldbuilding are not canon. We cut these scenes before Team Jordan’s Maria Simons, queen of continuity, had a chance to go over them with her fine-tooth comb.|[[Brandon Sanderson]]{{ref||ros}}}}
+
+''[[A Fire Within the Ways]]'' is a short story adaptation of a cut sequence from {{14}}. It is non-canon due to timeline contradictions with {{14}}.{{ref|''A note from [[Brandon Sanderson]]'', ''{{Link|https://www.tor.com/2019/01/28/unfettered-iii-wheel-of-time-a-fire-within-the-ways|Unfettered III Wheel of Time A Fire Within the Ways}}''|u3-bs}}
+
+{{Quote|The following sequence <nowiki>[...]</nowiki> is <i>not</i> canon to the Wheel of Time. <nowiki>[...]</nowiki> <nowiki>[</nowiki>{{14}}<nowiki>]</nowiki> has no room for these scenes in its chronology; characters would literally have to be in two places at once. In addition, a few arcs of side characters play out differently here, contradicting the published narrative.|[[Brandon Sanderson]]{{ref||u3-bs}}}}
+
+==Television series==
+The {{TVlink|The Wheel of Time|television series}} is an adaptation of the book series, and according to the show's book consultant Sarah Nakamura, it takes place in another turning of the [[Wheel of Time]].{{ref|[https://x.com/sarahenakamura/status/1341882482405171200 @sarahenakamura on X], 2020-12-23|sn-turning}} As a post-hoc reconciliation of the changes from the books, Brandon Sanderson considers it his "personal canon" that the TV show is another turning of the Wheel.{{ref|[[Source:Reddit - Brandon Sanderson Commentary on Episode 102]], November, 2021|bs-reddit-ama}}
+
+While the television series can be thought of as occurring in the same universe, the different turning of the Wheel (let alone any potential incompatibilities with the books' mechanics and metaphysics) means that '''any changes or information exclusive to the show is not relevant to this wiki''', which is only for the book series. The {{TVlink}} is a sister wiki that hosts information about the television series.
+
+{{Quote|the books are an Age & the show is that Age come again|Sarah Nakamura|The Amazon TV show adaptation{{ref||sn-turning}}}}
+
+{{Quote|By the time I had reached this episode in my reading, I'd already cemented in my mind my personal canon that this is a completely different turning of the wheel from the books.|Brandon Sanderson|[[w:c:wheeloftime:Shadow's Waiting|Season 1, Episode 2]]{{ref||bs-reddit-ama}}}}
+
+{{notes}}
+[[Category:Help]]

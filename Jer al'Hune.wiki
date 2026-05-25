@@ -1,0 +1,17 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| status=Alive
+| gender=Male
+| affiliation=Two Rivers
+| lastmentioned={{amol|31}}
+}}
+
+'''Jer al'Hune''' was child that [[Mat Cauthon]] once saved from drowning in the river. 
+
+==History==
+
+[[Egwene al'Vere]] recalls Mat rescuing the boy from the river when she was around 13 or 14 years old ({{ne|995}}). Little Jer was terrified and had slipped below the water without a sound, but Mat had been watching. This gained Mat some respect after having attempting to rescue [[Kiem Lewin]] from the same river the previous year, despite the fact she was not really drowning.{{Ref/book|14|31}}
+
+{{notes}}

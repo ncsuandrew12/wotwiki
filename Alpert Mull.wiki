@@ -1,0 +1,24 @@
+{{character
+| image=AndorFlag.png
+| imagesize=250px
+| build=Solid
+| occupation=Farmer
+| nationality=Andoran
+| gender=Male
+| status=Alive
+| appeared={{teotw|33}}
+| lastappeared={{tom|1}}
+| living=tom
+}}
+'''Alpert Mull''' is a farmer who lives between [[Four Kings]] and [[Market Sheran]].
+
+== Appearance ==
+A stolid man with a square face and square hands both worn and grooved from hard work and worry.{{ref/book|1|33}}
+
+== Activities ==
+Mull lets [[Matrim Cauthon]] and [[Rand al'Thor]] ride with him in his cart. As the cart moves he constantly complains about how hard times are.  At the fork in the road that leads off to his farm, he lets them off, complaining one more time that if he were a good man he would take two soaked boys someplace where they could dry out, but he has a family. He doesn't want to know who two boys are obviously on the run and repeats several times that he has a family,  He gives them each a woolen scarf instead. When they part, Rand declares that he ''''is'''' a good man which seems to help the guilt-ridden farmer.{{ref/book|1|33}}
+
+When [[Elayne Trakand]] introduces [[Egwene al'Vere]] to her brother Gawyn, he remarks about a farmer who came to [[Caemlyn]] to see [[Logain]] when he was on his way to the [[White Tower]] to be [[severing|gentled]], and was inspired by meeting Rand to stay there and support [[Morgase Trakand]] when the riots started.  Though Alpert Mull is not mentioned by name, he could possibly be that farmer.{{ref/book|2|24}}
+
+{{notes}}
+{{DEFAULTSORT:Mull, Alpert}}

@@ -1,0 +1,34 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| gender=Female
+| title=Lady
+| affiliation=Cha Faile
+| status=Alive
+| appeared={{acos|4}}
+| lastappeared={{kod|12}}
+| lastmentioned={{tom|6}}
+| living=tom
+}}
+'''Camaille Nolaisen''' is one of the lordlings in [[Cairhien]] who try taking up being [[Aiel]].
+
+== Appearance ==
+She is pale skinned. She is 5'2 tall, with dark eyes, and dark hair worn in a long mannish cut and tied at the nape of her neck with a dark ribbon. She is one of those among Cha Faile who keeps feminine touches in her clothing.
+
+==History==
+Her brother is [[Barmanes Nolaisen]].
+
+== Activities ==
+She meets [[Rand al'Thor]] when he arrives back in Cairhien and leads him to the Throne Room where [[Colavaere Saighan]] had just recently crowned herself.
+[[Faile Bashere]] takes Camaille and the rest of her society into her service, where she becomes a member of [[Cha Faile]]. Camaille then Travels to [[Ghealdan]] with Faile and [[Perrin Aybara]] and his army to track down [[Masema Dagar]].
+
+Faile considers Camaille and [[Arrela Shiego|Arrela]] as having the quickest minds among Cha Faile, although [[Selande Darengil|Selande]] and [[Parelean]] are smarter.
+
+She accompanies Perrin to the town of [[Almizar]]. While there she joins some [[Seanchan]] in dice and attempts to find out any news or rumors during the process.
+
+After the [[Battle of Malden]] she goes with the scouts into Cairhien to look for [[Rand al'Thor]]. 
+
+{{DEFAULTSORT:Nolaisen, Camaille}}
+[[Category:Eyes-and-ears]]
+[[Category:Nobility]]

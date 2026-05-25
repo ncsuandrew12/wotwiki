@@ -1,0 +1,29 @@
+{{character 
+| image=SeanchanFlag.png
+| imagesize = 250px
+| ewot=Empress
+| death={{ne|1000}}
+| rank=Empress
+| title=Empress of Seanchan
+| nationality=Seanchan
+| gender=Female
+| status=Dead
+| mentioned={{tgh|29}}
+}}
+'''Radhanan Paendrag''' was the Empress of [[Seanchan]] and ruled from the [[Crystal Throne]] at [[Court of the Nine Moons|the Court of the Nine Moons]] in [[Seandar]]. She was a direct descendant of [[Artur Hawkwing]], via his son [[Luthair Paendrag Mondwin]] who led his expedition west across the [[Aryth Ocean]].
+== History ==
+During Radhanan's reign the [[Corenne]] and the [[Hailene]], two vast imperial expeditions, were undertaken. She dispatched her second and most favored daughter, [[Tuon Athaem Kore Paendrag|Tuon Athaem]], to [[Ebou Dar]] in a secondary wave of the Corenne.
+
+Empress Radhanan's name was never used by her subjects or her ministers. She was simply referred to as the Empress. The sigil of the imperial family was the Raven and Roses. Whatever Radhanan's personal sigil was has not been revealed. For sport, she would have male nobles take turns wearing an ''a'dam'' collar that was attached to a ''damane.'' Sometimes this would lead to the male (most likely a channeler) and the ''damane ''dying horrible deaths. [[Turak Aladon|Turak]] reports only the Empress had enough wealth to be so risky with the lives of ''damane''.
+
+Aside from Tuon, she had several children, including three other daughters: [[Aurana]], [[Chimal]], and [[Ravashi]]. She had a son named [[Halvate]] who was assassinated before Tuon left for the ''Corenne''. Radhanan allowed her daughter Tuon to undertake training as a ''[[sul'dam]]'', although that was unusual for a member of the imperial family. She named Tuon her chosen heir, though she liked her children competing for the succession, so that the strongest and most cunning child would end up ruling Seanchan.{{ref|{{twotc}}, Tuon Athaem Kore Paendrag}}
+
+Radhanan and her remaining children were later slaughtered by [[Semirhage]] in a massacre in [[Seandar]] in which the entire imperial family and its government were destroyed, plunging the Seanchan Empire into civil war.
+
+{{notes}}
+
+[[es:Radhanan Paendrag]]
+[[Category:Rulers]]
+[[Category:The Blood]]
+[[Category:Empresses]]
+{{DEFAULTSORT:Paendrag, Radhanan}}

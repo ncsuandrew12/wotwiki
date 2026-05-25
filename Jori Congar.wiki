@@ -1,0 +1,34 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Soldier
+| tworivers=yes
+| gender=Male
+| build=Skinny
+| affiliation=Perrin Aybara
+| status=Dead
+| appeared={{tpod|9}}
+| lastappeared={{tom|53}}
+| lastmentioned={{amol|37}}
+| living=amol
+}}
+{{dablink|For the [[Warder]], see [[Jori]]. For others with the same surname, see [[The Congars and the Coplins]].}}
+'''Jori Congar''' was a [[Two Rivers]] resident.
+
+== Appearance ==
+He was skinny, light fingered, and a good shot with the bow.
+
+== Activities ==
+He was part of the Two Rivers men in [[Perrin Aybara]]'s army in [[Ghealdan]].
+
+When Perrin met with the [[Seanchan]], he got Jori to shoot an arrow into a branch he held up, to show that Two Rivers men were hiding in the bushes and would fire on the Seanchan if necessary.
+
+He took part in the battle against the [[Shaido]] [[Aiel]] in the town of [[Malden]].
+
+Jori was present when Perrin created ''[[Mah'alleinir]]'' and then declared to his followers his acceptance at becoming their Lord and leader. Jori took part in the battle against the [[Shadowspawn]] that were about to ambush the [[Whitecloak]]s. Jori warned Perrin that the Whitecloak army was under extreme duress and Perrin decided to ride in with his force to fight beside them.
+He [[Traveling|Traveled]] with Perrin and the rest of his huge force to the [[Field of Merrilor]] to prepare for the [[Tarmon Gai'don|Last Battle]].
+
+He bled to death buried under body of a [[Trolloc]] in the Last Battle at the Field of Merrilor. [[Rand al'Thor]] saw his death during his struggle against the Dark One.
+
+{{DEFAULTSORT:Congar, Jori}}

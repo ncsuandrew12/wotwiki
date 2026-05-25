@@ -1,0 +1,223 @@
+{{dablink|For the chapter in ''[[The Dragon Reborn]]'' by the same name, see ''[[The Dragon Reborn/Chapter 12|The Amyrlin Seat]]''.}}
+{{Featuredicon}}
+[[File:flame-icon.svg|thumb|150px]]
+{{WotQ|Amyrlin Seat}}
+The '''Amyrlin Seat''' is the leader of the [[Aes Sedai]] in the [[White Tower]] in [[Tar Valon]]. Her full title is "Watcher of the [[Seals]]. The Flame of [[Tar Valon]]. The Amyrlin Seat," but she is usually just referred to as the Amyrlin. The word "Amyrlin" is a corruption of the name of an artifact in the [[Age of Legends]] called the [[Ring of Tamyrlin]].
+
+==Description, duties, and details==
+The Amyrlin is chosen by the [[Hall of the Tower]] for life, and forsakes her former [[Ajah]] to be seen as "from all Ajahs and yet of none", symbolized by her [[Stole of the Amyrlin Seat|stole]] striped with all seven Ajah colors. The position can only be held by female [[channeler]]s, and presumably only one who belongs to the [[White Tower]]. Interestingly, [[Tower law]] considers the Amyrlin to be Aes Sedai after having been raised, but does not require it as a prerequisite for raising - a fact that was exploited in the raising of [[Egwene al'Vere]], who was only [[Accepted]] at the time.
+
+The Amyrlin is the supreme authority among the Aes Sedai, who formally refer to her as "Mother" and she to them as "daughter" or "child" for Accepted and [[novices]]. She is widely recognized as one of the most powerful women in the [[Westlands]], though she can be deposed for malfeasance by the [[Sitter]]s of the Hall. This is referred to as being "stripped of stole and staff" and has only happened four times in recorded history. The Amyrlin is assisted in her duties by the [[Keeper of the Chronicles]], who is second in command and traditionally sits in on most audiences.
+
+The title "Watcher of the Seals" means holder and protector of the seven seals on the Dark One's prison. A secret kept from the rest of the world is that no Amyrlin Seat had known where any of the seals were since the [[Trolloc Wars]].{{ref/book|2|5}}
+
+==Laws and customs==
+There are many laws and customs concerning the Amyrlin.
+
+*Any visitor to the White Tower may demand to speak to the Amyrlin Seat, but few have the nerve to do so.
+*The [[Keeper of the Chronicles]] must announce the Amyrlin before her entrance into the [[Hall of the Tower]] by declaring "She comes! She comes! The Watcher of the Seals,The Flame of Tar Valon, the Amyrlin Seat." {{Ref/book|10|19}}
+*Only the Amyrlin has discretion to reveal information [[Sealed to the Flame]].
+
+The physical chair from which the Amyrlin rules over the Hall is also referred to as the Amyrlin Seat. It is painted seven colors for each Ajah.
+
+===The Raising of an Amyrlin===
+The ceremony for choosing a new Amyrlin is very old and very strict. The woman is summoned to the Hall of the Tower and brought in front of the Sitters for each Ajah. The first part of the ceremony is to make sure that only women are present. The youngest Sitter stands and inspects each woman, who is naked to the waist, in order to make sure only women are present. Ages ago, this portion would have been conducted with every woman completely naked. Once it is determined that every person present is a women, the eldest Sitter continues the ceremony by asking "Who stands for this woman and pledges for her, heart for heart, soul for soul, life for life?" Three Aes Sedai must then pledge themselves for the candidate; if they are not Sitters themselves, they accompany the candidate into the Hall when she answers the Sitters' summons.
+
+After the three Aes Sedai have pledged themselves, the eldest Sitter asks four specific ceremonial questions which must be answered with equally specific responses:
+
+: <eldest Sitter>"Why are you here?"
+: <prospective Amyrlin>''"I was summoned by the Hall of the Tower."''
+: <eldest Sitter>"What do you seek?"
+: <prospective Amyrlin>''"To serve the White Tower, nothing more and nothing less."''
+: <eldest Sitter>"How would you serve?"
+: <prospective Amyrlin>''"With my heart and my soul and my life, in the Light. Without fear or favor, in the Light."''
+: <eldest Sitter>"Where would you serve?"
+: <prospective Amyrlin>''"In the Amyrlin Seat, if it pleases the Hall of the Tower."''
+
+The Sitters present then stand if they feel the woman should be raised. Generally, most take their time, to show that they will not be easily controlled by the new Amyrlin. All Sitters must be standing in order to raise a new Amyrlin, as the Tower must remain whole. If some are not standing, the woman must go through and wash every Sitters' feet individually and ask, "Please allow me to serve." Once the washing is done, the vote is taken again and a third time if it is necessary. If any Sitter remains seated for the third vote, the woman who had hoped to be raised will most likely be exiled, along with the Aes Sedai who pledged for her, as they would always be a reminder of division within the Tower. Once raised, the new Amyrlin is given the stole with the colors of each Ajah on it.
+
+The next day the new Amyrlin gives a speech in which she does several things of note. Firstly, she makes a statement about her standing as Amyrlin as well as her aims for the Tower. Second, all wrongdoings of [[Accepted]] and [[Novice]]s are absolved and they are relieved from any punishments they may be undertaking. Finally, a celebration in honor of the occasion will go on for a month.
+
+==Notable Amyrlins==
+*[[Elisane Tishar]]: The first Amyrlin Seat, raised in {{ab|98}}. Credited with organizing and allying several diverse factions to form the modern Aes Sedai, and beginning the construction of [[Tar Valon]]. It is not known if she ever joined one of the modern Ajahs, but her extraordinary achievements, such as the founding of the White Tower and the elimination of several other groups of ajahs (note the lower case a), nonetheless suggest a woman of formidable character.
+*[[Tetsuan]]: Raised from the [[Red Ajah]]. Served circa {{ab|1200}}. Stripped of her rank for betraying [[Manetheren]] because of her jealousy of Queen Eldrene's strength in the One Power and her legendary beauty. Replaced by an Amyrlin raised from the Blue Ajah, beginning the millennia long animosity between the two Ajahs.
+*[[Rashima Kerenmosa]]: Raised from the [[Green Ajah]]. Served [[1251 AB|1251]] - {{ab|1301}}. The "Soldier Amyrlin", who served as a field general in the [[Trolloc Wars]]. She is credited with orchestrating the great victory at [[Battle of Maighande|Maighande]] that turned the tide in the wars.
+*[[Bonwhin Meraighdin]]: Raised from the [[Red Ajah]]. Served {{Fy|939}} - [[FY 992|992]]. Stripped of the staff and stole for manipulating [[Artur Hawkwing]], provoking him into besieging Tar Valon itself. The second Amyrlin to be stripped of staff and stole - once again from the Red Ajah - she was replaced by an Amyrlin raised from the Blue Ajah, reigniting the deep-seated animosity between the Ajahs.
+*[[Deane Aryman]]: Raised from the [[Blue Ajah]]. Served {{fy|992}} - [[FY 1084|1084]], making her the longest serving Amyrlin in history so far. Restored the power of the Aes Sedai following Bonwhin's mistakes. Encouraged [[Ishara Casalain]] to found the kingdom of [[Andor]] and negotiated an end to the Siege of Tar Valon with General [[Souran Maravaile]]. Was on the verge of negotiating an end to the [[War of the Hundred Years]] when she died in a riding accident.
+*[[Tamra Ospenya]]: Raised from the Blue Ajah. Served [[973 NE|973]] - {{Ne|979}}. Her Keeper was [[Gitara Moroso]]. Amyrlin during the [[Aiel War]] and the birth of the [[Dragon Reborn]]. Murdered by [[Jarna Malari]], head of the [[Black Ajah]].
+*[[Siuan Sanche]]: Raised from the Blue Ajah. Served [[988 NE|988]] - {{Ne|999}}. Stripped of staff and stole and stilled along with her Keeper, [[Leane Sharif]], for keeping secret the existence of the Dragon Reborn from the [[Hall of the Tower]]. Her trial was not carried out in strict accordance with Tower law, leading to a split in the Tower.
+*[[Elaida a'Roihan]]: Raised from the Red Ajah. Served 999 - {{Ne|1000}}, but only acknowledged as the Amyrlin by roughly one-third of the Aes Sedai. She carries credence as she rules from the White Tower in Tar Valon. Wears a six-striped stole, with no representation of the Blue Ajah. Her initial Keeper of the Chronicles was [[Alviarin Freidhen]] of the [[White Ajah]] and secretly of the [[Black Ajah|Black]], an unusual choice with the purpose of consolidating power, but Elaida removed her for dereliction of duty and replaced her with [[Tarna Feir]] of the Red. Elaida was made a ''[[damane]]'' during the [[Seanchan]] assault on the [[White Tower]]. The [[Hall of the Tower under Elaida a'Roihan|Hall loyal to her]], uncertain of her status, declared her dead or unable to serve and offered Egwene the Amyrlin Seat on her proposed terms: acceptance of her army into the city, welcoming back rebel sisters, and restoration of the [[Blue Ajah]].
+*[[Egwene al'Vere]]: Raised directly from [[Accepted]], fulfilling the letter if not the spirit of Tower law. Served {{ne|999}} to the Last Battle, though at first only acknowledged as the Amyrlin by roughly one-third of the Aes Sedai. She was raised by the "Tower in Exile" in [[Salidar]]. Initially she was raised to be a [[wikipedia:figurehead|puppet]], but she has consolidated power for herself with, among others, Siuan's help, who became her friend and mentor. Her original Keeper of the Chronicles was [[Sheriam Bayanar]]. Egwene accepted the terms that the [[Hall of the Tower under Elaida a'Roihan|Hall]] proposed and was raised again, and again without any Red Ajah Sitters, this time because all three were out of the Tower. Because Sheriam was executed for being a member of the Black Ajah, Egwene chose [[Silviana Brehon]] of the [[Red Ajah]] as her new [[Keeper of the Chronicles]]. As one of the strongest women in the [[One Power]] seen in a thousand years, Egwene's status is already legendary, not only for purging the White Tower from the Black Ajah but also for being responsible for the destruction of two of the Forsaken. Had she survived, many Aes Sedai thought she could have been the longest serving and greatest Amyrlin ever. She fought in the Last Battle using [[Vora's sa'angreal|Vora's ''sa'angreal'']] where she discovered the counterweave to Balefire and destroyed Mazrim Taim (M'Hael) and nearly all the Sharan channelers in her last act.
+*[[Cadsuane Melaidhrin]] was taken aside after the Last Battle by [[Saerin Asnobar]], [[Yukiri]], [[Rubinde]], and [[Lyrelle]], who persuaded her to become the new Amyrlin Seat.
+
+== List of all known Amyrlin Seats ==
+
+[[File:Tamra Ospenya.jpg|thumb|right|Tamra Ospenya]]
+[[file:Sierin Vayu.jpg|thumb|right|Sierin Vayu]]
+[[file:Siuan.JPG|thumb|right|Siuan Sanche]]
+[[File:Egwene in TAR.jpg|thumb|right|Egwene al'Vere]]
+
+{| class="sortable wikitable"
+!'''Name'''!!'''Took Seat'''!!'''Left Seat'''!!'''[[Ajah]]'''
+|-
+| [[Elisane Tishar]] || c. {{ab|98}} || Unknown || Unknown
+|-
+| [[Tetsuan]] || Unknown || c. {{ab|1200}} || [[Red Ajah|Red]]
+|-
+| Unknown || c. {{Ab|1200}} || c. {{Ab|1250}} || [[Blue Ajah|Blue]]
+|-
+| [[Rashima Kerenmosa]] || {{ab|1251}} || {{ab|1301}} || Green
+|-
+| [[Anghara]] || Unknown || Before c. {{fy|939}} || Unknown
+|-
+| [[Bonwhin Meraighdin]] || c. FY 939 || c. {{fy|992}} || Red
+|-
+| [[Deane Aryman]] || c. FY 992 || c. {{fy|1084}} || [[Blue Ajah|Blue]]
+|-
+| [[Selame Necoine]] || c. FY 1084 || {{ne|5}} || Green
+|-
+| [[Rabayn Marushta]] || {{ne|5}} || {{ne|36}} || [[White Ajah|White]]
+|-
+| [[Dalaine Ndaye]] || {{ne|36}} || {{ne|64}} || [[Gray Ajah|Gray]]
+|-
+| [[Edarna Noregovna]] || {{ne|64}} || {{ne|115}} || Blue
+|-
+| [[Balladare Arandaille]] || {{ne|115}} || {{ne|142}} || [[Brown Ajah|Brown]]
+|-
+| [[Medanor Eramandos]] || {{ne|142}} || {{ne|171}} || Gray
+|-
+| [[Kiyosa Natomo]] || {{ne|171}} || {{ne|197}} || Green
+|-
+| [[Catala Lucanvalle]] || {{ne|197}} || {{ne|223}} || [[Yellow Ajah|Yellow]]
+|-
+| [[Elise Strang]] || {{ne|223}} || {{ne|244}} || Gray
+|-
+| [[Comarra Zepava]] || {{ne|244}} || {{ne|276}} || Blue
+|-
+| [[Serenia Latar]] || {{ne|276}} || {{ne|306}} || Gray
+|-
+| [[Doniella Alievin]] || {{ne|306}} || {{ne|332}} || Brown
+|-
+| [[Aliane Senican]] || {{ne|332}} || {{ne|355}} || White
+|-
+| [[Suilin Escanda]] || {{ne|355}} || {{ne|396}} || Blue
+|-
+| [[Nirelle Coidevwin]] || {{ne|396}} || {{ne|419}} || Green
+|-
+| [[Ishara Nawan]] || {{ne|419}} || {{ne|454}} || Blue
+|-
+| [[Cerilla Marodred]] || {{ne|454}} || {{ne|476}} || Gray
+|-
+| [[Igaine Luin]] || {{ne|476}} || {{ne|520}} || Brown
+|-
+| [[Beryl Marle]] || {{ne|520}} || {{ne|533}} || White
+|-
+| [[Eldaya Tolen]] || {{ne|533}} || {{ne|549}} || Blue
+|-
+| [[Alvera Ramosanya]] || {{ne|549}} || {{ne|578}} || Yellow
+|-
+| [[Shein Chunla]] || {{ne|578}} || {{ne|601}} || Green
+|-
+| [[Gerra Kishar]] || {{ne|601}} || {{ne|638}} || Gray
+|-
+| [[Varuna Morrigan]] || {{ne|638}} || {{ne|681}} || Green
+|-
+| [[Cemaile Sorenthaine]] || {{ne|681}} || {{ne|705}} || Gray
+|-
+| [[Marasale Jureen]] || {{ne|705}} || {{ne|732}} || Yellow
+|-
+| [[Feragaine Saralman]] || {{ne|732}} || {{ne|754}} || Blue
+|-
+| [[Myriam Copan]] || {{ne|754}} || {{ne|797}} || Green
+|-
+| [[Zeranda Tyrim]] || {{ne|797}} || {{ne|817}} || Brown
+|-
+| [[Parenia Demalle]] || {{ne|817}} || {{ne|866}} || Gray
+|-
+| [[Sereille Bagand]] || {{ne|866}} || {{ne|890}} || White
+|-
+| [[Aleis Romlin]] || {{ne|890}} || {{ne|922}} || Green
+|-
+| [[Kirin Melway]] || {{ne|922}} || {{ne|950}} || Brown
+|-
+| [[Noane Masadim]] || {{ne|950}} || {{ne|973}} || Blue
+|-
+| [[Tamra Ospenya]] || {{ne|973}} || {{ne|979}} || Blue
+|-
+| [[Sierin Vayu]] || {{ne|979}} || {{ne|984}} || Gray
+|-
+| [[Marith Jaen]] || {{ne|984}} || {{ne|988}} || Blue
+|-
+| [[Siuan Sanche]] || {{ne|988}} || {{ne|999}} || Blue
+|-
+| [[Elaida do Avriny a'Roihan]] || {{ne|999}} || {{ne|1000}} || Red
+|-
+| [[Egwene al'Vere]] || {{ne|1000}} || {{ne|1000}} || None
+|-
+| [[Cadsuane Melaidhrin]] || {{ne|1000}} || Incumbent || Green
+|}
+
+==Longest serving Amyrlins==
+{| class="wikitable"
+| '''Name''' || '''Served''' || '''[[Ajah]]'''
+|-
+| [[Deane Aryman]] || 92 years || Blue
+|-
+| [[Selame Necoine]] || 56 years || Green
+|-
+| [[Bonwhin Meraighdin]] || 53 years || Red
+|-
+| [[Edarna Noregovna]] || 51 years || Blue
+|-
+| [[Rashima Kerenmosa]] || 50 years || Green
+|}
+
+It had been speculated by [[Nisao Dachen]] of the [[Yellow Ajah]], as well as others, that Egwene would have become the longest serving Amyrlin Seat of all time, due to being raised at the age of eighteen. This was unfortunately cut short by her sacrifice during the Last Battle. Had she not been deposed and stilled - and had not [[Tarmon Gai'don]] been looming on the horizon - this title might have belonged to Siuan, having been raised at the age of thirty, which would have given her a reign at least two hundred years long, possibly two hundred fifty.
+
+== Shortest Serving Amyrlins ==
+{| class="wikitable"
+| '''Name''' || '''Served''' || '''[[Ajah]]'''
+|-
+| [[Elaida do Avriny a'Roihan]] || 255 days || Red
+|-
+| [[Egwene al'Vere]] || 1 year || None
+|-
+| [[Marith Jaen]] || 4 years || Blue
+|-
+| [[Sierin Vayu]] || 5 years || Gray
+|-
+| [[Tamra Ospenya]] || 6 years || Blue
+|}
+The 30 years prior to the [[Last Battle]] resulted in a string of short Amyrlin reigns, mainly due to the rebirth of the [[Dragon Reborn]] and the resulting [[Black Ajah]] activity. In fact, of the 5 Amyrlins listed, only [[Marith Jaen]] died of natural causes. Tamra Ospenya and Sierin Vayu were murdered as a result of Black Ajah activity, Egwene al'Vere was killed in battle with the [[Shadow]], and Elaida was taken captive by the [[Seanchan]]. [[Siuan Sanche]], who was the shortest serving Amyrlin after the ones mentioned on the list, was deposed by the machinations of the Black Ajah, but even she reigned for nearly twice long as the longest serving Amyrlin on the list. Before this period, most Amyrlins reigned for 20-30 years, whereas none during this period reigned for more than a decade. The Black Ajah's influence can also be seen in the [[Keeper of the Chronicles|Keepers]] and [[Mistress of Novices|Mistresses of Novices]] during these Amyrlins' administrations. Of the 6 Amylins in the 30 years leading up to the [[Last Battle]], 3 had a Keeper of Chronicles who was Black Ajah and 2 had a Mistress of Novices who was Black Ajah. In fact, during the [[White Tower Schism]], both Amyrlins' Keepers were Black Ajah.{{ref|[[Sheriam Bayanar]] was both [[Mistress of Novices]] for [[Siuan Sanche]] and [[Keeper of the Chronicles]] for [[Egwene al'Vere]]}}
+
+==Amyrlin Seats by Ajah==
+We know exactly the Ajah from which the Amyrlin Seats were chosen only for the last millennium, this is the list by Ajah updated after the [[Last Battle]] (and so counting Elaida, Egwene and Cadsuane). Possibly to this list we could add two famous Amyrlins from more ancient times, respectively a Green ([[Rashima Kerenmosa]]) and a Red ([[Tetsuan]]). Counting the Amyrlins from ancient times, the Green would match the Gray but not the Blue.
+{| class="wikitable"
+| '''Rank''' || '''[[Ajah]]''' || '''Number of Amyrlins'''
+|-
+| 01 || [[Blue Ajah]] || 11 Amyrlin Seats
+|-
+| 02 || [[Gray Ajah]] || 9 Amyrlin Seats
+|-
+| 03 || [[Green Ajah]] || 8 Amyrlin Seats
+|-
+| 04 || [[Brown Ajah]] || 5 Amyrlin Seats
+|-
+| 05 || [[White Ajah]] || 4 Amyrlin Seats
+|-
+| 06 || [[Yellow Ajah]] || 3 Amyrlin Seats
+|-
+| 07 || [[Red Ajah]] || 2 Amyrlin Seats
+|-
+| 08 || None || 1 Amyrlin Seat
+|}
+
+== Parallels ==
+The title Amyrlin may be a reference to {{Wiki|Merlin}}, magician and adviser to {{Wiki|King Arthur}}.
+
+{{notes}}
+
+[[es:Sede Amyrlin]]
+[[Category:Titles]]
+[[Category:Aes Sedai]]
+[[Category:Parallels]]

@@ -1,0 +1,8 @@
+{{Image
+| License            = gfdlself
+| ImageType1          = Misc
+| Description        = Icon of Band of the Red Hand
+| Source             = Hand from http://www.heraldicclipart.com/catalog/Hand%20dexter.html
+}}
+[[Category:Flags]]
+[[Category:Images by Chris Moorhead]]

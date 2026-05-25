@@ -1,0 +1,2 @@
+<includeonly>[[Strength in the One Power rankings#rank{{{power|{{{1|}}}}}}|{{ops|{{{power|{{{1|}}}}}}}}]]</includeonly><noinclude>{{Documentation|:Template:ops/doc}}
+[[Category:Templates]]</noinclude>

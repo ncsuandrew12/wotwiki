@@ -1,0 +1,27 @@
+{{character 
+| image=DFWarder.svg
+| imagesize=250px
+| nationality=Saldaean
+| title=Gaidin
+| hair=Graying, black, curly
+| gender=Male
+| build=Slim
+| height=5'10" or 178cm
+| status=Dead
+| death={{ne|1000}}
+| occupation=Warder
+| affiliation=White Tower
+| appeared={{wh|7}}
+| lastappeared={{kod|32}}
+}}'''Venr Kosaan''' was one of [[Careane Fransi|Careane Fransi's]] [[Warder]]s.{{ref|{{twotc}}, Venr Kosaan|Venr}}  He was also a [[Darkfriend]].{{ref||Venr}}
+
+== Appearance ==
+He was dark with touches of gray in his curly black hair and had a short beard. He was very slim and 5'10" or 178&nbsp;cm tall.
+
+== Activities ==
+He was with Careane when she traveled to [[Caemlyn]].  Inside the house on Full Moon Street Careane was exposed as being of the [[Black Ajah]].  She was subsequently killed by [[Vandene Namelle]]. Venr felt Careane die inside the house and rushed inside. He along with Careane's other two warders perished in the ensuing confrontation.{{ref||Venr}}
+
+{{notes}}
+{{DEFAULTSORT:Kosaan, Venr}}
+[[Category:Rebel Aes Sedai]]
+[[Category:Darkfriends]]

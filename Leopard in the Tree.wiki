@@ -1,0 +1,9 @@
+{{swordform 
+| mentioned={{7|18}}
+| used=[[Jahar Narishma]]
+}}
+{{for|other similarly named sword forms|Leopard in High Grass|Leopard's Caress}}
+'''Leopard in the Tree''' is a [[sword form]]. It is a stance with the swordsman grasping the hilt of his weapon, waiting on the brink of drawing. [[Jahar Narishma]] assumed this form when [[Cadsuane Melaidhrin]] first came to [[Rand al'Thor]] in [[Cairhien]].{{ref/book|7|18}}
+
+{{notes}}
+{{short}}

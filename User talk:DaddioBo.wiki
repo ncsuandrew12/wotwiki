@@ -1,0 +1,28 @@
+==Welcome==
+
+Hi, welcome to {{SITENAME}} I'm a member of Fandom's staff team. Thank you for your edit to [[:Forum:The Creator/Dark One]]!
+
+It looks like none of the admins for this community are active right now, but if you need help, check out our [[Help:Contents|help pages]] or visit the [https://community.fandom.com/wiki/Special:Forums?utm_source=staffmessageversion3 Community Central forums].
+
+Enjoy your time at {{SITENAME}}!
+ 
+Thank you. If you are a person and not a bot, I wonder if you could help me? 
+My first post, or "edit" as you'ns call it here, was to answer Demiar in the Inn on a thread called Creator/DarkOne.
+I put spaces between paragraphs as is my custom. This seemed to cause some of the paragraphs to go to a weird format.
+
+They are in a different text and have an arrow to scroll across to read them all in one line.
+
+How do I correct this into a normal reading format. Also how do I prevent it from happening again.
+I put spaces in this to see if it happens. Maybe I should go play in the sandbox?
+
+````DaddioBo
+
+I figured out the problem. It was not the space between my paragraphs as I had thought. It was the indent at the start of the first line of the paragraph.
+
+I will attempt to recreate the anomaly here:
+
+ This is an indented paragraph. If I rant or create a verbose chat that extends long enough the words do not all fit in the box that is created and so there is a scroll feature
+
+  This one is indented two spaces.
+
+Stay safe and healthy, [[User:DaddioBo|DaddioBo]] ([[User talk:DaddioBo|talk]]) 16:16, July 31, 2020 (UTC)DaddioBO

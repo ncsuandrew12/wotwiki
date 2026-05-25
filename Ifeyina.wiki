@@ -1,0 +1,26 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| affiliation=Car'a'carn
+| status=Alive
+| clan=Unknown clan
+| sept=Unknown sept
+| society=Far Dareis Mai
+| appeared={{tom|32}}
+| lastappeared={{tom|32}}
+| living=tom
+}}
+'''Ifeyina''' is a ''[[Far Dareis Mai]]''.
+
+== Activities ==
+She is one of the two Maidens who guard [[Rand al'Thor]] when he defeats the entire [[Shadowspawn]] army singlehandedly outside [[Maradon]]. Ifeyina disagrees with [[Evasni]]'s assessment of Rand's actions.
+
+== Trivia ==
+* Ifeyina is named for Ifeyinwa Eboh, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+{{Short}}
+
+[[es:Ifeyina]]
+[[Category:Characters named after fans]]

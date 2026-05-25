@@ -1,0 +1,101 @@
+{{quote|Make the sign, and a door opens.|[[Olver]], explaining how to enter the [[Tower of Ghenjei]]}}
+{{summary | book=11 | ewot=ch10 | wotmania=514
+|chapter=10
+|title=A Village in Shiota
+|icon=Finn
+|setting=Central [[Altara]]
+}}
+
+==Summary==
+
+:{{pov|[[Mat Cauthon|Mat]]}}
+[[Matrim Cauthon]] rides with [[Tuon]] and [[Selucia]] behind [[Valan Luca]]'s Grand Traveling Show and Magnificent Display of Marvels and Wonders. Mat watches some ravens and Tuon asks if he saw some sort of omen in them. Mat believes that they or rats can be eyes of the [[Dark One]]. Tuon is dismissive and says they are as likely as snakes giving true answers and foxes stealing peoples skins. Mat is disturbed by her unintentional reference to the [[Finn]] which of course actually exist. Mat juggles in his saddle which pleases Tuon. Mat enjoys her laugh. As they ride Mat tries to puzzle Tuon's motives and whether she is courting him back. The Traveling Circus comes across comes a strange-looking village. They move into the fields to begin to set up, and see a peddler passing through the village, looking very puzzled at it. Mat recognizes the architecture as that of the country of [[Shiota]], which disappeared centuries ago. He yells to the peddler to keep going, that they are ghosts, but the peddler stops. The village sinks into the ground and vanishes, taking him with it. With difficulty Luca convinces everyone to continue on, after going around the site. Luca finally finds a patch of land to camp down for the night. 
+
+Tuon tells Mat that they will say a prayer tonight, as seeing the dead is a sign that [[Tarmon Gai'don]] approaches. [[Thom]] and [[Noal]] join Mat to play stones with him. Soon [[Juilin Sandar]], [[Amathera Aelfdene Casmir Lounault]] and [[Olver]] join them and start playing Snakes and Foxes. [[Egeanin Tamarath]] and [[Bayle Domon]] enter, which causes Amathera to drop to her knees. Egeanin lifts Amathera's head and tells her to meet her and everyone else in the eyes. Amathera keeps her eyes up and Juilin states that this is a change in her personality. Domon says that all things change, even him. Domon had to give up smuggling in order to marry Egeanin. Egeanin invites Juilin and Amathera back to their tent for some drinks, which Juilan accepts. 
+
+Olver continues to play the game, but keeps being beaten by them. Mat finally asks Thom why he keeps reading the letter and looking so puzzled. Thom gives him the letter to read which is revealed to be [[Moiraine's letter to Thom]]. [[Moiraine Damodred]] addresses it to "My dearest Thom." She says that she is going to confront [[Lanfear]], and that afterward everyone will believe she is dead, but that she is not. She says that if he comes to rescue her with Mat and ''one'' other person, a man she does not know, they may succeed, but not otherwise. She says Mat knows the way to find her. Mat argues that [[Lan]]'s bond was broken meaning Moiraine must be dead. Thom says that that is what everyone would believe. Mat says Moiraine must be trapped with the [[Aelfinn]] and [[Eelfinn]], but the doorway melted so he does not know how to reach them. Olver says the [[Tower of Ghenjei]] will take them there, as [[Birgitte Silverbow]] told him though no one knows where that is. Noal tells them that not even Jain Farstrider has ever seen it. He describes it, and Mat remembers it from his journey down the [[River Arinelle|Arinelle]] with Thom, [[Rand]], and Domon. {{Ref/book|1|24}} Olver explains that it can be opened making the sign from the [[Snakes and Foxes]] game with a bronze knife on the side of it. Mat explains what he knows about the Aelfinn and Eelfinn, including the doors and his memories. {{Ref/book|4|15}} {{Ref/book|4|24}} He thinks they will know he is coming and says it's dangerous but Noal then volunteers to be the third man. Thom says he will go to find Moiraine with or without Mat, so Mat reluctantly agrees to come along, at which point the dice stop in his head.
+
+==Characters==
+* [[Mat Cauthon]]
+* [[Thom Merrilin]]
+* [[Tuon]]
+* [[Valan Luca]]
+* [[Juilin Sandar]]
+* [[Bayle Domon]]
+* [[Egeanin Tamarath]]
+* [[Noal Charin]]
+* [[Olver]]
+* [[Selucia]]
+* [[Pips]]
+* [[Akein]]
+* [[Metwyn]]
+* [[Blaeric]]
+* [[Fen]]
+* [[Amathera]]
+* [[Latelle Luca]]
+* [[Lopin]]
+* [[Nerim]]
+* [[Teslyn]]
+* [[Joline]]
+* [[Edesina]]
+* [[Setalle Anan]]
+
+===Referenced===
+
+* [[Moiraine Damodred]]
+* [[Jain Farstrider]]
+* [[Lan Mandragoran]]
+* [[Lanfear]]
+* [[Birgitte]]
+* [[Artur Hawkwing]]
+* [[Roedran]]
+* [[Harnan]]
+* [[Nynaeve]]
+* [[Abell Cauthon]] as da
+
+===Groups===
+* [[Aelfinn]]
+* [[Eelfinn]]
+*[[Valan Luca's Traveling Show|Valan Luca's Grand Traveling Show and Magnificent Display of Marvels and Wonders]]
+
+==Places==
+*[[Altara]]
+
+===Referenced===
+
+* [[Shiota]]
+* [[Tar Valon]]
+* [[Seanchan]]
+* [[Tower of Ghenjei]]
+* [[Shandalle]]
+* [[Lugard]]
+* [[Illian]]
+* [[Ebou Dar]]
+* [[Amadicia]]
+* [[Tarabon]]
+* [[Ghealdan]]
+* [[Caemlyn]]
+* [[Shadar Logoth]]
+* [[Two Rivers]]
+
+==Events==
+
+===Referenced===
+* Death of [[Moiraine]]
+
+==Items==
+*[[Moiraine's letter to Thom]]
+
+===Referenced===
+*Bronze knife
+
+==Concepts==
+
+===One Power===
+*''[[ter'angreal]]''
+
+===Culture===
+*[[Snakes and Foxes]]
+
+{{Notes}}
+{{DISPLAYTITLE:''A Village in Shiota''}}

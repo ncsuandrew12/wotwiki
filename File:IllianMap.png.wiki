@@ -1,0 +1,9 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Map
+| Description        = A map of [[Illian]].
+| Source             = ''[[The Wheel of Time Roleplaying Game]]''
+| Artist             = Ellisa Mitchell
+}}
+[[Category:Maps]]
+[[Category:Maps of cities]]

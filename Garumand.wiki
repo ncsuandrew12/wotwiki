@@ -1,0 +1,22 @@
+{{character
+| image=SaldaeaFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Saldaean
+| occupation=Soldier
+| affiliation=Graendal
+| rank=Captain
+| gender=Male
+| appeared={{tom|p}}
+| lastappeared={{tom|p}}
+| death={{ne|1000}}
+}}
+'''Garumand''' was a [[Saldaean]] captain and distant cousin of Queen [[Tenobia Kazadi]].
+
+==Appearance==
+He was a handsome man with a thick mustache.
+
+==Activities==
+Garumand was in charge of the guards for [[Graendal]]'s estate in [[Natrin's Barrow]]. Garumand was killed when Rand used [[balefire]] on the palace.{{ref/book|13|p}}
+
+{{notes}}

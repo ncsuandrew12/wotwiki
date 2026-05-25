@@ -1,0 +1,7 @@
+{{Image
+| License            = Fair Use
+| ImageType1         = Character
+| Description        = Seanchan riding a torm, painting by Todd Cameron Hamilton.
+| Source             = ''[[The World of Robert Jordan's The Wheel of Time]]''
+| Artist             = Todd Cameron Hamilton
+}}

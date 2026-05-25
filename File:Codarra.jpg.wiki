@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| ImageType2         = CCG
+| Description        = Members of the [[Codarra]] [[Aiel]].
+| Source             = The "[[Children of the Dragon]]" deck of ''[[The Wheel of Time Collectible Card Game]]''.
+| Artist             = Chris Arneson
+}}

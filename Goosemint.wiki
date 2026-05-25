@@ -1,0 +1,5 @@
+'''Goosemint''' is an [[herb]]. It is used to ease stomach pains and heartburn. It is described as having filly leaves. [[Nynaeve al'Meara]] consumed goosemint in [[Salidar]] when worrying about [[Moghedien]].{{ref/book|6|12}}
+
+{{notes}}
+{{short}}
+[[Category:Herbs and Medicines]]

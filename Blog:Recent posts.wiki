@@ -1,0 +1,4 @@
+<bloglist summary="true" timestamp="true" count=50>
+<type>plain</type>
+<order>date</order>
+</bloglist>

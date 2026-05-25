@@ -1,0 +1,20 @@
+{{ character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Altaran
+| affiliation=Darkfriend
+| occupation=Servant
+| gender=Male
+| hair=Balding
+| appeared={{Acos|16}}
+| lastappeared={{tpod|2}}
+}}
+'''Madic''' was a servant that works in the Palace in [[Ebou Dar]]. He was also a [[Darkfriend]].
+
+==Appearance==
+He was balding and had a very smug atmosphere about himself.
+
+==Activities==
+[[Matrim Cauthon]] bribed him in the Palace to keep an eye out for [[Tylin Quintara Mitsobar]]. He later reported to [[Moridin]] about the [[Bowl of the Winds]] being found and taken from Ebou Dar. Moridin killed him in a rage and his remains were then eaten by the ''[[gholam]]''.

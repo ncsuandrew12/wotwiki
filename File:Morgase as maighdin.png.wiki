@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = https://www.deviantart.com/karaburrito/art/Maighdin-535329397
+|Description = Fan art of [[Morgase Trakand]].
+|Artist      = karaburrito
+}}

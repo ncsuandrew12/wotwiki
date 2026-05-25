@@ -1,0 +1,16 @@
+{| width=85% align=center class="expansion" style="background: #242424; border: 1px solid #A8ACA8; margin-bottom: 3px;"
+| style="padding-right: 4px; padding-left: 4px;" rowspan=4| [[File:Red copyright.svg|50px]]
+|align=center|'''''This blog post is copyrighted by '''Dragonsteel Entertainment, LLC.''' All rights reserved.'''''
+|-
+|align=center|<span class="plainlinks">Link to original post: {{#if:{{{link|}}}|[http://{{{link|}}} {{{link}}}]|}}</span>
+|}<noinclude>This template will be used on all blog posts originally created by [[Brandon Sanderson]] and posted on his [http://www.brandonsanderson.com website]. The parameter "link" will be used to include the web address of the original post.
+
+==Usage==
+Sample code:
+<pre>{{dragonsteel|link=www.google.com}}</pre>
+
+Example:
+{{dragonsteel|link=www.google.com}}
+
+[[Category:Licensing|Dragonsteel]]
+</noinclude>

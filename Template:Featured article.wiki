@@ -1,0 +1,3 @@
+<!-- Enhanced error handling over just simply {{F/{{CURRENTWEEK}}}}, there are not yet 52 F/# pages for every week of the year. -->
+{{#ifexist: Template:F/{{CURRENTWEEK}} | {{F/{{CURRENTWEEK}}}} | {{F/{{CURRENTDAY}}}}}}
+<noinclude>[[Category:Do not feature]]</noinclude>

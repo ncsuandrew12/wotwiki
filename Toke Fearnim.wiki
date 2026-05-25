@@ -1,0 +1,22 @@
+{{character 
+| image=AltaraFlag.png
+| imagesize=250px
+| status=Alive
+| nationality=Altaran
+| occupation=Stableman
+| gender=Male
+| build=Wiry
+| hair=Gray
+| appeared={{Kod|6}}
+| lastappeared={{kod|6}}
+| living=kod
+}}'''Toke Fearnim''' is a stableowner in [[Jurador]].{{ref|{{twotc}}, Fearnim, Toke}}
+
+==Apearance==
+Master Fearnim is a wiry man who has a fringe of gray hair.
+
+==Activities==
+When [[Matrim Cauthon]] is traveling with [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]] across [[Altara]], Mat goes into Jurador to buy a horse for [[Tuon Athaem Kore Paendrag]]. Master Fearnim has his stablehands, [[Adela]] and [[Hurd]], show Mat several horses. After much hard barganing, Mat buys a [[razor]] from Master Fearnim.
+
+{{notes}}
+{{DEFAULTSORT:Fearnim, Toke}}

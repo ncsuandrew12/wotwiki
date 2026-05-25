@@ -1,0 +1,12 @@
+#{{summarylink|p|bookname=The Eye of the World|bookabrev=TEOTW}} blah
+#{{summarylink|r|bookname=The Eye of the World|bookabrev=TEOTW}} blah
+#{{summarylink|1|bookname=The Eye of the World|bookabrev=TEOTW}} blah
+#{{summarylink|Prologue|bookname=Knife of Dreams|bookabrev=KOD}} blah
+#{{summarylink|1|bookname=Knife of Dreams|bookabrev=KOD}} blah
+#{{summarylink|Epilogue|bookname=Knife of Dreams|bookabrev=KOD}} blah
+#{{summarylink|p|Maybe I want to call it something else!|bookname=The Eye of the World|bookabrev=TEOTW}} blah
+
+== Something has gone horribly wrong with this template ==
+
+Gherald, I can't decipher what might have changed, but it used to show up in abbreviated form and now (forex [[Nynaeve]]'s infobox) it's showing the full book title and causing coding to bleed over into the top of the article. Can you fix? I'm fiddling with it tonight, but will restore the latest version when I'm done if I can't get it sorted out. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 03:06, September 23, 2009 (UTC)
+:Yeah that was my bad. I fixed it.--[[User:Optimous|Optimous]] 06:50, September 23, 2009 (UTC)

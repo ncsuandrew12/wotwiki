@@ -1,0 +1,30 @@
+{{ character 
+| image=Laman Damodred.jpg
+| imagesize=250px
+| nationality=Cairhienin
+| gender=Male
+| title=King of Cairhien
+| rank=King
+| status=Dead
+| death={{ne|978}}
+| mentioned={{ns|2}}
+| lastmentioned={{amol|23}}
+| ewot=laman
+}}
+'''Laman Damodred''' (pronounced: LAH-man DAH-moh-drehd) became king of [[Cairhien]] in [[965 NE]]. He was uncle to [[Moiraine Damodred|Moiraine]] and [[Taringail Damodred]].
+
+== History ==
+Laman Damodred took the throne in {{ne|965}}.{{ref|[[The Wheel of Time Companion]], Laman Damodred}} Sometime prior to {{ne|978}}, he chose to cut down the 500-year-old chora tree given to Cairhien by the [[Aiel]] to make a throne for himself. This act, often referred to as 'Laman's Pride' or 'Laman's Sin', brought great numbers of Aiel over the [[Spine of the World]] and precipitated the [[Aiel War]]. This ended with death of Laman, by then called Laman Treekiller, at the hands of the Aiel on [[Danu 1]], {{ne|978}}.{{ref|[[The Wheel of Time Companion]], Aiel War}} Laman's brothers [[Moressin Damodred|Moressin]] and [[Aldecain Damodred|Aldecain]] were also killed. Their goal complete, the Aiel returned to the Waste as suddenly as they came.
+
+[[File:Laman Damodred AM.jpg|thumb|left|300px|Laman Damodred on his throne made from [[Chora|Avendoraldera.]] Art by [[:Category:Images by Adam Masterman|Adam Masterman.]]]]Even today, Aiel are distrusting of the Cairhienin, referring to them as "treekillers" and "oathbreakers". The feeling is quite mutual, considering the slaughter caused by the Aiel as they cut their way to King Laman.
+
+The Aiel kept Laman's sword as a trophy. It was a very rich sword, with an ivory hilt, and a gold pommel encrusted with gemstones - a Power-wrought blade refitted for ostentation, not for combat. The sword itself would pass through several owners until decades later, when [[Aviendha]] acquired it and offered it to [[Rand al'Thor]] thinking to free herself of the ''[[toh]]'' she incurred when Rand innocently gave her a bracelet as a gift. Rand accepted the heron marked blade itself, but chose to let Aviendha keep the impractical and gaudy scabbard and hilt including all the gems.
+
+== Parallels ==
+
+{{Wiki|Laman and Lemuel|Laman son of Lehi}} is a figure in the Book of Mormon and is one of the progenitors of the antagonists (and is himself an antagonist) of the first and second Books of Nephi. He marries a daughter of {{Wiki|Ishmael_(Book_of_Mormon)|Ishmael}} (not the son of Abraham).
+
+{{notes}}
+
+[[es:Laman Damodred]]
+[[Category:Royalty]]

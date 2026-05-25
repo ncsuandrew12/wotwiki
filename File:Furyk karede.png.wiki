@@ -1,0 +1,8 @@
+{{Image
+|ImageType1  = Character
+|License     = GFDL
+| ImageType2 = Fan Art
+|Source      = http://karaburrito.tumblr.com/post/102138089703
+|Description = Fan art of [[Furyk Karede]].
+|Artist      = karaburrito
+}}

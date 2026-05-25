@@ -1,0 +1,168 @@
+{{clear}}
+===Field list===
+<pre>
+{{ character 
+| image=Uses the list below to determine what image to show.
+| imagesize=Leave blank if image size is fine at original size.
+| ewot=If name is different at Encyclopaedia WoT.
+| ewothist= If there is a character that is from the past use this instead of the one above.
+| name=Name of character (defaults to PAGENAME).
+| ajah=If character is an Aes Sedai put the color they are and if none leave blank.
+| family=Family members.
+| birth=Date of birth of the character (use the {{Era|Year}} templates).
+| birth_extra=Extra data on birth date (e.g. footnotes).
+| status=Use "Alive" if still alive, use "Unknown" if not known, use "Dead" if deceased, and use "Forseen" if from the future.
+| death=Date of death if dead (use the {{Era|Year}} templates).
+| race=Only if not human.
+| nationality=The birth place of the character. Point of ambiguity: Should this be nation name (e.g. Kandor) or demonym (e.g. Kandori)?
+| nationality_extra=Extra text on the nationality, such as a footnote or question mark.
+| rank=Rank of character (If Aes Sedai only list as rank not title).
+| title=Title the character is called. Different from rank (i.e. Dragon Reborn is a title not rank).
+| occupation=Occupation of character.
+| affiliation=The group the character is involved in (i.e. Dragon Reborn, Darkfriend).
+| gender=Gender of character.
+| clan=Name of clan for the Aiel.
+| sept=Name of sept for the Aiel.
+| society=Name of society for the Aiel. Automatically italicizes the name.
+| build=Build of the character.
+| height=Height of character.
+| hair=Description of hair (i.e. Long brown).
+| eyes=Description of eyes (i.e. Big deep set brown).
+| mentioned={{book abbrev|chapter number}}(only if different from appeared).
+| appeared={{book abbrev|chapter number}}.
+| lastappeared={{AMOL|33}}.
+| lastmentioned={{book abbrev|chapter number}} (only if different from last appeared).
+| living=Book abbreviation. This is for when the character is to be known alive last. This does not appear on the template. It is only for categorizing.
+| tworivers=yes. This is for when the affiliation of a Two Rivers folk is Perrin Aybara. This does not appear on the template. It is only for categorizing and changing the template color.
+| strength in saidar=Level of strength according to ""The Wheel of Time Companion" for female channelers
+}}
+</pre>
+
+===Detailed field usage and parameters===
+Each of the above fields can be used to either add a page to a category or change the color of the template. Below is a detailed breakdown of each field. Even if nothing but a name of a character is known, each character should have three of the parameters set; gender, nationality, and status.
+;image
+:This parameter displays an image for the character. If a character has a licensed image, it should go here. Fan-made images can be used if no official image is available. If neither is available, the flag of their country of origin can be used. If no flag is available, or the character belongs to a specific faction, a chapter icon can be used. See the [[Help:Style guide#Sandard icons|style guide]] for the full list.
+;imagesize
+:This parameter alters the size of the picture displayed. Character images and flags should be set at 250px to display the full width of the picture. Chapter icons display differently at different pixle sizes. See the style guide list for the proper size.
+;ewot
+:This parameter set the outgoing link to [http://www.encyclopaedia-wot.org/ encyclopaedia-wot.org] <!--- While this is not the proper spelling of "encyclopedia," it is the correct URL. DO NOT CORRECT!! ---->located right above the character template. The coding for this parameter takes the page name (or the information displayed in the "name" parameter) and inserts it into outgoing URL. For some characters in the main story line, this parameter is not needed. When adding a new character, preview the page and test the outgoing link. If it goes to the proper page, this parameter is not needed. If the link does not work, you'll have to search encyclopaedia-wot.org for the character. Once you have found it, look at the last part of the URL. This will be what you need to add to the parameter. For example, [[Verin Mathwin]]'s link goes to this URL: http://encyclopaedia-wot.org/characters/uz/verin.html. So on her page, the "ewot" parameter is set to "verin." No further modification is needed for Ogier, Nym, or Trollocs.
+;ewothist
+:This parameter works in a similar manner as "ewot," only it is used for historical characters. This parameter is required on any historical character, and their name must be spelled out.
+;name
+:This parameter is used to change the displayed name on the template. Most of the time, this is not used. When a character's page name has a qualifier, such as [[Dorindha (Roofmistress)]], this parameter will display only "Dorindha" on the template.
+;ajah
+:This parameter is used for Aes Sedai to display their ajah, change the color of the template and categorize the character's page appropriately. There are only eight inputs for this parameter; blue, red, yellow, white, gray, green, brown, and Unknown Ajah. For the last, it must be put in exacly as shown. "Black" should not be put here. That should go in the "affiliation" parameter.
+;family
+:This parameter is used to list family members. See [[Laila Lewin]] for an example.
+;birth
+:This parameter is used to display the year of birth of a character. All of the years listed on the [[Timeline]] article are "anchor" linked, meaning you can link directly to that year and have the page automatically scroll to the year. Some characters' birth year can be calculated by how old they are in the books. In these instances, a "c." (meaning circa) should be placed before the year. See [[Cadsuane Melaidhrin]] for an example. Use the {{tl|ab}}, {{tl|fy}}, and {{tl|ne}} era templates, putting the year number after a "|" sign.
+;status
+:This parameter displays the current status of a character and categorizes them appropriatly. There are five inputs for this parameter; Alive, Dead, Unknown status, Debatable, and Forseen. To determin if a character is alive or dead, take into consideration the last time they were "seen" or mentioned. When using the word of another character, consider their mention of the character as either a "I was thinking about this person" or "I just saw this person." For example, in ''[[The Gathering Storm]]'', but before ''[[Towers of Midnight]]'' was published, [[Tamlin al'Thor]] mentioned having seen [[Morgase Trakand]] in [[Perrin Aybara]]'s camp. This would mean that Morgase's status would be alive, as of TGS. Conversly to this, even though [[Egwene al'Vere]] mentions her family in ''[[Winter's Heart]]'', she was only thinking of them at that time and hadn't seen them since she left the [[Two Rivers]]. Another thing to consider is any kind of impending death. Even though the character was last seen alive, they situation in which they were in may show that they possibly died. Some examples of this are those people at [[Heeth Tower]]. 
+:For those characters where their status cannot be accurately determined, use "Unknown" as their status. For those characters that have been shown in any kind of fortelling in any ''ter'angreal'' or some such, use the "Forseen" input.
+;death
+:Similar to the "birth" parameter, this displays the year of death of the character. Use the same templates of the "birth" parameter.
+;race
+:This parameter is only used on non-human characters, such as Ogier, Nym, and the only named Trolloc, [[Narg]]. In all cases, it puts the character's page in the appropriate category. In the case of the Ogier, it also changes the color of the template.
+;nationality
+:This parameter changes the color of the character's template and categorizes the article. The nationality names (i.e. Andoran, Tairen) are the inputs and the link in the template goes to the category. In the case of those characters whose nationality is unknown, use the input "Unknown Nationality" and not just "Unknown." 
+;rank
+:This parameter is used to display the rank of a character. There is some overlap with the "title" parameter. This parameter will automatically add the character's page to the appropriate category as well as change the color of the template where needed. This parameter also automatically links the input.
+;title
+:This parameter is used to display a character's title. Often times, a character will have a lengthy title, such as kings and queens. When this is the case, use the "title" parameter to display the long title and the "rank" parameter to display the shorter title. For example, [[Berelain sur Paendrag Paeron]]'s title is "First of Mayene, Blessed of the Light, Defender of the Waves, High Seat of House Paeron." This is what would be put in the title parameter. Her rank would be displayed as "First of Mayene." If a character's title can be linked, the input for the title parameter can be linked (i.e. title=[[Amyrlin Seat]]).
+;occupation
+:This parameter displays a character's occupation. This parameter automatically links to the appropriate category page from the template and categorizes the article.
+;affiliation
+:This parameter shows a character's affiliation. This parameter automatically links to the appropriate article from the template and categorizes where appropriate. Not all inputs for this parameter will categorize.
+;gender
+:This parameter displays a character's gender. The inputs "Male," "Female," and "Unknown gender" are used for this parameter.
+;clan
+:This parameter is used for Aiel characters to show thier clan. This parameter automatically links to the clan category from the template and adds the article to the appropriate category. There is also the input "Unknown clan" for those Aiel whose clan is unknown.
+;sept
+:This parameter displays an Aiel character's sept. This parameter automatically links to the sept category from the template and adds the article to the appropriate category. There is also the input "Unknown sept" for those Aiel whose sept is unknown.
+;society
+:This parameter shows an Aiel character's society. Only the [[Old Tongue]] names are used in the template (i.e. ''Far Dareis Mai'' instead of "Maiden of the Spear"). The parameter automatically italicizes the society name, links to the category page from the template, and adds the article to the appropriate category. The input "Unknown society" is used when an Aiel's society is unknown.
+;build, height, hair, and eyes
+:These parameters display the physicall characteristics of a character. These parameters do not add the article to any category, nor do they change the template's colors.
+;mentioned and appeared
+:These parameters show the first time a character has been mentioned or appeared. If they are the same, only use the "appeared" parameter. Use the book abbriviation templates to display book abbriviation and chapter number. For example, if a character first shows up in the first chapter of ''[[The Eye of the World]]'', use <nowiki>{{teotw|1}}</nowiki>. See [[Help:Book templates#By initialism|this list]] for more examples from each of the books. These parameters also accept links to the [[CCG]], {{bwb}}, and {{strike}}. Use <nowiki> [[CCG]], {{bwb}}, and {{Strike}}</nowiki> to link them.
+;lastappeared and lastmentioned
+:These parameters show the last time a character has appeared or been mentioned. If they are the same, only used the "lastappeared" parameter. Use the same templates and links from the "appeared" and "mentioned" parameters.
+;living
+:This parameter does not display in the template, but is used to categorize the character's article in the appropriate [[:Category:Living|Living subcategory]]. Use the same criteria as the "living" parameter to detirmine when the last time a character was known to be alive. The inputs for this parameter are the book abbriviations. The inputs "ccg," "guide," and "tsasg" are also used for when the character was only mentioned in the [[CCG]], {{bwb}}, or the {{strike}}.
+;tworivers
+:This parameter does not display in the template, but is used to categorize the character's article and color the character's template when the affiliation is set to "Perrin Aybara." The parameter's input needs to be "yes" for the categorizing and coloring to work.
+
+===Display parameters===
+Add these any where in the template
+*hideb=y(To hide Biographical information)
+*hidep=y(To hide Physical description)
+*hidec=y(To hide Chronological and political information)
+
+===Example===
+<pre>
+{{character 
+| image=Cairhien-icon.svg
+| imagesize=100px
+| name=Bob
+| family=Alice
+| birth=974 NE
+| status=Dead
+| death={{ne|999}}
+| race=Rat
+| nationality=
+| nationality_extra=
+| rank=Lord
+| title=Gleeman
+| occupation=
+| affiliation=Darkfriend
+| gender=
+| build=Fat
+| height=Short
+| hair=Long brown
+| eyes=Big deep set brown
+| appeared={{teotw|2}}
+| mentioned={{teotw|1}}
+| lastappeared={{teotw|1}}
+| lastmentioned={{tgh|1}}
+| living=tgh
+}}</pre>
+
+===Usage===
+Paste the following code into the top of an article, filling all known fields. Remove any unused fields.
+<pre><nowiki>{{character 
+| image=
+| imagesize=
+| ewot=
+| ewothist=
+| name=
+| family=
+| birth=
+| status=
+| death=
+| race=
+| nationality=
+| nationality_extra=
+| rank=
+| title=
+| occupation=
+| affiliation=
+| ajah=
+| clan=
+| sept=
+| society=
+| gender=
+| build=
+| height=
+| hair=
+| eyes=
+| appeared=
+| mentioned=
+| lastappeared=
+| lastmentioned=
+| living=
+}}</nowiki></pre>
+
+==See also==
+* [[Help:Style guide]]
+* [[Template:Character/major char model]]
+* [[Template:Character/minor char model]]

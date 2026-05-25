@@ -1,0 +1,69 @@
+{{ character 
+| image=Bera_Harkin_by_Jieroque.jpg
+| imagesize=250px
+| ajah=Green
+| nationality=Andoran
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| build=Stocky
+| eyes=Brown
+| hair=Brown, short
+| status=Alive
+| mentioned={{tfoh|27}}
+| appeared={{loc|49}}
+| lastappeared={{amol|23}}
+| living=amol
+}}'''Bera Harkin''' is an [[Aes Sedai]] of the [[Green Ajah]].
+
+== Appearance and Personality ==
+Bera is a stocky [[Andoran]] with a square face. She looks like a farmwife with short brown hair and brown eyes, and would have been mistaken for a farmwife if not for her agelessness. Despite this, she has a sternness and strength of character equal to that of her Green colleague [[Kiruna Nachiman]].
+
+==Strength and Abilities==
+She has a [[One Power]] strength of {{opsl|20}}, placing her close to the very top of the [[Strength in the One Power among Aes Sedai|Aes Sedai hierarchy]]. Among the rebel faction, only [[Romanda Cassin]] and [[Lelaine Akashi]] surpass her in strength, and only [[Sheriam Bayanar]] and [[Kiruna Nachiman]] are her equal.{{ref|{{twotc}}, various entries}} She is strong enough to [[Travel]].
+
+==History==
+Bera was born in the year {{ne|938}} in Andor.
+
+She went to the Tower in {{ne|953}} at the age of 15. After spending only four years as Novice and four as Accepted. During this time, she and Kiruna were pillow friends. Alhough both enjoyed men exclusively later, they remained the very closest of friends.
+
+Bera was raised to the shawl in the year {{ne|961}} at the age of 23 - an almost unprecedented young age.
+
+She has three [[Warder]]s.
+
+==Activities==
+=== Searching for the Dragon ===
+As is the case with many Green sisters, Bera became allied to the [[Salidar Aes Sedai]].
+
+When [[Elayne]] and [[Nynaeve]] arrived in Salidar, they discovered that Bera and Kiruna had been chosen by the [[Salidar Hall]] as ambassadors to the [[Dragon Reborn]] in the [[Aiel Waste]]. It was thought that their seven Warders would offer sufficient protection in the hostile Waste. Although not explicitly spoken, the [[Salidar Six]] likely nominated the two because they were two of the five strongest sisters in the camp and it suited them to get rid of them for political reasons. They departed soon after their appointment.
+
+Bera and Kiruna later discovered that Rand had returned to the [[Westlands]] and had just saved Cairhien from attack from the [[Shaido]]. They correspondingly altered their plans, following rumors and news, eventually travelling to Rand in [[Caemlyn]] instead. They would join with the sisters from the rebel faction already in Caemlyn - a group led by [[Merana Ambrey]]. After a breakdown in relations between this group and the Dragon Reborn, Bera and Kiruna assumed leadership and decide to follow him to Cairhien with nine Sisters. 
+
+=== Fealty to the Dragon ===
+The group of nine sisters left Cairhien with [[Perrin Aybara]] and participated in Rand's rescue at the Battle of [[Dumai's Wells]]. Bera is one of the nine Sisters forced to swear fealty to the Dragon after the battle and is placed into the [[Wise Ones]]' care. 
+
+[[Cadsuane Melaidhrin]] arrives in Cairhien and finds Bera in the Sun Palace where she drills her on all the events that have occurred recently. Bera is part of Rand's embassy when he meets with the [[Sea Folk]] and makes the [[Bargains of the Atha'an Miere#The Bargain with the Coramoor|Bargain]].
+
+Like the others sworn to Rand, she intends to keep her oaths as best she can. However, she could not stand up to Cadsuane openly. She adapts to being an apprentice much better than Kiruna does.
+
+She puts [[Shalon din Togara Morning Tide]] to the question as to why she was found bound with [[Ailil Riatin]].
+
+After being sent by Rand to negotiate with the rebel [[High Lords of Tear]], she comes to an agreement with [[Estanda]]. She gives Rand the good news while he is in the [[Stone of Tear]] that the rebels have agreed to disperse in return for [[Darlin Sisnera]] being made king.
+
+She is part of the group that investigates [[Alanna Mosvani]]'s mysterious disappearance from the Stone of Tear.
+
+She fights in the Last Battle with [[Aviendha|Aviendha's]] group of channelers at [[Shayol Ghul]]. After Aviendha's initial battle with [[Hessalam]], Bera Heals her vision which had been damaged. Aviendha had her lead a circle.
+
+== Viewings ==
+*[[Min Farshaw]] sees an aura of brownish yellow and a deep purple.
+*Min sees her in the palm of Rand's hand. This indicates she will keep her oath and can be trusted by Rand.
+Her friendship with Kiruna mirrors that of [[Siuan]] and [[Moiraine]]: same Ajah, same level of strength, among the strongest of sisters, one a noble and the other a commoner.
+
+{{DEFAULTSORT:Harkin, Bera}}
+[[es:Bera Harkin]]
+[[Category:Rand's Aes Sedai]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Caemlyn Embassy]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

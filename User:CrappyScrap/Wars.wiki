@@ -1,0 +1,171 @@
+''I am new to the series, and I'm keeping this list as a point of reference as I contribute on this wiki. '''Please don't expand this list on my behalf''' - believe it or not, I am'' trying ''to avoid spoilers while also contributing here. Call me a weirdo, it's just part of my reading experience!''
+
+===Wars in Wheel of Time===
+
+{|class="article-table"
+!colspan="3"| [[Timeline#The_Age_of_Legends|Age of Legends]]
+|-
+!colspan="1"| <small>Conflict
+!colspan="1"| <small>Victor
+!colspan="1"| <small>Loser
+|-
+| <small>[[War of Power]]<br>10-0
+| <small>[[File:DragonBanner.png|15px|border]] [[Light]]
+| <small>[[Forsaken]]
+|-
+!colspan="3"| [[Timeline#After_the_Breaking|After the Breaking]]
+|-
+!colspan="1"| <small>Conflict
+!colspan="1"| <small>Victor
+!colspan="1"| <small>Loser
+|-
+| <small>[[Timeline#335_AB|War of the First Dragon]]<br>335
+| <small>[[File:TarValonFlag.png|15px|border]] [[Tar Valon]]
+| <small>[[Raolin Darksbane]]
+|-
+| <small>[[Buiryn|Battle of Midean's Ford]]<br>''Unspecified''
+| <small>[[Safer]]
+| <small>[[File:ManetherenFlag.png|15px|border]] [[Manetheren]]
+|-
+| <small>[[Trolloc Wars]]<br>1000-1350
+| <small>[[File:ManetherenFlag.png|15px|border]] [[Manetheren]]<br>[[File:TarValonFlag.png|15px|border]] [[Tar Valon]]<br>[[Aelgar]]<br>[[Almoren]]<br>[[Aramaelle]]<br>[[Aridhol]]<br>[[Coremanda]]<br>[[Eharon]]<br>[[Essenia]]<br>[[Jaramide]]<br>[[Manetheren]]<br>[[Safer]]<br>[[Chareen]]<br>[[Codarra]]<br>[[Daryne]]<br>[[Goshien]]<br>[[Miagoma]]<br>[[Nakai]]<br>[[Reyn]]<br>[[Shaarad]]<br>[[Shaido]]<br>[[Shiande]]<br>[[Taardad]]<br>[[Tomanelle]]<br>[[File:WyldSymbol.png|15px|border]] [[Shara]]
+| <small>[[Shadowspawn]]
+|-
+!colspan="3"| [[Timeline#The_Free_Years|Free Years]]
+|-
+!colspan="1"| <small>Conflict
+!colspan="1"| <small>Victor
+!colspan="1"| <small>Loser
+|-
+| <small>[[War of the Second Dragon]]<br>939-943
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Shandalle]]<br>[[File:TarValonFlag.png|15px|border]] [[Tar Valon]]<br>[[Elan Dapor]]<br>[[Balasun]]<br>[[Kharendor]]<br>[[Dhowlan]]<br>[[Farashelle]]<br>[[Shiota]]<br>[[Fergansea]]<br>[[Moreina]]<br>[[Nerevan]]<br>[[Esandara]]<br>[[Masenashar]]<br>[[Dal Calain]]<br>[[Aldeshar]]<br>[[Tova]]<br>[[Khodomar]]
+| <small>[[File:GuaireAmalasanBanner.png|15px|border]] [[Darmovan]]
+|-
+| <small>[[Consolidation|The Consolidation]]<br>943-963
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Shandalle]]
+| <small>[[Caembarin]]<br>[[Tova]]<br>[[Khodomar]]<br>[[Aldeshar]]<br>[[Ileande]]<br>[[Talmour]]
+|-
+| <small>[[Timeline#FY_964|Aiel Campaign]]<br>964
+| <small>[[Aiel]]
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Artur Hawkwing's Empire|Hawkwing's Empire]]
+|-
+| <small>[[Timeline#FY_975|Siege of Tar Valon]]<br>975-994
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Artur Hawkwing's Empire|Hawkwing's Empire]]
+| <small>[[File:TarValonFlag.png|15px|border]] [[Tar Valon]]
+|-
+| <small>[[Battle of Talidar]]<br>986-987
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Artur Hawkwing's Empire|Hawkwing's Empire]]
+| <small>[[Shadowspawn]]
+|-
+|| <small>[[The Conquest]]<br>992-?
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Artur Hawkwing's Empire|Hawkwing's Empire]]
+| <small>[[Armies of Night]]
+|-
+| <small>[[Artur Hawkwing's invasion of Shara|Sharan Campaign]]<br>993-994
+| <small>[[File:WyldSymbol.png|15px|border]] [[Shara]]
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Artur Hawkwing's Empire|Hawkwing's Empire]]
+|-
+| <small>[[War of the Hundred Years]]<br>994-1117
+| <small>[[File:AndorFlag.png|15px|border]] [[Andor]]<br>[[File:TarValonFlag.png|15px|border]] [[Tar Valon]]<br>[[File:CairhienFlag.png|15px|border]] [[Cairhien]]<br>[[File:TearFlag.png|15px|border]] [[Tear]]<br>[[File:ArafelFlag.png|15px|border]] [[Arafel]]<br>[[File:SaldaeaFlag.png|15px|border]] [[Saldaea]]<br>[[File:KandorFlag.png|15px|border]] [[Kandor]]<br>[[File:ShienarFlag.png|15px|border]] [[Shienar]]<br>[[File:MalkierFlag.png|15px|border]] [[Malkier]]<br>[[File:AlmothFlag.png|15px|border]] [[Almoth]]<br>[[File:FarMaddingFlag.png|15px|border]] [[Maredo]]<br>[[File:TarabonFlag.png|15px|border]] [[Tarabon]]<br>[[File:MurandyFlag.png|15px|border]] [[Murandy]]<br>[[File:CotL.png|15px|border]] [[Children of the Light]]<br>[[File:IllianFlag.png|15px|border]] [[Illian]]<br>[[File:GhealdanFlag.png|15px|border]] [[Ghealdan]]<br>[[File:AltaraFlag.png|15px|border]] [[Altara]]
+| <small>
+|-
+| <small>[[Battle of Four Kings]]<br>1063
+| <small>[[File:AndorFlag.png|15px|border]] [[Andor]]
+| <small>
+|-
+!colspan="3"| [[Timeline#The_New_Era|New Era]]
+|-
+!colspan="1"| <small>Conflict
+!colspan="1"| <small>Victor
+!colspan="1"| <small>Loser
+|-
+| <small>[[Kavarthen Wars]]<br>?-142
+| <small>
+| <small>
+|-
+| <small>[[Battle of Cuallin Dhen]]<br>c.300
+| <small>[[File:AndorFlag.png|15px|border]] [[Andor]]
+| <small>[[File:TearFlag.png|15px|border]] [[Tear]]
+|-
+| <small>[[Succession_Wars#Background|1st/2nd Succession War]]<br>c.500
+| <small>
+| <small>
+|-
+| <small>[[Third War of Garen's Wall]]<br>c.600
+| <small>[[File:GhealdanFlag.png|15px|border]] [[Ghealdan]]<br>[[File:AltaraFlag.png|15px|border]] [[Altara]]
+| <small>
+|-
+| <small>[[Great Winter War]]<br>671-672
+| <small>[[File:AndorFlag.png|15px|border]] [[Andor]]
+| <small>[[File:CairhienFlag.png|15px|border]] [[Cairhien]]
+|-
+| <small>[[Weikin Rebellion]]<br>''Unspecified''
+| <small>
+| <small>
+|-
+| <small>[[Fall of Malkier]]<br>955
+| <small>[[Shadowspawn]]
+| <small>[[File:MalkierFlag.png|15px|border]] [[Malkier]]
+|-
+| <small>[[Stair of Jehaan|Battle of the Stair of Jehaan]]<br>955
+| <small>[[File:ShienarFlag.png|15px|border]] [[Shienar]]<br>[[File:ArafelFlag.png|15px|border]] [[Arafel]]<br>[[File:KandorFlag.png|15px|border]] [[Kandor]]
+| <small>[[Shadowspawn]]
+|-
+| <small>[[Whitecloak War]]<br>957
+| <small>[[File:AltaraFlag.png|15px|border]] [[Altara]]<br>[[File:IllianFlag.png|15px|border]] [[Illian]]<br>[[File:MurandyFlag.png|15px|border]] [[Murandy]]
+| <small>[[File:CotL.png|15px|border]] [[Children of the Light]]
+|-
+| <small>[[Wars of Cairhienin Succession|4th Cairhienin Succession War]]<br>965-978
+| <small>[[File:CairhienFlag.png|15px|border]] [[House Riatin]]
+| <small>[[File:CairhienFlag.png|15px|border]] [[House Damodred]]
+|-
+| <small>[[Succession_Wars#Third_Succession_War|3rd Succession War]]<br>972
+| <small>[[File:Trakand.png|15px|border]] [[House Trakand]]
+| <small>[[File:Marne.png|15px|border]] [[House Marne]]
+|-
+| <small>[[Aiel War]]<br>976-978
+| <small>[[Reyn]]<br>[[Nakai]]<br>[[Taardad]]<br>[[Shaarad]]
+| <small>[[File:ShienarFlag.png|15px|border]] [[Shienar]]<br>[[File:AndorFlag.png|15px|border]] [[Andor]]<br>[[File:IllianFlag.png|15px|border]] [[Illian]]<br>[[File:TearFlag.png|15px|border]] [[Tear]]<br>[[File:ArafelFlag.png|15px|border]] [[Arafel]]<br>[[File:TarValonFlag.png|15px|border]] [[Tar Valon]]<br>[[File:CairhienFlag.png|15px|border]] [[Cairhien]]<br>[[File:GhealdanFlag.png|15px|border]] [[Ghealdan]]<br>[[File:AmadiciaFlag.png|15px|border]] [[Amadicia]]<br>[[File:CotL.png|15px|border]] [[Children of the Light]]<br>[[File:MurandyFlag.png|15px|border]] [[Murandy]]<br>[[File:AltaraFlag.png|15px|border]] [[Altara]]<br>[[File:AradDomanFlag.png|15px|border]] [[Arad Doman]]<br>[[File:MayeneFlag.png|15px|border]] [[Mayene]]
+|-
+| <small>[[Muyami Uprising]]<br>''Unspecified''
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Seanchan]]
+| <small>
+|-
+| <small>[[Jianmin Incident]]<br>''Unspecified''
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Seanchan]]
+| <small>
+|-
+| <small>[[Logain_Ablar#History|Logain Ablar's War]]<br>997-998
+| <small>[[File:GhealdanFlag.png|15px|border]] [[Ghealdan]]<br>[[File:AndorFlag.png|15px|border]] [[Andor]]<br>[[File:MurandyFlag.png|15px|border]] [[Murandy]]
+| <small>[[File:LogainSigil.png|15px|border]] [[Logain Ablar]]
+|-
+| <small>[[Marendalar|Marendalar Rebellion]]<br>''Unspecified''
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Seanchan]]
+| <small>[[Marendalar]]
+|-
+!colspan="3"| From the start of ''[[The Eye of the World]]''
+|-
+!colspan="1"| <small>Conflict
+!colspan="1"| <small>Victor
+!colspan="1"| <small>Loser
+|-
+| <small>[[Winternight|Winternight Attack]]<br>998
+| <small>[[File:AndorFlag.png|15px|border]] [[Two Rivers]]
+| <small>[[Shadowspawn]]
+|-
+| <small>[[Battle of Tarwin's Gap]]<br>998
+| <small>[[File:ShienarFlag.png|15px|border]] [[Shienar]]
+| <small>[[Shadowspawn]]
+|-
+| <small>[[Battle of Falme]]<br>998
+| <small>[[File:DragonBanner.png|15px|border]] [[Horn of Valere|Heroes of the Horn]]<br>[[File:CotL.png|15px|border]] [[Children of the Light]]
+| <small>[[File:SeanchanFlag.png|15px|border]] [[Seanchan]]
+|-
+| <small>[[Battle of Emond's Field]]<br>999
+| <small>[[File:WolfBanner.png|15px|border]] [[Two Rivers]]
+| <small>[[Shadowspawn]]
+|-
+| <small>
+| <small>
+| <small>
+|}

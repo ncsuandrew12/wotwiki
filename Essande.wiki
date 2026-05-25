@@ -1,0 +1,29 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=House Trakand
+| occupation=Maid
+| gender=Female
+| hair=White
+| build=Slim
+| appeared={{Wh|9}}
+| lastappeared={{kod|35}}
+| living=kod
+| status=Alive
+}}
+'''Essande''' is Elayne's maid at the Royal Palace in [[Caemlyn]], chosen after Elayne's return. She is [[Andoran]], sworn to [[House Trakand]].
+
+== Appearance ==
+Essande is slim, dignified, white-haired and slow moving. She wore Elayne's Golden Lily embroidered large on her breast, and her gray skirts were trimmed in red. {{Ref|{{twotc}}, Essande}}
+
+== Family ==
+Her niece [[Melfane Dawlish|Melfane]] became Elayne's midwife. 
+
+==Activities==
+She chose [[Naris Pelden]] and her sister [[Sephanie Pelden|Sephanie]] to be trained as Elayne's maids because they were unlikely to be spies.{{Ref|{{twotc}}, Naris Pelden}}
+
+She knew the job and did not waste time on chatter. Sometimes she suggested clothes and made the same comment every day, that Elayne reminded her of [[Morgase]]. She reserved certain tasks for herself, such as dressing and undressing Elayne. She denied that her joints ached and refused [[Healing]].
+
+{{Notes}}
+{{Short}}

@@ -1,0 +1,22 @@
+{{ character
+| image=ArafelFlag.png
+| imagesize=250px
+| affiliation=Arafel
+| nationality=Arafellin
+| rank=King
+| gender=Male
+| status=Dead
+| mentioned={{tom|42}}
+| lastmentioned={{tom|42}}
+}}'''Yakobin''', called ''The Undaunted'', was an ancient [[Arafel|Arafellin]] king.{{ref|{{twotc}}, Yakobin the Undaunted}}
+
+== History ==
+During Yakobin's reign, there were several occasions where his army would have to retreat back to the [[Silverwall Keeps]] to make a final stand.{{ref/book|13|42}}
+
+== Trivia ==
+* Yakobin is named for Matthew Yakobina, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{short}}
+{{notes}}
+[[Category:Historical people]]
+[[Category:Characters named after fans]]

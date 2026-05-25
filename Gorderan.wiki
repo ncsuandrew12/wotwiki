@@ -1,0 +1,33 @@
+{{ character
+| image=BOTRH icon.jpg
+| nationality=Tairen
+| rank=Redarm
+| occupation=Soldier
+| affiliation= Band of the Red Hand
+| gender=Male
+| build=Muscular, Wide
+| status=Dead
+| death={{ne|1000}}
+| eyes=Gray
+| appeared={{acos|38}}
+| lastappeared={{tom|9}}
+}}
+'''Gorderan''' was a [[Redarm]] in the [[Band of the Red Hand]] that accompanies [[Mat Cauthon]].
+
+== Appearance ==
+He is a thick shouldered, heavily muscled man of about 5'10. His shoulders were nearly as broad as [[Perrin Aybara|Perrin]]'s, and he also had a heavy chest. He has gray eyes and black hair, and fair skin for a Tairen.
+
+He was about 35 years old.
+
+==History==
+He is noted as being the second best swordsman among these men. Despite his bulk, he is quite fast.
+
+== Activities ==
+In Ebou Dar he is one of the few Redarms to survive the [[gholam]] attack looking for the [[Bowl of the Winds]].
+He then stays in the [[Tarasin Palace]] with the rest of the surviving Redarms. Mat sends him to meet him outside the city when Mat carries out his plan of escaping with the captive [[Aes Sedai]].
+
+He then travels with Mat in [[Valan Luca's Traveling Show]] as cover for their escape.
+He is part of the group that chase [[Renna Emain]] after she stabbed [[Egeanin Tamarath]] and tries to flee to the town of [[Coramen]]. He shoots Renna with his crossbow, stopping her from reporting their group to the Seanchan.
+
+When the ''gholam'' attempts to flee the Band's camp outside [[Caemlyn]], Gorderan and [[Fergin]] try and cut off its escape despite Mat's warnings to flee.  It casually rips out their throats as it passes.
+[[Category:Redarms]]

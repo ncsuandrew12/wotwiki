@@ -1,0 +1,381 @@
+[[File:Audiobooks 1.jpg|thumb|right|250px|Three CD boxed sets of the Audio Renaissance versions of the unabridged versions of the books.]]
+__TOC__The audio versions of the main series books and prequel first came out in the form of cassette tapes, then later CD and digital download. Both abridged and unabridged versions have been published, although the abridged versions are no longer available to purchase. The unabridged versions were originally not available for the commercial market, but solely for the rental and library markets.{{ref/tidb|647}}
+
+Robert Jordan did listen to the audio versions of his own books, finding it useful to gain a different perspective:
+<blockquote>LAURA WILSON: Are you an audiobooks listener? And if so, what sorts of books do you listen to?</blockquote>
+
+<blockquote>ROBERT JORDAN: I'm afraid the audiobooks I listen to are my own. I don't read my own books, but when I get the new audio tape, I listen to it because I get a different view. It is different than reading it.{{ref/tidb|631}}</blockquote>
+An audio version of [[The World of Robert Jordan's Wheel of Time]] was recorded by Paul Woodson and published by Bill Fawcett and Associates in 1997.
+
+Unabridged audiobooks in languages other than English do exist. See [[Wheel of Time translations]] for a summary.
+
+The Eye of the World and The Wheel of Time Companion have also been published in braille.{{ref|{{Link|http://www.braillebookstore.com/The-Eye-of-the-World.1|Blind in Mind, The Eye of the World.}}}}{{ref|{{Link|https://worldcat.org/title/1312584794|Braille Wheel of Time Companion in WorldCat}}}}
+==Unabridged Versions==
+[[File:TEOTW audio RK.jpg|thumb|right|250px|Digital download thumbnail image for The Eye of the World unabridged audiobook narrated by Michael Kramer and Kate Reading.]]The original versions of the unabridged versions of the books were recorded by husband and wife team {{Wiki|Michael Kramer (narrator)|Michael Kramer}} and {{Wiki|Jennifer Mendenhall|Kate Reading}} and released on audio cassette. The publisher later released versions on CD before the cassette versions were phased out entirely. According to [[Maria Simons]], the unabridged audiobook project started just prior to the publication of {{6}} (1996).{{ref/tidb|499}}
+
+The audiobooks are currently published by {{Wiki|Macmillan Publishers|MacMillan Audio}}, formerly Audio Renaissance. Prior to this, they were published by Books On Tape, which was later bought by Random House in 2001.
+
+Robert Jordan had a big influence on making the full-length audiobooks happen, as well as pushing for a male and female narrator for different parts:<blockquote>I very much wanted [The Wheel of Time] to come out unabridged, because I have a first cousin once removed who is dyslexic and she could not manage to read the books very well, and she wanted to. So, I agitated to get an unabridged edition done from the very beginning. And I also pressed for there to be a man to read the male point of view sections and a woman to read the female point of view sections. At first I was told it was not necessary and that it was not done. And I said, "We'd like it done." Various people finally agreed with me.
+
+- Robert Jordan, Interview by Rochelle O'Gorman{{ref/tidb|647}}</blockquote>
+
+The first three books were originally published in two parts and then republished in their entirety at a later date. The dates below are for the first publication in that medium.
+
+An interview with the narrators Kramer and Reading by the youtuber Daniel Greene is available {{YTlink|https://www.youtube.com/watch?v&equals;Jw1rDoeCs6Y|online}}. The interview largely focuses on the creation of the ''Wheel of Time'' audiobooks.
+{| class="fandom-table"
+!Title
+!Running Tme
+!Cassette
+!# Cassettes
+!CD
+!# CDs
+!Digital
+!Notes
+|-
+|New Spring: The Novel
+|12h 38
+|2004
+|8
+|2004
+|11
+|2004
+|
+|-
+|The Eye of the World
+|29h 57
+|1996
+|21
+|2004
+|25
+|2004
+|1996 edition in two parts
+|-
+|The Great Hunt
+|26h 34
+|1997
+|18
+|2004
+|22
+|2004
+|1997 edition in two parts
+|-
+|The Dragon Reborn
+|24h 48
+|1997
+|17
+|2004
+|22
+|2004
+|1997 edition in two parts
+|-
+|The Shadow Rising
+|41h 13
+|1997
+|29
+|1997
+|34
+|2004
+|
+|-
+|The Fires of Heaven
+|36h 27
+|1997
+|25
+|1997
+|29
+|2004
+|
+|-
+|Lord of Chaos
+|41h 32
+|1998
+|29
+|1998
+|33
+|2004
+|
+|-
+|A Crown of Swords
+|30h 24
+|1998
+|22
+|2006
+|24
+|2006
+|CD date need verified
+|-
+|The Path of Daggers
+|23h 25
+|1998
+|16
+|2002
+|19
+|2003
+|
+|-
+|Winter's Heart
+|24h 12
+|2000
+|18
+|2000
+|20
+|2000
+|First released in all formats in same year
+|-
+|Crossroads of Twilight
+|26h 4
+|2003
+|18
+|2003
+|21
+|2003
+|
+|-
+|Knife of Dreams
+|32h 19
+|2005
+|21
+|2005
+|26
+|2005
+|Last published on audio cassette.
+|-
+|The Gathering Storm
+|32h 58
+|N/A
+|N/A
+|2009
+|26
+|2009
+|One of five nominees for Audie Award for Science Fiction 2010.
+|-
+|Towers of Midnight
+|38h 23
+|N/A
+|N/A
+|2010
+|30
+|2010
+|
+|-
+|A Memory of Light
+|41h 47
+|N/A
+|N/A
+|2013
+|33
+|2013
+|Released the same day as the print version
+|}
+
+===Rerecordings===
+[[File:TEOTW audio RP.jpg|thumb|right|250px|2021 version of The Eye of the World audiobook (digital download)]]In anticipation for the release of the coming Amazon Prime adaptation of the books, a new version of {{1}} was recorded with {{TVlink|Rosamund Pike}} as narrator. Pike plays [[Moiraine Damodred]] in the television adaptation. As of April 2025, only the first four books have been released by Macmillan Audio. It is unknown if [[The Fires of Heaven]] is currently being recorded, although there is also no indication that this series will not be continued.
+
+Rosamund Pike won the 2023 {{Wiki|Audie Award for Best Female Narrator|Audie award}} for best female narrator for {{1}} and the 2024 Audie award for best Fantasy narration.{{ref|{{Link|https://www.billboard.com/music/awards/bono-surrender-audiobook-of-the-year-2024-audie-awards-1235622046/|2024 Audie Award listings, Billboard article, 5 March 2024}}}}
+
+These are only available as digital downloads.
+{| class="fandom-table"
+!Title
+!Length
+!Date
+|-
+|The Eye  of the World
+|32h 55
+|{{Date|2021 Nov 16}}
+|-
+|The Great Hunt
+|28h 23
+|{{Date|2022 Aug 2}}
+|-
+|The Dragon Reborn 
+|26h 5
+|{{Date|2023 Jun 6}}
+|-
+|The Shadow Rising
+|41h 13
+|{{Date|2024 Sep 17}}
+|}
+==Other Wheel of Time audiobooks==
+For completeness we include the availability and running times of ''[[River of Souls]]'', ''[[A Fire Within the Ways]]'', ''[[The World of Robert Jordan's The Wheel of Time]]'', and {{origins}}. Note running time for the first two are not for the whole anthology; they are only the Wheel of Time content.
+{| class="fandom-table"
+|+
+!Title
+!Year
+!Publisher
+!Narrator
+!Length
+!Notes
+|-
+|The World of RJs WoT
+|1997
+|Bill Fawcatt and Associates
+|Paul Woodson
+|10h 16
+|Later Tantor Audio
+|-
+|Unfettered 
+|2014
+|Audible Studios
+|Michael Kramer
+|0h 30
+|Anthology including River of Souls.
+|-
+|Unfettered III
+|2019
+|Audible Studios
+|Michael Kramer
+|2h 38
+|Anthology including A Fire Within the Ways
+|-
+|Origins of The Wheel of Time
+|2022
+|Tor
+|Michael Kramer and Kate Reading
+|9h 34
+|
+|}
+
+==Abridged versions==
+[[File:TSR audio.jpg|thumb|right|250px|One of the earliest versions of the abridged audiobooks on audio cassette.]]
+Abridged versions of the books were published by The Publishing Mills on cassette tape and narrated by Mark Rolston. They were considerably shorter than the full novels. Robert Jordan was highly critical of the decision to make abridged versions and pushed for the full versions to become available:
+<blockquote>I don't like abridged versions, and particularly with something as long as my own books. In the abridged versions as much as 90 percent of the book has to be cut out, so I don't like them. As a matter of fact, I made sure that no one could do an abridged version of this latest book. I still own those particular rights, specifically defined, and I do not intend to let anybody do it.
+
+I do not believe in abridgments. I think abridgments tell people that they are getting a dumbed down version of something. What people think they're getting is an easier or faster version, but what they are actually getting is the version for dummies.
+
+- Robert Jordan, Interview by Rochelle O'Gorman{{ref/tidb|647}}</blockquote>The "latest book" mentioned here would have been {{9}} as the above is dated 2001. Indeed, {{8}} was the last to be recorded in abridged form, albeit with less cut than the previous installments.
+
+Details are provided below. Some of these were also available in CD format, but only the information for cassettes is given here:
+{| class="fandom-table"
+! Title
+!Year
+!Length (approx.)
+!Number
+!Notes 
+|-
+|The Eye of the World
+| 1994 
+|3h 
+|2 cassettes
+|The first two books have later publication dates than books 3-5.
+|-
+|The Great Hunt
+|1994
+|3h
+|2 cassettes
+|
+|-
+|The Dragon Reborn
+|1992
+|3h
+| 2 cassettes
+| Print version 1991.
+|-
+|The Shadow Rising
+|1992
+|3h
+|2 cassettes
+| First version released the same year as the print version.
+|-
+| The Fires of Heaven
+|1993
+|3h
+|2 cassettes
+|
+|-
+|Lord of Chaos
+|1994
+|3h
+|2 cassettes
+|When compared with the unabridged version, this is 93% shorter. 
+|-
+| A Crown of Swords
+|1996
+| 6h
+|4 cassettes
+|
+|-
+|The Path of Daggers
+|1998
+|12h
+|8 cassettes
+|Last abridged version. 
+|-
+|Best of Robert Jordan
+|2000 
+|24h
+|10 cassettes
+|Books 4-7 above
+|}
+
+==Galleries==
+
+===Unabridged Digital (Kramer and Reading)===
+As of 2023, these are the most recent cover art for the unabridged audiobooks narrated by Michael Kramer and Kate Reading:
+<gallery captionalign=center>
+NS_audio_KR.jpg|New Sspring
+TEOTW_audio_KR.jpg|The Eye of the World
+TGH_audio_KR.jpg|The Great Hunt
+TDR_audio_KR.jpg|The Dragon Reborn
+TSR_audio_KR.jpg|The Shadow Rising
+TFOH_audio_KR.jpg|The Fires of Heaven
+LOC_audio_KR.jpg|Lord of Chaos
+ACOS_audio_KR.jpg|A Crown of Swords
+TPOD_audio_KR.jpg|The Path of Daggers
+WH_audio_KR.jpg|Winter's Heart
+COT_audio_KR.jpg|Crossroads of Twilight
+KOD_audio_KR.jpg|Knife of Dreams
+TGS_audio_KR.jpg|The Gathering Storm
+TOM_audio_KR.jpg|Towers of Midnight
+AMOL_audio_KR.jpg|A Memory of Light
+</gallery>
+===Unabridged Digital (Pike)===
+<gallery captionalign=center>
+TEOTW_audio_RP.jpg|The Eye of the World
+TGH_audio_RP_orig.jpg|The Great Hunt (original artwork)
+TGH_audio_RP.jpg|The Great Hunt
+TDR_audio_RP.jpg|The Dragon Reborn
+</gallery>
+===Other Wheel of Time audiobooks===
+<gallery captionalign=center>
+WOWOT_audio.jpg|The World of Robert Jordan's Wheel of Time
+Origins_audio.jpg|Origins of Wheel of Time
+</gallery>
+
+=== Unabridged physical (selection) ===
+Some CD and cassette editions of the Kramer and Reading recordings.
+<gallery captionalign=center>
+NS_audio_CD_KR.jpg|New Spring CD edition
+TEOTW_audio_CD_KR.jpg|The Eye of the World CD edition
+TEOTW_audio_CD_KR_back.jpg|The Eye of the World CD edition (back)
+TGH_audio_CD_KR.jpg|The Great Hunt CD edition
+TGH_audio_CD_KR_back.jpg|The Great Hunt CD edition (back)
+ACOS_audio_CD_KR.jpg|A Crown of Swords CD edition
+ACOS_audio_CD_KR_back.jpg|A Crown of Swords CD edition (back)
+WH_audio_cass_KR.jpg|Winter's Heart cassette edition
+WH_audio_cass_KR_back.jpg|Winter's Heart cassette edition (back)
+COT_audio_CD_KR.png|Crossroads of Twilight CD edition
+KOD_audio_CD_KR.jpg|Knife of Dreams CD edition
+AMOL_audio_CD_KR.jpg|A Memory of Light CD edition
+AMOL_audio_CD_KR_back.jpg|A Memory of Light CD edition (back)
+</gallery>
+
+===Abridged (selection)===
+Some cassette and CD versions of the Mark Rolston editions.
+<gallery captionalign=center>
+TEOTW_audio_abr.jpg|The Eye of the World cassettes 
+TGH_audio_abr.jpg|The Great Hunt cassettes
+TSR_audio_abr.jpg|The Shadow Rising cassettes
+LOC_audio_abr.jpg|Lord of Chaos cassettes
+ACOS_audio_abr.jpg|A Crown of Swords CDs
+POD_audio_abr.jpg|The Path of Daggers cassettes
+POD_audio_abr_mac.jpg|The Path of Daggers cassettes (Macmillan audio)
+Best_of_audio.jpg|"Best of Robert Jordan" cassette collection
+Best_of_audio_back.jpg|"Best of Robert Jordan" cassette collection (back)
+</gallery>
+
+==External links==
+*[https://worldcat.org/search?q=Robert+Jordan&author=Jordan%2C+Robert&itemType=audiobook&itemSubType=audiobook-cd%2Caudiobook-cassette%2Caudiobook-digital%2Caudiobook-lp WorldCat results for Robert Jordan audiobooks]
+
+{{Notes}}
+
+[[Category:Main Series]]

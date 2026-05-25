@@ -1,0 +1,15 @@
+{{Testcases notice}}
+
+== Positive ==
+{{Inline test case|Lorem ipsum}}
+{{Inline test case|Ipsum lorem|IL}}
+{{Inline test case|ref||IL}}
+{{Inline test case|text=[https://dragonmount.com/search/?q=robert%20jordan&quick=1 Robert Jordan on Dragonmount]}}
+
+== Negative ==
+{{Inline test case|Lorem ipsum|IL}}
+{{Inline test case|}}
+{{Inline test case|[https://dragonmount.com/ Dragonmount]}}
+{{Inline test case|[https://dragonmount.com/search/?q=robert%20jordan&quick=1 Robert Jordan on Dragonmount]}}
+
+{{notes}}

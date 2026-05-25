@@ -1,0 +1,24 @@
+{{character
+| image=Birds.png
+| imagesize = 150px
+| ewot=Cemeille
+| nationality=Atha'an Miere
+| gender=Female
+| affiliation=Atha'an Miere
+| rank=Sailmistress
+| height=Tall
+| build=Lean
+| status=Alive
+| appeared={{kod|22}}
+| lastappeared={{kod|22}}
+| living=kod
+}}
+'''Cemeille din Selaan Long Eyes''' is an ''[[Atha'an Miere]]'' [[Sailmistress]] on the darter ''[[Wind Racer]]''.
+
+== Appearance ==
+She is young, tall and lean.
+
+== Activities ==
+She interrupts a meeting with the ''Atha'an Miere'' [[First Twelve]] with the news that the [[Amayar]] have committed mass suicide.
+
+{{DEFAULTSORT:Selaan Long Eyes, Cemeille din}}

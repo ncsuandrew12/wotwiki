@@ -1,0 +1,37 @@
+'''''Saidar''''' (pronounced: sah-ih-DAHR) is the female half of the [[One Power]]. Unlike the more violent ''[[saidin]]'', ''saidar'' is said to be a "river of Power" which must be surrendered to or "embraced" in order to gain control. It translates as "female power" from the [[Old Tongue]].
+
+==Characteristics==
+[[File:BlueAjah DoS.jpg|thumb|A sister of the Blue Ajah channelling saidar.|300px]]
+
+Female channelers can tell when other women are touching the Source; a white glowing [[wikipedia:Aura (paranormal)|aura]] appears around their body, only visible to those trained to touch ''saidar''. The ability can also be sensed in any woman capable of channeling, be they [[wilder]]s or [[Aes Sedai]]. In the testing to see if you can channel, a woman channels a simple weave and waits. Within five minutes if a woman has the [[spark]], the woman tries to channel the flow, and the test is confirmed. It takes longer for those who only can learn. However, a woman who has the spark can be detected by another female channeler without being tested.{{ref/book|1|12}}
+
+''Saidar'' is described as gentle, but infinitely powerful; a force which will do what you wish it to, but requires patience and submission to properly channel it. Surrender is necessary to gain it, and women universally speak of it as "embracing" the Power. Weaving for a female channeller is described as "guiding" the Power to perform the desired task. By contrast ''saidin ''is often described as a "raging torrent" that must be "seized" and controlled in order to force it to submit. Because of this fundamental difference in channeling the Power, a man can never teach a woman to channel, and vice versa.
+
+There is almost no way for a woman to tell when a man is channeling, though the residues of his channeling can be detected using an appropriate weave. [[Lanfear]] shows the ability to sense male channeling up to the extent of knowing where the weaves go when fighting with [[Rand al'Thor]] by means remaining unknown. Recently an active method was discovered to discern whether or not a man was channeling or holding ''saidin'', but this is not widely known.{{ref/book|11|23}}
+
+A woman repeatedly channeling ''saidar'' over a longer time starts to "slow," meaning that she does not age in the same way as a woman without the ability. This also gives the woman a longer life and some have been known to live over four hundred years.
+
+An exception from slowing are the Aes Sedai, who bind themselves using the [[Oath Rod]], which gives them an ageless face instead of slowing the aging. The Oath Rod is also suspected to shorten an Aes Sedai's life by hundreds of years, though after being [[Severing|stilled]], the former Aes Sedai returns to the same young appearance as she would have if she never had taken the oaths.
+
+Another blessing received by channeling ''saidar'' is that a pregnant woman will not be sick due to her pregnancy. However, her ability to channel will be harder to control over time and the woman will feel as if her weavings are slippery and oily – fading away as she tries to make a weave.
+
+== Groups that channel ''saidar'' ==
+* [[Aes Sedai]]
+* Some Aiel [[Wise One]]s
+* The [[Kin]]
+* Sea Folk [[Windfinder]]s
+* Seanchan ''[[damane]]''
+* The [[Shara]]n [[Ayyad]]
+* Female [[Forsaken]]
+
+== Parallels ==
+The name is likely from [[wikipedia:Seiðr|Seiðr]], sometimes anglicized as seidhr, seidh, seidr, seithr, seith, or seid, a type of magic in Norse society. It was primarily concerned with foretelling and controlling the future and, although different in nature, connections can be made by this and the True Source's connection to the Pattern and Web of Destiny. 
+
+== See also ==
+* [[Channeler]]s
+* ''[[saidin]]''
+
+{{notes}}
+{{DISPLAYTITLE:''Saidar''}}
+[[es:Saidar]]
+[[Category:One Power]]

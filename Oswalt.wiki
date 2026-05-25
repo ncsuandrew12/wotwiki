@@ -1,0 +1,19 @@
+{{character 
+| image=TearFlag.png
+| imagesize=250px
+| status=Alive
+| title=Lord
+| nationality=Tairen
+| occupation=Hunter of the Horn
+| gender=Male
+| hair=
+| mentioned =''[[The Wheel of Time Roleplaying Game]]''
+}}
+Lord '''Oswalt''' is a [[Tairen]] nobleman who pledged himself to become a [[Hunter of the Horn]].
+
+== History ==
+Lord Oswalt researched the potential location of the [[Horn of Valere]] in the Great Library of [[Cairhien]]. He found a tale of [[Artur Hawkwing]]'s trumpeter, who retired to a tower in the [[Hills of Kintara]] after the death of the High King. Some records said that he found the horn, and Oswalt believed that the Horn was located there. He managed to find a map with the precise location, and believed that no-one else would have the exact map and the information he did in his search for the Horn.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+
+{{notes}}
+[[Category:Nobility]]
+[[Category:Characters only mentioned in the RPG]]

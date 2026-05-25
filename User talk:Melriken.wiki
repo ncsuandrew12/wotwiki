@@ -1,0 +1,5 @@
+==Welcome==
+Thank you for contributing!  I just wanted to point out [http://wot.wikia.com/index.php?title=Talk%3AAsha%27man_%28Rank%29&diff=14223&oldid=14219 my formatting change] to your proposed fix; <nowiki><pre></nowiki> tags are very convenient for such things : ) --[[User:Gherald|Gherald]] 02:32, 29 January 2008 (UTC)
+
+==Request for comment==
+{{request|Forum:Achievements|Mainphramephreak}}

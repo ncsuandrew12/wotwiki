@@ -1,0 +1,79 @@
+{{featuredicon}}{{character
+| image=Shaidar-haran-by-ariel-burgess.jpg
+| imagesize=250px
+| gender=Male
+| affiliation=The Shadow
+| status=Dead
+| height=Tall
+| appeared={{teotw|17}}
+| lastappeared={{amol|25}}
+}}
+{{quote| Obey Shaidar Haran and you obey me. Disobey and...| The [[Dark One]]}}
+
+'''Shaidar Haran''' ([[Old Tongue]]: ''Hand of the Dark'') was what appeared to be an unusually large [[Myrddraal]]. As its name suggested, its function was to serve as the hand and mouthpiece of the Dark One in the world, though in reality it served a far greater purpose.
+
+== Appearance ==
+It was much taller than a normal Myrddraal and seemed to have a sense of humor, something normal Fades lack.{{ref/book|7|25}} 
+==Abilities==
+It appeared to have the ability to deny [[channeler]]s their ability to touch the [[True Source]]. It could see the residue of a [[Gateway]] as patches of glowing mist. (It is unknown whether this may be the ability of all Myrddraal, or only Shaidar Haran's exclusively.) It could not see flows of the Power but it is able to distinguish the residue of [[Saidin]] from [[Saidar]] by the smell. No other Myrddraal could smell that difference.{{ref/book|7|40}}
+== Activities ==
+[[File:Shaidar Haran.jpg|thumb|left|Shaidar Haran by [[Jeremy Saliba]]]]
+
+=== More than a Myrddraal ===
+A creature very much like Shaider Haran was first introduced in the prologue of The Dragon Reborn where it confronted [[Bors]] and ordered him to kill [[Rand al'Thor]]. It promises that failure will result in a family member of Carridin's being murdered every month until Rand has been killed or until Carridin is the last living family member. At this point, if he has still not succeeded, Carridin would be the next and last one to die.{{ref/book|3|p}} It was later stated by Robert Jordan that this was not Shaidar Haran, but "Shaidar Haran 0.5."
+[[Image:MyrddraalSeamas.jpg|right|thumb|150px|Portrait of Shaidar Haran by Seamas Gallagher]]
+The final incarnation of Shaidar Haran was later met by [[Demandred]] outside [[Shayol Ghul]]. Demandred was immediately struck by the lack of respect and deference the Myrddraal seemed to give him. He also took note of the fact that the roof of stone spikes leading down to the Pit of Doom cleared Shaidar Haran's head by at least a hand, but brushed Demandred's own, signifying how important the creature was. When they reached the [[Pit of Doom]] Demandred told the [[Halfman]] to leave, but Shaidar Haran ignored Demandred and watched carefully while he communicated with the [[Dark One]]. It was also present when both [[Osan'gar]] and [[Aran'gar]] were resurrected. After choking Aran'gar for attempting to assault it, it revealed to the pair that only it and the Dark One knows they are alive and sends them back into the world. It also revealed on this occasion its ability to temporarily sever channelers from the True Source.
+
+When [[Moghedien]] arrived at Shayol Ghul after being held in captivity in [[Salidar]], it accompanied her to the Pit of Doom. It then created a ''[[cour'souvra]]'' to control Moghedien and gave it to [[Moridin]] after torturing her for a short period.
+
+When Moghedien and Cyndane failed to convince Graendal that Moridin is Nae'blis, Shaidar Haran arrived in [[Arad Doman]] to confirm the order, having guessed that she would not believe her two compatriots. Shaidar Haran was pleased with Graendal's deference towards him and delivered her orders from Moridin.
+
+Later, when Mesaana was about to punish [[Alviarin Freidhen]] in the [[White Tower]], Shaidar Haran interceded (presumably incidentally as it was present in the tower for another reason) and forced Mesaana to spare her. When Mesaana challenged its decision, it burned off her clothing and bound her with black fire in preparation for punishing her for failing to participate in the Battle near Shadar Logoth. It then marked Alviarin in such a way as to prevent Mesaana from harming her, and charged her with uncovering the Aes Sedai who are hunting the [[Black Ajah]] before proceeding with Mesaana's punishment.
+
+=== Freeing Semirhage ===
+[[File:Shaidar Haran.JPG|thumb|left|Shaidar Haran]]
+After [[Semirhage]] was captured by Aes Sedai serving [[Rand al'Thor]], Shaidar Haran appeared to her in her cell. It informed her that the Dark One was greatly displeased at her recent actions; injuring Rand, blowing her cover and getting herself captured. It dissipated the shield on her, incapacitated her three Aes Sedai guards, and gave her a [[Domination Band]]. It then told her that she had but one more chance to capture Rand, and implied that her failure would not be tolerated again. Some time later, it paid a visit to Graendal. It blamed the defeat of Mesaana on her due to the dreamspike being her responsibility, and killed her for her failure. 
+
+=== Tarmon Gai'don and Disposal ===
+When Rand al'Thor reached the [[Pit of Doom]] during the time of [[Tarmon Gai'don]], a husk that seemed to have been the body formerly known as Shaidar Haran was found, collapsed in on itself. Discussing it with Moridin, he found out that it had been a vessel, but was no longer necessary. Behind Moridin and the husk, there was a patch of total nothingness that was stated by Moridin to have been "birthed" within Shaidar Haran. What became of this husk after Tarmon Gai'don is unknown.
+
+==Nature==
+[[File:Shaidar Haran.jpeg|thumb|right|Shaidar Haran.]]
+Shaidar Haran's standing with the [[Dark One]] was noted by the [[Forsaken]] on many instances: [[Demandred]] noticed that the spikes on the ceiling of the tunnel to the [[Pit of Doom]] cleared Shaidar Haran's head by a hand or two, and [[Semirhage]] was told that obeying Haran was to obey the Great Lord, but disobeying it was tantamount to disobeying the [[Great Lord]]. The fear that Myrddraal stimulated in ordinary people with a glance appears to be present in Shaidar Haran, but in an augmented form; its gaze struck the same fear in the Forsaken that normal Myrddraal struck in ordinary people. In addition to this, it also appeared to wield some unusual form of black energy, which may or may not have been connected to the True Power. It used it on occasion to create orbs of colored light, and to create black fire. It at one point used this fire to destroy a length of spear out of frustration and to bind Mesaana in preparation for her aforementioned punishment. During its encounter with Mesaana, it also demonstrated the ability to change its size, as it grew significantly before punishing her. It had also been implied that it had the ability to incapacitate people (or at least Aes Sedai) at will by an unknown mechanism and could nullify wards of the One Power. Its most unusual power however, was its ability to sever a channeler from the True Source at will. The sensation felt by the channeler was described as being so total that it is essentially the same as a true severing (stilled/gentled). Unlike a severing however, this effect was temporary and ended upon Shaidar Haran willing it so. There was no mechanistic explanation for this ability. It had been implied on at least two occasions that Shaidar Haran may not actually be a Myrddraal by other characters. Once when Alviarin witnessed his punishment of Mesaana and thought that he was "the Great Lord, clothed in the skin of a Myrddraal", and again when he rescued Semirhage "she did not think this thing was truly a Myrddraal". Alviarin's interpretation was, however, tempered by a great deal of terror and ignorance. On this same occasion however, it referred to the Black Ajah as "its creatures."
+
+Ultimately, Shaidar Haran appeared to have been acting as something of an incubator to bring an infinitesimal portion of the Dark One's own essence into the Pattern. During Rand's assault on Shayol Ghul, it was implied by Moridin that Shaidar Haran had served as a vessel for a patch of what appeared to be absolute nothingness that was seen hovering behind a Myrddraal's corpse. Touching this nothingness evidently allowed one's consciousness to interact directly with the Dark One, drawing the individual into a realm outside the Pattern where it could be directly viewed in a metaphysical sense.
+
+Shaidar Haran was much like an [[wikipedia:avatar|avatar]] of the [[Dark One]] himself. He was limited in where he could go and began to feel weak when away from [[Shayol Ghul]] too long. His counterpart was [[Nakomi]], who was a vessel of the [[Creator]] in the world. Nakomi was not the Creator, but she was close to the Creator, and was inhabited by something ''of'' the Creator.{{ref|[[Origins of the Wheel of Time]], Nakomi}}
+
+==Parallels==
+Much like other characters associated with the [[Shadow]] that have [[Old Tongue]] names, Shaidar Haran's names derives from the word ''shadow'' and various words associated with evil in ''The Lord of the Rings''.{{ref|[[Origins of the Wheel of Time]], Shaidar Haran}}
+
+==Trivia==
+* Shaidar Haran is known to many fans of the series as the "Super Fade".
+*  There is also evidence that could show that Shaidar Haran is merely a powerful Myrddraal, as he states that there must be a way to break the bond to Shayol Ghul. This could also be taken as Shaidar Haran wanting to break the bond as to allow himself a longer period away from Shayol Ghul.
+*  It is also interesting to note that despite his incredible powers and his ability to incapacitate channelers, he never attacked Rand or any of his major allies himself;  this is likely because the ability is tied to Oaths to the Dark, and thus would be useless on the heroes.
+
+{{notes}}
+[[es:Shaidar Haran]]
+[[Category:The Shadow]]
+[[Category:Other non-humans]]
+[[Category:POV character]]
+[[Category:Antagonists]]<references />
+[[es:Shaidar Haran]]
+[[Category:The Shadow]]
+[[Category:Extradimensional entities]]
+[[Category:Parallels]]
+[[Category:POV character]]
+[[Category:Antagonists]]
+<references />
+[[es:Shaidar Haran]]
+[[Category:The Shadow]]
+[[Category:Other non-humans]]
+[[Category:POV character]]
+[[Category:Antagonists]]
+<references />
+[[es:Shaidar Haran]]
+[[Category:The Shadow]]
+[[Category:Other non-humans]]
+[[Category:POV character]]
+[[Category:Antagonists]]

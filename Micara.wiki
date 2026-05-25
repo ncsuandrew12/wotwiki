@@ -1,0 +1,28 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Female
+| occupation=Wise One
+| affiliation=Sevanna
+| hair=Red
+| status=Alive
+| clan=Shaido
+| sept=Unknown sept
+| appeared={{Acos|40}}
+| lastappeared={{acos|40}}
+| living=acos
+}}
+'''Micara''' is a [[Wise One]] of the [[Shaido]] [[Aiel]]
+
+==Appearance==
+She is pretty with red hair and a delicate mouth.
+
+==Strength and Abilities==
+Micara can [[channel]] with a bit of strength. In TWoTC her strength level is described as {{opsl|33}}, which is a middle ranking level among [[Aes Sedai]].
+
+This strength is not enough to open alone a gateway for [[Travel]]ing.
+
+==Activities==
+She is relatively weak in the [[One Power]]. She holds [[Galina Casban]] shielded after the [[Battle of Dumai's Wells]] as a reminder of how weak Galina has become.
+[[Category:Channelers]]

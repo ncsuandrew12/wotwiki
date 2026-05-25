@@ -1,0 +1,18 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Female
+| status=Alive
+| mentioned={{teotw|7}}
+| lastmentioned={{teotw|7}}
+| living=teotw
+}}
+'''Mistress Calder''' is a [[Two Rivers]] resident of [[Emond's Field]].
+
+== Activities ==
+Her house is used after the [[Trolloc]] raid in Emond's Field for those hurt and being tended by [[Nynaeve al'Meara]] and [[Egwene al'Vere]].
+
+{{DEFAULTSORT:Calder, Mistress}}
+[[Category:Short pages]]

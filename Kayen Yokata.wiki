@@ -1,0 +1,32 @@
+{{character | image=ShienarFlag.png
+| imagesize=250px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Shienar
+| rank=Lord
+| title=Lord of Fal Eisen
+| gender=Male
+| appeared={{Wh|27}}
+| lastappeared={{wh|27}}
+| lastmentioned = {{amol|18}}}}
+{{quote|I am Kayen Yokata, Lord of Fal Eisen, and may Peace abandon me and the Blight consume my soul if harm befalls you or anyone with you in our camp.| Yokata to Elayne when they arrive{{ref/book|9|27}}}}
+
+'''Kayen Yokata''' is the Lord of [[Fal Eisen]], [[Shienar]].
+
+==Appearance==
+He has a sharp face and a harsh voice.{{ref|{{twotc}}, Kayen Yokata}}
+
+==Activities==
+He is among the [[Borderlands]] army that rides to [[Braem Wood]] in [[Andor]]. He directed [[Elayne Trakand]], [[Aviendha]] and [[Birgitte Silverbow|Birgitte]] to the place in camp when she is riding to meet with the Borderland Rulers.{{Ref/book|9|27}}
+
+During the [[Last Battle]] Badhere talks to [[Lan]] about how Yokata had lead his two cavalry squadrons, which were blindsided by [[Trolloc]]s. The squad was killed to the last man except the [[Asha'man]]. {{Ref/book|14|18}}
+
+{{Notes}}
+
+== In the television series ==
+In the television series, {{TVlink|Lord Yakota}} is played by {{TVlink|Amar Chadha-Patel}}, whose name is very similar to Kayen Yokata. This character was renamed to be an original character, as Chadha-Patel was originally cast as [[Ingtar Shinowa]], but could not return for the second season.
+
+{{DEFAULTSORT:Yokata, Kayen}}
+[[Category:Lords]]
+[[Category:Nobility]]
+[[Category:Soldiers]]

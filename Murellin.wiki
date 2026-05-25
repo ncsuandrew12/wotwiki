@@ -1,0 +1,23 @@
+{{ character 
+| image=Fang-icon.svg
+| imagesize=125px
+| affiliation=Darkfriend
+| gender=Male
+| status=Alive
+| build=Hulking
+| appeared={{tpod|28}}
+| lastappeared={{cot|15}}
+| lastmentioned={{kod|31}}
+| living=kod
+}}
+'''Murellin''' is a [[Darkfriend]] who works for [[Mili Skane]]. 
+
+== Appearance ==
+He is a hulking fellow, described as having the size and wits of an ox.{{ref/book|10|15}}
+
+== Activities ==
+He drowns [[Jaichim Carridin]] in brandy and has been given [[Falion Bhoda]] to be used as he wishes for her punishment. Falion was able to get something from [[Daved Hanlon]] that would make Murellin sleep through the night.
+
+He is tied up by [[Jaem]], when [[Elayne Trakand]] and her group come to arrest Mili and the rest of the [[Black Ajah]] [[Aes Sedai]] that are with her.
+
+{{notes}}

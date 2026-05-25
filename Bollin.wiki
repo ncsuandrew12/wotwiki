@@ -1,0 +1,24 @@
+{{character 
+| image=Sredit-icon.svg
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Stablemen{{!}}Horse handler
+| affiliation=Valan Luca
+| gender=Male
+| build=Big
+| eyes=Squinty
+| appeared={{kod|7}}
+| lastappeared={{kod|7}}
+| living=kod
+}}
+'''Bollin''' is a horse handler in [[Valan Luca]]'s [[Valan Luca's Traveling Show|Traveling Show]].
+
+==Appearance==
+Bollin is a big man with squinty eyes.
+
+==Activities==
+Bollin is on guard at the entrance to the show when [[Murel]] and other [[Seanchan]] soldiers refuse to pay to enter.{{ref/book|11|7}}
+
+{{notes}}
+{{Short}}

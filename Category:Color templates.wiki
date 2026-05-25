@@ -1,0 +1,2 @@
+Templates used to return color values.
+[[Category:Templates| Color templates]]

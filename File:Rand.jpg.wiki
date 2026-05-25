@@ -1,0 +1,8 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| ImageType2              = Item
+| Description             = Cropped image from ''[[A Memory of Light]]'' cover, showing [[Rand al'Thor]] holding ''[[Callandor]]'' at [[Shayol Ghul]].
+| Source                  = http://www.tor.com/blogs/2012/05/michael-whelans-cover-for-a-memory-of-light-revealed
+| Artist                  = Michael Whelan
+}}

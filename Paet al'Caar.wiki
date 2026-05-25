@@ -1,0 +1,25 @@
+{{ character 
+| image=Paet al'Caar.jpg
+| imagesize=250px
+| ewot=paet alcaar
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| status=Alive
+| appeared={{teotw|r}}
+| lastappeared={{tsr|56}}
+| living=tsr
+}}
+{{dablink|For [[Perrin Aybara|Perrin's]] brother, see [[Paetram Aybara]]. For others with the same surname, see [[al'Caar]].}}
+'''Paet al'Caar''' is a [[Two Rivers]] resident.{{ref|{{twotc}}, Paet al'Caar}} His son is [[Wil al'Caar]].
+
+== Appearance ==
+He has a lantern jaw.
+
+== Activities ==
+After the [[Trolloc]]s first attack [[Emond's Field]], he is part of the crowd that confronts [[Moiraine Damodred]] demanding she leave at once, even though she [[Heal]]ed his son's leg after the attack. He is the first to apologize to her.
+
+He helps defend [[Emond's Field]] against the invading Trolloc army.{{ref/book|4|56}}
+
+{{notes}}
+{{DEFAULTSORT:Al'Caar, Paet}}<!--Please leave the "a" capitalized for sorting purposes.-->

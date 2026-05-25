@@ -1,0 +1,55 @@
+{{featuredicon}}{{character 
+| image=Snake-icon.svg
+| imagesize=150px
+| ewot=cyndane
+| name=Cyndane
+| status=Alive
+| nationality=Unknown nationality
+| rank=Chosen
+| gender=Female
+| height=Short
+| hair=Silver
+| eyes=Blue
+| appeared={{tpod|12}}
+| lastappeared={{amol|49}}
+| living=amol
+}}[[Lanfear]], after being reincarnated by the Dark One, became '''Cyndane''', which in the [[Old Tongue]] means "last chance."
+
+== Appearance ==
+Whereas Lanfear was tall and beautiful with dark eyes and pitch black hair, Cyndane is short, if still pretty, with silver hair, blue eyes, and an impressive bosom. She is forced to wear the black and red colors of Moridin. During [[Tarmon Gai'don]], Cyndane begins to change her appearance in ''Tel'aran'rhiod'' to how she originally looked as Lanfear.
+
+==Strength and Abilities==
+It is revealed that Cyndane is weaker in the One Power than Lanfear had been, leading some of the Forsaken to believe that she is not Lanfear reborn.{{ref/book|9|13}} Her loss of strength is not a result of being reincarnated in a new body. Rather, it resulted from her captivity beyond the [[Twisted redstone doorframe]], where the creatures there "feasted upon her ability to channel".{{ref|{{twotc|Cyndane}}}}{{ref/book|14|6}} There is no canonical indication that this was part of any price exacted by the [[Finn]].
+
+== Activities ==
+=== Reincarnation and Subserviance ===
+After Lanfear's apparent death following her fall through the ter’angreal in Cairhien, she was held captive by the Eelfinn until rescued by Moridin.{{ref/book|5|54}}{{ref/book|14|6}} Although "rescued", Moridin's method of doing so appears to have been killing her so that the Dark One could seize her soul and place her in a new body under the name "Cyndane", meaning "Last Chance". This reincarnation and the name were a reminder that it really was her last chance, a chance she "might not have received had there been stronger members of the [[Black Ajah]]".{{ref/book|14|6}}{{ref|{{twotc|Lanfear}}}} 
+
+In her new body, she was taken to [[Shayol Ghul]] and bound to a [[Mindtrap]], the only place that this binding can be done.{{ref/book|7|25}} Her mindtrap is given to Moridin. [[Moghedien]] notices this mindtrap when she herself is being punished through the same means, so Lanfear's reincarnation had already occured by then.{{ref/book|7|25}} She also appears to be aware of [[Shaidar Haran]]'s true identity, or at least his status far above her, pressing her face to the ground in his presence.{{ref/book|8|12}}
+
+Cyndane and Moghedien are dressed in Moridin's livery of "nearly identical red-and-black silk dresses" and generally kept on a tight leash from this point onwards.{{ref/book|8|12}}{{ref/book|10|Prologue}} When we first meet Cyndane, she holds better favour with Moridin than Moghedien, but not by much.{{ref/book|8|12}} [[Demandred]] thinks of Cyndane as Moridin's "pet" and Moridin claims that she tells him "everything she knows".{{ref/book|9|13}}
+
+===Later activities===
+While meeting with a [[Darkfriend]] who doubts her status as Chosen, Cyndane feels the beacon of ''saidar'' from the [[Cleansing of saidin]] and Moridin's caress on her mindtrap. She kills the man by decapitation using the One Power and Travels to a location close to [[Shadar Logoth]]. During the subsequent battle, she sought to reach and kill Rand al’Thor, but was opposed and fended off by Alivia.{{ref/book|9|35}}
+
+Cyndane attends the meeting with the other Chosen in ''[[Tel'aran'rhiod]]'', which is made to look like the [[Ansaline Gardens]]. There she is told that Rand is not to be harmed and that Mat and Perrin are to be killed if found.{{ref/book|11|3}}
+
+Later, after Rand's epiphany and the reintegration of Lews Therin's memories into his own, he found Cyndane in a dream in considerable distress. She begged him for help and apologized for everything she put him through before being dragged out of the dream by her torturer (most likely Moridin, though, as was seen later, it may have simply been an act to gain sympathy from Rand).
+
+While recuperating in [[Town]], Slayer is approached by Cyndane in disguise. She tasks him with killing Rand as directly and efficiently as possible, and loans him the use of two ''[[Samma N'Sei]]'' and several guards to assist him, if necessary.{{Ref/book|14|p}}
+
+The night before the commencement of the Last Battle, Rand found Cyndane in ''[[Tel'aran'rhiod]]'', apparently being tortured by Moridin. She attempted to manipulate Rand into helping her but Rand, having integrated Lews Therin's memories into his own, recognized that she was faking her torment in order to engender his sympathy. Found out, she ceased her charade and the two conversed for a short time. During this conversation, Rand offered her one last chance for redemption, and prompted her to let him see inside her mind in order to examine her sincerity in accepting his offer. Though appearing to genuinely consider allowing Rand to see into her mind, she ultimately refused, citing her recent torments as having caused her to mistrust Rand's intentions. Rand however, understood that Cyndane could simply not let go of her desire for power, and showed her his own mind in order to make her understand that the only feeling he still had for her was pity; not affection for their past relationship, and not anger or bitterness over her betrayals. As he departed, Rand simply told her to make herself scarce during the Last Battle.
+
+She wandered in the World of Dreams during the [[Last Battle]] helping Perrin. She showed him how to handle the [[dreamspike]] and free the [[Black Tower]]. Cyndane watches Perrin defeat [[Hessalam]] and chides him for not killing her. She decides that he will make an adequate replacement for Lews Therin. Perrin asks if she will transport him out of Tel'aran'rhiod but she declines believing he has to work this out for himself. Cyndane reappears beside Perrin, after he has willed some ''[[Samma N'Sei]]'' to become idiots. She informs Perrin that they have been Turned. She Heals both Perrin and Gaul grudgingly from wounds they had sustained during battle and then disappears again.
+
+Thought to have abandoned the [[The Shadow|Shadow]] as the Last Battle rages, she encountered Perrin a few times in ''[[Tel'aran'rhiod]]'' as he hunted for Slayer. She put on a show of helping him to try to gain his trust, but, due to time constraints, she ultimately is forced to place a [[Compulsion]] on Perrin after his defeat of Slayer. Hoping to come to the Dark One's rescue and earn his supreme favor (and all the power it supposedly entailed), she ordered him to kill [[Moiraine]] while she killed [[Nynaeve]]. However, Perrin's love for [[Faile]] allowed him to break free of the Compulsion and he ambushed Cyndane, breaking her neck from behind and seemingly killing her.
+
+Despite the Light believing that she died, Cyndane in fact survived the encounter with Perrin. Having lost the favor of the Dark One and having low standing among the surviving Forsaken, she came to believe that the best personal outcome was for the Light to win the Last Battle, but believing that Cyndane had died fighting for the Shadow. She therefore deliberately faked her own death.<ref>[https://youtu.be/aTwpNP67A4M?t=1269 A Memory of Light 10th Anniversary Livestream], [[Brandon Sanderson]] on The Dusty Wheel.</ref>
+
+{{notes}}
+[[Category:Antagonists]]
+[[Category:Reincarnated]]
+[[Category:POV character]]<references />
+[[Category:Antagonists]]
+[[Category:Reincarnated]]
+[[Category:POV character]]

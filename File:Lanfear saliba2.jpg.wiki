@@ -1,0 +1,8 @@
+{{Image
+|ImageType1   = Fan Art
+| ImageType2 = Character
+|License     = GFDL
+|Source      = http://jeremysaliba.blogspot.com/
+|Description = [[Lanfear]] fan art done by Jeremy Saliba.
+|Arist       = Jeremy Salbia
+}}

@@ -1,0 +1,106 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Saldaean
+| rank=Aes Sedai
+| affiliation=The Shadow
+| gender=Female
+| height=Short
+| weight=Slightly plump
+| hair=Dark, long, glossy
+| eyes=Dark
+| status=Unknown
+| mentioned={{acos|p}}
+| appeared={{tpod|26}}
+| lastappeared={{amol|14}}
+| lastmentioned={{amol|37}}
+| living=amol
+|birth = 811NE}}'''Toveine Gazal''' was an [[Aes Sedai]] and a former [[Sitter]] of the [[Red Ajah]].{{ref|{{twotc}}, Toveine Gazal}}
+
+==Appearance and Personality==
+She is described as short and slightly plump with smooth copper skin, dark eyes, and long glossy dark hair. She was attractive, with a nice mouth and eyes, but not beautiful. She is from Saldaea.{{ref/book|8|26}}
+
+Toveine has a sharp gaze that could bore into anything; she could cut one's heart out in front of you, but is not particularly cruel except when it comes to men who could channel, because she hates them deeply. It is not only because she is a Red sister but because she considered all of them responsible for her hard punishment.
+
+She does not like men at all, preferring pretty young men in their mid to late teens, young enough to be eager and grateful and easy to control. This gets her into trouble during her exile. The notion of any sort of sexual relationship with an adult male made her skin crawl.
+
+==Abilities==
+Toveine is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of {{opsl|25}}. 
+
+She matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability with the Talent, she should be able to Travel. The weave would likely have been taught to her by Black Ajah sisters prior to the Last Battle.
+
+==History==
+Toveine is 189 years old. She was born in the year {{ne|811}} in Saldaea and she went to the Tower in [[829 NE]]. After spending eleven years as [[novice]] and ten as [[Accepted]] she was raised to the shawl in the year {{ne|850}}.
+
+She was elected as a Sitter in {{ne|952}} but was forced to resign in the {{Ne|985}} following the discoveries of the so called [[The Vileness|Vileness]].
+
+===Exile===
+Toveine was a [[Sitter]] until she was unchaired, punished and exiled by the Amyrlin [[Marith Jaen]] for the Red Ajah role in [[gentling]] male channelers outside of the [[White Tower]] laws. Alongside her,  two other Red Sitters, [[Tsutama Rath]] and [[Lirene Doirellin]], suffered the same fate{{ref/book|7|p}}{{ref/book|8|26}}.
+
+Although the true circumstances were kept secret for the good of the Tower, the former Red Sitters suffered a heavy penance: they were privately birched and then sent for many years to hard work in a distant farm, a supposedly voluntary retreat.
+
+In particular Toveine's exile was in the farm of Mistress [[Doweel]], who believed Toveine was there to work a serious penance and held her to the same rules she would apply to any other servant. Toveine still thinks of Mistrees Doweel with a bit of fear, remembering every time she was strapped or switched for infractions; the woman made a great impression on her and even when Toveine later arranged for Mistress Doweel to have the same experience, it did not remove the impression the woman made on her.
+
+==Activities==
+=== Bonded to Logain ===
+She was called out of exile to lead a group of fifty or so Aes Sedai to destroy the [[Black Tower]] and to gentle and hang every man they found{{ref/book|7|p}}. Notably, this was outside of [[White Tower#Laws and customs|Tower law]], and extremely similar to what she was exiled for after the [[Aiel War]].
+
+Elaida abandons the Aes Sedai sent to capture the Black Tower, including Toveine, at [[Alviarin]]'s suggestion {{ref/book|7|32}}.
+
+Upon locating the Black Tower they were captured by [[Asha'man]] and Toveine was subsequently [[Bonding|bonded]] by [[Logain Ablar]], much like Aes Sedai create bonds with their [[Warder]]s{{ref/book|8|26}}.
+
+Her time at the Black Tower was not easy. She was roughed up by the other Aes Sedai who accompanied her, who blamed her for their capture. [[Carniele]] healed Toveine on [[Logain]]'s request after she was beaten by the other sisters{{ref/book|9|p}}.
+
+Logain's other bonded Aes Sedai, [[Gabrelle]], told her that the captured sisters must unite and that they two would submit to the the strongest Aes Sedai there ([[Desandre]] and [[Lemai]]){{ref/book|9|p}}.
+
+While in the Black Tower, she managed to send a message out that was received by the [[Highest]] [[Tsutama Rath]]{{ref/book|11|p}}.
+
+It was during a ride with Logain that she and Gabrelle heard [[Atal Mishraile]] tell Logain that [[Mazrim Taim]] was letting him leave to go look for recruits. Toveine, along with Gabrelle, went with him{{ref/book|10|p}}.
+
+=== Searching for Rand ===
+Toveine ended up not looking for other recruits with Logain but locating [[Rand al'Thor]] instead, which was Logain's plan from the start{{ref/book|10|24}}.
+
+She participated in the battle with the [[Trolloc]]s when they attacked [[Algarin Pendaloan]]'s manor{{ref/book|11|19}} and was used to burn away all the dead bodies afterwards{{ref/book|11|20}}.
+
+She watched Rand's meeting with the [[Daughter of the Nine Moons]] from a distance and [[Traveling|Traveled]] in as backup when it was revealed that the Daughter of the Nine Moons was actually [[Semirhage]]{{ref/book|11|27}}.
+
+=== Captured and Turned ===
+She was captured along with Logain and [[Turning|Turned]] to the Shadow by [[Mazrim Taim]], [[Black Ajah]], and thirteen [[Myddraal]]. Pevara noticed that when a woman is turned by male channelers, it is faster. Once Turned, Toveine tries to persuade Logain to stop resisting{{ref/book|14|10}}. After the confrontation in the Black Tower between Taim's forces and Logain's forces, her whereabouts became unknown. Logain releases her bond before the Last Battle and gives orders to kill her, like the other turned [[Dreadlords]], if spotted{{ref/book|14|37}}.
+Her fate remains unknown.
+
+{{notes}}
+{{DEFAULTSORT:Gazal, Toveine}}
+
+[[es:Toveine Gazal]]
+[[Category:Sitters]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:The Turned]]
+[[Category:Aes Sedai]]<references />
+{{DEFAULTSORT:Gazal, Toveine}}
+
+[[es:Toveine Gazal]]
+[[Category:Sitters]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:The Turned]]
+[[Category:Aes Sedai]]
+<references />
+{{DEFAULTSORT:Gazal, Toveine}}
+
+[[es:Toveine Gazal]]
+[[Category:Sitters]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Rand's Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Channelers]]
+[[Category:The Turned]]
+[[Category:Aes Sedai]]

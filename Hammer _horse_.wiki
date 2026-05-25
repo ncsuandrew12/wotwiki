@@ -1,0 +1,25 @@
+{{creature
+| image=horse-icon.svg
+| imagesize=100px
+| ewot=Hammer
+| name=Hammer
+| type=horses
+| animal=Horse
+| status=Alive
+| owner=Tervail Dura
+| gender=Gelding
+| color=Bay
+| height=Tall
+| appeared={{kod|2}}
+}}
+{{dablink|For other uses of the word "hammer," see [[Hammer]].}}
+'''Hammer''' is a warhorse.
+
+==Appearance==
+Hammer is a tall, bay gelding. He is powerful, sleek and fast.
+
+==Activities==
+Hammer carries [[Tervail Dura]] to [[Tar Valon]] and the [[White Tower]] through a [[gateway]] from the [[Rebel Aes Sedai]] camp. Both Tervail and [[Beonin Marinye]], riding [[Winterfinch]], were sneaking back to the Tower after [[Egwene al'Vere]] had been captured.{{ref/book|11|2}}
+
+{{notes}}
+{{short}}

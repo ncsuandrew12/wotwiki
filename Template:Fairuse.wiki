@@ -1,0 +1,5 @@
+<table id="fairuse" class="messagebox noprint" cellpadding="3" cellspacing="0" border="0" style="border:2px solid #BB7C77; background:#242424; text-align:left;"><tr style="vertical-align:middle;"><td style="padding:.5em .5em .5em .5em;">[[File:Red copyright.svg|50px]]</td><td style="overflow:hidden; width:100%;">''This work is [[Wikipedia:Copyright|copyrighted]]. The individual who uploaded this work and first used it in an article, and subsequent persons who place it into articles assert that this qualifies as '''[[Wikipedia:Fair use|fair use]]''' of the material under United States copyright law.''</td></tr></table>
+<noinclude>
+[[Category:Licensing|Fairuse]]
+[[Category:Image templates|Fairuse]]
+</noinclude>

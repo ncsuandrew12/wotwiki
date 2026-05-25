@@ -1,0 +1,29 @@
+{{character 
+| image=TarValonFlag.png
+| imagesize=250px
+| ewot=Jisao
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Soldier
+| affiliation=Younglings
+| gender=Male
+| eyes=Dark
+| appeared={{Loc|p}}
+| lastappeared={{tgs|4}}
+| living=tgs
+}}
+'''Jisao Hamora''' is one of [[Gawyn Trakand]]'s [[Younglings]]. 
+
+
+== Appearance ==
+He has dark eyes and is still young enough not to have to shave regularly. He has earned the silver tower on his collar from the coup of the White Tower.
+
+== Activities ==
+He is with Gawyn when they are sent to act as escort for a group of [[Aes Sedai]] that make an alliance with the [[Shaido]].{{ref/book|6|p}} He acts as Gawyn's second in command and is in the [[Battle of Dumai's Wells]].{{ref/book|6|55}}
+
+After Dumai's Wells the Younglings make their way to [[Dorlan]]. He helps Gawyn raid the [[Rebel Aes Sedai]] army camped outside of [[Tar Valon]].{{ref/book|12|4}}
+
+{{notes}}
+{{DEFAULTSORT:Hamora, Jisao}}
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]

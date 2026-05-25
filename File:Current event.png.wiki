@@ -1,0 +1,7 @@
+
+{{Image
+| License                 = Creative Commons
+| ImageType1              = Admin
+| Description             = Time piece
+| Source                  = http://commons.wikimedia.org/wiki/File:Noia_64_apps_kworldclock.png
+}}

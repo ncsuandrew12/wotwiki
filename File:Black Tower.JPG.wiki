@@ -1,0 +1,7 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Miscellaneous
+| Description        = The [[Black Tower]].
+| Source             = ''[[The Prophecies of the Dragon]]''
+| Artist             = Sam Wood
+}}

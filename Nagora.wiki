@@ -1,0 +1,32 @@
+{{ character
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Cairhienin
+| rank=Aes Sedai
+| gender=Female
+| affiliation= White Tower
+| status=Alive
+| hair=Pale, in a roll
+| build=Lean
+| height=Short
+| appeared={{kod|24}}
+| lastappeared={{tgs|12}}
+| living=tgs
+}}
+'''Nagora''' is a Cairhienin [[Aes Sedai]] of the [[White Ajah]] and a loyalist contingent. {{Ref|{{twotc}}, Nagora}}
+
+== Appearance ==
+She is lean with pale hair worn in a roll on the nape of her neck. She is short of stature and sits very straight as if to make up for her lack of height.
+
+== History ==
+She is one of the few Whites with a [[Warder]].
+
+== Activities ==
+She is one of the sisters to hold the shield over [[Leane Sharif]], when [[Egwene al'Vere]] comes to visit her. She also taught Egwene logic; the lesson turned to how to deal with an aging Warder.
+
+She requests a meeting with Egwene and asks what she should do about her Warder who is growing frustrated with his increasing age and inability to fight. 
+
+{{Notes}}
+{{short}}
+[[Category:Elaida a'Roihan's White Tower]]

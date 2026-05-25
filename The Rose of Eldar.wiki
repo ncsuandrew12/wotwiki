@@ -1,0 +1,9 @@
+'''The Rose of Eldar''' is a [[tavern]] in [[Ebou Dar]], located near the [[River Eldar]]. It is a cheap tavern where they keep the dented tin cups chained to benches outside. 
+
+[[Mat Cauthon]] uses The Rose of Eldar as a place to sit and watch a house owned by the [[Kin]]. He sits at the tavern with [[Nalesean Aldiaya]], [[Juilin Sandar]], and [[Thomdril Merrilin]].{{ref/book|7|28}}
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Rose of Eldar, The}}
+[[Category:Altara]]
+[[Category:Taverns]]

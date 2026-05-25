@@ -1,0 +1,6 @@
+{{Image
+| License                 = Fairuse 
+| ImageType1              = CCG
+| Description             = Wheel of Time mat used in [[The Wheel of Time Collectible Card Game|Collectible Card Game]]
+| Source                  = http://en.wikipedia.org/wiki/File:WoT_Playing_Mat.JPG
+}}

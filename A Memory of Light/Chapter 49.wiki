@@ -1,0 +1,50 @@
+{{summary | book=14 
+|chapter=49
+|title=Light and Shadow
+|icon=wheel
+|next=A Memory of Light/Epilogue
+|setting=[[Tel'aran'rhiod]], [[Pit of Doom]]
+}}
+
+== Summary ==
+
+:{{pov|[[Perrin Aybara]]}}
+Perrin stumbles through the wolf dream, where everything is dead. He sees Shayol Ghul ahead and Dragonmount behind it, though the two should be too distant for that. 
+
+He moves himself to the entrance to the [[Pit of Doom]] and goes in, where he sees [[Cyndane]]. They see [[Moridin]] holding ''[[Callandor]]'' next to [[Rand al'Thor|Rand]], [[El'Nynaeve ti al'Meara Mandragoran|Nynaeve]] and [[Moiraine Damodred|Moiraine]]. Cyndane uses compulsion on Perrin and tells him to kill Moiraine, while she will kill Nynaeve. He feels it is wrong but cannot help his hands rising. 
+
+He tells himself it is the wolf dream, and here, his dreams become reality. He thinks on how he loves [[Zarine ni Bashere t'Aybara|Faile]] and the compulsion vanishes. He reaches out to Cyndane and breaks her neck. 
+
+:{{pov|[[Rand al'Thor]]}}
+Rand pulls the [[Dark One]] into the Pattern and begins to kill him. Then he realizes that the vision of the future in which the Dark One had been killed was true, and that he must allow the Dark One to exist. 
+
+He draws ''[[saidin]]'', ''[[saidar]]'', and the [[True Power]] and weaves them together, in their pure forms, not as the individual five powers, and reforges the prison. 
+
+This time, it will not re-open.
+
+:{{pov|[[Moiraine Damodred]]}}
+Moiriane pulls Nynaeve out of the Pit of Doom, unable to see because of the blinding light. She almost stumbles off the edge but Thom is there and catches both of them. 
+
+She sees the blackness in front of Rand shrink away until it vanishes.
+
+== Characters ==
+* [[Perrin Aybara]]
+* [[Cyndane]]
+* [[Moridin]]
+* [[Rand al'Thor]]
+* [[El'Nynaeve ti al'Meara Mandragoran]]
+* [[Moiraine Damodred]]
+
+=== Referenced ===
+* [[Zarine ni Bashere t'Aybara]]
+
+== Places ==
+* [[Tel'aran'rhiod]]
+* [[Pit of Doom]]
+
+=== Referenced ===
+* The [[Black Tower]]
+
+== Items ==
+* ''[[Callandor]]''
+{{DISPLAYTITLE:''Light and Shadow''}}

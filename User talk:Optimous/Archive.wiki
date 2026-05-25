@@ -1,0 +1,531 @@
+{{archive}}
+== CSS Stuff==
+
+Hello Optimus, you can write about yourself more at your main page [[User:Optimous]]; this one's more for discussions. What is it you want to change? By stylesheet "symbol", are you referring to the [[:File:Wiki.png]] logo that is protected? You want to change this site-wide with something related to your [[:File:Rand.png]] ? Or are you asking for a change that would affect articles on an individual basis, e.g. displaying that image somewhere at [[Rand al'Thor]] ? --[[User:Gherald|Gherald]] 19:06, 3 August 2009 (UTC)
+
+:Actual there is an O in there optimOus :P. But anyways I wanted to know if I could maybe design a new logo for the wiki. I've been using photoshop for about 4 years now and feel I can make something that would be maybe more updated? But if not thats ok. Yeah I was wondering if I could make an extra image. One being for the symbol like this [[:File:Dragon-icon.png]] and then above it maybe a picture from the comic book?--[[User:Optimous|Optimous]] 19:14, 3 August 2009 (UTC)
+
+:: So you want to insert the comic book image of Rand below or above the dragon image, inside [[Template:Character]]? That's doable, we would just have to add an extra field. It would look something like:
+
+
+But, maybe best to just use one image:
+
+
+Now as for creating a site-wide logo to replace [[:File:Wiki.png]], you're welcome to give it your best shot and upload alternative logos for consideration. I can't promise we'll like them enough to change, but it really depends. Let's see what you can do : ). Go ahead and make the background transparent, I don't think we care about IE6 support anymore (and that's the only browser that had broken transparent PNG support, IIRC) --[[User:Gherald|Gherald]] 19:58, 3 August 2009 (UTC)
+
+::: Exactly! I really like the first one(Maybe I could put a break between them?) the only thing is the images could be to big so is there a way to maybe like make all of them only go to a certain like widht on pixels until the person clicks on them? So it has to to be transparent? I thought the current one has a white background? Well it could be my browser(I'm using Opera) Ok I will where do I upload it? I'm still getting used to the site :)--[[User:Optimous|Optimous]] 20:09, 3 August 2009 (UTC)
+:::: Yes, there's a syntax for setting the height and width of images, and we could add it to the template.
+:::: For the logo, I think transparent is better than white. We were concerned about IE6 support back in 2005. But now, not so much.
+::::: Alright I will upload my version later today. Thanks for all the help.--[[User:Optimous|Optimous]] 20:19, 3 August 2009 (UTC)
+::::: Also for the character thing I was thinking something like this:
+
+What do you think? Also how to go about this?--[[User:Optimous|Optimous]] 20:56, 3 August 2009 (UTC)
+
+Wow that picture of Rand looks Fantastic. If u are gonna do more of this sort of stuff this website is gonna look awesome--[[User:GuanYu79|GuanYu79]] 21:13, 3 August 2009 (UTC)
+
+Haha. Thanks. Yeah I got alot of time on my hands and I love editing things with Photoshop. And I like WOT ALOT! So thought it would be a perfect idea :)--[[User:Optimous|Optimous]] 21:15, 3 August 2009 (UTC)
+
+: I think a single image may be better; we were using chapter icons for lack of anything else, but I'm not sure it makes sense to crowd the page with them now. I went ahead and swapped the image at [[Rand al'Thor]]--looks good : ) --[[User:Gherald|Gherald]] 21:19, 3 August 2009 (UTC)
+
+:: Nice! It does look great. I will continue to edit the pictures from the comic and upload them today. Also what if we moved the name of the character to the top? Like the normal wikipedia?--[[User:Optimous|Optimous]] 21:21, 3 August 2009 (UTC)
+:: (EDIT)Like above?--[[User:Optimous|Optimous]] 21:23, 3 August 2009 (UTC)
+
+::: I prefer it with the name below, as I think having the character name so close to the article title at the top of the page looks redundant. (btw, we copied our template from the one at [http://starwars.wikia.com Star Wars] back in the day)
+
+:::: Ah I see what you mean. Makes sense. Really? Huh... Well you had to get it somewhere. Anyways so how would I go about making the images smaller just by adding like this |.{.{.{.ImageSize.|.200px.}.}.}.| (not dotes of course)in there?--[[User:Optimous|Optimous]] 21:34, 3 August 2009 (UTC)
+:::: FIGURED IT OUT!--[[User:Optimous|Optimous]] 22:12, 3 August 2009 (UTC)
+
+==Broken quote template==
+The simplest syntax for using [[Template:Quote]] is <nowiki>{{quote|text of quote|citation}}</nowiki>. This may NOT be altered to <nowiki>{{quote|'''color'''|text of quote|citation}}</nowiki>, or it will break tons of pages, [http://wot.wikia.com/index.php?title=Lan_Mandragoran&action=purge like this one].
+
+By the way, I've grown increasingly dissatisfied with the complexity of Template:Quote. First someone added borders, now you're adding colors? It's purpose is to serve up simple, straightforward, legible quotations--not serve as a page decorator. I liked how it was [http://wot.wikia.com/index.php?title=Template:Quote&oldid=12992 as of May 2007], before Moridin changed it last February. --[[User:Gherald|Gherald]] 19:28, 5 August 2009 (UTC)
+
+: Alright I will change it back. I was trying to see if it would work. It doesn't really.. my bad.--[[User:Optimous|Optimous]] 19:30, 5 August 2009 (UTC)
+
+:: If you really want to add colors, parameters 1-3 are taken, you'd have to start with parameter 4, or, preferably, used a new named parameter such as color=.
+:: You can add that if you want, but I don't get the point of having all this complex formatting (borders, color, and centering at top of page instead of left-adjusted like it used to be) --[[User:Gherald|Gherald]] 19:34, 5 August 2009 (UTC)
+::: It doesn't work because of the link color. Also it I realize it looks WAY to flashy. Classic is better :)--[[User:Optimous|Optimous]] 19:36, 5 August 2009 (UTC)
+
+== Random numbers ==
+
+I created [[Template:Random]], which you can subst anywhere you want a random number. I'm thinking this would be useful fo displaying random quotes on the main page, instead of having to choose a particularone for every day.
+
+Suppose we've gathered 30 quotes. We can put them all in one page template page with a switch statement that picks one to display, or, if you prefer, have a Q# page for each one like the FAs. Then you can use <nowiki>{{subst:random|30}}</nowiki> to either choose something from the switch template or transclude the corresponding Q# page.
+
+We could even display a random FA, instead of being limited to 1 per month day. --[[User:Gherald|Gherald]] 22:59, 6 August 2009 (UTC)
+:Oh, one problem with the approach...the random number won't change until the page is edited/purged. Rats. I suppose I could write a clientform script that logs me in and requests a purge at least once/day...gotta think about this. --[[User:Gherald|Gherald]] 23:01, 6 August 2009 (UTC)
+::Ah also would this be different for everyone is in a different random number for each person viewing the page or would it be a global thing that everyone would see the same quote and FA? Another thing wouldn't this mean that the same FA or quote could be chosen twice in a row?
+::: It's the same for all until page is edited/purged. And yes, the same random number could be chosen in more than one consecutive edit/purge, but that's not an issue.
+
+
+== Floran Gelb ==
+Hey Optimous Floran Gelb has been done already. Check it out here [[Floran Gelb]]. --[[User:GuanYu79|GuanYu79]] 05:13, 19 August 2009 (UTC)
+: Oops my bad--[[User:Optimous|Optimous]] 05:36, 19 August 2009 (UTC)
+
+== Main page getting crowded ==
+Avoid overdoing it. I would put the FA and associated stuff near the top, under the title, and have a smaller and more usable book navigation. I don't think we should have this big collage of all book covers on the main page...it's distracting. Maybe move it to a subpage, or at least to the bottom of the page? --[[User:Gherald|Gherald]] 22:00, 28 August 2009 (UTC)
+:Yeah for some reason it is open when you start. It should be closed when you open the main page. Oh I see. You put var ShowHideConfig = { autoCollapse: Infinity, userLang: true }; It should be 0 not infinity for it to be closed when the page is open. If you change it it will be closed so it wont take up the page.--[[User:Optimous|Optimous]] 22:22, 28 August 2009 (UTC)
+
+== Occupation ==
+OK that's sweet. Do u want every occupation removed from all characters then. Yeah I'm just going through all the books and tidying most of the characters up--[[User:GuanYu79|GuanYu79]] 23:33, 28 August 2009 (UTC)
+:The occupation is fine just no ones that are blank like |occupation= --[[User:Optimous|Optimous]] 05:00, 29 August 2009 (UTC)
+
+== Looks like you've been doing a great job ==
+
+...while some of us oldtimers sleep the Ages away. Anything I can help with from an admin point of view? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 00:43, September 23, 2009 (UTC)
+:Haha thanks. Well you can look at the logos I've been making and tell me what you think here: [[User_talk:Gherald#So_I_made_new_logos|Logos]]
+::Also the count down thing at the bottom of the page.--[[User:Optimous|Optimous]] 00:46, September 23, 2009 (UTC)
+
+== Thanks and thanks ==
+
+Hey, I tried posting a message to your talk page last week, but the site wouldn't let me. Don't know what that was about. I wanted to say thanks for the glossary section you started for TEotW. Looks great. Were you also going to start on the other books? Let me know if you need help. I can probably start/add some stuff every now and then. Hope you didn't mind that I helped out with the formatting and such. I also wanted to say thanks for the reply on the Footnote issue. :) ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 15:19, September 23, 2009 (UTC)
+:Thanks alot. Yeah that was another thing I need to go about doing. Any help would be great.--[[User:Optimous|Optimous]] 15:27, September 23, 2009 (UTC)
+
+== Monaco and colors ==
+
+Hey, just a quick question. I took a look at your monaco.css. Are those the colors you were thinking about for the wiki? Looks pretty good. Also, the Aes Sedai symbol you uploaded as an accent looks really great. I know you have a lot on your plate here, but I think that if that accent were rendered in seven more colors, we could use those for the Aes Sedai on their pages. Just a thought. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 00:58, October 12, 2009 (UTC)
+:Yeah I have been messing around with colors and also width of the main page. I took it from [[w:c:dc|DC Wiki]]. The colors, I'm still messing with, but yeah the images would go on the side of the mainpage and move like the ones on dc wiki page. The accent I made like the one on the dc wiki page. Theres looks like this: [http://images.wikia.com/marvel_dc/images/e/ee/Accent1.jpg] It goes behind the logo of the wiki. So I'm confused what you're asking?--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 01:34, October 12, 2009 (UTC)
+::I was just saying that resized a little and rendered in blue, red, white, green, brown, grey and black, we could use them on the infobox for the Aes Sedai. Don't worry about it though, just a crazy thought. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 01:51, October 12, 2009 (UTC)
+:::OOOoohhhh. I see yeah. That might be a good idea. I will start to make some of thoses in a little bit. I will finish messing around with the colors probably tomorrow and have like a final product of colors for us to try out maybe.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 02:04, October 12, 2009 (UTC)
+::::Ok so here is what I have overall. What do you think?--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 23:26, October 12, 2009 (UTC) 
+:Looks really sharp; sorry that I haven't gotten back to you on this, I've been buried in my reread. Are you comfortable with being an admin for the time it takes to set this up? -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 16:27, October 21, 2009 (UTC)
+::No worries I have been busy alot lately too midterms and such. Sure Its pretty quick thing to do. Thanks :)--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 16:56, October 21, 2009 (UTC)
+
+== Monaco test ==
+
+It looks good. The search bar, side bar and widgets look great. They have good highlighting and the dark/light looks good with the blue background. Top bar looks good as well. Let me know if I am doing something wrong or if you hadn't included it, but the logo that we have still shows up and not the new one that you uploaded and is on the mock-up. One small thought, if I may, one the background accent (Aes Sedai symbol). Looking at the mock-up, I can see why you used yellow for the symbol, but I am wondering what it might look like with blue instead. Looking at the other two images there, they look great against a blue background. Just a thought. Overall, though, really good.----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 01:16, October 15, 2009 (UTC)
+
+== Thanks - and a shameless request. ==
+
+Thanks for your welcome. I'm a bit of a WoToholic myself, and this wiki gives me a legal high. Do you mind if I pilfer your user infobox? --Adryn <sub><font color="red">Read</font></sub><sup><font color="green">Write</font></sup>
+:Haha not at all. Enjoy. It might be a little hard to use but you can go ahead and try it out. Glad to have more Wotoholics :)--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:44, October 23, 2009 (UTC)
+::I am indebted to you, sir. I'm wondering if half a bottle of red wine might have reduced my ability to interpret css. We shall see. --Adryn <sub><font color="red">Read</font></sub><sup><font color="green">Write</font></sup> 21:47, October 23, 2009 (UTC)
+:::Haha no problem my man. Enjoy.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:48, October 23, 2009 (UTC)
+
+== [[Maighdin Trakand]] and similar pages ==
+
+Please make sure not to 'steal' [[EWoT]]'s work. If there are other pages where the content is lifted straight from their pages, please do us the favor of deleting them and then rewording them from scratch. I know it's tough to come up with much on these 'bit' characters, but it's very important not to violate [[project:copyrights|copyrights]], and EWoT doesn't have the same licensing as the rest of Wikia and Wikipedia. Thanks. -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 22:00, October 23, 2009 (UTC)
+:Sorry. I was still dumb when I made that page 2 months ago :P--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:30, October 23, 2009 (UTC)
+
+== The new Monaco.css ==
+
+Just a quick question. Do I have to upload the [[MediaWiki:Monaco.css]] on my own monaco.css page or has it not been implimented site-wide? Right now, I can see the new picture at the top, but everything else is the same. Or am I not doing something right? (P.S. I do have the "override" thing in the preferences checked.) Just wondering. Thanks, and really great job on that! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 14:27, October 27, 2009 (UTC)
+:Well I have not been able to figure why it's not showing up. It's not showing up for me either. I will let you know when I see it.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 15:07, October 27, 2009 (UTC)
+
+== Request ==
+
+Evening! I was wondering if it would be possible to put up a site notice for something. Last night, I created a new template: {{tl|inuse}}. Site notice could read something like "In order to avoid edit conflicts with the major addition of information from ''[[The Gathering Storm]]'', please use the template" or some such. I think that it could work for when people start adding the chapter summaries. What do you think? ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 01:21, November 3, 2009 (UTC)
+:Yeah sounds good to me. I was looking into what you made and thought it was a good idea I just forgot to say something. Good work.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 01:50, November 3, 2009 (UTC)
+Thanks!!! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 02:04, November 3, 2009 (UTC)
+
+== Elaida ==
+Since Gathering Storm is still spoilers, shouldn't her title be 'Amyrlin Seat'?
+:Oh yeah probably. My bad.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:55, November 3, 2009 (UTC)
+
+== Delete request ==
+
+Evening. I was wondering if you could delete File:Star-icon.gif. After uploading, I found a way to change them to png's. Thanks!! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 01:47, November 4, 2009 (UTC)
+:Done.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 02:18, November 4, 2009 (UTC)
+One more, if you would: File:Falcon-icon.PNG. The caps PNG won't work with the chapter template. Also, I intend to go through the [[:Category:Chapter art]] and suggest a few more. There are a few duplicates there. I'll let you know. Thanks!! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 08:30, November 4, 2009 (UTC)
+
+== Re-read templates ==
+
+It's me again. I was wondering if you wouldn't mind looking at [[User:Mainphramephreak/Test|this here]] for me. I don't know if it is just the browsers that I use, but there seems to be a lot of white space showing when the templates are colapsed, especially when larger rowspans are used. I know you have a lot more knowledge of the colapsable templates than I do. Also, comment if you want. :) Thanks! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 09:28, November 4, 2009 (UTC)
+
+== Vandalism? ==
+
+I'm new to wot wiki, but as far as I can tell everything's supposed to be in english. This page looks like vandalism: Sposibo bolsoyo. Just wanted to make sure it's brought to the attention of the admins. Thanks -- {{User:Mordsith/Sig}} 11:52, November 5, 2009 (UTC)
+:Thanks for the heads up. Yeah there have been many vandalism's lately probably because of the release of the new book. It has been taken care of. Again thanks for the heads up. Just let me know if you see anything else.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:41, November 5, 2009 (UTC)
+
+== Auto-categories ==
+
+Hey! Just a quick question. On most of the pages, when the character template is used, it automatically adds categories for that person based on what is put in the template. I was wondering if it would be possible to have the template list them alphabetacally by last name (if they have one)? I don't know if this is possible or not. Just wondering. Thanks! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 21:23, November 13, 2009 (UTC)
+
+Never mind. Found what I needed. Elaida helped :) ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 23:08, November 13, 2009 (UTC)
+
+== Admin stuff ==
+
+If you would be as so kind: Please, help me to find the popular sites about loans. Thanks! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 13:38, November 16, 2009 (UTC)
+:No worries the bot got it.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 19:49, November 16, 2009 (UTC)
+
+== Auto-refresh ==
+
+Hey, I've seen an auto-refresh on a few wiki's. Take a look [http://memory-alpha.org/en/wiki/MediaWiki:Common.js here] and scroll down about half-way. I think they got it from [http://www.wowwiki.com here] somewhere, but I couldn't find it. Might be a neat feature. But please, don't rush it or anything. If you have other things going on, that's fine. Later! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 00:37, November 18, 2009 (UTC)
+:Interesting. I will definitely look into it, thanks for the link.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 01:04, November 18, 2009 (UTC)
+
+Deleted due to duplication
+:Alright just added this feature. It works so enjoy :)--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 09:15, December 12, 2009 (UTC)
+
+== Should I create an article or edit one? ==
+I am wondering if I could modify the Asmodean Death article. After reading The Gathering Storm, along with the idea that Graendal is the most likely candidate for the person who killed him I am now starting to wonder if he is still dead. Rand used the Choedan Kal to strike Graendal with balefire strong enough to wipe out the entire fortress. Was it also strong enough to take her out of the pattern far enough back in time that Asmodean is now still alive? Also is this why Jordan said that the final book would resolve the mystery, by bringing Asmodean back from the dead(also would this match the final revelation that people get second chances?)
+[[User:Gainaxe|Gainaxe]] 09:42, November 20, 2009 (UTC)
+:Huh. I never thought about that. But I don't think he came back because 1. I don't think rand used that powerful because his daeth was over a year ago and the most balefire is known to go back is a couple of months. 2. The dark one said he was killed "the final death" so I think he is super gone. 2. We do not know 100% that graendal is his killer. You can go ahead and say that she is the most likely now.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 16:50, November 20, 2009 (UTC)
+::It has also been debunked several times by Brandon Sanderson. Most of the Storm Leader reports at [www.dragonmount.com Dragonmount] have this info. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 17:07, November 20, 2009 (UTC)
+
+== .svg files ==
+Yes, I'm the one that made [[:File:Telaran-icon.svg]]. Thanks for your praise! And I do plan on making .svg files for some of the other chapter art icons. I'd like to say I'll do them all, but that may be too ambitious since I'll just be doing them when I have a bit of spare time here and there. I make them/edit them using [http://www.inkscape.org/ Inkscape], which is open source and free to download. I haven't been using it for that long, so I'm still learning all the ins and outs of the program. [[User:Ninjatacoshell|Ninjatacoshell]] 02:24, November 22, 2009 (UTC)
+
+== Character template ==
+Hey, any chance you can add an image_width option to [[:Template:Character]]? The .svg files I've been creating are 250 px, which is way too big. I'd like to be able to set them to 100 px for the character boxes. I tried to figure out something based on the image_width line for the [http://en.wikipedia.org/wiki/Template:Taxobox Taxobox template on Wikipedia] but failed miserably. Coding just isn't my ''forte''. [[User:Ninjatacoshell|Ninjatacoshell]] 22:51, November 22, 2009 (UTC)
+:It's already apart of the code I just forgot to add it under example. Just add this after image: | imagesize = 100px--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 23:05, November 22, 2009 (UTC)
+::Sweet! Thanks! [[User:Ninjatacoshell|Ninjatacoshell]] 05:29, November 23, 2009 (UTC)
+
+
+
+== More admin stuff ==
+
+If you would be as so kind: Category:Elaida's White Tower. Thanks!!----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 16:23, November 26, 2009 (UTC)
+
+Also, if you could, take a look at [[Template:Character]] and make sure that I didn't break anything. I fiddled around and added a few things. Also, take a look at the talk page there as well. No rush. Thanks!! ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 01:22, November 27, 2009 (UTC)
+
+Do you know of a way to make the Black Ajah Affiliation override the Ajah Field in the Character template for the colors? Take [[Katerine Alruddin]]. Origionally, she is a Red, but then turns Black. To have her Character template show the correct colors, both her Affiliation and her Ajah have to be Black. Just wondering. If I could, I would try to fix it myself, but my wiki-fu in this matter is far, far below yours. :) ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 05:08, November 27, 2009 (UTC)
+:Never mind. My wiki-fu has expanded. I just hope it didn't break anything. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 22:18, November 27, 2009 (UTC)
+
+== Aiel ==
+
+Hey, I hope I didn't step on your toes regarding the Aiel in the Character Template. I had some free time over the holiday weekend and thought I would add it. Sorry. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 22:25, December 3, 2009 (UTC)
+:Don't worry about it I'm glad you did it. I have no time at the moment. College finals are next week so after that I will be on here more.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 04:27, December 4, 2009 (UTC)
+
+== Hey! ==
+
+Sorry, couldn't resist. If you would please: Hey!. ----[[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]<sup>[[User Talk:Mainphramephreak|<span style="color:#FF7000;"> '''LLAP'''</span>]]</sup> 16:06, December 4, 2009 (UTC)
+:No worries. Please don't hesitate to tell me if you see spam like that. Thanks for the heads up.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:04, December 4, 2009 (UTC)
+
+== Pictures ==
+
+Hey, for the pages where I added pictures, should we remove the appearance section? It seems redundant. [[User:Kgable10|Kgable10]] 17:18, December 11, 2009 (UTC)
+:I saw we keep them since the pictures are just fan art. i.e. what the person thinks of the character not exact making of the character. So I say keep.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:15, December 11, 2009 (UTC)
+::Okay, thanks for the heads up and I'll try and conform more to the style of the wiki now :}. Thanks for fixing some of my mistakes [[User:Kgable10|Kgable10]] 21:24, December 11, 2009 (UTC)
+:::No worries. They aren't mistake you're just learning how it goes on around here :)--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:23, December 11, 2009 (UTC)
+
+== Even more admin stuff ==
+
+When you get a chance: Category:Nationality unknown. P.S. The word "nation" doesn't doesn't even look like a word anymore. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 00:07, December 18, 2009 (UTC)
+
+== Some redirects ==
+
+Had some craziness with the month of Jumara. Here are the redirects created when I moved them to the proper spelling. If you could delete them when you get a chance. Thanks in advance. The last two will be done here in a minute----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:17, December 21, 2009 (UTC)
+
+*[http://wot.wikia.com/index.php?title=Jumura_1&redirect=no Jumura 1]
+*[http://wot.wikia.com/index.php?title=Jumura_2&redirect=no Jumura 2]
+*[http://wot.wikia.com/index.php?title=Jumura_4&redirect=no Jumura 4]
+*[http://wot.wikia.com/index.php?title=Jumura_5&redirect=no Jumura 5]
+*[http://wot.wikia.com/index.php?title=Jumura_6&redirect=no Jumura 6]
+*[http://wot.wikia.com/index.php?title=Jumura_7&redirect=no Jumura 7]
+*[http://wot.wikia.com/index.php?title=Jumura_8&redirect=no Jumura 8]
+*[http://wot.wikia.com/index.php?title=Jumura_9&redirect=no Jumura 9]
+*[http://wot.wikia.com/index.php?title=Jumura_10&redirect=no Jumura 10]
+*[http://wot.wikia.com/index.php?title=Jumura_11&redirect=no Jumura 11]
+*[http://wot.wikia.com/index.php?title=Jumura_12&redirect=no Jumura 12]
+*[http://wot.wikia.com/index.php?title=Jumura_15&redirect=no Jumura 15]
+*[http://wot.wikia.com/index.php?title=Jumura_16&redirect=no Jumura 16]
+*[http://wot.wikia.com/index.php?title=Jumura_17&redirect=no Jumura 17]
+*[http://wot.wikia.com/index.php?title=Jumura_18&redirect=no Jumura 18]
+*[http://wot.wikia.com/index.php?title=Jumura_19&redirect=no Jumura 19]
+*[http://wot.wikia.com/index.php?title=Jumura_20&redirect=no Jumura 20]
+*[http://wot.wikia.com/index.php?title=Jumura_21&redirect=no Jumura 21]
+*[http://wot.wikia.com/index.php?title=Jumura_22&redirect=no Jumura 22]
+*[http://wot.wikia.com/index.php?title=Jumura_23&redirect=no Jumura 23]
+*[http://wot.wikia.com/index.php?title=Jumura_24&redirect=no Jumura 24]
+*[http://wot.wikia.com/index.php?title=Jumura_25&redirect=no Jumura 25]
+*[http://wot.wikia.com/index.php?title=Jumura_26&redirect=no Jumura 26]
+*[http://wot.wikia.com/index.php?title=Jumura_27&redirect=no Jumura 27]
+*[http://wot.wikia.com/index.php?title=Jumura_28&redirect=no Jumura 28]
+
+== World of Robert Jordan images ==
+
+Could I get you to chime in [[User talk:Mainphramephreak#World of Robert Jordan images|here]]. I would say yes, but i'm not to familiar with copyright stuff. Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:05, January 6, 2010 (UTC)
+
+== Random ==
+
+Hey, do you think you could add a random page button to the main page? I don't know how to do it, but you seem to handle that one. Tell me what you think! [[User:Kgable10|Kgable10]] 18:37, January 7, 2010 (UTC)
+:Well on the left side under the search bad and menu. There is a thing that says random page. Is that what you're talking about.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 19:09, January 7, 2010 (UTC)
+::O, lol, I didn't see that. My bad [[Special:Contributions/155.212.94.131|155.212.94.131]] 19:13, January 7, 2010 (UTC)
+
+== A bit of help. ==
+
+I will most likely be needing your help here in a bit. See [[Category talk:Redirects]]. :):) ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:27, January 7, 2010 (UTC)
+
+==Wanted Pages==
+Seeing as how this user has been absent for almost three years, would it be alright if I started deleting some links on [[User:TheParanoidOne/Pages|TheParanoidOne's]] [[User:TheParanoidOne/Pages/People|pages]], as many of them are spelling errors and name alternates that are just clogging up the Wanted Pages section. I know most wikis frown on people editing others' pages, so I thought I'd ask. [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]][[User_talk:Rahien|<font color="#FFB90F">'''☯'''</font>]]
+:I think that will be fine. He hasn't been active since 07. He does log in occasionally but thats fine. Go for it.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 08:38, January 10, 2010 (UTC)
+
+== Another one ==
+
+If you wouldn't mind: Category:Date Redirects. Bloody capitalization. Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:13, January 11, 2010 (UTC)
+
+== Redirect sub-categories ==
+
+Hope I'm not being to hasty in creating some of these. I went ahead and started [[:Category:Naming redirects]]. Seemed like a logical one. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:15, January 14, 2010 (UTC)
+:It was a good idea. I'm glad you made it. It makes sense. Keep it up.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 03:36, January 15, 2010 (UTC)
+
+== User problem ==
+
+We seem to be having a problem with [[User:Ogla]]. Twice now, he has vandalized my user page, he has also vandalized [[User:Kgable10|Kgable10's]] user page, as well as adding some potentially volatile information on the [[Stole of the Panarch of Tarabon]] article. I have left a message on his talk page. It may be necessary to block him if this continues. Just letting you know. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 00:33, January 20, 2010 (UTC)
+:Thank you for the heads up. I have blocked him for a week (which seems to be how active he is). So this will be his warning. Thanks again for the heads up.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 07:13, January 20, 2010 (UTC)
+
+== Interesting Insight ==
+
+Were you aware that [[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] uses a play on the words "optical" and "moose." Where you trying to point out the major Oregon issue of moose killings? Especially in winter time, many moose are victims of hit and run. Glad you are aware and mindful of the issue. ---- 21:13. January 21, 2010 (UTC)
+:Actual moose killing is needed in Oregon because the moose population has risen since 2008.[http://www.newwest.net/city/article/oregon_moose_population_rising/C509/L509/] Also the hit in runs of moose does not happen often enough in Oregon to be a worry about the population of the moose. And lastly Opti and optical do start the same but don't sound the same. Same goes with mous and moose. The name was split there only because it is half of the word on each side.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 09:57, January 22, 2010 (UTC)
+
+:Valid insight, opticalmoose. Moose killing, however, is never a necessity. If one supports the obscene and vulgar notion of moose killing then he has no care for animal rights. In the words of Jacques Deval, "God loved the birds and invented trees. Man loved the birds and invented cages." If Oregonians trap the moose and kill them, they might as well be killing a part of themselves. Regarding your second comment; as we are both men that dabble in literary genius,it is painfully obvious that a word does not have to SOUND like another word to imply another meaning. It is enough to look like another word to imply specific hidden meaning. In this case, "opti" clearly implies "optical" and "mous" clearly implies "moose," although I am sure I do not have to point this out to a fellow literary scholar.----[[User_talk:Ambermoon|<span style="color:gold;">AMBERMOON</span>]][[User:Ambermoon|Ambermoon]] 16:23, January 22, 2010 (UTC)
+
+::True. But I personally have not hunted/killed any animal for sport or any other purpose. I also don't know any who has killed a moose before. Also true they are spelled the same but it is not the true meaning of name. It started off as Optimous because I spelled Optimus. I continued the misspelling since it made me different from other people who wanted to name themselves Optimus or Optimus Prime. So it spawned from my love of the old Televsion series Transformers. I do applaud you trying to find a deeper meaning in the name but it is untrue.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:19, January 22, 2010 (UTC)
+
+:::Interesting. I could only see two possible explanations for this. One is that you're just being humble and not admitting your love affair with moose. I understand that moose could be beautiful, but I think that we should only love people. if that's not tye case then you are obviously inherently brilliant. Your love affair with moose is sneaking through and showing itself in ways you could barely begin to imagine. ----[[User:Ambermoon|Ambermoon]] 17:16, January 23, 2010 (UTC)
+:: Optimous, this is clearly a troll. [[User:Kgable10|Kgable10]] 22:37, January 24, 2010 (UTC)
+:::Haha. True I just wanted to have fun until a blocked him.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 01:44, January 25, 2010 (UTC)
+:: Although, I must say, his exectution was above average for what you expect to see on most internet forums:)[[User:Kgable10|Kgable10]] 02:01, January 25, 2010 (UTC)
+::::Let’s look at the contributions made by Ambermoon. The following edits made by Ambermoon are currently the top edits. [[Hafeen Bakuvun]],[[Travelling box]], [[Balefire]], [[Compulsion]], [[Stole of the Panarch of Tarabon]]. Just as an example, Hafeen Bakuvun is fully rewritten, in much better language, and better linking. The point is that he VALIDLY contributed. You have to admit Optimous, this wiki isn’t exactly great. In fact, most of the articles are blank pages with a small picture on top because no one even bothered to write chapter summaries. In other parts, two sentence poorly worded explanations apparently are ‘sufficient’ enough to call it an article. If someone attempts to improve this --- wiki, it would be in your best interest not to block them. Your justification for a block is Ambermoon having a little fun on your page? At least he actually contributed, and didn’t vandalize a single page. How can you explain banning someone that contriubutes? ---Look at [[User:Mainphramephreak|<span style="color:#0066CC;"> '''Willie'''</span>]]. He titled # 27 on your talk page as “Hey!” cause he couldn’t resist. Let’s ignore all the useful things that he did for this wiki and give him a nice good ban for having a little bit of fun. Maybe if we encourage him to never visit this site again, this wikia will become a lot more successful. ----[[Special:Contributions/206.53.147.88|206.53.147.88]] 19:43, January 25, 2010 (UTC)
+:::::Let's also take a look at what was said by Ambermoon here on the talk page. He basically insinuated that Optimous was "in love" with moose in more ways than one. To me, that is insulting. And, it is also grounds for bans on several wikis. As for my edit (Hey!), there was a page that was created by a vandal with the title of, wait for it... "Hey!". Humor ensued. Sorry. Now, I'm not disregarding Ambermoon legitimate edits to those pages you mentioned, but when he starts insulting people and continues to do so, then yes, he should be banned. My two coppers anyways. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:14, January 25, 2010 (UTC)
+::::::Well he basically says he loves moose. Wow. Crazy. It may be offensive but it was most likely intended as a joke. Kind of like the humor you made with Hey!. Ambermoon should be regranted his editing rights. ----[[Special:Contributions/98.116.23.143|98.116.23.143]] 00:30, January 26, 2010 (UTC)
+It was my fault that Hey! no longer has a link, but whatevs. As for Ambermoon, sure, he made some fairly good edits, but like a LOT of places on the internet in general, "suggestive" humor such as his usually warrants at least a temporary ban. [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]][[User_talk:Rahien|<font color="#FFB90F">'''☯'''</font>]]
+:Alright I have unblocked Ambermoon. So you can go ahead an edit again. Also 206.53.147.88 which I suspect to be Ambermoon I take a offense to you calling this wiki "crappy". We have spent a long time attempting to fix up the wiki by adding more information, relevant pictures, and infoboxes and other useful templates. Also the look of the wiki has changed over the last year. So yes I agree it still needs alot of work but a person who only has edited no more than 5 pages and has edited a talk page more then they have edited anything else would not be missed. But I will give Ambermoon another opportunity to edit.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 03:18, January 26, 2010 (UTC)
+::Great! Thank you! And i apologize. ----[[User:Ambermoon|Ambermoon]] 17:45, January 26, 2010 (UTC)
+:::Thank you for the apology and I apologize to jumping to a conclusion. Keep up the good editing work. Your help is much appreciated.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 23:40, January 26, 2010 (UTC)
+
+==Wanted Pages..Again==
+Um, just one thing. I went through and deleted a lot of links from [[User:TheParanoidOne/Pages|TheParanoidOne's]] pages that cluttered up the Wanted Pages category, but the category didn't clear up, and it still says that these links are on TPO's page even though they are in face not present at all anymore. Is there some reason for this? [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]][[User_talk:Rahien|<font color="#FFB90F">'''☯'''</font>]] 17:58, January 25, 2010 (UTC)
+:Two things: One, the "Wanted Pages" refreshes once a day. Any changes you may have made won't show up until the next day. Two, check out [[User:TheParanoidOne/Pages/People]] and [[User:TheParanoidOne/Pages/Misc]]. Those pages also have a lot of links. Hope that helps! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:16, January 25, 2010 (UTC)
+
+== Vandalism ==
+
+When you get a chance: Todd Nichols. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:47, January 28, 2010 (UTC)
+
+He came back again. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:13, January 29, 2010 (UTC)
+:Wait he's not a character right? Because I don't remember him.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 21:12, January 29, 2010 (UTC)
+I don't think it is a character. Several searches yeilded nothing.----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:22, January 29, 2010 (UTC)
+
+
+==Todd Nichols==
+I didn't make the page. I just added the stub and cleanup templates when I saw it. [[User:Rahien|<font color="#0099CC">'''Rahien'''</font>]][[User_talk:Rahien|<font color="#FFB90F">'''☯'''</font>]] 08:01, January 30, 2010 (UTC)
+
+== Thank you ==
+
+Thank you Optimous (for the invite and for following up on my request for verification, of Nicola's role in the Egwene capture).<br />
+I had no intent to enter edits but that stub cried out for resource. I hope someone can get a reply from the jordan team to resolve that issue because it has become a minor mystery (likely to remain unresolved) now that the White Tower is re-united and Egwene is Amyrlyn.<br />
+<br />
+Congrats to all the contributers for this WOT-wiki; a great effort!<br />
+Enjoy your weekend and Happy Valentine's day; share the LOVE :)<br />
+[[User:Ronmamita|Ronmamita]] 01:58, February 13, 2010 (UTC)<br />
+<br />
+I do not have great knowledge of the formating and code for wikia; I'll get there eventually. However your latest fixup of the Zamara section<br />
+:1. fails to convey the 3 separate appearances of these creatures. (your single line format gives the feeling of zomaran appearing only once; maybe a subsection "Apperance:" would work better? That was why I had 3 separate lines; so the reader would intuitively understand that 3 books included zomaran.<br />
+:2. Erroneous pov; Moridin didn't explain his preference of zomaran over humans (it was either the narrator or Arangar; I had interpreted it to be Arangar).<br />
+I wish to express my appreciation for the time you devote to this wikia, thank you sincerely [[User:Ronmamita|Ronmamita]] 01:11, July 5, 2010 (UTC)
+:Thank you for your input. 1. I see what you mean about the 3 lines and 3 separate appearances. That makes sense so I will change it back. 2. The point of view seems to be from Moridins because we hear his inner thoughts if I am not mistaken. Also our summary and ewots and tarvalon.net also have moridin.
+Thanks again for the input.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 03:06, July 5, 2010 (UTC)<br />
+:Perhaps my edition (of chapter 3 "At the Gardens") printed it wrong, but this information is provided prior to Moridin's entrance and predominantly the pov of Aran'gar. Immediately after a zomara serves Aran'gar ..."The creatures had been one of Aginor's less inspired creations; still even in her own age when Moridin had been called Ishamael, there was no longer any doubt in her mind of who he was; he had trusted the creatures above any human servants"... From my edition it is not possible for Moridin to explain anything because he had not made his grand entrance yet. These are the details that I seem to frequently catch and maybe other wikia posts need to be edited, if they have this error. [[User:Ronmamita|Ronmamita]] 07:46, July 5, 2010 (UTC)
+
+::I'm a little confused what you are saying is an error?--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 08:22, July 5, 2010 (UTC)<br />
+:2. The POV belongs to Arangar, she informs us that Moridin prefer zomaran servants; according to my edition. [[User:Ronmamita|Ronmamita]] 09:47, July 5, 2010 (UTC)
+
+== Request for adminship ==
+
+To start, I am extremely hesitant to post this at all. For me, personally, I have never liked self-nominations. I have always thought that they were too self-promoting. However, I am also of the opinion that a wiki cannot have too many admins. 
+
+As the most active admin on the site, I decided to come to you first. I have had more interaction with you than the other admins and feel more comfortable coming to you. I mean no disrespect to either [[User:Gherald|Gherald]] nor [[User:Nae'blis|Nae'blis]] as bureaucrats of this wiki, nor to the other admins, [[User:Moridin 2000|Moridin]] and [[User:TheParanoidOne|TheParanoidOne]]. I have a great respect for you all.
+
+Some wiki's do not allow self-nominations and some do. This wiki does not have a formal admin nomination forum. As such, I would like ask that the current admins review my edits and consider me as an admin for this wiki. 
+
+I would also like to ask that any editor of this wiki, whether the newest-registered or long-time contributor, add his or her opinion here to whether they believe I would be a good administrator.
+
+As for why, I can only submit the following: 
+*I belive that I can fulfill the role of an admin on this wiki. 
+*I have made several significant contributions to this wiki and I will continue to make similar contributions in the future. 
+*There have been several pages and templates that I have either created or updated that have had significant impact across the wiki.
+
+Any criticism of my edits is welcome and appriciated. Any opposition to my nomination is also welcome.
+
+Optimous, I would like to thank you for the "hosting" of these proceedings. If you believe that this could be better covered or more appropriate at another page, by all means, move this post there.
+
+As always, honor to serve. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 07:45, February 20, 2010 (UTC)
+
+:I whole heartedly agree with you being promoted to admin. You have put much work into this week. I would say more than me. I think that the other admins would agree with me as well. The only thing is I can't promote you. Only Nae'blis or Gherald can promote. And since they haven't been active for a while it could be a little while before you can be promoted. I don't have their emails so I can't send them a request.  But you have definitely put the effort to be an admin.  Keep up the good work.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 12:27, February 20, 2010 (UTC)
+
+Thank you very much! Let me know when it is all said and done. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 22:12, February 20, 2010 (UTC)
+
+Nae'blis doesn't have this option checked, but Gherald does. On his user page, on the left side in the black part is the option to e-mail the user. Didn't know if you knew about this or not. :) ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]]
+
+:Wait where? What black part?--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 09:10, February 22, 2010 (UTC)
+
+Right there. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 12:42, February 22, 2010 (UTC)
+
+:Weird I don't see that? Post his email for me and I will send him an email.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 06:40, February 23, 2010 (UTC)
+
+I see what it is now. In the "Preferences" section, under "User Profile", down under the "E-mail" area, you need to check the "Enable e-mail from other users" option. Once you do, you can click on the link shown. The reason, I believe, for this is because once you send an e-mail on the "E-mail user" page, it then gives that user your e-mail address. The e-mail address don't show up on that page, however. I send Gherald an message. He should be responding here. Have a great day! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:19, February 23, 2010 (UTC)
+
+::Heyas, I did set the 'bureaucrat' flag for [[User:nae'blis|nae'blis]] back when promoting Optimous, so I think he should be able to set admins as well. Anyhow, glad to help, I set Willie up. *runs and hides before coming across any TGS spoilers* --[[User:Gherald|Gherald]] 16:31, February 23, 2010 (UTC)
+
+Thanks!!! *does happy dance* ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:33, February 23, 2010 (UTC)
+
+:Well there you go. Congrats.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 19:29, February 23, 2010 (UTC)
+
+Thanks, Optimous! I'm already trying to figure some stuff out. A small test of the rollback feature was interesting. Everthing else seems straight forward. Thanks again. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:32, February 23, 2010 (UTC)
+
+== A thought ==
+
+This kind of occured to me today. Should I change my signature? Right now it says "Willie" but my username is "Mainphramephreak." I only bring this up because several wikis are kind of restrictive about different names being used in signatures. It might also confuse new users. When I "auto-sign" new user talk pages, it has the standard signature. Just wondering. Thanks! -----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 16:51, February 24, 2010 (UTC)
+
+== Fellow Oregonian ==
+
+I feel really bad that this is the first time I am seeing this. I was born and raised in Klamath Falls. And every Spring Break, I would take a trip up to my aunt's place in Portland. Not that often that I get to meet a fellow Oregonian. ''Tai'shar Oregon.'' ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 06:52, February 27, 2010 (UTC)
+:Really? You are Oregonian? Awesome :). Yeah. Right now I'm Corvallis studying up at OSU. I was born in Beaverton and I am going home for spring break. We should get some coffee or some lunch.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 09:06, February 27, 2010 (UTC)
+That would be great, however there's a small problem. Right now I live in Utah. Looking back, I wasn't clear in my first post. The trips I took over Spring Break were when I was a kid. Sorry. :( ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:35, February 27, 2010 (UTC)
+:Ah. Well let me know if you ever come back. Love to see the face behind the editor :).--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 15:42, February 27, 2010 (UTC)
+
+== Image Template ==
+
+Hello. [[User:Jaymach]] and I made an addition to [[Template:Image]] to include the artist of the image (after about 60-70 edits). I was wondering if it would also be possible to change the template so that multiple "ImageType1" fields can be defined (e.g. Fan Art, Character, ect). I gave it a try, but after ten changes I found that I was kind of in over my head. Any help would be appriciated. Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 12:33, March 27, 2010 (UTC)
+:The only way I can think is if you add more imagetype variables (Like imagetype1, imagetype2).--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:44, March 27, 2010 (UTC)
+
+== Hello? ==
+
+You still around? Haven't seen you in a while. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:08, April 23, 2010 (UTC)
+:Haha yeah I've been checking things pretty much every other day just haven't had time to sit down and actually edit things.  College sucks the time out of my life :P. This summer though I shall return!--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 23:17, April 23, 2010 (UTC)
+
+== Character template ==
+
+Is there a way to suppress the link at the top of [[Template:Character]]. A field or something that could cause the template not to show the link at the top would be great. I would rather not have to make the "ewot" field manditory if at all possible. No rush, just would be nice for the future. Thanks for any help! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:23, April 30, 2010 (UTC)
+:Only negative to that is it is automatic. Is in it looks what the name of the page is and makes that an ewot link. So if we make it optional then it would remove alot of the links from peoples pages that are correct.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 19:49, April 30, 2010 (UTC)
+Yeah, I thought of that. I was just wondering if there is additional coding that we could add that could remove it where it is not needed. Would be usefull on pages that have multiple character templates ([[Asmodean]], [[Osan'gar]], [[Aran'gar]]) as well as something I have planned for when the statistical analysis is done. As it stands now, it is not a big deal. No worries. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:57, April 30, 2010 (UTC)
+:Ah. I will look into it this weekend and let you know if I figure out anything.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:01, April 30, 2010 (UTC)
+Never mind. The more I thought about it, the character template won't work for what I have planned. I'll creat another template soon. Thanks anyways. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 22:34, April 30, 2010 (UTC)
+
+== Italics ==
+
+Was wondering if you could help me. I'm trying to have certain entries on the character template italicize (i.e. ''sul'dam'', ''damane'', ect), but I am having a hard time. I've tried using a few templates but to no avail. Any ideas? Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:46, May 4, 2010 (UTC)
+:I think you would have to change the character template to do it.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 19:52, May 4, 2010 (UTC)
+I've tried chainging it there, but I got nowhere. I'll take a look at it this weekend. Maybe I missed something. Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:57, May 4, 2010 (UTC)
+:An idea would be to have a list of words that should in italics and make a template that changes the input to have italics and if it is not in the list leave it normal.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:03, May 4, 2010 (UTC)
+::Think I've managed to do it. So far it works for ''damane'', ''sul'dam'' and ''morat'raken''. Any others we'd need it to work for? &mdash;[[User:Jaymach|Jaymach Ral'Tir]] <small>([[User talk:Jaymach|talk]])</small> 06:16, May 5, 2010 (UTC)
+
+== Character template ==
+
+Could you take a look at all of the color templates that [[User:Fbstjoe]] is creating in reference to [[User talk:Fbstjoe#Templates|this]]. I know you were the one that created the new format for that template. I think it is a good idea, but I know from other wikis that using too many template calls on a single page can get a little problematic. Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:12, May 14, 2010 (UTC)
+:Hmm Sees like a better idea.  Makes sense to not have to repeat the long color code.  I want to see how it comes out.  So I say let him go for it and see how it comes out.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 16:13, May 14, 2010 (UTC)
+
+== A few things ==
+
+Great to see you around. Had a few things. I put a few templates up for deletion. I wanted to make sure that deleting them wouldn't cause any issues. If you could take a look [http://wot.wikia.com/wiki/Special:WhatLinksHere/Template:Delete here], I would appriciate it. I've also done some work on all of the sub-categories. Let me know what you think. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:53, June 22, 2010 (UTC)
+:Yeah go for it. All those are unused or do the same things as other templates. I have been looking at those category things you have been updating and all those have been good updates.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 05:07, June 23, 2010 (UTC)
+
+== Year redirects ==
+
+They should be done now. Let me know if you see anymore. Also, I left an explination on [[Talk:Timeline]], so anyone else can do these as well. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 21:04, June 23, 2010 (UTC)
+:Sweet. Good work! This 1000 NE project is a pain. I should have it done with in the next couple of days though.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 22:17, June 23, 2010 (UTC)
+Thanks! I know that those pages are kind of a pain. Now, I'm going through all of the pages and adding links to the years, and then going back and adding years to the Timeline page. Fun stuff. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 22:25, June 23, 2010 (UTC)
+
+== NE template ==
+
+Kind of did something. {{tl|Ne}} didn't work with the older format and the new redirects. When the template is in the {{tl|Character}} template, it won't redirect properly. It looks like it had something to do with the NE template's former ability to include the month and day. I'm gonig through and manually adding links. I don't know if we want to create a second template. Have one for just the year, which will work with the redirects, and a second one to work with the months and days. However, from what I can see, very few pages use the month and day option. Maybe we would just have to use manual links for the months and days. Thoughts? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 13:52, June 24, 2010 (UTC)
+
+Also, what do you think about [[Wotwiki talk:Category index|this]]? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:01, June 24, 2010 (UTC)
+:I think we should keep it with which year. Because you are right the day month are rarely used.  I commented on the categories on that page.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 17:15, June 24, 2010 (UTC)
+
+== People categorization ==
+
+Morning. Most of the people categorization is done. There were a few that I didn't do. The first is the [[:Category:Borderlands|Borderlanders]]. There are only one regular person there and two Forsaken, the two that were reborn into Borderlander bodies. The next is the [[:Category:Ten Nations|Ten Nations]]. Seven people total spread across three different nations. The third is [[:Category:Shara|Shara]]. Only two people there. I believe that these can stay the way they are. The Ten Nations might grow, because I don't think that some of the people are included in the categories and this would be the only one I would consider re-categorizing to match the rest of the nations. What do you think? Is it fine the way it stands or should it be an "all-or-nothing" kind of thing. Thanks! ----12:54, June 25, 2010 (UTC)
+:I think it's good now. Like you said there are only a couple of people in the other categories. So it would be a waste.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 15:15, June 25, 2010 (UTC)
+I did add [[:Category:Shandalle (people)]] to [[:Category:Nations of the Free Years]]. In going through and adding the {{tl|Character}} template to some people, more and more of them are popping up. So far, that is the only one. If dead nation gets to have, say, more than five or so, I think it might warrent adding a "(people)" category. 
+
+I also went ahead and reorganized the High Lords and Ladies of Tear. Before, it was just the High Lords of Tear and there were women in there. So now there is the [[High Nobility of Tear]] and the corrosponding [[:Category:High Nobility of Tear|category]]. All redirect and Character tempalte issues should be resolved.----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 15:21, June 25, 2010 (UTC)
+:Good idea. I agree if it gets above an excess of 5 people then it should have a category.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 15:31, June 25, 2010 (UTC)
+
+== Template help ==
+
+Do you know anything about html coding for links. I'm trying to create a template for all of the creatures and the EWoT link is giving me trouble. If you go to {{tl|Creature}}, you should see what I'm trying to do. Thanks for any help. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:04, June 30, 2010 (UTC)
+:Yeah. You can do something like http://encyclopaedia-wot.org/creatures/{{{Type}}}/{{{PAGENAME}}} so have a type=wolves then it will have wolves and the name of the wolf being the page name will have the link. You'll need to add {{{lc: but besides that it should be good.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:30, June 30, 2010 (UTC)
+
+== Tense ==
+
+What is your opinion on [[Wotwiki talk:OOC#Writing in the present tense|this]]? Specifically, in relation to [[Wotwiki talk:Community Portal#Thoughts on Tense and Style|this]]. I think it might be an idea to consider because sometimes tense is kind of tricky. Not something we need to decide right now, but something to keep in mind. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 00:47, July 1, 2010 (UTC)
+:Yeah very interesting. Ha I know I've done both tenses in the past :P. But we should pick one and stick with it<nowiki>Insert non-formatted text here</nowiki>
+
+== Category inclusion ==
+
+Hi there. Thanks for adding in those pictures on {{ns|6}}. I know I created the [[User:Mainphramephreak/Project#Chapter Summary Project|Chapter Summary Project]] and have done some work there, but I've also been doing other things to keep my mind from blowing up. In that regard, I have come to a question. What warrents category creation? Currently there are several categories that have one or two members. I know that I have created a fair share of them, but I have also combined some as well. One of the reasons I ask is because there are two categories that are [[Special:WantedCategories|"needed"]] that would go under [[:Category:Occupations]] that only have one or two members. Neither of those categories could go under any broader name. Another reason is [[:Category:Aiel septs]]. Several of them only have one or two people that belong to that sept. I did that a few weeks ago and a few days later, I kind of regretted it. I know this is kind of a low-key wiki and we sort of make things up as we go along, so I wanted to get your opinion and any suggestions before I started making huge changes, not that I know what those changes might be right now. Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:57, July 8, 2010 (UTC)
+:I just looked around other wikias and wikipedia itself. Many wikis and wikipedia have multiple categories with only 1 or 2 articles. I think it should be alright to make single articled categories since it is what is being done in other wikis and will mean everything is organized. Haha I can understand why, no problem I have written one summary in the past and decided never again. Sorry I can't be more helpful in that aspect.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:29, July 8, 2010 (UTC)
+So should some of the "combined" Occupations be split? Some of them could, others seem to be fine. Those that might be split could be [[:Category:Smiths]] and [[:Category:Servants]]. Right now, cooks, ''shayatan''s, footmen, attendents, clerks, Dosuns, Quartermasters and Royal Historians all redirect into Servants. ''Shambayan'' might also be another one. In the Smiths category, there are one silversmith, one goldsmith and seven blacksmiths. I think that [[:Category:Carpenters]] is fine, even though it has a furniture maker and a cabinetmaker in it, although splitting it would be fine as well. I would be fine with either outcome overall. Thoughts? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:30, July 9, 2010 (UTC)
+
+Another thing to consider is all of the onesies-twosies that I didn't do in the great "Nationality (people)" thing. If I remember correctly, there should be about ten new categories if we include them as well. Just a thought.  ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:41, July 9, 2010 (UTC)
+
+I say yes to the nationality one. Also the Servant splitting sounds good too. Carpenters and smiths seem alright.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 17:49, July 13, 2010 (UTC)
+
+== Another thought ==
+
+What do you think about :Category:Stuff that shouldn't be taken too seriously? The only thing that I might possibly think about keeping would be [[Drinking game]], maybe. [[Wotwiki:Editing summaries]] should be re-written to actually help. Thoughts? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:46, July 13, 2010 (UTC)
+
+:Yeah I agree. Yes it's funny but not what we are going for.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 17:49, July 13, 2010 (UTC)
+
+I'll proceed on both fronts. Thanks for your input! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:53, July 13, 2010 (UTC)
+
+== Expansion of the Character template ==
+
+So, in creating and editing a few characters from {{ns}}, something occurred to me. A lot of the characters from that book and the first few are kind of one-time characters. I think that the status of "Alive" could be kind of misleading/confusing. 
+
+What do you think of adding "Last mentioned" and "Last appeared" fields to the character template? Same kind of rules from the first mentions/appeared would apply. "Last appeared" if that is the last time we've seen them, and adding "Last mentioned" if they were subsequently mentioned by another character, so that the "flow" would be first mentioned, first appeared, last appeared, last mentioned.
+
+Do you think that it might also be feasable to categorize them? As in "Alive as of TGS" or "Alive (as of TGS)" or some such. 
+
+I think that this should be hashed out/discussed before implementing it. Thoughts and ideas? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:03, July 16, 2010 (UTC)
+:Hmm. Yeah I think that would be a good idea since I have myself saw characters that said alive when they were mentioned in NS and we have never heard of them again. The last appeared would have like the others right? Like {{TGS|30}} kinda thing right? So how would we categorize it?--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 19:12, July 16, 2010 (UTC)
+
+I a perfect world (''where I could tell my computer to do exactly what I want it to do in plain English and have it understand me'') I would say that characters with one of the fields filled in would be included in the category "Alive (as of TGS)". So, last appeared in {{TGS|30}} would be in the same category as last appeared in {{TGS|1}} and so on. Can this be easily integrated in the character template, I'm not sure. I think it will be the chapter identifier in the <nowiki>{{book|chapter}}</nowiki> template that might give us problems. If it doesn't give us problems, then it should be a simple addition to the character template (and subsequent addition of those fields on the thousand or so character pages) and we'd be in business. If it does give us problems, a second template could be created using coding that switches {{TGS|1}}, {{TGS|2}}, ''ad nauseam'' with whatever the character template needs to properly categorize it. Trying to do all of the switches for 500+ chapters in the character template would add even more clutter than is already there. Does that make sense or do I need to get another cup of coffee? :):) 
+
+Something else that just occured to me as well. Can we have these two new fields read the "status" field to determine whether the person is alive or dead? Since the two new fields would conceivably be used on characters that are dead, it would be kind of counterproductive to have the person in the "Dead" category as well as "Alive (as of TGS)". Case in point: Asmodean. Dead as of TFoH, but mentioned after that. Gotta love complications. :)----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 19:31, July 16, 2010 (UTC)
+
+Conducted a few tests. It looks like we will have to have another template do the switching. I've written one, but I won't upload it until I can figure out how to integrate it into the character template. More to come. :) ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:34, July 16, 2010 (UTC)
+
+Another thing that occured to me. The "Last Mentioned" needs to take precedence over "Last Appeared" where the last mention of a character is in a later book than their last appearence. Case in point: Morgase. Last appeared in {{Kod|30}}, but mentioned in {{Tgs|47}}. She should only be categorized in "Alive (as of TGS)". Do you know of a way to supress the categorization of one of the fields based on the inclusion of another? If we can figure out how to have the status field supress the inclusion of "Alive (as of XXX)", then we can also use that same coding for this one. I've included the fields in the character template, but not the categorization yet. :) ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:23, July 19, 2010 (UTC)
+
+:Wait she should only be in the category TGS alive and not KOD or only KOD because she should be mentioned about being dead? Also would last mentioned always appear after last appeared? Because what if the character is around then leaves for a book or 2 but isn't mentioned? So would the mentioned and last appeared be the same? We can have like if {last mentioned} is not equal to {last appeared} put in category Alive (as of {last mentioned})--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 17:36, July 19, 2010 (UTC)
+
+Morgase should be categorized as "Alive as of TGS" because that was the last time she was mentioned. The thing is, the coding would be present in both the "Last mentioned" and "Last appeared" fields and we would have to find someway of suppressing the "Last appeared" if a "Last mentioned" is present.
+
+Yes, last mentioned would appear after last appeared. The flow would be: First mentioned => First appeared => Last appeared => Last mentioned.
+
+The same rule we use for the firsts would be used for the lasts. For example, if the last time we see a character is also the last time they are mentioned in the books, only the "Last appeared" field would be used. To use Egwene as an example, the last time she is mentioned in the series is also the last time she appeares, so she would only get the "Last appeared" field. 
+
+Basically, we need the two new fields to "read" the "status" field to detirmine if the character is alive. So:
+
+*If status=Dead, then "L.A." and "L.M." do not categorize
+*If status=Unknown/Debateable, then (I'm not sure, thoughts?)
+*If status=Alive, then
+**If "L.A." is used an not "L.M.", then categorize per "L.A." field
+**If "L.A." and/or "L.M." is used, then categorize per "L.M." field
+
+I've posted a request for assistance [http://community.wikia.com/wiki/Forum:Template_and_categorization_help here] and have gotten a response, but it still needs to be worked a little. What he posted gave me an idea. Let me upload the new template I talked about and see where I get with that. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 17:58, July 19, 2010 (UTC)
+
+:Hmm. Yeah Unknown is difficult to categorize that kinda thing. I would say nothing at the moment. Alright yeah go for it. Let me know if you need anything from me.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:21, July 19, 2010 (UTC)
+
+Head hurts and I have to leave for an appointment. I'll try to tackle this later today or tomorrow. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:25, July 19, 2010 (UTC)
+
+I'll see what I can do while your away then.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:29, July 19, 2010 (UTC)
+
+:Alright I think I got something working. It categorizes them using that handy last template you made. Nad it only does if the character is alive and it checks the mentioned first then the appeared.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 19:02, July 19, 2010 (UTC)
+
+YAY!!! It works, mostly. Take a look at [[Romanda Cassin]]. There seems to be an erroneous "<nowiki>[[Category:]]</nowiki>" at the top. Is there an "else" statement that is missing? Maybe in the last part of it near the end of the template code. Other than that, works great!!!!!! Thanks for making it work. I'll start going through the [[:Category:Living|Living category]] and start pluging in book/chapter links. ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:04, July 19, 2010 (UTC)
+
+Also, now that all of the living characters are going to be in "Alive as of XXX" categories, do we also need the "Alive" category to auto-categorize in the template? Seems redundant. Each of the thirteen new categories will be subcategorized under the "Alive" category, right? ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:09, July 19, 2010 (UTC)
+
+:Ah odd. Hmm let me see what I can do. Yeah that makes sense to sub-category them.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:34, July 19, 2010 (UTC)
+Just wanted to let you know it's all up and working I think.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 01:40, July 20, 2010 (UTC)
+
+So first, let me say, that you are a template genius. Getting this to work is awesome!!!
+
+I started going through and updating some characters and it hit me. We still kinda need the Living category. There are some characters that are from the [[RPG]] and [[CCG]] that won't have a "status" category. Is there a way to set the template so that if a L.A. or L.M. field isn't defined, it categorizes the living people in the living category? The characters I can think of off the top of my head are some of the [[Council of Nine]].
+
+I would update it myself, but I don't have the template chops that you do. :)
+
+Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 14:32, July 20, 2010 (UTC)
+
+:Alright got it. If it doesn't have the L.A. or L.M then it categorizes as Living. Thank I do what I can :)--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 18:46, July 20, 2010 (UTC)
+
+You, sir, are awesome! Thanks! ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 18:51, July 20, 2010 (UTC)
+
+== Found it! ==
+
+I know what the problem was. There was some extra lines that got put into the Last template when I added the explination and category. Should be fixed now. Sorry about that! :) ----[[User:Mainphramephreak|<span style="color:#000099;"> '''Willie'''</span>]] - [[User Talk:Mainphramephreak|<span style="color:#990099;">'''''HtS'''''</span>]] 20:11, July 20, 2010 (UTC)
+:AH! Alright I thought I messed something up.--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 20:15, July 20, 2010 (UTC)

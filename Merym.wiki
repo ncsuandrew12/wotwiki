@@ -1,0 +1,30 @@
+{{ character 
+| image=WhiteAjah.png
+| imagesize=250px
+| ajah=White
+| nationality=Arafellin
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| mentioned={{kod|p}}
+| lastmentioned={{kod|p}}
+| living=kod
+| status=Alive
+}}
+'''Merym''' is an [[Aes Sedai]] of the [[White Ajah]]. She is only mentioned in passing and never appears in a scene.
+
+== Strength ==
+Nothing is known about Merym's strength in the One Power.
+
+==Activities==
+She has remained loyal to the [[White Tower]] during the split.
+
+She is one in the group of sisters that take Egwene into custody, when she was discovered blocking the harbor with ''[[cuendillar]]'' weaves.
+
+Merym gallops off with [[Jala Bandevin]] to report to [[Elaida]] just who it is that they have captured.
+
+{{short}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

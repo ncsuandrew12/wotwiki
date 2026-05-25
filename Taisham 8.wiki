@@ -1,0 +1,16 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Taisham}}
+|}
+'''Taisham 8 (December 29)'''
+
+==Events==
+</noinclude>
+*{{ne|979}} - Over a period of time [[Kerene Nagashi]], [[Aisha Raveneos]], [[Valera Gorovni]], [[Ludice Daneen]] and [[Meilyn Arganya]] all leave [[Tar Valon]] to begin their search for the [[Dragon Reborn]].
+*{{ne|1000}} - The [[Two Rivers]] men, with the [[Salidar]] [[Aes Sedai]] led by [[Kiruna]] and [[Bera]], join [[Perrin]]'s forces.
+<noinclude>
+==External links==
+*[[wikipedia:december 29|December 29]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

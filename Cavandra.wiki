@@ -1,0 +1,36 @@
+{{ character 
+| image=Flame-icon.svg
+| imagesize=250px
+| nationality=Unknown nationality
+| ajah=Unknown
+| gender=Female
+| status=Alive
+| rank=Aes Sedai
+| affiliation=White Tower
+| mentioned={{loc|48}}
+| lastmentioned={{loc|48}}
+| living=loc
+}}'''Cavandra''' is an [[Aes Sedai]] sister.{{ref|{{twotc}}, Cavandra|comp}}  Her [[Ajah]] is not known.
+
+==Personality==
+Tylin comments that "Aes Sedai never tell a word more than they absolutely must", marking [[Elayne Trakand]] and [[Nynaeve al'Meara]] as exceptions to that rule. Surprisingly, she also says that she could also talk with Cavandra in the same way, indicating a more relaxed relationship between ruler and advisor.{{ref/book|6|48}}
+
+==Strength and Abilities==
+Cavandra has a [[One Power]] strength of {{opsl|37}}, making her [[Strength in the One Power among Aes Sedai|weak]] for an Aes Sedai. She would be unable to [[Travel]] without linking with another sister.{{ref||comp}}
+
+== History ==
+She was [[Tylin Quintara Mitsobar]]'s [[Aes Sedai advisors|advisor]] before leaving her to go back to the [[White Tower]] after the new [[Amyrlin Seat|Amyrlin]] [[Elaida]] summoned her. Cavandra had been advisor also to Tylin's father when he was king of [[Altara]].{{ref||comp}}
+
+The Companion says she "had limited influence, since she had been advisor to a minor throne for so long". It's unclear if this means that her influence was less because the throne was minor, or it was greater because of her longevity in the position.
+
+==Activities==
+She does not appear in the books, but was a Tower loyalist who returned to Tar Valon on Elaida's summons.{{ref||comp}}
+
+== Trivia ==
+She is the only Aes Sedai of an unknown Ajah whose strength in the One Power is known.
+
+{{notes}}
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

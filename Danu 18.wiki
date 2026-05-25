@@ -1,0 +1,15 @@
+<noinclude>{| align="right"
+|{{Month|December}}
+|{{Wotmonth|Danu}}
+|}
+'''Danu 18 (December 11)'''
+
+==Events==
+</noinclude>
+*{{ne|999}} - [[Coiren]] sends a third note asking to meet [[Rand]]; he declines.
+<noinclude>
+==External links==
+*[[wikipedia:december 11|December 11]]
+
+</noinclude>
+<noinclude>[[Category:Dates]]</noinclude>

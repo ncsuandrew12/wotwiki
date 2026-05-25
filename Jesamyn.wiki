@@ -1,0 +1,43 @@
+{{character 
+| image=NoviceIcon.png
+| imagesize=250px
+| status=Alive
+| nationality=Unknown nationality
+| affiliation=The Kin
+| gender=Female
+| hair=Golden
+| appeared={{amol|p}}
+| lastappeared={{amol|p}}
+| lastmentioned={{amol|1}}
+| living=amol
+}}'''Jesamyn''' is a member of the [[Kin]] serving as a Healer in [[Caemlyn]].{{ref|{{twotc}}, Jesamyn}}
+
+==Appearance and abilities==
+Jesamyn is a youthful looking woman with gold-colored hair.{{ref/book|14|p}}
+
+She is weak in the [[One Power]], requiring three other roughly equally weak women to create a [[gateway]].{{ref/book|14|p}} That means she is quite weak, as some weaker Aes Sedai of middling strength can form a gateway with only two sisters linked.
+
+Despite her weakness she has a talent in the [[healing]] weaves and also she is very effective killing Trollocs with [[fire]] weaves.
+
+==Activities==
+Jesamyn and only three other [[Kinswomen]] were left in [[Caemlyn]] when [[Elayne]] went to the gathering at [[Merrilor]]. None of them could made a gateway on her own, but they could when linked together.
+
+During the [[Siege of Caemlyn]], some [[darkfriend]]s killed two of the other Kinswomen and another was dispersed in the fights so Jesamyn was unable to send a message to the Queen.
+
+Later she helped captain [[Charlz Guybon]] to reach the [[Band of the Red Hand]], attacking the [[Trollocs]] with the One Power.
+
+Then Jesamyn attempted to heal [[Talmanes Delovinde]] of his wound from a [[Thakan'dar]]-forged blade. The [[Healing]], though, was beyond her skill.{{ref/book|14|p}}
+
+Despite being weak with the One Power, she was very useful and not harmless, having been seen to destroy six Trollocs on her own.
+
+She was with the Band of the Red Hand when they turned the [[Dragons]] on [[Caemlyn]]'s walls and blew a hole in them, through which they escaped.
+
+== Trivia ==
+* Jesamyn is named for Jesamyn Angelica, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+
+{{notes}}
+{{short}}
+[[Category:Farm Group]]
+[[Category:Channelers]]
+[[Category:Novices]]
+[[Category:Characters named after fans]]

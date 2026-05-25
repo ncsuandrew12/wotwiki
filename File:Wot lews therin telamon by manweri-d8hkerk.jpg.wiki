@@ -1,0 +1,8 @@
+{{Image
+| License                 = GFDL
+| ImageType1              = Character
+| ImageType2              = Fan Art
+| Description             = A fan interpretation of [[Lews Therin]] clutching [[Ilyena]] in his arms.
+| Source                  = https://www.deviantart.com/manweri/art/WoT-Lews-Therin-Telamon-513235136
+| Artist                  = Michelle Tolo
+}}

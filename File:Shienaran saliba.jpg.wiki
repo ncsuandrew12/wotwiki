@@ -1,0 +1,8 @@
+{{Image
+|ImageType1   = Fan Art
+|License     = GFDL
+| ImageType2 = Character
+|Source      = http://jeremysaliba.blogspot.com/
+|Description = [[Shienaran]] warrior fan art done by Jeremy Saliba.
+|Artist      = Jeremy Saliba
+}}

@@ -1,0 +1,42 @@
+{{character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Unknown nationality
+| title=Gaidin
+| hair=Long, black
+| gender=Male
+| build=Lanky
+| status=Alive
+| occupation=Warder
+| affiliation=White Tower
+| appeared={{tgs|13}} 
+| lastappeared={{amol|18}}
+| living=amol
+}}'''Sleete''' is a [[Warder]] to [[Hattori]].{{ref|{{twotc}}, Sleete}} He is a [[blademaster]].
+
+==Appearance==
+He is long-armed, with rough-hewn features. He has long shadows across his eyes, his chin is cleft, his cheek bones jut out, and his nose is crooked from being broken and not [[Healing|Healed]]. He wears his hair long, with black sideburns. He is lanky.
+
+==History==
+He is well-known in the [[White Tower]] as a near-legendary blademaster. He once bested [[Lan Mandragoran]] in two out of seven rounds. He carries a heron-marked sword.
+
+== Activities ==
+===Recovery===
+He was severely wounded at the [[Battle of Dumai's Wells]], and was separated from Hattori. Barely managing to get on his horse, he rode the animal to a nearby village. The villagers considered turning him over to a group of bandits, who'd been harassing them for survivors of the battle, but the mayor's daughter convinced them to hide him instead. When he was well enough to leave, he sneaked away, as the mayor's daughter may have been getting too fond of him, and some people said he was also getting too fond of her. In return for the village's kindness, he tracked down the bandits who threatened them, and killed them all.
+
+===Dorlan===
+He reunites with Hattori in the village of [[Dorlan]], where the [[Younglings]] are stationed. Alongside [[Marlesh]], he spars with [[Gawyn Trakand]]. After the bout, in which Gawyn proves victorious, he asks Gawyn to become a second Warder to Hattori. Gawyn thanks him, but refuses, and they talk about the [[White Tower Schism|White Tower split]] and the role of a Warder.
+
+Later, he catches Gawyn sneaking away from the Younglings. Although Gawyn is ready to kill him, Sleete promises not to raise an alarm and wishes him luck.
+
+===Investigation===
+He helps Gawyn investigate the mysterious death of [[Kateri Nepvue]].
+
+===The Last Battle===
+Sleete is on guard duty at the [[Field of Merrilor]] and escorts [[Leilwin Shipless]] and [[Bayle Domon]] to [[Nynaeve al'Meara]]'s tent. He is seen leading the White Tower forces reinforcing Gawyn on the [[Kandor]]i front.
+
+{{notes}}
+[[Category:Blademasters]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Dorlan Group]]
+[[Category:Cairhien expedition]]

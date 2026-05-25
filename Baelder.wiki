@@ -1,0 +1,7 @@
+{{Character|image=Aiel-icon.svg
+|name = Baelder|nationality = Aiel|status = Alive|gender = Male|clan = Unknown|sept = Unknown|society = Aethan Dor
+|living=amol}}Baelder was an Aiel Red Shield who fought with Rhuarc in the Last Battle.
+== Trivia ==
+* Baelder is named for Charlie Bachelder, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:Characters named after fans]]

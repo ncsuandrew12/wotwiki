@@ -1,0 +1,9 @@
+'''The Ball and Hoop '''is an inn in [[Caemlyn]]. {{ref/book|6|26}}
+
+{{notes}}
+{{stub}}
+{{DEFAULTSORT:Ball and Hoop}}
+[[Category:Inns]]
+[[Category:Andor]]
+[[Category:Short pages]]
+[[Category:Caemlyn]]

@@ -1,0 +1,32 @@
+{{ character 
+| image=GreenAjah.png
+| imagesize=250px
+| ajah=Green
+| nationality=Unknown nationality
+| gender=Female
+| rank=Aes Sedai
+| affiliation=White Tower
+| mentioned={{amol|18}}
+| lastmentioned={{amol|18}}
+| living=amol
+| status=Alive 
+}}
+
+'''Maerin''' is an [[Aes Sedai]] of the [[Green Ajah]]. 
+
+==History==
+Her tent is large and extravagant, filled with lots of furniture and carpets. She is thought of as one of the Aes Sedai who "were not accustomed to austerity." Few brought as much to the battlefield as she.
+
+Her number of [[Warder]]s is unknown, but due to the amount of luggage she brought, she likely has several.
+
+==Activities==
+She participates in the [[Last Battle]]. 
+
+As part of [[Gawyn Trakand]]'s efforts to protect his Ward, [[Egwene al'Vere]], the [[Amyrlin Seat]], he has her sleep in different tents every night, and during the initial [[White Tower]] offensive into the [[Shadow]]-dominated [[Kandor]], Egwene stays for one night in her tent.
+== Trivia ==
+* Maerin is named for Maureen Sampson, a fan of ''The Wheel of Time''.<ref name="thirteenth-depository">Taglieri, Linda. [http://13depository.blogspot.com/2002/02/character-names-derived-from-readers.html Character Names Derived From Readers' Names]</ref>
+{{notes}}
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]
+[[Category:Characters named after fans]]

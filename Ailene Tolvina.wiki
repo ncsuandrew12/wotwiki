@@ -1,0 +1,23 @@
+{{character 
+| image=KandorFlag.png
+| imagesize=250ps
+| status=Alive
+| nationality=Kandori
+| occupation=Innkeeper
+| gender=Female
+| build=Lean
+| appeared={{Ns|23}}
+| lastappeared={{ns|23}}
+| lastmentioned={{ns|24}}
+| living=ns
+}}
+'''Ailene Tolvina''' is the innkeeper of [[The Evening Star]] in [[Chachin]].
+
+==Appearance==
+She is a lean woman. She is stern and has an air of brooking little nonsense.
+
+==History==
+When [[Siuan Sanche]] arrives in Chachin, she takes a room at The Evening Star. When she finds [[Moiraine Damodred]], Mistress Tolvina has no objections to them sharing a room, so long as the extra is paid. Moiraine and Siuan hire two of Mistress Tolvina's men to escort them for a few hours. Mistress Tolvina would not have let them use her men if the women had gotten themselves in a duel, but to escort them to a banker would be fine as long as the men were paid. She also recommends [[Silene Dorelmin]] as a seamstress to Moiraine. She never curtsies, not even to a very rich person, most likely because she knows that one can be rich at one moment and loose all money in the blink of an eye.
+
+
+{{DEFAULTSORT:Tolvina, Ailene}}

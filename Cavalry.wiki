@@ -1,0 +1,8 @@
+'''Cavalry''' is a type of [[:Category:Military units|military unit]] consisting of mounted soldiers organized for scouting, flanking and/or shock assaults. 
+
+Cavalry is most commonly equipped with [[horse]]s and are organized into [[troop]]s of fifty cavalrymen led by a [[lieutenant]]. Ten troops are organized as a [[squadron]] under the command of a [[captain]]. Three squadrons under the command of a [[Banner-General]] form a [[Banner|Banner of Horse]]. Generally, [[Legion]]s combine cavalry (horse) and [[infantry]] (foot) Banners; "pure" cavalry legions (and higher formations) are almost unheard of.
+
+Cavalrymen are often contemptuous of infantry or foot soldiers.
+
+{{short}}
+[[Category:Military units]]

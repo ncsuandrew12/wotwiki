@@ -1,0 +1,6 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Video Game Screenshots
+| Description        = The [[Bore]].
+| Source             = ''[[The Wheel of Time (video game)|The Wheel of Time]]''
+}}

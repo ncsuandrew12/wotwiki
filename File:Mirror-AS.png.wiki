@@ -1,0 +1,10 @@
+== Summary ==
+{{Image
+| License                 = GFDL
+| ImageType1              = Miscellaneous
+| Description             = Pixelized version of the Aes Sedai chapter art
+
+| Source                  = my own work (through filters)
+| Artist                  = 
+}}
+[[Category:Characters original to the video game]]

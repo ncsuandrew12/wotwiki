@@ -1,0 +1,12 @@
+This page is an archive for [[Wotwiki:Quote of the Day]], organized by feature date for each quote.
+* The quotes listed here are based on the current state of the quote database, and do not necessarily reflect the exact quotes that were featured on any past date, or on any specific future date.
+* To see these same quotes organized by speaker, see [[Wotwiki:Quote of the Day/Archive|Archive]].
+* To make changes to the quotes, see [[Help:Style guide/Quotations#Updating_the_quote_database|Updating the quote database]].
+* To see all quotes, see [[Quotes]]
+
+{{TOCright}}
+{{#invoke:QotD|quote_of_the_day_calendar}}
+
+{{notes}}
+
+[[Category:QOTD|{{PAGENAME}}]]

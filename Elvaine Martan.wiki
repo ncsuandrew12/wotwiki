@@ -1,0 +1,27 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality= Andoran
+| title=Lady
+| affiliation=House Trakand
+| hair=Gray
+| appeared={{kod|17}}
+| lastappeared={{kod|17}}
+| lastmentioned={{kod|32}}
+| living=kod
+| gender=Female
+| status=Alive
+}}{{for|the [[White Tower]] clerk|Martan}}
+'''Elvaine Martan''' is an [[Andoran]] noblewoman.{{ref|{{twotc}}, Elvaine Martan}} She is the wife of [[Brannin Martan]] who is the High Seat of House Martan.
+
+== Appearance ==
+She is gray haired.
+
+== Activities ==
+She is one of the nobles to have thrown their support behind [[Elayne Trakand]] and brought their extended family as armsmen to [[Caemlyn]].
+
+When Elayne is captured by the [[Black Ajah]], Elvaine, Brannin and their armsmen aid [[Birgitte Silverbow]] in rescuing her.
+
+{{notes}}
+{{DEFAULTSORT:Martan, Elvaine}}
+[[Category:Nobility]]

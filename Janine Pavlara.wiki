@@ -1,0 +1,43 @@
+{{character 
+| image=RedAjah.png
+| imagesize=250px
+| ajah=Red
+| nationality=Arafellin
+| rank=Aes Sedai
+| gender=Female
+| affiliation=White Tower
+| status=Alive
+| appeared={{acos|1}}
+| lastappeared={{acos|1}}
+| lastmentioned={{wh|13}}
+| living=wh
+|birth = {{ne|963}}}}
+'''Janine Pavarla''' is an [[Aes Sedai]] of the [[Red Ajah]]. 
+
+== Appearance ==
+She is 5'3" and plump, with large dark eyes and luxuriant black hair, which she wears pulled into a bun on the back of her neck. 
+
+== Strength and Abilities ==
+Janine is of [[Strength in the One Power among Aes Sedai|low average]] strength for an Aes Sedai, with a [[One Power]] level of {{opsl|33}}. She would be unable to [[Traveling|Travel]] without linking with another channeler.
+
+==History==
+She was born in {{ne|963}} and went to the [[White Tower]] in [[978 NE]]. After spending eleven years as a [[novice]] and nine years as [[Accepted]], she was raised to the Red Ajah in [[998 NE]]. Since she is new to the shawl, she has not yet achieved the ageless look.{{ref/book|7|1}} It was for this reason that she, along with [[Beldeine Nyram]] and [[Marith Riven]], was chosen to participate in [[Rand al'Thor]]'s kidnapping.{{ref/book|6|51}}
+
+==Activities==
+She was on the White Tower secret expedition to kidnap [[Rand al'Thor]] in [[Cairhien]].
+
+She was captured by the [[Asha'man]] at the [[Battle of Dumai's Wells]]{{ref/book|6|55}}.
+
+[[Chisaine Nurbaya]], Janine Pavlara, [[Innina Darenhold]] and [[Vayelle Kamsa]] are the last four of the prisoners to swear fealty to Rand{{ref/book|9|13}}. They did so under [[Verin]]'s [[Compulsion]].
+
+As with many Aes Sedai sworn to Rand, Janine probably fought the [[Last Battle]] on the slopes of [[Thakan'dar]]{{ref/book|14|34}}. It is not stated whether she survived or not.
+
+{{notes}}
+
+{{DEFAULTSORT:Pavlara, Janine}}
+[[Category:Rand's Aes Sedai]]
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Middle Ranking Aes Sedai]]
+[[Category:Cairhien expedition]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,29 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Andoran
+| rank=Queen of Andor
+| title=Queen
+| gender=Female
+| mentioned={{twotc}} 
+| death=964
+}}
+
+'''Dolera Mantear ''' was  former Queen of [[Andor]] and High Seat of [[House Mantear]].
+
+==History==
+
+She succeeded her mother as Queen of Andor in {{ne|944}}. Her mother died at aged 78.<ref>[[The Wheel of Time Companion]], Dolera Mantear</ref>
+
+She had one known daughter, [[Mordrellen Mantear]], and four elder sons.<ref>[[The Wheel of Time Companion]], Modrellen Mantear</ref>
+
+[[Gareth Bryne]] became Captain-Commander of the [[Queen's Guards]] under her reign in {{ne|963}}.
+
+Her husband was [[First Prince of the Sword]] until his death in {{ne|963}}. On his death, Gareth Bryne also became [[Captain-General (Andor)|Captain-General]] of Andor and First Prince of the Sword.
+
+Dolera died in {{ne|964}}, succeeded by her daughter Mordrellen.<ref>[[The Wheel of Time Companion]], Gareth Bryne</ref>
+
+{{notes}}
+[[Category:High Seats]]
+[[Category:Character not mentioned in books]]

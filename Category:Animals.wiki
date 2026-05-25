@@ -1,0 +1,2 @@
+'''Animals''' are those creatures that are found in nature, but can also be domesticated.
+[[Category:Non-humans| Animals]]

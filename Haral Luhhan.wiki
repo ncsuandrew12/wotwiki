@@ -1,0 +1,57 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Blacksmith
+| title=Village Councilor
+| gender=Male
+| build=Large, Muscular
+| height=<nowiki>6'5''</nowiki>{{ref||Companion}}
+| affiliation=Two Rivers
+| appeared={{teotw|2}}
+| lastappeared={{amol|44}}
+| lastmentioned={{amol|44}}
+| living=
+| ewot=h luhhan
+| status=Alive
+|birth = {{Ne|950}}{{ref|[[The Wheel of Time Companion]]|Companion}}}}
+'''Haral Luhhan''' is the [[Emond's Field]] blacksmith and also sits on the [[Village Council]]. Master Luhhan is married to [[Alsbet Luhhan]].
+== Appearance and Personality ==
+His arms are nearly as large as most men's legs and are roped with muscle. {{ref/book|1|4}} He has gray in his hair.{{ref/book|14|44}}
+
+He is strong and brave, but pales at the sight of butchering being done.{{ref/book|1|4}}
+
+== History ==
+He is part of the Village Council.{{ref/book|1|2}} He is the only one that can get [[Cenn Buie]] to see reason.{{ref/book|1|4}}
+
+[[Perrin Aybara]] was apprenticed to Master Luhhan in his smithy since his youth.{{ref/book|1|ravens}}
+
+He only once called Perrin a "worthless apprentice". This was when Perrin broke [[Master al'Moor]]'s new scythe blade.{{ref/book|14|44}}
+
+He keeps dogs.
+
+== Activities ==
+His is in a meeting at [[The Winespring Inn]] with the rest of the Village Council when [[Padan Fain]] arrives.{{ref/book|1|2}}
+
+At the beginning of the series, [[Mat Cauthon]] is trying to avoid him because covered two of his dogs with flour in a prank involving ghost hounds and he suspects Haral knows exactly who is to blame.{{ref/book|1|2}}
+
+Perrin tells him about seeing a cloaked man (really a [[Myrddraal]]) in Emond's Field. Haral tells him it was only shadows, but carried around his largest hammer while banking the forge-fire and putting the tools up, something he has never done before.{{ref/book|1|3}}
+
+Master Luhhan was always supportive of Perrin, [[Matrim Cauthon|Mat]] and [[Rand al'Thor]] despite rumors and claims by the [[Children of the Light]] that they were Darkfriends which led to his arrest.
+
+Haral crafted the [[Half-moon axe]] which Perrin carried through most of the series.
+
+Perrin arranges for someone to keep Haral from being bothered while he helps prepare the village against [[Trollocs]] using his blacksmithing skill.{{ref/book|4|45}}
+
+Haral played a key role in defending [[Two Rivers]] by rallying support behind Perrin during the Trolloc raids. He participates in the [[Battle of Emond's Field]].{{ref/book|4|56}}
+
+He rescues an injured Perrin and goes with him to [[Mayene]] where the [[Yellow Ajah]] have set up their base for Healing. He has kind words for Perrin and calls him "a master of the craft".{{Ref/book|14|44}}
+
+<br />
+
+{{notes}}
+{{DEFAULTSORT:Luhhan, Haral}}<references />
+{{DEFAULTSORT:Luhhan, Haral}}
+
+<references />
+{{DEFAULTSORT:Luhhan, Haral}}

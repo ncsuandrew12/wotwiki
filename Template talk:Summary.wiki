@@ -1,0 +1,7 @@
+For instructions on how to use this template, see [[project:Chapter summaries]].
+
+==Discussion==
+Good job on keeping up with the .svg files I've been uploading. Just a note: you haven't added [[:image:Flame-icon.svg]] yet. [[User:Ninjatacoshell|Ninjatacoshell]] 08:10, December 5, 2009 (UTC)
+:Thanks for the heads up. Thanks you for doing such a good job making all of these svg. Keep it up!--[[User:Optimous|<span style="color:blue;">OPTI</span>]][[User_talk:Optimous|<span style="color:red;">MOUS</span>]] 08:19, December 5, 2009 (UTC)
+
+I love your setup, we have a very similar one for our chapter summaries, but it can use some tweaking. I hope you guys won't mind if I "steal" some ideas ;) --[[User:Mbg2|Mbg2]] ([[User talk:Mbg2|talk]]) 10:19, May 23, 2013 (UTC)

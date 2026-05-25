@@ -1,0 +1,26 @@
+{{ character 
+| image=Marac den Norvin.jpg
+| imagesize=250px
+| status=Alive
+| nationality=Illianer
+| affiliation=Council of Nine
+| gender=Male
+| build=Stout
+| appeared={{tpod|13}}
+| lastappeared={{tpod|13}}
+| living=tpod
+}}
+'''Marac den Norvin''' is a nobleman from [[Illian]].{{ref|{{twotc}},Marac Pandelaros den Norvin|Marac}}
+
+== Appearance ==
+He is a stout man. He is wide with a stolid manner.{{ref||Marac}}
+
+He seems more craftsman than lord, despite his rich silks, falls of lace and lavish armor.{{ref||Marac}}
+
+== Activities ==
+He takes the place of Lord Brend on the [[Council of Nine]].{{tpod|13}}
+
+He goes with [[Rand al'Thor]] when Rand tries to deal with the [[Illian]] rebels loyal to Lord Brend.{{tpod|13}}
+
+{{DEFAULTSORT:Norvin, Marac den}}
+[[Category:Nobility]]

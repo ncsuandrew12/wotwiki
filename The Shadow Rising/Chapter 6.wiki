@@ -1,0 +1,83 @@
+{{quote|Power of the Shadow made human flesh{{ref/book|4|2}}<br/>wakened to turmoil, strife and ruin.{{ref|[[Bubbles of evil]]}}<br/>The Reborn One, marked and bleeding,{{ref/book|4|34}}<br/>dances the sword in dreams and mist,{{ref/book|4|26}}<br/>chains the Shadowsworn to his will,{{ref/book|4|58}}{{ref|[[Asmodean]]}}<br/>from the city, lost and forsaken,{{ref/book|4|24}}{{ref|[[Rhuidean]]}}<br/>leads the spears to war once more,{{ref/book|4|49}}{{ref/book|5|7}}<br/>breaks the spears and makes them see,{{ref/book|4|57}}<br/>truth long hidden in the ancient dream.{{ref/book|4|25}}{{ref/book|4|26}}| [[Prophecies of the Dragon]], [[Kandori]] translation}}
+
+{{summary | book=4 |
+|chapter=6
+|title=Doorways
+|icon=Andoran
+|setting=[[Stone of Tear]]
+}}
+
+==Summary==
+: {{pov|[[Elayne Trakand]]}}
+
+[[File:Elayne Trakand.jpg|thumb|left|''"War will come whether [[Rand]] begins it or not. The [[Forsaken]] will not stand idly and wait. [[Sammael]] cannot be the only one to have seized a nation's reins, just the lone we know. They will come after Rand eventually, in their own persons perhaps, but certainly will whatever armies the command. And the nations that are free of the Forsaken? How many will cry glory to the [[Dragon Banner]] and follow him to [[Tarmon Gai'don]], and how many will convince themselves the fall of the [[Stone of Tear|Stone]] is a lie and Rand only another [[False Dragon]] who must be put down, a false Dragon perhaps strong enough to threaten them if they do not move against him first? One way or another, war will come."'' -Elayne]]
+
+[[Moiraine Damodred|Moiraine]]'s anger at [[Rand al'Thor|Rand]]'s stubbornness{{ref/book|4|3}} almost includes the trio of [[Accepted]] until she realizes that the [[Black Ajah]] Sisters are free.{{ref/book|4|5}} After composing herself, Moiraine tells [[Joiya Byir]] that arrangements have been made to transport her and [[Amico Nagoyin]] to [[Tar Valon]] for trial at the [[Traitors' Court]] in four days. These will be their final days to confess what they wish as treatment will be much harsher at the [[White Tower|Tower]]. The two Black Ajah Sisters are clearly afraid of Moiraine. Moiraine sends [[Aviendha]] to fetch the [[Defenders of the Stone|Defenders]] outside and Aviendha takes the opportunity to escape the [[Aes Sedai]]'s foul mood. Moiraine discusses with the captain the special orders for the guards in charge of the confinement; it is clear the Defenders do not know that the prisoners are Aes Sedai. She dismisses them then turns to speak with the Accepted.
+
+Nynaeve berates Moiraine for her lack of participation in the questioning of the [[Darkfriend]]s, but the Aes Sedai coolly puts her in her place. The [[Amyrlin Seat|Amyrlin]] may have charged them with hunting the Black Ajah, but Moiraine is Aes Sedai and still holds authority over them. She then focuses on [[Elayne]], ordering her to pull herself together. The [[Daughter-Heir]] informs everyone that [[Berelain]] was in [[Rand]]'s chambers.{{ref/book|4|2}} Moiraine, believing that the news will hurt Egwene, chides Elayne for her lack of discretion. Egwene and Elayne have a brief whispered conversation in which Egwene wishes Elayne well in her relationship with Rand and they share a laugh at how Moiraine finally got something wrong.
+
+Nynaeve tries to the bring the conversation back to something more important than men. She is still angry that Moiraine is sending the two Black Ajah away when they are not satisfied with the interrogation, as they cannot ascertain the truthfulness of the information that they have been given. Elayne decides to divert Nynaeve's anger by bringing up why they were away from the interrogation for so long and the Aes Sedai speaks of how Rand almost died to a [[bubble of evil]].
+
+Egwene brings the conversation back to the beginning when Moiraine complained about Rand's stubbornness and Moiraine tells the trio that Rand must move, but instead he sits. She shares her plan to have him invade [[Illian]] and fight [[Sammael]]. The Accepted all balk until realization dawns for Elayne. Merciless, Moiraine forces Elayne to explain her rationale to the others. Elayne explains that even if Rand does not attack Sammael, other [[Forsaken]] will likely set themselves up as rulers in other countries and attack him, so war is inevitable. Moiraine knows Elayne did not say all that she has deduced, so Moiraine continues for her and explains that in attacking [[Tear]]'s centuries-old enemy in Illian, Rand will affirm his hold on Tear and Illian will be subjugated as well. After news of such a great victory spreads, the chaos in [[Arad Doman]] and [[Tarabon]] will likely subside and they will declare for him as well; with such a strong coalition, he will gain time to fully learn his abilities.
+
+Moiraine's frustration returns as she explains how, instead of acting so that he maintains the upper hand, the [[Dragon]] sits and reads the [[Prophecies of the Dragon]] for himself. She recalls a verse from the Prophecies and tries to squeeze the meaning to match her plans to have Rand invade Illian. Moiraine is growing desperate, and after some prodding, she tells the trio of a dangerous backup plan to enter the [[twisted redstone doorframe]] to have her questions answered should Rand continue his inaction. She explains the dangers after [[Egwene al'Vere|Egwene]] foolishly says that they could use the answers to solve their dilemma regarding the Black Ajah plans.
+
+Nynaeve questions how Moiraine knows so much about this ''[[ter'angreal]]'' and Moiraine explains that it used to be owned by the [[First of Mayene|Firsts of Mayene]] until it was foolishly gifted to Tear by the First [[Halvar]] about three hundred years ago. The Firsts had allowed the Tower to examine and experiment with it, although their friendly relations with the Aes Sedai are not known openly as Tear has a great dislike for Aes Sedai. Moiraine tells them that they should focus on [[Tanchico]] since she already sent three pigeons to the [[Amyrlin]] explaining the plot to free [[Mazrim Taim]].
+
+After the Aes Sedai's exit, the trio turns their focus back to Rand. Egwene explains that she will tell Rand that she will not marry him. Nynaeve questions Elayne and Elayne affirms that she loves Rand and wishes to marry him. Egwene and Elayne discuss how to pull him away from Berelain. Nynaeve then asks what Elayne will do when they need to leave Tear and be away from Rand; Elayne immediately confirms that she will continue their hunt for the Black Ajah.
+
+==Characters==
+*[[Elayne]]
+*[[Egwene]]
+*[[Nynaeve]]
+*[[Moiraine]]
+*[[Aviendha]] 
+*[[Amico Nagoyin]]
+*[[Joiya Byir]]
+
+===Referenced ===
+*[[Rand]] 
+*[[Lini]]
+*[[Siuan]] - as ''Amyrlin''
+*[[Liandrin]]
+*[[Berelain]] 
+*[[Lan]] 
+*[[Careen]]
+*[[Perrin]]
+*[[Mat]] 
+*[[Sammael]] 
+*[[Morgase]] 
+*[[Rahvin]]
+*[[Lanfear]]
+* [[Halvar]]
+*[[Mazrim Taim]]
+*[[Min]]
+*[[Rhuarc]]
+*[[Else Grinwell]]
+*[[Gaebril]] 
+
+==Places==
+*[[Stone of Tear]]
+
+===Referenced===
+*[[Tear]]
+*[[Two Rivers]]
+*[[Andor]]
+* [[Tar Valon]]
+*[[Mayene]]
+*[[Illian]]
+*[[Cairhien]]
+*[[Tarabon]]
+*[[Arad Doman]]
+*[[Tanchico]]
+
+== Culture==
+*''[[Bili Under the Hill]]''
+
+== Quotes==
+{{quote|Rand al'Thor is a mule-headed, stone-willed fool of a... a... a man! "We breed them that way in the Two Rivers. Two Rivers women never have any trouble with them.|Moiraine & Nynaeve|Rand}}
+
+{{notes}}
+* At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+
+{{DISPLAYTITLE:''Doorways''}}

@@ -1,0 +1,31 @@
+{{ character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Illian
+| title=Gaidin
+| hair=Dark, shoulder length
+| status=Alive
+| gender=Male
+| build=Bulky
+| height=Tall
+| occupation=Warder
+| affiliation=White Tower
+| appeared={{tfoh|27}}
+| lastappeared={{kod|1}}
+| living=kod
+}}
+'''Nuhel Dromand''' is [[Warder]] to [[Myrelle Berengari]], who saved him after the [[Aes Sedai]] to whom he was [[Bonding|bonded]] died. Rumor has it that he may be married to Myrelle.
+
+== Appearance ==
+He is an [[Illianer]], with dark hair to his shoulders and the typical Illian beard leaving his upper lip bare. He is tall, dark, and bulky. He had a thick Illianer accent. His flowing Warder movement seemed odd on him. {{ref|{{twotc}}, Nuhel Dromand}}
+
+== Activities ==
+He is present when [[Egwene al'Vere]] is dressing down Myrelle for hiding [[Lan Mandragoran]] in [[Salidar]]. He is on edge watching Lan practice with the sword and picking up Myrelle's somber mood.
+
+He is guarding Myrelle's tent when [[Siuan Sanche]] arrives with the news that Egwene is still alive inside the [[White Tower]].
+
+
+{{Notes}}
+{{Short}}
+{{DEFAULTSORT:Dromand, Nuhel}}
+[[Category:Rebel Aes Sedai]]

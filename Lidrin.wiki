@@ -1,0 +1,24 @@
+{{Character
+| image=AradDomanFlag.png
+| imagesize=250px
+| affiliation=Dragon Reborn
+| occupation=Soldier
+| title=Lord
+| nationality=Domani
+| eyes=hard
+| death={{ne|1000}}
+| gender=Male
+| status=Dead
+| appeared={{tgs|p}}
+| lastappeared={{tom|21}}
+}}'''Lidrin''' was a young officer from [[Arad Doman]] who served under the command of [[Rodel Ituralde]].{{ref|{{twotc}}, Lidrin}}
+
+== Appearance ==
+He was a young man with a scar on the left side of his face. He wore a fashionable thin black mustache. He had hard eyes.
+
+== Activities ==
+Lidrin was part of Lord Ituralde's strike force that ambushed a [[Seanchan]] army led by General [[Turan]] at the Domani city of [[Darluna]].{{ref/book|12|p}} Lidrin was with Ituralde when they decided to make their last stand in an abandoned [[Ogier]] ''[[stedding]]''. While there, Lidrin the other officers were summoned by Ituralde to meet with [[Rand al'Thor]].{{ref/book|12|10}}
+
+Lidrin was with Ituralde outside [[Maradon]]. During the [[Trolloc]] attack, Lidrin was sent by Ituralde to lead archers to the towers to try and deflect the next attack.{{ref/book|13|18}} As the Trollocs pressed Ituralde's forces back against the walls of Maradon, Lidrin broke down and foolishly charged into the oncoming [[Shadowspawn]], where he was cut down. Lidrin's command was taken up by Lord [[Ankaer]].{{ref/book|13|21}}
+
+{{notes}}

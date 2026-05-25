@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1         = Character
+| Description        = [[Iselle Arrel]].
+| Source             = ''[[New Spring 8]]''.
+| Artist             = Joe Cooper
+| Artist2            = Kieran Oats
+}}

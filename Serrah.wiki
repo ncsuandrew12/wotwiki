@@ -1,0 +1,22 @@
+{{character
+| image=SeanchanFlag.png
+| imagesize=250px
+| height=
+| eyes=
+| hair=
+| occupation=Sul'dam
+| nationality=Seanchan
+| gender=
+| affiliation=Ever Victorious Army
+| status=
+| mentioned=''[[The Wheel of Time Roleplaying Game]]''
+}}
+'''Serrah''' was a [[Seanchan]] ''[[sul'dam]]''.<ref name="RPG">''[[The Wheel of Time Roleplaying Game]]''</ref>
+== History ==
+She aided the [[Ever Victorious Army]] in their occupation of [[Toman Head]], and serves under Lord [[Timak]], stationed in the village of [[Tobin's Hollow]] with her ''[[damane]]'', [[Druu]]. She tests all women to see if they are ''[[marath'damane]]'' by placing an ''[[a'dam]]'' around their neck.<ref name="RPG"/>
+
+{{notes}}
+[[Category:Channelers]]
+[[Category:Ever Victorious Army]]
+[[Category:Learners]]
+[[Category:Characters only mentioned in the RPG]]

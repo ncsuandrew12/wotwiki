@@ -1,0 +1,30 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=Naris
+| status=Alive
+| nationality=Andoran
+| occupation=Maid
+| affiliation=Elayne Trakand
+| gender=Female
+| build=Stocky
+| appeared={{cot|12}}
+| lastappeared={{kod|35}}
+| living=kod
+}}
+'''Naris Pelden''' is a tirewoman in the [[Royal Palace of Andor]]. Her sister is named [[Sephanie Pelden|Sephanie]].
+
+==Appearance==
+Naris is a shy, stocky woman with a square face.
+
+==Activities==
+[[Essande]] hires Naris and her Sephanie when [[Elayne Trakand]] comes to [[Caemlyn]], as they are unlikely to be spies.{{ref/book|10|12}} All three of the women help both Elayne and [[Aviendha]] bathe and dress.{{ref/book|10|13}}{{ref/book|11|15}}
+
+Naris is happy to be a ladies' maid, rather than cleaning the halls. 
+
+She is as awed of Essande as she is of Elayne. She was also awed by the Aiel Wise Ones.
+
+She was reluctant to leave Elayne's rooms when the palace started rearranging itself due to weaknesses in the Pattern, but she did her job anyway.
+
+{{notes}}
+{{DEFAULTSORT:Pelden, Naris}}

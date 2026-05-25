@@ -1,0 +1,21 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| death={{ne|1000}}
+| nationality=Aiel
+| gender=Male
+| affiliation=Sevanna
+| society=Far Aldazar Din
+| clan=Shaido
+| sept=Moshaine
+| status=Dead
+| appeared={{acos|40}}
+| lastappeared={{acos|40}}
+}}
+'''Cairdin''' was an [[Aiel]] from the [[Moshaine]] [[Shaido]]. He was of the [[Brothers of the Eagle]] society. 
+
+== Appearance ==
+He was young.
+
+== Activities ==
+He, along with part of his sept, are dispersed through a [[gateway]] near the [[Plains of Maredo]]. He runs to [[Maeric]] with the news that a huge force of wetlanders are coming towards them. His clan engages the enemy and he probably doesn't survive the exchange.

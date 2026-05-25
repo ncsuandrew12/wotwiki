@@ -1,0 +1,61 @@
+{{quote|The Wheel weaves as the Wheel wills, Perrin. I told you long ago that we were in a war. We cannot stop just because some of us may die. Any of us may die before it is done. Leya's weapons may not be the same as yours, but she knew that when she became part of it.| [[Moiraine Damodred]]}}
+{{dablink|For other uses of the word "news," see [[News]].}}
+{{summary |book=3 |chapter=3 | wotmania=109
+|title=News from the Plain
+|icon=wheel
+|setting=The Dragon's camp in the [[Mountains of Mist]]
+}}
+
+==Summary==
+:{{pov|[[Perrin Aybara]]}}
+
+Perrin again gets the urge to communicate with wolves but suppresses it. He returns to the camp and tells [[Moiraine]] and [[Min]], who are both cross at [[Rand]], that the earthquake was an accident. [[Loial]], [[Uno]] and the [[Shienar]]ans are fixing the damage. Perrin tells Min she should go home, but Min refuses, saying that a thing need not be bad just because it was chosen for her rather than by her. Perrin sees Rand sneaks back into camp. Rand skips dinner so that he doesn't have to come to the campfire and be seen by the Shienarans; he does not wish to lord over them.
+
+Moiraine, [[Lan Mandragoran|Lan]], Uno and Loial join them. Moiraine relates the news from [[Leya]]. [[Almoth Plain]] is in chaos. Hunters for the [[Horn of Valere]] have appeared on the plain, but they won't find the horn since it has already been found. A huge force of [[Whitecloaks]] is pushing out the Taraboners and Domani rather than attacking those following Rand.<ref>[[Jaichim Carridin]] is following the orders of [[Pedron Niall]] from {{3|p}}.</ref> The Whitecloaks seem to be intentionally avoiding the [[Dragonsworn]]; they publicly announce that they will bring down the [[false Dragon]] but always arrive too late to find large bands of Dragonsworn. Loial suggests that Rand could go to his supporters as he wishes then, but Lan is sure that it is some convoluted Whitecloak plot. Three boys resembling Rand have been murdered, probably by [[Gray Men]].
+
+Moiraine feels that Rand's display likely alerted any nearby [[Myrddraal|Fade]], so the guards will need to be on high alert tonight. Perrin skips dinner as well and goes to his hut to sleep. He is part of the watch later and will need to be especially alert. After a while he falls asleep and starts dreaming.
+
+==Characters==
+*[[Perrin Aybara]]
+*[[Moiraine Damodred]]
+*[[Min Farshaw]]
+*[[Lan Mandragoran]]
+*[[Rand al'Thor]]
+*[[Uno Nomesta]]
+*[[Loial]]
+
+===Referenced===
+*[[Leya]]
+*[[Mat Cauthon]]
+
+==Groups==
+*[[Warder]]s
+*[[Aes Sedai]]
+
+===Referenced===
+*[[Trolloc]]s
+*[[Myrddraal]] - as ''Fade''
+*[[Children of the Light]]
+*[[Gray Man|Gray Men]] - as ''Souless''
+
+==Places==
+*[[Mountains of Mist]]
+
+===Referenced===
+*[[Arad Doman]]
+*[[Tarabon]]
+*[[Ghealdan]]
+*[[Baerlon]]
+*[[Illian]]
+*[[Emond's Field]]
+*[[Almoth Plain]]
+
+==Items==
+===Referenced===
+*[[Horn of Valere]]
+
+==Concepts==
+*[[Min's viewings]]
+
+==Notes==
+{{DISPLAYTITLE:''News from the Plain''}}

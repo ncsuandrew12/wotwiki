@@ -1,0 +1,67 @@
+{{quote|You wanted to go off alone. You were warned but you had to go. Never a care for what might be waiting. There are things in dreams to shatter the bravest heart. Things to ''eat'' the bravest heart.| [[Amys]] to [[Egwene]] after finding her in ''tel'aran'rhiod'' alone.}}
+{{summary | book=4 |
+|chapter=35
+|title=Sharp Lessons
+|icon=Aiel
+|setting=[[Tel'aran'rhiod]], [[Chaendaer]]
+}}
+
+==Summary==
+
+:{{pov|[[Egwene al'Vere]]}}
+
+[[Elayne]] is in ''[[Tel'aran'rhiod]]'' garbed as the [[Atha'an Miere|Sea Folk]] are while away from shore when [[Egwene al'Vere|Egwene]] appears. Egwene tells Elayne what has happened at [[Rhuidean]] and that [[Rand]] has plans that he won't share with anyone. Elayne mentions that the Sea Folk believe Rand is their [[Coramoor]] and [[Coine]] is spreading the word to other Sea Folk vessels as they travel toward [[Tanchico]]. They are only two or three days from making it to the port city. Elayne lets slip that some of the [[Windfinder]]s can channel and Egwene confirms that some [[Wise One]]s can too, [[Aviendha]] among them. Elayne is trying to tell Egwene about her letters to Rand when suddenly Egwene is yanked out of ''Tel'aran'rhiod''.
+
+Egwene becomes furious with [[Amys]] for taking her away from the meeting, but Amys is just as furious that Egwene did not keep her word to not go to ''Tel'aran'rhiod'' alone. Amys [[Shielding|blocks]] Egwene from the Source, hangs her by her feet, and appears to transform into a terrible reptile in a dream before letting Egwene come fully awake. Amys threatens to stop teaching Egwene until Egwene promises not to break her word again. As punishment Egwene must braid her hair as a [[Aiel]] child does. After Egwene waits patiently without protest, Amys agrees to accompany her to future meetings with Elayne or [[Nynaeve al'Meara|Nynaeve]].
+
+Amys takes Egwene to a meeting with the other [[Wise One]]s, [[Aviendha]], and [[Moiraine]]. They discuss Rand and how they can maximize the number of Aiel who survive.{{ref|Bair admitted in {{4|34}} that the [[Prophecy of Rhuidean]] states that by following Rand, a remnant of a remnant of the Aiel will survive. The Wise Ones are focused on maximizing the size of that remnant.}} The Wise Ones wish to have an Aiel close to Rand to guide and teach him Aiel customs, so that he does not offend any of the [[Clan chief|chiefs]]. The Wise Ones also need to know what he will do in advance so that they can plan accordingly. They discuss whether Egwene or Moiraine can learn about his plans but the two doubt he will confide in them, and [[Melaine]] points out flatly that their motives are not exactly aligned with those of the [[Aes Sedai]] in any case. [[Aviendha]] is chosen and is furious at the prospect, but won't say why. Aviendha protests mightily and the Wise Ones threaten many punishments until Egwene soothes her and asks her to do it on her and Elayne's behalf. She agrees and Egwene passes on Elayne's message about the letters.{{ref|Elayne tries to tell Egwene to tell Rand that she meant what she said in her first letter, where she addresses him lovingly. The second letter reprimands him, as she wrote it after she was disappointed that Rand did not ask her to stay with him. Egwene did not hear the last part of Elayne's sentence due to her abrupt departure and assumes Elayne was talking about both letters.}}
+
+Egwene asks Moiraine about what she saw in Rhuidean but Moiraine only gives a cryptic response, saying she was already aware of some things that she saw. She mentions her life's work of finding and aiding the [[Dragon Reborn]], a quest that she will see to its end, no matter the cost. Her voice has an air of finality to it.
+
+==Characters==
+*[[Egwene]]
+*[[Elayne]]
+*[[Amys]]
+*[[Moiraine]]
+*[[Aviendha]]
+*[[Bair]]
+*[[Melaine]]
+*[[Seana]]
+
+===Referenced===
+*[[Thom]]
+*[[Juilin]]
+*[[Rand]]
+*[[Lan]]
+*[[Nynaeve]]
+*[[Mat]]
+*[[Rhuarc]]
+*[[Jorin din Jubai White Wing]]
+*[[Coine din Jubai Wild Winds]]
+*[[Couladin]]
+*[[Liandrin]]
+*[[Berelain]]
+*[[Siuan Sanche]]
+
+==Places==
+*''[[Tel'aran'rhiod]]''
+*[[Aiel Waste]]
+*[[Rhuidean]]
+
+===Referenced===
+*[[Alcair Dal]]
+*[[Tear]]
+*[[Great Blight]]
+*[[Blasted Lands]]
+*[[Shayol Ghul]]
+*[[Tanchico]]
+*[[Two Rivers]]
+
+==Items==
+*''[[Callandor]]''
+
+{{notes}}
+*At least one edition has the [[:Image:Wheel-icon.svg|wheel icon]] for this chapter.
+*There is a misprint in this chapter on page 576 of the Tor paperback first printing. When [[Amys]] wakes [[Egwene al'Vere|Egwene]] from travelling in [[Tel'aran'rhiod]], Egwene notes that "[[Nynaeve al'Meara|Nynaeve]]'s blankets are empty," when it is supposed to be [[Moiraine Damodred|Moiraine]]. At this point Nynaeve is with [[Elayne Trakand|Elayne]] on course to [[Tanchico]], and Moiraine is with Egwene in the [[Aiel Waste]]. It is further confirmed on the next page, after Amys leads Egwene to the sweat lodge, she notes that "Moiraine was already there."
+
+{{DISPLAYTITLE:''Sharp Lessons''}}

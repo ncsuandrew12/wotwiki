@@ -1,0 +1,11 @@
+==Purpose of template==
+Standardize the formatting of references to {{Tar}}.
+
+==How to use==
+<code><nowiki>{{Tar}}</nowiki></code>
+
+{{Tar}}
+
+<code><nowiki>{{Tar|no}}</nowiki></code>
+
+{{Tar|no}}

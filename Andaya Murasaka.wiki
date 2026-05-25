@@ -1,0 +1,26 @@
+{{character 
+| image=Sredit.png
+| imagesize=100px
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Entertainer
+| affiliation=Valan Luca
+| gender=Female
+| appeared={{tfoh|47}}
+| lastappeared={{tfoh|47}}
+| living=tfoh
+}}
+{{for|the [[Aes Sedai]] of the [[Gray Ajah]]|Andaya Forae}}
+'''Andaya Murasaka''' is an acrobat.
+
+==History==
+She is one of six sisters who are traveling acrobats called "The Murasaka Sisters" that was with [[Sillia Cerano]]'s show. The sisters look nothing alike, and are not actually related, with it being part of their act as performers.<ref name=comp>[[The Wheel of Time Companion]], Murasaka sisters.</ref>
+
+Her surname, even if it is made up or adopted from another sister, suggests a [[Borderlander]] origin, but it is unconfirmed.
+==Activities==
+She and her five "sisters", one of whom is [[Kuan Murasaka]], join [[Valan Luca's Traveling Show]] when the [[Masema Dagar|Prophet]] has Sillia Cerano flogged for not moving her show fast enough.
+
+{{notes}}
+
+{{short}}
+{{DEFAULTSORT:Murasaka, Andaya}}

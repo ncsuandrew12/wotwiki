@@ -1,0 +1,23 @@
+{{ character 
+| image=Aiel-icon.svg
+| imagesize=200px
+| nationality=Aiel
+| gender=Male
+| build=Heavyset
+| clan=Goshien
+| sept=Unknown sept
+| society=Unknown society
+| status=Alive
+| appeared={{tsr|57}}
+| lastappeared={{tsr|57}}
+| living=tsr
+}}
+'''Mandhuin''' is an [[Aiel]] who is part of the [[Goshien]] clan.
+
+== Appearance ==
+He is heavyset but it is from muscle and not fat.
+
+== Activities ==
+He is present at [[Alcair Dal]] when [[Rand al'Thor]] declares himself the ''[[Car'a'carn]]'' at the same time as [[Couladin]].{{ref/book|4|57}}
+
+{{notes}}

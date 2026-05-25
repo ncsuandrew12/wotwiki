@@ -1,0 +1,25 @@
+{{ Character
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality=Unknown nationality
+| title=Gaidin
+| gender=Male
+| status=Presumed Dead
+| occupation=Warder
+| affiliation=White Tower
+| mentioned={{amol|37}}
+| lastmentioned={{amol|37}}
+| living=amol
+}}
+
+'''Kline''' is a [[Warder]].
+
+==Activities==
+
+After losing his [[Aes Sedai]] during the [[Last Battle]], Kline joins [[Galad Damodred|Galad Damodred's]] forces. He fights with terrible ferocity.{{Ref|{{twotc}}, Kline}}
+
+''"Galad had Ghealdanin, Winged Guardsmen and a couple of Warders under his command. Kline and Alix. Both had lost their Aes Sedai. Galad didn't expect those two to last long, but they were fighting with terrible ferocity." ''{{Ref/book|14|37}}
+
+{{Notes}}
+{{Short}}
+[[Category:Characters named after fans]]

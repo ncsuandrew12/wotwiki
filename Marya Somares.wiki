@@ -1,0 +1,30 @@
+{{character
+| image=GrayAjah.png
+| imagesize=250px
+| ajah=Gray
+| nationality=Tairen
+| gender=Female
+| status=Dead
+| affiliation=White Tower
+| rank=Aes Sedai
+| mentioned={{bwb}}
+| lastmentioned={{twotc}}
+| living=guide
+|height = tall|build = slender|eyes = dark}}'''Marya Somares''' was a Tairen [[Aes Sedai]] of the [[Gray Ajah]].{{ref|{{twotc}}, Marya Somares|Marya}} She had great experience in negotiations.{{ref|{{bwb}}, Ch. 14: The New Era}}
+
+== Appearance ==
+She was tall and slender with dark deep-set eyes.{{Ref||Marya}}
+
+==Activities==
+During the [[Aiel War]], Marya held the [[White Tower]]'s seat on a decision-making council for the [[Grand Alliance]]. She was advised by [[Azil Mareed]], a [[Domani]] and commander of the [[Tower Guard]]. She was the only member of the council to be excluded from field command of the armies of the Alliance, most probably because the aversion to Aes Sedai from the [[Children of the Light]].
+
+She supposedly died in her bed but she was actually killed by the [[Black Ajah]] because she was suspected to be aware of their goals and to be one of the sisters chosen by [[Tamra Ospenya]] to search for the [[Dragon Reborn]].
+
+{{notes}}
+{{DEFAULTSORT:Somares, Marya}}
+
+{{stub}}
+[[Category:Deceased]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Aes Sedai]]

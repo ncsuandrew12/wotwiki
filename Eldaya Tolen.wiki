@@ -1,0 +1,27 @@
+{{character 
+| image=BlueAjah.png
+| imagesize=250px
+| status=Dead
+| death={{Ne|549}}
+| nationality=Unknown nationality
+| rank=Aes Sedai
+| title=[[Amyrlin Seat]]
+| ajah=Blue
+| gender=Female
+| appeared={{bwb}}
+| lastappeared={{bwb}}
+}}'''Eldaya Tolen''' was an [[Aes Sedai]] of the [[Blue Ajah]] raised to the [[Amyrlin Seat]] in the year {{Ne|533}}.
+
+==History==
+Eldaya held the position for sixteen years until her death in {{Ne|549}}. She was [[Beryl Marle]]'s successor and [[Alvera Ramosanya]]'s predecessor.{{ref|{{bwb}}, Chapter 24 The White Tower}}
+
+She was not weak but not strong either. She left [[White Tower|Tower]] affairs to the [[Hall]] as long as she was able to manage her own manipulations elsewhere, which she did quite a lot.
+
+{{notes}}
+{{short}}
+{{DEFAULTSORT:Tolen, Eldaya}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

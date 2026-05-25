@@ -1,0 +1,5647 @@
+{
+	"Adeleas Namelle": {
+		"accepted_years": 5,
+		"aes_sedai_years": 238,
+		"age_enrolled_novice": 17,
+		"age_last": 265,
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Adeleas Namelle",
+		"notes": "Retired 930 NE. Sister to Vandene. Murdered by Careane Fransi.",
+		"novice_years": 5,
+		"wt_schism_faction": "Rebel"
+	},
+	"Adelorna Bastine": {
+		"accepted_years": 11,
+		"aes_sedai_years": 169,
+		"age_enrolled_novice": 17,
+		"age_last": 204,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Adelorna Bastine",
+		"notes": "Captain-General",
+		"novice_years": 7,
+		"origin": "Saldaean",
+		"strength_78": 22,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Adine Canford": {
+		"accepted_years": 11,
+		"aes_sedai_years": 57,
+		"age_enrolled_novice": 15,
+		"age_last": 95,
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Adine Canford",
+		"notes": "Friends with Moiraine and Siuan. Recieves reports on Moiraine's behalf.",
+		"novice_years": 12,
+		"origin": "Andoran"
+	},
+	"Adrielle": {
+		"ajah": "Gray",
+		"channeler": true,
+		"female": true
+	},
+	"Aeldene Stonebridge": {
+		"age_enrolled_novice": 24,
+		"ajah": "Blue",
+		"channeler": true,
+		"female": true,
+		"name": "Aeldene Stonebridge",
+		"wilder": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Aeldene Stonebridge"
+				}
+			],
+			"wilder": true
+		}
+	},
+	"Aeldra Najaf": {
+		"age_last": 200,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Keeper of the Chronicles under Tamra Ospenya.",
+		"origin": "Domani"
+	},
+	"Aelidas": {
+		"ajah": "Red",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "In charge of the mission to capture Mazrim Taim. Only in the Wheel of Time RPG."
+	},
+	"Afara": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Captured by the Seanchan and made damane.",
+		"strength_78": 40,
+		"wt_schism_faction": "Rebel"
+	},
+	"Aiden Shimura": {
+		"aes_sedai_years": 22,
+		"age_enrolled_novice": 18,
+		"age_last": 60,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Aiden Shimura",
+		"notes": "Librarian in 13th Repository. May have been Aes Sedai for more time. May have become Aes Sedai at an older age.",
+		"origin": "Atha'an Miere",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Aisha Raveneos": {
+		"accepted_years": 6,
+		"aes_sedai_years": 252,
+		"age_enrolled_novice": 16,
+		"age_last": 281,
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Aisha Raveneos",
+		"notes": "Murdered by the Black Ajah in 979 NE.",
+		"novice_years": 7,
+		"origin": "Illianer"
+	},
+	"Aisling Noon": {
+		"age_enrolled_novice": 16,
+		"ajah": "Green",
+		"channeler": true,
+		"female": true,
+		"name": "Aisling Noon",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Aisling Noon"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Akarrin Comeris": {
+		"accepted_years": 10,
+		"aes_sedai_years": 163,
+		"age_enrolled_novice": 15,
+		"age_last": 199,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Akarrin Comeris",
+		"notes": "Expert at reading residues sent to Shadar Logoth",
+		"novice_years": 11,
+		"wt_schism_faction": "Rebel"
+	},
+	"Akoure Vayet": {
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Part of the Black Tower force. Turned or dead.",
+		"origin": "Amadician",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Alanna Mosvani": {
+		"accepted_years": 6,
+		"aes_sedai_years": 21,
+		"age_enrolled_novice": 16,
+		"age_last": 79,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Alanna Mosvani",
+		"notes": "Fights Trollocs in Two Rivers. Force bonds Rand al'Thor.",
+		"novice_years": 6,
+		"origin": "Arafellin",
+		"strength_78": 23
+	},
+	"Aledrin Malenry": {
+		"age_enrolled_novice": 14,
+		"ajah": "White",
+		"channeler": true,
+		"female": true,
+		"name": "Aledrin Malenry",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Aledrin Malenry"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Alviarin Freidhen": {
+		"accepted_years": 5,
+		"aes_sedai_years": 31,
+		"age_enrolled_novice": 16,
+		"age_last": 57,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Alviarin Freidhen",
+		"notes": [
+			"Head of the Black Ajah. Former Keeper of the Chronicles",
+			"Held captive in Stedding Sholoon"
+		],
+		"novice_years": 5,
+		"origin": "Amadician",
+		"shadow_controllers": [
+			"Mesaana"
+		],
+		"strength_78": 23,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Amico Nagoyin": {
+		"accepted_years": 4,
+		"aes_sedai_years": 5,
+		"age_enrolled_novice": 17,
+		"age_last": 32,
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Amico Nagoyin",
+		"notes": "Killed by Slayer.",
+		"novice_years": 6,
+		"origin": "Arafellin",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 33,
+		"liandrin's_group": true
+	},
+	"Amira Moselle": {
+		"accepted_years": 9,
+		"aes_sedai_years": 140,
+		"age_enrolled_novice": 16,
+		"age_last": 177,
+		"ajah": "Red",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Amira Moselle",
+		"notes": "Died at Dumai's Wells. Former Sitter. Former Mistress of Novices.",
+		"novice_years": 11,
+		"origin": "Taraboner",
+		"strength_78": 33
+	},
+	"Amylia": {
+		"aes_sedai_years": 5,
+		"age_last": 30,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Voluntary teacher to the Atha'an Miere. May have been Aes Sedai for more time.",
+		"wt_schism_faction": "Rebel"
+	},
+	"Anaiya Carel": {
+		"accepted_years": 7,
+		"aes_sedai_years": 102,
+		"age_enrolled_novice": 15,
+		"age_last": 132,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Anaiya Carel",
+		"notes": "One of the Salidar Six. Likely former First Selector. Murdered by Aran'gar.",
+		"novice_years": 8
+	},
+	"Ananda": {
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Killed during Elaida's coup."
+	},
+	"Andaya Forae": {
+		"accepted_years": 10,
+		"aes_sedai_years": 62,
+		"age_enrolled_novice": 17,
+		"age_last": 99,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Andaya Forae",
+		"notes": "Sitter in the White Tower during and after split.",
+		"novice_years": 10,
+		"origin": "Taraboner",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Angharad Juerissen": {
+		"ajah": "Gray",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Keeper of Chronicles to Sierin Vayu. Only mentioned in the Companion"
+	},
+	"Anlee": {
+		"aes_sedai_years": 150,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"female": true,
+		"notes": "Former Sitter. Only appears in New Spring. Possibly killed in the coup. May have been Aes Sedai for more time."
+	},
+	"Annharid Matoun": {
+		"accepted_years": 6,
+		"aes_sedai_years": 77,
+		"age_enrolled_novice": 15,
+		"age_last": 106,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Annharid Matoun",
+		"notes": "One of the ferrets.",
+		"novice_years": 8,
+		"origin": "Saldaean",
+		"wt_schism_faction": "Rebel"
+	},
+	"Annoura Larisen": {
+		"accepted_years": 10,
+		"aes_sedai_years": 124,
+		"age_enrolled_novice": 16,
+		"age_last": 162,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Annoura Larisen",
+		"notes": "Advisor to the First of Mayene. Burned herself out Travelling.",
+		"novice_years": 12,
+		"origin": "Taraboner"
+	},
+	"Ashmanaille": {
+		"accepted_years": 10,
+		"aes_sedai_years": 61,
+		"age_enrolled_novice": 16,
+		"age_last": 98,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"female": true,
+		"name": "Ashmanaille",
+		"notes": "Can make cuendillar, if slowly.",
+		"novice_years": 11,
+		"wt_schism_faction": "Unaligned"
+	},
+	"Asne Zeramene": {
+		"accepted_years": 8,
+		"aes_sedai_years": 132,
+		"age_enrolled_novice": 16,
+		"age_last": 163,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Asne Zeramene",
+		"notes": "Killed by lightning weave in [[1000 NE]] during kidnapping of [[Elayne Trakand]].",
+		"novice_years": 7,
+		"origin": "Saldaean",
+		"shadow_controllers": [
+			"Be'lal",
+			"Moghedien"
+		],
+		"strength_78": 24,
+		"liandrin's_group": true
+	},
+	"Astrelle": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Arithmetist",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Atuan Larisett": {
+		"accepted_years": 13,
+		"aes_sedai_years": 150,
+		"age_enrolled_novice": 16,
+		"age_last": 191,
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Atuan Larisett",
+		"notes": [
+			"Revealed as Black Ajah by Talene Minly. Presumably executed.",
+			"Captured by Black Ajah Hunters: Presumably executed"
+		],
+		"novice_years": 12,
+		"origin": "Taraboner",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Aviendha": {
+		"channeler": true,
+		"female": true,
+		"spark": {
+			"refs": [
+				{
+					"book": 4,
+					"chapter": 23
+				}
+			],
+			"spark": true
+		}
+	},
+	"Ayako Norsoni": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Part of the Black Tower force. Turned",
+		"origin": "Arafellin",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Barasine": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Sitter in the White Tower"
+	},
+	"Beldeine Nyram": {
+		"accepted_years": 8,
+		"aes_sedai_years": 3,
+		"age_enrolled_novice": 16,
+		"age_last": 34,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Beldeine Nyram",
+		"notes": "Killed by Sharan attack in 1000 NE.",
+		"novice_years": 7,
+		"origin": "Saldaean",
+		"strength_78": 22,
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Beldemaine": {
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Present when Nynaeve Heals Siuan and Leane from stilling.",
+		"origin": "Arafellin",
+		"wt_schism_faction": "Rebel"
+	},
+	"Bennae Nalsad": {
+		"accepted_years": 11,
+		"aes_sedai_years": 160,
+		"age_enrolled_novice": 16,
+		"age_last": 200,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Bennae Nalsad",
+		"notes": "History teacher in the White Tower. Gets in trouble regarding the Thirteenth Depository. May have been Aes Sedai for more time.",
+		"novice_years": 13,
+		"origin": "Shienaran",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Beonin Marinye": {
+		"accepted_years": 5,
+		"aes_sedai_years": 38,
+		"age_enrolled_novice": 16,
+		"age_last": 64,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Beonin Marinye",
+		"notes": "One of the Salidar Six, but in league with Elaida.",
+		"novice_years": 5,
+		"origin": "Taraboner",
+		"wt_schism_faction": "Rebel"
+	},
+	"Bera Harkin": {
+		"accepted_years": 4,
+		"aes_sedai_years": 39,
+		"age_enrolled_novice": 15,
+		"age_last": 62,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Bera Harkin",
+		"notes": "Forced to kneel to the Dragon after Dumai's Wells.",
+		"novice_years": 4,
+		"origin": "Andoran",
+		"strength_78": 20,
+		"wt_schism_faction": "Rebel"
+	},
+	"Berana Shemon": {
+		"accepted_years": 8,
+		"aes_sedai_years": 35,
+		"age_enrolled_novice": 17,
+		"age_last": 70,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Berana Shemon",
+		"notes": "Sitter in the Rebel Hall.",
+		"novice_years": 10,
+		"origin": "Shienaran",
+		"wt_schism_faction": "Rebel"
+	},
+	"Berenicia Morsad": {
+		"accepted_years": 6,
+		"aes_sedai_years": 132,
+		"age_enrolled_novice": 16,
+		"age_last": 162,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Berenicia Morsad",
+		"notes": "Part of the Rebel Aes Sedai's embassy to Rand al'Thor.",
+		"novice_years": 8,
+		"origin": "Shienaran",
+		"wt_schism_faction": "Rebel"
+	},
+	"Berisha Terakuni": {
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Helps capture Egwene. Murdered by Aravine Carnel. May be as weak in the Power as {{opsl|22}}.",
+		"origin": "Arafellin",
+		"strength_78": 20,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Bernaile Gelbarn": {
+		"accepted_years": 9,
+		"aes_sedai_years": 48,
+		"age_enrolled_novice": 17,
+		"age_last": 81,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Bernaile Gelbarn",
+		"notes": "One of the ferrets",
+		"novice_years": 7,
+		"origin": "Taraboner",
+		"wt_schism_faction": "Rebel"
+	},
+	"Berylla Naron": {
+		"accepted_years": 5,
+		"aes_sedai_years": 40,
+		"age_enrolled_novice": 15,
+		"age_last": 67,
+		"ajah": "Blue",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Berylla Naron",
+		"notes": [
+			"Her fate is unknown.",
+			"Presumed dead following the Last Battle"
+		],
+		"novice_years": 7,
+		"origin": "Illianer",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 33,
+		"liandrin's_group": true
+	},
+	"Bethamin": {
+		"female": true,
+		"spark": false
+	},
+	"Bharatine": {
+		"accepted_years": 7,
+		"aes_sedai_years": 48,
+		"age_enrolled_novice": 15,
+		"age_last": 79,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Bharatine",
+		"novice_years": 9,
+		"strength_78": 39,
+		"wt_schism_faction": "Rebel"
+	},
+	"Birlen Pena": {
+		"aes_sedai": {
+			"aes_sedai": true,
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			]
+		},
+		"calendar": "NE",
+		"channeler": {
+			"channeler": true,
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			]
+		},
+		"darkfriend": {
+			"darkfriend": true,
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			]
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"refs": [
+				{
+					"book": 12,
+					"chapter": "e"
+				}
+			],
+			"year": 1000
+		},
+		"name": "Birlen Pena",
+		"notes": "Escaped after the [[Battle of Tar Valon]]",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"verins_list": {
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			],
+			"verins_list": true
+		},
+		"wt_schism_faction": {
+			"refs": [
+				{
+					"book": 12,
+					"chapter": "e"
+				}
+			],
+			"wt_schism_faction": "Loyalist"
+		}
+	},
+	"Bodewhin Cauthon": {
+		"channeler": true,
+		"female": true,
+		"novice": true,
+		"origin": "Two Rivers",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Bodewhin Cauthon"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Brendas": {
+		"accepted_years": 10,
+		"aes_sedai_years": 15,
+		"age_enrolled_novice": 17,
+		"age_last": 54,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Brendas",
+		"notes": "One of the circle that Healed Mat",
+		"novice_years": 12,
+		"wt_schism_faction": "Rebel"
+	},
+	"Cabriana Mecandes": {
+		"age_enrolled_novice": 16,
+		"ajah": "Blue",
+		"channeler": true,
+		"female": true,
+		"name": "Cabriana Mecandes",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Cabriana Mecandes"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Cadsuane Melaidhrin": {
+		"accepted_years": 5,
+		"aes_sedai_years": 269,
+		"age_enrolled_novice": 15,
+		"age_last": 295,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Cadsuane Melaidhrin",
+		"notes": "Legendary sister known for her unconventional methods. Current Amyrlin Seat.",
+		"novice_years": 6,
+		"origin": "Far Madding",
+		"strength_78": 15
+	},
+	"Cairlyn Nesolle": {
+		"accepted_years": 10,
+		"aes_sedai_years": 28,
+		"age_enrolled_novice": 16,
+		"age_last": 64,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Cairlyn Nesolle",
+		"novice_years": 10,
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Caraighan Maconar": {
+		"aes_sedai_years": 130,
+		"age_last": 161,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "AB",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "AB",
+			"year": 373
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "AB",
+			"year": 373
+		},
+		"notes": "Legendary Aes Sedai and archetype of every Green sister. Died 373 AB. May have been Aes Sedai for more time",
+		"strength_78": 9
+	},
+	"Careane Fransi": {
+		"accepted_years": 11,
+		"aes_sedai_years": 51,
+		"age_enrolled_novice": 16,
+		"age_last": 90,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Careane Fransi",
+		"notes": "Murdered [[Adeleas]] and [[Ispan]]. Killed by [[Vandene]] in revenge.",
+		"novice_years": 12,
+		"origin": "Domani",
+		"strength_78": 33,
+		"wt_schism_faction": "Rebel"
+	},
+	"Caren Endelle": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Escaped Dumai's Wells. Only mentioned in the Companion.",
+		"strength_78": 43
+	},
+	"Cariandre Temalien": {
+		"accepted_years": 12,
+		"aes_sedai_years": 28,
+		"age_enrolled_novice": 15,
+		"age_last": 68,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Cariandre Temalien",
+		"notes": "Involved in the illegal gentling of men, but followed orders reluctantly",
+		"novice_years": 13,
+		"origin": "Ghealdanin",
+		"strength_78": 41
+	},
+	"Carlinya Sorevin": {
+		"accepted_years": 5,
+		"aes_sedai_years": 21,
+		"age_enrolled_novice": 15,
+		"age_last": 46,
+		"ajah": "White",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Carlinya Sorevin",
+		"notes": "One of the Salidar Six",
+		"novice_years": 5,
+		"origin": "Kandori",
+		"wt_schism_faction": "Rebel"
+	},
+	"Carniele Emares": {
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Part of the Black Tower force. Likely Turned.",
+		"origin": "Tairen",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Cathal Devore": {
+		"accepted_years": 8,
+		"aes_sedai_years": 26,
+		"age_enrolled_novice": 15,
+		"age_last": 58,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Cathal Devore",
+		"notes": "One of the ferrets. Historian and expert on False Dragons.",
+		"novice_years": 9,
+		"origin": "Ghealdanin",
+		"wt_schism_faction": "Rebel"
+	},
+	"Celestin Eguilera": {
+		"accepted_years": 4,
+		"aes_sedai_years": 15,
+		"age_enrolled_novice": 16,
+		"age_last": 40,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Celestin Eguilera",
+		"notes": "One of the ferrets.",
+		"novice_years": 5,
+		"origin": "Tairen",
+		"wt_schism_faction": "Rebel"
+	},
+	"Cetalia Delarme": {
+		"age_last": 200,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Head of the Blue Ajah network of eyes and ears in 978 NE. Murdered by the Black Ajah.",
+		"origin": "Taraboner"
+	},
+	"Chai Rugan": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Chai Rugan",
+		"notes": "Escaped the [[White Tower]] before she could be executed for being [[Black Ajah]].",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Chesmal Emry": {
+		"accepted_years": 6,
+		"aes_sedai_years": 109,
+		"age_enrolled_novice": 15,
+		"age_last": 137,
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Chesmal Emry",
+		"notes": [
+			"Involved in the murder of Tamra Ospenya.",
+			"Killed by Elayne Trakand."
+		],
+		"novice_years": 7,
+		"origin": "Ghealdanin",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 24,
+		"liandrin's_group": true
+	},
+	"Chisaine Nurbaya": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "One of the last four to swear to Rand.",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"origin": "Domani"
+	},
+	"Coiren Saeldain": {
+		"accepted_years": 6,
+		"aes_sedai_years": 108,
+		"age_enrolled_novice": 16,
+		"age_last": 139,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Coiren Saeldain",
+		"notes": "Head of Embassy from the White Tower.",
+		"novice_years": 9,
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Coladara": {
+		"aes_sedai_years": 12,
+		"age_last": 60,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Advisor to King Paitar of Arafel. May have been as old as 75 in {{ne|1000}}. May have been Aes Sedai for as many as 21 years.",
+		"origin": "Tairen"
+	},
+	"Corele Hovian": {
+		"accepted_years": 5,
+		"aes_sedai_years": 94,
+		"age_enrolled_novice": 18,
+		"age_last": 124,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Corele Hovian",
+		"notes": "One of Cadsuane's followers. Very skilled at Healing.",
+		"novice_years": 7,
+		"origin": "Murandian"
+	},
+	"Covarla Baldene": {
+		"accepted_years": 5,
+		"aes_sedai_years": 50,
+		"age_enrolled_novice": 17,
+		"age_last": 81,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Covarla Baldene",
+		"notes": "Escaped Dumai's Wells",
+		"novice_years": 9,
+		"strength_78": 27
+	},
+	"Dagdara Finchey": {
+		"accepted_years": 5,
+		"aes_sedai_years": 125,
+		"age_enrolled_novice": 15,
+		"age_last": 152,
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Dagdara Finchey",
+		"notes": [
+			"Extremely skilled at Healing. Presumably executed by Egwene.",
+			"Presumed Dead: Executed (Rebel Camp Purge)"
+		],
+		"novice_years": 7,
+		"origin": "Andoran",
+		"strength_78": 25,
+		"wt_schism_faction": "Rebel"
+	},
+	"Daigian Moseneillin": {
+		"accepted_years": 21,
+		"aes_sedai_years": 31,
+		"age_enrolled_novice": 14,
+		"age_last": 93,
+		"ajah": "White",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Daigian Moseneillin",
+		"notes": "Murdered during Semirhage's escape",
+		"novice_years": 27,
+		"origin": "Cairhienin"
+	},
+	"Dalevien": {
+		"aes_sedai_years": 110,
+		"age_last": 150,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"wt_schism_faction": "Loyalist"
+	},
+	"Danelle": {
+		"accepted_years": 7,
+		"aes_sedai_years": 69,
+		"age_enrolled_novice": 15,
+		"age_last": 100,
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Danelle",
+		"notes": "Murdered and identity stolen by Mesaana in 999NE.",
+		"novice_years": 9,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Darea Candwin": {
+		"channeler": true,
+		"female": true,
+		"novice": true,
+		"origin": "Two Rivers",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Darea Candwin"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Deane Aryman": {
+		"accepted_years": 4,
+		"aes_sedai_years": 141,
+		"age_enrolled_novice": 14,
+		"age_last": 164,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "FY",
+		"darkfriend": false,
+		"female": true,
+		"name": "Deane Aryman",
+		"notes": "Former Amyrlin born in Sallie Daera/Salidar. Was Amyrlin for 92 years. Died FY 1084.",
+		"novice_years": 5,
+		"origin": "Shiota"
+	},
+	"Delana Mosalaine": {
+		"accepted_years": 5,
+		"aes_sedai_years": 22,
+		"age_enrolled_novice": 18,
+		"age_last": 50,
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Delana Mosalaine",
+		"notes": [
+			"[[Sitter]] in the rebel Hall.",
+			"Took orders from [[Aran'gar]].",
+			"Balefired at [[Natrin's Barrow]] by [[Rand al'Thor]]"
+		],
+		"novice_years": 5,
+		"origin": "Shienaran",
+		"shadow_controllers": [
+			"Aran'gar"
+		],
+		"strength_78": 24,
+		"wt_schism_faction": "Rebel"
+	},
+	"Demira Eriff": {
+		"accepted_years": 8,
+		"aes_sedai_years": 36,
+		"age_enrolled_novice": 17,
+		"age_last": 70,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Demira Eriff",
+		"notes": "Part of the Rebel Aes Sedai's embassy to Rand al'Thor",
+		"novice_years": 9,
+		"origin": "Domani",
+		"wt_schism_faction": "Rebel"
+	},
+	"Desala Nevanche": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Went to the Black Tower with Pevara. Turned.",
+		"origin": "Cairhienin"
+	},
+	"Desandre Alraed": {
+		"accepted_years": 7,
+		"aes_sedai_years": {
+			"lower_limit": {
+				"lower_limit": 15,
+				"refs": [
+					"[[Desandre]] was an [[Accepted]] in [[978 NE]] and spent 7 years as Accepted. Therefore, she must have been raised Aes Sedai no later than [[985 NE]].",
+					{
+						"book": "ns",
+						"chapter": 4
+					}
+				]
+			},
+			"upper_limit": {
+				"upper_limit": 22,
+				"refs": [
+					"[[Desandre]] was an [[Accepted]] in [[978 NE]] and must have been raised Aes Sedai no earlier than then.",
+					{
+						"book": "ns",
+						"chapter": 4
+					}
+				]
+			}
+		},
+		"age_enrolled_novice": {
+			"age_enrolled_novice": 15,
+			"ref": [
+				"Typical age of enrollment."
+			]
+		},
+		"age_last": {
+			"lower_limit": {
+				"lower_limit": 42,
+				"refs": [
+					"[[Desandre]] was an [[Accepted]] in [[978 NE]] and spent 6 years as a novice. She probably did not enroll as a novice before 14.",
+					{
+						"book": "ns",
+						"chapter": 4
+					}
+				]
+			},
+			"upper_limit": {
+				"upper_limit": 53,
+				"refs": [
+					"[[Desandre]] was an [[Accepted]] in [[978 NE]] and must have been raised [[Aes Sedai]] no earlier than then. She spent 13 combined years as [[novice]] and [[Accepted]]. She probably did not enroll as a novice after 18.",
+					{
+						"book": "ns",
+						"chapter": 4
+					}
+				]
+			}
+		},
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Desandre Alraed",
+		"notes": "Part of the Black Tower force. Likely Turned. [[Desandre]] was an [[Accepted]] in [[978 NE]] ({{ns|4}})",
+		"novice_years": 6,
+		"origin": "Ghealdanin",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Doesine Alwain": {
+		"age_enrolled_novice": 15,
+		"ajah": "Yellow",
+		"channeler": true,
+		"female": true,
+		"name": "Doesine Alwain",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Doesine Alwain"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Doraise Mesianos": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"origin": "Illianer",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Duhara Basaheen": {
+		"accepted_years": 9,
+		"aes_sedai_years": 200,
+		"age_enrolled_novice": 15,
+		"age_last": 236,
+		"ajah": "Red",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Duhara Basaheen",
+		"notes": [
+			"[[Sitter]] in the [[White Tower]].",
+			"Former [[Keeper of the Chronicles]].",
+			"Killed by [[Aviendha]] at the [[Last Battle]]."
+		],
+		"novice_years": 12,
+		"origin": "Domani",
+		"strength_78": 29,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Eadyth": {
+		"age_last": 200,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"female": true,
+		"notes": "Former First Selector and Sitter. Presumably dead from old age."
+	},
+	"Edesina Azzedin": {
+		"accepted_years": 10,
+		"aes_sedai_years": 20,
+		"age_enrolled_novice": 15,
+		"age_last": 56,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Edesina Azzedin",
+		"notes": "Captured and made damane in Tarabon, but freed by Mat.",
+		"novice_years": 11,
+		"wt_schism_faction": "Rebel"
+	},
+	"Egwene al'Vere": {
+		"ajah": "NA",
+		"channeler": true,
+		"female": true,
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Egwene al'Vere"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Elaida do Avriny a'Roihan": {
+		"age_enrolled_novice": 17,
+		"ajah": "Red",
+		"channeler": true,
+		"female": true,
+		"name": "Elaida do Avriny a'Roihan",
+		"wilder": {
+			"wilder": false
+		}
+	},
+	"Elaiva Walfor": {
+		"accepted_years": 8,
+		"aes_sedai_years": 160,
+		"age_enrolled_novice": 16,
+		"age_last": 194,
+		"ajah": "Gray",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Elaiva Walfor",
+		"notes": "Only mentioned in the Companion.",
+		"novice_years": 10,
+		"origin": "Andoran",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Rebel"
+	},
+	"Elayne Trakand": {
+		"age_enrolled_novice": 17,
+		"ajah": "Green",
+		"alive": true,
+		"birth_year": {
+			"calendar": "NE",
+			"year": 981
+		},
+		"channeler": true,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Elayne Trakand",
+		"origin": "Andoran",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Elayne Trakand"
+				}
+			],
+			"spark": true
+		},
+		"strength_78": 14,
+		"wt_schism_faction": "Rebel"
+	},
+	"Eldrith Jhondar": {
+		"accepted_years": 7,
+		"aes_sedai_years": 80,
+		"age_enrolled_novice": 17,
+		"age_last": 116,
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Eldrith Jhondar",
+		"notes": "Killed during escape from [[Caemlyn]] by [[Daved Hanlon]] in [[1000 NE]].",
+		"novice_years": 12,
+		"origin": "Amadician",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 22,
+		"liandrin's_group": true
+	},
+	"Elin Warrel": {
+		"accepted_years": 14,
+		"aes_sedai_years": 1,
+		"age_enrolled_novice": 18,
+		"age_last": 47,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Elin Warrel",
+		"notes": "The oldest Accepted in the Tower before her raising in 1000 NE. May have been Aes Seda for less time.",
+		"novice_years": 15,
+		"origin": "Andoran",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Elle": {
+		"channeler": true,
+		"female": true,
+		"novice": true,
+		"origin": "Two Rivers",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Elle"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Elza Penfell": {
+		"accepted_years": 10,
+		"aes_sedai_years": 87,
+		"age_enrolled_novice": 17,
+		"age_last": 126,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Elza Penfell",
+		"notes": [
+			"Captured at [[Dumai's Wells]].",
+			"Killed along with [[Semirhage]] by [[Rand]] using [[balefire]]."
+		],
+		"novice_years": 12,
+		"origin": "Andoran",
+		"shadow_controllers": [
+			"Semirhage"
+		],
+		"strength_78": 31,
+		"sworn_to_rand": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Erian Boroleos": {
+		"accepted_years": 5,
+		"aes_sedai_years": 22,
+		"age_enrolled_novice": 15,
+		"age_last": 49,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Erian Boroleos",
+		"novice_years": 7,
+		"origin": "Illianer",
+		"strength_78": 23,
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Escaralde Hamdey": {
+		"accepted_years": 9,
+		"aes_sedai_years": 41,
+		"age_enrolled_novice": 15,
+		"age_last": 73,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Escaralde Hamdey",
+		"notes": "Sitter in the Rebel Hall.",
+		"novice_years": 8,
+		"origin": "Far Madding",
+		"wt_schism_faction": "Rebel"
+	},
+	"Ester Stepashin": {
+		"accepted_years": 8,
+		"aes_sedai_years": 13,
+		"age_enrolled_novice": 17,
+		"age_last": 45,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Ester Stepashin",
+		"notes": "One of the ferrets. Only mentioned in the Companion",
+		"novice_years": 7,
+		"origin": "Illianer",
+		"strength_78": 22,
+		"wt_schism_faction": "Rebel"
+	},
+	"Evanellein": {
+		"ajah": "Gray",
+		"calendar": "NE",
+		"name": "Evanellein",
+		"notes": [
+			"Dead: Killed by Egwene al'Vere in the Battle in Tel'aran'rhiod"
+		],
+		"shadow_controllers": [
+			"Mesaana"
+		],
+		"strength_78": 26,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Evanellein Lorn": {
+		"accepted_years": 6,
+		"aes_sedai_years": 115,
+		"age_enrolled_novice": 17,
+		"age_last": 145,
+		"ajah": "Gray",
+		"calendar": "NE",
+		"darkfriend": {
+			"darkfriend": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"female": true,
+		"name": "Evanellein Lorn",
+		"notes": "Sitter in the White Tower. Killed by Egwene.",
+		"novice_years": 7,
+		"origin": "Andoran",
+		"status": {
+			"alive": false,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"verins_list": {
+			"refs": [
+				{
+					"book": 12,
+					"chapter": "e"
+				},
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			],
+			"verins_list": true
+		},
+		"wt_schism_faction": "Loyalist"
+	},
+	"Faeldrin Harella": {
+		"accepted_years": 5,
+		"aes_sedai_years": 38,
+		"age_enrolled_novice": 15,
+		"age_last": 63,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Faeldrin Harella",
+		"notes": "Part of the Rebel Aes Sedai's embassy to Rand al'Thor. Killed by Graendal.",
+		"novice_years": 5,
+		"origin": "Taraboner",
+		"strength_78": 22,
+		"wt_schism_faction": "Rebel"
+	},
+	"Faiselle Darone": {
+		"accepted_years": 10,
+		"aes_sedai_years": 135,
+		"age_enrolled_novice": 16,
+		"age_last": 171,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Faiselle Darone",
+		"notes": "Sitter in the White Tower and Rebel Hall.",
+		"novice_years": 10,
+		"origin": "Domani",
+		"strength_78": 26,
+		"wt_schism_faction": "Rebel"
+	},
+	"Falion Bhoda": {
+		"accepted_years": 6,
+		"aes_sedai_years": 98,
+		"age_enrolled_novice": 16,
+		"age_last": 127,
+		"ajah": "White",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Falion Bhoda",
+		"notes": "Killed by [[Aviendha]] during the [[Last Battle]].",
+		"novice_years": 7,
+		"origin": "Kandori",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 23,
+		"liandrin's_group": true
+	},
+	"Faolain Orande": {
+		"accepted_years": 5,
+		"aes_sedai_years": 1,
+		"age_enrolled_novice": 16,
+		"age_last": 30,
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Faolain Orande",
+		"notes": "Raised to Aes Sedai by decree in 999 NE by Egwene al'Vere. May have been Aes Seda for less time.",
+		"novice_years": 8
+	},
+	"Farellien": {
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Rewarded by Elaida at Alviarin's insistence to create animosity.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Farnah Sadaou": {
+		"aes_sedai_years": 100,
+		"age_last": 130,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Sitter in the White Tower. Replaced Talene Minly. May have been Aes Sedai for more time. May have been born earlier.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Felaana Bevaine": {
+		"accepted_years": 7,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"novice_years": 8,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Fera Sormen": {
+		"accepted_years": 9,
+		"aes_sedai_years": 96,
+		"age_enrolled_novice": 18,
+		"age_last": 136,
+		"ajah": "White",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Fera Sormen",
+		"notes": [
+			"Presumed Dead"
+		],
+		"novice_years": 13,
+		"strength_78": 39,
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Ferane Neheran": {
+		"accepted_years": 6,
+		"aes_sedai_years": 243,
+		"age_enrolled_novice": 15,
+		"age_last": 273,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Ferane Neheran",
+		"notes": "First Reasoner and long-standing Sitter",
+		"novice_years": 9,
+		"origin": "Domani",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Gabrelle Brawley": {
+		"accepted_years": 6,
+		"aes_sedai_years": 70,
+		"age_enrolled_novice": 15,
+		"age_last": 98,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Gabrelle Brawley",
+		"notes": "Part of the Black Tower force. Urged Logain to break the Seals.",
+		"novice_years": 7,
+		"origin": "Murandian",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Galina Casban": {
+		"age_enrolled_novice": 16,
+		"ajah": "Red",
+		"calendar": "NE",
+		"channeler": true,
+		"darkfriend": true,
+		"female": true,
+		"name": "Galina Casban",
+		"notes": [
+			"Gai'shain of the Shaido Aiel"
+		],
+		"shadow_controllers": [
+			{
+				"name": "Mesaana",
+				"refs": [
+					"Galina's controller is unknown, but most likely Mesaana due to her being a high-ranking [[Black Ajah]] in the Tower prior to the departure of the delegation to Rand."
+				]
+			}
+		],
+		"strength_78": 20,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Gelarna": {
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Saves Leane Sharif from a bubble of evil.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Gitara Moroso": {
+		"accepted_years": 7,
+		"aes_sedai_years": 276,
+		"age_enrolled_novice": 17,
+		"age_last": 306,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Gitara Moroso",
+		"notes": "Keeper under Tamra Ospenya. Died in 978 NE Foretelling the Dragon was Reborn.",
+		"novice_years": 6
+	},
+	"Guisin": {
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Captured by the Seanchan and made damane.",
+		"wt_schism_faction": "Rebel"
+	},
+	"Gyldan": {
+		"ajah": "Red",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"notes": "Appears during Egwene's Accepted test."
+	},
+	"Haesel Lusara": {
+		"accepted_years": 4,
+		"aes_sedai_years": 95,
+		"age_enrolled_novice": 13,
+		"age_last": 122,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Haesel Lusara",
+		"notes": "One of the ferrets. Said she was 15 when enrolled in the Novice book.",
+		"novice_years": 10,
+		"origin": "Murandian",
+		"wt_schism_faction": "Rebel"
+	},
+	"Hattori Gatano": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Escaped Dumai's Wells. May be weaker in the Power. All the sisters that escaped Dumai's Wells and were sent to Dorlan are equal to or weaker than [[Covarla Baldene]].",
+		"origin": "Illianer",
+		"strength_78": 28,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Innina Darenhold": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "One of the last four to swear to Rand.",
+		"origin": "Taraboner",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true
+	},
+	"Irgain Fatamed": {
+		"accepted_years": 6,
+		"aes_sedai_years": 42,
+		"age_enrolled_novice": 15,
+		"age_last": 69,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Irgain Fatamed",
+		"notes": "Stilled at Dumai's Wells. Later Healed by Damer Flinn",
+		"novice_years": 6,
+		"origin": "Domani",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Ispan Shefar": {
+		"accepted_years": 8,
+		"aes_sedai_years": 78,
+		"age_enrolled_novice": 17,
+		"age_last": 109,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Ispan Shefar",
+		"notes": [
+			"Captured in [[Ebou Dar]].",
+			"Murdered along with [[Adeleas Namelle]] by [[Careane Fransi]]"
+		],
+		"novice_years": 6,
+		"origin": "Taraboner",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 23,
+		"liandrin's_group": true
+	},
+	"Jahar Narishma": {
+		"channeler": true,
+		"male": true,
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Jahar Narishma"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Jala Bandevin": {
+		"aes_sedai_years": 160,
+		"age_last": 200,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Captured Egwene at South Harbour May have been Aes Sedai for more time. May have been born earlier.",
+		"origin": "Cairhienin",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Jamilila Norsish": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Captured and made damane. Very weak in the One Power."
+	},
+	"Jancy Torfinn": {
+		"channeler": true,
+		"female": true,
+		"novice": true,
+		"origin": "Two Rivers",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Jancy Torfinn"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Janine Pavlara": {
+		"accepted_years": 9,
+		"aes_sedai_years": 2,
+		"age_enrolled_novice": 15,
+		"age_last": 37,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Janine Pavlara",
+		"notes": "One of the last four to swear to Rand.",
+		"novice_years": 11,
+		"origin": "Arafellin",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"strength_78": 33
+	},
+	"Janya Frende": {
+		"accepted_years": 12,
+		"aes_sedai_years": 149,
+		"age_enrolled_novice": 16,
+		"age_last": 184,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Janya Frende",
+		"notes": "Sitter in the White Tower and Rebel Hall.",
+		"novice_years": 7,
+		"origin": "Andoran",
+		"wt_schism_faction": "Rebel"
+	},
+	"Jarna Malari": {
+		"aes_sedai_years": 190,
+		"age_last": 223,
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Jarna Malari",
+		"notes": [
+			"Former Head of the [[Black Ajah]].",
+			"Killed by Ishamael in [[983 NE]].",
+			"May have been Aes Sedai for more time."
+		],
+		"wt_schism_faction": "Loyalist"
+	},
+	"Javindhra Doraille": {
+		"accepted_years": 5,
+		"aes_sedai_years": 131,
+		"age_enrolled_novice": 16,
+		"age_last": 158,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Javindhra Doraille",
+		"notes": "Sitter in the White Tower. Went with Pevara to Bond Asha'man. Turned.",
+		"novice_years": 6,
+		"origin": "Cairhienin",
+		"strength_78": 31
+	},
+	"Jeaine Caide": {
+		"accepted_years": 6,
+		"aes_sedai_years": 60,
+		"age_enrolled_novice": 16,
+		"age_last": 88,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Jeaine Caide",
+		"notes": "Killed by [[Thom Merrillin]] at the entrance to the [[Pit of Doom]].",
+		"novice_years": 6,
+		"origin": "Domani",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 24,
+		"liandrin's_group": true
+	},
+	"Jenare Balmaen": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Part of the Black Tower force. Turned.",
+		"strength_78": 31
+	},
+	"Jennet Cobb": {
+		"accepted_years": 9,
+		"aes_sedai_years": 96,
+		"age_enrolled_novice": 15,
+		"age_last": 130,
+		"ajah": "Gray",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Jennet Cobb",
+		"notes": "One of the ferrets. Basel Gill is a distant relative.",
+		"novice_years": 10,
+		"origin": "Andoran",
+		"wt_schism_faction": "Rebel"
+	},
+	"Jesse Bilal": {
+		"accepted_years": 10,
+		"aes_sedai_years": 211,
+		"age_enrolled_novice": 16,
+		"age_last": 248,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Jesse Bilal",
+		"notes": "First Chair of the Brown Ajah Council. Former Sitter.",
+		"novice_years": 11,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Jezrail": {
+		"age_last": 100,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Went to the Black Tower with Pevara. Turned. May have been born earlier",
+		"origin": "Tairen"
+	},
+	"Joiya Byir": {
+		"accepted_years": 11,
+		"aes_sedai_years": 135,
+		"age_enrolled_novice": 16,
+		"age_last": 171,
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Joiya Byir",
+		"notes": "Killed by [[Slayer]] in the [[Stone of Tear]] in [[999 NE]].",
+		"novice_years": 9,
+		"origin": "Andoran",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 34,
+		"liandrin's_group": true
+	},
+	"Joline Maza": {
+		"accepted_years": 5,
+		"aes_sedai_years": 75,
+		"age_enrolled_novice": 14,
+		"age_last": 101,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Joline Maza",
+		"notes": "Sitter in the White Tower. Unchaired and sent to Ebou Dar by Elaida.",
+		"novice_years": 7,
+		"strength_78": 23,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Josaine": {
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Killed during Seanchan attack on the Tar Valon.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Juilaine Madome": {
+		"age_enrolled_novice": 16,
+		"ajah": "Brown",
+		"channeler": true,
+		"female": true,
+		"name": "Juilaine Madome",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Juilaine Madome"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Kairen Stang": {
+		"accepted_years": 8,
+		"aes_sedai_years": 32,
+		"age_enrolled_novice": 15,
+		"age_last": 63,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Kairen Stang",
+		"notes": "Part of the Rebel Aes Sedai's embassy to Rand al'Thor. Murdered by Aran'gar.",
+		"novice_years": 8,
+		"origin": "Andoran"
+	},
+	"Karale Sanghir": {
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Karale Sanghir",
+		"notes": [
+			"Revealed as Black Ajah by Atuan Larisett and sworn to obey the Black Ajah hunters.",
+			"Captured by Black Ajah Hunters: Presumably executed"
+		],
+		"origin": "Domani",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Kateri Nepvue": {
+		"aes_sedai_years": 20,
+		"age_last": 45,
+		"ajah": "White",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Murdered by Bloodknives Assumes she is raised to full Aes Sedai between the ages of 25 and 45. Some exceptions lie beyond this range.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Katerine Alruddin": {
+		"accepted_years": 7,
+		"aes_sedai_years": 18,
+		"age_enrolled_novice": 17,
+		"age_last": 50,
+		"ajah": "Red",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Katerine Alruddin",
+		"notes": [
+			"Captured at [[Dumai's Wells]], but escaped.",
+			"[[Mistress of Novices]].",
+			"Killed by [[Egwene al'Vere]] in the [[Battle in Tel'aran'rhiod]]."
+		],
+		"novice_years": 8,
+		"shadow_controllers": [
+			"Mesaana"
+		],
+		"strength_78": 21,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Kera Haellin": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"origin": "Tairen",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Kerene Nagashi": {
+		"accepted_years": 7,
+		"aes_sedai_years": 156,
+		"age_enrolled_novice": 16,
+		"age_last": 186,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 979
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 979
+		},
+		"name": "Kerene Nagashi",
+		"notes": "Captain-General. Murdered by the Black Ajah in 979 NE.",
+		"novice_years": 7,
+		"strength_78": 17
+	},
+	"Kiruna Nachiman": {
+		"accepted_years": 4,
+		"aes_sedai_years": 39,
+		"age_enrolled_novice": 14,
+		"age_last": 61,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Kiruna Nachiman",
+		"notes": "Sister to the King of Arafel. Killed by Graendal.",
+		"novice_years": 4,
+		"origin": "Arafellin",
+		"strength_78": 20,
+		"wt_schism_faction": "Rebel"
+	},
+	"Kiyoshi": {
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"wt_schism_faction": "Loyalist"
+	},
+	"Kryalyn": {
+		"ajah": "Red",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"notes": "Second in command of the team capturing Taim. Only in the WoT RPG."
+	},
+	"Kumira Dhoran": {
+		"accepted_years": 9,
+		"aes_sedai_years": 82,
+		"age_enrolled_novice": 16,
+		"age_last": 114,
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Kumira Dhoran",
+		"notes": "One of Cadsuane's followers. Killed by Graendal at the Cleansing of saidin.",
+		"novice_years": 7,
+		"origin": "Shienaran"
+	},
+	"Kwamesa Taramasu": {
+		"accepted_years": 4,
+		"aes_sedai_years": 26,
+		"age_enrolled_novice": 15,
+		"age_last": 50,
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Kwamesa Taramasu",
+		"notes": "Sitter in the Rebel Hall. Killed by Demandred.",
+		"novice_years": 5,
+		"origin": "Arafellin",
+		"wt_schism_faction": "Rebel"
+	},
+	"Laigin Arnault": {
+		"ajah": "Red",
+		"alive": false,
+		"calendar": "NE",
+		"died_year": {
+			"calendar": "NE",
+			"year": 999
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 999
+		},
+		"notes": "Died at Dumai's Wells.",
+		"origin": "Taraboner"
+	},
+	"Lairain": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Instructs prospective Amyrlins in the raising ceremony.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Larelle Tarsi": {
+		"aes_sedai_years": 220,
+		"age_last": 247,
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Murdered by Merean Redhill in 979 NE. May have been Aes Sedai for more time.",
+		"origin": "Domani"
+	},
+	"Larissa Lyndel": {
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Larissa Lyndel",
+		"notes": [
+			"An Aes Sedai fighting over Nynaeve when she Heals Stilling. Presumably executed.",
+			"Presumed Dead: Executed (Rebel Camp Purge)"
+		],
+		"strength_78": 34,
+		"wt_schism_faction": "Rebel"
+	},
+	"Leane Sharif": {
+		"accepted_years": 4,
+		"aes_sedai_years": 24,
+		"age_enrolled_novice": 15,
+		"age_last": 48,
+		"ajahs": [
+			"Blue",
+			"Green"
+		],
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Leane Sharif",
+		"notes": "Keeper of the Chronicles under Siuan Sanche. Stilled, but later Healed by Nynaeve.",
+		"novice_years": 5,
+		"origin": "Domani",
+		"strength_78": [
+			{
+				"refs": [
+					{
+						"book": "twotc",
+						"entry": "Leane Sharif"
+					}
+				],
+				"strength_78": 20
+			},
+			{
+				"refs": [
+					{
+						"book": "twotc",
+						"entry": "Leane Sharif"
+					}
+				],
+				"strength_78": 42
+			}
+		],
+		"wt_schism_faction": "Rebel"
+	},
+	"Lelaine Akashi": {
+		"accepted_years": 6,
+		"aes_sedai_years": 145,
+		"age_enrolled_novice": 17,
+		"age_last": 173,
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Lelaine Akashi",
+		"notes": "Likely current First Selector. Sitter in the rebel and White Tower Halls.",
+		"novice_years": 5,
+		"origin": "Kandori"
+	},
+	"Lemai Ambani": {
+		"accepted_years": 8,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Part of the Black Tower force.",
+		"novice_years": 6,
+		"strength_78": 21
+	},
+	"Lemore Genhal": {
+		"channeler": true,
+		"female": true,
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Lemore Genhal"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Liandrin Guirale": {
+		"accepted_years": 5,
+		"aes_sedai_years": 11,
+		"age_enrolled_novice": 15,
+		"age_last": 36,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Liandrin Guirale",
+		"notes": [
+			"Captured and made \u003Ci\u003E[[da'covale]]\u003C/i\u003E to [[Suroth]]",
+			"Permanently shielded."
+		],
+		"novice_years": 5,
+		"origin": "Taraboner",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 20,
+		"liandrin's_group": true
+	},
+	"Lirene Doirellin": {
+		"accepted_years": 6,
+		"aes_sedai_years": 151,
+		"age_enrolled_novice": 15,
+		"age_last": 180,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Lirene Doirellin",
+		"notes": "Former Sitter unchaired as a result of illegal gentlings.",
+		"novice_years": 8,
+		"origin": "Cairhienin",
+		"strength_78": 30
+	},
+	"Llana": {
+		"ajah": "Red",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"notes": "Part of the team sent to capture Taim. Only in the WoT RPG.",
+		"origin": "Borderlander"
+	},
+	"Ludice Daneen": {
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Murdered by the Black Ajah in 979 NE.",
+		"origin": "Taraboner"
+	},
+	"Lusonia Cole": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Escaped Dumai's Wells. May be weaker in the Power. All the sisters that escaped Dumai's Wells and were sent to Dorlan are equal to or weaker than [[Covarla Baldene]].",
+		"origin": "Andoran",
+		"strength_78": 28,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Lyrelle Arienwin": {
+		"accepted_years": 4,
+		"aes_sedai_years": 141,
+		"age_enrolled_novice": 16,
+		"age_last": 167,
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Lyrelle Arienwin",
+		"notes": "Sitter in the Rebel and White Tower Halls.",
+		"novice_years": 6,
+		"origin": "Cairhienin"
+	},
+	"Mabriam en Shereed": {
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "AB",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Queen, ta'veren and architect of the Compact of the Ten Nations.",
+		"origin": "Aramaelle",
+		"strength_78": 15
+	},
+	"Maenadrin": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Her quarters were displaced due to the Dark One affecting reality.",
+		"origin": "Saldaean",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Maerin": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Takes part in the Last Battle."
+	},
+	"Magla Daronos": {
+		"accepted_years": 7,
+		"aes_sedai_years": 131,
+		"age_enrolled_novice": 16,
+		"age_last": 161,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Magla Daronos",
+		"notes": "Sitter in White Tower and Rebel Halls.",
+		"novice_years": 7,
+		"origin": "Illianer",
+		"wt_schism_faction": "Rebel"
+	},
+	"Maigan": {
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Part of Egwene's Council after Anaiya's murder. Part of Suian's entourage in Fal Dara. Nationality uncertain.",
+		"origin": "Andoran"
+	},
+	"Malind Nachenin": {
+		"accepted_years": 11,
+		"aes_sedai_years": 20,
+		"age_enrolled_novice": 16,
+		"age_last": 59,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Malind Nachenin",
+		"notes": "Sitter in the Rebel Hall.",
+		"novice_years": 12,
+		"origin": "Kandori",
+		"strength_78": 31,
+		"wt_schism_faction": "Rebel"
+	},
+	"Manda Wan": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "May be stronger in the Power. Manda is in charge of a group of sisters during the Last Battle and so should be at least average strength.",
+		"strength_78": 26
+	},
+	"Marillin Gemalphin": {
+		"accepted_years": 5,
+		"aes_sedai_years": 126,
+		"age_enrolled_novice": 15,
+		"age_last": 152,
+		"ajah": "Brown",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Marillin Gemalphin",
+		"notes": [
+			"Sent by Moghedien to Caemlyn. Fate unknown.",
+			"Presumed dead following the Last Battle"
+		],
+		"novice_years": 6,
+		"origin": "Andoran",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 21,
+		"liandrin's_group": true
+	},
+	"Marith Jaen": {
+		"aes_sedai_years": 250,
+		"age_enrolled_novice": 17,
+		"age_last": 288,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Marith Jaen",
+		"notes": "Former Amyrlin raised after Sierin Vayu in 984 NE. Died of natural causes in 988 NE. May have been Aes Sedai for more time."
+	},
+	"Marith Riven": {
+		"accepted_years": 7,
+		"aes_sedai_years": 1,
+		"age_enrolled_novice": 16,
+		"age_last": 32,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Marith Riven",
+		"notes": "Doesn't appear Ageless.",
+		"novice_years": 8,
+		"origin": "Murandian",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Marris Thornhill": {
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Marris Thornhill",
+		"notes": [
+			"Revealed as Black Ajah by Atuan Larisett and sworn to obey the Black Ajah hunters.",
+			"May have been executed in purge OR escaped"
+		],
+		"origin": "Andoran",
+		"strength_78": 50,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Marthera": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Captured and made damane during the Seanchan attack on Tar Valon.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Martine Janata": {
+		"accepted_years": 4,
+		"aes_sedai_years": 47,
+		"age_enrolled_novice": 15,
+		"age_last": 98,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Martine Janata",
+		"notes": "An expert in ter'angreal who ended up burning herself out. Now Setalle Anan.",
+		"novice_years": 5,
+		"origin": "Borderlander"
+	},
+	"Marya Somares": {
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "White Tower representative in the Grand Alliance. Killed by the Black Ajah in 979 NE.",
+		"origin": "Tairen"
+	},
+	"Masuri Sokawa": {
+		"accepted_years": 7,
+		"aes_sedai_years": 38,
+		"age_enrolled_novice": 15,
+		"age_last": 65,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Masuri Sokawa",
+		"notes": "Part of the Rebel Aes Sedai's embassy to Rand al'Thor. An expert on Darkhounds.",
+		"novice_years": 5,
+		"origin": "Arafellin",
+		"wt_schism_faction": "Rebel"
+	},
+	"Mayam Colona": {
+		"accepted_years": 8,
+		"aes_sedai_years": 3,
+		"age_enrolled_novice": 17,
+		"age_last": 40,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Mayam Colona",
+		"notes": "Doesn't appear ageless",
+		"novice_years": 12,
+		"origin": "Tairen",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Megda": {
+		"ajah": "Green",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Wheel of Time Roleplaying Game. Made damane, but escaped.",
+		"origin": "Tar Valon"
+	},
+	"Meidani Eschede": {
+		"accepted_years": 7,
+		"aes_sedai_years": 18,
+		"age_enrolled_novice": 18,
+		"age_last": 51,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Meidani Eschede",
+		"notes": "One of the ferrets. Former pillow-friends with Elaida.",
+		"novice_years": 8,
+		"origin": "Arafellin",
+		"wt_schism_faction": "Rebel"
+	},
+	"Meilyn Arganya": {
+		"accepted_years": 6,
+		"aes_sedai_years": 252,
+		"age_enrolled_novice": 16,
+		"age_last": 281,
+		"ajah": "White",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Meilyn Arganya",
+		"notes": "Murdered in New Spring. Age at time of death.",
+		"novice_years": 7
+	},
+	"Melare": {
+		"age_last": 50,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Went to the Black Tower with Pevara. Turned. May have been born as early as 930 NE",
+		"origin": "Andoran"
+	},
+	"Melavaire Someinellin": {
+		"aes_sedai_years": 110,
+		"age_last": 150,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"origin": "Cairhienin",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Melvara": {
+		"aes_sedai": {
+			"aes_sedai": true,
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			]
+		},
+		"calendar": "NE",
+		"channeler": {
+			"channeler": true,
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			]
+		},
+		"darkfriend": {
+			"darkfriend": true,
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			]
+		},
+		"female": true,
+		"name": "Melvara",
+		"verins_list": {
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			],
+			"verins_list": true
+		}
+	},
+	"Memara": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Sent as advisor to Queen Tenobia of Saldaea",
+		"strength_78": 40
+	},
+	"Meramor": {
+		"ajah": "Yellow",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "One of 3 sisters that accepted Nynaeve's status as Aes Sedai before her test."
+	},
+	"Merana Ambrey": {
+		"accepted_years": 6,
+		"aes_sedai_years": 82,
+		"age_enrolled_novice": 18,
+		"age_last": 111,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Merana Ambrey",
+		"notes": "Head of Embassy from the Rebel Aes Sedai. Knelt at Dumai's Wells.",
+		"novice_years": 5,
+		"origin": "Andoran",
+		"wt_schism_faction": "Rebel"
+	},
+	"Merean Redhill": {
+		"aes_sedai_years": 200,
+		"age_last": 263,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Merean Redhill",
+		"notes": [
+			"[[Mistress of Novices]] under [[Tamra Ospenya]].",
+			"Killed by [[Moiraine]] in [[979 NE]].",
+			"May have been Aes Sedai for more time."
+		],
+		"origin": "Andoran",
+		"strength_78": 20
+	},
+	"Merilille Ceandevin": {
+		"accepted_years": 12,
+		"aes_sedai_years": 130,
+		"age_enrolled_novice": 18,
+		"age_last": 173,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Merilille Ceandevin",
+		"notes": "Embassador from Salidar to Queen Tylin. Fled with Talaan.",
+		"novice_years": 13,
+		"origin": "Cairhienin",
+		"wt_schism_faction": "Rebel"
+	},
+	"Merise Haindehl": {
+		"accepted_years": 5,
+		"aes_sedai_years": 169,
+		"age_enrolled_novice": 13,
+		"age_last": 202,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Merise Haindehl",
+		"notes": "One of Cadsuane's followers.",
+		"novice_years": 15,
+		"origin": "Taraboner",
+		"strength_78": 20
+	},
+	"Merym": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"origin": "Arafellin",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Mestra": {
+		"aes_sedai": {
+			"aes_sedai": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"calendar": "NE",
+		"channeler": {
+			"channeler": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"darkfriend": {
+			"darkfriend": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			],
+			"year": 1000
+		},
+		"name": "Mestra",
+		"notes": [
+			"Dead: Killed by Egwene in the Battle of Tel'aran'rhiod"
+		],
+		"status": {
+			"alive": false,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"verins_list": {
+			"refs": [
+				{
+					"book": 12,
+					"chapter": "e"
+				},
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			],
+			"verins_list": true
+		},
+		"wt_schism_faction": {
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			],
+			"wt_schism_faction": "Loyalist"
+		}
+	},
+	"Mikio Vadere": {
+		"accepted_years": 11,
+		"aes_sedai_years": 70,
+		"age_enrolled_novice": 16,
+		"age_last": 93,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Mikio Vadere",
+		"notes": "One of the ferrets. Only mentioned in the Companion.",
+		"novice_years": 12,
+		"origin": "Kandori",
+		"strength_78": 24,
+		"wt_schism_faction": "Rebel"
+	},
+	"Mirlene Cornwell": {
+		"accepted_years": 7,
+		"aes_sedai_years": 98,
+		"age_enrolled_novice": 16,
+		"age_last": 132,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Mirlene Cornwell",
+		"notes": "Killed at Dumai's Wells. Only mentioned in the Companion.",
+		"novice_years": 11,
+		"origin": "Andoran",
+		"strength_78": 32,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Mistress Asher": {
+		"channeler": true,
+		"female": true,
+		"wilder": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Mistress Asher"
+				}
+			],
+			"wilder": true
+		}
+	},
+	"Miyasi": {
+		"aes_sedai_years": 155,
+		"age_last": 200,
+		"ajah": "White",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Miyasi",
+		"notes": [
+			"Fate unknown. Most Blacks in the Tower escaped. Assuming Miyasi was raised to the shawl younger than 45. Only exceptional cases are raised later. Miyasi's iron gray hair places her as extremely old for an Aes Sedai.",
+			"May have been executed in purge OR escaped"
+		],
+		"wt_schism_faction": "Loyalist"
+	},
+	"Moiraine Damodred": {
+		"accepted_years": 3,
+		"aes_sedai_years": 22,
+		"age_enrolled_novice": 16,
+		"age_last": 44,
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"channeler": true,
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Moiraine Damodred",
+		"notes": [
+			"One of the four strongest women in the Tower by 998 NE.",
+			"Reduced in strength by the 'Finn. Rescued by Mat, Thom and Noam."
+		],
+		"novice_years": 3,
+		"origin": "Cairhienin",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Moiraine Damodred"
+				}
+			],
+			"spark": true
+		},
+		"strength_78": [
+			{
+				"refs": [
+					{
+						"book": "twotc",
+						"entry": "Moiraine Damodred"
+					}
+				],
+				"strength_78": 19
+			},
+			{
+				"refs": [
+					{
+						"book": "twotc",
+						"entry": "Moiraine Damodred"
+					}
+				],
+				"strength_78": 72
+			}
+		],
+		"wilder": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Moiraine Damodred"
+				}
+			],
+			"wilder": true
+		}
+	},
+	"Moradri": {
+		"aes_sedai_years": 5,
+		"age_last": 30,
+		"ajah": "Green",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Defends the White Tower during the Seanchan attack. May have been Aes Sedai for as much as 35 years. May have been born as early as {{ne|940}}. Her brothers are her Warders, so she cannot be very old. They are described as \"handsome\", so are probably not old men. The lower bound for her age is assuming she has been Aes Sedai for long enough to not be mentioned as \"newly raised\".",
+		"origin": "Mayener",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Moria Karentanis": {
+		"accepted_years": 7,
+		"aes_sedai_years": 131,
+		"age_enrolled_novice": 14,
+		"age_last": 160,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Moria Karentanis",
+		"notes": [
+			"[[Sitter]] in the rebel Hall.",
+			"Executed by [[Egwene]] during the [[Black Ajah]] purge."
+		],
+		"novice_years": 8,
+		"origin": "Illianer",
+		"strength_78": 31,
+		"wt_schism_faction": "Rebel"
+	},
+	"Morvrin Thakanos": {
+		"accepted_years": 6,
+		"aes_sedai_years": 192,
+		"age_enrolled_novice": 18,
+		"age_last": 223,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Morvrin Thakanos",
+		"notes": "One of the Salidar Six. Possibly the First Chair of the Brown Ajah council in Salidar.",
+		"novice_years": 7,
+		"origin": "Illianer",
+		"wt_schism_faction": "Rebel"
+	},
+	"Murane": {
+		"ajah": "Red",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"notes": "Part of the team sent to capture Taim. Only in the WoT RPG.",
+		"origin": "Borderlander"
+	},
+	"Musarin": {
+		"aes_sedai_years": {
+			"aes_sedai_years": 210,
+			"refs": [
+				"Musarin may have been Aes Sedai for more than 210 years by 1000 NE."
+			]
+		},
+		"age_last": {
+			"age_last": 250,
+			"refs": [
+				"Based on her white hair, Musarin is at least 250 years old in 1000 NE, but may be older."
+			]
+		},
+		"ajah": "Yellow",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Saved Leane Sharif from a bubble of evil.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Myrelle Berengari": {
+		"accepted_years": 5,
+		"aes_sedai_years": 20,
+		"age_enrolled_novice": 14,
+		"age_last": 46,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Myrelle Berengari",
+		"notes": "One of the Salidar Six. Captain-General among the Rebel Aes Sedai.",
+		"novice_years": 7,
+		"origin": "Altaran",
+		"strength_78": 21,
+		"wt_schism_faction": "Rebel"
+	},
+	"Nacelle Kayama": {
+		"aes_sedai_years": 100,
+		"age_last": 145,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Nacelle Kayama",
+		"notes": [
+			"An expert in reading residues. Presumably executed in 1000 NE. May have been Aes Sedai for more time.",
+			"Presumed dead: Executed (Rebel Camp Purge)"
+		],
+		"origin": "Malkieri",
+		"strength_78": 42,
+		"wt_schism_faction": "Rebel"
+	},
+	"Nadira": {
+		"ajah": "Blue",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Only mentioned in the Wheel of Time RPG."
+	},
+	"Nagora": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"origin": "Cairhienin",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Nalaene Forrell": {
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Nalaene Forrell",
+		"notes": [
+			"Verin revealed her to be Black Ajah.",
+			"Alive"
+		],
+		"origin": "Ghealdanin",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Nalasia Merhan": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Disappeared after the Seanchan attack on the White Tower. Very weak in the One Power. May be weaker in the Power.",
+		"strength_78": 44,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Namine Tasil": {
+		"aes_sedai_years": 28,
+		"age_last": 50,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Daughter of one of Cadsuane's informants in Bandar Eban. May have been Aes Seda for less time and may have been younger in 1000 NE.",
+		"origin": "Domani",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Naorisa Cambral": {
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Sitter in the Rebel Hall who replaced Delana. Unchaired after unification.",
+		"wt_schism_faction": "Rebel"
+	},
+	"Narenwin Barda": {
+		"accepted_years": 8,
+		"aes_sedai_years": 52,
+		"age_enrolled_novice": 15,
+		"age_last": 87,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Narenwin Barda",
+		"notes": "Head of eyes-and-ears. Sent to Dorlan by Elaida to take charge.",
+		"novice_years": 12,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Natasia": {
+		"ajah": "Blue",
+		"calendar": "NE",
+		"female": true,
+		"notes": "Known as a lenient teacher. Only appears in New Spring.",
+		"origin": "Saldaean"
+	},
+	"Negaine": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Her quarters were displaced due to the Dark One affecting reality.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Nelavaire Demasiellin": {
+		"age_enrolled_novice": 13,
+		"ajah": "Green",
+		"channeler": true,
+		"female": true,
+		"name": "Nelavaire Demasiellin",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Nelavaire Demasiellin"
+				}
+			],
+			"spark": true
+		}
+	},
+	"Nesita": {
+		"ajah": "Red",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Nesita",
+		"notes": [
+			"Killed by Egwene in Tel'Aran'Rhiod. May be stronger.",
+			"May have been executed in purge OR escaped"
+		],
+		"strength_78": 27,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Nesune Bihara": {
+		"accepted_years": 4,
+		"aes_sedai_years": 150,
+		"age_enrolled_novice": 15,
+		"age_last": 174,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Nesune Bihara",
+		"notes": "Min sees she will found a library.",
+		"novice_years": 5,
+		"origin": "Kandori",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Niande Moorwyn": {
+		"accepted_years": 12,
+		"aes_sedai_years": 108,
+		"age_enrolled_novice": 16,
+		"age_last": 149,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Niande Moorwyn",
+		"notes": "Advisor to King Galldrian of Cairhien. One of Cadsuane's followers.",
+		"novice_years": 13
+	},
+	"Niere": {
+		"ajah": "Yellow",
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "One of 3 sisters that accepted Nynaeve's status as Aes Sedai before her test."
+	},
+	"Nimri": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Makes a Gateway for Gawyn to go to Caemlyn[4] May be stronger in the Power. Nimri is at least strong enough to Travel.",
+		"strength_78": 28
+	},
+	"Nisain a'Cowel": {
+		"aes_sedai_years": 84,
+		"age_last": 127,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Expert in reading saidar weaves. May have been Aes Sedai for as much as 98 years.",
+		"origin": "Murandian",
+		"wt_schism_faction": "Rebel"
+	},
+	"Nisao Dachen": {
+		"accepted_years": 7,
+		"aes_sedai_years": 145,
+		"age_enrolled_novice": 16,
+		"age_last": 179,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Nisao Dachen",
+		"notes": "Part of Egwene's council. Specialist in Healing problems of the mind.",
+		"novice_years": 11,
+		"origin": "No nation",
+		"wt_schism_faction": "Rebel"
+	},
+	"Norine Dovarna": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"wt_schism_faction": "Loyalist"
+	},
+	"Norla": {
+		"channeler": true,
+		"female": true,
+		"wilder": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Norla"
+				}
+			],
+			"wilder": true
+		}
+	},
+	"Notasha": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Fought on the side of the Light during the Last Battle"
+	},
+	"Notori": {
+		"aes_sedai": {
+			"aes_sedai": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"calendar": "NE",
+		"channeler": {
+			"channeler": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"darkfriend": {
+			"darkfriend": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			],
+			"year": 1000
+		},
+		"name": "Notori",
+		"notes": [
+			"Dead: Killed by Nynaeve al'Meara in the Battle in Tel'aran'rhiod"
+		],
+		"status": {
+			"alive": false,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			]
+		},
+		"verins_list": {
+			"refs": [
+				{
+					"book": 12,
+					"chapter": "e"
+				},
+				{
+					"book": 13,
+					"chapter": 37
+				}
+			],
+			"verins_list": true
+		}
+	},
+	"Nubei Peldovni": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Escaped Dumai's Wells. Only mentioned in Companion",
+		"origin": "Arafellin",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Nyein Kalede": {
+		"aes_sedai_years": 22,
+		"age_enrolled_novice": 26,
+		"age_last": 70,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Nyein Kalede",
+		"notes": "Librarian in 13th Repository. May have been Aes Sedai for more time.",
+		"origin": "Atha'an Miere",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Nynaeve al'Meara": {
+		"age_enrolled_novice": 24,
+		"ajah": "Yellow",
+		"channeler": true,
+		"darkfriend": false,
+		"female": true,
+		"name": "Nynaeve al'Meara",
+		"origin": "Two Rivers",
+		"spark": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Nynaeve al'Meara"
+				}
+			],
+			"spark": true
+		},
+		"wilder": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Nynaeve al'Meara"
+				}
+			],
+			"wilder": true
+		}
+	},
+	"Patrinda": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		}
+	},
+	"Pevara Tazanovni": {
+		"accepted_years": 5,
+		"aes_sedai_years": 134,
+		"age_enrolled_novice": 16,
+		"age_last": 161,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Pevara Tazanovni",
+		"notes": "Sitter in the White Tower. Black Ajah Hunter. Sent to the Black Tower.",
+		"novice_years": 6,
+		"origin": "Kandori",
+		"strength_78": 20
+	},
+	"Phaedrine": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Thought Anaiya and Kairen had been murderd by a male wilder. Taught Egwene as a novice.",
+		"wt_schism_faction": "Rebel"
+	},
+	"Pritalle Nerbaijan": {
+		"aes_sedai_years": {
+			"lower_limit": {
+				"lower_limit": 2,
+				"refs": [
+					"[[Pritalle]] probably taught Egwene during her initial time in the Tower ([[998 NE]]). This year count would require at least 19 years as [[Accepted]], longer than any known initiate except [[Daigian]].",
+					{
+						"book": 11,
+						"chapter": "p"
+					}
+				]
+			},
+			"upper_limit": {
+				"upper_limit": 21,
+				"refs": [
+					"[[Pritalle]] was [[Accepted]] in [[979 NE]] and was raised [[Aes Sedai]] no earlier than then.",
+					{
+						"book": 11,
+						"chapter": "p"
+					}
+				]
+			}
+		},
+		"age_enrolled_novice": {
+			"age_enrolled_novice": 15,
+			"ref": [
+				"Typical age of enrollment."
+			]
+		},
+		"age_last": {
+			"lower_limit": {
+				"lower_limit": 36,
+				"refs": [
+					"[[Pritalle]] was [[Accepted]] in [[979 NE]] and enrolled as a novice no later than then. She probably enrolled as a novice no younger than 14.",
+					{
+						"book": 11,
+						"chapter": "p"
+					}
+				]
+			},
+			"upper_limit": {
+				"upper_limit": 70,
+				"refs": [
+					"[[Pritalle]] was [[Accepted]] in [[979 NE]]. She probably enrolled as a novice no older than 18. She spent no more combined time as novice and Accepted than [[Daigian]] (48 years).",
+					{
+						"book": 11,
+						"chapter": "p"
+					}
+				]
+			},
+			"refs": [
+				"[[Pritalle]]'s age is based on (1) the fact that she was [[Accepted]] in [[979 NE]] (+22), (2) the presumption that she had just been raised Accepted in 979 NE (+0), (3) the presumption that she had spent 6 years as novice (+6), and (4) the presumption that she enrolled as a novice at 18 (+18).",
+				{
+					"book": 11,
+					"chapter": "p"
+				}
+			]
+		},
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Pritalle Nerbaijan",
+		"notes": "One of the sisters who capture Egwene. Accepted in [[979 NE]].",
+		"origin": "Saldaean",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Pylar": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Fought alongside Ewgene in the Last Battle"
+	},
+	"Raechin Connoral": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Sitter in the White Tower",
+		"origin": "Murandian"
+	},
+	"Rafela Cindal": {
+		"accepted_years": 5,
+		"aes_sedai_years": 25,
+		"age_enrolled_novice": 16,
+		"age_last": 52,
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Rafela Cindal",
+		"notes": "Part of the Rebel Aes Sedai's embassy to Rand al'Thor.",
+		"novice_years": 6,
+		"origin": "Tairen",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true
+	},
+	"Ramesa": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"origin": "Arafellin",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Ramola": {
+		"aes_sedai": {
+			"aes_sedai": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 38
+				}
+			]
+		},
+		"calendar": "NE",
+		"channeler": {
+			"channeler": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 38
+				}
+			]
+		},
+		"darkfriend": {
+			"darkfriend": true,
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 38
+				}
+			]
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"refs": [
+				{
+					"book": 13,
+					"chapter": 38
+				}
+			],
+			"year": 1000
+		},
+		"name": "Ramola",
+		"notes": [
+			"Alive"
+		]
+	},
+	"Rand al'Thor": {
+		"aes_sedai": true,
+		"channeler": true,
+		"male": true,
+		"spark": true
+	},
+	"Rashima Kerenmosa": {
+		"accepted_years": 5,
+		"aes_sedai_years": 126,
+		"age_enrolled_novice": 15,
+		"age_last": 151,
+		"ajah": "Green",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Rashima Kerenmosa",
+		"notes": "Legendary Amyrlin who fought and died during the Trolloc Wars (1301 AB)",
+		"novice_years": 5
+	},
+	"Razina Hazzan": {
+		"accepted_years": 6,
+		"aes_sedai_years": 101,
+		"age_enrolled_novice": 16,
+		"age_last": 130,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Razina Hazzan",
+		"notes": "Only mentioned in the Companion.",
+		"novice_years": 7,
+		"origin": "Saldaean",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Reiko Kerevon": {
+		"aes_sedai_years": 130,
+		"age_last": 173,
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Expert at reading residues sent to Shadar Logoth May have been Aes Sedai for more time.",
+		"origin": "Arafellin"
+	},
+	"Rianna Andomeran": {
+		"accepted_years": 7,
+		"aes_sedai_years": 44,
+		"age_enrolled_novice": 16,
+		"age_last": 76,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Rianna Andomeran",
+		"notes": [
+			"One of Liandrin's thirteen",
+			"Held captive in Stedding Sholoon"
+		],
+		"novice_years": 9,
+		"origin": "Kandori",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 27,
+		"liandrin's_group": true
+	},
+	"Rina Hafden": {
+		"accepted_years": 8,
+		"aes_sedai_years": 45,
+		"age_enrolled_novice": 15,
+		"age_last": 77,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Rina Hafden",
+		"notes": "Sitter in the White Tower. Replaced Jolene Maza.",
+		"novice_years": 9,
+		"origin": "Amadician",
+		"strength_78": 28,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Romanda Cassin": {
+		"accepted_years": 3,
+		"aes_sedai_years": 249,
+		"age_enrolled_novice": 17,
+		"age_last": 274,
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Romanda Cassin",
+		"notes": "Sitter and First Weaver among the Rebel Aes Sedai. Killed by Sharans.",
+		"novice_years": 5,
+		"origin": "Far Madding",
+		"wt_schism_faction": "Rebel"
+	},
+	"Ronaille Vevanios": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Stilled at Dumai's Wells, but later Healed",
+		"origin": "Illianer",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Rosara Medrano": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Left in Cairhien by Cadsuane to keep an eye on events there.",
+		"origin": "Tairen"
+	},
+	"Rosil": {
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Mistress of Novices in the reunited White Tower."
+	},
+	"Rubinde Acedone": {
+		"accepted_years": 9,
+		"aes_sedai_years": 112,
+		"age_enrolled_novice": 16,
+		"age_last": 147,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Rubinde Acedone",
+		"notes": "Sitter in the White Tower",
+		"novice_years": 10,
+		"origin": "Mayener",
+		"strength_78": 25,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Ryma Galfrey": {
+		"accepted_years": 7,
+		"aes_sedai_years": 68,
+		"age_enrolled_novice": 15,
+		"age_last": 98,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Ryma Galfrey",
+		"notes": "Captured and made damane in Falme.",
+		"novice_years": 8
+	},
+	"Saerin Asnobar": {
+		"accepted_years": 10,
+		"aes_sedai_years": 180,
+		"age_enrolled_novice": 17,
+		"age_last": 219,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Saerin Asnobar",
+		"notes": "Sitter in the White Tower. Black Ajah Hunter.  Former member of the Daughters of Silence.",
+		"novice_years": 12,
+		"origin": "Altaran",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Salita Toranes": {
+		"accepted_years": 7,
+		"aes_sedai_years": 34,
+		"age_enrolled_novice": 17,
+		"age_last": 67,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Salita Toranes",
+		"notes": "Sitter in the Rebel Hall.",
+		"novice_years": 9,
+		"origin": "Tairen",
+		"wt_schism_faction": "Rebel"
+	},
+	"Samalin Naerodan": {
+		"accepted_years": 5,
+		"aes_sedai_years": 37,
+		"age_enrolled_novice": 17,
+		"age_last": 65,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Samalin Naerodan",
+		"notes": "Sitter in the Rebel Hall.",
+		"novice_years": 6,
+		"origin": "Murandian",
+		"strength_78": 28,
+		"wt_schism_faction": "Rebel"
+	},
+	"Samitsu Tamagowa": {
+		"accepted_years": 4,
+		"aes_sedai_years": 117,
+		"age_enrolled_novice": 14,
+		"age_last": 144,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Samitsu Tamagowa",
+		"notes": "One of Cadsuane's followers in Cairhien. Left in charge by Cadsuane.",
+		"novice_years": 9,
+		"origin": "Arafellin"
+	},
+	"Sanaiye Asaheen": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Escaped Dumai's Wells. Only mentioned in the Companion. May be weaker in the Power. All the sisters that escaped Dumai's Wells and were sent to Dorlan are equal to or weaker than [[Covarla Baldene]].",
+		"origin": "Domani",
+		"strength_78": 28,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Sareitha Tomares": {
+		"accepted_years": 8,
+		"aes_sedai_years": 2,
+		"age_enrolled_novice": 15,
+		"age_last": 35,
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Sareitha Tomares",
+		"notes": "Sent as part of the Salidar embassy to Queen Tylin. Murdered by Chesmal Emry in 1000 NE.",
+		"novice_years": 10,
+		"origin": "Tairen",
+		"wt_schism_faction": "Rebel"
+	},
+	"Sarene Nemdahl": {
+		"accepted_years": 5,
+		"aes_sedai_years": 19,
+		"age_enrolled_novice": 15,
+		"age_last": 45,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Sarene Nemdahl",
+		"notes": "Captured by Graendal. Although Sarene is technically alive when we last see her, she may no longer be capable of thinking of herself.",
+		"novice_years": 6,
+		"origin": "Taraboner",
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Saroiya Farseen": {
+		"accepted_years": 11,
+		"aes_sedai_years": 103,
+		"age_enrolled_novice": 16,
+		"age_last": 143,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Saroiya Farseen",
+		"notes": "Sitter in the Rebel Hall and White Tower",
+		"novice_years": 13,
+		"origin": "Domani",
+		"wt_schism_faction": "Rebel"
+	},
+	"Sashalle Anderly": {
+		"accepted_years": 6,
+		"aes_sedai_years": 153,
+		"age_enrolled_novice": 16,
+		"age_last": {
+			"age_last": 184,
+			"refs": [
+				{
+					"book": 14,
+					"chapter": 42
+				}
+			]
+		},
+		"ajah": "Red",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"died_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Sashalle Anderly",
+		"notes": [
+			"Captured at [[Dumai's Wells]].",
+			"Stilled at [[Dumai's Wells]] but later Healed.",
+			"Died when [[Hessalam]] pulled too much [[One Power]] through her."
+		],
+		"novice_years": 9,
+		"origin": "Andoran",
+		"strength_78": 20
+	},
+	"Seaine Herimon": {
+		"accepted_years": 4,
+		"aes_sedai_years": 134,
+		"age_enrolled_novice": 15,
+		"age_last": 159,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Seaine Herimon",
+		"notes": "Sitter in the White Tower. Black Ajah hunter",
+		"novice_years": 6,
+		"origin": "Murandian",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Sedore Dajenna": {
+		"accepted_years": 7,
+		"aes_sedai_years": 155,
+		"age_enrolled_novice": 16,
+		"age_last": 187,
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Sedore Dajenna",
+		"notes": [
+			"[[Sitter]] in the [[White Tower]].",
+			"Killed by [[Egwene]] in the [[Battle in Tel'aran'rhiod]]."
+		],
+		"novice_years": 9,
+		"origin": "Tairen",
+		"strength_78": 25,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Seonid Traighan": {
+		"accepted_years": 12,
+		"aes_sedai_years": 29,
+		"age_enrolled_novice": 18,
+		"age_last": 72,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Seonid Traighan",
+		"notes": "Part of the Rebel Aes Sedai's embassy to Rand al'Thor.",
+		"novice_years": 13,
+		"origin": "Cairhienin",
+		"strength_78": 23,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Serafelle Tanisloe": {
+		"age_enrolled_novice": 29,
+		"ajah": "Brown",
+		"channeler": true,
+		"female": true,
+		"name": "Serafelle Tanisloe",
+		"wilder": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Serafelle Tanisloe"
+				}
+			],
+			"wilder": true
+		}
+	},
+	"Serancha Colvine": {
+		"accepted_years": 6,
+		"aes_sedai_years": 137,
+		"age_enrolled_novice": 15,
+		"age_last": 165,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Serancha Colvine",
+		"notes": "Head Clerk. Former Sitter.",
+		"novice_years": 7,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Sereille Bagand": {
+		"accepted_years": 11,
+		"aes_sedai_years": 265,
+		"age_enrolled_novice": 15,
+		"age_last": 304,
+		"ajah": "White",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Sereille Bagand",
+		"notes": "Former Amyrlin. Age at time of death.",
+		"novice_years": 12,
+		"origin": "Far Madding"
+	},
+	"Shahal Comanli": {
+		"aes_sedai_years": 165,
+		"age_last": 200,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "One of Cadsuane's followers in Cairhien. Only mentioned in the Companion. May have been Aes Sedai for as much as 175 years.",
+		"origin": "Domani"
+	},
+	"Shana Goridien": {
+		"accepted_years": 9,
+		"aes_sedai_years": 82,
+		"age_enrolled_novice": 16,
+		"age_last": 118,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Shana Goridien",
+		"notes": "Expert at reading residues sent to Shadar Logoth",
+		"novice_years": 11,
+		"wt_schism_faction": "Rebel"
+	},
+	"Shanelle": {
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Present when Nynaeve Heals Siuan and Leane from stilling.",
+		"origin": "Altaran",
+		"wt_schism_faction": "Rebel"
+	},
+	"Shemari": {
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Taught Egwene as a Novice.",
+		"wt_schism_faction": "Rebel"
+	},
+	"Shemerin": {
+		"accepted_years": 17,
+		"aes_sedai_years": 124,
+		"age_enrolled_novice": 17,
+		"age_last": 172,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Shemerin",
+		"novice_years": 14,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Sheraine Caminelle": {
+		"ajah": "Blue",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Captured and made damane at Falme. Now known as Mylen. May be stronger in the Power.",
+		"origin": "Cairhienin",
+		"strength_78": 27
+	},
+	"Sheriam Bayanar": {
+		"accepted_years": 5,
+		"aes_sedai_years": 21,
+		"age_enrolled_novice": 16,
+		"age_last": 47,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Sheriam Bayanar",
+		"notes": [
+			"[[Mistress of Novices]] under [[Siuan]].",
+			"[[Keeper of the Chronicles]] under Egwene.",
+			"Executed in the [[Black Ajah]] purge in the rebel camp in [[1000 NE]]."
+		],
+		"novice_years": 5,
+		"origin": "Saldaean",
+		"shadow_controllers": [
+			"Aran'gar",
+			"Mesaana"
+		],
+		"strength_78": 20,
+		"wt_schism_faction": "Rebel"
+	},
+	"Shevan Gadarin": {
+		"accepted_years": 6,
+		"aes_sedai_years": 131,
+		"age_enrolled_novice": 16,
+		"age_last": 157,
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Shevan Gadarin",
+		"notes": "Sitter in Elaida's Hall. Killed by the Black Ajah in 1000 NE.",
+		"novice_years": 4,
+		"origin": "Kandori",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Sierin Vayu": {
+		"accepted_years": 9,
+		"aes_sedai_years": 215,
+		"age_enrolled_novice": 16,
+		"age_last": 248,
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Sierin Vayu",
+		"notes": "Former Amyrlin Seat. Murdered by the Red Ajah.",
+		"novice_years": 8
+	},
+	"Silvane Redfor": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "One of Cadsuane's followers in Cairhien. Only mentioned in the Companion.",
+		"origin": "Andoran",
+		"strength_78": 39
+	},
+	"Silviana Brehon": {
+		"accepted_years": 11,
+		"aes_sedai_years": 110,
+		"age_enrolled_novice": 18,
+		"age_last": 151,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Silviana Brehon",
+		"notes": "Mistress of Novices under Elaida. Keeper under Egwene.",
+		"novice_years": 12,
+		"origin": "Amadician",
+		"strength_78": 21
+	},
+	"Siuan Sanche": {
+		"accepted_years": 3,
+		"aes_sedai_years": 22,
+		"age_enrolled_novice": 15,
+		"age_last": 43,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Siuan Sanche",
+		"notes": "Killed when the command post is attacked during the Last Battle.",
+		"novice_years": 3,
+		"origin": "Tairen",
+		"strength_78": [
+			{
+				"refs": [
+					{
+						"book": "twotc",
+						"entry": "Siuan Sanche"
+					}
+				],
+				"strength_78": 19
+			},
+			{
+				"refs": [
+					{
+						"book": "twotc",
+						"entry": "Siuan Sanche"
+					}
+				],
+				"strength_78": 41
+			}
+		]
+	},
+	"Suana Dragand": {
+		"accepted_years": 12,
+		"aes_sedai_years": 174,
+		"age_enrolled_novice": 14,
+		"age_last": 216,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Suana Dragand",
+		"notes": "Head of the Yellow Ajah in the White Tower. Extremely skilled Healer.",
+		"novice_years": 16,
+		"origin": "Shienaran",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Takima Deraighdin": {
+		"accepted_years": 6,
+		"aes_sedai_years": 126,
+		"age_enrolled_novice": 14,
+		"age_last": 156,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Takima Deraighdin",
+		"notes": "Sitter in the White Tower and Rebel Halls.",
+		"novice_years": 9,
+		"origin": "Andoran",
+		"wt_schism_faction": "Rebel"
+	},
+	"Talene Minly": {
+		"accepted_years": 6,
+		"aes_sedai_years": 133,
+		"age_enrolled_novice": 15,
+		"age_last": 160,
+		"ajah": "Green",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Talene Minly",
+		"notes": [
+			"[[Sitter]] in the [[White Tower]].",
+			"Captured by the [[Black Ajah]] hunters, but fled the [[White Tower]] before the [[Battle of Tar Valon]].",
+			"Because she failed to appear before the [[Black Ajah Supreme Council]], she would have been killed if found by the [[Shadow]]."
+		],
+		"novice_years": 6,
+		"origin": "Andoran",
+		"strength_78": 21,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Talva": {
+		"ajah": "Yellow",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Talva",
+		"notes": [
+			"Evaded execution as [[Black Ajah]] by fleeing the [[White Tower]].",
+			"Killed accidentally by [[Alviarin]] during the [[Battle in Tel'aran'rhiod]]. ({{13|14}})"
+		],
+		"wt_schism_faction": "Loyalist"
+	},
+	"Tamra Ospenya": {
+		"age_last": 150,
+		"ajah": "Blue",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"notes": "Amyrlin 973-979 NE. Began a search for the Dragon Reborn. Murdered by the Black Ajah."
+	},
+	"Tarna Feir": {
+		"age_enrolled_novice": 14,
+		"ajah": "Red",
+		"channeler": true,
+		"female": true,
+		"name": "Tarna Feir",
+		"wilder": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Tarna Feir"
+				}
+			],
+			"wilder": true
+		}
+	},
+	"Teire Alentaine": {
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": [
+			"Escaped [[Dumai's Wells]].",
+			"May be weaker in the Power. All the sisters that escaped [[Dumai's Wells]] and were sent to [[Dorlan]] are equal to or weaker than [[Covarla Baldene]], who is strength {{opsl|27}}."
+		],
+		"wt_schism_faction": "Loyalist"
+	},
+	"Temaile Kinderode": {
+		"accepted_years": 9,
+		"aes_sedai_years": 21,
+		"age_enrolled_novice": 17,
+		"age_last": 57,
+		"ajah": "Gray",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Temaile Kinderode",
+		"notes": [
+			"Stabbed and killed by Doilin Mellar.",
+			"Dead: Killed by Daved Hanlon, failing to escape Caemlyn dungeon"
+		],
+		"novice_years": 10,
+		"origin": "Cairhienin",
+		"shadow_controllers": [
+			"Moghedien"
+		],
+		"strength_78": 23,
+		"liandrin's_group": true
+	},
+	"Teramina": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Captured and made damane during the Seanchan attack on Tar Valon.",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Tesan": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Arithmetist",
+		"origin": "Taraboner",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Tesien Jorhald": {
+		"ajah": "Red",
+		"calendar": "NE",
+		"female": true,
+		"notes": "An Aes Sedai when Pevara and Seaine were Accepted. Possibly a Former Highest.",
+		"origin": "Taraboner"
+	},
+	"Teslyn Baradon": {
+		"accepted_years": 5,
+		"aes_sedai_years": 103,
+		"age_enrolled_novice": 15,
+		"age_last": 130,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Teslyn Baradon",
+		"notes": "Sitter in the White Tower. Made damane, but freed by Mat.",
+		"novice_years": 7,
+		"origin": "Illianer",
+		"strength_78": 23
+	},
+	"Theodrin Dabei": {
+		"age_enrolled_novice": 16,
+		"ajah": "Brown",
+		"channeler": true,
+		"female": true,
+		"name": "Theodrin Dabei",
+		"wilder": {
+			"refs": [
+				{
+					"book": "twotc",
+					"entry": "Theodrin Dabei"
+				}
+			],
+			"wilder": true
+		}
+	},
+	"Therva Maresis": {
+		"accepted_years": 7,
+		"aes_sedai_years": 106,
+		"age_enrolled_novice": 17,
+		"age_last": 138,
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Therva Maresis",
+		"notes": "An expert at reading residues.",
+		"novice_years": 8,
+		"wt_schism_faction": "Rebel"
+	},
+	"Tiana Noselle": {
+		"accepted_years": 6,
+		"aes_sedai_years": 35,
+		"age_enrolled_novice": 16,
+		"age_last": 63,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Tiana Noselle",
+		"notes": "Mistress of Novices among the Rebel Aes Sedai.",
+		"novice_years": 6,
+		"wt_schism_faction": "Rebel"
+	},
+	"Toveine Gazal": {
+		"accepted_years": 10,
+		"aes_sedai_years": 150,
+		"age_enrolled_novice": 18,
+		"age_last": 189,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Toveine Gazal",
+		"notes": "Former Sitter unchaired as a result of illegal gentlings. Leader of the Black Tower force. Turned.",
+		"novice_years": 11,
+		"origin": "Saldaean",
+		"strength_78": 25
+	},
+	"Tsutama Rath": {
+		"accepted_years": 6,
+		"aes_sedai_years": 146,
+		"age_enrolled_novice": 14,
+		"age_last": 173,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Tsutama Rath",
+		"notes": "Former Sitter unchaired as a result of illegal gentlings. Current Highest.",
+		"novice_years": 7,
+		"origin": "Kandori",
+		"strength_78": 27
+	},
+	"Turanna Norill": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Turese": {
+		"aes_sedai_years": 4,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Newly raised May have been Aes Sedai for less time"
+	},
+	"Valene Sural": {
+		"accepted_years": 6,
+		"aes_sedai_years": 1,
+		"age_enrolled_novice": 16,
+		"age_last": 28,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Valene Sural",
+		"notes": "Escaped Dumai's Wells. Only mentioned in the Companion.",
+		"novice_years": 5,
+		"strength_78": 27
+	},
+	"Valera Gorovni": {
+		"accepted_years": 6,
+		"aes_sedai_years": 200,
+		"age_enrolled_novice": 17,
+		"age_last": 231,
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"name": "Valera Gorovni",
+		"notes": "Murdered by the Black Ajah in 979 NE. Age at time of death. Nationality uncertain.",
+		"novice_years": 8,
+		"origin": "Kandori"
+	},
+	"Valinde Nathenos": {
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Part of the Rebel Aes Sedai's embassy to Rand al'Thor",
+		"origin": "Illianer",
+		"wt_schism_faction": "Rebel"
+	},
+	"Vandene Namelle": {
+		"accepted_years": 5,
+		"aes_sedai_years": 238,
+		"age_enrolled_novice": 15,
+		"age_last": 263,
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Vandene Namelle",
+		"notes": "Retired 930 NE. Sister to Adeleas. Murdered by Chesmal Emry.",
+		"novice_years": 5,
+		"strength_78": 28,
+		"wt_schism_faction": "Rebel"
+	},
+	"Varilin Zanaire": {
+		"accepted_years": 6,
+		"aes_sedai_years": 139,
+		"age_enrolled_novice": 17,
+		"age_last": 169,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Varilin Zanaire",
+		"notes": "Sitter in the White Tower and Rebel Halls.",
+		"novice_years": 7,
+		"origin": "Saldaean",
+		"wt_schism_faction": "Rebel"
+	},
+	"Vasha": {
+		"ajah": "Green",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Escaped Dumai's Wells to Dorlan. May be weaker in the Power. All the sisters that escaped Dumai's Wells and were sent to Dorlan are equal to or weaker than [[Covarla Baldene]].",
+		"origin": "Domani",
+		"strength_78": 28,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Vayelle Kamsa": {
+		"accepted_years": 11,
+		"aes_sedai_years": 44,
+		"age_enrolled_novice": 18,
+		"age_last": 86,
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Vayelle Kamsa",
+		"notes": "One of the last four to swear to Rand.",
+		"novice_years": 13,
+		"sworn_to_rand": true,
+		"captured_at_dumais_wells": true,
+		"strength_78": 40
+	},
+	"Velina Behar": {
+		"accepted_years": 9,
+		"aes_sedai_years": 103,
+		"age_enrolled_novice": 18,
+		"age_last": 141,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Velina Behar",
+		"notes": [
+			"Sitter in the White Tower. Member of the Supreme Council",
+			"Alive"
+		],
+		"novice_years": 11,
+		"origin": "Saldaean",
+		"strength_78": 31,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Verin Mathwin": {
+		"accepted_years": 6,
+		"aes_sedai_years": 125,
+		"age_enrolled_novice": 15,
+		"age_last": 151,
+		"ajah": "Brown",
+		"alive": false,
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"name": "Verin Mathwin",
+		"notes": "Double-agent that brought about the downfall of the Black Ajah.",
+		"novice_years": 5,
+		"origin": "Far Madding",
+		"strength_78": 23
+	},
+	"Viria Connoral": {
+		"ajah": "Red",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Sitter in the White Tower",
+		"origin": "Murandian"
+	},
+	"Wyndera Ovan": {
+		"accepted_years": 15,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "Escaped Dumai's Wells. Only mentioned in the Companion. Strength noted in [[Robert Jordan's notes]] as reported by the [http://13depository.blogspot.com/2016/12/robert-jordans-channeller-strength.html Thirteenth Depository].",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Xanthe": {
+		"ajah": "Red",
+		"calendar": "NE",
+		"darkfriend": true,
+		"female": true,
+		"notes": "Part of the team sent to capture Taim. Only in the WoT RPG."
+	},
+	"Yuan": {
+		"ajah": "Yellow",
+		"calendar": "NE",
+		"female": true,
+		"notes": "Present at Moiraine's test for Aes Sedai.",
+		"origin": "Arafellin"
+	},
+	"Yukiri Haruna": {
+		"accepted_years": 7,
+		"aes_sedai_years": 133,
+		"age_enrolled_novice": 15,
+		"age_last": 163,
+		"ajah": "Gray",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Yukiri Haruna",
+		"notes": "Sitter in the White Tower. Black Ajah Hunter.",
+		"novice_years": 8,
+		"wt_schism_faction": "Loyalist"
+	},
+	"Zanica": {
+		"aes_sedai": {
+			"aes_sedai": true,
+			"refs": [
+				{
+					"book": 11,
+					"chapter": "p"
+				}
+			]
+		},
+		"bonded": [
+			{
+				"notes": "Acted as coachman to the loyalist Aes Sedai who captured [[Egwene]].",
+				"refs": [
+					{
+						"book": 11,
+						"chapter": "p"
+					}
+				]
+			}
+		],
+		"calendar": "NE",
+		"channeler": {
+			"channeler": true,
+			"refs": [
+				{
+					"book": 11,
+					"chapter": "p"
+				}
+			]
+		},
+		"darkfriend": {
+			"darkfriend": true,
+			"refs": [
+				{
+					"book": 12,
+					"chapter": 39
+				}
+			]
+		},
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"refs": [
+				{
+					"book": 11,
+					"chapter": "p"
+				}
+			],
+			"year": 1000
+		},
+		"name": "Zanica",
+		"notes": [
+			"May have been executed in purge OR escaped.",
+			"As a loyalist, she is not [[Blue Ajah]]. Having a [[Warder]], she is not [[Red Ajah]]."
+		],
+		"wt_schism_faction": "Loyalist"
+	},
+	"Zemaille Amassa": {
+		"accepted_years": 10,
+		"aes_sedai_years": 20,
+		"age_enrolled_novice": 29,
+		"age_last": 69,
+		"ajah": "Brown",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Zemaille Amassa",
+		"notes": "Librarian in 13th Repository. Lied about her age to enter the Tower.",
+		"novice_years": 10,
+		"origin": "Atha'an Miere",
+		"wt_schism_faction": "Loyalist"
+	},
+	"Zenare Ghodar": {
+		"ajah": "Yellow",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"notes": "An Aes Sedai fighting over Nynaeve when she Heals Stilling.",
+		"wt_schism_faction": "Rebel"
+	},
+	"Zerah Dacan": {
+		"accepted_years": 8,
+		"aes_sedai_years": 42,
+		"age_enrolled_novice": 15,
+		"age_last": 72,
+		"ajah": "White",
+		"alive": true,
+		"calendar": "NE",
+		"darkfriend": false,
+		"female": true,
+		"last_year": {
+			"calendar": "NE",
+			"year": 1000
+		},
+		"name": "Zerah Dacan",
+		"notes": "One of the ferrets.",
+		"novice_years": 7,
+		"origin": "Mayener",
+		"wt_schism_faction": "Rebel"
+	}
+}

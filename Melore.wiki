@@ -1,0 +1,24 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| status=Dead
+| death={{ne|1000}}
+| nationality=Domani
+| rank=Elder
+| affiliation=The Kin
+| gender=Female
+| weight=Plump
+| appeared={{acos|37}}
+| lastappeared={{acos|38}}
+}}
+'''Melore''' was one of the [[Knitting Circle|Kin Elders]] in [[Ebou Dar]] and a [[Wise Woman]].
+
+She was very weak in the One Power, she was not strong enough to become Accepted. This means that she was below the level {{opsl|51}}. 
+
+==Appearance==
+She was plump and in her middle years.
+
+==Activities==
+Melore and seven other Elders meet [[Mat]], [[Elayne]] and [[Nynaeve]] at the [[Tarasin Palace]] to go after the [[Bowl of the Winds|Bowl]]. At the six story building the ''[[gholam]]'' kills Melore.
+[[Category:Channelers]]
+[[Category:Novices]]

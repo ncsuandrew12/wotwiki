@@ -1,0 +1,2 @@
+I threw the {{{1}}} in as an afterthought.  It probably shouldn't be used regularly, especially for long text (more than 2 words), as that's not what superscripts are for... --[[User:Gherald|Gherald]] 04:17, 5 October 2006 (UTC)
+:Sure, I was just playing with it... -- ''[[User:Nae'blis|nae]]'[[User_talk:Nae'blis|blis]]'' 04:57, 5 October 2006 (UTC)

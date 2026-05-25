@@ -1,0 +1,34 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| nationality=Andoran
+| occupation=Healer
+| title=Wisdom
+| gender=Female
+| status=Alive
+| hair=Long, Braided
+| affiliation=Two Rivers
+| mentioned={{teotw|16}}
+| lastmentioned={{tgh|23}}
+| living=teotw
+}}
+'''Mavra Mallen''' is the former [[Wisdom]] of [[Deven Ride]].
+
+==Appearance==
+She is presumed to have her hair worn braided in the [[Two Rivers]]' style.
+
+==History==
+She was the Wisdom of Deven Ride at the beginning of [[The Eye of the World]].
+
+A few years back, her apprentice died of [[Channeling sickness]]. The apprentice, like [[Nynaeve]], could also [[Talent#Some other Talents|Listen to the Wind]].
+
+==Activities==
+When Nynaeve leaves [[Emond's Field]] in pursuit of [[Rand]], [[Perrin]], [[Mat]], [[Egwene]], [[Moiraine]] and [[Lan]], she gets Mavra to come up from Deven Ride to mind things while she is gone.
+
+During Nynaeve's test for [[Accepted Testing|Accepted]], the day before Mavra has to leave to return back to Deven Ride she is visited by a woman named [[Malena Aylar]] from [[Watch Hill]]. Some children fall sick that night and Malena tends to them, therefore becoming the new Wisdom of Emond's Field. Note that these events are fictional and only occur as part of the test.
+
+Mavra cannot stay for long because she is needed in Deven Ride. She returns back there and [[Daise Congar]] takes over as Wisdom of Emond's Field.
+
+Her fate is unknown, as later in the series [[Elwinn Taron]] is mentioned as the Wisdom of Deven Ride.
+
+{{DEFAULTSORT:Mallen, Mavra}}

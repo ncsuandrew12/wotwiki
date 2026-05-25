@@ -1,0 +1,51 @@
+{{character 
+| image=YellowBlack.png
+| imagesize=250px
+| ajah=Yellow
+| gender=Female
+| nationality=Andoran
+| rank=Aes Sedai
+| affiliation=Black Ajah
+| hair=Graying
+| build=Wide
+| height=Tall
+| status=Unknown
+| death=
+| appeared={{tfoh|50}}
+| lastappeared={{loc|30}}
+| lastmentioned={{tgs|39}}
+|birth = {{ne|848}}}}
+'''Dagdara Finchey''' was an [[Aes Sedai]] of the [[Yellow Ajah]]. She was also secretly part of the [[Black Ajah]].
+
+==Appearance and Personality==
+She was as wide as any man and taller than most. She had graying hair and a round face.
+
+==Strength and Abilities==
+Dagdara is of [[Strength in the One Power among Aes Sedai|high average]] strength in the [[One Power]], with a strength level of {{opsl|25}}. She matches the stated minimum strength needed to be able to make a [[Traveling|gateway]] of useful size. Barring some below average ability with the Talent, she should be able to Travel.
+
+It was said that Dagdara knew more of [[Healing]] than any two other Yellow sisters, until the arrival of [[Nynaeve al'Meara]] and her new Healing weaves. She was among the best healers in the traditional Aes Sedai method, in the same range as [[Samitsu Tamagowa]], [[Suana Dragand]], and [[Chesmal Emry]].{{verify}}
+
+==History==
+Dagdara was born in [[Andor]] in the year {{ne|848}} and went to the [[White Tower|Tower]] in {{ne|863}}. After spending seven years as a [[novice]] and five as [[Accepted]], she was raised to the shawl in {{ne|875}}.
+
+
+==Activities==
+She was a member of the [[Rebel Aes Sedai]]. 
+
+[[Romanda Cassin]] would have preferred Dagdara become one of the [[Sitters]] for the [[Rebel Hall of the Tower]], but she was overruled by [[Magla Daronos]] who already held a seat in the Hall and advocated for [[Salita Toranes]] instead. This was evidence that Romanda was not involved in the [[Too Young Sitters]] conspiracy.
+
+She thought [[Nynaeve al'Meara]]'s efforts to Heal [[stilling]] to be a "foolish notion" and "wasting time".
+
+After an accident trying to make ''[[ter'angreal]]'', she Healed [[Varilin]].
+
+She was present in the [[Little Tower]] when Nynaeve Healed both [[Siuan Sanche]] and [[Leane Sharif]] of stilling, completely shocking everyone. Dagdara immediately asked, in a strangled voice, what made Nyneave think of using [[Earth]] and [[Fire]]. She then criticized her technique and said that she "used Fire and Earth as if she were trying to bore a hole through stone".
+
+A list from [[Verin Mathwin]] confirmed that Dagdara was of the Black Ajah, but we don't know if she was one of the fifty Black sisters to be executed in the rebel camp or one of the twenty able to run away.
+
+{{DEFAULTSORT:Finchey, Dagdara}}
+[[Category:Best healers]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Rebel Aes Sedai]]
+[[Category:Channelers]]
+[[Category:Dreadlords]]
+[[Category:Aes Sedai]]

@@ -1,0 +1,9 @@
+{{Image
+| License                 = Fairuse
+| ImageType1              = Character
+| ImageType2              = Fan Art
+| Description             = A sister of the [[Brown Ajah]].
+| Source                  = [http://sunstone72.deviantart.com/art/Aes-Sedai-Brown-Sister-43655374]
+| Artist                  = Lyn Taylor
+}}
+[[Category:Featured images]]

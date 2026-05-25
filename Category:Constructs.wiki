@@ -1,0 +1,6 @@
+'''[[Constructs]]''' refer to not only sentient creatures created by the [[One Power]], but also other items that are inanimate objects created by the Power and yet do not use it in any discernible way (as opposed to ''ter'angreal, angreal'' and ''sa'angreal'').
+
+==See also==
+* [[:Category:Shadowspawn|Shadowspawn]]
+[[Category:One Power| Constructs]]
+[[Category:Items| Constructs]]

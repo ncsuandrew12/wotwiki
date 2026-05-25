@@ -1,0 +1,20 @@
+{{character 
+| image=wheel-icon.svg
+| imagesize=100px
+| ewothist=Narasim Bhuran
+| status=Dead
+| nationality=Unknown nationality
+| rank=General
+| gender=Male
+| mentioned={{loc|26}}
+| lastmentioned={{loc|26}}
+}}'''Narasim Bhuran''' was a leader during the [[War of the Hundred Years]].{{ref|{{twotc}}, Narasim Bhuran}}
+
+==History==
+Bhuran was the last ruler with the spoken ambition to seize control of all the [[Westlands]] and restore [[Artur Hawkwing's Empire]], and launched his campaign during the last ten years of the war. Bhuran's campaign was a failure. He was defeated in battle and his head ended on a pike.
+
+It is possible that [[Andor]] played a role in his defeat.
+
+{{notes}}
+{{DEFAULTSORT:Bhuran, Narasim}}
+[[Category:Historical people]]

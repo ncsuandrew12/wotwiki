@@ -1,0 +1,15 @@
+{{character 
+| image=AndorFlag.png
+| imagesize=100px
+| nationality=Andoran
+| status=Alive
+| occupation=Lord
+| gender=Male
+| mentioned={{tgs|10}}
+| living=tgs
+}}
+'''Lord Finndal''' is an [[Andor]]an noble. He is married.
+==History==
+He was present at a banquet attended by [[Rodel Ituralde]] while [[Thom]] was still court bard in [[Caemlyn]]. Thom flirted with his wife, [[Lady Finndal]], at the end of one of his juggling tricks.
+[[Category:Nobility]]
+[[Category:Short pages]]

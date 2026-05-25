@@ -1,0 +1,20 @@
+{{character 
+| image=Hilt-icon-color.svg
+| imagesize=250px
+| nationality= Unknown nationality
+| title=Gaidin
+| gender=Male
+| status=Dead
+| death={{ne|984}}
+| occupation=Warder
+| mentioned={{loc|30}}
+| lastmentioned={{loc|30}}
+}}
+'''Anjen''' was [[Warder]] to [[Leane Sharif]]. 
+
+==History==
+He was Bonded in {{ne|977}}, a year after Leane was raised to the shawl. He died in {{ne|984}}.{{ref|{{twotc}}, Anjen}}
+
+Leane was so traumatized by his death that she never bonded another Warder. She cried every night for a month and it was fully a year before the hurting stopped.{{ref/book|6|30}}
+
+{{notes}}

@@ -1,0 +1,16 @@
+{{creature
+| image=wolf-icon-color.png
+| imagesize=100px
+| ewot=cold_water
+| type=wolves
+| animal=Wolf
+| status=Alive
+| gender=Male
+| appeared={{wh|2}}
+}}
+'''Cold Water''' is a leader of a pack of wolves.
+
+==Activities==
+Cold Water, along with [[Three Toes]], [[Twilight (wolf)|Twilight]] and [[Springhorn]] are contacted by [[Perrin Aybara]] in his search for his wife, [[Faile Bashere]]. They are unable to help.{{ref/book|9|2}}
+
+{{notes}}

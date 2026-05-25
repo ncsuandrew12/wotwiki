@@ -1,0 +1,8 @@
+{{Image
+| License            = Fairuse
+| ImageType1          = Miscellaneous
+| Description        = [[Trollocs]] and the recovery of the [[Horn of Valere]]
+| Source             = The cover for the ebook of ''[[The Great Hunt]]''.
+| Artist             = Kekai Kotaki
+}}
+[[Category:Featured images]]

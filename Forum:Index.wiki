@@ -1,0 +1,27 @@
+Welcome to the ''{{SITENAME}}'' forum! Come here to discuss about content in articles, getting help in editing and writing in wiki code, or just plain talking about The Wheel of Time universe.
+:''To see changes press this [{{fullurl:{{FULLPAGENAME}}|action=purge}} refresh] button
+<table class="forumlist" width="100%"><tr><th class="forum_title" align="left">Forum</th><th class="forum_edited" align="left">Last Edit</th><th class="forum_editor" align="left">Last Author</th></tr>
+<forum>
+namespace=Forum
+category=Forum:Forum:Illuminator's Guild
+title=Forum:Illuminator's Guild
+shownamespace=false
+addlasteditor=true
+</forum>
+<forum>
+namespace=Forum
+category=Forum:Forum:Hall of the Tower
+title=Forum:Hall of the Tower
+shownamespace=false
+addlasteditor=true
+</forum>
+<forum>
+namespace=Forum
+category=Forum:Forum:The Inn
+title=Forum:The Inn
+shownamespace=false
+addlasteditor=true
+</forum>
+</table>
+
+[[Category:Forums| ]]

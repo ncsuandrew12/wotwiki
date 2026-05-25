@@ -1,0 +1,16 @@
+{{ character 
+| image=CairhienFlag.png
+| imagesize=250px
+| nationality=Cairhienin
+| occupation=Cook
+| gender=Female
+| status=Alive
+| appeared={{Cot|p}}
+| lastappeared={{cot|p}}
+| living=cot
+}}
+'''Kasi''' is a cook in the [[Sun Palace]] in [[Cairhien]].
+
+==Activities==
+Mistress [[Beldair]] bellows orders around the kitchen when [[Sashalle Anderly]] and [[Samitsu Tamagowa]] visit the kitchens in the Sun Palace. Kasi is one of the cooks she gives orders to.
+{{short}}

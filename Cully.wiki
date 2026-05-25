@@ -1,0 +1,22 @@
+{{ character 
+| image=AltaraFlag.png
+| imagesize=250px
+| nationality=Altaran
+| status=Alive
+| affiliation=Darkfriend
+| gender=Male
+| build=Gnarled
+| mentioned={{Acos|15}}
+| lastmentioned={{acos|29}}
+| living=acos
+}}
+Old '''Cully''' is a beggar in [[Ebou Dar]] and a high-ranking [[Darkfriend]]. 
+
+== Appearance ==
+He is gnarled, has only one eye and no teeth. He only washes once a year.
+
+== Activities ==
+He sends a number of Darkfriends, who are pretending to be beggars, to attack [[Matrim Cauthon]].
+
+[[es:Dolo]]
+[[Category:Eyes-and-ears]]

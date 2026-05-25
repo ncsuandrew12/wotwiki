@@ -1,0 +1,92 @@
+{{character 
+| image= LelaineSedai.png
+| imagesize=250px
+| ewot=Lelaine
+| ajah=Blue
+| nationality=Kandori
+| gender=Female
+| affiliation=White Tower
+| rank=Aes Sedai
+| title=[[First Selector]]
+| occupation=Sitter
+| eyes=Dark, Penetrating
+| build=Slender
+| status=Alive
+| appeared={{ns|11}} 
+| lastappeared={{amol|37}}
+| living=amol
+}}
+'''Lelaine Akashi''' is an [[Aes Sedai]] of the [[Blue Ajah]]. She is currently [[First Selector]] of the Blue and one of its [[Sitter]]s in the [[Hall of the Tower]]. 
+
+== Appearance ==
+Lelaine is tall, slender and quite pretty, with a warm smile that transforms her face, although she does not smile often. She is dignified, has dark penetrating almond shaped eyes, and full lips. Despite her age her hair has not sign of gray.
+
+==Strength and Abilities==
+Lelaine is has a strength level of {{opsl|19}} in the One Power, putting her at the very [[Strength in the One Power among Aes Sedai|top tier]] of Aes Sedai in terms of strength.{{ref/book|8|9}}{{ref/book|8|11}}{{ref/book|8|23}}{{ref/book|10|2}} She was one of only four women mentioned by [[Cadsuane Melaidhrin]] in New Spring as being the on par with [[Moiraine Damodred]], and Cadsuane predicted that these five would be at the top of the hierarchy once she, [[Kerene Nagashi]] and [[Meilyn Arganya]] were dead. Within a year of this prediction, Lelaine would have been the strongest Aes Sedai in the Tower.
+
+Due to a number of deaths between New Spring and the end of [[A Memory of Light]], she is now the fourth strongest living Aes Sedai, behind [[Nynaeve al'Meara]], [[Elayne Trakand]] and [[Cadsuane Melaidhrin]] with a large gap between herself and Cadsuane.  
+
+==History==
+Lelaine is 173 years old. She was born in {{ne|827}} in Kandor and went to the White Tower in 844 [[NE]]. After spending five years as a [[novice]] and six years as [[Accepted]], she was raised to the shawl in {{ne|855}}. 
+
+She has been a Sitter in the Hall of the Tower for almost forty years, in fact she was elected Sitter in {{ne|962}}. She was one of the Blue Ajah Sitters who presented the shawl to Moiraine and Siuan when they first became Aes Sedai.
+Lelaine was a good friend of Siuan before she became Amyrlin.
+
+She has a single [[Warder]] named [[Burin Shaeren]]. She is what would have once been considered very strong in the [[One Power]] by Aes Sedai recent standard, being the equal of the likes of [[Moiraine Damodred]], [[Siuan Sanche]], [[Elaida|Elaida a'Roihan]] and [[Romanda Cassin]], the latter of whom she is engaged in a bitter rivalry with.
+
+In the Salidar Hall Lelaine was the second older Sitter after Romanda.
+
+==Activities==
+=== To Salidar ===
+She has allied herself with the [[Salidar Aes Sedai]]. 
+
+While in Salidar, she is seen by [[Nynaeve al'Meara]] watching over [[Logain]] as he speaks to nobles about being set up as a false dragon by the [[Red Ajah]]. She approaches Nynaeve later asking about [[Rand al'Thor]] and her attempts to [[Heal]] [[Stilling]].
+
+She is the leader of one of the factions within Salidar which contains [[Faiselle]], [[Takima]] and [[Lyrelle]]. She is not very fond of [[Romanda Cassin]] only voting for Egwene as [[Amyrlin]] so Romanda would not be Amyrlin. She still treats Egwene as a girl and thinks of her only as a figurehead.
+
+She hires a new maid for Egwene called [[Selame]].
+
+She travels with Egwene to meet with various nobles along the border of Andor, where she insists on speaking on Egwene's behalf. She is finally set down in her place by Egwene when Egwene forces the Hall to declare war on Elaida. 
+
+She votes "yes" in the [[Rebel Hall of the Tower]], this time for an alliance with the [[Black Tower]]. 
+She later seeks an audience with Egwene by herself. She uses Egwene's new advisor [[Maigan]], to sound off about the idea of using [[Compulsion]] through the bond, when the [[Asha'man]] from the [[Black Tower]] are made [[Warder]]s. Egwene states under no uncertain terms that Compulsion is not to be used.
+
+=== Egwene captured ===
+When Egwene is captured by [[Elaida's White Tower]] Aes Sedai, she approaches [[Siuan Sanche]] and orders her to support Lelaine if [[Egwene al'Vere]] is executed.
+
+She tells [[Nisao Dachen]] to stop her investigation on the deaths of both [[Kairen Stang]] and [[Anaiya]], citing that it is Blue Ajah business. 
+She calls an emergency meeting of the Hall, where [[Jahar Narishma]] arrives with the offer to bond forty-seven Asha'man. She votes "yes" to the offer and it is accepted.
+
+With Egwene missing, Lelaine begins to reach for more power, all the while pretending to be acting in Egwene's name. [[Ashmanaille]] comes to Lelaine with the news that [[Elaida a'Roihan's White Tower]] can now Travel. Lelaine lets this news slip in front of novices and then calls a meeting with the Hall about this news but refuses to have it Sealed to the Hall. Both instances are used to create panic and then a firm hand being forced to take control- Lelaine's hand.
+She is part of the group who question [[Shemerin]] about how she escaped the White Tower. She forbids [[Gawyn Trakand]] to make any rescue attempt on Egwene.
+She is one of the Sitters to re-swear the [[Three Oaths]] on the [[Oath Rod]] and prove that she is not [[Black Ajah]]. She is then part of the unanimous vote to attack the [[White Tower]] with their army. She later delivers the news to Egwene that all the dreaming ''[[ter'angreal]]'' were taken by [[Sheriam Bayanar]].
+She withdraws her support for Egwene when she finds out that [[Silviana Brehon]] has been raised to [[Keeper of the Chronicles]] instead of her.
+
+=== The Tower re-united ===
+Lelaine remains a Sitter when the Hall of the Tower is re-united after the [[White Tower Schism]]. She is present at Nynaeve's testing for the shawl, where she, along with [[Rubinde]] and [[Barasine]], refuses to accept Nynaeve as a full Aes Sedai, due to failing to uphold "proper decorum" and "Aes Sedai" calmness.
+
+The Sitters try to hold a secret meeting without Egwene, discussing ways to temper the Amyrlin's power when a declaration of war is called. Lelaine voted for a proposal that would allow only Egwene to deal with the monarchy of the world, which includes Rand as he is King of [[Illian]], while the Hall would take over prosecution of the war and deal with [[Gareth Bryne]]'s army. In that same meeting, Lelaine voted in favor of the new rules and procedures in the Hall, which included temporarily replacing a Sitter when she is absent from the Hall and that no meeting of the Hall can commence without all Sitters and the Amyrlin Seat being present.
+
+=== The Last Battle ===
+Lelaine is one of the five that Egwene takes with her to sign the [[Dragon's Peace]]. She is with Egwene, Romanda, and the other Aes Sedai when their position at [[Kandor]] is overrun by the [[Sharan]] army. Egwene orders the Aes Sedai to release the One Power, knowing that the Sharan channelers would be able to sense a woman who held the Power. Lelaine follows the order, thereby saving her life and enabling her escape. 
+
+Lelaine is again with Egwene when they realize [[Demandred]] has a ''sa'angreal'' that allows him to draw an immense amount of the Power. She is not mentioned again, but it is assumed she survived the [[Last Battle|Battle]].
+
+
+{{notes}}
+{{DEFAULTSORT:Akashi, Lelaine}}
+
+[[es:Lelaine Akashi]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]<references />
+{{DEFAULTSORT:Akashi, Lelaine}}
+
+[[es:Lelaine Akashi]]
+[[Category:Rebel Aes Sedai]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:POV character]]
+[[Category:Aes Sedai]]
+[[Category:Channelers]]

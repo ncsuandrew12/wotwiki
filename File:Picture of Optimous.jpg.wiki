@@ -1,0 +1,7 @@
+{{Image
+| License                 = Public Domain
+| ImageType1              = User
+| Description             = BRIEF DESCRIPTION / SUMMARY OF IMAGE
+| Source                  = http://www.facebook.com/AdamShick
+| Artist                  = 
+}}

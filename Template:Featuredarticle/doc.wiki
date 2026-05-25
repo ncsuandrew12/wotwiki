@@ -1,0 +1,23 @@
+==Purpose of template==
+Displays a featured article that changes every day.
+
+==How to use==
+<pre><nowiki>{{</nowiki>Featuredarticle|''page='''page'''<nowiki/>''<nowiki>}}</nowiki></pre>
+
+The '''''page''''' parameter is optional and specifies that the given page should be used instead of a random one. This is mainly useful for testing.
+
+Add {{t|Featuredicon}} to pages that should be featured.
+
+==Caveats==
+'''Warning''': Pages that use <code><nowiki>{{PAGENAME}}</nowiki></code> and other magic words as input to templates may render poorly.
+
+==Examples==
+<pre><nowiki>{{</nowiki>Featuredarticle|page=Min Farshaw<nowiki>}}</nowiki></pre>
+{{Featuredarticle|page=Min Farshaw}}
+
+<pre><nowiki>{{</nowiki>Featuredarticle<nowiki>}}</nowiki></pre>
+{{Featuredarticle}}
+
+
+<!-- This is an attempt to hide the footnotes section, but it may or may not work depending on the page being transcluded -->
+<div style="display:none;"><references /></div>

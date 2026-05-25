@@ -1,0 +1,9 @@
+NOTE: If you plan to edit this file, it is recommended that you download the [http://images2.wikia.nocookie.net/wot/images/archive/6/6a/20100129015439!Snake-icon.svg 08:46, January 27, 2010 file] since the spots are all separate shapes and can be moved around to your whim.
+{{Image
+| License            = fairuse
+| ImageType1          = Chapter Art
+| Description        = This is an .svg version of [[:Image:Snake-icon.png]], used with permission [http://linuxmafia.com/waygate/chapter-icons-permission].
+| Source                  = http://www.dragonmount.com/Books/chapter_icons.php
+| Artist                  = Matthew C. Nielsen
+}}
+[[Category:SVG Chapter Art]]

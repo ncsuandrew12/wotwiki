@@ -1,0 +1,19 @@
+{{ character 
+| image=Leaves.png
+| imagesize=200px
+| clan=Da'shain Aiel
+| gender=Male
+| status=Dead
+| appeared={{tsr|26}}
+| lastappeared={{tsr|26}}
+}}
+'''Coumin''' was a [[Da'shain]] [[Aiel]] who lived during the later years of the [[War of Power]] and the earlier days of the [[Breaking]]. His story is learned from Rand's [[Visions of Rhuidean|visions]] in the ter'angreal of Rhuidean.
+
+{{Ancestry/Rand}}
+
+==History==
+Coumin was the great-grandchild of [[Charn]], who had served Mierin Eronaile before she became [[Lanfear]]. Coumin was the father of [[Jonai]].  On the day of the Strike at [[Shayol Ghul]], Coumin participated in a Singing ceremony with [[Someshta]], [[Ogier]]s and other Aiel. Coumin went to meet Charn after the ceremony, and discovered that Charn has been murdered by people who resented him for his association with a Forsaken.{{ref/book|4|26}}
+
+{{notes}}
+[[Category:Historical people]]
+[[Category:Age of Legends (people)]]

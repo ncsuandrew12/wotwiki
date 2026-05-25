@@ -1,0 +1,59 @@
+{{character
+| image=Martyn Tallanvor.jpg
+| imagesize=250px
+| ewot=Tallanvor
+| affiliation=Perrin Aybara
+| occupation=Soldier
+| height=Tall
+| eyes=Dark
+| nationality=Andoran
+| gender=Male
+| status=Alive
+| birth={{ne|971}}
+| appeared={{teotw|40}}
+| lastappeared={{tom|44}}
+| living=tom
+}}
+{{quote|Once there was a soldier loved a queen from afar, knowing it was hopeless, knowing he could never dare speak.|Martyn Tallanvor to Morgase}}
+Lieutenant '''Martyn Tallanvor''' was one of the last [[Queen's Guard|Guardsmen]] of [[Caemlyn]] to keep perfect loyalty for the Queen [[Morgase Trakand]], after [[Gaebril]] managed to have a majority of the soldiers (at least those in the capital) loyal to himself only. 
+
+== Appearance ==
+He is tall and good looking, younger than Morgase but older than [[Galadedrid Damodred]]. He has dark eyes.
+
+== Activities ==
+=== Following Morgase ===
+Tallanvor finds [[Rand al'Thor]] in the [[Royal Palace of Andor]]'s gardens and escorts him to Queen Morgase.{{ref/book|1|40}} Later, similar events play out when he finds [[Matrim Cauthon]] in the Palace's gardens.{{ref/book|3|46}} There is a hint of Tallanvor's dislike for "Lord Gaebril" when Mat unwittingly says he is a loyal Lord Gaebril man, receiving a scowl from Tallanvor.
+
+Although perfectly loyal to Morgase he is not servile, and dares to question the Queen, especially asking why she waited so long before doing something against Gaebril's maneuvers.
+It is when Tallanvor brings up the rebellion in the [[Two Rivers]] that finally forces Morgase to start snapping out of her [[Compulsion]]. When Morgase decides to leave Caemlyn, she chooses him as escort. She then sees him as a "boy," "young enough to be [her] son," despite [[Lini]]'s objection, but she changes her view later.
+
+Tallanvor continues to argue with her and challenges her decision to go to [[Amadicia]] rather than somewhere else like [[Ghealdan]]. When [[Pedron Niall]] enters Morgase's chamber, Tallanvor had to be knocked unconscious before he would let anyone pass, showing his loyalty. He finally manages to escape with Morgase and the rest of her crew with the help of [[Sebban Balwer]].
+
+=== Oath to Perrin ===
+While traveling in Ghealdan he and his group are saved by [[Perrin Aybara]] when they are attacked by [[Masema Dagar|the Prophet]]'s men. They then join with Perrin's army and become attendants under [[Faile Bashere]]. He finally admits his love for Morgase while they are in Perrin's camp.
+
+When Morgase is captured by the [[Shaido]] [[Aiel]], he leaves camp to try and track her down without Perrin's permission.
+He is found by Balwer in [[So Habor]]. They bring him back to Perrin's camp, where he reports to Perrin about the possibility of a truce with the [[Seanchan]].
+
+=== Plan against the Shaido ===
+He escorts the Seanchan to the meeting with Perrin.
+He goes through the aqueduct to enter the town of [[Malden]] before Perrin begins his attack. 
+
+=== Love for Morgase ===
+Tallanvor's feelings for Morgase, at least at first, exemplify the medieval ideal of courtly love—an idealized love from afar. According to Lini, after he had been forced to swear the new oath to Gaebril, he privately swore to Morgase (not just the Queen of Andor in general, as would normally be the case) in the "old way." This involved cutting his arm with his sword as he swore allegiance to her. He was so distraught about having to revoke his oaths to Morgase that he wept and apologized to her repeatedly (she was not there, of course). 
+
+Of this incident, Lini said to Morgase: 
+
+'''“I know a thing or two of men, girl. That one will follow you against an army with nothing but his bare hands.”''' 
+
+As they travel together, his desire for her is obvious. Tallanvor never makes a move until after she abdicates the throne, however, and he admits his love and devotion when they are in Perrin's camp. (Morgase had believed him as too young for her, and was unwilling to begin an affair with one of her soldiers, but she eventually realizes that she is no longer a queen). Later, Faile suspects that they are sleeping together, but has no proof.
+
+While traveling from Malden, Perrin gathers both Morgase and Tallanvor and decides to marry them. Morgase doesn't take it very well and refuses the offer. Tallanvor, feeling rejected, storms off. Morgase later admits to Tallanvor that [[Rahvin]] was posing as Gaebril and was using [[Compulsion]] on her. Morgase asks for time to deal with it and for him to not leave the camp yet.
+Tallanvor and Morgase are married by Perrin before Perrin goes to meet [[Elayne Trakand]].
+
+{{Notes}}
+
+{{Primary Protagonists}}
+{{DEFAULTSORT:Tallanvor, Martyn}}
+[[es:Martyn Tallanvor]]
+[[Category:Queen's Guards]]

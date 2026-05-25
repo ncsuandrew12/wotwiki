@@ -1,0 +1,5 @@
+<includeonly>----<div class="notice metadata" id="disambig">[[Image:Disambig_gray.svg|30px|left]]''This [[Wikipedia:Wikipedia:disambiguation|disambiguation]] page lists articles associated with similar titles or subjects. If an [[Special:Whatlinkshere/{{NAMESPACE}}:{{PAGENAME}}|internal link]] led you here, you may wish to change the link to point directly to the intended article.''</div>
+----
+[[Category:Disambiguation|{{PAGENAME}}]]</includeonly><noinclude>{{Documentation}}
+[[Category:Linking templates|{{PAGENAME}}]][[Category:Disambiguation| {{PAGENAME}}| ]]
+</noinclude>

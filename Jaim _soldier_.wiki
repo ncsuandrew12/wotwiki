@@ -1,0 +1,24 @@
+{{character 
+| image=Wheel-icon.svg
+| imagesize=100px
+| ewot=Jaim
+| name=Jaim
+| status=Alive
+| nationality=Unknown nationality
+| occupation=Soldier
+| affiliation=Lan Mandragoran
+| gender=Male
+| hair=Gray
+| appeared={{ns|1}}
+| lastappeared={{ns|1}}
+| living=ns
+}}{{for|others with the name first name|Jaim}}
+'''Jaim''' was a soldier in [[Lan Mandragoran|Lan Mandragoran's]] army during the [[Aiel War]].{{ref|{{twotc}}, Jaim}}
+
+==Appearance==
+Jaim is an older man with a gray beard.
+
+==Activities==
+Along with [[Basram]], Jaim is caught by Lan sleeping while on guard duty. He is an older soldier and would be ashamed if his friends knew he had been caught sleeping while on guard.
+
+{{notes}}

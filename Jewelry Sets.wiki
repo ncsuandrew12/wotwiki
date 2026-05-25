@@ -1,0 +1,14 @@
+The '''jewelry sets''' are ''[[ter'angreal]]'' recovered from the [[Kin]]'s store room in [[Ebou Dar]].{{ref/book|8|4}}
+
+==Appearance==
+The sets consist of not precisely described pieces of jewelry, mainly earrings and medallions. 
+<!--Here's the passage: "finger rings, earrings, necklaces, bracelets and buckles, many of very peculiar pattern indeed. There were statuettes and figures of birds and animals and people, several knives that did have edges, half a dozen large medallions in bronze or steel, most worked with strange patterns and not one carrying an image Elayne could really understand, a pair of peculiar hats seemingly made of metal, too ornate and too thin to be helmets, and any number of items she could not think what to call." {{ref/book|8|4}}-->
+
+==Use==
+Following [[Aviendha]]'s description many of these ''ter'angreal'' can supposedly be used to speak to people over great distances, much like the [[black and white bird]] and [[blue woman]].{{ref/book|11|15}}
+
+{{notes}}
+{{short}}
+[[Category:Ter'angreal]]
+[[Category:Items of Power]]
+[[Category:Ebou Dari Stash]]

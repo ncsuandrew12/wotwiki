@@ -1,0 +1,18 @@
+{{character 
+| image=TarabonFlag.png
+| imagesize=250px
+| status=Dead
+| nationality=Taraboner
+| rank=Queen
+| title=Queen of Tarabon
+| affiliation=Artur Hawkwing
+| gender=Female
+| mentioned=[[RPG]]
+}}
+'''Tazenia Nerenhald''' was one a powerful noble in the [[Free Years]].
+
+==History==
+Tazenia Narenhald was one of three powerful nobles who seized control of [[Tanchico]] during the [[War of the Hundred Years]] and founded the kingdom of [[Tarabon]] around it. She served as the first Queen of Tarabon from {{Fy|1006}} onwards.
+
+{{DEFAULTSORT:Nerenhald, Tazenia}}
+[[Category:Historical people]]

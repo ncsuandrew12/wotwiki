@@ -1,0 +1,28 @@
+{{ character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Cairhienin
+| gender=Female
+| rank=Novice
+| affiliation=White Tower
+| build=Slim
+| height=Short
+| hair=Long, dark
+| status=Alive
+| appeared={{kod|24}}
+| lastappeared={{kod|24}}
+| living=kod
+}}
+'''Alvistere''' is a [[novice]] in the [[White Tower]].
+
+== Appearance ==
+She is short and slim with long dark hair. She has pale skin.
+
+== History ==
+She is from [[Cairhien]].
+
+== Activities ==
+She trips [[Egwene al'Vere]] up in the dining hall. Egwene rounds on her and embarrasses her.
+She tries to emulate Egwene's behavior in classes, and after a string of beatings from [[Silviana Brehon]] cuts it out.
+[[Category:Elaida a'Roihan's White Tower]]
+[[Category:Channelers]]

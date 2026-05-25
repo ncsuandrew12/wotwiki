@@ -1,0 +1,32 @@
+{{character
+| image=Flame-icon.svg
+| imagesize=250px
+| gender=Female
+| nationality=Unknown nationality
+| affiliation=White Tower
+| title=Amyrlin Seat
+| rank=Aes Sedai
+| ajah=No
+| status=Dead
+| mentioned={{bwb}}
+| lastmentioned={{bwb}}
+}}<!--Because there were no Ajahs when she was named Amyrlin, the "Unknown Ajah" is unnecessary-->
+'''Elisane Tishar''' was the very first [[Amyrlin Seat]] and is generally held responsible for the founding of the [[Aes Sedai]] in their modern (post-[[Breaking of the World|Breaking]]) form. Her achievements are numerous, and she is partially responsible for the choice of location for the Aes Sedai city and the decision to build the [[White Tower]].
+
+==History==
+Elisane Tishar is first mentioned in history in {{Ab|47}}, identified as the leader of twelve women representing an ''[[ajah]]'' (note the lowercase), a temporary grouping of female channelers named the Aes Sedai holding a common position in a debate. 
+
+The decision to unify their groups into a new organization  was taken at this meeting, with Elisane playing a major role. Over the next fifty years this organization ruthlessly tracked down any rival groups "claiming" to be Aes Sedai, forcing them to capitulate and join their organization or [[Severing|stilling]] them.
+
+By {{Ab|98}} Elisane Tishar is mentioned as holding the rank of Amyrlin Seat (as she had for several years by this point), advised by a council of seven women who may have been the founders of the seven Ajahs known today (although a separate [[Hall of the Tower]] is noted as also existing at this time). The construction of [[Tar Valon]] and the White Tower also began in this year.
+
+No record exists of how long Elisane served as Amyrlin or whether she ever formally chose one of the modern Ajahs to join after they were officially founded. To bring together and unify the Aes Sedai during the decades following the chaos of the Breaking, and to eliminate opposing groups as well as commission the construction of the greatest structure in the world and the largest city in the [[Westlands]] suggests a woman of formidable character.
+
+{{short}}
+{{DEFAULTSORT:Tishar, Elisane}}
+[[Category:Historical people]]
+[[Category:High Ranking Aes Sedai]]
+[[Category:Aes Sedai after the Breaking]]
+[[Category:Channelers]]
+[[Category:Character not mentioned in books]]
+[[Category:Aes Sedai]]

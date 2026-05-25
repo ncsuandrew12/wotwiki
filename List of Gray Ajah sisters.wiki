@@ -1,0 +1,609 @@
+The table below lists all known named members of the [[Gray Ajah]] together with information about each, mostly from [[The Wheel of Time Companion]]. It does not include the historical Amyrlins [[Dalaine Ndaye]], [[Medanor Eramandos]], [[Elise Strang]], [[Serenia Latar]], [[Cerilla Marodred]], [[Gerra Kishar]], [[Cemaile Sorenthaine]] and [[Parenia Demalle]] nor the historical figure [[Sevlana Meseau]] as we have little information other than their names and tenures. The legendary Gray sisters [[Mabriam en Shereed]] and the recent Amyrlin [[Sierin Vayu]] are included, however.
+
+'''Key to Columns'''
+
+*'''Nat''': Nationality.
+* '''Str''': Strength on the 72-level scale in the One Power.  > means strictly stronger than and < means strictly weaker than.
+*'''Nov''': Years spent as a novice.
+*'''Acc''': Years spent as Accepted.
+*'''Rank''': Strength on alternative scale with 1 being the strongest Aes Sedai in the White Tower at the beginning of the series. + after the number signifies the levels above this strength.
+*'''Age''': Age by the end of {{ne|1000}} or at time of death.
+*'''AS''': Years wearing the shawl.
+* '''Enr''': Age when entered into the novice book.
+*'''Stat''': Dead (D) or Alive (A), Captured (C). Unless proven otherwise, sisters are assumed to be alive by default.
+* '''Fact.''': Member of the [[Elaida a'Roihan's White Tower|Loyalist]] (L), or [[Rebel Aes Sedai|Rebel]] (R), or Unknown (U) or Neutral (N) faction of during the [[White Tower Schism]]. If blank, none of these apply.
+* '''DF''': Darkfriend Yes (Y) or No (N).
+*'''Bonds''': Warders or people they are bonded to or by.
+*'''Notes''': Any other important information.
+
+{| class="sortable fandom-table"
+|+
+!Name
+!Nat.
+!Str.
+!Nov.
+!Acc.
+!Rank
+!Age
+!AS
+!Enr.
+!Stat.
+!Fact.
+!DF
+!Bonds
+!Notes
+|-
+|[[Adrielle]]
+|Unknown
+|data-sort-value="99" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|C
+|L
+|N
+|[[Mezar Kurin]]
+|Part of the Black Tower force. Turned or dead.
+|-
+|[[Aisha Raveneos]]
+|Illianer
+|14
+|7
+|6
+|2
+|281
+|252
+|16
+|D
+| data-sort-value="zz" | -
+|N
+|1
+|Murdered by the Black Ajah in {{ne|979}}.
+|-
+|[[Akoure Vayet]]
+|Amadician
+|24
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|12
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|C
+|L
+|N
+|1 (Asha'man)
+|Part of the Black Tower force. Turned or dead.
+|-
+|[[Andaya Forae]]
+|Taraboner
+|24
+|10
+|10
+|12
+|99
+|62
+|17
+|A
+|L
+|N
+|
+|Sitter in the White Tower during and after split.
+|-
+|[[Angharad Juerissen]]
+|Unknown
+|data-sort-value="99" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|N
+|
+|Keeper of Chronicles to [[Sierin Vayu]]. Only mentioned in the  Companion
+|-
+|[[Annoura Larisen]]
+|Taraboner
+|33
+|12
+|10
+|21
+|162
+|124
+|16
+|A
+|U
+|N
+|None
+|Advisor to the First of Mayene. Burned herself out Travelling.
+|-
+|[[Ashmanaille]]
+|Unknown
+|22
+|11
+|10
+|10
+|98
+|61
+|16
+|R
+|N
+|A
+|
+|Can make cuendillar, if slowly.
+|-
+|[[Beonin Marinye]]
+|Taraboner
+|16
+|5
+|5
+|4
+|64
+|38
+|16
+|A
+|R
+|N
+|[[Tervail Dura]]
+|One of the Salidar Six, but in league with Elaida.
+|-
+|[[Berisha Terakuni]]
+|Arafellin
+|14-16
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|2-4
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|D
+|L
+|N
+|
+|Helps capture Egwene. Murdered by Aravine Carnel.
+|-
+|[[Coiren Saeldain]]
+|Unknown
+|18
+|9
+|6
+|6
+|139
+|108
+|16
+|A
+|L
+|N
+|
+|Head of Embassy from the White Tower. Captured at Dumai's  Wells.
+|-
+|[[Delana Mosalaine]]
+|Shienaran
+|18
+|5
+|5
+|6
+|50
+| data-sort-value="22a" |22
+|18
+|D
+|R
+|Y
+|None
+|Sitter in the Rebel Hall. Took orders from Aran'gar. Balefired  by Rand al'Thor
+|-
+|[[Elaiva Walfor]]
+|Andoran
+|19
+|10
+|8
+|7
+|194
+|160
+|16
+|
+|R
+|N
+|
+|Captured at Dumai's  Wells. Only mentioned in the Companion.
+|-
+|[[Evanellein Lorn]]
+|Andoran
+|20
+|7
+|6
+|8
+|145
+|115
+|17
+|D
+|L
+|Y
+|
+|Sitter in the White Tower. Killed by Egwene.
+|-
+|[[Guisin]]
+|Unknown
+|35
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|23
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|C
+|R
+|N
+|
+|Captured by the Seanchan and made damane.
+|-
+|[[Jarna Malari]]
+|Unknown
+|data-sort-value="99" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|223
+|190+
+| data-sort-value="zz" | -
+|D
+| data-sort-value="zz" | -
+|Y
+|
+|Former Head of the Black Ajah. Murdered by Ishamael in {{ne|983}}.
+|-
+|[[Jennet Cobb]]
+|Andoran
+|18
+|10
+|9
+|6
+|130
+|96
+|15
+|
+|R
+|N
+|
+|One of the ferrets. [[Basel Gill]] is a distant relative.
+|-
+|[[Joiya Byir]]
+|Andoran
+|28
+|9
+|11
+|16
+|171
+|135
+|16
+|D
+| data-sort-value="zz" | -
+|Y
+|None
+|One of Liandrin's 13. Murdered by Slayer in the Stone of Tear in {{ne|999}}.
+|-
+|[[Karale Sanghir]]
+|Domani
+|data-sort-value="99" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|D
+|L
+|Y
+|1 (suicided)
+|Revealed as Black Ajah by Atuan Larisett and sworn to obey the  Black Ajah hunters.
+|-
+|[[Kiyoshi]]
+|Unknown
+|data-sort-value="99" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|A
+|L
+|N
+|
+|
+|-
+|[[Kwamesa Taramasu]]
+|Arafellin
+|16
+|5
+|4
+|4
+|50
+|26
+|15
+|D
+|R
+|N
+|
+|Sitter in the Rebel Hall. Killed by Demandred.
+|-
+|[[Larelle Tarsi]]
+|Domani
+|14
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|2
+|247
+|220+
+| data-sort-value="zz" | -
+|D
+| data-sort-value="zz" | -
+|N
+|
+|Murdered by [[Merean Redhill]] in {{ne|979}}.
+|-
+|[[Mabriam en Shereed]]
+|[[Aramaelle]]
+|9
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|4+
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|D
+| data-sort-value="zz" | -
+|N
+|
+|Queen, ta'veren and architect of the [[Compact of the Ten Nations]].
+|-
+|[[Marya Somares]]
+|Tairen
+|data-sort-value="99" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|D
+| data-sort-value="zz" | -
+|N
+|
+|White Tower representative in the [[Grand Alliance]]. Killed by  the Black Ajah in {{ne|979}}.
+|-
+|[[Meidani Eschede]]
+|Arafellin
+|17
+|8
+|7
+|5
+|51
+|18
+|18
+|A
+|R
+|N
+|Leonin
+|One of the ferrets. Former pillow-friends with Elaida.
+|-
+|[[Melavaire Someinellin]]
+|Cairhienin
+|data-sort-value="99" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|150+
+|110+
+|
+|A
+|L
+|N
+|1
+|
+|-
+|[[Merana Ambrey]]
+|Andoran
+|17
+|5
+|6
+|5
+|111
+|82
+|18
+|A
+|R
+|N
+|[[Basan]] (<{{ne|978}})
+|Head of Embassy from the Rebel Aes Sedai. Knelt at Dumai's  Wells.
+|-
+|[[Merilille Ceandevin]]
+|Cairhienin
+| data-sort-value="22a" |22
+|13
+|12
+|10
+|173
+|130
+|18
+|A
+|R
+|N
+|
+|Embassador from Salidar to Queen Tylin. Fled with Talaan.
+|-
+|[[Naorisa Cambral]]
+|Unknown
+|data-sort-value="99" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|A
+|R
+|N
+|
+|Sitter in the Rebel Hall who replaced Delana. Unchaired after  unification.
+|-
+|[[Niande Moorwyn]]
+|Unknown
+|27
+|13
+|12
+|15
+|149
+|108
+|16
+|A
+|U
+|N
+|1
+|Advisor to King Galldrian of Cairhien. One of Cadsuane's  followers.
+|-
+|[[Nisain a'Cowel]]
+|Murandian
+|37
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|25
+|127
+|84-98
+| data-sort-value="zz" | -
+|A
+|R
+|N
+|
+|Expert in reading saidar weaves.
+|-
+|[[Serancha Colvine]]
+|Unknown
+|data-sort-value="99" | -
+|7
+|6
+| data-sort-value="zz" | -
+|165
+|137
+|15
+|A
+|L
+|N
+|
+|Head Clerk. Former Sitter.
+|-
+|[[Shahal Comanli]]
+|Domani
+|34
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|22
+|200
+|165-175
+| data-sort-value="zz" | -
+|A
+|U
+|N
+|
+|One of Cadsuane's followers in Cairhien. Only mentioned in the  Companion.
+|-
+|[[Sierin Vayu]]
+|Unknown
+|18
+|8
+|9
+|6
+|248
+|215
+|16
+|D
+| data-sort-value="zz" | -
+|N
+|None
+|Former Amyrlin Seat. Murdered by the Red Ajah.
+|-
+|[[Teire Alentaine]]
+|Unknown
+|32
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+|20
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| data-sort-value="zz" | -
+| A
+|L
+|N
+| 
+|Escaped Dumai's Wells.<ref name=Dorlan>All the sisters that escaped Dumai's Wells and were sent to Dorlan are equal to or weaker than [[Covarla Baldene]], who is strength {{opsl|27}}.</ref>
+|-
+|[[Temaile Kinderode]]
+|Cairhienin
+|17
+|10
+|9
+|5
+|57
+|21
+|17
+|D
+| data-sort-value="zz" | -
+|Y
+|None
+|One of Liandrin's 13. Stabbed and killed by Doilin Mellar.
+|-
+|[[Tiana Noselle]]
+|Unknown
+|19
+|6
+|6
+|7
+|63
+|35
+|16
+|A
+|R
+|N
+|None
+|Mistress of Novices among the Rebel Aes Sedai.
+|-
+|[[Varilin Zanaire]]
+|Saldaean
+|26
+|7
+|6
+|14
+|169
+|139
+|17
+|A
+|R
+|N
+|
+|Sitter in the White Tower and Rebel Halls.
+|-
+|[[Yukiri Haruna]]
+|No nation
+|14
+|8
+|7
+|2
+|163
+|133
+|15
+|A
+|L
+|N
+|None
+|Sitter in the White Tower. Black Ajah Hunter.
+|}
+{{#invoke:Characters|get_characters_wikitable|ajah=gray|suppress_verify=true|columns=Name;Darkfriend;Homeland;Spark;Wilder;Traits;Notes}}
+{{notes}}
+[[Category:List pages]]
+[[Category:Gray Ajah]]

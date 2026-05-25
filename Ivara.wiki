@@ -1,0 +1,30 @@
+{{character 
+| image=NoviceIcon.png
+| imagesize=250px
+| nationality=Tairen
+| gender=Female
+| occupation=Goldsmith
+| rank=Elder
+| affiliation=The Kin
+| status=Alive
+| appeared={{acos|31}}
+| lastapppeared={{tpod|3}}
+| living=tpod
+|birth = {{ne|664}}}}'''Ivara''' is a [[Kin]] elder and a member of the [[Knitting Circle]] in [[Ebou Dar]].{{ref|{{twotc}}, Ivara}} She is a goldsmith.
+
+== Appearance ==
+She is dark and looks [[Tairen]]. She has plump hands and white in her hair.
+
+== Activities ==
+Her Saidar strength is {{opsl|45}}, strong enough to become Aes Sedai. She went to the in {{ne|680}} and spent twelve years as a [[novice]]. However, she refused her test for [[Accepted]] three times, and was put out of the [[White Tower]].
+
+She is in a meeting with the rest of the Knitting Circle when [[Elayne Trakand]] and the rest of her group arrive, looking for the [[Bowl of the Winds]].
+
+She traveled firstly to the [[farm]] and later to [[Andor]] with the majority of Kinswomen in Ebou Dar.
+
+{{notes}}
+{{short}}
+[[Category:Farm Group]]
+[[Category:Short pages]]
+[[Category:Channelers]]
+[[Category:Novices]]

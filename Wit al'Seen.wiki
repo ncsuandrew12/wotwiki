@@ -1,0 +1,27 @@
+{{ character 
+| image=AndorFlag.png
+| imagesize=250px
+| ewot=wit alseen
+| nationality=Andoran
+| affiliation=Two Rivers
+| gender=Male
+| build=Stocky
+| hair=Bald
+| status=Alive
+| appeared= {{tsr|32}}
+| lastappeared={{tsr|56}}
+| living=tsr
+}}
+{{Dablink|For the other [[Two Rivers]] resident, see [[Wit Congar]]. For others with the same surname, see [[al'Seen]].}}
+'''Wit al'Seen''' is a farmer from the [[Two Rivers]].{{ref|{{twotc}}, Wit al'Seen|WS}} He is [[Jac al'Seen|Jac al'Seen's]] cousin.{{ref||WS}}
+
+== Appearance ==
+He stocky, square-shouldered, and is bald.
+
+== Activities ==
+He helps defend [[Emond's Field]] against the invading [[Trolloc]] army.{{ref/book|4|56}}
+
+{{notes}} 
+
+{{DEFAULTSORT:Al'Seen, Wit}} <!---Please leave the "a" capitalized for category sorting purposes. --->
+[[Category:Short pages]]
