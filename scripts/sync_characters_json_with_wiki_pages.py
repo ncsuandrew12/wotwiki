@@ -44,6 +44,7 @@ class SyncCharactersJsonWithWikiPages(Command):
         parser = argparse.ArgumentParser(
             description="Sync characters JSON with wiki pages."
         )
+        # TODO Move common wiki-editing args (save-changes, etc) to a common location instead of duplicating in all scripts.
         parser.add_argument(
             "--character-json",
             action="store",
@@ -67,7 +68,7 @@ class SyncCharactersJsonWithWikiPages(Command):
         parser.add_argument(
             "--change-summary-prefix",
             action="store",
-            default="bot character json-to-wiki sync",
+            default="(bot) json-to-wiki sync.",
             help="Prefix to use for change summaries when saving changes.")
         parser.add_argument(
             "--discard-queue",
@@ -77,10 +78,10 @@ class SyncCharactersJsonWithWikiPages(Command):
         return parser
     
     def run_command(self):
-        q = json.load(open("/home/andrewf/w/wotwiki/scratch/wiki/Module:Quotes/quotes.json", "r"))
-        q["tags"] = dict(sorted(q["tags"].items()))
-        with open("/home/andrewf/w/wotwiki/scratch/wiki/Module:Quotes/quotes_sorted.json", "w") as f:
-            json.dump(q, f, indent=4)
+        # q = json.load(open("/home/andrewf/w/wotwiki/scratch/wiki/Module:Quotes/quotes.json", "r"))
+        # q["tags"] = dict(sorted(q["tags"].items()))
+        # with open("/home/andrewf/w/wotwiki/scratch/wiki/Module:Quotes/quotes_sorted.json", "w") as f:
+        #     json.dump(q, f, indent=4)
         try:
             self.site = None
             self.preloaded_pages = None
@@ -138,6 +139,33 @@ class SyncCharactersJsonWithWikiPages(Command):
         # s = re.sub(r"_+", "_", s)
         return s
 
+    def get_scalar_or_epon_dict_value(self, obj, key):
+        if key not in obj:
+            return None
+        elif type(obj[key]) == dict:
+            if key in obj[key]:
+                return obj[key][key]
+            raise Exception(f"Missing nested key {key}: {obj[key]} for object {obj}")
+        return obj[key]
+
+    def get_field_refs(self, obj, key):
+        if key not in obj or type(obj[key]) != dict:
+            return None
+        if "refs" in obj[key]:
+            return obj[key]["refs"]
+        return None
+    
+    def override_template_param(self, page, mod, template, param, param_name, jsonval, jsonval_norm):
+        val = param.value.strip()
+        if val != jsonval_norm:
+            if val and len(val) > 0:
+                log.warning(f"{param_name} mismatch on page '{page.title()}': JSON {param_name} is '{jsonval}' -> '{jsonval_norm}' but wiki page has '{val}'.")
+            if jsonval_norm is not None:
+                mod.summary.append(f"[{param.name}]")
+                template.set_arg(param.name, f"{jsonval_norm}\n")
+            return True
+        return False
+
     def create_queue(self):
         mod_queue = []
         still_dirty = []
@@ -157,8 +185,8 @@ class SyncCharactersJsonWithWikiPages(Command):
                         (self.parsed_args.verbosity == Verbosity.NORMAL) and print("")
                         self.print_n(f"{page_cnt:5d}/{len(chars)} characters processed. {len(queued_pages):5d} queued. {pages_noperm:5d} skipped due to perms. {len(failed_pages):5d} pages produced errors.", end="", flush=True)
                     first_status_log = False
-                name = chars[char].get("name") or char
-                page = chars[char].get("page") or char or name
+                name = self.get_scalar_or_epon_dict_value(chars[char], "name") or char
+                page = self.get_scalar_or_epon_dict_value(chars[char], "page") or char or name
                 if page is None:
                     failed_pages.append(str(char))
                     raise Exception("Character '{}' does not have a name or page field in the JSON.".format(char))
@@ -171,7 +199,7 @@ class SyncCharactersJsonWithWikiPages(Command):
                         attempts = 3
                         while attempts > 0:
                             try:
-                                page.get(get_redirect=True)
+                                page.get(force=True, get_redirect=True)
                                 attempts = 0
                             except KeyboardInterrupt as e:
                                 log.warning("KeyboardInterrupt received.", exc_info=True)
@@ -180,26 +208,97 @@ class SyncCharactersJsonWithWikiPages(Command):
                     except NoPageError as e:
                         missing_pages.append(page.title())
                         raise
+                    changed = False
                     pre_text = page.text
                     mod = PageMod(page_id, urllib.parse.unquote(page.title()), [self.parsed_args.change_summary_prefix])
                     parsed = wtp.parse(page.text)
+                    char_templ = None
                     for template in parsed.templates:
+                        log.debug(f"Processing template '{template.name}' on page '{page.title()}'")
                         if template.name.strip().lower() == "character":
-                            name = chars[char].get("name")
-                            if name:
-                                for param in template.arguments:
-                                    param_name = param.name.strip().lower()
-                                    if param_name == "name":
-                                        name = re.sub(r"\s*\(.*$", "", name).strip()
-                                        val = param.value.strip()
-                                        if val and len(val) > 0 and val != name:
-                                            log.warning(f"Name mismatch for character '{char}' on page '{page.title()}': JSON name is '{name}' but wiki page has '{val}'.")
-                                        param.value = name
-                                # elif param_name == "aliases":
-                                #     param.value = chars[char].get("aliases") or ""
-                                # elif param_name == "description":
-                                #     param.value = chars[char].get("description") or ""
-                    # TODO update page
+                            char_templ = template
+                    # TODO: Add character template if it's missing.
+                    if char_templ == None:
+                        raise Exception(f"Character template not found on page '{page.title()}'.")
+                    black_ajah = None
+                    ajah = self.get_scalar_or_epon_dict_value(chars[char], "ajah")
+                    darkfriend = self.get_scalar_or_epon_dict_value(chars[char], "darkfriend")
+                    name = self.get_scalar_or_epon_dict_value(chars[char], "name")
+                    copy_fields = [ "darkfriend" ]
+                    if darkfriend == True and ajah != None and len(ajah) > 0:
+                        black_ajah = True
+                    if name:
+                        targs = {}
+                        for param in char_templ.arguments:
+                            param_name = param.name.strip().lower()
+                            if param_name in targs:
+                                raise Exception(f"Duplicate parameter '{param.name}' -> '{param_name}' in template {template.name} on page {page.title()}")
+                            log.debug(f"Processing parameter '{param.name}' -> '{param_name}' in template {template.name} on page {page.title()}")
+                            targs[param_name] = param
+                        # self.print_n(f"page '{page}': changed: {changed}")
+                        if "affiliation" in targs:
+                            if black_ajah == True and name != "Verin Mathwin":
+                                changed = self.override_template_param(page, mod, char_templ, targs["affiliation"], "affiliation", None, "Black Ajah") or changed
+                        else:
+                            if ajah is not None and len(ajah) > 0 and darkfriend == True:
+                                log.info(f"Adding affiliation for character '{char}' on page '{page.title()}': 'Black Ajah'.")
+                                mod.summary.append("[ajah (black)]")
+                                char_templ.set_arg("affiliation", "Black Ajah\n")
+                                changed = True
+                        # self.print_n(f"page '{page}': changed: {changed}")
+                        if "ajah" in targs:
+                            changed = self.override_template_param(page, mod, char_templ, targs["ajah"], "ajah", ajah, ajah) or changed
+                        else:
+                            if ajah is not None and len(ajah) > 0:
+                                log.info(f"Adding ajah for character '{char}' on page '{page.title()}': '{ajah}'.")
+                                mod.summary.append(f"[ajah]")
+                                char_templ.set_arg("ajah", f"{ajah}\n")
+                                changed = True
+                        if "name" in targs:
+                            name = re.sub(r"\s*\(.*$", "", name)
+                            changed = self.override_template_param(page, mod, char_templ, targs["name"], "name", name, name) or changed
+                        else:
+                            pass
+                            # if name is not None and len(name) > 0:
+                            #     log.info(f"Adding name for character '{char}' on page '{page.title()}': '{name}'.")
+                            #     mod.summary.append(f"[name]")
+                            #     char_templ.set_arg("name", f"{name}\n")
+                            #     changed = True
+                        # self.print_n(f"page '{page}': changed: {changed}")
+                        for cf in copy_fields:
+                            val = self.get_scalar_or_epon_dict_value(chars[char], cf)
+                            if cf in targs:
+                                changed = self.override_template_param(page, mod, char_templ, targs[cf], cf, val, val) or changed
+                            else:
+                                log.info(f"Adding {cf} for character '{char}' on page '{page.title()}': '{val}'.")
+                                mod.summary.append(f"[{cf}]")
+                                char_templ.set_arg(f"{cf}", f"{val}\n")
+                                changed = True
+                            refs = self.get_field_refs(chars[char], cf)
+                            ref_wt = None
+                            if refs is not None:
+                                for r in refs:
+                                    if ref_wt == None:
+                                        ref_wt = ""
+                                    ref_wt += f"{{{{ref|{r['book']}|{r['chapter']}}}}}"
+                            rkey = f"{cf}_refs"
+                            if rkey in targs:
+                                changed = self.override_template_param(page, mod, char_templ, targs[rkey], rkey, ref_wt, ref_wt) or changed
+                            else:
+                                if ref_wt is not None:
+                                    log.info(f"Adding references for character '{char}' on page '{page.title()}': '{rkey}': '{ref_wt}'.")
+                                    mod.summary.append(f"[{rkey}]")
+                                    char_templ.set_arg(f"{rkey}", f"{ref_wt}\n")
+                                    changed = True
+                        # self.print_n(f"page '{page}': changed: {changed}")
+
+                        # elif param_name == "aliases":
+                        #     param.value = chars[char].get("aliases") or ""
+                        # elif param_name == "description":
+                        #     param.value = chars[char].get("description") or ""
+                    if (changed == True):
+                        # self.print_n(f"Setting text for page '{page.title()}'")
+                        page.text = str(parsed)
                     if pre_text != page.text:
                         mod_path = f"{mod_queue_dir_path}/{self.sanitize_str_for_filename(mod.title)}"
                         os.makedirs(mod_queue_dir_path, exist_ok=True)
@@ -257,6 +356,7 @@ class SyncCharactersJsonWithWikiPages(Command):
                     failed_pages.append(page.title())
                 page_cnt = page_cnt + 1
         if len(mod_queue) > 0:
+            os.makedirs(mod_queue_dir_path, exist_ok=True)
             with open(mod_queue_json_path, "w") as f:
                 json.dump([mod.to_dict() for mod in mod_queue], f, indent=2, sort_keys=True)
         log.warning(f"Failed pages: {failed_pages}")
