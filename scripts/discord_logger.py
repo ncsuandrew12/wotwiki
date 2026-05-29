@@ -2,26 +2,17 @@ import logging
 import pywikibot
 import re
 import wikitextparser
-from discord_botter import DiscordBotter
-
-botter = DiscordBotter()
+from discord_botter import botter
 
 class DiscordLogger():
     botter = None
-    channelId = None
     channel = None
 
-    def __init__(self, channelId):
+    def __init__(self, channel):
         self.botter = botter
-        self.channelId = channelId
+        self.channel = channel
 
     def send_message(self, message):
-        if not self.botter.ready:
-            errorCode = self.botter.run()
-            if errorCode != 0:
-                raise Exception(f"Error starting Discord bot: {errorCode}")
-        if not self.channel:
-            self.channel = self.botter.bot.get_channel(self.channelId)
         self.botter.bot.send_message(self.channel, f"{message}")
 
 class DiscordTextChannelHandler(logging.Handler):
@@ -31,12 +22,12 @@ class DiscordTextChannelHandler(logging.Handler):
     """
     messenger = None
 
-    def __init__(self, channelId):
+    def __init__(self, channel):
         """
         Initialize the handler. Setup the bot and get the target channel.
         """
         logging.Handler.__init__(self)
-        self.messenger = DiscordLogger(channelId)
+        self.messenger = DiscordLogger(channel)
 
     def emit(self, record):
         """

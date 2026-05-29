@@ -1,9 +1,5 @@
 import inspect
 import json
-import re
-# import log_utils
-
-# log = log_utils.get_logger(f"{os.path.basename(__file__)}")
 
 class PageMod():
     def __init__(self, id, page=None, title=None, summary=None):
