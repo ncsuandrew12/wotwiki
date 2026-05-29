@@ -1,0 +1,3 @@
+[submodule "modules/wotwiki-secret"]
+	path = modules/wotwiki-secret
+	url = git@github.com:wotwiki/wotwiki-secret.git
