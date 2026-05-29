@@ -17,7 +17,7 @@ import discord_bot
 from discord_bot import DiscordBotManager
 from command import Command, Verbosity, run_command
 from log_utils import logger as log
-from utils import Ticker
+from ticker import Ticker
 
 language = "en"
 mod_queue_dir_path = pathlib.Path.home() / ".wotwiki" / "mod_queue"

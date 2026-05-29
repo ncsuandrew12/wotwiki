@@ -5,10 +5,10 @@ import os
 import sys
 import re
 import time
-from command import Command, Progresser, Verbosity, run_command
+from command import Command, run_command
 from log_utils import logger as log
 from pathlib import Path
-from utils import Ticker
+from ticker import Ticker
 
 class ConvertOtDictToWiki(Command):
 
@@ -30,7 +30,7 @@ class ConvertOtDictToWiki(Command):
         parser.add_argument(
             "--in-json",
             action="store",
-            default="../wotwiki/source material/companion-old-tongue.json",
+            default="../wotwiki/source-material/companion-old-tongue.json",
             help="Path to the input JSON file.")
         parser.add_argument(
             "--out-json",

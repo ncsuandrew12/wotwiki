@@ -2,7 +2,7 @@ import argparse
 import json
 import sys
 import re
-from command import Command, Progresser,  run_command
+from command import Command, CommandProgresser,  run_command
 from log_utils import logger as log
 from pathlib import Path
 
@@ -18,12 +18,12 @@ class ConvertOtDictToWiki(Command):
         parser.add_argument(
             "--input-file",
             action="store",
-            default="../wotwiki/source material/companion-old-tongue.md",
+            default="../wotwiki/source-material/companion-old-tongue.md",
             help="Path to the input Markdown file containing the Old Tongue dictionary.")
         parser.add_argument(
             "--out-json",
             action="store",
-            default="../wotwiki/source material/companion-old-tongue.json",
+            default="../wotwiki/source-material/companion-old-tongue.json",
             help="Path to the output JSON file.")
         parser.add_argument(
             "--overwrite-out-json",
@@ -137,7 +137,7 @@ class ConvertOtDictToWiki(Command):
         self.print_n("Processing word lines", end="", flush=True)
         entries = {}
         sub_entry = None
-        progresser = Progresser(self, period=1)
+        progresser = CommandProgresser(self, period=1)
         with open(self.parsed_args.input_file, "r") as input_f:
             for line in input_f:
                 line = line.strip()

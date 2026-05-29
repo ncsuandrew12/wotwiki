@@ -6,8 +6,9 @@ import re
 # log = log_utils.get_logger(f"{os.path.basename(__file__)}")
 
 class PageMod():
-    def __init__(self, id, title, summary=None):
+    def __init__(self, id, page=None, title=None, summary=None):
         self.id = id
+        self.page = page
         self.title = title
         self.summary = summary or []
     
@@ -15,14 +16,17 @@ class PageMod():
         """Convert PageMod object to dictionary for JSON serialization."""
         return {
             'id': self.id,
-            'title': self.title,
+            'title': self.get_title() or None,
             'summary': self.summary
         }
-    
+
+    def get_title(self):
+        return self.page and self.page.title() or self.title
+
     @classmethod
     def from_dict(cls, data):
         """Create PageMod object from dictionary (for JSON deserialization)."""
-        return cls(data['id'], data['title'], data['summary'])
+        return cls(data['id'], None, data['title'], data['summary'])
     
     def to_json(self):
         """Convert PageMod object to JSON string."""

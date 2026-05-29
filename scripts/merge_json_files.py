@@ -2,7 +2,7 @@ import argparse
 import json
 import sys
 import re
-from command import Command, Progresser, Verbosity, run_command
+from command import Command, CommandProgresser, Verbosity, run_command
 from log_utils import logger as log
 from pathlib import Path
 
@@ -32,7 +32,7 @@ class ConvertTsvCharactersToJson(Command):
             raise Exception(f"{self.parsed_args.output_file} already exists, refusing to overwrite.");
         d = {}
         log.info(f"Loading input files {self.parsed_args.input_file}")
-        progressor = Progresser(self)
+        progressor = CommandProgresser(self)
         for input_file in self.parsed_args.input_file:
             progressor.tick()
             input = json.load(open(input_file, "r"))
