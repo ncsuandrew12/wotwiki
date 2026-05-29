@@ -5,8 +5,8 @@
 #('Androlf', BotPassword('androlf-bot', 'putThePasswordHere'))
 
 import argparse
-import discord
 import json
+import logging
 import os
 import pathlib
 import pywikibot
@@ -17,13 +17,12 @@ import urllib.parse
 from pathlib import Path
 from pywikibot import pagegenerators
 
-import discord_bot
 import utils
-from discord_bot import DiscordBotManager
 from command import Command, Verbosity, run_command
+from discord_logger import DH1, DWP
 from log_utils import logger as log
 from page_mod import PageMod, PageModifier
-from utils import Ticker
+from ticker import Ticker
 
 language = "en"
 mod_queue_dir_path = pathlib.Path.home() / ".wotwiki" / "mod_queue"
@@ -212,31 +211,20 @@ class Patrol(Command):
         try:
             self.site = None
             self.preloaded_pages = None
-            intro_log = f"Running page cleanup for {wiki_name} wiki."
+            intro_log = DH1(f"Running page cleanup for {wiki_name} wiki.")
             log.info(intro_log)
             self.process_args()
-            no_save_log = None
-            if not self.parsed_args.save_changes:
-                no_save_log = f"self.parsed_args.save_changes is {self.parsed_args.save_changes}, this run {self.parsed_args.save_changes and 'MAY' or 'WILL NOT'} save changes to the wiki!"
-                log.warning(no_save_log)
+            log.log(self.parsed_args.save_changes and logging.INFO or logging.WARNING,
+                "self.parsed_args.save_changes is %s, this run %s save changes to the wiki!",
+                self.parsed_args.save_changes,
+                self.parsed_args.save_changes and "MAY" or "WILL NOT")
             # Set the pywikibot directory to be one level up on the active file path which gives it visibility of the local user-config, password file and families.
             os.environ["PYWIKIBOT_DIR"] = os.path.abspath("../")
             # print("env: " + os.environ["PYWIKIBOT_DIR"])
             # wiki_name comes from variables above, i.e. domo.fandom.com this wiki_name variable would be "domo"
             self.site = pywikibot.Site("en", wiki_name)
             self.site.login()
-            namespace=0
-            login_log = f"Logged into wiki {wiki_name} successfully!."
-            self.print_n(login_log)
-            self.bot = DiscordBotManager([discord_bot.__file__]) # TODO: Pass along verbosity args
-            rc = run_command(self.bot)
-            if rc != 0:
-                exit(rc)
-            self.log_channel = self.bot.bot.get_channel(1489504714386309150)
-            self.bot.bot.send_message(self.log_channel, f"# {intro_log}")
-            self.bot.bot.send_message(self.log_channel, login_log)
-            if no_save_log:
-                self.bot.bot.send_message(self.log_channel, no_save_log)
+            self.print_n(f"Logged into wiki {wiki_name} successfully!.")
             if Path(mod_queue_dir_path).is_dir() and self.parsed_args.discard_queue:
                 self.print_n(f"Discarding modification queue at {mod_queue_dir_path}.")
                 shutil.rmtree(mod_queue_dir_path)
@@ -245,16 +233,9 @@ class Patrol(Command):
             if Path(mod_queue_dir_path).is_dir():
                 self.process_queue()
         except Exception as e:
-            log.error(e)
-            if self.bot and self.log_channel:
-                self.bot.bot.send_message(self.log_channel, f"Error during patrol: {e}")
+            log.error(e, exc_info=True)
             raise
         return 0
-
-    def print(self, verbosity, msg, end="\n", flush=False):
-        if Command.print(self, verbosity, msg, end=end, flush=flush):
-            if self.bot and self.log_channel:
-                self.bot.bot.send_message(self.log_channel, f"`{msg}`")
 
     def process_args(self):
         log.debug("Processing arguments.")
@@ -306,7 +287,7 @@ class Patrol(Command):
                     try:
                         page.get(get_redirect=True)
                         pre_text = page.text
-                        mod = PageMod(page_id, urllib.parse.unquote(page.title()), [self.parsed_args.change_summary_prefix])
+                        mod = PageMod(page_id, page=page, summary=[self.parsed_args.change_summary_prefix])
                         for modifier in spelling_re_modifiers:
                             premod_text = page.text
                             page.text = re.sub(modifier[1], modifier[2], page.text, 0, flags = modifier[3])
@@ -331,7 +312,7 @@ class Patrol(Command):
                                 log.debug(f"Applied modifier to page '{page.title()}': {modifier}.")
                                 mod.summary.append(modifier.summary)
                         if pre_text != page.text:
-                            mod_path = f"{mod_queue_dir_path}/{self.sanitize_str_for_filename(mod.title)}"
+                            mod_path = f"{mod_queue_dir_path}/{self.sanitize_str_for_filename(mod.get_title())}"
                             os.makedirs(mod_queue_dir_path, exist_ok=True)
                             pre_path = f"{mod_path}/pre.wiki"
                             post_path = f"{mod_path}/post.wiki"
@@ -359,37 +340,33 @@ class Patrol(Command):
                                     deduped_summary.append(line)
                             mod.summary = " ".join(deduped_summary)
                             if (page.botMayEdit()):
-                                log_msg = f"Page '{page.title()}' needs update; queuing. Summary: {mod.summary}"
-                                log.info(log_msg)
-                                self.bot.bot.send_message(self.log_channel, log_msg)
+                                log.info("Page %s needs update; queuing. Summary: %r", page, mod.summary)
                                 mod_queue.append(mod)
-                                queued_pages.append(mod.title)
+                                queued_pages.append(mod.get_title())
                                 page_id += 1
                                 with open(f"{mod_path}/changes.patch", "w") as changes_file:
                                     changes_file.write(subp.stdout)
                                     changes_file.write("\n")
                             else:
                                 page.text = pre_text
-                                log.warning(f"Page '{page.title()}' needs update but bot is not allowed to edit it. Summary: {mod.summary}")
+                                log.warning("Page %s needs update but bot is not allowed to edit it. Summary: %r", page, mod.summary)
                                 self.bot.bot.send_message(self.log_channel, f"Page '{page.title()}' needs update but bot is not allowed to edit it. Summary: {mod.summary}")
                                 pages_noperm += 1
                         match = re.search(r"\/\/wot\.(fandom|wikia)", page.text, re.IGNORECASE | re.MULTILINE)
                         if (match):
-                            log.warning(f"Page '{page.title()}' seems to contain a hard-coded wotwiki link even after cleanup: {match}:   \"{page.text[max(0, match.start()-20):min(len(page.text), match.end()+20)]}\"")
+                            log.warning("Page %s seems to contain a hard-coded wotwiki link even after cleanup: %s:   %r", page, match, page.text[max(0, match.start()-20):min(len(page.text), match.end()+20)])
                             still_dirty.append(page.title())
                     except Exception as e:
-                        err_log = f"Error processing page '{page.title()}':"
-                        log.error(err_log, exc_info=True)
-                        if self.bot and self.log_channel:
-                            self.bot.bot.send_message(self.log_channel, f"{err_log} {e}")
+                        log.error("Error processing page %s: %s", page, e, exc_info=True)
                         failed_pages.append(page.title())
                     page_cnt = page_cnt + 1
         if len(mod_queue) > 0:
             with open(mod_queue_json_path, "w") as f:
                 json.dump([mod.to_dict() for mod in mod_queue], f, indent=2, sort_keys=True)
         log.info(f"Pages that will still contain hard-coded wotwiki links after changes are applied: {still_dirty}")
-        log.warning(f"Failed pages: {failed_pages}")
         log.debug(f"Failed pages: {failed_pages}")
+        if failed_pages and len(faile_pages) > 0:
+            log.warning(f"Failed pages: {failed_pages}")
         log.info(f"Queued pages: {queued_pages}")
         self.print_n(f"{page_cnt} pages read. {len(queued_pages)} queued. {pages_noperm} skipped due to perms. {len(failed_pages)} pages produced errors.")
 
@@ -410,19 +387,20 @@ class Patrol(Command):
             mod_queue = json.load(f)
         for mod_dict in mod_queue:
             mod = PageMod.from_dict(mod_dict)
-            log.info(f"Processing {mod.title} {mod.title}")
-            page = pywikibot.Page(self.site, mod.title)
+            mod_dwp = DWP(mod.get_title())
+            log.info("Processing %s", mod_dwp)
+            page = pywikibot.Page(self.site, mod.get_title())
             page.get(force=True, get_redirect=True)
-            pre_path = f"{mod_queue_dir_path}/{mod.title}/pre.wiki"
-            post_path = f"{mod_queue_dir_path}/{mod.title}/post.wiki"
+            pre_path = f"{mod_queue_dir_path}/{mod.get_title()}/pre.wiki"
+            post_path = f"{mod_queue_dir_path}/{mod.get_title()}/post.wiki"
             pre_text = None
             post_text = None
             try:
                 with open(pre_path, "r") as f:
                     pre_text = f.read()
                 if page.text != pre_text:
-                    log.warning(f"Page text has changed since queue creation for '{mod.title}', skipping modification.")
-                    shifted_pages.append(mod.title)
+                    log.warning("Page text has changed since queue creation for %s, skipping modification.", mod_dwp)
+                    shifted_pages.append(mod.get_title())
                     os.remove(pre_path)
                     os.remove(post_path)
                     continue
@@ -430,27 +408,21 @@ class Patrol(Command):
                     post_text = f.read()
                 page.text = post_text
                 try:
-                    log.info(f"Saving {mod.title} with summary: {mod.summary}")
+                    log.info("Saving %s with summary: %s", mod_dwp, mod.summary)
                     if (self.parsed_args.save_changes):
                         page.save(summary=mod.summary, bot=True, minor=True)
-                        post_page = pywikibot.Page(self.site, mod.title)
+                        post_page = pywikibot.Page(self.site, mod.get_title())
                         if post_page.text != post_text:
-                            raise Exception(f"Post-save text does not match expected text for '{mod.title}' following supposedly successful save.")
+                            raise Exception(f"Post-save text does not match expected text for '{mod.get_title()}' following supposedly successful save.")
                         os.remove(pre_path)
                         os.remove(post_path)
                         pages_saved += 1
                 except Exception as e:
-                    err_log = f"Error saving page '{mod.title}'"
-                    log.error(err_log, exc_info=True)
-                    if self.bot and self.log_channel:
-                        self.bot.bot.send_message(self.log_channel, f"{err_log} {e}")
-                    failed_pages.append(mod.title)
+                    log.error("Error saving page %s: %s", mod_dwp, e, exc_info=True)
+                    failed_pages.append(mod.get_title())
             except Exception as e:
-                err_log = f"Error processing page '{mod.title}'"
-                log.error(err_log, exc_info=True)
-                if self.bot and self.log_channel:
-                    self.bot.bot.send_message(self.log_channel, f"{err_log} {e}")
-                failed_pages.append(mod.title)
+                log.error("Error processing page %s: %s", mod_dwp, e, exc_info=True)
+                failed_pages.append(mod.get_title())
         if len(shifted_pages) > 0:
             log.warning(f"The following pages were skipped due to text changes since queue creation: {shifted_pages}")
             json.dump(shifted_pages, open(f"{mod_queue_dir_path}/shifted_pages.json", "w"), indent=2, sort_keys=True)

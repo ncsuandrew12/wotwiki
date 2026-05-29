@@ -13,9 +13,8 @@ import re
 import sys
 from pywikibot import pagegenerators
 
-import discord_bot
-from discord_bot import DiscordBotManager
 from command import Command, Verbosity, run_command
+from discord_logger import DH1
 from log_utils import logger as log
 from ticker import Ticker
 
@@ -28,8 +27,6 @@ class DownloadWiki(Command):
 
     def __init__(self, args):
         Command.__init__(self, args)
-        self.bot = None
-        self.log_channel = None
 
     def create_arg_parser(self):
         parser = argparse.ArgumentParser(
@@ -99,7 +96,7 @@ class DownloadWiki(Command):
         try:
             self.site = None
             self.preloaded_pages = None
-            intro_log = f"Running downloader for {wiki_name} wiki."
+            intro_log = DH1(f"Running downloader for {wiki_name} wiki.")
             log.info(intro_log)
             self.process_args()
             # Set the pywikibot directory to be one level up on the active file path which gives it visibility of the local user-config, password file and families.
@@ -108,13 +105,6 @@ class DownloadWiki(Command):
             self.site.login()
             login_log = f"Logged into wiki {wiki_name} successfully!"
             self.print_n(login_log)
-            self.bot = DiscordBotManager([discord_bot.__file__]) # TODO: Pass along verbosity args
-            rc = run_command(self.bot)
-            if rc != 0:
-                exit(rc)
-            self.log_channel = self.bot.bot.get_channel(1489504714386309150) # TODO hard-coded channel id
-            self.bot.bot.send_message(self.log_channel, f"# {intro_log}")
-            self.bot.bot.send_message(self.log_channel, login_log)
             page_cnt = 0
             failed_pages = []
             ticker = Ticker(10)
@@ -152,7 +142,7 @@ class DownloadWiki(Command):
                         first_status_log = False
                         sleep(ticker.period - 5)
                     (self.parsed_args.verbosity == Verbosity.NORMAL) and print(".", end="", flush=True)
-                    log.debug("Processing page: %s", page.title())
+                    log.debug("Processing page: %s", page)
                     try:
                         page.get(get_redirect=True)
                         os.makedirs(mod_queue_dir_path, exist_ok=True)
@@ -173,24 +163,15 @@ class DownloadWiki(Command):
                     except Exception as e:
                         err_log = f"Error processing page '{page.title()}':"
                         log.error(err_log, exc_info=True)
-                        if self.bot and self.log_channel:
-                            self.bot.bot.send_message(self.log_channel, f"{err_log} {e}")
                         failed_pages.append(page.title())
                     page_cnt = page_cnt + 1
-                log.warning(f"Failed pages: {failed_pages}")
+                log.warning("Failed pages: %r", failed_pages)
                 (self.parsed_args.verbosity == Verbosity.NORMAL) and print("")
                 self.print_n(f"{page_cnt} pages read. {len(failed_pages)} pages produced errors.")
         except Exception as e:
-            log.error(e)
-            if self.bot and self.log_channel:
-                self.bot.bot.send_message(self.log_channel, f"Error during mass download: {e}")
+            log.error(e, exc_info=True)
             raise
         return 0
-
-    def print(self, verbosity, msg, end="\n", flush=False):
-        if Command.print(self, verbosity, msg, end=end, flush=flush):
-            if self.bot and self.log_channel:
-                self.bot.bot.send_message(self.log_channel, f"`{msg}`")
 
     def process_args(self):
         log.debug("Processing arguments.")
