@@ -48,6 +48,11 @@ class SyncCharactersJsonWithWikiPages(Command):
             default="./wiki/Module:Characters/characters.json",
             help="Path to the characters JSON file.")
         parser.add_argument(
+            "--character-json-remaining",
+            action="store",
+            default="./wiki/Module:Characters/characters-remaining.json",
+            help="Path to the remaining characters JSON file.")
+        parser.add_argument(
             "--save-changes",
             action="store_true",
             default=False,
@@ -150,7 +155,6 @@ class SyncCharactersJsonWithWikiPages(Command):
 
     def create_queue(self):
         mod_queue = []
-        still_dirty = []
         page_cnt = 0
         page_id = 1
         pages_noperm = 0
@@ -210,10 +214,11 @@ class SyncCharactersJsonWithWikiPages(Command):
                         raise Exception(f"Character template not found on page '{page.title()}'.")
                     black_ajah = None
                     ajahs = self.get_val_or_epon_dict_value(chars[char], "ajahs")
-                    if ajahs is None:
-                        ajah = self.get_val_or_epon_dict_value(chars[char], "ajah")
-                        if ajah is not None:
-                            ajahs = [ ajah ]
+                    ajah = self.get_val_or_epon_dict_value(chars[char], "ajah")
+                    if ajahs is None and ajah is not None:
+                        ajahs = []
+                    if ajah is not None:
+                        ajahs.append(ajah)
                     has_ajah = False
                     for idx, ajah in enumerate(ajahs or []):
                         if ajah == "NA":
@@ -221,7 +226,16 @@ class SyncCharactersJsonWithWikiPages(Command):
                         elif ajah is not None and len(ajah) > 0:
                             has_ajah = True
                     darkfriend = self.get_val_or_epon_dict_value(chars[char], "darkfriend")
-                    copy_fields = [ "darkfriend" ]
+                    copy_fields = [
+                        "male",
+                        "female",
+                        "darkfriend",
+                        "age_enrolled_novice",
+                        "novice_years",
+                        "accepted_years",
+                        "aes_sedai_years",
+                        "wt_schism_faction"
+                    ]
                     if darkfriend == True and has_ajah:
                         black_ajah = True
                     targ_idxs = {}
@@ -290,6 +304,7 @@ class SyncCharactersJsonWithWikiPages(Command):
                                     mod.summary.append(f"[{rkey}]")
                                     parsed.templates[char_templ_idx].set_arg(f"{rkey}", f"{ref_wt}\n")
                                     changed = True
+                            del chars[char][cf]
                     if (changed == True):
                         # self.print_n(f"Setting text for page '{page.title()}'")
                         page.text = str(parsed)
@@ -334,6 +349,9 @@ class SyncCharactersJsonWithWikiPages(Command):
                             page.text = pre_text
                             log.warning("Page %s needs update but bot is not allowed to edit it. Summary: %s", page, mod.summary)
                             pages_noperm += 1
+                    for key in ["ajah", "ajahs"]:
+                        if key in chars[char]:
+                            del chars[char][key]
                 except Exception as e:
                     exc_info = True
                     err_log = f"Error processing page '{page.title()}':"
@@ -349,6 +367,8 @@ class SyncCharactersJsonWithWikiPages(Command):
             os.makedirs(mod_queue_dir_path, exist_ok=True)
             with open(mod_queue_json_path, "w") as f:
                 json.dump([mod.to_dict() for mod in mod_queue], f, indent=2, sort_keys=True)
+        with open(self.parsed_args.character_json_remaining, "w") as f:
+            json.dump(chars, f, indent=2, sort_keys=True)
         log.debug("Failed pages: %s", failed_pages)
         if failed_pages and len(failed_pages) > 0:
             log.warning("Failed pages: %s", failed_pages)
