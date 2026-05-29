@@ -1,11 +1,10 @@
 import asyncio
-import json
-import os
-import pathlib
-from progresser import Progresser
 import threading
+
 from discord_bot import DiscordBot
+from progresser import Progresser
 from thread_safe_dict import ThreadSafeDict
+from wotwiki_cfg import secrets_json
 
 class DiscordBotter():
     ready = False
@@ -34,9 +33,6 @@ class DiscordBotter():
         return 0
 
     def run_bot_thread(self):
-        cfg_path = os.getenv("WOTWIKI_DISCORD_CFG_PATH", pathlib.Path.home() / ".wotwiki-dev-bot" / "secret.json")
-        with open(cfg_path, "r") as f:
-            secret_json = json.load(f)
-        self.bot.run(secret_json['token'])
+        self.bot.run(secrets_json['discord-token'])
 
 botter = DiscordBotter()

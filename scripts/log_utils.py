@@ -7,6 +7,7 @@ import sys
 
 from discord_botter import botter
 from discord_logger import DWP, DiscordTextChannelHandler
+from wotwiki_cfg import cfg_json
 
 class Filter(logging.Filter):
     def filter(self, record):
@@ -51,7 +52,6 @@ class DiscordFormatter(Formatter):
 
 def setup_logger(logger, discordChannelId=None):
     global formatter
-    global fileFormatter
     global stdoutHandler
     global stderrHandler
     global discordStdFormatter
@@ -103,4 +103,4 @@ stdoutHandler.setFormatter(formatter)
 stdoutHandler.setLevel(logging.WARNING)
 stdoutHandler.addFilter(MaxLogLevelFilter(logging.WARNING))
 logger = logging.getLogger("wotwiki")
-setup_logger(logger, discordChannelId=1509746366090444800) #1508840949885829302
+setup_logger(logger, discordChannelId=cfg_json["discord_log_channel_id"] or None)
