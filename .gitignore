@@ -212,3 +212,6 @@ apicache/
 
 # Files created by pywikibot
 *throttle.ctrl
+
+# Files created by converter scripts
+source-material/adobe-pdfservices/
